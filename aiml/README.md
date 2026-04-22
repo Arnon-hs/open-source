@@ -2,7 +2,7 @@
 
 > Machine learning, LLMs, AI agents, and data science
 
-**72 projects** in this category.
+**69 projects** in this category.
 
 ## Projects
 
@@ -23,63 +23,60 @@
 | 13 | [apache/airflow](./apache-airflow.md) | ⭐ 45.1k | Python | 100/100 |
 | 14 | [MetaMask/metamask-extension](./metamask-metamask-extension.md) | ⭐ 13.1k | TypeScript | 100/100 |
 | 15 | [thanos-io/thanos](./thanos-io-thanos.md) | ⭐ 14k | Go | 100/100 |
-| 16 | [LizardByte/Sunshine](./lizardbyte-sunshine.md) | ⭐ 36.3k | C++ | 100/100 |
-| 17 | [JetBrains/kotlin](./jetbrains-kotlin.md) | ⭐ 52.6k | Kotlin | 100/100 |
-| 18 | [NousResearch/hermes-agent](./nousresearch-hermes-agent.md) | ⭐ 110.4k | Python | 100/100 |
-| 19 | [open-metadata/OpenMetadata](./open-metadata-openmetadata.md) | ⭐ 12.1k | TypeScript | 100/100 |
-| 20 | [web-platform-tests/wpt](./web-platform-tests-wpt.md) | ⭐ 5.9k | HTML | 100/100 |
-| 21 | [h2oai/h2o-3](./h2oai-h2o-3.md) | ⭐ 7.5k | Jupyter Notebook | 100/100 |
-| 22 | [catboost/catboost](./catboost-catboost.md) | ⭐ 8.9k | C++ | 100/100 |
-| 23 | [tailwindlabs/tailwindcss](./tailwindlabs-tailwindcss.md) | ⭐ 94.7k | TypeScript | 99/100 |
-| 24 | [karakeep-app/karakeep](./karakeep-app-karakeep.md) | ⭐ 24.8k | TypeScript | 99/100 |
-| 25 | [stamparm/maltrail](./stamparm-maltrail.md) | ⭐ 8.4k | Python | 99/100 |
-| 26 | [XRPLF/rippled](./xrplf-rippled.md) | ⭐ 5.1k | C++ | 99/100 |
-| 27 | [vespa-engine/vespa](./vespa-engine-vespa.md) | ⭐ 6.9k | Java | 96/100 |
-| 28 | [heygen-com/hyperframes](./heygen-com-hyperframes.md) | ⭐ 9.2k | TypeScript | 96/100 |
-| 29 | [risingwavelabs/risingwave](./risingwavelabs-risingwave.md) | ⭐ 8.9k | Rust | 96/100 |
-| 30 | [spring-projects/spring-ai](./spring-projects-spring-ai.md) | ⭐ 8.5k | Java | 95/100 |
-| 31 | [ProtonMail/WebClients](./protonmail-webclients.md) | ⭐ 5.4k | TypeScript | 95/100 |
-| 32 | [longhorn/longhorn](./longhorn-longhorn.md) | ⭐ 7.7k | Shell | 94/100 |
-| 33 | [keycloak/keycloak](./keycloak-keycloak.md) | ⭐ 34k | Java | 94/100 |
-| 34 | [ydb-platform/ydb](./ydb-platform-ydb.md) | ⭐ 4.7k | C++ | 94/100 |
-| 35 | [Uniswap/interface](./uniswap-interface.md) | ⭐ 5.5k | TypeScript | 94/100 |
-| 36 | [ubicloud/ubicloud](./ubicloud-ubicloud.md) | ⭐ 12k | Ruby | 93/100 |
-| 37 | [podman-desktop/podman-desktop](./podman-desktop-podman-desktop.md) | ⭐ 7.5k | TypeScript | 93/100 |
-| 38 | [vllm-project/vllm-omni](./vllm-project-vllm-omni.md) | ⭐ 4.4k | Python | 93/100 |
-| 39 | [cloudquery/cloudquery](./cloudquery-cloudquery.md) | ⭐ 6.4k | Go | 93/100 |
-| 40 | [baserow/baserow](./baserow-baserow.md) | ⭐ 4.7k | Python | 92/100 |
-| 41 | [llvm/llvm-project](./llvm-llvm-project.md) | ⭐ 38k | LLVM | 90/100 |
-| 42 | [DataDog/datadog-agent](./datadog-datadog-agent.md) | ⭐ 3.6k | Go | 90/100 |
-| 43 | [errbit/errbit](./errbit-errbit.md) | ⭐ 4.3k | Ruby | 90/100 |
-| 44 | [ai-dynamo/dynamo](./ai-dynamo-dynamo.md) | ⭐ 6.6k | Rust | 90/100 |
-| 45 | [osaurus-ai/osaurus](./osaurus-ai-osaurus.md) | ⭐ 5.1k | Swift | 89/100 |
-| 46 | [corda/corda](./corda-corda.md) | ⭐ 4.1k | Kotlin | 88/100 |
-| 47 | [generalaction/emdash](./generalaction-emdash.md) | ⭐ 4k | TypeScript | 84/100 |
-| 48 | [linux-test-project/ltp](./linux-test-project-ltp.md) | ⭐ 2.5k | C | 83/100 |
-| 49 | [Ed1s0nZ/CyberStrikeAI](./ed1s0nz-cyberstrikeai.md) | ⭐ 3.4k | Go | 82/100 |
-| 50 | [mayocream/koharu](./mayocream-koharu.md) | ⭐ 3.9k | Rust | 80/100 |
-| 51 | [mdn/translated-content](./mdn-translated-content.md) | ⭐ 2k | Markdown | 76/100 |
-| 52 | [ScoopInstaller/Main](./scoopinstaller-main.md) | ⭐ 1.8k | PowerShell | 72/100 |
-| 53 | [ax-llm/ax](./ax-llm-ax.md) | ⭐ 2.6k | TypeScript | 71/100 |
-| 54 | [meltano/meltano](./meltano-meltano.md) | ⭐ 2.5k | Python | 71/100 |
-| 55 | [24pullrequests/24pullrequests](./24pullrequests-24pullrequests.md) | ⭐ 1.7k | Ruby | 69/100 |
-| 56 | [zaproxy/zap-extensions](./zaproxy-zap-extensions.md) | ⭐ 923 | HTML | 68/100 |
-| 57 | [coderaiser/cloudcmd](./coderaiser-cloudcmd.md) | ⭐ 2k | JavaScript | 68/100 |
-| 58 | [outsourc-e/hermes-workspace](./outsourc-e-hermes-workspace.md) | ⭐ 2.1k | TypeScript | 67/100 |
-| 59 | [Mentra-Community/MentraOS](./mentra-community-mentraos.md) | ⭐ 1.9k | C | 67/100 |
-| 60 | [MCPJam/inspector](./mcpjam-inspector.md) | ⭐ 1.9k | TypeScript | 66/100 |
-| 61 | [PostHog/posthog.com](./posthog-posthog.com.md) | ⭐ 998 | TypeScript | 66/100 |
-| 62 | [MetaMask/eth-phishing-detect](./metamask-eth-phishing-detect.md) | ⭐ 1.3k | TypeScript | 64/100 |
-| 63 | [rustmailer/bichon](./rustmailer-bichon.md) | ⭐ 1.6k | TypeScript | 62/100 |
-| 64 | [RedPlanetHQ/core](./redplanethq-core.md) | ⭐ 1.5k | TypeScript | 62/100 |
-| 65 | [noir-lang/noir](./noir-lang-noir.md) | ⭐ 1.3k | Rust | 61/100 |
-| 66 | [theopenconversationkit/tock](./theopenconversationkit-tock.md) | ⭐ 605 | Kotlin | 57/100 |
-| 67 | [MyEMS/myems](./myems-myems.md) | ⭐ 641 | Python | 57/100 |
-| 68 | [kuestcom/prediction-market](./kuestcom-prediction-market.md) | ⭐ 315 | TypeScript | 57/100 |
-| 69 | [jasp-stats/jasp-desktop](./jasp-stats-jasp-desktop.md) | ⭐ 951 | C++ | 56/100 |
-| 70 | [VoidenHQ/voiden](./voidenhq-voiden.md) | ⭐ 796 | TypeScript | 56/100 |
-| 71 | [Lifailon/rudocs](./lifailon-rudocs.md) | ⭐ 591 | PowerShell | 55/100 |
-| 72 | [FrancescoXX/rustcrab](./francescoxx-rustcrab.md) | ⭐ 502 | Rust | 55/100 |
+| 16 | [h2oai/h2o-3](./h2oai-h2o-3.md) | ⭐ 7.5k | Jupyter Notebook | 100/100 |
+| 17 | [ray-project/ray](./ray-project-ray.md) | ⭐ 42.3k | Python | 100/100 |
+| 18 | [tailwindlabs/tailwindcss](./tailwindlabs-tailwindcss.md) | ⭐ 94.7k | TypeScript | 99/100 |
+| 19 | [karakeep-app/karakeep](./karakeep-app-karakeep.md) | ⭐ 24.8k | TypeScript | 99/100 |
+| 20 | [stamparm/maltrail](./stamparm-maltrail.md) | ⭐ 8.4k | Python | 99/100 |
+| 21 | [XRPLF/rippled](./xrplf-rippled.md) | ⭐ 5.1k | C++ | 99/100 |
+| 22 | [vespa-engine/vespa](./vespa-engine-vespa.md) | ⭐ 6.9k | Java | 96/100 |
+| 23 | [spring-projects/spring-ai](./spring-projects-spring-ai.md) | ⭐ 8.5k | Java | 95/100 |
+| 24 | [ProtonMail/WebClients](./protonmail-webclients.md) | ⭐ 5.4k | TypeScript | 95/100 |
+| 25 | [longhorn/longhorn](./longhorn-longhorn.md) | ⭐ 7.7k | Shell | 94/100 |
+| 26 | [keycloak/keycloak](./keycloak-keycloak.md) | ⭐ 34k | Java | 94/100 |
+| 27 | [ubicloud/ubicloud](./ubicloud-ubicloud.md) | ⭐ 12k | Ruby | 93/100 |
+| 28 | [podman-desktop/podman-desktop](./podman-desktop-podman-desktop.md) | ⭐ 7.5k | TypeScript | 93/100 |
+| 29 | [vllm-project/vllm-omni](./vllm-project-vllm-omni.md) | ⭐ 4.4k | Python | 93/100 |
+| 30 | [cloudquery/cloudquery](./cloudquery-cloudquery.md) | ⭐ 6.4k | Go | 93/100 |
+| 31 | [ggml-org/llama.cpp](./ggml-org-llama.cpp.md) | ⭐ 105.8k | C++ | 91/100 |
+| 32 | [llvm/llvm-project](./llvm-llvm-project.md) | ⭐ 38k | LLVM | 90/100 |
+| 33 | [DataDog/datadog-agent](./datadog-datadog-agent.md) | ⭐ 3.6k | Go | 90/100 |
+| 34 | [errbit/errbit](./errbit-errbit.md) | ⭐ 4.3k | Ruby | 90/100 |
+| 35 | [civitai/civitai](./civitai-civitai.md) | ⭐ 7.1k | TypeScript | 90/100 |
+| 36 | [kubernetes/website](./kubernetes-website.md) | ⭐ 5.2k | HTML | 90/100 |
+| 37 | [ai-dynamo/dynamo](./ai-dynamo-dynamo.md) | ⭐ 6.6k | Rust | 90/100 |
+| 38 | [osaurus-ai/osaurus](./osaurus-ai-osaurus.md) | ⭐ 5.1k | Swift | 89/100 |
+| 39 | [corda/corda](./corda-corda.md) | ⭐ 4.1k | Kotlin | 88/100 |
+| 40 | [kepano/defuddle](./kepano-defuddle.md) | ⭐ 7k | TypeScript | 86/100 |
+| 41 | [generalaction/emdash](./generalaction-emdash.md) | ⭐ 4k | TypeScript | 84/100 |
+| 42 | [linux-test-project/ltp](./linux-test-project-ltp.md) | ⭐ 2.5k | C | 83/100 |
+| 43 | [Ed1s0nZ/CyberStrikeAI](./ed1s0nz-cyberstrikeai.md) | ⭐ 3.4k | Go | 82/100 |
+| 44 | [mdn/translated-content](./mdn-translated-content.md) | ⭐ 2k | Markdown | 76/100 |
+| 45 | [thunderbird/thunderbolt](./thunderbird-thunderbolt.md) | ⭐ 3.7k | TypeScript | 75/100 |
+| 46 | [gohugo-ananke/theme](./gohugo-ananke-theme.md) | ⭐ 1.4k | HTML | 75/100 |
+| 47 | [quic/aimet](./quic-aimet.md) | ⭐ 2.6k | Python | 75/100 |
+| 48 | [ScoopInstaller/Main](./scoopinstaller-main.md) | ⭐ 1.8k | PowerShell | 72/100 |
+| 49 | [ax-llm/ax](./ax-llm-ax.md) | ⭐ 2.6k | TypeScript | 71/100 |
+| 50 | [meltano/meltano](./meltano-meltano.md) | ⭐ 2.5k | Python | 71/100 |
+| 51 | [24pullrequests/24pullrequests](./24pullrequests-24pullrequests.md) | ⭐ 1.7k | Ruby | 69/100 |
+| 52 | [zaproxy/zap-extensions](./zaproxy-zap-extensions.md) | ⭐ 923 | HTML | 68/100 |
+| 53 | [coderaiser/cloudcmd](./coderaiser-cloudcmd.md) | ⭐ 2k | JavaScript | 68/100 |
+| 54 | [MCPJam/inspector](./mcpjam-inspector.md) | ⭐ 1.9k | TypeScript | 66/100 |
+| 55 | [MetaMask/eth-phishing-detect](./metamask-eth-phishing-detect.md) | ⭐ 1.3k | TypeScript | 64/100 |
+| 56 | [google/adk-docs](./google-adk-docs.md) | ⭐ 1.3k | Shell | 64/100 |
+| 57 | [rustmailer/bichon](./rustmailer-bichon.md) | ⭐ 1.6k | TypeScript | 62/100 |
+| 58 | [GoogleCloudPlatform/PerfKitBenchmarker](./googlecloudplatform-perfkitbenchmarker.md) | ⭐ 2k | Python | 62/100 |
+| 59 | [noir-lang/noir](./noir-lang-noir.md) | ⭐ 1.3k | Rust | 61/100 |
+| 60 | [PatWie/CppNumericalSolvers](./patwie-cppnumericalsolvers.md) | ⭐ 962 | C++ | 60/100 |
+| 61 | [cdxgen/cdxgen](./cdxgen-cdxgen.md) | ⭐ 951 | JavaScript | 60/100 |
+| 62 | [angular-schule/angular-cli-ghpages](./angular-schule-angular-cli-ghpages.md) | ⭐ 982 | TypeScript | 58/100 |
+| 63 | [theopenconversationkit/tock](./theopenconversationkit-tock.md) | ⭐ 605 | Kotlin | 57/100 |
+| 64 | [MyEMS/myems](./myems-myems.md) | ⭐ 641 | Python | 57/100 |
+| 65 | [kuestcom/prediction-market](./kuestcom-prediction-market.md) | ⭐ 315 | TypeScript | 57/100 |
+| 66 | [jasp-stats/jasp-desktop](./jasp-stats-jasp-desktop.md) | ⭐ 951 | C++ | 56/100 |
+| 67 | [VoidenHQ/voiden](./voidenhq-voiden.md) | ⭐ 796 | TypeScript | 56/100 |
+| 68 | [Lifailon/rudocs](./lifailon-rudocs.md) | ⭐ 591 | PowerShell | 55/100 |
+| 69 | [FrancescoXX/rustcrab](./francescoxx-rustcrab.md) | ⭐ 502 | Rust | 55/100 |
 
 ---
 

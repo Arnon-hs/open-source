@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.3k | Clojure | 100/100 |
+| 1 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 560 | Rust | 55/100 |
 
 ---
 
