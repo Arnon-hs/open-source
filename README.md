@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **120** |
+| 🗂️ **Total projects** | **160** |
 | 📁 **Categories** | **10** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,13 +18,13 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 52 | [Browse →](./aiml/) |
-| 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 68 | [Browse →](./aiml/) |
+| 📦 **Misc** | 33 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 20 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 12 | [Browse →](./backend/) |
+| 📊 **Data** | 11 | [Browse →](./data/) |
+| 📱 **Mobile** | 10 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 3 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
 | 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |

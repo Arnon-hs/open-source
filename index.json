@@ -1433,6 +1433,405 @@
     "summaryEn": "firstcontributions/first-contributions is a promising open-source project. Categories: Misc. Interest score: 100/100."
   },
   {
+    "externalId": "1864194",
+    "source": "github",
+    "url": "https://github.com/frappe/frappe",
+    "owner": "frappe",
+    "name": "frappe",
+    "title": "frappe/frappe",
+    "description": "Low code web framework for real world applications, in Python and Javascript",
+    "stars": 9971,
+    "forks": 4856,
+    "language": "Python",
+    "topics": [
+      "cms",
+      "email",
+      "erpnext",
+      "frappe",
+      "full-stack",
+      "javascript",
+      "low-code",
+      "mariadb",
+      "multitenant",
+      "postgres",
+      "python",
+      "rest-api",
+      "security",
+      "socket-io",
+      "web-framework",
+      "webhooks"
+    ],
+    "createdAt": "2011-06-08T08:14:16Z",
+    "updatedAt": "2026-04-22T18:23:13Z",
+    "id": "frappe/frappe",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Backend",
+      "Security"
+    ],
+    "status": "active",
+    "summaryRu": "frappe/frappe: перспективный open-source проект. Категории: AI/ML, Backend, Security. Интересность: 100/100.",
+    "summaryEn": "frappe/frappe is a promising open-source project. Categories: AI/ML, Backend, Security. Interest score: 100/100."
+  },
+  {
+    "externalId": "839037098",
+    "source": "github",
+    "url": "https://github.com/mastra-ai/mastra",
+    "owner": "mastra-ai",
+    "name": "mastra",
+    "title": "mastra-ai/mastra",
+    "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
+    "stars": 23224,
+    "forks": 1938,
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "ai",
+      "chatbots",
+      "evals",
+      "javascript",
+      "llm",
+      "mcp",
+      "nextjs",
+      "nodejs",
+      "reactjs",
+      "tts",
+      "typescript",
+      "workflows"
+    ],
+    "createdAt": "2024-08-06T20:44:31Z",
+    "updatedAt": "2026-04-22T18:22:56Z",
+    "id": "mastra-ai/mastra",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "mastra-ai/mastra: перспективный open-source проект. Категории: AI/ML, Frontend. Интересность: 100/100.",
+    "summaryEn": "mastra-ai/mastra is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 100/100."
+  },
+  {
+    "externalId": "964395174",
+    "source": "github",
+    "url": "https://github.com/dyad-sh/dyad",
+    "owner": "dyad-sh",
+    "name": "dyad",
+    "title": "dyad-sh/dyad",
+    "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+    "stars": 20168,
+    "forks": 2339,
+    "language": "TypeScript",
+    "topics": [
+      "ai-app-builder",
+      "anthropic",
+      "artificial-intelligence",
+      "bolt",
+      "deepseek",
+      "gemini",
+      "generative-ai",
+      "github",
+      "llm",
+      "llms",
+      "lovable",
+      "nextjs",
+      "ollama",
+      "openai",
+      "qwen",
+      "react",
+      "typescript",
+      "v0",
+      "vercel"
+    ],
+    "createdAt": "2025-04-11T06:33:48Z",
+    "updatedAt": "2026-04-22T18:22:52Z",
+    "id": "dyad-sh/dyad",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "dyad-sh/dyad: перспективный open-source проект. Категории: AI/ML, Frontend. Интересность: 100/100.",
+    "summaryEn": "dyad-sh/dyad is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 100/100."
+  },
+  {
+    "externalId": "17371412",
+    "source": "github",
+    "url": "https://github.com/h2oai/h2o-3",
+    "owner": "h2oai",
+    "name": "h2o-3",
+    "title": "h2oai/h2o-3",
+    "description": "H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.",
+    "stars": 7485,
+    "forks": 2035,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "automl",
+      "big-data",
+      "data-science",
+      "deep-learning",
+      "distributed",
+      "ensemble-learning",
+      "gbm",
+      "gpu",
+      "h2o",
+      "h2o-automl",
+      "hadoop",
+      "java",
+      "machine-learning",
+      "naive-bayes",
+      "opensource",
+      "pca",
+      "python",
+      "r",
+      "random-forest",
+      "spark"
+    ],
+    "createdAt": "2014-03-03T16:08:07Z",
+    "updatedAt": "2026-04-22T14:49:55Z",
+    "id": "h2oai/h2o-3",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "h2oai/h2o-3: перспективный open-source проект. Категории: AI/ML, Data. Интересность: 100/100.",
+    "summaryEn": "h2oai/h2o-3 is a promising open-source project. Categories: AI/ML, Data. Interest score: 100/100."
+  },
+  {
+    "externalId": "93163073",
+    "source": "github",
+    "url": "https://github.com/dependabot/dependabot-core",
+    "owner": "dependabot",
+    "name": "dependabot-core",
+    "title": "dependabot/dependabot-core",
+    "description": "🤖 Dependabot's core logic for creating update PRs.",
+    "stars": 5546,
+    "forks": 1370,
+    "language": "Ruby",
+    "topics": [
+      "dependencies",
+      "docker",
+      "dotnet",
+      "elixir",
+      "elm",
+      "go",
+      "java",
+      "javascript",
+      "php",
+      "pnpm",
+      "python",
+      "ruby",
+      "rubygems",
+      "rust",
+      "terraform"
+    ],
+    "createdAt": "2017-06-02T12:23:31Z",
+    "updatedAt": "2026-04-22T18:18:16Z",
+    "id": "dependabot/dependabot-core",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "DevOps/Infra"
+    ],
+    "status": "active",
+    "summaryRu": "dependabot/dependabot-core: перспективный open-source проект. Категории: DevOps/Infra. Интересность: 100/100.",
+    "summaryEn": "dependabot/dependabot-core is a promising open-source project. Categories: DevOps/Infra. Interest score: 100/100."
+  },
+  {
+    "externalId": "3786237",
+    "source": "github",
+    "url": "https://github.com/hazelcast/hazelcast",
+    "owner": "hazelcast",
+    "name": "hazelcast",
+    "title": "hazelcast/hazelcast",
+    "description": "Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.",
+    "stars": 6575,
+    "forks": 1871,
+    "language": "Java",
+    "topics": [
+      "big-data",
+      "caching",
+      "data-in-motion",
+      "data-insights",
+      "distributed",
+      "distributed-computing",
+      "distributed-systems",
+      "hacktoberfest",
+      "hazelcast",
+      "in-memory",
+      "java",
+      "low-latency",
+      "real-time",
+      "scalability",
+      "stream-processing"
+    ],
+    "createdAt": "2012-03-21T12:25:18Z",
+    "updatedAt": "2026-04-22T18:15:27Z",
+    "id": "hazelcast/hazelcast",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "hazelcast/hazelcast: перспективный open-source проект. Категории: Data. Интересность: 100/100.",
+    "summaryEn": "hazelcast/hazelcast is a promising open-source project. Categories: Data. Interest score: 100/100."
+  },
+  {
+    "externalId": "39464018",
+    "source": "github",
+    "url": "https://github.com/apache/superset",
+    "owner": "apache",
+    "name": "superset",
+    "title": "apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "stars": 72538,
+    "forks": 17091,
+    "language": "TypeScript",
+    "topics": [
+      "analytics",
+      "apache",
+      "apache-superset",
+      "asf",
+      "bi",
+      "business-analytics",
+      "business-intelligence",
+      "data-analysis",
+      "data-analytics",
+      "data-engineering",
+      "data-science",
+      "data-visualization",
+      "data-viz",
+      "flask",
+      "python",
+      "react",
+      "sql-editor",
+      "superset"
+    ],
+    "createdAt": "2015-07-21T18:55:34Z",
+    "updatedAt": "2026-04-22T18:15:06Z",
+    "id": "apache/superset",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "apache/superset: перспективный open-source проект. Категории: Frontend, Data. Интересность: 100/100.",
+    "summaryEn": "apache/superset is a promising open-source project. Categories: Frontend, Data. Interest score: 100/100."
+  },
+  {
+    "externalId": "31792824",
+    "source": "github",
+    "url": "https://github.com/flutter/flutter",
+    "owner": "flutter",
+    "name": "flutter",
+    "title": "flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "stars": 176070,
+    "forks": 30269,
+    "language": "Dart",
+    "topics": [
+      "android",
+      "app-framework",
+      "cross-platform",
+      "dart",
+      "dart-platform",
+      "desktop",
+      "flutter",
+      "flutter-package",
+      "fuchsia",
+      "ios",
+      "linux-desktop",
+      "macos",
+      "material-design",
+      "mobile",
+      "mobile-development",
+      "skia",
+      "web",
+      "web-framework",
+      "windows"
+    ],
+    "createdAt": "2015-03-06T22:54:58Z",
+    "updatedAt": "2026-04-22T18:13:21Z",
+    "id": "flutter/flutter",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend",
+      "Mobile",
+      "Design"
+    ],
+    "status": "active",
+    "summaryRu": "flutter/flutter: перспективный open-source проект. Категории: Frontend, Mobile, Design. Интересность: 100/100.",
+    "summaryEn": "flutter/flutter is a promising open-source project. Categories: Frontend, Mobile, Design. Interest score: 100/100."
+  },
+  {
     "externalId": "106017343",
     "source": "github",
     "url": "https://github.com/tailwindlabs/tailwindcss",
@@ -1684,6 +2083,124 @@
     "status": "active",
     "summaryRu": "XRPLF/rippled: перспективный open-source проект. Категории: AI/ML. Интересность: 99/100.",
     "summaryEn": "XRPLF/rippled is a promising open-source project. Categories: AI/ML. Interest score: 99/100."
+  },
+  {
+    "externalId": "1103012935",
+    "source": "github",
+    "url": "https://github.com/openclaw/openclaw",
+    "owner": "openclaw",
+    "name": "openclaw",
+    "title": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "stars": 362335,
+    "forks": 74006,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "assistant",
+      "crustacean",
+      "molty",
+      "openclaw",
+      "own-your-data",
+      "personal"
+    ],
+    "createdAt": "2025-11-24T10:16:47Z",
+    "updatedAt": "2026-04-22T18:23:16Z",
+    "id": "openclaw/openclaw",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 99,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "openclaw/openclaw: перспективный open-source проект. Категории: AI/ML, Data. Интересность: 99/100.",
+    "summaryEn": "openclaw/openclaw is a promising open-source project. Categories: AI/ML, Data. Interest score: 99/100."
+  },
+  {
+    "externalId": "1204412",
+    "source": "github",
+    "url": "https://github.com/TrinityCore/TrinityCore",
+    "owner": "TrinityCore",
+    "name": "TrinityCore",
+    "title": "TrinityCore/TrinityCore",
+    "description": "TrinityCore Open Source MMO Framework (master = 12.0.5.67088, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)",
+    "stars": 10516,
+    "forks": 6305,
+    "language": "C++",
+    "topics": [
+      "hacktoberfest",
+      "linux",
+      "mmorpg",
+      "multi-platform",
+      "multiplayer",
+      "trinitycore",
+      "wow"
+    ],
+    "createdAt": "2010-12-28T23:40:07Z",
+    "updatedAt": "2026-04-22T18:20:58Z",
+    "id": "trinitycore/trinitycore",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 99,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "TrinityCore/TrinityCore: перспективный open-source проект. Категории: Misc. Интересность: 99/100.",
+    "summaryEn": "TrinityCore/TrinityCore is a promising open-source project. Categories: Misc. Interest score: 99/100."
+  },
+  {
+    "externalId": "33352201",
+    "source": "github",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "owner": "grpc-ecosystem",
+    "name": "grpc-gateway",
+    "title": "grpc-ecosystem/grpc-gateway",
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "stars": 19878,
+    "forks": 2376,
+    "language": "Go",
+    "topics": [
+      "go",
+      "grpc",
+      "grpc-gateway",
+      "openapi",
+      "rest-api",
+      "restful-api",
+      "swagger"
+    ],
+    "createdAt": "2015-04-03T07:25:13Z",
+    "updatedAt": "2026-04-22T18:19:39Z",
+    "id": "grpc-ecosystem/grpc-gateway",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 99,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "grpc-ecosystem/grpc-gateway: перспективный open-source проект. Категории: Backend. Интересность: 99/100.",
+    "summaryEn": "grpc-ecosystem/grpc-gateway is a promising open-source project. Categories: Backend. Interest score: 99/100."
   },
   {
     "externalId": "62117812",
@@ -1994,6 +2511,126 @@
     "summaryEn": "mozilla-mobile/firefox-ios is a promising open-source project. Categories: Mobile. Interest score: 96/100."
   },
   {
+    "externalId": "238797860",
+    "source": "github",
+    "url": "https://github.com/ethereum-optimism/optimism",
+    "owner": "ethereum-optimism",
+    "name": "optimism",
+    "title": "ethereum-optimism/optimism",
+    "description": "Optimism is Ethereum, scaled.",
+    "stars": 6413,
+    "forks": 3945,
+    "language": "Go",
+    "topics": [
+      "ethereum",
+      "l2-scaling",
+      "optimism",
+      "ovm",
+      "rollup"
+    ],
+    "createdAt": "2020-02-06T22:28:26Z",
+    "updatedAt": "2026-04-22T18:24:03Z",
+    "id": "ethereum-optimism/optimism",
+    "discoveredAt": "2026-04-22T18:24:27.495Z",
+    "score": 96,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.625,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "ethereum-optimism/optimism: перспективный open-source проект. Категории: Misc. Интересность: 96/100.",
+    "summaryEn": "ethereum-optimism/optimism is a promising open-source project. Categories: Misc. Interest score: 96/100."
+  },
+  {
+    "externalId": "4542716",
+    "source": "github",
+    "url": "https://github.com/NixOS/nixpkgs",
+    "owner": "NixOS",
+    "name": "nixpkgs",
+    "title": "NixOS/nixpkgs",
+    "description": "Nix Packages collection & NixOS",
+    "stars": 24369,
+    "forks": 18664,
+    "language": "Nix",
+    "topics": [
+      "hacktoberfest",
+      "linux",
+      "nix",
+      "nixos",
+      "nixpkgs"
+    ],
+    "createdAt": "2012-06-04T02:49:46Z",
+    "updatedAt": "2026-04-22T18:23:48Z",
+    "id": "nixos/nixpkgs",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 96,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.625,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "NixOS/nixpkgs: перспективный open-source проект. Категории: Misc. Интересность: 96/100.",
+    "summaryEn": "NixOS/nixpkgs is a promising open-source project. Categories: Misc. Interest score: 96/100."
+  },
+  {
+    "externalId": "118510171",
+    "source": "github",
+    "url": "https://github.com/kgateway-dev/kgateway",
+    "owner": "kgateway-dev",
+    "name": "kgateway",
+    "title": "kgateway-dev/kgateway",
+    "description": "The Cloud-Native API Gateway and AI Gateway",
+    "stars": 5459,
+    "forks": 738,
+    "language": "Go",
+    "topics": [
+      "api-gateway",
+      "api-management",
+      "cloud-native",
+      "envoy",
+      "envoy-proxy",
+      "grpc",
+      "hybrid-apps",
+      "kubernetes",
+      "kubernetes-ingress-controller",
+      "legacy-apps",
+      "microservices",
+      "serverless"
+    ],
+    "createdAt": "2018-01-22T20:19:49Z",
+    "updatedAt": "2026-04-22T18:15:36Z",
+    "id": "kgateway-dev/kgateway",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 96,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.738,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Backend",
+      "DevOps/Infra"
+    ],
+    "status": "active",
+    "summaryRu": "kgateway-dev/kgateway: перспективный open-source проект. Категории: AI/ML, Backend, DevOps/Infra. Интересность: 96/100.",
+    "summaryEn": "kgateway-dev/kgateway is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 96/100."
+  },
+  {
     "externalId": "659402878",
     "source": "github",
     "url": "https://github.com/spring-projects/spring-ai",
@@ -2151,6 +2788,91 @@
     "status": "active",
     "summaryRu": "opnsense/core: перспективный open-source проект. Категории: Frontend, Backend. Интересность: 95/100.",
     "summaryEn": "opnsense/core is a promising open-source project. Categories: Frontend, Backend. Interest score: 95/100."
+  },
+  {
+    "externalId": "58225794",
+    "source": "github",
+    "url": "https://github.com/sacridini/Awesome-Geospatial",
+    "owner": "sacridini",
+    "name": "Awesome-Geospatial",
+    "title": "sacridini/Awesome-Geospatial",
+    "description": "Long list of geospatial tools and resources",
+    "stars": 4973,
+    "forks": 711,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "data-analysis",
+      "deep-learning",
+      "earth-observation",
+      "geoprocessing",
+      "geospatial",
+      "geospatial-analysis",
+      "geotools",
+      "gis",
+      "machine-learning",
+      "map",
+      "remote-sensing",
+      "spatial-analysis",
+      "spatial-data"
+    ],
+    "createdAt": "2016-05-06T18:05:42Z",
+    "updatedAt": "2026-04-22T18:24:06Z",
+    "id": "sacridini/awesome-geospatial",
+    "discoveredAt": "2026-04-22T18:24:27.495Z",
+    "score": 95,
+    "scoreBreakdown": {
+      "stars": 0.9946,
+      "forks": 0.711,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "sacridini/Awesome-Geospatial: перспективный open-source проект. Категории: Data. Интересность: 95/100.",
+    "summaryEn": "sacridini/Awesome-Geospatial is a promising open-source project. Categories: Data. Interest score: 95/100."
+  },
+  {
+    "externalId": "463628495",
+    "source": "github",
+    "url": "https://github.com/pytorch/executorch",
+    "owner": "pytorch",
+    "name": "executorch",
+    "title": "pytorch/executorch",
+    "description": "On-device AI across mobile, embedded and edge for PyTorch",
+    "stars": 4535,
+    "forks": 951,
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "embedded",
+      "gpu",
+      "machine-learning",
+      "mobile",
+      "neural-network",
+      "tensor"
+    ],
+    "createdAt": "2022-02-25T17:58:31Z",
+    "updatedAt": "2026-04-22T18:15:48Z",
+    "id": "pytorch/executorch",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 95,
+    "scoreBreakdown": {
+      "stars": 0.907,
+      "forks": 0.951,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "pytorch/executorch: перспективный open-source проект. Категории: AI/ML. Интересность: 95/100.",
+    "summaryEn": "pytorch/executorch is a promising open-source project. Categories: AI/ML. Interest score: 95/100."
   },
   {
     "externalId": "88298561",
@@ -2556,6 +3278,84 @@
     "summaryEn": "vllm-project/vllm-omni is a promising open-source project. Categories: AI/ML. Interest score: 93/100."
   },
   {
+    "externalId": "85591077",
+    "source": "github",
+    "url": "https://github.com/offa/android-foss",
+    "owner": "offa",
+    "name": "android-foss",
+    "title": "offa/android-foss",
+    "description": "A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.",
+    "stars": 9874,
+    "forks": 443,
+    "language": "Python",
+    "topics": [
+      "android",
+      "android-apps",
+      "f-droid",
+      "foss",
+      "free-and-op",
+      "free-and-open-source",
+      "izzyondroid",
+      "open-source",
+      "opensource"
+    ],
+    "createdAt": "2017-03-20T15:06:16Z",
+    "updatedAt": "2026-04-22T15:57:59Z",
+    "id": "offa/android-foss",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 92,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.443,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Mobile"
+    ],
+    "status": "active",
+    "summaryRu": "offa/android-foss: перспективный open-source проект. Категории: Mobile. Интересность: 92/100.",
+    "summaryEn": "offa/android-foss is a promising open-source project. Categories: Mobile. Interest score: 92/100."
+  },
+  {
+    "externalId": "105138356",
+    "source": "github",
+    "url": "https://github.com/AssemblyScript/assemblyscript",
+    "owner": "AssemblyScript",
+    "name": "assemblyscript",
+    "title": "AssemblyScript/assemblyscript",
+    "description": "A TypeScript-like language for WebAssembly.",
+    "stars": 17890,
+    "forks": 688,
+    "language": "WebAssembly",
+    "topics": [
+      "assemblyscript",
+      "compiler",
+      "typescript",
+      "wasm",
+      "webassembly"
+    ],
+    "createdAt": "2017-09-28T11:06:50Z",
+    "updatedAt": "2026-04-22T18:14:25Z",
+    "id": "assemblyscript/assemblyscript",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 92,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.688,
+      "recency": 1,
+      "topics": 0.625,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "AssemblyScript/assemblyscript: перспективный open-source проект. Категории: Misc. Интересность: 92/100.",
+    "summaryEn": "AssemblyScript/assemblyscript is a promising open-source project. Categories: Misc. Interest score: 92/100."
+  },
+  {
     "externalId": "1128712337",
     "source": "github",
     "url": "https://github.com/openclaw/skills",
@@ -2627,6 +3427,39 @@
     "status": "active",
     "summaryRu": "lightdash/lightdash: перспективный open-source проект. Категории: Data. Интересность: 91/100.",
     "summaryEn": "lightdash/lightdash is a promising open-source project. Categories: Data. Interest score: 91/100."
+  },
+  {
+    "externalId": "154739597",
+    "source": "github",
+    "url": "https://github.com/jax-ml/jax",
+    "owner": "jax-ml",
+    "name": "jax",
+    "title": "jax-ml/jax",
+    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "stars": 35465,
+    "forks": 3534,
+    "language": "Python",
+    "topics": [
+      "jax"
+    ],
+    "createdAt": "2018-10-25T21:25:02Z",
+    "updatedAt": "2026-04-22T18:24:15Z",
+    "id": "jax-ml/jax",
+    "discoveredAt": "2026-04-22T18:24:27.495Z",
+    "score": 91,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.125,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "jax-ml/jax: перспективный open-source проект. Категории: AI/ML. Интересность: 91/100.",
+    "summaryEn": "jax-ml/jax is a promising open-source project. Categories: AI/ML. Interest score: 91/100."
   },
   {
     "externalId": "75821432",
@@ -2774,6 +3607,113 @@
     "summaryEn": "errbit/errbit is a promising open-source project. Categories: AI/ML, Backend. Interest score: 90/100."
   },
   {
+    "externalId": "542185751",
+    "source": "github",
+    "url": "https://github.com/mnfst/manifest",
+    "owner": "mnfst",
+    "name": "manifest",
+    "title": "mnfst/manifest",
+    "description": "Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚",
+    "stars": 5531,
+    "forks": 317,
+    "language": "TypeScript",
+    "topics": [
+      "cheap",
+      "cost-tracking",
+      "hermes-agent",
+      "llm-observability",
+      "llm-router",
+      "open",
+      "openclaw",
+      "openclaw-extension",
+      "openclaw-plugin",
+      "personal-ai",
+      "token-tracking"
+    ],
+    "createdAt": "2022-09-27T16:33:35Z",
+    "updatedAt": "2026-04-22T18:23:28Z",
+    "id": "mnfst/manifest",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 90,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.317,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "mnfst/manifest: перспективный open-source проект. Категории: AI/ML. Интересность: 90/100.",
+    "summaryEn": "mnfst/manifest is a promising open-source project. Categories: AI/ML. Interest score: 90/100."
+  },
+  {
+    "externalId": "51478266",
+    "source": "github",
+    "url": "https://github.com/kubernetes/website",
+    "owner": "kubernetes",
+    "name": "website",
+    "title": "kubernetes/website",
+    "description": "Kubernetes website and documentation repo: ",
+    "stars": 5213,
+    "forks": 15378,
+    "language": "HTML",
+    "topics": [],
+    "createdAt": "2016-02-10T22:46:48Z",
+    "updatedAt": "2026-04-22T18:20:52Z",
+    "id": "kubernetes/website",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 90,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "DevOps/Infra"
+    ],
+    "status": "active",
+    "summaryRu": "kubernetes/website: перспективный open-source проект. Категории: AI/ML, DevOps/Infra. Интересность: 90/100.",
+    "summaryEn": "kubernetes/website is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 90/100."
+  },
+  {
+    "externalId": "942206898",
+    "source": "github",
+    "url": "https://github.com/ai-dynamo/dynamo",
+    "owner": "ai-dynamo",
+    "name": "dynamo",
+    "title": "ai-dynamo/dynamo",
+    "description": "A Datacenter Scale Distributed Inference Serving Framework",
+    "stars": 6618,
+    "forks": 1044,
+    "language": "Rust",
+    "topics": [],
+    "createdAt": "2025-03-03T18:40:07Z",
+    "updatedAt": "2026-04-22T18:15:44Z",
+    "id": "ai-dynamo/dynamo",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 90,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "ai-dynamo/dynamo: перспективный open-source проект. Категории: AI/ML, Data. Интересность: 90/100.",
+    "summaryEn": "ai-dynamo/dynamo is a promising open-source project. Categories: AI/ML, Data. Interest score: 90/100."
+  },
+  {
     "externalId": "1039587768",
     "source": "github",
     "url": "https://github.com/osaurus-ai/osaurus",
@@ -2855,6 +3795,44 @@
     "status": "active",
     "summaryRu": "camunda/camunda: перспективный open-source проект. Категории: Backend. Интересность: 89/100.",
     "summaryEn": "camunda/camunda is a promising open-source project. Categories: Backend. Interest score: 89/100."
+  },
+  {
+    "externalId": "93882897",
+    "source": "github",
+    "url": "https://github.com/shader-slang/slang",
+    "owner": "shader-slang",
+    "name": "slang",
+    "title": "shader-slang/slang",
+    "description": "Making it easier to work with shaders",
+    "stars": 5228,
+    "forks": 438,
+    "language": "C++",
+    "topics": [
+      "cuda",
+      "d3d12",
+      "glsl",
+      "hlsl",
+      "shaders",
+      "vulkan"
+    ],
+    "createdAt": "2017-06-09T17:42:49Z",
+    "updatedAt": "2026-04-22T18:23:33Z",
+    "id": "shader-slang/slang",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 89,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.438,
+      "recency": 1,
+      "topics": 0.75,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "shader-slang/slang: перспективный open-source проект. Категории: Misc. Интересность: 89/100.",
+    "summaryEn": "shader-slang/slang is a promising open-source project. Categories: Misc. Interest score: 89/100."
   },
   {
     "externalId": "70137417",
@@ -3033,6 +4011,79 @@
     "summaryEn": "mauriceboe/TREK is a promising open-source project. Categories: Misc. Interest score: 86/100."
   },
   {
+    "externalId": "35164952",
+    "source": "github",
+    "url": "https://github.com/unisonweb/unison",
+    "owner": "unisonweb",
+    "name": "unison",
+    "title": "unisonweb/unison",
+    "description": "A friendly programming language from the future",
+    "stars": 6592,
+    "forks": 303,
+    "language": "Haskell",
+    "topics": [
+      "hacktoberfest",
+      "haskell",
+      "programming-language",
+      "unison",
+      "unison-language"
+    ],
+    "createdAt": "2015-05-06T14:53:49Z",
+    "updatedAt": "2026-04-22T18:16:24Z",
+    "id": "unisonweb/unison",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 86,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.303,
+      "recency": 1,
+      "topics": 0.625,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "unisonweb/unison: перспективный open-source проект. Категории: Misc. Интересность: 86/100.",
+    "summaryEn": "unisonweb/unison is a promising open-source project. Categories: Misc. Interest score: 86/100."
+  },
+  {
+    "externalId": "166616185",
+    "source": "github",
+    "url": "https://github.com/roc-lang/roc",
+    "owner": "roc-lang",
+    "name": "roc",
+    "title": "roc-lang/roc",
+    "description": "A fast, friendly, functional language.",
+    "stars": 5577,
+    "forks": 375,
+    "language": "Zig",
+    "topics": [
+      "functional-language",
+      "functional-programming",
+      "language",
+      "roc-lang"
+    ],
+    "createdAt": "2019-01-20T02:42:44Z",
+    "updatedAt": "2026-04-22T18:15:32Z",
+    "id": "roc-lang/roc",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 86,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.375,
+      "recency": 1,
+      "topics": 0.5,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "roc-lang/roc: перспективный open-source проект. Категории: Misc. Интересность: 86/100.",
+    "summaryEn": "roc-lang/roc is a promising open-source project. Categories: Misc. Interest score: 86/100."
+  },
+  {
     "externalId": "716719284",
     "source": "github",
     "url": "https://github.com/openbao/openbao",
@@ -3159,6 +4210,47 @@
     "status": "active",
     "summaryRu": "generalaction/emdash: перспективный open-source проект. Категории: AI/ML, DevTools, DevOps/Infra. Интересность: 84/100.",
     "summaryEn": "generalaction/emdash is a promising open-source project. Categories: AI/ML, DevTools, DevOps/Infra. Interest score: 84/100."
+  },
+  {
+    "externalId": "141427485",
+    "source": "github",
+    "url": "https://github.com/MetaMask/metamask-mobile",
+    "owner": "MetaMask",
+    "name": "metamask-mobile",
+    "title": "MetaMask/metamask-mobile",
+    "description": "Mobile web browser providing access to websites that use the Ethereum blockchain",
+    "stars": 2896,
+    "forks": 1578,
+    "language": "TypeScript",
+    "topics": [
+      "android",
+      "dapps-browser",
+      "ios",
+      "javascript",
+      "metamask",
+      "react-native",
+      "web3"
+    ],
+    "createdAt": "2018-07-18T11:47:08Z",
+    "updatedAt": "2026-04-22T18:20:33Z",
+    "id": "metamask/metamask-mobile",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "stars": 0.5792,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "Mobile"
+    ],
+    "status": "active",
+    "summaryRu": "MetaMask/metamask-mobile: перспективный open-source проект. Категории: AI/ML, Frontend, Mobile. Интересность: 84/100.",
+    "summaryEn": "MetaMask/metamask-mobile is a promising open-source project. Categories: AI/ML, Frontend, Mobile. Interest score: 84/100."
   },
   {
     "externalId": "3649922",
@@ -3370,6 +4462,101 @@
     "summaryEn": "open-telemetry/opentelemetry-python is a promising open-source project. Categories: Backend. Interest score: 80/100."
   },
   {
+    "externalId": "86987524",
+    "source": "github",
+    "url": "https://github.com/WWBN/AVideo",
+    "owner": "WWBN",
+    "name": "AVideo",
+    "title": "WWBN/AVideo",
+    "description": "Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP",
+    "stars": 2085,
+    "forks": 1014,
+    "language": "JavaScript",
+    "topics": [
+      "avideo",
+      "avideo-platform",
+      "encoder",
+      "free",
+      "free-software",
+      "media",
+      "media-player",
+      "media-server",
+      "mediamanager",
+      "open-source",
+      "opensource",
+      "social-features",
+      "streamer",
+      "streamer-site",
+      "streamer-tool",
+      "video",
+      "video-player",
+      "video-sharing",
+      "video-streaming",
+      "videosharing"
+    ],
+    "createdAt": "2017-04-02T13:20:09Z",
+    "updatedAt": "2026-04-22T17:29:25Z",
+    "id": "wwbn/avideo",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 80,
+    "scoreBreakdown": {
+      "stars": 0.417,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "WWBN/AVideo: перспективный open-source проект. Категории: Backend. Интересность: 80/100.",
+    "summaryEn": "WWBN/AVideo is a promising open-source project. Categories: Backend. Interest score: 80/100."
+  },
+  {
+    "externalId": "963223041",
+    "source": "github",
+    "url": "https://github.com/mayocream/koharu",
+    "owner": "mayocream",
+    "name": "koharu",
+    "title": "mayocream/koharu",
+    "description": "ML-powered manga translator, written in Rust.",
+    "stars": 3889,
+    "forks": 200,
+    "language": "Rust",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "gpu",
+      "gui",
+      "japanese",
+      "manga",
+      "rust",
+      "tauri",
+      "text-rendering",
+      "translation"
+    ],
+    "createdAt": "2025-04-09T10:52:34Z",
+    "updatedAt": "2026-04-22T18:20:26Z",
+    "id": "mayocream/koharu",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 80,
+    "scoreBreakdown": {
+      "stars": 0.7778,
+      "forks": 0.2,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "mayocream/koharu: перспективный open-source проект. Категории: AI/ML, Frontend. Интересность: 80/100.",
+    "summaryEn": "mayocream/koharu is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 80/100."
+  },
+  {
     "externalId": "365697493",
     "source": "github",
     "url": "https://github.com/leanprover-community/mathlib4",
@@ -3401,6 +4588,40 @@
     "status": "active",
     "summaryRu": "leanprover-community/mathlib4: перспективный open-source проект. Категории: Misc. Интересность: 79/100.",
     "summaryEn": "leanprover-community/mathlib4 is a promising open-source project. Categories: Misc. Interest score: 79/100."
+  },
+  {
+    "externalId": "422052127",
+    "source": "github",
+    "url": "https://github.com/BEPb/BEPb",
+    "owner": "BEPb",
+    "name": "BEPb",
+    "title": "BEPb/BEPb",
+    "description": "Config files for my GitHub profile.",
+    "stars": 3139,
+    "forks": 944,
+    "language": "Shell",
+    "topics": [
+      "config",
+      "github-config"
+    ],
+    "createdAt": "2021-10-28T03:29:29Z",
+    "updatedAt": "2026-04-22T18:24:06Z",
+    "id": "bepb/bepb",
+    "discoveredAt": "2026-04-22T18:24:27.495Z",
+    "score": 79,
+    "scoreBreakdown": {
+      "stars": 0.6278,
+      "forks": 0.944,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "BEPb/BEPb: перспективный open-source проект. Категории: Misc. Интересность: 79/100.",
+    "summaryEn": "BEPb/BEPb is a promising open-source project. Categories: Misc. Interest score: 79/100."
   },
   {
     "externalId": "155580125",
@@ -3469,6 +4690,37 @@
     "status": "active",
     "summaryRu": "mdn/translated-content: перспективный open-source проект. Категории: AI/ML. Интересность: 76/100.",
     "summaryEn": "mdn/translated-content is a promising open-source project. Categories: AI/ML. Interest score: 76/100."
+  },
+  {
+    "externalId": "261861733",
+    "source": "github",
+    "url": "https://github.com/keras-team/keras-io",
+    "owner": "keras-team",
+    "name": "keras-io",
+    "title": "keras-team/keras-io",
+    "description": "Keras documentation, hosted live at keras.io",
+    "stars": 2983,
+    "forks": 2113,
+    "language": "Jupyter Notebook",
+    "topics": [],
+    "createdAt": "2020-05-06T19:40:36Z",
+    "updatedAt": "2026-04-22T18:23:56Z",
+    "id": "keras-team/keras-io",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 76,
+    "scoreBreakdown": {
+      "stars": 0.5966,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "keras-team/keras-io: перспективный open-source проект. Категории: Misc. Интересность: 76/100.",
+    "summaryEn": "keras-team/keras-io is a promising open-source project. Categories: Misc. Interest score: 76/100."
   },
   {
     "externalId": "6136261",
@@ -3688,6 +4940,107 @@
     "summaryEn": "xtdb/xtdb is a promising open-source project. Categories: Data. Interest score: 71/100."
   },
   {
+    "externalId": "82920852",
+    "source": "github",
+    "url": "https://github.com/jaegertracing/jaeger-ui",
+    "owner": "jaegertracing",
+    "name": "jaeger-ui",
+    "title": "jaegertracing/jaeger-ui",
+    "description": "Web UI for Jaeger",
+    "stars": 1465,
+    "forks": 696,
+    "language": "TypeScript",
+    "topics": [
+      "apm",
+      "distributed-tracing",
+      "hacktoberfest",
+      "jaeger",
+      "javascript",
+      "monitoring",
+      "opentracing",
+      "react",
+      "reactjs",
+      "site-reliability-engineering",
+      "sre",
+      "trace",
+      "tracing",
+      "typescript",
+      "ui"
+    ],
+    "createdAt": "2017-02-23T11:30:29Z",
+    "updatedAt": "2026-04-22T18:23:56Z",
+    "id": "jaegertracing/jaeger-ui",
+    "discoveredAt": "2026-04-22T18:24:27.495Z",
+    "score": 71,
+    "scoreBreakdown": {
+      "stars": 0.293,
+      "forks": 0.696,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "jaegertracing/jaeger-ui: перспективный open-source проект. Категории: Frontend. Интересность: 71/100.",
+    "summaryEn": "jaegertracing/jaeger-ui is a promising open-source project. Categories: Frontend. Interest score: 71/100."
+  },
+  {
+    "externalId": "378997214",
+    "source": "github",
+    "url": "https://github.com/meltano/meltano",
+    "owner": "meltano",
+    "name": "meltano",
+    "title": "meltano/meltano",
+    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.",
+    "stars": 2464,
+    "forks": 233,
+    "language": "Python",
+    "topics": [
+      "connectors",
+      "data",
+      "data-engineering",
+      "data-pipelines",
+      "dataops",
+      "dataops-platform",
+      "elt",
+      "extract-data",
+      "integration",
+      "loaders",
+      "meltano",
+      "meltano-sdk",
+      "open-source",
+      "opensource",
+      "pipelines",
+      "singer",
+      "tap",
+      "taps",
+      "target",
+      "targets"
+    ],
+    "createdAt": "2021-06-21T16:35:39Z",
+    "updatedAt": "2026-04-22T15:45:53Z",
+    "id": "meltano/meltano",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 71,
+    "scoreBreakdown": {
+      "stars": 0.4928,
+      "forks": 0.233,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Backend",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "meltano/meltano: перспективный open-source проект. Категории: AI/ML, Backend, Data. Интересность: 71/100.",
+    "summaryEn": "meltano/meltano is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 71/100."
+  },
+  {
     "externalId": "153442864",
     "source": "github",
     "url": "https://github.com/CircuitVerse/CircuitVerse",
@@ -3802,6 +5155,42 @@
     "status": "active",
     "summaryRu": "24pullrequests/24pullrequests: перспективный open-source проект. Категории: AI/ML. Интересность: 69/100.",
     "summaryEn": "24pullrequests/24pullrequests is a promising open-source project. Categories: AI/ML. Interest score: 69/100."
+  },
+  {
+    "externalId": "31681575",
+    "source": "github",
+    "url": "https://github.com/DestinyItemManager/DIM",
+    "owner": "DestinyItemManager",
+    "name": "DIM",
+    "title": "DestinyItemManager/DIM",
+    "description": "Destiny Item Manager",
+    "stars": 2113,
+    "forks": 644,
+    "language": "TypeScript",
+    "topics": [
+      "bungie",
+      "destiny",
+      "react",
+      "typescript"
+    ],
+    "createdAt": "2015-03-04T21:46:50Z",
+    "updatedAt": "2026-04-22T18:17:47Z",
+    "id": "destinyitemmanager/dim",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 69,
+    "scoreBreakdown": {
+      "stars": 0.4226,
+      "forks": 0.644,
+      "recency": 1,
+      "topics": 0.5,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "DestinyItemManager/DIM: перспективный open-source проект. Категории: Frontend. Интересность: 69/100.",
+    "summaryEn": "DestinyItemManager/DIM is a promising open-source project. Categories: Frontend. Interest score: 69/100."
   },
   {
     "externalId": "75196241",
@@ -3990,6 +5379,42 @@
     "status": "active",
     "summaryRu": "privacyidea/privacyidea: перспективный open-source проект. Категории: Backend, Security. Интересность: 67/100.",
     "summaryEn": "privacyidea/privacyidea is a promising open-source project. Categories: Backend, Security. Interest score: 67/100."
+  },
+  {
+    "externalId": "297340071",
+    "source": "github",
+    "url": "https://github.com/nightscout/AndroidAPS",
+    "owner": "nightscout",
+    "name": "AndroidAPS",
+    "title": "nightscout/AndroidAPS",
+    "description": "Opensource automated insulin delivery system (closed loop)",
+    "stars": 1055,
+    "forks": 4611,
+    "language": "Kotlin",
+    "topics": [
+      "closed-loop",
+      "diabetes",
+      "opensource",
+      "t1d"
+    ],
+    "createdAt": "2020-09-21T12:58:30Z",
+    "updatedAt": "2026-04-22T16:09:47Z",
+    "id": "nightscout/androidaps",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 67,
+    "scoreBreakdown": {
+      "stars": 0.211,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.5,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Mobile"
+    ],
+    "status": "active",
+    "summaryRu": "nightscout/AndroidAPS: перспективный open-source проект. Категории: Mobile. Интересность: 67/100.",
+    "summaryEn": "nightscout/AndroidAPS is a promising open-source project. Categories: Mobile. Interest score: 67/100."
   },
   {
     "externalId": "989134268",
@@ -4214,6 +5639,59 @@
     "status": "active",
     "summaryRu": "MetaMask/eth-phishing-detect: перспективный open-source проект. Категории: AI/ML. Интересность: 64/100.",
     "summaryEn": "MetaMask/eth-phishing-detect is a promising open-source project. Categories: AI/ML. Interest score: 64/100."
+  },
+  {
+    "externalId": "1149807548",
+    "source": "github",
+    "url": "https://github.com/llmsresearch/paperbanana",
+    "owner": "llmsresearch",
+    "name": "paperbanana",
+    "title": "llmsresearch/paperbanana",
+    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.",
+    "stars": 1343,
+    "forks": 208,
+    "language": "Python",
+    "topics": [
+      "academic-diagrams",
+      "academic-research",
+      "agentic-ai",
+      "arxiv",
+      "diagram-generation",
+      "gemini",
+      "google-gemini",
+      "llm",
+      "llms",
+      "mcp",
+      "mcp-server",
+      "multiagent",
+      "neurips",
+      "paperbanana",
+      "python-ai-research-tools",
+      "research-automation",
+      "research-tools",
+      "scientific-visualization",
+      "text-to-image",
+      "vlm"
+    ],
+    "createdAt": "2026-02-04T14:46:47Z",
+    "updatedAt": "2026-04-22T18:23:37Z",
+    "id": "llmsresearch/paperbanana",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 63,
+    "scoreBreakdown": {
+      "stars": 0.2686,
+      "forks": 0.208,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "llmsresearch/paperbanana: перспективный open-source проект. Категории: AI/ML, Backend. Интересность: 63/100.",
+    "summaryEn": "llmsresearch/paperbanana is a promising open-source project. Categories: AI/ML, Backend. Interest score: 63/100."
   },
   {
     "externalId": "1099214862",
@@ -4463,6 +5941,126 @@
     "summaryEn": "noir-lang/noir is a promising open-source project. Categories: AI/ML. Interest score: 61/100."
   },
   {
+    "externalId": "355277962",
+    "source": "github",
+    "url": "https://github.com/appium/appium-inspector",
+    "owner": "appium",
+    "name": "appium-inspector",
+    "title": "appium/appium-inspector",
+    "description": "A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server",
+    "stars": 1791,
+    "forks": 373,
+    "language": "JavaScript",
+    "topics": [
+      "appium",
+      "inspector"
+    ],
+    "createdAt": "2021-04-06T17:37:49Z",
+    "updatedAt": "2026-04-22T18:23:25Z",
+    "id": "appium/appium-inspector",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 61,
+    "scoreBreakdown": {
+      "stars": 0.3582,
+      "forks": 0.373,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend",
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "appium/appium-inspector: перспективный open-source проект. Категории: Frontend, Backend. Интересность: 61/100.",
+    "summaryEn": "appium/appium-inspector is a promising open-source project. Categories: Frontend, Backend. Interest score: 61/100."
+  },
+  {
+    "externalId": "956679248",
+    "source": "github",
+    "url": "https://github.com/kodustech/kodus-ai",
+    "owner": "kodustech",
+    "name": "kodus-ai",
+    "title": "kodustech/kodus-ai",
+    "description": "AI Code Review with Full Control Over Model Choice and Costs.",
+    "stars": 1059,
+    "forks": 95,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-code-review",
+      "ai-coding-tools",
+      "code-review",
+      "coding-assistant",
+      "generative-ai",
+      "hacktoberfest"
+    ],
+    "createdAt": "2025-03-28T17:05:19Z",
+    "updatedAt": "2026-04-22T18:22:56Z",
+    "id": "kodustech/kodus-ai",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 59,
+    "scoreBreakdown": {
+      "stars": 0.2118,
+      "forks": 0.095,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "kodustech/kodus-ai: перспективный open-source проект. Категории: AI/ML. Интересность: 59/100.",
+    "summaryEn": "kodustech/kodus-ai is a promising open-source project. Categories: AI/ML. Interest score: 59/100."
+  },
+  {
+    "externalId": "11837082",
+    "source": "github",
+    "url": "https://github.com/ZeroK-RTS/Zero-K",
+    "owner": "ZeroK-RTS",
+    "name": "Zero-K",
+    "title": "ZeroK-RTS/Zero-K",
+    "description": "Open source RTS game running on the Spring/Recoil engine",
+    "stars": 799,
+    "forks": 245,
+    "language": "Lua",
+    "topics": [
+      "cross-platform",
+      "game",
+      "gamedev",
+      "lua",
+      "modding",
+      "multi-platform",
+      "open-source",
+      "opensource",
+      "real-time-strategy",
+      "rts",
+      "rts-game",
+      "scifi",
+      "springrts"
+    ],
+    "createdAt": "2013-08-02T06:57:00Z",
+    "updatedAt": "2026-04-22T13:56:04Z",
+    "id": "zerok-rts/zero-k",
+    "discoveredAt": "2026-04-22T18:24:27.497Z",
+    "score": 59,
+    "scoreBreakdown": {
+      "stars": 0.1598,
+      "forks": 0.245,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "ZeroK-RTS/Zero-K: перспективный open-source проект. Категории: Misc. Интересность: 59/100.",
+    "summaryEn": "ZeroK-RTS/Zero-K is a promising open-source project. Categories: Misc. Interest score: 59/100."
+  },
+  {
     "externalId": "1463490",
     "source": "github",
     "url": "https://github.com/xwiki/xwiki-platform",
@@ -4492,6 +6090,75 @@
     "status": "active",
     "summaryRu": "xwiki/xwiki-platform: перспективный open-source проект. Категории: Misc. Интересность: 58/100.",
     "summaryEn": "xwiki/xwiki-platform is a promising open-source project. Categories: Misc. Interest score: 58/100."
+  },
+  {
+    "externalId": "512754250",
+    "source": "github",
+    "url": "https://github.com/Automattic/pocket-casts-ios",
+    "owner": "Automattic",
+    "name": "pocket-casts-ios",
+    "title": "Automattic/pocket-casts-ios",
+    "description": "Pocket Casts iOS app 🎧",
+    "stars": 1771,
+    "forks": 176,
+    "language": "Swift",
+    "topics": [
+      "hacktoberfest",
+      "pocket-casts"
+    ],
+    "createdAt": "2022-07-11T12:49:45Z",
+    "updatedAt": "2026-04-22T18:23:37Z",
+    "id": "automattic/pocket-casts-ios",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 58,
+    "scoreBreakdown": {
+      "stars": 0.3542,
+      "forks": 0.176,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Mobile"
+    ],
+    "status": "active",
+    "summaryRu": "Automattic/pocket-casts-ios: перспективный open-source проект. Категории: Mobile. Интересность: 58/100.",
+    "summaryEn": "Automattic/pocket-casts-ios is a promising open-source project. Categories: Mobile. Interest score: 58/100."
+  },
+  {
+    "externalId": "43642389",
+    "source": "github",
+    "url": "https://github.com/googleapis/google-cloud-php",
+    "owner": "googleapis",
+    "name": "google-cloud-php",
+    "title": "googleapis/google-cloud-php",
+    "description": "Google Cloud Client Library for PHP",
+    "stars": 1172,
+    "forks": 460,
+    "language": "PHP",
+    "topics": [
+      "google-cloud-platform",
+      "php"
+    ],
+    "createdAt": "2015-10-04T16:09:46Z",
+    "updatedAt": "2026-04-22T18:23:17Z",
+    "id": "googleapis/google-cloud-php",
+    "discoveredAt": "2026-04-22T18:24:27.496Z",
+    "score": 58,
+    "scoreBreakdown": {
+      "stars": 0.2344,
+      "forks": 0.46,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Backend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "googleapis/google-cloud-php: перспективный open-source проект. Категории: Backend, DevTools. Интересность: 58/100.",
+    "summaryEn": "googleapis/google-cloud-php is a promising open-source project. Categories: Backend, DevTools. Interest score: 58/100."
   },
   {
     "externalId": "84538053",
