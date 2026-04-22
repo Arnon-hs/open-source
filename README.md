@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 70 | [Browse →](./aiml/) |
-| 📦 **Misc** | 28 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 20 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 13 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 72 | [Browse →](./aiml/) |
+| 📦 **Misc** | 29 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 18 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 14 | [Browse →](./backend/) |
 | 📊 **Data** | 10 | [Browse →](./data/) |
 | 📱 **Mobile** | 10 | [Browse →](./mobile/) |
-| 🔐 **Security** | 3 | [Browse →](./security/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🎯 **Product** | 2 | [Browse →](./product/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 2 | [Browse →](./devtools/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
+| 🎯 **Product** | 1 | [Browse →](./product/) |
 
 ## 🔥 Top 10 by score
 
