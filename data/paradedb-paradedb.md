@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-paradedb/paradedb is a promising open-source project. Categories: Data. Interest score: 91/100.
+ParadeDB is an open-source, Postgres-based search engine designed to achieve high-quality search results while maintaining scalability and elasticity. It enables users to efficiently search and retrieve data from Postgres databases with ease. By leveraging the capabilities of Postgres, ParadeDB provides a powerful and seamless search experience.
 
 ---
 

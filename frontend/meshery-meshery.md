@@ -25,7 +25,7 @@ Frontend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-meshery/meshery is a promising open-source project. Categories: Frontend, DevTools, DevOps/Infra. Interest score: 100/100.
+Meshery is an open-source, cloud-native manager that simplifies the complex task of managing and deploying service mesh applications. It provides a unified interface for deploying, managing, and scaling service mesh implementations, including Istio, Linkerd, and Consul. With Meshery, developers can streamline their service mesh lifecycle management and focus on building scalable, secure, and resilient applications.
 
 ---
 

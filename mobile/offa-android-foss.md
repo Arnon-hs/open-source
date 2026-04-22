@@ -25,7 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-offa/android-foss is a promising open-source project. Categories: Mobile. Interest score: 92/100.
+offa/android-foss is an open-source repository providing a comprehensive list of Free and Open Source Software (FOSS) available for Android devices. This collection aims to preserve digital freedom and privacy by offering users a curated selection of FOSS options for various applications and needs. By promoting FOSS on Android, this project supports a more secure and customizable mobile experience.
 
 ---
 

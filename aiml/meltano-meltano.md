@@ -25,7 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-meltano/meltano is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 71/100.
+Meltano is an open-source data integration engine that simplifies the process of connecting and processing data from various sources. By using a declarative approach, users can focus on writing code that defines their data integration needs, rather than dealing with complex API integrations. This allows for efficient and scalable data integration, enabling the creation of AI and ML-powered products with ease.
 
 ---
 

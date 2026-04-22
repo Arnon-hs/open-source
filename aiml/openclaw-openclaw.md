@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 362.3k |
+| ⭐ **Stars** | 362.4k |
 | 🍴 **Forks** | 74k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 99/100 |
@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-openclaw/openclaw is a promising open-source project. Categories: AI/ML, Data. Interest score: 99/100.
+OpenClaw is an open-source AI assistant project that enables users to have a personal AI companion on any operating system or platform. This project aims to provide a flexible and adaptable AI solution for a wide range of users, focusing on ease of use and customization. By leveraging AI and machine learning technologies, OpenClaw strives to revolutionize the way people interact with technology.
 
 ---
 

@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-apache/hudi is a promising open-source project. Categories: Data. Interest score: 100/100.
+Apache Hudi is an open-source project that enables efficient handling of upserts, deletes, and incremental processing on large-scale big data. It provides a scalable and high-performance solution for real-time data ingestion and processing, making it suitable for various use cases such as data warehousing, analytics, and IoT applications. By leveraging Hudi, developers can build robust and fault-tolerant data pipelines that support continuous data growth and evolution.
 
 ---
 

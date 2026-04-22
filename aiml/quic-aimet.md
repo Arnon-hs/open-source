@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-quic/aimet is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 75/100.
+AIMET is an open-source library that offers advanced quantization and compression techniques for trained neural network models, enabling efficient model deployment in resource-constrained environments. By leveraging AIMET, developers can compress and optimize their models without sacrificing performance, making it easier to deploy AI applications in various industries. This library is a valuable resource for AI/ML researchers and practitioners looking to optimize their models.
 
 ---
 

@@ -14,9 +14,9 @@
 | 4 | [brave/brave-browser](./brave-brave-browser.md) | ⭐ 22.3k | — | 97/100 |
 | 5 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 12.9k | Swift | 96/100 |
 | 6 | [offa/android-foss](./offa-android-foss.md) | ⭐ 9.9k | Python | 92/100 |
-| 7 | [cake-tech/cake_wallet](./cake-tech-cake-wallet.md) | ⭐ 1.6k | Dart | 67/100 |
-| 8 | [nightscout/AndroidAPS](./nightscout-androidaps.md) | ⭐ 1.1k | Kotlin | 67/100 |
-| 9 | [LinwoodDev/Butterfly](./linwooddev-butterfly.md) | ⭐ 1.8k | Dart | 65/100 |
+| 7 | [nightscout/AndroidAPS](./nightscout-androidaps.md) | ⭐ 1.1k | Kotlin | 67/100 |
+| 8 | [LinwoodDev/Butterfly](./linwooddev-butterfly.md) | ⭐ 1.8k | Dart | 65/100 |
+| 9 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 63/100 |
 | 10 | [DustinWin/proxy-tools](./dustinwin-proxy-tools.md) | ⭐ 1.5k | — | 61/100 |
 
 ---

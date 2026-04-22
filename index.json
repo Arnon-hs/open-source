@@ -1458,9 +1458,9 @@
       "tinyml"
     ],
     "createdAt": "2023-09-06T19:31:06Z",
-    "updatedAt": "2026-04-22T23:32:50Z",
+    "updatedAt": "2026-04-22T23:48:31Z",
     "id": "harvard-edge/cs249r_book",
-    "discoveredAt": "2026-04-22T23:33:11.679Z",
+    "discoveredAt": "2026-04-22T23:48:50.141Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -1473,35 +1473,43 @@
       "AI/ML"
     ],
     "status": "active",
-    "summaryRu": "harvard-edge/cs249r_book: перспективный open-source проект. Категории: AI/ML. Интересность: 100/100.",
-    "summaryEn": "harvard-edge/cs249r_book is a promising open-source project. Categories: AI/ML. Interest score: 100/100."
+    "summaryRu": "Резюме:\n\nПроект \"harvard-edge/cs249r_book\" представляет собой открытое руководство по машинным обучающим системам (Machine Learning Systems). В книге рассматриваются основные концепции и принципы создания эффективных и надежных машинных обучающих систем, что станет ценным ресурсом для специалистов в области искусственного интеллекта и машинного обучения. Проект предназначен для использования в образовательных целях и может быть полезен разработчикам и исследователям, работающим в области AI/ML.",
+    "summaryEn": "The \"Machine Learning Systems\" project, available on the harvard-edge/cs249r_book repository, focuses on providing a comprehensive resource for understanding the design and implementation of machine learning systems. This project delves into the complexities of building and deploying machine learning models, covering topics such as scalability, reliability, and interpretability. By offering an open-source platform, it enables developers and researchers to explore and contribute to the field of machine learning systems."
   },
   {
-    "externalId": "76474200",
+    "externalId": "21827146",
     "source": "github",
-    "url": "https://github.com/apache/hudi",
-    "owner": "apache",
-    "name": "hudi",
-    "title": "apache/hudi",
-    "description": "Upserts, Deletes And Incremental Processing on Big Data.",
-    "stars": 6145,
-    "forks": 2479,
-    "language": "Java",
+    "url": "https://github.com/seaweedfs/seaweedfs",
+    "owner": "seaweedfs",
+    "name": "seaweedfs",
+    "title": "seaweedfs/seaweedfs",
+    "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+    "stars": 31698,
+    "forks": 2786,
+    "language": "Go",
     "topics": [
-      "apacheflink",
-      "apachehudi",
-      "apachespark",
-      "bigdata",
-      "data-integration",
-      "datalake",
-      "hudi",
-      "incremental-processing",
-      "stream-processing"
+      "blob-storage",
+      "cloud-drive",
+      "distributed-file-system",
+      "distributed-storage",
+      "distributed-systems",
+      "erasure-coding",
+      "fuse",
+      "hadoop-hdfs",
+      "hdfs",
+      "kubernetes",
+      "object-storage",
+      "posix",
+      "replication",
+      "s3",
+      "s3-storage",
+      "seaweedfs",
+      "tiered-file-system"
     ],
-    "createdAt": "2016-12-14T15:53:41Z",
-    "updatedAt": "2026-04-22T23:32:41Z",
-    "id": "apache/hudi",
-    "discoveredAt": "2026-04-22T23:33:11.679Z",
+    "createdAt": "2014-07-14T16:41:37Z",
+    "updatedAt": "2026-04-22T23:47:06Z",
+    "id": "seaweedfs/seaweedfs",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -1511,99 +1519,13 @@
       "sourceTrust": 1
     },
     "categories": [
-      "Data"
+      "AI/ML",
+      "DevOps/Infra",
+      "Design"
     ],
     "status": "active",
-    "summaryRu": "apache/hudi: перспективный open-source проект. Категории: Data. Интересность: 100/100.",
-    "summaryEn": "apache/hudi is a promising open-source project. Categories: Data. Interest score: 100/100."
-  },
-  {
-    "externalId": "826170402",
-    "source": "github",
-    "url": "https://github.com/elizaOS/eliza",
-    "owner": "elizaOS",
-    "name": "eliza",
-    "title": "elizaOS/eliza",
-    "description": "Autonomous agents for everyone",
-    "stars": 18233,
-    "forks": 5498,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "agentic",
-      "ai",
-      "autonomous",
-      "chatbot",
-      "crypto",
-      "discord",
-      "eliza",
-      "elizaos",
-      "framework",
-      "plugins",
-      "rag",
-      "slack",
-      "swarm",
-      "telegram"
-    ],
-    "createdAt": "2024-07-09T07:55:40Z",
-    "updatedAt": "2026-04-22T23:32:03Z",
-    "id": "elizaos/eliza",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "AI/ML"
-    ],
-    "status": "active",
-    "summaryRu": "elizaOS/eliza: перспективный open-source проект. Категории: AI/ML. Интересность: 100/100.",
-    "summaryEn": "elizaOS/eliza is a promising open-source project. Categories: AI/ML. Interest score: 100/100."
-  },
-  {
-    "externalId": "375111441",
-    "source": "github",
-    "url": "https://github.com/SimplifyJobs/New-Grad-Positions",
-    "owner": "SimplifyJobs",
-    "name": "New-Grad-Positions",
-    "title": "SimplifyJobs/New-Grad-Positions",
-    "description": "A collection of full time roles in SWE, Quant, and PM for new grads.",
-    "stars": 16762,
-    "forks": 1279,
-    "topics": [
-      "applications",
-      "coderquad",
-      "college",
-      "fulltime",
-      "hacktoberfest",
-      "jobs",
-      "newgrad",
-      "position",
-      "posting",
-      "university"
-    ],
-    "createdAt": "2021-06-08T18:44:46Z",
-    "updatedAt": "2026-04-22T23:31:15Z",
-    "id": "simplifyjobs/new-grad-positions",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "Marketing"
-    ],
-    "status": "active",
-    "summaryRu": "SimplifyJobs/New-Grad-Positions: перспективный open-source проект. Категории: Marketing. Интересность: 100/100.",
-    "summaryEn": "SimplifyJobs/New-Grad-Positions is a promising open-source project. Categories: Marketing. Interest score: 100/100."
+    "summaryRu": "Резюме:\n\n\"SeaweedFS - это распределенная система хранения для объектной хранилища (S3), файловых систем и таблиц Iceberg, предназначенная для работы с миллиардами файлов и обеспечения быстрого доступа к данным с возможностью горизонтального масштабирования. SeaweedFS обеспечивает быструю и надежную обработку данных, что делает ее идеальным решением для проектов AI/ML и DevOps. Благодаря своей открытой инфраструктуре, SeaweedFS позволяет легко масштабировать систему и управлять большими объемами данных.\"",
+    "summaryEn": "Here's a 2-3 sentence summary for the SeaweedFS project:\n\nSeaweedFS is an open-source, distributed storage system designed to handle massive volumes of files with high performance and effortless scalability. It supports object storage (S3), file systems, and Iceberg tables, making it a versatile solution for various data-intensive applications. With O(1) disk access, SeaweedFS can efficiently manage billions of files."
   },
   {
     "externalId": "32231207",
@@ -1641,7 +1563,7 @@
     "createdAt": "2015-03-14T20:44:39Z",
     "updatedAt": "2026-04-22T22:03:55Z",
     "id": "endless-sky/endless-sky",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -1654,8 +1576,8 @@
       "Misc"
     ],
     "status": "active",
-    "summaryRu": "endless-sky/endless-sky: перспективный open-source проект. Категории: Misc. Интересность: 100/100.",
-    "summaryEn": "endless-sky/endless-sky is a promising open-source project. Categories: Misc. Interest score: 100/100."
+    "summaryRu": "\"Endless Sky - это свободный и открытый космический эксплорер, торговый и боевой симулятор, в котором игроки могут исследовать галактику, торговать товарами и участвовать в космических боях. Игра предлагает глубокую игровую механику и интерактивный мир, позволяя пользователям создавать свою судьбу в космосе. С помощью Endless Sky игроки могут исследовать разнообразные планеты, торговаться с другими космонавтами и участвовать в космических битвах.\"",
+    "summaryEn": "Endless Sky is an open-source space exploration, trading, and combat game. Players can navigate through a vast galaxy, engaging in space combat, trading resources, and exploring new planets. With its vast open world and customizable gameplay, Endless Sky offers a rich and immersive experience for fans of space simulation games."
   },
   {
     "externalId": "17371412",
@@ -1693,7 +1615,7 @@
     "createdAt": "2014-03-03T16:08:07Z",
     "updatedAt": "2026-04-22T14:49:55Z",
     "id": "h2oai/h2o-3",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -1707,8 +1629,202 @@
       "Data"
     ],
     "status": "active",
-    "summaryRu": "h2oai/h2o-3: перспективный open-source проект. Категории: AI/ML, Data. Интересность: 100/100.",
-    "summaryEn": "h2oai/h2o-3 is a promising open-source project. Categories: AI/ML, Data. Interest score: 100/100."
+    "summaryRu": "Резюме проекта:\n\n\"Х2О (H2O) - это открытый исходный код, распределенный, быстрый и масштабируемый платформы машинного обучения, поддерживающая широкий спектр алгоритмов, включая глубокое обучение, решающие деревья, градиентный бустинг, линейное регрессионное моделирование и многомерную кластеризацию. Платформа предназначена для работы с большими данными и поддерживает автоматическое машинное обучение. H2O - это мощный инструмент для анализа и прогнозирования данных.\"",
+    "summaryEn": "Here's a brief summary of the H2O-3 project:\n\nH2O-3 is an open-source, distributed machine learning platform that enables fast and scalable data analysis and modeling. It supports a wide range of algorithms, including deep learning, gradient boosting, random forests, and more, allowing users to build complex predictive models with ease. With its extensive feature set and flexible architecture, H2O-3 is an ideal choice for data scientists and analysts working with large datasets."
+  },
+  {
+    "externalId": "90506918",
+    "source": "github",
+    "url": "https://github.com/rapidsai/cudf",
+    "owner": "rapidsai",
+    "name": "cudf",
+    "title": "rapidsai/cudf",
+    "description": "cuDF - GPU DataFrame Library ",
+    "stars": 9606,
+    "forks": 1043,
+    "language": "C++",
+    "topics": [
+      "arrow",
+      "cpp",
+      "cuda",
+      "cudf",
+      "dask",
+      "data-analysis",
+      "data-science",
+      "dataframe",
+      "gpu",
+      "pandas",
+      "pydata",
+      "python",
+      "rapids"
+    ],
+    "createdAt": "2017-05-07T03:43:37Z",
+    "updatedAt": "2026-04-22T23:43:53Z",
+    "id": "rapidsai/cudf",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Backend",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме проекта rapidsai/cudf:\n\ncuDF - это уникальная GPU-библиотека для работы с DataFrame. Она позволяет выполнять операции с данными на графических процессорах NVIDIA, что обеспечивает значительное ускорение процессов анализа данных и машинного обучения. cuDF предлагает полноценную поддержку функций DataFrame, включая filtering, grouping, сортировку и объединение, что делает ее идеальным инструментом для исследователей и разработчиков AI/ML.",
+    "summaryEn": "cuDF is an open-source, GPU-accelerated library for data manipulation and analysis, designed to work seamlessly with popular data science frameworks. It enables users to efficiently process large datasets by leveraging the power of NVIDIA GPUs, significantly accelerating common data operations such as filtering, grouping, and sorting. cuDF provides a familiar Pandas-like API, making it an ideal choice for data scientists and engineers working with big data."
+  },
+  {
+    "externalId": "3618133",
+    "source": "github",
+    "url": "https://github.com/web-platform-tests/wpt",
+    "owner": "web-platform-tests",
+    "name": "wpt",
+    "title": "web-platform-tests/wpt",
+    "description": "Test suites for Web platform specs — including WHATWG, W3C, and others",
+    "stars": 5896,
+    "forks": 3784,
+    "language": "HTML",
+    "topics": [
+      "blink",
+      "browser",
+      "dom",
+      "firefox",
+      "gecko",
+      "google-chrome",
+      "html",
+      "javascript",
+      "microsoft-edge",
+      "opera",
+      "safari",
+      "test-automation",
+      "test-runner",
+      "testing",
+      "w3c",
+      "web-development",
+      "web-standards",
+      "webkit",
+      "whatwg"
+    ],
+    "createdAt": "2012-03-04T12:58:11Z",
+    "updatedAt": "2026-04-22T23:38:28Z",
+    "id": "web-platform-tests/wpt",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nПроект web-platform-tests/wpt представляет собой набор тестовых сценариев для веб-платформы, включая specs от WHATWG, W3C и других. Целью проекта является обеспечение качества и стабильности веб-приложений, а также предоставление инструментов для разработчиков для проверки совместимости их кода с различными веб-стандартами. Проект является открытым и может быть использован для тестирования и проверки веб-приложений.",
+    "summaryEn": "Here's a brief summary for the web-platform-tests/wpt project:\n\nWeb-platform-tests/wpt is an open-source test suite repository that helps ensure the accuracy and consistency of web platform specifications. It covers a wide range of standards from organizations like WHATWG, W3C, and others, providing a comprehensive testing framework for web developers and implementers. This collaborative effort enables the development of a more reliable and compatible web ecosystem."
+  },
+  {
+    "externalId": "31792824",
+    "source": "github",
+    "url": "https://github.com/flutter/flutter",
+    "owner": "flutter",
+    "name": "flutter",
+    "title": "flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "stars": 176074,
+    "forks": 30269,
+    "language": "Dart",
+    "topics": [
+      "android",
+      "app-framework",
+      "cross-platform",
+      "dart",
+      "dart-platform",
+      "desktop",
+      "flutter",
+      "flutter-package",
+      "fuchsia",
+      "ios",
+      "linux-desktop",
+      "macos",
+      "material-design",
+      "mobile",
+      "mobile-development",
+      "skia",
+      "web",
+      "web-framework",
+      "windows"
+    ],
+    "createdAt": "2015-03-06T22:54:58Z",
+    "updatedAt": "2026-04-22T23:36:45Z",
+    "id": "flutter/flutter",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend",
+      "Mobile",
+      "Design"
+    ],
+    "status": "active",
+    "summaryRu": "Здесь краткое резюме проекта Flutter:\n\nФлуттер - мощный и быстрый инструментарий для создания красивых и полнофункциональных приложений для мобильных устройств и веб-ресурсов. Это кроссплатформенное решение, позволяющее разработчикам создавать приложения для Android, iOS и веб-браузеров с помощью одной и той же кодовой базы. Флуттер легко в использовании и позволяет создавать сложные интерфейсы с минимальными усилиями.",
+    "summaryEn": "Flutter is an open-source project that empowers developers to create visually stunning and high-performance mobile and web applications with ease and speed. It provides a comprehensive set of tools and libraries to design, develop, and deploy cross-platform apps for various platforms. By leveraging Flutter, developers can build native-like apps for mobile, web, and desktop environments using a single codebase."
+  },
+  {
+    "externalId": "76474200",
+    "source": "github",
+    "url": "https://github.com/apache/hudi",
+    "owner": "apache",
+    "name": "hudi",
+    "title": "apache/hudi",
+    "description": "Upserts, Deletes And Incremental Processing on Big Data.",
+    "stars": 6145,
+    "forks": 2479,
+    "language": "Java",
+    "topics": [
+      "apacheflink",
+      "apachehudi",
+      "apachespark",
+      "bigdata",
+      "data-integration",
+      "datalake",
+      "hudi",
+      "incremental-processing",
+      "stream-processing"
+    ],
+    "createdAt": "2016-12-14T15:53:41Z",
+    "updatedAt": "2026-04-22T23:32:41Z",
+    "id": "apache/hudi",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nApache Hudi - это распределенный набор библиотеки для обработки данных, специально предназначенный для выполнения операций добавления, обновления и удаления (Upserts, Deletes) в больших данных. Это уникальное решение, позволяющее осуществлять инкрементальную обработку данных, что обеспечивает высокую производительность и гибкость при работе с большими данными. Apache Hudi является частью экосистемы Apache и может использоваться совместно с различными системами хранения данных и процессами вычислений.",
+    "summaryEn": "Apache Hudi is an open-source project that enables efficient handling of upserts, deletes, and incremental processing on large-scale big data. It provides a scalable and high-performance solution for real-time data ingestion and processing, making it suitable for various use cases such as data warehousing, analytics, and IoT applications. By leveraging Hudi, developers can build robust and fault-tolerant data pipelines that support continuous data growth and evolution."
   },
   {
     "externalId": "157554479",
@@ -1746,7 +1862,7 @@
     "createdAt": "2018-11-14T13:41:00Z",
     "updatedAt": "2026-04-22T23:28:17Z",
     "id": "meshery/meshery",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
+    "discoveredAt": "2026-04-22T23:48:50.143Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -1761,201 +1877,8 @@
       "DevOps/Infra"
     ],
     "status": "active",
-    "summaryRu": "meshery/meshery: перспективный open-source проект. Категории: Frontend, DevTools, DevOps/Infra. Интересность: 100/100.",
-    "summaryEn": "meshery/meshery is a promising open-source project. Categories: Frontend, DevTools, DevOps/Infra. Interest score: 100/100."
-  },
-  {
-    "externalId": "357728969",
-    "source": "github",
-    "url": "https://github.com/oven-sh/bun",
-    "owner": "oven-sh",
-    "name": "bun",
-    "title": "oven-sh/bun",
-    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-    "stars": 89276,
-    "forks": 4365,
-    "language": "Zig",
-    "topics": [
-      "bun",
-      "bundler",
-      "javascript",
-      "javascriptcore",
-      "jsx",
-      "nodejs",
-      "npm",
-      "react",
-      "transpiler",
-      "typescript",
-      "zig",
-      "ziglang"
-    ],
-    "createdAt": "2021-04-14T00:48:17Z",
-    "updatedAt": "2026-04-22T23:24:57Z",
-    "id": "oven-sh/bun",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "Frontend",
-      "DevTools"
-    ],
-    "status": "active",
-    "summaryRu": "oven-sh/bun: перспективный open-source проект. Категории: Frontend, DevTools. Интересность: 100/100.",
-    "summaryEn": "oven-sh/bun is a promising open-source project. Categories: Frontend, DevTools. Interest score: 100/100."
-  },
-  {
-    "externalId": "39464018",
-    "source": "github",
-    "url": "https://github.com/apache/superset",
-    "owner": "apache",
-    "name": "superset",
-    "title": "apache/superset",
-    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-    "stars": 72542,
-    "forks": 17093,
-    "language": "TypeScript",
-    "topics": [
-      "analytics",
-      "apache",
-      "apache-superset",
-      "asf",
-      "bi",
-      "business-analytics",
-      "business-intelligence",
-      "data-analysis",
-      "data-analytics",
-      "data-engineering",
-      "data-science",
-      "data-visualization",
-      "data-viz",
-      "flask",
-      "python",
-      "react",
-      "sql-editor",
-      "superset"
-    ],
-    "createdAt": "2015-07-21T18:55:34Z",
-    "updatedAt": "2026-04-22T23:19:04Z",
-    "id": "apache/superset",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "Frontend",
-      "Data"
-    ],
-    "status": "active",
-    "summaryRu": "apache/superset: перспективный open-source проект. Категории: Frontend, Data. Интересность: 100/100.",
-    "summaryEn": "apache/superset is a promising open-source project. Categories: Frontend, Data. Interest score: 100/100."
-  },
-  {
-    "externalId": "31792824",
-    "source": "github",
-    "url": "https://github.com/flutter/flutter",
-    "owner": "flutter",
-    "name": "flutter",
-    "title": "flutter/flutter",
-    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-    "stars": 176074,
-    "forks": 30269,
-    "language": "Dart",
-    "topics": [
-      "android",
-      "app-framework",
-      "cross-platform",
-      "dart",
-      "dart-platform",
-      "desktop",
-      "flutter",
-      "flutter-package",
-      "fuchsia",
-      "ios",
-      "linux-desktop",
-      "macos",
-      "material-design",
-      "mobile",
-      "mobile-development",
-      "skia",
-      "web",
-      "web-framework",
-      "windows"
-    ],
-    "createdAt": "2015-03-06T22:54:58Z",
-    "updatedAt": "2026-04-22T23:21:45Z",
-    "id": "flutter/flutter",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "Frontend",
-      "Mobile",
-      "Design"
-    ],
-    "status": "active",
-    "summaryRu": "flutter/flutter: перспективный open-source проект. Категории: Frontend, Mobile, Design. Интересность: 100/100.",
-    "summaryEn": "flutter/flutter is a promising open-source project. Categories: Frontend, Mobile, Design. Interest score: 100/100."
-  },
-  {
-    "externalId": "3559019",
-    "source": "github",
-    "url": "https://github.com/WeblateOrg/weblate",
-    "owner": "WeblateOrg",
-    "name": "weblate",
-    "title": "WeblateOrg/weblate",
-    "description": "Web based localization tool with tight version control integration.",
-    "stars": 5836,
-    "forks": 1271,
-    "language": "Python",
-    "topics": [
-      "continuous-localization",
-      "crowdsourcing",
-      "dcode-2025",
-      "django",
-      "gettext",
-      "hacktoberfest",
-      "i18n",
-      "internationalization",
-      "l10n",
-      "localization",
-      "python",
-      "translation"
-    ],
-    "createdAt": "2012-02-27T09:33:29Z",
-    "updatedAt": "2026-04-22T23:17:43Z",
-    "id": "weblateorg/weblate",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "WeblateOrg/weblate: перспективный open-source проект. Категории: Misc. Интересность: 100/100.",
-    "summaryEn": "WeblateOrg/weblate is a promising open-source project. Categories: Misc. Interest score: 100/100."
+    "summaryRu": "Резюме:\n\nMeshery (meshery/meshery) - это облачный управляющий проект, предназначенный для максимально простого управления и конфигурации облачных сервисов. Он представляет собой облачный native менеджер, который может обрабатывать различные типы облачных сервисов и обеспечивать гибкость в их конфигурации. Meshery предназначен для использования в среде DevOps и инфраструктуры, позволяя командам и разработчикам максимально быстро и эффективно создавать и настраивать облачные приложения.",
+    "summaryEn": "Meshery is an open-source, cloud-native manager that simplifies the complex task of managing and deploying service mesh applications. It provides a unified interface for deploying, managing, and scaling service mesh implementations, including Istio, Linkerd, and Consul. With Meshery, developers can streamline their service mesh lifecycle management and focus on building scalable, secure, and resilient applications."
   },
   {
     "externalId": "106017343",
@@ -2211,44 +2134,162 @@
     "summaryEn": "XRPLF/rippled is a promising open-source project. Categories: AI/ML. Interest score: 99/100."
   },
   {
-    "externalId": "13914116",
+    "externalId": "320636477",
     "source": "github",
-    "url": "https://github.com/librenms/librenms",
-    "owner": "librenms",
-    "name": "librenms",
-    "title": "librenms/librenms",
-    "description": "Community-based GPL-licensed network monitoring system",
-    "stars": 4675,
-    "forks": 2650,
-    "language": "PHP",
+    "url": "https://github.com/WebKit/WebKit",
+    "owner": "WebKit",
+    "name": "WebKit",
+    "title": "WebKit/WebKit",
+    "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
+    "stars": 9761,
+    "forks": 1937,
+    "language": "JavaScript",
     "topics": [
-      "hacktoberfest",
-      "laravel",
-      "librenms",
-      "monitoring",
-      "network",
-      "php",
-      "rrd",
-      "snmp"
+      "browser",
+      "gtk",
+      "ios",
+      "javascript",
+      "macos",
+      "web",
+      "webkit"
     ],
-    "createdAt": "2013-10-28T01:37:13Z",
-    "updatedAt": "2026-04-22T23:31:13Z",
-    "id": "librenms/librenms",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
-    "score": 98,
+    "createdAt": "2020-12-11T17:11:43Z",
+    "updatedAt": "2026-04-22T23:47:57Z",
+    "id": "webkit/webkit",
+    "discoveredAt": "2026-04-22T23:48:50.141Z",
+    "score": 99,
     "scoreBreakdown": {
-      "stars": 0.935,
+      "stars": 1,
       "forks": 1,
       "recency": 1,
-      "topics": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Mobile"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nПроект WebKit - это открытый проект, в котором разрабатывается браузерный движок, используемый в Safari, Mail, App Store и многих других приложениях на macOS, iOS и Linux. Движок основан на технологиях AI/ML и предназначен для обеспечения быстрых и эффективных взаимодействий пользователей с веб-контентом. Проект открыт дляcontributions и сотрудничества с сообществом разработчиков.",
+    "summaryEn": "The WebKit project is an open-source browser engine that powers popular applications such as Safari, Mail, and the App Store on macOS, iOS, and Linux platforms. It is a versatile and widely-used engine that enables the development of high-performance web browsers and mobile applications. With its open-source nature, WebKit provides a collaborative platform for developers to contribute and improve the engine's functionality."
+  },
+  {
+    "externalId": "1103012935",
+    "source": "github",
+    "url": "https://github.com/openclaw/openclaw",
+    "owner": "openclaw",
+    "name": "openclaw",
+    "title": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "stars": 362418,
+    "forks": 74017,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "assistant",
+      "crustacean",
+      "molty",
+      "openclaw",
+      "own-your-data",
+      "personal"
+    ],
+    "createdAt": "2025-11-24T10:16:47Z",
+    "updatedAt": "2026-04-22T23:47:59Z",
+    "id": "openclaw/openclaw",
+    "discoveredAt": "2026-04-22T23:48:50.141Z",
+    "score": 99,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nOpenClaw - это личный AI-ассистент, доступный на любой ОС и платформе. Этот открытый проект позволяет вам создавать свои собственные умные assistants, используя передовые технологии AI и ML. С OpenClaw вы можете управлять своей цифровой жизнью, получать персонализированную поддержку и расширять функциональность ассистента по своему усмотрению.",
+    "summaryEn": "OpenClaw is an open-source AI assistant project that enables users to have a personal AI companion on any operating system or platform. This project aims to provide a flexible and adaptable AI solution for a wide range of users, focusing on ease of use and customization. By leveraging AI and machine learning technologies, OpenClaw strives to revolutionize the way people interact with technology."
+  },
+  {
+    "externalId": "24560307",
+    "source": "github",
+    "url": "https://github.com/babel/babel",
+    "owner": "babel",
+    "name": "babel",
+    "title": "babel/babel",
+    "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+    "stars": 43891,
+    "forks": 5813,
+    "language": "TypeScript",
+    "topics": [
+      "ast",
+      "babel",
+      "compiler",
+      "es2015",
+      "es6",
+      "flavortown",
+      "javascript"
+    ],
+    "createdAt": "2014-09-28T13:38:23Z",
+    "updatedAt": "2026-04-22T23:47:54Z",
+    "id": "babel/babel",
+    "discoveredAt": "2026-04-22T23:48:50.141Z",
+    "score": 99,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.875,
       "sourceTrust": 1
     },
     "categories": [
       "Misc"
     ],
     "status": "active",
-    "summaryRu": "librenms/librenms: перспективный open-source проект. Категории: Misc. Интересность: 98/100.",
-    "summaryEn": "librenms/librenms is a promising open-source project. Categories: Misc. Interest score: 98/100."
+    "summaryRu": "Резюме:\n\nПроект Babel представляет собой компилятор, предназначенный для переписывания современного JavaScript. Он позволяет писать код на более современных версиях языка, при этом обеспечивая обратную совместимость с устаревшими браузерами и системами. Благодаря этому разработчики могут использовать последние функции JavaScript и технологии в своих проектах, не беспокоясь о поддержке старых браузеров и систем.",
+    "summaryEn": "Babel is an open-source compiler that transforms modern JavaScript into earlier syntax versions for compatibility and use in older environments. It allows developers to write next-generation JavaScript code and ensures it can run across a wide range of platforms. By transpiling code, Babel makes it possible to use cutting-edge JavaScript features in production environments."
+  },
+  {
+    "externalId": "33352201",
+    "source": "github",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "owner": "grpc-ecosystem",
+    "name": "grpc-gateway",
+    "title": "grpc-ecosystem/grpc-gateway",
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "stars": 19879,
+    "forks": 2376,
+    "language": "Go",
+    "topics": [
+      "go",
+      "grpc",
+      "grpc-gateway",
+      "openapi",
+      "rest-api",
+      "restful-api",
+      "swagger"
+    ],
+    "createdAt": "2015-04-03T07:25:13Z",
+    "updatedAt": "2026-04-22T23:47:04Z",
+    "id": "grpc-ecosystem/grpc-gateway",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
+    "score": 99,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\n«grpc-ecosystem/grpc-gateway» - это открытый исходный проект, который преобразует API gRPC в JSON-прокси, поддерживающий HTTP-спецификацию gRPC. Это позволяет взаимодействовать с сервисами gRPC через стандартные HTTP-запросы. Проект идеально подходит для создания обратных прокси и микросервисных архитектур.",
+    "summaryEn": "The grpc-gateway project is an open-source tool that generates a JSON proxy from a gRPC Service Definition file, allowing for seamless communication between gRPC services and JSON-based clients. It follows the gRPC HTTP spec, making it easy to integrate with existing gRPC services and HTTP clients. This enables developers to easily expose their gRPC services to a wider range of clients."
   },
   {
     "externalId": "62117812",
@@ -2324,6 +2365,44 @@
     "status": "active",
     "summaryRu": "brave/brave-browser: перспективный open-source проект. Категории: Mobile. Интересность: 97/100.",
     "summaryEn": "brave/brave-browser is a promising open-source project. Categories: Mobile. Interest score: 97/100."
+  },
+  {
+    "externalId": "3217621",
+    "source": "github",
+    "url": "https://github.com/phpmyadmin/phpmyadmin",
+    "owner": "phpmyadmin",
+    "name": "phpmyadmin",
+    "title": "phpmyadmin/phpmyadmin",
+    "description": "A web interface for MySQL and MariaDB",
+    "stars": 7859,
+    "forks": 3571,
+    "language": "PHP",
+    "topics": [
+      "hacktoberfest",
+      "mariadb",
+      "mysql",
+      "php",
+      "phpmyadmin",
+      "web-app"
+    ],
+    "createdAt": "2012-01-19T13:21:52Z",
+    "updatedAt": "2026-04-22T23:42:02Z",
+    "id": "phpmyadmin/phpmyadmin",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
+    "score": 97,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.75,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nPhpMyAdmin - это популярный веб-интерфейс для управления базами данных MySQL и MariaDB. Он позволяет администраторам создавать, редактировать и удалять таблицы, вставлять и редактировать данные, а также выполнять другие задачи по управлению базами данных. PhpMyAdmin доступен в виде open-source проекта и широко используется веб-разработчиками и администраторами баз данных по всему миру.",
+    "summaryEn": "PhpMyAdmin is a free and open-source web-based interface for managing MySQL and MariaDB databases. It provides a user-friendly and feature-rich environment for database administrators and developers to perform tasks such as database creation, user management, and SQL query execution. With PhpMyAdmin, users can easily manage their databases and perform various tasks without the need for manual SQL commands."
   },
   {
     "externalId": "105808767",
@@ -2559,78 +2638,51 @@
     "summaryEn": "mozilla-mobile/firefox-ios is a promising open-source project. Categories: Mobile. Interest score: 96/100."
   },
   {
-    "externalId": "24420506",
+    "externalId": "309512982",
     "source": "github",
-    "url": "https://github.com/v8/v8",
-    "owner": "v8",
-    "name": "v8",
-    "title": "v8/v8",
-    "description": "The official mirror of the V8 Git repository",
-    "stars": 24978,
-    "forks": 4253,
+    "url": "https://github.com/redpanda-data/redpanda",
+    "owner": "redpanda-data",
+    "name": "redpanda",
+    "title": "redpanda-data/redpanda",
+    "description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+    "stars": 11996,
+    "forks": 732,
     "language": "C++",
     "topics": [
-      "compiler",
-      "interpreter",
-      "javascript",
-      "javascript-engine",
-      "virtual-machine"
+      "containers",
+      "cpp",
+      "event-driven",
+      "go",
+      "kafka",
+      "kubernetes",
+      "microservices",
+      "realtime",
+      "redpanda",
+      "seastar",
+      "storage-engine",
+      "stream-processing",
+      "streaming"
     ],
-    "createdAt": "2014-09-24T15:24:30Z",
-    "updatedAt": "2026-04-22T23:32:14Z",
-    "id": "v8/v8",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
+    "createdAt": "2020-11-02T22:43:36Z",
+    "updatedAt": "2026-04-22T23:47:55Z",
+    "id": "redpanda-data/redpanda",
+    "discoveredAt": "2026-04-22T23:48:50.141Z",
     "score": 96,
     "scoreBreakdown": {
       "stars": 1,
-      "forks": 1,
+      "forks": 0.732,
       "recency": 1,
-      "topics": 0.625,
+      "topics": 1,
       "sourceTrust": 1
     },
     "categories": [
-      "Misc"
+      "AI/ML",
+      "Backend",
+      "DevTools"
     ],
     "status": "active",
-    "summaryRu": "v8/v8: перспективный open-source проект. Категории: Misc. Интересность: 96/100.",
-    "summaryEn": "v8/v8 is a promising open-source project. Categories: Misc. Interest score: 96/100."
-  },
-  {
-    "externalId": "1181927",
-    "source": "github",
-    "url": "https://github.com/bitcoin/bitcoin",
-    "owner": "bitcoin",
-    "name": "bitcoin",
-    "title": "bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree",
-    "stars": 88899,
-    "forks": 38908,
-    "language": "C++",
-    "topics": [
-      "bitcoin",
-      "c-plus-plus",
-      "cryptocurrency",
-      "cryptography",
-      "p2p"
-    ],
-    "createdAt": "2010-12-19T15:16:43Z",
-    "updatedAt": "2026-04-22T23:20:15Z",
-    "id": "bitcoin/bitcoin",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
-    "score": 96,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 0.625,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "bitcoin/bitcoin: перспективный open-source проект. Категории: Misc. Интересность: 96/100.",
-    "summaryEn": "bitcoin/bitcoin is a promising open-source project. Categories: Misc. Interest score: 96/100."
+    "summaryRu": "Резюме:\n\nПроект redpanda - это бесплатная и открытая платформа для обработки потоковых данных, совместимая по API с Apache Kafka. Он предназначен для разработчиков и обеспечивает в 10 раз быстрее работу по сравнению с традиционными решениями. Redpanda не требует использования ZooKeeper и JVM, что упрощает эксплуатацию и развитие.",
+    "summaryEn": "Redpanda is a high-performance streaming data platform designed for developers, providing a Kafka API compatible solution that is up to 10x faster than traditional alternatives. Built with scalability and efficiency in mind, it eliminates the need for ZooKeeper and the Java Virtual Machine (JVM). Redpanda is an ideal choice for developers seeking a reliable and high-speed data streaming platform."
   },
   {
     "externalId": "659402878",
@@ -2790,42 +2842,6 @@
     "status": "active",
     "summaryRu": "opnsense/core: перспективный open-source проект. Категории: Frontend, Backend. Интересность: 95/100.",
     "summaryEn": "opnsense/core is a promising open-source project. Categories: Frontend, Backend. Interest score: 95/100."
-  },
-  {
-    "externalId": "266417772",
-    "source": "github",
-    "url": "https://github.com/SimplifyJobs/Summer2026-Internships",
-    "owner": "SimplifyJobs",
-    "name": "Summer2026-Internships",
-    "title": "SimplifyJobs/Summer2026-Internships",
-    "description": "Collection of Summer 2026 tech internships!",
-    "stars": 44274,
-    "forks": 3173,
-    "language": "Python",
-    "topics": [
-      "internships",
-      "interview-preparation",
-      "jobs",
-      "university"
-    ],
-    "createdAt": "2020-05-23T20:53:18Z",
-    "updatedAt": "2026-04-22T23:31:26Z",
-    "id": "simplifyjobs/summer2026-internships",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
-    "score": 95,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 0.5,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "SimplifyJobs/Summer2026-Internships: перспективный open-source проект. Категории: Misc. Интересность: 95/100.",
-    "summaryEn": "SimplifyJobs/Summer2026-Internships is a promising open-source project. Categories: Misc. Interest score: 95/100."
   },
   {
     "externalId": "88298561",
@@ -3061,41 +3077,6 @@
     "summaryEn": "rerun-io/rerun is a promising open-source project. Categories: Data. Interest score: 94/100."
   },
   {
-    "externalId": "93444615",
-    "source": "github",
-    "url": "https://github.com/hashicorp/terraform-provider-aws",
-    "owner": "hashicorp",
-    "name": "terraform-provider-aws",
-    "title": "hashicorp/terraform-provider-aws",
-    "description": "The AWS Provider enables Terraform to manage AWS resources.",
-    "stars": 10850,
-    "forks": 10089,
-    "language": "Go",
-    "topics": [
-      "aws",
-      "terraform",
-      "terraform-provider"
-    ],
-    "createdAt": "2017-06-05T20:37:52Z",
-    "updatedAt": "2026-04-22T23:25:08Z",
-    "id": "hashicorp/terraform-provider-aws",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
-    "score": 94,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 0.375,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "DevOps/Infra"
-    ],
-    "status": "active",
-    "summaryRu": "hashicorp/terraform-provider-aws: перспективный open-source проект. Категории: DevOps/Infra. Интересность: 94/100.",
-    "summaryEn": "hashicorp/terraform-provider-aws is a promising open-source project. Categories: DevOps/Infra. Interest score: 94/100."
-  },
-  {
     "externalId": "590158156",
     "source": "github",
     "url": "https://github.com/ubicloud/ubicloud",
@@ -3290,7 +3271,7 @@
     "createdAt": "2017-03-20T15:06:16Z",
     "updatedAt": "2026-04-22T22:57:00Z",
     "id": "offa/android-foss",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
     "score": 92,
     "scoreBreakdown": {
       "stars": 1,
@@ -3303,8 +3284,8 @@
       "Mobile"
     ],
     "status": "active",
-    "summaryRu": "offa/android-foss: перспективный open-source проект. Категории: Mobile. Интересность: 92/100.",
-    "summaryEn": "offa/android-foss is a promising open-source project. Categories: Mobile. Interest score: 92/100."
+    "summaryRu": "Резюме:\n\nПроект offa/android-foss представляет собой коллекцию свободных и открытых программ для Андроид, призванных защитить свободу и конфиденциальность пользователей. В этом проекте собраны лучшие альтернативы проприетарным приложениям, позволяющие сохранить независимость и безопасность в цифровом пространстве. Offa/android-foss – это мощный инструмент для тех, кто ценит свободу и готов защищать ее.",
+    "summaryEn": "offa/android-foss is an open-source repository providing a comprehensive list of Free and Open Source Software (FOSS) available for Android devices. This collection aims to preserve digital freedom and privacy by offering users a curated selection of FOSS options for various applications and needs. By promoting FOSS on Android, this project supports a more secure and customizable mobile experience."
   },
   {
     "externalId": "1128712337",
@@ -3378,6 +3359,52 @@
     "status": "active",
     "summaryRu": "lightdash/lightdash: перспективный open-source проект. Категории: Data. Интересность: 91/100.",
     "summaryEn": "lightdash/lightdash is a promising open-source project. Categories: Data. Interest score: 91/100."
+  },
+  {
+    "externalId": "660776503",
+    "source": "github",
+    "url": "https://github.com/paradedb/paradedb",
+    "owner": "paradedb",
+    "name": "paradedb",
+    "title": "paradedb/paradedb",
+    "description": "Simple, Elastic-quality search for Postgres",
+    "stars": 8681,
+    "forks": 371,
+    "language": "Rust",
+    "topics": [
+      "aggregations",
+      "analytics",
+      "bm25",
+      "database",
+      "elasticsearch",
+      "full-text-search",
+      "htap",
+      "hybrid-search",
+      "olap",
+      "postgresql",
+      "real-time-analytics",
+      "similarity-search",
+      "sparse-vector",
+      "sql"
+    ],
+    "createdAt": "2023-06-30T20:21:47Z",
+    "updatedAt": "2026-04-22T23:39:18Z",
+    "id": "paradedb/paradedb",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
+    "score": 91,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.371,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nПроект ParadeDB представляет собой простую и эластичную систему поиска для баз данных Postgres, позволяющую быстро и эффективно находить необходимую информацию. Этот проект предназначен для обеспечения высокоэффективного поиска и анализа данных в различных бизнес-приложениях. ParadeDB предлагает индексирование данных и быструю поисковую систему, что делает его идеальным решением для больших объёмов данных.",
+    "summaryEn": "ParadeDB is an open-source, Postgres-based search engine designed to achieve high-quality search results while maintaining scalability and elasticity. It enables users to efficiently search and retrieve data from Postgres databases with ease. By leveraging the capabilities of Postgres, ParadeDB provides a powerful and seamless search experience."
   },
   {
     "externalId": "75821432",
@@ -3525,52 +3552,35 @@
     "summaryEn": "errbit/errbit is a promising open-source project. Categories: AI/ML, Backend. Interest score: 90/100."
   },
   {
-    "externalId": "859956307",
+    "externalId": "1202057891",
     "source": "github",
-    "url": "https://github.com/aipotheosis-labs/aci",
-    "owner": "aipotheosis-labs",
-    "name": "aci",
-    "title": "aipotheosis-labs/aci",
-    "description": "ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.",
-    "stars": 4752,
-    "forks": 455,
-    "language": "Python",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "api",
-      "developer-tools",
-      "function-calling",
-      "integration",
-      "llm",
-      "mcp",
-      "oauth2",
-      "open-source",
-      "permissions",
-      "tools",
-      "vibeops"
-    ],
-    "createdAt": "2024-09-19T15:06:53Z",
-    "updatedAt": "2026-04-22T23:31:33Z",
-    "id": "aipotheosis-labs/aci",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
+    "url": "https://github.com/garrytan/gbrain",
+    "owner": "garrytan",
+    "name": "gbrain",
+    "title": "garrytan/gbrain",
+    "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+    "stars": 10379,
+    "forks": 1227,
+    "language": "TypeScript",
+    "topics": [],
+    "createdAt": "2026-04-05T14:40:56Z",
+    "updatedAt": "2026-04-22T23:48:19Z",
+    "id": "garrytan/gbrain",
+    "discoveredAt": "2026-04-22T23:48:50.141Z",
     "score": 90,
     "scoreBreakdown": {
-      "stars": 0.9504,
-      "forks": 0.455,
+      "stars": 1,
+      "forks": 1,
       "recency": 1,
-      "topics": 1,
+      "topics": 0,
       "sourceTrust": 1
     },
     "categories": [
-      "AI/ML",
-      "Backend",
-      "DevTools"
+      "AI/ML"
     ],
     "status": "active",
-    "summaryRu": "aipotheosis-labs/aci: перспективный open-source проект. Категории: AI/ML, Backend, DevTools. Интересность: 90/100.",
-    "summaryEn": "aipotheosis-labs/aci is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 90/100."
+    "summaryRu": "Резюме:\n\nGbrain - это открытый проект, представляющий собой разумный агент, построенный на основе OpenClaw и Hermes, способный обрабатывать и анализировать данные для принятия обоснованных решений. Этот проект предназначен для разработчиков и исследователей в области искусственного интеллекта и машинного обучения, которые ищут инновационные решения для сложных задач. Gbrain предлагает гибкую и модульную структуру, позволяющую пользователям адаптировать агента к их конкретным потребностям и задачам.",
+    "summaryEn": "Gbrain is an open-source, opinionated AI/ML framework utilizing OpenClaw and Hermes Agent technologies. This project enables users to develop and integrate autonomous decision-making systems, providing a flexible and adaptable architecture for artificial intelligence applications. By leveraging these technologies, Gbrain aims to simplify AI development and deployment."
   },
   {
     "externalId": "942206898",
@@ -3587,7 +3597,7 @@
     "createdAt": "2025-03-03T18:40:07Z",
     "updatedAt": "2026-04-22T23:28:43Z",
     "id": "ai-dynamo/dynamo",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
+    "discoveredAt": "2026-04-22T23:48:50.143Z",
     "score": 90,
     "scoreBreakdown": {
       "stars": 1,
@@ -3601,8 +3611,8 @@
       "Data"
     ],
     "status": "active",
-    "summaryRu": "ai-dynamo/dynamo: перспективный open-source проект. Категории: AI/ML, Data. Интересность: 90/100.",
-    "summaryEn": "ai-dynamo/dynamo is a promising open-source project. Categories: AI/ML, Data. Interest score: 90/100."
+    "summaryRu": "Резюме:\n\nДинамо - это открытое исходное проект одно из ведущих клоуд-ориентированных систем для распределенной службы инференса, разрабатываемых для масштабных вычислений. Это высокопроизводительное решение, позволяющее принимать быстрые и точные решения с помощью искусственного интеллекта и машинного обучения в реальном времени. Динамо предназначено для работы в датацентрах и может обрабатывать большое количество запросов, обеспечивая высокую скорость и точность.",
+    "summaryEn": "Dynamo is an open-source, datacenter-scale distributed inference serving framework designed to efficiently manage and deploy machine learning models. It provides a scalable platform for serving predictions, enabling high-performance, low-latency, and cost-effective model deployment. By harnessing the power of distributed computing, Dynamo facilitates the rapid deployment and management of AI workloads at massive scale."
   },
   {
     "externalId": "1039587768",
@@ -3864,46 +3874,6 @@
     "summaryEn": "mauriceboe/TREK is a promising open-source project. Categories: Misc. Interest score: 86/100."
   },
   {
-    "externalId": "1036865607",
-    "source": "github",
-    "url": "https://github.com/github/gh-aw",
-    "owner": "github",
-    "name": "gh-aw",
-    "title": "github/gh-aw",
-    "description": "GitHub Agentic Workflows",
-    "stars": 4353,
-    "forks": 359,
-    "language": "Go",
-    "topics": [
-      "actions",
-      "cai",
-      "ci",
-      "claude-code",
-      "codex",
-      "copilot",
-      "gh-extension",
-      "github-actions"
-    ],
-    "createdAt": "2025-08-12T17:40:41Z",
-    "updatedAt": "2026-04-22T23:31:14Z",
-    "id": "github/gh-aw",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
-    "score": 86,
-    "scoreBreakdown": {
-      "stars": 0.8706,
-      "forks": 0.359,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "AI/ML"
-    ],
-    "status": "active",
-    "summaryRu": "github/gh-aw: перспективный open-source проект. Категории: AI/ML. Интересность: 86/100.",
-    "summaryEn": "github/gh-aw is a promising open-source project. Categories: AI/ML. Interest score: 86/100."
-  },
-  {
     "externalId": "716719284",
     "source": "github",
     "url": "https://github.com/openbao/openbao",
@@ -4032,6 +4002,47 @@
     "summaryEn": "generalaction/emdash is a promising open-source project. Categories: AI/ML, DevTools, DevOps/Infra. Interest score: 84/100."
   },
   {
+    "externalId": "141427485",
+    "source": "github",
+    "url": "https://github.com/MetaMask/metamask-mobile",
+    "owner": "MetaMask",
+    "name": "metamask-mobile",
+    "title": "MetaMask/metamask-mobile",
+    "description": "Mobile web browser providing access to websites that use the Ethereum blockchain",
+    "stars": 2896,
+    "forks": 1578,
+    "language": "TypeScript",
+    "topics": [
+      "android",
+      "dapps-browser",
+      "ios",
+      "javascript",
+      "metamask",
+      "react-native",
+      "web3"
+    ],
+    "createdAt": "2018-07-18T11:47:08Z",
+    "updatedAt": "2026-04-22T23:36:30Z",
+    "id": "metamask/metamask-mobile",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "stars": 0.5792,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "Mobile"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nMetaMask/metamask-mobile - это открытое-source мобильное приложение, предоставляющее доступ к веб-сайтам, использующим блокчейн Ethereum. Оно позволяет пользователям взаимодействовать с децентрализованными приложениями и сервисами, использующими технологии Ethereum. Проект предназначен для обеспечения удобной и безопасной работы с блокчейном на мобильных устройствах.",
+    "summaryEn": "MetaMask for Mobile is an open-source, mobile web browser that enables users to access and interact with Ethereum-based websites directly from their mobile devices. This browser provides a seamless experience for users to engage with decentralized applications (dApps) and explore the Ethereum blockchain ecosystem on-the-go. By leveraging the Ethereum blockchain, MetaMask for Mobile offers a secure and decentralized way to interact with web3 applications."
+  },
+  {
     "externalId": "3649922",
     "source": "github",
     "url": "https://github.com/linux-test-project/ltp",
@@ -4118,42 +4129,47 @@
     "summaryEn": "Ed1s0nZ/CyberStrikeAI is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 82/100."
   },
   {
-    "externalId": "240159577",
+    "externalId": "963223041",
     "source": "github",
-    "url": "https://github.com/gfriends/gfriends",
-    "owner": "gfriends",
-    "name": "gfriends",
-    "title": "gfriends/gfriends",
-    "description": "媒体服务器演员头像仓库",
-    "stars": 2739,
-    "forks": 890,
+    "url": "https://github.com/mayocream/koharu",
+    "owner": "mayocream",
+    "name": "koharu",
+    "title": "mayocream/koharu",
+    "description": "ML-powered manga translator, written in Rust.",
+    "stars": 3924,
+    "forks": 204,
+    "language": "Rust",
     "topics": [
-      "adults",
-      "avatar",
-      "emby",
-      "jav",
-      "jav-scraper",
-      "jellyfin",
-      "plex"
+      "computer-vision",
+      "deep-learning",
+      "gpu",
+      "gui",
+      "japanese",
+      "manga",
+      "rust",
+      "tauri",
+      "text-rendering",
+      "translation"
     ],
-    "createdAt": "2020-02-13T02:23:46Z",
-    "updatedAt": "2026-04-22T23:32:27Z",
-    "id": "gfriends/gfriends",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
+    "createdAt": "2025-04-09T10:52:34Z",
+    "updatedAt": "2026-04-22T23:41:59Z",
+    "id": "mayocream/koharu",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
     "score": 81,
     "scoreBreakdown": {
-      "stars": 0.5478,
-      "forks": 0.89,
+      "stars": 0.7848,
+      "forks": 0.204,
       "recency": 1,
-      "topics": 0.875,
+      "topics": 1,
       "sourceTrust": 1
     },
     "categories": [
-      "Misc"
+      "AI/ML",
+      "Frontend"
     ],
     "status": "active",
-    "summaryRu": "gfriends/gfriends: перспективный open-source проект. Категории: Misc. Интересность: 81/100.",
-    "summaryEn": "gfriends/gfriends is a promising open-source project. Categories: Misc. Interest score: 81/100."
+    "summaryRu": "Резюме проекта \"mayocream/koharu\":\n\nКохару - это бесплатный и открытое-source переводчик манги на основе машинного обучения, написанный на языке программирования Rust. Этот проект представляет собой уникальную комбинацию передовых технологий машинного обучения и визуальных интерфейсов для перевода манги. С помощью кохару, любители манги могут легко и быстро переводить любимые комиксы и сериалы на свой язык.",
+    "summaryEn": "Koharu is an open-source, Rust-based project that utilizes machine learning (ML) to power manga translation. This innovative tool aims to bridge language gaps by efficiently translating manga content. By leveraging ML capabilities, Koharu seeks to enhance the reading experience for international manga enthusiasts."
   },
   {
     "externalId": "58146669",
@@ -4314,7 +4330,7 @@
     "createdAt": "2017-04-02T13:20:09Z",
     "updatedAt": "2026-04-22T17:29:25Z",
     "id": "wwbn/avideo",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
     "score": 80,
     "scoreBreakdown": {
       "stars": 0.417,
@@ -4327,8 +4343,8 @@
       "Backend"
     ],
     "status": "active",
-    "summaryRu": "WWBN/AVideo: перспективный open-source проект. Категории: Backend. Интересность: 80/100.",
-    "summaryEn": "WWBN/AVideo is a promising open-source project. Categories: Backend. Interest score: 80/100."
+    "summaryRu": "WWBN/AVideo - это открытое-source платформу для создания собственного вещательного сети, позволяющая пользователям создавать и распространять свои видео-контент. Платформа предназначена для обеспечения свободы выражения мнений и возможности распространения информации. WWBN/AVideo предлагает гибкие возможности для разработчиков и создателей контента, что делает ее идеальной базой для построения персонализированных медиа-сетей.",
+    "summaryEn": "The WWBN/AVideo project is an open-source platform designed to empower users in creating their own broadcast networks. This project, also known as the AVideo Platform Open-Source (OAVP or OVP), allows individuals to build and manage their own video broadcasting systems. With a focus on backend development, WWBN/AVideo aims to provide a flexible and customizable solution for video streaming and broadcasting needs."
   },
   {
     "externalId": "365697493",
@@ -4364,43 +4380,6 @@
     "summaryEn": "leanprover-community/mathlib4 is a promising open-source project. Categories: Misc. Interest score: 79/100."
   },
   {
-    "externalId": "910844218",
-    "source": "github",
-    "url": "https://github.com/papra-hq/papra",
-    "owner": "papra-hq",
-    "name": "papra",
-    "title": "papra-hq/papra",
-    "description": "The minimalistic document archiving platform.",
-    "stars": 4274,
-    "forks": 197,
-    "language": "TypeScript",
-    "topics": [
-      "app",
-      "archive",
-      "document",
-      "documents",
-      "self-hosted"
-    ],
-    "createdAt": "2025-01-01T15:55:20Z",
-    "updatedAt": "2026-04-22T23:31:56Z",
-    "id": "papra-hq/papra",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
-    "score": 79,
-    "scoreBreakdown": {
-      "stars": 0.8548,
-      "forks": 0.197,
-      "recency": 1,
-      "topics": 0.625,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "papra-hq/papra: перспективный open-source проект. Категории: Misc. Интересность: 79/100.",
-    "summaryEn": "papra-hq/papra is a promising open-source project. Categories: Misc. Interest score: 79/100."
-  },
-  {
     "externalId": "155580125",
     "source": "github",
     "url": "https://github.com/KHwang9883/MobileModels",
@@ -4429,50 +4408,6 @@
     "status": "active",
     "summaryRu": "KHwang9883/MobileModels: перспективный open-source проект. Категории: Misc. Интересность: 77/100.",
     "summaryEn": "KHwang9883/MobileModels is a promising open-source project. Categories: Misc. Interest score: 77/100."
-  },
-  {
-    "externalId": "714073518",
-    "source": "github",
-    "url": "https://github.com/pytorch/ao",
-    "owner": "pytorch",
-    "name": "ao",
-    "title": "pytorch/ao",
-    "description": "PyTorch native quantization and sparsity for training and inference",
-    "stars": 2792,
-    "forks": 493,
-    "language": "Python",
-    "topics": [
-      "brrr",
-      "cuda",
-      "dtypes",
-      "float8",
-      "inference",
-      "llama",
-      "mx",
-      "pytorch",
-      "quantization",
-      "sparsity",
-      "training",
-      "transformer"
-    ],
-    "createdAt": "2023-11-03T21:27:36Z",
-    "updatedAt": "2026-04-22T23:23:38Z",
-    "id": "pytorch/ao",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
-    "score": 77,
-    "scoreBreakdown": {
-      "stars": 0.5584,
-      "forks": 0.493,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "AI/ML"
-    ],
-    "status": "active",
-    "summaryRu": "pytorch/ao: перспективный open-source проект. Категории: AI/ML. Интересность: 77/100.",
-    "summaryEn": "pytorch/ao is a promising open-source project. Categories: AI/ML. Interest score: 77/100."
   },
   {
     "externalId": "319742187",
@@ -4533,7 +4468,7 @@
     "createdAt": "2021-01-29T22:10:13Z",
     "updatedAt": "2026-04-22T23:32:35Z",
     "id": "opensearch-project/opensearch-dashboards",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
     "score": 76,
     "scoreBreakdown": {
       "stars": 0.409,
@@ -4546,8 +4481,8 @@
       "Data"
     ],
     "status": "active",
-    "summaryRu": "opensearch-project/OpenSearch-Dashboards: перспективный open-source проект. Категории: Data. Интересность: 76/100.",
-    "summaryEn": "opensearch-project/OpenSearch-Dashboards is a promising open-source project. Categories: Data. Interest score: 76/100."
+    "summaryRu": "Резюме:\n\nОpenSearch-Dashboards - это открытое программное обеспечение для визуализации данных OpenSearch. Это набор инструментов для создания интерактивных дашбордов и отчетов, позволяющих анализировать и визуализировать большие объемы данных. OpenSearch-Dashboards предназначен для упрощения процесса визуализации и анализа данных, позволяя пользователям быстро и эффективно получать ценную информацию из своих данных.",
+    "summaryEn": "OpenSearch-Dashboards is an open-source project that provides visualization dashboards for OpenSearch, a powerful search and analytics engine. This project enables users to create interactive and customizable dashboards to visualize their data, making it easier to gain insights and understand complex information. By providing a user-friendly interface, OpenSearch-Dashboards empowers users to extract valuable insights from their data."
   },
   {
     "externalId": "6136261",
@@ -4591,43 +4526,6 @@
     "summaryEn": "qutip/qutip is a promising open-source project. Categories: Misc. Interest score: 75/100."
   },
   {
-    "externalId": "1025121037",
-    "source": "github",
-    "url": "https://github.com/thunderbird/thunderbolt",
-    "owner": "thunderbird",
-    "name": "thunderbolt",
-    "title": "thunderbird/thunderbolt",
-    "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-    "stars": 3733,
-    "forks": 228,
-    "language": "TypeScript",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "llms",
-      "on-device-ai"
-    ],
-    "createdAt": "2025-07-23T18:54:20Z",
-    "updatedAt": "2026-04-22T23:31:45Z",
-    "id": "thunderbird/thunderbolt",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
-    "score": 75,
-    "scoreBreakdown": {
-      "stars": 0.7466,
-      "forks": 0.228,
-      "recency": 1,
-      "topics": 0.5,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "AI/ML",
-      "Data"
-    ],
-    "status": "active",
-    "summaryRu": "thunderbird/thunderbolt: перспективный open-source проект. Категории: AI/ML, Data. Интересность: 75/100.",
-    "summaryEn": "thunderbird/thunderbolt is a promising open-source project. Categories: AI/ML, Data. Interest score: 75/100."
-  },
-  {
     "externalId": "257688216",
     "source": "github",
     "url": "https://github.com/quic/aimet",
@@ -4654,7 +4552,7 @@
     "createdAt": "2020-04-21T18:57:10Z",
     "updatedAt": "2026-04-22T21:47:44Z",
     "id": "quic/aimet",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
     "score": 75,
     "scoreBreakdown": {
       "stars": 0.5198,
@@ -4668,8 +4566,8 @@
       "Frontend"
     ],
     "status": "active",
-    "summaryRu": "quic/aimet: перспективный open-source проект. Категории: AI/ML, Frontend. Интересность: 75/100.",
-    "summaryEn": "quic/aimet is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 75/100."
+    "summaryRu": "Резюме проекта quic/aimet:\n\nAIMET — это открытое библиотечное решение, предназначенное для применения продвинутых методов квантования и сжатия в обученных нейронных сетях. Проект позволяет повысить эффективность и уменьшить размер моделей AI, что особенно важно для применения машинного обучения в онлайн-приложениях и дистанционных сервисах.",
+    "summaryEn": "AIMET is an open-source library that offers advanced quantization and compression techniques for trained neural network models, enabling efficient model deployment in resource-constrained environments. By leveraging AIMET, developers can compress and optimize their models without sacrificing performance, making it easier to deploy AI applications in various industries. This library is a valuable resource for AI/ML researchers and practitioners looking to optimize their models."
   },
   {
     "externalId": "296416761",
@@ -4758,57 +4656,48 @@
     "summaryEn": "ScoopInstaller/Main is a promising open-source project. Categories: AI/ML. Interest score: 72/100."
   },
   {
-    "externalId": "539768967",
+    "externalId": "800928",
     "source": "github",
-    "url": "https://github.com/zenstackhq/zenstack",
-    "owner": "zenstackhq",
-    "name": "zenstack",
-    "title": "zenstackhq/zenstack",
-    "description": "Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services",
-    "stars": 2874,
-    "forks": 143,
-    "language": "TypeScript",
+    "url": "https://github.com/InsightSoftwareConsortium/ITK",
+    "owner": "InsightSoftwareConsortium",
+    "name": "ITK",
+    "title": "InsightSoftwareConsortium/ITK",
+    "description": "Insight Toolkit (ITK) -- Official Repository.  ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions.",
+    "stars": 1588,
+    "forks": 724,
+    "language": "C++",
     "topics": [
-      "access-control",
-      "acl",
-      "ai-friendly",
-      "api",
-      "auth",
-      "authorization",
-      "authz",
-      "fullstack",
-      "javascript",
-      "nextjs",
-      "node",
-      "openapi",
-      "orm",
-      "permission",
-      "prisma",
-      "rbac",
-      "rls",
-      "saas",
-      "schema"
+      "cpp",
+      "hacktoberfest",
+      "image-analysis",
+      "insight-toolkit",
+      "itk",
+      "medical-imaging",
+      "numfocus",
+      "open-science",
+      "open-source",
+      "python",
+      "reproducible-research",
+      "scientific-computing"
     ],
-    "createdAt": "2022-09-22T02:42:35Z",
-    "updatedAt": "2026-04-22T23:32:07Z",
-    "id": "zenstackhq/zenstack",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
+    "createdAt": "2010-07-27T15:48:04Z",
+    "updatedAt": "2026-04-22T23:44:20Z",
+    "id": "insightsoftwareconsortium/itk",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
     "score": 72,
     "scoreBreakdown": {
-      "stars": 0.5748,
-      "forks": 0.143,
+      "stars": 0.3176,
+      "forks": 0.724,
       "recency": 1,
       "topics": 1,
       "sourceTrust": 1
     },
     "categories": [
-      "AI/ML",
-      "Frontend",
-      "Backend"
+      "Frontend"
     ],
     "status": "active",
-    "summaryRu": "zenstackhq/zenstack: перспективный open-source проект. Категории: AI/ML, Frontend, Backend. Интересность: 72/100.",
-    "summaryEn": "zenstackhq/zenstack is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 72/100."
+    "summaryRu": "Резюме:\n\nИнструментарий Insight Toolkit (ITK) - это широко используемый, открытое программное обеспечение для обработки, сегментации и регистрации научных изображений в 2, 3 или более измерениях. Это мощная платформа, которая предоставляет спектр функций для различных задач в области медицинской и научной візуализации. ITK поддерживает разные языки программирования и позволяет легко интегрировать в различные приложения.",
+    "summaryEn": "The Insight Toolkit (ITK) is an open-source software project that provides a powerful and flexible framework for processing and analyzing 2D, 3D, and multi-dimensional scientific images. With its spatially-oriented architecture, ITK enables users to perform a wide range of image processing tasks, including segmentation and registration. This toolkit is widely used in various fields, including medical imaging, computer vision, and materials science."
   },
   {
     "externalId": "605728251",
@@ -4936,7 +4825,7 @@
     "createdAt": "2021-06-21T16:35:39Z",
     "updatedAt": "2026-04-22T15:45:53Z",
     "id": "meltano/meltano",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
     "score": 71,
     "scoreBreakdown": {
       "stars": 0.4928,
@@ -4951,8 +4840,8 @@
       "Data"
     ],
     "status": "active",
-    "summaryRu": "meltano/meltano: перспективный open-source проект. Категории: AI/ML, Backend, Data. Интересность: 71/100.",
-    "summaryEn": "meltano/meltano is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 71/100."
+    "summaryRu": "Мельтано (Meltano) - это открытый источник проект, который предоставляет деklarativnyj движок интеграции данных, позволяющий реализовывать сложные интеграции данных и продуктов с использованием машинного обучения. Это решение позволяет избавиться от необходимости писать и поддерживать собственные API-интеграции, что делает его идеальным выбором для команд, работающих с большими объемами данных. Meltano предназначен для использования в проектах, связанных с AI/ML, backend и дата-анализом.",
+    "summaryEn": "Meltano is an open-source data integration engine that simplifies the process of connecting and processing data from various sources. By using a declarative approach, users can focus on writing code that defines their data integration needs, rather than dealing with complex API integrations. This allows for efficient and scalable data integration, enabling the creation of AI and ML-powered products with ease."
   },
   {
     "externalId": "191771083",
@@ -4984,9 +4873,9 @@
       "windows"
     ],
     "createdAt": "2019-06-13T13:45:15Z",
-    "updatedAt": "2026-04-22T23:29:39Z",
+    "updatedAt": "2026-04-22T23:45:33Z",
     "id": "overload-technologies/overload",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
     "score": 71,
     "scoreBreakdown": {
       "stars": 0.4844,
@@ -4999,8 +4888,8 @@
       "Frontend"
     ],
     "status": "active",
-    "summaryRu": "Overload-Technologies/Overload: перспективный open-source проект. Категории: Frontend. Интересность: 71/100.",
-    "summaryEn": "Overload-Technologies/Overload is a promising open-source project. Categories: Frontend. Interest score: 71/100."
+    "summaryRu": "Резюме проекта Overload:\n\nOverload - это офлайн 3D игровой движок с поддержкой скриптинга на Lua, позволяющий создавать инновационные игровые проекты. Движок предназначен для разработки игр с интерактивными 3D графическими элементами и предоставляет возможности для написания сложных логических алгоритмов с помощью Lua. Overload может быть использован для создания широкого спектра игр, включая ролевые игры, шутеры и симуляторы.",
+    "summaryEn": "The Overload project is an open-source, 3D game engine that allows developers to create immersive gaming experiences. With a focus on ease of use and flexibility, it incorporates Lua scripting to enable developers to create complex game logic and interactions. This engine provides a robust foundation for building 3D games across various platforms."
   },
   {
     "externalId": "21663285",
@@ -5033,7 +4922,7 @@
     "createdAt": "2014-07-09T18:15:54Z",
     "updatedAt": "2026-04-22T23:27:51Z",
     "id": "chapel-lang/chapel",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
+    "discoveredAt": "2026-04-22T23:48:50.143Z",
     "score": 71,
     "scoreBreakdown": {
       "stars": 0.3982,
@@ -5046,8 +4935,8 @@
       "Product"
     ],
     "status": "active",
-    "summaryRu": "chapel-lang/chapel: перспективный open-source проект. Категории: Product. Интересность: 71/100.",
-    "summaryEn": "chapel-lang/chapel is a promising open-source project. Categories: Product. Interest score: 71/100."
+    "summaryRu": "Резюме:\n\nЧapel - это продукт параллельного программирования, который позволяет разработчикам создавать эффективные и масштабируемые приложения с использованием современных языковых средств. Этот язык программирования предназначен для решения сложных задач параллельного программирования, обеспечивая высокую производительность и удобство использования. С помощью Chapel разработчики могут создавать параллельные программы, которые эффективно используют ресурсы многопроцессорных систем и кластеров.",
+    "summaryEn": "Chapel is an open-source, parallel programming language designed to make it easier for developers to write high-performance, scalable code. This language aims to provide a productive and efficient way of expressing complex parallel computations, allowing users to focus on the logic of their program rather than the intricacies of parallelism. With Chapel, developers can create high-performance applications that efficiently utilize multi-core and distributed systems."
   },
   {
     "externalId": "153442864",
@@ -5164,6 +5053,46 @@
     "status": "active",
     "summaryRu": "24pullrequests/24pullrequests: перспективный open-source проект. Категории: AI/ML. Интересность: 69/100.",
     "summaryEn": "24pullrequests/24pullrequests is a promising open-source project. Categories: AI/ML. Interest score: 69/100."
+  },
+  {
+    "externalId": "323109016",
+    "source": "github",
+    "url": "https://github.com/trueforge-org/truecharts",
+    "owner": "trueforge-org",
+    "name": "truecharts",
+    "title": "trueforge-org/truecharts",
+    "description": "Community Helm Chart Repository",
+    "stars": 1336,
+    "forks": 612,
+    "language": "Go Template",
+    "topics": [
+      "apps",
+      "charts",
+      "hacktoberfest",
+      "helm",
+      "k3s",
+      "k8s",
+      "k8s-at-home",
+      "kubesearch"
+    ],
+    "createdAt": "2020-12-20T15:56:12Z",
+    "updatedAt": "2026-04-22T23:48:20Z",
+    "id": "trueforge-org/truecharts",
+    "discoveredAt": "2026-04-22T23:48:50.141Z",
+    "score": 69,
+    "scoreBreakdown": {
+      "stars": 0.2672,
+      "forks": 0.612,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nTrueCharts - это открытое общество, разрабатывающее и поддерживающее репозиторий Helm-шаблонов. Мы предлагаем широкий спектр готовых шаблонов для различных приложений и сервисов, что позволяет разработчикам легко развертывать и управлять окружениями Kubernetes. TrueCharts стремится сделать управление инфраструктурой DevOps более доступным и удобным для всех.",
+    "summaryEn": "TrueCharts is an open-source community-driven Helm Chart repository, offering a wide range of pre-configured and easily installable Kubernetes applications. This repository provides a centralized location for discovering, downloading, and deploying various Helm Charts, simplifying the process of managing and scaling containerized applications. By leveraging TrueCharts, developers and administrators can streamline their Kubernetes operations and focus on more complex tasks."
   },
   {
     "externalId": "75196241",
@@ -5354,54 +5283,71 @@
     "summaryEn": "privacyidea/privacyidea is a promising open-source project. Categories: Backend, Security. Interest score: 67/100."
   },
   {
-    "externalId": "231816914",
+    "externalId": "26390088",
     "source": "github",
-    "url": "https://github.com/cake-tech/cake_wallet",
-    "owner": "cake-tech",
-    "name": "cake_wallet",
-    "title": "cake-tech/cake_wallet",
-    "description": "The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com",
-    "stars": 1609,
-    "forks": 354,
-    "language": "Dart",
+    "url": "https://github.com/babel/website",
+    "owner": "babel",
+    "name": "website",
+    "title": "babel/website",
+    "description": ":globe_with_meridians: The Babel documentation website",
+    "stars": 774,
+    "forks": 1383,
+    "language": "TypeScript",
     "topics": [
-      "android",
-      "bitcoin",
-      "bitcoin-cash",
-      "btc",
-      "cryptocurrency",
-      "ethereum",
-      "haven",
-      "ios",
-      "linux",
-      "litecoin",
-      "ltc",
-      "macos",
-      "monero",
-      "nano",
-      "polygon",
-      "solana",
-      "wallet",
-      "xmr"
+      "babel",
+      "docs",
+      "documentation",
+      "javascript",
+      "website"
     ],
-    "createdAt": "2020-01-04T19:26:17Z",
-    "updatedAt": "2026-04-22T23:31:49Z",
-    "id": "cake-tech/cake_wallet",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
+    "createdAt": "2014-11-09T08:29:53Z",
+    "updatedAt": "2026-04-22T23:48:12Z",
+    "id": "babel/website",
+    "discoveredAt": "2026-04-22T23:48:50.141Z",
     "score": 67,
     "scoreBreakdown": {
-      "stars": 0.3218,
-      "forks": 0.354,
+      "stars": 0.1548,
+      "forks": 1,
       "recency": 1,
-      "topics": 1,
+      "topics": 0.625,
       "sourceTrust": 1
     },
     "categories": [
-      "Mobile"
+      "Misc"
     ],
     "status": "active",
-    "summaryRu": "cake-tech/cake_wallet: перспективный open-source проект. Категории: Mobile. Интересность: 67/100.",
-    "summaryEn": "cake-tech/cake_wallet is a promising open-source project. Categories: Mobile. Interest score: 67/100."
+    "summaryRu": "Резюме:\n\nПроект babel/website представляет собой документационный веб-сайт для Бабеля, популярной библиотеки для перевода кода из одной версии JavaScript в другую. Этот проект обеспечивает простой доступ к информации о работе и использовании Бабеля, включая руководства, примеры и справочную документацию. Проект открыт дляcontributions и может быть полезен для разработчиков, использующих Бабель в своих проектах.",
+    "summaryEn": "The babel/website project is an open-source repository for the official documentation website of Babel, a popular JavaScript compiler and toolchain. This website serves as a central hub for Babel-related information, providing users with tutorials, guides, and technical documentation. By hosting its documentation online, the Babel community can easily access and contribute to the project's extensive knowledge base."
+  },
+  {
+    "externalId": "457006774",
+    "source": "github",
+    "url": "https://github.com/CVEProject/cvelistV5",
+    "owner": "CVEProject",
+    "name": "cvelistV5",
+    "title": "CVEProject/cvelistV5",
+    "description": "CVE cache of the official CVE List in CVE JSON 5 format",
+    "stars": 2607,
+    "forks": 579,
+    "topics": [],
+    "createdAt": "2022-02-08T16:11:00Z",
+    "updatedAt": "2026-04-22T23:47:27Z",
+    "id": "cveproject/cvelistv5",
+    "discoveredAt": "2026-04-22T23:48:50.141Z",
+    "score": 67,
+    "scoreBreakdown": {
+      "stars": 0.5214,
+      "forks": 0.579,
+      "recency": 1,
+      "topics": 0,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме проекта CVEProject/cvelistV5:\n\nCVEProject/cvelistV5 - проект, предназначенный для создания кэша официального списка CVE в формате CVE JSON 5. Это открытое решение, предназначенное для облегчения поиска и использования информации о уязвимостях. Проект может быть полезен разработчикам, администраторам и экспертам в области информационной безопасности.",
+    "summaryEn": "The CVEProject/cvelistV5 is an open-source project that maintains a local cache of the official CVE List in CVE JSON 5 format. This project allows users to access and utilize the comprehensive list of Common Vulnerabilities and Exposures (CVEs) in a standardized and easily parseable format. By providing a cached version of the CVE List, this project facilitates efficient and reliable vulnerability management."
   },
   {
     "externalId": "297340071",
@@ -5423,7 +5369,7 @@
     "createdAt": "2020-09-21T12:58:30Z",
     "updatedAt": "2026-04-22T16:09:47Z",
     "id": "nightscout/androidaps",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
     "score": 67,
     "scoreBreakdown": {
       "stars": 0.211,
@@ -5436,8 +5382,8 @@
       "Mobile"
     ],
     "status": "active",
-    "summaryRu": "nightscout/AndroidAPS: перспективный open-source проект. Категории: Mobile. Интересность: 67/100.",
-    "summaryEn": "nightscout/AndroidAPS is a promising open-source project. Categories: Mobile. Interest score: 67/100."
+    "summaryRu": "Ночной взгляд (Nightscout) и AndroidAPS - это открытое программное обеспечение для автоматизированного управления инсулином (закрытый цикл), позволяющее людям с сахарным диабетом контролировать уровень глюкозы в крови с помощью мобильного приложения. Это система, которая обеспечивает постоянное мониторинг уровня глюкозы и автоматическое управление инсулином для поддержания оптимального уровня. В результате, Nightscout и AndroidAPS могут помочь людям с сахарным диабетом снизить риск гипогликемии и гипергликемии, а также улучшить качество их жизни.",
+    "summaryEn": "Here's a brief summary for the nightscout/AndroidAPS project:\n\nAndroidAPS is an open-source, automated insulin delivery system that enables individuals with diabetes to manage their condition more effectively. This closed-loop system uses data from a continuous glucose monitor and insulin pump to automatically regulate insulin dosing, promoting stable blood sugar levels. Developed as an open-source mobile project, AndroidAPS empowers users to take control of their diabetes care and make adjustments to the system as needed."
   },
   {
     "externalId": "989134268",
@@ -5514,7 +5460,7 @@
     "createdAt": "2016-10-30T18:42:23Z",
     "updatedAt": "2026-04-22T23:31:06Z",
     "id": "ocaml/dune",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
+    "discoveredAt": "2026-04-22T23:48:50.142Z",
     "score": 66,
     "scoreBreakdown": {
       "stars": 0.3732,
@@ -5528,8 +5474,8 @@
       "Frontend"
     ],
     "status": "active",
-    "summaryRu": "ocaml/dune: перспективный open-source проект. Категории: AI/ML, Frontend. Интересность: 66/100.",
-    "summaryEn": "ocaml/dune is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 66/100."
+    "summaryRu": "Резюме:\n\nОдин из наиболее гибких и композиционных инструментов для сборки OCaml-проектов, который позволяет легко управлять зависимостями и конфигурацией. Dune предоставляет мощные функции для автоматизации процесса сборки и упрощения управления кодом. Это идеальное решение для разработчиков, работающих с OCaml и ищущих эффективный и интуитивно понятный инструмент для управления проектами.",
+    "summaryEn": "The ocaml/dune project is an open-source, composable build system designed specifically for the OCaml programming language. It allows developers to construct complex build pipelines with ease, making it a valuable tool for building and maintaining large-scale OCaml projects. With its flexible and modular architecture, dune streamlines the build process, enabling developers to focus on writing code rather than managing dependencies."
   },
   {
     "externalId": "5793895",
@@ -5671,76 +5617,44 @@
     "summaryEn": "matrix-org/matrix-rust-sdk is a promising open-source project. Categories: Backend, DevTools. Interest score: 65/100."
   },
   {
-    "externalId": "21740844",
+    "externalId": "1059472549",
     "source": "github",
-    "url": "https://github.com/openshift/openshift-docs",
-    "owner": "openshift",
-    "name": "openshift-docs",
-    "title": "openshift/openshift-docs",
-    "description": "OpenShift 3 and 4 product and community documentation",
-    "stars": 855,
-    "forks": 1878,
-    "language": "HTML",
+    "url": "https://github.com/microsoft/apm",
+    "owner": "microsoft",
+    "name": "apm",
+    "title": "microsoft/apm",
+    "description": "Agent Package Manager",
+    "stars": 1988,
+    "forks": 123,
+    "language": "Python",
     "topics": [
-      "documentation",
-      "hacktoberfest",
-      "openshift"
+      "ai-agents",
+      "claude-code",
+      "codex-cli",
+      "context-engineering",
+      "github-copilot",
+      "package-manager",
+      "prompt-engineering"
     ],
-    "createdAt": "2014-07-11T15:14:42Z",
-    "updatedAt": "2026-04-22T23:31:38Z",
-    "id": "openshift/openshift-docs",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
+    "createdAt": "2025-09-18T13:45:22Z",
+    "updatedAt": "2026-04-22T23:48:01Z",
+    "id": "microsoft/apm",
+    "discoveredAt": "2026-04-22T23:48:50.141Z",
     "score": 65,
     "scoreBreakdown": {
-      "stars": 0.171,
-      "forks": 1,
+      "stars": 0.3976,
+      "forks": 0.123,
       "recency": 1,
-      "topics": 0.375,
+      "topics": 0.875,
       "sourceTrust": 1
     },
     "categories": [
       "AI/ML",
-      "Product"
+      "DevTools"
     ],
     "status": "active",
-    "summaryRu": "openshift/openshift-docs: перспективный open-source проект. Категории: AI/ML, Product. Интересность: 65/100.",
-    "summaryEn": "openshift/openshift-docs is a promising open-source project. Categories: AI/ML, Product. Interest score: 65/100."
-  },
-  {
-    "externalId": "245072514",
-    "source": "github",
-    "url": "https://github.com/llvm/circt",
-    "owner": "llvm",
-    "name": "circt",
-    "title": "llvm/circt",
-    "description": "Circuit IR Compilers and Tools",
-    "stars": 2093,
-    "forks": 459,
-    "language": "C++",
-    "topics": [
-      "circt",
-      "llvm",
-      "mlir"
-    ],
-    "createdAt": "2020-03-05T04:57:42Z",
-    "updatedAt": "2026-04-22T23:26:09Z",
-    "id": "llvm/circt",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
-    "score": 65,
-    "scoreBreakdown": {
-      "stars": 0.4186,
-      "forks": 0.459,
-      "recency": 1,
-      "topics": 0.375,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "AI/ML",
-      "Frontend"
-    ],
-    "status": "active",
-    "summaryRu": "llvm/circt: перспективный open-source проект. Категории: AI/ML, Frontend. Интересность: 65/100.",
-    "summaryEn": "llvm/circt is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 65/100."
+    "summaryRu": "Резюме:\n\nВ проекте microsoft/apm предлагается Agent Package Manager (Агентский менеджер пакетов) – открытое решение для управления пакетами в среде машинного обучения и искусственного интеллекта. Этот инструмент позволяет упростить процесс установки и обновления агентов, необходимых для эффективной работы с различными AI/ML-технологиями. С помощью APM разработчики могут сосредоточиться на разработке, а не на поиске и установке необходимых пакетов.",
+    "summaryEn": "Microsoft's Agent Package Manager (APM) is an open-source project that facilitates the management of AI/ML agent packages. This tool enables developers to easily discover, install, and manage various packages, streamlining the development process. By leveraging APM, developers can accelerate the creation and deployment of AI/ML models and applications."
   },
   {
     "externalId": "99178995",
@@ -5774,121 +5688,40 @@
     "summaryEn": "MetaMask/eth-phishing-detect is a promising open-source project. Categories: AI/ML. Interest score: 64/100."
   },
   {
-    "externalId": "207904227",
+    "externalId": "235221262",
     "source": "github",
-    "url": "https://github.com/keldaanCommunity/pokemonAutoChess",
-    "owner": "keldaanCommunity",
-    "name": "pokemonAutoChess",
-    "title": "keldaanCommunity/pokemonAutoChess",
-    "description": "Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.",
-    "stars": 1700,
-    "forks": 526,
-    "language": "TypeScript",
+    "url": "https://github.com/meshtastic/Meshtastic-Android",
+    "owner": "meshtastic",
+    "name": "Meshtastic-Android",
+    "title": "meshtastic/Meshtastic-Android",
+    "description": "Android application for Meshtastic",
+    "stars": 1562,
+    "forks": 445,
+    "language": "Kotlin",
     "topics": [
-      "autochess",
-      "pokemon",
-      "pokemon-auto-chess"
+      "android",
+      "gps",
+      "lora",
+      "meshtastic"
     ],
-    "createdAt": "2019-09-11T20:49:25Z",
-    "updatedAt": "2026-04-22T23:31:32Z",
-    "id": "keldaancommunity/pokemonautochess",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
-    "score": 64,
-    "scoreBreakdown": {
-      "stars": 0.34,
-      "forks": 0.526,
-      "recency": 1,
-      "topics": 0.375,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "keldaanCommunity/pokemonAutoChess: перспективный open-source проект. Категории: Misc. Интересность: 64/100.",
-    "summaryEn": "keldaanCommunity/pokemonAutoChess is a promising open-source project. Categories: Misc. Interest score: 64/100."
-  },
-  {
-    "externalId": "1162971794",
-    "source": "github",
-    "url": "https://github.com/vava-nessa/free-coding-models",
-    "owner": "vava-nessa",
-    "name": "free-coding-models",
-    "title": "vava-nessa/free-coding-models",
-    "description": "Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time",
-    "stars": 1459,
-    "forks": 167,
-    "language": "JavaScript",
-    "topics": [
-      "ai",
-      "deepseek",
-      "free",
-      "free-ai",
-      "freeai",
-      "gpt",
-      "gptoss",
-      "kimi",
-      "nim",
-      "nvidia",
-      "nvidia-nim",
-      "nvidia-nim-api",
-      "nvidia-nims",
-      "openclaw",
-      "opencode"
-    ],
-    "createdAt": "2026-02-20T23:12:50Z",
-    "updatedAt": "2026-04-22T23:32:30Z",
-    "id": "vava-nessa/free-coding-models",
-    "discoveredAt": "2026-04-22T23:33:11.680Z",
+    "createdAt": "2020-01-20T23:55:32Z",
+    "updatedAt": "2026-04-22T23:48:17Z",
+    "id": "meshtastic/meshtastic-android",
+    "discoveredAt": "2026-04-22T23:48:50.141Z",
     "score": 63,
     "scoreBreakdown": {
-      "stars": 0.2918,
-      "forks": 0.167,
+      "stars": 0.3124,
+      "forks": 0.445,
       "recency": 1,
-      "topics": 1,
+      "topics": 0.5,
       "sourceTrust": 1
     },
     "categories": [
-      "AI/ML",
-      "Backend",
-      "DevTools"
+      "Mobile"
     ],
     "status": "active",
-    "summaryRu": "vava-nessa/free-coding-models: перспективный open-source проект. Категории: AI/ML, Backend, DevTools. Интересность: 63/100.",
-    "summaryEn": "vava-nessa/free-coding-models is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 63/100."
-  },
-  {
-    "externalId": "775131",
-    "source": "github",
-    "url": "https://github.com/AcademySoftwareFoundation/OpenColorIO",
-    "owner": "AcademySoftwareFoundation",
-    "name": "OpenColorIO",
-    "title": "AcademySoftwareFoundation/OpenColorIO",
-    "description": "A color management framework for visual effects and animation.",
-    "stars": 2035,
-    "forks": 490,
-    "language": "C++",
-    "topics": [
-      "opencolorio"
-    ],
-    "createdAt": "2010-07-14T18:22:06Z",
-    "updatedAt": "2026-04-22T23:21:47Z",
-    "id": "academysoftwarefoundation/opencolorio",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
-    "score": 63,
-    "scoreBreakdown": {
-      "stars": 0.407,
-      "forks": 0.49,
-      "recency": 1,
-      "topics": 0.125,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "AcademySoftwareFoundation/OpenColorIO: перспективный open-source проект. Категории: Misc. Интересность: 63/100.",
-    "summaryEn": "AcademySoftwareFoundation/OpenColorIO is a promising open-source project. Categories: Misc. Interest score: 63/100."
+    "summaryRu": "Мы представляем Meshtastic-Android - открытую мобильную приложение, предназначенную для работы с Meshtastic, сетью mesh-уровня для передачи данных. Приложение позволяет пользователям общаться с другими устройствами Meshtastic в реальном времени, обеспечивая безопасную и надежную связь в экстремальных условиях. Модульный и расширяемый дизайн Meshtastic-Android делает его идеальным решением для различных приложений в области связанных с mesh-технологиями.",
+    "summaryEn": "Meshtastic-Android is an open-source mobile application that enables users to leverage the Meshtastic network, a decentralized and community-driven mesh networking system. With this app, users can communicate with others over long-range, low-power wireless connections, making it suitable for a variety of use cases such as emergency response, off-grid exploration, and more. By providing a user-friendly interface, Meshtastic-Android empowers users to harness the power of mesh networking on their Android devices."
   },
   {
     "externalId": "1099214862",
@@ -5940,6 +5773,94 @@
     "summaryEn": "rustmailer/bichon is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 62/100."
   },
   {
+    "externalId": "1183888342",
+    "source": "github",
+    "url": "https://github.com/stablyai/orca",
+    "owner": "stablyai",
+    "name": "orca",
+    "title": "stablyai/orca",
+    "description": "Orca is the next-gen IDE for building with coding agents",
+    "stars": 1551,
+    "forks": 90,
+    "language": "TypeScript",
+    "topics": [
+      "claude-code",
+      "cli",
+      "codex",
+      "cursor-agent",
+      "ghostty",
+      "opencode",
+      "orchestration",
+      "parallel-agents",
+      "pi",
+      "terminal",
+      "worktrees"
+    ],
+    "createdAt": "2026-03-17T03:28:57Z",
+    "updatedAt": "2026-04-22T23:47:49Z",
+    "id": "stablyai/orca",
+    "discoveredAt": "2026-04-22T23:48:50.141Z",
+    "score": 62,
+    "scoreBreakdown": {
+      "stars": 0.3102,
+      "forks": 0.09,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "Здесь краткое резюме на русском языке:\n\nОрка (Orca) - это следующее поколение интегрированной среды разработки (IDE), предназначенной для создания приложений с использованием кодированных агентов. Орка позволяет разработчикам работать более эффективно и продуктивно, используя встроенные функции искусственного интеллекта и машинного обучения. Это открытое исходное решение для всех, кто хочет создать инновационные приложения с помощью кодированных агентов.",
+    "summaryEn": "Orca is an open-source, next-generation Integrated Development Environment (IDE) specifically designed for building and working with coding agents. This innovative tool empowers developers to create and interact with AI-powered coding assistants, revolutionizing the way we approach software development. By leveraging the power of AI and machine learning, Orca streamlines the coding process, enabling faster and more efficient development."
+  },
+  {
+    "externalId": "267715375",
+    "source": "github",
+    "url": "https://github.com/keras-team/keras-hub",
+    "owner": "keras-team",
+    "name": "keras-hub",
+    "title": "keras-team/keras-hub",
+    "description": "Pretrained model hub for Keras 3.",
+    "stars": 976,
+    "forks": 333,
+    "language": "Python",
+    "topics": [
+      "cv",
+      "deep-learning",
+      "jax",
+      "keras",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "pytorch",
+      "tensorflow"
+    ],
+    "createdAt": "2020-05-28T23:03:54Z",
+    "updatedAt": "2026-04-22T23:47:45Z",
+    "id": "keras-team/keras-hub",
+    "discoveredAt": "2026-04-22T23:48:50.141Z",
+    "score": 62,
+    "scoreBreakdown": {
+      "stars": 0.1952,
+      "forks": 0.333,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "Керас-Хаб - это открытый проект, предоставляющий набор готовых, обученных нейронных сетей для использования с библиотекой Keras 3. Этот набор предназначен для ускорения процесса разработки и обучения, позволяя разработчикам использовать уже обученные модели в своих проектах. Керас-Хаб предоставляет доступ к различным типам моделей, включая.image, text и speech, что позволяет разработчикам быстро и эффективно интегрировать AI и ML в свои приложения.",
+    "summaryEn": "The keras-hub project is an open-source platform that serves as a centralized repository for pre-trained Keras 3 models, making it easier for developers to access and utilize established AI/ML architectures. This hub offers a wide range of pre-trained models that can be directly integrated into various applications, saving time and effort in model development and training. By leveraging keras-hub, users can quickly tap into the collective knowledge and expertise of the community."
+  },
+  {
     "externalId": "23649904",
     "source": "github",
     "url": "https://github.com/cataclysmbn/Cataclysm-BN",
@@ -5962,7 +5883,7 @@
     "createdAt": "2014-09-04T05:39:34Z",
     "updatedAt": "2026-04-22T23:27:28Z",
     "id": "cataclysmbn/cataclysm-bn",
-    "discoveredAt": "2026-04-22T23:33:11.681Z",
+    "discoveredAt": "2026-04-22T23:48:50.143Z",
     "score": 62,
     "scoreBreakdown": {
       "stars": 0.2062,
@@ -5975,8 +5896,8 @@
       "Misc"
     ],
     "status": "active",
-    "summaryRu": "cataclysmbn/Cataclysm-BN: перспективный open-source проект. Категории: Misc. Интересность: 62/100.",
-    "summaryEn": "cataclysmbn/Cataclysm-BN is a promising open-source project. Categories: Misc. Interest score: 62/100."
+    "summaryRu": "Резюме:\n\nПроект Cataclysm: Bright Nights представляет собой форк популярной игры Cataclysm:DDA, обеспечивая уникальный игровой опыт с новыми функциями и возможностями. Разработанный на основе исходного кода CleverRaven, Cataclysm: Bright Nights предлагает игрокам новые возможности для открытия и исследования игрового мира. Этот проект открыто доступен и может быть модифицирован и улучшен сообществом.",
+    "summaryEn": "Cataclysm: Bright Nights is an open-source, post-apocalyptic roguelike game built upon the Cataclysm:DDA variant. This project offers a distinct twist on the original game, while maintaining the core mechanics and exploration aspects that fans have come to love. As an open-source fork, Cataclysm: Bright Nights encourages community contribution and development."
   },
   {
     "externalId": "1030897854",
@@ -6206,6 +6127,75 @@
     "status": "active",
     "summaryRu": "xwiki/xwiki-platform: перспективный open-source проект. Категории: Misc. Интересность: 58/100.",
     "summaryEn": "xwiki/xwiki-platform is a promising open-source project. Categories: Misc. Interest score: 58/100."
+  },
+  {
+    "externalId": "32101439",
+    "source": "github",
+    "url": "https://github.com/HearthSim/HSTracker",
+    "owner": "HearthSim",
+    "name": "HSTracker",
+    "title": "HearthSim/HSTracker",
+    "description": "A deck tracker and deck manager for Hearthstone on macOS",
+    "stars": 1247,
+    "forks": 190,
+    "language": "Swift",
+    "topics": [
+      "deck-tracker",
+      "hearthstone",
+      "hearthstone-deck-tracker",
+      "hsreplay",
+      "swift"
+    ],
+    "createdAt": "2015-03-12T20:44:08Z",
+    "updatedAt": "2026-04-22T23:47:59Z",
+    "id": "hearthsim/hstracker",
+    "discoveredAt": "2026-04-22T23:48:50.141Z",
+    "score": 58,
+    "scoreBreakdown": {
+      "stars": 0.2494,
+      "forks": 0.19,
+      "recency": 1,
+      "topics": 0.625,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме HearthSim/HSTracker:\n\nHearthSim/HSTracker - это бесплатный и открыть проект, предназначенный для отслеживания и управления колодами в игре Hearthstone на macOS. Программа позволяет пользователям анализировать и оптимизировать свою стратегию, используя функции отслеживания и анализа. HearthSim/HSTracker - это идеальный инструмент для любителей Hearthstone, желающих улучшить свои игровые навыки и добиться успеха в игре.",
+    "summaryEn": "HearthSim/HSTracker is a free, open-source deck tracker and manager designed specifically for Hearthstone on macOS. This tool allows players to track their deck's performance and manage their card collections, providing valuable insights to improve gameplay. By utilizing HSTracker, Hearthstone players can streamline their deck-building and card organization experience."
+  },
+  {
+    "externalId": "143762238",
+    "source": "github",
+    "url": "https://github.com/flutter/devtools",
+    "owner": "flutter",
+    "name": "devtools",
+    "title": "flutter/devtools",
+    "description": "Developer tools for Flutter & Dart",
+    "stars": 1707,
+    "forks": 390,
+    "language": "Dart",
+    "topics": [],
+    "createdAt": "2018-08-06T17:39:43Z",
+    "updatedAt": "2026-04-22T23:30:39Z",
+    "id": "flutter/devtools",
+    "discoveredAt": "2026-04-22T23:48:50.143Z",
+    "score": 58,
+    "scoreBreakdown": {
+      "stars": 0.3414,
+      "forks": 0.39,
+      "recency": 1,
+      "topics": 0,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "DevTools",
+      "Mobile"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nFlutter/DevTools - набор инструментов для разработчиков, предназначенных для облегчения процесса разработки приложений на основе платформы Flutter и языка Dart. Эти инструменты предоставляют широкий спектр функций для отладки, оптимизации и тестирования, включая отображение дерева виджетов, управление памятью и анализ производительности. flutter/devtools - отличный выбор для разработчиков, которые хотят повысить эффективность своей работы и создавать высококачественные мобильные приложения на платформе Flutter.",
+    "summaryEn": "The Flutter DevTools is an open-source project that provides a suite of developer tools for Flutter and Dart applications. This comprehensive suite enables developers to inspect and debug their mobile applications, allowing for a more efficient and streamlined development process. With Flutter DevTools, developers can gain valuable insights into their app's behavior and performance."
   },
   {
     "externalId": "84538053",

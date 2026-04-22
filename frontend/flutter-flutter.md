@@ -25,7 +25,7 @@ Frontend · Mobile · Design
 
 ## 📝 Summary
 
-flutter/flutter is a promising open-source project. Categories: Frontend, Mobile, Design. Interest score: 100/100.
+Flutter is an open-source project that empowers developers to create visually stunning and high-performance mobile and web applications with ease and speed. It provides a comprehensive set of tools and libraries to design, develop, and deploy cross-platform apps for various platforms. By leveraging Flutter, developers can build native-like apps for mobile, web, and desktop environments using a single codebase.
 
 ---
 

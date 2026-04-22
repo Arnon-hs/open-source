@@ -25,7 +25,7 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-MetaMask/metamask-mobile is a promising open-source project. Categories: AI/ML, Frontend, Mobile. Interest score: 84/100.
+MetaMask for Mobile is an open-source, mobile web browser that enables users to access and interact with Ethereum-based websites directly from their mobile devices. This browser provides a seamless experience for users to engage with decentralized applications (dApps) and explore the Ethereum blockchain ecosystem on-the-go. By leveraging the Ethereum blockchain, MetaMask for Mobile offers a secure and decentralized way to interact with web3 applications.
 
 ---
 

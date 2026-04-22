@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-WWBN/AVideo is a promising open-source project. Categories: Backend. Interest score: 80/100.
+The WWBN/AVideo project is an open-source platform designed to empower users in creating their own broadcast networks. This project, also known as the AVideo Platform Open-Source (OAVP or OVP), allows individuals to build and manage their own video broadcasting systems. With a focus on backend development, WWBN/AVideo aims to provide a flexible and customizable solution for video streaming and broadcasting needs.
 
 ---
 

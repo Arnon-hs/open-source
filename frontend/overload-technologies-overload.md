@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Overload-Technologies/Overload is a promising open-source project. Categories: Frontend. Interest score: 71/100.
+The Overload project is an open-source, 3D game engine that allows developers to create immersive gaming experiences. With a focus on ease of use and flexibility, it incorporates Lua scripting to enable developers to create complex game logic and interactions. This engine provides a robust foundation for building 3D games across various platforms.
 
 ---
 

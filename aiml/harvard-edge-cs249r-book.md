@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-harvard-edge/cs249r_book is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
+The "Machine Learning Systems" project, available on the harvard-edge/cs249r_book repository, focuses on providing a comprehensive resource for understanding the design and implementation of machine learning systems. This project delves into the complexities of building and deploying machine learning models, covering topics such as scalability, reliability, and interpretability. By offering an open-source platform, it enables developers and researchers to explore and contribute to the field of machine learning systems.
 
 ---
 

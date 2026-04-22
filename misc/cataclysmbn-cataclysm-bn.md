@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-cataclysmbn/Cataclysm-BN is a promising open-source project. Categories: Misc. Interest score: 62/100.
+Cataclysm: Bright Nights is an open-source, post-apocalyptic roguelike game built upon the Cataclysm:DDA variant. This project offers a distinct twist on the original game, while maintaining the core mechanics and exploration aspects that fans have come to love. As an open-source fork, Cataclysm: Bright Nights encourages community contribution and development.
 
 ---
 

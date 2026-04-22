@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-endless-sky/endless-sky is a promising open-source project. Categories: Misc. Interest score: 100/100.
+Endless Sky is an open-source space exploration, trading, and combat game. Players can navigate through a vast galaxy, engaging in space combat, trading resources, and exploring new planets. With its vast open world and customizable gameplay, Endless Sky offers a rich and immersive experience for fans of space simulation games.
 
 ---
 

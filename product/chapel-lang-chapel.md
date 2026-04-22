@@ -25,7 +25,7 @@ Product
 
 ## 📝 Summary
 
-chapel-lang/chapel is a promising open-source project. Categories: Product. Interest score: 71/100.
+Chapel is an open-source, parallel programming language designed to make it easier for developers to write high-performance, scalable code. This language aims to provide a productive and efficient way of expressing complex parallel computations, allowing users to focus on the logic of their program rather than the intricacies of parallelism. With Chapel, developers can create high-performance applications that efficiently utilize multi-core and distributed systems.
 
 ---
 

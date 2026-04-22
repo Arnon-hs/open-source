@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-trueforge-org/truecharts is a promising open-source project. Categories: Misc. Interest score: 69/100.
+TrueCharts is an open-source community-driven Helm Chart repository, offering a wide range of pre-configured and easily installable Kubernetes applications. This repository provides a centralized location for discovering, downloading, and deploying various Helm Charts, simplifying the process of managing and scaling containerized applications. By leveraging TrueCharts, developers and administrators can streamline their Kubernetes operations and focus on more complex tasks.
 
 ---
 

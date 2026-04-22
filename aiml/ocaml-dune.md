@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-ocaml/dune is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 66/100.
+The ocaml/dune project is an open-source, composable build system designed specifically for the OCaml programming language. It allows developers to construct complex build pipelines with ease, making it a valuable tool for building and maintaining large-scale OCaml projects. With its flexible and modular architecture, dune streamlines the build process, enabling developers to focus on writing code rather than managing dependencies.
 
 ---
 

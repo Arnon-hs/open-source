@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-ai-dynamo/dynamo is a promising open-source project. Categories: AI/ML, Data. Interest score: 90/100.
+Dynamo is an open-source, datacenter-scale distributed inference serving framework designed to efficiently manage and deploy machine learning models. It provides a scalable platform for serving predictions, enabling high-performance, low-latency, and cost-effective model deployment. By harnessing the power of distributed computing, Dynamo facilitates the rapid deployment and management of AI workloads at massive scale.
 
 ---
 

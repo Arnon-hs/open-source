@@ -1,6 +1,6 @@
 # mayocream/koharu
 
-[![Stars](https://img.shields.io/github/stars/mayocream/koharu?style=flat-square&color=yellow)](https://github.com/mayocream/koharu/stargazers) [![Forks](https://img.shields.io/github/forks/mayocream/koharu?style=flat-square&color=blue)](https://github.com/mayocream/koharu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mayocream/koharu?style=flat-square&color=yellow)](https://github.com/mayocream/koharu/stargazers) [![Forks](https://img.shields.io/github/forks/mayocream/koharu?style=flat-square&color=blue)](https://github.com/mayocream/koharu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > ML-powered manga translator, written in Rust.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.9k |
-| 🍴 **Forks** | 200 |
+| 🍴 **Forks** | 204 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | 2026-04-22 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-mayocream/koharu is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 80/100.
+Koharu is an open-source, Rust-based project that utilizes machine learning (ML) to power manga translation. This innovative tool aims to bridge language gaps by efficiently translating manga content. By leveraging ML capabilities, Koharu seeks to enhance the reading experience for international manga enthusiasts.
 
 ---
 

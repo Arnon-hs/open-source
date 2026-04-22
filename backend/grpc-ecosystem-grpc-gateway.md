@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-grpc-ecosystem/grpc-gateway is a promising open-source project. Categories: Backend. Interest score: 99/100.
+The grpc-gateway project is an open-source tool that generates a JSON proxy from a gRPC Service Definition file, allowing for seamless communication between gRPC services and JSON-based clients. It follows the gRPC HTTP spec, making it easy to integrate with existing gRPC services and HTTP clients. This enables developers to easily expose their gRPC services to a wider range of clients.
 
 ---
 
