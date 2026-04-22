@@ -1,17 +1,32 @@
 # libp2p/rust-libp2p
 
-**Stars:** 5479 | **Language:** Rust | **Score:** 96/100
+[![Stars](https://img.shields.io/github/stars/libp2p/rust-libp2p?style=flat-square&color=yellow)](https://github.com/libp2p/rust-libp2p/stargazers) [![Forks](https://img.shields.io/github/forks/libp2p/rust-libp2p?style=flat-square&color=blue)](https://github.com/libp2p/rust-libp2p/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
-**Categories:** Misc
+> The Rust Implementation of the libp2p networking stack.
 
-**Source:** [GitHub](https://github.com/libp2p/rust-libp2p)
+## 📊 Stats
 
-> The Rust Implementation of the libp2p networking stack. 
+| | |
+|---|---|
+| ⭐ **Stars** | 5.5k |
+| 🍴 **Forks** | 1.2k |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 96/100 |
+| 🗓️ **Last push** | 2026-04-21 |
+| 🔍 **Source** | github |
 
-## Summary
+## 🏷️ Topics
+
+`decentralization` `libp2p` `networking` `peer-to-peer` `rust`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
 
 libp2p/rust-libp2p is a promising open-source project. Categories: Misc. Interest score: 96/100.
 
 ---
 
-*Discovered: 2026-04-21T12:15:08.096Z*
+<sub>🔭 Discovered 2026-04-21 · [View on GitHub](https://github.com/libp2p/rust-libp2p) · [← Back to Misc](./README.md)</sub>

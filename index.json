@@ -1,1137 +1,5150 @@
-{
-  "total": 160,
-  "categories": [
-    "aiml",
-    "backend",
-    "data",
-    "design",
-    "devopsinfra",
-    "devtools",
-    "frontend",
-    "misc",
-    "mobile",
-    "security"
-  ],
-  "repos": [
-    {
-      "id": "langfuse/langfuse",
-      "title": "langfuse/langfuse",
-      "url": "https://github.com/langfuse/langfuse",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "drawdb-io/drawdb",
-      "title": "drawdb-io/drawdb",
-      "url": "https://github.com/drawdb-io/drawdb",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "getsentry/sentry",
-      "title": "getsentry/sentry",
-      "url": "https://github.com/getsentry/sentry",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "fincept-corporation/finceptterminal",
-      "title": "Fincept-Corporation/FinceptTerminal",
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "score": 100,
-      "category": "data"
-    },
-    {
-      "id": "chatwoot/chatwoot",
-      "title": "chatwoot/chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "usebruno/bruno",
-      "title": "usebruno/bruno",
-      "url": "https://github.com/usebruno/bruno",
-      "score": 100,
-      "category": "backend"
-    },
-    {
-      "id": "ente-io/ente",
-      "title": "ente-io/ente",
-      "url": "https://github.com/ente-io/ente",
-      "score": 100,
-      "category": "mobile"
-    },
-    {
-      "id": "nextcloud/server",
-      "title": "nextcloud/server",
-      "url": "https://github.com/nextcloud/server",
-      "score": 100,
-      "category": "backend"
-    },
-    {
-      "id": "koala73/worldmonitor",
-      "title": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "zaproxy/zaproxy",
-      "title": "zaproxy/zaproxy",
-      "url": "https://github.com/zaproxy/zaproxy",
-      "score": 100,
-      "category": "security"
-    },
-    {
-      "id": "nextcloud/android",
-      "title": "nextcloud/android",
-      "url": "https://github.com/nextcloud/android",
-      "score": 100,
-      "category": "mobile"
-    },
-    {
-      "id": "questdb/questdb",
-      "title": "questdb/questdb",
-      "url": "https://github.com/questdb/questdb",
-      "score": 100,
-      "category": "backend"
-    },
-    {
-      "id": "super-productivity/super-productivity",
-      "title": "super-productivity/super-productivity",
-      "url": "https://github.com/super-productivity/super-productivity",
-      "score": 100,
-      "category": "mobile"
-    },
-    {
-      "id": "posthog/posthog",
-      "title": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "significant-gravitas/autogpt",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "juspay/hyperswitch",
-      "title": "juspay/hyperswitch",
-      "url": "https://github.com/juspay/hyperswitch",
-      "score": 100,
-      "category": "frontend"
-    },
-    {
-      "id": "metabase/metabase",
-      "title": "metabase/metabase",
-      "url": "https://github.com/metabase/metabase",
-      "score": 100,
-      "category": "data"
-    },
-    {
-      "id": "grafana/grafana",
-      "title": "grafana/grafana",
-      "url": "https://github.com/grafana/grafana",
-      "score": 100,
-      "category": "data"
-    },
-    {
-      "id": "sgl-project/sglang",
-      "title": "sgl-project/sglang",
-      "url": "https://github.com/sgl-project/sglang",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "mui/mui-x",
-      "title": "mui/mui-x",
-      "url": "https://github.com/mui/mui-x",
-      "score": 100,
-      "category": "frontend"
-    },
-    {
-      "id": "mhsanaei/3x-ui",
-      "title": "MHSanaei/3x-ui",
-      "url": "https://github.com/MHSanaei/3x-ui",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "nodejs/node",
-      "title": "nodejs/node",
-      "url": "https://github.com/nodejs/node",
-      "score": 100,
-      "category": "misc"
-    },
-    {
-      "id": "pytorch/pytorch",
-      "title": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "score": 100,
-      "category": "misc"
-    },
-    {
-      "id": "vllm-project/vllm",
-      "title": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "keploy/keploy",
-      "title": "keploy/keploy",
-      "url": "https://github.com/keploy/keploy",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "langgenius/dify",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "apache/airflow",
-      "title": "apache/airflow",
-      "url": "https://github.com/apache/airflow",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "metamask/metamask-extension",
-      "title": "MetaMask/metamask-extension",
-      "url": "https://github.com/MetaMask/metamask-extension",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "thanos-io/thanos",
-      "title": "thanos-io/thanos",
-      "url": "https://github.com/thanos-io/thanos",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "firstcontributions/first-contributions",
-      "title": "firstcontributions/first-contributions",
-      "url": "https://github.com/firstcontributions/first-contributions",
-      "score": 100,
-      "category": "misc"
-    },
-    {
-      "id": "rocketchat/rocket.chat",
-      "title": "RocketChat/Rocket.Chat",
-      "url": "https://github.com/RocketChat/Rocket.Chat",
-      "score": 100,
-      "category": "misc"
-    },
-    {
-      "id": "hazelcast/hazelcast",
-      "title": "hazelcast/hazelcast",
-      "url": "https://github.com/hazelcast/hazelcast",
-      "score": 100,
-      "category": "data"
-    },
-    {
-      "id": "h2oai/h2o-3",
-      "title": "h2oai/h2o-3",
-      "url": "https://github.com/h2oai/h2o-3",
-      "score": 100,
-      "category": "aiml"
-    },
-    {
-      "id": "apache/superset",
-      "title": "apache/superset",
-      "url": "https://github.com/apache/superset",
-      "score": 100,
-      "category": "frontend"
-    },
-    {
-      "id": "flutter/flutter",
-      "title": "flutter/flutter",
-      "url": "https://github.com/flutter/flutter",
-      "score": 100,
-      "category": "frontend"
-    },
-    {
-      "id": "pipedreamhq/pipedream",
-      "title": "PipedreamHQ/pipedream",
-      "url": "https://github.com/PipedreamHQ/pipedream",
-      "score": 100,
-      "category": "backend"
-    },
-    {
-      "id": "tailwindlabs/tailwindcss",
-      "title": "tailwindlabs/tailwindcss",
-      "url": "https://github.com/tailwindlabs/tailwindcss",
-      "score": 99,
-      "category": "aiml"
-    },
-    {
-      "id": "streetwriters/notesnook",
-      "title": "streetwriters/notesnook",
-      "url": "https://github.com/streetwriters/notesnook",
-      "score": 99,
-      "category": "frontend"
-    },
-    {
-      "id": "karakeep-app/karakeep",
-      "title": "karakeep-app/karakeep",
-      "url": "https://github.com/karakeep-app/karakeep",
-      "score": 99,
-      "category": "aiml"
-    },
-    {
-      "id": "elastic/kibana",
-      "title": "elastic/kibana",
-      "url": "https://github.com/elastic/kibana",
-      "score": 99,
-      "category": "data"
-    },
-    {
-      "id": "stamparm/maltrail",
-      "title": "stamparm/maltrail",
-      "url": "https://github.com/stamparm/maltrail",
-      "score": 99,
-      "category": "aiml"
-    },
-    {
-      "id": "xrplf/rippled",
-      "title": "XRPLF/rippled",
-      "url": "https://github.com/XRPLF/rippled",
-      "score": 99,
-      "category": "aiml"
-    },
-    {
-      "id": "gohugoio/hugo",
-      "title": "gohugoio/hugo",
-      "url": "https://github.com/gohugoio/hugo",
-      "score": 99,
-      "category": "frontend"
-    },
-    {
-      "id": "librenms/librenms",
-      "title": "librenms/librenms",
-      "url": "https://github.com/librenms/librenms",
-      "score": 98,
-      "category": "misc"
-    },
-    {
-      "id": "apache/pulsar",
-      "title": "apache/pulsar",
-      "url": "https://github.com/apache/pulsar",
-      "score": 97,
-      "category": "frontend"
-    },
-    {
-      "id": "brave/brave-browser",
-      "title": "brave/brave-browser",
-      "url": "https://github.com/brave/brave-browser",
-      "score": 97,
-      "category": "mobile"
-    },
-    {
-      "id": "chroma-core/chroma",
-      "title": "chroma-core/chroma",
-      "url": "https://github.com/chroma-core/chroma",
-      "score": 97,
-      "category": "aiml"
-    },
-    {
-      "id": "aws/aws-cdk",
-      "title": "aws/aws-cdk",
-      "url": "https://github.com/aws/aws-cdk",
-      "score": 96,
-      "category": "devopsinfra"
-    },
-    {
-      "id": "microsoft/vscode",
-      "title": "microsoft/vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "score": 96,
-      "category": "misc"
-    },
-    {
-      "id": "libp2p/rust-libp2p",
-      "title": "libp2p/rust-libp2p",
-      "url": "https://github.com/libp2p/rust-libp2p",
-      "score": 96,
-      "category": "misc"
-    },
-    {
-      "id": "vespa-engine/vespa",
-      "title": "vespa-engine/vespa",
-      "url": "https://github.com/vespa-engine/vespa",
-      "score": 96,
-      "category": "aiml"
-    },
-    {
-      "id": "mapbox/mapbox-gl-js",
-      "title": "mapbox/mapbox-gl-js",
-      "url": "https://github.com/mapbox/mapbox-gl-js",
-      "score": 96,
-      "category": "misc"
-    },
-    {
-      "id": "mozilla-mobile/firefox-ios",
-      "title": "mozilla-mobile/firefox-ios",
-      "url": "https://github.com/mozilla-mobile/firefox-ios",
-      "score": 96,
-      "category": "mobile"
-    },
-    {
-      "id": "kgateway-dev/kgateway",
-      "title": "kgateway-dev/kgateway",
-      "url": "https://github.com/kgateway-dev/kgateway",
-      "score": 96,
-      "category": "aiml"
-    },
-    {
-      "id": "nixos/nixpkgs",
-      "title": "NixOS/nixpkgs",
-      "url": "https://github.com/NixOS/nixpkgs",
-      "score": 96,
-      "category": "misc"
-    },
-    {
-      "id": "scylladb/seastar",
-      "title": "scylladb/seastar",
-      "url": "https://github.com/scylladb/seastar",
-      "score": 96,
-      "category": "aiml"
-    },
-    {
-      "id": "spring-projects/spring-ai",
-      "title": "spring-projects/spring-ai",
-      "url": "https://github.com/spring-projects/spring-ai",
-      "score": 95,
-      "category": "aiml"
-    },
-    {
-      "id": "zed-industries/zed",
-      "title": "zed-industries/zed",
-      "url": "https://github.com/zed-industries/zed",
-      "score": 95,
-      "category": "frontend"
-    },
-    {
-      "id": "protonmail/webclients",
-      "title": "ProtonMail/WebClients",
-      "url": "https://github.com/ProtonMail/WebClients",
-      "score": 95,
-      "category": "aiml"
-    },
-    {
-      "id": "opnsense/core",
-      "title": "opnsense/core",
-      "url": "https://github.com/opnsense/core",
-      "score": 95,
-      "category": "frontend"
-    },
-    {
-      "id": "pytorch/executorch",
-      "title": "pytorch/executorch",
-      "url": "https://github.com/pytorch/executorch",
-      "score": 95,
-      "category": "aiml"
-    },
-    {
-      "id": "longhorn/longhorn",
-      "title": "longhorn/longhorn",
-      "url": "https://github.com/longhorn/longhorn",
-      "score": 94,
-      "category": "aiml"
-    },
-    {
-      "id": "suitenumerique/docs",
-      "title": "suitenumerique/docs",
-      "url": "https://github.com/suitenumerique/docs",
-      "score": 94,
-      "category": "frontend"
-    },
-    {
-      "id": "keycloak/keycloak",
-      "title": "keycloak/keycloak",
-      "url": "https://github.com/keycloak/keycloak",
-      "score": 94,
-      "category": "aiml"
-    },
-    {
-      "id": "elastic/elasticsearch",
-      "title": "elastic/elasticsearch",
-      "url": "https://github.com/elastic/elasticsearch",
-      "score": 94,
-      "category": "misc"
-    },
-    {
-      "id": "dotnet/runtime",
-      "title": "dotnet/runtime",
-      "url": "https://github.com/dotnet/runtime",
-      "score": 94,
-      "category": "misc"
-    },
-    {
-      "id": "rerun-io/rerun",
-      "title": "rerun-io/rerun",
-      "url": "https://github.com/rerun-io/rerun",
-      "score": 94,
-      "category": "data"
-    },
-    {
-      "id": "nushell/nushell",
-      "title": "nushell/nushell",
-      "url": "https://github.com/nushell/nushell",
-      "score": 94,
-      "category": "misc"
-    },
-    {
-      "id": "ydb-platform/ydb",
-      "title": "ydb-platform/ydb",
-      "url": "https://github.com/ydb-platform/ydb",
-      "score": 94,
-      "category": "aiml"
-    },
-    {
-      "id": "hashicorp/terraform-provider-aws",
-      "title": "hashicorp/terraform-provider-aws",
-      "url": "https://github.com/hashicorp/terraform-provider-aws",
-      "score": 94,
-      "category": "devopsinfra"
-    },
-    {
-      "id": "ubicloud/ubicloud",
-      "title": "ubicloud/ubicloud",
-      "url": "https://github.com/ubicloud/ubicloud",
-      "score": 93,
-      "category": "aiml"
-    },
-    {
-      "id": "dotnet/fsharp",
-      "title": "dotnet/fsharp",
-      "url": "https://github.com/dotnet/fsharp",
-      "score": 93,
-      "category": "devtools"
-    },
-    {
-      "id": "podman-desktop/podman-desktop",
-      "title": "podman-desktop/podman-desktop",
-      "url": "https://github.com/podman-desktop/podman-desktop",
-      "score": 93,
-      "category": "aiml"
-    },
-    {
-      "id": "vllm-project/vllm-omni",
-      "title": "vllm-project/vllm-omni",
-      "url": "https://github.com/vllm-project/vllm-omni",
-      "score": 93,
-      "category": "aiml"
-    },
-    {
-      "id": "offa/android-foss",
-      "title": "offa/android-foss",
-      "url": "https://github.com/offa/android-foss",
-      "score": 92,
-      "category": "mobile"
-    },
-    {
-      "id": "assemblyscript/assemblyscript",
-      "title": "AssemblyScript/assemblyscript",
-      "url": "https://github.com/AssemblyScript/assemblyscript",
-      "score": 92,
-      "category": "misc"
-    },
-    {
-      "id": "openclaw/skills",
-      "title": "openclaw/skills",
-      "url": "https://github.com/openclaw/skills",
-      "score": 91,
-      "category": "misc"
-    },
-    {
-      "id": "lightdash/lightdash",
-      "title": "lightdash/lightdash",
-      "url": "https://github.com/lightdash/lightdash",
-      "score": 91,
-      "category": "data"
-    },
-    {
-      "id": "llvm/llvm-project",
-      "title": "llvm/llvm-project",
-      "url": "https://github.com/llvm/llvm-project",
-      "score": 90,
-      "category": "aiml"
-    },
-    {
-      "id": "qgis/qgis",
-      "title": "qgis/QGIS",
-      "url": "https://github.com/qgis/QGIS",
-      "score": 90,
-      "category": "misc"
-    },
-    {
-      "id": "datadog/datadog-agent",
-      "title": "DataDog/datadog-agent",
-      "url": "https://github.com/DataDog/datadog-agent",
-      "score": 90,
-      "category": "aiml"
-    },
-    {
-      "id": "errbit/errbit",
-      "title": "errbit/errbit",
-      "url": "https://github.com/errbit/errbit",
-      "score": 90,
-      "category": "aiml"
-    },
-    {
-      "id": "freebsd/freebsd-src",
-      "title": "freebsd/freebsd-src",
-      "url": "https://github.com/freebsd/freebsd-src",
-      "score": 90,
-      "category": "misc"
-    },
-    {
-      "id": "kubernetes/website",
-      "title": "kubernetes/website",
-      "url": "https://github.com/kubernetes/website",
-      "score": 90,
-      "category": "aiml"
-    },
-    {
-      "id": "ai-dynamo/dynamo",
-      "title": "ai-dynamo/dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "score": 90,
-      "category": "aiml"
-    },
-    {
-      "id": "osaurus-ai/osaurus",
-      "title": "osaurus-ai/osaurus",
-      "url": "https://github.com/osaurus-ai/osaurus",
-      "score": 89,
-      "category": "aiml"
-    },
-    {
-      "id": "camunda/camunda",
-      "title": "camunda/camunda",
-      "url": "https://github.com/camunda/camunda",
-      "score": 89,
-      "category": "backend"
-    },
-    {
-      "id": "librephotos/librephotos",
-      "title": "LibrePhotos/librephotos",
-      "url": "https://github.com/LibrePhotos/librephotos",
-      "score": 89,
-      "category": "backend"
-    },
-    {
-      "id": "corda/corda",
-      "title": "corda/corda",
-      "url": "https://github.com/corda/corda",
-      "score": 88,
-      "category": "aiml"
-    },
-    {
-      "id": "collaboraonline/online",
-      "title": "CollaboraOnline/online",
-      "url": "https://github.com/CollaboraOnline/online",
-      "score": 87,
-      "category": "frontend"
-    },
-    {
-      "id": "unopim/unopim",
-      "title": "unopim/unopim",
-      "url": "https://github.com/unopim/unopim",
-      "score": 87,
-      "category": "data"
-    },
-    {
-      "id": "mauriceboe/trek",
-      "title": "mauriceboe/TREK",
-      "url": "https://github.com/mauriceboe/TREK",
-      "score": 86,
-      "category": "misc"
-    },
-    {
-      "id": "roc-lang/roc",
-      "title": "roc-lang/roc",
-      "url": "https://github.com/roc-lang/roc",
-      "score": 86,
-      "category": "misc"
-    },
-    {
-      "id": "openbao/openbao",
-      "title": "openbao/openbao",
-      "url": "https://github.com/openbao/openbao",
-      "score": 85,
-      "category": "data"
-    },
-    {
-      "id": "easylist/easylist",
-      "title": "easylist/easylist",
-      "url": "https://github.com/easylist/easylist",
-      "score": 84,
-      "category": "misc"
-    },
-    {
-      "id": "generalaction/emdash",
-      "title": "generalaction/emdash",
-      "url": "https://github.com/generalaction/emdash",
-      "score": 84,
-      "category": "aiml"
-    },
-    {
-      "id": "metamask/metamask-mobile",
-      "title": "MetaMask/metamask-mobile",
-      "url": "https://github.com/MetaMask/metamask-mobile",
-      "score": 84,
-      "category": "aiml"
-    },
-    {
-      "id": "linux-test-project/ltp",
-      "title": "linux-test-project/ltp",
-      "url": "https://github.com/linux-test-project/ltp",
-      "score": 83,
-      "category": "aiml"
-    },
-    {
-      "id": "ed1s0nz/cyberstrikeai",
-      "title": "Ed1s0nZ/CyberStrikeAI",
-      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-      "score": 82,
-      "category": "aiml"
-    },
-    {
-      "id": "facebook/sapling",
-      "title": "facebook/sapling",
-      "url": "https://github.com/facebook/sapling",
-      "score": 80,
-      "category": "misc"
-    },
-    {
-      "id": "lingdojo/kana-dojo",
-      "title": "lingdojo/kana-dojo",
-      "url": "https://github.com/lingdojo/kana-dojo",
-      "score": 80,
-      "category": "frontend"
-    },
-    {
-      "id": "open-telemetry/opentelemetry-python",
-      "title": "open-telemetry/opentelemetry-python",
-      "url": "https://github.com/open-telemetry/opentelemetry-python",
-      "score": 80,
-      "category": "backend"
-    },
-    {
-      "id": "void-linux/void-packages",
-      "title": "void-linux/void-packages",
-      "url": "https://github.com/void-linux/void-packages",
-      "score": 80,
-      "category": "misc"
-    },
-    {
-      "id": "wwbn/avideo",
-      "title": "WWBN/AVideo",
-      "url": "https://github.com/WWBN/AVideo",
-      "score": 80,
-      "category": "backend"
-    },
-    {
-      "id": "mayocream/koharu",
-      "title": "mayocream/koharu",
-      "url": "https://github.com/mayocream/koharu",
-      "score": 80,
-      "category": "aiml"
-    },
-    {
-      "id": "leanprover-community/mathlib4",
-      "title": "leanprover-community/mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "score": 79,
-      "category": "misc"
-    },
-    {
-      "id": "josh-xt/agixt",
-      "title": "Josh-XT/AGiXT",
-      "url": "https://github.com/Josh-XT/AGiXT",
-      "score": 79,
-      "category": "aiml"
-    },
-    {
-      "id": "khwang9883/mobilemodels",
-      "title": "KHwang9883/MobileModels",
-      "url": "https://github.com/KHwang9883/MobileModels",
-      "score": 77,
-      "category": "misc"
-    },
-    {
-      "id": "mdn/translated-content",
-      "title": "mdn/translated-content",
-      "url": "https://github.com/mdn/translated-content",
-      "score": 76,
-      "category": "aiml"
-    },
-    {
-      "id": "qutip/qutip",
-      "title": "qutip/qutip",
-      "url": "https://github.com/qutip/qutip",
-      "score": 75,
-      "category": "misc"
-    },
-    {
-      "id": "spiceai/spiceai",
-      "title": "spiceai/spiceai",
-      "url": "https://github.com/spiceai/spiceai",
-      "score": 73,
-      "category": "aiml"
-    },
-    {
-      "id": "nvidia/cccl",
-      "title": "NVIDIA/cccl",
-      "url": "https://github.com/NVIDIA/cccl",
-      "score": 72,
-      "category": "misc"
-    },
-    {
-      "id": "scoopinstaller/main",
-      "title": "ScoopInstaller/Main",
-      "url": "https://github.com/ScoopInstaller/Main",
-      "score": 72,
-      "category": "aiml"
-    },
-    {
-      "id": "react-native-community/directory",
-      "title": "react-native-community/directory",
-      "url": "https://github.com/react-native-community/directory",
-      "score": 72,
-      "category": "frontend"
-    },
-    {
-      "id": "ax-llm/ax",
-      "title": "ax-llm/ax",
-      "url": "https://github.com/ax-llm/ax",
-      "score": 71,
-      "category": "aiml"
-    },
-    {
-      "id": "xtdb/xtdb",
-      "title": "xtdb/xtdb",
-      "url": "https://github.com/xtdb/xtdb",
-      "score": 71,
-      "category": "data"
-    },
-    {
-      "id": "meltano/meltano",
-      "title": "meltano/meltano",
-      "url": "https://github.com/meltano/meltano",
-      "score": 71,
-      "category": "aiml"
-    },
-    {
-      "id": "circuitverse/circuitverse",
-      "title": "CircuitVerse/CircuitVerse",
-      "url": "https://github.com/CircuitVerse/CircuitVerse",
-      "score": 70,
-      "category": "frontend"
-    },
-    {
-      "id": "mozilla/pontoon",
-      "title": "mozilla/pontoon",
-      "url": "https://github.com/mozilla/pontoon",
-      "score": 69,
-      "category": "design"
-    },
-    {
-      "id": "24pullrequests/24pullrequests",
-      "title": "24pullrequests/24pullrequests",
-      "url": "https://github.com/24pullrequests/24pullrequests",
-      "score": 69,
-      "category": "aiml"
-    },
-    {
-      "id": "getsentry/sentry-react-native",
-      "title": "getsentry/sentry-react-native",
-      "url": "https://github.com/getsentry/sentry-react-native",
-      "score": 68,
-      "category": "frontend"
-    },
-    {
-      "id": "zaproxy/zap-extensions",
-      "title": "zaproxy/zap-extensions",
-      "url": "https://github.com/zaproxy/zap-extensions",
-      "score": 68,
-      "category": "aiml"
-    },
-    {
-      "id": "coderaiser/cloudcmd",
-      "title": "coderaiser/cloudcmd",
-      "url": "https://github.com/coderaiser/cloudcmd",
-      "score": 68,
-      "category": "aiml"
-    },
-    {
-      "id": "intel/llvm",
-      "title": "intel/llvm",
-      "url": "https://github.com/intel/llvm",
-      "score": 68,
-      "category": "backend"
-    },
-    {
-      "id": "privacyidea/privacyidea",
-      "title": "privacyidea/privacyidea",
-      "url": "https://github.com/privacyidea/privacyidea",
-      "score": 67,
-      "category": "backend"
-    },
-    {
-      "id": "nightscout/androidaps",
-      "title": "nightscout/AndroidAPS",
-      "url": "https://github.com/nightscout/AndroidAPS",
-      "score": 67,
-      "category": "mobile"
-    },
-    {
-      "id": "mcpjam/inspector",
-      "title": "MCPJam/inspector",
-      "url": "https://github.com/MCPJam/inspector",
-      "score": 66,
-      "category": "aiml"
-    },
-    {
-      "id": "ebean-orm/ebean",
-      "title": "ebean-orm/ebean",
-      "url": "https://github.com/ebean-orm/ebean",
-      "score": 65,
-      "category": "backend"
-    },
-    {
-      "id": "linwooddev/butterfly",
-      "title": "LinwoodDev/Butterfly",
-      "url": "https://github.com/LinwoodDev/Butterfly",
-      "score": 65,
-      "category": "mobile"
-    },
-    {
-      "id": "matrix-org/matrix-rust-sdk",
-      "title": "matrix-org/matrix-rust-sdk",
-      "url": "https://github.com/matrix-org/matrix-rust-sdk",
-      "score": 65,
-      "category": "backend"
-    },
-    {
-      "id": "nvidia-nemo/curator",
-      "title": "NVIDIA-NeMo/Curator",
-      "url": "https://github.com/NVIDIA-NeMo/Curator",
-      "score": 65,
-      "category": "aiml"
-    },
-    {
-      "id": "metamask/eth-phishing-detect",
-      "title": "MetaMask/eth-phishing-detect",
-      "url": "https://github.com/MetaMask/eth-phishing-detect",
-      "score": 64,
-      "category": "aiml"
-    },
-    {
-      "id": "alvin9999-newpac/fanqiang",
-      "title": "Alvin9999-newpac/fanqiang",
-      "url": "https://github.com/Alvin9999-newpac/fanqiang",
-      "score": 63,
-      "category": "mobile"
-    },
-    {
-      "id": "rustmailer/bichon",
-      "title": "rustmailer/bichon",
-      "url": "https://github.com/rustmailer/bichon",
-      "score": 62,
-      "category": "aiml"
-    },
-    {
-      "id": "aelassas/servy",
-      "title": "aelassas/servy",
-      "url": "https://github.com/aelassas/servy",
-      "score": 61,
-      "category": "misc"
-    },
-    {
-      "id": "vkcom/vkui",
-      "title": "VKCOM/VKUI",
-      "url": "https://github.com/VKCOM/VKUI",
-      "score": 61,
-      "category": "frontend"
-    },
-    {
-      "id": "grafana/beyla",
-      "title": "grafana/beyla",
-      "url": "https://github.com/grafana/beyla",
-      "score": 61,
-      "category": "misc"
-    },
-    {
-      "id": "dustinwin/proxy-tools",
-      "title": "DustinWin/proxy-tools",
-      "url": "https://github.com/DustinWin/proxy-tools",
-      "score": 61,
-      "category": "mobile"
-    },
-    {
-      "id": "noir-lang/noir",
-      "title": "noir-lang/noir",
-      "url": "https://github.com/noir-lang/noir",
-      "score": 61,
-      "category": "aiml"
-    },
-    {
-      "id": "codeaholicguy/ai-devkit",
-      "title": "codeaholicguy/ai-devkit",
-      "url": "https://github.com/codeaholicguy/ai-devkit",
-      "score": 61,
-      "category": "aiml"
-    },
-    {
-      "id": "zerok-rts/zero-k",
-      "title": "ZeroK-RTS/Zero-K",
-      "url": "https://github.com/ZeroK-RTS/Zero-K",
-      "score": 59,
-      "category": "misc"
-    },
-    {
-      "id": "xwiki/xwiki-platform",
-      "title": "xwiki/xwiki-platform",
-      "url": "https://github.com/xwiki/xwiki-platform",
-      "score": 58,
-      "category": "misc"
-    },
-    {
-      "id": "jurkovic-nikola/openlinkhub",
-      "title": "jurkovic-nikola/OpenLinkHub",
-      "url": "https://github.com/jurkovic-nikola/OpenLinkHub",
-      "score": 58,
-      "category": "aiml"
-    },
-    {
-      "id": "ryanyuuki/anymex",
-      "title": "RyanYuuki/AnymeX",
-      "url": "https://github.com/RyanYuuki/AnymeX",
-      "score": 58,
-      "category": "mobile"
-    },
-    {
-      "id": "monosans/proxy-scraper-checker",
-      "title": "monosans/proxy-scraper-checker",
-      "url": "https://github.com/monosans/proxy-scraper-checker",
-      "score": 58,
-      "category": "misc"
-    },
-    {
-      "id": "theopenconversationkit/tock",
-      "title": "theopenconversationkit/tock",
-      "url": "https://github.com/theopenconversationkit/tock",
-      "score": 57,
-      "category": "aiml"
-    },
-    {
-      "id": "hommy-master/capcut-mate",
-      "title": "Hommy-master/capcut-mate",
-      "url": "https://github.com/Hommy-master/capcut-mate",
-      "score": 57,
-      "category": "backend"
-    },
-    {
-      "id": "alltheplaces/alltheplaces",
-      "title": "alltheplaces/alltheplaces",
-      "url": "https://github.com/alltheplaces/alltheplaces",
-      "score": 57,
-      "category": "misc"
-    },
-    {
-      "id": "myems/myems",
-      "title": "MyEMS/myems",
-      "url": "https://github.com/MyEMS/myems",
-      "score": 57,
-      "category": "aiml"
-    },
-    {
-      "id": "kuestcom/prediction-market",
-      "title": "kuestcom/prediction-market",
-      "url": "https://github.com/kuestcom/prediction-market",
-      "score": 57,
-      "category": "aiml"
-    },
-    {
-      "id": "normation/rudder",
-      "title": "Normation/rudder",
-      "url": "https://github.com/Normation/rudder",
-      "score": 56,
-      "category": "devopsinfra"
-    },
-    {
-      "id": "microsoft/al-go",
-      "title": "microsoft/AL-Go",
-      "url": "https://github.com/microsoft/AL-Go",
-      "score": 56,
-      "category": "misc"
-    },
-    {
-      "id": "jasp-stats/jasp-desktop",
-      "title": "jasp-stats/jasp-desktop",
-      "url": "https://github.com/jasp-stats/jasp-desktop",
-      "score": 56,
-      "category": "aiml"
-    },
-    {
-      "id": "voidenhq/voiden",
-      "title": "VoidenHQ/voiden",
-      "url": "https://github.com/VoidenHQ/voiden",
-      "score": 56,
-      "category": "aiml"
-    },
-    {
-      "id": "kohii/smoothcsv3",
-      "title": "kohii/smoothcsv3",
-      "url": "https://github.com/kohii/smoothcsv3",
-      "score": 55,
-      "category": "frontend"
-    },
-    {
-      "id": "lifailon/rudocs",
-      "title": "Lifailon/rudocs",
-      "url": "https://github.com/Lifailon/rudocs",
-      "score": 55,
-      "category": "aiml"
-    },
-    {
-      "id": "night/betterttv",
-      "title": "night/betterttv",
-      "url": "https://github.com/night/betterttv",
-      "score": 55,
-      "category": "misc"
-    },
-    {
-      "id": "francescoxx/rustcrab",
-      "title": "FrancescoXX/rustcrab",
-      "url": "https://github.com/FrancescoXX/rustcrab",
-      "score": 55,
-      "category": "aiml"
-    },
-    {
-      "id": "aryan-raj3112/episteme",
-      "title": "Aryan-Raj3112/episteme",
-      "url": "https://github.com/Aryan-Raj3112/episteme",
-      "score": 54,
-      "category": "frontend"
-    },
-    {
-      "id": "suitenumerique/drive",
-      "title": "suitenumerique/drive",
-      "url": "https://github.com/suitenumerique/drive",
-      "score": 54,
-      "category": "frontend"
-    }
-  ]
-}
+[
+  {
+    "externalId": "642497346",
+    "source": "github",
+    "url": "https://github.com/langfuse/langfuse",
+    "owner": "langfuse",
+    "name": "langfuse",
+    "title": "langfuse/langfuse",
+    "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+    "stars": 25257,
+    "forks": 2564,
+    "language": "TypeScript",
+    "topics": [
+      "analytics",
+      "autogen",
+      "evaluation",
+      "langchain",
+      "large-language-models",
+      "llama-index",
+      "llm",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops",
+      "monitoring",
+      "observability",
+      "open-source",
+      "openai",
+      "playground",
+      "prompt-engineering",
+      "prompt-management",
+      "self-hosted",
+      "ycombinator"
+    ],
+    "createdAt": "2023-05-18T17:47:09Z",
+    "updatedAt": "2026-04-21T12:12:30Z",
+    "id": "langfuse/langfuse",
+    "discoveredAt": "2026-04-21T12:12:47.150Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "langfuse/langfuse: перспективный open-source проект. Категории: AI/ML, Data. Интересность: 100/100.",
+    "summaryEn": "langfuse/langfuse is a promising open-source project. Categories: AI/ML, Data. Interest score: 100/100."
+  },
+  {
+    "externalId": "667110339",
+    "source": "github",
+    "url": "https://github.com/drawdb-io/drawdb",
+    "owner": "drawdb-io",
+    "name": "drawdb",
+    "title": "drawdb-io/drawdb",
+    "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+    "stars": 37086,
+    "forks": 2992,
+    "language": "JavaScript",
+    "topics": [
+      "database-schema",
+      "diagram-editor",
+      "editor",
+      "erd",
+      "erdiagram",
+      "indexeddb",
+      "javascript",
+      "mariadb",
+      "oracle-database",
+      "oracle-db",
+      "postgresql",
+      "react",
+      "sql",
+      "sql-server",
+      "sqlite",
+      "svg",
+      "tailwindcss"
+    ],
+    "createdAt": "2023-07-16T17:09:20Z",
+    "updatedAt": "2026-04-21T12:12:25Z",
+    "id": "drawdb-io/drawdb",
+    "discoveredAt": "2026-04-21T12:12:47.151Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "drawdb-io/drawdb: перспективный open-source проект. Категории: AI/ML, Frontend, Backend. Интересность: 100/100.",
+    "summaryEn": "drawdb-io/drawdb is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 100/100."
+  },
+  {
+    "externalId": "873328",
+    "source": "github",
+    "url": "https://github.com/getsentry/sentry",
+    "owner": "getsentry",
+    "name": "sentry",
+    "title": "getsentry/sentry",
+    "description": "Developer-first error tracking and performance monitoring",
+    "stars": 43634,
+    "forks": 4655,
+    "language": "Python",
+    "topics": [
+      "apm",
+      "crash-reporting",
+      "crash-reports",
+      "csp-report",
+      "devops",
+      "django",
+      "error-logging",
+      "error-monitoring",
+      "fair-source",
+      "hacktoberfest",
+      "monitor",
+      "monitoring",
+      "python",
+      "sentry",
+      "tag-production"
+    ],
+    "createdAt": "2010-08-30T22:06:41Z",
+    "updatedAt": "2026-04-21T12:11:51Z",
+    "id": "getsentry/sentry",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "DevTools",
+      "Product"
+    ],
+    "status": "active",
+    "summaryRu": "getsentry/sentry: перспективный open-source проект. Категории: AI/ML, DevTools, Product. Интересность: 100/100.",
+    "summaryEn": "getsentry/sentry is a promising open-source project. Categories: AI/ML, DevTools, Product. Interest score: 100/100."
+  },
+  {
+    "externalId": "849406496",
+    "source": "github",
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+    "owner": "Fincept-Corporation",
+    "name": "FinceptTerminal",
+    "title": "Fincept-Corporation/FinceptTerminal",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "stars": 10832,
+    "forks": 1445,
+    "language": "Python",
+    "topics": [
+      "bloomberg-terminal",
+      "contributions-welcome",
+      "finance",
+      "financial-markets",
+      "foss",
+      "good-first-issue",
+      "help-wanted",
+      "investing",
+      "investment",
+      "investment-research",
+      "machine-learning",
+      "opensource",
+      "python",
+      "quantitative-finance",
+      "stock-market",
+      "stocks"
+    ],
+    "createdAt": "2024-08-29T14:38:08Z",
+    "updatedAt": "2026-04-21T12:11:31Z",
+    "id": "fincept-corporation/finceptterminal",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Data",
+      "Design"
+    ],
+    "status": "active",
+    "summaryRu": "Fincept-Corporation/FinceptTerminal: перспективный open-source проект. Категории: Data, Design. Интересность: 100/100.",
+    "summaryEn": "Fincept-Corporation/FinceptTerminal is a promising open-source project. Categories: Data, Design. Interest score: 100/100."
+  },
+  {
+    "externalId": "202291859",
+    "source": "github",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "owner": "chatwoot",
+    "name": "chatwoot",
+    "title": "chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "stars": 28664,
+    "forks": 6961,
+    "language": "Ruby",
+    "topics": [
+      "actioncable",
+      "chat-widget",
+      "conversation",
+      "customer-support",
+      "dashboard",
+      "design",
+      "docker",
+      "docker-image",
+      "heroku",
+      "intercom",
+      "javascript",
+      "livechat",
+      "opensource",
+      "rails",
+      "ruby",
+      "sass",
+      "vuejs",
+      "whatsapp",
+      "zendesk"
+    ],
+    "createdAt": "2019-08-14T06:50:51Z",
+    "updatedAt": "2026-04-21T11:55:17Z",
+    "id": "chatwoot/chatwoot",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "DevOps/Infra"
+    ],
+    "status": "active",
+    "summaryRu": "chatwoot/chatwoot: перспективный open-source проект. Категории: AI/ML, Frontend, DevOps/Infra. Интересность: 100/100.",
+    "summaryEn": "chatwoot/chatwoot is a promising open-source project. Categories: AI/ML, Frontend, DevOps/Infra. Interest score: 100/100."
+  },
+  {
+    "externalId": "542284380",
+    "source": "github",
+    "url": "https://github.com/usebruno/bruno",
+    "owner": "usebruno",
+    "name": "bruno",
+    "title": "usebruno/bruno",
+    "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+    "stars": 43113,
+    "forks": 2325,
+    "language": "JavaScript",
+    "topics": [
+      "api-client",
+      "api-testing",
+      "automation",
+      "developer-tools",
+      "git",
+      "graphql-client",
+      "http-client",
+      "javascript",
+      "openapi",
+      "openapi3",
+      "opensource",
+      "rest-api",
+      "testing",
+      "testing-tools"
+    ],
+    "createdAt": "2022-09-27T20:51:45Z",
+    "updatedAt": "2026-04-21T12:09:27Z",
+    "id": "usebruno/bruno",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Backend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "usebruno/bruno: перспективный open-source проект. Категории: Backend, DevTools. Интересность: 100/100.",
+    "summaryEn": "usebruno/bruno is a promising open-source project. Categories: Backend, DevTools. Interest score: 100/100."
+  },
+  {
+    "externalId": "560284721",
+    "source": "github",
+    "url": "https://github.com/ente-io/ente",
+    "owner": "ente-io",
+    "name": "ente",
+    "title": "ente-io/ente",
+    "description": "💚 End-to-end encrypted cloud for everything.",
+    "stars": 26073,
+    "forks": 1549,
+    "language": "Dart",
+    "topics": [
+      "2fa",
+      "android",
+      "authy",
+      "e2ee",
+      "encryption",
+      "end-to-end-encryption",
+      "flutter",
+      "golang",
+      "google-photos",
+      "google-photos-alternative",
+      "ios",
+      "opensource",
+      "photos",
+      "privacy",
+      "privacy-tools",
+      "typescript",
+      "zero-knowledge"
+    ],
+    "createdAt": "2022-11-01T06:10:25Z",
+    "updatedAt": "2026-04-21T11:55:27Z",
+    "id": "ente-io/ente",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Mobile",
+      "Security"
+    ],
+    "status": "active",
+    "summaryRu": "ente-io/ente: перспективный open-source проект. Категории: Mobile, Security. Интересность: 100/100.",
+    "summaryEn": "ente-io/ente is a promising open-source project. Categories: Mobile, Security. Interest score: 100/100."
+  },
+  {
+    "externalId": "60243197",
+    "source": "github",
+    "url": "https://github.com/nextcloud/server",
+    "owner": "nextcloud",
+    "name": "server",
+    "title": "nextcloud/server",
+    "description": "☁️ Nextcloud server, a safe home for all your data",
+    "stars": 34682,
+    "forks": 4834,
+    "language": "PHP",
+    "topics": [
+      "cloud",
+      "collaboration",
+      "decentralized",
+      "design",
+      "distributed",
+      "enterprise",
+      "federation",
+      "file-sharing",
+      "free-software",
+      "hacktoberfest",
+      "javascript",
+      "nextcloud",
+      "open-source",
+      "opensource",
+      "owncloud",
+      "php",
+      "self-hosting",
+      "sharing",
+      "usability",
+      "ux"
+    ],
+    "createdAt": "2016-06-02T07:44:14Z",
+    "updatedAt": "2026-04-21T11:28:32Z",
+    "id": "nextcloud/server",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Backend",
+      "Data",
+      "Design"
+    ],
+    "status": "active",
+    "summaryRu": "nextcloud/server: перспективный open-source проект. Категории: Backend, Data, Design. Интересность: 100/100.",
+    "summaryEn": "nextcloud/server is a promising open-source project. Categories: Backend, Data, Design. Interest score: 100/100."
+  },
+  {
+    "externalId": "1130564872",
+    "source": "github",
+    "url": "https://github.com/koala73/worldmonitor",
+    "owner": "koala73",
+    "name": "worldmonitor",
+    "title": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "stars": 50727,
+    "forks": 8195,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "dashboard",
+      "geopolitics",
+      "monitoring",
+      "news",
+      "opensource",
+      "osint",
+      "palantir",
+      "situation"
+    ],
+    "createdAt": "2026-01-08T17:26:06Z",
+    "updatedAt": "2026-04-21T12:08:59Z",
+    "id": "koala73/worldmonitor",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "DevOps/Infra"
+    ],
+    "status": "active",
+    "summaryRu": "koala73/worldmonitor: перспективный open-source проект. Категории: AI/ML, DevOps/Infra. Интересность: 100/100.",
+    "summaryEn": "koala73/worldmonitor is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 100/100."
+  },
+  {
+    "externalId": "36817565",
+    "source": "github",
+    "url": "https://github.com/zaproxy/zaproxy",
+    "owner": "zaproxy",
+    "name": "zaproxy",
+    "title": "zaproxy/zaproxy",
+    "description": "The ZAP by Checkmarx Core project",
+    "stars": 15014,
+    "forks": 2541,
+    "language": "Java",
+    "topics": [
+      "appsec",
+      "dast",
+      "hacktoberfest",
+      "opensource",
+      "security",
+      "security-scanner",
+      "zap",
+      "zap-development",
+      "zaproxy"
+    ],
+    "createdAt": "2015-06-03T16:55:01Z",
+    "updatedAt": "2026-04-21T11:22:29Z",
+    "id": "zaproxy/zaproxy",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Security"
+    ],
+    "status": "active",
+    "summaryRu": "zaproxy/zaproxy: перспективный open-source проект. Категории: Security. Интересность: 100/100.",
+    "summaryEn": "zaproxy/zaproxy is a promising open-source project. Categories: Security. Interest score: 100/100."
+  },
+  {
+    "externalId": "60561834",
+    "source": "github",
+    "url": "https://github.com/nextcloud/android",
+    "owner": "nextcloud",
+    "name": "android",
+    "title": "nextcloud/android",
+    "description": "📱 Nextcloud Android app",
+    "stars": 5284,
+    "forks": 1947,
+    "language": "Kotlin",
+    "topics": [
+      "android",
+      "hacktoberfest",
+      "java",
+      "kotlin",
+      "mobile",
+      "mobile-app",
+      "nextcloud",
+      "open-source",
+      "opensource"
+    ],
+    "createdAt": "2016-06-06T21:23:36Z",
+    "updatedAt": "2026-04-21T09:39:14Z",
+    "id": "nextcloud/android",
+    "discoveredAt": "2026-04-21T12:12:47.153Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Mobile"
+    ],
+    "status": "active",
+    "summaryRu": "nextcloud/android: перспективный open-source проект. Категории: Mobile. Интересность: 100/100.",
+    "summaryEn": "nextcloud/android is a promising open-source project. Categories: Mobile. Interest score: 100/100."
+  },
+  {
+    "externalId": "19257422",
+    "source": "github",
+    "url": "https://github.com/questdb/questdb",
+    "owner": "questdb",
+    "name": "questdb",
+    "title": "questdb/questdb",
+    "description": "QuestDB is a high performance, open-source, time-series database",
+    "stars": 16878,
+    "forks": 1565,
+    "language": "Java",
+    "topics": [
+      "capital-markets",
+      "cpp",
+      "database",
+      "financial-analysis",
+      "grafana",
+      "java",
+      "kdb",
+      "low-latency",
+      "market-data",
+      "olap",
+      "parquet",
+      "postgresql",
+      "questdb",
+      "real-time-analytics",
+      "simd",
+      "sql",
+      "tick-data",
+      "time-series",
+      "time-series-database",
+      "tsdb"
+    ],
+    "createdAt": "2014-04-28T23:29:15Z",
+    "updatedAt": "2026-04-21T12:12:08Z",
+    "id": "questdb/questdb",
+    "discoveredAt": "2026-04-21T12:12:47.153Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Backend",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "questdb/questdb: перспективный open-source проект. Категории: Backend, Data. Интересность: 100/100.",
+    "summaryEn": "questdb/questdb is a promising open-source project. Categories: Backend, Data. Interest score: 100/100."
+  },
+  {
+    "externalId": "78243781",
+    "source": "github",
+    "url": "https://github.com/super-productivity/super-productivity",
+    "owner": "super-productivity",
+    "name": "super-productivity",
+    "title": "super-productivity/super-productivity",
+    "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+    "stars": 18767,
+    "forks": 1623,
+    "language": "TypeScript",
+    "topics": [
+      "android",
+      "flowmodoro",
+      "flowtime",
+      "habit-tracker",
+      "ios",
+      "issue-tracker",
+      "linux",
+      "local-first",
+      "macos",
+      "open-source",
+      "pomodoro",
+      "pomodoro-timer",
+      "privacy",
+      "productivity",
+      "task-manager",
+      "time-tracker",
+      "time-tracking",
+      "to-do-list",
+      "todo",
+      "windows"
+    ],
+    "createdAt": "2017-01-06T22:30:58Z",
+    "updatedAt": "2026-04-21T12:09:15Z",
+    "id": "super-productivity/super-productivity",
+    "discoveredAt": "2026-04-21T12:12:47.153Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Mobile",
+      "Product"
+    ],
+    "status": "active",
+    "summaryRu": "super-productivity/super-productivity: перспективный open-source проект. Категории: Mobile, Product. Интересность: 100/100.",
+    "summaryEn": "super-productivity/super-productivity is a promising open-source project. Categories: Mobile, Product. Interest score: 100/100."
+  },
+  {
+    "externalId": "235901813",
+    "source": "github",
+    "url": "https://github.com/PostHog/posthog",
+    "owner": "PostHog",
+    "name": "posthog",
+    "title": "PostHog/posthog",
+    "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "stars": 32684,
+    "forks": 2541,
+    "language": "Python",
+    "topics": [
+      "ab-testing",
+      "ai-analytics",
+      "analytics",
+      "cdp",
+      "data-warehouse",
+      "experiments",
+      "feature-flags",
+      "javascript",
+      "product-analytics",
+      "python",
+      "react",
+      "session-replay",
+      "surveys",
+      "typescript",
+      "web-analytics"
+    ],
+    "createdAt": "2020-01-23T22:46:58Z",
+    "updatedAt": "2026-04-21T12:08:57Z",
+    "id": "posthog/posthog",
+    "discoveredAt": "2026-04-21T12:12:47.153Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "PostHog/posthog: перспективный open-source проект. Категории: AI/ML, Frontend, DevTools. Интересность: 100/100.",
+    "summaryEn": "PostHog/posthog is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 100/100."
+  },
+  {
+    "externalId": "614765452",
+    "source": "github",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "owner": "Significant-Gravitas",
+    "name": "AutoGPT",
+    "title": "Significant-Gravitas/AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "stars": 183627,
+    "forks": 46214,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "claude",
+      "gpt",
+      "llama-api",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "createdAt": "2023-03-16T09:21:07Z",
+    "updatedAt": "2026-04-21T12:11:36Z",
+    "id": "significant-gravitas/autogpt",
+    "discoveredAt": "2026-04-21T12:12:47.153Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "Significant-Gravitas/AutoGPT: перспективный open-source проект. Категории: AI/ML, Frontend, Backend. Интересность: 100/100.",
+    "summaryEn": "Significant-Gravitas/AutoGPT is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 100/100."
+  },
+  {
+    "externalId": "552877440",
+    "source": "github",
+    "url": "https://github.com/juspay/hyperswitch",
+    "owner": "juspay",
+    "name": "hyperswitch",
+    "title": "juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "stars": 42502,
+    "forks": 4599,
+    "language": "Rust",
+    "topics": [
+      "beginner-friendly",
+      "featured",
+      "finance",
+      "hacktoberfest",
+      "high-performance",
+      "open-source",
+      "orchestration",
+      "payments",
+      "postgresql",
+      "redis",
+      "restful-api",
+      "rust",
+      "sdk",
+      "works-with-react"
+    ],
+    "createdAt": "2022-10-17T11:18:28Z",
+    "updatedAt": "2026-04-21T12:06:43Z",
+    "id": "juspay/hyperswitch",
+    "discoveredAt": "2026-04-21T12:12:47.153Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend",
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "juspay/hyperswitch: перспективный open-source проект. Категории: Frontend, Backend. Интересность: 100/100.",
+    "summaryEn": "juspay/hyperswitch is a promising open-source project. Categories: Frontend, Backend. Interest score: 100/100."
+  },
+  {
+    "externalId": "30203935",
+    "source": "github",
+    "url": "https://github.com/metabase/metabase",
+    "owner": "metabase",
+    "name": "metabase",
+    "title": "metabase/metabase",
+    "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
+    "stars": 46952,
+    "forks": 6389,
+    "language": "Clojure",
+    "topics": [
+      "analytics",
+      "bi",
+      "business-intelligence",
+      "businessintelligence",
+      "clojure",
+      "dashboard",
+      "data",
+      "data-analysis",
+      "data-visualization",
+      "database",
+      "metabase",
+      "mysql",
+      "postgres",
+      "postgresql",
+      "reporting",
+      "slack",
+      "sql-editor",
+      "visualization"
+    ],
+    "createdAt": "2015-02-02T19:25:47Z",
+    "updatedAt": "2026-04-21T12:06:26Z",
+    "id": "metabase/metabase",
+    "discoveredAt": "2026-04-21T12:12:47.154Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "metabase/metabase: перспективный open-source проект. Категории: Data. Интересность: 100/100.",
+    "summaryEn": "metabase/metabase is a promising open-source project. Categories: Data. Interest score: 100/100."
+  },
+  {
+    "externalId": "15111821",
+    "source": "github",
+    "url": "https://github.com/grafana/grafana",
+    "owner": "grafana",
+    "name": "grafana",
+    "title": "grafana/grafana",
+    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+    "stars": 73333,
+    "forks": 13767,
+    "language": "TypeScript",
+    "topics": [
+      "alerting",
+      "analytics",
+      "business-intelligence",
+      "dashboard",
+      "data-visualization",
+      "elasticsearch",
+      "go",
+      "grafana",
+      "hacktoberfest",
+      "influxdb",
+      "metrics",
+      "monitoring",
+      "mysql",
+      "postgres",
+      "prometheus"
+    ],
+    "createdAt": "2013-12-11T15:59:56Z",
+    "updatedAt": "2026-04-21T12:05:31Z",
+    "id": "grafana/grafana",
+    "discoveredAt": "2026-04-21T12:12:47.155Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "grafana/grafana: перспективный open-source проект. Категории: Data. Интересность: 100/100.",
+    "summaryEn": "grafana/grafana is a promising open-source project. Categories: Data. Interest score: 100/100."
+  },
+  {
+    "externalId": "740303686",
+    "source": "github",
+    "url": "https://github.com/sgl-project/sglang",
+    "owner": "sgl-project",
+    "name": "sglang",
+    "title": "sgl-project/sglang",
+    "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+    "stars": 26195,
+    "forks": 5477,
+    "language": "Python",
+    "topics": [
+      "attention",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "diffusion",
+      "glm",
+      "gpt-oss",
+      "inference",
+      "llama",
+      "llm",
+      "minimax",
+      "moe",
+      "qwen",
+      "qwen-image",
+      "reinforcement-learning",
+      "transformer",
+      "vlm",
+      "wan"
+    ],
+    "createdAt": "2024-01-08T04:15:52Z",
+    "updatedAt": "2026-04-21T12:12:03Z",
+    "id": "sgl-project/sglang",
+    "discoveredAt": "2026-04-21T12:12:47.155Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "sgl-project/sglang: перспективный open-source проект. Категории: AI/ML. Интересность: 100/100.",
+    "summaryEn": "sgl-project/sglang is a promising open-source project. Categories: AI/ML. Interest score: 100/100."
+  },
+  {
+    "externalId": "260240241",
+    "source": "github",
+    "url": "https://github.com/mui/mui-x",
+    "owner": "mui",
+    "name": "mui-x",
+    "title": "mui/mui-x",
+    "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!",
+    "stars": 5689,
+    "forks": 1765,
+    "language": "TypeScript",
+    "topics": [
+      "charts",
+      "data-grid",
+      "datatable",
+      "date-picker",
+      "date-range-picker",
+      "material-ui",
+      "react",
+      "time-picker"
+    ],
+    "createdAt": "2020-04-30T14:52:39Z",
+    "updatedAt": "2026-04-21T12:03:28Z",
+    "id": "mui/mui-x",
+    "discoveredAt": "2026-04-21T12:12:47.155Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "mui/mui-x: перспективный open-source проект. Категории: Frontend, Data. Интересность: 100/100.",
+    "summaryEn": "mui/mui-x is a promising open-source project. Categories: Frontend, Data. Interest score: 100/100."
+  },
+  {
+    "externalId": "599735720",
+    "source": "github",
+    "url": "https://github.com/MHSanaei/3x-ui",
+    "owner": "MHSanaei",
+    "name": "3x-ui",
+    "title": "MHSanaei/3x-ui",
+    "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun) ",
+    "stars": 34720,
+    "forks": 6436,
+    "language": "HTML",
+    "topics": [
+      "ech",
+      "fail2ban",
+      "http",
+      "hysteria2",
+      "mixed",
+      "post-quantum",
+      "reality",
+      "shadowsocks",
+      "shadowsocks2022",
+      "tls",
+      "trojan",
+      "tun",
+      "tunnel",
+      "vless",
+      "vmess",
+      "wireguard",
+      "x25519",
+      "xtls-rprx-vision",
+      "xtls-rprx-vision-udp443"
+    ],
+    "createdAt": "2023-02-09T19:16:57Z",
+    "updatedAt": "2026-04-21T12:14:01Z",
+    "id": "mhsanaei/3x-ui",
+    "discoveredAt": "2026-04-21T12:15:08.098Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "MHSanaei/3x-ui: перспективный open-source проект. Категории: AI/ML, Frontend. Интересность: 100/100.",
+    "summaryEn": "MHSanaei/3x-ui is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 100/100."
+  },
+  {
+    "externalId": "27193779",
+    "source": "github",
+    "url": "https://github.com/nodejs/node",
+    "owner": "nodejs",
+    "name": "node",
+    "title": "nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "stars": 116852,
+    "forks": 35406,
+    "language": "JavaScript",
+    "topics": [
+      "javascript",
+      "js",
+      "linux",
+      "macos",
+      "mit",
+      "node",
+      "nodejs",
+      "runtime",
+      "windows"
+    ],
+    "createdAt": "2014-11-26T19:57:11Z",
+    "updatedAt": "2026-04-21T12:14:22Z",
+    "id": "nodejs/node",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "nodejs/node: перспективный open-source проект. Категории: Misc. Интересность: 100/100.",
+    "summaryEn": "nodejs/node is a promising open-source project. Categories: Misc. Interest score: 100/100."
+  },
+  {
+    "externalId": "65600975",
+    "source": "github",
+    "url": "https://github.com/pytorch/pytorch",
+    "owner": "pytorch",
+    "name": "pytorch",
+    "title": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "stars": 99311,
+    "forks": 27544,
+    "language": "Python",
+    "topics": [
+      "autograd",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "neural-network",
+      "numpy",
+      "python",
+      "tensor"
+    ],
+    "createdAt": "2016-08-13T05:26:41Z",
+    "updatedAt": "2026-04-21T12:14:20Z",
+    "id": "pytorch/pytorch",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "pytorch/pytorch: перспективный open-source проект. Категории: Misc. Интересность: 100/100.",
+    "summaryEn": "pytorch/pytorch is a promising open-source project. Categories: Misc. Interest score: 100/100."
+  },
+  {
+    "externalId": "599547518",
+    "source": "github",
+    "url": "https://github.com/vllm-project/vllm",
+    "owner": "vllm-project",
+    "name": "vllm",
+    "title": "vllm-project/vllm",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "stars": 77536,
+    "forks": 15901,
+    "language": "Python",
+    "topics": [
+      "amd",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "deepseek-v3",
+      "gpt",
+      "gpt-oss",
+      "inference",
+      "kimi",
+      "llama",
+      "llm",
+      "llm-serving",
+      "model-serving",
+      "moe",
+      "openai",
+      "pytorch",
+      "qwen",
+      "qwen3",
+      "tpu",
+      "transformer"
+    ],
+    "createdAt": "2023-02-09T11:23:20Z",
+    "updatedAt": "2026-04-21T12:43:46Z",
+    "id": "vllm-project/vllm",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "vllm-project/vllm: перспективный open-source проект. Категории: AI/ML. Интересность: 100/100.",
+    "summaryEn": "vllm-project/vllm is a promising open-source project. Categories: AI/ML. Interest score: 100/100."
+  },
+  {
+    "externalId": "449649393",
+    "source": "github",
+    "url": "https://github.com/keploy/keploy",
+    "owner": "keploy",
+    "name": "keploy",
+    "title": "keploy/keploy",
+    "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+    "stars": 17089,
+    "forks": 2219,
+    "language": "Go",
+    "topics": [
+      "agentic-ai",
+      "ai-testing-tool",
+      "api-testing",
+      "code-quality",
+      "mock",
+      "mock-data-generator",
+      "mock-framework",
+      "test-automation",
+      "test-automation-framework",
+      "test-generation",
+      "testing",
+      "testing-library",
+      "testing-tool",
+      "testing-tools"
+    ],
+    "createdAt": "2022-01-19T10:40:31Z",
+    "updatedAt": "2026-04-21T12:41:19Z",
+    "id": "keploy/keploy",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Backend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "keploy/keploy: перспективный open-source проект. Категории: AI/ML, Backend, DevTools. Интересность: 100/100.",
+    "summaryEn": "keploy/keploy is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 100/100."
+  },
+  {
+    "externalId": "626805178",
+    "source": "github",
+    "url": "https://github.com/langgenius/dify",
+    "owner": "langgenius",
+    "name": "dify",
+    "title": "langgenius/dify",
+    "description": "Production-ready platform for agentic workflow development.",
+    "stars": 138613,
+    "forks": 21732,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "automation",
+      "gemini",
+      "genai",
+      "gpt",
+      "gpt-4",
+      "llm",
+      "low-code",
+      "mcp",
+      "nextjs",
+      "no-code",
+      "openai",
+      "orchestration",
+      "python",
+      "rag",
+      "workflow"
+    ],
+    "createdAt": "2023-04-12T07:40:24Z",
+    "updatedAt": "2026-04-21T12:40:26Z",
+    "id": "langgenius/dify",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Product"
+    ],
+    "status": "active",
+    "summaryRu": "langgenius/dify: перспективный open-source проект. Категории: AI/ML, Product. Интересность: 100/100.",
+    "summaryEn": "langgenius/dify is a promising open-source project. Categories: AI/ML, Product. Interest score: 100/100."
+  },
+  {
+    "externalId": "33884891",
+    "source": "github",
+    "url": "https://github.com/apache/airflow",
+    "owner": "apache",
+    "name": "airflow",
+    "title": "apache/airflow",
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "stars": 45119,
+    "forks": 16894,
+    "language": "Python",
+    "topics": [
+      "airflow",
+      "apache",
+      "apache-airflow",
+      "automation",
+      "dag",
+      "data-engineering",
+      "data-integration",
+      "data-orchestrator",
+      "data-pipelines",
+      "data-science",
+      "elt",
+      "etl",
+      "machine-learning",
+      "mlops",
+      "orchestration",
+      "python",
+      "scheduler",
+      "workflow",
+      "workflow-engine",
+      "workflow-orchestration"
+    ],
+    "createdAt": "2015-04-13T18:04:58Z",
+    "updatedAt": "2026-04-21T12:38:08Z",
+    "id": "apache/airflow",
+    "discoveredAt": "2026-04-21T12:45:08.490Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Data",
+      "Security"
+    ],
+    "status": "active",
+    "summaryRu": "apache/airflow: перспективный open-source проект. Категории: AI/ML, Data, Security. Интересность: 100/100.",
+    "summaryEn": "apache/airflow is a promising open-source project. Categories: AI/ML, Data, Security. Interest score: 100/100."
+  },
+  {
+    "externalId": "42009758",
+    "source": "github",
+    "url": "https://github.com/MetaMask/metamask-extension",
+    "owner": "MetaMask",
+    "name": "metamask-extension",
+    "title": "MetaMask/metamask-extension",
+    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
+    "stars": 13107,
+    "forks": 5530,
+    "language": "TypeScript",
+    "topics": [
+      "brave",
+      "chrome",
+      "dapp",
+      "dapp-developers",
+      "edge",
+      "ethereum",
+      "extension",
+      "firefox",
+      "opera"
+    ],
+    "createdAt": "2015-09-06T16:34:48Z",
+    "updatedAt": "2026-04-21T12:37:50Z",
+    "id": "metamask/metamask-extension",
+    "discoveredAt": "2026-04-21T12:45:08.490Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "MetaMask/metamask-extension: перспективный open-source проект. Категории: AI/ML, DevTools. Интересность: 100/100.",
+    "summaryEn": "MetaMask/metamask-extension is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 100/100."
+  },
+  {
+    "externalId": "109162639",
+    "source": "github",
+    "url": "https://github.com/thanos-io/thanos",
+    "owner": "thanos-io",
+    "name": "thanos",
+    "title": "thanos-io/thanos",
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "stars": 14023,
+    "forks": 2286,
+    "language": "Go",
+    "topics": [
+      "cncf",
+      "go",
+      "google-cloud-storage",
+      "hacktoberfest",
+      "high-availability",
+      "metrics",
+      "monitoring",
+      "observability",
+      "prometheus",
+      "prometheus-ha-pairs",
+      "prometheus-setup",
+      "s3",
+      "storage",
+      "thanos"
+    ],
+    "createdAt": "2017-11-01T17:38:03Z",
+    "updatedAt": "2026-04-21T12:36:40Z",
+    "id": "thanos-io/thanos",
+    "discoveredAt": "2026-04-21T12:45:08.490Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "thanos-io/thanos: перспективный open-source проект. Категории: AI/ML. Интересность: 100/100.",
+    "summaryEn": "thanos-io/thanos is a promising open-source project. Categories: AI/ML. Interest score: 100/100."
+  },
+  {
+    "externalId": "68720867",
+    "source": "github",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "owner": "firstcontributions",
+    "name": "first-contributions",
+    "title": "firstcontributions/first-contributions",
+    "description": "🚀✨ Help beginners to contribute to open source projects",
+    "stars": 53578,
+    "forks": 101420,
+    "topics": [
+      "beginner",
+      "beginner-friendly",
+      "contribute",
+      "contribution",
+      "contributions-welcome",
+      "good-first-contribution",
+      "good-first-issue",
+      "good-first-pr",
+      "open-source",
+      "tutorial"
+    ],
+    "createdAt": "2016-09-20T14:35:09Z",
+    "updatedAt": "2026-04-21T12:35:43Z",
+    "id": "firstcontributions/first-contributions",
+    "discoveredAt": "2026-04-21T12:45:08.490Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "firstcontributions/first-contributions: перспективный open-source проект. Категории: Misc. Интересность: 100/100.",
+    "summaryEn": "firstcontributions/first-contributions is a promising open-source project. Categories: Misc. Interest score: 100/100."
+  },
+  {
+    "externalId": "106017343",
+    "source": "github",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "owner": "tailwindlabs",
+    "name": "tailwindcss",
+    "title": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "stars": 94662,
+    "forks": 5203,
+    "language": "TypeScript",
+    "topics": [
+      "css",
+      "css-framework",
+      "functional-css",
+      "postcss",
+      "responsive",
+      "tailwindcss",
+      "utility-classes"
+    ],
+    "createdAt": "2017-10-06T14:59:14Z",
+    "updatedAt": "2026-04-21T12:11:52Z",
+    "id": "tailwindlabs/tailwindcss",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 99,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "tailwindlabs/tailwindcss: перспективный open-source проект. Категории: AI/ML, Frontend, Backend. Интересность: 99/100.",
+    "summaryEn": "tailwindlabs/tailwindcss is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 99/100."
+  },
+  {
+    "externalId": "353775942",
+    "source": "github",
+    "url": "https://github.com/streetwriters/notesnook",
+    "owner": "streetwriters",
+    "name": "notesnook",
+    "title": "streetwriters/notesnook",
+    "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+    "stars": 13954,
+    "forks": 940,
+    "language": "TypeScript",
+    "topics": [
+      "asp-net-core",
+      "dotnet-core",
+      "electron",
+      "foss",
+      "hacktoberfest",
+      "note-managment",
+      "note-taking",
+      "note-taking-app",
+      "notebook",
+      "notes",
+      "notes-app",
+      "open-source",
+      "opensource",
+      "privacy",
+      "productivity",
+      "react",
+      "react-native",
+      "reactjs",
+      "self-hosted"
+    ],
+    "createdAt": "2021-04-01T17:25:54Z",
+    "updatedAt": "2026-04-21T11:53:39Z",
+    "id": "streetwriters/notesnook",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 99,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.94,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend",
+      "Mobile",
+      "Product"
+    ],
+    "status": "active",
+    "summaryRu": "streetwriters/notesnook: перспективный open-source проект. Категории: Frontend, Mobile, Product. Интересность: 99/100.",
+    "summaryEn": "streetwriters/notesnook is a promising open-source project. Categories: Frontend, Mobile, Product. Interest score: 99/100."
+  },
+  {
+    "externalId": "753589979",
+    "source": "github",
+    "url": "https://github.com/karakeep-app/karakeep",
+    "owner": "karakeep-app",
+    "name": "karakeep",
+    "title": "karakeep-app/karakeep",
+    "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+    "stars": 24780,
+    "forks": 1152,
+    "language": "TypeScript",
+    "topics": [
+      "bookmark-manager",
+      "bookmarks",
+      "bookmarks-manager",
+      "nextjs",
+      "react-native",
+      "read-it-later",
+      "self-hosted"
+    ],
+    "createdAt": "2024-02-06T12:28:31Z",
+    "updatedAt": "2026-04-21T12:11:46Z",
+    "id": "karakeep-app/karakeep",
+    "discoveredAt": "2026-04-21T12:12:47.153Z",
+    "score": 99,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "Mobile"
+    ],
+    "status": "active",
+    "summaryRu": "karakeep-app/karakeep: перспективный open-source проект. Категории: AI/ML, Frontend, Mobile. Интересность: 99/100.",
+    "summaryEn": "karakeep-app/karakeep is a promising open-source project. Categories: AI/ML, Frontend, Mobile. Interest score: 99/100."
+  },
+  {
+    "externalId": "7833168",
+    "source": "github",
+    "url": "https://github.com/elastic/kibana",
+    "owner": "elastic",
+    "name": "kibana",
+    "title": "elastic/kibana",
+    "description": "Your window into all of your data",
+    "stars": 21052,
+    "forks": 8565,
+    "language": "TypeScript",
+    "topics": [
+      "dashboards",
+      "elasticsearch",
+      "hacktoberfest",
+      "kibana",
+      "metrics",
+      "observability",
+      "visualizations"
+    ],
+    "createdAt": "2013-01-26T04:00:59Z",
+    "updatedAt": "2026-04-21T12:08:49Z",
+    "id": "elastic/kibana",
+    "discoveredAt": "2026-04-21T12:12:47.153Z",
+    "score": 99,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "elastic/kibana: перспективный open-source проект. Категории: Data. Интересность: 99/100.",
+    "summaryEn": "elastic/kibana is a promising open-source project. Categories: Data. Interest score: 99/100."
+  },
+  {
+    "externalId": "27561102",
+    "source": "github",
+    "url": "https://github.com/stamparm/maltrail",
+    "owner": "stamparm",
+    "name": "maltrail",
+    "title": "stamparm/maltrail",
+    "description": "Malicious traffic detection system",
+    "stars": 8401,
+    "forks": 1255,
+    "language": "Python",
+    "topics": [
+      "attack-detection",
+      "intrusion-detection",
+      "malware",
+      "network-monitoring",
+      "python",
+      "security",
+      "sensor"
+    ],
+    "createdAt": "2014-12-04T21:33:46Z",
+    "updatedAt": "2026-04-21T12:13:46Z",
+    "id": "stamparm/maltrail",
+    "discoveredAt": "2026-04-21T12:15:08.098Z",
+    "score": 99,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Security"
+    ],
+    "status": "active",
+    "summaryRu": "stamparm/maltrail: перспективный open-source проект. Категории: AI/ML, Security. Интересность: 99/100.",
+    "summaryEn": "stamparm/maltrail is a promising open-source project. Categories: AI/ML, Security. Interest score: 99/100."
+  },
+  {
+    "externalId": "2724167",
+    "source": "github",
+    "url": "https://github.com/XRPLF/rippled",
+    "owner": "XRPLF",
+    "name": "rippled",
+    "title": "XRPLF/rippled",
+    "description": "Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++",
+    "stars": 5138,
+    "forks": 1629,
+    "language": "C++",
+    "topics": [
+      "blockchain",
+      "c-plus-plus",
+      "cplusplus",
+      "cryptography",
+      "xrp",
+      "xrp-ledger",
+      "xrpl"
+    ],
+    "createdAt": "2011-11-07T04:40:15Z",
+    "updatedAt": "2026-04-21T12:37:24Z",
+    "id": "xrplf/rippled",
+    "discoveredAt": "2026-04-21T12:45:08.490Z",
+    "score": 99,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "XRPLF/rippled: перспективный open-source проект. Категории: AI/ML. Интересность: 99/100.",
+    "summaryEn": "XRPLF/rippled is a promising open-source project. Categories: AI/ML. Interest score: 99/100."
+  },
+  {
+    "externalId": "62117812",
+    "source": "github",
+    "url": "https://github.com/apache/pulsar",
+    "owner": "apache",
+    "name": "pulsar",
+    "title": "apache/pulsar",
+    "description": "Apache Pulsar - distributed pub-sub messaging system",
+    "stars": 15205,
+    "forks": 3721,
+    "language": "Java",
+    "topics": [
+      "event-streaming",
+      "messaging",
+      "pubsub",
+      "pulsar",
+      "queuing",
+      "streaming"
+    ],
+    "createdAt": "2016-06-28T07:00:03Z",
+    "updatedAt": "2026-04-21T12:10:29Z",
+    "id": "apache/pulsar",
+    "discoveredAt": "2026-04-21T12:12:47.153Z",
+    "score": 97,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.75,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "apache/pulsar: перспективный open-source проект. Категории: Frontend. Интересность: 97/100.",
+    "summaryEn": "apache/pulsar is a promising open-source project. Categories: Frontend. Interest score: 97/100."
+  },
+  {
+    "externalId": "110178895",
+    "source": "github",
+    "url": "https://github.com/brave/brave-browser",
+    "owner": "brave",
+    "name": "brave-browser",
+    "title": "brave/brave-browser",
+    "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+    "stars": 22284,
+    "forks": 3052,
+    "topics": [
+      "brave",
+      "browser",
+      "chromium",
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "createdAt": "2017-11-09T23:44:38Z",
+    "updatedAt": "2026-04-21T12:03:36Z",
+    "id": "brave/brave-browser",
+    "discoveredAt": "2026-04-21T12:12:47.155Z",
+    "score": 97,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.75,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Mobile"
+    ],
+    "status": "active",
+    "summaryRu": "brave/brave-browser: перспективный open-source проект. Категории: Mobile. Интересность: 97/100.",
+    "summaryEn": "brave/brave-browser is a promising open-source project. Categories: Mobile. Interest score: 97/100."
+  },
+  {
+    "externalId": "105808767",
+    "source": "github",
+    "url": "https://github.com/aws/aws-cdk",
+    "owner": "aws",
+    "name": "aws-cdk",
+    "title": "aws/aws-cdk",
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "stars": 12748,
+    "forks": 4460,
+    "language": "TypeScript",
+    "topics": [
+      "aws",
+      "cloud-infrastructure",
+      "hacktoberfest",
+      "infrastructure-as-code",
+      "typescript"
+    ],
+    "createdAt": "2017-10-04T19:22:36Z",
+    "updatedAt": "2026-04-21T12:08:02Z",
+    "id": "aws/aws-cdk",
+    "discoveredAt": "2026-04-21T12:12:47.153Z",
+    "score": 96,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.625,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "DevOps/Infra"
+    ],
+    "status": "active",
+    "summaryRu": "aws/aws-cdk: перспективный open-source проект. Категории: DevOps/Infra. Интересность: 96/100.",
+    "summaryEn": "aws/aws-cdk is a promising open-source project. Categories: DevOps/Infra. Interest score: 96/100."
+  },
+  {
+    "externalId": "41881900",
+    "source": "github",
+    "url": "https://github.com/microsoft/vscode",
+    "owner": "microsoft",
+    "name": "vscode",
+    "title": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "stars": 184080,
+    "forks": 39303,
+    "language": "TypeScript",
+    "topics": [
+      "editor",
+      "electron",
+      "microsoft",
+      "typescript",
+      "visual-studio-code"
+    ],
+    "createdAt": "2015-09-03T20:23:38Z",
+    "updatedAt": "2026-04-21T12:03:56Z",
+    "id": "microsoft/vscode",
+    "discoveredAt": "2026-04-21T12:12:47.155Z",
+    "score": 96,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.625,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "microsoft/vscode: перспективный open-source проект. Категории: Misc. Интересность: 96/100.",
+    "summaryEn": "microsoft/vscode is a promising open-source project. Categories: Misc. Interest score: 96/100."
+  },
+  {
+    "externalId": "86106381",
+    "source": "github",
+    "url": "https://github.com/libp2p/rust-libp2p",
+    "owner": "libp2p",
+    "name": "rust-libp2p",
+    "title": "libp2p/rust-libp2p",
+    "description": "The Rust Implementation of the libp2p networking stack. ",
+    "stars": 5479,
+    "forks": 1197,
+    "language": "Rust",
+    "topics": [
+      "decentralization",
+      "libp2p",
+      "networking",
+      "peer-to-peer",
+      "rust"
+    ],
+    "createdAt": "2017-03-24T20:05:11Z",
+    "updatedAt": "2026-04-21T12:14:39Z",
+    "id": "libp2p/rust-libp2p",
+    "discoveredAt": "2026-04-21T12:15:08.096Z",
+    "score": 96,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.625,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "libp2p/rust-libp2p: перспективный open-source проект. Категории: Misc. Интересность: 96/100.",
+    "summaryEn": "libp2p/rust-libp2p is a promising open-source project. Categories: Misc. Interest score: 96/100."
+  },
+  {
+    "externalId": "60377070",
+    "source": "github",
+    "url": "https://github.com/vespa-engine/vespa",
+    "owner": "vespa-engine",
+    "name": "vespa",
+    "title": "vespa-engine/vespa",
+    "description": "AI + Data, online. https://vespa.ai",
+    "stars": 6885,
+    "forks": 708,
+    "language": "Java",
+    "topics": [
+      "ai",
+      "big-data",
+      "java",
+      "machine-learning",
+      "rag",
+      "search",
+      "search-engine",
+      "server",
+      "serving-recommendation",
+      "tensor",
+      "vector",
+      "vector-database",
+      "vector-search",
+      "vespa"
+    ],
+    "createdAt": "2016-06-03T20:54:20Z",
+    "updatedAt": "2026-04-21T12:13:29Z",
+    "id": "vespa-engine/vespa",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 96,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.708,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Backend",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "vespa-engine/vespa: перспективный open-source проект. Категории: AI/ML, Backend, Data. Интересность: 96/100.",
+    "summaryEn": "vespa-engine/vespa is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 96/100."
+  },
+  {
+    "externalId": "8629417",
+    "source": "github",
+    "url": "https://github.com/mapbox/mapbox-gl-js",
+    "owner": "mapbox",
+    "name": "mapbox-gl-js",
+    "title": "mapbox/mapbox-gl-js",
+    "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+    "stars": 12248,
+    "forks": 2346,
+    "language": "TypeScript",
+    "topics": [
+      "3d",
+      "javascript",
+      "maps",
+      "priority",
+      "webgl"
+    ],
+    "createdAt": "2013-03-07T14:45:24Z",
+    "updatedAt": "2026-04-21T12:12:29Z",
+    "id": "mapbox/mapbox-gl-js",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 96,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.625,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "mapbox/mapbox-gl-js: перспективный open-source проект. Категории: Misc. Интересность: 96/100.",
+    "summaryEn": "mapbox/mapbox-gl-js is a promising open-source project. Categories: Misc. Interest score: 96/100."
+  },
+  {
+    "externalId": "26133979",
+    "source": "github",
+    "url": "https://github.com/mozilla-mobile/firefox-ios",
+    "owner": "mozilla-mobile",
+    "name": "firefox-ios",
+    "title": "mozilla-mobile/firefox-ios",
+    "description": "Firefox for iOS",
+    "stars": 12894,
+    "forks": 3186,
+    "language": "Swift",
+    "topics": [
+      "browser",
+      "firefox",
+      "ios-app",
+      "mozilla",
+      "swift"
+    ],
+    "createdAt": "2014-11-03T19:07:02Z",
+    "updatedAt": "2026-04-21T12:44:20Z",
+    "id": "mozilla-mobile/firefox-ios",
+    "discoveredAt": "2026-04-21T12:45:08.488Z",
+    "score": 96,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.625,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Mobile"
+    ],
+    "status": "active",
+    "summaryRu": "mozilla-mobile/firefox-ios: перспективный open-source проект. Категории: Mobile. Интересность: 96/100.",
+    "summaryEn": "mozilla-mobile/firefox-ios is a promising open-source project. Categories: Mobile. Interest score: 96/100."
+  },
+  {
+    "externalId": "659402878",
+    "source": "github",
+    "url": "https://github.com/spring-projects/spring-ai",
+    "owner": "spring-projects",
+    "name": "spring-ai",
+    "title": "spring-projects/spring-ai",
+    "description": "An Application Framework for AI Engineering",
+    "stars": 8543,
+    "forks": 2487,
+    "language": "Java",
+    "topics": [
+      "artificial-intelligence",
+      "hacktoberfest",
+      "java",
+      "spring-ai"
+    ],
+    "createdAt": "2023-06-27T18:57:29Z",
+    "updatedAt": "2026-04-21T12:12:28Z",
+    "id": "spring-projects/spring-ai",
+    "discoveredAt": "2026-04-21T12:12:47.151Z",
+    "score": 95,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.5,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "spring-projects/spring-ai: перспективный open-source проект. Категории: AI/ML. Интересность: 95/100.",
+    "summaryEn": "spring-projects/spring-ai is a promising open-source project. Categories: AI/ML. Interest score: 95/100."
+  },
+  {
+    "externalId": "340547520",
+    "source": "github",
+    "url": "https://github.com/zed-industries/zed",
+    "owner": "zed-industries",
+    "name": "zed",
+    "title": "zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "stars": 79466,
+    "forks": 7922,
+    "language": "Rust",
+    "topics": [
+      "gpui",
+      "rust-lang",
+      "text-editor",
+      "zed"
+    ],
+    "createdAt": "2021-02-20T03:01:06Z",
+    "updatedAt": "2026-04-21T12:14:16Z",
+    "id": "zed-industries/zed",
+    "discoveredAt": "2026-04-21T12:15:08.097Z",
+    "score": 95,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.5,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "zed-industries/zed: перспективный open-source проект. Категории: Frontend. Интересность: 95/100.",
+    "summaryEn": "zed-industries/zed is a promising open-source project. Categories: Frontend. Interest score: 95/100."
+  },
+  {
+    "externalId": "60692320",
+    "source": "github",
+    "url": "https://github.com/ProtonMail/WebClients",
+    "owner": "ProtonMail",
+    "name": "WebClients",
+    "title": "ProtonMail/WebClients",
+    "description": "Monorepo hosting the proton web clients",
+    "stars": 5368,
+    "forks": 673,
+    "language": "TypeScript",
+    "topics": [
+      "monorepo",
+      "pgp",
+      "protoncalendar",
+      "protoncontacts",
+      "protondrive",
+      "protonmail",
+      "react",
+      "webmail",
+      "yarn"
+    ],
+    "createdAt": "2016-06-08T11:16:51Z",
+    "updatedAt": "2026-04-21T12:14:14Z",
+    "id": "protonmail/webclients",
+    "discoveredAt": "2026-04-21T12:15:08.098Z",
+    "score": 95,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.673,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "ProtonMail/WebClients: перспективный open-source проект. Категории: AI/ML, Frontend, DevTools. Интересность: 95/100.",
+    "summaryEn": "ProtonMail/WebClients is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 95/100."
+  },
+  {
+    "externalId": "27965134",
+    "source": "github",
+    "url": "https://github.com/opnsense/core",
+    "owner": "opnsense",
+    "name": "core",
+    "title": "opnsense/core",
+    "description": "OPNsense GUI, API and systems backend",
+    "stars": 4383,
+    "forks": 944,
+    "language": "PHP",
+    "topics": [
+      "api",
+      "bsd",
+      "captive-portal",
+      "firewall",
+      "gui",
+      "hacktoberfest",
+      "ips",
+      "proxy",
+      "routing",
+      "shaping",
+      "vpn"
+    ],
+    "createdAt": "2014-12-13T15:43:50Z",
+    "updatedAt": "2026-04-21T12:44:23Z",
+    "id": "opnsense/core",
+    "discoveredAt": "2026-04-21T12:45:08.488Z",
+    "score": 95,
+    "scoreBreakdown": {
+      "stars": 0.8766,
+      "forks": 0.944,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend",
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "opnsense/core: перспективный open-source проект. Категории: Frontend, Backend. Интересность: 95/100.",
+    "summaryEn": "opnsense/core is a promising open-source project. Categories: Frontend, Backend. Interest score: 95/100."
+  },
+  {
+    "externalId": "88298561",
+    "source": "github",
+    "url": "https://github.com/longhorn/longhorn",
+    "owner": "longhorn",
+    "name": "longhorn",
+    "title": "longhorn/longhorn",
+    "description": "Cloud-Native distributed storage built on and for Kubernetes",
+    "stars": 7654,
+    "forks": 694,
+    "language": "Shell",
+    "topics": [
+      "cncf",
+      "distributed-systems",
+      "high-availability",
+      "k8s-sig-storage",
+      "kubernetes",
+      "longhorn",
+      "storage"
+    ],
+    "createdAt": "2017-04-14T19:57:01Z",
+    "updatedAt": "2026-04-21T12:12:11Z",
+    "id": "longhorn/longhorn",
+    "discoveredAt": "2026-04-21T12:12:47.151Z",
+    "score": 94,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.694,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "DevOps/Infra"
+    ],
+    "status": "active",
+    "summaryRu": "longhorn/longhorn: перспективный open-source проект. Категории: AI/ML, Frontend, DevOps/Infra. Интересность: 94/100.",
+    "summaryEn": "longhorn/longhorn is a promising open-source project. Categories: AI/ML, Frontend, DevOps/Infra. Interest score: 94/100."
+  },
+  {
+    "externalId": "741012134",
+    "source": "github",
+    "url": "https://github.com/suitenumerique/docs",
+    "owner": "suitenumerique",
+    "name": "docs",
+    "title": "suitenumerique/docs",
+    "description": "A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. ",
+    "stars": 16416,
+    "forks": 575,
+    "language": "Python",
+    "topics": [
+      "blocknotejs",
+      "collaborative",
+      "django",
+      "documentation",
+      "g2g",
+      "government",
+      "knowledge",
+      "knowledge-base",
+      "mit",
+      "mit-license",
+      "opensource",
+      "reactjs",
+      "realtime-collaboration",
+      "self-hosted",
+      "wiki",
+      "yjs"
+    ],
+    "createdAt": "2024-01-09T14:17:32Z",
+    "updatedAt": "2026-04-21T11:41:00Z",
+    "id": "suitenumerique/docs",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 94,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.575,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "suitenumerique/docs: перспективный open-source проект. Категории: Frontend. Интересность: 94/100.",
+    "summaryEn": "suitenumerique/docs is a promising open-source project. Categories: Frontend. Interest score: 94/100."
+  },
+  {
+    "externalId": "11125589",
+    "source": "github",
+    "url": "https://github.com/keycloak/keycloak",
+    "owner": "keycloak",
+    "name": "keycloak",
+    "title": "keycloak/keycloak",
+    "description": "Open Source Identity and Access Management For Modern Applications and Services",
+    "stars": 33991,
+    "forks": 8259,
+    "language": "Java",
+    "topics": [
+      "keycloak",
+      "oidc",
+      "saml"
+    ],
+    "createdAt": "2013-07-02T13:38:51Z",
+    "updatedAt": "2026-04-21T12:07:29Z",
+    "id": "keycloak/keycloak",
+    "discoveredAt": "2026-04-21T12:12:47.153Z",
+    "score": 94,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.375,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "keycloak/keycloak: перспективный open-source проект. Категории: AI/ML. Интересность: 94/100.",
+    "summaryEn": "keycloak/keycloak is a promising open-source project. Categories: AI/ML. Interest score: 94/100."
+  },
+  {
+    "externalId": "507775",
+    "source": "github",
+    "url": "https://github.com/elastic/elasticsearch",
+    "owner": "elastic",
+    "name": "elasticsearch",
+    "title": "elastic/elasticsearch",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine",
+    "stars": 76556,
+    "forks": 25850,
+    "language": "Java",
+    "topics": [
+      "elasticsearch",
+      "java",
+      "search-engine"
+    ],
+    "createdAt": "2010-02-08T13:20:56Z",
+    "updatedAt": "2026-04-21T12:06:56Z",
+    "id": "elastic/elasticsearch",
+    "discoveredAt": "2026-04-21T12:12:47.155Z",
+    "score": 94,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.375,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "elastic/elasticsearch: перспективный open-source проект. Категории: Misc. Интересность: 94/100.",
+    "summaryEn": "elastic/elasticsearch is a promising open-source project. Categories: Misc. Interest score: 94/100."
+  },
+  {
+    "externalId": "210716005",
+    "source": "github",
+    "url": "https://github.com/dotnet/runtime",
+    "owner": "dotnet",
+    "name": "runtime",
+    "title": "dotnet/runtime",
+    "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+    "stars": 17825,
+    "forks": 5414,
+    "language": "C#",
+    "topics": [
+      "dotnet",
+      "hacktoberfest",
+      "help-wanted"
+    ],
+    "createdAt": "2019-09-24T23:36:39Z",
+    "updatedAt": "2026-04-21T12:37:43Z",
+    "id": "dotnet/runtime",
+    "discoveredAt": "2026-04-21T12:45:08.490Z",
+    "score": 94,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.375,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "dotnet/runtime: перспективный open-source проект. Категории: Misc. Интересность: 94/100.",
+    "summaryEn": "dotnet/runtime is a promising open-source project. Categories: Misc. Interest score: 94/100."
+  },
+  {
+    "externalId": "479289739",
+    "source": "github",
+    "url": "https://github.com/rerun-io/rerun",
+    "owner": "rerun-io",
+    "name": "rerun",
+    "title": "rerun-io/rerun",
+    "description": "An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data",
+    "stars": 10564,
+    "forks": 713,
+    "language": "Rust",
+    "topics": [
+      "computer-vision",
+      "cpp",
+      "multimodal",
+      "python",
+      "robotics",
+      "rust",
+      "visualization"
+    ],
+    "createdAt": "2022-04-08T07:30:05Z",
+    "updatedAt": "2026-04-21T12:36:36Z",
+    "id": "rerun-io/rerun",
+    "discoveredAt": "2026-04-21T12:45:08.490Z",
+    "score": 94,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.713,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "rerun-io/rerun: перспективный open-source проект. Категории: Data. Интересность: 94/100.",
+    "summaryEn": "rerun-io/rerun is a promising open-source project. Categories: Data. Interest score: 94/100."
+  },
+  {
+    "externalId": "590158156",
+    "source": "github",
+    "url": "https://github.com/ubicloud/ubicloud",
+    "owner": "ubicloud",
+    "name": "ubicloud",
+    "title": "ubicloud/ubicloud",
+    "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+    "stars": 12015,
+    "forks": 559,
+    "language": "Ruby",
+    "topics": [
+      "bare-metal",
+      "cloud",
+      "github-actions",
+      "hosting",
+      "kubernetes",
+      "linux",
+      "managed-cloud",
+      "open",
+      "opensource",
+      "portable",
+      "postgresql",
+      "ruby"
+    ],
+    "createdAt": "2023-01-17T19:29:00Z",
+    "updatedAt": "2026-04-21T10:04:04Z",
+    "id": "ubicloud/ubicloud",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 93,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.559,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "DevOps/Infra"
+    ],
+    "status": "active",
+    "summaryRu": "ubicloud/ubicloud: перспективный open-source проект. Категории: AI/ML, DevOps/Infra. Интересность: 93/100.",
+    "summaryEn": "ubicloud/ubicloud is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 93/100."
+  },
+  {
+    "externalId": "29048891",
+    "source": "github",
+    "url": "https://github.com/dotnet/fsharp",
+    "owner": "dotnet",
+    "name": "fsharp",
+    "title": "dotnet/fsharp",
+    "description": "The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio",
+    "stars": 4282,
+    "forks": 856,
+    "language": "F#",
+    "topics": [
+      "compiler",
+      "dotnet",
+      "fsharp",
+      "functional-programming",
+      "intellisense",
+      "netcore",
+      "tools",
+      "visual-studio"
+    ],
+    "createdAt": "2015-01-10T05:58:43Z",
+    "updatedAt": "2026-04-21T12:08:59Z",
+    "id": "dotnet/fsharp",
+    "discoveredAt": "2026-04-21T12:12:47.153Z",
+    "score": 93,
+    "scoreBreakdown": {
+      "stars": 0.8564,
+      "forks": 0.856,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "dotnet/fsharp: перспективный open-source проект. Категории: DevTools. Интересность: 93/100.",
+    "summaryEn": "dotnet/fsharp is a promising open-source project. Categories: DevTools. Interest score: 93/100."
+  },
+  {
+    "externalId": "465844859",
+    "source": "github",
+    "url": "https://github.com/podman-desktop/podman-desktop",
+    "owner": "podman-desktop",
+    "name": "podman-desktop",
+    "title": "podman-desktop/podman-desktop",
+    "description": "Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.",
+    "stars": 7547,
+    "forks": 505,
+    "language": "TypeScript",
+    "topics": [
+      "container",
+      "containers",
+      "desktop",
+      "docker",
+      "hacktoberfest",
+      "kubernetes",
+      "podman",
+      "podman-desktop",
+      "tray-application",
+      "ui"
+    ],
+    "createdAt": "2022-03-03T18:45:51Z",
+    "updatedAt": "2026-04-21T12:14:25Z",
+    "id": "podman-desktop/podman-desktop",
+    "discoveredAt": "2026-04-21T12:15:08.097Z",
+    "score": 93,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.505,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "podman-desktop/podman-desktop: перспективный open-source проект. Категории: AI/ML, Frontend, DevTools. Интересность: 93/100.",
+    "summaryEn": "podman-desktop/podman-desktop is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 93/100."
+  },
+  {
+    "externalId": "1054512829",
+    "source": "github",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "owner": "vllm-project",
+    "name": "vllm-omni",
+    "title": "vllm-project/vllm-omni",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "stars": 4441,
+    "forks": 806,
+    "language": "Python",
+    "topics": [
+      "audio-generation",
+      "diffusion",
+      "image-generation",
+      "inference",
+      "model-serving",
+      "multimodal",
+      "pytorch",
+      "transformer",
+      "video-generation"
+    ],
+    "createdAt": "2025-09-11T00:34:43Z",
+    "updatedAt": "2026-04-21T12:35:06Z",
+    "id": "vllm-project/vllm-omni",
+    "discoveredAt": "2026-04-21T12:45:08.490Z",
+    "score": 93,
+    "scoreBreakdown": {
+      "stars": 0.8882,
+      "forks": 0.806,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "vllm-project/vllm-omni: перспективный open-source проект. Категории: AI/ML. Интересность: 93/100.",
+    "summaryEn": "vllm-project/vllm-omni is a promising open-source project. Categories: AI/ML. Interest score: 93/100."
+  },
+  {
+    "externalId": "1128712337",
+    "source": "github",
+    "url": "https://github.com/openclaw/skills",
+    "owner": "openclaw",
+    "name": "skills",
+    "title": "openclaw/skills",
+    "description": "All versions of all skills that are on clawhub.com archived",
+    "stars": 4232,
+    "forks": 1165,
+    "language": "Python",
+    "topics": [
+      "archive",
+      "backup",
+      "clawhub",
+      "openclaw",
+      "skill"
+    ],
+    "createdAt": "2026-01-06T03:39:15Z",
+    "updatedAt": "2026-04-21T12:11:53Z",
+    "id": "openclaw/skills",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 91,
+    "scoreBreakdown": {
+      "stars": 0.8464,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.625,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "openclaw/skills: перспективный open-source проект. Категории: Misc. Интересность: 91/100.",
+    "summaryEn": "openclaw/skills is a promising open-source project. Categories: Misc. Interest score: 91/100."
+  },
+  {
+    "externalId": "349372179",
+    "source": "github",
+    "url": "https://github.com/lightdash/lightdash",
+    "owner": "lightdash",
+    "name": "lightdash",
+    "title": "lightdash/lightdash",
+    "description": "Self-serve BI to 10x your data team ⚡️",
+    "stars": 5711,
+    "forks": 701,
+    "language": "TypeScript",
+    "topics": [
+      "business-intelligence",
+      "data-analytics",
+      "data-visualization",
+      "dbt"
+    ],
+    "createdAt": "2021-03-19T09:44:40Z",
+    "updatedAt": "2026-04-21T12:44:24Z",
+    "id": "lightdash/lightdash",
+    "discoveredAt": "2026-04-21T12:45:08.488Z",
+    "score": 91,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.701,
+      "recency": 1,
+      "topics": 0.5,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "lightdash/lightdash: перспективный open-source проект. Категории: Data. Интересность: 91/100.",
+    "summaryEn": "lightdash/lightdash is a promising open-source project. Categories: Data. Interest score: 91/100."
+  },
+  {
+    "externalId": "75821432",
+    "source": "github",
+    "url": "https://github.com/llvm/llvm-project",
+    "owner": "llvm",
+    "name": "llvm-project",
+    "title": "llvm/llvm-project",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+    "stars": 37967,
+    "forks": 16929,
+    "language": "LLVM",
+    "topics": [],
+    "createdAt": "2016-12-07T09:39:33Z",
+    "updatedAt": "2026-04-21T12:05:10Z",
+    "id": "llvm/llvm-project",
+    "discoveredAt": "2026-04-21T12:12:47.155Z",
+    "score": 90,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "llvm/llvm-project: перспективный open-source проект. Категории: AI/ML. Интересность: 90/100.",
+    "summaryEn": "llvm/llvm-project is a promising open-source project. Categories: AI/ML. Interest score: 90/100."
+  },
+  {
+    "externalId": "1690480",
+    "source": "github",
+    "url": "https://github.com/qgis/QGIS",
+    "owner": "qgis",
+    "name": "QGIS",
+    "title": "qgis/QGIS",
+    "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+    "stars": 13641,
+    "forks": 3404,
+    "language": "C++",
+    "topics": [],
+    "createdAt": "2011-05-02T08:06:26Z",
+    "updatedAt": "2026-04-21T12:14:52Z",
+    "id": "qgis/qgis",
+    "discoveredAt": "2026-04-21T12:15:08.096Z",
+    "score": 90,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "qgis/QGIS: перспективный open-source проект. Категории: Misc. Интересность: 90/100.",
+    "summaryEn": "qgis/QGIS is a promising open-source project. Categories: Misc. Interest score: 90/100."
+  },
+  {
+    "externalId": "49970739",
+    "source": "github",
+    "url": "https://github.com/DataDog/datadog-agent",
+    "owner": "DataDog",
+    "name": "datadog-agent",
+    "title": "DataDog/datadog-agent",
+    "description": "Main repository for Datadog Agent",
+    "stars": 3571,
+    "forks": 1410,
+    "language": "Go",
+    "topics": [
+      "apm-agent",
+      "apm-instrumentation",
+      "datadog",
+      "distributed-tracing",
+      "go",
+      "logging",
+      "metrics",
+      "monitoring",
+      "observability",
+      "open-telemetry",
+      "otel",
+      "profiling",
+      "tracing"
+    ],
+    "createdAt": "2016-01-19T17:40:41Z",
+    "updatedAt": "2026-04-21T12:14:59Z",
+    "id": "datadog/datadog-agent",
+    "discoveredAt": "2026-04-21T12:15:08.097Z",
+    "score": 90,
+    "scoreBreakdown": {
+      "stars": 0.7142,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "DataDog/datadog-agent: перспективный open-source проект. Категории: AI/ML, Data. Интересность: 90/100.",
+    "summaryEn": "DataDog/datadog-agent is a promising open-source project. Categories: AI/ML, Data. Interest score: 90/100."
+  },
+  {
+    "externalId": "816197",
+    "source": "github",
+    "url": "https://github.com/errbit/errbit",
+    "owner": "errbit",
+    "name": "errbit",
+    "title": "errbit/errbit",
+    "description": "The open source error catcher that's Airbrake API compliant :ukraine:",
+    "stars": 4272,
+    "forks": 990,
+    "language": "Ruby",
+    "topics": [
+      "airbrake",
+      "crash-reporting",
+      "error-monitoring",
+      "ruby"
+    ],
+    "createdAt": "2010-08-04T04:08:34Z",
+    "updatedAt": "2026-04-21T12:44:38Z",
+    "id": "errbit/errbit",
+    "discoveredAt": "2026-04-21T12:45:08.488Z",
+    "score": 90,
+    "scoreBreakdown": {
+      "stars": 0.8544,
+      "forks": 0.99,
+      "recency": 1,
+      "topics": 0.5,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "errbit/errbit: перспективный open-source проект. Категории: AI/ML, Backend. Интересность: 90/100.",
+    "summaryEn": "errbit/errbit is a promising open-source project. Categories: AI/ML, Backend. Interest score: 90/100."
+  },
+  {
+    "externalId": "1039587768",
+    "source": "github",
+    "url": "https://github.com/osaurus-ai/osaurus",
+    "owner": "osaurus-ai",
+    "name": "osaurus",
+    "title": "osaurus-ai/osaurus",
+    "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+    "stars": 5078,
+    "forks": 253,
+    "language": "Swift",
+    "topics": [
+      "anthropic",
+      "apple-foundation-models",
+      "apple-intelligence",
+      "apple-neural-engine",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "mlx",
+      "openai",
+      "swift"
+    ],
+    "createdAt": "2025-08-17T15:05:39Z",
+    "updatedAt": "2026-04-21T12:11:50Z",
+    "id": "osaurus-ai/osaurus",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 89,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.253,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "osaurus-ai/osaurus: перспективный open-source проект. Категории: AI/ML, Frontend, Backend. Интересность: 89/100.",
+    "summaryEn": "osaurus-ai/osaurus is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 89/100."
+  },
+  {
+    "externalId": "54298946",
+    "source": "github",
+    "url": "https://github.com/camunda/camunda",
+    "owner": "camunda",
+    "name": "camunda",
+    "title": "camunda/camunda",
+    "description": "Process Orchestration Framework",
+    "stars": 4085,
+    "forks": 761,
+    "language": "Java",
+    "topics": [
+      "bpmn",
+      "grpc",
+      "java",
+      "microservices",
+      "orchestration-framework",
+      "workflow",
+      "workflow-engine"
+    ],
+    "createdAt": "2016-03-20T03:38:04Z",
+    "updatedAt": "2026-04-21T12:07:42Z",
+    "id": "camunda/camunda",
+    "discoveredAt": "2026-04-21T12:12:47.153Z",
+    "score": 89,
+    "scoreBreakdown": {
+      "stars": 0.817,
+      "forks": 0.761,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "camunda/camunda: перспективный open-source проект. Категории: Backend. Интересность: 89/100.",
+    "summaryEn": "camunda/camunda is a promising open-source project. Categories: Backend. Interest score: 89/100."
+  },
+  {
+    "externalId": "70137417",
+    "source": "github",
+    "url": "https://github.com/corda/corda",
+    "owner": "corda",
+    "name": "corda",
+    "title": "corda/corda",
+    "description": "Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.",
+    "stars": 4069,
+    "forks": 1078,
+    "language": "Kotlin",
+    "topics": [
+      "corda",
+      "distributed-ledger",
+      "dlt",
+      "kotlin"
+    ],
+    "createdAt": "2016-10-06T08:46:29Z",
+    "updatedAt": "2026-04-21T12:14:09Z",
+    "id": "corda/corda",
+    "discoveredAt": "2026-04-21T12:15:08.098Z",
+    "score": 88,
+    "scoreBreakdown": {
+      "stars": 0.8138,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.5,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "Design"
+    ],
+    "status": "active",
+    "summaryRu": "corda/corda: перспективный open-source проект. Категории: AI/ML, Frontend, Design. Интересность: 88/100.",
+    "summaryEn": "corda/corda is a promising open-source project. Categories: AI/ML, Frontend, Design. Interest score: 88/100."
+  },
+  {
+    "externalId": "300155217",
+    "source": "github",
+    "url": "https://github.com/CollaboraOnline/online",
+    "owner": "CollaboraOnline",
+    "name": "online",
+    "title": "CollaboraOnline/online",
+    "description": "Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android. ",
+    "stars": 3173,
+    "forks": 1003,
+    "language": "C++",
+    "topics": [
+      "android",
+      "cpp",
+      "documents",
+      "enterprise",
+      "free-software",
+      "hacktoberfest",
+      "ios",
+      "javascript",
+      "libreoffice",
+      "office",
+      "open-source",
+      "opensource",
+      "productivity"
+    ],
+    "createdAt": "2020-10-01T05:23:57Z",
+    "updatedAt": "2026-04-21T11:25:09Z",
+    "id": "collaboraonline/online",
+    "discoveredAt": "2026-04-21T12:12:47.152Z",
+    "score": 87,
+    "scoreBreakdown": {
+      "stars": 0.6346,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend",
+      "Mobile",
+      "Product"
+    ],
+    "status": "active",
+    "summaryRu": "CollaboraOnline/online: перспективный open-source проект. Категории: Frontend, Mobile, Product. Интересность: 87/100.",
+    "summaryEn": "CollaboraOnline/online is a promising open-source project. Categories: Frontend, Mobile, Product. Interest score: 87/100."
+  },
+  {
+    "externalId": "833004587",
+    "source": "github",
+    "url": "https://github.com/unopim/unopim",
+    "owner": "unopim",
+    "name": "unopim",
+    "title": "unopim/unopim",
+    "description": "A free and open-source Laravel-based Product Information Management (PIM) system that helps businesses organize, manage, and enrich their product data from a single, central platform. Learn how UnoPIM scales to handle over 10 million products:  https://unopim.com/scaling-unopim-for-10-million-products/",
+    "stars": 9634,
+    "forks": 133,
+    "language": "PHP",
+    "topics": [
+      "laravel",
+      "open-source",
+      "opensource",
+      "php",
+      "pim",
+      "product",
+      "product-information-management",
+      "product-management"
+    ],
+    "createdAt": "2024-07-24T07:04:52Z",
+    "updatedAt": "2026-04-21T11:52:20Z",
+    "id": "unopim/unopim",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 87,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.133,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Data",
+      "Product"
+    ],
+    "status": "active",
+    "summaryRu": "unopim/unopim: перспективный open-source проект. Категории: Data, Product. Интересность: 87/100.",
+    "summaryEn": "unopim/unopim is a promising open-source project. Categories: Data, Product. Interest score: 87/100."
+  },
+  {
+    "externalId": "1186219527",
+    "source": "github",
+    "url": "https://github.com/mauriceboe/TREK",
+    "owner": "mauriceboe",
+    "name": "TREK",
+    "title": "mauriceboe/TREK",
+    "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+    "stars": 4301,
+    "forks": 410,
+    "language": "TypeScript",
+    "topics": [
+      "budget-tracker",
+      "collaborative",
+      "open-source",
+      "opensource",
+      "packing-list",
+      "poi",
+      "real-time",
+      "routes",
+      "self-hosted",
+      "travel",
+      "travel-app",
+      "travel-planner",
+      "traveling",
+      "trip",
+      "trip-planner",
+      "wanderlog",
+      "wanderlust",
+      "webapplication"
+    ],
+    "createdAt": "2026-03-19T11:51:54Z",
+    "updatedAt": "2026-04-21T12:08:38Z",
+    "id": "mauriceboe/trek",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 86,
+    "scoreBreakdown": {
+      "stars": 0.8602,
+      "forks": 0.41,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "mauriceboe/TREK: перспективный open-source проект. Категории: Misc. Интересность: 86/100.",
+    "summaryEn": "mauriceboe/TREK is a promising open-source project. Categories: Misc. Interest score: 86/100."
+  },
+  {
+    "externalId": "716719284",
+    "source": "github",
+    "url": "https://github.com/openbao/openbao",
+    "owner": "openbao",
+    "name": "openbao",
+    "title": "openbao/openbao",
+    "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "stars": 5869,
+    "forks": 403,
+    "language": "Go",
+    "topics": [
+      "go",
+      "secret-management",
+      "security"
+    ],
+    "createdAt": "2023-11-09T18:17:33Z",
+    "updatedAt": "2026-04-21T12:41:24Z",
+    "id": "openbao/openbao",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 85,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.403,
+      "recency": 1,
+      "topics": 0.375,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Data",
+      "Security"
+    ],
+    "status": "active",
+    "summaryRu": "openbao/openbao: перспективный open-source проект. Категории: Data, Security. Интересность: 85/100.",
+    "summaryEn": "openbao/openbao is a promising open-source project. Categories: Data, Security. Interest score: 85/100."
+  },
+  {
+    "externalId": "58876201",
+    "source": "github",
+    "url": "https://github.com/easylist/easylist",
+    "owner": "easylist",
+    "name": "easylist",
+    "title": "easylist/easylist",
+    "description": "EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)",
+    "stars": 2959,
+    "forks": 864,
+    "language": "Adblock Filter List",
+    "topics": [
+      "adblock",
+      "adblock-list",
+      "adblock-plus",
+      "adblocker",
+      "adblocking",
+      "easylist",
+      "filterlist",
+      "ublock",
+      "ublock-origin"
+    ],
+    "createdAt": "2016-05-15T18:01:18Z",
+    "updatedAt": "2026-04-21T12:14:36Z",
+    "id": "easylist/easylist",
+    "discoveredAt": "2026-04-21T12:15:08.096Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "stars": 0.5918,
+      "forks": 0.864,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "easylist/easylist: перспективный open-source проект. Категории: Misc. Интересность: 84/100.",
+    "summaryEn": "easylist/easylist is a promising open-source project. Categories: Misc. Interest score: 84/100."
+  },
+  {
+    "externalId": "1046096502",
+    "source": "github",
+    "url": "https://github.com/generalaction/emdash",
+    "owner": "generalaction",
+    "name": "emdash",
+    "title": "generalaction/emdash",
+    "description": "Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.",
+    "stars": 4032,
+    "forks": 364,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "claude-code",
+      "cli",
+      "coding-agents",
+      "codingagents",
+      "containerization",
+      "docker",
+      "gitworktrees",
+      "jira",
+      "linear",
+      "llm",
+      "openai",
+      "opensource",
+      "orchestration",
+      "parallel-agents",
+      "parallelexecution",
+      "terminal"
+    ],
+    "createdAt": "2025-08-28T07:19:57Z",
+    "updatedAt": "2026-04-21T11:21:02Z",
+    "id": "generalaction/emdash",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "stars": 0.8064,
+      "forks": 0.364,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "DevTools",
+      "DevOps/Infra"
+    ],
+    "status": "active",
+    "summaryRu": "generalaction/emdash: перспективный open-source проект. Категории: AI/ML, DevTools, DevOps/Infra. Интересность: 84/100.",
+    "summaryEn": "generalaction/emdash is a promising open-source project. Categories: AI/ML, DevTools, DevOps/Infra. Interest score: 84/100."
+  },
+  {
+    "externalId": "3649922",
+    "source": "github",
+    "url": "https://github.com/linux-test-project/ltp",
+    "owner": "linux-test-project",
+    "name": "ltp",
+    "title": "linux-test-project/ltp",
+    "description": "Linux Test Project (mailing list: https://lists.linux.it/listinfo/ltp)",
+    "stars": 2544,
+    "forks": 1098,
+    "language": "C",
+    "topics": [
+      "c",
+      "libc",
+      "linux",
+      "linux-kernel",
+      "linux-test",
+      "ltp",
+      "posix",
+      "syscalls",
+      "test-automation",
+      "unix"
+    ],
+    "createdAt": "2012-03-07T14:39:13Z",
+    "updatedAt": "2026-04-21T12:14:34Z",
+    "id": "linux-test-project/ltp",
+    "discoveredAt": "2026-04-21T12:15:08.096Z",
+    "score": 83,
+    "scoreBreakdown": {
+      "stars": 0.5088,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "linux-test-project/ltp: перспективный open-source проект. Категории: AI/ML, DevTools. Интересность: 83/100.",
+    "summaryEn": "linux-test-project/ltp is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 83/100."
+  },
+  {
+    "externalId": "1092279475",
+    "source": "github",
+    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+    "owner": "Ed1s0nZ",
+    "name": "CyberStrikeAI",
+    "title": "Ed1s0nZ/CyberStrikeAI",
+    "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+    "stars": 3404,
+    "forks": 571,
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-cybersecurity",
+      "ai-hacking",
+      "ai-penetration-testing",
+      "ai-security-tool",
+      "ctf-tools",
+      "mcp",
+      "pentesting-tools"
+    ],
+    "createdAt": "2025-11-08T10:41:23Z",
+    "updatedAt": "2026-04-21T12:44:34Z",
+    "id": "ed1s0nz/cyberstrikeai",
+    "discoveredAt": "2026-04-21T12:45:08.488Z",
+    "score": 82,
+    "scoreBreakdown": {
+      "stars": 0.6808,
+      "forks": 0.571,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "Ed1s0nZ/CyberStrikeAI: перспективный open-source проект. Категории: AI/ML, Frontend, DevTools. Интересность: 82/100.",
+    "summaryEn": "Ed1s0nZ/CyberStrikeAI is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 82/100."
+  },
+  {
+    "externalId": "58146669",
+    "source": "github",
+    "url": "https://github.com/facebook/sapling",
+    "owner": "facebook",
+    "name": "sapling",
+    "title": "facebook/sapling",
+    "description": "A Scalable, User-Friendly Source Control System.",
+    "stars": 6815,
+    "forks": 364,
+    "language": "Rust",
+    "topics": [],
+    "createdAt": "2016-05-05T16:53:47Z",
+    "updatedAt": "2026-04-21T12:14:24Z",
+    "id": "facebook/sapling",
+    "discoveredAt": "2026-04-21T12:15:08.097Z",
+    "score": 80,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 0.364,
+      "recency": 1,
+      "topics": 0,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "facebook/sapling: перспективный open-source проект. Категории: Misc. Интересность: 80/100.",
+    "summaryEn": "facebook/sapling is a promising open-source project. Categories: Misc. Interest score: 80/100."
+  },
+  {
+    "externalId": "990586271",
+    "source": "github",
+    "url": "https://github.com/lingdojo/kana-dojo",
+    "owner": "lingdojo",
+    "name": "kana-dojo",
+    "title": "lingdojo/kana-dojo",
+    "description": "Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome!",
+    "stars": 2117,
+    "forks": 1667,
+    "language": "TypeScript",
+    "topics": [
+      "beginner",
+      "beginner-friendly",
+      "contribute",
+      "contribution",
+      "contributions-welcome",
+      "first-contributions",
+      "first-timers-only",
+      "good-first-contribution",
+      "good-first-issue",
+      "good-first-pr",
+      "hacktoberfest",
+      "help-wanted",
+      "japanese",
+      "japanese-language",
+      "language-learning",
+      "learn-japanese",
+      "nextjs",
+      "open-source",
+      "react",
+      "up-for-grabs"
+    ],
+    "createdAt": "2025-05-26T10:38:07Z",
+    "updatedAt": "2026-04-21T12:11:32Z",
+    "id": "lingdojo/kana-dojo",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 80,
+    "scoreBreakdown": {
+      "stars": 0.4234,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "lingdojo/kana-dojo: перспективный open-source проект. Категории: Frontend. Интересность: 80/100.",
+    "summaryEn": "lingdojo/kana-dojo is a promising open-source project. Categories: Frontend. Interest score: 80/100."
+  },
+  {
+    "externalId": "185478926",
+    "source": "github",
+    "url": "https://github.com/open-telemetry/opentelemetry-python",
+    "owner": "open-telemetry",
+    "name": "opentelemetry-python",
+    "title": "open-telemetry/opentelemetry-python",
+    "description": "OpenTelemetry Python API and SDK ",
+    "stars": 2406,
+    "forks": 861,
+    "language": "Python",
+    "topics": [
+      "correlationcontext",
+      "distributed-tracing",
+      "logging",
+      "metrics",
+      "opentelemetry",
+      "python",
+      "sdk",
+      "tracecontext"
+    ],
+    "createdAt": "2019-05-07T21:13:30Z",
+    "updatedAt": "2026-04-21T12:34:20Z",
+    "id": "open-telemetry/opentelemetry-python",
+    "discoveredAt": "2026-04-21T12:45:08.490Z",
+    "score": 80,
+    "scoreBreakdown": {
+      "stars": 0.4812,
+      "forks": 0.861,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "open-telemetry/opentelemetry-python: перспективный open-source проект. Категории: Backend. Интересность: 80/100.",
+    "summaryEn": "open-telemetry/opentelemetry-python is a promising open-source project. Categories: Backend. Interest score: 80/100."
+  },
+  {
+    "externalId": "365697493",
+    "source": "github",
+    "url": "https://github.com/leanprover-community/mathlib4",
+    "owner": "leanprover-community",
+    "name": "mathlib4",
+    "title": "leanprover-community/mathlib4",
+    "description": "The math library of Lean 4",
+    "stars": 3191,
+    "forks": 1246,
+    "language": "Lean",
+    "topics": [
+      "lean4"
+    ],
+    "createdAt": "2021-05-09T07:52:01Z",
+    "updatedAt": "2026-04-21T12:41:01Z",
+    "id": "leanprover-community/mathlib4",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 79,
+    "scoreBreakdown": {
+      "stars": 0.6382,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.125,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "leanprover-community/mathlib4: перспективный open-source проект. Категории: Misc. Интересность: 79/100.",
+    "summaryEn": "leanprover-community/mathlib4 is a promising open-source project. Categories: Misc. Interest score: 79/100."
+  },
+  {
+    "externalId": "155580125",
+    "source": "github",
+    "url": "https://github.com/KHwang9883/MobileModels",
+    "owner": "KHwang9883",
+    "name": "MobileModels",
+    "title": "KHwang9883/MobileModels",
+    "description": "手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0",
+    "stars": 4176,
+    "forks": 493,
+    "topics": [],
+    "createdAt": "2018-10-31T15:26:15Z",
+    "updatedAt": "2026-04-21T12:14:23Z",
+    "id": "khwang9883/mobilemodels",
+    "discoveredAt": "2026-04-21T12:15:08.097Z",
+    "score": 77,
+    "scoreBreakdown": {
+      "stars": 0.8352,
+      "forks": 0.493,
+      "recency": 1,
+      "topics": 0,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "KHwang9883/MobileModels: перспективный open-source проект. Категории: Misc. Интересность: 77/100.",
+    "summaryEn": "KHwang9883/MobileModels is a promising open-source project. Categories: Misc. Interest score: 77/100."
+  },
+  {
+    "externalId": "319742187",
+    "source": "github",
+    "url": "https://github.com/mdn/translated-content",
+    "owner": "mdn",
+    "name": "translated-content",
+    "title": "mdn/translated-content",
+    "description": "7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.",
+    "stars": 1978,
+    "forks": 8329,
+    "language": "Markdown",
+    "topics": [
+      "documentation",
+      "l10n",
+      "localization",
+      "mdn",
+      "web-development",
+      "web-platform"
+    ],
+    "createdAt": "2020-12-08T19:38:24Z",
+    "updatedAt": "2026-04-21T12:38:13Z",
+    "id": "mdn/translated-content",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 76,
+    "scoreBreakdown": {
+      "stars": 0.3956,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.75,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "mdn/translated-content: перспективный open-source проект. Категории: AI/ML. Интересность: 76/100.",
+    "summaryEn": "mdn/translated-content is a promising open-source project. Categories: AI/ML. Interest score: 76/100."
+  },
+  {
+    "externalId": "6136261",
+    "source": "github",
+    "url": "https://github.com/qutip/qutip",
+    "owner": "qutip",
+    "name": "qutip",
+    "title": "qutip/qutip",
+    "description": "QuTiP: Quantum Toolbox in Python",
+    "stars": 1999,
+    "forks": 755,
+    "language": "Python",
+    "topics": [
+      "python",
+      "quantum",
+      "quantum-computing",
+      "quantum-information",
+      "quantum-mechanics",
+      "quantum-optics",
+      "quantum-toolbox",
+      "qutip",
+      "unitaryhack"
+    ],
+    "createdAt": "2012-10-09T06:20:46Z",
+    "updatedAt": "2026-04-21T12:44:01Z",
+    "id": "qutip/qutip",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 75,
+    "scoreBreakdown": {
+      "stars": 0.3998,
+      "forks": 0.755,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "qutip/qutip: перспективный open-source проект. Категории: Misc. Интересность: 75/100.",
+    "summaryEn": "qutip/qutip is a promising open-source project. Categories: Misc. Interest score: 75/100."
+  },
+  {
+    "externalId": "296416761",
+    "source": "github",
+    "url": "https://github.com/NVIDIA/cccl",
+    "owner": "NVIDIA",
+    "name": "cccl",
+    "title": "NVIDIA/cccl",
+    "description": "CUDA Core Compute Libraries",
+    "stars": 2287,
+    "forks": 379,
+    "language": "C++",
+    "topics": [
+      "accelerated-computing",
+      "cpp",
+      "cpp-programming",
+      "cuda",
+      "cuda-cpp",
+      "cuda-kernels",
+      "cuda-library",
+      "cuda-programming",
+      "gpu",
+      "gpu-acceleration",
+      "gpu-computing",
+      "gpu-programming",
+      "hpc",
+      "modern-cpp",
+      "nvidia",
+      "nvidia-gpu",
+      "parallel-algorithm",
+      "parallel-computing",
+      "parallel-programming"
+    ],
+    "createdAt": "2020-09-17T18:58:41Z",
+    "updatedAt": "2026-04-21T12:04:00Z",
+    "id": "nvidia/cccl",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 72,
+    "scoreBreakdown": {
+      "stars": 0.4574,
+      "forks": 0.379,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "NVIDIA/cccl: перспективный open-source проект. Категории: Misc. Интересность: 72/100.",
+    "summaryEn": "NVIDIA/cccl is a promising open-source project. Categories: Misc. Interest score: 72/100."
+  },
+  {
+    "externalId": "168479288",
+    "source": "github",
+    "url": "https://github.com/ScoopInstaller/Main",
+    "owner": "ScoopInstaller",
+    "name": "Main",
+    "title": "ScoopInstaller/Main",
+    "description": "📦 The default bucket for Scoop.",
+    "stars": 1826,
+    "forks": 1145,
+    "language": "PowerShell",
+    "topics": [
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket"
+    ],
+    "createdAt": "2019-01-31T07:05:24Z",
+    "updatedAt": "2026-04-21T12:44:21Z",
+    "id": "scoopinstaller/main",
+    "discoveredAt": "2026-04-21T12:45:08.488Z",
+    "score": 72,
+    "scoreBreakdown": {
+      "stars": 0.3652,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.375,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "ScoopInstaller/Main: перспективный open-source проект. Категории: AI/ML. Интересность: 72/100.",
+    "summaryEn": "ScoopInstaller/Main is a promising open-source project. Categories: AI/ML. Interest score: 72/100."
+  },
+  {
+    "externalId": "605728251",
+    "source": "github",
+    "url": "https://github.com/ax-llm/ax",
+    "owner": "ax-llm",
+    "name": "ax",
+    "title": "ax-llm/ax",
+    "description": "The pretty much \"official\" DSPy framework for Typescript",
+    "stars": 2590,
+    "forks": 163,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "anthropic",
+      "claude",
+      "cohere",
+      "dspy",
+      "gemini",
+      "google",
+      "google-gemini",
+      "gpt-4",
+      "javascript",
+      "large-language-models",
+      "llm",
+      "nodejs",
+      "ollama",
+      "openai",
+      "opensource",
+      "rag",
+      "typescript",
+      "vectordb",
+      "webllm"
+    ],
+    "createdAt": "2023-02-23T19:21:40Z",
+    "updatedAt": "2026-04-21T11:42:08Z",
+    "id": "ax-llm/ax",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 71,
+    "scoreBreakdown": {
+      "stars": 0.518,
+      "forks": 0.163,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "ax-llm/ax: перспективный open-source проект. Категории: AI/ML. Интересность: 71/100.",
+    "summaryEn": "ax-llm/ax is a promising open-source project. Categories: AI/ML. Interest score: 71/100."
+  },
+  {
+    "externalId": "125824259",
+    "source": "github",
+    "url": "https://github.com/xtdb/xtdb",
+    "owner": "xtdb",
+    "name": "xtdb",
+    "title": "xtdb/xtdb",
+    "description": "An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt",
+    "stars": 2964,
+    "forks": 186,
+    "language": "Clojure",
+    "topics": [
+      "bitemporal",
+      "database",
+      "dbms",
+      "immutable",
+      "sql",
+      "temporal"
+    ],
+    "createdAt": "2018-03-19T08:19:27Z",
+    "updatedAt": "2026-04-21T12:40:59Z",
+    "id": "xtdb/xtdb",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 71,
+    "scoreBreakdown": {
+      "stars": 0.5928,
+      "forks": 0.186,
+      "recency": 1,
+      "topics": 0.75,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "xtdb/xtdb: перспективный open-source проект. Категории: Data. Интересность: 71/100.",
+    "summaryEn": "xtdb/xtdb is a promising open-source project. Categories: Data. Interest score: 71/100."
+  },
+  {
+    "externalId": "153442864",
+    "source": "github",
+    "url": "https://github.com/CircuitVerse/CircuitVerse",
+    "owner": "CircuitVerse",
+    "name": "CircuitVerse",
+    "title": "CircuitVerse/CircuitVerse",
+    "description": "CircuitVerse Primary Code Base",
+    "stars": 1197,
+    "forks": 2015,
+    "language": "JavaScript",
+    "topics": [
+      "circuitverse",
+      "digital-circuit-design",
+      "digital-circuits",
+      "educational-software",
+      "hacktoberfest"
+    ],
+    "createdAt": "2018-10-17T11:05:34Z",
+    "updatedAt": "2026-04-21T12:05:40Z",
+    "id": "circuitverse/circuitverse",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 70,
+    "scoreBreakdown": {
+      "stars": 0.2394,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0.625,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend",
+      "Design"
+    ],
+    "status": "active",
+    "summaryRu": "CircuitVerse/CircuitVerse: перспективный open-source проект. Категории: Frontend, Design. Интересность: 70/100.",
+    "summaryEn": "CircuitVerse/CircuitVerse is a promising open-source project. Categories: Frontend, Design. Interest score: 70/100."
+  },
+  {
+    "externalId": "1385890",
+    "source": "github",
+    "url": "https://github.com/mozilla/pontoon",
+    "owner": "mozilla",
+    "name": "pontoon",
+    "title": "mozilla/pontoon",
+    "description": "Mozilla's Localization Platform",
+    "stars": 1630,
+    "forks": 593,
+    "language": "Python",
+    "topics": [
+      "design",
+      "django",
+      "javascript",
+      "localization",
+      "mozilla",
+      "pontoon",
+      "translation"
+    ],
+    "createdAt": "2011-02-19T11:25:51Z",
+    "updatedAt": "2026-04-21T12:14:24Z",
+    "id": "mozilla/pontoon",
+    "discoveredAt": "2026-04-21T12:15:08.097Z",
+    "score": 69,
+    "scoreBreakdown": {
+      "stars": 0.326,
+      "forks": 0.593,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Design"
+    ],
+    "status": "active",
+    "summaryRu": "mozilla/pontoon: перспективный open-source проект. Категории: Design. Интересность: 69/100.",
+    "summaryEn": "mozilla/pontoon is a promising open-source project. Categories: Design. Interest score: 69/100."
+  },
+  {
+    "externalId": "6673802",
+    "source": "github",
+    "url": "https://github.com/24pullrequests/24pullrequests",
+    "owner": "24pullrequests",
+    "name": "24pullrequests",
+    "title": "24pullrequests/24pullrequests",
+    "description": ":christmas_tree: Giving back to open source for the holidays",
+    "stars": 1705,
+    "forks": 533,
+    "language": "Ruby",
+    "topics": [
+      "community",
+      "holidays",
+      "open-source",
+      "opensource",
+      "pull-requests",
+      "rails",
+      "ruby"
+    ],
+    "createdAt": "2012-11-13T16:32:05Z",
+    "updatedAt": "2026-04-21T10:04:42Z",
+    "id": "24pullrequests/24pullrequests",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 69,
+    "scoreBreakdown": {
+      "stars": 0.341,
+      "forks": 0.533,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "24pullrequests/24pullrequests: перспективный open-source проект. Категории: AI/ML. Интересность: 69/100.",
+    "summaryEn": "24pullrequests/24pullrequests is a promising open-source project. Categories: AI/ML. Interest score: 69/100."
+  },
+  {
+    "externalId": "75196241",
+    "source": "github",
+    "url": "https://github.com/getsentry/sentry-react-native",
+    "owner": "getsentry",
+    "name": "sentry-react-native",
+    "title": "getsentry/sentry-react-native",
+    "description": "Official Sentry SDK for React Native",
+    "stars": 1791,
+    "forks": 360,
+    "language": "TypeScript",
+    "topics": [
+      "android",
+      "crash-reporting",
+      "ios",
+      "javascript",
+      "react-native",
+      "sdk",
+      "sentry",
+      "tag-production",
+      "team-mobile",
+      "typescript"
+    ],
+    "createdAt": "2016-11-30T14:45:57Z",
+    "updatedAt": "2026-04-21T12:14:14Z",
+    "id": "getsentry/sentry-react-native",
+    "discoveredAt": "2026-04-21T12:15:08.098Z",
+    "score": 68,
+    "scoreBreakdown": {
+      "stars": 0.3582,
+      "forks": 0.36,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend",
+      "Mobile",
+      "Product"
+    ],
+    "status": "active",
+    "summaryRu": "getsentry/sentry-react-native: перспективный open-source проект. Категории: Frontend, Mobile, Product. Интересность: 68/100.",
+    "summaryEn": "getsentry/sentry-react-native is a promising open-source project. Categories: Frontend, Mobile, Product. Interest score: 68/100."
+  },
+  {
+    "externalId": "35210580",
+    "source": "github",
+    "url": "https://github.com/zaproxy/zap-extensions",
+    "owner": "zaproxy",
+    "name": "zap-extensions",
+    "title": "zaproxy/zap-extensions",
+    "description": "ZAP Add-ons",
+    "stars": 923,
+    "forks": 780,
+    "language": "HTML",
+    "topics": [
+      "appsec",
+      "dast",
+      "hacktoberfest",
+      "opensource",
+      "security",
+      "security-scanner",
+      "zap",
+      "zaproxy"
+    ],
+    "createdAt": "2015-05-07T09:17:13Z",
+    "updatedAt": "2026-04-21T11:36:03Z",
+    "id": "zaproxy/zap-extensions",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 68,
+    "scoreBreakdown": {
+      "stars": 0.1846,
+      "forks": 0.78,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Security"
+    ],
+    "status": "active",
+    "summaryRu": "zaproxy/zap-extensions: перспективный open-source проект. Категории: AI/ML, Security. Интересность: 68/100.",
+    "summaryEn": "zaproxy/zap-extensions is a promising open-source project. Categories: AI/ML, Security. Interest score: 68/100."
+  },
+  {
+    "externalId": "4585500",
+    "source": "github",
+    "url": "https://github.com/coderaiser/cloudcmd",
+    "owner": "coderaiser",
+    "name": "cloudcmd",
+    "title": "coderaiser/cloudcmd",
+    "description": "✨☁️📁✨ Cloud Commander file manager for the web with console and editor.",
+    "stars": 2006,
+    "forks": 263,
+    "language": "JavaScript",
+    "topics": [
+      "android",
+      "cloudcmd",
+      "commander",
+      "console",
+      "docker",
+      "editor",
+      "file-manager",
+      "filesystem",
+      "folder",
+      "framework",
+      "hacktoberfest",
+      "linux",
+      "macos",
+      "mit",
+      "nodejs",
+      "windows"
+    ],
+    "createdAt": "2012-06-07T13:29:37Z",
+    "updatedAt": "2026-04-21T12:44:02Z",
+    "id": "coderaiser/cloudcmd",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 68,
+    "scoreBreakdown": {
+      "stars": 0.4012,
+      "forks": 0.263,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Mobile",
+      "DevOps/Infra"
+    ],
+    "status": "active",
+    "summaryRu": "coderaiser/cloudcmd: перспективный open-source проект. Категории: AI/ML, Mobile, DevOps/Infra. Интересность: 68/100.",
+    "summaryEn": "coderaiser/cloudcmd is a promising open-source project. Categories: AI/ML, Mobile, DevOps/Infra. Interest score: 68/100."
+  },
+  {
+    "externalId": "20446681",
+    "source": "github",
+    "url": "https://github.com/privacyidea/privacyidea",
+    "owner": "privacyidea",
+    "name": "privacyidea",
+    "title": "privacyidea/privacyidea",
+    "description": ":closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP, FIDO Server)",
+    "stars": 1716,
+    "forks": 350,
+    "language": "Python",
+    "topics": [
+      "2fa",
+      "authentication",
+      "ca",
+      "certificates",
+      "fido",
+      "fido2",
+      "identityserver",
+      "idm",
+      "mfa",
+      "opensource",
+      "otp",
+      "otp-server",
+      "passkey",
+      "passkeys",
+      "push",
+      "python",
+      "security-key",
+      "two-factor",
+      "two-factor-authentication",
+      "webauthn"
+    ],
+    "createdAt": "2014-06-03T14:47:02Z",
+    "updatedAt": "2026-04-21T09:22:36Z",
+    "id": "privacyidea/privacyidea",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 67,
+    "scoreBreakdown": {
+      "stars": 0.3432,
+      "forks": 0.35,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Backend",
+      "Security"
+    ],
+    "status": "active",
+    "summaryRu": "privacyidea/privacyidea: перспективный open-source проект. Категории: Backend, Security. Интересность: 67/100.",
+    "summaryEn": "privacyidea/privacyidea is a promising open-source project. Categories: Backend, Security. Interest score: 67/100."
+  },
+  {
+    "externalId": "989134268",
+    "source": "github",
+    "url": "https://github.com/MCPJam/inspector",
+    "owner": "MCPJam",
+    "name": "inspector",
+    "title": "MCPJam/inspector",
+    "description": "Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.",
+    "stars": 1867,
+    "forks": 216,
+    "language": "TypeScript",
+    "topics": [
+      "anthropic",
+      "chatgpt",
+      "cicd",
+      "debugger",
+      "evals",
+      "evaluation",
+      "inspector",
+      "mcp",
+      "mcp-apps",
+      "mcp-clients",
+      "mcp-inspector",
+      "mcp-server",
+      "mcp-tools",
+      "modelcontextprotocol",
+      "oauth",
+      "oauth2",
+      "openai",
+      "openai-apps-sdk",
+      "opensource",
+      "tracing"
+    ],
+    "createdAt": "2025-05-23T15:56:00Z",
+    "updatedAt": "2026-04-21T12:11:21Z",
+    "id": "mcpjam/inspector",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 66,
+    "scoreBreakdown": {
+      "stars": 0.3734,
+      "forks": 0.216,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Backend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "MCPJam/inspector: перспективный open-source проект. Категории: AI/ML, Backend, DevTools. Интересность: 66/100.",
+    "summaryEn": "MCPJam/inspector is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 66/100."
+  },
+  {
+    "externalId": "5793895",
+    "source": "github",
+    "url": "https://github.com/ebean-orm/ebean",
+    "owner": "ebean-orm",
+    "name": "ebean",
+    "title": "ebean-orm/ebean",
+    "description": "Ebean ORM",
+    "stars": 1521,
+    "forks": 265,
+    "language": "Java",
+    "topics": [
+      "cockroachdb",
+      "database",
+      "ebean",
+      "elasticsearch",
+      "h2",
+      "hana",
+      "java",
+      "jdbc",
+      "jpa",
+      "kotlin",
+      "mariadb",
+      "mysql",
+      "oracle",
+      "orm",
+      "postgres",
+      "sql",
+      "sqlite",
+      "sqlserver"
+    ],
+    "createdAt": "2012-09-13T11:49:56Z",
+    "updatedAt": "2026-04-21T12:14:32Z",
+    "id": "ebean-orm/ebean",
+    "discoveredAt": "2026-04-21T12:15:08.097Z",
+    "score": 65,
+    "scoreBreakdown": {
+      "stars": 0.3042,
+      "forks": 0.265,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Backend",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "ebean-orm/ebean: перспективный open-source проект. Категории: Backend, Data. Интересность: 65/100.",
+    "summaryEn": "ebean-orm/ebean is a promising open-source project. Categories: Backend, Data. Interest score: 65/100."
+  },
+  {
+    "externalId": "323279421",
+    "source": "github",
+    "url": "https://github.com/LinwoodDev/Butterfly",
+    "owner": "LinwoodDev",
+    "name": "Butterfly",
+    "title": "LinwoodDev/Butterfly",
+    "description": "🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",
+    "stars": 1820,
+    "forks": 136,
+    "language": "Dart",
+    "topics": [
+      "android",
+      "app",
+      "cross-platform",
+      "customizable",
+      "dart",
+      "dartlang",
+      "drawing",
+      "flutter",
+      "linux",
+      "note",
+      "note-taking",
+      "notes",
+      "notes-app",
+      "onenote",
+      "opensource",
+      "productivity",
+      "web",
+      "windows",
+      "writing"
+    ],
+    "createdAt": "2020-12-21T08:47:28Z",
+    "updatedAt": "2026-04-21T12:11:08Z",
+    "id": "linwooddev/butterfly",
+    "discoveredAt": "2026-04-21T12:15:08.098Z",
+    "score": 65,
+    "scoreBreakdown": {
+      "stars": 0.364,
+      "forks": 0.136,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Mobile",
+      "Product"
+    ],
+    "status": "active",
+    "summaryRu": "LinwoodDev/Butterfly: перспективный open-source проект. Категории: Mobile, Product. Интересность: 65/100.",
+    "summaryEn": "LinwoodDev/Butterfly is a promising open-source project. Categories: Mobile, Product. Interest score: 65/100."
+  },
+  {
+    "externalId": "242174446",
+    "source": "github",
+    "url": "https://github.com/matrix-org/matrix-rust-sdk",
+    "owner": "matrix-org",
+    "name": "matrix-rust-sdk",
+    "title": "matrix-org/matrix-rust-sdk",
+    "description": "Matrix Client-Server SDK for Rust",
+    "stars": 2080,
+    "forks": 416,
+    "language": "Rust",
+    "topics": [
+      "matrix-org",
+      "rust",
+      "sdk"
+    ],
+    "createdAt": "2020-02-21T15:47:16Z",
+    "updatedAt": "2026-04-21T12:44:01Z",
+    "id": "matrix-org/matrix-rust-sdk",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 65,
+    "scoreBreakdown": {
+      "stars": 0.416,
+      "forks": 0.416,
+      "recency": 1,
+      "topics": 0.375,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Backend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "matrix-org/matrix-rust-sdk: перспективный open-source проект. Категории: Backend, DevTools. Интересность: 65/100.",
+    "summaryEn": "matrix-org/matrix-rust-sdk is a promising open-source project. Categories: Backend, DevTools. Interest score: 65/100."
+  },
+  {
+    "externalId": "99178995",
+    "source": "github",
+    "url": "https://github.com/MetaMask/eth-phishing-detect",
+    "owner": "MetaMask",
+    "name": "eth-phishing-detect",
+    "title": "MetaMask/eth-phishing-detect",
+    "description": "Utility for detecting phishing domains targeting Web3 users",
+    "stars": 1272,
+    "forks": 1063,
+    "language": "TypeScript",
+    "topics": [],
+    "createdAt": "2017-08-03T01:57:18Z",
+    "updatedAt": "2026-04-21T12:13:56Z",
+    "id": "metamask/eth-phishing-detect",
+    "discoveredAt": "2026-04-21T12:15:08.098Z",
+    "score": 64,
+    "scoreBreakdown": {
+      "stars": 0.2544,
+      "forks": 1,
+      "recency": 1,
+      "topics": 0,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "MetaMask/eth-phishing-detect: перспективный open-source проект. Категории: AI/ML. Интересность: 64/100.",
+    "summaryEn": "MetaMask/eth-phishing-detect is a promising open-source project. Categories: AI/ML. Interest score: 64/100."
+  },
+  {
+    "externalId": "1099214862",
+    "source": "github",
+    "url": "https://github.com/rustmailer/bichon",
+    "owner": "rustmailer",
+    "name": "bichon",
+    "title": "rustmailer/bichon",
+    "description": "Bichon – A lightweight, high-performance Rust email archiver with WebUI",
+    "stars": 1578,
+    "forks": 52,
+    "language": "TypeScript",
+    "topics": [
+      "backup",
+      "compression",
+      "email",
+      "email-archiver",
+      "email-archiving",
+      "imap",
+      "mail",
+      "oauth2",
+      "openapi",
+      "rust",
+      "search",
+      "self-hosted",
+      "selfhosted",
+      "tantivy",
+      "webui"
+    ],
+    "createdAt": "2025-11-18T18:02:57Z",
+    "updatedAt": "2026-04-21T12:44:13Z",
+    "id": "rustmailer/bichon",
+    "discoveredAt": "2026-04-21T12:45:08.488Z",
+    "score": 62,
+    "scoreBreakdown": {
+      "stars": 0.3156,
+      "forks": 0.052,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "rustmailer/bichon: перспективный open-source проект. Категории: AI/ML, Frontend, Backend. Интересность: 62/100.",
+    "summaryEn": "rustmailer/bichon is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 62/100."
+  },
+  {
+    "externalId": "1030897854",
+    "source": "github",
+    "url": "https://github.com/aelassas/servy",
+    "owner": "aelassas",
+    "name": "servy",
+    "title": "aelassas/servy",
+    "description": "Run Any App as a Native Windows Service - Modern Alternative to NSSM, WinSW & FireDaemon Pro",
+    "stars": 1642,
+    "forks": 64,
+    "language": "C#",
+    "topics": [
+      "nssm",
+      "service-manager",
+      "service-wrapper",
+      "servy",
+      "watchdog",
+      "windows-service",
+      "winsw"
+    ],
+    "createdAt": "2025-08-02T15:09:07Z",
+    "updatedAt": "2026-04-21T12:13:57Z",
+    "id": "aelassas/servy",
+    "discoveredAt": "2026-04-21T12:15:08.098Z",
+    "score": 61,
+    "scoreBreakdown": {
+      "stars": 0.3284,
+      "forks": 0.064,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "aelassas/servy: перспективный open-source проект. Категории: Misc. Интересность: 61/100.",
+    "summaryEn": "aelassas/servy is a promising open-source project. Categories: Misc. Interest score: 61/100."
+  },
+  {
+    "externalId": "79114815",
+    "source": "github",
+    "url": "https://github.com/VKCOM/VKUI",
+    "owner": "VKCOM",
+    "name": "VKUI",
+    "title": "VKCOM/VKUI",
+    "description": "VKUI – это набор React-компонентов, с помощью которых можно создавать интерфейсы, внешне неотличимые от наших iOS и Android приложений.",
+    "stars": 1124,
+    "forks": 198,
+    "language": "TypeScript",
+    "topics": [
+      "javascript",
+      "mobile-web",
+      "opensource",
+      "postcss",
+      "reactjs",
+      "typescript",
+      "ui",
+      "uikit",
+      "vkontakte",
+      "vkui"
+    ],
+    "createdAt": "2017-01-16T12:09:28Z",
+    "updatedAt": "2026-04-21T11:49:22Z",
+    "id": "vkcom/vkui",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 61,
+    "scoreBreakdown": {
+      "stars": 0.2248,
+      "forks": 0.198,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend",
+      "Mobile"
+    ],
+    "status": "active",
+    "summaryRu": "VKCOM/VKUI: перспективный open-source проект. Категории: Frontend, Mobile. Интересность: 61/100.",
+    "summaryEn": "VKCOM/VKUI is a promising open-source project. Categories: Frontend, Mobile. Interest score: 61/100."
+  },
+  {
+    "externalId": "604178419",
+    "source": "github",
+    "url": "https://github.com/grafana/beyla",
+    "owner": "grafana",
+    "name": "beyla",
+    "title": "grafana/beyla",
+    "description": "eBPF-based autoinstrumentation of web applications and network metrics",
+    "stars": 1969,
+    "forks": 172,
+    "language": "Go",
+    "topics": [
+      "ebpf",
+      "metrics-gathering",
+      "observability",
+      "traces"
+    ],
+    "createdAt": "2023-02-20T13:56:47Z",
+    "updatedAt": "2026-04-21T12:05:59Z",
+    "id": "grafana/beyla",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 61,
+    "scoreBreakdown": {
+      "stars": 0.3938,
+      "forks": 0.172,
+      "recency": 1,
+      "topics": 0.5,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "grafana/beyla: перспективный open-source проект. Категории: Misc. Интересность: 61/100.",
+    "summaryEn": "grafana/beyla is a promising open-source project. Categories: Misc. Interest score: 61/100."
+  },
+  {
+    "externalId": "624577638",
+    "source": "github",
+    "url": "https://github.com/DustinWin/proxy-tools",
+    "owner": "DustinWin",
+    "name": "proxy-tools",
+    "title": "DustinWin/proxy-tools",
+    "description": "自动同步 mihomo 内核、sing-box 内核、sing-box reF1nd 版内核和 Android 安装包、Dashboard 面板和 AdGuard Home 最新版",
+    "stars": 1496,
+    "forks": 55,
+    "topics": [
+      "adguard-home",
+      "adguardhome",
+      "clash",
+      "clash-meta",
+      "clash-premium",
+      "clashmeta",
+      "dashboard",
+      "mihomo",
+      "proxy",
+      "shellcrash",
+      "sing-box",
+      "singbox"
+    ],
+    "createdAt": "2023-04-06T19:32:44Z",
+    "updatedAt": "2026-04-21T12:44:21Z",
+    "id": "dustinwin/proxy-tools",
+    "discoveredAt": "2026-04-21T12:45:08.488Z",
+    "score": 61,
+    "scoreBreakdown": {
+      "stars": 0.2992,
+      "forks": 0.055,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Mobile"
+    ],
+    "status": "active",
+    "summaryRu": "DustinWin/proxy-tools: перспективный open-source проект. Категории: Mobile. Интересность: 61/100.",
+    "summaryEn": "DustinWin/proxy-tools is a promising open-source project. Categories: Mobile. Interest score: 61/100."
+  },
+  {
+    "externalId": "285004577",
+    "source": "github",
+    "url": "https://github.com/noir-lang/noir",
+    "owner": "noir-lang",
+    "name": "noir",
+    "title": "noir-lang/noir",
+    "description": "Noir is a domain specific language for zero knowledge proofs",
+    "stars": 1337,
+    "forks": 387,
+    "language": "Rust",
+    "topics": [
+      "compiler",
+      "cryptography",
+      "noir-lang",
+      "programming-language",
+      "zero-knowledge"
+    ],
+    "createdAt": "2020-08-04T14:26:47Z",
+    "updatedAt": "2026-04-21T12:43:25Z",
+    "id": "noir-lang/noir",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 61,
+    "scoreBreakdown": {
+      "stars": 0.2674,
+      "forks": 0.387,
+      "recency": 1,
+      "topics": 0.625,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "noir-lang/noir: перспективный open-source проект. Категории: AI/ML. Интересность: 61/100.",
+    "summaryEn": "noir-lang/noir is a promising open-source project. Categories: AI/ML. Interest score: 61/100."
+  },
+  {
+    "externalId": "1463490",
+    "source": "github",
+    "url": "https://github.com/xwiki/xwiki-platform",
+    "owner": "xwiki",
+    "name": "xwiki-platform",
+    "title": "xwiki/xwiki-platform",
+    "description": "The XWiki platform",
+    "stars": 1238,
+    "forks": 624,
+    "language": "Java",
+    "topics": [],
+    "createdAt": "2011-03-10T13:26:41Z",
+    "updatedAt": "2026-04-21T12:44:07Z",
+    "id": "xwiki/xwiki-platform",
+    "discoveredAt": "2026-04-21T12:45:08.488Z",
+    "score": 58,
+    "scoreBreakdown": {
+      "stars": 0.2476,
+      "forks": 0.624,
+      "recency": 1,
+      "topics": 0,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "xwiki/xwiki-platform: перспективный open-source проект. Категории: Misc. Интересность: 58/100.",
+    "summaryEn": "xwiki/xwiki-platform is a promising open-source project. Categories: Misc. Interest score: 58/100."
+  },
+  {
+    "externalId": "84538053",
+    "source": "github",
+    "url": "https://github.com/theopenconversationkit/tock",
+    "owner": "theopenconversationkit",
+    "name": "tock",
+    "title": "theopenconversationkit/tock",
+    "description": "Tock, the open source conversational AI toolkit.",
+    "stars": 605,
+    "forks": 157,
+    "language": "Kotlin",
+    "topics": [
+      "ai",
+      "alexa",
+      "apple-business-chat",
+      "assistant",
+      "bot",
+      "chatbot",
+      "google-assistant",
+      "kotlin",
+      "messenger-bot",
+      "nlp",
+      "opensource",
+      "rocketchat",
+      "slack-bot",
+      "teams",
+      "tock",
+      "twitter",
+      "whatsapp"
+    ],
+    "createdAt": "2017-03-10T08:35:36Z",
+    "updatedAt": "2026-04-21T12:08:50Z",
+    "id": "theopenconversationkit/tock",
+    "discoveredAt": "2026-04-21T12:15:08.098Z",
+    "score": 57,
+    "scoreBreakdown": {
+      "stars": 0.121,
+      "forks": 0.157,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "theopenconversationkit/tock: перспективный open-source проект. Категории: AI/ML. Интересность: 57/100.",
+    "summaryEn": "theopenconversationkit/tock is a promising open-source project. Categories: AI/ML. Interest score: 57/100."
+  },
+  {
+    "externalId": "1047822585",
+    "source": "github",
+    "url": "https://github.com/Hommy-master/capcut-mate",
+    "owner": "Hommy-master",
+    "name": "capcut-mate",
+    "title": "Hommy-master/capcut-mate",
+    "description": "开源剪映小助手｜剪映API | 扣子插件 | Open-source CapCut automation toolkit to generate & download draft files.  | skills",
+    "stars": 814,
+    "forks": 152,
+    "language": "Python",
+    "topics": [
+      "capcut",
+      "capcut-mate",
+      "coze",
+      "jianying",
+      "opensource",
+      "skills",
+      "video-automation"
+    ],
+    "createdAt": "2025-08-31T10:09:30Z",
+    "updatedAt": "2026-04-21T11:30:35Z",
+    "id": "hommy-master/capcut-mate",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 57,
+    "scoreBreakdown": {
+      "stars": 0.1628,
+      "forks": 0.152,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "Hommy-master/capcut-mate: перспективный open-source проект. Категории: Backend. Интересность: 57/100.",
+    "summaryEn": "Hommy-master/capcut-mate is a promising open-source project. Categories: Backend. Interest score: 57/100."
+  },
+  {
+    "externalId": "61166935",
+    "source": "github",
+    "url": "https://github.com/alltheplaces/alltheplaces",
+    "owner": "alltheplaces",
+    "name": "alltheplaces",
+    "title": "alltheplaces/alltheplaces",
+    "description": "A set of spiders and scrapers to extract location information from places that post their location on the internet.",
+    "stars": 775,
+    "forks": 254,
+    "language": "Python",
+    "topics": [
+      "geojson",
+      "hacktoberfest",
+      "python",
+      "scrapers",
+      "scrapy",
+      "spider"
+    ],
+    "createdAt": "2016-06-15T01:09:18Z",
+    "updatedAt": "2026-04-21T12:12:04Z",
+    "id": "alltheplaces/alltheplaces",
+    "discoveredAt": "2026-04-21T12:15:08.099Z",
+    "score": 57,
+    "scoreBreakdown": {
+      "stars": 0.155,
+      "forks": 0.254,
+      "recency": 1,
+      "topics": 0.75,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "alltheplaces/alltheplaces: перспективный open-source проект. Категории: Misc. Интересность: 57/100.",
+    "summaryEn": "alltheplaces/alltheplaces is a promising open-source project. Categories: Misc. Interest score: 57/100."
+  },
+  {
+    "externalId": "240169434",
+    "source": "github",
+    "url": "https://github.com/MyEMS/myems",
+    "owner": "MyEMS",
+    "name": "myems",
+    "title": "MyEMS/myems",
+    "description": "Energy Management System",
+    "stars": 641,
+    "forks": 240,
+    "language": "Python",
+    "topics": [
+      "energy-consumption",
+      "energy-efficiency",
+      "energy-management-system",
+      "energy-monitor",
+      "energy-storage",
+      "microgrid",
+      "pv"
+    ],
+    "createdAt": "2020-02-13T03:33:05Z",
+    "updatedAt": "2026-04-21T12:44:23Z",
+    "id": "myems/myems",
+    "discoveredAt": "2026-04-21T12:45:08.488Z",
+    "score": 57,
+    "scoreBreakdown": {
+      "stars": 0.1282,
+      "forks": 0.24,
+      "recency": 1,
+      "topics": 0.875,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "MyEMS/myems: перспективный open-source проект. Категории: AI/ML. Интересность: 57/100.",
+    "summaryEn": "MyEMS/myems is a promising open-source project. Categories: AI/ML. Interest score: 57/100."
+  },
+  {
+    "externalId": "1028651481",
+    "source": "github",
+    "url": "https://github.com/kuestcom/prediction-market",
+    "owner": "kuestcom",
+    "name": "prediction-market",
+    "title": "kuestcom/prediction-market",
+    "description": "Launch Your Own Web3 Decentralized Prediction Market in Minutes (Polymarket like)",
+    "stars": 315,
+    "forks": 306,
+    "language": "TypeScript",
+    "topics": [
+      "arbitrage",
+      "crypto",
+      "cryptocurrency",
+      "defi",
+      "ethereum",
+      "kalshi",
+      "kalshi-clone",
+      "liquidity",
+      "opensource",
+      "polygon",
+      "polymarket",
+      "polymarket-clone",
+      "prediction-markets",
+      "smartcontracts",
+      "trade",
+      "trade-bot",
+      "trading",
+      "web3"
+    ],
+    "createdAt": "2025-07-29T21:16:40Z",
+    "updatedAt": "2026-04-21T12:28:03Z",
+    "id": "kuestcom/prediction-market",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 57,
+    "scoreBreakdown": {
+      "stars": 0.063,
+      "forks": 0.306,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "kuestcom/prediction-market: перспективный open-source проект. Категории: AI/ML, Frontend. Интересность: 57/100.",
+    "summaryEn": "kuestcom/prediction-market is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 57/100."
+  },
+  {
+    "externalId": "2528254",
+    "source": "github",
+    "url": "https://github.com/Normation/rudder",
+    "owner": "Normation",
+    "name": "rudder",
+    "title": "Normation/rudder",
+    "description": "Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.",
+    "stars": 645,
+    "forks": 87,
+    "language": "Scala",
+    "topics": [
+      "auditing",
+      "automation",
+      "compliance",
+      "configuration-management",
+      "continuous-configuration",
+      "devops",
+      "hardening",
+      "patch-management",
+      "secops",
+      "security",
+      "security-posture"
+    ],
+    "createdAt": "2011-10-06T19:27:50Z",
+    "updatedAt": "2026-04-21T12:13:49Z",
+    "id": "normation/rudder",
+    "discoveredAt": "2026-04-21T12:15:08.098Z",
+    "score": 56,
+    "scoreBreakdown": {
+      "stars": 0.129,
+      "forks": 0.087,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "DevOps/Infra",
+      "Security"
+    ],
+    "status": "active",
+    "summaryRu": "Normation/rudder: перспективный open-source проект. Категории: DevOps/Infra, Security. Интересность: 56/100.",
+    "summaryEn": "Normation/rudder is a promising open-source project. Categories: DevOps/Infra, Security. Interest score: 56/100."
+  },
+  {
+    "externalId": "413794983",
+    "source": "github",
+    "url": "https://github.com/microsoft/AL-Go",
+    "owner": "microsoft",
+    "name": "AL-Go",
+    "title": "microsoft/AL-Go",
+    "description": "The plug-and-play DevOps solution for Business Central app development on GitHub",
+    "stars": 462,
+    "forks": 195,
+    "language": "PowerShell",
+    "topics": [
+      "al",
+      "al-go",
+      "bcopensource",
+      "business-central",
+      "businesscentral",
+      "devops",
+      "github",
+      "microsoft",
+      "msdyn365bc"
+    ],
+    "createdAt": "2021-10-05T11:46:26Z",
+    "updatedAt": "2026-04-21T12:44:00Z",
+    "id": "microsoft/al-go",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 56,
+    "scoreBreakdown": {
+      "stars": 0.0924,
+      "forks": 0.195,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "microsoft/AL-Go: перспективный open-source проект. Категории: Misc. Интересность: 56/100.",
+    "summaryEn": "microsoft/AL-Go is a promising open-source project. Categories: Misc. Interest score: 56/100."
+  },
+  {
+    "externalId": "10426982",
+    "source": "github",
+    "url": "https://github.com/jasp-stats/jasp-desktop",
+    "owner": "jasp-stats",
+    "name": "jasp-desktop",
+    "title": "jasp-stats/jasp-desktop",
+    "description": "JASP aims to be a complete statistical package for both Bayesian and Frequentist statistical methods, that is easy to use and familiar to users of SPSS",
+    "stars": 951,
+    "forks": 230,
+    "language": "C++",
+    "topics": [
+      "freesoftware",
+      "hacktoberfest",
+      "jasp",
+      "opensource",
+      "statistics"
+    ],
+    "createdAt": "2013-06-01T19:05:12Z",
+    "updatedAt": "2026-04-21T12:36:03Z",
+    "id": "jasp-stats/jasp-desktop",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 56,
+    "scoreBreakdown": {
+      "stars": 0.1902,
+      "forks": 0.23,
+      "recency": 1,
+      "topics": 0.625,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "jasp-stats/jasp-desktop: перспективный open-source проект. Категории: AI/ML. Интересность: 56/100.",
+    "summaryEn": "jasp-stats/jasp-desktop is a promising open-source project. Categories: AI/ML. Interest score: 56/100."
+  },
+  {
+    "externalId": "980905149",
+    "source": "github",
+    "url": "https://github.com/VoidenHQ/voiden",
+    "owner": "VoidenHQ",
+    "name": "voiden",
+    "title": "VoidenHQ/voiden",
+    "description": "Design, Test, Document APIs, in plain Markdown. Compose APIs with blocks. Reuse, Replace & Version everything just like code. Truly Git Native. No Lock-in.",
+    "stars": 796,
+    "forks": 24,
+    "language": "TypeScript",
+    "topics": [
+      "api",
+      "api-client",
+      "automation",
+      "bruno-alternative",
+      "cli",
+      "curl-alternative",
+      "devtools",
+      "graphql-client",
+      "http-client",
+      "insomnia-alternative",
+      "javascript",
+      "offline-first",
+      "openapi",
+      "openapi3",
+      "opensource",
+      "postman-alternative",
+      "rest-api",
+      "scripting",
+      "testing",
+      "websocket"
+    ],
+    "createdAt": "2025-05-09T23:35:11Z",
+    "updatedAt": "2026-04-21T11:08:36Z",
+    "id": "voidenhq/voiden",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 56,
+    "scoreBreakdown": {
+      "stars": 0.1592,
+      "forks": 0.024,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Backend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "VoidenHQ/voiden: перспективный open-source проект. Категории: AI/ML, Backend, DevTools. Интересность: 56/100.",
+    "summaryEn": "VoidenHQ/voiden is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 56/100."
+  },
+  {
+    "externalId": "853602181",
+    "source": "github",
+    "url": "https://github.com/kohii/smoothcsv3",
+    "owner": "kohii",
+    "name": "smoothcsv3",
+    "title": "kohii/smoothcsv3",
+    "description": "SmoothCSV is a powerful and intuitive tool for editing CSV files.",
+    "stars": 1093,
+    "forks": 19,
+    "language": "Shell",
+    "topics": [
+      "csv",
+      "csv-editor",
+      "data-tools",
+      "spreadsheet",
+      "sql",
+      "tauri"
+    ],
+    "createdAt": "2024-09-07T02:36:10Z",
+    "updatedAt": "2026-04-21T12:44:44Z",
+    "id": "kohii/smoothcsv3",
+    "discoveredAt": "2026-04-21T12:45:08.488Z",
+    "score": 55,
+    "scoreBreakdown": {
+      "stars": 0.2186,
+      "forks": 0.019,
+      "recency": 1,
+      "topics": 0.75,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend",
+      "Data",
+      "Marketing"
+    ],
+    "status": "active",
+    "summaryRu": "kohii/smoothcsv3: перспективный open-source проект. Категории: Frontend, Data, Marketing. Интересность: 55/100.",
+    "summaryEn": "kohii/smoothcsv3 is a promising open-source project. Categories: Frontend, Data, Marketing. Interest score: 55/100."
+  },
+  {
+    "externalId": "602432642",
+    "source": "github",
+    "url": "https://github.com/Lifailon/rudocs",
+    "owner": "Lifailon",
+    "name": "rudocs",
+    "title": "Lifailon/rudocs",
+    "description": "Large base of notes on PowerShell, Linux and DevOps tools in ru language (cheat sheets and documentation).",
+    "stars": 591,
+    "forks": 84,
+    "language": "PowerShell",
+    "topics": [
+      "active-directory",
+      "api",
+      "cheatsheet",
+      "database",
+      "devops",
+      "devops-tools",
+      "docker",
+      "documentation",
+      "exchange",
+      "influxdb",
+      "linux",
+      "network",
+      "powershell",
+      "selenium",
+      "sql-query",
+      "syntax",
+      "vmware",
+      "windows",
+      "winforms",
+      "wmi"
+    ],
+    "createdAt": "2023-02-16T07:40:19Z",
+    "updatedAt": "2026-04-21T12:44:38Z",
+    "id": "lifailon/rudocs",
+    "discoveredAt": "2026-04-21T12:45:08.488Z",
+    "score": 55,
+    "scoreBreakdown": {
+      "stars": 0.1182,
+      "forks": 0.084,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Backend",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "Lifailon/rudocs: перспективный open-source проект. Категории: AI/ML, Backend, Data. Интересность: 55/100.",
+    "summaryEn": "Lifailon/rudocs is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 55/100."
+  },
+  {
+    "externalId": "19358114",
+    "source": "github",
+    "url": "https://github.com/night/betterttv",
+    "owner": "night",
+    "name": "betterttv",
+    "title": "night/betterttv",
+    "description": "BetterTTV enhances Twitch with new features, emotes, and more.",
+    "stars": 1272,
+    "forks": 268,
+    "language": "JavaScript",
+    "topics": [
+      "betterttv",
+      "memescale"
+    ],
+    "createdAt": "2014-05-01T21:15:17Z",
+    "updatedAt": "2026-04-21T12:43:55Z",
+    "id": "night/betterttv",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 55,
+    "scoreBreakdown": {
+      "stars": 0.2544,
+      "forks": 0.268,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "night/betterttv: перспективный open-source проект. Категории: Misc. Интересность: 55/100.",
+    "summaryEn": "night/betterttv is a promising open-source project. Categories: Misc. Interest score: 55/100."
+  },
+  {
+    "externalId": "826829976",
+    "source": "github",
+    "url": "https://github.com/FrancescoXX/rustcrab",
+    "owner": "FrancescoXX",
+    "name": "rustcrab",
+    "title": "FrancescoXX/rustcrab",
+    "description": "An Open Source project with everything you need to learn about Rust.",
+    "stars": 502,
+    "forks": 100,
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "backend",
+      "devtools",
+      "frontend",
+      "hacktoberfest",
+      "nextjs",
+      "opensource",
+      "react",
+      "rust",
+      "rust-lang",
+      "rustlang",
+      "tailwindcss",
+      "typescript",
+      "webdevelopment"
+    ],
+    "createdAt": "2024-07-10T13:11:15Z",
+    "updatedAt": "2026-04-21T11:09:51Z",
+    "id": "francescoxx/rustcrab",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 55,
+    "scoreBreakdown": {
+      "stars": 0.1004,
+      "forks": 0.1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "FrancescoXX/rustcrab: перспективный open-source проект. Категории: AI/ML, Frontend, Backend. Интересность: 55/100.",
+    "summaryEn": "FrancescoXX/rustcrab is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 55/100."
+  },
+  {
+    "externalId": "1165671069",
+    "source": "github",
+    "url": "https://github.com/Aryan-Raj3112/episteme",
+    "owner": "Aryan-Raj3112",
+    "name": "episteme",
+    "title": "Aryan-Raj3112/episteme",
+    "description": "A native Android document reader application built with Kotlin and Jetpack Compose.",
+    "stars": 478,
+    "forks": 22,
+    "language": "Kotlin",
+    "topics": [
+      "android",
+      "ebook",
+      "epub",
+      "foss",
+      "jetpack-compose",
+      "kotlin",
+      "opensource",
+      "pdf",
+      "reader"
+    ],
+    "createdAt": "2026-02-24T12:21:11Z",
+    "updatedAt": "2026-04-21T12:42:01Z",
+    "id": "aryan-raj3112/episteme",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 54,
+    "scoreBreakdown": {
+      "stars": 0.0956,
+      "forks": 0.022,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend",
+      "Mobile"
+    ],
+    "status": "active",
+    "summaryRu": "Aryan-Raj3112/episteme: перспективный open-source проект. Категории: Frontend, Mobile. Интересность: 54/100.",
+    "summaryEn": "Aryan-Raj3112/episteme is a promising open-source project. Categories: Frontend, Mobile. Interest score: 54/100."
+  },
+  {
+    "externalId": "923994942",
+    "source": "github",
+    "url": "https://github.com/suitenumerique/drive",
+    "owner": "suitenumerique",
+    "name": "drive",
+    "title": "suitenumerique/drive",
+    "description": "A collaborative file sharing and document management platform that scales. Built with Django and React.",
+    "stars": 403,
+    "forks": 67,
+    "language": "JavaScript",
+    "topics": [
+      "django",
+      "document-management",
+      "drive",
+      "file-sharing",
+      "g2g",
+      "ged",
+      "government",
+      "mit",
+      "mit-license",
+      "opensource",
+      "reactjs",
+      "self-hosted"
+    ],
+    "createdAt": "2025-01-29T08:11:14Z",
+    "updatedAt": "2026-04-21T10:02:45Z",
+    "id": "suitenumerique/drive",
+    "discoveredAt": "2026-04-21T12:45:08.489Z",
+    "score": 54,
+    "scoreBreakdown": {
+      "stars": 0.0806,
+      "forks": 0.067,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "suitenumerique/drive: перспективный open-source проект. Категории: Frontend. Интересность: 54/100.",
+    "summaryEn": "suitenumerique/drive is a promising open-source project. Categories: Frontend. Interest score: 54/100."
+  }
+]
