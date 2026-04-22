@@ -1,6 +1,6 @@
-# 🎯 Product
+# 🏷️ Marketing
 
-> Product-focused apps
+> 
 
 **1 projects** in this category.
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 71/100 |
+| 1 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | — | 100/100 |
 
 ---
 
