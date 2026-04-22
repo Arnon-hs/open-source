@@ -14,10 +14,10 @@
 | 4 | [brave/brave-browser](./brave-brave-browser.md) | ⭐ 22.3k | — | 97/100 |
 | 5 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 12.9k | Swift | 96/100 |
 | 6 | [offa/android-foss](./offa-android-foss.md) | ⭐ 9.9k | Python | 92/100 |
-| 7 | [nightscout/AndroidAPS](./nightscout-androidaps.md) | ⭐ 1.1k | Kotlin | 67/100 |
-| 8 | [LinwoodDev/Butterfly](./linwooddev-butterfly.md) | ⭐ 1.8k | Dart | 65/100 |
-| 9 | [DustinWin/proxy-tools](./dustinwin-proxy-tools.md) | ⭐ 1.5k | — | 61/100 |
-| 10 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
+| 7 | [wordpress-mobile/WordPress-Android](./wordpress-mobile-wordpress-android.md) | ⭐ 3.1k | Kotlin | 84/100 |
+| 8 | [nightscout/AndroidAPS](./nightscout-androidaps.md) | ⭐ 1.1k | Kotlin | 67/100 |
+| 9 | [LinwoodDev/Butterfly](./linwooddev-butterfly.md) | ⭐ 1.8k | Dart | 65/100 |
+| 10 | [DustinWin/proxy-tools](./dustinwin-proxy-tools.md) | ⭐ 1.5k | — | 61/100 |
 
 ---
 
