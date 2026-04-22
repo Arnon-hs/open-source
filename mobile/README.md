@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**10 projects** in this category.
+**9 projects** in this category.
 
 ## Projects
 
@@ -16,8 +16,7 @@
 | 6 | [offa/android-foss](./offa-android-foss.md) | ⭐ 9.9k | Python | 92/100 |
 | 7 | [nightscout/AndroidAPS](./nightscout-androidaps.md) | ⭐ 1.1k | Kotlin | 67/100 |
 | 8 | [LinwoodDev/Butterfly](./linwooddev-butterfly.md) | ⭐ 1.8k | Dart | 65/100 |
-| 9 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 1.9k | C++ | 65/100 |
-| 10 | [DustinWin/proxy-tools](./dustinwin-proxy-tools.md) | ⭐ 1.5k | — | 61/100 |
+| 9 | [DustinWin/proxy-tools](./dustinwin-proxy-tools.md) | ⭐ 1.5k | — | 61/100 |
 
 ---
 
