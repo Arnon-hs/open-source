@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 5.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | 2026-04-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-elizaOS/eliza is an open-source, community-driven project that aims to democratize access to AI-driven autonomous agents, empowering developers and non-experts alike to create and deploy intelligent systems. By providing a versatile and user-friendly platform, eliza enables users to design, train, and integrate autonomous agents into various applications. This project seeks to bridge the gap between AI and mainstream development, making autonomous agents more accessible and applicable to diverse use cases.
+Eliza is an open-source project that offers autonomous agents for various applications, empowering individuals to harness the power of artificial intelligence and machine learning. This project provides accessible tools for creating and integrating AI/ML capabilities, democratizing their use across different domains. By leveraging Eliza, developers and innovators can build more intuitive and intelligent systems.
 
 ---
 

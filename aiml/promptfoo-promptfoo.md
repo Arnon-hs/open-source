@@ -25,7 +25,9 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Promptfoo is an open-source project that allows users to test and evaluate the performance of various AI agents, including GPT, Claude, Gemini, and Llama. It provides a platform for red teaming, pentesting, and vulnerability scanning of AI systems, with features like simple declarative configs and command line integration. Used by prominent AI companies such as OpenAI and Anthropic, Promptfoo facilitates comparison and benchmarking of different AI models.
+Here's a 2-3 sentence summary for the promptfoo/promptfoo open-source project:
+
+Promptfoo is an open-source tool designed for testing and evaluating AI models, agents, and Retrieval-Augmented Generative (RAG) systems. It allows users to compare the performance of various AI models, including GPT, Claude, Gemini, and Llama, and provides a platform for red teaming, pentesting, and vulnerability scanning for AI systems. Used by prominent AI organizations such as OpenAI and Anthropic, promptfoo offers simple declarative configurations and CI/CD integration for seamless testing and evaluation.
 
 ---
 

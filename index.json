@@ -1433,81 +1433,38 @@
     "summaryEn": "firstcontributions/first-contributions is a promising open-source project. Categories: Misc. Interest score: 100/100."
   },
   {
-    "externalId": "450143450",
+    "externalId": "1102293054",
     "source": "github",
-    "url": "https://github.com/Pawdroid/Free-servers",
-    "owner": "Pawdroid",
-    "name": "Free-servers",
-    "title": "Pawdroid/Free-servers",
-    "description": "🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node availability, completely free. Free clash subscription address, free ss/v2ray/trojan node.",
-    "stars": 17080,
-    "forks": 1100,
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "owner": "YouMind-OpenLab",
+    "name": "awesome-nano-banana-pro-prompts",
+    "title": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "description": "🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.",
+    "stars": 11432,
+    "forks": 1226,
+    "language": "TypeScript",
     "topics": [
-      "clash",
-      "client",
-      "fanqiang",
-      "fq",
-      "free-servers",
-      "freefq",
-      "google",
-      "shadowrocket",
-      "shadowshare",
-      "shadowsocks",
-      "socket",
-      "ss",
-      "tizi",
-      "trojan",
-      "v2ray",
-      "vless",
-      "vmess",
-      "xtls"
-    ],
-    "createdAt": "2022-01-20T15:05:23Z",
-    "updatedAt": "2026-04-23T00:00:21Z",
-    "id": "pawdroid/free-servers",
-    "discoveredAt": "2026-04-23T00:01:09.499Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "AI/ML",
-      "Backend",
-      "DevTools"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nПроект Pawdroid/Free-servers представляет собой облачный сервис, предлагающий бесплатные сервисы для обхода географических ограничений и обеспечения доступа к заблокированным ресурсам. На основе AI/ML-технологий, он обеспечивает высокую доступность и качество своих бесплатных узлов, обновляя их каждые 6 часов. Проект также включает в себя бесплатные адреса подписки и узлов для использования сервисов Clash, SS, V2Ray и Trojan.",
-    "summaryEn": "Here's a 2-3 sentence summary for the open-source project:\n\nPawdroid/Free-servers is an open-source project that offers a shared network of high-quality and free nodes, updated every 6 hours, for users to bypass geo-restrictions and access the internet securely. The project includes free subscription addresses for popular VPN and proxy services such as Clash, which enables users to access a range of online content without any restrictions. This project caters to individuals seeking a completely free and reliable solution for secure online browsing."
-  },
-  {
-    "externalId": "1144115288",
-    "source": "github",
-    "url": "https://github.com/manaflow-ai/cmux",
-    "owner": "manaflow-ai",
-    "name": "cmux",
-    "title": "manaflow-ai/cmux",
-    "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-    "stars": 15100,
-    "forks": 1107,
-    "language": "Swift",
-    "topics": [
-      "amp",
-      "claude-code",
-      "codex",
+      "ai-image-generation",
+      "ai-prompts",
+      "awesome",
+      "awesome-list",
       "gemini",
-      "ghostty",
-      "opencode",
-      "terminal",
-      "tmux"
+      "gemini-ai",
+      "google-gemini",
+      "image-generation",
+      "multilingual",
+      "nano-banana",
+      "nano-banana-2",
+      "nano-banana-pro",
+      "nanobanana",
+      "nanobanana-pro",
+      "prompt-engineering",
+      "prompts"
     ],
-    "createdAt": "2026-01-28T10:03:24Z",
-    "updatedAt": "2026-04-23T00:00:07Z",
-    "id": "manaflow-ai/cmux",
-    "discoveredAt": "2026-04-23T00:01:09.500Z",
+    "createdAt": "2025-11-23T07:17:48Z",
+    "updatedAt": "2026-04-23T00:18:14Z",
+    "id": "youmind-openlab/awesome-nano-banana-pro-prompts",
+    "discoveredAt": "2026-04-23T00:19:20.014Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -1520,8 +1477,143 @@
       "AI/ML"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nManaflow-ai/cmux - это open-source проект, представляющий собой кастомизированную версию Ghostty для macOS терминала с функцией вертикальных вкладок и уведомлений для агентов AI-кода. Это уникальная платформа для разработчиков AI и ML, позволяющая оптимизировать процесс разработки и повышать эффективность. Проект предназначен для облегчения взаимодействия с AI-агентами прямо из терминала, что делает его идеальным инструментом для программистов и исследователей в области машинного обучения.",
-    "summaryEn": "Here's a 2-3 sentence summary of the project:\n\nManaflow-ai/cmux is an open-source, AI-driven macOS terminal that combines a customizable interface with vertical tabs and real-time notifications. Built on top of the Ghostty terminal, this project enables seamless integration with AI coding agents, enhancing the developer experience through streamlined collaboration and workflow. By leveraging AI capabilities, cmux aims to revolutionize the way developers interact with their terminals and coding environments."
+    "summaryRu": "YouMind-OpenLab/awesome-nano-banana-pro-prompts - это крупнейшая открытая библиотекаNano Banana Pro-предложений, содержащая более 10 000 отобранных предложений с изображениями-представлениями и поддержкой 16 языков. Проект предназначен для использования с Google Gemini AI и предназначен для генерации изображений. YouMind-OpenLab/awesome-nano-banana-pro-prompts является бесплатным и открытым исходным кодом проектом в области искусственного интеллекта и машинного обучения.",
+    "summaryEn": "Here's a brief summary for the project:\n\nThe awesome-nano-banana-pro-prompts is an extensive open-source library of curated image generation prompts for the Google Gemini AI, featuring over 10,000 prompts in 16 languages, each accompanied by a preview image. This library is designed to facilitate AI image creation and is free for anyone to use. With its extensive language support and diverse range of prompts, it's a valuable resource for developers and artists working with AI image generation."
+  },
+  {
+    "externalId": "688164459",
+    "source": "github",
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "owner": "harvard-edge",
+    "name": "cs249r_book",
+    "title": "harvard-edge/cs249r_book",
+    "description": "Machine Learning Systems",
+    "stars": 23747,
+    "forks": 2850,
+    "language": "JavaScript",
+    "topics": [
+      "artificial-intelligence",
+      "cloud-ml",
+      "computer-systems",
+      "courseware",
+      "deep-learning",
+      "edge-machine-learning",
+      "embedded-ml",
+      "machine-learning",
+      "machine-learning-systems",
+      "mobile-ml",
+      "textbook",
+      "tinyml"
+    ],
+    "createdAt": "2023-09-06T19:31:06Z",
+    "updatedAt": "2026-04-23T00:18:00Z",
+    "id": "harvard-edge/cs249r_book",
+    "discoveredAt": "2026-04-23T00:19:20.015Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "Здесь краткое резюме проекта:\n\n\"Harvard-Edge/cs249r_book\" - это открытый источник курс по машинному обучению системам, направленный на предоставление фундаментальных знаний и практических навыков в области разработки машинного обучения. В этом курсе вы узнаете, как проектировать, реализовывать и оптимизировать системы машинного обучения, чтобы они были эффективными, надежными и масштабируемыми. Этот ресурс предназначен для начинающих и опытных разработчиков, желающих углубиться в мир машинного обучения систем.",
+    "summaryEn": "Here's a brief summary for the harvard-edge/cs249r_book project:\n\nThis open-source book, \"Machine Learning Systems,\" provides an in-depth exploration of the design and implementation of machine learning systems. The book covers topics such as scalability, reliability, and efficiency in machine learning, aiming to help readers build robust and high-performance machine learning systems. By delving into the technical aspects of machine learning systems, this resource equips readers with the knowledge and skills necessary to tackle real-world machine learning challenges."
+  },
+  {
+    "externalId": "985839104",
+    "source": "github",
+    "url": "https://github.com/browseros-ai/BrowserOS",
+    "owner": "browseros-ai",
+    "name": "BrowserOS",
+    "title": "browseros-ai/BrowserOS",
+    "description": "🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.",
+    "stars": 10593,
+    "forks": 1039,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "browser",
+      "browseros",
+      "chromium",
+      "hacktoberfest",
+      "linux",
+      "llm",
+      "lmstudio",
+      "macos",
+      "ollama",
+      "windows"
+    ],
+    "createdAt": "2025-05-18T16:23:54Z",
+    "updatedAt": "2026-04-23T00:17:17Z",
+    "id": "browseros-ai/browseros",
+    "discoveredAt": "2026-04-23T00:19:20.015Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nBrowserOS - это открытый источник агентный браузер, предназначенный для обеспечения автоматизации задач с использованием искусственного интеллекта и машинного обучения. Этот проект предлагает альтернативу таким популярным решениям, как ChatGPT Atlas, Perplexity Comet и Dia, и может использоваться для создания автономных систем и агентов. BrowserOS может быть использован для решения различных задач, включая автоматизацию бизнес-процессов, анализ данных и создание интеллектуальных систем.",
+    "summaryEn": "Here is a 2-3 sentence summary for the BrowserOS open-source project:\n\nBrowserOS is an open-source, agentic browser that offers an alternative to popular AI platforms like ChatGPT, Perplexity, and others. Powered by AI and machine learning, this browser provides a unique interface for users to interact with and control their digital experiences. By harnessing the capabilities of AI, BrowserOS aims to revolutionize the way we navigate and interact with online content."
+  },
+  {
+    "externalId": "221981891",
+    "source": "github",
+    "url": "https://github.com/microsoft/playwright",
+    "owner": "microsoft",
+    "name": "playwright",
+    "title": "microsoft/playwright",
+    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+    "stars": 87065,
+    "forks": 5554,
+    "language": "TypeScript",
+    "topics": [
+      "automation",
+      "chrome",
+      "chromium",
+      "e2e-testing",
+      "electron",
+      "end-to-end-testing",
+      "firefox",
+      "javascript",
+      "playwright",
+      "test",
+      "test-automation",
+      "testing",
+      "testing-tools",
+      "web",
+      "webkit"
+    ],
+    "createdAt": "2019-11-15T18:32:42Z",
+    "updatedAt": "2026-04-23T00:17:12Z",
+    "id": "microsoft/playwright",
+    "discoveredAt": "2026-04-23T00:19:20.015Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "Backend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nPlaywright - мощный фреймворк для автоматизации веб-приложений и тестирования веб-интерфейсов. Он позволяет тестировать Chromium, Firefox и WebKit с единой API, обеспечивая простоту и эффективность в разработке автоматизированных сценариев. Playwright - идеальный инструмент для разработчиков, которые хотят создавать стабильные и высокопроизводительные веб-приложения.",
+    "summaryEn": "Playwright is an open-source, cross-browser automation framework that enables efficient web testing and automation of Chromium, Firefox, and WebKit browsers with a unified API. It simplifies the process of writing automated tests for web applications, allowing developers to focus on writing code rather than handling browser-specific complexities. With Playwright, developers can write tests once and run them across multiple browsers."
   },
   {
     "externalId": "32231207",
@@ -1559,7 +1651,7 @@
     "createdAt": "2015-03-14T20:44:39Z",
     "updatedAt": "2026-04-22T22:03:55Z",
     "id": "endless-sky/endless-sky",
-    "discoveredAt": "2026-04-23T00:01:09.500Z",
+    "discoveredAt": "2026-04-23T00:19:20.015Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -1572,8 +1664,8 @@
       "Misc"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\n\"Endless Sky\" - это открытое-source игровое приложение, где игрок может исследовать космос, торговать товарами и участвовать в захватывающих боях. Игра предлагает богатую игровую механику, позволяющую игрокам управлять космическим кораблем и исследовать множество планет и систем. С помощью Endless Sky ты можешь стать космическим путешественником, торговцем или военным, и выбрать свой собственный путь в огромном пространстве.",
-    "summaryEn": "Endless Sky is an open-source space exploration, trading, and combat game. Players take on the role of a space traveler, navigating through a vast galaxy, engaging in combat, trading with alien species, and uncovering hidden secrets. With its open-world design and moddable gameplay, Endless Sky offers endless possibilities for players to explore and customize their experience."
+    "summaryRu": "Резюме:\n\n\"В игре Endless Sky вы сможете погрузиться в мир космических приключений, торговли и битв. Этот открытый исходный проект предлагает захватывающие истории и неограниченные возможности для путешественников, торговцев и воинов. Мастерство в управлении кораблями и навыках вождения позволят вам исследовать бескрайние просторы космоса и преодолевать опасности.\"",
+    "summaryEn": "Endless Sky is an open-source, space exploration game that combines elements of trading, exploration, and combat. Players are free to explore a vast universe, engage in space battles, trade goods with alien species, and uncover the secrets of the cosmos. With a rich and immersive gameplay experience, Endless Sky offers endless possibilities for space travelers."
   },
   {
     "externalId": "17371412",
@@ -1611,7 +1703,7 @@
     "createdAt": "2014-03-03T16:08:07Z",
     "updatedAt": "2026-04-22T14:49:55Z",
     "id": "h2oai/h2o-3",
-    "discoveredAt": "2026-04-23T00:01:09.500Z",
+    "discoveredAt": "2026-04-23T00:19:20.015Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -1625,99 +1717,8 @@
       "Data"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nH2O - это свободный, распределенный, быстрый и масштабируемый платформенный инструмент для машинного обучения. Он включает в себя широкий спектр алгоритмов, включая глубокое обучение, градиентный бустинг, случайные леса, линейное моделирование и многое другое. Благодаря своей высокой скорости и масштабируемости H2O используется в различных отраслях, включая финансовый сектор, маркетинг и здравоохранение.",
-    "summaryEn": "H2O is an open-source machine learning platform that offers a wide range of scalable and fast algorithms for various applications. Its distributed architecture enables efficient processing of large datasets, supporting techniques such as deep learning, gradient boosting, and ensemble methods. With H2O, users can perform tasks like classification, regression, clustering, and feature engineering, streamlining the machine learning workflow."
-  },
-  {
-    "externalId": "76474200",
-    "source": "github",
-    "url": "https://github.com/apache/hudi",
-    "owner": "apache",
-    "name": "hudi",
-    "title": "apache/hudi",
-    "description": "Upserts, Deletes And Incremental Processing on Big Data.",
-    "stars": 6145,
-    "forks": 2479,
-    "language": "Java",
-    "topics": [
-      "apacheflink",
-      "apachehudi",
-      "apachespark",
-      "bigdata",
-      "data-integration",
-      "datalake",
-      "hudi",
-      "incremental-processing",
-      "stream-processing"
-    ],
-    "createdAt": "2016-12-14T15:53:41Z",
-    "updatedAt": "2026-04-22T23:56:09Z",
-    "id": "apache/hudi",
-    "discoveredAt": "2026-04-23T00:01:09.500Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "Data"
-    ],
-    "status": "active",
-    "summaryRu": "Apache Hudi - это открытое исходное проект, предназначенное для обработки больших данных. Он обеспечивает упрощенные методы для выполнения операций вставки, удаления и инкрементальной обработки, что делает его идеальным решением для организаций, работающих с большими объемами данных. Применяя Apache Hudi, вы можете улучшить производительность и эффективность своих данных.",
-    "summaryEn": "Apache Hudi is an open-source, incremental processing engine for big data that enables efficient upserts, deletes, and incremental data processing. It allows for high-speed data ingestion and updates, making it an ideal solution for large-scale data warehousing and data integration use cases. With Apache Hudi, users can leverage incremental processing to minimize data duplication and reduce storage costs."
-  },
-  {
-    "externalId": "146327667",
-    "source": "github",
-    "url": "https://github.com/vectordotdev/vector",
-    "owner": "vectordotdev",
-    "name": "vector",
-    "title": "vectordotdev/vector",
-    "description": "A high-performance observability data pipeline.",
-    "stars": 21699,
-    "forks": 2104,
-    "language": "Rust",
-    "topics": [
-      "agent",
-      "cloud-native",
-      "data-transformation",
-      "datadog",
-      "etl",
-      "events",
-      "forwarder",
-      "hacktoberfest",
-      "high-performance",
-      "logs",
-      "metrics",
-      "monitoring",
-      "observability",
-      "pipelines",
-      "rust-lang",
-      "stream-processing",
-      "telemetry",
-      "traces"
-    ],
-    "createdAt": "2018-08-27T16:57:34Z",
-    "updatedAt": "2026-04-22T23:55:45Z",
-    "id": "vectordotdev/vector",
-    "discoveredAt": "2026-04-23T00:01:09.500Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "Data"
-    ],
-    "status": "active",
-    "summaryRu": "Вектор - это высокопроизводный пайплайн для наблюдения за данными, предназначенный для обработки и анализа информации о системах и приложениях. Этот открытый код проект предлагает эффективную и масштабируемую платформу для сбора, хранения и анализа данных наблюдения. Основным преимуществом использования Вектора является его способность обеспечить быструю и эффективную обработку данных в реальном времени.",
-    "summaryEn": "The vectordotdev/vector project is an open-source, high-performance observability data pipeline that enables efficient data collection, processing, and analysis. It provides a scalable and flexible framework for handling large volumes of observability data, making it suitable for use in complex distributed systems and cloud-native applications. By leveraging vector-based processing, vector optimizes data pipelines for speed and efficiency."
+    "summaryRu": "Резюме:\n\nПроект H2O-3 представляет собой открытое исходное, распределенное, быстрое и масштабируемое платформу машинного обучения, позволяющую реализовывать различные алгоритмы, включая глубокое обучение, градиентный бустинг, случайные леса и многое другое. Платформа предоставляет возможность автоматизации процесса машинного обучения и предоставляет широкий спектр функций и алгоритмов для решения различных задач. H2O-3 предназначен для использования в различных областях, включая аналитику и разработку искусственного интеллекта.",
+    "summaryEn": "H2O-3 is an open-source, distributed, and scalable machine learning platform that offers a wide range of algorithms for modeling and analysis, including deep learning, gradient boosting, and generalized linear modeling. With its extensive library of algorithms, including random forest, K-means, and support vector machines, H2O-3 enables users to build and deploy high-performance machine learning models. By leveraging H2O-3, developers can simplify the machine learning process and streamline their workflow."
   },
   {
     "externalId": "157554479",
@@ -1753,9 +1754,9 @@
       "webassembly"
     ],
     "createdAt": "2018-11-14T13:41:00Z",
-    "updatedAt": "2026-04-22T23:54:37Z",
+    "updatedAt": "2026-04-23T00:14:45Z",
     "id": "meshery/meshery",
-    "discoveredAt": "2026-04-23T00:01:09.500Z",
+    "discoveredAt": "2026-04-23T00:19:20.015Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -1770,45 +1771,35 @@
       "DevOps/Infra"
     ],
     "status": "active",
-    "summaryRu": "Резюме для проекта meshery/meshery:\n\nMeshery — это облачный продукт для управления облачными приложениями, предназначенный для упрощения разработки, тестирования и развертывания облачных приложений. Это кроссплатформенный инструмент, который позволяет создавать и управлять сетями приложений в облачной среде. Meshery позволяет разработчикам и инфраструктурным специалистам работать вместе, чтобы создавать и поддерживать сложные облачные экосистемы.",
-    "summaryEn": "Meshery is an open-source, cloud-native application manager designed to simplify the deployment, management, and scaling of complex systems. As a unified platform, Meshery streamlines the process of managing microservices, APIs, and other cloud-native applications, making it an essential tool for modern DevOps and infrastructure teams. With Meshery, developers can easily deploy and manage their applications across multiple environments, while also ensuring consistent performance and security."
+    "summaryRu": "Резюме:\n\nМешери (Meshery) - это облачный сервис для управления cloud-ориентированными приложениями. Это уникальная платформа, которая позволяет администрировать и управлять различными облачными средами в одном месте. Meshery предоставляет функциональность для управления и оптимизации приложений в облаке, делая его ценным инструментом для разработчиков и DevOps-специалистов.",
+    "summaryEn": "Meshery is an open-source, cloud-native manager that streamlines the process of deploying, managing, and securing microservices-based applications. It provides a unified interface for automating the lifecycle of microservices, from development to production, and supports various service meshes such as Istio, Linkerd, and Consul. With Meshery, developers can easily manage and optimize their applications across multiple environments and service meshes."
   },
   {
-    "externalId": "41986369",
+    "externalId": "1385122",
     "source": "github",
-    "url": "https://github.com/pingcap/tidb",
-    "owner": "pingcap",
-    "name": "tidb",
-    "title": "pingcap/tidb",
-    "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
-    "stars": 40001,
-    "forks": 6169,
-    "language": "Go",
+    "url": "https://github.com/matplotlib/matplotlib",
+    "owner": "matplotlib",
+    "name": "matplotlib",
+    "title": "matplotlib/matplotlib",
+    "description": "matplotlib: plotting with Python",
+    "stars": 22730,
+    "forks": 8325,
+    "language": "Python",
     "topics": [
-      "agent",
-      "agent-context",
-      "agent-memory",
-      "agentic",
-      "ai",
-      "cloud-native",
-      "database",
-      "distributed-database",
-      "distributed-transactions",
-      "go",
-      "hacktoberfest",
-      "htap",
-      "memory",
-      "mysql",
-      "mysql-compatibility",
-      "scale",
-      "serverless",
-      "sql",
-      "tidb"
+      "data-science",
+      "data-visualization",
+      "gtk",
+      "matplotlib",
+      "plotting",
+      "python",
+      "qt",
+      "tk",
+      "wx"
     ],
-    "createdAt": "2015-09-06T04:01:52Z",
-    "updatedAt": "2026-04-22T23:49:48Z",
-    "id": "pingcap/tidb",
-    "discoveredAt": "2026-04-23T00:01:09.500Z",
+    "createdAt": "2011-02-19T03:17:12Z",
+    "updatedAt": "2026-04-23T00:14:34Z",
+    "id": "matplotlib/matplotlib",
+    "discoveredAt": "2026-04-23T00:19:20.015Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -1818,13 +1809,11 @@
       "sourceTrust": 1
     },
     "categories": [
-      "AI/ML",
-      "Frontend",
-      "Backend"
+      "Data"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nТиДиБ (TiDB) - это распределенный реляционный базовый данных, подходящий для агрессивных рабочих нагрузок, которые растут неожиданно. Он обеспечивает гарантии ACID и встроенную поддержку транзакций, аналитики и векторного поиска, не создавая разделений данных или шума соседних процессов. ТиДиБ позволяет легко масштабироваться без ограничений инфраструктуры.",
-    "summaryEn": "TiDB is an open-source, distributed relational database designed to handle unpredictable, high-traffic workloads while maintaining strict ACID guarantees. It offers native support for transactions, analytics, and vector search, ensuring seamless integration and scalability without data silos or noisy neighbors. With TiDB, organizations can break through infrastructure ceilings and achieve efficient, dynamic data management."
+    "summaryRu": "Платформа matplotlib - это популярный open-source проект для создания графиков с использованием Python. Он позволяет разработчикам легко и эффективно визуализировать данные, создавая разнообразные типы графиков, включая линейные, столбчатые, диаграммы пи и многое другое. Проект matplotlib используется в научных исследованиях, анализе данных и визуализации, и является одним из наиболее широко используемых инструментов для визуализации в сообществе Python.",
+    "summaryEn": "Matplotlib is a widely-used, open-source plotting library for Python that enables users to create high-quality 2D and 3D visualizations for data analysis and scientific research. With its extensive range of customizable options and tools, matplotlib facilitates data representation and exploration. It is an essential tool for data scientists, researchers, and developers working with Python."
   },
   {
     "externalId": "7716883",
@@ -1848,9 +1837,9 @@
       "srs"
     ],
     "createdAt": "2013-01-20T13:55:53Z",
-    "updatedAt": "2026-04-22T23:49:42Z",
+    "updatedAt": "2026-04-23T00:14:17Z",
     "id": "ankidroid/anki-android",
-    "discoveredAt": "2026-04-23T00:01:09.500Z",
+    "discoveredAt": "2026-04-23T00:19:20.015Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -1863,8 +1852,8 @@
       "Mobile"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nAnkiDroid - бесплатная и открытое программное обеспечение для создания и изучения flash-карточек на устройстве Android. Программа позволяет пользователю создавать и редактировать карточки с изображениями, текстом и аудио, а также использовать различные методы повторения и тестирующих стратегий для максимального улучшения запоминания. AnkiDroid идеально подходит для тех, кто хочет улучшить свои навыки памяти и усвоения информации с помощью эффективного и индивидуального подхода.",
-    "summaryEn": "AnkiDroid is an open-source mobile app that brings the popular Anki flashcard system to Android devices. By leveraging spaced repetition and other memory aid techniques, users can effectively retain and recall vast amounts of information. This app offers a convenient way to learn and review material on-the-go."
+    "summaryRu": "Резюме:\n\nAnkiDroid - кроссплатформенная открытая система повторения flash-карточек под управлением Android. Программа позволяет создавать и использовать flash-карточки для улучшения памяти и обучения. AnkiDroid - мощный инструмент для достижения сверхчеловеческой информационной емкости.",
+    "summaryEn": "AnkiDroid is an open-source application that allows users to access Anki flashcards on their Android devices, providing a convenient and portable way to study and retain information. The app leverages the power of spaced repetition to optimize learning, helping users achieve superhuman information retention. By syncing with the desktop version of Anki, users can access their comprehensive flashcard libraries across multiple platforms."
   },
   {
     "externalId": "90506918",
@@ -1893,9 +1882,9 @@
       "rapids"
     ],
     "createdAt": "2017-05-07T03:43:37Z",
-    "updatedAt": "2026-04-22T23:43:53Z",
+    "updatedAt": "2026-04-23T00:11:37Z",
     "id": "rapidsai/cudf",
-    "discoveredAt": "2026-04-23T00:01:09.501Z",
+    "discoveredAt": "2026-04-23T00:19:20.016Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -1910,8 +1899,146 @@
       "Data"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nCuDF (GPU DataFrame Library) - это открытое源 библиотека, которая предоставляет высокопроизводительные функции для работы с данными на GPU-устройствах. cuDF предназначена для использования в задачах машинного обучения и анализа данных, позволяя пользователю выполнять операции с большими данными в реальном времени. cuDF - это мощный инструмент для разработчиков, которые хотят повысить производительность своих приложений и работающих с данными.",
-    "summaryEn": "cuDF is an open-source, GPU-accelerated DataFrame library that enables users to efficiently process large datasets. Developed by the team at Rapids AI, cuDF allows for high-performance data manipulation and analysis on NVIDIA GPUs, making it an ideal choice for AI/ML and data-intensive applications. By leveraging GPU acceleration, cuDF significantly speeds up data processing tasks, reducing computational time and increasing productivity."
+    "summaryRu": "cuDF - это быстрое и масштабируемое библиотека GPU DataFrame, предназначенная для работы с большими данными в глубоком обучении и машинном обучении. cuDF позволяет эффективно обрабатывать и манипулировать данными на GPU, что ускоряет процесс обучения и прогнозирования. cuDF - это ключевой компонент экосистемы RapidsAI, предназначенный для ускорения вычислений на GPU и повышения производительности при работе с данными в AI и ML.",
+    "summaryEn": "cuDF is an open-source, GPU-accelerated DataFrame library built on top of Apache Arrow, designed to provide high-performance data processing and analysis capabilities for artificial intelligence and machine learning applications. Developed by the RapidAPI team, cuDF leverages NVIDIA's CUDA technology to enable fast and scalable data manipulation and analysis on GPU hardware. This allows data scientists and engineers to accelerate their workflows and unlock new insights from large datasets."
+  },
+  {
+    "externalId": "161133770",
+    "source": "github",
+    "url": "https://github.com/feast-dev/feast",
+    "owner": "feast-dev",
+    "name": "feast",
+    "title": "feast-dev/feast",
+    "description": "The Open Source Feature Store for AI/ML",
+    "stars": 6973,
+    "forks": 1302,
+    "language": "Python",
+    "topics": [
+      "big-data",
+      "data-engineering",
+      "data-quality",
+      "data-science",
+      "feature-store",
+      "features",
+      "machine-learning",
+      "ml",
+      "mlops",
+      "python"
+    ],
+    "createdAt": "2018-12-10T07:20:15Z",
+    "updatedAt": "2026-04-23T00:09:04Z",
+    "id": "feast-dev/feast",
+    "discoveredAt": "2026-04-23T00:19:20.016Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\n\"Feast - это открытый источник хранилища функций для AI и ML, предоставляющий удобное и безопасное хранение, обновление и управление функциональными данными в масштабах кластера. Это решение для интеграции и управления данными, которое помогает обеспечить единый источник истины для машинного обучения и анализа данных. Благодаря Feast, разработчики могут сосредоточиться на поиске решений, а не тратить время на настройку и обслуживание хранилища функций.\"",
+    "summaryEn": "Feast is an open-source feature store designed to enable efficient and scalable data management for AI and machine learning (ML) applications. It provides a centralized repository for storing, managing, and serving feature data, allowing data scientists and engineers to focus on building and deploying ML models. By standardizing feature data and workflow, Feast facilitates collaboration and accelerates the development of data-driven AI and ML projects."
+  },
+  {
+    "externalId": "3618133",
+    "source": "github",
+    "url": "https://github.com/web-platform-tests/wpt",
+    "owner": "web-platform-tests",
+    "name": "wpt",
+    "title": "web-platform-tests/wpt",
+    "description": "Test suites for Web platform specs — including WHATWG, W3C, and others",
+    "stars": 5896,
+    "forks": 3784,
+    "language": "HTML",
+    "topics": [
+      "blink",
+      "browser",
+      "dom",
+      "firefox",
+      "gecko",
+      "google-chrome",
+      "html",
+      "javascript",
+      "microsoft-edge",
+      "opera",
+      "safari",
+      "test-automation",
+      "test-runner",
+      "testing",
+      "w3c",
+      "web-development",
+      "web-standards",
+      "webkit",
+      "whatwg"
+    ],
+    "createdAt": "2012-03-04T12:58:11Z",
+    "updatedAt": "2026-04-23T00:03:31Z",
+    "id": "web-platform-tests/wpt",
+    "discoveredAt": "2026-04-23T00:19:20.016Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nПроект web-platform-tests/wpt представляет собой набор тестовых сценариев для веб-платформы, включая спецификации WHATWG, W3C и других. Он предназначен для проверки соответствия реализаций веб-технологий определенным стандартам. Проект предлагает широкий спектр возможностей для разработчиков, включая интеграцию с AI/ML, frontend-разработку и использование DevTools.",
+    "summaryEn": "The web-platform-tests/wpt project is an open-source initiative that provides comprehensive test suites for various Web platform specifications. This includes testing standards from organizations such as WHATWG, W3C, and others to ensure compatibility and interoperability across different browsers and platforms. By contributing to this project, developers can help improve the overall quality and reliability of the Web platform."
+  },
+  {
+    "externalId": "204086862",
+    "source": "github",
+    "url": "https://github.com/streamlit/streamlit",
+    "owner": "streamlit",
+    "name": "streamlit",
+    "title": "streamlit/streamlit",
+    "description": "Streamlit — A faster way to build and share data apps.",
+    "stars": 44318,
+    "forks": 4213,
+    "language": "Python",
+    "topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "developer-tools",
+      "machine-learning",
+      "python",
+      "streamlit"
+    ],
+    "createdAt": "2019-08-24T00:14:52Z",
+    "updatedAt": "2026-04-23T00:00:54Z",
+    "id": "streamlit/streamlit",
+    "discoveredAt": "2026-04-23T00:19:20.016Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "DevTools"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме проекта Streamlit:\n\nStreamlit - это быстрый и легкий инструмент для создания и обмена приложениями для работы с данными, позволяющий разработчикам сосредоточиться на важном - развитии приложений, а не на создании GUI. Streamlit предоставляет простой и интуитивно понятный интерфейс, позволяющий быстро создавать интерактивные приложения для анализа и визуализации данных, что делает его идеальным инструментом для Data Scientists и разработчиков. С Streamlit любые данные могут быть легко визуализированы и интерактивно обрабатываться, что делает его отличным выбором для создания данных приложений.",
+    "summaryEn": "Streamlit is an open-source project that enables users to rapidly build and share data-focused applications, simplifying the process of creating interactive data visualizations and machine learning models. With Streamlit, developers can create custom data apps with a variety of libraries and frameworks, and easily share them with others. This project offers a flexible and user-friendly way to explore and communicate complex data insights."
   },
   {
     "externalId": "649170660",
@@ -1921,7 +2048,7 @@
     "name": "anything-llm",
     "title": "Mintplex-Labs/anything-llm",
     "description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
-    "stars": 58788,
+    "stars": 58789,
     "forks": 6353,
     "language": "JavaScript",
     "topics": [
@@ -1946,9 +2073,9 @@
       "web-scraping"
     ],
     "createdAt": "2023-06-04T02:29:14Z",
-    "updatedAt": "2026-04-22T23:54:03Z",
+    "updatedAt": "2026-04-23T00:12:41Z",
     "id": "mintplex-labs/anything-llm",
-    "discoveredAt": "2026-04-23T00:01:09.501Z",
+    "discoveredAt": "2026-04-23T00:19:20.016Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -1963,46 +2090,45 @@
       "Data"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nanything-llm - всеобъемлющий акселератор продуктивности на основе AI, который работает напрямую на устройстве и ставит в приоритет пользовательскую конфиденциальность. Он не требует настраиваемого или конфигурируемого процесса, обеспечивая простую и эффективную работу. anything-llm предназначен для использования в категориях AI/ML, Backend и Data.",
-    "summaryEn": "Here's a 2-3 sentence summary for the project:\n\nanything-llm is an open-source, all-in-one AI productivity accelerator that prioritizes on-device processing and user privacy. This project eliminates the need for complex setup or configuration, allowing users to easily integrate AI capabilities into their workflow. By leveraging local processing, anything-llm provides a seamless and secure experience for users looking to enhance their productivity with AI-driven tools."
+    "summaryRu": "\"Anything-LLM - всеобъемлющий продукт для ускорения продуктивности с помощью искусственного интеллекта. Он предназначен для работы на устройстве и приоритетно ставит конфиденциальность, не требуя настройки или конфигурации. Это все-в-одном решение для использования языковых моделей машинного обучения.\"",
+    "summaryEn": "Here's a brief summary for the open-source project:\n\nanything-llm is an all-in-one AI productivity accelerator that prioritizes on-device and privacy-first functionality, eliminating the need for complex setup or configuration. This innovative project empowers users to harness the power of AI without compromising their data security. By providing a seamless experience, anything-llm accelerates productivity and fosters creativity in a secure and intuitive environment."
   },
   {
-    "externalId": "774497032",
+    "externalId": "787076358",
     "source": "github",
-    "url": "https://github.com/MervinPraison/PraisonAI",
-    "owner": "MervinPraison",
-    "name": "PraisonAI",
-    "title": "MervinPraison/PraisonAI",
-    "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.",
-    "stars": 6973,
-    "forks": 1065,
-    "language": "Python",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "owner": "firecrawl",
+    "name": "firecrawl",
+    "title": "firecrawl/firecrawl",
+    "description": "🔥 The API to search, scrape, and interact with the web for AI",
+    "stars": 111621,
+    "forks": 7115,
+    "language": "TypeScript",
     "topics": [
-      "agents",
       "ai",
-      "ai-agent-framework",
-      "ai-agent-sdk",
       "ai-agents",
-      "ai-agents-framework",
-      "ai-agents-sdk",
-      "ai-framwork",
-      "aiagent",
-      "aiagentframework",
-      "aiagents",
-      "aiagentsframework",
-      "claw",
-      "framework",
-      "multi-agent",
-      "multi-agent-system",
-      "multi-agent-systems",
-      "multi-agents",
-      "multi-ai-agents",
-      "openclaw"
+      "ai-crawler",
+      "ai-scraping",
+      "ai-search",
+      "crawler",
+      "data-extraction",
+      "html-to-markdown",
+      "llm",
+      "markdown",
+      "scraper",
+      "scraping",
+      "web-crawler",
+      "web-data",
+      "web-data-extraction",
+      "web-scraper",
+      "web-scraping",
+      "web-search",
+      "webscraping"
     ],
-    "createdAt": "2024-03-19T16:45:25Z",
-    "updatedAt": "2026-04-22T23:34:08Z",
-    "id": "mervinpraison/praisonai",
-    "discoveredAt": "2026-04-23T00:01:09.501Z",
+    "createdAt": "2024-04-15T21:02:29Z",
+    "updatedAt": "2026-04-23T00:18:38Z",
+    "id": "firecrawl/firecrawl",
+    "discoveredAt": "2026-04-23T00:19:20.016Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2013,11 +2139,12 @@
     },
     "categories": [
       "AI/ML",
-      "Frontend"
+      "Backend",
+      "Data"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nPraisonAI - это open-source проект, предлагающий возможности создания автономных агентов для автоматизации различных задач, таких как исследование, планирование, кодирование и выполнение задач. Проект позволяет разрабатывать и развертывать такие агенты всего за 5 строк кода, обеспечивая поддержку более 100 различных модели языковых моделей (LLM). С помощью PraisonAI можно создавать 24/7 AI-работников, которые могут облегчить процесс разработки и повышать производительность.",
-    "summaryEn": "PraisonAI is an open-source project that enables developers to deploy a 24/7 AI workforce with minimal code, allowing for autonomous research, planning, coding, and task execution. This AI solution features built-in memory, Retrieval-Augmented Generation (RAG) capabilities, and support for over 100 Large Language Models (LLMs). With PraisonAI, teams can automate repetitive tasks and focus on high-value contributions."
+    "summaryRu": "Файркрэлл (firecrawl/firecrawl) - это открытый API, предназначенный для поиска, скрапинга и взаимодействия с веб-содержимым для использования в применениях искусственного интеллекта (AI). Этот инструмент позволяет разработчикам запрашивать и анализировать данные с веб-страниц, что может быть полезно для различных задач, включая машинное обучение и добычу данных. Firecrawl обеспечивает простой и эффективный доступ к веб-ресурсам, что делает его ценным инструментом для исследователей и разработчиков в области AI и ML.",
+    "summaryEn": "Firecrawl is an open-source API designed to facilitate the search, scraping, and interaction with web data, primarily aimed at supporting artificial intelligence (AI) and machine learning (ML) applications. This powerful tool enables developers to efficiently gather and process web data, catering to various AI use cases. By leveraging Firecrawl, developers can accelerate their projects and unlock new possibilities in AI-driven research and development."
   },
   {
     "externalId": "1024554267",
@@ -2027,8 +2154,8 @@
     "name": "hermes-agent",
     "title": "NousResearch/hermes-agent",
     "description": "The agent that grows with you",
-    "stars": 110625,
-    "forks": 16043,
+    "stars": 110641,
+    "forks": 16046,
     "language": "Python",
     "topics": [
       "ai",
@@ -2049,9 +2176,9 @@
       "openclaw"
     ],
     "createdAt": "2025-07-22T22:22:28Z",
-    "updatedAt": "2026-04-23T00:00:09Z",
+    "updatedAt": "2026-04-23T00:18:09Z",
     "id": "nousresearch/hermes-agent",
-    "discoveredAt": "2026-04-23T00:01:09.501Z",
+    "discoveredAt": "2026-04-23T00:19:20.016Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2064,8 +2191,108 @@
       "AI/ML"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nNousResearch/hermes-agent - это открытый исходный проект, который предоставляет гибридный агент, объединяющий возможности искусственного интеллекта и машинного обучения для решения сложных задач. Этот агент предназначен для роста и адаптации вместе с пользователем, обеспечивая персонализированную и эффективную работу. Проект предназначен для использования в различных областях, включая AI/ML разработку, исследовательские задачи и инженерные приложения.",
-    "summaryEn": "Here's a brief summary for the NousResearch/hermes-agent project:\n\nHermes-Agent is an open-source project that enables the growth and evolution of artificial intelligence (AI) and machine learning (ML) capabilities. This dynamic platform empowers users to continuously train and adapt their AI models, ensuring they stay up-to-date with changing data landscapes and emerging trends. By fostering a self-improving AI ecosystem, Hermes-Agent facilitates the development of more sophisticated and effective AI applications."
+    "summaryRu": "Резюме:\n\nNousResearch/hermes-agent - это открытое-source решение для интеграции искусственного интеллекта (AI) и машинного обучения (ML) в различные бизнес-процессы. Agent, который растет с вами - так можно описать эту интеллектуальную систему, которая адаптируется под конкретные потребности и задачи. Проект предлагает гибкую и Highly Scalable платформу для внедрения AI/ML решений в различные отрасли.",
+    "summaryEn": "Hermes-agent is an open-source project that offers a dynamic and adaptable AI/ML agent capable of evolving and improving over time. This flexible agent can be integrated with various systems, allowing it to learn and grow alongside its user or application. By leveraging its modular design, developers can customize and extend the agent to suit their specific needs and goals."
+  },
+  {
+    "externalId": "671269505",
+    "source": "github",
+    "url": "https://github.com/BerriAI/litellm",
+    "owner": "BerriAI",
+    "name": "litellm",
+    "title": "BerriAI/litellm",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+    "stars": 44326,
+    "forks": 7478,
+    "language": "Python",
+    "topics": [
+      "ai-gateway",
+      "anthropic",
+      "azure-openai",
+      "bedrock",
+      "gateway",
+      "langchain",
+      "litellm",
+      "llm",
+      "llm-gateway",
+      "llmops",
+      "mcp-gateway",
+      "openai",
+      "openai-proxy",
+      "vertex-ai"
+    ],
+    "createdAt": "2023-07-27T00:09:52Z",
+    "updatedAt": "2026-04-23T00:14:19Z",
+    "id": "berriai/litellm",
+    "discoveredAt": "2026-04-23T00:19:20.017Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nBerriAI/litellm - это открытый исходный код проект, предоставляющий Python SDK и прокси-сервер (Gateway AI) для взаимодействия с более чем 100 API LLM в формате OpenAI (или native). Это решение имеет встроенные функции, такие как мониторинг затрат, ограничения, балансирование нагрузки и логирование, что делает его идеальным решением для разработчиков и исследователей в области искусственного интеллекта. Проект поддерживает несколько облачных платформ, включая Bedrock, Azure, OpenAI и другие.",
+    "summaryEn": "Here's a 2-3 sentence summary of the open-source project:\n\nlitellm is an open-source Python SDK and AI Gateway that provides a unified interface to access over 100 large language model (LLM) APIs from various platforms, including OpenAI, Azure, and HuggingFace. This project offers features such as cost tracking, guardrails, load balancing, and logging to streamline AI development and deployment. By leveraging litellm, developers can easily integrate and manage LLM APIs across different services."
+  },
+  {
+    "externalId": "655515393",
+    "source": "github",
+    "url": "https://github.com/CopilotKit/CopilotKit",
+    "owner": "CopilotKit",
+    "name": "CopilotKit",
+    "title": "CopilotKit/CopilotKit",
+    "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+    "stars": 30380,
+    "forks": 3924,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agent-native",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agent",
+      "ai-assistant",
+      "assistant",
+      "assistant-chat-bots",
+      "copilot",
+      "copilot-chat",
+      "generative-ui",
+      "js",
+      "llm",
+      "nextjs",
+      "open-source",
+      "react",
+      "reactjs",
+      "ts",
+      "typescript"
+    ],
+    "createdAt": "2023-06-19T04:08:31Z",
+    "updatedAt": "2026-04-23T00:11:07Z",
+    "id": "copilotkit/copilotkit",
+    "discoveredAt": "2026-04-23T00:19:20.017Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nCopilotKit - это открытый исходный код проект, представляющий передовой фронтенд-стэк для агентов и генеративной интерфейсной разработки. Он сочетает в себе реактивные и ангулярные компоненты для создания высокопроизводительных и гибких интерфейсов. Проект CopilotKit является создателем AG-UI протокола, внедряющего инновационные подходы в разработке интерфейсов.",
+    "summaryEn": "CopilotKit is an open-source frontend stack designed for agents and generative UI, combining the strengths of React and Angular frameworks. This comprehensive toolkit enables developers to create innovative and dynamic interfaces, leveraging its capabilities to push the boundaries of user experience. As the makers of the AG-UI Protocol, CopilotKit aims to revolutionize the field of AI-powered user interface development."
   },
   {
     "externalId": "817326197",
@@ -2090,9 +2317,9 @@
       "vision"
     ],
     "createdAt": "2024-06-19T13:23:56Z",
-    "updatedAt": "2026-04-22T23:59:36Z",
+    "updatedAt": "2026-04-23T00:10:21Z",
     "id": "screenpipe/screenpipe",
-    "discoveredAt": "2026-04-23T00:01:09.501Z",
+    "discoveredAt": "2026-04-23T00:19:20.017Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2105,8 +2332,109 @@
       "AI/ML"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nScreenpipe - это open-source проект, целью которого является автоматизация задач на основе ваших действий. Это решение для интеграции искусственного интеллекта (AI) и машинного обучения (ML) в повседневную жизнь, позволяющее агентам работать для вас, основываясь на ваших действиях. Проект предназначен для обеспечения того, чтобы AI знала, что вы делаете, и могла выполнять соответствующие действия.",
-    "summaryEn": "Screenpipe is an open-source project that utilizes AI to monitor and respond to user actions, effectively creating a personalized assistant that learns and adapts to your behavior. This AI-powered tool enables agents to perform tasks based on your activities, streamlining workflows and enhancing productivity. By leveraging machine learning, Screenpipe aims to bridge the gap between user intent and automated action."
+    "summaryRu": "Резюме:\n\nScreenpipe - это инновационный open-source проект, объединяющий искусственный интеллект и автоматизацию задач. Он позволяет создавать агентов, которые реагируют на ваши действия и выполняют заданные задачи на основе понимания контекста. С Screenpipe вы сможете освободить свое время на более важные задачи, доверяя AI выполнению routine задач.",
+    "summaryEn": "Here's a brief summary of the screenpipe project:\n\nScreenpipe is an open-source project that enables AI to track and respond to user actions in real-time. By running agents that work based on user behavior, screenpipe provides a platform for AI to better understand and assist users. This project aims to bridge the gap between AI capabilities and user needs."
+  },
+  {
+    "externalId": "71932349",
+    "source": "github",
+    "url": "https://github.com/ray-project/ray",
+    "owner": "ray-project",
+    "name": "ray",
+    "title": "ray-project/ray",
+    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+    "stars": 42262,
+    "forks": 7485,
+    "language": "Python",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "deployment",
+      "distributed",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "large-language-models",
+      "llm",
+      "llm-inference",
+      "llm-serving",
+      "machine-learning",
+      "optimization",
+      "parallel",
+      "python",
+      "pytorch",
+      "ray",
+      "reinforcement-learning",
+      "rllib",
+      "serving",
+      "tensorflow"
+    ],
+    "createdAt": "2016-10-25T19:38:30Z",
+    "updatedAt": "2026-04-23T00:00:34Z",
+    "id": "ray-project/ray",
+    "discoveredAt": "2026-04-23T00:19:20.017Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Data",
+      "Marketing"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nРай (Ray) - это open-source движок для вычислений с использованием искусственного интеллекта. Он включает в себя распределенную ядро и набор библиотек для ускорения задач машинного обучения. Ray предназначен для ускорения и масштабирования ML-работload и предоставляет инструменты для разработчиков и исследователей в области AI и ML.",
+    "summaryEn": "Here's a 2-3 sentence summary for the Ray project:\n\nRay is an open-source AI compute engine that provides a distributed runtime and a suite of libraries for accelerating machine learning (ML) workloads. Its scalable architecture enables efficient processing of complex AI tasks, making it an ideal choice for researchers, developers, and organizations working with large-scale ML projects. With Ray, users can harness the power of distributed computing to speed up ML model training, inference, and other AI-related tasks."
+  },
+  {
+    "externalId": "826170402",
+    "source": "github",
+    "url": "https://github.com/elizaOS/eliza",
+    "owner": "elizaOS",
+    "name": "eliza",
+    "title": "elizaOS/eliza",
+    "description": "Autonomous agents for everyone",
+    "stars": 18233,
+    "forks": 5496,
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agentic",
+      "ai",
+      "autonomous",
+      "chatbot",
+      "crypto",
+      "discord",
+      "eliza",
+      "elizaos",
+      "framework",
+      "plugins",
+      "rag",
+      "slack",
+      "swarm",
+      "telegram"
+    ],
+    "createdAt": "2024-07-09T07:55:40Z",
+    "updatedAt": "2026-04-23T00:14:06Z",
+    "id": "elizaos/eliza",
+    "discoveredAt": "2026-04-23T00:19:20.017Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nЭлектронный проект elizaOS/eliza представляет собой набор автономных агентов, предназначенных для предоставления мощных возможностей в области искусственного интеллекта и машинного обучения широкому кругу пользователей. Этот проект предлагает новые возможности для разработки и внедрения интеллектуальных систем, упрощая процесс создания автономных агентов для решения сложных задач. elizaOS/eliza - это открытое программное обеспечение, которое позволяет каждому получить доступ к технологиям AI/ML и создавать собственные инновационные решения.",
+    "summaryEn": "Eliza is an open-source project that offers autonomous agents for various applications, empowering individuals to harness the power of artificial intelligence and machine learning. This project provides accessible tools for creating and integrating AI/ML capabilities, democratizing their use across different domains. By leveraging Eliza, developers and innovators can build more intuitive and intelligent systems."
   },
   {
     "externalId": "633262635",
@@ -2138,7 +2466,7 @@
     "createdAt": "2023-04-27T06:04:01Z",
     "updatedAt": "2026-04-22T23:59:03Z",
     "id": "onyx-dot-app/onyx",
-    "discoveredAt": "2026-04-23T00:01:09.502Z",
+    "discoveredAt": "2026-04-23T00:19:20.017Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2152,251 +2480,8 @@
       "Frontend"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nОнукс (Onyx) - это открытый исходный код AI-платформа, которая предоставляет возможности чата с использованием передовых функций, работающих с любыми моделями языкового процессора (LLM). Платформа предназначена для решения задач AI и машинного обучения, а также обеспечивает инновационные возможности для frontend-разработчиков. Онукс позволяет создавать интуитивно понятные и эффективные решения для управления искусственными интеллектом и разговорными системами.",
-    "summaryEn": "Onyx is an open-source AI platform that enables AI chat with advanced features, compatible with various Large Language Models (LLMs). This versatile platform offers a wide range of capabilities, making it suitable for various applications and integrations. By leveraging Onyx's flexible architecture, developers can create innovative AI-powered solutions."
-  },
-  {
-    "externalId": "644461337",
-    "source": "github",
-    "url": "https://github.com/vercel/ai",
-    "owner": "vercel",
-    "name": "ai",
-    "title": "vercel/ai",
-    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ",
-    "stars": 23710,
-    "forks": 4253,
-    "language": "TypeScript",
-    "topics": [
-      "anthropic",
-      "artificial-intelligence",
-      "gemini",
-      "generative-ai",
-      "generative-ui",
-      "javascript",
-      "language-model",
-      "llm",
-      "nextjs",
-      "openai",
-      "react",
-      "svelte",
-      "typescript",
-      "vercel",
-      "vue"
-    ],
-    "createdAt": "2023-05-23T15:04:08Z",
-    "updatedAt": "2026-04-22T23:56:14Z",
-    "id": "vercel/ai",
-    "discoveredAt": "2026-04-23T00:01:09.502Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "AI/ML",
-      "Frontend"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\n\"Версел/АИ - бесплатная открытая библиотека, разработанная командой создателей Next.js, для создания приложений и агентов с использованием искусственного интеллекта и машинного обучения. Это мощный инструментарий для разработчиков, работающих с TypeScript, позволяет легко интегрировать функции AI и ML в свои проекты. С помощью Версел/АИ вы можете создавать более умные и интуитивно понятные приложения.\"",
-    "summaryEn": "Here's a brief summary:\n\nThe Vercel AI Toolkit is an open-source library for TypeScript that enables developers to build AI-powered applications and agents. Created by the team behind Next.js, this free SDK provides a powerful toolset for integrating AI capabilities into frontend projects. With Vercel AI, developers can unlock new possibilities for building intelligent, data-driven applications."
-  },
-  {
-    "externalId": "964395174",
-    "source": "github",
-    "url": "https://github.com/dyad-sh/dyad",
-    "owner": "dyad-sh",
-    "name": "dyad",
-    "title": "dyad-sh/dyad",
-    "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
-    "stars": 20170,
-    "forks": 2341,
-    "language": "TypeScript",
-    "topics": [
-      "ai-app-builder",
-      "anthropic",
-      "artificial-intelligence",
-      "bolt",
-      "deepseek",
-      "gemini",
-      "generative-ai",
-      "github",
-      "llm",
-      "llms",
-      "lovable",
-      "nextjs",
-      "ollama",
-      "openai",
-      "qwen",
-      "react",
-      "typescript",
-      "v0",
-      "vercel"
-    ],
-    "createdAt": "2025-04-11T06:33:48Z",
-    "updatedAt": "2026-04-22T23:44:27Z",
-    "id": "dyad-sh/dyad",
-    "discoveredAt": "2026-04-23T00:01:09.502Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "AI/ML",
-      "Frontend"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nПроект \"dyad\" предлагает разработчикам инновационную платформу для создания приложений на основе искусственного интеллекта (AI) и машинного обучения (ML) с использованием веб-технологий. Это бесплатное и открытое решение, предназначенное для опытных пользователей, которые ищут возможность создавать сложные приложения с использованием AI и ML. \"Дыад\" является альтернативой таким решениям как v0, Lovable, Replit и Bolt.",
-    "summaryEn": "Here's a brief summary for the dyad-sh/dyad project:\n\ndyad is an open-source, local AI app builder designed for power users. This project offers an alternative to popular AI development platforms, providing users with a flexible and customizable environment to create their own AI applications. By leveraging dyad's capabilities, users can build and deploy AI-powered apps without relying on cloud-based services."
-  },
-  {
-    "externalId": "764723738",
-    "source": "github",
-    "url": "https://github.com/Skyvern-AI/skyvern",
-    "owner": "Skyvern-AI",
-    "name": "skyvern",
-    "title": "Skyvern-AI/skyvern",
-    "description": "Automate browser based workflows with AI",
-    "stars": 21330,
-    "forks": 1956,
-    "language": "Python",
-    "topics": [
-      "ai",
-      "api",
-      "automation",
-      "browser",
-      "browser-automation",
-      "computer",
-      "gpt",
-      "llm",
-      "playwright",
-      "powerautomate",
-      "puppeteer",
-      "python",
-      "rpa",
-      "selenium",
-      "vision",
-      "workflow"
-    ],
-    "createdAt": "2024-02-28T15:45:19Z",
-    "updatedAt": "2026-04-22T23:42:18Z",
-    "id": "skyvern-ai/skyvern",
-    "discoveredAt": "2026-04-23T00:01:09.502Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "AI/ML",
-      "Backend"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме проекта Skyvern-AI/skyvern:\n\nSkyvern - это открытое исходный код проект, который позволяет автоматизировать браузерные рабочие потоки с помощью искусственного интеллекта. Благодаря использованию передовых технологий AI и машинного обучения, проект обеспечивает простоту и гибкость в автоматизации сложных задач. Skyvern представляет собой полноценную платформу для разработчиков, позволяющую создавать индивидуальные решения для автоматизации бизнес-процессов и повышения эффективности.",
-    "summaryEn": "Here's a brief summary for the Skyvern project:\n\nSkyvern is an open-source project that leverages AI to automate browser-based workflows, streamlining tasks and increasing productivity. By harnessing the power of artificial intelligence, Skyvern enables users to automate repetitive and time-consuming tasks, freeing up resources for more strategic and high-value activities. With its AI-driven automation capabilities, Skyvern is an innovative solution for businesses and individuals looking to optimize their online workflows."
-  },
-  {
-    "externalId": "658928958",
-    "source": "github",
-    "url": "https://github.com/ollama/ollama",
-    "owner": "ollama",
-    "name": "ollama",
-    "title": "ollama/ollama",
-    "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-    "stars": 169725,
-    "forks": 15737,
-    "language": "Go",
-    "topics": [
-      "deepseek",
-      "gemma",
-      "gemma3",
-      "glm",
-      "go",
-      "golang",
-      "gpt-oss",
-      "llama",
-      "llama3",
-      "llm",
-      "llms",
-      "minimax",
-      "mistral",
-      "ollama",
-      "qwen"
-    ],
-    "createdAt": "2023-06-26T19:39:32Z",
-    "updatedAt": "2026-04-22T23:57:10Z",
-    "id": "ollama/ollama",
-    "discoveredAt": "2026-04-23T00:01:09.502Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "AI/ML"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nОдинокий лама (ollama) - это открытый исходный код проект, предназначенный для работы с различными моделями искусственного интеллекта (ИИ) и машинного обучения (МЛ). Проект обеспечивает быстрый и простой старт с популярными моделями, такими как Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen и Gemma. Одинокий лама позволяет исследователям и разработчикам упростить работу с ИИ и МЛ, предоставляя им мощные инструменты для разрабатывания и внедрения инновационных решений.",
-    "summaryEn": "Here's a brief summary for the ollama project:\n\nollama is an open-source project that provides a user-friendly interface to various AI models, including Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma, and others. It enables developers to easily integrate these models into their applications, streamlining the process of getting started with cutting-edge AI capabilities. This project aims to accelerate AI development and deployment in various fields."
-  },
-  {
-    "externalId": "826170402",
-    "source": "github",
-    "url": "https://github.com/elizaOS/eliza",
-    "owner": "elizaOS",
-    "name": "eliza",
-    "title": "elizaOS/eliza",
-    "description": "Autonomous agents for everyone",
-    "stars": 18233,
-    "forks": 5498,
-    "language": "TypeScript",
-    "topics": [
-      "agent",
-      "agentic",
-      "ai",
-      "autonomous",
-      "chatbot",
-      "crypto",
-      "discord",
-      "eliza",
-      "elizaos",
-      "framework",
-      "plugins",
-      "rag",
-      "slack",
-      "swarm",
-      "telegram"
-    ],
-    "createdAt": "2024-07-09T07:55:40Z",
-    "updatedAt": "2026-04-22T23:32:03Z",
-    "id": "elizaos/eliza",
-    "discoveredAt": "2026-04-23T00:01:09.503Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "AI/ML"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nelizaOS/eliza - это открытое-source проект, целью которого является создание автономных агентов для всех. Программа представляет собой платформу для разработки и использования искусственного интеллекта и машинного обучения, позволяя пользователям создавать разнообразные интеллектуальные модели для решения различных задач. elizaOS/eliza предназначена для того, чтобы сделать доступным автономные агенты и технологии ИИ/МЛ для широкой аудитории.",
-    "summaryEn": "elizaOS/eliza is an open-source, community-driven project that aims to democratize access to AI-driven autonomous agents, empowering developers and non-experts alike to create and deploy intelligent systems. By providing a versatile and user-friendly platform, eliza enables users to design, train, and integrate autonomous agents into various applications. This project seeks to bridge the gap between AI and mainstream development, making autonomous agents more accessible and applicable to diverse use cases."
+    "summaryRu": "onxy - это открытое исходное AI-платформа, которая предоставляет высокоуровневые функции чата с использованием любых языковобученных моделей (LLM). Это полноценное решение для построения интуитивно понятных и эффективных чат-интерфейсов, которые могут обрабатывать сложные запросы и задачи с помощью машинного обучения. onxy предназначена для разработчиков и бизнес-экосистем, которые хотят интегрировать AI-поддержку в свои продукты и сервисы.",
+    "summaryEn": "Onyx is an open-source AI platform that enables users to build and deploy AI chat applications with advanced features. It seamlessly integrates with various Large Language Models (LLMs) to provide a robust and versatile solution. With its focus on frontend development, Onyx empowers developers to create innovative chat interfaces for a wide range of applications."
   },
   {
     "externalId": "1048065319",
@@ -2406,8 +2491,8 @@
     "name": "claude-mem",
     "title": "thedotmack/claude-mem",
     "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-    "stars": 65785,
-    "forks": 5573,
+    "stars": 65790,
+    "forks": 5574,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -2432,9 +2517,9 @@
       "supermemory"
     ],
     "createdAt": "2025-08-31T20:50:03Z",
-    "updatedAt": "2026-04-22T23:51:16Z",
+    "updatedAt": "2026-04-23T00:16:40Z",
     "id": "thedotmack/claude-mem",
-    "discoveredAt": "2026-04-23T00:01:09.503Z",
+    "discoveredAt": "2026-04-23T00:19:20.017Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2447,8 +2532,8 @@
       "AI/ML"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\n\"Клауде-мем\" - это плагин для кодового окружения Клауде, который автоматически записывает и комментирует вашу работу, используя искусственный интеллект, чтобы сжать и обрабатывать полученные данные. Этот плагин помогает улучшить продуктивность и понимание вашего кода, а также может быть полезен для рецензирования и обучения других разработчиков. \"Клауде-мем\" открытый исходный код и доступен для использования и доработки сообществом разработчиков.",
-    "summaryEn": "Claude-Mem is an open-source plugin for Claude Code that enables seamless session capture, compression, and recall using AI-powered agent-sdk. This feature allows users to efficiently track their coding sessions, leveraging Claude's capabilities to compress and inject relevant context into future sessions. By automating session capture and recall, developers can streamline their workflow and improve productivity."
+    "summaryRu": "Резюме:\n\nCLAUDE-MEM - это плагин CLAUDE Code, который автоматически записывает все действия, предпринимаемые CLAUDE во время ваших разработческих сессий, сжимает их с помощью искусственного интеллекта и возвращает контекст в будущие сессии. CLAUDE-MEM использует агент-сdk CLAUDE для сжатия и анализа записанных действия. Этот плагин предназначен для улучшения продуктивности и эффективности при работе с CLAUDE.",
+    "summaryEn": "Claude-Mem is an open-source plugin that enhances the Claude coding assistant by capturing and compressing session data using AI. This feature allows for the injection of relevant context into future sessions, improving the assistant's effectiveness and personalization. By leveraging Claude's agent-sdk, Claude-Mem optimizes the coding experience with a more intuitive and informed assistant."
   },
   {
     "externalId": "633927609",
@@ -2484,7 +2569,7 @@
     "createdAt": "2023-04-28T15:48:49Z",
     "updatedAt": "2026-04-22T23:11:57Z",
     "id": "promptfoo/promptfoo",
-    "discoveredAt": "2026-04-23T00:01:09.503Z",
+    "discoveredAt": "2026-04-23T00:19:20.017Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2499,8 +2584,8 @@
       "Security"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nPromptfoo - это открытый проект для тестирования и оценки эффективности различных агентов и систем искусственного интеллекта (АИ). Проект предназначен для проверки безопасности и выявления уязвимостей в АИ, а также для сравнения производительности различных платформ, таких как GPT, Claude, Gemini и Llama. Promptfoo предоставляет простую и удобную конфигурацию с командной строкой и интеграцией с CI/CD, что делает его удобным инструментом для разработчиков и исследователей в области АИ.",
-    "summaryEn": "Promptfoo is an open-source project that allows users to test and evaluate the performance of various AI agents, including GPT, Claude, Gemini, and Llama. It provides a platform for red teaming, pentesting, and vulnerability scanning of AI systems, with features like simple declarative configs and command line integration. Used by prominent AI companies such as OpenAI and Anthropic, Promptfoo facilitates comparison and benchmarking of different AI models."
+    "summaryRu": "Резюме проекта promptfoo/promptfoo:\n\nPromptfoo — это открытое-source фреймворк для тестирования и оценки способностей языковых агентов, RAG-ов (ретrieving-агрегирующие-генерирующие-агентов) и других AI-инструментов. Этот проект позволяет сравнивать производительность различных моделей, таких как GPT, Claude, Gemini и Llama, и обеспечивает простые конфигурации с возможности интеграции с командной строкой и CI/CD-процессами. Используемый OpenAI и Anthropic, Promptfoo является мощным инструментом для красных команд (red teaming), пентестингов и сканирования уязвимостей в AI.",
+    "summaryEn": "Here's a 2-3 sentence summary for the promptfoo/promptfoo open-source project:\n\nPromptfoo is an open-source tool designed for testing and evaluating AI models, agents, and Retrieval-Augmented Generative (RAG) systems. It allows users to compare the performance of various AI models, including GPT, Claude, Gemini, and Llama, and provides a platform for red teaming, pentesting, and vulnerability scanning for AI systems. Used by prominent AI organizations such as OpenAI and Anthropic, promptfoo offers simple declarative configurations and CI/CD integration for seamless testing and evaluation."
   },
   {
     "externalId": "701547123",
@@ -2510,8 +2595,8 @@
     "name": "open-webui",
     "title": "open-webui/open-webui",
     "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-    "stars": 133416,
-    "forks": 18930,
+    "stars": 133420,
+    "forks": 18929,
     "language": "Python",
     "topics": [
       "ai",
@@ -2531,9 +2616,9 @@
       "webui"
     ],
     "createdAt": "2023-10-06T22:08:27Z",
-    "updatedAt": "2026-04-22T23:58:29Z",
+    "updatedAt": "2026-04-23T00:18:42Z",
     "id": "open-webui/open-webui",
-    "discoveredAt": "2026-04-23T00:01:09.503Z",
+    "discoveredAt": "2026-04-23T00:19:20.017Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2548,8 +2633,60 @@
       "Backend"
     ],
     "status": "active",
-    "summaryRu": "**open-webui: простой и удобный интерфейс для AI**\n\nopen-webui - это открытый проект, предоставляющий простой и удобный интерфейс для взаимодействия с AI-решениями, включая Ollama и OpenAI API. Проект обеспечивает доступ к функциям AI прямо из веб-браузера, упрощая работу с разными AI-платформами. open-webui доступен как frontend, так и backend, что делает его универсальным решением для разработчиков и исследователей в области AI и ML.",
-    "summaryEn": "Here's a brief summary for the open-webui project:\n\nThe open-webui project provides a user-friendly interface for interacting with various AI models, including Ollama and OpenAI API. This open-source interface offers an intuitive frontend and backend for developers to build and integrate AI-powered applications. By supporting multiple AI models, open-webui enables users to easily access and utilize AI capabilities in their projects."
+    "summaryRu": "Резюме:\n\nOpen-webui/open-webui - это открытый проект интерфейса, предназначенный для работы с АИ. Он предоставляет простой в использовании интерфейс для взаимодействия с популярными АИ платформами, включая Ollama и OpenAI API. Проект поддерживает как frontend, так и backend разработку, делая его идеальным решением для разработчиков и исследователей в области АИ и машинного обучения.",
+    "summaryEn": "Here's a brief summary for the open-webui/open-webui project:\n\nThe open-webui project provides a user-friendly interface for interacting with various AI services, including Ollama and OpenAI API. This open-source platform allows users to easily access and utilize AI capabilities, making it accessible to both developers and non-technical users. With its frontend and backend support, open-webui offers a seamless and intuitive experience for harnessing the power of AI."
+  },
+  {
+    "externalId": "208728772",
+    "source": "github",
+    "url": "https://github.com/milvus-io/milvus",
+    "owner": "milvus-io",
+    "name": "milvus",
+    "title": "milvus-io/milvus",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "stars": 43926,
+    "forks": 3972,
+    "language": "Go",
+    "topics": [
+      "anns",
+      "cloud-native",
+      "diskann",
+      "distributed",
+      "embedding-database",
+      "embedding-similarity",
+      "embedding-store",
+      "faiss",
+      "golang",
+      "hnsw",
+      "image-search",
+      "llm",
+      "nearest-neighbor-search",
+      "rag",
+      "vector-database",
+      "vector-search",
+      "vector-similarity",
+      "vector-store"
+    ],
+    "createdAt": "2019-09-16T06:43:43Z",
+    "updatedAt": "2026-04-23T00:14:27Z",
+    "id": "milvus-io/milvus",
+    "discoveredAt": "2026-04-23T00:19:20.017Z",
+    "score": 100,
+    "scoreBreakdown": {
+      "stars": 1,
+      "forks": 1,
+      "recency": 1,
+      "topics": 1,
+      "sourceTrust": 1
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "Data"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nМилвус (Milvus) - это высокопроизводительный, облачный векторный базовый данных, предназначенный для масштабированного поиска ближайших соседей при работе с векторными данными. Этот проект обеспечивает быструю и эффективную обработку векторных данных, необходимую для приложений искусственного интеллекта (ИИ) и машинного обучения (МЛ). Milvus предназначен для решения задач, связанных с поиском и обработкой больших объемов векторных данных.",
+    "summaryEn": "Here's a brief summary of the Milvus project:\n\nMilvus is a cloud-native vector database designed for high-performance and scalable vector search, specifically optimized for applications that require efficient Artificial Neural Network (ANN) searches. Built for AI and Machine Learning (ML) use cases, Milvus enables fast and accurate vector similarity searches at large scales. Its cloud-native architecture ensures seamless deployment and management across various cloud environments."
   },
   {
     "externalId": "676672661",
@@ -2585,7 +2722,7 @@
     "createdAt": "2023-08-09T18:33:12Z",
     "updatedAt": "2026-04-22T23:25:01Z",
     "id": "langchain-ai/langgraph",
-    "discoveredAt": "2026-04-23T00:01:09.503Z",
+    "discoveredAt": "2026-04-23T00:19:20.018Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2599,8 +2736,8 @@
       "Frontend"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nLanggraph - это открытое исходный код проект, позволяющий создавать устойчивые языковые агенты в виде графов. Это инновационная платформа для разработчиков AI/ML и frontend, которая обеспечивает flexibility и возможность построения сложных языковых агентов. Langgraph может быть использован для создания интеллектуальных систем, способных понимать и генерировать естественный язык, что открывает широкие возможности для различных приложений, включая чат-ботов, translators и recommendation системы.",
-    "summaryEn": "The langgraph project is an open-source initiative that enables the creation of robust language agents as graphs, providing a novel approach to building AI models. This innovative framework allows developers to represent language structures and relationships as interconnected nodes, fostering more resilient and adaptable AI systems. By leveraging this graph-based architecture, users can construct more sophisticated language agents with enhanced performance and scalability."
+    "summaryRu": "Резюме:\n\nПроект langchain-ai/langgraph представляет собой уникальную платформу для построения устойчивых языковых агентов в виде графов. Это открытое API для разработчиков позволяет создавать сложные языковые модели, объединяя различные компоненты в одно целое. langgraph предназначен для использования в приложениях с передовыми функциями AI и ML, обеспечивая гибкость и расширяемость в разработке языковых агентов.",
+    "summaryEn": "Here's a brief summary for the langchain-ai/langgraph project:\n\nlangchain-ai/langgraph is an open-source project that enables the creation of resilient language agents as graphs, allowing developers to build complex AI models and applications. By structuring language agents as interconnected graph nodes, this project facilitates the combination of various AI techniques to achieve more robust and sophisticated outcomes. It also supports frontend development, making it a versatile tool for both AI/ML and frontend engineers."
   },
   {
     "externalId": "656099147",
@@ -2632,7 +2769,7 @@
     "createdAt": "2023-06-20T08:58:36Z",
     "updatedAt": "2026-04-22T23:39:32Z",
     "id": "mem0ai/mem0",
-    "discoveredAt": "2026-04-23T00:01:09.503Z",
+    "discoveredAt": "2026-04-23T00:19:20.018Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2645,8 +2782,8 @@
       "AI/ML"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\n\"Мем0 (mem0ai/mem0) - это открытое ПО, предназначенное для создания универсальной памяти для агентов искусственного интеллекта. Этот проект позволяет разработчикам внедрять более сложные и эффективные алгоритмы машинного обучения, повышая общую производительность и гибкость агентов AI. Мем0 предназначен для использования в различных областях, включая исследование AI, разработку интеллектуальных систем и создание сложных агентов.\"",
-    "summaryEn": "The mem0ai/mem0 project is an open-source, universal memory layer designed to support the development of intelligent AI agents. This memory layer provides a flexible and modular architecture that enables AI agents to efficiently store, retrieve, and manipulate information. By standardizing the memory interface, mem0ai/mem0 facilitates the creation of more robust and adaptable AI systems."
+    "summaryRu": "Резюме:\n\nМем0 (mem0ai/mem0) - это открытый исходный проект, представляющий универсальное слой памяти для агентов AI. Это инновационное решение позволяет агентам AI эффективно хранить и использовать информацию, что улучшает их способность обучаться и принимать решения. Мем0 предназначен для использования в разнообразных приложениях AI и ML, включая автоматизацию, навыки и интеллектуальные системы.",
+    "summaryEn": "Here's a brief summary for the mem0ai/mem0 project:\n\nmem0 is an open-source universal memory layer designed to facilitate AI agent development by providing a flexible and efficient framework for storing and retrieving knowledge. This project enables AI systems to learn, reason, and adapt more effectively by managing complex memory structures with ease. By leveraging mem0, developers can build more sophisticated AI agents with improved performance and scalability."
   },
   {
     "externalId": "912559512",
@@ -2657,7 +2794,7 @@
     "title": "simstudioai/sim",
     "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
     "stars": 27850,
-    "forks": 3529,
+    "forks": 3530,
     "language": "TypeScript",
     "topics": [
       "agent-workflow",
@@ -2682,7 +2819,7 @@
     "createdAt": "2025-01-05T22:47:49Z",
     "updatedAt": "2026-04-22T22:51:24Z",
     "id": "simstudioai/sim",
-    "discoveredAt": "2026-04-23T00:01:09.503Z",
+    "discoveredAt": "2026-04-23T00:19:20.018Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2696,8 +2833,8 @@
       "Frontend"
     ],
     "status": "active",
-    "summaryRu": "simstudioai/sim - это открытый источник проект, предназначенный для создания, развертывания и оркестровки агентов искусственного интеллекта. Это центральный слой интеллекта для ваших агентов AI, позволяющий легко управлять и координировать их работу. С помощью sim вы можете построить сложные системы AI, адаптированные к вашим бизнес-требованиям.",
-    "summaryEn": "Sim is an open-source project that allows users to build, deploy, and orchestrate AI agents, serving as the central intelligence layer for AI workforces. This project empowers developers to create and manage complex AI systems, streamlining the process of integrating AI agents into various applications and workflows. With Sim, users can efficiently manage and optimize their AI workforce."
+    "summaryRu": "Резюме проекта simstudioai/sim:\n\n\"Sim - централизованная интеллектуальная плата для вашей AI-работы. Проект simstudioai/sim предоставляет простой и гибкий способ создания, развертывания и управления интеллектуальными агентами. Sim становится основой для создания сложных AI-систем и автоматизации бизнес-процессов.\"",
+    "summaryEn": "The sim project is an open-source initiative aimed at building, deploying, and orchestrating AI agents through a central intelligence layer. This layer, referred to as the \"AI workforce,\" enables users to effectively manage and integrate AI capabilities into their systems. By utilizing the sim platform, developers can streamline the creation and management of AI-powered solutions."
   },
   {
     "externalId": "552661142",
@@ -2734,7 +2871,7 @@
     "createdAt": "2022-10-17T02:58:36Z",
     "updatedAt": "2026-04-22T23:22:10Z",
     "id": "langchain-ai/langchain",
-    "discoveredAt": "2026-04-23T00:01:09.503Z",
+    "discoveredAt": "2026-04-23T00:19:20.018Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2747,8 +2884,8 @@
       "AI/ML"
     ],
     "status": "active",
-    "summaryRu": "Langchain - это плательформа для инженеров-технологов, которая позволяет создавать и разрабатывать агентов на основе искусственных интеллекта. С помощью Langchain можно объединять различные технологии AI, такие как языковое моделирование, навыки и взаимодействие со средой, для создания сложных и интуитивно понятных агентов. Langchain предназначен для решения сложных задач AI и является открытым проектом, принимающим вклад от общественности.",
-    "summaryEn": "The langchain project is an open-source, multi-chain AI platform that enables users to engineer and integrate various AI agents. It serves as a foundation for developing more sophisticated AI applications by providing a flexible framework for combining different AI models and tools. This platform empowers developers to create innovative, custom AI solutions for various industries and use cases."
+    "summaryRu": "Резюме проекта langchain:\n\nLangchain - это открытый платформенный инжиниринговый агент. Он предоставляет возможность создавать и интегрировать различные AI-сервисы и моделей машинного обучения для решения сложных задач. Платформа Langchain предназначена для облегчения разработки и интеграции агентов, способных выполнять сложные задачи в области искусственного интеллекта.",
+    "summaryEn": "Langchain is an open-source platform for agent engineering, enabling developers to build, test, and deploy AI agents that can perform complex tasks. This platform provides a suite of tools and libraries to help create, train, and integrate AI models, facilitating the development of more sophisticated and autonomous agents. By streamlining the AI development process, Langchain aims to accelerate innovation and growth in the field of artificial intelligence."
   },
   {
     "externalId": "679343504",
@@ -2786,7 +2923,7 @@
     "createdAt": "2023-08-16T16:16:33Z",
     "updatedAt": "2026-04-22T23:20:06Z",
     "id": "topoteretes/cognee",
-    "discoveredAt": "2026-04-23T00:01:09.503Z",
+    "discoveredAt": "2026-04-23T00:19:20.018Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2800,8 +2937,8 @@
       "Data"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nCognee - это уникальный open-source проект, который предоставляет мощную Knowledge Engine для хранения и управления памятью агентов искусственного интеллекта. Это решение позволяет разработчикам создавать сложные AI-агенты с минимальными усилиями, используя всего 6 строк кода. Проект Cognee предназначен для интеграции с различными данными и системами, что делает его идеальным инструментом для разработчиков в области AI/ML и Data.",
-    "summaryEn": "Cognee is an open-source knowledge engine designed for AI agent memory, allowing for efficient storage and retrieval of information. This lightweight project enables developers to create intelligent systems with a robust memory component in just 6 lines of code, simplifying the integration of AI capabilities into various applications. It is primarily categorized under AI/ML and data-related projects."
+    "summaryRu": "Резюме для open-source проекта \"topoteretes/cognee\":\n\n\"Cognee - это минимальный, но мощный Knowledge Engine, предназначенный для управления памятью искусственного интеллекта и машинного обучения. Этот проект позволяет легко интегрировать базовые функции AI в различные приложения, используя всего 6 строк кода. Возможности Cognee могут быть расширены и адаптированы к различным задачам AI и ML.\"",
+    "summaryEn": "The Cognee project is an open-source, knowledge engine designed to facilitate AI agent memory management. Built with a minimalist approach, Cognee enables AI developers to create sophisticated memory models using just 6 lines of code. This innovative tool aims to simplify the integration of knowledge management into AI applications."
   },
   {
     "externalId": "621803253",
@@ -2811,8 +2948,8 @@
     "name": "Flowise",
     "title": "FlowiseAI/Flowise",
     "description": "Build AI Agents, Visually",
-    "stars": 52170,
-    "forks": 24194,
+    "stars": 52172,
+    "forks": 24195,
     "language": "TypeScript",
     "topics": [
       "agentic-ai",
@@ -2834,9 +2971,9 @@
       "workflow-automation"
     ],
     "createdAt": "2023-03-31T12:23:09Z",
-    "updatedAt": "2026-04-22T23:34:18Z",
+    "updatedAt": "2026-04-23T00:05:44Z",
     "id": "flowiseai/flowise",
-    "discoveredAt": "2026-04-23T00:01:09.503Z",
+    "discoveredAt": "2026-04-23T00:19:20.018Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2850,44 +2987,46 @@
       "Frontend"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nFlowise - это свободный и открытый фронтенд-ориентированный проект для создания и визуального проектирования машинных обучения и искусственного интеллекта. С помощью Flowise можно быстро и эффективно построить сложные модели AI, используя визуальную среду для проектирования и настройки агентов. Проект предлагает простую и удобную систему для разработчиков и исследователей, позволяя им концентрироваться на развитии своих идей, а не на сложной настройке технологий.",
-    "summaryEn": "Flowise is an open-source project that enables users to build AI agents visually, making AI development more accessible and intuitive. By leveraging a frontend-centric approach, Flowise simplifies the process of creating and training AI models, allowing users to focus on the high-level logic of their agents without delving into complex code. This innovative platform empowers developers to create sophisticated AI applications with ease and efficiency."
+    "summaryRu": "Резюме проекта FlowiseAI/Flowise:\n\nFlowiseAI/Flowise - это инновационный open-source проект, который позволяет разработчикам создавать искусственный интеллект и машинное обучение агентов визуально, без необходимости писать код. Это революционное решение для фронтенд-разработчиков и специалистов в области AI/ML, позволяющее упростить процесс создания сложных агентов и взаимодействия с ними. Project FlowiseAI/Flowise предлагает новую возможность для построения интуитивно понятных AI-систем и интеграции их с веб-приложениями.",
+    "summaryEn": "Flowise is an open-source project that enables users to build AI agents visually, streamlining the process of developing artificial intelligence solutions. This project combines the power of AI/ML with the simplicity of a frontend interface, making it accessible to developers and non-technical users alike. With Flowise, users can create and customize AI agents without requiring extensive coding knowledge."
   },
   {
-    "externalId": "208728772",
+    "externalId": "164140756",
     "source": "github",
-    "url": "https://github.com/milvus-io/milvus",
-    "owner": "milvus-io",
-    "name": "milvus",
-    "title": "milvus-io/milvus",
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "stars": 43925,
-    "forks": 3972,
-    "language": "Go",
+    "url": "https://github.com/files-community/Files",
+    "owner": "files-community",
+    "name": "Files",
+    "title": "files-community/Files",
+    "description": "A modern file manager that helps users organize their files and folders.",
+    "stars": 43107,
+    "forks": 2695,
+    "language": "C#",
     "topics": [
-      "anns",
-      "cloud-native",
-      "diskann",
-      "distributed",
-      "embedding-database",
-      "embedding-similarity",
-      "embedding-store",
-      "faiss",
-      "golang",
-      "hnsw",
-      "image-search",
-      "llm",
-      "nearest-neighbor-search",
-      "rag",
-      "vector-database",
-      "vector-search",
-      "vector-similarity",
-      "vector-store"
+      "alternatives",
+      "csharp",
+      "customization",
+      "developer-tools",
+      "dotnet",
+      "file-manager",
+      "files",
+      "fluent",
+      "fluent-design",
+      "git",
+      "good-first-issue",
+      "power-user",
+      "productivity",
+      "utilities",
+      "winappsdk",
+      "windows",
+      "windows-10",
+      "windows-11",
+      "winui",
+      "xaml"
     ],
-    "createdAt": "2019-09-16T06:43:43Z",
-    "updatedAt": "2026-04-22T21:19:53Z",
-    "id": "milvus-io/milvus",
-    "discoveredAt": "2026-04-23T00:01:09.503Z",
+    "createdAt": "2019-01-04T18:19:14Z",
+    "updatedAt": "2026-04-23T00:09:54Z",
+    "id": "files-community/files",
+    "discoveredAt": "2026-04-23T00:19:20.018Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2899,11 +3038,11 @@
     "categories": [
       "AI/ML",
       "Frontend",
-      "Data"
+      "DevTools"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nМилувус (Milvus) - высокопроизводительный, облачный векторный базовый данных для масштабируемого поиска ближайших соседей в пространстве векторов (ANN). Библиотека предназначена для работы с большими наборами векторов и обеспечивает быструю и эффективную поддержку поиска и индексации данных. Milvus поддерживает различные алгоритмы поиска в пространстве векторов, включая HNSW, IVF и Faiss.",
-    "summaryEn": "Milvus is an open-source, cloud-native vector database optimized for scalable vector similarity search, enabling fast and efficient data retrieval for artificial intelligence and machine learning applications. This database supports high-performance vector similarity search, making it suitable for various use cases such as recommendation systems, natural language processing, and computer vision. By utilizing Milvus, developers can efficiently query and retrieve relevant data from large datasets."
+    "summaryRu": "Резюме проекта Files:\n\n\"Files - это современный файловый менеджер, предназначенный для помощи пользователям в организации и управлении их файлами и папками. Этот проект представляет собой кроссплатформенную, открытое и модульную платформу, которая объединяет в себе передовые технологии AI/ML, передовые навыки в разработке интерфейсов и инструменты разработчика. Files предназначен для облегчения работы с файлами и папками, повышения продуктивности и комфорта использования.\"",
+    "summaryEn": "The Files project is an open-source, feature-rich file manager designed to help users effectively organize and manage their digital files and folders. Built with a focus on user experience, Files provides a modern and intuitive interface for navigating and interacting with files on various platforms. This community-driven project is ideal for developers looking to improve their file management workflow."
   },
   {
     "externalId": "644686905",
@@ -2929,7 +3068,7 @@
     "createdAt": "2023-05-24T03:39:39Z",
     "updatedAt": "2026-04-22T23:59:17Z",
     "id": "continuedev/continue",
-    "discoveredAt": "2026-04-23T00:01:09.503Z",
+    "discoveredAt": "2026-04-23T00:19:20.018Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2943,8 +3082,8 @@
       "DevTools"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nПроект continue - это open-source решение для контроля и проверки искусственного интеллекта при каждом изменении в коде, что позволяет автоматически исправлять ошибки и обеспечивать стабильность приложений. Continue CLI - это мощный инструмент, который интегрируется в системы непрерывной интеграции (CI) и позволяет управлять процессом контроля AI. Проект направлен на повышение эффективности разработки и качества кода.",
-    "summaryEn": "The continue project is an open-source initiative that enables developers to integrate AI checks into their source code, ensuring consistent quality and reliability. This is achieved through the Continue CLI, a powerful tool that integrates seamlessly with continuous integration (CI) pipelines. By enforcing AI-driven best practices, continue helps developers maintain high standards and streamline their development processes."
+    "summaryRu": "Резюме:\n\nПроект continuedev/continue представляет собой систему контролируемых проверок на основе искусственного интеллекта, интегрируемую в процессы непрерывной интеграции (CI). Continue CLI — это открытый и бесплатный инструмент, позволяющий создавать и настраивать проверки AI в репозиториях. Система предназначена для улучшения качества кода и повышения эффективности разработки на основе машинного обучения.",
+    "summaryEn": "The continue project provides an open-source solution for managing and enforcing AI checks through source control, making it easy to integrate into Continuous Integration (CI) pipelines. This is achieved through the Continue CLI, a powerful tool that enables developers to streamline AI testing and validation. By leveraging this project, developers can ensure their AI models meet quality standards and adhere to best practices."
   },
   {
     "externalId": "753490180",
@@ -2970,7 +3109,7 @@
     "createdAt": "2024-02-06T08:21:20Z",
     "updatedAt": "2026-04-22T23:18:46Z",
     "id": "daytonaio/daytona",
-    "discoveredAt": "2026-04-23T00:01:09.504Z",
+    "discoveredAt": "2026-04-23T00:19:20.018Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -2985,8 +3124,8 @@
       "DevOps/Infra"
     ],
     "status": "active",
-    "summaryRu": "Резюме проекта \"Daytona\":\n\nDaytona - это инновационная, безопасная и эластичная инфраструктура для выполнения кода, сгенерированного машинным обучением. Это решение для разработчиков и инженеров DevOps, позволяющее работать с кодом, созданным AI, в безопасной и масштабируемой среде. Daytona помогает упростить процесс разработки и деплоя кода, сгенерированного машинным обучением, что делает его идеальным решением для команд, работающих с AI и ML.",
-    "summaryEn": "Daytona is an open-source infrastructure project that enables secure and highly elastic execution of AI-generated code. This project provides a robust foundation for developers to run and manage AI-driven applications with ease, while ensuring the highest level of security and scalability. By leveraging Daytona, developers can efficiently deploy and manage AI-generated code in a variety of environments."
+    "summaryRu": "Резюме:\n\n\"Дейтоня (Daytona) - это безопасная и эластичная инфраструктура для реализации кода, генерированного искусственным интеллектом. Этот открытое исходный проект (open-source) предназначен для упрощения и ускорения процесса разработки и внедрения искусственно-генерируемого кода, гарантируя при этом его безопасность и масштабируемость. Daytona предназначен для использования в проектах, связанных с ИИ, машинным обучением и DevOps/инфраструктурой.\"",
+    "summaryEn": "Daytona is an open-source project that provides a secure and elastic infrastructure for running AI-generated code. This project enables the efficient deployment and execution of AI-generated applications, allowing for greater flexibility and scalability in the development process. By leveraging Daytona, developers can take advantage of the power of AI-generated code while maintaining a high level of security and control."
   },
   {
     "externalId": "771302083",
@@ -2996,7 +3135,7 @@
     "name": "OpenHands",
     "title": "OpenHands/OpenHands",
     "description": "🙌 OpenHands: AI-Driven Development",
-    "stars": 71788,
+    "stars": 71791,
     "forks": 9040,
     "language": "Python",
     "topics": [
@@ -3011,9 +3150,9 @@
       "openai"
     ],
     "createdAt": "2024-03-13T03:33:31Z",
-    "updatedAt": "2026-04-22T23:27:34Z",
+    "updatedAt": "2026-04-23T00:16:22Z",
     "id": "openhands/openhands",
-    "discoveredAt": "2026-04-23T00:01:09.504Z",
+    "discoveredAt": "2026-04-23T00:19:20.018Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -3027,34 +3166,40 @@
       "DevTools"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nOpenHands — это открытое и распределенное проект AI-Driven Development, предназначенное для ускорения и упрощения процесса разработки приложений с помощью искусственного интеллекта и машинного обучения. Проект предоставляет набор инструментов и функций для автоматизации и оптимизации различных задач разработки, включая код-ревью, тестирование и оптимизацию производительности. OpenHands открыт для contributions и модификаций, что позволяет сообществу разработчиков расширять и улучшать проект для удовлетворения своих потребностей.",
-    "summaryEn": "OpenHands is an open-source AI-driven development platform designed to streamline the software development process. Leveraging artificial intelligence and machine learning, it aims to automate and optimize various development tasks, enhancing productivity and efficiency for developers. This project is dedicated to pushing the boundaries of AI-driven development and creating a more innovative ecosystem for the tech community."
+    "summaryRu": "Резюме:\n\nOpenHands - это открытое проект, предназначенное для автоматизации процесса разработки с помощью искусственного интеллекта (ИИ) и машинного обучения (МЛ). Этот проект предлагает набор инструментов и технологий, которые позволяют разработчикам оптимизировать и ускорить свои проекты, используя преимущества ИИ и МЛ. OpenHands открыт для contributions и участия, и его цель - расширить возможности разработки и сделать ее более эффективной и автоматизированной.",
+    "summaryEn": "Here's a brief summary for the OpenHands project:\n\nOpenHands is an open-source project that leverages AI and machine learning to streamline development processes. By automating tedious tasks and enhancing productivity, OpenHands aims to revolutionize the way developers work. This AI-driven development tool is designed to be highly customizable and adaptable to various development environments."
   },
   {
-    "externalId": "204086862",
+    "externalId": "52481933",
     "source": "github",
-    "url": "https://github.com/streamlit/streamlit",
-    "owner": "streamlit",
-    "name": "streamlit",
-    "title": "streamlit/streamlit",
-    "description": "Streamlit — A faster way to build and share data apps.",
-    "stars": 44318,
-    "forks": 4213,
-    "language": "Python",
+    "url": "https://github.com/navidrome/navidrome",
+    "owner": "navidrome",
+    "name": "navidrome",
+    "title": "navidrome/navidrome",
+    "description": "🎧 Your Personal Streaming Service ",
+    "stars": 20619,
+    "forks": 1466,
+    "language": "Go",
     "topics": [
-      "data-analysis",
-      "data-science",
-      "data-visualization",
-      "deep-learning",
-      "developer-tools",
-      "machine-learning",
-      "python",
-      "streamlit"
+      "airsonic",
+      "madsonic",
+      "media-server",
+      "music",
+      "music-server",
+      "navidrome",
+      "opensubsonic",
+      "raspberry-pi",
+      "self-hosted",
+      "streamer",
+      "streaming-api",
+      "streaming-audio",
+      "subsonic",
+      "subsonic-server"
     ],
-    "createdAt": "2019-08-24T00:14:52Z",
-    "updatedAt": "2026-04-22T22:29:50Z",
-    "id": "streamlit/streamlit",
-    "discoveredAt": "2026-04-23T00:01:09.504Z",
+    "createdAt": "2016-02-24T23:25:12Z",
+    "updatedAt": "2026-04-23T00:12:42Z",
+    "id": "navidrome/navidrome",
+    "discoveredAt": "2026-04-23T00:19:20.019Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -3065,12 +3210,12 @@
     },
     "categories": [
       "AI/ML",
-      "Frontend",
-      "DevTools"
+      "Backend",
+      "Marketing"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nStreamlit — это быстрый и интуитивно понятный инструмент для построения и共шага данных-приложений. Это открытое программное обеспечение позволяет разработчикам создавать интерактивные приложения с помощью Python, что делает его идеальным решением для специалистов в области машинного обучения, науки о данных и frontend-разработки. Streamlit позволяет легко создавать приложения для визуализации данных, интерактивных графиков и предсказаний, что делает его незаменимым инструментом для любого развития и шаринга данных-приложений.",
-    "summaryEn": "Streamlit is an open-source project that enables developers to rapidly build and deploy data-driven applications, providing a faster and more efficient way to share insights and data visualizations. Its user-friendly interface allows users to turn data into interactive web applications with minimal coding, making it an ideal choice for data scientists, analysts, and engineers. With Streamlit, anyone can create and share data apps in minutes, promoting collaboration and knowledge sharing."
+    "summaryRu": "Резюме:\n\nЭтот проект представляет собой открытый исходный код личный стриминговый сервис, предназначенный для удовлетворения потребностей любителей музыки и поклонников технологий. Navidrome позволяет пользователям создавать и управлять своей медиатекой, а также получать доступ к музыке из Интернета. Проект позиционируется как альтернатива коммерческим стриминговым сервисам, обеспечивая пользователям полный контроль над своей музыкальной библиотекой.",
+    "summaryEn": "Here's a brief summary for the navidrome project:\n\nNavidrome is an open-source, personal streaming service that allows users to manage and stream their music collections. This platform offers a user-friendly interface for organizing, searching, and playing music, providing a seamless listening experience. With its open-source nature, users can customize and extend the service to meet their specific needs."
   },
   {
     "externalId": "60246359",
@@ -3105,7 +3250,7 @@
     "createdAt": "2016-06-02T08:28:18Z",
     "updatedAt": "2026-04-22T23:36:00Z",
     "id": "clickhouse/clickhouse",
-    "discoveredAt": "2026-04-23T00:01:09.504Z",
+    "discoveredAt": "2026-04-23T00:19:20.019Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -3120,8 +3265,8 @@
       "Data"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nClickHouse - это открытый-source базовый реляционный системный менеджер баз данных для аналитики в режиме реального времени. Он предназначен для работы с большими объемами данных и обеспечивает быструю и эффективную обработку запросов. ClickHouse используется в различных отраслях, включая анализ данных, машинное обучение и бизнес-анализ.",
-    "summaryEn": "ClickHouse is an open-source, real-time analytics database management system designed to handle large volumes of data and provide fast query performance. It is optimized for big data analytics and supports various data processing tasks, making it an ideal solution for businesses and organizations with high data demands. ClickHouse's open-source nature allows for community-driven development and flexible deployment options."
+    "summaryRu": "Резюме:\n\nClickHouse - это распределенное базовое управление данными для реального времени, которое позволяет быстро и эффективно обрабатывать большие объемы данных. Этот проект предназначен для работы с большими данными, обеспечивая быструю и эффективную обработку, а также поддержку различных функций аналитики. ClickHouse используется в различных приложениях, в том числе в системах AI и ML, для обеспечения быстрого и надежного доступа к данным.",
+    "summaryEn": "ClickHouse is an open-source, real-time analytics database management system that enables efficient and scalable data processing. It allows users to store and analyze large amounts of data quickly, making it an ideal solution for various data-intensive applications, including AI/ML and data analytics. By providing high-speed data processing capabilities, ClickHouse empowers organizations to make data-driven decisions in real-time."
   },
   {
     "externalId": "193215554",
@@ -3131,7 +3276,7 @@
     "name": "n8n",
     "title": "n8n-io/n8n",
     "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-    "stars": 185168,
+    "stars": 185169,
     "forks": 57039,
     "language": "TypeScript",
     "topics": [
@@ -3157,9 +3302,9 @@
       "workflow-automation"
     ],
     "createdAt": "2019-06-22T09:24:21Z",
-    "updatedAt": "2026-04-23T00:00:32Z",
+    "updatedAt": "2026-04-23T00:12:01Z",
     "id": "n8n-io/n8n",
-    "discoveredAt": "2026-04-23T00:01:09.504Z",
+    "discoveredAt": "2026-04-23T00:19:20.019Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -3174,178 +3319,46 @@
       "Backend"
     ],
     "status": "active",
-    "summaryRu": "Ниже представлено краткое резюме проекта n8n:\n\nn8n - это платформа автоматизации рабочих процессов с возможностями искусственного интеллекта, которая позволяет пользователю комбинировать визуальное создание рабочих процессов с возможностью использования.custom кода. Платформа поддерживает более 400 интеграций и может работать как на стороне хостинга (self-hosting), так и в облаке (cloud). n8n предназначена для решения сложных задач автоматизации и является популярным проектом в области AI/ML, frontend и backend разработки.",
-    "summaryEn": "The n8n project offers a fair-code workflow automation platform that combines visual building with custom code, allowing users to create complex workflows with ease. This platform boasts native AI capabilities and supports over 400 integrations, making it a versatile tool for automating tasks across various applications. With self-hosting and cloud deployment options, users can choose the best approach for their needs."
+    "summaryRu": "Резюме:\n\nn8n - это бесплатный, открытый исходный код платформы автоматизации рабочих процессов, которая объединяет в себе визуальное программирование и возможность использования custom-кода с поддержкой native-AI-навыков. Платформа позволяет подключить более 400 различных интеграций и может быть запущена как локально, так и в облачном окружении. n8n предлагает гибкий и персонализированный подход к автоматизации рабочих процессов, что делает его идеальным решением для команд и организаций.",
+    "summaryEn": "Here's a brief summary for the n8n project:\n\nn8n is an open-source workflow automation platform that combines the power of visual building with custom code, enabling users to automate tasks efficiently. With native AI capabilities and 400+ integrations, n8n allows users to self-host or deploy their workflows on the cloud. This versatile platform empowers developers and non-coders alike to streamline processes and unlock productivity."
   },
   {
-    "externalId": "92111509",
+    "externalId": "180190854",
     "source": "github",
-    "url": "https://github.com/TriliumNext/Trilium",
-    "owner": "TriliumNext",
-    "name": "Trilium",
-    "title": "TriliumNext/Trilium",
-    "description": "Build your personal knowledge base with Trilium Notes",
-    "stars": 35680,
-    "forks": 2366,
+    "url": "https://github.com/appwrite/appwrite",
+    "owner": "appwrite",
+    "name": "appwrite",
+    "title": "appwrite/appwrite",
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+    "stars": 55808,
+    "forks": 5266,
     "language": "TypeScript",
     "topics": [
-      "electron",
-      "electron-app",
-      "knowledge-base",
-      "knowledge-graph",
-      "knowledge-management",
-      "knowledge-management-graph",
-      "local-first",
-      "note-managment",
-      "note-taker",
-      "note-taking",
-      "notebook",
-      "notes",
-      "notes-app",
-      "personal-knowledge-base",
-      "personal-wiki",
-      "scriptable",
-      "self-hosted",
-      "self-hosting",
-      "wiki"
-    ],
-    "createdAt": "2017-05-23T00:30:20Z",
-    "updatedAt": "2026-04-22T23:15:37Z",
-    "id": "triliumnext/trilium",
-    "discoveredAt": "2026-04-23T00:01:09.504Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "Frontend"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nTrilium - это свободный и открытое проект, позволяющий создавать личную базу знаний. С его помощью вы сможете собрать и структурировать информацию в удобном для вас формате. Проект предназначен для создания личной базы знаний с возможностью хранения и организации информации по разным темам.",
-    "summaryEn": "Trilium is an open-source, personal knowledge base application that helps users organize and manage their notes, ideas, and projects in a structured and accessible way. This frontend-based tool allows users to create a customizable knowledge graph, making it easier to connect and visualize the relationships between their notes and ideas. With Trilium, users can build a robust and personalized knowledge base that facilitates learning, creativity, and productivity."
-  },
-  {
-    "externalId": "594155488",
-    "source": "github",
-    "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-    "owner": "Stirling-Tools",
-    "name": "Stirling-PDF",
-    "title": "Stirling-Tools/Stirling-PDF",
-    "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-    "stars": 77608,
-    "forks": 6763,
-    "language": "TypeScript",
-    "topics": [
+      "android",
+      "appwrite",
+      "backend",
+      "backend-as-a-service",
       "docker",
-      "hacktoberfest",
-      "java",
-      "pdf",
-      "pdf-converter",
-      "pdf-editor",
-      "pdf-manipulation",
-      "pdf-merger",
-      "pdf-ocr",
-      "pdf-tools",
-      "pdf-web-apps",
-      "pdfmerger",
-      "self-hosted"
-    ],
-    "createdAt": "2023-01-27T18:22:42Z",
-    "updatedAt": "2026-04-22T23:59:42Z",
-    "id": "stirling-tools/stirling-pdf",
-    "discoveredAt": "2026-04-23T00:01:09.504Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "DevOps/Infra"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nStirling-PDF - это открытое проект, предназначенное для редактирования PDF-файлов в любом месте и на любом устройстве. Это один из самых популярных проектов по обработке PDF на GitHub, что делает его идеальным решением для разработчиков и команд DevOps/Infra. С помощью Stirling-PDF вы можете редактировать, создавать и преобразовывать PDF-файлы с помощью удобного графического интерфейса или командной строки.",
-    "summaryEn": "Stirling-PDF is an open-source, user-friendly PDF editor that enables users to edit and manipulate PDF files from any device, anywhere. This versatile tool caters to the DevOps and infrastructure community, providing a powerful and accessible solution for managing and modifying PDF content. With its GitHub presence, Stirling-PDF has become the #1 PDF application on the platform."
-  },
-  {
-    "externalId": "266445736",
-    "source": "github",
-    "url": "https://github.com/owncast/owncast",
-    "owner": "owncast",
-    "name": "owncast",
-    "title": "owncast/owncast",
-    "description": "Take control over your live stream video by running it yourself.  Streaming + chat out of the box.",
-    "stars": 11183,
-    "forks": 1188,
-    "language": "Go",
-    "topics": [
-      "activitypub",
-      "broadcasting",
-      "chat",
-      "decentralized",
-      "federation",
-      "fediverse",
-      "golang",
-      "hacktoberfest",
-      "hls",
-      "live",
-      "livestream",
-      "owncast",
-      "rtmp",
+      "firebase",
+      "flutter",
+      "hosting",
+      "ios",
+      "javascript",
+      "nextjs",
+      "react",
+      "react-native",
+      "reactnative",
       "self-hosted",
-      "streaming-video",
-      "video"
+      "selfhosted",
+      "serverless",
+      "supabase",
+      "swift",
+      "web"
     ],
-    "createdAt": "2020-05-24T00:58:13Z",
-    "updatedAt": "2026-04-22T23:26:15Z",
-    "id": "owncast/owncast",
-    "discoveredAt": "2026-04-23T00:01:09.504Z",
-    "score": 100,
-    "scoreBreakdown": {
-      "stars": 1,
-      "forks": 1,
-      "recency": 1,
-      "topics": 1,
-      "sourceTrust": 1
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nOwnCast - это открытое программное обеспечение, позволяющее управлять своим потоком видео в режиме реального времени, не полагаясь на внешние сервисы. Проект предоставляет все необходимое для создания и управления потоком, включая функцию чата прямо в коробке. OwnCast идеально подходит для тех, кто хочет иметь полный контроль над своим контентом и не хочет платить за доступ к функциям, предоставляемым сторонними сервисами.",
-    "summaryEn": "OwnCast is an open-source project that enables users to take control of their live stream video by hosting it on their own servers. This platform combines live streaming with chat functionality, providing a seamless and integrated experience for content creators and their audiences. By running OwnCast, users can customize their streaming setup and maintain full control over their content."
-  },
-  {
-    "externalId": "51547791",
-    "source": "github",
-    "url": "https://github.com/getsentry/self-hosted",
-    "owner": "getsentry",
-    "name": "self-hosted",
-    "title": "getsentry/self-hosted",
-    "description": "Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",
-    "stars": 9307,
-    "forks": 1944,
-    "language": "Shell",
-    "topics": [
-      "docker",
-      "docker-compose",
-      "fair-source",
-      "hacktoberfest",
-      "on-premise",
-      "self-hosted",
-      "sentry",
-      "tag-production"
-    ],
-    "createdAt": "2016-02-11T21:19:52Z",
-    "updatedAt": "2026-04-22T22:36:19Z",
-    "id": "getsentry/self-hosted",
-    "discoveredAt": "2026-04-23T00:01:09.505Z",
+    "createdAt": "2019-04-08T16:36:25Z",
+    "updatedAt": "2026-04-23T00:06:17Z",
+    "id": "appwrite/appwrite",
+    "discoveredAt": "2026-04-23T00:19:20.019Z",
     "score": 100,
     "scoreBreakdown": {
       "stars": 1,
@@ -3356,12 +3369,12 @@
     },
     "categories": [
       "AI/ML",
-      "DevOps/Infra",
-      "Product"
+      "Frontend",
+      "Backend"
     ],
     "status": "active",
-    "summaryRu": "Резюме проекта getsentry/self-hosted:\n\nПроект Sentry представляет собой полноценную и упакованную версию библиотеки для низковолоконных развертываний и прототипирования. Он предназначен для разработчиков и команд DevOps, позволяя им создавать и тестировать решения для отслеживания ошибок и мониторинга приложений. Этот проект предоставляет все необходимые функции для работы с ошибками и проблемами, упрощая процесс выявления и устранения недостатков.",
-    "summaryEn": "Sentry is a feature-complete open-source project that enables low-volume deployments and proof-of-concept environments. This self-hosted version of Sentry allows developers to experience the full range of features offered by the platform without the need for a cloud-hosted solution. It provides a scalable and customizable environment for managing errors and performance issues within applications."
+    "summaryRu": "Резюме:\n\nAppwrite - полная облачная инфраструктура для веб-, мобильных и AI-приложений. Библиотека предоставляет функции таких сервисов как аутентификация, базы данных, хранение данных, функции, мессенджер, хостинг, реальное время и многое другое. Это мощный инструмент для разработчиков, позволяющий создавать сложные приложения с минимальными усилиями.",
+    "summaryEn": "Appwrite is a comprehensive, open-source cloud infrastructure platform that provides a range of essential services for web, mobile, and AI applications, including authentication, databases, storage, functions, and real-time capabilities. This platform aims to simplify the development process by offering a unified solution for building scalable and secure applications. With Appwrite, developers can focus on creating innovative applications without worrying about the underlying infrastructure."
   },
   {
     "externalId": "106017343",

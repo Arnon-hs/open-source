@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Cognee is an open-source knowledge engine designed for AI agent memory, allowing for efficient storage and retrieval of information. This lightweight project enables developers to create intelligent systems with a robust memory component in just 6 lines of code, simplifying the integration of AI capabilities into various applications. It is primarily categorized under AI/ML and data-related projects.
+The Cognee project is an open-source, knowledge engine designed to facilitate AI agent memory management. Built with a minimalist approach, Cognee enables AI developers to create sophisticated memory models using just 6 lines of code. This innovative tool aims to simplify the integration of knowledge management into AI applications.
 
 ---
 

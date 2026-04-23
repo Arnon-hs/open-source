@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Sim is an open-source project that allows users to build, deploy, and orchestrate AI agents, serving as the central intelligence layer for AI workforces. This project empowers developers to create and manage complex AI systems, streamlining the process of integrating AI agents into various applications and workflows. With Sim, users can efficiently manage and optimize their AI workforce.
+The sim project is an open-source initiative aimed at building, deploying, and orchestrating AI agents through a central intelligence layer. This layer, referred to as the "AI workforce," enables users to effectively manage and integrate AI capabilities into their systems. By utilizing the sim platform, developers can streamline the creation and management of AI-powered solutions.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The langchain project is an open-source, multi-chain AI platform that enables users to engineer and integrate various AI agents. It serves as a foundation for developing more sophisticated AI applications by providing a flexible framework for combining different AI models and tools. This platform empowers developers to create innovative, custom AI solutions for various industries and use cases.
+Langchain is an open-source platform for agent engineering, enabling developers to build, test, and deploy AI agents that can perform complex tasks. This platform provides a suite of tools and libraries to help create, train, and integrate AI models, facilitating the development of more sophisticated and autonomous agents. By streamlining the AI development process, Langchain aims to accelerate innovation and growth in the field of artificial intelligence.
 
 ---
 

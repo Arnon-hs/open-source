@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 24.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | 2026-04-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Flowise is an open-source project that enables users to build AI agents visually, making AI development more accessible and intuitive. By leveraging a frontend-centric approach, Flowise simplifies the process of creating and training AI models, allowing users to focus on the high-level logic of their agents without delving into complex code. This innovative platform empowers developers to create sophisticated AI applications with ease and efficiency.
+Flowise is an open-source project that enables users to build AI agents visually, streamlining the process of developing artificial intelligence solutions. This project combines the power of AI/ML with the simplicity of a frontend interface, making it accessible to developers and non-technical users alike. With Flowise, users can create and customize AI agents without requiring extensive coding knowledge.
 
 ---
 

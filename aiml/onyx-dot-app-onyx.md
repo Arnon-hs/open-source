@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Onyx is an open-source AI platform that enables AI chat with advanced features, compatible with various Large Language Models (LLMs). This versatile platform offers a wide range of capabilities, making it suitable for various applications and integrations. By leveraging Onyx's flexible architecture, developers can create innovative AI-powered solutions.
+Onyx is an open-source AI platform that enables users to build and deploy AI chat applications with advanced features. It seamlessly integrates with various Large Language Models (LLMs) to provide a robust and versatile solution. With its focus on frontend development, Onyx empowers developers to create innovative chat interfaces for a wide range of applications.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The langgraph project is an open-source initiative that enables the creation of robust language agents as graphs, providing a novel approach to building AI models. This innovative framework allows developers to represent language structures and relationships as interconnected nodes, fostering more resilient and adaptable AI systems. By leveraging this graph-based architecture, users can construct more sophisticated language agents with enhanced performance and scalability.
+Here's a brief summary for the langchain-ai/langgraph project:
+
+langchain-ai/langgraph is an open-source project that enables the creation of resilient language agents as graphs, allowing developers to build complex AI models and applications. By structuring language agents as interconnected graph nodes, this project facilitates the combination of various AI techniques to achieve more robust and sophisticated outcomes. It also supports frontend development, making it a versatile tool for both AI/ML and frontend engineers.
 
 ---
 

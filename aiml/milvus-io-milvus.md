@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | 2026-04-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,7 +25,9 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Milvus is an open-source, cloud-native vector database optimized for scalable vector similarity search, enabling fast and efficient data retrieval for artificial intelligence and machine learning applications. This database supports high-performance vector similarity search, making it suitable for various use cases such as recommendation systems, natural language processing, and computer vision. By utilizing Milvus, developers can efficiently query and retrieve relevant data from large datasets.
+Here's a brief summary of the Milvus project:
+
+Milvus is a cloud-native vector database designed for high-performance and scalable vector search, specifically optimized for applications that require efficient Artificial Neural Network (ANN) searches. Built for AI and Machine Learning (ML) use cases, Milvus enables fast and accurate vector similarity searches at large scales. Its cloud-native architecture ensures seamless deployment and management across various cloud environments.
 
 ---
 

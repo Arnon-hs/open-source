@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The continue project is an open-source initiative that enables developers to integrate AI checks into their source code, ensuring consistent quality and reliability. This is achieved through the Continue CLI, a powerful tool that integrates seamlessly with continuous integration (CI) pipelines. By enforcing AI-driven best practices, continue helps developers maintain high standards and streamline their development processes.
+The continue project provides an open-source solution for managing and enforcing AI checks through source control, making it easy to integrate into Continuous Integration (CI) pipelines. This is achieved through the Continue CLI, a powerful tool that enables developers to streamline AI testing and validation. By leveraging this project, developers can ensure their AI models meet quality standards and adhere to best practices.
 
 ---
 

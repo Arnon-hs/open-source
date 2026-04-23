@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | 2026-04-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Claude-Mem is an open-source plugin for Claude Code that enables seamless session capture, compression, and recall using AI-powered agent-sdk. This feature allows users to efficiently track their coding sessions, leveraging Claude's capabilities to compress and inject relevant context into future sessions. By automating session capture and recall, developers can streamline their workflow and improve productivity.
+Claude-Mem is an open-source plugin that enhances the Claude coding assistant by capturing and compressing session data using AI. This feature allows for the injection of relevant context into future sessions, improving the assistant's effectiveness and personalization. By leveraging Claude's agent-sdk, Claude-Mem optimizes the coding experience with a more intuitive and informed assistant.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The n8n project offers a fair-code workflow automation platform that combines visual building with custom code, allowing users to create complex workflows with ease. This platform boasts native AI capabilities and supports over 400 integrations, making it a versatile tool for automating tasks across various applications. With self-hosting and cloud deployment options, users can choose the best approach for their needs.
+Here's a brief summary for the n8n project:
+
+n8n is an open-source workflow automation platform that combines the power of visual building with custom code, enabling users to automate tasks efficiently. With native AI capabilities and 400+ integrations, n8n allows users to self-host or deploy their workflows on the cloud. This versatile platform empowers developers and non-coders alike to streamline processes and unlock productivity.
 
 ---
 

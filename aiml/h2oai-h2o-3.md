@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-H2O is an open-source machine learning platform that offers a wide range of scalable and fast algorithms for various applications. Its distributed architecture enables efficient processing of large datasets, supporting techniques such as deep learning, gradient boosting, and ensemble methods. With H2O, users can perform tasks like classification, regression, clustering, and feature engineering, streamlining the machine learning workflow.
+H2O-3 is an open-source, distributed, and scalable machine learning platform that offers a wide range of algorithms for modeling and analysis, including deep learning, gradient boosting, and generalized linear modeling. With its extensive library of algorithms, including random forest, K-means, and support vector machines, H2O-3 enables users to build and deploy high-performance machine learning models. By leveraging H2O-3, developers can simplify the machine learning process and streamline their workflow.
 
 ---
 

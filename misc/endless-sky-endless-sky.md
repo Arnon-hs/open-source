@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Endless Sky is an open-source space exploration, trading, and combat game. Players take on the role of a space traveler, navigating through a vast galaxy, engaging in combat, trading with alien species, and uncovering hidden secrets. With its open-world design and moddable gameplay, Endless Sky offers endless possibilities for players to explore and customize their experience.
+Endless Sky is an open-source, space exploration game that combines elements of trading, exploration, and combat. Players are free to explore a vast universe, engage in space battles, trade goods with alien species, and uncover the secrets of the cosmos. With a rich and immersive gameplay experience, Endless Sky offers endless possibilities for space travelers.
 
 ---
 

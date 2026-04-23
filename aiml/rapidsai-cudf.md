@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | 2026-04-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,7 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-cuDF is an open-source, GPU-accelerated DataFrame library that enables users to efficiently process large datasets. Developed by the team at Rapids AI, cuDF allows for high-performance data manipulation and analysis on NVIDIA GPUs, making it an ideal choice for AI/ML and data-intensive applications. By leveraging GPU acceleration, cuDF significantly speeds up data processing tasks, reducing computational time and increasing productivity.
+cuDF is an open-source, GPU-accelerated DataFrame library built on top of Apache Arrow, designed to provide high-performance data processing and analysis capabilities for artificial intelligence and machine learning applications. Developed by the RapidAPI team, cuDF leverages NVIDIA's CUDA technology to enable fast and scalable data manipulation and analysis on GPU hardware. This allows data scientists and engineers to accelerate their workflows and unlock new insights from large datasets.
 
 ---
 

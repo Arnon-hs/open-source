@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 18.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | 2026-04-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-webui project:
+Here's a brief summary for the open-webui/open-webui project:
 
-The open-webui project provides a user-friendly interface for interacting with various AI models, including Ollama and OpenAI API. This open-source interface offers an intuitive frontend and backend for developers to build and integrate AI-powered applications. By supporting multiple AI models, open-webui enables users to easily access and utilize AI capabilities in their projects.
+The open-webui project provides a user-friendly interface for interacting with various AI services, including Ollama and OpenAI API. This open-source platform allows users to easily access and utilize AI capabilities, making it accessible to both developers and non-technical users. With its frontend and backend support, open-webui offers a seamless and intuitive experience for harnessing the power of AI.
 
 ---
 
