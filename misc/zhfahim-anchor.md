@@ -1,17 +1,17 @@
 # zhfahim/anchor
 
-[![Stars](https://img.shields.io/github/stars/zhfahim/anchor?style=flat-square&color=yellow)](https://github.com/zhfahim/anchor/stargazers) [![Forks](https://img.shields.io/github/forks/zhfahim/anchor?style=flat-square&color=blue)](https://github.com/zhfahim/anchor/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-25%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhfahim/anchor?style=flat-square&color=yellow)](https://github.com/zhfahim/anchor/stargazers) [![Forks](https://img.shields.io/github/forks/zhfahim/anchor?style=flat-square&color=blue)](https://github.com/zhfahim/anchor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in YouTube video by <name>Awesome Open Source</name>   <uri>https://www.youtube.com/channel/UCwFpzG5MK5Shg_ncAhrgr9g</uri>: Anchor - Open Source Note taking to replace Google Keep
+> Offline first, self hostable note taking application
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 25/100 |
+| ⭐ **Stars** | 845 |
+| 🍴 **Forks** | 33 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | youtube |
 

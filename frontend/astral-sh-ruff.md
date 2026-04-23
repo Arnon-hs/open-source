@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Astral-sh/ruff is an open-source, high-performance code linter and formatter for Python, developed using the Rust programming language. This tool is designed to improve code quality and readability by providing fast and efficient linting and formatting capabilities. Its Rust-based architecture enables it to achieve exceptional speed and scalability.
+Astral-sh/ruff is an open-source code analysis tool that serves as a fast Python linter and code formatter. Written in Rust for high performance, it provides a reliable way to identify and fix coding errors, and maintain code consistency. This tool is designed to streamline development workflows and improve overall code quality.
 
 ---
 

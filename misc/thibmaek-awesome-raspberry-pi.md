@@ -1,17 +1,17 @@
 # thibmaek/awesome-raspberry-pi
 
-[![Stars](https://img.shields.io/github/stars/thibmaek/awesome-raspberry-pi?style=flat-square&color=yellow)](https://github.com/thibmaek/awesome-raspberry-pi/stargazers) [![Forks](https://img.shields.io/github/forks/thibmaek/awesome-raspberry-pi?style=flat-square&color=blue)](https://github.com/thibmaek/awesome-raspberry-pi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thibmaek/awesome-raspberry-pi?style=flat-square&color=yellow)](https://github.com/thibmaek/awesome-raspberry-pi/stargazers) [![Forks](https://img.shields.io/github/forks/thibmaek/awesome-raspberry-pi?style=flat-square&color=blue)](https://github.com/thibmaek/awesome-raspberry-pi/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
-> Listed in awesome-awesome
+> 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| ⭐ **Stars** | 16.3k |
+| 🍴 **Forks** | 1.1k |
+| 💻 **Language** | Shell |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

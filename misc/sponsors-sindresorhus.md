@@ -1,8 +1,8 @@
 # sponsors/sindresorhus
 
-[![Stars](https://img.shields.io/github/stars/sponsors/sindresorhus?style=flat-square&color=yellow)](https://github.com/sponsors/sindresorhus/stargazers) [![Forks](https://img.shields.io/github/forks/sponsors/sindresorhus?style=flat-square&color=blue)](https://github.com/sponsors/sindresorhus/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sponsors/sindresorhus?style=flat-square&color=yellow)](https://github.com/sponsors/sindresorhus/stargazers) [![Forks](https://img.shields.io/github/forks/sponsors/sindresorhus?style=flat-square&color=blue)](https://github.com/sponsors/sindresorhus/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-0%2F100-brightgreen?style=flat-square)](#)
 
-> Listed in awesome-awesome
+> _No description provided._
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| 📈 **Score** | 0/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Misc
+_uncategorized_
 
 ## 📝 Summary
 

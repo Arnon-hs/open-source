@@ -1,17 +1,17 @@
 # aiwaves-cn/agents
 
-[![Stars](https://img.shields.io/github/stars/aiwaves-cn/agents?style=flat-square&color=yellow)](https://github.com/aiwaves-cn/agents/stargazers) [![Forks](https://img.shields.io/github/forks/aiwaves-cn/agents?style=flat-square&color=blue)](https://github.com/aiwaves-cn/agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aiwaves-cn/agents?style=flat-square&color=yellow)](https://github.com/aiwaves-cn/agents/stargazers) [![Forks](https://img.shields.io/github/forks/aiwaves-cn/agents?style=flat-square&color=blue)](https://github.com/aiwaves-cn/agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
-> Listed in awesome-ai-agents
+> An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| ⭐ **Stars** | 5.9k |
+| 🍴 **Forks** | 479 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Data
 
 ## 📝 Summary
 

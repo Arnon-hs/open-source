@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-NocoBase is an open-source, AI-powered no-code/low-code platform designed for building business applications and enterprise solutions. This extensible platform empowers users to create complex custom applications without extensive coding knowledge, leveraging cutting-edge AI technology. By harnessing NocoBase's capabilities, users can streamline development processes and deploy robust solutions.
+NocoBase is an open-source, AI-powered no-code/low-code platform designed to facilitate the rapid development of business applications and enterprise solutions. This extensible platform empowers users to build complex applications without extensive coding knowledge, leveraging cutting-edge AI technology. With NocoBase, users can create scalable and efficient business solutions with minimal technical expertise.
 
 ---
 

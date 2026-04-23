@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Autonomous-Agents repository is an open-source project that collects and updates research papers on Large Language Models (LLMs), focusing on autonomous agents and AI/ML advancements on a daily basis. This initiative provides a centralized platform for researchers, developers, and enthusiasts to access and explore the latest findings in the field. By curating and sharing these papers, the project aims to accelerate innovation and collaboration within the AI community.
+This open-source project, Autonomous Agents (LLMs), provides a repository of research papers focused on Large Language Models (LLMs) and autonomous agents, updated daily to ensure users have access to the latest developments in the field of AI/ML. The project aims to facilitate collaboration and knowledge sharing among researchers and developers working on autonomous agents and LLMs. By aggregating and organizing relevant papers, the project supports the advancement of AI and ML technologies.
 
 ---
 

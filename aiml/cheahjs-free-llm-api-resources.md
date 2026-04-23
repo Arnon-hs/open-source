@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-This open-source project, free-llm-api-resources, provides a centralized list of free Large Language Model (LLM) inference resources that can be accessed through API calls. The project aims to streamline access to these resources, making it easier for developers to integrate LLM capabilities into their applications. By offering a curated collection of free LLM APIs, this project promotes innovation and accessibility in the field of AI development.
+The cheahjs/free-llm-api-resources project provides a comprehensive list of free Large Language Model (LLM) inference resources that can be accessed via API. This collection of resources enables developers to leverage the capabilities of LLMs without incurring significant costs, accelerating AI-powered projects and applications. The project aims to facilitate innovation in the field of artificial intelligence by making these valuable tools readily available.
 
 ---
 

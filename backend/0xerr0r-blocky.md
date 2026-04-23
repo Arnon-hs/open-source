@@ -25,9 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the 0xERR0R/blocky project:
+Here's a brief summary for the 0xERR0R/blocky project:
 
-0xERR0R/blocky is an open-source, fast, and lightweight DNS proxy that functions as an ad-blocker for local networks. This project offers a range of features to improve internet browsing within a local network by blocking unwanted advertisements and content. By utilizing a DNS proxy, users can experience a faster and more secure browsing experience.
+0xERR0R/blocky is an open-source, lightweight DNS proxy that acts as an ad-blocker for local networks. This project provides a fast and feature-rich solution for filtering out unwanted content, improving browsing experience and enhancing online security within a local network. With its customizable features, blocky enables users to tailor their ad-blocking settings to suit their specific needs.
 
 ---
 

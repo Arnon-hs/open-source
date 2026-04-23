@@ -27,7 +27,7 @@ AI/ML · Frontend · DevTools
 
 Here's a brief summary for the noborus/ov project:
 
-Ov is a feature-rich, open-source terminal-based text viewer, also known as a terminal pager. It provides a robust interface for displaying and navigating text content, making it a valuable tool for developers and users alike. With its advanced features, ov offers an efficient and customizable way to view and interact with text files in the terminal.
+Ov is an open-source, feature-rich terminal-based text viewer that functions as a terminal pager. It allows users to efficiently navigate and view large amounts of text in a terminal environment, making it a valuable tool for developers and data scientists. With its robust feature set and customizable options, ov is an ideal choice for those working with text data in the terminal.
 
 ---
 

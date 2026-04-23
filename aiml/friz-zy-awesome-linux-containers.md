@@ -1,17 +1,17 @@
 # Friz-zy/awesome-linux-containers
 
-[![Stars](https://img.shields.io/github/stars/Friz-zy/awesome-linux-containers?style=flat-square&color=yellow)](https://github.com/Friz-zy/awesome-linux-containers/stargazers) [![Forks](https://img.shields.io/github/forks/Friz-zy/awesome-linux-containers?style=flat-square&color=blue)](https://github.com/Friz-zy/awesome-linux-containers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Friz-zy/awesome-linux-containers?style=flat-square&color=yellow)](https://github.com/Friz-zy/awesome-linux-containers/stargazers) [![Forks](https://img.shields.io/github/forks/Friz-zy/awesome-linux-containers?style=flat-square&color=blue)](https://github.com/Friz-zy/awesome-linux-containers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
-> Listed in awesome-awesome
+> A curated list of awesome Linux Containers frameworks, libraries and software
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 2k |
+| 🍴 **Forks** | 178 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

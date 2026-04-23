@@ -1,17 +1,17 @@
 # thirdkeyai/symbiont
 
-[![Stars](https://img.shields.io/github/stars/thirdkeyai/symbiont?style=flat-square&color=yellow)](https://github.com/thirdkeyai/symbiont/stargazers) [![Forks](https://img.shields.io/github/forks/thirdkeyai/symbiont?style=flat-square&color=blue)](https://github.com/thirdkeyai/symbiont/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thirdkeyai/symbiont?style=flat-square&color=yellow)](https://github.com/thirdkeyai/symbiont/stargazers) [![Forks](https://img.shields.io/github/forks/thirdkeyai/symbiont?style=flat-square&color=blue)](https://github.com/thirdkeyai/symbiont/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Rust-native runtime for executing AI agents and tools under explicit policy, identity, and audit controls.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 40 |
+| 🍴 **Forks** | 7 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML · Security
 
 ## 📝 Summary
 
-The Microsoft Agent Governance Toolkit is an open-source project that provides a comprehensive framework for governing autonomous AI agents. It encompasses policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering to ensure secure and trustworthy AI operations. By addressing 10 out of 10 OWASP Agentic Top 10 vulnerabilities, this toolkit helps organizations build robust and reliable AI systems.
+The Microsoft Agent Governance Toolkit is an open-source project that provides a comprehensive platform for governing autonomous AI agents. It offers policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering capabilities, ensuring the secure and reliable operation of AI agents. By addressing 10 of the OWASP Agentic Top 10, this toolkit helps developers build trustworthy and secure AI systems.
 
 ---
 

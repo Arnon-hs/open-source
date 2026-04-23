@@ -1,8 +1,8 @@
 # MonicaFidalgo/git-garden
 
-[![Stars](https://img.shields.io/github/stars/MonicaFidalgo/git-garden?style=flat-square&color=yellow)](https://github.com/MonicaFidalgo/git-garden/stargazers) [![Forks](https://img.shields.io/github/forks/MonicaFidalgo/git-garden?style=flat-square&color=blue)](https://github.com/MonicaFidalgo/git-garden/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MonicaFidalgo/git-garden?style=flat-square&color=yellow)](https://github.com/MonicaFidalgo/git-garden/stargazers) [![Forks](https://img.shields.io/github/forks/MonicaFidalgo/git-garden?style=flat-square&color=blue)](https://github.com/MonicaFidalgo/git-garden/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag github): GitGarden - your GitHub contributions as a living pixel art garden 🌿
+> Your GitHub contributions as a living garden.
 
 ## 📊 Stats
 
@@ -10,8 +10,8 @@
 |---|---|
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 36/100 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 30/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

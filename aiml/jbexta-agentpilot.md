@@ -1,17 +1,17 @@
 # jbexta/AgentPilot
 
-[![Stars](https://img.shields.io/github/stars/jbexta/AgentPilot?style=flat-square&color=yellow)](https://github.com/jbexta/AgentPilot/stargazers) [![Forks](https://img.shields.io/github/forks/jbexta/AgentPilot?style=flat-square&color=blue)](https://github.com/jbexta/AgentPilot/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jbexta/AgentPilot?style=flat-square&color=yellow)](https://github.com/jbexta/AgentPilot/stargazers) [![Forks](https://img.shields.io/github/forks/jbexta/AgentPilot?style=flat-square&color=blue)](https://github.com/jbexta/AgentPilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
-> Listed in awesome-ai-agents
+> A versatile workflow automation platform to create, organize, and execute AI workflows, from a single LLM to complex AI-driven workflows.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| ⭐ **Stars** | 549 |
+| 🍴 **Forks** | 77 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Frontend · Backend
 
 ## 📝 Summary
 

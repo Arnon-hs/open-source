@@ -25,7 +25,7 @@ Crypto · DevTools · Security
 
 ## 📝 Summary
 
-Ciphey is an open-source project that enables automatic decryption of encrypted data without prior knowledge of the key or cipher. It also includes features for decoding various encodings and cracking hashes, making it a powerful tool for security researchers and developers. This project helps streamline the process of cryptanalysis, allowing users to quickly and efficiently identify encrypted data and recover its original content.
+Ciphey is an open-source project that enables automatic decryption of encrypted data without knowing the key or cipher, decoding of various encodings, and cracking of hashes. This powerful tool is designed to aid in cryptographic analysis and provide insight into potential security vulnerabilities. With its capabilities, Ciphey can be a valuable asset for developers, security researchers, and anyone working with encrypted data.
 
 ---
 

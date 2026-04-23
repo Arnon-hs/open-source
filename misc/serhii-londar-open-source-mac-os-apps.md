@@ -1,17 +1,17 @@
 # serhii-londar/open-source-mac-os-apps
 
-[![Stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps?style=flat-square&color=yellow)](https://github.com/serhii-londar/open-source-mac-os-apps/stargazers) [![Forks](https://img.shields.io/github/forks/serhii-londar/open-source-mac-os-apps?style=flat-square&color=blue)](https://github.com/serhii-londar/open-source-mac-os-apps/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps?style=flat-square&color=yellow)](https://github.com/serhii-londar/open-source-mac-os-apps/stargazers) [![Forks](https://img.shields.io/github/forks/serhii-londar/open-source-mac-os-apps?style=flat-square&color=blue)](https://github.com/serhii-londar/open-source-mac-os-apps/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
-> Listed in awesome-awesome
+> 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 48.3k |
+| 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

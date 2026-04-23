@@ -1,17 +1,17 @@
 # WICG/html-in-canvas
 
-[![Stars](https://img.shields.io/github/stars/WICG/html-in-canvas?style=flat-square&color=yellow)](https://github.com/WICG/html-in-canvas/stargazers) [![Forks](https://img.shields.io/github/forks/WICG/html-in-canvas?style=flat-square&color=blue)](https://github.com/WICG/html-in-canvas/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WICG/html-in-canvas?style=flat-square&color=yellow)](https://github.com/WICG/html-in-canvas/stargazers) [![Forks](https://img.shields.io/github/forks/WICG/html-in-canvas?style=flat-square&color=blue)](https://github.com/WICG/html-in-canvas/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in YouTube video by <name>Better Stack</name>   <uri>https://www.youtube.com/channel/UCkVfrGwV-iG9bSsgCbrNPxQ</uri>: HTML In Canvas Is Wild And I Love It
+> _No description provided._
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 2.8k |
+| 🍴 **Forks** | 109 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 33/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | youtube |
 

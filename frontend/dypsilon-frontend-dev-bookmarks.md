@@ -1,17 +1,17 @@
 # dypsilon/frontend-dev-bookmarks
 
-[![Stars](https://img.shields.io/github/stars/dypsilon/frontend-dev-bookmarks?style=flat-square&color=yellow)](https://github.com/dypsilon/frontend-dev-bookmarks/stargazers) [![Forks](https://img.shields.io/github/forks/dypsilon/frontend-dev-bookmarks?style=flat-square&color=blue)](https://github.com/dypsilon/frontend-dev-bookmarks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dypsilon/frontend-dev-bookmarks?style=flat-square&color=yellow)](https://github.com/dypsilon/frontend-dev-bookmarks/stargazers) [![Forks](https://img.shields.io/github/forks/dypsilon/frontend-dev-bookmarks?style=flat-square&color=blue)](https://github.com/dypsilon/frontend-dev-bookmarks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
-> Listed in awesome-awesome
+> Manually curated collection of resources for frontend web developers.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 46.5k |
+| 🍴 **Forks** | 5.1k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Frontend
+Frontend · DevTools
 
 ## 📝 Summary
 

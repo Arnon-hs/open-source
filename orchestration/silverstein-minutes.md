@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-"minutes" is an open-source conversation memory layer that collects and indexes various forms of communication, such as meeting minutes and voice notes, making them easily searchable by AI. This project prioritizes user privacy while providing a structured and accessible way to manage and analyze conversations. By providing a central hub for conversation history, "minutes" aims to streamline collaboration and knowledge sharing within teams.
+The silverstein/minutes project is an open-source, privacy-first conversation memory layer that indexes and makes searchable all conversations, meetings, and voice notes. This tool utilizes AI to provide seamless recall of discussion points, ideas, and decisions, promoting efficient collaboration and knowledge retention. By safeguarding user data, it prioritizes transparency and control.
 
 ---
 

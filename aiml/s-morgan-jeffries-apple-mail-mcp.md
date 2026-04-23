@@ -1,17 +1,17 @@
 # s-morgan-jeffries/apple-mail-mcp
 
-[![Stars](https://img.shields.io/github/stars/s-morgan-jeffries/apple-mail-mcp?style=flat-square&color=yellow)](https://github.com/s-morgan-jeffries/apple-mail-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/s-morgan-jeffries/apple-mail-mcp?style=flat-square&color=blue)](https://github.com/s-morgan-jeffries/apple-mail-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/s-morgan-jeffries/apple-mail-mcp?style=flat-square&color=yellow)](https://github.com/s-morgan-jeffries/apple-mail-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/s-morgan-jeffries/apple-mail-mcp?style=flat-square&color=blue)](https://github.com/s-morgan-jeffries/apple-mail-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> 🤖 MCP server for Apple Mail - Manage emails with AI using Claude Desktop. Search, send, organize mail with natural language.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 47 |
+| 🍴 **Forks** | 21 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The bambuddy project is an open-source, self-hosted print archive and management system designed specifically for Bambu Lab 3D printers. This system allows users to manage, track, and store their 3D printing projects locally, providing a convenient and private way to organize their print history. It aims to simplify the process of monitoring and maintaining 3D printing activities.
+Bambuddy is an open-source, self-hosted print archive and management system designed for Bambu Lab 3D printers. This tool allows users to easily manage and track their 3D printing projects, making it ideal for both personal and professional use. By providing a centralized platform for print management, Bambuddy streamlines the workflow and enhances overall printing efficiency.
 
 ---
 

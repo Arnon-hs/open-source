@@ -2,16 +2,16 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**22 projects** in this category.
+**23 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.3k | Python | 100/100 |
-| 2 | [argoproj/argo-cd](./argoproj-argo-cd.md) | ⭐ 22.7k | Go | 100/100 |
-| 3 | [dependabot/dependabot-core](./dependabot-dependabot-core.md) | ⭐ 5.5k | Ruby | 100/100 |
-| 4 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 77.6k | TypeScript | 100/100 |
+| 1 | [dependabot/dependabot-core](./dependabot-dependabot-core.md) | ⭐ 5.5k | Ruby | 100/100 |
+| 2 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.3k | Python | 100/100 |
+| 3 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 77.6k | TypeScript | 100/100 |
+| 4 | [argoproj/argo-cd](./argoproj-argo-cd.md) | ⭐ 22.7k | Go | 100/100 |
 | 5 | [chef/chef](./chef-chef.md) | ⭐ 8.2k | Ruby | 99/100 |
 | 6 | [prometheus-community/helm-charts](./prometheus-community-helm-charts.md) | ⭐ 6.1k | Mustache | 96/100 |
 | 7 | [angular/components](./angular-components.md) | ⭐ 25k | TypeScript | 95/100 |
@@ -25,11 +25,12 @@
 | 15 | [aws-controllers-k8s/community](./aws-controllers-k8s-community.md) | ⭐ 2.6k | — | 65/100 |
 | 16 | [cr0hn/dockerscan](./cr0hn-dockerscan.md) | ⭐ 1.5k | Go | 62/100 |
 | 17 | [opensearch-project/opensearch-k8s-operator](./opensearch-project-opensearch-k8s-operator.md) | ⭐ 541 | Go | 59/100 |
-| 18 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
-| 19 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 895 | Go | 56/100 |
+| 18 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 895 | Go | 56/100 |
+| 19 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
 | 20 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.3k | TypeScript | 55/100 |
-| 21 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ — | — | 39/100 |
-| 22 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ — | — | 36/100 |
+| 21 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 920 | Dockerfile | 48/100 |
+| 22 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 42/100 |
+| 23 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
 
 ---
 

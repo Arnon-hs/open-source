@@ -1,17 +1,17 @@
 # dannwaneri/vectorize-mcp-worker
 
-[![Stars](https://img.shields.io/github/stars/dannwaneri/vectorize-mcp-worker?style=flat-square&color=yellow)](https://github.com/dannwaneri/vectorize-mcp-worker.git/stargazers) [![Forks](https://img.shields.io/github/forks/dannwaneri/vectorize-mcp-worker?style=flat-square&color=blue)](https://github.com/dannwaneri/vectorize-mcp-worker.git/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dannwaneri/vectorize-mcp-worker?style=flat-square&color=yellow)](https://github.com/dannwaneri/vectorize-mcp-worker.git/stargazers) [![Forks](https://img.shields.io/github/forks/dannwaneri/vectorize-mcp-worker?style=flat-square&color=blue)](https://github.com/dannwaneri/vectorize-mcp-worker.git/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag opensource): The Gap Andrej Karpathy Didn't Fill
+> Hybrid RAG Worker on Cloudflare Edge — Vector + BM25 search, metadata filtering, multimodal vision, MCP server, and intelligent query routing. ~400ms p99.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend · Data
 
 ## 📝 Summary
 

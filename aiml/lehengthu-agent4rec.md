@@ -1,17 +1,17 @@
 # LehengTHU/Agent4Rec
 
-[![Stars](https://img.shields.io/github/stars/LehengTHU/Agent4Rec?style=flat-square&color=yellow)](https://github.com/LehengTHU/Agent4Rec/stargazers) [![Forks](https://img.shields.io/github/forks/LehengTHU/Agent4Rec?style=flat-square&color=blue)](https://github.com/LehengTHU/Agent4Rec/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LehengTHU/Agent4Rec?style=flat-square&color=yellow)](https://github.com/LehengTHU/Agent4Rec/stargazers) [![Forks](https://img.shields.io/github/forks/LehengTHU/Agent4Rec?style=flat-square&color=blue)](https://github.com/LehengTHU/Agent4Rec/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
-> Listed in awesome-ai-agents
+> [SIGIR 2024 perspective] The implementation of paper "On Generative Agents in Recommendation"
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| ⭐ **Stars** | 478 |
+| 🍴 **Forks** | 59 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

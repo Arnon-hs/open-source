@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-The AGI project is an open-source, distributed artificial general intelligence (AGI) system where thousands of autonomous AI agents collaborate and train models together. This peer-to-peer network allows users to join and contribute from a web browser or command-line interface, facilitating the sharing of experiments and breakthroughs. By leveraging a decentralized approach, the project pushes the boundaries of AI innovation.
+The hyperspaceai/agi project is an open-source, peer-to-peer distributed Artificial General Intelligence (AGI) system. This groundbreaking platform allows thousands of autonomous AI agents to collaborate, share experiments, and collectively push the boundaries of AI research. Users can join the system from either a web browser or command-line interface.
 
 ---
 

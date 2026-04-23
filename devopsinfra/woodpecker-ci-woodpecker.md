@@ -25,9 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the Woodpecker CI/CD engine:
-
-Woodpecker is an open-source, highly extensible Continuous Integration and Continuous Deployment (CI/CD) engine designed to streamline development workflows. Its simplicity and flexibility make it an ideal solution for teams seeking a customizable and efficient automation tool. With Woodpecker, users can create tailored pipelines to cater to their specific needs, enhancing development velocity and reducing manual errors.
+Woodpecker is an open-source Continuous Integration/Continuous Deployment (CI/CD) engine that offers simplicity and great extensibility. It is designed to provide a powerful and customizable solution for automating various aspects of the development pipeline. By leveraging Woodpecker, users can streamline their deployment processes and improve overall efficiency in their DevOps workflows.
 
 ---
 

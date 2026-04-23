@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Ultralytics YOLO is an open-source project that provides a suite of tools for object detection and computer vision tasks. Developed by Ultralytics, this project offers a range of features and functionalities for building and deploying deep learning models, particularly for tasks involving object detection and tracking. With a focus on ease of use and flexibility, Ultralytics YOLO is designed to accelerate development and deployment of computer vision applications.
+Ultralytics YOLO is an open-source project that provides a high-performance object detection library, powered by the YOLO (You Only Look Once) algorithm. This library allows developers to quickly and accurately detect objects in images and videos, making it a valuable tool for computer vision applications. With its user-friendly interface and optimized performance, Ultralytics YOLO helps streamline object detection tasks.
 
 ---
 

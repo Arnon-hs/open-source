@@ -1,17 +1,17 @@
 # DataBassGit/AgentForge
 
-[![Stars](https://img.shields.io/github/stars/DataBassGit/AgentForge?style=flat-square&color=yellow)](https://github.com/DataBassGit/AgentForge/stargazers) [![Forks](https://img.shields.io/github/forks/DataBassGit/AgentForge?style=flat-square&color=blue)](https://github.com/DataBassGit/AgentForge/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataBassGit/AgentForge?style=flat-square&color=yellow)](https://github.com/DataBassGit/AgentForge/stargazers) [![Forks](https://img.shields.io/github/forks/DataBassGit/AgentForge?style=flat-square&color=blue)](https://github.com/DataBassGit/AgentForge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> Listed in awesome-ai-agents
+> Extensible AGI Framework
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| ⭐ **Stars** | 781 |
+| 🍴 **Forks** | 155 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

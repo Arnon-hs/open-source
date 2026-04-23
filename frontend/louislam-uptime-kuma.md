@@ -25,7 +25,7 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Uptime Kuma is an open-source, self-hosted monitoring tool that offers a comprehensive and customizable solution for tracking system uptime and performance. With its user-friendly interface, users can easily monitor their servers, websites, and applications from a single dashboard. This project provides a flexible and scalable monitoring system that can be tailored to meet the needs of individual users and organizations.
+Uptime Kuma is an open-source, self-hosted monitoring tool designed for users to track the uptime and performance of their websites and applications. This user-friendly tool provides real-time monitoring and alerting capabilities, allowing users to stay informed about any service disruptions or issues. With Uptime Kuma, users can easily monitor their infrastructure and services from a single, customizable dashboard.
 
 ---
 

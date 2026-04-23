@@ -25,7 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The marimo project is an open-source, reactive notebook for Python that offers a range of features to simplify scientific computing and data analysis. It allows users to run reproducible experiments, query data with SQL, execute code as a script, deploy applications, and manage versions with Git, all from a modern, AI-native editor. This tool is designed to streamline the process of working with Python code and data in a collaborative and reproducible environment.
+Here's a brief summary for the Marimo project:
+
+Marimo is an open-source, reactive notebook for Python that enables users to run reproducible experiments, query data with SQL, execute code as a script, deploy applications, and version with Git. This modern, AI-native editor stores data as pure Python, allowing for seamless collaboration and deployment. With Marimo, users can easily manage and share their Python projects in a flexible and reproducible way.
 
 ---
 

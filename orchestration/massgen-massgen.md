@@ -25,7 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-MassGen is an open-source, terminal-based multi-agent scaling system that autonomously orchestrates models and agents to collaborate and produce high-quality results. This system facilitates AI/ML innovation by streamlining the process of running and integrating multiple models and agents. By utilizing MassGen, developers can efficiently orchestrate complex AI/ML workflows and accelerate their projects.
+Here's a 2-3 sentence summary for the MassGen project:
+
+MassGen is an open-source, multi-agent scaling system that autonomously orchestrates models and agents to collaborate and produce high-quality results in real-time. Built for the terminal, this AI/ML system enables seamless collaboration and reasoning among frontier models and agents, streamlining the process of achieving complex outcomes. With its user-friendly interface and scalable architecture, MassGen empowers developers to unlock the full potential of their AI and ML projects.
 
 ---
 

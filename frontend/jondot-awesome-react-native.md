@@ -1,17 +1,17 @@
 # jondot/awesome-react-native
 
-[![Stars](https://img.shields.io/github/stars/jondot/awesome-react-native?style=flat-square&color=yellow)](https://github.com/jondot/awesome-react-native/stargazers) [![Forks](https://img.shields.io/github/forks/jondot/awesome-react-native?style=flat-square&color=blue)](https://github.com/jondot/awesome-react-native/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jondot/awesome-react-native?style=flat-square&color=yellow)](https://github.com/jondot/awesome-react-native/stargazers) [![Forks](https://img.shields.io/github/forks/jondot/awesome-react-native?style=flat-square&color=blue)](https://github.com/jondot/awesome-react-native/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
-> Listed in awesome-awesome
+> Awesome React Native components, news, tools, and learning material!
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| ⭐ **Stars** | 35.7k |
+| 🍴 **Forks** | 4k |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

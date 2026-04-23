@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Pyrefly is an open-source project that provides a fast type checker and language server for Python, enabling developers to leverage features like real-time code analysis and auto-completion. This project aims to improve the overall development experience by providing robust language support, making it easier to write and maintain high-quality Python code. By utilizing Pyrefly, developers can enhance their productivity and accuracy while coding.
+Pyrefly is an open-source project that provides a fast type checker and language server for Python. It enables developers to leverage advanced language features and gain improved code insights, ultimately enhancing the overall coding experience. By offering a robust and efficient solution, Pyrefly aims to bridge the gap between Python's flexibility and the benefits of static type checking.
 
 ---
 
