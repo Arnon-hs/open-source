@@ -2,19 +2,19 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**76 projects** in this category.
+**77 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [bee-san/Ciphey](./bee-san-ciphey.md) | ⭐ 21.3k | Rust | 100/100 |
-| 2 | [krzyzanowskim/CryptoSwift](./krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Swift | 100/100 |
-| 3 | [elizaOS/eliza](./elizaos-eliza.md) | ⭐ 18.2k | TypeScript | 100/100 |
-| 4 | [nautechsystems/nautilus_trader](./nautechsystems-nautilus-trader.md) | ⭐ 22.2k | Rust | 100/100 |
-| 5 | [OpenBB-finance/OpenBB](./openbb-finance-openbb.md) | ⭐ 66.4k | Python | 100/100 |
-| 6 | [lightningnetwork/lnd](./lightningnetwork-lnd.md) | ⭐ 8.1k | Go | 100/100 |
-| 7 | [btcpayserver/btcpayserver](./btcpayserver-btcpayserver.md) | ⭐ 7.5k | C# | 100/100 |
+| 2 | [OpenBB-finance/OpenBB](./openbb-finance-openbb.md) | ⭐ 66.4k | Python | 100/100 |
+| 3 | [lightningnetwork/lnd](./lightningnetwork-lnd.md) | ⭐ 8.1k | Go | 100/100 |
+| 4 | [btcpayserver/btcpayserver](./btcpayserver-btcpayserver.md) | ⭐ 7.5k | C# | 100/100 |
+| 5 | [krzyzanowskim/CryptoSwift](./krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Swift | 100/100 |
+| 6 | [elizaOS/eliza](./elizaos-eliza.md) | ⭐ 18.2k | TypeScript | 100/100 |
+| 7 | [nautechsystems/nautilus_trader](./nautechsystems-nautilus-trader.md) | ⭐ 22.2k | Rust | 100/100 |
 | 8 | [monero-project/monero](./monero-project-monero.md) | ⭐ 10.5k | C++ | 100/100 |
 | 9 | [huggingface/transformers](./huggingface-transformers.md) | ⭐ 159.8k | Python | 100/100 |
 | 10 | [foundry-rs/foundry](./foundry-rs-foundry.md) | ⭐ 10.3k | Rust | 100/100 |
@@ -78,12 +78,13 @@
 | 68 | [lambdaclass/ethrex](./lambdaclass-ethrex.md) | ⭐ 859 | Rust | 59/100 |
 | 69 | [rebase-network/who-is-hiring](./rebase-network-who-is-hiring.md) | ⭐ 1.7k | HTML | 59/100 |
 | 70 | [solana-foundation/pay](./solana-foundation-pay.md) | ⭐ 1.5k | Rust | 59/100 |
-| 71 | [phishdestroy/destroylist](./phishdestroy-destroylist.md) | ⭐ 949 | HTML | 58/100 |
+| 71 | [phishdestroy/destroylist](./phishdestroy-destroylist.md) | ⭐ 950 | HTML | 58/100 |
 | 72 | [stefanberger/swtpm](./stefanberger-swtpm.md) | ⭐ 778 | C | 57/100 |
-| 73 | [vsys-host/shkeeper.io](./vsys-host-shkeeper.io.md) | ⭐ 556 | Python | 56/100 |
-| 74 | [omnuron/omniclaw](./omnuron-omniclaw.md) | ⭐ 495 | Python | 54/100 |
-| 75 | [Merit-Systems/x402scan](./merit-systems-x402scan.md) | ⭐ 325 | TypeScript | 54/100 |
-| 76 | [wilpel/caveman-compression](./wilpel-caveman-compression.md) | ⭐ 787 | Python | 40/100 |
+| 73 | [onflow/cadence](./onflow-cadence.md) | ⭐ 545 | Go | 56/100 |
+| 74 | [vsys-host/shkeeper.io](./vsys-host-shkeeper.io.md) | ⭐ 556 | Python | 56/100 |
+| 75 | [omnuron/omniclaw](./omnuron-omniclaw.md) | ⭐ 495 | Python | 54/100 |
+| 76 | [Merit-Systems/x402scan](./merit-systems-x402scan.md) | ⭐ 325 | TypeScript | 54/100 |
+| 77 | [wilpel/caveman-compression](./wilpel-caveman-compression.md) | ⭐ 787 | Python | 40/100 |
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the shuaiplus/nodewarden project:
 
-Nodewarden is an open-source, third-party Bitwarden server that utilizes Cloudflare Workers for a scalable and secure password management solution. This project enables users to host their own Bitwarden instance on Cloudflare's global network, providing enhanced security and reliability. By leveraging Cloudflare Workers, Nodewarden offers a high-performance and flexible alternative to traditional Bitwarden hosting options.
+Nodewarden is an open-source, third-party Bitwarden server that leverages Cloudflare Workers for a scalable and secure password management solution. This project enables users to host their own Bitwarden instance on Cloudflare's edge network, providing enhanced security and performance. By utilizing Cloudflare Workers, Nodewarden offers a flexible and cost-effective alternative to traditional self-hosted Bitwarden servers.
 
 ---
 

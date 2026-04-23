@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **1825** |
+| 🗂️ **Total projects** | **1879** |
 | 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 686 | [Browse →](./aiml/) |
-| 📦 **Misc** | 302 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 204 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 167 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 107 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 89 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 76 | [Browse →](./crypto/) |
-| 📊 **Data** | 51 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 44 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 28 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 706 | [Browse →](./aiml/) |
+| 📦 **Misc** | 312 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 210 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 169 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 112 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 91 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 77 | [Browse →](./crypto/) |
+| 📊 **Data** | 56 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 45 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 29 | [Browse →](./mobile/) |
 | 💳 **Payments** | 23 | [Browse →](./payments/) |
 | 📈 **Trading** | 21 | [Browse →](./trading/) |
-| 🔐 **Security** | 16 | [Browse →](./security/) |
+| 🔐 **Security** | 17 | [Browse →](./security/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
 | ✨ **Design** | 3 | [Browse →](./design/) |
 
@@ -38,16 +38,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [ClickHouse/ClickHouse](./aiml/clickhouse-clickhouse.md) | ⭐ 47k | AI/ML |
-| 2 | [doocs/leetcode](./misc/doocs-leetcode.md) | ⭐ 35.9k | Misc |
-| 3 | [Graylog2/graylog2-server](./backend/graylog2-graylog2-server.md) | ⭐ 8k | Backend |
-| 4 | [langbot-app/LangBot](./aiml/langbot-app-langbot.md) | ⭐ 15.9k | AI/ML |
-| 5 | [charmbracelet/bubbletea](./frontend/charmbracelet-bubbletea.md) | ⭐ 41.8k | Frontend |
-| 6 | [wilsonfreitas/awesome-quant](./trading/wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | Trading |
-| 7 | [elie222/inbox-zero](./aiml/elie222-inbox-zero.md) | ⭐ 10.5k | AI/ML |
-| 8 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 35.9k | Orchestration |
-| 9 | [nocobase/nocobase](./aiml/nocobase-nocobase.md) | ⭐ 22.2k | AI/ML |
-| 10 | [ultralytics/ultralytics](./devtools/ultralytics-ultralytics.md) | ⭐ 56.3k | DevTools |
+| 1 | [fmtlib/fmt](./misc/fmtlib-fmt.md) | ⭐ 23.4k | Misc |
+| 2 | [mrousavy/react-native-vision-camera](./aiml/mrousavy-react-native-vision-camera.md) | ⭐ 9.3k | AI/ML |
+| 3 | [apache/beam](./data/apache-beam.md) | ⭐ 8.6k | Data |
+| 4 | [ClickHouse/ClickHouse](./aiml/clickhouse-clickhouse.md) | ⭐ 47k | AI/ML |
+| 5 | [VectifyAI/PageIndex](./aiml/vectifyai-pageindex.md) | ⭐ 25.7k | AI/ML |
+| 6 | [MemoriLabs/Memori](./orchestration/memorilabs-memori.md) | ⭐ 13.7k | Orchestration |
+| 7 | [charmbracelet/bubbletea](./frontend/charmbracelet-bubbletea.md) | ⭐ 41.8k | Frontend |
+| 8 | [nocobase/nocobase](./aiml/nocobase-nocobase.md) | ⭐ 22.2k | AI/ML |
+| 9 | [comet-ml/opik](./orchestration/comet-ml-opik.md) | ⭐ 19k | Orchestration |
+| 10 | [dgtlmoon/changedetection.io](./backend/dgtlmoon-changedetection.io.md) | ⭐ 31.2k | Backend |
 
 ## 🚀 How it works
 

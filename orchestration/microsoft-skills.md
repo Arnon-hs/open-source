@@ -25,7 +25,9 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The Microsoft Skills project is an open-source initiative that enables developers to build and integrate Custom Agents with Coding Agents, while also providing a foundation for MCP servers and SDKs. This project focuses on orchestration and AI/ML applications, providing a robust backend for various use cases. By contributing to this project, developers can help advance the capabilities of Coding Agents and expand their utility across different domains.
+Here's a brief summary of the project:
+
+The 'microsoft/skills' project provides a foundation for building Custom Agents and MCP (Machine Learning Container Platform) servers, enabling developers to create and manage coding agents. This open-source framework offers a set of SDKs and tools, including Agents.md, to facilitate the development of skills and agents. By leveraging this project, developers can orchestrate and integrate AI/ML capabilities into their applications.
 
 ---
 

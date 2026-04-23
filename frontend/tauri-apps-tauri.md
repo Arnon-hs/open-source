@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Tauri is an open-source framework that enables developers to build cross-platform desktop and mobile applications with a web frontend. By leveraging web technologies, Tauri offers a faster and more secure alternative to traditional native application development. This results in smaller, faster, and more maintainable applications with a native feel.
+Tauri is an open-source project that enables developers to create cross-platform desktop and mobile applications with a web frontend, resulting in smaller, faster, and more secure applications. Using a web frontend allows developers to leverage their existing web development skills and frameworks while still providing native-like experiences on various platforms. With Tauri, developers can build applications that are more accessible and maintainable.
 
 ---
 

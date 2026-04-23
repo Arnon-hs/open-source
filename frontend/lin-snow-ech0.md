@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Ech0 is a free, open-source publishing platform designed for personal idea sharing. This lightweight platform allows users to host their content independently, offering a flexible alternative to traditional blogging tools. By hosting Ech0 on one's own server, users can maintain control over their data and content.
+Ech0 is a free, self-hosted publishing platform designed for personal idea sharing, offering a lightweight and open-source solution for users to share their thoughts and content. Developed by the lin-snow community, Ech0 provides a simple and intuitive interface for users to create, manage, and publish their content without relying on external services. This project is ideal for individuals seeking a private and customizable platform for personal blogging, note-taking, or idea documentation.
 
 ---
 

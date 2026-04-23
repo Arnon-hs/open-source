@@ -25,7 +25,9 @@ Frontend · Backend · Data
 
 ## 📝 Summary
 
-Meelo is a self-hosted music server that prioritizes metadata integration and user interface to provide a seamless music experience. This open-source project aims to offer a comprehensive music library management system, allowing users to easily discover, organize, and play their favorite tracks. By self-hosting Meelo, users maintain full control over their music collection and can customize the UI to suit their preferences.
+Here's a brief summary of the Meelo project:
+
+Meelo is an open-source, self-hosted music server designed to provide a seamless music experience. It focuses on integrating rich metadata and offers a user-friendly interface for easy navigation and music management. With Meelo, users can host their music library privately and access it from anywhere.
 
 ---
 

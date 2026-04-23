@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here is a brief summary of the LibreChat project:
+Here's a 2-3 sentence summary for the LibreChat project:
 
-LibreChat is an open-source, self-hostable chat platform that offers a range of advanced features, including support for multiple AI models, agents, and integrations with cloud services. This project provides a customizable and secure solution for building and managing chat applications, with features like message search, code interpretation, and multi-user authentication. LibreChat is built to be highly extensible, with support for user-defined presets and actions.
+LibreChat is an open-source, self-hosted chat platform that serves as an enhanced clone of ChatGPT, featuring a range of advanced capabilities. It includes support for various AI models, including GPT-5, MCP, and DeepSeek, as well as integration with cloud services like AWS, Azure, and OpenAI. With features like secure multi-user authentication, message search, and an integrated code interpreter, LibreChat aims to provide a highly customizable and extensible chat experience.
 
 ---
 

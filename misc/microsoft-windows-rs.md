@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Microsoft Windows-rs is an open-source project that aims to provide a Rust implementation for Windows, enabling developers to write native Windows applications using the Rust programming language. This initiative provides a bridge for Rust developers to create Windows-specific code, thereby expanding the language's capabilities on the Windows platform. By leveraging Windows-rs, developers can build high-performance, secure, and reliable Windows applications in Rust.
+The microsoft/windows-rs project is an open-source implementation of the Windows API for the Rust programming language. This project aims to provide a Rust-native interface to the Windows operating system, allowing developers to write Windows applications entirely in Rust. By bridging the gap between Rust and Windows, this project enables cross-platform development and a more comprehensive Rust ecosystem.
 
 ---
 

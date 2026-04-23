@@ -25,9 +25,9 @@ Orchestration · Frontend · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the gronxb/hot-updater project:
+Here's a 2-3 sentence summary for the gronxb/hot-updater project:
 
-The gronxb/hot-updater is an open-source, self-hostable Over-the-Air (OTA) update solution designed for React Native applications, offering a flexible alternative to CodePush. This solution enables developers to manage and deploy updates to their mobile apps without relying on third-party services. By hosting updates locally, developers can maintain full control over their application's updates and security.
+Hot-Updater is an open-source, self-hostable solution for over-the-air (OTA) updates in React Native applications, providing an alternative to CodePush. This project enables developers to manage and deliver updates directly from their own servers, offering greater control and flexibility. By using Hot-Updater, developers can easily push updates to their React Native apps, enhancing the user experience and improving app reliability.
 
 ---
 

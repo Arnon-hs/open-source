@@ -1,6 +1,6 @@
 # edimuj/callmux
 
-[![Stars](https://img.shields.io/github/stars/edimuj/callmux?style=flat-square&color=yellow)](https://github.com/edimuj/callmux/stargazers) [![Forks](https://img.shields.io/github/forks/edimuj/callmux?style=flat-square&color=blue)](https://github.com/edimuj/callmux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edimuj/callmux?style=flat-square&color=yellow)](https://github.com/edimuj/callmux/stargazers) [![Forks](https://img.shields.io/github/forks/edimuj/callmux?style=flat-square&color=blue)](https://github.com/edimuj/callmux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Multiplexer for MCP tool calls: parallel execution, batching, caching, and pipelining for any MCP server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

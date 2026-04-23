@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Eclipse OpenJ9 is an open-source Java Virtual Machine (JVM) optimized for small footprint, fast start-up, and high throughput. Built on the Eclipse OMR, it combines with OpenJDK extensions to provide a highly efficient and scalable platform for Java applications. This project enables developers to create faster and more compact Java applications with improved performance.
+Here's a brief summary of the eclipse-openj9/openj9 project:
+
+Eclipse OpenJ9 is an open-source Java Virtual Machine (JVM) designed for high performance, small footprint, and fast start-up times. Built on top of the Eclipse OMR and combined with the Extensions for OpenJDK for OpenJ9, OpenJ9 optimizes Java application execution. This JVM is ideal for applications requiring efficient resource utilization and rapid deployment.
 
 ---
 

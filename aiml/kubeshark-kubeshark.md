@@ -25,7 +25,9 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Kubeshark is an open-source project that provides network observability for Kubernetes environments using eBPF technology. It indexes both Layer 4 and 7 traffic, including decrypted TLS data without the need for keys, and offers a full context of Kubernetes operations. This data is accessible through a dashboard for humans and via MCP for AI agents, enabling more efficient monitoring and security analysis of Kubernetes clusters.
+Here's a brief summary of the kubeshark project:
+
+Kubeshark is an open-source, eBPF-powered network observability tool for Kubernetes. It indexes and decrypts L4/L7 traffic, providing full K8s context without requiring TLS keys, and offers query capabilities for both AI agents and human users through a dashboard and MCP. This solution enhances network visibility and security in Kubernetes environments.
 
 ---
 

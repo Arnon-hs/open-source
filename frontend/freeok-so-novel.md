@@ -25,9 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "so-novel":
+Here's a brief summary of the "so-novel" project:
 
-So-novel is an open-source project enabling users to download novels and web novels easily. It provides a convenient platform for accessing and storing large collections of online literature, promoting a culture of reading and sharing. Developed with a focus on Frontend and DevTools, this project aims to simplify the process of discovering and enjoying online novels.
+The "so-novel" project is an open-source platform for downloading and accessing online novels. It provides a user-friendly interface to browse and retrieve popular web novels from various sources. By using "so-novel", readers can easily discover and enjoy their favorite online stories.
 
 ---
 

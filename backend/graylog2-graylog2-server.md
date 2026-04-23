@@ -25,7 +25,7 @@ Backend · Security
 
 ## 📝 Summary
 
-Graylog2/graylog2-server is an open-source log management solution that enables users to efficiently collect, store, and analyze log data from various sources. This free and open-source project provides a scalable and secure platform for monitoring and troubleshooting applications, systems, and infrastructure. Its features include real-time log processing, flexible filtering, and customizable dashboards.
+Graylog2/graylog2-server is a free and open-source log management system designed for centralized log collection, indexing, and analysis. This project enables users to efficiently monitor and manage their system logs, providing valuable insights into system performance and security. With Graylog2, developers and IT teams can easily identify and troubleshoot issues, enhancing overall system reliability and security.
 
 ---
 

@@ -25,9 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the project:
 
-jcodemunch-mcp is an open-source, highly efficient MCP server designed for GitHub source code exploration. Utilizing tree-sitter AST parsing, it efficiently extracts valuable insights from source code, making it an ideal tool for developers and researchers. This project streamlines GitHub source code analysis, enabling users to unlock new levels of code understanding and analysis.
+jcodemunch-mcp is an open-source, highly efficient MCP (Metadata Content Parser) server for exploring GitHub source code. Utilizing tree-sitter AST parsing, this project enables fast and accurate analysis of code structures. It is a leading solution for developers seeking to extract valuable insights from GitHub repositories.
 
 ---
 

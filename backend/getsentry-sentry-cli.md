@@ -25,7 +25,7 @@ Backend · DevTools · Product
 
 ## 📝 Summary
 
-The getsentry/sentry-cli project is an open-source command line utility designed to simplify interactions with Sentry, a leading error tracking and monitoring platform. With sentry-cli, users can easily manage projects, upload dsn configurations, and execute other essential tasks from the comfort of their terminal. This tool streamlines workflows, saving developers time and effort when working with Sentry.
+Sentry-cli is an open-source command line utility that enables users to interact with Sentry, a platform for monitoring and tracking application errors. This tool allows developers to send and view errors, manage settings, and perform various other tasks related to Sentry from the comfort of their terminal. With sentry-cli, users can streamline their workflow and improve collaboration when working with Sentry.
 
 ---
 

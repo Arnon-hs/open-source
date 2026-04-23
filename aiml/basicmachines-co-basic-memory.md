@@ -25,9 +25,9 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a 2-3 sentence summary for the described project:
 
-basic-memory is an open-source project that enables AI conversations to retain memory, eliminating the need for repeated explanations. This innovative solution allows for more efficient and productive interactions with AI systems, making it a valuable tool for developers and users alike. By joining the community on Discord, you can contribute to and learn from this cutting-edge project.
+"Basic Machines' Basic Memory project aims to revolutionize AI conversations by introducing a memory function that allows AI models to retain information and recall past interactions. This innovative approach eliminates the need for repetitive explanations, enabling more efficient and effective conversations. By joining the project, you can contribute to the development of a more intuitive and user-friendly AI experience."
 
 ---
 

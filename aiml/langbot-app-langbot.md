@@ -25,9 +25,9 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the LangBot project:
+Here's a brief summary for the LangBot project in 2-3 sentences:
 
-LangBot is an open-source, production-grade platform for building intelligent chatbots that can be deployed across multiple platforms, including popular messaging services like Discord, Slack, and WeChat. This versatile platform provides a range of features, including agent development, knowledge graph management, and a plugin system that can integrate with various AI and ML models, such as ChatGPT and DeepSeek. LangBot enables developers to create sophisticated, agentic chatbots with ease.
+LangBot is an open-source, production-grade platform for building intelligent machine bots that can be integrated with various messaging platforms. It provides a range of features, including agent development, knowledge graph arrangement, and a plugin system, allowing users to create bots for popular platforms like Discord, Slack, and WeChat. With support for various AI and ML models, including ChatGPT, LangBot enables developers to build sophisticated and integrated conversational interfaces.
 
 ---
 

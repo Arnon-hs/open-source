@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Mir is a Rust language interpreter that targets the mid-level intermediate representation (MIR) of the Rust compiler. It provides a platform for experimenting with and testing the MIR, allowing developers to evaluate and analyze the execution of Rust code at a low level. This open-source project facilitates the development and refinement of the Rust compiler and language.
+The Miri project is an open-source, Rust-specific interpreter designed to execute the mid-level intermediate representation (MIR) of the Rust programming language. Miri serves as a debugging and testing tool, allowing developers to analyze and verify the behavior of Rust code at a lower level than the high-level Rust syntax. By interpreting MIR, Miri facilitates precise control over execution and facilitates the creation of fuzz testing and verification tools.
 
 ---
 

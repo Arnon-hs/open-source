@@ -25,9 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the "sdns" open-source project:
-
-"sdns is a high-performance, recursive DNS resolver server that prioritizes user privacy. It offers robust support for DNSSEC, ensuring the authenticity and integrity of DNS responses. This open-source project is designed to provide a secure and private DNS resolution experience."
+SDNS is an open-source, high-performance DNS resolver server that prioritizes user privacy, featuring robust DNSSEC support for secure domain name resolution. This project focuses on providing a reliable and fast DNS resolution experience while maintaining confidentiality of user queries. By leveraging DNSSEC, SDNS ensures the authenticity and integrity of DNS responses.
 
 ---
 

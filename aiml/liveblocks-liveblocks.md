@@ -25,7 +25,7 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Liveblocks is an open-source, real-time infrastructure designed to facilitate the development of multiplayer applications and agents, enabling seamless collaborations and interactions between users. Built for scalability and performance, Liveblocks provides a robust foundation for various use cases, including AI/ML, frontend, and DevOps/infrastructure projects. This real-time platform empowers developers to create immersive and dynamic experiences with ease.
+Liveblocks is an open-source, real-time infrastructure designed to power multiplayer applications and agents. It enables developers to create immersive, collaborative experiences by providing a robust and scalable platform for real-time data synchronization and communication. With Liveblocks, users can build seamless, low-latency interactions across various platforms and applications.
 
 ---
 

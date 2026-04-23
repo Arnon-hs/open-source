@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Bubbletea is an open-source, lightweight, and powerful terminal user interface (TUI) framework designed to simplify the creation of complex applications. It features a robust set of features for building custom user interfaces, making it an ideal choice for developers who need to create interactive command-line tools. Bubbletea's ease of use and flexibility make it a valuable addition to any development toolkit.
+Bubbletea is an open-source, powerful, and lightweight Terminal User Interface (TUI) framework. It provides developers with a versatile tool for building complex and customizable terminal interfaces, leveraging its extensible and modular design. With Bubbletea, users can create intuitive and visually appealing TUI applications for a wide range of tasks and use cases.
 
 ---
 

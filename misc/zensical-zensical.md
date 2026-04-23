@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Zensical is a modern static site generator developed by the Material for MkDocs team. It provides a flexible and efficient way to build fast, secure, and scalable websites, ideal for projects requiring high performance and reliability. With its open-source nature, zensical allows users to customize and extend its capabilities to suit their specific needs.
+Zensical is a modern static site generator developed by the Material for MkDocs team. This open-source project offers a powerful and flexible tool for creating and managing static websites, providing a range of features and customization options. It allows users to create fast, secure, and scalable websites with ease.
 
 ---
 

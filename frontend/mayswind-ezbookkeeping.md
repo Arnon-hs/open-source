@@ -25,9 +25,9 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here is a 2-3 sentence summary for the ezbookkeeping project:
 
-"Ezbookkeeping is a user-friendly and lightweight personal finance app that allows users to self-host and manage their finances securely. With a focus on powerful bookkeeping features, this app provides a simple and intuitive interface for tracking expenses, income, and budgets. By hosting it locally, users maintain complete control over their financial data."
+Ezbookkeeping is a user-friendly, self-hosted personal finance app designed to simplify bookkeeping and financial management. As an open-source project, it offers a lightweight and flexible solution for individuals to manage their expenses, income, and accounts with ease. With a focus on user experience and powerful bookkeeping features, ezbookkeeping empowers users to take control of their finances with a customizable and secure platform.
 
 ---
 

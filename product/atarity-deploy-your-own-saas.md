@@ -25,9 +25,9 @@ Product
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the open-source project "deploy-your-own-saas":
 
-Atarity's "deploy-your-own-saas" offers a range of customizable, self-hosted cloud services tailored to everyday needs. This open-source project provides a list of personal, private cloud services that can be deployed on your own infrastructure, giving you full control over your data and applications. By using "deploy-your-own-saas", users can create a personalized cloud ecosystem that meets their unique requirements.
+Deploy-Your-Own-SaaS is an open-source project that offers a list of customizable cloud services for everyday needs, empowering users to take control of their data and applications. This initiative aims to provide a private and secure alternative to traditional cloud services, allowing users to deploy their own tailored solutions. By leveraging this project, individuals and organizations can simplify their cloud infrastructure and enhance data sovereignty.
 
 ---
 

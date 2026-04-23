@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The "any-llm" project is an open-source interface that enables seamless communication with various Large Language Model (LLM) providers, abstracting away the complexities of different APIs and protocols. This unified interface provides a consistent and easy-to-use API for interacting with LLMs, making it easier for developers to integrate these powerful models into their applications. By simplifying access to LLMs, "any-llm" accelerates innovation in AI and machine learning.
+The any-llm project provides a unified interface for interacting with various Large Language Model (LLM) providers, allowing developers to communicate with multiple LLM services using a single, standardized API. This open-source project facilitates seamless integration with different LLM services, making it easier to leverage the capabilities of these AI models in applications and projects. By centralizing the communication with LLM providers, any-llm streamlines the development process and promotes interoperability across the industry.
 
 ---
 

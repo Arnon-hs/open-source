@@ -25,9 +25,7 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the NVIDIA-NeMo/DataDesigner project:
-
-NeMo Data Designer is an open-source tool that enables the generation of high-quality synthetic data from scratch or from seed data. This project facilitates data creation and augmentation for various AI and machine learning (ML) applications, allowing users to efficiently produce reliable and diverse datasets. By leveraging Data Designer, developers can streamline their data preparation workflows and accelerate the development of AI and ML models.
+The NVIDIA-NeMo Data Designer is an open-source project that enables the generation of high-quality synthetic data from scratch or from seed data. It allows users to create custom datasets tailored to their specific needs, facilitating efficient and effective AI/ML model development and testing. This tool is designed to streamline data preparation and accelerate the development of robust AI models.
 
 ---
 
