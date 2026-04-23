@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Stalwart is an open-source, all-in-one Mail & Collaboration server that combines email, calendar, and contact management capabilities into a single, secure platform. It supports a wide range of protocols, including IMAP, JMAP, SMTP, CalDAV, CardDAV, and WebDAV, making it highly scalable and flexible. This server is designed to meet the needs of businesses and organizations seeking a reliable and efficient collaboration solution.
+Here's a brief summary of the stalwart project:
+
+Stalwart is an open-source, all-in-one mail and collaboration server designed for secure and scalable communication. It supports a wide range of protocols, including IMAP, JMAP, SMTP, CalDAV, CardDAV, and WebDAV, making it a versatile solution for various organizational needs. By leveraging stalwart, users can enjoy seamless integration and collaboration across different applications and services.
 
 ---
 

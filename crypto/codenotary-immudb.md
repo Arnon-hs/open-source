@@ -25,9 +25,9 @@ Crypto · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the codenotary/immudb project:
+Here's a 2-3 sentence summary for the open-source project codenotary/immudb:
 
-Immudb is an open-source, tamperproof database that ensures data integrity and security through its immutable and zero-trust architecture. It supports various data models, including SQL, Key-Value, and Document, and maintains a tamper-proof record of all data changes. This makes immudb suitable for applications requiring high data security and auditability.
+immudb is a tamperproof, immutable database that secures data with a zero-trust approach. It supports multiple data models, including SQL, Key-Value, and Document, while maintaining a tamper-evident data change history. This open-source project provides a reliable and trustworthy solution for storing and managing sensitive data.
 
 ---
 

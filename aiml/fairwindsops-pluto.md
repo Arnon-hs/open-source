@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The Pluto CLI tool is an open-source project designed to help users discover deprecated API versions in Kubernetes environments. This tool enables developers to identify and mitigate potential issues that may arise from using outdated or unsupported Kubernetes APIs. By leveraging Pluto, users can ensure the stability and security of their Kubernetes deployments.
+Here's a brief summary of the FairwindsOps/pluto project:
+
+Pluto is an open-source command-line tool designed to help users identify deprecated API versions in Kubernetes environments. It assists in the discovery and remediation of potential issues that may arise from using outdated API versions, ensuring a smoother transition to newer, supported versions. By leveraging Pluto, developers can maintain a secure and up-to-date Kubernetes setup.
 
 ---
 

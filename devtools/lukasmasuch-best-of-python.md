@@ -25,7 +25,7 @@ DevTools · Data
 
 ## 📝 Summary
 
-This open-source project, "best-of-python", provides a ranking of the most impressive and useful Python open-source libraries and tools. Updated weekly, it offers a curated list of awesome resources for developers to enhance their projects and workflows. It falls under the categories of DevTools and Data, making it a valuable resource for Python users interested in development and data-related tasks.
+The "best-of-python" project is an open-source initiative that maintains a ranked list of outstanding Python libraries and tools. This curated collection is updated weekly to ensure users have access to the latest and most useful resources in the Python ecosystem. By providing a centralized and regularly updated list, the project aims to facilitate discovery and adoption of high-quality Python libraries and tools.
 
 ---
 

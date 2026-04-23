@@ -25,7 +25,9 @@ AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-This open-source project, "claude-code-system-prompts," provides a comprehensive set of system prompts for Claude Code, an AI-driven code development platform. The project includes 24 built-in tool descriptions, sub-agent prompts, and utility prompts, ensuring seamless integration and automation of tasks within the Claude Code system. Regular updates are made to align with each new Claude Code version.
+Here's a brief summary for the open-source project:
+
+The Claude Code System Prompts repository provides a comprehensive collection of system prompts for the Claude Code AI model, encompassing 24 built-in tool descriptions and sub-agent prompts for planning, exploration, and task execution. This repository is regularly updated to accommodate the latest Claude Code versions, ensuring seamless integration and optimal performance. By providing a centralized hub for system prompts, this project facilitates development and collaboration within the AI/ML and frontend communities.
 
 ---
 

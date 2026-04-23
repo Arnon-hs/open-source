@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The Clack project is an open-source tool that simplifies the process of building visually appealing command-line applications. It provides developers with a straightforward way to create engaging CLIs, reducing the complexity often associated with command-line development. With Clack, developers can focus on crafting a user-friendly experience without requiring extensive knowledge of command-line programming.
+Here's a brief summary for the clack project:
+
+Clack is an open-source project that allows developers to effortlessly build beautiful command-line apps with ease. This frontend-focused tool provides a robust framework for crafting intuitive and visually appealing command-line interfaces. With clack, developers can focus on building engaging user experiences without worrying about the complexities of command-line app development.
 
 ---
 

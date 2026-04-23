@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the nym project:
-
-Nym is an open-source project that offers strong network-level privacy and anonymous transactions by leveraging blinded, re-randomizable, decentralized credentials. This decentralized system enables users to maintain their anonymity against sophisticated end-to-end attackers, promoting a secure and private online experience. By utilizing AI/ML technologies, Nym provides a robust solution for protecting user identity and facilitating secure transactions.
+Nym is an open-source project that offers robust network-level privacy and anonymous transactions by utilizing decentralized credentials that can be blinded and re-randomized. This AI-powered system provides a high level of protection against sophisticated end-to-end attackers, making it an ideal solution for secure communication and financial transactions. By leveraging its decentralized architecture, Nym enables users to maintain their anonymity and confidentiality in a trustless environment.
 
 ---
 

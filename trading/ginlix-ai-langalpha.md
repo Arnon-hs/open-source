@@ -1,6 +1,6 @@
 # ginlix-ai/LangAlpha
 
-[![Stars](https://img.shields.io/github/stars/ginlix-ai/LangAlpha?style=flat-square&color=yellow)](https://github.com/ginlix-ai/LangAlpha/stargazers) [![Forks](https://img.shields.io/github/forks/ginlix-ai/LangAlpha?style=flat-square&color=blue)](https://github.com/ginlix-ai/LangAlpha/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ginlix-ai/LangAlpha?style=flat-square&color=yellow)](https://github.com/ginlix-ai/LangAlpha/stargazers) [![Forks](https://img.shields.io/github/forks/ginlix-ai/LangAlpha?style=flat-square&color=blue)](https://github.com/ginlix-ai/LangAlpha/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code for Finance
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 927 |
+| ⭐ **Stars** | 928 |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

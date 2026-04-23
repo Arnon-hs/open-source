@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 920 |
+| ⭐ **Stars** | 921 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 57/100 |
@@ -25,7 +25,9 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Hookdeck's Outpost provides an open-source outbound webhooks and event destinations infrastructure, empowering developers to send and manage events across various systems and services. This project streamlines event-driven architecture by offering a scalable and customizable solution for distributing events. By leveraging Outpost, developers can simplify their workflows and enhance collaboration across different applications and teams.
+Here's a summary for the hookdeck/outpost project:
+
+outpost is an open-source, outbound webhooks and event destinations infrastructure that enables developers to send and manage events across various systems. This project streamlines the process of integrating multiple services, simplifying event-driven architectures and real-time communication. By providing a scalable and flexible solution, outpost helps teams build more efficient and reliable event-driven systems.
 
 ---
 

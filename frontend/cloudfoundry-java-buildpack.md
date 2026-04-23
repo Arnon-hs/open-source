@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The cloudfoundry/java-buildpack is an open-source, cloud-agnostic buildpack designed to simplify the deployment of Java applications on Cloud Foundry. This buildpack streamlines the process of building, packaging, and running Java applications, allowing developers to focus on coding and deployment without worrying about the underlying infrastructure. By leveraging this buildpack, developers can efficiently run Java applications on Cloud Foundry, ensuring scalability and reliability.
+The Cloud Foundry Java Buildpack is an open-source project that provides a pre-configured package for deploying Java applications on the Cloud Foundry platform. It simplifies the process of running Java-based applications by automatically configuring the necessary dependencies and frameworks. This buildpack allows developers to focus on writing code, while ensuring their Java applications run efficiently and securely in the Cloud Foundry environment.
 
 ---
 

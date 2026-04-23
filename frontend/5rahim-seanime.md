@@ -25,9 +25,9 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "5rahim/seanime":
+Here's a brief summary for the 5rahim/seanime project:
 
-Seanime is an open-source media server that enables users to store, manage, and stream anime and manga content across various platforms. This project offers a comprehensive web interface and a desktop application, providing a seamless experience for fans to access and enjoy their favorite anime and manga. With its open-source nature, seanime allows developers to contribute and customize the platform to meet their specific needs.
+Seanime is an open-source media server that offers a comprehensive solution for anime and manga enthusiasts. Its features include a user-friendly web interface and a desktop app, allowing users to easily access and manage their collections. This versatile platform is designed to provide a seamless experience for fans of Japanese animation and comics.
 
 ---
 

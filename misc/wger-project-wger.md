@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-wger is an open-source project that enables users to track their fitness, workouts, nutrition, and weight in a self-hosted environment. This free and libre software solution provides a comprehensive platform for individuals to monitor and manage their physical health and wellness goals. By hosting the application themselves, users maintain control over their data and can customize the experience to suit their needs.
+The wger project is a self-hosted, open-source platform for tracking fitness, workouts, nutrition, and weight. It offers a comprehensive solution for individuals looking to monitor and manage their health goals from the comfort of their own environment. This free and open-source solution provides flexibility and control over user data, allowing users to maintain their personal health records with complete autonomy.
 
 ---
 

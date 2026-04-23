@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Paperclip is an open-source orchestration tool designed specifically for zero-human companies, automating workflows and tasks to maximize efficiency. It leverages AI/ML capabilities to streamline operations, allowing businesses to focus on innovation and growth. By simplifying complex processes, Paperclip empowers companies to operate at scale without relying on manual intervention.
+Paperclip is an open-source orchestration tool designed for zero-human companies, allowing for efficient automation and management of AI/ML workflows. It helps streamline and simplify the development and deployment process by providing a robust framework for orchestration. This project enables businesses to focus on innovation and growth, rather than manual labor and infrastructure management.
 
 ---
 

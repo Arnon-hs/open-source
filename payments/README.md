@@ -27,7 +27,7 @@
 | 17 | [FOSSBilling/FOSSBilling](./fossbilling-fossbilling.md) | ⭐ 1.5k | PHP | 65/100 |
 | 18 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.5k | Kotlin | 64/100 |
 | 19 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
-| 20 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 854 | TypeScript | 56/100 |
+| 20 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 857 | TypeScript | 56/100 |
 | 21 | [VladSez/easy-invoice-pdf](./vladsez-easy-invoice-pdf.md) | ⭐ 749 | TypeScript | 56/100 |
 | 22 | [AuthorizeNet/sdk-php](./authorizenet-sdk-php.md) | ⭐ 454 | PHP | 55/100 |
 | 23 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 713 | C# | 55/100 |

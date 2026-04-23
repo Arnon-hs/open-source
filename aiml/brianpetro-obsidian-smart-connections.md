@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-This project, Obsidian Smart Connections, enhances the note-taking experience by allowing users to engage in interactive conversations with their notes and access relevant content through AI-powered embeddings. It supports both local models and integrations with popular AI APIs, such as Claude, Gemini, ChatGPT, and Llama 3, providing users with a vast array of options for intelligent note connections. This tool streamlines research and knowledge management by bridging the gap between notes and related content.
+The Obsidian Smart Connections project is an open-source extension that enables seamless interactions with notes and related content, utilizing AI-powered embeddings to link relevant information. This extension can be run locally or connect to over 100 AI models through APIs like Claude, Gemini, ChatGPT, and Llama 3. By integrating AI-driven intelligence, users can streamline their note-taking and research experiences.
 
 ---
 

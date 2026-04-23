@@ -1,6 +1,6 @@
 # OpenCoworkAI/open-codesign
 
-[![Stars](https://img.shields.io/github/stars/OpenCoworkAI/open-codesign?style=flat-square&color=yellow)](https://github.com/OpenCoworkAI/open-codesign/stargazers) [![Forks](https://img.shields.io/github/forks/OpenCoworkAI/open-codesign?style=flat-square&color=blue)](https://github.com/OpenCoworkAI/open-codesign/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenCoworkAI/open-codesign?style=flat-square&color=yellow)](https://github.com/OpenCoworkAI/open-codesign/stargazers) [![Forks](https://img.shields.io/github/forks/OpenCoworkAI/open-codesign?style=flat-square&color=blue)](https://github.com/OpenCoworkAI/open-codesign/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 120 |
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 124 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

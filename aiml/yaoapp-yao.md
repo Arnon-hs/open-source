@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Yao is an open-source project that enables developers to build AI-powered agents and web applications from a single binary, streamlining the process of creating complex projects. This project combines both frontend and backend capabilities, making it an ideal choice for those looking to create seamless and efficient AI-driven experiences. With Yao, developers can focus on building innovative applications without worrying about the underlying infrastructure.
+The yao project is an open-source platform that enables developers to build both AI agents and web applications using a single binary. This allows for streamlined development and deployment, combining the power of artificial intelligence with the reach of web-based experiences. By simplifying the development process, yao aims to facilitate the creation of innovative and interactive applications.
 
 ---
 

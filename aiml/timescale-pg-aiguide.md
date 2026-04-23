@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The timescale/pg-aiguide project is an open-source initiative that provides an MCP server and a Claude plugin for Postgres skills and documentation. This project aims to improve the accuracy of AI coding tools by offering a comprehensive resource for generating high-quality PostgreSQL code. By contributing to the project's Postgres skills and documentation, developers can help refine AI coding tools and elevate the overall coding experience.
+The timescale/pg-aiguide project is an open-source initiative that provides a Postgres skills and documentation framework for AI coding tools. It offers an MCP server and a Claude plugin, enabling better generation of PostgreSQL code and enhancing the overall coding experience. This project aims to bridge the gap in AI-driven coding by providing a robust foundation for PostgreSQL-related skills and knowledge.
 
 ---
 

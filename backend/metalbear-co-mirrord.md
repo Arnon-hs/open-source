@@ -25,9 +25,7 @@ Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Mirrord is an open-source tool that bridges the gap between local development and cloud environments, allowing developers to run their local code in cloud conditions. This enables seamless testing, debugging, and iteration across different infrastructure setups, streamlining the development process. By connecting local processes to cloud environments, Mirrord facilitates more efficient and effective cloud development workflows.
+The Mirrord project is an open-source tool that enables seamless integration between local development environments and cloud infrastructure. By mirroring local code and processes, developers can run their applications in cloud conditions without the need for additional setup or infrastructure. This allows for efficient testing, debugging, and deployment of cloud-ready applications.
 
 ---
 

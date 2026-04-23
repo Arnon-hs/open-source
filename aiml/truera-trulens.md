@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Trulens is an open-source project that enables comprehensive evaluation and tracking of Large Language Model (LLM) experiments and AI agents. This tool provides a unified framework for monitoring and analyzing the performance of AI systems, facilitating data-driven decision-making and improving overall model efficiency. By leveraging Trulens, researchers and developers can streamline their workflow and gain valuable insights into the behavior of their AI models.
+Here's a brief summary for the truera/trulens project:
+
+Trulens is an open-source tool for evaluating and tracking the performance of Large Language Models (LLMs) and AI agents. It provides a comprehensive framework for assessing model quality, identifying areas of improvement, and comparing results across experiments. By facilitating data-driven decision-making, Trulens enables researchers and developers to optimize their AI systems and achieve better outcomes.
 
 ---
 

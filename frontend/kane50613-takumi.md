@@ -1,6 +1,6 @@
 # kane50613/takumi
 
-[![Stars](https://img.shields.io/github/stars/kane50613/takumi?style=flat-square&color=yellow)](https://github.com/kane50613/takumi/stargazers) [![Forks](https://img.shields.io/github/forks/kane50613/takumi?style=flat-square&color=blue)](https://github.com/kane50613/takumi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kane50613/takumi?style=flat-square&color=yellow)](https://github.com/kane50613/takumi/stargazers) [![Forks](https://img.shields.io/github/forks/kane50613/takumi?style=flat-square&color=blue)](https://github.com/kane50613/takumi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust rendering engine for turning templates into images, with next/og-compatible APIs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

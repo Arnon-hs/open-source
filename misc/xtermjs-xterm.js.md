@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-xterm.js is an open-source project that allows developers to create a terminal-like interface within web applications, emulating the functionality of a traditional command-line terminal. This terminal can be customized and controlled programmatically, making it a versatile tool for various web-based use cases. By leveraging xterm.js, developers can bring the power of the command line to the web.
+xterm.js is an open-source terminal emulator that brings the functionality of a terminal to the web. It allows developers to create interactive terminals for web applications, enabling users to execute commands, view output, and interact with terminal-based interfaces. This project provides a rich, customizable, and accessible terminal experience for web development.
 
 ---
 

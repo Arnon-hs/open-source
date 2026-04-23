@@ -25,7 +25,7 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Pelican-dev/panel is an open-source project that enables users to create a centralized dashboard for monitoring and managing backend systems. This project streamlines DevOps and infrastructure tasks, providing a unified interface for tracking key performance indicators and system logs. By utilizing this panel, developers and administrators can optimize their workflows and make data-driven decisions.
+The pelican-dev/panel project is an open-source initiative focused on backend and DevOps/Infra development. It aims to provide a comprehensive and modular platform for building, managing, and scaling complex systems. This project enables developers to streamline their workflow and improve collaboration through its robust features and flexible architecture.
 
 ---
 

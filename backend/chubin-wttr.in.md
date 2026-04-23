@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the chubin/wttr.in open-source project:
-
-wttr.in is a simple and customizable open-source weather service that provides current weather conditions and forecasts for any location. Written in a variety of programming languages, the project allows users to easily query and display weather information on their websites or other applications. This lightweight backend solution offers a straightforward alternative to more complex weather APIs.
+The wttr.in project is an open-source, command-line weather tool that provides an easy-to-use interface for checking the weather. It supports various weather services and offers customizable output formats, making it a flexible solution for users. wttr.in can be used as a backend application, allowing developers to integrate weather data into their own projects.
 
 ---
 

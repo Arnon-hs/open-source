@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary of the project:
 
-The nano-banana-pro-prompts-recommend-skill is an AI skill designed to provide personalized image prompts from a vast library of over 10,000 Nano Banana Pro (Gemini) images. This skill enables smart search functionality based on use cases and allows for content remix and sampling, making it an innovative tool for AI and machine learning applications. It can be integrated with OpenClaw and Claude Code frameworks.
+The nano-banana-pro-prompts-recommend-skill is an open-source AI skill that utilizes the Gemini model's vast library of Nano Banana Pro image prompts, offering smart search functionality based on use cases and content remixing capabilities. This skill is designed for integration with OpenClaw and Claude Code, enabling users to discover relevant and inspiring image prompts. With over 10,000 prompts to explore, this skill facilitates creative discovery and content generation.
 
 ---
 

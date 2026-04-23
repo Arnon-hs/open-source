@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **1770** |
+| 🗂️ **Total projects** | **1825** |
 | 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,36 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 670 | [Browse →](./aiml/) |
-| 📦 **Misc** | 293 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 192 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 160 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 103 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 88 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 686 | [Browse →](./aiml/) |
+| 📦 **Misc** | 302 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 204 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 167 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 107 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 89 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 76 | [Browse →](./crypto/) |
-| 📊 **Data** | 50 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 43 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 27 | [Browse →](./mobile/) |
+| 📊 **Data** | 51 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 44 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 28 | [Browse →](./mobile/) |
 | 💳 **Payments** | 23 | [Browse →](./payments/) |
 | 📈 **Trading** | 21 | [Browse →](./trading/) |
-| 🔐 **Security** | 15 | [Browse →](./security/) |
-| 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🔐 **Security** | 16 | [Browse →](./security/) |
+| 🎯 **Product** | 8 | [Browse →](./product/) |
 | ✨ **Design** | 3 | [Browse →](./design/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [vuetifyjs/vuetify](./frontend/vuetifyjs-vuetify.md) | ⭐ 41k | Frontend |
-| 2 | [ansible/awx](./frontend/ansible-awx.md) | ⭐ 15.4k | Frontend |
-| 3 | [quic-go/quic-go](./frontend/quic-go-quic-go.md) | ⭐ 11.5k | Frontend |
-| 4 | [loopbackio/loopback-next](./frontend/loopbackio-loopback-next.md) | ⭐ 5.1k | Frontend |
-| 5 | [botpress/botpress](./orchestration/botpress-botpress.md) | ⭐ 14.6k | Orchestration |
-| 6 | [xtermjs/xterm.js](./misc/xtermjs-xterm.js.md) | ⭐ 20.4k | Misc |
+| 1 | [ClickHouse/ClickHouse](./aiml/clickhouse-clickhouse.md) | ⭐ 47k | AI/ML |
+| 2 | [doocs/leetcode](./misc/doocs-leetcode.md) | ⭐ 35.9k | Misc |
+| 3 | [Graylog2/graylog2-server](./backend/graylog2-graylog2-server.md) | ⭐ 8k | Backend |
+| 4 | [langbot-app/LangBot](./aiml/langbot-app-langbot.md) | ⭐ 15.9k | AI/ML |
+| 5 | [charmbracelet/bubbletea](./frontend/charmbracelet-bubbletea.md) | ⭐ 41.8k | Frontend |
+| 6 | [wilsonfreitas/awesome-quant](./trading/wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | Trading |
 | 7 | [elie222/inbox-zero](./aiml/elie222-inbox-zero.md) | ⭐ 10.5k | AI/ML |
-| 8 | [outline/outline](./frontend/outline-outline.md) | ⭐ 38.2k | Frontend |
-| 9 | [ccxt/ccxt](./crypto/ccxt-ccxt.md) | ⭐ 42k | Crypto |
-| 10 | [woocommerce/woocommerce](./frontend/woocommerce-woocommerce.md) | ⭐ 10.3k | Frontend |
+| 8 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 35.9k | Orchestration |
+| 9 | [nocobase/nocobase](./aiml/nocobase-nocobase.md) | ⭐ 22.2k | AI/ML |
+| 10 | [ultralytics/ultralytics](./devtools/ultralytics-ultralytics.md) | ⭐ 56.3k | DevTools |
 
 ## 🚀 How it works
 
