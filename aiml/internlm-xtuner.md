@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-InternLM/xtuner is an open-source project that revolutionizes the training of ultra-large MoE (Multi-Modal Embedding) models, a crucial component in modern artificial intelligence and machine learning applications. This Next-Generation Training Engine is designed to efficiently handle the massive computational requirements of large-scale model training, enabling faster and more accurate results. By utilizing InternLM/xtuner, developers can unlock the full potential of their AI models and push the boundaries of what is possible in the field of AI/ML.
+InternLM/xtuner is an open-source project that offers a next-generation training engine specifically designed for ultra-large models with multiple experts (MoE). This innovative technology aims to optimize the training process for massive AI models, enabling faster and more efficient computations. By leveraging InternLM/xtuner, researchers and developers can unlock the full potential of their MoE models and drive breakthroughs in various AI applications.
 
 ---
 

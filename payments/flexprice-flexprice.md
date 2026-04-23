@@ -25,9 +25,7 @@ Payments · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the flexprice project:
-
-Flexprice is an open-source solution for usage-based pricing and billing, offering a seamless and real-time experience for developers. This cloud or self-hosted platform allows for no-code UI management, enabling developers to easily track usage and control feature access. With features like credits and top-ups, Flexprice provides a flexible and scalable solution for handling payments and billing needs.
+Flexprice is an open-source project that enables usage-based pricing and billing for developers, offering a no-code UI and real-time usage metering. This cloud or self-hosted solution allows for control over feature access and comes with features such as credits, top-ups, and secure access management. It serves as a versatile tool for managing payments and frontend development tools.
 
 ---
 

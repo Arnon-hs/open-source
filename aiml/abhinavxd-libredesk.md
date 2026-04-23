@@ -27,7 +27,7 @@ AI/ML · Frontend
 
 Here's a brief summary for the open-source project:
 
-Libredesk is an open-source, self-hosted omnichannel customer support desk that enables businesses to manage various communication channels, including live chat and email, from a single binary. This comprehensive platform provides a unified interface for customer support teams to respond to inquiries efficiently. By leveraging libredesk, organizations can streamline their customer support operations and enhance overall customer satisfaction.
+libredesk is a self-hosted, open-source omnichannel customer support desk that provides a comprehensive solution for businesses to manage customer interactions across multiple channels, including live chat and email. This single-binary platform offers a simple and efficient way to streamline customer support operations. By leveraging libredesk, businesses can centralize their customer support efforts and improve response times.
 
 ---
 

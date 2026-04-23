@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-ClawX is an open-source desktop application that offers a user-friendly graphical interface for managing OpenClaw AI agents, streamlining the orchestration process without the need for terminal-based commands. This intuitive tool transforms AI orchestration into an accessible and visual experience, making it easier for users to work with OpenClaw AI agents. Developed as an open-source project, ClawX supports a community-driven approach to AI and machine learning tool development.
+Here's a brief summary for the ClawX project:
+
+ClawX is an open-source desktop application that simplifies the management of OpenClaw AI agents through a user-friendly graphical interface. By eliminating the need for terminal-based orchestration, ClawX provides a more accessible experience for users to interact with and control AI agents. This tool is ideal for developers and practitioners working with AI/ML and orchestration workflows.
 
 ---
 

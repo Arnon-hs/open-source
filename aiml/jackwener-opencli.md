@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project OpenCLI:
+Here's a brief summary for the open-source project:
 
-OpenCLI is an open-source project that enables users to transform any website, Electron app, or local binary into a standardized command-line interface (CLI). This universal CLI hub is designed to be AI-native, allowing AI agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. By making any website or tool accessible via CLI, OpenCLI streamlines tool discovery and usage for AI agents and developers alike.
+OpenCLI is a universal command-line interface (CLI) hub that enables users to transform any website, Electron app, or local binary into a standardized CLI. This innovative project is designed to facilitate seamless integration with AI agents, allowing them to discover, learn, and execute tools effortlessly. By introducing a unified AGENT.md integration, OpenCLI streamlines the process of interacting with various tools and websites through the command line.
 
 ---
 

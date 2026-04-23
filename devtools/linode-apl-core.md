@@ -27,7 +27,7 @@ DevTools · DevOps/Infra
 
 Here's a brief summary for the linode/apl-core project:
 
-The linode/apl-core project is an open-source App Platform for Linode Kubernetes Engine, enabling developers to build, deploy, and manage scalable applications with ease. This platform provides a streamlined solution for DevOps and infrastructure tasks, making it simple to manage complex application deployments. By leveraging Kubernetes, apl-core empowers developers to focus on coding, rather than infrastructure management.
+The linode/apl-core project is an open-source App Platform for Linode Kubernetes Engine, designed to simplify the development and deployment of applications on a scalable and secure Kubernetes environment. This platform provides a robust foundation for building, deploying, and managing containerized applications on Linode's Kubernetes engine. With apl-core, developers can streamline their deployment workflows and focus on writing code.
 
 ---
 

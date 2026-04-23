@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Glances is an open-source system monitoring tool that provides a real-time overview of system resources and performance. It is a top/htop alternative available for multiple operating systems, including GNU/Linux, BSD, Mac OS, and Windows. This lightweight and customizable tool helps users monitor and manage their system's status in a concise and easy-to-read format.
+Glances is an open-source, system monitoring tool that provides real-time system information, serving as a top/htop alternative for various operating systems, including GNU/Linux, BSD, Mac OS, and Windows. It offers a customizable and interactive interface to monitor CPU, memory, disk, and network usage, among other metrics. With Glances, users can easily keep track of their system's performance and identify potential issues.
 
 ---
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **1278** |
+| 🗂️ **Total projects** | **1330** |
 | 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,36 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 493 | [Browse →](./aiml/) |
-| 📦 **Misc** | 223 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 132 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 114 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 71 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 56 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 47 | [Browse →](./crypto/) |
-| 📊 **Data** | 35 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 31 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 512 | [Browse →](./aiml/) |
+| 📦 **Misc** | 231 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 138 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 120 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 76 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 57 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 48 | [Browse →](./crypto/) |
+| 📊 **Data** | 37 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 32 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 26 | [Browse →](./mobile/) |
-| 💳 **Payments** | 16 | [Browse →](./payments/) |
+| 💳 **Payments** | 17 | [Browse →](./payments/) |
 | 📈 **Trading** | 16 | [Browse →](./trading/) |
-| 🔐 **Security** | 12 | [Browse →](./security/) |
+| 🔐 **Security** | 13 | [Browse →](./security/) |
 | 🎯 **Product** | 5 | [Browse →](./product/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
+| ✨ **Design** | 2 | [Browse →](./design/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [mermaid-js/mermaid](./aiml/mermaid-js-mermaid.md) | ⭐ 87.6k | AI/ML |
-| 2 | [sickn33/antigravity-awesome-skills](./orchestration/sickn33-antigravity-awesome-skills.md) | ⭐ 34.7k | Orchestration |
-| 3 | [sharkdp/fd](./devtools/sharkdp-fd.md) | ⭐ 42.7k | DevTools |
-| 4 | [soxoj/maigret](./aiml/soxoj-maigret.md) | ⭐ 19.6k | AI/ML |
-| 5 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
-| 6 | [sherlock-project/sherlock](./aiml/sherlock-project-sherlock.md) | ⭐ 81.8k | AI/ML |
-| 7 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
-| 8 | [authelia/authelia](./devopsinfra/authelia-authelia.md) | ⭐ 27.6k | DevOps & Infra |
-| 9 | [nicolargo/glances](./backend/nicolargo-glances.md) | ⭐ 32.3k | Backend |
-| 10 | [ValueCell-ai/ClawX](./orchestration/valuecell-ai-clawx.md) | ⭐ 6.7k | Orchestration |
+| 1 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
+| 2 | [lichess-org/lila](./backend/lichess-org-lila.md) | ⭐ 18.1k | Backend |
+| 3 | [surrealdb/surrealdb](./backend/surrealdb-surrealdb.md) | ⭐ 31.9k | Backend |
+| 4 | [docling-project/docling](./aiml/docling-project-docling.md) | ⭐ 58.4k | AI/ML |
+| 5 | [langchain4j/langchain4j](./orchestration/langchain4j-langchain4j.md) | ⭐ 11.7k | Orchestration |
+| 6 | [elie222/inbox-zero](./aiml/elie222-inbox-zero.md) | ⭐ 10.5k | AI/ML |
+| 7 | [huggingface/transformers](./crypto/huggingface-transformers.md) | ⭐ 159.8k | Crypto |
+| 8 | [rtk-ai/rtk](./aiml/rtk-ai-rtk.md) | ⭐ 32.8k | AI/ML |
+| 9 | [ghostfolio/ghostfolio](./trading/ghostfolio-ghostfolio.md) | ⭐ 8.2k | Trading |
+| 10 | [Qiskit/qiskit](./trading/qiskit-qiskit.md) | ⭐ 7.3k | Trading |
 
 ## 🚀 How it works
 

@@ -25,9 +25,9 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the nanoclaw project:
+Here's a brief summary of the project:
 
-nanoclaw is an open-source, lightweight alternative to OpenClaw, designed to run securely in containers. It provides a versatile platform for connecting to various messaging apps, including WhatsApp, Telegram, Slack, Discord, and Gmail, while also offering features like memory management and scheduled jobs. Built on Anthropic's Agents SDK, nanoclaw is optimized for AI and machine learning applications.
+Nanoclaw is an open-source, lightweight alternative to OpenClaw that prioritizes security by running in containers. This versatile tool enables seamless integration with various messaging apps, including WhatsApp, Telegram, Slack, Discord, and Gmail, and also offers memory management and scheduled job capabilities. Built on Anthropic's Agents SDK, Nanoclaw provides a robust AI/ML framework for secure and efficient operations.
 
 ---
 

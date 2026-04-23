@@ -25,7 +25,9 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-CloudNativePG is an open-source platform that streamlines the management of PostgreSQL databases within Kubernetes environments, encompassing the full lifecycle from deployment to maintenance. It offers a comprehensive solution for automating database operations and ensuring high availability, scalability, and security. By leveraging CloudNativePG, developers can simplify database management and focus on building innovative applications.
+Here's a brief summary for the cloudnative-pg project:
+
+CloudNativePG is an open-source platform that simplifies the management of PostgreSQL databases in Kubernetes environments, streamlining the entire operational lifecycle from deployment to maintenance. This comprehensive solution enables seamless scalability, high availability, and efficient management of PostgreSQL databases within cloud-native environments. By leveraging CloudNativePG, users can focus on application development while ensuring robust database operations.
 
 ---
 

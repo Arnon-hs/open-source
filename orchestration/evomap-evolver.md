@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-EvoMap/evolver is an open-source, self-evolving engine for AI agents that utilizes Gene Expression Programming (GEP) for auditable, data-driven evolution. This engine enables the creation of adaptive AI agents by combining genes, capsules, and events in a flexible and controllable manner. By leveraging GEP, EvoMap/evolver facilitates the development of intelligent agents that can learn and adapt to complex environments.
+The EvoMap/evolver is an open-source, self-evolving engine for AI agents that utilizes Genetic Expression Programming (GEP) to drive auditable evolution. This engine enables the creation of adaptable AI models by combining Genes, Capsules, and Events, allowing for a more transparent and controllable evolution process. As a result, developers can fine-tune AI agents to achieve specific goals while maintaining a clear understanding of their decision-making processes.
 
 ---
 

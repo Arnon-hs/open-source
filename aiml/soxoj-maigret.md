@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Maigret is an open-source tool designed to collect comprehensive information on individuals by their username from a vast array of over 3000 websites. This platform utilizes its capabilities to compile a dossier, providing users with a detailed understanding of the person in question. As a powerful DevTool, Maigret combines the power of AI/ML and backend technologies to facilitate swift and in-depth data collection.
+Maigret is an open-source project that compiles information about a person from over 3000 websites, creating a comprehensive dossier. This tool utilizes various data sources, potentially leveraging AI/ML capabilities, to gather and aggregate information from a wide range of online platforms. By providing a centralized collection of an individual's online presence, Maigret can be a valuable resource for researchers, investigators, and professionals in related fields.
 
 ---
 

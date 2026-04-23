@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-SamurAIGPT/llm-wiki-agent is an open-source personal knowledge base that utilizes large language models, such as Claude, Codex, or Gemini, to automatically extract and interlink knowledge from various sources. This self-maintaining wiki does not require an API key, allowing users to build a comprehensive and up-to-date repository of information. The project supports multiple large language models and can be integrated with different platforms.
+Here's a brief summary of the SamurAIGPT/llm-wiki-agent project:
+
+SamurAIGPT/llm-wiki-agent is an open-source project that enables users to create a personal knowledge base that automatically builds and maintains itself. This is achieved by integrating with large language models such as Claude, Codex, and Gemini, which extract knowledge from various sources and store it in a persistent, interlinked wiki. With no API key required, users can easily build a comprehensive knowledge base without any additional setup.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-PowerShell is an open-source collection of over 600 free scripts (.ps1) designed to work on multiple platforms, including Linux, macOS, and Windows. This extensive library provides users with a wide range of tools and functionalities to streamline their tasks and boost productivity. With its cross-platform compatibility, PowerShell offers a unified solution for users across various operating systems.
+The fleschutz/PowerShell project is an extensive open-source collection of over 600 free PowerShell scripts. Compatible with Linux, macOS, and Windows, this repository provides a broad range of tools and utilities that can streamline tasks, automate workflows, and enhance system administration. The scripts are designed to be easy to use and customize, making this resource valuable for PowerShell users of all levels.
 
 ---
 

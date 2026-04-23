@@ -25,9 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Keda project:
-
-Keda is an open-source, Kubernetes-based Event Driven Autoscaling component that enables event-driven scale for any container running in Kubernetes. This allows developers to automatically scale resources up or down in response to changing event workloads, improving efficiency and reducing costs. By leveraging Keda, users can easily deploy scalable and resilient applications on Kubernetes.
+KEDA (Kubernetes-based Event Driven Autoscaling) is an open-source project that enables event-driven scaling for any container running in Kubernetes environments. This innovative component allows for the automatic scaling of workloads based on external events, making it ideal for applications that require dynamic resource allocation. By providing a scalable and flexible solution, KEDA simplifies the management of event-driven workloads in Kubernetes environments.
 
 ---
 

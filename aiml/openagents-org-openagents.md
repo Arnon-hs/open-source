@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-OpenAgents is an open-source project that facilitates collaboration and development of AI agent networks. This platform provides a framework for researchers and developers to create, share, and integrate AI agents, promoting open innovation and knowledge exchange in the field of artificial intelligence. By leveraging OpenAgents, users can build and customize AI-powered systems to tackle complex problems and drive progress in various domains.
+OpenAgents is an open-source project that enables the development and collaboration of AI agent networks. This platform allows researchers and developers to work together on building and sharing AI agents, fostering a community-driven approach to artificial intelligence research. By promoting open collaboration, OpenAgents aims to accelerate advancements in AI and machine learning.
 
 ---
 

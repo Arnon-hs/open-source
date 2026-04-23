@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-RustPython is an open-source project that aims to create a Python interpreter entirely written in the Rust programming language. This project seeks to leverage the performance, memory safety, and concurrency features of Rust to provide a high-performance Python implementation. By rewriting the Python interpreter in Rust, RustPython aims to deliver improved execution speed and reliability for Python applications.
+RustPython is an open-source Python interpreter written in Rust, a systems programming language known for its performance and safety features. This project aims to provide a high-performance and secure Python implementation, leveraging the benefits of Rust to improve the execution speed and reliability of Python code. By using RustPython, developers can take advantage of the stability and efficiency of Rust while still utilizing the Python language and ecosystem.
 
 ---
 

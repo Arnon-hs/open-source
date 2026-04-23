@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Langwatch is an open-source platform designed for comprehensive Language Model (LLM) evaluations and AI agent testing. It provides a centralized and streamlined environment for developers to test, compare, and improve the performance of their AI models. By leveraging Langwatch, users can efficiently orchestrate and automate the evaluation process, accelerating the development and refinement of AI technologies.
+The langwatch project is an open-source platform designed for evaluating Large Language Models (LLMs) and testing AI agents. It provides a comprehensive toolset for orchestration and development, making it easier to assess and refine AI capabilities. This platform facilitates the evaluation and improvement of LLMs and AI agents, driving innovation in the field of artificial intelligence.
 
 ---
 

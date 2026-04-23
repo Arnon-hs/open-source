@@ -1,0 +1,32 @@
+# grafana/mcp-grafana
+
+[![Stars](https://img.shields.io/github/stars/grafana/mcp-grafana?style=flat-square&color=yellow)](https://github.com/grafana/mcp-grafana/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/mcp-grafana?style=flat-square&color=blue)](https://github.com/grafana/mcp-grafana/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+
+> MCP server for Grafana
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2.9k |
+| 🍴 **Forks** | 339 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Backend
+
+## 📝 Summary
+
+The MCP server for Grafana is an open-source project that provides a backend solution for Grafana, a popular platform for monitoring and analyzing data. This project allows for efficient data processing and management, enabling users to leverage the full potential of Grafana. By utilizing this MCP server, users can enhance their Grafana experience with improved scalability and performance.
+
+---
+
+<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/grafana/mcp-grafana) · [← Back to Backend](./README.md)</sub>

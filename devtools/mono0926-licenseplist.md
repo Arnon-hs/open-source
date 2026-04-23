@@ -25,9 +25,7 @@ DevTools · Mobile · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the mono0926/LicensePlist project:
-
-LicensePlist is an open-source tool that automates the process of generating a license list for iOS applications, providing transparency into the licenses of all dependencies used. This project helps developers ensure compliance with Apple's guidelines and maintain a clear view of their project's licensing. By using LicensePlist, developers can easily generate a comprehensive license list for their iOS applications.
+The mono0926/LicensePlist project is an open-source tool designed to generate a comprehensive license list for iOS applications, outlining the licensing terms of all dependencies used in the project. This allows developers to easily track and manage licensing requirements, ensuring compliance with Apple's App Store guidelines. By streamlining the process of tracking dependencies, LicensePlist simplifies the development and maintenance of iOS apps.
 
 ---
 

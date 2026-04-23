@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the "llama-swap" project:
+Here's a brief summary for the llama-swap project:
 
-Llama-swap is an open-source project that enables reliable model swapping for local OpenAI/Anthropic compatible servers, such as llama.cpp and vllm. This project provides a flexible and efficient way to switch between models, allowing developers to easily experiment with different models and optimize their AI/ML applications. By leveraging llama-swap, users can streamline their model deployment and improve the overall performance of their AI-powered systems.
+Llama-swap is an open-source project that enables reliable model swapping for local OpenAI/Anthropic compatible servers, allowing for efficient switching between models like llama.cpp and vllm. This project streamlines the process of model management for AI/ML applications, making it easier to experiment with different models and improve performance. By providing a simple and robust solution for model swapping, llama-swap helps developers and researchers to accelerate their AI/ML projects.
 
 ---
 

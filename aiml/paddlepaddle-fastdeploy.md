@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-FastDeploy is an open-source, high-performance inference and deployment toolkit designed for Large Language Models (LLMs) and Vision-Language Models (VLMs), built on top of the PaddlePaddle framework. It provides an efficient and streamlined solution for deploying AI models in various scenarios, offering flexibility and scalability for developers and researchers. By utilizing PaddlePaddle, FastDeploy enables fast and accurate model inference and deployment.
+FastDeploy is an open-source toolkit for high-performance inference and deployment of Large Language Models (LLMs) and Vision-Language Models (VLMs) built on top of PaddlePaddle. It enables efficient model deployment, optimization, and acceleration, making it suitable for various AI applications. With FastDeploy, developers can easily deploy and run LLMs and VLMs on various platforms, including edge devices and cloud infrastructure.
 
 ---
 

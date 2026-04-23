@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The open-source project trycua/cua provides a comprehensive infrastructure for developing and evaluating Computer-Use Agents (CUAs). This platform offers sandbox environments, software development kits (SDKs), and benchmarks to train and assess AI agents that can control full desktop operating systems, including macOS, Linux, and Windows. By leveraging this infrastructure, researchers and developers can advance the capabilities of CUAs and explore their applications in various fields.
+The trycua/cua project is an open-source infrastructure designed to facilitate the development and evaluation of Computer-Use Agents (CUAs), which are AI-powered agents capable of controlling full desktop operating systems, including macOS, Linux, and Windows. This platform provides sandboxes, software development kits (SDKs), and benchmarks to enable researchers and developers to train and assess CUAs. By offering a comprehensive toolkit, cua aims to advance the field of AI and ML in the context of desktop automation.
 
 ---
 

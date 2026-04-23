@@ -13,8 +13,8 @@
 | 3 | [immich-app/immich](./immich-app-immich.md) | ⭐ 98.4k | TypeScript | 100/100 |
 | 4 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.2k | Markdown | 100/100 |
 | 5 | [yuliskov/SmartTube](./yuliskov-smarttube.md) | ⭐ 29.7k | Java | 99/100 |
-| 6 | [bitwarden/android](./bitwarden-android.md) | ⭐ 8.7k | Kotlin | 95/100 |
-| 7 | [ermaozi/get_subscribe](./ermaozi-get-subscribe.md) | ⭐ 8.9k | Python | 95/100 |
+| 6 | [ermaozi/get_subscribe](./ermaozi-get-subscribe.md) | ⭐ 8.9k | Python | 95/100 |
+| 7 | [bitwarden/android](./bitwarden-android.md) | ⭐ 8.7k | Kotlin | 95/100 |
 | 8 | [androidx/androidx](./androidx-androidx.md) | ⭐ 6k | Kotlin | 94/100 |
 | 9 | [offa/android-foss](./offa-android-foss.md) | ⭐ 9.9k | Python | 92/100 |
 | 10 | [facebook/facebook-ios-sdk](./facebook-facebook-ios-sdk.md) | ⭐ 8k | Swift | 90/100 |

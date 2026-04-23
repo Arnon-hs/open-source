@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Mermaid is a powerful, open-source project that enables the creation of diagrams such as flowcharts, sequence diagrams, and Gantt charts directly from plain text using a simple markdown-like syntax. This innovative tool simplifies the process of generating visual diagrams, making it an ideal solution for developers, designers, and anyone looking to communicate complex ideas in a clear and concise manner. By leveraging the flexibility of markdown, Mermaid streamlines the diagram creation process.
+Mermaid is an open-source project that enables the creation of diagrams, including flowcharts and sequence diagrams, directly from plain text using a syntax similar to Markdown. This allows users to easily generate visual representations of complex processes and systems using a simple and intuitive markup language. By leveraging AI/ML categories, Mermaid provides a powerful tool for data visualization and communication.
 
 ---
 

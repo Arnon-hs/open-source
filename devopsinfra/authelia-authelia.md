@@ -25,7 +25,7 @@ DevOps/Infra · Security
 
 ## 📝 Summary
 
-Authelia is an open-source, Single Sign-On (SSO) and Multi-Factor Authentication (MFA) portal for web applications. It is the first open-source solution to achieve OpenID Certified status, ensuring a high level of security and interoperability. By implementing Authelia, organizations can simplify user authentication and enhance overall security posture.
+Authelia is an open-source Single Sign-On (SSO) and Multi-Factor Authentication (MFA) portal designed for web applications. It is OpenID Certified, ensuring secure authentication and user management, making it a reliable choice for DevOps and security teams. With Authelia, users can easily access various web applications with a single set of credentials and an additional layer of security.
 
 ---
 

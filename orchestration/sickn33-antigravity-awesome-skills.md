@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a 2-3 sentence summary for the open-source project:
 
-This open-source library, 'antigravity-awesome-skills', is a comprehensive collection of over 1,400 agentic skills designed for various AI and CLI tools, including Claude Code, Cursor, and Antigravity. The library provides a convenient installer CLI and bundles skills from official and community collections, streamlining the development and deployment process. By leveraging this library, users can access a wide range of skills for their AI and CLI projects.
+Antigravity-Awesome-Skills is an open-source library of over 1,400 agentic skills for popular AI and development tools, including Claude Code, Cursor, Codex CLI, Gemini CLI, and Antigravity. This comprehensive collection offers installable bundles, workflows, and official/community skill collections, making it an essential resource for developers and AI enthusiasts. The library is designed to be easily accessible through its installer CLI, simplifying integration and exploration of these powerful skills.
 
 ---
 

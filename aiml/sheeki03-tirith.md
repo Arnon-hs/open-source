@@ -25,7 +25,9 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Tirith is an open-source terminal security solution designed for developers and AI agents. It provides protection against various threats, including homograph URLs, pipe-to-shell attacks, ANSI injection, and malicious AI skills/configs, to prevent data exfiltration and obfuscated payloads from executing. Tirith helps safeguard against sophisticated terminal-based attacks, enhancing the security posture of users in the AI and development communities.
+Here's a brief summary for the project:
+
+Tirith is an open-source terminal security solution designed to protect developers and AI agents from various threats, including homograph URLs, pipe-to-shell attacks, and malicious AI configurations. It intercepts and prevents malicious data exfiltration, obfuscated payloads, and ANSI injection attempts, ensuring a safer and more secure terminal experience. By safeguarding against these threats, Tirith helps maintain the integrity of AI systems and developer environments.
 
 ---
 

@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-FD is an open-source command-line tool that serves as a faster, simpler alternative to the traditional 'find' command. It provides a user-friendly interface for searching and filtering files based on various criteria, making it a valuable addition to any developer's toolkit. With its speed and ease of use, FD streamlines file searching and management for developers and power users.
+The open-source project "sharkdp/fd" provides a simple, fast, and user-friendly alternative to the standard "find" command, offering a more efficient way to search for files on your system. This tool allows users to quickly locate files by name, path, or content, making it a valuable addition to any developer's toolkit. With its focus on speed and usability, fd simplifies file searching tasks and saves time.
 
 ---
 
