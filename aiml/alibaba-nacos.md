@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Nacos is an open-source, dynamic service discovery, configuration, and service management platform designed for building cloud-native AI applications. It provides a scalable and highly available solution for managing complex systems, enhancing collaboration, and ensuring seamless communication across microservices. With Nacos, developers can easily manage and deploy AI cloud-native applications with reduced complexity and increased efficiency.
+Here's a brief summary of the Alibaba Nacos project:
+
+Nacos (Namned Operation Center Server) is an open-source platform for building AI cloud-native applications, offering dynamic service discovery, configuration management, and service orchestration capabilities. It simplifies the development process by automating the discovery, registration, and management of services in a microservices architecture. With Nacos, developers can focus on building scalable and efficient AI applications.
 
 ---
 

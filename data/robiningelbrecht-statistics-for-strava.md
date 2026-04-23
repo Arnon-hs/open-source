@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The "statistics-for-strava" project is an open-source, self-hosted dashboard for analyzing and visualizing Strava data. This platform provides users with a personalized and customizable interface to explore their Strava activity history, tracking key statistics and metrics. By hosting the dashboard locally, users can maintain control over their data and enjoy real-time insights into their fitness progress.
+This open-source project, 'statistics-for-strava', allows users to host a custom dashboard on their own server, providing a centralized platform to visualize and analyze their Strava activity data. The dashboard offers a self-hosted solution, giving users full control over their data and customization options. It is suitable for athletes and enthusiasts looking to track and understand their performance trends.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The WSO2 Identity Server (wso2/product-is) is an open-source identity management solution, offering a comprehensive platform for authentication, authorization, and identity governance. Built on a robust architecture, it enables developers to create secure, scalable, and customizable identity management systems. This open-source project provides a valuable resource for developers and organizations seeking a flexible and reliable identity management solution.
+This open-source project, WSO2 Identity Server, is a comprehensive platform for identity and access management. The project provides a robust set of features for authentication, authorization, and user management, making it a valuable resource for developers working on backend infrastructure projects. By contributing to this repository, developers can help shape the future of identity and access management solutions.
 
 ---
 

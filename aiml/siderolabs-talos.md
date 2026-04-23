@@ -25,7 +25,7 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Talos Linux is a modern, open-source Linux distribution designed specifically for Kubernetes environments, offering a streamlined and optimized platform for container orchestration. Developed by the community-driven project siderolabs, Talos provides a secure, efficient, and highly performant base for Kubernetes clusters. This distribution aims to simplify the deployment and management of containerized applications at scale.
+Talos Linux is an open-source, modern Linux distribution designed specifically for Kubernetes environments. Built with a focus on performance and security, Talos provides a streamlined and efficient platform for running containerized applications. Its open-source nature makes it an attractive option for developers and organizations seeking a customizable and flexible foundation for their Kubernetes setups.
 
 ---
 

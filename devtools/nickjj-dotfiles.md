@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-This open-source project, nickjj/dotfiles, provides a setup for a developer-friendly system on Arch Linux and other platforms, allowing users to quickly configure their environment for productivity. The project supports not only Arch Linux but also WSL 2, Debian, Ubuntu, and macOS, offering CLI tools for these systems as well. With this project, developers can streamline their setup process.
+This open-source project, nickjj/dotfiles, provides a developer-friendly setup for Arch Linux systems, allowing users to get started in just minutes. Additionally, it also supports installation on Windows Subsystem for Linux 2 (WSL 2), Debian, Ubuntu, and macOS for CLI tools. This comprehensive setup enables users to quickly establish a productive development environment across multiple platforms.
 
 ---
 

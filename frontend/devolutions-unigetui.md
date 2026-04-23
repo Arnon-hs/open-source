@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-UniGetUI is an open-source project that offers a graphical interface for managing package managers, providing a unified experience for users to install, update, and manage packages across various package managers. This project aims to simplify the package management process by streamlining multiple package managers into a single, user-friendly interface. By doing so, UniGetUI aims to increase productivity and reduce the complexity of package management for developers and users alike.
+Here's a brief summary for the open-source project:
+
+UniGetUI is an open-source, graphical interface for managing package managers, providing a unified experience for users to install, update, and manage various packages across different platforms. This project streamlines package management by offering a single, intuitive interface for users to interact with multiple package managers. By simplifying package management, UniGetUI enhances productivity and reduces the complexity associated with managing multiple package repositories.
 
 ---
 

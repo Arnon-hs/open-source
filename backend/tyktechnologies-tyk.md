@@ -25,7 +25,9 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Tyk is an open-source API Gateway written in Go, providing a robust solution for managing and securing APIs across multiple protocols, including REST, GraphQL, TCP, and gRPC. This project enables developers to create a scalable and customizable gateway for API management, supporting various workflows and use cases. With Tyk, users can enhance API security, monitor performance, and streamline development processes.
+Here's a brief summary for the Tyk Open Source API Gateway project:
+
+Tyk is an open-source API Gateway written in Go, providing a scalable and secure solution for managing APIs across various protocols including REST, GraphQL, TCP, and gRPC. This project offers a flexible platform for developers to build, deploy, and manage APIs in a centralized and controlled manner. With Tyk, developers can easily monitor and secure APIs, ensuring seamless integration with existing infrastructure and applications.
 
 ---
 

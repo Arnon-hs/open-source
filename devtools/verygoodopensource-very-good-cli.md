@@ -25,7 +25,7 @@ DevTools · Mobile
 
 ## 📝 Summary
 
-VeryGoodOpenSource/very_good_cli is a command-line interface (CLI) for Dart developed by Very Good Ventures. It provides a simple and intuitive way to manage and build Dart projects, making it an essential tool for developers working with the Dart language. This open-source project streamlines the development workflow, allowing users to focus on writing code without being bogged down by tedious project setup and management tasks.
+The very_good_cli is an open-source command-line interface for Dart, designed and maintained by Very Good Ventures. It provides a simplified and efficient way to manage and automate Dart projects. With its user-friendly interface, developers can streamline their workflow and boost their productivity.
 
 ---
 

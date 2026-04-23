@@ -25,9 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the AudioMuse-AI project:
-
-AudioMuse-AI is an open-source music playlist generator that uses sonic analysis to identify related tracks without relying on metadata or external APIs. This self-hosted, Dockerized solution is compatible with popular media servers like Jellyfin, Navidrome, LMS, Lyrion, and Emby. By leveraging AI and machine learning, AudioMuse-AI creates personalized playlists based on the unique soundscapes of your music collections.
+AudioMuse-AI is an open-source music playlist generator that utilizes sonic analysis to identify related tracks without relying on external metadata or APIs. This self-hosted, Dockerized application is compatible with popular media servers such as Jellyfin, Navidrome, LMS, Lyrion, and Emby. By leveraging AI and machine learning, AudioMuse-AI streamlines music discovery and playlist creation for users.
 
 ---
 

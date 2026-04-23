@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-CVAT is an open-source data engine for machine learning that enables teams of any scale to annotate data efficiently. This industry-leading platform supports data of any scale, facilitating seamless annotation and accelerating machine learning model development. With CVAT, users can streamline their data annotation process and improve the accuracy of their AI models.
+CVAT is an open-source data engine for machine learning, designed to help annotate complex data with ease and precision. It is scalable and adaptable to meet the needs of teams at any level, whether they are working with small or large-scale data. This powerful tool enables teams to accurately annotate data for use in various machine learning applications.
 
 ---
 

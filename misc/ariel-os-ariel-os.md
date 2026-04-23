@@ -27,7 +27,7 @@ Misc
 
 Here's a brief summary for the Ariel OS project:
 
-Ariel OS is an open-source library operating system designed to provide a secure, memory-safe, and low-power foundation for Internet of Things (IoT) devices. Written in Rust, Ariel OS aims to simplify the development of reliable and efficient IoT applications. Its modular architecture enables developers to build custom operating systems tailored to specific device requirements.
+Ariel OS is an open-source library operating system designed for secure, memory-safe, and low-power Internet of Things (IoT) applications. Written in Rust, a systems programming language, Ariel OS prioritizes safety and efficiency in its architecture. This library operating system aims to provide a foundation for building reliable and power-efficient IoT devices.
 
 ---
 

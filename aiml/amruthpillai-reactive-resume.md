@@ -25,9 +25,7 @@ AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The amruthpillai/reactive-resume project is a cutting-edge resume builder that prioritizes user privacy, ensuring a secure experience while creating and sharing personal documents. This customizable and portable tool is built on open-source technology, providing users with complete control and flexibility. With its free and forever-open-source nature, this innovative project empowers users to take charge of their digital presence.
+The amruthpillai/reactive-resume project is an open-source, secure, and customizable resume builder that prioritizes user privacy. This free and portable tool utilizes cutting-edge technology to provide a unique and effective way to create and manage resumes. With its focus on AI/ML, frontend development, and security, reactive-resume caters to the modern job seeker's needs.
 
 ---
 

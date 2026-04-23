@@ -1,8 +1,8 @@
 # foxtrotcommunications/foxtrotcommunications-forge-core
 
-[![Stars](https://img.shields.io/github/stars/foxtrotcommunications/foxtrotcommunications-forge-core?style=flat-square&color=yellow)](https://github.com/foxtrotcommunications/foxtrotcommunications-forge-core/stargazers) [![Forks](https://img.shields.io/github/forks/foxtrotcommunications/foxtrotcommunications-forge-core?style=flat-square&color=blue)](https://github.com/foxtrotcommunications/foxtrotcommunications-forge-core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/foxtrotcommunications/foxtrotcommunications-forge-core?style=flat-square&color=yellow)](https://github.com/foxtrotcommunications/foxtrotcommunications-forge-core/stargazers) [![Forks](https://img.shields.io/github/forks/foxtrotcommunications/foxtrotcommunications-forge-core?style=flat-square&color=blue)](https://github.com/foxtrotcommunications/foxtrotcommunications-forge-core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> Automatically decompose nested JSON in your data warehouse into normalized dbt models. Supports BigQuery, Snowflake, Databricks, and Redshift.
+> Automatically decompose nested JSON in your data warehouse into normalized dbt models. Supports BigQuery, Snowflake, and Databricks
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

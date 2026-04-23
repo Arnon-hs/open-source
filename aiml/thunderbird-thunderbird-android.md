@@ -25,7 +25,7 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-Thunderbird for Android is an open-source email application that provides a secure and customizable alternative to traditional email clients. As a continuation of the popular K-9 Mail project, this app offers a range of features to help users manage their email efficiently and effectively. With its open-source nature, Thunderbird for Android allows developers to contribute and customize the app to suit their needs.
+Thunderbird for Android is an open-source email app that allows users to access their email accounts on their mobile devices. Originally known as K-9 Mail, this project provides a secure and customizable email experience, with features such as IMAP and POP3 support and encryption capabilities. As an open-source project, users can contribute to the development and enhancement of the app.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Dust is an open-source, custom AI agent platform designed to streamline work processes and enhance productivity. This AI/ML project enables users to create and deploy their own AI agents, automating tasks and freeing up time for more strategic work. By providing a flexible and adaptable framework, Dust empowers users to tailor their AI solutions to meet specific needs and goals.
+The dust-tt/dust project is an open-source platform designed to accelerate work processes through a custom AI agent. This AI agent enables users to automate tasks and streamline workflows, ultimately increasing productivity. By leveraging AI technology, dust aims to simplify complex tasks and make work more efficient.
 
 ---
 

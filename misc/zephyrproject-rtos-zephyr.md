@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The Zephyr Project is an open-source Real-Time Operating System (RTOS) designed to be scalable, optimized, and secure for various hardware architectures. This project provides a foundation for building efficient, reliable, and secure embedded systems, covering a wide range of applications. Zephyr's adaptable architecture makes it suitable for use in IoT devices, consumer electronics, and industrial automation.
+Here's a 2-3 sentence summary for the Zephyr Project:
+
+The Zephyr Project is an open-source, scalable, and secure Real-Time Operating System (RTOS) designed for multiple hardware architectures. This new generation RTOS is optimized for performance, power efficiency, and reliability, making it suitable for a wide range of applications, from IoT devices to industrial control systems. With its modular design and extensive community support, Zephyr enables developers to create efficient, secure, and connected devices.
 
 ---
 

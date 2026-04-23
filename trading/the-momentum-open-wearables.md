@@ -25,9 +25,7 @@ Trading · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The open-wearables project is an open-source, self-hosted platform that integrates and unifies wearable health data into a single, AI-ready API. This platform enables users to collect, store, and analyze their wearable device data in a centralized location, facilitating seamless integration with AI and machine learning models. By providing a unified data source, open-wearables empowers users to make more informed decisions about their health and wellness.
+The open-wearables project offers a self-hosted platform for unifying wearable health data into a single AI-ready API. This centralized platform enables users to access and integrate their wearable health data, promoting seamless interactions with various applications and analytics tools. By providing a unified API, open-wearables facilitates the development of innovative AI-driven health solutions.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Cozy/cozy-stack is an open-source project that prioritizes simplicity, versatility, and user ownership. The project is designed to provide a customizable and secure foundation for users to manage their digital lives. Its core philosophy revolves around giving users full control over their data, promoting a 'yours' approach to digital interactions.
+Cozy/Cozy-Stack is an open-source project that aims to provide a simple and versatile solution for various applications. It is designed to be flexible and adaptable, offering a range of features and functionalities that can be tailored to meet specific needs. By leveraging Cozy-Stack, developers can create robust and efficient applications with ease.
 
 ---
 

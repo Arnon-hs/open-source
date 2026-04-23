@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Cozeloop is an open-source, next-generation AI agent optimization platform that streamlines the entire lifecycle of AI development, from creation to deployment. It provides full-lifecycle management capabilities, including development, debugging, evaluation, and monitoring, to address challenges in AI agent development. This platform aims to simplify AI development and improve overall efficiency.
+Coze-loop is an open-source, next-generation AI Agent Optimization Platform that streamlines the entire lifecycle of AI agent development, from creation to evaluation and monitoring. This platform addresses common challenges in AI development by providing a comprehensive suite of tools for debugging, testing, and optimization. With Coze-loop, AI developers can focus on creating high-quality agents without the burdens of manual process management.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Fish-shell is an open-source command line shell designed with user-friendliness in mind. It provides a more intuitive and interactive experience, offering features such as auto-suggestions, syntax highlighting, and customizable key bindings. With its focus on simplicity and ease of use, fish-shell is an alternative to traditional shells like Bash and Zsh.
+The fish-shell/fish-shell project is an open-source, user-friendly command line shell designed to provide a smooth and intuitive experience. It features a powerful and customizable shell with features such as auto-completion and syntax highlighting, making it an ideal choice for users seeking a more modern command line interface. With its simplicity and flexibility, fish-shell aims to make navigating the command line more accessible and efficient.
 
 ---
 
