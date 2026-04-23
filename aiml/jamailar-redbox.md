@@ -27,7 +27,7 @@ AI/ML
 
 Here's a brief summary for the RedBox project:
 
-RedBox is an open-source AI content creation platform, inspired by Openclaw, designed for social media creators. It offers a suite of tools, including AI-generated content, style learning, and collaborative chat features, specifically tailored for users of Xiaohongshu (Red). RedBox enables creators to streamline their workflow and enhance their content production with AI assistance.
+RedBox is an open-source AI creation platform designed for content creators on Xiaohongshu, a popular social e-commerce platform. It features tools such as AI content generation, style learning, and group chat for collaborative content creation. This AI-powered workspace aims to simplify and enhance the content creation process for Xiaohongshu creators.
 
 ---
 

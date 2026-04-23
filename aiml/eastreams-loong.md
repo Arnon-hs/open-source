@@ -25,9 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a summary for the eastreams/loong project:
-
-The eastreams/loong project is an open-source, lightweight AI agent infrastructure that offers a flexible and customizable framework for developers to build and learn AI models. With its clear architecture, loong enables users to easily extend and modify its functionality to suit their specific needs. This extensible AI/ML infrastructure is ideal for DevOps and infrastructure development.
+The eastreams/loong project is an open-source, lightweight AI agent infrastructure designed for ease of learning and customization. It provides a clear and fully extensible framework for developing and deploying AI agents, enabling users to tailor the infrastructure to their specific needs. This project is ideal for developers and researchers looking to build and manage intelligent systems with flexibility and scalability.
 
 ---
 

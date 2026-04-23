@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the joewalnes/websocketd project:
-
-websocketd is an open-source tool that turns any program that uses STDIN/STDOUT into a WebSocket server, making it easily accessible over the web. Inspired by inetd, websocketd provides a simple and efficient way to expose local services as WebSockets. This allows developers to create WebSocket endpoints for various programs and services, enabling real-time communication and interactions.
+The 'websocketd' project is an open-source tool that allows developers to transform any program that uses standard input/output (STDIN/STDOUT) into a WebSocket server. By leveraging its functionality, users can easily create WebSocket-capable services from existing command-line applications, similar to how inetd serves traditional TCP-based services. This enables seamless integration with modern web technologies and enhances the accessibility of legacy applications.
 
 ---
 

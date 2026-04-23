@@ -25,7 +25,9 @@ Crypto · AI/ML · Security
 
 ## 📝 Summary
 
-Cadence is an open-source, resource-oriented smart contract programming language developed for the Flow network. It features capability-based security, type safety, and move semantics, ensuring the secure and reliable execution of smart contracts. As the smart contract language of the Flow network, Cadence provides a robust foundation for building decentralized applications.
+Here's a brief summary for the onflow/cadence project:
+
+Cadence is an open-source, smart contract programming language developed for the Flow network. It provides a secure and efficient platform for building decentralized applications, featuring capability-based security, type safety, and move semantics. This resource-oriented language enables developers to create robust and scalable smart contracts.
 
 ---
 

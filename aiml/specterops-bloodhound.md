@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-BloodHound is an open-source project that uses graph theory and machine learning to identify potential attack paths to domain administrator accounts, thereby facilitating the discovery of vulnerable systems within an Active Directory network. Developed by SpecterOps, this tool simplifies the process of mapping and analyzing the relationships between users, groups, and computer objects within an organization. By visualizing these connections, BloodHound enables security professionals to detect and mitigate lateral movement threats.
+BloodHound is an open-source project from SpecterOps, designed to map Active Directory environments using graph theory. It allows security professionals to visualize the relationships between users, computers, and other objects in the domain, effectively identifying potential attack paths to achieve domain administrator access. By providing a comprehensive view of the domain's structural weaknesses, BloodHound facilitates more effective threat hunting and incident response.
 
 ---
 

@@ -1,6 +1,6 @@
 # taikoxyz/taiko-mono
 
-[![Stars](https://img.shields.io/github/stars/taikoxyz/taiko-mono?style=flat-square&color=yellow)](https://github.com/taikoxyz/taiko-mono/stargazers) [![Forks](https://img.shields.io/github/forks/taikoxyz/taiko-mono?style=flat-square&color=blue)](https://github.com/taikoxyz/taiko-mono/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taikoxyz/taiko-mono?style=flat-square&color=yellow)](https://github.com/taikoxyz/taiko-mono/stargazers) [![Forks](https://img.shields.io/github/forks/taikoxyz/taiko-mono?style=flat-square&color=blue)](https://github.com/taikoxyz/taiko-mono/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
 > Taiko Alethia based rollup protocol 🥁
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

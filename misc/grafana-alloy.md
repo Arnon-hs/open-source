@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The Grafana Alloy project is an open-source distribution of the OpenTelemetry Collector, a powerful tool for collecting and processing observability data from various sources. What sets Alloy apart is its programmable pipeline feature, allowing users to customize and extend the data collection and processing workflow to suit their specific needs. This flexibility makes it an ideal solution for complex observability use cases.
+Here's a brief summary for the open-source project "grafana/alloy":
+
+Alloy is an OpenTelemetry Collector distribution that enables the creation of customizable data pipelines. By providing a programmable architecture, Alloy allows users to tailor the collection and processing of telemetry data to their specific needs. This flexibility makes it an ideal choice for organizations seeking to unify and instrument their observability infrastructure.
 
 ---
 

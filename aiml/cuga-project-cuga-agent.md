@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-CUGA (Composable Universal Generalist Agent) is an open-source, enterprise-grade agent harness that enables complex task execution on web and APIs, integrating seamlessly with OpenAPI and microservices-based architectures. This versatile agent supports composable architecture, multiple reasoning modes, and policy-aware features, making it an ideal solution for managing enterprise applications. With its open-source nature and broad range of capabilities, CUGA empowers developers to build highly adaptable and efficient systems.
+CUGA (CUGA-Agent) is an open-source, generalist agent harness designed for enterprises to execute complex tasks on web and APIs. This robust platform supports integrations with OpenAPI and MCP, features a composable architecture, and offers various reasoning modes and policy-aware capabilities. By leveraging CUGA, organizations can streamline automation and decision-making processes across their operations.
 
 ---
 

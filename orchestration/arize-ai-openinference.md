@@ -25,7 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The OpenInference project is an open-source initiative that provides OpenTelemetry instrumentation for AI observability. This tool enables the collection and analysis of critical AI-related metrics, facilitating better understanding and optimization of artificial intelligence systems. By integrating OpenInference, developers can gain valuable insights into their AI models and workflows.
+Here's a brief summary for the open-source project:
+
+The openinference project provides OpenTelemetry instrumentation to enhance AI observability by collecting and analyzing metrics and logs from AI/ML workflows. This project enables developers to gain insights into the performance, stability, and efficiency of their AI applications, streamlining the process of debugging and optimizing complex AI systems. By integrating openinference, developers can gain a deeper understanding of their AI workloads, leading to improved model performance and reduced costs.
 
 ---
 

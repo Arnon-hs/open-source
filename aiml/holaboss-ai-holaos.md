@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/holaboss-ai/holaOS?style=flat-square&color=yellow)](https://github.com/holaboss-ai/holaOS/stargazers) [![Forks](https://img.shields.io/github/forks/holaboss-ai/holaOS?style=flat-square&color=blue)](https://github.com/holaboss-ai/holaOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
-> The agent environment for long-horizon work, continuity, and self-evolution.
+> The computer for you and your agent.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 

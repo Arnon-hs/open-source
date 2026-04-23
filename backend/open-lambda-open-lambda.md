@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Open-Lambda is an open-source serverless computing platform designed to provide a flexible and scalable solution for developers. It allows users to deploy and manage event-driven functions, eliminating the need for server management and provisioning. This platform empowers developers to focus on writing code without worrying about the underlying infrastructure.
+Open Lambda is an open-source serverless computing platform that enables developers to build scalable and event-driven applications with ease. This platform provides a flexible and secure environment for deploying and managing code, reducing the need for underlying infrastructure management. By leveraging open Lambda, developers can focus on writing code and delivering value, rather than worrying about server provisioning and scaling.
 
 ---
 

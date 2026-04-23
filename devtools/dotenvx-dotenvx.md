@@ -25,7 +25,9 @@ DevTools · Security
 
 ## 📝 Summary
 
-Dotenvx is an open-source security project designed to enhance the traditional dotenv configuration management system. Created by the same developer as the original dotenv, it offers improved security features to protect sensitive environment variables. By leveraging dotenvx, developers can securely manage their app's configuration settings.
+Here's a brief summary for the dotenvx project:
+
+dotenvx is a secure dotenv library that offers improved protection for your environment variables, developed by the creator of the original dotenv project. This open-source tool enhances the security of environment variable management, helping to prevent potential security risks. With dotenvx, you can enjoy a safer and more reliable way to handle sensitive information in your application.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "Gitlawb/openclaude":
-
-Open Claude is an open-source coding agent CLI that provides access to a wide range of AI models, including OpenAI, Gemini, DeepSeek, Ollama, Codex, and GitHub models, allowing developers to leverage these models via OpenAI-compatible APIs. With support for over 200 models, Open Claude streamlines the process of utilizing AI-driven development tools and automating coding tasks. It enables developers to tap into the power of AI and enhance their productivity.
+Open Claude is an open-source command-line interface (CLI) for interacting with various AI models, including those from OpenAI, Gemini, and GitHub Models, as well as 200+ models through OpenAI-compatible APIs. This project enables developers to harness the power of these models in a streamlined and accessible way. With Open Claude, users can leverage multiple AI models from a single interface.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The karust/openserp open-source project provides free API access to major search engines such as Google, Yandex, Baidu, Bing, and DuckDuckGo. This allows developers to easily integrate search functionality into their applications without incurring costs. By utilizing the open-source API, users can retrieve search results programmatically.
+Here's a brief summary for the karust/openserp project:
+
+The karust/openserp project provides a free, open-source API for retrieving search results from leading search engines such as Google, Yandex, Baidu, Bing, and DuckDuckGo. This project enables developers to access search engine results programmatically, facilitating the integration of search functionality into various applications and services. With openserp, developers can build more comprehensive search experiences without incurring costs associated with proprietary APIs.
 
 ---
 

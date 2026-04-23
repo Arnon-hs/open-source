@@ -25,9 +25,7 @@ AI/ML · Design
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the greyhaven-ai/autocontext project:
-
-The greyhaven-ai/autocontext project is a cutting-edge, open-source initiative that harnesses the power of recursive self-improvement to enhance AI agents' performance on various tasks. This innovative design enables agents to adapt and refine their capabilities over time, ultimately leading to improved outcomes and more efficient problem-solving. By leveraging autocontext, developers can create more robust and autonomous agents that excel in a wide range of applications.
+The greyhaven-ai/autocontext project is an open-source, recursive self-improving harness designed to augment AI and ML agents, enabling them to achieve success on a wide range of tasks. By facilitating the improvement of agents and their future iterations, this project promotes autonomous growth and adaptation. This harness has the potential to revolutionize the field of AI by creating self-reinforcing loops that enhance learning and performance.
 
 ---
 

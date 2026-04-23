@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The altsem/gitu project is an open-source, command-line Git client that provides a text-based user interface (TUI). Inspired by Magit, gitu aims to offer a user-friendly and efficient way to interact with Git repositories from the comfort of a terminal. This project caters to developers seeking a Magit-like experience without the need for Emacs.
+Here's a brief summary for the altsem/gitu project:
+
+gitu is an open-source, text-based Git client that provides an intuitive user interface for managing Git repositories. Inspired by Magit, gitu aims to offer a user-friendly and efficient way to interact with Git from the command line. It's a great alternative for developers who prefer a terminal-based experience.
 
 ---
 

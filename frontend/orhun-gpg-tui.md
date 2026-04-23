@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The orhun/gpg-tui project is an open-source, user-friendly graphical user interface (GUI) for managing GnuPG keys. This tool streamlines the process of handling encryption, decryption, and other key management tasks with a simple, intuitive interface. By leveraging GnuPG, it provides a secure and reliable solution for managing cryptographic keys.
+GPG-TUI is an open-source project that simplifies the management of GnuPG keys through an intuitive graphical interface. This project aims to provide a user-friendly experience for securely managing and handling cryptographic keys. It allows users to interact with their GnuPG keys in a more accessible and efficient manner.
 
 ---
 

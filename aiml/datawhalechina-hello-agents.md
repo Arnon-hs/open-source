@@ -25,9 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The "Hello Agents" project is an open-source tutorial that guides learners through building intelligent agents from scratch, covering foundational principles and practical implementation. This comprehensive guide aims to provide a hands-on understanding of AI and machine learning concepts. By following this tutorial, developers can gain expertise in creating intelligent agents for various applications.
+The "hello-agents" project is an open-source guide to building intelligent agents from scratch, offering a comprehensive tutorial on the underlying principles and practices. This project, part of the DataWhaleChina initiative, aims to provide a hands-on learning experience for AI/ML enthusiasts and practitioners. By following this tutorial, users can gain a deeper understanding of intelligent agent development.
 
 ---
 

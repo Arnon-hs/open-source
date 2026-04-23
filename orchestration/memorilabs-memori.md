@@ -25,9 +25,7 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the Memori open-source project:
-
-Memori is an open-source agent-native memory infrastructure that enables structured, persistent state management for production systems. This LLM-agnostic layer facilitates seamless integration with various large language models (LLMs), allowing for efficient execution and conversation management. Memori empowers DevOps teams to orchestrate and optimize AI/ML workflows with ease.
+Memori is an open-source, agent-native memory infrastructure that enables production systems to capture and store structured, persistent state from agent execution and conversations. This LLM-agnostic layer provides a unified framework for integrating large language models (LLMs) into production environments, facilitating seamless orchestration and scaling. By leveraging Memori, developers can unlock more efficient and effective AI/ML workflows.
 
 ---
 

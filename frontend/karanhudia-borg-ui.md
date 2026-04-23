@@ -1,6 +1,6 @@
 # karanhudia/borg-ui
 
-[![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=flat-square&color=yellow)](https://github.com/karanhudia/borg-ui/stargazers) [![Forks](https://img.shields.io/github/forks/karanhudia/borg-ui?style=flat-square&color=blue)](https://github.com/karanhudia/borg-ui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=flat-square&color=yellow)](https://github.com/karanhudia/borg-ui/stargazers) [![Forks](https://img.shields.io/github/forks/karanhudia/borg-ui?style=flat-square&color=blue)](https://github.com/karanhudia/borg-ui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

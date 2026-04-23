@@ -27,7 +27,7 @@ AI/ML · DevTools · Data
 
 Here's a brief summary of the yfedoseev/pdf_oxide project:
 
-pdf_oxide is an open-source, high-performance PDF library that supports text and image extraction, markdown conversion, and PDF creation and editing in both Python and Rust. It boasts exceptional speed, achieving a mean processing time of 0.8ms and outperforming industry leaders by 5x. With a 100% pass rate on 3,830 PDFs, it offers a reliable solution for various applications.
+pdf_oxide is a high-performance, open-source PDF library for Python and Rust that enables fast and efficient text and image extraction, markdown conversion, and PDF creation and editing. With a mean processing time of 0.8ms and a 100% pass rate on 3,830 PDFs, it outperforms industry leaders by a factor of five. This library is released under the MIT and Apache-2.0 licenses.
 
 ---
 

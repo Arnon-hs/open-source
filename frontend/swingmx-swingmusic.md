@@ -25,7 +25,9 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Swing Music is an open-source, self-hosted music player that allows users to stream their local audio files with a user-friendly interface. Inspired by popular music streaming services, Swing Music gives users the freedom to access their personal music library from anywhere, without relying on external platforms. This project combines frontend and backend expertise to create a seamless music experience.
+Here's a brief summary for the Swing Music project:
+
+Swing Music is an open-source, self-hosted music player that allows users to stream their local audio files with a user-friendly interface. This project combines a frontend and backend to create a personal music experience, similar to popular music streaming services, but with the freedom to play users' own music collections. By hosting the music player locally, users can enjoy their favorite tunes without relying on external services.
 
 ---
 

@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The Swift Package Manager is an open-source tool for managing dependencies of Swift projects. It allows developers to easily discover, integrate, and maintain third-party libraries and frameworks in their Swift codebase. This package manager streamlines the process of building and managing complex software projects by automating dependency resolution and installation.
+Here's a brief summary for the Swift Package Manager project:
+
+The Swift Package Manager is an open-source tool for managing dependencies in Swift projects, allowing developers to easily discover, integrate, and maintain third-party libraries in their code. This package manager simplifies the process of building and deploying Swift applications by automating tasks such as dependency resolution and package management. By using Swift Package Manager, developers can focus on writing high-quality code without worrying about the complex details of package management.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Tombi is an open-source multi-tool for working with TOML files, encompassing a formatter, linter, and language server. It aims to streamline the development process by providing a comprehensive solution for TOML file maintenance and validation. With its feature-rich capabilities, tombi is an essential tool for developers working with TOML files.
+The tombi project is an open-source tool that provides comprehensive support for TOML (Tom's Obvious, Minimal Language) files through a formatter, linter, and language server. This versatile tool helps developers maintain high-quality TOML code by automatically formatting and checking for errors, as well as providing real-time syntax checking and code completion. By leveraging AI/ML and DevTools, tombi streamlines the development process for TOML-based applications.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The agentgateway project is an open-source, next-generation agentic proxy for AI agents and MCP (Meta Cloud Platform) servers, designed to facilitate seamless interactions and data exchange between various AI systems. This project caters to the AI/ML and DevOps/Infra communities by providing a scalable and efficient backend solution for integrating multiple AI agents and MCP servers. By leveraging agentgateway, developers can build more robust and interconnected AI ecosystems.
+The agentgateway project is an open-source, next-generation agentic proxy designed to facilitate communication between AI agents and MCP (Multi-Cloud Platform) servers. This project aims to enable seamless interaction and data exchange between AI entities and cloud infrastructure, supporting the development and deployment of intelligent systems. By providing a scalable and flexible interface, agentgateway simplifies the integration of AI capabilities with cloud-based applications and services.
 
 ---
 

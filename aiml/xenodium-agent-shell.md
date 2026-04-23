@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the xenodium/agent-shell project:
-
-Agent-Shell is an open-source, native Emacs buffer that enables seamless interaction with Large Language Model (LLM) agents powered by the ACP (Agent Communication Protocol). This tool streamlines communication between users and AI agents, facilitating a more efficient and intuitive workflow. By integrating with Emacs, Agent-Shell provides a powerful interface for developers and researchers working with LLMs and AI technologies.
+The agent-shell is an open-source, Emacs-based interface for interacting with Large Language Model (LLM) agents. Built on ACP (Autoregressive Convolutions and Positional Encodings), this project streamlines communication with AI-driven agents directly within a native Emacs buffer. By providing a seamless, in-Eclipse experience, agent-shell aims to enhance productivity and efficiency in AI-related tasks.
 
 ---
 

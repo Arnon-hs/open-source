@@ -1,6 +1,6 @@
 # SciSharp/BotSharp
 
-[![Stars](https://img.shields.io/github/stars/SciSharp/BotSharp?style=flat-square&color=yellow)](https://github.com/SciSharp/BotSharp/stargazers) [![Forks](https://img.shields.io/github/forks/SciSharp/BotSharp?style=flat-square&color=blue)](https://github.com/SciSharp/BotSharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SciSharp/BotSharp?style=flat-square&color=yellow)](https://github.com/SciSharp/BotSharp/stargazers) [![Forks](https://img.shields.io/github/forks/SciSharp/BotSharp?style=flat-square&color=blue)](https://github.com/SciSharp/BotSharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > AI Multi-Agent Framework in .NET
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 627 |
+| 🍴 **Forks** | 628 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -27,7 +27,7 @@ AI/ML · Data
 
 Here's a brief summary for the VectifyAI/PageIndex project:
 
-PageIndex is an open-source document index designed for vectorless, reasoning-based Retrieval-Augmented Generation (RAG) systems. This AI/ML project enables efficient and scalable indexing of large document collections, facilitating effective search and retrieval. By leveraging reasoning-based approaches, PageIndex aims to enhance the capabilities of RAG systems in understanding and generating text.
+PageIndex is an open-source document index designed for vectorless, reasoning-based Retrieval-Augmented Generation (RAG) applications. This project enables efficient organization and retrieval of large-scale documents, facilitating advanced AI and machine learning tasks. By leveraging vectorless reasoning, PageIndex simplifies the process of information retrieval and generation in various data-driven scenarios.
 
 ---
 
