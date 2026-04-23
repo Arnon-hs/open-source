@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 254 |
 | 💻 **Language** | C |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`activelook` `conversational-ai` `even-realities` `even-realities-g1` `mentra` `mentra-live` `rayneo` `smart-glasses` `smartglasses` `vuzix` `vuzix-shield` `vuzix-ultralite`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 303 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`api` `docs-as-code` `docs-generator` `openapi` `sdk-generator`
+_no topics_
 
 ## 🎯 Categories
 

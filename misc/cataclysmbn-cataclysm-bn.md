@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 393 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`c-plus-plus` `cataclysm` `game` `roguelike` `sci-fi` `survival` `zombies`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Cataclysm: Bright Nights is an open-source, post-apocalyptic roguelike game built upon the Cataclysm:DDA variant. This project offers a distinct twist on the original game, while maintaining the core mechanics and exploration aspects that fans have come to love. As an open-source fork, Cataclysm: Bright Nights encourages community contribution and development.
+cataclysmbn/Cataclysm-BN is a promising open-source project. Categories: Misc. Interest score: 62/100.
 
 ---
 

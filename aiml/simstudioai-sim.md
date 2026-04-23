@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agent-workflow` `agentic-workflow` `agents` `ai` `aiagents` `anthropic` `artificial-intelligence` `automation` `chatbot` `deepseek` `gemini` `low-code`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The sim project is an open-source initiative aimed at building, deploying, and orchestrating AI agents through a central intelligence layer. This layer, referred to as the "AI workforce," enables users to effectively manage and integrate AI capabilities into their systems. By utilizing the sim platform, developers can streamline the creation and management of AI-powered solutions.
+Here's a brief summary for the open-source project "simstudioai/sim":
+
+Sim is an open-source platform that enables the build, deployment, and orchestration of AI agents, serving as the central intelligence layer for AI workforces. This powerful tool allows developers to streamline AI operations and integrate them seamlessly into various applications. With Sim, users can efficiently manage and deploy AI agents, unlocking the full potential of their AI workforces.
 
 ---
 

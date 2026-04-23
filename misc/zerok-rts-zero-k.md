@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 245 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cross-platform` `game` `gamedev` `lua` `modding` `multi-platform` `open-source` `opensource` `real-time-strategy` `rts` `rts-game` `scifi`
+_no topics_
 
 ## 🎯 Categories
 

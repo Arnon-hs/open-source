@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 890 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`adults` `avatar` `emby` `jav` `jav-scraper` `jellyfin` `plex`
+_no topics_
 
 ## 🎯 Categories
 

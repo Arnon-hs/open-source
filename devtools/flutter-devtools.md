@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 390 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,7 +25,7 @@ DevTools · Mobile
 
 ## 📝 Summary
 
-The Flutter DevTools is an open-source project that provides a suite of developer tools for Flutter and Dart applications. This comprehensive suite enables developers to inspect and debug their mobile applications, allowing for a more efficient and streamlined development process. With Flutter DevTools, developers can gain valuable insights into their app's behavior and performance.
+flutter/devtools is a promising open-source project. Categories: DevTools, Mobile. Interest score: 58/100.
 
 ---
 

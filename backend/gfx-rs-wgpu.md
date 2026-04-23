@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`d3d12` `gpu` `hacktoberfest` `metal` `opengl` `rust` `vulkan` `webgpu`
+_no topics_
 
 ## 🎯 Categories
 

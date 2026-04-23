@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ethereum` `l2-scaling` `optimism` `ovm` `rollup`
+_no topics_
 
 ## 🎯 Categories
 

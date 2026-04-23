@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 236 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`job` `node` `nodejs` `postgres` `postgresql` `queue`
+_no topics_
 
 ## 🎯 Categories
 

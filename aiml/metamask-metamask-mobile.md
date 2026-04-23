@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`android` `dapps-browser` `ios` `javascript` `metamask` `react-native` `web3`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-MetaMask for Mobile is an open-source, mobile web browser that enables users to access and interact with Ethereum-based websites directly from their mobile devices. This browser provides a seamless experience for users to engage with decentralized applications (dApps) and explore the Ethereum blockchain ecosystem on-the-go. By leveraging the Ethereum blockchain, MetaMask for Mobile offers a secure and decentralized way to interact with web3 applications.
+MetaMask Mobile is an open-source mobile web browser that allows users to seamlessly interact with decentralized applications (dApps) built on the Ethereum blockchain. It provides a secure and user-friendly interface for managing cryptocurrency and accessing Web3 services directly from a smartphone.
 
 ---
 

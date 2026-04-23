@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`computer-vision` `deep-learning` `gpu` `gui` `japanese` `manga` `rust` `tauri` `text-rendering` `translation`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Koharu is an open-source, Rust-based project that utilizes machine learning (ML) to power manga translation. This innovative tool aims to bridge language gaps by efficiently translating manga content. By leveraging ML capabilities, Koharu seeks to enhance the reading experience for international manga enthusiasts.
+Koharu is an open-source, Rust-based project that utilizes machine learning to translate manga content. This innovative tool aims to bridge language barriers and make manga more accessible to a global audience. By leveraging AI/ML capabilities, Koharu offers a powerful solution for manga translation.
 
 ---
 

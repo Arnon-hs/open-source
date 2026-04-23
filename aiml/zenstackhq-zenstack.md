@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`access-control` `acl` `ai-friendly` `api` `auth` `authorization` `authz` `fullstack` `javascript` `nextjs` `node` `openapi`
+_no topics_
 
 ## 🎯 Categories
 

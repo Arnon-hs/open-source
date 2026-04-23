@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.4k |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`bun` `bundler` `javascript` `javascriptcore` `jsx` `nodejs` `npm` `react` `transpiler` `typescript` `zig` `ziglang`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-oven-sh/bun is a promising open-source project. Categories: Frontend, DevTools. Interest score: 100/100.
+Bun is an incredibly fast, all
 
 ---
 

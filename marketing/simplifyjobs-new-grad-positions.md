@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`applications` `coderquad` `college` `fulltime` `hacktoberfest` `jobs` `newgrad` `position` `posting` `university`
+_no topics_
 
 ## 🎯 Categories
 

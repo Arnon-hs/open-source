@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 371 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`aggregations` `analytics` `bm25` `database` `elasticsearch` `full-text-search` `htap` `hybrid-search` `olap` `postgresql` `real-time-analytics` `similarity-search`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-ParadeDB is an open-source, Postgres-based search engine designed to achieve high-quality search results while maintaining scalability and elasticity. It enables users to efficiently search and retrieve data from Postgres databases with ease. By leveraging the capabilities of Postgres, ParadeDB provides a powerful and seamless search experience.
+ParadeDB is an open-source project that provides a simple yet high-quality search capability for Postgres databases. It allows users to easily implement full-text search functionality within their PostgreSQL applications. By leveraging this solution, developers can enhance their databases with robust search features.
 
 ---
 

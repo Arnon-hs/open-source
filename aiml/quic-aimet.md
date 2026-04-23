@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 449 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`auto-ml` `compression` `deep-learning` `deep-neural-networks` `machine-learning` `network-compression` `network-quantization` `open-source` `opensource` `pruning` `quantization`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-AIMET is an open-source library that offers advanced quantization and compression techniques for trained neural network models, enabling efficient model deployment in resource-constrained environments. By leveraging AIMET, developers can compress and optimize their models without sacrificing performance, making it easier to deploy AI applications in various industries. This library is a valuable resource for AI/ML researchers and practitioners looking to optimize their models.
+quic/aimet is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 75/100.
 
 ---
 

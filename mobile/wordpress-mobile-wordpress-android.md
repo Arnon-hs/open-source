@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`android` `app` `java` `mobile` `website` `wordpress`
+_no topics_
 
 ## 🎯 Categories
 

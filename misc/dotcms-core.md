@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 480 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cloud` `cms` `content` `content-management-system` `dotcms` `dxp` `graphql` `headless-cms` `java` `opensouce`
+_no topics_
 
 ## 🎯 Categories
 

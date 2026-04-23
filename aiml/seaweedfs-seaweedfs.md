@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`blob-storage` `cloud-drive` `distributed-file-system` `distributed-storage` `distributed-systems` `erasure-coding` `fuse` `hadoop-hdfs` `hdfs` `kubernetes` `object-storage` `posix`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 556 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cli` `clustering` `concurrency` `dependency-injection` `effect` `error-handling` `javascript` `observability` `opentelemetry` `platform` `schema` `typescript`
+_no topics_
 
 ## 🎯 Categories
 

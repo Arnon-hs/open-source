@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 546 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`airbyte` `attack-surface-management` `aws` `azure` `bigquery` `cspm` `data` `data-analysis` `data-collection` `data-engineering` `data-integration` `elt`
+_no topics_
 
 ## 🎯 Categories
 

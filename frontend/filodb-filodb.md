@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 239 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`database` `distributed` `kafka` `metrics` `prometheus` `reactive` `scala` `time-series`
+_no topics_
 
 ## 🎯 Categories
 

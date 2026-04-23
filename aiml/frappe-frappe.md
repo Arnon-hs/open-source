@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cms` `email` `erpnext` `frappe` `full-stack` `javascript` `low-code` `mariadb` `multitenant` `postgres` `python` `rest-api`
+_no topics_
 
 ## 🎯 Categories
 

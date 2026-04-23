@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 455 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agents` `ai` `ai-agents` `api` `developer-tools` `function-calling` `integration` `llm` `mcp` `oauth2` `open-source` `permissions`
+_no topics_
 
 ## 🎯 Categories
 

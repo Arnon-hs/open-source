@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 786 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`design` `docs` `gatsby` `handbook` `posthog` `tailwindcss`
+_no topics_
 
 ## 🎯 Categories
 

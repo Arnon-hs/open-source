@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 74k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data` `personal`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`aws` `mcp` `mcp-client` `mcp-clients` `mcp-host` `mcp-server` `mcp-servers` `mcp-tools` `modelcontextprotocol`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,9 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-The awslabs/mcp project is an official collection of MCP (Microservices Code Processor) servers designed specifically for AWS, providing a robust and efficient platform for managing microservices-based applications. MCP servers streamline the development process by automating tasks and enabling seamless communication between microservices. This open-source project is ideal for developers and organizations looking to build scalable and resilient systems on the AWS cloud.
+The MCP (Machine Code Parser) project by AWS Labs is an open-source initiative that provides official MCP servers for AWS. These servers enable the parsing and processing of machine code, facilitating more efficient and streamlined interactions with AWS services. By utilizing MCP, developers can unlock new possibilities for optimizing their cloud-based applications.
 
 ---
 

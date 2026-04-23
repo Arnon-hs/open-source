@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 24.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agentic-ai` `agentic-workflow` `agents` `artificial-intelligence` `chatbot` `chatgpt` `javascript` `langchain` `large-language-models` `low-code` `multiagent-systems` `no-code`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Flowise is an open-source project that enables users to build AI agents visually, streamlining the process of developing artificial intelligence solutions. This project combines the power of AI/ML with the simplicity of a frontend interface, making it accessible to developers and non-technical users alike. With Flowise, users can create and customize AI agents without requiring extensive coding knowledge.
+Flowise is an open-source project that empowers users to build AI agents through a visually intuitive interface. This tool streamlines the process of creating and training AI models by leveraging a user-friendly frontend approach, making AI development more accessible to a broader audience. By utilizing Flowise, developers can focus on designing and deploying AI agents without requiring extensive coding expertise.
 
 ---
 

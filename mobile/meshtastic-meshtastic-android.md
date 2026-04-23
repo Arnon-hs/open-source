@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 445 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`android` `gps` `lora` `meshtastic`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 861 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`atom` `feed` `go` `golang` `jsonfeed` `letsencrypt` `opml` `postgresql` `rdf` `rss`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Miniflux/v2 is an open-source, minimalist feed reader that prioritizes simplicity and user experience. This opinionated feed reader is designed to offer a streamlined and intuitive interface for users to manage and read their RSS feeds, making it an ideal choice for those seeking a clutter-free experience. With its robust features and clean design, Miniflux/v2 is an excellent option for individuals and organizations looking for a reliable feed reader solution.
+Miniflux/v2 is an open-source, minimalist feed reader that prioritizes simplicity and ease of use. This opinionated feed reader offers a streamlined experience for users, allowing them to focus on their reading without unnecessary features. By leveraging AI/ML capabilities, Miniflux/v2 aims to provide a tailored reading experience.
 
 ---
 

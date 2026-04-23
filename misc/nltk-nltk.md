@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`machine-learning` `natural-language-processing` `nlp` `nltk` `python`
+_no topics_
 
 ## 🎯 Categories
 

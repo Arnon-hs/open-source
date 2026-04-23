@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`go` `grpc` `grpc-gateway` `openapi` `rest-api` `restful-api` `swagger`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-The grpc-gateway project is an open-source tool that generates a JSON proxy from a gRPC Service Definition file, allowing for seamless communication between gRPC services and JSON-based clients. It follows the gRPC HTTP spec, making it easy to integrate with existing gRPC services and HTTP clients. This enables developers to easily expose their gRPC services to a wider range of clients.
+Here's a brief summary for the project:
+
+grpc-gateway is an open-source tool that generates a reverse proxy server from a gRPC service definition, allowing it to be accessed over HTTP. It follows the gRPC HTTP spec to provide seamless integration with gRPC services, enabling developers to leverage the benefits of both gRPC and RESTful APIs. This enables APIs to be both gRPC and REST compatible.
 
 ---
 

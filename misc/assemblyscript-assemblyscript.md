@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 688 |
 | 💻 **Language** | WebAssembly |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`assemblyscript` `compiler` `typescript` `wasm` `webassembly`
+_no topics_
 
 ## 🎯 Categories
 

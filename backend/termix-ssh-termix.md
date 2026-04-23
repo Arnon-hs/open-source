@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 501 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`docker` `file-management` `self-hosted` `ssh` `ssh-tunnel` `termix`
+_no topics_
 
 ## 🎯 Categories
 

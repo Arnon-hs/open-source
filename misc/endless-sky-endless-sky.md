@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`2d-game` `adventure-game` `arcade-game` `c-plus-plus` `cpp` `endless-sky` `exploration` `free` `game` `game-development` `gamedev` `indie`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Endless Sky is an open-source, space exploration game that combines elements of trading, exploration, and combat. Players are free to explore a vast universe, engage in space battles, trade goods with alien species, and uncover the secrets of the cosmos. With a rich and immersive gameplay experience, Endless Sky offers endless possibilities for space travelers.
+Endless Sky is an open-source space exploration, trading, and combat game that allows players to venture into a vast galaxy, engage in space battles, and establish a thriving trading empire. With its rich gameplay and customization options, players can craft their own unique experiences and share them with the community. The game's open-source nature enables users to contribute and modify the code, fostering a collaborative and dynamic gaming environment.
 
 ---
 

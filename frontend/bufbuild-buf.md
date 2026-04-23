@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 353 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`buf-cli` `buf-schema-registry` `grpc` `protobuf` `protoc` `protocol-buffers`
+_no topics_
 
 ## 🎯 Categories
 

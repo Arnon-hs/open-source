@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 732 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`containers` `cpp` `event-driven` `go` `kafka` `kubernetes` `microservices` `realtime` `redpanda` `seastar` `storage-engine` `stream-processing`
+_no topics_
 
 ## 🎯 Categories
 

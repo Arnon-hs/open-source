@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 590 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`aliyun` `aws` `azure` `cloud` `dependency-injection-container` `enterprise` `framework` `ioc` `midway` `mircoservices` `react` `serverless`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `ai-chat` `chatgpt` `chatui` `enterprise-search` `gen-ai` `information-retrieval` `llm` `llm-ui` `nextjs` `python` `rag`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Onyx is an open-source AI platform that enables users to build and deploy AI chat applications with advanced features. It seamlessly integrates with various Large Language Models (LLMs) to provide a robust and versatile solution. With its focus on frontend development, Onyx empowers developers to create innovative chat interfaces for a wide range of applications.
+Onyx is an open-source, AI-powered chat platform that offers advanced features and seamless integration with various Large Language Models (LLMs). This versatile platform allows users to build and customize their own AI-powered chatbots, making it an ideal solution for developers and businesses seeking to leverage AI in their applications. With its ability to work with every LLM, Onyx provides a robust and flexible foundation for AI-driven conversations.
 
 ---
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`arrow` `artificial-intelligence` `big-data` `data` `data-engineering` `datafusion` `delta-lake` `distributed-computing` `iceberg` `lakehouse` `machine-learning` `pyspark`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 971 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`browser-game` `game` `io-game` `rts` `rts-game`
+_no topics_
 
 ## 🎯 Categories
 

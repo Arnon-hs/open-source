@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`automation` `chrome` `chromium` `e2e-testing` `electron` `end-to-end-testing` `firefox` `javascript` `playwright` `test` `test-automation` `testing`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 428 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`addon` `chrome` `chrome-extension` `firefox` `firefox-addon` `firefox-extension` `scratch` `scratch3` `webextension`
+_no topics_
 
 ## 🎯 Categories
 

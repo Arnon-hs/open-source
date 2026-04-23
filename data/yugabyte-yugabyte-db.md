@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cloud-native` `cpp` `database` `distributed-database` `distributed-sql` `distributed-sql-database` `high-performance` `kubernetes` `multi-cloud` `multi-region` `scale-out` `sql`
+_no topics_
 
 ## 🎯 Categories
 

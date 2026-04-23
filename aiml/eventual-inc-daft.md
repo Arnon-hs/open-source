@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 452 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-engineering` `ai-pipeline` `arrow` `artificial-intelligence` `big-data` `data-engineering` `distributed` `distributed-computing` `distributed-systems` `embeddings` `etl` `huggingface`
+_no topics_
 
 ## 🎯 Categories
 

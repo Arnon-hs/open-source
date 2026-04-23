@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`algorithmic-trading-engine` `algorithmic-trading-library` `algotrading` `arbitrage-bot` `awesome` `awesome-list` `finance` `finance-api` `financial-data` `financial-instruments` `google-finance` `quant`
+_no topics_
 
 ## 🎯 Categories
 

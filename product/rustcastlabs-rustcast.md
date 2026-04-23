@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`alternative` `app` `application` `blazing-fast` `blazingly-fast` `fast` `free` `iced` `iced-rs` `macos` `objc2` `opensource`
+_no topics_
 
 ## 🎯 Categories
 

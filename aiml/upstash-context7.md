@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`llm` `mcp` `mcp-server` `vibe-coding`
+_no topics_
 
 ## 🎯 Categories
 

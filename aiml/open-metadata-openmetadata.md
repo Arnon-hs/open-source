@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.1k |
+| ⭐ **Stars** | 12.2k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`data-catalog` `data-collaboration` `data-contracts` `data-discovery` `data-governance` `data-lineage` `data-observability` `data-profiling` `data-quality` `data-quality-checks` `data-validation` `datadiscovery`
+_no topics_
 
 ## 🎯 Categories
 

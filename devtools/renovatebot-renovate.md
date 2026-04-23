@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`azure-devops` `bitbucket` `dependencies` `dependencies-checking` `dependency-manager` `github` `gitlab` `npm` `package-management`
+_no topics_
 
 ## 🎯 Categories
 

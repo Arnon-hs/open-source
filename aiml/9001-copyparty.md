@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`copyparty` `file-server` `file-sharing` `file-upload-server` `ftp-server` `nas-frontend` `tftp-server` `webdav-server`
+_no topics_
 
 ## 🎯 Categories
 

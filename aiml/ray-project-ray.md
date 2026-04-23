@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 7.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`data-science` `deep-learning` `deployment` `distributed` `hyperparameter-optimization` `hyperparameter-search` `large-language-models` `llm` `llm-inference` `llm-serving` `machine-learning` `optimization`
+_no topics_
 
 ## 🎯 Categories
 

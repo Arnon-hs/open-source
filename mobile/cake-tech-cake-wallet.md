@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 354 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`android` `bitcoin` `bitcoin-cash` `btc` `cryptocurrency` `ethereum` `haven` `ios` `linux` `litecoin` `ltc` `macos`
+_no topics_
 
 ## 🎯 Categories
 

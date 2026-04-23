@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-image-generation` `ai-prompts` `awesome` `awesome-list` `gemini` `gemini-ai` `google-gemini` `image-generation` `multilingual` `nano-banana` `nano-banana-2` `nano-banana-pro`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agents` `ai` `ai-agents` `ai-engineering` `computer-vision` `course` `deep-learning` `from-scratch` `generative-ai` `llm` `machine-learning` `mcp`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, "ai-engineering-from-scratch," provides a comprehensive learning and development framework for building and shipping AI and machine learning (AI/ML) applications. The project aims to empower developers to create scalable and efficient AI solutions from scratch, covering both frontend and backend aspects. By following this project, developers can gain hands-on experience in designing and implementing AI engineering pipelines.
+The "ai-engineering-from-scratch" project is an open-source initiative aimed at empowering developers to build and deploy AI-powered applications from the ground up. This project focuses on providing a comprehensive understanding of AI engineering concepts, enabling users to learn, build, and ship robust and innovative AI solutions. By mastering AI engineering fundamentals, developers can create impactful applications for others.
 
 ---
 

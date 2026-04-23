@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 305 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`apache` `http` `iggy` `messaging` `quic` `rust` `streaming` `tcp`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 438 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cuda` `d3d12` `glsl` `hlsl` `shaders` `vulkan`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 446 |
 | 💻 **Language** | Chapel |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`chapel` `compiler` `concurrency` `distributed-computing` `gpu` `high-performance-computing` `hpc` `language` `open-source` `parallel` `parallel-computing` `performance`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Product
 
 ## 📝 Summary
 
-Chapel is an open-source, parallel programming language designed to make it easier for developers to write high-performance, scalable code. This language aims to provide a productive and efficient way of expressing complex parallel computations, allowing users to focus on the logic of their program rather than the intricacies of parallelism. With Chapel, developers can create high-performance applications that efficiently utilize multi-core and distributed systems.
+chapel-lang/chapel is a promising open-source project. Categories: Product. Interest score: 71/100.
 
 ---
 

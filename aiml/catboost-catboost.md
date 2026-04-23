@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`big-data` `catboost` `categorical-features` `coreml` `cuda` `data-mining` `data-science` `decision-trees` `gbdt` `gbm` `gpu` `gpu-computing`
+_no topics_
 
 ## 🎯 Categories
 

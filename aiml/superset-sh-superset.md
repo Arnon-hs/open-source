@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 817 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agentic-ai` `ai-agents` `claude-code` `cli` `codex` `coding-agents` `cursor-agent` `desktop-app` `developer-tools` `electron` `git-worktree` `llm`
+_no topics_
 
 ## 🎯 Categories
 

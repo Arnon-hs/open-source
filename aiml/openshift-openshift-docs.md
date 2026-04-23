@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`documentation` `hacktoberfest` `openshift`
+_no topics_
 
 ## 🎯 Categories
 

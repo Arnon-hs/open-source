@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `butler` `neo4j-graph` `nodejs` `postgresql` `prisma` `redis` `remix` `tailwind-css` `typescript`
+_no topics_
 
 ## 🎯 Categories
 

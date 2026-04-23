@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 944 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`config` `github-config`
+_no topics_
 
 ## 🎯 Categories
 

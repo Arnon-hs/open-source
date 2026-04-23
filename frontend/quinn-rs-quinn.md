@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 548 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`hacktoberfest` `protocol` `quic` `rust`
+_no topics_
 
 ## 🎯 Categories
 

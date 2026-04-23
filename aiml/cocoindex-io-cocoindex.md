@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 502 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agentic-data-framework` `ai` `ai-agents` `change-data-capture` `codebase-intelligence` `context-engineering` `data-engineering` `data-indexing` `data-processing` `etl` `help-wanted` `indexing`
+_no topics_
 
 ## 🎯 Categories
 

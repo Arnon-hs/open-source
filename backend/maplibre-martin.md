@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 353 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`hacktoberfest` `leaflet` `mapbox-gl` `mapbox-gl-js` `mapbox-vector-tile` `maplibre` `maplibre-gl-js` `maps` `mbtiles` `pmtiles` `postgis` `postgresql`
+_no topics_
 
 ## 🎯 Categories
 

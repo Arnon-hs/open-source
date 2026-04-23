@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 18.7k |
 | 💻 **Language** | Nix |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`hacktoberfest` `linux` `nix` `nixos` `nixpkgs`
+_no topics_
 
 ## 🎯 Categories
 

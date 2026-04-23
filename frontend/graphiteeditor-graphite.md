@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`2d-graphics` `animation` `art` `creative-coding` `design` `graphic-design` `graphics` `graphics-editor` `image-manipulation` `image-processing` `motion-design` `motion-graphics`
+_no topics_
 
 ## 🎯 Categories
 

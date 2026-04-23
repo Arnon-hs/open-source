@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agent` `artificial-intelligence` `chatgpt` `claude-ai` `cli` `developer-tools` `gpt` `llm` `openai`
+_no topics_
 
 ## 🎯 Categories
 
@@ -27,7 +27,7 @@ AI/ML · DevTools
 
 Here's a brief summary for the OpenHands project:
 
-OpenHands is an open-source project that leverages AI and machine learning to streamline development processes. By automating tedious tasks and enhancing productivity, OpenHands aims to revolutionize the way developers work. This AI-driven development tool is designed to be highly customizable and adaptable to various development environments.
+OpenHands is an open-source, AI-driven development platform that utilizes machine learning to streamline and enhance the software development process. This innovative tool leverages AI to automate tasks, improve code quality, and optimize development workflows. By harnessing the power of AI, OpenHands empowers developers to build better software faster and more efficiently.
 
 ---
 

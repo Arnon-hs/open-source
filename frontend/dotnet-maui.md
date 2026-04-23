@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`android` `desktop` `dotnet` `hacktoberfest` `ios` `maccatalyst` `maui` `microsoft` `mobile` `multi-platform` `user-interface` `winui`
+_no topics_
 
 ## 🎯 Categories
 

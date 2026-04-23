@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`angular` `angular-cli` `angular-cli-ghpages` `circle-ci` `cloudflare-pages` `gh-pages` `github-actions` `github-pages` `ng-deploy` `travis-ci`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`framework` `fullstack` `javascript` `react` `route` `router` `routing` `rpc` `search` `searchparams` `server-functions` `ssr`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,9 +25,9 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the TanStack/router open-source project:
+Here's a brief summary of the TanStack/router project:
 
-TanStack/router is a comprehensive, open-source web framework that provides a client-first, server-capable, and fully type-safe routing system. It combines the benefits of a robust router with a full-stack framework, making it an ideal choice for building complex web applications with React and other frameworks. This versatile tool enables developers to create seamless, high-performance web experiences that transcend frontend and backend boundaries.
+TanStack/router is an open-source, client-first routing solution for web development that supports both React and other frameworks. It offers a fully type-safe and server-capable routing system, making it a versatile tool for building full-stack applications. With its robust features, TanStack/router provides a comprehensive framework for building web applications.
 
 ---
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `ai-agents` `llms` `on-device-ai`
+_no topics_
 
 ## 🎯 Categories
 

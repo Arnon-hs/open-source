@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 272 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`aws` `kubernetes-controller`
+_no topics_
 
 ## 🎯 Categories
 

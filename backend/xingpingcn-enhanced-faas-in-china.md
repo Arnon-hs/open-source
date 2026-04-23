@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cf-ip` `china-region` `cloudflare` `cname-record` `netlify` `selected-ip` `vercel-serverless`
+_no topics_
 
 ## 🎯 Categories
 

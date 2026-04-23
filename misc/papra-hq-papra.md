@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 197 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`app` `archive` `document` `documents` `self-hosted`
+_no topics_
 
 ## 🎯 Categories
 

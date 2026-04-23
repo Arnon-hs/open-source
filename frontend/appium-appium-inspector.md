@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 373 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`appium` `inspector`
+_no topics_
 
 ## 🎯 Categories
 

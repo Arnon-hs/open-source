@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`clash` `client` `fanqiang` `fq` `free-servers` `freefq` `google` `shadowrocket` `shadowshare` `shadowsocks` `socket` `ss`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
+Here's a brief summary of the Pawdroid/Free-servers project:
 
-Pawdroid/Free-servers is an open-source project that offers a shared network of high-quality and free nodes, updated every 6 hours, for users to bypass geo-restrictions and access the internet securely. The project includes free subscription addresses for popular VPN and proxy services such as Clash, which enables users to access a range of online content without any restrictions. This project caters to individuals seeking a completely free and reliable solution for secure online browsing.
+The Pawdroid/Free-servers project provides a free and open-source platform for sharing high-quality nodes and VPN subscription addresses. It offers a free subscription address, updated every 6 hours, allowing users to bypass geo-restrictions and access content from around the world. The platform supports various protocols, including ss/v2ray/trojan, and is completely free to use.
 
 ---
 

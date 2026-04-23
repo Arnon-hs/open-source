@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`3d-graphics` `bidirectional-path-tracing` `cuda` `gpu-computing` `luxcorerender` `luxrender` `opencl` `optix` `path-tracing` `pathtracer` `ray` `ray-tracer`
+_no topics_
 
 ## 🎯 Categories
 

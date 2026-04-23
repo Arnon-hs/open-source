@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`claude-code` `cli` `codex` `cursor-agent` `ghostty` `opencode` `orchestration` `parallel-agents` `pi` `terminal` `worktrees`
+_no topics_
 
 ## 🎯 Categories
 

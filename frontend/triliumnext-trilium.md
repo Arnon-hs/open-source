@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`electron` `electron-app` `knowledge-base` `knowledge-graph` `knowledge-management` `knowledge-management-graph` `local-first` `note-managment` `note-taker` `note-taking` `notebook` `notes`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Trilium is an open-source, personal knowledge base application that helps users organize and manage their notes, ideas, and projects in a structured and accessible way. This frontend-based tool allows users to create a customizable knowledge graph, making it easier to connect and visualize the relationships between their notes and ideas. With Trilium, users can build a robust and personalized knowledge base that facilitates learning, creativity, and productivity.
+Trilium is an open-source, personal knowledge base builder that empowers users to organize and store their notes in a structured and accessible way. This free and customizable tool allows users to create a comprehensive library of knowledge, making it easier to manage and reference information. With Trilium, users can create a personalized knowledge base that grows with them.
 
 ---
 

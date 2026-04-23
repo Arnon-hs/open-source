@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 22.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agents` `ai` `ai-agents` `anthropic` `chatgpt` `deepagents` `enterprise` `framework` `gemini` `generative-ai` `langchain` `langgraph`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Langchain is an open-source platform for agent engineering, enabling developers to build, test, and deploy AI agents that can perform complex tasks. This platform provides a suite of tools and libraries to help create, train, and integrate AI models, facilitating the development of more sophisticated and autonomous agents. By streamlining the AI development process, Langchain aims to accelerate innovation and growth in the field of artificial intelligence.
+The Langchain project is an open-source agent engineering platform that allows developers to create, train, and deploy intelligent agents that can perform a wide range of tasks. By providing a comprehensive set of tools and APIs, Langchain enables users to build custom AI models that can interact with various data sources and applications. This platform aims to accelerate the development of advanced AI applications by simplifying the process of agent engineering and deployment.
 
 ---
 

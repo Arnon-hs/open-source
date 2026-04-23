@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`deck-tracker` `hearthstone` `hearthstone-deck-tracker` `hsreplay` `swift`
+_no topics_
 
 ## 🎯 Categories
 

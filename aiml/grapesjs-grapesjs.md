@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`drag-and-drop` `framework` `no-code` `nocode` `page-builder` `site-builder` `site-generator` `template-builder` `ui-builder` `web-builder` `web-builder-framework` `website-builder`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-GrapesJS is a free and open-source web builder framework that allows users to create templates without coding. As a next-generation tool, it empowers developers and non-technical users to build web pages and applications with ease. This AI-driven framework combines simplicity with a high degree of customization, making it an ideal choice for building web templates quickly and efficiently.
+GrapesJS is a free, open-source web builder framework that enables users to build templates without requiring extensive coding knowledge. This next-generation tool empowers developers and non-technical users alike to create web pages, applications, and layouts with ease and flexibility. With its powerful functionality, GrapesJS streamlines the development process and fosters innovation in web design and development.
 
 ---
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 196 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-agent` `automation` `crawler` `headless-chrome` `rust` `scraping` `spider` `web-crawler` `web-scraping`
+_no topics_
 
 ## 🎯 Categories
 

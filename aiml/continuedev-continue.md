@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agent` `ai` `cli` `developer-tools` `jetbrains-plugin` `llm` `open-source` `vs-code-extenstion`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The continue project provides an open-source solution for managing and enforcing AI checks through source control, making it easy to integrate into Continuous Integration (CI) pipelines. This is achieved through the Continue CLI, a powerful tool that enables developers to streamline AI testing and validation. By leveraging this project, developers can ensure their AI models meet quality standards and adhere to best practices.
+The Continue project is an open-source initiative that allows developers to implement source-controlled AI checks, making it possible to enforce AI-related decisions in continuous integration (CI) pipelines. This is achieved through the Continue CLI, a powerful tool that provides a straightforward way to integrate AI-powered checks into development workflows. By leveraging this technology, developers can ensure consistency, quality, and reliability in their codebase.
 
 ---
 

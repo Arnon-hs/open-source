@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agents` `ai` `ai-agent-framework` `ai-agent-sdk` `ai-agents` `ai-agents-framework` `ai-agents-sdk` `ai-framwork` `aiagent` `aiagentframework` `aiagents` `aiagentsframework`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-PraisonAI is an open-source project that enables developers to deploy a 24/7 AI workforce with minimal code, allowing for autonomous research, planning, coding, and task execution. This AI solution features built-in memory, Retrieval-Augmented Generation (RAG) capabilities, and support for over 100 Large Language Models (LLMs). With PraisonAI, teams can automate repetitive tasks and focus on high-value contributions.
+PraisonAI is an open-source tool that enables developers to create autonomous AI agents capable of researching, planning, coding, and executing tasks. By leveraging a 24/7 AI workforce, users can deploy their projects with just a few lines of code and access a range of built-in features, including memory and support for over 100 large language models. This technology aims to streamline development and accelerate shipping times for complex projects.
 
 ---
 

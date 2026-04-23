@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`automation` `cfgmgt` `chef` `deployment` `devops` `hacktoberfest` `infrastructure`
+_no topics_
 
 ## 🎯 Categories
 

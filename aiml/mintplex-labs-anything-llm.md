@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6.4k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-agents` `custom-ai-agents` `deepseek` `kimi` `llama3` `llm` `lmstudio` `local-llm` `localai` `mcp` `mcp-servers` `moonshot`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,9 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-anything-llm is an all-in-one AI productivity accelerator that prioritizes on-device and privacy-first functionality, eliminating the need for complex setup or configuration. This innovative project empowers users to harness the power of AI without compromising their data security. By providing a seamless experience, anything-llm accelerates productivity and fosters creativity in a secure and intuitive environment.
+The anything-llm project is an open-source, all-in-one AI productivity accelerator designed to be used on-device for maximum privacy. This innovative tool eliminates the need for setup or configuration, providing a seamless experience for users. It combines AI and machine learning capabilities in a user-friendly package, making it a powerful tool for productivity and efficiency.
 
 ---
 

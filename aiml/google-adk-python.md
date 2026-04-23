@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agent` `agentic` `agentic-ai` `agents` `agents-sdk` `ai` `ai-agents` `aiagentframework` `genai` `genai-chatbot` `llm` `llms`
+_no topics_
 
 ## 🎯 Categories
 

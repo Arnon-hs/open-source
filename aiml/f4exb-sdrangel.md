@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 544 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`airspy` `airspyhf` `bladerf` `d-star` `dmr` `dpmr` `funcube` `funcube-dongle` `hackrf` `limesdr` `plutosdr` `receiver`
+_no topics_
 
 ## 🎯 Categories
 

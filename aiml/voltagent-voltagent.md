@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 840 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agents` `ai` `ai-agents` `ai-agents-framework` `aiagentframework` `chatbots` `chatgpt` `framework` `javascript` `llm` `llm-observability` `mcp`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-VoltAgent is an open-source AI Agent Engineering Platform built on a TypeScript framework, providing a robust foundation for developing and deploying artificial intelligence (AI) agents. This platform empowers developers to create, integrate, and customize AI solutions, streamlining the process of AI agent engineering. By leveraging VoltAgent, users can unlock the full potential of AI and machine learning (ML) in a wide range of applications.
+VoltAgent is an open-source AI Agent Engineering Platform built on a TypeScript AI Agent Framework, enabling developers to create and deploy sophisticated AI agents. This platform provides a flexible and modular environment for designing, training, and integrating AI models into various applications. With VoltAgent, users can leverage the power of AI to build more intelligent and interactive systems.
 
 ---
 

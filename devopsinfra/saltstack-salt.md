@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cloud` `cloud-management` `cloud-providers` `cloud-provisioning` `configuration-management` `edge` `event-management` `event-stream` `infrastructure` `infrastructure-as-a-code` `infrastructure-as-code` `infrastructure-automation`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-saltstack/salt is a promising open-source project. Categories: DevOps/Infra. Interest score: 100/100.
+Salt is an open‑source automation platform that enables you to define, deploy, and manage infrastructure and application configurations at massive scale. It provides a flexible, agent‑less (or agent‑based) architecture, powerful remote execution, and a declarative state system for ensuring consistent environments across clouds, containers, and bare‑metal servers. Ideal for DevOps teams, Salt streamlines provisioning, orchestration, and ongoing configuration compliance.
 
 ---
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-agents` `claude-code` `codex-cli` `context-engineering` `github-copilot` `package-manager` `prompt-engineering`
+_no topics_
 
 ## 🎯 Categories
 

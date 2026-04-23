@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.4k |
 | 💻 **Language** | Mustache |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`charts` `helm` `helm-charts` `kubernetes` `prometheus`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`anthropic` `artificial-intelligence` `gemini` `generative-ai` `generative-ui` `javascript` `language-model` `llm` `nextjs` `openai` `react` `svelte`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-The Vercel AI Toolkit is an open-source library for TypeScript that enables developers to build AI-powered applications and agents. Created by the team behind Next.js, this free SDK provides a powerful toolset for integrating AI capabilities into frontend projects. With Vercel AI, developers can unlock new possibilities for building intelligent, data-driven applications.
+The Vercel AI project is an open-source library that enables developers to build AI-powered applications and agents using TypeScript. Created by the team behind Next.js, this toolkit provides a free and accessible solution for integrating AI capabilities into frontend projects. With the Vercel AI SDK, developers can unlock the potential of artificial intelligence in their applications.
 
 ---
 

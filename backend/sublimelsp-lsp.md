@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`language-client` `language-server-protocol` `lsp` `sublime-text`
+_no topics_
 
 ## 🎯 Categories
 

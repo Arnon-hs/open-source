@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 738 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`api-gateway` `api-management` `cloud-native` `envoy` `envoy-proxy` `grpc` `hybrid-apps` `kubernetes` `kubernetes-ingress-controller` `legacy-apps` `microservices` `serverless`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 176 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`hacktoberfest` `pocket-casts`
+_no topics_
 
 ## 🎯 Categories
 

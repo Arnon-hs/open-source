@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 16k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude` `claude-code` `clawdbot` `codex` `hermes` `hermes-agent` `llm`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Hermes-agent is an open-source project that offers a dynamic and adaptable AI/ML agent capable of evolving and improving over time. This flexible agent can be integrated with various systems, allowing it to learn and grow alongside its user or application. By leveraging its modular design, developers can customize and extend the agent to suit their specific needs and goals.
+Here's a brief summary for the NousResearch/hermes-agent project:
+
+Hermes-agent is an open-source, AI-driven platform designed to adapt and evolve with its users over time. By leveraging machine learning and artificial intelligence, this agent aims to provide a dynamic and personalized experience that learns and improves its responses to individual needs and preferences. With its extensible architecture, Hermes-agent offers a flexible foundation for integrating various AI and ML capabilities.
 
 ---
 

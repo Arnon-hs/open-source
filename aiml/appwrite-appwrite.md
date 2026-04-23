@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`android` `appwrite` `backend` `backend-as-a-service` `docker` `firebase` `flutter` `hosting` `ios` `javascript` `nextjs` `react`
+_no topics_
 
 ## 🎯 Categories
 

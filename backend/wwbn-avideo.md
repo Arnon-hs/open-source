@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`avideo` `avideo-platform` `encoder` `free` `free-software` `media` `media-player` `media-server` `mediamanager` `open-source` `opensource` `social-features`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The WWBN/AVideo project is an open-source platform designed to empower users in creating their own broadcast networks. This project, also known as the AVideo Platform Open-Source (OAVP or OVP), allows individuals to build and manage their own video broadcasting systems. With a focus on backend development, WWBN/AVideo aims to provide a flexible and customizable solution for video streaming and broadcasting needs.
+AVideo Platform is an open-source project that allows users to create their own broadcast networks. It functions as an Online Video Platform (OVP) and provides the backend infrastructure for managing and distributing video content.
 
 ---
 

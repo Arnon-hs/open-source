@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`hacktoberfest` `laravel` `librenms` `monitoring` `network` `php` `rrd` `snmp`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `ai-agents` `ai-memory` `anthropic` `artificial-intelligence` `chromadb` `claude` `claude-agent-sdk` `claude-agents` `claude-code` `claude-code-plugin` `claude-skills`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Claude-Mem is an open-source plugin that enhances the Claude coding assistant by capturing and compressing session data using AI. This feature allows for the injection of relevant context into future sessions, improving the assistant's effectiveness and personalization. By leveraging Claude's agent-sdk, Claude-Mem optimizes the coding experience with a more intuitive and informed assistant.
+Claude-Mem is an open-source plugin that revolutionizes coding sessions by capturing, compressing, and contextualizing the activities of Claude, an AI coding assistant. Utilizing Claude's agent-sdk, this plugin leverages AI to optimize the learning process by injecting relevant context from past sessions into new ones, enhancing productivity and efficiency. By automating the recording and analysis of Claude's interactions, Claude-Mem empowers developers to unlock their full potential.
 
 ---
 

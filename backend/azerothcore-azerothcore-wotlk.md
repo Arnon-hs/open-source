@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`azerothcore` `emulator` `game` `game-server` `gaming` `hacktoberfest` `mangos` `mmorpg` `mmorpg-game` `mmorpg-server` `modular` `scriptdev2`
+_no topics_
 
 ## 🎯 Categories
 

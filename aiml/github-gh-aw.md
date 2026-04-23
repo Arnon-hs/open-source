@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 359 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`actions` `cai` `ci` `claude-code` `codex` `copilot` `gh-extension` `github-actions`
+_no topics_
 
 ## 🎯 Categories
 

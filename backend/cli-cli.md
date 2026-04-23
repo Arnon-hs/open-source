@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8.3k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cli` `git` `github-api-v4` `golang`
+_no topics_
 
 ## 🎯 Categories
 

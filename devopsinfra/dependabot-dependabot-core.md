@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`dependencies` `docker` `dotnet` `elixir` `elm` `go` `java` `javascript` `php` `pnpm` `python` `ruby`
+_no topics_
 
 ## 🎯 Categories
 

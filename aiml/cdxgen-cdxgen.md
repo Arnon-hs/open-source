@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`bom` `cbom` `containers` `cyclonedx` `docker` `oci` `owasp` `package-url` `purl` `saasbom` `sbom` `sca`
+_no topics_
 
 ## 🎯 Categories
 

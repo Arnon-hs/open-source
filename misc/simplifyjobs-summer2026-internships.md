@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`internships` `interview-preparation` `jobs` `university`
+_no topics_
 
 ## 🎯 Categories
 

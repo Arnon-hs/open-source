@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`continuous-localization` `crowdsourcing` `dcode-2025` `django` `gettext` `hacktoberfest` `i18n` `internationalization` `l10n` `localization` `python` `translation`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-WeblateOrg/weblate is a promising open-source project. Categories: Misc. Interest score: 100/100.
+Weblate is an open‑source, web‑based translation platform that streamlines software localization by integrating tightly with version‑control systems such as Git, Mercurial, and Subversion. It provides a collaborative interface for translators, automatic suggestions, quality checks, and continuous synchronization with the source code repository, enabling developers to manage translations directly within their development workflow.
 
 ---
 

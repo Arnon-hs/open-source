@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agents` `ai` `chatbots` `evals` `javascript` `llm` `mcp` `nextjs` `nodejs` `reactjs` `tts` `typescript`
+_no topics_
 
 ## 🎯 Categories
 

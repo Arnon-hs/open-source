@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`automerge` `collaboration` `collaborative-editing` `crdt` `local-first` `peer-to-peer` `plugin` `synchronization`
+_no topics_
 
 ## 🎯 Categories
 

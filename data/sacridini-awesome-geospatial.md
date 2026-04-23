@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 711 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`awesome` `awesome-list` `data-analysis` `deep-learning` `earth-observation` `geoprocessing` `geospatial` `geospatial-analysis` `geotools` `gis` `machine-learning` `map`
+_no topics_
 
 ## 🎯 Categories
 

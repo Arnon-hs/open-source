@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 208 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`academic-diagrams` `academic-research` `agentic-ai` `arxiv` `diagram-generation` `gemini` `google-gemini` `llm` `llms` `mcp` `mcp-server` `multiagent`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 724 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cpp` `hacktoberfest` `image-analysis` `insight-toolkit` `itk` `medical-imaging` `numfocus` `open-science` `open-source` `python` `reproducible-research` `scientific-computing`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The Insight Toolkit (ITK) is an open-source software project that provides a powerful and flexible framework for processing and analyzing 2D, 3D, and multi-dimensional scientific images. With its spatially-oriented architecture, ITK enables users to perform a wide range of image processing tasks, including segmentation and registration. This toolkit is widely used in various fields, including medical imaging, computer vision, and materials science.
+The Insight Toolkit (ITK) is an open-source software library that enables the processing, segmentation, and registration of scientific images in 2D, 3D, or higher dimensions. This library provides a robust, spatially-oriented architecture for image analysis tasks, making it a valuable resource for researchers and developers in various fields. With its extensive range of algorithms and tools, ITK facilitates the development of medical imaging, scientific visualization, and computational anatomy applications.
 
 ---
 

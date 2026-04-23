@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `ai-agents` `ai-code-review` `ai-coding-tools` `code-review` `coding-assistant` `generative-ai` `hacktoberfest`
+_no topics_
 
 ## 🎯 Categories
 

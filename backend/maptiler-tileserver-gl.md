@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 703 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`docker` `gl-styles` `mapbox-gl-js` `maplibre-gl-js` `openmaptiles` `raster-map` `tileserver` `tileserver-gl` `vector-tiles` `wmts`
+_no topics_
 
 ## 🎯 Categories
 

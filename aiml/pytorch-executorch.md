@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.5k |
-| 🍴 **Forks** | 951 |
+| 🍴 **Forks** | 952 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`deep-learning` `embedded` `gpu` `machine-learning` `mobile` `neural-network` `tensor`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 17.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`analytics` `apache` `apache-superset` `asf` `bi` `business-analytics` `business-intelligence` `data-analysis` `data-analytics` `data-engineering` `data-science` `data-visualization`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Frontend · Data
 
 ## 📝 Summary
 
-apache/superset is a promising open-source project. Categories: Frontend, Data. Interest score: 100/100.
+Apache Superset is an open‑source business intelligence platform that enables users to create, explore, and share interactive data visualizations and dashboards. It provides a rich, web‑based UI for querying a wide variety of databases, building charts, and performing ad‑hoc data exploration without writing code. The project combines a modern frontend with a robust backend, making it a flexible tool for data analysts and engineers alike.
 
 ---
 

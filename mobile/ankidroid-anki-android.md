@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`android` `anki` `ankidroid` `education` `flashcards` `kotlin` `learning` `srs`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-AnkiDroid is an open-source application that allows users to access Anki flashcards on their Android devices, providing a convenient and portable way to study and retain information. The app leverages the power of spaced repetition to optimize learning, helping users achieve superhuman information retention. By syncing with the desktop version of Anki, users can access their comprehensive flashcard libraries across multiple platforms.
+AnkiDroid is an open-source, Android-based flashcard application that utilizes the popular Anki learning system to help users retain information more effectively. By leveraging spaced repetition and other advanced learning techniques, AnkiDroid enables users to achieve superhuman information retention and improve their knowledge in various subjects. With AnkiDroid, users can create and manage their digital flashcards on-the-go, making learning more accessible and efficient.
 
 ---
 

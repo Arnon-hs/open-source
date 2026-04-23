@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`apacheflink` `apachehudi` `apachespark` `bigdata` `data-integration` `datalake` `hudi` `incremental-processing` `stream-processing`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Apache Hudi is an open-source, incremental processing engine for big data that enables efficient upserts, deletes, and incremental data processing. It allows for high-speed data ingestion and updates, making it an ideal solution for large-scale data warehousing and data integration use cases. With Apache Hudi, users can leverage incremental processing to minimize data duplication and reduce storage costs.
+The Apache Hudi project enables efficient and scalable data management for big data workloads by providing high-performance capabilities for upserts, deletes, and incremental data processing. It achieves this through the use of a log-based storage layout and advanced features for data ingestion and querying. By leveraging Hudi, users can simplify their data pipelines and improve the overall performance of their big data applications.
 
 ---
 

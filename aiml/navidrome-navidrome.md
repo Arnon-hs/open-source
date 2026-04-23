@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`airsonic` `madsonic` `media-server` `music` `music-server` `navidrome` `opensubsonic` `raspberry-pi` `self-hosted` `streamer` `streaming-api` `streaming-audio`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,9 +25,7 @@ AI/ML · Backend · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary for the navidrome project:
-
-Navidrome is an open-source, personal streaming service that allows users to manage and stream their music collections. This platform offers a user-friendly interface for organizing, searching, and playing music, providing a seamless listening experience. With its open-source nature, users can customize and extend the service to meet their specific needs.
+Navidrome is an open-source, personal streaming service that allows users to host and manage their own music library. This self-hosted platform provides a seamless and customizable listening experience, free from the constraints of commercial music services. With its flexible and modular design, Navidrome empowers users to take control of their music and create a tailored listening experience.
 
 ---
 

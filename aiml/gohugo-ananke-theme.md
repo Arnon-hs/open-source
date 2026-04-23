@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`hugo` `hugo-blog` `hugo-blog-theme` `hugo-boilerpla` `hugo-module` `hugo-site` `hugo-starter` `hugo-theme` `hugo-theme-component` `tachyons` `theme`
+_no topics_
 
 ## 🎯 Categories
 

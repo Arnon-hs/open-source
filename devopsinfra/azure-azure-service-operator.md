@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 240 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`azure` `kubernetes` `kubernetes-operators` `operators` `service`
+_no topics_
 
 ## 🎯 Categories
 

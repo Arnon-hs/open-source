@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `ai-agents` `ai-memory` `cognitive-architecture` `cognitive-memory` `context-engineering` `contributions-welcome` `good-first-issue` `good-first-pr` `graph-database` `graph-rag` `graphrag`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The Cognee project is an open-source, knowledge engine designed to facilitate AI agent memory management. Built with a minimalist approach, Cognee enables AI developers to create sophisticated memory models using just 6 lines of code. This innovative tool aims to simplify the integration of knowledge management into AI applications.
+The cognee project is an open-source knowledge engine designed to enable AI agents to efficiently store and retrieve information. This lightweight solution is implemented in a mere 6 lines of code, making it an attractive option for those seeking a streamlined memory management system for their AI applications. By leveraging cognee, developers can create more intelligent and responsive AI agents with ease.
 
 ---
 

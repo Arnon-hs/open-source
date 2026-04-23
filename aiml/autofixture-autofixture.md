@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 357 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`assertion-library` `assertions` `auto-mocking` `autofixture` `csharp` `dotnet` `fakeiteasy` `foq` `fscheck` `fsharp` `moq` `nsubstitute`
+_no topics_
 
 ## 🎯 Categories
 

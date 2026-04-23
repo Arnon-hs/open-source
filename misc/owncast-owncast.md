@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`activitypub` `broadcasting` `chat` `decentralized` `federation` `fediverse` `golang` `hacktoberfest` `hls` `live` `livestream` `owncast`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-OwnCast is an open-source project that enables users to take control of their live stream video by hosting it on their own servers. This platform combines live streaming with chat functionality, providing a seamless and integrated experience for content creators and their audiences. By running OwnCast, users can customize their streaming setup and maintain full control over their content.
+OwnCast is an open-source live streaming solution that empowers users to manage their video streams independently. It offers a comprehensive platform that includes live streaming and chat functionality right out of the box. With OwnCast, users can have full control over their live streams, eliminating the need for third-party services.
 
 ---
 

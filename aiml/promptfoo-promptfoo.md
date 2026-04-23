@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ci` `ci-cd` `cicd` `evaluation` `evaluation-framework` `llm` `llm-eval` `llm-evaluation` `llm-evaluation-framework` `llmops` `pentesting` `prompt-engineering`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,9 +25,9 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the promptfoo/promptfoo open-source project:
+Here's a brief summary of the promptfoo project:
 
-Promptfoo is an open-source tool designed for testing and evaluating AI models, agents, and Retrieval-Augmented Generative (RAG) systems. It allows users to compare the performance of various AI models, including GPT, Claude, Gemini, and Llama, and provides a platform for red teaming, pentesting, and vulnerability scanning for AI systems. Used by prominent AI organizations such as OpenAI and Anthropic, promptfoo offers simple declarative configurations and CI/CD integration for seamless testing and evaluation.
+Promptfoo is an open-source project designed to test and evaluate the performance of AI agents, RAGs (Retrieval-Augmented Generative models), and other AI models. It allows users to compare the capabilities of various models, including GPT, Claude, Gemini, and Llama, through simple declarative configurations. Used by prominent AI companies like OpenAI and Anthropic, promptfoo facilitates red teaming, pentesting, and vulnerability scanning for AI systems.
 
 ---
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`courses-management-system` `education` `frappe` `hacktoberfest` `javascript` `learning` `learning-management-system` `lms` `online-course-platform` `online-learning` `open-source` `python`
+_no topics_
 
 ## 🎯 Categories
 

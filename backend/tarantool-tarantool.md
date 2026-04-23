@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 404 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`appserver` `database` `disk` `in-memory` `lua` `msgpack` `tarantool` `transactions`
+_no topics_
 
 ## 🎯 Categories
 

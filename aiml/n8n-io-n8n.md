@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 57k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `apis` `automation` `cli` `data-flow` `development` `integration-framework` `integrations` `ipaas` `low-code` `low-code-platform` `mcp`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the n8n project:
+Here is a 2-3 sentence summary for the n8n project:
 
-n8n is an open-source workflow automation platform that combines the power of visual building with custom code, enabling users to automate tasks efficiently. With native AI capabilities and 400+ integrations, n8n allows users to self-host or deploy their workflows on the cloud. This versatile platform empowers developers and non-coders alike to streamline processes and unlock productivity.
+n8n is an open-source workflow automation platform that empowers users to create custom workflows with native AI capabilities. This versatile tool allows users to combine visual building blocks with custom code, providing unparalleled flexibility and control. With over 400 integrations and the option to self-host or deploy in the cloud, n8n offers a scalable solution for automation needs.
 
 ---
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`big-data` `caching` `data-in-motion` `data-insights` `distributed` `distributed-computing` `distributed-systems` `hacktoberfest` `hazelcast` `in-memory` `java` `low-latency`
+_no topics_
 
 ## 🎯 Categories
 

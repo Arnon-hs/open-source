@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 333 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cv` `deep-learning` `jax` `keras` `llm` `machine-learning` `natural-language-processing` `nlp` `python` `pytorch` `tensorflow`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.6k |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`closed-loop` `diabetes` `opensource` `t1d`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,9 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the nightscout/AndroidAPS project:
-
-AndroidAPS is an open-source, automated insulin delivery system that enables individuals with diabetes to manage their condition more effectively. This closed-loop system uses data from a continuous glucose monitor and insulin pump to automatically regulate insulin dosing, promoting stable blood sugar levels. Developed as an open-source mobile project, AndroidAPS empowers users to take control of their diabetes care and make adjustments to the system as needed.
+nightscout/AndroidAPS is a promising open-source project. Categories: Mobile. Interest score: 67/100.
 
 ---
 

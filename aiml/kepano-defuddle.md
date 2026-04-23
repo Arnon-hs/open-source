@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 284 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cli` `defuddle` `html` `markdown` `md`
+_no topics_
 
 ## 🎯 Categories
 

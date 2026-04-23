@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 490 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`opencolorio`
+_no topics_
 
 ## 🎯 Categories
 

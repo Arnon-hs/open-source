@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 167 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `deepseek` `free` `free-ai` `freeai` `gpt` `gptoss` `kimi` `nim` `nvidia` `nvidia-nim` `nvidia-nim-api`
+_no topics_
 
 ## 🎯 Categories
 

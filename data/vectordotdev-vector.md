@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agent` `cloud-native` `data-transformation` `datadog` `etl` `events` `forwarder` `hacktoberfest` `high-performance` `logs` `metrics` `monitoring`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The vectordotdev/vector project is an open-source, high-performance observability data pipeline that enables efficient data collection, processing, and analysis. It provides a scalable and flexible framework for handling large volumes of observability data, making it suitable for use in complex distributed systems and cloud-native applications. By leveraging vector-based processing, vector optimizes data pipelines for speed and efficiency.
+The 'vector' project is an open-source, high-performance observability data pipeline designed to efficiently manage and process large volumes of data. It enables the collection, processing, and analysis of critical system metrics, logs, and other observability data, making it an essential tool for organizations seeking to monitor and optimize their infrastructure. By leveraging its scalability and customization capabilities, developers can build tailored data pipelines that meet the specific needs of their applications and systems.
 
 ---
 

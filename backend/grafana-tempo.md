@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 694 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`distributed-tracing` `grafana`
+_no topics_
 
 ## 🎯 Categories
 

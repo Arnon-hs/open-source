@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`bayesian-networks` `causal-discovery` `causal-effect` `causal-identification` `causal-inference` `causal-models` `causal-prediction` `causal-validation` `graphical-models` `hacktoberfest` `mixed-data` `probabilistic-inference`
+_no topics_
 
 ## 🎯 Categories
 

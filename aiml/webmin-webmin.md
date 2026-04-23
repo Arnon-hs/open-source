@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 751 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics

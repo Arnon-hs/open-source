@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 766 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cloud-native` `cpp` `database` `dbms` `distributed` `distributed-database` `distributed-sql` `distributed-sql-database` `sql`
+_no topics_
 
 ## 🎯 Categories
 

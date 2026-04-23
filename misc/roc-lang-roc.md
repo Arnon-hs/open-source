@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 375 |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`functional-language` `functional-programming` `language` `roc-lang`
+_no topics_
 
 ## 🎯 Categories
 

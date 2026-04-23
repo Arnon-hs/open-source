@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`egg` `eggjs` `enterprise` `framework` `koa` `koa-middleware` `koa2` `node-framework` `nodejs`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Egg is an open-source enterprise framework designed for building scalable and reliable applications with Node.js and the Koa framework. It aims to streamline the development process and provide a robust foundation for complex projects. With its modular architecture and extensive ecosystem, Egg enables developers to create high-performance applications.
+Egg is an open-source, Node.js framework designed for building scalable and maintainable enterprise applications with Koa. It provides a robust foundation for developers to create complex and efficient systems, leveraging the strengths of Koa and Node.js. With Egg, developers can build high-performance, real-world applications.
 
 ---
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 773 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`accounting` `business` `crm` `docker-image` `erp` `hacktoberfest` `java` `javascript` `management` `manufacturing` `metasfresh` `postgresql`
+_no topics_
 
 ## 🎯 Categories
 

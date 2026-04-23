@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Dynamo is an open-source, datacenter-scale distributed inference serving framework designed to efficiently manage and deploy machine learning models. It provides a scalable platform for serving predictions, enabling high-performance, low-latency, and cost-effective model deployment. By harnessing the power of distributed computing, Dynamo facilitates the rapid deployment and management of AI workloads at massive scale.
+AI-Dynamo/Dynamo is a cutting-edge, datacenter-scale distributed inference serving framework. It is designed to efficiently handle high-throughput machine learning model deployments across large infrastructures.
 
 ---
 

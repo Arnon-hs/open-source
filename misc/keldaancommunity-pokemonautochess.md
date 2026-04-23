@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 526 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`autochess` `pokemon` `pokemon-auto-chess`
+_no topics_
 
 ## 🎯 Categories
 

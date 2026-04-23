@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 512 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`maplibre` `maps` `vector-tiles`
+_no topics_
 
 ## 🎯 Categories
 

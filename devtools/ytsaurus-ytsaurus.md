@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 202 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`big-data` `clickhouse` `distributed-database` `lakehouse` `olap-database` `spark` `sql` `ytsaurus`
+_no topics_
 
 ## 🎯 Categories
 

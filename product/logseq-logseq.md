@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Clojure |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`clojure` `clojurescript` `git` `graph` `knowledge-base` `knowledge-graph` `local-first` `markdown` `note-taking` `org-mode` `pkm`
+_no topics_
 
 ## 🎯 Categories
 

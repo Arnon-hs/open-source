@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 612 |
 | 💻 **Language** | Go Template |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`apps` `charts` `hacktoberfest` `helm` `k3s` `k8s` `k8s-at-home` `kubesearch`
+_no topics_
 
 ## 🎯 Categories
 

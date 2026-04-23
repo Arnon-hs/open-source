@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | C |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`crypto` `qemu` `security` `swtpm` `tpm` `tpm2` `vtpm`
+_no topics_
 
 ## 🎯 Categories
 

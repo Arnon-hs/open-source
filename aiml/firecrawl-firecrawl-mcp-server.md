@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 686 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`batch-processing` `claude` `content-extraction` `data-collection` `firecrawl` `firecrawl-ai` `javascript-rendering` `llm-tools` `mcp` `mcp-server` `model-context-protocol` `search-api`
+_no topics_
 
 ## 🎯 Categories
 

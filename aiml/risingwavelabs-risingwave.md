@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 756 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`apache-iceberg` `data-engineering` `database` `etl-pipeline` `event-streaming` `kafka` `materialized-view` `postgresql` `rust` `stream-processing` `webhook`
+_no topics_
 
 ## 🎯 Categories
 

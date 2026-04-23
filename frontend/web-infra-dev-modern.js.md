@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 409 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`boilerplate` `build-tool` `framework` `react` `rspack` `ssr` `web` `webpack` `website`
+_no topics_
 
 ## 🎯 Categories
 

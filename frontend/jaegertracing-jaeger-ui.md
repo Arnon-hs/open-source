@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 696 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`apm` `distributed-tracing` `hacktoberfest` `jaeger` `javascript` `monitoring` `opentracing` `react` `reactjs` `site-reliability-engineering` `sre` `trace`
+_no topics_
 
 ## 🎯 Categories
 

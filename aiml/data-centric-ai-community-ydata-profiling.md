@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`big-data-analytics` `data-analysis` `data-exploration` `data-profiling` `data-quality` `data-science` `deep-learning` `eda` `exploration` `exploratory-data-analysis` `hacktoberfest` `html-report`
+_no topics_
 
 ## 🎯 Categories
 

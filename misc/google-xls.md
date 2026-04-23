@@ -1,6 +1,6 @@
 # google/xls
 
-[![Stars](https://img.shields.io/github/stars/google/xls?style=flat-square&color=yellow)](https://github.com/google/xls/stargazers) [![Forks](https://img.shields.io/github/forks/google/xls?style=flat-square&color=blue)](https://github.com/google/xls/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/xls?style=flat-square&color=yellow)](https://github.com/google/xls/stargazers) [![Forks](https://img.shields.io/github/forks/google/xls?style=flat-square&color=blue)](https://github.com/google/xls/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > XLS: Accelerated HW Synthesis
 
@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 227 |
+| 🍴 **Forks** | 228 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`compiler` `high-level-synthesis` `hls` `mid-level-synthesis` `open-source` `pipeline` `verilog`
+_no topics_
 
 ## 🎯 Categories
 

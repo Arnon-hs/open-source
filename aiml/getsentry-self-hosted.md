@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`docker` `docker-compose` `fair-source` `hacktoberfest` `on-premise` `self-hosted` `sentry` `tag-production`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,9 @@ AI/ML · DevOps/Infra · Product
 
 ## 📝 Summary
 
-Sentry is a feature-complete open-source project that enables low-volume deployments and proof-of-concept environments. This self-hosted version of Sentry allows developers to experience the full range of features offered by the platform without the need for a cloud-hosted solution. It provides a scalable and customizable environment for managing errors and performance issues within applications.
+Here's a brief summary of the getsentry/self-hosted project:
+
+Sentry is a self-hosted, feature-complete deployment of the popular error tracking and monitoring platform, ideal for low-volume projects and proof-of-concept environments. This open-source package enables users to quickly and easily set up a Sentry instance for testing and development needs. With Sentry, users can track and monitor errors, crashes, and performance issues in their applications.
 
 ---
 

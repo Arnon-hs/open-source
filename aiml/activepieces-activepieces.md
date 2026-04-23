@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-agent` `ai-agent-tools` `ai-agents` `ai-agents-framework` `mcp` `mcp-server` `mcp-tools` `mcps` `n8n-alternative` `no-code-automation` `workflow` `workflow-automation`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Activepieces is an open-source project that provides a platform for AI agents and Machine Control Programs (MCPs) to automate workflows. It leverages a network of over 400 MCP servers to enable seamless AI automation and agent interactions. With Activepieces, users can create and manage AI workflows, integrating MCPs to streamline complex tasks and improve efficiency.
+Here's a brief summary of the activepieces/activepieces project:
+
+Activepieces is an open-source platform that enables AI workflow automation through the use of AI agents and Micro-Controller-Programs (MCPs). With a scalable architecture that supports over 400 MCP servers, it provides a robust infrastructure for automating AI tasks and workflows. This platform empowers developers to create and manage complex AI-powered systems with ease.
 
 ---
 

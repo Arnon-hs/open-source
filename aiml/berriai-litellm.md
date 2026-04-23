@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 7.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-gateway` `anthropic` `azure-openai` `bedrock` `gateway` `langchain` `litellm` `llm` `llm-gateway` `llmops` `mcp-gateway` `openai`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the open-source project:
-
-litellm is an open-source Python SDK and AI Gateway that provides a unified interface to access over 100 large language model (LLM) APIs from various platforms, including OpenAI, Azure, and HuggingFace. This project offers features such as cost tracking, guardrails, load balancing, and logging to streamline AI development and deployment. By leveraging litellm, developers can easily integrate and manage LLM APIs across different services.
+The litellm project is an open-source Python SDK and AI Gateway, designed to simplify interactions with over 100 Large Language Model (LLM) APIs from various providers. It offers features like cost tracking, guardrails, load balancing, and logging, allowing developers to efficiently manage complex AI workflows. By providing a unified interface, litellm facilitates the integration of multiple LLM APIs into a single application.
 
 ---
 

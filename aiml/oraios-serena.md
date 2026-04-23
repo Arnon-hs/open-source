@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agent` `ai` `ai-coding` `claude` `claude-code` `codex` `ide` `jetbrains` `language-server` `mcp-server` `programming` `vibe-coding`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML · Backend · Mobile
 
 ## 📝 Summary
 
-Serena is an open-source, powerful MCP (Multi-Context Processing) toolkit designed to enhance coding capabilities. It offers semantic retrieval and editing features, effectively serving as an integrated development environment (IDE) for agents. By leveraging AI/ML and backend technologies, Serena provides a robust platform for mobile development and intelligent system automation.
+Serena is an open-source, powerful MCP (Multi-Concept Platform) toolkit designed to aid in coding and provide enhanced semantic retrieval and editing capabilities. This comprehensive platform serves as a robust Integrated Development Environment (IDE) for developing and refining intelligent agents. Its features cater to a wide range of applications, including AI/ML, backend, and mobile development.
 
 ---
 

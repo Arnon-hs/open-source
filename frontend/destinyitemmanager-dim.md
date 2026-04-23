@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 644 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`bungie` `destiny` `react` `typescript`
+_no topics_
 
 ## 🎯 Categories
 

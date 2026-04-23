@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`commerce` `e-commerce` `ecommerce` `framework` `javascript` `medusa` `nodejs` `react` `typescript`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Medusa is an open-source, flexible commerce platform that enables businesses to create custom, scalable e-commerce solutions. Built with a modern architecture, it provides a robust foundation for integrating various payment gateways, shipping providers, and other services. This comprehensive platform empowers developers to tailor their e-commerce experiences with ease.
+Medusa is an open-source commerce platform designed to be highly flexible, empowering developers to build and customize e-commerce solutions that fit their unique needs. With its modular architecture, Medusa allows for seamless integration with various payment gateways, shipping providers, and marketplaces, making it an ideal choice for a wide range of commerce applications. Its open-source nature fosters community-driven innovation and collaboration.
 
 ---
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-app-builder` `anthropic` `artificial-intelligence` `bolt` `deepseek` `gemini` `generative-ai` `github` `llm` `llms` `lovable` `nextjs`
+_no topics_
 
 ## 🎯 Categories
 
@@ -27,7 +27,7 @@ AI/ML · Frontend
 
 Here's a brief summary for the dyad-sh/dyad project:
 
-dyad is an open-source, local AI app builder designed for power users. This project offers an alternative to popular AI development platforms, providing users with a flexible and customizable environment to create their own AI applications. By leveraging dyad's capabilities, users can build and deploy AI-powered apps without relying on cloud-based services.
+dyad is an open-source, locally-based AI app builder designed for power users, offering an alternative to popular platforms like v0, Lovable, and Bolt. This project enables users to create their own AI-powered applications without relying on cloud-based services. With its focus on frontend development, dyad provides a flexible and locally-controlled environment for AI app creation.
 
 ---
 

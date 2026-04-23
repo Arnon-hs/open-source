@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 412 |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cloud` `devsecops` `elixir` `elixir-lang` `firewall` `liveview` `network` `network-security` `networking` `phoenix` `privacy` `rust-lang`
+_no topics_
 
 ## 🎯 Categories
 

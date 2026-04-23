@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`artificial-intelligence` `cloud-ml` `computer-systems` `courseware` `deep-learning` `edge-machine-learning` `embedded-ml` `machine-learning` `machine-learning-systems` `mobile-ml` `textbook` `tinyml`
+_no topics_
 
 ## 🎯 Categories
 

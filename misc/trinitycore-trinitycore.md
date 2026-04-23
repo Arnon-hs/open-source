@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6.3k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`hacktoberfest` `linux` `mmorpg` `multi-platform` `multiplayer` `trinitycore` `wow`
+_no topics_
 
 ## 🎯 Categories
 

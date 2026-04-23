@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`docker` `hacktoberfest` `java` `pdf` `pdf-converter` `pdf-editor` `pdf-manipulation` `pdf-merger` `pdf-ocr` `pdf-tools` `pdf-web-apps` `pdfmerger`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Stirling-PDF is an open-source, user-friendly PDF editor that enables users to edit and manipulate PDF files from any device, anywhere. This versatile tool caters to the DevOps and infrastructure community, providing a powerful and accessible solution for managing and modifying PDF content. With its GitHub presence, Stirling-PDF has become the #1 PDF application on the platform.
+Stirling-PDF is a cutting-edge, open-source PDF application that enables users to edit PDFs on any device, anywhere. This highly accessible tool is hosted on GitHub and has gained popularity as the #1 PDF application on the platform. With its user-friendly interface and cross-device compatibility, Stirling-PDF streamlines PDF editing and management.
 
 ---
 

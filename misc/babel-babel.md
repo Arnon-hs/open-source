@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ast` `babel` `compiler` `es2015` `es6` `flavortown` `javascript`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Tcl |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`command-line` `macos` `macosx` `macports` `package-manager` `ports`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 30.3k |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`android` `app-framework` `cross-platform` `dart` `dart-platform` `desktop` `flutter` `flutter-package` `fuchsia` `ios` `linux-desktop` `macos`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Frontend · Mobile · Design
 
 ## 📝 Summary
 
-Flutter is an open-source project that empowers developers to create visually stunning and high-performance mobile and web applications with ease and speed. It provides a comprehensive set of tools and libraries to design, develop, and deploy cross-platform apps for various platforms. By leveraging Flutter, developers can build native-like apps for mobile, web, and desktop environments using a single codebase.
+Flutter is an open-source UI toolkit
 
 ---
 

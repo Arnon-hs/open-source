@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 660 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`2d-game-engine` `canvas2d` `contributions-welcome` `es6` `game-development` `game-engine` `gamedev` `hacktoberfest` `html5` `html5-canvas` `javascript` `melonjs`
+_no topics_
 
 ## 🎯 Categories
 

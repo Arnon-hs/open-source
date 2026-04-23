@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 493 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`brrr` `cuda` `dtypes` `float8` `inference` `llama` `mx` `pytorch` `quantization` `sparsity` `training` `transformer`
+_no topics_
 
 ## 🎯 Categories
 

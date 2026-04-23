@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`framework` `hacktoberfest` `javascript` `javascript-framework` `microservices` `nest` `nestjs` `node` `nodejs` `nodejs-framework` `typescript` `typescript-framework`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Nest is an open-source Node.js framework designed to help developers build high-performance, scalable, and maintainable server-side applications using TypeScript or JavaScript. This framework provides a robust set of tools and features for building efficient and enterprise-grade backend applications. With Nest, developers can create robust, scalable, and maintainable systems.
+NestJS is an open-source, progressive Node.js framework for building scalable and efficient server-side applications. Built with TypeScript and JavaScript, it provides a robust foundation for developing enterprise-grade backend systems. With NestJS, developers can create high-performance applications that meet complex business requirements.
 
 ---
 

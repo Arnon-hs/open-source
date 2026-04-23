@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 691 |
+| ⭐ **Stars** | 693 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`dotnet` `gplv3` `opensource` `pdf` `pdf-editor` `portable` `windows` `wpf`
+_no topics_
 
 ## 🎯 Categories
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 859 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agents` `caching` `ci-cd` `containers` `continuous-deployment` `continuous-integration` `dag` `dagger` `devops` `docker` `graphql` `workflows`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Dagger is an open-source automation engine that streamlines the development process by allowing developers to build, test, and ship their codebases efficiently. It can be run locally, integrated into continuous integration (CI) pipelines, or directly in the cloud, providing flexibility and scalability. With Dagger, developers can automate complex workflows and focus on writing code, reducing development time and increasing productivity.
+Dagger is an open-source automation engine that streamlines the build, test, and deployment process for any codebase. It can run locally, integrate with continuous integration pipelines, or directly in the cloud, providing flexibility and scalability. With Dagger, developers can automate routine tasks and ship code with ease, making it an invaluable tool for modern software development workflows.
 
 ---
 

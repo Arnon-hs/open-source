@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 17.2k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ggml`
+_no topics_
 
 ## 🎯 Categories
 

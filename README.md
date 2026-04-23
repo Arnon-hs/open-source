@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **10** |
+| 🗂️ **Total projects** | **778** |
+| 📁 **Categories** | **12** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
 
@@ -18,31 +18,33 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 74 | [Browse →](./aiml/) |
-| 🎨 **Frontend** | 26 | [Browse →](./frontend/) |
-| 📦 **Misc** | 26 | [Browse →](./misc/) |
-| ⚙️ **Backend** | 13 | [Browse →](./backend/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 1 | [Browse →](./security/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
+| 🤖 **AI/ML** | 331 | [Browse →](./aiml/) |
+| 📦 **Misc** | 190 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 93 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 50 | [Browse →](./backend/) |
+| 📊 **Data** | 29 | [Browse →](./data/) |
+| 🔧 **DevTools** | 28 | [Browse →](./devtools/) |
+| 📱 **Mobile** | 24 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 17 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 8 | [Browse →](./security/) |
+| 🎯 **Product** | 3 | [Browse →](./product/) |
+| ✨ **Design** | 3 | [Browse →](./design/) |
+| 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [langfuse/langfuse](./aiml/langfuse-langfuse.md) | ⭐ 25.3k | AI/ML |
-| 2 | [drawdb-io/drawdb](./aiml/drawdb-io-drawdb.md) | ⭐ 37.1k | AI/ML |
-| 3 | [getsentry/sentry](./aiml/getsentry-sentry.md) | ⭐ 43.6k | AI/ML |
-| 4 | [Fincept-Corporation/FinceptTerminal](./data/fincept-corporation-finceptterminal.md) | ⭐ 10.8k | Data |
-| 5 | [chatwoot/chatwoot](./aiml/chatwoot-chatwoot.md) | ⭐ 28.7k | AI/ML |
-| 6 | [usebruno/bruno](./backend/usebruno-bruno.md) | ⭐ 43.1k | Backend |
-| 7 | [ente-io/ente](./mobile/ente-io-ente.md) | ⭐ 26.1k | Mobile |
-| 8 | [nextcloud/server](./backend/nextcloud-server.md) | ⭐ 34.7k | Backend |
-| 9 | [koala73/worldmonitor](./aiml/koala73-worldmonitor.md) | ⭐ 50.7k | AI/ML |
-| 10 | [zaproxy/zaproxy](./security/zaproxy-zaproxy.md) | ⭐ 15k | Security |
+| 1 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 110.6k | AI/ML |
+| 2 | [akkadotnet/akka.net](./frontend/akkadotnet-akka.net.md) | ⭐ 5k | Frontend |
+| 3 | [apache/spark](./data/apache-spark.md) | ⭐ 43.2k | Data |
+| 4 | [XIU2/TrackersListCollection](./aiml/xiu2-trackerslistcollection.md) | ⭐ 31.1k | AI/ML |
+| 5 | [frappe/frappe](./aiml/frappe-frappe.md) | ⭐ 10k | AI/ML |
+| 6 | [coder/coder](./aiml/coder-coder.md) | ⭐ 13k | AI/ML |
+| 7 | [h2oai/h2o-3](./aiml/h2oai-h2o-3.md) | ⭐ 7.5k | AI/ML |
+| 8 | [meshery/meshery](./frontend/meshery-meshery.md) | ⭐ 10.2k | Frontend |
+| 9 | [matplotlib/matplotlib](./data/matplotlib-matplotlib.md) | ⭐ 22.7k | Data |
+| 10 | [feast-dev/feast](./aiml/feast-dev-feast.md) | ⭐ 7k | AI/ML |
 
 ## 🚀 How it works
 

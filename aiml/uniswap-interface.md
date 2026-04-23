@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`blockchain` `ethereum` `uniswap`
+_no topics_
 
 ## 🎯 Categories
 

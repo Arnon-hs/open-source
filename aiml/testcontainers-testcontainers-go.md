@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 605 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`automation` `docker` `go` `golang` `hacktoberfest` `testcontainers` `testcontainers-go` `testing`
+_no topics_
 
 ## 🎯 Categories
 

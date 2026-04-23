@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 875 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`hacktoberfest` `js` `php` `plugin` `react` `wordpress` `wordpress-plugin`
+_no topics_
 
 ## 🎯 Categories
 

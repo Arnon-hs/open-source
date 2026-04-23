@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`aes` `aes-gcm` `cipher` `commoncrypto` `cryptography` `cryptoswift` `digest` `hmac` `hmac-authentication` `md5` `sha1` `sha3`
+_no topics_
 
 ## 🎯 Categories
 

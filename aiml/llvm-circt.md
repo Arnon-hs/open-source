@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 459 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`circt` `llvm` `mlir`
+_no topics_
 
 ## 🎯 Categories
 

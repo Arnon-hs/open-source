@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 580 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`airtable` `airtable-alternative` `airtable-replacement` `application-builder` `automations` `dashboards` `database` `low-code` `no-code` `no-code-database` `no-code-platform` `online-database`
+_no topics_
 
 ## 🎯 Categories
 

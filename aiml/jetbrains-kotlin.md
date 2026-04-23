@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6.3k |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`compiler` `gradle-plugin` `intellij-plugin` `kotlin` `kotlin-library` `maven-plugin` `programming-language` `wasm` `webassembly`
+_no topics_
 
 ## 🎯 Categories
 

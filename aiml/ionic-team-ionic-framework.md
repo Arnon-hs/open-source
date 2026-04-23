@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 13.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`angular` `capacitor` `framework` `frontend` `ionic` `ios` `javascript` `material-design` `mobile` `pwa` `react` `stencil`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-Ionic Framework is an open-source, cross-platform UI toolkit that empowers developers to create high-quality, native-like mobile and Progressive Web Apps using a single codebase written in HTML, CSS, and JavaScript. With Ionic, users can build native iOS, Android, and web applications efficiently, leveraging a vast array of customizable components and tools. This versatile framework facilitates the development of cross-platform mobile and web applications with ease.
+The Ionic Framework is a free and open-source UI toolkit that enables developers to build high-quality, native-like mobile and web applications using HTML, CSS, and JavaScript. With Ionic, users can create cross-platform experiences for iOS, Android, and Progressive Web Apps, streamlining the development process. This versatile framework empowers developers to craft engaging, mobile-first interfaces with ease.
 
 ---
 

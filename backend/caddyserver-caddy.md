@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.7k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`acme` `automatic-https` `caddy` `caddyfile` `go` `golang` `http` `http-server` `http3` `https` `privacy` `reverse-proxy`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,9 +25,7 @@ Backend · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the Caddy open-source project:
-
-Caddy is a fast, extensible, and multi-platform HTTP/1-2-3 web server that prioritizes security. It features automatic HTTPS setup, making it an ideal choice for developers seeking a secure and reliable web server solution. With its modular design, Caddy allows for seamless customization and extension to meet the needs of various web applications.
+Caddy is an open-source, multi-platform HTTP web server that offers a fast and extensible experience. It provides automatic HTTPS support, making it a secure choice for web applications. With its modular design, Caddy allows for easy customization and extension to meet various development needs.
 
 ---
 

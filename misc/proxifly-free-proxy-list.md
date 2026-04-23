@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.6k |
-| 🍴 **Forks** | 518 |
+| 🍴 **Forks** | 519 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`free-proxy` `free-proxy-list` `fresh-proxies` `http` `http-proxy` `proxies` `proxies-list` `proxy` `proxy-list` `proxy-scraper` `socks` `socks4`
+_no topics_
 
 ## 🎯 Categories
 

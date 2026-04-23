@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agent` `agentic` `ai` `autonomous` `chatbot` `crypto` `discord` `eliza` `elizaos` `framework` `plugins` `rag`
+_no topics_
 
 ## 🎯 Categories
 
@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Eliza is an open-source project that offers autonomous agents for various applications, empowering individuals to harness the power of artificial intelligence and machine learning. This project provides accessible tools for creating and integrating AI/ML capabilities, democratizing their use across different domains. By leveraging Eliza, developers and innovators can build more intuitive and intelligent systems.
+ElizaOS/eliza is an open-source project that offers autonomous agents for various applications. This AI/ML-focused project enables users to create and deploy intelligent agents with ease, providing a flexible platform for developing and integrating autonomous systems. By utilizing eliza, users can tap into the power of AI and automate tasks, streamline processes, and unlock new possibilities in fields such as robotics, customer service, and more.
 
 ---
 

@@ -2,25 +2,62 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**13 projects** in this category.
+**50 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [usebruno/bruno](./usebruno-bruno.md) | ⭐ 43.1k | JavaScript | 100/100 |
-| 2 | [nextcloud/server](./nextcloud-server.md) | ⭐ 34.7k | PHP | 100/100 |
-| 3 | [questdb/questdb](./questdb-questdb.md) | ⭐ 16.9k | Java | 100/100 |
-| 4 | [caddyserver/caddy](./caddyserver-caddy.md) | ⭐ 71.8k | Go | 100/100 |
-| 5 | [awslabs/mcp](./awslabs-mcp.md) | ⭐ 8.8k | Python | 100/100 |
-| 6 | [cli/cli](./cli-cli.md) | ⭐ 44k | Go | 95/100 |
-| 7 | [Termix-SSH/Termix](./termix-ssh-termix.md) | ⭐ 12.3k | TypeScript | 90/100 |
-| 8 | [camunda/camunda](./camunda-camunda.md) | ⭐ 4.1k | Java | 89/100 |
-| 9 | [open-telemetry/opentelemetry-python](./open-telemetry-opentelemetry-python.md) | ⭐ 2.4k | Python | 80/100 |
-| 10 | [privacyidea/privacyidea](./privacyidea-privacyidea.md) | ⭐ 1.7k | Python | 67/100 |
-| 11 | [ebean-orm/ebean](./ebean-orm-ebean.md) | ⭐ 1.5k | Java | 65/100 |
-| 12 | [matrix-org/matrix-rust-sdk](./matrix-org-matrix-rust-sdk.md) | ⭐ 2.1k | Rust | 65/100 |
-| 13 | [Hommy-master/capcut-mate](./hommy-master-capcut-mate.md) | ⭐ 814 | Python | 57/100 |
+| 1 | [azerothcore/azerothcore-wotlk](./azerothcore-azerothcore-wotlk.md) | ⭐ 8.2k | C++ | 100/100 |
+| 2 | [caddyserver/caddy](./caddyserver-caddy.md) | ⭐ 71.8k | Go | 100/100 |
+| 3 | [awslabs/mcp](./awslabs-mcp.md) | ⭐ 8.8k | Python | 100/100 |
+| 4 | [clockworklabs/SpacetimeDB](./clockworklabs-spacetimedb.md) | ⭐ 24.6k | Rust | 100/100 |
+| 5 | [temporalio/temporal](./temporalio-temporal.md) | ⭐ 19.8k | Go | 100/100 |
+| 6 | [gravitational/teleport](./gravitational-teleport.md) | ⭐ 20.2k | Go | 100/100 |
+| 7 | [typeorm/typeorm](./typeorm-typeorm.md) | ⭐ 36.5k | TypeScript | 100/100 |
+| 8 | [PipedreamHQ/pipedream](./pipedreamhq-pipedream.md) | ⭐ 11.3k | JavaScript | 100/100 |
+| 9 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.8k | Python | 100/100 |
+| 10 | [btcpayserver/btcpayserver](./btcpayserver-btcpayserver.md) | ⭐ 7.5k | C# | 100/100 |
+| 11 | [gfx-rs/wgpu](./gfx-rs-wgpu.md) | ⭐ 17k | Rust | 100/100 |
+| 12 | [microsoft/playwright](./microsoft-playwright.md) | ⭐ 87.1k | TypeScript | 100/100 |
+| 13 | [grpc-ecosystem/grpc-gateway](./grpc-ecosystem-grpc-gateway.md) | ⭐ 19.9k | Go | 99/100 |
+| 14 | [ChilliCream/graphql-platform](./chillicream-graphql-platform.md) | ⭐ 5.7k | C# | 97/100 |
+| 15 | [PowerDNS/pdns](./powerdns-pdns.md) | ⭐ 4.3k | C++ | 95/100 |
+| 16 | [cli/cli](./cli-cli.md) | ⭐ 44k | Go | 95/100 |
+| 17 | [microsoft/winget-cli](./microsoft-winget-cli.md) | ⭐ 25.7k | C++ | 95/100 |
+| 18 | [rust-lang/rust-analyzer](./rust-lang-rust-analyzer.md) | ⭐ 16.3k | Rust | 94/100 |
+| 19 | [kubernetes-sigs/aws-load-balancer-controller](./kubernetes-sigs-aws-load-balancer-controller.md) | ⭐ 4.3k | Go | 94/100 |
+| 20 | [NVIDIAGameWorks/kaolin](./nvidiagameworks-kaolin.md) | ⭐ 5.1k | Python | 94/100 |
+| 21 | [microsoft/playwright-mcp](./microsoft-playwright-mcp.md) | ⭐ 31.3k | TypeScript | 93/100 |
+| 22 | [pinchtab/pinchtab](./pinchtab-pinchtab.md) | ⭐ 8.8k | Go | 93/100 |
+| 23 | [googleapis/googleapis](./googleapis-googleapis.md) | ⭐ 8.5k | Starlark | 91/100 |
+| 24 | [elysiajs/elysia](./elysiajs-elysia.md) | ⭐ 18.1k | TypeScript | 90/100 |
+| 25 | [Termix-SSH/Termix](./termix-ssh-termix.md) | ⭐ 12.3k | TypeScript | 90/100 |
+| 26 | [LibrePhotos/librephotos](./librephotos-librephotos.md) | ⭐ 8k | Python | 89/100 |
+| 27 | [grafana/tempo](./grafana-tempo.md) | ⭐ 5.2k | Go | 88/100 |
+| 28 | [json-schema-org/json-schema-spec](./json-schema-org-json-schema-spec.md) | ⭐ 4.9k | JavaScript | 87/100 |
+| 29 | [GMWalletApp/epusdt](./gmwalletapp-epusdt.md) | ⭐ 3.2k | Go | 86/100 |
+| 30 | [X11Libre/xserver](./x11libre-xserver.md) | ⭐ 4.5k | C | 85/100 |
+| 31 | [tarantool/tarantool](./tarantool-tarantool.md) | ⭐ 3.6k | Lua | 81/100 |
+| 32 | [WWBN/AVideo](./wwbn-avideo.md) | ⭐ 2.1k | JavaScript | 80/100 |
+| 33 | [maplibre/martin](./maplibre-martin.md) | ⭐ 3.6k | Rust | 80/100 |
+| 34 | [maptiler/tileserver-gl](./maptiler-tileserver-gl.md) | ⭐ 2.8k | JavaScript | 80/100 |
+| 35 | [fastly/pushpin](./fastly-pushpin.md) | ⭐ 3.8k | Rust | 79/100 |
+| 36 | [fern-api/fern](./fern-api-fern.md) | ⭐ 3.6k | TypeScript | 76/100 |
+| 37 | [Epodonios/v2ray-configs](./epodonios-v2ray-configs.md) | ⭐ 2.8k | Python | 75/100 |
+| 38 | [xingpingcn/enhanced-FaaS-in-China](./xingpingcn-enhanced-faas-in-china.md) | ⭐ 2.9k | Python | 72/100 |
+| 39 | [roboflow/inference](./roboflow-inference.md) | ⭐ 2.3k | Python | 70/100 |
+| 40 | [intel/llvm](./intel-llvm.md) | ⭐ 1.5k | LLVM | 68/100 |
+| 41 | [ormar-orm/ormar](./ormar-orm-ormar.md) | ⭐ 1.8k | Python | 64/100 |
+| 42 | [sublimelsp/LSP](./sublimelsp-lsp.md) | ⭐ 1.8k | Python | 60/100 |
+| 43 | [googleapis/google-cloud-php](./googleapis-google-cloud-php.md) | ⭐ 1.2k | PHP | 58/100 |
+| 44 | [crazy-max/swarm-cronjob](./crazy-max-swarm-cronjob.md) | ⭐ 868 | Go | 57/100 |
+| 45 | [Shopify/tapioca](./shopify-tapioca.md) | ⭐ 853 | Ruby | 56/100 |
+| 46 | [mihaelamj/cupertino](./mihaelamj-cupertino.md) | ⭐ 657 | Swift | 55/100 |
+| 47 | [martin-majlis/Wikipedia-API](./martin-majlis-wikipedia-api.md) | ⭐ 728 | Python | 53/100 |
+| 48 | [zarkones/Moroi-Browser](./zarkones-moroi-browser.md) | ⭐ — | — | 39/100 |
+| 49 | [ScalableCapital/scalable-cli](./scalablecapital-scalable-cli.md) | ⭐ — | — | 39/100 |
+| 50 | [okira-e/veriflow](./okira-e-veriflow.md) | ⭐ — | — | 39/100 |
 
 ---
 

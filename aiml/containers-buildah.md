@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 893 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`container` `container-image` `containers` `docker` `oci` `oci-image` `podman`
+_no topics_
 
 ## 🎯 Categories
 

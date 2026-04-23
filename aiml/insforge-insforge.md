@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 615 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | 2026-04-23 |
+| 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `ai-agents` `coding` `deno` `embeddings` `insforge` `nextjs` `oauth2` `pgvector` `postgresql` `realtime` `vectors`
+_no topics_
 
 ## 🎯 Categories
 

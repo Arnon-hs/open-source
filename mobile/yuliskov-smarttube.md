@@ -1,0 +1,32 @@
+# yuliskov/SmartTube
+
+[![Stars](https://img.shields.io/github/stars/yuliskov/SmartTube?style=flat-square&color=yellow)](https://github.com/yuliskov/SmartTube/stargazers) [![Forks](https://img.shields.io/github/forks/yuliskov/SmartTube?style=flat-square&color=blue)](https://github.com/yuliskov/SmartTube/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
+
+> Browse media content with your own rules on Android TV
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 29.7k |
+| 🍴 **Forks** | 1.6k |
+| 💻 **Language** | Java |
+| 📈 **Score** | 99/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Mobile
+
+## 📝 Summary
+
+yuliskov/SmartTube is a promising open-source project. Categories: Mobile. Interest score: 99/100.
+
+---
+
+<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/yuliskov/SmartTube) · [← Back to Mobile](./README.md)</sub>
