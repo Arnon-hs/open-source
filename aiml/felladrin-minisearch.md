@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the MiniSearch project:
-
-MiniSearch is an open-source, minimalist web-searching platform that offers an AI-powered assistant directly within the browser. Built on top of WebLLM, Wllama, and SearXNG, this innovative project provides users with a seamless and efficient search experience. Currently available for demo at felladrin-minisearch.hf.space, MiniSearch is an exciting development in the realm of AI/ML applications.
+MiniSearch is an open-source, browser-based web-searching platform that leverages AI and machine learning capabilities to provide a minimalist and efficient search experience. Built on top of WebLLM, Wllama, and SearXNG technologies, MiniSearch offers users a robust AI assistant directly within their browser. The project's demo is available at https://felladrin-minisearch.hf.space.
 
 ---
 

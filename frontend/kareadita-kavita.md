@@ -25,9 +25,7 @@ Frontend · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the Kareadita/Kavita project:
-
-Kavita is an open-source, cross-platform reading server that provides a comprehensive solution for managing and sharing digital libraries. With a focus on speed and feature-rich functionality, Kavita enables users to set up their own personalized server to access their reading collection from anywhere. This project offers a convenient way for individuals to share their book collections with friends and family.
+Kavita, formerly known as Kareadita, is a cutting-edge, open-source reading server that offers a comprehensive reading experience across various platforms. With its focus on being a complete solution, users can easily set up their own server to share their extensive reading collection with loved ones. This feature-rich platform is designed to cater to all reading needs, making it an ideal choice for readers and book enthusiasts alike.
 
 ---
 

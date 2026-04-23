@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the swarmclawai/swarmclaw project:
+Here's a brief summary for the open-source project:
 
-Swarmclaw is an open-source, self-hosted multi-agent AI runtime that enables users to build, orchestrate, and run autonomous agents with advanced features like memory, skills, and schedules. It supports 23+ large language model (LLM) providers, including Claude, GPT, and Gemini, allowing for seamless integration with various AI services. This platform empowers developers to create complex AI applications with ease, leveraging the strengths of multi-agent systems.
+Swarmclaw is an open-source, self-hosted platform that enables the creation, orchestration, and deployment of autonomous agents with advanced AI capabilities. With support for multiple Large Language Model (LLM) providers, including Claude, GPT, and Gemini, and features like memory management, skills, and schedules, Swarmclaw streamlines the development and operation of multi-agent AI systems. This flexible and extensible platform empowers users to build and manage complex AI-driven applications with ease.
 
 ---
 

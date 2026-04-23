@@ -25,7 +25,9 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-The open-source project 'gitagent' is a framework-agnostic, git-native standard that allows developers to define and manage AI agents in a standardized and version-controlled manner. This innovative approach enables seamless collaboration and reuse of AI models across different platforms and applications. By leveraging git as a native store for AI definitions, developers can simplify the development and deployment of AI-powered systems.
+Here's a brief summary of the open-source project:
+
+Gitagent is an open-source, framework-agnostic standard for defining AI agents that leverage the power of git, allowing developers to version and collaborate on agent definitions. This approach enables a more transparent, reproducible, and scalable way to build, deploy, and manage AI agents. By utilizing git, developers can track changes, collaborate with others, and ensure consistency across multiple environments.
 
 ---
 

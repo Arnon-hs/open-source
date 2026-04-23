@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The OwnPilot platform is an open-source, privacy-first AI assistant that empowers users with autonomous agents, seamless tool orchestration, and multi-provider support. This innovative solution enables individuals to manage their digital lives more efficiently while maintaining complete control over their data and online presence. By harnessing the power of autonomous agents, OwnPilot streamlines tasks and workflows, setting a new standard for user-centric AI assistance.
+The OwnPilot platform is an open-source, privacy-focused personal AI assistant that leverages autonomous agents and multi-provider support for streamlined tool orchestration. This innovative solution empowers users to manage their digital lives with increased security and control. By combining AI and automation, OwnPilot facilitates seamless interactions with various services and applications.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The nicobailon/pi-mcp-adapter project provides a token-efficient MCP adapter for the Pi coding agent, enabling users to efficiently interact with the MCP (Multi-Camera Platform). This open-source project is ideal for developers working on AI and machine learning projects that utilize the Pi coding agent. By utilizing this adapter, users can streamline their development process and optimize resource utilization.
+Here's a summary for the nicobailon/pi-mcp-adapter project:
+
+The nicobailon/pi-mcp-adapter is an open-source project aimed at providing a token-efficient MCP adapter for Pi coding agents. This adapter enables developers to integrate their Pi coding agents with MCP (Microchip MCP) interfaces in a more efficient and streamlined manner. By leveraging this adapter, developers can focus on building innovative AI/ML applications without the overhead of complex token management.
 
 ---
 

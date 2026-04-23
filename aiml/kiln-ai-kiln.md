@@ -25,7 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Kiln is an open-source project that facilitates the development, assessment, and refinement of AI systems. It offers a comprehensive set of tools for building and evaluating AI models, including agent training, fine-tuning, dataset management, and synthetic data generation, among others. This project provides a robust platform for researchers and developers to construct, test, and improve AI systems in a flexible and efficient manner.
+Kiln is an open-source project that enables users to build, evaluate, and optimize AI systems through a comprehensive set of features. These features include evaluation tools, reinforcement learning agents, fine-tuning capabilities, synthetic data generation, and dataset management, among others. With Kiln, developers can streamline their AI workflow and improve the performance of their AI systems.
 
 ---
 

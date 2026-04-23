@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-MiniCode is an open-source, lightweight terminal coding assistant that streamlines the coding process with a Claude Code-like workflow and tool loop. Built with a TUI (Text User Interface) architecture, it supports multiple programming languages, including TypeScript and Rust, with Python implementation on the way. This project is designed for learning and experimentation, making it an ideal platform for developers and coders.
+MiniCode is an open-source, lightweight terminal coding assistant that streamlines the coding process with a Claude Code-like workflow, tool loop, and TUI (Text-based User Interface) architecture. This multi-language supported tool currently offers TypeScript and Rust implementations, with Python support coming soon, making it an ideal platform for learning and experimentation. MiniCode aims to provide developers with a versatile and efficient coding experience.
 
 ---
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2076** |
+| 🗂️ **Total projects** | **2134** |
 | 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 779 | [Browse →](./aiml/) |
-| 📦 **Misc** | 350 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 233 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 185 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 128 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 102 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 84 | [Browse →](./crypto/) |
-| 📊 **Data** | 61 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 796 | [Browse →](./aiml/) |
+| 📦 **Misc** | 358 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 240 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 190 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 134 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 107 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 87 | [Browse →](./crypto/) |
+| 📊 **Data** | 64 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 47 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 29 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 32 | [Browse →](./mobile/) |
 | 💳 **Payments** | 24 | [Browse →](./payments/) |
-| 📈 **Trading** | 22 | [Browse →](./trading/) |
+| 📈 **Trading** | 23 | [Browse →](./trading/) |
 | 🔐 **Security** | 20 | [Browse →](./security/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
 | ✨ **Design** | 4 | [Browse →](./design/) |
@@ -41,13 +41,13 @@
 | 1 | [spree/spree](./backend/spree-spree.md) | ⭐ 15.4k | Backend |
 | 2 | [PrefectHQ/prefect](./orchestration/prefecthq-prefect.md) | ⭐ 22.2k | Orchestration |
 | 3 | [giampaolo/psutil](./misc/giampaolo-psutil.md) | ⭐ 11.1k | Misc |
-| 4 | [Snailclimb/JavaGuide](./aiml/snailclimb-javaguide.md) | ⭐ 155.2k | AI/ML |
-| 5 | [ipython/ipython](./aiml/ipython-ipython.md) | ⭐ 16.7k | AI/ML |
-| 6 | [shanraisshan/claude-code-best-practice](./orchestration/shanraisshan-claude-code-best-practice.md) | ⭐ 47.6k | Orchestration |
-| 7 | [DNSCrypt/dnscrypt-proxy](./misc/dnscrypt-dnscrypt-proxy.md) | ⭐ 13.2k | Misc |
-| 8 | [gofiber/fiber](./backend/gofiber-fiber.md) | ⭐ 39.6k | Backend |
-| 9 | [apache/hudi](./data/apache-hudi.md) | ⭐ 6.1k | Data |
-| 10 | [TriliumNext/Trilium](./frontend/triliumnext-trilium.md) | ⭐ 35.7k | Frontend |
+| 4 | [Aider-AI/aider](./aiml/aider-ai-aider.md) | ⭐ 43.8k | AI/ML |
+| 5 | [yeasy/docker_practice](./aiml/yeasy-docker-practice.md) | ⭐ 26k | AI/ML |
+| 6 | [DNSCrypt/dnscrypt-proxy](./misc/dnscrypt-dnscrypt-proxy.md) | ⭐ 13.2k | Misc |
+| 7 | [gofiber/fiber](./backend/gofiber-fiber.md) | ⭐ 39.6k | Backend |
+| 8 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
+| 9 | [ipython/ipython](./aiml/ipython-ipython.md) | ⭐ 16.7k | AI/ML |
+| 10 | [shanraisshan/claude-code-best-practice](./orchestration/shanraisshan-claude-code-best-practice.md) | ⭐ 47.6k | Orchestration |
 
 ## 🚀 How it works
 

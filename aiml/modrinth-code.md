@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Modrinth/code is an open-source monorepo that houses the comprehensive codebase powering Modrinth, a platform for discovering and sharing Minecraft mods. This repository encompasses the backend and AI/ML components that drive the Modrinth ecosystem, making it an invaluable resource for developers and mod enthusiasts alike. By contributing to or utilizing the code within this repository, users can help shape the future of modding for Minecraft.
+Here's a brief summary of the Modrinth code project:
+
+The Modrinth code is an open-source monorepo that hosts the underlying infrastructure powering Modrinth, a platform for discovering, hosting, and sharing Minecraft mods. This comprehensive codebase combines AI/ML and backend technologies to provide a robust and scalable experience for users. By contributing to this project, developers can help shape the future of the Minecraft modding community.
 
 ---
 

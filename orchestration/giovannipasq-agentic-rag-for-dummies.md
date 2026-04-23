@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, "agentic-rag-for-dummies," provides a modular implementation of Agentic RAG (Retrieval-Augmented Generation) using the LangGraph library. It enables users to quickly learn and experiment with this AI/ML technology, making it accessible to beginners. The project's modular design facilitates orchestration and frontend development, simplifying the process of working with Agentic RAG.
+The agentic-rag-for-dummies project is an open-source, modular implementation of Agentic RAG using LangGraph, enabling users to learn Retrieval-Augmented Generation Agents in a matter of minutes. This user-friendly platform facilitates exploration and experimentation with AI/ML techniques, particularly in the realm of natural language processing and generation. With a focus on orchestration and frontend development, agentic-rag-for-dummies simplifies the process of building and deploying Agentic RAG models.
 
 ---
 

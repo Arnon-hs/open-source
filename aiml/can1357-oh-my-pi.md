@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "oh-my-pi":
-
-Oh-my-pi is an open-source AI coding agent designed for the terminal, providing a range of features to enhance coding productivity, including hash-anchored edits, a tool harness, and Language Server Protocol (LSP) support. This project is built for Python developers, offering a browser interface and subagent capabilities to streamline the coding process. It aims to revolutionize the way developers work on their projects, leveraging AI and machine learning to improve efficiency and accuracy.
+The oh-my-pi project is an open-source AI coding agent designed for the terminal, providing advanced features such as hash-anchored edits, a optimized tool harness, and Language Server Protocol (LSP) support. It integrates Python functionality, enables browser-like capabilities, and utilizes subagents to streamline coding tasks. This project aims to transform the terminal into a powerful, AI-driven development environment.
 
 ---
 

@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-k0s is an open-source, lightweight, and easy-to-use Kubernetes distribution designed to provide a seamless Kubernetes experience. It simplifies the process of deploying and managing Kubernetes clusters, aiming to reduce friction and complexity for developers, DevOps teams, and system administrators. By streamlining the Kubernetes setup process, k0s enables faster time-to-market and improved cluster efficiency.
+k0s is an open-source, lightweight Kubernetes distribution that simplifies cluster deployment and management, aiming to provide a zero-friction experience for developers and operators. It achieves this by offering a streamlined installation process, easy scaling, and robust security features. k0s empowers users to quickly set up and manage Kubernetes clusters for a variety of use cases, from development environments to production workloads.
 
 ---
 

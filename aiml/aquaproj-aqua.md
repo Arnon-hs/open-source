@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project 'aqua':
+Here's a 2-3 sentence summary for the aquaproj/aqua project:
 
-Aqua is an open-source, declarative CLI version manager written in Go, allowing for seamless switching between different versions of tools and libraries. It features lazy install, registry support, and integrates with Renovate for continuous updates. This project aims to simplify tool management for developers, particularly those working with AI/ML and DevTools.
+Aqua is an open-source, declarative CLI version manager written in Go that simplifies package management for developers. It supports lazy installs, a registry for easy package discovery, and seamless updates with continuous integration through Renovate. Aqua streamlines package management, making it an ideal tool for AI/ML and DevTools projects.
 
 ---
 

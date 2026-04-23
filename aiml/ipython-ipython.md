@@ -25,7 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-IPython is an open-source project that provides an interactive shell and browser-based notebook interface for working with Python code. It offers a range of features, including code completion, visualization tools, and integration with popular data science libraries, making it a popular choice among data scientists and researchers. By using IPython, users can efficiently develop, test, and share Python code in a dynamic and interactive environment.
+The ipython/ipython repository is the official source code for IPython, a powerful interactive shell and computing environment for data science and scientific computing. It enables users to create and share interactive documents, notebooks, and code blocks, facilitating collaboration and reproducibility in AI/ML, data analysis, and scientific research. With its open-source nature, the IPython project fosters innovation and development in the community.
 
 ---
 

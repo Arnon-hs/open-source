@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-FuelLabs' fuel-core is an open-source project that provides a Rust implementation of a full node for the Fuel v2 protocol, enabling secure and decentralized network operations. This project plays a crucial role in the Fuel ecosystem, facilitating the development of decentralized applications and ensuring the integrity of the network. With its focus on cryptographic security, fuel-core contributes to the advancement of blockchain technology.
+Fuel Core is an open-source project that implements the Fuel v2 protocol as a full node in Rust, providing a robust and secure foundation for the Fuel blockchain network. This project enables developers to build and interact with decentralized applications on the Fuel network, leveraging its scalability and interoperability features. By contributing to Fuel Core, developers can help shape the future of the Fuel ecosystem.
 
 ---
 

@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Claude-Code-Best-Practice is an open-source project that provides a comprehensive guide to coding best practices, bridging the gap between Vibe Coding and Agentic Engineering. By emphasizing the importance of practice in mastering Claude, this project equips developers with the skills and expertise needed to create efficient, effective, and scalable code. It offers a valuable resource for those looking to elevate their coding skills and stay at the forefront of AI/ML and DevTools innovations.
+Here's a brief summary for the open-source project:
+
+CLAude Code Best Practice is an open-source initiative that guides developers through the journey from 'vibe coding' to 'agentic engineering' by providing a comprehensive set of best practices. This project aims to elevate software development skills, particularly in orchestration and AI/ML, through hands-on practice and collaboration. By following CLAude's guidelines, developers can refine their coding habits and become more efficient and effective in their work.
 
 ---
 

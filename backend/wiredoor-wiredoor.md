@@ -25,9 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the wiredoor/wiredoor project:
+Here's a brief summary for the wiredoor project:
 
-Wiredoor is an open-source, self-hosted ingress-as-a-service platform that enables secure internet access to applications and services running in private or local networks. By providing a simple and scalable solution, users can expose their internal services to the world without the need for complex networking configurations. This platform empowers developers to bring their internal applications online while maintaining control over security and access.
+wiredoor is an open-source, self-hosted ingress-as-a-service platform that enables secure exposure of applications and services running in private or local networks to the internet. This platform provides a simple and centralized way to manage incoming traffic, allowing developers to focus on their applications without the need for complex networking configurations. By using wiredoor, users can easily expose their internal services to the world while maintaining control over security and access.
 
 ---
 

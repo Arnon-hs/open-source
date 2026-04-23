@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the 'isort' project:
-
-Isort is an open-source Python utility that automatically sorts import statements in your code to improve readability and consistency. This library helps maintain a clean and organized import structure, making it easier to navigate and understand your codebase. By using isort, developers can streamline their coding experience and adhere to established coding standards.
+isort is an open-source utility library for Python that helps maintain consistent and organized import ordering in Python code. It allows developers to automatically sort imports alphabetically or according to a specified style, making code easier to read and understand. By using isort, developers can ensure their code adheres to a standard coding convention and reduces the likelihood of errors caused by import inconsistencies.
 
 ---
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Claude Octopus is an open-source project that allows developers to deploy multiple AI models on coding tasks simultaneously, helping identify blind spots before shipping their code. This project is built as a plugin for Claude Code, a tool that leverages AI to assist with coding. By using Claude Octopus, developers can gain a more comprehensive understanding of their code and improve its quality.
+Claude Octopus is an open-source project that enables developers to deploy up to 8 AI models on various coding tasks, surfacing potential blind spots before shipping. This tool, part of the Claude Code plugin, serves as an orchestration and AI/ML integration solution for developers. By utilizing Claude Octopus, developers can ensure more reliable and accurate code outputs.
 
 ---
 

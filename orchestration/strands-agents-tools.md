@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The strands-agents/tools project is an open-source suite of tools that empowers AI/ML agents with enhanced capabilities. Built with orchestration in mind, these tools enable seamless integration and automation of complex tasks, unlocking new levels of efficiency and productivity. By leveraging this project, developers can create more sophisticated and effective AI/ML solutions.
+The strands-agents/tools project is an open-source collection of powerful tools designed to enhance the capabilities of agents, providing advanced functionality for streamlined workflows. This set of tools is categorized under Orchestration and AI/ML, indicating its integration with artificial intelligence and machine learning technologies. By leveraging these tools, users can unlock new levels of efficiency and automation in their projects.
 
 ---
 
