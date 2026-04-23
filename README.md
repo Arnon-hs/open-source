@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **778** |
-| 📁 **Categories** | **12** |
+| 🗂️ **Total projects** | **858** |
+| 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
 
@@ -18,33 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 331 | [Browse →](./aiml/) |
-| 📦 **Misc** | 190 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 93 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 50 | [Browse →](./backend/) |
-| 📊 **Data** | 29 | [Browse →](./data/) |
-| 🔧 **DevTools** | 28 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 372 | [Browse →](./aiml/) |
+| 📦 **Misc** | 201 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 99 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 52 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 32 | [Browse →](./devtools/) |
+| 📊 **Data** | 28 | [Browse →](./data/) |
 | 📱 **Mobile** | 24 | [Browse →](./mobile/) |
-| 🚀 **DevOps & Infra** | 17 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 20 | [Browse →](./devopsinfra/) |
+| ⛓️ **Crypto** | 8 | [Browse →](./crypto/) |
 | 🔐 **Security** | 8 | [Browse →](./security/) |
+| 📈 **Trading** | 4 | [Browse →](./trading/) |
 | 🎯 **Product** | 3 | [Browse →](./product/) |
 | ✨ **Design** | 3 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
+| 💳 **Payments** | 2 | [Browse →](./payments/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 110.6k | AI/ML |
-| 2 | [akkadotnet/akka.net](./frontend/akkadotnet-akka.net.md) | ⭐ 5k | Frontend |
-| 3 | [apache/spark](./data/apache-spark.md) | ⭐ 43.2k | Data |
+| 1 | [keephq/keep](./aiml/keephq-keep.md) | ⭐ 11.7k | AI/ML |
+| 2 | [usememos/memos](./frontend/usememos-memos.md) | ⭐ 59.1k | Frontend |
+| 3 | [nautechsystems/nautilus_trader](./crypto/nautechsystems-nautilus-trader.md) | ⭐ 22.2k | Crypto |
 | 4 | [XIU2/TrackersListCollection](./aiml/xiu2-trackerslistcollection.md) | ⭐ 31.1k | AI/ML |
-| 5 | [frappe/frappe](./aiml/frappe-frappe.md) | ⭐ 10k | AI/ML |
-| 6 | [coder/coder](./aiml/coder-coder.md) | ⭐ 13k | AI/ML |
-| 7 | [h2oai/h2o-3](./aiml/h2oai-h2o-3.md) | ⭐ 7.5k | AI/ML |
-| 8 | [meshery/meshery](./frontend/meshery-meshery.md) | ⭐ 10.2k | Frontend |
-| 9 | [matplotlib/matplotlib](./data/matplotlib-matplotlib.md) | ⭐ 22.7k | Data |
-| 10 | [feast-dev/feast](./aiml/feast-dev-feast.md) | ⭐ 7k | AI/ML |
+| 5 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 110.7k | AI/ML |
+| 6 | [farion1231/cc-switch](./aiml/farion1231-cc-switch.md) | ⭐ 49.2k | AI/ML |
+| 7 | [DioxusLabs/dioxus](./aiml/dioxuslabs-dioxus.md) | ⭐ 35.8k | AI/ML |
+| 8 | [microsoft/mcp-for-beginners](./aiml/microsoft-mcp-for-beginners.md) | ⭐ 15.9k | AI/ML |
+| 9 | [azerothcore/azerothcore-wotlk](./backend/azerothcore-azerothcore-wotlk.md) | ⭐ 8.2k | Backend |
+| 10 | [vxcontrol/pentagi](./aiml/vxcontrol-pentagi.md) | ⭐ 15.4k | AI/ML |
 
 ## 🚀 How it works
 

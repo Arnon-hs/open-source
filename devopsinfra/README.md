@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**17 projects** in this category.
+**20 projects** in this category.
 
 ## Projects
 
@@ -19,12 +19,15 @@
 | 9 | [hashicorp/terraform-provider-azurerm](./hashicorp-terraform-provider-azurerm.md) | ⭐ 4.9k | Go | 94/100 |
 | 10 | [docker-library/docs](./docker-library-docs.md) | ⭐ 5.3k | Shell | 91/100 |
 | 11 | [docker-library/official-images](./docker-library-official-images.md) | ⭐ 6.9k | Shell | 90/100 |
-| 12 | [aws-controllers-k8s/community](./aws-controllers-k8s-community.md) | ⭐ 2.6k | — | 65/100 |
-| 13 | [opensearch-project/opensearch-k8s-operator](./opensearch-project-opensearch-k8s-operator.md) | ⭐ 541 | Go | 59/100 |
-| 14 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
-| 15 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 895 | Go | 56/100 |
-| 16 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ — | — | 39/100 |
-| 17 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ — | — | 36/100 |
+| 12 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 77/100 |
+| 13 | [microsoft/retina](./microsoft-retina.md) | ⭐ 3.1k | Go | 71/100 |
+| 14 | [aws-controllers-k8s/community](./aws-controllers-k8s-community.md) | ⭐ 2.6k | — | 65/100 |
+| 15 | [cr0hn/dockerscan](./cr0hn-dockerscan.md) | ⭐ 1.5k | Go | 62/100 |
+| 16 | [opensearch-project/opensearch-k8s-operator](./opensearch-project-opensearch-k8s-operator.md) | ⭐ 541 | Go | 59/100 |
+| 17 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
+| 18 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 895 | Go | 56/100 |
+| 19 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ — | — | 39/100 |
+| 20 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ — | — | 36/100 |
 
 ---
 
