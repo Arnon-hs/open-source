@@ -25,7 +25,7 @@ Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-This project, bbernhard/signal-cli-rest-api, provides a Dockerized REST API for the Signal Messenger, a secure and private communication platform. It enables developers to easily integrate Signal's functionality into their applications, providing a seamless and secure way to send and receive messages. By leveraging this project, users can build Signal-enabled services and applications with minimal setup and configuration.
+The "signal-cli-rest-api" project provides a Dockerized REST API for the Signal Messenger platform, allowing developers to interact with Signal's messaging functionality programmatically. This open-source project enables users to create a robust backend for integrating Signal into their applications or services. With signal-cli-rest-api, developers can build and deploy scalable, Signal-powered solutions with ease.
 
 ---
 

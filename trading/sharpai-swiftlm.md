@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 524 |
+| ⭐ **Stars** | 525 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 54/100 |
@@ -25,9 +25,9 @@ Trading · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the SharpAI/SwiftLM project:
+Here's a brief summary of the project:
 
-SharpAI/SwiftLM is an open-source native machine learning (ML) inference server designed for Apple Silicon devices. It enables seamless Large Language Model (LLM) inference, supporting OpenAI's API and optimized for massive models exceeding 100 billion parameters, with features like SSD streaming and TurboQuant KV cache compression. This project can be used to power trading and AI/ML applications on macOS and iOS devices, including iPhones.
+SharpAI/SwiftLM is an open-source, native machine learning inference server for Apple Silicon devices, optimized for high-performance inference of large language models. It supports the OpenAI-compatible API and features advanced techniques such as SSD streaming and TurboQuant KV cache compression for efficient processing. This project enables the development of AI-powered applications on macOS and iOS devices, including iPhone apps.
 
 ---
 

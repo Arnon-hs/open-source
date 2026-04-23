@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 559 |
-| 🍴 **Forks** | 22 |
+| 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
@@ -25,7 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-Boltffi is an open-source project that generates high-performance multi-language bindings for Rust, significantly outpacing existing solutions like UniFFI. It enables developers to seamlessly integrate Rust libraries with popular languages such as Swift and Kotlin, creating a native experience for mobile applications. This innovative tool streamlines the process of cross-language development, accelerating development and deployment of mobile apps.
+Boltffi is a high-performance, open-source project that generates multi-language bindings for Rust, offering speeds up to 1,000x faster than UniFFI. This tool enables developers to seamlessly integrate Rust libraries into mobile applications, such as those built with Swift, Kotlin, and more, creating a native-like experience for users. By utilizing Boltffi, developers can accelerate their development process and create more efficient mobile applications.
 
 ---
 

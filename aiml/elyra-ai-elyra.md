@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Elyra is an open-source project that enhances JupyterLab with an AI-centric approach, providing a seamless and efficient environment for data scientists and AI practitioners. This extension aims to simplify the development and deployment of AI models, making it easier to integrate AI capabilities into various workflows. By leveraging Elyra, users can streamline their AI pipelines and accelerate innovation in the field of artificial intelligence.
+Elyra is an open-source project that extends JupyterLab with an AI-centric approach, enhancing data science workflows for machine learning and artificial intelligence. By integrating AI-centric features into JupyterLab, Elyra streamlines data preparation, model development, and deployment processes for data scientists and AI practitioners. This extension aims to simplify the AI development lifecycle and improve collaboration within data-intensive projects.
 
 ---
 

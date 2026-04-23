@@ -25,7 +25,7 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-AIOS, the AI Agent Operating System, is an open-source project that aims to provide a comprehensive platform for developing and managing AI agents. This mobile-focused framework enables users to create, deploy, and manage intelligent agents with ease, making it an ideal solution for a wide range of applications, from smart homes to autonomous systems. By providing a standardized operating system for AI agents, AIOS promotes interoperability and scalability.
+AIOS (AI Agent Operating System) is an open-source project that aims to provide a robust and scalable platform for developing intelligent agents using AI and machine learning technologies. This mobile-focused operating system enables the creation of autonomous applications that can interact with their environment, making decisions and adapting to new situations. By providing a standardized framework, AIOS facilitates the development and deployment of AI-powered agents across various platforms.
 
 ---
 

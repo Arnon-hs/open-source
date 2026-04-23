@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The fynnfluegge/agtx project is an open-source platform that serves as a digital blackboard for coding agents. It streamlines the development process, allowing users to go from idea to merge with minimal manual effort. By automating key tasks, this AI/ML tool enables developers to focus on more complex and creative aspects of coding.
+The agtx project is an open-source platform that serves as a blackboard for coding agents, streamlining the process of developing and merging AI/ML models from initial idea to deployment. This innovative tool aims to automate and simplify the workflow, enabling users to focus on their projects without manual data management. By providing a hands-free experience, agtx enhances productivity and efficiency in AI/ML development.
 
 ---
 

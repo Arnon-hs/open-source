@@ -25,9 +25,9 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary:
+Here's a brief summary for the intentee/paddler open-source project:
 
-Intentee/Paddler is an open-source platform for scaling and serving Large Language Models (LLMs) and Vision-Language Models (VLMs). Built around the ggml ecosystem, it offers a simple and efficient solution for self-hosting AI models at scale, running on both CPU and GPU architectures. As a load balancer and serving platform, Intentee/Paddler provides a streamlined alternative to existing solutions like llm-d and Docker Model Runner.
+"Intentee/Paddler is an open-source load balancer and serving platform designed for scaling self-hosted Large Language Models (LLMs) and Vision Language Models (VLMs). Built on the ggml ecosystem, this project simplifies deployments and runs efficiently on both CPU and GPU architectures. It offers a more streamlined alternative to similar projects like llm-d and Docker Model Runner."
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the LandSandBoat/server project:
-
-LandSandBoat is an open-source server emulator for the popular MMORPG Final Fantasy XI. This project allows users to create and manage a custom Final Fantasy XI server, providing a flexible and customizable backend solution for the game. By leveraging open-source technology, LandSandBoat empowers developers to contribute to and modify the server emulator, enhancing the overall gaming experience.
+The LandSandBoat/server project is an open-source server emulator for Final Fantasy XI, a classic massively multiplayer online role-playing game (MMORPG). This project allows for the recreation and simulation of FFXI's game world, enabling players to experience the game in a new light. By leveraging AI/ML and backend technologies, LandSandBoat aims to provide a unique and immersive gaming experience.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Altimate-code is an open-source agentic data engineering harness that streamlines data operations across various cloud warehouses and databases. With over 100 tools and support for 10 warehouses, it offers a comprehensive platform for data engineers and analysts to automate, manage, and optimize their workflow. Leveraging AI capabilities, Altimate-code enhances productivity and efficiency in data engineering and analysis tasks.
+Altimate-code is an open-source data engineering platform that leverages AI to streamline processes across multiple cloud warehouses and databases. This comprehensive framework integrates over 100 tools and supports more than 10 different warehouse systems, providing a unified interface for data engineers. By harnessing the power of AI, Altimate-code simplifies data operations and enhances productivity.
 
 ---
 

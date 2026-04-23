@@ -1,6 +1,6 @@
 # restatedev/restate
 
-[![Stars](https://img.shields.io/github/stars/restatedev/restate?style=flat-square&color=yellow)](https://github.com/restatedev/restate/stargazers) [![Forks](https://img.shields.io/github/forks/restatedev/restate?style=flat-square&color=blue)](https://github.com/restatedev/restate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/restatedev/restate?style=flat-square&color=yellow)](https://github.com/restatedev/restate/stargazers) [![Forks](https://img.shields.io/github/forks/restatedev/restate?style=flat-square&color=blue)](https://github.com/restatedev/restate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 145 |
+| 🍴 **Forks** | 146 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

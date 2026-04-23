@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the dalance/procs project:
-
-dalance/procs is a modern, Rust-based replacement for the traditional `ps` command, designed to provide a more efficient and effective way to monitor and manage processes on Linux systems. Built with a focus on performance and usability, procs aims to become a go-to tool for system administrators and developers alike. By leveraging Rust's modern language features, procs delivers a faster and more reliable experience compared to its traditional counterparts.
+The dalance/procs project is an open-source, modern replacement for the traditional 'ps' command, designed to provide a more efficient and effective way to manage system processes. Written in Rust, this tool offers a robust and scalable solution for system administrators and developers alike, allowing them to monitor and manage processes with ease. By leveraging Rust's performance and reliability, procs aims to become a go-to alternative for the classic 'ps' command.
 
 ---
 

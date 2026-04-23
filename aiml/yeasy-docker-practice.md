@@ -25,9 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the project in English:
+Here's a brief summary for the yeasy/docker_practice project:
 
-This open-source project, "yeasy/docker_practice", offers a comprehensive learning experience in Docker and container technologies. Through real-world examples and DevOps practices, it helps users understand and master the latest Docker container techniques. By following this project, users can gain hands-on experience and develop practical skills in containerization and orchestration.
+This open-source project provides real-world practice and learning opportunities for Docker and container technologies. Through hands-on exercises and real DevOps scenarios, users can gain a deeper understanding of the latest Docker container techniques and best practices. This project is ideal for developers, DevOps engineers, and anyone interested in mastering containerization.
 
 ---
 

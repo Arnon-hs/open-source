@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Aider is an open-source, AI-powered pair programming tool designed to enhance development efficiency in the terminal. It utilizes artificial intelligence to provide real-time suggestions and code completion, allowing developers to focus on the logic and design of their projects. This innovative tool streamlines the coding process, saving time and increasing productivity.
+The aider project is an open-source tool that brings AI-powered pair programming capabilities directly to your terminal. With aider, developers can leverage AI assistance in real-time to write code more efficiently and effectively. This innovative DevTool streamlines the coding process by providing intelligent suggestions and support.
 
 ---
 

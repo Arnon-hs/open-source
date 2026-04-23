@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Hitobito is an open-source web application designed to efficiently manage complex group hierarchies, including member relationships and event organization. It offers a comprehensive platform for managing various aspects of groups, such as membership, events, and more. This versatile tool enables streamlined group management and collaboration.
+Here's a brief summary for the hitobito/hitobito project:
+
+Hitobito is an open-source web application designed to manage complex group hierarchies, facilitating the organization and coordination of members, events, and various other aspects. This versatile tool is built to cater to the needs of groups seeking robust management and collaboration capabilities. With its feature-rich functionality, hitobito provides an efficient solution for groups of all sizes and types.
 
 ---
 

@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Audiobookshelf is a self-hosted audiobook and podcast server designed for users to manage and stream their audio content from a centralized platform. This open-source project allows users to host their own library of audiobooks and podcasts, providing a convenient and private way to access their favorite content. By hosting their own server, users can maintain control over their audio collection and reduce reliance on third-party services.
+The advplyr/audiobookshelf project is an open-source, self-hosted platform for managing and hosting audiobooks and podcasts. It allows users to organize, stream, and download their favorite audio content in a centralized and secure environment, providing a personalized experience without relying on cloud-based services. This solution caters to audiobook enthusiasts and podcast fans who value data ownership and customization.
 
 ---
 

@@ -25,7 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-Nextcloud Talk Android is an open-source mobile application that enables users to make video and audio calls directly through their Nextcloud account on Android devices. This application provides users with a seamless and secure way to communicate with others, leveraging the power of Nextcloud's cloud-based infrastructure. With Nextcloud Talk Android, users can stay connected with friends, family, and colleagues from anywhere, at any time.
+Nextcloud Talk Android is an open-source project that enables seamless video and audio calling capabilities on Android devices, directly integrated with the Nextcloud platform. This native mobile application allows users to initiate and participate in high-quality calls with their contacts, leveraging the secure and private environment of Nextcloud. By using the Nextcloud Talk Android app, users can enjoy convenient and secure voice and video communication on-the-go.
 
 ---
 

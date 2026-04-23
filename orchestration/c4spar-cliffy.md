@@ -25,9 +25,9 @@ Orchestration · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project "cliffy":
+Here's a brief summary for the c4spar/cliffy project:
 
-Cliffy is an open-source, TypeScript-first command-line toolkit that enables developers to build complex and interactive command-line interfaces (CLIs) with ease. This versatile toolkit features a command framework, argument parser, and interactive prompts, making it suitable for a wide range of applications. With its extensive set of features, including tables and ANSI utilities, Cliffy streamlines the process of creating robust and user-friendly CLIs.
+Cliffy is an open-source, TypeScript-first command-line toolkit designed to simplify the development of complex CLIs. It provides a comprehensive framework for building CLIs with features like command parsing, interactive prompts, and ANSI utilities, making it an ideal choice for developers who need to create robust and user-friendly command-line interfaces. With its runtime-agnostic architecture, Cliffy can be used to build CLIs that run seamlessly across various environments.
 
 ---
 

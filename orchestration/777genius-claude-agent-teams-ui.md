@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 648 |
+| ⭐ **Stars** | 649 |
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Claude Agent Teams UI is an open-source project that streamlines teamwork and task management between AI agents and human CTOs. This tool utilizes the Codex/Claude platform to enable agents to autonomously handle tasks, collaborate, and review each other's work, while allowing the CTO to oversee progress through a kanban board interface. The project aims to optimize workflow and productivity in complex, high-level command-driven systems.
+Claude Agent Teams UI is an open-source project that enables teams to collaborate more efficiently through the use of AI-powered agents. This project utilizes Codex (Claude) to orchestrate tasks, allowing agents to communicate, review, and handle tasks independently while the CTO provides high-level oversight. The interface is showcased through a kanban board, facilitating streamlined team management.
 
 ---
 

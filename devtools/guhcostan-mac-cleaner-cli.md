@@ -27,7 +27,7 @@ DevTools
 
 Here's a brief summary for the guhcostan/mac-cleaner-cli project:
 
-Mac Cleaner CLI is an open-source tool designed to help macOS users free up disk space by clearing unnecessary files, including caches, logs, Homebrew, and Xcode junk. This DevTools project provides a simple and automated way to declutter your Mac and optimize its performance. By using Mac Cleaner CLI, you can quickly reclaim storage space without manually searching for and deleting unwanted files.
+The guhcostan/mac-cleaner-cli is an open-source CLI tool for macOS that helps free up disk space by efficiently clearing out caches, logs, Homebrew, and Xcode junk. This user-friendly tool simplifies the process of decluttering your Mac, making it ideal for developers and power users looking to optimize their system performance. By leveraging this tool, users can easily reclaim valuable storage space on their Mac.
 
 ---
 

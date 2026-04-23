@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the FastFlowLM project:
+Here's a brief summary for the open-source project:
 
-FastFlowLM is an open-source project that enables the efficient deployment of Large Language Models (LLMs) on AMD Ryzen AI NPUs, significantly reducing setup times to just minutes. Built with a focus on deep optimization for AMD's NPUs, it provides a powerful and streamlined solution for AI/ML applications. This project draws inspiration from Ollama, but is purpose-built to maximize performance on AMD-based hardware.
+FastFlowLM is an open-source project that enables the efficient deployment of Large Language Models (LLMs) on AMD Ryzen AI NPUs. Built with performance in mind, it offers a streamlined experience for running LLMs on these specialized chips, rivaling the capabilities of similar solutions like Ollama. This project caters to developers and researchers seeking to harness the power of AMD NPUs for AI and ML applications.
 
 ---
 

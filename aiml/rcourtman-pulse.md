@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Pulse is an open-source project that provides real-time monitoring for Proxmox, Docker, and Kubernetes, offering AI-powered insights to help users optimize their infrastructure. Its unified dashboard delivers smart alerts and intuitive visualizations, empowering administrators to quickly identify and address potential issues. By leveraging AI-driven analytics, Pulse streamlines monitoring and troubleshooting for multi-cloud environments.
+Here is a brief summary for the rcourtman/Pulse project:
+
+Pulse is an open-source project that provides real-time monitoring for Proxmox, Docker, and Kubernetes environments. It leverages AI-powered insights and smart alerts to enable proactive issue detection and resolution. With a unified, visually appealing dashboard, Pulse empowers users to effectively manage and optimize their hybrid cloud infrastructure.
 
 ---
 

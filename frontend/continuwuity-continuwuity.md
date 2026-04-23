@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 734 |
+| ⭐ **Stars** | 733 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
@@ -25,9 +25,9 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the continuwuity project:
+Here's a brief summary of the open-source project:
 
-Continuwuity is an open-source project that serves as the official community-driven continuation of Conduit and Conduwuit, aiming to enhance user experience and introduce innovative features. This community-driven initiative combines frontend and backend development to create a seamless and user-friendly experience. Through open collaboration, continuwuity strives to build a robust and feature-rich platform.
+Continuwity is a community-driven continuation of the conduwuit and Conduit projects, prioritizing user experience and introducing new features to enhance functionality. This open-source initiative combines frontend and backend expertise to create a robust and user-friendly platform. By focusing on user experience and innovation, Continuwity aims to provide a seamless and efficient experience for its users.
 
 ---
 

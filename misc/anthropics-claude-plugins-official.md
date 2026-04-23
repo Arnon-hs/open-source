@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This project, 'anthropics/claude-plugins-official', is a curated collection of high-quality plugins for Claude, an AI model. The repository is managed by Anthropic and serves as an official directory for users to discover and utilize a wide range of plugins that enhance Claude's capabilities. This directory aims to promote quality and consistency among plugins.
+The anthropic/claude-plugins-official repository is an open-source collection of high-quality plugins for Claude, a large language model developed by Anthropic. This official directory provides users with a curated selection of plugins that can be easily integrated into their Claude experiences, enhancing its capabilities and functionality. By contributing to this repository, developers and users can collaborate to create and share plugins that bring more value to the Claude ecosystem.
 
 ---
 

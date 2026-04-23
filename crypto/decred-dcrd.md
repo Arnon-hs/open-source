@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Decred/dcrd is an open-source project that provides the Decred daemon, a Go-based (golang) implementation for the Decred cryptocurrency network. This daemon serves as the core component for managing and validating transactions within the Decred ecosystem, utilizing advanced cryptographic techniques to ensure network security. By leveraging Go, dcrd aims to provide a fast, reliable, and scalable solution for the Decred community.
+Decred/dcrd is an open-source, decentralized cryptocurrency daemon written in Go (golang). It serves as the core component for the Decred network, processing and verifying transactions while maintaining the blockchain's integrity. This project enables secure and decentralized transactions, contributing to the robustness of the Decred ecosystem.
 
 ---
 

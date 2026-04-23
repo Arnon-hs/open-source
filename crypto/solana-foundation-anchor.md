@@ -25,9 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Anchor is an open-source, Solana-based program framework that enables developers to build, deploy, and manage scalable web applications with ease. Leveraging the Solana blockchain, Anchor provides a seamless development experience for creating decentralized applications with a focus on performance, security, and user experience. By streamlining the development process, Anchor empowers developers to bring their innovative ideas to life on the Solana network.
+The Anchor framework is an open-source development tool created by the Solana Foundation, designed to simplify the process of building and deploying robust, scalable, and secure Solana programs. This framework provides a comprehensive set of tools and features to streamline the development lifecycle, making it easier for developers to create and deploy high-quality Solana programs. By leveraging Anchor, developers can focus on building innovative applications on the Solana blockchain.
 
 ---
 
