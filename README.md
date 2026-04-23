@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **1984** |
+| 🗂️ **Total projects** | **2076** |
 | 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,36 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 747 | [Browse →](./aiml/) |
-| 📦 **Misc** | 331 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 223 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 176 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 121 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 98 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 80 | [Browse →](./crypto/) |
-| 📊 **Data** | 59 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 45 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 779 | [Browse →](./aiml/) |
+| 📦 **Misc** | 350 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 233 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 185 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 128 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 102 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 84 | [Browse →](./crypto/) |
+| 📊 **Data** | 61 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 47 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 29 | [Browse →](./mobile/) |
 | 💳 **Payments** | 24 | [Browse →](./payments/) |
 | 📈 **Trading** | 22 | [Browse →](./trading/) |
-| 🔐 **Security** | 18 | [Browse →](./security/) |
+| 🔐 **Security** | 20 | [Browse →](./security/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
-| ✨ **Design** | 3 | [Browse →](./design/) |
+| ✨ **Design** | 4 | [Browse →](./design/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Snailclimb/JavaGuide](./aiml/snailclimb-javaguide.md) | ⭐ 155.2k | AI/ML |
-| 2 | [microsoft/agent-framework](./orchestration/microsoft-agent-framework.md) | ⭐ 9.7k | Orchestration |
-| 3 | [apache/superset](./frontend/apache-superset.md) | ⭐ 72.6k | Frontend |
-| 4 | [payloadcms/payload](./frontend/payloadcms-payload.md) | ⭐ 42k | Frontend |
-| 5 | [skypilot-org/skypilot](./aiml/skypilot-org-skypilot.md) | ⭐ 9.9k | AI/ML |
-| 6 | [saltstack/salt](./devopsinfra/saltstack-salt.md) | ⭐ 15.4k | DevOps & Infra |
-| 7 | [seaweedfs/seaweedfs](./aiml/seaweedfs-seaweedfs.md) | ⭐ 31.7k | AI/ML |
-| 8 | [falconry/falcon](./backend/falconry-falcon.md) | ⭐ 9.8k | Backend |
-| 9 | [Anionex/banana-slides](./aiml/anionex-banana-slides.md) | ⭐ 14.1k | AI/ML |
-| 10 | [streamlink/streamlink](./aiml/streamlink-streamlink.md) | ⭐ 11.4k | AI/ML |
+| 1 | [spree/spree](./backend/spree-spree.md) | ⭐ 15.4k | Backend |
+| 2 | [PrefectHQ/prefect](./orchestration/prefecthq-prefect.md) | ⭐ 22.2k | Orchestration |
+| 3 | [giampaolo/psutil](./misc/giampaolo-psutil.md) | ⭐ 11.1k | Misc |
+| 4 | [Snailclimb/JavaGuide](./aiml/snailclimb-javaguide.md) | ⭐ 155.2k | AI/ML |
+| 5 | [ipython/ipython](./aiml/ipython-ipython.md) | ⭐ 16.7k | AI/ML |
+| 6 | [shanraisshan/claude-code-best-practice](./orchestration/shanraisshan-claude-code-best-practice.md) | ⭐ 47.6k | Orchestration |
+| 7 | [DNSCrypt/dnscrypt-proxy](./misc/dnscrypt-dnscrypt-proxy.md) | ⭐ 13.2k | Misc |
+| 8 | [gofiber/fiber](./backend/gofiber-fiber.md) | ⭐ 39.6k | Backend |
+| 9 | [apache/hudi](./data/apache-hudi.md) | ⭐ 6.1k | Data |
+| 10 | [TriliumNext/Trilium](./frontend/triliumnext-trilium.md) | ⭐ 35.7k | Frontend |
 
 ## 🚀 How it works
 

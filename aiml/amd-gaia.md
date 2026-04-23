@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The amd/gaia project is an open-source initiative that enables users to build and deploy AI agents on their personal computers. This project utilizes AI and machine learning technologies to create customizable and versatile AI agents that can be tailored to various applications and use cases. By providing a user-friendly interface for building and managing AI agents, amd/gaia aims to democratize AI development and make it accessible to a broader audience.
+The amd/gaia project is an open-source initiative focused on enabling developers to create artificial intelligence agents that can run on personal computers. By leveraging this platform, users can design, build, and deploy AI models tailored to their specific needs, fostering innovation in the field of AI and machine learning. This project has the potential to democratize AI development and empower a wider range of users to harness the power of AI.
 
 ---
 

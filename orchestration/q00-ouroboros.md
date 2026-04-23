@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Q00/ouroboros is an open-source project that empowers users to transition from open-ended prompts to precise specifications, enhancing the efficiency and clarity of interactions with AI and machine learning models. This project provides a platform for orchestration and development, streamlining the process of working with these technologies. By focusing on specification over prompts, Q00/ouroboros aims to improve the accuracy and reliability of AI-driven outcomes.
+Q00/ouroboros is an open-source project that prioritizes specifying over prompting, revolutionizing the way developers interact with AI and ML technologies. By emphasizing precision over generality, this project enables users to achieve more accurate and efficient results in their workflows. It is particularly useful for those working in the fields of orchestration and development tools, where clarity and precision are crucial.
 
 ---
 

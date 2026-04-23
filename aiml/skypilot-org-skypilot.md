@@ -25,9 +25,7 @@ AI/ML · DevOps/Infra · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Skypilot is an open-source platform that enables users to run, manage, and scale AI workloads across various AI infrastructures, including Kubernetes, Slurm, and multiple cloud platforms. With Skypilot, users can access and manage all their AI compute resources from a single system, simplifying the process of deploying and scaling AI workloads. This unified management system allows for greater flexibility and efficiency in AI infrastructure management.
+Skypilot is an open-source project that enables users to manage and scale AI workloads across various AI infrastructures, including cloud services, on-premises environments, and container orchestration platforms like Kubernetes. This unified system provides a single interface for accessing and managing AI compute resources, streamlining the process of deploying and scaling AI applications. Whether using cloud services, on-premises infrastructure, or other AI infrastructure, Skypilot provides a flexible and scalable solution for AI workloads.
 
 ---
 

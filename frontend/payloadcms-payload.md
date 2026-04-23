@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Payload is a comprehensive, open-source framework that empowers developers with a full-stack Next.js solution for building robust applications. This TypeScript-based framework provides an instant backend and admin panel, allowing users to leverage its capabilities as a headless CMS or for creating powerful applications. With Payload, developers can streamline their development process and create scalable, data-driven solutions.
+Payload is an open-source, full-stack Next.js framework that empowers developers with instant backend capabilities and a comprehensive admin panel. This TypeScript-based framework enables users to leverage it as a headless CMS or a powerful tool for building scalable applications. By utilizing Payload, developers can streamline their development process and create complex, data-driven projects with ease.
 
 ---
 

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 662 |
+| ⭐ **Stars** | 663 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 55/100 |
@@ -25,7 +25,7 @@ Backend · Data · Security
 
 ## 📝 Summary
 
-The Hoop project is an open-source initiative that provides automated access and data protection capabilities. It aims to streamline security and data management processes, enabling developers to efficiently safeguard sensitive information and control access to their applications. With Hoop, users can maintain robust data protection and access controls with ease.
+Hoop is an open-source project that aims to provide automated access and data protection. It offers a secure solution for managing access and data, helping developers to safeguard sensitive information. By leveraging Hoop, organizations can efficiently control access and protect their data from potential threats.
 
 ---
 

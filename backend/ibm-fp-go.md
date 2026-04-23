@@ -27,7 +27,7 @@ Backend · Data · Marketing
 
 Here's a brief summary for the IBM/fp-go project:
 
-IBM/fp-go is a functional programming library for Go, providing a composable API inspired by fp-ts. This library offers a range of monads, including Option, Either, Result, and IO, as well as optics for immutable data manipulation. It enables developers to write clean, expressive, and efficient code using Functor, Applicative, and Monad abstractions with support for do-notation-style programming.
+IBM/fp-go is an open-source functional programming library for Go, designed to provide a clean and composable API inspired by fp-ts. It offers a range of monads, including Option, Either, and IO, as well as optics for immutable data manipulation. This library supports key functional programming abstractions like Functor, Applicative, and Monad, making it easier to write concise and readable code.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend · DevTools · Security
 
 ## 📝 Summary
 
-The OWASP VulnerableApp Project, hosted on GitHub as SasanLabs/VulnerableApp, is an open-source application designed to be intentionally vulnerable to various web security threats. Its primary purpose is to serve as a testing ground for security researchers, developers, and students to practice identifying and reproducing vulnerabilities. By breaking, scanning, and improving this app, users can enhance their skills in web application security.
+The OWASP VulnerableApp Project, hosted on SasanLabs/VulnerableApp, is an open-source initiative designed to facilitate learning and improvement in web application security. This project provides a vulnerable application that developers and security professionals can use to practice and reproduce common security vulnerabilities, enabling better understanding and mitigation of attacks. By breaking, scanning, and reproducing vulnerabilities, users can improve their skills and contribute to the project's goals.
 
 ---
 

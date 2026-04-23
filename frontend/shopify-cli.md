@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Shopify/cli is an open-source project that enables developers to build and manage apps, themes, and hydrogen storefronts for the Shopify platform. This CLI tool provides a comprehensive set of commands and tools to streamline the development process, making it easier to create and deploy Shopify applications. With Shopify/cli, developers can focus on building innovative solutions for Shopify merchants.
+Shopify/cli is an open-source project that enables developers to build and manage various Shopify applications, including themes and hydrogen storefronts. This project provides a command-line interface (CLI) that streamlines the development process, making it easier to create and deploy Shopify solutions. With Shopify/cli, developers can efficiently build, test, and deploy Shopify apps and themes.
 
 ---
 

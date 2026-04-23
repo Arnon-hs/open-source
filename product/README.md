@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [opf/openproject](./opf-openproject.md) | ⭐ 14.9k | Ruby | 100/100 |
-| 2 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132k | C# | 100/100 |
+| 1 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132k | C# | 100/100 |
+| 2 | [opf/openproject](./opf-openproject.md) | ⭐ 14.9k | Ruby | 100/100 |
 | 3 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.3k | Clojure | 100/100 |
 | 4 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9k | Python | 92/100 |
 | 5 | [liuchong/awesome-roadmaps](./liuchong-awesome-roadmaps.md) | ⭐ 6.9k | — | 88/100 |

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-DokuWiki is an open-source, user-friendly wiki engine that allows users to create, edit, and share content in a collaborative environment. With a strong focus on simplicity and ease of use, DokuWiki provides a flexible platform for building and managing online knowledge bases, documentation, and communities. Its open-source nature and customizable design make it an ideal choice for individuals and organizations seeking a reliable and adaptable wiki solution.
+DokuWiki is a free, open-source wiki engine designed for creating and managing collaborative online content. With its user-friendly interface and extensive customization options, DokuWiki enables users to easily create and edit wiki pages, making it a popular choice for personal, educational, and professional projects. It is written in PHP and supports various plugins and themes for enhanced functionality.
 
 ---
 

@@ -25,9 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Discordo is a free and open-source Discord terminal client that provides a lightweight, secure, and feature-rich interface for interacting with the popular Discord platform from the command line. This TUI (Text User Interface) client offers a seamless experience for those who prefer a terminal-based interface. With its robust feature set and emphasis on security, Discordo is an ideal choice for power users and developers.
+The ayn2op/discordo project is an open-source, lightweight Discord terminal client that offers a secure and feature-rich user interface for interacting with Discord from the command line. This TUI client provides a unique alternative to traditional Discord desktop applications, catering to users who prefer a terminal-based experience. By leveraging Discord's API, it enables seamless access to various features and functionalities of the popular communication platform.
 
 ---
 

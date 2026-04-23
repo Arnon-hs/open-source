@@ -1,6 +1,6 @@
 # pierrecomputer/pierre
 
-[![Stars](https://img.shields.io/github/stars/pierrecomputer/pierre?style=flat-square&color=yellow)](https://github.com/pierrecomputer/pierre/stargazers) [![Forks](https://img.shields.io/github/forks/pierrecomputer/pierre?style=flat-square&color=blue)](https://github.com/pierrecomputer/pierre/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pierrecomputer/pierre?style=flat-square&color=yellow)](https://github.com/pierrecomputer/pierre/stargazers) [![Forks](https://img.shields.io/github/forks/pierrecomputer/pierre?style=flat-square&color=blue)](https://github.com/pierrecomputer/pierre/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > pierre’s open source code
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 72 |
+| ⭐ **Stars** | 2.9k |
+| 🍴 **Forks** | 73 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

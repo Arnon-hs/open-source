@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary:
+Here's a brief summary of the luccahuguet/yazelix project:
 
-Yazelix is an open-source project that enhances your terminal experience by integrating a file tree with Helix (or other compatible editors), allowing for an IDE-like interface within the terminal. This integration is facilitated through Zellij, Nushell, and Lua scripting, providing a powerful and customizable environment. With only Nix as a dependency, Yazelix offers a lightweight and flexible solution for terminal-based development.
+Yazelix is an open-source project that combines Zellij, Yazi, Nushell, and Lua scripting to create an IDE-like experience in the terminal. It adds a File Tree feature to Helix (or other preferred editors), allowing users to navigate and manage files with ease. This project requires only Nix as a dependency, making it a lightweight and flexible solution for terminal-based development.
 
 ---
 

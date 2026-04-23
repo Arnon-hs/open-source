@@ -25,9 +25,7 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the skales open-source project:
-
-Skales is a free, open-source AI desktop agent that provides a local, user-friendly interface for Windows, macOS, and Linux users. With features including autonomous coding, multi-agent teams, and desktop automation, Skales enables users to harness the power of 15+ AI providers directly from their desktop without requiring Docker or terminal expertise. This versatile tool aims to streamline AI/ML tasks and simplify DevOps operations.
+Skales is an open-source, local AI desktop agent available for Windows, macOS, and Linux. This user-friendly tool enables users to create multi-agent teams, automate desktop tasks, and integrate with over 15 AI providers, all without requiring Docker or terminal expertise. Skales offers a range of features, including autonomous coding and a "Desktop Buddy" companion, making it a versatile solution for developers and non-technical users alike.
 
 ---
 

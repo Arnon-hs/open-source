@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 19.6k |
+| ⭐ **Stars** | 19.7k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 94/100 |
@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The Autonomous Company Operating System (Suna) is an open-source project that aims to provide a comprehensive framework for developing and deploying AI-driven company management systems. It enables organizations to automate various tasks, optimize processes, and make data-driven decisions, ultimately leading to improved efficiency and productivity. This innovative platform is built on cutting-edge AI and machine learning technologies to create a more agile and responsive business ecosystem.
+Here's a brief summary for the suna project:
+
+The Autonomous Company Operating System, developed by kortix-ai/suna, is an open-source AI/ML framework designed to automate business operations and decision-making processes. This innovative system utilizes advanced artificial intelligence and machine learning capabilities to streamline company workflows, enhance efficiency, and drive informed decision-making. By leveraging the power of automation, suna aims to revolutionize the way businesses operate.
 
 ---
 

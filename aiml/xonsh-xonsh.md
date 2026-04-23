@@ -25,7 +25,9 @@ AI/ML · Data · Security
 
 ## 📝 Summary
 
-Xonsh is an open-source Python-powered shell that offers a full range of features and is compatible across multiple platforms. This cross-platform shell is also designed to be AI-friendly, making it a versatile tool for various tasks and applications. With its robust capabilities and open-source nature, xonsh provides a flexible and customizable solution for users and developers alike.
+Here's a brief summary for the open-source project xonsh:
+
+Xonsh is an open-source, Python-powered shell that offers a full range of features and tools. This cross-platform shell is designed to be user-friendly and AI-friendly, making it an ideal choice for developers and data scientists. With its robust set of tools and capabilities, xonsh provides a powerful platform for a variety of applications, including AI/ML, data analysis, and security.
 
 ---
 

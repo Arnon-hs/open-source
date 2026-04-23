@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Google's open-source benchmark library is a powerful tool designed to help developers write and run precise, reliable, and repeatable microbenchmarks. This library provides a simple and flexible framework for measuring the performance of specific code snippets, allowing for accurate analysis and optimization of critical sections of code. By using this library, developers can compare the performance of different implementations and identify areas for improvement.
+The Google Benchmark project is an open-source, microbenchmark support library designed to help developers create and execute high-performance benchmarks for their code. This library provides a simple and intuitive API for users to write, run, and analyze benchmarks, allowing for accurate and reliable performance measurements. With Google Benchmark, developers can easily compare the performance of different implementations, identify bottlenecks, and optimize their code for better efficiency.
 
 ---
 

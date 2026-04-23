@@ -25,7 +25,7 @@ Crypto
 
 ## 📝 Summary
 
-The Trezor Firmware Monorepo is an open-source project that serves as a centralized repository for the firmware of the Trezor cryptocurrency hardware wallets. This project aims to provide a secure and reliable platform for users to manage their cryptocurrency assets. By maintaining the firmware in a monorepo, the project enables collaboration and ensures the consistency of the codebase.
+The Trezor Firmware Monorepo is an open-source project that centrally manages the firmware for Trezor cryptocurrency hardware wallets. This monorepo provides a unified platform for maintaining and updating the firmware, ensuring the security and functionality of Trezor devices. By open-sourcing the firmware, Trezor promotes transparency and community involvement in the development process.
 
 ---
 

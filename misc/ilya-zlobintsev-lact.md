@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the LACT project:
-
-LACT is an open-source tool designed to simplify the process of configuring and monitoring Linux systems' GPU components. This utility provides a user-friendly interface to manage GPU settings, troubleshoot issues, and monitor performance metrics. By streamlining GPU management, LACT aims to enhance the overall Linux experience for users and administrators.
+LACT (Linux GPU Configuration And Monitoring Tool) is an open-source project that provides a comprehensive solution for managing and monitoring Linux GPU configurations. This tool aims to simplify the process of configuring and optimizing GPU settings, allowing users to maximize their system's performance and efficiency. With LACT, users can easily monitor and adjust their GPU settings to suit their specific needs.
 
 ---
 

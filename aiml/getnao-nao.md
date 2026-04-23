@@ -25,9 +25,9 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the nao project:
+Here's a brief summary of the nao project:
 
-nao is an open-source analytics agent that provides a comprehensive analytical framework for data-driven insights. It starts with creating context using the nao-core CLI and extends its capabilities by deploying a user-friendly chat interface for seamless data analysis. By leveraging AI/ML and data tools, nao empowers users to extract valuable information from their data.
+Nao is an open-source analytics agent that helps users create context and deploy a chat interface for data insights. Utilizing nao, developers can tap into AI/ML and data analysis capabilities to enhance their workflows. This platform is designed to be user-friendly and accessible through a command-line interface.
 
 ---
 

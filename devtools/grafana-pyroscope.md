@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Pyroscope is an open-source, continuous profiling platform that enables developers to debug performance issues down to a single line of code. This comprehensive tool provides real-time insights into application performance, empowering developers to identify bottlenecks and optimize their code for improved efficiency. With Pyroscope, developers can efficiently diagnose and resolve performance problems, streamlining the development process.
+Pyroscope is an open-source, continuous profiling platform that enables developers to efficiently debug performance issues in their applications. By providing detailed, line-level code instrumentation, it allows users to pinpoint the root cause of performance bottlenecks with ease. This powerful tool is ideal for teams seeking to optimize the performance of their software.
 
 ---
 

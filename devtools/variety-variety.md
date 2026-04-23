@@ -25,7 +25,7 @@ DevTools · Data
 
 ## 📝 Summary
 
-Variety is an open-source MongoDB schema analyzer designed to help developers understand and optimize their database schema. This tool analyzes MongoDB collections to provide detailed information about the data types and structures, enabling data professionals to identify potential issues and improve the performance and efficiency of their MongoDB databases. By leveraging Variety, developers can make data-driven decisions to refine their schema and enhance overall database management.
+Variety is an open-source tool for analyzing MongoDB schemas, providing users with a deeper understanding of their database structure and content. This project allows developers to identify inconsistencies, optimize schema design, and improve data management within their MongoDB databases. By leveraging Variety, users can streamline their data workflows and enhance overall database efficiency.
 
 ---
 

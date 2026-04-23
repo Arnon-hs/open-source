@@ -25,9 +25,7 @@ Data
 
 ## 📝 Summary
 
-Here's a brief summary of the OpenGeoscience/geojs project:
-
-Geojs is an open-source project that enables high-performance visualization and interactive data exploration of scientific and geospatial datasets. It allows users to effectively analyze and understand complex location-aware data, making it an ideal tool for geoscientists, researchers, and analysts. By leveraging this platform, users can gain valuable insights and make informed decisions from their data.
+The geojs project is an open-source initiative that enables high-performance visualization and interactive data exploration of scientific and geospatial datasets. By utilizing its cutting-edge capabilities, users can effectively navigate and analyze complex location-aware data. This platform empowers researchers and professionals to unlock new insights and understanding from their geospatial data.
 
 ---
 

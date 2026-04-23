@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the AnalyseDeCircuit/oxideterm project:
-
-Oxideterm is an open-source, all-in-one terminal workspace that combines local shells, SSH, SFTP, remote IDE, AI agent, and file manager into a single native binary. Built with Tauri 2 and Rust's pure SSH implementation, it features advanced connectivity features such as smart reconnect and 30+ customizable themes. This versatile tool supports 11 languages and integrates with various plugins for enhanced functionality.
+Oxideterm is an open-source, all-in-one terminal workspace that provides a comprehensive environment for developers. This native binary combines local shells, SSH, SFTP, a remote IDE, AI agent, and file manager, ensuring seamless productivity. Built with Tauri 2 and pure Rust SSH, oxideterm offers smart reconnect capabilities and a wide range of customization options.
 
 ---
 

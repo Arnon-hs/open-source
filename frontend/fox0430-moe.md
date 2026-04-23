@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The moe editor is a command-line text editor inspired by Vim, designed to provide a powerful and efficient editing experience. Written in Nim, a high-performance programming language, moe offers a lightweight and flexible alternative to traditional editors. Its Vim-like interface makes it a great choice for users already familiar with Vim.
+The moe project is an open-source, command-line based text editor inspired by Vim, built with the Nim programming language. This editor is designed to provide a Vim-like experience for users who prefer a terminal-based interface. With its Vim-inspired functionality and Nim foundation, moe offers a unique blend of power and flexibility for developers.
 
 ---
 

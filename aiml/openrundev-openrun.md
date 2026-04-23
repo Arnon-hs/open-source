@@ -27,7 +27,7 @@ AI/ML · Backend · DevOps/Infra
 
 Here's a brief summary for the open-source project:
 
-Openrun is an open-source project that simplifies the deployment of internal tools and web applications. It offers declarative deployment capabilities on both a single-node and Kubernetes environments, making it versatile and user-friendly. With openrun, developers can easily manage and automate the deployment of their applications.
+OpenRun is an open-source tool designed to simplify the deployment of internal tools and web applications. It allows users to declaratively deploy applications on either a single node or a Kubernetes environment, streamlining the development process. With OpenRun, developers can focus on building and delivering applications efficiently.
 
 ---
 

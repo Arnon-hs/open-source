@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"get-physics-done is a pioneering open-source agentic AI physicist developed by Physical Superintelligence PBC (PSI). This AI model is designed to tackle complex physics problems and provide innovative solutions. By harnessing the power of AI/ML, get-physics-done aims to accelerate breakthroughs in the field of physics and beyond."
+The psi-oss/get-physics-done project is an open-source initiative by Physical Superintelligence PBC (PSI) to develop an agentic AI physicist. This cutting-edge technology aims to revolutionize the field of physics by leveraging artificial intelligence and machine learning to drive breakthroughs and discoveries. The project seeks to make significant contributions to the scientific community through its open-source approach.
 
 ---
 

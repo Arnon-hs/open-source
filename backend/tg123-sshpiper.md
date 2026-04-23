@@ -25,7 +25,7 @@ Backend · Security
 
 ## 📝 Summary
 
-The tg123/sshpiper project is an open-source reverse proxy designed to enhance security for SSH and SCP connections. It allows users to establish secure, encrypted connections while hiding the target server's IP address and protecting against common attacks such as brute-force attempts. By providing an additional layer of security, sshpiper helps to safeguard sensitive data and infrastructure.
+The tg123/sshpiper project is an open-source solution designed to serve as a reverse proxy for SSH and SCP connections. This tool enhances security by providing an additional layer of protection, allowing users to securely access remote servers without exposing their SSH ports directly to the internet. By using sshpiper, users can enjoy more secure and reliable remote access.
 
 ---
 

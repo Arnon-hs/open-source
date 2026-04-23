@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary for the open-source project:
 
-"Create Better T-Stack is an open-source CLI tool for rapidly scaffolding type-safe TypeScript projects. It provides a modern foundation with best practices and customizable configurations, making it an ideal choice for building scalable and maintainable frontend and AI/ML applications. With this tool, developers can focus on writing code, while the framework takes care of the underlying setup."
+"create-better-t-stack" is a cutting-edge CLI tool for rapidly setting up end-to-end type-safe TypeScript projects with industry-recognized best practices and customizable configurations. This project enables developers to kickstart their projects with a solid foundation, saving time and effort on tedious setup tasks. With its focus on AI/ML, frontend, and DevTools, it's an essential tool for developers seeking to streamline their workflow with modern TypeScript projects.
 
 ---
 
