@@ -25,7 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Betterleaks is an open-source project that offers a highly configurable and efficient secrets scanner. Designed for speed and adaptability, this tool empowers users to identify and address potential security vulnerabilities in their applications. By leveraging AI/ML capabilities, Betterleaks provides a robust solution for developers to maintain secure and reliable software.
+Here's a brief summary of the betterleaks/betterleaks project:
+
+Betterleaks is an open-source project that offers a highly configurable and fast secrets scanner, designed to identify sensitive information in a comprehensive and efficient manner. Built using cutting-edge AI/ML and frontend technologies, this tool is perfect for developers seeking enhanced security and DevTools capabilities. Its configurability allows for tailored scanning experiences, making it a valuable asset for various development workflows.
 
 ---
 

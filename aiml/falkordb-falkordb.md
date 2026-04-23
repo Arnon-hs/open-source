@@ -1,6 +1,6 @@
 # FalkorDB/FalkorDB
 
-[![Stars](https://img.shields.io/github/stars/FalkorDB/FalkorDB?style=flat-square&color=yellow)](https://github.com/FalkorDB/FalkorDB/stargazers) [![Forks](https://img.shields.io/github/forks/FalkorDB/FalkorDB?style=flat-square&color=blue)](https://github.com/FalkorDB/FalkorDB/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FalkorDB/FalkorDB?style=flat-square&color=yellow)](https://github.com/FalkorDB/FalkorDB/stargazers) [![Forks](https://img.shields.io/github/forks/FalkorDB/FalkorDB?style=flat-square&color=blue)](https://github.com/FalkorDB/FalkorDB/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.1k |
-| 🍴 **Forks** | 325 |
+| 🍴 **Forks** | 326 |
 | 💻 **Language** | C |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

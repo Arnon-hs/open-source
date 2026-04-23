@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the exa-mcp-server project:
-
-Exa MCP-server is an open-source, backend-focused project that enables web search and web crawling functionalities. It is built on the Exa MCP framework, providing a scalable and efficient solution for indexing and querying web content. Users can leverage this project to develop and implement custom search engines and web scraping applications.
+Exa MCP-server is an open-source backend project that enables web search and web crawling capabilities. It is designed to provide a robust infrastructure for efficiently indexing and retrieving web content, making it a valuable tool for various applications and services. This project offers a scalable and customizable solution for web data management.
 
 ---
 

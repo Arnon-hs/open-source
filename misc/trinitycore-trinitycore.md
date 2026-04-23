@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/TrinityCore/TrinityCore?style=flat-square&color=yellow)](https://github.com/TrinityCore/TrinityCore/stargazers) [![Forks](https://img.shields.io/github/forks/TrinityCore/TrinityCore?style=flat-square&color=blue)](https://github.com/TrinityCore/TrinityCore/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
-> TrinityCore Open Source MMO Framework (master = 12.0.5.67088, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+> TrinityCore Open Source MMO Framework (master = 12.0.5.67114, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 
 ## 📊 Stats
 

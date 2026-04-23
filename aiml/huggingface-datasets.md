@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The huggingface/datasets project is a comprehensive open-source repository of ready-to-use datasets for AI and machine learning models. It provides fast, efficient, and user-friendly data manipulation tools, making it easier for developers to access and utilize relevant data for their projects. This hub aims to accelerate AI development by offering a vast library of datasets in a centralized and accessible format.
+The huggingface/datasets repository is an open-source project that provides a comprehensive hub for ready-to-use datasets in AI and machine learning, offering fast and efficient data manipulation tools. This repository serves as a centralized resource for accessing and working with diverse datasets, making it easier for developers to focus on model training and development. It supports a wide range of data formats and can be easily integrated into existing AI projects.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the Cube open-source project:
-
-Cube is an open-source semantic layer for building scalable, high-performance analytics solutions, enabling seamless integration with AI, BI, and embedded analytics applications. It provides a unified data model, allowing users to abstract complex data structures and query large datasets efficiently. By simplifying data access and analysis, Cube empowers developers to create data-driven applications with ease.
+Cube is an open-source semantic layer that simplifies data modeling, integration, and analysis for AI, business intelligence, and embedded analytics applications. It enables developers to build data-driven applications by providing a unified interface for data access, manipulation, and visualization. With Cube, users can create scalable, performant, and maintainable data pipelines that support a wide range of analytics use cases.
 
 ---
 

@@ -25,7 +25,9 @@ Data
 
 ## 📝 Summary
 
-Filestash is an open-source, universal data access layer that provides a file management platform for organizing and accessing data across various cloud storage services and local file systems. It allows users to centralize their data and access it seamlessly from a single interface, eliminating the need to switch between multiple applications and services. Filestash is a FUSE-free alternative, offering a robust and scalable solution for managing complex data environments.
+Here's a summary of the project in 2-3 sentences:
+
+Filestash is an open-source, universal data access layer that provides a file management platform. It offers a flexible and FUSE-free way to access and manage data across various storage systems, making it a versatile solution for developers. This platform enables seamless integration with different data sources, simplifying data management and access.
 
 ---
 

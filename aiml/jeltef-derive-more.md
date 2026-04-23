@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The JelteF/derive_more project is an open-source initiative that provides additional derive(Trait) options for the Rust programming language. This project aims to enhance the functionality of the derive macro, a powerful tool for automatically generating code, by adding more traits for developers to work with. By extending the capabilities of derive, it facilitates the creation of more complex and efficient Rust code.
+The JelteF/derive_more project is an open-source initiative that expands on the derive macro in Rust, allowing for more trait options to be automatically implemented for structs and enums. This project enhances the flexibility and usability of Rust's derive feature, making it easier to work with various data structures and abstractions. By providing additional derive options, developers can write more concise and efficient code with reduced boilerplate.
 
 ---
 

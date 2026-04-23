@@ -25,7 +25,7 @@ DevTools · Data
 
 ## 📝 Summary
 
-The ethyca/fides project provides an open-source, scalable, and extensible framework for Privacy Engineering and Compliance. This framework is designed to simplify the implementation of data protection regulations, such as GDPR and CCPA, by offering a comprehensive solution for data subject rights, data mapping, and policy management. With fides, developers can ensure the privacy and security of user data across their applications.
+The ethyca/fides project is an open-source, comprehensive Privacy Engineering & Compliance Framework. It helps organizations assess and mitigate data privacy risks by providing a robust set of tools and guidelines for compliance with data protection regulations. This framework empowers developers and compliance teams to build and maintain transparent, secure, and regulatory-compliant data handling practices.
 
 ---
 

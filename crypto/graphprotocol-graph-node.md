@@ -25,7 +25,7 @@ Crypto · AI/ML · Backend
 
 ## 📝 Summary
 
-The graphprotocol/graph-node project is an open-source service that indexes data from blockchain networks, including Ethereum, and provides it over a GraphQL interface. This allows developers to easily query and access blockchain data in a flexible and scalable manner. By leveraging GraphQL, users can retrieve specific data points and build custom applications on top of blockchain data.
+Graph Node is an open-source project that indexes data from various blockchains, including Ethereum, and serves it via GraphQL. This allows developers to easily query and retrieve blockchain data in a structured and efficient manner. By leveraging GraphQL, Graph Node provides a powerful querying interface for building decentralized applications and AI/ML models that require blockchain data.
 
 ---
 

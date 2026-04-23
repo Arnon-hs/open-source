@@ -2,18 +2,18 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**21 projects** in this category.
+**22 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
-| 2 | [hiyouga/LlamaFactory](./hiyouga-llamafactory.md) | ⭐ 70.5k | Python | 100/100 |
-| 3 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.2k | TypeScript | 100/100 |
-| 4 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 100/100 |
-| 5 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 23.7k | Python | 100/100 |
-| 6 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | HTML | 100/100 |
+| 1 | [hiyouga/LlamaFactory](./hiyouga-llamafactory.md) | ⭐ 70.5k | Python | 100/100 |
+| 2 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.2k | TypeScript | 100/100 |
+| 3 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 100/100 |
+| 4 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
+| 5 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | HTML | 100/100 |
+| 6 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 23.7k | Python | 100/100 |
 | 7 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 100/100 |
 | 8 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | — | 100/100 |
 | 9 | [QuantumNous/new-api](./quantumnous-new-api.md) | ⭐ 28.5k | Go | 99/100 |
@@ -28,7 +28,8 @@
 | 18 | [amitshekhariitbhu/ai-engineering-interview-questions](./amitshekhariitbhu-ai-engineering-interview-questions.md) | ⭐ 1.2k | Markdown | 62/100 |
 | 19 | [the-momentum/open-wearables](./the-momentum-open-wearables.md) | ⭐ 1.3k | Python | 62/100 |
 | 20 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 928 | Python | 59/100 |
-| 21 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
+| 21 | [freqtrade/technical](./freqtrade-technical.md) | ⭐ 997 | Python | 56/100 |
+| 22 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
 
 ---
 

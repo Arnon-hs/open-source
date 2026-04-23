@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-JLine is an open-source Java library that provides a robust and customizable solution for handling console input. It offers features such as line editing, auto-completion, and command history, making it a powerful tool for building interactive applications. With JLine, developers can create a more intuitive and user-friendly console experience.
+JLine is an open-source Java library that enables robust and efficient handling of console input, providing features such as line editing, history, and completion. It simplifies the process of reading user input from the console, making it a valuable tool for developers creating command-line applications and interactive tools. With JLine, developers can focus on building their application's core functionality without worrying about the intricacies of console input handling.
 
 ---
 

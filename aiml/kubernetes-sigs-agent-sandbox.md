@@ -25,9 +25,9 @@ AI/ML · DevOps/Infra · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary for the Kubernetes-SIGs Agent Sandbox project:
+Here's a brief summary for the "agent-sandbox" project:
 
-Agent Sandbox is an open-source project that simplifies the management of isolated, stateful, and singleton workloads, making it an ideal solution for running AI agent runtimes. This project enables developers to easily deploy and manage complex workloads, streamlining the process of building and deploying AI and machine learning applications. By leveraging Agent Sandbox, users can ensure efficient and scalable deployment of AI workloads in Kubernetes environments.
+Agent-sandbox is an open-source project that simplifies the management of isolated, stateful workloads, specifically designed for applications like AI agent runtimes. This solution enables efficient handling of singleton workloads, making it a valuable tool for developers and DevOps professionals in the AI/ML and DevOps/Infra spaces. By providing a sandbox environment for AI agents, agent-sandbox accelerates innovation and deployment in AI-driven projects.
 
 ---
 

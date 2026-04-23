@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-The apollographql/router project is an open-source, high-performance routing runtime designed for Apollo Federation. This configurable runtime enables efficient and scalable routing of GraphQL queries, allowing developers to build robust and performant applications. By leveraging its capabilities, developers can create complex, interconnected GraphQL services while maintaining optimal performance and flexibility.
+Here's a brief summary for the apollographql/router project:
+
+Apollographql/router is an open-source, high-performance routing runtime designed for Apollo Federation. This configurable routing system enables efficient and scalable routing for complex GraphQL applications, allowing developers to build robust and maintainable backend infrastructure. By leveraging this tool, developers can optimize their GraphQL services for high performance and reliability.
 
 ---
 

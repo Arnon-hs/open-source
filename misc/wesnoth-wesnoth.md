@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Wesnoth is a free and open-source turn-based strategy game set in a high fantasy world. This game offers a rich storyline, engaging gameplay, and a large community of players who contribute to its development and content. With a vast array of customizable units, multiplayer modes, and a wide range of scenarios, Wesnoth provides endless hours of entertainment for fans of strategic gameplay.
+Wesnoth is a free, open-source, turn-based strategy game set in a high fantasy world. Players engage in epic battles, manage resources, and explore a rich narrative with multiple paths and endings. This engaging game offers a unique blend of strategy, role-playing elements, and immersive storytelling.
 
 ---
 

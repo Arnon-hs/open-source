@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Microshift is an open-source project that provides a compact, optimized version of OpenShift and Kubernetes, specifically designed for edge computing applications. This lightweight distribution enables efficient deployment and management of workloads in resource-constrained edge environments, while maintaining the scalability and reliability of the OpenShift ecosystem. By streamlining OpenShift and Kubernetes, Microshift empowers developers to harness the power of edge computing for AI/ML and IoT applications.
+Microshift is an open-source project that optimizes OpenShift and Kubernetes for edge computing, reducing its footprint to fit smaller form factors. This lightweight distribution enables efficient operation in resource-constrained environments, making it ideal for edge computing applications. By streamlining the infrastructure, Microshift simplifies the deployment and management of AI/ML and other edge-based workloads.
 
 ---
 

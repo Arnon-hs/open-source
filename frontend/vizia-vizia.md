@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Vizia is an open-source, declarative GUI library designed for building user interfaces in Rust. It provides a concise and intuitive way to create visual applications by specifying the desired layout and appearance, allowing developers to focus on the logic of their application. With Vizia, users can create robust and maintainable GUIs with a minimal amount of code.
+Vizia is an open-source, declarative GUI library developed in Rust, designed to provide a simple and efficient way to create graphical user interfaces. This library allows users to define UI components using a concise and expressive syntax, making it ideal for building high-quality desktop applications. By leveraging Rust's performance and safety features, Vizia aims to deliver fast and reliable GUI development.
 
 ---
 

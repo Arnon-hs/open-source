@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The sipeed/picoclaw project is an open-source initiative that aims to empower users by automating mundane tasks and unleashing their creativity. This project provides a deployable solution that is both tiny and fast, making it suitable for a wide range of applications and environments. By leveraging the capabilities of picoclaw, users can streamline their workflow and focus on innovative pursuits.
+The sipeed/picoclaw project is an open-source initiative that aims to automate mundane tasks and unleash users' creativity through its tiny and fast framework. This deployable platform is designed to be adaptable and versatile, allowing users to bring their ideas to life with ease. By leveraging picoclaw, individuals can focus on innovative pursuits rather than tedious tasks.
 
 ---
 

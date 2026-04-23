@@ -25,9 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the kreuzberg-dev/html-to-markdown project:
-
-The kreuzberg-dev/html-to-markdown project is a high-performance, open-source HTML to Markdown converter that adheres to the CommonMark standard. Maintained by the Kreuzberg team, this tool is optimized for speed and efficiency, making it suitable for large-scale document processing tasks. It is part of the Kreuzberg document intelligence engine, which supports over 56 document formats and provides built-in OCR capabilities.
+The kreuzberg-dev/html-to-markdown project is an open-source, high-performance HTML to Markdown converter that adheres to the CommonMark standard. It is maintained by the Kreuzberg team, a document intelligence engine with a Rust core that extracts structured data from various document formats. This converter enables seamless conversion between HTML and Markdown formats.
 
 ---
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Dynamiq is an open-source orchestration framework designed to simplify the development and deployment of agentic AI and Large Language Model (LLM) applications. It provides a robust and scalable platform for managing complex AI workflows, enabling users to streamline the integration and execution of various AI components. By leveraging Dynamiq, developers can focus on creating intelligent, adaptive, and autonomous AI systems.
+Dynamiq is an open-source orchestration framework designed to streamline the development and deployment of agentic AI and Large Language Model (LLM) applications. This framework enables efficient management of complex AI workflows, facilitating the integration of multiple models and services. By leveraging Dynamiq, developers can build scalable and efficient AI systems that can adapt to dynamic environments.
 
 ---
 

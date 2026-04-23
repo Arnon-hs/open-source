@@ -27,7 +27,7 @@ Orchestration · AI/ML · Frontend
 
 Here's a 2-3 sentence summary for the casibase project:
 
-Casibase is an open-source, enterprise-level AI knowledge base and management platform that enables the deployment and integration of various AI models, including ChatGPT and HuggingFace. The platform features a comprehensive admin UI, user management, and Single-Sign-On capabilities, making it an ideal solution for businesses and organizations looking to leverage AI technology. With its flexible architecture and support for multiple AI models, Casibase empowers users to build and manage AI-powered applications with ease.
+Casibase is an open-source enterprise-level AI knowledge base and management platform that enables the orchestration of multiple AI models and chatbots. It provides a robust admin interface, user management, and Single-Sign-On capabilities, supporting popular AI models such as ChatGPT, Claude, and Llama. This platform allows for the seamless integration and management of AI-powered chatbots, making it an ideal solution for businesses and organizations seeking to leverage AI technology.
 
 ---
 

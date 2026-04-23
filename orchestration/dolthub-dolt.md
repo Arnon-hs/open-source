@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Dolt is an open-source project that brings the concept of Git version control to data management, allowing for versioned, collaborative, and auditable data storage. It enables teams to track changes to their data over time, fostering a culture of transparency and reproducibility. By integrating data and version control, Dolt streamlines data management and facilitates more efficient collaboration among data scientists, analysts, and developers.
+Dolt is an open-source project that offers a Git-like version control system specifically designed for data. It enables efficient collaboration, versioning, and management of data in a database format, making it an ideal solution for data teams and developers working with large datasets. By providing a Git-like experience for data, Dolt simplifies the process of managing and sharing data with others.
 
 ---
 

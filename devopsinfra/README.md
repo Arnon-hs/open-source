@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | 1 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.4k | Python | 100/100 |
 | 2 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 77.7k | TypeScript | 100/100 |
-| 3 | [authelia/authelia](./authelia-authelia.md) | ⭐ 27.6k | Go | 100/100 |
-| 4 | [netbox-community/netbox](./netbox-community-netbox.md) | ⭐ 20.3k | Python | 100/100 |
+| 3 | [netbox-community/netbox](./netbox-community-netbox.md) | ⭐ 20.3k | Python | 100/100 |
+| 4 | [authelia/authelia](./authelia-authelia.md) | ⭐ 27.6k | Go | 100/100 |
 | 5 | [projectcalico/calico](./projectcalico-calico.md) | ⭐ 7.2k | Go | 100/100 |
 | 6 | [argoproj/argo-cd](./argoproj-argo-cd.md) | ⭐ 22.7k | Go | 100/100 |
 | 7 | [dependabot/dependabot-core](./dependabot-dependabot-core.md) | ⭐ 5.5k | Ruby | 100/100 |
@@ -45,7 +45,7 @@
 | 35 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 60/100 |
 | 36 | [kimdre/doco-cd](./kimdre-doco-cd.md) | ⭐ 1.3k | Go | 60/100 |
 | 37 | [opensearch-project/opensearch-k8s-operator](./opensearch-project-opensearch-k8s-operator.md) | ⭐ 542 | Go | 59/100 |
-| 38 | [hookdeck/outpost](./hookdeck-outpost.md) | ⭐ 922 | Go | 57/100 |
+| 38 | [hookdeck/outpost](./hookdeck-outpost.md) | ⭐ 923 | Go | 57/100 |
 | 39 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
 | 40 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 895 | Go | 56/100 |
 | 41 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.3k | TypeScript | 55/100 |

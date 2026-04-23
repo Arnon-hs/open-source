@@ -25,9 +25,7 @@ Frontend · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the Sharkord project:
-
-Sharkord is a free and open-source chat server that provides a secure and private communication platform for small groups. It offers a range of features, including voice, video, text, and screen sharing capabilities, giving users full control over their data and communication. With its lightweight and self-hosted design, Sharkord is an ideal solution for those seeking simplicity and flexibility in their communication needs.
+Sharkord is a lightweight, self-hosted, and open-source chat server that offers a range of features including voice, video, text, and screen sharing. Designed for small groups, Sharkord prioritizes user privacy, simplicity, and control over their data, making it an attractive option for those looking for an alternative to traditional chat platforms. By hosting the server locally, users can maintain complete control over their data and communication experience.
 
 ---
 

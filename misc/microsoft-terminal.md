@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Microsoft Terminal project is an open-source, unified terminal experience that brings together the new Windows Terminal and the original Windows console host. This project offers a customizable, feature-rich, and highly extensible terminal environment for users, with support for multiple tabs, panes, and profiles. By being open-source, users can contribute to the development and enhancement of this powerful terminal tool.
+The Microsoft Terminal project is an open-source initiative that combines the new Windows Terminal and the original Windows console host into a single, user-friendly package. This versatile tool offers seamless integration, advanced features, and enhanced productivity for Windows users. By bringing these two terminals together, users can experience improved performance, customization options, and a consistent user experience.
 
 ---
 

@@ -2,26 +2,26 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**58 projects** in this category.
+**59 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mickael-kerjean/filestash](./mickael-kerjean-filestash.md) | ⭐ 14.1k | Go | 100/100 |
-| 2 | [apache/hudi](./apache-hudi.md) | ⭐ 6.1k | Java | 100/100 |
-| 3 | [cython/cython](./cython-cython.md) | ⭐ 10.7k | Cython | 100/100 |
-| 4 | [tikv/tikv](./tikv-tikv.md) | ⭐ 16.6k | Rust | 100/100 |
-| 5 | [trinodb/trino](./trinodb-trino.md) | ⭐ 12.7k | Java | 100/100 |
-| 6 | [hazelcast/hazelcast](./hazelcast-hazelcast.md) | ⭐ 6.6k | Java | 100/100 |
-| 7 | [VictoriaMetrics/VictoriaMetrics](./victoriametrics-victoriametrics.md) | ⭐ 16.9k | Go | 100/100 |
-| 8 | [apache/spark](./apache-spark.md) | ⭐ 43.2k | Scala | 100/100 |
-| 9 | [matplotlib/matplotlib](./matplotlib-matplotlib.md) | ⭐ 22.7k | Python | 100/100 |
-| 10 | [yugabyte/yugabyte-db](./yugabyte-yugabyte-db.md) | ⭐ 10.2k | C | 100/100 |
-| 11 | [protocolbuffers/protobuf](./protocolbuffers-protobuf.md) | ⭐ 71.1k | C++ | 100/100 |
-| 12 | [apache/beam](./apache-beam.md) | ⭐ 8.6k | Java | 100/100 |
-| 13 | [prometheus/prometheus](./prometheus-prometheus.md) | ⭐ 63.7k | Go | 99/100 |
-| 14 | [apache/hive](./apache-hive.md) | ⭐ 6k | Java | 99/100 |
+| 1 | [apache/hudi](./apache-hudi.md) | ⭐ 6.1k | Java | 100/100 |
+| 2 | [cython/cython](./cython-cython.md) | ⭐ 10.7k | Cython | 100/100 |
+| 3 | [tikv/tikv](./tikv-tikv.md) | ⭐ 16.6k | Rust | 100/100 |
+| 4 | [trinodb/trino](./trinodb-trino.md) | ⭐ 12.7k | Java | 100/100 |
+| 5 | [hazelcast/hazelcast](./hazelcast-hazelcast.md) | ⭐ 6.6k | Java | 100/100 |
+| 6 | [VictoriaMetrics/VictoriaMetrics](./victoriametrics-victoriametrics.md) | ⭐ 16.9k | Go | 100/100 |
+| 7 | [apache/spark](./apache-spark.md) | ⭐ 43.2k | Scala | 100/100 |
+| 8 | [matplotlib/matplotlib](./matplotlib-matplotlib.md) | ⭐ 22.7k | Python | 100/100 |
+| 9 | [yugabyte/yugabyte-db](./yugabyte-yugabyte-db.md) | ⭐ 10.2k | C | 100/100 |
+| 10 | [protocolbuffers/protobuf](./protocolbuffers-protobuf.md) | ⭐ 71.1k | C++ | 100/100 |
+| 11 | [apache/beam](./apache-beam.md) | ⭐ 8.6k | Java | 100/100 |
+| 12 | [mickael-kerjean/filestash](./mickael-kerjean-filestash.md) | ⭐ 14.1k | Go | 100/100 |
+| 13 | [apache/hive](./apache-hive.md) | ⭐ 6k | Java | 99/100 |
+| 14 | [prometheus/prometheus](./prometheus-prometheus.md) | ⭐ 63.7k | Go | 99/100 |
 | 15 | [redpanda-data/connect](./redpanda-data-connect.md) | ⭐ 8.6k | Go | 99/100 |
 | 16 | [badges/shields](./badges-shields.md) | ⭐ 26.5k | JavaScript | 99/100 |
 | 17 | [scylladb/scylladb](./scylladb-scylladb.md) | ⭐ 15.5k | C++ | 99/100 |
@@ -29,8 +29,8 @@
 | 19 | [opensearch-project/OpenSearch](./opensearch-project-opensearch.md) | ⭐ 12.8k | Java | 97/100 |
 | 20 | [mdn/browser-compat-data](./mdn-browser-compat-data.md) | ⭐ 5.6k | JSON | 96/100 |
 | 21 | [sacridini/Awesome-Geospatial](./sacridini-awesome-geospatial.md) | ⭐ 5k | — | 95/100 |
-| 22 | [mongodb/mongo](./mongodb-mongo.md) | ⭐ 28.3k | C++ | 95/100 |
-| 23 | [awesomedata/awesome-public-datasets](./awesomedata-awesome-public-datasets.md) | ⭐ 74.2k | — | 95/100 |
+| 22 | [awesomedata/awesome-public-datasets](./awesomedata-awesome-public-datasets.md) | ⭐ 74.2k | — | 95/100 |
+| 23 | [mongodb/mongo](./mongodb-mongo.md) | ⭐ 28.3k | C++ | 95/100 |
 | 24 | [OSGeo/gdal](./osgeo-gdal.md) | ⭐ 5.9k | C++ | 95/100 |
 | 25 | [tursodatabase/turso](./tursodatabase-turso.md) | ⭐ 18.3k | Rust | 94/100 |
 | 26 | [paradedb/paradedb](./paradedb-paradedb.md) | ⭐ 8.7k | Rust | 91/100 |
@@ -57,15 +57,16 @@
 | 47 | [perses/perses](./perses-perses.md) | ⭐ 2.1k | Go | 64/100 |
 | 48 | [github/advisory-database](./github-advisory-database.md) | ⭐ 2.2k | — | 64/100 |
 | 49 | [facebook/openzl](./facebook-openzl.md) | ⭐ 3k | C | 63/100 |
-| 50 | [mdqinc/SDL_GameControllerDB](./mdqinc-sdl-gamecontrollerdb.md) | ⭐ 1.7k | Python | 61/100 |
-| 51 | [databricks/terraform-provider-databricks](./databricks-terraform-provider-databricks.md) | ⭐ 586 | Go | 61/100 |
+| 50 | [databricks/terraform-provider-databricks](./databricks-terraform-provider-databricks.md) | ⭐ 586 | Go | 61/100 |
+| 51 | [mdqinc/SDL_GameControllerDB](./mdqinc-sdl-gamecontrollerdb.md) | ⭐ 1.7k | Python | 61/100 |
 | 52 | [projectnessie/nessie](./projectnessie-nessie.md) | ⭐ 1.5k | Java | 60/100 |
 | 53 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 1.7k | PHP | 58/100 |
 | 54 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 602 | PHP | 58/100 |
 | 55 | [apache/datafusion-comet](./apache-datafusion-comet.md) | ⭐ 1.2k | Rust | 58/100 |
 | 56 | [scverse/anndata](./scverse-anndata.md) | ⭐ 732 | Python | 57/100 |
 | 57 | [flanglet/kanzi-go](./flanglet-kanzi-go.md) | ⭐ 624 | Go | 55/100 |
-| 58 | [foxtrotcommunications/foxtrotcommunications-forge-core](./foxtrotcommunications-foxtrotcommunications-forge-core.md) | ⭐ 3 | Python | 44/100 |
+| 58 | [OpenGeoscience/geojs](./opengeoscience-geojs.md) | ⭐ 470 | JavaScript | 54/100 |
+| 59 | [foxtrotcommunications/foxtrotcommunications-forge-core](./foxtrotcommunications-foxtrotcommunications-forge-core.md) | ⭐ 3 | Python | 44/100 |
 
 ---
 

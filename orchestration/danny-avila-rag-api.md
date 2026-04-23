@@ -25,9 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The rag_api project is an open-source, ID-based RAG (Retrieval-Augmented Generation) solution built on top of FastAPI, integrating with Langchain and PostgreSQL/pgvector for efficient retrieval and generation of AI models. This project enables developers to leverage the power of RAG in their applications by providing a scalable and flexible API. By combining AI/ML capabilities with database integration, rag_api facilitates the creation of more intelligent and data-driven systems.
+The rag_api project is an open-source, ID-based Retrieval-Augmented Generation (RAG) framework built using FastAPI, integrating with Langchain and PostgreSQL/pgvector. This framework enables developers to leverage the power of RAG in their applications, combining the strengths of natural language processing and vector databases for efficient and accurate information retrieval. By providing a robust API, rag_api simplifies the development of RAG-based systems.
 
 ---
 

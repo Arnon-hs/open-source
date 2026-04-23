@@ -25,7 +25,7 @@ AI/ML · Frontend · Marketing
 
 ## 📝 Summary
 
-IronCalc is an open-source project that serves as the core engine of the IronCalc ecosystem. This main engine utilizes AI/ML capabilities to provide powerful calculations and insights, backed by a robust frontend and marketing infrastructure. By leveraging these advanced technologies, IronCalc aims to streamline complex calculations and offer expert-level analysis to users.
+IronCalc is an open-source project that serves as the primary engine for the IronCalc ecosystem. This AI/ML-driven platform combines capabilities from frontend and marketing categories to provide a comprehensive solution. By leveraging its cutting-edge technology, IronCalc aims to revolutionize the way data is processed and insights are gained.
 
 ---
 

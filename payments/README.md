@@ -17,8 +17,8 @@
 | 7 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 9.8k | PHP | 100/100 |
 | 8 | [99designs/gqlgen](./99designs-gqlgen.md) | ⭐ 10.7k | Go | 99/100 |
 | 9 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 96/100 |
-| 10 | [killbill/killbill](./killbill-killbill.md) | ⭐ 5.4k | Java | 94/100 |
-| 11 | [getlago/lago](./getlago-lago.md) | ⭐ 9.6k | Go | 94/100 |
+| 10 | [getlago/lago](./getlago-lago.md) | ⭐ 9.6k | Go | 94/100 |
+| 11 | [killbill/killbill](./killbill-killbill.md) | ⭐ 5.4k | Java | 94/100 |
 | 12 | [altair-graphql/altair](./altair-graphql-altair.md) | ⭐ 5.4k | TypeScript | 91/100 |
 | 13 | [rorkai/App-Store-Connect-CLI](./rorkai-app-store-connect-cli.md) | ⭐ 4.1k | Go | 84/100 |
 | 14 | [nguyenphutrong/quotio](./nguyenphutrong-quotio.md) | ⭐ 4.3k | Swift | 79/100 |
@@ -31,7 +31,7 @@
 | 21 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 857 | TypeScript | 56/100 |
 | 22 | [VladSez/easy-invoice-pdf](./vladsez-easy-invoice-pdf.md) | ⭐ 748 | TypeScript | 56/100 |
 | 23 | [AuthorizeNet/sdk-php](./authorizenet-sdk-php.md) | ⭐ 454 | PHP | 55/100 |
-| 24 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 714 | C# | 55/100 |
+| 24 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 715 | C# | 55/100 |
 
 ---
 

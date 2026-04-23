@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The git-ai project extends Git functionality to track AI-generated code within repositories, enabling developers to better manage and collaborate on AI-assisted projects. This extension aims to bridge the gap between human developers and AI tools by providing a seamless way to version and audit AI-generated code. By doing so, it facilitates the integration of AI in software development workflows.
+The git-ai project is an open-source extension for Git that enables the tracking of AI-generated code within repositories. This extension simplifies the process of version control and collaboration for developers working with AI-generated content, providing a clear audit trail and improved reproducibility. By integrating AI-generated code into the workflow, git-ai streamlines the development process and enhances transparency.
 
 ---
 

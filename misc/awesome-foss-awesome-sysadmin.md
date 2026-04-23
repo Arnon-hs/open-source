@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Awesome Sysadmin is an open-source, community-driven repository that curates a comprehensive list of exceptional open-source resources for sysadmins. This collection includes various tools, scripts, and guides that can aid in system management, troubleshooting, and optimization. It serves as a valuable reference for professionals and individuals seeking to improve their sysadmin skills and knowledge.
+The awesome-sysadmin project is a comprehensive, community-driven collection of open-source resources for sysadmins. This curated list features a diverse range of tools, software, and documentation designed to streamline system administration tasks and improve overall efficiency. By providing easy access to these resources, the project aims to support and empower sysadmins worldwide.
 
 ---
 
