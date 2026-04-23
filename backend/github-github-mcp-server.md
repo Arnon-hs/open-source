@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-The github/github-mcp-server project is an open-source implementation of GitHub's MCP (Machine-Check Page) server. This server helps diagnose and report hardware issues for GitHub's services, ensuring a more reliable and stable infrastructure. By making it open-source, GitHub is contributing to the advancement of error reporting and machine learning.
+Here's a brief summary of the open-source project:
+
+GitHub's official MCP Server is an open-source backend project that provides a standardized interface for GitHub Actions runners to communicate with the GitHub API. This server facilitates seamless integration with GitHub Actions, enabling runners to manage workflows and jobs efficiently. By leveraging the MCP Server, developers can simplify their workflow automation and collaboration experiences on GitHub.
 
 ---
 

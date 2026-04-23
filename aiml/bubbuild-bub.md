@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Bub is an open-source, hook-first runtime for agents that live alongside people, enabling seamless interaction and collaboration between humans and AI-powered entities. This innovative project focuses on the intersection of AI/ML and frontend development, providing a platform for building and deploying intelligent agents. By leveraging bub, developers can create more intuitive and effective human-AI interactions.
+Bub is an open-source, hook-first runtime that enables agents to interact with people seamlessly. This innovative project allows developers to build agents that live alongside people, creating a more integrated and user-friendly experience. By leveraging AI/ML and frontend technologies, Bub facilitates the creation of sophisticated and engaging agent-human interactions.
 
 ---
 

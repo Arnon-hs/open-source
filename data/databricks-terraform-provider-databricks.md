@@ -25,7 +25,7 @@ Data · DevOps/Infra
 
 ## 📝 Summary
 
-The databricks/terraform-provider-databricks project is an open-source provider for Terraform, a popular infrastructure-as-code tool. This provider allows users to manage their Databricks resources, such as clusters, databases, and workspaces, using a human-readable configuration file. By integrating Databricks with Terraform, users can streamline their infrastructure management and automate their workflows.
+The Databricks Terraform Provider is an open-source project that enables users to manage Databricks resources using Terraform, a popular infrastructure-as-code platform. This provider allows users to create, read, update, and delete Databricks clusters, users, databases, and other resources in a scalable and automated manner. By integrating with Terraform, users can simplify the deployment and management of their Databricks environments.
 
 ---
 

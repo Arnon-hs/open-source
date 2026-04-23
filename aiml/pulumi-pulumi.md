@@ -25,9 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the Pulumi project:
-
-Pulumi is an open-source infrastructure-as-code platform that enables developers to manage and deploy infrastructure using their preferred programming language. By providing a code-first approach, Pulumi bridges the gap between developers and DevOps teams, allowing for more efficient and scalable infrastructure management. This flexible and extensible platform supports a wide range of languages and frameworks, making it a versatile choice for modern infrastructure development.
+Pulumi is an open-source infrastructure-as-code platform that enables developers to create and manage cloud and on-premises infrastructure using their preferred programming languages. With Pulumi, users can define and deploy infrastructure resources in a scalable and version-controlled manner, simplifying the process of managing complex infrastructure environments. This platform supports a wide range of programming languages, including popular choices like Python, Java, and C#.
 
 ---
 

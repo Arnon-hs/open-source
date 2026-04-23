@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-DocsGPT is an open-source, private AI platform designed for building and managing intelligent agents, assistants, and enterprise search systems. This comprehensive platform offers a range of features, including an Agent Builder, deep research capabilities, document analysis, and support for multiple AI models, as well as API connectivity for seamless integration. Developers can leverage DocsGPT to create customized solutions for various industries and applications.
+The DocsGPT project is an open-source, private AI platform designed for agents, assistants, and enterprise search applications. It offers a range of features, including an Agent Builder, deep research capabilities, document analysis, and support for multiple AI models, as well as API connectivity for seamless integration. This robust platform enables developers to create custom AI solutions with ease.
 
 ---
 

@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The hetznercloud/cli project provides a command-line interface for interacting with Hetzner Cloud services, allowing users to manage their cloud resources in a convenient and efficient manner. This open-source tool enables developers and administrators to create, manage, and deploy applications on Hetzner Cloud using a simple and intuitive interface. With hetznercloud/cli, users can leverage the power of Hetzner Cloud from the comfort of their terminal.
+The hetznercloud/cli project is an open-source command-line interface (CLI) designed to simplify interactions with Hetzner Cloud services. With this tool, users can easily manage their cloud infrastructure, including servers, load balancers, and storage, using simple and intuitive commands. It provides a convenient and efficient way to automate and manage Hetzner Cloud resources from the command line.
 
 ---
 

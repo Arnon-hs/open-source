@@ -27,7 +27,7 @@ Backend
 
 Here's a brief summary for the ueberdosis/hocuspocus project:
 
-Hocuspocus is an open-source backend solution for conflict-free real-time collaboration, utilizing the Yjs CRDT (Conflict-free Replicated Data Type) technology. This WebSocket-based backend enables seamless, synchronized experiences across multiple users in web applications. With hocuspocus, developers can easily integrate real-time collaboration capabilities into their projects.
+Hocuspocus is an open-source, conflict-free real-time collaboration backend built on Yjs and WebSocket technology. It enables seamless, multi-user editing in web applications, ensuring that all users see the same version of the data in real-time. By utilizing CRDT (Conflict-free Replicated Data Types), Hocuspocus facilitates collaborative work without worrying about data inconsistencies or conflicts.
 
 ---
 

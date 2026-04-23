@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Flyte is an open-source project that provides dynamic and resilient AI orchestration, enabling users to coordinate data, models, and compute resources as they build and deploy AI workflows. With Flyte, developers can streamline their machine learning pipelines and manage complex tasks with ease. The Flyte platform supports local deployment, making it an ideal solution for AI and ML workflows.
+Flyte is an open-source, dynamic AI orchestration platform that enables the efficient coordination of data, models, and compute resources when building complex AI workflows. This resilient platform simplifies the process of automating machine learning workflows, allowing users to focus on developing innovative AI solutions. With Flyte, developers can build, deploy, and manage scalable AI workflows locally or in the cloud.
 
 ---
 

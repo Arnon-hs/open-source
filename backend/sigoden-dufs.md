@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10k |
-| 🍴 **Forks** | 522 |
+| 🍴 **Forks** | 523 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 93/100 |
 | 🗓️ **Last push** | — |
@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the sigoden/dufs project:
-
-Dufs is a versatile, open-source file server that offers a range of features including static serving, file uploading, searching, and access control. It also supports WebDAV protocol, allowing users to interact with files over the web in a flexible and intuitive way. With its robust functionality, dufs provides a reliable solution for managing and sharing files across different platforms.
+The dufs project is an open-source file server that provides a robust set of features, including static serving, file uploading, searching, access control, and webdav functionality. This backend solution enables users to manage files efficiently and securely, making it suitable for various use cases. With its open-source nature, the dufs project allows developers to customize and extend its capabilities to meet their specific needs.
 
 ---
 

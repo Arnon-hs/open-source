@@ -25,9 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the Alibaba OpenSandbox project:
-
-OpenSandbox is an open-source sandbox runtime for AI agents, designed to provide a secure, fast, and extensible environment for artificial intelligence applications. This project enables developers to build, deploy, and manage AI agents with improved isolation, scalability, and reliability. By leveraging OpenSandbox, users can accelerate AI development and deployment while ensuring the integrity and security of their AI systems.
+The Alibaba OpenSandbox project is an open-source sandbox runtime designed for secure and efficient AI agent execution. It enables fast and extensible sandboxing of AI workloads, providing a robust foundation for developing and deploying AI applications. By leveraging OpenSandbox, developers can create secure and scalable AI environments with enhanced performance and reliability.
 
 ---
 

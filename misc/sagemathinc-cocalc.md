@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-CoCalc is an open-source project that enables collaborative calculation in the cloud, allowing multiple users to work together on mathematical and computational projects in real-time. Built on a web-based interface, CoCalc provides a platform for users to share and access Jupyter notebooks, share files, and collaborate on a wide range of projects. This collaborative environment fosters teamwork and innovation in mathematics, science, and engineering education and research.
+CoCalc, an open-source project, offers a collaborative online platform for working with various mathematics and computational tools, including SageMath, Jupyter Notebooks, and LaTeX. It enables users to share and edit code, documents, and other files in real-time, making it an ideal tool for collaborative projects and education. By providing a cloud-based interface, CoCalc streamlines the workflow and fosters a more interactive learning experience.
 
 ---
 

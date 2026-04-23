@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**26 projects** in this category.
+**27 projects** in this category.
 
 ## Projects
 
@@ -15,25 +15,26 @@
 | 5 | [yuliskov/SmartTube](./yuliskov-smarttube.md) | ⭐ 29.7k | Java | 99/100 |
 | 6 | [bitwarden/android](./bitwarden-android.md) | ⭐ 8.7k | Kotlin | 96/100 |
 | 7 | [ermaozi/get_subscribe](./ermaozi-get-subscribe.md) | ⭐ 8.9k | Python | 95/100 |
-| 8 | [androidx/androidx](./androidx-androidx.md) | ⭐ 6k | Kotlin | 94/100 |
-| 9 | [offa/android-foss](./offa-android-foss.md) | ⭐ 9.9k | Python | 92/100 |
-| 10 | [facebook/facebook-ios-sdk](./facebook-facebook-ios-sdk.md) | ⭐ 8k | Swift | 90/100 |
-| 11 | [bluesky-social/social-app](./bluesky-social-social-app.md) | ⭐ 17.9k | TypeScript | 90/100 |
-| 12 | [wordpress-mobile/WordPress-Android](./wordpress-mobile-wordpress-android.md) | ⭐ 3.1k | Kotlin | 84/100 |
-| 13 | [dotnet/macios](./dotnet-macios.md) | ⭐ 2.9k | C# | 77/100 |
-| 14 | [PaulWoitaschek/Voice](./paulwoitaschek-voice.md) | ⭐ 2.9k | Kotlin | 77/100 |
-| 15 | [nightscout/AndroidAPS](./nightscout-androidaps.md) | ⭐ 1.1k | Kotlin | 67/100 |
-| 16 | [Automattic/pocket-casts-android](./automattic-pocket-casts-android.md) | ⭐ 2.8k | Kotlin | 66/100 |
-| 17 | [ossdocumentscanner/OSS-DocumentScanner](./ossdocumentscanner-oss-documentscanner.md) | ⭐ 2k | C++ | 65/100 |
-| 18 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 1.9k | C++ | 65/100 |
-| 19 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.5k | Shell | 63/100 |
-| 20 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 63/100 |
-| 21 | [Watfaq/clash-rs](./watfaq-clash-rs.md) | ⭐ 1.6k | Rust | 63/100 |
-| 22 | [LemmyNet/jerboa](./lemmynet-jerboa.md) | ⭐ 1.3k | Kotlin | 59/100 |
-| 23 | [librenms/docker](./librenms-docker.md) | ⭐ 828 | Dockerfile | 59/100 |
-| 24 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 946 | Dart | 58/100 |
-| 25 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
-| 26 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 747 | Kotlin | 56/100 |
+| 8 | [firebase/flutterfire](./firebase-flutterfire.md) | ⭐ 9.2k | Dart | 95/100 |
+| 9 | [androidx/androidx](./androidx-androidx.md) | ⭐ 6k | Kotlin | 94/100 |
+| 10 | [offa/android-foss](./offa-android-foss.md) | ⭐ 9.9k | Python | 92/100 |
+| 11 | [facebook/facebook-ios-sdk](./facebook-facebook-ios-sdk.md) | ⭐ 8k | Swift | 90/100 |
+| 12 | [bluesky-social/social-app](./bluesky-social-social-app.md) | ⭐ 17.9k | TypeScript | 90/100 |
+| 13 | [wordpress-mobile/WordPress-Android](./wordpress-mobile-wordpress-android.md) | ⭐ 3.1k | Kotlin | 84/100 |
+| 14 | [dotnet/macios](./dotnet-macios.md) | ⭐ 2.9k | C# | 77/100 |
+| 15 | [PaulWoitaschek/Voice](./paulwoitaschek-voice.md) | ⭐ 2.9k | Kotlin | 77/100 |
+| 16 | [nightscout/AndroidAPS](./nightscout-androidaps.md) | ⭐ 1.1k | Kotlin | 67/100 |
+| 17 | [Automattic/pocket-casts-android](./automattic-pocket-casts-android.md) | ⭐ 2.8k | Kotlin | 66/100 |
+| 18 | [ossdocumentscanner/OSS-DocumentScanner](./ossdocumentscanner-oss-documentscanner.md) | ⭐ 2k | C++ | 65/100 |
+| 19 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 1.9k | C++ | 65/100 |
+| 20 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.5k | Shell | 63/100 |
+| 21 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 63/100 |
+| 22 | [Watfaq/clash-rs](./watfaq-clash-rs.md) | ⭐ 1.6k | Rust | 63/100 |
+| 23 | [LemmyNet/jerboa](./lemmynet-jerboa.md) | ⭐ 1.3k | Kotlin | 59/100 |
+| 24 | [librenms/docker](./librenms-docker.md) | ⭐ 828 | Dockerfile | 59/100 |
+| 25 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 946 | Dart | 58/100 |
+| 26 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
+| 27 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 747 | Kotlin | 56/100 |
 
 ---
 

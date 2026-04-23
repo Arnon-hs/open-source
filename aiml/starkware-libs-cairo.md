@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Cairo is an open-source, Turing-complete language designed for creating provable programs that can execute general computations. This innovative language enables developers to write secure and efficient code, making it a valuable tool for various applications, particularly in the realm of artificial intelligence and machine learning. By leveraging Cairo's unique properties, developers can build programs with guaranteed correctness and verifiability.
+Cairo is an open-source, Turing-complete language designed specifically for creating provable programs for general computation. This innovative language enables developers to write code that can be formally verified, providing a high level of assurance and trust in the correctness of the program. By leveraging Cairo, users can create secure and reliable AI and machine learning applications.
 
 ---
 

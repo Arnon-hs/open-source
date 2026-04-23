@@ -25,9 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Reth project:
-
-Reth is an open-source, Rust-based implementation of the Ethereum protocol, designed for modularity, contributor-friendliness, and high performance. This project aims to provide a fast and flexible framework for building and testing Ethereum applications, catering to the growing demand for decentralized technologies. By leveraging Rust's strengths, Reth enables developers to create scalable and secure solutions for the Ethereum ecosystem.
+The Reth project is an open-source, modular, and contributor-friendly implementation of the Ethereum protocol in Rust, designed for speed and flexibility. Built on Rust, a systems programming language, Reth aims to provide a scalable and efficient foundation for Ethereum development and research. Its modular architecture makes it an ideal platform for exploring new ideas and innovations in the Ethereum ecosystem.
 
 ---
 

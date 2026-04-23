@@ -25,7 +25,7 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The Docker Agent is an open-source project developed by Docker Engineering that enables the creation and deployment of AI and machine learning (ML) models. This project provides a builder and runtime for AI agents, allowing developers to define, train, and execute complex AI workflows with ease. By leveraging Docker's containerization capabilities, the Docker Agent streamlines the development and deployment of AI applications.
+The docker/docker-agent project is an open-source initiative by Docker Engineering to develop an AI Agent Builder and Runtime. This innovative project aims to simplify the creation and deployment of artificial intelligence (AI) agents, enabling users to build, train, and run AI models in a seamless and efficient manner. By leveraging Docker's expertise in containerization, the project facilitates the integration of AI models with various applications and environments.
 
 ---
 

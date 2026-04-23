@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The SAP/jenkins-library is an open-source project providing a shared library for Jenkins, enabling streamlined Continuous Delivery pipeline automation. This library simplifies the creation and management of Jenkins pipelines, facilitating efficient and consistent delivery processes across various projects and teams. By leveraging this shared library, users can accelerate their Continuous Integration and Continuous Deployment (CI/CD) workflows.
+The SAP/jenkins-library is an open-source project that provides a shared library for Jenkins Continuous Delivery pipelines. This library offers a collection of reusable functions and utilities to streamline pipeline development and automate various tasks. By leveraging this library, developers can simplify their pipelines and focus on more complex tasks.
 
 ---
 

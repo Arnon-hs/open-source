@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-DeepBot is an open-source system-level AI assistant that streamlines personal productivity and enterprise workflows with a seamless one-click setup experience. It features native integration with Feishu, providing users with a unified and efficient workspace. With its robust capabilities, DeepBot offers a versatile solution for automating tasks and enhancing productivity in various environments.
+DeepBot is an open-source, system-level AI assistant designed for both personal productivity and enterprise workflows, offering a seamless experience with one-click setup. It integrates natively with Feishu, a popular collaboration platform, to enhance workflow efficiency. DeepBot's features cater to a wide range of users, from individuals to enterprises, making it a versatile AI tool.
 
 ---
 

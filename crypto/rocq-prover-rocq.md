@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.4k |
-| 🍴 **Forks** | 722 |
+| 🍴 **Forks** | 724 |
 | 💻 **Language** | OCaml |
 | 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |

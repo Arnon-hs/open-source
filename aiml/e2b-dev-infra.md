@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The e2b-dev/infra project is an open-source infrastructure platform that powers E2B Cloud, providing a robust foundation for AI and machine learning development. This infrastructure aims to facilitate seamless deployment, scalability, and management of AI applications, making it an essential tool for data scientists and engineers. By leveraging this project, users can streamline their AI development workflows and accelerate innovation.
+The e2b-dev/infra project is an open-source infrastructure repository powering E2B Cloud, providing the foundation for its operations and services. This project is categorized under AI/ML and DevOps/Infra, indicating its role in supporting the development and deployment of AI and machine learning applications. By making this infrastructure open-source, the community can contribute to and benefit from its development.
 
 ---
 

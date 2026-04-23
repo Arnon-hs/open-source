@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **1528** |
+| 🗂️ **Total projects** | **1620** |
 | 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,36 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 585 | [Browse →](./aiml/) |
-| 📦 **Misc** | 259 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 158 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 144 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 87 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 69 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 60 | [Browse →](./crypto/) |
-| 📊 **Data** | 43 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 37 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 26 | [Browse →](./mobile/) |
-| 💳 **Payments** | 21 | [Browse →](./payments/) |
-| 📈 **Trading** | 18 | [Browse →](./trading/) |
-| 🔐 **Security** | 13 | [Browse →](./security/) |
+| 🤖 **AI/ML** | 614 | [Browse →](./aiml/) |
+| 📦 **Misc** | 273 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 169 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 149 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 92 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 77 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 69 | [Browse →](./crypto/) |
+| 📊 **Data** | 46 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 38 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 27 | [Browse →](./mobile/) |
+| 💳 **Payments** | 23 | [Browse →](./payments/) |
+| 📈 **Trading** | 20 | [Browse →](./trading/) |
+| 🔐 **Security** | 14 | [Browse →](./security/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
-| ✨ **Design** | 2 | [Browse →](./design/) |
+| ✨ **Design** | 3 | [Browse →](./design/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.8k | Frontend |
-| 2 | [elie222/inbox-zero](./aiml/elie222-inbox-zero.md) | ⭐ 10.5k | AI/ML |
-| 3 | [Qiskit/qiskit](./trading/qiskit-qiskit.md) | ⭐ 7.3k | Trading |
-| 4 | [ossrs/srs](./backend/ossrs-srs.md) | ⭐ 28.8k | Backend |
-| 5 | [FreeCAD/FreeCAD](./misc/freecad-freecad.md) | ⭐ 30.5k | Misc |
-| 6 | [mouredev/roadmap-retos-programacion](./frontend/mouredev-roadmap-retos-programacion.md) | ⭐ 8.2k | Frontend |
-| 7 | [monero-project/monero](./crypto/monero-project-monero.md) | ⭐ 10.5k | Crypto |
-| 8 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 112.1k | AI/ML |
-| 9 | [h2oai/h2o-3](./aiml/h2oai-h2o-3.md) | ⭐ 7.5k | AI/ML |
-| 10 | [OutlineFoundation/outline-apps](./backend/outlinefoundation-outline-apps.md) | ⭐ 9.1k | Backend |
+| 1 | [TykTechnologies/tyk](./backend/tyktechnologies-tyk.md) | ⭐ 10.7k | Backend |
+| 2 | [digoal/blog](./aiml/digoal-blog.md) | ⭐ 8.5k | AI/ML |
+| 3 | [zephyrproject-rtos/zephyr](./misc/zephyrproject-rtos-zephyr.md) | ⭐ 15.1k | Misc |
+| 4 | [cvat-ai/cvat](./aiml/cvat-ai-cvat.md) | ⭐ 15.7k | AI/ML |
+| 5 | [coleam00/Archon](./aiml/coleam00-archon.md) | ⭐ 19.4k | AI/ML |
+| 6 | [amruthpillai/reactive-resume](./aiml/amruthpillai-reactive-resume.md) | ⭐ 36.4k | AI/ML |
+| 7 | [alibaba/nacos](./aiml/alibaba-nacos.md) | ⭐ 32.9k | AI/ML |
+| 8 | [outline/outline](./frontend/outline-outline.md) | ⭐ 38.2k | Frontend |
+| 9 | [keephq/keep](./aiml/keephq-keep.md) | ⭐ 11.7k | AI/ML |
+| 10 | [elie222/inbox-zero](./aiml/elie222-inbox-zero.md) | ⭐ 10.5k | AI/ML |
 
 ## 🚀 How it works
 

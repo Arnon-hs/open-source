@@ -25,9 +25,7 @@ Backend · DevTools · Mobile
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the OutlineFoundation/outline-apps project:
-
-The Outline Client and Manager is an open-source project developed by Jigsaw, enabling users to create their own VPN server and share access with others. Outline Manager streamlines the process of setting up a VPN server, while Outline Client grants network members access to a free and open internet. This project offers a secure and decentralized solution for sharing internet access.
+The Outline Foundation's Outline Client and Manager is an open-source project that enables users to create and share their own VPN server, providing secure and unrestricted internet access to their network. Developed by Jigsaw, this tool empowers individuals to take control of their online security and freedom. With the Outline Client and Manager, users can safeguard their online presence and protect sensitive information.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Convoy is an open-source, cloud-native webhooks gateway that enables developers to manage and route incoming webhooks in a scalable and reliable manner. Built for the modern cloud ecosystem, Convoy provides a robust and flexible solution for handling webhook notifications from various sources, allowing teams to focus on integrating key services and applications. By leveraging Convoy, developers can streamline their workflow and improve application resilience.
+Convo is an open-source, Cloud Native Webhooks Gateway that enables secure and efficient routing of webhooks across systems and applications. It provides a scalable and reliable solution for handling webhook events, allowing developers to build robust and event-driven architectures. By utilizing Convo, developers can simplify the management of webhooks and focus on building innovative applications.
 
 ---
 

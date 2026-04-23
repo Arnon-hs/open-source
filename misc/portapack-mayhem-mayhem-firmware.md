@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The mayhem-firmware project is an open-source firmware for the HackRF+PortaPack, a versatile RF device that supports a range of functions including signal analysis, transmission, and reception. This firmware provides users with a flexible and customizable platform for experimenting with RF signals and exploring various applications. By utilizing the HackRF+PortaPack, users can tap into a wide array of RF possibilities with this firmware's capabilities.
+The mayhem-firmware open-source project is a firmware repository for the HackRF+PortaPack H1/H2/H4/H4M, providing users with customizable and modifiable code for their devices. This project allows developers to modify and extend the capabilities of the HackRF+PortaPack, a versatile radio frequency (RF) platform, to suit their specific needs and applications. By contributing to or using this firmware, users can unlock new features and experiment with various RF-related projects.
 
 ---
 

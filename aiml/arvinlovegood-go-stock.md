@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the ArvinLovegood/go-stock open-source project:
+Here's a brief summary for the ArvinLovegood/go-stock project:
 
-The go-stock project is an open-source AI-powered stock analysis tool that integrates with various AI platforms and models to provide comprehensive insights and analysis on stock performance and market trends. It supports multiple stock exchanges, including A-shares, Hong Kong stocks, and US stocks, and offers features such as AI-driven news analysis, financial analysis, and market sentiment analysis. With a focus on user data privacy, all data is stored locally on the user's device.
+go-stock is an open-source, AI-powered stock analysis tool that provides real-time stock data, AI-driven news analysis, and financial insights for A-shares, Hong Kong stocks, and US stocks. It supports sentiment analysis, AI-assisted stock selection, and customizable alerts for market trends, with the option to integrate with various AI platforms and models. All data is stored locally, ensuring user data security and control.
 
 ---
 

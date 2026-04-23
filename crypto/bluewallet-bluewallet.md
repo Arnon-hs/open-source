@@ -25,7 +25,7 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-BlueWallet is an open-source, cross-platform Bitcoin wallet available for both iOS and Android devices. Built using React Native, it provides a seamless user experience across different mobile platforms. This wallet allows users to securely store, send, and receive Bitcoin with ease, making it a reliable option for cryptocurrency enthusiasts.
+BlueWallet is an open-source Bitcoin wallet available for both iOS and Android devices, developed using the React Native framework. This user-friendly wallet provides a secure and accessible way to manage Bitcoin transactions, catering to users across various mobile platforms. With its open-source nature, BlueWallet encourages community involvement and contributions to its ongoing development.
 
 ---
 

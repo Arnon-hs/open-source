@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-DockSTARTer is an open-source project that streamlines the process of setting up Docker environments for running applications. This tool simplifies the initial setup of Docker by providing a user-friendly interface for configuring and launching Docker containers. By leveraging DockSTARTer, users can quickly get started with running apps in Docker and focus on development without the hassle of complex setup procedures.
+DockSTARTer is an open-source project that simplifies the process of getting started with Docker by providing a user-friendly interface for deploying and running applications within a Docker environment. It streamlines the setup and configuration process, making it easier for developers and users to explore and utilize Docker's capabilities. With DockSTARTer, users can quickly deploy a variety of apps and services, reducing the complexity often associated with Docker setup.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**37 projects** in this category.
+**38 projects** in this category.
 
 ## Projects
 
@@ -10,41 +10,42 @@
 |---|---|---|---|---|
 | 1 | [argoproj/argo-cd](./argoproj-argo-cd.md) | ⭐ 22.7k | Go | 100/100 |
 | 2 | [dependabot/dependabot-core](./dependabot-dependabot-core.md) | ⭐ 5.5k | Ruby | 100/100 |
-| 3 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 77.7k | TypeScript | 100/100 |
-| 4 | [authelia/authelia](./authelia-authelia.md) | ⭐ 27.6k | Go | 100/100 |
-| 5 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.4k | Python | 100/100 |
-| 6 | [chef/chef](./chef-chef.md) | ⭐ 8.2k | Ruby | 99/100 |
-| 7 | [cert-manager/cert-manager](./cert-manager-cert-manager.md) | ⭐ 13.8k | Go | 97/100 |
-| 8 | [kubescape/kubescape](./kubescape-kubescape.md) | ⭐ 11.3k | Go | 97/100 |
-| 9 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 96/100 |
+| 3 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.4k | Python | 100/100 |
+| 4 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 77.7k | TypeScript | 100/100 |
+| 5 | [authelia/authelia](./authelia-authelia.md) | ⭐ 27.6k | Go | 100/100 |
+| 6 | [netbox-community/netbox](./netbox-community-netbox.md) | ⭐ 20.3k | Python | 100/100 |
+| 7 | [chef/chef](./chef-chef.md) | ⭐ 8.2k | Ruby | 99/100 |
+| 8 | [cert-manager/cert-manager](./cert-manager-cert-manager.md) | ⭐ 13.8k | Go | 97/100 |
+| 9 | [kubescape/kubescape](./kubescape-kubescape.md) | ⭐ 11.3k | Go | 97/100 |
 | 10 | [prometheus-community/helm-charts](./prometheus-community-helm-charts.md) | ⭐ 6.1k | Mustache | 96/100 |
-| 11 | [angular/components](./angular-components.md) | ⭐ 25k | TypeScript | 95/100 |
-| 12 | [hashicorp/terraform-provider-aws](./hashicorp-terraform-provider-aws.md) | ⭐ 10.9k | Go | 94/100 |
+| 11 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 96/100 |
+| 12 | [angular/components](./angular-components.md) | ⭐ 25k | TypeScript | 95/100 |
 | 13 | [hashicorp/terraform-provider-azurerm](./hashicorp-terraform-provider-azurerm.md) | ⭐ 4.9k | Go | 94/100 |
-| 14 | [woodpecker-ci/woodpecker](./woodpecker-ci-woodpecker.md) | ⭐ 6.8k | Go | 92/100 |
-| 15 | [docker-library/docs](./docker-library-docs.md) | ⭐ 5.3k | Shell | 91/100 |
-| 16 | [docker-library/official-images](./docker-library-official-images.md) | ⭐ 6.9k | Shell | 90/100 |
-| 17 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 8.8k | Go | 90/100 |
-| 18 | [gardener/gardener](./gardener-gardener.md) | ⭐ 3.4k | Go | 82/100 |
-| 19 | [kubesphere/kubekey](./kubesphere-kubekey.md) | ⭐ 2.8k | Go | 81/100 |
-| 20 | [ardanlabs/service](./ardanlabs-service.md) | ⭐ 4k | Go | 79/100 |
-| 21 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 77/100 |
-| 22 | [DaKheera47/job-ops](./dakheera47-job-ops.md) | ⭐ 2.9k | TypeScript | 75/100 |
-| 23 | [kubeovn/kube-ovn](./kubeovn-kube-ovn.md) | ⭐ 2.3k | Go | 74/100 |
-| 24 | [GhostWriters/DockSTARTer](./ghostwriters-dockstarter.md) | ⭐ 2.6k | Shell | 72/100 |
-| 25 | [microsoft/retina](./microsoft-retina.md) | ⭐ 3.1k | Go | 71/100 |
-| 26 | [phusion/passenger-docker](./phusion-passenger-docker.md) | ⭐ 2.8k | Shell | 66/100 |
-| 27 | [aws-controllers-k8s/community](./aws-controllers-k8s-community.md) | ⭐ 2.6k | — | 65/100 |
-| 28 | [cr0hn/dockerscan](./cr0hn-dockerscan.md) | ⭐ 1.5k | Go | 62/100 |
-| 29 | [kimdre/doco-cd](./kimdre-doco-cd.md) | ⭐ 1.3k | Go | 60/100 |
-| 30 | [opensearch-project/opensearch-k8s-operator](./opensearch-project-opensearch-k8s-operator.md) | ⭐ 542 | Go | 59/100 |
-| 31 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
-| 32 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 895 | Go | 56/100 |
-| 33 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.3k | TypeScript | 55/100 |
-| 34 | [topolvm/topolvm](./topolvm-topolvm.md) | ⭐ 1.1k | Go | 54/100 |
-| 35 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 922 | Dockerfile | 48/100 |
-| 36 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 4 | Go | 42/100 |
-| 37 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
+| 14 | [hashicorp/terraform-provider-aws](./hashicorp-terraform-provider-aws.md) | ⭐ 10.9k | Go | 94/100 |
+| 15 | [woodpecker-ci/woodpecker](./woodpecker-ci-woodpecker.md) | ⭐ 6.8k | Go | 92/100 |
+| 16 | [docker-library/docs](./docker-library-docs.md) | ⭐ 5.3k | Shell | 91/100 |
+| 17 | [docker-library/official-images](./docker-library-official-images.md) | ⭐ 6.9k | Shell | 90/100 |
+| 18 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 8.8k | Go | 90/100 |
+| 19 | [gardener/gardener](./gardener-gardener.md) | ⭐ 3.4k | Go | 82/100 |
+| 20 | [kubesphere/kubekey](./kubesphere-kubekey.md) | ⭐ 2.8k | Go | 81/100 |
+| 21 | [ardanlabs/service](./ardanlabs-service.md) | ⭐ 4k | Go | 79/100 |
+| 22 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 77/100 |
+| 23 | [DaKheera47/job-ops](./dakheera47-job-ops.md) | ⭐ 2.9k | TypeScript | 75/100 |
+| 24 | [kubeovn/kube-ovn](./kubeovn-kube-ovn.md) | ⭐ 2.3k | Go | 74/100 |
+| 25 | [GhostWriters/DockSTARTer](./ghostwriters-dockstarter.md) | ⭐ 2.6k | Shell | 72/100 |
+| 26 | [microsoft/retina](./microsoft-retina.md) | ⭐ 3.1k | Go | 71/100 |
+| 27 | [phusion/passenger-docker](./phusion-passenger-docker.md) | ⭐ 2.8k | Shell | 66/100 |
+| 28 | [aws-controllers-k8s/community](./aws-controllers-k8s-community.md) | ⭐ 2.6k | — | 65/100 |
+| 29 | [cr0hn/dockerscan](./cr0hn-dockerscan.md) | ⭐ 1.5k | Go | 62/100 |
+| 30 | [kimdre/doco-cd](./kimdre-doco-cd.md) | ⭐ 1.3k | Go | 60/100 |
+| 31 | [opensearch-project/opensearch-k8s-operator](./opensearch-project-opensearch-k8s-operator.md) | ⭐ 542 | Go | 59/100 |
+| 32 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
+| 33 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 895 | Go | 56/100 |
+| 34 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.3k | TypeScript | 55/100 |
+| 35 | [topolvm/topolvm](./topolvm-topolvm.md) | ⭐ 1.1k | Go | 54/100 |
+| 36 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 922 | Dockerfile | 48/100 |
+| 37 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 4 | Go | 42/100 |
+| 38 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
 
 ---
 

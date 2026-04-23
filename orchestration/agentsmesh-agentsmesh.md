@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-AgentsMesh is an open-source AI Agent Workforce Platform that enables teams to scale beyond headcount by providing an AI agent squad for every team member. This platform, categorized under Orchestration, AI/ML, and DevTools, offers a scalable solution for automating tasks and augmenting human capabilities. By harnessing the power of AI, AgentsMesh empowers teams to achieve more with less.
+Here's a 2-3 sentence summary for the AgentsMesh project:
+
+AgentsMesh is an open-source platform that enables teams to scale their workforce beyond traditional headcount limitations by assigning AI agents to each team member. This AI Agent Workforce Platform facilitates the orchestration and integration of artificial intelligence and machine learning capabilities to augment team productivity. By leveraging AgentsMesh, teams can unlock new levels of efficiency and collaboration.
 
 ---
 

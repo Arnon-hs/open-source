@@ -25,7 +25,9 @@ Crypto · AI/ML · Security
 
 ## 📝 Summary
 
-FHEVM is an open-source, full-stack framework that seamlessly integrates Fully Homomorphic Encryption (FHE) with blockchain applications, enabling secure and private computation on sensitive data. This innovative framework empowers developers to build scalable and confidential blockchain-based systems, safeguarding data integrity and user privacy. By combining the strengths of FHE and blockchain, FHEVM paves the way for a new era of secure and trustworthy AI and machine learning applications.
+Here's a brief summary for the open-source project FHEVM:
+
+FHEVM is an open-source, full-stack framework that enables seamless integration of Fully Homomorphic Encryption (FHE) with blockchain applications, fostering a secure and private environment for sensitive data processing. By leveraging FHE, FHEVM allows users to perform computations on encrypted data without decrypting it, ensuring confidentiality and integrity. This innovative framework holds significant potential for secure AI/ML, secure data sharing, and confidential computation in various industries.
 
 ---
 

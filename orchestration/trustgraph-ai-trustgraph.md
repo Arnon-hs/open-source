@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the trustgraph project:
+Here's a 2-3 sentence summary for the trustgraph-ai/trustgraph project:
 
-Trustgraph is an open-source context development platform that enables the storage, enrichment, and retrieval of structured knowledge using graph-native infrastructure and semantic retrieval capabilities. This platform allows for the creation of portable context cores, making it easier to integrate knowledge across various applications and systems. By providing a robust and flexible framework, Trustgraph empowers developers to build more intelligent and connected systems.
+Trustgraph is an open-source platform that enables the storage, enrichment, and retrieval of structured knowledge using graph-native infrastructure. This innovative platform supports semantic retrieval and portable context cores, empowering developers to create robust and scalable applications. With trustgraph, organizations can efficiently manage and leverage their contextual data to drive informed decision-making and AI-driven insights.
 
 ---
 
