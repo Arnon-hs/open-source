@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.3k |
-| 🍴 **Forks** | 819 |
+| 🍴 **Forks** | 824 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | — |
@@ -25,7 +25,7 @@ AI/ML · Design
 
 ## 📝 Summary
 
-The ppt-master project is an open-source AI tool that enables users to generate native PPTX files from any document, featuring real PowerPoint shapes rather than images. This innovative solution eliminates the need for design expertise, allowing users to create professional-looking presentations with ease. By harnessing the power of AI, ppt-master streamlines the presentation creation process and enhances productivity.
+Theppt-master project, developed by hugohe3, leverages AI to generate natively editable PowerPoint (PPTX) files from any document. This innovative tool creates real PowerPoint shapes, rather than images, allowing users to edit and customize their presentations without requiring design expertise. By automating the process, theppt-master streamlines the creation of professional-looking PPTX files.
 
 ---
 

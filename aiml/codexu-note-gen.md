@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Note-gen is an open-source, cross-platform Markdown AI note-taking software that utilizes artificial intelligence to enhance user productivity and note organization. This innovative tool allows users to create, edit, and manage digital notes using Markdown syntax, while leveraging AI capabilities for suggestions, organization, and search functionality. By harnessing the power of AI, note-gen empowers users to streamline their note-taking experience.
+The codexu/note-gen project is a freely available, cross-platform note-taking software that utilizes artificial intelligence (AI) to enhance the user experience. Built around Markdown, it allows users to efficiently capture and organize their thoughts and ideas in a flexible and user-friendly manner. With its AI capabilities, note-gen aims to streamline note-taking and facilitate knowledge management.
 
 ---
 

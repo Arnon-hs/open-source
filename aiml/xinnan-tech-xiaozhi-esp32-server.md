@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary for the open-source project:
 
-The xiaozhi-esp32-server project is an open-source, backend service designed to support the xiaozhi-esp32 device. This project enables users to quickly set up an ESP32 device control server, streamlining the development process for IoT applications. By leveraging this service, developers can focus on building and integrating their ESP32-based devices with ease.
+The xiaozhi-esp32-server project is an open-source backend service designed to help users quickly build and manage ESP32 device control servers. It provides a robust platform for handling device communications and control, simplifying the development process for IoT applications. This project is ideal for developers seeking to create efficient and scalable IoT solutions using ESP32 devices.
 
 ---
 

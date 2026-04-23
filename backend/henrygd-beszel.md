@@ -25,9 +25,7 @@ Backend · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "henrygd/beszel":
-
-Beszel is a lightweight server monitoring tool that provides real-time insights into server performance, along with historical data and statistics. It also offers support for Docker stats and customizable alerts to ensure seamless monitoring and troubleshooting. With Beszel, users can gain a deeper understanding of their server's behavior and make data-driven decisions to optimize their infrastructure.
+The beszel project is an open-source, lightweight server monitoring tool that provides historical data and real-time insights, including Docker stats. It offers customizable alerts to ensure timely detection of system issues. With its focus on simplicity and ease of use, beszel caters to the needs of DevOps and infrastructure teams.
 
 ---
 

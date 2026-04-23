@@ -25,9 +25,7 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the rllm-org/rllm project:
-
-The rllm-org/rllm project aims to democratize the application of Reinforcement Learning for Large Language Models (LLMs), making it more accessible to developers and researchers. This open-source initiative provides a robust and scalable framework for integrating RL techniques with LLMs, empowering users to build more intelligent and adaptive AI systems. By streamlining the process of RL for LLMs, the project fosters innovation and collaboration in the AI research community.
+The rllm-org/rllm project aims to democratize the application of Reinforcement Learning for Large Language Models (LLMs), making it more accessible to developers and researchers. By providing a comprehensive framework for orchestration, AI/ML, and DevOps/Infrastructure, this open-source initiative enables the efficient deployment and management of LLM-based reinforcement learning systems. This democratization of RL for LLMs has the potential to accelerate innovation and advancement in various fields.
 
 ---
 

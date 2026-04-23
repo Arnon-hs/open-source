@@ -25,7 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-AionUi is an open-source, locally accessible 24/7 Cowork application that enables seamless collaboration and productivity. It also integrates with various AI and CLI tools, such as Gemini CLI, Claude Code, and Codex, to provide a comprehensive workspace. This free and customizable solution supports developers and teams in their daily work.
+Here's a brief summary of the iOfficeAI/AionUi project:
+
+AionUi is a free, open-source, and locally accessible coworking app that provides a 24/7 collaborative environment. It supports various AI tools and libraries, including Gemini CLI, Claude Code, Codex, and more, through OpenClaw. This project aims to improve productivity and streamline workflow by integrating multiple AI resources within a single interface.
 
 ---
 

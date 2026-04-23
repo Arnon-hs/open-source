@@ -25,7 +25,7 @@ Payments
 
 ## 📝 Summary
 
-The killbill/killbill project is an open-source subscription billing and payments platform designed to manage complex payment workflows and subscription models. It provides a flexible and scalable architecture for handling recurring payments, invoices, and billing operations, making it suitable for various industries and use cases. With its open-source nature, developers can customize and extend the platform to meet their specific business needs.
+Kill Bill is an open-source subscription billing and payments platform that enables businesses to manage their recurring revenue streams efficiently. With a robust and customizable architecture, Kill Bill offers scalable solutions for payment processing, invoicing, and subscription management. Its open-source nature facilitates collaboration and adaptation to meet the unique needs of various industries and organizations.
 
 ---
 

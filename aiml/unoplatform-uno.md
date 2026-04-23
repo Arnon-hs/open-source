@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.9k |
-| 🍴 **Forks** | 855 |
+| 🍴 **Forks** | 854 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 98/100 |
 | 🗓️ **Last push** | — |
@@ -25,9 +25,9 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary for the open-source project "uno":
 
-Uno is an open-source platform that enables developers to build cross-platform native apps for Mobile, Web, Desktop, and Embedded devices using a single codebase written in C# and XAML. With features like Hot Reload, developers can quickly create and deploy rich, native apps from any Integrated Development Environment (IDE), resulting in a seamless development experience.
+Uno is an open-source platform that enables the rapid development of cross-platform native apps for Mobile, Web, Desktop, and Embedded systems. With Uno, developers can create rich, C#/XAML-based apps from a single codebase using any Integrated Development Environment (IDE), and enjoy features like Hot Reload. This versatile platform has been downloaded over 90 million times from NuGet, a testament to its widespread adoption and utility.
 
 ---
 

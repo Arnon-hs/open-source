@@ -25,7 +25,9 @@ AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-The ESP32 Marauder is an open-source project that equips the ESP32 with a versatile suite of WiFi and Bluetooth tools for both offensive and defensive security operations. This versatile toolkit leverages AI/ML capabilities and a user-friendly frontend to facilitate advanced security exploration and penetration testing. It enables developers and security researchers to harness the ESP32's capabilities in a variety of security contexts.
+Here's a brief summary of the ESP32 Marauder project:
+
+ESP32 Marauder is an open-source suite of WiFi/Bluetooth tools designed for the ESP32, providing both offensive and defensive capabilities. This project combines AI/ML and security expertise to offer a comprehensive platform for exploring and securing wireless communication networks. By leveraging the ESP32's capabilities, Marauder enables users to develop and test innovative solutions in the fields of AI, frontend development, and cybersecurity.
 
 ---
 

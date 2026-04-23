@@ -27,7 +27,7 @@ Orchestration · AI/ML · DevTools
 
 Here's a brief summary for the DeepChat project:
 
-DeepChat is an open-source smart assistant that seamlessly integrates powerful AI capabilities into your personal world, streamlining your interactions and automating tasks. This innovative project enables users to harness the potential of AI, making it accessible and user-friendly for a wide range of applications. With DeepChat, users can unlock new possibilities for productivity, creativity, and efficiency.
+DeepChat is an open-source smart assistant that integrates powerful AI capabilities into your personal world. This project enables seamless connections between AI and users, providing a versatile platform for various applications and use cases. By leveraging AI/ML technologies, DeepChat aims to revolutionize the way we interact with intelligent systems.
 
 ---
 

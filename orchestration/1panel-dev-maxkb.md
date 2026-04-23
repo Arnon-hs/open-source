@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the MaxKB project:
-
-MaxKB is an open-source platform designed for building enterprise-grade agents that enables seamless orchestration and AI/ML capabilities. This user-friendly, open-source platform empowers developers to create sophisticated, scalable, and intelligent applications. With MaxKB, businesses can leverage cutting-edge technology to drive innovation and efficiency.
+MaxKB is an open-source platform designed for building enterprise-grade agents, offering powerful and user-friendly capabilities for various applications. This platform enables users to develop intelligent agents that can be integrated with AI/ML technologies, making it an ideal solution for complex orchestration tasks. With its open-source nature, MaxKB provides a flexible and customizable framework for businesses to create and manage their agents.
 
 ---
 

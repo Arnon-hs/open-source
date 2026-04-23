@@ -25,7 +25,7 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Checkmate is a self-hosted monitoring tool that provides real-time tracking and visualization of server hardware, uptime, response times, and incidents. With its open-source design, users can customize and extend its functionality to suit their specific needs. By hosting Checkmate on their own infrastructure, users can maintain full control over their monitoring data and visualizations.
+Checkmate is an open-source, self-hosted tool for comprehensive server monitoring. It provides real-time tracking and visualization of server hardware, uptime, response times, and incidents, making it an ideal solution for DevOps teams. By hosting Checkmate on your own infrastructure, you can gain unparalleled visibility and control over your server performance.
 
 ---
 

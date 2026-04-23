@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The OXC project is an open-source collection of high-performance JavaScript tools designed to simplify and accelerate development workflows. This suite of DevTools aims to provide a robust and efficient set of utilities for building fast and scalable applications. By leveraging OXC, developers can streamline their coding processes and improve overall project productivity.
+The oxc-project/oxc is an open-source collection of high-performance JavaScript tools designed to aid developers in efficiently building and optimizing their applications. This versatile suite of tools is categorized under DevTools, providing users with a range of powerful utilities to streamline their development process.
 
 ---
 

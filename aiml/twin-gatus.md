@@ -25,7 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-TwiN/gatus is an open-source project that provides an automated developer-oriented status page with alerting and incident support. This project aims to help teams stay informed and up-to-date on system status, enabling them to respond quickly to incidents and minimize downtime. With TwiN/gatus, developers can create a customizable status page that integrates seamlessly with their infrastructure and tools.
+TwiN/gatus is an open-source project that provides an automated developer-oriented status page for monitoring and managing system incidents. It offers alerting and incident support features, enabling developers to stay informed and respond to issues in a timely manner. With TwiN/gatus, teams can create a centralized status page that integrates with various monitoring tools, providing a unified view of system health and performance.
 
 ---
 

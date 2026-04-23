@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the bytedance/deer-flow project:
+Here's a 2-3 sentence summary for the bytedance/deer-flow project:
 
-Deer-flow is an open-source, long-horizon SuperAgent harness that enables the efficient execution of complex tasks across various levels, from minutes to hours. Leveraging a robust architecture with sandboxes, memories, tools, skill, subagents, and message gateways, deer-flow streamlines the workflow and accelerates research, development, and creation. This AI/ML orchestration tool empowers users to handle diverse tasks with ease, unlocking productivity and innovation.
+Deer-flow is an open-source, long-horizon SuperAgent harness that enables efficient task management by utilizing sandboxes, memories, tools, subagents, and a message gateway. This comprehensive framework is designed to handle tasks spanning from minutes to hours, making it suitable for complex workflows and AI/ML applications. With deer-flow, developers can research, code, and create at scale.
 
 ---
 

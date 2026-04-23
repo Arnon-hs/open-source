@@ -25,9 +25,7 @@ Backend · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the JumpServer open-source project:
-
-JumpServer is an open-source Privileged Access Management (PAM) platform that enables secure, on-demand access to various remote endpoints, including SSH, RDP, Kubernetes, and databases, via a web browser. This platform streamlines access control for DevOps and IT teams, improving convenience and reducing security risks. By providing centralized management and secure access, JumpServer facilitates efficient and secure remote access to critical systems and applications.
+JumpServer is an open-source Privileged Access Management (PAM) platform that enables secure on-demand access to various endpoints, including SSH, RDP, and Kubernetes, through a web browser. This platform provides DevOps and IT teams with a centralized and secure solution for remote access and management. With JumpServer, users can easily access and manage multiple endpoints without compromising security.
 
 ---
 

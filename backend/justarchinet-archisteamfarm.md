@@ -25,9 +25,9 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the ArchiSteamFarm project:
+Here's a brief summary for the open-source project:
 
-ArchiSteamFarm is an open-source C# application designed to automate Steam card farming from multiple accounts simultaneously, streamlining the process of collecting these digital items. This tool enables users to efficiently farm Steam cards across multiple accounts, potentially saving time and effort. By utilizing this application, users can focus on other aspects of their Steam experience while still benefiting from the rewards.
+ArchiSteamFarm is an open-source C# application designed for farming Steam cards from multiple accounts simultaneously, making it an efficient tool for enthusiasts and collectors. This application allows users to automate the process of collecting Steam cards across multiple accounts, saving time and effort. With its backend capabilities and dev tools, ArchiSteamFarm offers a robust solution for those looking to build a comprehensive Steam card collection.
 
 ---
 

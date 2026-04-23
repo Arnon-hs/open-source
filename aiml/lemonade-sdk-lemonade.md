@@ -1,6 +1,6 @@
 # lemonade-sdk/lemonade
 
-[![Stars](https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=flat-square&color=yellow)](https://github.com/lemonade-sdk/lemonade/stargazers) [![Forks](https://img.shields.io/github/forks/lemonade-sdk/lemonade?style=flat-square&color=blue)](https://github.com/lemonade-sdk/lemonade/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=flat-square&color=yellow)](https://github.com/lemonade-sdk/lemonade/stargazers) [![Forks](https://img.shields.io/github/forks/lemonade-sdk/lemonade?style=flat-square&color=blue)](https://github.com/lemonade-sdk/lemonade/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 271 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

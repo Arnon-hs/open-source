@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Jan is an open-source, offline AI chatbot that serves as a free alternative to ChatGPT. This 100% offline-capable tool allows users to engage in conversations without relying on internet connectivity, making it ideal for those with limited or no access to the web. Developed by the janhq community, Jan harnesses the power of artificial intelligence and machine learning to facilitate seamless conversations.
+Jan is an open-source, offline AI chatbot alternative to ChatGPT, allowing users to engage in conversational interactions without requiring an internet connection. This project offers a 100% offline capability, providing users with a secure and self-contained AI experience. By running locally on a user's computer, Jan enables private and autonomous AI conversations.
 
 ---
 

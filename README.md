@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **1112** |
+| 🗂️ **Total projects** | **1198** |
 | 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 417 | [Browse →](./aiml/) |
-| 📦 **Misc** | 205 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 123 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 94 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 63 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 44 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 43 | [Browse →](./crypto/) |
-| 📊 **Data** | 33 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 27 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 22 | [Browse →](./mobile/) |
-| 💳 **Payments** | 13 | [Browse →](./payments/) |
-| 📈 **Trading** | 13 | [Browse →](./trading/) |
-| 🔐 **Security** | 9 | [Browse →](./security/) |
+| 🤖 **AI/ML** | 453 | [Browse →](./aiml/) |
+| 📦 **Misc** | 213 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 128 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 103 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 69 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 47 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 46 | [Browse →](./crypto/) |
+| 📊 **Data** | 35 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 30 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 26 | [Browse →](./mobile/) |
+| 💳 **Payments** | 15 | [Browse →](./payments/) |
+| 📈 **Trading** | 15 | [Browse →](./trading/) |
+| 🔐 **Security** | 12 | [Browse →](./security/) |
 | 🎯 **Product** | 5 | [Browse →](./product/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
 
@@ -38,16 +38,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [freeCodeCamp/devdocs](./backend/freecodecamp-devdocs.md) | ⭐ 38.8k | Backend |
-| 2 | [docmost/docmost](./misc/docmost-docmost.md) | ⭐ 19.9k | Misc |
-| 3 | [XIU2/TrackersListCollection](./aiml/xiu2-trackerslistcollection.md) | ⭐ 31.1k | AI/ML |
-| 4 | [vxcontrol/pentagi](./orchestration/vxcontrol-pentagi.md) | ⭐ 15.4k | Orchestration |
-| 5 | [bluewave-labs/Checkmate](./frontend/bluewave-labs-checkmate.md) | ⭐ 9.7k | Frontend |
-| 6 | [code-yeongyu/oh-my-openagent](./orchestration/code-yeongyu-oh-my-openagent.md) | ⭐ 53.5k | Orchestration |
-| 7 | [affaan-m/everything-claude-code](./aiml/affaan-m-everything-claude-code.md) | ⭐ 164.4k | AI/ML |
-| 8 | [ComposioHQ/composio](./aiml/composiohq-composio.md) | ⭐ 27.9k | AI/ML |
-| 9 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
-| 10 | [iOfficeAI/AionUi](./aiml/iofficeai-aionui.md) | ⭐ 22.4k | AI/ML |
+| 1 | [HKUDS/nanobot](./aiml/hkuds-nanobot.md) | ⭐ 40.6k | AI/ML |
+| 2 | [armbian/build](./aiml/armbian-build.md) | ⭐ 5.2k | AI/ML |
+| 3 | [zhayujie/CowAgent](./orchestration/zhayujie-cowagent.md) | ⭐ 43.6k | Orchestration |
+| 4 | [stashapp/stash](./misc/stashapp-stash.md) | ⭐ 12.2k | Misc |
+| 5 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
+| 6 | [getsops/sops](./security/getsops-sops.md) | ⭐ 21.6k | Security |
+| 7 | [rtk-ai/rtk](./aiml/rtk-ai-rtk.md) | ⭐ 32.7k | AI/ML |
+| 8 | [evcc-io/evcc](./misc/evcc-io-evcc.md) | ⭐ 6.5k | Misc |
+| 9 | [expo/expo](./frontend/expo-expo.md) | ⭐ 48.9k | Frontend |
+| 10 | [mem0ai/mem0](./orchestration/mem0ai-mem0.md) | ⭐ 53.9k | Orchestration |
 
 ## 🚀 How it works
 

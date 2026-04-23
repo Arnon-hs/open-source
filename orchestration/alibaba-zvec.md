@@ -25,7 +25,7 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-The Alibaba Zvec project is an open-source, in-process vector database that offers high performance and efficiency. It provides a lightweight solution for storing and querying vector data, making it suitable for various applications such as AI/ML model serving, data analytics, and real-time data processing. Zvec enables fast and scalable vector operations, reducing latency and improving overall system throughput.
+The Alibaba ZVector project is an open-source, in-process vector database that provides a lightweight and lightning-fast storage solution for vectors. It is designed to support the efficient storage and retrieval of vectors, making it suitable for applications such as natural language processing, computer vision, and recommendation systems. With its in-process design, ZVector enables fast vector operations and reduces the overhead associated with inter-process communication.
 
 ---
 

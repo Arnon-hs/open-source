@@ -27,7 +27,7 @@ Crypto · Orchestration · AI/ML
 
 Here's a brief summary for the lsdefine/GenericAgent project:
 
-The lsdefine/GenericAgent is an open-source project that enables the creation of self-evolving agents capable of autonomous growth and system control. Built on a 3.3K-line seed, this agent achieves full system control while reducing token consumption by 6 times, showcasing its efficiency and potential applications in crypto, orchestration, and AI/ML. This project demonstrates innovative advancements in agent technology and its potential for real-world applications.
+The lsdefine/GenericAgent is an open-source, self-evolving agent that utilizes a 3.3K-line seed to grow a skill tree, enabling it to achieve full system control with significantly reduced token consumption. This project combines expertise in Crypto, Orchestration, and AI/ML to create a highly efficient and adaptable system. With its unique approach to AI development, the GenericAgent has the potential to revolutionize the way we interact with complex systems.
 
 ---
 

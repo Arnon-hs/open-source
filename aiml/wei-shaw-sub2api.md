@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary (2-3 sentences) for the open-source project:
 
-Sub2API is an open-source, one-stop proxy service for unified subscription access to popular AI models, including Claude, OpenAI, Gemini, and Antigravity. This platform enables efficient cost sharing and reduced expenses through ride-sharing capabilities, allowing seamless integration with native tools. By centralizing subscription management, Sub2API simplifies AI development and usage for developers.
+Sub2API is an open-source, unified gateway service that enables seamless integration of various AI platforms, including Claude, OpenAI, Gemini, and Antigravity, into a single interface. This streamlined solution allows for efficient cost allocation and ride-sharing capabilities, making it an ideal choice for developers who want to harness the power of these AI tools with minimal overhead. By providing a native tool integration, Sub2API simplifies the development process and enhances productivity.
 
 ---
 

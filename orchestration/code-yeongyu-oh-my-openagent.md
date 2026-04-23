@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "code-yeongyu/oh-my-openagent":
+Here's a brief summary of the open-source project:
 
-Oh-My-OpenAgent is a powerful agent harness designed to streamline automation and orchestration processes. This open-source project, previously known as Oh-My-Opencode, leverages AI/ML capabilities to simplify complex tasks and enhance frontend development. By harnessing the full potential of automation, Oh-My-OpenAgent empowers users to optimize workflows and achieve greater efficiency.
+omo (formerly oh-my-opencode) is an open-source project that provides a powerful agent harness for streamlined orchestration and integration with AI/ML and frontend applications. This versatile tool enables developers to build, deploy, and manage complex systems with ease, optimizing efficiency and productivity. By harnessing the potential of omo, users can unlock seamless workflows and accelerated innovation.
 
 ---
 

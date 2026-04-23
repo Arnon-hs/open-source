@@ -1,6 +1,6 @@
 # EKKOLearnAI/hermes-web-ui
 
-[![Stars](https://img.shields.io/github/stars/EKKOLearnAI/hermes-web-ui?style=flat-square&color=yellow)](https://github.com/EKKOLearnAI/hermes-web-ui/stargazers) [![Forks](https://img.shields.io/github/forks/EKKOLearnAI/hermes-web-ui?style=flat-square&color=blue)](https://github.com/EKKOLearnAI/hermes-web-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EKKOLearnAI/hermes-web-ui?style=flat-square&color=yellow)](https://github.com/EKKOLearnAI/hermes-web-ui/stargazers) [![Forks](https://img.shields.io/github/forks/EKKOLearnAI/hermes-web-ui?style=flat-square&color=blue)](https://github.com/EKKOLearnAI/hermes-web-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 198 |
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 202 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-Cherry Studio is an open-source AI productivity studio that combines smart chat, autonomous agents, and over 300 integrated assistants to boost user efficiency. It provides unified access to cutting-edge Large Language Models (LLMs), empowering users to tap into the latest advancements in AI technology. This comprehensive platform is designed to streamline workflows and enhance collaboration.
+Cherry Studio is an open-source, AI-powered productivity platform that offers a unified interface to access various large language models (LLMs) and their capabilities. With over 300 integrated assistants and autonomous agents, users can leverage a range of smart tools, including a chat feature, to streamline their workflow and boost productivity. This platform provides developers and individuals with a flexible and innovative solution for harnessing the power of cutting-edge AI technology.
 
 ---
 

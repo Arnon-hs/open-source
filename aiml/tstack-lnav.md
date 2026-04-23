@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-LNav is an open-source log file navigator designed to provide efficient navigation and exploration of large log files. It's built to aid developers and analysts in searching, filtering, and visualizing log data, streamlining their workflow and improving productivity. By leveraging AI/ML capabilities, LNnav also enables intelligent search and data insights.
+The lnav project is an open-source log file navigator designed to simplify the process of browsing and analyzing large log files. It utilizes a powerful and interactive interface to allow users to efficiently search, filter, and visualize log data, making it an essential tool for AI/ML practitioners and developers. By leveraging its intuitive frontend, users can quickly identify trends and patterns in their log files, streamlining the debugging and troubleshooting process.
 
 ---
 

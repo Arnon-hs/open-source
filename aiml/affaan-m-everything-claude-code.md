@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 164.4k |
+| ⭐ **Stars** | 164.5k |
 | 🍴 **Forks** | 25.5k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
@@ -25,7 +25,7 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-The affaan-m/everything-claude-code project is an open-source system designed to optimize the performance of AI agents. It encompasses a range of skills and features, including instinct, memory, security, and research-driven development, tailored for AI models such as Claude Code, Codex, and others. This comprehensive platform aims to enhance the capabilities and reliability of AI systems.
+The affaan-m/everything-claude-code project is an open-source system that aims to optimize the performance of agents, such as Claude Code, Codex, and Opencode, by leveraging skills, instincts, memory, security, and research-first development principles. This comprehensive framework is designed to enhance the capabilities and efficiency of AI models, ensuring robust and secure operations. It is categorized under AI/ML, DevTools, and Security.
 
 ---
 

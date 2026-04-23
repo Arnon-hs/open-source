@@ -25,9 +25,9 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a summary of the project in 2-3 sentences:
+Here's a 2-3 sentence summary for the dataease/SQLBot project:
 
-DataEase's SQLBot is an open-source, intelligent query system that leverages large language models and Retrieval-Augmented Generation (RAG) to facilitate interactive data analysis. It enables users to generate SQL queries through natural language interactions, empowering data exploration and insights. This innovative system streamlines the process of querying and analyzing data, making it more accessible and user-friendly.
+Dataease's SQLBot is an open-source intelligent questioning system that leverages large language models and Retrieval-Augmented Generation (RAG) for text-to-SQL generation. This innovative tool enables users to interactively analyze data through natural language queries, making complex data analysis more accessible and user-friendly. By harnessing the power of AI and ML, SQLBot streamlines the process of extracting insights from data.
 
 ---
 

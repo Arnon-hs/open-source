@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the gitui project:
-
-Gitui is a blazing-fast terminal user interface for Git, written in Rust, designed to provide a seamless and efficient Git experience in the terminal. It offers a modern and intuitive way to interact with Git repositories, making it a valuable tool for developers and Git users. With its Rust-based architecture, gitui ensures high performance and reliability.
+Gitui is a high-performance, open-source terminal-based user interface for Git written in Rust. It provides a fast and user-friendly way to interact with Git repositories directly from the terminal. With its blazing speed and Rust-based architecture, gitui aims to simplify Git operations and enhance the overall developer experience.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The lance-format/lance project introduces an open Lakehouse format for multimodal AI data. It enables users to convert from Parquet in just two lines of code, resulting in significant performance improvements for random access, vector indexing, and data versioning. By supporting popular libraries like Pandas, DuckDB, and PyTorch, lance simplifies AI data management and analysis.
+The lance-format/lance project is an open-source Lakehouse format designed to support multimodal AI applications. It enables users to convert Parquet files into a more efficient format, resulting in 100x faster random access, vector index, and data versioning capabilities. lance is compatible with popular data science libraries including Pandas, DuckDB, Polars, Pyarrow, and PyTorch.
 
 ---
 

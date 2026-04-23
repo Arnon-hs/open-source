@@ -25,7 +25,7 @@ Crypto · Security
 
 ## 📝 Summary
 
-The aws/s2n-tls project is an open-source implementation of the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols. It is designed to provide a secure, efficient, and highly customizable solution for cryptographic communication, enabling the encryption of data in transit. This project is a valuable resource for developers seeking to add robust security features to their applications.
+The aws/s2n-tls project is an open-source implementation of the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols, providing a secure and reliable way to establish encrypted connections over networks. This project offers a highly customizable and adaptable solution for developers to integrate robust TLS/SSL functionality into their applications. By leveraging this implementation, users can ensure the confidentiality, integrity, and authenticity of their data in transit.
 
 ---
 

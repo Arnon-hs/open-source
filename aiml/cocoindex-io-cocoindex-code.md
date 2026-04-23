@@ -1,6 +1,6 @@
 # cocoindex-io/cocoindex-code
 
-[![Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex-code?style=flat-square&color=yellow)](https://github.com/cocoindex-io/cocoindex-code/stargazers) [![Forks](https://img.shields.io/github/forks/cocoindex-io/cocoindex-code?style=flat-square&color=blue)](https://github.com/cocoindex-io/cocoindex-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex-code?style=flat-square&color=yellow)](https://github.com/cocoindex-io/cocoindex-code/stargazers) [![Forks](https://img.shields.io/github/forks/cocoindex-io/cocoindex-code?style=flat-square&color=blue)](https://github.com/cocoindex-io/cocoindex-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

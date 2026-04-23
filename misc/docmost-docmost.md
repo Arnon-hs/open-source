@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Docmost is an open-source collaborative wiki and documentation software designed to facilitate teamwork and knowledge sharing. As an alternative to Confluence and Notion, it offers a free and customizable platform for creating, editing, and managing documentation in real-time. With docmost, users can collaborate seamlessly and access their information from anywhere.
+Docmost is a free and open-source collaborative wiki and documentation platform that enables teams to create, share, and manage knowledge bases efficiently. As a Confluence and Notion alternative, docmost offers a flexible and customizable solution for documentation needs, perfect for teams and organizations of all sizes. Its open-source nature makes it highly customizable and community-driven.
 
 ---
 

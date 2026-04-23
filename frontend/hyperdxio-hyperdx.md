@@ -25,9 +25,9 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the HyperDX project:
+Here's a brief summary of the hyperdx open-source project:
 
-HyperDX is an open-source observability platform designed to help resolve production issues quickly. It integrates session replays, logs, metrics, traces, and error monitoring, leveraging ClickHouse and OpenTelemetry for efficient data collection and analysis. This unified platform enables developers to gain a comprehensive view of their application, streamlining troubleshooting and optimization efforts.
+Hyperdx is an open-source observability platform that streamlines production issue resolution by unifying various data sources, including session replays, logs, metrics, traces, and errors. Leveraging ClickHouse and OpenTelemetry, hyperdx provides a comprehensive view of system performance and behavior. This unified platform enables developers to quickly diagnose and resolve production issues, improving overall system reliability and efficiency.
 
 ---
 
