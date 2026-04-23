@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**23 projects** in this category.
+**24 projects** in this category.
 
 ## Projects
 
@@ -30,7 +30,8 @@
 | 20 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 163 | Go | 55/100 |
 | 21 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 55/100 |
 | 22 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 308 | Python | 53/100 |
-| 23 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 44/100 |
+| 23 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
+| 24 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 44/100 |
 
 ---
 

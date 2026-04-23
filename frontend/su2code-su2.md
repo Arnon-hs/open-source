@@ -25,7 +25,7 @@ Frontend · Design
 
 ## 📝 Summary
 
-SU2 is an open-source suite for multiphysics simulation and design, providing a comprehensive framework for solving complex engineering problems. This tool enables users to model, analyze, and optimize various systems, encompassing aerodynamics, fluid dynamics, and other disciplines. By offering a user-friendly interface and a wide range of numerical methods, SU2 facilitates the design and optimization of innovative solutions in various fields.
+SU2 is an open-source software suite that enables users to perform multiphysics simulation and design for a wide range of applications. This comprehensive tool supports various computational methods, including aerodynamics, fluid dynamics, and structural mechanics, allowing users to model and analyze complex systems. By leveraging SU2, developers and researchers can accelerate innovation and discovery in fields such as aerospace engineering, biomedical research, and industrial design.
 
 ---
 

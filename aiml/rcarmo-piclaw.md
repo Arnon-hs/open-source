@@ -1,6 +1,6 @@
 # rcarmo/piclaw
 
-[![Stars](https://img.shields.io/github/stars/rcarmo/piclaw?style=flat-square&color=yellow)](https://github.com/rcarmo/piclaw/stargazers) [![Forks](https://img.shields.io/github/forks/rcarmo/piclaw?style=flat-square&color=blue)](https://github.com/rcarmo/piclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rcarmo/piclaw?style=flat-square&color=yellow)](https://github.com/rcarmo/piclaw/stargazers) [![Forks](https://img.shields.io/github/forks/rcarmo/piclaw?style=flat-square&color=blue)](https://github.com/rcarmo/piclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > I'm going to build my own OpenClaw, with blackjack... and bun!
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 560 |
-| 🍴 **Forks** | 38 |
+| 🍴 **Forks** | 39 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

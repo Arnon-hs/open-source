@@ -25,7 +25,7 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-Flow is an open-source, Layer 1 proof-of-stake blockchain designed to support large-scale consumer applications, artificial intelligence (AI) agents, and decentralized finance (DeFi) solutions. This blockchain network is built to facilitate seamless interactions and scalability. The onflow/flow repository serves as the central hub for the Flow network.
+Flow is an open-source, Layer 1 proof-of-stake blockchain designed to support scalable consumer applications, AI Agents, and decentralized finance (DeFi) solutions. This platform aims to provide a robust foundation for real-world use cases and is maintained within the onflow/flow repository hub. Flow offers a versatile ecosystem for various applications, including AI and DeFi.
 
 ---
 

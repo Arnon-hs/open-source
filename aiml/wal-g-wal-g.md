@@ -25,7 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Wal-g is an open-source project that provides a comprehensive solution for archiving and restoring databases in the cloud. It enables efficient and secure data backup, management, and recovery, ensuring business continuity and minimizing downtime. By leveraging wal-g, developers can simplify database management and focus on core applications.
+Wal-g is an open-source project designed to provide archival and restoration capabilities for databases in cloud environments. It helps organizations manage database backups and recoveries efficiently, ensuring business continuity and minimizing data loss. By automating database archival and restoration processes, wal-g simplifies data management and reduces the risk of data corruption or loss.
 
 ---
 

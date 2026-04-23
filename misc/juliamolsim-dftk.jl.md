@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-DFTK.jl is an open-source density-functional toolkit designed to facilitate electronic structure calculations using the density-functional theory (DFT) framework. This Julia-based package provides a comprehensive set of tools for solving the Kohn-Sham equations, enabling researchers to perform efficient and accurate simulations of materials' properties. By leveraging the Julia programming language's performance and ease of use, DFTK.jl streamlines the process of materials modeling and simulation.
+DFTK.jl is an open-source, Julia-based density-functional toolkit for computational materials science. It provides a flexible and efficient framework for solving the Kohn-Sham equations, enabling researchers to simulate the behavior of materials at the atomic level. With DFTK.jl, scientists can perform calculations of electronic structure, thermodynamic properties, and more, facilitating the discovery of new materials and understanding material behavior.
 
 ---
 

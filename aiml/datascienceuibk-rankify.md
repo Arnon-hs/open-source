@@ -25,9 +25,9 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the Rankify project:
+Here's a 2-3 sentence summary for the Rankify project:
 
-Rankify is an open-source Python toolkit designed to facilitate retrieval, re-ranking, and retrieval-augmented generation tasks. It offers a comprehensive collection of 40 pre-retrieved benchmark datasets and supports a wide range of retrieval techniques, reranking models, and RAG methods, making it an ideal resource for AI and ML practitioners. With its extensive features and dataset library, Rankify streamlines the process of developing and testing retrieval-based models.
+Rankify is an open-source Python toolkit designed to simplify the process of retrieval, re-ranking, and retrieval-augmented generation tasks in data science. It integrates a comprehensive collection of 40 pre-retrieved benchmark datasets, alongside 7+ retrieval techniques, 24+ state-of-the-art reranking models, and multiple retrieval-augmented generation (RAG) methods. This versatile toolkit empowers users to efficiently experiment with various AI/ML approaches and accelerate their research and development endeavors.
 
 ---
 

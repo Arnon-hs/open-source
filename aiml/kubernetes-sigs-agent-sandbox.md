@@ -1,6 +1,6 @@
 # kubernetes-sigs/agent-sandbox
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/agent-sandbox?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/agent-sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/agent-sandbox?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/agent-sandbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/agent-sandbox?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/agent-sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/agent-sandbox?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/agent-sandbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 213 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

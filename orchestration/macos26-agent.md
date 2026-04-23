@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/macOS26/Agent?style=flat-square&color=yellow)](https://github.com/macOS26/Agent/stargazers) [![Forks](https://img.shields.io/github/forks/macOS26/Agent?style=flat-square&color=blue)](https://github.com/macOS26/Agent/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> Any AI, replaces Claude Code, Cursor, Cline, Open Claw. 17+ LLM providers (Claude, OpenAI, Gemini, Ollama, Zai, HF, Qwen) wired into a native Mac app that writes code, builds Xcode projects, bumps versions, manages git, Eautomates Safari, AppleScript 50 apps, extend w/ MCP Servers, run tasks from your iPhone via Messages, drive any Accessible app.
+> Any AI, replaces Claude Code, Cursor, Open Claw. 17+ LLM providers (Claude, OpenAI, Gemini, Ollama, Zai, HF, Qwen) wired into a native Mac app that writes code, builds Xcode projects, bumps versions, manages git, automate Safari, AppleScript 50 apps, extend w/ MCP Servers, run tasks from your iPhone via Messages, drive any Accessible app.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 376 |
+| ⭐ **Stars** | 377 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 53/100 |

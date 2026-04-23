@@ -25,7 +25,7 @@ Data · Security
 
 ## 📝 Summary
 
-The google/osv-scanner is an open-source vulnerability scanner written in Go that leverages the data provided by OSV (Open Source Vulnerability Database), enabling users to identify potential security risks in their software dependencies. This tool helps developers and security teams stay up-to-date with the latest vulnerability information, facilitating proactive defense against cyber threats. By utilizing OSV's comprehensive database, the scanner provides accurate and reliable vulnerability scanning capabilities.
+The google/osv-scanner is an open-source vulnerability scanner written in Go that leverages data from the Open Source Vulnerabilities (OSV) database. This tool enables users to identify potential security risks in their software dependencies by scanning for known vulnerabilities. By utilizing the comprehensive OSV database, the scanner provides a reliable and efficient solution for ensuring the security of open-source components.
 
 ---
 

@@ -25,7 +25,9 @@ Security
 
 ## 📝 Summary
 
-Pocket-id is an open-source OIDC (OpenID Connect) provider that enables secure authentication using passkeys, simplifying user verification for services. This lightweight solution streamlines the process of integrating passkey authentication, making it accessible to a wide range of applications and services. By utilizing pocket-id, developers can enhance security and user experience with a seamless, passwordless authentication process.
+Here's a brief summary for the pocket-id/pocket-id project:
+
+pocket-id is an open-source OIDC (OpenID Connect) provider that simplifies authentication for services by allowing users to log in with their passkeys. This lightweight and user-friendly solution eliminates the need for complex password management, offering a secure and seamless user experience. By integrating pocket-id, developers can easily add passkey-based authentication to their applications.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-Claude Code Statusline is an open-source project that elevates the Claude Code terminal experience with a customizable statusline. It offers a range of features, including real-time cost tracking, MCP monitoring, and prayer times, all presented in a visually appealing format. This flexible tool allows users to tailor their terminal environment to suit their needs and preferences.
+Here's a summary for the project:
+
+"Introducing Claude Code Statusline, an open-source terminal enhancement that brings atomic precision to your coding experience. This powerful extension offers customizable layouts, real-time cost tracking, MCP monitoring, and even prayer times, all presented in a beautiful and modern format. Elevate your coding workflow with this flexible and feature-rich tool."
 
 ---
 

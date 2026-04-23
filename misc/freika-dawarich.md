@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Freika/dawarich is an open-source, self-hostable alternative to Google Timeline, offering a secure way to store and view location history data. This project allows users to maintain control over their personal location data, providing a decentralized and private solution for those seeking alternatives to cloud-based services. By self-hosting, users can ensure their location history remains confidential.
+Freika/dawarich is an open-source, self-hosted alternative to Google Timeline, allowing users to maintain control over their location history. This project provides a decentralized solution for users to store and view their GPS coordinates and timeline, free from the constraints of a third-party service like Google Location History. By hosting the data locally, users can ensure their location information remains private and secure.
 
 ---
 

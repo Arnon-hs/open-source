@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the arimxyer/models project:
-
-Arimxyer/models is an open-source project that provides a TUI (Text User Interface) and CLI (Command Line Interface) for exploring and browsing AI models, benchmarks, coding agents, and statuses offered by various AI providers. This project offers a convenient and accessible way for developers and researchers to discover and interact with AI models, facilitating the adoption and integration of AI technologies. By leveraging this tool, users can streamline their AI model exploration and selection process.
+The arimxyer/models project is an open-source initiative that provides a Text-Based User Interface (TUI) and Command-Line Interface (CLI) for interacting with AI models, benchmarks, coding agents, and status updates from various AI providers. This project aims to streamline the exploration and utilization of AI services for developers and professionals in the field. By offering a user-friendly interface, arimxyer/models facilitates access to the vast landscape of AI models and tools.
 
 ---
 

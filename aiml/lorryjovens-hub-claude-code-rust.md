@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a 2-3 sentence summary for the open-source project:
 
-Claude Code is a high-performance Rust implementation that offers significant improvements in performance and binary size. Its full-stack Rust rebuild has resulted in a 2.5x faster startup time and a 97% reduction in binary size, making it a more efficient choice for users. This project is ideal for developers working with AI/ML and DevTools applications.
+Claude Code is a high-performance Rust implementation that offers a significant improvement in startup speed and binary size. With a 2.5x faster startup time and a 97% reduction in binary size, Claude Code is optimized for efficiency. This open-source project enables developers to leverage the power of Rust for AI and ML applications.
 
 ---
 

@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The sofa-framework/sofa project is an open-source software framework for real-time multi-physics simulation, specifically designed with medical simulation applications in mind. This framework enables researchers and developers to create highly realistic and interactive simulations of various medical phenomena, such as soft tissue mechanics and organ behavior. By leveraging sofa, users can accelerate the development of medical simulation tools and models.
+Here's a brief summary for the sofa-framework/sofa project:
+
+The sofa-framework/sofa project is an open-source, real-time multi-physics simulation platform that specializes in medical simulation applications. It provides a versatile framework for researchers and developers to model and analyze complex physical interactions in various medical contexts. This platform enables the creation of realistic simulations for training, research, and education in the medical field.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Wax is an open-source, single-file memory layer designed for AI agents, optimized for fast performance on Apple Silicon devices. It achieves sub-millisecond Retrieval-Augmentation-Generation (RAG) capabilities without requiring a server or API, making it an efficient choice for on-device AI applications. Written in pure Swift, Wax is a compact and lightweight solution for AI development.
+Wax is a highly optimized, single-file memory layer for AI agents that can perform sub-millisecond Retrieval-Augmentation-Generation (RAG) operations on Apple Silicon devices. This lightweight, Metal-optimized solution eliminates the need for servers and APIs, providing a seamless on-device experience. Developed in pure Swift, Wax offers a convenient, open-source alternative for building efficient AI applications.
 
 ---
 

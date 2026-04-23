@@ -25,7 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-This project, mermaid-rs-renderer, is a high-performance, open-source tool for rendering Mermaid diagrams natively in Rust, eliminating the need for a browser. It achieves speed improvements of 500-1000x over mermaid-cli, making it an efficient solution for developers working with visualizations. This renderer is suitable for AI/ML and frontend development, as well as DevTools.
+Here's a brief summary for the project:
+
+This open-source project, Mermaid-rs-renderer, is a high-performance, native Rust renderer for Mermaid diagrams that can function without a browser, significantly outpacing other rendering tools like mermaid-cli with speeds up to 1000x faster. This project is ideal for AI/ML and frontend developers who require efficient rendering of complex diagrams. By leveraging Rust, it offers a fast and powerful solution for generating Mermaid diagrams.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The aws/aws-sdk-go-v2 project is an open-source, client-side SDK for the Go programming language that enables developers to interact with Amazon Web Services (AWS). This SDK provides a set of libraries and tools for building scalable and secure applications on AWS, allowing developers to easily integrate AWS services into their Go-based projects. With aws-sdk-go-v2, developers can take advantage of AWS services such as S3, EC2, and Lambda, among others.
+The aws/aws-sdk-go-v2 project is an open-source software development kit (SDK) for the AWS (Amazon Web Services) ecosystem, specifically designed for use with the Go programming language. It provides a comprehensive set of APIs and tools for interacting with various AWS services, enabling developers to easily integrate AWS functionality into their Go applications. With aws-sdk-go-v2, developers can access a wide range of AWS services, including storage, computation, databases, and more.
 
 ---
 

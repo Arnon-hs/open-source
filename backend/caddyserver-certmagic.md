@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Certmagic is an open-source project that automatically configures and manages HTTPS for Go programs, handling the entire process of TLS certificate issuance and renewal. This tool enables developers to easily secure their applications with secure, trusted connections. By automating the HTTPS setup, certmagic simplifies the process of deploying secure backend services.
+The certmagic project is an open-source tool that simplifies HTTPS setup for Go programs by automating the issuance and renewal of TLS certificates. It provides a fully-managed solution for obtaining and managing SSL certificates, freeing developers from the complexities of manual certificate management. With certmagic, developers can easily enable HTTPS for their Go applications.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Sync-in/server is an open-source platform that provides a secure and centralized solution for file storage, sharing, collaboration, and syncing across various devices. This AI/ML-enabled backend system offers a robust and scalable infrastructure for seamless data synchronization, making it ideal for teams and individuals seeking efficient file management. By leveraging Sync-in/server, users can effortlessly access and manage their files from anywhere, ensuring seamless productivity and collaboration.
+The Sync-in/server project is an open-source, secure platform designed for file storage, sharing, collaboration, and syncing. Built on a robust backend architecture, this platform enables users to easily manage and access their files across multiple devices, promoting seamless collaboration and productivity. By harnessing the power of open-source technology, Sync-in/server fosters a secure and efficient file management experience.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the martin-ger/esp32_nat_router project:
+Here's a brief summary for the martin-ger/esp32_nat_router open-source project:
 
-The martin-ger/esp32_nat_router is an open-source project that leverages AI capabilities to create a NAT Router/Firewall for the ESP32 microcontroller. This innovative solution enables efficient network management, secure communication, and automated threat detection for IoT applications. By integrating AI and machine learning techniques, this project enhances the security and reliability of network-connected devices.
+The martin-ger/esp32_nat_router project is an open-source implementation of a NAT (Network Address Translation) router and firewall for the ESP32 microcontroller, leveraging AI capabilities to enhance network security and management. This innovative project provides a flexible and efficient solution for IoT networks, enabling users to build custom network routing and security systems. By integrating AI into the router, it can learn and adapt to network behaviors, improving network resilience and security.
 
 ---
 

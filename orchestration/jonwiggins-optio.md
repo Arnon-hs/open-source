@@ -1,0 +1,32 @@
+# jonwiggins/optio
+
+[![Stars](https://img.shields.io/github/stars/jonwiggins/optio?style=flat-square&color=yellow)](https://github.com/jonwiggins/optio/stargazers) [![Forks](https://img.shields.io/github/forks/jonwiggins/optio?style=flat-square&color=blue)](https://github.com/jonwiggins/optio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+
+> Workflow orchestration for AI coding agents, from task to merged PR.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 912 |
+| 🍴 **Forks** | 96 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Orchestration · AI/ML · DevOps/Infra
+
+## 📝 Summary
+
+The jonwiggins/optio project is an open-source workflow orchestration tool designed specifically for AI coding agents. It enables a seamless workflow from task assignment to merged pull requests, streamlining the development process. By leveraging optio, developers can more efficiently integrate AI coding agents into their DevOps pipelines.
+
+---
+
+<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/jonwiggins/optio) · [← Back to Orchestration](./README.md)</sub>

@@ -25,7 +25,7 @@ DevTools · Product
 
 ## 📝 Summary
 
-The tock project is an open-source command-line time tracking tool designed to provide a powerful and efficient solution for monitoring and managing time spent on various tasks. With its user-friendly interface, tock allows users to easily track and log their time, making it an ideal tool for developers, freelancers, and professionals seeking to optimize their productivity and time management skills. By leveraging the command line, tock offers a flexible and customizable solution for time tracking.
+Tock is a free and open-source time tracking tool designed for command-line interfaces, providing a powerful solution for developers to track and manage their time. This tool allows users to easily log, view, and analyze their time spent on various tasks and projects. With its user-friendly interface, Tock streamlines time tracking and enhances productivity.
 
 ---
 

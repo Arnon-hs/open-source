@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Roo Code is an open-source project that brings AI-powered development assistance directly to your code editor. This innovative tool provides a virtual team of AI agents, allowing developers to tap into a wealth of expertise and automate repetitive tasks. By integrating AI capabilities, Roo Code aims to streamline the development process and boost productivity.
+Roo Code is an open-source project that integrates AI agents directly into code editors, providing developers with a virtual team of assistants. This innovative tool leverages AI/ML capabilities to offer real-time coding assistance, suggestions, and collaboration features. With Roo Code, developers can focus on their projects while AI agents handle routine tasks, optimizing productivity and efficiency.
 
 ---
 

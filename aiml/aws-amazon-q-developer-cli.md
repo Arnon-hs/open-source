@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The Amazon Q Developer CLI is an open-source tool that enables developers to build applications using natural language in their terminal, providing an agentic chat experience. This innovative tool allows users to interact with their code in a more intuitive and conversational way, facilitating the development process. By leveraging AI and ML capabilities, developers can build complex applications more efficiently and effectively.
+The Amazon Q Developer CLI is an open-source project that enables developers to build applications using natural language in a user-friendly terminal interface. It provides an agentic chat experience, allowing developers to interact with their code in a more intuitive and conversational way. This innovative tool leverages AI and ML capabilities to streamline the development process.
 
 ---
 

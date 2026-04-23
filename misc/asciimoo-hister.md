@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Hister is an open-source project that enables users to create their own search engine. This project provides a customizable solution for building a search engine, allowing developers to tailor the functionality to their specific needs. By leveraging this project, users can establish a personalized search engine that suits their requirements.
+The asciimoo/hister project is an open-source initiative that enables users to create and host their own custom search engine. This search engine is designed to be simple, customizable, and free from the constraints of commercial search platforms. With hister, users can index their own content or use it as a starting point for a more comprehensive search solution.
 
 ---
 

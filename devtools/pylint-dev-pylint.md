@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Pylint is a highly configurable and extendable source code, bug, and quality checker for Python projects. It helps developers write more maintainable and efficient code by detecting errors, warnings, and code smells. This open-source tool is a valuable resource for ensuring the quality and reliability of Python software.
+Pylint is an open-source static code analysis tool designed to help Python developers identify errors and improve code quality. It acts as a linter, detecting issues with style, syntax, and best practices, making it easier to maintain and debug code. By using pylint, developers can significantly reduce errors and improve the overall maintainability of their Python projects.
 
 ---
 

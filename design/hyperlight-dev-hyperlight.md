@@ -25,7 +25,7 @@ Design
 
 ## 📝 Summary
 
-Hyperlight is an open-source, lightweight Virtual Machine Manager (VMM) that allows safe execution of untrusted code within micro virtual machines. This embeddable VMM provides low latency and minimal overhead, making it suitable for various applications. By leveraging Hyperlight, developers can ensure secure and efficient execution of potentially malicious code.
+Hyperlight is an open-source Virtual Machine Manager (VMM) designed for embedded applications, providing a safe and efficient environment for executing untrusted code. It achieves low latency and minimal overhead through its micro virtual machine approach, enabling seamless integration within various applications. This lightweight VMM is ideal for applications requiring secure and high-performance execution of untrusted code.
 
 ---
 

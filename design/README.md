@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**6 projects** in this category.
+**8 projects** in this category.
 
 ## Projects
 
@@ -12,8 +12,10 @@
 | 2 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |
 | 3 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 2.8k | TypeScript | 78/100 |
 | 4 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 72/100 |
-| 5 | [metacraft-labs/codetracer](./metacraft-labs-codetracer.md) | ⭐ 1.3k | Rust | 59/100 |
-| 6 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 59/100 |
+| 5 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 59/100 |
+| 6 | [metacraft-labs/codetracer](./metacraft-labs-codetracer.md) | ⭐ 1.3k | Rust | 59/100 |
+| 7 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
+| 8 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 52/100 |
 
 ---
 

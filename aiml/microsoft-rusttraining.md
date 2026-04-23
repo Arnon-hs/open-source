@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Microsoft's open-source project, RustTraining, offers comprehensive training materials for developers of all levels, from beginners to experts, to learn and master the Rust programming language. This extensive resource covers various aspects of Rust, providing a solid foundation for AI and ML applications. By leveraging RustTraining, developers can enhance their skills and stay up-to-date with the latest Rust developments in the field of AI/ML.
+The Microsoft/RustTraining project is an open-source initiative offering comprehensive Rust programming language training resources tailored for developers at various skill levels. This repository provides beginner, advanced, and expert-level training materials, helping users master the Rust language and enhance their software development skills. With a focus on AI/ML, this project caters to the growing need for skilled Rust developers in the field of artificial intelligence and machine learning.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Flipt is an open-source, enterprise-ready feature management solution that integrates seamlessly with Git. It allows developers to manage and roll out new features to their applications in a controlled and version-controlled manner, improving collaboration and reducing the risk of feature rollbacks. With Flipt, teams can streamline their feature development and deployment workflows.
+Flipt is an open-source feature management solution that is enterprise-ready and natively integrated with Git. It allows teams to manage and deploy features across their applications in a seamless and version-controlled manner. With Flipt, developers can efficiently collaborate on feature development, reduce complexity, and improve the overall quality of their software.
 
 ---
 

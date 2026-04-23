@@ -25,7 +25,7 @@ Frontend · DevTools · Security
 
 ## 📝 Summary
 
-Aya is an open-source eBPF library designed for the Rust programming language, prioritizing a seamless developer experience and operability. This library provides a foundation for building eBPF-based applications, offering a secure and efficient way to interact with the Linux kernel. Aya aims to simplify the development process and improve the overall operability of eBPF-based projects.
+Aya is an open-source, eBPF library for Rust, designed to provide a seamless developer experience and robust operability. By leveraging the power of eBPF, Aya enables developers to build high-performance, low-latency applications with enhanced security features. This library serves as a valuable tool for building secure and efficient applications.
 
 ---
 

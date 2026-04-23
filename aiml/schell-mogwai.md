@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Mogwai is an open-source, minimalist web application framework that provides a simple, obvious, and graphical interface for building user-friendly applications. It is categorized under AI/ML and Frontend, suggesting its potential integration with artificial intelligence and machine learning capabilities. This framework aims to streamline the development process with a focus on ease of use and visual appeal.
+The schell/mogwai project is an open-source, minimalist graphical web application interface that utilizes AI/ML capabilities to provide a user-friendly and intuitive experience. This frontend-focused project aims to simplify the development and interaction of web applications, making it more accessible for users. By leveraging AI-powered tools, mogwai enhances the web application interface, creating a seamless and efficient user experience.
 
 ---
 
