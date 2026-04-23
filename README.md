@@ -18,12 +18,12 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 87 | [Browse →](./aiml/) |
-| 📦 **Misc** | 24 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
-| 📊 **Data** | 10 | [Browse →](./data/) |
-| ⚙️ **Backend** | 10 | [Browse →](./backend/) |
-| 📱 **Mobile** | 8 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 74 | [Browse →](./aiml/) |
+| 🎨 **Frontend** | 26 | [Browse →](./frontend/) |
+| 📦 **Misc** | 26 | [Browse →](./misc/) |
+| ⚙️ **Backend** | 13 | [Browse →](./backend/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
 | 🔧 **DevTools** | 1 | [Browse →](./devtools/) |

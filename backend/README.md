@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**10 projects** in this category.
+**13 projects** in this category.
 
 ## Projects
 
@@ -11,13 +11,16 @@
 | 1 | [usebruno/bruno](./usebruno-bruno.md) | ⭐ 43.1k | JavaScript | 100/100 |
 | 2 | [nextcloud/server](./nextcloud-server.md) | ⭐ 34.7k | PHP | 100/100 |
 | 3 | [questdb/questdb](./questdb-questdb.md) | ⭐ 16.9k | Java | 100/100 |
-| 4 | [microsoft/playwright](./microsoft-playwright.md) | ⭐ 87.1k | TypeScript | 100/100 |
-| 5 | [camunda/camunda](./camunda-camunda.md) | ⭐ 4.1k | Java | 89/100 |
-| 6 | [open-telemetry/opentelemetry-python](./open-telemetry-opentelemetry-python.md) | ⭐ 2.4k | Python | 80/100 |
-| 7 | [privacyidea/privacyidea](./privacyidea-privacyidea.md) | ⭐ 1.7k | Python | 67/100 |
-| 8 | [ebean-orm/ebean](./ebean-orm-ebean.md) | ⭐ 1.5k | Java | 65/100 |
-| 9 | [matrix-org/matrix-rust-sdk](./matrix-org-matrix-rust-sdk.md) | ⭐ 2.1k | Rust | 65/100 |
-| 10 | [Hommy-master/capcut-mate](./hommy-master-capcut-mate.md) | ⭐ 814 | Python | 57/100 |
+| 4 | [caddyserver/caddy](./caddyserver-caddy.md) | ⭐ 71.8k | Go | 100/100 |
+| 5 | [awslabs/mcp](./awslabs-mcp.md) | ⭐ 8.8k | Python | 100/100 |
+| 6 | [cli/cli](./cli-cli.md) | ⭐ 44k | Go | 95/100 |
+| 7 | [Termix-SSH/Termix](./termix-ssh-termix.md) | ⭐ 12.3k | TypeScript | 90/100 |
+| 8 | [camunda/camunda](./camunda-camunda.md) | ⭐ 4.1k | Java | 89/100 |
+| 9 | [open-telemetry/opentelemetry-python](./open-telemetry-opentelemetry-python.md) | ⭐ 2.4k | Python | 80/100 |
+| 10 | [privacyidea/privacyidea](./privacyidea-privacyidea.md) | ⭐ 1.7k | Python | 67/100 |
+| 11 | [ebean-orm/ebean](./ebean-orm-ebean.md) | ⭐ 1.5k | Java | 65/100 |
+| 12 | [matrix-org/matrix-rust-sdk](./matrix-org-matrix-rust-sdk.md) | ⭐ 2.1k | Rust | 65/100 |
+| 13 | [Hommy-master/capcut-mate](./hommy-master-capcut-mate.md) | ⭐ 814 | Python | 57/100 |
 
 ---
 
