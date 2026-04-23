@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**15 projects** in this category.
+**16 projects** in this category.
 
 ## Projects
 
@@ -22,7 +22,8 @@
 | 12 | [quic/aimet](./quic-aimet.md) | ⭐ 2.6k | Python | 75/100 |
 | 13 | [intel/neural-compressor](./intel-neural-compressor.md) | ⭐ 2.6k | Python | 73/100 |
 | 14 | [NVIDIA/cuda-quantum](./nvidia-cuda-quantum.md) | ⭐ 1k | C++ | 63/100 |
-| 15 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
+| 15 | [amitshekhariitbhu/ai-engineering-interview-questions](./amitshekhariitbhu-ai-engineering-interview-questions.md) | ⭐ 1.2k | Markdown | 62/100 |
+| 16 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
 
 ---
 

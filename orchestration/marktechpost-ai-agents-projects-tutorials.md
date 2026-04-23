@@ -1,6 +1,6 @@
 # Marktechpost/AI-Agents-Projects-Tutorials
 
-[![Stars](https://img.shields.io/github/stars/Marktechpost/AI-Agents-Projects-Tutorials?style=flat-square&color=yellow)](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/stargazers) [![Forks](https://img.shields.io/github/forks/Marktechpost/AI-Agents-Projects-Tutorials?style=flat-square&color=blue)](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Marktechpost/AI-Agents-Projects-Tutorials?style=flat-square&color=yellow)](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/stargazers) [![Forks](https://img.shields.io/github/forks/Marktechpost/AI-Agents-Projects-Tutorials?style=flat-square&color=blue)](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent systems, memory, planning, reasoning loops
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 507 |
+| 🍴 **Forks** | 508 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

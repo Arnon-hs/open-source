@@ -1,0 +1,32 @@
+# EvoMap/evolver
+
+[![Stars](https://img.shields.io/github/stars/EvoMap/evolver?style=flat-square&color=yellow)](https://github.com/EvoMap/evolver/stargazers) [![Forks](https://img.shields.io/github/forks/EvoMap/evolver?style=flat-square&color=blue)](https://github.com/EvoMap/evolver/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+
+> The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6.6k |
+| 🍴 **Forks** | 643 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 95/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Orchestration · AI/ML · DevTools
+
+## 📝 Summary
+
+EvoMap/evolver is an open-source, self-evolving engine for AI agents that utilizes Gene Expression Programming (GEP) for auditable, data-driven evolution. This engine enables the creation of adaptive AI agents by combining genes, capsules, and events in a flexible and controllable manner. By leveraging GEP, EvoMap/evolver facilitates the development of intelligent agents that can learn and adapt to complex environments.
+
+---
+
+<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/EvoMap/evolver) · [← Back to Orchestration](./README.md)</sub>

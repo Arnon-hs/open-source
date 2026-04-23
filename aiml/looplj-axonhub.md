@@ -1,6 +1,6 @@
 # looplj/axonhub
 
-[![Stars](https://img.shields.io/github/stars/looplj/axonhub?style=flat-square&color=yellow)](https://github.com/looplj/axonhub/stargazers) [![Forks](https://img.shields.io/github/forks/looplj/axonhub?style=flat-square&color=blue)](https://github.com/looplj/axonhub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/looplj/axonhub?style=flat-square&color=yellow)](https://github.com/looplj/axonhub/stargazers) [![Forks](https://img.shields.io/github/forks/looplj/axonhub?style=flat-square&color=blue)](https://github.com/looplj/axonhub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.3k |
-| 🍴 **Forks** | 370 |
+| 🍴 **Forks** | 371 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

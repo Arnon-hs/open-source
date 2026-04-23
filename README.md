@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **1198** |
+| 🗂️ **Total projects** | **1278** |
 | 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 453 | [Browse →](./aiml/) |
-| 📦 **Misc** | 213 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 128 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 103 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 69 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 47 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 46 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 493 | [Browse →](./aiml/) |
+| 📦 **Misc** | 223 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 132 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 114 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 71 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 56 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 47 | [Browse →](./crypto/) |
 | 📊 **Data** | 35 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 30 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 31 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 26 | [Browse →](./mobile/) |
-| 💳 **Payments** | 15 | [Browse →](./payments/) |
-| 📈 **Trading** | 15 | [Browse →](./trading/) |
+| 💳 **Payments** | 16 | [Browse →](./payments/) |
+| 📈 **Trading** | 16 | [Browse →](./trading/) |
 | 🔐 **Security** | 12 | [Browse →](./security/) |
 | 🎯 **Product** | 5 | [Browse →](./product/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
@@ -38,16 +38,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [HKUDS/nanobot](./aiml/hkuds-nanobot.md) | ⭐ 40.6k | AI/ML |
-| 2 | [armbian/build](./aiml/armbian-build.md) | ⭐ 5.2k | AI/ML |
-| 3 | [zhayujie/CowAgent](./orchestration/zhayujie-cowagent.md) | ⭐ 43.6k | Orchestration |
-| 4 | [stashapp/stash](./misc/stashapp-stash.md) | ⭐ 12.2k | Misc |
+| 1 | [mermaid-js/mermaid](./aiml/mermaid-js-mermaid.md) | ⭐ 87.6k | AI/ML |
+| 2 | [sickn33/antigravity-awesome-skills](./orchestration/sickn33-antigravity-awesome-skills.md) | ⭐ 34.7k | Orchestration |
+| 3 | [sharkdp/fd](./devtools/sharkdp-fd.md) | ⭐ 42.7k | DevTools |
+| 4 | [soxoj/maigret](./aiml/soxoj-maigret.md) | ⭐ 19.6k | AI/ML |
 | 5 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
-| 6 | [getsops/sops](./security/getsops-sops.md) | ⭐ 21.6k | Security |
-| 7 | [rtk-ai/rtk](./aiml/rtk-ai-rtk.md) | ⭐ 32.7k | AI/ML |
-| 8 | [evcc-io/evcc](./misc/evcc-io-evcc.md) | ⭐ 6.5k | Misc |
-| 9 | [expo/expo](./frontend/expo-expo.md) | ⭐ 48.9k | Frontend |
-| 10 | [mem0ai/mem0](./orchestration/mem0ai-mem0.md) | ⭐ 53.9k | Orchestration |
+| 6 | [sherlock-project/sherlock](./aiml/sherlock-project-sherlock.md) | ⭐ 81.8k | AI/ML |
+| 7 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
+| 8 | [authelia/authelia](./devopsinfra/authelia-authelia.md) | ⭐ 27.6k | DevOps & Infra |
+| 9 | [nicolargo/glances](./backend/nicolargo-glances.md) | ⭐ 32.3k | Backend |
+| 10 | [ValueCell-ai/ClawX](./orchestration/valuecell-ai-clawx.md) | ⭐ 6.7k | Orchestration |
 
 ## 🚀 How it works
 

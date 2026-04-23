@@ -24,13 +24,13 @@
 | 14 | [paradedb/paradedb](./paradedb-paradedb.md) | ⭐ 8.7k | Rust | 91/100 |
 | 15 | [pgmpy/pgmpy](./pgmpy-pgmpy.md) | ⭐ 3.3k | Python | 88/100 |
 | 16 | [facebookincubator/velox](./facebookincubator-velox.md) | ⭐ 4.1k | C++ | 86/100 |
-| 17 | [PRQL/prql](./prql-prql.md) | ⭐ 10.8k | Rust | 83/100 |
-| 18 | [cockroachdb/pebble](./cockroachdb-pebble.md) | ⭐ 5.9k | Go | 83/100 |
+| 17 | [cockroachdb/pebble](./cockroachdb-pebble.md) | ⭐ 5.9k | Go | 83/100 |
+| 18 | [PRQL/prql](./prql-prql.md) | ⭐ 10.8k | Rust | 83/100 |
 | 19 | [common-voice/common-voice](./common-voice-common-voice.md) | ⭐ 3.5k | TypeScript | 82/100 |
 | 20 | [pgdogdev/pgdog](./pgdogdev-pgdog.md) | ⭐ 4.3k | Rust | 79/100 |
 | 21 | [linuxfoundation/crowd.dev](./linuxfoundation-crowd.dev.md) | ⭐ 3.4k | TypeScript | 78/100 |
-| 22 | [cberner/redb](./cberner-redb.md) | ⭐ 4.4k | Rust | 76/100 |
-| 23 | [opensearch-project/OpenSearch-Dashboards](./opensearch-project-opensearch-dashboards.md) | ⭐ 2k | TypeScript | 76/100 |
+| 22 | [opensearch-project/OpenSearch-Dashboards](./opensearch-project-opensearch-dashboards.md) | ⭐ 2k | TypeScript | 76/100 |
+| 23 | [cberner/redb](./cberner-redb.md) | ⭐ 4.4k | Rust | 76/100 |
 | 24 | [cartography-cncf/cartography](./cartography-cncf-cartography.md) | ⭐ 3.8k | Python | 74/100 |
 | 25 | [numaproj/numaflow](./numaproj-numaflow.md) | ⭐ 2.5k | Rust | 68/100 |
 | 26 | [apache/kudu](./apache-kudu.md) | ⭐ 1.9k | C++ | 67/100 |
