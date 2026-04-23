@@ -25,9 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the yusing/godoxy project:
-
-yusing/godoxy is an open-source, high-performance reverse proxy and container orchestrator designed specifically for self-hosters. It enables efficient deployment, scaling, and management of containerized applications, making it an ideal solution for individuals and organizations seeking to host their services in-house. By leveraging AI/ML capabilities, yusing/godoxy provides a robust and scalable infrastructure for self-hosted applications.
+The yusing/godoxy project is an open-source solution designed for self-hosters, offering a high-performance reverse proxy and container orchestrator. This versatile tool enables efficient management of containerized applications, streamlining the process of deployment, scaling, and maintenance. With its robust features and flexibility, yusing/godoxy is an ideal choice for users seeking a reliable and scalable infrastructure solution.
 
 ---
 

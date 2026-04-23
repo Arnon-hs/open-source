@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the ReMe project:
-
-ReMe is an open-source Memory Management Kit for Agents, designed to improve the recall and refinement of memory in artificial intelligence (AI) systems. Developed as part of the agentscope-ai project, ReMe aims to enhance the performance and efficiency of AI agents by optimizing their memory management capabilities. This kit provides a framework for AI developers to refine and remember key information, leading to more effective and informed decision-making.
+ReMe is an open-source AI project that provides a Memory Management Kit for Agents, designed to enhance the recall and refinement of agent memories. This kit enables more efficient and effective management of agent knowledge, facilitating improved decision-making and performance. By refining agent memories, ReMe helps to optimize agent capabilities and adaptability in complex environments.
 
 ---
 

@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project 'gokcehan/lf':
-
-Lift (lf) is a lightweight, open-source terminal file manager designed for navigating and managing files in a command-line interface. This project aims to provide an efficient and user-friendly way to interact with directories and files from the terminal, making it a valuable tool for developers and system administrators. With its simple and intuitive design, lf allows users to easily manage their files without leaving the terminal.
+The LF project provides an open-source, terminal-based file manager designed for users who prefer a command-line interface. With LF, users can navigate, manage, and interact with files directly within their terminal, enhancing productivity and efficiency. This project offers a simple yet effective solution for file management.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the webiny/webiny-js project:
+Here's a brief summary for the webiny/webiny-js project:
 
-Webiny is an open-source, self-hosted CMS platform designed for large organizations, providing a scalable and secure solution for content management. Built on AWS serverless technologies, including Lambda, DynamoDB, and S3, the platform leverages a TypeScript framework, multi-tenancy, and lifecycle hooks to streamline content creation and management. With its GraphQL API and AI-assisted development capabilities, Webiny empowers developers to build and deploy custom content experiences at scale.
+Webiny is an open-source, self-hosted CMS platform built on AWS serverless technologies, allowing developers to create scalable and efficient content management systems for large organizations. This TypeScript-based framework features multi-tenancy capabilities, lifecycle hooks, a GraphQL API, and AI-assisted development via the MCP server. With Webiny, developers can build custom CMS solutions that meet their specific needs.
 
 ---
 

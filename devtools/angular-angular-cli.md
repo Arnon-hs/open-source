@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Angular CLI is an open-source command line interface tool designed to streamline the development of Angular applications. It provides a range of functionalities, including project scaffolding, code generation, and build automation, making it easier for developers to create and maintain Angular projects. With the Angular CLI, developers can efficiently build, test, and deploy Angular applications.
+The angular/angular-cli project is an open-source command-line interface (CLI) tool designed to simplify the development and maintenance of Angular applications. It provides a robust set of tools for building, serving, and testing Angular projects, ensuring a streamlined development workflow. With angular-cli, developers can quickly create new Angular projects, generate code, and deploy applications with ease.
 
 ---
 

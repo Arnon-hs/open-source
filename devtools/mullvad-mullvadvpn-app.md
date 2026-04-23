@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The Mullvad VPN client app is an open-source, cross-platform project that provides users with a secure and private internet browsing experience. This desktop and mobile application enables users to easily connect to Mullvad's VPN network, protecting their online identity and data from unauthorized access. By utilizing the Mullvad VPN client app, users can maintain their anonymity and security while accessing the internet.
+The Mullvad VPN client app is an open-source project that provides a secure and user-friendly virtual private network (VPN) experience for desktop and mobile devices. It allows users to easily connect to a global network of servers, ensuring their online activities remain private and secure. The app is designed to be highly customizable and transparent, making it a popular choice among individuals seeking online anonymity and protection.
 
 ---
 

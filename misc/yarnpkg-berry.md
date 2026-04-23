@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Yarnpkg/berry is the active development trunk for the popular package manager Yarn. This open-source project is focused on maintaining and advancing the core functionality of Yarn, ensuring that users have access to the latest features and improvements. By being an active development trunk, it allows for seamless integration of new updates and bug fixes into the Yarn ecosystem.
+Yarnpkg/berry is the active development trunk for Yarn, a fast and reliable package manager for the JavaScript ecosystem. This open-source project focuses on developing and testing new features, improvements, and bug fixes for Yarn. By participating in its development, users can contribute to shaping the future of package management in JavaScript.
 
 ---
 

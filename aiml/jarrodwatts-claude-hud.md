@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Claude-HUD is an open-source plugin for Claude Code, providing real-time insights into your project's status. It displays essential information such as context usage, active tools, running agents, and todo progress, enhancing your productivity and workflow. This plugin is ideal for developers working with AI/ML projects, serving as a valuable DevTool.
+Here's a brief summary for the open-source project:
+
+Claude-HUD is an open-source plugin for the Claude AI code platform, providing a dashboard that offers real-time insights into the workflow. This includes information on context usage, active tools, running agents, and todo progress, helping developers stay informed and productive. By visualizing key metrics, Claude-HUD streamlines the development process for AI/ML projects.
 
 ---
 

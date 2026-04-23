@@ -25,7 +25,9 @@ Trading · AI/ML · Mobile
 
 ## 📝 Summary
 
-The cactus-compute/cactus project is an open-source, low-latency AI engine designed specifically for mobile devices and wearables. This engine enables the development of efficient and responsive AI applications on resource-constrained platforms, with potential applications in trading, artificial intelligence, and machine learning. By providing a lightweight and optimized AI framework, cactus aims to unlock the full potential of mobile devices and wearables in AI-driven tasks.
+Here's a 2-3 sentence summary for the cactus-compute/cactus project:
+
+The cactus project is an open-source, low-latency AI engine designed for mobile devices and wearables, enabling efficient and timely AI processing for various applications. This engine is particularly suited for real-time trading and other latency-sensitive use cases that require high-performance AI capabilities on-the-go. By leveraging this engine, developers can create innovative AI-powered products for mobile devices and wearables.
 
 ---
 

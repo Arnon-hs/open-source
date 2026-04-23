@@ -25,7 +25,7 @@ DevOps/Infra · Security
 
 ## 📝 Summary
 
-Kubescape is an open-source platform that enhances Kubernetes security by providing risk analysis, security scanning, and compliance checks. This tool saves time and resources for administrators and users by identifying misconfigurations and vulnerabilities within Kubernetes clusters, CI/CD pipelines, and IDE environments. By utilizing Kubescape, teams can ensure the secure operation of their Kubernetes deployments.
+Kubescape is an open-source Kubernetes security platform designed to streamline security, compliance, and risk analysis for users and administrators. It provides a comprehensive scanning solution for misconfigurations and vulnerabilities, saving time and resources. With Kubescape, developers can easily integrate security checks into their IDE, CI/CD pipelines, and clusters.
 
 ---
 

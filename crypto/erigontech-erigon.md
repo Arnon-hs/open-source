@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The erigon project is an open-source implementation of the Ethereum network, optimized for performance and efficiency. Its goal is to provide a high-performance Ethereum client that balances scalability and security, making it an attractive option for Ethereum users and developers. By leveraging cutting-edge technologies, erigon aims to be a leading choice for those seeking an efficient and reliable Ethereum experience.
+Erigon is an open-source Ethereum implementation that prioritizes efficiency, aiming to optimize performance and scalability for the Ethereum network. This project is a significant contribution to the cryptocurrency space, offering a more streamlined and robust Ethereum platform. By leveraging advancements in AI/ML and other technologies, Erigon seeks to enhance the overall user experience and reliability of the Ethereum ecosystem.
 
 ---
 

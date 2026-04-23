@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **1429** |
+| 🗂️ **Total projects** | **1478** |
 | 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,36 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 551 | [Browse →](./aiml/) |
-| 📦 **Misc** | 242 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 153 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 132 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 78 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 571 | [Browse →](./aiml/) |
+| 📦 **Misc** | 249 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 156 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 138 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 81 | [Browse →](./backend/) |
 | 🔧 **DevTools** | 66 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 52 | [Browse →](./crypto/) |
-| 📊 **Data** | 40 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 34 | [Browse →](./devopsinfra/) |
+| ⛓️ **Crypto** | 55 | [Browse →](./crypto/) |
+| 📊 **Data** | 41 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 35 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 26 | [Browse →](./mobile/) |
+| 💳 **Payments** | 21 | [Browse →](./payments/) |
 | 📈 **Trading** | 18 | [Browse →](./trading/) |
-| 💳 **Payments** | 17 | [Browse →](./payments/) |
 | 🔐 **Security** | 13 | [Browse →](./security/) |
-| 🎯 **Product** | 5 | [Browse →](./product/) |
+| 🎯 **Product** | 6 | [Browse →](./product/) |
 | ✨ **Design** | 2 | [Browse →](./design/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [lionsoul2014/ip2region](./devtools/lionsoul2014-ip2region.md) | ⭐ 19k | DevTools |
-| 2 | [cython/cython](./data/cython-cython.md) | ⭐ 10.7k | Data |
-| 3 | [rtk-ai/rtk](./aiml/rtk-ai-rtk.md) | ⭐ 32.9k | AI/ML |
-| 4 | [ghostfolio/ghostfolio](./trading/ghostfolio-ghostfolio.md) | ⭐ 8.2k | Trading |
-| 5 | [Qiskit/qiskit](./trading/qiskit-qiskit.md) | ⭐ 7.3k | Trading |
-| 6 | [HKUDS/DeepTutor](./orchestration/hkuds-deeptutor.md) | ⭐ 21.1k | Orchestration |
-| 7 | [elie222/inbox-zero](./aiml/elie222-inbox-zero.md) | ⭐ 10.5k | AI/ML |
-| 8 | [FreeCAD/FreeCAD](./misc/freecad-freecad.md) | ⭐ 30.5k | Misc |
-| 9 | [hiyouga/LlamaFactory](./trading/hiyouga-llamafactory.md) | ⭐ 70.5k | Trading |
-| 10 | [mouredev/roadmap-retos-programacion](./frontend/mouredev-roadmap-retos-programacion.md) | ⭐ 8.2k | Frontend |
+| 1 | [ghostfolio/ghostfolio](./trading/ghostfolio-ghostfolio.md) | ⭐ 8.2k | Trading |
+| 2 | [Qiskit/qiskit](./trading/qiskit-qiskit.md) | ⭐ 7.3k | Trading |
+| 3 | [FreeCAD/FreeCAD](./misc/freecad-freecad.md) | ⭐ 30.5k | Misc |
+| 4 | [mouredev/roadmap-retos-programacion](./frontend/mouredev-roadmap-retos-programacion.md) | ⭐ 8.2k | Frontend |
+| 5 | [opf/openproject](./product/opf-openproject.md) | ⭐ 14.9k | Product |
+| 6 | [elie222/inbox-zero](./aiml/elie222-inbox-zero.md) | ⭐ 10.5k | AI/ML |
+| 7 | [curl/curl](./aiml/curl-curl.md) | ⭐ 41.4k | AI/ML |
+| 8 | [monero-project/monero](./crypto/monero-project-monero.md) | ⭐ 10.5k | Crypto |
+| 9 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 112k | AI/ML |
+| 10 | [bpftrace/bpftrace](./misc/bpftrace-bpftrace.md) | ⭐ 10.1k | Misc |
 
 ## 🚀 How it works
 

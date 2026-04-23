@@ -25,7 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Fluid is an open-source project that provides a flexible and elastic data abstraction layer for BigData and AI applications in cloud environments. As a Cloud Native Computing Foundation (CNCF) project, Fluid aims to simplify the development and deployment of data-intensive applications by abstracting away complex data processing and storage layers. This project accelerates the development of AI and BigData applications by providing a unified interface for data access and processing.
+Fluid is an open-source project under the Cloud Native Computing Foundation (CNCF) that provides a flexible and elastic data abstraction layer for Big Data and AI applications in the cloud. It aims to accelerate the development and deployment of these applications by offering a scalable and portable data processing framework. By leveraging fluid, developers can build cloud-native data pipelines and AI workloads with greater ease and efficiency.
 
 ---
 

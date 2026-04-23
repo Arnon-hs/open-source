@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the HKUDS/DeepTutor project:
+Here's a brief summary for the HKUDS/DeepTutor open-source project:
 
-DeepTutor is an open-source, agent-native personalized learning assistant that utilizes AI/ML technologies to provide tailored educational support. This innovative platform aims to revolutionize the learning experience by offering adaptive and personalized guidance to students, helping them achieve their full potential. By leveraging orchestration and AI/ML capabilities, DeepTutor empowers educators and learners alike to unlock new levels of academic success.
+DeepTutor is an open-source, agent-native personalized learning assistant that utilizes AI/ML capabilities to provide tailored educational support. This project integrates orchestration and DevTools to enable seamless and effective learning experiences. By leveraging its AI-driven approach, DeepTutor aims to revolutionize the way students learn and interact with educational content.
 
 ---
 

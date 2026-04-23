@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Crush is an open-source project that aims to provide a platform for glamorous and agent-based coding, focusing on AI/ML applications. This project enables developers to create advanced, interactive, and dynamic systems with ease, making it a valuable tool for researchers and developers in the field of artificial intelligence and machine learning.
+The crush project is an open-source initiative that utilizes AI/ML technologies to empower developers with a more elegant and efficient coding experience. This project aims to provide a sophisticated coding solution that combines the strengths of human creativity and machine learning capabilities. By leveraging AI-driven tools, crush seeks to streamline and enhance the coding process for developers of all levels.
 
 ---
 

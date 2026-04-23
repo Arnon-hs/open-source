@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The cloudflare/workers-sdk project is an open-source initiative that serves as the home for Wrangler, a command-line interface (CLI) designed specifically for Cloudflare Workers. This tool helps developers manage and deploy Cloudflare Workers with ease, streamlining the process of building, testing, and deploying serverless applications. It is an essential companion for anyone working with Cloudflare Workers.
+The cloudflare/workers-sdk is an open-source project that serves as the foundation for Cloudflare Workers, a powerful platform for building serverless applications. It includes Wrangler, a command-line interface (CLI) that enables developers to deploy, manage, and develop Cloudflare Workers with ease. This SDK provides a comprehensive toolset for building and running scalable, high-performance applications on the Cloudflare network.
 
 ---
 

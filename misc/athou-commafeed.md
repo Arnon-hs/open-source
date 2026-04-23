@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-CommaFeed is an open-source, self-hosted RSS reader that draws inspiration from Google Reader, providing users with a personal feed management experience. This project allows users to host their own feed aggregator, giving them control over their online content consumption. With CommaFeed, users can easily manage and customize their feeds, offering a secure and private alternative to traditional RSS readers.
+CommaFeed is a self-hosted, open-source personal RSS reader inspired by Google Reader. It provides a simple and intuitive interface for managing and reading RSS feeds, allowing users to stay up-to-date on their favorite websites and blogs. With CommaFeed, users can host their own RSS reader on their own servers, maintaining control and security over their feed data.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Crates.io is the official package registry for the Rust programming language, providing a central hub for discovering, sharing, and managing Rust libraries and dependencies. This open-source project allows developers to easily find and integrate third-party libraries into their projects, fostering community collaboration and accelerating Rust application development. By hosting the registry, crates.io plays a vital role in the growth and adoption of the Rust ecosystem.
+Crates.io is the official package registry for the Rust programming language, providing a centralized platform for users to discover, download, and manage Rust packages. It serves as a crucial resource for the Rust community, allowing developers to easily find and integrate third-party libraries and tools into their projects. With a vast collection of packages, crates.io facilitates the growth and adoption of Rust as a versatile and widely-used programming language.
 
 ---
 

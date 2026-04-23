@@ -25,9 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the "bottom" project:
+Here's a brief summary for the project:
 
-Bottom is an open-source, cross-platform graphical process/system monitor that provides real-time insights into system performance. This lightweight tool offers a user-friendly interface to view and manage processes, making it an essential utility for developers, system administrators, and power users. With its cross-platform compatibility, bottom is accessible on various operating systems.
+Bottom is an open-source, cross-platform graphical process and system monitor that provides real-time system information. This lightweight application offers a user-friendly interface for viewing system performance, processes, and other vital system metrics. With its cross-platform compatibility, Bottom is accessible on various operating systems, making it a versatile tool for developers and system administrators.
 
 ---
 

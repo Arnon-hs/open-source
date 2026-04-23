@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-The medialab/xan project, also known as "The CSV Magician," is an open-source tool designed to assist developers and data analysts with CSV file manipulation. It provides a set of features to simplify and streamline common tasks, making it easier to work with CSV files. This project aims to make data processing and analysis more efficient and accessible.
+Here's a brief summary for the medialab/xan project:
+
+Xan, also known as "The CSV Magician," is an open-source tool designed to efficiently handle and manipulate CSV files. It provides a powerful and user-friendly interface for developers to work with CSV data, making it an essential addition to any developer's toolkit. With Xan, users can easily import, export, and transform CSV files, streamlining their workflow and saving time.
 
 ---
 

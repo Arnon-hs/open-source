@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-AgentScope Java is an open-source project that utilizes Agent-Oriented Programming (AOP) to develop Large Language Model (LLM) applications. This framework provides a robust platform for building, managing, and integrating LLMs into various applications, enabling developers to create sophisticated AI-powered systems. By leveraging AOP principles, AgentScope Java facilitates the creation of modular, flexible, and scalable LLM applications.
+AgentScope Java is an open-source framework for building Large Language Model (LLM) applications using Agent-Oriented Programming (AOP) principles. This framework enables developers to design and deploy AI-powered applications with modular, scalable, and maintainable architectures. By leveraging AOP, AgentScope Java simplifies the development of complex AI applications and accelerates innovation in the field of natural language processing.
 
 ---
 

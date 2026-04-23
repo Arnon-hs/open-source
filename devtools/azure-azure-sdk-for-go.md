@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The Azure SDK for Go is an open-source project that enables developers to build and deploy cloud applications on Azure using the Go programming language. It provides a comprehensive set of libraries and tools for interacting with Azure services, making it easier to integrate cloud functionality into Go-based applications. With this SDK, developers can access a wide range of Azure services, including storage, compute, and networking, to build scalable and secure cloud solutions.
+The Azure SDK for Go is an open-source project that provides a collection of libraries and tools for developing Go applications on the Azure cloud platform. This project offers a comprehensive set of APIs and tools for interacting with various Azure services, enabling developers to build scalable and secure applications. By leveraging this SDK, Go developers can easily integrate their applications with Azure services, streamlining development and deployment processes.
 
 ---
 

@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The ohayou project is an open-source HTTP load generator that simulates user traffic and helps test the performance of web applications. It is designed to be visually engaging, featuring a TUI (Text-based User Interface) animation, inspired by the hey tool. Ohayou enables developers to easily stress test their applications and identify potential bottlenecks.
+Here's a brief summary for the open-source project "hatoo/oha":
+
+Ohayou (oha) is an open-source HTTP load generator that emulates real-world traffic to test web applications. Built with a focus on simplicity and inspired by rakyll/hey, oha integrates a user-friendly, interactive TUI (Text User Interface) animation. This tool enables developers to easily simulate load and stress test their web services.
 
 ---
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-SciSharp/BotSharp is an open-source, AI multi-agent framework built on .NET, designed to provide a robust and scalable infrastructure for developing complex AI systems. This framework enables developers to create and manage multiple AI agents, facilitating collaboration, communication, and decision-making between them. By leveraging BotSharp, users can efficiently orchestrate and integrate AI models to tackle a wide range of applications, from robotics to finance and beyond.
+SciSharp/BotSharp is an open-source, AI multi-agent framework built on .NET, designed to enable the creation and orchestration of complex artificial intelligence systems. This versatile framework allows developers to build and integrate various agents, facilitating collaboration and decision-making in AI applications. By leveraging BotSharp, users can efficiently develop and deploy multi-agent systems for various use cases, including simulations, robotics, and more.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Dulwich is a pure-Python Git implementation, providing a lightweight and efficient way to interact with Git repositories. It allows developers to read and write Git repositories without relying on external Git binaries, making it an ideal choice for projects that require Git functionality within their Python code. With Dulwich, users can easily manipulate Git data, including commits, trees, and blobs.
+The dulwich project is a pure-Python implementation of the Git version control system. It allows developers to interact with Git repositories using Python, making it a valuable tool for a range of use cases, from scripting to integration with other applications. By providing a Git implementation in Python, dulwich enables easier development and automation of Git-related tasks.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The openchamber project provides a user-friendly, open-source interface for interacting with the OpenCode AI agent, offering seamless access to its capabilities from both desktop and web platforms. This innovative interface empowers users to harness the power of OpenCode AI in an intuitive and accessible manner. By bridging the gap between AI technology and user experience, openchamber fosters a more inclusive and productive collaboration between humans and machines.
+Here's a brief summary for the open-source project:
+
+OpenChamber is an open-source project that provides a desktop and web interface for the OpenCode AI agent, enabling users to interact with the AI model in a user-friendly and accessible way. The project combines AI/ML capabilities with a modern frontend interface, making it easier for developers and non-technical users to harness the power of OpenCode. With OpenChamber, users can explore and utilize the OpenCode AI agent in a variety of applications.
 
 ---
 

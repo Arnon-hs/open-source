@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Neomutt is a highly customizable, open-source email client based on the original mutt. It offers a wide range of features, including support for artificial intelligence and machine learning capabilities. Neomutt provides users with a powerful and flexible tool for managing their email inbox.
+Neomutt is an open-source email client built to improve upon the classic mutt email client experience. It combines traditional email functionality with modern features, providing users with a powerful and customizable email management tool. Developed in C, Neomutt is designed to be efficient and flexible, making it a popular choice for those seeking a high-performance email client.
 
 ---
 

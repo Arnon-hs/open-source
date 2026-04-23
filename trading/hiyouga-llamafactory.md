@@ -27,7 +27,7 @@ Trading · AI/ML
 
 Here's a brief summary of the hiyouga/LlamaFactory project:
 
-LlamaFactory is an open-source project that enables unified efficient fine-tuning of over 100 large language models (LLMs) and vision-language models (VLMs), showcasing its capabilities at the ACL 2024 conference. This project offers a comprehensive platform for researchers and practitioners to leverage the full potential of various LLMs and VLMs, driving innovation in the fields of trading and AI/ML. By providing a unified framework, LlamaFactory streamlines the process of fine-tuning these models, fostering accelerated development and application of AI-powered solutions.
+LlamaFactory is an open-source project that enables unified efficient fine-tuning of over 100 large language models (LLMs) and vision-language models (VLMs). This project was presented at the ACL 2024 conference and offers a platform for trading and AI/ML applications. By facilitating the fine-tuning of multiple models, LlamaFactory aims to streamline the development process for various tasks and domains.
 
 ---
 
