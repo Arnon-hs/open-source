@@ -25,8 +25,10 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-dyad-sh/dyad is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 100/100.
+Here's a brief summary for the dyad-sh/dyad project:
+
+dyad is an open-source, local AI app builder designed for power users. This project offers an alternative to popular AI development platforms, providing users with a flexible and customizable environment to create their own AI applications. By leveraging dyad's capabilities, users can build and deploy AI-powered apps without relying on cloud-based services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/dyad-sh/dyad) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/dyad-sh/dyad) · [← Back to AI/ML](./README.md)</sub>

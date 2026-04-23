@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 110.4k |
+| ⭐ **Stars** | 110.6k |
 | 🍴 **Forks** | 16k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | 2026-04-22 |
+| 🗓️ **Last push** | 2026-04-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,10 @@ AI/ML
 
 ## 📝 Summary
 
-NousResearch/hermes-agent is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
+Here's a brief summary for the NousResearch/hermes-agent project:
+
+Hermes-Agent is an open-source project that enables the growth and evolution of artificial intelligence (AI) and machine learning (ML) capabilities. This dynamic platform empowers users to continuously train and adapt their AI models, ensuring they stay up-to-date with changing data landscapes and emerging trends. By fostering a self-improving AI ecosystem, Hermes-Agent facilitates the development of more sophisticated and effective AI applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/NousResearch/hermes-agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/NousResearch/hermes-agent) · [← Back to AI/ML](./README.md)</sub>
