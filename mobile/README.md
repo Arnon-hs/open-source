@@ -11,8 +11,8 @@
 | 1 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.2k | C | 100/100 |
 | 2 | [ankidroid/Anki-Android](./ankidroid-anki-android.md) | ⭐ 11k | Kotlin | 100/100 |
 | 3 | [yuliskov/SmartTube](./yuliskov-smarttube.md) | ⭐ 29.7k | Java | 99/100 |
-| 4 | [bitwarden/android](./bitwarden-android.md) | ⭐ 8.7k | Kotlin | 95/100 |
-| 5 | [ermaozi/get_subscribe](./ermaozi-get-subscribe.md) | ⭐ 8.9k | Python | 95/100 |
+| 4 | [ermaozi/get_subscribe](./ermaozi-get-subscribe.md) | ⭐ 8.9k | Python | 95/100 |
+| 5 | [bitwarden/android](./bitwarden-android.md) | ⭐ 8.7k | Kotlin | 95/100 |
 | 6 | [androidx/androidx](./androidx-androidx.md) | ⭐ 6k | Kotlin | 94/100 |
 | 7 | [offa/android-foss](./offa-android-foss.md) | ⭐ 9.9k | Python | 92/100 |
 | 8 | [bluesky-social/social-app](./bluesky-social-social-app.md) | ⭐ 17.9k | TypeScript | 90/100 |
@@ -26,8 +26,8 @@
 | 16 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.5k | Shell | 63/100 |
 | 17 | [LemmyNet/jerboa](./lemmynet-jerboa.md) | ⭐ 1.3k | Kotlin | 59/100 |
 | 18 | [librenms/docker](./librenms-docker.md) | ⭐ 828 | Dockerfile | 59/100 |
-| 19 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 946 | Dart | 58/100 |
-| 20 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
+| 19 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
+| 20 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 946 | Dart | 58/100 |
 | 21 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 746 | Kotlin | 56/100 |
 
 ---

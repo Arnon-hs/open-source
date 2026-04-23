@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **975** |
+| 🗂️ **Total projects** | **1032** |
 | 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 356 | [Browse →](./aiml/) |
-| 📦 **Misc** | 192 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 109 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 72 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 57 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 39 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 38 | [Browse →](./crypto/) |
-| 📊 **Data** | 30 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 23 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 386 | [Browse →](./aiml/) |
+| 📦 **Misc** | 198 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 113 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 80 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 58 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 40 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 39 | [Browse →](./crypto/) |
+| 📊 **Data** | 32 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 25 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 21 | [Browse →](./mobile/) |
 | 📈 **Trading** | 13 | [Browse →](./trading/) |
-| 💳 **Payments** | 11 | [Browse →](./payments/) |
-| 🔐 **Security** | 8 | [Browse →](./security/) |
+| 💳 **Payments** | 12 | [Browse →](./payments/) |
+| 🔐 **Security** | 9 | [Browse →](./security/) |
 | 🎯 **Product** | 5 | [Browse →](./product/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
 
@@ -38,16 +38,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [winsiderss/systeminformer](./security/winsiderss-systeminformer.md) | ⭐ 14k | Security |
-| 2 | [comet-ml/opik](./orchestration/comet-ml-opik.md) | ⭐ 19k | Orchestration |
-| 3 | [dgtlmoon/changedetection.io](./backend/dgtlmoon-changedetection.io.md) | ⭐ 31.2k | Backend |
-| 4 | [community-scripts/ProxmoxVE](./aiml/community-scripts-proxmoxve.md) | ⭐ 27.7k | AI/ML |
-| 5 | [electerm/electerm](./aiml/electerm-electerm.md) | ⭐ 14k | AI/ML |
-| 6 | [kovidgoyal/kitty](./misc/kovidgoyal-kitty.md) | ⭐ 32.5k | Misc |
-| 7 | [PowerShell/PowerShell](./misc/powershell-powershell.md) | ⭐ 52.6k | Misc |
+| 1 | [StarRocks/starrocks](./devtools/starrocks-starrocks.md) | ⭐ 11.6k | DevTools |
+| 2 | [LMCache/LMCache](./aiml/lmcache-lmcache.md) | ⭐ 8.1k | AI/ML |
+| 3 | [iced-rs/iced](./orchestration/iced-rs-iced.md) | ⭐ 30.3k | Orchestration |
+| 4 | [langchain-ai/open-swe](./orchestration/langchain-ai-open-swe.md) | ⭐ 9.6k | Orchestration |
+| 5 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
+| 6 | [XIU2/TrackersListCollection](./aiml/xiu2-trackerslistcollection.md) | ⭐ 31.1k | AI/ML |
+| 7 | [vxcontrol/pentagi](./orchestration/vxcontrol-pentagi.md) | ⭐ 15.4k | Orchestration |
 | 8 | [caddyserver/caddy](./backend/caddyserver-caddy.md) | ⭐ 71.8k | Backend |
-| 9 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
-| 10 | [renovatebot/renovate](./devtools/renovatebot-renovate.md) | ⭐ 21.3k | DevTools |
+| 9 | [expo/expo](./frontend/expo-expo.md) | ⭐ 48.9k | Frontend |
+| 10 | [nestjs/nest](./frontend/nestjs-nest.md) | ⭐ 75.3k | Frontend |
 
 ## 🚀 How it works
 
