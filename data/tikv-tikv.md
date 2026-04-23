@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Tikv is an open-source, distributed transactional key-value database designed to store and manage data in a highly scalable and fault-tolerant manner. Originally created as a companion database for TiDB, Tikv enables users to store and retrieve data in a transactional and reliable way, making it suitable for a wide range of applications. Its distributed architecture allows for efficient data processing and storage, making it an ideal solution for large-scale data storage needs.
+Tikv is an open-source, distributed transactional key-value database designed to provide high-performance and strong consistency. Originally developed to complement TiDB, it offers a scalable and reliable solution for storing and managing large amounts of data. As a key-value store, Tikv supports ACID compliance and is suitable for a wide range of applications, including databases, caching, and more.
 
 ---
 

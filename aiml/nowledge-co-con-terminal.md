@@ -1,6 +1,6 @@
 # nowledge-co/con-terminal
 
-[![Stars](https://img.shields.io/github/stars/nowledge-co/con-terminal?style=flat-square&color=yellow)](https://github.com/nowledge-co/con-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/nowledge-co/con-terminal?style=flat-square&color=blue)](https://github.com/nowledge-co/con-terminal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nowledge-co/con-terminal?style=flat-square&color=yellow)](https://github.com/nowledge-co/con-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/nowledge-co/con-terminal?style=flat-square&color=blue)](https://github.com/nowledge-co/con-terminal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The Native Terminal Emulator with a builtin AI Harness
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 134 |
+| ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

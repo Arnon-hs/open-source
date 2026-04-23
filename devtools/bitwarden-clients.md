@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The bitwarden/clients project is an open-source collection of client applications for Bitwarden, a popular password management tool. It includes web, browser extension, desktop, and command-line interface (CLI) clients, providing users with flexibility and convenience in managing their passwords and sensitive data. By offering these clients under an open-source license, Bitwarden enables community-driven development and customization.
+The bitwarden/clients project is an open-source initiative that hosts the official client applications for Bitwarden, a password manager that provides secure password storage and management. The project encompasses a range of clients, including web, browser extension, desktop, and command-line interfaces, all designed to work seamlessly with the Bitwarden platform. By contributing to this project, users can support the development and maintenance of these essential tools for secure password management.
 
 ---
 

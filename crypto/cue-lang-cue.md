@@ -25,7 +25,7 @@ Crypto · Data · DevOps/Infra
 
 ## 📝 Summary
 
-The CUE language is an open-source project that provides a powerful tool for validating and defining text-based and dynamic configuration. It enables users to write concise and expressive configuration definitions, making it easier to manage complex systems and infrastructure. With CUE, developers can create robust and maintainable configuration files that are both human-readable and machine-checkable.
+The CUE language project is an open-source initiative that aims to provide a powerful configuration management system. It allows developers to define and validate text-based and dynamic configurations, making it an ideal tool for DevOps and infrastructure teams. With CUE, users can create robust and reliable configurations for various applications, including those in the crypto and data spaces.
 
 ---
 

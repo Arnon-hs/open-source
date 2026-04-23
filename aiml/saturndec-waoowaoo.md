@@ -25,9 +25,7 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the saturndec/waoowaoo project:
-
-Waoowaoo is an open-source, industry-first AI Agent platform for professional film and video production, capable of handling workflows from shorts to live-action with Hollywood-standard standards. This revolutionary platform enables controllable AI-driven production, opening up new possibilities for creators in the entertainment industry. By providing a comprehensive AI solution, Waoowaoo empowers users to streamline their production processes and achieve high-quality results.
+The saturndec/waoowaoo platform is an open-source, industry-leading AI-driven solution for end-to-end film and video production. This innovative platform enables users to create high-quality content, from short-form videos to live-action productions, with professional-grade Hollywood-standard workflows. By harnessing the power of AI, waoowaoo streamlines the content creation process, making it more efficient and controllable.
 
 ---
 

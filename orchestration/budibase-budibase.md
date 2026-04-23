@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Budibase is an open-source platform that enables the creation of AI-driven automations and applications to streamline operations. This model-agnostic solution allows users to integrate various AI technologies and build custom workflows to optimize their business processes. With Budibase, users can design, build, and deploy automations and apps to run their operations more efficiently.
+Budibase is an open-source platform that enables users to build and run AI agents, automations, and custom applications to streamline their operations. Leveraging a model-agnostic approach, the platform allows for seamless integration with various AI and machine learning models. With Budibase, users can create end-to-end workflows and automated processes that drive efficiency and productivity.
 
 ---
 

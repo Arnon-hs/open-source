@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Gardener is an open-source project that enables the creation of homogeneous Kubernetes clusters at scale across any infrastructure using hosted control planes. This project simplifies the management of large-scale Kubernetes deployments by providing a scalable and flexible solution for infrastructure-agnostic cluster management. With Gardener, users can deploy and manage multiple Kubernetes clusters on various infrastructure platforms, streamlining their DevOps workflows.
+The Gardener project is an open-source platform that enables the creation and management of homogeneous Kubernetes clusters at scale, deployable on any infrastructure. It uses hosted control planes, allowing for efficient and scalable cluster management. This solution is particularly suited for DevOps and infrastructure teams looking to streamline their Kubernetes deployments.
 
 ---
 

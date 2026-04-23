@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Presenton is an open-source AI-powered presentation generator and API that enables users to create visually appealing slides. As a potential alternative to tools like Decktopus, Presenton leverages machine learning to streamline the presentation creation process. This project is a valuable resource for developers and users seeking to harness the power of AI in presentation design.
+Here's a brief summary for the open-source project:
+
+Presenton is an open-source AI-powered presentation generator and API that allows users to create professional-quality slides quickly and easily. Designed as an alternative to existing solutions like Gamma and Decktopus, Presenton leverages AI technology to automate the presentation creation process. Its modular architecture and API enable developers to build custom integrations and workflows.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the IBM/mcp-context-forge project:
-
-IBM/mcp-context-forge is an open-source, AI-powered gateway that simplifies access to various APIs, including MCP, A2A, and REST/gRPC, by providing a unified endpoint with centralized discovery and management. This project optimizes agent and tool interactions, offering guardrails and plugin support for streamlined development. By unifying API access, it enables easier integration and more efficient development workflows.
+The IBM mcp-context-forge project is an open-source, unified AI Gateway that simplifies interactions with various APIs, including MCP, A2A, and REST/gRPC. This gateway provides a centralized endpoint for discovery, guardrails, and management, while optimizing agent and tool calling and supporting plugin integrations. It enables seamless communication and streamlines operations across different APIs and systems.
 
 ---
 

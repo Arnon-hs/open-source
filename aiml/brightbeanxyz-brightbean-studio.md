@@ -25,7 +25,7 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The Brightbean Studio is an open-source, self-hosted social media management platform that allows users to schedule, publish, and manage content across over 10 popular platforms from a single dashboard. This free alternative to commercial services like Buffer, Sendible, and SocialPilot offers a cost-effective solution for individuals and organizations to streamline their social media presence. By leveraging the Brightbean Studio, users can centralize their content management and reduce the administrative burden associated with maintaining a strong online presence.
+Brightbean Studio is a free, open-source social media management platform that allows users to schedule, publish, and manage content across multiple platforms from a single dashboard. This self-hostable solution provides a cost-effective alternative to popular paid services like Buffer, Sendible, and SocialPilot. With its user-friendly interface, Brightbean Studio empowers users to streamline their social media presence and save time.
 
 ---
 

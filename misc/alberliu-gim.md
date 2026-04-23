@@ -27,7 +27,7 @@ Misc
 
 Here's a brief summary for the open-source project:
 
-"alberliu/gim is an open-source IM (Instant Messaging) server written in Go, designed as a service component. It provides a flexible and scalable infrastructure for real-time communication applications. This project enables developers to build custom IM solutions with ease, leveraging the power of Go and a modular architecture."
+gim is an open-source IM (Instant Messaging) server written in Go, designed as a service component to provide a scalable and efficient messaging infrastructure. This project allows developers to build custom messaging applications with ease, leveraging the benefits of Go's concurrency and performance capabilities. With gim, users can create robust and high-performance chat services for a wide range of applications.
 
 ---
 

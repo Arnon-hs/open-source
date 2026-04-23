@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The stagewise project is an open-source, purpose-built browser designed specifically for developers, featuring a built-in coding agent. This innovative tool enables developers to write and test code directly within the browser, streamlining their workflow and enhancing productivity. By integrating AI/ML capabilities and DevTools, stagewise aims to revolutionize the way developers interact with the web.
+The stagewise project is an open-source, web-based coding environment designed specifically for developers, featuring an integrated coding agent. This purpose-built browser provides a unique combination of coding tools and AI/ML capabilities, streamlining the development process. By incorporating a coding agent directly into the browser, stagewise aims to enhance productivity and efficiency for web developers.
 
 ---
 

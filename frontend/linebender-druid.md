@@ -25,7 +25,9 @@ Frontend · Data · Design
 
 ## 📝 Summary
 
-Druid is an open-source, data-first UI design toolkit written natively in Rust. It empowers developers to create interactive and responsive user interfaces that tightly integrate with their data sources. With Druid, users can craft seamless UI experiences that scale and adapt to various data-driven applications.
+Here's a brief summary of the linebender/druid project:
+
+Druid is an open-source, Rust-native UI design toolkit that prioritizes data-first functionality, allowing developers to create robust and efficient user interfaces. This framework aims to empower developers to build high-quality applications with a strong focus on data manipulation and visualization. By leveraging Rust's performance and memory safety features, Druid provides a unique solution for building scalable and maintainable UI applications.
 
 ---
 

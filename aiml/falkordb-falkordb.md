@@ -25,9 +25,7 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for FalkorDB:
-
-FalkorDB is an open-source, high-performance graph database optimized for Large Language Models (LLMs) and Knowledge Graphs. Leveraging the GraphBLAS library, FalkorDB utilizes a sparse adjacency matrix graph representation to achieve exceptional query speeds. This cutting-edge technology enables the efficient storage and retrieval of complex graph data, making it an ideal choice for LLM and Knowledge Graph applications.
+FalkorDB is an open-source, high-performance graph database designed for Knowledge Graph applications, particularly suited for Large Language Models (LLMs). Built on top of GraphBLAS, it leverages a sparse adjacency matrix graph representation for efficient querying and data storage. This powerful tool enables users to build robust and scalable Knowledge Graphs for various AI and machine learning applications.
 
 ---
 

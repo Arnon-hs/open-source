@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the go-gitea/gitea project:
-
-Gitea is a self-hosted, open-source software development platform that combines Git hosting, code review, team collaboration, and CI/CD features in one seamless package. This all-in-one solution provides a painless way for developers to manage their projects and teams without relying on external services. With Gitea, users can enjoy flexibility, control, and customization over their software development workflow.
+Gitea is an open-source, self-hosted platform that provides a comprehensive software development experience. It combines features such as Git hosting, code review, team collaboration, package registry, and continuous integration/continuous deployment (CI/CD) in a single, user-friendly package. With Gitea, developers can manage their projects and teams efficiently, all from a single, customizable interface.
 
 ---
 

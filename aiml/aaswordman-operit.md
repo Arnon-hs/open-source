@@ -25,9 +25,7 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Operit is an open-source, powerful AI agent and chat software developed for Android devices. It leverages advanced AI and machine learning capabilities to provide users with a robust and interactive experience. With Operit, users can engage in conversations and access AI-driven features on their mobile devices.
+Operit is an open-source, AI-powered chat software developed for Android, featuring a highly capable AI agent. This mobile application utilizes advanced AI and machine learning technologies to provide users with a sophisticated conversational experience. With its robust capabilities, Operit offers a powerful tool for chat and AI research on Android platforms.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the goharbor/harbor project:
+Here's a brief summary of the goharbor/harbor project:
 
-Harbor is an open-source, cloud-native registry that securely stores, signs, and scans software content. As a trusted repository, it provides a scalable and highly available platform for developers to manage and share their applications, with features like automated scanning and content signing. By leveraging Harbor, organizations can ensure the integrity and security of their software supply chain.
+Harbor is an open-source cloud native registry that securely stores, signs, and scans container content. This project provides a scalable and trusted platform for developers and organizations to manage their container images, ensuring compliance with security and regulatory standards. With Harbor, users can efficiently manage and monitor their container content across multiple environments.
 
 ---
 

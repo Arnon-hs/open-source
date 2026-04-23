@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Ratatui is an open-source Rust crate designed to simplify the creation of terminal user interfaces (TUIs). It enables developers to craft interactive command-line applications with ease, featuring a user-friendly API and various features for building complex interfaces. With Ratatui, you can focus on building the logic of your application while leaving the UI implementation to the crate.
+Ratatui is an open-source Rust library for creating terminal user interfaces (TUIs), providing a simple and efficient way to build interactive command-line applications. This crate empowers developers to craft visually appealing and user-friendly interfaces for their terminal-based projects, leveraging Rust's modern and secure coding features. With Ratatui, building cross-platform TUIs has never been easier.
 
 ---
 

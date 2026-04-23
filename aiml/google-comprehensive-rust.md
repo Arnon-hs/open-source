@@ -25,7 +25,7 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-This open-source project, "comprehensive-rust," is a comprehensive Rust course developed by the Android team at Google, offering a structured approach to quickly learning the Rust programming language. The course provides valuable material for instructing Rust, beneficial for those interested in AI/ML, frontend, and mobile development. It is an excellent resource for developers looking to enhance their skills in Rust.
+The Google Comprehensive Rust course is an open-source resource designed to quickly teach Rust programming skills. Developed by the Android team at Google, this course provides a comprehensive material for educators and learners alike to master Rust. It can be applied to various fields such as AI/ML, frontend, and mobile development.
 
 ---
 

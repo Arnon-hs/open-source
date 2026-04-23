@@ -25,7 +25,7 @@ Orchestration · DevOps/Infra · Design
 
 ## 📝 Summary
 
-Layer5 is an open-source project that enables users to get more out of their infrastructure by providing a robust orchestration platform. This platform empowers users to simplify and automate the management of their infrastructure, streamlining processes and improving efficiency. By leveraging Layer5's capabilities, users can expect enhanced scalability, reliability, and performance from their infrastructure.
+Layer5 is an open-source project that enables users to expect more from their infrastructure by providing a comprehensive orchestration platform. It offers design and DevOps/infrastructure management capabilities, empowering users to manage their infrastructure with greater flexibility and control. This project is ideal for those seeking to optimize their infrastructure setup and streamline their DevOps processes.
 
 ---
 

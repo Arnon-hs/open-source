@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the "design-extract" project:
-
-Design-extract is an open-source tool that enables developers to extract a complete website's design system with a single command. It provides a comprehensive suite of features, including design token extraction, WCAG remediation, and a Chrome extension, making it an invaluable resource for frontend and backend developers working on accessibility and design consistency. Built with Node.js and Playwright, design-extract supports multi-platform emitters and integrations with popular frameworks like Tailwind and Figma.
+The Manavarya09/design-extract project is an open-source tool that enables users to extract a website's complete design system with a single command. This powerful tool provides a comprehensive set of features, including design system analysis and generation, to accelerate web development and improve design consistency. By supporting multiple platforms and technologies, design-extract streamlines the design-to-code process and enhances collaboration.
 
 ---
 

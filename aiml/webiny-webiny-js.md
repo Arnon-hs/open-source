@@ -1,0 +1,34 @@
+# webiny/webiny-js
+
+[![Stars](https://img.shields.io/github/stars/webiny/webiny-js?style=flat-square&color=yellow)](https://github.com/webiny/webiny-js/stargazers) [![Forks](https://img.shields.io/github/forks/webiny/webiny-js?style=flat-square&color=blue)](https://github.com/webiny/webiny-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+
+> Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built for developers at large organizations.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 8k |
+| 🍴 **Forks** | 668 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 95/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI/ML · Frontend · Backend
+
+## 📝 Summary
+
+Here's a 2-3 sentence summary of the webiny/webiny-js project:
+
+Webiny is an open-source, self-hosted CMS platform designed for large organizations, providing a scalable and secure solution for content management. Built on AWS serverless technologies, including Lambda, DynamoDB, and S3, the platform leverages a TypeScript framework, multi-tenancy, and lifecycle hooks to streamline content creation and management. With its GraphQL API and AI-assisted development capabilities, Webiny empowers developers to build and deploy custom content experiences at scale.
+
+---
+
+<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/webiny/webiny-js) · [← Back to AI/ML](./README.md)</sub>

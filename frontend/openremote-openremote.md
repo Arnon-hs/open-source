@@ -25,7 +25,7 @@ Frontend · Data
 
 ## 📝 Summary
 
-The openremote/openremote project is a 100% open-source IoT platform that enables users to integrate their devices, add intelligence, and build custom applications. This versatile platform allows for seamless device connectivity and offers a range of tools for building custom applications, making it an ideal solution for IoT development. With its open-source nature, developers can contribute to and customize the platform to suit their specific needs.
+OpenRemote is a 100% open-source IoT platform that empowers users to integrate their connected devices, infuse them with intelligence, and build customized applications tailored to their specific needs. This comprehensive platform enables seamless data management and offers a wide range of possibilities for IoT innovation. With OpenRemote, users can unlock the full potential of their IoT ecosystem and drive innovative solutions.
 
 ---
 

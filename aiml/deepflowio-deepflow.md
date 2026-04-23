@@ -25,7 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Deepflow is an open-source project that utilizes eBPF (extended Berkeley Packet Filter) technology to provide comprehensive observability, including distributed tracing and profiling. This project enables developers to gain detailed insights into the behavior of their systems, facilitating improved performance, scalability, and reliability. By leveraging eBPF, Deepflow offers a lightweight and efficient approach to monitoring and analyzing complex distributed systems.
+Here's a 2-3 sentence summary for the open-source project:
+
+Deepflow is an open-source observability platform that leverages eBPF (extended Berkeley Packet Filter) to provide comprehensive distributed tracing and profiling capabilities. This project enables developers to monitor and analyze complex system behavior, gaining insights into performance issues and areas for optimization. By harnessing the power of eBPF, Deepflow offers a lightweight and efficient solution for observability needs.
 
 ---
 

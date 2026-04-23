@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The millionco/react-doctor project is an open-source tool that utilizes AI/ML capabilities to diagnose and suggest fixes for React code issues. It aims to streamline the debugging process by providing coding agents with the ability to identify and correct errors in React applications. This solution can potentially save developers time and effort in resolving complex coding problems.
+millionco/react-doctor is an open-source project that utilizes AI-powered coding agents to diagnose and fix issues in React code, streamlining the development process. This tool provides a comprehensive analysis of React applications, identifying potential errors, and offering recommendations for improvement. By leveraging machine learning, it helps developers optimize their code and resolve issues more efficiently.
 
 ---
 

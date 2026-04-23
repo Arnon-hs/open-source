@@ -25,7 +25,9 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-The akto project is an open-source API security tool designed to provide proactive protection for APIs. It offers features such as API discovery, security posture analysis, and integration with CI/CD pipelines for automated testing. With a comprehensive test library containing over 1,000 tests, akto enables developers to identify vulnerabilities and exposure of sensitive data.
+Here's a brief summary of the akto project:
+
+Akto is an open-source API security platform that proactively identifies vulnerabilities and weaknesses in your API ecosystem. It offers features such as API discovery, security posture analysis, automated testing, and a comprehensive test library with over 1,000 tests. With Akto, you can easily monitor and improve the security of your APIs throughout your CI/CD pipeline.
 
 ---
 

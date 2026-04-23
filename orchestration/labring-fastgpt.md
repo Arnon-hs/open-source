@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the FastGPT project:
+Here's a 2-3 sentence summary of the FastGPT project:
 
-FastGPT is an open-source knowledge-based platform that empowers developers to create and deploy complex question-answering systems using Large Language Models (LLMs). With a suite of out-of-the-box capabilities, including data processing, RAG retrieval, and visual AI workflow orchestration, FastGPT streamlines the development process and eliminates the need for extensive setup or configuration. This comprehensive platform enables users to build innovative AI-driven applications with ease.
+FastGPT is an open-source knowledge-based platform leveraging Large Language Models (LLMs), empowering users to build and deploy sophisticated question-answering systems with minimal setup and configuration. This comprehensive platform offers features such as data processing, Retrieval Augmented Generation (RAG) retrieval, and visual AI workflow orchestration, streamlining the development and deployment process. By utilizing FastGPT, developers can focus on creating innovative applications without the need for extensive LLM expertise.
 
 ---
 

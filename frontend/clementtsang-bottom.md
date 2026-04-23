@@ -1,0 +1,34 @@
+# ClementTsang/bottom
+
+[![Stars](https://img.shields.io/github/stars/ClementTsang/bottom?style=flat-square&color=yellow)](https://github.com/ClementTsang/bottom/stargazers) [![Forks](https://img.shields.io/github/forks/ClementTsang/bottom?style=flat-square&color=blue)](https://github.com/ClementTsang/bottom/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+
+> Yet another cross-platform graphical process/system monitor.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 13.2k |
+| 🍴 **Forks** | 335 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 90/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Frontend · DevTools
+
+## 📝 Summary
+
+Here's a brief summary for the "bottom" project:
+
+Bottom is an open-source, cross-platform graphical process/system monitor that provides real-time insights into system performance. This lightweight tool offers a user-friendly interface to view and manage processes, making it an essential utility for developers, system administrators, and power users. With its cross-platform compatibility, bottom is accessible on various operating systems.
+
+---
+
+<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ClementTsang/bottom) · [← Back to Frontend](./README.md)</sub>
