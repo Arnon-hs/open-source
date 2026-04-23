@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The getagentseal/codeburn project is an open-source, interactive dashboard designed to provide transparent cost observability for users of AI coding tools such as Claude Code, Codex, and Cursor. This TUI (Text User Interface) dashboard allows users to visualize and track their AI coding tokens in real-time, promoting a better understanding of their usage and expenses. By making AI costs more visible, codeburn empowers developers to make informed decisions about their coding workflow.
+The open-source project "getagentseal/codeburn" is an interactive, text-based dashboard that provides cost observability for AI coding tools. It offers real-time visibility into the Claude Code, Codex, and Cursor tokens used by developers, allowing them to track and optimize their usage. This project is particularly useful for those working with AI-powered coding assistants to manage their expenses and improve efficiency.
 
 ---
 

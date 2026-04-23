@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The chopratejas/headroom project is an open-source Context Optimization Layer designed for Large Language Model (LLM) applications. It aims to enhance the performance and efficiency of LLMs by optimizing context processing, allowing for more accurate and responsive model interactions. By streamlining context optimization, headroom facilitates improved model scalability and adaptability in various AI/ML applications.
+Here's a brief summary for the open-source project "chopratejas/headroom":
+
+Headroom is an open-source Context Optimization Layer designed for Large Language Model (LLM) applications, enhancing their performance and efficiency. This library aims to optimize the context processing for LLMs, allowing for faster and more accurate processing of complex inputs. By streamlining context optimization, Headroom enables developers to build more effective and scalable LLM-powered solutions.
 
 ---
 

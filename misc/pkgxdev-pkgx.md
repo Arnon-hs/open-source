@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-pkgxdev/pkgx is an open-source project that provides a versatile tool for running various tasks and applications. With its flexible and user-friendly design, pkgx enables users to execute a wide range of commands, scripts, and programs from a single interface. This project aims to simplify task management and streamlining workflows for developers and users alike.
+pkgxdev/pkgx is an open-source project that offers a versatile tool for running various commands, scripts, and applications across different platforms. Its primary function is to provide a unified interface for executing tasks, making it a convenient option for developers and users alike. With pkgx, users can streamline their workflow and automate repetitive tasks with ease.
 
 ---
 

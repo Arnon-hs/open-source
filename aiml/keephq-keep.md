@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Keep is an open-source AIOps and alert management platform designed to simplify and streamline the process of monitoring and resolving IT infrastructure issues. Leveraging AI and machine learning, Keep enables organizations to automate alert management, reduce noise, and improve incident response times. By providing a comprehensive platform for AIOps, Keep helps IT teams optimize their operations and enhance overall system reliability.
+Keep is an open-source AIOps and alert management platform designed to streamline IT operations. Leveraging AI and machine learning capabilities, it helps teams optimize alert management, reduce noise, and accelerate incident resolution. By automating routine tasks and providing actionable insights, Keep empowers organizations to respond more effectively to complex IT challenges.
 
 ---
 

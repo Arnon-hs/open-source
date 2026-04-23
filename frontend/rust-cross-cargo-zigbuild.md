@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The rust-cross/cargo-zigbuild project is an open-source tool that integrates the Zig programming language with Cargo, Rust's package manager, to enable seamless compilation and linking of Rust projects. This project allows users to leverage the Zig compiler as a linker, providing a new level of flexibility and control over the build process. By combining Rust and Zig, developers can tap into the strengths of both languages and create more efficient and reliable software.
+The `cargo-zigbuild` project is an open-source tool that utilizes the Zig programming language as a linker, enabling users to build and compile Cargo projects in a unique and efficient manner. By leveraging Zig's capabilities, developers can create cross-platform binaries with a focus on performance and reliability. This project provides a flexible alternative to traditional linkers, catering to the needs of Rust developers seeking innovative compilation solutions.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Nextcloud Deck is an open-source, Kanban-style project and personal management tool designed for Nextcloud users. It provides a Trello-like experience, allowing users to organize tasks and projects into boards, lists, and cards. This intuitive and collaborative tool helps users streamline their workflow and stay organized.
+Nextcloud Deck is an open-source, Kanban-style project and personal management tool designed for Nextcloud users. It provides a Trello-like interface for organizing tasks, projects, and ideas, allowing users to visualize their workflow and stay organized. By integrating with Nextcloud, Deck offers a seamless and secure experience for managing tasks and projects.
 
 ---
 

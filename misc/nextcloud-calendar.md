@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Nextcloud/calendar is an open-source calendar application designed for seamless integration with the Nextcloud platform. This project provides users with a centralized and customizable calendar management system, enabling them to organize events, appointments, and reminders in a user-friendly interface. By leveraging Nextcloud's features, calendar offers a secure and collaborative experience for individuals and teams.
+The nextcloud/calendar project is an open-source calendar application integrated with Nextcloud, a popular cloud storage platform. This app allows users to manage their calendars, create and schedule events, and share calendars with others, all within the Nextcloud interface. By utilizing the calendar app, Nextcloud users can efficiently organize their time and stay connected with others in a seamless and convenient manner.
 
 ---
 

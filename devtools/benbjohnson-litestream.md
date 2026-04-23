@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Litestream is an open-source, streaming replication tool for SQLite databases, designed to provide a highly available and scalable solution for data replication in real-time. It enables users to replicate their SQLite databases across multiple instances, ensuring seamless data consistency and high uptime. With Litestream, developers can build robust, distributed database systems with minimal overhead and ease of use.
+Litestream is an open-source, streaming replication solution designed specifically for SQLite databases, providing a high-performance and fault-tolerant means of replicating data across multiple instances. This DevTools project enables real-time synchronization of database changes, making it ideal for applications requiring high availability and scalability. By leveraging Litestream, developers can simplify their database replication workflows and ensure seamless data consistency.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
-Microsoft's RNX-Kit is an open-source project that provides modern and scalable tools designed to enhance the developer experience. This collection of Frontend and DevTools features offers exceptional usability, making it an ideal solution for mobile development projects. RNX-Kit aims to simplify the development process and improve efficiency for developers working on mobile applications.
+Microsoft's rnx-kit is an open-source project that provides modern and scalable tools to streamline developer workflows. This project focuses on delivering an exceptional developer experience, empowering developers to build high-quality applications efficiently. With its robust features and seamless integration, rnx-kit is suitable for frontend, devtool, and mobile development.
 
 ---
 

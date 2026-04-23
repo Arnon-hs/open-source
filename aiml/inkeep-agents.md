@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the inkeep/agents project:
+Here's a 2-3 sentence summary of the inkeep/agents project:
 
-The inkeep/agents project is an open-source initiative that enables the creation of AI agents within a no-code visual builder or through a TypeScript SDK. This allows developers to build and integrate AI assistants and complex multi-agent workflows with seamless 2-way synchronization. By leveraging inkeep/agents, users can streamline the development of sophisticated AI applications with minimal coding effort.
+Inkeep/agents is an open-source project that enables developers to create AI agents with a no-code visual builder or a TypeScript SDK, offering seamless 2-way syncing. This framework is designed for building and deploying AI-powered assistants and complex multi-agent workflows with minimal coding effort. By providing a user-friendly interface and a robust programming API, inkeep/agents streamlines AI development and deployment.
 
 ---
 

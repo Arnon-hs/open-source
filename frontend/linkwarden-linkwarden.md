@@ -25,7 +25,9 @@ Frontend · Mobile
 
 ## 📝 Summary
 
-Linkwarden is an open-source, self-hosted collaborative bookmark manager that allows users to collect, read, annotate, and preserve important content in one place. This versatile platform makes it easy to manage and share bookmarks with others, providing a centralized hub for all your research and interests. By hosting it on your own server, you maintain full control over your data and can customize it to suit your needs.
+Here is a brief summary for the linkwarden project:
+
+Linkwarden is an open-source, self-hosted collaborative bookmark manager that allows users to collect, annotate, and preserve important information in a single, easily accessible location. This project enables users to manage and share bookmarks across devices, promoting a more streamlined and organized browsing experience.
 
 ---
 

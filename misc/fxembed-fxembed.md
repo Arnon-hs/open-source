@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-FxEmbed is an open-source project that enables the embedding of various multimedia content, including images, videos, polls, and translations, from platforms like X/Twitter and Bluesky, within other services such as Discord and Telegram. This project aims to provide a solution for users to easily share and interact with content from these platforms in different environments. By using FxEmbed, users can enjoy a more cohesive and immersive experience across multiple platforms.
+FxEmbed is an open-source project designed to enhance embed functionality for various social media platforms, including X/Twitter and Bluesky. It allows users to display multiple images, videos, polls, translations, and more on platforms like Discord and Telegram. By utilizing this tool, users can seamlessly share and interact with multimedia content from these social media services.
 
 ---
 

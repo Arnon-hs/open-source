@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the BubbleLab project:
-
-BubbleLab is an open-core workflow engine that powers the Bubble Lab platform, allowing for full customization and extensibility. This AI/ML and backend-focused project enables developers to create, host, and run workflows independently, making it a versatile tool for various applications. By providing a comprehensive development platform, BubbleLab empowers users to build and manage complex workflows with ease.
+BubbleLab is an open-core workflow engine that powers the Bubble Lab platform, enabling automation and scalability through its extensible and hostable design. This open-source project is built to support AI/ML and backend development, providing a flexible tool for developers to create and manage complex workflows. Its modular architecture allows for seamless integration and customization to meet specific project needs.
 
 ---
 

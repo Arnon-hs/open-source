@@ -25,9 +25,7 @@ DevOps/Infra · Security
 
 ## 📝 Summary
 
-Here is a brief summary (2-3 sentences) for the cr0hn/dockerscan project:
-
-dockerscan is an open-source, comprehensive Docker security scanner designed to identify vulnerabilities and weaknesses in Docker-based environments. It leverages a vast database of known vulnerabilities to provide users with detailed reports and recommendations for remediation. This tool helps DevOps teams and security professionals ensure the integrity and security of their Docker containers and applications.
+DockerScan is an open-source, comprehensive Docker security scanner that provides in-depth analysis and identification of vulnerabilities, misconfigurations, and best practices within Docker environments. By leveraging DockerScan, users can significantly enhance the security posture of their containerized applications and prevent potential security threats. This tool aims to simplify Docker security scanning and compliance.
 
 ---
 

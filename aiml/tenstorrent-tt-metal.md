@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the tenstorrent/tt-metal project:
-
-Tenstorrent's tt-metal is an open-source library that provides a collection of optimized neural network operators, enabling efficient computation and acceleration of deep learning workloads. At its core, tt-metal is built around the TT-Metalium kernel programming model, which provides a low-level framework for developing high-performance kernels. This library is a valuable resource for developers and researchers working on AI and ML applications.
+The tenstorrent/tt-metal project is an open-source library that provides a high-performance operator for tensor processing, enabling efficient execution of deep learning models. It features a low-level kernel programming model called TT-Metalium, allowing for fine-grained control and optimization of AI/ML computations. This library aims to accelerate the development and deployment of AI applications.
 
 ---
 

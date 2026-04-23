@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The MCP Server is an open-source project that provides a unified interface for 41 public Brazilian APIs. This project aims to simplify access to a wide range of Brazilian data and services, making it easier to integrate them into various applications. It is particularly suited for developers working with AI/ML and backend technologies.
+Here's a brief summary of the open-source project:
+
+This open-source project, MCP Server for 41 Brazilian public APIs, is a collection of APIs for machine learning and backend development. It provides a centralized server for accessing 41 public Brazilian APIs, facilitating the integration of these resources into various applications. Developed to promote data sharing and collaboration, this project can be used by developers to build innovative solutions leveraging Brazilian public data.
 
 ---
 

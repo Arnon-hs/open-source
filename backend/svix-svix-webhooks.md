@@ -25,9 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Here is a brief summary for the svix/svix-webhooks project:
+Here's a brief summary of the svix/svix-webhooks project:
 
-svix/svix-webhooks is an open-source webhooks service designed for scalability and reliability in enterprise environments. It provides a robust and flexible platform for handling webhook events, enabling developers to build more efficient and effective integrations. With its enterprise-ready features, svix/svix-webhooks supports high-volume webhook delivery and management.
+svix/svix-webhooks is an open-source, enterprise-ready webhooks service that provides a robust and scalable solution for sending and receiving webhook notifications. Its flexible architecture allows users to customize and manage webhooks with ease, making it an ideal choice for businesses and developers. With svix/svix-webhooks, developers can focus on building their applications without worrying about the complexities of webhook infrastructure.
 
 ---
 

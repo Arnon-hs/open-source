@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The Qualcomm AI Hub Models project is an open-source collection of high-performance machine learning models optimized for deployment on Qualcomm devices. These models are designed to minimize latency and memory usage, enabling efficient AI and ML applications on various Qualcomm platforms. By leveraging these optimized models, developers can unlock the full potential of AI capabilities on Qualcomm-powered devices.
+Qualcomm AI Hub Models is an open-source project offering a collection of high-performance machine learning models optimized for deployment on Qualcomm devices. These state-of-the-art models prioritize both efficiency and accuracy, making them suitable for various AI applications. The project aims to make AI development more accessible and efficient for developers working with Qualcomm devices.
 
 ---
 

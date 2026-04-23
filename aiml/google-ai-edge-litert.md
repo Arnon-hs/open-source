@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project LiteRT:
-
-LiteRT is a high-performance on-device framework developed by Google for deploying Machine Learning (ML) and Generative Artificial Intelligence (GenAI) models on edge platforms. It offers efficient conversion, runtime, and optimization capabilities, enabling seamless deployment of complex AI workloads on various edge devices. By leveraging LiteRT, developers can unlock enhanced AI capabilities on edge platforms with improved performance and reduced latency.
+LiteRT is an open-source, on-device framework developed by Google for high-performance machine learning (ML) and generative artificial intelligence (GenAI) deployment on edge platforms. As a successor to TensorFlow Lite, LiteRT offers efficient conversion, runtime, and optimization capabilities for seamless ML model deployment. This framework enables developers to unlock the full potential of edge computing for a wide range of AI applications.
 
 ---
 

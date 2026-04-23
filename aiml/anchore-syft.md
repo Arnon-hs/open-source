@@ -25,9 +25,9 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the anchore/syft project:
+Here's a brief summary for the anchore/syft open-source project:
 
-Syft is an open-source CLI tool and library that generates a Software Bill of Materials (SBOM) from container images and filesystems, providing a comprehensive and detailed inventory of components used in software development. This tool helps developers and security teams identify potential vulnerabilities and compliance issues, enabling them to make informed decisions about their software supply chain. By analyzing container images and filesystems, Syft provides a clear and actionable view of software assets.
+Syft is an open-source CLI tool and library that helps users generate a Software Bill of Materials (SBOM) from container images and filesystems. This provides a detailed inventory of software components, dependencies, and vulnerabilities, enabling better security, compliance, and risk management. By analyzing and reporting on software dependencies, Syft empowers developers and organizations to make informed decisions about their software supply chain.
 
 ---
 

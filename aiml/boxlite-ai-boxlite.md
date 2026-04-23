@@ -25,7 +25,7 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-BoxLite is an open-source project providing secure, embeddable sandboxes for artificial intelligence (AI) and machine learning (ML) agents. These sandboxes offer stateful environments with snapshot capabilities, ensuring reproducibility and isolation, as well as hardware-level security to prevent potential vulnerabilities. By leveraging BoxLite, developers can create robust and secure AI and ML solutions.
+BoxLite is an open-source project that provides a secure and scalable sandboxing solution for AI agents, enabling hardware isolation and stateful execution. This embeddable platform allows for easy integration and management of multiple agents with features like snapshots, ensuring reliable and consistent performance. By separating agents from the host system, BoxLite enhances security and stability for AI development and deployment.
 
 ---
 

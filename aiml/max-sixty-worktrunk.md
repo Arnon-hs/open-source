@@ -27,7 +27,7 @@ AI/ML · DevTools · Design
 
 Here's a brief summary for the max-sixty/worktrunk project:
 
-Worktrunk is an open-source command-line interface (CLI) that simplifies Git worktree management, making it ideal for parallel AI agent workflows. This tool enables developers to efficiently manage and synchronize multiple branches or workflows, streamlining the development process. With Worktrunk, users can efficiently manage complex AI and machine learning projects.
+Worktrunk is a command-line interface (CLI) tool designed to streamline Git worktree management, particularly for parallel AI agent workflows. This open-source project aims to simplify the process of managing multiple Git worktrees, making it easier to develop and deploy complex AI and machine learning projects. By automating worktree management, Worktrunk enables developers to focus on building and testing AI agents without the hassle of manual Git configuration.
 
 ---
 

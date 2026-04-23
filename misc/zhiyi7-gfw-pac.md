@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the zhiyi7/gfw-pac project:
+Here's a brief summary for the open-source project zhiyi7/gfw-pac:
 
-The zhiyi7/gfw-pac project is an open-source tool that generates PAC (Proxy Auto-Configuration) files for secure internet browsing. It allows users to customize proxy domains and whitelist specific domains for direct connections, routing other traffic through a proxy server. The project also supports IPv6 and provides a flexible solution for accessing the internet with customizable rules.
+This project "gfw-pac" provides a pre-configured PAC file for scientific browsing, along with a generator to customize proxy domain names and direct access domain names. It uses IP matching for domains not in the custom list, routing CNIP to direct access and other domains through the proxy. The project also supports IPv6.
 
 ---
 

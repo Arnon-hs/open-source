@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Folly is an open-source C++ library developed and used by Facebook to provide efficient and reusable data structures and utilities for various applications. The library aims to simplify the process of building high-performance software by offering a set of pre-built, robust, and well-tested components. By leveraging Folly, developers can focus on writing application-specific code while benefiting from the library's optimized solutions.
+Folly is an open-source C++ library developed and used at Facebook to provide a collection of reusable, generic C++ components and utilities. It offers a wide range of features, including data structures, networking, and utility functions, designed to simplify the development process and improve code maintainability. By leveraging Folly, developers can focus on building high-quality applications while taking advantage of Facebook's expertise and proven solutions.
 
 ---
 

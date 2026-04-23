@@ -25,7 +25,7 @@ DevTools · Data
 
 ## 📝 Summary
 
-The netlify/cli project is an open-source command-line interface (CLI) specifically designed for Netlify users. It provides a convenient way to interact with Netlify's services, such as deploying, building, and managing sites, all from the comfort of the terminal. With netlify/cli, users can streamline their workflow and automate tasks with ease.
+The netlify/cli project is an open-source command line interface (CLI) for Netlify, enabling users to manage their websites and applications directly from the terminal. This CLI provides a streamlined experience for deploying, building, and testing web projects, simplifying development workflows and enhancing productivity. With netlify/cli, developers can automate tasks and integrate Netlify services into their existing toolchains.
 
 ---
 

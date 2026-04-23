@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Letta-Code is an open-source, memory-first coding agent that leverages AI/ML capabilities to assist with coding tasks. This innovative tool aims to provide developers with a more efficient and effective coding experience by utilizing memory-based approaches. By integrating AI-driven features, Letta-Code has the potential to revolutionize the way developers write code.
+The letta-code project is an open-source, AI-powered coding agent that prioritizes memory usage. It leverages machine learning to optimize programming tasks, enabling developers to write more efficient code. This memory-first approach aims to revolutionize the way developers approach coding, making it more sustainable and scalable.
 
 ---
 

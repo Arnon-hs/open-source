@@ -25,7 +25,7 @@ AI/ML · Backend · Marketing
 
 ## 📝 Summary
 
-Headscale is an open-source, self-hosted control server implementation that provides a secure and decentralized alternative to traditional VPN solutions. It enables users to manage and connect their devices securely over the internet, with features similar to Tailscale. By hosting Headscale, users can maintain control over their network infrastructure and enjoy enhanced security and flexibility.
+Headscale is an open-source, self-hosted control server implementation for Tailscale, a network security technology that enables secure communication between devices over the internet. This project allows users to host their own control server, providing a decentralized alternative to the official Tailscale services. By self-hosting, users can maintain control over their network security and data.
 
 ---
 

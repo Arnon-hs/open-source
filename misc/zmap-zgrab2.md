@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The zmap/zgrab2 project is an open-source, fast application layer scanner designed to efficiently scan and identify network services. It leverages the capabilities of the zmap engine to rapidly scan large networks and gather information about active services, making it a valuable tool for network discovery and security auditing. With its high scanning speed and flexibility, zgrab2 is suitable for various use cases, including network research and vulnerability assessment.
+The zmap/zgrab2 project is an open-source, high-performance tool designed for application layer scanning. It enables users to quickly and efficiently scan networks for specific services and vulnerabilities, making it a valuable asset for network security and reconnaissance tasks. With its fast scanning capabilities, zgrab2 helps users to identify potential security risks and perform thorough network assessments.
 
 ---
 

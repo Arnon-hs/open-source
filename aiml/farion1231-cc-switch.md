@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Farion1231's cc-switch is an open-source, cross-platform desktop tool that serves as an all-in-one assistant for various AI and coding tools, including Claude Code, Codex, OpenCode, OpenClaw, and Gemini CLI. It provides a unified interface for navigating and utilizing these tools, streamlining workflows for developers and users alike. With its cross-platform compatibility, cc-switch aims to enhance productivity and efficiency across multiple environments.
+The farion1231/cc-switch project is an open-source, cross-platform desktop tool designed to act as an all-in-one assistant for various AI and machine learning platforms, including Claude Code, Codex, OpenCode, openclaw, and Gemini CLI. This comprehensive tool aims to simplify interactions with these platforms by providing a unified interface for users to access and manage their AI-powered workflows. Its open-source nature allows for community-driven development and customization.
 
 ---
 

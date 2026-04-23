@@ -25,7 +25,9 @@ Crypto · Trading · Frontend
 
 ## 📝 Summary
 
-Nautilus Trader is an open-source, production-grade trading engine built with Rust, offering a deterministic event-driven architecture. This robust trading engine is designed to provide a reliable platform for trading in the cryptocurrency market, leveraging Rust's native capabilities for high-performance and concurrency. By utilizing a deterministic approach, Nautilus Trader aims to provide a predictable and reproducible trading environment.
+Here's a brief summary for the nautechsystems/nautilus_trader project:
+
+Nautilus Trader is an open-source trading engine built from scratch in Rust, offering a production-grade, deterministic, and event-driven architecture for trading applications. This framework provides a robust foundation for developing high-performance trading systems, particularly in the crypto and trading spaces. Its native Rust implementation ensures efficient and reliable execution of complex trading logic.
 
 ---
 

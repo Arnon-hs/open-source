@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-KCC (Kindle Comic Converter) is an open-source tool that converts digital comics and manga into formats compatible with ebook readers. This converter allows users to easily read their favorite comic books on a wide range of devices. By using KCC, users can enjoy their comic collections in a convenient and accessible way.
+The KCC (Kindle Comic Converter) project is an open-source tool designed to convert comics and manga into formats compatible with ebook readers. This conversion process allows users to enjoy their digital comics on a wide range of devices, expanding their reading options beyond traditional comic platforms. KCC aims to make comic and manga content more accessible to a broader audience.
 
 ---
 

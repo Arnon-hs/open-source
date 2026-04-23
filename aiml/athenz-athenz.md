@@ -25,9 +25,7 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the AthenZ project:
-
-AthenZ is an open-source platform that provides secure service authentication and fine-grained access control in dynamic infrastructures. It supports both centralized authorization for provisioning and configuration use cases and decentralized authorization for serving/runtime use cases. This platform utilizes X.509 certificates to ensure secure and scalable access control in complex environments.
+AthenZ is an open-source platform that enables secure authentication and fine-grained access control in dynamic infrastructure environments. It supports both centralized authorization for provisioning and configuration, as well as decentralized authorization for runtime use cases, utilizing X.509 certificates. This platform helps ensure secure and efficient access control in complex infrastructures.
 
 ---
 

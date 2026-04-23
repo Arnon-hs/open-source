@@ -25,7 +25,7 @@ Frontend · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Memos is an open-source, self-hosted note-taking tool that allows users to quickly capture and organize their thoughts. Built on Markdown syntax, it offers a lightweight and customizable experience. This self-hosted solution provides users with full control over their notes and data.
+Memos is an open-source, self-hosted note-taking tool designed for rapid and efficient note capture. Built on Markdown-native architecture, it is a lightweight and customizable solution that allows users to take full ownership of their data. This tool is suitable for individuals seeking a simple, yet powerful note-taking experience without relying on cloud-based services.
 
 ---
 
