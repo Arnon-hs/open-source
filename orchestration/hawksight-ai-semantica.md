@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Semantica project:
+Here's a brief summary of the Semantica project:
 
-Semantica is an open-source framework for building semantic layers, context graphs, and decision intelligence systems with explainability and provenance. This project provides a foundation for developing transparent and accountable AI systems, enabling users to understand the reasoning and decision-making processes behind complex models. By leveraging Semantica, developers can create robust and explainable AI solutions.
+Semantica is an open-source framework for constructing semantic layers, context graphs, and decision intelligence systems that provide transparent explanations and provenance. This project enables developers to build explainable AI and ML models, fostering trust and accountability in complex decision-making processes. By leveraging Semantica's capabilities, users can create data-driven systems with a deeper understanding of their underlying logic and outcomes.
 
 ---
 

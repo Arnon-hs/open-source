@@ -1,6 +1,6 @@
 # smol-machines/smolvm
 
-[![Stars](https://img.shields.io/github/stars/smol-machines/smolvm?style=flat-square&color=yellow)](https://github.com/smol-machines/smolvm/stargazers) [![Forks](https://img.shields.io/github/forks/smol-machines/smolvm?style=flat-square&color=blue)](https://github.com/smol-machines/smolvm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smol-machines/smolvm?style=flat-square&color=yellow)](https://github.com/smol-machines/smolvm/stargazers) [![Forks](https://img.shields.io/github/forks/smol-machines/smolvm?style=flat-square&color=blue)](https://github.com/smol-machines/smolvm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Tool to build & run portable, lightweight, self-contained virtual machines.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

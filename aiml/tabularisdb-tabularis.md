@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Tabularis is an open-source, cross-platform database client designed for developers, providing a lightweight and efficient solution for managing MySQL, PostgreSQL, and SQLite databases. Built with speed, security, and aesthetics in mind, this client offers a hackable interface through plugins for customization. Its versatility makes it a valuable tool for AI/ML, frontend, and DevTools projects.
+Tabularis is an open-source, lightweight database client designed for developers, providing a fast, secure, and visually appealing interface for managing databases across MySQL, PostgreSQL, and SQLite platforms. Its modular architecture allows for easy customization and extension through plugins. This cross-platform tool is optimized for speed, making it an ideal choice for developers who demand efficiency in their database management workflow.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The dotnet/dev-proxy project is an open-source tool that enables developers to simulate various types of API failures, throttling, and chaos from the command line, allowing for more robust and resilient application testing. This tool provides a convenient way to test and stress APIs in a controlled environment, helping developers identify and address potential issues before they impact production. By using dev-proxy, developers can ensure their applications are prepared for unexpected scenarios.
+The dotnet/dev-proxy project is an open-source tool that allows developers to simulate and test API failures, throttling, and chaos from the command line. This tool enables users to inject realistic failures and disruptions into their API interactions, helping to improve the resilience and reliability of their applications. By using dev-proxy, developers can replicate real-world scenarios and ensure their systems can handle unexpected issues.
 
 ---
 

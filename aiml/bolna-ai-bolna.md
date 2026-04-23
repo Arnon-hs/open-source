@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "bolna-ai/bolna":
-
-The bolna project is an open-source initiative that provides a platform for developing conversational voice AI agents. It aims to enable users to create intelligent voice interfaces that can engage in natural-sounding conversations, utilizing AI and machine learning technologies. With bolna, developers can build voice AI agents that can be integrated into various applications and systems.
+The bolna project is an open-source initiative that aims to develop conversational voice AI agents, enabling users to interact with intelligent systems through natural language and voice commands. This project seeks to push the boundaries of AI/ML capabilities, focusing on the creation of more human-like and intuitive voice interfaces. By open-sourcing bolna, developers can contribute to and benefit from the advancement of voice AI technology.
 
 ---
 

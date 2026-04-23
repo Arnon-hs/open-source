@@ -25,7 +25,9 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-AppSmith is an open-source platform for building custom admin panels, internal tools, and dashboards. It offers seamless integration with over 25+ databases and any API, providing developers with a comprehensive toolset for efficient application development. With AppSmith, users can create bespoke solutions tailored to their specific needs, streamlining their workflows and boosting productivity.
+Here's a brief summary for the open-source project:
+
+Appsmith is an open-source platform that enables developers to build custom admin panels, internal tools, and dashboards quickly and efficiently. With support for over 25 databases and seamless integration with any API, Appsmith streamlines the development process and empowers users to create tailored applications. Its flexible and customizable nature makes it an ideal choice for a wide range of use cases.
 
 ---
 

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 321 |
+| 🍴 **Forks** | 322 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
@@ -25,9 +25,7 @@ Crypto · AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-TFHE-rs is a pure Rust implementation of the TFHE (Tiny Fully Homomorphic Encryption) scheme, enabling secure Boolean and integer arithmetic operations over encrypted data. This project allows for private computations on sensitive information without revealing the underlying data. By leveraging Rust's performance and security features, TFHE-rs provides a robust framework for secure artificial intelligence and machine learning applications.
+TFHE-rs is a pure Rust implementation of the Trusted Execution Environment (TFHE) scheme, enabling secure Boolean and integer arithmetic operations over encrypted data. This open-source project provides a foundation for private and confidential machine learning and cryptographic computations. By leveraging TFHE-rs, developers can build secure applications that protect sensitive information from unauthorized access.
 
 ---
 

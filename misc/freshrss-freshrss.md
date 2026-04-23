@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-FreshRSS is an open-source, self-hostable news aggregator that allows users to collect and organize news feeds from various sources. This free application provides a simple and customizable way to stay up-to-date with the latest news and articles, offering features such as feed management and reading history. By hosting FreshRSS on their own servers, users can maintain control and security over their news feed data.
+FreshRSS is a free, self-hostable news aggregator that allows users to collect and organize news feed content from various sources in a single, easily accessible location. This open-source project enables users to take control of their news consumption by hosting their own news aggregator, providing a secure and customizable alternative to commercial services. With FreshRSS, users can easily manage and read news from their favorite sources on their own terms.
 
 ---
 

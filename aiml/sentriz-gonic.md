@@ -25,9 +25,9 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here is a brief summary for the sentriz/gonic project:
+Here's a brief summary of the sentriz/gonic project:
 
-The sentriz/gonic project is an open-source, free-software implementation of the Subsonic server API, offering a music streaming server solution. This project provides a robust backend framework for managing and streaming audio content, making it ideal for developers and music enthusiasts alike. By leveraging AI/ML and DevOps/Infra expertise, sentriz/gonic enables seamless music streaming experiences.
+Gonic is an open-source implementation of the Subsonic server API, designed for music streaming servers. This free-software project allows users to create a customizable music streaming platform, providing an alternative to commercial music services. By leveraging the Subsonic API, Gonic enables developers to build their own music streaming solutions with ease.
 
 ---
 

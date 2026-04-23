@@ -25,7 +25,9 @@ Data
 
 ## 📝 Summary
 
-Perses is an open-source project for observability visualization, currently being developed as a sandbox in the Cloud Native Computing Foundation (CNCF). It supports a variety of data sources, including Prometheus, Tempo, Loki, and Pyroscope, with plans to integrate additional sources in the future. Perses aims to provide users with a unified platform for visualizing and analyzing their observability data.
+Here's a brief summary of the perses/perses project:
+
+Perses is an open-source observability visualization platform, currently in the CNCF sandbox. It supports various data sources, including Prometheus, Tempo, Loki, and Pyroscope, with plans to integrate more data sources in the future. This project aims to provide a comprehensive and extensible solution for observability needs.
 
 ---
 

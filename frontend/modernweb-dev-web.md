@@ -25,7 +25,7 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-The modernweb-dev/web project is an open-source collection of guides, tools, and libraries designed to facilitate modern web development. This comprehensive resource caters to both frontend and backend developers, providing valuable assets to enhance their workflow and productivity. By consolidating essential tools and knowledge bases, it aims to streamline the development process and stay up-to-date with industry trends.
+The modernweb-dev/web project is an open-source initiative offering comprehensive guides, tools, and libraries tailored for modern web development. It caters to developers across various skill levels by providing resources and solutions for both frontend and backend aspects of web development. This project aims to simplify and streamline the development process, making it easier for developers to build robust and efficient web applications.
 
 ---
 

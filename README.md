@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **1716** |
+| 🗂️ **Total projects** | **1770** |
 | 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,15 +18,15 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 652 | [Browse →](./aiml/) |
-| 📦 **Misc** | 286 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 178 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 159 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 100 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 83 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 73 | [Browse →](./crypto/) |
-| 📊 **Data** | 49 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 41 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 670 | [Browse →](./aiml/) |
+| 📦 **Misc** | 293 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 192 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 160 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 103 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 88 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 76 | [Browse →](./crypto/) |
+| 📊 **Data** | 50 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 43 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 27 | [Browse →](./mobile/) |
 | 💳 **Payments** | 23 | [Browse →](./payments/) |
 | 📈 **Trading** | 21 | [Browse →](./trading/) |
@@ -38,16 +38,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Automattic/wp-calypso](./frontend/automattic-wp-calypso.md) | ⭐ 12.6k | Frontend |
-| 2 | [botpress/botpress](./orchestration/botpress-botpress.md) | ⭐ 14.6k | Orchestration |
-| 3 | [appsmithorg/appsmith](./frontend/appsmithorg-appsmith.md) | ⭐ 39.7k | Frontend |
-| 4 | [puppeteer/puppeteer](./backend/puppeteer-puppeteer.md) | ⭐ 94.2k | Backend |
-| 5 | [FreshRSS/FreshRSS](./misc/freshrss-freshrss.md) | ⭐ 14.8k | Misc |
-| 6 | [elie222/inbox-zero](./aiml/elie222-inbox-zero.md) | ⭐ 10.5k | AI/ML |
-| 7 | [outline/outline](./frontend/outline-outline.md) | ⭐ 38.2k | Frontend |
-| 8 | [n8n-io/n8n](./aiml/n8n-io-n8n.md) | ⭐ 185.3k | AI/ML |
-| 9 | [Mintplex-Labs/anything-llm](./aiml/mintplex-labs-anything-llm.md) | ⭐ 58.8k | AI/ML |
-| 10 | [Skyvern-AI/skyvern](./aiml/skyvern-ai-skyvern.md) | ⭐ 21.3k | AI/ML |
+| 1 | [vuetifyjs/vuetify](./frontend/vuetifyjs-vuetify.md) | ⭐ 41k | Frontend |
+| 2 | [ansible/awx](./frontend/ansible-awx.md) | ⭐ 15.4k | Frontend |
+| 3 | [quic-go/quic-go](./frontend/quic-go-quic-go.md) | ⭐ 11.5k | Frontend |
+| 4 | [loopbackio/loopback-next](./frontend/loopbackio-loopback-next.md) | ⭐ 5.1k | Frontend |
+| 5 | [botpress/botpress](./orchestration/botpress-botpress.md) | ⭐ 14.6k | Orchestration |
+| 6 | [xtermjs/xterm.js](./misc/xtermjs-xterm.js.md) | ⭐ 20.4k | Misc |
+| 7 | [elie222/inbox-zero](./aiml/elie222-inbox-zero.md) | ⭐ 10.5k | AI/ML |
+| 8 | [outline/outline](./frontend/outline-outline.md) | ⭐ 38.2k | Frontend |
+| 9 | [ccxt/ccxt](./crypto/ccxt-ccxt.md) | ⭐ 42k | Crypto |
+| 10 | [woocommerce/woocommerce](./frontend/woocommerce-woocommerce.md) | ⭐ 10.3k | Frontend |
 
 ## 🚀 How it works
 

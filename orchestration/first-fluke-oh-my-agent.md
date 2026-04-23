@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
+Here's a brief summary for the open-source project:
 
-Oh-my-agent is an open-source, portable multi-agent harness designed to enable seamless collaboration and orchestration across various AI and ML platforms, including Antigravity, Claude Code, Codex, Cursor, and OpenCode. This project aims to standardize communication and workflows, allowing for efficient integration of diverse agent teams and skills. By providing a unified interface, oh-my-agent simplifies the development and deployment of complex AI and ML applications.
+The "oh-my-agent" project is an open-source, portable multi-agent harness designed to integrate with various .agents-based standards, including Antigravity, Claude Code, Codex, Cursor, and OpenCode. This project enables seamless management and orchestration of skills, workflows, and agent teams, facilitating the development of AI/ML applications. With its cross-platform compatibility, "oh-my-agent" empowers developers to create more efficient and scalable agent-based systems.
 
 ---
 

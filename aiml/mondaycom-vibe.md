@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The mondaycom/vibe project is an open-source design system that provides official UI resources for developing applications in React.js. It offers a comprehensive set of components, guidelines, and assets to help developers create consistent and visually appealing user interfaces for monday.com applications. This design system aims to facilitate streamlined development and a cohesive user experience across various monday.com products.
+Here's a brief summary of the mondaycom/vibe project:
+
+The Vibe Design System is an open-source project that provides official UI resources for developing applications with monday.com, leveraging React.js. This design system offers a collection of pre-built components and tools to streamline application development and maintain a consistent user experience. By utilizing Vibe, developers can easily integrate monday.com's design standards into their projects.
 
 ---
 

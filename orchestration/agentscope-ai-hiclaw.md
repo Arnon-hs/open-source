@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the HiClaw project:
-
-HiClaw is an open-source collaborative multi-agent operating system designed for transparent task coordination in real-time. By leveraging Matrix rooms, HiClaw enables human-in-the-loop task management, providing a seamless and intuitive experience for users to work together and achieve complex goals. This innovative platform fosters collaboration and efficiency in various AI/ML applications.
+The HiClaw project is an open-source Collaborative Multi-Agent OS designed for transparent task coordination. It enables human-in-the-loop collaboration through Matrix rooms, facilitating real-time interaction between humans and AI agents. This platform aims to bridge the gap between human expertise and AI capabilities, promoting efficient and informed decision-making.
 
 ---
 

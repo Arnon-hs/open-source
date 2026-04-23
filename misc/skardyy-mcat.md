@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Mcat is an open-source terminal viewer that allows users to view images, videos, and Markdown files directly in their terminal. This versatile tool provides a convenient way to access and interact with multimedia content without the need to switch between different applications. With Mcat, users can enjoy a seamless viewing experience in the comfort of their terminal environment.
+Here's a brief summary for the project:
+
+Skardyy/mcat is an open-source terminal viewer that allows users to easily view and interact with various file types, including images, videos, and Markdown documents. This project provides a convenient way to access and display multimedia content directly within the terminal, eliminating the need for external applications. With its lightweight design and versatility, mcats offers a seamless viewing experience in a terminal environment.
 
 ---
 

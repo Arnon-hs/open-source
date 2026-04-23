@@ -25,9 +25,7 @@ DevOps/Infra · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the dexidp/dex project:
-
-Dex is an open-source identity and authentication service that acts as an OpenID Connect (OIDC) and OAuth 2.0 provider, enabling secure and standardized user authentication for various applications and services. Its pluggable connector architecture allows for seamless integration with multiple identity sources, providing flexibility and scalability in identity management. By leveraging Dex, development teams can focus on building applications while relying on a robust and secure identity infrastructure.
+Dex is an open-source OpenID Connect (OIDC) identity and OAuth 2.0 provider that enables secure authentication and authorization. This pluggable connector-based system allows developers to integrate various identity sources and protocols, providing flexibility and scalability. By utilizing Dex, users can easily implement secure identity management and access control within their applications and infrastructure.
 
 ---
 

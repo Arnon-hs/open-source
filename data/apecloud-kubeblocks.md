@@ -25,9 +25,9 @@ Data · DevOps/Infra · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the KubeBlocks project:
+Here's a brief summary of the open-source project:
 
-KubeBlocks is an open-source Kubernetes Operator that simplifies the management of various databases and streaming systems within Kubernetes environments. It provides a unified interface for deploying and managing multiple databases such as MySQL, PostgreSQL, MongoDB, and more, streamlining the process of data management and scaling. With KubeBlocks, users can effortlessly deploy, configure, and monitor their databases in a scalable and efficient manner.
+KubeBlocks is an open-source Kubernetes Operator that simplifies the management of various databases and streaming systems within Kubernetes environments. It provides a unified way to deploy, manage, and monitor popular data storage systems such as MySQL, PostgreSQL, MongoDB, and more. With KubeBlocks, users can easily integrate and scale their data infrastructure within Kubernetes environments.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Forceu/Gokapi is an open-source, self-hosted alternative to Firefox Send that prioritizes user privacy by not requiring public uploads. This lightweight solution also supports integration with AWS S3 for secure file storage. It is ideal for users seeking a decentralized, private file transfer option.
+Here's a brief summary for the Forceu/Gokapi project:
+
+Forceu/Gokapi is an open-source, self-hosted alternative to Firefox Send that allows users to securely share files without relying on public uploads. This lightweight solution supports integration with AWS S3, providing users with a private and customizable file-sharing experience. By hosting the service locally, users maintain control over their data and can enjoy a seamless and secure file-sharing experience.
 
 ---
 

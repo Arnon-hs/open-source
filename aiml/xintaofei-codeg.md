@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary for the open-source project "codeg":
 
-The "codeg" project is an open-source platform for aggregating and browsing AI coding agent sessions in one place. It allows users to interact with popular coding assistants like Claude Code, Codex, and Gemini CLI from a single interface, across desktop, server, and Docker environments. By providing a centralized hub for AI-powered coding tools, codeg aims to streamline the development process and enhance productivity.
+Codeg is a comprehensive platform for aggregating and browsing AI coding agent sessions from popular tools like Claude Code, Codex, and Gemini CLI in one centralized location. This open-source project offers a desktop app, self-hosted server, and Docker deployment options, providing users with flexibility and control over their AI coding experience. By streamlining access to various AI coding agents, codeg aims to enhance productivity and simplify the development process.
 
 ---
 

@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-EvoScientist is an open-source project that leverages self-evolving AI scientists to harness the power of research in the field of Vibe Research. This project utilizes orchestration and AI/ML technologies to create a dynamic and adaptive research environment that can evolve and improve over time. By harnessing the power of AI scientists, EvoScientist aims to accelerate the discovery of new insights and knowledge in Vibe Research.
+The EvoScientist project is an open-source initiative that leverages research on vibes to develop self-evolving AI scientists. This AI/ML framework allows for the orchestration of complex models, aiming to drive innovation and advancement in various fields. By harnessing the power of self-evolution, EvoScientist enables the creation of adaptive and intelligent AI systems.
 
 ---
 

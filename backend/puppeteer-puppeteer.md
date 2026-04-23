@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Puppeteer is an open-source project that provides a JavaScript API for automating browser interactions with both Chrome and Firefox. This API allows developers to control and automate web browser interactions with Node.js, enabling features such as web scraping, automated testing, and browser automation. By using Puppeteer, developers can create custom browser interactions and automate complex tasks with ease.
+Puppeteer is an open-source JavaScript API that provides a high-level interface for controlling Chrome and Firefox browsers programmatically. This API enables developers to automate web scraping, generate website screenshots, and debug web applications by simulating real user interactions. With Puppeteer, developers can automate interactions, inspect elements, and retrieve page data, making it a powerful tool for web development and automation tasks.
 
 ---
 

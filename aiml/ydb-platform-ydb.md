@@ -1,6 +1,6 @@
 # ydb-platform/ydb
 
-[![Stars](https://img.shields.io/github/stars/ydb-platform/ydb?style=flat-square&color=yellow)](https://github.com/ydb-platform/ydb/stargazers) [![Forks](https://img.shields.io/github/forks/ydb-platform/ydb?style=flat-square&color=blue)](https://github.com/ydb-platform/ydb/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ydb-platform/ydb?style=flat-square&color=yellow)](https://github.com/ydb-platform/ydb/stargazers) [![Forks](https://img.shields.io/github/forks/ydb-platform/ydb?style=flat-square&color=blue)](https://github.com/ydb-platform/ydb/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
 > YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.7k |
-| 🍴 **Forks** | 766 |
+| 🍴 **Forks** | 767 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 94/100 |
+| 📈 **Score** | 95/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

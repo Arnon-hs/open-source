@@ -27,7 +27,7 @@ AI/ML · Frontend · Backend
 
 Here's a brief summary of the code-charity/youtube project:
 
-The code-charity/youtube project is an open-source browser extension for YouTube that offers a wide range of customizable features, including playback settings, discovery options, and extra player controls. With over 250 tweaks and smart features, users can personalize their YouTube experience to suit their preferences and enhance their viewing experience. This extension is designed to be set-and-forget, making it easy to enjoy a distraction-free and optimized YouTube experience.
+This open-source project offers a customizable YouTube browser extension with over 250 tweaks and smart features, providing users with enhanced playback, discovery, and viewing experiences. The extension boasts a wide range of features, from playback control and quality settings to full-screen and distraction-free modes. By joining this community-driven project, users can personalize their YouTube experience and contribute to its development.
 
 ---
 

@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-Vault is an open-source secrets management tool that provides encryption as a service and privileged access management capabilities. It enables users to securely store, manage, and access sensitive data, such as API keys, passwords, and certificates, while enforcing access controls and auditing. By centralizing and encrypting sensitive data, Vault helps organizations improve security and compliance in their infrastructure.
+Hashicorp Vault is an open-source secrets management platform that securely stores and manages sensitive data, such as API keys and passwords, through encryption and access control. It provides a robust framework for encryption as a service and privileged access management, enabling organizations to protect their sensitive information and maintain compliance. By centralizing sensitive data and controlling access, Vault helps to mitigate the risk of data breaches and maintain the security posture of an organization.
 
 ---
 

@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Ghost-CLI is an open-source command-line interface (CLI) tool that simplifies the process of installing and updating Ghost, a popular open-source blogging platform. This tool provides an efficient and streamlined way to manage Ghost installations, making it ideal for developers and site administrators. With Ghost-CLI, users can easily install, update, and configure Ghost on their local machine or production environment.
+Ghost-CLI is an open-source command-line interface (CLI) tool for managing Ghost installations. It provides a streamlined experience for installing and updating Ghost on your local machine or server, making it easier to get started with the popular blogging platform. With Ghost-CLI, developers and bloggers alike can effortlessly set up and maintain their Ghost sites.
 
 ---
 
