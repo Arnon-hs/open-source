@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Unbound is an open-source, high-performance DNS resolver that provides validating, recursive, and caching capabilities. This project offers a secure and efficient solution for DNS resolution, ensuring the authenticity of domain name system lookups. By utilizing Unbound, users can improve the reliability and performance of their network's DNS functionality.
+Unbound is an open-source, validating, recursive, and caching DNS resolver that provides a secure and efficient DNS resolution experience. It is designed to protect against various DNS-related threats such as DNS spoofing and cache poisoning, while also offering caching capabilities to reduce the load on recursive DNS servers. By using Unbound, users can improve their internet security and performance.
 
 ---
 

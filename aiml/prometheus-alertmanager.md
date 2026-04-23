@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Prometheus Alertmanager is an open-source project that handles alerts sent by Prometheus, enabling the routing, grouping, and notification of alerts to designated personnel. This project integrates with various notification channels and supports advanced alert management features, such as silencing, suppression, and alert grouping. By leveraging Alertmanager, users can efficiently manage and respond to critical system events.
+The prometheus/alertmanager project is an open-source alerting and incident management tool designed for large-scale monitoring systems. It enables efficient routing, grouping, and notification of alerts from Prometheus, allowing teams to quickly respond to critical issues. This project is ideal for organizations with complex monitoring needs, providing customizable alerting and incident management capabilities.
 
 ---
 

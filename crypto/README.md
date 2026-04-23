@@ -2,21 +2,21 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**48 projects** in this category.
+**49 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [huggingface/transformers](./huggingface-transformers.md) | ⭐ 159.8k | Python | 100/100 |
-| 2 | [monero-project/monero](./monero-project-monero.md) | ⭐ 10.5k | C++ | 100/100 |
-| 3 | [elizaOS/eliza](./elizaos-eliza.md) | ⭐ 18.2k | TypeScript | 100/100 |
-| 4 | [nautechsystems/nautilus_trader](./nautechsystems-nautilus-trader.md) | ⭐ 22.2k | Rust | 100/100 |
-| 5 | [bee-san/Ciphey](./bee-san-ciphey.md) | ⭐ 21.3k | Rust | 100/100 |
-| 6 | [krzyzanowskim/CryptoSwift](./krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Swift | 100/100 |
-| 7 | [OpenBB-finance/OpenBB](./openbb-finance-openbb.md) | ⭐ 66.4k | Python | 100/100 |
-| 8 | [lightningnetwork/lnd](./lightningnetwork-lnd.md) | ⭐ 8.1k | Go | 100/100 |
-| 9 | [btcpayserver/btcpayserver](./btcpayserver-btcpayserver.md) | ⭐ 7.5k | C# | 100/100 |
+| 1 | [monero-project/monero](./monero-project-monero.md) | ⭐ 10.5k | C++ | 100/100 |
+| 2 | [elizaOS/eliza](./elizaos-eliza.md) | ⭐ 18.2k | TypeScript | 100/100 |
+| 3 | [nautechsystems/nautilus_trader](./nautechsystems-nautilus-trader.md) | ⭐ 22.2k | Rust | 100/100 |
+| 4 | [bee-san/Ciphey](./bee-san-ciphey.md) | ⭐ 21.3k | Rust | 100/100 |
+| 5 | [krzyzanowskim/CryptoSwift](./krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Swift | 100/100 |
+| 6 | [OpenBB-finance/OpenBB](./openbb-finance-openbb.md) | ⭐ 66.4k | Python | 100/100 |
+| 7 | [lightningnetwork/lnd](./lightningnetwork-lnd.md) | ⭐ 8.1k | Go | 100/100 |
+| 8 | [btcpayserver/btcpayserver](./btcpayserver-btcpayserver.md) | ⭐ 7.5k | C# | 100/100 |
+| 9 | [huggingface/transformers](./huggingface-transformers.md) | ⭐ 159.8k | Python | 100/100 |
 | 10 | [smartcontractkit/chainlink](./smartcontractkit-chainlink.md) | ⭐ 8.2k | Go | 97/100 |
 | 11 | [canopy-network/canopy](./canopy-network-canopy.md) | ⭐ 10.4k | Go | 96/100 |
 | 12 | [aptos-labs/aptos-core](./aptos-labs-aptos-core.md) | ⭐ 6.4k | Rust | 96/100 |
@@ -34,28 +34,29 @@
 | 24 | [googleapis/googleapis](./googleapis-googleapis.md) | ⭐ 8.5k | Starlark | 91/100 |
 | 25 | [ethereum/EIPs](./ethereum-eips.md) | ⭐ 13.8k | Go | 90/100 |
 | 26 | [GMWalletApp/epusdt](./gmwalletapp-epusdt.md) | ⭐ 3.2k | Go | 86/100 |
-| 27 | [MetaMask/metamask-mobile](./metamask-metamask-mobile.md) | ⭐ 2.9k | TypeScript | 84/100 |
-| 28 | [besu-eth/besu](./besu-eth-besu.md) | ⭐ 1.8k | Java | 74/100 |
-| 29 | [Peergos/Peergos](./peergos-peergos.md) | ⭐ 2.4k | Java | 70/100 |
-| 30 | [freenet/freenet-core](./freenet-freenet-core.md) | ⭐ 2.7k | Rust | 70/100 |
-| 31 | [succinctlabs/sp1](./succinctlabs-sp1.md) | ⭐ 1.6k | Rust | 69/100 |
-| 32 | [NethermindEth/nethermind](./nethermindeth-nethermind.md) | ⭐ 1.5k | C# | 67/100 |
-| 33 | [cake-tech/cake_wallet](./cake-tech-cake-wallet.md) | ⭐ 1.6k | Dart | 67/100 |
-| 34 | [mustbeperfect/definitive-opensource](./mustbeperfect-definitive-opensource.md) | ⭐ 3.2k | Python | 66/100 |
-| 35 | [eracle/OpenOutreach](./eracle-openoutreach.md) | ⭐ 1.5k | Python | 64/100 |
-| 36 | [DefiLlama/DefiLlama-Adapters](./defillama-defillama-adapters.md) | ⭐ 1.2k | JavaScript | 63/100 |
-| 37 | [ZeusLN/zeus](./zeusln-zeus.md) | ⭐ 1.4k | TypeScript | 63/100 |
-| 38 | [trezor/trezor-suite](./trezor-trezor-suite.md) | ⭐ 993 | TypeScript | 62/100 |
-| 39 | [a16z/jolt](./a16z-jolt.md) | ⭐ 979 | Rust | 61/100 |
-| 40 | [firedancer-io/firedancer](./firedancer-io-firedancer.md) | ⭐ 1.5k | C | 60/100 |
-| 41 | [bitcart/bitcart](./bitcart-bitcart.md) | ⭐ 928 | Python | 59/100 |
-| 42 | [lambdaclass/ethrex](./lambdaclass-ethrex.md) | ⭐ 859 | Rust | 59/100 |
-| 43 | [phishdestroy/destroylist](./phishdestroy-destroylist.md) | ⭐ 948 | HTML | 58/100 |
-| 44 | [stefanberger/swtpm](./stefanberger-swtpm.md) | ⭐ 778 | C | 57/100 |
-| 45 | [vsys-host/shkeeper.io](./vsys-host-shkeeper.io.md) | ⭐ 556 | Python | 56/100 |
-| 46 | [omnuron/omniclaw](./omnuron-omniclaw.md) | ⭐ 492 | Python | 54/100 |
-| 47 | [Merit-Systems/x402scan](./merit-systems-x402scan.md) | ⭐ 325 | TypeScript | 54/100 |
-| 48 | [wilpel/caveman-compression](./wilpel-caveman-compression.md) | ⭐ 785 | Python | 40/100 |
+| 27 | [cue-lang/cue](./cue-lang-cue.md) | ⭐ 6.1k | Go | 85/100 |
+| 28 | [MetaMask/metamask-mobile](./metamask-metamask-mobile.md) | ⭐ 2.9k | TypeScript | 84/100 |
+| 29 | [besu-eth/besu](./besu-eth-besu.md) | ⭐ 1.8k | Java | 74/100 |
+| 30 | [Peergos/Peergos](./peergos-peergos.md) | ⭐ 2.4k | Java | 70/100 |
+| 31 | [freenet/freenet-core](./freenet-freenet-core.md) | ⭐ 2.7k | Rust | 70/100 |
+| 32 | [succinctlabs/sp1](./succinctlabs-sp1.md) | ⭐ 1.6k | Rust | 69/100 |
+| 33 | [NethermindEth/nethermind](./nethermindeth-nethermind.md) | ⭐ 1.5k | C# | 67/100 |
+| 34 | [cake-tech/cake_wallet](./cake-tech-cake-wallet.md) | ⭐ 1.6k | Dart | 67/100 |
+| 35 | [mustbeperfect/definitive-opensource](./mustbeperfect-definitive-opensource.md) | ⭐ 3.2k | Python | 66/100 |
+| 36 | [eracle/OpenOutreach](./eracle-openoutreach.md) | ⭐ 1.5k | Python | 64/100 |
+| 37 | [DefiLlama/DefiLlama-Adapters](./defillama-defillama-adapters.md) | ⭐ 1.2k | JavaScript | 63/100 |
+| 38 | [ZeusLN/zeus](./zeusln-zeus.md) | ⭐ 1.4k | TypeScript | 63/100 |
+| 39 | [trezor/trezor-suite](./trezor-trezor-suite.md) | ⭐ 993 | TypeScript | 62/100 |
+| 40 | [a16z/jolt](./a16z-jolt.md) | ⭐ 979 | Rust | 61/100 |
+| 41 | [firedancer-io/firedancer](./firedancer-io-firedancer.md) | ⭐ 1.5k | C | 60/100 |
+| 42 | [bitcart/bitcart](./bitcart-bitcart.md) | ⭐ 928 | Python | 59/100 |
+| 43 | [lambdaclass/ethrex](./lambdaclass-ethrex.md) | ⭐ 859 | Rust | 59/100 |
+| 44 | [phishdestroy/destroylist](./phishdestroy-destroylist.md) | ⭐ 948 | HTML | 58/100 |
+| 45 | [stefanberger/swtpm](./stefanberger-swtpm.md) | ⭐ 778 | C | 57/100 |
+| 46 | [vsys-host/shkeeper.io](./vsys-host-shkeeper.io.md) | ⭐ 556 | Python | 56/100 |
+| 47 | [omnuron/omniclaw](./omnuron-omniclaw.md) | ⭐ 493 | Python | 54/100 |
+| 48 | [Merit-Systems/x402scan](./merit-systems-x402scan.md) | ⭐ 325 | TypeScript | 54/100 |
+| 49 | [wilpel/caveman-compression](./wilpel-caveman-compression.md) | ⭐ 785 | Python | 40/100 |
 
 ---
 

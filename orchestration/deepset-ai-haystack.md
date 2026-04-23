@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the deepset-ai/haystack project:
+Here's a brief summary of the deepset-ai/haystack project:
 
-Haystack is an open-source AI orchestration framework that enables developers to build scalable, production-ready applications powered by Large Language Models (LLMs). With explicit control over retrieval, routing, memory, and generation, Haystack allows for modular pipeline design and agent workflows, making it suitable for a wide range of applications, including semantic search and conversational systems. This flexible framework supports multimodal and RAG (Retrieval-Augmented Generation) applications, facilitating the development of AI-driven solutions.
+Haystack is an open-source AI orchestration framework that enables the development of context-engineered, production-ready Large Language Model (LLM) applications. This modular framework allows for explicit control over retrieval, routing, memory, and generation, making it suitable for building scalable agents, multimodal applications, and conversational systems. With Haystack, users can design complex pipelines and workflows to create sophisticated AI-powered systems.
 
 ---
 

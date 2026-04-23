@@ -1,6 +1,6 @@
 # BlazeUp-AI/Observal
 
-[![Stars](https://img.shields.io/github/stars/BlazeUp-AI/Observal?style=flat-square&color=yellow)](https://github.com/BlazeUp-AI/Observal/stargazers) [![Forks](https://img.shields.io/github/forks/BlazeUp-AI/Observal?style=flat-square&color=blue)](https://github.com/BlazeUp-AI/Observal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlazeUp-AI/Observal?style=flat-square&color=yellow)](https://github.com/BlazeUp-AI/Observal/stargazers) [![Forks](https://img.shields.io/github/forks/BlazeUp-AI/Observal?style=flat-square&color=blue)](https://github.com/BlazeUp-AI/Observal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Observal is an AI agent registry with first in class observabilty and eval framework
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 647 |
-| 🍴 **Forks** | 63 |
+| ⭐ **Stars** | 659 |
+| 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

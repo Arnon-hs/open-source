@@ -25,7 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-MindsDB is an open-source query engine designed to bring AI capabilities to analytics, enabling the creation of self-reasoning agents across various data sources. This project empowers users to build predictive models, automate insights, and streamline their data-driven workflows. By leveraging MindsDB, users can unlock the power of AI analytics and make data-driven decisions more efficiently.
+MindsDB is an open-source query engine designed for AI analytics, enabling the creation of self-reasoning agents that can operate on live data. This platform allows users to build and integrate AI models seamlessly with their existing data infrastructure, promoting real-time insights and decision-making capabilities. By leveraging MindsDB, users can unlock the full potential of their data and drive more informed business outcomes.
 
 ---
 

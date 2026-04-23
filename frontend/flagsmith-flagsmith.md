@@ -25,7 +25,7 @@ Frontend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Flagsmith is an open-source feature flagging and remote configuration service that enables developers to manage and toggle features in their applications with ease. It provides a self-hosted option as well as a hosted version, allowing users to choose the best fit for their needs. By utilizing Flagsmith, developers can simplify feature management and improve the overall efficiency of their development workflow.
+Flagsmith is a free, open-source feature flagging and remote configuration service that enables developers to manage and control product features in a flexible and scalable manner. It can be self-hosted or utilized through its cloud-based platform at https://app.flagsmith.com. This solution supports various development workflows, including frontend development, DevOps, and infrastructure management.
 
 ---
 

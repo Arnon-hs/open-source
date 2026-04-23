@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-OpenCloud is an open-source platform for effortless file management, sharing, and collaboration. It offers a simple and sovereign solution for managing files, providing users with a secure and decentralized way to share and access their data. With OpenCloud, users can regain control over their files and collaborate with others in a transparent and trustworthy manner.
+OpenCloud is an open-source platform designed for file management, sharing, and collaboration. Its simple and sovereign architecture enables users to securely manage and share files while maintaining control over their data. This platform is ideal for individuals and organizations seeking a flexible and customizable solution for file management needs.
 
 ---
 

@@ -25,7 +25,7 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Cozystack is an open-source, free cloud platform built on top of Kubernetes, designed to provide a scalable and reliable infrastructure solution. This decentralized platform enables users to deploy, manage, and monitor applications with ease, leveraging the flexibility and security of Kubernetes. By harnessing the power of Cozystack, developers can streamline their cloud operations and focus on building innovative applications.
+Cozystack is an open-source, free cloud platform built on top of Kubernetes, designed to provide a scalable and flexible infrastructure for deploying applications. This project aims to offer a comprehensive solution for DevOps and infrastructure management, empowering users to efficiently manage and orchestrate their cloud resources. By leveraging Kubernetes, Cozystack provides a robust and modular architecture for building and deploying cloud-native applications.
 
 ---
 

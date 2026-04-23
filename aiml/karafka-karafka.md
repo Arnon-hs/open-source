@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Karafka is an open-source, efficient framework for processing Kafka messages in Ruby and Rails applications. It provides a simple, scalable, and fault-tolerant solution for building data pipelines and stream processing applications. With Karafka, developers can easily integrate their Ruby and Rails projects with Apache Kafka, enabling real-time data processing and analytics.
+Karafka is an open-source, efficient Kafka processing framework designed for Ruby and Rails applications. It provides a streamlined approach to building scalable and fault-tolerant data processing pipelines, making it ideal for real-time data integration and event-driven architectures. By leveraging Karafka, developers can simplify their Kafka workflows and focus on building robust, high-performance applications.
 
 ---
 

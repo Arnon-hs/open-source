@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-The MCP server for Grafana is an open-source project that provides a backend solution for Grafana, a popular platform for monitoring and analyzing data. This project allows for efficient data processing and management, enabling users to leverage the full potential of Grafana. By utilizing this MCP server, users can enhance their Grafana experience with improved scalability and performance.
+Here's a brief summary for the MCP server for Grafana project:
+
+The MCP server for Grafana is an open-source project that provides a server component for Grafana, enabling centralized management and control of Grafana instances. This project allows for efficient monitoring, configuration, and synchronization of Grafana settings across multiple environments. By utilizing the MCP server, users can streamline their Grafana setup and enhance collaboration.
 
 ---
 

@@ -8,11 +8,11 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.2k | TypeScript | 100/100 |
-| 2 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 100/100 |
-| 3 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 100/100 |
-| 4 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
-| 5 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 25.7k | HTML | 100/100 |
+| 1 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 100/100 |
+| 2 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 100/100 |
+| 3 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.2k | TypeScript | 100/100 |
+| 4 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 25.7k | HTML | 100/100 |
+| 5 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
 | 6 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | — | 100/100 |
 | 7 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 23.6k | Python | 100/100 |
 | 8 | [QuantumNous/new-api](./quantumnous-new-api.md) | ⭐ 28.4k | Go | 99/100 |

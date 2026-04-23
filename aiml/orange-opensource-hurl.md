@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Hurl is an open-source project that allows users to run and test HTTP requests using plain text. This tool simplifies the process of testing API endpoints by providing a straightforward and intuitive interface. With Hurl, developers can easily send HTTP requests and inspect responses, making it a valuable resource for backend development and API testing.
+Hurl is an open-source project that enables users to run and test HTTP requests with ease, utilizing plain text configurations. This tool is designed for developers and testers working on backend applications, as well as those in the AI/ML space, to streamline their workflow and ensure accurate API interactions. With Hurl, users can create, execute, and verify HTTP requests in a simple and efficient manner.
 
 ---
 

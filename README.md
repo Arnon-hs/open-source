@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **1330** |
+| 🗂️ **Total projects** | **1378** |
 | 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,15 +18,15 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 512 | [Browse →](./aiml/) |
-| 📦 **Misc** | 231 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 138 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 120 | [Browse →](./orchestration/) |
+| 🤖 **AI/ML** | 532 | [Browse →](./aiml/) |
+| 📦 **Misc** | 237 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 146 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 128 | [Browse →](./orchestration/) |
 | ⚙️ **Backend** | 76 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 57 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 48 | [Browse →](./crypto/) |
-| 📊 **Data** | 37 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 32 | [Browse →](./devopsinfra/) |
+| 🔧 **DevTools** | 60 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 49 | [Browse →](./crypto/) |
+| 📊 **Data** | 38 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 33 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 26 | [Browse →](./mobile/) |
 | 💳 **Payments** | 17 | [Browse →](./payments/) |
 | 📈 **Trading** | 16 | [Browse →](./trading/) |
@@ -38,16 +38,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
-| 2 | [lichess-org/lila](./backend/lichess-org-lila.md) | ⭐ 18.1k | Backend |
-| 3 | [surrealdb/surrealdb](./backend/surrealdb-surrealdb.md) | ⭐ 31.9k | Backend |
-| 4 | [docling-project/docling](./aiml/docling-project-docling.md) | ⭐ 58.4k | AI/ML |
-| 5 | [langchain4j/langchain4j](./orchestration/langchain4j-langchain4j.md) | ⭐ 11.7k | Orchestration |
-| 6 | [elie222/inbox-zero](./aiml/elie222-inbox-zero.md) | ⭐ 10.5k | AI/ML |
-| 7 | [huggingface/transformers](./crypto/huggingface-transformers.md) | ⭐ 159.8k | Crypto |
-| 8 | [rtk-ai/rtk](./aiml/rtk-ai-rtk.md) | ⭐ 32.8k | AI/ML |
-| 9 | [ghostfolio/ghostfolio](./trading/ghostfolio-ghostfolio.md) | ⭐ 8.2k | Trading |
-| 10 | [Qiskit/qiskit](./trading/qiskit-qiskit.md) | ⭐ 7.3k | Trading |
+| 1 | [google/comprehensive-rust](./aiml/google-comprehensive-rust.md) | ⭐ 32.9k | AI/ML |
+| 2 | [Qiskit/qiskit](./trading/qiskit-qiskit.md) | ⭐ 7.3k | Trading |
+| 3 | [saturndec/waoowaoo](./aiml/saturndec-waoowaoo.md) | ⭐ 11.6k | AI/ML |
+| 4 | [elie222/inbox-zero](./aiml/elie222-inbox-zero.md) | ⭐ 10.5k | AI/ML |
+| 5 | [labring/FastGPT](./orchestration/labring-fastgpt.md) | ⭐ 27.8k | Orchestration |
+| 6 | [FreeCAD/FreeCAD](./misc/freecad-freecad.md) | ⭐ 30.5k | Misc |
+| 7 | [mouredev/roadmap-retos-programacion](./frontend/mouredev-roadmap-retos-programacion.md) | ⭐ 8.2k | Frontend |
+| 8 | [evcc-io/evcc](./misc/evcc-io-evcc.md) | ⭐ 6.5k | Misc |
+| 9 | [go-gitea/gitea](./aiml/go-gitea-gitea.md) | ⭐ 55.1k | AI/ML |
+| 10 | [bitwarden/clients](./devtools/bitwarden-clients.md) | ⭐ 12.7k | DevTools |
 
 ## 🚀 How it works
 

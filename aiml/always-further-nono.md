@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "nono":
+Here's a brief summary of the "nono" project:
 
-nono is an open-source, capability-based sandbox tool designed for seamless development and deployment of applications. It enables developers to run agents securely without additional infrastructure, eliminating setup requirements and latency issues. This multiplexing tool is ideal for AI/ML, frontend development, and DevTools, facilitating a smooth path to production.
+The open-source "nono" project is a capability-based, multiplexing sandbox tool designed for developers, enabling a seamless path from development to production. This tool allows developers to run agents securely without requiring any additional infrastructure, resulting in zero setup and zero latency. With its capabilities, "nono" streamlines the development process for AI/ML, frontend, and DevTools projects.
 
 ---
 

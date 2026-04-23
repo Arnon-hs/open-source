@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Crystal is an open-source, general-purpose programming language designed to be a modern, efficient, and easy-to-use alternative to existing languages. It aims to provide a high-level, statically typed language that compiles to efficient machine code, combining the benefits of compile-time evaluation with the flexibility of a dynamic language. Crystal is built to handle the complex needs of modern software development, from scripting to large-scale applications.
+Crystal is an open-source, general-purpose programming language that aims to provide a simple, modern, and high-performance alternative to existing languages. It features a statically typed syntax, low overhead, and seamless interoperation with C code, making it suitable for a wide range of applications, from systems programming to web development. Developed by the Crystal community, the language is designed to be easy to learn and use.
 
 ---
 

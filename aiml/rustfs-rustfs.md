@@ -25,9 +25,7 @@ AI/ML · Data · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary of the RustFS project:
-
-RustFS is an open-source, high-performance object storage system that provides S3-compatible functionality, outperforming MinIO by up to 2.3x for 4KB object payloads. This scalable solution supports seamless migration and coexistence with other S3-compatible platforms, making it an ideal choice for AI/ML, data, and marketing applications. By leveraging its efficient architecture, RustFS enables fast and reliable data storage and retrieval.
+RustFS is an open-source, high-performance object storage system that offers S3 compatibility. It boasts impressive performance, achieving speeds 2.3x faster than MinIO for 4KB object payloads. This makes it an attractive option for those seeking a scalable and efficient solution for their object storage needs.
 
 ---
 

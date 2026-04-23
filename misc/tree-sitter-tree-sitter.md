@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Tree-sitter is an open-source, incremental parsing system designed for programming tools. It allows for efficient and accurate parsing of source code in various programming languages, enabling features such as code analysis, syntax highlighting, and code completion. This system enables developers to build powerful programming tools with high performance and flexibility.
+Tree-sitter is an open-source, incremental parsing system designed to help build efficient and reliable programming tools. It uses a tree-based representation of source code to facilitate parsing, analysis, and transformation in a fast and scalable manner. By leveraging tree-sitter, developers can create robust tools for tasks such as code completion, debugging, and refactoring.
 
 ---
 

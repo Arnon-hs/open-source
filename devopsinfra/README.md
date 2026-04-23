@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**32 projects** in this category.
+**33 projects** in this category.
 
 ## Projects
 
@@ -22,24 +22,25 @@
 | 12 | [hashicorp/terraform-provider-azurerm](./hashicorp-terraform-provider-azurerm.md) | ⭐ 4.9k | Go | 94/100 |
 | 13 | [woodpecker-ci/woodpecker](./woodpecker-ci-woodpecker.md) | ⭐ 6.8k | Go | 92/100 |
 | 14 | [docker-library/docs](./docker-library-docs.md) | ⭐ 5.3k | Shell | 91/100 |
-| 15 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 8.8k | Go | 90/100 |
-| 16 | [docker-library/official-images](./docker-library-official-images.md) | ⭐ 6.9k | Shell | 90/100 |
-| 17 | [kubesphere/kubekey](./kubesphere-kubekey.md) | ⭐ 2.8k | Go | 81/100 |
-| 18 | [ardanlabs/service](./ardanlabs-service.md) | ⭐ 4k | Go | 79/100 |
-| 19 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 77/100 |
-| 20 | [microsoft/retina](./microsoft-retina.md) | ⭐ 3.1k | Go | 71/100 |
-| 21 | [phusion/passenger-docker](./phusion-passenger-docker.md) | ⭐ 2.8k | Shell | 66/100 |
-| 22 | [aws-controllers-k8s/community](./aws-controllers-k8s-community.md) | ⭐ 2.6k | — | 65/100 |
-| 23 | [cr0hn/dockerscan](./cr0hn-dockerscan.md) | ⭐ 1.5k | Go | 62/100 |
-| 24 | [kimdre/doco-cd](./kimdre-doco-cd.md) | ⭐ 1.3k | Go | 60/100 |
-| 25 | [opensearch-project/opensearch-k8s-operator](./opensearch-project-opensearch-k8s-operator.md) | ⭐ 542 | Go | 59/100 |
-| 26 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
-| 27 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 895 | Go | 56/100 |
-| 28 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.3k | TypeScript | 55/100 |
-| 29 | [topolvm/topolvm](./topolvm-topolvm.md) | ⭐ 1.1k | Go | 54/100 |
-| 30 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 921 | Dockerfile | 48/100 |
-| 31 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 4 | Go | 42/100 |
-| 32 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
+| 15 | [docker-library/official-images](./docker-library-official-images.md) | ⭐ 6.9k | Shell | 90/100 |
+| 16 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 8.8k | Go | 90/100 |
+| 17 | [gardener/gardener](./gardener-gardener.md) | ⭐ 3.4k | Go | 82/100 |
+| 18 | [kubesphere/kubekey](./kubesphere-kubekey.md) | ⭐ 2.8k | Go | 81/100 |
+| 19 | [ardanlabs/service](./ardanlabs-service.md) | ⭐ 4k | Go | 79/100 |
+| 20 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 77/100 |
+| 21 | [microsoft/retina](./microsoft-retina.md) | ⭐ 3.1k | Go | 71/100 |
+| 22 | [phusion/passenger-docker](./phusion-passenger-docker.md) | ⭐ 2.8k | Shell | 66/100 |
+| 23 | [aws-controllers-k8s/community](./aws-controllers-k8s-community.md) | ⭐ 2.6k | — | 65/100 |
+| 24 | [cr0hn/dockerscan](./cr0hn-dockerscan.md) | ⭐ 1.5k | Go | 62/100 |
+| 25 | [kimdre/doco-cd](./kimdre-doco-cd.md) | ⭐ 1.3k | Go | 60/100 |
+| 26 | [opensearch-project/opensearch-k8s-operator](./opensearch-project-opensearch-k8s-operator.md) | ⭐ 542 | Go | 59/100 |
+| 27 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
+| 28 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 895 | Go | 56/100 |
+| 29 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.3k | TypeScript | 55/100 |
+| 30 | [topolvm/topolvm](./topolvm-topolvm.md) | ⭐ 1.1k | Go | 54/100 |
+| 31 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 921 | Dockerfile | 48/100 |
+| 32 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 4 | Go | 42/100 |
+| 33 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
 
 ---
 

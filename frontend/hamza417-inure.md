@@ -25,7 +25,7 @@ Frontend · Data · Mobile
 
 ## 📝 Summary
 
-Inure is a comprehensive, open-source Android app manager that offers a range of advanced features, including root and Shizuku support, a built-in terminal, and analytics. Developed with a custom UI design and reproducible build, Inure provides users with a unique and customizable experience. With features like debloat, stats, and virus scanning via Virustotal, Inure aims to be a go-to app manager for Android users seeking a premium experience.
+Inure is a comprehensive, open-source Android app manager that offers a range of advanced features, including root and Shizuku support, a built-in terminal, analytics, and debloating capabilities. Developed with a custom UI design, Inure features a highly customizable theme engine and includes additional tools such as virus scanning and system statistics. This versatile app is designed to provide users with a streamlined experience for managing their Android device.
 
 ---
 

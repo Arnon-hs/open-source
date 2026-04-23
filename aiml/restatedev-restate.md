@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the restatedev/restate project:
+Here's a brief summary for the restatedev/restate project:
 
-Restate is an innovative open-source platform designed to help developers build robust and resilient applications that can withstand various infrastructure faults without requiring advanced technical expertise. This platform leverages AI/ML capabilities to provide a user-friendly solution for creating fault-tolerant applications. By simplifying the process, restate empowers developers to focus on building high-quality, reliable software.
+Restate is an open-source platform designed to help developers build resilient applications that can withstand various infrastructure faults without requiring advanced expertise. By leveraging AI and machine learning technologies, Restate aims to simplify the process of fault tolerance and ensure seamless application performance. This platform empowers developers to create robust applications with minimal effort.
 
 ---
 

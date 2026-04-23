@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-OpenTTD is an open-source, transport-themed simulation game based on the classic Transport Tycoon Deluxe. Players can build and manage their own transportation networks, including railroads, roads, and waterways, with the goal of becoming a successful transportation tycoon. As an open-source project, OpenTTD is highly customizable and community-driven, with a dedicated following and continuous updates.
+OpenTTD is an open-source simulation game that builds upon the classic Transport Tycoon Deluxe. This free and community-driven project allows players to manage and build their own transportation empire, including trains, buses, and ships, across a vast map. With its open-source nature, users can contribute and modify the game to their liking, extending its replayability and functionality.
 
 ---
 

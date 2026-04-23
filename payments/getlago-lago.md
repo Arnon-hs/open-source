@@ -25,7 +25,7 @@ Payments · Orchestration · Frontend
 
 ## 📝 Summary
 
-Lago is an open-source metering and usage-based billing API that provides a comprehensive platform for consumption tracking, subscription management, and payment orchestration. It enables businesses to efficiently manage pricing iterations, track revenue analytics, and streamline their billing processes. With Lago, organizations can easily monitor and optimize their revenue streams in a flexible and scalable manner.
+The Lago project is an open-source, API-driven platform for metering and usage-based billing. It offers a comprehensive suite of features, including consumption tracking, subscription management, pricing iterations, payment orchestration, and revenue analytics. By utilizing Lago, developers can create and manage scalable billing systems with precision and control.
 
 ---
 

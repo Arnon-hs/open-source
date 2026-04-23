@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-HolmesGPT is an open-source project that serves as a Site Reliability Engineering (SRE) agent, now a CNCF Sandbox Project. It utilizes AI/ML capabilities to enhance DevOps and infrastructure management, aiming to improve system reliability and efficiency. By leveraging these technologies, HolmesGPT streamlines SRE tasks and provides a more robust monitoring and incident response system.
+HolmesGPT is an open-source project that serves as a Service Reliability Engineering (SRE) agent. It is a CNCF Sandbox Project, designed to bridge the gap between AI/ML and DevOps/Infrastructure. HolmesGPT aims to provide a robust solution for automating and optimizing SRE tasks, leveraging the power of machine learning and cloud-native technologies.
 
 ---
 

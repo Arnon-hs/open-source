@@ -25,9 +25,7 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the surrealdb project:
-
-SurrealDB is an open-source, document-graph database designed for real-time web applications. It offers scalable, distributed, and collaborative capabilities, making it suitable for large-scale and high-performance data management needs. This database enables developers to build fast and reliable applications with seamless data synchronization and scalability.
+SurrealDB is an open-source, document-graph database designed for real-time web applications. It is scalable, distributed, and collaborative, allowing for seamless data sharing and synchronization across multiple nodes. This makes SurrealDB an ideal choice for complex, data-driven applications that require high performance and seamless real-time updates.
 
 ---
 

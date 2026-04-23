@@ -25,9 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a summary for the "Claude-Code-Workflow" project:
-
-Claude-Code-Workflow is an open-source development framework that streamlines team collaboration through a JSON-driven, multi-agent approach. It leverages intelligent CLI orchestration and a context-first architecture to automate workflow execution, enabling more efficient and effective team development. This innovative framework is suitable for teams working on complex projects in the AI/ML and DevTools spaces.
+Claude-Code-Workflow is an open-source, JSON-driven framework for multi-agent cadence-team development. It features an intelligent CLI orchestration system, dubbed Gemini, Qwen, and Codex, and employs a context-first architecture to streamline workflow execution. This DevTools project enables automated workflow execution, simplifying the development process for teams.
 
 ---
 

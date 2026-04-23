@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Typst/packages project is an open-source collection of packages designed to support the Typst framework. These packages provide essential extensions and tools to enhance the functionality and usability of Typst, a versatile tool for creating and manipulating typed documents. By leveraging these packages, developers can unlock new features and streamline their workflows with Typst.
+The typst/packages project is an open-source collection of packages designed to support the Typst tool, providing a range of useful functionalities for users. This repository serves as a centralized hub for sharing and collaborating on various Typst-related packages, promoting community-driven development and customization. By leveraging these packages, users can enhance their Typst experience and unlock new features and capabilities.
 
 ---
 

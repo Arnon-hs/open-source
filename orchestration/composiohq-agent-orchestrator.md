@@ -25,9 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Agent-Orchestrator is an open-source project that automates the management of parallel coding agents, efficiently planning tasks, spawning new agents, and handling complex development tasks such as CI fixes, merge conflicts, and code reviews. This AI-powered tool streamlines development workflows by providing autonomous orchestration capabilities. By leveraging the power of agent-based orchestration, developers can significantly reduce their workload and improve overall productivity.
+The agent-orchestrator is an open-source project that enables parallel coding agents to work together efficiently by planning tasks, spawning agents, and handling various development tasks autonomously. This orchestration tool streamlines continuous integration (CI) fixes, merge conflicts, and code reviews, making it an essential tool for AI/ML development and DevOps. By automating these processes, developers can focus on higher-level tasks.
 
 ---
 

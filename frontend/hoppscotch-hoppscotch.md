@@ -25,9 +25,7 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the hoppscotch project:
-
-Hoppscotch is an open-source API development ecosystem that offers a comprehensive platform for creating, testing, and managing APIs. It provides offline, on-premise, and cloud-based solutions across web, desktop, and command-line interfaces, making it an accessible alternative to popular tools like Postman and Insomnia. With its open-source nature, Hoppscotch empowers developers to customize and extend its functionality to suit their specific needs.
+Hoppscotch is an open-source API development ecosystem that offers an alternative to popular tools like Postman and Insomnia. It is available in various environments, including web, desktop, and command-line interfaces, and can be used offline, on-premises, or in the cloud. This comprehensive platform provides a suite of tools for building, testing, and maintaining APIs.
 
 ---
 

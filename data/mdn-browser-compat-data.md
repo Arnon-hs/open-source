@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The mdn/browser-compat-data project is an open-source repository that provides comprehensive browser compatibility data for Web technologies, used to power the compatibility tables on Mozilla Developer Network (MDN). This dataset allows developers to easily check the support status of various web features across different browsers and versions. By contributing to this project, developers can help ensure the accuracy and completeness of web compatibility information.
+The mdn/browser-compat-data project is an open-source repository that houses browser compatibility data for Web technologies, as displayed on Mozilla Developer Network (MDN). This data provides a comprehensive overview of how different web technologies, such as HTML, CSS, and JavaScript, are supported across various web browsers. By having this data in a centralized, open-source repository, developers can more easily determine browser support and compatibility for their web applications.
 
 ---
 

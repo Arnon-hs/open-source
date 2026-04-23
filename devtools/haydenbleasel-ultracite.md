@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The ultracite project is an open-source, zero-configuration linter and formatter designed to provide a straightforward coding experience. It offers a single, highly opinionated configuration option, making it easy to integrate into development workflows without requiring excessive setup. This tool aims to simplify code management and maintenance by applying consistent formatting and linting rules.
+Ultracite is a highly opinionated, zero-configuration linter and formatter designed to streamline coding workflows. This open-source project automates code style enforcement, allowing developers to focus on writing code without the hassle of manual formatting and linting checks. With its zero-configuration approach, Ultracite makes it easy to maintain consistent code quality across projects.
 
 ---
 

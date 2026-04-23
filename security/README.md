@@ -9,9 +9,9 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14k | C | 100/100 |
-| 2 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
-| 3 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
-| 4 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
+| 2 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
+| 3 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
+| 4 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
 | 5 | [securego/gosec](./securego-gosec.md) | ⭐ 8.8k | Go | 93/100 |
 | 6 | [slackhq/nebula](./slackhq-nebula.md) | ⭐ 17.3k | Go | 90/100 |
 | 7 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.7k | Rust | 85/100 |

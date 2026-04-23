@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Docling is an open-source project designed to prepare documents for use with generative AI models. It enables users to optimize and preprocess their documents for better compatibility and performance with AI applications. By leveraging Docling, individuals can streamline the process of integrating their documents with AI technologies.
+The docling project is an open-source initiative that prepares documents for seamless interaction with generative AI models. By developing and integrating advanced techniques, docling aims to enhance the accuracy and efficiency of AI-driven document processing and analysis. This DevTools project enables developers to refine and optimize their documents for effective collaboration with AI systems.
 
 ---
 

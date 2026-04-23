@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The open-source airweave project provides a context retrieval layer for AI agents, allowing for more accurate and informed decision-making. By leveraging this framework, developers can integrate context-aware capabilities into their AI models, enhancing their overall performance and usability. This contributes to the development of more sophisticated and human-like AI agents.
+Airweave is an open-source context retrieval layer designed to enhance AI agents by providing a robust and flexible framework for contextual understanding. This project enables AI agents to better comprehend and respond to complex queries, leading to more accurate and relevant interactions. By utilizing Airweave, developers can build more intelligent and human-like AI systems.
 
 ---
 

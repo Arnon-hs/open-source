@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Entire CLI is an open-source project that integrates with your Git workflow, capturing AI agent sessions as you work on code. These sessions are then indexed alongside your commits, creating a searchable record of how your code was written within your repository. This allows for a transparent and auditable history of the development process.
+Entire CLI is an open-source tool that seamlessly integrates with your Git workflow to record AI agent sessions alongside your code commits. This creates a searchable history of how your code was written, enabling you to track and learn from your development process. By capturing AI-driven interactions, Entire CLI provides valuable insights into your coding history.
 
 ---
 
