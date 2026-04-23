@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Oxen-AI/Oxen is an open-source project that revolutionizes data version control for machine learning datasets. This lightning-fast system enables seamless versioning of both structured and unstructured data, making it as easy to manage datasets as it is to manage code. By providing a simple and efficient solution, Oxen-AI/Oxen empowers data scientists to collaborate, experiment, and track changes in their datasets with ease.
+Oxen-AI/Oxen is an open-source data version control system designed for structured and unstructured machine learning datasets. This tool aims to simplify dataset versioning, making it as accessible as versioning code. With Oxen-AI/Oxen, users can efficiently manage and track changes to their machine learning data, streamlining the AI development process.
 
 ---
 

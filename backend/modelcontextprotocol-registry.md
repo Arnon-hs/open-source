@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The modelcontextprotocol/registry project is an open-source, community-driven registry service designed to support the Model Context Protocol (MCP) servers. This registry enables MCP servers to be easily discovered, registered, and managed, facilitating a scalable and interconnected network of model context servers. By providing a centralized registry, MCP servers can seamlessly interact and share information.
+The modelcontextprotocol/registry project is an open-source community-driven registry service designed to manage Model Context Protocol (MCP) servers. This registry enables the efficient discovery and connection of MCP servers, facilitating the development and deployment of applications that utilize this protocol. By providing a centralized registry, developers can easily find and interact with MCP servers, promoting interoperability and collaboration within the ecosystem.
 
 ---
 

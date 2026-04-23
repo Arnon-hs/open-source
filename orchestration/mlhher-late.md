@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 200 |
+| ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
@@ -25,7 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The mlhher/late project is an open-source platform designed to efficiently manage and orchestrate AI development teams by utilizing AI coding agents with 5GB VRAM capabilities. Built to mimic the work of a systems engineer, this platform minimizes token bloat while maintaining exact-match diffs, thereby reducing costs associated with large token wrappers that hinder LLM reasoning. This solution aims to optimize AI development workflows.
+Here's a 2-3 sentence summary for the mlhher/late project:
+
+Late is an open-source AI coding agent designed to orchestrate an entire AI development team on a single 5GB VRAM machine. Built like a systems engineer, it efficiently manages ephemeral context and zero token bloat to provide exact-match diffs, reducing the need for expensive token wrappers that can degrade large language model (LLM) reasoning. This innovative solution empowers developers to optimize their AI workflows while minimizing costs.
 
 ---
 

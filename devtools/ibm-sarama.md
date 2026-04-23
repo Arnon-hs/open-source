@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Sarama is an open-source, Go library for interacting with Apache Kafka, a popular distributed streaming platform. It allows developers to easily integrate their Go applications with Kafka, enabling features like message production, consumption, and management. With sarama, Go developers can take full advantage of Kafka's powerful capabilities.
+Sarama is an open-source library developed by IBM, providing a reliable and efficient way to interact with Apache Kafka in Go programming language applications. It offers a simple and intuitive API for producing and consuming messages, along with features for managing Kafka clusters and handling errors. By leveraging sarama, developers can easily integrate Kafka messaging into their Go-based systems.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Azure Dev CLI project:
+Here's a 2-3 sentence summary for the open-source project:
 
-The Azure Dev CLI is an open-source command-line tool designed to streamline the development and deployment of AI applications on Azure. This intuitive tool provides a range of commands that map to key workflow stages, including code, build, deploy, and monitor, making it easier for developers to build, test, and deploy AI applications efficiently. With the Azure Dev CLI, developers can automate and simplify their Azure development workflows, saving time and increasing productivity.
+The Azure Dev CLI is an open-source tool designed to simplify the development process for AI applications on Azure. With a focus on key workflow stages - code, build, deploy, and monitor - this CLI offers a streamlined experience for building, deploying, and managing AI applications on Azure. It serves as a powerful DevTools for developers working with AI/ML and frontend technologies.
 
 ---
 

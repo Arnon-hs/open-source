@@ -25,7 +25,9 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The Kubernetes SIG Cluster API Provider Azure project is an open-source implementation of the Cluster API, allowing users to manage and provision Azure-based Kubernetes clusters in a declarative and scalable manner. This project provides a standardized interface for creating, updating, and deleting clusters on Microsoft Azure, enabling efficient cluster lifecycle management. By leveraging the Cluster API, users can simplify their Kubernetes cluster deployment and management workflows on Azure.
+Here's a brief summary for the project:
+
+The Kubernetes SIG Cluster API Provider Azure project is an open-source implementation of the Cluster API for Microsoft Azure, enabling users to provision and manage Azure-based Kubernetes clusters through a unified, declarative API. This provider offers a consistent and scalable way to deploy and manage Azure clusters, aligning with the Cluster API's goal of abstracting cloud provider complexity. By leveraging the Cluster API, users can easily deploy and manage Kubernetes clusters across multiple cloud providers, including Azure.
 
 ---
 

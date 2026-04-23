@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2319** |
-| 📁 **Categories** | **15** |
+| 🗂️ **Total projects** | **2411** |
+| 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
 
@@ -18,36 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 872 | [Browse →](./aiml/) |
-| 📦 **Misc** | 386 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 252 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 202 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 149 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 118 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 92 | [Browse →](./crypto/) |
-| 📊 **Data** | 68 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 55 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 32 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 902 | [Browse →](./aiml/) |
+| 📦 **Misc** | 398 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 259 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 213 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 158 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 121 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 99 | [Browse →](./crypto/) |
+| 📊 **Data** | 70 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 57 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 34 | [Browse →](./mobile/) |
 | 💳 **Payments** | 29 | [Browse →](./payments/) |
-| 🔐 **Security** | 24 | [Browse →](./security/) |
-| 📈 **Trading** | 24 | [Browse →](./trading/) |
-| ✨ **Design** | 8 | [Browse →](./design/) |
-| 🎯 **Product** | 8 | [Browse →](./product/) |
+| 🔐 **Security** | 26 | [Browse →](./security/) |
+| 📈 **Trading** | 25 | [Browse →](./trading/) |
+| 🎯 **Product** | 10 | [Browse →](./product/) |
+| ✨ **Design** | 9 | [Browse →](./design/) |
+| 🏷️ **Marketing** | 1 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [VoltAgent/awesome-agent-skills](./orchestration/voltagent-awesome-agent-skills.md) | ⭐ 18k | Orchestration |
-| 2 | [bytecodealliance/wasmtime](./misc/bytecodealliance-wasmtime.md) | ⭐ 17.9k | Misc |
-| 3 | [daytonaio/daytona](./orchestration/daytonaio-daytona.md) | ⭐ 72.4k | Orchestration |
-| 4 | [navidrome/navidrome](./aiml/navidrome-navidrome.md) | ⭐ 20.6k | AI/ML |
-| 5 | [Mintplex-Labs/anything-llm](./aiml/mintplex-labs-anything-llm.md) | ⭐ 58.9k | AI/ML |
-| 6 | [doocs/leetcode](./misc/doocs-leetcode.md) | ⭐ 35.9k | Misc |
-| 7 | [ankidroid/Anki-Android](./mobile/ankidroid-anki-android.md) | ⭐ 11k | Mobile |
-| 8 | [streamlit/streamlit](./aiml/streamlit-streamlit.md) | ⭐ 44.3k | AI/ML |
-| 9 | [endless-sky/endless-sky](./trading/endless-sky-endless-sky.md) | ⭐ 7.3k | Trading |
-| 10 | [browseros-ai/BrowserOS](./aiml/browseros-ai-browseros.md) | ⭐ 10.6k | AI/ML |
+| 1 | [mdn/content](./aiml/mdn-content.md) | ⭐ 10.7k | AI/ML |
+| 2 | [x64dbg/x64dbg](./security/x64dbg-x64dbg.md) | ⭐ 48.2k | Security |
+| 3 | [run-llama/llama_index](./orchestration/run-llama-llama-index.md) | ⭐ 48.9k | Orchestration |
+| 4 | [Wei-Shaw/claude-relay-service](./aiml/wei-shaw-claude-relay-service.md) | ⭐ 11.3k | AI/ML |
+| 5 | [zhayujie/CowAgent](./orchestration/zhayujie-cowagent.md) | ⭐ 43.7k | Orchestration |
+| 6 | [stashapp/stash](./misc/stashapp-stash.md) | ⭐ 12.2k | Misc |
+| 7 | [cython/cython](./data/cython-cython.md) | ⭐ 10.7k | Data |
+| 8 | [JackChen-me/open-multi-agent](./orchestration/jackchen-me-open-multi-agent.md) | ⭐ 5.9k | Orchestration |
+| 9 | [HKUDS/DeepTutor](./orchestration/hkuds-deeptutor.md) | ⭐ 21.2k | Orchestration |
+| 10 | [hiyouga/LlamaFactory](./trading/hiyouga-llamafactory.md) | ⭐ 70.5k | Trading |
 
 ## 🚀 How it works
 

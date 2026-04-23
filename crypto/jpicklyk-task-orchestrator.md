@@ -25,9 +25,9 @@ Crypto · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the project:
+Here's a brief summary for the jpicklyk/task-orchestrator open-source project:
 
-The jpicklyk/task-orchestrator is an open-source project that provides a server-enforced workflow discipline for AI agents. It offers persistent work items, dependency graphs, quality gates, and actor attribution, ensuring that AI agents produce specific outputs as defined by schemas. This project allows AI agents to work together seamlessly with any MCP-compatible client, enabling scalable and efficient collaboration.
+The jpicklyk/task-orchestrator is an open-source project that provides a server-enforced workflow discipline for AI agents, ensuring that these agents adhere to specific schemas and quality gates. It acts as a Master Control Protocol (MCP) server, managing persistent work items, dependency graphs, and actor attribution, and blocks calls if agents fail to produce the required output. This project enables scalable and reliable collaboration between AI agents and servers.
 
 ---
 

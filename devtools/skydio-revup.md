@@ -25,9 +25,9 @@ DevTools · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the Skydio/revup project:
+Here's a brief summary of the Skydio/revup project:
 
-Revup is an open-source, productivity-focused toolset for Git that streamlines the process of creating multiple, relative pull requests from a single upload. It leverages Python and Git plumbing commands to provide features such as patch revision tracking and rebase detection, enhancing developer efficiency. With revup, users can simplify their workflow and reduce the complexity of managing multiple Git branches and revisions.
+Revup is an open-source, productivity-focused Git toolset that streamlines workflows by allowing for the creation of multiple, relative pull requests from a single upload. It leverages Git plumbing commands and Python to provide features such as patch revision tracking and rebase detection, enhancing developer productivity. With revup, developers can efficiently manage their code and collaborate more effectively.
 
 ---
 

@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Nextest is an open-source, next-generation test runner designed specifically for Rust. It aims to provide a faster, more efficient, and more reliable testing experience for Rust developers. By leveraging Rust's unique features, Nextest enables developers to write and run tests more effectively, ultimately improving code quality and productivity.
+Nextest is an open-source, next-generation test runner for Rust, designed to simplify and streamline the testing process. Built with flexibility and performance in mind, it offers a more efficient and user-friendly experience for developers working with Rust. By utilizing advanced features and a modular architecture, Nextest aims to become the go-to test runner for the Rust community.
 
 ---
 

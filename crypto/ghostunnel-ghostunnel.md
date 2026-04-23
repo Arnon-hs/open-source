@@ -25,7 +25,7 @@ Crypto · AI/ML · Security
 
 ## 📝 Summary
 
-Ghostunnel is an open-source SSL/TLS proxy that provides secure connections for non-TLS services, safeguarding data in transit with mutual authentication. This project enables seamless encryption and verification for sensitive communications, addressing common security concerns in modern applications. By leveraging SSL/TLS technology, Ghostunnel ensures the confidentiality and integrity of data exchanged between services and clients.
+Ghostunnel is an open-source SSL/TLS proxy that provides mutual authentication for securing non-TLS services. This simple and lightweight proxy ensures secure communication by enforcing mutual authentication between clients and servers, protecting against unauthorized access and eavesdropping. By using Ghostunnel, users can easily secure their services without requiring changes to the underlying application.
 
 ---
 

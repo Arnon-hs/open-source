@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the serenity-rs/serenity project:
-
-Serenity is an open-source Rust library designed for interacting with the Discord API, providing a simple and intuitive interface for developers to build Discord bots and applications. This library offers a robust set of features and tools for creating custom Discord integrations, making it a valuable resource for backend developers. With Serenity, developers can focus on building engaging and interactive experiences for the Discord community.
+Serenity is an open-source Rust library designed to provide a simple and efficient interface for interacting with the Discord API. This library allows developers to write Discord bots, integrations, and other applications using the Rust programming language. By leveraging Serenity, developers can easily manage Discord events, send messages, and integrate with Discord's features.
 
 ---
 

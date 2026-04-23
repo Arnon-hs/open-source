@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the mnfst/awesome-free-llm-apis project:
-
-The mnfst/awesome-free-llm-apis project is an open-source repository that catalogues and provides permanent free LLM (Large Language Model) API keys, allowing developers to access and utilize these powerful AI tools without incurring costs. This community-driven initiative aims to democratize access to cutting-edge language technologies, promoting innovation and collaboration in the AI and ML spaces. By sharing free LLM API keys, developers can focus on building and experimenting with AI-powered applications without financial constraints.
+The mnfst/awesome-free-llm-apis project is an open-source repository that centrally catalogs and provides permanent, free access to Large Language Model (LLM) APIs. These APIs grant developers access to AI-powered tools and technologies without incurring costs or restrictions, facilitating innovation and experimentation in the field of AI/ML. By offering a comprehensive list of free LLM APIs, the project aims to accelerate the development of AI applications.
 
 ---
 

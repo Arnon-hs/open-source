@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The jonwiggins/optio project is an open-source workflow orchestration tool designed specifically for AI coding agents. It enables a seamless workflow from task assignment to merged pull requests, streamlining the development process. By leveraging optio, developers can more efficiently integrate AI coding agents into their DevOps pipelines.
+Optio is an open-source workflow orchestration tool designed to streamline the integration of AI coding agents into software development pipelines. It enables seamless automation of tasks from initial coding to merged pull requests, facilitating efficient collaboration between humans and AI agents. By leveraging Optio, developers can simplify and accelerate their development workflows.
 
 ---
 

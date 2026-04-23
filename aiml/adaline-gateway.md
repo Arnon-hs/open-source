@@ -25,7 +25,9 @@ AI/ML · Product
 
 ## 📝 Summary
 
-The adaline/gateway project offers a unified interface for seamless integration with more than 200+ Large Language Models (LLMs), catering to the growing demand for AI/ML solutions. This open-source Super SDK provides a simple, powerful, and production-grade gateway for developers to tap into the vast capabilities of LLMs. By streamlining access to multiple LLMs, the adaline/gateway project accelerates AI-driven innovation and development.
+Here's a brief summary for the adaline/gateway open-source project:
+
+The adaline/gateway project offers a production-grade, unified interface for calling over 200+ Large Language Models (LLMs), providing developers with a simple and powerful way to integrate AI capabilities into their applications. This Super SDK facilitates seamless interactions with a vast array of LLMs, making it an essential tool for AI/ML product development. By leveraging adaline/gateway, developers can focus on building innovative applications without the complexities of working with multiple LLMs.
 
 ---
 

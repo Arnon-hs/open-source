@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Schemathesis is an open-source project that helps catch API bugs before they reach end-users. It provides a robust framework for testing API schema conformance, allowing developers to validate API endpoints against a specified OpenAPI or JSON Schema definition. By using Schemathesis, developers can ensure the reliability and accuracy of their APIs.
+Schemathesis is an open-source project designed to identify API bugs early in the development process, reducing the likelihood of end-users encountering issues. It works by generating a wide range of test cases based on an API's OpenAPI or AsyncAPI schema, allowing developers to thoroughly test their API. This approach ensures that API endpoints are thoroughly vetted before being released to the public.
 
 ---
 

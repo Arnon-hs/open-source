@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-"Hackerai is an innovative open-source platform that leverages AI technology to empower users in identifying and addressing vulnerabilities through a conversational interface. This AI-driven approach simplifies the process of security auditing, making it more accessible and efficient for users of various skill levels. By combining AI and user interaction, Hackerai aims to bridge the gap between cybersecurity expertise and the general public."
+The hackerai project is an open-source platform that utilizes AI-powered chat functionality to identify and resolve vulnerabilities in software applications. This innovative approach streamlines the vulnerability detection and remediation process by providing users with expert-level guidance through conversational interactions. By leveraging AI-driven insights, hackerai aims to enhance the efficiency and effectiveness of vulnerability management.
 
 ---
 

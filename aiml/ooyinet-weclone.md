@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the WeClone project in English:
+Here's a 2-3 sentence summary for the open-source project WeClone:
 
-WeClone is an open-source, one-stop solution for creating a digital clone from chat logs. This project utilizes fine-tuned large language models to imbue digital clones with a unique personality and binds them to a chatbot, enabling users to interact with their own digital doppelgangers. The project combines concepts of digital cloning, digital avatars, and large language models (LLMs).
+WeClone is an one-stop solution for creating digital clones from chat records. By fine-tuning large language models using chat records, WeClone enables users to imbue their models with a personalized tone and bind them to a chatbot, effectively creating their own digital clone. This project leverages cutting-edge AI and ML technologies to achieve digital cloning and chatbot integration.
 
 ---
 

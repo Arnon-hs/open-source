@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-VoltAgent's awesome-agent-skills is an open-source project that aggregates over 1000+ agent skills from official dev teams and the community, ensuring seamless compatibility with various platforms such as Claude Code, Codex, Gemini CLI, and Cursor. This extensive collection of skills streamlines automation and AI/ML workflows, empowering developers to focus on innovation. It serves as a valuable resource for DevOps teams and AI enthusiasts.
+Here's a brief summary for the project:
+
+VoltAgent/awesome-agent-skills is an extensive collection of over 1000 agent skills, sourced from official developer teams and the community, to facilitate seamless integration with various tools like Claude Code, Codex, and Cursor. This open-source repository offers a centralized hub for discovering and utilizing AI/ML skills, streamlining development workflows and enhancing productivity. With its diverse range of skills and compatibility with multiple platforms, it has become a go-to resource for developers and teams.
 
 ---
 

@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The openapi-ts/openapi-typescript project is an open-source tool that generates TypeScript types from OpenAPI 3 specifications, allowing developers to leverage the power of type safety and auto-completion in their API development. This project simplifies the process of working with OpenAPI definitions by automatically creating TypeScript types that match the API's structure and schema. By using this tool, developers can write more robust and maintainable code.
+The openapi-ts/openapi-typescript project is an open-source tool that translates OpenAPI 3 specifications into TypeScript types. This allows developers to automatically generate type definitions for their APIs, enhancing code maintainability and reducing errors. By leveraging this tool, developers can ensure strong type safety and improve overall code quality.
 
 ---
 

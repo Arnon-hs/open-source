@@ -1,6 +1,6 @@
 # archestra-ai/archestra
 
-[![Stars](https://img.shields.io/github/stars/archestra-ai/archestra?style=flat-square&color=yellow)](https://github.com/archestra-ai/archestra/stargazers) [![Forks](https://img.shields.io/github/forks/archestra-ai/archestra?style=flat-square&color=blue)](https://github.com/archestra-ai/archestra/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/archestra-ai/archestra?style=flat-square&color=yellow)](https://github.com/archestra-ai/archestra/stargazers) [![Forks](https://img.shields.io/github/forks/archestra-ai/archestra?style=flat-square&color=blue)](https://github.com/archestra-ai/archestra/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 486 |
+| 🍴 **Forks** | 488 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

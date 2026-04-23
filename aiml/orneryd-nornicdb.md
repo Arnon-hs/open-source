@@ -25,9 +25,9 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project 'orneryd/NornicDB':
+Here's a brief summary of the open-source project:
 
-NornicDB is a high-performance, distributed database that combines graph and vector data types with temporal multi-version concurrency control (MVCC) and sub-millisecond search capabilities. It supports seamless integration with existing Neo4j and Qdrant systems and offers advanced features like schema management, machine learning-driven ranking and inference, and GPU acceleration. This versatile database is ideal for AI/ML applications and large-scale data processing.
+NornicDB is a high-performance, distributed database that supports Graph+Vector and Temporal MVCC data models, offering sub-millisecond HNSW search and graph traversal capabilities. Built on top of Neo4j Bolt/Cypher and qdrant's gRPC, it provides a flexible architecture that allows seamless switching between different technologies. With its comprehensive feature set, including intelligent features like LLM reranking and GPU acceleration, NornicDB is a powerful tool for AI/ML and data-intensive applications.
 
 ---
 

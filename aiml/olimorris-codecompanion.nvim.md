@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here is a brief summary for the open-source project:
-
-Code Companion is a Vim plugin that integrates AI-powered coding assistance into your Vim workflow. This open-source project uses AI to enhance your coding experience, providing intelligent suggestions, code completion, and more. By combining the power of Vim with AI-driven tools, Code Companion aims to streamline your development process and boost productivity.
+CodeCompanion.nvim is an open-source project that brings AI-driven coding assistance to the popular Vim text editor, enhancing the coding experience with advanced features. This project combines the power of AI with Vim's intuitive interface, allowing developers to focus on writing code more efficiently. By leveraging AI, CodeCompanion.nvim aims to streamline coding workflows and improve overall productivity.
 
 ---
 

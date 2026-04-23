@@ -27,7 +27,7 @@ Orchestration · AI/ML · Backend
 
 Here's a brief summary for the open-source project:
 
-"Bernstein is a deterministic orchestrator that streamlines the management of 30+ CLI AI coding agents, enabling seamless collaboration and auditability. This open-source project utilizes Git worktree isolation and HMAC audit trails to ensure secure and transparent operations. By supporting MCP server mode, Bernstein simplifies the deployment and orchestration of AI/ML workflows."
+"Bernstein is a deterministic orchestrator that enables seamless management of multiple AI coding agents through a centralized platform. With features like Git worktree isolation and HMAC audit trails, Bernstein ensures secure and transparent execution of complex AI tasks. This open-source solution also supports MCP server mode, making it an ideal choice for large-scale AI/ML operations."
 
 ---
 

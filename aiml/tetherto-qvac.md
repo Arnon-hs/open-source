@@ -25,7 +25,9 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-The QVAC (Query Vector AI Computing) project, an open-source initiative, enables developers to build private and cross-platform AI applications. This SDK allows for the local execution of large language models (LLMs), speech-to-text capabilities, translation, and other AI features on a variety of platforms, including Linux, macOS, Windows, Android, and iOS. QVAC empowers users to harness AI capabilities without relying on remote servers, ensuring enhanced security and efficiency.
+Here's a brief summary for the tetherto/qvac project:
+
+QVAC is an open-source, local AI SDK and libraries that empower developers to build private, cross-platform, and peer-to-peer AI applications. With QVAC, users can run large language models, speech-to-text, translation, and other advanced AI capabilities locally across multiple platforms, including Linux, macOS, Windows, Android, and iOS. This innovative solution provides a secure and efficient way to harness AI power without relying on cloud services.
 
 ---
 

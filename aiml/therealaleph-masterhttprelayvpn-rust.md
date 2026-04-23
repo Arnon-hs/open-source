@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 395 |
+| ⭐ **Stars** | 400 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a 3-sentence summary for the project:
 
-MasterHttpRelayVPN-RUST is an open-source project that provides a free Deep Packet Inspection (DPI) bypass solution using a Google Apps Script relay with TLS SNI concealment. This Rust-ported implementation, originally conceived by @masterking32, offers a command-line interface and a cross-platform desktop user interface, along with HTTP and SOCKS5 proxy capabilities. The project has no runtime dependencies, making it a lightweight and versatile tool for users.
+MasterHttpRelayVPN-RUST is an open-source, cross-platform VPN solution that leverages a Google Apps Script relay for free DPI (Deep Packet Inspection) bypass. This Rust implementation, built on the original idea by @masterking32, utilizes TLS SNI concealment for enhanced security and comes with a CLI and a desktop UI. With no runtime dependencies, users can enjoy an HTTP and SOCKS5 proxy without sacrificing performance.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The joryirving/home-ops project is an open-source initiative that leverages Kubernetes and GitOps via Flux to simplify home automation and operations. This project showcases the capabilities of HomeOps-driven systems, as tolerated by the project owner's wife. By combining AI/ML and DevOps/Infra concepts, it aims to create a seamless and automated home management experience.
+Here's a 2-3 sentence summary for the joryirving/home-ops project:
+
+Home-ops is an open-source project that leverages Kubernetes and GitOps via Flux to automate home operations. This project, driven by HomeOps, demonstrates how DevOps principles can be applied to household management, making it more efficient and manageable. By utilizing Kubernetes and Flux, users can easily manage and maintain their home systems in a scalable and reliable manner.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the AI-Hypercomputer/maxtext project:
+Here's a brief summary for the AI-Hypercomputer/maxtext project:
 
-AI-Hypercomputer/maxtext is an open-source project that utilizes Jax to create a simple, high-performance, and scalable Large Language Model (LLM). This project aims to provide a reliable and efficient foundation for various AI and machine learning applications. With its scalable architecture, maxtext enables the development of complex models and applications in the field of natural language processing.
+AI-Hypercomputer/maxtext is an open-source, high-performance Jax-based Large Language Model (LLM) designed for scalability and speed. This project provides a simple yet powerful tool for building and training advanced AI models, leveraging the capabilities of the Jax framework. By utilizing maxtext, developers can tap into the full potential of Jax for state-of-the-art language processing applications.
 
 ---
 

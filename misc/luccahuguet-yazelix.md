@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 899 |
+| ⭐ **Stars** | 898 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Nushell |
 | 📈 **Score** | 57/100 |
