@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the evalstate/fast-agent project:
+Here's a brief summary for the open-source project "evalstate/fast-agent":
 
-The evalstate/fast-agent project is an open-source platform that enables developers to build, code, and evaluate AI/ML agents efficiently. With robust support for model and skill management, it streamlines the development process for Machine Learning Control Protocol (MCP) and Agent Control Protocol (ACP) applications. This project provides a flexible and scalable solution for AI/ML orchestration and frontend development.
+Fast-agent is an open-source project that enables developers to code, build, and evaluate AI/ML agents with exceptional support for models and skills, including MCP and ACP. This project streamlines the process of agent development, making it easier to integrate and orchestrate AI capabilities into various applications. With its comprehensive feature set, fast-agent is an ideal choice for AI/ML enthusiasts and professionals looking to create sophisticated agents quickly and efficiently.
 
 ---
 

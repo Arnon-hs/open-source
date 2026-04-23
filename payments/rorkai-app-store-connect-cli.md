@@ -25,9 +25,7 @@ Payments · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the App Store Connect CLI project:
-
-The App Store Connect CLI is an open-source, scriptable command-line interface for automating tasks with the App Store Connect API. This fast and efficient tool allows developers to automate tasks such as TestFlight builds, submissions, analytics, and more, all from the comfort of their terminal. By using JSON-first configuration, developers can streamline their workflows and save time.
+The App Store Connect CLI is an open-source, scriptable command-line interface that automates various tasks related to App Store Connect, including TestFlight, builds, submissions, analytics, and more. This fast and efficient tool allows developers to streamline their workflows by leveraging the App Store Connect API in a JSON-first, non-interactive manner. By utilizing this CLI, developers can simplify their App Store Connect tasks and improve their productivity.
 
 ---
 

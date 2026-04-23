@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the OfficeCLI project:
-
-OfficeCLI is an innovative, open-source tool that enables AI agents to interact with Microsoft Office files, including Word, Excel, and PowerPoint, without requiring a full Office installation. This single-binary solution provides a seamless reading, editing, and automation experience for AI-powered applications. By leveraging OfficeCLI, developers can unlock new possibilities for automating and integrating Office files with AI-driven workflows.
+OfficeCLI is an open-source project that enables AI agents to interact with Microsoft Office files, allowing them to read, edit, and automate Word, Excel, and PowerPoint documents. This innovative tool eliminates the need for Office installation, providing a seamless experience for AI-powered applications. As a free, single-binary solution, OfficeCLI is designed to simplify the integration of AI and Office files.
 
 ---
 

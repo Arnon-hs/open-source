@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the BuildingAI project:
+Here's a brief summary for the BidingCC/BuildingAI project:
 
-BuildingAI is an open-source platform that empowers users to easily build and deploy AI applications, revolutionizing the way people create and interact with intelligent systems. As the first modular AI application builder in the eastern hemisphere, BuildingAI makes it possible for anyone to develop customized AI solutions, including enterprise intelligent systems, AI-powered media platforms, and more. With BuildingAI, users can unlock the full potential of AI without the need for extensive coding expertise.
+BuildingAI is an open-source, modular AI application builder system, aiming to revolutionize the AI landscape for the Eastern Hemisphere. This WordPress-based platform empowers users to create their own AI-powered applications, including intelligent corporate systems, AI-driven content platforms, and AI-powered chatbots. With BuildingAI, users can build and customize their AI applications freely, without requiring extensive technical expertise.
 
 ---
 

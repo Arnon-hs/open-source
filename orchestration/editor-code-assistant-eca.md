@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 791 |
+| ⭐ **Stars** | 792 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Clojure |
 | 📈 **Score** | 56/100 |

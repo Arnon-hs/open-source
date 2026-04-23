@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra · Product
 
 ## 📝 Summary
 
-Frappe Doker provides a comprehensive Docker environment for developing, deploying, and running Frappe applications, including ERPNext and custom applications. This open-source project simplifies the process of setting up and managing production and development environments for Frappe-based projects. Its goal is to streamline the process of creating and maintaining robust and scalable applications.
+Frappe Docker provides a comprehensive Docker environment for building, deploying, and running Frappe applications, including ERPNext and custom apps, in both production and development settings. This open-source project streamlines the process of developing and deploying Frappe applications, making it easier for developers to manage and scale their projects. With Frappe Docker, users can take advantage of a robust and containerized infrastructure for their Frappe-based applications.
 
 ---
 

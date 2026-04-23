@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-bpftrace is an open-source project that provides a high-level tracing language for Linux, enabling users to write concise and expressive tracing scripts with ease. This language allows developers to efficiently profile and analyze system performance, identify performance bottlenecks, and debug complex issues. By providing a simple and intuitive syntax, bpftrace simplifies the process of tracing and monitoring Linux systems.
+bpftrace is an open-source, high-level tracing language designed for Linux systems. It allows users to create custom tracing scripts to analyze system behavior, performance, and security without requiring in-depth knowledge of low-level BPF (Berkeley Packet Filter) programming. bpftrace provides a more accessible and user-friendly interface for tracing Linux systems.
 
 ---
 

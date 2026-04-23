@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Kuma is an open-source, multi-zone service mesh designed for containers, Kubernetes, and virtual machines. Built on top of Envoy, it provides a highly scalable and customizable solution for service communication and management. As a CNCF Sandbox Project, Kuma offers a flexible and extensible architecture for modern application development.
+Here's a brief summary for the kuma open-source project:
+
+Kuma is an open-source, multi-zone service mesh that supports containers, Kubernetes, and Virtual Machines (VMs). Built on top of Envoy, Kuma enables secure communication and traffic management across complex distributed systems. As a CNCF Sandbox Project, Kuma provides a scalable and highly available solution for modern cloud-native applications.
 
 ---
 

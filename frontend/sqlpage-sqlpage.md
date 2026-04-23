@@ -25,7 +25,9 @@ Frontend · Backend · Data
 
 ## 📝 Summary
 
-The SQLPage project is an open-source, fast, and efficient data application builder that leverages SQL queries to automatically generate user interfaces. It streamlines the development process by eliminating the need for manual UI coding, allowing developers to focus on data analysis and application logic. This versatile tool caters to both frontend and backend needs, making it an ideal choice for building scalable and data-driven applications.
+Here's a brief summary for the SQLPage project:
+
+SQLPage is an open-source project that enables developers to rapidly build data-driven applications using only SQL queries. By automatically generating a user interface on top of SQL, it streamlines the application development process, eliminating the need for manual coding. This innovative tool simplifies the creation of data-centric applications, making it an ideal solution for data analysts and developers alike.
 
 ---
 

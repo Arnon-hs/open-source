@@ -25,9 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the ArcReel project:
+Here's a 2-3 sentence summary for the ArcReel project:
 
-ArcReel is an open-source video creation workspace driven by AI agents, utilizing cutting-edge technologies such as Nano Banana 2, Veo 3.1, Grok, Seedance, and OpenAI. This innovative platform guides users from novel to script to storyboard to final video production, ensuring seamless transitions between scenes and characters across shots. By harnessing AI capabilities, ArcReel streamlines the video production process, making it more efficient and creative.
+ArcReel is an open-source video production workspace driven by AI Agents, leveraging cutting-edge technologies such as Nano Banana 2, Veo 3.1, Grok, Seedance, and OpenAI. This innovative platform automates the video creation process, from novel to script development, scene design, and video production, ensuring seamless consistency across shots and scenes. By harnessing the power of AI, ArcReel streamlines the video production workflow, enabling creators to bring their visions to life more efficiently.
 
 ---
 

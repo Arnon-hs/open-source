@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Terragrunt is an open-source orchestration tool that enables scalable Infrastructure as Code (IaC) deployment through OpenTofu and Terraform. This flexible solution empowers users to efficiently manage and maintain large-scale infrastructure configurations. With Terragrunt, developers can streamline their IaC workflows and improve collaboration across teams.
+Terragrunt is an open-source orchestration tool that empowers users to scale their Infrastructure as Code (IaC) written in OpenTofu/Terraform. It provides a flexible framework for managing complex infrastructure deployments, enabling users to streamline their workflow and increase efficiency. With Terragrunt, users can confidently scale their IaC infrastructure projects while maintaining control and consistency.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary:
 
-The semantic-router is an open-source, system-level intelligent router designed for Mixture-of-Models architecture at Cloud, Data Center, and Edge environments. This project leverages AI/ML capabilities to optimize data flow and improve efficiency across multi-cloud and multi-edge settings. By providing an intelligent routing system, it enables seamless integration and management of various models and data sources.
+The semantic-router is an open-source project that enables a System Level Intelligent Router for Mixture-of-Models, bridging the gap between cloud, data center, and edge computing. This innovative solution utilizes AI/ML capabilities to optimize data processing and decision-making across multiple environments. By integrating a mixture of models, it provides a scalable and adaptive infrastructure for modern data-intensive applications.
 
 ---
 

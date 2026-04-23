@@ -25,9 +25,7 @@ Crypto · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the kubevirt/kubevirt project:
-
-KubeVirt is an open-source project that brings virtualization capabilities to Kubernetes, enabling users to define and manage virtual machines (VMs) as part of their containerized applications. This project provides a Kubernetes Virtualization API and runtime, allowing users to deploy and manage VMs alongside containers in a seamless way. By integrating virtualization with container orchestration, KubeVirt simplifies the process of deploying and managing complex, multi-VM workloads.
+KubeVirt is an open-source project that provides a Kubernetes Virtualization API and runtime, enabling users to define and manage virtual machines within their Kubernetes clusters. This project allows for the seamless integration of virtualization capabilities into Kubernetes environments, providing a scalable and efficient way to deploy and manage virtual machines. By leveraging KubeVirt, users can take advantage of the flexibility and manageability of Kubernetes while still utilizing virtual machines for their workloads.
 
 ---
 

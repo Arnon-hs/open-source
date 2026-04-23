@@ -25,7 +25,7 @@ Payments · AI/ML · Backend
 
 ## 📝 Summary
 
-Openmeter is an open-source project that offers real-time metering and billing capabilities for AI, API, and DevOps deployments. It enables the collection and aggregation of millions of usage events, allowing for usage-based billing and streamlined payment management. This scalable solution supports various use cases, making it an ideal choice for businesses and organizations requiring flexible and data-driven billing systems.
+The openmeter project is an open-source platform for metering and billing AI, API, and DevOps usage. It enables the collection and real-time aggregation of millions of usage events, facilitating usage-based billing. This platform provides a scalable solution for organizations to manage and monetize their AI, API, and DevOps resources.
 
 ---
 

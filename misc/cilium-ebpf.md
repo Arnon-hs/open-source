@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The cilium/ebpf project is an open-source library that allows developers to work with eBPF (Extended Berkeley Packet Filter) programs directly from Go. It enables reading, modifying, and loading eBPF programs, as well as attaching them to specific hooks within the Linux kernel. This library simplifies the development and deployment of eBPF-based projects, making it easier to tap into the Linux kernel's capabilities.
+Here's a brief summary for the open-source project:
+
+The cilium/ebpf project provides a pure-Go library called ebpf-go, which enables users to read, modify, and load eBPF (Extended Berkeley Packet Filter) programs on Linux systems. This library facilitates the attachment of eBPF programs to various kernel hooks, allowing for custom kernel functionality and network traffic management. The ebpf-go library offers a convenient and efficient way to work with eBPF on Linux systems.
 
 ---
 

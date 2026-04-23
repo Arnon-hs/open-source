@@ -25,7 +25,7 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-Foundry is an open-source toolkit for Ethereum application development, built with Rust for speed, portability, and modularity. This versatile tool enables developers to create and deploy scalable, secure, and efficient Ethereum applications with ease. With Foundry, users can leverage the power of Rust to streamline their Ethereum development workflow.
+Foundry is an open-source toolkit for Ethereum application development written in Rust, providing a fast, portable, and modular framework. It enables developers to create, deploy, and manage Ethereum applications with ease. Foundry's Rust-based architecture ensures scalability, flexibility, and high-performance capabilities for efficient Ethereum development.
 
 ---
 

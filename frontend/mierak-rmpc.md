@@ -25,9 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the mierak/rmpc project:
-
-mierak/rmpc is a modern, customizable, and user-friendly terminal-based client for MPD (Music Player Daemon). This open-source project allows users to control their music libraries from the command line, complete with support for album art display via various terminal image protocols. With its flexibility and features, rmpc provides a powerful and accessible music management experience.
+The 'rmpc' project is an open-source, terminal-based MPD client that offers a high degree of configurability and supports displaying album art through various terminal image protocols. This allows users to enjoy a rich and visually engaging music listening experience directly in their terminal. The project caters to users seeking a powerful and customizable MPD client for their music management needs.
 
 ---
 

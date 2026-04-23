@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the JetBrains/koog project:
+Here's a brief summary of the JetBrains/koog project:
 
-Koog is an open-source framework for building robust, fault-tolerant AI agents that can be deployed across various platforms, including backend services, mobile devices, and web browsers. Based on JetBrains' expertise in AI products, Koog provides a proven solution for complex large language model (LLM) and AI challenges. This framework empowers developers to create enterprise-ready AI applications with predictability and reliability.
+Koog is an open-source Java and Kotlin framework for building robust AI agents across various platforms, including backend services, mobile apps, and web environments. Built on JetBrains' expertise in AI products, Koog provides proven solutions for complex AI and LLM problems, enabling developers to create predictable and fault-tolerant AI experiences. This framework is ideal for enterprise-level applications requiring reliable and scalable AI integration.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The badlogic/pi-mono project is an open-source AI agent toolkit that provides a comprehensive set of tools for building and deploying intelligent agents. Its features include a command-line interface (CLI) for coding agents, a unified Large Language Model (LLM) API, and libraries for building both text-based user interfaces (TUI) and web user interfaces. Additionally, the project supports integration with Slack and utilizes vLLM pods for scalable AI processing.
+The badlogic/pi-mono project is an open-source AI agent toolkit designed to simplify the development of AI-powered applications. It provides a comprehensive set of libraries and tools, including a unified Large Language Model (LLM) API, a command-line interface (CLI), and user interface libraries for both text-based and web-based applications. Additionally, the toolkit supports integration with services like Slack through its bot feature and offers deployment options via vLLM pods.
 
 ---
 

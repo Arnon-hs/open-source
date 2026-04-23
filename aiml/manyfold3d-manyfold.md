@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Manyfold is an open-source digital asset manager designed for self-hosted storage and organization of 3D print files. This platform allows users to easily categorize, access, and share their 3D models, streamlining the 3D printing workflow. By utilizing Manyfold, users can maintain full control over their digital assets while leveraging advanced AI/ML capabilities.
+Manyfold is an open-source, self-hosted digital asset manager designed specifically for 3D print files, providing users with a centralized platform to organize, access, and manage their 3D print collections. This AI/ML-enabled tool aims to streamline workflows and enhance productivity for individuals and teams working with 3D printing technology. By hosting the digital asset manager locally, users can maintain control over their data and ensure seamless integration with their existing workflows.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the ChromeDevTools/chrome-devtools-mcp project:
-
-ChromeDevTools/chrome-devtools-mcp is an open-source project that provides a Chrome DevTools interface for coding agents, allowing developers to inspect, debug, and optimize their agent's performance. This project enables AI/ML and backend developers to easily interact with their agents, facilitating a more efficient and effective development experience. By using this tool, developers can streamline their coding process and improve the overall quality of their AI/ML applications.
+The chrome-devtools-mcp project is an open-source extension of Chrome DevTools, designed specifically for coding agents to facilitate efficient debugging and development. This innovative tool enables AI and machine learning developers to streamline the development process, optimize performance, and troubleshoot complex coding issues. By leveraging Chrome DevTools' functionality, developers can now create intelligent coding agents with enhanced capabilities.
 
 ---
 

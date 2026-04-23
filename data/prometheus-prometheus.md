@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Prometheus is an open-source monitoring system and time-series database that collects metrics from various sources, stores them for long periods of time, and allows for querying and visualization of the data. This system enables users to gain insights into the performance and behavior of complex systems, making it a valuable tool for DevOps, engineering, and operations teams. With its flexibility and scalability, Prometheus has become a widely adopted solution for monitoring and alerting in cloud-native and containerized environments.
+Prometheus is an open-source monitoring and time-series database system, designed to collect and store metrics from various sources. It provides a flexible and scalable way to monitor and analyze system performance, making it an essential tool for DevOps and IT teams. By collecting and visualizing metrics in real-time, Prometheus enables users to identify and troubleshoot issues more efficiently.
 
 ---
 

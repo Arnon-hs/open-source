@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a summary of the wonderwhy-er/DesktopCommanderMCP project:
 
-"Wonderwhy-er/DesktopCommanderMCP" is an open-source project that enables Claude, a machine learning model, to interact with a terminal environment. This project provides a Master Control Panel (MCP) server that grants Claude control over the terminal, allowing it to search the file system and edit files using diff capabilities.
+The wonderwhy-er/DesktopCommanderMCP project is an open-source MCP (Multi-Claude Protocol) server that enables terminal control, file system search, and advanced diff file editing capabilities for Claude, a powerful AI/ML tool. This project empowers users to efficiently interact with Claude and manage files, making it an essential addition to any Claude-based workflow. By leveraging this MCP server, users can unlock Claude's full potential and streamline their development and research processes.
 
 ---
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The snyk/agent-scan project is an open-source security scanner designed to identify vulnerabilities in AI agents, MCP servers, and agent skills. By providing a comprehensive scanning solution, developers can ensure the security and integrity of their AI-powered applications and systems. This security scanner plays a crucial role in protecting against potential threats and enhancing overall system reliability.
+The snyk/agent-scan project is an open-source security scanner designed to identify vulnerabilities in AI agents, MCP servers, and agent skills. This tool helps ensure the integrity and security of AI systems by detecting potential weaknesses and providing recommendations for remediation. By integrating with the snyk platform, users can monitor and manage the security posture of their AI assets.
 
 ---
 

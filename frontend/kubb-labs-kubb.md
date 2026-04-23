@@ -25,7 +25,7 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Kubb is an open-source project that offers a comprehensive toolkit for generating type-safe API clients, hooks, and validators. This versatile tool enables developers to streamline their workflow, ensuring seamless integration between frontend and backend operations. By utilizing Kubb, developers can maintain robust and maintainable codebases with reduced errors and improved scalability.
+The kubb project is an open-source toolkit that enables developers to generate type-safe API clients, hooks, and validators, streamlining the process of building robust and maintainable applications. This comprehensive toolset supports both frontend and backend development, equipping users with the necessary tools to ensure data integrity and consistency. By leveraging kubb, developers can focus on writing high-quality code while minimizing errors and improving overall productivity.
 
 ---
 

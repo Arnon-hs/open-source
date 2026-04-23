@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary of the yamadashy/repomix project:
 
-Repomix is a powerful, open-source tool that compresses entire repositories into compact, AI-friendly files, making it easier to integrate codebases with Large Language Models (LLMs) and other AI tools. This tool streamlines the process of feeding code to AI models, eliminating the need to manually process and prepare code for analysis. By automating this process, Repomix simplifies the interaction between code and AI tools.
+Repomix is an open-source tool that compresses entire code repositories into a single file, making it easily accessible for Large Language Models (LLMs) and other AI tools. This powerful DevTool simplifies the process of feeding codebases to AI applications like Claude, ChatGPT, and more. By repackaging repositories, Repomix streamlines AI development workflows.
 
 ---
 

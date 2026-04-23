@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Zeal is an open-source, offline documentation browser that provides instant access to project documentation, inspired by the popular Dash tool. This versatile tool allows users to browse, search, and view documentation without the need for an internet connection, making it a valuable asset for developers and teams working on complex projects. Zeal's offline capabilities enable efficient documentation navigation, reducing the need for online searches and streamlining the development process.
+Zeal is an open-source offline documentation browser that provides instant access to a vast array of documentation resources, inspired by the Dash browser. This tool allows developers to quickly search and browse documentation without the need for an internet connection, making it an invaluable resource for coding and troubleshooting. By offering a seamless offline documentation experience, Zeal streamlines development workflows and enhances productivity.
 
 ---
 

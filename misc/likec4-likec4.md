@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The likec4 project is an open-source tool that enables users to visualize, collaborate, and evolve software architecture in real-time. It generates live diagrams from code, providing an actual representation of the system's structure and allowing developers to work together more efficiently. By leveraging this dynamic visualization, teams can better understand and refine their software architecture.
+Likec4 is an open-source project that enables users to visualize, collaborate, and evolve software architecture in real-time. It generates live and actual diagrams from code, allowing developers to easily understand and manage complex systems. This project aims to streamline the process of software architecture development and maintenance.
 
 ---
 

@@ -25,7 +25,9 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Kube-OVN is an open-source project that bridges the gap between Software-Defined Networking (SDN) and Cloud Native technologies, enabling a seamless integration of Open Networking in cloud-native environments. It is a part of the Cloud Native Computing Foundation (CNCF) and provides a scalable, high-performance, and extensible networking solution for containerized workloads. By leveraging OVN (Open Virtual Networking) under the umbrella of Kubernetes, Kube-OVN simplifies network management and provision for modern cloud-native applications.
+Here's a brief summary of the kubeovn/kube-ovn project:
+
+kubeovn/kube-ovn is an open-source project under the Cloud Native Computing Foundation (CNCF), serving as a bridge between Software-Defined Networking (SDN) and cloud-native environments. It facilitates the integration of OVN (Open Virtual Network) with Kubernetes, enabling seamless network management and orchestration in cloud-native environments. This integration enables operators to leverage the benefits of SDN within cloud-native deployments.
 
 ---
 
