@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**32 projects** in this category.
+**33 projects** in this category.
 
 ## Projects
 
@@ -12,14 +12,14 @@
 | 2 | [trinodb/trino](./trinodb-trino.md) | ⭐ 12.7k | Java | 100/100 |
 | 3 | [protocolbuffers/protobuf](./protocolbuffers-protobuf.md) | ⭐ 71.1k | C++ | 100/100 |
 | 4 | [apache/hudi](./apache-hudi.md) | ⭐ 6.1k | Java | 100/100 |
-| 5 | [apache/spark](./apache-spark.md) | ⭐ 43.2k | Scala | 100/100 |
-| 6 | [matplotlib/matplotlib](./matplotlib-matplotlib.md) | ⭐ 22.7k | Python | 100/100 |
-| 7 | [hazelcast/hazelcast](./hazelcast-hazelcast.md) | ⭐ 6.6k | Java | 100/100 |
+| 5 | [hazelcast/hazelcast](./hazelcast-hazelcast.md) | ⭐ 6.6k | Java | 100/100 |
+| 6 | [apache/spark](./apache-spark.md) | ⭐ 43.2k | Scala | 100/100 |
+| 7 | [matplotlib/matplotlib](./matplotlib-matplotlib.md) | ⭐ 22.7k | Python | 100/100 |
 | 8 | [scylladb/scylladb](./scylladb-scylladb.md) | ⭐ 15.5k | C++ | 99/100 |
 | 9 | [badges/shields](./badges-shields.md) | ⭐ 26.5k | JavaScript | 99/100 |
 | 10 | [opensearch-project/OpenSearch](./opensearch-project-opensearch.md) | ⭐ 12.8k | Java | 97/100 |
-| 11 | [mongodb/mongo](./mongodb-mongo.md) | ⭐ 28.3k | C++ | 95/100 |
-| 12 | [sacridini/Awesome-Geospatial](./sacridini-awesome-geospatial.md) | ⭐ 5k | — | 95/100 |
+| 11 | [sacridini/Awesome-Geospatial](./sacridini-awesome-geospatial.md) | ⭐ 5k | — | 95/100 |
+| 12 | [mongodb/mongo](./mongodb-mongo.md) | ⭐ 28.3k | C++ | 95/100 |
 | 13 | [tursodatabase/turso](./tursodatabase-turso.md) | ⭐ 18.3k | Rust | 94/100 |
 | 14 | [paradedb/paradedb](./paradedb-paradedb.md) | ⭐ 8.7k | Rust | 91/100 |
 | 15 | [pgmpy/pgmpy](./pgmpy-pgmpy.md) | ⭐ 3.3k | Python | 88/100 |
@@ -39,7 +39,8 @@
 | 29 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 602 | PHP | 58/100 |
 | 30 | [apache/datafusion-comet](./apache-datafusion-comet.md) | ⭐ 1.2k | Rust | 58/100 |
 | 31 | [scverse/anndata](./scverse-anndata.md) | ⭐ 732 | Python | 57/100 |
-| 32 | [foxtrotcommunications/foxtrotcommunications-forge-core](./foxtrotcommunications-foxtrotcommunications-forge-core.md) | ⭐ 2 | Python | 36/100 |
+| 32 | [flanglet/kanzi-go](./flanglet-kanzi-go.md) | ⭐ 624 | Go | 55/100 |
+| 33 | [foxtrotcommunications/foxtrotcommunications-forge-core](./foxtrotcommunications-foxtrotcommunications-forge-core.md) | ⭐ 2 | Python | 36/100 |
 
 ---
 

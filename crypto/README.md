@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**39 projects** in this category.
+**43 projects** in this category.
 
 ## Projects
 
@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | 1 | [krzyzanowskim/CryptoSwift](./krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Swift | 100/100 |
 | 2 | [OpenBB-finance/OpenBB](./openbb-finance-openbb.md) | ⭐ 66.3k | Python | 100/100 |
-| 3 | [lightningnetwork/lnd](./lightningnetwork-lnd.md) | ⭐ 8.1k | Go | 100/100 |
-| 4 | [btcpayserver/btcpayserver](./btcpayserver-btcpayserver.md) | ⭐ 7.5k | C# | 100/100 |
+| 3 | [btcpayserver/btcpayserver](./btcpayserver-btcpayserver.md) | ⭐ 7.5k | C# | 100/100 |
+| 4 | [lightningnetwork/lnd](./lightningnetwork-lnd.md) | ⭐ 8.1k | Go | 100/100 |
 | 5 | [monero-project/monero](./monero-project-monero.md) | ⭐ 10.5k | C++ | 100/100 |
 | 6 | [elizaOS/eliza](./elizaos-eliza.md) | ⭐ 18.2k | TypeScript | 100/100 |
 | 7 | [nautechsystems/nautilus_trader](./nautechsystems-nautilus-trader.md) | ⭐ 22.2k | Rust | 100/100 |
@@ -21,32 +21,36 @@
 | 11 | [ethereum-optimism/optimism](./ethereum-optimism-optimism.md) | ⭐ 6.4k | Go | 96/100 |
 | 12 | [aptos-labs/aptos-core](./aptos-labs-aptos-core.md) | ⭐ 6.4k | Rust | 96/100 |
 | 13 | [canopy-network/canopy](./canopy-network-canopy.md) | ⭐ 10.4k | Go | 96/100 |
-| 14 | [melonjs/melonJS](./melonjs-melonjs.md) | ⭐ 6.3k | JavaScript | 95/100 |
-| 15 | [Uniswap/interface](./uniswap-interface.md) | ⭐ 5.5k | TypeScript | 94/100 |
-| 16 | [linera-io/linera-protocol](./linera-io-linera-protocol.md) | ⭐ 32.1k | Rust | 94/100 |
-| 17 | [testcontainers/testcontainers-go](./testcontainers-testcontainers-go.md) | ⭐ 4.8k | Go | 93/100 |
-| 18 | [googleapis/googleapis](./googleapis-googleapis.md) | ⭐ 8.5k | Starlark | 91/100 |
-| 19 | [rocq-prover/rocq](./rocq-prover-rocq.md) | ⭐ 5.4k | OCaml | 91/100 |
-| 20 | [ethereum/EIPs](./ethereum-eips.md) | ⭐ 13.8k | Go | 90/100 |
-| 21 | [GMWalletApp/epusdt](./gmwalletapp-epusdt.md) | ⭐ 3.2k | Go | 86/100 |
-| 22 | [MetaMask/metamask-mobile](./metamask-metamask-mobile.md) | ⭐ 2.9k | TypeScript | 84/100 |
-| 23 | [besu-eth/besu](./besu-eth-besu.md) | ⭐ 1.8k | Java | 74/100 |
-| 24 | [freenet/freenet-core](./freenet-freenet-core.md) | ⭐ 2.7k | Rust | 70/100 |
-| 25 | [Peergos/Peergos](./peergos-peergos.md) | ⭐ 2.4k | Java | 70/100 |
-| 26 | [succinctlabs/sp1](./succinctlabs-sp1.md) | ⭐ 1.6k | Rust | 69/100 |
-| 27 | [cake-tech/cake_wallet](./cake-tech-cake-wallet.md) | ⭐ 1.6k | Dart | 67/100 |
-| 28 | [NethermindEth/nethermind](./nethermindeth-nethermind.md) | ⭐ 1.5k | C# | 67/100 |
-| 29 | [eracle/OpenOutreach](./eracle-openoutreach.md) | ⭐ 1.5k | Python | 64/100 |
-| 30 | [ZeusLN/zeus](./zeusln-zeus.md) | ⭐ 1.4k | TypeScript | 63/100 |
-| 31 | [DefiLlama/DefiLlama-Adapters](./defillama-defillama-adapters.md) | ⭐ 1.2k | JavaScript | 63/100 |
-| 32 | [a16z/jolt](./a16z-jolt.md) | ⭐ 979 | Rust | 61/100 |
-| 33 | [firedancer-io/firedancer](./firedancer-io-firedancer.md) | ⭐ 1.5k | C | 60/100 |
-| 34 | [lambdaclass/ethrex](./lambdaclass-ethrex.md) | ⭐ 859 | Rust | 59/100 |
-| 35 | [bitcart/bitcart](./bitcart-bitcart.md) | ⭐ 927 | Python | 59/100 |
-| 36 | [phishdestroy/destroylist](./phishdestroy-destroylist.md) | ⭐ 945 | HTML | 58/100 |
-| 37 | [stefanberger/swtpm](./stefanberger-swtpm.md) | ⭐ 778 | C | 57/100 |
-| 38 | [vsys-host/shkeeper.io](./vsys-host-shkeeper.io.md) | ⭐ 555 | Python | 56/100 |
-| 39 | [wilpel/caveman-compression](./wilpel-caveman-compression.md) | ⭐ 784 | Python | 40/100 |
+| 14 | [aws/s2n-tls](./aws-s2n-tls.md) | ⭐ 4.7k | C | 95/100 |
+| 15 | [lsdefine/GenericAgent](./lsdefine-genericagent.md) | ⭐ 6k | Python | 95/100 |
+| 16 | [melonjs/melonJS](./melonjs-melonjs.md) | ⭐ 6.3k | JavaScript | 95/100 |
+| 17 | [Uniswap/interface](./uniswap-interface.md) | ⭐ 5.5k | TypeScript | 94/100 |
+| 18 | [linera-io/linera-protocol](./linera-io-linera-protocol.md) | ⭐ 32.1k | Rust | 94/100 |
+| 19 | [testcontainers/testcontainers-go](./testcontainers-testcontainers-go.md) | ⭐ 4.8k | Go | 93/100 |
+| 20 | [googleapis/googleapis](./googleapis-googleapis.md) | ⭐ 8.5k | Starlark | 91/100 |
+| 21 | [rocq-prover/rocq](./rocq-prover-rocq.md) | ⭐ 5.4k | OCaml | 91/100 |
+| 22 | [ethereum/EIPs](./ethereum-eips.md) | ⭐ 13.8k | Go | 90/100 |
+| 23 | [GMWalletApp/epusdt](./gmwalletapp-epusdt.md) | ⭐ 3.2k | Go | 86/100 |
+| 24 | [MetaMask/metamask-mobile](./metamask-metamask-mobile.md) | ⭐ 2.9k | TypeScript | 84/100 |
+| 25 | [besu-eth/besu](./besu-eth-besu.md) | ⭐ 1.8k | Java | 74/100 |
+| 26 | [freenet/freenet-core](./freenet-freenet-core.md) | ⭐ 2.7k | Rust | 70/100 |
+| 27 | [Peergos/Peergos](./peergos-peergos.md) | ⭐ 2.4k | Java | 70/100 |
+| 28 | [succinctlabs/sp1](./succinctlabs-sp1.md) | ⭐ 1.6k | Rust | 69/100 |
+| 29 | [cake-tech/cake_wallet](./cake-tech-cake-wallet.md) | ⭐ 1.6k | Dart | 67/100 |
+| 30 | [NethermindEth/nethermind](./nethermindeth-nethermind.md) | ⭐ 1.5k | C# | 67/100 |
+| 31 | [eracle/OpenOutreach](./eracle-openoutreach.md) | ⭐ 1.5k | Python | 64/100 |
+| 32 | [DefiLlama/DefiLlama-Adapters](./defillama-defillama-adapters.md) | ⭐ 1.2k | JavaScript | 63/100 |
+| 33 | [ZeusLN/zeus](./zeusln-zeus.md) | ⭐ 1.4k | TypeScript | 63/100 |
+| 34 | [a16z/jolt](./a16z-jolt.md) | ⭐ 979 | Rust | 61/100 |
+| 35 | [firedancer-io/firedancer](./firedancer-io-firedancer.md) | ⭐ 1.5k | C | 60/100 |
+| 36 | [bitcart/bitcart](./bitcart-bitcart.md) | ⭐ 927 | Python | 59/100 |
+| 37 | [lambdaclass/ethrex](./lambdaclass-ethrex.md) | ⭐ 859 | Rust | 59/100 |
+| 38 | [phishdestroy/destroylist](./phishdestroy-destroylist.md) | ⭐ 945 | HTML | 58/100 |
+| 39 | [stefanberger/swtpm](./stefanberger-swtpm.md) | ⭐ 778 | C | 57/100 |
+| 40 | [vsys-host/shkeeper.io](./vsys-host-shkeeper.io.md) | ⭐ 555 | Python | 56/100 |
+| 41 | [omnuron/omniclaw](./omnuron-omniclaw.md) | ⭐ 490 | Python | 54/100 |
+| 42 | [Merit-Systems/x402scan](./merit-systems-x402scan.md) | ⭐ 325 | TypeScript | 54/100 |
+| 43 | [wilpel/caveman-compression](./wilpel-caveman-compression.md) | ⭐ 784 | Python | 40/100 |
 
 ---
 

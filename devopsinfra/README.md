@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**25 projects** in this category.
+**27 projects** in this category.
 
 ## Projects
 
@@ -23,16 +23,18 @@
 | 13 | [ardanlabs/service](./ardanlabs-service.md) | ⭐ 4k | Go | 79/100 |
 | 14 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 77/100 |
 | 15 | [microsoft/retina](./microsoft-retina.md) | ⭐ 3.1k | Go | 71/100 |
-| 16 | [aws-controllers-k8s/community](./aws-controllers-k8s-community.md) | ⭐ 2.6k | — | 65/100 |
-| 17 | [cr0hn/dockerscan](./cr0hn-dockerscan.md) | ⭐ 1.5k | Go | 62/100 |
-| 18 | [kimdre/doco-cd](./kimdre-doco-cd.md) | ⭐ 1.3k | Go | 60/100 |
-| 19 | [opensearch-project/opensearch-k8s-operator](./opensearch-project-opensearch-k8s-operator.md) | ⭐ 541 | Go | 59/100 |
-| 20 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 895 | Go | 56/100 |
-| 21 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
-| 22 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.3k | TypeScript | 55/100 |
-| 23 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 920 | Dockerfile | 48/100 |
-| 24 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 4 | Go | 42/100 |
-| 25 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
+| 16 | [phusion/passenger-docker](./phusion-passenger-docker.md) | ⭐ 2.8k | Shell | 66/100 |
+| 17 | [aws-controllers-k8s/community](./aws-controllers-k8s-community.md) | ⭐ 2.6k | — | 65/100 |
+| 18 | [cr0hn/dockerscan](./cr0hn-dockerscan.md) | ⭐ 1.5k | Go | 62/100 |
+| 19 | [kimdre/doco-cd](./kimdre-doco-cd.md) | ⭐ 1.3k | Go | 60/100 |
+| 20 | [opensearch-project/opensearch-k8s-operator](./opensearch-project-opensearch-k8s-operator.md) | ⭐ 541 | Go | 59/100 |
+| 21 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 895 | Go | 56/100 |
+| 22 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
+| 23 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.3k | TypeScript | 55/100 |
+| 24 | [topolvm/topolvm](./topolvm-topolvm.md) | ⭐ 1.1k | Go | 54/100 |
+| 25 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 920 | Dockerfile | 48/100 |
+| 26 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 4 | Go | 42/100 |
+| 27 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
 
 ---
 
