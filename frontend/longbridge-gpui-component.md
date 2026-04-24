@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The longbridge/gpui-component project provides an open-source collection of Rust-based GUI components designed for building cross-platform desktop applications using the GPUI framework. This library aims to facilitate the creation of fantastic and visually appealing desktop applications with ease, allowing developers to focus on building their application's core functionality. By leveraging GPUI and Rust, developers can create robust and efficient GUI components for a wide range of desktop applications.
+The longbridge/gpui-component project provides a set of open-source GUI components for building cross-platform desktop applications using GPUI. It offers a Rust-based framework for creating high-performance and visually appealing desktop interfaces. By leveraging GPUI, developers can craft fantastic user experiences across multiple platforms with ease.
 
 ---
 

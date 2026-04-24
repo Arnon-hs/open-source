@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-This open-source project, "React-projects-for-beginners", is designed to help beginners develop their React JS skills through hands-on experience with real-world projects. The repository serves as a platform for contributors to participate in Hacktoberfest and engage with the React development community. By contributing to this project, beginners can enhance their coding skills and build a portfolio of React projects.
+This open-source project, ianshulx/React-projects-for-beginners, is a repository designed for beginners to enhance their React JS skills through practical experience. It's an ideal platform to contribute to open-source during Hacktoberfest, allowing participants to improve their React development skills while giving back to the community. By joining this project, individuals can gain hands-on experience and build a strong foundation in React development.
 
 ---
 

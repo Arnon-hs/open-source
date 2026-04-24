@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-The OpenAEV Platform is an open-source, security-focused project designed to help validate and strengthen the resilience of artificial intelligence (AI) and machine learning (ML) models against adversarial attacks. This platform provides a comprehensive framework for testing AI systems against various types of threats, ensuring their ability to accurately classify inputs and maintain robustness in the face of malicious attempts to deceive them. By facilitating the validation of AI models, OpenAEV aims to promote the development of more secure and trustworthy AI systems.
+The OpenAEV-Platform/openaev is an open-source, security-focused project that provides a comprehensive framework for Adversarial Exposure Validation. This platform enables users to assess and validate the resilience of artificial intelligence (AI) and machine learning (ML) models against adversarial attacks, ensuring the robustness and trustworthiness of these systems. By leveraging openaev, developers can identify vulnerabilities and improve the overall security of AI-powered applications.
 
 ---
 

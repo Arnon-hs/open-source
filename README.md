@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2906** |
+| 🗂️ **Total projects** | **2956** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1094 | [Browse →](./aiml/) |
-| 📦 **Misc** | 464 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 316 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 266 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 182 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 150 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 115 | [Browse →](./crypto/) |
-| 📊 **Data** | 80 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 68 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 1117 | [Browse →](./aiml/) |
+| 📦 **Misc** | 467 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 324 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 268 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 184 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 153 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 116 | [Browse →](./crypto/) |
+| 📊 **Data** | 84 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 70 | [Browse →](./devopsinfra/) |
 | 💳 **Payments** | 42 | [Browse →](./payments/) |
-| 📱 **Mobile** | 38 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 39 | [Browse →](./mobile/) |
+| 🔐 **Security** | 34 | [Browse →](./security/) |
 | 📈 **Trading** | 33 | [Browse →](./trading/) |
-| 🔐 **Security** | 33 | [Browse →](./security/) |
 | 🎯 **Product** | 11 | [Browse →](./product/) |
 | ✨ **Design** | 11 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 3 | [Browse →](./marketing/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [supabase/supabase](./aiml/supabase-supabase.md) | ⭐ 101.3k | AI/ML |
-| 2 | [musescore/MuseScore](./aiml/musescore-musescore.md) | ⭐ 14.5k | AI/ML |
-| 3 | [Kong/insomnia](./aiml/kong-insomnia.md) | ⭐ 38.3k | AI/ML |
-| 4 | [future-architect/vuls](./aiml/future-architect-vuls.md) | ⭐ 12.1k | AI/ML |
-| 5 | [fmtlib/fmt](./misc/fmtlib-fmt.md) | ⭐ 23.4k | Misc |
-| 6 | [mrousavy/react-native-vision-camera](./aiml/mrousavy-react-native-vision-camera.md) | ⭐ 9.3k | AI/ML |
+| 2 | [fastapi/fastapi](./frontend/fastapi-fastapi.md) | ⭐ 97.6k | Frontend |
+| 3 | [alibaba/MNN](./aiml/alibaba-mnn.md) | ⭐ 15k | AI/ML |
+| 4 | [Lissy93/dashy](./frontend/lissy93-dashy.md) | ⭐ 24.8k | Frontend |
+| 5 | [Kong/insomnia](./aiml/kong-insomnia.md) | ⭐ 38.3k | AI/ML |
+| 6 | [ory/kratos](./aiml/ory-kratos.md) | ⭐ 13.6k | AI/ML |
 | 7 | [frappe/erpnext](./aiml/frappe-erpnext.md) | ⭐ 33.2k | AI/ML |
-| 8 | [better-auth/better-auth](./payments/better-auth-better-auth.md) | ⭐ 28k | Payments |
-| 9 | [kubernetes-sigs/external-dns](./backend/kubernetes-sigs-external-dns.md) | ⭐ 8.9k | Backend |
-| 10 | [PaddlePaddle/Paddle](./aiml/paddlepaddle-paddle.md) | ⭐ 23.9k | AI/ML |
+| 8 | [kubernetes-sigs/external-dns](./backend/kubernetes-sigs-external-dns.md) | ⭐ 8.9k | Backend |
+| 9 | [open-policy-agent/opa](./aiml/open-policy-agent-opa.md) | ⭐ 11.6k | AI/ML |
+| 10 | [musescore/MuseScore](./aiml/musescore-musescore.md) | ⭐ 14.5k | AI/ML |
 
 ## 🚀 How it works
 

@@ -25,7 +25,7 @@ AI/ML · Security
 
 ## 📝 Summary
 
-The vuls project is an open-source, agent-less vulnerability scanner designed to identify security threats across various platforms, including Linux, FreeBSD, containers, WordPress, and network devices. It uses a combination of AI/ML techniques to provide accurate and comprehensive vulnerability scanning results. With its agent-less approach, vuls allows for efficient and non-intrusive security auditing.
+The vuls project is an open-source, agent-less vulnerability scanner designed to identify security vulnerabilities in various systems, including Linux, FreeBSD, container environments, WordPress platforms, and programming language libraries. This versatile tool also scans network devices, providing a comprehensive view of potential security threats. By leveraging its capabilities, users can efficiently identify and address vulnerabilities, enhancing the overall security posture of their systems.
 
 ---
 

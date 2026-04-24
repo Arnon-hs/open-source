@@ -1,6 +1,6 @@
 # hanshuaikang/nezha
 
-[![Stars](https://img.shields.io/github/stars/hanshuaikang/nezha?style=flat-square&color=yellow)](https://github.com/hanshuaikang/nezha/stargazers) [![Forks](https://img.shields.io/github/forks/hanshuaikang/nezha?style=flat-square&color=blue)](https://github.com/hanshuaikang/nezha/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hanshuaikang/nezha?style=flat-square&color=yellow)](https://github.com/hanshuaikang/nezha/stargazers) [![Forks](https://img.shields.io/github/forks/hanshuaikang/nezha?style=flat-square&color=blue)](https://github.com/hanshuaikang/nezha/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 542 |
-| 🍴 **Forks** | 57 |
+| ⭐ **Stars** | 553 |
+| 🍴 **Forks** | 59 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

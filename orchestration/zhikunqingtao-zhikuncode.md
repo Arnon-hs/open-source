@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 129 |
-| 🍴 **Forks** | 48 |
+| ⭐ **Stars** | 130 |
+| 🍴 **Forks** | 49 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |

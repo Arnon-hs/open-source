@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary:
+Here's a 2-3 sentence summary for the open-source project:
 
-OpenClawChineseTranslation is an open-source, Chinese-language version of the OpenClaw AI assistant, featuring integration with Claude/ChatGPT LLM and support for WhatsApp, Telegram, and Discord platforms. This project offers an easy-to-use CLI and dashboard interface in Chinese, with automatic hourly synchronization and a comprehensive guide for setup and troubleshooting. It aims to provide a powerful and user-friendly AI assistant for Chinese-speaking users.
+OpenClaw is an open-source, Chinese-language AI assistant that integrates with Claude/ChatGPT LLMs. This project provides a multichannel platform for WhatsApp, Telegram, and Discord, with automatic hourly synchronization and a user-friendly, all-Chinese dashboard. It also includes a comprehensive installation guide and troubleshooting manual.
 
 ---
 

@@ -1,6 +1,6 @@
 # chenhg5/cc-connect
 
-[![Stars](https://img.shields.io/github/stars/chenhg5/cc-connect?style=flat-square&color=yellow)](https://github.com/chenhg5/cc-connect/stargazers) [![Forks](https://img.shields.io/github/forks/chenhg5/cc-connect?style=flat-square&color=blue)](https://github.com/chenhg5/cc-connect/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chenhg5/cc-connect?style=flat-square&color=yellow)](https://github.com/chenhg5/cc-connect/stargazers) [![Forks](https://img.shields.io/github/forks/chenhg5/cc-connect?style=flat-square&color=blue)](https://github.com/chenhg5/cc-connect/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6k |
-| 🍴 **Forks** | 566 |
+| 🍴 **Forks** | 568 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

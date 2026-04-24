@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-DearVa/Everywhere is an open-source context-aware AI assistant designed for desktop use, providing intelligent responses by seamlessly integrating multiple Large Language Models (LLMs) and Machine Learning Compiler (MCP) tools. This project aims to offer a versatile and user-friendly AI solution for various tasks and applications. By leveraging the strength of LLMs and MCP tools, DearVa/Everywhere seeks to revolutionize the way users interact with their desktop and access AI-driven services.
+DearVa/Everywhere is an open-source, context-aware AI assistant designed to provide intelligent responses on your desktop. It seamlessly integrates multiple large language models (LLMs) and machine creativity partnership (MCP) tools to offer a comprehensive and intuitive experience. This project aims to bring AI-driven assistance to users, making it a valuable tool for productivity and convenience.
 
 ---
 

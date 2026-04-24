@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-YAGPDB (Yet Another General Purpose Discord Bot) is an open-source Discord bot designed to provide a wide range of general-purpose features for server management. With its modular architecture, users can easily extend or customize the bot's functionality to suit their specific needs. This versatile bot offers a comprehensive solution for Discord server administrators seeking to enhance their community's experience.
+YAGPDB (Yet Another General Purpose Discord Bot) is an open-source, customizable Discord bot that allows users to create a variety of features and commands to enhance their server experience. With its modular design, users can easily add or remove features as needed, making it a highly adaptable and versatile solution for Discord communities. This project is ideal for developers and server administrators looking to create a tailored Discord bot experience.
 
 ---
 

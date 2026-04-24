@@ -1,6 +1,6 @@
 # heygen-com/hyperframes
 
-[![Stars](https://img.shields.io/github/stars/heygen-com/hyperframes?style=flat-square&color=yellow)](https://github.com/heygen-com/hyperframes/stargazers) [![Forks](https://img.shields.io/github/forks/heygen-com/hyperframes?style=flat-square&color=blue)](https://github.com/heygen-com/hyperframes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heygen-com/hyperframes?style=flat-square&color=yellow)](https://github.com/heygen-com/hyperframes/stargazers) [![Forks](https://img.shields.io/github/forks/heygen-com/hyperframes?style=flat-square&color=blue)](https://github.com/heygen-com/hyperframes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
 
 > Write HTML. Render video. Built for agents.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10k |
-| 🍴 **Forks** | 828 |
+| ⭐ **Stars** | 10.1k |
+| 🍴 **Forks** | 838 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 97/100 |
+| 📈 **Score** | 98/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

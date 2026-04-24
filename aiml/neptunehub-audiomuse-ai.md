@@ -1,6 +1,6 @@
 # NeptuneHub/AudioMuse-AI
 
-[![Stars](https://img.shields.io/github/stars/NeptuneHub/AudioMuse-AI?style=flat-square&color=yellow)](https://github.com/NeptuneHub/AudioMuse-AI/stargazers) [![Forks](https://img.shields.io/github/forks/NeptuneHub/AudioMuse-AI?style=flat-square&color=blue)](https://github.com/NeptuneHub/AudioMuse-AI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NeptuneHub/AudioMuse-AI?style=flat-square&color=yellow)](https://github.com/NeptuneHub/AudioMuse-AI/stargazers) [![Forks](https://img.shields.io/github/forks/NeptuneHub/AudioMuse-AI?style=flat-square&color=blue)](https://github.com/NeptuneHub/AudioMuse-AI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AudioMuse-AI is a self-hosted, Dockerized music playlist generator using sonic analysis to discover related tracks for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external APIs needed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

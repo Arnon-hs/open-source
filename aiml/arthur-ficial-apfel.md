@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The Arthur-Ficial/apfel project is an open-source, on-device AI solution for Mac users, leveraging Apple Intelligence to provide a free, local AI experience. This project combines a CLI tool, an OpenAI-compatible server, and an interactive chat, all functioning independently without the need for API keys or cloud connectivity. By utilizing on-device processing, apfel offers a secure and self-contained AI solution for Mac users.
+Here's a brief summary of the open-source project:
+
+The Arthur-Ficial/apfel project is a free, on-device AI solution for Mac users, providing a CLI tool, OpenAI-compatible server, and interactive chat without relying on cloud services or API keys. This innovative project leverages Apple's Intelligence capabilities to deliver AI functionality locally on the device. As a result, users can enjoy seamless AI interactions without compromising their data security or online privacy.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Euporie is an open-source project that allows users to interact with Jupyter notebooks directly from the terminal. This tool enables a more streamlined and efficient coding experience, eliminating the need to constantly switch between terminal and notebook interfaces. By providing a terminal-based interface for Jupyter notebooks, Euporie aims to enhance productivity for data scientists and developers.
+Euporie is an open-source project that enables users to run Jupyter notebooks directly from their terminal, providing a streamlined experience for data scientists and developers. This project simplifies the workflow by combining the interactive capabilities of Jupyter notebooks with the convenience of a terminal-based interface. Euporie is designed to improve productivity and reduce complexity for those working with Jupyter notebooks.
 
 ---
 

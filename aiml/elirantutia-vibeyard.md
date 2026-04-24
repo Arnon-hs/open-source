@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Vibeyard is an open-source Integrated Development Environment (IDE) designed specifically for AI coding agents, revolutionizing the way these agents create and manage code. This innovative tool streamlines the development process, providing a user-friendly interface for AI-powered coding agents to efficiently write, debug, and deploy software. As a community-driven project, Vibeyard continues to evolve with the needs of AI developers and researchers.
+Vibeyard is an open-source Integrated Development Environment (IDE) designed specifically for Artificial Intelligence (AI) coding agents. This unique IDE aims to provide a tailored and efficient coding experience for AI agents, streamlining their development and collaboration processes. By focusing on AI/ML and frontend development, Vibeyard offers a specialized toolset for building and deploying AI-powered applications.
 
 ---
 

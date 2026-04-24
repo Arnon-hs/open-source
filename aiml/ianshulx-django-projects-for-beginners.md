@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-This open-source project, "Django-Projects-for-beginners", provides a comprehensive repository of beginner-friendly Django projects. It serves as a valuable resource for individuals looking to learn Django and expand their web development skills, offering a collaborative environment for learning and growth. This project is perfect for developers participating in Hacktoberfest or those interested in Django development.
+This project, ianshulx/Django-Projects-for-beginners, is an open-source repository providing Django projects tailored for beginners. The repository is designed to help newcomers to Django gain practical experience and build a solid foundation in web development. It's perfect for those looking to participate in Hacktoberfest or simply learn Django.
 
 ---
 

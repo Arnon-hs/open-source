@@ -25,9 +25,7 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the near/nearcore project:
-
-The near/nearcore project is a reference client for the NEAR Protocol, an open-source, sharded smart contract platform that enables fast, secure, and scalable decentralized applications. This project serves as a foundation for building and interacting with the NEAR Protocol ecosystem. By leveraging the near/nearcore client, developers can create and deploy their own decentralized applications on the NEAR network.
+The near/nearcore project is an open-source reference client for the NEAR Protocol, providing a foundation for building and interacting with the NEAR ecosystem. This project serves as a key component for developers and users to access and utilize the NEAR Protocol, enabling them to create and participate in a decentralized network. By contributing to and utilizing near/nearcore, users can help shape the future of the NEAR Protocol.
 
 ---
 

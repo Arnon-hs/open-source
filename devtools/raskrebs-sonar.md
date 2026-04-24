@@ -25,7 +25,9 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The sonar CLI tool is an open-source project designed to help developers inspect and manage services listening on localhost ports. It provides a simple and intuitive interface for discovering, monitoring, and troubleshooting local services, making it easier to maintain a healthy development environment. With sonar, developers can gain a better understanding of their local infrastructure and streamline their development workflows.
+Here's a brief summary for the open-source project "raskrebs/sonar":
+
+Sonar is a command-line interface (CLI) tool designed to inspect and manage services listening on localhost ports. It provides a simple and efficient way for developers and DevOps teams to monitor and troubleshoot local services. By using Sonar, users can gain a clearer understanding of the services running on their localhost.
 
 ---
 

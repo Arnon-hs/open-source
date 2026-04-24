@@ -1,0 +1,32 @@
+# Tochemey/goakt
+
+[![Stars](https://img.shields.io/github/stars/Tochemey/goakt?style=flat-square&color=yellow)](https://github.com/Tochemey/goakt/stargazers) [![Forks](https://img.shields.io/github/forks/Tochemey/goakt?style=flat-square&color=blue)](https://github.com/Tochemey/goakt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+
+> [Go] Distributed Actor/Grain framework for Golang
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 338 |
+| 🍴 **Forks** | 31 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI/ML
+
+## 📝 Summary
+
+Tochemey/goakt is an open-source, distributed Actor/Grain framework for Golang, designed to simplify the development of scalable and concurrent systems. This framework enables developers to build high-performance applications, particularly in the realm of Artificial Intelligence and Machine Learning. By leveraging the Actor model, goakt facilitates efficient and fault-tolerant communication among distributed tasks.
+
+---
+
+<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Tochemey/goakt) · [← Back to AI/ML](./README.md)</sub>

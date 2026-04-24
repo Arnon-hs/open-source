@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Pony is an open-source programming language that utilizes the actor-model and capabilities-security to provide high-performance and robust application development. This language focuses on enabling developers to create scalable, secure, and concurrent systems with ease. By leveraging Pony, developers can build reliable and efficient software applications.
+Pony is an open-source programming language that leverages the actor-model architecture to provide high-performance capabilities. It prioritizes security through capabilities-based access control, ensuring safe and efficient interactions between concurrently executing actors. By utilizing Pony, developers can build robust, scalable, and secure applications across various domains.
 
 ---
 

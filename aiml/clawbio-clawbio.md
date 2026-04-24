@@ -1,0 +1,32 @@
+# ClawBio/ClawBio
+
+[![Stars](https://img.shields.io/github/stars/ClawBio/ClawBio?style=flat-square&color=yellow)](https://github.com/ClawBio/ClawBio/stargazers) [![Forks](https://img.shields.io/github/forks/ClawBio/ClawBio?style=flat-square&color=blue)](https://github.com/ClawBio/ClawBio/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+
+> 🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 750 |
+| 🍴 **Forks** | 147 |
+| 💻 **Language** | HTML |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI/ML · Frontend
+
+## 📝 Summary
+
+ClawBio is an open-source, bioinformatics-native AI agent skill library designed for local-first and reproducible workflows. Built on top of OpenClaw, this library provides a powerful framework for developing and integrating AI-driven tools within the bioinformatics community. ClawBio aims to streamline AI application in bioinformatics by offering a robust, reproducible, and customizable platform.
+
+---
+
+<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ClawBio/ClawBio) · [← Back to AI/ML](./README.md)</sub>

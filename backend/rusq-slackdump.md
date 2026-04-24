@@ -25,7 +25,7 @@ Backend · Marketing
 
 ## 📝 Summary
 
-The open-source project "rusq/slackdump" allows users to locally save or export their private and public Slack messages, threads, files, and user information without requiring admin privileges. This tool provides individuals with a convenient way to manage and archive their online conversations and data. By offering a simple and non-intrusive solution, slackdump empowers users to take control of their digital presence on Slack.
+The rusq/slackdump project allows users to download and save private and public Slack data, including messages, threads, files, and user information, directly to their local machine without the need for administrative privileges. This open-source tool provides users with a secure and convenient way to preserve their Slack data for archiving, backup, or offline access. By utilizing slackdump, users can maintain control over their Slack data and ensure its availability even after leaving a workspace or organization.
 
 ---
 

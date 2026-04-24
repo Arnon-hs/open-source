@@ -25,7 +25,7 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Claude-Forge is an open-source project that significantly enhances Claude Code with a comprehensive set of 11 AI agents, 36 commands, and 15 skills, offering users a powerful and versatile toolset. This plugin framework, inspired by oh-my-zsh, also includes robust 6-layer security hooks to ensure safe and secure operations. With a 5-minute installation process, users can easily integrate Claude Forge into their workflow and unlock its full potential.
+Claude-Forged is an open-source project that enhances Claude's capabilities with 11 AI agents, 36 commands, and 15 skills. It utilizes a plugin framework inspired by oh-my-zsh, offering a user-friendly experience and is designed to be installed in just 5 minutes. With its 6-layer security hooks, Claude-Forged prioritizes user security and protection.
 
 ---
 

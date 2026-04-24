@@ -25,7 +25,7 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Textualize/textual is an open-source, Python-based application framework that empowers developers to create sophisticated user interfaces with a simple and intuitive API. This framework allows users to run their applications in both the terminal and web browser, offering flexibility and versatility. By leveraging textual, developers can build robust applications with minimal effort and code complexity.
+Textualize/textual is an open-source, Python-based application framework that allows developers to build complex user interfaces with a minimalistic and intuitive API. This versatile framework enables users to create applications that can run seamlessly in both terminal and web browser environments, making it an ideal choice for building cross-platform applications. With textualize/textual, developers can focus on crafting sophisticated UIs without getting bogged down in complex implementation details.
 
 ---
 

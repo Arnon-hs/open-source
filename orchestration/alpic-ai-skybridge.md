@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Skybridge project:
-
-Skybridge is an open-source, full-stack TypeScript framework designed to build and deploy Multi-Cloud Platform (MCP) applications and ChatGPT applications. Built on React and TypeScript, it offers a type-safe, platform-agnostic development experience. This framework enables developers to create modern, scalable applications with ease.
+Skybridge is an open-source, full-stack TypeScript framework ideal for developing MCP Apps and ChatGPT Apps. Built with a focus on type-safety and platform-agnosticism, Skybridge utilizes React for a seamless and efficient development experience. This versatile framework is suitable for a wide range of applications, from AI/ML-based projects to frontend-oriented solutions.
 
 ---
 

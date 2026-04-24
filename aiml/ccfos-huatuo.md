@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Huatuo is an open-source cloud-native operating system observability project that leverages eBPF technology to provide real-time insights into system performance and resource utilization. Incubated under the CCF (China Computer Federation) organization, Huatuo aims to revolutionize system monitoring and analytics with its data-driven approach and AI/ML capabilities. This project facilitates more efficient infrastructure management and optimization by uncovering hidden patterns and anomalies in system behavior.
+The huatuo project is an open-source cloud-native operating system observability platform built on top of eBPF technology, ensuring real-time monitoring and analysis of system performance. Incubated by the Cloud and Innovation Lab of China's CCF, this AI-driven initiative aims to revolutionize operating system observability. By leveraging eBPF, huatuo provides unparalleled insight into system behavior and performance.
 
 ---
 

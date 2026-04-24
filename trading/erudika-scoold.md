@@ -25,7 +25,7 @@ Trading
 
 ## 📝 Summary
 
-Scoold is an open-source, self-hosted platform that enables teams to create their own Q&A community similar to Stack Overflow. It provides a space for team members to ask and answer questions, share knowledge, and collaborate more effectively. This project is ideal for companies looking to create a centralized knowledge base for their employees.
+The Erudika/scoold project is an open-source, self-hosted or cloud-based alternative to Stack Overflow, designed for teams to create their own knowledge bases and Q&A platforms. This project enables organizations to replicate the functionality of Stack Overflow within their own infrastructure, allowing for customization and control over their community's content and workflows. By using scoold, teams can foster knowledge sharing, collaboration, and innovation among their members.
 
 ---
 

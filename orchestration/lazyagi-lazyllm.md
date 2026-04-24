@@ -25,7 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-LazyAGI/LazyLLM is an open-source project that simplifies the development of multi-agent Large Language Model (LLM) applications. This user-friendly tool streamlines the process of building complex AI/ML systems, making it accessible to a broader range of developers. By leveraging orchestration and frontend functionalities, LazyAGI/LazyLLM enables users to create robust and efficient LLM applications with minimal effort.
+Here's a brief summary for the LazyAGI/LazyLLM project:
+
+LazyAGI/LazyLLM is an open-source project that simplifies the development of multi-agent Large Language Model (LLM) applications, offering a streamlined approach to building complex AI systems. This project provides an orchestration framework for easy integration and deployment of multiple LLM agents, making it an ideal choice for developers seeking to create scalable and efficient AI applications. By leveraging LazyAGI/LazyLLM, users can accelerate their AI development process and focus on higher-level tasks.
 
 ---
 

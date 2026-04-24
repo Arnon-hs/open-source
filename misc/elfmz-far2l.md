@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The elfmz/far2l project is a Linux port of the FAR v2 file manager. It allows users to experience the features and functionality of FAR v2 on Linux systems, providing a familiar interface for those who are accustomed to the original application. This open-source implementation aims to preserve the original's capabilities and adapt them to the Linux environment.
+The elfmz/far2l project is an open-source Linux port of FAR v2, a file archive manager that allows users to view, extract, and create archives in several formats. This versatile tool supports a wide range of file compression and archiving formats, making it a valuable addition to any Linux distribution. By porting FAR v2 to Linux, the elfmz/far2l project provides a cross-platform solution for managing archives.
 
 ---
 

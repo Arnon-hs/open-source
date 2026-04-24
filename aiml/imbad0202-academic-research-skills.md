@@ -1,6 +1,6 @@
 # Imbad0202/academic-research-skills
 
-[![Stars](https://img.shields.io/github/stars/Imbad0202/academic-research-skills?style=flat-square&color=yellow)](https://github.com/Imbad0202/academic-research-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Imbad0202/academic-research-skills?style=flat-square&color=blue)](https://github.com/Imbad0202/academic-research-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Imbad0202/academic-research-skills?style=flat-square&color=yellow)](https://github.com/Imbad0202/academic-research-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Imbad0202/academic-research-skills?style=flat-square&color=blue)](https://github.com/Imbad0202/academic-research-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 414 |
+| 🍴 **Forks** | 415 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

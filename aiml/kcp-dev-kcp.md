@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra · Marketing
 
 ## 📝 Summary
 
-The kcp project is an open-source initiative that focuses on developing Kubernetes-like control planes for various form-factors and use-cases, extending the capabilities of traditional Kubernetes and container workloads. This project enables the expansion of Kubernetes beyond its current scope, allowing for the creation of customized control planes tailored to specific needs. By doing so, kcp promotes flexibility, adaptability, and innovation in the Kubernetes ecosystem.
+The kcp project is an open-source initiative that aims to develop Kubernetes-like control planes for a wide range of form-factors and use-cases beyond traditional Kubernetes and container workloads. This flexible framework enables the creation of custom control planes tailored to specific environments and applications. By leveraging kcp, developers can extend the reach of Kubernetes-like functionality to new domains and use cases.
 
 ---
 

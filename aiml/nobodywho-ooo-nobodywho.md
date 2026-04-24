@@ -25,7 +25,7 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-NobodyWho is an open-source inference engine that enables local and efficient deployment of Large Language Models (LLMs) on various devices. It allows users to run LLMs without relying on cloud services, ensuring faster and more private processing. This project caters to the AI and mobile development communities, promoting on-device LLM execution for a range of applications.
+NobodyWho is an open-source, locally-run inference engine that enables efficient operation of Large Language Models (LLMs) on any device. This project allows users to leverage the power of LLMs without relying on cloud services, making it an ideal solution for mobile and offline applications. By providing a local inference engine, NobodyWho empowers developers to build more robust and autonomous AI-driven experiences.
 
 ---
 

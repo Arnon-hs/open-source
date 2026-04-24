@@ -25,7 +25,9 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-The Erudika/para project is an open-source, multitenant backend server designed for rapid development of web and mobile applications. This versatile platform allows developers to build scalable and efficient backends, either self-hosted or hosted, to meet their needs. Ideal for busy developers, para streamlines backend development to speed up project delivery and deployment.
+Here's a brief summary for the Erudika/para project:
+
+Erudika/para is an open-source, multitenant backend server that enables developers to build web and mobile applications quickly and efficiently. Suitable for both self-hosted and hosted environments, this versatile platform is designed to cater to the needs of busy developers who require a scalable and reliable backend solution. With para, developers can focus on building their applications without the hassle of managing complex backend infrastructure.
 
 ---
 

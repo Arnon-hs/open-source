@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Release-it is an open-source project that automates the versioning and publishing process for software packages, streamlining the release process for developers. It simplifies the task of bumping version numbers, creating tags, and deploying packages to various repositories. This tool helps save time and reduce errors associated with manual versioning and publishing.
+Release-it is an open-source project that automates the versioning and publishing of packages, simplifying the process of releasing updates to software. This tool streamlines the workflow for developers, allowing them to focus on coding while it handles tasks such as version incrementation and package distribution. By using release-it, developers can save time and effort in maintaining their projects.
 
 ---
 

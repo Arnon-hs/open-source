@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The brms (Bayesian Regression Models with Automatic Variance and Error Control) R package is an open-source tool for fitting complex Bayesian models, including generalized linear mixed models, multivariate models, and non-linear multilevel models, using the Stan modeling language. It provides a user-friendly interface for specifying these models and automates tasks such as model checking and diagnostic assessment. This allows researchers to easily estimate and compare complex models in a Bayesian framework.
+The brms R package is an open-source tool that enables users to estimate Bayesian generalized multivariate non-linear multilevel models using the Stan language. This allows researchers to fit complex statistical models while leveraging the power of Bayesian inference and the efficiency of Stan. By providing an intuitive interface for specifying and fitting these models, brms streamlines the process of statistical modeling and analysis in various fields.
 
 ---
 
