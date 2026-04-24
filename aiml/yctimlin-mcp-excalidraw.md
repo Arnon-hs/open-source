@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a summary for the project:
+Here's a brief summary for the project:
 
-The MCP server and Claude Code skill for Excalidraw is an open-source project that enables the creation, editing, and export of diagrams using AI agents. This programmatic canvas toolkit provides real-time canvas sync capabilities, allowing for seamless collaboration and automation of diagram-based workflows. By leveraging AI, users can streamline their diagramming processes and unlock new possibilities for data visualization and collaboration.
+This open-source project, yctimlin/mcp_excalidraw, integrates an MCP server and Claude Code skill with Excalidraw, a programmatic canvas toolkit for creating, editing, and exporting diagrams. This integration enables AI agents to interact with the canvas in real-time, providing a powerful tool for collaborative diagram creation and editing. The project combines the benefits of AI-driven creativity with the flexibility of a programmable canvas.
 
 ---
 

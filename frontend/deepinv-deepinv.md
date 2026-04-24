@@ -1,6 +1,6 @@
 # deepinv/deepinv
 
-[![Stars](https://img.shields.io/github/stars/deepinv/deepinv?style=flat-square&color=yellow)](https://github.com/deepinv/deepinv/stargazers) [![Forks](https://img.shields.io/github/forks/deepinv/deepinv?style=flat-square&color=blue)](https://github.com/deepinv/deepinv/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepinv/deepinv?style=flat-square&color=yellow)](https://github.com/deepinv/deepinv/stargazers) [![Forks](https://img.shields.io/github/forks/deepinv/deepinv?style=flat-square&color=blue)](https://github.com/deepinv/deepinv/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > DeepInverse: a PyTorch library for solving imaging inverse problems using deep learning
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 716 |
-| 🍴 **Forks** | 165 |
+| 🍴 **Forks** | 166 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

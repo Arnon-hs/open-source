@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Redox is an open-source operating system written in Rust, aiming to provide a secure, portable, and high-performance platform for various hardware architectures. It is designed to be a fully capable OS, with a focus on stability, reliability, and modularity. Redox is built with the goal of creating a user-friendly and developer-friendly OS that can run a wide range of applications.
+Redox is an open-source, Unix-like operating system written in Rust programming language. It is designed to be portable, secure, and scalable, aiming to provide a modern and efficient alternative to traditional operating systems. Redox is a community-driven project, with its source code available in this repository for public access and contribution.
 
 ---
 

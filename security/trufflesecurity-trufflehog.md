@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-TruffleHog is an open-source security tool designed to detect and analyze leaked credentials. It searches through large data sets, verifies the authenticity of the data, and provides actionable insights into potential security risks. By utilizing TruffleHog, organizations can identify and mitigate the impact of compromised credentials, enhancing their overall security posture.
+TruffleHog is an open-source project that helps identify, verify, and analyze leaked credentials from various sources. It uses machine learning and pattern recognition to scan through large datasets and pinpoint sensitive information such as API keys, database credentials, and other authentication tokens. By detecting and exposing these vulnerabilities, TruffleHog enables organizations to take proactive steps in securing their systems and protecting against potential data breaches.
 
 ---
 

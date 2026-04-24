@@ -27,7 +27,7 @@ AI/ML · Backend · DevOps/Infra
 
 Here's a brief summary for the steel-dev/steel-browser project:
 
-The steel-dev/steel-browser project is an open-source, battery-included browser sandbox that allows developers to automate web interactions without worrying about underlying infrastructure. This project provides a comprehensive solution for AI agents and applications to interact with the web, making it easier to build and deploy web automation tasks. By utilizing the steel-browser API, developers can focus on building their applications without the need for complex infrastructure setup.
+The steel-dev/steel-browser is an open-source browser API designed for AI agents and applications, providing a seamless way to automate web interactions without the need for complex infrastructure setup. This batteries-included browser sandbox simplifies web automation tasks, making it an ideal solution for developers and AI enthusiasts alike. With steel-browser, you can focus on building innovative AI-powered applications without being bogged down by underlying technical complexities.
 
 ---
 

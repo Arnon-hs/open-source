@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the Alibaba RTP-LLM project:
+Here's a brief summary for the RTP-LLM project:
 
-RTP-LLM is an open-source, high-performance Large Language Model (LLM) inference engine developed by Alibaba, designed to support diverse applications across various industries. This engine enables efficient and scalable LLM inference, making it suitable for a wide range of use cases. By leveraging RTP-LLM, developers can accelerate their AI and ML projects with enhanced performance and flexibility.
+RTP-LLM is an open-source, high-performance large language model (LLM) inference engine developed by Alibaba, designed to accelerate diverse AI and machine learning applications. This engine is optimized for efficient inference, enabling rapid processing of complex language tasks. By leveraging RTP-LLM, developers can unlock the full potential of LLMs in various applications, from chatbots to text generation.
 
 ---
 

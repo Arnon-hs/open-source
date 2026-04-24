@@ -27,7 +27,7 @@ AI/ML · Frontend · Backend
 
 Here's a brief summary for the arcjet/arcjet-js project:
 
-The arcjet/arcjet-js project is an open-source JavaScript/TypeScript SDK that provides AI security building blocks to protect against automated attacks, data breaches, and misuse of AI tools. By utilizing Arcjet's AI security solutions, developers can safeguard their AI budgets and maintain the integrity of their applications. This SDK offers a robust defense against bots and unauthorized AI interactions.
+Arcjet is an open-source JavaScript/TypeScript SDK that helps protect AI applications from malicious bot activity, data breaches, and misuse. By providing AI security building blocks, Arcjet enables developers to safeguard their AI budgets, prevent unauthorized access, and maintain the integrity of their tools. With Arcjet, organizations can ensure the secure and responsible use of AI technologies.
 
 ---
 

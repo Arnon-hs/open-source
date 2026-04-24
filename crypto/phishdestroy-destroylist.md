@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/phishdestroy/destroylist?style=flat-square&color=yellow)](https://github.com/phishdestroy/destroylist/stargazers) [![Forks](https://img.shields.io/github/forks/phishdestroy/destroylist?style=flat-square&color=blue)](https://github.com/phishdestroy/destroylist/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
-> Real-time phishing & scam domain blocklist — 110k+ curated threats, 828K+ community, free API, multiple formats
+> Real-time phishing & scam domain blocklist — 130k+ curated threats, 888K+ community, free API, multiple formats
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 956 |
+| ⭐ **Stars** | 957 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 58/100 |

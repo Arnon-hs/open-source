@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Kubernetes-SIGs AWS EBS CSI Driver is an open-source project that provides a Container Storage Interface (CSI) driver for Amazon Elastic Block Store (EBS). This driver enables seamless integration of EBS volumes with Kubernetes environments, allowing users to easily manage and provision EBS storage for their workloads. By using this driver, users can leverage the scalability and reliability of EBS storage within their Kubernetes deployments.
+The Kubernetes Signature Project (kubernetes-sigs) presents the AWS EBS CSI Driver, an open-source container storage interface (CSI) driver that enables the seamless integration of Amazon Elastic Block Store (EBS) volumes with Kubernetes environments. This driver facilitates the creation, management, and deletion of EBS volumes directly from Kubernetes, simplifying storage operations and enhancing scalability. By leveraging the CSI standard, the driver provides a flexible and vendor-agnostic solution for managing cloud-native storage resources.
 
 ---
 

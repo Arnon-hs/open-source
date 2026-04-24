@@ -25,9 +25,7 @@ Frontend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the docker/buildx project:
-
-docker/buildx is an open-source Docker CLI plugin that extends the build capabilities of Docker with the power of BuildKit, enabling users to build and push images with greater flexibility and efficiency. This plugin provides a more robust and customizable build experience, making it an ideal choice for developers and DevOps teams. By leveraging BuildKit's advanced features, docker/buildx streamlines the Docker build process, improving productivity and reducing complexities.
+Docker/buildx is an open-source Docker CLI plugin that extends the build capabilities of Docker with the help of BuildKit. This plugin enables users to build, push, and manage Docker images across various environments, including cloud, on-premises, and edge locations. By leveraging BuildKit, docker/buildx provides a more efficient and scalable way to manage Docker image builds.
 
 ---
 

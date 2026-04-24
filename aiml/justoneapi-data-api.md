@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/justoneapi/data-api?style=flat-square&color=yellow)](https://github.com/justoneapi/data-api/stargazers) [![Forks](https://img.shields.io/github/forks/justoneapi/data-api?style=flat-square&color=blue)](https://github.com/justoneapi/data-api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> justoneapi数据接口服务。提供：淘宝、小红书、拼多多、同程旅行、京东外卖、抖音（电商）、美团、抖音（视频）、快手、蒲公英、星图、微信公众号、大众点评、哔哩哔哩、知乎、微博、贝壳、Bigo、Temu、Lazada、Shopee、SHEIN、百度指数、携程、Boss直聘、智联招聘、拉钩、今日头条、Facebook、Youtube、Instgram、Twitter。爬虫、采集、scrapy、接口、API。
+> Just One API - 数据接口服务: 接口,小红书,Xiaohongshu,RedNote,淘宝,天猫,Taobao,Tmall,抖音,Douyin,抖音电商,Douyin E-commerce,TikTok,TikTok Shop,快手,Kuaishou,微博,Sina Weibo,哔哩哔哩,bilibili,豆瓣,小红书蒲公英,抖音星图,巨量星图,微信公众号,WeChat,优酷,贝壳,IMDb,京东,美团,大众点评,携程,今日头条,Toutiao,知乎,Zhihu,亚马逊,Amazon,Facebook,Twitter,Temu,Reddit,Shopee,拼多多,YouTube,Instagram,谷歌搜索API,Google Search API,SERP API
 
 ## 📊 Stats
 

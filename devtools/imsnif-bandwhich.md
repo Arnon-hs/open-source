@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Bandwidth is a terminal-based tool that provides real-time visualization of network bandwidth utilization. It displays detailed statistics on sent and received packets, including throughput, error rates, and packet loss, helping users troubleshoot network performance issues. This open-source project offers a convenient and intuitive way to monitor network bandwidth usage.
+bandwhich is an open-source terminal tool that provides a detailed breakdown of bandwidth utilization. It offers real-time and historical data, enabling users to monitor network traffic and identify areas of high usage. This information can help optimize network performance and troubleshoot connectivity issues.
 
 ---
 

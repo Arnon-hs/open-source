@@ -2,28 +2,28 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**80 projects** in this category.
+**81 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [projectcalico/calico](./projectcalico-calico.md) | ⭐ 7.2k | Go | 100/100 |
-| 2 | [netbox-community/netbox](./netbox-community-netbox.md) | ⭐ 20.3k | Python | 100/100 |
-| 3 | [argoproj/argo-cd](./argoproj-argo-cd.md) | ⭐ 22.7k | Go | 100/100 |
-| 4 | [authelia/authelia](./authelia-authelia.md) | ⭐ 27.6k | Go | 100/100 |
-| 5 | [alam00000/bentopdf](./alam00000-bentopdf.md) | ⭐ 12.9k | JavaScript | 100/100 |
-| 6 | [dependabot/dependabot-core](./dependabot-dependabot-core.md) | ⭐ 5.5k | Ruby | 100/100 |
+| 2 | [alam00000/bentopdf](./alam00000-bentopdf.md) | ⭐ 12.9k | JavaScript | 100/100 |
+| 3 | [netbox-community/netbox](./netbox-community-netbox.md) | ⭐ 20.3k | Python | 100/100 |
+| 4 | [dependabot/dependabot-core](./dependabot-dependabot-core.md) | ⭐ 5.5k | Ruby | 100/100 |
+| 5 | [argoproj/argo-cd](./argoproj-argo-cd.md) | ⭐ 22.7k | Go | 100/100 |
+| 6 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.4k | Python | 100/100 |
 | 7 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 77.8k | TypeScript | 100/100 |
-| 8 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.4k | Python | 100/100 |
+| 8 | [authelia/authelia](./authelia-authelia.md) | ⭐ 27.6k | Go | 100/100 |
 | 9 | [chef/chef](./chef-chef.md) | ⭐ 8.2k | Ruby | 99/100 |
-| 10 | [kubescape/kubescape](./kubescape-kubescape.md) | ⭐ 11.3k | Go | 97/100 |
-| 11 | [cert-manager/cert-manager](./cert-manager-cert-manager.md) | ⭐ 13.8k | Go | 97/100 |
+| 10 | [cert-manager/cert-manager](./cert-manager-cert-manager.md) | ⭐ 13.8k | Go | 97/100 |
+| 11 | [kubescape/kubescape](./kubescape-kubescape.md) | ⭐ 11.3k | Go | 97/100 |
 | 12 | [dexidp/dex](./dexidp-dex.md) | ⭐ 10.8k | Go | 96/100 |
 | 13 | [prometheus-community/helm-charts](./prometheus-community-helm-charts.md) | ⭐ 6.1k | Mustache | 96/100 |
-| 14 | [ntop/ntopng](./ntop-ntopng.md) | ⭐ 7.7k | Lua | 96/100 |
-| 15 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 8.9k | Go | 96/100 |
-| 16 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 96/100 |
+| 14 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 96/100 |
+| 15 | [ntop/ntopng](./ntop-ntopng.md) | ⭐ 7.7k | Lua | 96/100 |
+| 16 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 8.9k | Go | 96/100 |
 | 17 | [angular/components](./angular-components.md) | ⭐ 25k | TypeScript | 95/100 |
 | 18 | [prometheus-operator/prometheus-operator](./prometheus-operator-prometheus-operator.md) | ⭐ 9.9k | Go | 95/100 |
 | 19 | [hashicorp/terraform-provider-aws](./hashicorp-terraform-provider-aws.md) | ⭐ 10.9k | Go | 94/100 |
@@ -53,41 +53,42 @@
 | 43 | [Telmate/terraform-provider-proxmox](./telmate-terraform-provider-proxmox.md) | ⭐ 2.9k | Go | 69/100 |
 | 44 | [kubernetes-sigs/aws-ebs-csi-driver](./kubernetes-sigs-aws-ebs-csi-driver.md) | ⭐ 1.1k | Go | 67/100 |
 | 45 | [ceph/ceph-csi](./ceph-ceph-csi.md) | ⭐ 1.5k | Go | 66/100 |
-| 46 | [phusion/passenger-docker](./phusion-passenger-docker.md) | ⭐ 2.8k | Shell | 66/100 |
-| 47 | [open-telemetry/opentelemetry-operator](./open-telemetry-opentelemetry-operator.md) | ⭐ 1.7k | Go | 66/100 |
+| 46 | [open-telemetry/opentelemetry-operator](./open-telemetry-opentelemetry-operator.md) | ⭐ 1.7k | Go | 66/100 |
+| 47 | [phusion/passenger-docker](./phusion-passenger-docker.md) | ⭐ 2.8k | Shell | 66/100 |
 | 48 | [pingcap/tidb-operator](./pingcap-tidb-operator.md) | ⭐ 1.3k | Go | 65/100 |
 | 49 | [aws-controllers-k8s/community](./aws-controllers-k8s-community.md) | ⭐ 2.6k | — | 65/100 |
 | 50 | [ovn-kubernetes/ovn-kubernetes](./ovn-kubernetes-ovn-kubernetes.md) | ⭐ 1k | Go | 64/100 |
 | 51 | [root-gg/plik](./root-gg-plik.md) | ⭐ 1.7k | Go | 64/100 |
-| 52 | [GoogleCloudPlatform/khi](./googlecloudplatform-khi.md) | ⭐ 2k | Go | 63/100 |
-| 53 | [ssili126/tv](./ssili126-tv.md) | ⭐ 1.9k | Python | 63/100 |
-| 54 | [hackforla/website](./hackforla-website.md) | ⭐ 363 | JavaScript | 63/100 |
+| 52 | [ssili126/tv](./ssili126-tv.md) | ⭐ 1.9k | Python | 63/100 |
+| 53 | [hackforla/website](./hackforla-website.md) | ⭐ 363 | JavaScript | 63/100 |
+| 54 | [GoogleCloudPlatform/khi](./googlecloudplatform-khi.md) | ⭐ 2k | Go | 63/100 |
 | 55 | [cr0hn/dockerscan](./cr0hn-dockerscan.md) | ⭐ 1.5k | Go | 62/100 |
 | 56 | [kubernetes-sigs/aws-efs-csi-driver](./kubernetes-sigs-aws-efs-csi-driver.md) | ⭐ 793 | Go | 61/100 |
 | 57 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 60/100 |
 | 58 | [kimdre/doco-cd](./kimdre-doco-cd.md) | ⭐ 1.3k | Go | 60/100 |
 | 59 | [opensearch-project/opensearch-k8s-operator](./opensearch-project-opensearch-k8s-operator.md) | ⭐ 541 | Go | 59/100 |
 | 60 | [keycloak/terraform-provider-keycloak](./keycloak-terraform-provider-keycloak.md) | ⭐ 917 | Go | 58/100 |
-| 61 | [hookdeck/outpost](./hookdeck-outpost.md) | ⭐ 935 | Go | 57/100 |
+| 61 | [hookdeck/outpost](./hookdeck-outpost.md) | ⭐ 937 | Go | 57/100 |
 | 62 | [aliyun/terraform-provider-alicloud](./aliyun-terraform-provider-alicloud.md) | ⭐ 653 | Go | 57/100 |
 | 63 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 471 | JavaScript | 56/100 |
 | 64 | [kubernetes/org](./kubernetes-org.md) | ⭐ 287 | Go | 56/100 |
-| 65 | [frappe/press](./frappe-press.md) | ⭐ 503 | Python | 56/100 |
-| 66 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
-| 67 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 896 | Go | 56/100 |
+| 65 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
+| 66 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 896 | Go | 56/100 |
+| 67 | [frappe/press](./frappe-press.md) | ⭐ 503 | Python | 56/100 |
 | 68 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.3k | TypeScript | 55/100 |
 | 69 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 55/100 |
-| 70 | [topolvm/topolvm](./topolvm-topolvm.md) | ⭐ 1.1k | Go | 54/100 |
-| 71 | [argoproj-labs/gitops-promoter](./argoproj-labs-gitops-promoter.md) | ⭐ 443 | Go | 54/100 |
-| 72 | [pegasystems/pega-helm-charts](./pegasystems-pega-helm-charts.md) | ⭐ 141 | Go | 54/100 |
-| 73 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 395 | Go | 53/100 |
-| 74 | [terraform-provider-openstack/terraform-provider-openstack](./terraform-provider-openstack-terraform-provider-openstack.md) | ⭐ 468 | Go | 53/100 |
-| 75 | [SlinkyProject/slurm-operator](./slinkyproject-slurm-operator.md) | ⭐ 282 | Go | 53/100 |
-| 76 | [stolostron/multicluster-observability-operator](./stolostron-multicluster-observability-operator.md) | ⭐ 140 | Go | 52/100 |
-| 77 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
-| 78 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 933 | Dockerfile | 48/100 |
-| 79 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 42/100 |
-| 80 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
+| 70 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 629 | PHP | 54/100 |
+| 71 | [topolvm/topolvm](./topolvm-topolvm.md) | ⭐ 1.1k | Go | 54/100 |
+| 72 | [argoproj-labs/gitops-promoter](./argoproj-labs-gitops-promoter.md) | ⭐ 443 | Go | 54/100 |
+| 73 | [pegasystems/pega-helm-charts](./pegasystems-pega-helm-charts.md) | ⭐ 141 | Go | 54/100 |
+| 74 | [SlinkyProject/slurm-operator](./slinkyproject-slurm-operator.md) | ⭐ 282 | Go | 53/100 |
+| 75 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 395 | Go | 53/100 |
+| 76 | [terraform-provider-openstack/terraform-provider-openstack](./terraform-provider-openstack-terraform-provider-openstack.md) | ⭐ 468 | Go | 53/100 |
+| 77 | [stolostron/multicluster-observability-operator](./stolostron-multicluster-observability-operator.md) | ⭐ 140 | Go | 52/100 |
+| 78 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
+| 79 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 934 | Dockerfile | 49/100 |
+| 80 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 42/100 |
+| 81 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
 
 ---
 

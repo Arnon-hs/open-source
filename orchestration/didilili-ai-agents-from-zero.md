@@ -27,7 +27,7 @@ Orchestration · AI/ML
 
 Here's a brief summary of the open-source project:
 
-The "AI Agents from Zero" project provides a comprehensive guide to building intelligent agents from scratch, covering a range of topics including large language models, prompt engineering, and enterprise-level deployment. This open-source resource offers a complete learning path, including practice projects, interview question banks, and a focus on industry-standard technologies such as LangChain and LangGraph. Its goal is to help developers and engineers prepare for real-world AI applications and big model development roles.
+The 'AI Agents from Zero' project is a comprehensive and open-source guide to developing intelligent AI agents, providing a structured learning path, hands-on projects, and interview preparation materials. It covers various cutting-edge technologies such as LangChain, LangGraph, Coze, and LLM, making it an ideal resource for aspiring AI/ML engineers and developers. This project aims to equip learners with the skills to deploy enterprise-level AI models and prepare them for real-world applications.
 
 ---
 

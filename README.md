@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3408** |
+| 🗂️ **Total projects** | **3502** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1302 | [Browse →](./aiml/) |
-| 📦 **Misc** | 534 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 369 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 310 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 211 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 180 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 136 | [Browse →](./crypto/) |
-| 📊 **Data** | 92 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 80 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 47 | [Browse →](./payments/) |
+| 🤖 **AI/ML** | 1344 | [Browse →](./aiml/) |
+| 📦 **Misc** | 548 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 378 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 320 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 215 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 184 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 139 | [Browse →](./crypto/) |
+| 📊 **Data** | 95 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 81 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 48 | [Browse →](./payments/) |
 | 📱 **Mobile** | 46 | [Browse →](./mobile/) |
-| 🔐 **Security** | 36 | [Browse →](./security/) |
-| 📈 **Trading** | 36 | [Browse →](./trading/) |
+| 🔐 **Security** | 37 | [Browse →](./security/) |
+| 📈 **Trading** | 37 | [Browse →](./trading/) |
 | ✨ **Design** | 13 | [Browse →](./design/) |
-| 🎯 **Product** | 11 | [Browse →](./product/) |
+| 🎯 **Product** | 12 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [trufflesecurity/trufflehog](./security/trufflesecurity-trufflehog.md) | ⭐ 25.9k | Security |
-| 2 | [redox-os/redox](./misc/redox-os-redox.md) | ⭐ 16.3k | Misc |
-| 3 | [influxdata/telegraf](./aiml/influxdata-telegraf.md) | ⭐ 16.8k | AI/ML |
-| 4 | [duplicati/duplicati](./aiml/duplicati-duplicati.md) | ⭐ 14.5k | AI/ML |
-| 5 | [photoprism/photoprism](./aiml/photoprism-photoprism.md) | ⭐ 39.6k | AI/ML |
-| 6 | [mlflow/mlflow](./orchestration/mlflow-mlflow.md) | ⭐ 25.5k | Orchestration |
-| 7 | [modelscope/ms-swift](./aiml/modelscope-ms-swift.md) | ⭐ 13.9k | AI/ML |
-| 8 | [redisson/redisson](./frontend/redisson-redisson.md) | ⭐ 24.3k | Frontend |
-| 9 | [openemr/openemr](./misc/openemr-openemr.md) | ⭐ 5.1k | Misc |
-| 10 | [WhiskeySockets/Baileys](./aiml/whiskeysockets-baileys.md) | ⭐ 9.1k | AI/ML |
+| 1 | [Jackett/Jackett](./aiml/jackett-jackett.md) | ⭐ 15.2k | AI/ML |
+| 2 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
+| 3 | [monero-project/monero](./crypto/monero-project-monero.md) | ⭐ 10.5k | Crypto |
+| 4 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 5 | [lobehub/lobehub](./orchestration/lobehub-lobehub.md) | ⭐ 75.6k | Orchestration |
+| 6 | [FlowiseAI/Flowise](./orchestration/flowiseai-flowise.md) | ⭐ 52.2k | Orchestration |
+| 7 | [opendataloader-project/opendataloader-pdf](./aiml/opendataloader-project-opendataloader-pdf.md) | ⭐ 19.2k | AI/ML |
+| 8 | [quantumlib/Cirq](./trading/quantumlib-cirq.md) | ⭐ 4.9k | Trading |
+| 9 | [streamlink/streamlink](./aiml/streamlink-streamlink.md) | ⭐ 11.4k | AI/ML |
+| 10 | [FreeCAD/FreeCAD](./misc/freecad-freecad.md) | ⭐ 30.6k | Misc |
 
 ## 🚀 How it works
 

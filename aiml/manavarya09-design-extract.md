@@ -1,6 +1,6 @@
 # Manavarya09/design-extract
 
-[![Stars](https://img.shields.io/github/stars/Manavarya09/design-extract?style=flat-square&color=yellow)](https://github.com/Manavarya09/design-extract/stargazers) [![Forks](https://img.shields.io/github/forks/Manavarya09/design-extract?style=flat-square&color=blue)](https://github.com/Manavarya09/design-extract/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Manavarya09/design-extract?style=flat-square&color=yellow)](https://github.com/Manavarya09/design-extract/stargazers) [![Forks](https://img.shields.io/github/forks/Manavarya09/design-extract?style=flat-square&color=blue)](https://github.com/Manavarya09/design-extract/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 137 |
+| 🍴 **Forks** | 139 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # growthxai/output
 
-[![Stars](https://img.shields.io/github/stars/growthxai/output?style=flat-square&color=yellow)](https://github.com/growthxai/output/stargazers) [![Forks](https://img.shields.io/github/forks/growthxai/output?style=flat-square&color=blue)](https://github.com/growthxai/output/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/growthxai/output?style=flat-square&color=yellow)](https://github.com/growthxai/output/stargazers) [![Forks](https://img.shields.io/github/forks/growthxai/output?style=flat-square&color=blue)](https://github.com/growthxai/output/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source TypeScript framework for building AI workflows and agents. Designed for Claude Code describe what you want, Claude builds it, with all the best practices already in place.
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 205 |
+| ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 6 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

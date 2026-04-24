@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Blinc is an open-source, front-end UI system that offers a declarative and reactive approach to building user interfaces. It features advanced capabilities such as state machines and GPU-accelerated rendering, allowing for high-performance and visually engaging applications. Additionally, Blinc includes spring physics animations for realistic and dynamic user interactions.
+Blinc is an open-source, front-end UI system that combines declarative and reactive principles to create interactive applications with ease. Its key features include state machines and spring physics animations that provide a robust and engaging user experience. By leveraging GPU acceleration, Blinc enables high-performance rendering and efficient resource utilization.
 
 ---
 

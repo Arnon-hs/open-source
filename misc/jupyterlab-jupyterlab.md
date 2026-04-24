@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-JupyterLab is a free, open-source computational environment that provides a flexible and interactive workspace for data science, scientific computing, and education. It offers a wide range of tools and features, including a code editor, file browser, and visualization dashboard, allowing users to work efficiently with data and code. JupyterLab is highly extensible and customizable, making it a popular choice among researchers, developers, and educators.
+JupyterLab is an open-source, web-based computational environment that provides a flexible and interactive interface for data science and scientific computing. It offers a range of features, including support for notebooks, files, and terminals, allowing users to work efficiently with various data formats and tools. With its extensible architecture, JupyterLab can be customized and extended to meet the needs of diverse scientific applications.
 
 ---
 

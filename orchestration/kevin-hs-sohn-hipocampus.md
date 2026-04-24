@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project "hipocampus":
+Here's a brief summary for the open-source project:
 
-Hipocampus is an open-source, drop-in memory harness for AI agents that simplifies setup with a single command. It features a 3-tier memory system, compaction tree, and hybrid search capabilities, making it a versatile tool for AI development. Compatible with Claude Code and OpenClaw, Hipocampus streamlines the process of building and deploying AI models.
+Hipocampus is an open-source, drop-in memory harness for AI agents, enabling efficient and scalable memory management through its 3-tier memory architecture, compaction tree, and hybrid search capabilities. This tool simplifies the setup process, requiring only a single command to get started. Hipocampus seamlessly integrates with Claude Code and OpenClaw, enhancing AI performance and flexibility.
 
 ---
 

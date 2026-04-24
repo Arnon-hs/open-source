@@ -1,6 +1,6 @@
 # refactoringhq/tolaria
 
-[![Stars](https://img.shields.io/github/stars/refactoringhq/tolaria?style=flat-square&color=yellow)](https://github.com/refactoringhq/tolaria/stargazers) [![Forks](https://img.shields.io/github/forks/refactoringhq/tolaria?style=flat-square&color=blue)](https://github.com/refactoringhq/tolaria/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/refactoringhq/tolaria?style=flat-square&color=yellow)](https://github.com/refactoringhq/tolaria/stargazers) [![Forks](https://img.shields.io/github/forks/refactoringhq/tolaria?style=flat-square&color=blue)](https://github.com/refactoringhq/tolaria/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop app to manage markdown knowledge bases
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 176 |
+| ⭐ **Stars** | 3.1k |
+| 🍴 **Forks** | 188 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

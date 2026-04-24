@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary:
+Here's a brief summary of the open-source project:
 
-The soft-ue-cli project is an open-source, Python-based CLI and UE plugin that enables real-time control of Unreal Engine using Claude Code, a powerful AI coding agent. This tool allows users to perform various actions such as spawning actors, editing blueprints, and capturing screenshots directly from the terminal. It supports both UE5 editor and packaged builds via a secure in-process HTTP bridge.
+The soft-ue-cli project is an innovative open-source tool that enables real-time control of Unreal Engine (UE) using Claude Code, a coding AI agent, through a Python CLI interface. With this tool, users can execute a wide range of actions in UE, including spawning actors, editing blueprints, and capturing screenshots, all from the terminal. It supports both UE5 editor and packaged builds via an in-process HTTP bridge.
 
 ---
 

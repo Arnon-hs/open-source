@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Ovn-kubernetes is an open-source Kubernetes networking platform designed to provide a robust and scalable networking solution for containerized applications. It integrates Open Virtual Network (OVN) with Kubernetes, enabling efficient network management, isolation, and security for containerized workloads. This platform aims to simplify Kubernetes networking and improve overall network performance and reliability.
+Ovn-kubernetes is an open-source, robust Kubernetes networking platform that enables seamless network connectivity and management within containerized environments. This project provides a scalable, high-performance networking solution that integrates with Kubernetes to simplify network configuration and operation. By utilizing ovn-kubernetes, developers can create a more efficient and streamlined networking infrastructure for their applications.
 
 ---
 

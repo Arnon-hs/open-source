@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the 'terminology' project:
+Here's a brief summary for the project:
 
-Terminology is a high-performance, open-source terminal emulator built using the Enlightenment Foundation Libraries. It offers a feature-rich and customizable experience for users, providing a seamless interaction with the terminal. With its focus on speed and efficiency, Terminology is a great alternative for those seeking a lightweight yet powerful terminal emulator.
+Terminology is a high-performance, open-source terminal emulator built on top of the Enlightenment Foundation Libraries (EFL). It offers a responsive and customizable interface for users, making it a great alternative for those seeking a more efficient and modern terminal experience. With its EFL foundation, Terminology aims to provide a seamless integration with other Enlightenment-based applications.
 
 ---
 

@@ -1,6 +1,6 @@
 # iree-org/iree
 
-[![Stars](https://img.shields.io/github/stars/iree-org/iree?style=flat-square&color=yellow)](https://github.com/iree-org/iree/stargazers) [![Forks](https://img.shields.io/github/forks/iree-org/iree?style=flat-square&color=blue)](https://github.com/iree-org/iree/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iree-org/iree?style=flat-square&color=yellow)](https://github.com/iree-org/iree/stargazers) [![Forks](https://img.shields.io/github/forks/iree-org/iree?style=flat-square&color=blue)](https://github.com/iree-org/iree/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > A retargetable MLIR-based machine learning compiler and runtime toolkit.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 892 |
+| 🍴 **Forks** | 893 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

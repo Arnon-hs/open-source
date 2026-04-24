@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The BeeAI Framework is an open-source project that enables developers to build production-ready AI agents in both Python and TypeScript, streamlining the process of creating and deploying AI solutions. This framework is categorized under Orchestration, AI/ML, and Frontend, indicating its versatility and wide range of applications. By leveraging the BeeAI Framework, users can efficiently create and manage AI agents across various platforms and languages.
+The beeai-framework is an open-source project that enables developers to build production-ready AI agents in both Python and TypeScript. This framework provides a unified interface for creating and deploying AI solutions, simplifying the process of integrating AI into various applications. By supporting multiple programming languages, beeai-framework caters to diverse development needs and promotes seamless collaboration across teams.
 
 ---
 

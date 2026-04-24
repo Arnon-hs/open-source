@@ -8,18 +8,18 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vsouza/awesome-ios](./vsouza-awesome-ios.md) | ⭐ 51.9k | Swift | 100/100 |
-| 2 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 112.8k | Rust | 100/100 |
-| 3 | [Anuken/Mindustry](./anuken-mindustry.md) | ⭐ 27.4k | Java | 100/100 |
-| 4 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.4k | C | 100/100 |
+| 1 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 112.8k | Rust | 100/100 |
+| 2 | [vsouza/awesome-ios](./vsouza-awesome-ios.md) | ⭐ 51.9k | Swift | 100/100 |
+| 3 | [immich-app/immich](./immich-app-immich.md) | ⭐ 98.5k | TypeScript | 100/100 |
+| 4 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.3k | Markdown | 100/100 |
 | 5 | [ankidroid/Anki-Android](./ankidroid-anki-android.md) | ⭐ 11k | Kotlin | 100/100 |
-| 6 | [immich-app/immich](./immich-app-immich.md) | ⭐ 98.5k | TypeScript | 100/100 |
-| 7 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.3k | Markdown | 100/100 |
+| 6 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.4k | C | 100/100 |
+| 7 | [Anuken/Mindustry](./anuken-mindustry.md) | ⭐ 27.4k | Java | 100/100 |
 | 8 | [yuliskov/SmartTube](./yuliskov-smarttube.md) | ⭐ 29.7k | Java | 99/100 |
 | 9 | [bitwarden/android](./bitwarden-android.md) | ⭐ 8.7k | Kotlin | 96/100 |
 | 10 | [firebase/flutterfire](./firebase-flutterfire.md) | ⭐ 9.2k | Dart | 95/100 |
-| 11 | [Predidit/Kazumi](./predidit-kazumi.md) | ⭐ 24.3k | Dart | 95/100 |
-| 12 | [ermaozi/get_subscribe](./ermaozi-get-subscribe.md) | ⭐ 8.9k | Python | 95/100 |
+| 11 | [ermaozi/get_subscribe](./ermaozi-get-subscribe.md) | ⭐ 8.9k | Python | 95/100 |
+| 12 | [Predidit/Kazumi](./predidit-kazumi.md) | ⭐ 24.3k | Dart | 95/100 |
 | 13 | [androidx/androidx](./androidx-androidx.md) | ⭐ 6k | Kotlin | 94/100 |
 | 14 | [offa/android-foss](./offa-android-foss.md) | ⭐ 9.9k | Python | 92/100 |
 | 15 | [facebook/fresco](./facebook-fresco.md) | ⭐ 17.1k | Java | 90/100 |
@@ -37,21 +37,21 @@
 | 27 | [nightscout/AndroidAPS](./nightscout-androidaps.md) | ⭐ 1.1k | Kotlin | 67/100 |
 | 28 | [Automattic/pocket-casts-android](./automattic-pocket-casts-android.md) | ⭐ 2.8k | Kotlin | 66/100 |
 | 29 | [Xed-Editor/Xed-Editor](./xed-editor-xed-editor.md) | ⭐ 1.9k | Java | 65/100 |
-| 30 | [ossdocumentscanner/OSS-DocumentScanner](./ossdocumentscanner-oss-documentscanner.md) | ⭐ 2k | C++ | 65/100 |
-| 31 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 1.9k | C++ | 65/100 |
+| 30 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 1.9k | C++ | 65/100 |
+| 31 | [ossdocumentscanner/OSS-DocumentScanner](./ossdocumentscanner-oss-documentscanner.md) | ⭐ 2k | C++ | 65/100 |
 | 32 | [Watfaq/clash-rs](./watfaq-clash-rs.md) | ⭐ 1.6k | Rust | 63/100 |
-| 33 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 63/100 |
-| 34 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.5k | Shell | 63/100 |
+| 33 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.5k | Shell | 63/100 |
+| 34 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 63/100 |
 | 35 | [getsentry/sentry-cocoa](./getsentry-sentry-cocoa.md) | ⭐ 1.1k | Swift | 63/100 |
 | 36 | [nextcloud/talk-android](./nextcloud-talk-android.md) | ⭐ 710 | Kotlin | 60/100 |
 | 37 | [librenms/docker](./librenms-docker.md) | ⭐ 828 | Dockerfile | 59/100 |
 | 38 | [LemmyNet/jerboa](./lemmynet-jerboa.md) | ⭐ 1.3k | Kotlin | 59/100 |
-| 39 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
-| 40 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 947 | Dart | 58/100 |
-| 41 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 755 | Kotlin | 56/100 |
-| 42 | [EmbarkStudios/cargo-about](./embarkstudios-cargo-about.md) | ⭐ 722 | Rust | 56/100 |
-| 43 | [NativeScript/android](./nativescript-android.md) | ⭐ 559 | C++ | 54/100 |
-| 44 | [Rezivure/Grid-Mobile](./rezivure-grid-mobile.md) | ⭐ 466 | Dart | 54/100 |
+| 39 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 947 | Dart | 58/100 |
+| 40 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
+| 41 | [EmbarkStudios/cargo-about](./embarkstudios-cargo-about.md) | ⭐ 722 | Rust | 56/100 |
+| 42 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 755 | Kotlin | 56/100 |
+| 43 | [Rezivure/Grid-Mobile](./rezivure-grid-mobile.md) | ⭐ 466 | Dart | 54/100 |
+| 44 | [NativeScript/android](./nativescript-android.md) | ⭐ 559 | C++ | 54/100 |
 | 45 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 561 | Rust | 54/100 |
 | 46 | [leon-cleaning-services/leon](./leon-cleaning-services-leon.md) | ⭐ 352 | Kotlin | 52/100 |
 

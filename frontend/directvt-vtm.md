@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The directvt/vtm project is an open-source, text-based desktop environment designed to provide a minimalistic and accessible computing experience. It allows users to interact with their system using a command-line interface, making it a viable option for those who prefer a more straightforward and efficient interface. This project offers a unique alternative to traditional graphical desktop environments.
+The directvt/vtm project is an open-source, text-based desktop environment that aims to provide a simple and intuitive user interface for users who prefer a minimalistic approach. This project seeks to offer a flexible and customizable environment that can be easily integrated with various command-line tools and applications. By leveraging a text-based interface, vtm aims to provide a seamless user experience for those who prefer to interact with their system through the command line.
 
 ---
 

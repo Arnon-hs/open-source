@@ -1,6 +1,6 @@
 # plainhub/plain-app
 
-[![Stars](https://img.shields.io/github/stars/plainhub/plain-app?style=flat-square&color=yellow)](https://github.com/plainhub/plain-app/stargazers) [![Forks](https://img.shields.io/github/forks/plainhub/plain-app?style=flat-square&color=blue)](https://github.com/plainhub/plain-app/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plainhub/plain-app?style=flat-square&color=yellow)](https://github.com/plainhub/plain-app/stargazers) [![Forks](https://img.shields.io/github/forks/plainhub/plain-app?style=flat-square&color=blue)](https://github.com/plainhub/plain-app/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.4k |
-| 🍴 **Forks** | 242 |
+| 🍴 **Forks** | 243 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # getpaykit/paykit
 
-[![Stars](https://img.shields.io/github/stars/getpaykit/paykit?style=flat-square&color=yellow)](https://github.com/getpaykit/paykit/stargazers) [![Forks](https://img.shields.io/github/forks/getpaykit/paykit?style=flat-square&color=blue)](https://github.com/getpaykit/paykit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getpaykit/paykit?style=flat-square&color=yellow)](https://github.com/getpaykit/paykit/stargazers) [![Forks](https://img.shields.io/github/forks/getpaykit/paykit?style=flat-square&color=blue)](https://github.com/getpaykit/paykit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The billing framework for TypeScript. Code-first products, handles Stripe, webhooks, and usage state, runs in your app.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 862 |
+| ⭐ **Stars** | 863 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

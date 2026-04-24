@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-AstraeLabs/VibraVid is an open-source project that provides a downloader for movies, TV series, and anime content. The project offers users a convenient way to access and download their favorite media from a range of sources. With its user-friendly interface and robust features, VibraVid aims to simplify the process of discovering and acquiring digital media.
+Here's a 2-3 sentence summary for the AstraeLabs/VibraVid project:
+
+VibraVid is an open-source downloader for movies, TV series, and anime. This project allows users to easily access and download their favorite content, making it a valuable resource for entertainment enthusiasts. With its frontend-focused approach and development tools, VibraVid aims to provide a user-friendly and efficient experience for its users.
 
 ---
 

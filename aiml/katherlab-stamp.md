@@ -25,7 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-STAMP (Solid Tumor Associative Modeling in Pathology) is an open-source project that utilizes AI and ML techniques to advance the field of pathology, particularly in the analysis of solid tumors. This project aims to facilitate more accurate and efficient diagnosis by developing a robust framework for associative modeling in pathology. By leveraging machine learning, STAMP seeks to improve patient outcomes and enhance the understanding of complex tumor biology.
+The STAMP project is an open-source initiative that leverages AI/ML technologies to facilitate associative modeling in the field of pathology, particularly for solid tumor analysis. By providing a robust backend infrastructure and advanced data management capabilities, STAMP aims to enhance the accuracy and efficiency of cancer diagnosis and research. This collaborative project offers a valuable resource for the medical and scientific communities to advance the understanding and treatment of solid tumors.
 
 ---
 

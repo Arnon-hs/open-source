@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 130 |
+| ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
@@ -27,7 +27,7 @@ AI/ML · Frontend · Backend
 
 Here's a brief summary for the open-source project:
 
-Intense RP Next is an open-source desktop application that enables the integration of Large Language Models (LLMs) into various platforms, including SillyTavern and other clients. This project provides an unofficial API for OpenAI-compatible LLMs, allowing for seamless proxying of their web UIs. By doing so, it facilitates a more streamlined and interactive user experience for users of these platforms.
+Intense RP Next is a desktop application and OpenAI-compatible API that enables the integration of Large Language Models (LLMs) into various clients, including SillyTavern, by proxying their web user interfaces. This project provides an unofficial integration solution for developers and users seeking to leverage LLM capabilities in their applications. By bridging the gap between LLMs and clients, Intense RP Next streamlines the development process and expands the possibilities for AI-driven experiences.
 
 ---
 

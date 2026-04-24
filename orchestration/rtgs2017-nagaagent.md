@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The RTGS2017/NagaAgent project is an open-source framework for personal assistants that enables intelligent interaction, multi-agent collaboration, and seamless tool integration. This agent framework is designed to be simple yet powerful, allowing for efficient and effective personal assistant capabilities. By leveraging orchestration, AI/ML, and dev tools, NagaAgent empowers developers to build sophisticated personal assistant solutions.
+Here's a brief summary of the RTGS2017/NagaAgent project:
+
+NagaAgent is an open-source framework for personal assistants that enables intelligent interaction, collaboration, and integration with various tools. This powerful agent framework allows for seamless communication and coordination between different agents, making it a valuable resource for developers and users alike. By leveraging AI and ML capabilities, NagaAgent facilitates the creation of sophisticated and user-friendly personal assistants.
 
 ---
 

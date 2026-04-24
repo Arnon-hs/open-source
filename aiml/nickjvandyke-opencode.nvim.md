@@ -1,6 +1,6 @@
 # nickjvandyke/opencode.nvim
 
-[![Stars](https://img.shields.io/github/stars/nickjvandyke/opencode.nvim?style=flat-square&color=yellow)](https://github.com/nickjvandyke/opencode.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/nickjvandyke/opencode.nvim?style=flat-square&color=blue)](https://github.com/nickjvandyke/opencode.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nickjvandyke/opencode.nvim?style=flat-square&color=yellow)](https://github.com/nickjvandyke/opencode.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/nickjvandyke/opencode.nvim?style=flat-square&color=blue)](https://github.com/nickjvandyke/opencode.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Integrate Neovim and OpenCode AI to stay in your flow.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, nickjvandyke/opencode.nvim, seamlessly integrates Neovim with OpenCode AI, allowing users to maintain a workflow of maximum productivity and efficiency. By leveraging the capabilities of OpenCode, this Neovim plugin enables users to harness the power of AI within their text editor, streamlining tasks and enhancing overall productivity. This integration aims to revolutionize coding experiences by merging human creativity with AI-driven insights.
+The open-source project "nickjvandyke/opencode.nvim" seamlessly integrates Neovim with OpenCode AI, empowering users to maintain their workflow efficiency by leveraging AI capabilities directly within their Neovim environment. This integration allows for streamlined coding experiences with AI-assisted suggestions and completions. By combining Neovim and OpenCode AI, developers can focus on their code with AI-powered support.
 
 ---
 

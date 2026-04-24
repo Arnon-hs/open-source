@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Flame is an open-source, self-hosted startpage for your server, empowering users to easily manage their apps and bookmarks through built-in editors. This customizable platform offers a seamless experience for users, allowing them to personalize their interface and streamline their workflow. With Flame, you can take control of your digital environment and optimize your online productivity.
+Flame is an open-source, self-hosted start page solution for your server, allowing you to easily manage applications and bookmarks through built-in editors. This project provides a user-friendly interface for organizing and customizing your web experience. With Flame, you can tailor your start page to suit your needs and preferences.
 
 ---
 

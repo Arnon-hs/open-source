@@ -1,6 +1,6 @@
 # dotnet/skills
 
-[![Stars](https://img.shields.io/github/stars/dotnet/skills?style=flat-square&color=yellow)](https://github.com/dotnet/skills/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/skills?style=flat-square&color=blue)](https://github.com/dotnet/skills/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/skills?style=flat-square&color=yellow)](https://github.com/dotnet/skills/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/skills?style=flat-square&color=blue)](https://github.com/dotnet/skills/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Repository for skills to assist AI coding agents with .NET and C#
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
