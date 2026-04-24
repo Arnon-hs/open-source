@@ -25,9 +25,7 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the eclipse-zenoh/zenoh open-source project:
-
-Zenoh is an open-source project that unifies various forms of data, including data in motion, data in-use, and data at rest, with computations. It combines traditional publish-subscribe messaging with geographically distributed storage, querying, and computation capabilities, achieving high efficiency in terms of time and space. This enables developers to build scalable and efficient data management systems that can handle complex AI/ML workloads.
+Zenoh is an open-source project that unifies data management and computation, bridging the gap between data in motion, use, and rest. It combines traditional publish/subscribe messaging with geo-distributed storage, querying, and computation capabilities, ensuring high efficiency and scalability. By leveraging zenoh, developers can build efficient and robust systems for data-intensive applications.
 
 ---
 

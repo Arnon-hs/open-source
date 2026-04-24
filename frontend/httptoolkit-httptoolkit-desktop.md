@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-HTTP Toolkit Desktop is an open-source project that provides a desktop application for the HTTP Toolkit. Built using the Electron framework, it enables users to build and distribute the HTTP Toolkit for local use. This project offers a user-friendly interface for inspecting, modifying, and debugging HTTP requests and responses.
+HTTP Toolkit Desktop is an open-source project that provides a native desktop application for HTTP Toolkit, allowing users to easily access and utilize its features on their local machine. Built using Electron, this wrapper enables seamless distribution of HTTP Toolkit across various platforms. With HTTP Toolkit Desktop, developers can enhance their HTTP debugging and testing capabilities in a user-friendly, desktop-based environment.
 
 ---
 

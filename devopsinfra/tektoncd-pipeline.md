@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Tekton Pipeline project is an open-source, cloud-native resource that enables the automation of software build, test, and deployment pipelines. It provides a flexible and scalable framework for defining and executing complex workflows, allowing developers to streamline their development and delivery processes. With Tekton Pipeline, users can create and manage robust, reusable pipelines that integrate seamlessly with various tools and platforms.
+Tekton Pipeline is an open-source cloud-native resource that enables users to create, manage, and execute CI/CD pipelines as code. It provides a flexible and scalable way to automate software delivery workflows, making it easier for developers to integrate and deploy applications across different environments. By using Tekton Pipeline, users can define and orchestrate pipeline workflows using a YAML or JSON configuration file.
 
 ---
 

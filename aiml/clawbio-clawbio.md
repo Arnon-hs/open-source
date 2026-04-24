@@ -25,7 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-ClawBio is an open-source, bioinformatics-native AI agent skill library designed for local-first and reproducible workflows. Built on top of OpenClaw, this library provides a powerful framework for developing and integrating AI-driven tools within the bioinformatics community. ClawBio aims to streamline AI application in bioinformatics by offering a robust, reproducible, and customizable platform.
+Here's a brief summary for the ClawBio project:
+
+ClawBio is an open-source, bioinformatics-native AI agent skill library designed for reproducibility and local-first operation. Built on OpenClaw, it provides a robust framework for AI and machine learning applications in the life sciences. This library enables developers to create and deploy AI-powered tools for bioinformatics tasks with ease and precision.
 
 ---
 

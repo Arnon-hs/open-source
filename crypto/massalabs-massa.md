@@ -25,7 +25,9 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Massa is an open-source project that aims to create a decentralized and scalable blockchain, enabling the widespread adoption of blockchain technology. Its architecture utilizes advanced AI/ML concepts to optimize network performance and reduce costs. By providing a robust and adaptable platform, Massa seeks to facilitate the growth of decentralized applications and services.
+Here's a brief summary for the massalabs/massa project:
+
+Massa is an open-source, decentralized blockchain project that aims to provide a scalable and efficient solution for the cryptocurrency and AI/ML industries. Built on a modular architecture, Massa enables the creation of decentralized applications (dApps) that can integrate with artificial intelligence and machine learning models. By leveraging its innovative blockchain technology, Massa seeks to revolutionize the way data is processed and secured.
 
 ---
 

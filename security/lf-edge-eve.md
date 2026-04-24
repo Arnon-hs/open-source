@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-EVE (Edge Virtualization Engine) is an open-source project designed to provide a secure and flexible edge computing platform. This project allows developers to create and manage virtualized environments on edge devices, enabling the deployment of applications and services closer to the source of data for improved performance and security. By leveraging EVE, users can build robust and scalable edge computing solutions to support various use cases in the fields of IoT, AI, and more.
+EVE (Edge Virtualization Engine) is an open-source project that provides a secure and scalable edge computing platform. Developed by the LF Edge community, it allows for the creation of virtualized environments on edge devices, enabling secure deployment and management of edge applications. EVE offers a flexible and extensible architecture for edge computing use cases, such as IoT, industrial automation, and smart cities.
 
 ---
 

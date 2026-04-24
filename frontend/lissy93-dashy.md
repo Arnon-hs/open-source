@@ -25,9 +25,7 @@ Frontend · DevOps/Infra · Design
 
 ## 📝 Summary
 
-Here's a summary of the Lissy93/dashy project:
-
-Dashy is an open-source, self-hostable personal dashboard designed to meet individual needs, featuring status-checking, customizable widgets, and a range of themes and icon packs. The platform also includes a user-friendly UI editor, making it easy to tailor the dashboard to your preferences. With its extensive range of features and customization options, Dashy is an ideal tool for users seeking a personalized and efficient way to manage their digital life.
+Dashy is a self-hostable personal dashboard that provides users with a customizable interface for tracking status, displaying widgets, and managing themes and icon packs. The project offers a user-friendly UI editor, allowing users to tailor their dashboard to suit their needs. With its extensive features, Dashy serves as a versatile tool for personalization and productivity.
 
 ---
 

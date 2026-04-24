@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Topgrade is an open-source project designed to simplify the process of upgrading various tools and dependencies across your system. It automates the task of updating packages, frameworks, and libraries, saving you time and effort. With topgrade, you can easily keep your development environment up-to-date and ensure that you're working with the latest versions of essential tools.
+Topgrade is an open-source project designed to automate the process of upgrading multiple aspects of a Rust project, including Rust itself, Cargo, and other dependencies. It simplifies the upgrade workflow, reducing the risk of conflicts and ensuring a smoother transition to newer versions. With topgrade, developers can easily keep their projects up-to-date and take advantage of the latest features and security patches.
 
 ---
 

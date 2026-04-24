@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-DebOps is an open-source project that enables users to deploy and manage a Debian-based data center with ease. This project offers a comprehensive framework for automating the setup and configuration of Debian systems, allowing users to create a fully functional data center in a streamlined and efficient manner. By leveraging DebOps, users can simplify the management of their infrastructure and focus on higher-level tasks.
+DebOps is an open-source project that provides a comprehensive platform for deploying and managing Debian-based data centers. This project allows users to create a fully functional data center environment with ease, including configuration and automation of various services and infrastructure components. By leveraging DebOps, users can streamline data center management and deployment processes.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The daily-stars-explorer project provides a deeper understanding of open-source GitHub repositories by analyzing daily star trends. It allows users to gain insights into the popularity of their favorite repositories, making it a valuable tool for developers and contributors. This project utilizes data to offer a unique perspective on the evolution of open-source projects over time.
+Here's a 2-3 sentence summary for the open-source project:
+
+The daily-stars-explorer project provides a unique perspective on popular open-source GitHub repositories by offering daily star trend insights. This tool allows users to explore the dynamic nature of repository popularity, enabling them to gain a deeper understanding of their favourite projects. By leveraging this data, developers and researchers can identify trends and patterns that inform their own projects and collaborations.
 
 ---
 

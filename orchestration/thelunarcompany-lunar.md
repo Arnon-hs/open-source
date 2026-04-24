@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The lunar project is an open-source, native MCP (Multi-Cloud Platform) gateway that provides a secure and governed entry point for agents. This solution enables seamless communication between applications and the cloud, ensuring robust security and streamlined orchestration. By leveraging lunar, developers can create scalable and efficient cloud infrastructure with enhanced governance and security controls.
+The Lunar project is an open-source, native MCP (Multi-Cloud Platform) gateway that provides a secure and governed interface for managing and orchestrating cloud resources. This agent-based gateway enables seamless integration and automation across multiple cloud environments, ensuring efficient governance and security. By leveraging Lunar, users can streamline their cloud operations and improve overall system reliability.
 
 ---
 

@@ -25,7 +25,7 @@ Data · Design
 
 ## 📝 Summary
 
-SQLRite is an open-source, embedded database written in Rust, designed to provide a simple and lightweight alternative to SQLite. Modeled after the popular SQLite database, SQLRite offers a similar interface and functionality, making it an ideal choice for applications requiring a self-contained database solution. This project leverages the efficiency and reliability of Rust to create a robust and reliable database system.
+SQLRite is an open-source, embedded database library written in Rust, modeled after the popular SQLite database system. This project aims to provide a simple and lightweight solution for storing and retrieving data in various Rust applications. By leveraging Rust's performance and concurrency capabilities, SQLRite offers a robust and efficient alternative for embedded database needs.
 
 ---
 

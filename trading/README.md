@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**33 projects** in this category.
+**34 projects** in this category.
 
 ## Projects
 
@@ -29,18 +29,19 @@
 | 19 | [amitshekhariitbhu/ai-engineering-interview-questions](./amitshekhariitbhu-ai-engineering-interview-questions.md) | ⭐ 1.2k | Markdown | 62/100 |
 | 20 | [the-momentum/open-wearables](./the-momentum-open-wearables.md) | ⭐ 1.3k | Python | 62/100 |
 | 21 | [Erudika/scoold](./erudika-scoold.md) | ⭐ 916 | Java | 60/100 |
-| 22 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 911 | Rust | 59/100 |
-| 23 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 934 | Python | 59/100 |
-| 24 | [abshare/abshare.github.io](./abshare-abshare.github.io.md) | ⭐ 976 | — | 58/100 |
-| 25 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 702 | Jupyter Notebook | 57/100 |
-| 26 | [freqtrade/technical](./freqtrade-technical.md) | ⭐ 996 | Python | 56/100 |
-| 27 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 768 | Rust | 54/100 |
-| 28 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
-| 29 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 530 | Swift | 54/100 |
-| 30 | [tolinkshare2/tolinkshare2.github.io](./tolinkshare2-tolinkshare2.github.io.md) | ⭐ 380 | — | 53/100 |
-| 31 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 382 | Python | 53/100 |
-| 32 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 52/100 |
-| 33 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 113 | Go | 51/100 |
+| 22 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 619 | Python | 59/100 |
+| 23 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 911 | Rust | 59/100 |
+| 24 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 934 | Python | 59/100 |
+| 25 | [abshare/abshare.github.io](./abshare-abshare.github.io.md) | ⭐ 976 | — | 58/100 |
+| 26 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 702 | Jupyter Notebook | 57/100 |
+| 27 | [freqtrade/technical](./freqtrade-technical.md) | ⭐ 996 | Python | 56/100 |
+| 28 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 768 | Rust | 54/100 |
+| 29 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
+| 30 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 530 | Swift | 54/100 |
+| 31 | [tolinkshare2/tolinkshare2.github.io](./tolinkshare2-tolinkshare2.github.io.md) | ⭐ 380 | — | 53/100 |
+| 32 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 382 | Python | 53/100 |
+| 33 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 52/100 |
+| 34 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 113 | Go | 51/100 |
 
 ---
 

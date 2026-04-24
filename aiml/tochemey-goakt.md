@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Tochemey/goakt is an open-source, distributed Actor/Grain framework for Golang, designed to simplify the development of scalable and concurrent systems. This framework enables developers to build high-performance applications, particularly in the realm of Artificial Intelligence and Machine Learning. By leveraging the Actor model, goakt facilitates efficient and fault-tolerant communication among distributed tasks.
+Tochemey/goakt is an open-source, distributed Actor/Grain framework designed for Golang applications. It enables developers to build scalable and concurrent systems by providing a robust and flexible architecture for distributed computing. This framework is particularly suited for use in Artificial Intelligence (AI) and Machine Learning (ML) applications that require high-performance and fault-tolerant processing.
 
 ---
 

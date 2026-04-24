@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Undici is an open-source, from-scratch HTTP/1.1 client designed specifically for Node.js. It provides a lightweight and efficient alternative to existing HTTP clients, allowing developers to send HTTP requests and receive responses with ease. This project offers a flexible and customizable solution for handling HTTP requests in Node.js applications.
+The nodejs/undici project is an open-source, high-performance HTTP/1.1 client specifically designed for Node.js applications. This client is built from the ground up to provide efficient and reliable HTTP connections, catering to the needs of modern web development. By leveraging its optimized architecture, developers can create faster and more scalable network applications.
 
 ---
 

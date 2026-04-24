@@ -25,7 +25,9 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The digitalocean/doctl project is an open-source command line interface for the DigitalOcean API, enabling users to manage their DigitalOcean resources programmatically. This tool offers a convenient and intuitive way to interact with the DigitalOcean platform, streamlining tasks such as deploying applications, managing databases, and scaling infrastructure. With doctl, users can automate and simplify their workflow, improving productivity and efficiency.
+Here is a brief summary of the digitalocean/doctl project:
+
+doctl is the official command line interface (CLI) for the DigitalOcean API, enabling users to manage their DigitalOcean resources efficiently. With doctl, developers can automate tasks, deploy applications, and scale infrastructure directly from the terminal. This open-source project streamlines DigitalOcean management, making it easier to work with their cloud services.
 
 ---
 

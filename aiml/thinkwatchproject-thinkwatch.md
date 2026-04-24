@@ -25,7 +25,7 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-The ThinkWatch project is an open-source, enterprise-grade bastion host for secure AI API access, providing unified management and control for various Large Language Models (LLMs) and AI services. It offers robust features such as Role-Based Access Control (RBAC), audit logs, rate limiting, and cost tracking for OpenAI, Anthropic, Gemini, and self-hosted LLMs. This project enables secure, scalable, and cost-effective AI infrastructure management for organizations.
+The ThinkWatch project is an open-source, enterprise-grade bastion host for secure access to AI APIs and Large Language Models (LLMs). It provides unified proxying, role-based access control, audit logging, rate limiting, and cost tracking for multiple providers, including OpenAI, Anthropic, Gemini, and self-hosted LLMs. This solution aims to streamline AI development while ensuring secure and cost-effective access to various LLM services.
 
 ---
 

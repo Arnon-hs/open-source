@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Pharo is an open-source, dynamic, and reflective programming language that supports live programming and is inspired by the Smalltalk language. It is a pure object-oriented language that enables developers to write and test code in real-time, promoting a more interactive and iterative development process. Pharo is ideal for a wide range of applications, including software development, research, and education.
+Pharo is an open-source, dynamic, and reflective programming language that supports live programming, inspired by the principles of Smalltalk. As a pure object-oriented language, it allows for seamless and interactive development, enabling programmers to modify and execute code in real-time. Pharo is ideal for rapid prototyping, software development, and research applications.
 
 ---
 

@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the AIWriteX project:
+Here's a brief summary for the AIWriteX project:
 
-AIWriteX is an open-source, all-in-one AI tool for automating content creation and management on various social media platforms, including WeChat, Douyin, and more. It aggregates trending topics, analyzes audience sentiment, and suggests popular topics, along with providing automated content generation, image creation, and editing features. The tool also supports multi-account management, article replication, and mobile control, making it a comprehensive solution for content creators and social media managers.
+AIWriteX is an open-source, full-featured AI tool for automating content creation on various social media platforms, including WeChat public accounts, Xiaohongshu, Huabiao, and Douyin. This comprehensive suite offers trend analysis, topic selection, automatic image generation, content aggregation, and AI-agnostic content detection, making content creation and publication a seamless process. With AIWriteX, users can manage multiple accounts, replicate public account templates, and even offer mobile control and novel serialization features.
 
 ---
 

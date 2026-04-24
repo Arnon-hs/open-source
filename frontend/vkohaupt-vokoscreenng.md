@@ -25,9 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here is a brief summary of the vokoscreenNG project:
-
-vokoscreenNG is a versatile, open-source screencast creator that allows users to record their screen, a selected area, or a window, with support for multiple audio sources. This powerful tool also features built-in camera capabilities, enabling users to personalize their videos. Additionally, it includes a range of useful features and tools to enhance the recording experience.
+VokoscreenNG is an open-source screencasting tool for Linux that provides a feature-rich environment for recording screen activity, audio, and video. With support for multiple audio sources, built-in camera integration, and various tools, users can create high-quality screencasts with enhanced visual effects. VokoscreenNG is available in multiple languages, making it a versatile option for users worldwide.
 
 ---
 

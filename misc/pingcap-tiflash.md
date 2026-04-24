@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the pingcap/tiflash project:
+Here's a brief summary for the pingcap/tiflash project:
 
-TiFlash is an analytical engine designed for TiDB and TiDB Cloud, offering high-performance analytics capabilities. It enables users to run complex queries and perform data analysis efficiently, making it a powerful tool for businesses and developers. With a free trial available, users can experience the benefits of TiFlash for themselves.
+TiFlash is an analytical engine designed to work alongside TiDB and TiDB Cloud, providing fast and real-time data analysis capabilities. It leverages TiDB's scalability and performance to deliver high-speed data processing, making it ideal for complex analytics and data warehousing applications. With TiFlash, users can efficiently analyze large datasets in TiDB without compromising on performance or scalability.
 
 ---
 

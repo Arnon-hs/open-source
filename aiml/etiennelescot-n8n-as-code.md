@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-n8n-as-code is an open-source project that empowers AI agents with advanced capabilities, offering 537 nodes with detailed schemas, over 7,700 templates, and Git-like syncing functionality. This project enables the creation of complex workflows using TypeScript, allowing developers to automate tasks with ease. By integrating these features, users can unlock the full potential of their AI agents and streamline their workflows.
+This open-source project, EtienneLescot/n8n-as-code, empowers AI agents with the capabilities of n8n, a workflow automation tool. It provides a comprehensive library of nodes, templates, and workflows, allowing for seamless integration and customization. With its Git-like sync functionality and TypeScript support, users can streamline their AI development and deployment processes.
 
 ---
 

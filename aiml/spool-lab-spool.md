@@ -25,7 +25,7 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-Spool is an open-source project that allows users to search a wide range of sources, including Claude Code sessions, Codex history, and GitHub stars, in a local and instant manner. This project enables users to efficiently retrieve information from various sources, making it a valuable tool for developers and AI/ML professionals. Additionally, Spool supports searching capabilities for AI agents, further expanding its potential applications.
+Spool is an open-source project that enables users to search a wide range of sources, including Claude Code sessions, Codex history, GitHub stars, and over 50 additional sources, all locally and in real-time. This allows for instant and private access to valuable information. Additionally, AI agents can also utilize the search functionality, making it a powerful tool for developers and AI researchers.
 
 ---
 

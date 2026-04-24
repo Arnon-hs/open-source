@@ -25,9 +25,9 @@ AI/ML · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the ModelTC/LightLLM project:
+Here is a brief summary for the ModelTC/LightLLM project:
 
-LightLLM is an open-source Python framework designed for efficient LLM inference and serving. Its lightweight architecture allows for easy scalability and high-speed performance, making it an ideal choice for large-scale AI applications. Built with simplicity and speed in mind, LightLLM streamlines the process of deploying and managing LLMs.
+LightLLM is an open-source, Python-based framework for Large Language Model inference and serving, designed for high-speed performance and easy scalability. This lightweight framework enables the efficient deployment of language models, making it an ideal choice for a range of applications. Its ease of use and high-speed capabilities make it a valuable resource for developers and researchers in the AI/ML community.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-MNN (Mobile Neural Network) is an open-source inference engine developed by Alibaba, designed to deliver high-performance on-device language models and edge AI applications. This lightweight engine is optimized for speed and efficiency, making it suitable for resource-constrained devices. By leveraging MNN, developers can build blazing-fast and power-efficient AI models for various edge computing scenarios.
+MNN (Mobile Neural Network) is an open-source, high-performance inference engine developed by Alibaba. It enables fast and efficient on-device processing of large language models (LLMs) and Edge AI applications. MNN's lightweight and blazing-fast architecture powers AI-driven innovation across various platforms.
 
 ---
 
