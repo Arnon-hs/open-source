@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Zentao is an open-source, free agile project management system that supports scrum methodologies. This project management tool offers users a flexible and scalable platform for managing their projects, with continuous free upgrades. It is designed to facilitate team collaboration, task management, and version control, making it an ideal solution for software development and other agile teams.
+The easysoft/zentaopms project is an open-source implementation of the Zentao project management system. This agile (Scrum) tool enables teams to manage their projects with ease and flexibility, offering a free and perpetual upgrade option. Zentao provides a comprehensive platform for project planning, tracking, and collaboration.
 
 ---
 

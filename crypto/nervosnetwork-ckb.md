@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The Nervos CKB is an open-source, public, and permissionless blockchain serving as the base layer of the Nervos network. As a decentralized platform, it enables the creation and management of digital assets, fostering a secure and transparent environment for users. By utilizing AI/ML technologies, the Nervos CKB aims to advance the scalability and usability of its blockchain ecosystem.
+The Nervos CKB is a public, permissionless blockchain that serves as the foundational layer of the Nervos network. As a decentralized platform, it enables secure and transparent transactions, providing a foundation for a wide range of applications and use cases. By leveraging AI/ML technologies, the CKB blockchain aims to improve the efficiency and scalability of its operations.
 
 ---
 

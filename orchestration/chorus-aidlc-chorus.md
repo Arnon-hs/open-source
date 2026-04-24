@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 621 |
-| 🍴 **Forks** | 55 |
+| ⭐ **Stars** | 632 |
+| 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
@@ -25,7 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Chorus is an open-source project that facilitates AI-human collaboration through an Agent Harness, inspired by the AI-Driven Development Lifecycle (AI-DLC). This orchestration tool enables seamless integration and coordination between humans and AI systems, enhancing the efficiency and effectiveness of collaborative tasks. By leveraging AI and human capabilities, Chorus aims to streamline complex workflows and drive innovation.
+Here's a brief summary for the Chorus project:
+
+Chorus is an open-source Agent Harness for AI-Human Collaboration, designed to facilitate seamless integration of artificial intelligence with human capabilities. Inspired by the AI-Driven Development Lifecycle (AI-DLC), Chorus enables efficient orchestration of AI/ML models to enhance productivity and decision-making. By bridging the gap between humans and AI, Chorus empowers collaborative workflows and intelligent automation.
 
 ---
 

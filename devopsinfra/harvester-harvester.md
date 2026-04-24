@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Harvester is an open-source Hyperconverged Infrastructure (HCI) software that streamlines the management and deployment of IT resources. It provides a unified platform for storage, compute, and networking, allowing users to deploy and manage applications efficiently. With Harvester, organizations can simplify their infrastructure and improve scalability, flexibility, and cost-effectiveness.
+Harvester is an open-source, hyperconverged infrastructure (HCI) software that simplifies the management of compute, storage, and networking resources. This project enables users to build and deploy scalable, flexible, and highly available infrastructure environments, ideal for DevOps and cloud-native applications. By harnessing the power of hyperconvergence, Harvester streamlines infrastructure management and reduces costs.
 
 ---
 

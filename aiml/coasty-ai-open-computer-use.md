@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 523 |
+| ⭐ **Stars** | 524 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The open-computer-use project is a groundbreaking, fully open-source artificial intelligence (AI) agent that enables the secure and auditable use of computers. Utilizing cutting-edge technology, this project achieves an impressive 82% verification rate from OSWorld, ensuring a high level of safety and reliability. This production-ready solution offers a novel approach to managing computer usage, promoting transparency and trust in the digital landscape.
+Here's a 2-3 sentence summary for the open-source project:
+
+The open-computer-use project is an auditable and production-ready AI-powered computer agent that provides a state-of-the-art verification system, boasting 82% OSWorld verification. This highly secure and fully open-source technology ensures safe and transparent computer usage, making it an ideal solution for various industries. With its robust frontend and backend architecture, the project offers a reliable and trustworthy AI/ML solution.
 
 ---
 

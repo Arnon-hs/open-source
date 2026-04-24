@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2580** |
+| 🗂️ **Total projects** | **2719** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 958 | [Browse →](./aiml/) |
-| 📦 **Misc** | 418 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 282 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 239 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 165 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 127 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 106 | [Browse →](./crypto/) |
-| 📊 **Data** | 72 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 60 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 39 | [Browse →](./payments/) |
+| 🤖 **AI/ML** | 1018 | [Browse →](./aiml/) |
+| 📦 **Misc** | 439 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 297 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 252 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 171 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 136 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 108 | [Browse →](./crypto/) |
+| 📊 **Data** | 77 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 62 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 40 | [Browse →](./payments/) |
 | 📱 **Mobile** | 35 | [Browse →](./mobile/) |
-| 📈 **Trading** | 29 | [Browse →](./trading/) |
-| 🔐 **Security** | 28 | [Browse →](./security/) |
-| ✨ **Design** | 10 | [Browse →](./design/) |
+| 🔐 **Security** | 31 | [Browse →](./security/) |
+| 📈 **Trading** | 30 | [Browse →](./trading/) |
+| ✨ **Design** | 11 | [Browse →](./design/) |
 | 🎯 **Product** | 10 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [firebase/firebase-js-sdk](./aiml/firebase-firebase-js-sdk.md) | ⭐ 5.1k | AI/ML |
-| 2 | [frappe/frappe](./aiml/frappe-frappe.md) | ⭐ 10k | AI/ML |
-| 3 | [Kilo-Org/kilocode](./aiml/kilo-org-kilocode.md) | ⭐ 18.5k | AI/ML |
-| 4 | [azerothcore/azerothcore-wotlk](./backend/azerothcore-azerothcore-wotlk.md) | ⭐ 8.2k | Backend |
-| 5 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.4k | AI/ML |
-| 6 | [awesome-foss/awesome-sysadmin](./misc/awesome-foss-awesome-sysadmin.md) | ⭐ 33.7k | Misc |
-| 7 | [cube-js/cube](./aiml/cube-js-cube.md) | ⭐ 19.8k | AI/ML |
-| 8 | [flameshot-org/flameshot](./frontend/flameshot-org-flameshot.md) | ⭐ 29.8k | Frontend |
-| 9 | [mickael-kerjean/filestash](./data/mickael-kerjean-filestash.md) | ⭐ 14.1k | Data |
-| 10 | [juicedata/juicefs](./aiml/juicedata-juicefs.md) | ⭐ 13.5k | AI/ML |
+| 1 | [doocs/md](./aiml/doocs-md.md) | ⭐ 12.4k | AI/ML |
+| 2 | [argoproj/argo-workflows](./aiml/argoproj-argo-workflows.md) | ⭐ 16.6k | AI/ML |
+| 3 | [koodo-reader/koodo-reader](./aiml/koodo-reader-koodo-reader.md) | ⭐ 26.7k | AI/ML |
+| 4 | [vectordotdev/vector](./aiml/vectordotdev-vector.md) | ⭐ 21.7k | AI/ML |
+| 5 | [owncast/owncast](./misc/owncast-owncast.md) | ⭐ 11.2k | Misc |
+| 6 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](./aiml/youmind-openlab-awesome-nano-banana-pro-prompts.md) | ⭐ 11.5k | AI/ML |
+| 7 | [wilsonfreitas/awesome-quant](./trading/wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | Trading |
+| 8 | [ray-project/ray](./aiml/ray-project-ray.md) | ⭐ 42.3k | AI/ML |
+| 9 | [firebase/firebase-js-sdk](./aiml/firebase-firebase-js-sdk.md) | ⭐ 5.1k | AI/ML |
+| 10 | [frappe/frappe](./aiml/frappe-frappe.md) | ⭐ 10k | AI/ML |
 
 ## 🚀 How it works
 

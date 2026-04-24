@@ -25,7 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-JuiceFS is an open-source, distributed POSIX file system that leverages Redis and S3 to provide a scalable and high-performance storage solution. This innovative file system is suitable for various applications, including AI/ML, frontend development, and data storage. By utilizing Redis and S3, JuiceFS offers a flexible and fault-tolerant architecture for storing and managing large datasets.
+JuiceFS is an open-source, distributed POSIX file system designed for scalable and high-performance storage of large datasets. Built on top of Redis and S3, it enables collaborative data sharing and efficient data processing across multiple nodes and environments. This makes JuiceFS a suitable choice for AI/ML, data science, and large-scale data analytics applications.
 
 ---
 

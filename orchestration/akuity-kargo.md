@@ -25,9 +25,9 @@ Orchestration · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the akuity/kargo project:
+Here's a 2-3 sentence summary for the akuity/kargo project:
 
-Kargo is an open-source project that offers application lifecycle orchestration, streamlining the process of deploying, managing, and scaling applications. This project aims to simplify the complex tasks involved in application lifecycle management, making it easier for developers and DevOps teams to work efficiently. By providing a unified platform for orchestration, Kargo enables teams to focus on delivering high-quality applications while reducing operational overhead.
+Kargo is an open-source application lifecycle orchestration tool that streamlines the development, deployment, and management of applications. It provides a unified platform for front-end and back-end orchestration, making it an ideal solution for DevOps and infrastructure teams. By automating application lifecycle processes, Kargo enables teams to work more efficiently and reduce the complexity of modern software development.
 
 ---
 

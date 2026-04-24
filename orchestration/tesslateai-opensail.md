@@ -27,7 +27,7 @@ Orchestration · AI/ML · Frontend
 
 Here's a brief summary for the OpenSail project:
 
-OpenSail is an open-source platform that enables users to build, deploy, and share AI workspace agents and applications using any machine learning model, whether hosted locally or in the cloud. This flexible and decentralized platform provides users with complete control and freedom from vendor lock-in. With OpenSail, developers can create custom AI solutions without being tied to a specific provider or technology stack.
+OpenSail is an open-source platform that empowers users to build, deploy, and share AI workspace agents and apps without vendor lock-in. This flexible platform supports integration with any AI model, whether hosted locally or in the cloud, enabling seamless collaboration and innovation. By providing a self-hosted and cloud-agnostic environment, OpenSail fosters a community-driven ecosystem for AI development and deployment.
 
 ---
 

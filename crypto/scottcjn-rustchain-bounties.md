@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 130 |
+| ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The RustChain Bounties project offers contributors the opportunity to earn RTC crypto by participating in the RustChain ecosystem. Through various activities such as coding, writing tutorials, and identifying bugs, individuals can earn bounties ranging from 1 to 150 RTC. This platform allows developers to engage with the RustChain community and contribute to its growth while earning a reward.
+The RustChain-bounties project is an open-source initiative that rewards contributors with RTC cryptocurrency for participating in the RustChain ecosystem. Users can earn bounties ranging from 1 to 150 RTC tokens by engaging in various activities such as coding, writing tutorials, and identifying bugs. This project combines cryptocurrency with community involvement, promoting collaboration and innovation in AI and machine learning.
 
 ---
 

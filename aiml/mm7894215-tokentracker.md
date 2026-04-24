@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 289 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 292 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The TokenTracker is an open-source project that provides a local-first, zero-config solution for tracking the usage of various AI and ML tokens, including Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, OpenClaw, and Every Code. This project features a beautiful dashboard, a native macOS menu bar app, and four desktop widgets, making it a user-friendly and convenient tool for developers to monitor their token usage. By utilizing TokenTracker, developers can gain valuable insights into the performance of their AI and ML models.
+Here's a 2-3 sentence summary for the open-source project:
+
+TokenTracker is an open-source, local-first tool designed to track token usage across multiple AI models, including Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, OpenClaw, and Every Code. With its zero-configuration setup, users can access a beautiful dashboard and monitor token usage through a native macOS menu bar app and 4 desktop widgets. This DevTools project streamlines AI model tracking for developers and users alike.
 
 ---
 

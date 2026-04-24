@@ -25,7 +25,9 @@ AI/ML · Design
 
 ## 📝 Summary
 
-Beikeshop is a free and open-source eCommerce platform built on Laravel, offering a user-friendly interface and robust features. This platform supports multiple languages and currencies, and integrates AI agents to enhance its capabilities. With a focus on customization and scalability, Beikeshop allows users to create a tailored online store with a rich marketplace of plugins and a visually appealing design.
+Here is a brief summary for the beikeshop project:
+
+Beikeshop is a free and open-source, easy-to-use Laravel e-commerce platform that supports multiple languages and currencies, integrating AI-powered agents for enhanced functionality. This customizable platform features a rich marketplace with a variety of plugins, allowing users to tailor their online store to suit their needs. With its flexible design and advanced AI capabilities, Beikeshop provides a versatile e-commerce solution for businesses of all sizes.
 
 ---
 

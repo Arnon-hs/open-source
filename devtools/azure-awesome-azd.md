@@ -25,9 +25,7 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The Azure Developer CLI awesome list ("awesome-azd") is an open-source repository that aggregates high-quality resources and templates for developers using the Azure Developer CLI (`azd`). This curated collection includes articles, videos, tutorials, and documentation to help users get started and stay up-to-date with the latest `azd` features and best practices. Additionally, the project hosts an azd-templates Gallery for streamlined search and discovery of pre-built templates.
+The Azure/awesome-azd project is an open-source collection of curated resources for the Azure Developer CLI (`azd`). This repository aggregates articles, videos, tutorials, and documentation to help users get started and become proficient in utilizing `azd`. Additionally, it includes a hosted gallery of `azd` templates for easy discovery and implementation.
 
 ---
 

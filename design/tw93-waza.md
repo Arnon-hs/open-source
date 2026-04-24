@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 233 |
+| 🍴 **Forks** | 235 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
@@ -25,7 +25,7 @@ Design
 
 ## 📝 Summary
 
-Waza is an open-source project that aims to codify and automate engineering habits into actionable skills. By leveraging the power of Claude, a conversational AI platform, Waza seeks to bridge the gap between theoretical knowledge and practical application. This project enables users to transform existing engineering habits into tangible skills that can be executed seamlessly.
+Waza is an open-source project that translates engineering habits into skills that can be executed by Claude, a language model. This project utilizes existing knowledge and combines it with Claude's capabilities, aiming to enhance design processes. By leveraging Claude's functionality, Waza seeks to streamline design workflows and improve productivity.
 
 ---
 

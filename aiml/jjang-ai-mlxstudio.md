@@ -1,6 +1,6 @@
 # jjang-ai/mlxstudio
 
-[![Stars](https://img.shields.io/github/stars/jjang-ai/mlxstudio?style=flat-square&color=yellow)](https://github.com/jjang-ai/mlxstudio/stargazers) [![Forks](https://img.shields.io/github/forks/jjang-ai/mlxstudio?style=flat-square&color=blue)](https://github.com/jjang-ai/mlxstudio/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jjang-ai/mlxstudio?style=flat-square&color=yellow)](https://github.com/jjang-ai/mlxstudio/stargazers) [![Forks](https://img.shields.io/github/forks/jjang-ai/mlxstudio?style=flat-square&color=blue)](https://github.com/jjang-ai/mlxstudio/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > MLX Studio - Home of JANG_Q - Image Gen/Edit + Chat/Code All in one - + OpenClaw (Anthropic API)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 563 |
+| ⭐ **Stars** | 568 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

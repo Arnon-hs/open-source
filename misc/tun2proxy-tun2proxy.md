@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The tun2proxy project is an open-source tool that enables the creation of a TUN interface, allowing users to tunnel network traffic through SOCKS and HTTP proxies. This solution provides a flexible and versatile way to bypass network restrictions and access external resources securely. By utilizing tun2proxy, users can establish a secure and reliable connection to remote networks and services.
+Here's a brief summary for the tun2proxy open-source project:
+
+tun2proxy is an open-source project that enables the creation of a TUN interface for SOCKS and HTTP proxies. This allows users to route internet traffic through a proxy server, providing an additional layer of security and anonymity. By doing so, tun2proxy enables seamless integration of proxies with various network applications and systems.
 
 ---
 

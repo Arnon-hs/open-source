@@ -25,7 +25,9 @@ Frontend · DevTools · Design
 
 ## 📝 Summary
 
-Neon-Vision-Editor is a lightweight and modern macOS code editor designed for speed and simplicity. It prioritizes quick edits, fast file access, and automatic syntax highlighting, making it an ideal choice for developers and designers who value readability and efficiency. This open-source editor provides a minimalistic approach to coding, perfect for those seeking a streamlined development experience.
+Here's a brief summary of the Neon-Vision-Editor project:
+
+Neon-Vision-Editor is an open-source, lightweight code editor designed specifically for macOS. Built for speed and simplicity, it offers a clutter-free interface that prioritizes readability and automatic syntax highlighting. Ideal for quick edits and fast file access, this minimalistic editor streamlines the coding experience.
 
 ---
 

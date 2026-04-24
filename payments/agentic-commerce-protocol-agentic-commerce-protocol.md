@@ -25,7 +25,7 @@ Payments · AI/ML
 
 ## 📝 Summary
 
-The Agentic Commerce Protocol (ACP) is an open standard that enables seamless interactions between buyers, their AI agents, and businesses to facilitate smooth purchases. Maintained by OpenAI and Stripe, this protocol leverages AI and ML to simplify the buying process. By standardizing connections between buyers and businesses, ACP aims to create a more efficient and AI-driven commerce ecosystem.
+The Agentic Commerce Protocol (ACP) is an open standard that enables seamless interactions between buyers, their AI agents, and businesses to facilitate smooth purchases. Developed by OpenAI and Stripe, ACP provides an interaction model for connecting various stakeholders in e-commerce. This protocol aims to simplify the buying process by leveraging AI and machine learning capabilities.
 
 ---
 

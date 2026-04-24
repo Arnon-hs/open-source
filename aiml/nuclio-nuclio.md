@@ -1,6 +1,6 @@
 # nuclio/nuclio
 
-[![Stars](https://img.shields.io/github/stars/nuclio/nuclio?style=flat-square&color=yellow)](https://github.com/nuclio/nuclio/stargazers) [![Forks](https://img.shields.io/github/forks/nuclio/nuclio?style=flat-square&color=blue)](https://github.com/nuclio/nuclio/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nuclio/nuclio?style=flat-square&color=yellow)](https://github.com/nuclio/nuclio/stargazers) [![Forks](https://img.shields.io/github/forks/nuclio/nuclio?style=flat-square&color=blue)](https://github.com/nuclio/nuclio/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
 > High-Performance Serverless event and data processing platform
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.7k |
-| 🍴 **Forks** | 566 |
+| 🍴 **Forks** | 567 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 93/100 |
+| 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

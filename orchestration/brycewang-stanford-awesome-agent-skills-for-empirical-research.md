@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 265 |
-| 🍴 **Forks** | 66 |
+| ⭐ **Stars** | 270 |
+| 🍴 **Forks** | 68 |
 | 💻 **Language** | Stata |
 | 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a 3-sentence summary for the open-source project:
+Here's a brief summary of the project:
 
-The Awesome-Agent-Skills-for-Empirical-Research project is an extensive, open-source collection of over 23,000 AI agent skills covering 8 social science disciplines. This curated library enables researchers to efficiently conduct empirical studies and reproduce results, with support for uploading custom skills. Maintained by CoPaper.AI from Stanford REAP, the project facilitates reproducible research in empirical studies.
+This open-source collection, Awesome-Agent-Skills-for-Empirical-Research, contains over 23,000 AI agent skills covering 8 social science disciplines, providing researchers with a comprehensive resource for empirical studies. Maintained by CoPaper.AI from Stanford REAP, the project facilitates reproducible and standardized empirical research, allowing users to upload their own skills. The collection is categorized under Orchestration and AI/ML, supporting collaborative and efficient research workflows.
 
 ---
 

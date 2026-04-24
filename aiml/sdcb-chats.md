@@ -1,6 +1,6 @@
 # sdcb/chats
 
-[![Stars](https://img.shields.io/github/stars/sdcb/chats?style=flat-square&color=yellow)](https://github.com/sdcb/chats/stargazers) [![Forks](https://img.shields.io/github/forks/sdcb/chats?style=flat-square&color=blue)](https://github.com/sdcb/chats/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sdcb/chats?style=flat-square&color=yellow)](https://github.com/sdcb/chats/stargazers) [![Forks](https://img.shields.io/github/forks/sdcb/chats?style=flat-square&color=blue)](https://github.com/sdcb/chats/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful and flexible frontend & AI gateway for large language models, supporting 21+ mainstream AI model providers.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 571 |
-| 🍴 **Forks** | 99 |
+| ⭐ **Stars** | 572 |
+| 🍴 **Forks** | 100 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

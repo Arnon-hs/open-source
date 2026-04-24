@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The MongoDB Go Driver is an open-source, official client library for interacting with MongoDB databases from Go applications. It provides a comprehensive set of features for connecting to MongoDB servers, executing queries, and managing database operations. This driver enables developers to easily integrate MongoDB into their Go-based projects, streamlining data storage and retrieval.
+The mongodb/mongo-go-driver is an open-source, official Golang driver for MongoDB, providing a comprehensive interface to interact with MongoDB databases. It enables developers to execute CRUD operations, manage database connections, and leverage MongoDB's advanced features in their Go-based applications. This driver ensures seamless integration with MongoDB, facilitating efficient data storage and retrieval.
 
 ---
 

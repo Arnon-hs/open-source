@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-Kanidm is an open-source identity management platform designed to provide simple, secure, and fast identity management solutions. It offers a comprehensive suite of features to manage user identities, groups, and permissions, ensuring robust security and scalability. By leveraging Kanidm, organizations can streamline their identity management processes and enhance their overall security posture.
+Kanidm is a free, open-source identity management platform that prioritizes security, speed, and simplicity. This comprehensive system enables organizations to manage user identities efficiently while maintaining robust security features to protect sensitive information. By utilizing Kanidm, businesses can streamline their identity management processes and reduce the risk of data breaches.
 
 ---
 

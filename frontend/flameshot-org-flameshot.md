@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Flameshot is a user-friendly, open-source screenshot software that offers a powerful set of features for capturing and editing screenshots. With its simple and intuitive interface, users can easily take and annotate screenshots, making it a popular choice among individuals and professionals alike. This frontend-focused project provides a seamless screenshot experience.
+Flameshot is a powerful and user-friendly open-source screenshot software that allows users to capture, edit, and share images of their desktop with ease. Its intuitive interface and robust features make it a popular choice among those who need to take screenshots quickly and efficiently. With Flameshot, users can annotate, crop, and share screenshots with just a few clicks.
 
 ---
 

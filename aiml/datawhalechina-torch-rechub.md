@@ -25,7 +25,9 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The torch-rechub project is an open-source, PyTorch-based framework for building recommendation models. Designed to be user-friendly and highly extensible, it provides a flexible platform for developing and deploying recommendation systems. This framework aims to simplify the process of creating and customizing recommendation models for various applications.
+Here's a brief summary for the project:
+
+Torch-Rechub is an open-source, PyTorch-based framework for building recommendation models. It provides a simple and extensible architecture, making it easy to develop and deploy recommendation systems. This framework aims to accelerate the development of high-quality recommendation models for various applications.
 
 ---
 

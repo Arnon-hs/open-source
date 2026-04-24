@@ -25,7 +25,7 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Exograph is an open-source project that enables developers to rapidly build production-ready backends. With Exograph, teams can streamline their backend development process, reducing the time it takes to deploy scalable and reliable applications. By leveraging this tool, developers can focus on writing code rather than worrying about infrastructure setup and maintenance.
+Exograph is an open-source project that enables developers to rapidly build production-ready backends in a matter of minutes. By streamlining the backend development process, Exograph aims to reduce the complexity and time required to deploy scalable and efficient applications. This project is ideal for developers seeking to accelerate their backend development workflow.
 
 ---
 

@@ -27,7 +27,7 @@ AI/ML
 
 Here's a brief summary of the gpustack project:
 
-gpustack is an open-source GPU cluster manager designed to optimize high-performance AI model deployment. It configures and orchestrates inference engines such as vLLM and SGLang, enabling efficient and scalable deployment of AI workloads. By streamlining GPU resource management, gpustack accelerates AI model inference and unlocks faster time-to-insights for data-driven applications.
+gpustack is an open-source GPU cluster manager that optimizes the deployment of AI models by configuring and orchestrating inference engines like vLLM and SGLang. This tool enables high-performance AI model deployment by efficiently utilizing GPU resources, making it ideal for large-scale machine learning applications. By streamlining the process, gpustack simplifies the management of complex AI workflows.
 
 ---
 

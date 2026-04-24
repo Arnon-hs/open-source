@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-UZDoom is an open-source port of the Doom engine, offering a feature-rich experience with advanced rendering capabilities. Based on the GZDoom engine, it provides powerful scripting capabilities and a high level of customization. This versatile port supports all Doom engine games, allowing users to play and mod a wide range of classic titles.
+UZDoom is a feature-rich, open-source port of the classic Doom engine, built upon the foundation of GZDoom. This project offers advanced rendering capabilities and powerful scripting tools, allowing users to create immersive and customized gaming experiences. By leveraging GZDoom's capabilities, UZDoom provides an extensive platform for modders and developers to create engaging content.
 
 ---
 

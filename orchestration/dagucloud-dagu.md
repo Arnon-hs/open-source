@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Dagu is a self-hosted workflow engine that enables users to manage and automate various tasks, including scripts, cron jobs, containers, and operational processes. It features a YAML-based workflow configuration, supports retries, logging, and approvals, and can also integrate with distributed workers for scalable automation. With Dagu, teams can streamline their workflows and operations, reducing manual effort and increasing efficiency.
+Dagu is a self-hosted workflow engine that enables users to automate scripts, cron jobs, containers, and operations tasks through YAML-based workflows. With features like retries, logs, approvals, and optional distributed workers, Dagu provides a flexible and scalable solution for workflow automation. This open-source project caters to various use cases, including AI/ML and DevTools, making it an attractive choice for organizations seeking a customized workflow management system.
 
 ---
 

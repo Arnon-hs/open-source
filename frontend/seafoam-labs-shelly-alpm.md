@@ -25,9 +25,9 @@ Frontend · DevTools · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the Shelly-ALPM project:
+Here's a brief summary of the project:
 
-Shelly-ALPM is an open-source, user-centric alternative to the traditional Pacman package manager for Arch Linux. Designed with user experience in mind, this frontend application aims to simplify package management for Arch Linux users. By providing an intuitive interface, Shelly-ALPM seeks to enhance the overall user experience for those using the popular Linux distribution.
+Shelly-ALPM is an open-source Pacman alternative designed specifically for ArchLinux users. This project aims to provide a user-centric experience by making package management more intuitive and accessible. With a focus on frontend development, design, and DevTools, Shelly-ALPM offers a fresh and modern approach to package management on ArchLinux.
 
 ---
 

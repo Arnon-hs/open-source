@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the NVDA project:
-
-NVDA (NonVisual Desktop Access) is a free and open-source screen reader for Microsoft Windows that enables visually impaired individuals to navigate and interact with their computers more independently. This software provides a voice-based interface, reading aloud text, menus, and other screen elements to provide a comprehensive accessibility experience. NVDA is highly customizable and supports a wide range of languages, making it an essential tool for individuals with visual impairments.
+NVDA is a free and open-source screen reader software for Microsoft Windows, providing visually impaired users with equal access to digital information. This accessible tool offers a range of features, including text-to-speech functionality, screen navigation, and support for various input devices. By promoting equal opportunities for the visually impaired, NVDA empowers users to fully participate in the digital world.
 
 ---
 

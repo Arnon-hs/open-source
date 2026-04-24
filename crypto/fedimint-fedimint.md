@@ -25,7 +25,7 @@ Crypto
 
 ## 📝 Summary
 
-Fedimint is an open-source, federated e-cash mint project designed to facilitate secure and decentralized financial transactions. It enables the creation and management of digital cash, allowing users to send and receive funds without revealing their identities or transaction details. By leveraging a decentralized architecture, Fedimint aims to provide a more private and trustworthy alternative to traditional payment systems.
+Fedimint is an open-source project that enables secure and decentralized e-cash transactions through a federated system. This cryptographic solution allows users to mint and manage digital currencies, promoting financial privacy and security. By leveraging a decentralized architecture, Fedimint fosters trustless transactions without relying on intermediaries.
 
 ---
 

@@ -8,11 +8,11 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.3k | Markdown | 100/100 |
-| 2 | [immich-app/immich](./immich-app-immich.md) | ⭐ 98.5k | TypeScript | 100/100 |
+| 1 | [immich-app/immich](./immich-app-immich.md) | ⭐ 98.5k | TypeScript | 100/100 |
+| 2 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.3k | Markdown | 100/100 |
 | 3 | [Anuken/Mindustry](./anuken-mindustry.md) | ⭐ 27.4k | Java | 100/100 |
 | 4 | [ankidroid/Anki-Android](./ankidroid-anki-android.md) | ⭐ 11k | Kotlin | 100/100 |
-| 5 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.3k | C | 100/100 |
+| 5 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.4k | C | 100/100 |
 | 6 | [yuliskov/SmartTube](./yuliskov-smarttube.md) | ⭐ 29.7k | Java | 99/100 |
 | 7 | [bitwarden/android](./bitwarden-android.md) | ⭐ 8.7k | Kotlin | 96/100 |
 | 8 | [firebase/flutterfire](./firebase-flutterfire.md) | ⭐ 9.2k | Dart | 95/100 |
@@ -37,12 +37,12 @@
 | 27 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.5k | Shell | 63/100 |
 | 28 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 63/100 |
 | 29 | [nextcloud/talk-android](./nextcloud-talk-android.md) | ⭐ 710 | Kotlin | 60/100 |
-| 30 | [LemmyNet/jerboa](./lemmynet-jerboa.md) | ⭐ 1.3k | Kotlin | 59/100 |
-| 31 | [librenms/docker](./librenms-docker.md) | ⭐ 828 | Dockerfile | 59/100 |
-| 32 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
-| 33 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 947 | Dart | 58/100 |
-| 34 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 750 | Kotlin | 56/100 |
-| 35 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 559 | Rust | 54/100 |
+| 30 | [librenms/docker](./librenms-docker.md) | ⭐ 828 | Dockerfile | 59/100 |
+| 31 | [LemmyNet/jerboa](./lemmynet-jerboa.md) | ⭐ 1.3k | Kotlin | 59/100 |
+| 32 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 946 | Dart | 58/100 |
+| 33 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
+| 34 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 751 | Kotlin | 56/100 |
+| 35 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 560 | Rust | 54/100 |
 
 ---
 

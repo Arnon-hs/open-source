@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the nanocoder project:
-
-Nanocoder is a local-first coding agent designed to enhance the coding experience in the terminal. Built by and for the community, this open-source project utilizes AI and ML capabilities to streamline development workflows and improve productivity. With its beautiful interface, nanocoder aims to simplify coding while fostering community collaboration and innovation.
+Nano-Collective's nanocoder is an open-source, local-first coding agent designed to run within a terminal, providing a community-driven solution for developers. This project combines AI/ML and frontend technologies to offer a streamlined coding experience. It aims to empower users through a collaborative and accessible coding environment.
 
 ---
 
