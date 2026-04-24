@@ -25,7 +25,7 @@ Orchestration · AI/ML · Product
 
 ## 📝 Summary
 
-Rowboat is an open-source AI coworker that enables users to leverage AI and machine learning capabilities within a collaborative framework. This project provides a memory-based interface for seamless integration and development of AI-driven applications. By utilizing Rowboat, developers can create and manage AI-powered workflows and products.
+Rowboat is an open-source, AI-powered coworking platform that enables users to build and interact with custom AI models, leveraging a robust memory system for context retention and decision-making. This collaborative tool facilitates seamless integration of machine learning capabilities, making it an ideal solution for developers, researchers, and enterprises seeking to unlock the full potential of AI. By providing a flexible and scalable framework, Rowboat empowers users to create sophisticated AI applications with ease.
 
 ---
 

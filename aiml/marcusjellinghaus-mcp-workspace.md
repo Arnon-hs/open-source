@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The MCP Workspace Server is an open-source project that offers a secure and sandboxed environment for AI assistants to interact with project files, version control systems, and GitHub repositories. It provides a centralized platform for AI tools to access and manipulate project data, ensuring a secure and isolated development workflow. This project is designed to facilitate seamless collaboration between AI assistants and developers.
+The MCP Workspace Server is an open-source project that provides a secure, sandboxed environment for AI assistants to interact with project directories, offering file, Git, and GitHub tools. This server enables AI assistants to efficiently manage project files and collaborate with developers within a controlled, secure space. By leveraging the Model Context Protocol, it facilitates seamless integration with AI models and tools.
 
 ---
 

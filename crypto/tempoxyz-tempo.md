@@ -25,9 +25,7 @@ Crypto · Payments · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the tempoxyz/tempo project:
-
-Tempo is an open-source blockchain designed specifically for payments, aiming to provide a secure, efficient, and scalable platform for financial transactions. Leveraging advancements in AI and ML, Tempo seeks to optimize payment processing and reduce costs for users. With its focus on payments, Tempo has the potential to revolutionize the way we make transactions.
+Tempo is an open-source blockchain project designed specifically for payments, providing a secure and efficient platform for financial transactions. Built on cutting-edge technology, Tempo aims to revolutionize the way we think about payments, leveraging AI/ML capabilities to enhance user experience and security. This blockchain solution is tailored to meet the growing demands of the modern payments landscape.
 
 ---
 

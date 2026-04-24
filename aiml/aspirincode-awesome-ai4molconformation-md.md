@@ -27,7 +27,7 @@ AI/ML
 
 Here's a brief summary for the open-source project:
 
-The "awesome-AI4MolConformation-MD" project is an open-source collection of molecules with their predicted conformations and molecular dynamics simulations, generated using artificial intelligence and deep learning techniques. This repository provides a comprehensive list of small molecules, RNA, peptides, proteins, enzymes, antibodies, and protein-protein interactions, facilitating research in molecular dynamics simulations. By leveraging AI-powered force fields, this project aims to accelerate the discovery of new molecular insights and therapies.
+This project, 'awesome-AI4MolConformation-MD', leverages generative artificial intelligence and deep learning to generate and predict molecular conformations and dynamics of various biological molecules, including small molecules, RNA, peptides, proteins, enzymes, antibodies, and protein-protein interactions. The project aims to accelerate molecular dynamics simulations using AI-driven force fields, enabling researchers to explore complex molecular behaviors. By providing a comprehensive list of conformations and molecular dynamics simulations, this project empowers the scientific community to advance our understanding of molecular structures and interactions.
 
 ---
 

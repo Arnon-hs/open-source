@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the bulwarkmail/webmail project:
-
-Bulwarkmail/webmail is an open-source, self-hosted email client that leverages the JMAP protocol for a seamless, modern email experience. This cutting-edge webmail application offers a comprehensive suite of features, including email, calendar, contacts, and file management, ensuring a fast, private, and secure email solution.
+BulwarkMail is an open-source, self-hosted email client that offers a modern email experience for the 21st century. Built on the JMAP protocol, this webmail application provides a secure and private platform for managing emails, calendars, contacts, and files. As a fast, open-source solution, BulwarkMail is a great option for those seeking to host their email services independently.
 
 ---
 

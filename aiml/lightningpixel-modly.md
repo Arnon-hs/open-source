@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Modly is an open-source desktop application that leverages local AI processing to generate 3D models from images directly on your device, utilizing your GPU for efficient performance. This allows for fast and private 3D model creation without relying on cloud services. By harnessing the power of AI on your local machine, Modly empowers users with a seamless and secure 3D modeling experience.
+The modly project is an open-source desktop application that leverages local AI to generate 3D models from images, processing tasks entirely on the system's GPU for efficient performance. This tool enables users to convert 2D images into 3D models without relying on cloud services, providing a convenient and self-contained solution for AI-powered 3D model creation. By utilizing the GPU, modly achieves fast and local processing of complex image-to-3D model tasks.
 
 ---
 

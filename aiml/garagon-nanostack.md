@@ -25,9 +25,9 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Here is a brief summary for the garagon/nanostack project:
+Here's a brief summary of the garagon/nanostack project:
 
-Nanostack is an open-source project that provides a comprehensive set of AI coding agent team skills, covering the entire engineering workflow. This innovative tool is designed to streamline development, improve efficiency, and enhance collaboration across various stages of the engineering process. By leveraging AI/ML capabilities, Nanostack empowers developers to work more effectively and securely.
+The garagon/nanostack project is an open-source initiative that aims to provide a comprehensive AI coding agent, empowering teams to streamline their engineering workflow with minimal coding required. This project offers a suite of tools to simplify the development process, enhance security, and leverage AI/ML capabilities. By leveraging nanostack, teams can accelerate their development cycle and improve overall efficiency.
 
 ---
 

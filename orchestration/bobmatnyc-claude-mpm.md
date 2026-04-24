@@ -25,9 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Claude-mpm is an open-source project that serves as a Multi-Agent Project Manager for Claude, a multi-channel orchestration system with a GitHub-first SDK mode. This project enables developers to efficiently manage complex projects with its plugin system, while also facilitating collaboration and automation through Claude's AI and ML capabilities. With Claude-mpm, developers can streamline their project workflows and leverage the full potential of the Claude ecosystem.
+Claude-mpm is an open-source project that serves as a multi-agent project manager for Claude, a platform that enables multi-channel orchestration and plugin management. This project is designed to work in a GitHub-first SDK mode, streamlining the process of building and managing complex AI/ML projects. It offers a highly customizable plugin system, allowing users to extend its functionality and adapt it to their specific needs.
 
 ---
 

@@ -25,9 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the EmbarkStudios/cargo-about project:
-
-The EmbarkStudios/cargo-about project is an open-source, cargo plugin designed to generate a list of all licenses associated with a crate in Rust. This tool simplifies the process of identifying dependencies and their respective licenses, making it easier to maintain compliance with open-source licensing requirements. With cargo-about, developers can efficiently manage their project's licensing and dependencies.
+This open-source project, EmbarkStudios/cargo-about, is a Cargo plugin designed to automatically generate a list of all licenses associated with a crate in Rust. The tool aims to simplify the process of documenting and managing licenses for Rust packages. By using this plugin, developers can easily obtain a comprehensive license list for their crate.
 
 ---
 

@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the rocketride-server open-source project:
-
-Rocketride-server is an open-source, high-performance AI pipeline engine that enables users to build, debug, and scale large language model (LLM) workflows with ease. Powered by a C++ core and extensible through over 50 Python nodes, it supports integration with 13+ model providers, 8+ vector databases, and agent orchestration, making it suitable for complex AI/ML applications. The project includes a VS Code extension, TypeScript/Python SDKs, and Docker deployment for seamless development and deployment.
+The rocketride-server is an open-source, high-performance AI pipeline engine that offers a flexible and scalable platform for building, debugging, and deploying large language model (LLM) workflows. With a C++ core and over 50 extensible nodes in Python, it supports multiple model providers and vector databases, allowing users to easily integrate and orchestrate various AI components. This engine can be accessed through a VS Code extension, TypeScript/Python SDKs, or Docker deployment, making it accessible from any IDE.
 
 ---
 

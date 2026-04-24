@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the 514-labs/moosestack project:
-
-MooseStack is an open-source agent harness that enables developers to seamlessly integrate analytics into their applications, leveraging high-performance analytical infrastructure such as ClickHouse and Redpanda. By harnessing the power of these technologies, developers can build more informed and data-driven applications with ease. This project provides a robust and scalable solution for building analytics into modern applications.
+MooseStack is an open-source project that enables developers to easily integrate analytics into their applications by harnessing high-performance analytical infrastructure. Built on top of ClickHouse and Redpanda, MooseStack simplifies the process of incorporating analytics and AI/ML capabilities into frontend applications. This project aims to make it seamless to build data-driven experiences with its agent-based architecture.
 
 ---
 

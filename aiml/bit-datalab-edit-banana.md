@@ -25,7 +25,9 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Edit Banana is an open-source framework that enables the conversion of statistical formats into editable formats, simplifying the process of working with data. This innovative project empowers users to interact with complex data structures in a more intuitive and user-friendly manner. By bridging the gap between data formats and user interfaces, Edit Banana facilitates efficient data analysis and manipulation.
+Here's a 2-3 sentence summary for the BIT-DataLab/Edit-Banana project:
+
+Edit Banana is an open-source framework designed to facilitate the conversion of statistical data formats into editable forms, making it easier to work with complex data. Leveraging AI and ML technologies, this project empowers users to transform data into interactive and modifiable formats, enhancing collaboration and data analysis capabilities. By providing a versatile platform for data manipulation, Edit Banana aims to streamline data-intensive workflows and foster more efficient insights.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the geodro/lerd project:
+Here's a brief summary of the geodro/lerd project:
 
-geodro/lerd is an open-source, local development environment for PHP projects, inspired by Herd. It offers features like automatic .test domains, per-project PHP/Node isolation, and one-command TLS setup, all within a Podman-native, rootless framework. This makes it a convenient and secure option for developers on Linux and macOS.
+Lerd is an open-source, local development environment for Linux and macOS, designed to streamline the development process with features like automatic .test domains, per-project PHP/Node isolation, and one-command TLS setup. Built with Podman-native and rootless capabilities, Lerd provides a secure and efficient way to test and develop applications. This project aims to simplify local development and improve productivity for developers working on PHP and Node.js projects.
 
 ---
 

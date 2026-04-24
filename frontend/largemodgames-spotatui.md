@@ -25,7 +25,9 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Spotatui is an open-source, standalone Spotify client designed for terminal users. This fully functional application allows native streaming without the need for a separate daemon, providing users with a seamless and convenient Spotify experience from the comfort of their command line interface.
+Here's a brief summary of the open-source project:
+
+"Spotatui is a fully standalone, open-source Spotify client designed for the terminal. This native streaming application eliminates the need for a daemon, providing users with a seamless and convenient way to access their Spotify music library from the comfort of their command line interface. With Spotatui, users can enjoy their favorite music without relying on external services."
 
 ---
 

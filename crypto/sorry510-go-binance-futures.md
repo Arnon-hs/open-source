@@ -25,9 +25,7 @@ Crypto · Trading
 
 ## 📝 Summary
 
-Here's a brief summary for the sorry510/go_binance_futures project:
-
-sorry510/go_binance_futures is an open-source crypto trading bot that enables users to create automated trading strategies for Binance futures contracts. The bot also includes features for customizable trading rules, new cryptocurrency buying opportunities, and price alert notifications. This project is designed to help traders streamline their Binance futures trading experience and make more informed investment decisions.
+The sorry510/go_binance_futures project is an open-source, crypto trading bot that enables users to execute advanced trading strategies on Binance Futures, including contract quantification and customizable algorithms. It also features a new coin grabber and price alert notification system, making it a comprehensive trading solution. This bot is ideal for experienced traders looking to automate their trading activities on Binance Futures.
 
 ---
 

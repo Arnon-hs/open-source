@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the tumourlove/monolith project:
+Here's a brief summary of the tumourlove/monolith project:
 
-Monolith is an open-source, comprehensive plugin for Unreal Engine 5.7, providing AI assistants with full access to a wide range of features, including Blueprints, Materials, and UI elements. With 1,226 actions across 16 modules, Monolith offers a unified interface for AI workflows, eliminating the need for Python dependencies. This extensive plugin empowers developers to integrate AI capabilities seamlessly into their Unreal Engine projects.
+Monolith is an open-source plugin for Unreal Engine 5.7, providing a comprehensive set of tools for AI assistants to interact with various aspects of the engine, including Blueprints, Materials, and more. With over 1,200 actions across 16 modules, Monolith offers unparalleled control and access for AI-driven development. This zero-Python dependency plugin is categorized under AI/ML and Frontend tools.
 
 ---
 

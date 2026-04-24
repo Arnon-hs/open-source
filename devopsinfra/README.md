@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [netbox-community/netbox](./netbox-community-netbox.md) | ⭐ 20.3k | Python | 100/100 |
-| 2 | [projectcalico/calico](./projectcalico-calico.md) | ⭐ 7.2k | Go | 100/100 |
+| 1 | [projectcalico/calico](./projectcalico-calico.md) | ⭐ 7.2k | Go | 100/100 |
+| 2 | [netbox-community/netbox](./netbox-community-netbox.md) | ⭐ 20.3k | Python | 100/100 |
 | 3 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 77.8k | TypeScript | 100/100 |
 | 4 | [argoproj/argo-cd](./argoproj-argo-cd.md) | ⭐ 22.7k | Go | 100/100 |
 | 5 | [authelia/authelia](./authelia-authelia.md) | ⭐ 27.6k | Go | 100/100 |
@@ -19,8 +19,8 @@
 | 9 | [chef/chef](./chef-chef.md) | ⭐ 8.2k | Ruby | 99/100 |
 | 10 | [kubescape/kubescape](./kubescape-kubescape.md) | ⭐ 11.3k | Go | 97/100 |
 | 11 | [cert-manager/cert-manager](./cert-manager-cert-manager.md) | ⭐ 13.8k | Go | 97/100 |
-| 12 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 8.9k | Go | 96/100 |
-| 13 | [dexidp/dex](./dexidp-dex.md) | ⭐ 10.8k | Go | 96/100 |
+| 12 | [dexidp/dex](./dexidp-dex.md) | ⭐ 10.8k | Go | 96/100 |
+| 13 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 8.9k | Go | 96/100 |
 | 14 | [prometheus-community/helm-charts](./prometheus-community-helm-charts.md) | ⭐ 6.1k | Mustache | 96/100 |
 | 15 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 96/100 |
 | 16 | [ntop/ntopng](./ntop-ntopng.md) | ⭐ 7.7k | Lua | 96/100 |
@@ -47,8 +47,8 @@
 | 37 | [kubeovn/kube-ovn](./kubeovn-kube-ovn.md) | ⭐ 2.3k | Go | 74/100 |
 | 38 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 947 | Go Template | 72/100 |
 | 39 | [GhostWriters/DockSTARTer](./ghostwriters-dockstarter.md) | ⭐ 2.6k | Shell | 72/100 |
-| 40 | [NVIDIA/gpu-operator](./nvidia-gpu-operator.md) | ⭐ 2.7k | Go | 71/100 |
-| 41 | [microsoft/retina](./microsoft-retina.md) | ⭐ 3.1k | Go | 71/100 |
+| 40 | [microsoft/retina](./microsoft-retina.md) | ⭐ 3.1k | Go | 71/100 |
+| 41 | [NVIDIA/gpu-operator](./nvidia-gpu-operator.md) | ⭐ 2.7k | Go | 71/100 |
 | 42 | [kubernetes-sigs/kueue](./kubernetes-sigs-kueue.md) | ⭐ 2.5k | Go | 70/100 |
 | 43 | [Telmate/terraform-provider-proxmox](./telmate-terraform-provider-proxmox.md) | ⭐ 2.9k | Go | 69/100 |
 | 44 | [phusion/passenger-docker](./phusion-passenger-docker.md) | ⭐ 2.8k | Shell | 66/100 |

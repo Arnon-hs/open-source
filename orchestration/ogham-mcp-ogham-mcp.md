@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The ogham-mcp project is an open-source, shared memory MCP server that provides persistent and searchable functionality. It enables cross-client communication, ideal for applications that utilize AI/ML and orchestration, allowing for seamless backend integration. This server facilitates efficient data sharing and collaboration among various clients.
+The ogham-mcp project is an open-source, persistent, and searchable server for shared memory MCP (Master Control Program) services. It enables cross-client communication and synchronization, supporting the development of Claude and Opencode applications. This project utilizes Orchestration and AI/ML capabilities to facilitate efficient collaboration and data exchange between various clients.
 
 ---
 

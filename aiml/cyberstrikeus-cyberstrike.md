@@ -25,7 +25,9 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-CyberStrike is an open-source, AI-powered offensive security tool that equips users with a robust red team solution. Leveraging MITRE ATT&CK, CIS Benchmarks, OWASP, and NIST frameworks, CyberStrike boasts over 7,300 actionable security skills to simulate real-world attacks and identify vulnerabilities. Its autonomous pentesting capabilities enable lazy-loading and zero context pollution, providing a sophisticated and efficient way to test and strengthen security defenses.
+Here's a brief summary of the project:
+
+CyberStrike is an open-source, AI-powered offensive security agent that leverages 7,300+ actionable security skills to identify and exploit vulnerabilities. Powered by industry-leading frameworks such as MITRE ATT&CK, CIS Benchmarks, OWASP, and NIST, CyberStrike automates pentesting with zero context pollution. This autonomous red team tool is designed to simulate real-world attacks and provide actionable security insights.
 
 ---
 

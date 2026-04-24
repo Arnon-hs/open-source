@@ -25,9 +25,9 @@ Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the Valheim Docker project:
+Here's a 2-3 sentence summary for the Valheim Docker project:
 
-Valheim-Docker is an open-source project that provides a robust and user-friendly command-line interface for managing Valheim game servers. This project offers automatic updates, world backup support, and resiliency features, making it an ideal solution for players and server administrators. Built with Odin and using Docker, it streamlines the process of hosting and maintaining a stable Valheim game server.
+Valheim Docker is an open-source project that offers a robust and user-friendly management solution for dedicated Valheim game servers. Powered by Odin, this project provides automatic updates, world backup support, and a simple command-line interface, ensuring a seamless gaming experience. Its focus on resiliency makes it an ideal choice for players seeking a reliable and hassle-free Valheim gaming setup.
 
 ---
 

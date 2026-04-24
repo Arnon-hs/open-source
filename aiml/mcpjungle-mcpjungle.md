@@ -25,9 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the MCPJungle project:
-
-MCPJungle is an open-source, self-hosted MCP Gateway for AI agents, enabling secure and private communication between AI systems and their environments. This project provides a flexible backend solution for developers to build and manage AI workloads, allowing for greater control and customization. By hosting the MCP Gateway locally, users can ensure the confidentiality, integrity, and availability of their AI data and operations.
+MCPJungle is a self-hosted MCP Gateway for AI agents, providing a scalable and customizable infrastructure for integrating machine learning models into various applications. This open-source project enables developers to manage and deploy AI-powered services in a flexible and secure manner. By hosting MCPJungle, users can enjoy greater control and transparency over their AI workflows.
 
 ---
 

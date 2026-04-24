@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Inspect is an open-source tool that utilizes AI and machine learning to conduct entity-level code reviews. It assesses the structural risk of pull requests by analyzing cross-file dependency graphs and leveraging Large Language Models to understand the underlying meaning and intent of the code. This enables developers to triage pull requests more efficiently and effectively.
+Inspect is an open-source project that uses artificial intelligence and machine learning to perform entity-level code review. It analyzes cross-file dependency graphs and leverages large language models to identify potential structural risks in code changes, helping developers triage pull requests more effectively. This tool aims to improve code reliability and quality through intelligent code review.
 
 ---
 

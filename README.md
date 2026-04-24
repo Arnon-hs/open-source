@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3249** |
+| 🗂️ **Total projects** | **3301** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1236 | [Browse →](./aiml/) |
-| 📦 **Misc** | 501 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 352 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 302 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 202 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 168 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 133 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 1257 | [Browse →](./aiml/) |
+| 📦 **Misc** | 512 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 357 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 306 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 205 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 172 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 135 | [Browse →](./crypto/) |
 | 📊 **Data** | 92 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 77 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 45 | [Browse →](./mobile/) |
 | 💳 **Payments** | 45 | [Browse →](./payments/) |
-| 📱 **Mobile** | 44 | [Browse →](./mobile/) |
+| 📈 **Trading** | 35 | [Browse →](./trading/) |
 | 🔐 **Security** | 35 | [Browse →](./security/) |
-| 📈 **Trading** | 34 | [Browse →](./trading/) |
 | ✨ **Design** | 12 | [Browse →](./design/) |
 | 🎯 **Product** | 11 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
@@ -40,13 +40,13 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [duplicati/duplicati](./aiml/duplicati-duplicati.md) | ⭐ 14.5k | AI/ML |
-| 2 | [rowboatlabs/rowboat](./orchestration/rowboatlabs-rowboat.md) | ⭐ 13.1k | Orchestration |
-| 3 | [mdn/content](./aiml/mdn-content.md) | ⭐ 10.7k | AI/ML |
-| 4 | [x64dbg/x64dbg](./security/x64dbg-x64dbg.md) | ⭐ 48.2k | Security |
-| 5 | [Wei-Shaw/claude-relay-service](./aiml/wei-shaw-claude-relay-service.md) | ⭐ 11.3k | AI/ML |
-| 6 | [apache/tvm](./misc/apache-tvm.md) | ⭐ 13.3k | Misc |
-| 7 | [Anuken/Mindustry](./mobile/anuken-mindustry.md) | ⭐ 27.4k | Mobile |
-| 8 | [hiyouga/LlamaFactory](./trading/hiyouga-llamafactory.md) | ⭐ 70.6k | Trading |
+| 2 | [ZhuLinsen/daily_stock_analysis](./trading/zhulinsen-daily-stock-analysis.md) | ⭐ 31.2k | Trading |
+| 3 | [hellodigua/ChatLab](./aiml/hellodigua-chatlab.md) | ⭐ 6.1k | AI/ML |
+| 4 | [nhivp/Awesome-Embedded](./aiml/nhivp-awesome-embedded.md) | ⭐ 8.5k | AI/ML |
+| 5 | [ruby/ruby](./misc/ruby-ruby.md) | ⭐ 23.5k | Misc |
+| 6 | [rowboatlabs/rowboat](./orchestration/rowboatlabs-rowboat.md) | ⭐ 13.1k | Orchestration |
+| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 8 | [opendataloader-project/opendataloader-pdf](./aiml/opendataloader-project-opendataloader-pdf.md) | ⭐ 19.2k | AI/ML |
 | 9 | [opf/openproject](./product/opf-openproject.md) | ⭐ 14.9k | Product |
 | 10 | [bpftrace/bpftrace](./misc/bpftrace-bpftrace.md) | ⭐ 10.1k | Misc |
 

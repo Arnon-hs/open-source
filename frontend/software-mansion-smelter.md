@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-The Smelter project is an open-source, real-time video and audio mixing toolkit designed for low latency and programmable mixing capabilities. It enables developers to create custom video and audio compositions in a flexible and efficient manner. By leveraging Smelter, users can craft innovative multimedia experiences with precise control over video and audio signals.
+Here's a brief summary for the smelter project:
+
+Smelter is an open-source toolkit designed for real-time video and audio mixing, offering low latency and programmable functionality. This frontend-focused project enables developers to create customized and efficient video and audio processing systems. With smelter, users can craft tailored solutions for a variety of applications, from live events to interactive multimedia experiences.
 
 ---
 

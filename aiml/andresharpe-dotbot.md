@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the andresharpe/dotbot project:
 
-The dotbot project is an open-source platform that enables structured, auditable AI-assisted development for teams. It offers a zero-dependency MCP (Microservices Container Platform) server, a web dashboard for seamless management, and multi-provider AI CLI support for streamlined integration with various AI services. This comprehensive toolkit aims to simplify AI development and deployment for teams.
+Dotbot is an open-source platform that enables structured, auditable AI-assisted development for teams. It features a zero-dependency MCP (Message Control Protocol) server, a user-friendly web dashboard, and support for multiple AI providers through its CLI (Command-Line Interface). By leveraging AI and automation, Dotbot streamlines development workflows and enhances collaboration.
 
 ---
 

@@ -25,9 +25,9 @@ Payments · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the askalf/dario project:
+Here's a brief summary for the askalf/dario project:
 
-Dario is an open-source, local LLM (Large Language Model) router that allows you to easily switch between various models, including Claude Max/Pro, OpenAI, and others, without modifying your existing tools. It also features OAuth for Claude subscriptions, multi-account pool support, and a MCP server for seamless integration. With zero runtime dependencies, Dario simplifies the process of working with different language models.
+Dario is an open-source, local LLM (Large Language Model) router that provides a unified endpoint for various LLM services, including Claude Max/Pro, OpenAI, and others. It supports OAuth for Claude subscriptions, multi-account pooling, and MCP server functionality, allowing developers to easily integrate multiple models into their applications. By using Dario, developers can simplify their tooling and focus on building AI-powered applications without worrying about runtime dependencies.
 
 ---
 

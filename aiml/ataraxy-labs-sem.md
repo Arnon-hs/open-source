@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the Ataraxy-Labs/sem project:
 
-sem is an open-source semantic version control system that builds upon Git, providing advanced features such as entity-level diffs, blame analysis, and impact analysis to facilitate coding efficiency. It supports ten programming languages via the Tree-sitter parser and is specifically designed for use with coding agents. This powerful tool enables developers to better understand and manage code changes.
+Ataraxy-Labs/sem is an open-source project that provides advanced version control capabilities for coders and coding agents. It builds upon Git to offer features such as entity-level diffs, blame, and impact analysis, streamlining the development process. Currently supporting ten programming languages through the tree-sitter parser, sem aims to enhance the efficiency of collaborative coding environments.
 
 ---
 

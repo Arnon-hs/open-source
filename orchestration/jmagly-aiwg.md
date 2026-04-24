@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The jmagly/aiwg project is an open-source cognitive architecture for AI-augmented software development. It offers a suite of specialized agents and structured workflows designed to streamline software development, with the ability to deploy on multiple platforms. This project utilizes various AI tools such as Codex, Copilot, and others to enhance the development process.
+The aiwg project is an open-source cognitive architecture for AI-augmented software development. It features a suite of specialized agents and structured workflows that enable seamless collaboration between humans and AI tools, including Codex, Copilot, and Cursor. This framework provides a multi-platform deployment solution for integrating AI capabilities into software development pipelines.
 
 ---
 

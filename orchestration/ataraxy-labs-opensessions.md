@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The opensessions project is an open-source tmux sidebar designed for coding agents, providing a centralized interface for managing sessions with Amp, Claude Code, Codex, and OpenCode. This tool features per-thread markers, a local HTTP API, and real-time session state updates, enabling seamless collaboration and management of coding sessions. It is categorized under Orchestration, AI/ML, and Backend development.
+Ataraxy-Labs' opensessions is an open-source project that provides a tmux sidebar for managing coding agents, including Amp, Claude Code, Codex, and OpenCode. This project enables per-thread markers and a local HTTP API to display live session state, streamlining the process of working with AI/ML coding tools. By integrating this project, developers can efficiently monitor and manage multiple coding sessions within a single tmux interface.
 
 ---
 
