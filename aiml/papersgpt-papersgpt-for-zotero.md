@@ -25,9 +25,9 @@ AI/ML · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary for the papersgpt/papersgpt-for-zotero project:
 
-The papersgpt/papersgpt-for-zotero plugin integrates multiple cutting-edge AI models with Zotero, a popular citation management tool, to enhance research and writing capabilities. This powerful plugin leverages the strengths of models like ChatGPT and Gemini to automate tasks such as literature reviews, summarization, and citation analysis. By harnessing the collective power of these AI models, users can streamline their research workflow and produce high-quality output.
+Papersgpt is an open-source plugin for Zotero, a popular citation management tool, that integrates AI and machine learning capabilities. This powerful plugin leverages various cutting-edge models such as ChatGPT and others to enhance research workflow efficiency. By harnessing the strengths of these AI tools, users can streamline tasks, accelerate research, and gain valuable insights into their projects.
 
 ---
 

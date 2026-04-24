@@ -25,7 +25,9 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Fastcore is an open-source project that supercharges Python for use with the popular fastai library, a framework for deep learning and machine learning tasks. It provides a collection of essential utilities and functionalities designed to simplify and streamline the development process, ultimately saving time and effort for data scientists and machine learning practitioners. With fastcore, users can efficiently build and deploy machine learning models with ease.
+Here's a brief summary for the AnswerDotAI/fastcore open-source project:
+
+The AnswerDotAI/fastcore project is an open-source library that supercharges Python for use with the popular fastai library, a tool for building and training deep learning models. By leveraging the power of Python, fastcore streamlines the process of working with fastai, making it easier to develop and deploy AI/ML applications. This library is ideal for data scientists and developers looking to accelerate their work with fastai.
 
 ---
 

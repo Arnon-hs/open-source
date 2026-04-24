@@ -25,7 +25,7 @@ Frontend · DevTools · Security
 
 ## 📝 Summary
 
-The vmfunc/sif project is an open-source, blazing-fast pentesting suite designed to streamline and accelerate security testing. This comprehensive toolset is built for speed, efficiency, and effectiveness, empowering users to conduct thorough and efficient security assessments. With a focus on frontend and developer tools, sif offers a cutting-edge solution for professionals and enthusiasts alike.
+The vmfunc/sif project is an open-source, high-performance pentesting suite designed for efficient and swift security assessments. This blazing-fast toolset empowers users to quickly identify vulnerabilities in systems, making it an invaluable resource for security professionals and pentesters. By leveraging sif, users can streamline their testing processes and enhance their overall security posture.
 
 ---
 

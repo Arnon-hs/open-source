@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Kubernetes-native Job Queueing project, kueue, is an open-source initiative that provides a scalable and efficient job queueing system for Kubernetes environments. It allows users to manage and process large volumes of jobs in a flexible and scalable manner, enhancing the overall efficiency of Kubernetes-based workflows. By integrating with Kubernetes, kueue simplifies job queueing and execution, making it a valuable tool for DevOps and infrastructure teams.
+Kueue is an open-source, Kubernetes-native job queueing system designed to manage and scale batch and periodic workloads within containerized environments. It provides a flexible and efficient way to schedule and execute jobs, ensuring high availability and reliability in distributed systems. By leveraging the power of Kubernetes, Kueue enables developers to build scalable and resilient applications with ease.
 
 ---
 

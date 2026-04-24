@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2852** |
+| 🗂️ **Total projects** | **2906** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1076 | [Browse →](./aiml/) |
-| 📦 **Misc** | 454 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 308 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 261 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 180 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 148 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 111 | [Browse →](./crypto/) |
-| 📊 **Data** | 79 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 66 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 1094 | [Browse →](./aiml/) |
+| 📦 **Misc** | 464 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 316 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 266 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 182 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 150 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 115 | [Browse →](./crypto/) |
+| 📊 **Data** | 80 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 68 | [Browse →](./devopsinfra/) |
 | 💳 **Payments** | 42 | [Browse →](./payments/) |
 | 📱 **Mobile** | 38 | [Browse →](./mobile/) |
-| 📈 **Trading** | 32 | [Browse →](./trading/) |
-| 🔐 **Security** | 32 | [Browse →](./security/) |
-| ✨ **Design** | 11 | [Browse →](./design/) |
+| 📈 **Trading** | 33 | [Browse →](./trading/) |
+| 🔐 **Security** | 33 | [Browse →](./security/) |
 | 🎯 **Product** | 11 | [Browse →](./product/) |
+| ✨ **Design** | 11 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 3 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Kong/insomnia](./aiml/kong-insomnia.md) | ⭐ 38.3k | AI/ML |
-| 2 | [ankidroid/Anki-Android](./mobile/ankidroid-anki-android.md) | ⭐ 11k | Mobile |
-| 3 | [endless-sky/endless-sky](./trading/endless-sky-endless-sky.md) | ⭐ 7.3k | Trading |
-| 4 | [browseros-ai/BrowserOS](./aiml/browseros-ai-browseros.md) | ⭐ 10.6k | AI/ML |
-| 5 | [frappe/erpnext](./aiml/frappe-erpnext.md) | ⭐ 33.2k | AI/ML |
-| 6 | [better-auth/better-auth](./payments/better-auth-better-auth.md) | ⭐ 28k | Payments |
-| 7 | [dragonflydb/dragonfly](./aiml/dragonflydb-dragonfly.md) | ⭐ 30.4k | AI/ML |
-| 8 | [kubernetes-sigs/external-dns](./backend/kubernetes-sigs-external-dns.md) | ⭐ 8.9k | Backend |
-| 9 | [kserve/kserve](./aiml/kserve-kserve.md) | ⭐ 5.4k | AI/ML |
-| 10 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
+| 1 | [supabase/supabase](./aiml/supabase-supabase.md) | ⭐ 101.3k | AI/ML |
+| 2 | [musescore/MuseScore](./aiml/musescore-musescore.md) | ⭐ 14.5k | AI/ML |
+| 3 | [Kong/insomnia](./aiml/kong-insomnia.md) | ⭐ 38.3k | AI/ML |
+| 4 | [future-architect/vuls](./aiml/future-architect-vuls.md) | ⭐ 12.1k | AI/ML |
+| 5 | [fmtlib/fmt](./misc/fmtlib-fmt.md) | ⭐ 23.4k | Misc |
+| 6 | [mrousavy/react-native-vision-camera](./aiml/mrousavy-react-native-vision-camera.md) | ⭐ 9.3k | AI/ML |
+| 7 | [frappe/erpnext](./aiml/frappe-erpnext.md) | ⭐ 33.2k | AI/ML |
+| 8 | [better-auth/better-auth](./payments/better-auth-better-auth.md) | ⭐ 28k | Payments |
+| 9 | [kubernetes-sigs/external-dns](./backend/kubernetes-sigs-external-dns.md) | ⭐ 8.9k | Backend |
+| 10 | [PaddlePaddle/Paddle](./aiml/paddlepaddle-paddle.md) | ⭐ 23.9k | AI/ML |
 
 ## 🚀 How it works
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-TripleA is an open-source, turn-based strategy game and board game engine that allows players to simulate various tabletop games, including Axis & Allies and Risk. This versatile platform enables users to create and play custom games, supporting a wide range of game mechanics and rules. With its open-source nature, TripleA fosters a community-driven environment for game development and customization.
+TripleA is an open-source, turn-based strategy game and board game engine that allows users to play and create a variety of tabletop-style games, similar to Axis & Allies or Risk. The platform supports a wide range of game mechanics, including area control, resource management, and unit movement. With TripleA, users can play and customize their favorite board games, or create new ones, all within a flexible and user-friendly interface.
 
 ---
 

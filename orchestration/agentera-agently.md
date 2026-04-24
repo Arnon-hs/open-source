@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the AgentEra/Agently project:
+Here's a brief summary for the AgentEra/Agently project:
 
-AgentEra/Agently is an open-source GenAI application development framework that enables quick and easy creation of GenAI applications. It features a structured data and chained-calls syntax for seamless interaction with GenAI agents, as well as an Event-Driven Flow (*TriggerFlow*) for managing complex working logic. This framework allows developers to switch between different models without rewriting application code.
+AgentEra/Agently is an open-source GenAI application development framework that enables quick and easy creation of GenAI applications. With its structure data and chained-calls syntax, developers can interact with GenAI agents seamlessly and manage complex logic using the Event-Driven Flow *TriggerFlow*. This framework also allows for flexible model switching without requiring code updates.
 
 ---
 

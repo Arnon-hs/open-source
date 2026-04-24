@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Taltzipi/live-hooks?style=flat-square&color=yellow)](https://github.com/Taltzipi/live-hooks/stargazers) [![Forks](https://img.shields.io/github/forks/Taltzipi/live-hooks?style=flat-square&color=blue)](https://github.com/Taltzipi/live-hooks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> React hooks for stale-closure-safe async code: useLive, useLiveCallback, and live debounce
+> Lightweight hook wrappers for stale-safe async React
 
 ## 📊 Stats
 

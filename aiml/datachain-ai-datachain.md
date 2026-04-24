@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The datachain project is an open-source initiative that provides a data context layer for handling unstructured data types, including images, videos, sensor data, text, and PDFs. This platform enables efficient organization, management, and analysis of diverse data formats, facilitating AI and machine learning applications. By providing a unified framework, datachain aims to simplify data integration and accelerate insights across various industries.
+The Datachain project is an open-source initiative that provides a data context layer for unstructured data types, including images, video, sensor data, text, and PDFs. This platform enables the efficient management and analysis of diverse data formats, facilitating the integration of artificial intelligence and machine learning capabilities. By providing a standardized framework, Datachain aims to simplify data processing and enhance the overall value of unstructured data.
 
 ---
 

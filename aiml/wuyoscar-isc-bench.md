@@ -25,9 +25,9 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a 2-3 sentence summary for the wuyoscar/ISC-Bench project:
 
-ISC-Bench is an open-source framework that repurposes Large Language Models (LLMs) or AI agents to generate sensitive data in a controlled manner. This innovative project, developed by wuyoscar, offers a unique approach to data generation, leveraging the capabilities of AI to create realistic and challenging datasets. By harnessing the power of LLMs, ISC-Bench enables researchers and developers to create more robust and realistic testing scenarios.
+ISC-Bench is an open-source project that explores the concept of Internal Safety Collapse (ISC) in Large Language Models (LLMs) and AI agents. By inducing ISC, this project aims to transform LLMs into sensitive data generators, providing a unique perspective on AI safety and robustness. This research has implications for improving the reliability and security of AI systems in various applications.
 
 ---
 

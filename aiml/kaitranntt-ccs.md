@@ -1,6 +1,6 @@
 # kaitranntt/ccs
 
-[![Stars](https://img.shields.io/github/stars/kaitranntt/ccs?style=flat-square&color=yellow)](https://github.com/kaitranntt/ccs/stargazers) [![Forks](https://img.shields.io/github/forks/kaitranntt/ccs?style=flat-square&color=blue)](https://github.com/kaitranntt/ccs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kaitranntt/ccs?style=flat-square&color=yellow)](https://github.com/kaitranntt/ccs/stargazers) [![Forks](https://img.shields.io/github/forks/kaitranntt/ccs?style=flat-square&color=blue)](https://github.com/kaitranntt/ccs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 178 |
+| 🍴 **Forks** | 179 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

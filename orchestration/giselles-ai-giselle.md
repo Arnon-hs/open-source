@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Giselle is an open-source AI application builder that enables users to create, deploy, and manage AI models with ease. This project offers an intuitive interface for orchestrating AI/ML workflows and building custom frontend applications, making it an ideal solution for developers and data scientists alike. By leveraging Giselle, users can streamline their AI development process and bring innovative ideas to life.
+Giselle is an open-source AI App Builder that enables users to create and deploy custom applications with minimal coding. This project utilizes AI and ML technologies to streamline the development process, making it accessible to a wide range of users. By leveraging orchestration and frontend capabilities, Giselle empowers developers and non-technical users to build innovative applications quickly and efficiently.
 
 ---
 

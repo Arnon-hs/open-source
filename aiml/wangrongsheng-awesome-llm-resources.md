@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary:
+Here's a 2-3 sentence summary for the open-source project:
 
-The "awesome-LLM-resources" project is an open-source collection of the world's best resources for Large Language Models (LLMs), covering various applications such as multimodal generation, AI-assisted programming, and model training. This comprehensive resource is maintained by WangRongsheng and is categorized under AI/ML and Frontend. It aims to provide a one-stop repository for developers and researchers to access a wide range of LLM-related tools and knowledge.
+The awesome-LLM-resources repository by WangRongsheng is an extensive collection of high-quality resources related to Large Language Models (LLMs). It covers various aspects of LLMs, including multimodal generation, agents, programming assistance, AI proofreading, data processing, model training, and model inference, providing a comprehensive summary of the world's best LLM resources. This repository is a valuable resource for researchers and developers working in the field of AI and ML.
 
 ---
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/martin-ger/esp_wifi_repeater?style=flat-square&color=yellow)](https://github.com/martin-ger/esp_wifi_repeater/stargazers) [![Forks](https://img.shields.io/github/forks/martin-ger/esp_wifi_repeater?style=flat-square&color=blue)](https://github.com/martin-ger/esp_wifi_repeater/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> A full functional WiFi Repeater (correctly: a WiFi NAT Router)
+> A full functional WiFi NAT Router (and now also a WiFi Repeater)
 
 ## 📊 Stats
 

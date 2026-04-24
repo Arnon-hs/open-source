@@ -25,9 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the databricks-solutions/ai-dev-kit open-source project:
-
-The ai-dev-kit is an open-source Databricks Toolkit designed for coding agents provided by Field Engineering. This toolkit enables the development and deployment of artificial intelligence (AI) and machine learning (ML) solutions on the Databricks platform, facilitating efficient and streamlined AI development. By leveraging this toolkit, users can accelerate their AI and ML projects and gain a competitive edge in data-driven innovation.
+The databricks-solutions/ai-dev-kit is an open-source project offering a Databricks Toolkit for Coding Agents, specifically designed by Field Engineering for AI/ML and data applications. This toolkit aims to provide a comprehensive platform for developers to build, deploy, and manage AI-powered solutions on the Databricks cloud-based platform. By leveraging this toolkit, developers can accelerate their AI development workflows and create scalable, data-driven applications with ease.
 
 ---
 

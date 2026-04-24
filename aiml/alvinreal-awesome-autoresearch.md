@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The 'awesome-autoresearch' project is an open-source repository that collects and categorizes autonomous improvement loops and research agents inspired by Andrej Karpathy's autoresearch project. This curated list aims to facilitate exploration and development in the field of Artificial Intelligence (AI) and Machine Learning (ML). It serves as a valuable resource for researchers and developers looking to leverage autoresearch-style systems and improvement loops.
+Here's a brief summary for the open-source project:
+
+"Awesome-autoresearch is a comprehensive collection of autonomous improvement loops, research agents, and autoresearch-style systems, inspiring researchers to automate the process of scientific discovery. This curated list is inspired by Andrew Karpathy's influential autoresearch project, providing a valuable resource for AI and ML enthusiasts. It offers a unique platform to explore and replicate innovative research approaches, driving advancements in the field of artificial intelligence."
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, ddterm, is a GNOME Shell extension providing a dropdown terminal with tab support. As a native Wayland solution, it offers seamless integration with modern GNOME Shell environments. Users can easily manage multiple terminal sessions within a single dropdown interface.
+This open-source project, ddterm, is a GNOME Shell extension that provides a dropdown terminal with tab support, allowing users to access multiple terminals from a single, easily accessible location. It is designed to work natively on Wayland, ensuring seamless functionality across GNOME Shell environments. By providing a convenient and organized terminal interface, ddterm enhances productivity for GNOME users.
 
 ---
 

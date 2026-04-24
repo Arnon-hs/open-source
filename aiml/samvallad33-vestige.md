@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Vestige is an open-source cognitive memory system designed for AI agents, utilizing FSRS-6 spaced repetition and 29 brain modules for enhanced learning capabilities. This single, lightweight 22MB Rust binary includes a 3D dashboard and can integrate with various development environments, such as VS Code and Xcode, via the MCP server.
+Vestige is an open-source project that creates a cognitive memory system for AI agents, utilizing the FSRS-6 spaced repetition algorithm and incorporating 29 brain modules. This system is supported by a single 22MB Rust binary and is accessible through a 3D dashboard. Vestige also includes an MCP (Memory Connection Protocol) server for seamless integration with popular development tools such as Claude, Cursor, VS Code, Xcode, and JetBrains.
 
 ---
 

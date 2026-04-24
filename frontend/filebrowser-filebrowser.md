@@ -25,7 +25,7 @@ Frontend · Design
 
 ## 📝 Summary
 
-The open-source project, filebrowser/filebrowser, is a web-based file browser designed to provide a user-friendly and intuitive interface for managing files and folders. It is a versatile solution suitable for a range of applications, from personal file organization to collaborative team projects. With its web frontend and modern design, it offers a seamless and accessible way to interact with files and directories.
+Filebrowser is an open-source, web-based file management interface that allows users to browse, upload, and download files. It offers a user-friendly and customizable design, making it suitable for a wide range of applications, from personal file management to enterprise environments. This project can be easily integrated into existing systems to provide a seamless file browsing experience.
 
 ---
 

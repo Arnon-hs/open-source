@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Stryker.NET is an open-source mutation testing framework for .NET Core and .NET Framework applications. This tool automatically injects faults into the code and analyzes the tests to determine if they are effective in detecting the introduced errors. By using Stryker.NET, developers can ensure their tests are comprehensive and robust, catching bugs earlier in the development cycle.
+Here's a brief summary for the stryker-mutator/stryker-net project:
+
+Stryker-Mutator for .NET (stryker-net) is an open-source mutation testing tool that helps developers identify and fix bugs in their code by introducing artificial mutations and analyzing the resulting test failures. It supports both .NET Core and .NET Framework projects, making it a valuable addition to any .NET development workflow. By using stryker-net, developers can ensure the robustness and reliability of their code through automated mutation testing.
 
 ---
 

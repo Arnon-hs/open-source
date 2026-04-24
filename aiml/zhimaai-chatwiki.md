@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the zhimaAi/chatwiki project:
+Here's a brief summary of the zhimaAi/chatwiki project:
 
-ChatWiki is an open-source AI knowledge base workflow agent platform developed for WeChat public accounts, featuring a Large Language Model (RAG) AI customer service robot. Its goal is to become a vertical industry-focused workflow automation tool, similar to Coze and n8n. By leveraging AI and automation, ChatWiki aims to streamline processes and improve efficiency in specific fields.
+ChatWiki is an open-source AI knowledge base workflow agent platform for WeChat public accounts, featuring a large model AI customer service robot. The project aims to provide a vertical field-focused, user-friendly platform for integrating and automating AI-powered services, similar to coze and n8n. This platform utilizes AI and machine learning technologies to streamline and enhance user experience.
 
 ---
 

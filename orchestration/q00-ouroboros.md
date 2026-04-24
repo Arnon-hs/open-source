@@ -1,6 +1,6 @@
 # Q00/ouroboros
 
-[![Stars](https://img.shields.io/github/stars/Q00/ouroboros?style=flat-square&color=yellow)](https://github.com/Q00/ouroboros/stargazers) [![Forks](https://img.shields.io/github/forks/Q00/ouroboros?style=flat-square&color=blue)](https://github.com/Q00/ouroboros/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Q00/ouroboros?style=flat-square&color=yellow)](https://github.com/Q00/ouroboros/stargazers) [![Forks](https://img.shields.io/github/forks/Q00/ouroboros?style=flat-square&color=blue)](https://github.com/Q00/ouroboros/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Stop prompting. Start specifying.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 248 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

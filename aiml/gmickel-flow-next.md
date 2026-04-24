@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the gmickel/flow-next project:
-
-flow-next is an open-source, plan-first AI workflow plugin designed to streamline the development process with AI tools like Claude Code, OpenAI Codex, and Factory Droid. This plugin offers zero-dependency task tracking, worker subagents, and Ralph autonomous mode for efficient cross-model reviews. By integrating these features, flow-next enables developers to maximize the potential of their AI workflows and automate repetitive tasks.
+The gmickel/flow-next project is an open-source, plan-first AI workflow plugin that integrates with various AI tools, including Claude Code, OpenAI Codex, and Factory Droid. It offers a range of features, including zero-dependency task tracking and worker subagents, to streamline AI-driven workflows. With its Ralph autonomous mode and cross-model reviews, flow-next enables seamless collaboration and review across different AI models.
 
 ---
 

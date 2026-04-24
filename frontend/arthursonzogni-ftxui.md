@@ -25,9 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the FTXUI project:
+Here is a brief summary for the FTXUI project:
 
-FTXUI is an open-source, C++ library for building functional terminal user interfaces. It provides a simple and expressive API to create visually appealing and highly interactive command-line applications with ease. By leveraging C++ syntax, FTXUI enables developers to write efficient and readable code for modern terminal-based interfaces.
+FTXUI is a lightweight, open-source C++ library for building functional terminal user interfaces. It enables developers to create interactive command-line applications with a modern, intuitive design. With FTXUI, users can leverage the power of a terminal interface while enjoying a seamless and user-friendly experience.
 
 ---
 

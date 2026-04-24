@@ -24,8 +24,8 @@
 | 14 | [x402-foundation/x402](./x402-foundation-x402.md) | ⭐ 6k | TypeScript | 90/100 |
 | 15 | [rorkai/App-Store-Connect-CLI](./rorkai-app-store-connect-cli.md) | ⭐ 4.1k | Go | 84/100 |
 | 16 | [nguyenphutrong/quotio](./nguyenphutrong-quotio.md) | ⭐ 4.3k | Swift | 79/100 |
-| 17 | [flexprice/flexprice](./flexprice-flexprice.md) | ⭐ 3.6k | Go | 77/100 |
-| 18 | [RevenueCat/purchases-ios](./revenuecat-purchases-ios.md) | ⭐ 3k | Swift | 77/100 |
+| 17 | [RevenueCat/purchases-ios](./revenuecat-purchases-ios.md) | ⭐ 3k | Swift | 77/100 |
+| 18 | [flexprice/flexprice](./flexprice-flexprice.md) | ⭐ 3.6k | Go | 77/100 |
 | 19 | [stripe/stripe-go](./stripe-stripe-go.md) | ⭐ 2.6k | Go | 68/100 |
 | 20 | [openmeterio/openmeter](./openmeterio-openmeter.md) | ⭐ 1.9k | Go | 66/100 |
 | 21 | [FOSSBilling/FOSSBilling](./fossbilling-fossbilling.md) | ⭐ 1.5k | PHP | 65/100 |
@@ -35,19 +35,19 @@
 | 25 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
 | 26 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 860 | TypeScript | 56/100 |
 | 27 | [VladSez/easy-invoice-pdf](./vladsez-easy-invoice-pdf.md) | ⭐ 751 | TypeScript | 56/100 |
-| 28 | [AuthorizeNet/sdk-php](./authorizenet-sdk-php.md) | ⭐ 454 | PHP | 55/100 |
-| 29 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 725 | C# | 55/100 |
+| 28 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 730 | C# | 55/100 |
+| 29 | [AuthorizeNet/sdk-php](./authorizenet-sdk-php.md) | ⭐ 454 | PHP | 55/100 |
 | 30 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
-| 31 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
-| 32 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 176 | PHP | 53/100 |
-| 33 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 53/100 |
-| 34 | [agentic-commerce-protocol/agentic-commerce-protocol](./agentic-commerce-protocol-agentic-commerce-protocol.md) | ⭐ 1.4k | JavaScript | 53/100 |
+| 31 | [agentic-commerce-protocol/agentic-commerce-protocol](./agentic-commerce-protocol-agentic-commerce-protocol.md) | ⭐ 1.4k | JavaScript | 53/100 |
+| 32 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
+| 33 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 176 | PHP | 53/100 |
+| 34 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 53/100 |
 | 35 | [elC0mpa/aws-doctor](./elc0mpa-aws-doctor.md) | ⭐ 418 | Go | 53/100 |
 | 36 | [braintree/android-card-form](./braintree-android-card-form.md) | ⭐ 374 | Java | 52/100 |
 | 37 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 52/100 |
 | 38 | [openfintechio/openfintech](./openfintechio-openfintech.md) | ⭐ 215 | PHP | 52/100 |
 | 39 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 169 | Ruby | 52/100 |
-| 40 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 291 | — | 52/100 |
+| 40 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 292 | — | 52/100 |
 | 41 | [Adyen/adyen-salesforce-commerce-cloud](./adyen-adyen-salesforce-commerce-cloud.md) | ⭐ 103 | JavaScript | 52/100 |
 | 42 | [ali-zahedi/az-iranian-bank-gateways](./ali-zahedi-az-iranian-bank-gateways.md) | ⭐ 598 | Python | 52/100 |
 

@@ -27,7 +27,7 @@ Trading · AI/ML
 
 Here's a brief summary for the open-source project:
 
-The Neural Network Compression Framework (NNCF) is an open-source project that simplifies the process of model compression for OpenVINO inference, enhancing the performance and efficiency of AI and machine learning applications. By leveraging NNCF, developers can compress neural networks with minimal loss in accuracy, resulting in faster and more power-efficient inference. This framework is particularly useful for trading and other high-performance computing applications requiring optimized model deployment.
+The openvinotoolkit/nncf project is an open-source Neural Network Compression Framework designed to enhance OpenVINO inference. It aims to optimize neural network models, reducing their computational complexity and memory requirements while maintaining their accuracy. This framework enables developers to deploy AI/ML models more efficiently in various industries, including trading.
 
 ---
 

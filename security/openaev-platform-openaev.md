@@ -1,0 +1,32 @@
+# OpenAEV-Platform/openaev
+
+[![Stars](https://img.shields.io/github/stars/OpenAEV-Platform/openaev?style=flat-square&color=yellow)](https://github.com/OpenAEV-Platform/openaev/stargazers) [![Forks](https://img.shields.io/github/forks/OpenAEV-Platform/openaev?style=flat-square&color=blue)](https://github.com/OpenAEV-Platform/openaev/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+
+> Open Adversarial Exposure Validation Platform
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 205 |
+| 💻 **Language** | Java |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Security
+
+## 📝 Summary
+
+The OpenAEV Platform is an open-source, security-focused project designed to help validate and strengthen the resilience of artificial intelligence (AI) and machine learning (ML) models against adversarial attacks. This platform provides a comprehensive framework for testing AI systems against various types of threats, ensuring their ability to accurately classify inputs and maintain robustness in the face of malicious attempts to deceive them. By facilitating the validation of AI models, OpenAEV aims to promote the development of more secure and trustworthy AI systems.
+
+---
+
+<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/OpenAEV-Platform/openaev) · [← Back to Security](./README.md)</sub>

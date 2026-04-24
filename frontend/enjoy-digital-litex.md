@@ -1,6 +1,6 @@
 # enjoy-digital/litex
 
-[![Stars](https://img.shields.io/github/stars/enjoy-digital/litex?style=flat-square&color=yellow)](https://github.com/enjoy-digital/litex/stargazers) [![Forks](https://img.shields.io/github/forks/enjoy-digital/litex?style=flat-square&color=blue)](https://github.com/enjoy-digital/litex/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enjoy-digital/litex?style=flat-square&color=yellow)](https://github.com/enjoy-digital/litex/stargazers) [![Forks](https://img.shields.io/github/forks/enjoy-digital/litex?style=flat-square&color=blue)](https://github.com/enjoy-digital/litex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Build your hardware, easily!
 
@@ -9,8 +9,8 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 704 |
-| 💻 **Language** | C |
+| 🍴 **Forks** | 705 |
+| 💻 **Language** | Python |
 | 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

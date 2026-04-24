@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Ashell is an open-source, ready-to-go Wayland status bar designed for use with Hyprland and Nirix (Niri) desktop environments. This project aims to provide a simple and efficient status bar solution for users seeking a streamlined experience. As a Wayland-based status bar, it leverages the strengths of modern display servers for a seamless user interface.
+Ashell is an open-source, ready-to-use Wayland status bar designed to integrate seamlessly with Hyprland and Niri, two popular open-source display managers. It provides a convenient and customizable interface to display essential system information and status updates. This project aims to offer a simple and efficient solution for users seeking a hassle-free status bar experience.
 
 ---
 

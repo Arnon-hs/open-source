@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Kubernetes/org project is an open-source initiative that provides meta configuration for the Kubernetes GitHub organization. It enables efficient management and organization of Kubernetes-related repositories, promoting streamlined collaboration and infrastructure management across the DevOps community. This project facilitates infrastructure as code (IaC) practices, making it easier to maintain and scale complex Kubernetes environments.
+The Kubernetes organization repository is an open-source project that provides meta configuration for the Kubernetes GitHub organization. This repository enables administrators to manage and maintain settings for the Kubernetes organization in a centralized and scalable manner. It facilitates streamlined organization management and improves collaboration among contributors.
 
 ---
 

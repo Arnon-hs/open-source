@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-ClawWork is an open-source client that enables seamless integration with OpenClaw, a powerful platform for boosting productivity. By connecting ClawWork to your OpenClaw instance, you can unlock the potential for 10x multi-session productivity, streamlining your workflow and enhancing efficiency. This client is designed to simplify the connection process and unlock the full capabilities of OpenClaw.
+ClawWork is an open-source client that connects to OpenClaw, enabling users to unlock significant productivity gains with 10x multi-session capabilities. This tool is built for developers and utilizes AI/ML technology to streamline workflows. By leveraging ClawWork, users can seamlessly integrate with OpenClaw to enhance their productivity and efficiency.
 
 ---
 
