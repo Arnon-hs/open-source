@@ -1,6 +1,6 @@
 # google-labs-code/design.md
 
-[![Stars](https://img.shields.io/github/stars/google-labs-code/design.md?style=flat-square&color=yellow)](https://github.com/google-labs-code/design.md/stargazers) [![Forks](https://img.shields.io/github/forks/google-labs-code/design.md?style=flat-square&color=blue)](https://github.com/google-labs-code/design.md/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-labs-code/design.md?style=flat-square&color=yellow)](https://github.com/google-labs-code/design.md/stargazers) [![Forks](https://img.shields.io/github/forks/google-labs-code/design.md?style=flat-square&color=blue)](https://github.com/google-labs-code/design.md/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.1k |
-| 🍴 **Forks** | 497 |
+| ⭐ **Stars** | 6.2k |
+| 🍴 **Forks** | 507 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

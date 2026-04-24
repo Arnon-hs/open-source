@@ -1,6 +1,6 @@
 # lakehq/sail
 
-[![Stars](https://img.shields.io/github/stars/lakehq/sail?style=flat-square&color=yellow)](https://github.com/lakehq/sail/stargazers) [![Forks](https://img.shields.io/github/forks/lakehq/sail?style=flat-square&color=blue)](https://github.com/lakehq/sail/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lakehq/sail?style=flat-square&color=yellow)](https://github.com/lakehq/sail/stargazers) [![Forks](https://img.shields.io/github/forks/lakehq/sail?style=flat-square&color=blue)](https://github.com/lakehq/sail/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 95 |
+| 🍴 **Forks** | 97 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

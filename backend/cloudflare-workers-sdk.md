@@ -1,6 +1,6 @@
 # cloudflare/workers-sdk
 
-[![Stars](https://img.shields.io/github/stars/cloudflare/workers-sdk?style=flat-square&color=yellow)](https://github.com/cloudflare/workers-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/workers-sdk?style=flat-square&color=blue)](https://github.com/cloudflare/workers-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudflare/workers-sdk?style=flat-square&color=yellow)](https://github.com/cloudflare/workers-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/workers-sdk?style=flat-square&color=blue)](https://github.com/cloudflare/workers-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
