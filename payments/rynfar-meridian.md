@@ -25,7 +25,7 @@ Payments · AI/ML · DevTools
 
 ## 📝 Summary
 
-The rynfar/meridian project is an open-source proxy that enables Claude Max, a powerful AI model from Anthropic, to be used in third-party tools. By bridging Anthropic's official SDK with OpenCode, Pi, Droid, Aider, Crush, and Cline, this project simplifies integration and unlocks the potential of Claude Max for developers and users. This proxy facilitates seamless access to Claude Max's capabilities, expanding its reach beyond the Anthropic ecosystem.
+The Meridian project is an open-source proxy that bridges Anthropic's official Claude Max SDK to enable seamless integration with third-party tools and platforms, including OpenCode, Pi, Droid, Aider, Crush, and Cline. This integration allows users to leverage their Claude Max subscription across a range of different applications, enhancing the versatility and utility of the AI model. By providing a bridge between Claude Max and third-party tools, Meridian simplifies the process of incorporating Anthropic's AI capabilities into diverse workflows.
 
 ---
 

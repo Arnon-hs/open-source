@@ -25,7 +25,7 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Kdash is a lightweight, open-source Kubernetes dashboard designed for speed and simplicity. Built for easy integration with Kubernetes clusters, it provides a streamlined interface for monitoring and managing resources. This project offers a fast and user-friendly experience for DevOps professionals and infrastructure teams.
+Kdash is an open-source, highly performant dashboard for Kubernetes that provides a simple and intuitive interface for monitoring and managing clusters. Built with ease of use in mind, kdash offers a streamlined experience for developers and operators to navigate their Kubernetes environments. This project is ideal for those seeking a lightweight, customizable, and accessible dashboard solution.
 
 ---
 

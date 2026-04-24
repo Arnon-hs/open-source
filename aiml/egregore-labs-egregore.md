@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Egregore is an open-source project that provides a shared intelligence layer for organizations, enabling them to build and deploy AI and machine learning models at scale. This platform serves as a unifying infrastructure for data, models, and knowledge, fostering collaboration and knowledge-sharing across teams and departments. By leveraging Egregore, organizations can streamline their AI development processes and unlock the full potential of their data and resources.
+Egregore is an open-source shared intelligence layer designed to facilitate collaboration and knowledge sharing within organizations. This platform uses AI/ML to collect, analyze, and provide insights from various data sources, creating a unified understanding of organizational knowledge. By leveraging Egregore, teams can improve communication, decision-making, and innovation through a centralized, intelligent information hub.
 
 ---
 

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 268 |
+| ⭐ **Stars** | 270 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a 2-3 sentence summary of the project in English:
 
-The AI Local Base system (RAG) is an open-source, locally prioritized knowledge base that integrates local documents into search and conversation workflows with large language models. Currently, it supports text file formats such as markdown (md), text (txt), PDF, Excel (xlsx), and CSV, as well as MCP services. This project aims to provide a seamless and private AI experience with enhanced control over local data.
+The ai-localbase project is an open-source, locally prioritized AI knowledge base system (RAG) that enables the incorporation of local documents into conversational search and dialogue flows. It currently supports various file types, including markdown, text, PDF, Excel, and CSV, and is compatible with the mCP service. This system aims to provide a seamless and efficient knowledge management experience.
 
 ---
 

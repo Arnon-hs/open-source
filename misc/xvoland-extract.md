@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"Extract is a versatile, open-source Bash/Zsh function that simplifies the extraction of various compressed file formats, including popular options like .zip, .rar, and .tar, as well as lesser-known formats like .bz2 and .xz. With Extract, users can easily decompress and access their files without needing to manually install and manage multiple extraction tools. This cross-platform function supports a wide range of file types, making it a convenient solution for developers and users alike."
+The Extract project is an open-source Bash/Zsh function that simplifies the process of extracting various compressed file formats. It supports a wide range of archive types, including zip, rar, and tar, as well as executable files like exe. This versatile tool helps users efficiently manage their compressed files across multiple platforms.
 
 ---
 

@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the webpack/webpack-cli project:
-
-Webpack CLI is an open-source command-line interface (CLI) for Webpack, a popular JavaScript module bundler. This CLI provides a convenient and intuitive way to manage and configure Webpack from the command line, allowing developers to easily build, bundle, and optimize their applications. With Webpack CLI, developers can leverage the full power of Webpack in their development workflows.
+Webpack-cli is an open-source command line interface for Webpack, a popular JavaScript module bundler. This project provides a simple and intuitive way to interact with Webpack, allowing developers to manage their builds, configurations, and dependencies from the command line. By leveraging webpack-cli, developers can streamline their workflow and improve productivity while building and maintaining complex web applications.
 
 ---
 

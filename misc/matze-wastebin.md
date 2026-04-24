@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Wastebin is an open-source pastebin application offering a simple platform for users to share and store text snippets. It provides a minimalistic interface for pasting and saving content, making it easy to share code, notes, or other small blocks of text online. The project is free to use and contributes to the open-source community.
+Wastebin is an open-source, pastebin-like application that allows users to share text content temporarily. It provides a simple and secure way to store and share text data, making it suitable for developers, researchers, and anyone who needs to share code snippets or other text information privately. This project is available for public use and can be easily customized or extended.
 
 ---
 

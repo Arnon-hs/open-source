@@ -25,7 +25,7 @@ AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-NeoHaskell is an open-source dialect of the Haskell programming language designed to make it more accessible and productive for newcomers. Its primary goal is to ease the learning curve and provide a smoother development experience for those who are new to functional programming. By prioritizing newcomer-friendliness, NeoHaskell aims to expand the reach and diversity of Haskell users.
+NeoHaskell is an open-source project that aims to make Haskell more accessible and productive for newcomers. As a dialect of the Haskell programming language, NeoHaskell prioritizes ease of use and efficiency, making it a valuable tool for developers interested in AI, machine learning, and design. This project promotes a more streamlined learning experience for Haskell, enabling users to focus on their projects with reduced complexity.
 
 ---
 

@@ -27,12 +27,12 @@
 | 17 | [NVIDIA/cuda-quantum](./nvidia-cuda-quantum.md) | ⭐ 1k | C++ | 63/100 |
 | 18 | [openvinotoolkit/nncf](./openvinotoolkit-nncf.md) | ⭐ 1.2k | Python | 63/100 |
 | 19 | [NVIDIA/Model-Optimizer](./nvidia-model-optimizer.md) | ⭐ 2.6k | Python | 63/100 |
-| 20 | [amitshekhariitbhu/ai-engineering-interview-questions](./amitshekhariitbhu-ai-engineering-interview-questions.md) | ⭐ 1.2k | Markdown | 62/100 |
-| 21 | [the-momentum/open-wearables](./the-momentum-open-wearables.md) | ⭐ 1.3k | Python | 62/100 |
+| 20 | [the-momentum/open-wearables](./the-momentum-open-wearables.md) | ⭐ 1.3k | Python | 62/100 |
+| 21 | [amitshekhariitbhu/ai-engineering-interview-questions](./amitshekhariitbhu-ai-engineering-interview-questions.md) | ⭐ 1.2k | Markdown | 62/100 |
 | 22 | [Erudika/scoold](./erudika-scoold.md) | ⭐ 916 | Java | 60/100 |
-| 23 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 619 | Python | 59/100 |
+| 23 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 911 | Rust | 59/100 |
 | 24 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 937 | Python | 59/100 |
-| 25 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 911 | Rust | 59/100 |
+| 25 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 619 | Python | 59/100 |
 | 26 | [abshare/abshare.github.io](./abshare-abshare.github.io.md) | ⭐ 976 | — | 58/100 |
 | 27 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 702 | Jupyter Notebook | 57/100 |
 | 28 | [freqtrade/technical](./freqtrade-technical.md) | ⭐ 996 | Python | 56/100 |

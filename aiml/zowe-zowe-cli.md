@@ -25,9 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the zowe/zowe-cli project:
-
-Zowe CLI is an open-source command-line interface that provides a unified experience for interacting with IBM Z mainframes, enabling developers to manage and automate tasks with ease. Built on top of the Zowe Framework, it offers a range of tools and features for automating tasks, managing data, and accessing mainframe resources. By leveraging Zowe CLI, developers can streamline their workflows and improve productivity when working with IBM Z mainframes.
+Zowe CLI is an open-source command-line interface that provides a unified way to interact with mainframe systems. It offers a range of features, including command execution, file management, and application development, allowing developers to work efficiently with mainframe environments. Zowe CLI is an essential tool for DevOps teams and developers looking to simplify mainframe interactions.
 
 ---
 

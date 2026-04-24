@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The muffet project is an open-source, fast website link checker written in Go, designed to efficiently scan and verify the integrity of website links. This tool is ideal for developers and web administrators seeking to maintain healthy and error-free links on their websites. With its Go-based architecture, muffet offers a lightweight and scalable solution for link checking tasks.
+Muffet is a fast and reliable open-source link checker written in Go. It quickly scans websites for broken links, allowing developers to identify and fix issues before they impact user experience. With Muffet, teams can maintain high-quality websites and ensure smooth navigation for their visitors.
 
 ---
 

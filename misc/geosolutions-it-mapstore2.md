@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the MapStore2 project:
-
-MapStore2 is an open-source solution that enables users to create and share interactive maps, dashboards, and geostories on the web, with support for 3D visualization. This platform provides a user-friendly interface for web-based map creation and sharing, making it an ideal solution for organizations and individuals seeking to leverage geospatial data.
+MapStore2 is an open-source web-based platform for creating, sharing, and visualizing maps, dashboards, and geostories with integrated 3D support. This versatile solution enables users to build and customize interactive web maps, making it ideal for a wide range of applications, from data analysis to geospatial storytelling. With its open-source nature, MapStore2 fosters community-driven development and flexibility.
 
 ---
 

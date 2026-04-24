@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the huisezhiyin/sdd-riper project:
 
-The sdd-riper project is an open-source, lightweight AI agent harness that enables collaborative coding between humans and AI models. By allowing strong models to explore and learn while receiving human guidance, it streamlines the coding process with minimal specifications required. This harness also facilitates seamless validation, approval, and reverse sync, enhancing the overall development experience.
+The sdd-riper is an open-source, lightweight AI Agent Harness that empowers developers to build agentic coding experiences. By allowing strong models to explore and learn while being guided by human input, it streamlines the development process with minimal specifications, automatic validation, and seamless reverse sync. This tool is ideal for AI/ML and frontend development, offering a powerful DevTools solution for agile and efficient coding.
 
 ---
 

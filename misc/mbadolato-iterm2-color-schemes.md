@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, iTerm2-Color-Schemes, offers a vast collection of over 450 customizable terminal color schemes and themes, compatible with a wide range of terminal emulators. The project provides easy-to-use ports to various platforms, including popular terminals like iTerm2, Terminal, and PuTTY. With this project, users can easily enhance the visual appearance of their terminal experience across multiple operating systems and applications.
+This open-source project, "mbadolato/iTerm2-Color-Schemes," offers a vast collection of over 450 customizable terminal color schemes and themes, compatible with multiple terminal emulators across various platforms. Users can easily switch between these themes to personalize their terminal experience. The project provides a one-stop solution for users seeking a wide range of visually appealing themes for their terminals.
 
 ---
 

@@ -27,7 +27,7 @@ Frontend · Backend · Security
 
 Here's a brief summary for the eylandoo/openvpn_webpanel_manager project:
 
-This open-source project provides a comprehensive, self-hosted web panel for managing OpenVPN servers, users, and resellers, offering a feature-rich user interface and full API support. With its robust capabilities, users can easily manage multi-node deployments, making it an ideal solution for businesses and organizations requiring secure and scalable VPN infrastructure. The project's modular design and open-source nature ensure flexibility and customization options.
+The eylandoo/openvpn_webpanel_manager is an open-source, self-hosted web panel that provides a comprehensive and user-friendly interface for managing OpenVPN servers, users, and resellers in a multi-node deployment environment. With full API support, it offers a powerful solution for managing complex OpenVPN setups. This feature-rich UI enables administrators to efficiently manage and monitor their OpenVPN infrastructure.
 
 ---
 

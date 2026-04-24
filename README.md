@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3355** |
+| 🗂️ **Total projects** | **3408** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1279 | [Browse →](./aiml/) |
-| 📦 **Misc** | 525 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 361 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 306 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 209 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 177 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 1302 | [Browse →](./aiml/) |
+| 📦 **Misc** | 534 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 369 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 310 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 211 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 180 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 136 | [Browse →](./crypto/) |
 | 📊 **Data** | 92 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 78 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 80 | [Browse →](./devopsinfra/) |
 | 💳 **Payments** | 47 | [Browse →](./payments/) |
-| 📱 **Mobile** | 45 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 46 | [Browse →](./mobile/) |
+| 🔐 **Security** | 36 | [Browse →](./security/) |
 | 📈 **Trading** | 36 | [Browse →](./trading/) |
-| 🔐 **Security** | 35 | [Browse →](./security/) |
 | ✨ **Design** | 13 | [Browse →](./design/) |
 | 🎯 **Product** | 11 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [rclone/rclone](./aiml/rclone-rclone.md) | ⭐ 56.8k | AI/ML |
-| 2 | [RT-Thread/rt-thread](./aiml/rt-thread-rt-thread.md) | ⭐ 11.9k | AI/ML |
-| 3 | [pwndbg/pwndbg](./misc/pwndbg-pwndbg.md) | ⭐ 10.4k | Misc |
+| 1 | [trufflesecurity/trufflehog](./security/trufflesecurity-trufflehog.md) | ⭐ 25.9k | Security |
+| 2 | [redox-os/redox](./misc/redox-os-redox.md) | ⭐ 16.3k | Misc |
+| 3 | [influxdata/telegraf](./aiml/influxdata-telegraf.md) | ⭐ 16.8k | AI/ML |
 | 4 | [duplicati/duplicati](./aiml/duplicati-duplicati.md) | ⭐ 14.5k | AI/ML |
 | 5 | [photoprism/photoprism](./aiml/photoprism-photoprism.md) | ⭐ 39.6k | AI/ML |
-| 6 | [mbadolato/iTerm2-Color-Schemes](./misc/mbadolato-iterm2-color-schemes.md) | ⭐ 26.8k | Misc |
-| 7 | [mlflow/mlflow](./orchestration/mlflow-mlflow.md) | ⭐ 25.5k | Orchestration |
-| 8 | [modelscope/ms-swift](./aiml/modelscope-ms-swift.md) | ⭐ 13.9k | AI/ML |
-| 9 | [redisson/redisson](./frontend/redisson-redisson.md) | ⭐ 24.3k | Frontend |
-| 10 | [openemr/openemr](./misc/openemr-openemr.md) | ⭐ 5.1k | Misc |
+| 6 | [mlflow/mlflow](./orchestration/mlflow-mlflow.md) | ⭐ 25.5k | Orchestration |
+| 7 | [modelscope/ms-swift](./aiml/modelscope-ms-swift.md) | ⭐ 13.9k | AI/ML |
+| 8 | [redisson/redisson](./frontend/redisson-redisson.md) | ⭐ 24.3k | Frontend |
+| 9 | [openemr/openemr](./misc/openemr-openemr.md) | ⭐ 5.1k | Misc |
+| 10 | [WhiskeySockets/Baileys](./aiml/whiskeysockets-baileys.md) | ⭐ 9.1k | AI/ML |
 
 ## 🚀 How it works
 

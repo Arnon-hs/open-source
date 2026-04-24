@@ -25,7 +25,9 @@ Payments · Backend
 
 ## 📝 Summary
 
-Mercure is an open-source solution for real-time communication that prioritizes ease, speed, and reliability. This battery-efficient platform provides a comprehensive framework for real-time data exchange, catering to various use cases in the realm of payments and backend development. Its open architecture makes it an attractive option for developers seeking a flexible and efficient solution for real-time communications.
+Here's a brief summary for the dunglas/mercure project:
+
+Mercure is an open-source solution for real-time communications, providing a reliable, fast, and battery-efficient way to share data between web applications. Its ease of use and flexibility make it an ideal choice for developers looking to implement real-time updates and notifications in their projects. By leveraging Mercure, developers can build scalable and efficient real-time communication systems.
 
 ---
 

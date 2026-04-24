@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The OpenEXR project is an open-source implementation of the EXR file format, a professional-grade image storage standard widely used in the motion picture industry. Developed by the Academy Software Foundation, this project provides a robust and reliable solution for high-quality image storage and management in AI/ML and other applications. It offers a comprehensive specification and reference implementation for the EXR format, enabling developers to create scalable and efficient image storage solutions.
+The OpenEXR project is an open-source implementation of the EXR (Exchangeable Image File Format) file format, which is widely used in the motion picture industry for professional-grade image storage. Developed by the Academy Software Foundation, this project provides a standardized format for high-quality images, facilitating seamless collaboration and data exchange among professionals. Its open-source nature enables continuous improvement and community-driven development.
 
 ---
 

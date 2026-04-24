@@ -25,7 +25,9 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The eat-pray-ai/yutu project is an open-source AI-powered toolkit designed to automate the growth of YouTube channels. This AI-driven tool leverages machine learning capabilities to streamline and optimize channel management, allowing creators to focus on content production. By utilizing yutu, content creators can scale their YouTube presence without manual effort.
+Here is a 2-3 sentence summary for the open-source project:
+
+The eat-pray-ai/yutu project is an open-source, AI-powered toolkit designed to automate and optimize YouTube channel growth. This innovative tool utilizes machine learning algorithms to streamline content creation, engagement, and analytics, allowing creators to focus on content development while their channel expands on autopilot. By leveraging AI/ML capabilities, yutu empowers YouTubers to increase their channel's visibility and reach a wider audience.
 
 ---
 

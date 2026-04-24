@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The tninja/ai-code-interface.el project provides a unified Emacs interface for various AI-powered coding tools, including OpenAI Codex, GitHub Copilot CLI, and others. This interface streamlines the development experience by offering a single platform for interacting with multiple AI code assistants. By integrating these tools, developers can efficiently leverage AI capabilities within their Emacs workflow.
+Here's a 2-3 sentence summary for the tninja/ai-code-interface.el project:
+
+The tninja/ai-code-interface.el is an open-source Emacs interface that simplifies access to various AI-powered coding tools, including OpenAI Codex, GitHub Copilot CLI, and Claude Code, among others. This unified interface streamlines the development experience by providing a centralized platform for leveraging the capabilities of multiple AI coding assistants. By integrating multiple AI tools into a single Emacs interface, developers can optimize their coding workflow and increase productivity.
 
 ---
 

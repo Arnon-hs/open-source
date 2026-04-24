@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here is a brief summary for the open-webui/desktop project:
-
-Open WebUI Desktop is an open-source, cross-platform frontend framework that enables developers to create web-based desktop applications with ease. This project provides a comprehensive set of tools and components for building robust and user-friendly desktop applications, leveraging the power of web technologies. By utilizing Open WebUI Desktop, developers can create scalable and maintainable desktop applications with a rich web-based user interface.
+The open-webui/desktop project is an open-source desktop implementation of the Open WebUI, enabling developers to build web-based GUI applications with ease. This frontend-oriented project offers a customizable and flexible way to create desktop experiences, leveraging the power of web technologies. By utilizing open-webui/desktop, developers can create cross-platform applications with a seamless look and feel.
 
 ---
 

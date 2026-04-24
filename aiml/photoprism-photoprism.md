@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Photoprism is an open-source, AI-powered photo management application that enables users to efficiently organize, edit, and share their digital photos. Built for the decentralized web, this innovative tool utilizes machine learning to provide a seamless and personalized experience. With Photoprism, users can access their entire photo library from anywhere, at any time.
+Photoprism is an open-source, AI-powered photos app designed for the decentralized web. It utilizes machine learning capabilities to provide a robust and feature-rich photo management experience. By leveraging AI, Photoprism aims to revolutionize the way users organize, edit, and share their digital memories on the web.
 
 ---
 

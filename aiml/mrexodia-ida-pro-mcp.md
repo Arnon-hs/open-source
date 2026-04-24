@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The IDA Pro MCP project is an open-source initiative that leverages AI/ML capabilities to enhance reverse engineering workflows. By integrating with IDA Pro, a popular disassembly tool, and utilizing machine learning models through the MCP (Machine Code Protocol) interface, this project aims to automate and streamline the reverse engineering process. This collaboration enables developers to tap into the power of AI-driven analysis and insights within their existing IDA Pro workflows.
+This project, ida-pro-mcp, is an open-source tool that enables AI-powered reverse engineering assistance in IDA Pro. It integrates language models with IDA Pro through the MCP (Machine Code Parser) interface, streamlining the process of analyzing and understanding complex binary code. This integration helps reverse engineers leverage the capabilities of AI to accelerate their workflow and gain deeper insights into binary code.
 
 ---
 

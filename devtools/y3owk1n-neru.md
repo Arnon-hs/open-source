@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the project:
-
-Neru is an open-source project that enables keyboard-driven navigation on macOS and partial Linux systems, allowing users to interact with their computer without relying on a mouse. This tool facilitates navigation and clicking using only keyboard inputs, providing a convenient alternative for users who prefer or need this functionality. With Neru, users can enjoy a more hands-free computing experience.
+Neru is an open-source project that enables keyboard-driven navigation, allowing users to seamlessly navigate and click on their interface without relying on a traditional mouse. This innovative tool is currently available for macOS, with partial support for Linux and potential future support for Windows. By leveraging keyboard shortcuts, Neru streamlines user experience and promotes efficient productivity.
 
 ---
 

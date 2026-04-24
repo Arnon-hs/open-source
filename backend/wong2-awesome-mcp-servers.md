@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-This project, "awesome-mcp-servers," is an open-source, curated list of Model Context Protocol (MCP) servers. The MCP is a protocol used in various applications, and this list aims to provide a centralized resource for users to discover and access MCP servers. By categorizing these servers, the project facilitates easy discovery and exploration of MCP-based backend services.
+This open-source project, 'awesome-mcp-servers', is a curated list of Model Context Protocol (MCP) servers, providing a centralized resource for developers and users to discover and explore MCP servers. The list is maintained to ensure its accuracy and relevance, making it a valuable tool for those interested in MCP technology. By contributing to this project, users can help expand its scope and improve the overall MCP server community.
 
 ---
 

@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The Scaleway CLI is an open-source command-line interface for managing Scaleway services and resources. It allows users to easily interact with Scaleway's infrastructure, including servers, storage, and more, from the comfort of their terminal. With this CLI, users can automate and streamline their Scaleway workflows, enhancing productivity and efficiency.
+The Scaleway CLI is an open-source command-line interface for managing Scaleway services, providing a user-friendly interface for automating tasks and streamlining workflows. With this tool, users can easily create, manage, and deploy Scaleway resources, such as servers, load balancers, and storage volumes, from the comfort of their terminal. It aims to simplify Scaleway management and increase productivity for developers and system administrators.
 
 ---
 

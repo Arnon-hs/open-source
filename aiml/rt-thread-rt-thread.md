@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-RT-Thread is an open-source Real-Time Operating System (RTOS) designed for Internet of Things (IoT) applications, providing a robust and efficient platform for developers to create reliable and scalable systems. With its focus on real-time performance and low resource consumption, RT-Thread enables developers to build a wide range of IoT devices, from smart home appliances to industrial automation systems. The project is hosted on GitHub and actively maintained by a community of developers.
+RT-Thread is an open-source, real-time operating system (RTOS) designed for the Internet of Things (IoT). It provides a reliable and efficient platform for developing embedded systems and IoT applications, with features such as multitasking, device driver support, and networking capabilities. By leveraging RT-Thread's flexible and customizable architecture, developers can create high-performance and secure IoT devices.
 
 ---
 
