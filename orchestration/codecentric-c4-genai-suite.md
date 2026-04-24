@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The codecentric/c4-genai-suite is an open-source project that offers a comprehensive GenAI suite, encompassing orchestration, AI/ML, and frontend capabilities. This suite provides a robust platform for developers to integrate and deploy AI-powered applications, enabling streamlined development and deployment processes. By leveraging the c4 GenAI Suite, users can unlock the full potential of AI and ML, driving innovation and efficiency in various industries.
+The c4 GenAI Suite is an open-source project that offers a comprehensive platform for GenAI orchestration, enabling efficient collaboration and deployment of AI and machine learning (ML) applications. This suite provides a unified frontend for managing and streamlining the development, deployment, and maintenance of GenAI models, facilitating seamless integration and scalability. By leveraging the c4 GenAI Suite, developers can focus on building and refining their AI solutions without worrying about the underlying infrastructure.
 
 ---
 

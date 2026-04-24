@@ -25,7 +25,7 @@ DevOps/Infra · Security
 
 ## 📝 Summary
 
-Boundary is an open-source project that provides identity-based access management for dynamic infrastructure, enabling secure and controlled access to resources as code. This solution helps streamline infrastructure access and reduces the risk of unauthorized access, making it a valuable tool for DevOps and security teams. By integrating with existing infrastructure and tools, Boundary simplifies identity management and access governance.
+Boundary is an open-source project that enables identity-based access management for dynamic infrastructure. It provides secure and fine-grained access control, allowing users to manage access to infrastructure resources based on identity, regardless of their location. By integrating with existing infrastructure as code tools, Boundary simplifies identity and access management for DevOps teams.
 
 ---
 

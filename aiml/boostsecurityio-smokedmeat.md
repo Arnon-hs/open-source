@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-SmokedMeat is an open-source CI/CD Red Team Framework that simulates attacks on build pipelines to demonstrate potential security risks. This project enables developers and security professionals to identify vulnerabilities in their pipeline and improve its overall security posture. By using SmokedMeat, users can test their defenses and strengthen their build pipeline security.
+SmokedMeat is an open-source CI/CD Red Team Framework that identifies and demonstrates security risks in build pipelines. This tool helps developers and security professionals detect vulnerabilities and weaknesses in continuous integration and deployment (CI/CD) systems, enabling the implementation of stronger security measures. By using SmokedMeat, users can simulate real-world attack scenarios and assess the resilience of their pipelines against malicious activities.
 
 ---
 

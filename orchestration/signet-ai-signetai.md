@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Signetai is an open-source project that provides local-first identity, memory, and secrets management for AI agents. This allows for portable state across models and harnesses, making it easier to manage and deploy AI applications. By centralizing AI state and credentials, Signetai streamlines the development and orchestration of AI/ML workflows.
+Signetai is an open-source project that provides a local-first framework for AI agents, enabling secure and portable state management of identity, memory, and secrets. This allows AI developers to easily transfer model states across different environments and models, streamlining the development process. By harnessing Signetai, developers can create more robust and efficient AI applications.
 
 ---
 

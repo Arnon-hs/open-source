@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The suvadu project is an open-source, locally focused alternative to traditional shell history management. Built using Rust, this application utilizes AI agents to track and analyze user interactions, providing an innovative approach to shell history replacement. Its 100% local architecture ensures seamless and secure operation, leveraging machine learning capabilities for enhanced functionality.
+Here's a brief summary for the suvadu project:
+
+Suvadu is an open-source, local shell history replacement that utilizes AI agent tracking and a MCP server. Built entirely in Rust, this project offers a secure and private alternative to traditional shell history logging. By utilizing AI and 100% local operation, suvadu provides users with a more robust and controlled experience.
 
 ---
 

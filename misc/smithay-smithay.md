@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Smithay is an open-source project that aims to provide a smithy for rusty Wayland compositors, allowing developers to maintain and improve these applications. By providing a set of tools and resources, Smithay seeks to revitalize and stabilize the development of Wayland compositors, ultimately enhancing the overall Wayland ecosystem.
+Smithay is an open-source project that aims to revitalize and improve Wayland compositors. By providing a foundation for rebuilding and maintaining these compositors, Smithay offers a fresh start for rusty or outdated projects. Its primary goal is to breathe new life into existing Wayland compositors and make them more efficient and maintainable.
 
 ---
 

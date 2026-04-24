@@ -27,7 +27,7 @@ Misc
 
 Here is a brief summary for the google/crosvm project:
 
-Crosvm is an open-source virtual machine monitor (VMM) designed for Chrome OS, which enables secure and efficient virtualization of operating systems. As a VMM, it allows for the creation and management of virtual machines, providing a sandboxed environment for running guest operating systems. The project is maintained by the Chrome OS team and is available on GitHub for developers to contribute and use.
+The google/crosvm project is an open-source implementation of a Virtual Machine Monitor (VMM) for Chrome OS. It allows for the creation and management of virtual machines, providing a lightweight and efficient solution for running multiple operating systems on a single device. This project is a mirror of the original codebase from the Chromium project, ensuring seamless collaboration and contribution from the open-source community.
 
 ---
 

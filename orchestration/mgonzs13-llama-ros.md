@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The mgonzs13/llama_ros project provides a ROS 2 (Robot Operating System 2) interface for integrating GGUF Large Language Models (LLMs) and Visual Language Models (VLMs) into robotic applications. This open-source package enables developers to leverage the power of AI and machine learning in ROS 2-based systems, facilitating advanced decision-making and automation capabilities. By integrating LLMs and VLMs, this project enhances the intelligence and adaptability of ROS 2 robots.
+The llama_ros project is an open-source implementation of LLaMA (Large Language Model) and LLAV (Vision Language Model) models for use with ROS 2 (Robot Operating System 2). This project allows developers to integrate the power of LLaMA and LLAV models into their ROS 2 applications, enabling advanced AI-driven capabilities for robotics and automation. By leveraging this project, users can tap into the potential of these models to enhance their robotic systems with more sophisticated perception and decision-making abilities.
 
 ---
 

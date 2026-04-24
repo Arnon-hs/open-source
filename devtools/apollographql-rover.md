@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Rover is a command-line interface (CLI) for Apollo GraphOS, a powerful tool for building, deploying, and managing GraphQL APIs. This open-source project provides developers with a simple and intuitive way to interact with their GraphOS projects, streamlining tasks such as schema management, deployment, and debugging. With Rover, users can easily manage and optimize their GraphQL workflows.
+Rover is an open-source CLI developed by Apollo GraphOS, providing a user-friendly interface for managing and interacting with the Apollo GraphOS platform. With Rover, users can streamline their workflow and efficiently accomplish tasks such as schema management, data modeling, and deployment. By leveraging Rover, developers can simplify their experience with Apollo GraphOS and focus on building high-quality applications.
 
 ---
 

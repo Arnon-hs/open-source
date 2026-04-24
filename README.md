@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3787** |
+| 🗂️ **Total projects** | **3879** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1451 | [Browse →](./aiml/) |
-| 📦 **Misc** | 599 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 397 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 348 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 232 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 208 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 151 | [Browse →](./crypto/) |
-| 📊 **Data** | 98 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 86 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 1484 | [Browse →](./aiml/) |
+| 📦 **Misc** | 612 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 408 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 359 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 235 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 217 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 156 | [Browse →](./crypto/) |
+| 📊 **Data** | 100 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 87 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 55 | [Browse →](./mobile/) |
 | 💳 **Payments** | 54 | [Browse →](./payments/) |
-| 📱 **Mobile** | 53 | [Browse →](./mobile/) |
-| 📈 **Trading** | 40 | [Browse →](./trading/) |
+| 📈 **Trading** | 41 | [Browse →](./trading/) |
 | 🔐 **Security** | 39 | [Browse →](./security/) |
-| ✨ **Design** | 14 | [Browse →](./design/) |
+| ✨ **Design** | 15 | [Browse →](./design/) |
 | 🎯 **Product** | 12 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
 
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [shadps4-emu/shadPS4](./frontend/shadps4-emu-shadps4.md) | ⭐ 30.9k | Frontend |
-| 2 | [GoogleChrome/lighthouse](./devtools/googlechrome-lighthouse.md) | ⭐ 30.1k | DevTools |
-| 3 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
-| 4 | [ansible/awx](./frontend/ansible-awx.md) | ⭐ 15.4k | Frontend |
-| 5 | [tensorflow/tensorflow](./aiml/tensorflow-tensorflow.md) | ⭐ 194.9k | AI/ML |
-| 6 | [stashapp/stash](./misc/stashapp-stash.md) | ⭐ 12.2k | Misc |
-| 7 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.4k | DevTools |
-| 8 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
-| 9 | [Canner/WrenAI](./aiml/canner-wrenai.md) | ⭐ 15k | AI/ML |
-| 10 | [karatelabs/karate](./backend/karatelabs-karate.md) | ⭐ 8.8k | Backend |
+| 2 | [DioxusLabs/dioxus](./aiml/dioxuslabs-dioxus.md) | ⭐ 35.8k | AI/ML |
+| 3 | [influxdata/telegraf](./aiml/influxdata-telegraf.md) | ⭐ 16.8k | AI/ML |
+| 4 | [rundeck/rundeck](./orchestration/rundeck-rundeck.md) | ⭐ 6.1k | Orchestration |
+| 5 | [birobirobiro/awesome-shadcn-ui](./frontend/birobirobiro-awesome-shadcn-ui.md) | ⭐ 19.4k | Frontend |
+| 6 | [GoogleChrome/lighthouse](./devtools/googlechrome-lighthouse.md) | ⭐ 30.1k | DevTools |
+| 7 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
+| 8 | [dapr/dapr](./orchestration/dapr-dapr.md) | ⭐ 25.7k | Orchestration |
+| 9 | [lutzroeder/netron](./aiml/lutzroeder-netron.md) | ⭐ 32.8k | AI/ML |
+| 10 | [haifengl/smile](./aiml/haifengl-smile.md) | ⭐ 6.4k | AI/ML |
 
 ## 🚀 How it works
 

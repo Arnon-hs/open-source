@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-ThumbGate is an open-source project that enables self-improving agent governance, utilizing pre-action checks to prevent repetitive AI mistakes. This system can help mitigate financial losses associated with repeated errors, allowing for more efficient decision-making processes. By blocking repeat mistakes, ThumbGate aims to optimize AI performance and reduce the need for costly corrections.
+Here's a brief summary of the ThumbGate project:
+
+ThumbGate is an open-source project that introduces self-improving agent governance to prevent repeat AI mistakes. This system uses a simple 'like' or 'dislike' feedback mechanism (👍/👎) to perform pre-action checks, blocking repeat errors and minimizing costs associated with repeated mistakes. By implementing ThumbGate, developers can improve the reliability and efficiency of their AI systems.
 
 ---
 

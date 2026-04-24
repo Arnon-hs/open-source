@@ -25,7 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The skim project is an open-source, AI-driven development tool built in Rust that optimizes coding agents across 17 languages. It leverages code-aware AST parsing, command rewriting, and other advanced features to enhance the development process, including test, build, and git output compression. This intelligent engine streamlines coding tasks, making it a valuable resource for software developers.
+Here's a 2-3 sentence summary for the open-source project:
+
+The Skim project is an advanced context optimization engine built with Rust, designed to enhance coding agents across various languages. It features a powerful AST parsing capability, supporting 17 languages, alongside command rewriting and compression tools for test, build, and Git outputs. By leveraging token budget cascading, Skim optimizes coding workflows to improve efficiency and productivity.
 
 ---
 

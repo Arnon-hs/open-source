@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Terminus is an open-source, dark retro theme for Zola, designed to provide a visually appealing and immersive reading experience. This theme is part of the Zola community's efforts to enhance the user interface of the static site generator. With Terminus, users can elevate the aesthetic of their Zola-powered websites to a nostalgic, yet modern look.
+Terminus is an open-source, dark retro theme for Zola, a static site generator. This theme offers a unique aesthetic for users seeking a nostalgic feel in their online presence. By leveraging the power of Zola, Terminus provides a customizable and visually appealing solution for individuals and developers.
 
 ---
 

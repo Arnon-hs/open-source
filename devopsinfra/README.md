@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**86 projects** in this category.
+**87 projects** in this category.
 
 ## Projects
 
@@ -12,8 +12,8 @@
 | 2 | [argoproj/argo-cd](./argoproj-argo-cd.md) | ⭐ 22.7k | Go | 100/100 |
 | 3 | [alam00000/bentopdf](./alam00000-bentopdf.md) | ⭐ 12.9k | JavaScript | 100/100 |
 | 4 | [projectcalico/calico](./projectcalico-calico.md) | ⭐ 7.2k | Go | 100/100 |
-| 5 | [netbox-community/netbox](./netbox-community-netbox.md) | ⭐ 20.3k | Python | 100/100 |
-| 6 | [dependabot/dependabot-core](./dependabot-dependabot-core.md) | ⭐ 5.5k | Ruby | 100/100 |
+| 5 | [dependabot/dependabot-core](./dependabot-dependabot-core.md) | ⭐ 5.5k | Ruby | 100/100 |
+| 6 | [netbox-community/netbox](./netbox-community-netbox.md) | ⭐ 20.3k | Python | 100/100 |
 | 7 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.4k | Python | 100/100 |
 | 8 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 77.8k | TypeScript | 100/100 |
 | 9 | [chef/chef](./chef-chef.md) | ⭐ 8.2k | Ruby | 99/100 |
@@ -48,10 +48,10 @@
 | 38 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 77/100 |
 | 39 | [DaKheera47/job-ops](./dakheera47-job-ops.md) | ⭐ 2.9k | TypeScript | 75/100 |
 | 40 | [kubeovn/kube-ovn](./kubeovn-kube-ovn.md) | ⭐ 2.3k | Go | 74/100 |
-| 41 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 947 | Go Template | 72/100 |
-| 42 | [GhostWriters/DockSTARTer](./ghostwriters-dockstarter.md) | ⭐ 2.6k | Shell | 72/100 |
-| 43 | [NVIDIA/gpu-operator](./nvidia-gpu-operator.md) | ⭐ 2.7k | Go | 71/100 |
-| 44 | [microsoft/retina](./microsoft-retina.md) | ⭐ 3.1k | Go | 71/100 |
+| 41 | [GhostWriters/DockSTARTer](./ghostwriters-dockstarter.md) | ⭐ 2.6k | Shell | 72/100 |
+| 42 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 947 | Go Template | 72/100 |
+| 43 | [microsoft/retina](./microsoft-retina.md) | ⭐ 3.1k | Go | 71/100 |
+| 44 | [NVIDIA/gpu-operator](./nvidia-gpu-operator.md) | ⭐ 2.7k | Go | 71/100 |
 | 45 | [kubernetes-sigs/kueue](./kubernetes-sigs-kueue.md) | ⭐ 2.5k | Go | 70/100 |
 | 46 | [Telmate/terraform-provider-proxmox](./telmate-terraform-provider-proxmox.md) | ⭐ 2.9k | Go | 69/100 |
 | 47 | [kubernetes-sigs/aws-ebs-csi-driver](./kubernetes-sigs-aws-ebs-csi-driver.md) | ⭐ 1.1k | Go | 67/100 |
@@ -76,8 +76,8 @@
 | 66 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 471 | JavaScript | 56/100 |
 | 67 | [frappe/press](./frappe-press.md) | ⭐ 503 | Python | 56/100 |
 | 68 | [kubernetes/org](./kubernetes-org.md) | ⭐ 287 | Go | 56/100 |
-| 69 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 896 | Go | 56/100 |
-| 70 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
+| 69 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
+| 70 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 896 | Go | 56/100 |
 | 71 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 55/100 |
 | 72 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.3k | TypeScript | 55/100 |
 | 73 | [pegasystems/pega-helm-charts](./pegasystems-pega-helm-charts.md) | ⭐ 141 | Go | 54/100 |
@@ -90,10 +90,11 @@
 | 80 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
 | 81 | [stolostron/multicluster-observability-operator](./stolostron-multicluster-observability-operator.md) | ⭐ 140 | Go | 52/100 |
 | 82 | [mongodb/terraform-provider-mongodbatlas](./mongodb-terraform-provider-mongodbatlas.md) | ⭐ 274 | Go | 51/100 |
-| 83 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 307 | Go | 50/100 |
-| 84 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 935 | Dockerfile | 49/100 |
-| 85 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 42/100 |
-| 86 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
+| 83 | [estahn/k8s-image-swapper](./estahn-k8s-image-swapper.md) | ⭐ 631 | Go | 50/100 |
+| 84 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 307 | Go | 50/100 |
+| 85 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 935 | Dockerfile | 49/100 |
+| 86 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 42/100 |
+| 87 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
 
 ---
 

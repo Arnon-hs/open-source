@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the open-source project "supabase/agent-skills":
 
-This project, "Agent Skills", provides a set of tools to help developers integrate AI agents with Supabase, a cloud-based platform for PostgreSQL and real-time data synchronization. By leveraging AI/ML capabilities, this integration enables developers to build more sophisticated applications and workflows. The project aims to simplify the process of developing AI-driven solutions with Supabase.
+Supabase Agent Skills is an open-source project that enables developers to seamlessly integrate AI agents with Supabase, a leading open-source PostgreSQL alternative. By leveraging Agent Skills, developers can unlock the full potential of AI-powered automation and orchestration for their applications, streamlining development workflows. This project bridges the gap between AI, ML, and database management, empowering developers to build more efficient and scalable solutions.
 
 ---
 

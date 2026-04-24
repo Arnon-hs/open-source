@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-GPTGames is an open-source collection of simple HTML, JS, and CSS games and tools, developed with the assistance of AI models ChatGPT and Claude. This project showcases the potential of AI-driven collaboration in front-end and back-end development, offering a unique blend of creativity and technical expertise. By exploring GPTGames, developers can access a diverse range of interactive projects and gain insights into the intersection of AI and web development.
+GPTGames is an open-source collection of simple HTML, JS, CSS games and tools created using the assistance of AI models, including ChatGPT and Claude. This project showcases the capabilities of AI-powered development and offers a starting point for developers to explore the intersection of AI and web development. The repository serves as a collaborative platform for users to contribute and expand the range of games and tools available.
 
 ---
 

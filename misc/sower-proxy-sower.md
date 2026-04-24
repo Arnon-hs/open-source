@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Sower is an open-source, cross-platform intelligent transparent proxy solution designed to provide flexibility and efficiency in network traffic management. This project offers a robust and adaptable solution for various use cases, including but not limited to, network security, optimization, and analytics. By leveraging its intelligent features, Sower enables users to effectively manage and monitor their network traffic.
+Sower is an open-source, cross-platform intelligent transparent proxy solution designed to provide enhanced network functionality. It allows for the interception and manipulation of network traffic, offering users a flexible and customizable way to manage their internet connections. With its transparent proxy capabilities, Sower enables users to access remote services and resources securely and efficiently.
 
 ---
 

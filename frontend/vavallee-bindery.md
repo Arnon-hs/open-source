@@ -25,9 +25,9 @@ Frontend · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Here's a 3-sentence summary for the vavallee/bindery project:
+Here's a 2-3 sentence summary for the vavallee/bindery project:
 
-vavallee/bindery is an open-source, automated book download manager for Usenet that streamlines the process of managing your digital library. It integrates with SABnzbd to efficiently download books, monitors authors and search indexers, and organizes your collection. Designed as a modern replacement for Readarr, bindery provides a robust and customizable solution for book enthusiasts looking to automate their Usenet-based book collection.
+vavallee/bindery is an open-source, automated book download manager for Usenet, designed to streamline the process of collecting and organizing digital library content. This modern replacement for Readarr integrates with SABnzbd for seamless downloading and indexing, while also monitoring authors and search indexers to keep your library up-to-date. By automating tasks and providing robust organization features, bindery simplifies the management of your digital book collection.
 
 ---
 

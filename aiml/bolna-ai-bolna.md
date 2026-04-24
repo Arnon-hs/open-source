@@ -1,6 +1,6 @@
 # bolna-ai/bolna
 
-[![Stars](https://img.shields.io/github/stars/bolna-ai/bolna?style=flat-square&color=yellow)](https://github.com/bolna-ai/bolna/stargazers) [![Forks](https://img.shields.io/github/forks/bolna-ai/bolna?style=flat-square&color=blue)](https://github.com/bolna-ai/bolna/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bolna-ai/bolna?style=flat-square&color=yellow)](https://github.com/bolna-ai/bolna/stargazers) [![Forks](https://img.shields.io/github/forks/bolna-ai/bolna?style=flat-square&color=blue)](https://github.com/bolna-ai/bolna/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Conversational voice AI agents
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 629 |
-| 🍴 **Forks** | 273 |
+| ⭐ **Stars** | 630 |
+| 🍴 **Forks** | 274 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

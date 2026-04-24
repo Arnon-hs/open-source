@@ -25,9 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the OxiCloud project:
-
-OxiCloud is an open-source, self-hosted cloud storage solution built with Rust, offering ultra-fast and secure storage for files, photos, calendars, and contacts in a single, lightweight platform. This intuitive solution provides a centralized hub for managing personal data, ideal for those seeking a private and reliable alternative to traditional cloud services. With its focus on security and performance, OxiCloud empowers users to take control of their digital lives.
+OxiCloud is an open-source, self-hosted cloud storage solution built using Rust, offering ultra-fast, secure, and lightweight storage for files, photos, calendars, and contacts. This comprehensive platform provides a centralized location to manage various digital assets, ensuring ease of access and control over sensitive data. By hosting OxiCloud on-premises, users can maintain complete ownership and security of their digital contents.
 
 ---
 

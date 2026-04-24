@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Claude Code Setup is an open-source project that provides a persistent memory system for Claude Code users. It offers convenient commands to initialize (/init-project), catch up on work (/catchup), and wrap up projects (/wrapup), ensuring seamless workflow continuity. This setup also includes features like coding standards, MCP servers, and modular skills to enhance the overall user experience.
+Claude Code Setup is an open-source project designed to provide a persistent memory system for Claude Code, utilizing Markdown for organization. This setup includes /init-project, /catchup, and /wrapup commands, ensuring seamless coding standards adherence, MCP server integration, and modular skills management. The project resolves context loss issues caused by the /clear command, making it a valuable tool for AI/ML developers and backend professionals.
 
 ---
 

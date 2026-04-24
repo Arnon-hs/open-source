@@ -1,0 +1,32 @@
+# hugovk/pypistats
+
+[![Stars](https://img.shields.io/github/stars/hugovk/pypistats?style=flat-square&color=yellow)](https://github.com/hugovk/pypistats/stargazers) [![Forks](https://img.shields.io/github/forks/hugovk/pypistats?style=flat-square&color=blue)](https://github.com/hugovk/pypistats/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+
+> Command-line interface to PyPI Stats API to get download stats for Python packages
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 240 |
+| 🍴 **Forks** | 33 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Backend · DevTools · Marketing
+
+## 📝 Summary
+
+Pypistats is an open-source command-line interface that provides access to download statistics for Python packages from the PyPI (Python Package Index) through its Stats API. This tool allows developers to retrieve and analyze data on package downloads, offering valuable insights into a package's popularity and usage. By leveraging Pypistats, developers can gain a better understanding of their package's performance and make informed decisions about its maintenance and development.
+
+---
+
+<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/hugovk/pypistats) · [← Back to Backend](./README.md)</sub>

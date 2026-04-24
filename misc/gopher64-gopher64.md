@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The gopher64 project is an open-source, highly compatible emulator designed to run Nintendo 64 (N64) games on various platforms. Developed with a focus on accuracy and compatibility, gopher64 aims to provide a seamless gaming experience for N64 enthusiasts. By leveraging its robust architecture, users can expect reliable performance and faithful recreation of their favorite N64 titles.
+The gopher64 project is an open-source N64 emulator designed for high compatibility, allowing users to play a wide range of Nintendo 64 games on various platforms. This emulator aims to provide a seamless gaming experience, reproducing the original console's graphics and functionality with great accuracy. Developed by the gopher64 community, this emulator is a valuable resource for retro gaming enthusiasts and developers.
 
 ---
 

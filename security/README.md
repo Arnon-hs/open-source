@@ -12,8 +12,8 @@
 | 2 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14k | C | 100/100 |
 | 3 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.2k | Python | 100/100 |
 | 4 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
-| 5 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
-| 6 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 25.9k | Go | 100/100 |
+| 5 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 25.9k | Go | 100/100 |
+| 6 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
 | 7 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6k | C++ | 100/100 |
 | 8 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
 | 9 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
@@ -27,8 +27,8 @@
 | 17 | [ossf/scorecard](./ossf-scorecard.md) | ⭐ 5.4k | Go | 87/100 |
 | 18 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.7k | Rust | 85/100 |
 | 19 | [pocket-id/pocket-id](./pocket-id-pocket-id.md) | ⭐ 7.6k | Go | 84/100 |
-| 20 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4k | TypeScript | 83/100 |
-| 21 | [openziti/ziti](./openziti-ziti.md) | ⭐ 4.1k | Go | 83/100 |
+| 20 | [openziti/ziti](./openziti-ziti.md) | ⭐ 4.1k | Go | 83/100 |
+| 21 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4k | TypeScript | 83/100 |
 | 22 | [rizinorg/rizin](./rizinorg-rizin.md) | ⭐ 3.5k | C | 79/100 |
 | 23 | [zizmorcore/zizmor](./zizmorcore-zizmor.md) | ⭐ 4.3k | Rust | 78/100 |
 | 24 | [EnergizedProtection/block](./energizedprotection-block.md) | ⭐ 2.8k | — | 73/100 |
@@ -43,8 +43,8 @@
 | 33 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 55/100 |
 | 34 | [lf-edge/eve](./lf-edge-eve.md) | ⭐ 544 | Go | 55/100 |
 | 35 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 309 | Python | 53/100 |
-| 36 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
-| 37 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
+| 36 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
+| 37 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
 | 38 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 166 | Go | 51/100 |
 | 39 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
 

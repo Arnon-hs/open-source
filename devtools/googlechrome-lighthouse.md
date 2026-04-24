@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Lighthouse is an open-source project that provides automated auditing and performance metrics for the web, helping developers improve the quality and user experience of their websites. It offers a comprehensive set of best practices for web development, covering accessibility, performance, security, and more. With Lighthouse, developers can identify areas of improvement and optimize their websites for better user engagement and search engine rankings.
+Lighthouse is an open-source project that provides automated auditing and performance metrics for the web. It offers best practices and recommendations for improving the quality, accessibility, and security of web pages, making it a valuable tool for developers and designers. By leveraging Lighthouse, users can identify areas for improvement and optimize their web experiences to meet the highest standards.
 
 ---
 

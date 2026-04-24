@@ -25,7 +25,7 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-This open-source project, terraform-aws-github-runner, provides a scalable and easily manageable Terraform module for deploying GitHub action runners on AWS. It enables users to set up and manage a fleet of runners, suitable for continuous integration and continuous deployment (CI/CD) pipelines, with a simple and flexible configuration. By using this module, developers can efficiently automate their GitHub workflows on the cloud.
+This open-source project, Terraform-aws-github-runner, is an AWS-based Terraform module designed to provide scalable GitHub action runners. It enables users to easily create and manage infrastructure for their GitHub action workflows, allowing for seamless automation and integration with AWS resources. By leveraging this module, developers can streamline their CI/CD pipelines and improve overall efficiency.
 
 ---
 

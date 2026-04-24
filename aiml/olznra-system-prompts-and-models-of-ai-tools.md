@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, olznra/system-prompts-and-models-of-ai-tools, provides a collection of tools and models designed to aid in the development of reliable and effective AI agents and prompts. The project offers a foundation for AI engineering, allowing users to build and refine their AI systems. It is a collaborative effort, with a community-driven Discord discussion for sharing insights and expertise.
+The open-source project "olznra/system-prompts-and-models-of-ai-tools" provides a comprehensive set of tools and models for building reliable AI agents and crafting effective prompts. This platform aims to simplify and streamline AI engineering by offering a collaborative community and shared resources. By leveraging this project, developers can create robust AI solutions with greater ease and efficiency.
 
 ---
 

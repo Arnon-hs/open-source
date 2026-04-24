@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Microck/kagi-cli project:
-
-Microck/kagi-cli is an open-source terminal CLI that provides command-line access to a range of Kagi features, including search, lenses, assistant, summarization, feeds, and paid API commands. This tool enables users to leverage the capabilities of Kagi in a more efficient and flexible way. By utilizing the terminal interface, users can streamline their workflow and interact with Kagi's AI-powered tools from the comfort of their command line.
+The Microck/kagi-cli is an open-source terminal command-line interface for Kagi, providing users with a convenient way to access various Kagi features from the command line. With this CLI, users can perform tasks such as searching, accessing customized lenses, interacting with the AI assistant, summarizing content, managing feeds, and utilizing paid API commands. This tool streamlines the Kagi experience, making it easier to integrate AI-powered functionality into daily workflows.
 
 ---
 

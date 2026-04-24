@@ -25,9 +25,7 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the stephnangue/warden project:
-
-Warden is an open-source egress gateway designed to secure communication between AI agents and external APIs. It authenticates, authorizes, and audits every API call, ensuring that sensitive agent credentials remain isolated and secure. This robust security solution protects AI agents from potential threats while maintaining seamless API connectivity.
+Warden is an open-source egress gateway designed for AI agents, ensuring the secure handling of API calls. It authenticates, authorizes, and audits each call, preventing unauthorized access and maintaining transparency. By separating credentials from AI agents, Warden provides a secure and auditable environment for AI operations.
 
 ---
 

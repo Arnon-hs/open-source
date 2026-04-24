@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The NVIDIA-AI-Blueprints/video-search-and-summarization project is an open-source initiative that enables the efficient ingestion of large video datasets, allowing for the extraction of valuable insights through automated summarization and interactive question-answering capabilities. This blueprint leverages AI and machine learning to unlock the full potential of video data, facilitating deeper analysis and understanding. By harnessing the power of AI, users can transform videos into actionable knowledge.
+Here's a brief summary of the project:
+
+The NVIDIA-AI-Blueprints/video-search-and-summarization is an open-source project that enables the ingestion of massive volumes of live or archived videos and extracts valuable insights for summarization and interactive Q&A. This framework leverages AI and ML capabilities to process and analyze video content, providing a powerful tool for media analysis and information retrieval. By harnessing the potential of AI-driven video analysis, users can unlock new ways to engage with and understand video content.
 
 ---
 
