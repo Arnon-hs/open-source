@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2500** |
+| 🗂️ **Total projects** | **2580** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 926 | [Browse →](./aiml/) |
-| 📦 **Misc** | 405 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 273 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 229 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 162 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 126 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 101 | [Browse →](./crypto/) |
-| 📊 **Data** | 71 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 59 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 38 | [Browse →](./payments/) |
+| 🤖 **AI/ML** | 958 | [Browse →](./aiml/) |
+| 📦 **Misc** | 418 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 282 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 239 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 165 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 127 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 106 | [Browse →](./crypto/) |
+| 📊 **Data** | 72 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 60 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 39 | [Browse →](./payments/) |
 | 📱 **Mobile** | 35 | [Browse →](./mobile/) |
-| 🔐 **Security** | 27 | [Browse →](./security/) |
-| 📈 **Trading** | 27 | [Browse →](./trading/) |
+| 📈 **Trading** | 29 | [Browse →](./trading/) |
+| 🔐 **Security** | 28 | [Browse →](./security/) |
+| ✨ **Design** | 10 | [Browse →](./design/) |
 | 🎯 **Product** | 10 | [Browse →](./product/) |
-| ✨ **Design** | 9 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [asgeirtj/system_prompts_leaks](./aiml/asgeirtj-system-prompts-leaks.md) | ⭐ 38.8k | AI/ML |
-| 2 | [apache/tvm](./misc/apache-tvm.md) | ⭐ 13.3k | Misc |
-| 3 | [Anuken/Mindustry](./mobile/anuken-mindustry.md) | ⭐ 27.4k | Mobile |
-| 4 | [stashapp/stash](./misc/stashapp-stash.md) | ⭐ 12.2k | Misc |
-| 5 | [opf/openproject](./product/opf-openproject.md) | ⭐ 14.9k | Product |
-| 6 | [dataelement/bisheng](./orchestration/dataelement-bisheng.md) | ⭐ 11.3k | Orchestration |
-| 7 | [dokku/dokku](./aiml/dokku-dokku.md) | ⭐ 31.9k | AI/ML |
-| 8 | [SBoudrias/Inquirer.js](./frontend/sboudrias-inquirer.js.md) | ⭐ 21.5k | Frontend |
-| 9 | [zhayujie/CowAgent](./orchestration/zhayujie-cowagent.md) | ⭐ 43.7k | Orchestration |
-| 10 | [cython/cython](./data/cython-cython.md) | ⭐ 10.7k | Data |
+| 1 | [firebase/firebase-js-sdk](./aiml/firebase-firebase-js-sdk.md) | ⭐ 5.1k | AI/ML |
+| 2 | [frappe/frappe](./aiml/frappe-frappe.md) | ⭐ 10k | AI/ML |
+| 3 | [Kilo-Org/kilocode](./aiml/kilo-org-kilocode.md) | ⭐ 18.5k | AI/ML |
+| 4 | [azerothcore/azerothcore-wotlk](./backend/azerothcore-azerothcore-wotlk.md) | ⭐ 8.2k | Backend |
+| 5 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.4k | AI/ML |
+| 6 | [awesome-foss/awesome-sysadmin](./misc/awesome-foss-awesome-sysadmin.md) | ⭐ 33.7k | Misc |
+| 7 | [cube-js/cube](./aiml/cube-js-cube.md) | ⭐ 19.8k | AI/ML |
+| 8 | [flameshot-org/flameshot](./frontend/flameshot-org-flameshot.md) | ⭐ 29.8k | Frontend |
+| 9 | [mickael-kerjean/filestash](./data/mickael-kerjean-filestash.md) | ⭐ 14.1k | Data |
+| 10 | [juicedata/juicefs](./aiml/juicedata-juicefs.md) | ⭐ 13.5k | AI/ML |
 
 ## 🚀 How it works
 

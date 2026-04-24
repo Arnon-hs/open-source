@@ -16,7 +16,7 @@
 | 6 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 71/100 |
 | 7 | [beam-community/elixir-companies](./beam-community-elixir-companies.md) | ⭐ 1.7k | Astro | 67/100 |
 | 8 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 59/100 |
-| 9 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 563 | Rust | 55/100 |
+| 9 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 564 | Rust | 55/100 |
 | 10 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | JavaScript | 53/100 |
 
 ---

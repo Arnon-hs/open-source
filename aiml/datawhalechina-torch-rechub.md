@@ -1,0 +1,32 @@
+# datawhalechina/torch-rechub
+
+[![Stars](https://img.shields.io/github/stars/datawhalechina/torch-rechub?style=flat-square&color=yellow)](https://github.com/datawhalechina/torch-rechub/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/torch-rechub?style=flat-square&color=blue)](https://github.com/datawhalechina/torch-rechub/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+
+> A Lighting Pytorch Framework for Recommendation Models, Easy-to-use and Easy-to-extend.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.1k |
+| 🍴 **Forks** | 138 |
+| 💻 **Language** | Jupyter Notebook |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI/ML · Data
+
+## 📝 Summary
+
+The torch-rechub project is an open-source, PyTorch-based framework for building recommendation models. Designed to be user-friendly and highly extensible, it provides a flexible platform for developing and deploying recommendation systems. This framework aims to simplify the process of creating and customizing recommendation models for various applications.
+
+---
+
+<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/datawhalechina/torch-rechub) · [← Back to AI/ML](./README.md)</sub>

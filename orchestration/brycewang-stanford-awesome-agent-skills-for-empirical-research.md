@@ -1,0 +1,34 @@
+# brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research
+
+[![Stars](https://img.shields.io/github/stars/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research?style=flat-square&color=yellow)](https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research/stargazers) [![Forks](https://img.shields.io/github/forks/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research?style=flat-square&color=blue)](https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research/network) [![Language](https://img.shields.io/badge/lang-Stata-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+
+> 🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 265 |
+| 🍴 **Forks** | 66 |
+| 💻 **Language** | Stata |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Orchestration · AI/ML
+
+## 📝 Summary
+
+Here's a 3-sentence summary for the open-source project:
+
+The Awesome-Agent-Skills-for-Empirical-Research project is an extensive, open-source collection of over 23,000 AI agent skills covering 8 social science disciplines. This curated library enables researchers to efficiently conduct empirical studies and reproduce results, with support for uploading custom skills. Maintained by CoPaper.AI from Stanford REAP, the project facilitates reproducible research in empirical studies.
+
+---
+
+<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research) · [← Back to Orchestration](./README.md)</sub>

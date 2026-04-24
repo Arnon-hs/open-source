@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 139 |
+| 🍴 **Forks** | 140 |
 | 💻 **Language** | Awk |
 | 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | — |
