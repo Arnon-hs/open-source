@@ -25,9 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the punkpeye/fastmcp project:
-
-FastMCP is an open-source, TypeScript-based framework designed to facilitate the development of MCP (Multi-Client Proxy) servers. This framework provides a robust and modular backend infrastructure for building scalable and efficient MCP servers, catering to the needs of developers working on various projects. With FastMCP, you can create high-performance MCP servers with ease, streamlining your development process.
+The punkpeye/fastmcp project is an open-source, TypeScript-based framework for developing MCP (Multi-Craft-Pocket) servers. It streamlines the process of building MCP servers, allowing developers to focus on creating robust and scalable backend solutions. With fastmcp, users can efficiently manage their MCP servers and deliver high-performance experiences to their users.
 
 ---
 

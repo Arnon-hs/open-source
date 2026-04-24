@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 808 |
+| 🍴 **Forks** | 809 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
@@ -25,9 +25,9 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the apache/gravitino project:
+Here's a summary for the apache/gravitino project:
 
-Gravitino is an open-source, high-performance metadata lake designed for building a geo-distributed and federated data catalog. This powerful platform enables the creation of a unified, scalable, and secure data catalog for AI/ML applications and data-driven projects. By leveraging Gravitino, developers can efficiently manage and integrate large-scale data assets across various locations and systems.
+Gravitino is an open-source data catalog designed to build high-performance, geo-distributed, and federated metadata lakes. This project enables the creation of a powerful metadata management system, ideal for large-scale AI and ML applications that rely on data from multiple sources. By providing a scalable and flexible data catalog, Gravitino empowers users to efficiently manage and integrate their data assets.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The Hetzner Cloud CSI driver is an open-source project that enables seamless integration of Hetzner Cloud Volumes with Kubernetes, allowing users to efficiently manage and utilize cloud storage resources. This driver provides a standardized interface for interacting with Hetzner Cloud storage, simplifying storage provisioning, mounting, and management within Kubernetes environments. By leveraging the CSI (Container Storage Interface) standard, users can leverage Hetzner Cloud storage capabilities with ease and consistency.
+The hetznercloud/csi-driver project is an open-source Kubernetes Container Storage Interface (CSI) driver that enables seamless integration with Hetzner Cloud Volumes, providing a scalable and efficient storage solution for containerized applications. This driver allows users to easily manage and provision Hetzner Cloud storage resources within their Kubernetes clusters. By leveraging this CSI driver, users can take advantage of Hetzner Cloud's reliable and cost-effective storage offerings.
 
 ---
 

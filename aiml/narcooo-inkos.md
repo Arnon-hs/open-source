@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 938 |
+| 🍴 **Forks** | 939 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 98/100 |
 | 🗓️ **Last push** | — |
@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Narcooo/inkos is an open-source, autonomous novel writing AI Agent that leverages artificial intelligence and machine learning to write, audit, and revise novels. This innovative project integrates human review gates to ensure high-quality output, allowing users to collaborate with the AI in the creative process. By harnessing the power of AI/ML, Narcooo/inkos aims to revolutionize the way novels are written and edited.
+The Narcooo/inkos project is an open-source, autonomous novel writing AI agent that leverages artificial intelligence and machine learning to write, audit, and revise novels. Designed to collaborate with human reviewers, this tool enables the creation of high-quality literary content through a unique combination of AI-driven creativity and human oversight. By streamlining the writing process, Narcooo/inkos aims to democratize access to novel writing and facilitate the development of innovative storytelling.
 
 ---
 

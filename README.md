@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2799** |
+| 🗂️ **Total projects** | **2852** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1054 | [Browse →](./aiml/) |
-| 📦 **Misc** | 446 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 303 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 257 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 175 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 144 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 1076 | [Browse →](./aiml/) |
+| 📦 **Misc** | 454 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 308 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 261 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 180 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 148 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 111 | [Browse →](./crypto/) |
-| 📊 **Data** | 78 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 64 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 41 | [Browse →](./payments/) |
+| 📊 **Data** | 79 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 66 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 42 | [Browse →](./payments/) |
 | 📱 **Mobile** | 38 | [Browse →](./mobile/) |
+| 📈 **Trading** | 32 | [Browse →](./trading/) |
 | 🔐 **Security** | 32 | [Browse →](./security/) |
-| 📈 **Trading** | 31 | [Browse →](./trading/) |
 | ✨ **Design** | 11 | [Browse →](./design/) |
 | 🎯 **Product** | 11 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 3 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [rustdesk/rustdesk](./mobile/rustdesk-rustdesk.md) | ⭐ 112.8k | Mobile |
-| 2 | [swc-project/swc](./misc/swc-project-swc.md) | ⭐ 33.4k | Misc |
-| 3 | [pola-rs/polars](./data/pola-rs-polars.md) | ⭐ 38.3k | Data |
-| 4 | [GopeedLab/gopeed](./frontend/gopeedlab-gopeed.md) | ⭐ 24.1k | Frontend |
-| 5 | [kserve/kserve](./aiml/kserve-kserve.md) | ⭐ 5.4k | AI/ML |
-| 6 | [home-assistant/core](./misc/home-assistant-core.md) | ⭐ 86.2k | Misc |
-| 7 | [kestra-io/kestra](./orchestration/kestra-io-kestra.md) | ⭐ 26.8k | Orchestration |
-| 8 | [daytonaio/daytona](./orchestration/daytonaio-daytona.md) | ⭐ 72.4k | Orchestration |
-| 9 | [OpenHands/OpenHands](./aiml/openhands-openhands.md) | ⭐ 72k | AI/ML |
-| 10 | [navidrome/navidrome](./aiml/navidrome-navidrome.md) | ⭐ 20.6k | AI/ML |
+| 1 | [Kong/insomnia](./aiml/kong-insomnia.md) | ⭐ 38.3k | AI/ML |
+| 2 | [ankidroid/Anki-Android](./mobile/ankidroid-anki-android.md) | ⭐ 11k | Mobile |
+| 3 | [endless-sky/endless-sky](./trading/endless-sky-endless-sky.md) | ⭐ 7.3k | Trading |
+| 4 | [browseros-ai/BrowserOS](./aiml/browseros-ai-browseros.md) | ⭐ 10.6k | AI/ML |
+| 5 | [frappe/erpnext](./aiml/frappe-erpnext.md) | ⭐ 33.2k | AI/ML |
+| 6 | [better-auth/better-auth](./payments/better-auth-better-auth.md) | ⭐ 28k | Payments |
+| 7 | [dragonflydb/dragonfly](./aiml/dragonflydb-dragonfly.md) | ⭐ 30.4k | AI/ML |
+| 8 | [kubernetes-sigs/external-dns](./backend/kubernetes-sigs-external-dns.md) | ⭐ 8.9k | Backend |
+| 9 | [kserve/kserve](./aiml/kserve-kserve.md) | ⭐ 5.4k | AI/ML |
+| 10 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
 
 ## 🚀 How it works
 

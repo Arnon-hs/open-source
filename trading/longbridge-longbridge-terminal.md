@@ -25,9 +25,9 @@ Trading · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the longbridge/longbridge-terminal project:
+This is a brief summary of the longbridge/longbridge-terminal project:
 
-Longbridge Terminal is an open-source, AI-native command-line interface for the Longbridge trading platform. This terminal provides users with real-time access to market data, portfolio information, and trading functionality, enhancing their trading experience with Longbridge. With its AI/ML capabilities, Longbridge Terminal offers a sophisticated and intuitive platform for traders to navigate and execute trades efficiently.
+The longbridge-terminal is an open-source, AI-native command-line interface (CLI) for the Longbridge trading platform. It provides real-time access to market data, portfolio information, and trading capabilities, empowering users to streamline their trading experience. Built with AI and machine learning integration, this terminal offers a powerful tool for traders and developers alike.
 
 ---
 

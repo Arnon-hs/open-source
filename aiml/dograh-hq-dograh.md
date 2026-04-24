@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The dograh project is an open-source voice agent platform designed to facilitate the development of intelligent voice-based applications. Built with AI/ML capabilities, it provides a comprehensive backend infrastructure for integrating voice interfaces into software systems. This platform empowers developers to create sophisticated voice-driven solutions with ease.
+Here's a 2-3 sentence summary for the dograh project:
+
+The dograh open-source project is a cutting-edge Voice Agent Platform that leverages AI and ML technologies to provide a powerful and flexible solution for building voice-enabled applications. Built on a robust backend infrastructure, dograh enables developers to create custom voice agents that can integrate with various systems and services. This platform offers a unique opportunity for developers to harness the power of voice interaction and create innovative applications.
 
 ---
 

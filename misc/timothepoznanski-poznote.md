@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Poznote is an open-source personal note-taking and documentation platform designed to help users organize and manage their thoughts, ideas, and important information. This versatile platform provides a flexible and customizable space for users to create, edit, and store a wide range of notes and documents. With Poznote, users can streamline their productivity and access their notes from anywhere.
+Poznote is an open-source personal note-taking and documentation platform designed to help users efficiently organize and store their thoughts and information. With Poznote, users can create, edit, and manage notes in a secure and customizable environment. This flexible platform is ideal for individuals seeking a simple yet effective note-taking solution.
 
 ---
 

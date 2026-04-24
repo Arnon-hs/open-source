@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Mindolph is an open-source personal knowledge management software that integrates Gen-AI capabilities, providing users with a powerful tool for organizing and leveraging their knowledge across desktop platforms. This innovative software enables users to harness the potential of artificial intelligence to streamline their knowledge management processes. By offering Gen-AI support, Mindolph aims to revolutionize the way individuals collect, process, and utilize information.
+Here's a brief summary for the Mindolph project:
+
+Mindolph is an open-source, personal knowledge management software that integrates Gen-AI support for users across various desktop platforms. This innovative tool enables users to efficiently organize, store, and retrieve their knowledge, leveraging the power of artificial intelligence for enhanced productivity and discovery. By harnessing the capabilities of Gen-AI, Mindolph empowers users to unlock new possibilities for learning, creativity, and collaboration.
 
 ---
 

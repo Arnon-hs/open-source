@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Runtipi AppStore is an open-source project that serves as the official repository for Runtipi applications and updates. This platform provides a centralized location for users to access and manage their Runtipi applications, ensuring seamless updates and organization. The Runtipi AppStore plays a crucial role in the Runtipi ecosystem, facilitating DevOps and infrastructure management.
+The runtipi/appstore project is an official open-source repository for the Runtipi AppStore, serving as a central hub for all applications and updates. This DevOps/Infra initiative aims to streamline the management and distribution of apps, providing a unified platform for users. By hosting the Runtipi AppStore here, developers can easily access, download, and update various applications.
 
 ---
 

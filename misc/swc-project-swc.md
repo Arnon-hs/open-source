@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The SWC (Small Web Compiler) project is an open-source, Rust-based platform for compiling and processing web assets. It provides a high-performance and flexible toolchain for tasks such as code compilation, bundling, and optimization, making it an ideal solution for web development and deployment. With its modular design and extensive plug-in ecosystem, SWC empowers developers to build efficient and scalable web applications.
+The swc project is an open-source, Rust-based platform that enables the development of web applications, providing a robust set of tools and libraries for building fast and efficient web experiences. Designed to support various web-related tasks, such as compiling and processing JavaScript code, swc offers a flexible and scalable solution for web development. Its Rust foundation allows for high-performance and secure web applications.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The rainbond project is an open-source container platform that simplifies the process of building, deploying, and managing applications on Kubernetes without requiring expertise in Kubernetes. This graphical platform provides a user-friendly interface for assembling and managing apps, making it accessible to developers of all levels. By leveraging rainbond, developers can focus on their applications rather than learning the intricacies of Kubernetes.
+Here's a brief summary for the goodrain/rainbond open-source project:
+
+Rainbond is an open-source container platform that simplifies the process of building, deploying, and managing applications on Kubernetes without requiring extensive Kubernetes expertise. This graphical platform provides a user-friendly interface for assembling and managing apps, making it accessible to developers of all skill levels. By leveraging Rainbond, users can leverage the power of Kubernetes without needing to learn its complexities.
 
 ---
 

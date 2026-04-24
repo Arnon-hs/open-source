@@ -27,7 +27,7 @@ Orchestration · AI/ML · DevTools
 
 Here's a brief summary for the OpenSwarm project:
 
-OpenSwarm is an open-source project that serves as an autonomous AI development team orchestrator, utilizing the Claude Code CLI to streamline and automate various tasks. With features such as Discord control and Linear integration, it enables teams to collaborate more efficiently and effectively. By incorporating cognitive memory, OpenSwarm fosters a more intelligent and adaptive development process.
+OpenSwarm is an open-source project that enables the orchestration of autonomous AI development teams using the Claude Code CLI. It integrates with popular tools such as Discord and Linear, allowing teams to streamline their workflow and collaborate more effectively. With its cognitive memory feature, OpenSwarm empowers teams to learn from their experiences and improve their development processes over time.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Yorkie is an open-source document store designed for collaborative applications, enabling efficient and seamless data management across multiple users. This project aims to provide a scalable and reliable solution for real-time document collaboration, making it suitable for a wide range of use cases. With Yorkie, developers can build robust and data-driven applications that facilitate seamless teamwork and communication.
+Yorkie is an open-source document store designed to support collaborative applications, providing a scalable and efficient solution for real-time data synchronization. This project enables multiple users to work together on shared documents and data in a seamless and synchronized manner. By leveraging Yorkie, developers can build robust and collaborative applications with ease.
 
 ---
 

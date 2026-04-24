@@ -1,6 +1,6 @@
 # zhfahim/anchor
 
-[![Stars](https://img.shields.io/github/stars/zhfahim/anchor?style=flat-square&color=yellow)](https://github.com/zhfahim/anchor/stargazers) [![Forks](https://img.shields.io/github/forks/zhfahim/anchor?style=flat-square&color=blue)](https://github.com/zhfahim/anchor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhfahim/anchor?style=flat-square&color=yellow)](https://github.com/zhfahim/anchor/stargazers) [![Forks](https://img.shields.io/github/forks/zhfahim/anchor?style=flat-square&color=blue)](https://github.com/zhfahim/anchor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Offline first, self hostable note taking application
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 855 |
+| ⭐ **Stars** | 856 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | youtube |
 

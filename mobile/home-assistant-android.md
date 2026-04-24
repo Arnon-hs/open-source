@@ -25,7 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-Home Assistant Companion for Android is an open-source project that provides a mobile application for controlling and monitoring your Home Assistant setup on-the-go. This companion app allows users to access and control their smart home devices remotely, receive notifications, and view system information from their Android device. With Home Assistant Companion for Android, users can enjoy seamless integration with their smart home ecosystem.
+The Home Assistant Companion for Android is an open-source project that allows users to control and monitor their Home Assistant setup directly from their Android device. This mobile application provides a seamless and intuitive way to manage smart home devices, access automation logs, and receive notifications. By linking their Home Assistant instance to the Android app, users can enjoy a centralized and convenient control experience.
 
 ---
 

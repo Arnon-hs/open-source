@@ -8,11 +8,11 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 112.8k | Rust | 100/100 |
-| 2 | [ankidroid/Anki-Android](./ankidroid-anki-android.md) | ⭐ 11k | Kotlin | 100/100 |
-| 3 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.4k | C | 100/100 |
-| 4 | [immich-app/immich](./immich-app-immich.md) | ⭐ 98.5k | TypeScript | 100/100 |
-| 5 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.3k | Markdown | 100/100 |
+| 1 | [ankidroid/Anki-Android](./ankidroid-anki-android.md) | ⭐ 11k | Kotlin | 100/100 |
+| 2 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.4k | C | 100/100 |
+| 3 | [immich-app/immich](./immich-app-immich.md) | ⭐ 98.5k | TypeScript | 100/100 |
+| 4 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.3k | Markdown | 100/100 |
+| 5 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 112.8k | Rust | 100/100 |
 | 6 | [Anuken/Mindustry](./anuken-mindustry.md) | ⭐ 27.4k | Java | 100/100 |
 | 7 | [yuliskov/SmartTube](./yuliskov-smarttube.md) | ⭐ 29.7k | Java | 99/100 |
 | 8 | [bitwarden/android](./bitwarden-android.md) | ⭐ 8.7k | Kotlin | 96/100 |
@@ -43,7 +43,7 @@
 | 33 | [LemmyNet/jerboa](./lemmynet-jerboa.md) | ⭐ 1.3k | Kotlin | 59/100 |
 | 34 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 946 | Dart | 58/100 |
 | 35 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
-| 36 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 752 | Kotlin | 56/100 |
+| 36 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 753 | Kotlin | 56/100 |
 | 37 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 560 | Rust | 54/100 |
 | 38 | [leon-cleaning-services/leon](./leon-cleaning-services-leon.md) | ⭐ 352 | Kotlin | 52/100 |
 

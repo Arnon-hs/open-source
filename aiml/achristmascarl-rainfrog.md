@@ -25,9 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Rainfrog is an open-source terminal database tool that provides a user-friendly interface for managing and interacting with database systems. This project allows developers to leverage their terminal for database operations, enhancing productivity and efficiency. With its focus on simplicity and ease of use, Rainfrog aims to make database management more accessible for users.
+Rainfrog is an open-source database tool designed for use in the terminal. It provides a user-friendly interface for managing and interacting with databases, allowing users to perform various operations with ease. This project aims to simplify database management and make it more accessible for users, especially those who prefer a command-line interface.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**64 projects** in this category.
+**66 projects** in this category.
 
 ## Projects
 
@@ -47,31 +47,33 @@
 | 37 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 947 | Go Template | 72/100 |
 | 38 | [microsoft/retina](./microsoft-retina.md) | ⭐ 3.1k | Go | 71/100 |
 | 39 | [NVIDIA/gpu-operator](./nvidia-gpu-operator.md) | ⭐ 2.7k | Go | 71/100 |
-| 40 | [Telmate/terraform-provider-proxmox](./telmate-terraform-provider-proxmox.md) | ⭐ 2.9k | Go | 69/100 |
-| 41 | [phusion/passenger-docker](./phusion-passenger-docker.md) | ⭐ 2.8k | Shell | 66/100 |
-| 42 | [aws-controllers-k8s/community](./aws-controllers-k8s-community.md) | ⭐ 2.6k | — | 65/100 |
-| 43 | [pingcap/tidb-operator](./pingcap-tidb-operator.md) | ⭐ 1.3k | Go | 65/100 |
-| 44 | [GoogleCloudPlatform/khi](./googlecloudplatform-khi.md) | ⭐ 2k | Go | 63/100 |
-| 45 | [ssili126/tv](./ssili126-tv.md) | ⭐ 1.9k | Python | 63/100 |
-| 46 | [cr0hn/dockerscan](./cr0hn-dockerscan.md) | ⭐ 1.5k | Go | 62/100 |
-| 47 | [kubernetes-sigs/aws-efs-csi-driver](./kubernetes-sigs-aws-efs-csi-driver.md) | ⭐ 793 | Go | 61/100 |
-| 48 | [kimdre/doco-cd](./kimdre-doco-cd.md) | ⭐ 1.3k | Go | 60/100 |
-| 49 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 60/100 |
-| 50 | [opensearch-project/opensearch-k8s-operator](./opensearch-project-opensearch-k8s-operator.md) | ⭐ 542 | Go | 59/100 |
-| 51 | [hookdeck/outpost](./hookdeck-outpost.md) | ⭐ 932 | Go | 57/100 |
-| 52 | [aliyun/terraform-provider-alicloud](./aliyun-terraform-provider-alicloud.md) | ⭐ 653 | Go | 57/100 |
-| 53 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 471 | JavaScript | 56/100 |
-| 54 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
-| 55 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 895 | Go | 56/100 |
-| 56 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.3k | TypeScript | 55/100 |
-| 57 | [topolvm/topolvm](./topolvm-topolvm.md) | ⭐ 1.1k | Go | 54/100 |
-| 58 | [argoproj-labs/gitops-promoter](./argoproj-labs-gitops-promoter.md) | ⭐ 443 | Go | 54/100 |
-| 59 | [SlinkyProject/slurm-operator](./slinkyproject-slurm-operator.md) | ⭐ 282 | Go | 53/100 |
-| 60 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 395 | Go | 53/100 |
-| 61 | [stolostron/multicluster-observability-operator](./stolostron-multicluster-observability-operator.md) | ⭐ 140 | Go | 52/100 |
-| 62 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 928 | Dockerfile | 48/100 |
-| 63 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 42/100 |
-| 64 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
+| 40 | [kubernetes-sigs/kueue](./kubernetes-sigs-kueue.md) | ⭐ 2.5k | Go | 70/100 |
+| 41 | [Telmate/terraform-provider-proxmox](./telmate-terraform-provider-proxmox.md) | ⭐ 2.9k | Go | 69/100 |
+| 42 | [phusion/passenger-docker](./phusion-passenger-docker.md) | ⭐ 2.8k | Shell | 66/100 |
+| 43 | [aws-controllers-k8s/community](./aws-controllers-k8s-community.md) | ⭐ 2.6k | — | 65/100 |
+| 44 | [pingcap/tidb-operator](./pingcap-tidb-operator.md) | ⭐ 1.3k | Go | 65/100 |
+| 45 | [GoogleCloudPlatform/khi](./googlecloudplatform-khi.md) | ⭐ 2k | Go | 63/100 |
+| 46 | [ssili126/tv](./ssili126-tv.md) | ⭐ 1.9k | Python | 63/100 |
+| 47 | [cr0hn/dockerscan](./cr0hn-dockerscan.md) | ⭐ 1.5k | Go | 62/100 |
+| 48 | [kubernetes-sigs/aws-efs-csi-driver](./kubernetes-sigs-aws-efs-csi-driver.md) | ⭐ 793 | Go | 61/100 |
+| 49 | [kimdre/doco-cd](./kimdre-doco-cd.md) | ⭐ 1.3k | Go | 60/100 |
+| 50 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 60/100 |
+| 51 | [opensearch-project/opensearch-k8s-operator](./opensearch-project-opensearch-k8s-operator.md) | ⭐ 542 | Go | 59/100 |
+| 52 | [hookdeck/outpost](./hookdeck-outpost.md) | ⭐ 932 | Go | 57/100 |
+| 53 | [aliyun/terraform-provider-alicloud](./aliyun-terraform-provider-alicloud.md) | ⭐ 653 | Go | 57/100 |
+| 54 | [kubernetes/org](./kubernetes-org.md) | ⭐ 287 | Go | 56/100 |
+| 55 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 471 | JavaScript | 56/100 |
+| 56 | [commercialhaskell/stackage](./commercialhaskell-stackage.md) | ⭐ 549 | Dockerfile | 56/100 |
+| 57 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 895 | Go | 56/100 |
+| 58 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.3k | TypeScript | 55/100 |
+| 59 | [topolvm/topolvm](./topolvm-topolvm.md) | ⭐ 1.1k | Go | 54/100 |
+| 60 | [argoproj-labs/gitops-promoter](./argoproj-labs-gitops-promoter.md) | ⭐ 443 | Go | 54/100 |
+| 61 | [SlinkyProject/slurm-operator](./slinkyproject-slurm-operator.md) | ⭐ 282 | Go | 53/100 |
+| 62 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 395 | Go | 53/100 |
+| 63 | [stolostron/multicluster-observability-operator](./stolostron-multicluster-observability-operator.md) | ⭐ 140 | Go | 52/100 |
+| 64 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 929 | Dockerfile | 48/100 |
+| 65 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 42/100 |
+| 66 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
 
 ---
 

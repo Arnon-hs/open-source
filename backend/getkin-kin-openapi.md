@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the getkin/kin-openapi project:
-
-Kin-OpenAPI is an open-source Go library for working with OpenAPI 3.0 and Swagger v2 specifications. It provides a comprehensive set of features for parsing, validating, and converting OpenAPI definitions, making it an essential tool for developers building RESTful APIs in Go. With Kin-OpenAPI, you can easily generate API clients, validate API definitions, and more.
+The kin-openapi project is an open-source implementation of OpenAPI 3.0 (and Swagger v2) for the Go programming language. It provides a comprehensive set of features for parsing, converting, and validating OpenAPI specifications. This project enables developers to work with OpenAPI definitions in a robust and efficient manner, facilitating the creation of RESTful APIs and API-first development workflows.
 
 ---
 

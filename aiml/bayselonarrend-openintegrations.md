@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project in 2-3 sentences:
+Here's a brief summary for the OpenIntegrations project:
 
-OpenIntegrations is an open-source toolkit that enables seamless integration with popular services and technologies for 1C:Enterprise, OneScript, and CLI. This collection of tools supports a wide range of platforms, including social media (Telegram, VK), productivity software (Bitrix24, Google), and databases (PostgreSQL, SQLite, MySQL). By leveraging OpenIntegrations, developers can easily connect their applications to various external services and enhance their functionality.
+OpenIntegrations is an open-source collection of integration tools for popular services and technologies, allowing seamless connectivity with 1C:Enterprise, OneScript, and CLI. This comprehensive set of integrations supports a wide range of platforms, including social media (Telegram, VK), cloud storage (Google, Yandex), databases (S3, PostgreSQL, SQLite, MySQL), and more. By leveraging OpenIntegrations, developers can easily extend the capabilities of 1C:Enterprise and streamline data exchange across various systems.
 
 ---
 

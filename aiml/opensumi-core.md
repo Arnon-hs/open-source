@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary:
 
-Opensumi/core is an open-source framework designed to facilitate the rapid development of AI Native IDE products. It provides a MCP Client that enables seamless integration with Model Context Protocol (MCP) tools through an MCP server, supporting a wide range of AI and machine learning applications. This framework offers a comprehensive solution for building innovative AI-powered development environments.
+opensumi/core is an open-source framework designed to streamline the development of AI-native Integrated Development Environment (IDE) products. It provides a MCP Client that enables integration with Model Context Protocol (MCP) tools through an MCP server, facilitating seamless communication and collaboration. This framework is ideal for building cutting-edge AI and ML-powered IDE solutions with a robust and scalable architecture.
 
 ---
 

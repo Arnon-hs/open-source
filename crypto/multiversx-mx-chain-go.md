@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-This is the official Go implementation of the MultiversX blockchain protocol, providing a foundation for developers to build upon and interact with the MultiversX ecosystem. Written in Go, this open-source project offers a secure and efficient way to access and utilize the features of the MultiversX blockchain. It facilitates the creation of various applications and services that operate on the MultiversX network.
+The multiversx/mx-chain-go project is an open-source implementation of the MultiversX blockchain protocol, built using the Go programming language. This official API provides developers with a foundation for creating applications on the MultiversX network, offering a robust and secure interface for interacting with the blockchain. By leveraging the project's capabilities, users can tap into the power of the MultiversX ecosystem.
 
 ---
 

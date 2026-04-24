@@ -1,0 +1,32 @@
+# giselles-ai/giselle
+
+[![Stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=flat-square&color=yellow)](https://github.com/giselles-ai/giselle/stargazers) [![Forks](https://img.shields.io/github/forks/giselles-ai/giselle?style=flat-square&color=blue)](https://github.com/giselles-ai/giselle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+
+> Giselle: AI App Builder. Open Source.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 518 |
+| 🍴 **Forks** | 121 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Orchestration · AI/ML · Frontend
+
+## 📝 Summary
+
+Giselle is an open-source AI application builder that enables users to create, deploy, and manage AI models with ease. This project offers an intuitive interface for orchestrating AI/ML workflows and building custom frontend applications, making it an ideal solution for developers and data scientists alike. By leveraging Giselle, users can streamline their AI development process and bring innovative ideas to life.
+
+---
+
+<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/giselles-ai/giselle) · [← Back to Orchestration](./README.md)</sub>

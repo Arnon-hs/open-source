@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-The Strophox/tetro-tui project is an open-source, terminal-based tetromino-stacking game that offers a modern gaming experience on various platforms. This customizable game is designed to provide an engaging experience in the terminal, allowing users to enjoy the classic gameplay in a modern and dynamic way. With its cross-platform compatibility, users can play the game on different operating systems and devices.
+Here's a brief summary for the Strophox/tetro-tui project:
+
+Strophox/tetro-tui is a free, open-source tetromino-stacking game designed for the terminal. This modern game offers extensive customization options and is compatible with multiple platforms, providing a fun and accessible experience for players. With its terminal-based interface, tetro-tui brings the classic puzzle game to the modern era.
 
 ---
 

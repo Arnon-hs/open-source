@@ -25,9 +25,7 @@ Frontend · DevTools · Product
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the massCode project:
-
-massCode is a free, open-source developer workspace that combines snippets, notes, calculations, and dev tools in a single, local-first application. This innovative platform provides developers with a seamless and efficient environment to manage their projects, ideas, and tasks. With massCode, users can streamline their workflow and boost productivity without relying on cloud services.
+massCode is a free, open-source developer workspace that provides a comprehensive platform for developers to manage snippets, notes, calculations, and dev tools. This local-first application offers a centralized hub for all development needs, allowing users to streamline their workflow and boost productivity. By offering a flexible and customizable environment, massCode empowers developers to stay organized and focused on their projects.
 
 ---
 

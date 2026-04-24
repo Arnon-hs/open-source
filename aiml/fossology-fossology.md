@@ -25,7 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-FOSSology is an open-source license compliance software system and toolkit that helps organizations ensure adherence to licensing, copyright, and export control regulations. This comprehensive system provides both command-line tools for scanning licenses, copyrights, and export controls, as well as a database and web interface for streamlining compliance workflows. By leveraging FOSSology, developers and organizations can maintain a high level of confidence in their software's compliance.
+FOSSology is an open-source platform for managing license compliance, facilitating the scanning of software code for licenses, copyrights, and export controls. This comprehensive toolkit offers a command-line interface for on-demand scans, as well as a database and web-based user interface for streamlined compliance workflow management. By providing a robust set of tools and features, FOSSology helps organizations ensure the integrity and security of their software assets.
 
 ---
 

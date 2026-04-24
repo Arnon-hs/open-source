@@ -25,7 +25,7 @@ Mobile · Design
 
 ## 📝 Summary
 
-RustDesk is an open-source remote desktop application that enables self-hosting, providing a secure and scalable alternative to traditional solutions like TeamViewer. This cross-platform tool allows users to remotely access and control computers from their preferred devices, ensuring seamless communication and collaboration. With its open-source nature, RustDesk empowers users to customize and manage their remote desktop experience.
+RustDesk is an open-source remote desktop application that enables secure and self-hosted remote access, providing users with a viable alternative to traditional remote desktop solutions like TeamViewer. This cross-platform application offers seamless connectivity and control over remote desktops, allowing users to access and interact with their devices from anywhere. With its open-source nature, RustDesk promotes flexibility and customization for its users.
 
 ---
 

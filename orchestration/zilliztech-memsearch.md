@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The memsearch library is an open-source, Markdown-first memory system designed for use with any AI agent. Inspired by OpenClaw, this standalone library enables efficient and flexible memory management, catering to the needs of AI/ML applications. With its Markdown-first approach, memsearch simplifies the process of implementing complex memory systems.
+The memsearch project by zilliztech is an open-source, Markdown-first memory system designed as a standalone library for any AI agent. This innovative system is inspired by OpenClaw and aims to simplify the integration of memory management into AI applications. By providing a flexible and modular memory solution, memsearch enables developers to efficiently handle complex data structures and workflows.
 
 ---
 

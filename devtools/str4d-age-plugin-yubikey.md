@@ -25,7 +25,7 @@ DevTools · Security
 
 ## 📝 Summary
 
-The age-plugin-yubikey project is an open-source plugin for age, a password manager, that integrates YubiKey for enhanced security. This plugin utilizes the YubiKey's hardware-based security features to provide a more secure and convenient authentication experience. By leveraging YubiKey, users can enjoy an additional layer of protection for their sensitive information.
+The age-plugin-yubikey project is an open-source plugin that integrates YubiKey support into the age DevTool suite, enhancing security and authentication capabilities for developers. This plugin allows users to leverage the secure token storage and authentication features of YubiKey with age's command-line interface, streamlining workflow and protecting sensitive data. By integrating YubiKey into age, developers can enjoy robust security and convenience in their development workflows.
 
 ---
 

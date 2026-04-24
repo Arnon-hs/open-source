@@ -25,9 +25,9 @@ AI/ML · Data · Product
 
 ## 📝 Summary
 
-Here's a brief summary of the Nixtla project:
+Here's a brief summary for the Nixtla/nixtla project:
 
-Nixtla is an open-source, production-ready time series foundation model called TimeGPT-1, pre-trained on over 100 billion data points for accurate forecasting and anomaly detection across various domains, including retail, electricity, finance, and IoT. This generative transformer model can be easily integrated into applications with just a few lines of code, streamlining the process of time series analysis. With its extensive training data, TimeGPT-1 provides a robust solution for businesses and organizations seeking to improve their predictive capabilities.
+Nixtla is an open-source time series foundation model that utilizes a generative pre-trained transformer to accurately forecast and detect anomalies in various domains, including retail, electricity, finance, and IoT. With over 100 billion data points, TimeGPT-1 offers a production-ready solution for time series forecasting. This model can be easily integrated with just a few lines of code, streamlining the process of data analysis and forecasting.
 
 ---
 
