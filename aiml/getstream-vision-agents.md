@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the GetStream/Vision-Agents project:
-
-GetStream/Vision-Agents is an open-source project that enables the rapid development of voice and vision agents with any model or video provider. Leveraging Stream's edge network, it achieves ultra-low latency and seamless performance. This project empowers developers to build innovative AI-powered applications with ease.
+GetStream/Vision-Agents is an open-source project that enables the rapid development of voice and vision agents using various models and video providers. Built on Stream's edge network, it delivers ultra-low latency performance, making it suitable for real-time applications. This project caters to developers working on AI/ML and frontend projects, offering a flexible and efficient solution for building intelligent agents.
 
 ---
 

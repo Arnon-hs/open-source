@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The "my-neuro" project is an open-source platform that enables users to create their own AI-powered desktop companions. These customizable characters can engage in voice conversations in real-time, utilizing features like long-term memory, visual recognition, and voice cloning. With support for Live2D customizations, users can personalize their AI companions to suit their preferences.
+Here's a brief summary for the open-source project:
+
+"My Neuro" is an open-source AI desktop companion that enables users to create customizable characters and engage in voice conversations. With features like long-term memory, visual recognition, and voice cloning, this project offers a highly interactive and immersive experience. Built on top of various AI/ML technologies, it also supports Live2D customizations.
 
 ---
 

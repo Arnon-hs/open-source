@@ -25,7 +25,7 @@ Crypto · Data
 
 ## 📝 Summary
 
-Flowsurface is an open-source, native desktop charting platform specifically designed for the crypto market. It provides a comprehensive and intuitive interface for visualizing and analyzing cryptocurrency market data, empowering users to gain deeper insights and make more informed investment decisions. With its open-source nature, the community can contribute to its development and shape the future of crypto market analysis.
+Flowsurface is an open-source, native desktop charting platform designed specifically for the crypto markets. It offers a robust and customizable environment for visualizing market trends and analyzing cryptocurrency data. By providing a user-friendly interface and advanced charting capabilities, Flowsurface empowers users to make informed investment decisions and stay ahead in the fast-paced world of crypto trading.
 
 ---
 

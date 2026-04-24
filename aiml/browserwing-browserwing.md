@@ -25,7 +25,7 @@ AI/ML · Frontend · Product
 
 ## 📝 Summary
 
-BrowserWing is an open-source project that enables AI agents to directly control browser actions, converting browser commands into MCP commands or Claude Skills for efficient and reliable automation. This technology streamlines interactions between AI agents and browsers, eliminating the need for slow and token-heavy Large Language Model (LLM) interactions. As a result, it boosts productivity and facilitates AI-driven tasks, browser automation, and other applications.
+BrowserWing is an open-source project that enables AI agents to directly control browsers by mapping browser actions to MCP commands or Claude Skills. This reduces the need for slow and resource-intensive Large Language Model (LLM) interactions, allowing for faster automation and increased productivity. By streamlining browser automation, BrowserWing is ideal for AI-driven tasks and enhancing productivity.
 
 ---
 

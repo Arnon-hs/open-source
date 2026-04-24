@@ -25,9 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the SnapOtter project:
-
-SnapOtter is an open-source, self-hosted image manipulation tool that offers over 45 features in a single Docker container. With local AI processing and pipelines, SnapOtter enables users to edit and transform images without relying on cloud services or sharing their data. This fully offline solution prioritizes user data privacy and security, ensuring that all images remain on the user's machine.
+SnapOtter is an open-source, self-hosted image manipulation tool that offers over 45 features, including local AI capabilities, all within a single Docker container. This project empowers users to process and edit their images without relying on cloud services, ensuring complete control and security over their data. By hosting SnapOtter locally, users can enjoy uninterrupted access to advanced image manipulation tools without compromising their digital footprint.
 
 ---
 

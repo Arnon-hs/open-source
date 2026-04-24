@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Claude-obsidian project is an open-source knowledge companion that combines the power of Claude, a large language model, with the flexibility of Obsidian, a note-taking and knowledge management tool. This persistent, compounding wiki vault is based on Andrej Karpathy's LLM Wiki pattern, allowing for efficient organization and expansion of knowledge. With features like auto-research and save functionality, users can easily access and build upon their knowledge base.
+Claude-obsidian is an open-source project that combines the capabilities of Claude, a large language model, with the features of Obsidian, a note-taking and knowledge management tool. It creates a persistent, compounding wiki vault, allowing users to store and connect information in a dynamic and scalable manner. This setup is based on Andrej Karpathy's LLM Wiki pattern, enabling users to leverage AI-driven research and note-taking capabilities.
 
 ---
 

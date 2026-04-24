@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/promptise-com/Foundry?style=flat-square&color=yellow)](https://github.com/promptise-com/Foundry/stargazers) [![Forks](https://img.shields.io/github/forks/promptise-com/Foundry?style=flat-square&color=blue)](https://github.com/promptise-com/Foundry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
-> (To Be Released) The foundation layer for agentic intelligence.
+> The foundation layer for agentic intelligence.
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # agent-sh/agentsys
 
-[![Stars](https://img.shields.io/github/stars/agent-sh/agentsys?style=flat-square&color=yellow)](https://github.com/agent-sh/agentsys/stargazers) [![Forks](https://img.shields.io/github/forks/agent-sh/agentsys?style=flat-square&color=blue)](https://github.com/agent-sh/agentsys/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agent-sh/agentsys?style=flat-square&color=yellow)](https://github.com/agent-sh/agentsys/stargazers) [![Forks](https://img.shields.io/github/forks/agent-sh/agentsys?style=flat-square&color=blue)](https://github.com/agent-sh/agentsys/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 755 |
+| ⭐ **Stars** | 756 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

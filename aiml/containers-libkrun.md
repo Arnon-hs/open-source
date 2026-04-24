@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The containers/libkrun project is an open-source, dynamic library that enables Virtualization-based process isolation capabilities. This library provides a foundation for secure and efficient process separation, crucial for applications in the AI/ML space that require sandboxing and resource management. By leveraging virtualization, libkrun enhances system security and reliability.
+The containers/libkrun project is an open-source, dynamic library that enables Virtualization-based process isolation capabilities. This enables developers to create isolated environments for processes, enhancing security and stability in AI/ML applications. By utilizing virtualization, libkrun provides a robust and efficient solution for process isolation.
 
 ---
 

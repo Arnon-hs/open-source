@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The Alibaba Cloud CLI (aliyun-cli) is an open-source command-line interface for managing Alibaba Cloud resources. It allows users to interact with Alibaba Cloud services, such as creating and managing resources, monitoring performance, and automating tasks. With the CLI, users can streamline their Alibaba Cloud workflow and improve efficiency.
+The aliyun/aliyun-cli is an open-source project that provides a command-line interface (CLI) for interacting with Alibaba Cloud services. It enables users to manage and automate their cloud resources, such as computing, storage, and databases, directly from the terminal. With this CLI, users can simplify their cloud experience and improve efficiency.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-MikoPBX is a free, open-source PBX solution designed for small businesses. Built on Asterisk 22, PHP 8.4, and Phalcon 5, it provides a robust and scalable communication platform. Deployable on various platforms, including ISO, Docker, LXC, and the cloud, MikoPBX offers a flexible and customizable solution for VoIP and telephony needs.
+MikoPBX is a free, open-source PBX solution designed for small businesses, built using Asterisk 22, PHP 8.4, and Phalcon 5. This comprehensive platform can be deployed in various environments, including ISO, Docker, LXC, and the cloud, offering flexibility to suit different infrastructure needs. MikoPBX provides a robust and customizable solution for managing business communications.
 
 ---
 

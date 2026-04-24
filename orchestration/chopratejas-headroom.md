@@ -1,6 +1,6 @@
 # chopratejas/headroom
 
-[![Stars](https://img.shields.io/github/stars/chopratejas/headroom?style=flat-square&color=yellow)](https://github.com/chopratejas/headroom/stargazers) [![Forks](https://img.shields.io/github/forks/chopratejas/headroom?style=flat-square&color=blue)](https://github.com/chopratejas/headroom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chopratejas/headroom?style=flat-square&color=yellow)](https://github.com/chopratejas/headroom/stargazers) [![Forks](https://img.shields.io/github/forks/chopratejas/headroom?style=flat-square&color=blue)](https://github.com/chopratejas/headroom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The Context Optimization Layer for LLM Applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

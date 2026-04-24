@@ -25,7 +25,9 @@ Data · Product
 
 ## 📝 Summary
 
-The DataDog/helm-charts project provides open-source Helm charts for deploying and managing various Datadog products through Kubernetes. These charts streamline the process of integrating Datadog solutions into a cloud-native environment, making it easier to monitor and analyze application performance. By leveraging Helm charts, users can quickly and efficiently set up and manage their Datadog deployments.
+Here's a brief summary for the DataDog/helm-charts open-source project:
+
+The DataDog/helm-charts project provides pre-configured Helm charts for easy deployment of Datadog products in Kubernetes environments. These charts simplify the process of integrating Datadog's monitoring, logging, and analytics tools into your cloud-native infrastructure. By leveraging Helm charts, users can quickly and efficiently set up Datadog products to gain real-time insights into their application performance and infrastructure health.
 
 ---
 

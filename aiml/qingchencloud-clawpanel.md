@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary for the open-source project:
 
-"ClawPanel is an open-source, multi-engine AI management panel that integrates various AI capabilities, including AI assistants, tool invocation, image recognition, and multimodal features. Built with Tauri v2, it is a cross-platform desktop application available in 11 languages. This project enables users to easily install and manage multiple AI engines in a single interface."
+ClawPanel is an open-source, multi-engine AI management panel developed by OpenClaw and Hermes Agent. It features an integrated AI assistant with tools for image recognition, multimodal interaction, and more, available in 11 languages. Built with Tauri v2, ClawPanel is a cross-platform desktop application that can be easily installed.
 
 ---
 

@@ -25,9 +25,9 @@ DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project 'pgxmock':
+Here's a brief summary for the pashagolub/pgxmock project:
 
-The pashagolub/pgxmock project provides a mock driver for pgx, a PostgreSQL driver for Go. This allows developers to easily test database interactions in isolation, improving the reliability and maintainability of their applications. With pgxmock, you can write robust and efficient tests for your PostgreSQL-based Go projects.
+pgxmock is an open-source project that provides a mock driver for pgx, a PostgreSQL driver for Go. This project enables developers to test database interactions in isolation, making it easier to write unit tests and ensure the reliability of their database-driven applications. By using pgxmock, developers can test their database code without actually connecting to a PostgreSQL database.
 
 ---
 

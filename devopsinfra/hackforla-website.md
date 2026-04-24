@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The hackforla/website project is an open-source initiative developed by Hack for LA, a community-driven group focused on using technology to address local challenges. This project involves the development and maintenance of Hack for LA's official website, showcasing their mission, projects, and community resources. The website serves as a central hub for information and collaboration within the Hack for LA community.
+The hackforla/website project is an open-source initiative that hosts the official website of Hack for LA, a community-driven platform focused on using technology to address social and community issues in Los Angeles. This project is categorized under DevOps/Infra, indicating its focus on the technical infrastructure that powers the website. By open-sourcing the website, Hack for LA aims to promote transparency, collaboration, and community involvement in its mission.
 
 ---
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3010** |
+| 🗂️ **Total projects** | **3061** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1139 | [Browse →](./aiml/) |
-| 📦 **Misc** | 470 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 332 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 271 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 189 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 155 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 119 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 1164 | [Browse →](./aiml/) |
+| 📦 **Misc** | 477 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 336 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 274 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 191 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 159 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 122 | [Browse →](./crypto/) |
 | 📊 **Data** | 89 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 71 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 42 | [Browse →](./payments/) |
-| 📱 **Mobile** | 39 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 72 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 43 | [Browse →](./payments/) |
+| 📱 **Mobile** | 40 | [Browse →](./mobile/) |
 | 🔐 **Security** | 34 | [Browse →](./security/) |
 | 📈 **Trading** | 34 | [Browse →](./trading/) |
 | ✨ **Design** | 12 | [Browse →](./design/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [supabase/supabase](./aiml/supabase-supabase.md) | ⭐ 101.3k | AI/ML |
+| 1 | [apache/dubbo](./backend/apache-dubbo.md) | ⭐ 41.6k | Backend |
 | 2 | [fastapi/fastapi](./frontend/fastapi-fastapi.md) | ⭐ 97.6k | Frontend |
-| 3 | [Kong/insomnia](./aiml/kong-insomnia.md) | ⭐ 38.3k | AI/ML |
-| 4 | [ory/kratos](./aiml/ory-kratos.md) | ⭐ 13.6k | AI/ML |
-| 5 | [frappe/erpnext](./aiml/frappe-erpnext.md) | ⭐ 33.2k | AI/ML |
-| 6 | [kubernetes-sigs/external-dns](./backend/kubernetes-sigs-external-dns.md) | ⭐ 8.9k | Backend |
-| 7 | [open-policy-agent/opa](./aiml/open-policy-agent-opa.md) | ⭐ 11.6k | AI/ML |
-| 8 | [musescore/MuseScore](./aiml/musescore-musescore.md) | ⭐ 14.5k | AI/ML |
-| 9 | [qdrant/qdrant](./aiml/qdrant-qdrant.md) | ⭐ 30.6k | AI/ML |
-| 10 | [future-architect/vuls](./aiml/future-architect-vuls.md) | ⭐ 12.1k | AI/ML |
+| 3 | [prometheus/alertmanager](./aiml/prometheus-alertmanager.md) | ⭐ 8.4k | AI/ML |
+| 4 | [DIYgod/RSSHub](./misc/diygod-rsshub.md) | ⭐ 43.6k | Misc |
+| 5 | [steven2358/awesome-generative-ai](./aiml/steven2358-awesome-generative-ai.md) | ⭐ 11.9k | AI/ML |
+| 6 | [ory/kratos](./aiml/ory-kratos.md) | ⭐ 13.6k | AI/ML |
+| 7 | [microsoft/ai-agents-for-beginners](./orchestration/microsoft-ai-agents-for-beginners.md) | ⭐ 59.1k | Orchestration |
+| 8 | [volcengine/OpenViking](./aiml/volcengine-openviking.md) | ⭐ 23k | AI/ML |
+| 9 | [biomejs/biome](./aiml/biomejs-biome.md) | ⭐ 24.5k | AI/ML |
+| 10 | [MODSetter/SurfSense](./orchestration/modsetter-surfsense.md) | ⭐ 14k | Orchestration |
 
 ## 🚀 How it works
 

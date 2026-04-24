@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Goose-skills is an open-source library of pre-built skills for Claude Code, Codex, and Cursor, designed to simplify the integration of general-purpose AI models into Google Tag Manager (GTM) workflows. This library enables users to leverage the capabilities of these AI models in a standardized and accessible way, streamlining the process of automation and data collection. By utilizing Goose-skills, users can unlock new use cases and applications for AI in their GTM environments.
+Here's a brief summary for the goose-skills project:
+
+The goose-skills library is an open-source collection of pre-built skills for Claude Code, Codex, and Cursor, simplifying the integration of AI capabilities within Google's Generative Transformer Model (GTM). This library streamlines the development process for developers working with GTM, allowing them to leverage pre-existing skills and focus on customizing their AI applications. By utilizing goose-skills, developers can accelerate their AI development journey.
 
 ---
 

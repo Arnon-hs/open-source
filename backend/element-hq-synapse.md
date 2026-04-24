@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Synapse is an open-source Matrix homeserver written in a combination of Python and Rust languages, utilizing the Twisted framework. This project aims to provide a scalable and highly customizable solution for Matrix protocol implementation. By leveraging the strengths of both languages, Synapse offers a robust and efficient architecture for decentralized communication networks.
+Here's a brief summary for the Synapse project:
+
+Synapse is an open-source Matrix homeserver written in a combination of Python and Rust languages, utilizing the powerful Twisted framework. This highly scalable and customizable project allows developers to build robust and secure communication networks for various use cases. By leveraging the strengths of both Python and Rust, Synapse offers a unique blend of ease of development and performance.
 
 ---
 

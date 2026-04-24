@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Claude Code History Viewer is an open-source desktop application that enables users to browse and analyze their conversation history from Claude, a powerful AI chatbot. This tool provides a convenient and visual interface for reviewing past interactions, facilitating a deeper understanding of the AI's responses and helping users refine their communication strategies. By leveraging this viewer, users can gain valuable insights into their interactions with Claude.
+Claude-Code-History-Viewer is an open-source desktop application designed to help users browse and analyze their conversation history on the Claude Code platform. This tool enables users to efficiently review and understand their interactions with Claude, a conversational AI. By providing a structured view of conversation history, Claude-Code-History-Viewer facilitates deeper insights and more effective usage of the Claude Code platform.
 
 ---
 

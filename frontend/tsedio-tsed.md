@@ -25,7 +25,7 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Ts.ED is an open-source Node.js and TypeScript framework built on top of Express, designed to streamline application development using TypeScript or ES6. It offers a range of decorators and guidelines to enhance code readability and reduce errors. This framework aims to simplify the process of building high-quality applications with Node.js and TypeScript.
+Ts.ED is a Node.js and TypeScript framework built on top of Express, designed to simplify application development with TypeScript or ES6. It offers a comprehensive set of decorators and guidelines to enhance code readability and reduce errors. This open-source project aims to streamline the development process for Node.js applications.
 
 ---
 

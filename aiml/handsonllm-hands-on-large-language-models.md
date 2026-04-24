@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This project, Hands-On Large Language Models, is an open-source companion to the O'Reilly book of the same name. It provides a collection of code examples and hands-on exercises to help developers and data scientists master the use of large language models in their AI/ML projects. By following this repository, users can learn how to implement and integrate large language models into their applications.
+This project, Hands-On Large Language Models, is an open-source repository accompanying the O'Reilly Book of the same name. It provides practical implementations of large language models, enabling readers to apply their knowledge to real-world scenarios. Through this code repository, users can explore and experiment with various large language model techniques and applications.
 
 ---
 

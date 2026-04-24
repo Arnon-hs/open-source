@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Pometry/Raphtory is an open-source, scalable graph analytics database designed to efficiently process large-scale graph data. Built on a multithreaded, vectorized temporal engine written in Rust, it provides fast and optimized performance. This powerful database is ideal for applications requiring real-time graph analytics, such as network analysis, recommendation systems, and more.
+Pometry/Raphtory is an open-source, scalable graph analytics database built using Rust. It utilizes a multithreaded, vectorized temporal engine to enable efficient processing of complex graph data. This allows for the rapid analysis and querying of large-scale graph datasets, making it a powerful tool for data-driven insights.
 
 ---
 

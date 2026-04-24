@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the matter-labs/zksync-era open-source project:
+Here is a brief summary of the open-source project:
 
-zkSync era is an open-source project from Matter Labs that provides a framework for building decentralized applications (dApps) with improved scalability and security features. It leverages zero-knowledge rollup (ZKR) technology to reduce gas costs and increase the efficiency of Ethereum transactions. This project enables developers to create faster, more cost-effective, and more private blockchain applications.
+zkSync Era is an open-source project that aims to provide a secure and efficient platform for decentralized financial (DeFi) applications. By leveraging zero-knowledge proof technology, it enables fast and private transactions, enhancing the overall user experience in the DeFi space. This project is part of the zkSync ecosystem, focusing on innovation and scalability for the next generation of DeFi solutions.
 
 ---
 

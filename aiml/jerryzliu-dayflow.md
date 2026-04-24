@@ -25,7 +25,7 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Dayflow is an open-source, locally-hosted tool that transforms your screen into a personalized timeline of your actual work accomplishments. By automatically tracking your screen activity, Dayflow provides a private and accurate record of your productivity, empowering you to reflect on your progress and stay focused. This innovative platform is designed to be a reliable and secure companion for your daily work routine.
+Dayflow is an open-source, local-first project that transforms your screen into a private timeline of your actual accomplishments, providing an automatic work journal. This innovative tool utilizes AI/ML to track and record your activity, offering a simple and effective way to monitor productivity. By keeping data locally, Dayflow prioritizes user privacy and security.
 
 ---
 

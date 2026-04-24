@@ -1,6 +1,6 @@
 # kreuzberg-dev/html-to-markdown
 
-[![Stars](https://img.shields.io/github/stars/kreuzberg-dev/html-to-markdown?style=flat-square&color=yellow)](https://github.com/kreuzberg-dev/html-to-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/kreuzberg-dev/html-to-markdown?style=flat-square&color=blue)](https://github.com/kreuzberg-dev/html-to-markdown/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kreuzberg-dev/html-to-markdown?style=flat-square&color=yellow)](https://github.com/kreuzberg-dev/html-to-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/kreuzberg-dev/html-to-markdown?style=flat-square&color=blue)](https://github.com/kreuzberg-dev/html-to-markdown/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 56+ document formats using streaming parsers and built-in OCR.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 667 |
+| ⭐ **Stars** | 668 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

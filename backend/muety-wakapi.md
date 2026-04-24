@@ -25,7 +25,9 @@ Backend · DevTools · Product
 
 ## 📝 Summary
 
-The wakapi project is an open-source, self-hosted backend for coding statistics, designed to be a minimalist alternative to existing solutions like WakaTime. This backend provides users with insights into their coding habits and productivity, making it an ideal choice for developers and teams seeking a custom, privacy-focused solution. With wakapi, users can track their coding statistics without relying on external services.
+Here's a brief summary for the muety/wakapi project:
+
+Wakapi is a lightweight, self-hosted backend solution for coding statistics, compatible with WakaTime. This open-source project allows developers to track and analyze their coding activities privately, without relying on external services. By hosting Wakapi on their own infrastructure, users maintain control over their data and coding metrics.
 
 ---
 

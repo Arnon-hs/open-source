@@ -25,7 +25,7 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The Docker CLI is an open-source project that provides a command-line interface for interacting with Docker, a popular containerization platform. It allows users to manage and deploy containers, images, and volumes with ease, making it a fundamental tool for developers and DevOps professionals. With the Docker CLI, users can automate and streamline their workflows, reducing the complexity of container-based application development and deployment.
+The Docker CLI project is an open-source tool that provides a command-line interface for interacting with Docker containers and images. It allows users to easily manage and deploy applications by executing a wide range of commands, from building and running containers to managing networks and volumes. With the Docker CLI, developers and DevOps professionals can streamline their workflows and simplify the process of working with Docker.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend · DevTools · Security
 
 ## 📝 Summary
 
-Deck is a cutting-edge, macOS native clipboard manager that prioritizes user privacy. This open-source project offers a secure and user-friendly solution for managing clipboard history, ensuring that sensitive information remains confidential. By leveraging native macOS capabilities, Deck provides a seamless experience while maintaining a strong focus on user security.
+Deck is a cutting-edge, open-source clipboard manager designed specifically for macOS, prioritizing user privacy. This native application securely stores and tracks clipboard history, providing users with a seamless and secure experience. Deck offers a modern take on clipboard management, focusing on performance, security, and ease of use.
 
 ---
 

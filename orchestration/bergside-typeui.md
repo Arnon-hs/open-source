@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The bergside/typeui project is an open-source initiative that focuses on designing user interfaces for agent-based tools, such as Claude Design, Google Stitch, and Codex. The project aims to provide design skills and expertise for these advanced technologies, enabling developers to create seamless and intuitive user experiences. By doing so, it bridges the gap between AI/ML capabilities and user-friendly interfaces.
+TypeUI is an open-source project that provides design skills for agentic tools like Claude, Google Stitch, and Codex, enabling developers to build more intuitive and user-friendly interfaces. This project offers a range of design solutions for tools that utilize AI and machine learning. By leveraging TypeUI, developers can create more seamless and productive experiences for users interacting with these agentic tools.
 
 ---
 

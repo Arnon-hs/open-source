@@ -25,9 +25,7 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the bergside/design-md-chrome project:
-
-The bergside/design-md-chrome is an open-source Chrome extension that enables users to easily extract styles from any website and generate DESIGN.md files. These files can be used as a reference for design documentation and also provide design skills that can be utilized by AI models. The extension leverages TypeUI to facilitate design-to-code conversion.
+The bergside/design-md-chrome project is an open-source Chrome extension that enables users to extract styles from any website. It generates DESIGN.md files and design skills specifically for AI use, leveraging TypeUI's capabilities. This extension streamlines the process of collecting design information for AI-based applications.
 
 ---
 

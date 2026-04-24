@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the 'modelcontextprotocol/ext-apps' open-source project:
 
-The modelcontextprotocol/ext-apps repository is the official source for the specification and software development kit (SDK) of the MCP Apps protocol. This protocol serves as a standard for user interfaces embedded with AI-powered chatbots, allowing seamless interactions between clients and servers. By utilizing the MCP Apps protocol, developers can create and integrate intelligent chatbots into various applications with ease.
+The modelcontextprotocol/ext-apps project is an open-source repository for the Specification and Software Development Kit (SDK) of the MCP Apps protocol, a standardized framework for embedding AI chatbots within user interfaces. This protocol serves as a bridge between chatbots and servers, enabling seamless integration and deployment. By following this standard, developers can create and integrate AI-powered chatbots with their applications.
 
 ---
 

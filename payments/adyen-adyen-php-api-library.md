@@ -1,6 +1,6 @@
 # Adyen/adyen-php-api-library
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-php-api-library?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-php-api-library/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-php-api-library?style=flat-square&color=blue)](https://github.com/Adyen/adyen-php-api-library/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-php-api-library?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-php-api-library/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-php-api-library?style=flat-square&color=blue)](https://github.com/Adyen/adyen-php-api-library/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Adyen API Library for PHP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
