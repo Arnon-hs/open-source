@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Pinta is a free and open-source paint program developed using the GTK framework, providing a simple and user-friendly interface for artistic tasks. This project offers a range of features, combining ease of use with a robust set of tools, ideal for artists, designers, and anyone looking for a basic painting solution. With a focus on simplicity and accessibility, Pinta is an excellent choice for those seeking a hassle-free painting experience.
+Pinta is an open-source, simple GTK paint program designed for basic image editing needs. With its user-friendly interface and intuitive features, Pinta provides a hassle-free experience for users to create, edit, and manipulate digital images. This project is ideal for those looking for a lightweight, uncomplicated painting application.
 
 ---
 

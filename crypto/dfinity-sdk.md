@@ -25,9 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the dfinity/sdk project:
-
-The dfinity/sdk is an open-source Software Development Kit (SDK) that enables developers to create and manage canister smart contracts on the Internet Computer Protocol (ICP) blockchain. This SDK facilitates the development of scalable, secure, and decentralized applications, leveraging the power of artificial intelligence and machine learning. By providing a comprehensive toolset for ICP development, dfinity/sdk empowers innovators to build next-generation blockchain-based solutions.
+The dfinity/sdk is an open-source project that provides a Software Development Kit (SDK) for building and managing canister smart contracts on the Internet Computer (IC) Protocol (ICP) blockchain. This SDK enables developers to create secure, scalable, and decentralized applications by harnessing the power of ICP's blockchain technology. By utilizing the dfinity/sdk, developers can unlock new possibilities for innovation and growth in the world of blockchain-based applications.
 
 ---
 

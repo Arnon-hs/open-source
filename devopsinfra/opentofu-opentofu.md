@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-OpenTofu is an open-source project that enables declarative management of cloud infrastructure, providing a flexible and efficient way to provision and manage resources. With OpenTofu, users can define their desired infrastructure configuration and let the tool handle the underlying complexities, simplifying the process of managing cloud environments. This DevOps-focused project streamlines infrastructure management, making it ideal for organizations with complex cloud deployments.
+OpenTofu is an open-source project that allows users to declaratively manage their cloud infrastructure, providing a streamlined and efficient way to provision and configure cloud resources. This DevOps tool helps bridge the gap between infrastructure as code (IaC) and cloud-native platforms, making it easier to manage complex cloud environments. By using OpenTofu, users can automate and standardize their infrastructure setup and maintenance.
 
 ---
 

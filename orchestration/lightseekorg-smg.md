@@ -25,9 +25,9 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the lightseekorg/smg project:
 
-The lightseekorg/smg project is an open-source, engine-agnostic Large Language Model (LLM) gateway built in Rust. This powerful tool provides seamless compatibility with various LLM platforms, including OpenAI and Anthropic, while offering advanced features like gRPC pipeline optimization, caching, and multi-tenancy. Developers can leverage this flexible gateway to integrate LLM capabilities into their applications with ease.
+The lightseekorg/smg project is an open-source, engine-agnostic Large Language Model (LLM) gateway built in Rust, offering seamless compatibility with various LLM APIs, including OpenAI and Anthropic. This gateway features a robust set of features, including gRPC pipeline management, KV cache-aware routing, and multi-tenant authentication, making it a powerful tool for managing LLM interactions. By providing a unified interface to multiple LLM engines, lightseekorg/smg simplifies the development and deployment of AI-powered applications.
 
 ---
 

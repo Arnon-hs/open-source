@@ -1,6 +1,6 @@
 # vizia/vizia
 
-[![Stars](https://img.shields.io/github/stars/vizia/vizia?style=flat-square&color=yellow)](https://github.com/vizia/vizia/stargazers) [![Forks](https://img.shields.io/github/forks/vizia/vizia?style=flat-square&color=blue)](https://github.com/vizia/vizia/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vizia/vizia?style=flat-square&color=yellow)](https://github.com/vizia/vizia/stargazers) [![Forks](https://img.shields.io/github/forks/vizia/vizia?style=flat-square&color=blue)](https://github.com/vizia/vizia/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A declarative GUI library written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

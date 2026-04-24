@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Locatarr is an open-source project that aggregates *Arr services into a unified list, providing users with a centralized platform for discovering and accessing various services. This project aims to simplify the process of locating *Arr services by compiling them into a single, easily accessible resource. By categorizing these services under a single umbrella, Locatarr facilitates greater convenience and organization for users.
+Locatarr is an open-source project that aggregates and lists *Arr services, providing a centralized platform for users to access and compare various services. This project focuses on the backend development of the platform, ensuring a seamless user experience. By consolidating *Arr services, Locatarr aims to simplify the discovery and utilization of these services for users.
 
 ---
 

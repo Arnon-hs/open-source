@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-vurb.ts is an open-source project that provides a type-safe framework for building MCP (Machine Communication Protocol) servers, designed to be used with large language models (LLMs). It offers features such as built-in PII (Personally Identifiable Information) redaction and presenters that control the data visible to LLMs, ensuring a secure and private communication experience. With vurb.ts, developers can deploy a single instance and connect multiple AI assistants.
+Vurb.ts is an open-source project that provides a type-safe, Express.js-like framework for building MCP (Multi-Cloud Platform) servers. It offers features such as presenters that control the data shown to Large Language Models (LLMs) and built-in Personal Identifiable Information (PII) redaction for data protection. This allows developers to build scalable AI-powered applications with ease and deploy them once for seamless connections with various AI assistants.
 
 ---
 

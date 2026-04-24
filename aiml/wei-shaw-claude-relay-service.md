@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
+Here's a brief summary for the open-source project:
 
-Claude Relay Service (CRS) is an open-source, one-stop service for connecting various AI platforms, including Claude, OpenAI, Gemini, and Droid. It enables unified subscription access and allows for ride-sharing capabilities to efficiently distribute costs. This native tool streamlines the usage of these platforms, making it a more cost-effective solution.
+Claude Relay Service (CRS) is an open-source, one-stop service for integrating multiple AI models, including Claude, OpenAI, Gemini, and Droid, into a unified interface. This project allows for cost-efficient subscription management and seamless access to native tools, making it ideal for carpooling shared resources. By leveraging CRS, developers can streamline their workflow and optimize resource allocation.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-InferenceX is an open-source project that provides continuous benchmarking for various AI inference platforms, including NVIDIA's GB200, MI355X, and H100, as well as Google's Trainium2 and TPUv6e/v7. This project aims to compare the performance of these platforms on popular AI models such as Qwen3.5 and GPTOSS. By facilitating comprehensive benchmarking, InferenceX helps developers and researchers evaluate the strengths and weaknesses of different AI inference solutions.
+Here's a brief summary of the project:
+
+InferenceX is an open-source project that provides a comprehensive benchmarking framework for continuous inference, allowing users to compare the performance of various AI accelerators and models. The project currently supports a range of accelerators, including NVIDIA's GB200, MI355X, B200, and H100, as well as Google's TPUv6e and v7. By providing a standardized testing environment, InferenceX enables developers to optimize their AI applications for maximum performance and efficiency.
 
 ---
 

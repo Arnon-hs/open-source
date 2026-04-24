@@ -25,7 +25,9 @@ Security
 
 ## 📝 Summary
 
-Luzifer/ots is an open-source, browser-based platform for secure one-time-secret sharing. Utilizing symmetric 256-bit AES encryption, this platform enables users to safely share sensitive information with others, ensuring confidentiality and integrity. The decentralized nature of the platform allows for easy sharing and verification of secrets without relying on third-party servers.
+Here's a brief summary for the Luzifer/ots project:
+
+Luzifer/ots is an open-source, browser-based platform for secure secret sharing using One-Time-Secrets (OTS) technology. This project employs symmetric 256-bit AES encryption to ensure the confidentiality and integrity of sensitive information. By utilizing OTS, users can securely share secrets with others while minimizing the risk of unauthorized access.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-The growthxai/output project is an open-source TypeScript framework that simplifies the development of AI workflows and agents. This framework leverages Claude Code to automate the building process, ensuring that best practices are integrated from the start. With growthxai/output, users can focus on describing what they want to achieve, while the framework handles the implementation.
+Here's a brief summary of the growthxai/output project:
+
+growthxai/output is an open-source framework that empowers developers to build AI workflows and intelligent agents using TypeScript. This comprehensive framework simplifies the process of creating AI applications with built-in best practices, allowing developers to focus on innovation rather than tedious setup. With growthxai/output, you can describe what you want and let Claude build it for you.
 
 ---
 

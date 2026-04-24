@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-TauCetiStation/TauCetiClassic is an open-source project that appears to be a recreation or homage to a classic game or experience. The name and description suggest a connection to the novel "Frankenstein" by Mary Shelley, possibly incorporating elements of science fiction or horror. The project's purpose and features are not explicitly stated, but it may involve game development or interactive storytelling.
+The TauCetiStation/TauCetiClassic project is an open-source initiative that appears to be a recreation or reinterpretation of the classic game "Frankenstein Lives" from a specific perspective. The project's title suggests a connection to the planet Tau Ceti, which is a star system in science fiction often associated with exoplanetary life. The project's details are limited, but it may offer a renewed or alternative version of the original game.
 
 ---
 

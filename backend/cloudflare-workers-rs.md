@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the cloudflare/workers-rs project:
-
-Cloudflare Workers-rs is an open-source project that enables developers to write Cloudflare Workers entirely in Rust, utilizing WebAssembly (WASM) to deploy and run these workers at scale. This project provides a seamless Rust development experience for Cloudflare workers, allowing for efficient and secure execution. By leveraging Rust and WASM, developers can tap into the performance and reliability of these technologies to build robust cloud applications.
+The cloudflare/workers-rs project enables developers to write Cloudflare Workers in 100% Rust, utilizing WebAssembly to compile Rust code into a format that can run on Cloudflare's edge infrastructure. This allows for efficient and secure execution of Rust code at the edge, providing a flexible and powerful tool for building web applications and services. By leveraging Rust's strong focus on safety and performance, developers can create high-performance and secure edge computing applications.
 
 ---
 

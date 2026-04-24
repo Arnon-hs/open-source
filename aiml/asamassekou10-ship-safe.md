@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the "ship-safe" open-source project:
+Here's a brief summary for the project:
 
-Ship-safe is an open-source CLI security scanner designed for the agentic era, ensuring the integrity of continuous integration and delivery (CI/CD) pipelines. It identifies potential security risks, including misconfigured CI/CD settings, agent permission vulnerabilities, and the use of DMCA-flagged AI dependencies. By detecting these issues, ship-safe helps developers maintain a secure and compliant development workflow.
+Ship-Safe is an open-source CLI security scanner designed for the modern agentic era. It identifies potential security risks in CI/CD configurations, agent permissions, and dependencies, including hardcoded secrets and DMCA-flagged AI components. By detecting these issues, Ship-Safe helps developers and teams build more secure and compliant applications.
 
 ---
 

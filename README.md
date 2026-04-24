@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2411** |
+| 🗂️ **Total projects** | **2500** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 902 | [Browse →](./aiml/) |
-| 📦 **Misc** | 398 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 259 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 213 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 158 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 121 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 99 | [Browse →](./crypto/) |
-| 📊 **Data** | 70 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 57 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 34 | [Browse →](./mobile/) |
-| 💳 **Payments** | 29 | [Browse →](./payments/) |
-| 🔐 **Security** | 26 | [Browse →](./security/) |
-| 📈 **Trading** | 25 | [Browse →](./trading/) |
+| 🤖 **AI/ML** | 926 | [Browse →](./aiml/) |
+| 📦 **Misc** | 405 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 273 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 229 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 162 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 126 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 101 | [Browse →](./crypto/) |
+| 📊 **Data** | 71 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 59 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 38 | [Browse →](./payments/) |
+| 📱 **Mobile** | 35 | [Browse →](./mobile/) |
+| 🔐 **Security** | 27 | [Browse →](./security/) |
+| 📈 **Trading** | 27 | [Browse →](./trading/) |
 | 🎯 **Product** | 10 | [Browse →](./product/) |
 | ✨ **Design** | 9 | [Browse →](./design/) |
-| 🏷️ **Marketing** | 1 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [mdn/content](./aiml/mdn-content.md) | ⭐ 10.7k | AI/ML |
-| 2 | [x64dbg/x64dbg](./security/x64dbg-x64dbg.md) | ⭐ 48.2k | Security |
-| 3 | [run-llama/llama_index](./orchestration/run-llama-llama-index.md) | ⭐ 48.9k | Orchestration |
-| 4 | [Wei-Shaw/claude-relay-service](./aiml/wei-shaw-claude-relay-service.md) | ⭐ 11.3k | AI/ML |
-| 5 | [zhayujie/CowAgent](./orchestration/zhayujie-cowagent.md) | ⭐ 43.7k | Orchestration |
-| 6 | [stashapp/stash](./misc/stashapp-stash.md) | ⭐ 12.2k | Misc |
-| 7 | [cython/cython](./data/cython-cython.md) | ⭐ 10.7k | Data |
-| 8 | [JackChen-me/open-multi-agent](./orchestration/jackchen-me-open-multi-agent.md) | ⭐ 5.9k | Orchestration |
-| 9 | [HKUDS/DeepTutor](./orchestration/hkuds-deeptutor.md) | ⭐ 21.2k | Orchestration |
-| 10 | [hiyouga/LlamaFactory](./trading/hiyouga-llamafactory.md) | ⭐ 70.5k | Trading |
+| 1 | [asgeirtj/system_prompts_leaks](./aiml/asgeirtj-system-prompts-leaks.md) | ⭐ 38.8k | AI/ML |
+| 2 | [apache/tvm](./misc/apache-tvm.md) | ⭐ 13.3k | Misc |
+| 3 | [Anuken/Mindustry](./mobile/anuken-mindustry.md) | ⭐ 27.4k | Mobile |
+| 4 | [stashapp/stash](./misc/stashapp-stash.md) | ⭐ 12.2k | Misc |
+| 5 | [opf/openproject](./product/opf-openproject.md) | ⭐ 14.9k | Product |
+| 6 | [dataelement/bisheng](./orchestration/dataelement-bisheng.md) | ⭐ 11.3k | Orchestration |
+| 7 | [dokku/dokku](./aiml/dokku-dokku.md) | ⭐ 31.9k | AI/ML |
+| 8 | [SBoudrias/Inquirer.js](./frontend/sboudrias-inquirer.js.md) | ⭐ 21.5k | Frontend |
+| 9 | [zhayujie/CowAgent](./orchestration/zhayujie-cowagent.md) | ⭐ 43.7k | Orchestration |
+| 10 | [cython/cython](./data/cython-cython.md) | ⭐ 10.7k | Data |
 
 ## 🚀 How it works
 

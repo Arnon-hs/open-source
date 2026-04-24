@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a 2-3 sentence summary for the open-source project:
 
-Opencrabs is an open-source, self-improving AI agent that operates across various channels and exhibits self-healing properties. Built as a single Rust binary, it enables fully autonomous operations, making it a robust solution for orchestration and AI/ML applications. This project aims to provide a highly adaptable and resilient AI framework.
+The OpenCrabs project is an open-source, self-improving AI agent that can operate across multiple channels, providing self-healing and fully autonomous capabilities. Built as a single Rust binary, this project offers a comprehensive AI/ML orchestration solution for a wide range of applications. With its robust and modular design, OpenCrabs enables seamless automation and self-improvement in complex systems.
 
 ---
 

@@ -25,9 +25,9 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the LlamaIndex open-source project:
+Here's a brief summary for the project:
 
-LlamaIndex is a leading document agent and OCR (Optical Character Recognition) platform that offers advanced data management capabilities. This open-source project enables efficient organization, processing, and analysis of large datasets, making it an ideal solution for AI/ML applications and data-intensive workflows. By leveraging LlamaIndex, users can streamline document processing and unlock valuable insights from their data.
+LlamaIndex is an open-source document agent and OCR platform that streamlines the processing of large-scale document datasets. It leverages AI and machine learning capabilities to enhance document analysis and extraction, making it a valuable tool for data-intensive applications. With LlamaIndex, users can efficiently manage and extract insights from documents in various formats.
 
 ---
 

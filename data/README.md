@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**70 projects** in this category.
+**71 projects** in this category.
 
 ## Projects
 
@@ -12,19 +12,19 @@
 | 2 | [apache/spark](./apache-spark.md) | ⭐ 43.2k | Scala | 100/100 |
 | 3 | [matplotlib/matplotlib](./matplotlib-matplotlib.md) | ⭐ 22.7k | Python | 100/100 |
 | 4 | [debezium/debezium](./debezium-debezium.md) | ⭐ 12.6k | Java | 100/100 |
-| 5 | [hazelcast/hazelcast](./hazelcast-hazelcast.md) | ⭐ 6.6k | Java | 100/100 |
-| 6 | [trinodb/trino](./trinodb-trino.md) | ⭐ 12.7k | Java | 100/100 |
-| 7 | [VictoriaMetrics/VictoriaMetrics](./victoriametrics-victoriametrics.md) | ⭐ 16.9k | Go | 100/100 |
-| 8 | [protocolbuffers/protobuf](./protocolbuffers-protobuf.md) | ⭐ 71.1k | C++ | 100/100 |
-| 9 | [apache/hudi](./apache-hudi.md) | ⭐ 6.1k | Java | 100/100 |
-| 10 | [yugabyte/yugabyte-db](./yugabyte-yugabyte-db.md) | ⭐ 10.2k | C | 100/100 |
-| 11 | [apache/beam](./apache-beam.md) | ⭐ 8.6k | Java | 100/100 |
+| 5 | [trinodb/trino](./trinodb-trino.md) | ⭐ 12.7k | Java | 100/100 |
+| 6 | [protocolbuffers/protobuf](./protocolbuffers-protobuf.md) | ⭐ 71.1k | C++ | 100/100 |
+| 7 | [hazelcast/hazelcast](./hazelcast-hazelcast.md) | ⭐ 6.6k | Java | 100/100 |
+| 8 | [apache/hudi](./apache-hudi.md) | ⭐ 6.1k | Java | 100/100 |
+| 9 | [VictoriaMetrics/VictoriaMetrics](./victoriametrics-victoriametrics.md) | ⭐ 16.9k | Go | 100/100 |
+| 10 | [apache/beam](./apache-beam.md) | ⭐ 8.6k | Java | 100/100 |
+| 11 | [yugabyte/yugabyte-db](./yugabyte-yugabyte-db.md) | ⭐ 10.2k | C | 100/100 |
 | 12 | [mickael-kerjean/filestash](./mickael-kerjean-filestash.md) | ⭐ 14.1k | Go | 100/100 |
 | 13 | [tikv/tikv](./tikv-tikv.md) | ⭐ 16.6k | Rust | 100/100 |
-| 14 | [prometheus/prometheus](./prometheus-prometheus.md) | ⭐ 63.7k | Go | 99/100 |
-| 15 | [scylladb/scylladb](./scylladb-scylladb.md) | ⭐ 15.5k | C++ | 99/100 |
-| 16 | [apache/hive](./apache-hive.md) | ⭐ 6k | Java | 99/100 |
-| 17 | [redpanda-data/connect](./redpanda-data-connect.md) | ⭐ 8.6k | Go | 99/100 |
+| 14 | [apache/hive](./apache-hive.md) | ⭐ 6k | Java | 99/100 |
+| 15 | [prometheus/prometheus](./prometheus-prometheus.md) | ⭐ 63.7k | Go | 99/100 |
+| 16 | [redpanda-data/connect](./redpanda-data-connect.md) | ⭐ 8.6k | Go | 99/100 |
+| 17 | [scylladb/scylladb](./scylladb-scylladb.md) | ⭐ 15.5k | C++ | 99/100 |
 | 18 | [badges/shields](./badges-shields.md) | ⭐ 26.5k | JavaScript | 99/100 |
 | 19 | [opensearch-project/OpenSearch](./opensearch-project-opensearch.md) | ⭐ 12.8k | Java | 97/100 |
 | 20 | [vitessio/vitess](./vitessio-vitess.md) | ⭐ 20.9k | Go | 97/100 |
@@ -59,25 +59,26 @@
 | 49 | [openmc-dev/openmc](./openmc-dev-openmc.md) | ⭐ 1k | Python | 67/100 |
 | 50 | [apache/kudu](./apache-kudu.md) | ⭐ 1.9k | C++ | 67/100 |
 | 51 | [github/advisory-database](./github-advisory-database.md) | ⭐ 2.2k | — | 65/100 |
-| 52 | [OSGeo/grass](./osgeo-grass.md) | ⭐ 1.1k | C | 64/100 |
-| 53 | [Bouni/kicad-jlcpcb-tools](./bouni-kicad-jlcpcb-tools.md) | ⭐ 1.9k | Python | 64/100 |
-| 54 | [perses/perses](./perses-perses.md) | ⭐ 2.1k | Go | 64/100 |
+| 52 | [Bouni/kicad-jlcpcb-tools](./bouni-kicad-jlcpcb-tools.md) | ⭐ 1.9k | Python | 64/100 |
+| 53 | [perses/perses](./perses-perses.md) | ⭐ 2.1k | Go | 64/100 |
+| 54 | [OSGeo/grass](./osgeo-grass.md) | ⭐ 1.1k | C | 64/100 |
 | 55 | [facebook/openzl](./facebook-openzl.md) | ⭐ 3k | C | 63/100 |
 | 56 | [databricks/terraform-provider-databricks](./databricks-terraform-provider-databricks.md) | ⭐ 586 | Go | 61/100 |
 | 57 | [mdqinc/SDL_GameControllerDB](./mdqinc-sdl-gamecontrollerdb.md) | ⭐ 1.7k | Python | 61/100 |
 | 58 | [dolthub/doltgresql](./dolthub-doltgresql.md) | ⭐ 1.8k | Go | 60/100 |
 | 59 | [projectnessie/nessie](./projectnessie-nessie.md) | ⭐ 1.5k | Java | 60/100 |
-| 60 | [apache/datafusion-comet](./apache-datafusion-comet.md) | ⭐ 1.2k | Rust | 58/100 |
-| 61 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 1.7k | PHP | 58/100 |
+| 60 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 1.7k | PHP | 58/100 |
+| 61 | [apache/datafusion-comet](./apache-datafusion-comet.md) | ⭐ 1.2k | Rust | 58/100 |
 | 62 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 602 | PHP | 58/100 |
 | 63 | [IQSS/dataverse](./iqss-dataverse.md) | ⭐ 1k | Java | 57/100 |
 | 64 | [scverse/anndata](./scverse-anndata.md) | ⭐ 732 | Python | 57/100 |
-| 65 | [flanglet/kanzi-go](./flanglet-kanzi-go.md) | ⭐ 624 | Go | 55/100 |
-| 66 | [Desbordante/desbordante-core](./desbordante-desbordante-core.md) | ⭐ 473 | C++ | 55/100 |
+| 65 | [Desbordante/desbordante-core](./desbordante-desbordante-core.md) | ⭐ 473 | C++ | 55/100 |
+| 66 | [flanglet/kanzi-go](./flanglet-kanzi-go.md) | ⭐ 624 | Go | 55/100 |
 | 67 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 494 | R | 55/100 |
 | 68 | [OpenGeoscience/geojs](./opengeoscience-geojs.md) | ⭐ 470 | JavaScript | 54/100 |
 | 69 | [PostHog/posthog-js](./posthog-posthog-js.md) | ⭐ 537 | TypeScript | 54/100 |
-| 70 | [foxtrotcommunications/foxtrotcommunications-forge-core](./foxtrotcommunications-foxtrotcommunications-forge-core.md) | ⭐ 3 | Python | 44/100 |
+| 70 | [SkBlaz/py3plex](./skblaz-py3plex.md) | ⭐ 181 | Python | 52/100 |
+| 71 | [foxtrotcommunications/foxtrotcommunications-forge-core](./foxtrotcommunications-foxtrotcommunications-forge-core.md) | ⭐ 3 | Python | 44/100 |
 
 ---
 

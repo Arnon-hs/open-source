@@ -25,7 +25,7 @@ Crypto · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The tangle-network/blueprint project is an open-source toolkit that empowers developers to design and deploy distributed systems and infrastructure as code. This powerful toolset streamlines the process of building complex systems, making it easier to manage and maintain infrastructure through code. By leveraging blueprint, developers can create scalable and secure distributed systems with greater efficiency and flexibility.
+Tangle-network/blueprint is an open-source toolkit for building distributed systems and infrastructure as code. This powerful platform enables developers to construct and manage complex systems with ease, simplifying the process of infrastructure creation and deployment. By leveraging a modular and flexible architecture, blueprint empowers teams to build scalable and secure distributed systems.
 
 ---
 

@@ -2,28 +2,28 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**158 projects** in this category.
+**162 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [freeCodeCamp/devdocs](./freecodecamp-devdocs.md) | ⭐ 38.8k | Ruby | 100/100 |
-| 2 | [azerothcore/azerothcore-wotlk](./azerothcore-azerothcore-wotlk.md) | ⭐ 8.2k | C++ | 100/100 |
-| 3 | [ossrs/srs](./ossrs-srs.md) | ⭐ 28.8k | C++ | 100/100 |
-| 4 | [OutlineFoundation/outline-apps](./outlinefoundation-outline-apps.md) | ⭐ 9.1k | TypeScript | 100/100 |
+| 1 | [ossrs/srs](./ossrs-srs.md) | ⭐ 28.8k | C++ | 100/100 |
+| 2 | [OutlineFoundation/outline-apps](./outlinefoundation-outline-apps.md) | ⭐ 9.1k | TypeScript | 100/100 |
+| 3 | [freeCodeCamp/devdocs](./freecodecamp-devdocs.md) | ⭐ 38.8k | Ruby | 100/100 |
+| 4 | [azerothcore/azerothcore-wotlk](./azerothcore-azerothcore-wotlk.md) | ⭐ 8.2k | C++ | 100/100 |
 | 5 | [spree/spree](./spree-spree.md) | ⭐ 15.4k | Ruby | 100/100 |
 | 6 | [gofiber/fiber](./gofiber-fiber.md) | ⭐ 39.6k | Go | 100/100 |
 | 7 | [Graylog2/graylog2-server](./graylog2-graylog2-server.md) | ⭐ 8k | Java | 100/100 |
-| 8 | [TykTechnologies/tyk](./tyktechnologies-tyk.md) | ⭐ 10.7k | Go | 100/100 |
-| 9 | [coollabsio/coolify](./coollabsio-coolify.md) | ⭐ 54.1k | PHP | 100/100 |
+| 8 | [coollabsio/coolify](./coollabsio-coolify.md) | ⭐ 54.1k | PHP | 100/100 |
+| 9 | [TykTechnologies/tyk](./tyktechnologies-tyk.md) | ⭐ 10.7k | Go | 100/100 |
 | 10 | [puppeteer/puppeteer](./puppeteer-puppeteer.md) | ⭐ 94.2k | TypeScript | 100/100 |
-| 11 | [caddyserver/caddy](./caddyserver-caddy.md) | ⭐ 71.8k | Go | 100/100 |
-| 12 | [awslabs/mcp](./awslabs-mcp.md) | ⭐ 8.9k | Python | 100/100 |
-| 13 | [gfx-rs/wgpu](./gfx-rs-wgpu.md) | ⭐ 17k | Rust | 100/100 |
-| 14 | [PipedreamHQ/pipedream](./pipedreamhq-pipedream.md) | ⭐ 11.3k | JavaScript | 100/100 |
-| 15 | [clockworklabs/SpacetimeDB](./clockworklabs-spacetimedb.md) | ⭐ 24.6k | Rust | 100/100 |
-| 16 | [gravitational/teleport](./gravitational-teleport.md) | ⭐ 20.2k | Go | 100/100 |
+| 11 | [awslabs/mcp](./awslabs-mcp.md) | ⭐ 8.9k | Python | 100/100 |
+| 12 | [PipedreamHQ/pipedream](./pipedreamhq-pipedream.md) | ⭐ 11.3k | JavaScript | 100/100 |
+| 13 | [caddyserver/caddy](./caddyserver-caddy.md) | ⭐ 71.8k | Go | 100/100 |
+| 14 | [clockworklabs/SpacetimeDB](./clockworklabs-spacetimedb.md) | ⭐ 24.6k | Rust | 100/100 |
+| 15 | [gravitational/teleport](./gravitational-teleport.md) | ⭐ 20.2k | Go | 100/100 |
+| 16 | [gfx-rs/wgpu](./gfx-rs-wgpu.md) | ⭐ 17k | Rust | 100/100 |
 | 17 | [microsoft/playwright](./microsoft-playwright.md) | ⭐ 87.2k | TypeScript | 100/100 |
 | 18 | [falconry/falcon](./falconry-falcon.md) | ⭐ 9.8k | Python | 100/100 |
 | 19 | [JustArchiNET/ArchiSteamFarm](./justarchinet-archisteamfarm.md) | ⭐ 13.2k | C# | 100/100 |
@@ -37,27 +37,27 @@
 | 27 | [typeorm/typeorm](./typeorm-typeorm.md) | ⭐ 36.5k | TypeScript | 100/100 |
 | 28 | [chubin/wttr.in](./chubin-wttr.in.md) | ⭐ 29.4k | Python | 99/100 |
 | 29 | [grpc-ecosystem/grpc-gateway](./grpc-ecosystem-grpc-gateway.md) | ⭐ 19.9k | Go | 99/100 |
-| 30 | [go-swagger/go-swagger](./go-swagger-go-swagger.md) | ⭐ 10k | Go | 99/100 |
-| 31 | [binwiederhier/ntfy](./binwiederhier-ntfy.md) | ⭐ 29.9k | Go | 99/100 |
+| 30 | [binwiederhier/ntfy](./binwiederhier-ntfy.md) | ⭐ 29.9k | Go | 99/100 |
+| 31 | [go-swagger/go-swagger](./go-swagger-go-swagger.md) | ⭐ 10k | Go | 99/100 |
 | 32 | [eclipse-theia/theia](./eclipse-theia-theia.md) | ⭐ 21.5k | TypeScript | 97/100 |
 | 33 | [GeyserMC/Geyser](./geysermc-geyser.md) | ⭐ 5.5k | Java | 97/100 |
-| 34 | [zealdocs/zeal](./zealdocs-zeal.md) | ⭐ 12.6k | C++ | 97/100 |
-| 35 | [ChilliCream/graphql-platform](./chillicream-graphql-platform.md) | ⭐ 5.7k | C# | 97/100 |
+| 34 | [ChilliCream/graphql-platform](./chillicream-graphql-platform.md) | ⭐ 5.7k | C# | 97/100 |
+| 35 | [zealdocs/zeal](./zealdocs-zeal.md) | ⭐ 12.6k | C++ | 97/100 |
 | 36 | [advplyr/audiobookshelf](./advplyr-audiobookshelf.md) | ⭐ 12.5k | JavaScript | 96/100 |
 | 37 | [harfbuzz/harfbuzz](./harfbuzz-harfbuzz.md) | ⭐ 5.6k | C++ | 96/100 |
 | 38 | [open-telemetry/opentelemetry-go](./open-telemetry-opentelemetry-go.md) | ⭐ 6.4k | Go | 95/100 |
 | 39 | [PowerDNS/pdns](./powerdns-pdns.md) | ⭐ 4.3k | C++ | 95/100 |
 | 40 | [jellyfin/jellyfin](./jellyfin-jellyfin.md) | ⭐ 50.5k | C# | 95/100 |
-| 41 | [cli/cli](./cli-cli.md) | ⭐ 44k | Go | 95/100 |
-| 42 | [microsoft/winget-cli](./microsoft-winget-cli.md) | ⭐ 25.7k | C++ | 95/100 |
+| 41 | [microsoft/winget-cli](./microsoft-winget-cli.md) | ⭐ 25.7k | C++ | 95/100 |
+| 42 | [cli/cli](./cli-cli.md) | ⭐ 44k | Go | 95/100 |
 | 43 | [kubernetes-sigs/aws-load-balancer-controller](./kubernetes-sigs-aws-load-balancer-controller.md) | ⭐ 4.3k | Go | 94/100 |
 | 44 | [joewalnes/websocketd](./joewalnes-websocketd.md) | ⭐ 17.5k | Go | 94/100 |
 | 45 | [rust-lang/rust-analyzer](./rust-lang-rust-analyzer.md) | ⭐ 16.3k | Rust | 94/100 |
 | 46 | [github/github-mcp-server](./github-github-mcp-server.md) | ⭐ 29.2k | Go | 94/100 |
 | 47 | [NVIDIAGameWorks/kaolin](./nvidiagameworks-kaolin.md) | ⭐ 5.1k | Python | 94/100 |
 | 48 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10k | Rust | 93/100 |
-| 49 | [microsoft/playwright-mcp](./microsoft-playwright-mcp.md) | ⭐ 31.3k | TypeScript | 93/100 |
-| 50 | [pinchtab/pinchtab](./pinchtab-pinchtab.md) | ⭐ 8.8k | Go | 93/100 |
+| 49 | [pinchtab/pinchtab](./pinchtab-pinchtab.md) | ⭐ 8.8k | Go | 93/100 |
+| 50 | [microsoft/playwright-mcp](./microsoft-playwright-mcp.md) | ⭐ 31.3k | TypeScript | 93/100 |
 | 51 | [openapi-ts/openapi-typescript](./openapi-ts-openapi-typescript.md) | ⭐ 8.1k | TypeScript | 91/100 |
 | 52 | [cloudflare/workers-sdk](./cloudflare-workers-sdk.md) | ⭐ 4k | TypeScript | 90/100 |
 | 53 | [elysiajs/elysia](./elysiajs-elysia.md) | ⭐ 18.1k | TypeScript | 90/100 |
@@ -89,10 +89,10 @@
 | 79 | [WWBN/AVideo](./wwbn-avideo.md) | ⭐ 2.1k | JavaScript | 80/100 |
 | 80 | [maptiler/tileserver-gl](./maptiler-tileserver-gl.md) | ⭐ 2.8k | JavaScript | 80/100 |
 | 81 | [maplibre/martin](./maplibre-martin.md) | ⭐ 3.6k | Rust | 80/100 |
-| 82 | [cloudflare/workers-rs](./cloudflare-workers-rs.md) | ⭐ 3.4k | Rust | 79/100 |
-| 83 | [fastly/pushpin](./fastly-pushpin.md) | ⭐ 3.8k | Rust | 79/100 |
-| 84 | [eclipse-collections/eclipse-collections](./eclipse-collections-eclipse-collections.md) | ⭐ 2.6k | Java | 79/100 |
-| 85 | [tiann/hapi](./tiann-hapi.md) | ⭐ 3.7k | TypeScript | 79/100 |
+| 82 | [fastly/pushpin](./fastly-pushpin.md) | ⭐ 3.8k | Rust | 79/100 |
+| 83 | [eclipse-collections/eclipse-collections](./eclipse-collections-eclipse-collections.md) | ⭐ 2.6k | Java | 79/100 |
+| 84 | [tiann/hapi](./tiann-hapi.md) | ⭐ 3.7k | TypeScript | 79/100 |
+| 85 | [cloudflare/workers-rs](./cloudflare-workers-rs.md) | ⭐ 3.4k | Rust | 79/100 |
 | 86 | [envoyproxy/gateway](./envoyproxy-gateway.md) | ⭐ 2.7k | Go | 78/100 |
 | 87 | [square/kotlinpoet](./square-kotlinpoet.md) | ⭐ 4.1k | Kotlin | 77/100 |
 | 88 | [analogjs/analog](./analogjs-analog.md) | ⭐ 3.1k | TypeScript | 77/100 |
@@ -109,8 +109,8 @@
 | 99 | [DSpace/DSpace](./dspace-dspace.md) | ⭐ 1.1k | Java | 70/100 |
 | 100 | [ueberdosis/hocuspocus](./ueberdosis-hocuspocus.md) | ⭐ 2.2k | TypeScript | 69/100 |
 | 101 | [wireapp/wire-server](./wireapp-wire-server.md) | ⭐ 2.8k | Haskell | 69/100 |
-| 102 | [intel/llvm](./intel-llvm.md) | ⭐ 1.5k | LLVM | 68/100 |
-| 103 | [msgbyte/tianji](./msgbyte-tianji.md) | ⭐ 3k | TypeScript | 68/100 |
+| 102 | [msgbyte/tianji](./msgbyte-tianji.md) | ⭐ 3k | TypeScript | 68/100 |
+| 103 | [intel/llvm](./intel-llvm.md) | ⭐ 1.5k | LLVM | 68/100 |
 | 104 | [facebook/fbthrift](./facebook-fbthrift.md) | ⭐ 2.7k | C++ | 68/100 |
 | 105 | [pelican-dev/panel](./pelican-dev-panel.md) | ⭐ 2k | PHP | 68/100 |
 | 106 | [cozystack/cozystack](./cozystack-cozystack.md) | ⭐ 2k | Go | 67/100 |
@@ -136,14 +136,14 @@
 | 126 | [chigwell/telegram-mcp](./chigwell-telegram-mcp.md) | ⭐ 993 | Python | 61/100 |
 | 127 | [intel/compute-runtime](./intel-compute-runtime.md) | ⭐ 1.4k | C++ | 61/100 |
 | 128 | [getsentry/sentry-cli](./getsentry-sentry-cli.md) | ⭐ 1k | Rust | 61/100 |
-| 129 | [backstage/community-plugins](./backstage-community-plugins.md) | ⭐ 371 | TypeScript | 61/100 |
-| 130 | [tg123/sshpiper](./tg123-sshpiper.md) | ⭐ 1.2k | Go | 61/100 |
+| 129 | [tg123/sshpiper](./tg123-sshpiper.md) | ⭐ 1.2k | Go | 61/100 |
+| 130 | [backstage/community-plugins](./backstage-community-plugins.md) | ⭐ 371 | TypeScript | 61/100 |
 | 131 | [sublimelsp/LSP](./sublimelsp-lsp.md) | ⭐ 1.8k | Python | 60/100 |
 | 132 | [apollographql/router](./apollographql-router.md) | ⭐ 956 | Rust | 60/100 |
 | 133 | [envoyproxy/go-control-plane](./envoyproxy-go-control-plane.md) | ⭐ 1.7k | Go | 60/100 |
 | 134 | [anthropics/anthropic-sdk-typescript](./anthropics-anthropic-sdk-typescript.md) | ⭐ 1.9k | TypeScript | 58/100 |
-| 135 | [metatube-community/metatube-sdk-go](./metatube-community-metatube-sdk-go.md) | ⭐ 786 | Go | 58/100 |
-| 136 | [googleapis/google-cloud-php](./googleapis-google-cloud-php.md) | ⭐ 1.2k | PHP | 58/100 |
+| 135 | [googleapis/google-cloud-php](./googleapis-google-cloud-php.md) | ⭐ 1.2k | PHP | 58/100 |
+| 136 | [metatube-community/metatube-sdk-go](./metatube-community-metatube-sdk-go.md) | ⭐ 786 | Go | 58/100 |
 | 137 | [mongodb-js/mongodb-mcp-server](./mongodb-js-mongodb-mcp-server.md) | ⭐ 1k | TypeScript | 57/100 |
 | 138 | [crazy-max/swarm-cronjob](./crazy-max-swarm-cronjob.md) | ⭐ 869 | Go | 57/100 |
 | 139 | [open-lambda/open-lambda](./open-lambda-open-lambda.md) | ⭐ 1k | Go | 57/100 |
@@ -153,19 +153,23 @@
 | 143 | [hoophq/hoop](./hoophq-hoop.md) | ⭐ 663 | Go | 55/100 |
 | 144 | [mihaelamj/cupertino](./mihaelamj-cupertino.md) | ⭐ 658 | Swift | 55/100 |
 | 145 | [k1LoW/runn](./k1low-runn.md) | ⭐ 624 | Go | 55/100 |
-| 146 | [Locatarr/locatarr.github.io](./locatarr-locatarr.github.io.md) | ⭐ 459 | — | 54/100 |
+| 146 | [mrcjkb/haskell-tools.nvim](./mrcjkb-haskell-tools.nvim.md) | ⭐ 592 | Lua | 54/100 |
 | 147 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 458 | — | 54/100 |
-| 148 | [bivlked/amneziawg-installer](./bivlked-amneziawg-installer.md) | ⭐ 337 | Shell | 53/100 |
-| 149 | [ancsemi/Haven](./ancsemi-haven.md) | ⭐ 366 | JavaScript | 53/100 |
-| 150 | [martin-majlis/Wikipedia-API](./martin-majlis-wikipedia-api.md) | ⭐ 729 | Python | 53/100 |
-| 151 | [nodiscc/xsrv](./nodiscc-xsrv.md) | ⭐ 400 | Jinja | 53/100 |
-| 152 | [kubernetes-sigs/cluster-api-provider-azure](./kubernetes-sigs-cluster-api-provider-azure.md) | ⭐ 333 | Go | 52/100 |
-| 153 | [bootgly/bootgly](./bootgly-bootgly.md) | ⭐ 228 | PHP | 52/100 |
-| 154 | [VHDL-LS/rust_hdl](./vhdl-ls-rust-hdl.md) | ⭐ 476 | Rust | 52/100 |
-| 155 | [okira-e/veriflow](./okira-e-veriflow.md) | ⭐ 3 | Go | 46/100 |
-| 156 | [PaulNonatomic/ServiceKit](./paulnonatomic-servicekit.md) | ⭐ 4 | C# | 40/100 |
-| 157 | [ScalableCapital/scalable-cli](./scalablecapital-scalable-cli.md) | ⭐ 198 | — | 39/100 |
-| 158 | [prixe-api/politicians](./prixe-api-politicians.md) | ⭐ 2 | JavaScript | 36/100 |
+| 148 | [Locatarr/locatarr.github.io](./locatarr-locatarr.github.io.md) | ⭐ 459 | — | 54/100 |
+| 149 | [kubernetes/apiserver](./kubernetes-apiserver.md) | ⭐ 710 | Go | 53/100 |
+| 150 | [bivlked/amneziawg-installer](./bivlked-amneziawg-installer.md) | ⭐ 338 | Shell | 53/100 |
+| 151 | [ancsemi/Haven](./ancsemi-haven.md) | ⭐ 367 | JavaScript | 53/100 |
+| 152 | [martin-majlis/Wikipedia-API](./martin-majlis-wikipedia-api.md) | ⭐ 729 | Python | 53/100 |
+| 153 | [nodiscc/xsrv](./nodiscc-xsrv.md) | ⭐ 400 | Jinja | 53/100 |
+| 154 | [GoMudEngine/GoMud](./gomudengine-gomud.md) | ⭐ 213 | Go | 52/100 |
+| 155 | [thepeacockproject/Peacock](./thepeacockproject-peacock.md) | ⭐ 630 | TypeScript | 52/100 |
+| 156 | [kubernetes-sigs/cluster-api-provider-azure](./kubernetes-sigs-cluster-api-provider-azure.md) | ⭐ 333 | Go | 52/100 |
+| 157 | [bootgly/bootgly](./bootgly-bootgly.md) | ⭐ 228 | PHP | 52/100 |
+| 158 | [VHDL-LS/rust_hdl](./vhdl-ls-rust-hdl.md) | ⭐ 476 | Rust | 52/100 |
+| 159 | [okira-e/veriflow](./okira-e-veriflow.md) | ⭐ 3 | Go | 46/100 |
+| 160 | [PaulNonatomic/ServiceKit](./paulnonatomic-servicekit.md) | ⭐ 4 | C# | 40/100 |
+| 161 | [ScalableCapital/scalable-cli](./scalablecapital-scalable-cli.md) | ⭐ 198 | — | 39/100 |
+| 162 | [prixe-api/politicians](./prixe-api-politicians.md) | ⭐ 2 | JavaScript | 36/100 |
 
 ---
 

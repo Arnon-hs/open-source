@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Milkio is an open-source TypeScript framework designed to blur the lines between frontend and backend development. It provides a unified platform for building scalable and maintainable applications, allowing developers to focus on writing efficient code without the constraints of traditional frontend-backend separation. With Milkio, developers can create seamless, end-to-end experiences that integrate effortlessly across different layers of an application.
+The milkio project is an open-source TypeScript framework designed to bridge the gap between frontend and backend development, providing a unified platform for building scalable and efficient applications. This framework aims to simplify the development process by offering a seamless integration of frontend and backend components. With milkio, developers can create robust and data-driven applications with ease, breaking down the traditional boundaries between client-side and server-side development.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The 64bit/async-openai project is an open-source Rust library that facilitates interaction with OpenAI APIs. This library provides a high-performance, 64-bit, and asynchronous interface to leverage the capabilities of OpenAI's models and services. By utilizing Rust, it ensures efficient and reliable integration with various applications and systems.
+This open-source project, 64bit/async-openai, provides a Rust library for interacting with OpenAI's API, enabling users to harness the power of Artificial Intelligence (AI) and Machine Learning (ML) capabilities in a 64-bit, asynchronous environment. The library aims to simplify integration with OpenAI's services, making it easier to build AI-powered applications. By utilizing Rust's performance and concurrency features, it enables developers to create high-performance, scalable AI solutions.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The gogpu project is an open-source, pure Go graphics framework that enables developers to harness the power of GPUs while maintaining the simplicity and ease of use associated with the Go programming language. This framework aims to provide a robust and accessible way to utilize GPU resources for graphics-related tasks. By leveraging Go's concurrency features and GPU acceleration, gogpu streamlines the process of creating high-performance graphics applications.
+The gogpu project is an open-source, pure Go graphics framework that leverages the power of GPUs while maintaining the simplicity and efficiency of the Go programming language. This framework aims to provide a seamless integration of GPU capabilities with Go-based applications, enabling developers to create high-performance graphics and computational intensive tasks. By utilizing the GPU, gogpu enables developers to achieve faster rendering and processing of visual data.
 
 ---
 

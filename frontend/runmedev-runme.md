@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The runme project is an open-source initiative that leverages Markdown to create DevOps Notebooks. This Frontend-focused project empowers users to document and share development insights in a highly readable and easily maintainable format. By utilizing Markdown, runme facilitates a seamless integration of development knowledge with collaborative documentation.
+Runme is an open-source project that enables the creation of DevOps notebooks using Markdown. This innovative tool provides a simple and intuitive way to document and share development workflows, configurations, and best practices in a collaborative and easily accessible format. By leveraging Markdown, users can easily author and share notebooks that can be executed and deployed in a variety of environments.
 
 ---
 

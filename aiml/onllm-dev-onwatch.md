@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a 2-3 sentence summary for the onWatch project:
 
-The onWatch project provides a real-time monitoring system for AI API quotas across various platforms, including Synthetic, Z.ai, Anthropic, Codex, GitHub Copilot, and Antigravity. This lightweight daemon stores data locally using SQLite and offers a Material Design 3 dashboard for easy access. With a focus on user privacy, onWatch collects zero telemetry and runs in the background with minimal resource usage (<50MB RAM).
+onWatch is an open-source, real-time quota tracker for popular AI APIs, including Synthetic, Z.ai, Anthropic, Codex, GitHub Copilot, and Antigravity. This lightweight daemon monitors API usage and stores data in a local SQLite database, providing a Material Design 3 dashboard for easy visibility. onWatch prioritizes user data protection, with no telemetry or tracking.
 
 ---
 

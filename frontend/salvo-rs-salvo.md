@@ -25,7 +25,7 @@ Frontend · Backend · Design
 
 ## 📝 Summary
 
-Salvo is an open-source web framework designed with a simplified approach, offering a robust and efficient solution for building web applications. This framework provides a streamlined design, making it easier for developers to create scalable and maintainable projects. With Salvo, developers can focus on building innovative web applications without the complexity of traditional frameworks.
+Salvo is an open-source web framework that offers a simplified design, making it an ideal choice for developers seeking a powerful yet easy-to-use platform for building web applications. With its streamlined architecture, Salvo enables efficient development and scalable deployment of high-performance web applications. Whether you're building a frontend, backend, or designing a new interface, Salvo provides a versatile foundation for your next project.
 
 ---
 

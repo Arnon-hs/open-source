@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-DoltgreSQL is an open-source project that combines the power of PostgreSQL with the version control capabilities of Dolt, enabling teams to manage and collaborate on database schema and data with ease. This innovative solution allows users to track changes, revert to previous versions, and even merge different branches of their database, all while maintaining the performance and reliability of PostgreSQL. By leveraging version control, DoltgreSQL helps teams streamline database development and maintenance.
+DoltgreSQL is an open-source project that integrates PostgreSQL with version control, allowing users to manage and track changes to their database schema and data over time. This version-controlled PostgreSQL system enables collaboration, auditing, and reproducibility in database development and maintenance. By combining the power of PostgreSQL with version control, DoltgreSQL facilitates more transparent and efficient database management.
 
 ---
 
