@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-TeleAI-UAGI/Awesome-Agent-Memory is an open-source project that provides a comprehensive collection of systems, benchmarks, and research papers related to memory in Large Language Models (LLMs) and Multilingual Large Language Models (MLLMs). This repository focuses on topics such as long-term context, retrieval, and reasoning, offering valuable resources for researchers and developers working in the field of AI and ML. By curating these materials, the project aims to facilitate advancements in LLM and MLLM memory capabilities.
+The TeleAI-UAGI/Awesome-Agent-Memory project is an open-source repository that collects and curates various systems, benchmarks, and research papers focused on memory-related techniques for Large Language Models (LLMs) and Multitask Large Language Models (MLLMs). This resource aims to facilitate the development and comparison of long-term context, retrieval, and reasoning capabilities in AI models. By aggregating knowledge on memory-based LLMs and MLLMs, the project enables researchers and developers to accelerate their progress in this field.
 
 ---
 

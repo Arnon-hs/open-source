@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Formal Conjectures is an open-source project that leverages the Lean proof assistant to formalize statements of conjectures from various areas of mathematics. This collection aims to provide a platform for mathematicians to express and verify conjectures in a rigorous, machine-verifiable format. By formalizing conjectures, researchers can gain new insights and accelerate the process of mathematical discovery.
+The google-deepmind/formal-conjectures project is an open-source initiative that formalizes statements of conjectures in Lean, a popular proof assistant. This collection aims to provide a structured and verifiable platform for exploring and verifying mathematical conjectures. By formalizing conjectures, researchers can more rigorously test and analyze them using Lean's powerful tools and automated reasoning capabilities.
 
 ---
 

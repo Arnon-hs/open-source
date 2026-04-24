@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The Fojin project is an open-source, comprehensive Buddhist digital text platform featuring a vast collection of over 9,200 texts from 500+ sources, available in 8 different user interface languages. It incorporates advanced features such as artificial intelligence-powered question answering, a knowledge graph, and full-text search capabilities. This platform serves as a valuable resource for scholars, researchers, and enthusiasts of Buddhism.
+The fojin project is an open-source, Buddhist digital text platform that provides access to a vast collection of over 9,200 texts from 500+ sources. This comprehensive platform offers features such as AI-powered Q&A functionality, a knowledge graph, and full-text search capabilities, all available in 8 different languages. Its multi-language support and advanced AI-driven features make it a valuable resource for Buddhist studies and related research.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The kovetskiy/mark project is an open-source tool that synchronizes markdown files with Confluence pages, allowing for seamless collaboration and version control. This project provides a simple and efficient way to manage and update content across multiple platforms. It enables users to maintain consistency and accuracy across their markdown files and Confluence pages.
+The kovetskiy/mark project is an open-source tool that enables seamless synchronization between Markdown files and Confluence pages, streamlining content management and collaboration. This project facilitates the automatic mirroring of Markdown content to Confluence, making it easier to maintain consistency and accessibility across platforms. By bridging the gap between Markdown and Confluence, kovetskiy/mark enhances productivity and simplifies content management.
 
 ---
 

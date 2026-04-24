@@ -1,6 +1,6 @@
 # carthage-software/mago
 
-[![Stars](https://img.shields.io/github/stars/carthage-software/mago?style=flat-square&color=yellow)](https://github.com/carthage-software/mago/stargazers) [![Forks](https://img.shields.io/github/forks/carthage-software/mago?style=flat-square&color=blue)](https://github.com/carthage-software/mago/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carthage-software/mago?style=flat-square&color=yellow)](https://github.com/carthage-software/mago/stargazers) [![Forks](https://img.shields.io/github/forks/carthage-software/mago?style=flat-square&color=blue)](https://github.com/carthage-software/mago/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

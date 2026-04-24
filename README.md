@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3153** |
+| 🗂️ **Total projects** | **3249** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1190 | [Browse →](./aiml/) |
-| 📦 **Misc** | 494 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 344 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 291 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 200 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 163 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 127 | [Browse →](./crypto/) |
-| 📊 **Data** | 90 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 75 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 44 | [Browse →](./payments/) |
-| 📱 **Mobile** | 41 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 1236 | [Browse →](./aiml/) |
+| 📦 **Misc** | 501 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 352 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 302 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 202 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 168 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 133 | [Browse →](./crypto/) |
+| 📊 **Data** | 92 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 77 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 45 | [Browse →](./payments/) |
+| 📱 **Mobile** | 44 | [Browse →](./mobile/) |
+| 🔐 **Security** | 35 | [Browse →](./security/) |
 | 📈 **Trading** | 34 | [Browse →](./trading/) |
-| 🔐 **Security** | 34 | [Browse →](./security/) |
 | ✨ **Design** | 12 | [Browse →](./design/) |
 | 🎯 **Product** | 11 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 3 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [k2-fsa/sherpa-onnx](./backend/k2-fsa-sherpa-onnx.md) | ⭐ 11.8k | Backend |
-| 2 | [PaddlePaddle/PaddleOCR](./aiml/paddlepaddle-paddleocr.md) | ⭐ 76.4k | AI/ML |
-| 3 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 4 | [comet-ml/opik](./orchestration/comet-ml-opik.md) | ⭐ 19k | Orchestration |
-| 5 | [sktime/sktime](./aiml/sktime-sktime.md) | ⭐ 9.7k | AI/ML |
-| 6 | [apache/seatunnel](./aiml/apache-seatunnel.md) | ⭐ 9.3k | AI/ML |
-| 7 | [lobehub/lobehub](./orchestration/lobehub-lobehub.md) | ⭐ 75.6k | Orchestration |
-| 8 | [goauthentik/authentik](./aiml/goauthentik-authentik.md) | ⭐ 21.1k | AI/ML |
-| 9 | [unslothai/unsloth](./aiml/unslothai-unsloth.md) | ⭐ 62.8k | AI/ML |
-| 10 | [dgtlmoon/changedetection.io](./backend/dgtlmoon-changedetection.io.md) | ⭐ 31.2k | Backend |
+| 1 | [duplicati/duplicati](./aiml/duplicati-duplicati.md) | ⭐ 14.5k | AI/ML |
+| 2 | [rowboatlabs/rowboat](./orchestration/rowboatlabs-rowboat.md) | ⭐ 13.1k | Orchestration |
+| 3 | [mdn/content](./aiml/mdn-content.md) | ⭐ 10.7k | AI/ML |
+| 4 | [x64dbg/x64dbg](./security/x64dbg-x64dbg.md) | ⭐ 48.2k | Security |
+| 5 | [Wei-Shaw/claude-relay-service](./aiml/wei-shaw-claude-relay-service.md) | ⭐ 11.3k | AI/ML |
+| 6 | [apache/tvm](./misc/apache-tvm.md) | ⭐ 13.3k | Misc |
+| 7 | [Anuken/Mindustry](./mobile/anuken-mindustry.md) | ⭐ 27.4k | Mobile |
+| 8 | [hiyouga/LlamaFactory](./trading/hiyouga-llamafactory.md) | ⭐ 70.6k | Trading |
+| 9 | [opf/openproject](./product/opf-openproject.md) | ⭐ 14.9k | Product |
+| 10 | [bpftrace/bpftrace](./misc/bpftrace-bpftrace.md) | ⭐ 10.1k | Misc |
 
 ## 🚀 How it works
 

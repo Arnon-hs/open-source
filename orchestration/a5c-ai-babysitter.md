@@ -25,7 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The Babysitter project is an open-source solution that ensures the reliability and efficiency of agentic workforces by enforcing obedience and preventing hallucinations. It enables the management of complex tasks and workflows through deterministic self-orchestration, allowing for better control and optimization. By providing a deterministic approach, Babysitter helps to mitigate the risk of unpredictable AI behavior.
+Here's a brief summary of the project:
+
+The Babysitter project is an open-source tool that helps manage complex tasks and workflows by enabling agentic workforces to self-orchestrate in a deterministic and hallucination-free manner. This ensures obedience and prevents errors, making it easier to handle intricate operations. Babysitter facilitates more efficient and reliable management of AI and ML workforces.
 
 ---
 

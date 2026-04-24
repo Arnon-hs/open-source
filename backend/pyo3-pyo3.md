@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-PyO3 is an open-source project that provides Rust bindings for the Python interpreter, allowing developers to create Python extensions and embed Python in Rust applications. This project enables seamless integration between Rust and Python programming languages, making it easier to build hybrid systems and leverage the strengths of both languages. By providing a stable and efficient interface, PyO3 facilitates the creation of high-performance and cross-language applications.
+PyO3 is an open-source project providing Rust bindings to the Python interpreter. This allows developers to leverage Python's dynamic nature and libraries within Rust projects, enabling seamless integration and interoperation between the two languages. By facilitating the creation of Python-Rust hybrids, PyO3 empowers the development of fast, reliable, and efficient applications.
 
 ---
 

@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Rabby is an innovative, open-source wallet designed for Ethereum and EVM (Ethereum Virtual Machine) chains, revolutionizing the way users interact with their digital assets. This game-changing wallet leverages cutting-edge technology to provide users with a seamless, secure, and efficient experience. By harnessing the power of AI/ML, Rabby aims to set a new standard in cryptocurrency management.
+Rabby is a groundbreaking, open-source wallet designed for Ethereum and all EVM (Ethereum Virtual Machine) chains, revolutionizing the way users interact with their digital assets. This cutting-edge wallet leverages advanced technology, including AI and ML, to provide a seamless, secure, and user-friendly experience. With Rabby, users can easily manage their cryptocurrencies and explore new possibilities in the world of decentralized finance.
 
 ---
 

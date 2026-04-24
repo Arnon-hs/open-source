@@ -25,7 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The maestro-orchestrate project is an open-source, multi-agent orchestration platform that enables efficient and scalable management of various tools and services, including Gemini CLI, Claude Code, Codex, and Qwen Code. This platform offers advanced features such as parallel subagents, persistent sessions, and built-in tools for code review, debugging, security, SEO, accessibility, and compliance. By leveraging maestro-orchestrate, developers can streamline their workflows and improve productivity while ensuring high-quality and secure results.
+Here's a brief summary for the josstei/maestro-orchestrate project:
+
+Maestro Orchestrate is an open-source, multi-agent platform designed to streamline tasks across various tools and services, including Gemini CLI, Claude Code, Codex, and Qwen Code. This platform offers advanced features like parallel subagents, persistent sessions, and built-in tools for code review, debugging, security, and compliance. It enables users to automate and manage complex workflows efficiently, making it an ideal solution for developers and teams.
 
 ---
 

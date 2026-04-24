@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Terraform OpenStack provider is an open-source project that allows users to manage and provision OpenStack resources using the HashiCorp Terraform infrastructure as code tool. This provider enables users to create, update, and delete OpenStack resources such as instances, networks, and security groups, streamlining the process of deploying and managing cloud infrastructure. By leveraging the Terraform OpenStack provider, users can automate their OpenStack deployments and improve collaboration and version control.
+The Terraform OpenStack provider is an open-source project that enables users to manage and provision OpenStack infrastructure resources using HashiCorp's Terraform. This provider allows users to create and configure OpenStack resources such as networks, servers, and storage systems in a declarative and version-controlled manner. By leveraging Terraform's infrastructure as code (IaC) approach, users can automate and streamline their OpenStack deployments and management processes.
 
 ---
 

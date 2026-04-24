@@ -2,20 +2,20 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**44 projects** in this category.
+**45 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [firecracker-microvm/firecracker](./firecracker-microvm-firecracker.md) | ⭐ 33.9k | Rust | 100/100 |
-| 2 | [invoiceninja/invoiceninja](./invoiceninja-invoiceninja.md) | ⭐ 9.7k | PHP | 100/100 |
-| 3 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 9.8k | PHP | 100/100 |
-| 4 | [knadh/listmonk](./knadh-listmonk.md) | ⭐ 19.6k | Go | 100/100 |
+| 2 | [knadh/listmonk](./knadh-listmonk.md) | ⭐ 19.6k | Go | 100/100 |
+| 3 | [Pawdroid/Free-servers](./pawdroid-free-servers.md) | ⭐ 17.1k | — | 100/100 |
+| 4 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28k | TypeScript | 100/100 |
 | 5 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.1k | PHP | 100/100 |
-| 6 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.8k | Python | 100/100 |
-| 7 | [Pawdroid/Free-servers](./pawdroid-free-servers.md) | ⭐ 17.1k | — | 100/100 |
-| 8 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28k | TypeScript | 100/100 |
+| 6 | [invoiceninja/invoiceninja](./invoiceninja-invoiceninja.md) | ⭐ 9.7k | PHP | 100/100 |
+| 7 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.8k | Python | 100/100 |
+| 8 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 9.8k | PHP | 100/100 |
 | 9 | [99designs/gqlgen](./99designs-gqlgen.md) | ⭐ 10.7k | Go | 99/100 |
 | 10 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 96/100 |
 | 11 | [killbill/killbill](./killbill-killbill.md) | ⭐ 5.4k | Java | 94/100 |
@@ -35,23 +35,24 @@
 | 25 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
 | 26 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 862 | TypeScript | 56/100 |
 | 27 | [VladSez/easy-invoice-pdf](./vladsez-easy-invoice-pdf.md) | ⭐ 751 | TypeScript | 56/100 |
-| 28 | [AuthorizeNet/sdk-php](./authorizenet-sdk-php.md) | ⭐ 454 | PHP | 55/100 |
-| 29 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 730 | C# | 55/100 |
+| 28 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 730 | C# | 55/100 |
+| 29 | [AuthorizeNet/sdk-php](./authorizenet-sdk-php.md) | ⭐ 454 | PHP | 55/100 |
 | 30 | [open-condo-software/condo](./open-condo-software-condo.md) | ⭐ 336 | JavaScript | 54/100 |
-| 31 | [nymtech/nym-vpn-client](./nymtech-nym-vpn-client.md) | ⭐ 396 | Rust | 53/100 |
+| 31 | [elC0mpa/aws-doctor](./elc0mpa-aws-doctor.md) | ⭐ 418 | Go | 53/100 |
 | 32 | [agentic-commerce-protocol/agentic-commerce-protocol](./agentic-commerce-protocol-agentic-commerce-protocol.md) | ⭐ 1.4k | JavaScript | 53/100 |
-| 33 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 176 | PHP | 53/100 |
+| 33 | [nymtech/nym-vpn-client](./nymtech-nym-vpn-client.md) | ⭐ 396 | Rust | 53/100 |
 | 34 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
 | 35 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
-| 36 | [elC0mpa/aws-doctor](./elc0mpa-aws-doctor.md) | ⭐ 418 | Go | 53/100 |
+| 36 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 176 | PHP | 53/100 |
 | 37 | [braintree/android-card-form](./braintree-android-card-form.md) | ⭐ 374 | Java | 52/100 |
 | 38 | [openfintechio/openfintech](./openfintechio-openfintech.md) | ⭐ 215 | PHP | 52/100 |
 | 39 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 169 | Ruby | 52/100 |
 | 40 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 52/100 |
 | 41 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 292 | — | 52/100 |
 | 42 | [ali-zahedi/az-iranian-bank-gateways](./ali-zahedi-az-iranian-bank-gateways.md) | ⭐ 598 | Python | 52/100 |
-| 43 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 49/100 |
-| 44 | [Adyen/adyen-salesforce-commerce-cloud](./adyen-adyen-salesforce-commerce-cloud.md) | ⭐ 103 | JavaScript | 48/100 |
+| 43 | [askalf/dario](./askalf-dario.md) | ⭐ 96 | JavaScript | 51/100 |
+| 44 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 49/100 |
+| 45 | [Adyen/adyen-salesforce-commerce-cloud](./adyen-adyen-salesforce-commerce-cloud.md) | ⭐ 103 | JavaScript | 48/100 |
 
 ---
 

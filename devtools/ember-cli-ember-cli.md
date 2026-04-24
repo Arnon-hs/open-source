@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Ember-cli is a free and open-source command line utility for Ember.js, a popular JavaScript framework for building dynamic web applications. This tool streamlines development workflows by providing a range of features, including project scaffolding, code generation, and asset management. With ember-cli, developers can efficiently build, test, and deploy Ember.js applications.
+Ember-cli is an open-source command line utility for Ember.js, a popular JavaScript framework for building web applications. It provides a set of tools to streamline development, including scaffolding, building, and testing, making it easier to create and maintain Ember projects. With ember-cli, developers can focus on writing code, rather than tedious setup and configuration tasks.
 
 ---
 

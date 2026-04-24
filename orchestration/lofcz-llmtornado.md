@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the lofcz/LLMTornado project:
-
-LLMTornado is an open-source .NET library that enables developers to build AI agents with a wide range of capabilities. Featuring over 30 built-in connectors, this library streamlines the process of integrating AI and machine learning models into various applications. With LLMTornado, developers can create sophisticated AI-powered systems with ease.
+The LLMTornado project is an open-source .NET library designed to facilitate the creation of artificial intelligence (AI) agents. With over 30 built-in connectors, developers can easily integrate various AI and machine learning tools into their applications, streamlining the development process. This library is ideal for those looking to leverage the power of AI in their frontend and orchestration projects.
 
 ---
 

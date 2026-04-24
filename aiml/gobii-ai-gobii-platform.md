@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 411 |
+| ⭐ **Stars** | 412 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
@@ -25,7 +25,7 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The gobii-platform is an open-source, always-on AI workforce that simplifies the integration of artificial intelligence into applications and workflows. This project provides a user-friendly interface for leveraging AI capabilities, making it accessible to developers and non-experts alike. By utilizing gobii-platform, users can streamline their development process and unlock the power of AI in their projects.
+The gobii-platform is an open-source project that enables organizations to harness the power of an always-on AI workforce. This user-friendly platform provides a seamless experience for leveraging AI and machine learning capabilities, simplifying the process of integrating AI into various workflows. By utilizing gobii-platform, businesses can unlock new levels of efficiency and productivity.
 
 ---
 

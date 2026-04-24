@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-PlanExe is an open-source project that enables users to generate plans from textual descriptions in a matter of minutes. Leveraging AI/ML capabilities, this orchestration tool streamlines the planning process, making it easier to create detailed plans based on complex descriptions. By automating plan creation, PlanExe aims to increase efficiency and productivity.
+PlanExe is an open-source project that utilizes AI and ML to rapidly generate plans from brief descriptions. This innovative tool enables users to create plans in mere minutes, streamlining complex tasks and fostering productivity. By leveraging orchestration and AI capabilities, PlanExe aims to simplify the planning process and facilitate more efficient decision-making.
 
 ---
 

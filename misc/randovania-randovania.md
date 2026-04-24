@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Randovania is an open-source, randomizer platform that enables users to generate randomized versions of various games, offering a fresh and unpredictable experience. This versatile tool supports a multitude of games, allowing players to experiment with different gameplay configurations and challenge themselves in new ways. By harnessing the power of randomness, Randovania fosters a sense of exploration and discovery in gamers.
+The Randovania project is an open-source randomizer platform that offers a versatile tool for modifying various games, providing players with new and unique challenges. This platform allows users to create random levels, items, and gameplay mechanics, resulting in a fresh and unpredictable experience. By supporting a multitude of games, Randovania offers endless possibilities for enthusiasts looking to shake up their gaming experiences.
 
 ---
 

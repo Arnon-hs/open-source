@@ -1,6 +1,6 @@
 # proxifly/free-proxy-list
 
-[![Stars](https://img.shields.io/github/stars/proxifly/free-proxy-list?style=flat-square&color=yellow)](https://github.com/proxifly/free-proxy-list/stargazers) [![Forks](https://img.shields.io/github/forks/proxifly/free-proxy-list?style=flat-square&color=blue)](https://github.com/proxifly/free-proxy-list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/proxifly/free-proxy-list?style=flat-square&color=yellow)](https://github.com/proxifly/free-proxy-list/stargazers) [![Forks](https://img.shields.io/github/forks/proxifly/free-proxy-list?style=flat-square&color=blue)](https://github.com/proxifly/free-proxy-list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.6k |
-| 🍴 **Forks** | 524 |
+| ⭐ **Stars** | 4.7k |
+| 🍴 **Forks** | 527 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

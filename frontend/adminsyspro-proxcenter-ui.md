@@ -25,9 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-ProxCenter is an open-source, web-based management platform for Proxmox environments, offering a modern and intuitive interface to manage multiple clusters and backup servers from a single point. This alternative to VMware vCenter enables administrators to streamline Proxmox VE cluster and Proxmox Backup Server instance management with ease. By providing a centralized management solution, ProxCenter simplifies Proxmox infrastructure management and improves overall efficiency.
+ProxCenter is an open-source management platform designed for Proxmox environments. It offers a user-friendly web interface to manage multiple Proxmox VE clusters and Proxmox Backup Server instances from a centralized location. This alternative to VMware vCenter simplifies Proxmox management and provides a unified view of all Proxmox infrastructure.
 
 ---
 

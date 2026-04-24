@@ -25,9 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary of the gianlucam76/k8s-cleaner project:
 
-Cleaner is an open-source Kubernetes controller that optimizes cluster efficiency by automatically identifying and managing unused or unhealthy resources. With flexible scheduling, customizable filtering, and Lua-based selection criteria, it enables streamlined cluster maintenance, updates, and removals. Additionally, Cleaner integrates with popular collaboration tools like Slack, Webex, and Discord for real-time notifications.
+The gianlucam76/k8s-cleaner is an open-source Kubernetes controller that streamlines cluster management by identifying and removing unused or unhealthy resources, promoting efficient cluster operation. With features like flexible scheduling and Lua-based selection criteria, it enables automated cluster maintenance and notifications via popular communication platforms. This project helps DevOps teams maintain healthy Kubernetes clusters with minimal manual intervention.
 
 ---
 

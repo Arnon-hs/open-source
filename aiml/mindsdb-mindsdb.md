@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/mindsdb/mindsdb?style=flat-square&color=yellow)](https://github.com/mindsdb/mindsdb/stargazers) [![Forks](https://img.shields.io/github/forks/mindsdb/mindsdb?style=flat-square&color=blue)](https://github.com/mindsdb/mindsdb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> Query Engine for AI Analytics: Build self-reasoning agents across all your live data
+> AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data
+AI/ML · Data
 
 ## 📝 Summary
 

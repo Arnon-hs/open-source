@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11.7k |
+| ⭐ **Stars** | 11.8k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |

@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The T-Troll/alienfx-tools project is an open-source collection of tools and apps designed to customize and control various aspects of Alienware gaming systems, including lighting, fan speed, and power management. These user-friendly utilities provide advanced features and settings for personalizing the user experience. By offering a free and modifiable alternative, the project empowers users to take greater control over their gaming systems.
+The T-Troll/alienfx-tools project offers an open-source collection of tools and apps that provide comprehensive control over Alienware systems, including lights, fans, and power management. This suite of tools allows users to customize and fine-tune their Alienware experience, enabling enhanced performance, improved system efficiency, and personalized aesthetic settings. By leveraging this project, users can unlock advanced features and capabilities on their Alienware devices.
 
 ---
 

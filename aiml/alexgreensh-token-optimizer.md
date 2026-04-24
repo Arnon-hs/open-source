@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The alexgreensh/token-optimizer project is an open-source initiative focused on optimizing token management in AI/ML applications. It aims to identify and resolve "ghost tokens" that can cause issues with model compaction, while also preventing context quality decay. By addressing these challenges, the project seeks to improve the overall performance and reliability of AI/ML systems.
+The alexgreensh/token-optimizer project is an open-source initiative aimed at enhancing the performance and efficiency of AI/ML models. By identifying and resolving "ghost tokens," it helps models survive compaction, a crucial process that can lead to context quality decay. This project empowers developers to refine their models and achieve improved results.
 
 ---
 

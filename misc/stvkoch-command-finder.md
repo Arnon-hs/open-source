@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11 |
+| ⭐ **Stars** | 12 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
 | 📈 **Score** | 36/100 |

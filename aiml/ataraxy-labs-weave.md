@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Ataraxy-Labs/weave?style=flat-square&color=yellow)](https://github.com/Ataraxy-Labs/weave/stargazers) [![Forks](https://img.shields.io/github/forks/Ataraxy-Labs/weave?style=flat-square&color=blue)](https://github.com/Ataraxy-Labs/weave/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
-> Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.
+> Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
 
 ## 📊 Stats
 

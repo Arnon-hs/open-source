@@ -27,7 +27,7 @@ Payments · Frontend · DevTools
 
 Here's a brief summary of the nym-vpn-client project:
 
-"Nym VPN Client is a cross-platform, open-source VPN solution that provides robust anonymity and secure online payments. Built on Rust, this client leverages WireGuard speed and mixnet technology to protect metadata, ensuring users' online activities remain unlinkable. With zero-knowledge payments, users can maintain their financial privacy while staying secure online."
+The nym-vpn-client is an open-source, cross-platform VPN client that utilizes Rust to provide a secure and fast online experience. This project combines the speed of WireGuard with the anonymity of a mixnet, protecting not just IP addresses but also metadata to maintain user privacy. Additionally, it supports zero-knowledge payments for unlinkable online activities.
 
 ---
 

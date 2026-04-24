@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The dorny/test-reporter is an open-source project that integrates test results from various testing frameworks into GitHub, providing a seamless and unified view of test outcomes directly within the platform. This tool supports popular testing frameworks, making it easy for developers to track and analyze their test results in a single location. By doing so, it improves collaboration and simplifies the testing process.
+dorny/test-reporter is an open-source project that integrates seamlessly with GitHub, providing a direct and user-friendly display of test results from various testing frameworks. This DevTools utility allows developers to easily view and track test outcomes within the GitHub platform, enhancing collaboration and code review efficiency. By streamlining test reporting, dorny/test-reporter facilitates a more transparent and efficient testing process.
 
 ---
 

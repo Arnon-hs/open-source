@@ -25,9 +25,9 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for kamu-data/kamu-cli:
+Here's a brief summary for the kamu-data/kamu-cli project:
 
-Kamu-cli is an open-source project that spearheads the development of a next-generation decentralized data lakehouse and a multi-party stream processing network. This innovative platform empowers secure, high-performance, and scalable data management and analytics, revolutionizing the way organizations interact with their data. By leveraging cutting-edge technologies in crypto, AI/ML, and DevTools, Kamu-cli seeks to redefine the boundaries of data sovereignty and collaboration.
+Kamu-cli is an open-source, next-generation decentralized data lakehouse and multi-party stream processing network. It enables secure and scalable data management, allowing multiple parties to collaborate and process data in real-time. This decentralized platform leverages cutting-edge technologies in crypto, AI/ML, and DevTools.
 
 ---
 
