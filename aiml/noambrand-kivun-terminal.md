@@ -25,7 +25,9 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-The noambrand/kivun-terminal project is an open-source initiative that offers a one-click installer for Claude Code on Windows and macOS. This installer simplifies the setup process by bundling essential tools such as Node.js, Git, and a custom Windows Terminal theme, along with features like a live status bar, folder picker, and right-click integration. With kivun-terminal, users can quickly get started with Claude Code in under a minute.
+Here's a brief summary for the open-source project:
+
+Kivun Terminal is an open-source project that streamlines the installation of Claude Code, a cutting-edge AI development platform, by bundling essential tools such as Node.js, Git, and a customizable Windows Terminal theme. With a simple one-click installer, users can quickly set up a development environment on Windows or macOS, enabling them to start building AI applications in under a minute. The project aims to simplify AI development and accelerate the creation of innovative products.
 
 ---
 

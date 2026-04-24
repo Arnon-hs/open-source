@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Tiledesk/tiledesk-server open-source project:
+Here's a brief summary of the Tiledesk/tiledesk-server project:
 
-Tiledesk Server is an open-source API component that powers the Tiledesk platform, enabling the creation of advanced agents driven by Large Language Models (LLMs) with seamless human-in-the-loop (HITL) integration. It provides a flexible alternative to Voiceflow, offering a customizable solution for building conversational AI applications. This project combines AI/ML capabilities with user-friendly frontend and backend development.
+Tiledesk Server is an open-source API component that powers the Tiledesk platform, enabling users to build advanced language model (LLM) powered agents with seamless human-in-the-loop (HITL) integration. This platform is an alternative to Voiceflow, offering a flexible and customizable solution for building conversational interfaces. By leveraging AI/ML capabilities, Tiledesk simplifies the development of sophisticated chatbots and agents.
 
 ---
 

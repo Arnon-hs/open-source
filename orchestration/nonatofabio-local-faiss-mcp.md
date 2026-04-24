@@ -25,9 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The nonatofabio/local_faiss_mcp project provides an open-source, local FAISS vector store implementation as a Memory Coprocessor (MCP) server. This drop-in solution enables seamless, local semantic search capabilities for AI/ML-powered agents like Claude and Copilot. By integrating this local FAISS vector store, developers can significantly improve the efficiency and reliability of their agent-based applications.
+This open-source project, nonatofabio/local_faiss_mcp, provides a local FAISS vector store that functions as a Memory Chunk Provider (MCP) server. This drop-in solution enables local semantic search capabilities for agents like Claude and Copilot, enhancing their conversational AI capabilities. It facilitates efficient knowledge retrieval and processing within the agent's local environment.
 
 ---
 

@@ -1,17 +1,17 @@
 # estree/estree
 
-[![Stars](https://img.shields.io/github/stars/estree/estree?style=flat-square&color=yellow)](https://github.com/estree/estree/stargazers) [![Forks](https://img.shields.io/github/forks/estree/estree?style=flat-square&color=blue)](https://github.com/estree/estree/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/estree/estree?style=flat-square&color=yellow)](https://github.com/estree/estree/stargazers) [![Forks](https://img.shields.io/github/forks/estree/estree?style=flat-square&color=blue)](https://github.com/estree/estree/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag opensource): One PR to a parser unlocked prerendering in Brisa
+> The ESTree Spec
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 5.4k |
+| 🍴 **Forks** | 365 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

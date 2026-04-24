@@ -25,7 +25,7 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Defang is an open-source CLI tool that simplifies the deployment process for applications, allowing developers to easily move their apps from Docker Compose to their preferred cloud infrastructure. With Defang, users can achieve secure and scalable deployments in minutes, streamlining the development-to-production workflow. This project aims to bridge the gap between local development and cloud deployment, making it easier for developers to focus on coding.
+Defang is an open-source CLI tool that streamlines application deployment across various cloud environments, enabling developers to deploy their apps securely and scalably in minutes. By leveraging Docker Compose, Defang simplifies the process of taking applications from local development to the cloud. This efficient tool empowers developers to deploy anywhere, eliminating the complexity associated with cloud-specific deployment processes.
 
 ---
 

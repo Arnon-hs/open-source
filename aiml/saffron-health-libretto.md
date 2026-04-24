@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the saffron-health/libretto project:
-
-Libretto is an open-source AI toolkit that enables developers to build and maintain browser automations efficiently. This AI-powered tool simplifies the creation of complex browser interactions, streamlining the automation process for web applications. With Libretto, developers can leverage AI-driven capabilities to automate browser tasks at scale.
+Libretto is an open-source AI toolkit for building and maintaining browser automations. It enables developers to create and manage complex browser interactions using machine learning algorithms, streamlining the process of automation and test creation. By leveraging AI, Libretto simplifies the development of browser automation tasks, making it a valuable resource for frontend developers and automation engineers.
 
 ---
 

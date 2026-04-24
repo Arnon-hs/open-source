@@ -25,7 +25,7 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-The open-source project, openclaw-autotrader, is a 30-day stock trading challenge where participants follow a simulated investment of 5000 HKD through live market days in the US. This project combines trading with AI/ML concepts, providing a unique learning experience for those interested in the field. By participating in this challenge, users can gain hands-on experience in trading and machine learning.
+The open-source project "openclaw-autotrader" is a 30-day public U.S. stock challenge where participants follow a virtual portfolio of 5,000 HKD (approximately 630 USD) through live market days. This project combines trading and AI/ML expertise to simulate a real-world trading experience. By participating, users can gain insights into stock market volatility and develop their trading strategies.
 
 ---
 

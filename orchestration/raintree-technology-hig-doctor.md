@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The hig-doctor project is an open-source tool that offers a comprehensive Apple Human Interface Guidelines (HIG) audit CLI. It combines the audit functionality with 14 pre-defined skills for AI coding assistants, enabling the evaluation of any project for HIG compliance across 12 frameworks. This tool facilitates the integration of HIG guidelines into the development process, promoting consistency and adherence to Apple's design standards.
+The hig-doctor project is an open-source command-line tool that audits Apple's Human Interface Guidelines (HIG) compliance for projects across 12 different frameworks. It provides a comprehensive scoring system to assess the HIG adherence of any project, making it easier for developers to create user-friendly and compliant applications. With this tool, developers can leverage 14 agent skills for AI coding assistants to streamline their workflow and improve the overall user experience.
 
 ---
 

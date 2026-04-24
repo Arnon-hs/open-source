@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-This is an open-source implementation of the leaked Anthropic reasoning protocol, allowing for local execution on devices. The project utilizes a zero-drift coding approach combined with Strict Write Discipline and adaptive Claude Opus 4.7 thinking to ensure efficient and reliable operation. It includes a CA (certification authority) certificate from the Mythos CA, providing verification and trust in the protocol's integrity.
+Mythos Router is an open-source project that brings the Anthropic reasoning protocol to a local environment. It utilizes zero-drift coding with Strict Write Discipline and adaptive Claude Opus 4.7 thinking to ensure efficient and reliable operation. This project is particularly useful for developers and researchers in AI/ML, providing a powerful tool for exploration and experimentation.
 
 ---
 

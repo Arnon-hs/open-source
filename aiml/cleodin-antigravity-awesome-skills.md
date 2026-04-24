@@ -25,9 +25,9 @@ AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the open-source project:
 
-The "anti-gravity-awesome-skills" project provides a comprehensive list of over 255 essential skills for AI coding assistants, empowering developers to optimize their workflow. This resource is tailored for AI-powered tools like Claude Code and GitHub Copilot, helping users unlock their full potential. By leveraging this collection, developers can streamline their development process and stay ahead in the AI-driven coding landscape.
+This project, "antigravity-awesome-skills," provides a comprehensive list of over 255 essential skills to enhance the development workflow for AI coding assistants like Claude Code and GitHub Copilot. It encompasses diverse categories such as AI/ML, Frontend, and Security, aiming to provide developers with a valuable resource for leveraging the full potential of these tools. This project is a great starting point for those looking to optimize their coding experience with the help of AI-powered assistants.
 
 ---
 

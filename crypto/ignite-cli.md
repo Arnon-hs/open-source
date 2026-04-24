@@ -25,7 +25,9 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-Ignite is an open-source command-line interface (CLI) tool that streamlines the development of Proof of Stake blockchains built on the Cosmos-SDK. It serves as a hub for constructing and managing blockchain projects, providing a foundation for efficient and scalable blockchain development. With Ignite, developers can focus on building custom blockchain applications without worrying about underlying infrastructure.
+Here's a brief summary for the ignite/cli project:
+
+Ignite is an open-source CLI tool and hub for building Proof of Stake Blockchains, leveraging the Cosmos-SDK technology stack. This project provides a foundation for developers to construct and manage their own Cosmos-based blockchain networks. With Ignite, users can streamline the process of building and launching their own Proof of Stake blockchain projects.
 
 ---
 

@@ -25,9 +25,7 @@ Trading · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here is a brief summary of the open-source project:
-
-Graqle is an open-source platform that enables AI tools to reason about software architecture, providing a knowledge graph generated from any codebase. With support for 14 Large Language Model (LLM) backends, it offers impact analysis and confidence scores to inform development decisions. Graqle integrates seamlessly with popular AI tools like Claude Code, Cursor, and VS Code Copilot.
+The graqle project enables AI tools to reason about software architecture by analyzing knowledge graphs generated from any codebase, providing insights across 14 Large Language Model (LLM) backends. It offers impact analysis and confidence scores to support informed decision-making, and is compatible with popular AI development platforms such as Claude Code, Cursor, and VS Code Copilot. This open-source tool facilitates architecture-aware reasoning in AI-powered software development and trading applications.
 
 ---
 

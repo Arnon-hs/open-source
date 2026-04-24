@@ -1,6 +1,6 @@
 # msys2/MSYS2-packages
 
-[![Stars](https://img.shields.io/github/stars/msys2/MSYS2-packages?style=flat-square&color=yellow)](https://github.com/msys2/MSYS2-packages/stargazers) [![Forks](https://img.shields.io/github/forks/msys2/MSYS2-packages?style=flat-square&color=blue)](https://github.com/msys2/MSYS2-packages/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/msys2/MSYS2-packages?style=flat-square&color=yellow)](https://github.com/msys2/MSYS2-packages/stargazers) [![Forks](https://img.shields.io/github/forks/msys2/MSYS2-packages?style=flat-square&color=blue)](https://github.com/msys2/MSYS2-packages/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Package scripts for Cygwin targets to build under MSYS2.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 526 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

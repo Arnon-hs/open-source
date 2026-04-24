@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/777genius/claude_agent_teams_ui?style=flat-square&color=yellow)](https://github.com/777genius/claude_agent_teams_ui/stargazers) [![Forks](https://img.shields.io/github/forks/777genius/claude_agent_teams_ui?style=flat-square&color=blue)](https://github.com/777genius/claude_agent_teams_ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
-> You're the CTO, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude. Build your AI company.
+> You're the CTO, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode. Build your AI company.
 
 ## 📊 Stats
 

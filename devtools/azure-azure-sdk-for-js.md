@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The Azure SDK for JavaScript is an open-source project that provides a set of libraries and tools for building applications that interact with Azure services. This repository supports both NodeJS and browser environments, offering a flexible and powerful way to develop cloud-based solutions. Developers can access comprehensive documentation at https://docs.microsoft.com/javascript/azure/ or https://azure.github.io/azure-sdk-for-js.
+The Azure SDK for JavaScript is an open-source project that provides a comprehensive set of libraries and tools for building scalable, secure, and reliable cloud applications using Azure services. This project supports both Node.js and browser environments, offering a unified development experience across multiple platforms. With the Azure SDK, developers can take advantage of a wide range of Azure services, from storage and databases to AI and analytics.
 
 ---
 

@@ -25,7 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The brainlid/langchain project is an open-source framework that enables Elixir applications to seamlessly integrate with and utilize Large Language Models (LLMs). Built on the principles of LangChain, this Elixir implementation provides a robust and flexible way to leverage LLMs in various projects. By using brainlid/langchain, developers can unlock the full potential of LLMs in their Elixir applications.
+Here's a brief summary for the brainlid/langchain project:
+
+The brainlid/langchain project provides an Elixir implementation of a LangChain-style framework, enabling Elixir projects to seamlessly integrate and leverage Large Language Models (LLMs) for AI-driven applications. This open-source framework facilitates the orchestration and utilization of LLMs within Elixir-based systems, unlocking a range of possibilities for developers. By bridging the gap between Elixir and LLMs, brainlid/langchain empowers developers to build more sophisticated and AI-powered applications.
 
 ---
 

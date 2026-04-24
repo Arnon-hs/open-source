@@ -25,7 +25,7 @@ AI/ML · DevTools · Mobile
 
 ## 📝 Summary
 
-The agent-device project is an open-source CLI tool designed to provide seamless control over iOS and Android devices for AI agents. It enables developers to manage and interact with mobile devices from the command line, streamlining the development and testing of AI-powered mobile applications. This tool is ideal for AI/ML engineers and mobile developers looking to simplify the integration of AI agents with mobile devices.
+The callstackincubator/agent-device project is an open-source Command-Line Interface (CLI) designed to manage and control iOS and Android devices for Artificial Intelligence (AI) agents. This project enables developers to seamlessly interact with mobile devices from their command line, streamlining the development and testing process for AI-powered applications. By utilizing this CLI, developers can automate device interactions and accelerate the deployment of AI-driven mobile solutions.
 
 ---
 

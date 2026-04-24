@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-Gittuf is an open-source security layer designed to enhance the protection of Git repositories. It provides advanced security features to help prevent unauthorized access, data breaches, and other security threats. By integrating into existing Git workflows, Gittuf aims to safeguard sensitive data and maintain the integrity of version control systems.
+Gittuf is an open-source security layer designed to protect Git repositories from unauthorized access and malicious activities. It adds an additional layer of security to prevent data breaches and ensure the integrity of your Git repository. By implementing Gittuf, users can safeguard their sensitive data and maintain a secure development environment.
 
 ---
 

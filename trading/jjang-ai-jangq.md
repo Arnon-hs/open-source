@@ -27,7 +27,7 @@ Trading · AI/ML · Design
 
 Here's a brief summary of the jjang-ai/jangq project:
 
-JANG is an open-source project that enables Adaptive Mixed-Precision Quantization for Apple Silicon devices, specifically designed for Machine Learning (ML) applications. The project, built on top of GGUF, offers a runtime environment that's crucial for utilizing JANG's full potential. It appears to be a cutting-edge tool for traders and AI/ML enthusiasts to optimize their Apple Silicon-based models.
+JANG is an open-source project that offers adaptive mixed-precision quantization and runtime for Apple Silicon devices. This technology is specifically designed for machine learning (ML) applications, aiming to improve performance and efficiency. It is built on top of the GGUF framework and requires the use of the JANG_Q runtime for optimal functionality.
 
 ---
 

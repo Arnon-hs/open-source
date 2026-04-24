@@ -1,0 +1,32 @@
+# alexandremendoncaalvaro/CorridorKey-Runtime
+
+[![Stars](https://img.shields.io/github/stars/alexandremendoncaalvaro/CorridorKey-Runtime?style=flat-square&color=yellow)](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime/stargazers) [![Forks](https://img.shields.io/github/forks/alexandremendoncaalvaro/CorridorKey-Runtime?style=flat-square&color=blue)](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+
+> Native AI keying runtime and OFX plugin for DaVinci Resolve, built in collaboration with Corridor Digital.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 522 |
+| 🍴 **Forks** | 11 |
+| 💻 **Language** | C++ |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI/ML · Frontend · DevTools
+
+## 📝 Summary
+
+The CorridorKey-Runtime is an open-source AI keying runtime designed for native integration within DaVinci Resolve. Developed in collaboration with Corridor Digital, this project enables seamless and efficient green screen keying capabilities within the popular video editing software. By utilizing AI-driven technology, it provides a powerful tool for content creators to streamline their post-production workflows.
+
+---
+
+<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) · [← Back to AI/ML](./README.md)</sub>

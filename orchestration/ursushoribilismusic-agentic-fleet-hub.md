@@ -25,9 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Agentic Fleet Hub is an open-source, self-hosted orchestration layer for autonomous AI agent teams. This tool enables seamless collaboration among agents through shared memory, heartbeat scheduling, and secure secret management, all accessible via a single command for easy deployment. By streamlining the process of orchestrating AI agent teams, Agentic Fleet Hub accelerates the development and deployment of complex AI applications.
+This open-source project, agentic-fleet-hub, provides a self-hosted orchestration layer for teams of autonomous AI agents. It offers a comprehensive set of features, including shared memory, heartbeat scheduling, and secure vault-first secrets management, to facilitate efficient collaboration and deployment among AI models. With a single command, users can easily deploy and manage their AI agent teams.
 
 ---
 

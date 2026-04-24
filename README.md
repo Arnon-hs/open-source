@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3985** |
+| 🗂️ **Total projects** | **4077** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1529 | [Browse →](./aiml/) |
-| 📦 **Misc** | 625 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 413 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 373 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 239 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 224 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 159 | [Browse →](./crypto/) |
-| 📊 **Data** | 103 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 90 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 55 | [Browse →](./mobile/) |
-| 💳 **Payments** | 54 | [Browse →](./payments/) |
+| 🤖 **AI/ML** | 1564 | [Browse →](./aiml/) |
+| 📦 **Misc** | 643 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 419 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 382 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 246 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 229 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 161 | [Browse →](./crypto/) |
+| 📊 **Data** | 105 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 94 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 57 | [Browse →](./payments/) |
+| 📱 **Mobile** | 56 | [Browse →](./mobile/) |
 | 📈 **Trading** | 45 | [Browse →](./trading/) |
 | 🔐 **Security** | 43 | [Browse →](./security/) |
 | ✨ **Design** | 15 | [Browse →](./design/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 14.8k | AI/ML |
-| 2 | [microsoft/terminal](./misc/microsoft-terminal.md) | ⭐ 102.9k | Misc |
-| 3 | [OpenBB-finance/OpenBB](./crypto/openbb-finance-openbb.md) | ⭐ 66.5k | Crypto |
-| 4 | [saleor/saleor](./payments/saleor-saleor.md) | ⭐ 22.8k | Payments |
-| 5 | [rustfs/rustfs](./aiml/rustfs-rustfs.md) | ⭐ 26.4k | AI/ML |
-| 6 | [prometheus/alertmanager](./aiml/prometheus-alertmanager.md) | ⭐ 8.4k | AI/ML |
-| 7 | [volcengine/OpenViking](./aiml/volcengine-openviking.md) | ⭐ 23k | AI/ML |
-| 8 | [f/prompts.chat](./aiml/f-prompts.chat.md) | ⭐ 160.6k | AI/ML |
-| 9 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
-| 10 | [x-extends/vxe-table](./frontend/x-extends-vxe-table.md) | ⭐ 8.6k | Frontend |
+| 1 | [lutzroeder/netron](./aiml/lutzroeder-netron.md) | ⭐ 32.8k | AI/ML |
+| 2 | [XIU2/TrackersListCollection](./aiml/xiu2-trackerslistcollection.md) | ⭐ 31.1k | AI/ML |
+| 3 | [TanStack/query](./frontend/tanstack-query.md) | ⭐ 49.2k | Frontend |
+| 4 | [ansible/awx](./frontend/ansible-awx.md) | ⭐ 15.4k | Frontend |
+| 5 | [vxcontrol/pentagi](./orchestration/vxcontrol-pentagi.md) | ⭐ 15.6k | Orchestration |
+| 6 | [quic-go/quic-go](./frontend/quic-go-quic-go.md) | ⭐ 11.6k | Frontend |
+| 7 | [caddyserver/caddy](./backend/caddyserver-caddy.md) | ⭐ 71.8k | Backend |
+| 8 | [expo/expo](./frontend/expo-expo.md) | ⭐ 49k | Frontend |
+| 9 | [nestjs/nest](./frontend/nestjs-nest.md) | ⭐ 75.3k | Frontend |
+| 10 | [Aider-AI/aider](./aiml/aider-ai-aider.md) | ⭐ 43.9k | AI/ML |
 
 ## 🚀 How it works
 

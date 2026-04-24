@@ -25,9 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the ASCIT31/Dark-Moon project:
-
-ASCIT31/Dark-Moon is an open-source, autonomous AI pentesting engine that conducts continuous, comprehensive security assessments across web, cloud, Active Directory, and Kubernetes environments. Leveraging agentic reasoning and real exploit execution, it identifies and analyzes attack paths to deliver concrete, proof-based vulnerability findings. This cutting-edge tool empowers security teams with actionable insights to strengthen their defenses.
+ASCIT31/Dark-Moon is an open-source, autonomous AI-powered pentesting engine that continuously conducts comprehensive security assessments across various environments, including web, cloud, Active Directory, and Kubernetes. Leveraging advanced AI reasoning, real exploit execution, and attack path analysis, it identifies and delivers proof-based vulnerabilities. This tool empowers organizations to proactively strengthen their defenses and improve overall security posture.
 
 ---
 

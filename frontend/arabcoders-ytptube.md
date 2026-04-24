@@ -25,9 +25,9 @@ Frontend · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary for the ytptube project:
+Here's a brief summary for the arabcoders/ytptube project:
 
-ytptube is an open-source, user-friendly WebUI for yt-dlp that enables concurrent downloads, customizable presets, and scheduled tasks, making it easy to manage YouTube video downloads. This intuitive interface streamlines the process of downloading videos, allowing users to focus on their content without worrying about technical details. With ytptube, users can efficiently download and organize their favorite YouTube videos.
+ytptube is an open-source web-based user interface for yt-dlp, providing users with a convenient and feature-rich experience for downloading YouTube videos. With support for concurrent downloads, presets, and scheduled tasks, users can efficiently manage their downloads and automate repetitive tasks. This project is ideal for those seeking a user-friendly interface to extract YouTube content with yt-dlp.
 
 ---
 

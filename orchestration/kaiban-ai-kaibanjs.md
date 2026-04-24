@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-KaibanJS is an open-source JavaScript framework that enables the creation and management of complex multi-agent systems using a Kanban-inspired approach. This framework provides a unique orchestration toolset for AI/ML applications, making it suitable for frontend development. By utilizing KaibanJS, developers can design and deploy scalable, data-driven systems that excel in dynamic environments.
+KaibanJS is an open-source JavaScript framework that enables the creation and management of complex multi-agent systems using a Kanban-inspired approach. This approach allows for efficient and flexible organization of agents, facilitating seamless collaboration and dynamic adaptation. With KaibanJS, developers can build robust and scalable systems for a wide range of applications, including AI/ML and frontend projects.
 
 ---
 

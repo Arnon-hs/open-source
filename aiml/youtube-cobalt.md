@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Cobalt is an open-source, lightweight HTML5 application container that enables flexible and efficient execution of web-based applications. This project utilizes AI/ML capabilities to provide a robust and adaptable framework for developing and deploying web applications. By leveraging HTML5, Cobalt offers a cross-platform solution for running web apps seamlessly across various devices and systems.
+Cobalt is an open-source, lightweight HTML5 application container designed to simplify the development and deployment of web-based applications. This project enables the creation of self-contained, portable, and efficient applications that can run on various platforms. By leveraging HTML5 technologies, Cobalt aims to provide a flexible and scalable solution for AI/ML applications.
 
 ---
 

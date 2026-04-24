@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-Optave's OPS Codegraph Tool is an open-source, command-line interface (CLI) for code intelligence that provides a function-level dependency graph across 11 programming languages. This versatile tool also offers features such as complexity metrics, architecture boundary enforcement, and hybrid semantic search, making it an essential resource for developers and AI agents alike. With no API keys required, it ensures a fully local and secure experience for users.
+optave/ops-codegraph-tool is an open-source, fully local code intelligence CLI that provides a function-level dependency graph across 11 languages. This tool integrates with a 30-tool MCP server for AI agents, offering complexity metrics, architecture boundary enforcement, and CI quality gates, ensuring seamless collaboration between developers and AI systems. With features like git diff impact analysis and hybrid semantic search, it enhances code quality and maintainability.
 
 ---
 

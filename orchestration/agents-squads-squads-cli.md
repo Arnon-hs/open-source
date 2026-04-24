@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The squads-cli is an open-source command-line interface for managing autonomous AI agent squads. It provides real-time status, memory, and goal monitoring, allowing for efficient management and optimization of AI workflows. Additionally, it offers a feedback mechanism and a customizable dashboard for enhanced visibility and control over agent performance.
+The squads-cli is an open-source command-line interface for managing autonomous AI agent squads. It provides a centralized platform for monitoring and controlling the status, memory, goals, and feedback of AI agents, allowing for efficient management and optimization of their performance. With squads-cli, users can access a comprehensive dashboard to visualize and analyze their AI agent squads.
 
 ---
 

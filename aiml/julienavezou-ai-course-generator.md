@@ -1,17 +1,17 @@
 # JulienAvezou/ai-course-generator
 
-[![Stars](https://img.shields.io/github/stars/JulienAvezou/ai-course-generator?style=flat-square&color=yellow)](https://github.com/JulienAvezou/ai-course-generator/stargazers) [![Forks](https://img.shields.io/github/forks/JulienAvezou/ai-course-generator?style=flat-square&color=blue)](https://github.com/JulienAvezou/ai-course-generator/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JulienAvezou/ai-course-generator?style=flat-square&color=yellow)](https://github.com/JulienAvezou/ai-course-generator/stargazers) [![Forks](https://img.shields.io/github/forks/JulienAvezou/ai-course-generator?style=flat-square&color=blue)](https://github.com/JulienAvezou/ai-course-generator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag opensource): Building a coding course generator in public #2: what I learned
+> Build custom code fundamentals courses with github and AI integrated workflows
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

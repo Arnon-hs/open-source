@@ -25,9 +25,9 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the open-source project 'vladkesler/initrunner':
 
-"initrunner is an open-source framework that enables the definition and execution of AI agent roles in YAML files, allowing for seamless deployment across various environments, including command-line interfaces, API servers, and autonomous daemons. This project simplifies the orchestration of AI/ML workflows, making it an ideal tool for developers working with crypto-related applications. By providing a flexible and scalable solution, initrunner streamlines the process of defining and running AI agent roles."
+Initrunner is an open-source framework that enables the definition and execution of AI agent roles in YAML files. It allows these roles to be deployed across various environments, including command-line interfaces (CLI), API servers, and autonomous daemons. This versatility makes initrunner a valuable tool for developers working with AI and machine learning (ML) in various contexts, including the crypto space.
 
 ---
 

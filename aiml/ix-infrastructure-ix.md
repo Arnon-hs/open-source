@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Ix is an open-source project that aims to provide system intelligence for codebases, making it easier for both humans and AI to understand any codebase instantly. This project uses advancements in AI and machine learning to offer a comprehensive platform that can analyze and provide insights into codebases, enhancing development and maintenance processes. By leveraging Ix, developers can gain a deeper understanding of their codebase, leading to improved collaboration and more efficient coding practices.
+The Ix project is an open-source system designed to provide instant understanding of any codebase. Built to bridge the gap between human and artificial intelligence, Ix offers system intelligence for codebases, making it easier for developers to navigate and comprehend complex code. This innovative project aims to revolutionize the way developers interact with codebases, enhancing productivity and collaboration.
 
 ---
 

@@ -1,17 +1,17 @@
 # meriyah/meriyah
 
-[![Stars](https://img.shields.io/github/stars/meriyah/meriyah?style=flat-square&color=yellow)](https://github.com/meriyah/meriyah/stargazers) [![Forks](https://img.shields.io/github/forks/meriyah/meriyah?style=flat-square&color=blue)](https://github.com/meriyah/meriyah/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meriyah/meriyah?style=flat-square&color=yellow)](https://github.com/meriyah/meriyah/stargazers) [![Forks](https://img.shields.io/github/forks/meriyah/meriyah?style=flat-square&color=blue)](https://github.com/meriyah/meriyah/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag opensource): One PR to a parser unlocked prerendering in Brisa
+> A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| ⭐ **Stars** | 1.2k |
+| 🍴 **Forks** | 52 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 
