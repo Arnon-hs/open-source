@@ -25,7 +25,9 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Skyzh's tiny-llm is an open-source project aimed at teaching systems engineers how to deploy efficient Large Language Model (LLM) inference on Apple Silicon devices. This project guides users through building a compact vLLM (vector LLM) and integrating it with Qwen, a lightweight inference engine. By following this course, developers can leverage their knowledge of systems engineering to optimize LLM performance on Apple Silicon systems.
+Here's a brief summary of the open-source project:
+
+This project, skyzh/tiny-llm, provides a comprehensive guide for systems engineers to build and deploy lightweight Large Language Model (LLM) inference on Apple Silicon devices. Through a combination of tiny vLLM and Qwen, the project aims to deliver efficient and scalable LLM serving solutions. By following this course, engineers can unlock the potential of LLM inference on Apple Silicon hardware.
 
 ---
 

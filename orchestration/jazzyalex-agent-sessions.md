@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 3-sentence summary for the jazzyalex/agent-sessions project:
+Here's a brief summary of the agent-sessions open-source project:
 
-Agent-Sessions is an open-source project that provides a comprehensive dashboard for managing sessions across various AI and ML tools. The platform offers a session browser, analytics, and limits tracking for Codex CLI, Claude Code, OpenCode, Gemini CLI, Factory Droid, GitHub Copilot CLI, and OpenClaw, allowing users to search, filter, and archive sessions as needed. This native macOS app provides real-time rate limits and instant session resume capabilities, making it an indispensable tool for developers and data scientists.
+Agent-sessions is an open-source project that provides a comprehensive session management system for various AI and ML tools, including Codex CLI, Claude Code, and more. This project offers a native macOS app that allows users to browse, filter, archive, and resume past sessions, as well as track real-time rate limits and analytics. By streamlining session management, Agent-sessions enhances productivity and efficiency for developers and users of these AI-powered tools.
 
 ---
 

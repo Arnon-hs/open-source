@@ -25,9 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the "awesome-fetch" project:
+Here's a brief summary for the "awesome-fetch" open-source project:
 
-The "awesome-fetch" project is an open-source collection of command-line tools for fetching system and other information, making it easier to retrieve essential data from your system. This set of tools is designed to be user-friendly and efficient, providing a convenient way to access various system details. With "awesome-fetch", developers and system administrators can quickly gather the information they need to troubleshoot or optimize their systems.
+awesome-fetch is an open-source command-line tool that provides a suite of fetch utilities for system and other information. It offers a convenient way to retrieve various system and data-related information from the command line. With a simple and intuitive interface, users can easily access system details and other data without needing to navigate complex interfaces.
 
 ---
 

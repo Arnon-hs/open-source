@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the ai-setup project:
 
-The ai-setup project is an open-source tool that allows users to continuously synchronize their AI setups with a single command. It is specifically designed to support popular AI agents such as Claude Code, Cursor, and Codex, enabling users to manage and tailor their agent skills, MCPs, and configuration files with ease. This project is categorized under Orchestration, AI/ML, and Frontend, making it a valuable resource for AI and ML professionals.
+Introducing ai-setup, an open-source project that streamlines AI setup management by enabling continuous synchronization with a single command. Tailored for popular AI tools like Claude Code, Cursor, and Codex, this tool helps manage agent skills, MCPs, and configuration files with ease. With ai-setup, users can simplify AI setup orchestration and save time on maintenance tasks.
 
 ---
 

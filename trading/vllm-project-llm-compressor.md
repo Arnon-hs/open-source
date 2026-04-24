@@ -25,9 +25,7 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The LLM Compressor is an open-source library that enables optimized deployment of Large Language Models (LLMs) by applying various compression algorithms, making it compatible with Transformers. This library is designed for use with vLLM, a trading-focused LLM platform, to improve model efficiency and reduce storage requirements. By leveraging compression techniques, developers can streamline LLM deployment and enhance overall system performance.
+The LLM Compressor is an open-source library that optimizes the deployment of Large Language Models (LLMs) by applying various compression algorithms, making them compatible with Transformers. This library aims to reduce the computational and storage requirements of LLMs, enabling their efficient use in applications such as trading and AI/ML. By compressing LLMs, the project promotes optimized deployment with vLLM.
 
 ---
 

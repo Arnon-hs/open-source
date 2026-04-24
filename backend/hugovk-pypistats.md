@@ -25,7 +25,9 @@ Backend · DevTools · Marketing
 
 ## 📝 Summary
 
-Pypistats is an open-source command-line interface that provides access to download statistics for Python packages from the PyPI (Python Package Index) through its Stats API. This tool allows developers to retrieve and analyze data on package downloads, offering valuable insights into a package's popularity and usage. By leveraging Pypistats, developers can gain a better understanding of their package's performance and make informed decisions about its maintenance and development.
+Here's a brief summary for the hugovk/pypistats project:
+
+pypistats is an open-source command-line interface that provides access to download statistics for Python packages from the PyPI Stats API. This tool allows users to retrieve insights into the popularity and download trends of various packages, making it a valuable resource for Python developers, package maintainers, and marketers. By leveraging pypistats, users can gain a deeper understanding of their package's adoption and usage patterns.
 
 ---
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3879** |
+| 🗂️ **Total projects** | **3985** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1484 | [Browse →](./aiml/) |
-| 📦 **Misc** | 612 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 408 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 359 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 235 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 217 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 156 | [Browse →](./crypto/) |
-| 📊 **Data** | 100 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 87 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 1529 | [Browse →](./aiml/) |
+| 📦 **Misc** | 625 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 413 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 373 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 239 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 224 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 159 | [Browse →](./crypto/) |
+| 📊 **Data** | 103 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 90 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 55 | [Browse →](./mobile/) |
 | 💳 **Payments** | 54 | [Browse →](./payments/) |
-| 📈 **Trading** | 41 | [Browse →](./trading/) |
-| 🔐 **Security** | 39 | [Browse →](./security/) |
+| 📈 **Trading** | 45 | [Browse →](./trading/) |
+| 🔐 **Security** | 43 | [Browse →](./security/) |
 | ✨ **Design** | 15 | [Browse →](./design/) |
-| 🎯 **Product** | 12 | [Browse →](./product/) |
+| 🎯 **Product** | 13 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [shadps4-emu/shadPS4](./frontend/shadps4-emu-shadps4.md) | ⭐ 30.9k | Frontend |
-| 2 | [DioxusLabs/dioxus](./aiml/dioxuslabs-dioxus.md) | ⭐ 35.8k | AI/ML |
-| 3 | [influxdata/telegraf](./aiml/influxdata-telegraf.md) | ⭐ 16.8k | AI/ML |
-| 4 | [rundeck/rundeck](./orchestration/rundeck-rundeck.md) | ⭐ 6.1k | Orchestration |
-| 5 | [birobirobiro/awesome-shadcn-ui](./frontend/birobirobiro-awesome-shadcn-ui.md) | ⭐ 19.4k | Frontend |
-| 6 | [GoogleChrome/lighthouse](./devtools/googlechrome-lighthouse.md) | ⭐ 30.1k | DevTools |
-| 7 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
-| 8 | [dapr/dapr](./orchestration/dapr-dapr.md) | ⭐ 25.7k | Orchestration |
-| 9 | [lutzroeder/netron](./aiml/lutzroeder-netron.md) | ⭐ 32.8k | AI/ML |
-| 10 | [haifengl/smile](./aiml/haifengl-smile.md) | ⭐ 6.4k | AI/ML |
+| 1 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 14.8k | AI/ML |
+| 2 | [microsoft/terminal](./misc/microsoft-terminal.md) | ⭐ 102.9k | Misc |
+| 3 | [OpenBB-finance/OpenBB](./crypto/openbb-finance-openbb.md) | ⭐ 66.5k | Crypto |
+| 4 | [saleor/saleor](./payments/saleor-saleor.md) | ⭐ 22.8k | Payments |
+| 5 | [rustfs/rustfs](./aiml/rustfs-rustfs.md) | ⭐ 26.4k | AI/ML |
+| 6 | [prometheus/alertmanager](./aiml/prometheus-alertmanager.md) | ⭐ 8.4k | AI/ML |
+| 7 | [volcengine/OpenViking](./aiml/volcengine-openviking.md) | ⭐ 23k | AI/ML |
+| 8 | [f/prompts.chat](./aiml/f-prompts.chat.md) | ⭐ 160.6k | AI/ML |
+| 9 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
+| 10 | [x-extends/vxe-table](./frontend/x-extends-vxe-table.md) | ⭐ 8.6k | Frontend |
 
 ## 🚀 How it works
 

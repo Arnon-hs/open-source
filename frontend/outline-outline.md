@@ -1,6 +1,6 @@
 # outline/outline
 
-[![Stars](https://img.shields.io/github/stars/outline/outline?style=flat-square&color=yellow)](https://github.com/outline/outline/stargazers) [![Forks](https://img.shields.io/github/forks/outline/outline?style=flat-square&color=blue)](https://github.com/outline/outline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/outline/outline?style=flat-square&color=yellow)](https://github.com/outline/outline/stargazers) [![Forks](https://img.shields.io/github/forks/outline/outline?style=flat-square&color=blue)](https://github.com/outline/outline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38.3k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 100/100 |
+| 📈 **Score** | 99/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

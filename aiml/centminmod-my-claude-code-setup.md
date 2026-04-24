@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This project provides a shared starter template configuration and CLAUDE.md memory bank system for Claude Code, enabling users to easily get started with AI/ML development. The CLAUDE.md memory bank system facilitates the storage and recall of knowledge and code snippets, streamlining the development process. By utilizing this project, developers can focus on building and refining their AI/ML applications with increased efficiency.
+The centminmod/my-claude-code-setup repository offers a shared starter template configuration for Claude Code, a powerful coding tool. It also includes the CLAUDE.md memory bank system, which enables users to store and manage their Claude Code projects efficiently. This project is designed to simplify the development process and boost productivity for AI/ML developers using Claude Code.
 
 ---
 

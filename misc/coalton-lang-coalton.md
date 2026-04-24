@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Coalton is a statically typed, functional programming language built on top of Common Lisp, aiming to provide efficient execution and robustness. By leveraging the strengths of both languages, Coalton enables developers to create high-performance, type-safe code with a familiar Lisp syntax. This open-source project allows users to tap into the benefits of functional programming while working within the Common Lisp ecosystem.
+Coalton is a high-performance, statically typed language that builds upon the foundations of Common Lisp, offering a functional programming paradigm. This open-source project aims to enhance the efficiency and reliability of Lisp-based development by providing a modern, typed alternative. By leveraging static typing, Coalton enables developers to write more robust and maintainable code while still enjoying the flexibility of a Lisp-based ecosystem.
 
 ---
 

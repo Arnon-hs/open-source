@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Rustledger is an open-source, modern plain text accounting system with Beancount compatibility. It aims to simplify financial management by providing a user-friendly, Beancount-compliant interface for tracking expenses and income. This project utilizes Rust for efficient and reliable data processing.
+Rustledger is an open-source, modern plain text accounting system that offers a Beancount-compatible alternative for financial record-keeping. This project aims to provide a user-friendly and efficient solution for managing personal and business finances in a format that is easy to read and understand. By leveraging Rust, Rustledger strives to provide a robust and reliable platform for accounting needs.
 
 ---
 

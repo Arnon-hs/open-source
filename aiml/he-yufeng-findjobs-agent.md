@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The FindJobs-Agent project is an open-source, LLM-powered toolkit designed to streamline professional skill analysis, AI interviews, and job structuring. It utilizes adaptive difficulty to automate the interview process, providing a more efficient and effective way to assess skills. This AI-driven tool can also score resumes and establish a standardized taxonomy for professional skills.
+The FindJobs-Agent is an open-source, AI-powered toolkit that streamlines professional skill analysis, AI interviews, and job structuring. Leveraging large language models (LLM), this tool automates the process of taxonomizing skills and conducting adaptive AI interviews with adjustable difficulty levels. By utilizing FindJobs-Agent, users can optimize their resume scoring and enhance their job search experience.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-py-spy is an open-source, sampling-based profiler for Python programs that provides insights into CPU usage and memory allocation without introducing significant overhead. This tool offers a detailed view of how Python applications execute and allocate resources, making it an invaluable resource for developers seeking to optimize their code. By providing a clear picture of performance bottlenecks, py-spy enables developers to streamline their applications and improve overall efficiency.
+Py-spy is an open-source sampling profiler for Python programs, designed to provide detailed performance insights into application behavior. This tool can help users identify performance bottlenecks and optimize their code for improved efficiency and speed. By collecting and analyzing data on function calls and other key metrics, py-spy enables developers to make data-driven decisions and refine their Python applications.
 
 ---
 

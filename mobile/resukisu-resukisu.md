@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/ReSukiSU/ReSukiSU?style=flat-square&color=yellow)](https://github.com/ReSukiSU/ReSukiSU/stargazers) [![Forks](https://img.shields.io/github/forks/ReSukiSU/ReSukiSU?style=flat-square&color=blue)](https://github.com/ReSukiSU/ReSukiSU/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> Kernel-based Android Root Solution,Forked from SukiSU(Currently support 3.4~6.12)
+> A KernelSU based root solution for Android (Currently support Linux 3.4~6.12)
 
 ## 📊 Stats
 

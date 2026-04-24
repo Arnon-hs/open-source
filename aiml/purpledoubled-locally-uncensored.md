@@ -25,7 +25,7 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The locally-uncensored project is an open-source, locally-hosted AI desktop application that allows users to interact with various AI models, including Ollama, Gemma 4, Llama, Qwen, OpenAI, and Anthropic. It offers a range of features, including chat, agent mode, image generation, and video generation, all within a single executable file without the need for Docker. This user-friendly application enables users to leverage AI capabilities without relying on online servers or cloud infrastructure.
+Locally-uncensored is an open-source, desktop AI application that offers a range of features, including chat mode, agent mode, image generation, and video generation. It supports integration with various AI models such as Ollama, Gemma 4, Llama, Qwen, OpenAI, and Anthropic, providing users with a versatile and local AI experience. The application is available as a single executable file, eliminating the need for Docker.
 
 ---
 

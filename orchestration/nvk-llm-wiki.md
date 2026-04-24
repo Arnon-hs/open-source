@@ -1,6 +1,6 @@
 # nvk/llm-wiki
 
-[![Stars](https://img.shields.io/github/stars/nvk/llm-wiki?style=flat-square&color=yellow)](https://github.com/nvk/llm-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/nvk/llm-wiki?style=flat-square&color=blue)](https://github.com/nvk/llm-wiki/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nvk/llm-wiki?style=flat-square&color=yellow)](https://github.com/nvk/llm-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/nvk/llm-wiki?style=flat-square&color=blue)](https://github.com/nvk/llm-wiki/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compilation, querying, and artifact generation.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 273 |
+| ⭐ **Stars** | 274 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

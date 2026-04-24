@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The chatmail/relay project is an open-source initiative that provides deployment scripts and documentation for managing a chatmail service. This project combines expertise in AI/ML and DevOps/Infra to streamline the setup and maintenance of chatmail services, making it a valuable resource for developers and infrastructure teams. By leveraging this project, users can easily deploy and manage their own chatmail services, reducing the complexity and overhead associated with setting up and maintaining these systems.
+The chatmail/relay open-source project provides deployment scripts and documentation for a chatmail service, facilitating the streamlined setup and management of this AI/ML powered communication platform. This project aims to simplify the infrastructure setup process, making it easier for developers to focus on building and integrating the chatmail service into their applications.
 
 ---
 
