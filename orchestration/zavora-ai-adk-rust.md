@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the ADK-Rust project:
+Here's a brief summary for the zavora-ai/adk-rust project:
 
-The Rust Agent Development Kit (ADK-Rust) is an open-source framework for building AI agents in Rust, offering a modular and flexible architecture with components for models, tools, memory, and real-time voice capabilities. This model-agnostic, deployment-agnostic framework is optimized for developing frontier AI models and supports real-time voice agents, making it an ideal choice for building AI applications with simplicity and power. With ADK-Rust, developers can create AI agents with ease, leveraging its comprehensive set of features and tools.
+The Rust Agent Development Kit (ADK-Rust) is an open-source framework for building AI agents in Rust, featuring modular components for models, tools, memory, and real-time voice capabilities. This flexible framework enables developers to create AI agents with simplicity and power, supporting model-agnostic and deployment-agnostic development. With ADK-Rust, developers can build and deploy cutting-edge AI models, including real-time voice agents.
 
 ---
 

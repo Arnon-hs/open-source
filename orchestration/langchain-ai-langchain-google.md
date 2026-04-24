@@ -25,7 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The langchain-ai/langchain-google project is an open-source interface that enables seamless integration with Google's AI products, specifically Gemini and Vertex AI. This project aims to simplify the process of leveraging Google's AI capabilities through LangChain, a unified framework for building AI applications. By providing a connection to Google's AI suite, developers can access a wide range of AI tools and services.
+Here's a brief summary for the langchain-ai/langchain-google project:
+
+LangChain-ai/langchain-google is an open-source project that provides a seamless interface to Google's AI products, including Gemini and Vertex AI. This project enables developers to easily orchestrate and utilize these powerful tools, streamlining the development of AI-powered applications. By providing a unified interface to Google's AI suite, langchain-ai/langchain-google simplifies the process of building and integrating AI-driven solutions.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Data · Marketing
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
+Here's a brief summary of the project:
 
-The gtm-engineer-skills project is an open-source Claude Code skill designed to enhance website optimization. It offers 16 foundational checks and 6 intelligence dimensions to improve AEO (AI Engine Optimization) and GEO (Generative Engine Optimization) scores. By implementing framework-specific fixes, this skill helps users optimize their websites for better performance and user experience.
+The gtm-engineer-skills project provides an open-source Claude Code skill for optimizing website performance through AI Engine Optimization (AEO) and Generative Engine Optimization (GEO). This skill includes 16 foundational checks across 6 intelligence dimensions, offering framework-specific fixes to improve website functionality. By leveraging this project, developers can enhance their website's AEO and GEO scores, leading to better overall performance and user experience.
 
 ---
 

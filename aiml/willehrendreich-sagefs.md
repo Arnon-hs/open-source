@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-SageFs is an open-source project that brings Sage Mode to F# development, offering a comprehensive REPL environment with features like solution or project loading, live testing, and hot reload. This tool aims to enhance F# development workflows by providing an efficient and interactive coding experience. With SageFs, developers can streamline their coding process and boost productivity.
+The SageFs project is an open-source tool that brings Sage Mode functionality to F# development. It offers a rich REPL (Read-Eval-Print Loop) experience with the ability to load solutions or projects, live testing capabilities, hot reload functionality, and robust session management. This tool aims to streamline F# development workflows, making it easier for developers to work efficiently and effectively.
 
 ---
 

@@ -25,9 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the cooklang/cookcli project:
-
-Cooklang/cookcli is an open-source project that combines a Recipe Management CLI with an embedded web-server, allowing users to manage and share recipes from a single, self-contained binary. This innovative tool enables users to create, edit, and view recipes using a command-line interface, while also providing a web interface for easy sharing and collaboration. By integrating these features into a single binary, cooklang/cookcli streamlines recipe management and sharing.
+The cooklang/cookcli project is an open-source, command-line interface (CLI) tool that seamlessly integrates recipe management and an embedded web server within a single binary. This innovative solution enables users to efficiently organize and share recipes, as well as host them online, making it a valuable resource for home cooks and professional chefs alike. By consolidating these features into a single, self-contained package, cookcli streamlines recipe management and sharing.
 
 ---
 

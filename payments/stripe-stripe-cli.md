@@ -25,7 +25,7 @@ Payments · DevTools
 
 ## 📝 Summary
 
-The Stripe CLI is an open-source command-line tool that provides a simple and efficient way to manage Stripe accounts through the terminal. It enables developers to perform various tasks such as managing subscriptions, creating and retrieving payment methods, and monitoring payment transactions, all from a single interface. This tool streamlines Stripe-related tasks, saving time and effort for developers working with Stripe payments.
+The Stripe CLI is an open-source command-line tool designed to simplify interactions with Stripe, a popular payment platform. This tool allows developers to manage their Stripe accounts, create and manage payment methods, subscriptions, and more from the comfort of their terminal. By streamlining Stripe-related tasks, the Stripe CLI enhances productivity and reduces the complexity of integrating Stripe into applications.
 
 ---
 

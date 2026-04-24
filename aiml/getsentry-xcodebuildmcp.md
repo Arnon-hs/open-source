@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Getsentry's XcodeBuildMCP is an open-source project that offers a Model Context Protocol (MCP) server and CLI, specifically designed to aid agents working on iOS and macOS projects. This toolset provides essential tools for efficient project development by streamlining workflows and improving productivity. By leveraging XcodeBuildMCP, developers can simplify complex tasks and enhance overall development experiences.
+The getsentry/XcodeBuildMCP project is an open-source Model Context Protocol (MCP) server and CLI designed for use with iOS and macOS projects. This tool enables developers to integrate and automate various tasks for their mobile projects, providing a streamlined development experience. By utilizing the MCP server and CLI, developers can enhance their productivity and efficiency when working on Apple ecosystem projects.
 
 ---
 

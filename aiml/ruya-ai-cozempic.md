@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary of the open-source project:
+Here's a brief summary for the Ruya-AI/cozempic project:
 
-Cozempic is an open-source project that provides context cleaning for Claude Code, a tool for automating tasks through AI. It helps to prune bloated sessions, preserves Agent Teams from context loss, and offers tiered pruning for auto-guarding. This project aims to improve the efficiency and reliability of Claude Code by maintaining a well-organized context environment.
+Cozempic is an open-source project that provides context cleaning functionality for Claude Code, a powerful AI tool. It enables users to prune bloated sessions, preventing context loss and protecting Agent Teams from unnecessary data accumulation. This project offers a tiered pruning system for auto-guarding and maintaining efficient AI performance.
 
 ---
 

@@ -25,9 +25,9 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here is a brief summary for the project:
 
-The Kubernetes Cluster API Provider AWS project enables consistent deployment and management of self-managed and Amazon Elastic Kubernetes Service (EKS) clusters on the AWS cloud platform. This open-source solution provides a standardized way to automate the deployment and day-to-day operations of Kubernetes clusters on AWS. By using this provider, users can simplify the management of their Kubernetes infrastructure on AWS.
+The Kubernetes Cluster API Provider AWS project enables consistent deployment and management of self-managed and Amazon Elastic Kubernetes Service (EKS) clusters on AWS. This open-source tool simplifies day-to-day operations for Kubernetes clusters, allowing users to automate provisioning, scaling, and maintenance tasks. By leveraging Cluster API, users can ensure predictable and reliable cluster management on AWS.
 
 ---
 

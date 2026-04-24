@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Skipper is an open-source HTTP router and reverse proxy designed for service composition and deployment in cloud-native environments, including Kubernetes Ingress use cases. It enables efficient routing and load balancing of traffic across multiple services, facilitating scalable and resilient microservice architectures. By leveraging Skipper, developers can simplify service integration and reduce complexity in their infrastructure setup.
+The zalando/skipper project is an open-source HTTP router and reverse proxy designed for service composition and Kubernetes Ingress use cases. It enables efficient routing and load balancing of incoming requests to microservices, facilitating scalable and secure service orchestration. Skipper's modular architecture makes it a valuable tool for DevOps and infrastructure teams in modern cloud and containerized environments.
 
 ---
 

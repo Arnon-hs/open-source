@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the ChatLuna project:
+Here's a brief summary for the ChatLunaLab/chatluna project:
 
-ChatLuna is an open-source, multi-platform bot plugin that enables developers to integrate various large language models into their chat services. This versatile project offers extensibility, multiple output formats, and seamless model integration, making it an ideal solution for those seeking a flexible and scalable chatbot solution. With ChatLuna, developers can create sophisticated chatbots that cater to diverse user needs and preferences.
+ChatLunaLab/chatluna is an open-source project that offers a bot plugin for large language model (LLM) chat services with multi-model integration capabilities. This extensible plugin supports various output formats, enabling developers to create customizable and versatile chat applications. With its multi-platform model interface, ChatLunaLab/chatluna facilitates seamless integration of LLMs into diverse applications.
 
 ---
 

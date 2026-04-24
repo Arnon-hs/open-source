@@ -27,7 +27,7 @@ Frontend · Backend
 
 Here's a brief summary for the rari project:
 
-Rari is an open-source, high-performance React Server Components framework built on a Rust runtime. It significantly boosts server response times and throughput, delivering 9.8x faster response times and 47.7x higher throughput compared to Next.js. With its zero-config setup, developers can easily leverage rari to optimize their web applications.
+rari is an open-source, high-performance React Server Components framework built on a Rust runtime, offering significantly improved performance and scalability compared to Next.js. It achieves response times 9.8 times faster and throughput 47.7 times higher, making it an ideal choice for high-traffic web applications. With a zero-config setup, developers can easily integrate rari into their projects.
 
 ---
 

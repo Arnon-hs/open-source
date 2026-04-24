@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Horizon is an open-source project that provides a GPU-accelerated terminal board. It allows users to visualize multiple sessions on an infinite canvas, enhancing their terminal experience with improved performance and organization. By utilizing GPU acceleration, Horizon offers a more efficient and immersive way to manage multiple terminal sessions.
+Horizon is an open-source project that allows users to create a GPU-accelerated terminal board, providing an infinite canvas to manage multiple sessions and applications. This project leverages GPU acceleration to deliver high-performance and efficient management of terminal sessions, making it ideal for developers and data scientists. Horizon offers a unique and flexible solution for multitasking in a terminal environment.
 
 ---
 

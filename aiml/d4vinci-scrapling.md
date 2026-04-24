@@ -25,9 +25,9 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the D4Vinci/Scrapling project:
+Here's a summary of the D4Vinci/Scrapling project:
 
-D4Vinci/Scrapling is an open-source, adaptive web scraping framework designed to handle both single requests and large-scale crawls. With its powerful capabilities, it enables developers to extract data efficiently and effectively from the web. This versatile framework is ideal for data scientists and backend developers working with AI/ML and data-intensive projects.
+D4Vinci/Scrapling is an open-source, adaptive web scraping framework capable of handling a wide range of tasks from simple requests to large-scale crawls. This versatile tool enables users to extract and process data from various web sources with ease and efficiency. With its flexible architecture, Scrapling is suitable for both small-scale data collection and complex data mining operations.
 
 ---
 

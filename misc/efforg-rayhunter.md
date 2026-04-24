@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The rayhunter project is an open-source tool developed by the Electronic Frontier Foundation (EFF) in Rust, designed to detect cell site simulators, also known as Stingrays or IMSI catchers, on an Orbic mobile hotspot. This tool aims to provide a means for individuals to verify if their device is being tracked or monitored by such devices. By using rayhunter, users can potentially safeguard their mobile hotspot from unauthorized surveillance.
+The EFForg/rayhunter project is an open-source tool developed using the Rust programming language. This tool is designed to detect cell site simulators, also known as "stingrays," on an Orbic mobile hotspot, helping users identify potential surveillance threats. By utilizing this project, users can enhance their mobile security and privacy.
 
 ---
 

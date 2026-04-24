@@ -1,6 +1,6 @@
 # bluerobotics/BlueOS
 
-[![Stars](https://img.shields.io/github/stars/bluerobotics/BlueOS?style=flat-square&color=yellow)](https://github.com/bluerobotics/BlueOS/stargazers) [![Forks](https://img.shields.io/github/forks/bluerobotics/BlueOS?style=flat-square&color=blue)](https://github.com/bluerobotics/BlueOS/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bluerobotics/BlueOS?style=flat-square&color=yellow)](https://github.com/bluerobotics/BlueOS/stargazers) [![Forks](https://img.shields.io/github/forks/bluerobotics/BlueOS?style=flat-square&color=blue)](https://github.com/bluerobotics/BlueOS/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The open source platform for ROV, USV, robotic system operation, development, and expansion.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 398 |
-| 🍴 **Forks** | 130 |
+| 🍴 **Forks** | 131 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

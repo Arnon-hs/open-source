@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Lisette is an open-source, experimental programming language that draws inspiration from Rust, designed to provide a concise and expressive syntax while being compiled to Go. This allows developers to take advantage of Lisette's features, such as strong type safety and functional programming capabilities, while still utilizing the Go ecosystem. Lisette is an ongoing project that aims to bridge the gap between Rust's features and Go's ease of use.
+Lisette is an open-source, little language that draws inspiration from Rust, but compiles to Go. This unique feature allows developers to leverage the safety and performance of Lisette, while still benefiting from the ecosystem and tooling of the Go programming language. By bridging the two languages, Lisette offers a versatile solution for building applications with a balance of safety, performance, and ease of use.
 
 ---
 

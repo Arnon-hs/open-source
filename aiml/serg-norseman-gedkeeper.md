@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-GEDKeeper is an open-source program for managing personal genealogical databases, providing a comprehensive platform for organizing and analyzing family history. This user-friendly tool allows individuals to create and maintain their own genealogical records, making it an ideal resource for genealogists and family historians. With GEDKeeper, users can easily access, update, and share their family tree information.
+GEDKeeper is an open-source, personal genealogical database management program designed to help users organize and manage their family tree information. This user-friendly application allows for storing and editing genealogical records, making it a valuable resource for individuals and families looking to preserve their family history. With GEDKeeper, users can easily maintain and share their genealogical data in a standardized format.
 
 ---
 

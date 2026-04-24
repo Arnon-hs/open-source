@@ -2,21 +2,21 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**39 projects** in this category.
+**40 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
-| 2 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.2k | TypeScript | 100/100 |
-| 3 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | — | 100/100 |
-| 4 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 100/100 |
-| 5 | [ZhuLinsen/daily_stock_analysis](./zhulinsen-daily-stock-analysis.md) | ⭐ 31.3k | Python | 100/100 |
-| 6 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 100/100 |
-| 7 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | HTML | 100/100 |
-| 8 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 23.9k | Python | 100/100 |
-| 9 | [hiyouga/LlamaFactory](./hiyouga-llamafactory.md) | ⭐ 70.6k | Python | 100/100 |
+| 1 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 23.9k | Python | 100/100 |
+| 2 | [hiyouga/LlamaFactory](./hiyouga-llamafactory.md) | ⭐ 70.6k | Python | 100/100 |
+| 3 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
+| 4 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.2k | TypeScript | 100/100 |
+| 5 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | — | 100/100 |
+| 6 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 100/100 |
+| 7 | [ZhuLinsen/daily_stock_analysis](./zhulinsen-daily-stock-analysis.md) | ⭐ 31.3k | Python | 100/100 |
+| 8 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 100/100 |
+| 9 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | HTML | 100/100 |
 | 10 | [QuantumNous/new-api](./quantumnous-new-api.md) | ⭐ 28.7k | Go | 99/100 |
 | 11 | [cactus-compute/cactus](./cactus-compute-cactus.md) | ⭐ 4.7k | C | 88/100 |
 | 12 | [intuitem/ciso-assistant-community](./intuitem-ciso-assistant-community.md) | ⭐ 4k | Python | 88/100 |
@@ -44,9 +44,10 @@
 | 34 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 390 | Python | 53/100 |
 | 35 | [tolinkshare2/tolinkshare2.github.io](./tolinkshare2-tolinkshare2.github.io.md) | ⭐ 380 | — | 53/100 |
 | 36 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
-| 37 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 119 | Go | 51/100 |
-| 38 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 51 | Python | 51/100 |
-| 39 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 82 | Python | 51/100 |
+| 37 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 82 | Python | 51/100 |
+| 38 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 119 | Go | 51/100 |
+| 39 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 51 | Python | 51/100 |
+| 40 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 24 | Swift | 50/100 |
 
 ---
 

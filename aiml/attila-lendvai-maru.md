@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Maru is a tiny, self-hosting Lisp dialect designed for use in AI and ML applications. This open-source project provides a compact and efficient Lisp implementation, making it suitable for deployment on resource-constrained systems. Maru's compact size and Lisp syntax enable developers to create lightweight, high-performance AI and ML solutions.
+Maru is a tiny, self-hosting Lisp dialect designed for AI/ML applications. This open-source project provides a lightweight and efficient platform for developing and experimenting with Lisp-based AI and machine learning models in a self-hosted environment. By leveraging the expressive power of Lisp, Maru enables developers to explore complex AI concepts with minimal overhead.
 
 ---
 

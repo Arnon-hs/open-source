@@ -1,0 +1,32 @@
+# NVIDIA-AI-Blueprints/video-search-and-summarization
+
+[![Stars](https://img.shields.io/github/stars/NVIDIA-AI-Blueprints/video-search-and-summarization?style=flat-square&color=yellow)](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-AI-Blueprints/video-search-and-summarization?style=flat-square&color=blue)](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+
+> Blueprint for Ingesting massive volumes of live or archived videos and extract insights for summarization and interactive Q&A
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 615 |
+| 🍴 **Forks** | 217 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI/ML
+
+## 📝 Summary
+
+The NVIDIA-AI-Blueprints/video-search-and-summarization project is an open-source initiative that enables the efficient ingestion of large video datasets, allowing for the extraction of valuable insights through automated summarization and interactive question-answering capabilities. This blueprint leverages AI and machine learning to unlock the full potential of video data, facilitating deeper analysis and understanding. By harnessing the power of AI, users can transform videos into actionable knowledge.
+
+---
+
+<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) · [← Back to AI/ML](./README.md)</sub>

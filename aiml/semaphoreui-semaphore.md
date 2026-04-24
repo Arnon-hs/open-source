@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Semaphore is an open-source project that offers a modern UI and powerful API to streamline DevOps workflows. It supports popular tools such as Ansible, Terraform, PowerShell, and others, enabling users to manage and automate their infrastructure and application deployments more efficiently. By leveraging Semaphore, users can simplify their DevOps processes and gain greater control over their environments.
+Semaphore is an open-source project that provides a modern UI and powerful API for various DevOps tools, including Ansible, Terraform, and PowerShell. It offers a unified platform for automating and managing infrastructure, allowing developers to streamline their workflows and increase efficiency. By supporting multiple tools, Semaphore simplifies the process of managing complex infrastructure and deployments.
 
 ---
 

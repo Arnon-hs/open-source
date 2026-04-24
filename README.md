@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3691** |
+| 🗂️ **Total projects** | **3787** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1411 | [Browse →](./aiml/) |
-| 📦 **Misc** | 581 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 390 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 337 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 229 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 202 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 148 | [Browse →](./crypto/) |
-| 📊 **Data** | 97 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 85 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 1451 | [Browse →](./aiml/) |
+| 📦 **Misc** | 599 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 397 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 348 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 232 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 208 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 151 | [Browse →](./crypto/) |
+| 📊 **Data** | 98 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 86 | [Browse →](./devopsinfra/) |
 | 💳 **Payments** | 54 | [Browse →](./payments/) |
-| 📱 **Mobile** | 50 | [Browse →](./mobile/) |
-| 📈 **Trading** | 39 | [Browse →](./trading/) |
-| 🔐 **Security** | 38 | [Browse →](./security/) |
-| ✨ **Design** | 13 | [Browse →](./design/) |
+| 📱 **Mobile** | 53 | [Browse →](./mobile/) |
+| 📈 **Trading** | 40 | [Browse →](./trading/) |
+| 🔐 **Security** | 39 | [Browse →](./security/) |
+| ✨ **Design** | 14 | [Browse →](./design/) |
 | 🎯 **Product** | 12 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [assistant-ui/assistant-ui](./aiml/assistant-ui-assistant-ui.md) | ⭐ 9.7k | AI/ML |
-| 2 | [semaphoreui/semaphore](./aiml/semaphoreui-semaphore.md) | ⭐ 13.5k | AI/ML |
-| 3 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 38.6k | AI/ML |
-| 4 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
-| 5 | [ansible/awx](./frontend/ansible-awx.md) | ⭐ 15.4k | Frontend |
-| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 7 | [RocketChat/Rocket.Chat](./misc/rocketchat-rocket.chat.md) | ⭐ 45.2k | Misc |
-| 8 | [lionsoul2014/ip2region](./devtools/lionsoul2014-ip2region.md) | ⭐ 19k | DevTools |
-| 9 | [secdev/scapy](./security/secdev-scapy.md) | ⭐ 12.2k | Security |
-| 10 | [casdoor/casdoor](./aiml/casdoor-casdoor.md) | ⭐ 13.5k | AI/ML |
+| 1 | [shadps4-emu/shadPS4](./frontend/shadps4-emu-shadps4.md) | ⭐ 30.9k | Frontend |
+| 2 | [GoogleChrome/lighthouse](./devtools/googlechrome-lighthouse.md) | ⭐ 30.1k | DevTools |
+| 3 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
+| 4 | [ansible/awx](./frontend/ansible-awx.md) | ⭐ 15.4k | Frontend |
+| 5 | [tensorflow/tensorflow](./aiml/tensorflow-tensorflow.md) | ⭐ 194.9k | AI/ML |
+| 6 | [stashapp/stash](./misc/stashapp-stash.md) | ⭐ 12.2k | Misc |
+| 7 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.4k | DevTools |
+| 8 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
+| 9 | [Canner/WrenAI](./aiml/canner-wrenai.md) | ⭐ 15k | AI/ML |
+| 10 | [karatelabs/karate](./backend/karatelabs-karate.md) | ⭐ 8.8k | Backend |
 
 ## 🚀 How it works
 

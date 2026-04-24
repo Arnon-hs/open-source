@@ -25,7 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The k8sgpt project aims to empower Kubernetes users with AI-driven tools, simplifying the management and automation of containerized applications. By leveraging AI and machine learning, this open-source initiative seeks to give developers and DevOps teams more flexibility and efficiency in their Kubernetes environments. With k8sgpt, users can unlock new levels of productivity and scalability in their cloud-native applications.
+The k8sgpt project aims to empower users by integrating AI capabilities into Kubernetes, making it more accessible and user-friendly for everyone. By leveraging AI/ML technologies, this open-source initiative seeks to automate and simplify various Kubernetes tasks, enhancing its overall efficiency and usability. This project enables DevOps teams and developers to unlock the full potential of Kubernetes.
 
 ---
 

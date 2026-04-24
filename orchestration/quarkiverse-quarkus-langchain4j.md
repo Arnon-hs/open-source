@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The Quarkus Langchain4j extension provides a seamless integration between Quarkus, a Java framework, and LangChain, a powerful language model framework. This extension enables developers to leverage the capabilities of LangChain in their Quarkus applications, simplifying the process of building AI-driven and ML-powered services. By integrating these technologies, developers can create more intelligent and automated systems with ease.
+The Quarkus Langchain4j extension is an open-source project that integrates the Langchain4j library into the Quarkus framework, enabling developers to build AI and machine learning applications with ease. This extension provides a seamless way to leverage the power of Langchain4j, a Java library for building large language models, within Quarkus-based projects. By combining Quarkus and Langchain4j, developers can accelerate the development of AI-driven applications.
 
 ---
 

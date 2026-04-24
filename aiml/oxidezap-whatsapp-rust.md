@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-This open-source project, Whatsapp-Rust, is a Rust-based WhatsApp client that leverages the WhatsMeow and Baileys libraries to provide a native messaging experience. Built with Rust for performance and security, this project aims to offer a reliable and feature-rich WhatsApp client for users. As an open-source project, it also serves as a learning resource for developers interested in Rust and WhatsApp integration.
+Here's a brief summary for the oxidezap/whatsapp-rust project:
+
+This open-source project is an experimental Rust-based WhatsApp client, built on top of the WhatsMeow and Baileys libraries. The client aims to provide a pure Rust implementation of WhatsApp functionality, leveraging the power of the Rust programming language. By using this project, developers can explore the possibilities of creating custom WhatsApp applications without relying on third-party dependencies.
 
 ---
 

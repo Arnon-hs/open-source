@@ -25,9 +25,9 @@ AI/ML · DevTools · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary for the "Houseofmvps/codesight" project:
+Here's a brief summary for the Houseofmvps/codesight project:
 
-Codesight is an open-source, universal AI context generator that enables efficient storage and retrieval of large amounts of conversational data in various AI platforms, including Claude Code, Cursor, Copilot, and Codex. By saving thousands of tokens per conversation, Codesight streamlines the AI development process and enhances collaboration capabilities. This project is particularly useful for developers, researchers, and marketers working with AI/ML technologies.
+Codesight is an open-source, universal AI context generator that optimizes conversations with AI models like Claude Code, Cursor, Copilot, and Codex. This project enables efficient storage and retrieval of thousands of tokens per conversation, enhancing the overall AI experience. As a developer tool, it has applications in AI/ML and can also be leveraged for marketing purposes.
 
 ---
 
