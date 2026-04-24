@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the singchia/frontier open-source project:
+Here's a brief summary for the open-source project:
 
-Frontier is an open-source, cloud-native gateway that enables bidirectional communication between services and edge computing environments, facilitating long-lived connections for various applications. This project is designed to support the integration of AI/ML and backend technologies, promoting efficient data exchange and processing. By leveraging Frontier, developers can create scalable, real-time systems that bridge the gap between cloud and edge computing.
+The singchia/frontier project is an open-source, cloud-native gateway that enables long-lived connections between services and edge clouds. This bidirectional gateway facilitates seamless communication and data exchange between service providers and edge cloud resources. By leveraging frontier, developers can build scalable and efficient edge computing applications that bridge the gap between services and edge clouds.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the dbt-labs/dbt-mcp project:
+Here is a brief summary of the dbt-labs/dbt-mcp project:
 
-dbt-labs/dbt-mcp is an open-source Model Context Protocol (MCP) server designed to interact with dbt, a popular data transformation tool. This MCP server enables seamless integration and automation of dbt workflows, facilitating scalable and efficient data engineering processes. By leveraging dbt-mcp, developers can streamline their data pipelines and enhance collaboration across teams.
+dbt-labs/dbt-mcp is an open-source Model Context Protocol (MCP) server, designed to interact seamlessly with dbt, a popular data transformation and modeling tool. This MCP server facilitates efficient data sharing and collaboration by providing a standardized interface for retrieving and updating dbt models. By leveraging this server, developers can unlock new possibilities for data-driven applications and workflows.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-The punkpeye/vitemcp project is an open-source, TypeScript-based framework for building MCP (Multi-Client Proxy) servers. It provides a robust and flexible foundation for developers to create custom MCP servers, empowering them to manage and proxy client connections efficiently. This framework enables seamless integration and customization of MCP server functionality.
+The punkpeye/vitemcp project is an open-source framework built with TypeScript, designed for constructing MCP (Multi-Player Client Protocol) servers. This framework serves as a foundation for developers to create robust MCP servers, facilitating seamless communication between clients and servers in multi-player applications. By utilizing TypeScript, vitemcp aims to provide a highly maintainable and scalable solution for MCP server development.
 
 ---
 

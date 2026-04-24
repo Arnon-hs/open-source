@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Lazygit is an open-source, terminal-based UI for git commands, offering a simple and intuitive interface for managing your local and remote repositories. This project streamlines complex git operations, making it easier to navigate through commit history, stash changes, and push/pull updates. By leveraging the power of git within a user-friendly terminal interface, lazygit simplifies workflow management for developers and teams.
+Lazygit is an open-source, terminal-based user interface for Git commands, providing a simple and intuitive way to interact with your Git repository from the command line. This project offers a user-friendly graphical interface for commonly used Git operations, allowing developers to manage their repositories with ease. It is designed to be a useful tool for Git users who prefer a more visual interface without leaving the terminal.
 
 ---
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3502** |
+| 🗂️ **Total projects** | **3597** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1344 | [Browse →](./aiml/) |
-| 📦 **Misc** | 548 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 378 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 320 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 215 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 184 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 139 | [Browse →](./crypto/) |
-| 📊 **Data** | 95 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 81 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 48 | [Browse →](./payments/) |
-| 📱 **Mobile** | 46 | [Browse →](./mobile/) |
-| 🔐 **Security** | 37 | [Browse →](./security/) |
-| 📈 **Trading** | 37 | [Browse →](./trading/) |
+| 🤖 **AI/ML** | 1372 | [Browse →](./aiml/) |
+| 📦 **Misc** | 563 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 385 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 330 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 222 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 193 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 143 | [Browse →](./crypto/) |
+| 📊 **Data** | 97 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 84 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 53 | [Browse →](./payments/) |
+| 📱 **Mobile** | 49 | [Browse →](./mobile/) |
+| 🔐 **Security** | 38 | [Browse →](./security/) |
+| 📈 **Trading** | 38 | [Browse →](./trading/) |
 | ✨ **Design** | 13 | [Browse →](./design/) |
 | 🎯 **Product** | 12 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Jackett/Jackett](./aiml/jackett-jackett.md) | ⭐ 15.2k | AI/ML |
-| 2 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
-| 3 | [monero-project/monero](./crypto/monero-project-monero.md) | ⭐ 10.5k | Crypto |
-| 4 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 5 | [lobehub/lobehub](./orchestration/lobehub-lobehub.md) | ⭐ 75.6k | Orchestration |
-| 6 | [FlowiseAI/Flowise](./orchestration/flowiseai-flowise.md) | ⭐ 52.2k | Orchestration |
-| 7 | [opendataloader-project/opendataloader-pdf](./aiml/opendataloader-project-opendataloader-pdf.md) | ⭐ 19.2k | AI/ML |
-| 8 | [quantumlib/Cirq](./trading/quantumlib-cirq.md) | ⭐ 4.9k | Trading |
-| 9 | [streamlink/streamlink](./aiml/streamlink-streamlink.md) | ⭐ 11.4k | AI/ML |
-| 10 | [FreeCAD/FreeCAD](./misc/freecad-freecad.md) | ⭐ 30.6k | Misc |
+| 1 | [gnuradio/gnuradio](./security/gnuradio-gnuradio.md) | ⭐ 6k | Security |
+| 2 | [onnx/onnx](./aiml/onnx-onnx.md) | ⭐ 20.7k | AI/ML |
+| 3 | [Dokploy/dokploy](./frontend/dokploy-dokploy.md) | ⭐ 33.4k | Frontend |
+| 4 | [Raphire/Win11Debloat](./devtools/raphire-win11debloat.md) | ⭐ 45.3k | DevTools |
+| 5 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
+| 6 | [flameshot-org/flameshot](./frontend/flameshot-org-flameshot.md) | ⭐ 29.8k | Frontend |
+| 7 | [juicedata/juicefs](./aiml/juicedata-juicefs.md) | ⭐ 13.5k | AI/ML |
+| 8 | [charmbracelet/bubbletea](./frontend/charmbracelet-bubbletea.md) | ⭐ 41.8k | Frontend |
+| 9 | [Graylog2/graylog2-server](./backend/graylog2-graylog2-server.md) | ⭐ 8k | Backend |
+| 10 | [langbot-app/LangBot](./aiml/langbot-app-langbot.md) | ⭐ 15.9k | AI/ML |
 
 ## 🚀 How it works
 

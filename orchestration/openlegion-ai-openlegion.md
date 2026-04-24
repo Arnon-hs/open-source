@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary for the open-source project:
 
-OpenLegion is an open-source, secure autonomous AI agent fleet platform that enables the deployment of AI workloads in a Docker-isolated and multi-provider environment with built-in cost controls. Designed as a production-ready alternative to OpenClaw, OpenLegion provides a flexible and scalable solution for orchestrating AI/ML workloads. This platform caters to users seeking a secure and cost-effective way to manage their AI agent fleets.
+OpenLegion is an open-source, secure autonomous AI agent fleet platform that enables users to manage multiple AI providers in a single, Docker-isolated environment. With built-in cost controls, OpenLegion provides a scalable and cost-effective solution for production use, making it an alternative to OpenClaw for organizations seeking to orchestrate their AI workloads. This platform supports multi-provider integration, allowing users to choose the best AI solutions for their specific needs.
 
 ---
 

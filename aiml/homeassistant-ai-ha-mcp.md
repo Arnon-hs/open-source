@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The Home Assistant MCP Server is an open-source project that provides a backend solution for integrating with Home Assistant, a popular home automation platform. This unofficial server allows for the use of Machine Learning (ML) capabilities to enhance Home Assistant's functionality, enabling more sophisticated automation and control of smart home devices. By leveraging AI and ML, users can unlock new possibilities for smart home management.
+The homeassistant-ai/ha-mcp project is an open-source, unofficial implementation of a Home Assistant MCP (Media Control Protocol) server. This server enables Home Assistant to interact with various media centers and devices, providing a centralized control hub for users' home entertainment systems. By utilizing AI/ML capabilities, the ha-mcp server offers advanced features and functionality for a seamless media control experience.
 
 ---
 

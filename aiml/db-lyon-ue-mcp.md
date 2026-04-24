@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The db-lyon/ue-mcp project is an open-source Unreal Engine development toolkit that exposes its functionality as MCP (Machine-Configurable Platform) tools. This toolkit enables developers to utilize Unreal Engine's capabilities in AI and machine learning applications, providing a flexible and efficient backend solution. By leveraging MCP tools, developers can streamline their workflows and unlock the full potential of Unreal Engine in their projects.
+The db-lyon/ue-mcp project is an open-source, comprehensive toolkit that exposes the capabilities of Unreal Engine as MCP (Maya Command Prompt) tools. This allows developers to leverage Unreal Engine's features and tools within their existing Maya workflows, streamlining the process of creating high-fidelity content. By integrating Unreal Engine with Maya, this project enables more efficient and seamless collaboration between artists and developers.
 
 ---
 

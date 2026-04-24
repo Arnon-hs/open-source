@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The Uni-API project is an open-source initiative that streamlines the management of Large Language Model (LLM) APIs by providing a unified interface for multiple backend services. It supports load balancing and converts the diverse output formats of various LLM services, such as OpenAI, Anthropic, and others, into a uniform OpenAI format for seamless integration. This allows developers to easily interact with a range of LLM services through a single API.
+Here's a brief summary of the project:
+
+The uni-api project is an open-source initiative that simplifies the management of Large Language Model (LLM) APIs by providing a unified interface for multiple backend services. It supports load balancing and uniform conversion of diverse LLM APIs into the OpenAI format, making it easier to integrate various AI capabilities into applications. Currently, it supports a range of popular LLM APIs, including OpenAI, Anthropic, and others.
 
 ---
 

@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The foxglove/foxglove-sdk is an open-source, multimodal visualization and data platform that enables users to effectively analyze and interpret complex data. This comprehensive platform supports various data formats and provides a range of visualization tools to facilitate insights and understanding. By leveraging foxglove-sdk, developers and researchers can create customized data solutions tailored to their specific needs.
+The foxglove/foxglove-sdk project is an open-source platform that provides a comprehensive multimodal visualization and data platform. It enables users to create, manage, and analyze complex data across various modalities, facilitating a deeper understanding of data insights. This platform is designed to support the needs of data-intensive applications and research initiatives.
 
 ---
 

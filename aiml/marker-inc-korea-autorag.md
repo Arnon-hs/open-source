@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-AutoRAG is an open-source framework that streamlines the evaluation and optimization of Retrieval-Augmented Generation (RAG) models using automated machine learning (AutoML) techniques. This framework aims to simplify the process of fine-tuning RAG models for improved performance, enabling researchers and practitioners to focus on model development rather than manual experimentation. By leveraging AutoML-style automation, AutoRAG empowers users to efficiently explore and optimize their RAG models.
+Here's a brief summary for the AutoRAG project:
+
+AutoRAG is an open-source framework that streamlines the process of evaluating and optimizing Retrieval-Augmented Generation (RAG) models using automated machine learning (AutoML) techniques. This comprehensive platform enables researchers and developers to efficiently fine-tune and optimize RAG models, accelerating the development of high-performing language generation systems. By leveraging AutoML-style automation, AutoRAG simplifies the complex task of RAG model optimization.
 
 ---
 

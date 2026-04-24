@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Blightmud is an open-source terminal-based MUD (Multi-User Dungeon) client developed in Rust, providing a customizable and efficient way to connect and interact with MUD servers. This project offers developers a robust and extensible platform for building and playing MUD games, with its source code available for modification and contribution. By leveraging Rust's performance and safety features, Blightmud aims to deliver a seamless and enjoyable MUD experience.
+Blightmud is an open-source terminal mud client written in Rust, providing users with a robust and customizable interface for interacting with MUD (Multi-User Dungeon) servers. This project aims to offer a high-performance and user-friendly experience for navigating and exploring virtual worlds from the command line. By leveraging Rust's capabilities, Blightmud aims to set a new standard for terminal-based MUD clients.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-Yggdrasil-decision-forests is an open-source library for training, evaluating, and deploying decision forest models, including Random Forest and Gradient Boosted Decision Trees. This library provides a comprehensive toolkit for building and interpreting complex machine learning models, enabling developers to optimize model performance and productionize decision-making workflows. By leveraging Yggdrasil-decision-forests, users can streamline their machine learning pipelines and improve model interpretability.
+Here's a brief summary of the Yggdrasil Decision Forests project:
+
+Yggdrasil Decision Forests is an open-source library for training, evaluating, and interpreting decision forest models, including Random Forest and Gradient Boosted Decision Trees. This library aims to provide a comprehensive platform for building, deploying, and optimizing decision forest models in production environments. By leveraging Yggdrasil, developers can streamline their machine learning workflows and improve the accuracy and reliability of their AI-powered applications.
 
 ---
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/logseq/logseq?style=flat-square&color=yellow)](https://github.com/logseq/logseq/stargazers) [![Forks](https://img.shields.io/github/forks/logseq/logseq?style=flat-square&color=blue)](https://github.com/logseq/logseq/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267
+> A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
 ## 📊 Stats
 

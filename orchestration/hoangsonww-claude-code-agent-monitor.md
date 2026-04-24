@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary of the project:
 
-Claude-Code-Agent-Monitor is an open-source real-time monitoring dashboard for Claude Code agents, providing comprehensive analytics and insights into session tracking, agent activity, tool usage, and subagent orchestration. Built with a robust tech stack, including SQLite3, Node.js, and React, the dashboard offers a live Kanban status board, status notifications, and an interactive web interface. This project enables users to track and manage their Claude Code agents with ease, enhancing productivity and collaboration.
+Claude-Code-Agent-Monitor is an open-source, real-time monitoring dashboard for Claude Code agents. Built with a combination of Node.js, Express, and React, it tracks key performance metrics such as agent activity, tool usage, and subagent orchestration through Claude Code hooks. This interactive web interface provides live analytics, a Kanban status board, and status notifications.
 
 ---
 

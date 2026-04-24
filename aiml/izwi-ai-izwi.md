@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the izwi project:
+Here's a brief summary of the izwi open-source project:
 
-Izwi is an open-source Voice AI runtime that enables local-first transcription, speaker diarization, text-to-speech synthesis, and voice cloning capabilities. With an OpenAI compatible API, izwi provides a flexible and customizable solution for integrating voice AI functionality into various applications. This project empowers developers to leverage cutting-edge voice AI technology while maintaining control over data processing and storage.
+Izwi is an open-source voice AI runtime that enables local-first processing of voice data, including transcription, speaker diarization, text-to-speech (TTS), and voice cloning capabilities. This project provides an OpenAI-compatible API, allowing developers to integrate its advanced voice AI features into their applications. With izwi, users can leverage powerful voice AI technology while maintaining control over their data and ensuring seamless performance.
 
 ---
 

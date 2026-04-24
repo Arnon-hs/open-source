@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Memex, an open-source project, provides a persistent memory system for AI coding agents based on the Zettelkasten approach. It allows seamless integration with popular AI clients, including Claude Code, Cursor, and Codex, utilizing markdown files synced with Git for data management. This innovative solution enables efficient knowledge organization and retrieval for developers working with AI coding agents.
+Memex is an open-source project that utilizes a Zettelkasten-based approach to provide persistent memory for AI coding agents. This innovative system is designed to work seamlessly with popular AI tools such as Claude Code, Cursor, and Codex, while also supporting other clients through the MCP protocol. By integrating markdown and git sync, Memex offers a decentralized and collaborative solution for AI coding and knowledge management.
 
 ---
 

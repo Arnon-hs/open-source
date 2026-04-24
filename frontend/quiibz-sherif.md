@@ -25,9 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the QuiiBz/sherif project:
-
-Sherif is an opinionated, zero-configuration linter designed specifically for TypeScript and JavaScript monorepos. This open-source tool provides a streamlined linter experience by eliminating the need for manual configuration, allowing developers to focus on their projects. With Sherif, users can efficiently maintain code quality and consistency across their monorepos.
+Sherif is an open-source, zero-configuration linter designed specifically for TypeScript and JavaScript monorepos. It provides an opinionated approach to code quality, helping developers maintain consistency and best practices across their projects. With Sherif, users can focus on writing code without the need for extensive configuration.
 
 ---
 

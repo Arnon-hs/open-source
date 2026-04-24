@@ -25,7 +25,7 @@ Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
-Code on the Go is an open-source Integrated Development Environment (IDE) designed for Android users to build mobile apps directly on their smartphones, eliminating the need for a laptop or internet connection. This innovative project aims to increase accessibility to app development, empowering users to create and deploy Android apps conveniently and offline. As a part of the App Dev for All initiative, Code on the Go strives to bridge the gap between aspiring app developers and the necessary tools to bring their ideas to life.
+Code on the Go is an open-source, offline-capable Integrated Development Environment (IDE) designed for building Android applications directly on Android devices. This innovative project, spearheaded by App Dev for All, empowers mobile app development without the need for a laptop or internet connection. With Code on the Go, developers can create Android apps on-the-go, anywhere, anytime.
 
 ---
 

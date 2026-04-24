@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-SuperTux is an open-source, 2D jump-and-run game inspired by the classic Super Mario Bros. series. The game is designed to be fun and challenging, with a focus on exploration and platforming, and features a unique cast of characters, including Tux the Penguin as the main protagonist. With a strong emphasis on community involvement, SuperTux is a free and customizable alternative to commercial platformers.
+SuperTux is an open-source, 2D platformer game that features a unique and colorful world. Developed from the source code of the classic Tux game, SuperTux offers a similar gameplay experience with the addition of new characters, levels, and graphics. It is a free-to-play game that is suitable for players of all ages and skill levels.
 
 ---
 

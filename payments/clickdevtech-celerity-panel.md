@@ -25,7 +25,9 @@ Payments · AI/ML · Backend
 
 ## 📝 Summary
 
-CELERITY-panel is an open-source, self-hosted web panel designed for managing Hysteria 2 and Xray VLESS proxy servers. This comprehensive tool offers advanced features such as load balancing, ACL traffic filtering, and server group management, providing users with a robust solution for their proxy server needs. With its API, webhooks, and S3 backup capabilities, CELERITY-panel offers a flexible and customizable management experience.
+Here's a 2-3 sentence summary of the ClickDevTech/CELERITY-panel project:
+
+CELERITY-panel is an open-source, self-hosted web panel designed to manage Hysteria 2 and Xray VLESS proxy servers. This robust platform offers advanced features such as network topology customization, server grouping, load balancing, and traffic filtering, making it a convenient and powerful tool for users. With its API, webhooks, and integrations, CELERITY-panel provides a comprehensive management solution for proxy server administrators.
 
 ---
 

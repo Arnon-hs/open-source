@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the "vessel-browser" open-source project:
-
-Vessel Browser is an open-source AI browser for Linux and Windows that enables agents to browse the internet autonomously. It offers a durable state, MCP (Master Control Protocol) control, and BYOK (Bring Your Own Key) capabilities, allowing agents to connect to various APIs, including Hermes Agent and OpenClaw. This project provides a robust platform for developing and deploying AI-powered applications.
+The Vessel Browser is an open-source AI browser designed for agents, offering a durable state, MCP control, and Bring Your Own Key (BYOK) capabilities. This browser enables autonomous browsing and can be integrated with various agents and APIs, including Hermes Agent and OpenClaw. With its full-stack architecture, Vessel Browser facilitates seamless AI interactions across Linux and Windows platforms.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Haven is an open-source project that enables users to host their own private blogs securely and reliably. This self-hostable platform allows individuals to maintain complete control over their content, without relying on third-party services. By hosting their own blog on Haven, users can ensure their data remains private and secure.
+Haven is a self-hostable private blogging platform that allows users to maintain control and ownership over their content. With Haven, individuals can create and manage their own personal blogs without relying on third-party services, ensuring the security and confidentiality of their online presence. This open-source project prioritizes user autonomy and data protection.
 
 ---
 

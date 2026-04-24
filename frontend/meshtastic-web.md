@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The Meshtastic Web project is an open-source, monorepo repository that hosts the JavaScript codebase for the Meshtastic web client, a user-friendly interface for interacting with the Meshtastic network. This front-end repository provides a web-based interface for users to access and control their Meshtastic devices, enabling seamless communication and data exchange. It serves as a crucial component of the Meshtastic ecosystem, enhancing user experience and facilitating device management.
+Here's a brief summary for the meshtastic/web project:
+
+The meshtastic/web project is an open-source monorepo that provides a JavaScript-based web client for interacting with the Meshtastic network. It offers a suite of tools and APIs for developers to build web applications that can communicate with Meshtastic devices, enabling real-time communication and data exchange. This project serves as a foundation for creating web-based applications that integrate with the Meshtastic ecosystem.
 
 ---
 

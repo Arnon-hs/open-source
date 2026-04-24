@@ -25,7 +25,7 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The Kubernetes Gateway API is an open-source project that aims to provide a next-generation API for composite services and load balancing, building upon the concept of Ingress. This project enables developers to define network traffic management policies at scale, providing a flexible and extensible way to manage service traffic in Kubernetes environments. By using the Gateway API, users can define custom network policies and configurations with ease.
+The Kubernetes Gateway API is an open-source project that aims to provide a next-generation API for composite services and load balancing in Kubernetes environments. This project serves as a replacement for traditional Ingress APIs, offering a more modern and scalable solution for managing network traffic and routing in cloud-native applications. By leveraging the Gateway API, developers can create more efficient and flexible networking architectures.
 
 ---
 

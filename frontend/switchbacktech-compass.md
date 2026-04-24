@@ -25,7 +25,9 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Compass is a lightweight task management platform designed for minimalists, helping users organize their day and achieve their goals. This open-source project combines both frontend and backend development to provide a seamless user experience and efficient task management capabilities. With Compass, users can focus on what matters most – getting things done.
+Here's a brief summary for the SwitchbackTech/compass project:
+
+Compass is an open-source task manager designed for minimalists, allowing users to organize their day and stay focused on their goals. This project combines frontend and backend development to provide a seamless and efficient user experience. By using Compass, individuals can prioritize their tasks and achieve a better work-life balance.
 
 ---
 
