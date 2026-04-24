@@ -25,9 +25,7 @@ AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the vericontext/vibeframe project:
-
-vibeframe is an open-source, AI-native video editor that enables users to generate, edit, and ship videos from their terminal using a CLI-first interface. This project is designed to be MCP-ready, making it an ideal choice for developers and designers working on machine learning and computer vision projects. With vibeframe, users can streamline their video workflow and take advantage of AI-powered editing capabilities.
+Vibeframe is an open-source, AI-native video editor that enables users to generate, edit, and ship high-quality videos directly from their terminal. This CLI-first, MCP (Model-as-a-Service) ready tool streamlines the video editing process, making it accessible to developers and designers alike. With Vibeframe, users can leverage the power of AI to create stunning videos without requiring extensive video editing expertise.
 
 ---
 

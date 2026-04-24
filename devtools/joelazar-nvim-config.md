@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-This is a personal Neovim configuration repository, offering an open-source and customizable setup for users to enhance their text editing experience. The configuration provides a collection of plugins and settings tailored to streamline coding and productivity. It serves as a starting point for users to adapt and optimize their Neovim setup according to their specific needs.
+This open-source project, "joelazar/nvim-config", is a publicly available Neovim configuration repository. It contains the author's custom settings and plugins for a streamlined and efficient editing experience. Users can leverage this repository to create their own tailored Neovim configurations.
 
 ---
 

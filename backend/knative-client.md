@@ -25,7 +25,7 @@ Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The knative/client project is an open-source initiative that focuses on enhancing the developer experience for Knative, a serverless platform for building and deploying cloud-native applications. This project provides a comprehensive implementation of the Knative CLI, along with documentation and reference materials to support developers in their work. By contributing to this project, users can improve their overall Knative developer experience and streamline their workflows.
+Knative/client is an open-source project that focuses on enhancing the developer experience for Knative, a platform for building scalable and serverless applications. The project provides a reference implementation of the Knative Command-Line Interface (CLI), along with comprehensive documentation and resources. Its goal is to simplify the development and deployment process of Knative applications.
 
 ---
 

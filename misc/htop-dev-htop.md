@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-htop is an interactive, real-time system monitor and process viewer for Unix-like systems. It allows users to sort, filter, and manage system processes in a user-friendly interface, providing detailed information about running tasks. This open-source tool is a popular alternative to the traditional 'top' command, offering advanced features and customization options.
+The htop project is an open-source, interactive process viewer for Linux systems. It provides a dynamic and user-friendly interface for monitoring system processes, allowing users to sort, filter, and manage running processes in real-time. With htop, users can easily identify and troubleshoot system performance issues, manage resources, and optimize system utilization.
 
 ---
 

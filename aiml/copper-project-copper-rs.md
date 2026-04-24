@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Copper is an open-source operating system designed specifically for robots, allowing users to build, run, and replay their robot's entire workflow in a deterministic manner. This innovative platform enables developers to create, test, and refine robotic applications with precision and reliability. By leveraging Copper, users can streamline their robot development process and achieve more consistent results.
+Copper is an open-source operating system designed specifically for robots, allowing developers to build, run, and replay their entire robotic systems in a deterministic manner. This approach enables the creation of reliable, reproducible, and efficient robotic experiences. By leveraging Copper, developers can streamline their development process and achieve more predictable outcomes in their robotic applications.
 
 ---
 

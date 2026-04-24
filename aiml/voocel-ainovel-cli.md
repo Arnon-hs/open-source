@@ -27,7 +27,7 @@ AI/ML · DevTools
 
 Here's a brief summary for the voocel/ainovel-cli project:
 
-The voocel/ainovel-cli is an open-source tool that enables the generation of novels through multiple agents, achieving full automation and utilizing AI and machine learning capabilities. This project provides a DevTools solution for developers to create AI-powered novels. The multiple-agent implementation allows for a more creative and dynamic novel generation process.
+"voocel/ainovel-cli is an open-source project that leverages multi-agent technology to automate the generation of AI-powered novels. This innovative tool utilizes artificial intelligence and machine learning to create engaging stories from scratch, providing a unique and efficient way to produce content. With its cutting-edge approach, ainovel-cli has the potential to revolutionize the writing process and open up new possibilities for creative storytelling."
 
 ---
 

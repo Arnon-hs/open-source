@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Libbpf/libbpf-rs is an open-source project that provides comprehensive eBPF tooling for the Rust programming language ecosystem. This minimal and opinionated tooling set aims to simplify the development and use of eBPF programs in Rust, making it easier for developers to leverage eBPF's powerful functionality. It serves as a bridge between Rust and the Linux kernel's eBPF subsystem.
+Libbpf/libbpf-rs is an open-source project that provides a minimal and opinionated set of eBPF tooling for the Rust programming language ecosystem. This project aims to simplify the development and integration of eBPF programs, making it easier for Rust developers to leverage the power of eBPF for system monitoring, networking, and security applications. By offering a Rust-specific interface to eBPF, libbpf/libbpf-rs enables developers to write more efficient, reliable, and maintainable code.
 
 ---
 

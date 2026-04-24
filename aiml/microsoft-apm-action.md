@@ -1,6 +1,6 @@
 # microsoft/apm-action
 
-[![Stars](https://img.shields.io/github/stars/microsoft/apm-action?style=flat-square&color=yellow)](https://github.com/microsoft/apm-action/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/apm-action?style=flat-square&color=blue)](https://github.com/microsoft/apm-action/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/apm-action?style=flat-square&color=yellow)](https://github.com/microsoft/apm-action/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/apm-action?style=flat-square&color=blue)](https://github.com/microsoft/apm-action/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Action for Agent Package Manager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 30/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

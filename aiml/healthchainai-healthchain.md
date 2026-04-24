@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-HealthChain is an open-source SDK for healthcare AI, providing a comprehensive platform for integrating FHIR endpoints, electronic health records (EHRs), and deploying AI models. Built with Python, this tooling enables developers to streamline healthcare data management and AI model deployment. By leveraging HealthChain, organizations can accelerate the development and implementation of AI-driven healthcare solutions.
+Here's a brief summary for the HealthChain open-source project:
+
+HealthChain is an open-source software development kit (SDK) that enables the integration of healthcare AI into various systems, providing FHIR endpoints, electronic health record (EHR) integration, and deployment tooling. Built with Python, HealthChain streamlines the development of healthcare applications by providing a comprehensive platform for AI-driven healthcare solutions. This SDK empowers developers to create innovative healthcare applications with ease and efficiency.
 
 ---
 

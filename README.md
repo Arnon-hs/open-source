@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3301** |
+| 🗂️ **Total projects** | **3355** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1257 | [Browse →](./aiml/) |
-| 📦 **Misc** | 512 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 357 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 1279 | [Browse →](./aiml/) |
+| 📦 **Misc** | 525 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 361 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 306 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 205 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 172 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 135 | [Browse →](./crypto/) |
+| ⚙️ **Backend** | 209 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 177 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 136 | [Browse →](./crypto/) |
 | 📊 **Data** | 92 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 77 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 78 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 47 | [Browse →](./payments/) |
 | 📱 **Mobile** | 45 | [Browse →](./mobile/) |
-| 💳 **Payments** | 45 | [Browse →](./payments/) |
-| 📈 **Trading** | 35 | [Browse →](./trading/) |
+| 📈 **Trading** | 36 | [Browse →](./trading/) |
 | 🔐 **Security** | 35 | [Browse →](./security/) |
-| ✨ **Design** | 12 | [Browse →](./design/) |
+| ✨ **Design** | 13 | [Browse →](./design/) |
 | 🎯 **Product** | 11 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [duplicati/duplicati](./aiml/duplicati-duplicati.md) | ⭐ 14.5k | AI/ML |
-| 2 | [ZhuLinsen/daily_stock_analysis](./trading/zhulinsen-daily-stock-analysis.md) | ⭐ 31.2k | Trading |
-| 3 | [hellodigua/ChatLab](./aiml/hellodigua-chatlab.md) | ⭐ 6.1k | AI/ML |
-| 4 | [nhivp/Awesome-Embedded](./aiml/nhivp-awesome-embedded.md) | ⭐ 8.5k | AI/ML |
-| 5 | [ruby/ruby](./misc/ruby-ruby.md) | ⭐ 23.5k | Misc |
-| 6 | [rowboatlabs/rowboat](./orchestration/rowboatlabs-rowboat.md) | ⭐ 13.1k | Orchestration |
-| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 8 | [opendataloader-project/opendataloader-pdf](./aiml/opendataloader-project-opendataloader-pdf.md) | ⭐ 19.2k | AI/ML |
-| 9 | [opf/openproject](./product/opf-openproject.md) | ⭐ 14.9k | Product |
-| 10 | [bpftrace/bpftrace](./misc/bpftrace-bpftrace.md) | ⭐ 10.1k | Misc |
+| 1 | [rclone/rclone](./aiml/rclone-rclone.md) | ⭐ 56.8k | AI/ML |
+| 2 | [RT-Thread/rt-thread](./aiml/rt-thread-rt-thread.md) | ⭐ 11.9k | AI/ML |
+| 3 | [pwndbg/pwndbg](./misc/pwndbg-pwndbg.md) | ⭐ 10.4k | Misc |
+| 4 | [duplicati/duplicati](./aiml/duplicati-duplicati.md) | ⭐ 14.5k | AI/ML |
+| 5 | [photoprism/photoprism](./aiml/photoprism-photoprism.md) | ⭐ 39.6k | AI/ML |
+| 6 | [mbadolato/iTerm2-Color-Schemes](./misc/mbadolato-iterm2-color-schemes.md) | ⭐ 26.8k | Misc |
+| 7 | [mlflow/mlflow](./orchestration/mlflow-mlflow.md) | ⭐ 25.5k | Orchestration |
+| 8 | [modelscope/ms-swift](./aiml/modelscope-ms-swift.md) | ⭐ 13.9k | AI/ML |
+| 9 | [redisson/redisson](./frontend/redisson-redisson.md) | ⭐ 24.3k | Frontend |
+| 10 | [openemr/openemr](./misc/openemr-openemr.md) | ⭐ 5.1k | Misc |
 
 ## 🚀 How it works
 

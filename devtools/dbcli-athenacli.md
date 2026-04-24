@@ -25,7 +25,7 @@ DevTools · Data
 
 ## 📝 Summary
 
-AthenaCLI is an open-source command-line interface (CLI) tool for AWS Athena, a serverless query service that makes it easy to analyze data in Amazon S3. This tool provides features such as auto-completion and syntax highlighting, making it easier for users to interact with AWS Athena and simplify data analysis tasks. With AthenaCLI, developers can write and execute queries more efficiently and effectively.
+AthenaCLI is an open-source command-line interface (CLI) tool for the AWS Athena service, offering auto-completion and syntax highlighting for enhanced productivity. This tool simplifies interactions with Athena, allowing users to efficiently execute queries and manage workloads. By leveraging AthenaCLI, developers and data analysts can streamline their workflow and improve querying efficiency.
 
 ---
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/sorry510/go_binance_futures?style=flat-square&color=yellow)](https://github.com/sorry510/go_binance_futures/stargazers) [![Forks](https://img.shields.io/github/forks/sorry510/go_binance_futures?style=flat-square&color=blue)](https://github.com/sorry510/go_binance_futures/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Crypto trading bot (合约量化交易+自定义策略+新币抢购+价格预警通知)
+> 币安合约量化交易+自定义策略+新币抢购+价格预警通知
 
 ## 📊 Stats
 

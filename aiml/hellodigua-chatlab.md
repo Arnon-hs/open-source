@@ -25,9 +25,9 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "ChatLab":
+Here's a brief summary of the ChatLab project in 2-3 sentences:
 
-ChatLab is an open-source tool that utilizes AI-powered analysis to help users rediscover and relive their local social memories. This locally stored chat record analysis tool utilizes an AI agent to provide a nostalgic and personal experience. By leveraging AI and machine learning, ChatLab offers a unique way to revisit and cherish past conversations and interactions.
+ChatLab is an open-source, AI-powered tool that helps you rediscover your social memories by analyzing local chat records. Leveraging machine learning capabilities, it uses an AI Agent to provide a unique perspective on your past conversations. This project enables users to locally review and reflect on their social interactions.
 
 ---
 

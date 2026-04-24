@@ -25,7 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The itsDNNS/docsight project is a self-hosted, open-source system for documenting and tracking DOCSIS-related issues, including cable signal problems and poor ISP performance. This platform provides a centralized hub for incident tracking, signal health monitoring, and generating complaint-ready exports for streamlined reporting. By utilizing itsDNNS/docsight, users can efficiently prove and resolve cable signal issues.
+The itsDNNS/docsight project is an open-source, self-hosted platform designed to aid in the documentation and resolution of cable signal and ISP-related issues. It provides a centralized system for tracking incidents, monitoring signal health, and generating complaint-ready exports, making it a valuable tool for users seeking to resolve connectivity problems. By using this platform, users can collect and analyze evidence to support their claims, facilitating more effective issue resolution.
 
 ---
 

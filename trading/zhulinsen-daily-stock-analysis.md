@@ -25,9 +25,9 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary for the open-source project:
 
-ZhuLinsen/daily_stock_analysis is an open-source, AI-driven stock analysis system that integrates real-time market data, news feeds, and machine learning models to provide in-depth insights on A/H/US markets. This comprehensive platform features a dashboard for LLM-driven decision-making and supports multi-channel notifications, allowing for automated and cost-free stock analysis. Zero technical expertise is required to run the system, making it a seamless experience for users.
+The ZhuLinsen/daily_stock_analysis project is an open-source, LLM-powered stock analysis system for A/H/US markets, providing a comprehensive platform for real-time market data, news analysis, and AI-driven decision-making dashboards. This system aggregates data from multiple sources, offers customizable dashboards, and allows for zero-cost, automated execution. By leveraging large language models, users can access actionable insights and stay ahead of market trends at no additional cost.
 
 ---
 

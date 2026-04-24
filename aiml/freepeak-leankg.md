@@ -25,9 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the FreePeak/LeanKG project:
-
-LeanKG is an open-source project aimed at revolutionizing the way developers work with knowledge graphs and AI/ML applications, emphasizing efficiency and cost-effectiveness. By providing a lean and optimized platform, LeanKG enables developers to focus on coding rather than wasting resources on inefficient token-based systems. This innovative project promotes streamlined data management and AI development.
+LeanKG is an open-source project that aims to optimize token usage in AI and ML applications, promoting a more efficient and cost-effective approach to development. By leveraging a lean design, developers can minimize unnecessary token burning and focus on building high-quality, token-efficient models. This project empowers developers to code with a reduced environmental impact, aligning with the principles of sustainable AI development.
 
 ---
 

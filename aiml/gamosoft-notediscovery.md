@@ -25,7 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-NoteDiscovery is an open-source project that enables users to host a self-managed knowledge base on their own infrastructure. This project leverages AI and ML capabilities to provide a robust and customizable platform for collecting, organizing, and retrieving knowledge. By hosting it locally, users can maintain full control over their data and ensure security and compliance with their specific requirements.
+NoteDiscovery is an open-source project that enables users to host their own self-contained knowledge base. This project, developed by gamosoft, leverages AI/ML capabilities to provide users with a powerful and personalized platform for organizing and accessing their knowledge. By hosting this platform locally, users can ensure the security and control of their data.
 
 ---
 

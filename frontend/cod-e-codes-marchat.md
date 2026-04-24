@@ -27,7 +27,7 @@ Frontend · Backend · DevTools
 
 Here's a brief summary of the project:
 
-Marchat is an open-source, self-hosted terminal chat platform designed specifically for developers. It provides a collaborative environment with features such as real-time messaging, end-to-end encryption, reactions, direct messaging, and plugin support. Built with a Go WebSocket server and a Bubble Tea TUI client, Marchat offers flexibility with its choice of databases (SQLite, PostgreSQL, or MySQL) and a user-friendly interface for developers.
+Marchat is an open-source terminal chat platform designed specifically for developers, featuring a WebSocket server and a Bubble Tea TUI (Text User Interface) client with optional end-to-end encryption. The platform offers a range of features, including channels, direct messages, plugins, and file sharing, with support for multiple backends including SQLite, PostgreSQL, and MySQL. Self-hosted and highly customizable, Marchat is an ideal solution for development teams seeking a secure and flexible communication solution.
 
 ---
 

@@ -25,7 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-AgnosticUI Local is an open-source, CLI-based UI component library that allows seamless integration of UI components directly into projects, enabling compatibility with AI tools, agent-driven UIs, and prompt-ready workflows. This library supports efficient orchestration and enhances frontend development experience. It is particularly useful for developers working with AI/ML and automation projects.
+Here's a brief summary for the AgnosticUI project:
+
+AgnosticUI Local is an open-source, CLI-based UI component library that allows developers to seamlessly integrate components into their projects. Designed to work with AI tools, agent-driven UIs, and prompt-ready workflows, it offers a flexible and efficient solution for building and deploying user interfaces. By copying components directly into your project, AgnosticUI simplifies the development process and enhances productivity.
 
 ---
 

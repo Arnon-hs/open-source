@@ -1,6 +1,6 @@
 # decolua/9router
 
-[![Stars](https://img.shields.io/github/stars/decolua/9router?style=flat-square&color=yellow)](https://github.com/decolua/9router/stargazers) [![Forks](https://img.shields.io/github/forks/decolua/9router?style=flat-square&color=blue)](https://github.com/decolua/9router/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/decolua/9router?style=flat-square&color=yellow)](https://github.com/decolua/9router/stargazers) [![Forks](https://img.shields.io/github/forks/decolua/9router?style=flat-square&color=blue)](https://github.com/decolua/9router/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 725 |
+| 🍴 **Forks** | 727 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

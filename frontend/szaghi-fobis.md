@@ -25,9 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the szaghi/FoBiS project:
+Here's a brief summary for the FoBiS project:
 
-FoBiS is an open-source project that provides a comprehensive building system specifically designed for Fortran projects. It simplifies the development and management of Fortran applications by automating build processes, making it easier for developers to focus on their code. With FoBiS, users can efficiently compile, link, and package Fortran projects, streamlining their workflow.
+FoBiS is an open-source, command-line tool for building and managing Fortran projects. As a frontend, FoBiS provides a simple and efficient way to compile, link, and test Fortran code, streamlining the development process for scientists and engineers who use the language. With FoBiS, users can easily configure and execute complex build processes for their Fortran projects.
 
 ---
 

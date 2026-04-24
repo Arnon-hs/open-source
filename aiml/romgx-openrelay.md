@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the romgX/openrelay project:
+Here's a 2-3 sentence summary for the open-source project:
 
-Openrelay provides instant access to hundreds of free AI models for local projects, streamlining the integration process and saving developers time. This open-source tool enables seamless interaction with AI/ML models, facilitating the development and testing of applications with minimal setup required. By offering one-click access, Openrelay simplifies the workflow for backend developers and AI/ML enthusiasts.
+The `romgX/openrelay` project provides a convenient solution for developers to access hundreds of free AI models directly from their local projects. With a simple one-click interface, users can integrate these AI models into their applications without the need for extensive setup or configuration. This open-source tool aims to streamline AI development workflows and accelerate innovation.
 
 ---
 

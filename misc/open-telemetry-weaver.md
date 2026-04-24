@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The open-telemetry/weaver project, also known as OTel Weaver, is an open-source tool that simplifies the development, validation, documentation, and deployment of semantic conventions for observability. It allows developers to create, test, and standardize their observability conventions in a unified manner. By using OTel Weaver, teams can ensure consistency and interoperability across their systems and applications.
+The open-telemetry/weaver project is an open-source tool that enables developers to create, test, and document semantic conventions for OpenTelemetry data. This facilitates consistent and standardized data modeling, ensuring seamless integration and collaboration across different systems and applications. By using OTel Weaver, developers can simplify the development and deployment of OpenTelemetry data conventions.
 
 ---
 

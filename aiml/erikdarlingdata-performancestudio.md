@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-PerformanceStudio is a free, open-source SQL Server execution plan analyzer that offers a cross-platform GUI and CLI with 30 built-in analysis rules. It also features a missing index detection tool and a seamless integration with SQL Server Management Studio (SSMS) as an extension, making it easy to optimize database performance. With its built-in MCP server, the tool provides AI-assisted plan review capabilities for expert-level optimization.
+PerformanceStudio is a free, open-source SQL Server execution plan analyzer that offers a cross-platform GUI and CLI interface. This tool features 30 analysis rules and capabilities for missing index detection, and can also be integrated with SSMS as an extension. It includes a built-in MCP (Machine Learning-based) server for AI-assisted plan review and optimization.
 
 ---
 

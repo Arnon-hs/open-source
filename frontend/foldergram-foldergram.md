@@ -1,6 +1,6 @@
 # foldergram/foldergram
 
-[![Stars](https://img.shields.io/github/stars/foldergram/foldergram?style=flat-square&color=yellow)](https://github.com/foldergram/foldergram/stargazers) [![Forks](https://img.shields.io/github/forks/foldergram/foldergram?style=flat-square&color=blue)](https://github.com/foldergram/foldergram/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/foldergram/foldergram?style=flat-square&color=yellow)](https://github.com/foldergram/foldergram/stargazers) [![Forks](https://img.shields.io/github/forks/foldergram/foldergram?style=flat-square&color=blue)](https://github.com/foldergram/foldergram/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted folder-based Instagram-style photo and video gallery app.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 326 |
-| 🍴 **Forks** | 14 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

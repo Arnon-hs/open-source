@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the Kuberwastaken/claurst project:
-
-Claurst is an open-source, Rust-based Terminal Coding Agent that brings AI-driven coding capabilities to your command line interface. This project offers a powerful tool for developers, leveraging machine learning to enhance coding efficiency and productivity. By integrating AI-driven coding features, Claurst empowers users to write code more efficiently and effectively.
+The claurst project is an open-source, Rust-based terminal coding agent that offers a convenient interface for developers to interact with AI and machine learning technologies. This innovative tool aims to bridge the gap between coding and AI, empowering users to harness the power of machine learning models within their familiar terminal environments. By leveraging Rust's performance and security benefits, claurst provides a reliable platform for developers to explore AI and ML capabilities.
 
 ---
 

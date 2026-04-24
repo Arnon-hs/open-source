@@ -25,9 +25,9 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
+Here's a brief summary for the open-source project:
 
-The Financial Modeling Prep MCP Server is an open-source implementation of the Model Context Protocol (MCP) designed for financial modeling. This project enables AI assistants to access and analyze vast amounts of financial data, including stock information, company fundamentals, and market insights. By providing a standardized interface for data integration, it facilitates the development of advanced financial modeling capabilities.
+This project, Financial Modeling Prep MCP Server, is an open-source implementation of the Model Context Protocol (MCP) designed for financial modeling. It enables AI assistants to seamlessly access and analyze various types of financial data, including stock information, company fundamentals, and market insights. By leveraging the MCP Server, users can unlock the potential of AI-powered financial modeling and analytics.
 
 ---
 

@@ -25,7 +25,9 @@ Frontend · Data
 
 ## 📝 Summary
 
-Geopulse is an open-source, self-hosted platform that offers a private location timeline, providing users with an alternative to Google Timeline. This platform features automatic trip detection, integration with Immich, and in-depth analytics, giving users greater control over their location data. By hosting Geopulse independently, users can maintain their location history securely and with complete transparency.
+Here's a brief summary of the tess1o/geopulse project:
+
+Geopulse is a self-hosted, open-source platform that provides a private location timeline, allowing users to track and analyze their movements with automatic trip detection and integration with Immich. This location timeline platform serves as a secure alternative to Google Timeline, giving users full control over their data. Geopulse offers rich analytics, empowering users to gain insights into their daily habits and travels.
 
 ---
 

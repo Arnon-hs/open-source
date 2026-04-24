@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-AppClaw is an open-source, AI-powered mobile automation agent that uses machine learning to read, reason, and act on mobile screens. Leveraging Large Language Model (LLM) technology, AppClaw enables automated testing and automation of mobile applications with no telemetry data collection. This zero-telemetry approach ensures the utmost privacy and flexibility for users.
+Here's a brief summary of the AppClaw project:
+
+AppClaw is an open-source, AI-powered mobile automation agent that enables intelligent interaction with mobile applications. It uses machine learning to read and understand the screen, reason about its content, and take actions accordingly, making it an efficient tool for automating mobile app testing and other tasks. This LLM-agnostic solution provides zero telemetry, ensuring complete control over data and a high degree of customization.
 
 ---
 

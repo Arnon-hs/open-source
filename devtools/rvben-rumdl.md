@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Rumdl is an open-source, fast Markdown linter and formatter written in Rust. It offers a robust set of features to ensure your Markdown content adheres to best practices and is error-free. By utilizing Rust for its development, Rumdl achieves high performance and efficiency, making it an ideal choice for developers and content creators alike.
+This open-source project, rumdl, is a fast and efficient Markdown linter and formatter written in Rust. It provides developers with a robust tool to check and improve the quality of their Markdown files, ensuring consistency and readability. By leveraging Rust's speed and performance, rumdl enables users to quickly and accurately format their Markdown content.
 
 ---
 
