@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the oterm project:
+Here's a summary for the ggozad/oterm project:
 
-oterm is an open-source terminal client for Ollama, enabling users to interact with the AI platform directly from their command line interface. This project provides an intuitive and accessible way to harness the capabilities of Ollama, streamlining the development experience for AI and machine learning applications. With oterm, users can easily integrate the power of Ollama into their workflow.
+Oterm is an open-source terminal client designed specifically for interacting with the Ollama platform, allowing users to access its features and capabilities from the comfort of their terminal. Developed with AI/ML and DevTools in mind, this client provides a convenient and efficient interface for leveraging Ollama's capabilities. With Oterm, users can streamline their workflow and tap into the power of Ollama's technology.
 
 ---
 

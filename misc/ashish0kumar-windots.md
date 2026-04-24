@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The windots project is an open-source collection of configuration files and settings that detail the creator's custom Windows setup. This repository provides insights into the user's desktop experience, including themes, software, and other personalization elements. It serves as a resource for users looking to replicate or customize their own Windows environment.
+The windots project is an open-source repository showcasing the personal Windows setup of its creator. It provides a detailed look into the customizations and configurations used to optimize the user experience on a Windows system. This setup can serve as a valuable resource for individuals seeking inspiration or guidance for their own Windows configurations.
 
 ---
 

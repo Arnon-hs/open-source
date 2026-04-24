@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the pydio/cells project:
-
-Pydio/cells is an open-source, future-proof content collaboration platform that enables users to securely share and manage files across different locations and devices. This backend platform provides a robust and scalable infrastructure for content collaboration, allowing organizations to streamline their file management and workflow processes. With its open-source nature, pydio/cells offers flexibility and customization options for tailoring the platform to specific business needs.
+Cells is an open-source, future-proof content collaboration platform designed for high-performance backend applications. This platform enables users to securely store, manage, and share content across various devices and systems, fostering seamless collaboration in a flexible and scalable environment. With Cells, developers can build robust and customizable applications that cater to diverse business needs.
 
 ---
 

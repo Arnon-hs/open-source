@@ -25,7 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-The datagouv/datagouv-mcp project is an open-source server that enables AI chatbots to interact with the French national Open Data platform (data.gouv.fr) through natural conversation. This allows chatbots to search, explore, and analyze datasets directly, making it easier to access and utilize government data. By using the Model Context Protocol (MCP), this project facilitates seamless integration between AI and open data platforms.
+The datagouv-mcp open-source project enables AI chatbots to interact with the French national Open Data platform, data.gouv.fr, through a conversational interface. This Model Context Protocol (MCP) server allows chatbots to search, explore, and analyze datasets directly, streamlining the process of discovering and utilizing public data. By leveraging this project, developers can integrate data.gouv.fr into their AI applications, promoting data-driven innovation and transparency.
 
 ---
 

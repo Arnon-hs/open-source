@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the UnicomAI/wanwu project:
+Here's a brief summary of the UnicomAI/wanwu project:
 
-The UnicomAI/wanwu platform is an open-source, enterprise-grade AI agent development platform that enables users to build intelligent applications, workflows, and more. It features a developer-friendly license and supports model management, making it an ideal choice for developers looking to build upon its capabilities. This multi-tenant platform is designed to simplify the development of AI-powered applications.
+China Unicom's Yuanjing Wanwu Agent Platform is a multi-tenant AI agent development platform designed for enterprise-grade applications. It allows users to build intelligent agents, workflows, and other applications, while also managing models in a centralized manner. This open-source platform is developer-friendly, offering a license that welcomes contributions from the community.
 
 ---
 

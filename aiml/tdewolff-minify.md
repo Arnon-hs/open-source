@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The tdewolff/minify project is an open-source collection of Go minifiers for various web formats, aiming to optimize and compress files. It includes tools for minifying popular web formats such as JavaScript, CSS, and HTML, making it a valuable resource for web developers and performance enthusiasts. By using these minifiers, developers can reduce the size of their files and improve page load times.
+The tdewolff/minify project is an open-source collection of Go minifiers designed to optimize web formats, including HTML, CSS, and JavaScript. These minifiers aim to reduce file sizes by removing unnecessary characters and whitespace, improving page loading speeds and overall user experience. By leveraging Go, the project offers a robust and efficient way to minify web assets.
 
 ---
 

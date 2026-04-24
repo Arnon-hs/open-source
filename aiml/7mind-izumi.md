@@ -25,9 +25,7 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the 7mind/izumi project:
-
-Izumi is an open-source collection of lightweight tools designed to enhance productivity within the Scala ecosystem. This product-oriented toolkit offers a range of fancy features aimed at improving the development experience, making it a valuable resource for Scala developers. With its focus on AI/ML and DevTools, izumi streamlines the development process, saving time and effort for developers and teams.
+The 7mind/izumi project is an open-source collection of lightweight, productivity-oriented tools designed to enhance the Scala toolchain. This suite of tools is geared towards improving developer efficiency and effectiveness in AI/ML and software development. By providing a range of fancy, yet lightweight features, izumi aims to simplify the development process and promote better productivity.
 
 ---
 

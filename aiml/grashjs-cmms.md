@@ -25,7 +25,7 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-Grashjs/cmms is a free, self-hosted Computerized Maintenance Management System (CMMS) that enables enterprises to manage their maintenance needs through a user-friendly web and mobile application. This open-source project empowers organizations to streamline their maintenance operations without incurring costs, leveraging AI/ML capabilities for enhanced efficiency. By utilizing Grashjs/cmms, businesses can optimize their maintenance workflows and improve overall productivity.
+Grashjs/cmms is a free, open-source Computerized Maintenance Management System (CMMS) that enables self-hosted management of enterprise maintenance. This web and mobile application allows businesses to efficiently track and manage maintenance activities, streamlining their operations. By leveraging AI/ML capabilities, Grashjs/cmms aims to provide a comprehensive and scalable solution for maintenance management.
 
 ---
 

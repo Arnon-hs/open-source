@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The openfoodfacts/openfoodfacts-server project is an open-source database, API server, and web interface for Open Food Facts, a collaborative platform for collecting and sharing food information. This project relies on contributions from developers with expertise in Perl, CSS, and JS, with additional support for Python through the Robotoff and taxonomy-editor initiatives. By leveraging collective efforts, the platform aims to provide a comprehensive and accessible source of food data.
+The openfoodfacts/openfoodfacts-server project is an open-source initiative that maintains a comprehensive database of food products, providing a robust API server and web interface for users to access and contribute to this information. This project is a collaborative effort that welcomes contributors with expertise in Perl, CSS, and JavaScript development. It also utilizes Python-based projects such as Robotoff and taxonomy-editor for additional functionality.
 
 ---
 

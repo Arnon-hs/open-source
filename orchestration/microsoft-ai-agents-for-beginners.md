@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 59.1k |
+| ⭐ **Stars** | 59.2k |
 | 🍴 **Forks** | 20.1k |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 100/100 |
@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, "AI Agents for Beginners," offers a comprehensive 12-lesson course aimed at helping developers get started with building AI agents. It covers the basics of AI and machine learning, providing users with the skills necessary to create and implement AI solutions. By following this course, developers can gain hands-on experience with AI and start building their own intelligent agents.
+The "microsoft/ai-agents-for-beginners" project is an open-source initiative that provides a comprehensive framework for beginners to learn and build AI agents. This project consists of 12 in-depth lessons that cover the fundamentals of AI development, making it an ideal resource for those looking to dive into the world of artificial intelligence. With its accessible and structured approach, this project enables users to gain hands-on experience in building AI agents.
 
 ---
 

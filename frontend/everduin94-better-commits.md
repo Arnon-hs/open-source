@@ -25,9 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "Everduin94/better-commits":
+Here's a brief summary of the open-source project "better-commits":
 
-"Better-commits is a command-line interface (CLI) tool that helps developers create high-quality commits following the conventional commits specification. It streamlines the commit creation process, ensuring consistency and clarity in commit messages. This project aims to simplify the workflow and improve code readability by adhering to established best practices."
+This open-source project, "better-commits," provides a command-line interface (CLI) for creating high-quality, standardized commits that adhere to the conventional commits specification. The tool helps developers maintain a consistent and readable commit history, making it easier to understand and navigate code changes. By utilizing "better-commits," developers can streamline their commit process and improve the overall quality of their project's version control history.
 
 ---
 

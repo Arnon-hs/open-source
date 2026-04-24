@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Claude Code Skills is an open-source project that provides a comprehensive plugin suite and bundled Multi-Cloud Platform (MCP) servers, enabling a full delivery lifecycle for software development. This includes features such as multi-model AI review, project bootstrap, documentation generation, codebase audits, and performance optimization. The suite also includes advanced MCP servers like hex-line, hex-graph, and hex-ssh, enhancing the development experience with features like hash-verified editing, code knowledge graphs, and remote SSH access.
+Here's a brief summary for the open-source project:
+
+Claude Code Skills is an open-source plugin suite that integrates AI-driven development tools into the Claude Code platform. This comprehensive suite covers the entire delivery lifecycle, from agile pipeline management to codebase audits and performance optimization, with features like AI-powered review, documentation generation, and remote SSH capabilities. It includes three key MCP servers: hex-line for secure editing, hex-graph for coding knowledge graphs, and hex-ssh for remote access.
 
 ---
 

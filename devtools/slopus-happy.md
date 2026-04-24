@@ -25,9 +25,7 @@ DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the 'slopus/happy' open-source project:
-
-The 'happy' project is an open-source, mobile and web client that provides real-time voice functionality, robust encryption, and a comprehensive set of features for interacting with Codex and Claude Code. This secure and feature-rich client enables users to access and utilize the capabilities of Codex and Claude Code with ease and confidence. With its DevTools and Security focus, 'happy' aims to make seamless communication and collaboration possible in a secure environment.
+The slopus/happy project is an open-source, cross-platform client for Codex and Claude Code that provides real-time voice communication, encryption for secure conversations, and a range of advanced features. This mobile and web client prioritizes user security and convenience, making it an attractive option for developers and users alike. With its robust feature set and open-source nature, slopus/happy aims to revolutionize the way people interact with these powerful AI tools.
 
 ---
 

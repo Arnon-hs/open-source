@@ -27,7 +27,7 @@ AI/ML
 
 Here's a brief summary for the open-source project:
 
-"Smart2Brain is an Obsidian plugin that seamlessly integrates with your preferred AI assistant, enhancing your second brain with intelligent insights and automation. This plugin streamlines information flow between your note-taking system and AI assistant, unlocking new possibilities for knowledge organization and cognitive efficiency. By bridging the gap between your notes and AI capabilities, Smart2Brain takes your Obsidian experience to the next level."
+"Smart2Brain is an Obsidian plugin that seamlessly integrates with your privacy-focused AI Assistant, enhancing your second brain with intelligent insights and capabilities. This innovative plugin enables users to leverage the power of AI to unlock new levels of productivity and knowledge management. By bridging the gap between your brain and your AI Assistant, Smart2Brain streamlines your workflow and takes your Obsidian experience to the next level."
 
 ---
 

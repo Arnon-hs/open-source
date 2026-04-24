@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The "awesome-generative-ai" project is an open-source, curated list of modern Generative Artificial Intelligence (AI) projects and services. It provides a comprehensive and organized collection of cutting-edge AI resources, including tools, libraries, and applications. This project aims to facilitate the exploration and discovery of innovative AI technologies.
+This open-source project, "awesome-generative-ai," is a comprehensive collection of modern Generative Artificial Intelligence (AI) projects and services. It serves as a valuable resource for those interested in exploring the latest advancements in generative AI, including its applications and implementations. By curating a list of notable projects, the repository aims to facilitate collaboration and knowledge-sharing within the AI community.
 
 ---
 

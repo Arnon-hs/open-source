@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The numa project is an open-source, portable DNS resolver written in Rust. It allows for local domain resolution, ad blocking, and customizable overrides for developers. This tool provides users with a flexible and high-performance DNS resolution solution for their applications.
+The numa project is an open-source, portable DNS resolver written in Rust that allows for flexible domain management and ad blocking capabilities. It enables users to create local domains (.numa) for easier testing and development, while also providing developer overrides for custom DNS resolution. This tool is suitable for developers and organizations seeking a customizable and efficient DNS resolution solution.
 
 ---
 

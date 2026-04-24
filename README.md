@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3061** |
+| 🗂️ **Total projects** | **3153** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1164 | [Browse →](./aiml/) |
-| 📦 **Misc** | 477 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 336 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 274 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 191 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 159 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 122 | [Browse →](./crypto/) |
-| 📊 **Data** | 89 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 72 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 43 | [Browse →](./payments/) |
-| 📱 **Mobile** | 40 | [Browse →](./mobile/) |
-| 🔐 **Security** | 34 | [Browse →](./security/) |
+| 🤖 **AI/ML** | 1190 | [Browse →](./aiml/) |
+| 📦 **Misc** | 494 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 344 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 291 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 200 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 163 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 127 | [Browse →](./crypto/) |
+| 📊 **Data** | 90 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 75 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 44 | [Browse →](./payments/) |
+| 📱 **Mobile** | 41 | [Browse →](./mobile/) |
 | 📈 **Trading** | 34 | [Browse →](./trading/) |
+| 🔐 **Security** | 34 | [Browse →](./security/) |
 | ✨ **Design** | 12 | [Browse →](./design/) |
 | 🎯 **Product** | 11 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 3 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [apache/dubbo](./backend/apache-dubbo.md) | ⭐ 41.6k | Backend |
-| 2 | [fastapi/fastapi](./frontend/fastapi-fastapi.md) | ⭐ 97.6k | Frontend |
-| 3 | [prometheus/alertmanager](./aiml/prometheus-alertmanager.md) | ⭐ 8.4k | AI/ML |
-| 4 | [DIYgod/RSSHub](./misc/diygod-rsshub.md) | ⭐ 43.6k | Misc |
-| 5 | [steven2358/awesome-generative-ai](./aiml/steven2358-awesome-generative-ai.md) | ⭐ 11.9k | AI/ML |
-| 6 | [ory/kratos](./aiml/ory-kratos.md) | ⭐ 13.6k | AI/ML |
-| 7 | [microsoft/ai-agents-for-beginners](./orchestration/microsoft-ai-agents-for-beginners.md) | ⭐ 59.1k | Orchestration |
-| 8 | [volcengine/OpenViking](./aiml/volcengine-openviking.md) | ⭐ 23k | AI/ML |
-| 9 | [biomejs/biome](./aiml/biomejs-biome.md) | ⭐ 24.5k | AI/ML |
-| 10 | [MODSetter/SurfSense](./orchestration/modsetter-surfsense.md) | ⭐ 14k | Orchestration |
+| 1 | [k2-fsa/sherpa-onnx](./backend/k2-fsa-sherpa-onnx.md) | ⭐ 11.8k | Backend |
+| 2 | [PaddlePaddle/PaddleOCR](./aiml/paddlepaddle-paddleocr.md) | ⭐ 76.4k | AI/ML |
+| 3 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 4 | [comet-ml/opik](./orchestration/comet-ml-opik.md) | ⭐ 19k | Orchestration |
+| 5 | [sktime/sktime](./aiml/sktime-sktime.md) | ⭐ 9.7k | AI/ML |
+| 6 | [apache/seatunnel](./aiml/apache-seatunnel.md) | ⭐ 9.3k | AI/ML |
+| 7 | [lobehub/lobehub](./orchestration/lobehub-lobehub.md) | ⭐ 75.6k | Orchestration |
+| 8 | [goauthentik/authentik](./aiml/goauthentik-authentik.md) | ⭐ 21.1k | AI/ML |
+| 9 | [unslothai/unsloth](./aiml/unslothai-unsloth.md) | ⭐ 62.8k | AI/ML |
+| 10 | [dgtlmoon/changedetection.io](./backend/dgtlmoon-changedetection.io.md) | ⭐ 31.2k | Backend |
 
 ## 🚀 How it works
 

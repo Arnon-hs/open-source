@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Remorses/playwriter is an open-source Chrome extension that empowers agents to control browsers via a sandboxed environment, utilizing Playwright snippets. It provides a stateful sandbox for running automated browser tasks, available as both a command-line interface (CLI) and a managed control plane (MCP). This tool caters to AI/ML and DevTools applications.
+Here's a brief summary for the remorses/playwriter project:
+
+remorses/playwriter is an open-source Chrome extension that enables agents to control a browser, providing a stateful sandbox to run Playwright snippets. This project offers both a command-line interface (CLI) and a Machine Control Protocol (MCP) for seamless integration. It combines AI/ML capabilities with DevTools functionality, making it a versatile tool for developers and agents alike.
 
 ---
 

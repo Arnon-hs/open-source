@@ -9,9 +9,9 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 23.8k | Python | 100/100 |
-| 2 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | — | 100/100 |
-| 3 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.2k | TypeScript | 100/100 |
-| 4 | [hiyouga/LlamaFactory](./hiyouga-llamafactory.md) | ⭐ 70.6k | Python | 100/100 |
+| 2 | [hiyouga/LlamaFactory](./hiyouga-llamafactory.md) | ⭐ 70.6k | Python | 100/100 |
+| 3 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | — | 100/100 |
+| 4 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.2k | TypeScript | 100/100 |
 | 5 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 100/100 |
 | 6 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
 | 7 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | HTML | 100/100 |
@@ -38,10 +38,10 @@
 | 28 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 768 | Rust | 54/100 |
 | 29 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
 | 30 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 532 | Swift | 54/100 |
-| 31 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 382 | Python | 53/100 |
+| 31 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 384 | Python | 53/100 |
 | 32 | [tolinkshare2/tolinkshare2.github.io](./tolinkshare2-tolinkshare2.github.io.md) | ⭐ 380 | — | 53/100 |
 | 33 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 52/100 |
-| 34 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 113 | Go | 51/100 |
+| 34 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 115 | Go | 51/100 |
 
 ---
 

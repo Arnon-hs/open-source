@@ -25,7 +25,9 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Plik is an open-source, temporary file upload system built with Go, allowing users to share files securely and efficiently, similar to services like WeTransfer. This DevOps/Infra project provides a simple and scalable solution for uploading and sharing files, ideal for use cases where temporary storage is required. Plik's open-source nature enables developers to customize and extend its functionality to suit their specific needs.
+Here's a brief summary for the root-gg/plik project:
+
+Plik is a temporary file upload system, inspired by WeTransfer, allowing users to securely share files of various sizes without the need for permanent storage. Built with Go, Plik is an open-source, DevOps-friendly solution for file transfer needs. It provides a simple and efficient way to share files temporarily, making it ideal for ad-hoc data transfer scenarios.
 
 ---
 

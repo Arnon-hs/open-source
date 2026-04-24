@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the metabot open-source project:
+Here's a brief summary of the metabot project in English:
 
-The metabot project provides a foundational infrastructure for building supervised, self-improving agent organizations. It enables the development of AI/ML agents that can share memory, execute tasks, communicate through a unified bus, and utilize a shared factory for agent creation. This open-source project aims to simplify the orchestration and deployment of complex AI systems, making it a valuable tool for developers and researchers in the field of AI/ML.
+Metabot is an open-source infrastructure for building supervised, self-improving agent organizations. It provides a shared memory, agent factory, scheduling, and communication bus, allowing for seamless integration with popular AI engines like Claude Code and Kimi Code. This platform enables the development of complex, adaptive systems that can learn and evolve over time through continuous improvement.
 
 ---
 

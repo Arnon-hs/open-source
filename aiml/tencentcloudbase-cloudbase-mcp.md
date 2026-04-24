@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the project:
 
-CloudBase MCP is an open-source project that enables seamless integration of CloudBase with AI agents, allowing developers to rapidly build and deploy live apps from AI-generated prompts. This connection simplifies the process of turning AI ideas into reality, bridging the gap between AI innovation and live application deployment. With CloudBase MCP, developers can focus on building innovative AI-powered applications without worrying about the underlying infrastructure.
+CloudBase MCP is an open-source project that enables seamless integration between TencentCloudBase and AI agents, streamlining the development of live apps from AI prompts. This tool facilitates effective communication between AI and backend technologies, accelerating the development process. By leveraging CloudBase MCP, developers can quickly turn AI-driven ideas into reality.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-Dante Cloud is an open-source, cloud-native microservices foundation that supports both blocking and reactive services in parallel. Designed with a domain-driven design (DDD) approach, it prioritizes high-quality code and low-security vulnerabilities, while being highly modularized and componentized. This framework is suitable for IoT device authentication, national security standards, and interface encryption, making it a versatile solution for enterprise-level, multi-tenant microservices applications.
+Here's a 2-3 sentence summary of the project:
+
+Dante Cloud is an open-source, cloud-native microservices framework that supports both blocking and reactive services concurrency. Built with a domain-driven design (DDD) approach, it prioritizes high-quality code and low security vulnerabilities, with features such as IoT device authentication and multi-tenancy support. This flexible platform enables seamless switching between microservices and monolithic architectures, meeting national security standards and providing a robust enterprise-level solution.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**89 projects** in this category.
+**90 projects** in this category.
 
 ## Projects
 
@@ -10,24 +10,24 @@
 |---|---|---|---|---|
 | 1 | [pola-rs/polars](./pola-rs-polars.md) | ⭐ 38.3k | Rust | 100/100 |
 | 2 | [tikv/tikv](./tikv-tikv.md) | ⭐ 16.6k | Rust | 100/100 |
-| 3 | [apache/beam](./apache-beam.md) | ⭐ 8.6k | Java | 100/100 |
-| 4 | [trinodb/trino](./trinodb-trino.md) | ⭐ 12.8k | Java | 100/100 |
-| 5 | [mickael-kerjean/filestash](./mickael-kerjean-filestash.md) | ⭐ 14.1k | Go | 100/100 |
-| 6 | [cython/cython](./cython-cython.md) | ⭐ 10.7k | Cython | 100/100 |
-| 7 | [yugabyte/yugabyte-db](./yugabyte-yugabyte-db.md) | ⭐ 10.2k | C | 100/100 |
-| 8 | [apache/datafusion](./apache-datafusion.md) | ⭐ 8.6k | Rust | 100/100 |
-| 9 | [VictoriaMetrics/VictoriaMetrics](./victoriametrics-victoriametrics.md) | ⭐ 16.9k | Go | 100/100 |
-| 10 | [apache/spark](./apache-spark.md) | ⭐ 43.2k | Scala | 100/100 |
-| 11 | [matplotlib/matplotlib](./matplotlib-matplotlib.md) | ⭐ 22.7k | Python | 100/100 |
-| 12 | [debezium/debezium](./debezium-debezium.md) | ⭐ 12.6k | Java | 100/100 |
-| 13 | [apache/hudi](./apache-hudi.md) | ⭐ 6.1k | Java | 100/100 |
-| 14 | [protocolbuffers/protobuf](./protocolbuffers-protobuf.md) | ⭐ 71.1k | C++ | 100/100 |
-| 15 | [hazelcast/hazelcast](./hazelcast-hazelcast.md) | ⭐ 6.6k | Java | 100/100 |
-| 16 | [scylladb/scylladb](./scylladb-scylladb.md) | ⭐ 15.5k | C++ | 99/100 |
-| 17 | [prometheus/prometheus](./prometheus-prometheus.md) | ⭐ 63.7k | Go | 99/100 |
+| 3 | [cython/cython](./cython-cython.md) | ⭐ 10.7k | Cython | 100/100 |
+| 4 | [yugabyte/yugabyte-db](./yugabyte-yugabyte-db.md) | ⭐ 10.2k | C | 100/100 |
+| 5 | [VictoriaMetrics/VictoriaMetrics](./victoriametrics-victoriametrics.md) | ⭐ 16.9k | Go | 100/100 |
+| 6 | [hazelcast/hazelcast](./hazelcast-hazelcast.md) | ⭐ 6.6k | Java | 100/100 |
+| 7 | [apache/spark](./apache-spark.md) | ⭐ 43.2k | Scala | 100/100 |
+| 8 | [matplotlib/matplotlib](./matplotlib-matplotlib.md) | ⭐ 22.7k | Python | 100/100 |
+| 9 | [debezium/debezium](./debezium-debezium.md) | ⭐ 12.6k | Java | 100/100 |
+| 10 | [apache/hudi](./apache-hudi.md) | ⭐ 6.1k | Java | 100/100 |
+| 11 | [protocolbuffers/protobuf](./protocolbuffers-protobuf.md) | ⭐ 71.1k | C++ | 100/100 |
+| 12 | [apache/beam](./apache-beam.md) | ⭐ 8.6k | Java | 100/100 |
+| 13 | [trinodb/trino](./trinodb-trino.md) | ⭐ 12.8k | Java | 100/100 |
+| 14 | [mickael-kerjean/filestash](./mickael-kerjean-filestash.md) | ⭐ 14.1k | Go | 100/100 |
+| 15 | [apache/datafusion](./apache-datafusion.md) | ⭐ 8.6k | Rust | 100/100 |
+| 16 | [badges/shields](./badges-shields.md) | ⭐ 26.5k | JavaScript | 99/100 |
+| 17 | [prometheus/prometheus](./prometheus-prometheus.md) | ⭐ 63.8k | Go | 99/100 |
 | 18 | [apache/hive](./apache-hive.md) | ⭐ 6k | Java | 99/100 |
-| 19 | [badges/shields](./badges-shields.md) | ⭐ 26.5k | JavaScript | 99/100 |
-| 20 | [redpanda-data/connect](./redpanda-data-connect.md) | ⭐ 8.6k | Go | 99/100 |
+| 19 | [redpanda-data/connect](./redpanda-data-connect.md) | ⭐ 8.6k | Go | 99/100 |
+| 20 | [scylladb/scylladb](./scylladb-scylladb.md) | ⭐ 15.5k | C++ | 99/100 |
 | 21 | [pandas-dev/pandas](./pandas-dev-pandas.md) | ⭐ 48.6k | Python | 97/100 |
 | 22 | [opensearch-project/OpenSearch](./opensearch-project-opensearch.md) | ⭐ 12.8k | Java | 97/100 |
 | 23 | [vitessio/vitess](./vitessio-vitess.md) | ⭐ 20.9k | Go | 97/100 |
@@ -36,13 +36,13 @@
 | 26 | [scikit-learn/scikit-learn](./scikit-learn-scikit-learn.md) | ⭐ 65.9k | Python | 96/100 |
 | 27 | [mongodb/mongo-go-driver](./mongodb-mongo-go-driver.md) | ⭐ 8.5k | Go | 96/100 |
 | 28 | [python-visualization/folium](./python-visualization-folium.md) | ⭐ 7.4k | Python | 96/100 |
-| 29 | [sacridini/Awesome-Geospatial](./sacridini-awesome-geospatial.md) | ⭐ 5k | — | 95/100 |
-| 30 | [OSGeo/gdal](./osgeo-gdal.md) | ⭐ 5.9k | C++ | 95/100 |
-| 31 | [mongodb/mongo](./mongodb-mongo.md) | ⭐ 28.3k | C++ | 95/100 |
-| 32 | [awesomedata/awesome-public-datasets](./awesomedata-awesome-public-datasets.md) | ⭐ 74.2k | — | 95/100 |
+| 29 | [OSGeo/gdal](./osgeo-gdal.md) | ⭐ 5.9k | C++ | 95/100 |
+| 30 | [mongodb/mongo](./mongodb-mongo.md) | ⭐ 28.3k | C++ | 95/100 |
+| 31 | [awesomedata/awesome-public-datasets](./awesomedata-awesome-public-datasets.md) | ⭐ 74.2k | — | 95/100 |
+| 32 | [sacridini/Awesome-Geospatial](./sacridini-awesome-geospatial.md) | ⭐ 5k | — | 95/100 |
 | 33 | [tursodatabase/turso](./tursodatabase-turso.md) | ⭐ 18.4k | Rust | 94/100 |
-| 34 | [apache/pinot](./apache-pinot.md) | ⭐ 6.1k | Java | 91/100 |
-| 35 | [paradedb/paradedb](./paradedb-paradedb.md) | ⭐ 8.7k | Rust | 91/100 |
+| 34 | [paradedb/paradedb](./paradedb-paradedb.md) | ⭐ 8.7k | Rust | 91/100 |
+| 35 | [apache/pinot](./apache-pinot.md) | ⭐ 6.1k | Java | 91/100 |
 | 36 | [enso-org/enso](./enso-org-enso.md) | ⭐ 7.4k | Java | 90/100 |
 | 37 | [google/osv-scanner](./google-osv-scanner.md) | ⭐ 9.2k | Go | 89/100 |
 | 38 | [Openpanel-dev/openpanel](./openpanel-dev-openpanel.md) | ⭐ 5.7k | TypeScript | 88/100 |
@@ -56,8 +56,8 @@
 | 46 | [pgdogdev/pgdog](./pgdogdev-pgdog.md) | ⭐ 4.3k | Rust | 79/100 |
 | 47 | [apache/datafusion-sqlparser-rs](./apache-datafusion-sqlparser-rs.md) | ⭐ 3.4k | Rust | 78/100 |
 | 48 | [linuxfoundation/crowd.dev](./linuxfoundation-crowd.dev.md) | ⭐ 3.4k | TypeScript | 78/100 |
-| 49 | [cberner/redb](./cberner-redb.md) | ⭐ 4.5k | Rust | 76/100 |
-| 50 | [opensearch-project/OpenSearch-Dashboards](./opensearch-project-opensearch-dashboards.md) | ⭐ 2k | TypeScript | 76/100 |
+| 49 | [opensearch-project/OpenSearch-Dashboards](./opensearch-project-opensearch-dashboards.md) | ⭐ 2k | TypeScript | 76/100 |
+| 50 | [cberner/redb](./cberner-redb.md) | ⭐ 4.5k | Rust | 76/100 |
 | 51 | [apecloud/kubeblocks](./apecloud-kubeblocks.md) | ⭐ 3k | Go | 75/100 |
 | 52 | [cartography-cncf/cartography](./cartography-cncf-cartography.md) | ⭐ 3.8k | Python | 74/100 |
 | 53 | [posit-dev/positron](./posit-dev-positron.md) | ⭐ 4.1k | TypeScript | 71/100 |
@@ -66,37 +66,38 @@
 | 56 | [apache/datafusion-ballista](./apache-datafusion-ballista.md) | ⭐ 2k | Rust | 68/100 |
 | 57 | [openmc-dev/openmc](./openmc-dev-openmc.md) | ⭐ 1k | Python | 67/100 |
 | 58 | [apache/kudu](./apache-kudu.md) | ⭐ 1.9k | C++ | 67/100 |
-| 59 | [debops/debops](./debops-debops.md) | ⭐ 1.4k | Jinja | 65/100 |
-| 60 | [github/advisory-database](./github-advisory-database.md) | ⭐ 2.2k | — | 65/100 |
-| 61 | [OSGeo/grass](./osgeo-grass.md) | ⭐ 1.1k | C | 64/100 |
-| 62 | [Bouni/kicad-jlcpcb-tools](./bouni-kicad-jlcpcb-tools.md) | ⭐ 1.9k | Python | 64/100 |
+| 59 | [github/advisory-database](./github-advisory-database.md) | ⭐ 2.2k | — | 65/100 |
+| 60 | [debops/debops](./debops-debops.md) | ⭐ 1.4k | Jinja | 65/100 |
+| 61 | [Bouni/kicad-jlcpcb-tools](./bouni-kicad-jlcpcb-tools.md) | ⭐ 1.9k | Python | 64/100 |
+| 62 | [OSGeo/grass](./osgeo-grass.md) | ⭐ 1.1k | C | 64/100 |
 | 63 | [perses/perses](./perses-perses.md) | ⭐ 2.1k | Go | 64/100 |
 | 64 | [facebook/openzl](./facebook-openzl.md) | ⭐ 3k | C | 63/100 |
-| 65 | [rustsec/advisory-db](./rustsec-advisory-db.md) | ⭐ 1.1k | — | 61/100 |
-| 66 | [mdqinc/SDL_GameControllerDB](./mdqinc-sdl-gamecontrollerdb.md) | ⭐ 1.7k | Python | 61/100 |
+| 65 | [iptv-org/database](./iptv-org-database.md) | ⭐ 1.3k | JavaScript | 61/100 |
+| 66 | [rustsec/advisory-db](./rustsec-advisory-db.md) | ⭐ 1.1k | — | 61/100 |
 | 67 | [databricks/terraform-provider-databricks](./databricks-terraform-provider-databricks.md) | ⭐ 586 | Go | 61/100 |
-| 68 | [iptv-org/database](./iptv-org-database.md) | ⭐ 1.3k | JavaScript | 61/100 |
+| 68 | [mdqinc/SDL_GameControllerDB](./mdqinc-sdl-gamecontrollerdb.md) | ⭐ 1.7k | Python | 61/100 |
 | 69 | [dolthub/doltgresql](./dolthub-doltgresql.md) | ⭐ 1.8k | Go | 60/100 |
 | 70 | [projectnessie/nessie](./projectnessie-nessie.md) | ⭐ 1.5k | Java | 60/100 |
-| 71 | [percona/pmm](./percona-pmm.md) | ⭐ 1k | Go | 58/100 |
-| 72 | [DataDog/helm-charts](./datadog-helm-charts.md) | ⭐ 418 | Go | 58/100 |
-| 73 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 603 | PHP | 58/100 |
-| 74 | [apache/datafusion-comet](./apache-datafusion-comet.md) | ⭐ 1.2k | Rust | 58/100 |
-| 75 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 1.7k | PHP | 58/100 |
-| 76 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 57/100 |
-| 77 | [scverse/anndata](./scverse-anndata.md) | ⭐ 734 | Python | 57/100 |
+| 71 | [aboutcode-org/vulnerablecode](./aboutcode-org-vulnerablecode.md) | ⭐ 661 | Python | 59/100 |
+| 72 | [percona/pmm](./percona-pmm.md) | ⭐ 1k | Go | 58/100 |
+| 73 | [DataDog/helm-charts](./datadog-helm-charts.md) | ⭐ 418 | Go | 58/100 |
+| 74 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 1.7k | PHP | 58/100 |
+| 75 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 603 | PHP | 58/100 |
+| 76 | [apache/datafusion-comet](./apache-datafusion-comet.md) | ⭐ 1.2k | Rust | 58/100 |
+| 77 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 57/100 |
 | 78 | [IQSS/dataverse](./iqss-dataverse.md) | ⭐ 1k | Java | 57/100 |
-| 79 | [IvorySQL/IvorySQL](./ivorysql-ivorysql.md) | ⭐ 1k | C | 56/100 |
-| 80 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 55/100 |
-| 81 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 605 | Rust | 55/100 |
-| 82 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 495 | R | 55/100 |
-| 83 | [flanglet/kanzi-go](./flanglet-kanzi-go.md) | ⭐ 624 | Go | 55/100 |
+| 79 | [scverse/anndata](./scverse-anndata.md) | ⭐ 734 | Python | 57/100 |
+| 80 | [IvorySQL/IvorySQL](./ivorysql-ivorysql.md) | ⭐ 1k | C | 56/100 |
+| 81 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 55/100 |
+| 82 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 605 | Rust | 55/100 |
+| 83 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 495 | R | 55/100 |
 | 84 | [Desbordante/desbordante-core](./desbordante-desbordante-core.md) | ⭐ 473 | C++ | 55/100 |
-| 85 | [OpenGeoscience/geojs](./opengeoscience-geojs.md) | ⭐ 470 | JavaScript | 54/100 |
-| 86 | [PostHog/posthog-js](./posthog-posthog-js.md) | ⭐ 537 | TypeScript | 54/100 |
-| 87 | [ormsgpack/ormsgpack](./ormsgpack-ormsgpack.md) | ⭐ 388 | Rust | 53/100 |
-| 88 | [SkBlaz/py3plex](./skblaz-py3plex.md) | ⭐ 181 | Python | 52/100 |
-| 89 | [foxtrotcommunications/foxtrotcommunications-forge-core](./foxtrotcommunications-foxtrotcommunications-forge-core.md) | ⭐ 3 | Python | 44/100 |
+| 85 | [flanglet/kanzi-go](./flanglet-kanzi-go.md) | ⭐ 624 | Go | 55/100 |
+| 86 | [OpenGeoscience/geojs](./opengeoscience-geojs.md) | ⭐ 470 | JavaScript | 54/100 |
+| 87 | [PostHog/posthog-js](./posthog-posthog-js.md) | ⭐ 537 | TypeScript | 54/100 |
+| 88 | [ormsgpack/ormsgpack](./ormsgpack-ormsgpack.md) | ⭐ 388 | Rust | 53/100 |
+| 89 | [SkBlaz/py3plex](./skblaz-py3plex.md) | ⭐ 181 | Python | 52/100 |
+| 90 | [foxtrotcommunications/foxtrotcommunications-forge-core](./foxtrotcommunications-foxtrotcommunications-forge-core.md) | ⭐ 3 | Python | 44/100 |
 
 ---
 

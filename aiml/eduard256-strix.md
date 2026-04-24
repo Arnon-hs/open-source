@@ -25,9 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-Strix is an open-source project that rapidly identifies IP camera streams by testing over 102,000 URL patterns in mere seconds. It supports a vast array of 67,000 camera models, making it a versatile tool for developers and security professionals. Strix also generates pre-configured settings for seamless integration with Frigate and go2rtc, streamlining the process of monitoring and managing IP camera streams.
+The Strix project is an open-source tool designed to efficiently find IP camera streams. It rapidly tests over 102,000 URL patterns within 30 seconds and supports a vast array of 67,000 camera models. Strix also generates pre-configured settings for the Frigate and go2rtc applications.
 
 ---
 

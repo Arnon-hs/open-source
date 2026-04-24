@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Orchard Core is a highly customizable, open-source content management system (CMS) built on top of the ASP.NET Core framework. This modular and multi-tenant platform provides a flexible foundation for developers to create robust web applications. With its ASP.NET Core foundation, Orchard Core offers a scalable and secure solution for building dynamic websites and web applications.
+Orchard Core is an open-source content management system (CMS) and modular application framework built on top of ASP.NET Core. It provides a highly customizable and multi-tenant platform for developing web applications, allowing users to create complex websites and solutions. With its modular design, Orchard Core makes it easy to extend and customize the CMS to meet specific needs.
 
 ---
 

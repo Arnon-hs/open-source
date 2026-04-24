@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"plugNmeet-server is a self-hosted, open-source video conferencing software that offers scalability and customization options. Powered by a robust AI Meeting Agent, this platform provides a seamless and intelligent meeting experience. With plugNmeet-server, users can host secure and efficient virtual meetings from anywhere."
+The plugNmeet-server is an open-source, self-hosted video conferencing solution that provides scalable and customizable features for users. It is integrated with a powerful AI Meeting Agent, enabling intelligent meeting management and assistance. This open-source project offers a flexible and secure alternative to traditional video conferencing services.
 
 ---
 

@@ -1,6 +1,6 @@
 # gooseworks-ai/goose-skills
 
-[![Stars](https://img.shields.io/github/stars/gooseworks-ai/goose-skills?style=flat-square&color=yellow)](https://github.com/gooseworks-ai/goose-skills/stargazers) [![Forks](https://img.shields.io/github/forks/gooseworks-ai/goose-skills?style=flat-square&color=blue)](https://github.com/gooseworks-ai/goose-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gooseworks-ai/goose-skills?style=flat-square&color=yellow)](https://github.com/gooseworks-ai/goose-skills/stargazers) [![Forks](https://img.shields.io/github/forks/gooseworks-ai/goose-skills?style=flat-square&color=blue)](https://github.com/gooseworks-ai/goose-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Library of GTM skills for Claude Code, Codex, Cursor
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 501 |
 | 🍴 **Forks** | 87 |
-| 💻 **Language** | Python |
+| 💻 **Language** | HTML |
 | 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
