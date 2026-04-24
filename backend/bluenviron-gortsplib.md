@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The gortsplib library is an open-source, Go-based implementation of a Real-Time Streaming Protocol (RTSP) client and server, enabling developers to seamlessly interact with RTSP-enabled devices and services. This library provides a robust toolkit for building applications that can stream and receive live video and audio content over IP networks. By utilizing gortsplib, developers can easily integrate RTSP functionality into their Go-based projects.
+The gortsplib library is an open-source, Go-based implementation that provides a comprehensive framework for working with Real-Time Streaming Protocol (RTSP) clients and servers. It enables developers to efficiently build robust and scalable media streaming applications, utilizing features such as RTSP connection management and media processing. This versatile toolset empowers the creation of cutting-edge streaming solutions with ease.
 
 ---
 

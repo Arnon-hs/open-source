@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The cortex project is an open-source, long-term storage solution for Prometheus metrics, designed to provide high availability and scalability in multi-tenant environments. It offers a horizontally scalable architecture to handle large volumes of data, ensuring seamless monitoring and analytics for complex systems. By leveraging cortex, users can store and query Prometheus metrics over extended periods, facilitating data-driven insights and decision-making.
+The Cortex project is an open-source, long-term Prometheus solution designed for high availability and multi-tenancy. It provides a horizontally scalable architecture that supports large volumes of monitoring data, making it suitable for complex and distributed systems. By leveraging Cortex, organizations can efficiently store and manage their monitoring data for extended periods of time.
 
 ---
 

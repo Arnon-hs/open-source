@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Gearlynx is an open-source, multi-platform emulator and debugger for the classic Atari Lynx handheld console, designed for macOS, Windows, Linux, BSD, and RetroArch. This comprehensive toolset provides a detailed development environment for Lynx game and software developers, as well as a robust means for enthusiasts to experience nostalgia. Gearlynx offers an embedded MCP server for seamless integration with other applications and platforms.
+Gearlynx is an open-source project that provides a comprehensive solution for Atari Lynx emulation, featuring a robust emulator, debugger, and embedded MCP (Multi-Cart Protocol) server. This versatile project supports a wide range of operating systems, including macOS, Windows, Linux, BSD, and RetroArch, making it accessible to a broad audience of retro gaming enthusiasts. Gearlynx offers a powerful toolset for developers and gamers alike to explore and enjoy the Atari Lynx library.
 
 ---
 

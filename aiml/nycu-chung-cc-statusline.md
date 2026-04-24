@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the NYCU-Chung/cc-statusline project:
-
-The NYCU-Chung/cc-statusline is an open-source project that provides a comprehensive statusline dashboard for Claude Code, offering valuable insights into session information, quota utilization, and more. This dashboard includes features such as agent tracker, MCP health, and message history, making it an essential tool for developers working with Claude Code. By providing a centralized view of essential information, this project aims to enhance productivity and streamline development workflows.
+The NYCU-Chung/cc-statusline project is an open-source, comprehensive statusline dashboard for Claude Code, providing users with essential information at a glance. This customizable dashboard displays various metrics, such as session details, quota usage, agent status, and MCP health, empowering users to monitor and manage their Claude Code sessions efficiently. By offering a centralized and visually organized interface, cc-statusline streamlines the development experience.
 
 ---
 

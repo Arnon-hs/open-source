@@ -25,7 +25,9 @@ Payments · AI/ML · Mobile
 
 ## 📝 Summary
 
-The Laravel Multipayment Gateways package is an open-source project that simplifies the integration of multiple payment gateways, including Paystack, Flutterwave, and Stripe, into Laravel applications. This package streamlines the process of setting up payment endpoints and webhooks, making it easier to manage transactions and automate payment-related tasks. With this package, developers can focus on building their applications without worrying about the complexities of multiple payment integrations.
+Here's a brief summary for the open-source project:
+
+This Laravel package simplifies the integration of multiple payment gateways, including Paystack, Flutterwave, and Stripe, allowing for seamless implementation of payment endpoints and webhooks. The package reduces the complexity of handling various payment methods, making it easier to manage transactions and reduce development time. With this package, developers can focus on building applications without worrying about the intricacies of payment gateway integrations.
 
 ---
 

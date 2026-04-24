@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Raphire/Win11Debloat is a free, open-source PowerShell script designed to declutter and customize Windows 10 and 11 by removing pre-installed apps, disabling telemetry, and making other tweaks. This lightweight tool empowers users to personalize their Windows experience to their liking. With Win11Debloat, users can take control of their system and remove unnecessary features to boost performance and productivity.
+Here is a brief summary for the Raphire/Win11Debloat project:
+
+Raphire/Win11Debloat is an open-source PowerShell script designed to declutter and customize your Windows experience. This lightweight tool allows users to remove pre-installed applications, disable telemetry, and make various other modifications to tailor their Windows setup. Compatible with both Windows 10 and Windows 11, Win11Debloat provides a simple and effective way to refine your operating system.
 
 ---
 

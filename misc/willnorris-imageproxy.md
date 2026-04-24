@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The willnorris/imageproxy project is an open-source caching and resizing image proxy written in Go. It provides a simple and efficient way to handle image requests by caching and resizing images on the fly, reducing the load on origin servers and improving performance. This proxy is designed to be highly customizable and scalable, making it suitable for a wide range of applications.
+The willnorris/imageproxy project is an open-source, caching, and resizing image proxy developed in Go. It enables efficient and scalable image serving by caching and resizing images in real-time, making it suitable for high-traffic websites and applications. This project helps developers manage and optimize image delivery, reducing server loads and improving user experience.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Cognithor is an open-source, local-first autonomous agent operating system that enables users to create and manage AI-driven agents. Built on a modular architecture with support for 19 large language model (LLM) providers and 145 machine control programming (MCP) tools, the system allows for customization and extension through its Agent Packs marketplace. Cognithor operates without telemetry, providing users with complete control and data ownership.
+Here's a 2-3 sentence summary of the Cognithor project:
+
+Cognithor is an open-source, local-first autonomous agent operating system that empowers users to build and deploy AI-powered applications with unprecedented control and customization. This comprehensive platform integrates 19 leading Large Language Models, 18 channels, and 145 Machine Control Panel (MCP) tools, providing a robust foundation for AI development. With its zero-telemetry design and Agent Packs marketplace, Cognithor prioritizes user autonomy and data sovereignty.
 
 ---
 

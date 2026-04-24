@@ -1,6 +1,6 @@
 # harvard-edge/cs249r_book
 
-[![Stars](https://img.shields.io/github/stars/harvard-edge/cs249r_book?style=flat-square&color=yellow)](https://github.com/harvard-edge/cs249r_book/stargazers) [![Forks](https://img.shields.io/github/forks/harvard-edge/cs249r_book?style=flat-square&color=blue)](https://github.com/harvard-edge/cs249r_book/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harvard-edge/cs249r_book?style=flat-square&color=yellow)](https://github.com/harvard-edge/cs249r_book/stargazers) [![Forks](https://img.shields.io/github/forks/harvard-edge/cs249r_book?style=flat-square&color=blue)](https://github.com/harvard-edge/cs249r_book/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
 > Machine Learning Systems
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 23.8k |
 | 🍴 **Forks** | 2.9k |
-| 💻 **Language** | JavaScript |
+| 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

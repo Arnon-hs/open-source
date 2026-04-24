@@ -25,9 +25,7 @@ AI/ML · Data · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-This open-source project, "marketingskills," provides essential marketing skills tailored for Claude Code and AI agents, covering key areas such as CRO, copywriting, SEO, analytics, and growth engineering. The project aims to empower AI agents with expertise in marketing, enabling them to make data-driven decisions and optimize their performance. By sharing these marketing skills, the project promotes the growth and efficiency of AI-powered marketing endeavors.
+The marketingskills repository is an open-source project focused on providing marketing expertise for Claude Code and AI agents. It encompasses various marketing disciplines, including Conversion Rate Optimization (CRO), copywriting, Search Engine Optimization (SEO), analytics, and growth engineering. This project aims to empower AI agents with the necessary marketing skills for efficient and effective digital marketing strategies.
 
 ---
 

@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Oxigraph is an open-source, SPARQL graph database that enables efficient storage and querying of complex data relationships. It allows users to store and manage large amounts of data with advanced querying capabilities, making it suitable for a wide range of applications. By leveraging SPARQL, a standard query language for semantic data, Oxigraph facilitates seamless integration with other data systems.
+Oxigraph is an open-source, SPARQL graph database designed to store and query complex data relationships. It offers a powerful and efficient way to manage large datasets by utilizing SPARQL, a standard query language for graph databases. With Oxigraph, users can easily store, query, and analyze data in a scalable and flexible manner.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The iocraft crate is a Rust library designed to help developers craft visually appealing Command-Line Interfaces (CLIs), Terminal User Interfaces (TUIs), and text-based input/output systems. With its open-source approach, iocraft allows users to create sophisticated and user-friendly text-based interfaces with ease. This crate serves as a valuable tool for developers looking to enhance the frontend aspect of their applications.
+The iocraft Rust crate is an open-source project designed to craft visually appealing and interactive command-line interfaces (CLIs), text-based user interfaces (TUIs), and text-based input/output applications. This crate provides a framework for developers to create beautiful, artisanal user experiences in a straightforward and efficient manner. By leveraging iocraft, developers can focus on building engaging and effective user interfaces without the need for extensive coding expertise in UI design.
 
 ---
 

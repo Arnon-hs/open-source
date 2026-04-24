@@ -1,6 +1,6 @@
 # abhixdd/ghgrab
 
-[![Stars](https://img.shields.io/github/stars/abhixdd/ghgrab?style=flat-square&color=yellow)](https://github.com/abhixdd/ghgrab/stargazers) [![Forks](https://img.shields.io/github/forks/abhixdd/ghgrab?style=flat-square&color=blue)](https://github.com/abhixdd/ghgrab/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abhixdd/ghgrab?style=flat-square&color=yellow)](https://github.com/abhixdd/ghgrab/stargazers) [![Forks](https://img.shields.io/github/forks/abhixdd/ghgrab?style=flat-square&color=blue)](https://github.com/abhixdd/ghgrab/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A simple, pretty terminal tool that lets you search and download files from GitHub without leaving your CLI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 823 |
+| ⭐ **Stars** | 825 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

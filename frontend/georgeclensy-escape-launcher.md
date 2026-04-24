@@ -25,7 +25,7 @@ Frontend · Mobile · Product
 
 ## 📝 Summary
 
-The Escape-Launcher is an open-source, minimalist Android launcher designed to aid in reducing phone addiction. This application provides a distraction-free interface, allowing users to focus on their tasks and goals without the temptation of social media, email, or other distracting apps. By simplifying the home screen, Escape-Launcher enables users to escape the constant notifications and stay on track.
+Escape Launcher is an open-source, minimalist Android launcher designed to assist users in managing their phone addiction. This lightweight application limits access to distracting apps and features, promoting a healthier digital habit. By streamlining the user experience, Escape Launcher encourages users to break free from excessive screen time.
 
 ---
 

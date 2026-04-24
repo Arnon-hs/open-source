@@ -25,7 +25,7 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-MontFerret's ferret is an open-source, declarative web scraping tool that enables users to extract data from websites with a simple and intuitive syntax. By describing the desired data structure, users can easily automate data collection tasks without worrying about the complexity of web scraping. This approach makes ferret a powerful and user-friendly solution for data extraction and processing.
+MontFerret/Ferret is an open-source project that enables declarative web scraping, allowing users to define what data they want to extract without worrying about the underlying implementation details. This approach makes the process more intuitive and efficient, as users can focus on specifying the desired data structure rather than writing complex scraping code. By using Ferret, users can extract and manipulate data from websites with ease.
 
 ---
 

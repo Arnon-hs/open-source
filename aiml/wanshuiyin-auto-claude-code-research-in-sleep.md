@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary of the project:
 
-ARIS (Auto-Research-In-Sleep) is a lightweight, open-source tool for autonomous machine learning research, designed to facilitate cross-model review loops, idea discovery, and experiment automation using Markdown-only skills. This flexible platform is compatible with various Large Language Model (LLM) agents, including Claude Code, Codex, and OpenClaw, allowing for seamless integration and exploration. By eliminating the need for specific frameworks or lock-in, ARIS empowers researchers to efficiently automate their ML research workflows.
+ARIS (Auto-Research-In-Sleep) is an open-source, lightweight tool for autonomous machine learning research that utilizes Markdown-only skills. It enables cross-model review loops, idea discovery, and experiment automation, working seamlessly with popular LLM agents such as Claude Code, Codex, and OpenClaw. This flexible framework allows users to conduct research without being locked into a specific system.
 
 ---
 

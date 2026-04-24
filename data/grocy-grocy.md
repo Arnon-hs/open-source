@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Grocy is an open-source, self-hosted web application designed to manage household groceries and other items. As a comprehensive ERP (Enterprise Resource Planning) solution, it helps users keep track of inventory, create shopping lists, and monitor consumption patterns. By running Grocy on their own servers, users can maintain control over their personal data and household management.
+Grocy is an open-source, self-hosted web application designed to manage groceries and household items. It provides a comprehensive management solution for home inventory, allowing users to track and organize their daily essentials. With Grocy, users can take control of their household organization and make informed decisions about their shopping and consumption habits.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-PyPSA-Earth is an open-source, Python-based energy system modelling framework designed to help researchers and policymakers explore and optimize energy futures at a global scale. This flexible tool enables users to simulate and compare different energy system scenarios, taking into account various factors such as resource availability, technology costs, and policy interventions. By providing a comprehensive and transparent platform for energy system analysis, PyPSA-Earth aims to support informed decision-making and sustainable energy transitions worldwide.
+PyPSA-Earth is an open-source, Python-based optimization model that enables the study of global energy system futures. This flexible framework allows users to analyze and design sustainable, low-carbon energy systems at various scales and locations around the world. By leveraging PyPSA-Earth, researchers and stakeholders can explore different energy scenarios, evaluate policy options, and identify pathways for a cleaner, more resilient energy future.
 
 ---
 

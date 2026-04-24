@@ -25,7 +25,7 @@ Crypto · Security
 
 ## 📝 Summary
 
-The Super project is an open-source initiative that aims to provide secure, user-friendly, and fast WiFi routers for homes. It offers unique features such as one WiFi password per device and robust security tools, including ad blocking and privacy blocklists. By implementing policy-based network access, Super enables users to have greater control over their network and protect their online privacy.
+The SPR (Secure Personal Router) project offers an open-source, secure, user-friendly, and fast Wi-Fi router solution for homes. It provides one unique Wi-Fi password per device, ensuring robust network security and offering features such as ad blocking and privacy blocklists to protect users' online privacy. With policy-based network access, SPR allows users to have granular control over their network access permissions.
 
 ---
 

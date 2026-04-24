@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The awslabs/graphrag-toolkit is an open-source Python library that enables developers to create graph-enhanced applications for Generative AI (GenAI), facilitating the integration of graph-based structures and GenAI capabilities. This toolkit provides a foundation for building innovative GenAI solutions that can effectively leverage graph data and enhance their overall performance and functionality. By utilizing graphrag-toolkit, developers can unlock new possibilities for GenAI applications in various domains.
+The awslabs/graphrag-toolkit is an open-source Python library that enables developers to build graph-enhanced applications for Generative AI (GenAI). This toolkit provides a set of tools and functionalities to integrate graph data structures with GenAI models, allowing for more sophisticated and data-driven AI applications. By leveraging graphrag-toolkit, developers can create more effective and efficient GenAI solutions.
 
 ---
 

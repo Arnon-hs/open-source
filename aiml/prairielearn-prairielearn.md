@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 465 |
-| 🍴 **Forks** | 374 |
+| 🍴 **Forks** | 373 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-PrairieLearn is an open-source online learning system that utilizes a problem-driven approach to education. It is designed to facilitate interactive and engaging learning experiences, leveraging AI and machine learning technologies to provide personalized instruction and feedback. This platform aims to revolutionize the way students learn by focusing on real-world problems and practical applications.
+PrairieLearn is an open-source, online problem-driven learning system that utilizes AI/ML capabilities to enhance the learning experience. This platform allows users to engage with interactive problems, fostering a deeper understanding of complex concepts and promoting effective knowledge retention. By leveraging AI-driven technology, PrairieLearn aims to revolutionize the way we learn and interact with educational content.
 
 ---
 

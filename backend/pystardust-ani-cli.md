@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The ani-cli project is an open-source command-line interface tool allowing users to browse and play anime directly from their terminal. This tool enables anime enthusiasts to discover and consume their favorite shows without needing to navigate through multiple websites or applications. With ani-cli, users can easily search, view information, and play anime content using a simple and intuitive command-line interface.
+The pystardust/ani-cli project provides an open-source command-line interface (CLI) tool that allows users to browse and play anime content. With this tool, users can easily discover, manage, and stream their favorite anime shows and movies from a terminal or command prompt. This project offers a convenient and accessible way to enjoy anime content.
 
 ---
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3597** |
+| 🗂️ **Total projects** | **3691** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1372 | [Browse →](./aiml/) |
-| 📦 **Misc** | 563 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 385 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 330 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 222 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 193 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 143 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 1411 | [Browse →](./aiml/) |
+| 📦 **Misc** | 581 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 390 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 337 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 229 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 202 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 148 | [Browse →](./crypto/) |
 | 📊 **Data** | 97 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 84 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 53 | [Browse →](./payments/) |
-| 📱 **Mobile** | 49 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 85 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 54 | [Browse →](./payments/) |
+| 📱 **Mobile** | 50 | [Browse →](./mobile/) |
+| 📈 **Trading** | 39 | [Browse →](./trading/) |
 | 🔐 **Security** | 38 | [Browse →](./security/) |
-| 📈 **Trading** | 38 | [Browse →](./trading/) |
 | ✨ **Design** | 13 | [Browse →](./design/) |
 | 🎯 **Product** | 12 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [gnuradio/gnuradio](./security/gnuradio-gnuradio.md) | ⭐ 6k | Security |
-| 2 | [onnx/onnx](./aiml/onnx-onnx.md) | ⭐ 20.7k | AI/ML |
-| 3 | [Dokploy/dokploy](./frontend/dokploy-dokploy.md) | ⭐ 33.4k | Frontend |
-| 4 | [Raphire/Win11Debloat](./devtools/raphire-win11debloat.md) | ⭐ 45.3k | DevTools |
-| 5 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
-| 6 | [flameshot-org/flameshot](./frontend/flameshot-org-flameshot.md) | ⭐ 29.8k | Frontend |
-| 7 | [juicedata/juicefs](./aiml/juicedata-juicefs.md) | ⭐ 13.5k | AI/ML |
-| 8 | [charmbracelet/bubbletea](./frontend/charmbracelet-bubbletea.md) | ⭐ 41.8k | Frontend |
-| 9 | [Graylog2/graylog2-server](./backend/graylog2-graylog2-server.md) | ⭐ 8k | Backend |
-| 10 | [langbot-app/LangBot](./aiml/langbot-app-langbot.md) | ⭐ 15.9k | AI/ML |
+| 1 | [assistant-ui/assistant-ui](./aiml/assistant-ui-assistant-ui.md) | ⭐ 9.7k | AI/ML |
+| 2 | [semaphoreui/semaphore](./aiml/semaphoreui-semaphore.md) | ⭐ 13.5k | AI/ML |
+| 3 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 38.6k | AI/ML |
+| 4 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
+| 5 | [ansible/awx](./frontend/ansible-awx.md) | ⭐ 15.4k | Frontend |
+| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 7 | [RocketChat/Rocket.Chat](./misc/rocketchat-rocket.chat.md) | ⭐ 45.2k | Misc |
+| 8 | [lionsoul2014/ip2region](./devtools/lionsoul2014-ip2region.md) | ⭐ 19k | DevTools |
+| 9 | [secdev/scapy](./security/secdev-scapy.md) | ⭐ 12.2k | Security |
+| 10 | [casdoor/casdoor](./aiml/casdoor-casdoor.md) | ⭐ 13.5k | AI/ML |
 
 ## 🚀 How it works
 

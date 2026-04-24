@@ -25,7 +25,7 @@ Frontend · Backend · Data
 
 ## 📝 Summary
 
-Dokploy is an open-source project that offers a comprehensive platform for deploying and managing web applications, providing a versatile alternative to popular solutions like Vercel, Netlify, and Heroku. This multi-faceted platform supports frontend, backend, and data management, catering to a wide range of development needs. By harnessing the power of open-source, Dokploy empowers developers to customize and control their deployment environments.
+Dokploy is an open-source platform that offers a cost-effective and customizable alternative to popular deployment tools like Vercel, Netlify, and Heroku. This comprehensive platform supports frontend, backend, and data management, allowing developers to streamline their workflows and deploy applications with ease. By leveraging Dokploy, developers can maintain control and flexibility over their projects while reducing dependence on proprietary services.
 
 ---
 

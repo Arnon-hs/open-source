@@ -25,7 +25,7 @@ Trading · AI/ML · Data
 
 ## 📝 Summary
 
-The 'dartlab' project is an open-source initiative that provides structured Python data for over 3,670 Korean and US companies by scraping and parsing their respective filing systems, DART and EDGAR. This comprehensive dataset enables users to extract and analyze valuable information from a single stock code, forming a complete company story. The project aims to facilitate trading, AI/ML development, and data-driven insights through its vast repository of financial data.
+This open-source project, 'dartlab', provides a comprehensive dataset of Korean and US companies by scraping and structuring their financial filings from DART (Korean) and EDGAR (US SEC) databases. With over 2,700 Korean and 970 US companies, it offers a valuable resource for trading, AI/ML, and data-related applications. The structured Python data facilitates analysis and research in the financial and business sectors.
 
 ---
 

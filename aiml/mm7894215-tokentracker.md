@@ -1,6 +1,6 @@
 # mm7894215/TokenTracker
 
-[![Stars](https://img.shields.io/github/stars/mm7894215/TokenTracker?style=flat-square&color=yellow)](https://github.com/mm7894215/TokenTracker/stargazers) [![Forks](https://img.shields.io/github/forks/mm7894215/TokenTracker?style=flat-square&color=blue)](https://github.com/mm7894215/TokenTracker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mm7894215/TokenTracker?style=flat-square&color=yellow)](https://github.com/mm7894215/TokenTracker/stargazers) [![Forks](https://img.shields.io/github/forks/mm7894215/TokenTracker?style=flat-square&color=blue)](https://github.com/mm7894215/TokenTracker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Track Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, OpenClaw & Every Code token usage. Local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 303 |
+| ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
