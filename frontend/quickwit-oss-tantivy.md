@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Tantivy is a high-performance, open-source full-text search engine library built with Rust. Inspired by Apache Lucene, it provides fast and efficient search capabilities, ideal for developing search-powered applications. With Tantivy, developers can create robust and scalable search functionality for their frontend projects.
+Tantivy is a high-performance, open-source full-text search engine library written in Rust, designed to provide efficient and scalable search capabilities. Built with inspiration from Apache Lucene, Tantivy is a powerful tool for developers seeking to integrate robust search functionality into their applications. It offers a flexible and customizable search solution, making it suitable for a wide range of use cases.
 
 ---
 

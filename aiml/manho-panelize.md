@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Manho/Panelize?style=flat-square&color=yellow)](https://github.com/Manho/Panelize/stargazers) [![Forks](https://img.shields.io/github/forks/Manho/Panelize?style=flat-square&color=blue)](https://github.com/Manho/Panelize/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Compare ChatGPT, Claude, Gemini, Grok, DeepSeek and more side by side in one Chrome extension.
+> Compare ChatGPT, Claude, Gemini, Grok, Doubao, DeepSeek and more side by side in one Chrome extension.
 
 ## 📊 Stats
 

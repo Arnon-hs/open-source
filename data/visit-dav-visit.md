@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-VisIt is an open-source, visualization and data analysis tool designed for scientific data based on meshes. It enables users to explore and understand complex, high-dimensional data through interactive visualization and analysis capabilities. With VisIt, researchers and scientists can efficiently analyze and interpret large datasets across various fields, fostering a deeper understanding of intricate scientific phenomena.
+VisIt is an open-source project that enables users to visualize and analyze complex mesh-based scientific data. This powerful tool allows researchers and scientists to create high-fidelity visualizations and extract valuable insights from large datasets, facilitating a deeper understanding of various scientific phenomena. By leveraging VisIt, users can unlock the full potential of their data and drive meaningful discoveries.
 
 ---
 

@@ -1,0 +1,32 @@
+# bstaruk/starbase
+
+[![Stars](https://img.shields.io/github/stars/bstaruk/starbase?style=flat-square&color=yellow)](https://github.com/bstaruk/starbase/stargazers) [![Forks](https://img.shields.io/github/forks/bstaruk/starbase?style=flat-square&color=blue)](https://github.com/bstaruk/starbase/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+
+> ⭐ A front-end starter kit and Claude Code boilerplate -- built on Vite, TypeScript, Tailwind CSS, TanStack Router, and TanStack Query.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 82 |
+| 🍴 **Forks** | 11 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI/ML · Frontend · Design
+
+## 📝 Summary
+
+The starbase project is an open-source front-end starter kit and Claude Code boilerplate, equipped with a powerful blend of technologies including Vite, TypeScript, Tailwind CSS, TanStack Router, and TanStack Query. This comprehensive framework is designed to streamline the development process, providing a solid foundation for building high-performance and visually appealing applications. By leveraging AI/ML capabilities, starbase enables developers to create innovative and efficient front-end solutions.
+
+---
+
+<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/bstaruk/starbase) · [← Back to AI/ML](./README.md)</sub>

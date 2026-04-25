@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a 2-3 sentence summary for the recodeee/gitguardex project:
 
-"GitGuardEX is an open-source tool that enables parallel execution of multiple Codex and Claude agents within isolated worktrees, preventing conflicts and ensuring efficient AI/ML development. This project automates the setup of common tools like Oh My Codex, Oh My Claude, OpenSpec, and Caveman in each worktree. By providing isolated and secure environments, GitGuardEX streamlines the development process for AI/ML projects."
+GitGuardex is an open-source project that enables parallel execution of multiple Codex and Claude agents in isolated worktrees, ensuring that they do not interfere with each other. This is achieved through file locks and PR-only merges, allowing for efficient and conflict-free collaboration. GitGuardex also auto-wires popular development tools, including Oh My Codex, Oh My Claude, OpenSpec, and Caveman, streamlining the development process.
 
 ---
 

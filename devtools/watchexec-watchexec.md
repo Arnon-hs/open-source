@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Watchexec is an open-source project that automates command execution in response to file modifications, allowing developers to monitor and react to changes in their project. This tool helps streamline development workflows by triggering specific commands upon file updates, such as code formatting, linting, or testing. By integrating watchexec into their toolchains, developers can improve their productivity and efficiency.
+Watchexec is an open-source tool that monitors file modifications and executes user-defined commands in response to changes. It provides real-time event-driven automation, allowing developers to streamline their workflows and improve productivity. This DevTools project is ideal for users who need to automate tasks triggered by file modifications, such as rebuilding, testing, or compiling code.
 
 ---
 

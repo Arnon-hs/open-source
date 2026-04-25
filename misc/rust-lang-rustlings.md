@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Rustlings is an open-source project that offers a collection of small exercises to help developers become familiar with reading and writing Rust code. This project is designed to be an educational tool, providing a gentle introduction to the Rust programming language and its syntax. By working through these exercises, developers can build their skills and confidence in Rust.
+The rustlings project is an open-source collection of small exercises designed to help individuals get familiar with reading and writing Rust code. By working through these hands-on examples, users can gain a deeper understanding of Rust's syntax, concepts, and best practices. This project serves as an ideal resource for new Rust programmers looking to improve their skills.
 
 ---
 

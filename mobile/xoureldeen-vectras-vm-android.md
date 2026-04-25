@@ -1,6 +1,6 @@
 # xoureldeen/Vectras-VM-Android
 
-[![Stars](https://img.shields.io/github/stars/xoureldeen/Vectras-VM-Android?style=flat-square&color=yellow)](https://github.com/xoureldeen/Vectras-VM-Android/stargazers) [![Forks](https://img.shields.io/github/forks/xoureldeen/Vectras-VM-Android?style=flat-square&color=blue)](https://github.com/xoureldeen/Vectras-VM-Android/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xoureldeen/Vectras-VM-Android?style=flat-square&color=yellow)](https://github.com/xoureldeen/Vectras-VM-Android/stargazers) [![Forks](https://img.shields.io/github/forks/xoureldeen/Vectras-VM-Android?style=flat-square&color=blue)](https://github.com/xoureldeen/Vectras-VM-Android/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > It's a Virtual Machine App for Android Which is Based on QEMU
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 184 |
+| 🍴 **Forks** | 185 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

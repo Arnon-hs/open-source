@@ -25,9 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-PaperOrchestra is an open-source, automated research-paper writer that utilizes AI to compose high-quality papers. This project leverages the skills-benchmark and autorater functionality from Google's PaperOrchestra paper to create research papers through various coding agents, such as Claude Code and Antigravity. With no reliance on API keys or LLM SDKs, PaperOrchestra facilitates AI-driven research paper generation in a seamless and accessible manner.
+The PaperOrchestra project, as implemented by Ar9av, is an open-source, automated AI research-paper writer that utilizes machine learning models and coding agents to generate high-quality content. This system is based on Google's PaperOrchestra paper and leverages various skills, including benchmarking and auto-raters, to produce accurate and reliable outputs. By utilizing open-source coding agents, it eliminates the need for API keys or LLM SDKs.
 
 ---
 

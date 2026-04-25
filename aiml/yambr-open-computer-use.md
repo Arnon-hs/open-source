@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Yambr/open-computer-use is an open-source MCP server that empowers Large Language Models (LLMs) to operate as if they had their own personal computer. This self-hosted platform provides a managed Docker workspace with features like live browser, terminal, code execution, and document skills, allowing LLMs to run autonomous sub-agents. The project is designed to be highly pluggable, compatible with any LLM model.
+The open-computer-use project is an open-source MCP (Meta-Cognitive Process) server that empowers Large Language Models (LLMs) to utilize their own virtual computer environment. This managed Docker workspace provides a comprehensive range of tools, including a live browser, terminal, code execution, document management, and the ability to create autonomous sub-agents. By self-hosting and plugging into any model, users can unlock the full potential of LLMs in a secure and customizable way.
 
 ---
 

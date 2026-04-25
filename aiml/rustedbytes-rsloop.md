@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the RustedBytes/rsloop project:
-
-Rsloop is an open-source, event-driven library for asyncio written in Rust, providing a highly efficient and scalable framework for building concurrent systems. This project enables developers to create asynchronous applications with ease, leveraging the power of Rust's performance-oriented design. By leveraging rsloop, developers can build high-performance, concurrent systems with minimal overhead.
+RustedBytes/rsloop is an open-source, event-driven loop designed for asyncio in Rust, allowing for efficient and asynchronous programming in AI/ML applications. This project provides a flexible and lightweight event loop, enabling developers to focus on building complex AI and machine learning models without the overhead of traditional threading models. By leveraging Rust's performance capabilities, rsloop optimizes event handling for high-concurrency AI and ML workloads.
 
 ---
 

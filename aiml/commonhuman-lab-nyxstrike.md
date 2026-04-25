@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the nyxstrike project:
-
-Nyxstrike is an open-source platform for offensive security research, leveraging AI-powered penetration testing to provide a cutting-edge solution for security professionals. This platform enables developers and researchers to explore and analyze vulnerabilities, fostering innovation in the field of AI-assisted security testing. By harnessing AI and machine learning capabilities, nyxstrike accelerates the discovery and assessment of security weaknesses, facilitating more effective and efficient penetration testing.
+Nyxstrike is an open-source, AI-powered penetration testing platform designed for offensive security research. This innovative platform utilizes artificial intelligence to enhance and streamline the penetration testing process, enabling security researchers to identify vulnerabilities and strengthen their defenses more efficiently. By leveraging AI and machine learning, Nyxstrike empowers users to conduct thorough and automated security assessments.
 
 ---
 

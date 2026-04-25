@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The Speckit Companion is a VS Code extension designed for spec-driven development, providing a comprehensive toolset for managing specifications, workflows, and steering documents for Artificial Intelligence (AI) command-line interfaces (CLI tools) such as Claude Code, Gemini CLI, and Copilot CLI. This extension streamlines the development process by integrating key features and functionalities in a single, user-friendly interface. By leveraging the Speckit Companion, developers can enhance their productivity and efficiency in building AI-powered applications.
+The Speckit Companion is an open-source Visual Studio Code (VS Code) extension designed for spec-driven development. It enables users to manage specifications, workflows, and steering documents for AI CLI tools such as Claude Code, Gemini CLI, and Copilot CLI, streamlining the development process. This extension caters to the needs of developers working with AI and machine learning technologies.
 
 ---
 

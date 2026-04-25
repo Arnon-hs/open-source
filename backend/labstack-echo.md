@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-Echo is a high-performance, minimalist Go web framework designed for building scalable and efficient web applications. It offers a flexible and lightweight architecture, making it ideal for developers seeking a versatile backend solution. With Echo, developers can create fast, secure, and easy-to-maintain web services.
+Echo is a high-performance, minimalist Go web framework designed for building scalable and efficient web applications. This open-source project provides a flexible and lightweight architecture that allows developers to create web services quickly and easily. With Echo, developers can focus on writing code without the overhead of a complex framework.
 
 ---
 

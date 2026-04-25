@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the 'explodingcamera/tinywasm' project:
+Here's a 2-3 sentence summary for the open-source project:
 
-Tinywasm is an open-source, Rust-based project that implements a compact and lightweight WebAssembly (WASM) runtime. This runtime is designed to be highly efficient and portable, making it suitable for use in embedded systems and resource-constrained environments. By providing a tiny WASM runtime, Tinywasm aims to enable the use of WASM on devices with limited resources.
+Explodingcamera/tinywasm is an open-source, Rust-based project that provides a Tiny WebAssembly Runtime. This runtime enables execution of WebAssembly (WASM) code on a lightweight and efficient platform, making it suitable for resource-constrained or embedded systems. By leveraging the power of Rust, tinywasm aims to provide a fast and secure way to run WASM applications in a compact and reliable manner.
 
 ---
 

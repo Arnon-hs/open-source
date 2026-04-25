@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5148** |
+| 🗂️ **Total projects** | **5241** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2001 | [Browse →](./aiml/) |
-| 📦 **Misc** | 823 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 508 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 494 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 303 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 285 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 183 | [Browse →](./crypto/) |
-| 📊 **Data** | 128 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 117 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 2037 | [Browse →](./aiml/) |
+| 📦 **Misc** | 839 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 515 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 501 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 307 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 292 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 190 | [Browse →](./crypto/) |
+| 📊 **Data** | 130 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 120 | [Browse →](./devopsinfra/) |
 | 💳 **Payments** | 78 | [Browse →](./payments/) |
-| 📱 **Mobile** | 73 | [Browse →](./mobile/) |
-| 📈 **Trading** | 57 | [Browse →](./trading/) |
-| 🔐 **Security** | 53 | [Browse →](./security/) |
+| 📱 **Mobile** | 75 | [Browse →](./mobile/) |
+| 📈 **Trading** | 58 | [Browse →](./trading/) |
+| 🔐 **Security** | 54 | [Browse →](./security/) |
 | ✨ **Design** | 22 | [Browse →](./design/) |
 | 🎯 **Product** | 17 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 6 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [ansible/awx](./frontend/ansible-awx.md) | ⭐ 15.4k | Frontend |
-| 2 | [google/langextract](./aiml/google-langextract.md) | ⭐ 35.8k | AI/ML |
-| 3 | [graphhopper/graphhopper](./backend/graphhopper-graphhopper.md) | ⭐ 6.4k | Backend |
-| 4 | [mumble-voip/mumble](./backend/mumble-voip-mumble.md) | ⭐ 8k | Backend |
-| 5 | [apache/casbin](./aiml/apache-casbin.md) | ⭐ 20k | AI/ML |
-| 6 | [VoltAgent/awesome-agent-skills](./orchestration/voltagent-awesome-agent-skills.md) | ⭐ 18.7k | Orchestration |
-| 7 | [caddyserver/caddy](./backend/caddyserver-caddy.md) | ⭐ 71.8k | Backend |
-| 8 | [facebook/react-native](./frontend/facebook-react-native.md) | ⭐ 125.7k | Frontend |
-| 9 | [karatelabs/karate](./backend/karatelabs-karate.md) | ⭐ 8.8k | Backend |
-| 10 | [expo/expo](./frontend/expo-expo.md) | ⭐ 49k | Frontend |
+| 1 | [laramies/theHarvester](./aiml/laramies-theharvester.md) | ⭐ 16.1k | AI/ML |
+| 2 | [graphhopper/graphhopper](./backend/graphhopper-graphhopper.md) | ⭐ 6.4k | Backend |
+| 3 | [mumble-voip/mumble](./backend/mumble-voip-mumble.md) | ⭐ 8k | Backend |
+| 4 | [apache/casbin](./aiml/apache-casbin.md) | ⭐ 20k | AI/ML |
+| 5 | [novuhq/novu](./aiml/novuhq-novu.md) | ⭐ 38.9k | AI/ML |
+| 6 | [m1k1o/neko](./frontend/m1k1o-neko.md) | ⭐ 20.7k | Frontend |
+| 7 | [nats-io/nats-server](./aiml/nats-io-nats-server.md) | ⭐ 19.7k | AI/ML |
+| 8 | [TanStack/query](./frontend/tanstack-query.md) | ⭐ 49.2k | Frontend |
+| 9 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 10 | [langchain-ai/open-swe](./orchestration/langchain-ai-open-swe.md) | ⭐ 9.6k | Orchestration |
 
 ## 🚀 How it works
 

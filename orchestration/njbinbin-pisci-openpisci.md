@@ -27,7 +27,7 @@ Orchestration · AI/ML
 
 Here's a brief summary for the open-source project:
 
-OpenPisci is an open-source AI agent that enables multi-agent and skill-based automation on Windows desktop environments. It supports seamless connectivity with various platforms, including Feishu and Weixin, and is designed for orchestration and AI/ML applications. With OpenPisci, users can create and manage complex automation workflows with ease.
+OpenPisci is an open-source AI agent designed for Windows desktops, enabling multi-agent and skill-based interactions. It offers seamless connectivity to popular platforms such as Feishu and Weixin, facilitating integration with diverse applications. This project is ideal for developers looking to create complex AI-driven workflows and automations on Windows desktops.
 
 ---
 

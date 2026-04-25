@@ -1,6 +1,6 @@
 # CJackHwang/ds2api
 
-[![Stars](https://img.shields.io/github/stars/CJackHwang/ds2api?style=flat-square&color=yellow)](https://github.com/CJackHwang/ds2api/stargazers) [![Forks](https://img.shields.io/github/forks/CJackHwang/ds2api?style=flat-square&color=blue)](https://github.com/CJackHwang/ds2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CJackHwang/ds2api?style=flat-square&color=yellow)](https://github.com/CJackHwang/ds2api/stargazers) [![Forks](https://img.shields.io/github/forks/CJackHwang/ds2api?style=flat-square&color=blue)](https://github.com/CJackHwang/ds2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Deepseek to API - 客户端协议转通用API全栈中间件工具，轻量、高性能，多账号轮询，支持二进制编译文件、Vercel Serverless、Docker部署。Google、Claude、OpenAI多接口格式兼容
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 429 |
+| 🍴 **Forks** | 432 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

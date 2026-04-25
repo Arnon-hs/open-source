@@ -1,6 +1,6 @@
 # zilliztech/memsearch
 
-[![Stars](https://img.shields.io/github/stars/zilliztech/memsearch?style=flat-square&color=yellow)](https://github.com/zilliztech/memsearch/stargazers) [![Forks](https://img.shields.io/github/forks/zilliztech/memsearch?style=flat-square&color=blue)](https://github.com/zilliztech/memsearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zilliztech/memsearch?style=flat-square&color=yellow)](https://github.com/zilliztech/memsearch/stargazers) [![Forks](https://img.shields.io/github/forks/zilliztech/memsearch?style=flat-square&color=blue)](https://github.com/zilliztech/memsearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 123 |
+| 🍴 **Forks** | 124 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

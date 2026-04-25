@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the spencerwooo/mihoro project:
-
-Mihoro is an open-source Linux command-line interface (CLI) client for Mihomo, a popular network acceleration tool. Formerly known as `clashrup`, this project allows users to easily manage and configure their Mihomo setup from the terminal. It provides a convenient and efficient way to utilize Mihomo's features on Linux-based systems.
+Mihoro is an open-source Linux command-line interface (CLI) client, previously known as clashrup, for interacting with Mihomo. It allows users to manage their Mihomo setup from the terminal, providing a convenient and efficient way to configure and control their proxy services. This project aims to offer a seamless user experience for Linux users accessing Mihomo features through the command line.
 
 ---
 

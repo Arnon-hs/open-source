@@ -1,6 +1,6 @@
 # datawhalechina/torch-rechub
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/torch-rechub?style=flat-square&color=yellow)](https://github.com/datawhalechina/torch-rechub/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/torch-rechub?style=flat-square&color=blue)](https://github.com/datawhalechina/torch-rechub/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/torch-rechub?style=flat-square&color=yellow)](https://github.com/datawhalechina/torch-rechub/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/torch-rechub?style=flat-square&color=blue)](https://github.com/datawhalechina/torch-rechub/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A Lighting Pytorch Framework for Recommendation Models, Easy-to-use and Easy-to-extend.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 138 |
+| 🍴 **Forks** | 137 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

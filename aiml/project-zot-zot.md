@@ -1,6 +1,6 @@
 # project-zot/zot
 
-[![Stars](https://img.shields.io/github/stars/project-zot/zot?style=flat-square&color=yellow)](https://github.com/project-zot/zot/stargazers) [![Forks](https://img.shields.io/github/forks/project-zot/zot?style=flat-square&color=blue)](https://github.com/project-zot/zot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/project-zot/zot?style=flat-square&color=yellow)](https://github.com/project-zot/zot/stargazers) [![Forks](https://img.shields.io/github/forks/project-zot/zot?style=flat-square&color=blue)](https://github.com/project-zot/zot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 200 |
+| 🍴 **Forks** | 201 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

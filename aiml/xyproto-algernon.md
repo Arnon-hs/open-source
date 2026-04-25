@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The xyproto/algernon project is an open-source, pure-Go web server designed for simplicity and versatility. It supports a range of protocols and technologies, including Lua, HTTP/2, QUIC, and Redis, as well as multiple database options like SQLite and PostgreSQL. This self-contained server is ideal for building scalable and efficient web applications.
+Algernon is a lightweight, self-contained web server written in pure Go, offering a wide range of features and integrations. It supports various programming languages and markup formats, including Lua, Teal, and Markdown, as well as AI/ML capabilities through Ollama. With support for HTTP/2, QUIC, and multiple database systems, Algernon provides a flexible and high-performance solution for building web applications.
 
 ---
 

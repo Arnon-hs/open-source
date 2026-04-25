@@ -27,7 +27,7 @@ AI/ML
 
 Here's a brief summary for the Deus project:
 
-Deus is a token-efficient, open-source AI assistant that learns and adapts to your needs, providing a secure and self-hosted solution for personal AI assistance. This innovative project offers a customizable AI experience, allowing users to tailor their assistant to their unique requirements. By hosting Deus locally, users maintain complete control over their data and AI interactions.
+Deus is an open-source AI assistant designed for token efficiency, allowing it to remember, adapt, and improve over time while maintaining a high level of security. This self-hosted solution empowers users to control their AI experience, keeping their data and interactions private and entirely within their own domain. By harnessing the power of AI, Deus offers a customizable and personalized experience for its users.
 
 ---
 

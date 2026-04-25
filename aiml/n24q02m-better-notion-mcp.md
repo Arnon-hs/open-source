@@ -25,9 +25,9 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary of the project:
 
-The "better-notion-mcp" project is an open-source, markdown-first MCP (Multi-Page Container) server designed for the Notion API. Optimized for AI agents, this tool enables composite functionality and streamlines Notion integration, enhancing collaboration and productivity. By leveraging the Notion API, users can unlock more efficient and intelligent workflows.
+The better-notion-mcp project is an open-source, Markdown-first MCP (Message Composition Protocol) server designed to optimize interactions between AI agents and the Notion API. This project enables the creation of composite tools that leverage the power of AI while simplifying integration with Notion's API. By providing a flexible and efficient interface, better-notion-mcp streamlines the development of AI-powered Notion applications.
 
 ---
 

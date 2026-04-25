@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/ENTERPILOT/GoModel?style=flat-square&color=yellow)](https://github.com/ENTERPILOT/GoModel/stargazers) [![Forks](https://img.shields.io/github/forks/ENTERPILOT/GoModel?style=flat-square&color=blue)](https://github.com/ENTERPILOT/GoModel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
-> High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI & Ollama. LiteLLM alternative with observability, guardrails & streaming.
+> AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI & Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 653 |
+| ⭐ **Stars** | 655 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 55/100 |

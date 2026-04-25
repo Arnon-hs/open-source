@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the jdx/fnox project:
+Here's a brief summary for the open-source project 'jdx/fnox':
 
-Fnox is an open-source, encrypted, and remote secret manager designed to securely store and manage sensitive information. It provides a reliable solution for organizations and individuals to keep their secrets organized and protected from unauthorized access. With Fnox, users can securely store and retrieve sensitive data remotely, while maintaining control over access and encryption.
+Fnox is an open-source, encrypted, and remote secret manager designed to securely store and manage sensitive information. It allows users to store and retrieve secrets from a remote location, while ensuring the confidentiality and integrity of the stored data through robust encryption. This project aims to provide a reliable and secure solution for managing secrets in various applications and systems.
 
 ---
 

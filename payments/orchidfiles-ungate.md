@@ -25,9 +25,7 @@ Payments · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-"Ungate allows users to integrate their existing Claude and ChatGPT subscriptions with Cursor, eliminating the need for API tokens and saving costs. This open-source project enables seamless integration with popular AI services, making it easier to build and manage AI-powered applications. By leveraging existing subscriptions, developers can focus on building innovative solutions without worrying about additional expenses."
+The ungate project by orchidfiles allows users to leverage their existing Claude and ChatGPT subscriptions within the Cursor platform, eliminating the need for separate API token payments. This open-source solution streamlines the integration process, providing a convenient and cost-effective experience for those utilizing Cursor. By harnessing existing subscriptions, users can unlock enhanced AI capabilities without incurring additional expenses.
 
 ---
 

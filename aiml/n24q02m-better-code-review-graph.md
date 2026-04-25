@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The "better-code-review-graph" project is an open-source knowledge graph designed to enhance token-efficient code reviews. It features improved search functionality, qualified call resolution, and dual-mode embedding capabilities, allowing for flexible integration with ONNX models and multi-provider cloud services. This innovative tool is aimed at developers and AI/ML professionals seeking to streamline and optimize their code review processes.
+The "better-code-review-graph" project is an open-source knowledge graph designed to enhance the efficiency of code reviews. It provides features such as fixed search, qualified call resolution, and dual-mode embedding (ONNX + multi-provider cloud), facilitating more effective collaboration and analysis among developers. This project aims to bridge the gap in AI/ML and DevTools by streamlining code review processes.
 
 ---
 

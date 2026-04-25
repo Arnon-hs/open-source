@@ -25,9 +25,9 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the inference-gateway project:
+Here's a brief summary for the open-source project:
 
-The inference-gateway is an open-source, cloud-native gateway designed to unify multiple large language model (LLM) providers under a single interface. It supports a range of local and cloud-based solutions, including Ollama, OpenAI, Groq, Cohere, Anthropic, Cloudflare, and DeepSeek, enabling seamless integration and orchestration of these models. This high-performance gateway empowers developers to build scalable, flexible, and efficient AI applications.
+The inference-gateway project is an open-source, cloud-native gateway that unifies multiple Large Language Model (LLM) providers, allowing seamless integration and switching between local solutions and major cloud providers. This high-performance gateway enables developers to easily orchestrate and deploy LLM models from various sources, including Ollama, OpenAI, Groq, Cohere, Anthropic, Cloudflare, and DeepSeek. By streamlining access to these models, the inference-gateway facilitates the development of AI-powered applications.
 
 ---
 

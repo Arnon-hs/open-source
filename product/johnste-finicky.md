@@ -25,7 +25,7 @@ Product
 
 ## 📝 Summary
 
-Finicky is an open-source macOS application that allows users to customize their browser launch behavior, giving them more control over how their preferred web browsers are opened. This app enables users to choose which browser to use for specific tasks, such as opening links, making it easier to manage multiple browsers on their system. With Finicky, users can streamline their browser usage and enhance their productivity.
+Finicky is a macOS application designed to provide users with flexibility in choosing their preferred browser for specific web-based activities, such as opening links from emails or certain websites. With Finicky, users can customize which browser they want to use for different tasks, promoting seamless integration with their preferred web browsers. This application aims to simplify web browsing experiences on macOS devices.
 
 ---
 

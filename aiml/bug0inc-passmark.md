@@ -27,7 +27,7 @@ AI/ML · DevTools
 
 Here's a brief summary for the bug0inc/passmark project:
 
-Passmark is an open-source library that utilizes Playwright for AI-powered browser regression testing. It offers intelligent caching, auto-healing, and multi-model verification features to streamline the testing process and ensure accuracy. This library is ideal for developers and automation engineers seeking to enhance their browser testing capabilities with AI-driven solutions.
+The bug0inc/passmark project is an open-source Playwright library designed for AI browser regression testing. It features intelligent caching, auto-healing, and multi-model verification capabilities, making it a powerful tool for developers to ensure seamless browser functionality across various scenarios. This library enables efficient and robust AI-driven browser testing.
 
 ---
 

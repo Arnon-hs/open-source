@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the project:
 
-"Python Weekly" is a free, open-source newsletter that curates and shares noteworthy articles, tutorials, open-source projects, and industry trends in the Python community, covering topics such as AI/ML. It provides a comprehensive resource for developers and enthusiasts to stay updated on the latest developments and advancements in the Python ecosystem. The newsletter is released weekly, making it a valuable resource for those looking to enhance their Python skills and knowledge.
+"Python Weekly" is an open-source, free weekly newsletter that curates noteworthy articles, tutorials, open-source projects, and more in the field of AI and ML. It aims to keep readers up-to-date with the latest trends and developments in the Python community. The newsletter features a wide range of content, including articles, tutorials, podcasts, and videos.
 
 ---
 

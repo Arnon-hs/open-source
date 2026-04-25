@@ -1,6 +1,6 @@
 # cyrusagents/cyrus
 
-[![Stars](https://img.shields.io/github/stars/cyrusagents/cyrus?style=flat-square&color=yellow)](https://github.com/cyrusagents/cyrus/stargazers) [![Forks](https://img.shields.io/github/forks/cyrusagents/cyrus?style=flat-square&color=blue)](https://github.com/cyrusagents/cyrus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyrusagents/cyrus?style=flat-square&color=yellow)](https://github.com/cyrusagents/cyrus/stargazers) [![Forks](https://img.shields.io/github/forks/cyrusagents/cyrus?style=flat-square&color=blue)](https://github.com/cyrusagents/cyrus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor and Gemini too.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 555 |
-| 🍴 **Forks** | 107 |
+| 🍴 **Forks** | 108 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

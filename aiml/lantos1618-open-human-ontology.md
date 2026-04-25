@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The Open Human Ontology is a collaborative project that aims to develop a comprehensive, open, and structured framework for understanding human concepts, entities, and relationships. This ontology serves as a foundation for research and applications in AI and knowledge management, facilitating more accurate and informed decision-making. By fostering a community-driven approach, the project seeks to create a widely accessible and shared knowledge base.
+The Open Human Ontology project aims to create a comprehensive, open, and structured framework for representing human knowledge and concepts. This collaborative effort seeks to bridge the gap between research and applications in artificial intelligence and knowledge management by providing a unified and standardized ontology. The open-source project facilitates the development of more accurate and efficient AI systems and knowledge management tools.
 
 ---
 

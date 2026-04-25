@@ -27,7 +27,7 @@ AI/ML · Backend · DevOps/Infra
 
 Here's a brief summary for the "better-godot-mcp" project:
 
-The "better-godot-mcp" project is an open-source MCP (Multiplayer Communication Protocol) server designed specifically for the Godot Engine, optimized for use with AI agents. It serves as a composite tool for developers to integrate multiplayer capabilities into their Godot-based projects, enabling seamless communication between clients and servers. This project aims to simplify the development process for AI-driven multiplayer applications.
+This open-source project, "better-godot-mcp," provides a MCP (Multi-Client Protocol) server optimized for AI agents in the Godot Engine. It offers a composite toolset designed to enhance AI capabilities, streamlining development and improving overall game performance. By leveraging this server, developers can create more sophisticated AI-driven experiences within the Godot Engine.
 
 ---
 
