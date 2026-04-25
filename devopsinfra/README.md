@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**108 projects** in this category.
+**110 projects** in this category.
 
 ## Projects
 
@@ -88,34 +88,36 @@
 | 78 | [kubernetes/org](./kubernetes-org.md) | ⭐ 287 | Go | 56/100 |
 | 79 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 896 | Go | 56/100 |
 | 80 | [kayac/ecspresso](./kayac-ecspresso.md) | ⭐ 1.1k | Go | 55/100 |
-| 81 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.3k | TypeScript | 55/100 |
-| 82 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 55/100 |
-| 83 | [pegasystems/pega-helm-charts](./pegasystems-pega-helm-charts.md) | ⭐ 141 | Go | 54/100 |
-| 84 | [carvel-dev/kapp-controller](./carvel-dev-kapp-controller.md) | ⭐ 307 | Go | 54/100 |
-| 85 | [argoproj-labs/gitops-promoter](./argoproj-labs-gitops-promoter.md) | ⭐ 443 | Go | 54/100 |
-| 86 | [topolvm/topolvm](./topolvm-topolvm.md) | ⭐ 1.1k | Go | 54/100 |
-| 87 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 629 | PHP | 54/100 |
-| 88 | [SlinkyProject/slurm-operator](./slinkyproject-slurm-operator.md) | ⭐ 282 | Go | 53/100 |
-| 89 | [terraform-provider-openstack/terraform-provider-openstack](./terraform-provider-openstack-terraform-provider-openstack.md) | ⭐ 468 | Go | 53/100 |
-| 90 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 395 | Go | 53/100 |
-| 91 | [miroslavpejic85/mirotalkwebrtc](./miroslavpejic85-mirotalkwebrtc.md) | ⭐ 355 | JavaScript | 53/100 |
-| 92 | [esphome/home-assistant-addon](./esphome-home-assistant-addon.md) | ⭐ 318 | Python | 52/100 |
-| 93 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
-| 94 | [stolostron/multicluster-observability-operator](./stolostron-multicluster-observability-operator.md) | ⭐ 140 | Go | 52/100 |
-| 95 | [mongodb/terraform-provider-mongodbatlas](./mongodb-terraform-provider-mongodbatlas.md) | ⭐ 274 | Go | 51/100 |
-| 96 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 256 | Rust | 51/100 |
-| 97 | [devops-works/binenv](./devops-works-binenv.md) | ⭐ 406 | Go | 51/100 |
-| 98 | [budimanjojo/home-cluster](./budimanjojo-home-cluster.md) | ⭐ 247 | Go | 51/100 |
-| 99 | [estahn/k8s-image-swapper](./estahn-k8s-image-swapper.md) | ⭐ 631 | Go | 50/100 |
-| 100 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 307 | Go | 50/100 |
-| 101 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 213 | Go | 50/100 |
-| 102 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 935 | Dockerfile | 49/100 |
-| 103 | [epinio/epinio](./epinio-epinio.md) | ⭐ 587 | Go | 49/100 |
-| 104 | [vmware/terraform-provider-vra](./vmware-terraform-provider-vra.md) | ⭐ 115 | Go | 48/100 |
-| 105 | [reteps/dockerfmt](./reteps-dockerfmt.md) | ⭐ 599 | Go | 48/100 |
-| 106 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 174 | Go | 48/100 |
-| 107 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 42/100 |
-| 108 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
+| 81 | [docker/mcp-registry](./docker-mcp-registry.md) | ⭐ 475 | Go | 55/100 |
+| 82 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.3k | TypeScript | 55/100 |
+| 83 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 55/100 |
+| 84 | [pegasystems/pega-helm-charts](./pegasystems-pega-helm-charts.md) | ⭐ 141 | Go | 54/100 |
+| 85 | [carvel-dev/kapp-controller](./carvel-dev-kapp-controller.md) | ⭐ 307 | Go | 54/100 |
+| 86 | [argoproj-labs/gitops-promoter](./argoproj-labs-gitops-promoter.md) | ⭐ 443 | Go | 54/100 |
+| 87 | [topolvm/topolvm](./topolvm-topolvm.md) | ⭐ 1.1k | Go | 54/100 |
+| 88 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 629 | PHP | 54/100 |
+| 89 | [SlinkyProject/slurm-operator](./slinkyproject-slurm-operator.md) | ⭐ 282 | Go | 53/100 |
+| 90 | [terraform-provider-openstack/terraform-provider-openstack](./terraform-provider-openstack-terraform-provider-openstack.md) | ⭐ 468 | Go | 53/100 |
+| 91 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 395 | Go | 53/100 |
+| 92 | [miroslavpejic85/mirotalkwebrtc](./miroslavpejic85-mirotalkwebrtc.md) | ⭐ 355 | JavaScript | 53/100 |
+| 93 | [esphome/home-assistant-addon](./esphome-home-assistant-addon.md) | ⭐ 318 | Python | 52/100 |
+| 94 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
+| 95 | [stolostron/multicluster-observability-operator](./stolostron-multicluster-observability-operator.md) | ⭐ 140 | Go | 52/100 |
+| 96 | [mongodb/terraform-provider-mongodbatlas](./mongodb-terraform-provider-mongodbatlas.md) | ⭐ 274 | Go | 51/100 |
+| 97 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 256 | Rust | 51/100 |
+| 98 | [devops-works/binenv](./devops-works-binenv.md) | ⭐ 406 | Go | 51/100 |
+| 99 | [budimanjojo/home-cluster](./budimanjojo-home-cluster.md) | ⭐ 247 | Go | 51/100 |
+| 100 | [estahn/k8s-image-swapper](./estahn-k8s-image-swapper.md) | ⭐ 631 | Go | 50/100 |
+| 101 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 307 | Go | 50/100 |
+| 102 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 213 | Go | 50/100 |
+| 103 | [huaweicloud/terraform-provider-huaweicloud](./huaweicloud-terraform-provider-huaweicloud.md) | ⭐ 258 | Go | 49/100 |
+| 104 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 935 | Dockerfile | 49/100 |
+| 105 | [epinio/epinio](./epinio-epinio.md) | ⭐ 587 | Go | 49/100 |
+| 106 | [vmware/terraform-provider-vra](./vmware-terraform-provider-vra.md) | ⭐ 115 | Go | 48/100 |
+| 107 | [reteps/dockerfmt](./reteps-dockerfmt.md) | ⭐ 599 | Go | 48/100 |
+| 108 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 174 | Go | 48/100 |
+| 109 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 42/100 |
+| 110 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
 
 ---
 

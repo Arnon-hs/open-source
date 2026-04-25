@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**49 projects** in this category.
+**51 projects** in this category.
 
 ## Projects
 
@@ -41,22 +41,24 @@
 | 31 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 702 | Jupyter Notebook | 57/100 |
 | 32 | [freqtrade/technical](./freqtrade-technical.md) | ⭐ 996 | Python | 56/100 |
 | 33 | [QMCPACK/qmcpack](./qmcpack-qmcpack.md) | ⭐ 383 | C++ | 55/100 |
-| 34 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
-| 35 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 770 | Rust | 54/100 |
-| 36 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 536 | Swift | 54/100 |
-| 37 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
-| 38 | [tolinkshare2/tolinkshare2.github.io](./tolinkshare2-tolinkshare2.github.io.md) | ⭐ 380 | — | 53/100 |
-| 39 | [quantumaikr/quant.cpp](./quantumaikr-quant.cpp.md) | ⭐ 384 | C | 53/100 |
-| 40 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 394 | Python | 53/100 |
-| 41 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 83 | Python | 51/100 |
-| 42 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 119 | Go | 51/100 |
-| 43 | [tensorcircuit/tensorcircuit-ng](./tensorcircuit-tensorcircuit-ng.md) | ⭐ 69 | Python | 51/100 |
-| 44 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 51 | Python | 51/100 |
-| 45 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 130 | Python | 51/100 |
-| 46 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 24 | Swift | 50/100 |
-| 47 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 27 | Python | 50/100 |
-| 48 | [quantamixsol/graqle](./quantamixsol-graqle.md) | ⭐ 22 | Python | 50/100 |
-| 49 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
+| 34 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 444 | Rust | 54/100 |
+| 35 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
+| 36 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 770 | Rust | 54/100 |
+| 37 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 536 | Swift | 54/100 |
+| 38 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
+| 39 | [tolinkshare2/tolinkshare2.github.io](./tolinkshare2-tolinkshare2.github.io.md) | ⭐ 380 | — | 53/100 |
+| 40 | [quantumaikr/quant.cpp](./quantumaikr-quant.cpp.md) | ⭐ 384 | C | 53/100 |
+| 41 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 394 | Python | 53/100 |
+| 42 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 83 | Python | 51/100 |
+| 43 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 119 | Go | 51/100 |
+| 44 | [tensorcircuit/tensorcircuit-ng](./tensorcircuit-tensorcircuit-ng.md) | ⭐ 69 | Python | 51/100 |
+| 45 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 51 | Python | 51/100 |
+| 46 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 130 | Python | 51/100 |
+| 47 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 24 | Shell | 50/100 |
+| 48 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 24 | Swift | 50/100 |
+| 49 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 27 | Python | 50/100 |
+| 50 | [quantamixsol/graqle](./quantamixsol-graqle.md) | ⭐ 22 | Python | 50/100 |
+| 51 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
 
 ---
 

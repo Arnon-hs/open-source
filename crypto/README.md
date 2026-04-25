@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**172 projects** in this category.
+**174 projects** in this category.
 
 ## Projects
 
@@ -27,8 +27,8 @@
 | 17 | [lsdefine/GenericAgent](./lsdefine-genericagent.md) | ⭐ 6.9k | Python | 97/100 |
 | 18 | [openssl/openssl](./openssl-openssl.md) | ⭐ 30.1k | C | 97/100 |
 | 19 | [smartcontractkit/chainlink](./smartcontractkit-chainlink.md) | ⭐ 8.2k | Go | 97/100 |
-| 20 | [aptos-labs/aptos-core](./aptos-labs-aptos-core.md) | ⭐ 6.4k | Rust | 96/100 |
-| 21 | [NVIDIA/TensorRT-LLM](./nvidia-tensorrt-llm.md) | ⭐ 13.5k | Python | 96/100 |
+| 20 | [NVIDIA/TensorRT-LLM](./nvidia-tensorrt-llm.md) | ⭐ 13.5k | Python | 96/100 |
+| 21 | [aptos-labs/aptos-core](./aptos-labs-aptos-core.md) | ⭐ 6.4k | Rust | 96/100 |
 | 22 | [ethereum-optimism/optimism](./ethereum-optimism-optimism.md) | ⭐ 6.4k | Go | 96/100 |
 | 23 | [canopy-network/canopy](./canopy-network-canopy.md) | ⭐ 10.6k | Go | 96/100 |
 | 24 | [bitcoin/bitcoin](./bitcoin-bitcoin.md) | ⭐ 88.9k | C++ | 96/100 |
@@ -140,7 +140,7 @@
 | 130 | [onflow/flow](./onflow-flow.md) | ⭐ 359 | Go | 55/100 |
 | 131 | [fedimint/fedimint](./fedimint-fedimint.md) | ⭐ 684 | Rust | 55/100 |
 | 132 | [emmansun/gmsm](./emmansun-gmsm.md) | ⭐ 511 | Go | 55/100 |
-| 133 | [omnuron/omniclaw](./omnuron-omniclaw.md) | ⭐ 502 | Python | 54/100 |
+| 133 | [omnuron/omniclaw](./omnuron-omniclaw.md) | ⭐ 503 | Python | 54/100 |
 | 134 | [billimek/k8s-gitops](./billimek-k8s-gitops.md) | ⭐ 768 | YAML | 54/100 |
 | 135 | [Merit-Systems/x402scan](./merit-systems-x402scan.md) | ⭐ 326 | TypeScript | 54/100 |
 | 136 | [Scottcjn/rustchain-bounties](./scottcjn-rustchain-bounties.md) | ⭐ 130 | Python | 54/100 |
@@ -169,17 +169,19 @@
 | 159 | [Fr-e-d/GAAI-framework](./fr-e-d-gaai-framework.md) | ⭐ 132 | Shell | 51/100 |
 | 160 | [bitrouter/bitrouter](./bitrouter-bitrouter.md) | ⭐ 77 | Rust | 51/100 |
 | 161 | [portel-dev/photon](./portel-dev-photon.md) | ⭐ 91 | TypeScript | 51/100 |
-| 162 | [OmenAI/OmenAI](./omenai-omenai.md) | ⭐ 25 | TypeScript | 50/100 |
-| 163 | [tenequm/skills](./tenequm-skills.md) | ⭐ 24 | Python | 50/100 |
-| 164 | [GaloisInc/cryptol](./galoisinc-cryptol.md) | ⭐ 1.2k | Haskell | 50/100 |
-| 165 | [allsmog/vuln-scout](./allsmog-vuln-scout.md) | ⭐ 14 | Python | 50/100 |
-| 166 | [paradigmxyz/revmc](./paradigmxyz-revmc.md) | ⭐ 270 | Rust | 50/100 |
-| 167 | [vladkesler/initrunner](./vladkesler-initrunner.md) | ⭐ 38 | Python | 50/100 |
-| 168 | [minhoyoo-iotrust/WAIaaS](./minhoyoo-iotrust-waiaas.md) | ⭐ 24 | TypeScript | 50/100 |
-| 169 | [tenuo-ai/tenuo](./tenuo-ai-tenuo.md) | ⭐ 55 | Rust | 50/100 |
-| 170 | [AlekseyKorshuk/yoomoney-api](./alekseykorshuk-yoomoney-api.md) | ⭐ 300 | Python | 49/100 |
-| 171 | [depado/goploader](./depado-goploader.md) | ⭐ 300 | JavaScript | 49/100 |
-| 172 | [wilpel/caveman-compression](./wilpel-caveman-compression.md) | ⭐ 809 | Python | 40/100 |
+| 162 | [igoropaniuk/stonks-cli](./igoropaniuk-stonks-cli.md) | ⭐ 48 | Python | 50/100 |
+| 163 | [OmenAI/OmenAI](./omenai-omenai.md) | ⭐ 25 | TypeScript | 50/100 |
+| 164 | [tenequm/skills](./tenequm-skills.md) | ⭐ 24 | Python | 50/100 |
+| 165 | [GaloisInc/cryptol](./galoisinc-cryptol.md) | ⭐ 1.2k | Haskell | 50/100 |
+| 166 | [allsmog/vuln-scout](./allsmog-vuln-scout.md) | ⭐ 14 | Python | 50/100 |
+| 167 | [paradigmxyz/revmc](./paradigmxyz-revmc.md) | ⭐ 270 | Rust | 50/100 |
+| 168 | [vladkesler/initrunner](./vladkesler-initrunner.md) | ⭐ 38 | Python | 50/100 |
+| 169 | [minhoyoo-iotrust/WAIaaS](./minhoyoo-iotrust-waiaas.md) | ⭐ 24 | TypeScript | 50/100 |
+| 170 | [tenuo-ai/tenuo](./tenuo-ai-tenuo.md) | ⭐ 55 | Rust | 50/100 |
+| 171 | [AlekseyKorshuk/yoomoney-api](./alekseykorshuk-yoomoney-api.md) | ⭐ 300 | Python | 49/100 |
+| 172 | [depado/goploader](./depado-goploader.md) | ⭐ 300 | JavaScript | 49/100 |
+| 173 | [adyen-examples/adyen-node-online-payments](./adyen-examples-adyen-node-online-payments.md) | ⭐ 67 | JavaScript | 46/100 |
+| 174 | [wilpel/caveman-compression](./wilpel-caveman-compression.md) | ⭐ 809 | Python | 40/100 |
 
 ---
 

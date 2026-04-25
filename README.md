@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4571** |
+| 🗂️ **Total projects** | **4651** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1768 | [Browse →](./aiml/) |
-| 📦 **Misc** | 727 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 463 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 435 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 270 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 247 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 172 | [Browse →](./crypto/) |
-| 📊 **Data** | 116 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 108 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 66 | [Browse →](./payments/) |
-| 📱 **Mobile** | 63 | [Browse →](./mobile/) |
-| 📈 **Trading** | 49 | [Browse →](./trading/) |
-| 🔐 **Security** | 47 | [Browse →](./security/) |
+| 🤖 **AI/ML** | 1802 | [Browse →](./aiml/) |
+| 📦 **Misc** | 740 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 467 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 439 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 277 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 249 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 174 | [Browse →](./crypto/) |
+| 📊 **Data** | 119 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 110 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 69 | [Browse →](./payments/) |
+| 📱 **Mobile** | 65 | [Browse →](./mobile/) |
+| 📈 **Trading** | 51 | [Browse →](./trading/) |
+| 🔐 **Security** | 49 | [Browse →](./security/) |
 | ✨ **Design** | 19 | [Browse →](./design/) |
 | 🎯 **Product** | 15 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 6 | [Browse →](./marketing/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [NoFxAiOS/nofx](./crypto/nofxaios-nofx.md) | ⭐ 12k | Crypto |
-| 2 | [nicolargo/glances](./backend/nicolargo-glances.md) | ⭐ 32.3k | Backend |
-| 3 | [astral-sh/ruff](./frontend/astral-sh-ruff.md) | ⭐ 47.2k | Frontend |
-| 4 | [alibaba/nacos](./aiml/alibaba-nacos.md) | ⭐ 32.9k | AI/ML |
-| 5 | [nhivp/Awesome-Embedded](./aiml/nhivp-awesome-embedded.md) | ⭐ 8.5k | AI/ML |
-| 6 | [Mintplex-Labs/anything-llm](./aiml/mintplex-labs-anything-llm.md) | ⭐ 58.9k | AI/ML |
-| 7 | [juicedata/juicefs](./aiml/juicedata-juicefs.md) | ⭐ 13.5k | AI/ML |
-| 8 | [swc-project/swc](./misc/swc-project-swc.md) | ⭐ 33.4k | Misc |
-| 9 | [rowboatlabs/rowboat](./orchestration/rowboatlabs-rowboat.md) | ⭐ 13.1k | Orchestration |
-| 10 | [pola-rs/polars](./data/pola-rs-polars.md) | ⭐ 38.3k | Data |
+| 2 | [astral-sh/ruff](./frontend/astral-sh-ruff.md) | ⭐ 47.2k | Frontend |
+| 3 | [alibaba/nacos](./aiml/alibaba-nacos.md) | ⭐ 32.9k | AI/ML |
+| 4 | [nicolargo/glances](./backend/nicolargo-glances.md) | ⭐ 32.3k | Backend |
+| 5 | [oppia/oppia](./misc/oppia-oppia.md) | ⭐ 6.7k | Misc |
+| 6 | [nhivp/Awesome-Embedded](./aiml/nhivp-awesome-embedded.md) | ⭐ 8.5k | AI/ML |
+| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 8 | [coleam00/Archon](./aiml/coleam00-archon.md) | ⭐ 19.6k | AI/ML |
+| 9 | [Mintplex-Labs/anything-llm](./aiml/mintplex-labs-anything-llm.md) | ⭐ 58.9k | AI/ML |
+| 10 | [juicedata/juicefs](./aiml/juicedata-juicefs.md) | ⭐ 13.5k | AI/ML |
 
 ## 🚀 How it works
 
