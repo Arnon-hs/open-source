@@ -25,9 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the ProjectPhysX/hw-smi open-source project:
-
-ProjectPhysX/hw-smi is an open-source CPU/GPU telemetry monitor that provides accurate data directly from vendor APIs. This cross-compatible tool offers a minimalistic yet beautiful ASCII visualization, making it a valuable resource for users seeking detailed system performance insights. With its robust backend and data handling capabilities, it's an ideal solution for AI/ML and data-driven applications.
+ProjectPhysX/hw-smi is an open-source, cross-compatible CPU/GPU telemetry monitor that provides accurate data directly from vendor APIs. This minimal, yet feature-rich tool offers a beautiful ASCII visualization of system performance metrics, making it an ideal solution for developers and system administrators. With its focus on data-driven insights, it caters to the needs of AI/ML, backend, and data professionals.
 
 ---
 

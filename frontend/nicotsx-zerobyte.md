@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-zerobyte is an open-source backup automation project designed for self-hosters, built on top of the reliable restic backup system. This project aims to simplify the process of backing up critical data by providing a user-friendly interface for easy management. By automating backups, zerobyte offers peace of mind for users to securely store and preserve their data.
+Here's a brief summary for the nicotsx/zerobyte project:
+
+zerobyte is a user-friendly, open-source backup automation tool designed for self-hosters, built on top of the powerful restic framework. It simplifies the process of backing up and restoring data, providing a convenient frontend interface for users to manage their backups. zerobyte enables users to securely and reliably protect their self-hosted data with minimal effort.
 
 ---
 

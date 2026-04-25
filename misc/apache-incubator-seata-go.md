@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Apache Incubator Seata-Go is an open-source, Go implementation of Seata, a distributed transaction management framework. This project enables developers to leverage the power of Seata in Go-based applications, providing a scalable and reliable solution for distributed transactions. By utilizing Seata-Go, developers can build more robust and fault-tolerant applications.
+The Apache Seata Go project is an open-source implementation of the Seata distributed transaction management system, specifically designed for the Go programming language. This project enables developers to leverage Seata's features, such as distributed transactions, in Go applications, promoting easier integration with microservices and improving overall system reliability. By providing a Go-based interface, the project facilitates the adoption of Seata in Go-based systems.
 
 ---
 

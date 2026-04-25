@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the TalkCody project:
-
-TalkCody is a free, open-source AI coding agent designed to revolutionize the way we interact with code. This innovative tool allows developers to demonstrate their coding skills through conversation, making it a valuable resource for learning and collaboration. By providing a conversational interface to coding, TalkCody aims to bridge the gap between code and understanding.
+TalkCody is a free, open-source AI coding agent designed to facilitate creative coding experiences. This project utilizes AI to generate code snippets, allowing users to focus on the visual and interactive aspects of coding, such as presenting or 'talking' about code. By leveraging AI, TalkCody aims to make coding more accessible and engaging.
 
 ---
 

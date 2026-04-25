@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The "Learn Go with Tests" project is a comprehensive resource that introduces developers to the Go programming language using the test-driven development (TDD) approach. This open-source project guides users through a series of hands-on exercises and examples, allowing them to learn Go by writing tests first. By following this approach, developers can build a strong foundation in Go and gain experience with TDD best practices.
+This open-source project, "Learn Go with Tests," is an educational resource designed to teach the programming language Go using test-driven development (TDD). Through a series of exercises and examples, developers can learn the fundamentals of Go while practicing TDD principles, a key aspect of software development. By following this project, beginners can gain hands-on experience with Go and the TDD methodology.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the Apache Paimon Rust project:
-
-Apache Paimon Rust is an open-source implementation of the Apache Paimon project in the Rust programming language. It provides a foundation for building scalable and efficient data storage solutions, catering to the needs of AI and ML applications. By leveraging the strengths of Rust, Apache Paimon Rust enables developers to create high-performance data pipelines and architectures.
+Apache Paimon Rust is an open-source project that provides a Rust implementation of Apache Paimon, a distributed, scalable, and high-performance storage engine for AI and ML workloads. This project enables developers to utilize Apache Paimon's capabilities in Rust-based applications, facilitating efficient data storage and processing. By leveraging Paimon's strengths, Rust developers can build high-performance data pipelines and analytics systems.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The peco project is an open-source, interactive filtering tool that provides a simple way to search and filter through large datasets. It offers an efficient and user-friendly interface for narrowing down options, making it a valuable resource for developers and users alike. With its straightforward design, peco is an ideal solution for filtering and selecting items in a variety of applications.
+Peco is an open-source, simplistic interactive filtering tool designed to provide a straightforward and user-friendly way to filter and navigate through large datasets. It offers a command-line interface and allows users to easily refine their search results by applying filters and making selections. With Peco, users can quickly extract the information they need from complex datasets.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The elgatosf/streamdeck project is an open-source implementation of the Stream Deck SDK, allowing developers to create custom integrations and plugins for the popular Stream Deck hardware. This project provides a software development kit (SDK) for interacting with the Stream Deck, enabling users to create personalized shortcuts and automate various tasks. By utilizing this SDK, developers can expand the capabilities of the Stream Deck beyond its native features.
+The elgatosf/streamdeck project is an open-source implementation of the Stream Deck SDK. This project provides a software development kit (SDK) for interacting with Elgato Stream Deck devices, allowing developers to create custom applications and integrations with these devices. It enables users to expand the functionality of their Stream Deck devices and integrate them with a wide range of applications and services.
 
 ---
 

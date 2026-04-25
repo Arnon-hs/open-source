@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-ObeLI-sk (obelisk) is an open-source workflow engine designed to provide a durable and deterministic environment for managing complex tasks and workflows. It ensures reproducibility and reliability by maintaining a consistent state and outcome, even in the face of failures or interruptions. This allows developers to build robust and fault-tolerant applications with predictable behavior.
+Obelisk is an open-source, durable, and deterministic workflow engine designed to provide robust and reliable execution of complex workflows. Its deterministic nature ensures consistent outcomes, making it an ideal choice for applications where reliability and reproducibility are paramount. This workflow engine offers a solid foundation for building dependable automation systems.
 
 ---
 

@@ -1,6 +1,6 @@
 # EvoLinkAI/awesome-gpt-image-2-prompts
 
-[![Stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-gpt-image-2-prompts?style=flat-square&color=yellow)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/EvoLinkAI/awesome-gpt-image-2-prompts?style=flat-square&color=blue)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-gpt-image-2-prompts?style=flat-square&color=yellow)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/EvoLinkAI/awesome-gpt-image-2-prompts?style=flat-square&color=blue)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 303 |
+| ⭐ **Stars** | 3.5k |
+| 🍴 **Forks** | 305 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

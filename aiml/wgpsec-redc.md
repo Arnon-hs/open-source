@@ -25,9 +25,7 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project 'wgpsec/redc':
-
-Redc is a next-generation infrastructure as code (IaC) tool designed to bridge the gap between automation, security, and innovation. Built with AI and machine learning capabilities, Redc empowers developers and security professionals to manage infrastructure with unparalleled efficiency and reliability. By streamlining IaC processes, Redc helps organizations reduce risk and accelerate digital transformation.
+Redc is an open-source, next-generation infrastructure as code (IaC) tool designed to simplify the management of complex infrastructure configurations. Built on cutting-edge technologies, it utilizes AI and machine learning to automate infrastructure provisioning, deployment, and security, providing a robust and scalable solution for modern DevOps and security teams. Redc empowers users to create, manage, and secure their infrastructure with ease and efficiency.
 
 ---
 

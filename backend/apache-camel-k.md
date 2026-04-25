@@ -25,7 +25,7 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Apache Camel K is an open-source, lightweight integration platform specifically designed for Kubernetes environments, offering serverless capabilities. It enables developers to build, deploy, and manage event-driven architectures with ease, streamlining integration tasks and reducing complexity. By leveraging Kubernetes and serverless technologies, Camel K provides a flexible and scalable solution for integrating applications and services.
+Apache Camel K is an open-source, serverless integration platform designed for Kubernetes environments. It enables developers to build and deploy lightweight integration applications with ease, leveraging the power of Kubernetes and serverless capabilities. By using Camel K, users can create event-driven microservices and APIs with minimal infrastructure overhead.
 
 ---
 

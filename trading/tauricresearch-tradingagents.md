@@ -25,9 +25,9 @@ Trading · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the TradingAgents project:
+Here's a brief summary for the TradingAgents open-source project:
 
-TradingAgents is an open-source, multi-agents LLM (Large Language Model) financial trading framework that utilizes artificial intelligence and machine learning to facilitate complex trading strategies. This framework enables seamless orchestration and collaboration among multiple trading agents, allowing for more sophisticated and adaptive trading decisions. By leveraging the power of LLMs, TradingAgents aims to revolutionize the world of financial trading with its cutting-edge technology.
+TradingAgents is an open-source, multi-agent framework for financial trading that leverages Large Language Models (LLM) to enable sophisticated trading strategies. This framework allows developers to create and orchestrate multiple trading agents, empowering them to optimize trading decisions and adapt to dynamic market conditions. By harnessing the power of AI/ML, TradingAgents aims to revolutionize the trading industry with more informed and autonomous decision-making.
 
 ---
 

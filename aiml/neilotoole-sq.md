@@ -25,9 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "neilotoole/sq":
-
-Sq is an open-source data wrangling tool that helps users efficiently manage and manipulate data. Designed for flexibility and scalability, sq provides a powerful backend solution for various data-related tasks, particularly suitable for AI/ML applications. With its robust features and user-friendly interface, sq simplifies data processing and analysis, making it an essential tool for data scientists and engineers.
+The sq data wrangler is an open-source project designed to simplify data manipulation and analysis tasks. This project provides a powerful tool for data professionals and developers to work efficiently with data, making it a valuable resource for anyone working with datasets. sq aims to streamline data wrangling processes, making it easier to extract insights and gain a deeper understanding of complex data.
 
 ---
 

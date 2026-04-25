@@ -25,7 +25,7 @@ Trading · Security
 
 ## 📝 Summary
 
-MISP is an open-source threat intelligence and sharing platform that enables users to collect, store, and share threat indicators. It serves as a centralized hub for gathering and disseminating cybersecurity information, fostering collaboration among security professionals. This platform supports standardized formats for threat intelligence sharing and provides a user-friendly interface for data management and analysis.
+MISP is an open-source threat intelligence and sharing platform that provides a collaborative environment for organizations to share and analyze cybersecurity threats. This platform enables the exchange of threat indicators, such as IP addresses, domains, and malware hashes, to enhance situational awareness and facilitate collective defense against cyber threats. By leveraging MISP, security professionals can efficiently share and consume threat intelligence.
 
 ---
 

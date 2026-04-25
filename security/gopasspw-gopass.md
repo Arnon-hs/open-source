@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-gopass is an open-source, team-friendly password manager that provides a secure and standard Unix password storage solution. It allows users to store and manage sensitive information, such as login credentials and encryption keys, with robust encryption and access control. This project aims to offer a reliable and user-friendly alternative for teams looking to secure their sensitive data.
+gopass is an open-source, team-oriented password manager that provides a secure and efficient way to manage sensitive information. Built on Unix standards, it offers a robust and user-friendly solution for teams to store and manage their passwords, credentials, and other sensitive data. With its focus on security, gopass aims to be a reliable and accessible alternative for password management.
 
 ---
 

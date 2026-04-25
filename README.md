@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4731** |
+| 🗂️ **Total projects** | **4782** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1831 | [Browse →](./aiml/) |
-| 📦 **Misc** | 753 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 474 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 444 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 285 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 253 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 176 | [Browse →](./crypto/) |
-| 📊 **Data** | 120 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 113 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 72 | [Browse →](./payments/) |
-| 📱 **Mobile** | 65 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 1856 | [Browse →](./aiml/) |
+| 📦 **Misc** | 758 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 477 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 449 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 287 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 255 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 177 | [Browse →](./crypto/) |
+| 📊 **Data** | 122 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 115 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 73 | [Browse →](./payments/) |
+| 📱 **Mobile** | 66 | [Browse →](./mobile/) |
 | 📈 **Trading** | 54 | [Browse →](./trading/) |
-| 🔐 **Security** | 51 | [Browse →](./security/) |
+| 🔐 **Security** | 52 | [Browse →](./security/) |
 | ✨ **Design** | 19 | [Browse →](./design/) |
-| 🎯 **Product** | 15 | [Browse →](./product/) |
+| 🎯 **Product** | 16 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 6 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [harvard-edge/cs249r_book](./aiml/harvard-edge-cs249r-book.md) | ⭐ 23.8k | AI/ML |
-| 2 | [janhq/jan](./aiml/janhq-jan.md) | ⭐ 42.1k | AI/ML |
-| 3 | [Skyvern-AI/skyvern](./aiml/skyvern-ai-skyvern.md) | ⭐ 21.4k | AI/ML |
-| 4 | [VictoriaMetrics/VictoriaMetrics](./data/victoriametrics-victoriametrics.md) | ⭐ 16.9k | Data |
-| 5 | [web-platform-tests/wpt](./aiml/web-platform-tests-wpt.md) | ⭐ 5.9k | AI/ML |
-| 6 | [winsiderss/systeminformer](./security/winsiderss-systeminformer.md) | ⭐ 14k | Security |
-| 7 | [opendataloader-project/opendataloader-pdf](./aiml/opendataloader-project-opendataloader-pdf.md) | ⭐ 19.2k | AI/ML |
-| 8 | [qdrant/qdrant](./aiml/qdrant-qdrant.md) | ⭐ 30.6k | AI/ML |
-| 9 | [kornia/kornia](./aiml/kornia-kornia.md) | ⭐ 11.2k | AI/ML |
-| 10 | [farion1231/cc-switch](./aiml/farion1231-cc-switch.md) | ⭐ 50.9k | AI/ML |
+| 1 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](./aiml/youmind-openlab-awesome-nano-banana-pro-prompts.md) | ⭐ 11.5k | AI/ML |
+| 2 | [dyad-sh/dyad](./aiml/dyad-sh-dyad.md) | ⭐ 20.2k | AI/ML |
+| 3 | [dgtlmoon/changedetection.io](./backend/dgtlmoon-changedetection.io.md) | ⭐ 31.2k | Backend |
+| 4 | [volcano-sh/volcano](./aiml/volcano-sh-volcano.md) | ⭐ 5.5k | AI/ML |
+| 5 | [raysan5/raylib](./mobile/raysan5-raylib.md) | ⭐ 32.5k | Mobile |
+| 6 | [dubinc/dub](./aiml/dubinc-dub.md) | ⭐ 23.4k | AI/ML |
+| 7 | [huggingface/chat-ui](./aiml/huggingface-chat-ui.md) | ⭐ 10.7k | AI/ML |
+| 8 | [apache/superset](./frontend/apache-superset.md) | ⭐ 72.6k | Frontend |
+| 9 | [wilsonfreitas/awesome-quant](./trading/wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | Trading |
+| 10 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 19.3k | Orchestration |
 
 ## 🚀 How it works
 

@@ -25,7 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The tak-bro/aicommit2 project is an open-source, React-based CLI tool designed to utilize various AI models, including Ollama, ChatGPT, and Gemini, to generate commit messages for Git and Jujutsu. This innovative tool streamlines the process of writing commit messages by leveraging AI capabilities, making it easier for developers to maintain consistency and quality in their code. With its integration of multiple AI models, aicommit2 offers a versatile solution for teams and individuals alike.
+Here's a brief summary of the open-source project:
+
+The tak-bro/aicommit2 project is a reactive CLI tool that leverages various AI models such as Ollama, ChatGPT, Gemini, Claude, and Mistral to generate commit messages for Git and Jujutsu. This innovative tool streamlines the development process by providing AI-driven suggestions for commit messages, saving time and effort for developers. With its open-source nature, it allows the community to contribute and enhance the project further.
 
 ---
 

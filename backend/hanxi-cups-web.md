@@ -25,9 +25,9 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the hanxi/cups-web project:
+Here's a brief summary for the open-source project "hanxi/cups-web":
 
-This open-source project, hanxi/cups-web, transforms home USB printers into network-accessible print services, providing remote and convenient printing capabilities. Built with a focus on backend development and DevOps infrastructure, the project makes it easy to share printers across devices and locations. With this solution, users can access their printers from anywhere, eliminating the need for physical connections.
+This project, "cups-web", transforms a home USB printer into a network-accessible print service, allowing users to print from anywhere. It enables remote access to the printer by leveraging the CUPS (Common Unix Printing System) protocol. This project simplifies the process of setting up a network printer and makes it easily accessible over the web.
 
 ---
 

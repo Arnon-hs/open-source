@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-The apache/casbin-rs project is an open-source Rust library for authorization that supports various access control models, including ACL (Access Control List), RBAC (Role-Based Access Control), and ABAC (Attribute-Based Access Control). It enables developers to implement fine-grained permissions and role-based access control in their Rust applications. This library provides a versatile and scalable solution for managing authorization logic.
+The apache/casbin-rs project is an open-source Rust library that provides a robust authorization framework for enforcing access control policies in software applications. It supports various access control models, including ACL (Access Control List), RBAC (Role-Based Access Control), and ABAC (Attribute-Based Access Control). This library enables developers to implement secure and flexible authorization logic in their Rust-based projects.
 
 ---
 

@@ -27,7 +27,7 @@ Backend
 
 Here's a brief summary for the 0x727/FingerprintHub project:
 
-FingerprintHub is an open-source fingerprint library for ObserverWard, designed to provide a centralized repository for detecting and identifying malicious behaviors. This backend project utilizes a fingerprinting approach to collect and store behavioral patterns, enabling efficient identification and mitigation of security threats. By leveraging a shared knowledge base, FingerprintHub enhances the overall security posture of ObserverWard.
+FingerprintHub is an open-source, backend project that serves as a fingerprint library for ObserverWard, a surveillance tool. It stores and manages unique identifiers for various targets, allowing for efficient and scalable detection. This project facilitates the development of robust surveillance systems by providing a centralized repository for fingerprint data.
 
 ---
 

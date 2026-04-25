@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-Freya is a cross-platform, non-web GUI library written in Rust that leverages the Skia graphics engine for rendering. This open-source project provides a robust and versatile foundation for building native desktop applications with a modern and performant GUI. By utilizing Rust and Skia, Freya aims to offer a seamless and efficient development experience.
+Here's a brief summary for the project:
+
+Freya is an open-source, cross-platform GUI library for Rust, designed to provide a non-web user interface. Powered by the Skia graphics engine, Freya offers a robust and flexible solution for building desktop applications. With its focus on Rust and Skia, Freya aims to provide a high-performance and efficient GUI library for developers.
 
 ---
 

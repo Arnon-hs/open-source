@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the ai-shifu project:
-
-ai-shifu is an open-source project that empowers users to interact with AI through simple text-based conversations, allowing them to ask questions and receive informative responses. This AI-powered tool aims to democratize access to knowledge and provide a seamless learning experience for users of all levels. By leveraging AI technology, ai-shifu enables users to explore and learn new concepts with ease.
+The ai-shifu project is an open-source initiative that enables users to interact with AI and receive answers to their queries through simple typing. This user-friendly interface allows individuals to engage in a question-and-answer session with AI, facilitating learning and exploration of various topics. By leveraging AI capabilities, ai-shifu aims to democratize access to knowledge and make it more accessible to a broader audience.
 
 ---
 

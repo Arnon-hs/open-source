@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Fselect is an open-source tool that enables you to find files using SQL-like queries, simplifying the process of locating specific files within a directory. It allows you to define custom search queries, making it an effective solution for managing large file collections. With Fselect, you can efficiently identify and retrieve the files you need with ease.
+The fselect project allows users to search for files using SQL-like queries, simplifying the process of locating specific files within a directory. By emulating SQL syntax, fselect provides a flexible and intuitive interface for filtering files based on various attributes. This tool is particularly useful for developers and system administrators who need to navigate complex file systems efficiently.
 
 ---
 

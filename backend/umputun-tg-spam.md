@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The umputun/tg-spam project is an open-source anti-spam solution for Telegram, designed to prevent spam and abuse within the platform. It also serves as a general-purpose anti-spam library and server, offering a flexible and customizable approach to combating spam and malicious activity. This project aims to provide a robust and effective solution for protecting Telegram users and maintaining a spam-free environment.
+The tg-spam project is an open-source, anti-spam solution for Telegram, designed to combat spam bots and malicious activity within the platform. This project also serves as a general-purpose anti-spam library and server, providing a robust framework for developers to implement anti-spam functionality in their applications. By utilizing tg-spam, users and developers can help maintain a safer and more secure online environment.
 
 ---
 

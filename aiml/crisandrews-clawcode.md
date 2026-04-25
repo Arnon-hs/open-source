@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the ClawCode project:
-
-ClawCode is an open-source plugin that enables persistent agents for Claude Code, a conversational AI platform. It enables features such as memory, personality, and messaging across multiple platforms like WhatsApp, Telegram, and Discord, making it ideal for 24/7 automated tasks. The project utilizes OpenClaw imports to provide a robust and scalable solution for AI-powered applications.
+ClawCode is an open-source project that integrates persistent agents with Claude Code, enabling 24/7 operations in service mode. It supports various messaging platforms, including WhatsApp, Telegram, and Discord, and offers a range of features such as memory and personality management. This project utilizes imports from OpenClaw and is designed as a plugin rather than a standalone harness.
 
 ---
 

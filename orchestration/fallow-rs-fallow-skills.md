@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
+Here's a 2-3 sentence summary for the fallow-skills project:
 
-Fallow-skills is an open-source project providing codebase intelligence for JavaScript and TypeScript, empowering AI agents to identify and address common code quality issues such as unused code, duplication, and complexity hotspots. This versatile framework is compatible with various agents, including Claude Code, Cursor, and Codex, enabling developers to optimize their codebases with ease. By leveraging fallow-skills, developers can maintain healthy and maintainable codebases, reducing technical debt and improving overall software quality.
+Fallow-skills is an open-source project that empowers AI agents to analyze and optimize codebases by detecting issues such as unused code, duplication, and complexity hotspots. This codebase intelligence tool integrates with various agents, including Claude Code, Cursor, and Codex, to provide insights and improvements for developers. By leveraging fallow-skills, developers can maintain healthy and maintainable codebases.
 
 ---
 

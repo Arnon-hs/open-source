@@ -1,6 +1,6 @@
 # rullerzhou-afk/clawd-on-desk
 
-[![Stars](https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?style=flat-square&color=yellow)](https://github.com/rullerzhou-afk/clawd-on-desk/stargazers) [![Forks](https://img.shields.io/github/forks/rullerzhou-afk/clawd-on-desk?style=flat-square&color=blue)](https://github.com/rullerzhou-afk/clawd-on-desk/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?style=flat-square&color=yellow)](https://github.com/rullerzhou-afk/clawd-on-desk/stargazers) [![Forks](https://img.shields.io/github/forks/rullerzhou-afk/clawd-on-desk?style=flat-square&color=blue)](https://github.com/rullerzhou-afk/clawd-on-desk/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 185 |
+| 🍴 **Forks** | 186 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

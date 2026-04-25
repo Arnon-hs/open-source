@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Rnote is an open-source project allowing users to create digital notes in a handwritten format. With its sketching capabilities, users can efficiently capture and organize their handwritten notes digitally. This feature-rich tool caters to those looking for a more tactile and flexible note-taking experience.
+The rnote project is an open-source tool that enables users to create digital sketches and handwritten notes. It provides a platform for users to express themselves creatively through various forms of digital expression. This versatile tool can be used for note-taking, brainstorming, and other artistic purposes.
 
 ---
 

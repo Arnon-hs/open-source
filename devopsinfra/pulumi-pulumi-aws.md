@@ -25,9 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the pulumi/pulumi-aws project:
-
-The pulumi-aws project is an open-source, multi-language package that provides access to Amazon Web Services (AWS) resources through Pulumi, a cloud-agnostic infrastructure-as-code tool. This package enables users to manage and provision AWS resources programmatically, streamlining DevOps and infrastructure development workflows. With pulumi-aws, developers can leverage AWS services across various programming languages and frameworks.
+The Pulumi AWS package is an open-source project that enables developers to manage and deploy Amazon Web Services (AWS) resources across multiple programming languages. This package provides a unified interface to AWS, allowing users to define and deploy infrastructure as code (IaC) in a language-agnostic manner. With Pulumi AWS, developers can easily create, manage, and scale AWS resources in a consistent and reproducible way.
 
 ---
 

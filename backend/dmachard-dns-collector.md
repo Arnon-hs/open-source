@@ -25,7 +25,7 @@ Backend · Data · Security
 
 ## 📝 Summary
 
-The DNS-collector is an open-source project that aggregates and analyzes DNS logs to identify anomalies and provide insights into network activity. By bridging the gap between DNS servers and data stacks, this tool enables users to better understand and secure their networks. Its capabilities make it an essential component for network security and monitoring.
+The DNS-collector project is an open-source tool designed to collect and analyze DNS logs, enabling users to identify anomalies and gain valuable insights into network activity. By bridging the gap between DNS servers and data stacks, it provides a comprehensive understanding of network traffic, promoting better security and data-driven decision-making. This tool is ideal for organizations looking to improve their network monitoring and security capabilities.
 
 ---
 

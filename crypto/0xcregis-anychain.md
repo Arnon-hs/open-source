@@ -25,7 +25,9 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-AnyChain is an open-source, multi-chain Rust wallet SDK that enables seamless integration with various blockchain platforms, including Bitcoin, Ethereum, Tron, and Solana. This comprehensive SDK allows developers to build scalable, secure, and feature-rich wallets for diverse cryptocurrency ecosystems. By leveraging AnyChain, developers can accelerate wallet development and tap into the growing world of blockchain and cryptocurrency applications.
+Here's a brief summary for the 0xcregis/anychain project:
+
+Anychain is an open-source, multi-chain wallet SDK developed in Rust, enabling seamless interactions with various blockchain networks, including Bitcoin, Ethereum, Tron, and Solana. This SDK provides a unified interface for developers to integrate multiple blockchain functionalities into their applications, simplifying the process of creating cross-chain solutions. By leveraging Anychain, developers can create more robust and scalable blockchain-based projects.
 
 ---
 
