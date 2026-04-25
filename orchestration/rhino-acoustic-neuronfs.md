@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the rhino-acoustic/NeuronFS project:
+Here's a brief summary of the project:
 
-NeuronFS is an open-source project that revolutionizes AI infrastructure with a novel approach to folder management. By leveraging a B-tree data structure and 0-byte folders, it achieves significant efficiency gains, reducing token costs by approximately 200x. This innovative system also enables native constraint engines for Large Language Model (LLM) agents.
+NeuronFS is an open-source, B-tree based file system that optimizes AI infrastructure by reducing costs and increasing efficiency. With 0-byte folders and ₩0 infrastructure costs, it enables developers to manage large-scale AI workloads with minimal overhead. This innovative file system also integrates with LLM (Large Language Model) agents using an OS-native constraint engine.
 
 ---
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The GitHub Agentic Workflows Firewall is an open-source project designed to provide secure and controlled execution of GitHub Actions workflows. This project leverages AI/ML capabilities to detect and prevent unauthorized or malicious workflow executions, ensuring the integrity and security of your GitHub repository. By implementing this firewall, users can maintain a high level of control over their workflow activities.
+The GitHub Agentic Workflows Firewall is an open-source project that provides a secure and controlled environment for managing GitHub actions and workflows. This project leverages AI/ML capabilities to detect and prevent unauthorized or malicious workflow executions, ensuring the integrity and security of your GitHub repositories. By implementing this firewall, users can maintain a high level of control and visibility over their workflows.
 
 ---
 

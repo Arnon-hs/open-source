@@ -1,8 +1,8 @@
 # tuist/tuist
 
-[![Stars](https://img.shields.io/github/stars/tuist/tuist?style=flat-square&color=yellow)](https://github.com/tuist/tuist/stargazers) [![Forks](https://img.shields.io/github/forks/tuist/tuist?style=flat-square&color=blue)](https://github.com/tuist/tuist/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tuist/tuist?style=flat-square&color=yellow)](https://github.com/tuist/tuist/stargazers) [![Forks](https://img.shields.io/github/forks/tuist/tuist?style=flat-square&color=blue)](https://github.com/tuist/tuist/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
-> Your mobile platform team, as a service
+> Your platform team, as a service
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 736 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 94/100 |
+| 📈 **Score** | 95/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

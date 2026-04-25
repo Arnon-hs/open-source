@@ -25,9 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the drfccv/mcp-server-12306 project:
+Here's a brief summary for the drfccv/mcp-server-12306 open-source project:
 
-The 12306 MCP Server is an open-source, high-performance backend system for querying train ticket information in real-time. It provides a standardized interface for accessing official 12306 data services, including ticket availability, station information, train stops, and transfer route planning. This project enables developers to leverage 12306's core functionality in their applications.
+The drfccv/mcp-server-12306 project is an open-source high-performance backend system for querying train ticket information using the Model Context Protocol (MCP). It provides real-time data services through standardized interfaces, including ticket availability, station information, and train route details. This system enables developers to access official 12306 data in a flexible and efficient manner.
 
 ---
 

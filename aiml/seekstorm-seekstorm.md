@@ -25,7 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-SeekStorm is an open-source project that provides a vector and lexical search library in Rust, designed for in-process use and scalable multi-tenancy server capabilities. It enables efficient and effective search functionality, leveraging Rust's performance and concurrency capabilities. This project caters to AI/ML and data-intensive applications, offering a flexible and customizable solution for developers.
+SeekStorm is an open-source, Rust-based library and server for vector and lexical search. It offers in-process functionality, making it suitable for various applications, and supports multi-tenancy, allowing multiple users to share the same instance. This versatile tool is designed to facilitate efficient and scalable search operations.
 
 ---
 

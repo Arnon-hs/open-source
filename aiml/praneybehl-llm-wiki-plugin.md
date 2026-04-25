@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The LLM Wiki Plugin is an open-source project that transforms accumulated sources into a self-maintaining and scalable markdown knowledge base. Based on Andrej Karpathy's LLM Wiki pattern, this project integrates with Claude Code to facilitate easy knowledge management and organization. By leveraging AI and ML capabilities, it streamlines the process of creating a comprehensive and up-to-date knowledge base.
+The LLM Wiki Plugin is an open-source project that brings Andrej Karpathy's LLM Wiki pattern to Claude Code, enabling users to transform accumulated sources into a self-maintaining, scalable markdown knowledge base. This plugin facilitates the creation of an organized and easily updatable knowledge repository, streamlining the process of information management and retrieval. By leveraging Claude Code, users can unlock the full potential of their accumulated knowledge.
 
 ---
 

@@ -27,7 +27,7 @@ AI/ML · Frontend · Backend
 
 Here's a brief summary for the Daghis/teamcity-mcp project:
 
-The teamcity-mcp project is an open-source Model Context Protocol (MCP) server designed to integrate with JetBrains TeamCity, enabling AI coding assistants to control and manage builds, tests, agents, and configurations remotely. This integration allows for seamless automation and collaboration between developers and AI tools, streamlining the development process. By leveraging MCP, teams can unlock the full potential of AI-powered coding assistance within their TeamCity environments.
+The Daghis/teamcity-mcp project is an open-source Model Context Protocol (MCP) server designed to integrate with JetBrains TeamCity, enabling AI coding assistants to control and manage builds, tests, agents, and configurations. This integration empowers AI coding tools to automate development workflows, streamline testing, and optimize software development processes. By bridging the gap between AI assistants and TeamCity, this project enhances collaboration and efficiency in software development.
 
 ---
 

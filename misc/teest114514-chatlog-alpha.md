@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the teest114514/chatlog_alpha project:
-
-The teest114514/chatlog_alpha project is an open-source software that builds upon the original chatlog project, a tool for decrypting and reading WeChat databases, and providing MCP and HTTP services. This updated version now supports message push via the WeChat Clawbot interface, enabling real-time forwarding of messages to Clawbot. Users can choose to forward all messages or selectively forward specified messages.
+The teest114514/chatlog_alpha project is an open-source software based on the original chatlog project, which decrypts and reads WeChat databases and provides MCP and HTTP services. This version adds the capability to push messages to WeChat via the Clawbot interface, enabling real-time forwarding of all or specific messages to Clawbot.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The cloudbase/garm project is an open-source, multi-cloud auto-scaling manager designed to optimize self-hosted runners for GitHub Actions and Gitea. It enables flexible scaling and management across various cloud providers, allowing users to leverage their existing infrastructure and adapt to changing workload demands. By providing a pluggable architecture, garm can be easily extended to support additional cloud providers and workflows.
+Garm is an open-source multi-cloud auto-scaling manager designed to work seamlessly with GitHub Actions and Gitea self-hosted runners. This project enables users to create scalable and efficient workflows across various cloud providers, thanks to its pluggable architecture that supports multiple providers. With Garm, users can easily manage their self-hosted runners and optimize resource usage in a flexible and customizable manner.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary of the LandPPT project:
 
-LandPPT is an open-source presentation generation platform powered by Large Language Models (LLMs). It automates the conversion of document content into professional-looking PPT presentations, offering a range of AI models, templates, and styles to create high-quality presentations. This platform empowers users to produce polished and engaging presentations with minimal effort.
+LandPPT is an open-source platform that leverages Large Language Models (LLM) to automatically generate professional PowerPoint presentations from document content. This AI-driven platform supports various AI models, offers a wide range of templates and styles, and empowers users to create high-quality presentations.
 
 ---
 

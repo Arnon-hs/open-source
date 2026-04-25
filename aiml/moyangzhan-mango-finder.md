@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the "mango-finder" project:
-
-"Mango-finder is an open-source, AI-powered file search tool that enables users to search their files across multiple devices using natural language queries. This innovative platform leverages machine learning algorithms to provide accurate and efficient results, saving users time and effort in locating specific files. With mango-finder, users can effortlessly search and access their files from anywhere, making it an ideal solution for individuals and teams with multiple devices."
+Mango-Finder is an open-source, AI-powered search tool that allows users to search their files across multiple devices using natural language queries. This innovative project utilizes machine learning algorithms to provide a more intuitive and efficient search experience, enabling users to find specific files quickly and easily. By leveraging AI technology, Mango-Finder aims to revolutionize the way people search and access their digital files.
 
 ---
 

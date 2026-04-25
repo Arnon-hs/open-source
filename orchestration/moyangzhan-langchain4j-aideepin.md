@@ -25,9 +25,9 @@ Orchestration · AI/ML · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the project:
 
-Langchain4j-Aideepin is an open-source, AI-based productivity tool that enables users to enhance their work efficiency through various features including chat interfaces, drawing tools, knowledge management systems, workflows, and multimedia services. This platform integrates AI capabilities such as voice recognition, text-to-speech functionality, and long-term memory storage, making it an all-in-one solution for work automation and augmentation. With its modular architecture, developers can extend and customize the tool to suit their specific needs.
+Langchain4J-AiDeepin is an open-source, AI-based productivity tool that enhances work efficiency through various features such as chat, drawing, knowledge management, workflow automation, and more. This comprehensive platform integrates capabilities like speech recognition, text-to-speech, and long-term memory to streamline tasks and boost productivity. By leveraging AI and machine learning, Langchain4J-AiDeepin aims to revolutionize the way people work.
 
 ---
 

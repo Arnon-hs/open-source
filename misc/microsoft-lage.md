@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Microsoft/Lage project is an open-source task runner designed specifically for JavaScript monorepos, allowing developers to streamline their build, test, and deployment processes across multiple projects. It aims to simplify the complexities of managing large-scale, monorepo-based codebases by providing a flexible and extensible framework for automation tasks. With Lage, developers can create custom workflows and automate repetitive tasks with ease.
+Lage is an open-source task runner designed specifically for JavaScript monorepos, allowing developers to streamline their workflows and automate tasks in complex projects. It provides a robust and customizable solution for managing tasks across multiple repositories and dependencies. With Lage, developers can simplify their development processes and increase productivity.
 
 ---
 

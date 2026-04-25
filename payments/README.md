@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**74 projects** in this category.
+**78 projects** in this category.
 
 ## Projects
 
@@ -12,10 +12,10 @@
 | 2 | [knadh/listmonk](./knadh-listmonk.md) | ⭐ 19.6k | Go | 100/100 |
 | 3 | [Pawdroid/Free-servers](./pawdroid-free-servers.md) | ⭐ 17.1k | — | 100/100 |
 | 4 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.1k | PHP | 100/100 |
-| 5 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28k | TypeScript | 100/100 |
-| 6 | [invoiceninja/invoiceninja](./invoiceninja-invoiceninja.md) | ⭐ 9.7k | PHP | 100/100 |
-| 7 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.8k | Python | 100/100 |
-| 8 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 9.8k | PHP | 100/100 |
+| 5 | [invoiceninja/invoiceninja](./invoiceninja-invoiceninja.md) | ⭐ 9.7k | PHP | 100/100 |
+| 6 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.8k | Python | 100/100 |
+| 7 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 9.8k | PHP | 100/100 |
+| 8 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28k | TypeScript | 100/100 |
 | 9 | [99designs/gqlgen](./99designs-gqlgen.md) | ⭐ 10.7k | Go | 99/100 |
 | 10 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 96/100 |
 | 11 | [killbill/killbill](./killbill-killbill.md) | ⭐ 5.4k | Java | 94/100 |
@@ -33,9 +33,9 @@
 | 23 | [FOSSBilling/FOSSBilling](./fossbilling-fossbilling.md) | ⭐ 1.5k | PHP | 65/100 |
 | 24 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.5k | Kotlin | 64/100 |
 | 25 | [robinebers/openusage](./robinebers-openusage.md) | ⭐ 2k | JavaScript | 63/100 |
-| 26 | [stripe/stripe-cli](./stripe-stripe-cli.md) | ⭐ 2k | Go | 61/100 |
-| 27 | [useautumn/autumn](./useautumn-autumn.md) | ⭐ 2.5k | TypeScript | 61/100 |
-| 28 | [NiREvil/vless](./nirevil-vless.md) | ⭐ 1k | Rust | 61/100 |
+| 26 | [NiREvil/vless](./nirevil-vless.md) | ⭐ 1k | Rust | 61/100 |
+| 27 | [stripe/stripe-cli](./stripe-stripe-cli.md) | ⭐ 2k | Go | 61/100 |
+| 28 | [useautumn/autumn](./useautumn-autumn.md) | ⭐ 2.5k | TypeScript | 61/100 |
 | 29 | [heyhuynhgiabuu/proxypal](./heyhuynhgiabuu-proxypal.md) | ⭐ 1.1k | TypeScript | 60/100 |
 | 30 | [meteroid-oss/meteroid](./meteroid-oss-meteroid.md) | ⭐ 1.1k | Rust | 58/100 |
 | 31 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
@@ -60,28 +60,32 @@
 | 50 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 292 | — | 52/100 |
 | 51 | [ali-zahedi/az-iranian-bank-gateways](./ali-zahedi-az-iranian-bank-gateways.md) | ⭐ 598 | Python | 52/100 |
 | 52 | [anand-92/droidproxy](./anand-92-droidproxy.md) | ⭐ 63 | HTML | 51/100 |
-| 53 | [tddworks/asc-cli](./tddworks-asc-cli.md) | ⭐ 164 | Swift | 51/100 |
-| 54 | [askalf/dario](./askalf-dario.md) | ⭐ 96 | JavaScript | 51/100 |
-| 55 | [ClickDevTech/CELERITY-panel](./clickdevtech-celerity-panel.md) | ⭐ 116 | JavaScript | 51/100 |
-| 56 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 51/100 |
-| 57 | [checkout/checkout-sdk-node](./checkout-checkout-sdk-node.md) | ⭐ 67 | JavaScript | 51/100 |
+| 53 | [askalf/dario](./askalf-dario.md) | ⭐ 96 | JavaScript | 51/100 |
+| 54 | [tddworks/asc-cli](./tddworks-asc-cli.md) | ⭐ 164 | Swift | 51/100 |
+| 55 | [checkout/checkout-sdk-node](./checkout-checkout-sdk-node.md) | ⭐ 67 | JavaScript | 51/100 |
+| 56 | [ClickDevTech/CELERITY-panel](./clickdevtech-celerity-panel.md) | ⭐ 116 | JavaScript | 51/100 |
+| 57 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 51/100 |
 | 58 | [MusahMusah/laravel-multipayment-gateways](./musahmusah-laravel-multipayment-gateways.md) | ⭐ 88 | PHP | 51/100 |
-| 59 | [wevm/mppx](./wevm-mppx.md) | ⭐ 105 | TypeScript | 50/100 |
-| 60 | [braintree/braintree-android-drop-in](./braintree-braintree-android-drop-in.md) | ⭐ 125 | Java | 50/100 |
-| 61 | [dtzp555-max/ocp](./dtzp555-max-ocp.md) | ⭐ 50 | JavaScript | 50/100 |
-| 62 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 49/100 |
-| 63 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 66 | TypeScript | 49/100 |
-| 64 | [CyberSource/cybersource-sdk-java](./cybersource-cybersource-sdk-java.md) | ⭐ 58 | Java | 48/100 |
-| 65 | [Adyen/adyen-salesforce-commerce-cloud](./adyen-adyen-salesforce-commerce-cloud.md) | ⭐ 103 | JavaScript | 48/100 |
-| 66 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 47/100 |
-| 67 | [mollie/laravel-cashier-mollie](./mollie-laravel-cashier-mollie.md) | ⭐ 172 | PHP | 47/100 |
-| 68 | [Adyen/adyen-ruby-api-library](./adyen-adyen-ruby-api-library.md) | ⭐ 52 | Ruby | 47/100 |
-| 69 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 75 | Python | 47/100 |
+| 59 | [orchidfiles/ungate](./orchidfiles-ungate.md) | ⭐ 14 | TypeScript | 50/100 |
+| 60 | [wevm/mppx](./wevm-mppx.md) | ⭐ 105 | TypeScript | 50/100 |
+| 61 | [braintree/braintree-android-drop-in](./braintree-braintree-android-drop-in.md) | ⭐ 125 | Java | 50/100 |
+| 62 | [dtzp555-max/ocp](./dtzp555-max-ocp.md) | ⭐ 50 | JavaScript | 50/100 |
+| 63 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 49/100 |
+| 64 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 66 | TypeScript | 49/100 |
+| 65 | [CyberSource/cybersource-sdk-java](./cybersource-cybersource-sdk-java.md) | ⭐ 58 | Java | 48/100 |
+| 66 | [Adyen/adyen-salesforce-commerce-cloud](./adyen-adyen-salesforce-commerce-cloud.md) | ⭐ 103 | JavaScript | 48/100 |
+| 67 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 47/100 |
+| 68 | [mollie/laravel-cashier-mollie](./mollie-laravel-cashier-mollie.md) | ⭐ 172 | PHP | 47/100 |
+| 69 | [Adyen/adyen-ruby-api-library](./adyen-adyen-ruby-api-library.md) | ⭐ 52 | Ruby | 47/100 |
 | 70 | [VictorAvelar/mollie-api-go](./victoravelar-mollie-api-go.md) | ⭐ 91 | Go | 47/100 |
 | 71 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 46/100 |
 | 72 | [shetabit/payment](./shetabit-payment.md) | ⭐ 941 | PHP | 46/100 |
 | 73 | [mollie/Shopware6](./mollie-shopware6.md) | ⭐ 64 | PHP | 45/100 |
 | 74 | [fawry-api/fawry](./fawry-api-fawry.md) | ⭐ 69 | Ruby | 45/100 |
+| 75 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 75 | Python | 43/100 |
+| 76 | [Adyen/adyen-python-api-library](./adyen-adyen-python-api-library.md) | ⭐ 65 | Python | 43/100 |
+| 77 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 242 | JavaScript | 42/100 |
+| 78 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 107 | Rust | 42/100 |
 
 ---
 

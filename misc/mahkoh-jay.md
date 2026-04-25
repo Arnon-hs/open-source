@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the mahkoh/jay project:
-
-Jay is an open-source Wayland compositor, a software component responsible for managing the graphical user interface and directing the flow of events between applications and the display. Developed to provide a flexible and customizable environment, Jay offers users the ability to tailor their desktop experience to their needs. As a Wayland compositor, Jay enables seamless integration with modern Linux desktops and applications.
+Jay is an open-source Wayland compositor, providing a flexible and customizable platform for managing desktop environments. It allows developers to build and customize their own graphical user interfaces, offering features such as multi-monitor support and window management. With its open-source nature, Jay facilitates collaboration and innovation among the developer community.
 
 ---
 

@@ -25,7 +25,7 @@ Crypto · Trading
 
 ## 📝 Summary
 
-Veil-net/conflux is an open-source project that facilitates connectivity to VeilNet, a decentralized post-quantum secure network. This project aims to provide a secure and resilient communication infrastructure for users, leveraging post-quantum cryptography to protect against potential threats from quantum computing advancements. By connecting to VeilNet, users can engage in secure transactions and exchanges within the network.
+VeilNet's Conflux connector is an open-source project that enables secure communication between decentralized networks and trading platforms. This connector utilizes post-quantum secure protocols to ensure the integrity and confidentiality of data transmission, providing a robust foundation for secure trading operations. By integrating with VeilNet, users can benefit from enhanced security and trust in their decentralized trading experiences.
 
 ---
 

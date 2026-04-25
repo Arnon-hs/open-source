@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The zinja-coder/apktool-mcp-server project is an open-source MCP (Malicious Code Protection) Server designed for APK Tool, a crucial component in Android reverse engineering suites. This server helps protect Android apps from reverse engineering by providing a secure environment for analysis and modification. It enables developers to securely manipulate APKs while maintaining the integrity of the original code.
+Here's a brief summary for the open-source project:
+
+The zinja-coder/apktool-mcp-server project is an open-source MCP (Mobile Core Protocol) server designed to work in conjunction with APK Tool, a popular tool for Android reverse engineering. This project enables seamless communication between APK Tool and various Android applications, facilitating advanced analysis and manipulation of Android APK files. By utilizing this MCP server, developers can unlock deeper insights into Android app behavior.
 
 ---
 

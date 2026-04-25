@@ -1,6 +1,6 @@
 # skydoves/compose-stability-analyzer
 
-[![Stars](https://img.shields.io/github/stars/skydoves/compose-stability-analyzer?style=flat-square&color=yellow)](https://github.com/skydoves/compose-stability-analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/skydoves/compose-stability-analyzer?style=flat-square&color=blue)](https://github.com/skydoves/compose-stability-analyzer/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skydoves/compose-stability-analyzer?style=flat-square&color=yellow)](https://github.com/skydoves/compose-stability-analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/skydoves/compose-stability-analyzer?style=flat-square&color=blue)](https://github.com/skydoves/compose-stability-analyzer/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

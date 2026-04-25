@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-The termprofile library is an open-source project that enables developers to detect and handle terminal color and styling support programmatically. This project helps ensure consistent and reliable color output across different terminals and operating systems, making it easier to create visually appealing and user-friendly command-line interfaces. By leveraging termprofile, developers can write more adaptable and cross-platform terminal applications.
+Here's a brief summary for the aschey/termprofile project:
+
+The aschey/termprofile library is an open-source solution for detecting and handling terminal color and styling support. It enables developers to create multi-platform applications that adapt to the capabilities of different terminals, ensuring a consistent and visually appealing user experience. With termprofile, developers can focus on writing high-quality code, while the library takes care of the intricacies of terminal compatibility.
 
 ---
 

@@ -25,7 +25,9 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-LFK is an open-source terminal user interface designed for navigating and managing Kubernetes clusters. Built for speed and efficiency, it features a three-column layout and an owner-based resource hierarchy, providing a keyboard-focused and user-friendly experience. This tool aims to streamline cluster management by leveraging a fast and efficient interface.
+Here's a brief summary for the LFK project:
+
+LFK is an open-source terminal user interface that streamlines Kubernetes cluster management with a lightning-fast, keyboard-driven design. Inspired by yazi, it presents a three-column layout for efficient navigation and organization. This tool is ideal for DevOps and infrastructure professionals seeking a high-performance terminal interface.
 
 ---
 

@@ -1,6 +1,6 @@
 # itayinbarr/little-coder
 
-[![Stars](https://img.shields.io/github/stars/itayinbarr/little-coder?style=flat-square&color=yellow)](https://github.com/itayinbarr/little-coder/stargazers) [![Forks](https://img.shields.io/github/forks/itayinbarr/little-coder?style=flat-square&color=blue)](https://github.com/itayinbarr/little-coder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itayinbarr/little-coder?style=flat-square&color=yellow)](https://github.com/itayinbarr/little-coder/stargazers) [![Forks](https://img.shields.io/github/forks/itayinbarr/little-coder?style=flat-square&color=blue)](https://github.com/itayinbarr/little-coder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A coding agent optimized to smaller LLMs
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 422 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 429 |
+| 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

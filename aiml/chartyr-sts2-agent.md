@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the CharTyr/STS2-Agent project:
+Here is a summary of the CharTyr/STS2-Agent project:
 
-The CharTyr/STS2-Agent project is an open-source modification for the game Slay the Spire 2, exposing its game state and interactions as a local HTTP API, thus enabling AI clients that support the MCP (Modded Client Protocol) to directly interface with the game. This API is wrapped around the MCP Server, providing a standardized interface for machine learning and AI applications to interact with the game. The project facilitates the development and experimentation of AI-driven game strategies within Slay the Spire 2.
+The CharTyr/STS2-Agent is an open-source project that enables the exposure of Risk of Rain 2 game state and interactions as a local HTTP API. This API is wrapped around a MCP Server, allowing AI clients that support MCP to directly access and interact with the game. The project is categorized under AI/ML and Backend, indicating its application in machine learning and artificial intelligence development.
 
 ---
 

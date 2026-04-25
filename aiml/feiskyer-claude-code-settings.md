@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The feiskyer/claude-code-settings project provides open-source settings, commands, and agents for Claude, a cutting-edge AI coding assistant. This repository aims to optimize Claude's performance and functionality for developers who use Vibe, a coding platform. By contributing to this project, users can enhance Claude's coding capabilities and streamline their development experience.
+Here's a brief summary of the feiskyer/claude-code-settings project:
+
+This project, feiskyer/claude-code-settings, provides a collection of settings, commands, and agents for the Claude AI, enhancing the coding experience through Vibe. It aims to streamline interactions with the Claude AI for developers, making it easier to leverage its capabilities. This open-source project supports AI/ML development and is a valuable resource for those integrating Claude into their coding workflows.
 
 ---
 

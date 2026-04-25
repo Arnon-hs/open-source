@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-npmx.dev is a high-performance, open-source browser designed specifically for the npm registry, providing users with a modern and efficient way to navigate and manage their npm packages. This browser aims to improve the overall experience of interacting with the npm ecosystem by offering a streamlined and fast interface. By utilizing npmx.dev, developers can easily discover, install, and manage their npm dependencies with ease.
+npmx.dev is an open-source, fast, and modern browser for the npm registry. It allows users to easily browse and search packages, dependencies, and other npm registry data. This tool aims to provide a streamlined experience for developers interacting with the npm ecosystem.
 
 ---
 

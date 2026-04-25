@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The "Towards AI AI Tutor RAG System" is an open-source project that supports the "From Beginner to LLM Developer" course by Towards AI. This repository provides a comprehensive framework for building, managing, and orchestrating AI models, specifically Large Language Models (LLMs), through a user-friendly interface. It serves as a valuable resource for developers looking to learn and implement AI/ML technologies.
+This open-source project, 'ai-tutor-rag-system', is part of the 'From Beginner to LLM Developer' course by Towards AI. It serves as a resource for developers to learn and understand the intricacies of Large Language Model (LLM) development. By using this repository, users can gain hands-on experience with AI/ML and orchestration concepts through practical implementation.
 
 ---
 

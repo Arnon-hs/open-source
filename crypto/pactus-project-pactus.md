@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The Pactus blockchain is an open-source project that combines elements of cryptography and artificial intelligence to create a secure and efficient decentralized platform. Leveraging cutting-edge technology, Pactus aims to provide a robust foundation for various applications, including but not limited to, cryptocurrency transactions and data storage. By harnessing the potential of AI and ML, Pactus seeks to revolutionize the way data is stored and processed on a blockchain.
+The Pactus blockchain is an open-source project that combines the worlds of cryptocurrency and artificial intelligence, aiming to create a more secure, efficient, and scalable decentralized network. By leveraging advanced AI/ML technologies, Pactus seeks to improve its performance, adaptability, and resilience, making it a promising development in the field of blockchain innovation. With a focus on community-driven development, Pactus encourages collaboration and contribution from experts worldwide.
 
 ---
 

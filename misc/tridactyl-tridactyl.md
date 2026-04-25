@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Tridactyl is an open-source project that provides a Vim-like interface for the Firefox web browser, drawing inspiration from Vimperator and Pentadactyl. This extension allows users to navigate and interact with web pages in a more efficient and customizable manner, leveraging the power of Vim's keyboard shortcuts and commands. With Tridactyl, users can optimize their browsing experience and streamline their workflow.
+Tridactyl is an open-source project that provides a Vim-like interface for the Firefox web browser. Inspired by Vimperator and Pentadactyl, it offers a powerful and customizable navigation experience for users familiar with Vim. By combining traditional keyboard shortcuts with modern web browsing functionality, Tridactyl aims to streamline browsing efficiency.
 
 ---
 

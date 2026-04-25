@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project 'raia-live/amfs':
-
-The 'raia-live/amfs' project offers a version control system specifically designed for agent memory, allowing for the management of knowledge and updates in a collaborative environment. It provides features such as branching, diffing, pull requests, and rollback, enabling teams to track and manage changes to their agent's knowledge base. This system is particularly useful for AI/ML applications where knowledge sharing and synchronization are crucial.
+The amfs project is an open-source, Git-like system designed to manage agent memory across distributed systems. It provides features such as branching, diffing, pull requests, and rollback capabilities, enabling teams to track, collaborate, and maintain the knowledge and state of their agents in a version-controlled manner. This facilitates more reliable and efficient AI/ML model management and orchestration.
 
 ---
 

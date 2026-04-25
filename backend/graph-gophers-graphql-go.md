@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Graph-Gophers/GraphQL-Go is a lightweight, open-source GraphQL server that prioritizes ease of use. It provides a simple and intuitive API for building GraphQL schemas, allowing developers to quickly get started with GraphQL development. This project aims to make GraphQL more accessible to a wider range of users, including those new to the technology.
+Here's a brief summary for the graph-gophers/graphql-go project:
+
+Graph-gophers/graphql-go is an open-source GraphQL server designed to provide an easy-to-use experience, making it ideal for developers looking to quickly set up and deploy GraphQL APIs. This project offers a simple and intuitive approach to building robust GraphQL servers, allowing developers to focus on their application logic without the complexity of manual setup. With a focus on ease of use, graphql-go streamlines the GraphQL development process.
 
 ---
 

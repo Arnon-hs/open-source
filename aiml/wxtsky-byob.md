@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-"Wxtsky/Byob is an open-source project that enables AI agents to interact with a user's existing Chrome browser, extending the capabilities of artificial intelligence and machine learning applications. By building upon the browser the user already has open, Byob simplifies the integration process and enhances the overall user experience. This innovative approach has the potential to revolutionize the way AI agents interact with web-based applications."
+The wxtsky/byob project is an open-source initiative that enables AI agents to interact with existing web browsers, such as Chrome, without requiring the user to install or configure additional software. This allows AI agents to leverage the browser functionality users already have open, streamlining their ability to access and process web content. The project falls under AI/ML and Backend categories, making it relevant for developers working with artificial intelligence and machine learning applications.
 
 ---
 
