@@ -1,6 +1,6 @@
 # larksuite/cli
 
-[![Stars](https://img.shields.io/github/stars/larksuite/cli?style=flat-square&color=yellow)](https://github.com/larksuite/cli/stargazers) [![Forks](https://img.shields.io/github/forks/larksuite/cli?style=flat-square&color=blue)](https://github.com/larksuite/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/larksuite/cli?style=flat-square&color=yellow)](https://github.com/larksuite/cli/stargazers) [![Forks](https://img.shields.io/github/forks/larksuite/cli?style=flat-square&color=blue)](https://github.com/larksuite/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.7k |
-| 🍴 **Forks** | 565 |
+| 🍴 **Forks** | 567 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

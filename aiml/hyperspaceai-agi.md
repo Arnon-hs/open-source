@@ -1,6 +1,6 @@
 # hyperspaceai/agi
 
-[![Stars](https://img.shields.io/github/stars/hyperspaceai/agi?style=flat-square&color=yellow)](https://github.com/hyperspaceai/agi/stargazers) [![Forks](https://img.shields.io/github/forks/hyperspaceai/agi?style=flat-square&color=blue)](https://github.com/hyperspaceai/agi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperspaceai/agi?style=flat-square&color=yellow)](https://github.com/hyperspaceai/agi/stargazers) [![Forks](https://img.shields.io/github/forks/hyperspaceai/agi?style=flat-square&color=blue)](https://github.com/hyperspaceai/agi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 157 |
+| 🍴 **Forks** | 159 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

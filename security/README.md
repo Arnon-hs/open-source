@@ -2,22 +2,22 @@
 
 > Security, auth, encryption, privacy
 
-**46 projects** in this category.
+**47 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14k | C | 100/100 |
-| 2 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
-| 3 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
-| 4 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 25.9k | Go | 100/100 |
-| 5 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.2k | Python | 100/100 |
-| 6 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6k | C++ | 100/100 |
-| 7 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
-| 8 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
-| 9 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
-| 10 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.5k | C | 100/100 |
+| 1 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
+| 2 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14k | C | 100/100 |
+| 3 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 25.9k | Go | 100/100 |
+| 4 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.2k | Python | 100/100 |
+| 5 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6k | C++ | 100/100 |
+| 6 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
+| 7 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
+| 8 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.5k | C | 100/100 |
+| 9 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
+| 10 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
 | 11 | [nomi-sec/PoC-in-GitHub](./nomi-sec-poc-in-github.md) | ⭐ 7.7k | — | 96/100 |
 | 12 | [letsencrypt/boulder](./letsencrypt-boulder.md) | ⭐ 5.7k | Go | 95/100 |
 | 13 | [hashicorp/vault](./hashicorp-vault.md) | ⭐ 35.5k | Go | 94/100 |
@@ -41,19 +41,20 @@
 | 31 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 60/100 |
 | 32 | [firewalla/firewalla](./firewalla-firewalla.md) | ⭐ 604 | JavaScript | 56/100 |
 | 33 | [dogtagpki/pki](./dogtagpki-pki.md) | ⭐ 488 | Java | 56/100 |
-| 34 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 905 | Rust | 55/100 |
-| 35 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 55/100 |
-| 36 | [lf-edge/eve](./lf-edge-eve.md) | ⭐ 544 | Go | 55/100 |
-| 37 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 163 | Go | 55/100 |
-| 38 | [oxyno-zeta/s3-proxy](./oxyno-zeta-s3-proxy.md) | ⭐ 455 | Go | 54/100 |
-| 39 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 309 | Python | 53/100 |
-| 40 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
+| 34 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 55/100 |
+| 35 | [lf-edge/eve](./lf-edge-eve.md) | ⭐ 544 | Go | 55/100 |
+| 36 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 163 | Go | 55/100 |
+| 37 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 905 | Rust | 55/100 |
+| 38 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 506 | JavaScript | 55/100 |
+| 39 | [oxyno-zeta/s3-proxy](./oxyno-zeta-s3-proxy.md) | ⭐ 455 | Go | 54/100 |
+| 40 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 309 | Python | 53/100 |
 | 41 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 612 | Go | 52/100 |
 | 42 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
-| 43 | [ohaswin/pyscan](./ohaswin-pyscan.md) | ⭐ 227 | Rust | 52/100 |
-| 44 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 166 | Go | 51/100 |
+| 43 | [ohaswin/pyscan](./ohaswin-pyscan.md) | ⭐ 229 | Rust | 52/100 |
+| 44 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
 | 45 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
-| 46 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
+| 46 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 166 | Go | 51/100 |
+| 47 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
 
 ---
 

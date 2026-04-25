@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**18 projects** in this category.
+**19 projects** in this category.
 
 ## Projects
 
@@ -19,13 +19,14 @@
 | 9 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 72/100 |
 | 10 | [sipsorcery-org/sipsorcery](./sipsorcery-org-sipsorcery.md) | ⭐ 1.9k | C# | 71/100 |
 | 11 | [aws-samples/amazon-bedrock-workshop](./aws-samples-amazon-bedrock-workshop.md) | ⭐ 2.1k | Jupyter Notebook | 69/100 |
-| 12 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 59/100 |
-| 13 | [metacraft-labs/codetracer](./metacraft-labs-codetracer.md) | ⭐ 1.3k | Rust | 59/100 |
+| 12 | [metacraft-labs/codetracer](./metacraft-labs-codetracer.md) | ⭐ 1.3k | Rust | 59/100 |
+| 13 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 59/100 |
 | 14 | [lahin31/system-design-bangla](./lahin31-system-design-bangla.md) | ⭐ 1.2k | — | 56/100 |
-| 15 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
+| 15 | [juspay/superposition](./juspay-superposition.md) | ⭐ 411 | Rust | 53/100 |
 | 16 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 223 | Go | 52/100 |
 | 17 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 209 | PHP | 52/100 |
-| 18 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 457 | Go | 49/100 |
+| 18 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
+| 19 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 457 | Go | 49/100 |
 
 ---
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Xquik-dev/x-twitter-scraper?style=flat-square&color=yellow)](https://github.com/Xquik-dev/x-twitter-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/Xquik-dev/x-twitter-scraper?style=flat-square&color=blue)](https://github.com/Xquik-dev/x-twitter-scraper/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> X (Twitter) data platform skill for AI coding agents. 111 REST API endpoints, 2 MCP tools, 23 extraction types, HMAC webhooks. Reads from $0.00015/call - 33x cheaper than the official X API. Works with Claude Code, Cursor, Codex, Copilot, Windsurf & 40+ agents.
+> X (formerly Twitter) data platform skill for AI coding agents. 111 REST API endpoints, 2 MCP tools, 23 extraction types, HMAC webhooks. Reads from $0.00015/call - 33x cheaper than the official X API. Works with Claude Code, Cursor, Codex, Copilot, Windsurf & 40+ agents.
 
 ## 📊 Stats
 

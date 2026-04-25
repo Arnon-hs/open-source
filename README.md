@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4491** |
+| 🗂️ **Total projects** | **4571** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1734 | [Browse →](./aiml/) |
-| 📦 **Misc** | 708 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 456 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 427 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 268 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 245 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 1768 | [Browse →](./aiml/) |
+| 📦 **Misc** | 727 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 463 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 435 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 270 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 247 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 172 | [Browse →](./crypto/) |
 | 📊 **Data** | 116 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 105 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 108 | [Browse →](./devopsinfra/) |
 | 💳 **Payments** | 66 | [Browse →](./payments/) |
-| 📱 **Mobile** | 62 | [Browse →](./mobile/) |
-| 📈 **Trading** | 48 | [Browse →](./trading/) |
-| 🔐 **Security** | 46 | [Browse →](./security/) |
-| ✨ **Design** | 18 | [Browse →](./design/) |
-| 🎯 **Product** | 14 | [Browse →](./product/) |
+| 📱 **Mobile** | 63 | [Browse →](./mobile/) |
+| 📈 **Trading** | 49 | [Browse →](./trading/) |
+| 🔐 **Security** | 47 | [Browse →](./security/) |
+| ✨ **Design** | 19 | [Browse →](./design/) |
+| 🎯 **Product** | 15 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 6 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [linshenkx/prompt-optimizer](./aiml/linshenkx-prompt-optimizer.md) | ⭐ 26.8k | AI/ML |
-| 2 | [nautechsystems/nautilus_trader](./crypto/nautechsystems-nautilus-trader.md) | ⭐ 22.3k | Crypto |
-| 3 | [oppia/oppia](./misc/oppia-oppia.md) | ⭐ 6.7k | Misc |
-| 4 | [langbot-app/LangBot](./aiml/langbot-app-langbot.md) | ⭐ 15.9k | AI/ML |
-| 5 | [harvard-edge/cs249r_book](./aiml/harvard-edge-cs249r-book.md) | ⭐ 23.8k | AI/ML |
-| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 7 | [janhq/jan](./aiml/janhq-jan.md) | ⭐ 42.1k | AI/ML |
-| 8 | [Skyvern-AI/skyvern](./aiml/skyvern-ai-skyvern.md) | ⭐ 21.4k | AI/ML |
-| 9 | [VictoriaMetrics/VictoriaMetrics](./data/victoriametrics-victoriametrics.md) | ⭐ 16.9k | Data |
-| 10 | [web-platform-tests/wpt](./aiml/web-platform-tests-wpt.md) | ⭐ 5.9k | AI/ML |
+| 1 | [NoFxAiOS/nofx](./crypto/nofxaios-nofx.md) | ⭐ 12k | Crypto |
+| 2 | [nicolargo/glances](./backend/nicolargo-glances.md) | ⭐ 32.3k | Backend |
+| 3 | [astral-sh/ruff](./frontend/astral-sh-ruff.md) | ⭐ 47.2k | Frontend |
+| 4 | [alibaba/nacos](./aiml/alibaba-nacos.md) | ⭐ 32.9k | AI/ML |
+| 5 | [nhivp/Awesome-Embedded](./aiml/nhivp-awesome-embedded.md) | ⭐ 8.5k | AI/ML |
+| 6 | [Mintplex-Labs/anything-llm](./aiml/mintplex-labs-anything-llm.md) | ⭐ 58.9k | AI/ML |
+| 7 | [juicedata/juicefs](./aiml/juicedata-juicefs.md) | ⭐ 13.5k | AI/ML |
+| 8 | [swc-project/swc](./misc/swc-project-swc.md) | ⭐ 33.4k | Misc |
+| 9 | [rowboatlabs/rowboat](./orchestration/rowboatlabs-rowboat.md) | ⭐ 13.1k | Orchestration |
+| 10 | [pola-rs/polars](./data/pola-rs-polars.md) | ⭐ 38.3k | Data |
 
 ## 🚀 How it works
 

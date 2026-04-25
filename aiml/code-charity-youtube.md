@@ -1,6 +1,6 @@
 # code-charity/youtube
 
-[![Stars](https://img.shields.io/github/stars/code-charity/youtube?style=flat-square&color=yellow)](https://github.com/code-charity/youtube/stargazers) [![Forks](https://img.shields.io/github/forks/code-charity/youtube?style=flat-square&color=blue)](https://github.com/code-charity/youtube/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/code-charity/youtube?style=flat-square&color=yellow)](https://github.com/code-charity/youtube/stargazers) [![Forks](https://img.shields.io/github/forks/code-charity/youtube?style=flat-square&color=blue)](https://github.com/code-charity/youtube/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
 
 > Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 883 |
+| 🍴 **Forks** | 882 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 94/100 |
+| 📈 **Score** | 93/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

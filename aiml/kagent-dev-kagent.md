@@ -1,6 +1,6 @@
 # kagent-dev/kagent
 
-[![Stars](https://img.shields.io/github/stars/kagent-dev/kagent?style=flat-square&color=yellow)](https://github.com/kagent-dev/kagent/stargazers) [![Forks](https://img.shields.io/github/forks/kagent-dev/kagent?style=flat-square&color=blue)](https://github.com/kagent-dev/kagent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kagent-dev/kagent?style=flat-square&color=yellow)](https://github.com/kagent-dev/kagent/stargazers) [![Forks](https://img.shields.io/github/forks/kagent-dev/kagent?style=flat-square&color=blue)](https://github.com/kagent-dev/kagent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 523 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

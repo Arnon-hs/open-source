@@ -1,6 +1,6 @@
 # Narcooo/inkos
 
-[![Stars](https://img.shields.io/github/stars/Narcooo/inkos?style=flat-square&color=yellow)](https://github.com/Narcooo/inkos/stargazers) [![Forks](https://img.shields.io/github/forks/Narcooo/inkos?style=flat-square&color=blue)](https://github.com/Narcooo/inkos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Narcooo/inkos?style=flat-square&color=yellow)](https://github.com/Narcooo/inkos/stargazers) [![Forks](https://img.shields.io/github/forks/Narcooo/inkos?style=flat-square&color=blue)](https://github.com/Narcooo/inkos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 943 |
+| 🍴 **Forks** | 945 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 98/100 |
+| 📈 **Score** | 99/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

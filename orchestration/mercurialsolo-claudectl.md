@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/mercurialsolo/claudectl?style=flat-square&color=yellow)](https://github.com/mercurialsolo/claudectl/stargazers) [![Forks](https://img.shields.io/github/forks/mercurialsolo/claudectl?style=flat-square&color=blue)](https://github.com/mercurialsolo/claudectl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Auto-pilot your Claude Code. Add a local LLM brain that learns from your actions and auto-approves/denies
+> Auto pilot for Claude Code - connect multiple coding agents to a local LLM brain. 🆕 with a hive mind now
 
 ## 📊 Stats
 
