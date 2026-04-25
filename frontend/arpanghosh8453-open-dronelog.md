@@ -25,9 +25,9 @@ Frontend · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the open-source project:
 
-"Open-Dronelog is a high-performance, universal dashboard application for securely analyzing DJI and Litchi flight logs in one place. Built with Tauri, DuckDB, and React, it provides a private and organized platform for drone enthusiasts to review and analyze their flight data. This open-source project offers a flexible and reliable solution for managing and understanding drone flight logs."
+The open-dronelog project is an open-source, high-performance dashboard application designed for private analysis and organization of DJI/Litchi flight logs. Built with Tauri v2, DuckDB, and React, this application provides a universal platform for drone enthusiasts and professionals to manage and analyze their flight data. The project aims to offer a secure and efficient solution for drone log management.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Maki is an open-source AI coding agent designed for efficiency. It uses artificial intelligence and machine learning to automate coding tasks, reducing development time and improving productivity. This project aims to revolutionize the way developers approach coding by providing a powerful and flexible tool for coding automation.
+Maki is an open-source, efficient AI coding agent designed to assist developers with coding tasks. Leveraging AI and machine learning capabilities, Maki aims to automate and simplify the coding process, saving time and increasing productivity for programmers. By streamlining coding workflows, Maki provides a powerful tool for developers seeking to accelerate their development processes.
 
 ---
 

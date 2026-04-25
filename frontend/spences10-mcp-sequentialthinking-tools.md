@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-This open-source project, MCP Sequential Thinking Tools, is an adaptation of the MCP Sequential Thinking Server that aims to provide users with guided recommendations on effective tool usage. The server offers stage-specific suggestions for utilizing MCP tools, making it easier for users to navigate the toolset. By leveraging this tool, users can streamline their workflow and maximize the efficiency of MCP tools.
+The MCP Sequential Thinking Tools project is an open-source adaptation of the MCP Sequential Thinking Server. It serves as a guide for tool usage by providing recommendations on the most effective MCP tools to use at each stage, helping users make informed decisions. This project combines frontend and backend components to offer a comprehensive solution for sequential thinking.
 
 ---
 

@@ -25,7 +25,7 @@ Crypto · Frontend · DevTools
 
 ## 📝 Summary
 
-Notcurses is an open-source, blingful character graphics and TUI (Text User Interface) library that offers advanced features and capabilities for creating visually appealing and interactive text-based interfaces. It is designed as a modern alternative to traditional TUI libraries, providing a more flexible and customizable approach. Notcurses is built to support a wide range of platforms and terminal emulators.
+Notcurses is an open-source, blingful character graphics and TUI (Text User Interface) library that allows developers to create visually striking and interactive command-line interfaces. Unlike traditional terminal libraries, Notcurses is designed to provide a more modern and feature-rich alternative to classic libraries like Curses. By leveraging character graphics and other advanced terminal features, Notcurses enables the creation of complex and engaging text-based user interfaces.
 
 ---
 

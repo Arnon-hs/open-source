@@ -1,6 +1,6 @@
 # Universal-Commerce-Protocol/ucp
 
-[![Stars](https://img.shields.io/github/stars/Universal-Commerce-Protocol/ucp?style=flat-square&color=yellow)](https://github.com/Universal-Commerce-Protocol/ucp/stargazers) [![Forks](https://img.shields.io/github/forks/Universal-Commerce-Protocol/ucp?style=flat-square&color=blue)](https://github.com/Universal-Commerce-Protocol/ucp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Universal-Commerce-Protocol/ucp?style=flat-square&color=yellow)](https://github.com/Universal-Commerce-Protocol/ucp/stargazers) [![Forks](https://img.shields.io/github/forks/Universal-Commerce-Protocol/ucp?style=flat-square&color=blue)](https://github.com/Universal-Commerce-Protocol/ucp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Specification and documentation for the Universal Commerce Protocol (UCP)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 347 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

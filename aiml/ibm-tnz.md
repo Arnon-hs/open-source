@@ -25,7 +25,7 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The IBM/tnz project is an open-source Python library that enables TN3270 protocol communication, providing a bridge between IBM mainframe systems and applications written in modern programming languages. This library facilitates seamless integration and interaction with mainframe resources, making it an essential tool for DevOps/Infra teams and developers working with legacy systems. It supports the transition to cloud and digital transformation by bridging the gap between mainframe and modern technologies.
+The IBM/tnz project is an open-source Python library that enables the connection between TN3270 (IBM mainframe) and Z (IBM z/OS) environments, facilitating seamless communication and integration between these systems. This library allows developers to build applications that can interact with mainframe systems using Python, promoting greater flexibility and agility in their workflow. By leveraging this library, users can streamline their processes and automate tasks involving IBM mainframes and Z systems.
 
 ---
 

@@ -30,7 +30,7 @@
 | 20 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 457 | Go | 49/100 |
 | 21 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 426 | JavaScript | 49/100 |
 | 22 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
-| 23 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 179 | Go | 48/100 |
+| 23 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 180 | Go | 48/100 |
 | 24 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 522 | Python | 46/100 |
 
 ---

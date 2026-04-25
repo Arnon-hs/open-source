@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The embassy-rs/stm32-data project is an open-source repository providing data and information for the STM32 microcontroller series. This project aims to offer a comprehensive collection of data and specifications for developers working with STM32-based systems, promoting easier integration and development. By sharing this information, the project facilitates the creation of more robust and efficient applications.
+The embassy-rs/stm32-data project provides a set of data structures and utilities for working with STM32 microcontrollers in the Rust programming language. This open-source repository aims to simplify data handling and manipulation for developers using STM32 devices, offering a foundation for building robust and efficient applications. By leveraging this project, users can focus on higher-level programming tasks.
 
 ---
 

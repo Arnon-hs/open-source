@@ -25,7 +25,7 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Apache Hamilton is an open-source project that enables data scientists and engineers to create modular and self-documenting dataflows that incorporate lineage and metadata. This tool facilitates testable and scalable data processing, allowing it to run seamlessly on any platform where Python is supported. By leveraging Apache Hamilton, users can streamline their data workflows and improve data transparency.
+Apache Hamilton is an open-source project that enables data scientists and engineers to create testable, modular, and self-documenting dataflows that track lineage and metadata. This scalable solution allows dataflows to run anywhere Python does, making it a versatile tool for a variety of applications, including AI/ML and cryptography. By providing a standardized way to manage dataflows, Apache Hamilton streamlines data processing and analytics.
 
 ---
 

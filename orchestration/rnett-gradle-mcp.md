@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The rnett/gradle-mcp project provides a comprehensive MCP (Multi-Container Platform) server specifically designed for Gradle, enabling efficient orchestration and management of containerized applications. This open-source tool supports AI/ML and frontend development workflows, providing a robust foundation for scalable and modular software development. With gradle-mcp, developers can streamline their development processes and improve collaboration across teams.
+The rnett/gradle-mcp project is an open-source, comprehensive MCP (Multi-Container Platform) server designed specifically for Gradle. This project enables the seamless orchestration of Gradle-based builds, providing a robust and efficient solution for managing complex development workflows. By leveraging Gradle and MCP, developers can streamline their build processes and enhance collaboration.
 
 ---
 

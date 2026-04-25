@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5845** |
+| 🗂️ **Total projects** | **5935** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2251 | [Browse →](./aiml/) |
-| 📦 **Misc** | 982 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 581 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 537 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 345 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 330 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 207 | [Browse →](./crypto/) |
-| 📊 **Data** | 140 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 2274 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1008 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 588 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 543 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 350 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 333 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 219 | [Browse →](./crypto/) |
+| 📊 **Data** | 142 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 127 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 86 | [Browse →](./mobile/) |
-| 💳 **Payments** | 83 | [Browse →](./payments/) |
-| 🔐 **Security** | 62 | [Browse →](./security/) |
-| 📈 **Trading** | 62 | [Browse →](./trading/) |
+| 📱 **Mobile** | 89 | [Browse →](./mobile/) |
+| 💳 **Payments** | 84 | [Browse →](./payments/) |
+| 🔐 **Security** | 63 | [Browse →](./security/) |
+| 📈 **Trading** | 63 | [Browse →](./trading/) |
 | ✨ **Design** | 24 | [Browse →](./design/) |
 | 🎯 **Product** | 19 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 9 | [Browse →](./marketing/) |
@@ -42,13 +42,13 @@
 | 1 | [azerothcore/azerothcore-wotlk](./backend/azerothcore-azerothcore-wotlk.md) | ⭐ 8.2k | Backend |
 | 2 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.5k | AI/ML |
 | 3 | [firebase/firebase-ios-sdk](./aiml/firebase-firebase-ios-sdk.md) | ⭐ 6.6k | AI/ML |
-| 4 | [sqlmapproject/sqlmap](./devtools/sqlmapproject-sqlmap.md) | ⭐ 37.1k | DevTools |
-| 5 | [h2oai/h2o-3](./aiml/h2oai-h2o-3.md) | ⭐ 7.5k | AI/ML |
-| 6 | [files-community/Files](./aiml/files-community-files.md) | ⭐ 43.2k | AI/ML |
-| 7 | [linshenkx/prompt-optimizer](./aiml/linshenkx-prompt-optimizer.md) | ⭐ 26.9k | AI/ML |
-| 8 | [graphhopper/graphhopper](./backend/graphhopper-graphhopper.md) | ⭐ 6.4k | Backend |
-| 9 | [mumble-voip/mumble](./backend/mumble-voip-mumble.md) | ⭐ 8k | Backend |
-| 10 | [siteboon/claudecodeui](./aiml/siteboon-claudecodeui.md) | ⭐ 10.2k | AI/ML |
+| 4 | [siteboon/claudecodeui](./aiml/siteboon-claudecodeui.md) | ⭐ 10.2k | AI/ML |
+| 5 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 6 | [microsoft/Web-Dev-For-Beginners](./aiml/microsoft-web-dev-for-beginners.md) | ⭐ 95.7k | AI/ML |
+| 7 | [qdrant/qdrant](./aiml/qdrant-qdrant.md) | ⭐ 30.7k | AI/ML |
+| 8 | [microsoft/ai-agents-for-beginners](./orchestration/microsoft-ai-agents-for-beginners.md) | ⭐ 59.3k | Orchestration |
+| 9 | [steven2358/awesome-generative-ai](./aiml/steven2358-awesome-generative-ai.md) | ⭐ 11.9k | AI/ML |
+| 10 | [future-architect/vuls](./aiml/future-architect-vuls.md) | ⭐ 12.1k | AI/ML |
 
 ## 🚀 How it works
 

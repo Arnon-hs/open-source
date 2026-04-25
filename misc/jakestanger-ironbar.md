@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Ironbar is an open-source, customizable Wayland bar written in Rust, utilizing GTK4 for its interface. This project provides users with a highly configurable and adaptable taskbar for their Wayland desktop environments. With its modular design and Rust language, Ironbar offers a scalable and efficient solution for task management.
+Ironbar is an open-source, customizable Wayland bar written in Rust, utilizing GTK4 for its user interface. It is designed to provide a flexible and customizable bar experience for users, allowing them to tailor it to their specific needs. Ironbar is a Rust-based project that offers a customizable solution for those looking for a Wayland bar with a high degree of customization.
 
 ---
 

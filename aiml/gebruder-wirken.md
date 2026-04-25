@@ -27,7 +27,7 @@ AI/ML · DevOps/Infra · Security
 
 Here's a brief summary for the gebruder/wirken project:
 
-Gebruder/wirken is an open-source, single-binary switchboard designed for the agent era. It boasts robust security features, including per-channel isolation, an encrypted credential vault, and a hash-chained audit log for each session. This Rust-based solution provides a secure foundation for integrating and managing AI/ML and infrastructure applications.
+"gebruder/wirken is an open-source project that serves as a comprehensive switchboard for the agent era, providing features such as per-channel isolation, encrypted credential storage, and audit logging. This single static Rust binary offers robust security and scalability, making it an ideal solution for AI/ML, DevOps, and infrastructure applications. Its innovative design and open-source nature facilitate customization and collaboration among developers."
 
 ---
 

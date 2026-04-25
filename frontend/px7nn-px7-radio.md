@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The px7-radio project is an open-source terminal-based music player that provides a fast and minimal alternative to traditional music apps. Built for the terminal, it offers a lightweight and user-friendly experience for music enthusiasts. This project aims to deliver a seamless and efficient way to enjoy music directly from the command line.
+The px7-radio project is an open-source, terminal-based music player that offers a lightweight and fast alternative to traditional music apps. Built with a minimalistic approach, this tool provides an efficient way to enjoy music directly from the terminal. It is an ideal solution for those seeking a simple, clutter-free music experience.
 
 ---
 

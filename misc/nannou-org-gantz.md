@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Gantz is an open-source environment designed for creative systems, providing a platform for artists, researchers, and developers to experiment and build innovative projects. This versatile environment allows users to combine different elements, such as graphics, audio, and physics, to create complex and dynamic systems. By offering a flexible and extensible framework, Gantz enables users to push the boundaries of creative expression and exploration.
+Gantz is an open-source environment designed to facilitate the development of creative systems. It provides a framework for users to experiment, build, and interact with generative and dynamic systems, pushing the boundaries of art, music, and other creative fields. By offering a versatile platform, Gantz empowers artists and developers to explore new possibilities in the realm of creative expression.
 
 ---
 

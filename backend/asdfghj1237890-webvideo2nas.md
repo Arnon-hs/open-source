@@ -27,7 +27,7 @@ Backend · DevOps/Infra
 
 Here's a brief summary for the project:
 
-The asdfghj1237890/WebVideo2NAS project enables users to capture and download online video streams from any website to their network-attached storage (NAS) device. This self-hosted pipeline supports multiple video formats, including HLS, DASH, and MP4, and can be run on various systems using a single multi-arch Docker image. The project is built with FastAPI and utilizes FFmpeg to handle video processing.
+The WebVideo2NAS project enables users to capture and download video streams from any website to their Network-Attached Storage (NAS) devices. This self-hosted pipeline, built with a single multi-arch Docker image, supports various video formats including HLS, DASH, and MP4. Utilizing FastAPI and FFmpeg, users can easily set up a Chrome-to-NAS video download solution with minimal infrastructure requirements.
 
 ---
 

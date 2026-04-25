@@ -27,7 +27,7 @@ AI/ML · Frontend · DevOps/Infra
 
 Here's a brief summary for the freelensapp/freelens project:
 
-FreeLens is an open-source, free Integrated Development Environment (IDE) specifically designed for Kubernetes development. This IDE aims to provide a comprehensive and streamlined environment for developers to build, deploy, and manage Kubernetes applications with ease. By leveraging FreeLens, developers can enhance their Kubernetes development workflow and boost productivity.
+Freelens is an open-source, free Integrated Development Environment (IDE) specifically designed for Kubernetes. This innovative platform provides developers with a comprehensive toolkit to streamline their Kubernetes development workflow, making it easier to build, deploy, and manage containerized applications. With freelens, users can leverage a powerful, intuitive interface to simplify their DevOps tasks.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Incus-os is an open-source, immutable Linux operating system designed to run the Incus platform. Built with a focus on security and reliability, Incus-os provides a stable foundation for Incus, a comprehensive solution for... (I couldn't find further information about the Incus platform to provide a more detailed description).
+Incus-os is an open-source project that provides an immutable Linux operating system. This specially designed OS is intended to run the Incus platform, offering a reliable and stable foundation for its operations. The project's focus on immutability contributes to enhanced security and maintainability.
 
 ---
 

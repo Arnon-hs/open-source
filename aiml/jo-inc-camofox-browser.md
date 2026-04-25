@@ -1,17 +1,17 @@
 # jo-inc/camofox-browser
 
-[![Stars](https://img.shields.io/github/stars/jo-inc/camofox-browser?style=flat-square&color=yellow)](https://github.com/jo-inc/camofox-browser/stargazers) [![Forks](https://img.shields.io/github/forks/jo-inc/camofox-browser?style=flat-square&color=blue)](https://github.com/jo-inc/camofox-browser/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jo-inc/camofox-browser?style=flat-square&color=yellow)](https://github.com/jo-inc/camofox-browser/stargazers) [![Forks](https://img.shields.io/github/forks/jo-inc/camofox-browser?style=flat-square&color=blue)](https://github.com/jo-inc/camofox-browser/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
-> Headless browser automation server for AI agents to visit sites that are usually blocked
+> Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 311 |
+| 🍴 **Forks** | 313 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

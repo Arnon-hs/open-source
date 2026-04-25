@@ -27,7 +27,7 @@ Orchestration
 
 Here's a brief summary for the FreeMDU project:
 
-FreeMDU is an open-source project that aims to develop hardware and software tools for interfacing with Miele appliances via their optical diagnostic interface. This project enables users to communicate with their Miele appliances in a more transparent and flexible manner, promoting home automation and integration with other devices. By making these tools open-source, the FreeMDU project fosters community-driven innovation and collaboration in the field of home appliance automation.
+The FreeMDU project is an open-source initiative that provides hardware and software tools for interacting with Miele appliances using their optical diagnostic interface. This open-orchestration project aims to empower users to monitor, diagnose, and control their Miele appliances independently, promoting flexibility and customization. By leveraging the optical diagnostic interface, FreeMDU empowers users to tap into their appliances' full potential.
 
 ---
 

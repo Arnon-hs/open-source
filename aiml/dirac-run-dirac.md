@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the dirac-run/dirac project:
+Here's a 3-sentence summary for the Dirac project:
 
-Dirac is an open-source coding agent designed to optimize code efficiency and quality while reducing API costs by up to 80%. Leveraging advanced techniques such as Hash Anchored edits and massively parallel operations, it achieves unparalleled performance and improvement in code quality. By utilizing AST manipulation and other optimizations, Dirac helps developers streamline their development process and minimize costs.
+Dirac is an open-source coding agent designed to optimize efficiency and code quality, reducing API costs by up to 80% compared to other agents. Leveraging advanced techniques such as Hash Anchored edits and massively parallel operations, Dirac improves code quality while minimizing costs. By utilizing AST manipulation and other optimizations, Dirac aims to revolutionize the way developers interact with APIs and write code.
 
 ---
 

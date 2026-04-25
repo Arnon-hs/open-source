@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The bemasher/rtlamr project is an open-source RTL-SDR receiver designed to decode data from Itron ERT compatible smart meters operating in the 900MHz ISM band. This tool enables users to receive and potentially analyze data transmitted by these smart meters, providing insights into energy usage and consumption patterns. It serves as a valuable resource for researchers, developers, and enthusiasts interested in smart grid technologies and energy monitoring.
+The rtlamr project is an open-source receiver designed to decode Itron ERT compatible smart meters using RTL-SDR technology. This tool operates within the 900MHz ISM band, allowing users to access and potentially monitor their own smart meter data. By utilizing RTL-SDR, this project provides a cost-effective and accessible solution for smart meter readings.
 
 ---
 

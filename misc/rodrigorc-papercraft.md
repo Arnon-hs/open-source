@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Papercraft is an open-source tool designed to unwrap 3D models, making it a valuable resource for artists, designers, and makers. This application helps simplify the process of converting complex 3D shapes into flat, printable paper templates, ideal for crafting and modeling purposes. By utilizing Papercraft, users can efficiently generate the necessary plans for their projects without manual computation or tedious layout design.
+Papercraft is an open-source tool that helps unwrap 3D models into 2D paper templates, making it easier to create physical models from digital designs. This project enables users to flatten complex 3D models into flat, printable sheets of paper. By providing a user-friendly way to unwrap 3D models, Papercraft facilitates the creation of papercraft models and other paper-based art forms.
 
 ---
 

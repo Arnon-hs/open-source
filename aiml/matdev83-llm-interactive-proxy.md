@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-This open-source project, known as LLM-Interactive-Proxy, enables seamless communication between language model (LLM)-powered client applications and various supported inference backends or models. By acting as a proxy, it facilitates the connection of coding agents, chatbots, or other LLM-based clients to their preferred inference engines, streamlining the development process. This project simplifies the integration of LLMs into client applications, enhancing collaboration and productivity in AI-driven environments.
+The LLM-Interactive Proxy is an open-source project that enables seamless communication between LLM (Large Language Model)-powered client applications and various supported inference backends or models. This proxy allows developers to easily connect and utilize different LLM services, streamlining the development process for AI-powered applications. It acts as a versatile bridge, facilitating interactions between various LLM clients and backends.
 
 ---
 

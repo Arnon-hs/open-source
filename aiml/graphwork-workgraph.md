@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Workgraph is an open-source project that enables the creation of a lightweight work coordination graph, facilitating collaboration between humans and AI agents. This framework allows for efficient organization and management of tasks, workflows, and relationships, thereby streamlining complex work processes. By leveraging Workgraph, developers can build more intelligent and adaptable systems that integrate human and artificial intelligence capabilities.
+Here's a brief summary of the open-source project:
+
+Workgraph is an open-source, lightweight work coordination graph designed for both human and AI agent collaboration. This platform enables seamless coordination of tasks and activities by structuring complex workflows into a graph-based framework, facilitating efficient and effective collaboration. By unifying human and AI interactions, Workgraph aims to enhance productivity and streamline decision-making processes.
 
 ---
 

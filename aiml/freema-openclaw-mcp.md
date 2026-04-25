@@ -25,7 +25,9 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The open-source project "freema/openclaw-mcp" is a secure bridge between Claude.ai and self-hosted OpenClaw assistants, enabling seamless communication and authentication. This MCP (Messaging and Control Protocol) server utilizes OAuth2 authentication to ensure a secure and private interaction between the two platforms. By using this project, users can enjoy the benefits of Claude.ai with the flexibility of a self-hosted OpenClaw assistant.
+Here's a brief summary for the open-source project:
+
+The openclaw-mcp project is an open-source MCP (Message Control Protocol) server designed to securely bridge Claude.ai with self-hosted OpenClaw assistants, enabling seamless integration and OAuth2 authentication. This project allows users to host their own OpenClaw assistants and maintain control over their data communication. By using this MCP server, users can enhance their security and flexibility in AI-powered workflows.
 
 ---
 

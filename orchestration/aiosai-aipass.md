@@ -25,7 +25,7 @@ Orchestration · AI/ML · Mobile
 
 ## 📝 Summary
 
-The AIOSAI/AIPass project is an open-source, local multi-agent framework that enables AI agents to maintain their memory and collaborate seamlessly without requiring users to repeatedly explain context. This innovative framework allows AI agents to work together in harmony, making it an ideal solution for complex tasks that require coordination and shared knowledge. By leveraging this technology, developers can build more efficient and intelligent applications that harness the power of AI.
+AIPass is an open-source, local multi-agent framework that enables AI agents to retain memory and collaborate seamlessly, eliminating the need for context explanations. This innovative platform facilitates the orchestration of AI/ML capabilities on mobile devices, promoting efficient and intelligent workflows. By allowing agents to work together with shared memory, AIPass streamlines complex tasks and enhances overall AI performance.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-ZenNotes is an open-source, keyboard-first note-taking application that utilizes Markdown formatting and integrates Vim motions for efficient navigation. This local notes manager also supports creating diagrams and offers seamless integration with other tools via MCP (a popular macOS plugin manager). Users can access a streamlined note-taking experience with minimal dependencies.
+ZenNotes is an open-source, keyboard-first note-taking application that allows users to create local Markdown notes with the assistance of Vim motions, making it a powerful tool for those familiar with Vim. Additionally, ZenNotes provides diagram creation capabilities and seamless integration with Mac OS Clipboard History (MCP), streamlining the workflow and enhancing productivity. This application is ideal for individuals seeking a fast and efficient way to jot down notes and ideas.
 
 ---
 

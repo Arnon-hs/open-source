@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The gannonh/kata project is an open-source, monorepo orchestration platform designed for multi-agent systems. It includes a range of tools, including a CLI, Symphony, Desktop, Context, and Orchestrator, to facilitate efficient and scalable management of complex AI/ML and DevOps workflows. This project enables developers to streamline their workflows, improve collaboration, and accelerate innovation in various technology domains.
+The gannonh/kata project is an open-source monorepo that provides a comprehensive framework for multi-agent orchestration. It includes a range of tools, such as a CLI, Symphony, Desktop, Context, and Orchestrator, designed to streamline the development and deployment of AI/ML applications. This project enables developers to create and manage complex AI systems with ease, making it an essential tool for the AI/ML community.
 
 ---
 

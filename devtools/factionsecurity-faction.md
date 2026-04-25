@@ -1,6 +1,6 @@
 # factionsecurity/faction
 
-[![Stars](https://img.shields.io/github/stars/factionsecurity/faction?style=flat-square&color=yellow)](https://github.com/factionsecurity/faction/stargazers) [![Forks](https://img.shields.io/github/forks/factionsecurity/faction?style=flat-square&color=blue)](https://github.com/factionsecurity/faction/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/factionsecurity/faction?style=flat-square&color=yellow)](https://github.com/factionsecurity/faction/stargazers) [![Forks](https://img.shields.io/github/forks/factionsecurity/faction?style=flat-square&color=blue)](https://github.com/factionsecurity/faction/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Pen Test Report Generation and Assessment Collaboration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

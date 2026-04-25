@@ -27,7 +27,7 @@ Frontend · DevTools · Security
 
 Here's a brief summary for the go-resty/resty project:
 
-The go-resty/resty library is an open-source, simple HTTP, REST, and Server-Sent Events (SSE) client library for Go, designed to make interacting with web services easier and more efficient. This library provides a robust and easy-to-use API for sending HTTP requests and handling responses, making it a valuable tool for Go developers. With resty, you can write more readable and maintainable code for your web-based applications.
+go-resty/resty is an open-source, lightweight HTTP, REST, and Server-Sent Events (SSE) client library for the Go programming language. It simplifies the process of making HTTP requests, allowing developers to easily interact with web servers and APIs. With resty, Go developers can write efficient and scalable network code.
 
 ---
 

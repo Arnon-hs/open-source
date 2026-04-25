@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The all-is-cubes project is a cutting-edge, open-source block/voxel game that pushes the boundaries of browser-based gaming. Built on WebGPU and WebAssembly, this innovative game allows blocks to be composed of smaller, recursive blocks, creating a unique and intricate gameplay experience. By leveraging modern web technologies, all-is-cubes brings complex, cube-based worlds to the browser.
+All-is-Cubes is a block/voxel game that takes a unique approach by having blocks composed of smaller blocks, creating a self-similar, fractal-like structure. This open-source project is built using WebGPU and WebAssembly, allowing it to run seamlessly in browsers. The result is a visually striking and procedurally generated game world that can be explored and interacted with.
 
 ---
 

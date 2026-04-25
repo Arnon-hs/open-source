@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project provides free, daily-updated VLESS, VMESS, and Shadowsocks proxy configurations for Russia. The repository utilizes an automated validation and rotation system to ensure the VPN keys are secure and reliable. This project aims to provide a convenient resource for users seeking stable and accessible VPN connections within Russia.
+Here's a 2-3 sentence summary of the project:
+
+The kort0881/vpn-vless-configs-russia project offers a collection of free and up-to-date VLESS, VMESS, and Shadowsocks proxy configurations tailored for users in Russia. The repository utilizes an automated validation and rotation system to ensure secure and reliable VPN connections. This open-source initiative aims to provide a comprehensive and easily accessible VPN keys repository for users in Russia.
 
 ---
 

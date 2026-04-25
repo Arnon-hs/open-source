@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The TinyProgrammer project is an open-source initiative that brings a miniature, virtual programming assistant to your desktop. This digital companion, 'Tiny Programmer', is designed to be a helpful tool for learning and exploring programming concepts in a friendly and approachable manner. By interacting with Tiny Programmer, users can engage in a fun and interactive way with programming principles.
+TinyProgrammer is an open-source project that simulates a tiny programmer sitting on a desk, demonstrating a unique and quirky concept. The project, available on a repository, aims to bring a touch of whimsy and fun to the world of programming. Its goal is to educate and entertain users through interactive and imaginative coding experiences.
 
 ---
 
