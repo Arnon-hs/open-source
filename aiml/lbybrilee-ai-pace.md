@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The ai-pace project is an open-source, lightweight menubar application that provides users with real-time information on their remaining Codex and Claude usage limits. This tool is designed to cater to those who frequently utilize AI models, helping them stay on top of their usage and avoid unexpected cutoffs. By offering a streamlined and accessible user experience, ai-pace aims to simplify the management of AI-powered projects and workflows.
+Here's a 2-3 sentence summary for the open-source project:
+
+The ai-pace project is a lightweight menubar application that provides users with real-time insights into their remaining usage for popular AI services, including Codex and Claude. This tool aims to help users better manage their AI resources and stay informed about their usage limits. By installing ai-pace, users can easily monitor their AI service quotas and make more efficient use of their allocated resources.
 
 ---
 

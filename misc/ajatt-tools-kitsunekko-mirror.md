@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 308 |
+| ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | SRecode Template |
 | 📈 **Score** | 49/100 |

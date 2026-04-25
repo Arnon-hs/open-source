@@ -25,7 +25,7 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The TFMV (Terraform Move Viewer) project is a command-line tool designed to simplify resource renaming in Terraform configurations. It enables users to efficiently rename Terraform resources and automatically generates the necessary 'moved' blocks to track changes. This tool streamlines the process of resource management and maintenance in Terraform-based infrastructure setups.
+The TFMV (Terraform Move Vocabulary) tool is an open-source, command-line interface (CLI) developed by Suzuki Shunsuke. It allows users to efficiently rename Terraform resources and automatically generates moved blocks to ensure seamless infrastructure updates. This project streamlines the process of updating Terraform configurations, making it easier to maintain and manage complex infrastructure deployments.
 
 ---
 

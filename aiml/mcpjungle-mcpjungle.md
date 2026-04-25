@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/mcpjungle/MCPJungle?style=flat-square&color=yellow)](https://github.com/mcpjungle/MCPJungle/stargazers) [![Forks](https://img.shields.io/github/forks/mcpjungle/MCPJungle?style=flat-square&color=blue)](https://github.com/mcpjungle/MCPJungle/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
-> Self-hosted MCP Gateway for AI agents
+> Self-hosted MCP Gateway for Individuals & Teams
 
 ## 📊 Stats
 

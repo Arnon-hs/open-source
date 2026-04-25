@@ -25,9 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Argo CD Agent is an open-source project that redefines the multi-cluster experience for Argo CD, enabling seamless and secure management of applications across multiple Kubernetes clusters. This project aims to simplify the process of deploying and managing applications across multiple environments. By providing a unified agent for Argo CD, it streamlines application delivery and improves operational efficiency.
+The argocd-agent project is an open-source initiative that aims to revolutionize the multi-cluster story of Argo CD, enabling seamless and unified management of applications across multiple environments. This project leverages cutting-edge technologies to simplify the process of deploying and managing applications across multiple clusters, making it an essential tool for modern DevOps and cloud-native environments. By redefining the boundaries of cluster management, argocd-agent empowers developers and operators to achieve greater efficiency, scalability, and control.
 
 ---
 

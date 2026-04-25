@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the gastownhall/gascity project:
-
-Gascity is an open-source orchestration-builder SDK designed for multi-agent coding workflows, enabling developers to streamline complex AI/ML tasks. This innovative tool simplifies the creation of customized workflows, allowing users to efficiently manage and orchestrate various agents and processes. With gascity, developers can focus on building intelligent applications with ease and flexibility.
+The gascity project is an open-source SDK for building orchestration systems that facilitate efficient multi-agent coding workflows. This tool enables developers to create, manage, and coordinate complex workflows involving multiple AI and ML agents, streamlining collaboration and enhancing productivity. By providing a robust framework for orchestration, gascity helps teams to efficiently tackle complex coding projects.
 
 ---
 

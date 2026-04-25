@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Boxxy is an open-source project that attempts to create a 'stupid' Linux terminal, essentially an AI-powered terminal interface designed to mimic the simplicity of older Linux terminals. The project's goal is to provide a basic, user-friendly interface for navigating the Linux command line, making it more accessible to new users. By leveraging AI/ML, Boxxy aims to streamline the terminal experience and improve usability.
+Boxxy is an open-source, AI/ML-powered project that aims to create a novel and user-friendly Linux terminal experience. This project utilizes advanced technologies to provide an intuitive and interactive interface for users, making Linux more accessible to those with limited technical backgrounds. By introducing an innovative approach to terminal interaction, Boxxy seeks to simplify and enhance the Linux user experience.
 
 ---
 

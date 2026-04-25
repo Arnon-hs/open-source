@@ -25,7 +25,7 @@ Trading · Backend
 
 ## 📝 Summary
 
-This open-source project, rust-ibapi, is an implementation of the Interactive Brokers API for the Rust programming language. It enables developers to programmatically connect to Interactive Brokers' trading platform, facilitating the integration of their trading systems with Rust-based applications. This library provides a robust and secure way to interact with the Interactive Brokers API.
+This open-source project, rust-ibapi, is a Rust implementation of the Interactive Brokers API, allowing developers to easily interact with Interactive Brokers' trading platforms. By utilizing this library, users can access a wide range of trading functions, enabling the creation of robust trading applications in Rust. This project is ideal for traders, developers, and researchers seeking to integrate Interactive Brokers' services into their Rust-based projects.
 
 ---
 

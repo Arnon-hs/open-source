@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the 'rten' open-source project:
+Here's a brief summary for the open-source project:
 
-The 'rten' project is an open-source ONNX (Open Neural Network Exchange) neural network inference engine designed to efficiently run and deploy machine learning models. It enables users to load and execute pre-trained models in various formats, including ONNX, and perform inference tasks with high performance. By leveraging the 'rten' engine, developers can integrate AI capabilities into their applications with ease.
+The rten project is an open-source ONNX neural network inference engine, designed to efficiently run machine learning models. It is developed to provide a flexible and scalable platform for deploying AI workloads, allowing users to run models across various hardware platforms. By leveraging the ONNX format, rten enables seamless model deployment and inference across a range of environments.
 
 ---
 

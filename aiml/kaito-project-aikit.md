@@ -1,6 +1,6 @@
 # kaito-project/aikit
 
-[![Stars](https://img.shields.io/github/stars/kaito-project/aikit?style=flat-square&color=yellow)](https://github.com/kaito-project/aikit/stargazers) [![Forks](https://img.shields.io/github/forks/kaito-project/aikit?style=flat-square&color=blue)](https://github.com/kaito-project/aikit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kaito-project/aikit?style=flat-square&color=yellow)](https://github.com/kaito-project/aikit/stargazers) [![Forks](https://img.shields.io/github/forks/kaito-project/aikit?style=flat-square&color=blue)](https://github.com/kaito-project/aikit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 518 |
+| ⭐ **Stars** | 519 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

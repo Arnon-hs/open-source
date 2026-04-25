@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The egglog project combines the egraphs system with the power of datalog, aiming to provide a versatile and efficient tool for computing and reasoning about graph queries. By integrating the strengths of both systems, egglog enables the manipulation and analysis of complex graph data in a declarative and expressive manner. This open-source project is a valuable resource for researchers and developers working with graph-based data.
+The egglog project combines the power of eg graphs with the expressive capabilities of datalog, enabling efficient and scalable data management and reasoning. By leveraging the strengths of both paradigms, egglog provides a flexible and extensible framework for querying and manipulating complex data. This open-source project allows developers to tap into the benefits of datalog's logic-based querying and eg graphs' efficient graph traversal.
 
 ---
 

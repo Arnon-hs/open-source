@@ -1,6 +1,6 @@
 # unchihugo/FluentFlyout
 
-[![Stars](https://img.shields.io/github/stars/unchihugo/FluentFlyout?style=flat-square&color=yellow)](https://github.com/unchihugo/FluentFlyout/stargazers) [![Forks](https://img.shields.io/github/forks/unchihugo/FluentFlyout?style=flat-square&color=blue)](https://github.com/unchihugo/FluentFlyout/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unchihugo/FluentFlyout?style=flat-square&color=yellow)](https://github.com/unchihugo/FluentFlyout/stargazers) [![Forks](https://img.shields.io/github/forks/unchihugo/FluentFlyout?style=flat-square&color=blue)](https://github.com/unchihugo/FluentFlyout/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

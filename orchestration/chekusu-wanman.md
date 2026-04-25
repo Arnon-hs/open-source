@@ -1,6 +1,6 @@
 # chekusu/wanman
 
-[![Stars](https://img.shields.io/github/stars/chekusu/wanman?style=flat-square&color=yellow)](https://github.com/chekusu/wanman/stargazers) [![Forks](https://img.shields.io/github/forks/chekusu/wanman?style=flat-square&color=blue)](https://github.com/chekusu/wanman/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chekusu/wanman?style=flat-square&color=yellow)](https://github.com/chekusu/wanman/stargazers) [![Forks](https://img.shields.io/github/forks/chekusu/wanman?style=flat-square&color=blue)](https://github.com/chekusu/wanman/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 265 |
+| ⭐ **Stars** | 269 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

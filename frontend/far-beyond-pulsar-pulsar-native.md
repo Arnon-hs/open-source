@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Far-Beyond-Pulsar/Pulsar-Native project:
-
-Pulsar-Native is an open-source, next-generation game engine built with Rust and leveraging GPUI technology for high-performance rendering. This frontend-focused engine is designed to provide developers with a powerful and efficient platform for creating engaging gaming experiences. By harnessing the capabilities of GPUI, Pulsar-Native aims to set a new standard in game development.
+Pulsar-Native is an open-source, next-generation game engine built on top of GPUI and implemented in Rust. This high-performance engine is designed to provide a seamless gaming experience with unparalleled speed and efficiency. By leveraging Rust's capabilities and GPUI's graphics capabilities, Pulsar-Native aims to set a new standard for game development.
 
 ---
 

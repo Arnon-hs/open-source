@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The jdx/hk project provides a comprehensive collection of open-source git hooks and project lints, designed to streamline development workflows and ensure high-quality code. This project offers a set of reusable tools for automating tasks, enforcing coding standards, and maintaining project integrity. By adopting jdx/hk, developers can simplify their development processes and enhance collaboration within their teams.
+The jdx/hk project is an open-source collection of tools designed to enhance software development workflows. It includes a set of customizable git hooks and project lints that can be integrated into various development projects. These tools aim to promote code quality, consistency, and collaboration among developers.
 
 ---
 

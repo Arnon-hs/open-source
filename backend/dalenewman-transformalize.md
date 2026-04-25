@@ -25,7 +25,7 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-Transformalize is an open-source, configurable Extract, Transform, and Load (ETL) project that empowers users to manage and process large datasets with ease. This versatile tool enables users to define custom transformations and workflows, making it an invaluable asset for data engineers and analysts alike. By leveraging Transformalize, users can streamline data processing tasks and improve overall data integrity.
+Transformalize is an open-source project that enables configurable Extract, Transform, and Load (ETL) operations. This tool allows users to define custom data transformation pipelines, streamlining data integration and processing tasks. By leveraging Transformalize, developers can create flexible and maintainable ETL workflows for a wide range of data processing needs.
 
 ---
 

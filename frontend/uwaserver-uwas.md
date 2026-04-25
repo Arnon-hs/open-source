@@ -25,7 +25,9 @@ Frontend · Backend
 
 ## 📝 Summary
 
-The uwaserver/uwas project is an open-source, unified web application server that combines multiple technologies into a single, lightweight Go binary. It provides features such as auto-HTTPS, caching, PHP/FastCGI support, reverse proxy, load balancing, a web application firewall (WAF), and a web dashboard for easy management. This versatile server also includes a Management Control Panel (MCP) server for centralized administration.
+Here's a brief summary for the uwaserver/uwas project:
+
+The uwaserver/uwas project is an open-source, unified web application server that combines the functionality of Apache, Nginx, Varnish, and Caddy into a single, lightweight Go binary. This comprehensive server offers auto HTTPS, caching, PHP/FastCGI support, reverse proxy, load balancing, web application firewall (WAF) protection, a web dashboard, and a built-in MCP (Message Queue) server. Ideal for modern web development, uwaserver/uwas simplifies server setup and management while providing robust features for high-performance web applications.
 
 ---
 

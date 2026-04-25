@@ -27,7 +27,7 @@ Backend · Security
 
 Here's a brief summary for the open-source project:
 
-This project, MCP server for SAP BTP ABAP Cloud and On-Premise ECC/S/4HANA ABAP ADT, provides a full-featured CRUD (Create, Read, Update, Delete) interface for managing ABAP development tasks. It offers authentication options, including JWT/XSUAA and service-key authentication, enhancing security for SAP BTP and on-premise systems. This open-source solution enables seamless integration and management of ABAP development processes.
+The fr0ster/mcp-abap-adt project provides a MCP (Multi-Tenant Cloud Platform) server for SAP BTP ABAP Cloud and On-Premise ECC/S/4HANA ABAP ADT, enabling full CRUD (Create, Read, Update, Delete) operations and authentication through JWT/XSUAA and service-key methods. This open-source solution caters to the backend security needs of ABAP developers, offering a secure and scalable platform for their applications. It supports a range of SAP environments, making it a valuable resource for the ABAP community.
 
 ---
 

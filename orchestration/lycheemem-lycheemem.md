@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-LycheeMem is an open-source, lightweight long-term memory framework designed for Large Language Model (LLM) agents. It enables efficient storage and retrieval of vast amounts of knowledge, empowering LLMs to learn and improve over time. By providing a scalable and adaptable memory solution, LycheeMem facilitates the development of more effective and intelligent AI agents.
+LycheeMem is an open-source, lightweight long-term memory solution designed for Large Language Model (LLM) agents. It enables efficient storage and retrieval of knowledge, allowing LLMs to maintain a robust and dynamic understanding of their environment. This project simplifies the integration of long-term memory capabilities into LLM-based systems, facilitating more effective and adaptable AI applications.
 
 ---
 

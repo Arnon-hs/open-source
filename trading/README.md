@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**61 projects** in this category.
+**62 projects** in this category.
 
 ## Projects
 
@@ -41,7 +41,7 @@
 | 31 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 911 | Rust | 59/100 |
 | 32 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 946 | Python | 59/100 |
 | 33 | [abshare/abshare.github.io](./abshare-abshare.github.io.md) | ⭐ 977 | — | 58/100 |
-| 34 | [tcgdex/cards-database](./tcgdex-cards-database.md) | ⭐ 746 | TypeScript | 58/100 |
+| 34 | [tcgdex/cards-database](./tcgdex-cards-database.md) | ⭐ 747 | TypeScript | 58/100 |
 | 35 | [mguessan/davmail](./mguessan-davmail.md) | ⭐ 717 | Java | 57/100 |
 | 36 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 702 | Jupyter Notebook | 57/100 |
 | 37 | [himself65/finance-skills](./himself65-finance-skills.md) | ⭐ 1.3k | TypeScript | 56/100 |
@@ -50,25 +50,26 @@
 | 40 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 772 | Rust | 54/100 |
 | 41 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
 | 42 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 445 | Rust | 54/100 |
-| 43 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 557 | Swift | 54/100 |
-| 44 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
-| 45 | [quantumaikr/quant.cpp](./quantumaikr-quant.cpp.md) | ⭐ 384 | C | 53/100 |
+| 43 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 559 | Swift | 54/100 |
+| 44 | [quantumaikr/quant.cpp](./quantumaikr-quant.cpp.md) | ⭐ 384 | C | 53/100 |
+| 45 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
 | 46 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 398 | Python | 53/100 |
 | 47 | [tolinkshare2/tolinkshare2.github.io](./tolinkshare2-tolinkshare2.github.io.md) | ⭐ 381 | — | 53/100 |
 | 48 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 120 | Go | 51/100 |
 | 49 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 52 | Python | 51/100 |
 | 50 | [tensorcircuit/tensorcircuit-ng](./tensorcircuit-tensorcircuit-ng.md) | ⭐ 69 | Python | 51/100 |
-| 51 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 131 | Python | 51/100 |
-| 52 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 152 | Rust | 51/100 |
+| 51 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 152 | Rust | 51/100 |
+| 52 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 132 | Python | 51/100 |
 | 53 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 79 | Python | 51/100 |
 | 54 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 85 | Python | 51/100 |
-| 55 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 27 | Shell | 50/100 |
+| 55 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 28 | Shell | 50/100 |
 | 56 | [quantamixsol/graqle](./quantamixsol-graqle.md) | ⭐ 22 | Python | 50/100 |
 | 57 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 24 | Swift | 50/100 |
 | 58 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
 | 59 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 27 | Python | 50/100 |
-| 60 | [tqec/tqec](./tqec-tqec.md) | ⭐ 358 | Python | 48/100 |
-| 61 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 300 | Rust | 47/100 |
+| 60 | [No-Trade-No-Life/Yuan](./no-trade-no-life-yuan.md) | ⭐ 351 | TypeScript | 48/100 |
+| 61 | [tqec/tqec](./tqec-tqec.md) | ⭐ 358 | Python | 48/100 |
+| 62 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 300 | Rust | 47/100 |
 
 ---
 

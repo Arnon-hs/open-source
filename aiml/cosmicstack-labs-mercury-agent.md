@@ -1,6 +1,6 @@
 # cosmicstack-labs/mercury-agent
 
-[![Stars](https://img.shields.io/github/stars/cosmicstack-labs/mercury-agent?style=flat-square&color=yellow)](https://github.com/cosmicstack-labs/mercury-agent/stargazers) [![Forks](https://img.shields.io/github/forks/cosmicstack-labs/mercury-agent?style=flat-square&color=blue)](https://github.com/cosmicstack-labs/mercury-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cosmicstack-labs/mercury-agent?style=flat-square&color=yellow)](https://github.com/cosmicstack-labs/mercury-agent/stargazers) [![Forks](https://img.shields.io/github/forks/cosmicstack-labs/mercury-agent?style=flat-square&color=blue)](https://github.com/cosmicstack-labs/mercury-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 975 |
-| 🍴 **Forks** | 111 |
+| ⭐ **Stars** | 1k |
+| 🍴 **Forks** | 114 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

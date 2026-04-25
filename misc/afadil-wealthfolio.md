@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Wealthfolio is an open-source, private, and secure desktop application designed for investment tracking. It provides users with a beautiful and intuitive interface to manage their financial portfolios, allowing them to monitor their investments and make informed decisions. Developed with security in mind, Wealthfolio offers a reliable solution for individuals seeking a personal and confidential investment tracking experience.
+Wealthfolio is an open-source, private, and secure desktop application designed for tracking investments. This user-friendly tool allows individuals to manage their financial portfolios efficiently and securely, providing a comprehensive overview of their wealth. Wealthfolio offers a beautiful and intuitive interface, making it an ideal solution for those seeking a reliable investment tracking solution.
 
 ---
 

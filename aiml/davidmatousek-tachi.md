@@ -25,7 +25,7 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Tachi is an open-source, automated threat modeling toolkit that streamlines the process of identifying potential security risks. By combining the STRIDE threat modeling methodology with AI-specific threats, Tachi enables users to conduct comprehensive security assessments with just one command. This innovative tool aims to simplify and enhance the threat modeling process for AI and machine learning systems.
+The Tachi project is an open-source, automated threat modeling toolkit designed to streamline the security assessment process. It combines the widely-used STRIDE threat modeling framework with AI-specific threats, providing a comprehensive and efficient approach to identifying potential vulnerabilities. With Tachi, users can conduct thorough threat modeling in a single command, enhancing their ability to protect against emerging AI-powered threats.
 
 ---
 

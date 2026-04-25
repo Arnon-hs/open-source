@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The strtok/marwood project is an open-source implementation of a Scheme R7 compiler and runtime, designed for embeddability in various environments. Written entirely in Rust, this project allows developers to integrate a Scheme interpreter into their applications, leveraging the flexibility and expressiveness of the Scheme language. By providing a compiler and runtime in a single package, strtok/marwood streamlines the process of incorporating Scheme functionality into different systems.
+The strtok/marwood project is an open-source, embeddable implementation of the Scheme R7RS programming language, written entirely in Rust. This project combines a Scheme compiler and runtime environment, making it a versatile tool for building applications that require Scheme's dynamic nature. By leveraging Rust for development, it offers a robust and efficient foundation for Scheme-based projects.
 
 ---
 

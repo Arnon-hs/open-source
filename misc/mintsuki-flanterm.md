@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Mintsuki/Flanterm is an open-source, fast, and feature-rich terminal emulator that utilizes the framebuffer. Its goal is to provide a seamless user experience with efficient performance. This project offers a complete framebuffer terminal emulator solution for users seeking a reliable and lightweight terminal application.
+Mintsuki/Flanterm is a fast and feature-rich open-source terminal emulator that provides a complete framebuffer experience. Its design prioritizes performance, making it a suitable choice for users seeking a responsive and efficient terminal experience. This project aims to offer a reliable alternative for those seeking a terminal emulator with a wide range of features.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-VueTorrent is an open-source, visually appealing user interface (UI) designed for qBittorrent, built using the Vue.js framework. It aims to provide a sleek and modern alternative to the default qBittorrent interface. With VueTorrent, users can enjoy a more intuitive and user-friendly experience while managing their torrent downloads.
+VueTorrent is an open-source, user-friendly web interface for qBittorrent built using Vue.js, offering a sleek and modern design. This project aims to provide a seamless and intuitive experience for users to manage their torrent downloads. By utilizing Vue.js, VueTorrent offers a responsive and visually appealing interface for managing and tracking torrent activities.
 
 ---
 

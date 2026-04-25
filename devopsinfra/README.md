@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**125 projects** in this category.
+**126 projects** in this category.
 
 ## Projects
 
@@ -10,9 +10,9 @@
 |---|---|---|---|---|
 | 1 | [alam00000/bentopdf](./alam00000-bentopdf.md) | ⭐ 12.9k | JavaScript | 100/100 |
 | 2 | [runatlantis/atlantis](./runatlantis-atlantis.md) | ⭐ 9k | Go | 100/100 |
-| 3 | [authelia/authelia](./authelia-authelia.md) | ⭐ 27.6k | Go | 100/100 |
-| 4 | [dependabot/dependabot-core](./dependabot-dependabot-core.md) | ⭐ 5.5k | Ruby | 100/100 |
-| 5 | [netbox-community/netbox](./netbox-community-netbox.md) | ⭐ 20.3k | Python | 100/100 |
+| 3 | [dependabot/dependabot-core](./dependabot-dependabot-core.md) | ⭐ 5.6k | Ruby | 100/100 |
+| 4 | [netbox-community/netbox](./netbox-community-netbox.md) | ⭐ 20.3k | Python | 100/100 |
+| 5 | [authelia/authelia](./authelia-authelia.md) | ⭐ 27.6k | Go | 100/100 |
 | 6 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 77.8k | TypeScript | 100/100 |
 | 7 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.4k | Python | 100/100 |
 | 8 | [argoproj/argo-cd](./argoproj-argo-cd.md) | ⭐ 22.7k | Go | 100/100 |
@@ -23,9 +23,9 @@
 | 13 | [prometheus-community/helm-charts](./prometheus-community-helm-charts.md) | ⭐ 6.1k | Mustache | 96/100 |
 | 14 | [helm/helm](./helm-helm.md) | ⭐ 29.7k | Go | 96/100 |
 | 15 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 8.9k | Go | 96/100 |
-| 16 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 96/100 |
-| 17 | [ntop/ntopng](./ntop-ntopng.md) | ⭐ 7.8k | Lua | 96/100 |
-| 18 | [external-secrets/external-secrets](./external-secrets-external-secrets.md) | ⭐ 6.6k | Go | 96/100 |
+| 16 | [ntop/ntopng](./ntop-ntopng.md) | ⭐ 7.8k | Lua | 96/100 |
+| 17 | [external-secrets/external-secrets](./external-secrets-external-secrets.md) | ⭐ 6.6k | Go | 96/100 |
+| 18 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 96/100 |
 | 19 | [dexidp/dex](./dexidp-dex.md) | ⭐ 10.8k | Go | 96/100 |
 | 20 | [angular/components](./angular-components.md) | ⭐ 25k | TypeScript | 95/100 |
 | 21 | [prometheus-operator/prometheus-operator](./prometheus-operator-prometheus-operator.md) | ⭐ 9.9k | Go | 95/100 |
@@ -120,19 +120,20 @@
 | 110 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
 | 111 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 213 | Go | 50/100 |
 | 112 | [estahn/k8s-image-swapper](./estahn-k8s-image-swapper.md) | ⭐ 631 | Go | 50/100 |
-| 113 | [epinio/epinio](./epinio-epinio.md) | ⭐ 587 | Go | 49/100 |
-| 114 | [huaweicloud/terraform-provider-huaweicloud](./huaweicloud-terraform-provider-huaweicloud.md) | ⭐ 258 | Go | 49/100 |
+| 113 | [huaweicloud/terraform-provider-huaweicloud](./huaweicloud-terraform-provider-huaweicloud.md) | ⭐ 258 | Go | 49/100 |
+| 114 | [epinio/epinio](./epinio-epinio.md) | ⭐ 587 | Go | 49/100 |
 | 115 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 935 | Dockerfile | 49/100 |
 | 116 | [vmware/terraform-provider-vra](./vmware-terraform-provider-vra.md) | ⭐ 115 | Go | 48/100 |
 | 117 | [reteps/dockerfmt](./reteps-dockerfmt.md) | ⭐ 599 | Go | 48/100 |
 | 118 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 174 | Go | 48/100 |
 | 119 | [kubernetes/kubelet](./kubernetes-kubelet.md) | ⭐ 401 | Go | 47/100 |
-| 120 | [bitnami/charts-syncer](./bitnami-charts-syncer.md) | ⭐ 238 | Go | 45/100 |
-| 121 | [kubernetes/kube-scheduler](./kubernetes-kube-scheduler.md) | ⭐ 197 | Go | 44/100 |
-| 122 | [kubernetes/pod-security-admission](./kubernetes-pod-security-admission.md) | ⭐ 102 | Go | 44/100 |
-| 123 | [kubernetes/kube-proxy](./kubernetes-kube-proxy.md) | ⭐ 206 | Go | 44/100 |
-| 124 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 42/100 |
-| 125 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
+| 120 | [microsoft/terraform-provider-fabric](./microsoft-terraform-provider-fabric.md) | ⭐ 115 | Go | 46/100 |
+| 121 | [bitnami/charts-syncer](./bitnami-charts-syncer.md) | ⭐ 238 | Go | 45/100 |
+| 122 | [kubernetes/kube-scheduler](./kubernetes-kube-scheduler.md) | ⭐ 197 | Go | 44/100 |
+| 123 | [kubernetes/pod-security-admission](./kubernetes-pod-security-admission.md) | ⭐ 102 | Go | 44/100 |
+| 124 | [kubernetes/kube-proxy](./kubernetes-kube-proxy.md) | ⭐ 206 | Go | 44/100 |
+| 125 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 42/100 |
+| 126 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
 
 ---
 
