@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/juyterman1000/entroly?style=flat-square&color=yellow)](https://github.com/juyterman1000/entroly/stargazers) [![Forks](https://img.shields.io/github/forks/juyterman1000/entroly?style=flat-square&color=blue)](https://github.com/juyterman1000/entroly/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Copilot.
+> Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Custom Providers
 
 ## 📊 Stats
 

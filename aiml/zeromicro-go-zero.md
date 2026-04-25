@@ -27,7 +27,7 @@ AI/ML · Backend · DevTools
 
 Here's a brief summary for the zeromicro/go-zero project:
 
-zeromicro/go-zero is an open-source, cloud-native microservices framework built for Go that streamlines productivity with its CLI tool. This framework provides a comprehensive set of features and tools to develop scalable, efficient, and maintainable microservices applications. With its robust architecture and user-friendly interface, zeromicro/go-zero enables developers to build modern cloud-native systems with ease.
+zeromicro/go-zero is an open-source, cloud-native Go microservices framework designed for productivity. It provides a CLI tool and a set of libraries to help developers build scalable, efficient, and maintainable microservices applications. With go-zero, developers can streamline their development workflow and focus on building high-quality software.
 
 ---
 

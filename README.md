@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4320** |
+| 🗂️ **Total projects** | **4411** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,22 +18,22 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1661 | [Browse →](./aiml/) |
-| 📦 **Misc** | 676 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 445 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 407 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 259 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 242 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 168 | [Browse →](./crypto/) |
-| 📊 **Data** | 113 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 98 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 61 | [Browse →](./payments/) |
-| 📱 **Mobile** | 60 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 1702 | [Browse →](./aiml/) |
+| 📦 **Misc** | 689 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 451 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 418 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 264 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 244 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 172 | [Browse →](./crypto/) |
+| 📊 **Data** | 114 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 102 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 62 | [Browse →](./payments/) |
+| 📱 **Mobile** | 61 | [Browse →](./mobile/) |
 | 📈 **Trading** | 48 | [Browse →](./trading/) |
-| 🔐 **Security** | 45 | [Browse →](./security/) |
+| 🔐 **Security** | 46 | [Browse →](./security/) |
 | ✨ **Design** | 18 | [Browse →](./design/) |
 | 🎯 **Product** | 14 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 6 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
@@ -44,11 +44,11 @@
 | 3 | [hoochanlon/hamuleite](./misc/hoochanlon-hamuleite.md) | ⭐ 9.4k | Misc |
 | 4 | [activepieces/activepieces](./aiml/activepieces-activepieces.md) | ⭐ 21.9k | AI/ML |
 | 5 | [playframework/playframework](./aiml/playframework-playframework.md) | ⭐ 12.6k | AI/ML |
-| 6 | [huggingface/pytorch-image-models](./aiml/huggingface-pytorch-image-models.md) | ⭐ 36.7k | AI/ML |
-| 7 | [bytecodealliance/wasmtime](./misc/bytecodealliance-wasmtime.md) | ⭐ 17.9k | Misc |
-| 8 | [mcp-use/mcp-use](./aiml/mcp-use-mcp-use.md) | ⭐ 9.8k | AI/ML |
-| 9 | [openvinotoolkit/openvino](./aiml/openvinotoolkit-openvino.md) | ⭐ 10.1k | AI/ML |
-| 10 | [vuetifyjs/vuetify](./frontend/vuetifyjs-vuetify.md) | ⭐ 41k | Frontend |
+| 6 | [recharts/recharts](./crypto/recharts-recharts.md) | ⭐ 27k | Crypto |
+| 7 | [huggingface/pytorch-image-models](./aiml/huggingface-pytorch-image-models.md) | ⭐ 36.7k | AI/ML |
+| 8 | [bytecodealliance/wasmtime](./misc/bytecodealliance-wasmtime.md) | ⭐ 17.9k | Misc |
+| 9 | [mcp-use/mcp-use](./aiml/mcp-use-mcp-use.md) | ⭐ 9.8k | AI/ML |
+| 10 | [openvinotoolkit/openvino](./aiml/openvinotoolkit-openvino.md) | ⭐ 10.1k | AI/ML |
 
 ## 🚀 How it works
 

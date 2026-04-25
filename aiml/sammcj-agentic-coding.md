@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Agentic Coding is an open-source project that provides a comprehensive collection of coding rules, templates, and best practices designed to facilitate more effective and efficient artificial intelligence (AI) and machine learning (ML) development. This project aims to streamline the coding process by offering standardized guidelines and pre-built templates for various AI/ML applications. By leveraging Agentic Coding, developers can improve the reliability, maintainability, and scalability of their AI/ML projects.
+Here's a brief summary for the open-source project:
+
+Agentic Coding is an open-source repository that provides a collection of rules, templates, and best practices for applying agentic coding principles in software development. This project aims to facilitate the integration of human-like behavior and autonomy in coding, enabling developers to create more efficient and adaptive software systems. By leveraging AI/ML principles, Agentic Coding offers a set of tools and guidelines for developers to craft more intelligent and responsive code.
 
 ---
 

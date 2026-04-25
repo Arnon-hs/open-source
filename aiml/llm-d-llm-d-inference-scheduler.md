@@ -25,9 +25,9 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the project:
 
-The llm-d/llm-d-inference-scheduler is an open-source inference scheduler designed for the llm-d project, a cutting-edge AI/ML platform. This scheduler enables efficient management of inference workloads, optimizing resource utilization and performance. By automating inference scheduling, developers can streamline their workflows and improve the overall efficiency of their AI applications.
+The llm-d/llm-d-inference-scheduler is an open-source project that provides an inference scheduler for llm-d, a cutting-edge AI/ML service. This scheduler aims to optimize the performance and efficiency of llm-d by automating the management of inference tasks, allowing for better resource allocation and reduced latency. By leveraging this scheduler, developers and organizations can improve the scalability and reliability of their AI/ML applications.
 
 ---
 

@@ -25,7 +25,7 @@ Design
 
 ## 📝 Summary
 
-Siyuan-note/bazaar is an open-source community marketplace that provides a platform for users to discover, share, and collaborate on various creative projects and designs. This project aims to foster a sense of community and facilitate the exchange of ideas, resources, and expertise among users. By leveraging the power of collaborative design, Siyuan-note/bazaar seeks to democratize access to creative tools and opportunities.
+The siyuan-note/bazaar project is an open-source initiative focused on creating a community-driven marketplace, known as SiYuan. This platform is designed to facilitate collaboration and sharing among its users, enabling them to exchange ideas, resources, and knowledge in a decentralized manner. The project aims to promote innovation and collective growth within the SiYuan community through this online marketplace.
 
 ---
 

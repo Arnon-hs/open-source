@@ -25,9 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the yumenaka/comigo project:
+Here's a brief summary of the open-source project "comigo":
 
-Comigo is an open-source, cross-platform comic and manga reader that can be used on Linux, Windows, and MacOS. This simple and intuitive reader allows users to enjoy their favorite comics with ease, regardless of their operating system. Comigo is a user-friendly alternative for comic enthusiasts seeking a seamless reading experience across multiple platforms.
+Comigo is a cross-platform comic and manga reader available for Linux, Windows, and macOS. This open-source application provides an intuitive and user-friendly experience for reading comics and manga across multiple operating systems. With its simple design, comigo aims to make reading comics and manga easier than ever.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · Product
 
 ## 📝 Summary
 
-This open-source project, Work_Review, automates daily activity tracking by recording app usage, web browsing history, and time spent on each application. The tool provides a comprehensive overview of daily productivity, helping users identify areas for improvement and optimize their workflow. By leveraging this data, users can refine their work habits and increase efficiency.
+Here's a brief summary of the project:
+
+This project, Work_Review, is an open-source tool that helps users automatically track their daily activities, including the applications used and time spent on each, as well as the web pages visited. By providing a record of daily productivity, Work_Review aims to help users gain insights into their work habits and optimize their workflow. The project leverages AI/ML capabilities to offer a seamless and user-friendly experience.
 
 ---
 

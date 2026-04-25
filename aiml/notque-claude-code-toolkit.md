@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The notque/claude-code-toolkit is an open-source AI Agent System that utilizes machine learning capabilities to generate code. It is particularly known for creating the /do router, a notable feature that streamlines coding processes. This project is categorized under AI/ML, emphasizing its innovative integration of artificial intelligence and machine learning technologies.
+The notque/claude-code-toolkit is an open-source AI Agent System that features a powerful /do router, enabling users to create bespoke workflows and automate various tasks. This project combines artificial intelligence and machine learning capabilities to streamline development processes and enhance productivity. By utilizing the toolkit, developers can create customized solutions tailored to their specific needs and goals.
 
 ---
 

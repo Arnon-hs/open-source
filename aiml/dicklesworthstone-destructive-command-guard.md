@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Destructive Command Guard (dcg) is an open-source project designed to prevent malicious agents from executing hazardous git and shell commands. This tool acts as a safeguard, blocking potentially destructive operations and thereby protecting critical systems from unauthorized access. By implementing the dcg, developers can enhance the security of their infrastructure and prevent unintended damage.
+The Destructive Command Guard (dcg) is an open-source project that provides a safety layer to prevent malicious or destructive commands from being executed by agents in Git and shell environments. This tool acts as a protective barrier to block potentially hazardous operations, safeguarding the integrity of projects and systems. By utilizing dcg, developers and administrators can mitigate the risk of unintentional or intentional damage caused by errant commands.
 
 ---
 

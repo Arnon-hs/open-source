@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the project:
 
-This open-source project, "awesome-skills-cn", is a comprehensive collection of over 7000 skills in Chinese, integrating popular projects such as Claude skills, awesome-openclaw-skills, and ui-ux-pro-max-skill. It offers a one-stop learning platform for AI/ML and frontend enthusiasts, covering a wide range of topics. The project is a valuable resource for individuals looking to expand their skill set in these areas.
+Awesome Skills CN is an open-source project that provides a comprehensive collection of over 7,000 skills in Chinese, including popular frameworks and libraries such as Claude, awesome-openclaw-skills, and ui-ux-pro-max-skill. This project aggregates knowledge from multiple sources, making it a valuable resource for AI/ML and frontend development. With its extensive library and user-friendly format, Awesome Skills CN is an excellent starting point for learners and professionals alike.
 
 ---
 

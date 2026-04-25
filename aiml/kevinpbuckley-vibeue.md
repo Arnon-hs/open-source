@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the VibeUE project:
+Here's a brief summary of the VibeUE project:
 
-VibeUE is an open-source tool designed to facilitate coding in Unreal Engine, a popular game engine, by providing a more intuitive and streamlined experience. This project utilizes AI and ML capabilities to enhance the coding process, making it more efficient and user-friendly. By leveraging VibeUE, developers can focus on creativity and project development without the burden of complex coding tasks.
+VibeUE is an open-source tool designed for Unreal Engine developers, providing a coding assistance framework that utilizes AI and machine learning capabilities to enhance the coding experience. This tool aims to automate and simplify various coding tasks, reducing development time and increasing productivity. By leveraging AI and machine learning, VibeUE can help developers stay focused on creative aspects of game development.
 
 ---
 

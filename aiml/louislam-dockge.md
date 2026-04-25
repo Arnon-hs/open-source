@@ -25,9 +25,9 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the 'dockge' project:
+Here's a brief summary of the open-source project "louislam/dockge":
 
-dockge is an open-source, self-hosted Docker compose manager that simplifies the process of managing complex YAML stacks. This tool offers a user-friendly and reactive interface for developers to effectively manage their Docker environments. By utilizing dockge, users can streamline their Docker workflows and boost productivity with ease.
+Dockge is an open-source, self-hosted Docker compose.yaml manager that simplifies the process of managing complex Docker stacks. With its reactive and easy-to-use interface, Dockge streamlines DevOps and infrastructure management, making it ideal for AI/ML and frontend projects. This tool enables developers to efficiently deploy, monitor, and maintain their Docker applications with minimal effort.
 
 ---
 

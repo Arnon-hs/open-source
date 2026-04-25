@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "fajarhide/omni":
+Here's a brief summary for the open-source project 'fajarhide/omni':
 
-Omnium is an open-source smart context filter that optimizes AI model responses by removing noise and reducing token usage by up to 90%. This tool improves the efficiency and effectiveness of AI/ML models, making them more accurate and reliable. By streamlining AI responses, Omnium can help developers accelerate model development and deployment.
+Omnify, an open-source smart context filter, optimizes AI/ML responses by removing noise and reducing token usage, resulting in improved accuracy and up to 90% fewer tokens. This innovative tool helps streamline AI interactions while enhancing overall performance. By leveraging advanced filtering capabilities, Omni enables more efficient and effective AI engagements.
 
 ---
 

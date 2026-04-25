@@ -25,7 +25,7 @@ Orchestration · DevOps/Infra
 
 ## 📝 Summary
 
-Clusternet is an open-source project that aims to simplify the management of Kubernetes clusters across various environments, including public, private, and edge clusters. This project, currently part of the Cloud Native Computing Foundation (CNCF) Sandbox, enables users to manage their clusters in a seamless and intuitive manner. By providing a unified interface, Clusternet streamlines the process of creating, scaling, and monitoring Kubernetes clusters.
+Clusternet is an open-source project that enables users to manage their Kubernetes clusters across various environments, including public, private, and edge clusters, with ease. This project aims to simplify the orchestration and management of clusters, allowing for a more streamlined experience. By leveraging Clusternet, users can effectively visit, discover, and manage their clusters as if they were browsing the internet.
 
 ---
 

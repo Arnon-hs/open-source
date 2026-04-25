@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Nextcloud/desktop is an open-source, desktop sync client designed for seamless integration with Nextcloud, a popular cloud storage and collaboration platform. This client allows users to sync files, access and edit documents, and stay organized with their cloud data on their desktop. By using nextcloud/desktop, users can enjoy a secure and private cloud experience.
+Nextcloud Desktop is an open-source project that allows users to sync their files, contacts, and other data between their local devices and Nextcloud servers. This desktop client provides a seamless and secure way to access and manage Nextcloud data on Windows, macOS, and Linux platforms. It offers a user-friendly interface for syncing files, folders, and calendar events.
 
 ---
 

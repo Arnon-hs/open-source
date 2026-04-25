@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project in English:
+Here's a brief summary for the Snailclimb/interview-guide project:
 
-This open-source project, Snailclimb/interview-guide, is a full-stack application that leverages Spring Boot, Java, and AI technologies to provide intelligent resume analysis, AI-powered mock interviews, and knowledge graph search functionality. Built with a low barrier to entry, it's an ideal learning project for developers looking to explore AI/ML, frontend development, and DevTools. The project is well-suited for resume-building and career development purposes.
+The Snailclimb/interview-guide project is an open-source platform that utilizes a robust stack of technologies, including Spring Boot, Java 21, Spring AI, and PostgreSQL, to provide intelligent resume analysis, AI-powered mock interviews, and knowledge base search capabilities. This project serves as an excellent learning resource, offering a low barrier to entry for developers interested in AI, ML, and frontend development. It's an ideal starting point for building a personal project or a resume-based application.
 
 ---
 

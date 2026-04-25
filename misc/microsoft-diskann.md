@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The DiskANN project is an open-source initiative by Microsoft that offers a graph-structured index for efficient approximate nearest neighbor (ANN) search. This scalable and fast solution enables filtering and provides fresh results, making it suitable for various applications requiring high-performance similarity search. By leveraging graph-structured indices, DiskANN facilitates faster and more accurate nearest neighbor searches.
+DiskANN is an open-source project that provides graph-structured indices for efficient approximate nearest neighbor search. It enables fast, filtered, and fresh searches on large-scale datasets, making it suitable for applications requiring scalability and high-performance. By leveraging graph-structured indices, DiskANN facilitates rapid querying and reduces computational overhead.
 
 ---
 

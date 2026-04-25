@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The omarluq/cc-relay open-source project is a high-performance API gateway for Large Language Models (LLMs) built with Go. It enables fast and efficient access to LLMs, making it an ideal solution for applications requiring seamless integration with AI and machine learning capabilities. With its blazing speed and scalability, cc-relay streamlines the development of LLM-powered projects.
+The omarluq/cc-relay project is an open-source, high-performance API gateway designed for Large Language Models (LLMs) written in Go. This blazing fast gateway enables efficient and secure connections to LLMs, making it ideal for AI/ML applications. By utilizing Go, it leverages the language's strengths in concurrency and performance to deliver a robust and scalable solution.
 
 ---
 

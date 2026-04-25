@@ -25,7 +25,7 @@ Payments
 
 ## 📝 Summary
 
-LedgerSMB is an open-source, web-based double-entry accounting and enterprise resource planning (ERP) system. It provides a comprehensive solution for managing financial transactions, inventory, and other business operations in a secure and scalable environment. With its user-friendly interface and robust feature set, LedgerSMB is an ideal choice for small to medium-sized businesses and organizations seeking a free and customizable accounting solution.
+LedgerSMB is an open-source, web-based double-entry accounting and ERP solution designed to manage financial transactions and business operations efficiently. This comprehensive platform offers a wide range of features, making it suitable for small to medium-sized businesses. It provides a robust and customizable framework for managing payments, invoicing, and financial reporting.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**60 projects** in this category.
+**61 projects** in this category.
 
 ## Projects
 
@@ -21,21 +21,21 @@
 | 11 | [Predidit/Kazumi](./predidit-kazumi.md) | ⭐ 24.3k | Dart | 95/100 |
 | 12 | [firebase/flutterfire](./firebase-flutterfire.md) | ⭐ 9.2k | Dart | 95/100 |
 | 13 | [duckduckgo/Android](./duckduckgo-android.md) | ⭐ 4.6k | Kotlin | 94/100 |
-| 14 | [androidx/androidx](./androidx-androidx.md) | ⭐ 6k | Kotlin | 94/100 |
-| 15 | [Ranchero-Software/NetNewsWire](./ranchero-software-netnewswire.md) | ⭐ 10k | Swift | 94/100 |
+| 14 | [Ranchero-Software/NetNewsWire](./ranchero-software-netnewswire.md) | ⭐ 10k | Swift | 94/100 |
+| 15 | [androidx/androidx](./androidx-androidx.md) | ⭐ 6k | Kotlin | 94/100 |
 | 16 | [offa/android-foss](./offa-android-foss.md) | ⭐ 9.9k | Python | 92/100 |
-| 17 | [facebook/facebook-ios-sdk](./facebook-facebook-ios-sdk.md) | ⭐ 8k | Swift | 90/100 |
-| 18 | [facebook/fresco](./facebook-fresco.md) | ⭐ 17.1k | Java | 90/100 |
-| 19 | [bluesky-social/social-app](./bluesky-social-social-app.md) | ⭐ 17.9k | TypeScript | 90/100 |
-| 20 | [PixarAnimationStudios/OpenUSD](./pixaranimationstudios-openusd.md) | ⭐ 7.2k | C++ | 90/100 |
+| 17 | [PixarAnimationStudios/OpenUSD](./pixaranimationstudios-openusd.md) | ⭐ 7.2k | C++ | 90/100 |
+| 18 | [facebook/facebook-ios-sdk](./facebook-facebook-ios-sdk.md) | ⭐ 8k | Swift | 90/100 |
+| 19 | [facebook/fresco](./facebook-fresco.md) | ⭐ 17.1k | Java | 90/100 |
+| 20 | [bluesky-social/social-app](./bluesky-social-social-app.md) | ⭐ 17.9k | TypeScript | 90/100 |
 | 21 | [muzei/muzei](./muzei-muzei.md) | ⭐ 4.9k | Kotlin | 89/100 |
 | 22 | [home-assistant/android](./home-assistant-android.md) | ⭐ 3.5k | Kotlin | 89/100 |
 | 23 | [wordpress-mobile/WordPress-Android](./wordpress-mobile-wordpress-android.md) | ⭐ 3.1k | Kotlin | 84/100 |
 | 24 | [ARM-software/ComputeLibrary](./arm-software-computelibrary.md) | ⭐ 3.1k | C++ | 84/100 |
 | 25 | [google/angle](./google-angle.md) | ⭐ 4k | C++ | 79/100 |
 | 26 | [blacktop/ipsw](./blacktop-ipsw.md) | ⭐ 3.4k | Go | 78/100 |
-| 27 | [PaulWoitaschek/Voice](./paulwoitaschek-voice.md) | ⭐ 2.9k | Kotlin | 77/100 |
-| 28 | [dotnet/macios](./dotnet-macios.md) | ⭐ 2.9k | C# | 77/100 |
+| 27 | [dotnet/macios](./dotnet-macios.md) | ⭐ 2.9k | C# | 77/100 |
+| 28 | [PaulWoitaschek/Voice](./paulwoitaschek-voice.md) | ⭐ 2.9k | Kotlin | 77/100 |
 | 29 | [HabitRPG/habitica-android](./habitrpg-habitica-android.md) | ⭐ 1.8k | Kotlin | 71/100 |
 | 30 | [nekomangaorg/Neko](./nekomangaorg-neko.md) | ⭐ 2.7k | Kotlin | 71/100 |
 | 31 | [nightscout/AndroidAPS](./nightscout-androidaps.md) | ⭐ 1.1k | Kotlin | 67/100 |
@@ -61,13 +61,14 @@
 | 51 | [NativeScript/android](./nativescript-android.md) | ⭐ 559 | C++ | 54/100 |
 | 52 | [moneymanagerex/android-money-manager-ex](./moneymanagerex-android-money-manager-ex.md) | ⭐ 685 | Java | 54/100 |
 | 53 | [Rezivure/Grid-Mobile](./rezivure-grid-mobile.md) | ⭐ 466 | Dart | 54/100 |
-| 54 | [ReSukiSU/ReSukiSU](./resukisu-resukisu.md) | ⭐ 595 | Kotlin | 53/100 |
+| 54 | [timer-machine/timer-machine-android](./timer-machine-timer-machine-android.md) | ⭐ 327 | Kotlin | 53/100 |
 | 55 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 337 | Python | 53/100 |
-| 56 | [leon-cleaning-services/leon](./leon-cleaning-services-leon.md) | ⭐ 353 | Kotlin | 52/100 |
+| 56 | [ReSukiSU/ReSukiSU](./resukisu-resukisu.md) | ⭐ 595 | Kotlin | 53/100 |
 | 57 | [ColdWindScholar/MIO-KITCHEN-SOURCE](./coldwindscholar-mio-kitchen-source.md) | ⭐ 417 | Python | 52/100 |
-| 58 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 51/100 |
-| 59 | [TacticSpaceTech/TacticRemote](./tacticspacetech-tacticremote.md) | ⭐ 11 | — | 50/100 |
-| 60 | [MicroPythonOS/MicroPythonOS](./micropythonos-micropythonos.md) | ⭐ 696 | Python | 50/100 |
+| 58 | [leon-cleaning-services/leon](./leon-cleaning-services-leon.md) | ⭐ 353 | Kotlin | 52/100 |
+| 59 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 51/100 |
+| 60 | [TacticSpaceTech/TacticRemote](./tacticspacetech-tacticremote.md) | ⭐ 11 | — | 50/100 |
+| 61 | [MicroPythonOS/MicroPythonOS](./micropythonos-micropythonos.md) | ⭐ 696 | Python | 50/100 |
 
 ---
 

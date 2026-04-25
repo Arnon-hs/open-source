@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The nxv project, short for Nix Version Index, is an open-source, blazingly fast CLI tool that enables users to find any version of any Nix package. With nxv, developers can easily discover and manage different versions of packages, streamlining their workflow and improving efficiency. This tool is particularly useful for Nix users and developers looking to optimize their package management experience.
+The nxv project, also known as Nix Version Index, is an open-source, blazingly fast command-line interface that enables users to easily find any version of a Nix package. This tool simplifies the process of tracking and accessing various package versions, making it a valuable asset for Nix developers and users. With nxv, users can efficiently navigate the vast Nix package ecosystem.
 
 ---
 

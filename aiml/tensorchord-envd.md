@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-TensorChord/envd is an open-source project that provides a reproducible development environment for both humans and AI/ML agents. This environment enables seamless collaboration and reduces the complexity of setup and maintenance, allowing developers to focus on their tasks. By utilizing envd, users can achieve consistency and reliability in their development workflows.
+TensorChord/envd is an open-source project that provides a reproducible development environment for both humans and AI/ML agents. This environment is designed to ensure consistency and reliability across various development stages, facilitating collaboration and experimentation in AI and software development. By offering a standardized setup, envd simplifies the process of setting up and testing projects.
 
 ---
 

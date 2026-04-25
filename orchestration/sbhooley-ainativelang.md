@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-AINL (AINativelang) is an open-source, AI-native programming system designed to transform AI from a conversational interface into a structured worker. It enables teams to build complex AI workflows with multiple steps, state management, and tool integration, reducing dependence on long prompt loops. With its compact, graph-canonical architecture, AINL facilitates repeatable execution, validation, and control over AI workflows.
+AINL (Artificial Intelligence Native Language) is an open-source project that enables teams to create structured AI workflows by providing a compact, graph-canonical programming system. Designed for building complex AI applications, AINL allows for multiple steps, state management, tool integration, repeatable execution, validation, and control, reducing reliance on lengthy prompt loops. This AI-native programming system streamlines AI workflow development and orchestration.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the pyrate-llama/hermes-ui project:
+Here's a brief summary of the pyrate-llama/hermes-ui project:
 
-Hermes UI is an open-source, glassmorphic web interface for the Hermes Agent, a self-hosted AI assistant. This project provides a visually appealing and user-friendly frontend for users to interact with their Hermes Agent, enhancing their AI-powered experience. By leveraging Hermes UI, users can customize and personalize their AI assistant to suit their needs.
+Hermes UI is an open-source, glassmorphic web interface for the Hermes Agent, a self-hosted AI assistant. This user-friendly interface enables users to interact with their AI assistant and access its various features from a web-based platform. By utilizing Hermes UI, users can enjoy a seamless and intuitive experience with their AI-powered assistant.
 
 ---
 

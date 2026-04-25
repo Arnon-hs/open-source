@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Koito is a user-friendly, customizable scrobbler designed to work with any application that can send scrobbles to a custom ListenBrainz URL. This open-source project allows users to easily integrate scrobbling functionality with their preferred music applications, offering flexibility and convenience. By utilizing Koito, users can track their music listening habits in a centralized platform.
+Koito is an open-source, customizable scrobbler that integrates with various programs to track listening history to a custom ListenBrainz URL. This modern scrobbler allows users to personalize their experience with a themeable interface. With its flexible design, Koito is suitable for use with a wide range of applications.
 
 ---
 

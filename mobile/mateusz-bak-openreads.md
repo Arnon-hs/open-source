@@ -25,9 +25,7 @@ Mobile · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Openreads is a secure mobile books tracker built with Flutter, prioritizing users' privacy. This open-source application allows users to easily track their books, making it a great option for book lovers who value data protection. By using Openreads, users can keep track of their reading history while maintaining control over their personal data.
+The openreads project is a mobile books tracker developed using Flutter, prioritizing user privacy. This application allows users to easily track their reading progress and manage their library, all while maintaining the security and confidentiality of their data. By putting user privacy at its core, openreads provides a unique reading experience for those seeking a private and secure mobile solution.
 
 ---
 

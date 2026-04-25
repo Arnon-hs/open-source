@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The embabel-agent is an open-source, agent framework designed for the Java Virtual Machine (JVM), enabling orchestration and AI/ML integration. This framework provides a scalable and extensible platform for building and managing intelligent agents, allowing developers to leverage the power of the JVM for complex automation and decision-making tasks. By utilizing embabel-agent, users can create sophisticated agent-based systems with ease, streamlining the process of integrating AI/ML capabilities into their applications.
+Embabel-agent is an open-source, agent framework designed for the Java Virtual Machine (JVM), allowing for the orchestration and automation of tasks. This framework focuses on providing a scalable and flexible platform for integrating artificial intelligence (AI) and machine learning (ML) capabilities within JVM-based applications. By utilizing embabel-agent, developers can streamline their workflows and improve overall system efficiency.
 
 ---
 

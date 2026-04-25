@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The Cloudef/zig2nix project is an open-source flake designed to streamline the packaging, building, and running of Zig projects. It provides a convenient and standardized way to manage Zig projects using the Nix package manager, making it easier to set up and deploy applications written in this versatile language. This project is ideal for developers who want to leverage the power of Nix with their Zig projects.
+Cloudef/zig2nix is an open-source project that provides a Flake for packaging, building, and running Zig projects. This tool streamlines the development process by offering a convenient way to manage and execute Zig projects within a Nix environment. With zig2nix, developers can efficiently package and deploy their Zig applications.
 
 ---
 

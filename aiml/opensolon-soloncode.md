@@ -1,6 +1,6 @@
 # opensolon/soloncode
 
-[![Stars](https://img.shields.io/github/stars/opensolon/soloncode?style=flat-square&color=yellow)](https://github.com/opensolon/soloncode/stargazers) [![Forks](https://img.shields.io/github/forks/opensolon/soloncode?style=flat-square&color=blue)](https://github.com/opensolon/soloncode/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensolon/soloncode?style=flat-square&color=yellow)](https://github.com/opensolon/soloncode/stargazers) [![Forks](https://img.shields.io/github/forks/opensolon/soloncode?style=flat-square&color=blue)](https://github.com/opensolon/soloncode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The open source coding agent.
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 84 |
+| ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 17 |
-| 💻 **Language** | Java |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

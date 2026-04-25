@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Platformatic is an open-source monorepo for building scalable and flexible server-side applications. It provides a comprehensive set of tools and frameworks to help developers create robust backend systems. With Platformatic, users can easily build, deploy, and manage their applications across various platforms and environments.
+Platformatic is an open-source monorepo that serves as a comprehensive backend framework. It provides a flexible and modular structure for building scalable and maintainable applications, empowering developers to create robust and efficient backends. With its open-source nature, the platform invites contributions and community engagement to continuously improve and expand its capabilities.
 
 ---
 

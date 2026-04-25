@@ -25,7 +25,7 @@ Trading · AI/ML · Frontend
 
 ## 📝 Summary
 
-The tensorcircuit-ng project is an open-source, next-generation framework for quantum software that utilizes tensor networks to drive AI-native capabilities. This innovative platform aims to leverage the power of quantum computing to enhance AI and machine learning models, facilitating breakthroughs in complex fields such as trading and financial analysis. By providing a robust, AI-native tensor-network-based framework, tensorcircuit-ng seeks to empower developers and researchers to create more efficient and accurate quantum computing applications.
+Tensorcircuit-ng is an open-source, next-generation AI-native tensor-network-based quantum software framework. It is designed to tackle complex computational tasks in AI and machine learning, leveraging the power of tensor networks to achieve high-performance and scalability. This framework aims to bridge the gap between quantum computing and AI, enabling more efficient and accurate simulations in various fields, including trading and finance.
 
 ---
 

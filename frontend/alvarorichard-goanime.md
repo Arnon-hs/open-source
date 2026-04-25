@@ -25,9 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the GoAnime project:
-
-GoAnime is an open-source, text-based user interface (TUI) tool that enables users to browse, stream, and download anime content in both Portuguese and English. This versatile application provides a convenient and accessible way to explore and enjoy anime from the comfort of the terminal. With its user-friendly interface, GoAnime simplifies the process of discovering and accessing a wide range of anime content.
+The GoAnime project is an open-source, text-based user interface (TUI) tool that enables users to browse, stream, and download anime content in both Portuguese and English. It provides a convenient and accessible way for anime enthusiasts to discover and access their favorite shows. With its user-friendly interface and multilingual support, GoAnime aims to simplify the anime viewing experience.
 
 ---
 
