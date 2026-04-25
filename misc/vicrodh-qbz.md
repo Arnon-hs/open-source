@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Vicrodh/qbz is an open-source, native desktop player for Linux that provides high-fidelity (hi-fi) audio playback. It offers fast and bit-perfect audio rendering, making it suitable for audiophiles and those seeking exceptional sound quality. This application is specifically designed for Qobuz users, allowing seamless access to their music libraries on Linux systems.
+The vicrodh/qbz project is an open-source, native desktop player for Linux that provides high-fidelity (hi-fi) audio playback on Qobuz, a popular music streaming service. With its focus on fast and bit-perfect audio, this player ensures an exceptional listening experience for music enthusiasts. By utilizing native Linux capabilities, it offers a seamless and efficient way to enjoy your favorite music on Qobuz.
 
 ---
 

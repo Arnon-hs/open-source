@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The open-football project is a free, open-source football simulation engine written entirely in Rust. Inspired by games like Football Manager, it offers a robust simulation experience for football enthusiasts. This project allows users to immerse themselves in a virtual football world, making it an attractive option for fans and developers alike.
+The open-football project is an open-source, free football simulation engine written in Rust, aiming to provide a comprehensive and realistic gameplay experience. Inspired by Football Manager, this engine seeks to deliver a robust and flexible platform for football enthusiasts to manage and simulate their teams, leagues, and tournaments. With its pure Rust implementation, the project promises a highly performant and maintainable solution for football simulation.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Soloncode is an open-source coding agent that utilizes AI/ML capabilities to aid developers in their work. This project aims to streamline the coding process by providing intelligent code completion, suggestions, and other productivity-enhancing features. By leveraging machine learning, soloncode seeks to revolutionize the way developers write code and improve their overall coding experience.
+Here's a 2-3 sentence summary for the open-source project:
+
+Soloncode is an open-source coding agent designed to assist developers with intelligent coding capabilities. This AI-powered tool aims to streamline the development process by providing predictive coding suggestions, automating repetitive tasks, and enhancing overall coding efficiency. By leveraging machine learning and artificial intelligence, Soloncode enables developers to write code faster and with greater accuracy.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The cloudflare/boringtun project is an open-source, userspace implementation of the WireGuard tunnel protocol, developed in Rust. This implementation provides a secure and efficient way to establish VPN connections, leveraging the performance benefits of Rust to create a fast and reliable tunneling solution. By using boringtun, users can easily set up and manage their WireGuard connections on various platforms.
+Cloudflare's boringtun is an open-source implementation of WireGuard in Rust, providing a userspace VPN solution. This project enables secure and fast networking by encapsulating IP packets in a VPN tunnel, allowing for secure communication over public networks. It is designed to be a high-performance and lightweight alternative to traditional VPN solutions.
 
 ---
 

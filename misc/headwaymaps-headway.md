@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Headway is an open-source, self-hostable maps stack that leverages the power of OpenStreetMap, enabling users to host their own mapping platform. This project provides a flexible and customizable solution for displaying maps, empowering individuals and organizations to control their geographic data and visualization. By using Headway, users can create tailored mapping experiences without relying on external services.
+Headway is an open-source, self-hostable maps stack that leverages OpenStreetMap to provide a customizable and scalable mapping solution. This project allows users to host and manage their own maps, giving them control over data and settings. By utilizing OpenStreetMap, Headway offers high-quality, community-driven mapping data.
 
 ---
 

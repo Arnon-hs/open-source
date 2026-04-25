@@ -25,9 +25,7 @@ Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the shshemi/tabiew project:
-
-Tabiew is an open-source, lightweight text-based application for viewing and querying tabular data files, supporting formats like CSV, TSV, and Parquet. This Terminal User Interface (TUI) application provides an intuitive way to explore and analyze structured data, making it an ideal choice for data enthusiasts and professionals alike. With tabiew, users can easily navigate, filter, and sort large datasets in a comfortable and efficient manner.
+Tabiew is a lightweight, text-based user interface (TUI) application that allows users to view and query tabular data files such as CSV, TSV, and Parquet. This open-source tool provides an efficient and straightforward way to interact with tabular data, making it ideal for data analysis and exploration tasks. With Tabiew, users can easily filter, sort, and search data in a compact and user-friendly interface.
 
 ---
 

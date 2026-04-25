@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The joshuar/go-hass-agent project is an open-source initiative to develop a native Home Assistant application for desktop and laptop devices. This application aims to provide users with a seamless and intuitive interface to control and monitor their smart home systems. By leveraging AI/ML technologies, the project seeks to enhance the user experience and provide a more efficient way to interact with their Home Assistant setup.
+The joshuar/go-hass-agent is an open-source, native Home Assistant application for desktop and laptop devices. This project provides a convenient and user-friendly interface for managing and controlling smart home devices directly from your computer. By leveraging AI/ML capabilities, it offers a seamless and intuitive experience for homeowners to monitor and interact with their smart home systems.
 
 ---
 

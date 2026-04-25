@@ -1,6 +1,6 @@
 # lukeswitz/AntiHunter
 
-[![Stars](https://img.shields.io/github/stars/lukeswitz/AntiHunter?style=flat-square&color=yellow)](https://github.com/lukeswitz/AntiHunter/stargazers) [![Forks](https://img.shields.io/github/forks/lukeswitz/AntiHunter?style=flat-square&color=blue)](https://github.com/lukeswitz/AntiHunter/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lukeswitz/AntiHunter?style=flat-square&color=yellow)](https://github.com/lukeswitz/AntiHunter/stargazers) [![Forks](https://img.shields.io/github/forks/lukeswitz/AntiHunter?style=flat-square&color=blue)](https://github.com/lukeswitz/AntiHunter/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AntiHunter Perimeter Defense Systems - DIGI Node Firmware
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 373 |
+| ⭐ **Stars** | 374 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

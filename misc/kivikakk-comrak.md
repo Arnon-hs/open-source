@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The kivikakk/comrak project is an open-source library that provides a robust and standards-compliant Markdown parser and renderer. It supports both CommonMark and GFM (GitHub Flavored Markdown) formats, allowing for seamless conversion between Markdown text and HTML output. This project is ideal for developers seeking a reliable solution for parsing and rendering Markdown content in their applications.
+Here is a brief summary for the kivikakk/comrak project:
+
+Comrak is an open-source Markdown parser and renderer that is compatible with both CommonMark and GitHub Flavored Markdown (GFM). This project provides a flexible and reliable solution for converting Markdown text to HTML and vice versa. It is designed to handle a wide range of Markdown syntax and features.
 
 ---
 

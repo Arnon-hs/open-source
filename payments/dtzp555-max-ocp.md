@@ -25,9 +25,7 @@ Payments · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the dtzp555-max/ocp project:
-
-Transform your Claude Pro/Max subscription into a powerful OpenAI-compatible API with dtzp555-max/ocp. This open-source project allows you to share access across multiple IDEs and devices on your local network, making it ideal for families or teams. With dtzp555-max/ocp, you can unlock the full potential of OpenAI technology at no additional cost.
+The dtzp555-max/ocp project is an open-source solution that enables users to convert their Claude Pro/Max subscription into a fully compatible OpenAI API, eliminating additional costs. This project provides a single proxy that can be used across various Integrated Development Environments (IDEs) and allows for LAN sharing, making it an ideal solution for families to utilize their subscription simultaneously.
 
 ---
 

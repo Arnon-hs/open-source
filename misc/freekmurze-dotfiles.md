@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, freekmurze/dotfiles, is a collection of the author's personal configuration files, known as dotfiles, used to customize and streamline their operating system and applications. By sharing their customized setup, the project aims to provide a convenient starting point for users looking to personalize their own environments. The repository offers a flexible and modifiable template for individuals to adapt to their specific needs.
+This project, freekmurze/dotfiles, is an open-source collection of the contributor's personal dotfiles, providing a glimpse into their customized configuration settings for various applications and systems. The repository aims to share and showcase the contributor's setup, which can be useful for others looking to customize their own environments. It serves as a reference or a starting point for users who want to replicate a similar setup.
 
 ---
 

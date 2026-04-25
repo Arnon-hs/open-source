@@ -25,7 +25,7 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-LEANN is an open-source project that enables fast, accurate, and 100% private operation of RAG applications on personal devices, achieving 97% storage savings. This project utilizes machine learning and orchestration to optimize RAG performance, making it suitable for local use. By leveraging LEANN, users can run powerful RAG applications on their personal devices with minimal storage requirements.
+The LEANN project is an open-source initiative that leverages the RAG (Retrieval-Augmented Generation) model on personal devices, achieving a significant 97% reduction in storage requirements. This enables users to run fast, accurate, and 100% private RAG applications on their personal devices, making it a viable solution for on-device AI/ML applications. Developed for the MLsys2026 conference, LEANN prioritizes efficiency and data security.
 
 ---
 

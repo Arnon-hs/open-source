@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the delimit-mcp-server project:
+Here's a brief summary for the delimit-ai/delimit-mcp-server project:
 
-Delimit-mcp-server is an open-source project that provides comprehensive governance for AI coding across multiple platforms, including Claude Code, Codex, Cursor, and Gemini CLI. This tool enables features such as breaking-change detection, deploy gates, and multi-model consensus, helping developers manage and deploy AI models more efficiently. It comes equipped with a server, command-line interface (CLI), and GitHub Action integration.
+Delimit-mcp-server is an open-source project that provides governance and management for AI coding tools like Claude Code, Codex, Cursor, and Gemini CLI. It offers features such as breaking-change detection, deploy gates, and multi-model consensus, all accessible through a server, CLI, and GitHub Action. This project helps streamline AI development workflows and ensures consistency across various AI coding tools.
 
 ---
 

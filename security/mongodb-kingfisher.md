@@ -1,0 +1,32 @@
+# mongodb/kingfisher
+
+[![Stars](https://img.shields.io/github/stars/mongodb/kingfisher?style=flat-square&color=yellow)](https://github.com/mongodb/kingfisher/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb/kingfisher?style=flat-square&color=blue)](https://github.com/mongodb/kingfisher/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+
+> Fast and accurate OSS secret scanner with live validation and blast radius mapping. 900+ rules. Scans code, Git, CI, cloud, and SaaS.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 905 |
+| 🍴 **Forks** | 72 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Security · Product
+
+## 📝 Summary
+
+Kingfisher is an open-source secret scanner that rapidly and accurately identifies vulnerabilities in OSS dependencies. With over 900 rules, it live validates and maps blast radii to ensure the security of code, Git repositories, CI pipelines, cloud services, and SaaS providers. This powerful tool helps developers protect their applications from potential security threats.
+
+---
+
+<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/mongodb/kingfisher) · [← Back to Security](./README.md)</sub>

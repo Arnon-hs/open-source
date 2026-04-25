@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the rex-cli project:
-
-The rex-cli project is an open-source, local-first AI agent bootstrap that enables developers to work with various AI tools in a seamless and offline-capable manner. It combines Playwright Browser, MCP (Multi-Cloud Platform), and ContextDB to support popular AI applications such as Codex CLI, Claude Code, Gemini CLI, and OpenCode. This project empowers developers to leverage AI capabilities without relying on internet connectivity or cloud infrastructure.
+The rex-cli project is an open-source initiative providing a local-first AI agent bootstrap system. It integrates a variety of tools, including Playwright Browser, MCP (Model-Code-Program), and ContextDB, to support popular AI-powered developer tools such as Codex CLI, Claude Code, Gemini CLI, and OpenCode. This system enables developers to leverage AI capabilities locally, reducing reliance on cloud services and enhancing productivity.
 
 ---
 

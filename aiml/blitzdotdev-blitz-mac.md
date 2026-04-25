@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here is a brief summary for the open-source project:
+Here's a 2-3 sentence summary for the open-source project:
 
-Blitz-mac is an open-source, native macOS tool for App Store Connect, utilizing MCP (Machine Classification and Processing) and AI agents to streamline iOS app submissions to the App Store. This innovative solution automates the submission process, making it more efficient and reducing manual errors. By leveraging AI technology, developers can save time and focus on creating high-quality apps.
+Blitz Mac is an open-source, native macOS tool for App Store Connect, leveraging Machine Learning-driven (ML) agents to streamline iOS app submission. This powerful DevTool simplifies the process of uploading and managing iOS apps on the App Store, making it easier for developers to get their products live. By integrating AI-driven automation, Blitz Mac reduces manual errors and accelerates the app deployment process.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here is a 2-3 sentence summary for the open-source project:
 
-"Retest is a command-line tool that monitors file changes and automatically runs the corresponding Ruby specs, streamlining the testing process for Ruby projects. It requires no setup and is designed to be a seamless companion for developers working on Ruby projects. This tool is ideal for anyone looking to enhance their testing workflow and improve code reliability."
+This CLI tool, retest, helps developers streamline their workflow by automatically running Ruby specs in response to file changes, making it easier to monitor and test code changes. With no setup required, retest is a convenient companion for Ruby projects, enabling seamless integration of code changes and testing. Its user-friendly interface allows developers to focus on writing code, not manually running tests.
 
 ---
 

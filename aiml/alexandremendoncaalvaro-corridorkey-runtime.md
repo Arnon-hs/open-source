@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The CorridorKey-Runtime is an open-source AI keying runtime designed for native integration within DaVinci Resolve. Developed in collaboration with Corridor Digital, this project enables seamless and efficient green screen keying capabilities within the popular video editing software. By utilizing AI-driven technology, it provides a powerful tool for content creators to streamline their post-production workflows.
+The CorridorKey-Runtime project is an open-source, native AI keying runtime and OFX plugin designed for DaVinci Resolve. Developed in collaboration with Corridor Digital, this project provides a powerful tool for automating the keying process, allowing users to create high-quality green screen effects with ease. By leveraging AI technology, it streamlines the post-production workflow and enhances visual content creation.
 
 ---
 

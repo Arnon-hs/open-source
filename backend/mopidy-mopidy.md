@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Mopidy is an open-source, extensible music server that allows users to stream music to various devices from a central location. Written in Python, Mopidy provides a flexible platform for managing and playing music libraries. It supports a wide range of music formats and can be integrated with various frontends for a seamless user experience.
+Mopidy is an open-source, extensible music server written in Python that allows users to manage and stream their music libraries. It provides a flexible backend for various music applications, enabling users to access their music collections from different devices. Through its extensibility, Mopidy supports a wide range of music sources and playback services.
 
 ---
 

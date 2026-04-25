@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Kapp-controller is an open-source project that simplifies continuous delivery and package management for Kubernetes clusters. It provides a streamlined way to manage applications and infrastructure using Kubernetes, allowing for efficient deployment and management of resources. By leveraging kapp-controller, developers can automate the process of packaging, deploying, and managing applications on Kubernetes.
+Kapp-controller is an open-source project that enables continuous delivery and package management for Kubernetes environments. It simplifies the deployment, management, and scaling of applications across multiple clusters, making it easier to adopt and maintain a DevOps approach. By streamlining the package management process, kapp-controller helps reduce complexity and improve the overall efficiency of cloud-native application delivery.
 
 ---
 

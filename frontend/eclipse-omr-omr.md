@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The Eclipse OMR project is an open-source initiative that provides cross-platform components for building high-performance language runtimes. These components enable developers to create reliable and efficient runtime environments for various programming languages, facilitating the development of robust and scalable applications. By leveraging Eclipse OMR, developers can focus on building their language runtime without worrying about the underlying low-level details.
+The Eclipse OMR project is an open-source initiative that provides a set of cross-platform components for building high-performance language runtimes. These components enable developers to create reliable and efficient runtime environments for their languages, allowing for faster and more robust execution. By leveraging the Eclipse OMR, developers can focus on their language's core features rather than reinventing the wheel.
 
 ---
 

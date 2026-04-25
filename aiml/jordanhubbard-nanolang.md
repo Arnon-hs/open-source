@@ -25,7 +25,7 @@ AI/ML · Design
 
 ## 📝 Summary
 
-Nanolang is a compact, experimental language designed to be optimized for use with large language models (LLMs). This open-source project aims to create a minimalistic and efficient language that can be easily processed and analyzed by LLMs, fostering innovation in AI and ML research. By providing a tiny language framework, Nanolang facilitates the exploration of novel interactions between human language and artificial intelligence.
+Nanolang is an open-source, experimental language created to be targeted by large language models (LLMs). This tiny language is designed to test and evaluate the capabilities of LLMs, allowing developers to better understand their limitations and potential applications. By leveraging Nanolang, researchers and engineers can advance the field of AI and natural language processing.
 
 ---
 

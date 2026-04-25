@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The agent-skills project offers a comprehensive collection of over 100 specialized AI agent skills, spanning various domains such as development, security, design, and more. These skills, designed for Claude Code, Codex CLI, and Gemini CLI, provide valuable prompt engineering assets for users to improve their workflows and efficiency. With a focus on Orchestration, AI/ML, and DevTools, the project empowers developers to automate and optimize their tasks using AI-powered agents.
+The open-source project "agent-skills" by simota offers a comprehensive collection of over 100 specialized AI agent skills for various use cases, including development, security, design, FinOps, and compliance. These skills, compatible with Claude Code, Codex CLI, and Gemini CLI, provide a vast range of prompt engineering assets to enhance AI model capabilities. By utilizing this project, developers can streamline their workflows and improve their overall productivity.
 
 ---
 

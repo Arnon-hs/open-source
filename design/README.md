@@ -18,8 +18,8 @@
 | 8 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 72/100 |
 | 9 | [sipsorcery-org/sipsorcery](./sipsorcery-org-sipsorcery.md) | ⭐ 1.9k | C# | 71/100 |
 | 10 | [aws-samples/amazon-bedrock-workshop](./aws-samples-amazon-bedrock-workshop.md) | ⭐ 2.1k | Jupyter Notebook | 69/100 |
-| 11 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 59/100 |
-| 12 | [metacraft-labs/codetracer](./metacraft-labs-codetracer.md) | ⭐ 1.3k | Rust | 59/100 |
+| 11 | [metacraft-labs/codetracer](./metacraft-labs-codetracer.md) | ⭐ 1.3k | Rust | 59/100 |
+| 12 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 59/100 |
 | 13 | [lahin31/system-design-bangla](./lahin31-system-design-bangla.md) | ⭐ 1.2k | — | 56/100 |
 | 14 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 209 | PHP | 52/100 |
 | 15 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |

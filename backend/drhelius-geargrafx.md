@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Geargrafx is an open-source, multi-platform emulator for the PC Engine, TurboGrafx-16, and SuperGrafx families, as well as the PCE CD-ROM². This comprehensive emulator provides a debugger and embedded MCP server, allowing users to enhance their gaming experience on macOS, Windows, Linux, BSD, and RetroArch. Geargrafx offers a robust solution for enthusiasts and retro gaming enthusiasts to play classic titles from these iconic consoles.
+Geargrafx is a comprehensive open-source project that serves as a PC Engine / TurboGrafx-16 / SuperGrafx / PCE CD-ROM² emulator, debugger, and embedded MCP server. It supports various platforms, including macOS, Windows, Linux, BSD, and RetroArch, making it an accessible option for retro gaming enthusiasts. With its multi-faceted capabilities, Geargrafx offers a versatile solution for emulating and debugging classic console games.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a summary for the floneum project:
+Here's a brief summary for the open-source project:
 
-Floneum is an open-source project that enables instant, controllable, and local access to pre-trained AI models in Rust. This innovative project provides developers with a powerful tool for integrating AI capabilities into their applications without relying on external services. By leveraging Rust's performance and security benefits, floneum empowers users to harness the potential of AI models in a private and efficient manner.
+Floneum is an open-source Rust library that provides instant, controllable, and local access to pre-trained AI models, empowering developers to integrate AI capabilities into their applications without the need for extensive infrastructure setup. This project enables users to leverage powerful AI models within their local environments, enhancing collaboration and reducing reliance on cloud services. By utilizing Floneum, developers can seamlessly integrate AI-driven features into their projects.
 
 ---
 

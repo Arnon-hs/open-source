@@ -25,7 +25,9 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-The peg/rampart project is an open-source, comprehensive firewall designed specifically to control and audit AI agents on a machine. It serves as a policy engine that enables users to dictate what AI tools, including OpenClaw, Claude Code, Cursor, Codex, and others, can access and do on their system, ensuring a secure environment. This project falls under the categories of AI/ML, DevTools, and Security.
+Here's a 2-3 sentence summary for the peg/rampart project:
+
+peg/rampart is an open-source firewall designed to protect machines from unauthorized actions by AI agents. This policy engine audits and controls the behavior of AI tools such as OpenClaw, Claude Code, Cursor, Codex, and others, ensuring their activities comply with predetermined security standards. By providing transparent control over AI interactions, peg/rampart enhances machine security and mitigates potential risks associated with AI usage.
 
 ---
 

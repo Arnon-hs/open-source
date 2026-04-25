@@ -25,7 +25,9 @@ DevOps/Infra · Security
 
 ## 📝 Summary
 
-The int128/kubelogin project is an open-source, Kubernetes plugin that simplifies OpenID Connect authentication for Kubernetes clusters using kubectl. This plugin enables seamless OIDC login for Kubernetes administrators, allowing them to easily authenticate and authorize cluster access. By streamlining OIDC integration, kubelogin enhances security and convenience for Kubernetes cluster management.
+Here's a 2-3 sentence summary for the int128/kubelogin project:
+
+kubelogin is an open-source kubectl plugin that enables seamless Kubernetes OpenID Connect authentication, streamlining the login process for cluster administrators and developers. This plugin integrates with Kubernetes clusters that support OpenID Connect, eliminating the need for manual login credentials. With kubelogin, users can enjoy secure and efficient access to their Kubernetes clusters.
 
 ---
 

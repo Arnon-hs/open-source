@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the Dicklesworthstone/ntm project:
-
-Tmux Manager (ntm) is an open-source project that enables the management of multiple AI coding agents, including Claude, Codex, and Gemini, within a TUI (Text-based User Interface) environment. It allows users to spawn, tile, and coordinate these agents across multiple tmux panes using a command palette, streamlining AI-assisted coding workflows. This project is suitable for developers and researchers interested in leveraging AI tools for software development and machine learning tasks.
+The Tmux Manager (ntm) is an open-source project that enables users to efficiently manage multiple AI coding agents, such as Claude, Codex, and Gemini, across tmux panes using a TUI command palette. This tool facilitates the coordination and spawning of multiple agents, allowing users to optimize their coding workflow. By leveraging tmux and a TUI interface, ntm streamlines the process of working with multiple AI agents in a single session.
 
 ---
 

@@ -25,9 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the sparklost/endcord project:
+Here's a brief summary for the project 'endcord':
 
-Endcord is an open-source, feature-rich Discord TUI (Text User Interface) client that enables users to interact with Discord servers from a command-line interface. This project provides a convenient and accessible way to manage Discord servers, join channels, and engage in conversations without the need for a traditional graphical user interface. Endcord is a powerful tool for developers and users alike who want to streamline their Discord experience.
+Endcord is an open-source, feature-rich Terminal User Interface (TUI) client for Discord, providing a convenient and accessible way to interact with the platform from the command line. This project offers a robust and customizable Discord experience, ideal for users who prefer a more traditional or text-based interface. With endcord, users can manage their Discord servers and conversations from the comfort of their terminal.
 
 ---
 

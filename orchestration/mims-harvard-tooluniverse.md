@@ -25,7 +25,9 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-ToolUniverse is an open-source project aimed at democratizing AI scientists by providing a comprehensive platform for building, deploying, and managing AI applications. This Orchestration platform caters to the needs of AI/ML developers, streamlining the process of workflow management, and enabling efficient collaboration and experimentation. By leveraging ToolUniverse, AI scientists can focus on innovation, rather than infrastructure complexity.
+Here's a brief summary for the ToolUniverse project:
+
+ToolUniverse is an open-source project that aims to democratize access to AI and machine learning capabilities, empowering scientists and researchers to efficiently explore and utilize various tools in their work. By providing an orchestration platform, ToolUniverse streamlines the process of tool discovery, deployment, and management, allowing users to focus on their research without the burden of technical complexities. This project seeks to accelerate innovation in the AI and ML space by breaking down barriers to tool adoption.
 
 ---
 

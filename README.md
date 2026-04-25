@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4077** |
+| 🗂️ **Total projects** | **4168** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1564 | [Browse →](./aiml/) |
-| 📦 **Misc** | 643 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 419 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 382 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 246 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 229 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 161 | [Browse →](./crypto/) |
-| 📊 **Data** | 105 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 94 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 57 | [Browse →](./payments/) |
-| 📱 **Mobile** | 56 | [Browse →](./mobile/) |
-| 📈 **Trading** | 45 | [Browse →](./trading/) |
-| 🔐 **Security** | 43 | [Browse →](./security/) |
+| 🤖 **AI/ML** | 1600 | [Browse →](./aiml/) |
+| 📦 **Misc** | 656 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 423 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 395 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 254 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 233 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 163 | [Browse →](./crypto/) |
+| 📊 **Data** | 109 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 95 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 58 | [Browse →](./payments/) |
+| 📱 **Mobile** | 57 | [Browse →](./mobile/) |
+| 📈 **Trading** | 46 | [Browse →](./trading/) |
+| 🔐 **Security** | 45 | [Browse →](./security/) |
 | ✨ **Design** | 15 | [Browse →](./design/) |
-| 🎯 **Product** | 13 | [Browse →](./product/) |
+| 🎯 **Product** | 14 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [lutzroeder/netron](./aiml/lutzroeder-netron.md) | ⭐ 32.8k | AI/ML |
-| 2 | [XIU2/TrackersListCollection](./aiml/xiu2-trackerslistcollection.md) | ⭐ 31.1k | AI/ML |
-| 3 | [TanStack/query](./frontend/tanstack-query.md) | ⭐ 49.2k | Frontend |
-| 4 | [ansible/awx](./frontend/ansible-awx.md) | ⭐ 15.4k | Frontend |
-| 5 | [vxcontrol/pentagi](./orchestration/vxcontrol-pentagi.md) | ⭐ 15.6k | Orchestration |
-| 6 | [quic-go/quic-go](./frontend/quic-go-quic-go.md) | ⭐ 11.6k | Frontend |
-| 7 | [caddyserver/caddy](./backend/caddyserver-caddy.md) | ⭐ 71.8k | Backend |
-| 8 | [expo/expo](./frontend/expo-expo.md) | ⭐ 49k | Frontend |
-| 9 | [nestjs/nest](./frontend/nestjs-nest.md) | ⭐ 75.3k | Frontend |
-| 10 | [Aider-AI/aider](./aiml/aider-ai-aider.md) | ⭐ 43.9k | AI/ML |
+| 1 | [apache/spark](./data/apache-spark.md) | ⭐ 43.2k | Data |
+| 2 | [opf/openproject](./product/opf-openproject.md) | ⭐ 14.9k | Product |
+| 3 | [freeCodeCamp/freeCodeCamp](./frontend/freecodecamp-freecodecamp.md) | ⭐ 443.5k | Frontend |
+| 4 | [supermemoryai/supermemory](./orchestration/supermemoryai-supermemory.md) | ⭐ 22.2k | Orchestration |
+| 5 | [jenkinsci/jenkins](./backend/jenkinsci-jenkins.md) | ⭐ 25.2k | Backend |
+| 6 | [tailcallhq/forgecode](./orchestration/tailcallhq-forgecode.md) | ⭐ 6.9k | Orchestration |
+| 7 | [justcallmekoko/ESP32Marauder](./aiml/justcallmekoko-esp32marauder.md) | ⭐ 10.6k | AI/ML |
+| 8 | [mickael-kerjean/filestash](./data/mickael-kerjean-filestash.md) | ⭐ 14.1k | Data |
+| 9 | [tw93/Mole](./aiml/tw93-mole.md) | ⭐ 49.1k | AI/ML |
+| 10 | [lutzroeder/netron](./aiml/lutzroeder-netron.md) | ⭐ 32.8k | AI/ML |
 
 ## 🚀 How it works
 

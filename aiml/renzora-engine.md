@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Renzora Engine is an open-source, modular, and cross-platform game engine built with Rust and the Bevy framework. This engine provides developers with a flexible foundation for creating complex games, leveraging the power of AI and machine learning through its integration with various AI/ML tools and techniques. With Renzora Engine, developers can create engaging and immersive gaming experiences across multiple platforms.
+The Renzora Engine is an open-source, cross-platform game engine built using the Bevy framework and written in Rust. This modular engine provides a flexible foundation for developing games and interactive experiences. With its focus on AI and ML capabilities, Renzora Engine offers a unique blend of game development and artificial intelligence technologies.
 
 ---
 
