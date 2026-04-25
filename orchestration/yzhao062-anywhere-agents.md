@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The anywhere-agents project is an open-source initiative that aims to provide a unified configuration system for AI agents, enabling seamless portability and effectiveness across various projects and sessions. This system comes equipped with features such as curated writing, routing, and skills, as well as a protective mechanism against destructive commands. By utilizing anywhere-agents, developers can streamline their AI agent management and ensure a safer, more efficient workflow.
+Anywhere-Agents is an open-source project that aims to provide a unified configuration system for AI agents, making them highly portable across various projects and sessions. This platform offers a set of curated writing, routing, and skill management capabilities, along with a safety feature that prevents destructive commands from being executed. By leveraging Anywhere-Agents, developers can streamline their AI agent management and ensure a more controlled and effective experience.
 
 ---
 

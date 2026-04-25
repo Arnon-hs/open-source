@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Godot Engine official documentation is a comprehensive resource for users of the popular open-source game engine. This open-source project provides detailed guides, tutorials, and API references for developers to learn and utilize Godot's various features, ensuring a smooth development experience. With the documentation constantly updated and maintained, users can stay up-to-date with the latest Godot features and best practices.
+The Godot Engine official documentation project, hosted on GitHub under the repository 'godotengine/godot-docs', provides comprehensive and open-source documentation for the Godot Engine game development platform. This project enables users to access and contribute to the extensive guides, tutorials, and reference materials for creating 2D and 3D games, editor plugins, and other projects with Godot. The documentation is a valuable resource for both beginners and experienced developers looking to harness the full potential of the Godot Engine.
 
 ---
 

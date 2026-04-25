@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here is a brief summary of the voidcraft-dev/memory-forge-rs project:
+Here's a brief summary for the voidcraft-dev/memory-forge-rs project:
 
-Memory Forge is an open-source, local session manager for various AI chat platforms, including Claude Code, Codex, and Gemini CLI. This offline tool, built with Tauri and Rust, allows users to edit and visualize AI memories, effectively preventing the need for repetitive resets. It empowers users to control and modify AI chat experiences in a flexible and intuitive manner.
+Memory Forge is an open-source, local session manager for various AI models, including Claude Code, Codex, OpenCode, Gemini CLI, and Kiro CLI. It uses Tauri and Rust to create a 100% offline application, allowing users to visualize and edit AI memory in a controlled environment. This tool empowers users to manipulate AI memories, preventing them from being reset and providing a more customizable experience.
 
 ---
 

@@ -1,6 +1,6 @@
 # MemTensor/MemOS
 
-[![Stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square&color=yellow)](https://github.com/MemTensor/MemOS/stargazers) [![Forks](https://img.shields.io/github/forks/MemTensor/MemOS?style=flat-square&color=blue)](https://github.com/MemTensor/MemOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square&color=yellow)](https://github.com/MemTensor/MemOS/stargazers) [![Forks](https://img.shields.io/github/forks/MemTensor/MemOS?style=flat-square&color=blue)](https://github.com/MemTensor/MemOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
 
 > AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.7k |
-| 🍴 **Forks** | 766 |
+| 🍴 **Forks** | 767 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 96/100 |
+| 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

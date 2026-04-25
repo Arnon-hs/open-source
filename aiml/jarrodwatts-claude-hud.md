@@ -1,6 +1,6 @@
 # jarrodwatts/claude-hud
 
-[![Stars](https://img.shields.io/github/stars/jarrodwatts/claude-hud?style=flat-square&color=yellow)](https://github.com/jarrodwatts/claude-hud/stargazers) [![Forks](https://img.shields.io/github/forks/jarrodwatts/claude-hud?style=flat-square&color=blue)](https://github.com/jarrodwatts/claude-hud/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jarrodwatts/claude-hud?style=flat-square&color=yellow)](https://github.com/jarrodwatts/claude-hud/stargazers) [![Forks](https://img.shields.io/github/forks/jarrodwatts/claude-hud?style=flat-square&color=blue)](https://github.com/jarrodwatts/claude-hud/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
 
 > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 20.6k |
-| 🍴 **Forks** | 916 |
+| 🍴 **Forks** | 917 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 97/100 |
+| 📈 **Score** | 98/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

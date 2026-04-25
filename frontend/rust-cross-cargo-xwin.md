@@ -25,9 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the rust-cross/cargo-xwin project:
+Here's a brief summary for the project:
 
-cargo-xwin is an open-source project that simplifies cross-compiling Rust projects to Windows MSVC targets. It integrates seamlessly with Cargo, the Rust package manager, to make the process of building Windows executables from Rust code on non-Windows platforms easy and efficient. With cargo-xwin, developers can focus on writing code without worrying about the complexities of cross-compilation.
+"Cargo-xwin" is an open-source tool that simplifies cross-compilation of Rust projects to Windows using the Microsoft Visual C++ (MSVC) compiler. This tool streamlines the process of building and packaging your Rust project for Windows, making it easier to deploy on the platform. By leveraging Cargo's existing features, Cargo-xwin enables seamless integration with the popular Rust package manager.
 
 ---
 

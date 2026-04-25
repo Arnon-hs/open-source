@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-"This open-source project, ai-llm-comparison, is an online platform that allows users to compare various AI models, enabling them to make informed decisions about which model best suits their needs. The website provides a comprehensive and user-friendly interface for comparing different AI models, facilitating the exploration of their capabilities and limitations. This resource aims to bridge the gap between AI enthusiasts and developers, promoting informed collaboration and innovation in the field."
+This open-source project, Ahmet-Dedeler/ai-llm-comparison, is a comprehensive online platform for comparing various AI models. It provides users with a centralized interface to explore and contrast different AI models, facilitating informed decision-making in the field of artificial intelligence. The project aims to simplify the process of evaluating and selecting the most suitable AI models for specific applications and use cases.
 
 ---
 

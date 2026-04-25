@@ -2,19 +2,19 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**60 projects** in this category.
+**61 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [firecracker-microvm/firecracker](./firecracker-microvm-firecracker.md) | ⭐ 33.9k | Rust | 100/100 |
-| 2 | [invoiceninja/invoiceninja](./invoiceninja-invoiceninja.md) | ⭐ 9.7k | PHP | 100/100 |
-| 3 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.8k | Python | 100/100 |
-| 4 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 9.8k | PHP | 100/100 |
-| 5 | [Pawdroid/Free-servers](./pawdroid-free-servers.md) | ⭐ 17.1k | — | 100/100 |
-| 6 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.1k | PHP | 100/100 |
-| 7 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28k | TypeScript | 100/100 |
+| 1 | [Pawdroid/Free-servers](./pawdroid-free-servers.md) | ⭐ 17.1k | — | 100/100 |
+| 2 | [firecracker-microvm/firecracker](./firecracker-microvm-firecracker.md) | ⭐ 33.9k | Rust | 100/100 |
+| 3 | [invoiceninja/invoiceninja](./invoiceninja-invoiceninja.md) | ⭐ 9.7k | PHP | 100/100 |
+| 4 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.8k | Python | 100/100 |
+| 5 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 9.8k | PHP | 100/100 |
+| 6 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28k | TypeScript | 100/100 |
+| 7 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.1k | PHP | 100/100 |
 | 8 | [knadh/listmonk](./knadh-listmonk.md) | ⭐ 19.6k | Go | 100/100 |
 | 9 | [99designs/gqlgen](./99designs-gqlgen.md) | ⭐ 10.7k | Go | 99/100 |
 | 10 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 96/100 |
@@ -39,35 +39,36 @@
 | 29 | [rynfar/meridian](./rynfar-meridian.md) | ⭐ 939 | TypeScript | 58/100 |
 | 30 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
 | 31 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 865 | TypeScript | 57/100 |
-| 32 | [VladSez/easy-invoice-pdf](./vladsez-easy-invoice-pdf.md) | ⭐ 756 | TypeScript | 56/100 |
-| 33 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 737 | C# | 56/100 |
-| 34 | [AuthorizeNet/sdk-php](./authorizenet-sdk-php.md) | ⭐ 454 | PHP | 55/100 |
-| 35 | [open-condo-software/condo](./open-condo-software-condo.md) | ⭐ 336 | JavaScript | 54/100 |
-| 36 | [elC0mpa/aws-doctor](./elc0mpa-aws-doctor.md) | ⭐ 418 | Go | 53/100 |
-| 37 | [nymtech/nym-vpn-client](./nymtech-nym-vpn-client.md) | ⭐ 396 | Rust | 53/100 |
-| 38 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
-| 39 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 176 | PHP | 53/100 |
-| 40 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
-| 41 | [agentic-commerce-protocol/agentic-commerce-protocol](./agentic-commerce-protocol-agentic-commerce-protocol.md) | ⭐ 1.4k | JavaScript | 53/100 |
-| 42 | [braintree/android-card-form](./braintree-android-card-form.md) | ⭐ 374 | Java | 52/100 |
-| 43 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 52/100 |
-| 44 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 170 | Ruby | 52/100 |
-| 45 | [ali-zahedi/az-iranian-bank-gateways](./ali-zahedi-az-iranian-bank-gateways.md) | ⭐ 598 | Python | 52/100 |
-| 46 | [openfintechio/openfintech](./openfintechio-openfintech.md) | ⭐ 215 | PHP | 52/100 |
-| 47 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 292 | — | 52/100 |
-| 48 | [ClickDevTech/CELERITY-panel](./clickdevtech-celerity-panel.md) | ⭐ 116 | JavaScript | 51/100 |
-| 49 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 51/100 |
-| 50 | [askalf/dario](./askalf-dario.md) | ⭐ 96 | JavaScript | 51/100 |
-| 51 | [checkout/checkout-sdk-node](./checkout-checkout-sdk-node.md) | ⭐ 67 | JavaScript | 51/100 |
-| 52 | [VictorAvelar/mollie-api-go](./victoravelar-mollie-api-go.md) | ⭐ 91 | Go | 51/100 |
-| 53 | [MusahMusah/laravel-multipayment-gateways](./musahmusah-laravel-multipayment-gateways.md) | ⭐ 88 | PHP | 51/100 |
-| 54 | [wevm/mppx](./wevm-mppx.md) | ⭐ 105 | TypeScript | 50/100 |
-| 55 | [braintree/braintree-android-drop-in](./braintree-braintree-android-drop-in.md) | ⭐ 125 | Java | 50/100 |
-| 56 | [dtzp555-max/ocp](./dtzp555-max-ocp.md) | ⭐ 50 | JavaScript | 50/100 |
-| 57 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 49/100 |
-| 58 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 66 | TypeScript | 49/100 |
-| 59 | [CyberSource/cybersource-sdk-java](./cybersource-cybersource-sdk-java.md) | ⭐ 58 | Java | 48/100 |
-| 60 | [Adyen/adyen-salesforce-commerce-cloud](./adyen-adyen-salesforce-commerce-cloud.md) | ⭐ 103 | JavaScript | 48/100 |
+| 32 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 532 | Perl | 56/100 |
+| 33 | [VladSez/easy-invoice-pdf](./vladsez-easy-invoice-pdf.md) | ⭐ 756 | TypeScript | 56/100 |
+| 34 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 737 | C# | 56/100 |
+| 35 | [AuthorizeNet/sdk-php](./authorizenet-sdk-php.md) | ⭐ 454 | PHP | 55/100 |
+| 36 | [open-condo-software/condo](./open-condo-software-condo.md) | ⭐ 336 | JavaScript | 54/100 |
+| 37 | [elC0mpa/aws-doctor](./elc0mpa-aws-doctor.md) | ⭐ 418 | Go | 53/100 |
+| 38 | [nymtech/nym-vpn-client](./nymtech-nym-vpn-client.md) | ⭐ 396 | Rust | 53/100 |
+| 39 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
+| 40 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 176 | PHP | 53/100 |
+| 41 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
+| 42 | [agentic-commerce-protocol/agentic-commerce-protocol](./agentic-commerce-protocol-agentic-commerce-protocol.md) | ⭐ 1.4k | JavaScript | 53/100 |
+| 43 | [braintree/android-card-form](./braintree-android-card-form.md) | ⭐ 374 | Java | 52/100 |
+| 44 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 52/100 |
+| 45 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 170 | Ruby | 52/100 |
+| 46 | [ali-zahedi/az-iranian-bank-gateways](./ali-zahedi-az-iranian-bank-gateways.md) | ⭐ 598 | Python | 52/100 |
+| 47 | [openfintechio/openfintech](./openfintechio-openfintech.md) | ⭐ 215 | PHP | 52/100 |
+| 48 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 292 | — | 52/100 |
+| 49 | [ClickDevTech/CELERITY-panel](./clickdevtech-celerity-panel.md) | ⭐ 116 | JavaScript | 51/100 |
+| 50 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 51/100 |
+| 51 | [askalf/dario](./askalf-dario.md) | ⭐ 96 | JavaScript | 51/100 |
+| 52 | [checkout/checkout-sdk-node](./checkout-checkout-sdk-node.md) | ⭐ 67 | JavaScript | 51/100 |
+| 53 | [VictorAvelar/mollie-api-go](./victoravelar-mollie-api-go.md) | ⭐ 91 | Go | 51/100 |
+| 54 | [MusahMusah/laravel-multipayment-gateways](./musahmusah-laravel-multipayment-gateways.md) | ⭐ 88 | PHP | 51/100 |
+| 55 | [wevm/mppx](./wevm-mppx.md) | ⭐ 105 | TypeScript | 50/100 |
+| 56 | [braintree/braintree-android-drop-in](./braintree-braintree-android-drop-in.md) | ⭐ 125 | Java | 50/100 |
+| 57 | [dtzp555-max/ocp](./dtzp555-max-ocp.md) | ⭐ 50 | JavaScript | 50/100 |
+| 58 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 49/100 |
+| 59 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 66 | TypeScript | 49/100 |
+| 60 | [CyberSource/cybersource-sdk-java](./cybersource-cybersource-sdk-java.md) | ⭐ 58 | Java | 48/100 |
+| 61 | [Adyen/adyen-salesforce-commerce-cloud](./adyen-adyen-salesforce-commerce-cloud.md) | ⭐ 103 | JavaScript | 48/100 |
 
 ---
 

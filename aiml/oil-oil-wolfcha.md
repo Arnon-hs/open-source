@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The oil-oil/wolfcha project is an open-source, AI-powered implementation of the popular Werewolf (Mafia) social deduction game. This innovative project utilizes top Large Language Models (LLMs) such as DeepSeek, Qwen, and Gemini to control player characters, creating a unique and dynamic gameplay experience. The project combines AI and machine learning technologies to simulate human-like behavior, adding a new layer of complexity to the classic social deduction game.
+Here's a brief summary of the open-source project:
+
+"Oil-Oil/Wolfcha is an AI-powered social deduction game that brings a unique twist to the classic Werewolf (Mafia) game. Using top LLMs such as DeepSeek, Qwen, and Gemini, this project enables players to be controlled by artificial intelligence, creating a dynamic and unpredictable gameplay experience. By harnessing the power of AI, Oil-Oil/Wolfcha offers a new dimension to social deduction games."
 
 ---
 

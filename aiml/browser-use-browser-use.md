@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The browser-use project is an open-source initiative aimed at making websites accessible to AI agents, enabling seamless automation of online tasks. This project strives to bridge the gap between human interaction and machine accessibility, fostering a more inclusive and efficient digital environment. By automating tasks, users can streamline their online experiences and unlock new possibilities for AI-driven productivity.
+Browser-use is an open-source project that aims to make websites accessible for artificial intelligence (AI) agents, enabling seamless automation of online tasks. This project facilitates AI-powered interactions with web applications, opening up new possibilities for automation and data extraction. By leveraging this technology, users can streamline their online workflows and unlock the full potential of AI-driven productivity.
 
 ---
 

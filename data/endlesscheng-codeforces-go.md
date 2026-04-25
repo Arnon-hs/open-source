@@ -27,7 +27,7 @@ Data
 
 Here's a brief summary of the EndlessCheng/codeforces-go project:
 
-This is an open-source template library for competitive programming, specifically designed for Codeforces users. The project provides a collection of Go tools and templates for solving algorithmic challenges, aiming to simplify the development process and improve coding efficiency. It serves as a useful resource for developers participating in coding competitions.
+This is an open-source, algorithmic competition template library written in Go, designed to provide a solid foundation for participants of Codeforces and other coding challenges. The library aims to streamline the development process and improve efficiency. It is a valuable resource for developers and competitive programmers seeking to optimize their coding workflow.
 
 ---
 

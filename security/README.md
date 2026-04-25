@@ -8,10 +8,10 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
-| 2 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
-| 3 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
-| 4 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
+| 1 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
+| 2 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
+| 3 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
+| 4 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
 | 5 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14k | C | 100/100 |
 | 6 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
 | 7 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 25.9k | Go | 100/100 |
@@ -34,22 +34,22 @@
 | 24 | [zizmorcore/zizmor](./zizmorcore-zizmor.md) | ⭐ 4.3k | Rust | 78/100 |
 | 25 | [EnergizedProtection/block](./energizedprotection-block.md) | ⭐ 2.8k | — | 73/100 |
 | 26 | [lestrrat-go/jwx](./lestrrat-go-jwx.md) | ⭐ 2.4k | Go | 68/100 |
-| 27 | [OpenAEV-Platform/openaev](./openaev-platform-openaev.md) | ⭐ 1.7k | Java | 64/100 |
-| 28 | [spring-projects/spring-security-samples](./spring-projects-spring-security-samples.md) | ⭐ 1.7k | Java | 64/100 |
+| 27 | [spring-projects/spring-security-samples](./spring-projects-spring-security-samples.md) | ⭐ 1.7k | Java | 64/100 |
+| 28 | [OpenAEV-Platform/openaev](./openaev-platform-openaev.md) | ⭐ 1.7k | Java | 64/100 |
 | 29 | [mthcht/awesome-lists](./mthcht-awesome-lists.md) | ⭐ 1.4k | YARA | 63/100 |
 | 30 | [naturalcrit/homebrewery](./naturalcrit-homebrewery.md) | ⭐ 1.3k | JavaScript | 62/100 |
 | 31 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 60/100 |
-| 32 | [dogtagpki/pki](./dogtagpki-pki.md) | ⭐ 488 | Java | 56/100 |
-| 33 | [firewalla/firewalla](./firewalla-firewalla.md) | ⭐ 604 | JavaScript | 56/100 |
-| 34 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 55/100 |
+| 32 | [firewalla/firewalla](./firewalla-firewalla.md) | ⭐ 604 | JavaScript | 56/100 |
+| 33 | [dogtagpki/pki](./dogtagpki-pki.md) | ⭐ 488 | Java | 56/100 |
+| 34 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 905 | Rust | 55/100 |
 | 35 | [lf-edge/eve](./lf-edge-eve.md) | ⭐ 544 | Go | 55/100 |
 | 36 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 163 | Go | 55/100 |
-| 37 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 905 | Rust | 55/100 |
+| 37 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 55/100 |
 | 38 | [oxyno-zeta/s3-proxy](./oxyno-zeta-s3-proxy.md) | ⭐ 455 | Go | 54/100 |
 | 39 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 309 | Python | 53/100 |
-| 40 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
-| 41 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
-| 42 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 612 | Go | 52/100 |
+| 40 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
+| 41 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 612 | Go | 52/100 |
+| 42 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
 | 43 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 166 | Go | 51/100 |
 | 44 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
 | 45 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |

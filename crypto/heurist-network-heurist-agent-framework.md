@@ -25,7 +25,7 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-The Heurist Network Agent Framework is an open-source, flexible multi-interface AI agent framework designed to enable the creation of sophisticated agents that integrate reasoning, tool use, memory, and deep research capabilities. This framework also supports interaction with blockchain technology, machine control protocols (MCP), and agents-as-a-service, making it a versatile tool for complex AI applications. With its modular architecture, developers can tailor the framework to meet the needs of various use cases in sectors such as cryptocurrency and orchestration.
+The Heurist Agent Framework is an open-source, multi-interface AI agent framework that enables the creation of advanced agents with capabilities such as reasoning, tool use, and memory. This flexible framework also supports integration with blockchain technology, Machine Learning (ML) and Cryptocurrency (Crypto) applications, making it suitable for complex and innovative use cases. It aims to provide a comprehensive platform for building and deploying AI agents as a service.
 
 ---
 

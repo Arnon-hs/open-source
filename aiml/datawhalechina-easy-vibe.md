@@ -25,7 +25,9 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The "easy-vibe" project by datawhalechina is an open-source initiative that offers a step-by-step programming course for beginners, focusing on mastering modern programming skills. This comprehensive course covers essential topics in AI/ML and data, providing a solid foundation for those new to coding. It aims to equip learners with the knowledge and skills needed to succeed in the rapidly evolving tech landscape of 2026.
+Here's a brief summary for the open-source project:
+
+The "easy-vibe" project is an open-source, beginner-friendly programming course that provides a step-by-step learning experience for mastering modern programming skills. Developed by datawhalechina, this course is designed to cater to the needs of aspiring programmers, covering essential topics in AI/ML and Data. By following this comprehensive course, beginners can gain hands-on experience and build a strong foundation in programming.
 
 ---
 

@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The cloudflare/terraform-provider-cloudflare is an open-source project that enables users to manage Cloudflare resources using Terraform, a popular infrastructure as code tool. With this provider, users can create, read, update, and delete Cloudflare resources such as DNS records, IP addresses, and SSL/TLS certificates programmatically. This integration simplifies the process of managing Cloudflare infrastructure in a consistent, repeatable, and version-controlled manner.
+The cloudflare/terraform-provider-cloudflare project is an open-source Terraform provider that enables users to manage and provision Cloudflare infrastructure and services using the Terraform configuration language. This provider allows users to automate the deployment and management of Cloudflare resources, such as DNS records, SSL certificates, and rate limiting rules, as part of their overall infrastructure management workflow. By integrating with Terraform, users can simplify the process of managing their Cloudflare resources and improve their infrastructure's scalability and reliability.
 
 ---
 

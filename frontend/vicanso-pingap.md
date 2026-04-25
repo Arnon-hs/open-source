@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Pingap is an open-source, reverse proxy solution inspired by nginx, built on top of the pingora framework. This simple and efficient frontend tool enables users to easily handle and manage incoming requests, improving the overall performance and scalability of web applications. By leveraging pingora's capabilities, Pingap offers a streamlined and customizable solution for proxying network traffic.
+The pingap project is an open-source reverse proxy server inspired by nginx, built on the pingora platform. It offers a simple and efficient solution for routing and caching web traffic, making it suitable for various frontend applications and use cases. By leveraging the pingora foundation, pingap aims to provide a lightweight and scalable alternative to traditional reverse proxy solutions.
 
 ---
 

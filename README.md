@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4248** |
+| 🗂️ **Total projects** | **4320** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1628 | [Browse →](./aiml/) |
-| 📦 **Misc** | 668 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 438 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 400 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 257 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 235 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 166 | [Browse →](./crypto/) |
-| 📊 **Data** | 112 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 1661 | [Browse →](./aiml/) |
+| 📦 **Misc** | 676 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 445 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 407 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 259 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 242 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 168 | [Browse →](./crypto/) |
+| 📊 **Data** | 113 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 98 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 60 | [Browse →](./payments/) |
-| 📱 **Mobile** | 59 | [Browse →](./mobile/) |
-| 📈 **Trading** | 46 | [Browse →](./trading/) |
+| 💳 **Payments** | 61 | [Browse →](./payments/) |
+| 📱 **Mobile** | 60 | [Browse →](./mobile/) |
+| 📈 **Trading** | 48 | [Browse →](./trading/) |
 | 🔐 **Security** | 45 | [Browse →](./security/) |
-| ✨ **Design** | 17 | [Browse →](./design/) |
+| ✨ **Design** | 18 | [Browse →](./design/) |
 | 🎯 **Product** | 14 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [hoochanlon/hamuleite](./misc/hoochanlon-hamuleite.md) | ⭐ 9.4k | Misc |
-| 2 | [harvard-edge/cs249r_book](./aiml/harvard-edge-cs249r-book.md) | ⭐ 23.8k | AI/ML |
-| 3 | [godotengine/godot-docs](./misc/godotengine-godot-docs.md) | ⭐ 5.2k | Misc |
-| 4 | [janhq/jan](./aiml/janhq-jan.md) | ⭐ 42.1k | AI/ML |
-| 5 | [stride3d/stride](./misc/stride3d-stride.md) | ⭐ 7.6k | Misc |
-| 6 | [web-platform-tests/wpt](./aiml/web-platform-tests-wpt.md) | ⭐ 5.9k | AI/ML |
-| 7 | [gogs/gogs](./aiml/gogs-gogs.md) | ⭐ 47.5k | AI/ML |
-| 8 | [Anionex/banana-slides](./aiml/anionex-banana-slides.md) | ⭐ 14.1k | AI/ML |
-| 9 | [microsoft/playwright](./backend/microsoft-playwright.md) | ⭐ 87.2k | Backend |
-| 10 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](./aiml/youmind-openlab-awesome-nano-banana-pro-prompts.md) | ⭐ 11.5k | AI/ML |
+| 1 | [awslabs/mcp](./backend/awslabs-mcp.md) | ⭐ 8.9k | Backend |
+| 2 | [triggerdotdev/trigger.dev](./orchestration/triggerdotdev-trigger.dev.md) | ⭐ 14.7k | Orchestration |
+| 3 | [hoochanlon/hamuleite](./misc/hoochanlon-hamuleite.md) | ⭐ 9.4k | Misc |
+| 4 | [activepieces/activepieces](./aiml/activepieces-activepieces.md) | ⭐ 21.9k | AI/ML |
+| 5 | [playframework/playframework](./aiml/playframework-playframework.md) | ⭐ 12.6k | AI/ML |
+| 6 | [huggingface/pytorch-image-models](./aiml/huggingface-pytorch-image-models.md) | ⭐ 36.7k | AI/ML |
+| 7 | [bytecodealliance/wasmtime](./misc/bytecodealliance-wasmtime.md) | ⭐ 17.9k | Misc |
+| 8 | [mcp-use/mcp-use](./aiml/mcp-use-mcp-use.md) | ⭐ 9.8k | AI/ML |
+| 9 | [openvinotoolkit/openvino](./aiml/openvinotoolkit-openvino.md) | ⭐ 10.1k | AI/ML |
+| 10 | [vuetifyjs/vuetify](./frontend/vuetifyjs-vuetify.md) | ⭐ 41k | Frontend |
 
 ## 🚀 How it works
 

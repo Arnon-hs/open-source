@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the lahfir/agent-desktop project:
-
-The lahfir/agent-desktop project is an open-source, native desktop automation CLI for AI agents. It allows for seamless control of any application through the operating system's accessibility trees, providing structured JSON output and deterministic element references. This enables AI agents to interact with desktop applications in a more efficient and reliable manner.
+The lahfir/agent-desktop project is an open-source, native desktop automation CLI designed for AI agents. It enables seamless control of any application through its OS accessibility trees, providing structured JSON output and deterministic element references. This tool empowers AI agents to interact with and automate desktop applications in a reliable and efficient manner.
 
 ---
 

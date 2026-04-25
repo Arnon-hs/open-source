@@ -25,7 +25,7 @@ Orchestration · Frontend · DevTools
 
 ## 📝 Summary
 
-Trippy is an open-source network diagnostic tool designed to simplify complex network troubleshooting. This tool provides a user-friendly interface for developers and network administrators to quickly identify and resolve connectivity issues. By leveraging its intuitive features, users can gain valuable insights into their network infrastructure and optimize its performance.
+Trippy is an open-source network diagnostic tool designed to provide comprehensive insights into network performance and connectivity. This versatile tool offers orchestration capabilities, a user-friendly frontend interface, and development-focused functionality, making it an invaluable resource for network administrators and developers alike. By utilizing Trippy, users can swiftly identify and troubleshoot network issues, optimizing overall network efficiency and performance.
 
 ---
 

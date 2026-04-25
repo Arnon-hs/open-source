@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here is a brief summary of the project:
+Here's a brief summary of the open-source project:
 
-This open-source project, "agent_learning", provides a comprehensive and hands-on guide to developing AI agents from scratch. It features a systematic approach, daily tracking of the latest arXiv papers, and real-world case studies to help learners master AI agent development. This resource is ideal for individuals looking to learn AI agent development in a structured and practical manner.
+This open-source project, "agent_learning", aims to provide a comprehensive and hands-on guide to developing AI Agents from scratch. It includes a daily update of the latest research papers from arXiv, ensuring users stay up-to-date with the latest advancements in the field. The project is categorized under Orchestration and AI/ML, making it a valuable resource for developers looking to learn AI Agent development.
 
 ---
 

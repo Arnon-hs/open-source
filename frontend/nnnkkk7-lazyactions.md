@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-This open-source project, lazyactions, is a terminal-based user interface (TUI) inspired by lazygit, designed to monitor, trigger, and manage GitHub Actions workflows from the command line. It aims to provide a user-friendly experience for developers to interact with their GitHub Actions workflows without the need for a web browser. With lazyactions, users can efficiently track and control their workflows from the comfort of their terminal.
+Lazyactions is an open-source, terminal-based user interface for managing GitHub Actions, inspired by lazygit. This tool enables users to monitor, trigger, and manage their workflows directly from the command line. By providing a simple and interactive interface, lazyactions streamlines the workflow management process for developers.
 
 ---
 

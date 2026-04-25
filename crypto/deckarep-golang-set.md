@@ -25,7 +25,7 @@ Crypto · DevTools · Data
 
 ## 📝 Summary
 
-This open-source project, 'deckarep/golang-set', provides a robust and versatile set data structure for the Go programming language. Developed with reliability and flexibility in mind, it offers a trusted solution for various applications, backed by reputable organizations such as Google Cloud Platform and Hashicorp. This generic set type is ideal for use in data processing, cryptographic operations, and development tools.
+The deckarep/golang-set project provides a generic and battle-tested set implementation for the Go language, offering a simple and reliable solution for handling unique collections of elements. Trusted by prominent organizations such as GoogleCloudPlatform, Docker, and Hashicorp, this open-source project is ideal for applications requiring efficient and predictable set operations. Its versatility makes it suitable for various use cases, including cryptography, development tools, and data processing.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the open-source project:
 
-"Code-Pathfinder is an open-source static code analysis tool designed for security teams, offering advanced features such as inter-file taint analysis to identify vulnerabilities. It enables users to derive insightful results and supports Multi-Component Policy (MCP) for comprehensive security assessments. This AI-driven tool empowers developers to improve code quality and security with ease."
+The code-pathfinder project is a static code analysis tool designed for security teams to identify vulnerabilities and derive valuable insights from code. It utilizes inter-file taint analysis to provide advanced structural search capabilities, making it easier to detect potential threats. By supporting Machine-Code-Path (MCP), this tool offers a comprehensive solution for security experts to navigate and safeguard their codebase.
 
 ---
 

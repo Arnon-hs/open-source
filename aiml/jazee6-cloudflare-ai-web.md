@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The Jazee6/cloudflare-ai-web project offers a seamless experience for deploying Cloudflare's AI Platform with just one click, simplifying the process for developers. This open-source initiative facilitates easy integration and utilization of Cloudflare AI capabilities, making it easier to leverage AI-driven features in web applications. By providing a streamlined deployment experience, the project aims to accelerate AI adoption in web development.
+The Jazee6/cloudflare-ai-web project provides a hassle-free, one-click deployment solution for the Cloudflare AI Platform, allowing users to easily integrate AI capabilities into their web applications. This open-source project streamlines the process of deploying Cloudflare's AI features, making it accessible to developers of all skill levels. By leveraging this tool, developers can enhance their web applications with cutting-edge AI functionality.
 
 ---
 

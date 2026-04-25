@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The mohanson/gameboy project is an open-source, cross-platform GameBoy emulator developed in Rust. It provides a full-featured implementation, allowing users to play their favorite GameBoy games on a variety of platforms. This project aims to bring the classic gaming experience of the GameBoy to modern devices.
+The mohanson/gameboy project is an open-source, cross-platform GameBoy emulator developed using Rust. This project aims to provide a comprehensive GameBoy emulation experience, allowing users to play classic GameBoy games on various platforms. With its Rust-based implementation, the emulator is designed to be efficient and versatile, making it accessible to a wide range of users.
 
 ---
 

@@ -25,9 +25,9 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the open-source project:
 
-Zen is an open-source, self-hosted notes application built as a single Go binary. It stores notes as markdown within a SQLite database, allowing for efficient and low-resource usage, while also providing full-text search capabilities. This lightweight solution makes it an ideal choice for users seeking a simple and private note-taking experience.
+"Zen is a self-hosted notes app that allows users to store and organize notes in a simple and efficient manner. Built as a single Go binary, Zen utilizes SQLite to store notes in markdown format and offers full-text search capabilities, all while maintaining extremely low resource usage. This lightweight solution makes it an ideal choice for users seeking a reliable and resource-friendly notes app."
 
 ---
 

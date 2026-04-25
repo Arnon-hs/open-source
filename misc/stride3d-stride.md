@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Stride is a free and open-source cross-platform C# game engine that allows developers to create 3D games for a wide range of platforms. Built on a modular architecture, Stride provides a flexible and customizable framework for game development, enabling developers to create stunning 3D games with ease. With its open-source nature, Stride encourages community collaboration and continuous improvement.
+Stride is a free and open-source, cross-platform C# game engine designed for developing high-performance games. Built on the foundations of Xenko, Stride provides a comprehensive set of features and tools for game developers to create immersive gaming experiences. With its open-source nature, the community can contribute to and benefit from its continuous growth and improvement.
 
 ---
 

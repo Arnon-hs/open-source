@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The netnr/workers project is an open-source implementation of Cloudflare Workers, allowing developers to create serverless applications with a low-latency, edge network. This project empowers users to build AI/ML-powered backend services with a scalable and secure infrastructure. By leveraging the power of Cloudflare Workers, developers can create fast and efficient web applications.
+The netnr/workers project is an open-source implementation of Cloudflare Workers, a serverless platform for running JavaScript code at the edge of the internet. This project enables developers to leverage Cloudflare's global network and infrastructure to build high-performance, scalable applications. By utilizing netnr/workers, developers can create innovative web applications with reduced latency and improved security.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Orbit is an open-source AI gateway that provides a single API interface to over 20 leading Large Language Model (LLM) providers, allowing users to access and integrate AI functionality across multiple platforms. This self-hosted solution also enables users to integrate their databases and files with built-in features such as RAG (Reinforcement and Adversarial Generation), voice integration, and guardrails for enhanced control and security. Orbit streamlines AI development and deployment by providing a unified interface for a wide range of AI services.
+The orbit project is an open-source, self-hosted AI gateway that simplifies access to various large language model (LLM) providers, databases, and local files. It offers a unified API, real-time analytics, voice integration, and customizable guardrails to ensure secure and controlled AI interactions. By centralizing AI access, orbit enables developers to build more robust and secure AI-powered applications.
 
 ---
 
