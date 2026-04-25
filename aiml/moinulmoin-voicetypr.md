@@ -25,7 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-VoiceTypr is an open-source, AI-powered offline voice-to-text dictation tool designed for busy professionals, particularly founders, developers, and AI enthusiasts on macOS and Windows. This alternative to popular tools like Wispr and SuperWhisper offers a convenient and efficient way to capture and transcribe voice notes, leveraging AI technology for accuracy. By using VoiceTypr, users can stay productive and focused without relying on internet connectivity.
+Here's a 2-3 sentence summary for the project:
+
+VoiceTypr is an open-source AI-powered offline voice-to-text dictation tool designed for busy professionals, coders, and AI enthusiasts on macOS and Windows. It offers an alternative to popular tools like Wispr Flow and SuperWhisper, providing a convenient and efficient way to capture thoughts and ideas on the go. With its offline capability, users can dictate without relying on internet connectivity.
 
 ---
 

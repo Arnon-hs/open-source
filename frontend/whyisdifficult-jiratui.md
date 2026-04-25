@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The whyisdifficult/jiratui project provides a Textual User Interface for interacting with Atlassian Jira from a shell environment, allowing users to manage their Jira projects and tasks in a more streamlined and efficient manner. This open-source tool enables seamless integration between the command line and Jira, facilitating tasks such as issue creation, editing, and deletion. By leveraging a TUI (Textual User Interface), users can interact with Jira without having to navigate through a web interface.
+Here's a brief summary for the whyisdifficult/jiratui project:
+
+Jiratui is an open-source, text-based user interface for interacting with Atlassian Jira from your shell. It allows users to manage their Jira workflow seamlessly from the command line, streamlining tasks and enhancing productivity. With Jiratui, you can easily track issues, create tickets, and perform other Jira-related tasks without needing a graphical interface.
 
 ---
 

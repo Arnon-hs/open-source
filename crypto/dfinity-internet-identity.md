@@ -25,7 +25,7 @@ Crypto · AI/ML · Security
 
 ## 📝 Summary
 
-The Internet Identity project is an open-source, blockchain-based authentication system designed for the Internet Computer. This system enables secure and decentralized identity management, allowing individuals to control their personal data and digital identities. By leveraging the Internet Computer's blockchain technology, Internet Identity aims to provide a more secure and trustworthy way of authenticating online identities.
+The Internet Identity open-source project, developed by Dfinity, is a blockchain-based authentication system designed for the Internet Computer. This secure system enables users to manage their digital identities in a decentralized and private manner, allowing for seamless interactions across various online platforms. By harnessing blockchain technology, Internet Identity provides a robust solution for identity verification and management on the Internet Computer.
 
 ---
 

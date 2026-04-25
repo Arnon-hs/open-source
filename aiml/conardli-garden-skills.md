@@ -25,7 +25,7 @@ AI/ML · Design
 
 ## 📝 Summary
 
-The garden-skills project is an open-source collection of various skills by ConardLi, covering a range of topics including web design, knowledge retrieval, and image generation. This repository offers a diverse set of tools and techniques for developers and designers to explore and utilize. By leveraging AI and ML, garden-skills aims to empower users with a versatile set of skills in the fields of AI, design, and more.
+ConardLi's open-source project "garden-skills" is a comprehensive collection of skills in various fields, including web design and artificial intelligence (AI). This repository offers a wide range of functionalities, such as knowledge retrieval and image generation, making it a valuable resource for developers and enthusiasts alike. By leveraging AI/ML and design expertise, "garden-skills" enables users to explore and learn from a diverse set of skills and applications.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The moq-dev/moq project is an open-source library that enables the development and use of media over the QUIC (Quick UDP Internet Connections) protocol, a modern internet transport protocol. It provides a cross-platform solution by combining Rust and TypeScript, making it suitable for various frontend applications. This allows for efficient and reliable media streaming over QUIC.
+Moq is an open-source project that provides a Media over QUIC (M-Qaeda-QUIC) library, allowing for the development of high-performance media streaming applications. Built in Rust and Typescript, Moq offers a flexible and scalable solution for transferring video, audio, and other multimedia data over the QUIC protocol. This enables developers to create efficient and robust streaming experiences for web and other applications.
 
 ---
 

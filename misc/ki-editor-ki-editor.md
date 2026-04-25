@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Ki Editor is an open-source, multi-cursor combinatoric modal editor designed to provide a unique editing experience. It allows users to work with multiple cursors, enabling efficient and simultaneous editing of code, text, or other forms of content. This versatile editor is built with a focus on flexibility and customization.
+The Ki Editor is an open-source, multi-cursor combinatoric modal editor that allows users to interact with code in a unique and efficient way. It supports various editing modes and enables simultaneous editing of multiple points in the code, streamlining the development process. With its customizable interface and flexible design, the Ki Editor is an ideal tool for programmers seeking to boost their productivity.
 
 ---
 

@@ -25,9 +25,9 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the Goma Gateway project:
+Here's a brief summary of the project:
 
-Goma Gateway is an open-source, high-performance API gateway and reverse proxy that streamlines API management and routing with a declarative configuration. It supports various protocols, including REST, GraphQL, TCP, UDP, and gRPC, and offers robust middleware capabilities for enhanced security and functionality. This lightweight solution enables developers to create efficient, scalable, and customizable API gateways for their applications.
+Goma Gateway is an open-source, high-performance API gateway and reverse proxy that supports a wide range of protocols, including REST, GraphQL, TCP, UDP, and gRPC. It features a lightweight and flexible architecture with declarative configuration and robust middleware capabilities. This makes it an ideal solution for scalable, high-traffic applications and microservices architectures.
 
 ---
 

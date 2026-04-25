@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The wasi-master/13ft project is an open-source alternative to the 12ft.io service, providing a custom solution for users seeking a replacement. This project aims to replicate the functionality of 12ft.io, offering a like-for-like experience for those who prefer a self-hosted or community-driven option. By leveraging community development, 13ft strives to offer a robust and customizable alternative for users.
+Here's a brief summary for the "wasi-master/13ft" project:
+
+The wasi-master/13ft project is an open-source alternative to the 12ft.io service, offering similar functionality to meet the needs of developers seeking a custom solution. This self-hosted replacement aims to replicate the features and capabilities of its commercial counterpart, providing users with more control and flexibility. By leveraging open-source development, this project seeks to empower users with a cost-effective and customizable solution.
 
 ---
 

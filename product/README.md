@@ -12,8 +12,8 @@
 | 2 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132k | C# | 100/100 |
 | 3 | [opf/openproject](./opf-openproject.md) | ⭐ 14.9k | Ruby | 100/100 |
 | 4 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 121.9k | TypeScript | 99/100 |
-| 5 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.1k | Rust | 92/100 |
-| 6 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9k | Python | 92/100 |
+| 5 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9k | Python | 92/100 |
+| 6 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.1k | Rust | 92/100 |
 | 7 | [liuchong/awesome-roadmaps](./liuchong-awesome-roadmaps.md) | ⭐ 6.9k | — | 88/100 |
 | 8 | [johnste/finicky](./johnste-finicky.md) | ⭐ 4.8k | Go | 86/100 |
 | 9 | [dreamworksanimation/openmoonray](./dreamworksanimation-openmoonray.md) | ⭐ 4.6k | CMake | 78/100 |

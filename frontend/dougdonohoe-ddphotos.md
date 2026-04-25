@@ -25,9 +25,9 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project dougdonohoe/ddphotos:
+Here's a brief summary for the dougdonohoe/ddphotos project:
 
-ddphotos is an open-source static site generator designed for creating super-fast photo albums. It utilizes a Go CLI for efficient image resizing and indexing, paired with the SvelteKit framework to build a seamless gallery experience. This database-free solution provides a streamlined way to manage and display large collections of photos online.
+ddphotos is an open-source, static site generator designed for creating fast and efficient photo albums. Utilizing a Go CLI for image resizing and indexing, and SvelteKit for the gallery, this tool eliminates the need for a database, making it a lightweight and database-free solution. ddphotos enables users to quickly and easily generate visually appealing online photo albums.
 
 ---
 

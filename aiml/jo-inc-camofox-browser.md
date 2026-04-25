@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Camofox-browser is an open-source headless browser automation server designed to bypass restrictions on AI agents visiting blocked websites. This project enables AI agents to access and navigate sites that are typically inaccessible, facilitating the development and testing of AI applications. By providing a controlled environment for AI interactions, Camofox-browser aids in accelerating AI research and innovation.
+Camofox-browser is an open-source headless browser automation server designed to facilitate AI agent interactions with websites that employ restrictive access policies. This project enables AI agents to navigate and interact with blocked sites, expanding their capabilities in fields like data collection, research, and development. By providing a server-based automation solution, Camofox-browser streamlines the process of accessing restricted online content for AI applications.
 
 ---
 

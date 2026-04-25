@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The redbadger/crux project is an open-source initiative focused on enabling cross-platform app development using the Rust programming language. This project provides a foundation for building applications that can run seamlessly across various platforms, including desktop and mobile devices. By leveraging Rust's powerful features and Crux's cross-platform capabilities, developers can create robust, efficient, and high-performance applications.
+Crux is an open-source framework for cross-platform app development in Rust, allowing developers to build robust and efficient applications that can run seamlessly across various platforms. This framework provides a flexible foundation for building native applications, offering a high degree of customization and control. By leveraging the power of Rust, Crux enables developers to create fast, secure, and scalable applications.
 
 ---
 

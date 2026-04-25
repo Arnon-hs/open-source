@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Pear is an open-source extension for music players that aims to enhance user experience. It provides additional functionality and features to music players, although the specific details of these features are not mentioned in the provided description. The project, pear-desktop, is hosted on GitHub under the pear-devs organization.
+Here's a brief summary for the pear-desktop project:
+
+Pear is an open-source music player extension designed to enhance music listening experiences. This user-friendly extension provides a customizable and accessible way to manage music libraries and enjoy favorite tracks. With its flexible and intuitive interface, Pear aims to simplify music playback and user interaction.
 
 ---
 

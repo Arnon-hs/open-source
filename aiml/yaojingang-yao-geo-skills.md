@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the yao-geo-skills project:
 
-The Yao-Geo-Skills project is an open-source collection of skills tailored for GEO content and workflows. This repository provides a continually updated set of tools and utilities for developers working with geographic information. It falls under the categories of AI/ML and DevTools.
+The yao-geo-skills project is an open-source collection of skills tailored for Geographic Information (GEO) content and workflow applications. This constantly evolving repository caters to the needs of developers and researchers working in the AI/ML and DevTools spaces. It provides a useful resource for those looking to enhance their GEO-focused projects with advanced features.
 
 ---
 

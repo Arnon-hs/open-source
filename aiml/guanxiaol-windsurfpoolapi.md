@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a 3-sentence summary for the WindsurfPoolAPI project:
 
-The WindsurfPoolAPI is an open-source, multi-account pool proxy for Windsurf, allowing users to access a wide range of AI models (over 113) from OpenAI and Anthropic APIs simultaneously. This proxy supports image upload, Cursor, and Claude Code native integration, making it a powerful tool for enterprise-level Windsurf applications. The project aims to simplify the management of multiple Windsurf accounts, enabling users to scale their AI-powered projects more efficiently.
+WindsurfPoolAPI is an open-source, multi-account pool proxy designed for Windsurf, a platform supporting various AI models including Claude, GPT, Gemini, Grok, and Kimi from OpenAI and Anthropic APIs. This project enables users to pool multiple Windsurf accounts, facilitating scalable and efficient access to these AI models and features like image upload and native support for Cursor and Claude Code. By providing a proxy for Windsurf accounts, this API aims to streamline AI development and deployment processes for developers and enterprises.
 
 ---
 

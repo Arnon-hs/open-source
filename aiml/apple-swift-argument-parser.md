@@ -1,6 +1,6 @@
 # apple/swift-argument-parser
 
-[![Stars](https://img.shields.io/github/stars/apple/swift-argument-parser?style=flat-square&color=yellow)](https://github.com/apple/swift-argument-parser/stargazers) [![Forks](https://img.shields.io/github/forks/apple/swift-argument-parser?style=flat-square&color=blue)](https://github.com/apple/swift-argument-parser/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apple/swift-argument-parser?style=flat-square&color=yellow)](https://github.com/apple/swift-argument-parser/stargazers) [![Forks](https://img.shields.io/github/forks/apple/swift-argument-parser?style=flat-square&color=blue)](https://github.com/apple/swift-argument-parser/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Straightforward, type-safe argument parsing for Swift
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 372 |
+| 🍴 **Forks** | 373 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

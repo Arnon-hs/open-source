@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Argos Translate is an open-source offline translation library developed in Python, enabling users to access translation capabilities without an internet connection. This AI-driven tool utilizes machine learning algorithms to facilitate seamless language translation, catering to various industries and applications. By leveraging Argos Translate, developers can integrate robust translation functionality into their projects.
+The Argos Translate library is an open-source, offline translation tool developed in Python, providing users with a self-sufficient translation solution without relying on internet connectivity. This project utilizes Python to facilitate multilingual translations and is categorized under AI/ML. It aims to bridge language gaps and enhance accessibility in various applications and industries.
 
 ---
 

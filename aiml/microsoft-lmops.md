@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Microsoft LMOps project is an open-source initiative that aims to enable AI capabilities by leveraging Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs). This technology facilitates the development and deployment of AI solutions, empowering users to unlock the full potential of language and multimodal data. By providing a foundation for LLM and MLLM applications, LMOps seeks to advance the field of AI/ML research and development.
+The LMOps project is an open-source initiative by Microsoft that focuses on developing general technology for enabling AI capabilities with Large Language Models (LLMs) and Multi-Layered Large Models (MLLMs). This project aims to advance the field of AI by providing a foundation for building, deploying, and managing large-scale language models. By open-sourcing its technology, Microsoft enables the broader community to contribute, learn from, and build upon its innovations in AI and natural language processing.
 
 ---
 

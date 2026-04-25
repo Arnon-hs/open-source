@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Synapse AI is an open-source platform that enables the creation, connection, and orchestration of AI agents powered by Large Language Models (LLMs). With Synapse, users can build and manage AI agents that can perform various tasks, leveraging the capabilities of local, cloud-based, or command-line interfaces. This versatile platform empowers developers to unlock the full potential of AI and ML in their applications.
+Synapse AI is an open-source platform for creating, connecting, and orchestrating AI agents powered by Large Language Models (LLMs). This platform enables users to build and manage AI agents that perform tangible actions, leveraging local, cloud-based, or command-line interface (CLI) LLMs. With Synapse AI, users can streamline the development and deployment of AI solutions.
 
 ---
 

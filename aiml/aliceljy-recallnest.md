@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the AliceLJY/recallnest project:
 
-The recallnest project provides a shared memory layer for AI models and tools, enabling seamless interaction between Claude Code, Codex, and Gemini CLI. This hybrid retrieval system combines vector, BM25, and knowledge graph-based search, along with session continuity and integration with 40 MCP (Machine and Cognitive Process) tools. Built with a local-first approach using LanceDB, recallnest offers a robust foundation for AI-powered development.
+RecallNest is an open-source project that provides a shared memory layer for hybrid retrieval models, enabling session continuity across multiple terminals. It supports popular models such as Claude Code, Codex, and Gemini CLI, while also incorporating 40 other Machine Learning Continual Prompt (MCP) tools. Built on a local-first architecture with LanceDB backing, RecallNest aims to streamline AI/ML development and exploration.
 
 ---
 

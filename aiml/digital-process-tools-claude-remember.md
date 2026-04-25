@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Claude-remember is an open-source project that provides persistent memory for Claude code, enabling identity, context, and continuity across sessions. This tool allows developers to build more robust and interactive AI/ML applications by retaining important information between sessions. By leveraging this persistent memory, developers can create more seamless and user-friendly experiences with Claude.
+Claude-remember is an open-source project that provides persistent memory for Claude Code, enabling identity, context, and continuity across sessions. This feature allows users to maintain a consistent state and recall previous interactions, enhancing the overall user experience in Claude-powered applications. By leveraging this persistent memory, developers can create more intuitive and engaging AI-driven interfaces.
 
 ---
 

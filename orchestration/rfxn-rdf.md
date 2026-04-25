@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The rfxn/rdf project is an open-source framework for governance-driven AI development, ensuring convention enforcement, quality control, and domain expertise for AI frameworks such as Claude Code, Gemini CLI, and Codex. This framework aims to streamline AI development by providing a structured approach to building and deploying AI models. By enforcing best practices and quality gates, rfxn/rdf helps developers create more reliable and maintainable AI solutions.
+Here's a brief summary for the open-source project:
+
+rfxn/rdf is an open-source governance-driven AI development framework that enforces conventions, ensures quality, and incorporates domain expertise for various AI tools, including Claude Code, Gemini CLI, and Codex. This framework provides a structured approach to AI development, promoting consistency, reliability, and best practices. By integrating governance and domain expertise, rfxn/rdf enables developers to build more accurate and effective AI models.
 
 ---
 

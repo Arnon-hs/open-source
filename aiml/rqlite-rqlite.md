@@ -25,7 +25,9 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Rqlite is an open-source, fault-tolerant database that utilizes SQLite as its core, providing high availability for data with minimal setup and maintenance. This lightweight database solution is designed to ensure seamless data access even in the presence of failures or network partitions. By leveraging SQLite, rqlite offers a robust and reliable database experience for various applications and use cases.
+Here's a brief summary of the rqlite project:
+
+rqlite is an open-source, fault-tolerant database that leverages SQLite to provide highly available data storage with minimal effort. Built for scalability and reliability, it's designed to keep your data accessible even in the face of failures or disruptions. This lightweight database is ideal for applications requiring robust data management.
 
 ---
 

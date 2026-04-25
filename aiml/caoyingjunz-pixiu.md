@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Pixiu is an open-source container platform designed for the management of cloud-native applications. Built with DevOps and infrastructure in mind, Pixiu provides a scalable and flexible solution for deploying, monitoring, and securing containerized applications. This platform is well-suited for organizations leveraging AI/ML technologies, offering a robust foundation for cloud-native application management and deployment.
+Pixiu is an open-source container platform designed for cloud-native application management. This platform allows developers to efficiently manage and deploy applications in a containerized environment, streamlining DevOps processes and enhancing scalability. By leveraging Pixiu, users can optimize their cloud-native application management and improve overall system efficiency.
 
 ---
 

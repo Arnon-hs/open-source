@@ -25,9 +25,9 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
+Here is a brief summary of the open-source project in English:
 
-OpenMonetis is an open-source, self-hosted financial management system that enables users to automatically capture bank notifications, track expenses, and manage budgets, releases, cards, invoices, and estimates within their own infrastructure. This project eliminates the need for third-party dependencies, providing users with full control over their financial data. It is suitable for developers interested in AI/ML, frontend, and DevOps/Infrastructure.
+OpenMonetis is an open-source, self-hosted personal finance management system that automates the capture of bank notifications. It provides features such as transaction tracking, card management, billing, and budgeting, all controlled from within your own infrastructure without relying on third-party services. This project empowers users to have full control over their financial data.
 
 ---
 

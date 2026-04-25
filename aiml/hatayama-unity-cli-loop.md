@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/hatayama/unity-cli-loop?style=flat-square&color=yellow)](https://github.com/hatayama/unity-cli-loop/stargazers) [![Forks](https://img.shields.io/github/forks/hatayama/unity-cli-loop?style=flat-square&color=blue)](https://github.com/hatayama/unity-cli-loop/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Your Unity project's AI autopilot. Compile, test, debug, repeat—until it just works.
+> Let AI Drive Unity, from Editor to Play Mode.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 311 |
+| ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 50/100 |

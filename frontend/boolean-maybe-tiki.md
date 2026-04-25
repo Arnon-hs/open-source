@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The boolean-maybe/tiki project is an open-source, terminal-based tool that utilizes Markdown for building workflows without requiring rigid structure. This shapeless workflow builder empowers users to create customizable, dynamic processes within their command line interface. It serves as a versatile DevTool for frontend developers, streamlining tasks through intuitive Markdown syntax.
+The boolean-maybe/tiki project is an open-source, terminal-based tool that enables users to build workflows through Markdown syntax. It features a shapeless workflow builder that allows for flexibility and customization, making it a valuable resource for software developers and DevOps teams. With tiki, users can quickly create and manage complex workflows from the comfort of their terminal.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The AiDex project is an open-source, MCP (Meta-Code-Processor) server that enables persistent code indexing, making it easier for AI assistants to access and understand large codebases. This results in a significant reduction in context, requiring 50 times less information than traditional search tools like grep. AiDex facilitates rapid and efficient collaboration between developers and AI tools, improving the overall development experience.
+The AiDex project is an open-source MCP server designed for persistent code indexing. This server enables AI assistants, such as Claude, Gemini, Copilot, and Cursor, to quickly access and retrieve information from your entire codebase, providing 50x faster context than traditional search methods like grep.
 
 ---
 

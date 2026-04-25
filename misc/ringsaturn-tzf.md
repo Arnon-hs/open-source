@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The tzf project is an open-source Go library designed to quickly retrieve the timezone for a given set of geographic coordinates. By utilizing longitude and latitude, it efficiently identifies the corresponding timezone, providing a convenient solution for developers working with time zones in their applications. This library offers a fast and reliable way to handle timezone conversions and calculations.
+The tzf project, written in Go, provides a fast and efficient method to retrieve time zones based on longitude and latitude coordinates. It allows developers to easily integrate accurate time zone identification into their applications, leveraging the power of geographic data. This open-source library is particularly useful for applications requiring precise time zone conversions or calculations.
 
 ---
 

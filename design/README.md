@@ -24,12 +24,12 @@
 | 14 | [lahin31/system-design-bangla](./lahin31-system-design-bangla.md) | ⭐ 1.2k | — | 56/100 |
 | 15 | [juspay/superposition](./juspay-superposition.md) | ⭐ 412 | Rust | 53/100 |
 | 16 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 209 | PHP | 52/100 |
-| 17 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
-| 18 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 224 | Go | 52/100 |
+| 17 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 224 | Go | 52/100 |
+| 18 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
 | 19 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 457 | Go | 49/100 |
 | 20 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 426 | JavaScript | 49/100 |
 | 21 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
-| 22 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 177 | Go | 48/100 |
+| 22 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 178 | Go | 48/100 |
 | 23 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 521 | Python | 46/100 |
 
 ---

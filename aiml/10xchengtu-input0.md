@@ -25,7 +25,9 @@ AI/ML · Frontend · Product
 
 ## 📝 Summary
 
-Input0 is a macOS voice input tool that enables users to capture audio with a hotkey, transcribe it locally, refine the transcript using a large language model, and automatically paste the result into the active text field. This open-source project streamlines the voice-to-text process, providing a seamless user experience for macOS users. By leveraging AI and ML capabilities, Input0 offers a powerful tool for individuals and developers alike.
+Here is a brief summary for the open-source project:
+
+Input0 is an open-source voice input tool designed for macOS, allowing users to record audio by holding a hotkey and transcribe it locally into text. The tool utilizes Speech-to-Text (STT) and Large Language Models (LLM) for refinement, enabling accurate and efficient transcription. Upon completion, the transcribed text is automatically pasted into the active text field.
 
 ---
 

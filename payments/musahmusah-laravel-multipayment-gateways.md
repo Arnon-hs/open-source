@@ -1,6 +1,6 @@
 # MusahMusah/laravel-multipayment-gateways
 
-[![Stars](https://img.shields.io/github/stars/MusahMusah/laravel-multipayment-gateways?style=flat-square&color=yellow)](https://github.com/MusahMusah/laravel-multipayment-gateways/stargazers) [![Forks](https://img.shields.io/github/forks/MusahMusah/laravel-multipayment-gateways?style=flat-square&color=blue)](https://github.com/MusahMusah/laravel-multipayment-gateways/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MusahMusah/laravel-multipayment-gateways?style=flat-square&color=yellow)](https://github.com/MusahMusah/laravel-multipayment-gateways/stargazers) [![Forks](https://img.shields.io/github/forks/MusahMusah/laravel-multipayment-gateways?style=flat-square&color=blue)](https://github.com/MusahMusah/laravel-multipayment-gateways/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A Laravel Package that makes implementation of multiple payment Gateways such as Paystack, Flutterwave and Stripe endpoints and webhooks seamless.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 88 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

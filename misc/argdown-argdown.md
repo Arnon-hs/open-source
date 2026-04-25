@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Argdown is an open-source project that offers a simple syntax for complex argumentation. This allows users to create, structure, and visualize arguments in a clear and organized manner, facilitating better decision-making and critical thinking. By providing a standardized format for presenting arguments, Argdown aims to enhance the quality of discussions and debates.
+Argdown is an open-source project that offers a simple syntax for complex argumentation, allowing users to visually represent and analyze arguments in a structured and organized manner. This project enables individuals to break down and evaluate arguments through a clear and concise notation, promoting critical thinking and effective communication in various fields. By using Argdown, users can create and share logical, evidence-based arguments with ease.
 
 ---
 

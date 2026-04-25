@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The av/harbor project is an open-source initiative that streamlines the development process for Large Language Model (LLM) applications by providing a comprehensive, pre-wired stack with hundreds of services. This powerful tool can be easily deployed with a single command, allowing developers to quickly explore and build upon its extensive capabilities. By leveraging av/harbor, users can accelerate their AI/ML projects and focus on innovation rather than infrastructure setup.
+Here's a brief summary for the av/harbor project:
+
+Av/Harbor is an open-source project that provides a comprehensive, pre-wired Large Language Model (LLM) stack with hundreds of services, accessible through a single command. This innovative tool streamlines the exploration and development process for AI/ML applications, enabling users to quickly explore and deploy various services. By bringing this extensive LLM stack to users, av/harbor aims to accelerate the creation and innovation of AI-powered solutions.
 
 ---
 

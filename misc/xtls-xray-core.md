@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The XTLS/Xray-core project is an open-source platform designed for various uses, offering a versatile and secure foundation. It serves as an enhanced version of v2ray-core, with a focus on security and reliability. This platform is capable of penetrating complex network structures, making it a powerful tool for diverse applications.
+XTLS/Xray-core is an open-source project that serves as a platform for various uses, offering a robust and versatile solution. It is designed as an alternative to v2ray-core, providing a secure and reliable platform for users to access and manage different applications. Xray-core is built with flexibility and customization in mind, allowing users to tailor it to their specific needs.
 
 ---
 

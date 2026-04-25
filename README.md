@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5381** |
+| 🗂️ **Total projects** | **5467** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2098 | [Browse →](./aiml/) |
-| 📦 **Misc** | 874 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 530 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 509 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 314 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 298 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 193 | [Browse →](./crypto/) |
-| 📊 **Data** | 130 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 2133 | [Browse →](./aiml/) |
+| 📦 **Misc** | 891 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 539 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 516 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 319 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 301 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 195 | [Browse →](./crypto/) |
+| 📊 **Data** | 133 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 121 | [Browse →](./devopsinfra/) |
 | 💳 **Payments** | 79 | [Browse →](./payments/) |
-| 📱 **Mobile** | 76 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 79 | [Browse →](./mobile/) |
 | 📈 **Trading** | 59 | [Browse →](./trading/) |
-| 🔐 **Security** | 54 | [Browse →](./security/) |
+| 🔐 **Security** | 55 | [Browse →](./security/) |
 | ✨ **Design** | 23 | [Browse →](./design/) |
 | 🎯 **Product** | 17 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 6 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 7 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [pear-devs/pear-desktop](./misc/pear-devs-pear-desktop.md) | ⭐ 31.4k | Misc |
-| 2 | [XTLS/Xray-core](./misc/xtls-xray-core.md) | ⭐ 37.8k | Misc |
-| 3 | [cvxpy/cvxpy](./misc/cvxpy-cvxpy.md) | ⭐ 6.2k | Misc |
-| 4 | [arendst/Tasmota](./frontend/arendst-tasmota.md) | ⭐ 24.3k | Frontend |
-| 5 | [ChromeDevTools/chrome-devtools-mcp](./aiml/chromedevtools-chrome-devtools-mcp.md) | ⭐ 37.2k | AI/ML |
-| 6 | [docmost/docmost](./misc/docmost-docmost.md) | ⭐ 19.9k | Misc |
-| 7 | [microsoft/terminal](./misc/microsoft-terminal.md) | ⭐ 102.9k | Misc |
-| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 9 | [gnuradio/gnuradio](./security/gnuradio-gnuradio.md) | ⭐ 6k | Security |
-| 10 | [psf/black](./misc/psf-black.md) | ⭐ 41.5k | Misc |
+| 1 | [bin456789/reinstall](./devtools/bin456789-reinstall.md) | ⭐ 11.6k | DevTools |
+| 2 | [pear-devs/pear-desktop](./misc/pear-devs-pear-desktop.md) | ⭐ 31.4k | Misc |
+| 3 | [XTLS/Xray-core](./misc/xtls-xray-core.md) | ⭐ 37.8k | Misc |
+| 4 | [JunkFood02/Seal](./mobile/junkfood02-seal.md) | ⭐ 25.9k | Mobile |
+| 5 | [invoke-ai/InvokeAI](./aiml/invoke-ai-invokeai.md) | ⭐ 27k | AI/ML |
+| 6 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 14.8k | AI/ML |
+| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 8 | [arendst/Tasmota](./frontend/arendst-tasmota.md) | ⭐ 24.3k | Frontend |
+| 9 | [JetBrains/kotlin](./aiml/jetbrains-kotlin.md) | ⭐ 52.6k | AI/ML |
+| 10 | [docmost/docmost](./misc/docmost-docmost.md) | ⭐ 19.9k | Misc |
 
 ## 🚀 How it works
 

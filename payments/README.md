@@ -38,7 +38,7 @@
 | 28 | [stripe/stripe-cli](./stripe-stripe-cli.md) | ⭐ 2k | Go | 61/100 |
 | 29 | [useautumn/autumn](./useautumn-autumn.md) | ⭐ 2.5k | TypeScript | 61/100 |
 | 30 | [heyhuynhgiabuu/proxypal](./heyhuynhgiabuu-proxypal.md) | ⭐ 1.1k | TypeScript | 60/100 |
-| 31 | [rynfar/meridian](./rynfar-meridian.md) | ⭐ 944 | TypeScript | 59/100 |
+| 31 | [rynfar/meridian](./rynfar-meridian.md) | ⭐ 945 | TypeScript | 59/100 |
 | 32 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
 | 33 | [meteroid-oss/meteroid](./meteroid-oss-meteroid.md) | ⭐ 1.1k | Rust | 58/100 |
 | 34 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 866 | TypeScript | 57/100 |
@@ -61,22 +61,22 @@
 | 51 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 292 | — | 52/100 |
 | 52 | [ali-zahedi/az-iranian-bank-gateways](./ali-zahedi-az-iranian-bank-gateways.md) | ⭐ 598 | Python | 52/100 |
 | 53 | [tddworks/asc-cli](./tddworks-asc-cli.md) | ⭐ 168 | Swift | 51/100 |
-| 54 | [MusahMusah/laravel-multipayment-gateways](./musahmusah-laravel-multipayment-gateways.md) | ⭐ 88 | PHP | 51/100 |
-| 55 | [anand-92/droidproxy](./anand-92-droidproxy.md) | ⭐ 63 | HTML | 51/100 |
-| 56 | [checkout/checkout-sdk-node](./checkout-checkout-sdk-node.md) | ⭐ 67 | JavaScript | 51/100 |
-| 57 | [askalf/dario](./askalf-dario.md) | ⭐ 96 | JavaScript | 51/100 |
-| 58 | [ClickDevTech/CELERITY-panel](./clickdevtech-celerity-panel.md) | ⭐ 116 | JavaScript | 51/100 |
-| 59 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 51/100 |
-| 60 | [wevm/mppx](./wevm-mppx.md) | ⭐ 106 | TypeScript | 50/100 |
-| 61 | [braintree/braintree-android-drop-in](./braintree-braintree-android-drop-in.md) | ⭐ 125 | Java | 50/100 |
-| 62 | [dtzp555-max/ocp](./dtzp555-max-ocp.md) | ⭐ 50 | JavaScript | 50/100 |
-| 63 | [orchidfiles/ungate](./orchidfiles-ungate.md) | ⭐ 14 | TypeScript | 50/100 |
-| 64 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 66 | TypeScript | 49/100 |
-| 65 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 49/100 |
-| 66 | [CyberSource/cybersource-sdk-java](./cybersource-cybersource-sdk-java.md) | ⭐ 58 | Java | 48/100 |
-| 67 | [Adyen/adyen-salesforce-commerce-cloud](./adyen-adyen-salesforce-commerce-cloud.md) | ⭐ 103 | JavaScript | 48/100 |
-| 68 | [mollie/laravel-cashier-mollie](./mollie-laravel-cashier-mollie.md) | ⭐ 172 | PHP | 47/100 |
-| 69 | [Adyen/adyen-ruby-api-library](./adyen-adyen-ruby-api-library.md) | ⭐ 52 | Ruby | 47/100 |
+| 54 | [anand-92/droidproxy](./anand-92-droidproxy.md) | ⭐ 63 | HTML | 51/100 |
+| 55 | [checkout/checkout-sdk-node](./checkout-checkout-sdk-node.md) | ⭐ 67 | JavaScript | 51/100 |
+| 56 | [askalf/dario](./askalf-dario.md) | ⭐ 96 | JavaScript | 51/100 |
+| 57 | [ClickDevTech/CELERITY-panel](./clickdevtech-celerity-panel.md) | ⭐ 116 | JavaScript | 51/100 |
+| 58 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 51/100 |
+| 59 | [wevm/mppx](./wevm-mppx.md) | ⭐ 106 | TypeScript | 50/100 |
+| 60 | [braintree/braintree-android-drop-in](./braintree-braintree-android-drop-in.md) | ⭐ 125 | Java | 50/100 |
+| 61 | [dtzp555-max/ocp](./dtzp555-max-ocp.md) | ⭐ 50 | JavaScript | 50/100 |
+| 62 | [orchidfiles/ungate](./orchidfiles-ungate.md) | ⭐ 14 | TypeScript | 50/100 |
+| 63 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 66 | TypeScript | 49/100 |
+| 64 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 49/100 |
+| 65 | [CyberSource/cybersource-sdk-java](./cybersource-cybersource-sdk-java.md) | ⭐ 58 | Java | 48/100 |
+| 66 | [Adyen/adyen-salesforce-commerce-cloud](./adyen-adyen-salesforce-commerce-cloud.md) | ⭐ 103 | JavaScript | 48/100 |
+| 67 | [Adyen/adyen-ruby-api-library](./adyen-adyen-ruby-api-library.md) | ⭐ 52 | Ruby | 47/100 |
+| 68 | [MusahMusah/laravel-multipayment-gateways](./musahmusah-laravel-multipayment-gateways.md) | ⭐ 88 | PHP | 47/100 |
+| 69 | [mollie/laravel-cashier-mollie](./mollie-laravel-cashier-mollie.md) | ⭐ 172 | PHP | 47/100 |
 | 70 | [VictorAvelar/mollie-api-go](./victoravelar-mollie-api-go.md) | ⭐ 91 | Go | 47/100 |
 | 71 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 47/100 |
 | 72 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 46/100 |
@@ -86,7 +86,7 @@
 | 76 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 75 | Python | 43/100 |
 | 77 | [Adyen/adyen-python-api-library](./adyen-adyen-python-api-library.md) | ⭐ 65 | Python | 43/100 |
 | 78 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 242 | JavaScript | 42/100 |
-| 79 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 109 | Rust | 42/100 |
+| 79 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 110 | Rust | 42/100 |
 
 ---
 

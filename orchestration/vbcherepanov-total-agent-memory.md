@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The total-agent-memory project is an open-source initiative that provides persistent memory for Claude Code and Codex CLI, enabling the storage and visualization of auto-extracted knowledge graphs and multi-representation embeddings. This project offers a self-hosted solution with optional integration with Ollama, boasting high performance with a LongMemEval R@5 score of 97.45%. It enables developers to leverage powerful AI/ML capabilities for backend applications.
+The Total Agent Memory project is an open-source initiative that provides a persistent memory system for Claude Code & Codex CLI. This system utilizes auto-extracted knowledge graphs and multi-representation embeddings for efficient information storage and retrieval, accompanied by a 3D WebGL visualization feature. The project boasts exceptional performance, with a LongMemEval R@5 score of 97.45%.
 
 ---
 

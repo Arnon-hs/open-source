@@ -25,9 +25,7 @@ Backend · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This project, "Get Pixiv Token", is an open-source tool designed to simplify the process of obtaining a Pixiv token, a necessary credential for running the PixivPY library. The project aims to streamline the authentication process, making it easier for developers to access Pixiv's API. It is suitable for users of the upbit/pixivpy library, particularly in backend development and DevOps environments.
+The "get-pixivpy-token" project is an open-source tool that simplifies the process of obtaining a Pixiv token for use with the PixivPY library. This token is required for running the upbit/pixivpy project, and with this tool, users can easily acquire it. It falls under the categories of backend development, DevTools, and security, showcasing its importance in facilitating Pixiv-related tasks.
 
 ---
 

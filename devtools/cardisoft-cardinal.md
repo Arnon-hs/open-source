@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Cardinal is an open-source, high-speed file searching tool designed specifically for macOS. This fast and efficient utility quickly locates files and folders on your Apple device, making it an ideal choice for developers and users alike. With its streamlined functionality, Cardinal streamlines the file searching process, saving you time and effort.
+Cardinal is an open-source, high-performance file searching tool designed specifically for macOS. It utilizes optimized search algorithms to quickly locate files across the system, providing users with a fast and efficient way to navigate their digital files. With its streamlined interface and robust functionality, Cardinal is an essential tool for developers, power users, and anyone seeking a swift file search experience.
 
 ---
 

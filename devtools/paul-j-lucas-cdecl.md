@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The cdecl project is an open-source tool for parsing and generating C and C++ declarations and casts. It allows users to decipher complex 'gibberish' code snippets and compose new ones with ease. This utility is designed to aid developers in understanding and working with low-level programming concepts.
+The cdecl project is an open-source tool designed to decode and compose C and C++ declarations and casts, making it easier to understand and generate complex syntax. It helps developers decipher often cryptic declarations, often referred to as "gibberish," by breaking them down into their constituent parts. This tool can be a valuable resource for those working with low-level programming languages.
 
 ---
 
