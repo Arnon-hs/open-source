@@ -25,9 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Here is a brief summary for the chatanywhere/GPT_API_free project:
+Here's a brief summary for the project:
 
-The chatanywhere/GPT_API_free project provides a free API key for accessing leading large language models, including GPT4, DeepSeek, Claude, Gemini, and Grok, through the DeepSeek API and GPT4 API. This open-source initiative enables seamless integration of these powerful models into various applications. With this free API, developers can tap into the capabilities of these cutting-edge models without incurring significant costs.
+This open-source project, chatanywhere/GPT_API_free, offers a free API key for ChatGPT and DeepSeek services, allowing for seamless integration of top-tier large language models such as GPT4, DeepSeek, Claude, Gemini, and Grok. The API provides access to these models for free, making it an attractive option for developers and users. This project aims to make advanced AI capabilities more accessible and affordable.
 
 ---
 

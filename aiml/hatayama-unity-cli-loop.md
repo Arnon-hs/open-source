@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Unity CLI Loop project is an open-source tool designed to automate the process of developing AI-powered Unity projects. It streamlines tasks such as compilation, testing, and debugging, enabling developers to continuously refine and optimize their AI-driven Unity projects. This tool aims to reduce the time and effort required to achieve AI autopilot in Unity projects.
+The Unity CLI Loop is an open-source project that streamlines the process of developing AI autopilot systems in Unity. This tool automates repetitive tasks such as compilation, testing, and debugging, allowing developers to focus on perfecting their AI solutions. By facilitating a seamless loop of iteration and refinement, the Unity CLI Loop aims to simplify the development process and ensure that AI autopilot systems function flawlessly.
 
 ---
 

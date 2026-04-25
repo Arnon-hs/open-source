@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Apache Storm is an open-source distributed real-time computation system used for processing large amounts of data. It allows developers to process and analyze data streams in real-time, making it a popular choice for big data and IoT applications. With its highly scalable and fault-tolerant architecture, users can harness the power of distributed computing to process complex data streams efficiently.
+Apache Storm is an open-source distributed real-time processing system that enables users to process large amounts of data in real-time. It provides a flexible framework for handling high-throughput and high-availability data processing, making it suitable for various applications, including big data processing, real-time analytics, and machine learning. With Apache Storm, developers can build scalable and fault-tolerant systems for processing data streams in real-time.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend · Security
 
 ## 📝 Summary
 
-Cutter is a free and open-source reverse engineering platform that leverages the capabilities of rizin, a powerful binary analysis framework. This platform provides a user-friendly interface for security professionals, researchers, and developers to analyze and disassemble binary files, making it an essential tool for reverse engineering tasks. Cutter offers a range of features and plugins to facilitate in-depth analysis and exploration of various types of binaries.
+Cutter is a free and open-source reverse engineering platform powered by the Rizin framework, offering a user-friendly interface for in-depth analysis of binary files. This versatile tool provides a comprehensive environment for security professionals and reverse engineers to dissect and understand complex software. With cutter, users can conduct thorough reverse engineering tasks, leveraging the power of Rizin's capabilities.
 
 ---
 

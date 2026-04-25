@@ -1,6 +1,6 @@
 # kubernetes-sigs/gateway-api
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/gateway-api?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/gateway-api/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/gateway-api?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/gateway-api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/gateway-api?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/gateway-api/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/gateway-api?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/gateway-api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 705 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

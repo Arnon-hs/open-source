@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Selene is an open-source desktop application that empowers users to run AI agents locally on their machines, integrating with popular platforms such as WhatsApp, Telegram, Slack, and Discord. This comprehensive tool enables users to write code, generate images, and even build personal assistants, all while maintaining complete control over their data. By running AI agents locally, users can ensure their data remains private and secure.
+Here's a brief summary for the Selene project:
+
+Selene is an open-source, desktop application that empowers users to run AI agents directly on their local machine, integrating with popular platforms like WhatsApp, Telegram, Slack, and Discord. With Selene, users can write code, generate images, and build custom personal assistants all in one intuitive interface, while maintaining complete control over their data. This versatile tool is ideal for developers and enthusiasts looking to harness the power of AI/ML on their own terms.
 
 ---
 

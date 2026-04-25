@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The turbo project is an open-source initiative that streamlines the development process for Claude Code through modular skills. This composable dev process enables users to orchestrate and customize their workflow by combining various pre-packaged skills. By utilizing turbo, developers can efficiently build and deploy AI/ML applications.
+The turbo project is an open-source initiative that streamlines the development process for Claude Code, a modular AI/ML framework. By packaging skills into composable modules, turbo enables efficient orchestration and simplifies the workflow for developers. This project aims to enhance productivity and flexibility in AI/ML development.
 
 ---
 

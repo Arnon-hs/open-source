@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-hgrep is an open-source project that provides a human-friendly alternative to traditional grep commands, offering improved search results that are easier to understand. This tool enhances the traditional grep functionality by providing more readable and user-friendly output. By leveraging the power of grep, hgrep offers a more intuitive way to search and navigate through files and directories.
+The rhysd/hgrep project is an open-source tool that offers a user-friendly alternative to traditional grep commands, providing more intuitive search results for users. It simplifies the process of searching through files by displaying results in a human-readable format, making it easier to quickly locate the information needed. This project is ideal for developers and users seeking a more accessible search experience.
 
 ---
 

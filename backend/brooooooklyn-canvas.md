@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-This open-source project, Brooooooklyn/canvas, is a high-performance implementation of the Skia canvas, providing a fast and efficient rendering solution. Built with zero system dependencies, it allows for seamless integration into various environments with minimal setup. By using this Skia canvas, developers can create visually stunning graphics and applications with ease.
+The Brooooooklyn/canvas project offers a fast and lightweight implementation of the Skia canvas, a powerful graphics library, with no system dependencies. This makes it an ideal choice for developers looking to integrate high-performance graphics capabilities into their applications without added complexity. By leveraging this open-source solution, users can create visually engaging and efficient graphics-intensive projects.
 
 ---
 

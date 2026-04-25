@@ -27,7 +27,7 @@ Orchestration · AI/ML · Frontend
 
 Here's a brief summary of the project:
 
-The call518/MCP-Airflow-API project is an open-source Model Context Protocol (MCP) server that integrates seamlessly with the Apache Airflow API. This project offers a comprehensive suite of tools for managing Airflow clusters, including service operations, configuration management, status monitoring, and request tracking. By leveraging MCP and Airflow, users can streamline their workflow and data management processes with enhanced visibility and control.
+The MCP-Airflow-API is an open-source project that integrates Model Context Protocol (MCP) with Apache Airflow, providing a comprehensive API for managing Airflow clusters. This includes tools for service operations, configuration management, status monitoring, and request tracking, making it easier to orchestrate and manage AI/ML workflows. The project aims to streamline Airflow cluster management and improve overall efficiency.
 
 ---
 

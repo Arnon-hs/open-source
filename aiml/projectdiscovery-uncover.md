@@ -25,7 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Project Uncover is an open-source tool that rapidly discovers exposed hosts on the internet by leveraging multiple search engines. This tool simplifies the process of identifying potential security vulnerabilities by providing a centralized interface for searching across various search engines. By utilizing AI/ML and frontend technologies, Uncover aids security researchers and professionals in their efforts to uncover exposed hosts.
+Here's a brief summary for the projectdiscovery/uncover open-source project:
+
+Project Discovery's Uncover is an open-source tool that employs multiple search engines to rapidly identify exposed hosts on the internet, helping security professionals and researchers streamline their discovery processes. Utilizing AI/ML and frontend techniques, Uncover provides a user-friendly interface for searching and filtering results. This project aims to simplify and accelerate the process of identifying vulnerable hosts for security auditing and penetration testing.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The mx-space/core project is an open-source, AI-driven content management system (CMS) core designed for personal blogs and creator websites. It offers advanced features such as AI-powered summaries, translation capabilities, content moderation tools, and streamlined writing workflows. This project aims to simplify content creation and management for users, leveraging the capabilities of artificial intelligence to enhance their online presence.
+mx-space/core is an open-source AI-powered Content Management System (CMS) core designed for personal blogs and creator websites. It offers advanced features such as AI-generated summaries, translation capabilities, moderation tools, and streamlined writing workflows, empowering creators to efficiently manage their online presence. This project leverages artificial intelligence and machine learning to enhance the user experience and content management.
 
 ---
 

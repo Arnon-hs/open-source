@@ -25,7 +25,7 @@ Crypto · Trading
 
 ## 📝 Summary
 
-Mostro is an open-source, peer-to-peer exchange platform built on the Lightning Network for the Nostr protocol. It enables users to securely and efficiently trade cryptocurrencies in a decentralized manner, facilitating faster and more private transactions. This platform aims to provide a reliable and transparent environment for cryptocurrency trading.
+Mostro is an open-source, peer-to-peer exchange platform built on top of the Lightning Network and Nostr protocol. This platform enables fast, secure, and decentralized transactions, making it an attractive solution for cryptocurrency traders seeking a more efficient and private exchange experience. By harnessing the power of Nostr and the Lightning Network, Mostro aims to revolutionize the way people buy and sell digital assets.
 
 ---
 

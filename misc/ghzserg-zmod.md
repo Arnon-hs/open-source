@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The ghzserg/zmod open-source project is a community-driven effort to provide support and modifications for the Adventurer 5M / 5M Pro / AD5X ZMOD, a high-frequency measurement tool. This project aims to expand the capabilities of the device and make it more accessible to users through collaborative development and sharing of custom software and firmware. By contributing to this project, users can enhance their experience with the Adventurer ZMOD and push the boundaries of its functionality.
+The ghzserg/zmod project is an open-source repository providing documentation and resources for the Adventurer 5M, 5M Pro, and AD5X ZMOD devices. These devices are likely used for scientific and technical applications, such as signal measurement and analysis, and the project aims to facilitate their use and development within the community. The repository likely includes information on device specifications, usage examples, and potential integrations with other software or hardware systems.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Linearis is an open-source CLI tool for Linear.app that provides structured data output in JSON format. It features smart ID resolution and optimized GraphQL queries, making it a valuable resource for both Large Language Model (LLM) agents and developers who prefer organized data. This tool is designed to simplify data access and improve workflow efficiency.
+Here's a brief summary for the open-source project:
+
+Linearis is an open-source CLI tool designed to interact with Linear.app, providing structured data in JSON format. It offers smart ID resolution and optimized GraphQL queries, making it an ideal solution for large language model (LLM) agents and humans who require easily digestible data. This tool streamlines the process of extracting insights from Linear.app, enhancing productivity and data-driven decision making.
 
 ---
 

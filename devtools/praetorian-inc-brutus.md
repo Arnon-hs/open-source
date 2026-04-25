@@ -25,7 +25,7 @@ DevTools · Security
 
 ## 📝 Summary
 
-Brutus is a fast, zero-dependency credential testing tool written in Go. It supports over 20+ protocols, including SSH, MySQL, PostgreSQL, Redis, MongoDB, and SMB, offering a comprehensive solution for brute-force attacks. As an alternative to Hydra, Brutus also integrates with the nerva/naabu pipeline for enhanced security testing capabilities.
+Brutus is an open-source, zero-dependency credential testing tool written in Go, designed for fast and efficient protocol scanning. It supports brute force attacks on over 20 protocols, including SSH, MySQL, PostgreSQL, Redis, MongoDB, and SMB, making it a powerful alternative to Hydra. Additionally, Brutus seamlessly integrates with Nerva and Naabu pipelines for streamlined security auditing.
 
 ---
 

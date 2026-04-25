@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary for the open-source project:
 
-MCP-OpenStack-Ops is an open-source project that automates professional OpenStack operations through a centralized server. It provides specialized tools for monitoring clusters, managing instances, controlling volumes, and analyzing networks, making it ideal for DevOps and cloud automation. With its integration of FastMCP, OpenStack SDK, and bearer authentication, this project offers a comprehensive solution for managing complex cloud environments.
+MCP-OpenStack-Ops is an open-source project that automates professional OpenStack operations with a focus on monitoring, management, and analysis. This project utilizes the FastMCP server, OpenStack SDK, and Bearer authentication to provide a comprehensive toolkit for DevOps and cloud automation. By leveraging these technologies, users can streamline their OpenStack operations and improve overall efficiency.
 
 ---
 

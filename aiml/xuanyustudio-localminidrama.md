@@ -25,9 +25,9 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary of the LocalMiniDrama project:
 
-LocalMiniDrama is an open-source, locally-run AI-powered short drama and comic book creation tool. This innovative platform allows users to create projects from story to final video, entirely offline, with complete control over their data. With its high degree of flexibility and support for AI-generated human-like drama and comics, LocalMiniDrama streamlines the creative process.
+LocalMiniDrama is an open-source, locally-run AI-powered tool for creating short dramas and comics. It enables users to generate a complete video production, from story to final product, without requiring any data to be sent to external servers. This platform offers a high degree of flexibility and supports both AI-generated human-drama and comic-style content.
 
 ---
 

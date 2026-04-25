@@ -1,6 +1,6 @@
 # google-ai-edge/LiteRT-LM
 
-[![Stars](https://img.shields.io/github/stars/google-ai-edge/LiteRT-LM?style=flat-square&color=yellow)](https://github.com/google-ai-edge/LiteRT-LM/stargazers) [![Forks](https://img.shields.io/github/forks/google-ai-edge/LiteRT-LM?style=flat-square&color=blue)](https://github.com/google-ai-edge/LiteRT-LM/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-ai-edge/LiteRT-LM?style=flat-square&color=yellow)](https://github.com/google-ai-edge/LiteRT-LM/stargazers) [![Forks](https://img.shields.io/github/forks/google-ai-edge/LiteRT-LM?style=flat-square&color=blue)](https://github.com/google-ai-edge/LiteRT-LM/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 426 |
+| 🍴 **Forks** | 427 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

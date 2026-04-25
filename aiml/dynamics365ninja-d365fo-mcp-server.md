@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a 2-3 sentence summary for the open-source project:
 
-The d365fo-mcp-server is an open-source project that enables advanced functionality for Dynamics 365 Finance & Operations, including intelligent code navigation, EDT suggestions, and AI-driven table/form generation. This project utilizes standard and custom indexed X++ objects to provide features similar to IntelliSense, facilitating developer productivity and efficiency. It also integrates with GitHub Copilot for pattern-based code completion.
+This open-source project, d365fo-mcp-server, is a Dynamics 365 Finance & Operations MCP (Meta-Code Processing) server that offers advanced features such as IntelliSense-like code navigation, intelligent EDT suggestions, and AI-driven table/form generation. It also enables pattern-based code completion for seamless GitHub Copilot integration, enhancing the development experience for Dynamics 365 Finance & Operations users. By utilizing AI/ML technologies, this project streamlines coding tasks and improves productivity.
 
 ---
 

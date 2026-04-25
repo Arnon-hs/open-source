@@ -1,6 +1,6 @@
 # bergside/design-md-chrome
 
-[![Stars](https://img.shields.io/github/stars/bergside/design-md-chrome?style=flat-square&color=yellow)](https://github.com/bergside/design-md-chrome/stargazers) [![Forks](https://img.shields.io/github/forks/bergside/design-md-chrome?style=flat-square&color=blue)](https://github.com/bergside/design-md-chrome/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bergside/design-md-chrome?style=flat-square&color=yellow)](https://github.com/bergside/design-md-chrome/stargazers) [![Forks](https://img.shields.io/github/forks/bergside/design-md-chrome?style=flat-square&color=blue)](https://github.com/bergside/design-md-chrome/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 157 |
+| 🍴 **Forks** | 158 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

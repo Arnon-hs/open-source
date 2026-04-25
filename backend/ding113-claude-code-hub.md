@@ -1,6 +1,6 @@
 # ding113/claude-code-hub
 
-[![Stars](https://img.shields.io/github/stars/ding113/claude-code-hub?style=flat-square&color=yellow)](https://github.com/ding113/claude-code-hub/stargazers) [![Forks](https://img.shields.io/github/forks/ding113/claude-code-hub?style=flat-square&color=blue)](https://github.com/ding113/claude-code-hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ding113/claude-code-hub?style=flat-square&color=yellow)](https://github.com/ding113/claude-code-hub/stargazers) [![Forks](https://img.shields.io/github/forks/ding113/claude-code-hub?style=flat-square&color=blue)](https://github.com/ding113/claude-code-hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.6k |
-| 🍴 **Forks** | 297 |
+| ⭐ **Stars** | 2.7k |
+| 🍴 **Forks** | 298 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

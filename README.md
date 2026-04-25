@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5291** |
+| 🗂️ **Total projects** | **5381** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2061 | [Browse →](./aiml/) |
-| 📦 **Misc** | 851 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 518 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 504 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 310 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 295 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 192 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 2098 | [Browse →](./aiml/) |
+| 📦 **Misc** | 874 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 530 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 509 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 314 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 298 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 193 | [Browse →](./crypto/) |
 | 📊 **Data** | 130 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 120 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 78 | [Browse →](./payments/) |
-| 📱 **Mobile** | 75 | [Browse →](./mobile/) |
-| 📈 **Trading** | 58 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 121 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 79 | [Browse →](./payments/) |
+| 📱 **Mobile** | 76 | [Browse →](./mobile/) |
+| 📈 **Trading** | 59 | [Browse →](./trading/) |
 | 🔐 **Security** | 54 | [Browse →](./security/) |
-| ✨ **Design** | 22 | [Browse →](./design/) |
+| ✨ **Design** | 23 | [Browse →](./design/) |
 | 🎯 **Product** | 17 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 6 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [laramies/theHarvester](./aiml/laramies-theharvester.md) | ⭐ 16.1k | AI/ML |
-| 2 | [novuhq/novu](./aiml/novuhq-novu.md) | ⭐ 38.9k | AI/ML |
-| 3 | [apache/hudi](./data/apache-hudi.md) | ⭐ 6.1k | Data |
-| 4 | [wilsonfreitas/awesome-quant](./trading/wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | Trading |
-| 5 | [cvxpy/cvxpy](./misc/cvxpy-cvxpy.md) | ⭐ 6.2k | Misc |
-| 6 | [enricoros/big-AGI](./aiml/enricoros-big-agi.md) | ⭐ 6.9k | AI/ML |
-| 7 | [apache/datafusion](./data/apache-datafusion.md) | ⭐ 8.6k | Data |
-| 8 | [clockworklabs/SpacetimeDB](./backend/clockworklabs-spacetimedb.md) | ⭐ 24.6k | Backend |
-| 9 | [vercel/ai](./aiml/vercel-ai.md) | ⭐ 23.8k | AI/ML |
-| 10 | [m1k1o/neko](./frontend/m1k1o-neko.md) | ⭐ 20.7k | Frontend |
+| 1 | [pear-devs/pear-desktop](./misc/pear-devs-pear-desktop.md) | ⭐ 31.4k | Misc |
+| 2 | [XTLS/Xray-core](./misc/xtls-xray-core.md) | ⭐ 37.8k | Misc |
+| 3 | [cvxpy/cvxpy](./misc/cvxpy-cvxpy.md) | ⭐ 6.2k | Misc |
+| 4 | [arendst/Tasmota](./frontend/arendst-tasmota.md) | ⭐ 24.3k | Frontend |
+| 5 | [ChromeDevTools/chrome-devtools-mcp](./aiml/chromedevtools-chrome-devtools-mcp.md) | ⭐ 37.2k | AI/ML |
+| 6 | [docmost/docmost](./misc/docmost-docmost.md) | ⭐ 19.9k | Misc |
+| 7 | [microsoft/terminal](./misc/microsoft-terminal.md) | ⭐ 102.9k | Misc |
+| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 9 | [gnuradio/gnuradio](./security/gnuradio-gnuradio.md) | ⭐ 6k | Security |
+| 10 | [psf/black](./misc/psf-black.md) | ⭐ 41.5k | Misc |
 
 ## 🚀 How it works
 

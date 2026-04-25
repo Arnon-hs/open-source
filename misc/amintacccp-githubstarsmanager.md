@@ -1,6 +1,6 @@
 # AmintaCCCP/GithubStarsManager
 
-[![Stars](https://img.shields.io/github/stars/AmintaCCCP/GithubStarsManager?style=flat-square&color=yellow)](https://github.com/AmintaCCCP/GithubStarsManager/stargazers) [![Forks](https://img.shields.io/github/forks/AmintaCCCP/GithubStarsManager?style=flat-square&color=blue)](https://github.com/AmintaCCCP/GithubStarsManager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmintaCCCP/GithubStarsManager?style=flat-square&color=yellow)](https://github.com/AmintaCCCP/GithubStarsManager/stargazers) [![Forks](https://img.shields.io/github/forks/AmintaCCCP/GithubStarsManager?style=flat-square&color=blue)](https://github.com/AmintaCCCP/GithubStarsManager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An app for managing github starred repositories.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 83 |
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 87 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

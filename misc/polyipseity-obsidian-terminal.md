@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The open-source project "polyipseity/obsidian-terminal" aims to seamlessly integrate various consoles, shells, and terminals into a unified interface, enhancing user productivity and flexibility. This project bridges the gap between different terminal applications, allowing users to access a wide range of tools and features from a single, streamlined environment. By providing a unified terminal experience, users can switch between different shells and consoles with ease.
+The obsidian-terminal project allows users to seamlessly integrate consoles, shells, and terminals into their Obsidian workspace, enhancing productivity and flexibility. By extending Obsidian's capabilities, this open-source integration provides a unified interface for various command-line tools and applications. This integration enables users to leverage the power of the terminal within the comfort of their note-taking environment.
 
 ---
 

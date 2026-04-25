@@ -25,7 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The call518/MCP-PostgreSQL-Ops project is a professional and open-source MCP server designed for PostgreSQL operations and monitoring. It features over 30 extension-independent tools that enable performance analysis, table bloat detection, autovacuum monitoring, schema introspection, and database management. This versatile tool supports PostgreSQL versions 12 and above, providing extensive capabilities for database administrators and management.
+Here's a brief summary of the project:
+
+MCP-PostgreSQL-Ops is an open-source, professional server for PostgreSQL operations and monitoring. It offers over 30 extension-independent tools for tasks such as performance analysis, table bloat detection, and schema introspection, ensuring efficient database management. Compatible with PostgreSQL 12+, this toolset supports a wide range of operations and monitoring needs.
 
 ---
 

@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14k |
-| 🍴 **Forks** | 1.6k |
+| ⭐ **Stars** | 14.1k |
+| 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C |
 | 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |

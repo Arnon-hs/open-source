@@ -25,7 +25,7 @@ DevTools · Security
 
 ## 📝 Summary
 
-The 0-don/clippy project is an open-source clipboard manager designed with a focus on user privacy. It offers features like synchronization and encryption to ensure secure data storage, providing users with a convenient and protected way to access and manage their clipboard history. This tool aims to strike a balance between usability and security, making it an attractive option for those seeking a private clipboard management solution.
+0-don/clippy is an open-source, privacy-focused clipboard manager that prioritizes user security and data protection. This tool offers seamless synchronization and robust encryption features to safeguard sensitive information. By utilizing clippy, users can securely store and manage their clipboard data with peace of mind.
 
 ---
 

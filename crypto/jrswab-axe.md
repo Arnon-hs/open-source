@@ -25,7 +25,7 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-Axe is a lightweight, open-source command-line interface (CLI) that enables the creation and execution of single-purpose AI agents. These agents can be defined in a TOML configuration file, allowing users to trigger them from various sources such as pipes, Git hooks, or cron jobs. This flexible framework streamlines the integration of focused AI capabilities into diverse workflows.
+The jrswab/axe project is an open-source, lightweight command-line interface (CLI) for running single-purpose AI agents. It allows users to define and trigger focused agents using a TOML configuration file, enabling seamless integration with various tools and workflows. This versatile CLI can be invoked from terminal, pipes, Git hooks, or cron jobs, making it a valuable tool for developers and researchers working with AI/ML and cryptocurrency applications.
 
 ---
 

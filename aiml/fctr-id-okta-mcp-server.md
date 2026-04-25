@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The Okta MCP Server is an innovative, open-source tool developed by Fctr that allows AI models to communicate directly with Okta environments through the Model Context Protocol (MCP). This groundbreaking tool is designed for IAM engineers, security teams, and Okta administrators, facilitating seamless interaction with Okta entities. By implementing the MCP specification, it bridges the gap between AI and IAM, empowering more efficient and secure management of Okta environments.
+The Okta MCP Server is an open-source project developed by Fctr that facilitates seamless interactions between AI models and Okta environments using the Model Context Protocol (MCP). Designed for IAM engineers, security teams, and Okta administrators, this tool enables efficient management of Okta entities and streamlines AI model integration with Okta. By implementing the MCP specification, it simplifies collaboration between these previously disparate systems.
 
 ---
 

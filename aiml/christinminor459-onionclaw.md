@@ -1,6 +1,6 @@
 # christinminor459/OnionClaw
 
-[![Stars](https://img.shields.io/github/stars/christinminor459/OnionClaw?style=flat-square&color=yellow)](https://github.com/christinminor459/OnionClaw/stargazers) [![Forks](https://img.shields.io/github/forks/christinminor459/OnionClaw?style=flat-square&color=blue)](https://github.com/christinminor459/OnionClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/christinminor459/OnionClaw?style=flat-square&color=yellow)](https://github.com/christinminor459/OnionClaw/stargazers) [![Forks](https://img.shields.io/github/forks/christinminor459/OnionClaw?style=flat-square&color=blue)](https://github.com/christinminor459/OnionClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 39 |
+| ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

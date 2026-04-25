@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the hanlulong/openecon-data project:
-
-The openecon-data project provides a comprehensive open-source platform for accessing economic data, aggregating over 330,000 indicators from reputable sources such as FRED, World Bank, IMF, and Eurostat. This platform features a MCP (Message Queue Telemetry Transport) server and user-friendly web UI, making it an essential tool for AI agents and data analysts seeking accurate and reliable economic data.
+The openecon-data project is an open-source initiative that provides AI and machine learning models with accurate economic data from credible sources such as FRED, World Bank, IMF, and Eurostat. It offers a comprehensive dataset of over 330,000 indicators, accompanied by a MCP (Multi-Cloud Platform) server and a user-friendly web interface for seamless data access. This project empowers developers to create informed AI-driven applications and solutions.
 
 ---
 

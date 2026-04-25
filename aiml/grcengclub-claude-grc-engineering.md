@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-The Claude GRC Engineering project is an open-source toolkit developed by the GRC Engineering Club. It provides a collection of plugins and tools for evidence collection, SCF crosswalks, multi-framework gap reports, and OSCAL workflows, enhancing the capabilities of AI/ML, DevOps/Infrastructure, and Security applications. This open-source project aims to facilitate more efficient and effective GRC (Governance, Risk, and Compliance) processes.
+The Claude GRC (Governance, Risk, and Compliance) Engineering project is an open-source toolkit developed by the GRC Engineering Club. This toolkit provides plugins for evidence collection, crosswalks for Security Control Families (SCF), multi-framework gap reports, and OSCAL (Open Security Controls Assessment Language) workflows. It enables organizations to streamline their GRC processes and improve their overall security posture.
 
 ---
 

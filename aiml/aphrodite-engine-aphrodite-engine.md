@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Aphrodite Engine is an open-source, large-scale LLM (Large Language Model) inference engine designed for scalable and efficient processing of AI-driven applications. Built with a focus on high-performance computing, this project enables developers to integrate and deploy complex language models with ease, unlocking a wide range of possibilities in natural language processing and artificial intelligence.
+The Aphrodite Engine is an open-source, large-scale Language Model (LLM) inference engine designed to efficiently process complex AI tasks. Built for high-performance and scalability, this engine enables developers to harness the power of LLMs in a wide range of applications. Its open-source nature fosters collaboration and innovation in the field of AI/ML.
 
 ---
 
