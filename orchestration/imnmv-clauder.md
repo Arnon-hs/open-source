@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-IMNMV/ClaudeR is an open-source project that enables seamless integration of multiple large language models (LLMs) with RStudio via the Model Collaboration Platform (MCP). This project offers multi-agent orchestration, automated manuscript auditing, and a zero-configuration setup using uvx, simplifying the process of working with various LLM agents such as Claude Code, Codex, and Gemini.
+IMNMV/ClaudeR is an open-source project that enables seamless integration between RStudio and various Large Language Model (LLM) agents, including Claude Code, Codex, and Gemini. This project utilizes Micro-Controller Protocol (MCP) to facilitate multi-agent orchestration and automated manuscript auditing, streamlining workflows with a zero-configuration setup via uvx. It leverages the power of LLM agents to enhance AI-driven development in RStudio.
 
 ---
 

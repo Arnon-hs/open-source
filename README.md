@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6055** |
+| 🗂️ **Total projects** | **6150** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2324 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1037 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 600 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 551 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 356 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 339 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 219 | [Browse →](./crypto/) |
-| 📊 **Data** | 143 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 2366 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1057 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 611 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 556 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 361 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 342 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 221 | [Browse →](./crypto/) |
+| 📊 **Data** | 144 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 127 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 91 | [Browse →](./mobile/) |
-| 💳 **Payments** | 89 | [Browse →](./payments/) |
-| 🔐 **Security** | 64 | [Browse →](./security/) |
+| 📱 **Mobile** | 94 | [Browse →](./mobile/) |
+| 💳 **Payments** | 90 | [Browse →](./payments/) |
+| 🔐 **Security** | 66 | [Browse →](./security/) |
 | 📈 **Trading** | 63 | [Browse →](./trading/) |
 | ✨ **Design** | 24 | [Browse →](./design/) |
 | 🎯 **Product** | 19 | [Browse →](./product/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [ngosang/trackerslist](./misc/ngosang-trackerslist.md) | ⭐ 53.6k | Misc |
-| 2 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.5k | AI/ML |
-| 3 | [firebase/firebase-ios-sdk](./aiml/firebase-firebase-ios-sdk.md) | ⭐ 6.6k | AI/ML |
-| 4 | [projectdiscovery/nuclei](./aiml/projectdiscovery-nuclei.md) | ⭐ 28.1k | AI/ML |
-| 5 | [casdoor/casdoor](./aiml/casdoor-casdoor.md) | ⭐ 13.5k | AI/ML |
-| 6 | [astral-sh/ruff](./frontend/astral-sh-ruff.md) | ⭐ 47.2k | Frontend |
-| 7 | [matplotlib/matplotlib](./data/matplotlib-matplotlib.md) | ⭐ 22.7k | Data |
-| 8 | [alam00000/bentopdf](./devopsinfra/alam00000-bentopdf.md) | ⭐ 12.9k | DevOps & Infra |
-| 9 | [alibaba/nacos](./aiml/alibaba-nacos.md) | ⭐ 32.9k | AI/ML |
-| 10 | [flybywiresim/aircraft](./aiml/flybywiresim-aircraft.md) | ⭐ 5.4k | AI/ML |
+| 2 | [projectdiscovery/nuclei](./aiml/projectdiscovery-nuclei.md) | ⭐ 28.1k | AI/ML |
+| 3 | [casdoor/casdoor](./aiml/casdoor-casdoor.md) | ⭐ 13.5k | AI/ML |
+| 4 | [astral-sh/ruff](./frontend/astral-sh-ruff.md) | ⭐ 47.2k | Frontend |
+| 5 | [matplotlib/matplotlib](./data/matplotlib-matplotlib.md) | ⭐ 22.7k | Data |
+| 6 | [alam00000/bentopdf](./devopsinfra/alam00000-bentopdf.md) | ⭐ 12.9k | DevOps & Infra |
+| 7 | [alibaba/nacos](./aiml/alibaba-nacos.md) | ⭐ 32.9k | AI/ML |
+| 8 | [flybywiresim/aircraft](./aiml/flybywiresim-aircraft.md) | ⭐ 5.4k | AI/ML |
+| 9 | [labstack/echo](./backend/labstack-echo.md) | ⭐ 32.3k | Backend |
+| 10 | [siteboon/claudecodeui](./aiml/siteboon-claudecodeui.md) | ⭐ 10.2k | AI/ML |
 
 ## 🚀 How it works
 

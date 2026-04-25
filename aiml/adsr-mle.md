@@ -25,7 +25,7 @@ AI/ML · Marketing
 
 ## 📝 Summary
 
-The adsr/mle project is an open-source, terminal-based text editor written in C, designed to provide a flexible and customizable editing experience. This editor offers a range of features and functionality, although specific details are not provided in the description. It appears to cater to users who require a specialized text editing environment, possibly for AI/ML or marketing applications.
+The adsr/mle project offers a flexible and user-friendly terminal-based text editor written in C. It is designed to cater to a wide range of text editing needs while maintaining an intuitive interface and high customizability. This open-source project can be a valuable asset for developers and users seeking a feature-rich, command-line text editor.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The UniFi-MCP project provides open-source MCP (Management Controller Protocol) servers for the UniFi suite of applications, enabling users to access and manage their network, protect, access, and drive services without relying on proprietary software. This project offers a flexible and community-driven solution for UniFi users seeking greater control and customization of their network management experience. By utilizing UniFi-MCP servers, users can unlock new possibilities for their networks and systems.
+The unifi-mcp project is an open-source initiative providing MCP (Machine Control Protocol) servers for various UniFi applications, including Network, Protect, Access, and Drive. These MCP servers enable developers to build custom integrations and solutions using the UniFi ecosystem. The project supports both frontend and backend categories, with AI/ML capabilities, and is available for community contribution and use.
 
 ---
 

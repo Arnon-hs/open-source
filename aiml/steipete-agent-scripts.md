@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, steipete/agent-scripts, is a collection of shared scripts for agents used in AI and ML applications. The repository provides a centralized location for scripts that can be utilized across various projects, promoting code reuse and simplifying development. This project supports the development of efficient and streamlined agent-based AI and ML systems.
+The steipete/agent-scripts project is an open-source repository containing a collection of scripts designed for use by agents in various AI and machine learning applications. This shared resource allows developers to leverage a unified set of tools and utilities across multiple projects, promoting consistency and efficiency. By providing these agent scripts, the project facilitates the development and deployment of intelligent systems.
 
 ---
 

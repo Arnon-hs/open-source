@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 708 |
-| 🍴 **Forks** | 138 |
+| 🍴 **Forks** | 139 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The KiCAD-MCP-Server is an open-source project that facilitates seamless interaction between Large Language Models (LLMs) and KiCAD for printed circuit board design. This Model Context Protocol (MCP) implementation empowers LLMs, such as Claude, to directly communicate with KiCAD, streamlining the design process. By bridging AI and electronic design automation, this project enhances collaboration between human designers and LLMs.
+Here's a brief summary for the open-source project:
+
+The KiCAD MCP Server is an open-source project that enables seamless interaction between Large Language Models (LLMs) and KiCAD for printed circuit board (PCB) design. By implementing the Model Context Protocol (MCP), this project facilitates direct communication between LLMs like Claude and KiCAD, streamlining the PCB design process. This integration paves the way for AI-assisted PCB design and enhances collaboration between humans and AI models.
 
 ---
 

@@ -1,8 +1,8 @@
 # teee79A/vyrdon
 
-[![Stars](https://img.shields.io/github/stars/teee79A/vyrdon?style=flat-square&color=yellow)](https://github.com/teee79A/vyrdon/stargazers) [![Forks](https://img.shields.io/github/forks/teee79A/vyrdon?style=flat-square&color=blue)](https://github.com/teee79A/vyrdon/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teee79A/vyrdon?style=flat-square&color=yellow)](https://github.com/teee79A/vyrdon/stargazers) [![Forks](https://img.shields.io/github/forks/teee79A/vyrdon?style=flat-square&color=blue)](https://github.com/teee79A/vyrdon/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-0%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> _No description provided._
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 0/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Misc
+_uncategorized_
 
 ## 📝 Summary
 

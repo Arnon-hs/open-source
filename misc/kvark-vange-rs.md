@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The vange-rs project is an open-source, Rust-based clone of the classic 3D racing game Vangers. This recreation aims to capture the original game's spirit and gameplay while utilizing modern technology and design principles. It offers a unique blend of racing and exploration elements set in a futuristic, sci-fi world.
+The kvark/vange-rs project is an open-source, Rust-based implementation of Vangers, a classic racing game series. This clone seeks to recreate the original game's mechanics and experience, offering a nostalgic gaming option for enthusiasts. By utilizing the Rust programming language, the project provides a modern take on a retro gaming classic.
 
 ---
 

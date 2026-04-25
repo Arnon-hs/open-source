@@ -1,6 +1,6 @@
 # JulienAvezou/ai-course-generator
 
-[![Stars](https://img.shields.io/github/stars/JulienAvezou/ai-course-generator?style=flat-square&color=yellow)](https://github.com/JulienAvezou/ai-course-generator/stargazers) [![Forks](https://img.shields.io/github/forks/JulienAvezou/ai-course-generator?style=flat-square&color=blue)](https://github.com/JulienAvezou/ai-course-generator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JulienAvezou/ai-course-generator?style=flat-square&color=yellow)](https://github.com/JulienAvezou/ai-course-generator/stargazers) [![Forks](https://img.shields.io/github/forks/JulienAvezou/ai-course-generator?style=flat-square&color=blue)](https://github.com/JulienAvezou/ai-course-generator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
 > Build custom code fundamentals courses with github and AI integrated workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 34/100 |
+| 📈 **Score** | 30/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**89 projects** in this category.
+**90 projects** in this category.
 
 ## Projects
 
@@ -48,13 +48,13 @@
 | 38 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 781 | C# | 56/100 |
 | 39 | [VladSez/easy-invoice-pdf](./vladsez-easy-invoice-pdf.md) | ⭐ 765 | TypeScript | 56/100 |
 | 40 | [AuthorizeNet/sdk-php](./authorizenet-sdk-php.md) | ⭐ 454 | PHP | 55/100 |
-| 41 | [open-condo-software/condo](./open-condo-software-condo.md) | ⭐ 336 | JavaScript | 54/100 |
-| 42 | [jazzband/django-newsletter](./jazzband-django-newsletter.md) | ⭐ 910 | Python | 53/100 |
-| 43 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 176 | PHP | 53/100 |
-| 44 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
-| 45 | [elC0mpa/aws-doctor](./elc0mpa-aws-doctor.md) | ⭐ 418 | Go | 53/100 |
-| 46 | [nymtech/nym-vpn-client](./nymtech-nym-vpn-client.md) | ⭐ 397 | Rust | 53/100 |
-| 47 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
+| 41 | [open-condo-software/condo](./open-condo-software-condo.md) | ⭐ 335 | JavaScript | 54/100 |
+| 42 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
+| 43 | [jazzband/django-newsletter](./jazzband-django-newsletter.md) | ⭐ 910 | Python | 53/100 |
+| 44 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 176 | PHP | 53/100 |
+| 45 | [nymtech/nym-vpn-client](./nymtech-nym-vpn-client.md) | ⭐ 397 | Rust | 53/100 |
+| 46 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
+| 47 | [elC0mpa/aws-doctor](./elc0mpa-aws-doctor.md) | ⭐ 418 | Go | 53/100 |
 | 48 | [agentic-commerce-protocol/agentic-commerce-protocol](./agentic-commerce-protocol-agentic-commerce-protocol.md) | ⭐ 1.4k | JavaScript | 53/100 |
 | 49 | [braintree/android-card-form](./braintree-android-card-form.md) | ⭐ 374 | Java | 52/100 |
 | 50 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 52/100 |
@@ -84,19 +84,20 @@
 | 74 | [Adyen/adyen-ruby-api-library](./adyen-adyen-ruby-api-library.md) | ⭐ 52 | Ruby | 47/100 |
 | 75 | [shetabit/payment](./shetabit-payment.md) | ⭐ 941 | PHP | 46/100 |
 | 76 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 46/100 |
-| 77 | [WorkSmartAI-alt/ai-visibility-monitor](./worksmartai-alt-ai-visibility-monitor.md) | ⭐ 5 | Python | 45/100 |
-| 78 | [mollie/Shopware6](./mollie-shopware6.md) | ⭐ 64 | PHP | 45/100 |
-| 79 | [fawry-api/fawry](./fawry-api-fawry.md) | ⭐ 69 | Ruby | 45/100 |
+| 77 | [mollie/Shopware6](./mollie-shopware6.md) | ⭐ 64 | PHP | 45/100 |
+| 78 | [fawry-api/fawry](./fawry-api-fawry.md) | ⭐ 69 | Ruby | 45/100 |
+| 79 | [WorkSmartAI-alt/ai-visibility-monitor](./worksmartai-alt-ai-visibility-monitor.md) | ⭐ 5 | Python | 45/100 |
 | 80 | [Adyen/adyen-python-api-library](./adyen-adyen-python-api-library.md) | ⭐ 65 | Python | 43/100 |
 | 81 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 75 | Python | 43/100 |
-| 82 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 42/100 |
-| 83 | [AuthorizeNet/sdk-dotnet](./authorizenet-sdk-dotnet.md) | ⭐ 154 | C# | 42/100 |
-| 84 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 242 | JavaScript | 42/100 |
-| 85 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 111 | Rust | 42/100 |
-| 86 | [protonemedia/laravel-paddle](./protonemedia-laravel-paddle.md) | ⭐ 202 | PHP | 40/100 |
-| 87 | [PtPrashantTripathi/linkpe](./ptprashanttripathi-linkpe.md) | ⭐ 98 | HTML | 40/100 |
-| 88 | [anthropics/claude-code](./anthropics-claude-code.md) | ⭐ — | — | 39/100 |
+| 82 | [juspay/decision-engine](./juspay-decision-engine.md) | ⭐ 114 | Rust | 43/100 |
+| 83 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 42/100 |
+| 84 | [AuthorizeNet/sdk-dotnet](./authorizenet-sdk-dotnet.md) | ⭐ 154 | C# | 42/100 |
+| 85 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 242 | JavaScript | 42/100 |
+| 86 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 111 | Rust | 42/100 |
+| 87 | [protonemedia/laravel-paddle](./protonemedia-laravel-paddle.md) | ⭐ 202 | PHP | 40/100 |
+| 88 | [PtPrashantTripathi/linkpe](./ptprashanttripathi-linkpe.md) | ⭐ 98 | HTML | 40/100 |
 | 89 | [AutoFTbot/Qris-OrderKuota](./autoftbot-qris-orderkuota.md) | ⭐ 63 | PHP | 39/100 |
+| 90 | [shetabit/multipay](./shetabit-multipay.md) | ⭐ 291 | PHP | 38/100 |
 
 ---
 

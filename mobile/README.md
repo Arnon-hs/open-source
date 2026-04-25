@@ -2,15 +2,15 @@
 
 > iOS, Android, cross-platform apps
 
-**91 projects** in this category.
+**94 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [JunkFood02/Seal](./junkfood02-seal.md) | ⭐ 25.9k | Kotlin | 100/100 |
-| 2 | [TeamNewPipe/NewPipe](./teamnewpipe-newpipe.md) | ⭐ 37.9k | Java | 100/100 |
-| 3 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 112.9k | Rust | 100/100 |
+| 2 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 112.9k | Rust | 100/100 |
+| 3 | [TeamNewPipe/NewPipe](./teamnewpipe-newpipe.md) | ⭐ 37.9k | Java | 100/100 |
 | 4 | [immich-app/immich](./immich-app-immich.md) | ⭐ 98.6k | TypeScript | 100/100 |
 | 5 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.5k | C | 100/100 |
 | 6 | [Anuken/Mindustry](./anuken-mindustry.md) | ⭐ 27.4k | Java | 100/100 |
@@ -75,9 +75,9 @@
 | 65 | [theothernt/AerialViews](./theothernt-aerialviews.md) | ⭐ 935 | Kotlin | 57/100 |
 | 66 | [OpenRadioss/OpenRadioss](./openradioss-openradioss.md) | ⭐ 792 | Fortran | 57/100 |
 | 67 | [prajwalch/TorrentSearch](./prajwalch-torrentsearch.md) | ⭐ 785 | Kotlin | 56/100 |
-| 68 | [LSPosed/LSPlant](./lsposed-lsplant.md) | ⭐ 1.2k | C++ | 56/100 |
-| 69 | [EmbarkStudios/cargo-about](./embarkstudios-cargo-about.md) | ⭐ 723 | Rust | 56/100 |
-| 70 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 759 | Kotlin | 56/100 |
+| 68 | [EmbarkStudios/cargo-about](./embarkstudios-cargo-about.md) | ⭐ 723 | Rust | 56/100 |
+| 69 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 759 | Kotlin | 56/100 |
+| 70 | [LSPosed/LSPlant](./lsposed-lsplant.md) | ⭐ 1.2k | C++ | 56/100 |
 | 71 | [AhmedLSayed9/dropdown_button2](./ahmedlsayed9-dropdown-button2.md) | ⭐ 353 | Dart | 55/100 |
 | 72 | [moneymanagerex/android-money-manager-ex](./moneymanagerex-android-money-manager-ex.md) | ⭐ 685 | Java | 54/100 |
 | 73 | [Rezivure/Grid-Mobile](./rezivure-grid-mobile.md) | ⭐ 466 | Dart | 54/100 |
@@ -96,9 +96,12 @@
 | 86 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 162 | Rust | 51/100 |
 | 87 | [premnirmal/StockTicker](./premnirmal-stockticker.md) | ⭐ 550 | Kotlin | 51/100 |
 | 88 | [aj3423/SpamBlocker](./aj3423-spamblocker.md) | ⭐ 1.5k | Kotlin | 51/100 |
-| 89 | [TacticSpaceTech/TacticRemote](./tacticspacetech-tacticremote.md) | ⭐ 11 | — | 50/100 |
-| 90 | [MicroPythonOS/MicroPythonOS](./micropythonos-micropythonos.md) | ⭐ 696 | Python | 50/100 |
-| 91 | [forcedotcom/SalesforceMobileSDK-Android](./forcedotcom-salesforcemobilesdk-android.md) | ⭐ 358 | Java | 48/100 |
+| 89 | [chinedufn/swift-bridge](./chinedufn-swift-bridge.md) | ⭐ 1.1k | Rust | 51/100 |
+| 90 | [TacticSpaceTech/TacticRemote](./tacticspacetech-tacticremote.md) | ⭐ 11 | — | 50/100 |
+| 91 | [MicroPythonOS/MicroPythonOS](./micropythonos-micropythonos.md) | ⭐ 696 | Python | 50/100 |
+| 92 | [appsfolder/livebridge](./appsfolder-livebridge.md) | ⭐ 339 | Dart | 49/100 |
+| 93 | [forcedotcom/SalesforceMobileSDK-Android](./forcedotcom-salesforcemobilesdk-android.md) | ⭐ 358 | Java | 48/100 |
+| 94 | [Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground](./moses-code-dev-foodsecurity-difp-android-playground.md) | ⭐ — | — | 36/100 |
 
 ---
 

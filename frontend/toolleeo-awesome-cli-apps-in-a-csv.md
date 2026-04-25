@@ -25,9 +25,7 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The "awesome-cli-apps-in-a-csv" project is a comprehensive, open-source collection of command-line programs and tools, meticulously curated and organized into easily accessible CSV files. This resource serves as a one-stop-shop for developers looking to discover and utilize a wide range of CLI and TUI applications. With its data-driven approach, it offers a valuable asset for those seeking to streamline their workflow and stay up-to-date with the latest command-line tools.
+This open-source project, "awesome-cli-apps-in-a-csv," is a comprehensive and curated list of command-line and terminal-based applications. The list is organized into CSV files, providing easy access and management of source data. This resource is ideal for developers and users seeking to discover and explore a wide range of CLI and TUI tools.
 
 ---
 

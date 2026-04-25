@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-The trackiam project is an open-source initiative that collects and aggregates IAM actions, AWS APIs, and managed policies from publicly available sources. This repository aims to provide a centralized and accessible database for developers and security professionals to reference and analyze AWS permissions. By consolidating this information, trackiam facilitates informed decision-making and improves the security posture of AWS-based infrastructure.
+Here's a brief summary of the open-source project:
+
+The TrackIAM project is a collaborative effort to collect and consolidate IAM actions, AWS APIs, and managed policies from publicly available sources, aiming to provide a unified and easily accessible repository for AWS security information. This project aims to simplify the process of discovering and tracking IAM actions, APIs, and policies, promoting better AWS security governance. By making this information openly available, TrackIAM fosters community-driven knowledge sharing and collaboration.
 
 ---
 

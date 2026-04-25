@@ -25,7 +25,7 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-The cpinitiative/usaco-guide is an open-source project that provides a comprehensive collection of high-quality resources for USACO (United States Advanced Computing Organization) contestants. This curated guide is designed to help users progress from Bronze to Platinum and beyond in their competitive programming journey, covering various topics such as frontend development, DevTools, and data analysis. The project aims to support aspiring programmers in achieving their goals through accessible and well-organized resources.
+The cpinitiative/usaco-guide is an open-source project that offers a comprehensive collection of high-quality resources designed to help individuals improve their competitive programming skills. It provides a structured path from Bronze to Platinum levels and beyond, equipping users with the knowledge and tools necessary to excel in coding challenges. This free resource is ideal for aspiring programmers, seasoned developers, and anyone looking to enhance their coding skills and competitive programming abilities.
 
 ---
 

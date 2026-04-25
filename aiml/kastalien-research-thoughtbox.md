@@ -27,7 +27,7 @@ AI/ML
 
 Here's a brief summary for the Thoughtbox project:
 
-Thoughtbox is an open-source intention ledger designed to evaluate and track the decision-making processes of AI agents, enabling users to analyze and understand the reasoning behind their actions. This innovative tool provides a framework for assessing the accountability and transparency of AI systems, promoting more informed and trustworthy interactions between humans and machines. By evaluating AI decisions, Thoughtbox facilitates the development of more reliable and responsible AI technologies.
+Thoughtbox is an open-source intention ledger designed to evaluate the decision-making processes of artificial intelligence (AI) agents, providing a transparent and accountable framework for assessing their actions. This tool helps to identify potential biases and areas for improvement in AI decision-making, enabling the development of more reliable and trustworthy AI systems. By facilitating a deeper understanding of AI's decision-making processes, Thoughtbox supports the creation of more responsible and effective AI applications.
 
 ---
 

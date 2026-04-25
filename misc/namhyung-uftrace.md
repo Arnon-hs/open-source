@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the uftrace project:
-
-Uftrace is an open-source function graph tracer that provides detailed call graphs of C/C++, Rust, and Python programs, allowing developers to visualize and analyze the execution flow of their code. This tool helps identify performance bottlenecks, optimize function calls, and improve overall program efficiency. By tracing function calls, uftrace enables developers to gain insights into their code's behavior and make informed decisions to optimize it.
+uftrace is an open-source function graph tracer that supports tracing C/C++, Rust, and Python applications. It provides a detailed view of function call relationships and execution paths within a program, allowing developers to understand performance bottlenecks and optimize their code more effectively. This tracing information can be valuable for debugging, profiling, and optimizing complex software systems.
 
 ---
 

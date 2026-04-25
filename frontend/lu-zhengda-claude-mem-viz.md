@@ -1,8 +1,8 @@
 # lu-zhengda/claude-mem-viz
 
-[![Stars](https://img.shields.io/github/stars/lu-zhengda/claude-mem-viz?style=flat-square&color=yellow)](https://github.com/lu-zhengda/claude-mem-viz/stargazers) [![Forks](https://img.shields.io/github/forks/lu-zhengda/claude-mem-viz?style=flat-square&color=blue)](https://github.com/lu-zhengda/claude-mem-viz/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lu-zhengda/claude-mem-viz?style=flat-square&color=yellow)](https://github.com/lu-zhengda/claude-mem-viz/stargazers) [![Forks](https://img.shields.io/github/forks/lu-zhengda/claude-mem-viz?style=flat-square&color=blue)](https://github.com/lu-zhengda/claude-mem-viz/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
-> TUI for browsing and editing Claude Code auto-memory files
+> Browse and edit what Claude Code remembers
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

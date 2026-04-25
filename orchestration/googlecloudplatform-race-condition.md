@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the GoogleCloudPlatform/race-condition project:
+Here's a 2-3 sentence summary for the GoogleCloudPlatform/race-condition project:
 
-The GoogleCloudPlatform/race-condition project is an open-source multi-agent simulation framework based on the Developer Keynote at Google Cloud Next '26. It provides a deployable reference architecture for building autonomous AI agents using Gemini and ADK, enabling developers to build and deploy scalable AI systems. This project enables users to experiment with and develop complex AI scenarios in a controlled environment.
+The GoogleCloudPlatform/race-condition project is an open-source, multi-agent simulation platform developed by Google Cloud. It utilizes Gemini and ADK (Autonomous Distributed Knowledge) to enable deployable reference architectures for autonomous AI agents. This simulation platform is a valuable resource for developers and researchers to explore and experiment with autonomous AI systems.
 
 ---
 

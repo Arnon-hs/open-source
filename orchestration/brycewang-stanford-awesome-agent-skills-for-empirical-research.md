@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 340 |
-| 🍴 **Forks** | 79 |
+| ⭐ **Stars** | 345 |
+| 🍴 **Forks** | 80 |
 | 💻 **Language** | Stata |
 | 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |

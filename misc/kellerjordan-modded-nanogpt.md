@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, modded-nanogpt, is a modified version of the NanoGPT model, a large language model with 124 million parameters. It is optimized to achieve impressive results in just 2 minutes, offering a unique balance between performance and speed. The project aims to provide a compact yet powerful language model for rapid development and experimentation.
+Here's a brief summary of the open-source project:
+
+This project, modded-nanogpt, is an open-source implementation of the 124M parameter NanoGPT model, specifically optimized to be trained in just 2 minutes. This accelerated training process allows for faster experimentation and development with the model. The goal of modded-nanogpt is to provide a versatile and rapidly trainable AI model for various applications.
 
 ---
 

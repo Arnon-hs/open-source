@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The Void-Box project is an open-source, composable agent runtime that prioritizes enforcement of isolation boundaries to ensure secure and reliable operation. This orchestration framework is particularly suited for artificial intelligence (AI) and machine learning (ML) applications, providing a robust foundation for complex system deployments. By promoting isolation and modularity, Void-Box enables developers to build scalable, fault-tolerant, and maintainable AI/ML systems.
+Void Box is an open-source, composable agent runtime that provides enforced isolation boundaries for secure and efficient execution of various tasks. This project enables the deployment of complex systems and AI/ML applications in a modular and isolated manner, ensuring scalability and reliability. By separating tasks and resources, Void Box facilitates the creation of scalable and fault-tolerant systems.
 
 ---
 

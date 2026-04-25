@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Broomy is an open-source tool designed to simplify interactions with multiple AI agents, making it easier to manage and work with large-scale artificial intelligence systems. This platform aims to streamline the process of integrating and coordinating various AI models, enabling developers to build more efficient and effective AI-powered applications. By providing a unified interface for AI agents, Broomy facilitates the development, testing, and deployment of AI-based projects.
+Broomy is an open-source tool designed to simplify the process of working with multiple AI agents. This platform aims to ease the complexities often associated with handling and coordinating multiple AI models, making it easier for developers to integrate and manage various AI components in their projects. By streamlining AI agent interactions, Broomy facilitates more efficient and productive AI development.
 
 ---
 

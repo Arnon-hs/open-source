@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Facebook's rust-shed is an open-source project that hosts a collection of reusable Rust crates, making it easier for other Facebook open-source projects to share and leverage common functionality. The repository aims to streamline collaboration and reduce duplication of effort across projects like Mononoke and Eden. By providing a centralized hub for shared Rust components, rust-shed facilitates more efficient development and maintenance of Facebook's open-source ecosystem.
+The Facebook Experimental Rust Shed repository provides a collection of open-source Rust crates shared among various Facebook projects, such as Mononoke and Eden, with a focus on AI/ML applications. This centralized repository aims to facilitate collaboration and reuse of code, promoting efficiency and consistency across projects. By sharing common utilities and libraries, developers can leverage pre-existing solutions to build more robust and scalable AI/ML systems.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The jshph/enzyme project is an open-source compile step for knowledge bases, enabling agents to efficiently process and query content through a concept graph. This technology enables fast indexing and querying of knowledge bases, with query times under 8 milliseconds on a device, making it suitable for real-time applications. By leveraging enzyme, developers can create more effective AI and ML systems.
+The enzyme project is an open-source compilation step designed for knowledge bases, enabling the creation of a concept graph that provides fast and efficient querying. This tool is capable of indexing content in under 20 seconds and executing queries in as little as 8 milliseconds, making it suitable for use on device. By leveraging enzyme, developers can improve the performance of their AI and ML applications.
 
 ---
 

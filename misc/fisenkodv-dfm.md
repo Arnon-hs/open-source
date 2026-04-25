@@ -1,8 +1,8 @@
 # fisenkodv/dfm
 
-[![Stars](https://img.shields.io/github/stars/fisenkodv/dfm?style=flat-square&color=yellow)](https://github.com/fisenkodv/dfm/stargazers) [![Forks](https://img.shields.io/github/forks/fisenkodv/dfm?style=flat-square&color=blue)](https://github.com/fisenkodv/dfm/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fisenkodv/dfm?style=flat-square&color=yellow)](https://github.com/fisenkodv/dfm/stargazers) [![Forks](https://img.shields.io/github/forks/fisenkodv/dfm?style=flat-square&color=blue)](https://github.com/fisenkodv/dfm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Standalone, single-binary dotfiles manager
 
 ## 📊 Stats
 
@@ -10,8 +10,8 @@
 |---|---|
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project is a single-binary dotfiles manager designed to replace the popular dotbot tool. It aims to provide a simplified and efficient way to manage dotfiles, likely through a user-friendly command-line interface. The project promises a streamlined alternative for users looking to automate their configuration file management.
+This open-source project offers a single-binary dotfiles manager designed to replace the existing tool, dotbot. It aims to provide a simpler, more efficient alternative for managing dotfiles. This solution is built with a focus on ease of use and minimal dependencies.
 
 ---
 

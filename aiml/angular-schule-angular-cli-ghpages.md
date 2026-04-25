@@ -1,6 +1,6 @@
 # angular-schule/angular-cli-ghpages
 
-[![Stars](https://img.shields.io/github/stars/angular-schule/angular-cli-ghpages?style=flat-square&color=yellow)](https://github.com/angular-schule/angular-cli-ghpages/stargazers) [![Forks](https://img.shields.io/github/forks/angular-schule/angular-cli-ghpages?style=flat-square&color=blue)](https://github.com/angular-schule/angular-cli-ghpages/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/angular-schule/angular-cli-ghpages?style=flat-square&color=yellow)](https://github.com/angular-schule/angular-cli-ghpages/stargazers) [![Forks](https://img.shields.io/github/forks/angular-schule/angular-cli-ghpages?style=flat-square&color=blue)](https://github.com/angular-schule/angular-cli-ghpages/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Deploy your 🅰️Angular app to GitHub pages, Cloudflare Pages or any other Git repo directly from the Angular CLI! Available on NPM.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 982 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

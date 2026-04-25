@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Homeport's dyff is an open-source diff tool designed to compare and highlight changes in YAML and JSON files, leveraging its capabilities to facilitate the debugging and understanding of AI/ML project configurations. This tool aims to make it easier for developers to identify and resolve discrepancies in their project settings. By providing a clear visualization of changes, dyff streamlines the collaboration and maintenance process for complex AI/ML projects.
+The homeport/dyff project is an open-source, diff tool designed specifically for YAML and JSON files. It uses a combination of human-readable and machine-parseable output to efficiently compare and display the differences between these configuration files. This tool is particularly useful for developers working with AI/ML projects that rely heavily on YAML and JSON configurations.
 
 ---
 
