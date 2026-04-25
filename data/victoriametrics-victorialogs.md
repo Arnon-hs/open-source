@@ -25,7 +25,7 @@ Data · DevOps/Infra
 
 ## 📝 Summary
 
-VictoriaMetrics/VictoriaLogs is an open-source, high-performance database designed to efficiently handle large volumes of log data, scaling to terabytes in size. This database offers fast and easy-to-use functionality for streamlined log management and analysis. It is suitable for use in DevOps and infrastructure applications where log data needs to be quickly processed and queried.
+VictoriaMetrics/VictoriaLogs is an open-source, high-performance database designed for efficiently storing and managing large volumes of log data. It can handle terabytes of logs with ease, making it an ideal solution for applications with high logging requirements. This database offers a streamlined and user-friendly experience, catering to the needs of DevOps and data professionals.
 
 ---
 

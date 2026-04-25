@@ -25,9 +25,9 @@ Crypto · Trading
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary of the project in 2-3 sentences:
 
-OpenSQT is an open-source high-performance trading system designed for perpetual contracts on cryptocurrency exchanges, focusing on a grid trading strategy for long positions. Built with Go and utilizing WebSocket real-time data feeds, OpenSQT aims to provide stable liquidity support for major exchanges such as Binance, Bitget, and Gate.io. This project facilitates efficient market making operations with low latency.
+OpenSQT is an open-source cryptocurrency market maker system designed for perpetual contract markets, utilizing a grid trading strategy with a focus on going long. Built with Go and driven by real-time WebSocket data streams, the system aims to provide stable liquidity support for mainstream exchanges such as Binance, Bitget, and Gate.io. This high-performance, low-latency system is optimized for efficient trading operations in the cryptocurrency markets.
 
 ---
 

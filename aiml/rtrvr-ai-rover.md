@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The rtrvr-ai/rover project is an open-source, DOM-native SDK that enables the conversion of any web interface into an AI agent. This allows for seamless interaction and automation of websites, Chrome extensions, Electron apps, and other web-based applications, all in real-time with sub-second actions. By leveraging AI and machine learning capabilities, rover empowers both humans and machines to interact with digital interfaces more efficiently and effectively.
+The rover project is an open-source, DOM-native SDK that enables any web interface to be transformed into an AI agent, capable of interacting with both humans and machines. This AI agent can perform actions in near real-time, without the need for screenshots or virtual machines. As a result, rover can be integrated into various applications, including websites, Chrome extensions, and Electron apps.
 
 ---
 

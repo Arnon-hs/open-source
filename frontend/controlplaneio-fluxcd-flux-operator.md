@@ -25,9 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The flux-operator is an open-source project that enables automated GitOps workflows, allowing users to manage infrastructure and applications with ease. It operates in "autopilot mode," automatically synchronizing desired state with the current state, removing the need for manual intervention. This project provides a robust backend framework for managing complex infrastructure and application configurations.
+The controlplaneio-fluxcd/flux-operator project is an open-source initiative that enables GitOps on autopilot mode. By utilizing this project, users can automate the management of their infrastructure and applications with minimal manual intervention. This project leverages FluxCD's operator to streamline and simplify the GitOps workflow.
 
 ---
 

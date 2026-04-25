@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Release-plz is an open-source project that automates the publication of Rust crates from continuous integration (CI) environments through the creation of a release pull request (PR). This tool streamlines the process of releasing new versions of Rust libraries, ensuring a seamless and efficient workflow for developers and maintainers. By integrating release-plz into CI pipelines, users can save time and effort traditionally spent on manual release processes.
+Release-plz is an open-source project that automates the process of publishing Rust crates from continuous integration pipelines by creating a release-related pull request. This simplifies the release process, reducing manual effort and making it more efficient. With release-plz, developers can seamlessly integrate crate publishing into their CI workflows.
 
 ---
 

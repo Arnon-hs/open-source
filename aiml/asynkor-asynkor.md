@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Asynkor is an open-source project that enables seamless collaboration among AI agent teams through file leasing, allowing multiple users to work simultaneously without merge conflicts. This innovative solution supports a single MCP (Master Control Protocol) server and is compatible with any Integrated Development Environment (IDE), making it a versatile tool for developers. By leveraging asynkor, teams can streamline their AI development process and enhance productivity.
+Asynkor is an open-source project that enables seamless collaboration among AI agent teams through file leasing. This innovative solution utilizes a single MCP server, allowing developers to work across any Integrated Development Environment (IDE) without encountering merge conflicts. By streamlining AI development, Asynkor facilitates efficient teamwork and accelerates project progress.
 
 ---
 

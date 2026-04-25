@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The media-mtx project is an open-source media server and proxy that supports a wide range of protocols, including SRT, WebRTC, RTSP, RTMP, and LL-HLS. It enables users to read, publish, proxy, record, and playback video and audio streams, making it a versatile solution for media streaming and processing. This comprehensive tool is suitable for various use cases, from broadcasting and streaming to content delivery and media analytics.
+The Mediamtx project is an open-source media server and proxy that supports various protocols, including SRT, WebRTC, RTSP, RTMP, LL-HLS, MPEG-TS, and RTP. It enables users to read, publish, proxy, record, and playback video and audio streams efficiently. This versatile media server is ideal for applications requiring seamless media streaming and processing.
 
 ---
 

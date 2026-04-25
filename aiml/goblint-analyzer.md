@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The goblint/analyzer project is an open-source static analysis framework designed specifically for the C programming language. This framework utilizes AI/ML capabilities to identify potential bugs, security vulnerabilities, and coding issues, enabling developers to write more robust and secure C code. By leveraging advanced analysis techniques, goblint/analyzer helps improve the overall quality and reliability of C-based software.
+The goblint/analyzer project is an open-source static analysis framework designed for C programming languages. It utilizes AI and ML techniques to provide developers with detailed insights into their codebase, helping them identify potential issues and improve overall code quality. This framework aims to facilitate more efficient and secure software development processes.
 
 ---
 

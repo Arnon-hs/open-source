@@ -1,6 +1,6 @@
 # Bitterbot-AI/bitterbot-desktop
 
-[![Stars](https://img.shields.io/github/stars/Bitterbot-AI/bitterbot-desktop?style=flat-square&color=yellow)](https://github.com/Bitterbot-AI/bitterbot-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/Bitterbot-AI/bitterbot-desktop?style=flat-square&color=blue)](https://github.com/Bitterbot-AI/bitterbot-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bitterbot-AI/bitterbot-desktop?style=flat-square&color=yellow)](https://github.com/Bitterbot-AI/bitterbot-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/Bitterbot-AI/bitterbot-desktop?style=flat-square&color=blue)](https://github.com/Bitterbot-AI/bitterbot-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 329 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

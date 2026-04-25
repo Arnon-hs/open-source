@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a summary of the open-source project:
-
-Crab Code is an open-source, Rust-built alternative to Claude Code, offering an agentive coding experience. This CLI tool leverages Large Language Models (LLMs) to think, plan, and execute coding tasks, mirroring Claude Code workflows. With its compatibility and customizable approach, Crab Code aims to provide a flexible and scalable solution for developers.
+The crab-code project is an open-source alternative to Claude Code, built from scratch in Rust to provide an agentic coding CLI. This tool enables users to think, plan, and execute tasks with the assistance of any Large Language Model (LLM), mirroring the functionality of Claude Code workflows. By leveraging Rust, crab-code offers a robust and efficient solution for developers and coders.
 
 ---
 

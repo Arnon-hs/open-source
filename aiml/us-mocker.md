@@ -27,7 +27,7 @@ AI/ML · Frontend · DevTools
 
 Here's a brief summary for the us/mocker project:
 
-us/mocker is an open-source project that brings Docker compatibility to macOS 26, allowing users to leverage the same Docker CLI commands and flags as on other platforms. Built on Apple's Containerization framework, the project provides a seamless experience for developers to work with containers on their Macs. With us/mocker, users can run, manage, and build containerized applications using familiar Docker commands.
+us/mocker is an open-source, Docker-compatible container CLI designed for macOS 26, built on Apple's Containerization framework. This project provides a seamless experience with familiar commands, such as run, ps, stop, build, compose, and stats, allowing developers to work efficiently with containers on their Macs. With us/mocker, developers can leverage their existing knowledge of Docker commands to streamline their workflow.
 
 ---
 

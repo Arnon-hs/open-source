@@ -25,7 +25,7 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-The notebooklm-mcp-secure project is an open-source, highly secure implementation of a NotebookLM MCP server. It features 17 layers of security hardening, ensuring the safe and private querying of Google's NotebookLM from Claude/AI agents. This project is a valuable resource for developers and organizations working with AI/ML technologies that require robust security measures.
+The Pantheon-Security/notebooklm-mcp-secure project is an open-source initiative that provides a secure implementation of the NotebookLM MCP Server. This solution allows for secure querying of Google NotebookLM from Claude/AI agents, leveraging 17 security hardening layers to protect against potential threats. By utilizing this secure NotebookLM MCP Server, developers can ensure the integrity and confidentiality of their AI-powered applications.
 
 ---
 

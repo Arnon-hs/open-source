@@ -25,7 +25,7 @@ Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Kastell is an open-source project that streamlines the management of self-hosted servers through a single command-line interface. It offers a full lifecycle service, covering provisioning, securing, backing up, and managing servers from start to finish. With Kastell, users can effortlessly maintain their servers, ensuring they remain secure and up-to-date.
+Kastell is an open-source project that provides a comprehensive tool for managing self-hosted servers. With a single command-line interface (CLI), it handles server provisioning, security, backups, and lifecycle management, streamlining the entire process. This project enables users to efficiently manage and maintain their servers from a single, unified interface.
 
 ---
 

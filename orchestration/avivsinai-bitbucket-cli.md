@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-This open-source project, avivsinai/bitbucket-cli, provides a command-line interface (CLI) for Bitbucket with a user-friendly interface inspired by GitHub's CLI. It allows users to interact with Bitbucket repositories, issues, and projects from the comfort of their terminal, streamlining development workflows. By offering a more ergonomic experience, developers can manage their Bitbucket projects with ease and efficiency.
+The avivsinai/bitbucket-cli project provides a command-line interface (CLI) for Bitbucket with a user-friendly and ergonomic design inspired by the GitHub CLI. This open-source tool aims to simplify interactions with Bitbucket repositories, making it easier to manage and automate tasks. By using a gh-like interface, developers can focus on their code without the need for complex Bitbucket APIs or web interfaces.
 
 ---
 

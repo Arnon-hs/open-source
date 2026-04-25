@@ -1,6 +1,6 @@
 # dwgx/WindsurfAPI
 
-[![Stars](https://img.shields.io/github/stars/dwgx/WindsurfAPI?style=flat-square&color=yellow)](https://github.com/dwgx/WindsurfAPI/stargazers) [![Forks](https://img.shields.io/github/forks/dwgx/WindsurfAPI?style=flat-square&color=blue)](https://github.com/dwgx/WindsurfAPI/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dwgx/WindsurfAPI?style=flat-square&color=yellow)](https://github.com/dwgx/WindsurfAPI/stargazers) [![Forks](https://img.shields.io/github/forks/dwgx/WindsurfAPI?style=flat-square&color=blue)](https://github.com/dwgx/WindsurfAPI/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Windsurf-to-OpenAI compatible API proxy
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 737 |
-| 🍴 **Forks** | 204 |
+| ⭐ **Stars** | 742 |
+| 🍴 **Forks** | 205 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

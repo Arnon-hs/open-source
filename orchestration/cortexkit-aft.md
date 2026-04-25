@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/cortexkit/aft?style=flat-square&color=yellow)](https://github.com/cortexkit/aft/stargazers) [![Forks](https://img.shields.io/github/forks/cortexkit/aft?style=flat-square&color=blue)](https://github.com/cortexkit/aft/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
-> Tree-sitter powered code analysis tools for AI coding agents
+> Tree-sitter powered code manipulation and analysis tools for AI coding agents
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49 |
+| ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |

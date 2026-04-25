@@ -25,7 +25,9 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-The Giskard-oss project is an open-source evaluation and testing library designed for Large Language Model (LLM) agents. Its purpose is to provide a comprehensive framework for assessing and improving the performance, security, and reliability of AI models. By offering a range of testing tools and methodologies, Giskard-oss helps developers to identify and address potential issues in LLM agents.
+Here's a brief summary for the Giskard-AI/giskard-oss project:
+
+Giskard-oss is an open-source evaluation and testing library designed for Large Language Model (LLM) agents. This library enables developers to assess and improve the performance, reliability, and security of their LLM-based systems. By providing a comprehensive set of evaluation and testing tools, Giskard-oss aims to facilitate the development of more robust and trustworthy AI applications.
 
 ---
 

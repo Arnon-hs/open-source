@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 535 |
+| ⭐ **Stars** | 536 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
@@ -25,9 +25,9 @@ AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-Here is a brief summary for the dannote/figma-use project:
+Here's a brief summary of the project:
 
-Control Figma from the command line with dannote/figma-use, a powerful open-source tool that provides full read/write access for AI agents. With over 100 commands, you can create shapes, text, components, set styles, and export images directly from the terminal. This project streamlines the design process and enables seamless integration with AI technologies.
+Figma-use is an open-source command-line interface that allows users to control Figma from the terminal, providing full read/write access for AI agents and developers. With over 100 commands, users can create and manipulate designs, shapes, text, and components, as well as set styles and export images. This tool empowers designers, developers, and AI agents to automate and streamline their Figma workflows.
 
 ---
 

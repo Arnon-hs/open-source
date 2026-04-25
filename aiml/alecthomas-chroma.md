@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Chroma is an open-source, pure Go syntax highlighter designed for general-purpose use. It allows developers to efficiently and accurately highlight code syntax in various programming languages. By leveraging its Go-based implementation, Chroma provides a lightweight and customizable solution for syntax highlighting needs.
+Chroma is an open-source, pure Go syntax highlighter designed for general-purpose use. It provides a flexible and customizable way to colorize source code from various programming languages, making it a valuable tool for developers and language enthusiasts alike. Developed by Alec Thomas, Chroma supports a wide range of programming languages and can be easily integrated into various applications and projects.
 
 ---
 

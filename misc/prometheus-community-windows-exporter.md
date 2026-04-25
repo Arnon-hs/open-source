@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The prometheus-community/windows_exporter is an open-source project that serves as a Prometheus exporter, enabling the monitoring and collection of metrics from Windows machines. This tool facilitates the integration of Windows systems with Prometheus-based monitoring infrastructure, allowing for a unified view of system performance and resource utilization. By leveraging this exporter, system administrators can gain valuable insights into Windows machine metrics.
+The prometheus-community/windows_exporter is an open-source project that provides a Prometheus exporter for Windows machines, enabling the collection and monitoring of performance metrics from Windows systems. This exporter allows users to leverage the scalability and flexibility of Prometheus for monitoring Windows environments, alongside other system types. By integrating with Prometheus, users can gain detailed insights into the performance and health of their Windows systems.
 
 ---
 

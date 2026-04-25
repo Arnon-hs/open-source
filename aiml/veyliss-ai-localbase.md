@@ -1,6 +1,6 @@
 # veyliss/ai-localbase
 
-[![Stars](https://img.shields.io/github/stars/veyliss/ai-localbase?style=flat-square&color=yellow)](https://github.com/veyliss/ai-localbase/stargazers) [![Forks](https://img.shields.io/github/forks/veyliss/ai-localbase?style=flat-square&color=blue)](https://github.com/veyliss/ai-localbase/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/veyliss/ai-localbase?style=flat-square&color=yellow)](https://github.com/veyliss/ai-localbase/stargazers) [![Forks](https://img.shields.io/github/forks/veyliss/ai-localbase?style=flat-square&color=blue)](https://github.com/veyliss/ai-localbase/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）、xlsx、cvs类型。支持mcp服务
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 278 |
-| 🍴 **Forks** | 36 |
+| 🍴 **Forks** | 37 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

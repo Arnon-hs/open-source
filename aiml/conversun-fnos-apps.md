@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the conversun/fnos-apps project:
+Here's a brief summary of the project:
 
-The fnOS NAS Third-Party App Store is an open-source project providing a collection of 115 self-hosted applications in .fpk installation packages. These packages include popular media servers like Plex, Emby, and Jellyfin, as well as torrent clients, AI tools, and more. The project offers daily automatic version synchronization from upstream sources.
+The conversun/fnos-apps project is an open-source, third-party application store for the fnOS NAS system, providing 115 self-hosted apps in pre-installed .fpk packages. These applications include popular media management tools, torrent clients, and AI services like Plex, qBittorrent, and ZeroClaw AI. The store automatically synchronizes with the upstream versions daily, ensuring users have access to the latest updates.
 
 ---
 

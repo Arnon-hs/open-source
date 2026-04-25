@@ -1,6 +1,6 @@
 # qingchencloud/clawpanel
 
-[![Stars](https://img.shields.io/github/stars/qingchencloud/clawpanel?style=flat-square&color=yellow)](https://github.com/qingchencloud/clawpanel/stargazers) [![Forks](https://img.shields.io/github/forks/qingchencloud/clawpanel?style=flat-square&color=blue)](https://github.com/qingchencloud/clawpanel/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qingchencloud/clawpanel?style=flat-square&color=yellow)](https://github.com/qingchencloud/clawpanel/stargazers) [![Forks](https://img.shields.io/github/forks/qingchencloud/clawpanel?style=flat-square&color=blue)](https://github.com/qingchencloud/clawpanel/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 322 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

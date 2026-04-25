@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the agHub project:
+Here's a 2-3 sentence summary for the open-source project:
 
-agHub is a unified configuration management platform for AI coding agents, providing a centralized hub for over 22+ assistants. This open-source project simplifies the process of managing multiple AI tools, allowing developers to streamline their workflow and boost productivity. By consolidating configuration settings, agHub enables seamless collaboration and efficient deployment of AI-powered coding agents.
+aghub is an open-source project that serves as a unified hub for managing configurations across multiple AI and machine learning coding assistants. With support for over 22+ assistants, aghub simplifies the process of setting up and switching between different AI coding tools, making it an essential tool for developers and data scientists. This project aims to streamline AI development workflows by providing a centralized management platform.
 
 ---
 

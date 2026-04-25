@@ -25,7 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-The lichess-org/mobile project is an open-source mobile application written in Flutter, designed to provide a seamless chess experience for users on-the-go. This mobile app offers a comprehensive and user-friendly interface for players of all skill levels, allowing them to engage in online chess games and explore various features. By contributing to this project, developers can help shape the future of mobile chess gaming.
+The lichess-org/mobile project is an open-source mobile app for the popular chess platform Lichess, built using Flutter for a seamless and efficient user experience. This mobile app allows users to access and enjoy Lichess's features on-the-go, including chess games, puzzles, and analysis tools. By utilizing the flexibility of Flutter, the app provides a consistent and engaging experience across various mobile platforms.
 
 ---
 

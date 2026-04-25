@@ -2,14 +2,14 @@
 
 > Design tools, UX, creative software
 
-**19 projects** in this category.
+**20 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.1k | JavaScript | 100/100 |
-| 2 | [roboflow/rf-detr](./roboflow-rf-detr.md) | ⭐ 6.5k | Python | 96/100 |
+| 2 | [roboflow/rf-detr](./roboflow-rf-detr.md) | ⭐ 6.6k | Python | 96/100 |
 | 3 | [dotnet/csharplang](./dotnet-csharplang.md) | ⭐ 12.6k | C# | 93/100 |
 | 4 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.6k | Scala | 91/100 |
 | 5 | [j178/prek](./j178-prek.md) | ⭐ 7.4k | Rust | 82/100 |
@@ -27,6 +27,7 @@
 | 17 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 223 | Go | 52/100 |
 | 18 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 209 | PHP | 52/100 |
 | 19 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 457 | Go | 49/100 |
+| 20 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 425 | JavaScript | 49/100 |
 
 ---
 

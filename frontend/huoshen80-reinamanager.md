@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/huoshen80/ReinaManager?style=flat-square&color=yellow)](https://github.com/huoshen80/ReinaManager/stargazers) [![Forks](https://img.shields.io/github/forks/huoshen80/ReinaManager?style=flat-square&color=blue)](https://github.com/huoshen80/ReinaManager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> A galgame/visual-novel manager,Under development......
+> A lightweight galgame/visual-novel manager,Under development...
 
 ## 📊 Stats
 

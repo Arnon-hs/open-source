@@ -1,6 +1,6 @@
 # ProudMuBai/GoFilm
 
-[![Stars](https://img.shields.io/github/stars/ProudMuBai/GoFilm?style=flat-square&color=yellow)](https://github.com/ProudMuBai/GoFilm/stargazers) [![Forks](https://img.shields.io/github/forks/ProudMuBai/GoFilm?style=flat-square&color=blue)](https://github.com/ProudMuBai/GoFilm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ProudMuBai/GoFilm?style=flat-square&color=yellow)](https://github.com/ProudMuBai/GoFilm/stargazers) [![Forks](https://img.shields.io/github/forks/ProudMuBai/GoFilm?style=flat-square&color=blue)](https://github.com/ProudMuBai/GoFilm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 多播放源自动采集在线影视网站 golang vue
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 363 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

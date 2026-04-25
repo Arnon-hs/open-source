@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a 2-3 sentence summary for the open-source project:
 
-The unified-cache-management project is an open-source solution that enables persistent and reusable key-value (KV) caching to accelerate Large Language Models (LLM). By leveraging this caching mechanism, developers can significantly speed up their LLMs and improve overall performance. This project aims to simplify the process of caching and retrieving model weights, reducing the computational overhead and memory requirements associated with LLM training and inference.
+Unified Cache Management is an open-source project that helps accelerate Large Language Models (LLM) by persisting and reusing a Key-Value (KV) Cache. This system optimizes model performance by reducing the need for redundant computations and improving data retrieval efficiency. By leveraging unified cache management, developers can enhance the speed and scalability of their AI/ML applications.
 
 ---
 

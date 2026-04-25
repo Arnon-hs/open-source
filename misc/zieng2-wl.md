@@ -1,6 +1,6 @@
 # zieng2/wl
 
-[![Stars](https://img.shields.io/github/stars/zieng2/wl?style=flat-square&color=yellow)](https://github.com/zieng2/wl/stargazers) [![Forks](https://img.shields.io/github/forks/zieng2/wl?style=flat-square&color=blue)](https://github.com/zieng2/wl/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zieng2/wl?style=flat-square&color=yellow)](https://github.com/zieng2/wl/stargazers) [![Forks](https://img.shields.io/github/forks/zieng2/wl?style=flat-square&color=blue)](https://github.com/zieng2/wl/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Подписка для обхода белых списков
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 48 |
+| 🍴 **Forks** | 49 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

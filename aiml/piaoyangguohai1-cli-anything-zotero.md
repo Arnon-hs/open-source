@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-This open-source project, "cli-anything-zotero," is a command-line interface (CLI) and multi-command protocol (MCP) server for Zotero 7/8 that leverages artificial intelligence (AI) to manage your library. It provides 52 MCP tools and over 70 CLI commands for various tasks, including search, import, PDF management, BibTeX generation, and note-taking. The project supports integration with popular AI assistants like Claude, Cursor, and ChatGPT.
+PiaoyangGuohai1's cli-anything-zotero is an open-source project that provides a command-line interface (CLI) and a Multiple-Command-Protocol (MCP) server for Zotero 7/8, allowing AI to manage your library. This project offers an extensive range of tools and commands, including 70+ CLI commands and 52 MCP tools, for search, import, PDF management, and more, compatible with popular AI models like Claude, Cursor, and ChatGPT. It serves as a powerful DevTool for Zotero users, simplifying library management and enhancing productivity.
 
 ---
 

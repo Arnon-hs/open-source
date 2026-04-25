@@ -25,7 +25,7 @@ Product
 
 ## 📝 Summary
 
-Excalidraw is an open-source virtual whiteboard that allows users to create hand-drawn like diagrams and sketches in a web-based environment. This interactive tool provides a user-friendly interface for collaboration and brainstorming, making it suitable for various applications, such as product design, team meetings, and educational settings. With Excalidraw, users can create and share digital sketches with ease.
+Excalidraw is an open-source, virtual whiteboard for creating hand-drawn like diagrams and sketches. This intuitive tool allows users to create digital artwork reminiscent of traditional hand-drawn diagrams, making it suitable for a variety of applications, including brainstorming, prototyping, and collaboration. With Excalidraw, users can easily sketch and share their ideas in a flexible and interactive digital environment.
 
 ---
 

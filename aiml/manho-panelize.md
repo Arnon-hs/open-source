@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the Manho/Panelize project:
-
-Manho/Panelize is an open-source Chrome extension that allows users to compare popular AI models, including ChatGPT, Claude, and Gemini, side by side in a single interface. This project aims to facilitate comparison and exploration of different AI models, enabling users to discover their strengths and weaknesses. By providing a unified testing environment, Manho/Panelize empowers users to make informed decisions when choosing AI models for their specific needs.
+Manho/Panelize is an open-source Chrome extension that allows users to compare multiple AI models, including ChatGPT, Claude, Gemini, and Grok, in a side-by-side interface. This extension provides a platform for users to explore and compare the capabilities of various AI models, enabling a more comprehensive understanding of each model's strengths and weaknesses. By offering a direct comparison, Panelize facilitates informed decision-making and helps users select the most suitable AI model for their needs.
 
 ---
 

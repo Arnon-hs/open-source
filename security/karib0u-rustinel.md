@@ -25,9 +25,7 @@ Security
 
 ## 📝 Summary
 
-Here's a brief summary for the Karib0u/rustinel project:
-
-Rustinel is an open-source, cross-platform Endpoint Detection and Response (EDR) tool written in Rust, designed to provide real-time threat detection on Windows systems using ETW and Linux systems using eBPF. It integrates with popular threat detection engines such as Sigma, YARA, and IOC to offer comprehensive protection against various types of threats. By leveraging Rust's performance and flexibility, Rustinel aims to provide a lightweight and effective EDR solution for modern operating systems.
+Karib0u/rustinel is an open-source, cross-platform endpoint detection and response (EDR) tool written in Rust. It supports Windows ETW and Linux eBPF, providing real-time threat detection through integration with Sigma rules, YARA scans, and IOC (Indicators of Compromise) checks. This project offers a flexible and modular solution for security professionals to monitor and respond to potential threats.
 
 ---
 

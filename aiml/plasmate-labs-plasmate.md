@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Plasmate is an open-source browser engine designed for intelligent agents, capable of transforming HTML input into a Semantic Object Model (SOM) output. It provides a 10x compression ratio for tokens, integrates with V8 JavaScript rendering, and supports Chrome DevTools Protocol (CDP) compatibility. By leveraging these features, Plasmate enables efficient and scalable processing of web content for AI/ML applications.
+Plasmate is an open-source browser engine designed specifically for agents, transforming HTML input into a Semantic Object Model (SOM) output. This powerful engine boasts 10x token compression, integrates V8 JavaScript rendering, and supports Chrome DevTools Protocol (CDP), making it a versatile tool for various AI and ML applications. Released under the permissive Apache-2.0 license, Plasmate offers developers a flexible foundation for building efficient and scalable solutions.
 
 ---
 

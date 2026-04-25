@@ -25,9 +25,9 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here is a brief summary of the project:
+Here's a brief summary of the project:
 
-"us/crw is a fast, lightweight, and open-source alternative to Firecrawl, built in Rust. This web scraper, crawler, and search API provides a drop-in Firecrawl-compatible API for seamless integration, with performance benchmarks showing it to be 2.3x faster than Tavily and 1.5x faster than Firecrawl. Self-host or use managed cloud to utilize its compact 6 MB RAM footprint."
+The us/crw project is an open-source, Rust-based alternative to Firecrawl, offering a fast and lightweight web scraping, crawling, and search API with an MCP server for AI agents. With a footprint of just 6 MB RAM and a single binary, this drop-in Firecrawl-compatible API is ideal for self-hosting or cloud deployments. Its exceptional performance, with speeds 2.3x faster than Tavily and 1.5x faster than Firecrawl, makes it a compelling choice for developers.
 
 ---
 

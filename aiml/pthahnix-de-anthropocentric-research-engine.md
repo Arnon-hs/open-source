@@ -25,7 +25,7 @@ AI/ML · Design
 
 ## 📝 Summary
 
-The De-Anthropocentric Research Engine is an open-source AI-powered platform that automates academic research by performing deep literature surveys, gap analyses, idea generation, and experiment design and execution. Leveraging iterative deep research, adversarial debate, and evolutionary generation, this tool streamlines the research process and enables the discovery of new ideas. By utilizing distributed GPU execution, it accelerates the research workflow, making it more efficient and effective.
+The De-Anthropocentric Research Engine is a cutting-edge, open-source platform that leverages AI to automate various stages of academic research, including deep literature surveys, gap analysis, and experiment design and execution. This innovative tool combines multiple techniques such as iterative deep research, adversarial debate, and evolutionary generation to facilitate more efficient and effective research. By harnessing the power of distributed GPU execution, the engine accelerates the discovery process and enables researchers to generate new ideas and insights more rapidly.
 
 ---
 

@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the yao-meta-skill project:
+Here's a summary for the yao-meta-skill project:
 
-YAO (Yielding AI Outcomes) is an open-source system designed to facilitate the development, evaluation, governance, and portability of reusable AI/ML agent skills. This system provides a rigorous engineering framework for creating and managing agent skills, enabling seamless orchestration and integration across various applications. By promoting standardization and reusability, YAO aims to streamline AI outcomes and enhance overall efficiency.
+YAO (Yielding AI Outcomes) is an open-source system designed to facilitate the development, evaluation, governance, and portability of reusable AI skills. This framework enables the creation of agent skills that can be easily integrated and orchestrated across various applications, enhancing the efficiency and consistency of AI outcomes. By providing a rigorous engineering foundation, YAO aims to promote the development of reliable and maintainable AI skills.
 
 ---
 

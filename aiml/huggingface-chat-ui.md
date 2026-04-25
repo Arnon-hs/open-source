@@ -25,7 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The huggingface/chat-ui project is an open-source implementation of HuggingChat, a conversational AI interface. This codebase provides a frontend framework for building and deploying chat applications, utilizing AI/ML capabilities. By leveraging this project, developers can create seamless and intuitive chat experiences with the power of HuggingFace's technology.
+Here's a brief summary of the huggingface/chat-ui project:
+
+Huggingface/chat-ui is an open-source codebase that powers HuggingChat, a conversational AI interface. This project combines AI/ML capabilities with a user-friendly frontend, providing a robust framework for building engaging chatbots and conversational applications. By leveraging this codebase, developers can create and customize their own chat interfaces with ease.
 
 ---
 

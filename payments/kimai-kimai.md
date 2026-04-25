@@ -25,9 +25,7 @@ Payments · AI/ML · Product
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the Kimai project:
-
-Kimai is a top-rated, open-source time-tracking application that helps individuals and organizations efficiently manage their timesheets, generate reports, and create invoices. This web-based, multi-user platform offers flexibility as both an On-Premise and SaaS solution, catering to freelancers, companies, and organizations alike. With its comprehensive features, Kimai streamlines time management and financial tasks for users.
+Kimai is a free, open-source time-tracking application suitable for individuals and large organizations. It offers a web-based, multi-user platform for managing timesheets, generating reports, and creating invoices. Available in both on-premise and SaaS versions, Kimai caters to diverse needs and provides a comprehensive solution for time-tracking and business management.
 
 ---
 
