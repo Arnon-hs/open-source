@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/Jamailar/RedBox?style=flat-square&color=yellow)](https://github.com/Jamailar/RedBox/stargazers) [![Forks](https://img.shields.io/github/forks/Jamailar/RedBox?style=flat-square&color=blue)](https://github.com/Jamailar/RedBox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
-> 用AI创作高质量内容，小红书版Openclaw，自媒体创作者的AI工作台，小红书创作AI工具RedClaw，支持小红书图文下载、创作风格学习、智囊团AI群聊、小红书AI创作，AI图文制作，AI文章排版｜🌟 Star if you like it! ｜ 你桌面盒子里的AI小河狸🦫
+> 用AI创作高质量内容，用gpt-image-2创作的最佳生图工具，AI图片自动编排，小红书版Openclaw，自媒体创作者的AI工作台，小红书创作AI工具RedClaw，支持小红书图文下载、创作风格学习、小红书AI创作｜🌟 Star if you like it! ｜ 你桌面盒子里的AI小河狸🦫
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 803 |
-| 🍴 **Forks** | 110 |
+| ⭐ **Stars** | 806 |
+| 🍴 **Forks** | 112 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Design
 
 ## 📝 Summary
 

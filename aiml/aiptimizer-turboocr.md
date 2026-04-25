@@ -1,6 +1,6 @@
 # aiptimizer/TurboOCR
 
-[![Stars](https://img.shields.io/github/stars/aiptimizer/TurboOCR?style=flat-square&color=yellow)](https://github.com/aiptimizer/TurboOCR/stargazers) [![Forks](https://img.shields.io/github/forks/aiptimizer/TurboOCR?style=flat-square&color=blue)](https://github.com/aiptimizer/TurboOCR/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aiptimizer/TurboOCR?style=flat-square&color=yellow)](https://github.com/aiptimizer/TurboOCR/stargazers) [![Forks](https://img.shields.io/github/forks/aiptimizer/TurboOCR?style=flat-square&color=blue)](https://github.com/aiptimizer/TurboOCR/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Fast GPU OCR server. 270 img/s on FUNSD. TensorRT FP16, PP-OCRv5, HTTP + gRPC.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 175 |
-| 🍴 **Forks** | 14 |
+| ⭐ **Stars** | 179 |
+| 🍴 **Forks** | 17 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

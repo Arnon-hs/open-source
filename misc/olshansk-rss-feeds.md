@@ -1,6 +1,6 @@
 # Olshansk/rss-feeds
 
-[![Stars](https://img.shields.io/github/stars/Olshansk/rss-feeds?style=flat-square&color=yellow)](https://github.com/Olshansk/rss-feeds/stargazers) [![Forks](https://img.shields.io/github/forks/Olshansk/rss-feeds?style=flat-square&color=blue)](https://github.com/Olshansk/rss-feeds/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Olshansk/rss-feeds?style=flat-square&color=yellow)](https://github.com/Olshansk/rss-feeds/stargazers) [![Forks](https://img.shields.io/github/forks/Olshansk/rss-feeds?style=flat-square&color=blue)](https://github.com/Olshansk/rss-feeds/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Generate RSS feeds for all the blogs that don't have one
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 514 |
+| ⭐ **Stars** | 515 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

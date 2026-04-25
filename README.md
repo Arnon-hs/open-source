@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4411** |
+| 🗂️ **Total projects** | **4491** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1702 | [Browse →](./aiml/) |
-| 📦 **Misc** | 689 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 451 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 418 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 264 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 244 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 1734 | [Browse →](./aiml/) |
+| 📦 **Misc** | 708 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 456 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 427 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 268 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 245 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 172 | [Browse →](./crypto/) |
-| 📊 **Data** | 114 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 102 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 62 | [Browse →](./payments/) |
-| 📱 **Mobile** | 61 | [Browse →](./mobile/) |
+| 📊 **Data** | 116 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 105 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 66 | [Browse →](./payments/) |
+| 📱 **Mobile** | 62 | [Browse →](./mobile/) |
 | 📈 **Trading** | 48 | [Browse →](./trading/) |
 | 🔐 **Security** | 46 | [Browse →](./security/) |
 | ✨ **Design** | 18 | [Browse →](./design/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [awslabs/mcp](./backend/awslabs-mcp.md) | ⭐ 8.9k | Backend |
-| 2 | [triggerdotdev/trigger.dev](./orchestration/triggerdotdev-trigger.dev.md) | ⭐ 14.7k | Orchestration |
-| 3 | [hoochanlon/hamuleite](./misc/hoochanlon-hamuleite.md) | ⭐ 9.4k | Misc |
-| 4 | [activepieces/activepieces](./aiml/activepieces-activepieces.md) | ⭐ 21.9k | AI/ML |
-| 5 | [playframework/playframework](./aiml/playframework-playframework.md) | ⭐ 12.6k | AI/ML |
-| 6 | [recharts/recharts](./crypto/recharts-recharts.md) | ⭐ 27k | Crypto |
-| 7 | [huggingface/pytorch-image-models](./aiml/huggingface-pytorch-image-models.md) | ⭐ 36.7k | AI/ML |
-| 8 | [bytecodealliance/wasmtime](./misc/bytecodealliance-wasmtime.md) | ⭐ 17.9k | Misc |
-| 9 | [mcp-use/mcp-use](./aiml/mcp-use-mcp-use.md) | ⭐ 9.8k | AI/ML |
-| 10 | [openvinotoolkit/openvino](./aiml/openvinotoolkit-openvino.md) | ⭐ 10.1k | AI/ML |
+| 1 | [linshenkx/prompt-optimizer](./aiml/linshenkx-prompt-optimizer.md) | ⭐ 26.8k | AI/ML |
+| 2 | [nautechsystems/nautilus_trader](./crypto/nautechsystems-nautilus-trader.md) | ⭐ 22.3k | Crypto |
+| 3 | [oppia/oppia](./misc/oppia-oppia.md) | ⭐ 6.7k | Misc |
+| 4 | [langbot-app/LangBot](./aiml/langbot-app-langbot.md) | ⭐ 15.9k | AI/ML |
+| 5 | [harvard-edge/cs249r_book](./aiml/harvard-edge-cs249r-book.md) | ⭐ 23.8k | AI/ML |
+| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 7 | [janhq/jan](./aiml/janhq-jan.md) | ⭐ 42.1k | AI/ML |
+| 8 | [Skyvern-AI/skyvern](./aiml/skyvern-ai-skyvern.md) | ⭐ 21.4k | AI/ML |
+| 9 | [VictoriaMetrics/VictoriaMetrics](./data/victoriametrics-victoriametrics.md) | ⭐ 16.9k | Data |
+| 10 | [web-platform-tests/wpt](./aiml/web-platform-tests-wpt.md) | ⭐ 5.9k | AI/ML |
 
 ## 🚀 How it works
 

@@ -22,8 +22,8 @@
 | 12 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 59/100 |
 | 13 | [metacraft-labs/codetracer](./metacraft-labs-codetracer.md) | ⭐ 1.3k | Rust | 59/100 |
 | 14 | [lahin31/system-design-bangla](./lahin31-system-design-bangla.md) | ⭐ 1.2k | — | 56/100 |
-| 15 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 223 | Go | 52/100 |
-| 16 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
+| 15 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
+| 16 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 223 | Go | 52/100 |
 | 17 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 209 | PHP | 52/100 |
 | 18 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 457 | Go | 49/100 |
 
