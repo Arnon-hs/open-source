@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Wanaku is an open-source project that offers a MCP (Modular Control Panel) Router, designed to facilitate seamless interactions between various systems and applications. This AI/ML integrated backend solution enables efficient and scalable control panel management, making it a valuable resource for developers and system administrators. By leveraging Wanaku, users can streamline their workflow and enhance overall system performance.
+Here's a brief summary:
+
+Wanaku is an open-source AI/ML-powered MCP (Micro-Controller Platform) router that enables users to create a scalable and efficient network infrastructure. By leveraging machine learning capabilities, Wanaku optimizes network performance, provides real-time analytics, and ensures seamless communication between devices. This project aims to bridge the gap between traditional networking solutions and AI-driven innovations.
 
 ---
 

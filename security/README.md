@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**52 projects** in this category.
+**53 projects** in this category.
 
 ## Projects
 
@@ -44,11 +44,11 @@
 | 34 | [apache/casbin-rs](./apache-casbin-rs.md) | ⭐ 1.1k | Rust | 59/100 |
 | 35 | [dogtagpki/pki](./dogtagpki-pki.md) | ⭐ 488 | Java | 56/100 |
 | 36 | [firewalla/firewalla](./firewalla-firewalla.md) | ⭐ 604 | JavaScript | 56/100 |
-| 37 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 55/100 |
-| 38 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 905 | Rust | 55/100 |
-| 39 | [lf-edge/eve](./lf-edge-eve.md) | ⭐ 544 | Go | 55/100 |
-| 40 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 506 | JavaScript | 55/100 |
-| 41 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 163 | Go | 55/100 |
+| 37 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 163 | Go | 55/100 |
+| 38 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 55/100 |
+| 39 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 905 | Rust | 55/100 |
+| 40 | [lf-edge/eve](./lf-edge-eve.md) | ⭐ 544 | Go | 55/100 |
+| 41 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 506 | JavaScript | 55/100 |
 | 42 | [oxyno-zeta/s3-proxy](./oxyno-zeta-s3-proxy.md) | ⭐ 455 | Go | 54/100 |
 | 43 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 309 | Python | 53/100 |
 | 44 | [ohaswin/pyscan](./ohaswin-pyscan.md) | ⭐ 230 | Rust | 52/100 |
@@ -59,7 +59,8 @@
 | 49 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 166 | Go | 51/100 |
 | 50 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
 | 51 | [Karib0u/rustinel](./karib0u-rustinel.md) | ⭐ 103 | Rust | 51/100 |
-| 52 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
+| 52 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 758 | — | 47/100 |
+| 53 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
 
 ---
 

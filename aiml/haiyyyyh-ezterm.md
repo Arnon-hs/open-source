@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the EzTerm project:
+Here is a brief summary for the EzTerm project:
 
-EzTerm is a lightweight, high-performance C++ library for creating terminal user interfaces (TUIs) that are optimized for modern terminal emulators. It offers a simple and intuitive API, similar to ncurses, making it easy to develop complex terminal-based applications. With its focus on speed and efficiency, EzTerm is an ideal choice for building high-speed terminal applications.
+EzTerm is a lightweight, high-performance C++ library for creating Terminal User Interface (TUI) applications that are compatible with modern terminal emulators. Its design is inspired by ncurses, offering a simple and intuitive API for building TUI applications. This open-source library is ideal for AI/ML and frontend projects that require a terminal interface.
 
 ---
 

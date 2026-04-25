@@ -2,15 +2,15 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**54 projects** in this category.
+**55 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 100/100 |
-| 2 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
-| 3 | [MISP/MISP](./misp-misp.md) | ⭐ 6.3k | PHP | 100/100 |
+| 1 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
+| 2 | [MISP/MISP](./misp-misp.md) | ⭐ 6.3k | PHP | 100/100 |
+| 3 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 100/100 |
 | 4 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | HTML | 100/100 |
 | 5 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | — | 100/100 |
 | 6 | [ZhuLinsen/daily_stock_analysis](./zhulinsen-daily-stock-analysis.md) | ⭐ 31.4k | Python | 100/100 |
@@ -62,6 +62,7 @@
 | 52 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 27 | Python | 50/100 |
 | 53 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 25 | Shell | 50/100 |
 | 54 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
+| 55 | [tqec/tqec](./tqec-tqec.md) | ⭐ 358 | Python | 48/100 |
 
 ---
 

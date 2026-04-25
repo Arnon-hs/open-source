@@ -25,7 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-AlphaAvatar is an open-source project that enables the creation of real-time, interactive Omni Avatars. Built on LiveKit, this platform seamlessly integrates with various open-source avatar components, including real-time models, visual effects, voice interactions, and more. By leveraging AlphaAvatar, developers can build sophisticated virtual experiences with enhanced AI and ML capabilities.
+Here's a brief summary for the AlphaAvatar project:
+
+AlphaAvatar is an open-source, real-time interactive Omni Avatar built on LiveKit, enabling seamless integration with various avatar components, including real-time models, visual, voice, and memory. This AI/ML-driven project empowers developers to create immersive experiences by combining different open-source avatar components. By using AlphaAvatar, users can interact with advanced, dynamic avatars in real-time.
 
 ---
 

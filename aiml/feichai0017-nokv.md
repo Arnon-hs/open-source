@@ -25,9 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the NoKV project:
-
-NoKV is an open-source, high-performance distributed key-value storage system built using the Log-Structured Merge (LSM) Tree data structure. This allows for efficient data management and scalability in large-scale applications, making it suitable for use in AI/ML and data-intensive environments. By leveraging the LSM Tree, NoKV achieves fast write performance and optimized storage utilization.
+NoKV is an open-source, high-performance distributed key-value storage solution built on the LSM (Log-Structured Merge) Tree data structure. This key-value store is designed for efficient data management and scalable storage, making it suitable for use cases in AI, ML, and data-intensive applications. By leveraging the LSM Tree, NoKV achieves fast write and read performance while minimizing storage costs.
 
 ---
 

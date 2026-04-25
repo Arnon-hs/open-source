@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The kodeagent is an open-source, minimal AI agent engine designed to provide a lightweight and efficient foundation for developing AI and machine learning applications. This engine aims to simplify the integration of AI capabilities into various projects, making it accessible to developers across different domains. By offering a versatile and easy-to-use platform, kodeagent enables the creation of intelligent systems that can be seamlessly integrated into frontend and backend applications.
+Here's a brief summary for the kodeagent project:
+
+Kodeagent is a lightweight, open-source AI agent engine designed to provide a flexible foundation for building intelligent systems. With its minimalistic approach, kodeagent enables developers to create scalable and efficient AI-powered applications with ease. This project is ideal for those looking to integrate AI capabilities into their frontend or backend systems.
 
 ---
 

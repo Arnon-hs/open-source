@@ -25,9 +25,9 @@ DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the GitHub Actions linter project:
 
-Ghalint is an open-source GitHub Actions linter designed to detect and report on potential security vulnerabilities and best practices in GitHub Actions workflows. This tool helps developers maintain secure and efficient workflows by identifying issues before they become problems. By automating the linter process, Ghalint streamlines the development and deployment of reliable GitHub Actions.
+Ghalint is an open-source GitHub Actions linter designed to ensure the quality and security of workflows and actions on GitHub. It helps developers catch errors, improve code maintainability, and adhere to best practices, ultimately reducing the risk of workflow failures and security vulnerabilities. With ghalint, developers can write more reliable and maintainable GitHub Actions.
 
 ---
 

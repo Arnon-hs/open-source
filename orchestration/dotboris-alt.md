@@ -25,7 +25,7 @@ Orchestration · DevTools
 
 ## 📝 Summary
 
-The alt project is an open-source version manager tool designed to simplify the process of switching between different versions of system commands. This tool allows users to easily manage and switch between different versions, making it easier to test and work with multiple command line interfaces. By using alt, developers can streamline their workflow and reduce version conflicts.
+The alt project is an open-source, simple version manager tool designed to efficiently switch between different versions of commands. This tool enables users to seamlessly manage and switch between various versions of commands, streamlining their development workflow. By providing an easy-to-use interface, alt aims to simplify the process of working with multiple command versions.
 
 ---
 

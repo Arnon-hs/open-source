@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project "su-kaka/gcli2api":
+Here's a brief summary for the project:
 
-The "gcli2api" project is an open-source initiative that converts GeminiCLI and Antigravity into API interfaces for OpenAI, GEMINI, and Claude AI platforms. This enables seamless integration with these APIs, allowing developers to leverage the capabilities of these platforms in their applications. By bridging the gap between command-line tools and AI APIs, gcli2api streamlines the development process for AI-powered projects.
+The su-kaka/gcli2api project provides a bridge between popular command-line interfaces (CLI) like GeminiCLI and Antigravity, and cutting-edge AI APIs from OpenAI, GEMINI, and Claude. This open-source tool enables seamless conversions between CLI commands and API requests, simplifying the integration process for developers.
 
 ---
 

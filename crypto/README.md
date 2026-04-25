@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**179 projects** in this category.
+**181 projects** in this category.
 
 ## Projects
 
@@ -42,11 +42,11 @@
 | 32 | [linera-io/linera-protocol](./linera-io-linera-protocol.md) | ⭐ 32.1k | Rust | 94/100 |
 | 33 | [taikoxyz/taiko-mono](./taikoxyz-taiko-mono.md) | ⭐ 4.6k | Rust | 94/100 |
 | 34 | [Uniswap/interface](./uniswap-interface.md) | ⭐ 5.5k | TypeScript | 94/100 |
-| 35 | [testcontainers/testcontainers-go](./testcontainers-testcontainers-go.md) | ⭐ 4.8k | Go | 93/100 |
-| 36 | [BlockRunAI/ClawRouter](./blockrunai-clawrouter.md) | ⭐ 6.3k | TypeScript | 93/100 |
-| 37 | [ajv-validator/ajv](./ajv-validator-ajv.md) | ⭐ 14.7k | TypeScript | 93/100 |
-| 38 | [pyca/cryptography](./pyca-cryptography.md) | ⭐ 7.6k | Python | 93/100 |
-| 39 | [FuelLabs/fuel-core](./fuellabs-fuel-core.md) | ⭐ 57.1k | Rust | 93/100 |
+| 35 | [FuelLabs/fuel-core](./fuellabs-fuel-core.md) | ⭐ 57.1k | Rust | 93/100 |
+| 36 | [testcontainers/testcontainers-go](./testcontainers-testcontainers-go.md) | ⭐ 4.8k | Go | 93/100 |
+| 37 | [BlockRunAI/ClawRouter](./blockrunai-clawrouter.md) | ⭐ 6.3k | TypeScript | 93/100 |
+| 38 | [ajv-validator/ajv](./ajv-validator-ajv.md) | ⭐ 14.7k | TypeScript | 93/100 |
+| 39 | [pyca/cryptography](./pyca-cryptography.md) | ⭐ 7.6k | Python | 93/100 |
 | 40 | [googleapis/googleapis](./googleapis-googleapis.md) | ⭐ 8.5k | Starlark | 91/100 |
 | 41 | [rocq-prover/rocq](./rocq-prover-rocq.md) | ⭐ 5.4k | OCaml | 91/100 |
 | 42 | [codenotary/immudb](./codenotary-immudb.md) | ⭐ 9k | Go | 90/100 |
@@ -68,8 +68,8 @@
 | 58 | [ethereum/consensus-specs](./ethereum-consensus-specs.md) | ⭐ 3.9k | Python | 82/100 |
 | 59 | [erigontech/erigon](./erigontech-erigon.md) | ⭐ 3.6k | Go | 82/100 |
 | 60 | [paritytech/polkadot-sdk](./paritytech-polkadot-sdk.md) | ⭐ 2.8k | Rust | 79/100 |
-| 61 | [bluealloy/revm](./bluealloy-revm.md) | ⭐ 2.2k | Rust | 78/100 |
-| 62 | [cdk8s-team/cdk8s](./cdk8s-team-cdk8s.md) | ⭐ 4.8k | JavaScript | 78/100 |
+| 61 | [cdk8s-team/cdk8s](./cdk8s-team-cdk8s.md) | ⭐ 4.8k | JavaScript | 78/100 |
+| 62 | [bluealloy/revm](./bluealloy-revm.md) | ⭐ 2.2k | Rust | 78/100 |
 | 63 | [ccxt/go-binance](./ccxt-go-binance.md) | ⭐ 1.9k | Go | 75/100 |
 | 64 | [near/nearcore](./near-nearcore.md) | ⭐ 2.6k | Rust | 75/100 |
 | 65 | [besu-eth/besu](./besu-eth-besu.md) | ⭐ 1.8k | Java | 74/100 |
@@ -90,9 +90,9 @@
 | 80 | [mustbeperfect/definitive-opensource](./mustbeperfect-definitive-opensource.md) | ⭐ 3.2k | Python | 66/100 |
 | 81 | [ChainSafe/lodestar](./chainsafe-lodestar.md) | ⭐ 1.4k | TypeScript | 65/100 |
 | 82 | [romanz/electrs](./romanz-electrs.md) | ⭐ 1.4k | Rust | 65/100 |
-| 83 | [gnolang/gno](./gnolang-gno.md) | ⭐ 1.1k | Go | 64/100 |
-| 84 | [eracle/OpenOutreach](./eracle-openoutreach.md) | ⭐ 1.5k | Python | 64/100 |
-| 85 | [ignite/cli](./ignite-cli.md) | ⭐ 1.4k | Go | 64/100 |
+| 83 | [ignite/cli](./ignite-cli.md) | ⭐ 1.4k | Go | 64/100 |
+| 84 | [gnolang/gno](./gnolang-gno.md) | ⭐ 1.1k | Go | 64/100 |
+| 85 | [eracle/OpenOutreach](./eracle-openoutreach.md) | ⭐ 1.5k | Python | 64/100 |
 | 86 | [ZeusLN/zeus](./zeusln-zeus.md) | ⭐ 1.4k | TypeScript | 63/100 |
 | 87 | [jazzband/django-payments](./jazzband-django-payments.md) | ⭐ 1.2k | Python | 63/100 |
 | 88 | [solana-foundation/solana-go](./solana-foundation-solana-go.md) | ⭐ 1.5k | Go | 63/100 |
@@ -103,10 +103,10 @@
 | 93 | [taiga-family/maskito](./taiga-family-maskito.md) | ⭐ 1.6k | TypeScript | 62/100 |
 | 94 | [daos-stack/daos](./daos-stack-daos.md) | ⭐ 932 | C | 62/100 |
 | 95 | [dbt-labs/metricflow](./dbt-labs-metricflow.md) | ⭐ 1.6k | Python | 62/100 |
-| 96 | [alloy-rs/alloy](./alloy-rs-alloy.md) | ⭐ 1.3k | Rust | 61/100 |
-| 97 | [a16z/jolt](./a16z-jolt.md) | ⭐ 980 | Rust | 61/100 |
-| 98 | [SChernykh/p2pool](./schernykh-p2pool.md) | ⭐ 1.4k | C++ | 61/100 |
-| 99 | [zama-ai/tfhe-rs](./zama-ai-tfhe-rs.md) | ⭐ 1.6k | Rust | 61/100 |
+| 96 | [zama-ai/tfhe-rs](./zama-ai-tfhe-rs.md) | ⭐ 1.6k | Rust | 61/100 |
+| 97 | [alloy-rs/alloy](./alloy-rs-alloy.md) | ⭐ 1.3k | Rust | 61/100 |
+| 98 | [a16z/jolt](./a16z-jolt.md) | ⭐ 980 | Rust | 61/100 |
+| 99 | [SChernykh/p2pool](./schernykh-p2pool.md) | ⭐ 1.4k | C++ | 61/100 |
 | 100 | [digital-asset/daml](./digital-asset-daml.md) | ⭐ 886 | Haskell | 60/100 |
 | 101 | [decred/dcrd](./decred-dcrd.md) | ⭐ 773 | Go | 60/100 |
 | 102 | [ApeWorX/ape](./apeworx-ape.md) | ⭐ 1k | Python | 60/100 |
@@ -121,13 +121,13 @@
 | 111 | [dfinity/ic](./dfinity-ic.md) | ⭐ 1.7k | Rust | 58/100 |
 | 112 | [phishdestroy/destroylist](./phishdestroy-destroylist.md) | ⭐ 964 | HTML | 58/100 |
 | 113 | [flowsurface-rs/flowsurface](./flowsurface-rs-flowsurface.md) | ⭐ 1.5k | Rust | 58/100 |
-| 114 | [status-im/nimbus-eth1](./status-im-nimbus-eth1.md) | ⭐ 626 | Nim | 57/100 |
-| 115 | [piotrnar/gocoin](./piotrnar-gocoin.md) | ⭐ 1k | Go | 57/100 |
-| 116 | [nervosnetwork/ckb](./nervosnetwork-ckb.md) | ⭐ 1.2k | Rust | 57/100 |
-| 117 | [nrslib/takt](./nrslib-takt.md) | ⭐ 990 | TypeScript | 57/100 |
-| 118 | [stefanberger/swtpm](./stefanberger-swtpm.md) | ⭐ 778 | C | 57/100 |
-| 119 | [onflow/flow-go](./onflow-flow-go.md) | ⭐ 568 | Go | 57/100 |
-| 120 | [alloy-rs/core](./alloy-rs-core.md) | ⭐ 950 | Rust | 57/100 |
+| 114 | [nervosnetwork/ckb](./nervosnetwork-ckb.md) | ⭐ 1.2k | Rust | 57/100 |
+| 115 | [alloy-rs/core](./alloy-rs-core.md) | ⭐ 950 | Rust | 57/100 |
+| 116 | [onflow/flow-go](./onflow-flow-go.md) | ⭐ 568 | Go | 57/100 |
+| 117 | [status-im/nimbus-eth1](./status-im-nimbus-eth1.md) | ⭐ 626 | Nim | 57/100 |
+| 118 | [piotrnar/gocoin](./piotrnar-gocoin.md) | ⭐ 1k | Go | 57/100 |
+| 119 | [nrslib/takt](./nrslib-takt.md) | ⭐ 990 | TypeScript | 57/100 |
+| 120 | [stefanberger/swtpm](./stefanberger-swtpm.md) | ⭐ 778 | C | 57/100 |
 | 121 | [onflow/cadence](./onflow-cadence.md) | ⭐ 545 | Go | 56/100 |
 | 122 | [Sovereign-Labs/sovereign-sdk](./sovereign-labs-sovereign-sdk.md) | ⭐ 469 | Rust | 56/100 |
 | 123 | [CosmWasm/wasmd](./cosmwasm-wasmd.md) | ⭐ 411 | Go | 56/100 |
@@ -142,15 +142,15 @@
 | 132 | [onflow/flow](./onflow-flow.md) | ⭐ 359 | Go | 55/100 |
 | 133 | [web3infra-foundation/mega](./web3infra-foundation-mega.md) | ⭐ 455 | TypeScript | 55/100 |
 | 134 | [Scottcjn/rustchain-bounties](./scottcjn-rustchain-bounties.md) | ⭐ 131 | Python | 54/100 |
-| 135 | [Merit-Systems/x402scan](./merit-systems-x402scan.md) | ⭐ 326 | TypeScript | 54/100 |
-| 136 | [billimek/k8s-gitops](./billimek-k8s-gitops.md) | ⭐ 768 | YAML | 54/100 |
+| 135 | [billimek/k8s-gitops](./billimek-k8s-gitops.md) | ⭐ 768 | YAML | 54/100 |
+| 136 | [Merit-Systems/x402scan](./merit-systems-x402scan.md) | ⭐ 326 | TypeScript | 54/100 |
 | 137 | [0xMiden/miden-vm](./0xmiden-miden-vm.md) | ⭐ 735 | Rust | 54/100 |
 | 138 | [omnuron/omniclaw](./omnuron-omniclaw.md) | ⭐ 503 | Python | 54/100 |
 | 139 | [hardisgroupcom/sfdx-hardis](./hardisgroupcom-sfdx-hardis.md) | ⭐ 341 | TypeScript | 54/100 |
 | 140 | [spr-networks/super](./spr-networks-super.md) | ⭐ 557 | JavaScript | 54/100 |
-| 141 | [Consensys/linea-monorepo](./consensys-linea-monorepo.md) | ⭐ 119 | Go | 53/100 |
-| 142 | [randomwalkhan/Short-Term-Reversal-Strategy](./randomwalkhan-short-term-reversal-strategy.md) | ⭐ 356 | Jupyter Notebook | 53/100 |
-| 143 | [BlockRunAI/Franklin](./blockrunai-franklin.md) | ⭐ 343 | TypeScript | 53/100 |
+| 141 | [randomwalkhan/Short-Term-Reversal-Strategy](./randomwalkhan-short-term-reversal-strategy.md) | ⭐ 356 | Jupyter Notebook | 53/100 |
+| 142 | [BlockRunAI/Franklin](./blockrunai-franklin.md) | ⭐ 343 | TypeScript | 53/100 |
+| 143 | [Consensys/linea-monorepo](./consensys-linea-monorepo.md) | ⭐ 119 | Go | 53/100 |
 | 144 | [input-output-hk/daedalus](./input-output-hk-daedalus.md) | ⭐ 1.2k | TypeScript | 53/100 |
 | 145 | [commonwarexyz/monorepo](./commonwarexyz-monorepo.md) | ⭐ 550 | Rust | 53/100 |
 | 146 | [kubernetes/api](./kubernetes-api.md) | ⭐ 747 | Go | 53/100 |
@@ -181,12 +181,14 @@
 | 171 | [igoropaniuk/stonks-cli](./igoropaniuk-stonks-cli.md) | ⭐ 48 | Python | 50/100 |
 | 172 | [allsmog/vuln-scout](./allsmog-vuln-scout.md) | ⭐ 14 | Python | 50/100 |
 | 173 | [paradigmxyz/revmc](./paradigmxyz-revmc.md) | ⭐ 270 | Rust | 50/100 |
-| 174 | [depado/goploader](./depado-goploader.md) | ⭐ 300 | JavaScript | 49/100 |
-| 175 | [AlekseyKorshuk/yoomoney-api](./alekseykorshuk-yoomoney-api.md) | ⭐ 300 | Python | 49/100 |
-| 176 | [eepnet/emissary](./eepnet-emissary.md) | ⭐ 205 | Rust | 49/100 |
+| 174 | [eepnet/emissary](./eepnet-emissary.md) | ⭐ 205 | Rust | 49/100 |
+| 175 | [depado/goploader](./depado-goploader.md) | ⭐ 300 | JavaScript | 49/100 |
+| 176 | [AlekseyKorshuk/yoomoney-api](./alekseykorshuk-yoomoney-api.md) | ⭐ 300 | Python | 49/100 |
 | 177 | [left-curve/left-curve](./left-curve-left-curve.md) | ⭐ 134 | Rust | 48/100 |
-| 178 | [adyen-examples/adyen-node-online-payments](./adyen-examples-adyen-node-online-payments.md) | ⭐ 67 | JavaScript | 46/100 |
-| 179 | [wilpel/caveman-compression](./wilpel-caveman-compression.md) | ⭐ 811 | Python | 40/100 |
+| 178 | [veil-net/conflux](./veil-net-conflux.md) | ⭐ 410 | Go | 47/100 |
+| 179 | [adyen-examples/adyen-node-online-payments](./adyen-examples-adyen-node-online-payments.md) | ⭐ 67 | JavaScript | 46/100 |
+| 180 | [pactus-project/pactus](./pactus-project-pactus.md) | ⭐ 237 | Go | 44/100 |
+| 181 | [wilpel/caveman-compression](./wilpel-caveman-compression.md) | ⭐ 813 | Python | 40/100 |
 
 ---
 

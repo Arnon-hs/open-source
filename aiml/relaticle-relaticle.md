@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Relaticle is an open-source, self-hosted CRM (Customer Relationship Management) solution that integrates native AI agent support for enhanced customer interactions. Built with Laravel and Filament, this CRM offers a robust set of 30 MCP (Mobile, Desktop, and Web) tools, along with a REST API for seamless integration with other applications. With its open-source nature, users can customize and extend Relaticle to suit their specific business needs.
+Here is a brief summary for the relaticle/relaticle project:
+
+Relaticle is an open-source, self-hosted CRM (Customer Relationship Management) software that integrates native AI agent support. Built with Laravel and Filament, it offers a robust set of 30 MCP (Machine-Computer-Person) tools and a REST API for seamless integration with other applications. This comprehensive CRM solution empowers users to efficiently manage their relationships and automate tasks with the aid of advanced AI capabilities.
 
 ---
 

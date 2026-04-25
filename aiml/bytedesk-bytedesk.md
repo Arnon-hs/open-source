@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Bytedesk is an open-source, enterprise-grade instant messaging solution that integrates AI-powered customer service with team collaboration features. It offers an alternative to popular platforms like Slack, Zendesk, and Intercom, providing an all-in-one solution for omnichannel communication and support. By combining AI-driven customer service with team collaboration tools, Bytedesk aims to streamline communication and support processes for businesses.
+Here's a 2-3 sentence summary for the Bytedesk project:
+
+Bytedesk is an open-source, enterprise-grade Instant Messaging (IM) solution that integrates AI-powered omni-channel customer service and team collaboration. Designed as an alternative to popular platforms like Slack, Zendesk, and Intercom, Bytedesk offers a comprehensive communication and support platform for businesses. Its AI-driven features enable seamless, multi-channel customer engagement and team communication.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Valin is an open-source, cross-platform code editor built using the Freya framework and written in Rust. This project aims to provide a highly customizable and efficient coding experience, catering to developers working on various platforms. With its Rust foundation, Valin is designed to be fast, secure, and scalable.
+Valin is a cross-platform code editor built with the Freya framework and Rust programming language. It offers a versatile and high-performance coding experience, designed to be accessible on multiple platforms. Valin is an open-source project that aims to provide a modern and efficient coding environment for developers.
 
 ---
 

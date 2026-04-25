@@ -25,9 +25,7 @@ AI/ML · DevTools · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary for the Imprint project:
-
-Imprint is an open-source AI tool that captures the unique DNA of your projects, allowing it to learn and adapt to your patterns and workflows. With skills in memory, compression, onboarding, code review, and more, Imprint enhances collaboration across platforms and tools. It's designed for developers, marketers, and project managers to streamline their work and optimize productivity.
+Imprint is an open-source project that utilizes AI to capture and preserve knowledge patterns from conversations, allowing it to encode and duplicate these patterns across various platforms. This AI tool supports multiple skills, including memory, compression, onboarding, code review, debugging, and more, making it a versatile tool for developers, project managers, and marketers. By leveraging AI, Imprint streamlines workflows and enhances knowledge retention.
 
 ---
 

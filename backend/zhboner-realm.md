@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Realm is an open-source network relay tool designed to facilitate communication and data exchange between different systems and networks. It provides a robust and reliable way to forward messages, allowing for seamless integration and collaboration across various platforms. This project aims to simplify network interactions and enable efficient data transfer.
+The Realm project is an open-source network relay tool designed to facilitate the efficient transmission of data across various networks. Its primary function is to act as an intermediary, routing and relaying information between different systems and applications. By providing a robust and flexible network relay mechanism, Realm enables developers to create scalable and reliable data exchange solutions.
 
 ---
 

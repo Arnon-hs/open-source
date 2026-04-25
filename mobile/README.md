@@ -2,20 +2,20 @@
 
 > iOS, Android, cross-platform apps
 
-**70 projects** in this category.
+**72 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Anuken/Mindustry](./anuken-mindustry.md) | ⭐ 27.4k | Java | 100/100 |
-| 2 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.5k | C | 100/100 |
-| 3 | [vsouza/awesome-ios](./vsouza-awesome-ios.md) | ⭐ 51.9k | Swift | 100/100 |
-| 4 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.3k | Markdown | 100/100 |
-| 5 | [immich-app/immich](./immich-app-immich.md) | ⭐ 98.6k | TypeScript | 100/100 |
-| 6 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 112.9k | Rust | 100/100 |
-| 7 | [ankidroid/Anki-Android](./ankidroid-anki-android.md) | ⭐ 11k | Kotlin | 100/100 |
-| 8 | [TeamNewPipe/NewPipe](./teamnewpipe-newpipe.md) | ⭐ 37.9k | Java | 100/100 |
+| 1 | [TeamNewPipe/NewPipe](./teamnewpipe-newpipe.md) | ⭐ 37.9k | Java | 100/100 |
+| 2 | [Anuken/Mindustry](./anuken-mindustry.md) | ⭐ 27.4k | Java | 100/100 |
+| 3 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.5k | C | 100/100 |
+| 4 | [vsouza/awesome-ios](./vsouza-awesome-ios.md) | ⭐ 51.9k | Swift | 100/100 |
+| 5 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.3k | Markdown | 100/100 |
+| 6 | [immich-app/immich](./immich-app-immich.md) | ⭐ 98.6k | TypeScript | 100/100 |
+| 7 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 112.9k | Rust | 100/100 |
+| 8 | [ankidroid/Anki-Android](./ankidroid-anki-android.md) | ⭐ 11k | Kotlin | 100/100 |
 | 9 | [yuliskov/SmartTube](./yuliskov-smarttube.md) | ⭐ 29.7k | Java | 99/100 |
 | 10 | [bitwarden/android](./bitwarden-android.md) | ⭐ 8.7k | Kotlin | 96/100 |
 | 11 | [lief-project/LIEF](./lief-project-lief.md) | ⭐ 5.4k | C++ | 96/100 |
@@ -49,35 +49,37 @@
 | 39 | [ossdocumentscanner/OSS-DocumentScanner](./ossdocumentscanner-oss-documentscanner.md) | ⭐ 2k | C++ | 65/100 |
 | 40 | [Xed-Editor/Xed-Editor](./xed-editor-xed-editor.md) | ⭐ 1.9k | Java | 65/100 |
 | 41 | [xoureldeen/Vectras-VM-Android](./xoureldeen-vectras-vm-android.md) | ⭐ 2.2k | Java | 64/100 |
-| 42 | [getsentry/sentry-cocoa](./getsentry-sentry-cocoa.md) | ⭐ 1k | Swift | 63/100 |
-| 43 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.5k | Shell | 63/100 |
-| 44 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 63/100 |
-| 45 | [Watfaq/clash-rs](./watfaq-clash-rs.md) | ⭐ 1.6k | Rust | 63/100 |
-| 46 | [mateusz-bak/openreads](./mateusz-bak-openreads.md) | ⭐ 1.5k | Dart | 62/100 |
-| 47 | [nextcloud/talk-android](./nextcloud-talk-android.md) | ⭐ 710 | Kotlin | 60/100 |
-| 48 | [LemmyNet/jerboa](./lemmynet-jerboa.md) | ⭐ 1.3k | Kotlin | 59/100 |
-| 49 | [skydoves/compose-stability-analyzer](./skydoves-compose-stability-analyzer.md) | ⭐ 1.5k | Kotlin | 59/100 |
-| 50 | [librenms/docker](./librenms-docker.md) | ⭐ 828 | Dockerfile | 59/100 |
-| 51 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 948 | Dart | 58/100 |
-| 52 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
-| 53 | [OpenRadioss/OpenRadioss](./openradioss-openradioss.md) | ⭐ 792 | Fortran | 57/100 |
-| 54 | [EmbarkStudios/cargo-about](./embarkstudios-cargo-about.md) | ⭐ 723 | Rust | 56/100 |
-| 55 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 757 | Kotlin | 56/100 |
-| 56 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 561 | Rust | 54/100 |
-| 57 | [NativeScript/android](./nativescript-android.md) | ⭐ 559 | C++ | 54/100 |
-| 58 | [moneymanagerex/android-money-manager-ex](./moneymanagerex-android-money-manager-ex.md) | ⭐ 685 | Java | 54/100 |
-| 59 | [Rezivure/Grid-Mobile](./rezivure-grid-mobile.md) | ⭐ 466 | Dart | 54/100 |
-| 60 | [aegis-icons/aegis-icons](./aegis-icons-aegis-icons.md) | ⭐ 895 | Batchfile | 54/100 |
-| 61 | [ReSukiSU/ReSukiSU](./resukisu-resukisu.md) | ⭐ 597 | Kotlin | 53/100 |
-| 62 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 337 | Python | 53/100 |
-| 63 | [timer-machine/timer-machine-android](./timer-machine-timer-machine-android.md) | ⭐ 327 | Kotlin | 53/100 |
-| 64 | [maksimowiczm/FoodYou](./maksimowiczm-foodyou.md) | ⭐ 414 | Kotlin | 52/100 |
-| 65 | [ColdWindScholar/MIO-KITCHEN-SOURCE](./coldwindscholar-mio-kitchen-source.md) | ⭐ 417 | Python | 52/100 |
-| 66 | [leon-cleaning-services/leon](./leon-cleaning-services-leon.md) | ⭐ 354 | Kotlin | 52/100 |
-| 67 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 51/100 |
-| 68 | [premnirmal/StockTicker](./premnirmal-stockticker.md) | ⭐ 550 | Kotlin | 51/100 |
-| 69 | [TacticSpaceTech/TacticRemote](./tacticspacetech-tacticremote.md) | ⭐ 11 | — | 50/100 |
-| 70 | [MicroPythonOS/MicroPythonOS](./micropythonos-micropythonos.md) | ⭐ 696 | Python | 50/100 |
+| 42 | [dkrivoruchko/ScreenStream](./dkrivoruchko-screenstream.md) | ⭐ 2.4k | Kotlin | 64/100 |
+| 43 | [getsentry/sentry-cocoa](./getsentry-sentry-cocoa.md) | ⭐ 1k | Swift | 63/100 |
+| 44 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.5k | Shell | 63/100 |
+| 45 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 63/100 |
+| 46 | [Watfaq/clash-rs](./watfaq-clash-rs.md) | ⭐ 1.6k | Rust | 63/100 |
+| 47 | [mateusz-bak/openreads](./mateusz-bak-openreads.md) | ⭐ 1.5k | Dart | 62/100 |
+| 48 | [nextcloud/talk-android](./nextcloud-talk-android.md) | ⭐ 710 | Kotlin | 60/100 |
+| 49 | [LemmyNet/jerboa](./lemmynet-jerboa.md) | ⭐ 1.3k | Kotlin | 59/100 |
+| 50 | [skydoves/compose-stability-analyzer](./skydoves-compose-stability-analyzer.md) | ⭐ 1.5k | Kotlin | 59/100 |
+| 51 | [librenms/docker](./librenms-docker.md) | ⭐ 828 | Dockerfile | 59/100 |
+| 52 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 948 | Dart | 58/100 |
+| 53 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
+| 54 | [OpenRadioss/OpenRadioss](./openradioss-openradioss.md) | ⭐ 792 | Fortran | 57/100 |
+| 55 | [LSPosed/LSPlant](./lsposed-lsplant.md) | ⭐ 1.2k | C++ | 56/100 |
+| 56 | [EmbarkStudios/cargo-about](./embarkstudios-cargo-about.md) | ⭐ 723 | Rust | 56/100 |
+| 57 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 757 | Kotlin | 56/100 |
+| 58 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 561 | Rust | 54/100 |
+| 59 | [NativeScript/android](./nativescript-android.md) | ⭐ 559 | C++ | 54/100 |
+| 60 | [moneymanagerex/android-money-manager-ex](./moneymanagerex-android-money-manager-ex.md) | ⭐ 685 | Java | 54/100 |
+| 61 | [Rezivure/Grid-Mobile](./rezivure-grid-mobile.md) | ⭐ 466 | Dart | 54/100 |
+| 62 | [aegis-icons/aegis-icons](./aegis-icons-aegis-icons.md) | ⭐ 895 | Batchfile | 54/100 |
+| 63 | [ReSukiSU/ReSukiSU](./resukisu-resukisu.md) | ⭐ 597 | Kotlin | 53/100 |
+| 64 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 337 | Python | 53/100 |
+| 65 | [timer-machine/timer-machine-android](./timer-machine-timer-machine-android.md) | ⭐ 327 | Kotlin | 53/100 |
+| 66 | [maksimowiczm/FoodYou](./maksimowiczm-foodyou.md) | ⭐ 414 | Kotlin | 52/100 |
+| 67 | [ColdWindScholar/MIO-KITCHEN-SOURCE](./coldwindscholar-mio-kitchen-source.md) | ⭐ 417 | Python | 52/100 |
+| 68 | [leon-cleaning-services/leon](./leon-cleaning-services-leon.md) | ⭐ 354 | Kotlin | 52/100 |
+| 69 | [premnirmal/StockTicker](./premnirmal-stockticker.md) | ⭐ 550 | Kotlin | 51/100 |
+| 70 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 51/100 |
+| 71 | [TacticSpaceTech/TacticRemote](./tacticspacetech-tacticremote.md) | ⭐ 11 | — | 50/100 |
+| 72 | [MicroPythonOS/MicroPythonOS](./micropythonos-micropythonos.md) | ⭐ 696 | Python | 50/100 |
 
 ---
 

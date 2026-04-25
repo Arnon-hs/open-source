@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The peakflo/20x project is an open-source, self-improving agent orchestrator designed to streamline knowledge work by automating and optimizing various tasks. Its aim is to enhance productivity and efficiency by leveraging AI and ML capabilities to learn and adapt to evolving workflows and user needs. This innovative tool has the potential to revolutionize the way professionals manage their knowledge work.
+peakflo/20x is an open-source project that develops a Self-improving Agent orchestrator designed to enhance knowledge work processes. This AI/ML-based tool automates and optimizes tasks, fostering continuous improvement and efficiency in various knowledge-intensive workflows. Its primary goal is to streamline and augment work processes through intelligent automation and adaptive learning.
 
 ---
 

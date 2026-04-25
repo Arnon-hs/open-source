@@ -25,9 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the 'patoles/agent-flow' project:
-
-The 'patoles/agent-flow' project provides a real-time visualization tool for Claude Code agent orchestration, offering an insightful view into the decision-making processes and coordination of agents. This open-source project allows developers to monitor and understand how agents think, branch, and work together in real-time. By leveraging 'patoles/agent-flow', users can gain valuable visibility into their agent-based systems and optimize their performance.
+The patoles/agent-flow project is an open-source tool that provides real-time visualization of Claude Code agent orchestration. It allows developers to observe how agents think, branch, and coordinate as they work, offering valuable insights into their decision-making processes. This visualization can aid in the optimization and refinement of AI/ML agent orchestration.
 
 ---
 

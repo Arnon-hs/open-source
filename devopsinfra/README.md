@@ -2,21 +2,21 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**116 projects** in this category.
+**117 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [authelia/authelia](./authelia-authelia.md) | ⭐ 27.6k | Go | 100/100 |
-| 2 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 77.8k | TypeScript | 100/100 |
-| 3 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.4k | Python | 100/100 |
-| 4 | [dependabot/dependabot-core](./dependabot-dependabot-core.md) | ⭐ 5.5k | Ruby | 100/100 |
-| 5 | [projectcalico/calico](./projectcalico-calico.md) | ⭐ 7.2k | Go | 100/100 |
-| 6 | [argoproj/argo-cd](./argoproj-argo-cd.md) | ⭐ 22.7k | Go | 100/100 |
-| 7 | [alam00000/bentopdf](./alam00000-bentopdf.md) | ⭐ 12.9k | JavaScript | 100/100 |
-| 8 | [runatlantis/atlantis](./runatlantis-atlantis.md) | ⭐ 9k | Go | 100/100 |
-| 9 | [netbox-community/netbox](./netbox-community-netbox.md) | ⭐ 20.3k | Python | 100/100 |
+| 1 | [netbox-community/netbox](./netbox-community-netbox.md) | ⭐ 20.3k | Python | 100/100 |
+| 2 | [authelia/authelia](./authelia-authelia.md) | ⭐ 27.6k | Go | 100/100 |
+| 3 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 77.8k | TypeScript | 100/100 |
+| 4 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.4k | Python | 100/100 |
+| 5 | [dependabot/dependabot-core](./dependabot-dependabot-core.md) | ⭐ 5.5k | Ruby | 100/100 |
+| 6 | [projectcalico/calico](./projectcalico-calico.md) | ⭐ 7.2k | Go | 100/100 |
+| 7 | [argoproj/argo-cd](./argoproj-argo-cd.md) | ⭐ 22.7k | Go | 100/100 |
+| 8 | [alam00000/bentopdf](./alam00000-bentopdf.md) | ⭐ 12.9k | JavaScript | 100/100 |
+| 9 | [runatlantis/atlantis](./runatlantis-atlantis.md) | ⭐ 9k | Go | 100/100 |
 | 10 | [chef/chef](./chef-chef.md) | ⭐ 8.2k | Ruby | 99/100 |
 | 11 | [cert-manager/cert-manager](./cert-manager-cert-manager.md) | ⭐ 13.8k | Go | 97/100 |
 | 12 | [kubescape/kubescape](./kubescape-kubescape.md) | ⭐ 11.3k | Go | 97/100 |
@@ -46,8 +46,8 @@
 | 36 | [gardener/gardener](./gardener-gardener.md) | ⭐ 3.4k | Go | 82/100 |
 | 37 | [kubesphere/kubekey](./kubesphere-kubekey.md) | ⭐ 2.8k | Go | 81/100 |
 | 38 | [ardanlabs/service](./ardanlabs-service.md) | ⭐ 4k | Go | 79/100 |
-| 39 | [hashicorp/boundary](./hashicorp-boundary.md) | ⭐ 4k | Go | 78/100 |
-| 40 | [elastic/cloud-on-k8s](./elastic-cloud-on-k8s.md) | ⭐ 2.8k | Go | 78/100 |
+| 39 | [elastic/cloud-on-k8s](./elastic-cloud-on-k8s.md) | ⭐ 2.8k | Go | 78/100 |
+| 40 | [hashicorp/boundary](./hashicorp-boundary.md) | ⭐ 4k | Go | 78/100 |
 | 41 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 77/100 |
 | 42 | [DaKheera47/job-ops](./dakheera47-job-ops.md) | ⭐ 2.9k | TypeScript | 75/100 |
 | 43 | [kubeovn/kube-ovn](./kubeovn-kube-ovn.md) | ⭐ 2.3k | Go | 74/100 |
@@ -116,14 +116,15 @@
 | 106 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 213 | Go | 50/100 |
 | 107 | [estahn/k8s-image-swapper](./estahn-k8s-image-swapper.md) | ⭐ 631 | Go | 50/100 |
 | 108 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
-| 109 | [huaweicloud/terraform-provider-huaweicloud](./huaweicloud-terraform-provider-huaweicloud.md) | ⭐ 258 | Go | 49/100 |
-| 110 | [epinio/epinio](./epinio-epinio.md) | ⭐ 587 | Go | 49/100 |
-| 111 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 935 | Dockerfile | 49/100 |
+| 109 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 935 | Dockerfile | 49/100 |
+| 110 | [huaweicloud/terraform-provider-huaweicloud](./huaweicloud-terraform-provider-huaweicloud.md) | ⭐ 258 | Go | 49/100 |
+| 111 | [epinio/epinio](./epinio-epinio.md) | ⭐ 587 | Go | 49/100 |
 | 112 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 174 | Go | 48/100 |
 | 113 | [reteps/dockerfmt](./reteps-dockerfmt.md) | ⭐ 599 | Go | 48/100 |
 | 114 | [vmware/terraform-provider-vra](./vmware-terraform-provider-vra.md) | ⭐ 115 | Go | 48/100 |
-| 115 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 42/100 |
-| 116 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
+| 115 | [bitnami/charts-syncer](./bitnami-charts-syncer.md) | ⭐ 238 | Go | 45/100 |
+| 116 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 42/100 |
+| 117 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 2 | Go | 30/100 |
 
 ---
 

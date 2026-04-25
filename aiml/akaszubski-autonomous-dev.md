@@ -25,7 +25,7 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-The autonomous-dev project is an open-source setup for Claude Code 2.0, a production-ready AI-driven development tool. Its primary objective is to facilitate autonomous development by streamlining AI-driven workflows and processes. This setup aims to enhance development efficiency and security through the integration of AI/ML technologies.
+The autonomous-dev project is an open-source initiative that provides a production-ready setup for Claude Code 2.0, an AI-powered tool for enhancing the autonomous development process. This setup integrates AI/ML capabilities with DevTools and security features to streamline development workflows. By utilizing this project, developers can leverage the full potential of Claude Code 2.0 in a secure and efficient manner.
 
 ---
 

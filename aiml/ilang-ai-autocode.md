@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the ilang-ai/autocode project:
-
-Autocode is an open-source project that leverages AI to streamline the development process, allowing users to go from code to deployment in a single session. Powered by I-Lang v3.0, this platform supports 46 skills and offers a free, forever solution for developers. With Autocode, users can efficiently turn ideas into reality with minimal manual coding required.
+The autocode project is an open-source platform that enables users to generate code and deploy it directly without manual coding. It utilizes the I-Lang v3.0 programming language and currently supports 46 skills, allowing for a streamlined development process. With autocode, users can go from idea to deployment in a single session, all for free.
 
 ---
 

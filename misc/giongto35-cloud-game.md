@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the giongto35/cloud-game project:
-
-The giongto35/cloud-game project is an open-source web-based cloud gaming service designed for retro games. It allows users to play classic games on any device with a web browser, eliminating the need for dedicated gaming hardware or software. This project enables easy access to a vast library of retro games, creating a nostalgic gaming experience for users of all ages.
+The giongto35/cloud-game project is an open-source, web-based cloud gaming service focused on retro games. This platform allows users to access and play classic video games in the cloud, providing an accessible and convenient gaming experience. By leveraging cloud technology, users can enjoy retro games without the need for dedicated hardware or software installations.
 
 ---
 

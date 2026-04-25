@@ -9,13 +9,13 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [firecracker-microvm/firecracker](./firecracker-microvm-firecracker.md) | ⭐ 33.9k | Rust | 100/100 |
-| 2 | [Pawdroid/Free-servers](./pawdroid-free-servers.md) | ⭐ 17.1k | — | 100/100 |
-| 3 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.1k | PHP | 100/100 |
-| 4 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28k | TypeScript | 100/100 |
-| 5 | [invoiceninja/invoiceninja](./invoiceninja-invoiceninja.md) | ⭐ 9.7k | PHP | 100/100 |
-| 6 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.8k | Python | 100/100 |
-| 7 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 9.8k | PHP | 100/100 |
-| 8 | [knadh/listmonk](./knadh-listmonk.md) | ⭐ 19.6k | Go | 100/100 |
+| 2 | [knadh/listmonk](./knadh-listmonk.md) | ⭐ 19.6k | Go | 100/100 |
+| 3 | [Pawdroid/Free-servers](./pawdroid-free-servers.md) | ⭐ 17.1k | — | 100/100 |
+| 4 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.1k | PHP | 100/100 |
+| 5 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28k | TypeScript | 100/100 |
+| 6 | [invoiceninja/invoiceninja](./invoiceninja-invoiceninja.md) | ⭐ 9.7k | PHP | 100/100 |
+| 7 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.8k | Python | 100/100 |
+| 8 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 9.8k | PHP | 100/100 |
 | 9 | [99designs/gqlgen](./99designs-gqlgen.md) | ⭐ 10.7k | Go | 99/100 |
 | 10 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 96/100 |
 | 11 | [killbill/killbill](./killbill-killbill.md) | ⭐ 5.4k | Java | 94/100 |
@@ -59,8 +59,8 @@
 | 49 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 170 | Ruby | 52/100 |
 | 50 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 292 | — | 52/100 |
 | 51 | [ali-zahedi/az-iranian-bank-gateways](./ali-zahedi-az-iranian-bank-gateways.md) | ⭐ 598 | Python | 52/100 |
-| 52 | [tddworks/asc-cli](./tddworks-asc-cli.md) | ⭐ 164 | Swift | 51/100 |
-| 53 | [anand-92/droidproxy](./anand-92-droidproxy.md) | ⭐ 63 | HTML | 51/100 |
+| 52 | [anand-92/droidproxy](./anand-92-droidproxy.md) | ⭐ 63 | HTML | 51/100 |
+| 53 | [tddworks/asc-cli](./tddworks-asc-cli.md) | ⭐ 164 | Swift | 51/100 |
 | 54 | [askalf/dario](./askalf-dario.md) | ⭐ 96 | JavaScript | 51/100 |
 | 55 | [ClickDevTech/CELERITY-panel](./clickdevtech-celerity-panel.md) | ⭐ 116 | JavaScript | 51/100 |
 | 56 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 51/100 |

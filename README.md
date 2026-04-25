@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4963** |
+| 🗂️ **Total projects** | **5055** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1935 | [Browse →](./aiml/) |
-| 📦 **Misc** | 779 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 494 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 472 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 296 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 274 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 179 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 1969 | [Browse →](./aiml/) |
+| 📦 **Misc** | 804 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 500 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 482 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 300 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 279 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 181 | [Browse →](./crypto/) |
 | 📊 **Data** | 125 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 116 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 117 | [Browse →](./devopsinfra/) |
 | 💳 **Payments** | 74 | [Browse →](./payments/) |
-| 📱 **Mobile** | 70 | [Browse →](./mobile/) |
-| 📈 **Trading** | 54 | [Browse →](./trading/) |
-| 🔐 **Security** | 52 | [Browse →](./security/) |
-| ✨ **Design** | 21 | [Browse →](./design/) |
+| 📱 **Mobile** | 72 | [Browse →](./mobile/) |
+| 📈 **Trading** | 55 | [Browse →](./trading/) |
+| 🔐 **Security** | 53 | [Browse →](./security/) |
+| ✨ **Design** | 22 | [Browse →](./design/) |
 | 🎯 **Product** | 16 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 6 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [thedotmack/claude-mem](./orchestration/thedotmack-claude-mem.md) | ⭐ 67.2k | Orchestration |
-| 2 | [VoltAgent/awesome-agent-skills](./orchestration/voltagent-awesome-agent-skills.md) | ⭐ 18.7k | Orchestration |
-| 3 | [js-org/js.org](./aiml/js-org-js.org.md) | ⭐ 5.7k | AI/ML |
-| 4 | [Canner/WrenAI](./aiml/canner-wrenai.md) | ⭐ 15k | AI/ML |
-| 5 | [Qiskit/qiskit](./trading/qiskit-qiskit.md) | ⭐ 7.3k | Trading |
-| 6 | [Tencent/WeKnora](./aiml/tencent-weknora.md) | ⭐ 14k | AI/ML |
-| 7 | [Data-Centric-AI-Community/ydata-profiling](./aiml/data-centric-ai-community-ydata-profiling.md) | ⭐ 13.5k | AI/ML |
-| 8 | [XIU2/TrackersListCollection](./aiml/xiu2-trackerslistcollection.md) | ⭐ 31.1k | AI/ML |
-| 9 | [tensorflow/tensorflow](./aiml/tensorflow-tensorflow.md) | ⭐ 194.9k | AI/ML |
-| 10 | [TanStack/query](./frontend/tanstack-query.md) | ⭐ 49.2k | Frontend |
+| 1 | [VoltAgent/awesome-agent-skills](./orchestration/voltagent-awesome-agent-skills.md) | ⭐ 18.7k | Orchestration |
+| 2 | [js-org/js.org](./aiml/js-org-js.org.md) | ⭐ 5.7k | AI/ML |
+| 3 | [Data-Centric-AI-Community/ydata-profiling](./aiml/data-centric-ai-community-ydata-profiling.md) | ⭐ 13.5k | AI/ML |
+| 4 | [TanStack/query](./frontend/tanstack-query.md) | ⭐ 49.2k | Frontend |
+| 5 | [ansible/awx](./frontend/ansible-awx.md) | ⭐ 15.4k | Frontend |
+| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 7 | [recharts/recharts](./crypto/recharts-recharts.md) | ⭐ 27k | Crypto |
+| 8 | [google/langextract](./aiml/google-langextract.md) | ⭐ 35.8k | AI/ML |
+| 9 | [langchain-ai/open-swe](./orchestration/langchain-ai-open-swe.md) | ⭐ 9.6k | Orchestration |
+| 10 | [farion1231/cc-switch](./aiml/farion1231-cc-switch.md) | ⭐ 51k | AI/ML |
 
 ## 🚀 How it works
 

@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the logicrw/agpair project:
 
-The logicrw/agpair project is an open-source, code-first orchestration tool designed for AI coding workflows with Claude Code, allowing for structured receipts, recovery, and long-running task control. It supports integration with popular AI development tools such as Antigravity, Codex CLI, and Gemini CLI. This framework provides a robust, durable control layer for managing complex AI programming tasks.
+agpair is an open-source project that provides a durable orchestration layer for AI coding workflows, specifically designed for Claude Code. It enables structured receipt management, recovery, and long-running task control when dispatching tasks to Antigravity, Codex CLI, and Gemini CLI. This project aims to streamline and manage complex AI coding workflows with enhanced reliability and efficiency.
 
 ---
 

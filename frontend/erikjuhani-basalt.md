@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Basalt is an open-source, terminal-based user interface (TUI) application that allows users to manage their Obsidian notes directly from the command line. With Basalt, users can interact with their note repository in a convenient and efficient manner, streamlining their workflow and increasing productivity. This TUI application is designed to provide a seamless experience for Obsidian users who prefer working in the terminal.
+Basalt is an open-source, terminal-based user interface (TUI) application that enables users to manage their Obsidian notes directly from the command line. This tool provides a convenient and efficient way to interact with Obsidian notes without the need for a graphical user interface. By leveraging the terminal, Basalt streamlines note management for Obsidian users.
 
 ---
 

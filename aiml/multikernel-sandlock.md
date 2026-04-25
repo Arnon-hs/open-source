@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the multikernel/sandlock project:
-
-The multikernel/sandlock project provides a lightweight AI sandbox for Linux, allowing for secure and isolated AI and machine learning process execution without the need for containers, virtual machines, or root access. This process-based sandbox offers a convenient and efficient way to run AI applications while preventing potential security risks. By leveraging a minimalistic approach, it provides a flexible solution for developers working with AI and ML.
+The multikernel/sandlock project is an open-source, process-based sandbox for Linux that provides a lightweight and secure environment for artificial intelligence (AI) and machine learning (ML) applications. By operating outside of containers, virtual machines, and requiring root access, it offers a unique and efficient solution for sandboxing AI workloads. This project is ideal for developers seeking a streamlined approach to AI sandboxing.
 
 ---
 

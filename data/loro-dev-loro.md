@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Loro is an open-source project that enables collaborative and version-controlled JSON data management through the use of Conflict-Free Replicated Data Types (CRDTs). This innovative approach allows multiple users to work on the same dataset simultaneously, ensuring data consistency and minimizing conflicts. By leveraging CRDTs, Loro provides a scalable and reliable solution for collaborative data management.
+The Loro project is an open-source initiative that allows users to collaborate and manage JSON data in a version-controlled environment, utilizing Conflict-Free Replicated Data Types (CRDTs) for seamless synchronization. This innovative approach enables real-time data sharing and editing among multiple parties, eliminating the need for manual merging or conflict resolution. By leveraging CRDTs, Loro ensures data consistency and integrity across all collaborators.
 
 ---
 

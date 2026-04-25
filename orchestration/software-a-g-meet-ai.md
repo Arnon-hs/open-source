@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the SoftWare-A-G/meet-ai project:
-
-SoftWare-A-G/meet-ai is an open-source project that provides a remote control for various AI and ML platforms, including Claude Code, Codex, Pi, and Opencode. This project enables users to orchestrate and manage these platforms from a single interface, streamlining their workflow and improving efficiency. With SoftWare-A-G/meet-ai, users can now easily control and integrate their AI and ML tools, enhancing their productivity and collaboration.
+SoftWare-A-G/meet-ai is an open-source project that provides a remote control interface for various AI/ML models, including Claude Code, Codex, Pi, and Opencode. This project streamlines the process of interacting with these models, offering a centralized and user-friendly experience for developers and users alike. Through orchestration, it simplifies workflow management and enhances collaboration across different AI tools.
 
 ---
 

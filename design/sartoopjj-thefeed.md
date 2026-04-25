@@ -25,7 +25,7 @@ Design
 
 ## 📝 Summary
 
-The thefeed project is an open-source, DNS-based feed reader designed for environments with restricted access, where only DNS queries are allowed. It enables users to subscribe to Telegram channels and public X accounts, providing a reliable means of accessing content even in restricted settings. This innovative solution utilizes DNS queries to deliver data, overcoming traditional connectivity limitations.
+The thefeed project is an open-source, DNS-based feed reader designed for environments with limited connectivity. It enables users to subscribe to Telegram channels and public X accounts through DNS queries, providing a unique solution for those with restricted access. This innovative tool allows users to stay up-to-date with their favorite channels and accounts in a secure and reliable manner.
 
 ---
 

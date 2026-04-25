@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-MetaSearchMCP is an open-source metasearch backend and AI search API designed to integrate with large language model (LLM) agents. This project provides a Python FastAPI search gateway that aggregates search results from multiple engines, including Google, via SerpBase and Serper, while also offering fallback providers, deduplication, and a structured JSON output. It serves as a SearXNG alternative architecture for agent workflows, enhancing search capabilities and flexibility.
+Here's a brief summary of the MetaSearchMCP project:
+
+MetaSearchMCP is an open-source, high-performance metasearch backend that aggregates results from multiple search engines, including Google, via APIs like SerpBase and Serper. With its Python FastAPI search gateway, this project enables developers to access structured JSON output, provider fallback, deduplication, and more, making it an ideal solution for LLM agents and AI workflows. By providing a flexible and scalable architecture, MetaSearchMCP serves as a robust alternative to SearXNG and other metasearch solutions.
 
 ---
 
