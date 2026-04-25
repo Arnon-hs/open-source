@@ -2,33 +2,33 @@
 
 > iOS, Android, cross-platform apps
 
-**89 projects** in this category.
+**91 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [JunkFood02/Seal](./junkfood02-seal.md) | ⭐ 25.9k | Kotlin | 100/100 |
-| 2 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 112.9k | Rust | 100/100 |
-| 3 | [TeamNewPipe/NewPipe](./teamnewpipe-newpipe.md) | ⭐ 37.9k | Java | 100/100 |
+| 2 | [TeamNewPipe/NewPipe](./teamnewpipe-newpipe.md) | ⭐ 37.9k | Java | 100/100 |
+| 3 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 112.9k | Rust | 100/100 |
 | 4 | [immich-app/immich](./immich-app-immich.md) | ⭐ 98.6k | TypeScript | 100/100 |
 | 5 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.5k | C | 100/100 |
 | 6 | [Anuken/Mindustry](./anuken-mindustry.md) | ⭐ 27.4k | Java | 100/100 |
-| 7 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.3k | Markdown | 100/100 |
-| 8 | [ankidroid/Anki-Android](./ankidroid-anki-android.md) | ⭐ 11.1k | Kotlin | 100/100 |
-| 9 | [vsouza/awesome-ios](./vsouza-awesome-ios.md) | ⭐ 52k | Swift | 100/100 |
-| 10 | [flame-engine/flame](./flame-engine-flame.md) | ⭐ 10.5k | Dart | 100/100 |
+| 7 | [ankidroid/Anki-Android](./ankidroid-anki-android.md) | ⭐ 11.1k | Kotlin | 100/100 |
+| 8 | [vsouza/awesome-ios](./vsouza-awesome-ios.md) | ⭐ 52k | Swift | 100/100 |
+| 9 | [flame-engine/flame](./flame-engine-flame.md) | ⭐ 10.5k | Dart | 100/100 |
+| 10 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.3k | Markdown | 100/100 |
 | 11 | [yuliskov/SmartTube](./yuliskov-smarttube.md) | ⭐ 29.7k | Java | 99/100 |
 | 12 | [lief-project/LIEF](./lief-project-lief.md) | ⭐ 5.4k | C++ | 96/100 |
 | 13 | [espeak-ng/espeak-ng](./espeak-ng-espeak-ng.md) | ⭐ 6.4k | C | 96/100 |
 | 14 | [bitwarden/android](./bitwarden-android.md) | ⭐ 8.7k | Kotlin | 96/100 |
-| 15 | [firebase/flutterfire](./firebase-flutterfire.md) | ⭐ 9.2k | Dart | 95/100 |
-| 16 | [Predidit/Kazumi](./predidit-kazumi.md) | ⭐ 24.3k | Dart | 95/100 |
-| 17 | [ermaozi/get_subscribe](./ermaozi-get-subscribe.md) | ⭐ 8.9k | Python | 95/100 |
+| 15 | [ermaozi/get_subscribe](./ermaozi-get-subscribe.md) | ⭐ 8.9k | Python | 95/100 |
+| 16 | [firebase/flutterfire](./firebase-flutterfire.md) | ⭐ 9.2k | Dart | 95/100 |
+| 17 | [Predidit/Kazumi](./predidit-kazumi.md) | ⭐ 24.3k | Dart | 95/100 |
 | 18 | [androidx/androidx](./androidx-androidx.md) | ⭐ 6k | Kotlin | 94/100 |
 | 19 | [Ranchero-Software/NetNewsWire](./ranchero-software-netnewswire.md) | ⭐ 10k | Swift | 94/100 |
 | 20 | [duckduckgo/Android](./duckduckgo-android.md) | ⭐ 4.6k | Kotlin | 94/100 |
-| 21 | [Acode-Foundation/Acode](./acode-foundation-acode.md) | ⭐ 5.1k | JavaScript | 93/100 |
+| 21 | [Acode-Foundation/Acode](./acode-foundation-acode.md) | ⭐ 5.2k | JavaScript | 93/100 |
 | 22 | [offa/android-foss](./offa-android-foss.md) | ⭐ 9.9k | Python | 92/100 |
 | 23 | [facebook/fresco](./facebook-fresco.md) | ⭐ 17.1k | Java | 90/100 |
 | 24 | [facebook/facebook-ios-sdk](./facebook-facebook-ios-sdk.md) | ⭐ 8k | Swift | 90/100 |
@@ -71,12 +71,12 @@
 | 61 | [scribble-rs/scribble.rs](./scribble-rs-scribble.rs.md) | ⭐ 631 | Go | 58/100 |
 | 62 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
 | 63 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 947 | Dart | 58/100 |
-| 64 | [theothernt/AerialViews](./theothernt-aerialviews.md) | ⭐ 935 | Kotlin | 57/100 |
-| 65 | [localdesktop/localdesktop.github.io](./localdesktop-localdesktop.github.io.md) | ⭐ 1.5k | Rust | 57/100 |
+| 64 | [localdesktop/localdesktop.github.io](./localdesktop-localdesktop.github.io.md) | ⭐ 1.5k | Rust | 57/100 |
+| 65 | [theothernt/AerialViews](./theothernt-aerialviews.md) | ⭐ 935 | Kotlin | 57/100 |
 | 66 | [OpenRadioss/OpenRadioss](./openradioss-openradioss.md) | ⭐ 792 | Fortran | 57/100 |
 | 67 | [prajwalch/TorrentSearch](./prajwalch-torrentsearch.md) | ⭐ 785 | Kotlin | 56/100 |
-| 68 | [EmbarkStudios/cargo-about](./embarkstudios-cargo-about.md) | ⭐ 723 | Rust | 56/100 |
-| 69 | [LSPosed/LSPlant](./lsposed-lsplant.md) | ⭐ 1.2k | C++ | 56/100 |
+| 68 | [LSPosed/LSPlant](./lsposed-lsplant.md) | ⭐ 1.2k | C++ | 56/100 |
+| 69 | [EmbarkStudios/cargo-about](./embarkstudios-cargo-about.md) | ⭐ 723 | Rust | 56/100 |
 | 70 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 759 | Kotlin | 56/100 |
 | 71 | [AhmedLSayed9/dropdown_button2](./ahmedlsayed9-dropdown-button2.md) | ⭐ 353 | Dart | 55/100 |
 | 72 | [moneymanagerex/android-money-manager-ex](./moneymanagerex-android-money-manager-ex.md) | ⭐ 685 | Java | 54/100 |
@@ -84,19 +84,21 @@
 | 74 | [aegis-icons/aegis-icons](./aegis-icons-aegis-icons.md) | ⭐ 895 | Batchfile | 54/100 |
 | 75 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 561 | Rust | 54/100 |
 | 76 | [NativeScript/android](./nativescript-android.md) | ⭐ 559 | C++ | 54/100 |
-| 77 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 338 | Python | 53/100 |
-| 78 | [timer-machine/timer-machine-android](./timer-machine-timer-machine-android.md) | ⭐ 327 | Kotlin | 53/100 |
-| 79 | [ReSukiSU/ReSukiSU](./resukisu-resukisu.md) | ⭐ 599 | Kotlin | 53/100 |
-| 80 | [leon-cleaning-services/leon](./leon-cleaning-services-leon.md) | ⭐ 353 | Kotlin | 52/100 |
-| 81 | [ColdWindScholar/MIO-KITCHEN-SOURCE](./coldwindscholar-mio-kitchen-source.md) | ⭐ 417 | Python | 52/100 |
-| 82 | [maksimowiczm/FoodYou](./maksimowiczm-foodyou.md) | ⭐ 415 | Kotlin | 52/100 |
-| 83 | [michaelbel/movies](./michaelbel-movies.md) | ⭐ 336 | Kotlin | 51/100 |
-| 84 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 162 | Rust | 51/100 |
-| 85 | [premnirmal/StockTicker](./premnirmal-stockticker.md) | ⭐ 550 | Kotlin | 51/100 |
-| 86 | [aj3423/SpamBlocker](./aj3423-spamblocker.md) | ⭐ 1.5k | Kotlin | 51/100 |
-| 87 | [TacticSpaceTech/TacticRemote](./tacticspacetech-tacticremote.md) | ⭐ 11 | — | 50/100 |
-| 88 | [MicroPythonOS/MicroPythonOS](./micropythonos-micropythonos.md) | ⭐ 696 | Python | 50/100 |
-| 89 | [forcedotcom/SalesforceMobileSDK-Android](./forcedotcom-salesforcemobilesdk-android.md) | ⭐ 358 | Java | 48/100 |
+| 77 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 466 | Kotlin | 54/100 |
+| 78 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 338 | Python | 53/100 |
+| 79 | [timer-machine/timer-machine-android](./timer-machine-timer-machine-android.md) | ⭐ 327 | Kotlin | 53/100 |
+| 80 | [ReSukiSU/ReSukiSU](./resukisu-resukisu.md) | ⭐ 599 | Kotlin | 53/100 |
+| 81 | [leon-cleaning-services/leon](./leon-cleaning-services-leon.md) | ⭐ 353 | Kotlin | 52/100 |
+| 82 | [ColdWindScholar/MIO-KITCHEN-SOURCE](./coldwindscholar-mio-kitchen-source.md) | ⭐ 417 | Python | 52/100 |
+| 83 | [maksimowiczm/FoodYou](./maksimowiczm-foodyou.md) | ⭐ 415 | Kotlin | 52/100 |
+| 84 | [AlfaazPlus/QuranApp](./alfaazplus-quranapp.md) | ⭐ 350 | Kotlin | 51/100 |
+| 85 | [michaelbel/movies](./michaelbel-movies.md) | ⭐ 336 | Kotlin | 51/100 |
+| 86 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 162 | Rust | 51/100 |
+| 87 | [premnirmal/StockTicker](./premnirmal-stockticker.md) | ⭐ 550 | Kotlin | 51/100 |
+| 88 | [aj3423/SpamBlocker](./aj3423-spamblocker.md) | ⭐ 1.5k | Kotlin | 51/100 |
+| 89 | [TacticSpaceTech/TacticRemote](./tacticspacetech-tacticremote.md) | ⭐ 11 | — | 50/100 |
+| 90 | [MicroPythonOS/MicroPythonOS](./micropythonos-micropythonos.md) | ⭐ 696 | Python | 50/100 |
+| 91 | [forcedotcom/SalesforceMobileSDK-Android](./forcedotcom-salesforcemobilesdk-android.md) | ⭐ 358 | Java | 48/100 |
 
 ---
 

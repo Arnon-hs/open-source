@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**84 projects** in this category.
+**89 projects** in this category.
 
 ## Projects
 
@@ -35,26 +35,26 @@
 | 25 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.5k | Kotlin | 64/100 |
 | 26 | [robinebers/openusage](./robinebers-openusage.md) | ⭐ 2k | JavaScript | 63/100 |
 | 27 | [NiREvil/vless](./nirevil-vless.md) | ⭐ 1k | Rust | 61/100 |
-| 28 | [stripe/stripe-cli](./stripe-stripe-cli.md) | ⭐ 2k | Go | 61/100 |
-| 29 | [useautumn/autumn](./useautumn-autumn.md) | ⭐ 2.5k | TypeScript | 61/100 |
-| 30 | [Natively-AI-assistant/natively-cluely-ai-assistant](./natively-ai-assistant-natively-cluely-ai-assistant.md) | ⭐ 1k | TypeScript | 61/100 |
+| 28 | [Natively-AI-assistant/natively-cluely-ai-assistant](./natively-ai-assistant-natively-cluely-ai-assistant.md) | ⭐ 1k | TypeScript | 61/100 |
+| 29 | [stripe/stripe-cli](./stripe-stripe-cli.md) | ⭐ 2k | Go | 61/100 |
+| 30 | [useautumn/autumn](./useautumn-autumn.md) | ⭐ 2.5k | TypeScript | 61/100 |
 | 31 | [heyhuynhgiabuu/proxypal](./heyhuynhgiabuu-proxypal.md) | ⭐ 1.1k | TypeScript | 60/100 |
 | 32 | [Lin-arm/GKD_subscription](./lin-arm-gkd-subscription.md) | ⭐ 2.1k | TypeScript | 60/100 |
 | 33 | [rynfar/meridian](./rynfar-meridian.md) | ⭐ 948 | TypeScript | 59/100 |
 | 34 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
 | 35 | [meteroid-oss/meteroid](./meteroid-oss-meteroid.md) | ⭐ 1.1k | Rust | 58/100 |
-| 36 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 867 | TypeScript | 57/100 |
+| 36 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 868 | TypeScript | 57/100 |
 | 37 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 532 | Perl | 56/100 |
-| 38 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 779 | C# | 56/100 |
+| 38 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 781 | C# | 56/100 |
 | 39 | [VladSez/easy-invoice-pdf](./vladsez-easy-invoice-pdf.md) | ⭐ 765 | TypeScript | 56/100 |
 | 40 | [AuthorizeNet/sdk-php](./authorizenet-sdk-php.md) | ⭐ 454 | PHP | 55/100 |
 | 41 | [open-condo-software/condo](./open-condo-software-condo.md) | ⭐ 336 | JavaScript | 54/100 |
-| 42 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
-| 43 | [jazzband/django-newsletter](./jazzband-django-newsletter.md) | ⭐ 910 | Python | 53/100 |
-| 44 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 176 | PHP | 53/100 |
-| 45 | [nymtech/nym-vpn-client](./nymtech-nym-vpn-client.md) | ⭐ 397 | Rust | 53/100 |
-| 46 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
-| 47 | [elC0mpa/aws-doctor](./elc0mpa-aws-doctor.md) | ⭐ 418 | Go | 53/100 |
+| 42 | [jazzband/django-newsletter](./jazzband-django-newsletter.md) | ⭐ 910 | Python | 53/100 |
+| 43 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 176 | PHP | 53/100 |
+| 44 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
+| 45 | [elC0mpa/aws-doctor](./elc0mpa-aws-doctor.md) | ⭐ 418 | Go | 53/100 |
+| 46 | [nymtech/nym-vpn-client](./nymtech-nym-vpn-client.md) | ⭐ 397 | Rust | 53/100 |
+| 47 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
 | 48 | [agentic-commerce-protocol/agentic-commerce-protocol](./agentic-commerce-protocol-agentic-commerce-protocol.md) | ⭐ 1.4k | JavaScript | 53/100 |
 | 49 | [braintree/android-card-form](./braintree-android-card-form.md) | ⭐ 374 | Java | 52/100 |
 | 50 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 52/100 |
@@ -64,7 +64,7 @@
 | 54 | [ali-zahedi/az-iranian-bank-gateways](./ali-zahedi-az-iranian-bank-gateways.md) | ⭐ 598 | Python | 52/100 |
 | 55 | [tddworks/asc-cli](./tddworks-asc-cli.md) | ⭐ 168 | Swift | 51/100 |
 | 56 | [anand-92/droidproxy](./anand-92-droidproxy.md) | ⭐ 63 | Swift | 51/100 |
-| 57 | [askalf/dario](./askalf-dario.md) | ⭐ 96 | JavaScript | 51/100 |
+| 57 | [askalf/dario](./askalf-dario.md) | ⭐ 97 | JavaScript | 51/100 |
 | 58 | [ClickDevTech/CELERITY-panel](./clickdevtech-celerity-panel.md) | ⭐ 116 | JavaScript | 51/100 |
 | 59 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 51/100 |
 | 60 | [orchidfiles/ungate](./orchidfiles-ungate.md) | ⭐ 14 | TypeScript | 50/100 |
@@ -82,16 +82,21 @@
 | 72 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 47/100 |
 | 73 | [mollie/laravel-cashier-mollie](./mollie-laravel-cashier-mollie.md) | ⭐ 172 | PHP | 47/100 |
 | 74 | [Adyen/adyen-ruby-api-library](./adyen-adyen-ruby-api-library.md) | ⭐ 52 | Ruby | 47/100 |
-| 75 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 46/100 |
-| 76 | [shetabit/payment](./shetabit-payment.md) | ⭐ 941 | PHP | 46/100 |
-| 77 | [mollie/Shopware6](./mollie-shopware6.md) | ⭐ 64 | PHP | 45/100 |
-| 78 | [fawry-api/fawry](./fawry-api-fawry.md) | ⭐ 69 | Ruby | 45/100 |
-| 79 | [Adyen/adyen-python-api-library](./adyen-adyen-python-api-library.md) | ⭐ 65 | Python | 43/100 |
-| 80 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 75 | Python | 43/100 |
-| 81 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 42/100 |
-| 82 | [AuthorizeNet/sdk-dotnet](./authorizenet-sdk-dotnet.md) | ⭐ 154 | C# | 42/100 |
-| 83 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 242 | JavaScript | 42/100 |
-| 84 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 111 | Rust | 42/100 |
+| 75 | [shetabit/payment](./shetabit-payment.md) | ⭐ 941 | PHP | 46/100 |
+| 76 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 46/100 |
+| 77 | [WorkSmartAI-alt/ai-visibility-monitor](./worksmartai-alt-ai-visibility-monitor.md) | ⭐ 5 | Python | 45/100 |
+| 78 | [mollie/Shopware6](./mollie-shopware6.md) | ⭐ 64 | PHP | 45/100 |
+| 79 | [fawry-api/fawry](./fawry-api-fawry.md) | ⭐ 69 | Ruby | 45/100 |
+| 80 | [Adyen/adyen-python-api-library](./adyen-adyen-python-api-library.md) | ⭐ 65 | Python | 43/100 |
+| 81 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 75 | Python | 43/100 |
+| 82 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 42/100 |
+| 83 | [AuthorizeNet/sdk-dotnet](./authorizenet-sdk-dotnet.md) | ⭐ 154 | C# | 42/100 |
+| 84 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 242 | JavaScript | 42/100 |
+| 85 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 111 | Rust | 42/100 |
+| 86 | [protonemedia/laravel-paddle](./protonemedia-laravel-paddle.md) | ⭐ 202 | PHP | 40/100 |
+| 87 | [PtPrashantTripathi/linkpe](./ptprashanttripathi-linkpe.md) | ⭐ 98 | HTML | 40/100 |
+| 88 | [anthropics/claude-code](./anthropics-claude-code.md) | ⭐ — | — | 39/100 |
+| 89 | [AutoFTbot/Qris-OrderKuota](./autoftbot-qris-orderkuota.md) | ⭐ 63 | PHP | 39/100 |
 
 ---
 

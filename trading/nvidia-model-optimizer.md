@@ -1,6 +1,6 @@
 # NVIDIA/Model-Optimizer
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/Model-Optimizer?style=flat-square&color=yellow)](https://github.com/NVIDIA/Model-Optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/Model-Optimizer?style=flat-square&color=blue)](https://github.com/NVIDIA/Model-Optimizer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/Model-Optimizer?style=flat-square&color=yellow)](https://github.com/NVIDIA/Model-Optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/Model-Optimizer?style=flat-square&color=blue)](https://github.com/NVIDIA/Model-Optimizer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.6k |
-| 🍴 **Forks** | 367 |
+| 🍴 **Forks** | 368 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

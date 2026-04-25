@@ -1,6 +1,6 @@
 # GitGuardian/ggshield
 
-[![Stars](https://img.shields.io/github/stars/GitGuardian/ggshield?style=flat-square&color=yellow)](https://github.com/GitGuardian/ggshield/stargazers) [![Forks](https://img.shields.io/github/forks/GitGuardian/ggshield?style=flat-square&color=blue)](https://github.com/GitGuardian/ggshield/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GitGuardian/ggshield?style=flat-square&color=yellow)](https://github.com/GitGuardian/ggshield/stargazers) [![Forks](https://img.shields.io/github/forks/GitGuardian/ggshield?style=flat-square&color=blue)](https://github.com/GitGuardian/ggshield/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Detect and validate 500+ types of hardcoded secrets with advanced checks. Use it as a pre-commit hook, GitHub Action, or CLI for proactive secret detection and security.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

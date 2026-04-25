@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**63 projects** in this category.
+**64 projects** in this category.
 
 ## Projects
 
@@ -10,9 +10,9 @@
 |---|---|---|---|---|
 | 1 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6k | C++ | 100/100 |
 | 2 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
-| 3 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.2k | Python | 100/100 |
-| 4 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
-| 5 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.1k | C | 100/100 |
+| 3 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
+| 4 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.1k | C | 100/100 |
+| 5 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.2k | Python | 100/100 |
 | 6 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.5k | C | 100/100 |
 | 7 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
 | 8 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
@@ -57,20 +57,21 @@
 | 47 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 321 | Python | 53/100 |
 | 48 | [rfc-st/humble](./rfc-st-humble.md) | ⭐ 360 | Python | 53/100 |
 | 49 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 310 | Python | 53/100 |
-| 50 | [apache/casbin-caddy-authz](./apache-casbin-caddy-authz.md) | ⭐ 249 | Go | 52/100 |
-| 51 | [dogtagpki/pki](./dogtagpki-pki.md) | ⭐ 488 | Java | 52/100 |
-| 52 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 612 | Go | 52/100 |
-| 53 | [ohaswin/pyscan](./ohaswin-pyscan.md) | ⭐ 231 | Rust | 52/100 |
-| 54 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
+| 50 | [ohaswin/pyscan](./ohaswin-pyscan.md) | ⭐ 231 | Rust | 52/100 |
+| 51 | [apache/casbin-caddy-authz](./apache-casbin-caddy-authz.md) | ⭐ 249 | Go | 52/100 |
+| 52 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
+| 53 | [dogtagpki/pki](./dogtagpki-pki.md) | ⭐ 488 | Java | 52/100 |
+| 54 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 612 | Go | 52/100 |
 | 55 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
 | 56 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
 | 57 | [Karib0u/rustinel](./karib0u-rustinel.md) | ⭐ 103 | Rust | 51/100 |
 | 58 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 166 | Go | 51/100 |
 | 59 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 758 | — | 47/100 |
 | 60 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 495 | Go | 45/100 |
-| 61 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 453 | — | 44/100 |
-| 62 | [nuxt/hints](./nuxt-hints.md) | ⭐ 333 | TypeScript | 42/100 |
-| 63 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
+| 61 | [FanTranslatorsInternational/Kuriimu2](./fantranslatorsinternational-kuriimu2.md) | ⭐ 407 | C# | 44/100 |
+| 62 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 453 | — | 44/100 |
+| 63 | [nuxt/hints](./nuxt-hints.md) | ⭐ 333 | TypeScript | 42/100 |
+| 64 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
 
 ---
 
