@@ -1,6 +1,6 @@
 # grafana/mcp-grafana
 
-[![Stars](https://img.shields.io/github/stars/grafana/mcp-grafana?style=flat-square&color=yellow)](https://github.com/grafana/mcp-grafana/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/mcp-grafana?style=flat-square&color=blue)](https://github.com/grafana/mcp-grafana/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/mcp-grafana?style=flat-square&color=yellow)](https://github.com/grafana/mcp-grafana/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/mcp-grafana?style=flat-square&color=blue)](https://github.com/grafana/mcp-grafana/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Grafana
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 343 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

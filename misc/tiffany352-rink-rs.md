@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/tiffany352/rink-rs?style=flat-square&color=yellow)](https://github.com/tiffany352/rink-rs/stargazers) [![Forks](https://img.shields.io/github/forks/tiffany352/rink-rs?style=flat-square&color=blue)](https://github.com/tiffany352/rink-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
-> Unit conversion tool and library written in rust
+> Unit conversion tool and library written in rust. Repo moving to Codeberg: https://codeberg.org/tiffany/rink
 
 ## 📊 Stats
 

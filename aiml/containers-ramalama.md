@@ -1,6 +1,6 @@
 # containers/ramalama
 
-[![Stars](https://img.shields.io/github/stars/containers/ramalama?style=flat-square&color=yellow)](https://github.com/containers/ramalama/stargazers) [![Forks](https://img.shields.io/github/forks/containers/ramalama?style=flat-square&color=blue)](https://github.com/containers/ramalama/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/containers/ramalama?style=flat-square&color=yellow)](https://github.com/containers/ramalama/stargazers) [![Forks](https://img.shields.io/github/forks/containers/ramalama?style=flat-square&color=blue)](https://github.com/containers/ramalama/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 334 |
+| 🍴 **Forks** | 335 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

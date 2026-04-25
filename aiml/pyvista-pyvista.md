@@ -1,6 +1,6 @@
 # pyvista/pyvista
 
-[![Stars](https://img.shields.io/github/stars/pyvista/pyvista?style=flat-square&color=yellow)](https://github.com/pyvista/pyvista/stargazers) [![Forks](https://img.shields.io/github/forks/pyvista/pyvista?style=flat-square&color=blue)](https://github.com/pyvista/pyvista/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pyvista/pyvista?style=flat-square&color=yellow)](https://github.com/pyvista/pyvista/stargazers) [![Forks](https://img.shields.io/github/forks/pyvista/pyvista?style=flat-square&color=blue)](https://github.com/pyvista/pyvista/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 613 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

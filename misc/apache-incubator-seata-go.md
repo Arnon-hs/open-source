@@ -1,0 +1,34 @@
+# apache/incubator-seata-go
+
+[![Stars](https://img.shields.io/github/stars/apache/incubator-seata-go?style=flat-square&color=yellow)](https://github.com/apache/incubator-seata-go/stargazers) [![Forks](https://img.shields.io/github/forks/apache/incubator-seata-go?style=flat-square&color=blue)](https://github.com/apache/incubator-seata-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+
+> Go Implementation For Seata
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 342 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+Here's a brief summary for the open-source project:
+
+Apache Incubator Seata-Go is an open-source, Go implementation of Seata, a distributed transaction management framework. This project enables developers to leverage the power of Seata in Go-based applications, providing a scalable and reliable solution for distributed transactions. By utilizing Seata-Go, developers can build more robust and fault-tolerant applications.
+
+---
+
+<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/apache/incubator-seata-go) · [← Back to Misc](./README.md)</sub>

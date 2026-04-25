@@ -1,6 +1,6 @@
 # xintaofei/codeg
 
-[![Stars](https://img.shields.io/github/stars/xintaofei/codeg?style=flat-square&color=yellow)](https://github.com/xintaofei/codeg/stargazers) [![Forks](https://img.shields.io/github/forks/xintaofei/codeg?style=flat-square&color=blue)](https://github.com/xintaofei/codeg/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xintaofei/codeg?style=flat-square&color=yellow)](https://github.com/xintaofei/codeg/stargazers) [![Forks](https://img.shields.io/github/forks/xintaofei/codeg?style=flat-square&color=blue)](https://github.com/xintaofei/codeg/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Aggregate and browse AI coding agent sessions (Claude Code, Codex, Gemini CLI, etc.) in one place. Desktop app, self-hosted server, or Docker.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 882 |
+| ⭐ **Stars** | 885 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
