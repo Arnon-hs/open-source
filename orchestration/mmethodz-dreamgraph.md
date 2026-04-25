@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the DreamGraph project:
-
-DreamGraph is an open-source, graph-first cognitive layer that enables persistent knowledge graph reasoning and validation, streamlining the documentation generation process. This project integrates seamlessly with various tools and frameworks, making it a valuable component in AI/ML, orchestration, and frontend development. By leveraging a graph-based architecture, DreamGraph simplifies complex workflows and facilitates data-driven decision-making.
+DreamGraph is an open-source graph-first cognitive layer that enables reasoning, validation, and documentation generation through a persistent knowledge graph. It provides a scalable and flexible framework for managing complex data relationships and automating various tasks. By integrating with various tools and interfaces, DreamGraph simplifies the process of building and maintaining knowledge graphs for AI/ML and orchestration applications.
 
 ---
 

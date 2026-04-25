@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-The cherry project is an open-source, actor model-based game server framework written in Go (Golang). This framework enables developers to build scalable, high-performance game servers by utilizing a lightweight and concurrent architecture. It provides a robust foundation for game developers to create complex, distributed systems with ease.
+Here's a brief summary for the open-source project:
+
+Cherry is an open-source, actor model-based game server framework designed for high-performance applications built with Go. This framework provides a scalable and concurrent architecture for game developers to build and manage their server-side logic. By leveraging the actor model, Cherry enables developers to create efficient, fault-tolerant, and easily maintainable game servers.
 
 ---
 

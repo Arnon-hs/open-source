@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the scaleapi/llm-engine project:
+Here's a brief summary for the open-source project:
 
-The scaleapi/llm-engine is an open-source repository providing a public access point to Scale's LLM (Large Language Model) Engine, a powerful AI/ML tool for various backend applications. This engine enables developers to leverage the capabilities of large language models, facilitating the creation of intelligent and conversational interfaces. By utilizing this engine, developers can integrate robust language understanding and generation into their projects.
+The Scale LLM Engine is an open-source repository that provides a scalable and efficient architecture for large language model (LLM) engines. This project enables developers to build and deploy AI-powered applications using a state-of-the-art LLM engine, optimized for performance and reliability. By leveraging this public repository, developers can integrate LLM technology into their applications with ease.
 
 ---
 

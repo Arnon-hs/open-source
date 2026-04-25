@@ -25,9 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the kubeopencode/kubeopencode project:
+Here's a brief summary of the project:
 
-kubeopencode/kubeopencode is an open-source project that enables the deployment and management of OpenCode Agent on Kubernetes clusters. This project simplifies the process of running OpenCode Agent in a containerized environment, making it easier to integrate with AI/ML workflows. By leveraging Kubernetes, developers can scale and manage OpenCode Agent deployments with ease.
+The kubeopencode project is an open-source effort that enables the deployment and management of OpenCode Agents on Kubernetes environments. This allows for the seamless integration of OpenCode, a platform for AI and ML workflows, within Kubernetes-based infrastructure. By leveraging Kubernetes, users can efficiently scale and manage OpenCode Agents in a flexible and automated manner.
 
 ---
 

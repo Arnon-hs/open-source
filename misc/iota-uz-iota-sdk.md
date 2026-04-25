@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The iota-uz/iota-sdk project is an open-source, modular Enterprise Resource Planning (ERP) system, developed in Go and offering a modern user interface. It aims to provide a cost-effective and scalable alternative to traditional ERP solutions like SAP, Oracle, and Odoo. By leveraging Go, the project strives to deliver a high-performance and efficient ERP system for businesses.
+The iota-uz/iota-sdk is an open-source, modular Enterprise Resource Planning (ERP) system written in Go. This alternative to traditional ERPs like SAP, Oracle, and Odoo offers a modern look and feel, providing users with a cutting-edge solution for managing business operations. By leveraging open-source technology, iota-sdk aims to offer a flexible, customizable, and cost-effective ERP solution.
 
 ---
 

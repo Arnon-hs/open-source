@@ -1,6 +1,6 @@
 # lovstudio/skills
 
-[![Stars](https://img.shields.io/github/stars/lovstudio/skills?style=flat-square&color=yellow)](https://github.com/lovstudio/skills/stargazers) [![Forks](https://img.shields.io/github/forks/lovstudio/skills?style=flat-square&color=blue)](https://github.com/lovstudio/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lovstudio/skills?style=flat-square&color=yellow)](https://github.com/lovstudio/skills/stargazers) [![Forks](https://img.shields.io/github/forks/lovstudio/skills?style=flat-square&color=blue)](https://github.com/lovstudio/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skills for AI coding assistants — Markdown to PDF/DOCX with 14 themes, CJK support
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 43 |
+| ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,9 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the KusionStack/karpor project:
+Here's a brief summary for the KusionStack/karpor project:
 
-KusionStack/karpor is an open-source intelligence tool for Kubernetes, designed to facilitate visualization and exploration for Developer and Platform Engineering teams. It provides a comprehensive platform for understanding Kubernetes clusters and resources, empowering teams to make data-driven decisions. With karpor, developers and platform engineers can gain valuable insights into their Kubernetes environments and streamline their workflows.
+KusionStack/karpor is an open-source, Kubernetes visualization tool designed to empower Developer and Platform Engineering teams with intelligence for Kubernetes. This innovative platform provides real-time insights and analytics, making it easier for teams to optimize, manage, and scale their Kubernetes environments. By leveraging karpor, teams can improve efficiency, reduce complexity, and accelerate innovation in their cloud-native applications.
 
 ---
 

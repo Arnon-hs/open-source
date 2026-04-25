@@ -25,7 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-The MLT-OSS/FirstData project is a comprehensive, open-source knowledge base designed to provide structured and authoritative data for AI and machine learning applications. This vast repository serves as a valuable resource for developers and researchers seeking accurate and reliable data to fuel their projects. By contributing to this initiative, users can enhance the knowledge base and promote data-driven innovation.
+The MLT-OSS/FirstData project is a comprehensive, open-source data source knowledge base that serves as a authoritative reference point for AI and machine learning applications. It provides a structured repository of data, enabling developers to leverage a vast pool of information for training, testing, and validation of their models. This open-source resource aims to facilitate the advancement of AI and ML by providing a unified and accessible data foundation.
 
 ---
 

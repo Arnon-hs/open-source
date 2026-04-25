@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the e2b-dev/desktop open-source project:
+Here's a brief summary of the open-source project:
 
-The e2b-dev/desktop project is an open-source, secure desktop sandbox that enables users to connect to Large Language Models (LLMs) in a graphical environment. This sandbox provides a virtual desktop for safe and secure computer use, allowing users to interact with LLMs in a controlled and isolated environment. The project is designed for AI/ML applications and offers a frontend interface for users to access LLMs securely.
+The e2b-dev/desktop project provides a secure desktop sandbox environment for interacting with Large Language Models (LLMs). This graphical interface enables users to safely access and utilize LLMs while maintaining a secure and isolated computing environment. By providing a desktop sandbox, users can leverage LLMs for various tasks without compromising their primary system's security.
 
 ---
 

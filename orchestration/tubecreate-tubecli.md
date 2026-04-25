@@ -25,9 +25,9 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here is a brief summary for the TubeCLI project:
+Here's a 2-3 sentence summary of the project:
 
-TubeCLI is an open-source ecosystem for AI agents that enables users to manage, orchestrate, and develop intelligent agents through a browser-based interface, workflow designer, and studio environment. This comprehensive platform streamlines the creation and deployment of AI agents, providing users with a flexible and scalable solution for building and managing AI-powered applications. By leveraging TubeCLI, developers can build, integrate, and deploy AI agents with ease.
+TubeCLI is an open-source project that serves as the ultimate ecosystem for AI agents, offering a comprehensive platform for building, managing, and orchestrating AI workflows. The project consists of three core components: Agents Browser, Agents Workflow, and Agents Studio World, which collectively enable users to design, deploy, and monitor AI agents. This AI agents ecosystem is designed to streamline the development and management of AI applications, making it an invaluable resource for developers and organizations.
 
 ---
 

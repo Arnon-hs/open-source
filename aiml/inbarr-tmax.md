@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the InbarR/tmax project:
-
-InbarR/tmax is an open-source, cross-platform application that combines the flexibility of a multi-terminal interface with features like tiling layouts and floating panels. This innovative tool is designed to streamline workflows, leveraging a keyboard-driven approach for efficient productivity. By integrating AI/ML capabilities, DevTools, and a robust frontend, tmax aims to redefine the way users interact with multiple applications.
+InbarR/tmax is an open-source, cross-platform multi-terminal app that offers customizable tiling layouts and floating panels to enhance productivity. With a strong focus on keyboard-driven workflows, this application streamlines interaction for users who value efficient and hands-free navigation. It serves as a versatile development tool for AI/ML, frontend, and other development tasks.
 
 ---
 

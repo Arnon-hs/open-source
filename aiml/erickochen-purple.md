@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 237 |
+| ⭐ **Stars** | 238 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary for the open-source project:
 
-Purple is an open-source terminal SSH manager and SSH config editor built with Rust. It offers a range of features, including fuzzy search for hosts, sync capabilities with 16 cloud services, file transfer, and management of Docker and Podman instances via SSH. Additionally, Purple integrates with Vault to sign short-lived SSH certificates and exposes an MCP server for AI agents.
+"Purple is an open-source terminal SSH manager and editor written in Rust, designed to simplify complex SSH operations. With features like fuzzy search, cloud syncing, file transfer, and container management, Purple streamlines SSH tasks for developers and sysadmins. Its versatility also extends to AI/ML integration, enabling seamless interaction with AI agents."
 
 ---
 

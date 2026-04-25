@@ -25,7 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The appleboy/drone-ssh project is an open-source plugin for Drone, a containerization platform, that enables the execution of remote SSH commands. This allows developers to automate SSH-based tasks and workflows within their Drone CI/CD pipelines, enhancing DevOps and infrastructure management capabilities. By integrating SSH commands, developers can streamline their deployment and management processes.
+The appleboy/drone-ssh project is an open-source plugin for Drone, a popular continuous integration and continuous deployment (CI/CD) platform. This plugin allows users to execute remote SSH commands as part of their automated workflows, providing seamless integration with remote systems and environments. By leveraging SSH capabilities, developers can streamline their CI/CD processes and ensure efficient deployment of their applications.
 
 ---
 

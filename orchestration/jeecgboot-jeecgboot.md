@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the JeecgBoot project:
+Here's a brief summary for the project:
 
-JeecgBoot is an open-source, AI-driven low-code platform that provides a dual-mode development experience: "zero-code" mode for rapid system setup and "code generation" mode for automatic frontend, backend, and database code creation. The platform features an integrated AI chat assistant, AI workflow designer, and knowledge base, making it a powerful tool for automating up to 80% of repetitive Java project tasks. With its flexible and efficient design, JeecgBoot enables developers to build applications quickly and efficiently.
+JeecgBoot is an open-source, AI-driven low-code platform that offers a dual-mode development experience: "zero-code" mode for rapid system setup and "code generation" mode for automated front-end and back-end code output. This platform is equipped with AI-powered tools such as chat assistants, big models, knowledge bases, and workflow editors, making it a powerful solution for efficient Java project development.
 
 ---
 

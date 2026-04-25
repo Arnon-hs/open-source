@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the project:
+Here's a brief summary of the iimeta/fastapi-web project:
 
-iimeta/fastapi-web is an open-source, enterprise-grade LLM API integration system that supports multiple large language models from leading providers such as OpenAI and Azure. This lightweight and efficient platform offers a simple and stable web interface, making it easy to deploy and integrate with various models, including those from Gemini, DeepSeek, and Anthropic Claude. With one-click Docker deployment, users can quickly set up and start using the system.
+iimeta/fastapi-web is an open-source, enterprise-level LLM API integration system that supports multiple large language models from various providers, including OpenAI and Azure. This high-performance system features a simple and lightweight design, ensuring stability and ease of deployment via Docker. It offers a straightforward and efficient way to integrate LLM APIs into applications.
 
 ---
 

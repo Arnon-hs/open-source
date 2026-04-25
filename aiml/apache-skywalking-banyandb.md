@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The Apache SkyWalking Banyandb project is an open-source observability database that ingests, analyzes, and stores key data types including Metrics, Tracing, and Logging. This database enables comprehensive data collection and analysis for improved system observability and performance monitoring. It facilitates the integration and correlation of various data sources, providing a unified platform for observability and monitoring.
+SkyWalking Banyandb is an open-source observability database that ingests, analyzes, and stores Metrics, Tracing, and Logging data in a unified platform. It enables data-driven insights and decision-making by providing a centralized hub for monitoring and analyzing system performance. By leveraging its capabilities, developers can gain a deeper understanding of their applications and infrastructure.
 
 ---
 

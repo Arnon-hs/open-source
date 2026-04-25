@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The sysid/bkmr project is an open-source knowledge management system designed for both humans and agents. It aims to facilitate seamless collaboration and information exchange between these entities by providing a platform for storing, retrieving, and sharing knowledge. This system has the potential to revolutionize the way humans and agents interact and make decisions.
+The sysid/bkmr project is an open-source knowledge management system designed to bridge the gap between human knowledge and artificial intelligence (AI) agents. Its primary goal is to enable seamless collaboration and information exchange between humans and AI systems, facilitating more informed decision-making and improved AI capabilities. By providing a platform for knowledge management, sysid/bkmr aims to unlock the full potential of AI and human collaboration.
 
 ---
 

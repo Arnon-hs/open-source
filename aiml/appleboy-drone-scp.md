@@ -25,7 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The appleboy/drone-scp project is an open-source tool designed to facilitate the secure transfer of files and artifacts via SSH using various deployment methods, including binary, Docker, and Drone CI. This versatile tool enables seamless file copying across environments, making it an essential resource for developers and DevOps teams. With its cross-platform compatibility, it streamlines file management and collaboration in AI/ML, DevTools, and DevOps/Infra projects.
+The appleboy/drone-scp project is an open-source tool that enables users to copy files and artifacts securely via SSH. It provides a versatile solution that can be used as a standalone binary, integrated into Docker containers, or directly within Drone Continuous Integration (CI) pipelines. This flexible approach streamlines file transfers and simplifies DevOps and infrastructure management.
 
 ---
 

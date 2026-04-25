@@ -27,7 +27,7 @@ AI/ML · DevTools
 
 Here's a brief summary for the open-source project:
 
-Relic is an open-source, universal digital immortality engine that enables the preservation and revivification of digital assets. Developed by Ylsssq926, this project leverages AI/ML capabilities to create a comprehensive framework for digital immortality. With Relic, users can safeguard their digital legacies and bring them back to life at any time.
+The Relic Skill project is an open-source, universal digital immortality engine that enables the preservation and continuation of digital legacy. This innovative project, developed by Ylsssq926, utilizes AI/ML technologies to create a platform for universal digital immortality, allowing users to transcend their digital presence beyond its current form. By hosting code on GitHub, the project invites collaboration and contributions from the global developer community.
 
 ---
 

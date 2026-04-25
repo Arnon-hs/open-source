@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 91 |
-| 🍴 **Forks** | 7 |
+| 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Swival is a user-friendly, open-source CLI coding agent that leverages open models to streamline tasks. This powerful tool enables users to efficiently work with artificial intelligence and machine learning models, making it a valuable resource for developers and data scientists. By harnessing the capabilities of open models, Swival simplifies complex tasks and accelerates productivity.
+Swival is an open-source, command-line interface (CLI) coding agent that leverages open models to streamline development workflows. This powerful tool enables developers to harness the capabilities of AI and machine learning models in a flexible and accessible way. By working with open models, Swival provides a versatile platform for automating tasks and enhancing productivity.
 
 ---
 

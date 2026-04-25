@@ -25,9 +25,9 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the containerd/nerdctl project:
 
-Nerdctl is an open-source Docker-compatible command-line interface for containerd, providing a flexible and extensible alternative for container management. With support for various features such as Compose, Rootless, and eStargz, Nerdctl caters to the needs of developers and DevOps professionals. This project is ideal for those seeking a Docker-like experience with containerd.
+Nerdctl is an open-source, Docker-compatible command-line interface (CLI) for containerd, offering features such as Compose support, Rootless mode, and integration with eStargz, OCIcrypt, and IPFS. This tool allows developers to manage containers efficiently while leveraging the benefits of containerd, a lightweight container runtime. With Nerdctl, users can enjoy a seamless and efficient container management experience.
 
 ---
 

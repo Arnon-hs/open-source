@@ -27,7 +27,7 @@ AI/ML · Frontend · DevTools
 
 Here's a brief summary for the OSWorld project:
 
-OSWorld is an open-source benchmarking framework designed to evaluate multimodal agents in real computer environments. This project aims to facilitate the development and comparison of advanced AI models for open-ended tasks, enabling researchers to push the boundaries of machine learning and artificial intelligence. By providing a standardized and realistic testing ground, OSWorld facilitates the creation of more robust and capable AI systems.
+OSWorld is an open-source benchmarking framework for evaluating multimodal agents in real computer environments, focusing on open-ended tasks. This project allows researchers and developers to assess the capabilities of artificial intelligence and machine learning models in complex, dynamic environments, providing a standardized platform for multimodal agent evaluation. OSWorld has been presented at NeurIPS 2024, enabling the advancement of multimodal agent research and development.
 
 ---
 

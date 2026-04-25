@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25 |
+| ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The unclog project is an open-source tool designed to audit and optimize MCP servers, skills, and CLAUDE.md files in Claude Code, helping to alleviate performance issues related to context window clutter. This tool aims to improve the efficiency and user experience when working with Claude Code by streamlining the audit and removal of redundant or unnecessary data. By reducing bloat, unclog enables users to focus on their AI/ML tasks without hindrance.
+The unclog project is an open-source tool designed to audit and optimize MCP servers, skills, and CLAUDE.md files for Claude Code, aiming to prevent context window clutter. This tool helps developers and users identify and remove unnecessary data, improving overall performance and usability. By streamlining Claude Code environments, unclog facilitates a more efficient and organized development experience.
 
 ---
 

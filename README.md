@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4871** |
+| 🗂️ **Total projects** | **4963** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1895 | [Browse →](./aiml/) |
-| 📦 **Misc** | 766 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 485 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 463 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 292 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 263 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 1935 | [Browse →](./aiml/) |
+| 📦 **Misc** | 779 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 494 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 472 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 296 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 274 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 179 | [Browse →](./crypto/) |
-| 📊 **Data** | 123 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 115 | [Browse →](./devopsinfra/) |
+| 📊 **Data** | 125 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 116 | [Browse →](./devopsinfra/) |
 | 💳 **Payments** | 74 | [Browse →](./payments/) |
-| 📱 **Mobile** | 68 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 70 | [Browse →](./mobile/) |
 | 📈 **Trading** | 54 | [Browse →](./trading/) |
 | 🔐 **Security** | 52 | [Browse →](./security/) |
-| ✨ **Design** | 20 | [Browse →](./design/) |
+| ✨ **Design** | 21 | [Browse →](./design/) |
 | 🎯 **Product** | 16 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 6 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [jeecgboot/JeecgBoot](./orchestration/jeecgboot-jeecgboot.md) | ⭐ 46k | Orchestration |
-| 2 | [weaviate/weaviate](./aiml/weaviate-weaviate.md) | ⭐ 16.1k | AI/ML |
-| 3 | [Automattic/wp-calypso](./frontend/automattic-wp-calypso.md) | ⭐ 12.6k | Frontend |
-| 4 | [SimplifyJobs/New-Grad-Positions](./trading/simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | Trading |
-| 5 | [sonic-pi-net/sonic-pi](./misc/sonic-pi-net-sonic-pi.md) | ⭐ 11.8k | Misc |
-| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 7 | [elizaOS/eliza](./crypto/elizaos-eliza.md) | ⭐ 18.2k | Crypto |
-| 8 | [deepset-ai/haystack](./orchestration/deepset-ai-haystack.md) | ⭐ 25k | Orchestration |
-| 9 | [farion1231/cc-switch](./aiml/farion1231-cc-switch.md) | ⭐ 51k | AI/ML |
-| 10 | [microsoft/playwright](./backend/microsoft-playwright.md) | ⭐ 87.3k | Backend |
+| 1 | [thedotmack/claude-mem](./orchestration/thedotmack-claude-mem.md) | ⭐ 67.2k | Orchestration |
+| 2 | [VoltAgent/awesome-agent-skills](./orchestration/voltagent-awesome-agent-skills.md) | ⭐ 18.7k | Orchestration |
+| 3 | [js-org/js.org](./aiml/js-org-js.org.md) | ⭐ 5.7k | AI/ML |
+| 4 | [Canner/WrenAI](./aiml/canner-wrenai.md) | ⭐ 15k | AI/ML |
+| 5 | [Qiskit/qiskit](./trading/qiskit-qiskit.md) | ⭐ 7.3k | Trading |
+| 6 | [Tencent/WeKnora](./aiml/tencent-weknora.md) | ⭐ 14k | AI/ML |
+| 7 | [Data-Centric-AI-Community/ydata-profiling](./aiml/data-centric-ai-community-ydata-profiling.md) | ⭐ 13.5k | AI/ML |
+| 8 | [XIU2/TrackersListCollection](./aiml/xiu2-trackerslistcollection.md) | ⭐ 31.1k | AI/ML |
+| 9 | [tensorflow/tensorflow](./aiml/tensorflow-tensorflow.md) | ⭐ 194.9k | AI/ML |
+| 10 | [TanStack/query](./frontend/tanstack-query.md) | ⭐ 49.2k | Frontend |
 
 ## 🚀 How it works
 

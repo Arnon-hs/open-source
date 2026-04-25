@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-EasyRPG/Player is an open-source project that serves as an interpreter for games created using RPG Maker 2000/2003 and EasyRPG. This versatile tool allows users to play these RPG games on various platforms, including Windows, macOS, and Linux, without the need for the original game engines. By providing cross-platform compatibility, EasyRPG/Player preserves the nostalgic value of classic RPG games for a new generation of players.
+The EasyRPG/Player project is an open-source interpreter designed to run games created with RPG Maker 2000/2003 and EasyRPG, a free alternative to the original RPG Maker software. This interpreter allows players to enjoy games made with these RPG Maker versions on modern operating systems, providing a convenient way to experience classic RPGs. With EasyRPG/Player, users can run these games without the need for the original RPG Maker software or specific hardware.
 
 ---
 

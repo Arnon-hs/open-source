@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The serie project is an open-source tool that visualizes a rich git commit graph directly in your terminal, providing a convenient and magical way to explore your repository's history. This frontend-focused dev tool aims to simplify the process of navigating and understanding commit relationships. With serie, users can gain a deeper insight into their codebase without leaving the terminal.
+The serie project is an open-source tool that generates a rich and visually appealing representation of a Git commit graph directly in the terminal. This feature-rich visualization allows developers to easily navigate and understand the history of their codebase. With serie, Git commit history becomes more accessible and insightful, saving time and effort in code maintenance and collaboration.
 
 ---
 
