@@ -25,9 +25,7 @@ Crypto · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the NovaFarming/Nova project:
-
-NovaFarming/Nova is an open-source, airdrop optimization platform that empowers users to track and analyze live campaigns, estimate their return on investment (ROI), and allocate capital efficiently. Leveraging AI/ML capabilities, Nova optimizes airdrop investments, providing users with data-driven insights to make informed decisions. By harnessing the power of machine learning and blockchain, Nova streamlines the airdrop investment process, enhancing portfolio performance and profitability.
+Nova is an open-source project that optimizes airdrop investments by tracking live campaigns, estimating returns on investment (ROI), and allocating capital effectively. Leveraging AI/ML capabilities, Nova provides data-driven insights to help users make informed decisions. This platform is designed to simplify and streamline the process of maximizing airdrop yields in the cryptocurrency space.
 
 ---
 

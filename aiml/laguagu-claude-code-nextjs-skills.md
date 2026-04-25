@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The laguagu/claude-code-nextjs-skills project is an open-source implementation of Claude Code skills for AI applications, built on top of Next.js 16 and integrating the latest AI SDK 6. This project utilizes cutting-edge technologies such as pgvector and bun to provide a powerful and efficient solution for AI-driven projects.
+Here's a 2-3 sentence summary for the open-source project:
+
+Claude Code skills for AI apps is an open-source project that integrates Next.js 16 with AI capabilities using the latest AI SDK 6. This project utilizes cutting-edge technologies such as pgvector and bun to power AI-driven applications. By leveraging these innovative tools, developers can create sophisticated AI-powered apps with ease.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Feynman is an open-source project that enables users to read books in a unique, interactive way. By leveraging agent-simulated great minds, the platform aims to replicate the learning approach of physicist Richard Feynman, who famously learned by actively engaging with the material and exploring new ideas. This innovative approach to reading combines AI-driven technology with traditional book learning.
+Feynman is an open-source project that allows users to read books in a unique and interactive way. Inspired by the learning style of physicist Richard Feynman, the project employs agent-simulated great minds to provide a continuously evolving network of insights and discussions. This platform aims to enhance the reading experience by fostering a dynamic and collaborative learning environment.
 
 ---
 

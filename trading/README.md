@@ -10,15 +10,15 @@
 |---|---|---|---|---|
 | 1 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | HTML | 100/100 |
 | 2 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | — | 100/100 |
-| 3 | [hiyouga/LlamaFactory](./hiyouga-llamafactory.md) | ⭐ 70.6k | Python | 100/100 |
-| 4 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 100/100 |
-| 5 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.2k | TypeScript | 100/100 |
-| 6 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
-| 7 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 100/100 |
+| 3 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 100/100 |
+| 4 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.2k | TypeScript | 100/100 |
+| 5 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
+| 6 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 100/100 |
+| 7 | [hiyouga/LlamaFactory](./hiyouga-llamafactory.md) | ⭐ 70.6k | Python | 100/100 |
 | 8 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 23.9k | Python | 100/100 |
 | 9 | [MISP/MISP](./misp-misp.md) | ⭐ 6.3k | PHP | 100/100 |
 | 10 | [ZhuLinsen/daily_stock_analysis](./zhulinsen-daily-stock-analysis.md) | ⭐ 31.4k | Python | 100/100 |
-| 11 | [QuantumNous/new-api](./quantumnous-new-api.md) | ⭐ 28.8k | Go | 99/100 |
+| 11 | [QuantumNous/new-api](./quantumnous-new-api.md) | ⭐ 28.9k | Go | 99/100 |
 | 12 | [TauricResearch/TradingAgents](./tauricresearch-tradingagents.md) | ⭐ 52.8k | Python | 96/100 |
 | 13 | [cactus-compute/cactus](./cactus-compute-cactus.md) | ⭐ 4.7k | C | 88/100 |
 | 14 | [intuitem/ciso-assistant-community](./intuitem-ciso-assistant-community.md) | ⭐ 4k | Python | 88/100 |
@@ -37,7 +37,7 @@
 | 27 | [the-momentum/open-wearables](./the-momentum-open-wearables.md) | ⭐ 1.3k | Python | 62/100 |
 | 28 | [openvinotoolkit/nncf](./openvinotoolkit-nncf.md) | ⭐ 1.2k | Python | 62/100 |
 | 29 | [Erudika/scoold](./erudika-scoold.md) | ⭐ 916 | Java | 60/100 |
-| 30 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 941 | Python | 59/100 |
+| 30 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 944 | Python | 59/100 |
 | 31 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 911 | Rust | 59/100 |
 | 32 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 619 | Python | 59/100 |
 | 33 | [abshare/abshare.github.io](./abshare-abshare.github.io.md) | ⭐ 977 | — | 58/100 |
@@ -55,8 +55,8 @@
 | 45 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
 | 46 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 79 | Python | 51/100 |
 | 47 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 130 | Python | 51/100 |
-| 48 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 120 | Go | 51/100 |
-| 49 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 83 | Python | 51/100 |
+| 48 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 84 | Python | 51/100 |
+| 49 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 120 | Go | 51/100 |
 | 50 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 51 | Python | 51/100 |
 | 51 | [tensorcircuit/tensorcircuit-ng](./tensorcircuit-tensorcircuit-ng.md) | ⭐ 69 | Python | 51/100 |
 | 52 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 152 | Rust | 51/100 |

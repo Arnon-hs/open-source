@@ -25,7 +25,7 @@ DevTools · Mobile
 
 ## 📝 Summary
 
-PurrfectSnap is an open-source project that aims to enhance the Snapchat experience through various modifications and features. This project, part of the particle-box repository, provides users with a customizable and extended version of the popular social media app. By leveraging the particle-box framework, PurrfectSnap offers a range of possibilities for users to personalize and expand their Snapchat interactions.
+PurrfectSnap is an open-source project that aims to enhance the user experience of Snapchat by providing additional features and functionalities. This mobile-focused project offers a range of tools and modifications to help users customize and optimize their Snapchat experience. Developed under the particle-box organization, PurrfectSnap is a community-driven initiative that allows users to explore new possibilities within the popular social media platform.
 
 ---
 

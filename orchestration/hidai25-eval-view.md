@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary for the open-source project "eval-view":
 
-Eval-View is an open-source tool for regression testing of AI agents, enabling snapshot behavior tracking and diff tool calls to catch regressions in continuous integration (CI) pipelines. It supports various AI platforms, including LangGraph, CrewAI, OpenAI, and Anthropic. By using Eval-View, developers can ensure the stability and reliability of their AI models over time.
+"Eval-view is an open-source project for regression testing of AI agents, allowing for snapshot behavior tracking and diff tool calls to catch regressions in Continuous Integration (CI) pipelines. It supports integration with various AI services including LangGraph, CrewAI, OpenAI, and Anthropic. This project helps ensure the reliability and consistency of AI systems over time."
 
 ---
 

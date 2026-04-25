@@ -25,9 +25,7 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the SigilBuild project:
-
-SigilBuild is an open-source project that leverages AI technology to automate the development of Solana programs. With Sigil's AI agent, users can describe their desired program in plain English, and the agent will generate the corresponding Anchor code. This innovative tool streamlines the development process and makes it more accessible to developers and non-technical users alike.
+SigilBuild is an open-source project that enables the creation of Solana programs through a unique AI-driven approach. Sigil's AI agent generates Anchor code, making it possible for users to describe their program in plain English and have it automatically translated into functional code. This innovative tool streamlines the development process for Solana applications by bridging the gap between human language and complex programming code.
 
 ---
 

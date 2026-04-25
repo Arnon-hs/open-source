@@ -25,9 +25,9 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the m1k1o/neko-rooms project:
+Here's a brief summary for the open-source project 'm1k1o/neko-rooms':
 
-NekoS is a self-hosted, collaborative browser room management system designed for n.eko, a popular browser-based collaboration platform. This open-source project enables users to manage and customize their browser rooms, providing a high degree of flexibility and control. By hosting NekoS on-premises, users can maintain their data and settings securely.
+n.eko rooms is an open-source, self-hosted collaborative browser project that enables room management for seamless team collaboration. This DevOps/Infra tool allows users to manage and customize browser-based rooms for efficient teamwork and communication. By hosting n.eko rooms on their own infrastructure, users can enjoy enhanced security, flexibility, and control over their collaborative workspace.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the iimeta/fastapi project in English:
+Here's a brief summary of the iimeta/fastapi project:
 
-The iimeta/fastapi project is an open-source, enterprise-level LLM (Large Language Model) API integration system that supports a wide range of models from leading providers, including OpenAI and Azure. This lightweight and efficient system features a simple and stable interface, making it easy to deploy with Docker. It provides a convenient solution for rapid integration of LLM APIs into applications.
+The iimeta/fastapi project is an open-source, enterprise-level API integration system for Large Language Models (LLMs), supporting multiple models from various providers such as OpenAI, Azure, and others. This lightweight and efficient system features a sleek UI and stable performance, making it ideal for rapid development and deployment. With support for Docker one-click deployment, it simplifies the process of integrating LLMs into applications.
 
 ---
 

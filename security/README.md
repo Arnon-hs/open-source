@@ -9,12 +9,12 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
-| 2 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
-| 3 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
-| 4 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6k | C++ | 100/100 |
-| 5 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.5k | C | 100/100 |
-| 6 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 25.9k | Go | 100/100 |
-| 7 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.2k | Python | 100/100 |
+| 2 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 25.9k | Go | 100/100 |
+| 3 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
+| 4 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
+| 5 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6k | C++ | 100/100 |
+| 6 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.2k | Python | 100/100 |
+| 7 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.5k | C | 100/100 |
 | 8 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
 | 9 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
 | 10 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14k | C | 100/100 |
@@ -53,8 +53,8 @@
 | 43 | [oxyno-zeta/s3-proxy](./oxyno-zeta-s3-proxy.md) | ⭐ 455 | Go | 54/100 |
 | 44 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 310 | Python | 53/100 |
 | 45 | [ohaswin/pyscan](./ohaswin-pyscan.md) | ⭐ 230 | Rust | 52/100 |
-| 46 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 612 | Go | 52/100 |
-| 47 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
+| 46 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
+| 47 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 612 | Go | 52/100 |
 | 48 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
 | 49 | [apache/casbin-caddy-authz](./apache-casbin-caddy-authz.md) | ⭐ 248 | Go | 52/100 |
 | 50 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 166 | Go | 51/100 |

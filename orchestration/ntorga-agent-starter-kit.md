@@ -25,7 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The agent-starter-kit is an open-source project that provides a scaffold for building highly personalized, multi-model artificial intelligence (AI) systems in natural language. This project enables users to create customized AI harnesses by orchestrating various AI models, facilitating the development of tailored solutions. By leveraging this kit, developers can streamline the integration and deployment of diverse AI models, unlocking more efficient and effective AI applications.
+Here's a 2-3 sentence summary for the project:
+
+The agent-starter-kit is an open-source framework for building ultra-personalized, multi-model AI systems that operate in pure natural language. This orchestration tool enables users to harness the power of various AI and machine learning models in a flexible and customizable way. By providing a solid foundation for AI development, the agent-starter-kit empowers users to create innovative and tailored solutions.
 
 ---
 

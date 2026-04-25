@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5241** |
+| 🗂️ **Total projects** | **5291** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,13 +18,13 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2037 | [Browse →](./aiml/) |
-| 📦 **Misc** | 839 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 515 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 501 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 307 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 292 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 190 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 2061 | [Browse →](./aiml/) |
+| 📦 **Misc** | 851 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 518 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 504 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 310 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 295 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 192 | [Browse →](./crypto/) |
 | 📊 **Data** | 130 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 120 | [Browse →](./devopsinfra/) |
 | 💳 **Payments** | 78 | [Browse →](./payments/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [laramies/theHarvester](./aiml/laramies-theharvester.md) | ⭐ 16.1k | AI/ML |
-| 2 | [graphhopper/graphhopper](./backend/graphhopper-graphhopper.md) | ⭐ 6.4k | Backend |
-| 3 | [mumble-voip/mumble](./backend/mumble-voip-mumble.md) | ⭐ 8k | Backend |
-| 4 | [apache/casbin](./aiml/apache-casbin.md) | ⭐ 20k | AI/ML |
-| 5 | [novuhq/novu](./aiml/novuhq-novu.md) | ⭐ 38.9k | AI/ML |
-| 6 | [m1k1o/neko](./frontend/m1k1o-neko.md) | ⭐ 20.7k | Frontend |
-| 7 | [nats-io/nats-server](./aiml/nats-io-nats-server.md) | ⭐ 19.7k | AI/ML |
-| 8 | [TanStack/query](./frontend/tanstack-query.md) | ⭐ 49.2k | Frontend |
-| 9 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 10 | [langchain-ai/open-swe](./orchestration/langchain-ai-open-swe.md) | ⭐ 9.6k | Orchestration |
+| 2 | [novuhq/novu](./aiml/novuhq-novu.md) | ⭐ 38.9k | AI/ML |
+| 3 | [apache/hudi](./data/apache-hudi.md) | ⭐ 6.1k | Data |
+| 4 | [wilsonfreitas/awesome-quant](./trading/wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | Trading |
+| 5 | [cvxpy/cvxpy](./misc/cvxpy-cvxpy.md) | ⭐ 6.2k | Misc |
+| 6 | [enricoros/big-AGI](./aiml/enricoros-big-agi.md) | ⭐ 6.9k | AI/ML |
+| 7 | [apache/datafusion](./data/apache-datafusion.md) | ⭐ 8.6k | Data |
+| 8 | [clockworklabs/SpacetimeDB](./backend/clockworklabs-spacetimedb.md) | ⭐ 24.6k | Backend |
+| 9 | [vercel/ai](./aiml/vercel-ai.md) | ⭐ 23.8k | AI/ML |
+| 10 | [m1k1o/neko](./frontend/m1k1o-neko.md) | ⭐ 20.7k | Frontend |
 
 ## 🚀 How it works
 

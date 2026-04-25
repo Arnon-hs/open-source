@@ -25,9 +25,9 @@ DevTools · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a 2-3 sentence summary for the open-source project:
 
-psmux/psmux is an open-source project that brings the functionality of Tmux to Windows, specifically designed for PowerShell, Windows Terminal, and cmd.exe. This native PowerShell implementation, written in Rust, allows users to leverage the familiar tmux commands (psmux, pmux, and tmux) on Windows platforms. It provides a seamless Tmux experience for Windows users, enhancing their terminal productivity.
+psmux/psmux is an open-source project that brings tmux functionality to Windows users through native PowerShell integration. Developed in Rust, this project provides a tmux-like experience on Windows Terminal, cmd.exe, and PowerShell, with built-in support for psmux, pmux, and tmux commands. It aims to bridge the gap between tmux and Windows users, offering a seamless terminal experience.
 
 ---
 

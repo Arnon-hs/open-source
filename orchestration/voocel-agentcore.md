@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the voocel/agentcore open-source project:
+Here's a brief summary for the voocel/agentcore project:
 
-voocel/agentcore is an open-source, lightweight library for building AI agent applications in Go. This composable library provides a flexible framework for developers to create scalable and maintainable AI agent solutions, ideal for a wide range of applications and industries. By leveraging agentcore, developers can focus on building innovative AI-powered applications with ease and efficiency.
+The voocel/agentcore project is an open-source, composable Go library designed to facilitate the development of AI agent applications. This minimal library provides a foundation for building complex AI workflows and enables developers to create modular, scalable, and efficient AI solutions. By leveraging agentcore, developers can focus on crafting high-quality AI logic without worrying about the underlying architecture.
 
 ---
 

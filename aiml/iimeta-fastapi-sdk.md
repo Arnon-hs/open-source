@@ -25,9 +25,9 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the iimeta/fastapi-sdk project:
+Here's a brief summary of the iimeta/fastapi-sdk project:
 
-The iimeta/fastapi-sdk is an open-source, enterprise-level API integration system for Large Language Models (LLMs). It supports a wide range of popular LLM platforms, including OpenAI, Azure, and others, making it easy to integrate and deploy these models in a lightweight and efficient manner. With a simple and stable design, the system can be easily deployed using Docker.
+The iimeta/fastapi-sdk project is an open-source, enterprise-grade LLM (Large Language Model) API integration system that provides a simple and efficient way to deploy and manage various LLM models from leading providers, including OpenAI and Azure. With a lightweight and stable architecture, this project supports one-click Docker deployment and offers a clean, minimalist design. It currently supports multiple LLM models and providers, catering to diverse needs in the AI and ML community.
 
 ---
 

@@ -27,7 +27,7 @@ Frontend · DevOps/Infra
 
 Here's a brief summary for the project:
 
-m1k1o/neko is an open-source, self-hosted virtual browser that leverages Docker for containerization and WebRTC for real-time communication. This project enables users to run a virtual browser environment in a decentralized manner, allowing for greater control and flexibility in managing web applications. By utilizing WebRTC, neko enables seamless communication between browsers and devices.
+m1k1o/neko is an open-source, self-hosted virtual browser that utilizes Docker and WebRTC technology. This project enables users to run a virtual browser environment on their local infrastructure, providing a high degree of control and flexibility. By leveraging WebRTC, neko allows for seamless communication between the virtual browser and its host environment.
 
 ---
 

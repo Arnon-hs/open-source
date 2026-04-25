@@ -25,9 +25,9 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the SynapticHQ/Synapse project:
+Here's a summary of the SynapticHQ/Synapse project:
 
-SynapticHQ/Synapse is an open-source, multi-agent orchestrator for Solana DeFi that enables autonomous task management and result synthesis. By routing tasks to specialized Claude agents, Synapse streamlines complex operations and optimizes performance in the Solana ecosystem. This project combines innovative orchestration with AI/ML capabilities to drive efficiency and innovation in DeFi applications.
+SynapticHQ/Synapse is an open-source, multi-agent orchestrator for Solana DeFi, utilizing the Claude AI platform to automate tasks and synthesize results. This project enables autonomous decision-making by routing tasks to specialized agents and combining their outputs, streamlining DeFi operations. By leveraging AI/ML, SynapticHQ/Synapse aims to enhance efficiency and productivity in decentralized finance.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The "parallel-disk-usage" project is an open-source, high-performance tool designed to analyze directory trees in a highly parallelized manner. It leverages concurrent processing to quickly scan and report disk usage statistics, making it an ideal solution for large directories and complex file systems. This project enables efficient disk space management and auditing tasks.
+The parallel-disk-usage project is an open-source tool designed for rapidly analyzing directory trees, utilizing highly parallelized architecture to achieve blazing-fast performance. This tool is ideal for large-scale directory analysis, providing efficient and accurate results. By leveraging parallel processing, it significantly reduces the time required for disk usage analysis.
 
 ---
 

@@ -25,9 +25,9 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the Engram project:
+Here's a 2-3 sentence summary for the Engram project:
 
-Engram is an open-source, persistent memory layer for AI agents, enabling the storage and retrieval of observations based on semantic similarity. This RAG (Relational Autoencoder with Graph) memory layer also features self-pruning capabilities, automatically removing outdated information based on a user-defined Time-To-Live (TTL) setting. By leveraging Engram, developers can improve AI agent performance and efficiency in a wide range of applications.
+Engram is an open-source, persistent memory layer for AI agents that utilizes a RAG (Relational-Augmented Graph) architecture. It enables the storage and retrieval of observations based on semantic similarity, facilitating contextual learning and decision-making for AI agents. This memory layer also features self-pruning based on Time-To-Live (TTL) settings, ensuring efficient management of stored information.
 
 ---
 

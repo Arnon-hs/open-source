@@ -25,9 +25,7 @@ DevTools · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Naabu is an open-source, fast port scanner written in Go, designed to provide reliable and simple port scanning capabilities. It's ideal for use in combination with other tools to aid in attack surface discovery during bug bounties and penetration testing engagements. Naabu's focus on simplicity and reliability makes it a valuable addition to any cybersecurity toolkit.
+Naabu is a lightweight, open-source port scanner written in Go. Designed for reliability and simplicity, it is intended to be used in conjunction with other tools for discovering attack surfaces during bug bounty and penetration testing activities. This fast and efficient scanner can aid in identifying vulnerabilities and weaknesses in a target system.
 
 ---
 

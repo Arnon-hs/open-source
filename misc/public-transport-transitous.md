@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Transitous is a free and open-source project that provides public transport routing options. This project aims to offer users a convenient way to navigate public transportation systems, making it easier to plan and execute trips. By utilizing public-transport information, Transitous enables users to find the most efficient routes and schedules.
+The transitous project offers a free and open-source solution for public transport routing, providing users with a reliable and accessible way to navigate through various transportation systems. This open-source project aims to bridge the gap in public transport routing, promoting transparency and flexibility in transportation planning. It serves as a valuable resource for developers and users seeking efficient and sustainable public transportation solutions.
 
 ---
 

@@ -25,9 +25,7 @@ Crypto · Payments
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the project:
-
-FinAegis/core-banking-prototype-laravel is an open-source core banking platform that leverages modern software development principles, including Domain-Driven Design (DDD), event sourcing, Command Query Responsibility Segregation (CQRS), and GraphQL. Built using Laravel 12 and PHP 8.4, this platform supports x402 payments and provides a robust foundation for fintech applications, especially those related to cryptocurrency and payments. The project includes 56 DDD modules, making it a comprehensive core banking solution.
+FinAegis/core-banking-prototype-laravel is an open-source core banking platform built using Laravel 12 and PHP 8.4, featuring 56 DDD (Domain-Driven Design) modules, event sourcing, CQRS (Command Query Responsibility Segregation), and GraphQL APIs. This comprehensive platform also supports x402 payments, enabling secure and efficient financial transactions. It is designed to be a robust foundation for developing modern banking systems.
 
 ---
 

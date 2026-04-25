@@ -25,7 +25,9 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-The starbase project is an open-source front-end starter kit and Claude Code boilerplate, equipped with a powerful blend of technologies including Vite, TypeScript, Tailwind CSS, TanStack Router, and TanStack Query. This comprehensive framework is designed to streamline the development process, providing a solid foundation for building high-performance and visually appealing applications. By leveraging AI/ML capabilities, starbase enables developers to create innovative and efficient front-end solutions.
+Here's a brief summary of the bstaruk/starbase project:
+
+Starbase is an open-source front-end starter kit and Claude Code boilerplate that streamlines development with a robust set of technologies, including Vite, TypeScript, Tailwind CSS, TanStack Router, and TanStack Query. This project provides a solid foundation for building AI/ML and web applications, making it an ideal starting point for developers. With its comprehensive suite of features, Starbase enables developers to focus on crafting innovative designs and experiences.
 
 ---
 

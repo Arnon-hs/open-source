@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Taskwarrior is a free, open-source command-line task management tool that allows users to efficiently manage and track their tasks. With its powerful features and customizable functionality, Taskwarrior provides a flexible solution for individuals and teams to manage their to-do lists and projects. Its simplicity and ease of use make it an ideal choice for those who prefer a text-based interface.
+Taskwarrior is an open-source command line task management tool that allows users to efficiently organize and manage their tasks and projects. It offers a robust set of features, including task filtering, due date management, and reporting capabilities. With Taskwarrior, users can streamline their workflow and stay on top of their tasks from the comfort of the command line.
 
 ---
 

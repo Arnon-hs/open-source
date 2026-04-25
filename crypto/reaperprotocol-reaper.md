@@ -25,9 +25,9 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the Reaper project:
+Here's a brief summary of the Reaper open-source project:
 
-Reaper is an open-source project designed to mitigate liquidation risks in Solana DeFi. It scans popular lending protocols such as Kamino, MarginFi, and Drift to identify positions approaching liquidation, providing users with timely alerts to minimize potential losses. By leveraging Reaper, Solana DeFi participants can proactively manage their risk exposure and make informed decisions about their positions.
+Reaper is an open-source project that monitors liquidation risk in Solana DeFi, providing early warnings for positions approaching liquidation on platforms like Kamino, MarginFi, and Drift. By leveraging AI/ML technology, Reaper scans for potential liquidation events, enabling users to make informed decisions and mitigate financial losses. This project offers a valuable tool for DeFi traders and investors seeking to navigate the complexities of Solana's decentralized finance ecosystem.
 
 ---
 

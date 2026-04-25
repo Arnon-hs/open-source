@@ -25,9 +25,9 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary of the BiBi-Keyboard project:
+Here's a 2-3 sentence summary for the BiBi Keyboard project:
 
-BiBi-Keyboard is an open-source, Android-based keyboard application that leverages Large Language Models (LLM) and Automatic Speech Recognition (ASR) technology to provide a voice input method. Built using Kotlin, this project enables users to input text using voice commands, offering a convenient and innovative typing experience. By combining AI/ML capabilities with a mobile platform, BiBi-Keyboard aims to revolutionize the way users interact with their Android devices.
+BiBi Keyboard is an open-source Android application that combines Large Language Models (LLMs) with Automatic Speech Recognition (ASR) technology, enabling voice input on a mobile platform. Developed using Kotlin, this innovative keyboard application aims to provide a seamless and intuitive user experience for voice input. By harnessing the power of LLMs and ASR, BiBi Keyboard has the potential to revolutionize the way users interact with their Android devices.
 
 ---
 

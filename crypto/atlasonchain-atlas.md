@@ -25,9 +25,9 @@ Crypto · AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the AtlasOnchain/Atlas project:
+Here's a brief summary for the Atlas project:
 
-Atlas is an open-source smart money tracker for the Solana blockchain, designed to monitor the activities of large whale and VC wallets. The project uses AI/ML capabilities to identify significant moves and alert users to potential market insights. With Atlas, users can gain a deeper understanding of the Solana ecosystem and make more informed investment decisions.
+Atlas is an open-source smart money tracker for Solana that monitors large whale and VC wallets. The project provides real-time alerts when these influential wallets make significant financial moves, enabling users to stay informed about market trends and sentiment. By leveraging AI and data analysis, Atlas offers a unique resource for Solana investors and traders to make more informed decisions.
 
 ---
 

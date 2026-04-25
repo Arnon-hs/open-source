@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the raine/workmux open-source project:
+Here's a brief summary for the open-source project:
 
-Raine/workmux is an open-source project that combines git worktrees with tmux windows to enable seamless parallel development. This integration streamlines workflow management, allowing developers to easily manage multiple projects and environments simultaneously. By leveraging this zero-friction approach, developers can focus on AI/ML tasks without being bogged down by unnecessary context switching.
+"Raine/Workmux is an innovative open-source tool that combines the power of Git worktrees with the flexibility of tmux windows, empowering developers to work efficiently and seamlessly on multiple projects simultaneously. This zero-friction parallel development solution streamlines workflow, boosts productivity, and simplifies complex coding tasks. Ideal for AI/ML and other data-intensive projects, Workmux enhances the overall developer experience."
 
 ---
 

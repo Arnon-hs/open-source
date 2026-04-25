@@ -1,0 +1,32 @@
+# GRCEngClub/claude-grc-engineering
+
+[![Stars](https://img.shields.io/github/stars/GRCEngClub/claude-grc-engineering?style=flat-square&color=yellow)](https://github.com/GRCEngClub/claude-grc-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/GRCEngClub/claude-grc-engineering?style=flat-square&color=blue)](https://github.com/GRCEngClub/claude-grc-engineering/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+
+> Official open-source GRC toolkit from the GRC Engineering Club. Claude Code plugins for evidence collection, SCF crosswalks, multi-framework gap reports, OSCAL workflows.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 89 |
+| 🍴 **Forks** | 21 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI/ML · DevOps/Infra · Security
+
+## 📝 Summary
+
+The Claude GRC Engineering project is an open-source toolkit developed by the GRC Engineering Club. It provides a collection of plugins and tools for evidence collection, SCF crosswalks, multi-framework gap reports, and OSCAL workflows, enhancing the capabilities of AI/ML, DevOps/Infrastructure, and Security applications. This open-source project aims to facilitate more efficient and effective GRC (Governance, Risk, and Compliance) processes.
+
+---
+
+<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/GRCEngClub/claude-grc-engineering) · [← Back to AI/ML](./README.md)</sub>

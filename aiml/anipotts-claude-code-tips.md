@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the anipotts/claude-code-tips project:
-
-Claude Code Tips is an open-source repository offering practical patterns for agentic coding, covering hooks, agents, and automation techniques. This collection of code snippets is based on hundreds of Claude code sessions, providing developers with actionable insights and real-world examples to improve their coding practices. By leveraging this project, developers can enhance their coding efficiency and productivity in AI/ML, frontend, and backend development.
+The "claude-code-tips" project provides practical coding patterns for agentic coding, focusing on hooks, agents, and automation techniques. This open-source resource is built from hundreds of sessions, offering valuable insights and examples for developers working with AI/ML, frontend, and backend technologies. By leveraging this project, developers can enhance their coding skills and improve their productivity through efficient and effective coding practices.
 
 ---
 
