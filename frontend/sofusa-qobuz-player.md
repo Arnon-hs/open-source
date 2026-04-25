@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-SofusA/qobuz-player is an open-source music player that provides three unique interfaces: a text-based TUI, a web-based player, and an RFID-enabled player. This versatile player allows users to access and control their Qobuz music library across multiple platforms. By offering a range of interfaces, SofusA/qobuz-player aims to provide a seamless and user-friendly music experience for Qobuz users.
+SofusA/qobuz-player is an open-source multimedia project that offers a user-friendly interface for playing music on Qobuz, a popular music streaming service. This multi-platform application includes a terminal-based (tui), web-based, and RFID player, providing users with a seamless music listening experience across various devices. With SofusA/qobuz-player, users can easily access and enjoy their favorite music on Qobuz.
 
 ---
 

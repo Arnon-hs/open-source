@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square&color=yellow)](https://github.com/mksglu/context-mode/stargazers) [![Forks](https://img.shields.io/github/forks/mksglu/context-mode?style=flat-square&color=blue)](https://github.com/mksglu/context-mode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
-> Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
+> Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 10k |
-| 🍴 **Forks** | 685 |
+| 🍴 **Forks** | 689 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 95/100 |
 | 🗓️ **Last push** | — |

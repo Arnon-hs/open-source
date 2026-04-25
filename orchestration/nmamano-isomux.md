@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Isomux is an open-source project that simplifies the process of transitioning from a single node to a multi-node architecture, providing a scalable and efficient solution for distributed systems. This project acts as an agent office, offering a user-friendly interface to manage complex operations. By using Isomux, developers can streamline their workflow and focus on building high-performance applications.
+Isomux is an open-source project that facilitates the transition from Claude Code to 4 or more models, reducing friction and making it easier to work with multiple models. It serves as an agent office, providing a convenient interface for model interactions. Isomux is categorized under orchestration and AI/ML, making it a valuable tool for those working with complex model systems.
 
 ---
 

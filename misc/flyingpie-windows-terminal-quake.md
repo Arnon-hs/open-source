@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The flyingpie/windows-terminal-quake project allows users to enable a Quake-style dropdown menu for a wide range of applications, enhancing their overall user experience. This open-source tool provides a customizable and efficient way to access frequently used commands and features in various programs. By integrating this feature, users can streamline their workflow and interact with applications more intuitively.
+The Windows Terminal Quake project is an open-source tool that enables Quake-style dropdown terminal windows for various applications. This allows users to quickly access and interact with their applications by minimizing their main window and opening a dropdown terminal-like interface. The project offers a convenient and customizable way to multitask and streamline workflows.
 
 ---
 

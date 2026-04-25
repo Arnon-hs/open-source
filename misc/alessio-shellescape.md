@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The alessio/shellescape project is an open-source tool that helps escape arbitrary strings for safe use as command line arguments. This ensures that input strings are properly formatted and cannot be used for malicious purposes, such as shell injection attacks. By using shellescape, developers can protect their applications from potential security vulnerabilities.
+The alessio/shellescape project is a lightweight, open-source utility that provides a simple way to escape arbitrary strings for use as command line arguments. This ensures that even complex or special characters are properly handled and interpreted correctly by the shell. As a result, users can safely pass strings as command line arguments without worrying about potential shell injection vulnerabilities.
 
 ---
 

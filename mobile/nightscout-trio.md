@@ -25,7 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-The nightscout/Trio project is an open-source, automated insulin delivery system for iOS devices. It utilizes the OpenAPS algorithm with adaptations to provide a sophisticated insulin management solution. This system aims to provide greater control and safety for individuals with diabetes, particularly those who rely on insulin therapy.
+Trio is an open-source, automated insulin delivery system designed for iOS devices, utilizing the OpenAPS algorithm with modifications to provide improved glucose management. This system aims to help individuals with diabetes regulate their blood sugar levels more effectively and efficiently. By leveraging the OpenAPS algorithm, Trio enhances insulin delivery to provide a more stable and controlled glucose environment.
 
 ---
 

@@ -1,6 +1,6 @@
 # davidgohel/flextable
 
-[![Stars](https://img.shields.io/github/stars/davidgohel/flextable?style=flat-square&color=yellow)](https://github.com/davidgohel/flextable/stargazers) [![Forks](https://img.shields.io/github/forks/davidgohel/flextable?style=flat-square&color=blue)](https://github.com/davidgohel/flextable/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davidgohel/flextable?style=flat-square&color=yellow)](https://github.com/davidgohel/flextable/stargazers) [![Forks](https://img.shields.io/github/forks/davidgohel/flextable?style=flat-square&color=blue)](https://github.com/davidgohel/flextable/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > table farming
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 621 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | R |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

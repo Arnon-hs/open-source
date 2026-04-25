@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The nyt-connections project is an open-source benchmark that evaluates the performance of Large Language Models (LLMs) on a comprehensive dataset of 759 extended New York Times (NYT) Connections puzzles. These puzzles are enhanced with additional "trick words" to provide a more challenging evaluation of LLMs' reasoning and problem-solving capabilities. This benchmark allows developers to assess and compare the strengths and weaknesses of various LLMs in handling complex puzzle-solving tasks.
+Here's a brief summary of the open-source project:
+
+The nyt-connections project is an open-source benchmark that allows developers to evaluate the performance of Large Language Models (LLMs) on a comprehensive dataset of 759 extended New York Times Connections puzzles. This dataset includes additional trick words to provide a more challenging and realistic test of an LLM's capabilities. By utilizing this benchmark, researchers and developers can assess and improve the accuracy and robustness of their LLMs.
 
 ---
 

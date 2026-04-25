@@ -13,7 +13,7 @@
 | 3 | [dotnet/csharplang](./dotnet-csharplang.md) | ⭐ 12.6k | C# | 93/100 |
 | 4 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.6k | Scala | 91/100 |
 | 5 | [j178/prek](./j178-prek.md) | ⭐ 7.4k | Rust | 82/100 |
-| 6 | [tw93/Waza](./tw93-waza.md) | ⭐ 3.9k | Shell | 80/100 |
+| 6 | [tw93/Waza](./tw93-waza.md) | ⭐ 3.9k | Shell | 81/100 |
 | 7 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |
 | 8 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 2.8k | TypeScript | 78/100 |
 | 9 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 72/100 |
@@ -29,8 +29,8 @@
 | 19 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 457 | Go | 49/100 |
 | 20 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 426 | JavaScript | 49/100 |
 | 21 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
-| 22 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 178 | Go | 48/100 |
-| 23 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 521 | Python | 46/100 |
+| 22 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 179 | Go | 48/100 |
+| 23 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 522 | Python | 46/100 |
 
 ---
 

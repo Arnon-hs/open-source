@@ -25,9 +25,7 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the ckotzbauer/sbom-operator project:
-
-The ckotzbauer/sbom-operator is an open-source project that utilizes Syft to catalog all images of a Kubernetes cluster, enabling comprehensive software bill of materials (SBOM) generation. This project aims to enhance cluster security and visibility by providing a centralized inventory of container images and their associated dependencies. By targeting multiple platforms, it facilitates streamlined compliance and vulnerability management.
+The ckotzbauer/sbom-operator project is an open-source initiative that utilizes Syft to generate Software Bill of Materials (SBOMs) for a Kubernetes cluster's images. By cataloging all images and their dependencies, this operator enhances cluster security and compliance by providing a comprehensive inventory of software components. This project is particularly useful for organizations seeking to enforce DevSecOps practices and ensure robust security posture in their cloud-native environments.
 
 ---
 

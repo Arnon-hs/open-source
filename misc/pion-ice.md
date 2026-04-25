@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The pion/ice project is an open-source implementation of the ICE (Inter-Client Exchange) protocol in Go, providing a standardized way for applications to communicate with each other. This project enables developers to easily integrate ICE functionality into their applications, allowing for seamless inter-client communication and data exchange. By using the pion/ice library, developers can simplify their application's communication workflows and enhance overall system interoperability.
+The pion/ice project is an open-source implementation of ICE (Inter Component Exchange) in the Go programming language, providing a standard for inter-process communication. It allows developers to send and receive data between different components or processes in a secure and efficient manner. This implementation enables the use of ICE protocols within Go-based applications and systems.
 
 ---
 

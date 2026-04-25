@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Eigenfocus is an open-source project that aims to simplify project management by minimizing clutter. This tool provides a streamlined approach to managing tasks and projects, making it easier for users to stay organized and focused. By eliminating unnecessary features, Eigenfocus offers a clean and intuitive interface for effective project management.
+Eigenfocus is an open-source project that offers a streamlined and clutter-free project management tool. This platform aims to simplify the process of task management and organization, providing a clean and intuitive interface for users to focus on their projects. By removing unnecessary complexity, Eigenfocus helps individuals and teams stay on track and achieve their goals more efficiently.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Aptly is a free, open-source tool designed to manage Debian repositories, providing a simple and efficient way to create, publish, and manage software repositories. It offers features such as repository mirroring, snapshotting, and metadata management, making it a powerful solution for Debian package distribution and management. Aptly simplifies the process of maintaining and publishing Debian repositories, streamlining package distribution and updating workflows.
+Aptly is an open-source Debian repository management tool designed to simplify the process of creating, managing, and serving repositories for Debian-based Linux distributions. It offers a flexible and efficient way to handle package repositories, making it a valuable resource for developers and system administrators. Aptly supports a wide range of operations, from repository creation and mirroring to publishing and deleting packages.
 
 ---
 

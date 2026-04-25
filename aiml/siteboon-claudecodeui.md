@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-CloudCLI, an open-source web interface (siteboon/claudecodeui), allows users to manage Claude Code sessions and projects remotely on both mobile and web platforms. This free project streamlines interactions with AI/ML tools like Claude Code, Cursor CLI, and Codex through a user-friendly graphical user interface (GUI). With CloudCLI, users can efficiently access and manage their projects from anywhere.
+CloudCLI, an open-source project, provides a free and user-friendly web interface for managing Claude Code sessions and projects remotely. This versatile tool allows users to seamlessly interact with Claude Code, Cursor CLI, and Codex on both mobile and web platforms, enhancing productivity and accessibility. By leveraging CloudCLI, users can streamline their workflow and unlock the full potential of these AI/ML tools.
 
 ---
 

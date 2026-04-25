@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5659** |
+| 🗂️ **Total projects** | **5752** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2188 | [Browse →](./aiml/) |
-| 📦 **Misc** | 932 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 559 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 526 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 337 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 319 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 203 | [Browse →](./crypto/) |
-| 📊 **Data** | 136 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 126 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 83 | [Browse →](./mobile/) |
-| 💳 **Payments** | 80 | [Browse →](./payments/) |
+| 🤖 **AI/ML** | 2216 | [Browse →](./aiml/) |
+| 📦 **Misc** | 959 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 571 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 530 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 342 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 326 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 204 | [Browse →](./crypto/) |
+| 📊 **Data** | 138 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 127 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 84 | [Browse →](./mobile/) |
+| 💳 **Payments** | 82 | [Browse →](./payments/) |
+| 🔐 **Security** | 62 | [Browse →](./security/) |
 | 📈 **Trading** | 62 | [Browse →](./trading/) |
-| 🔐 **Security** | 59 | [Browse →](./security/) |
 | ✨ **Design** | 23 | [Browse →](./design/) |
 | 🎯 **Product** | 18 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 8 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [FFmpeg/FFmpeg](./misc/ffmpeg-ffmpeg.md) | ⭐ 59.3k | Misc |
-| 2 | [ZoneMinder/zoneminder](./frontend/zoneminder-zoneminder.md) | ⭐ 5.8k | Frontend |
-| 3 | [siteboon/claudecodeui](./aiml/siteboon-claudecodeui.md) | ⭐ 10.2k | AI/ML |
-| 4 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.5k | AI/ML |
-| 5 | [firebase/firebase-ios-sdk](./aiml/firebase-firebase-ios-sdk.md) | ⭐ 6.6k | AI/ML |
-| 6 | [HeyPuter/puter](./aiml/heyputer-puter.md) | ⭐ 40.7k | AI/ML |
-| 7 | [dariubs/GoBooks](./product/dariubs-gobooks.md) | ⭐ 19.4k | Product |
+| 1 | [kavishdevar/librepods](./aiml/kavishdevar-librepods.md) | ⭐ 26.7k | AI/ML |
+| 2 | [spantaleev/matrix-docker-ansible-deploy](./backend/spantaleev-matrix-docker-ansible-deploy.md) | ⭐ 6.3k | Backend |
+| 3 | [hwdsl2/setup-ipsec-vpn](./backend/hwdsl2-setup-ipsec-vpn.md) | ⭐ 27.7k | Backend |
+| 4 | [azerothcore/azerothcore-wotlk](./backend/azerothcore-azerothcore-wotlk.md) | ⭐ 8.2k | Backend |
+| 5 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.5k | AI/ML |
+| 6 | [firebase/firebase-ios-sdk](./aiml/firebase-firebase-ios-sdk.md) | ⭐ 6.6k | AI/ML |
+| 7 | [siteboon/claudecodeui](./aiml/siteboon-claudecodeui.md) | ⭐ 10.2k | AI/ML |
 | 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 9 | [curl/curl](./aiml/curl-curl.md) | ⭐ 41.4k | AI/ML |
-| 10 | [onnx/onnx](./aiml/onnx-onnx.md) | ⭐ 20.7k | AI/ML |
+| 9 | [navidrome/navidrome](./aiml/navidrome-navidrome.md) | ⭐ 20.7k | AI/ML |
+| 10 | [microsoft/Web-Dev-For-Beginners](./aiml/microsoft-web-dev-for-beginners.md) | ⭐ 95.7k | AI/ML |
 
 ## 🚀 How it works
 

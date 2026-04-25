@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-SafeBucket is an open-source, on-premises file sharing solution designed for simplicity, speed, and security. It allows users to easily share files within their organization, providing a secure and centralized platform for collaboration and data exchange. By hosting SafeBucket on-premises, users can maintain control over their data and meet their organization's specific security and compliance requirements.
+Here's a brief summary for the safebucket project:
+
+Safebucket is an open-source, on-premises file sharing solution that provides a secure and efficient way to share files across an organization or team. It allows users to store, access, and collaborate on files in a centralized location, while maintaining control over data ownership and security. With safebucket, users can rest assured that their sensitive files are protected while still being easily accessible.
 
 ---
 

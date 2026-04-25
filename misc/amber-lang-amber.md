@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Amber is an open-source programming language that compiles to Bash, aiming to provide a more efficient and scalable alternative to traditional scripting languages. Developed by the amber-lang community, Amber offers a unique compilation path to Bash, enabling users to write high-performance applications with a familiar syntax. With its open-source nature, Amber encourages community contributions and collaboration.
+Amber is an open-source programming language that compiles to Bash, allowing developers to leverage the simplicity and flexibility of a new language while still benefiting from Bash's extensive ecosystem and capabilities. Designed to be compiled to Bash, Amber provides a unique blend of modern language features and the stability of a mature shell. This project enables users to experiment with and develop applications using the Amber language.
 
 ---
 

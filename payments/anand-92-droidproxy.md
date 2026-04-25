@@ -1,6 +1,6 @@
 # anand-92/droidproxy
 
-[![Stars](https://img.shields.io/github/stars/anand-92/droidproxy?style=flat-square&color=yellow)](https://github.com/anand-92/droidproxy/stargazers) [![Forks](https://img.shields.io/github/forks/anand-92/droidproxy?style=flat-square&color=blue)](https://github.com/anand-92/droidproxy/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anand-92/droidproxy?style=flat-square&color=yellow)](https://github.com/anand-92/droidproxy/stargazers) [![Forks](https://img.shields.io/github/forks/anand-92/droidproxy?style=flat-square&color=blue)](https://github.com/anand-92/droidproxy/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A native macOS menu bar app that proxies Claude/Codex/Gemini subscriptions for use with Factory Droid CLI. Always updated with new model releases!
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 7 |
-| 💻 **Language** | HTML |
+| 💻 **Language** | Swift |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Payments · AI/ML · DevTools
+Payments · DevTools
 
 ## 📝 Summary
 

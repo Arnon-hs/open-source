@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-PingMe is an open-source project that provides a unified interface for sending notifications across multiple messaging platforms, offering both command-line interface (CLI) and web service capabilities. This versatile tool enables developers to streamline their notification workflows and reach users across various messaging platforms from a single interface. By utilizing PingMe, users can simplify their notification systems and boost productivity.
+PingMe is an open-source project that offers a unified command-line interface (CLI) and web service for sending notifications across various messaging platforms, streamlining communication and collaboration. This project enables developers to send notifications to multiple platforms, including messaging apps, via a single interface, simplifying their workflow and improving productivity.
 
 ---
 

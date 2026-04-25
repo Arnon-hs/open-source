@@ -25,7 +25,9 @@ AI/ML · Backend · Design
 
 ## 📝 Summary
 
-The GLips/Figma-Context-MCP project is an open-source server that enables AI coding agents, such as Cursor, to access Figma layout information. This allows for seamless integration of design insights with AI-driven coding capabilities, facilitating more efficient and accurate development processes. By providing context from Figma, the project empowers developers to create more effective AI coding agents.
+Here's a brief summary for the GLips/Figma-Context-MCP project:
+
+This open-source project, GLips/Figma-Context-MCP, enables AI coding agents to access Figma layout information through a scalable MCP (Message Channel Protocol) server. By providing a seamless integration with Figma, developers can leverage AI tools like Cursor to automate coding tasks with accurate design context. This project facilitates a more efficient and collaborative workflow between designers and coders.
 
 ---
 

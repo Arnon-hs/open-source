@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The clangd-graph-rag project is an open-source implementation of a source code graph RAG (GraphRAG) for C/C++ development, leveraging the clang and clangd frameworks. This AI/ML-focused project enables the creation of graph representations of source code, facilitating advanced development features and analysis. By utilizing clang and clangd, the project aims to provide a robust and accurate graph generation system for C/C++ codebases.
+Here's a brief summary for the open-source project:
+
+The 2015xli/clangd-graph-rag project utilizes clang/clangd to generate a source code graph, enabling AI/ML applications in C/C++ development. This graph is represented as a Relation Algebra Graph (RAG), providing a structured representation of code relationships. By leveraging clang/clangd's capabilities, this project facilitates advanced code analysis and manipulation.
 
 ---
 

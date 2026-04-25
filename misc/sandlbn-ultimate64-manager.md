@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The ultimate64-manager is an open-source desktop application designed for managing Commodore 64 Ultimate, Ultimate64, and Ultimate-II+ devices. It provides users with a centralized interface to control and monitor these retro gaming systems, enhancing their overall user experience. This software helps enthusiasts to efficiently manage their collections and easily access their favorite games.
+The ultimate64-manager is an open-source desktop application designed to manage Commodore 64 devices, specifically the Commodore 64 Ultimate, Ultimate64, and Ultimate-II+. This software allows users to easily configure, monitor, and control these devices from their computer. It caters to the needs of enthusiasts and collectors who work with these retro computers.
 
 ---
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Foolery is an open-source, agent orchestration Web-UI designed to streamline the management of complex systems and workflows. This project leverages AI/ML capabilities to enhance automation and efficiency, providing a user-friendly interface for administrators to monitor and control their agents. By simplifying orchestration, Foolery aims to reduce the complexity and overhead associated with managing large-scale systems.
+Foolery is an open-source, agent orchestration Web-UI designed to streamline and simplify the management of complex systems. This user-friendly interface enables users to easily deploy, monitor, and control agents, making it an ideal tool for AI/ML workflows and other orchestrated tasks. With Foolery, users can focus on their projects without the need for manual configuration and management.
 
 ---
 

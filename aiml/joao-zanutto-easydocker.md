@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-EasyDocker is an open-source text-based user interface (TUI) designed for Docker resource investigation and troubleshooting. Built with inspiration from popular tools like lazydocker and k9s, it utilizes the beautiful graphics from BubbleTea to provide a visually appealing and efficient user experience. EasyDocker aims to streamline Docker resource management for developers and users alike.
+EasyDocker is a user-friendly, text-based interface (TUI) designed to help users efficiently investigate and troubleshoot Docker resources. It combines the best features of popular tools like lazydocker and k9s with the intuitive graphics of BubbleTea, making it an ideal choice for Docker developers and administrators. This open-source project aims to simplify Docker resource management and streamline troubleshooting processes.
 
 ---
 

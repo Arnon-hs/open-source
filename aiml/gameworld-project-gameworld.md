@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the gameworld-project/gameworld open-source project:
+Here is a 2-3 sentence summary for the GameWorld project:
 
-The gameworld-project/gameworld is an open-source framework aimed at standardizing and verifying the evaluation of multimodal game agents. This project enables researchers and developers to assess and compare the performance of AI-powered game agents in a more transparent and reproducible manner. By providing a standardized environment, gameworld-project/gameworld facilitates advancements in the field of artificial intelligence and game development.
+GameWorld is an open-source project that aims to establish a standardized and verifiable evaluation framework for multimodal game agents. This framework enables the comparison and assessment of various AI/ML models across different gaming environments, promoting accountability and reproducibility in the field of AI research. By facilitating the evaluation of multimodal game agents, GameWorld contributes to advancements in game development, AI research, and related applications.
 
 ---
 

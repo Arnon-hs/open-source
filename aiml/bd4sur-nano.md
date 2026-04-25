@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the bd4sur/Nano project:
+Here's a brief summary of the project:
 
-Nano is an open-source, toy language model designed to be a simplified representation of electronic parrots, mimicking their ability to repeat and generate human-like speech. This project is a fundamental building block for exploring the basics of natural language processing (NLP) and AI/ML concepts. By simplifying complex language models, Nano provides a valuable educational resource for learners and developers.
+The bd4sur/Nano project is an open-source toy language model designed to mimic the functionality of a parrot, repeating learned phrases in a simple and repetitive manner. Built on AI/ML principles, Nano is a basic language model that can be used as a starting point for more complex language learning applications. This project is ideal for beginners looking to explore language generation and machine learning concepts.
 
 ---
 

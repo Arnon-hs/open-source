@@ -25,7 +25,7 @@ Backend · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Certctl is an open-source, self-hosted platform that automates the entire certificate lifecycle, effortlessly managing issuance, renewal, and deployment with minimal to zero human intervention. Compatible with any certificate authority and deployable to any server, certctl securely stores private keys on your infrastructure, ensuring complete control and confidentiality. This robust tool streamlines certificate management, enhancing organizational security and efficiency.
+Certctl is an open-source platform that automates certificate lifecycle management, including issuance, renewal, and deployment, with zero human intervention. It supports integration with any certificate authority and can deploy certificates to various servers, ensuring secure management of private keys within the user's infrastructure. By streamlining certificate management, certctl enhances the security and efficiency of organizations' online operations.
 
 ---
 

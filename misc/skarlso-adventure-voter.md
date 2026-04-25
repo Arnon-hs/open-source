@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, "adventure-voter," is a choose-your-own-adventure style presentation framework that allows users to create interactive and immersive storytelling experiences. With this framework, users can design and deliver engaging presentations that incorporate user input, branching narratives, and multiple outcomes. By leveraging the power of interactive storytelling, "adventure-voter" enables creators to craft unique and memorable presentations.
+The Adventure Voter project is an open-source, choose your own adventure style presentation framework that enables users to create interactive stories with branching narratives and multiple possible outcomes. This framework provides a unique and engaging way to present information, making it ideal for educational, entertainment, and training purposes. With Adventure Voter, users can easily design and share immersive experiences that cater to diverse learning styles and preferences.
 
 ---
 
