@@ -1,6 +1,6 @@
 # pyrate-llama/hermes-ui
 
-[![Stars](https://img.shields.io/github/stars/pyrate-llama/hermes-ui?style=flat-square&color=yellow)](https://github.com/pyrate-llama/hermes-ui/stargazers) [![Forks](https://img.shields.io/github/forks/pyrate-llama/hermes-ui?style=flat-square&color=blue)](https://github.com/pyrate-llama/hermes-ui/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pyrate-llama/hermes-ui?style=flat-square&color=yellow)](https://github.com/pyrate-llama/hermes-ui/stargazers) [![Forks](https://img.shields.io/github/forks/pyrate-llama/hermes-ui?style=flat-square&color=blue)](https://github.com/pyrate-llama/hermes-ui/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Glassmorphic web interface for Hermes Agent — your self-hosted AI assistant
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49 |
+| ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

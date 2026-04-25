@@ -25,9 +25,9 @@ Backend · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the hwdsl2/setup-ipsec-vpn project:
+Here's a brief summary for the project:
 
-This open-source project allows users to set up a secure IPsec VPN server in minutes, supporting various operating systems including Ubuntu, Debian, and Raspberry Pi. The project offers comprehensive support for IPsec/L2TP, Cisco IPsec, and IKEv2 protocols, making it easy to configure and manage VPN connections. With included client configuration and management scripts, setting up a reliable and secure VPN has never been simpler.
+Setup-ipsec-vpn is an open-source project that enables users to establish a secure IPsec VPN server in a matter of minutes. This project supports various operating systems, including Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine, and Raspberry Pi, and offers configuration and management scripts for easy setup and maintenance. It also supports multiple VPN protocols, including IPsec/L2TP, Cisco IPsec, and IKEv2.
 
 ---
 

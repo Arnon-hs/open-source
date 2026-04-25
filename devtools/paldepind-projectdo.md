@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Projectdo is a context-aware command-line tool that boosts terminal productivity by providing single-letter shortcuts for frequently used project management commands. This open-source project simplifies workflow by enabling users to quickly navigate and control their projects with minimal keystrokes. By streamlining terminal interactions, projectdo enhances the overall development experience for developers and teams.
+Projectdo is an open-source project that streamlines terminal workflow by introducing context-aware single-letter commands. This tool allows users to quickly execute common project tasks with minimal typing, making it easier to manage and navigate projects efficiently. By leveraging the power of context awareness, projectdo enables users to work faster and more effectively.
 
 ---
 

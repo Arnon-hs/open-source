@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/faiscadev/fakecloud?style=flat-square&color=yellow)](https://github.com/faiscadev/fakecloud/stargazers) [![Forks](https://img.shields.io/github/forks/faiscadev/fakecloud?style=flat-square&color=blue)](https://github.com/faiscadev/fakecloud/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Free, open-source AWS emulator. LocalStack alternative: 25 services, 1,798 operations, 100% conformance. No account, no auth token, no paid tier.
+> Free, open-source AWS emulator. LocalStack alternative: 26 services, 1,924 operations, 100% conformance. No account, no auth token, no paid tier.
 
 ## 📊 Stats
 

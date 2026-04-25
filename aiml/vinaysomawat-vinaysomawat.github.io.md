@@ -1,6 +1,6 @@
 # vinaysomawat/vinaysomawat.github.io
 
-[![Stars](https://img.shields.io/github/stars/vinaysomawat/vinaysomawat.github.io?style=flat-square&color=yellow)](https://github.com/vinaysomawat/vinaysomawat.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/vinaysomawat/vinaysomawat.github.io?style=flat-square&color=blue)](https://github.com/vinaysomawat/vinaysomawat.github.io/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vinaysomawat/vinaysomawat.github.io?style=flat-square&color=yellow)](https://github.com/vinaysomawat/vinaysomawat.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/vinaysomawat/vinaysomawat.github.io?style=flat-square&color=blue)](https://github.com/vinaysomawat/vinaysomawat.github.io/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > This portfolio showcasing dynamic GitHub stats, Medium blog posts, and professional experience. Built with ES6+, lit-html, and CSS3, integrates data from GitHub and Medium for real-time content.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 385 |
-| 💻 **Language** | HTML |
+| 💻 **Language** | JavaScript |
 | 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

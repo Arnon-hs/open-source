@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Baibot is an open-source Matrix bot that leverages the capabilities of artificial intelligence and large language models, including text generation, text-to-speech, speech-to-text, and image generation. This bot supports various AI platforms, such as OpenAI and Anthropic, allowing users to tap into their advanced features. By utilizing Baibot, users can explore the diverse applications of AI in a seamless and integrated manner.
+The baibot project is an open-source Matrix bot that leverages the capabilities of Artificial Intelligence (AI) and Large Language Models, such as OpenAI and Anthropic, to perform various tasks including text generation, text-to-speech conversion, and image generation. This bot aims to provide a unified interface for interacting with multiple AI models, making it accessible for developers and users to utilize AI capabilities within the Matrix ecosystem. By utilizing baibot, users can explore and integrate AI functionalities into their Matrix experiences.
 
 ---
 

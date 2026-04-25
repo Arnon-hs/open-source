@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the project:
 
-The sublime-claude extension is an open-source integration for Sublime Text, enabling seamless interaction with the Claude AI model for code generation and assistance. This extension allows users to leverage Claude's capabilities within their preferred text editor, streamlining coding workflows and accelerating development. By bridging Sublime Text and Claude, this tool aims to enhance productivity and efficiency in software development.
+The sublime-claude extension allows users to interact with Claude-Code from within Sublime Text, a popular code editor. This VIBE-CODED extension facilitates seamless integration of AI-powered coding capabilities into the user's workflow. By leveraging Claude-Code's capabilities within Sublime Text, users can streamline their coding experience.
 
 ---
 

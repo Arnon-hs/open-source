@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/feichai0017/NoKV?style=flat-square&color=yellow)](https://github.com/feichai0017/NoKV/stargazers) [![Forks](https://img.shields.io/github/forks/feichai0017/NoKV?style=flat-square&color=blue)](https://github.com/feichai0017/NoKV/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> High-performance distributed KV storage based on LSM Tree
+> Native metadata service for distributed filesystems, object storage, and AI dataset workloads.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML · Data · Marketing
 
 ## 📝 Summary
 

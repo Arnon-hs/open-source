@@ -25,7 +25,9 @@ Data
 
 ## 📝 Summary
 
-FrankensQLite is an open-source, concurrent SQLite database reimplementation written from scratch in Rust. It prioritizes information-theoretic durability, ensuring data integrity and consistency across multiple writers. This project provides a robust, high-performance alternative for applications requiring concurrent database access.
+Here's a summary for the open-source project:
+
+FrankensQLite is an independent, open-source reimplementation of SQLite in Rust, designed to support concurrent writers and ensure information-theoretic durability. This project aims to provide a robust and efficient alternative to the original SQLite database. By leveraging Rust's capabilities, FrankensQLite seeks to offer improved performance and reliability for modern database applications.
 
 ---
 

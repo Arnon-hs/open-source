@@ -27,7 +27,7 @@ AI/ML · Frontend · DevOps/Infra
 
 Here's a brief summary for the RARgames/4gaBoards project:
 
-4gaBoards is an open-source project that offers a straightforward, real-time kanban board management system for efficient task tracking. Its intuitive interface features a dark mode, collapsible todo lists, and multitasking tools designed to boost team productivity. With its robust features, 4gaBoards is ideal for teams seeking to streamline their workflow and collaboration.
+4gaBoards is an open-source, real-time kanban board management system designed for intuitive task tracking. This user-friendly platform features a dark mode, collapsible todo lists, and multitasking tools to boost team productivity. By leveraging AI/ML, Frontend, and DevOps/Infra expertise, 4gaBoards empowers teams to streamline their workflow and achieve their goals more efficiently.
 
 ---
 

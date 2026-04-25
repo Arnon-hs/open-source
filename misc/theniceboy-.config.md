@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, 'theniceboy/.config', is a collection of the author's custom configuration files, known as dotfiles, used to personalize their system settings. The repository provides a transparent and shareable way to manage and customize various aspects of a system's configuration. It serves as a resource for users and developers to learn and adapt configuration settings for their own systems.
+The theniceboy/.config project is an open-source repository containing the author's personal dotfiles, providing a collection of configuration files for various systems and applications. This project serves as a reference or starting point for users to customize their own environments by leveraging the configurations and settings used by the author. The repository offers a transparent look into the author's system setup.
 
 ---
 

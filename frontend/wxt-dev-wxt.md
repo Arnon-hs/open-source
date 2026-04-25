@@ -25,7 +25,9 @@ Frontend · Backend
 
 ## 📝 Summary
 
-The wxt project is an open-source, next-generation web extension framework designed to simplify the development of complex web applications. It provides a unified platform for building both frontend and backend components, allowing developers to create seamless and efficient web experiences. With wxt, developers can focus on writing application logic rather than dealing with the intricacies of web extension development.
+Here's a brief summary:
+
+The wxt project is an open-source, next-generation Web Extension Framework that provides a unified solution for building both frontend and backend applications. This framework aims to accelerate development by offering a robust and modular architecture that simplifies the creation and integration of web extensions. By utilizing wxt, developers can build scalable, maintainable, and high-performance web applications with ease.
 
 ---
 

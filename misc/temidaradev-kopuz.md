@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Kopuz is an open-source music player built with Rust and the Dioxus framework, offering a versatile listening experience. It supports playback of local files as well as content from Jellyfin media servers, catering to users with diverse music libraries. This project aims to provide a robust and customizable music player for users seeking a unique alternative.
+Kopuz is an open-source music player written in Rust, utilizing the Dioxus framework for a user-friendly interface. It supports playback of local files and integrates with Jellyfin, a popular media server, for seamless streaming and management. With Kopuz, users can enjoy a robust music experience without compromising on customization or functionality.
 
 ---
 

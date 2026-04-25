@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 356 |
+| ⭐ **Stars** | 357 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The termcn project is an open-source initiative that provides beautiful terminal UI components built on the Ink library. Users can easily set up and utilize these high-quality components with just one command, completely free of configuration requirements. This tool is suitable for developers and designers working on frontend projects, as well as those utilizing development tools.
+Termcn is an open-source project that provides beautiful terminal UI components built on Ink, allowing developers to create stunning interfaces with minimal setup. With zero configuration required, users can set up the project with a single command, making it a convenient addition to any front-end workflow. This project empowers developers to enhance their terminal applications with visually appealing and intuitive user interfaces.
 
 ---
 

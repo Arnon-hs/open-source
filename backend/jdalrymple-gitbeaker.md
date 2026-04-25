@@ -25,9 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-jdalrymple/gitbeaker is a comprehensive, open-source SDK providing typed access to the GitLab API across various environments, including Node.js, browsers, Deno, and CLI. This SDK offers a unified interface for interacting with GitLab's features, empowering developers to streamline their workflows and applications. With its typed design, it ensures robust and maintainable code.
+The jdalrymple/gitbeaker project provides a comprehensive and type-safe GitLab SDK for various environments, including Node.js, browsers, Deno, and CLI tools. This open-source SDK enables developers to interact with the GitLab API in a seamless and efficient manner. With its cross-platform support, it facilitates integration with GitLab services across different development projects and workflows.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The mode-io/skill-manager is an open-source project that centralizes the management of skills across multiple AI and coding applications, including Codex CLI, Claude Code, Cursor, OpenCode, and OpenClaw. This local app streamlines the process of skill management, allowing users to easily keep track and update their skills across multiple platforms. By consolidating skill management, the project aims to enhance productivity and efficiency for developers and AI enthusiasts alike.
+The mode-io/skill-manager is an open-source project that allows users to centrally manage skills across various AI development tools, including Codex CLI, Claude Code, Cursor, OpenCode, and OpenClaw. This project streamlines the process of skill management by providing a single, local application for users to access and control their skills across these tools. By doing so, it simplifies the development workflow and enhances productivity for AI/ML professionals.
 
 ---
 

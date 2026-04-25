@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The zip-rs/zip2 project is an open-source implementation of the zip archive format in Rust, providing a robust and reliable way to create and manipulate zip files. This project enables developers to work with zip archives within Rust applications, making it easier to handle compressed data and archives. By utilizing the zip2 library, users can leverage its features to streamline data compression and decompression tasks.
+The zip-rs/zip2 project provides a native Rust implementation of the ZIP file format, enabling developers to easily create, read, and manipulate ZIP archives within Rust applications. This open-source library offers a robust and efficient way to work with ZIP files, making it suitable for various use cases such as data compression, archival, and distribution. With zip-rs/zip2, developers can leverage Rust's performance and reliability to build robust and scalable ZIP file handling applications.
 
 ---
 

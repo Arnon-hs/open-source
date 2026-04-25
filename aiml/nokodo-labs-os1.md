@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project nokodo-labs/os1:
-
-"Nokodo-labs/os1 is an innovative, open-source AI platform designed to revolutionize the field of artificial intelligence. Built with a focus on next-generation capabilities, this platform offers a robust and flexible framework for developing and deploying AI applications. With its open-source nature and Frontend-focused architecture, os1 enables developers to create cutting-edge AI solutions with ease and collaboration."
+os1 is an open-source, next-generation AI platform aiming to revolutionize the field of artificial intelligence. This comprehensive platform is designed to provide a robust and scalable infrastructure for developing and deploying AI applications, empowering users to push the boundaries of what is possible with machine learning. With a strong focus on usability and collaboration, os1 seeks to make AI more accessible and inclusive for developers and researchers worldwide.
 
 ---
 

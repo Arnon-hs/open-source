@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Kon is an open-source, minimal coding agent driven by AI/ML technology. This highly opinionated tool is designed to assist developers with code suggestions and automation, offering a streamlined approach to coding tasks. By leveraging AI capabilities, Kon aims to enhance coding productivity and efficiency.
+Here's a brief summary for the open-source project "Kon":
+
+Kon is an open-source, highly opinionated minimal coding agent that leverages AI and ML technologies. Designed to streamline coding processes, Kon offers a unique approach to development by automating repetitive tasks and providing efficient solutions. This project is ideal for developers seeking innovative tools to enhance their coding productivity.
 
 ---
 

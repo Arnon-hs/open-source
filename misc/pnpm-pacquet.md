@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 797 |
+| ⭐ **Stars** | 798 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-pnm/pacquet is an experimental package manager for Node.js, aiming to improve the existing package management system. This open-source project is still in development, with the goal of enhancing package installation and management for Node.js developers. By leveraging Node.js's ecosystem, pacquet seeks to provide a more efficient and streamlined experience for package management.
+The pacquet project is an experimental package manager designed for Node.js, aimed at providing a novel solution to the traditional package management challenges. As an open-source initiative, it seeks to innovate and improve the way developers manage dependencies and packages in their Node.js projects. Developed by the pnpm team, pacquet continues to evolve and refine its functionality through community contributions and testing.
 
 ---
 

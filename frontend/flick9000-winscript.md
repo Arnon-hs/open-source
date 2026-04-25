@@ -25,7 +25,7 @@ Frontend · Security
 
 ## 📝 Summary
 
-The winscript project is an open-source tool designed to help users create customized Windows scripts from scratch. This user-friendly tool includes pre-built scripts for debloating, enhancing privacy, improving performance, and installing applications, catering to the needs of Windows users who value a streamlined and secure experience. With its flexible and modular design, winscript empowers users to tailor their Windows experience according to their preferences.
+The winscript project is an open-source tool that enables users to build a customized Windows script from the ground up. It offers a range of features, including debloat, privacy, performance, and app installation scripts, allowing users to tailor their Windows experience to their specific needs. This tool aims to provide users with a secure and efficient Windows environment.
 
 ---
 

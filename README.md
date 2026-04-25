@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5752** |
+| 🗂️ **Total projects** | **5845** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2216 | [Browse →](./aiml/) |
-| 📦 **Misc** | 959 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 571 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 530 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 342 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 326 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 204 | [Browse →](./crypto/) |
-| 📊 **Data** | 138 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 2251 | [Browse →](./aiml/) |
+| 📦 **Misc** | 982 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 581 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 537 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 345 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 330 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 207 | [Browse →](./crypto/) |
+| 📊 **Data** | 140 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 127 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 84 | [Browse →](./mobile/) |
-| 💳 **Payments** | 82 | [Browse →](./payments/) |
+| 📱 **Mobile** | 86 | [Browse →](./mobile/) |
+| 💳 **Payments** | 83 | [Browse →](./payments/) |
 | 🔐 **Security** | 62 | [Browse →](./security/) |
 | 📈 **Trading** | 62 | [Browse →](./trading/) |
-| ✨ **Design** | 23 | [Browse →](./design/) |
-| 🎯 **Product** | 18 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 8 | [Browse →](./marketing/) |
+| ✨ **Design** | 24 | [Browse →](./design/) |
+| 🎯 **Product** | 19 | [Browse →](./product/) |
+| 🏷️ **Marketing** | 9 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [kavishdevar/librepods](./aiml/kavishdevar-librepods.md) | ⭐ 26.7k | AI/ML |
-| 2 | [spantaleev/matrix-docker-ansible-deploy](./backend/spantaleev-matrix-docker-ansible-deploy.md) | ⭐ 6.3k | Backend |
-| 3 | [hwdsl2/setup-ipsec-vpn](./backend/hwdsl2-setup-ipsec-vpn.md) | ⭐ 27.7k | Backend |
-| 4 | [azerothcore/azerothcore-wotlk](./backend/azerothcore-azerothcore-wotlk.md) | ⭐ 8.2k | Backend |
-| 5 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.5k | AI/ML |
-| 6 | [firebase/firebase-ios-sdk](./aiml/firebase-firebase-ios-sdk.md) | ⭐ 6.6k | AI/ML |
-| 7 | [siteboon/claudecodeui](./aiml/siteboon-claudecodeui.md) | ⭐ 10.2k | AI/ML |
-| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 9 | [navidrome/navidrome](./aiml/navidrome-navidrome.md) | ⭐ 20.7k | AI/ML |
-| 10 | [microsoft/Web-Dev-For-Beginners](./aiml/microsoft-web-dev-for-beginners.md) | ⭐ 95.7k | AI/ML |
+| 1 | [azerothcore/azerothcore-wotlk](./backend/azerothcore-azerothcore-wotlk.md) | ⭐ 8.2k | Backend |
+| 2 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.5k | AI/ML |
+| 3 | [firebase/firebase-ios-sdk](./aiml/firebase-firebase-ios-sdk.md) | ⭐ 6.6k | AI/ML |
+| 4 | [sqlmapproject/sqlmap](./devtools/sqlmapproject-sqlmap.md) | ⭐ 37.1k | DevTools |
+| 5 | [h2oai/h2o-3](./aiml/h2oai-h2o-3.md) | ⭐ 7.5k | AI/ML |
+| 6 | [files-community/Files](./aiml/files-community-files.md) | ⭐ 43.2k | AI/ML |
+| 7 | [linshenkx/prompt-optimizer](./aiml/linshenkx-prompt-optimizer.md) | ⭐ 26.9k | AI/ML |
+| 8 | [graphhopper/graphhopper](./backend/graphhopper-graphhopper.md) | ⭐ 6.4k | Backend |
+| 9 | [mumble-voip/mumble](./backend/mumble-voip-mumble.md) | ⭐ 8k | Backend |
+| 10 | [siteboon/claudecodeui](./aiml/siteboon-claudecodeui.md) | ⭐ 10.2k | AI/ML |
 
 ## 🚀 How it works
 

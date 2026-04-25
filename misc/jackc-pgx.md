@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The jackc/pgx project is an open-source PostgreSQL driver and toolkit designed for use in Go programming language applications. It provides a high-performance and feature-rich interface for interacting with PostgreSQL databases, enabling developers to easily build scalable and robust database-driven applications. With pgx, developers can utilize PostgreSQL's advanced capabilities, including asynchronous queries, connection pooling, and more.
+The jackc/pgx project is an open-source PostgreSQL driver and toolkit designed for use in Go applications. It offers a high-performance interface to PostgreSQL databases, providing a robust and efficient way to interact with PostgreSQL servers from Go code. This project enables developers to build scalable and reliable PostgreSQL-based applications with ease.
 
 ---
 

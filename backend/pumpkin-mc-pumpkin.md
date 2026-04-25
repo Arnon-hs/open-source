@@ -25,7 +25,7 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Pumpkin-MC/Pumpkin is an open-source project designed to simplify and accelerate the process of hosting Minecraft servers. This project empowers users to deploy and manage fast and efficient Minecraft servers with reduced complexity, making server hosting more accessible and user-friendly. By leveraging Pumpkin's backend and DevOps/Infra capabilities, users can focus on gameplay and community-building while leaving server management to the system.
+Pumpkin-MC/Pumpkin is an open-source project that enables users to set up fast and efficient Minecraft servers. This project empowers individuals to easily host and manage Minecraft servers, making it an ideal solution for both personal and large-scale server deployments. By utilizing Pumpkin's capabilities, users can streamline their server operations and enhance their Minecraft experience.
 
 ---
 

@@ -25,9 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the twmb/franz-go project:
+Here's a brief summary for the open-source project:
 
-Franz-go is an open-source, feature-complete library for interacting with Apache Kafka in pure Go, supporting versions from 0.8.0 to 4.2. It provides a comprehensive set of functionalities for producing, consuming, transacting, and administering Kafka, making it a versatile tool for developers. This library simplifies Kafka integration in Go-based applications, facilitating efficient and reliable communication with the popular messaging system.
+The franz-go library is a comprehensive, open-source Go implementation for interacting with Apache Kafka, supporting versions from 0.8.0 to 4.2+. It offers a wide range of features, including producing, consuming, and administering Kafka topics, as well as transactional capabilities. This library provides a hassle-free way to integrate Kafka with Go applications.
 
 ---
 

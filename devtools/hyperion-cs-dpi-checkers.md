@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The hyperion-cs/dpi-checkers project is an open-source toolset designed to detect and test internet service provider (ISP) censorship. It uses a set of checkers to verify if data packets are being intercepted, modified, or blocked by DPI (Deep Packet Inspection) techniques. This project aims to empower users to identify and potentially circumvent ISP censorship.
+The hyperion-cs/dpi-checkers project is an open-source tool that helps users detect potential internet censorship by their service providers. It utilizes various checkers to identify Deep Packet Inspection (DPI) techniques, which are commonly used for censorship and monitoring. This project empowers users to maintain their online freedom and transparency.
 
 ---
 

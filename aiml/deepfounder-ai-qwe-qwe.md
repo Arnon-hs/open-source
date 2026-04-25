@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The deepfounder-ai/qwe-qwe project offers a lightweight, offline AI agent that allows users to run local models on their GPU without the need for cloud services or API keys. This solution provides a flexible and self-sufficient approach to AI development, focusing on local computations. As a result, data remains private, and computations are performed entirely on the user's device.
+The deepfounder-ai/qwe-qwe project is an open-source, lightweight AI agent that enables the use of local models offline, eliminating the need for cloud services or API keys. This agent utilizes a device's GPU to run machine learning models efficiently, providing a self-contained solution for AI applications. With qwe-qwe, users can leverage AI capabilities without relying on external infrastructure.
 
 ---
 

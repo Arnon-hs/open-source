@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-CakeML is an open-source project that aims to provide a verified implementation of machine learning (ML) algorithms. It combines formal verification techniques with the Cake language to ensure the correctness and reliability of ML models. By leveraging CakeML, developers can build and deploy ML systems with a higher level of confidence in their accuracy and robustness.
+CakeML is an open-source project that aims to provide a verified implementation of machine learning (ML) algorithms. It combines formal verification techniques with ML research to ensure the correctness and reliability of its implementations. By leveraging the CakeML system, developers can verify the functional correctness of their ML code, providing a high degree of assurance in the accuracy and robustness of their models.
 
 ---
 

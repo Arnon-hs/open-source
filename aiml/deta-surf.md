@@ -25,7 +25,9 @@ AI/ML · Data · Product
 
 ## 📝 Summary
 
-The deta/surf project is an open-source initiative that enables users to create personal AI-powered note-taking notebooks. It allows individuals to organize files and web pages, and then generate notes from them, promoting a seamless and efficient learning experience. This project prioritizes open data, local file management, and the user's choice of AI model, including the option to utilize local models.
+Here's a brief summary of the deta/surf project:
+
+deta/surf is an open-source project that offers a platform for personal AI-powered Notebooks. It enables users to organize files and webpages, then generate notes automatically from the content. This innovative tool prioritizes local and open data, giving users flexibility in choosing their AI models, including those running locally.
 
 ---
 

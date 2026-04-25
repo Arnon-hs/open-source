@@ -25,7 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Laminar is an open-source observability platform specifically designed for AI agents, providing real-time visibility into the performance and behavior of AI systems. This platform is built to meet the unique monitoring needs of AI/ML applications, empowering developers to troubleshoot and optimize their AI models with greater ease. Laminar is a product of the Y Combinator S24 batch.
+Here's a 2-3 sentence summary for the Laminar open-source project:
+
+Laminar is a comprehensive, open-source observability platform specifically designed for AI agents, providing valuable insights into their behavior and performance. Built for developers, Laminar offers a robust set of tools to monitor, debug, and optimize AI systems, empowering teams to build more reliable and efficient AI applications. As a Y Combinator-backed project, Laminar has been purpose-built to address the unique challenges of AI development.
 
 ---
 
