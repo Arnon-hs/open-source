@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4168** |
+| 🗂️ **Total projects** | **4248** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1600 | [Browse →](./aiml/) |
-| 📦 **Misc** | 656 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 423 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 395 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 254 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 233 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 163 | [Browse →](./crypto/) |
-| 📊 **Data** | 109 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 95 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 58 | [Browse →](./payments/) |
-| 📱 **Mobile** | 57 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 1628 | [Browse →](./aiml/) |
+| 📦 **Misc** | 668 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 438 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 400 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 257 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 235 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 166 | [Browse →](./crypto/) |
+| 📊 **Data** | 112 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 98 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 60 | [Browse →](./payments/) |
+| 📱 **Mobile** | 59 | [Browse →](./mobile/) |
 | 📈 **Trading** | 46 | [Browse →](./trading/) |
 | 🔐 **Security** | 45 | [Browse →](./security/) |
-| ✨ **Design** | 15 | [Browse →](./design/) |
+| ✨ **Design** | 17 | [Browse →](./design/) |
 | 🎯 **Product** | 14 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [apache/spark](./data/apache-spark.md) | ⭐ 43.2k | Data |
-| 2 | [opf/openproject](./product/opf-openproject.md) | ⭐ 14.9k | Product |
-| 3 | [freeCodeCamp/freeCodeCamp](./frontend/freecodecamp-freecodecamp.md) | ⭐ 443.5k | Frontend |
-| 4 | [supermemoryai/supermemory](./orchestration/supermemoryai-supermemory.md) | ⭐ 22.2k | Orchestration |
-| 5 | [jenkinsci/jenkins](./backend/jenkinsci-jenkins.md) | ⭐ 25.2k | Backend |
-| 6 | [tailcallhq/forgecode](./orchestration/tailcallhq-forgecode.md) | ⭐ 6.9k | Orchestration |
-| 7 | [justcallmekoko/ESP32Marauder](./aiml/justcallmekoko-esp32marauder.md) | ⭐ 10.6k | AI/ML |
-| 8 | [mickael-kerjean/filestash](./data/mickael-kerjean-filestash.md) | ⭐ 14.1k | Data |
-| 9 | [tw93/Mole](./aiml/tw93-mole.md) | ⭐ 49.1k | AI/ML |
-| 10 | [lutzroeder/netron](./aiml/lutzroeder-netron.md) | ⭐ 32.8k | AI/ML |
+| 1 | [hoochanlon/hamuleite](./misc/hoochanlon-hamuleite.md) | ⭐ 9.4k | Misc |
+| 2 | [harvard-edge/cs249r_book](./aiml/harvard-edge-cs249r-book.md) | ⭐ 23.8k | AI/ML |
+| 3 | [godotengine/godot-docs](./misc/godotengine-godot-docs.md) | ⭐ 5.2k | Misc |
+| 4 | [janhq/jan](./aiml/janhq-jan.md) | ⭐ 42.1k | AI/ML |
+| 5 | [stride3d/stride](./misc/stride3d-stride.md) | ⭐ 7.6k | Misc |
+| 6 | [web-platform-tests/wpt](./aiml/web-platform-tests-wpt.md) | ⭐ 5.9k | AI/ML |
+| 7 | [gogs/gogs](./aiml/gogs-gogs.md) | ⭐ 47.5k | AI/ML |
+| 8 | [Anionex/banana-slides](./aiml/anionex-banana-slides.md) | ⭐ 14.1k | AI/ML |
+| 9 | [microsoft/playwright](./backend/microsoft-playwright.md) | ⭐ 87.2k | Backend |
+| 10 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](./aiml/youmind-openlab-awesome-nano-banana-pro-prompts.md) | ⭐ 11.5k | AI/ML |
 
 ## 🚀 How it works
 

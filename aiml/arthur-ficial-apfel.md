@@ -1,6 +1,6 @@
 # Arthur-Ficial/apfel
 
-[![Stars](https://img.shields.io/github/stars/Arthur-Ficial/apfel?style=flat-square&color=yellow)](https://github.com/Arthur-Ficial/apfel/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur-Ficial/apfel?style=flat-square&color=blue)](https://github.com/Arthur-Ficial/apfel/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arthur-Ficial/apfel?style=flat-square&color=yellow)](https://github.com/Arthur-Ficial/apfel/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur-Ficial/apfel?style=flat-square&color=blue)](https://github.com/Arthur-Ficial/apfel/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 191 |
+| ⭐ **Stars** | 5k |
+| 🍴 **Forks** | 192 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

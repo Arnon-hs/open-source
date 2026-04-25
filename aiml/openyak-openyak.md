@@ -1,6 +1,6 @@
 # openyak/openyak
 
-[![Stars](https://img.shields.io/github/stars/openyak/openyak?style=flat-square&color=yellow)](https://github.com/openyak/openyak/stargazers) [![Forks](https://img.shields.io/github/forks/openyak/openyak?style=flat-square&color=blue)](https://github.com/openyak/openyak/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openyak/openyak?style=flat-square&color=yellow)](https://github.com/openyak/openyak/stargazers) [![Forks](https://img.shields.io/github/forks/openyak/openyak?style=flat-square&color=blue)](https://github.com/openyak/openyak/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 682 |
+| ⭐ **Stars** | 684 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

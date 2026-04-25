@@ -1,6 +1,6 @@
 # Dicklesworthstone/beads_rust
 
-[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/beads_rust?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/beads_rust/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/beads_rust?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/beads_rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/beads_rust?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/beads_rust/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/beads_rust?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/beads_rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 836 |
+| ⭐ **Stars** | 837 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # vivizzz007/vivi-music
 
-[![Stars](https://img.shields.io/github/stars/vivizzz007/vivi-music?style=flat-square&color=yellow)](https://github.com/vivizzz007/vivi-music/stargazers) [![Forks](https://img.shields.io/github/forks/vivizzz007/vivi-music?style=flat-square&color=blue)](https://github.com/vivizzz007/vivi-music/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vivizzz007/vivi-music?style=flat-square&color=yellow)](https://github.com/vivizzz007/vivi-music/stargazers) [![Forks](https://img.shields.io/github/forks/vivizzz007/vivi-music?style=flat-square&color=blue)](https://github.com/vivizzz007/vivi-music/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Vivi-Music is an expressive Material 3–based YouTube Music client for Android.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 863 |
+| ⭐ **Stars** | 864 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

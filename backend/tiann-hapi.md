@@ -1,6 +1,6 @@
 # tiann/hapi
 
-[![Stars](https://img.shields.io/github/stars/tiann/hapi?style=flat-square&color=yellow)](https://github.com/tiann/hapi/stargazers) [![Forks](https://img.shields.io/github/forks/tiann/hapi?style=flat-square&color=blue)](https://github.com/tiann/hapi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tiann/hapi?style=flat-square&color=yellow)](https://github.com/tiann/hapi/stargazers) [![Forks](https://img.shields.io/github/forks/tiann/hapi?style=flat-square&color=blue)](https://github.com/tiann/hapi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 400 |
+| 🍴 **Forks** | 401 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

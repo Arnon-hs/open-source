@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/eddmpython/dartlab?style=flat-square&color=yellow)](https://github.com/eddmpython/dartlab/stargazers) [![Forks](https://img.shields.io/github/forks/eddmpython/dartlab?style=flat-square&color=blue)](https://github.com/eddmpython/dartlab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> One stock code → full company story. Korean DART + US SEC EDGAR filings as structured Python data. 2,700+ KR / 970+ US companies.
+> One stock code → full company story
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Trading · AI/ML · Data
+Trading · AI/ML
 
 ## 📝 Summary
 
