@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Pixop's video-compare project is an open-source, split-screen video comparison tool built using FFmpeg and SDL2. It enables users to easily compare two videos side-by-side, allowing for precise analysis and evaluation of their differences. This tool is particularly useful for developers, video editors, and content creators who need to assess video quality or detect discrepancies in video content.
+The pixop/video-compare project is an open-source tool that allows for side-by-side video comparison using FFmpeg and SDL2. This user-friendly utility enables developers and content creators to efficiently compare and analyze video content, streamlining the quality control process. By providing a split-screen interface, users can easily identify and highlight differences between two video streams.
 
 ---
 

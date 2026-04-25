@@ -27,7 +27,7 @@ Frontend · DevTools
 
 Here's a brief summary for the privatenumber/tsx project:
 
-Privatenumber's tsx is a simple and efficient way to run TypeScript in Node.js, allowing for seamless integration with existing Node.js projects. This open-source tool provides a straightforward method to execute TypeScript code, making it an ideal solution for developers who want to leverage the benefits of TypeScript without added complexity. With tsx, developers can focus on writing high-quality code without worrying about the nuances of TypeScript execution.
+privatenumber/tsx is a simple and efficient way to run TypeScript in Node.js, eliminating the need for complicated setup and configuration. This open-source project provides a seamless experience for developers, allowing them to focus on writing code rather than struggling with execution. With tsx, you can write and run TypeScript code with ease, making it an ideal tool for frontend development and DevTools.
 
 ---
 

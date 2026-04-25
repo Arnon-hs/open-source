@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Tessera is an open-source, cross-platform UI library for Rust that prioritizes performance and extensibility. It uses a declarative and functional approach to simplify the process of building user interfaces. This library offers a robust and efficient framework for creating visually appealing and interactive applications.
+Tessera is a high-performance, cross-platform UI library for Rust that utilizes a declarative and functional approach to build robust and efficient user interfaces. This open-source project aims to strike a balance between ease of use and extensibility, making it an ideal choice for developers seeking a flexible and scalable frontend solution. With its focus on performance and extensibility, Tessera enables developers to create fast, reliable, and visually appealing applications.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · Backend · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the Lad MCP Server project:
-
-The Lad MCP Server is an open-source project that enables autonomous code and system design reviews for AI coding agents, such as Claude Code, Cursor, and Codex. It utilizes OpenRouter for multi-model consensus and Serena for context-aware reviews, providing a comprehensive review platform for AI coding agents. This project supports the development and improvement of AI-powered coding capabilities.
+The Lad MCP Server is an open-source project designed to provide autonomous code and system design review for AI coding agents, such as Claude Code, Cursor, and Codex. This project utilizes multi-model consensus via OpenRouter and context-aware reviews via Serena to deliver comprehensive feedback. By leveraging AI capabilities, the Lad MCP Server aims to enhance the development and review process for AI-related projects.
 
 ---
 

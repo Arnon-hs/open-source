@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary for the chardigio/pappardelle open-source project:
 
-Pappardelle is an open-source, text-based user interface (TUI) designed to simplify multi-cloud management without overwhelming users. This project leverages Orchestration and AI/ML capabilities to provide a seamless and intuitive experience. By streamlining complex cloud operations, Pappardelle aims to help users maintain control and productivity in a multi-cloud environment.
+Pappardelle is an open-source, text-based user interface (TUI) designed to simplify the process of multi-clustering without compromising manageability. This project aims to provide a user-friendly experience for navigating complex distributed systems, helping users stay organized and in control. By leveraging orchestration and AI/ML capabilities, pappardelle streamlines multi-clustering tasks and reduces the risk of errors.
 
 ---
 

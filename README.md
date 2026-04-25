@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5467** |
+| 🗂️ **Total projects** | **5562** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2133 | [Browse →](./aiml/) |
-| 📦 **Misc** | 891 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 539 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 516 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 319 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 301 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 195 | [Browse →](./crypto/) |
-| 📊 **Data** | 133 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 121 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 2158 | [Browse →](./aiml/) |
+| 📦 **Misc** | 911 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 549 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 520 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 332 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 311 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 200 | [Browse →](./crypto/) |
+| 📊 **Data** | 134 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 125 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 80 | [Browse →](./mobile/) |
 | 💳 **Payments** | 79 | [Browse →](./payments/) |
-| 📱 **Mobile** | 79 | [Browse →](./mobile/) |
-| 📈 **Trading** | 59 | [Browse →](./trading/) |
+| 📈 **Trading** | 61 | [Browse →](./trading/) |
 | 🔐 **Security** | 55 | [Browse →](./security/) |
 | ✨ **Design** | 23 | [Browse →](./design/) |
 | 🎯 **Product** | 17 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [bin456789/reinstall](./devtools/bin456789-reinstall.md) | ⭐ 11.6k | DevTools |
-| 2 | [pear-devs/pear-desktop](./misc/pear-devs-pear-desktop.md) | ⭐ 31.4k | Misc |
-| 3 | [XTLS/Xray-core](./misc/xtls-xray-core.md) | ⭐ 37.8k | Misc |
-| 4 | [JunkFood02/Seal](./mobile/junkfood02-seal.md) | ⭐ 25.9k | Mobile |
-| 5 | [invoke-ai/InvokeAI](./aiml/invoke-ai-invokeai.md) | ⭐ 27k | AI/ML |
-| 6 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 14.8k | AI/ML |
-| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 8 | [arendst/Tasmota](./frontend/arendst-tasmota.md) | ⭐ 24.3k | Frontend |
-| 9 | [JetBrains/kotlin](./aiml/jetbrains-kotlin.md) | ⭐ 52.6k | AI/ML |
-| 10 | [docmost/docmost](./misc/docmost-docmost.md) | ⭐ 19.9k | Misc |
+| 1 | [FFmpeg/FFmpeg](./misc/ffmpeg-ffmpeg.md) | ⭐ 59.3k | Misc |
+| 2 | [ZoneMinder/zoneminder](./frontend/zoneminder-zoneminder.md) | ⭐ 5.8k | Frontend |
+| 3 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.5k | AI/ML |
+| 4 | [firebase/firebase-ios-sdk](./aiml/firebase-firebase-ios-sdk.md) | ⭐ 6.6k | AI/ML |
+| 5 | [curl/curl](./aiml/curl-curl.md) | ⭐ 41.4k | AI/ML |
+| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 7 | [onnx/onnx](./aiml/onnx-onnx.md) | ⭐ 20.7k | AI/ML |
+| 8 | [projectdiscovery/nuclei](./aiml/projectdiscovery-nuclei.md) | ⭐ 28.1k | AI/ML |
+| 9 | [casdoor/casdoor](./aiml/casdoor-casdoor.md) | ⭐ 13.5k | AI/ML |
+| 10 | [astral-sh/ruff](./frontend/astral-sh-ruff.md) | ⭐ 47.2k | Frontend |
 
 ## 🚀 How it works
 

@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a 2-3 sentence summary of the project:
 
-The mymagicpower/AIAS project provides a comprehensive, open-source AI solution for product-level image recognition, search, and other applications. This Java-based platform includes a PyTorch training engine, AI SDK, and web application, allowing developers to accelerate product research and development while reducing workload. It offers customizable OCR templates, image-to-image search, and face recognition capabilities, all available for free and commercial use.
+The AIAS project is an open-source, Java-based AI solution that provides a robust and customizable image recognition framework for products, including object detection, image search, and face recognition. It offers a comprehensive suite of tools, including a PyTorch training engine, AI SDK, and web application, making it an ideal choice for accelerating product development and reducing workload. With its free and commercially-usable licensing, AIAS is a powerful one-stop-shop for Java-based AI needs.
 
 ---
 

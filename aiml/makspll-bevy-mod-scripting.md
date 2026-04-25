@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The makspll/bevy_mod_scripting project is an open-source Bevy plugin that enables scripting capabilities within the Bevy game engine. This plugin allows users to write custom scripts in a variety of programming languages, adding flexibility and customizability to Bevy applications. By integrating scripting, developers can streamline their workflow and create more complex, dynamic game logic.
+This project, Bevy Scripting Plugin, is an open-source extension for the Bevy game engine that enables scripting functionality, allowing developers to create and customize game logic without requiring extensive programming knowledge. The plugin aims to bridge the gap between game development and scripting, making it easier for designers and non-programmers to contribute to game development. By leveraging this plugin, developers can focus on creating engaging gameplay experiences while relying on scripting for dynamic and interactive elements.
 
 ---
 

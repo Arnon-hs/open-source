@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Stremthru is an open-source companion project designed for Stremio users. It enhances the overall streaming experience by providing additional features and functionality. As a companion, Stremthru aims to complement Stremio's existing capabilities and improve user engagement.
+Stremthru is an open-source companion project designed to work in tandem with Stremio, a popular media player. This companion provides additional features and functionality to enhance the user experience. By expanding on Stremio's capabilities, Stremthru aims to offer a more comprehensive and enjoyable streaming experience.
 
 ---
 

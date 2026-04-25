@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The reporails/cli project provides a command-line interface for diagnosing AI instructions, supporting popular AI agents such as Claude, Codex, Copilot, Cursor, and Gemini. This open-source tool enables developers to identify and troubleshoot issues with AI-generated code or responses, streamlining the development process. By leveraging reporails/cli, users can optimize their AI workflows and improve overall efficiency.
+Here's a brief summary for the reporails/cli project:
+
+Reporails/cli is an open-source project that provides a command-line interface for diagnosing AI instructions across various agents, including Claude, Codex, Copilot, Cursor, and Gemini. This tool enables users to test, visualize, and optimize their AI-driven workflows, streamlining the development process and improving overall efficiency. By leveraging reporails/cli, developers can better understand and fine-tune their AI models for enhanced performance and productivity.
 
 ---
 

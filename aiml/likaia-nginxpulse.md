@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Likaia/nginxpulse is an open-source, lightweight Nginx access log analyzer and visualization panel. It offers real-time statistics, PV filtering, IP geolocation, and client parsing capabilities, providing valuable insights into Nginx server traffic. This tool is designed to simplify log analysis and visualization for web administrators and developers.
+Here's a brief summary for the likaia/nginxpulse project:
+
+Likaia/nginxpulse is an open-source, lightweight Nginx log analysis and visualization panel. It provides real-time statistics, PV (page view) filtering, IP location lookup, and client browser parsing capabilities. This project aims to simplify log analysis and offer actionable insights for web administrators and developers.
 
 ---
 

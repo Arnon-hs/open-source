@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The eudk/awesome-ai-tools project is an open-source, curated list of AI tools, featuring a comprehensive collection of resources for Artificial Intelligence and Machine Learning (AI/ML) applications. This list, updated in 2026, provides a valuable resource for developers and researchers seeking to tap into the vast landscape of AI tools and technologies. It serves as a gateway to explore various AI solutions, facilitating innovation and experimentation in the field.
+This open-source project, 'awesome-ai-tools', presents a comprehensive and regularly updated list of AI tools. Curated to provide users with a single, organized resource, the list covers a wide range of AI and machine learning (ML) tools and data-related services. It is an invaluable resource for those seeking to explore the vast landscape of AI tools and technologies.
 
 ---
 

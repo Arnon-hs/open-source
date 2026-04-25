@@ -1,6 +1,6 @@
 # mustbeperfect/definitive-opensource
 
-[![Stars](https://img.shields.io/github/stars/mustbeperfect/definitive-opensource?style=flat-square&color=yellow)](https://github.com/mustbeperfect/definitive-opensource/stargazers) [![Forks](https://img.shields.io/github/forks/mustbeperfect/definitive-opensource?style=flat-square&color=blue)](https://github.com/mustbeperfect/definitive-opensource/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mustbeperfect/definitive-opensource?style=flat-square&color=yellow)](https://github.com/mustbeperfect/definitive-opensource/stargazers) [![Forks](https://img.shields.io/github/forks/mustbeperfect/definitive-opensource?style=flat-square&color=blue)](https://github.com/mustbeperfect/definitive-opensource/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The definitive list of the best of (consumer facing) open source.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

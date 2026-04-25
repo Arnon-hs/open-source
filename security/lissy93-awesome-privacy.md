@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-The "Awesome-Privacy" project is an open-source collection of carefully curated privacy and security-focused software and services. This list aims to provide users with a comprehensive and up-to-date resource for protecting their personal data and online security. By aggregating a wide range of tools and services, "Awesome-Privacy" helps individuals stay informed and empowered about their digital security and well-being.
+The "awesome-privacy" project is an open-source, community-driven collection of privacy and security-focused software and services. It provides a comprehensive list of tools and resources to help individuals and organizations protect their online data and maintain digital security. This curated list aims to promote awareness and adoption of privacy-aware solutions.
 
 ---
 

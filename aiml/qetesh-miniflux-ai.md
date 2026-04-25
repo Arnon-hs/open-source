@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Qetesh/miniflux-ai project is an open-source extension of Miniflux, a popular RSS feed reader. This AI-driven enhancement enables users to access AI-generated summaries, translations, and news articles based on their RSS subscriptions, providing a more comprehensive reading experience. By combining the features of Miniflux with the power of artificial intelligence, this project offers a unique solution for individuals seeking to stay up-to-date with their favorite news sources in a more efficient and intelligent manner.
+Qetesh/miniflux-ai is an open-source project that combines the popular RSS aggregator Miniflux with AI-powered features. This extension integrates AI summaries, translations, and news based on RSS content, enhancing users' reading experiences. By leveraging AI capabilities, users can now access more comprehensive and easily digestible information from their favorite feeds.
 
 ---
 

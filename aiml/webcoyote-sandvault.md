@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The sandvault project by webcoyote is an open-source initiative that enables the secure and isolated execution of AI agents on macOS. It achieves this by sandboxing the agents within a dedicated user account, ensuring the safety and integrity of the system. sandvault currently supports running popular AI models such as Claude Code, OpenAI Codex, Cursor Agent, and Google Gemini.
+Here's a brief summary for the open-source project:
+
+The sandvault project is an open-source tool that securely runs AI agents in isolation within a macOS user account, utilizing sandbox-exec for enhanced security. This flexible framework is preconfigured to run various AI models, including Claude Code, OpenAI Codex, Cursor Agent, and Google Gemini. By leveraging sandbox-exec, sandvault provides a safe environment for experimenting with and utilizing AI agents.
 
 ---
 

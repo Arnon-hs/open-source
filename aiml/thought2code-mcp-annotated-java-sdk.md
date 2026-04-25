@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-This open-source project, thought2code/mcp-annotated-java-sdk, is an annotation-driven SDK for MCP (Minecraft Coder Pack) development in Java. It eliminates the need for Spring and boilerplate code, allowing developers to focus on their projects with a more streamlined and pure Java development experience. This project is ideal for AI/ML and backend developers looking to integrate with Minecraft or create custom Minecraft plugins.
+The thought2code/mcp-annotated-java-sdk project is an open-source, annotation-driven Java SDK for developing Machine Learning Pipelines (MCPs) without the need for Spring or boilerplate code. This pure Java library aims to simplify the development process by leveraging annotations, reducing complexity and increasing productivity. It is an ideal solution for building AI/ML backend applications with minimal overhead.
 
 ---
 

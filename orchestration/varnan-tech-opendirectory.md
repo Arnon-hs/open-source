@@ -25,7 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The open-source project "opendirectory" by Varnan-Tech offers a suite of AI agent skills designed for Growth Team Management (GTM), Technical Marketing, and growth automation. This project provides a comprehensive platform for orchestration, leveraging AI/ML capabilities for efficient and data-driven decision-making. By utilizing "opendirectory", users can streamline their growth strategies and enhance their marketing efforts.
+Here's a brief summary for the open-source project:
+
+The opendirectory project is an open-source initiative that provides AI Agent Skills for GTM (Go-To-Market), Technical Marketing, and growth automation. These skills are designed to be highly adaptable and can be easily orchestrated to streamline various business processes. This innovative project aims to leverage AI and ML capabilities to enhance marketing and growth strategies.
 
 ---
 

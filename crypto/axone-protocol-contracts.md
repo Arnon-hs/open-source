@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The axone-protocol/contracts project is an open-source repository that provides smart contracts for the Axone protocol, facilitating the development and deployment of AI and machine learning applications on blockchain platforms. These contracts are designed to enable secure and decentralized data processing, storage, and exchange, while maintaining the privacy and integrity of user data. By leveraging smart contracts, the Axone protocol aims to create a trusted and autonomous ecosystem for AI and ML applications.
+The axone-protocol/contracts repository hosts open-source smart contracts for the Axone protocol, a blockchain-based platform that combines artificial intelligence and machine learning capabilities. These contracts enable secure and automated interactions on the Axone network, facilitating the development of decentralized applications and use cases. By contributing to this project, developers can help advance the Axone protocol and its potential applications in the fields of AI and blockchain.
 
 ---
 

@@ -25,9 +25,9 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
+Here's a 2-3 sentence summary for the "predict-rlm" project:
 
-The predict-rlm project is a production-focused, self-contained language model runtime (RLM) that empowers models to manage their own control flow and interactions with sub-models, enabled by DSPy signatures. This innovative approach allows for fully interpretable trajectories and scalable performance that directly improves with model advancements, ensuring consistent results without context drift. By harnessing the model's own capabilities, predict-rlm streamlines AI/ML workflows and optimizes model execution.
+The "predict-rlm" project is an open-source, production-focused runtime for large language models (LLMs) that enables self-harnessed control flow and efficient interactions between LLMs. This innovative approach allows LLMs to call sub-LMs with DSPy signatures, providing interpretable trajectories and scalable performance that improves with model advancements. By eliminating context rot, the "predict-rlm" project facilitates more reliable and maintainable AI/ML systems.
 
 ---
 

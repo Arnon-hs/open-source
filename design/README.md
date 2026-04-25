@@ -13,7 +13,7 @@
 | 3 | [dotnet/csharplang](./dotnet-csharplang.md) | ⭐ 12.6k | C# | 93/100 |
 | 4 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.6k | Scala | 91/100 |
 | 5 | [j178/prek](./j178-prek.md) | ⭐ 7.4k | Rust | 82/100 |
-| 6 | [tw93/Waza](./tw93-waza.md) | ⭐ 3.8k | Shell | 80/100 |
+| 6 | [tw93/Waza](./tw93-waza.md) | ⭐ 3.9k | Shell | 80/100 |
 | 7 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |
 | 8 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 2.8k | TypeScript | 78/100 |
 | 9 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 72/100 |

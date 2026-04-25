@@ -1,6 +1,6 @@
 # oxc-project/tsgolint
 
-[![Stars](https://img.shields.io/github/stars/oxc-project/tsgolint?style=flat-square&color=yellow)](https://github.com/oxc-project/tsgolint/stargazers) [![Forks](https://img.shields.io/github/forks/oxc-project/tsgolint?style=flat-square&color=blue)](https://github.com/oxc-project/tsgolint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxc-project/tsgolint?style=flat-square&color=yellow)](https://github.com/oxc-project/tsgolint/stargazers) [![Forks](https://img.shields.io/github/forks/oxc-project/tsgolint?style=flat-square&color=blue)](https://github.com/oxc-project/tsgolint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Type aware linting for oxlint
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

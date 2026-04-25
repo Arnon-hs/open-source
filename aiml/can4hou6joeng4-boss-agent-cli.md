@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here is a brief summary of the project:
 
-The BOSS Agent CLI is an open-source, AI-driven command-line interface for BOSS direct hiring, designed to streamline job search, benefit selection, recruiter workflows, MCP tools, and AI resume optimization. This project aims to provide a seamless and efficient experience for both job seekers and recruiters. Its AI-first approach leverages cutting-edge technology to simplify and enhance the hiring process.
+BOSS Agent CLI is an open-source, AI-driven command-line interface for BOSS 直聘, a popular job search platform in China. This CLI provides features for position searching, benefit filtering, recruiter workflows, and AI-powered resume optimization. It aims to streamline job searching and recruitment processes using AI and automation capabilities.
 
 ---
 

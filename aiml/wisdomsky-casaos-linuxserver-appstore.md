@@ -25,9 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the WisdomSky/CasaOS-LinuxServer-AppStore project:
-
-The CasaOS-LinuxServer-AppStore is an open-source project that offers a custom app store for CasaOS users, featuring over 100+ LinuxServer.io images. This comprehensive repository enables users to easily discover and install a wide range of LinuxServer.io applications, making it a valuable resource for AI/ML, backend, and DevOps/infrastructure enthusiasts. The project empowers users to streamline their development and deployment processes by providing a centralized platform for accessing and managing LinuxServer.io images.
+CasaOS-LinuxServer-AppStore is an open-source project that offers a custom application store for Linux systems, featuring over 100+ pre-configured images from LinuxServer.io. This Appstore serves as a one-stop-shop for users to easily access and deploy a wide range of AI, ML, backend, and DevOps/Infra tools. By providing a centralized platform, CasaOS-LinuxServer-AppStore streamlines the process of setting up and managing Linux-based applications.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-This open-source project, 'trainingpeaks-mcp', provides a self-contained TrainingPeaks MCP server that allows users to access their workout and fitness data without requiring API approval. With natural language querying, users can retrieve their workout history, fitness metrics (CTL, ATL, TSB), and power records. This project streamlines the process, offering seamless integration for users with any TrainingPeaks account.
+Here's a brief summary for the open-source project:
+
+This open-source project, trainingpeaks-mcp, provides a TrainingPeaks MCP server for use with Claude Desktop, Code and Cowork, allowing users to query workouts, fitness data, and power performance records without requiring API approval. The project leverages natural language processing capabilities, enabling users to interact with the server using everyday language. No account restrictions apply, making it a versatile tool for TrainingPeaks users.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The ghostwright/phantom project is an open-source AI co-worker that boasts its own virtual machine, enabling self-evolution and persistent memory. Built on the Claude Agent SDK, phantom offers a comprehensive platform with features like MCP server, secure credential collection, and email identity management. This AI assistant empowers users to create a highly autonomous and integrated AI co-worker for various applications.
+Here's a brief summary for the ghostwright/phantom project:
+
+Phantom is an open-source AI co-worker that comes with its own computer, featuring self-evolving capabilities and persistent memory. Built on the Claude Agent SDK, Phantom offers a secure MCP server, credential collection, and email identity, empowering users to leverage AI in a seamless and efficient manner. This versatile AI tool enables users to integrate AI into their workflows and tasks with ease.
 
 ---
 

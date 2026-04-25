@@ -8,9 +8,9 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.4k | Clojure | 100/100 |
-| 2 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132k | C# | 100/100 |
-| 3 | [opf/openproject](./opf-openproject.md) | ⭐ 14.9k | Ruby | 100/100 |
+| 1 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132k | C# | 100/100 |
+| 2 | [opf/openproject](./opf-openproject.md) | ⭐ 14.9k | Ruby | 100/100 |
+| 3 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.4k | Clojure | 100/100 |
 | 4 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 121.9k | TypeScript | 99/100 |
 | 5 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9k | Python | 92/100 |
 | 6 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.1k | Rust | 92/100 |

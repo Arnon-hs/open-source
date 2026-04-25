@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-ClawManager is an open-source Kubernetes-native control plane for managing AI agent instances, providing governed access to AI resources and seamless runtime orchestration. This project enables the creation of reusable resources across multiple AI agent runtimes, streamlining AI development and deployment processes. By leveraging Kubernetes, ClawManager offers a scalable and efficient solution for managing complex AI workflows and infrastructure.
+Here's a brief summary for the project:
+
+ClawManager is an open-source, Kubernetes-native control plane designed to streamline AI agent instance management. It provides governed AI access, runtime orchestration, and reusable resources across multiple agent runtimes, simplifying the deployment and operation of AI workloads. By leveraging Kubernetes, ClawManager enables efficient and scalable management of AI assets.
 
 ---
 
