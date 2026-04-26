@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-The openlane/core project is an open-source platform providing automation for various compliance standards, including SOC 2, GDPR, ISO 27001, and NIST 800-53. This platform aims to simplify the process of maintaining security and regulatory compliance by offering a centralized solution for managing multiple requirements. By leveraging openlane/core, organizations can streamline their compliance efforts and reduce the risk of non-compliance.
+Theopenlane/core is an open-source project that streamlines compliance automation for various global standards and regulations, including SOC 2, GDPR, ISO27001, and NIST 800-53. This project aims to simplify security and compliance processes, allowing organizations to efficiently manage their compliance requirements. By leveraging theopenlane/core, businesses can reduce the complexity and cost associated with maintaining regulatory compliance.
 
 ---
 

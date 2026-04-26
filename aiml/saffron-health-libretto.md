@@ -1,6 +1,6 @@
 # saffron-health/libretto
 
-[![Stars](https://img.shields.io/github/stars/saffron-health/libretto?style=flat-square&color=yellow)](https://github.com/saffron-health/libretto/stargazers) [![Forks](https://img.shields.io/github/forks/saffron-health/libretto?style=flat-square&color=blue)](https://github.com/saffron-health/libretto/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saffron-health/libretto?style=flat-square&color=yellow)](https://github.com/saffron-health/libretto/stargazers) [![Forks](https://img.shields.io/github/forks/saffron-health/libretto?style=flat-square&color=blue)](https://github.com/saffron-health/libretto/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The AI toolkit for building and maintaining browser automations
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 535 |
-| 🍴 **Forks** | 33 |
+| 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Nominal Code is an open-source project that automates code reviews, providing inline feedback on pull requests across various platforms, including GitHub and GitLab. This tool integrates with large language model (LLM) providers, making it scalable from solo developers to large organizations with Kubernetes deployments. By leveraging AI/ML and DevOps capabilities, Nominal Code enhances code quality and security.
+The nominal-code project is an open-source tool that provides automated code reviews directly within pull requests on GitHub and GitLab. This solution utilizes Large Language Models (LLMs) and can be scaled to meet the needs of solo developers or large organizations, even supporting Kubernetes deployments. It offers real-time inline feedback, streamlining the code review process and promoting more efficient collaboration.
 
 ---
 

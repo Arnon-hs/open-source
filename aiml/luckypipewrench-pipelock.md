@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/luckyPipewrench/pipelock?style=flat-square&color=yellow)](https://github.com/luckyPipewrench/pipelock/stargazers) [![Forks](https://img.shields.io/github/forks/luckyPipewrench/pipelock?style=flat-square&color=blue)](https://github.com/luckyPipewrench/pipelock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> Firewall for AI agents. DLP scanning, SSRF protection, bidirectional MCP scanning, tool poisoning detection, and prompt injection blocking.
+> Open-source AI agent firewall for MCP security: agent egress control, DLP, SSRF, and prompt injection defense.
 
 ## 📊 Stats
 

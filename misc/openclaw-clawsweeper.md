@@ -1,6 +1,6 @@
 # openclaw/clawsweeper
 
-[![Stars](https://img.shields.io/github/stars/openclaw/clawsweeper?style=flat-square&color=yellow)](https://github.com/openclaw/clawsweeper/stargazers) [![Forks](https://img.shields.io/github/forks/openclaw/clawsweeper?style=flat-square&color=blue)](https://github.com/openclaw/clawsweeper/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openclaw/clawsweeper?style=flat-square&color=yellow)](https://github.com/openclaw/clawsweeper/stargazers) [![Forks](https://img.shields.io/github/forks/openclaw/clawsweeper?style=flat-square&color=blue)](https://github.com/openclaw/clawsweeper/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 615 |
-| 🍴 **Forks** | 59 |
+| ⭐ **Stars** | 684 |
+| 🍴 **Forks** | 63 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

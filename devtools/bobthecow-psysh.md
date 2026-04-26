@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Psysh is an open-source PHP Read-Eval-Print Loop (REPL) designed to provide a command-line interface for interacting with PHP code in a dynamic and interactive way. This tool allows developers to execute PHP code snippets, inspect variables, and experiment with different programming approaches without the need to create and manage files. By using Psysh, PHP developers can streamline their development workflow and improve productivity.
+Psysh is an open-source project that provides a PHP REPL (Read-Eval-Print Loop), allowing users to interactively execute PHP code in a shell-like environment. This tool enables developers to test and explore PHP code snippets, classes, and functions on the fly, providing a convenient debugging and development experience. With Psysh, users can write and execute PHP code in a flexible and intuitive way.
 
 ---
 

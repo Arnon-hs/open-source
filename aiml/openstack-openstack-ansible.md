@@ -1,6 +1,6 @@
 # openstack/openstack-ansible
 
-[![Stars](https://img.shields.io/github/stars/openstack/openstack-ansible?style=flat-square&color=yellow)](https://github.com/openstack/openstack-ansible/stargazers) [![Forks](https://img.shields.io/github/forks/openstack/openstack-ansible?style=flat-square&color=blue)](https://github.com/openstack/openstack-ansible/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openstack/openstack-ansible?style=flat-square&color=yellow)](https://github.com/openstack/openstack-ansible/stargazers) [![Forks](https://img.shields.io/github/forks/openstack/openstack-ansible?style=flat-square&color=blue)](https://github.com/openstack/openstack-ansible/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Ansible playbooks for deploying OpenStack. Mirror of code maintained at opendev.org.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 682 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

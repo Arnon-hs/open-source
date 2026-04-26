@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6355** |
+| 🗂️ **Total projects** | **6444** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2437 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1106 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 631 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 570 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 372 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 357 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 226 | [Browse →](./crypto/) |
-| 📊 **Data** | 150 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 131 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 2472 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1123 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 637 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 583 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 374 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 361 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 227 | [Browse →](./crypto/) |
+| 📊 **Data** | 152 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 136 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 99 | [Browse →](./mobile/) |
-| 💳 **Payments** | 91 | [Browse →](./payments/) |
-| 🔐 **Security** | 67 | [Browse →](./security/) |
-| 📈 **Trading** | 65 | [Browse →](./trading/) |
+| 💳 **Payments** | 92 | [Browse →](./payments/) |
+| 🔐 **Security** | 68 | [Browse →](./security/) |
+| 📈 **Trading** | 67 | [Browse →](./trading/) |
 | ✨ **Design** | 25 | [Browse →](./design/) |
 | 🎯 **Product** | 19 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 9 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [santifer/career-ops](./aiml/santifer-career-ops.md) | ⭐ 39.7k | AI/ML |
-| 2 | [ngosang/trackerslist](./misc/ngosang-trackerslist.md) | ⭐ 53.6k | Misc |
-| 3 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25k | Design |
-| 4 | [duplicati/duplicati](./aiml/duplicati-duplicati.md) | ⭐ 14.5k | AI/ML |
-| 5 | [WinMerge/winmerge](./misc/winmerge-winmerge.md) | ⭐ 8.7k | Misc |
-| 6 | [ImageMagick/ImageMagick](./frontend/imagemagick-imagemagick.md) | ⭐ 16.3k | Frontend |
-| 7 | [BlinkDL/RWKV-LM](./aiml/blinkdl-rwkv-lm.md) | ⭐ 14.5k | AI/ML |
-| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 9 | [containerd/containerd](./aiml/containerd-containerd.md) | ⭐ 20.6k | AI/ML |
-| 10 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.8k | Frontend |
+| 1 | [stride3d/stride](./misc/stride3d-stride.md) | ⭐ 7.6k | Misc |
+| 2 | [quay/clair](./aiml/quay-clair.md) | ⭐ 11k | AI/ML |
+| 3 | [allinurl/goaccess](./frontend/allinurl-goaccess.md) | ⭐ 20.5k | Frontend |
+| 4 | [biomejs/biome](./aiml/biomejs-biome.md) | ⭐ 24.5k | AI/ML |
+| 5 | [FlowiseAI/Flowise](./orchestration/flowiseai-flowise.md) | ⭐ 52.3k | Orchestration |
+| 6 | [OpenHands/OpenHands](./aiml/openhands-openhands.md) | ⭐ 72.1k | AI/ML |
+| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 8 | [apache/spark](./data/apache-spark.md) | ⭐ 43.2k | Data |
+| 9 | [giampaolo/psutil](./misc/giampaolo-psutil.md) | ⭐ 11.2k | Misc |
+| 10 | [appsmithorg/appsmith](./frontend/appsmithorg-appsmith.md) | ⭐ 39.7k | Frontend |
 
 ## 🚀 How it works
 

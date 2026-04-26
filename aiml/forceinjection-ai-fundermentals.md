@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/ForceInjection/AI-fundermentals?style=flat-square&color=yellow)](https://github.com/ForceInjection/AI-fundermentals/stargazers) [![Forks](https://img.shields.io/github/forks/ForceInjection/AI-fundermentals?style=flat-square&color=blue)](https://github.com/ForceInjection/AI-fundermentals/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
-> AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识
+> AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识（https://forceinjection.github.io/）
 
 ## 📊 Stats
 

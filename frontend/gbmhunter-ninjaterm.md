@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-NinjaTerm is an open-source, serial port terminal designed to provide a seamless user experience. It offers a reliable and intuitive interface for accessing and managing serial connections, making it an ideal tool for developers, engineers, and anyone working with serial communication protocols. With NinjaTerm, users can efficiently monitor and interact with serial devices.
+NinjaTerm is an open-source serial port terminal providing users with a reliable interface for communicating with devices via serial connections. This cross-platform application offers a user-friendly experience, simplifying the process of managing and monitoring serial port communications. With NinjaTerm, users can establish seamless connections and troubleshoot issues with ease.
 
 ---
 

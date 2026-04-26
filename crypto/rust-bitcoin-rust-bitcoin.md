@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.6k |
-| 🍴 **Forks** | 969 |
+| 🍴 **Forks** | 970 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
@@ -25,7 +25,7 @@ Crypto
 
 ## 📝 Summary
 
-The rust-bitcoin library is an open-source project that provides a Rust implementation of the Bitcoin protocol, enabling developers to build Bitcoin-related applications and services. This project offers a comprehensive set of tools and functionality for interacting with the Bitcoin network, including transaction processing, wallet management, and network communication. By leveraging the rust-bitcoin library, developers can create reliable and efficient Bitcoin solutions with ease.
+The rust-bitcoin project is an open-source Rust library designed to provide a comprehensive and secure interface for interacting with the Bitcoin network. It offers a range of functionalities, from cryptographic primitives to wallet and transaction management, making it a valuable resource for developers building Bitcoin-related applications. With its focus on security and ease of use, rust-bitcoin serves as a robust foundation for crafting reliable and scalable Bitcoin solutions.
 
 ---
 

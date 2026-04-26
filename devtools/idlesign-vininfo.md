@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The idlesign/vininfo project is an open-source tool that extracts valuable information from a Vehicle Identification Number (VIN). This tool allows users to quickly and easily obtain detailed data about a vehicle, providing insights into its specifications, features, and history. By utilizing the vininfo project, developers and enthusiasts can streamline their vehicle inquiry processes.
+The idlesign/vininfo project is an open-source tool designed to extract valuable information from Vehicle Identification Numbers (VINs). It offers a simple and efficient way to decode VINs, providing users with detailed data about vehicle makes, models, years, and other relevant specifications. This tool is particularly useful for developers and enthusiasts who need to work with VIN data in their projects or applications.
 
 ---
 

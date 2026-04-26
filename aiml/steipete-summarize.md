@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "steipete/summarize":
-
-"Summarize is an open-source tool that provides a simple way to extract the main points from various content types, including URLs, YouTube videos, podcasts, and files. This AI-powered tool offers both a command-line interface (CLI) and a Chrome extension for easy access, allowing users to quickly get the gist of a large amount of text. With Summarize, users can save time and improve their productivity by condensing complex information into concise summaries."
+Summarize is an open-source project that utilizes AI/ML technology to generate concise summaries of various content types, including URLs, YouTube videos, podcasts, and files. This project provides both a command-line interface (CLI) and a Chrome extension, allowing users to easily access and utilize its summarization capabilities. By pointing to any desired content, Summarize aims to provide users with a quick and efficient way to grasp the main ideas and key points.
 
 ---
 

@@ -1,6 +1,6 @@
 # jordanrendric/claude-video-vision
 
-[![Stars](https://img.shields.io/github/stars/jordanrendric/claude-video-vision?style=flat-square&color=yellow)](https://github.com/jordanrendric/claude-video-vision/stargazers) [![Forks](https://img.shields.io/github/forks/jordanrendric/claude-video-vision?style=flat-square&color=blue)](https://github.com/jordanrendric/claude-video-vision/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jordanrendric/claude-video-vision?style=flat-square&color=yellow)](https://github.com/jordanrendric/claude-video-vision/stargazers) [![Forks](https://img.shields.io/github/forks/jordanrendric/claude-video-vision?style=flat-square&color=blue)](https://github.com/jordanrendric/claude-video-vision/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 268 |
-| 🍴 **Forks** | 41 |
+| ⭐ **Stars** | 276 |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

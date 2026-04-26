@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Tod is an open-source, unofficial command line client for Todoist written in Rust, providing users with a terminal-based interface to manage their tasks and projects on the go. This tool aims to simplify task management by offering a convenient and efficient way to interact with Todoist from the command line. By utilizing Rust, Tod ensures a robust and performance-driven experience for users.
+The tod project is an open-source, unofficial command-line interface for Todoist, written in Rust. This tool allows users to interact with their Todoist tasks and projects directly from the terminal, providing a convenient alternative to Todoist's web interface. With tod, users can manage their tasks, projects, and labels from the comfort of their command line.
 
 ---
 

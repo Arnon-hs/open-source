@@ -2,22 +2,22 @@
 
 > Security, auth, encryption, privacy
 
-**67 projects** in this category.
+**68 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
-| 2 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
+| 2 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6.1k | C++ | 100/100 |
 | 3 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 25.9k | Go | 100/100 |
-| 4 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.2k | Python | 100/100 |
-| 5 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6.1k | C++ | 100/100 |
-| 6 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
-| 7 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
-| 8 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
-| 9 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.1k | C | 100/100 |
-| 10 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.5k | C | 100/100 |
+| 4 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
+| 5 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.2k | Python | 100/100 |
+| 6 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
+| 7 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.1k | C | 100/100 |
+| 8 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.5k | C | 100/100 |
+| 9 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
+| 10 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
 | 11 | [shadowsocks/shadowsocks-rust](./shadowsocks-shadowsocks-rust.md) | ⭐ 10.5k | Rust | 99/100 |
 | 12 | [nomi-sec/PoC-in-GitHub](./nomi-sec-poc-in-github.md) | ⭐ 7.7k | — | 96/100 |
 | 13 | [letsencrypt/boulder](./letsencrypt-boulder.md) | ⭐ 5.7k | Go | 95/100 |
@@ -31,8 +31,8 @@
 | 21 | [ossf/scorecard](./ossf-scorecard.md) | ⭐ 5.4k | Go | 87/100 |
 | 22 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.7k | Rust | 85/100 |
 | 23 | [pocket-id/pocket-id](./pocket-id-pocket-id.md) | ⭐ 7.6k | Go | 84/100 |
-| 24 | [openziti/ziti](./openziti-ziti.md) | ⭐ 4.1k | Go | 83/100 |
-| 25 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4k | TypeScript | 83/100 |
+| 24 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4k | TypeScript | 83/100 |
+| 25 | [openziti/ziti](./openziti-ziti.md) | ⭐ 4.1k | Go | 83/100 |
 | 26 | [rizinorg/rizin](./rizinorg-rizin.md) | ⭐ 3.5k | C | 79/100 |
 | 27 | [zizmorcore/zizmor](./zizmorcore-zizmor.md) | ⭐ 4.3k | Rust | 78/100 |
 | 28 | [EnergizedProtection/block](./energizedprotection-block.md) | ⭐ 2.8k | — | 73/100 |
@@ -45,36 +45,37 @@
 | 35 | [hectorm/otpauth](./hectorm-otpauth.md) | ⭐ 1.4k | JavaScript | 61/100 |
 | 36 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 60/100 |
 | 37 | [apache/casbin-rs](./apache-casbin-rs.md) | ⭐ 1.1k | Rust | 59/100 |
-| 38 | [intigriti/misconfig-mapper](./intigriti-misconfig-mapper.md) | ⭐ 901 | Go | 57/100 |
+| 38 | [intigriti/misconfig-mapper](./intigriti-misconfig-mapper.md) | ⭐ 902 | Go | 57/100 |
 | 39 | [roddhjav/apparmor.d](./roddhjav-apparmor.d.md) | ⭐ 762 | Go | 57/100 |
 | 40 | [firewalla/firewalla](./firewalla-firewalla.md) | ⭐ 604 | JavaScript | 56/100 |
 | 41 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 506 | JavaScript | 55/100 |
 | 42 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 55/100 |
 | 43 | [lf-edge/eve](./lf-edge-eve.md) | ⭐ 544 | Go | 55/100 |
-| 44 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 905 | Rust | 55/100 |
-| 45 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 163 | Go | 55/100 |
+| 44 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 163 | Go | 55/100 |
+| 45 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 910 | Rust | 55/100 |
 | 46 | [oxyno-zeta/s3-proxy](./oxyno-zeta-s3-proxy.md) | ⭐ 455 | Go | 54/100 |
-| 47 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 321 | Python | 53/100 |
-| 48 | [rfc-st/humble](./rfc-st-humble.md) | ⭐ 360 | Python | 53/100 |
-| 49 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 310 | Python | 53/100 |
-| 50 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 369 | Rust | 53/100 |
-| 51 | [theopenlane/core](./theopenlane-core.md) | ⭐ 240 | Go | 52/100 |
-| 52 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
-| 53 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
-| 54 | [dogtagpki/pki](./dogtagpki-pki.md) | ⭐ 488 | Java | 52/100 |
-| 55 | [apache/casbin-caddy-authz](./apache-casbin-caddy-authz.md) | ⭐ 249 | Go | 52/100 |
-| 56 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 612 | Go | 52/100 |
-| 57 | [ohaswin/pyscan](./ohaswin-pyscan.md) | ⭐ 233 | Rust | 52/100 |
-| 58 | [Karib0u/rustinel](./karib0u-rustinel.md) | ⭐ 103 | Rust | 51/100 |
-| 59 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 166 | Go | 51/100 |
-| 60 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
+| 47 | [rfc-st/humble](./rfc-st-humble.md) | ⭐ 361 | Python | 53/100 |
+| 48 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 369 | Rust | 53/100 |
+| 49 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 321 | Python | 53/100 |
+| 50 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 311 | Python | 53/100 |
+| 51 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
+| 52 | [apache/casbin-caddy-authz](./apache-casbin-caddy-authz.md) | ⭐ 249 | Go | 52/100 |
+| 53 | [dogtagpki/pki](./dogtagpki-pki.md) | ⭐ 488 | Java | 52/100 |
+| 54 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 612 | Go | 52/100 |
+| 55 | [ohaswin/pyscan](./ohaswin-pyscan.md) | ⭐ 233 | Rust | 52/100 |
+| 56 | [theopenlane/core](./theopenlane-core.md) | ⭐ 240 | Go | 52/100 |
+| 57 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
+| 58 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 166 | Go | 51/100 |
+| 59 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
+| 60 | [Karib0u/rustinel](./karib0u-rustinel.md) | ⭐ 103 | Rust | 51/100 |
 | 61 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 758 | — | 47/100 |
-| 62 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 495 | Go | 45/100 |
-| 63 | [FanTranslatorsInternational/Kuriimu2](./fantranslatorsinternational-kuriimu2.md) | ⭐ 407 | C# | 44/100 |
-| 64 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 453 | — | 44/100 |
-| 65 | [nuxt/hints](./nuxt-hints.md) | ⭐ 333 | TypeScript | 42/100 |
-| 66 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
-| 67 | [mytech-today-now/OO](./mytech-today-now-oo.md) | ⭐ — | PowerShell | 34/100 |
+| 62 | [Tatsh/dbeaver-creds](./tatsh-dbeaver-creds.md) | ⭐ 33 | PowerShell | 45/100 |
+| 63 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 495 | Go | 45/100 |
+| 64 | [FanTranslatorsInternational/Kuriimu2](./fantranslatorsinternational-kuriimu2.md) | ⭐ 407 | C# | 44/100 |
+| 65 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 453 | — | 44/100 |
+| 66 | [nuxt/hints](./nuxt-hints.md) | ⭐ 333 | TypeScript | 42/100 |
+| 67 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
+| 68 | [mytech-today-now/OO](./mytech-today-now-oo.md) | ⭐ — | PowerShell | 34/100 |
 
 ---
 

@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The wabarc/wayback project is an open-source archiving tool that prioritizes user privacy and accessibility, providing a user-friendly interface for saving web content. It integrates with various archival services, including the Internet Archive and archive.today, to ensure that saved content remains accessible for years to come. This tool also supports storage on decentralized platforms like IPFS and local file systems.
+Here's a brief summary of the open-source project:
+
+wabarc/wayback is an open-source archiving tool designed with user privacy and accessibility in mind. It offers an IM-style interface and integrates with various archival services, including Internet Archive and IPFS, to securely preserve online content. This tool aims to make archiving easy and accessible for anyone.
 
 ---
 

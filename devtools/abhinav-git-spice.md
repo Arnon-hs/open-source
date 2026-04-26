@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The abhinav/git-spice project is an open-source tool that simplifies the management of stacked Git branches. It allows developers to easily create, manage, and switch between multiple branches, streamlining their version control workflow. By automating routine Git operations, git-spice saves time and reduces errors, making it an essential addition to any developer's toolkit.
+Git-Spice is an open-source project that simplifies the management of stacked Git branches, allowing developers to easily traverse and maintain complex branch hierarchies. This tool streamlines the process of navigating and merging branches, making it an invaluable DevTool for teams and individuals alike. By providing a more intuitive branch management system, Git-Spice helps reduce confusion and increase productivity.
 
 ---
 

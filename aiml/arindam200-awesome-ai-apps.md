@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The "awesome-ai-apps" repository is an extensive collection of AI and ML projects that demonstrate various use cases, including Reinforcement Learning Agents (RAGs), agents, workflows, and more. This project showcases the capabilities of AI and ML in practical applications, providing valuable insights and inspiration for developers, researchers, and enthusiasts. It serves as a comprehensive resource for exploring AI and ML concepts and their real-world implementations.
+This open-source project, 'awesome-ai-apps', is a curated collection of AI projects that highlight various applications, including Reasoning Augmentation Graph (RAG) models, agents, and workflows. It serves as a valuable resource for developers and researchers interested in exploring different AI use cases. By showcasing these innovative projects, 'awesome-ai-apps' facilitates knowledge sharing and collaboration in the AI community.
 
 ---
 

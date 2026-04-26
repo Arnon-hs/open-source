@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Duet is an open-source, highly customizable text editor built with Rust. This modern editor offers users a high degree of flexibility and configurability, making it suitable for a wide range of applications. With its Rust-based architecture, Duet aims to provide a fast, reliable, and efficient text editing experience.
+Here's a brief summary of the open-source project:
+
+Duat is a highly customizable, modern text editor built with Rust, offering a versatile and adaptable editing experience. With its modular design and extensive configuration options, users can tailor Duat to suit their specific needs and workflow. This open-source project provides a flexible and extensible text editing solution for developers and power users.
 
 ---
 

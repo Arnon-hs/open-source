@@ -1,6 +1,6 @@
 # Cockatrice/Cockatrice
 
-[![Stars](https://img.shields.io/github/stars/Cockatrice/Cockatrice?style=flat-square&color=yellow)](https://github.com/Cockatrice/Cockatrice/stargazers) [![Forks](https://img.shields.io/github/forks/Cockatrice/Cockatrice?style=flat-square&color=blue)](https://github.com/Cockatrice/Cockatrice/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cockatrice/Cockatrice?style=flat-square&color=yellow)](https://github.com/Cockatrice/Cockatrice/stargazers) [![Forks](https://img.shields.io/github/forks/Cockatrice/Cockatrice?style=flat-square&color=blue)](https://github.com/Cockatrice/Cockatrice/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform virtual tabletop for multiplayer card games
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 505 |
+| 🍴 **Forks** | 506 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

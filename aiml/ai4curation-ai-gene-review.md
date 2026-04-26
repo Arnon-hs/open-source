@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The ai-gene-review project is an open-source initiative focusing on leveraging AI for the review of existing functional annotations in a gene context. This project aims to explore the capabilities of artificial intelligence in augmenting and improving gene annotation processes, which are crucial for advancing our understanding of the genetic basis of life. By utilizing AI, the project seeks to streamline and enhance the accuracy of gene annotation reviews.
+Here's a brief summary for the ai-gene-review project:
+
+The ai-gene-review project is an open-source initiative that showcases the application of artificial intelligence (AI) in reviewing existing functional annotations of genes. This demonstration aims to assess the accuracy and efficiency of AI-driven methods in gene annotation, a critical task in understanding the functions of genetic elements. By leveraging AI and machine learning technologies, this project can help improve the reliability and speed of gene annotation processes.
 
 ---
 

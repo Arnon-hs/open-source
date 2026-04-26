@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/slkiser/opencode-quota?style=flat-square&color=yellow)](https://github.com/slkiser/opencode-quota/stargazers) [![Forks](https://img.shields.io/github/forks/slkiser/opencode-quota?style=flat-square&color=blue)](https://github.com/slkiser/opencode-quota/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
-> OpenCode quota & tokens usage with zero context window pollution. Supports OpenCode Go, Cursor, GitHub Copilot, OpenAl (Plus/Pro), Qwen Code, Alibaba Coding Plan, Chutes Al, Google Antigravity, Z.ai Coding Plan and more.
+> OpenCode quota & tokens usage with zero context window pollution. Supports OpenCode Go, Cursor, GitHub Copilot, OpenAl (Plus/Pro), Kimi Code, Alibaba Coding Plan, Chutes Al, Google Antigravity, Z.ai Coding Plan and more.
 
 ## 📊 Stats
 

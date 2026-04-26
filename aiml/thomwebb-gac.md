@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The gac project is an open-source tool that leverages Large Language Models (LLMs) to generate intelligent git commit messages. This AI-driven solution understands the code it's paired with, allowing for more accurate and descriptive commit messages. By automating this process, developers can save time while maintaining high-quality documentation and collaboration.
+The gac project is an open-source, AI-driven tool that utilizes Large Language Models (LLMs) to generate intelligent and contextually relevant git commit messages. This innovative solution understands the code it's being applied to, allowing developers to create clear, concise, and professional commit messages with ease. By leveraging LLM technology, gac streamlines the version control process and promotes better collaboration and code organization.
 
 ---
 

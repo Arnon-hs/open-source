@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the nex-as-a-skill open-source project:
+Here's a 2-3 sentence summary of the open-source project:
 
-Nex-as-a-skill is an open-source project that enhances AI-driven conversations by integrating them with various tools and systems, creating a unified knowledge graph. This project enables seamless unification of AI agent sessions with email, Slack, CRM, and over 100 other tools, providing a centralized source of company intelligence. As team members work, Nex's knowledge graph continually evolves, making every AI agent smarter and more informed.
+Nex-as-a-Skill is an open-source project that integrates AI agent conversations with 100+ tools, including email, Slack, and CRM systems, to create a unified knowledge graph. This knowledge graph becomes increasingly intelligent as the team works, providing valuable company intelligence. By unifying conversations and data, Nex-as-a-Skill enables organizations to leverage the insights gained from AI agent interactions.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The career-ops project is an open-source AI-powered job search system built on Claude Code, enabling users to efficiently manage job applications. With 14 skill modes, a Go dashboard, PDF generation capabilities, and batch processing features, this system streamlines the job search process.
+Here's a brief summary for the project:
+
+The career-ops project is an open-source, AI-powered job search system built on Claude Code. This system offers 14 skill modes, a Go-based dashboard, and features for generating PDFs and batch processing, making it a comprehensive tool for job seekers and career management. With its AI-driven capabilities and customizable features, career-ops aims to streamline the job search process.
 
 ---
 

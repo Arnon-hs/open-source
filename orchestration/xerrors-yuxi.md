@@ -1,6 +1,6 @@
 # xerrors/Yuxi
 
-[![Stars](https://img.shields.io/github/stars/xerrors/Yuxi?style=flat-square&color=yellow)](https://github.com/xerrors/Yuxi/stargazers) [![Forks](https://img.shields.io/github/forks/xerrors/Yuxi?style=flat-square&color=blue)](https://github.com/xerrors/Yuxi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xerrors/Yuxi?style=flat-square&color=yellow)](https://github.com/xerrors/Yuxi/stargazers) [![Forks](https://img.shields.io/github/forks/xerrors/Yuxi?style=flat-square&color=blue)](https://github.com/xerrors/Yuxi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > 结合知识库管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5k |
-| 🍴 **Forks** | 699 |
+| 🍴 **Forks** | 700 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

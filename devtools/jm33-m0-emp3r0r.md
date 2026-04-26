@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Emp3r0r is an open-source, self-healing Gossip Mesh C2 (Command and Control) tool that features assisted peer discovery and modular post-exploitation capabilities. Its design prioritizes operational security (OPSEC) through a focus on secure transport mechanisms. By leveraging these features, users can establish a resilient and stealthy C2 infrastructure for various attack scenarios.
+Emp3r0r is an open-source project offering a self-healing Gossip Mesh C2 with Assisted Peer Discovery, allowing for robust and adaptive communication networks. This tool also features a modular post-exploitation framework, enabling users to leverage various techniques and tools for efficient exploitation. Additionally, Emp3r0r prioritizes OPSEC-focused transport to maintain confidentiality and avoid detection.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-The MCP-Watch project is an open-source security scanner designed to identify vulnerabilities and security issues in Model Context Protocol (MCP) server implementations. It provides a comprehensive scanning solution to help ensure the security and integrity of MCP servers, leveraging expertise in AI/ML and backend development. By utilizing MCP-Watch, developers can proactively detect and address potential security threats, safeguarding their MCP servers from exploitation.
+The mcp-watch project is an open-source security scanner designed to detect vulnerabilities and security issues in Model Context Protocol (MCP) server implementations. It serves as a comprehensive tool for MCP server administrators to identify and mitigate potential security threats. By utilizing this project, users can enhance the security posture of their MCP servers and protect against potential attacks.
 
 ---
 

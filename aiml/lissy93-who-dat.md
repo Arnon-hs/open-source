@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The who-dat API is a free, open-source solution for performing WHOIS and RDAP lookups, allowing users to fetch domain registration information without CORS restrictions. This API serves as a valuable tool for developers and researchers working with domain registration data. It supports WHOIS and RDAP protocols, providing a comprehensive and accessible way to retrieve domain information.
+The who-dat API is a free, open-source tool that provides WHOIS and RDAP lookup functionality without the restrictions of CORS (Cross-Origin Resource Sharing). This allows developers to easily fetch domain registration information in a seamless and secure manner. By utilizing who-dat, users can gain access to valuable domain data without the need for costly or proprietary solutions.
 
 ---
 

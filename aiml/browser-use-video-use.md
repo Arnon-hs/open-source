@@ -1,6 +1,6 @@
 # browser-use/video-use
 
-[![Stars](https://img.shields.io/github/stars/browser-use/video-use?style=flat-square&color=yellow)](https://github.com/browser-use/video-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/video-use?style=flat-square&color=blue)](https://github.com/browser-use/video-use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/browser-use/video-use?style=flat-square&color=yellow)](https://github.com/browser-use/video-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/video-use?style=flat-square&color=blue)](https://github.com/browser-use/video-use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Edit videos with coding agents
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.6k |
-| 🍴 **Forks** | 662 |
+| ⭐ **Stars** | 4.7k |
+| 🍴 **Forks** | 667 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

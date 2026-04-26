@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 341 |
+| 🍴 **Forks** | 342 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-SamurAIGPT/Generative-Media-Skills is an open-source project that empowers AI agents with multi-modal generative media skills, enabling them to create high-quality images, videos, and audio content. Built on top of the muapi.ai platform, this project provides a robust and flexible framework for developers to integrate advanced media generation capabilities into their applications. The project is accessible through three primary interfaces: Claude Code, Cursor, and Gemini CLI.
+SamurAIGPT/Generative-Media-Skills is an open-source project that enables AI agents to develop high-quality multimedia content through image, video, and audio generation. This project is powered by muapi.ai and provides multi-modal generative media skills for AI applications, including Claude Code, Cursor, and Gemini CLI. It facilitates the creation of sophisticated multimedia content for a range of AI-driven use cases.
 
 ---
 

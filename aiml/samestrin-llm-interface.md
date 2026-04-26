@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The samestrin/llm-interface project provides a unified, open-source interface for interacting with a wide range of Large Language Models (LLMs) from various providers. This simplifies the development process by enabling seamless integration with multiple models, including popular options like OpenAI and Google Gemini, as well as lesser-known providers. The project supports hundreds of models, making it a valuable resource for developers working with AI/ML technologies.
+The samestrin/llm-interface is an open-source project that provides a simple and unified interface for interacting with a wide range of Large Language Model (LLM) providers. This NPM interface currently supports 36 LLM providers, including industry leaders like OpenAI and Google Gemini, and offers seamless access to hundreds of models. By standardizing interactions with LLMs, the project aims to simplify development and accelerate the adoption of AI/ML technologies.
 
 ---
 

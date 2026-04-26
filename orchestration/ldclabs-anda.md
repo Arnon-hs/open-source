@@ -25,7 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The Anda project is an open-source AI agent framework designed and developed using the Rust programming language. This framework enables the creation of complex AI systems, allowing users to orchestrate and manage various components. With Anda, developers can build and deploy AI applications efficiently, leveraging Rust's performance and reliability.
+Here's a brief summary for the open-source project "anda":
+
+Anda is an open-source AI agent framework built with Rust, providing a comprehensive toolset for developers to create and orchestrate intelligent agents. This framework enables seamless integration with various front-end applications, making it an ideal choice for AI/ML projects. With Anda, developers can focus on building sophisticated AI solutions without worrying about underlying complexities.
 
 ---
 

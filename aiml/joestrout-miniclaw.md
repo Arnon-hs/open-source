@@ -1,6 +1,6 @@
 # JoeStrout/miniclaw
 
-[![Stars](https://img.shields.io/github/stars/JoeStrout/miniclaw?style=flat-square&color=yellow)](https://github.com/JoeStrout/miniclaw/stargazers) [![Forks](https://img.shields.io/github/forks/JoeStrout/miniclaw?style=flat-square&color=blue)](https://github.com/JoeStrout/miniclaw/network) [![Language](https://img.shields.io/badge/lang-MAXScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JoeStrout/miniclaw?style=flat-square&color=yellow)](https://github.com/JoeStrout/miniclaw/stargazers) [![Forks](https://img.shields.io/github/forks/JoeStrout/miniclaw?style=flat-square&color=blue)](https://github.com/JoeStrout/miniclaw/network) [![Language](https://img.shields.io/badge/lang-MAXScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > LLM agent for Mini Micro
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | MAXScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

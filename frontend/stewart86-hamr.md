@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-Hamr is an open-source, extensible launcher for the Wayland desktop environment built using Rust and the GTK Layer Shell. This versatile launcher can be customized with plugins written in various programming languages, allowing users to tailor its functionality to their specific needs. By leveraging its modular design, users can easily extend and modify Hamr to suit their workflow and preferences.
+Here is a brief summary for the Hamr project:
+
+Hamr is an open-source, extensible launcher for Wayland that empowers users with a customizable and versatile interface. Built with Rust and the GTK layer shell, Hamr allows developers to create plugins in various languages, making it highly extensible and adaptable to diverse user needs. This project enables users to tailor their launcher experience to suit their preferences.
 
 ---
 

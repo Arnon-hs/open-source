@@ -1,6 +1,6 @@
 # papra-hq/papra
 
-[![Stars](https://img.shields.io/github/stars/papra-hq/papra?style=flat-square&color=yellow)](https://github.com/papra-hq/papra/stargazers) [![Forks](https://img.shields.io/github/forks/papra-hq/papra?style=flat-square&color=blue)](https://github.com/papra-hq/papra/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/papra-hq/papra?style=flat-square&color=yellow)](https://github.com/papra-hq/papra/stargazers) [![Forks](https://img.shields.io/github/forks/papra-hq/papra?style=flat-square&color=blue)](https://github.com/papra-hq/papra/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > The minimalistic document archiving platform.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 199 |
+| 🍴 **Forks** | 200 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

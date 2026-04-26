@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project 'moto':
-
-Moto is an open-source terminal-based IDE specifically designed for developing and managing AI agents. Built on top of the Claude control plane and Codex backend workers, moto provides a comprehensive development environment with features like Docker-first runtime, safety hooks, and skills management. This innovative tool enables developers to create, deploy, and interact with AI agents from the comfort of a terminal interface.
+The moto project is an open-source, terminal-based Integrated Development Environment (IDE) designed specifically for AI agents. Built with Claude control plane, Codex backend workers, and a Docker-first runtime, moto provides a robust platform for developing, deploying, and managing AI skills and workflows. This project enables users to streamline AI development and deployment processes with features such as safety hooks, memory management, and seamless integration with browser and Gmail workflows.
 
 ---
 

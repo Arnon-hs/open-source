@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-TARDIS is an open-source project that simulates temperature and radiative diffusion in supernovae, providing a computational framework for scientists to model and study the complex processes involved in these explosive events. By leveraging this software, researchers can gain a deeper understanding of the thermal and radiative dynamics that shape supernovae, ultimately advancing our knowledge of these cataclysmic phenomena. TARDIS offers a valuable tool for the scientific community to explore and analyze the intricacies of supernovae.
+The TARDIS project is an open-source tool for simulating temperature and radiative diffusion in supernovae. It provides a comprehensive framework for modeling the complex processes that occur during these catastrophic cosmic events, enabling researchers to better understand the underlying physics and dynamics. By leveraging TARDIS, scientists can gain valuable insights into supernova behavior and evolution.
 
 ---
 

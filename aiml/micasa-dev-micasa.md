@@ -25,7 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Micasa is an open-source, modal Text User Interface (TUI) designed to simplify home management and organization. This project enables users to monitor and track various aspects of their home, including projects, maintenance schedules, appliances, and vendor quotes, in a user-friendly and efficient manner. By leveraging TUI technology, Micasa provides a streamlined experience for home owners to stay on top of their domestic tasks and responsibilities.
+Here's a brief summary of the micasa project:
+
+micasa is an open-source, modal Terminal User Interface (TUI) designed to help individuals manage their home projects, maintenance schedules, and appliances. It also allows users to track vendor quotes and stay organized. With a focus on simplicity and ease of use, micasa aims to streamline home management tasks.
 
 ---
 

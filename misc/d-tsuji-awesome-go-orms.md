@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This repository, "awesome-go-orms," is an open-source collection of popular Object-Relational Mapping (ORM) systems for the Go programming language. It showcases the most starred Go ORMs on GitHub, providing developers with a convenient resource to discover and explore various ORM libraries for their projects. By aggregating these popular Go ORMs, this project facilitates easier comparison and adoption of suitable ORMs for specific use cases.
+The "awesome-go-orms" project is an open-source collection of popular Object-Relational Mappers (ORMs) for the Go programming language, showcasing the most starred options available on GitHub. This repository aims to provide developers with a centralized resource for exploring and utilizing various ORMs that support Go. By cataloging these options, it facilitates the discovery and adoption of suitable ORMs for Go-based applications.
 
 ---
 

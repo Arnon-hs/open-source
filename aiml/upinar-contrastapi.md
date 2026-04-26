@@ -27,7 +27,7 @@ AI/ML · Backend · Security
 
 Here's a brief summary of the UPinar/contrastapi project:
 
-UPinar/contrastapi is an open-source security intelligence API and MCP server designed to support AI agents, offering a comprehensive set of tools and endpoints for threat intelligence, vulnerability assessment, and security analysis. With over 33 tools and 40+ endpoints, this platform provides real-time access to critical security data, including threat reports, code scanning results, and domain audits. Its extensive feature set makes it an invaluable resource for developers and security professionals seeking to enhance their AI-powered security solutions.
+UPinar/contrastapi is an open-source, comprehensive security intelligence API and MCP server designed to empower AI agents with real-time threat intelligence. This robust platform offers a wide range of tools and endpoints for tasks such as vulnerability scanning, domain auditing, IP threat reporting, and code scanning, making it an essential tool for AI-driven security solutions. With over 40 endpoints and 33 tools, contrastapi provides unparalleled security intelligence capabilities for various industries and applications.
 
 ---
 
