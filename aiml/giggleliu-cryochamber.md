@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The cryochamber is an open-source project that provides a scheduling system for long-running tasks in AI agents, allowing for efficient management of computationally intensive tasks. This project helps to mitigate the impact of these tasks on system resources, enabling AI agents to run smoothly and maintain optimal performance. By utilizing the cryochamber, developers can schedule tasks with greater control and flexibility.
+The cryochamber project is an open-source initiative designed to provide a cryogenic environment for AI agents, allowing them to execute long-running tasks without consuming excessive computing resources. This tool helps schedule and manage computationally intensive tasks more efficiently, making it suitable for various AI and machine learning applications. By using cryochamber, developers can optimize resource allocation and enhance the overall performance of their AI models.
 
 ---
 

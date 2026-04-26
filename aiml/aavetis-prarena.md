@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary for the open-source project:
 
-PRarena is an open-source repository that tracks and updates the top software engineering (SWE) coding agents from OpenAI, GitHub, and other sources. It provides a comprehensive overview of the opened and merged pull requests (PRs) from these leading AI and machine learning (ML) entities. This project regularly updates and maintains a real-time snapshot of their coding capabilities.
+PRarena is an open-source project that monitors and tracks the top software engineering coding agents from OpenAI, GitHub, and other sources, analyzing their performance in opened and merged pull requests. Regular updates ensure the data remains current and accurate, allowing users to gauge the capabilities of various coding agents. This project provides valuable insights into the state-of-the-art in AI-driven software development.
 
 ---
 

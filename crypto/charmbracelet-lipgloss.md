@@ -25,7 +25,7 @@ Crypto · Frontend · DevTools
 
 ## 📝 Summary
 
-The charmbracelet/lipgloss project provides style definitions for visually appealing terminal layouts, making it easier to customize and enhance the user experience in command-line interfaces. This open-source project is categorized under Frontend and DevTools, indicating its relevance to terminal and command-line interface development. By utilizing lipgloss, developers can create more attractive and user-friendly terminal interfaces.
+The charmbracelet/lipgloss project provides a set of style definitions for creating visually appealing terminal layouts. This open-source project offers a versatile solution for developers to customize the appearance of their terminal applications, allowing for a more engaging user experience. By using lipgloss, developers can easily create beautiful and functional terminal interfaces.
 
 ---
 

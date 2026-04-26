@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This project, "jiji262/build-code-agent", is an open-source initiative to build a Code Agent from scratch, providing a deep dive into the Claude Code source. The project is categorized under AI/ML and Frontend, making it a valuable resource for developers interested in building AI-powered applications. By dissecting the Claude Code source, this project offers a unique opportunity for learning and exploration.
+This open-source project, jiji262/build-code-agent, is a comprehensive guide to building a Code Agent from scratch. It offers a deep dive into the source code of Claude Code, providing insights into AI/ML and frontend development. By following this project, developers can gain a better understanding of Code Agent architecture and implementation.
 
 ---
 

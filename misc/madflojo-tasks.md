@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The madflojo/tasks package provides an in-process scheduler for recurring tasks in Go, allowing developers to easily manage and execute tasks at specified intervals. This open-source project simplifies the process of creating and managing recurring tasks within a single Go program. It offers a convenient solution for tasks that require periodic execution.
+The madflojo/tasks package provides a simple and efficient way to schedule recurring tasks in Go, allowing developers to run tasks at specified intervals without the need for external scheduling services. This in-process scheduler streamlines task management, making it ideal for applications that require regular maintenance or background processing. It offers a convenient solution for developers to automate repetitive tasks within their Go applications.
 
 ---
 

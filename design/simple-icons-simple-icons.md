@@ -25,7 +25,7 @@ Design
 
 ## 📝 Summary
 
-The simple-icons project is a comprehensive collection of open-source SVG icons for popular brands, allowing designers and developers to easily integrate recognizable logos into their projects. This collection helps standardize branding and streamlines the design process by providing a single, reliable source for widely-recognized brand icons. The project is maintained as a community-driven effort to keep the icons up-to-date and accurate.
+The simple-icons project is an open-source repository that provides a collection of SVG icons for well-known brands. This comprehensive library offers a wide range of logos in a scalable vector graphics format, making it easy to integrate into various design projects. The icons are available for free and can be used to enhance the visual identity of websites, applications, and other digital platforms.
 
 ---
 

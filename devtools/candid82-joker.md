@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The candid82/joker project is an open-source toolset for working with Clojure code. It includes a small Clojure interpreter, a linter for catching errors and improving code quality, and a formatter for standardizing code style. This DevTools project aims to streamline Clojure development by providing a suite of essential tools in one convenient package.
+The candid82/joker project is an open-source, small Clojure interpreter that provides a lightweight development environment. It includes a linter to check for coding errors and a formatter to ensure consistent code style, making it an ideal tool for developers working on Clojure projects. With joker, developers can quickly write, test, and refine their Clojure code.
 
 ---
 

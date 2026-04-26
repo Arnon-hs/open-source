@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-AdGuardian-Term is an open-source, terminal-based tool that provides real-time traffic monitoring and statistics for your AdGuard Home instance. It offers a convenient way to track and visualize network activity, making it easier to monitor and manage your home network's security and performance. With AdGuardian-Term, you can get a clear overview of your network's traffic in a straightforward and accessible manner.
+The AdGuardian-Term project is an open-source, real-time traffic monitoring tool for AdGuard Home instances. This terminal-based application provides users with detailed statistics and insights into their network traffic, allowing for enhanced visibility and control. By offering a user-friendly interface in the terminal, AdGuardian-Term streamlines the process of monitoring and analyzing network activity.
 
 ---
 

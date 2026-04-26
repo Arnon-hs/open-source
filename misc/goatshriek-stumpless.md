@@ -1,6 +1,6 @@
 # goatshriek/stumpless
 
-[![Stars](https://img.shields.io/github/stars/goatshriek/stumpless?style=flat-square&color=yellow)](https://github.com/goatshriek/stumpless/stargazers) [![Forks](https://img.shields.io/github/forks/goatshriek/stumpless?style=flat-square&color=blue)](https://github.com/goatshriek/stumpless/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/goatshriek/stumpless?style=flat-square&color=yellow)](https://github.com/goatshriek/stumpless/stargazers) [![Forks](https://img.shields.io/github/forks/goatshriek/stumpless?style=flat-square&color=blue)](https://github.com/goatshriek/stumpless/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > a fast and feature-rich logging library for C
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 524 |
 | 🍴 **Forks** | 375 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The charmbracelet/x project is an open-source collection of experimental packages, providing a hub for innovative and cutting-edge tools to be developed and shared within the community. This repository serves as a sandbox for exploring new ideas and features, allowing developers to experiment and collaborate on exciting projects. By embracing experimentation and innovation, charmbracelet/x fosters a culture of creativity and progress in software development.
+The charmbracelet/x project is an open-source initiative that hosts experimental packages for the Charm framework. This collection of packages allows developers to explore new features and technologies within the Charm ecosystem, enabling them to push the boundaries of what is possible with the framework. By hosting these experimental packages, the project fosters innovation and collaboration among developers.
 
 ---
 

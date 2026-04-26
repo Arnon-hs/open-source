@@ -25,7 +25,7 @@ AI/ML · Security · Product
 
 ## 📝 Summary
 
-Amazon Bedrock Agentcore is an open-source project that enables accelerated deployment of AI agents into production environments, providing the necessary scale, reliability, and security for real-world applications. This framework is designed to streamline the development and deployment process for AI agents, making it easier to integrate them into critical systems. By leveraging Agentcore, developers can focus on building and training AI models while relying on a robust foundation for production-ready deployment.
+The awslabs/agentcore-samples project is an open-source initiative that showcases the capabilities of Amazon Bedrock Agentcore, a powerful tool for accelerating AI agents into production. By leveraging Agentcore, developers can achieve the scalability, reliability, and security required for real-world AI deployments. This project provides valuable samples and examples to help users get the most out of Agentcore.
 
 ---
 

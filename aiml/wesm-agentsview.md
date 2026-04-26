@@ -25,9 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the wesm/agentsview project:
-
-AgentsView is an open-source project that provides local-first session intelligence and analytics for coding agents, supporting a wide range of popular agents such as Claude Code and Codex. This project offers enhanced performance, boasting a 100x faster replacement for ccusage, and facilitates data-driven insights for developers working with AI-powered coding tools. By providing a unified analytics platform, AgentsView helps streamline the development process and improve overall efficiency.
+The wesm/agentsview project is an open-source initiative that provides local-first session intelligence and analytics for coding agents, supporting a variety of popular agents such as Claude Code, Codex, and 14 others. This tool enables users to gain valuable insights into their coding experience and agent performance. Additionally, it offers a significant performance boost, being up to 100 times faster than traditional alternatives like ccusage.
 
 ---
 

@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Pugbread/Terminal-64 project:
+Here is a 2-3 sentence summary for the Pugbread/Terminal-64 project:
 
-Pugbread/Terminal-64 is an open-source, canvas-based terminal emulator that integrates cutting-edge technologies such as multi-agent Claude Code, widgets, and MCP. Built on top of Tauri, React, and xterm.js, this project offers a powerful and customizable frontend for users. By leveraging AI/ML and orchestration capabilities, Terminal-64 provides a robust platform for developers to build and deploy complex terminal applications.
+Pugbread/Terminal-64 is an open-source, canvas-based terminal emulator that leverages multi-agent Claude Code, widgets, and the MCP (Multi-Purpose Controller) framework. Built with Tauri, React, and xterm.js, this project aims to provide a versatile and customizable terminal experience. By combining AI/ML capabilities with a modern frontend, it offers a unique solution for orchestration and automation tasks.
 
 ---
 

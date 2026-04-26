@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The howsmyssl project is an open-source web application that allows users to test their SSL connection strength, providing essential information about the security of their online interactions. By utilizing this tool, individuals can gain insight into their SSL protocol and cipher suite versions, helping to identify potential vulnerabilities and strengthen their online security. This project is the underlying codebase for the popular website howsmyssl.com.
+The howsmyssl web app, available as the open-source project "jmhodges/howsmyssl," provides a comprehensive assessment of SSL/TLS connection security. It evaluates various parameters, including protocol support, cipher suites, and secure renegotiation, to help users identify potential vulnerabilities in their SSL/TLS connections. By offering a detailed analysis, this tool aids in ensuring the security and integrity of online communications.
 
 ---
 

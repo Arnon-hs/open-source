@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-LitexLang/Golitex is an open-source project that introduces a simple formal language, Litex, designed to be learnable in just two hours. This language is intended to facilitate efficient learning and application of formal methods in AI and ML development. By providing a concise and accessible language, Litex aims to bridge the gap between theoretical concepts and practical implementation in the field of AI and ML.
+Golitex is an open-source, simple formal language designed to be learnable in just 2 hours, making it an accessible tool for those new to AI and ML. This language enables users to create and express complex ideas in a concise and efficient manner, facilitating the development of innovative AI solutions. By providing a streamlined learning experience, Golitex aims to bridge the gap between formal language and real-world applications.
 
 ---
 

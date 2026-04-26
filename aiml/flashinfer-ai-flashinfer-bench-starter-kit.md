@@ -27,7 +27,7 @@ AI/ML · Frontend
 
 Here's a brief summary for the open-source project:
 
-The FlashInfer Bench Starter Kit is an open-source project that enables the creation of AI agents capable of generating high-performance GPU kernels. This project is a key component of the FlashInfer Bench research presented at the 2026 MLSys conference. By utilizing AI agents, developers can accelerate the development of optimized GPU kernels, leading to improved performance in various AI and machine learning applications.
+The FlashInfer Bench Starter Kit is an open-source project that enables developers to build AI agents that generate high-performance GPU kernels. This project, presented at MLSys 2026, aims to accelerate the development of optimized GPU code through the use of machine learning techniques. By leveraging AI to write efficient GPU kernels, the project promotes faster and more efficient computing in various industries.
 
 ---
 

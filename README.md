@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6302** |
+| 🗂️ **Total projects** | **6355** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2417 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1097 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 627 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 568 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 370 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 349 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 224 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 2437 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1106 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 631 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 570 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 372 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 357 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 226 | [Browse →](./crypto/) |
 | 📊 **Data** | 150 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 130 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 97 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 131 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 99 | [Browse →](./mobile/) |
 | 💳 **Payments** | 91 | [Browse →](./payments/) |
-| 🔐 **Security** | 66 | [Browse →](./security/) |
-| 📈 **Trading** | 63 | [Browse →](./trading/) |
+| 🔐 **Security** | 67 | [Browse →](./security/) |
+| 📈 **Trading** | 65 | [Browse →](./trading/) |
 | ✨ **Design** | 25 | [Browse →](./design/) |
 | 🎯 **Product** | 19 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 9 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25k | Design |
+| 1 | [santifer/career-ops](./aiml/santifer-career-ops.md) | ⭐ 39.7k | AI/ML |
 | 2 | [ngosang/trackerslist](./misc/ngosang-trackerslist.md) | ⭐ 53.6k | Misc |
-| 3 | [duplicati/duplicati](./aiml/duplicati-duplicati.md) | ⭐ 14.5k | AI/ML |
-| 4 | [WinMerge/winmerge](./misc/winmerge-winmerge.md) | ⭐ 8.7k | Misc |
-| 5 | [ImageMagick/ImageMagick](./frontend/imagemagick-imagemagick.md) | ⭐ 16.3k | Frontend |
-| 6 | [BlinkDL/RWKV-LM](./aiml/blinkdl-rwkv-lm.md) | ⭐ 14.5k | AI/ML |
-| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 8 | [spree/spree](./backend/spree-spree.md) | ⭐ 15.4k | Backend |
-| 9 | [ultralytics/ultralytics](./devtools/ultralytics-ultralytics.md) | ⭐ 56.4k | DevTools |
-| 10 | [seaweedfs/seaweedfs](./aiml/seaweedfs-seaweedfs.md) | ⭐ 31.7k | AI/ML |
+| 3 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25k | Design |
+| 4 | [duplicati/duplicati](./aiml/duplicati-duplicati.md) | ⭐ 14.5k | AI/ML |
+| 5 | [WinMerge/winmerge](./misc/winmerge-winmerge.md) | ⭐ 8.7k | Misc |
+| 6 | [ImageMagick/ImageMagick](./frontend/imagemagick-imagemagick.md) | ⭐ 16.3k | Frontend |
+| 7 | [BlinkDL/RWKV-LM](./aiml/blinkdl-rwkv-lm.md) | ⭐ 14.5k | AI/ML |
+| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 9 | [containerd/containerd](./aiml/containerd-containerd.md) | ⭐ 20.6k | AI/ML |
+| 10 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.8k | Frontend |
 
 ## 🚀 How it works
 

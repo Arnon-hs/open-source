@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Bubbles is an open-source, user interface (UI) project that provides Terminal User Interface (TUI) components for the Bubble Tea framework. The library offers a set of pre-built UI elements, enabling developers to create intuitive and visually appealing interfaces for their applications. With Bubbles, users can easily incorporate rich, interactive UI components into their Bubble Tea projects.
+Here's a brief summary for the charmbracelet/bubbles project:
+
+Bubbles is an open-source library of Terminal User Interface (TUI) components, designed to simplify the development of interactive command-line applications. It provides a set of reusable UI elements, inspired by the vibrant world of Bubble Tea, to help developers create visually appealing and engaging interfaces. With Bubbles, you can easily craft custom TUI experiences for your next project.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Obsidian LLM Plugin allows users to access and interact with local and web-based large language models through various chat interfaces, enhancing their research and note-taking experience. This AI-powered plugin integrates seamlessly with Obsidian, providing users with a convenient way to leverage the capabilities of large language models. By offering multiple interaction options, the plugin caters to diverse user preferences and workflows.
+This Obsidian plugin enables seamless integration with large language models, providing users with access to local and web-based models through multiple chat interfaces. These interfaces include a modal, widget, floating action button (FAB) window, and command options, increasing user flexibility and convenience. This plugin is designed to enhance Obsidian's capabilities with AI/ML functionality.
 
 ---
 

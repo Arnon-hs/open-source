@@ -25,7 +25,9 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-The exospherehost/runtime project is an open-source runtime that enables the efficient building and management of AI agents and workflows. This user-friendly platform boasts high performance, reliability, and an intuitive UI, making it suitable for production environments. By leveraging the exospherehost/runtime, developers can speed up their development process and create scalable AI solutions.
+Here's a brief summary for the exospherehost/runtime project:
+
+The exospherehost/runtime project is an open-source runtime platform designed to simplify the building and management of AI agents and workflows. With its intuitive UI, high performance, and reliability, it enables developers to create and deploy AI applications efficiently. This production-ready platform is ideal for organizations looking to leverage AI/ML capabilities with ease.
 
 ---
 

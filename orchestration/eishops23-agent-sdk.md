@@ -1,6 +1,6 @@
 # eishops23/agent-sdk
 
-[![Stars](https://img.shields.io/github/stars/eishops23/agent-sdk?style=flat-square&color=yellow)](https://github.com/eishops23/agent-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/eishops23/agent-sdk?style=flat-square&color=blue)](https://github.com/eishops23/agent-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eishops23/agent-sdk?style=flat-square&color=yellow)](https://github.com/eishops23/agent-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/eishops23/agent-sdk?style=flat-square&color=blue)](https://github.com/eishops23/agent-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Runtime interception SDK for AI agent governance — wraps agent tool calls with synchronous policy enforcement. LangChain, CrewAI, AutoGen adapters included.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

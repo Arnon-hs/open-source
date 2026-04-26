@@ -25,9 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-TalHelper is an open-source tool designed to simplify the process of creating Talos Kubernetes clusters. This DevOps/Infra project provides a streamlined experience for users to set up and manage their Talos clusters, saving time and effort in the process. With TalHelper, users can efficiently create, deploy, and manage their Talos clusters, making it an ideal solution for Kubernetes administrators and developers.
+TalHelper is an open-source tool designed to facilitate the creation of Talos Kubernetes clusters, streamlining the deployment process for DevOps and infrastructure teams. This project simplifies the setup and management of Talos clusters, making it easier to get started with this highly scalable and secure container runtime platform. By leveraging TalHelper, users can efficiently provision and configure their Talos clusters.
 
 ---
 

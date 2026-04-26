@@ -25,9 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project in English:
+Here's a brief summary for the project:
 
-"Go-music-dl is an open-source, Go-based music search and download tool that supports both command-line interface (CLI) and web service modes. It aggregates music from over 10 popular platforms, including NetEase Music, QQ Music, Kugou, Bilibili, and more, allowing for concurrent searches and high-quality audio parsing. This project enables users to easily access and download their favorite music across various platforms."
+Go-Music-DL is an open-source music downloader written in Go, supporting both CLI and web service modes. It offers a comprehensive search and download tool for over 10 mainstream music platforms, including NetEase Music, QQ Music, Kugou Music, and Bilibili. With concurrent searching and high-quality audio parsing, users can efficiently download music from multiple sources.
 
 ---
 

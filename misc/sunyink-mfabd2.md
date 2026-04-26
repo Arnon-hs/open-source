@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The sunyink/MFABD2 project is an open-source automation script for the popular Korean mobile game Brown Dust 2, utilizing the MaaFramework (MFA) framework. This script aims to automate daily tasks and prevent the game from forcing players to engage in laborious activities. It caters to players seeking to optimize their gameplay experience.
+The sunyink/MFABD2 project is an open-source automation script for the game "Brown Dust 2" utilizing the MaaFramework (MFA) framework. This script enables users to automatically collect daily rewards and decline job requests, freeing up time for other activities. The project aims to provide a convenient and hands-free experience for players.
 
 ---
 

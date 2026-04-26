@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/pyrate-llama/hermes-ui?style=flat-square&color=yellow)](https://github.com/pyrate-llama/hermes-ui/stargazers) [![Forks](https://img.shields.io/github/forks/pyrate-llama/hermes-ui?style=flat-square&color=blue)](https://github.com/pyrate-llama/hermes-ui/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Glassmorphic web interface for Hermes Agent — your self-hosted AI assistant
+> The command center for Hermes Agent — chat, steer, browse files, manage skills, and monitor everything from a single glassmorphic HTML app.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51 |
-| 🍴 **Forks** | 10 |
+| ⭐ **Stars** | 56 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |

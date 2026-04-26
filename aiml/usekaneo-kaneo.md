@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Kaneo is an open-source project management platform designed to provide a streamlined and user-friendly experience. It offers a feature-rich yet minimalist approach to task and project organization, allowing users to focus on their goals without unnecessary complexity. With its open-source nature, Kaneo aims to empower users and developers alike to customize and improve its functionality to suit their needs.
+Kaneo is an open-source project management platform designed to be user-centric and adaptable to individual needs. Its intuitive interface and seamless workflow aim to simplify project coordination, allowing teams to focus on their work without unnecessary complexity. By harnessing the potential of AI and frontend technologies, Kaneo strives to create a more efficient and collaborative work environment.
 
 ---
 

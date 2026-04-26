@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Autopulse is an open-source, automated service that seamlessly updates media servers such as Plex and Jellyfin in response to notifications from media organizers like Sonarr and Radarr. This lightweight backend solution simplifies media library management by automating the process of updating media content. By integrating with popular media management tools, Autopulse streamlines media organization and reduces manual upkeep.
+Autopulse is an open-source, automated service designed to seamlessly synchronize media servers, such as Plex and Jellyfin, with media organizers like Sonarr and Radarr. By leveraging notifications from these media organizers, Autopulse facilitates effortless updates and ensures that media libraries remain up-to-date and organized. This streamlined approach simplifies the process of managing media collections and reduces the risk of human error.
 
 ---
 

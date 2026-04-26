@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The puffyCid/artemis project is an open-source, cross-platform forensic parser developed in Rust. This versatile tool allows users to analyze and process digital forensic data across various platforms, providing a unified and efficient solution for forensic investigators. Its Rust-based design ensures high performance and flexibility.
+puffyCid/artemis is an open-source, cross-platform forensic parser written in Rust, designed to provide a versatile and efficient tool for analyzing digital evidence. This project aims to offer a robust and reliable solution for parsing various forensic data formats, making it a valuable resource for digital forensic investigators and researchers. Its Rust-based architecture ensures high performance and portability across multiple platforms.
 
 ---
 

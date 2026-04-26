@@ -27,7 +27,7 @@ Orchestration · AI/ML
 
 Here's a brief summary for the open-source project:
 
-Skills-Hub is a cross-platform desktop application designed to streamline the management of Agent Skills. It allows users to synchronize their skills with multiple AI coding tools' global directories, simplifying the process and saving time. With "Install once, sync everywhere" functionality, users can easily manage their skills across various platforms from a single interface.
+Skills Hub is an open-source, cross-platform desktop application designed to streamline the management of Agent Skills. It enables users to centralize and synchronize their skills across multiple AI coding tools, simplifying their workflow and increasing efficiency. With a simple "install once, sync everywhere" approach, Skills Hub aims to make skills management seamless and hassle-free.
 
 ---
 

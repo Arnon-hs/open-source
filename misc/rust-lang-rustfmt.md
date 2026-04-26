@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Rustfmt is an open-source code formatting tool designed to automatically format Rust code to a consistent and readable style. It aims to eliminate the need for manual formatting, allowing developers to focus on writing code rather than aligning their code's syntax. By using Rustfmt, developers can ensure their Rust projects adhere to a unified coding standard.
+Rustfmt is an open-source project that formats Rust code according to a set of predefined rules and conventions. It automates the process of code organization, making it easier for developers to maintain a consistent coding style. By using Rustfmt, developers can ensure their code adheres to a uniform structure and style.
 
 ---
 

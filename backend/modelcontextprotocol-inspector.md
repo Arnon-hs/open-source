@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The modelcontextprotocol/inspector is an open-source, visual testing tool designed for MCP (Model Context Protocol) servers. This DevTool enables developers to inspect and test MCP server behavior in a user-friendly and intuitive way, facilitating the identification and resolution of technical issues. By providing a visual interface for MCP server interactions, the inspector streamlines the development and debugging process.
+The modelcontextprotocol/inspector project offers a visual testing tool designed specifically for MCP (Model Context Protocol) servers. This tool enables developers to inspect and test MCP servers in a user-friendly and intuitive manner. By providing a visual interface for MCP server testing, the project streamlines the development and debugging process.
 
 ---
 
