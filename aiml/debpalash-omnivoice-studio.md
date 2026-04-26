@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 442 |
+| ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 

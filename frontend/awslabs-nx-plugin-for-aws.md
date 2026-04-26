@@ -27,7 +27,7 @@ Frontend · Backend · Product
 
 Here's a brief summary for the open-source project:
 
-The @aws/nx-plugin is an open-source tool that streamlines the development of cloud-native applications by automating code generation and configuration within the Nx ecosystem. This plugin supports the creation of cloud-native applications using AWS services, TypeScript, Python, and React, making it an ideal choice for developers working on cross-functional projects. By leveraging the @aws/nx-plugin, developers can accelerate their development workflow and focus on delivering high-quality applications.
+The @aws/nx-plugin is an open-source project that streamlines cloud-native application development within the Nx ecosystem. This plugin automates the creation and configuration of applications using AWS services, combined with popular frameworks like TypeScript, Python, and React. By leveraging these code generators, developers can build scalable and efficient cloud applications with ease.
 
 ---
 

@@ -25,9 +25,7 @@ Backend · Marketing
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the freema/mcp-gsheets project:
-
-The freema/mcp-gsheets project is an open-source MCP server that enables seamless interaction between Google Sheets and Claude Desktop, allowing users to read, write, and manipulate spreadsheets with ease. This integration enables marketers and developers to harness the power of Google Sheets and Claude Desktop's capabilities to automate tasks and streamline workflows. By providing a scalable and flexible solution, freema/mcp-gsheets empowers users to unlock new possibilities in data analysis and marketing automation.
+The freema/mcp-gsheets project is an open-source MCP server that enables seamless interaction between Claude Desktop and Google Sheets. This integration allows for effortless reading, writing, and manipulation of spreadsheets, streamlining workflow and productivity. By harnessing the power of Google Sheets within the Claude Desktop ecosystem, users can unlock new possibilities for data management and collaboration.
 
 ---
 

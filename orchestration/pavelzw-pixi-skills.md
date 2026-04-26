@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The pixi-skills project is an open-source tool that utilizes the Pixi framework to manage and orchestrate coding agent skills. This platform enables the organization and coordination of various AI/ML skills, streamlining their application in complex tasks. By leveraging pixi-skills, developers can efficiently integrate and utilize different coding agent skills to achieve desired outcomes.
+The pavelzw/pixi-skills project is an open-source initiative that leverages the Pixi framework to manage coding agent skills. This project aims to orchestrate and streamline the process of coding agent development, enabling efficient collaboration and deployment of AI/ML skills. By utilizing Pixi, the project facilitates a more organized and scalable approach to managing coding agent skills.
 
 ---
 

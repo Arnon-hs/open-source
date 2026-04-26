@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.7k |
-| 🍴 **Forks** | 782 |
+| 🍴 **Forks** | 783 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | — |
@@ -25,7 +25,9 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Anthropic-Cybersecurity-Skills is an open-source project that provides 754 structured cybersecurity skills for AI agents, mapping to five prominent frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, and NIST AI RMF. This vast collection of skills is standardized using agentskills.io and is compatible with various platforms, including Claude Code, GitHub Copilot, and Cursor. The project aims to enhance AI-powered cybersecurity capabilities across 26 security domains, fostering more effective threat detection and response.
+Here's a 2-3 sentence summary of the project:
+
+Anthropic-Cybersecurity-Skills is an open-source repository providing 754 structured cybersecurity skills for AI agents. These skills are mapped to five prominent frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, and NIST AI RMF, ensuring comprehensive coverage of AI security. The project supports various platforms and tools, including Claude Code, GitHub Copilot, and Codex CLI, promoting interoperability and standardized AI security skills.
 
 ---
 

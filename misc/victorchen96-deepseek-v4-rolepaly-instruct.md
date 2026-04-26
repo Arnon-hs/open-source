@@ -1,6 +1,6 @@
 # victorchen96/deepseek_v4_rolepaly_instruct
 
-[![Stars](https://img.shields.io/github/stars/victorchen96/deepseek_v4_rolepaly_instruct?style=flat-square&color=yellow)](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct/stargazers) [![Forks](https://img.shields.io/github/forks/victorchen96/deepseek_v4_rolepaly_instruct?style=flat-square&color=blue)](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/victorchen96/deepseek_v4_rolepaly_instruct?style=flat-square&color=yellow)](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct/stargazers) [![Forks](https://img.shields.io/github/forks/victorchen96/deepseek_v4_rolepaly_instruct?style=flat-square&color=blue)](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 对于DeepSeek-V4角色扮演的特殊控制指令的说明
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 957 |
-| 🍴 **Forks** | 49 |
+| ⭐ **Stars** | 984 |
+| 🍴 **Forks** | 50 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

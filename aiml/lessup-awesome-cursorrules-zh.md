@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LessUp/awesome-cursorrules-zh?style=flat-square&color=yellow)](https://github.com/LessUp/awesome-cursorrules-zh/stargazers) [![Forks](https://img.shields.io/github/forks/LessUp/awesome-cursorrules-zh?style=flat-square&color=blue)](https://github.com/LessUp/awesome-cursorrules-zh/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> 💻✨专为中文开发者优化的 Cursor AI 编程规则集合
+> Chinese-first bilingual Cursor rules library with OpenSpec-driven maintenance
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · DevTools
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # medbenali/CyberScan
 
-[![Stars](https://img.shields.io/github/stars/medbenali/CyberScan?style=flat-square&color=yellow)](https://github.com/medbenali/CyberScan/stargazers) [![Forks](https://img.shields.io/github/forks/medbenali/CyberScan?style=flat-square&color=blue)](https://github.com/medbenali/CyberScan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/medbenali/CyberScan?style=flat-square&color=yellow)](https://github.com/medbenali/CyberScan/stargazers) [![Forks](https://img.shields.io/github/forks/medbenali/CyberScan?style=flat-square&color=blue)](https://github.com/medbenali/CyberScan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > CyberScan: Network's Forensics ToolKit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

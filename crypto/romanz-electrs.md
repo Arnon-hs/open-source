@@ -1,6 +1,6 @@
 # romanz/electrs
 
-[![Stars](https://img.shields.io/github/stars/romanz/electrs?style=flat-square&color=yellow)](https://github.com/romanz/electrs/stargazers) [![Forks](https://img.shields.io/github/forks/romanz/electrs?style=flat-square&color=blue)](https://github.com/romanz/electrs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/romanz/electrs?style=flat-square&color=yellow)](https://github.com/romanz/electrs/stargazers) [![Forks](https://img.shields.io/github/forks/romanz/electrs?style=flat-square&color=blue)](https://github.com/romanz/electrs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > An efficient re-implementation of Electrum Server in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 540 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,17 +1,17 @@
 # artem-mangilev/ctxbrew
 
-[![Stars](https://img.shields.io/github/stars/artem-mangilev/ctxbrew?style=flat-square&color=yellow)](https://github.com/artem-mangilev/ctxbrew/stargazers) [![Forks](https://img.shields.io/github/forks/artem-mangilev/ctxbrew?style=flat-square&color=blue)](https://github.com/artem-mangilev/ctxbrew/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/artem-mangilev/ctxbrew?style=flat-square&color=yellow)](https://github.com/artem-mangilev/ctxbrew/stargazers) [![Forks](https://img.shields.io/github/forks/artem-mangilev/ctxbrew?style=flat-square&color=blue)](https://github.com/artem-mangilev/ctxbrew/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> 📦 Ship & Use AI-friendly package context.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Ctxbrew is an open-source project that simplifies the deployment and usage of library contexts for Large Language Models (LLMs). It enables developers to easily ship and utilize these contexts, making it a valuable tool for those working with LLMs in AI and ML applications. By streamlining this process, Ctxbrew aims to accelerate the development and innovation in the field of LLMs.
+Ctxbrew is an open-source project that allows developers to easily ship and utilize library context compatible with large language models (LLMs). This project aims to simplify the process of integrating LLMs into various applications, making it more accessible to developers. By providing a standardized library context, Ctxbrew streamlines the workflow and enhances the overall efficiency of LLM-based projects.
 
 ---
 

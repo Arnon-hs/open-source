@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6946** |
+| 🗂️ **Total projects** | **7033** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2660 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1253 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 693 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 611 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 400 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 394 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 240 | [Browse →](./crypto/) |
-| 📊 **Data** | 159 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 139 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 105 | [Browse →](./mobile/) |
-| 💳 **Payments** | 97 | [Browse →](./payments/) |
-| 📈 **Trading** | 71 | [Browse →](./trading/) |
-| 🔐 **Security** | 69 | [Browse →](./security/) |
+| 🤖 **AI/ML** | 2691 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1274 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 699 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 618 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 404 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 399 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 244 | [Browse →](./crypto/) |
+| 📊 **Data** | 161 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 141 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 106 | [Browse →](./mobile/) |
+| 💳 **Payments** | 98 | [Browse →](./payments/) |
+| 📈 **Trading** | 73 | [Browse →](./trading/) |
+| 🔐 **Security** | 70 | [Browse →](./security/) |
 | ✨ **Design** | 26 | [Browse →](./design/) |
 | 🎯 **Product** | 20 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 9 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Dash-Industry-Forum/dash.js](./devtools/dash-industry-forum-dash.js.md) | ⭐ 5.5k | DevTools |
-| 2 | [AccumulateMore/CV](./aiml/accumulatemore-cv.md) | ⭐ 20.3k | AI/ML |
-| 3 | [istio/istio](./frontend/istio-istio.md) | ⭐ 38.2k | Frontend |
-| 4 | [bluenviron/mediamtx](./backend/bluenviron-mediamtx.md) | ⭐ 18.6k | Backend |
-| 5 | [debezium/debezium](./data/debezium-debezium.md) | ⭐ 12.7k | Data |
-| 6 | [PaddlePaddle/PaddleOCR](./aiml/paddlepaddle-paddleocr.md) | ⭐ 76.6k | AI/ML |
-| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 8 | [payloadcms/payload](./frontend/payloadcms-payload.md) | ⭐ 42k | Frontend |
-| 9 | [pingcap/tidb](./orchestration/pingcap-tidb.md) | ⭐ 40k | Orchestration |
-| 10 | [shanraisshan/claude-code-best-practice](./orchestration/shanraisshan-claude-code-best-practice.md) | ⭐ 48.1k | Orchestration |
+| 1 | [Gallopsled/pwntools](./misc/gallopsled-pwntools.md) | ⭐ 13.4k | Misc |
+| 2 | [containerd/containerd](./aiml/containerd-containerd.md) | ⭐ 20.6k | AI/ML |
+| 3 | [invoiceninja/invoiceninja](./payments/invoiceninja-invoiceninja.md) | ⭐ 9.7k | Payments |
+| 4 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 5 | [azerothcore/azerothcore-wotlk](./backend/azerothcore-azerothcore-wotlk.md) | ⭐ 8.2k | Backend |
+| 6 | [XTLS/Xray-core](./misc/xtls-xray-core.md) | ⭐ 37.9k | Misc |
+| 7 | [google/syzkaller](./aiml/google-syzkaller.md) | ⭐ 6.1k | AI/ML |
+| 8 | [ipython/ipython](./aiml/ipython-ipython.md) | ⭐ 16.7k | AI/ML |
+| 9 | [ory/kratos](./aiml/ory-kratos.md) | ⭐ 13.6k | AI/ML |
+| 10 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 44.7k | Orchestration |
 
 ## 🚀 How it works
 

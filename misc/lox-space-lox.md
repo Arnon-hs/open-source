@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The lox-space/lox project is an open-source initiative focused on providing a set of oxidized astrodynamics tools and resources. It aims to help users compute and analyze various astrodynamical parameters, such as trajectory calculations and orbit determination, in a simplified and efficient manner. This project is designed to be a valuable resource for aerospace professionals, researchers, and students working in the field of astrodynamics.
+Lox-space/lox is an open-source project that provides a library for oxidized astrodynamics calculations. It allows users to perform complex space trajectory and orbit analysis, offering a wide range of functionality for astrodynamics modeling and simulation. This project aims to support various space-related applications and research in the field of astrodynamics.
 
 ---
 

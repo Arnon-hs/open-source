@@ -25,7 +25,9 @@ Frontend · Backend
 
 ## 📝 Summary
 
-The AURCache project is an open-source initiative that aims to create a cache build server for Archlinux AUR packages, providing a streamlined and efficient way to serve them. This project combines frontend and backend technologies to support the caching and serving of AUR packages, offering a valuable resource for the Archlinux community. By centralizing package builds and serving them from a cache, AURCache helps reduce the load on individual package maintainers and improves overall package accessibility.
+Here's a brief summary of the AURCache project:
+
+AURCache is an open-source project that provides a cache build server for Archlinux AUR (Arch User Repository) packages, making it easier to manage and serve these packages. This project combines frontend and backend capabilities to efficiently store and distribute AUR packages, offering a convenient solution for users and developers. By using AURCache, users can access and utilize AUR packages more efficiently.
 
 ---
 

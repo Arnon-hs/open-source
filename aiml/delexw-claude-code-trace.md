@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/delexw/claude-code-trace?style=flat-square&color=yellow)](https://github.com/delexw/claude-code-trace/stargazers) [![Forks](https://img.shields.io/github/forks/delexw/claude-code-trace?style=flat-square&color=blue)](https://github.com/delexw/claude-code-trace/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Real-time Claude Code session log viewer and monitor. Tail, search, and visualize JSONL session files with a native desktop GUI, a web and a tui. Built with Tauri 2, React, and TypeScript.
+> Real-time viewer for Claude Code session logs — desktop app, web, and TUI
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 

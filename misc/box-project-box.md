@@ -1,6 +1,6 @@
 # box-project/box
 
-[![Stars](https://img.shields.io/github/stars/box-project/box?style=flat-square&color=yellow)](https://github.com/box-project/box/stargazers) [![Forks](https://img.shields.io/github/forks/box-project/box?style=flat-square&color=blue)](https://github.com/box-project/box/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/box-project/box?style=flat-square&color=yellow)](https://github.com/box-project/box/stargazers) [![Forks](https://img.shields.io/github/forks/box-project/box?style=flat-square&color=blue)](https://github.com/box-project/box/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 📦🚀 Fast, zero config application bundler with PHARs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

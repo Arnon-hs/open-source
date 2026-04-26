@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/chadbyte/clay?style=flat-square&color=yellow)](https://github.com/chadbyte/clay/stargazers) [![Forks](https://img.shields.io/github/forks/chadbyte/clay?style=flat-square&color=blue)](https://github.com/chadbyte/clay/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Turn Claude Code into a team workspace. Any device, one command.
+> Self-hosted team workspace for Claude Code and Codex. Multi-user, browser-based, AI mates with memory.
 
 ## 📊 Stats
 

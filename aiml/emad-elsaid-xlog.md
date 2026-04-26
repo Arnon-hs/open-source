@@ -25,7 +25,9 @@ AI/ML · Backend · Product
 
 ## 📝 Summary
 
-The xlog project is an open-source personal knowledge management application that enables users to organize and access their notes efficiently. It features a one-binary HTTP server that can be run from any Markdown directory, providing functionality such as auto-linking, image previews, and multimedia recording capabilities. This application also offers fast search functionality for users to quickly find specific knowledge within their database.
+Here's a brief summary for the project:
+
+xlog is an open-source personal knowledge management application that enables users to manage their notes and knowledge base through a single binary HTTP server. It supports Markdown directories and features autolinking, image previews, and multimedia recording capabilities, including screensharing, screenshots, camera recording, and audio recording. Additionally, xlog offers fast search functionality for efficient note retrieval.
 
 ---
 

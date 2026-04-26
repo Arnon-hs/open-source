@@ -25,7 +25,7 @@ Frontend · Backend · Design
 
 ## 📝 Summary
 
-Spoon is an open-source metaprogramming library for Java that enables the analysis and transformation of source code. It utilizes a parsing mechanism to build an Abstract Syntax Tree (AST), providing a powerful API for in-depth analysis and manipulation of the code. This library is designed for use in both frontend and backend development, and is ideal for tasks such as refactoring, code analysis, and automated testing.
+Spoon is an open-source metaprogramming library for Java that enables the analysis and transformation of Java source code. It uses a powerful Abstract Syntax Tree (AST) to parse source files, providing a robust API for developers to manipulate and analyze code. With Spoon, developers can create custom tools and plugins for Java code refactoring, optimization, and testing.
 
 ---
 

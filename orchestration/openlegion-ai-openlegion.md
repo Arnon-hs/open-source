@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/openlegion-ai/openlegion?style=flat-square&color=yellow)](https://github.com/openlegion-ai/openlegion/stargazers) [![Forks](https://img.shields.io/github/forks/openlegion-ai/openlegion?style=flat-square&color=blue)](https://github.com/openlegion-ai/openlegion/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider, with built-in cost controls. OpenClaw alternative for production use.
+> Secure autonomous AI agent workforce. Build an entire AI team by describing what you want. Replace entire departments with AI that can do everything a human can do.
 
 ## 📊 Stats
 

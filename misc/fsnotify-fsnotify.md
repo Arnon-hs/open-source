@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Fsnotify is an open-source, cross-platform library for Go that provides filesystem notifications, enabling developers to monitor file system events and respond accordingly. This library allows for efficient and reliable detection of file system changes, making it a valuable tool for various applications and use cases. It supports a wide range of operating systems, including Windows, macOS, and Linux.
+The fsnotify project is an open-source, cross-platform library for Go that provides efficient filesystem notifications. It allows developers to monitor file system events, such as creations, deletions, and modifications, enabling them to implement robust file monitoring and event-driven applications. With fsnotify, developers can create scalable and reliable solutions for tasks like file synchronization, backup, and real-time data processing.
 
 ---
 

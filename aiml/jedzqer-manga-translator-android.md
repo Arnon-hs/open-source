@@ -1,6 +1,6 @@
 # jedzqer/manga-translator-android
 
-[![Stars](https://img.shields.io/github/stars/jedzqer/manga-translator-android?style=flat-square&color=yellow)](https://github.com/jedzqer/manga-translator-android/stargazers) [![Forks](https://img.shields.io/github/forks/jedzqer/manga-translator-android?style=flat-square&color=blue)](https://github.com/jedzqer/manga-translator-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jedzqer/manga-translator-android?style=flat-square&color=yellow)](https://github.com/jedzqer/manga-translator-android/stargazers) [![Forks](https://img.shields.io/github/forks/jedzqer/manga-translator-android?style=flat-square&color=blue)](https://github.com/jedzqer/manga-translator-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 手机端的即时自动漫画翻译软件，由LLM驱动。Instant automatic manga translation app for mobile devices, powered by LLM.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 230 |
+| ⭐ **Stars** | 231 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

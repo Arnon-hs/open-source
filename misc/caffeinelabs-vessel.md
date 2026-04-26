@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The vessel package manager is an open-source tool for managing dependencies in Motoko, a programming language used for building decentralized applications. It serves as a crucial component for developers to efficiently handle and maintain their project's dependencies. By utilizing vessel, developers can streamline their development process and focus on building innovative applications.
+The vessel package manager is an open-source project for Motoko, a programming language used for building secure and scalable applications. It allows developers to easily install, manage, and update Motoko packages, streamlining the development process. Vessel aims to provide a reliable and efficient package management solution for the Motoko ecosystem.
 
 ---
 

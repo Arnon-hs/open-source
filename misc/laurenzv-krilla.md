@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 377 |
+| ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Krilla is an open-source Rust library for creating PDF documents, providing a high-level and ergonomic API for developers to easily generate PDFs. It offers a simple and intuitive way to create complex PDF layouts and designs, making it suitable for various applications and use cases. With Krilla, you can focus on building your PDF-based projects without getting bogged down in low-level PDF details.
+Krilla is an open-source, high-level Rust library designed for creating PDF documents with a focus on ergonomics. It provides a simple and intuitive interface for generating PDFs, allowing developers to easily craft complex documents. With Krilla, users can create professional-quality PDFs in a concise and expressive manner.
 
 ---
 

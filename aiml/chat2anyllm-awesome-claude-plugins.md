@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the Chat2AnyLLM/awesome-claude-plugins project:
 
-Chat2AnyLLM/awesome-claude-plugins is an open-source project that curates a list of remarkable Claude marketplaces and plugins, empowering users to explore and leverage the capabilities of the Claude AI platform. This project serves as a comprehensive resource for developers and enthusiasts seeking innovative solutions and extensions for Claude. By providing a centralized hub for Claude-related resources, this project fosters community growth and collaboration in the AI/ML space.
+This project is a curated list of awesome Claude marketplaces and plugins, making it easier for users to discover and utilize the vast ecosystem of AI-powered tools available on the Claude platform. By aggregating the best plugins and marketplaces, developers and users can streamline their workflow and enhance their experience with Claude AI. The project serves as a valuable resource for those exploring the capabilities of Claude and its potential applications.
 
 ---
 

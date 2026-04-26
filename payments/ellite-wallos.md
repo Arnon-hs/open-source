@@ -25,7 +25,7 @@ Payments · DevOps/Infra
 
 ## 📝 Summary
 
-Wallos is an open-source, self-hostable personal subscription tracker that helps users visualize and manage their recurring expenses. This project enables individuals to take control of their budget and stay on top of their ongoing financial commitments. By hosting it locally, users can maintain their financial data's security and privacy.
+Wallos is an open-source, self-hostable personal subscription tracker that empowers users to visualize their recurring expenses and manage their budget effectively. This free-to-use tool helps individuals save money by providing a comprehensive overview of their subscription-based expenses. By hosting it yourself, you can maintain complete control over your financial data and enjoy a more personalized budgeting experience.
 
 ---
 

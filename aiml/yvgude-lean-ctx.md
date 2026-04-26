@@ -1,6 +1,6 @@
 # yvgude/lean-ctx
 
-[![Stars](https://img.shields.io/github/stars/yvgude/lean-ctx?style=flat-square&color=yellow)](https://github.com/yvgude/lean-ctx/stargazers) [![Forks](https://img.shields.io/github/forks/yvgude/lean-ctx?style=flat-square&color=blue)](https://github.com/yvgude/lean-ctx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yvgude/lean-ctx?style=flat-square&color=yellow)](https://github.com/yvgude/lean-ctx/stargazers) [![Forks](https://img.shields.io/github/forks/yvgude/lean-ctx?style=flat-square&color=blue)](https://github.com/yvgude/lean-ctx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Reduce AI coding costs by 99% — MCP Server + Shell Hook for Cursor, Claude Code, Copilot, Windsurf, Gemini CLI & 24 tools. Single Rust binary, zero telemetry.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 853 |
+| ⭐ **Stars** | 858 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

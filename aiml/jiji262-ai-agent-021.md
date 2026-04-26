@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The ai-agent-021 project is an open-source initiative that guides developers in building a basic AI agent from scratch. It covers the foundational aspects of AI and machine learning, providing a comprehensive framework for frontend developers interested in exploring AI concepts. This project serves as a starting point for those looking to create their own AI-powered applications.
+The ai-agent-021 project is an open-source initiative that provides a comprehensive guide to building a basic AI agent from scratch. It offers a structured approach to constructing an AI agent, covering essential concepts and techniques in AI/ML and frontend development. By following this project, developers can gain hands-on experience in creating their own AI agent.
 
 ---
 

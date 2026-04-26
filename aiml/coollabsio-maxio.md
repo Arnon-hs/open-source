@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-MaxIO is an open-source, high-performance storage system designed to rival MinIO, providing a more efficient and scalable solution for AI/ML workloads. Built on top of a robust architecture, MaxIO offers improved read and write speeds, enhanced data security, and simplified management. This project aims to provide a more reliable and cost-effective alternative for organizations relying on MinIO for their data storage needs.
+MaxIO is an open-source, high-performance object storage solution designed to improve upon MinIO capabilities. It is optimized for AI/ML workloads and offers efficient data management, scalability, and reliability. With MaxIO, users can store and retrieve large amounts of data in a secure, cost-effective, and highly available manner.
 
 ---
 

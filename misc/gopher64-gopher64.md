@@ -1,6 +1,6 @@
 # gopher64/gopher64
 
-[![Stars](https://img.shields.io/github/stars/gopher64/gopher64?style=flat-square&color=yellow)](https://github.com/gopher64/gopher64/stargazers) [![Forks](https://img.shields.io/github/forks/gopher64/gopher64?style=flat-square&color=blue)](https://github.com/gopher64/gopher64/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gopher64/gopher64?style=flat-square&color=yellow)](https://github.com/gopher64/gopher64/stargazers) [![Forks](https://img.shields.io/github/forks/gopher64/gopher64?style=flat-square&color=blue)](https://github.com/gopher64/gopher64/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Highly compatible N64 emulator
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 988 |
+| ⭐ **Stars** | 989 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # basketikun/chatgpt2api
 
-[![Stars](https://img.shields.io/github/stars/basketikun/chatgpt2api?style=flat-square&color=yellow)](https://github.com/basketikun/chatgpt2api/stargazers) [![Forks](https://img.shields.io/github/forks/basketikun/chatgpt2api?style=flat-square&color=blue)](https://github.com/basketikun/chatgpt2api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/basketikun/chatgpt2api?style=flat-square&color=yellow)](https://github.com/basketikun/chatgpt2api/stargazers) [![Forks](https://img.shields.io/github/forks/basketikun/chatgpt2api?style=flat-square&color=blue)](https://github.com/basketikun/chatgpt2api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 830 |
-| 🍴 **Forks** | 244 |
+| ⭐ **Stars** | 842 |
+| 🍴 **Forks** | 247 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

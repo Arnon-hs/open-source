@@ -25,7 +25,7 @@ Crypto · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The web3infra-foundation/libra project represents an evolving version of the Libra platform, designed to integrate AI agents into its core functionality. This integration aims to enhance the platform's capabilities through AI-driven version control tools, potentially revolutionizing the way developers manage and collaborate on codebases. By merging AI and DevOps/Infra concepts, libra seeks to provide a more efficient and intelligent approach to software development.
+The web3infra-foundation/libra project represents a significant evolution in the Libra ecosystem, transforming it into an AI agent-native platform for streamlined version control. This innovative approach aims to leverage artificial intelligence capabilities to enhance development and infrastructure workflows, particularly in the realms of cryptocurrency and DevOps. By integrating AI into Libra's infrastructure, the project seeks to revolutionize the way developers collaborate and manage their codebases.
 
 ---
 

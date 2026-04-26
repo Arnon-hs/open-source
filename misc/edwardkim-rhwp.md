@@ -1,6 +1,6 @@
 # edwardkim/rhwp
 
-[![Stars](https://img.shields.io/github/stars/edwardkim/rhwp?style=flat-square&color=yellow)](https://github.com/edwardkim/rhwp/stargazers) [![Forks](https://img.shields.io/github/forks/edwardkim/rhwp?style=flat-square&color=blue)](https://github.com/edwardkim/rhwp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edwardkim/rhwp?style=flat-square&color=yellow)](https://github.com/edwardkim/rhwp/stargazers) [![Forks](https://img.shields.io/github/forks/edwardkim/rhwp?style=flat-square&color=blue)](https://github.com/edwardkim/rhwp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 아래한글 hwp viewer and editor by rust and wasm
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 441 |
+| ⭐ **Stars** | 2.6k |
+| 🍴 **Forks** | 444 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the rshelekhov/lazymake project:
-
-Lazymake is an open-source, modern Text User Interface (TUI) for Makefiles, offering interactive target selection, dependency visualization, and command safety analysis. This tool simplifies the process of navigating and understanding complex Makefile projects, making it easier to manage and optimize builds. By providing a user-friendly interface, Lazymake streamlines the development experience for Makefile users.
+The rshelekhov/lazymake project is an open-source, modern Terminal User Interface (TUI) designed for Makefiles. It offers interactive features such as target selection, dependency visualization, and command safety analysis, enhancing the usability and reliability of Makefiles. This project aims to simplify the build process and reduce the learning curve for users working with Makefiles.
 
 ---
 

@@ -1,17 +1,17 @@
 # cloveric/cc-telegram-bridge
 
-[![Stars](https://img.shields.io/github/stars/cloveric/cc-telegram-bridge?style=flat-square&color=yellow)](https://github.com/cloveric/cc-telegram-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/cloveric/cc-telegram-bridge?style=flat-square&color=blue)](https://github.com/cloveric/cc-telegram-bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloveric/cc-telegram-bridge?style=flat-square&color=yellow)](https://github.com/cloveric/cc-telegram-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/cloveric/cc-telegram-bridge?style=flat-square&color=blue)](https://github.com/cloveric/cc-telegram-bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Real Claude Code & Codex CLI on Telegram — runs their native harness directly, no reimplemented API wrappers. Sessions, memory, tools, all built-in. Multi-bot Agent Bus, resume local sessions on your phone, voice input, file delivery, streaming, per-bot personality & budget. The most powerful way to run AI agents from anywhere.
+> Real Claude Code & Codex CLI on Telegram — native CLI harness with sessions, tools, multi-bot Agent Bus, voice input, streaming, and resume for local Claude sessions or Codex threads from your phone.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 149 |
+| ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · DevTools · Marketing
 
 ## 📝 Summary
 

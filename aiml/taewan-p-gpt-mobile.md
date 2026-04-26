@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Taewan-P/gpt_mobile is an open-source chat app for Android that enables users to receive answers from multiple Large Language Models (LLMs) simultaneously. This project allows developers to integrate their own AI client with API keys from various providers, including OpenAI, Anthropic, Google, and Ollama. It is built using Material3 and Compose, making it a versatile and customizable platform for AI-powered conversations.
+Here's a brief summary for the Taewan-P/gpt_mobile project:
+
+Taewan-P/gpt_mobile is an open-source, Android-based chat app that allows users to receive answers from multiple Large Language Models (LLMs) simultaneously. This customizable app supports various AI clients, including OpenAI, Anthropic, Google, and Ollama, and can be integrated with any API key. Built with Material3 and Compose, Taewan-P/gpt_mobile offers a seamless and user-friendly experience for interacting with multiple LLMs at once.
 
 ---
 

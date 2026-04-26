@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/blacknon/lssh?style=flat-square&color=yellow)](https://github.com/blacknon/lssh/stargazers) [![Forks](https://img.shields.io/github/forks/blacknon/lssh?style=flat-square&color=blue)](https://github.com/blacknon/lssh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> TUI SSH client Suite: list-based  host selection, parallel sessions, multi-hop proxying, and port forwarding. SSH/SCP/SFTP etc. Written in Go.
+> A terminal-native remote access suite for SSH, cloud inventories, provider-backed connectors, parallel commands, mux workspaces, file transfer, and monitoring.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 302 |
-| 🍴 **Forks** | 31 |
+| 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
@@ -21,13 +21,11 @@ _no topics_
 
 ## 🎯 Categories
 
-Frontend · Backend · DevTools
+Frontend
 
 ## 📝 Summary
 
-Here is a brief summary for the blacknon/lssh project:
-
-lssh is a feature-rich, open-source TUI (Text User Interface) SSH client suite written in Go. It offers a user-friendly list-based host selection, parallel sessions, multi-hop proxying, and port forwarding capabilities, making it an ideal tool for complex SSH operations. With support for SSH, SCP, SFTP, and more, lssh provides a powerful and flexible way to manage remote connections.
+The lssh project is an open-source, user-friendly TUI (Text User Interface) SSH client suite written in Go. It provides a range of advanced features, including list-based host selection, parallel sessions, multi-hop proxying, and port forwarding, making it an efficient tool for remote system administration and file transfer. With support for SSH, SCP, and SFTP protocols, lssh offers a seamless and secure experience for users.
 
 ---
 

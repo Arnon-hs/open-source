@@ -1,6 +1,6 @@
 # lindell/multi-gitter
 
-[![Stars](https://img.shields.io/github/stars/lindell/multi-gitter?style=flat-square&color=yellow)](https://github.com/lindell/multi-gitter/stargazers) [![Forks](https://img.shields.io/github/forks/lindell/multi-gitter?style=flat-square&color=blue)](https://github.com/lindell/multi-gitter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lindell/multi-gitter?style=flat-square&color=yellow)](https://github.com/lindell/multi-gitter/stargazers) [![Forks](https://img.shields.io/github/forks/lindell/multi-gitter?style=flat-square&color=blue)](https://github.com/lindell/multi-gitter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Update multiple repositories in with one command
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

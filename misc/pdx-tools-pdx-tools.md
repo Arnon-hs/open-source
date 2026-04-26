@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, pdx-tools, allows users to analyze and visualize their Euro Truck Simulator 2 (EU4) save data through maps, graphs, and tables. It also enables users to participate in a leaderboard for speed runs, fostering a community of competitive players. With the ability to upload and share saves, users can collaborate and learn from each other's experiences.
+The pdx-tools open-source project is a community-driven toolset for visualizing and analyzing EU4 game saves. It allows users to upload and share their saves, view maps, graphs, and tables of their progress, and even compete in a leaderboard of achievement speed runs. This project provides a unique platform for EU4 players to collaborate and showcase their skills.
 
 ---
 

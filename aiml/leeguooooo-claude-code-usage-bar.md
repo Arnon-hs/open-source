@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Claude Code Usage Bar is an open-source project that provides a real-time statusline for Claude Code, offering insights into token usage, remaining budget, burn rate, and depletion time. This tool is designed for developers working with Claude Code, enabling them to monitor and track their AI model's performance in real-time. It is categorized under AI/ML, Frontend, and DevTools.
+Claude Code Usage Bar is an open-source project that provides real-time status updates for Claude Code, a powerful AI tool. It displays essential metrics such as token usage, remaining budget, burn rate, and depletion time in the statusline, enabling users to monitor their AI usage in real-time. This project is ideal for developers working with Claude Code, offering a convenient and intuitive way to track their AI expenses.
 
 ---
 

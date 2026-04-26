@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "changkun/wallfacer":
+Here's a brief summary of the open-source project:
 
-Wallfacer is an open-source, autonomous engineering platform that integrates chat, specification management, task tracking, and code development into a single, user-friendly interface. This platform allows users to choose between full autonomy, where the system takes control, and full control, where users maintain complete decision-making authority. By leveraging AI/ML and orchestration capabilities, Wallfacer aims to streamline engineering workflows and improve overall productivity.
+The changkun/wallfacer project is an open-source autonomous engineering platform that combines chat, specifications, tasks, and code management. This platform enables users to experience full autonomy when trusted and full control when needed, allowing for flexibility and adaptability in software development and engineering processes. With its Orchestration, AI/ML, and DevTools capabilities, wallfacer streamlines complex engineering workflows and enhances productivity.
 
 ---
 
