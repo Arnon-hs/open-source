@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project in English:
+Here's a brief summary for the open-source project:
 
-Kiro Account Manager is an open-source tool that simplifies the management of Kiro IDE accounts, allowing for easy switching and quota monitoring. This project aims to provide a convenient and efficient way to manage Kiro IDE accounts, making it easier for developers to work on their projects. The official website for the project can be found at https://kiro-website-six.vercel.app.
+The Kiro Account Manager is an intelligent account management tool designed for use with the Kiro IDE. It offers convenient one-click switching between accounts and real-time quota monitoring, making it easier to manage multiple Kiro accounts. This open-source project aims to simplify account management for Kiro IDE users.
 
 ---
 

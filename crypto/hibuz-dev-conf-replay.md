@@ -27,7 +27,7 @@ Crypto · AI/ML · DevTools
 
 Here's a brief summary of the open-source project:
 
-This repository, dev-conf-replay, aggregates links to video replays of recent domestic IT seminars and developer conferences in South Korea, providing a centralized resource for interested individuals. The project focuses on categories such as cryptocurrency, AI/ML, and developer tools, making it a valuable resource for those looking to stay updated on the latest industry trends and developments. By collecting these links in one place, dev-conf-replay aims to facilitate knowledge sharing and community engagement within the South Korean tech scene.
+The dev-conf-replay repository is an open-source initiative that aggregates links for replaying Korean IT seminars and developer conferences, providing a centralized hub for developers to revisit past talks. This collection covers a range of categories, including crypto, AI/ML, and DevTools. The repository aims to facilitate knowledge sharing and accessibility among the developer community.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Nexu is an open-source, desktop client for OpenClaw that enables seamless communication between your AI model and popular messaging platforms like WeChat, Feishu, Slack, and Discord. This user-friendly application allows for secure bridging and works in conjunction with various large language models, including Claude Code and Codex. With features like BYOK, Oauth, and local-first, Nexu prioritizes user security and accessibility.
+The nexu project is an open-source desktop client that enables seamless integration between OpenClaw agents and popular communication platforms, including WeChat, Feishu, Slack, and Discord. This client allows for secure and local-first interactions, supporting BYOK (Bring Your Own Key) and OAuth authentication methods, as well as compatibility with various Large Language Models (LLMs) like Claude Code and Codex.
 
 ---
 

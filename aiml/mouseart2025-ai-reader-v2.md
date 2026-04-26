@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary in English:
+Here's a 2-3 sentence summary for the AI-Reader-V2 project:
 
-The AI Reader V2 is an open-source tool for analyzing and visualizing Chinese novels using AI. It provides a comprehensive set of features, including character relationship diagrams, geographical maps, timelines, and an encyclopedia-style knowledge base. The tool supports both local Ollama models and 10 major cloud-based LLMs, built using a stack of React, FastAPI, and SQLite.
+AI-Reader-V2 is an open-source tool for analyzing and visualizing Chinese novels using AI. It provides a comprehensive set of features, including character relationship maps, geographical maps, timelines, and encyclopedias, making it an invaluable resource for literature enthusiasts and researchers. Built with React, FastAPI, and SQLite, the tool supports both local and cloud-based LLMs, including Ollama, and 10 other major cloud providers.
 
 ---
 

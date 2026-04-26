@@ -25,7 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The Anda-Hippocampus project is an open-source, graph-based memory system designed for autonomous AI agents. This innovative system is influenced by biological processes, incorporating sleep-based memory consolidation to enhance AI learning and adaptation capabilities. Powered by KIP (Knowledge and Interaction Platform) and AndaDB, Anda-Hippocampus enables efficient and scalable memory management for AI applications.
+Here is a brief summary of the project:
+
+Anda-Hippocampus is an open-source, graph-based memory system designed for autonomous AI agents. Powered by KIP and AndaDB, this native memory system incorporates bio-inspired sleep-based memory consolidation to improve the efficiency and effectiveness of AI decision-making. By leveraging insights from neuroscience, Anda-Hippocampus enables AI agents to learn and adapt more realistically and robustly.
 
 ---
 

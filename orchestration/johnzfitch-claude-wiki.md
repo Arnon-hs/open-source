@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The Claude Wiki is an open-source project that serves as the official documentation for the Claude AI platform. This comprehensive resource comprises over 2000 Markdown files, sourced from first-party sources and organized across 24 categories, and is refreshed daily. The documentation covers various aspects of Claude, including AI/ML, Frontend, and Orchestration, providing a valuable resource for developers and users alike.
+The claude-wiki repository is an open-source project that hosts the official documentation for Claude, a multi-agent orchestration platform. The repository contains over 2000 Markdown files across 24 categories, sourced from first-party sources and refreshed daily. This extensive documentation provides valuable insights into Claude's AI/ML and frontend capabilities.
 
 ---
 

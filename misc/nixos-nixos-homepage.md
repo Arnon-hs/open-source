@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The NixOS homepage project is an open-source repository containing the source code for the official NixOS website. It provides a collaborative platform for developers to contribute to the website's content and maintenance. By hosting the source code publicly, the project promotes transparency and community engagement.
+The NixOS/nixos-homepage repository is the source code for the official NixOS website, nixos.org. This project contains the necessary files and templates to build and maintain the website, providing a centralized hub for information and resources related to the NixOS operating system. It is an open-source project, allowing developers and contributors to collaborate and improve the website's content and functionality.
 
 ---
 

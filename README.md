@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **7033** |
+| 🗂️ **Total projects** | **7086** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2691 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1274 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 699 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 618 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 404 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 399 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 244 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 2709 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1284 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 706 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 625 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 409 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 401 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 246 | [Browse →](./crypto/) |
 | 📊 **Data** | 161 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 141 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 106 | [Browse →](./mobile/) |
 | 💳 **Payments** | 98 | [Browse →](./payments/) |
-| 📈 **Trading** | 73 | [Browse →](./trading/) |
+| 📈 **Trading** | 74 | [Browse →](./trading/) |
 | 🔐 **Security** | 70 | [Browse →](./security/) |
 | ✨ **Design** | 26 | [Browse →](./design/) |
 | 🎯 **Product** | 20 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 9 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 10 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Gallopsled/pwntools](./misc/gallopsled-pwntools.md) | ⭐ 13.4k | Misc |
-| 2 | [containerd/containerd](./aiml/containerd-containerd.md) | ⭐ 20.6k | AI/ML |
-| 3 | [invoiceninja/invoiceninja](./payments/invoiceninja-invoiceninja.md) | ⭐ 9.7k | Payments |
-| 4 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 5 | [azerothcore/azerothcore-wotlk](./backend/azerothcore-azerothcore-wotlk.md) | ⭐ 8.2k | Backend |
-| 6 | [XTLS/Xray-core](./misc/xtls-xray-core.md) | ⭐ 37.9k | Misc |
-| 7 | [google/syzkaller](./aiml/google-syzkaller.md) | ⭐ 6.1k | AI/ML |
-| 8 | [ipython/ipython](./aiml/ipython-ipython.md) | ⭐ 16.7k | AI/ML |
-| 9 | [ory/kratos](./aiml/ory-kratos.md) | ⭐ 13.6k | AI/ML |
-| 10 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 44.7k | Orchestration |
+| 1 | [Tyrrrz/YoutubeDownloader](./marketing/tyrrrz-youtubedownloader.md) | ⭐ 14.8k | Marketing |
+| 2 | [wailsapp/wails](./aiml/wailsapp-wails.md) | ⭐ 33.9k | AI/ML |
+| 3 | [Gallopsled/pwntools](./misc/gallopsled-pwntools.md) | ⭐ 13.4k | Misc |
+| 4 | [containerd/containerd](./aiml/containerd-containerd.md) | ⭐ 20.6k | AI/ML |
+| 5 | [invoiceninja/invoiceninja](./payments/invoiceninja-invoiceninja.md) | ⭐ 9.7k | Payments |
+| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 7 | [azerothcore/azerothcore-wotlk](./backend/azerothcore-azerothcore-wotlk.md) | ⭐ 8.2k | Backend |
+| 8 | [XTLS/Xray-core](./misc/xtls-xray-core.md) | ⭐ 37.9k | Misc |
+| 9 | [google/syzkaller](./aiml/google-syzkaller.md) | ⭐ 6.1k | AI/ML |
+| 10 | [ipython/ipython](./aiml/ipython-ipython.md) | ⭐ 16.7k | AI/ML |
 
 ## 🚀 How it works
 

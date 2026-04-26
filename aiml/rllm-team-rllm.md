@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The rllm-team/rllm project is an open-source PyTorch library designed to facilitate Relational Table Learning with Large Language Models (LLMs). This library enables the integration of LLMs with relational tables, allowing for more efficient and effective processing of complex relational data. By leveraging the capabilities of LLMs, rllm-team/rllm aims to improve performance in various AI and machine learning applications.
+The rllm-team/rllm project is an open-source PyTorch library that facilitates Relational Table Learning with Large Language Models (LLMs), enabling researchers and developers to efficiently integrate LLMs into relational table reasoning tasks. This library provides a flexible and modular framework for experimenting with various LLM architectures and relational table learning methods. By leveraging rllm, users can accelerate the development of AI models that can effectively reason with relational data.
 
 ---
 

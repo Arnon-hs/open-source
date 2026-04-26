@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The unit8co/darts project is an open-source Python library designed for user-friendly forecasting and anomaly detection on time series data. It provides a simple and intuitive interface for users to build and evaluate models, making it an ideal choice for both beginners and experienced data scientists. With darts, users can quickly and accurately analyze and predict complex time series patterns.
+The Darts library is an open-source Python package that simplifies time series forecasting and anomaly detection. It offers a user-friendly interface and a range of models for predicting future values in a series, making it a valuable tool for professionals and researchers alike. With Darts, users can efficiently analyze and forecast complex temporal data.
 
 ---
 

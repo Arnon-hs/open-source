@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-SageMath is an open-source mathematics software system that provides a comprehensive platform for various mathematical computations and research. It offers a wide range of capabilities, including symbolic, numerical, and geometric computations, as well as support for various programming languages and interfaces. By leveraging SageMath, users can explore and interact with mathematical concepts in a flexible and powerful way.
+SageMath is an open-source, comprehensive mathematics software system that provides a unified platform for various mathematical disciplines. The project offers a broad range of features, including symbolic computation, algebraic geometry, calculus, and more, making it a valuable tool for researchers, students, and professionals in the field. SageMath is built on top of Python and utilizes a variety of open-source libraries to deliver a powerful and flexible mathematical environment.
 
 ---
 

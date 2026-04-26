@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, "llm-wiki-claude-skills," enables users to transform their markdown repositories into dynamic knowledge wikis by integrating Claude AI skills. Inspired by the concept of compounding knowledge, this project facilitates the growth of knowledge with each conversation, allowing users to harness the power of AI-driven knowledge management. It is compatible with popular tools like Obsidian, Logseq, and can be installed via a user-friendly GUI.
+The LLM-Wiki-Claude-Skills project is an open-source initiative that transforms your existing markdown vault into a dynamic knowledge wiki. This project, inspired by Karpathy's concept, empowers users to grow their knowledge compound with each conversation, utilizing Claude AI agent skills. It seamlessly integrates with popular note-taking tools like Obsidian and Logseq, or can be used on a local drive, offering a user-friendly GUI installation process.
 
 ---
 

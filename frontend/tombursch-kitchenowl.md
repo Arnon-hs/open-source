@@ -25,7 +25,9 @@ Frontend · Backend · Mobile
 
 ## 📝 Summary
 
-KitchenOwl is a comprehensive, self-hosted grocery list and recipe management system. Built with Flask as the backend and Flutter for the frontend, it allows users to easily add items to their shopping list and create recipes based on their cooking preferences. This open-source project offers a user-friendly solution for managing household grocery needs and meal planning.
+Here's a brief summary for the KitchenOwl project:
+
+KitchenOwl is a self-hosted grocery list and recipe manager that allows users to easily organize their shopping and cooking needs. With a user-friendly interface built using Flutter for the frontend and Flask for the backend, users can add items to their shopping list and create custom recipes with ease. This open-source project provides a convenient and customizable solution for home cooks and families.
 
 ---
 

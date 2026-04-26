@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**73 projects** in this category.
+**74 projects** in this category.
 
 ## Projects
 
@@ -49,38 +49,39 @@
 | 39 | [freqtrade/technical](./freqtrade-technical.md) | ⭐ 996 | Python | 56/100 |
 | 40 | [himself65/finance-skills](./himself65-finance-skills.md) | ⭐ 1.3k | TypeScript | 56/100 |
 | 41 | [QMCPACK/qmcpack](./qmcpack-qmcpack.md) | ⭐ 383 | C++ | 55/100 |
-| 42 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 446 | Rust | 54/100 |
-| 43 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 576 | Swift | 54/100 |
-| 44 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 404 | Python | 54/100 |
-| 45 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
-| 46 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 773 | Rust | 54/100 |
-| 47 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 303 | TypeScript | 53/100 |
-| 48 | [quantumaikr/quant.cpp](./quantumaikr-quant.cpp.md) | ⭐ 384 | C | 53/100 |
-| 49 | [tolinkshare2/tolinkshare2.github.io](./tolinkshare2-tolinkshare2.github.io.md) | ⭐ 382 | — | 53/100 |
-| 50 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
-| 51 | [joaquinbejar/OptionStratLib](./joaquinbejar-optionstratlib.md) | ⭐ 195 | Rust | 52/100 |
-| 52 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 152 | Rust | 51/100 |
-| 53 | [cclib/cclib](./cclib-cclib.md) | ⭐ 403 | Python | 51/100 |
-| 54 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 79 | Python | 51/100 |
-| 55 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 120 | Go | 51/100 |
-| 56 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 53 | Python | 51/100 |
-| 57 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 87 | Python | 51/100 |
-| 58 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 157 | Rust | 51/100 |
-| 59 | [flukelaster/ai-trading-agent](./flukelaster-ai-trading-agent.md) | ⭐ 35 | Python | 51/100 |
-| 60 | [tensorcircuit/tensorcircuit-ng](./tensorcircuit-tensorcircuit-ng.md) | ⭐ 70 | Python | 51/100 |
-| 61 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 132 | Python | 51/100 |
-| 62 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 31 | Shell | 50/100 |
-| 63 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 24 | Swift | 50/100 |
-| 64 | [quantamixsol/graqle](./quantamixsol-graqle.md) | ⭐ 22 | Python | 50/100 |
-| 65 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
-| 66 | [LLMQuant/quant-mind](./llmquant-quant-mind.md) | ⭐ 151 | Python | 50/100 |
-| 67 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 28 | Python | 50/100 |
-| 68 | [No-Trade-No-Life/Yuan](./no-trade-no-life-yuan.md) | ⭐ 351 | TypeScript | 48/100 |
-| 69 | [tqec/tqec](./tqec-tqec.md) | ⭐ 358 | Python | 48/100 |
-| 70 | [rivar0107/autostrategy](./rivar0107-autostrategy.md) | ⭐ 14 | Python | 48/100 |
-| 71 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 300 | Rust | 47/100 |
-| 72 | [twjackysu/TWSEMCPServer](./twjackysu-twsemcpserver.md) | ⭐ 74 | Python | 47/100 |
-| 73 | [itsubaki/q](./itsubaki-q.md) | ⭐ 279 | Go | 46/100 |
+| 42 | [IntQuant/noita_entangled_worlds](./intquant-noita-entangled-worlds.md) | ⭐ 1.1k | Rust | 54/100 |
+| 43 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 446 | Rust | 54/100 |
+| 44 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 576 | Swift | 54/100 |
+| 45 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 404 | Python | 54/100 |
+| 46 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
+| 47 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 773 | Rust | 54/100 |
+| 48 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 303 | TypeScript | 53/100 |
+| 49 | [quantumaikr/quant.cpp](./quantumaikr-quant.cpp.md) | ⭐ 384 | C | 53/100 |
+| 50 | [tolinkshare2/tolinkshare2.github.io](./tolinkshare2-tolinkshare2.github.io.md) | ⭐ 382 | — | 53/100 |
+| 51 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
+| 52 | [joaquinbejar/OptionStratLib](./joaquinbejar-optionstratlib.md) | ⭐ 195 | Rust | 52/100 |
+| 53 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 152 | Rust | 51/100 |
+| 54 | [cclib/cclib](./cclib-cclib.md) | ⭐ 403 | Python | 51/100 |
+| 55 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 79 | Python | 51/100 |
+| 56 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 120 | Go | 51/100 |
+| 57 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 53 | Python | 51/100 |
+| 58 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 87 | Python | 51/100 |
+| 59 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 157 | Rust | 51/100 |
+| 60 | [flukelaster/ai-trading-agent](./flukelaster-ai-trading-agent.md) | ⭐ 35 | Python | 51/100 |
+| 61 | [tensorcircuit/tensorcircuit-ng](./tensorcircuit-tensorcircuit-ng.md) | ⭐ 70 | Python | 51/100 |
+| 62 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 132 | Python | 51/100 |
+| 63 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 31 | Shell | 50/100 |
+| 64 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 24 | Swift | 50/100 |
+| 65 | [quantamixsol/graqle](./quantamixsol-graqle.md) | ⭐ 22 | Python | 50/100 |
+| 66 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
+| 67 | [LLMQuant/quant-mind](./llmquant-quant-mind.md) | ⭐ 151 | Python | 50/100 |
+| 68 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 28 | Python | 50/100 |
+| 69 | [No-Trade-No-Life/Yuan](./no-trade-no-life-yuan.md) | ⭐ 351 | TypeScript | 48/100 |
+| 70 | [tqec/tqec](./tqec-tqec.md) | ⭐ 358 | Python | 48/100 |
+| 71 | [rivar0107/autostrategy](./rivar0107-autostrategy.md) | ⭐ 14 | Python | 48/100 |
+| 72 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 300 | Rust | 47/100 |
+| 73 | [twjackysu/TWSEMCPServer](./twjackysu-twsemcpserver.md) | ⭐ 74 | Python | 47/100 |
+| 74 | [itsubaki/q](./itsubaki-q.md) | ⭐ 279 | Go | 46/100 |
 
 ---
 

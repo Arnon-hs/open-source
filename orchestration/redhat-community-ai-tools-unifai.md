@@ -27,7 +27,7 @@ Orchestration · AI/ML · Frontend
 
 Here's a brief summary for the UnifAI project:
 
-UnifAI is an open-source, production-grade multi-agent orchestration engine that allows users to compose complex workflows from a pluggable catalog of Agents, LLMs, tools, and retrievers. With support for both local execution and distributed deployment, UnifAI enables users to build and run AI-powered workflows efficiently. Its visual drag-and-drop blueprint builder and built-in RAG pipeline make it a powerful tool for enterprise knowledge retrieval and AI/ML development.
+UnifAI is an open-source, production-grade multi-agent orchestration engine that enables users to compose complex workflows from a pluggable catalog of agents, languages models, and tools. With features like a built-in RAG pipeline for enterprise knowledge retrieval and support for A2A and MCP protocols, UnifAI streamlines AI/ML workflow execution locally or distributedly. Its visual drag-and-drop blueprint builder makes it easy to design and deploy scalable AI workflows.
 
 ---
 

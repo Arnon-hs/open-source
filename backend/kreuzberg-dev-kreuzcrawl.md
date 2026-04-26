@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-KreuzCrawl is a high-performance web crawling engine designed to efficiently navigate and extract data from websites. With bindings for 11 languages, it provides a versatile and accessible solution for developers to build web scraping applications. This open-source project aims to facilitate large-scale web data collection and processing.
+Here's a brief summary for the open-source project:
+
+KreuzCrawl is a high-performance web crawling engine designed to efficiently extract and process web data at scale. With bindings available for 11 languages, this versatile tool enables developers to integrate web crawling capabilities into a wide range of applications and projects. Its robust architecture makes it an ideal choice for developers seeking a reliable and scalable solution for web scraping tasks.
 
 ---
 

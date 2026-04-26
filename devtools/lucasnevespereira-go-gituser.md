@@ -25,9 +25,7 @@ DevTools · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the "lucasnevespereira/go-gituser" project:
-
-The "go-gituser" project is an open-source tool that simplifies switching between different Git user accounts, making it easier to manage multiple GitHub, GitLab, or other Git-based projects. By providing a convenient and efficient way to switch between accounts, developers can save time and reduce errors caused by manual account switching. This project is designed to streamline the workflow of developers who work on multiple projects with different Git user accounts.
+The lucasnevespereira/go-gituser project provides a simple and efficient means to switch between multiple Git accounts on a local machine. This open-source tool streamlines the process of managing multiple Git credentials, making it easier to work on various projects simultaneously. By using go-gituser, developers can save time and reduce errors associated with frequent Git account switching.
 
 ---
 

@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-Velocidex/velociraptor is an open-source security project designed for incident response and threat hunting. This tool helps organizations dig deeper into their security by providing a flexible and customizable framework for collecting, storing, and analyzing security data. With velociraptor, users can streamline their security operations and respond to threats more efficiently.
+Velocidex, also known as Velociraptor, is an open-source security project that enhances threat detection and response. Its primary goal is to provide deeper insights into security incidents, enabling more effective investigations and incident response. By analyzing system calls and other low-level data, Velociraptor helps organizations detect and contain advanced threats.
 
 ---
 

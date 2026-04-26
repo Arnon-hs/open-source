@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the Norish project:
+Here's a brief summary for the Norish project:
 
-Norish is an open-source, self-hosted recipe app designed to help families and friends manage their meal plans in real-time. This platform allows users to easily search, create, and organize their favorite recipes, making it a convenient solution for meal planning and collaboration. With Norish, users can access their recipe library from anywhere and share it with loved ones.
+Norish is an open-source, self-hosted recipe app designed for families and friends. This real-time platform allows users to collaborate, save, and discover new recipes together, making it easier to plan and organize meals. With Norish, users can access their recipe collections from anywhere and enjoy a seamless cooking experience.
 
 ---
 

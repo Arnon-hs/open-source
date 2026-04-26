@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The Deep Research AI Agent is an open-source project that aims to create a powerful AI assistant akin to Gemini or ChatGPT. Utilizing Next.js, Vercel AI SDK, and Exa Search API, this intelligent system enables users to generate follow-up questions, create optimized search queries, and compile comprehensive research reports. By harnessing the capabilities of these advanced technologies, users can streamline their research process and gather insights more efficiently.
+This open-source project, Deep-Research-AI-Agent, is a powerful AI system built using Next.js, Vercel AI SDK, and Exa Search API. It enables the generation of follow-up questions, crafting of optimal search queries, and compilation of comprehensive research reports. This intelligent agent aims to provide users with a robust research tool, comparable to Gemini or ChatGPT.
 
 ---
 

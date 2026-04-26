@@ -27,7 +27,7 @@ Backend · DevTools
 
 Here's a brief summary for the open-source project herrhotzenplotz/gcli:
 
-gcli is an open-source, portable command-line interface (CLI) tool that provides a unified interface to interact with various version control systems, including GitHub, GitLab, GitTea, Forgejo, and Bugzilla. This CLI tool enables developers to streamline their workflow and manage multiple repositories from a single interface. With gcli, users can simplify their development process and improve productivity.
+gcli is an open-source command-line interface (CLI) tool that provides a portable and unified access point for popular version control systems and project management platforms, including GitHub, GitLab, GitTea, Forgejo, and Bugzilla. This project enables users to interact with these systems in a standardized and streamlined manner, increasing productivity and convenience. With gcli, users can manage their projects and repositories more efficiently across different platforms from a single interface.
 
 ---
 

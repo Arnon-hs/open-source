@@ -25,9 +25,7 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The "awesome-molt-ecosystem" project provides a comprehensive and brutally honest guide to over 200 AI agent platforms, including tier ratings, economic information, and security vulnerabilities. This project aims to save users time and effort by registering on platforms that they may not have otherwise explored. The project also includes a bug bounty pipeline to further enhance the security of these platforms.
+The awesome-molt-ecosystem is an open-source project that provides a comprehensive guide to over 200 AI agent platforms, offering tier ratings, economic analysis, and information on security vulnerabilities. This project aims to simplify the process of exploring and comparing these platforms by offering a single, curated resource. It also includes a bug bounty pipeline and a breakdown of the economic model, making it a valuable tool for researchers and developers in the AI and crypto spaces.
 
 ---
 

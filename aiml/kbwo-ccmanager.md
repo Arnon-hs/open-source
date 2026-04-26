@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The kbwo/ccmanager project is an open-source session manager designed to handle coding agent sessions across multiple platforms, including Claude Code, Gemini CLI, and other AI-powered development tools. This versatile manager aims to streamline the development process by providing a centralized interface for managing agent sessions. By offering a unified management solution, developers can focus on their projects without the hassle of juggling multiple agent sessions.
+The kbwo/ccmanager project is an open-source session manager designed to facilitate the development and management of coding agents. It supports a variety of AI and CLIs, including Claude Code, Gemini CLI, and Codex CLI, allowing users to efficiently manage multiple coding sessions. This tool aims to streamline the workflow for developers utilizing these coding agents.
 
 ---
 

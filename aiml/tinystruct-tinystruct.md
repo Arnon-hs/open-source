@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Tinystruct is a lightweight, modular Java application framework that enables developers to build robust web and CLI applications efficiently and scalably. Designed for AI integration and plugin-based architecture, it allows for seamless creation of scalable solutions. This open-source framework simplifies application development, making it an ideal choice for developers working with AI and machine learning.
+Tinystruct is an open-source, lightweight Java framework for building web and CLI applications, optimized for AI integration and plugin-based architecture. This modular framework allows developers to create robust, efficient, and scalable solutions with ease, making it suitable for a wide range of applications. By leveraging tinystruct, developers can streamline their development process and focus on building innovative, AI-driven applications.
 
 ---
 

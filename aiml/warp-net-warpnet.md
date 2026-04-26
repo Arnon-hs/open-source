@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Warpnet is a decentralized social network built with Go, inspired by Twitter, that operates without central servers. Utilizing the Noise protocol for inter-node communication and local storage, Warpnet offers a censorship-resistant, scalable platform. This fully open-source project allows users to create and share content in a peer-to-peer network.
+Warpnet is a decentralized social network based on peer-to-peer principles, allowing users to connect and share information without relying on central servers. Built with the Go programming language and utilizing the Noise protocol, Warpnet prioritizes censorship-resistance, scalability, and open-source development. This platform aims to provide a secure and community-driven alternative to traditional social media platforms.
 
 ---
 

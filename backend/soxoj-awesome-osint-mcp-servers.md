@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-This open-source project, "awesome-osint-mcp-servers," is a curated list of Open-Source Intelligence (OSINT) MCP (Machine-Readable Censorship Products) servers. The project aims to provide a centralized and easily accessible resource for researchers and enthusiasts to explore and utilize MCP servers for various purposes. Contributions are encouraged through pull requests, making the list a dynamic and ever-evolving resource.
+This project, "awesome-osint-mcp-servers", is an open-source, curated list of OSINT (Open-Source Intelligence) MCP servers. It serves as a centralized resource for individuals and organizations to access and utilize MCP servers, which are crucial tools in various fields such as cybersecurity and digital forensics. The project welcomes contributions through pull requests, allowing it to stay up-to-date and comprehensive.
 
 ---
 
