@@ -1,6 +1,6 @@
 # Azure-Samples/get-started-with-ai-agents
 
-[![Stars](https://img.shields.io/github/stars/Azure-Samples/get-started-with-ai-agents?style=flat-square&color=yellow)](https://github.com/Azure-Samples/get-started-with-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Azure-Samples/get-started-with-ai-agents?style=flat-square&color=blue)](https://github.com/Azure-Samples/get-started-with-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Bicep-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure-Samples/get-started-with-ai-agents?style=flat-square&color=yellow)](https://github.com/Azure-Samples/get-started-with-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Azure-Samples/get-started-with-ai-agents?style=flat-square&color=blue)](https://github.com/Azure-Samples/get-started-with-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Bicep-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Basic sample for deploying AI agents web app with Azure AI Foundry and SDKs
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 322 |
-| 🍴 **Forks** | 583 |
+| ⭐ **Stars** | 323 |
+| 🍴 **Forks** | 584 |
 | 💻 **Language** | Bicep |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

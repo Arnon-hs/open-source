@@ -8,10 +8,10 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tikv/tikv](./tikv-tikv.md) | ⭐ 16.6k | Rust | 100/100 |
+| 1 | [matplotlib/matplotlib](./matplotlib-matplotlib.md) | ⭐ 22.7k | Python | 100/100 |
 | 2 | [debezium/debezium](./debezium-debezium.md) | ⭐ 12.7k | Java | 100/100 |
-| 3 | [trinodb/trino](./trinodb-trino.md) | ⭐ 12.8k | Java | 100/100 |
-| 4 | [matplotlib/matplotlib](./matplotlib-matplotlib.md) | ⭐ 22.7k | Python | 100/100 |
+| 3 | [tikv/tikv](./tikv-tikv.md) | ⭐ 16.6k | Rust | 100/100 |
+| 4 | [trinodb/trino](./trinodb-trino.md) | ⭐ 12.8k | Java | 100/100 |
 | 5 | [pola-rs/polars](./pola-rs-polars.md) | ⭐ 38.3k | Rust | 100/100 |
 | 6 | [mickael-kerjean/filestash](./mickael-kerjean-filestash.md) | ⭐ 14.1k | Go | 100/100 |
 | 7 | [zalando/postgres-operator](./zalando-postgres-operator.md) | ⭐ 5.1k | Go | 100/100 |
@@ -27,16 +27,16 @@
 | 17 | [protocolbuffers/protobuf](./protocolbuffers-protobuf.md) | ⭐ 71.2k | C++ | 100/100 |
 | 18 | [apache/datafusion](./apache-datafusion.md) | ⭐ 8.6k | Rust | 100/100 |
 | 19 | [apache/beam](./apache-beam.md) | ⭐ 8.6k | Java | 100/100 |
-| 20 | [badges/shields](./badges-shields.md) | ⭐ 26.5k | JavaScript | 99/100 |
-| 21 | [apache/hive](./apache-hive.md) | ⭐ 6k | Java | 99/100 |
-| 22 | [scylladb/scylladb](./scylladb-scylladb.md) | ⭐ 15.5k | C++ | 99/100 |
-| 23 | [prometheus/prometheus](./prometheus-prometheus.md) | ⭐ 63.8k | Go | 99/100 |
-| 24 | [davisking/dlib](./davisking-dlib.md) | ⭐ 14.4k | C++ | 99/100 |
+| 20 | [davisking/dlib](./davisking-dlib.md) | ⭐ 14.4k | C++ | 99/100 |
+| 21 | [badges/shields](./badges-shields.md) | ⭐ 26.5k | JavaScript | 99/100 |
+| 22 | [apache/hive](./apache-hive.md) | ⭐ 6k | Java | 99/100 |
+| 23 | [scylladb/scylladb](./scylladb-scylladb.md) | ⭐ 15.5k | C++ | 99/100 |
+| 24 | [prometheus/prometheus](./prometheus-prometheus.md) | ⭐ 63.8k | Go | 99/100 |
 | 25 | [redpanda-data/connect](./redpanda-data-connect.md) | ⭐ 8.6k | Go | 99/100 |
 | 26 | [unit8co/darts](./unit8co-darts.md) | ⭐ 9.3k | Python | 99/100 |
 | 27 | [EndlessCheng/codeforces-go](./endlesscheng-codeforces-go.md) | ⭐ 8.4k | Go | 97/100 |
-| 28 | [apache/calcite](./apache-calcite.md) | ⭐ 5.1k | Java | 97/100 |
-| 29 | [pandas-dev/pandas](./pandas-dev-pandas.md) | ⭐ 48.6k | Python | 97/100 |
+| 28 | [pandas-dev/pandas](./pandas-dev-pandas.md) | ⭐ 48.6k | Python | 97/100 |
+| 29 | [apache/calcite](./apache-calcite.md) | ⭐ 5.1k | Java | 97/100 |
 | 30 | [opensearch-project/OpenSearch](./opensearch-project-opensearch.md) | ⭐ 12.8k | Java | 97/100 |
 | 31 | [gephi/gephi](./gephi-gephi.md) | ⭐ 6.5k | Java | 97/100 |
 | 32 | [vitessio/vitess](./vitessio-vitess.md) | ⭐ 20.9k | Go | 97/100 |
@@ -123,8 +123,8 @@
 | 113 | [oxigraph/oxigraph](./oxigraph-oxigraph.md) | ⭐ 1.6k | Rust | 57/100 |
 | 114 | [topling/toplingdb](./topling-toplingdb.md) | ⭐ 1k | C++ | 57/100 |
 | 115 | [IQSS/dataverse](./iqss-dataverse.md) | ⭐ 1k | Java | 57/100 |
-| 116 | [visit-dav/visit](./visit-dav-visit.md) | ⭐ 512 | C | 56/100 |
-| 117 | [unicode-org/cldr](./unicode-org-cldr.md) | ⭐ 1.1k | Java | 56/100 |
+| 116 | [unicode-org/cldr](./unicode-org-cldr.md) | ⭐ 1.1k | Java | 56/100 |
+| 117 | [visit-dav/visit](./visit-dav-visit.md) | ⭐ 512 | C | 56/100 |
 | 118 | [pass-with-high-score/blockads-android](./pass-with-high-score-blockads-android.md) | ⭐ 792 | Kotlin | 56/100 |
 | 119 | [tryandromeda/andromeda](./tryandromeda-andromeda.md) | ⭐ 812 | Rust | 56/100 |
 | 120 | [merenlab/anvio](./merenlab-anvio.md) | ⭐ 514 | Python | 56/100 |
@@ -133,23 +133,23 @@
 | 123 | [freelawproject/courtlistener](./freelawproject-courtlistener.md) | ⭐ 907 | Python | 55/100 |
 | 124 | [duggytuxy/Data-Shield_IPv4_Blocklist](./duggytuxy-data-shield-ipv4-blocklist.md) | ⭐ 566 | — | 55/100 |
 | 125 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 55/100 |
-| 126 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 497 | R | 55/100 |
-| 127 | [epam/Indigo](./epam-indigo.md) | ⭐ 385 | C++ | 55/100 |
-| 128 | [Desbordante/desbordante-core](./desbordante-desbordante-core.md) | ⭐ 475 | C++ | 55/100 |
+| 126 | [Desbordante/desbordante-core](./desbordante-desbordante-core.md) | ⭐ 475 | C++ | 55/100 |
+| 127 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 497 | R | 55/100 |
+| 128 | [epam/Indigo](./epam-indigo.md) | ⭐ 385 | C++ | 55/100 |
 | 129 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 606 | Rust | 55/100 |
 | 130 | [ad-freiburg/qlever](./ad-freiburg-qlever.md) | ⭐ 822 | C++ | 54/100 |
 | 131 | [florianl/go-tc](./florianl-go-tc.md) | ⭐ 524 | Go | 54/100 |
 | 132 | [PostHog/posthog-js](./posthog-posthog-js.md) | ⭐ 538 | TypeScript | 54/100 |
 | 133 | [apache/sedona-db](./apache-sedona-db.md) | ⭐ 445 | Rust | 54/100 |
 | 134 | [surrealdb/surrealdb.go](./surrealdb-surrealdb.go.md) | ⭐ 311 | Go | 53/100 |
-| 135 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 227 | Rust | 53/100 |
+| 135 | [gotempsh/temps](./gotempsh-temps.md) | ⭐ 421 | Rust | 53/100 |
 | 136 | [owensgroup/RXMesh](./owensgroup-rxmesh.md) | ⭐ 301 | Cuda | 53/100 |
-| 137 | [gotempsh/temps](./gotempsh-temps.md) | ⭐ 421 | Rust | 53/100 |
+| 137 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 227 | Rust | 53/100 |
 | 138 | [ormsgpack/ormsgpack](./ormsgpack-ormsgpack.md) | ⭐ 388 | Rust | 53/100 |
 | 139 | [replicase/pgcapture](./replicase-pgcapture.md) | ⭐ 281 | Go | 53/100 |
 | 140 | [techouse/sqlite3-to-mysql](./techouse-sqlite3-to-mysql.md) | ⭐ 458 | Python | 53/100 |
-| 141 | [SkBlaz/py3plex](./skblaz-py3plex.md) | ⭐ 181 | Python | 52/100 |
-| 142 | [Achiefs/fim](./achiefs-fim.md) | ⭐ 193 | Rust | 52/100 |
+| 141 | [Achiefs/fim](./achiefs-fim.md) | ⭐ 193 | Rust | 52/100 |
+| 142 | [SkBlaz/py3plex](./skblaz-py3plex.md) | ⭐ 181 | Python | 52/100 |
 | 143 | [nightscape/spark-excel](./nightscape-spark-excel.md) | ⭐ 523 | Scala | 52/100 |
 | 144 | [voxpupuli/g10k](./voxpupuli-g10k.md) | ⭐ 139 | Go | 52/100 |
 | 145 | [datafolklabs/cement](./datafolklabs-cement.md) | ⭐ 1.3k | Python | 51/100 |
@@ -176,7 +176,7 @@
 | 166 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 43/100 |
 | 167 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 42/100 |
 | 168 | [VaibhavAcharya/json-mason](./vaibhavacharya-json-mason.md) | ⭐ — | — | 39/100 |
-| 169 | [ramongougis/WaveletLM](./ramongougis-waveletlm.md) | ⭐ — | — | 39/100 |
+| 169 | [ramongougis/WaveletLM](./ramongougis-waveletlm.md) | ⭐ 2 | Python | 36/100 |
 
 ---
 

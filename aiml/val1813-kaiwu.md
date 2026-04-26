@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary:
+Here's a brief summary for the val1813/kaiwu project:
 
-Kaiwu is an open-source, one-click model deployment tool that supports a wide range of systems and mainstream models. This local deployment tool simplifies the process of deploying AI models, making it accessible to developers and enthusiasts alike. With Kaiwu, users can easily deploy and manage their AI models without worrying about complex setup or infrastructure requirements.
+Kaiwu is an open-source, one-click model deployment tool that supports various systems and mainstream AI models. It simplifies the process of deploying AI models locally, making it accessible to a wide range of users. With Kaiwu, developers can easily deploy and manage AI models, streamlining their workflow and enhancing model utilization.
 
 ---
 

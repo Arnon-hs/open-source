@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the Crypt0nly/plutus project:
-
-Plutus is an open-source, locally-hosted AI agent designed to provide AI-powered capabilities to users. This project enables users to leverage AI and machine learning technologies within their own ecosystems, promoting data privacy and control. By running Plutus locally, users can tap into AI-driven insights and functionality without compromising sensitive information.
+Plutus is an open-source local AI agent designed to provide a self-contained artificial intelligence solution. This project enables users to deploy AI capabilities on their local systems, offering a streamlined and private experience for AI-driven tasks and operations. With Plutus, individuals can leverage AI power without relying on cloud-based services.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 
 
-**11 projects** in this category.
+**12 projects** in this category.
 
 ## Projects
 
@@ -14,11 +14,12 @@
 | 4 | [apache/plc4x](./apache-plc4x.md) | ⭐ 1.6k | Java | 68/100 |
 | 5 | [museofficial/muse](./museofficial-muse.md) | ⭐ 1.2k | TypeScript | 60/100 |
 | 6 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 728 | Adblock Filter List | 57/100 |
-| 7 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 513 | PHP | 54/100 |
-| 8 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
-| 9 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 132 | MDX | 51/100 |
-| 10 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 119 | Rust | 51/100 |
-| 11 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 16 | — | 50/100 |
+| 7 | [maaslalani/sheets](./maaslalani-sheets.md) | ⭐ 2.1k | Go | 56/100 |
+| 8 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 513 | PHP | 54/100 |
+| 9 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
+| 10 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 132 | MDX | 51/100 |
+| 11 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 119 | Rust | 51/100 |
+| 12 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 16 | — | 50/100 |
 
 ---
 

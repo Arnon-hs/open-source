@@ -48,11 +48,11 @@
 | 38 | [himself65/finance-skills](./himself65-finance-skills.md) | ⭐ 1.3k | TypeScript | 57/100 |
 | 39 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 704 | Jupyter Notebook | 57/100 |
 | 40 | [QMCPACK/qmcpack](./qmcpack-qmcpack.md) | ⭐ 384 | C++ | 55/100 |
-| 41 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 578 | Swift | 54/100 |
-| 42 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 407 | Python | 54/100 |
-| 43 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
-| 44 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 774 | Rust | 54/100 |
-| 45 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 446 | Rust | 54/100 |
+| 41 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
+| 42 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 578 | Swift | 54/100 |
+| 43 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 407 | Python | 54/100 |
+| 44 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 446 | Rust | 54/100 |
+| 45 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 774 | Rust | 54/100 |
 | 46 | [IntQuant/noita_entangled_worlds](./intquant-noita-entangled-worlds.md) | ⭐ 1.1k | Rust | 54/100 |
 | 47 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 303 | TypeScript | 53/100 |
 | 48 | [quantumaikr/quant.cpp](./quantumaikr-quant.cpp.md) | ⭐ 384 | C | 53/100 |
@@ -63,26 +63,26 @@
 | 53 | [OnePunchMonk/AgentQuant](./onepunchmonk-agentquant.md) | ⭐ 90 | Python | 51/100 |
 | 54 | [tensorcircuit/tensorcircuit-ng](./tensorcircuit-tensorcircuit-ng.md) | ⭐ 70 | Python | 51/100 |
 | 55 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 152 | Rust | 51/100 |
-| 56 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 121 | Go | 51/100 |
-| 57 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 53 | Python | 51/100 |
-| 58 | [flukelaster/ai-trading-agent](./flukelaster-ai-trading-agent.md) | ⭐ 35 | Python | 51/100 |
+| 56 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 54 | Python | 51/100 |
+| 57 | [flukelaster/ai-trading-agent](./flukelaster-ai-trading-agent.md) | ⭐ 35 | Python | 51/100 |
+| 58 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 122 | Go | 51/100 |
 | 59 | [cclib/cclib](./cclib-cclib.md) | ⭐ 403 | Python | 51/100 |
 | 60 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 87 | Python | 51/100 |
 | 61 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 157 | Rust | 51/100 |
 | 62 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 132 | Python | 51/100 |
 | 63 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 86 | Python | 51/100 |
-| 64 | [wakatime/wakatime-cli](./wakatime-wakatime-cli.md) | ⭐ 428 | Go | 50/100 |
-| 65 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
-| 66 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 24 | Swift | 50/100 |
-| 67 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 28 | Python | 50/100 |
+| 64 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 28 | Python | 50/100 |
+| 65 | [wakatime/wakatime-cli](./wakatime-wakatime-cli.md) | ⭐ 428 | Go | 50/100 |
+| 66 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
+| 67 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 24 | Swift | 50/100 |
 | 68 | [quantamixsol/graqle](./quantamixsol-graqle.md) | ⭐ 22 | Python | 50/100 |
 | 69 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 32 | Shell | 50/100 |
 | 70 | [LLMQuant/quant-mind](./llmquant-quant-mind.md) | ⭐ 151 | Python | 50/100 |
 | 71 | [tqec/tqec](./tqec-tqec.md) | ⭐ 358 | Python | 48/100 |
 | 72 | [rivar0107/autostrategy](./rivar0107-autostrategy.md) | ⭐ 14 | Python | 48/100 |
 | 73 | [No-Trade-No-Life/Yuan](./no-trade-no-life-yuan.md) | ⭐ 351 | TypeScript | 48/100 |
-| 74 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 300 | Rust | 47/100 |
-| 75 | [twjackysu/TWSEMCPServer](./twjackysu-twsemcpserver.md) | ⭐ 74 | Python | 47/100 |
+| 74 | [twjackysu/TWSEMCPServer](./twjackysu-twsemcpserver.md) | ⭐ 74 | Python | 47/100 |
+| 75 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 300 | Rust | 47/100 |
 | 76 | [itsubaki/q](./itsubaki-q.md) | ⭐ 279 | Go | 46/100 |
 
 ---

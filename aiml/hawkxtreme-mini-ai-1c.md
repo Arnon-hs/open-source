@@ -1,6 +1,6 @@
 # hawkxtreme/mini-ai-1c
 
-[![Stars](https://img.shields.io/github/stars/hawkxtreme/mini-ai-1c?style=flat-square&color=yellow)](https://github.com/hawkxtreme/mini-ai-1c/stargazers) [![Forks](https://img.shields.io/github/forks/hawkxtreme/mini-ai-1c?style=flat-square&color=blue)](https://github.com/hawkxtreme/mini-ai-1c/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hawkxtreme/mini-ai-1c?style=flat-square&color=yellow)](https://github.com/hawkxtreme/mini-ai-1c/stargazers) [![Forks](https://img.shields.io/github/forks/hawkxtreme/mini-ai-1c?style=flat-square&color=blue)](https://github.com/hawkxtreme/mini-ai-1c/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > ИИ-ассистент для разработчиков 1С:Предприятие. Умный чат, анализ кода BSL и бесшовная интеграция с Конфигуратором
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 186 |
 | 🍴 **Forks** | 27 |
-| 💻 **Language** | Rust |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

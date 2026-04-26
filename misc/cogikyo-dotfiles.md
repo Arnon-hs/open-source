@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, "cogikyo/dotfiles," provides a personalized development environment (PDE) tailored for Arch Linux users. The PDE offers a customized setup for developers, enhancing productivity and streamlining workflows. By leveraging this repository, users can easily replicate a comprehensive and optimized development environment.
+The cogikyo/dotfiles project is an open-source, Arch Linux-enabled Personalized Development Environment (PDE) tailored to streamline development workflows. This repository provides a set of customized configuration files and settings for various development tools, aiming to enhance productivity and simplify the development process. It's designed to be highly customizable and adaptable to individual developers' needs and preferences.
 
 ---
 

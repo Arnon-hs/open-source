@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-This open-source project is an educational tool for learning the Go programming language, mirroring the concept behind rustlings, a Rust learning platform. The project aims to provide a similar interactive experience for Go beginners, allowing them to practice and reinforce their understanding of the language. By using this tool, developers can improve their Go skills and become more proficient in the language.
+This open-source project is a Go language learning tool inspired by rustlings, which helped the creator learn Rust. The project aims to replicate the same interactive learning experience for Go, allowing users to practice their programming skills in a hands-on environment. It is a frontend-focused tool, suitable for those looking to improve their Go development abilities.
 
 ---
 

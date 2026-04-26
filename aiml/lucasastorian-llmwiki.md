@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the lucasastorian/llmwiki project:
-
-The lucasastorian/llmwiki project is an open-source implementation of Karpathy's LLM Wiki, enabling users to easily upload documents and leverage the power of AI writing tools. By integrating with Claude via the Model Collaboration Platform (MCP), users can have their wiki written automatically, streamlining knowledge management tasks. This project combines AI, machine learning, and backend development to create a seamless and efficient knowledge creation experience.
+The LLMWiki project is an open-source implementation of Andrej Karpathy's concept for an AI-powered wiki. It allows users to upload documents and connect their Claude account via MCP, enabling the system to generate content and create a personalized wiki. This project is a backend-focused AI/ML initiative that combines natural language processing with user-generated content.
 
 ---
 

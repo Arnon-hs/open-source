@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The LLM Wiki project is an open-source repository that utilizes a Karpathy-style architecture to create a knowledge base. It consists of two primary layers: a raw source material layer and a compiled wiki layer, with 'wikilint' enforcing a structured framework to ensure data consistency. This project serves as a tool for developers and researchers working with large language models (LLMs) to organize and maintain their knowledge bases.
+The LLM Wiki project provides a Karpathy-style knowledge management system for Large Language Models (LLMs). It consists of two primary layers: a raw, immutable source material layer, and a wiki layer that compiles and structures the knowledge. The wikilint tool enforces a consistent structure, making it easier to manage and maintain LLM-related knowledge.
 
 ---
 

@@ -25,9 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a 2-3 sentence summary for the open-source project:
 
-The ytm-player project is an open-source, text-based YouTube Music client that provides a user-friendly interface with customizable vim keybindings, allowing users to easily navigate and control their music library. Additionally, it features synced lyrics and cross-platform media key support, making it a convenient music experience for users. This project is ideal for those seeking a lightweight and keyboard-centric music player.
+The ytm-player is a user-friendly, open-source YouTube Music client that utilizes a text-based interface with vim keybindings, providing an intuitive and customizable user experience. This cross-platform media player also boasts the ability to display synced lyrics, allowing users to follow along with their favorite songs. With its robust feature set, ytm-player is an excellent option for those seeking a more interactive and user-centric music streaming experience.
 
 ---
 

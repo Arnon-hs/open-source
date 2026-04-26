@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The maestro project is an open-source conductor for managing cross-agent coding workflows, allowing for structured memory, seamless handoffs, and coordinated execution across various external CLIs, including Codex, Claude Code, and Gemini. This tool facilitates plan-approve-execute workflows, streamlining AI/ML development and collaboration. By leveraging maestro, developers can orchestrate complex coding tasks with greater efficiency and precision.
+Maestro is an open-source project that acts as a conductor for cross-agent coding workflows, enabling structured memory, seamless handoffs, and plan-approve-execute coordination across various external command-line interfaces (CLIs). This project caters to the needs of AI/ML and DevOps professionals, providing a scalable solution for orchestration and streamlined development. By integrating with tools like Codex, Claude Code, and Gemini, Maestro simplifies complex coding workflows and enhances productivity.
 
 ---
 

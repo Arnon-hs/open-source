@@ -25,7 +25,9 @@ Trading · Orchestration · AI/ML
 
 ## 📝 Summary
 
-The AgentQuant platform is an open-source, autonomous quantitative trading research tool that leverages AI agents and real market data to transform stock lists into fully backtested strategies. This platform eliminates the need for coding, allowing users to focus on strategy development and execution. By combining AI, mathematics, and market data, AgentQuant enables users to efficiently and effectively explore trading opportunities.
+Here's a brief summary for the AgentQuant project:
+
+AgentQuant is an open-source, autonomous quantitative trading research platform that utilizes AI agents to transform stock lists into fully backtested strategies. Leveraging real market data and mathematical formulations, this platform empowers users to create and test trading strategies without requiring any coding expertise. By streamlining the trading research process, AgentQuant facilitates data-driven decision making and enhances the efficiency of quantitative trading.
 
 ---
 

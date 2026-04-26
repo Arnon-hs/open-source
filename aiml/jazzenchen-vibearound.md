@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-VibeAround is an open-source project that enables developers to collaborate with their local AI agent from anywhere, allowing for seamless coding experiences. This project is built with the goal of fostering efficient and flexible AI-assisted coding. By providing a secure and accessible way to interact with local AI models, VibeAround aims to revolutionize the way developers work with AI.
+VibeAround is an open-source project that enables users to code with their local AI agent from anywhere, offering a flexible and accessible way to collaborate with AI. This project facilitates seamless communication between users and their AI agents, allowing for efficient and effective coding experiences. By bridging the gap between users and AI, VibeAround aims to enhance productivity and innovation in the field of AI/ML.
 
 ---
 

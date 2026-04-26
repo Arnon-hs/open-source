@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **7521** |
+| 🗂️ **Total projects** | **7600** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2887 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1390 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 754 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 651 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 428 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 421 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 256 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 2917 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1411 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 766 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 656 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 433 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 425 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 258 | [Browse →](./crypto/) |
 | 📊 **Data** | 169 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 143 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 112 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 111 | [Browse →](./mobile/) |
 | 💳 **Payments** | 105 | [Browse →](./payments/) |
 | 📈 **Trading** | 76 | [Browse →](./trading/) |
 | 🔐 **Security** | 72 | [Browse →](./security/) |
 | ✨ **Design** | 26 | [Browse →](./design/) |
 | 🎯 **Product** | 20 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 11 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 12 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [openscad/openscad](./misc/openscad-openscad.md) | ⭐ 9.3k | Misc |
-| 2 | [fatedier/frp](./backend/fatedier-frp.md) | ⭐ 106.1k | Backend |
-| 3 | [avajs/ava](./devtools/avajs-ava.md) | ⭐ 20.8k | DevTools |
-| 4 | [calcom/cal.diy](./aiml/calcom-cal.diy.md) | ⭐ 42.1k | AI/ML |
-| 5 | [bluewave-labs/Checkmate](./frontend/bluewave-labs-checkmate.md) | ⭐ 9.7k | Frontend |
-| 6 | [mbadolato/iTerm2-Color-Schemes](./misc/mbadolato-iterm2-color-schemes.md) | ⭐ 26.8k | Misc |
-| 7 | [Kong/insomnia](./aiml/kong-insomnia.md) | ⭐ 38.4k | AI/ML |
-| 8 | [saleor/saleor](./payments/saleor-saleor.md) | ⭐ 22.9k | Payments |
-| 9 | [tikv/tikv](./data/tikv-tikv.md) | ⭐ 16.6k | Data |
-| 10 | [rustfs/rustfs](./aiml/rustfs-rustfs.md) | ⭐ 26.5k | AI/ML |
+| 1 | [avajs/ava](./devtools/avajs-ava.md) | ⭐ 20.8k | DevTools |
+| 2 | [TanStack/table](./frontend/tanstack-table.md) | ⭐ 27.9k | Frontend |
+| 3 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 36.1k | Orchestration |
+| 4 | [n8n-io/n8n](./aiml/n8n-io-n8n.md) | ⭐ 185.7k | AI/ML |
+| 5 | [calcom/cal.diy](./aiml/calcom-cal.diy.md) | ⭐ 42.1k | AI/ML |
+| 6 | [sqlmapproject/sqlmap](./devtools/sqlmapproject-sqlmap.md) | ⭐ 37.1k | DevTools |
+| 7 | [btcpayserver/btcpayserver](./crypto/btcpayserver-btcpayserver.md) | ⭐ 7.5k | Crypto |
+| 8 | [BasedHardware/omi](./aiml/basedhardware-omi.md) | ⭐ 12.2k | AI/ML |
+| 9 | [jeecgboot/JeecgBoot](./orchestration/jeecgboot-jeecgboot.md) | ⭐ 46k | Orchestration |
+| 10 | [winsiderss/systeminformer](./security/winsiderss-systeminformer.md) | ⭐ 14.1k | Security |
 
 ## 🚀 How it works
 

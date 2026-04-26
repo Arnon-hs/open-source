@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Self-Learning Master's Curriculum for AI is an open-source project that aims to provide a structured learning path for individuals seeking to advance their knowledge in Artificial Intelligence (AI). This comprehensive resource offers a curated collection of study materials, including textbooks, research papers, and online courses, to help learners develop a deep understanding of AI concepts and techniques. By leveraging this curriculum, learners can gain expertise in AI and stay up-to-date with the latest developments in the field.
+The Self-Learning Master's Curriculum for AI is an open-source project that aims to provide a comprehensive framework for students to learn and master artificial intelligence (AI) and machine learning (ML) concepts. This project offers a structured curriculum and study plan, helping individuals to develop skills in AI and ML, from fundamentals to advanced topics. The project's open-source nature allows for community contributions and collaboration, making it a valuable resource for anyone interested in AI and ML education.
 
 ---
 

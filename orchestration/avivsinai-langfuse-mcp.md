@@ -25,9 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the avivsinai/langfuse-mcp project:
-
-Langfuse-mcp is an open-source Model Context Protocol (MCP) server that enhances debugging and observability capabilities for Langfuse by allowing AI agents to query its trace data. This server facilitates seamless integration between AI-driven debugging tools and Langfuse, enabling more efficient and effective issue resolution. By leveraging MCP, developers can unlock deeper insights into their applications and optimize their development workflows.
+The avivsinai/langfuse-mcp project is an open-source Model Context Protocol (MCP) server designed to enhance debugging and observability in Langfuse by enabling AI agents to query Langfuse trace data. This integration combines the power of AI with Langfuse's trace data capabilities, providing developers with valuable insights for optimized application performance. By leveraging MCP, developers can unlock advanced debugging and observability features.
 
 ---
 

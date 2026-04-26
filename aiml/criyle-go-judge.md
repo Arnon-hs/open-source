@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the criyle/go-judge project:
-
-criyle/go-judge is an open-source sandbox service built on Linux container technologies, providing a secure environment for running untrusted code. This project offers simple REST and gRPC APIs for easy integration into various applications, making it a versatile tool for developers working with AI/ML, frontend, and backend projects. By leveraging containers, criyle/go-judge ensures a high level of isolation and security for running code in a sandboxed environment.
+The criyle/go-judge project is an open-source sandbox service built on Linux container technologies, providing a secure environment for executing code. It features a simple REST API and a gRPC interface, allowing for easy integration with various applications. This project enables developers to create a sandboxed environment for testing and evaluating code, promoting secure and isolated development.
 
 ---
 

@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The PLFM_RADAR project is an open-source initiative that aims to develop a low-cost, phased array radar system operating at 10.5 GHz. This innovative system leverages the principles of Phased Linear Frequency Modulation (PLFM) to achieve high-performance radar capabilities at a significantly reduced cost. By making this technology available as an open-source project, researchers and enthusiasts can collaborate and advance the field of radar engineering.
+Here is a brief summary of the PLFM_RADAR project:
+
+The PLFM_RADAR project is an open-source, low-cost implementation of a 10.5 GHz phased array radar system based on the PLFM (Planar Leaky-Fed Microstrip) technology. This innovative project aims to provide a cost-effective and accessible radar solution, making it an attractive option for researchers, hobbyists, and enthusiasts looking to explore radar technology. By leveraging open-source principles, the project facilitates collaboration and further development of the system.
 
 ---
 

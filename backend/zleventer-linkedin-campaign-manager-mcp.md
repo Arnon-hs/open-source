@@ -25,7 +25,7 @@ Backend · Marketing
 
 ## 📝 Summary
 
-This open-source project provides an MCP (Macromedia ColdFusion Markup) server for LinkedIn Ads, aiming to simplify the process of interacting with LinkedIn's Ads API, which is notoriously complex and difficult to work with. By offering an MCP server, developers can more easily integrate LinkedIn Ads into their applications and workflows. This project aims to make LinkedIn Ads more accessible and manageable for developers.
+This open-source project provides a scalable and user-friendly MCP (Media Creation Platform) server specifically designed for LinkedIn Ads management, aiming to simplify the often complicated API process. The project seeks to alleviate the frustration associated with LinkedIn's Ads API by offering a more accessible solution for marketers and developers. By leveraging this MCP server, users can streamline their LinkedIn Ads workflow and enhance their overall advertising efficiency.
 
 ---
 

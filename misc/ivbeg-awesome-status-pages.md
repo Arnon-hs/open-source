@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, "awesome-status-pages," maintains an extensive list of status page open-source software, services, and public status pages of major internet companies. The project aims to provide a comprehensive resource for those seeking reliable alternatives or insights into the status pages of prominent online services. It serves as a centralized hub for users to discover and explore various status page solutions.
+The ivbeg/awesome-status-pages project is an open-source repository that curates a comprehensive list of status page open-source software, services, and public status pages from major internet companies. This collection serves as a valuable resource for individuals and organizations seeking to create or enhance their own status pages, ensuring high uptime and transparency. It also offers a unique glimpse into the status pages of prominent online services.
 
 ---
 

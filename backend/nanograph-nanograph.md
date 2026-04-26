@@ -25,7 +25,9 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-Nanograph is an open-source, on-device property graph database that allows for schema definition through code. This tool enables efficient graph storage and manipulation on a local machine, eliminating the need for a separate server. By providing a single command-line interface, it streamlines data management into a single folder, simplifying the development process.
+Here's a brief summary for the nanograph project:
+
+Nanograph is an open-source, on-device property graph database that allows users to define their schema using code. This schema-as-code approach simplifies database management, and the project aims to provide a seamless experience through a single command-line interface (CLI) that manages all database operations within a single folder. Its architecture is akin to DuckDB, a popular in-memory database, but tailored specifically for graph data.
 
 ---
 

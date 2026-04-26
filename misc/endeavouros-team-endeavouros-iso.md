@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-EndeavourOS-ISO is an open-source project that serves as the ISO framework for the EndeavourOS distribution, built upon the foundation of Arch-ISO. This framework provides a base for creating custom ISO images, allowing users to easily create and customize their EndeavourOS installations. It offers a flexible and modular approach to creating ISO images, catering to a wide range of user needs.
+EndeavourOS-ISO is an open-source project that provides a framework for building EndeavourOS ISO images based on the Arch-ISO architecture. This project offers a versatile foundation for creating customized ISOs, allowing users to customize their installation experience. By leveraging the Arch-ISO infrastructure, EndeavourOS-ISO facilitates the creation of tailored installation media for the EndeavourOS distribution.
 
 ---
 

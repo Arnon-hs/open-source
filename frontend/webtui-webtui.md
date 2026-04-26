@@ -1,6 +1,6 @@
 # webtui/webtui
 
-[![Stars](https://img.shields.io/github/stars/webtui/webtui?style=flat-square&color=yellow)](https://github.com/webtui/webtui/stargazers) [![Forks](https://img.shields.io/github/forks/webtui/webtui?style=flat-square&color=blue)](https://github.com/webtui/webtui/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webtui/webtui?style=flat-square&color=yellow)](https://github.com/webtui/webtui/stargazers) [![Forks](https://img.shields.io/github/forks/webtui/webtui?style=flat-square&color=blue)](https://github.com/webtui/webtui/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Modular CSS Library that brings the beauty of Terminal UIs to the browser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-RLix is an open-source project that provides a scheduling layer for concurrent Large Language Model (LLM) reinforcement learning (RL). This project enables the efficient training of LLMs in parallel, improving the speed and scalability of RL-based applications. By leveraging concurrent scheduling, RLix aims to accelerate the development of AI and machine learning models.
+RLix is an open-source project that provides a scheduling layer for concurrent Large Language Model (LLM) reinforcement learning (RL). This project enables efficient training of LLMs by leveraging concurrent processing to speed up the RL training process. By providing a scheduling layer, RLix optimizes the utilization of system resources for faster and more scalable LLM training.
 
 ---
 

@@ -8,12 +8,12 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.2k | Python | 100/100 |
-| 2 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
-| 3 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
-| 4 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.1k | C | 100/100 |
-| 5 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6.1k | C++ | 100/100 |
-| 6 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.5k | C | 100/100 |
+| 1 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.1k | C | 100/100 |
+| 2 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.5k | C | 100/100 |
+| 3 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.2k | Python | 100/100 |
+| 4 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
+| 5 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
+| 6 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6.1k | C++ | 100/100 |
 | 7 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
 | 8 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
 | 9 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 25.9k | Go | 100/100 |
@@ -59,8 +59,8 @@
 | 49 | [rfc-st/humble](./rfc-st-humble.md) | ⭐ 361 | Python | 53/100 |
 | 50 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 368 | Rust | 53/100 |
 | 51 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 322 | Python | 53/100 |
-| 52 | [dogtagpki/pki](./dogtagpki-pki.md) | ⭐ 488 | Java | 52/100 |
-| 53 | [theopenlane/core](./theopenlane-core.md) | ⭐ 240 | Go | 52/100 |
+| 52 | [theopenlane/core](./theopenlane-core.md) | ⭐ 240 | Go | 52/100 |
+| 53 | [dogtagpki/pki](./dogtagpki-pki.md) | ⭐ 488 | Java | 52/100 |
 | 54 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 252 | Go | 52/100 |
 | 55 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
 | 56 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |

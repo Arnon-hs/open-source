@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Infracost is an open-source project that provides accurate cloud cost estimates for Terraform in pull requests, enabling developers to shift FinOps left and make informed decisions about infrastructure deployments. By integrating with Terraform, Infracost automates cost calculations and provides actionable insights to optimize cloud spend. This helps teams reduce costs and improve financial visibility throughout the development process.
+Infracost is an open-source project that provides accurate cloud cost estimates for Terraform infrastructure configurations in pull requests. By integrating cost estimates into the development workflow, developers can make data-driven decisions and optimize cloud expenditure. This tool empowers FinOps (Financial Operations) teams to shift left and reduce unexpected cloud costs.
 
 ---
 

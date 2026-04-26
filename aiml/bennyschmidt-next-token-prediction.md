@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, "next-token-prediction," is a JavaScript library designed for building fast language and diffusion models. It enables developers to create and train AI models for predicting the next token in a sequence of text, facilitating applications such as text generation and language translation. By leveraging this library, users can accelerate their development of AI-powered language models and diffusion models.
+This open-source project, next-token-prediction, enables fast language and diffusion modeling in JavaScript. It allows developers to build and train models for predicting the next token in a sequence, facilitating applications such as text generation and auto-completion. By leveraging this project, users can create efficient and effective AI-powered tools for various frontend applications.
 
 ---
 

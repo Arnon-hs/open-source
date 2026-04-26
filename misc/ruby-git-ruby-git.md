@@ -1,6 +1,6 @@
 # ruby-git/ruby-git
 
-[![Stars](https://img.shields.io/github/stars/ruby-git/ruby-git?style=flat-square&color=yellow)](https://github.com/ruby-git/ruby-git/stargazers) [![Forks](https://img.shields.io/github/forks/ruby-git/ruby-git?style=flat-square&color=blue)](https://github.com/ruby-git/ruby-git/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ruby-git/ruby-git?style=flat-square&color=yellow)](https://github.com/ruby-git/ruby-git/stargazers) [![Forks](https://img.shields.io/github/forks/ruby-git/ruby-git?style=flat-square&color=blue)](https://github.com/ruby-git/ruby-git/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 528 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,9 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the YoKONCy/PeroCore project:
+Here's a brief summary for the open-source project:
 
-YoKONCy/PeroCore is an open-source AI digital pet project built using TypeScript, Rust, and Three.js. This high-performance pet features an integrated memory engine, enabling it to learn and adapt to user interactions. With its advanced technology stack, YoKONCy/PeroCore offers a unique and engaging AI-powered experience.
+YoKONCy/PeroCore is an open-source AI companion project built using a unique combination of TypeScript, Rust, and Three.js. This cutting-edge project features an integrated high-performance memory engine, enabling a seamless and engaging experience for users. By leveraging AI and 3D graphics technologies, PeroCore aims to revolutionize the way we interact with digital companions.
 
 ---
 

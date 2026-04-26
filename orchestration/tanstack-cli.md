@@ -25,7 +25,9 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-TanStack/cli is an open-source command-line interface (CLI) that streamlines development processes for projects built with TanStack, offering features such as project scaffolding, deployment of MCP servers, and agent skill installation. This tool serves as a central hub for managing project setup and configuration, simplifying the development workflow. By leveraging TanStack/cli, developers can efficiently manage project-related tasks and focus on building their applications.
+Here's a brief summary of the TanStack/cli project:
+
+The TanStack/cli is an open-source command-line interface (CLI) that provides a comprehensive toolset for project scaffolding, managing the Model-Controller-Proxy (MCP) server, and installing agent skills. Designed for orchestration and AI/ML applications, this CLI streamlines backend development and deployment processes. By leveraging TanStack/cli, developers can efficiently manage complex projects and automate repetitive tasks.
 
 ---
 

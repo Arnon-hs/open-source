@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-FrontierSWE is an open-source benchmark project designed to evaluate the efficiency and performance of coding tasks spanning long horizons. This project aims to simulate real-world scenarios where coding tasks require sustained effort over an extended period, allowing developers to assess their coding capabilities and strategies. By providing a standardized evaluation framework, FrontierSWE enables developers to compare and improve their coding skills in a more systematic and efficient manner.
+FrontierSWE is an open-source benchmarking project designed to evaluate the performance and efficiency of coding tasks under long-horizon scenarios. This project aims to provide a standardized framework for assessing the capabilities of various programming languages, algorithms, and development tools in handling complex, time-consuming tasks. By utilizing FrontierSWE, developers can compare and optimize their code for improved productivity and scalability.
 
 ---
 

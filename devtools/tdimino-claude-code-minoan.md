@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Claude Code Minoan is an open-source project that provides a comprehensive and curated configuration for the ~/.claude/ directory, aimed at streamlining professional development workflows. It includes 80 skills, 44 hooks, and CLI tools to enhance productivity and efficiency. This project is designed to help developers optimize their coding experience with a well-structured and customizable setup.
+Claude-Code-Minoan is an open-source project providing a comprehensive configuration for professional development workflows. This project includes 80 skills, 44 hooks, and CLI tools to streamline and enhance coding experiences. It offers a curated set of tools and automation scripts to boost productivity and efficiency in software development.
 
 ---
 
