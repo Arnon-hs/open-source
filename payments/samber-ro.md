@@ -27,7 +27,7 @@ Payments · Frontend · Backend
 
 Here's a brief summary for the samber/ro project:
 
-The samber/ro project provides a reactive programming framework for Go, offering a declarative and composable API for building event-driven applications. This framework is designed to simplify the development process by allowing developers to focus on the logic of their applications rather than low-level details. With samber/ro, developers can create scalable and efficient applications with ease.
+The samber/ro project is an open-source framework for building event-driven applications in Go, providing a declarative and composable API for reactive programming. It offers a robust foundation for crafting scalable and efficient systems that can handle complex streaming and reactive workloads. With its reactive programming paradigm, developers can create more intuitive and maintainable codebases.
 
 ---
 

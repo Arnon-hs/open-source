@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This project, bw-modeling-mcp, is an open-source MCP (Modeling and Configuration Platform) server designed to facilitate AI-assisted development in SAP Business Warehouse (BW)/4HANA through agentic AI capabilities. The platform aims to streamline development processes and enhance productivity by leveraging the power of artificial intelligence and machine learning. By utilizing this MCP server, developers can unlock more efficient and effective ways to model and configure their SAP BW/4HANA systems.
+The bw-modeling-mcp project is an open-source MCP server designed for agentic AI-assisted development in SAP BW/4HANA. This project enables developers to leverage AI capabilities for efficient SAP Business Warehouse modeling, streamlining the development process. By utilizing this MCP server, users can tap into the potential of AI-assisted development for their SAP BW/4HANA projects.
 
 ---
 

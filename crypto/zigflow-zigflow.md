@@ -25,7 +25,9 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Zigflow is an open-source project that enables the definition and execution of durable workflows using YAML files, powered by the Temporal workflow engine. This project provides a flexible and scalable solution for building complex, long-running processes that can handle failures and retries. By leveraging Temporal and YAML, Zigflow simplifies the development and management of workflows in various fields such as crypto, orchestration, and AI/ML.
+Here's a brief summary for the zigflow project:
+
+zigflow is an open-source platform that enables durable workflow definition in YAML, providing a flexible and scalable way to orchestrate complex processes. Built on top of the Temporal engine, zigflow offers a robust foundation for workflow management, suitable for applications in crypto, AI/ML, and other domains. This project empowers developers to create reliable and maintainable workflows.
 
 ---
 

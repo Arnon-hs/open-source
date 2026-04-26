@@ -25,9 +25,9 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the ccf-deadlines project:
+Here's a brief summary for the open-source project:
 
-ccf-deadlines is an open-source project that helps users track worldwide conference deadlines across various fields, including Crypto, AI/ML, and DevTools. This innovative tool offers a website interface, a Python command-line interface, and a WeChat applet, providing users with a comprehensive and accessible way to stay on top of important deadlines. By leveraging this project, users can efficiently plan and manage their research, learning, or professional goals.
+"ccf-deadlines is an open-source project that helps track worldwide conference deadlines across various fields, including crypto, AI/ML, and more. This project offers a website, Python CLI, and WeChat Applet, providing users with a comprehensive and agentically-driven platform to stay on top of deadlines. Its goal is to assist individuals in staying informed and organized about upcoming conferences and deadlines."
 
 ---
 

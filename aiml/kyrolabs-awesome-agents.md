@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The kyrolabs/awesome-agents project is an open-source collection of AI Agents, showcasing a curated list of notable and innovative artificial intelligence technologies. This comprehensive repository serves as a resource for researchers and developers to explore and learn from various AI Agent implementations, driving advancements in the field of artificial intelligence. It aims to promote knowledge sharing and collaboration within the AI community.
+The kyrolabs/awesome-agents project is an open-source, curated list of notable AI agents, providing a centralized resource for exploring and learning about the latest advancements in artificial intelligence. This repository aims to catalog a diverse range of AI agents, from language models to robotic systems, and everything in between. By aggregating these agents in one place, the project facilitates discovery and comparison of different AI solutions.
 
 ---
 

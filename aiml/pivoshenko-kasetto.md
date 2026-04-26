@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Kasetto is a declarative AI agent environment manager, developed using Rust. This open-source project provides a flexible and user-friendly environment for managing AI agents, making it easier for developers to create and deploy AI-powered applications. With its declarative approach, Kasetto simplifies the process of setting up and interacting with AI environments.
+Kasetto is an open-source, declarative AI agent environment manager written in Rust. It provides a framework for managing and interacting with AI agents in a structured and efficient manner. By leveraging Rust's performance and safety features, Kasetto aims to simplify the development and deployment of AI-powered applications.
 
 ---
 

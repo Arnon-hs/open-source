@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Grafbase is an open-source GraphQL Federation Gateway that enables seamless integration and querying of multiple backend services, allowing developers to build scalable and composable data APIs. It provides a unified interface for accessing various data sources, making it easier to manage complex data systems and improve application performance. With Grafbase, developers can create robust, data-driven applications with reduced complexity and increased flexibility.
+Grafbase is an open-source GraphQL Federation Gateway that enables seamless integration and querying of multiple data sources. It allows developers to build scalable and flexible GraphQL APIs by federating data from various sources, simplifying the process of data aggregation and manipulation. By using Grafbase, developers can create robust and performant GraphQL APIs with minimal overhead and complexity.
 
 ---
 

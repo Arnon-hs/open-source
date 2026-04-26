@@ -1,6 +1,6 @@
 # MartinGalway/C64_music
 
-[![Stars](https://img.shields.io/github/stars/MartinGalway/C64_music?style=flat-square&color=yellow)](https://github.com/MartinGalway/C64_music/stargazers) [![Forks](https://img.shields.io/github/forks/MartinGalway/C64_music?style=flat-square&color=blue)](https://github.com/MartinGalway/C64_music/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MartinGalway/C64_music?style=flat-square&color=yellow)](https://github.com/MartinGalway/C64_music/stargazers) [![Forks](https://img.shields.io/github/forks/MartinGalway/C64_music?style=flat-square&color=blue)](https://github.com/MartinGalway/C64_music/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Music source files from 1980's Commodore 64 games
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 311 |
+| ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Assembly |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | lobsters |
 

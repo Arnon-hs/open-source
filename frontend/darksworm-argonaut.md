@@ -25,7 +25,9 @@ Frontend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The argonaut project is an open-source, keyboard-first terminal UI for Argo CD, enabling users to browse applications, filter by clusters, namespaces, and projects, and perform live resource status tracking, syncs, and rollback operations from the comfort of their terminal. This tool streamlines the Argo CD experience, allowing users to work efficiently and effectively without needing to switch between multiple interfaces. By utilizing keyboard navigation, argonaut provides a seamless and productive experience for DevOps and infrastructure teams.
+Here's a 2-3 sentence summary for the argonaut project:
+
+Argonaut is an open-source, keyboard-first terminal UI for Argo CD, allowing developers to interact with their applications in a streamlined and efficient manner. With argonaut, users can browse and manage applications, view live resource status, trigger syncs, and inspect diffs - all from the comfort of their terminal. This tool is designed to simplify the Argo CD experience, saving time and effort for DevOps professionals and developers.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-This open-source project, AI-MarkDone, offers a suite of features to enhance productivity and reading experiences. It includes an immersive reading mode, message folding, bookmark system, and export capabilities in Markdown and PDF formats. Additionally, it provides a one-click LaTeX copy function for seamless interaction with AI chattools like ChatGPT, Gemini, Claude, and DeepSeek.
+The AI-MarkDone project is an open-source tool that enhances reading and note-taking experiences. It features an immersive reading mode, message folding, a bookmark system, and export capabilities for Markdown and PDF formats. The tool also facilitates one-click LaTeX copying for seamless integration with AI assistants such as ChatGPT, Gemini, Claude, and DeepSeek.
 
 ---
 

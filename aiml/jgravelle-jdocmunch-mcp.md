@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the jgravelle/jdocmunch-mcp project:
+Here's a 2-3 sentence summary of the project:
 
-The jgravelle/jdocmunch-mcp project is a leading, open-source MCP server that efficiently indexes and retrieves documentation using structured section indexing. This innovative solution enables seamless exploration and retrieval of documentation, streamlining the process of knowledge discovery. By leveraging AI/ML capabilities, jdocmunch-mcp provides a powerful tool for developers and organizations to optimize their documentation management.
+jdocmunch-mcp is an open-source MCP server that efficiently indexes and retrieves documentation via structured sectioning, streamlining the process of documentation exploration and retrieval. This token-efficient server is optimized for AI and machine learning applications, providing a robust backend solution for managing complex documentation datasets. By leveraging section indexing, jdocmunch-mcp enables seamless and scalable documentation retrieval.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · DevTools · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary of the TunaCode open-source project:
-
-TunaCode is an open-source AI CLI coding agent that enables developers to work with safe Git branches, rich tools, and multiple Large Language Model (LLM) engines. This project aims to streamline the coding process by providing a versatile and efficient platform for AI-assisted development. With its support for multi-LLM capabilities, TunaCode offers a robust solution for developers looking to leverage the power of AI in their coding workflow.
+TunaCode is an open-source, AI-powered CLI coding agent that enables developers to work efficiently with safe git branches and rich tools. It supports multiple large language models (LLMs), allowing for versatile coding capabilities and adaptability. This project aims to streamline the coding process while leveraging the potential of AI in software development.
 
 ---
 

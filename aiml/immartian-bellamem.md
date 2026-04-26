@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The bellamem project provides a persistent belief-graph memory system for AI agents, enabling them to retrieve decisive context based on importance rather than recency or other conventional methods. This innovative approach allows AI agents to learn and reason more effectively in complex environments. By leveraging importance-based context retrieval, AI agents can improve their decision-making capabilities and adapt to dynamic situations.
+The bellamem project is an open-source, persistent belief-graph memory system designed for AI agents. It enables the efficient retrieval of decisive context based on importance, rather than recency, ranking aggregation (RAG), or compact storage. This innovative approach aims to improve AI decision-making by leveraging context that is most relevant to the situation.
 
 ---
 

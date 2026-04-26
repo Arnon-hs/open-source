@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The samber/do project is an open-source, dependency injection toolkit designed for use with Go 1.18+ Generics. This AI/ML framework simplifies the process of managing dependencies between different components of a software system, allowing for cleaner and more modular code. By leveraging generics, samber/do provides a flexible and type-safe solution for dependency injection.
+Samber/do is an open-source dependency injection toolkit designed for use with Go 1.18+ and its generics feature. This project aims to simplify the process of managing dependencies and injecting them into your application, making it a valuable tool for developers working on complex Go projects. By leveraging generics, Samber/do provides a flexible and efficient solution for dependency injection and management.
 
 ---
 

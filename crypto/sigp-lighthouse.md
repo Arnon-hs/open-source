@@ -25,7 +25,7 @@ Crypto · DevTools
 
 ## 📝 Summary
 
-Lighthouse is an open-source, Rust-based Ethereum consensus client designed to secure the network and facilitate the transfer of value. As a proof-of-stake (PoS) consensus engine, Lighthouse enables validators to participate in the Ethereum network and contribute to its overall security. This project, developed by the Sigp team, provides a robust and efficient solution for validators and developers alike.
+Lighthouse is an open-source Ethereum consensus client developed in Rust, designed to provide a secure and efficient way for nodes to participate in the Ethereum network. This project aims to offer a robust and scalable solution for node operators, enabling them to contribute to the network's overall health and stability. By leveraging Rust's performance capabilities, Lighthouse strives to improve the overall performance and reliability of the Ethereum network.
 
 ---
 

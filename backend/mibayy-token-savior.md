@@ -1,6 +1,6 @@
 # Mibayy/token-savior
 
-[![Stars](https://img.shields.io/github/stars/Mibayy/token-savior?style=flat-square&color=yellow)](https://github.com/Mibayy/token-savior/stargazers) [![Forks](https://img.shields.io/github/forks/Mibayy/token-savior?style=flat-square&color=blue)](https://github.com/Mibayy/token-savior/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mibayy/token-savior?style=flat-square&color=yellow)](https://github.com/Mibayy/token-savior/stargazers) [![Forks](https://img.shields.io/github/forks/Mibayy/token-savior?style=flat-square&color=blue)](https://github.com/Mibayy/token-savior/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Claude Code: 97% token savings on code navigation + persistent memory engine that remembers context across sessions. 106 tools, zero external deps.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 670 |
+| ⭐ **Stars** | 674 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the project:
-
-Trevor Bayless' CLI Chess is an open-source terminal chess game that offers a highly customizable experience, allowing users to play both online through Lichess.org and offline against the Fairy-Stockfish engine. The project supports all Lichess variants, providing users with a vast range of gameplay options. With its AI/ML, frontend, and backend features, this project is ideal for chess enthusiasts seeking a flexible and immersive terminal-based chess experience.
+This open-source project, trevorbayless/cli-chess, enables users to play chess in their terminal with high customizability. It allows users to play online against other players on Lichess.org, as well as offline against the Fairy-Stockfish engine, supporting various Lichess variants. This project offers a unique and accessible way to enjoy chess from the comfort of the terminal.
 
 ---
 

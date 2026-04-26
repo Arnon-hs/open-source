@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The errcheck project is an open-source tool that helps developers ensure they have properly handled errors in their code. It checks for potential errors and provides a clear report of any unchecked error occurrences. By using errcheck, developers can write more robust and reliable code with fewer bugs.
+This open-source project, errcheck, is a tool designed to ensure developers properly handle errors in their code. By automatically checking for error handling, it helps identify potential issues and improves code reliability. Errcheck serves as a valuable resource for developers looking to write more robust and error-aware software.
 
 ---
 

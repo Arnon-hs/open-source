@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/gowvp/owl?style=flat-square&color=yellow)](https://github.com/gowvp/owl/stargazers) [![Forks](https://img.shields.io/github/forks/gowvp/owl?style=flat-square&color=blue)](https://github.com/gowvp/owl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
-> GB28181 - 2022 NVR | ONVIF/RTMP/RTSP | ZLMediaKit | 本地 YOLO 检测 | 私有部署
+> GB28181 - 2022 NVR | ONVIF/RTMP/RTSP | ZLMediaKit | 本地 YOLO 检测 | 私有部署 | Frigate 中文平替
 
 ## 📊 Stats
 

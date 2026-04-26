@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Votify is an open-source command-line application for downloading music from Spotify, allowing users to easily access and save their favorite songs, podcasts, and videos. This tool aims to provide a convenient alternative for Spotify enthusiasts who want to manage their media libraries offline. With votify, users can seamlessly download and organize their Spotify content on their local devices.
+Votify is an open-source command-line application that enables users to download content from Spotify, including songs, podcasts, and videos. This tool provides an alternative solution for accessing Spotify content without relying on the platform's official streaming services. With Votify, users can easily manage and download their favorite Spotify content in a flexible and customizable way.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Scrumboy is a self-hosted kanban and project management platform that enables users to create shareable boards for team collaboration and organization. This project integrates AI-powered voice commands and sticky-note features to streamline workflows, while also supporting Microservices-based Container Platforms (MCP) for scalable infrastructure. With Scrumboy, users can customize and manage their projects with ease, all within a flexible and open-source framework.
+Scrumboy is an open-source, self-hosted kanban and project management platform that offers shareable boards, voice commands, and sticky-note functionality. This project supports Multiple Camera Pair (MCP) technology, providing users with a robust and customizable project management experience. Scrumboy is suitable for those looking for a flexible, on-premises solution to manage their projects and collaborate with team members.
 
 ---
 

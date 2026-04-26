@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here is a brief summary of the 0xMassi/webclaw project:
 
-Webclaw is a fast and local-first web content extraction framework designed for Large Language Models (LLMs). Built in Rust, it offers a range of tools including a command-line interface (CLI), REST API, and Message Queue Protocol (MCP) server for scraping, crawling, and extracting structured data. This project enables developers to efficiently extract web content while maintaining data privacy and security.
+Webclaw is an open-source project that enables fast, local-first web content extraction for large language models (LLMs) using Rust. This versatile tool offers a CLI, REST API, and MCP server for scraping, crawling, and extracting structured data from the web. By providing a streamlined solution for web data extraction, webclaw empowers developers to build more effective AI and ML applications.
 
 ---
 

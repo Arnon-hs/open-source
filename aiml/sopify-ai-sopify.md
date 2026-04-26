@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the Sopify open-source project:
+Here's a brief summary of the project:
 
-Sopify is an open-source AI programming framework that streamlines the development process by organizing tasks based on complexity. This approach enables transparent decision-making, verifiable output quality, and integrates project planning, review, and history tracking as valuable assets. By leveraging Sopify, developers can enhance collaboration, efficiency, and reproducibility in AI and machine learning projects.
+Sopify is an open-source AI programming framework that streamlines the development process by organizing tasks based on complexity. It enables transparent decision-making, verifiable output, and integrates planning, review, and historical tracking into a project's assets. By doing so, it facilitates more efficient and collaborative AI/ML workflows.
 
 ---
 

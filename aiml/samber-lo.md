@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the samber/lo open-source project:
-
-The samber/lo project is an open-source, Lodash-style Go library that utilizes Go 1.18+ Generics to provide a range of functional programming utilities, including map, filter, and find operations. This library aims to simplify complex data processing tasks and enhance the overall development experience in Go-based AI/ML projects. By leveraging Generics, samber/lo enables flexible and type-safe data manipulation.
+Samber/lo is an open-source, Lodash-style library for the Go programming language, utilizing Go 1.18+ generics to provide functional programming utilities such as map, filter, contains, and find. This library aims to simplify data manipulation and processing tasks, making it a valuable resource for developers working with data-intensive applications, particularly in the AI/ML domain. With its generic implementation, Samber/lo offers a more expressive and efficient way to work with data in Go.
 
 ---
 

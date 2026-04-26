@@ -1,6 +1,6 @@
 # emrgnt-cmplxty/automata
 
-[![Stars](https://img.shields.io/github/stars/emrgnt-cmplxty/automata?style=flat-square&color=yellow)](https://github.com/emrgnt-cmplxty/automata/stargazers) [![Forks](https://img.shields.io/github/forks/emrgnt-cmplxty/automata?style=flat-square&color=blue)](https://github.com/emrgnt-cmplxty/automata/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emrgnt-cmplxty/automata?style=flat-square&color=yellow)](https://github.com/emrgnt-cmplxty/automata/stargazers) [![Forks](https://img.shields.io/github/forks/emrgnt-cmplxty/automata?style=flat-square&color=blue)](https://github.com/emrgnt-cmplxty/automata/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Automata: A self-coding agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 677 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-This open-source dbt package enables data reliability by capturing metadata, artifacts, and test results, empowering users to identify anomalies and monitor data quality. It serves as a foundational component for Elementary OSS and provides insights for the Data & AI Control Plane in Elementary Cloud. This tool helps maintain data integrity and supports informed decision-making.
+The elementary-data/dbt-data-reliability project is an open-source dbt package designed to capture and track metadata, artifacts, and test results. This enables data teams to monitor data quality, detect anomalies, and build metadata tables, ultimately driving data reliability and trust. By doing so, it powers Elementary OSS and informs the wider context layer within Elementary Cloud's comprehensive data management platform.
 
 ---
 

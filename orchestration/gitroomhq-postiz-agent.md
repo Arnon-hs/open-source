@@ -27,7 +27,7 @@ Orchestration · AI/ML · DevTools
 
 Here's a brief summary for the gitroomhq/postiz-agent project:
 
-The postiz-agent is an open-source CLI (Command-Line Interface) tool for automating social media post scheduling. It enables seamless integration with various AI and scheduling platforms, such as Claude and OpenClaw, allowing users to streamline their content marketing workflows. This project is suitable for developers and marketers looking to leverage AI and automation in their social media strategy.
+The postiz-agent is an open-source, command-line interface tool that enables seamless scheduling of social media posts by integrating with AI/ML platforms such as Claude and OpenClaw. This orchestration tool streamlines the process of automating social media content, making it ideal for businesses and organizations looking to optimize their online presence. With postiz-agent, users can efficiently manage and schedule their social media content in a centralized and automated manner.
 
 ---
 

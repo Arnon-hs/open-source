@@ -1,0 +1,34 @@
+# samueltuyizere/oc-go-cc
+
+[![Stars](https://img.shields.io/github/stars/samueltuyizere/oc-go-cc?style=flat-square&color=yellow)](https://github.com/samueltuyizere/oc-go-cc/stargazers) [![Forks](https://img.shields.io/github/forks/samueltuyizere/oc-go-cc?style=flat-square&color=blue)](https://github.com/samueltuyizere/oc-go-cc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+
+> Use your OpenCode Go subscription with Claude Code.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 73 |
+| 🍴 **Forks** | 7 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Payments · AI/ML · DevTools
+
+## 📝 Summary
+
+Here's a brief summary for the open-source project:
+
+The oc-go-cc project integrates OpenCode Go with Claude Code, enabling users to leverage their OpenCode Go subscription for enhanced AI and machine learning capabilities. This integration facilitates seamless code collaboration and development using Claude Code's features. By combining these tools, developers can streamline their workflow and improve productivity.
+
+---
+
+<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/samueltuyizere/oc-go-cc) · [← Back to Payments](./README.md)</sub>

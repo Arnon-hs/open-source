@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Symfony is an open-source PHP framework that enables developers to create robust, scalable, and maintainable web applications. It provides a set of reusable and modular components to streamline the process of building and deploying web applications, making it an ideal choice for complex projects. With Symfony, developers can focus on writing high-quality code while enjoying a flexible and extensible framework.
+Symfony is an open-source PHP web framework that provides a robust and flexible foundation for building scalable and maintainable web applications. It offers a wide range of features, including a modular architecture, a robust dependency injection system, and a powerful templating engine. With Symfony, developers can quickly create complex applications and maintain them efficiently, reducing development time and costs.
 
 ---
 

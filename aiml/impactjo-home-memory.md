@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Impactjo's Home Memory is an open-source project that enables your AI assistant to recall and learn from information about your home, providing a more personalized and intuitive experience. This MCP (Memory Control Protocol) server utilizes AI/ML, frontend, and backend technologies to create a seamless integration of your home's knowledge into your AI assistant. By remembering everything about your home, this project fosters a more natural and efficient interaction between you and your AI companion.
+The impactjo/home-memory project is an open-source, MCP (Machine Control Protocol) server that enables your AI assistant to recall and access information about your home. This innovative system allows your AI to remember various details about your living space, providing a more personalized and convenient experience. By leveraging AI/ML technology, the project enhances the functionality of your AI assistant in managing your home seamlessly.
 
 ---
 

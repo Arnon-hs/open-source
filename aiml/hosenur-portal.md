@@ -25,7 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The hosenur/portal project is an open-source, mobile-first web user interface that provides a batteries-included solution for projects related to SST/OpenCode. Key features include seamless Git integration, an in-browser terminal, and isolated workspaces, making it an ideal solution for AI/ML and frontend development workflows. This project prioritizes ease of use and versatility, catering to the needs of modern developers.
+Here is a brief summary of the hosenur/portal project:
+
+The hosenur/portal project offers a mobile-first, batteries-included web UI for SST (Server-Sent Topics) and OpenCode applications. It provides features such as Git integration, an in-browser terminal, and isolated workspaces, catering to the needs of AI/ML and frontend developers. This open-source project aims to streamline development workflows and enhance productivity.
 
 ---
 

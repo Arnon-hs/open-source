@@ -1,6 +1,6 @@
 # veerendra2/composeflux
 
-[![Stars](https://img.shields.io/github/stars/veerendra2/composeflux?style=flat-square&color=yellow)](https://github.com/veerendra2/composeflux/stargazers) [![Forks](https://img.shields.io/github/forks/veerendra2/composeflux?style=flat-square&color=blue)](https://github.com/veerendra2/composeflux/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/veerendra2/composeflux?style=flat-square&color=yellow)](https://github.com/veerendra2/composeflux/stargazers) [![Forks](https://img.shields.io/github/forks/veerendra2/composeflux?style=flat-square&color=blue)](https://github.com/veerendra2/composeflux/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > A GitOps continuous deployment tool for Docker Compose
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

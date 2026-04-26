@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Orbital is an open-source project that allows developers to give their agents a project or goal, rather than a specific prompt, enabling more complex and realistic AI interactions. This project empowers the development of more sophisticated AI agents that can engage in meaningful tasks and behaviors. By providing a project-oriented framework, Orbital facilitates the creation of more lifelike and autonomous AI systems.
+Orbital is an open-source project that enables developers to give their agents a project to work on, rather than just providing a prompt. This novel approach allows for more complex and dynamic AI/ML interactions, where agents can learn and adapt through iterative tasks and goals. By providing a project-based framework, Orbital facilitates the creation of more realistic and engaging AI experiences.
 
 ---
 
