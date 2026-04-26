@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
-| 2 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.1k | JavaScript | 100/100 |
+| 1 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.1k | JavaScript | 100/100 |
+| 2 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
 | 3 | [roboflow/rf-detr](./roboflow-rf-detr.md) | ⭐ 6.6k | Python | 96/100 |
 | 4 | [dotnet/csharplang](./dotnet-csharplang.md) | ⭐ 12.6k | C# | 93/100 |
 | 5 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.6k | Scala | 91/100 |
@@ -26,9 +26,9 @@
 | 16 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
 | 17 | [juspay/superposition](./juspay-superposition.md) | ⭐ 412 | Rust | 53/100 |
 | 18 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 209 | PHP | 52/100 |
-| 19 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 224 | Go | 52/100 |
-| 20 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
-| 21 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
+| 19 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
+| 20 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
+| 21 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 224 | Go | 52/100 |
 | 22 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 427 | JavaScript | 49/100 |
 | 23 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 457 | Go | 49/100 |
 | 24 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 186 | Go | 48/100 |

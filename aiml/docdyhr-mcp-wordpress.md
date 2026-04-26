@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The docdyhr/mcp-wordpress project offers a comprehensive management system for WordPress CMS systems through an MCP (Machine Control Panel) server. This open-source project integrates AI/ML capabilities to streamline and automate the management of WordPress sites, enhancing user experience and efficiency. By leveraging machine learning, it provides a robust and scalable solution for WordPress administration.
+The MCP (Machine Creation Process) Server for Wordpress is an open-source project that enables seamless management of a Wordpress content management system (CMS) through a centralized interface. This project leverages AI/ML capabilities to provide efficient backend management, streamlining tasks and improving overall system performance. By utilizing the MCP Server, users can effortlessly manage and maintain their Wordpress CMS.
 
 ---
 

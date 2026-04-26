@@ -1,17 +1,17 @@
 # VincenzoManto/DSSGo
 
-[![Stars](https://img.shields.io/github/stars/VincenzoManto/DSSGo?style=flat-square&color=yellow)](https://github.com/VincenzoManto/DSSGo/stargazers) [![Forks](https://img.shields.io/github/forks/VincenzoManto/DSSGo?style=flat-square&color=blue)](https://github.com/VincenzoManto/DSSGo/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VincenzoManto/DSSGo?style=flat-square&color=yellow)](https://github.com/VincenzoManto/DSSGo/stargazers) [![Forks](https://img.shields.io/github/forks/VincenzoManto/DSSGo?style=flat-square&color=blue)](https://github.com/VincenzoManto/DSSGo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> A Go implementation of a CMD-only spreadsheets visualizer based on the new DSS format.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,11 +21,13 @@ _no topics_
 
 ## 🎯 Categories
 
-Frontend · Marketing
+Frontend · Data · Marketing
 
 ## 📝 Summary
 
-DSS is an open-source, lightweight Text User Interface (TUI) spreadsheet editor and dashboard built using Go. This tool offers a simple and efficient way to create and manage spreadsheets, as well as display data in a customizable dashboard. Its goal is to provide an alternative to traditional graphical user interface (GUI) spreadsheet applications.
+Here's a brief summary of the project:
+
+DSS is a lightweight, open-source Terminal User Interface (TUI) spreadsheet editor and dashboard written in Go. This project provides a simple and efficient way to create and edit spreadsheets directly from the terminal, making it ideal for developers and users who prefer a command-line interface. DSS aims to offer a more streamlined alternative to traditional spreadsheet software.
 
 ---
 

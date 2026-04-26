@@ -25,7 +25,7 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Asterinas is an open-source project seeking to create a production-grade Linux alternative, boasting memory safety, high performance, and advanced capabilities. This ambitious project aims to redefine the Linux landscape by incorporating cutting-edge features and improving overall system reliability. By pushing the boundaries of what is possible in operating systems, Asterinas has the potential to revolutionize the way we think about Linux and its applications.
+Asterinas is an open-source project striving to create a production-grade Linux alternative. It prioritizes memory safety, high-performance capabilities, and seeks to offer more innovative features. By pushing the boundaries of what a Linux system can do, Asterinas aims to provide a robust and efficient platform for various applications, including AI and machine learning.
 
 ---
 

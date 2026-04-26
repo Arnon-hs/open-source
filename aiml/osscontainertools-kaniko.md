@@ -25,7 +25,7 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Kaniko is an open-source project that enables the building of container images directly within a Kubernetes environment. It provides a simple and efficient way to create and manage container images, eliminating the need for a separate build process. By integrating with Kubernetes, Kaniko streamlines the development and deployment of containerized applications.
+Kaniko is an open-source tool for building container images in Kubernetes, enabling developers to create and deploy containerized applications efficiently. This tool automates the process of building container images, making it easy to integrate with Kubernetes workflows. By using Kaniko, developers can streamline their containerization process, reducing complexity and increasing productivity.
 
 ---
 

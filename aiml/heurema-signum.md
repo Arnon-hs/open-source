@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the heurema/signum project:
-
-heurema/signum is an open-source project that integrates AI-driven risk assessment into development pipelines, ensuring more secure and reliable software releases. It achieves this through adversarial consensus code review, leveraging machine learning to detect potential vulnerabilities and weaknesses in code. This innovative approach enables developers to adapt their development pipeline to the specific risks associated with their project.
+heurema/signum is an open-source project that leverages AI and ML technologies to create a risk-adaptive development pipeline. This pipeline incorporates adversarial consensus code review to ensure the reliability and security of software systems. By combining machine learning with collaborative code review, signum enables developers to build more resilient and trustworthy software solutions.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the project:
 
-The cscan project is an open-source, enterprise-grade distributed asset and vulnerability scanner that offers a range of advanced features, including port scanning, subdomain brute-force, fingerprinting, and proof-of-concept (POC) detection. Built on the Go-Zero and Vue3 frameworks, cscan is designed to provide high-performance distributed network asset scanning capabilities. Its features make it a powerful tool for identifying and mitigating potential security risks.
+The cscan project is an open-source, enterprise-grade distributed asset and vulnerability scanner built on Go-Zero and Vue3. It features advanced capabilities such as port scanning, subdomain brute-force, fingerprinting, and proof-of-concept (POC) detection. This powerful tool is designed for high-performance distributed network asset scanning and is ideal for organizations seeking to identify and address security vulnerabilities.
 
 ---
 

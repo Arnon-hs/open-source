@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Jarl is an open-source, R linter designed to help developers write cleaner and more maintainable code. It checks for common errors, inconsistencies, and best practices to ensure R code adheres to high standards of quality and readability. By using Jarl, R programmers can catch errors early and improve the overall reliability of their code.
+Here's a brief summary for the etiennebacher/jarl project:
+
+Jarl is an open-source, R-specific linter designed to help developers write cleaner and more maintainable code. This tool provides a set of rules and checks to ensure adherence to coding standards and best practices, ultimately making R development more efficient and reliable. By integrating jarl into the development workflow, users can catch potential errors and inconsistencies early on, reducing the likelihood of bugs and improving overall code quality.
 
 ---
 

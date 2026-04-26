@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Okena is a high-performance, native terminal multiplexer built with Rust and the GPUI framework. It offers a range of features, including tabbed and split windows, detachable windows, and an automatic workspace restore function, making it a powerful tool for developers and terminal users. By providing a command palette and supporting multiple windows, Okena aims to enhance the user experience in the terminal environment.
+Okena is a high-performance, open-source terminal multiplexer built with Rust and the GPUI framework. It offers features such as tabs, splits, detachable windows, a command palette, and automatic workspace restore, making it a versatile and efficient tool for developers and power users. With its native terminal capabilities, Okena aims to provide a seamless and customizable experience for users.
 
 ---
 

@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Weapp-vite is an open-source project that brings modern web development methods to the traditional WeChat mini-program development scene. It leverages Vite, a fast and lightweight development tool, to enhance the development experience of WeChat mini-programs. This project aims to modernize WeChat mini-program development by integrating web-like features and capabilities.
+Here's a brief summary for the project:
+
+weapp-vite is an open-source project that brings modern web development techniques to traditional small program development, enabling developers to build efficient and scalable apps for WeChat and other mini programs. By leveraging the power of Vite, a fast and lightweight development tool, weapp-vite simplifies the development process and enhances overall productivity. This project aims to bridge the gap between traditional small program development and modern web development.
 
 ---
 

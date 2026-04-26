@@ -27,7 +27,7 @@ Misc
 
 Here's a brief summary for the open-source project "easychen/ask4me":
 
-Ask4Me is a human-in-the-loop solution that streamlines tasks into a single request, simplifying the workflow and enabling efficient collaboration between humans and systems. This project aims to provide a concise and effective way to handle tasks that require human input, making it a valuable tool for various applications. By leveraging a single request, Ask4Me facilitates seamless communication and reduces complexity in human-in-the-loop processes.
+Ask4Me is an open-source solution for human-in-the-loop tasks, aiming to simplify the process through a single request. This project enables seamless synchronization and automation of tasks that require human input or validation. By streamlining the human-in-the-loop process, Ask4Me reduces complexity and increases efficiency.
 
 ---
 

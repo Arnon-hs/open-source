@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the rolldown/tsdown project:
+Here's a brief summary for the open-source project 'rolldown/tsdown':
 
-Rolldown/TSDown is an elegant bundler for libraries, designed to provide a seamless and efficient way to manage library dependencies. Powered by Rolldown, this open-source project aims to simplify the process of bundling libraries, making it easier for developers to focus on their projects. With its intuitive design and robust functionality, TSDown is a valuable tool for any development workflow.
+rolldown/tsdown is an elegant bundler designed for libraries, utilizing the Rolldown framework to provide efficient and streamlined package management. This open-source tool enables developers to easily create and manage bundles for their projects, simplifying the process of library deployment. By leveraging Rolldown's capabilities, tsdown offers a powerful and flexible solution for library bundling.
 
 ---
 

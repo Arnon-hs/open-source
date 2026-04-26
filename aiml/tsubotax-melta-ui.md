@@ -25,9 +25,9 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the open-source project:
 
-Melta-UI is an open-source, AI-ready design system created to be accessible to both humans and AI models. This design system is specifically tailored for use with Claude Code and Cursor, enabling seamless collaboration between humans and artificial intelligence. By providing a universal and interpretable design language, Melta-UI aims to facilitate efficient and effective AI-human collaboration.
+Melta-UI is an open-source, AI-ready design system that enables seamless interaction between humans and AI systems, specifically designed for use with Claude Code and Cursor. This design framework aims to create a unified and accessible layout that is interpretable by both humans and AI models. By leveraging Melta-UI, developers can create more intuitive and AI-friendly interfaces.
 
 ---
 

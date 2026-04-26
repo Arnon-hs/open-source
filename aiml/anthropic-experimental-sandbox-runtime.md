@@ -1,17 +1,17 @@
 # anthropic-experimental/sandbox-runtime
 
-[![Stars](https://img.shields.io/github/stars/anthropic-experimental/sandbox-runtime?style=flat-square&color=yellow)](https://github.com/anthropic-experimental/sandbox-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/anthropic-experimental/sandbox-runtime?style=flat-square&color=blue)](https://github.com/anthropic-experimental/sandbox-runtime/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anthropic-experimental/sandbox-runtime?style=flat-square&color=yellow)](https://github.com/anthropic-experimental/sandbox-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/anthropic-experimental/sandbox-runtime?style=flat-square&color=blue)](https://github.com/anthropic-experimental/sandbox-runtime/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 3.9k |
+| 🍴 **Forks** | 272 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project enables sandboxed filesystem and network access without the need for a traditional container. This innovative approach allows developers to create isolated environments for testing and experimentation, improving the reliability and security of their applications. By leveraging this technology, developers can streamline their workflows and enhance the overall development experience.
+The open-source project offers a sandboxed filesystem and network access without the need for a container. This solution allows developers to isolate and test code in a secure environment, reducing potential risks and conflicts. By eliminating the dependency on containers, this project aims to simplify the development process and improve efficiency.
 
 ---
 

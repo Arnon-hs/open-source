@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Wings is an open-source project that serves as an alternative to Pterodactyl Wings, a popular panel for game server management. Written in Rust, Wings offers enhanced speed, more features, and improved maintainability, making it a robust solution for users seeking efficient and scalable server management. This project is geared towards developers and enthusiasts interested in AI/ML and backend technologies.
+Here's a brief summary for the calagopus/wings project:
+
+Wings is a high-performance, open-source alternative to Pterodactyl Wings, built with Rust for improved speed and maintainability. This project offers a robust set of features and capabilities, making it a suitable solution for AI/ML and backend applications. By leveraging Rust's strengths, Wings aims to provide a more efficient and scalable alternative to existing solutions.
 
 ---
 

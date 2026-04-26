@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the boxdot/gurk-rs project:
-
-Gurk-rs is an open-source Signal Messenger client designed for use in terminal environments, providing users with a command-line interface to access Signal messaging services. Developed with Rust, this project offers a secure and convenient way to send and receive messages, as well as engage in voice and video calls. With gurk-rs, users can enjoy the features of Signal Messenger in a unique and accessible format.
+The Gurk-RS project is an open-source, terminal-based client for the Signal Messenger service. This user-friendly application allows users to manage their Signal accounts directly from the command line, providing a convenient alternative to the traditional desktop or mobile clients. By utilizing the terminal as an interface, Gurk-RS caters to users who prefer a more minimalist and accessible experience.
 
 ---
 

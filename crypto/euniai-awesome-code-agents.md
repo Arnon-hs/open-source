@@ -25,7 +25,9 @@ Crypto · AI/ML · Product
 
 ## 📝 Summary
 
-EuniAI's "awesome-code-agents" project is a comprehensive, open-source resource that collects and categorizes various autonomous code agents, including products, benchmarks, and research papers. This curated list sheds light on the capabilities and potential applications of these innovative agents, which are transforming the way software interacts with and changes the world. By leveraging AI and machine learning, code agents are poised to revolutionize software development and beyond.
+Here's a brief summary for the EuniAI/awesome-code-agents project:
+
+The EuniAI/awesome-code-agents project is a comprehensive, open-source resource that aggregates products, benchmarks, and research papers focused on autonomous code agents. These innovative agents are revolutionizing the software industry by introducing new ways to develop, maintain, and evolve software. By curating this vast collection, the project aims to facilitate knowledge sharing and accelerate the adoption of autonomous code agents in various fields, including AI, ML, and crypto.
 
 ---
 

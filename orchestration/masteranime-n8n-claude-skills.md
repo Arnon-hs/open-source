@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The masteranime/n8n-claude-skills project provides an open-source collection of Production Claude Code skills for n8n, a workflow automation tool. This repository is based on over 100 workflows created by a Verified Creator, offering a comprehensive set of pre-built skills for AI/ML and backend automation. By leveraging these skills, users can streamline their workflows and enhance productivity with Claude's capabilities.
+This open-source project, n8n-claude-skills, provides a collection of production Claude Code skills for n8n, a workflow automation platform. Developed by a Verified Creator with over 100 workflows, these skills offer a comprehensive set of tools for AI/ML, backend, and orchestration tasks. By utilizing these pre-built skills, users can streamline their workflow automation processes and enhance their productivity.
 
 ---
 

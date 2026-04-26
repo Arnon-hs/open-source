@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-AliasVault is an open-source, self-hostable password manager that prioritizes user privacy. It offers a unique combination of encrypted password storage and built-in email aliasing features, providing users with a robust and secure solution for managing sensitive information. With its customizable and scalable architecture, AliasVault empowers users to take control of their online identity and data protection.
+Here's a brief summary for the aliasvault project:
+
+AliasVault is an open-source, self-hostable password manager that prioritizes user privacy. It combines password management with built-in email aliasing, offering a secure and decentralized solution for individuals to store and organize sensitive information. With end-to-end encryption, users can maintain complete control over their data.
 
 ---
 

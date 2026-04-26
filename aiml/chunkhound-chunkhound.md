@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Chunkhound is an open-source project that aims to provide local-first codebase intelligence, offering insights and analysis directly on your machine without relying on remote services. This AI/ML-powered tool is designed for developers to gain a deeper understanding of their codebase, improving productivity and maintaining data privacy. By bringing code analysis capabilities closer to home, Chunkhound empowers developers with on-demand access to valuable information and intelligence.
+Chunkhound is an open-source project that aims to provide local-first codebase intelligence, offering developers tools to improve their coding experience and project management. This project leverages AI and ML technologies to enable intelligent code analysis, suggesting improvements and optimizations. By running locally, it ensures data security and privacy, making it a valuable resource for developers seeking to enhance their coding efficiency.
 
 ---
 

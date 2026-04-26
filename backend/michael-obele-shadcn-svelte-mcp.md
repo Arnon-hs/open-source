@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The shadcn-svelte-mcp project is an open-source initiative that provides a Mastra MCP server and accompanying tooling for the shadcn-svelte component documentation and developer utilities. This project aims to support the development and maintenance of Svelte components, offering a robust backend infrastructure and versatile tooling. By utilizing the shadcn-svelte-mcp, developers can streamline their Svelte component development workflow.
+The shadcn-svelte-mcp project is an open-source initiative that provides a Mastra MCP server and tooling for the shadcn-svelte component documentation and developer utilities. This project aims to streamline the development experience for Svelte components by offering a centralized platform for documentation and utility tools. By utilizing the Mastra MCP server, developers can access a range of features and integrations to enhance their Svelte development workflow.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Meta Segment Anything Model 3 (SAM 3) is an open-source project that enables running inference and fine-tuning on the SAM 3 model, a powerful AI/ML tool for various applications. This repository provides pre-trained model checkpoints and example notebooks to facilitate seamless integration and experimentation with the model. By leveraging SAM 3, developers can unlock advanced image recognition capabilities.
+The Meta Segment Anything Model 3 (SAM 3) is an open-source project that enables users to run inference and fine-tune the model for various applications. This repository provides access to pre-trained model checkpoints and example notebooks that demonstrate how to utilize the model, making it a valuable resource for developers and researchers in the AI/ML community. With SAM 3, users can leverage this powerful model to tackle a range of tasks, from object detection to image segmentation.
 
 ---
 

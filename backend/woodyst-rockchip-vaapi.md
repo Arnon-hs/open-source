@@ -1,17 +1,17 @@
 # woodyst/rockchip-vaapi
 
-[![Stars](https://img.shields.io/github/stars/woodyst/rockchip-vaapi?style=flat-square&color=yellow)](https://github.com/woodyst/rockchip-vaapi/stargazers) [![Forks](https://img.shields.io/github/forks/woodyst/rockchip-vaapi?style=flat-square&color=blue)](https://github.com/woodyst/rockchip-vaapi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/woodyst/rockchip-vaapi?style=flat-square&color=yellow)](https://github.com/woodyst/rockchip-vaapi/stargazers) [![Forks](https://img.shields.io/github/forks/woodyst/rockchip-vaapi?style=flat-square&color=blue)](https://github.com/woodyst/rockchip-vaapi/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> VA-API driver for Rockchip RK3588 via MPP
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | C |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Rockchip-vaapi open-source project:
-
-The Rockchip-vaapi project is an open-source driver that enables VA-API hardware video decode for the RK3588 chip, allowing for efficient and accelerated video processing. This project provides a hardware-accelerated video decoding solution for Linux systems using the RK3588 processor. By leveraging VA-API, developers can take advantage of hardware acceleration to improve video playback performance.
+The Rockchip-vaapi project is an open-source driver that enables hardware video decode functionality using the VA-API interface on the RK3588 chipset. This driver allows for accelerated video playback and decoding on systems utilizing the Rockchip RK3588 processor. By utilizing the VA-API interface, this driver provides a high-performance solution for video decoding applications.
 
 ---
 

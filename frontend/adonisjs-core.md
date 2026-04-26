@@ -25,7 +25,7 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-AdonisJS is an open-source TypeScript-first web framework designed for building scalable web applications and API servers. It provides a robust ecosystem of tools and packages, including testing and modern tooling, to streamline development and deployment. By leveraging AdonisJS, developers can create robust, maintainable, and efficient web applications with ease.
+AdonisJS is an open-source, TypeScript-first web framework that enables developers to build robust web applications and API servers efficiently. With its comprehensive support for testing, modern tooling, and a rich ecosystem of official packages, AdonisJS streamlines the development process and enhances overall productivity. This versatile framework is suitable for both front-end and back-end development, as well as a range of DevTools applications.
 
 ---
 

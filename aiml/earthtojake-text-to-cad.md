@@ -1,6 +1,6 @@
 # earthtojake/text-to-cad
 
-[![Stars](https://img.shields.io/github/stars/earthtojake/text-to-cad?style=flat-square&color=yellow)](https://github.com/earthtojake/text-to-cad/stargazers) [![Forks](https://img.shields.io/github/forks/earthtojake/text-to-cad?style=flat-square&color=blue)](https://github.com/earthtojake/text-to-cad/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/earthtojake/text-to-cad?style=flat-square&color=yellow)](https://github.com/earthtojake/text-to-cad/stargazers) [![Forks](https://img.shields.io/github/forks/earthtojake/text-to-cad?style=flat-square&color=blue)](https://github.com/earthtojake/text-to-cad/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An open source harness for generating CAD models
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 525 |
-| 🍴 **Forks** | 88 |
+| ⭐ **Stars** | 526 |
+| 🍴 **Forks** | 90 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

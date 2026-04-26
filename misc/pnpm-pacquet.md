@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/pnpm/pacquet?style=flat-square&color=yellow)](https://github.com/pnpm/pacquet/stargazers) [![Forks](https://img.shields.io/github/forks/pnpm/pacquet?style=flat-square&color=blue)](https://github.com/pnpm/pacquet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> experimental package manager for node.js
+> The official pnpm rewrite in Rust
 
 ## 📊 Stats
 

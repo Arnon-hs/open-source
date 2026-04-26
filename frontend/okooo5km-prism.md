@@ -25,9 +25,9 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project okooo5km/Prism:
+Here's a brief summary for the open-source project:
 
-Prism is an open-source SwiftUI menu bar companion that simplifies the organization of Claude-compatible API services. It seamlessly integrates with both direct model providers and third-party Anthropic-compatible gateways, providing a centralized hub for accessing various AI services. This user-friendly tool streamlines the process of working with multiple AI APIs, enhancing productivity and efficiency.
+Prism is an open-source SwiftUI menu bar companion that streamlines access to Claude-compatible API services from various sources, including direct model providers and third-party Anthropic-compatible gateways. This project provides a centralized hub for efficiently managing and utilizing these services. By leveraging a modular design, Prism offers flexibility and extensibility for users to customize and integrate their preferred services.
 
 ---
 

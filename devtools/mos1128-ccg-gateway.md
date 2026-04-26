@@ -27,7 +27,7 @@ DevTools
 
 Here's a brief summary for the project:
 
-CCG-Gateway is an open-source DevTool designed to streamline workflows for Claude Code, Codex, and Gemini CLI users. It combines the functionality of an intelligent gateway and configuration manager, aiming to boost efficiency and productivity. This tool simplifies the interaction between users and these AI tools, making them more accessible and convenient to use.
+ccg-gateway is an open-source tool designed to enhance efficiency for users of Claude Code, Codex, and Gemini CLI. It combines the functionality of an intelligent gateway and configuration manager into a single, streamlined solution. This DevTools project aims to simplify workflows and improve productivity for developers utilizing these AI-powered tools.
 
 ---
 

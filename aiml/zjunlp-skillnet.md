@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The SkillNet project is an open-source initiative that enables the creation, evaluation, and connection of AI skills. This platform empowers developers to build, test, and integrate diverse AI capabilities, fostering collaboration and innovation in the field of Artificial Intelligence. By providing a framework for AI skill development, SkillNet promotes the advancement of AI research and applications.
+The SkillNet project is an open-source initiative developed by zjunlp, focusing on creating, evaluating, and connecting AI skills. This project aims to facilitate the integration and exchange of AI capabilities, enabling developers to efficiently build and deploy intelligent systems. By providing a comprehensive framework for AI skill creation and connection, SkillNet aims to accelerate innovation in the field of artificial intelligence.
 
 ---
 
