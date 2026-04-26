@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Claude-skills is an open-source collection of various skills for the Claude AI model. This repository provides users with access to a diverse range of skills that can be used to customize and extend the capabilities of Claude. By contributing to or utilizing these skills, developers can unlock new use cases and applications for the Claude AI model.
+Claude-skills is an open-source collection of custom skills developed for Claude, a cutting-edge AI model. This repository offers users a wide range of pre-built skills that can be used to enhance the capabilities of Claude, allowing users to tap into its full potential. By leveraging these skills, users can unlock new possibilities for interaction and task completion with Claude.
 
 ---
 

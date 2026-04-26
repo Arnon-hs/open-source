@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the project:
 
-This project, "deadlocked", is an open-source, Linux-only external aimbot and ESP (Extra Sensory Perception) cheat designed for Counter-Strike 2. Built on AI/ML foundations, it utilizes machine learning algorithms to enhance player performance and provide real-time information about the game environment. This project aims to provide a customizable and adaptable cheat solution for the Counter-Strike 2 community.
+The "deadlocked" project is an open-source, Linux-only external aimbot and ESP (External Source Pointer) cheat for Counter-Strike 2. This AI/ML-powered tool is designed to provide an unfair advantage to users, allowing for enhanced gameplay capabilities. By utilizing machine learning algorithms, it can detect and respond to in-game situations in real-time.
 
 ---
 

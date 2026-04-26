@@ -1,6 +1,6 @@
 # phusion/passenger-docker
 
-[![Stars](https://img.shields.io/github/stars/phusion/passenger-docker?style=flat-square&color=yellow)](https://github.com/phusion/passenger-docker/stargazers) [![Forks](https://img.shields.io/github/forks/phusion/passenger-docker?style=flat-square&color=blue)](https://github.com/phusion/passenger-docker/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phusion/passenger-docker?style=flat-square&color=yellow)](https://github.com/phusion/passenger-docker/stargazers) [![Forks](https://img.shields.io/github/forks/phusion/passenger-docker?style=flat-square&color=blue)](https://github.com/phusion/passenger-docker/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Docker base images for Ruby, Python, Node.js and Meteor web apps
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 436 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

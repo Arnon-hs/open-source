@@ -25,9 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the 'metube' open-source project:
+Here's a brief summary for the metube project:
 
-metube is a self-hosted video downloader that allows users to download videos from YouTube and other sites using a web-based interface. Built on top of the popular 'youtube-dl' and 'yt-dlp' tools, metube simplifies the process of video download and provides a user-friendly experience. This project is ideal for users seeking a secure and customizable video download solution.
+metube is a self-hosted video downloader that enables users to easily download videos from YouTube and other popular video sharing sites. Built on top of the powerful youtube-dl and yt-dlp libraries, metube provides a user-friendly web interface for seamless video download experiences. With metube, users can host their own video download service without relying on third-party platforms.
 
 ---
 

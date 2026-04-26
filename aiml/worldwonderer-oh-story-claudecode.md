@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The oh-story-claudecode project is an open-source writing package designed for Chinese online literature authors. It features a comprehensive suite of tools for writing, editing, and post-processing online novels, including story scanning, decomposition, composition, and AI flavor removal. This package aims to streamline the writing process and help authors produce high-quality online novels.
+The oh-story-claudecode project is an open-source writing toolkit designed for web fiction authors, covering a comprehensive workflow from draft scanning and text analysis to writing and post-processing to eliminate AI-generated content. This tool aims to enhance the writing experience for creators of both long and short-form web novels. It is categorized under AI/ML due to its integration of artificial intelligence and machine learning techniques.
 
 ---
 

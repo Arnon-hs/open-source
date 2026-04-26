@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the pkc918/reactor open-source project:
-
-Reactor is an open-source AI coding agent framework that enables users to create and manage plugins, skills, and marketplace integrations for Claude Code and similar platforms. This flexible and powerful tool allows developers to "wire in" capabilities and run their agents with enhanced functionality, similar to a virtual assistant like JARVIS. By harnessing the Reactor framework, users can unlock real power in their AI coding agents.
+The pkc918/reactor open-source project is an AI coding agent reactor that enables users to create and manage powerful AI agents. By utilizing plugins, skills, and marketplace components, users can "wire in" capabilities to enhance their agents' functionality, much like the intelligent assistant JARVIS. This project is suitable for users interested in AI/ML and frontend development, offering a flexible platform for building sophisticated AI agents.
 
 ---
 

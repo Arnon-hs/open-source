@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Mooncake is an open-source serving platform for Kimi, a leading Large Language Model (LLM) service provided by Moonshot AI. This platform aims to facilitate the deployment and management of AI-powered applications, enabling users to leverage the capabilities of LLMs with ease. By providing a robust and scalable infrastructure, Mooncake supports the development and integration of advanced AI-driven features.
+Here's a brief summary of the Mooncake project:
+
+Mooncake is an open-source serving platform designed to support Kimi, a leading Large Language Model (LLM) service provided by Moonshot AI. This platform enables efficient deployment and management of LLMs, facilitating faster development and deployment of AI-powered applications. By leveraging Mooncake, developers can tap into the capabilities of Kimi and build innovative AI-powered solutions.
 
 ---
 

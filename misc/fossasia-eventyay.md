@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Eventyay is an open-source event management platform that allows users to organize and host conferences, meetups, and other events with features for ticketing, talk scheduling, and video playback. This web-based application provides a user-friendly interface for event organizers to manage registrations, talks, and other event-related tasks. It is designed to be highly customizable and scalable for various event types.
+Eventyay is an open-source project that offers a comprehensive event management platform. It provides features for ticketing, talk scheduling, and video management, making it a versatile tool for organizing conferences, meetups, and other events. This free and customizable platform is available on GitHub at https://dev.eventyay.com.
 
 ---
 

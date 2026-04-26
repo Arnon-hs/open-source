@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Parlor Jarvis is an open-source project that offers real-time AI capabilities, enabling users to engage in conversations with voice output while utilizing both audio and screen input. This multilingual system allows for seamless interactions across different languages. It appears to be a cutting-edge AI solution designed for various applications, including but not limited to, virtual assistants and chatbots.
+Parlor Jarvis is an open-source project that enables real-time AI interactions, allowing users to input both audio and screen data while receiving voice output in multiple languages. This innovative tool utilizes AI to facilitate seamless communication and translation capabilities. Developed with an open-source ethos, Parlor Jarvis is a community-driven project that encourages collaboration and advancement in the realm of AI/ML.
 
 ---
 

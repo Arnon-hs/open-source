@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The "best-of-mcp-servers" project is an open-source initiative that maintains a ranked list of MCP (MineCraft Protocol) servers, updated on a weekly basis. This project utilizes AI/ML and backend technologies to curate the list, providing users with a reliable and up-to-date resource for finding top-rated MCP servers. The ranked list facilitates an efficient discovery process for users seeking high-quality gaming experiences.
+This open-source project, tolkonepiu/best-of-mcp-servers, provides a ranked list of MCP servers, updated weekly to help users navigate and explore the MCP server ecosystem. The project utilizes AI/ML and backend technologies to curate this list, offering a valuable resource for those interested in MCP servers. By maintaining a current and ranked list, users can easily discover and connect with top MCP servers.
 
 ---
 

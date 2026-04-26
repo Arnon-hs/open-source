@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-LinkShell is an open-source project that enables remote access and control of local Claude Code/Codex terminal sessions from a mobile device. This allows users to seamlessly interact with their terminal sessions across different devices. With LinkShell, users can now manage and monitor their terminal sessions remotely, increasing productivity and convenience.
+LinkShell is an open-source project that enables remote access to local Claude Code/Codex terminal sessions on mobile devices. This allows users to view and control their terminal sessions from anywhere, providing flexibility and convenience. With LinkShell, users can manage their terminal sessions remotely on their mobile devices.
 
 ---
 

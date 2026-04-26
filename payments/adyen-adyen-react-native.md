@@ -1,6 +1,6 @@
 # Adyen/adyen-react-native
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-react-native?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-react-native/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-react-native?style=flat-square&color=blue)](https://github.com/Adyen/adyen-react-native/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-react-native?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-react-native/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-react-native?style=flat-square&color=blue)](https://github.com/Adyen/adyen-react-native/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Adyen React Native
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

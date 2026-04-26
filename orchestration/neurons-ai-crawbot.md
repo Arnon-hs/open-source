@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the Neurons-AI/crawbot project:
-
-Neurons-AI/crawbot is an open-source, user-friendly AI assistant designed for non-technical users. Powered by OpenClaw, this project enables individuals to harness the power of AI and automate tasks with ease, making it an ideal solution for those new to the world of artificial intelligence. The project's orchestration capabilities simplify the process of integrating AI and machine learning (ML) into daily life.
+Neurons-AI/crawbot is an open-source project that aims to provide a user-friendly, personal agentic AI assistant for non-technical users. Built on top of OpenClaw, this AI-powered tool helps bridge the gap between tech enthusiasts and the general public by offering an intuitive interface for interacting with artificial intelligence. It enables users to harness AI capabilities without requiring extensive technical knowledge.
 
 ---
 

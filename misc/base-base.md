@@ -1,6 +1,6 @@
 # base/base
 
-[![Stars](https://img.shields.io/github/stars/base/base?style=flat-square&color=yellow)](https://github.com/base/base/stargazers) [![Forks](https://img.shields.io/github/forks/base/base?style=flat-square&color=blue)](https://github.com/base/base/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/base/base?style=flat-square&color=yellow)](https://github.com/base/base/stargazers) [![Forks](https://img.shields.io/github/forks/base/base?style=flat-square&color=blue)](https://github.com/base/base/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > All components used to run Base
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 376 |
-| 🍴 **Forks** | 324 |
+| ⭐ **Stars** | 378 |
+| 🍴 **Forks** | 326 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

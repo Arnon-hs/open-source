@@ -25,7 +25,7 @@ Payments · AI/ML · Frontend
 
 ## 📝 Summary
 
-OpenStudy is an open-source, self-hostable study dashboard that integrates with Claude/ChatGPT, allowing users to make better use of their subscription. The platform includes a built-in MCP server, enabling seamless interactions with Claude, including reading, writing, and teaching from courses, lectures, and deadlines. This solution provides users with a customizable and private study space, enhancing their learning experience.
+The OpenStudy project is an open-source, self-hostable study dashboard that integrates with your Claude/ChatGPT subscription, allowing you to make the most of your AI assistant. This platform features a built-in MCP server, enabling Claude to access, edit, and teach from your courses, lectures, and deadlines. By hosting OpenStudy locally, you can gain better control and efficiency in managing your study materials and leveraging your AI-powered study companion.
 
 ---
 

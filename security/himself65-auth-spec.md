@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-The himself65/auth-spec project is an open-source initiative that empowers users to create their own custom authentication skills collections. This project falls under the category of Security and provides a platform for users to build and manage their own authentication systems. By leveraging this project, users can develop tailored authentication solutions for their specific needs and applications.
+The "auth-spec" project provides a framework for users to create their own authentication skills collections. This open-source initiative offers a customizable and extensible solution for managing and organizing authentication-related skills. By leveraging this project, users can tailor their auth skills collection to suit their specific needs and enhance their overall security posture.
 
 ---
 

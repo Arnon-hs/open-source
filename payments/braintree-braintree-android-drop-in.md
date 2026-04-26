@@ -1,6 +1,6 @@
 # braintree/braintree-android-drop-in
 
-[![Stars](https://img.shields.io/github/stars/braintree/braintree-android-drop-in?style=flat-square&color=yellow)](https://github.com/braintree/braintree-android-drop-in/stargazers) [![Forks](https://img.shields.io/github/forks/braintree/braintree-android-drop-in?style=flat-square&color=blue)](https://github.com/braintree/braintree-android-drop-in/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/braintree/braintree-android-drop-in?style=flat-square&color=yellow)](https://github.com/braintree/braintree-android-drop-in/stargazers) [![Forks](https://img.shields.io/github/forks/braintree/braintree-android-drop-in?style=flat-square&color=blue)](https://github.com/braintree/braintree-android-drop-in/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Braintree Drop-In SDK for Android
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

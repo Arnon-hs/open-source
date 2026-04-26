@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the xgi-org/xgi project:
-
-The xgi package is an open-source Python library for analyzing and modeling higher-order group interactions, enabling the study of complex networks and relationships. It provides a flexible framework for representing and navigating intricate group structures, facilitating the exploration of collective behaviors and dynamics. By leveraging higher-order network analysis, xgi supports the discovery of novel patterns and insights in complex systems.
+The Complex Group Interactions (XGI) package is an open-source Python library for modeling and analyzing higher-order networks, which go beyond traditional pairwise interactions to capture more complex relationships between entities. This library provides a flexible framework for representing and studying group interactions, facilitating the discovery of patterns and insights in complex systems. By leveraging XGI, researchers and developers can gain a deeper understanding of higher-order network dynamics.
 
 ---
 

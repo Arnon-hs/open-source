@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-gNMIc is an open-source command-line interface (CLI) client and collector for gNMI, a protocol used for network management and monitoring. This tool enables users to interact with network devices and collect data from them using the gNMI protocol. With gNMIc, developers can create custom scripts and workflows to manage and monitor network devices in a more efficient and scalable manner.
+The openconfig/gnmic project is an open-source, command-line interface (CLI) client and collector for the gNMI (gRPC Network Management Interface) protocol. This tool allows users to interact with network devices and collect data from them using a single, intuitive command-line interface. By providing a simple and accessible way to manage network devices, gNMIc facilitates network operations and monitoring.
 
 ---
 

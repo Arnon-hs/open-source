@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Probe-rs is an open-source debugging toolset and library designed to connect with embedded ARM and RISC-V targets from a separate host. This project provides a flexible and efficient way to debug and analyze microcontrollers and other embedded systems, simplifying the development process for developers and engineers. With probe-rs, users can leverage its robust features to streamline their debugging workflow and improve overall system reliability.
+Probe-rs is an open-source debugging toolset and library designed for embedded systems, specifically targeting ARM and RISC-V architectures. The project enables developers to debug their embedded systems on a separate host, providing a convenient and efficient way to identify and resolve issues. With probe-rs, developers can streamline their development process and improve overall system reliability.
 
 ---
 

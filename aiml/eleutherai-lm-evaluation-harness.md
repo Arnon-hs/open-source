@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The EleutherAI/lm-evaluation-harness is an open-source framework designed to facilitate few-shot evaluation of language models. This tool enables users to quickly assess the performance of their models on various tasks, simplifying the evaluation process and allowing for more efficient model development and refinement. By providing a standardized evaluation harness, it helps researchers and developers to compare and improve the performance of language models.
+The EleutherAI/lm-evaluation-harness project is an open-source framework designed for efficiently evaluating language models on few-shot tasks. This framework enables researchers and developers to assess the capabilities of language models in a variety of applications, including text classification, question answering, and more. By providing a standardized evaluation harness, the project aims to advance the development and understanding of language models.
 
 ---
 

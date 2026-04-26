@@ -25,7 +25,7 @@ Frontend · Data · DevOps/Infra
 
 ## 📝 Summary
 
-The "data-catering/insta-infra" project is an open-source quickstart designed to streamline the process of setting up any service. This versatile tool caters to various needs, including frontend development, data architecture, and DevOps/Infrastructure management. By leveraging this quickstart, users can rapidly establish a solid foundation for their projects and accelerate their development journey.
+The insta-infra project is an open-source quickstart solution that enables rapid setup and deployment of any service. This versatile tool caters to various needs, from frontend development to data management and DevOps/infrastructure tasks. By streamlining the process, insta-infra aims to expedite development and reduce the complexity associated with setting up new services.
 
 ---
 

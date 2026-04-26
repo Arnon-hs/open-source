@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, "AI Agents from Scratch," aims to empower developers by demystifying AI agents through hands-on construction, focusing on local Large Language Models (LLMs) and the underlying mechanisms of function calling, memory management, and ReAct patterns. By building AI agents from scratch, users gain a deep understanding of how they work, eliminating the need for "black box" solutions. This project combines AI/ML and frontend development to provide a comprehensive learning experience.
+This open-source project, 'ai-agents-from-scratch', empowers developers to build and understand AI agents from the ground up, without relying on pre-trained models or black boxes. By using local Large Language Models (LLMs) and focusing on the inner workings of function calling, memory, and ReAct patterns, users can gain a deeper understanding of AI agent functionality. This project is ideal for those looking to develop AI skills through hands-on learning and experimentation.
 
 ---
 

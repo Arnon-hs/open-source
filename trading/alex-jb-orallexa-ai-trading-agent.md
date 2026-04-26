@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/alex-jb/orallexa-ai-trading-agent?style=flat-square&color=yellow)](https://github.com/alex-jb/orallexa-ai-trading-agent/stargazers) [![Forks](https://img.shields.io/github/forks/alex-jb/orallexa-ai-trading-agent?style=flat-square&color=blue)](https://github.com/alex-jb/orallexa-ai-trading-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Multi-agent AI trading system where Bull and Bear debate before every decision. 9 ML models, LLM strategy evolution, real-time dashboard.
+> Self-tuning multi-agent AI trading system. 8-source signal fusion (Polymarket + Kalshi + 10 ML models incl. Kronos foundation model), Bull/Bear/Judge debate on Claude Opus 4.7, Portfolio Manager gate.
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # pipeshub-ai/pipeshub-ai
 
-[![Stars](https://img.shields.io/github/stars/pipeshub-ai/pipeshub-ai?style=flat-square&color=yellow)](https://github.com/pipeshub-ai/pipeshub-ai/stargazers) [![Forks](https://img.shields.io/github/forks/pipeshub-ai/pipeshub-ai?style=flat-square&color=blue)](https://github.com/pipeshub-ai/pipeshub-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pipeshub-ai/pipeshub-ai?style=flat-square&color=yellow)](https://github.com/pipeshub-ai/pipeshub-ai/stargazers) [![Forks](https://img.shields.io/github/forks/pipeshub-ai/pipeshub-ai?style=flat-square&color=blue)](https://github.com/pipeshub-ai/pipeshub-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 448 |
+| 🍴 **Forks** | 449 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

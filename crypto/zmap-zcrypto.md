@@ -25,7 +25,7 @@ Crypto
 
 ## 📝 Summary
 
-The zcrypto library is an open-source, liberal Go implementation of TLS and X.509 protocols designed for research purposes. It provides a flexible and customizable framework for cryptographic operations, allowing developers to experiment and innovate in the field of cryptography. By offering a permissive license, the library enables researchers to freely use and modify its code for their projects without restrictions.
+The zcrypto library is an open-source, research-focused TLS and X.509 library written in Go, designed to provide a flexible and liberal implementation of cryptographic technologies. This project enables users to explore and experiment with various TLS and X.509 features for research purposes. Its open-source nature facilitates collaboration and innovation in the field of cryptography.
 
 ---
 

@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Libopenapi-validator is an open-source extension that provides robust OpenAPI validation capabilities for libopenapi. It enables thorough validation of HTTP requests and responses, as well as schemas, ensuring consistency and accuracy in API interactions. This project helps build reliable and secure backend applications by enforcing OpenAPI compliance.
+The pb33f/libopenapi-validator project is an open-source extension for libopenapi that enables robust validation of HTTP requests, responses, and schemas based on OpenAPI specifications. This tool ensures that API interactions conform to defined standards, facilitating more reliable and maintainable backend applications. By leveraging this validation extension, developers can catch errors and inconsistencies early on, improving the overall quality and security of their APIs.
 
 ---
 

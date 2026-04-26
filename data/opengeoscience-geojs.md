@@ -1,6 +1,6 @@
 # OpenGeoscience/geojs
 
-[![Stars](https://img.shields.io/github/stars/OpenGeoscience/geojs?style=flat-square&color=yellow)](https://github.com/OpenGeoscience/geojs/stargazers) [![Forks](https://img.shields.io/github/forks/OpenGeoscience/geojs?style=flat-square&color=blue)](https://github.com/OpenGeoscience/geojs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenGeoscience/geojs?style=flat-square&color=yellow)](https://github.com/OpenGeoscience/geojs/stargazers) [![Forks](https://img.shields.io/github/forks/OpenGeoscience/geojs?style=flat-square&color=blue)](https://github.com/OpenGeoscience/geojs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance visualization and interactive data exploration of scientific and geospatial location aware datasets
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 470 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

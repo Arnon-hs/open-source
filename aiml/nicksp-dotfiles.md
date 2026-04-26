@@ -1,6 +1,6 @@
 # nicksp/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/nicksp/dotfiles?style=flat-square&color=yellow)](https://github.com/nicksp/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/nicksp/dotfiles?style=flat-square&color=blue)](https://github.com/nicksp/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nicksp/dotfiles?style=flat-square&color=yellow)](https://github.com/nicksp/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/nicksp/dotfiles?style=flat-square&color=blue)](https://github.com/nicksp/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > My personal dotfiles: Zsh, Git, VSCode, Obsidian, Ghostty, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 437 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

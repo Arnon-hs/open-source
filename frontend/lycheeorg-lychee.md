@@ -1,6 +1,6 @@
 # LycheeOrg/Lychee
 
-[![Stars](https://img.shields.io/github/stars/LycheeOrg/Lychee?style=flat-square&color=yellow)](https://github.com/LycheeOrg/Lychee/stargazers) [![Forks](https://img.shields.io/github/forks/LycheeOrg/Lychee?style=flat-square&color=blue)](https://github.com/LycheeOrg/Lychee/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LycheeOrg/Lychee?style=flat-square&color=yellow)](https://github.com/LycheeOrg/Lychee/stargazers) [![Forks](https://img.shields.io/github/forks/LycheeOrg/Lychee?style=flat-square&color=blue)](https://github.com/LycheeOrg/Lychee/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 366 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

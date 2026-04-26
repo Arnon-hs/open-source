@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Memory-harness is an open-source Linux CLI tool written in Rust, designed to provide low-overhead peak-RSS and memory profiling capabilities. It allows developers to efficiently analyze memory usage and identify performance bottlenecks in their applications. This tool is particularly useful for optimizing memory-intensive systems and applications.
+Memory-harness is an open-source Linux CLI tool written in Rust, designed for low-overhead memory profiling. It provides peak-RSS (resident set size) and memory profiling capabilities, allowing developers to gain insights into memory usage and identify performance bottlenecks. By leveraging Rust's efficiency and Linux's system-level capabilities, memory-harness offers a streamlined approach to memory profiling.
 
 ---
 

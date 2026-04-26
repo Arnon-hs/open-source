@@ -1,6 +1,6 @@
 # hAcKlyc/MyAgents
 
-[![Stars](https://img.shields.io/github/stars/hAcKlyc/MyAgents?style=flat-square&color=yellow)](https://github.com/hAcKlyc/MyAgents/stargazers) [![Forks](https://img.shields.io/github/forks/hAcKlyc/MyAgents?style=flat-square&color=blue)](https://github.com/hAcKlyc/MyAgents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hAcKlyc/MyAgents?style=flat-square&color=yellow)](https://github.com/hAcKlyc/MyAgents/stargazers) [![Forks](https://img.shields.io/github/forks/hAcKlyc/MyAgents?style=flat-square&color=blue)](https://github.com/hAcKlyc/MyAgents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > MyAgents - 优雅、易用的 Agent 桌面端 ，一站式 Agent 工作台与任务中心
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 308 |
-| 🍴 **Forks** | 39 |
+| 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

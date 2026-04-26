@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-YouROK/TorrServer is an open-source, backend-focused torrent stream server designed to facilitate efficient and scalable torrent streaming. This project enables users to stream torrents with reduced latency and increased reliability, making it a valuable resource for those looking to optimize their torrent streaming experiences.
+YouROK/TorrServer is an open-source backend project that enables the creation of a torrent stream server. This server allows for efficient and streamlined torrent streaming, making it a valuable tool for developers and users alike. By leveraging the TorrServer, users can easily manage and distribute large files over the internet.
 
 ---
 

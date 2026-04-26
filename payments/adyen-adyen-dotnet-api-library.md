@@ -1,6 +1,6 @@
 # Adyen/adyen-dotnet-api-library
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-dotnet-api-library?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-dotnet-api-library/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-dotnet-api-library?style=flat-square&color=blue)](https://github.com/Adyen/adyen-dotnet-api-library/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-dotnet-api-library?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-dotnet-api-library/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-dotnet-api-library?style=flat-square&color=blue)](https://github.com/Adyen/adyen-dotnet-api-library/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Adyen API Library for .NET
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

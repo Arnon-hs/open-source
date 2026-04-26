@@ -1,6 +1,6 @@
 # NuGet/NuGetGallery
 
-[![Stars](https://img.shields.io/github/stars/NuGet/NuGetGallery?style=flat-square&color=yellow)](https://github.com/NuGet/NuGetGallery/stargazers) [![Forks](https://img.shields.io/github/forks/NuGet/NuGetGallery?style=flat-square&color=blue)](https://github.com/NuGet/NuGetGallery/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NuGet/NuGetGallery?style=flat-square&color=yellow)](https://github.com/NuGet/NuGetGallery/stargazers) [![Forks](https://img.shields.io/github/forks/NuGet/NuGetGallery?style=flat-square&color=blue)](https://github.com/NuGet/NuGetGallery/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 659 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

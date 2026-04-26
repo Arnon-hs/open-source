@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-DevilutionX is an open-source project that brings the classic Diablo game to modern operating systems, allowing players to experience the original game on their contemporary devices. This project aims to preserve the nostalgia of the original game while providing compatibility with modern platforms. By recompiling and updating the game, DevilutionX makes it possible for players to enjoy Diablo on a wide range of operating systems, including Windows, macOS, and Linux.
+DevilutionX is an open-source project that aims to bring the classic Diablo game to modern operating systems, providing a compatible build for users to enjoy. This frontend-focused project seeks to ensure compatibility and accessibility of the original game on contemporary platforms. By revitalizing Diablo for the digital age, DevilutionX preserves a piece of gaming history for new generations of players.
 
 ---
 

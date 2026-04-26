@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary:
 
-This project, jacob-bd/perplexity-web-mcp, provides a MCP server and an interface compatible with the Anthropic API, enabling seamless integration with the Perplexity AI web interface. It facilitates the utilization of Perplexity AI's capabilities through a standardized backend interface. This open-source project aims to make Perplexity AI more accessible and user-friendly.
+The perplexity-web-mcp project is an open-source server that provides an MCP (Model Client Protocol) interface compatible with Perplexity AI's web interface. It also offers compatibility with the Anthropic API, enabling developers to integrate Perplexity AI with their applications in a seamless manner. This project enables the utilization of Perplexity AI's capabilities in a wide range of AI/ML workflows.
 
 ---
 

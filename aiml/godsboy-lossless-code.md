@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary of the project:
 
-The GodsBoy/lossless-code project is an innovative solution for Claude Code, a DAG-based system that enables lossless context management. This project preserves every message, extracting patterns through Lossless Dream, and provides full recall and reflection across sessions. It offers a powerful tool for AI/ML developers and backend engineers working with Claude Code, facilitating efficient and reliable context management.
+"GodsBoy/lossless-code is an open-source project that enables efficient and lossless context management for Claude Code using Directed Acyclic Graphs (DAGs). This technology preserves every message, extracts patterns via Lossless Dream, and allows for full recall and reflection across sessions. The project provides a powerful tool for AI/ML development and backend applications, offering a scalable and reliable solution for context management."
 
 ---
 

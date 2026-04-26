@@ -25,7 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-RepoBrain is an open-source project that enables local-first codebase memory for AI coding assistants. It indexes repositories, retrieves relevant evidence, and analyzes logic flows to identify the safest files to inspect or edit, facilitating informed code generation. By providing a comprehensive understanding of codebases, RepoBrain enhances the capabilities of AI coding assistants.
+RepoBrain is a local-first, open-source codebase memory engine designed for AI coding assistants. It enables efficient indexing and retrieval of repository information, allowing for grounded evidence-based decision-making and safer code generation. By tracing logic flows and ranking files, RepoBrain helps developers navigate complex codebases and make informed edits with confidence.
 
 ---
 

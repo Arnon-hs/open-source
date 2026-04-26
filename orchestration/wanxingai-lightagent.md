@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/wanxingai/LightAgent?style=flat-square&color=yellow)](https://github.com/wanxingai/LightAgent/stargazers) [![Forks](https://img.shields.io/github/forks/wanxingai/LightAgent?style=flat-square&color=blue)](https://github.com/wanxingai/LightAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.
+> LightAgent: Lightweight AI agent framework with memory, mcp & skill. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 898 |
+| ⭐ **Stars** | 899 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 48/100 |

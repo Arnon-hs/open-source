@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/jxnxts/mcp-brasil?style=flat-square&color=yellow)](https://github.com/jxnxts/mcp-brasil/stargazers) [![Forks](https://img.shields.io/github/forks/jxnxts/mcp-brasil?style=flat-square&color=blue)](https://github.com/jxnxts/mcp-brasil/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
-> MCP Server para 41 APIs públicas brasileiras
+> MCP Server para 70 APIs públicas brasileiras
 
 ## 📊 Stats
 

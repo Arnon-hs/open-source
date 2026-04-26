@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The ScarletMercy/chcode project is an open-source, terminal-based AI coding agent that enables developers to streamline their workflow. Built with a robust combination of LangChain, Typer, and Rich, this toolset boasts 14 powerful utilities and session persistence, making it a valuable asset for AI, machine learning, and orchestration tasks. Its git-aware workflow further enhances collaboration and version control capabilities.
+The chcode project is an open-source, terminal-based AI coding assistant that utilizes LangChain, Typer, and Rich to provide a robust and interactive coding experience. With 14 built-in tools and session persistence, chcode streamlines the development process and integrates seamlessly with Git-aware workflows. This innovative tool enables developers to leverage AI capabilities directly in their terminal for enhanced productivity.
 
 ---
 

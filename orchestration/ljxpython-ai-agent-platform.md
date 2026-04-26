@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/ljxpython/ai-agent-platform?style=flat-square&color=yellow)](https://github.com/ljxpython/ai-agent-platform/stargazers) [![Forks](https://img.shields.io/github/forks/ljxpython/ai-agent-platform?style=flat-square&color=blue)](https://github.com/ljxpython/ai-agent-platform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> AI agent平台开发 --以测试为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发
+> AI agent平台开发 --以测试 方向为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发
 
 ## 📊 Stats
 

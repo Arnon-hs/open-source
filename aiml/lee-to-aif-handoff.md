@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The lee-to/aif-handoff project is an open-source, autonomous Kanban board that leverages AI agents to automate task planning, implementation, and review. This innovative system allows users to completely outsource their task management, enabling a fully hands-off experience. By integrating AI/ML technology, the project aims to streamline workflows and increase productivity.
+The lee-to/aif-handoff project is an open-source, autonomous Kanban board that leverages AI agents to streamline task management. This AI-powered tool plans, implements, and reviews tasks with minimal user intervention, providing a fully hands-off experience. By utilizing AI/ML capabilities, the project aims to simplify task management and increase efficiency.
 
 ---
 

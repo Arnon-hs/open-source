@@ -1,6 +1,6 @@
 # SolaceLabs/solace-agent-mesh
 
-[![Stars](https://img.shields.io/github/stars/SolaceLabs/solace-agent-mesh?style=flat-square&color=yellow)](https://github.com/SolaceLabs/solace-agent-mesh/stargazers) [![Forks](https://img.shields.io/github/forks/SolaceLabs/solace-agent-mesh?style=flat-square&color=blue)](https://github.com/SolaceLabs/solace-agent-mesh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SolaceLabs/solace-agent-mesh?style=flat-square&color=yellow)](https://github.com/SolaceLabs/solace-agent-mesh/stargazers) [![Forks](https://img.shields.io/github/forks/SolaceLabs/solace-agent-mesh?style=flat-square&color=blue)](https://github.com/SolaceLabs/solace-agent-mesh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-step workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # wuyoscar/gpt_image_2_skill
 
-[![Stars](https://img.shields.io/github/stars/wuyoscar/gpt_image_2_skill?style=flat-square&color=yellow)](https://github.com/wuyoscar/gpt_image_2_skill/stargazers) [![Forks](https://img.shields.io/github/forks/wuyoscar/gpt_image_2_skill?style=flat-square&color=blue)](https://github.com/wuyoscar/gpt_image_2_skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wuyoscar/gpt_image_2_skill?style=flat-square&color=yellow)](https://github.com/wuyoscar/gpt_image_2_skill/stargazers) [![Forks](https://img.shields.io/github/forks/wuyoscar/gpt_image_2_skill?style=flat-square&color=blue)](https://github.com/wuyoscar/gpt_image_2_skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 529 |
-| 🍴 **Forks** | 47 |
+| ⭐ **Stars** | 607 |
+| 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 

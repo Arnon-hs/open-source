@@ -1,6 +1,6 @@
 # contember/okena
 
-[![Stars](https://img.shields.io/github/stars/contember/okena?style=flat-square&color=yellow)](https://github.com/contember/okena/stargazers) [![Forks](https://img.shields.io/github/forks/contember/okena?style=flat-square&color=blue)](https://github.com/contember/okena/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/contember/okena?style=flat-square&color=yellow)](https://github.com/contember/okena/stargazers) [![Forks](https://img.shields.io/github/forks/contember/okena?style=flat-square&color=blue)](https://github.com/contember/okena/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, native terminal multiplexer built in Rust with GPUI (the UI framework from Zed editor). Tabs, splits, detachable windows, command palette, and automatic workspace restore.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54 |
+| ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

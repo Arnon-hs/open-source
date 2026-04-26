@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-SpECTRE is an open-source code designed to tackle complex, multi-scale, and multi-physics problems in astrophysics and gravitational physics. It allows researchers to simulate various phenomena, from compact objects to cosmological scales, with a high level of accuracy and precision. By leveraging advanced computational methods, SpECTRE enables the exploration of intricate astrophysical systems and fosters collaboration within the scientific community.
+SpECTRE is an open-source code designed to tackle complex, multi-scale, and multi-physics problems in astrophysics and gravitational physics. This framework aims to facilitate simulations and research in areas such as black hole physics, neutron star physics, and supernovae, allowing for a deeper understanding of these phenomena. By providing a flexible and extensible platform, SpECTRE supports the advancement of knowledge in the fields of astrophysics and gravitational physics.
 
 ---
 
