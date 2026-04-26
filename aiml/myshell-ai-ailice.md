@@ -1,17 +1,17 @@
 # myshell-ai/AIlice
 
-[![Stars](https://img.shields.io/github/stars/myshell-ai/AIlice?style=flat-square&color=yellow)](https://github.com/myshell-ai/AIlice/stargazers) [![Forks](https://img.shields.io/github/forks/myshell-ai/AIlice?style=flat-square&color=blue)](https://github.com/myshell-ai/AIlice/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/myshell-ai/AIlice?style=flat-square&color=yellow)](https://github.com/myshell-ai/AIlice/stargazers) [![Forks](https://img.shields.io/github/forks/myshell-ai/AIlice?style=flat-square&color=blue)](https://github.com/myshell-ai/AIlice/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Listed in awesome-ai-agents
+> AIlice is a fully autonomous, general-purpose AI agent.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| ⭐ **Stars** | 1.4k |
+| 🍴 **Forks** | 208 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 
@@ -27,7 +27,7 @@ AI/ML
 
 Here's a brief summary for the AIlice project:
 
-AIlice is an open-source, artificial intelligence-powered shell designed to provide a user-friendly and intelligent interface for command-line interactions. Listed in the popular awesome-ai-agents collection, this project leverages AI/ML capabilities to enhance user experience and automate tasks. By utilizing AI-driven features, AIlice aims to revolutionize the way users interact with their systems.
+AIlice is a cutting-edge, open-source AI project that enables users to interact with a conversational AI agent. It is a part of the myshell-ai project, listed in the popular 'awesome-ai-agents' repository. By harnessing the power of AI and machine learning, AIlice aims to provide a more natural and intuitive interface for users to engage with artificial intelligence.
 
 ---
 

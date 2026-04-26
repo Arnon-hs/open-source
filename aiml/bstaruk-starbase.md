@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/bstaruk/starbase?style=flat-square&color=yellow)](https://github.com/bstaruk/starbase/stargazers) [![Forks](https://img.shields.io/github/forks/bstaruk/starbase?style=flat-square&color=blue)](https://github.com/bstaruk/starbase/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> ⭐ A front-end starter kit and Claude Code boilerplate -- built on Vite, TypeScript, Tailwind CSS, TanStack Router, and TanStack Query.
+> ⭐ A front-end starter kit and Claude Code boilerplate -- built on Vite 8, TypeScript 6, Tailwind 4, TanStack Router, and TanStack Query.
 
 ## 📊 Stats
 

@@ -2,7 +2,7 @@
 
 > 
 
-**9 projects** in this category.
+**10 projects** in this category.
 
 ## Projects
 
@@ -17,6 +17,7 @@
 | 7 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 132 | MDX | 51/100 |
 | 8 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 117 | Rust | 51/100 |
 | 9 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 16 | — | 50/100 |
+| 10 | [mytech-today-now/mTTCleaner](./mytech-today-now-mttcleaner.md) | ⭐ — | — | 39/100 |
 
 ---
 

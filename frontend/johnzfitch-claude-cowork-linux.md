@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-This open-source project, Claude Cowork Linux, allows users to run Claude Desktop's Cowork mode natively on Linux, eliminating the need for macOS or a virtual machine. By leveraging Linux-specific code, this project provides an alternative solution for users seeking to utilize Claude's Cowork features on their Linux-based systems. It supports the Frontend category, enabling seamless interaction with the Cowork interface.
+This open-source project, claude-cowork-linux, allows Linux users to run Claude Desktop's Cowork mode natively without relying on macOS or virtual machines. By providing a Linux-compatible solution, this project expands the accessibility of Claude Desktop's features to a broader range of users. This project is a key contribution to the frontend category, offering a seamless user experience for those working with Claude.
 
 ---
 

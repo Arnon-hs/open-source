@@ -25,7 +25,7 @@ AI/ML · Product
 
 ## 📝 Summary
 
-SREGym is an open-source project that enables AI agents to effectively resolve production incidents. By developing and testing AI models in a simulated environment, SREGym aims to improve the reliability and efficiency of AI-driven incident resolution in real-world production settings. This project has the potential to revolutionize the way AI is applied in product development and maintenance.
+SREGym is an open-source project that explores the ability of AI agents to resolve production incidents. By providing a simulated environment, SREGym enables researchers and developers to train and test AI models in a controlled setting, mimicking real-world production scenarios. This project aims to advance the field of AI-powered incident resolution and improve overall system reliability.
 
 ---
 

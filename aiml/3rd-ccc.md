@@ -27,7 +27,7 @@ AI/ML · DevTools
 
 Here's a brief summary for the 3rd/ccc project:
 
-3rd/ccc is an open-source custom launcher for Claude Code, a powerful AI engine. This launcher offers features like dynamic prompts, layered configuration, and easy custom hooks and MCPs, making it a versatile tool for developers working with Claude Code. It aims to enhance the performance and flexibility of Claude Code-based applications.
+3rd/ccc is an open-source custom launcher for Claude Code, empowering users to leverage its capabilities with dynamic prompts, flexible configuration, and seamless integration of custom hooks and models. This project streamlines the development process, allowing users to build and deploy their AI models with ease. By providing a robust and customizable framework, 3rd/ccc enables developers to unlock the full potential of Claude Code.
 
 ---
 

@@ -25,7 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, "agent-skills," provides a collection of reusable agent skills for various AI assistants, including Claude Code and GitHub Copilot. The skills cover essential tasks such as dependency intelligence, GitHub operations, documentation lookup, and UI/UX design patterns, enhancing the capabilities of these AI tools. This project aims to streamline workflows and improve the efficiency of AI-powered development processes.
+Here's a brief summary for the open-source project:
+
+The agent-skills project provides a set of reusable skills for AI assistants like Claude Code and GitHub Copilot, enabling them to perform tasks such as dependency intelligence, GitHub operations, and documentation lookup. These skills also incorporate UI/UX design patterns to improve the overall user experience. By leveraging these pre-built skills, developers can accelerate the development of their own AI-powered tools and applications.
 
 ---
 

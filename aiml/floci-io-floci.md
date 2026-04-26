@@ -1,6 +1,6 @@
 # floci-io/floci
 
-[![Stars](https://img.shields.io/github/stars/floci-io/floci?style=flat-square&color=yellow)](https://github.com/floci-io/floci/stargazers) [![Forks](https://img.shields.io/github/forks/floci-io/floci?style=flat-square&color=blue)](https://github.com/floci-io/floci/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/floci-io/floci?style=flat-square&color=yellow)](https://github.com/floci-io/floci/stargazers) [![Forks](https://img.shields.io/github/forks/floci-io/floci?style=flat-square&color=blue)](https://github.com/floci-io/floci/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Light, fluffy, and always free - AWS Local Emulator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 284 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

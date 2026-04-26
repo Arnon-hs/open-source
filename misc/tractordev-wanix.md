@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Wanix is an open-source, web-based virtual environment runtime inspired by Plan 9. It enables developers to create and manage isolated, self-contained environments for web applications, promoting secure and efficient development. By leveraging Wanix, developers can easily provision, configure, and deploy web applications with reduced complexity.
+Wanix is an open-source, virtual environment runtime for web development, drawing inspiration from the Plan 9 operating system. This project allows developers to create isolated, self-contained environments for web applications, enhancing security and flexibility. By leveraging Wanix, developers can efficiently manage complex web projects and improve overall development workflows.
 
 ---
 

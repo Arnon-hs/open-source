@@ -1,17 +1,17 @@
 # paul-gauthier/aider
 
-[![Stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=flat-square&color=yellow)](https://github.com/paul-gauthier/aider/stargazers) [![Forks](https://img.shields.io/github/forks/paul-gauthier/aider?style=flat-square&color=blue)](https://github.com/paul-gauthier/aider/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=flat-square&color=yellow)](https://github.com/paul-gauthier/aider/stargazers) [![Forks](https://img.shields.io/github/forks/paul-gauthier/aider?style=flat-square&color=blue)](https://github.com/paul-gauthier/aider/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
-> Listed in awesome-ai-agents
+> aider is AI pair programming in your terminal
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| ⭐ **Stars** | 43.9k |
+| 🍴 **Forks** | 4.3k |
+| 💻 **Language** | Python |
+| 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 
@@ -21,11 +21,11 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Security
+AI/ML · DevTools
 
 ## 📝 Summary
 
-The Aider project is an open-source initiative focused on developing and improving artificial intelligence (AI) and machine learning (ML) techniques for enhancing security. As a part of the AI/ML and Security categories, this project contributes to the advancement of AI-agents listed in the 'awesome-ai-agents' repository. Aider aims to provide a robust platform for researchers and developers to explore and apply AI and ML capabilities in the realm of security.
+Aider is an open-source project that utilizes AI/ML to enhance security measures. It is listed in awesome-ai-agents, a curated list of AI and ML projects. This project aims to leverage the capabilities of artificial intelligence in the field of security to improve detection and response mechanisms.
 
 ---
 

@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the YPares/agent-skills project:
-
-YPares/agent-skills is an open-source collection of skills for AI coding assistants, aimed at enhancing their capabilities in various areas. This project provides a range of tools for AI coding assistants to orchestrate tasks and perform AI/ML-related functions, making it easier to automate and optimize coding processes. By contributing to this project, developers can help advance the capabilities of AI coding assistants and improve the efficiency of software development workflows.
+YPares/agent-skills is an open-source project that provides a collection of skills for AI coding assistants, designed to enhance their capabilities in various areas. This project falls under the categories of Orchestration and AI/ML, making it a valuable resource for developers and researchers working with AI-assisted coding tools. With its open-source nature, the project allows for community-driven contributions and improvements.
 
 ---
 

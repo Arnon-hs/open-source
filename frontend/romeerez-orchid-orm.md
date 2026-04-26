@@ -25,9 +25,7 @@ Frontend · Data
 
 ## 📝 Summary
 
-Here is a brief summary for the Orchid ORM project:
-
-Orchid ORM is an open-source, Object-Relational Mapping (ORM) system designed to simplify database interactions and improve code efficiency. This project provides a flexible and lightweight solution for developers to work with databases in a more intuitive and object-oriented way. By leveraging Orchid ORM, developers can reduce the complexity of database operations and focus on building robust applications.
+Orchid ORM is an open-source project that provides a flexible and powerful Object-Relational Mapping (ORM) solution. It allows developers to interact with databases through objects, abstracting the complexities of SQL and reducing boilerplate code. By using Orchid ORM, developers can focus on building their applications without being bogged down by database-related tasks.
 
 ---
 

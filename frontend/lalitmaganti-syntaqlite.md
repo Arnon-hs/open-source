@@ -25,7 +25,9 @@ Frontend · Backend
 
 ## 📝 Summary
 
-The syntaqlite project is an open-source toolset that enhances SQLite SQL development by offering a parser, formatter, validator, and language server. Built directly on SQLite's grammar and tokenizer, syntaqlite streamlines the process of writing, checking, and improving SQLite SQL code. This comprehensive toolset is suitable for both frontend and backend developers working with SQLite databases.
+Here's a brief summary for the open-source project:
+
+Syntaqlite is an open-source toolset for working with SQLite SQL, providing a parser, formatter, validator, and language server. Built directly on SQLite's own grammar and tokenizer, it offers a comprehensive solution for managing and interacting with SQLite databases. This robust toolset is ideal for developers and data professionals working with SQLite.
 
 ---
 

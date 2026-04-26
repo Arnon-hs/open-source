@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the nikolanovoselec/codeflare project:
+Here's a brief summary for the project:
 
-Codeflare is an open-source, ephemeral Integrated Development Environment (IDE) that unleashes the full potential of AI coding agents. With fully autonomous and isolated sessions on Cloudflare's edge, users can experiment and learn without risk or consequences. Persistent files ensure seamless progress, allowing users to focus on innovation and exploration.
+Codeflare is an open-source, cloud-based Integrated Development Environment (IDE) that harnesses the power of AI coding agents in a fully autonomous and risk-free environment. Each coding session runs in an isolated container on Cloudflare's edge, ensuring your projects persist while mistakes are contained. This innovative platform allows AI agents to reach their full potential without the consequences of human error.
 
 ---
 

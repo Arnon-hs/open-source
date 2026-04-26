@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The adal-cli is an open-source project that enables a self-evolving coding agent, SylphAI, to learn from a team's collective knowledge and codebase. This allows for streamlined collaboration and accelerated development, reducing the need for manual syncing and waiting. By leveraging AI/ML capabilities, adal-cli empowers teams to work at the speed of thought and deliver projects with increased efficiency.
+Here's a brief summary for the SylphAI-Inc/adal-cli project:
+
+Adal-cli is an open-source, self-evolving coding agent that utilizes AI/ML capabilities to learn from an entire team and codebase, streamlining development and reducing syncing and waiting times. This innovative tool enables teams to deliver high-quality code at an accelerated pace, mirroring the speed of thought. By leveraging machine learning, adal-cli enhances team productivity and efficiency, making it an invaluable asset for modern software development.
 
 ---
 

@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the FWGS/xash3d-fwgs project:
-
-The FWGS/xash3d-fwgs project is an open-source implementation of the Xash3D game engine, specifically designed to support the Full Weapons and Game Settings (FWGS) mod for Half-Life games. This engine aims to provide a stable and customizable gameplay experience for fans of the series. By leveraging the FWGS mod, users can enjoy enhanced game features and settings within the Half-Life universe.
+The FWGS/xash3d-fwgs project is an open-source reimplementation of the Xash3D game engine, primarily focused on the FWGS (Flexible Worlds Game System) framework. This project aims to recreate and enhance the original engine, allowing for the creation of 3D games with a unique set of features and tools. It's designed for developers seeking to build custom game experiences using the Xash3D engine.
 
 ---
 

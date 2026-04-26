@@ -1,6 +1,6 @@
 # omnimind-ai/OmniInfer
 
-[![Stars](https://img.shields.io/github/stars/omnimind-ai/OmniInfer?style=flat-square&color=yellow)](https://github.com/omnimind-ai/OmniInfer/stargazers) [![Forks](https://img.shields.io/github/forks/omnimind-ai/OmniInfer?style=flat-square&color=blue)](https://github.com/omnimind-ai/OmniInfer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omnimind-ai/OmniInfer?style=flat-square&color=yellow)](https://github.com/omnimind-ai/OmniInfer/stargazers) [![Forks](https://img.shields.io/github/forks/omnimind-ai/OmniInfer?style=flat-square&color=blue)](https://github.com/omnimind-ai/OmniInfer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Easy, fast, and private LLM & VLM inference for every device
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 493 |
+| ⭐ **Stars** | 501 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

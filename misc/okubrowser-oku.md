@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-OkuBrowser, also known as oku, is an open-source project that allows users to browse and express themselves in a unique way. This project provides a platform for users to navigate and explore different content, while also enabling them to share their thoughts and opinions. With its open-source nature, users can contribute to its development and customize it to suit their individual needs.
+OkuBrowser, also known as oku, is an open-source project that allows users to browse and express themselves through a unique interface. This project provides a platform for self-expression and exploration, although further details about its specific features and functionalities are not available.
 
 ---
 

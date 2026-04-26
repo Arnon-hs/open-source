@@ -1,17 +1,17 @@
 # irgolic/AutoPR
 
-[![Stars](https://img.shields.io/github/stars/irgolic/AutoPR?style=flat-square&color=yellow)](https://github.com/irgolic/AutoPR/stargazers) [![Forks](https://img.shields.io/github/forks/irgolic/AutoPR?style=flat-square&color=blue)](https://github.com/irgolic/AutoPR/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/irgolic/AutoPR?style=flat-square&color=yellow)](https://github.com/irgolic/AutoPR/stargazers) [![Forks](https://img.shields.io/github/forks/irgolic/AutoPR?style=flat-square&color=blue)](https://github.com/irgolic/AutoPR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
-> Listed in awesome-ai-agents
+> AutoPR autonomously wrote pull requests in response to issues
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| ⭐ **Stars** | 1.4k |
+| 🍴 **Forks** | 91 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 
@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the irgolic/AutoPR project:
-
-AutoPR is an open-source project that utilizes AI/ML technology to generate high-quality text summaries or responses, listed in the awesome-ai-agents repository. It aims to automate the process of producing professional-level content with efficiency and precision. By leveraging advanced machine learning algorithms, AutoPR simplifies content creation and streamlines workflows for users across various industries.
+AutoPR is an open-source project designed to automate the process of writing technical papers, specifically focusing on research papers in the field of AI and machine learning. It utilizes advanced AI and machine learning techniques to generate high-quality papers from given prompts, aiming to simplify the research paper writing process. By leveraging AutoPR, researchers can concentrate on their core work while leveraging AI-assisted writing capabilities.
 
 ---
 

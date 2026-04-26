@@ -1,17 +1,17 @@
 # emrgnt-cmplxty/automata
 
-[![Stars](https://img.shields.io/github/stars/emrgnt-cmplxty/automata?style=flat-square&color=yellow)](https://github.com/emrgnt-cmplxty/automata/stargazers) [![Forks](https://img.shields.io/github/forks/emrgnt-cmplxty/automata?style=flat-square&color=blue)](https://github.com/emrgnt-cmplxty/automata/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emrgnt-cmplxty/automata?style=flat-square&color=yellow)](https://github.com/emrgnt-cmplxty/automata/stargazers) [![Forks](https://img.shields.io/github/forks/emrgnt-cmplxty/automata?style=flat-square&color=blue)](https://github.com/emrgnt-cmplxty/automata/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Listed in awesome-ai-agents
+> Automata: A self-coding agent
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| ⭐ **Stars** | 677 |
+| 🍴 **Forks** | 110 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 
@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The automata project is an open-source initiative focused on developing and providing a comprehensive framework for implementing various types of automata, a fundamental concept in formal language theory and artificial intelligence. This framework is designed to facilitate the creation and experimentation of automata-based AI agents, listed in the awesome-ai-agents repository. By leveraging automata, researchers and developers can explore novel approaches to machine learning and artificial intelligence.
+The automata project is an open-source initiative that contributes to the development of artificial intelligence and machine learning. It is listed in the 'awesome-ai-agents' repository, indicating its significance in the field of AI agents. This project explores the concept of automata, which forms the foundation of complex systems and intelligent decision-making algorithms.
 
 ---
 

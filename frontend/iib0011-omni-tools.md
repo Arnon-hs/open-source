@@ -25,7 +25,7 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-Omni-tools is a self-hosted collection of web-based utilities that provides fast and accessible tools for everyday tasks. This open-source project offers a range of powerful tools, free from ads and tracking, directly accessible from the browser. Suitable for personal use or deployment in various environments, Omni-tools is designed to streamline tasks and improve productivity.
+Omni-tools is an open-source collection of web-based tools that provides convenient, self-hosted utilities for everyday tasks, accessible straight from your browser. With no ads or tracking, it offers a fast and secure way to manage your tasks, eliminating the need for external services. This project enables users to host their own suite of useful tools, giving them complete control over their data and online experience.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Csvi is an open-source, terminal-based CSV editor designed to provide a simple and intuitive interface for users to interact with and edit CSV files. This project streamlines the process of managing and modifying CSV data directly within the terminal, eliminating the need for additional software or complex workflows. With its frontend-focused approach, csvi offers a user-friendly experience for developers and users alike.
+Csvi is a user-friendly, open-source terminal CSV editor that allows users to efficiently manage and manipulate their CSV files directly from the command line. With its intuitive interface, csvi provides a convenient solution for data analysis, cleaning, and transformation tasks. It is designed to simplify CSV file editing, making it an essential tool for data scientists, analysts, and developers.
 
 ---
 

@@ -1,17 +1,17 @@
 # tuxera/ntfs-3g
 
-[![Stars](https://img.shields.io/github/stars/tuxera/ntfs-3g?style=flat-square&color=yellow)](https://github.com/tuxera/ntfs-3g/releases/tag/2026.2.25/stargazers) [![Forks](https://img.shields.io/github/forks/tuxera/ntfs-3g?style=flat-square&color=blue)](https://github.com/tuxera/ntfs-3g/releases/tag/2026.2.25/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tuxera/ntfs-3g?style=flat-square&color=yellow)](https://github.com/tuxera/ntfs-3g/releases/tag/2026.2.25/stargazers) [![Forks](https://img.shields.io/github/forks/tuxera/ntfs-3g?style=flat-square&color=blue)](https://github.com/tuxera/ntfs-3g/releases/tag/2026.2.25/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> NTFS-3G Safe Read/Write NTFS Driver
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 1.4k |
+| 🍴 **Forks** | 200 |
+| 💻 **Language** | C |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-A new release of NTFS-3G has been made available after a four-year hiatus, bringing updated functionality and improvements to the open-source NTFS driver for Linux systems. This release is a significant development for users who rely on seamless interoperability between Linux and Windows, allowing them to read and write NTFS partitions with ease. The updated driver is now available for download on GitHub.
+A new release of NTFS-3G is available, marking the first update in four years. NTFS-3G is an open-source read/write NTFS file system driver for Linux and other Unix-like operating systems. This release brings stability and security improvements to the popular file system driver.
 
 ---
 

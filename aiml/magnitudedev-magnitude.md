@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Magnitude is an open-source coding agent designed to work with open-source models, providing a framework for developers to build, train, and deploy AI and machine learning models efficiently. This project aims to streamline the development process by offering a comprehensive toolset for model creation, deployment, and maintenance. By leveraging open-source models, Magnitude enables the rapid development of intelligent applications across various industries.
+The Magnitude open-source project provides a coding agent for open-source models, aiming to simplify the integration and management of AI/ML systems. This project enables developers to leverage the capabilities of open-source models in a more efficient and collaborative manner. By utilizing Magnitude, users can easily access, utilize, and enhance these models, fostering innovation and advancement in the field of AI/ML.
 
 ---
 

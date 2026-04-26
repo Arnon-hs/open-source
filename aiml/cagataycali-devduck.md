@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The devduck project is an open-source, minimalist AI agent designed to autonomously repair itself upon encountering errors. This self-healing capability allows for continuous operation and reduced downtime, making it a reliable solution for complex systems. By leveraging AI and machine learning, devduck aims to provide a robust and adaptive platform for maintaining system integrity.
+Here is a brief summary for the project:
+
+"devduck is an open-source, minimalist AI agent designed to self-heal and recover from errors. This AI/ML project enables the agent to adapt and repair itself when issues arise, promoting robustness and resilience. By leveraging self-healing capabilities, devduck aims to simplify the development and maintenance of complex systems."
 
 ---
 
