@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the erebe/wstunnel project:
+Here's a 2-3 sentence summary of the project:
 
-Erebe/wstunnel is an open-source project that enables users to tunnel their internet traffic over WebSockets or HTTP2, providing a reliable way to bypass firewalls and Deep Packet Inspection (DPI) systems. This solution offers a static binary, ensuring ease of deployment and minimal configuration requirements. By using wstunnel, individuals can maintain online freedom and anonymity.
+"Erebe/wstunnel is an open-source tool that enables users to bypass firewalls and Deep Packet Inspection (DPI) by tunneling all their traffic over Websocket or HTTP2. This allows for secure and anonymous internet access, perfect for regions with strict online censorship. A static binary is also available for easy deployment and use."
 
 ---
 

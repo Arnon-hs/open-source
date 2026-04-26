@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The openworkers/openworkers-runner project is an open-source initiative focused on providing a flexible and scalable runner for automating various tasks and workflows. It offers a customizable and extensible framework for developers to create and manage their own task execution engines. This project enables users to build and integrate custom automation solutions with ease.
+The openworkers/openworkers-runner project is an open-source initiative that aims to provide a runner component for various use cases, enabling the execution of tasks and workflows seamlessly. This project is built to be highly customizable and adaptable, making it suitable for a wide range of applications. It serves as a foundation for integrating different systems and automating tasks with ease.
 
 ---
 

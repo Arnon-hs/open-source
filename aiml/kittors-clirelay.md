@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the kittors/CliRelay project:
-
-The kittors/CliRelay project provides a unified API gateway for various AI models, including OpenAI's Gemini and Claude, and Codex, allowing users to access these advanced models through a single interface. This open-source service wraps multiple command-line interfaces, including Gemini CLI, Antigravity, and others, to offer a seamless API experience. The result is a free and accessible platform for leveraging the capabilities of these powerful AI models.
+The kittors/CliRelay project is an open-source initiative that wraps various command-line interfaces (CLIs) into a unified API service. This allows users to access Gemini 2.5 Pro, GPT 5, Claude, Qwen models, and other AI/ML tools through a single, compatible interface. By leveraging this project, developers and users can enjoy advanced AI capabilities without the need for individual CLI installations.
 
 ---
 

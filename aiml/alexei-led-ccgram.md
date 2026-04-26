@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The alexei-led/ccgram project is an open-source tool that enables seamless communication between Telegram and tmux, allowing users to control and monitor AI coding agents from their phone. It supports popular AI tools like Claude Code, Codex CLI, and Gemini CLI, making it easier to manage parallel sessions and respond to prompts. This innovative bridge streamlines the workflow for developers and coders who rely on AI assistance.
+The alexei-led/ccgram project is an open-source tool that enables seamless integration between Telegram and tmux, allowing users to control AI coding agents like Claude Code, Codex CLI, and Gemini CLI from their phone. It provides a bridge to monitor output, respond to prompts, and manage parallel sessions, streamlining the coding process. This bridge enables users to harness the power of AI coding agents with ease.
 
 ---
 

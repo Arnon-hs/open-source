@@ -1,6 +1,6 @@
 # frappe/press
 
-[![Stars](https://img.shields.io/github/stars/frappe/press?style=flat-square&color=yellow)](https://github.com/frappe/press/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/press?style=flat-square&color=blue)](https://github.com/frappe/press/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frappe/press?style=flat-square&color=yellow)](https://github.com/frappe/press/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/press?style=flat-square&color=blue)](https://github.com/frappe/press/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Full service cloud hosting for the Frappe stack - powers Frappe Cloud
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 503 |
-| 🍴 **Forks** | 365 |
+| 🍴 **Forks** | 366 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

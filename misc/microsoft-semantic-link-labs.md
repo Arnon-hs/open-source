@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Microsoft's Semantic Link Labs is an open-source project providing early access to new features for Microsoft Fabric's Semantic Link. This initiative enables users to experiment with and contribute to the development of innovative link-based data management capabilities. By collaborating on this project, developers can help shape the future of data connection and integration solutions.
+Microsoft's Semantic Link Labs is an open-source project that provides early access to innovative features for Microsoft Fabric's Semantic Link. This platform enables users to discover and connect entities across various data sources, fostering a more interconnected and intelligent ecosystem. By participating in the labs, developers can experiment with cutting-edge technology and shape the future of Microsoft Fabric's Semantic Link.
 
 ---
 

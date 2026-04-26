@@ -25,9 +25,9 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary of the open-source project:
 
-OpenGist is a self-hosted, open-source pastebin platform built on top of Git, offering a decentralized alternative to GitHub Gist. This project enables developers to host and manage their pastes securely within their own infrastructure, promoting data ownership and control. By leveraging Git, OpenGist provides a robust and version-controlled pastebin solution for the community.
+"OpenGist is a self-hosted pastebin service powered by Git, providing a decentralized alternative to Github Gist. This open-source project allows users to create, share, and manage snippets of code and text, while maintaining control over their data and infrastructure. With OpenGist, developers can host their own pastebin instance and enjoy seamless collaboration and version control."
 
 ---
 

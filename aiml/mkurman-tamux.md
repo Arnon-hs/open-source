@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a 2-3 sentence summary for the Tamux open-source project:
 
-Tamux is a powerful terminal multiplexer and user interface that enables robust coordination and decision-making in distributed systems through its agent runtime. By treating the daemon as an operating system kernel, Tamux ensures that sessions, targets, and data persist across disconnections, facilitating seamless collaboration and consensus-building. This project is particularly suited for AI/ML applications that require efficient and reliable distributed processing.
+Tamux is an advanced terminal multiplexer and TUI (Text User Interface) that leverages a powerful agent runtime to provide robust session management, coordination, and decision-making capabilities. Unlike traditional agents, Tamux treats its daemon as an operating system kernel, ensuring that sessions and data persist even after disconnections. This allows for seamless and autonomous operation without human intervention, making it ideal for AI/ML applications.
 
 ---
 

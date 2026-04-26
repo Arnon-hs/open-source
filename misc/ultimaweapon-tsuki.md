@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the ultimaweapon/tsuki project:
-
-The ultimaweapon/tsuki project is an open-source effort to port Lua 5.4 to Rust, providing a modern and efficient implementation of the Lua scripting language. This port aims to leverage Rust's performance and safety features to create a robust and reliable Lua engine. By achieving this port, developers can now use Lua with the benefits of Rust's ecosystem.
+The ultimaweapon/tsuki project is an open-source implementation of the Lua 5.4 programming language, but this time built with the Rust programming language. This allows for a more native execution environment and potentially improved performance. The goal of the project is to provide a Lua 5.4 interpreter written in Rust.
 
 ---
 

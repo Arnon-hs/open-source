@@ -25,9 +25,7 @@ Backend · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the simgine/bevy_replicon project:
-
-simgine/bevy_replicon is an open-source, server-authoritative replication crate designed for Bevy, a popular game engine. This crate enables developers to implement robust and secure replication capabilities in their Bevy-based games, ensuring seamless client-server synchronization. By utilizing this crate, developers can focus on building engaging game experiences while relying on a reliable and scalable replication solution.
+simgine/bevy_replicon is an open-source project that provides a server-authoritative replication system for Bevy, a popular game engine. This crate enables seamless synchronization of game state between clients and servers, ensuring a reliable and immersive experience for players. By using a server-authoritative approach, bevy_replicon helps maintain a secure and fair gameplay environment.
 
 ---
 

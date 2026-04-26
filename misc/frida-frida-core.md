@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Frida Core is an open-source library designed for static linking into bindings, providing a foundation for interacting with the dynamic nature of mobile and desktop applications. It enables developers to inject and hook into processes, inspect and manipulate memory, and execute arbitrary code on the target platform. By statically linking into bindings, Frida Core simplifies integration with various programming languages and frameworks.
+Frida is an open-source project that provides a core library for dynamic instrumentation and injection of scripts into processes. This library is designed for static linking into language bindings, allowing developers to easily integrate Frida's functionality into their applications. It enables advanced debugging, reverse engineering, and security research capabilities.
 
 ---
 

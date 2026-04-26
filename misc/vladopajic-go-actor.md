@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The vladopajic/go-actor project is an open-source library that enables the development of concurrent programs in Go using the Actor model. This lightweight library simplifies the process of writing concurrent code by providing a framework for actors, allowing developers to focus on the logic of their program without worrying about the underlying concurrency implementation. It provides a straightforward way to build concurrent systems that are efficient, scalable, and easy to maintain.
+The vladopajic/go-actor library provides a lightweight implementation of the Actor model in Go, enabling developers to write concurrent programs with ease. This library facilitates efficient communication and management of actors, allowing for the creation of scalable and fault-tolerant systems. By leveraging the Actor model, developers can write concurrent code that is more predictable and maintainable.
 
 ---
 

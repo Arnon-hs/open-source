@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 182 |
-| 🍴 **Forks** | 28 |
+| ⭐ **Stars** | 184 |
+| 🍴 **Forks** | 29 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-CyberVerse is an open-source digital human agent platform that enables real-time video calling with AI-powered agents. This innovative platform allows users to create and interact with lifelike digital humans, blurring the line between humans and artificial intelligence. By utilizing AI/ML technology, CyberVerse aims to revolutionize human-AI interaction and open up new possibilities for various applications.
+CyberVerse is an open-source digital human agent platform that enables the creation of AI-powered, interactive digital humans for real-time video calling. This innovative platform allows users to engage with AI agents in a face-to-face setting, revolutionizing the way we interact with technology. By harnessing the power of AI and video conferencing, CyberVerse is poised to transform various industries and applications.
 
 ---
 

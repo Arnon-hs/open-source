@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Claudeos-core is an open-source project that utilizes static source analysis to generate comprehensive and deterministic documentation ecosystems for Claude Code. This approach eliminates the need for Large Language Model (LLM) guessing, ensuring that the information presented is code-confirmed and accurate. By leveraging static source analysis, developers can rely on a reliable and trustworthy documentation system.
+ClaudeOS Core is an open-source project that utilizes static source analysis to generate accurate and deterministic documentation for codebases. By analyzing code directly, it eliminates the need for Large Language Models (LLMs) to make educated guesses, providing a more reliable and trustworthy documentation ecosystem. This project is suitable for developers and teams seeking precise code documentation.
 
 ---
 

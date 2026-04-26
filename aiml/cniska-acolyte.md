@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Acolyte is an open-source, terminal-first AI coding agent designed to empower developers with a high degree of control over its functionality. Built with observability in mind, this AI-powered tool allows users to tailor its behavior and decision-making processes to suit their specific needs. By leveraging Acolyte, developers can streamline their coding workflow and stay in command of the development process.
+Acolyte is an open-source, terminal-first AI coding agent designed to empower developer control and transparency. This project enables users to leverage AI capabilities in a command-line interface, giving them fine-grained control over the development process. By being observable and open-source, Acolyte fosters collaboration and innovation in the AI-assisted coding space.
 
 ---
 

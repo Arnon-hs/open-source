@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The repluggable project provides a framework for building pluggable micro frontends in React+Redux applications, enabling developers to easily integrate and manage multiple independent UI components. This allows for a more modular and scalable approach to frontend architecture, where individual features can be developed, tested, and deployed separately. By leveraging repluggable, developers can create complex applications with a high degree of flexibility and maintainability.
+The repluggable project is an open-source initiative that enables the development of pluggable micro frontends in React and Redux-based applications. This allows for the creation of modular, reusable, and easily maintainable user interface components that can be swapped out or updated independently. By providing a framework for pluggable micro frontends, repluggable simplifies the process of building and managing complex React and Redux applications.
 
 ---
 

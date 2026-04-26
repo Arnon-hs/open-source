@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The Opencode Wakatime project is an open-source initiative that integrates Wakatime, a coding time tracker, with Opencode, a code analysis and AI-powered coding assistant. This integration allows users to track their coding activities and analyze their productivity using Opencode's AI-driven insights. By leveraging Wakatime's tracking capabilities and Opencode's AI expertise, this project enhances the coding experience with data-driven tracking and analysis.
+Here's a brief summary for the open-source project:
+
+This repository, angristan/opencode-wakatime, is an open-source project that integrates Opencode usage tracking with Wakatime, a tool for monitoring coding activity. By leveraging Wakatime's capabilities, developers can gain insights into their coding habits and productivity. This integration aims to enhance the overall developer experience and promote data-driven development.
 
 ---
 

@@ -1,6 +1,6 @@
 # obielin/skillguard
 
-[![Stars](https://img.shields.io/github/stars/obielin/skillguard?style=flat-square&color=yellow)](https://github.com/obielin/skillguard/stargazers) [![Forks](https://img.shields.io/github/forks/obielin/skillguard?style=flat-square&color=blue)](https://github.com/obielin/skillguard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/obielin/skillguard?style=flat-square&color=yellow)](https://github.com/obielin/skillguard/stargazers) [![Forks](https://img.shields.io/github/forks/obielin/skillguard?style=flat-square&color=blue)](https://github.com/obielin/skillguard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Security scanner for AI agent skills. Detects prompt injection, data exfiltration, and malicious payloads before you install.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

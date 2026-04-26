@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 39 |
+| ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 40/100 |
@@ -25,7 +25,7 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-Aether is an open-source, localized, and general-purpose AI Agent designed specifically for Android devices. This stunning AI Agent aims to provide users with a seamless and intuitive experience, leveraging advanced AI and machine learning capabilities to enhance various aspects of their mobile interactions. By harnessing the power of AI on Android, Aether strives to revolutionize the way users engage with their mobile devices.
+Aether is an open-source, localized, general-purpose AI Agent designed for Android devices, offering a stunning AI experience. This AI framework is built to be versatile, providing a range of features and capabilities for both developers and end-users alike. By harnessing the power of AI on mobile devices, Aether aims to bridge the gap between humans and technology.
 
 ---
 

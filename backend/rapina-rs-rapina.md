@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Rapina is an open-source Rust web framework designed specifically for building APIs. This lightweight and intuitive framework provides a simple approach to building robust and efficient web services, making it an attractive choice for developers. Its ease of use and Rust roots make it a compelling option for building scalable and reliable APIs.
+Rapina is an open-source Rust web framework designed specifically for building APIs. This lightweight and intuitive framework allows developers to quickly create robust and scalable API applications with minimal effort. Its simplicity makes it an ideal choice for those looking for a hassle-free way to handle API development in Rust.
 
 ---
 

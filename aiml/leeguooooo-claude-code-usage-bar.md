@@ -1,0 +1,32 @@
+# leeguooooo/claude-code-usage-bar
+
+[![Stars](https://img.shields.io/github/stars/leeguooooo/claude-code-usage-bar?style=flat-square&color=yellow)](https://github.com/leeguooooo/claude-code-usage-bar/stargazers) [![Forks](https://img.shields.io/github/forks/leeguooooo/claude-code-usage-bar?style=flat-square&color=blue)](https://github.com/leeguooooo/claude-code-usage-bar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+
+> Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 211 |
+| 🍴 **Forks** | 8 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI/ML · Frontend · DevTools
+
+## 📝 Summary
+
+Claude Code Usage Bar is an open-source project that provides a real-time statusline for Claude Code, offering insights into token usage, remaining budget, burn rate, and depletion time. This tool is designed for developers working with Claude Code, enabling them to monitor and track their AI model's performance in real-time. It is categorized under AI/ML, Frontend, and DevTools.
+
+---
+
+<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/leeguooooo/claude-code-usage-bar) · [← Back to AI/ML](./README.md)</sub>

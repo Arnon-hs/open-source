@@ -14,10 +14,10 @@
 | 4 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
 | 5 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
 | 6 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
-| 7 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6.1k | C++ | 100/100 |
-| 8 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.2k | Python | 100/100 |
-| 9 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 25.9k | Go | 100/100 |
-| 10 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
+| 7 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 25.9k | Go | 100/100 |
+| 8 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
+| 9 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.2k | Python | 100/100 |
+| 10 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6.1k | C++ | 100/100 |
 | 11 | [shadowsocks/shadowsocks-rust](./shadowsocks-shadowsocks-rust.md) | ⭐ 10.5k | Rust | 99/100 |
 | 12 | [nomi-sec/PoC-in-GitHub](./nomi-sec-poc-in-github.md) | ⭐ 7.7k | — | 96/100 |
 | 13 | [letsencrypt/boulder](./letsencrypt-boulder.md) | ⭐ 5.7k | Go | 95/100 |
@@ -51,8 +51,8 @@
 | 41 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 947 | Rust | 55/100 |
 | 42 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 55/100 |
 | 43 | [lf-edge/eve](./lf-edge-eve.md) | ⭐ 544 | Go | 55/100 |
-| 44 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 506 | JavaScript | 55/100 |
-| 45 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 163 | Go | 55/100 |
+| 44 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 163 | Go | 55/100 |
+| 45 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 506 | JavaScript | 55/100 |
 | 46 | [oxyno-zeta/s3-proxy](./oxyno-zeta-s3-proxy.md) | ⭐ 455 | Go | 54/100 |
 | 47 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 313 | Python | 53/100 |
 | 48 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 368 | Rust | 53/100 |

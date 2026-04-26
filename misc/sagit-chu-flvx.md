@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the project:
 
-FLVX转发面板 is an open-source project that provides a forwarding panel for FLVX, allowing users to easily manage and forward FLVX-related data. This project is designed to be flexible and customizable, enabling developers to tailor its functionality to suit their specific needs. Its open-source nature makes it freely accessible and modifiable by the community.
+The Sagit-chu/flvx repository provides an FLVX forwarding panel, offering a solution for users to manage and forward FLVX content. This open-source project is categorized under "Misc" and is designed to facilitate FLVX content sharing. It serves as a useful tool for developers, content creators, and users who work with FLVX files.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-YouPlot is an open-source command line tool that enables users to create and display plots directly in their terminal, providing a convenient and accessible way to visualize data. This tool is ideal for developers, data analysts, and anyone seeking to quickly explore and present data without relying on graphical interfaces. With YouPlot, users can easily generate a variety of plots, from simple line charts to more complex visualizations.
+YouPlot is an open-source command line tool that enables users to create plots directly on their terminal. This tool allows developers and data analysts to visually represent data in a simple and efficient manner, making it easier to understand and communicate insights. With YouPlot, users can focus on data analysis without the need for a graphical interface.
 
 ---
 

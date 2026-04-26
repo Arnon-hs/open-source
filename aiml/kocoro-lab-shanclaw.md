@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the ShanClaw project:
+Here's a brief summary for the ShanClaw project:
 
-ShanClaw is an open-source AI agent runtime powered by Shannon, capable of automating tasks on multiple levels, including file operations, shell interactions, and GUI automation. This project leverages Shannon Cloud workflows to enable complex task delegation, simplifying the process of automating tasks. With its comprehensive toolset, ShanClaw empowers developers to build sophisticated AI-driven applications.
+ShanClaw is an open-source AI agent runtime that leverages Shannon technology to automate complex tasks across various platforms, including Mac file operations, shell scripting, and GUI automation. It enables developers to create sophisticated workflows and delegate tasks via the Shannon Cloud. This powerful tool empowers users to streamline their workflows and automate repetitive tasks with ease.
 
 ---
 

@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the matterpoll/matterpoll project:
-
-The matterpoll/matterpoll project enables users to create polls and surveys directly within the Mattermost platform, enhancing collaboration and engagement among teams. This open-source plugin streamlines the polling process, allowing users to collect feedback and opinions in a seamless and organized manner. By integrating polls into Mattermost, users can foster more effective communication and decision-making within their communities.
+Matterpoll is an open-source plugin that enables users to create polls and surveys directly within the Mattermost platform. This feature allows users to engage their audience through interactive content, making it easier to gather feedback and opinions in a collaborative environment. With Matterpoll, Mattermost users can streamline their communication and enhance decision-making processes.
 
 ---
 

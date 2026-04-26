@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/awizemann/scarf?style=flat-square&color=yellow)](https://github.com/awizemann/scarf/stargazers) [![Forks](https://img.shields.io/github/forks/awizemann/scarf?style=flat-square&color=blue)](https://github.com/awizemann/scarf/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Native macOS GUI for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.
+> Native macOS and iOS GUI for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 295 |
-| 🍴 **Forks** | 14 |
+| ⭐ **Stars** | 297 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The ALHP project, hosted by an0nfunc, is an open-source repository that mirrors the original ALHP codebase, available at https://somegit.dev/ALHP/ALHP.GO. This project provides users with a secondary access point to the code, allowing for easier collaboration and development of the ALHP system. The specific functionalities and purposes of ALHP are not explicitly stated in the provided information.
+The ALHP project is a mirror repository of an open-source project hosted on https://somegit.dev. This project, originally developed as ALHP.GO, seems to be categorized under the Misc category, suggesting a miscellaneous or utility-focused nature.
 
 ---
 

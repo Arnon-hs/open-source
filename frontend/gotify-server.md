@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Gotify/server is an open-source project that offers a simple, real-time messaging server using WebSockets, allowing for efficient communication between clients. The server comes with a sleek web user interface, making it easy to manage and interact with the messaging system. It's suitable for various applications, including internal company communication, event management, or personal projects.
+Gotify/server is an open-source, real-time messaging server that enables secure and efficient communication through WebSocket connections. This lightweight server offers a sleek web-based user interface for easy message sending and receiving, making it suitable for a variety of applications and use cases. Its simplicity and flexibility make it an ideal solution for teams and individuals seeking a reliable messaging platform.
 
 ---
 

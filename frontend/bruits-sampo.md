@@ -25,9 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the bruits/sampo project:
+Here's a brief summary for the open-source project bruits/sampo:
 
-Sampo is an open-source tool that simplifies the process of managing changelogs, versioning, and publishing for monorepos and multi-package registries. It automates tasks to save time and effort, making it easier to maintain complex projects. With Sampo, developers can streamline their workflows and focus on coding, while ensuring their projects are accurately documented and up-to-date.
+Sampo is an open-source tool that automates changelog generation, versioning, and publishing for both monorepos and individual projects. It simplifies the process of managing dependencies across multiple package registries. With Sampo, developers can streamline their workflow and focus on writing code, while ensuring accurate and up-to-date changelogs.
 
 ---
 

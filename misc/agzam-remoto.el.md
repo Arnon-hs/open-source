@@ -1,17 +1,17 @@
 # agzam/remoto.el
 
-[![Stars](https://img.shields.io/github/stars/agzam/remoto.el?style=flat-square&color=yellow)](https://github.com/agzam/remoto.el/stargazers) [![Forks](https://img.shields.io/github/forks/agzam/remoto.el?style=flat-square&color=blue)](https://github.com/agzam/remoto.el/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agzam/remoto.el?style=flat-square&color=yellow)](https://github.com/agzam/remoto.el/stargazers) [![Forks](https://img.shields.io/github/forks/agzam/remoto.el?style=flat-square&color=blue)](https://github.com/agzam/remoto.el/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Browse GitHub repos without cloning
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 27 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Emacs Lisp |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -25,9 +25,7 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary of the jegly/OfflineLLM project:
-
-OfflineLLM is an open-source, Android chat app that prioritizes user privacy by running large language models entirely on-device, without the need for internet connectivity or cloud services. Built with Kotlin and Jetpack Compose for a seamless user experience, this innovative app leverages optimized ARM NEON/SVE inference for efficient performance. With OfflineLLM, users can enjoy secure and private conversations without compromising on functionality.
+OfflineLLM is a cutting-edge, open-source Android chat app that prioritizes user privacy by running large language models directly on-device, eliminating the need for internet connectivity, cloud storage, or tracking. Built with Kotlin and Jetpack Compose, this app leverages the power of llama.cpp and optimized ARM NEON/SVE inference for seamless performance. With OfflineLLM, users can enjoy robust language processing capabilities without compromising their personal data.
 
 ---
 

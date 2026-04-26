@@ -1,17 +1,17 @@
 # briandowns/libpapago
 
-[![Stars](https://img.shields.io/github/stars/briandowns/libpapago?style=flat-square&color=yellow)](https://github.com/briandowns/libpapago/stargazers) [![Forks](https://img.shields.io/github/forks/briandowns/libpapago?style=flat-square&color=blue)](https://github.com/briandowns/libpapago/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/briandowns/libpapago?style=flat-square&color=yellow)](https://github.com/briandowns/libpapago/stargazers) [![Forks](https://img.shields.io/github/forks/briandowns/libpapago?style=flat-square&color=blue)](https://github.com/briandowns/libpapago/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Modern, Powerful, and Simple C/C++ Web Framework
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 3 |
+| 🍴 **Forks** | 1 |
+| 💻 **Language** | C |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
