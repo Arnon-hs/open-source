@@ -1,6 +1,6 @@
 # harbor-framework/harbor
 
-[![Stars](https://img.shields.io/github/stars/harbor-framework/harbor?style=flat-square&color=yellow)](https://github.com/harbor-framework/harbor/stargazers) [![Forks](https://img.shields.io/github/forks/harbor-framework/harbor?style=flat-square&color=blue)](https://github.com/harbor-framework/harbor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harbor-framework/harbor?style=flat-square&color=yellow)](https://github.com/harbor-framework/harbor/stargazers) [![Forks](https://img.shields.io/github/forks/harbor-framework/harbor?style=flat-square&color=blue)](https://github.com/harbor-framework/harbor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Harbor is a framework for running agent evaluations and creating and using RL environments.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 947 |
+| 🍴 **Forks** | 948 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

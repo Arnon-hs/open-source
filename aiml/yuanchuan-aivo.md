@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/yuanchuan/aivo?style=flat-square&color=yellow)](https://github.com/yuanchuan/aivo/stargazers) [![Forks](https://img.shields.io/github/forks/yuanchuan/aivo?style=flat-square&color=blue)](https://github.com/yuanchuan/aivo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> Any model in your coding agent
+> Run Claude Code, Codex, Gemin, and Pi with any provider — OpenRouter, GitHub Copilot, Ollama, or native APIs — with encrypted local key storage and a built-in free starter tier.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Frontend · Backend
 
 ## 📝 Summary
 

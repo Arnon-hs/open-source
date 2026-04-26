@@ -1,6 +1,6 @@
 # midudev/autoskills
 
-[![Stars](https://img.shields.io/github/stars/midudev/autoskills?style=flat-square&color=yellow)](https://github.com/midudev/autoskills/stargazers) [![Forks](https://img.shields.io/github/forks/midudev/autoskills?style=flat-square&color=blue)](https://github.com/midudev/autoskills/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/midudev/autoskills?style=flat-square&color=yellow)](https://github.com/midudev/autoskills/stargazers) [![Forks](https://img.shields.io/github/forks/midudev/autoskills?style=flat-square&color=blue)](https://github.com/midudev/autoskills/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > One command. Your entire AI skill stack. Installed.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.2k |
-| 🍴 **Forks** | 406 |
+| 🍴 **Forks** | 409 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

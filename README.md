@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6444** |
+| 🗂️ **Total projects** | **6524** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2472 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1123 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 637 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 583 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 374 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 361 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 227 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 2502 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1142 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 647 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 592 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 376 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 367 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 228 | [Browse →](./crypto/) |
 | 📊 **Data** | 152 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 136 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 137 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 99 | [Browse →](./mobile/) |
 | 💳 **Payments** | 92 | [Browse →](./payments/) |
-| 🔐 **Security** | 68 | [Browse →](./security/) |
+| 🔐 **Security** | 69 | [Browse →](./security/) |
 | 📈 **Trading** | 67 | [Browse →](./trading/) |
 | ✨ **Design** | 25 | [Browse →](./design/) |
-| 🎯 **Product** | 19 | [Browse →](./product/) |
+| 🎯 **Product** | 20 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 9 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [stride3d/stride](./misc/stride3d-stride.md) | ⭐ 7.6k | Misc |
-| 2 | [quay/clair](./aiml/quay-clair.md) | ⭐ 11k | AI/ML |
-| 3 | [allinurl/goaccess](./frontend/allinurl-goaccess.md) | ⭐ 20.5k | Frontend |
-| 4 | [biomejs/biome](./aiml/biomejs-biome.md) | ⭐ 24.5k | AI/ML |
-| 5 | [FlowiseAI/Flowise](./orchestration/flowiseai-flowise.md) | ⭐ 52.3k | Orchestration |
-| 6 | [OpenHands/OpenHands](./aiml/openhands-openhands.md) | ⭐ 72.1k | AI/ML |
-| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 8 | [apache/spark](./data/apache-spark.md) | ⭐ 43.2k | Data |
-| 9 | [giampaolo/psutil](./misc/giampaolo-psutil.md) | ⭐ 11.2k | Misc |
-| 10 | [appsmithorg/appsmith](./frontend/appsmithorg-appsmith.md) | ⭐ 39.7k | Frontend |
+| 1 | [junegunn/fzf](./devtools/junegunn-fzf.md) | ⭐ 79.8k | DevTools |
+| 2 | [kovidgoyal/kitty](./misc/kovidgoyal-kitty.md) | ⭐ 32.6k | Misc |
+| 3 | [stride3d/stride](./misc/stride3d-stride.md) | ⭐ 7.6k | Misc |
+| 4 | [ValueCell-ai/ClawX](./orchestration/valuecell-ai-clawx.md) | ⭐ 6.7k | Orchestration |
+| 5 | [mlflow/mlflow](./orchestration/mlflow-mlflow.md) | ⭐ 25.6k | Orchestration |
+| 6 | [ComposioHQ/composio](./aiml/composiohq-composio.md) | ⭐ 27.9k | AI/ML |
+| 7 | [knative/serving](./aiml/knative-serving.md) | ⭐ 6k | AI/ML |
+| 8 | [ToolJet/ToolJet](./aiml/tooljet-tooljet.md) | ⭐ 37.8k | AI/ML |
+| 9 | [HKUDS/nanobot](./aiml/hkuds-nanobot.md) | ⭐ 40.9k | AI/ML |
+| 10 | [cvat-ai/cvat](./aiml/cvat-ai-cvat.md) | ⭐ 15.7k | AI/ML |
 
 ## 🚀 How it works
 

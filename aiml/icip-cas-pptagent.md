@@ -1,6 +1,6 @@
 # icip-cas/PPTAgent
 
-[![Stars](https://img.shields.io/github/stars/icip-cas/PPTAgent?style=flat-square&color=yellow)](https://github.com/icip-cas/PPTAgent/stargazers) [![Forks](https://img.shields.io/github/forks/icip-cas/PPTAgent?style=flat-square&color=blue)](https://github.com/icip-cas/PPTAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/icip-cas/PPTAgent?style=flat-square&color=yellow)](https://github.com/icip-cas/PPTAgent/stargazers) [![Forks](https://img.shields.io/github/forks/icip-cas/PPTAgent?style=flat-square&color=blue)](https://github.com/icip-cas/PPTAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > An Agentic Framework for Reflective PowerPoint Generation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 509 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

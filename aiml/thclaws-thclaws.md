@@ -1,6 +1,6 @@
 # thClaws/thClaws
 
-[![Stars](https://img.shields.io/github/stars/thClaws/thClaws?style=flat-square&color=yellow)](https://github.com/thClaws/thClaws/stargazers) [![Forks](https://img.shields.io/github/forks/thClaws/thClaws?style=flat-square&color=blue)](https://github.com/thClaws/thClaws/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thClaws/thClaws?style=flat-square&color=yellow)](https://github.com/thClaws/thClaws/stargazers) [![Forks](https://img.shields.io/github/forks/thClaws/thClaws?style=flat-square&color=blue)](https://github.com/thClaws/thClaws/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 271 |
-| 🍴 **Forks** | 37 |
+| ⭐ **Stars** | 309 |
+| 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

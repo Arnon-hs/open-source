@@ -1,6 +1,6 @@
 # wesm/agentsview
 
-[![Stars](https://img.shields.io/github/stars/wesm/agentsview?style=flat-square&color=yellow)](https://github.com/wesm/agentsview/stargazers) [![Forks](https://img.shields.io/github/forks/wesm/agentsview?style=flat-square&color=blue)](https://github.com/wesm/agentsview/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wesm/agentsview?style=flat-square&color=yellow)](https://github.com/wesm/agentsview/stargazers) [![Forks](https://img.shields.io/github/forks/wesm/agentsview?style=flat-square&color=blue)](https://github.com/wesm/agentsview/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and 14 other agents. Also: 100x faster replacement for ccusage!
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 841 |
+| ⭐ **Stars** | 843 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

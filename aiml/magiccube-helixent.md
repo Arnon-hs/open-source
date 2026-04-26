@@ -1,6 +1,6 @@
 # MagicCube/helixent
 
-[![Stars](https://img.shields.io/github/stars/MagicCube/helixent?style=flat-square&color=yellow)](https://github.com/MagicCube/helixent/stargazers) [![Forks](https://img.shields.io/github/forks/MagicCube/helixent?style=flat-square&color=blue)](https://github.com/MagicCube/helixent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MagicCube/helixent?style=flat-square&color=yellow)](https://github.com/MagicCube/helixent/stargazers) [![Forks](https://img.shields.io/github/forks/MagicCube/helixent?style=flat-square&color=blue)](https://github.com/MagicCube/helixent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Helixent is a small library for building ReAct-style agent loops based on the Bun stack.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 319 |
-| 🍴 **Forks** | 51 |
+| ⭐ **Stars** | 324 |
+| 🍴 **Forks** | 52 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
