@@ -25,9 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The allenporter/home-assistant-datasets package provides a collection of datasets for evaluating AI models in the context of Home Assistant, a home automation platform. This open-source resource facilitates the development and testing of AI-driven solutions for smart home applications. The datasets can be utilized to assess the performance and reliability of AI models in various home automation scenarios.
+The allenporter/home-assistant-datasets open-source project provides a collection of datasets to facilitate the evaluation of artificial intelligence (AI) models in the context of Home Assistant, a popular home automation platform. This package offers a valuable resource for developers and researchers to fine-tune and benchmark their AI models for home automation applications. By leveraging these datasets, users can improve the reliability and accuracy of their Home Assistant integrations.
 
 ---
 

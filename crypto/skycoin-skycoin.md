@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The skycoin/skycoin project is an open-source initiative that combines a cryptocurrency core and wallet, allowing users to manage and interact with the Skycoin network. This project focuses on providing a secure and decentralized platform for digital transactions, leveraging cutting-edge technologies. As a part of the broader Crypto and AI/ML categories, it explores innovative applications of cryptocurrencies and artificial intelligence.
+The Skycoin project is an open-source initiative that focuses on developing the core components and wallet for the Skycoin cryptocurrency. This decentralized platform utilizes AI/ML technologies to provide a secure, transparent, and community-driven ecosystem for digital transactions. By harnessing the power of machine learning, Skycoin aims to revolutionize the way people interact with cryptocurrency and blockchain technology.
 
 ---
 

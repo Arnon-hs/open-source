@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The Dremio MCP server is an open-source project that provides a backend infrastructure for scalable data processing and analysis. Built on top of Dremio, this server enables efficient storage and querying of large datasets, making it a valuable resource for AI and ML applications. By leveraging the MCP server, developers can accelerate their data-centric workflows and unlock insights from complex data sources.
+The Dremio MCP server is an open-source project that enables scalable analytics and data processing for large-scale applications. It serves as a key component in the Dremio platform, providing a centralized engine for data storage, processing, and management. By leveraging this server, developers can unlock advanced analytics capabilities, streamline data workflows, and improve overall data intelligence.
 
 ---
 

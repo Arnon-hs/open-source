@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The a-bonus/google-docs-mcp project is an open-source MCP server that provides comprehensive access to Google Suite services, including Google Docs, Sheets, Drive, Gmail, and Google Calendar. This project enables seamless integration with AI and ML tools, such as Claude Desktop, allowing for advanced automation and functionality. By utilizing this MCP server, users can unlock the full potential of their Google Suite account.
+The a-bonus/google-docs-mcp project is an open-source server designed to provide full access to Google Suite services, including Google Docs, Sheets, Drive, Gmail, and Google Calendar. This MCP (Module Control Protocol) server is primarily intended for use with Claude Desktop, enabling the AI assistant to utilize these services for various tasks. By connecting to this server, Claude can interact with Google Suite services seamlessly.
 
 ---
 

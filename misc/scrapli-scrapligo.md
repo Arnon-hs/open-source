@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Scrapligo is an open-source, Go-based implementation of ScrapLI, providing a modern and efficient network transport library for interacting with network devices. It offers a simple and intuitive API for sending and receiving data, making it an ideal choice for developers building network automation tools. With Scrapligo, users can leverage the power of Go to create high-performance, scalable network applications.
+Scrapligo is an open-source Go implementation of Scrapli, a popular Python library used for building network automation tools. It provides a consistent and flexible interface for interacting with network devices, allowing users to automate tasks and streamline their workflows. By offering a Go alternative, Scrapligo enables developers to leverage the power of network automation in a variety of programming languages and environments.
 
 ---
 

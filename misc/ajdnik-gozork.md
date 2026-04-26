@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The ajdnik/gozork project is an open-source recreation of the classic 1980 text-based adventure game Zork I. This port, written in Golang, brings the original ZIL (Zork Implementation Language) source code to a modern programming language, making the game accessible to a new generation of players. Users can enjoy the classic puzzles and challenges of Zork I with this faithful modern implementation.
+The ajdnik/gozork project is an open-source implementation of the classic text-based adventure game Zork I, originally written in ZIL (Zork Implementation Language). This Golang port of the game allows users to experience the nostalgic world of Zork on modern platforms. By providing an updated version of the game, ajdnik/gozork aims to preserve a piece of gaming history.
 
 ---
 

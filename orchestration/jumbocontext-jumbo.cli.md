@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The jumbo.cli project is an open-source initiative that focuses on memory and context orchestration for coding agents, allowing for efficient and streamlined integration of AI and machine learning capabilities into coding environments. This project aims to simplify the development and management of complex coding workflows by providing a unified context for coding agents to operate within. By leveraging jumbo.cli, developers can create more effective and dynamic coding experiences.
+Here's a brief summary for the jumbo.cli project:
+
+Jumbo.cli is an open-source project that enables memory and context orchestration for coding agents, streamlining the development and deployment of AI and machine learning applications. This framework provides a centralized platform for managing coding agents, allowing for efficient resource allocation and improved collaboration. By leveraging jumbo.cli, developers can focus on building innovative applications without worrying about the complexities of agent management.
 
 ---
 

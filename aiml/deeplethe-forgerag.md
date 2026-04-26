@@ -1,6 +1,6 @@
 # deeplethe/ForgeRAG
 
-[![Stars](https://img.shields.io/github/stars/deeplethe/ForgeRAG?style=flat-square&color=yellow)](https://github.com/deeplethe/ForgeRAG/stargazers) [![Forks](https://img.shields.io/github/forks/deeplethe/ForgeRAG?style=flat-square&color=blue)](https://github.com/deeplethe/ForgeRAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deeplethe/ForgeRAG?style=flat-square&color=yellow)](https://github.com/deeplethe/ForgeRAG/stargazers) [![Forks](https://img.shields.io/github/forks/deeplethe/ForgeRAG?style=flat-square&color=blue)](https://github.com/deeplethe/ForgeRAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Production-Ready RAG with Structure-Aware Reasoning
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 312 |
+| ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

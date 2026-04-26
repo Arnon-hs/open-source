@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-rbspy is an open-source, sampling CPU profiler for Ruby applications. It provides detailed insights into CPU usage, allowing developers to identify performance bottlenecks and optimize their code for improved execution speed. By sampling CPU activity, rbspy enables developers to gain a deeper understanding of their Ruby application's behavior.
+Rbspy is an open-source, sampling CPU profiler designed specifically for Ruby applications. It captures CPU usage data by periodically taking snapshots of running threads, providing a detailed view of execution time and resource allocation. This allows developers to identify performance bottlenecks and optimize their Ruby code for improved efficiency.
 
 ---
 

@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Kube-router is an open-source, turnkey solution for Kubernetes networking that provides a scalable and efficient way to manage network policies and routing within Kubernetes clusters. Designed to be easy to use and highly customizable, kube-router simplifies the process of setting up and configuring network connectivity for Kubernetes applications. By leveraging kube-router, users can streamline their Kubernetes deployment and management workflow.
+Kube-router is an open-source project that simplifies Kubernetes networking, providing a turnkey solution for managing and configuring network policies and routes within a Kubernetes cluster. This project enables seamless communication between pods and services, making it easier to deploy and manage complex applications at scale. By streamlining network operations, kube-router enhances the overall efficiency and reliability of Kubernetes environments.
 
 ---
 

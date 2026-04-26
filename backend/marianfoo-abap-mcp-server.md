@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The abap-mcp-server project is an open-source implementation of the MCP (Multi-Client Protocol) server for ABAP (Advanced Business Application Programming) systems. This project allows for communication between ABAP-based applications and various clients, providing a flexible and standardized interface for data exchange and remote procedure calls. By utilizing the abap-mcp-server, developers can create more scalable and maintainable systems with improved integration capabilities.
+The abap-mcp-server is an open-source project that provides a backend server implementation for ABAP (Advanced Business Application Programming) Microservices. It utilizes the MCP (Message Communication Pattern) protocol to facilitate communication between ABAP systems and other microservices, enabling seamless integration and efficient data exchange. This project aims to bridge the gap between ABAP-based systems and modern microservices architectures.
 
 ---
 

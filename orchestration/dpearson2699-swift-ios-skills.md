@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, dpearson2699/swift-ios-skills, provides pre-built agent skills for iOS 26+ and Apple's modern frameworks, leveraging Swift 6.3 and SwiftUI to streamline development. The skills are designed to work seamlessly with various technologies, including AI/ML and orchestration, to empower users in building robust and efficient iOS applications. By utilizing this project, developers can accelerate their iOS development journey with a set of reusable and modular skills.
+The 'swift-ios-skills' project by dpearson2699 is an open-source collection of agent skills for iOS 26+, leveraging Swift 6.3 and SwiftUI to build modern Apple applications. This project showcases expertise in Orchestration, AI/ML, and Frontend development, providing a useful resource for developers looking to stay up-to-date with the latest Apple frameworks and technologies. By contributing to or utilizing this project, developers can enhance their skills and build robust iOS applications.
 
 ---
 

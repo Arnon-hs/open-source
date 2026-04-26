@@ -1,6 +1,6 @@
 # mullvad/mullvadvpn-app
 
-[![Stars](https://img.shields.io/github/stars/mullvad/mullvadvpn-app?style=flat-square&color=yellow)](https://github.com/mullvad/mullvadvpn-app/stargazers) [![Forks](https://img.shields.io/github/forks/mullvad/mullvadvpn-app?style=flat-square&color=blue)](https://github.com/mullvad/mullvadvpn-app/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mullvad/mullvadvpn-app?style=flat-square&color=yellow)](https://github.com/mullvad/mullvadvpn-app/stargazers) [![Forks](https://img.shields.io/github/forks/mullvad/mullvadvpn-app?style=flat-square&color=blue)](https://github.com/mullvad/mullvadvpn-app/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > The Mullvad VPN client app for desktop and mobile
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7k |
-| 🍴 **Forks** | 466 |
+| 🍴 **Forks** | 467 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

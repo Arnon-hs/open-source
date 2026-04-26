@@ -25,7 +25,7 @@
 | 15 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 59/100 |
 | 16 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 589 | Rust | 55/100 |
 | 17 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | JavaScript | 53/100 |
-| 18 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 654 | Shell | 52/100 |
+| 18 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 655 | Shell | 52/100 |
 | 19 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 52/100 |
 | 20 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 51/100 |
 

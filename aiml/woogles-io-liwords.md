@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The liwords project is an open-source platform that enables users to engage in online crossword board games against each other, fostering a community of word game enthusiasts. Leveraging AI/ML technologies, the platform provides a dynamic and interactive experience for users to test their vocabulary and puzzle-solving skills. By facilitating real-time competition, liwords aims to promote social interaction and friendly competition among its users.
+The liwords project is an open-source, cross-platform crossword game that allows users to compete against each other. Built with AI/ML capabilities, this platform enables real-time gameplay, providing a fun and engaging experience for word game enthusiasts. By leveraging machine learning, liwords offers a robust and immersive experience for users to test their vocabulary and word-finding skills.
 
 ---
 

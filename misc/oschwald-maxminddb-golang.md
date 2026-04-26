@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The oschwald/maxminddb-golang project provides a MaxMind DB reader for use in Go applications. This library allows developers to easily read and utilize geographic data from MaxMind's DB files, which contain information such as IP address geolocation and other relevant details. By utilizing this library, developers can efficiently integrate MaxMind's data into their Go-based projects.
+This is a Go library that provides a reader for MaxMind's geographic database files. The library allows developers to easily integrate geographic information into their applications using the MaxMind DB format. It offers a simple API for accessing location data, making it a useful tool for geolocation-based projects.
 
 ---
 

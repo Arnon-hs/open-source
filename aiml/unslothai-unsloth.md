@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/unslothai/unsloth?style=flat-square&color=yellow)](https://github.com/unslothai/unsloth/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/unsloth?style=flat-square&color=blue)](https://github.com/unslothai/unsloth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+> Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 
 ## 📊 Stats
 

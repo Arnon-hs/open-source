@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The rust-lang/libc project is an open-source effort that provides raw, unadorned bindings to platform APIs for the Rust programming language. This allows Rust developers to directly interface with operating system functions and APIs, enabling low-level system programming and interaction. By providing a foundation for platform-specific interactions, libc enables the creation of system-level Rust applications.
+The rust-lang/libc project provides a collection of raw bindings to platform APIs for the Rust programming language, allowing developers to access native operating system functionality. This project serves as a foundation for building Rust's standard library and is essential for bridging the gap between the language and its underlying platform. By offering direct access to platform APIs, rust-lang/libc enables the creation of highly performant and platform-agnostic Rust code.
 
 ---
 

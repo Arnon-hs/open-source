@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Temporal SDK for Rust, a part of the open-source project temporalio/sdk-rust, is a core Temporal SDK that serves as a foundation for language-specific Temporal SDKs. It enables developers to build temporal workflows and applications with ease, providing a robust and scalable solution for distributed systems. This SDK is designed to be highly customizable and extensible, making it a versatile tool for various use cases.
+The temporalio/sdk-rust project is an open-source, core Temporal SDK written in Rust. It serves as a foundation for building language-specific Temporal SDKs, enabling developers to integrate the Temporal engine into various programming languages and ecosystems. This SDK provides a robust and scalable base for implementing Temporal functionality across different platforms.
 
 ---
 

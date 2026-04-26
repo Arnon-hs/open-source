@@ -1,6 +1,6 @@
 # AuthorizeNet/sdk-php
 
-[![Stars](https://img.shields.io/github/stars/AuthorizeNet/sdk-php?style=flat-square&color=yellow)](https://github.com/AuthorizeNet/sdk-php/stargazers) [![Forks](https://img.shields.io/github/forks/AuthorizeNet/sdk-php?style=flat-square&color=blue)](https://github.com/AuthorizeNet/sdk-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AuthorizeNet/sdk-php?style=flat-square&color=yellow)](https://github.com/AuthorizeNet/sdk-php/stargazers) [![Forks](https://img.shields.io/github/forks/AuthorizeNet/sdk-php?style=flat-square&color=blue)](https://github.com/AuthorizeNet/sdk-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > PHP SDK for Authorize.Net API
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 454 |
+| ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 402 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

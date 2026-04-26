@@ -25,7 +25,7 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-The go-appsec/toolbox is an open-source project that enables collaborative application security testing between humans and agents through a Command-Line Interface (CLI) and Machine-Computer Partnership (MCP). By leveraging AI/ML capabilities, this project facilitates more efficient and effective security testing, enhancing the overall application security posture. It aims to bridge the gap between human expertise and automated testing, resulting in more comprehensive and reliable security assessments.
+The go-appsec/toolbox is an open-source project that enables collaborative application security testing through a user-friendly command-line interface (CLI) and Machine Control Panel (MCP). This innovative tool facilitates the interaction between humans and AI/ML agents, streamlining the application security testing process. By integrating human expertise with machine learning capabilities, go-appsec/toolbox aims to enhance the efficiency and effectiveness of security testing.
 
 ---
 

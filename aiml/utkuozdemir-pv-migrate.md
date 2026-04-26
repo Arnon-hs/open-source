@@ -25,9 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-pv-migrate is a command-line interface (CLI) tool designed to simplify the migration, backup, and restoration of Kubernetes persistent volumes, making it easier to manage and maintain complex stateful applications. This open-source tool helps streamline Kubernetes operations, reducing the risk and effort associated with data migration and recovery. By automating the process, pv-migrate saves developers and operations teams time and resources.
+The utkuozdemir/pv-migrate project is an open-source CLI tool designed to simplify the migration, backup, and restoration of Kubernetes persistent volumes. This tool provides a convenient and efficient way to manage persistent data in Kubernetes environments, making it an essential tool for DevOps and infrastructure teams. By leveraging pv-migrate, users can ensure seamless data continuity and minimize downtime during Kubernetes cluster migrations or upgrades.
 
 ---
 

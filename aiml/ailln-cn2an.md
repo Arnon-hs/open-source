@@ -1,6 +1,6 @@
 # Ailln/cn2an
 
-[![Stars](https://img.shields.io/github/stars/Ailln/cn2an?style=flat-square&color=yellow)](https://github.com/Ailln/cn2an/stargazers) [![Forks](https://img.shields.io/github/forks/Ailln/cn2an?style=flat-square&color=blue)](https://github.com/Ailln/cn2an/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ailln/cn2an?style=flat-square&color=yellow)](https://github.com/Ailln/cn2an/stargazers) [![Forks](https://img.shields.io/github/forks/Ailln/cn2an?style=flat-square&color=blue)](https://github.com/Ailln/cn2an/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 📦 快速转化「中文数字」和「阿拉伯数字」～ (最新特性：分数，日期、温度等转化）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 759 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

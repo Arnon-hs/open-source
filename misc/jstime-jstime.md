@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The jstime project is an open-source runtime platform designed to provide an alternative execution environment for applications. It aims to offer a versatile and customizable foundation for developing various software projects. With a focus on flexibility and extensibility, jstime enables developers to create and deploy efficient, scalable solutions.
+jstime/jstime is an open-source runtime project that provides an alternative execution environment for various applications. Its primary goal is to serve as a versatile and customizable platform for running various types of code, offering a flexible and extensible solution for developers. By leveraging this runtime, users can create and deploy innovative applications across different domains and use cases.
 
 ---
 

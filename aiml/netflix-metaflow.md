@@ -25,7 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Metaflow is an open-source platform for building, managing, and deploying AI/ML systems. It allows data scientists and developers to create reproducible, scalable, and easy-to-deploy AI pipelines, streamlining the entire machine learning workflow from experimentation to production. With Metaflow, users can focus on developing AI models without worrying about the underlying infrastructure.
+Metaflow is an open-source project from Netflix that empowers data scientists and engineers to build, manage, and deploy AI and machine learning (ML) systems efficiently. It provides a flexible and scalable framework for automating workflows, managing datasets, and tracking model performance, making it easier to bring AI and ML models into production. With Metaflow, users can focus on developing and improving their models without worrying about the complexities of deployment and management.
 
 ---
 

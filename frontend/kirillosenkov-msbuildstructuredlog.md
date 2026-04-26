@@ -1,6 +1,6 @@
 # KirillOsenkov/MSBuildStructuredLog
 
-[![Stars](https://img.shields.io/github/stars/KirillOsenkov/MSBuildStructuredLog?style=flat-square&color=yellow)](https://github.com/KirillOsenkov/MSBuildStructuredLog/stargazers) [![Forks](https://img.shields.io/github/forks/KirillOsenkov/MSBuildStructuredLog?style=flat-square&color=blue)](https://github.com/KirillOsenkov/MSBuildStructuredLog/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KirillOsenkov/MSBuildStructuredLog?style=flat-square&color=yellow)](https://github.com/KirillOsenkov/MSBuildStructuredLog/stargazers) [![Forks](https://img.shields.io/github/forks/KirillOsenkov/MSBuildStructuredLog?style=flat-square&color=blue)](https://github.com/KirillOsenkov/MSBuildStructuredLog/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 227 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

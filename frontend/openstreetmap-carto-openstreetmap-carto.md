@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-OpenStreetMap Carto is an open-source, general-purpose map style for OpenStreetMap data, developed using CartoCSS. This style is designed to provide a versatile and customizable visual representation of geographic data, suitable for a wide range of use cases and applications. It allows users to easily customize and adapt the map style to their specific needs and preferences.
+The openstreetmap-carto project is an open-source, general-purpose stylesheet for OpenStreetMap (OSM) data, utilizing the CartoCSS language. This style provides a versatile and customizable visual representation of OSM data, suitable for a wide range of applications. It allows developers to create high-quality, visually appealing maps for various use cases.
 
 ---
 
