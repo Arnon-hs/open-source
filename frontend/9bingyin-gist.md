@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The 9bingyin/Gist project is an open-source, modern RSS reader application built using React for the frontend and Go for the backend. This application provides an intuitive and efficient way to manage and read RSS feeds, making it easy to stay up-to-date on the latest news and content from your favorite sources. With its open-source nature, the project welcomes contributions and collaborations to further enhance its functionality and user experience.
+Gist is an open-source, modern RSS reader application built with React and Go. It provides a user-friendly interface to manage and read RSS feeds, making it easy to stay up-to-date with your favorite blogs and websites. This Frontend project offers a convenient and accessible solution for RSS enthusiasts.
 
 ---
 

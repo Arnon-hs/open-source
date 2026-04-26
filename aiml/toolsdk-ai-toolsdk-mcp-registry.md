@@ -25,9 +25,9 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the open-source project:
 
-The toolsdk-mcp-registry is an open-source registry and database for MCPSDK.dev's ToolSDK.ai, providing a centralized platform for discovering and managing MCP servers and packages. With support for OAuth2.1 and DCR, this structured JSON configuration system facilitates seamless integration and collaboration in AI/ML and backend development. It serves as a valuable resource for data management and exchange.
+The toolsdk-mcp-registry project is an open-source registry and database for MCPSDK.dev (ToolSDK.ai) that stores structured JSON configurations for Awesome MCP Servers and Packages. This repository supports OAuth2.1 and DCR standards, making it a robust and secure solution for managing AI/ML and data-related tasks. It serves as a centralized hub for developers to access and manage their packages and servers.
 
 ---
 

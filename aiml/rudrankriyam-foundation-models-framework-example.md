@@ -25,7 +25,7 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-The rudrankriyam/Foundation-Models-Framework-Example project is an open-source repository showcasing example applications that leverage the Foundation Models Framework in iOS 26 and macOS 26. This framework enables developers to integrate advanced AI and ML capabilities into their mobile applications. By exploring this project, developers can gain hands-on experience with implementing foundation models in their own mobile projects.
+This open-source project, rudrankriyam/Foundation-Models-Framework-Example, provides example applications for the Foundation Models Framework, showcasing its capabilities in iOS 26 and macOS 26. The framework enables developers to leverage advanced AI and machine learning features in their mobile applications. By exploring this example code, developers can gain a deeper understanding of the Foundation Models Framework and its potential in mobile app development.
 
 ---
 

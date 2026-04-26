@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/grafbase/grafbase?style=flat-square&color=yellow)](https://github.com/grafbase/grafbase/stargazers) [![Forks](https://img.shields.io/github/forks/grafbase/grafbase?style=flat-square&color=blue)](https://github.com/grafbase/grafbase/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
-> The Grafbase GraphQL Federation Gateway
+> [Acquired by The Guild] The Grafbase GraphQL Federation Gateway
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Frontend · Backend
 
 ## 📝 Summary
 

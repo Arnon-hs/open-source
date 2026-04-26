@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The figsoda/unnix project provides a way to create reproducible Nix environments without requiring a full Nix installation. This allows users to easily manage and reproduce complex software environments without the need for a dedicated Nix setup. By leveraging unnix, users can achieve consistency and reliability in their development workflows.
+Here's a brief summary for the open-source project figsoda/unnix:
+
+unnix is an open-source project that enables the creation of reproducible Nix environments without requiring a full Nix installation. This project provides a lightweight alternative for building and managing isolated software environments, ideal for developers and researchers who need to reproduce complex setups. By leveraging unnix, users can easily create and share self-contained environments, promoting reproducibility and portability.
 
 ---
 

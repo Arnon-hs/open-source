@@ -1,6 +1,6 @@
 # apache/httpcomponents-client
 
-[![Stars](https://img.shields.io/github/stars/apache/httpcomponents-client?style=flat-square&color=yellow)](https://github.com/apache/httpcomponents-client/stargazers) [![Forks](https://img.shields.io/github/forks/apache/httpcomponents-client?style=flat-square&color=blue)](https://github.com/apache/httpcomponents-client/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/httpcomponents-client?style=flat-square&color=yellow)](https://github.com/apache/httpcomponents-client/stargazers) [![Forks](https://img.shields.io/github/forks/apache/httpcomponents-client?style=flat-square&color=blue)](https://github.com/apache/httpcomponents-client/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of Apache HttpClient
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 981 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

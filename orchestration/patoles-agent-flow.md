@@ -1,6 +1,6 @@
 # patoles/agent-flow
 
-[![Stars](https://img.shields.io/github/stars/patoles/agent-flow?style=flat-square&color=yellow)](https://github.com/patoles/agent-flow/stargazers) [![Forks](https://img.shields.io/github/forks/patoles/agent-flow?style=flat-square&color=blue)](https://github.com/patoles/agent-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/patoles/agent-flow?style=flat-square&color=yellow)](https://github.com/patoles/agent-flow/stargazers) [![Forks](https://img.shields.io/github/forks/patoles/agent-flow?style=flat-square&color=blue)](https://github.com/patoles/agent-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 815 |
+| ⭐ **Stars** | 816 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

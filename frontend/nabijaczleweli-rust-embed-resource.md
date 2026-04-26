@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The rust-embed-resource project is an open-source library for handling Windows resource compilation and inclusion within Rust projects using Cargo. It provides a resilient solution for embedding resources into Rust applications, making it easier to manage and maintain complex frontend builds. This library streamlines the process of integrating Windows resources into your Rust frontend development workflow.
+The Rust-Embed-Resource library is an open-source, Cargo build script library designed to handle the compilation and inclusion of Windows resources in a resilient manner. This library simplifies the process of working with Windows resources in Rust applications, making it easier to integrate resource files into projects. With its robust approach, developers can focus on building their applications without worrying about the complexities of resource management.
 
 ---
 

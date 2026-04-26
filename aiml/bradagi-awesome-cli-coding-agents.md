@@ -25,7 +25,9 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The 'awesome-cli-coding-agents' project is an open-source directory that showcases a curated collection of terminal-native AI coding agents and their orchestration harnesses. This comprehensive resource covers a wide range of tools and platforms, including open-source and proprietary options, to facilitate efficient and autonomous coding workflows. It serves as a valuable resource for developers and DevOps teams seeking to leverage AI and ML capabilities in their terminal-based coding environments.
+Here's a brief summary of the project:
+
+The awesome-cli-coding-agents repository is a curated collection of open-source terminal-native AI coding agents and their orchestrating harnesses. This directory encompasses a wide range of tools, including Pi, OpenCode, Aider, Goose, Claude Code, Codex, and Gemini CLI, as well as parallel runners and autonomous loops. It serves as a valuable resource for developers and researchers interested in leveraging AI and ML for coding tasks and DevOps/Infra operations.
 
 ---
 

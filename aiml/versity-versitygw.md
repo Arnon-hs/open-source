@@ -1,6 +1,6 @@
 # versity/versitygw
 
-[![Stars](https://img.shields.io/github/stars/versity/versitygw?style=flat-square&color=yellow)](https://github.com/versity/versitygw/stargazers) [![Forks](https://img.shields.io/github/forks/versity/versitygw?style=flat-square&color=blue)](https://github.com/versity/versitygw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/versity/versitygw?style=flat-square&color=yellow)](https://github.com/versity/versitygw/stargazers) [![Forks](https://img.shields.io/github/forks/versity/versitygw?style=flat-square&color=blue)](https://github.com/versity/versitygw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A simple to deploy but feature rich S3 object storage server for your filesystem
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 244 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

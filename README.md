@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **7256** |
+| 🗂️ **Total projects** | **7349** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2789 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1313 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 725 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 639 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 415 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 411 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 250 | [Browse →](./crypto/) |
-| 📊 **Data** | 162 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 2829 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1334 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 735 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 644 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 417 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 416 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 251 | [Browse →](./crypto/) |
+| 📊 **Data** | 165 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 142 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 107 | [Browse →](./mobile/) |
-| 💳 **Payments** | 101 | [Browse →](./payments/) |
+| 📱 **Mobile** | 110 | [Browse →](./mobile/) |
+| 💳 **Payments** | 103 | [Browse →](./payments/) |
 | 📈 **Trading** | 75 | [Browse →](./trading/) |
-| 🔐 **Security** | 71 | [Browse →](./security/) |
+| 🔐 **Security** | 72 | [Browse →](./security/) |
 | ✨ **Design** | 26 | [Browse →](./design/) |
 | 🎯 **Product** | 20 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 10 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [code-yeongyu/oh-my-openagent](./orchestration/code-yeongyu-oh-my-openagent.md) | ⭐ 54.2k | Orchestration |
-| 2 | [Tyrrrz/YoutubeDownloader](./marketing/tyrrrz-youtubedownloader.md) | ⭐ 14.8k | Marketing |
-| 3 | [wailsapp/wails](./aiml/wailsapp-wails.md) | ⭐ 33.9k | AI/ML |
-| 4 | [lionsoul2014/ip2region](./devtools/lionsoul2014-ip2region.md) | ⭐ 19k | DevTools |
+| 1 | [hibernate/hibernate-orm](./data/hibernate-hibernate-orm.md) | ⭐ 6.4k | Data |
+| 2 | [code-yeongyu/oh-my-openagent](./orchestration/code-yeongyu-oh-my-openagent.md) | ⭐ 54.2k | Orchestration |
+| 3 | [Tyrrrz/YoutubeDownloader](./marketing/tyrrrz-youtubedownloader.md) | ⭐ 14.8k | Marketing |
+| 4 | [wailsapp/wails](./aiml/wailsapp-wails.md) | ⭐ 33.9k | AI/ML |
 | 5 | [jeessy2/ddns-go](./aiml/jeessy2-ddns-go.md) | ⭐ 16.7k | AI/ML |
-| 6 | [lutzroeder/netron](./aiml/lutzroeder-netron.md) | ⭐ 32.8k | AI/ML |
-| 7 | [netbox-community/netbox](./devopsinfra/netbox-community-netbox.md) | ⭐ 20.3k | DevOps & Infra |
-| 8 | [wkentaro/labelme](./aiml/wkentaro-labelme.md) | ⭐ 15.8k | AI/ML |
-| 9 | [zulip/zulip](./frontend/zulip-zulip.md) | ⭐ 25.1k | Frontend |
-| 10 | [containerd/containerd](./aiml/containerd-containerd.md) | ⭐ 20.6k | AI/ML |
+| 6 | [netbox-community/netbox](./devopsinfra/netbox-community-netbox.md) | ⭐ 20.3k | DevOps & Infra |
+| 7 | [wkentaro/labelme](./aiml/wkentaro-labelme.md) | ⭐ 15.8k | AI/ML |
+| 8 | [iii-hq/iii](./aiml/iii-hq-iii.md) | ⭐ 15.3k | AI/ML |
+| 9 | [containerd/containerd](./aiml/containerd-containerd.md) | ⭐ 20.6k | AI/ML |
+| 10 | [PaddlePaddle/PaddleOCR](./aiml/paddlepaddle-paddleocr.md) | ⭐ 76.6k | AI/ML |
 
 ## 🚀 How it works
 

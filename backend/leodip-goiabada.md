@@ -25,7 +25,9 @@ Backend · Security
 
 ## 📝 Summary
 
-Goiabada is an open-source OAuth2 / OpenID Connect server built using the Go programming language. It provides a secure and scalable solution for authenticating and authorizing users, making it an ideal choice for modern web applications. With Goiabada, developers can easily integrate robust authentication and authorization capabilities into their projects.
+Here's a brief summary for the leodip/goiabada open-source project:
+
+Goiabada is an open-source OAuth2 and OpenID Connect server written in Go. It provides a secure and scalable solution for authentication and authorization in distributed systems. With Goiabada, developers can easily implement single sign-on and identity management capabilities in their applications.
 
 ---
 

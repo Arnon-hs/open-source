@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Markut is an open-source, stack-based language designed for editing videos. It provides a simple and efficient way to manipulate video data, allowing developers to automate and streamline video editing tasks. By leveraging a stack-based approach, Markut enables easy and intuitive video editing capabilities.
+The markut project is an open-source, stack-based language designed for editing videos in a simple and efficient manner. This language allows users to create and manipulate video content through a set of intuitive commands, making video editing accessible to a wide range of audiences. By leveraging a stack-based approach, markut provides a unique and innovative solution for video editing tasks.
 
 ---
 

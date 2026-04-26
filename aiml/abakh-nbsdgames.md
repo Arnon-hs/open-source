@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, 'abakh/nbsdgames', is a comprehensive collection of 21 text-based modern games that cater to users seeking entertainment and interactive experiences. The package offers a diverse range of games, all of which can be accessed through text-based interfaces, providing a simplified and accessible way to engage with various gaming options. By leveraging this project, users can explore a wide variety of games without requiring extensive graphics or complex setup.
+The abakh/nbsdgames project is an open-source collection of 21 text-based modern games, offering a diverse range of interactive experiences. Developed with a focus on artificial intelligence and machine learning, these games cater to users looking for engaging, text-based entertainment. This package is perfect for those who enjoy playing games in a console-like environment from the comfort of their command line or terminal.
 
 ---
 

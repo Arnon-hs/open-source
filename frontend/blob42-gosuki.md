@@ -25,9 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project "gosuki":
-
-Gosuki is a lightweight, open-source bookmark manager that prioritizes user privacy by storing all data locally. This innovative tool seamlessly unifies bookmarks across multiple browsers, syncing them in real-time either locally or through peer-to-peer connections without the need for browser extensions. By maintaining a decentralized approach, gosuki provides users with a secure and convenient way to manage their bookmarks.
+The gosuki project is an open-source, privacy-focused bookmark manager that allows users to centralize their bookmarks across multiple browsers while maintaining complete control over their data. This lightweight tool synchronizes bookmarks in real-time, either locally or through peer-to-peer connections, without the need for browser extensions. By storing data locally, users can ensure their bookmark collection remains private and secure.
 
 ---
 

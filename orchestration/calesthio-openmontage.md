@@ -1,6 +1,6 @@
 # calesthio/OpenMontage
 
-[![Stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square&color=yellow)](https://github.com/calesthio/OpenMontage/stargazers) [![Forks](https://img.shields.io/github/forks/calesthio/OpenMontage?style=flat-square&color=blue)](https://github.com/calesthio/OpenMontage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square&color=yellow)](https://github.com/calesthio/OpenMontage/stargazers) [![Forks](https://img.shields.io/github/forks/calesthio/OpenMontage?style=flat-square&color=blue)](https://github.com/calesthio/OpenMontage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 620 |
+| 🍴 **Forks** | 622 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

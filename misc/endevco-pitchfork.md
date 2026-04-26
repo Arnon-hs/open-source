@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The pitchfork project is an open-source initiative that focuses on developing daemons with a focus on user experience, often referred to as "DX" or Developer Experience. This project aims to create high-quality, user-friendly daemons that enhance the overall experience for users and developers alike. By prioritizing DX, pitchfork seeks to make complex systems more accessible and enjoyable to work with.
+The endevco/pitchfork project is an open-source initiative that aims to provide a set of daemons with enhanced features and capabilities. By incorporating a design system (DX), these daemons are built to be more efficient, scalable, and maintainable, catering to the needs of developers and users alike. The project's primary objective is to offer a robust and adaptable solution for various use cases.
 
 ---
 

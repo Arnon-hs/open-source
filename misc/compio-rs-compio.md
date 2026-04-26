@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Compio is an open-source, thread-per-core asynchronous Rust runtime that provides high-performance I/O handling through various mechanisms, including IOCP, io_uring, and polling. This runtime aims to optimize system resource utilization and efficiency. By leveraging Rust's concurrency features, Compio enables developers to build efficient and scalable applications.
+Compio is an open-source, thread-per-core async Rust runtime that provides high-performance I/O operations through various mechanisms, including IOCP (Windows), io_uring (Linux), and polling. This runtime is designed to take advantage of multi-core architectures and optimize async I/O operations for improved responsiveness and throughput. By leveraging these I/O mechanisms, Compio enables developers to build high-performance, concurrent applications in Rust.
 
 ---
 

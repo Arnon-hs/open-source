@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Barnum is an open-source programming language designed for parallel and asynchronous computation, specifically tailored for the orchestration of AI agents. This language enables developers to efficiently coordinate and integrate multiple AI components, facilitating the creation of complex AI systems. By leveraging parallel and asynchronous computation, Barnum aims to accelerate the development and deployment of AI applications.
+Barnum is an open-source programming language designed to simplify parallel and asynchronous computation, making it easier to coordinate complex AI agent interactions. This language enables developers to write efficient and scalable code for AI applications, streamlining the process of integrating multiple agents and leveraging their collective capabilities. By harnessing the power of parallel and asynchronous computation, Barnum aims to accelerate AI development and deployment.
 
 ---
 

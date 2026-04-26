@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/mihai-dinculescu/tapo?style=flat-square&color=yellow)](https://github.com/mihai-dinculescu/tapo/stargazers) [![Forks](https://img.shields.io/github/forks/mihai-dinculescu/tapo?style=flat-square&color=blue)](https://github.com/mihai-dinculescu/tapo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
-> 🦀 Rust API, 🐍 Python API, and 🤖 MCP server for TP-Link Tapo smart devices
+> 🦀 Rust API, 🐍 Python API, and 🤖 MCP Server for TP-Link Tapo smart devices
 
 ## 📊 Stats
 

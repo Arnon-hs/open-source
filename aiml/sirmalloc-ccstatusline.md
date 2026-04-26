@@ -1,6 +1,6 @@
 # sirmalloc/ccstatusline
 
-[![Stars](https://img.shields.io/github/stars/sirmalloc/ccstatusline?style=flat-square&color=yellow)](https://github.com/sirmalloc/ccstatusline/stargazers) [![Forks](https://img.shields.io/github/forks/sirmalloc/ccstatusline?style=flat-square&color=blue)](https://github.com/sirmalloc/ccstatusline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sirmalloc/ccstatusline?style=flat-square&color=yellow)](https://github.com/sirmalloc/ccstatusline/stargazers) [![Forks](https://img.shields.io/github/forks/sirmalloc/ccstatusline?style=flat-square&color=blue)](https://github.com/sirmalloc/ccstatusline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.3k |
-| 🍴 **Forks** | 366 |
+| 🍴 **Forks** | 367 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

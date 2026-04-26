@@ -1,6 +1,6 @@
 # GiovanniPasq/agentic-rag-for-dummies
 
-[![Stars](https://img.shields.io/github/stars/GiovanniPasq/agentic-rag-for-dummies?style=flat-square&color=yellow)](https://github.com/GiovanniPasq/agentic-rag-for-dummies/stargazers) [![Forks](https://img.shields.io/github/forks/GiovanniPasq/agentic-rag-for-dummies?style=flat-square&color=blue)](https://github.com/GiovanniPasq/agentic-rag-for-dummies/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GiovanniPasq/agentic-rag-for-dummies?style=flat-square&color=yellow)](https://github.com/GiovanniPasq/agentic-rag-for-dummies/stargazers) [![Forks](https://img.shields.io/github/forks/GiovanniPasq/agentic-rag-for-dummies?style=flat-square&color=blue)](https://github.com/GiovanniPasq/agentic-rag-for-dummies/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 426 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

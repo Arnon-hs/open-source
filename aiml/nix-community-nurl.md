@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The nurl project is an open-source tool that automatically generates Nix fetcher calls from URLs. This helps users create Nix expressions to fetch and use software from online repositories. By utilizing nurl, developers can streamline their workflow and simplify the process of incorporating external dependencies into their Nix-based projects.
+The nurl project is an open-source tool for generating Nix fetcher calls from URLs. Developed by @figsoda, it simplifies the process of integrating external dependencies into Nix-based projects, particularly in the context of AI and machine learning. With nurl, users can easily convert URLs into Nix-compatible fetcher calls.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the project:
 
-The rustyscreeps/screeps-game-api project provides typed and modern bindings to the Screeps in-game API, enabling developers to create more efficient and effective WASM Rust Artificial Intelligence (AI) players. By simplifying the interaction with the game's API, this library aims to make it easier for developers to create complex strategies and AI behaviors. With this project, Screeps players can now leverage the power of Rust to write more sophisticated code.
+Screeps Game API provides typed bindings to the Screeps in-game API, enabling the development of WASM Rust AIs that can efficiently interact with the game environment. This project offers a convenient and type-safe way to access the game's functionality, allowing coders to focus on creating complex AI strategies. By leveraging Rust's performance and WASM's compactness, Screeps Game API helps optimize AI execution within the game.
 
 ---
 

@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Maestro is an open-source project that enables workflow fluency for AI coding agents across various platforms. It provides a unified interface with 1 skill and 21 commands, allowing users to interact with tools such as Cursor, Claude Code, Gemini CLI, Copilot, and 6 more. This project caters to the needs of developers working with AI/ML technologies and offers a convenient orchestration solution for DevTools.
+Here's a 3-sentence summary for the sharpdeveye/maestro project:
+
+Maestro is an open-source project that streamlines workflow for AI coding agents, offering users a unified interface across multiple platforms. With its extensive library of 21 commands and 7 references, Maestro empowers developers to work seamlessly with popular tools like Cursor, Claude Code, Gemini CLI, Copilot, and more. By providing a single skill to access these diverse platforms, Maestro enhances the productivity and efficiency of AI-powered coding experiences.
 
 ---
 

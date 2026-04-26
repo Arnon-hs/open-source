@@ -1,6 +1,6 @@
 # temidaradev/kopuz
 
-[![Stars](https://img.shields.io/github/stars/temidaradev/kopuz?style=flat-square&color=yellow)](https://github.com/temidaradev/kopuz/stargazers) [![Forks](https://img.shields.io/github/forks/temidaradev/kopuz?style=flat-square&color=blue)](https://github.com/temidaradev/kopuz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/temidaradev/kopuz?style=flat-square&color=yellow)](https://github.com/temidaradev/kopuz/stargazers) [![Forks](https://img.shields.io/github/forks/temidaradev/kopuz?style=flat-square&color=blue)](https://github.com/temidaradev/kopuz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Another music player but written in rust using dioxus (local files and jellyfin supported)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 416 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 424 |
+| 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

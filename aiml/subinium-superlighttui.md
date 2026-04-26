@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the SuperLightTUI project:
-
-SuperLightTUI is an open-source, immediate-mode Rust framework for building Terminal User Interfaces (TUIs) with a flexbox layout and a Tailwind-style chaining API. It provides a flexible and customizable way to create complex TUI applications with ease. With its powerful features, SuperLightTUI is ideal for building a wide range of applications, from simple command-line tools to complex interactive interfaces.
+SuperLightTUI is an open-source, immediate-mode Rust framework for building Terminal User Interfaces (TUIs) with a flexbox layout and a Tailwind-style API for effortless styling. This framework offers a powerful and flexible solution for developers looking to create complex and visually appealing TUI applications. Its design enables rapid development and customization of TUI interfaces.
 
 ---
 

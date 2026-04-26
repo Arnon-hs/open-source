@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The Xous microkernel is an open-source, secure operating system designed to provide a robust foundation for building trusted computing systems. Developed as part of the betrusted-io project, Xous aims to offer a highly customizable and efficient platform for applications requiring low-level control and high security. This microkernel serves as a fundamental building block for various secure computing endeavors.
+Here's a brief summary for the betrusted-io/xous-core project:
+
+The Xous microkernel is an open-source project that provides a secure and efficient operating system core, designed to support a wide range of embedded and IoT applications. This microkernel offers a lightweight and modular architecture, allowing developers to create custom operating systems that meet their specific needs. By leveraging the Xous core, developers can build secure, scalable, and reliable systems with minimal overhead.
 
 ---
 

@@ -25,9 +25,7 @@ Payments · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The oc-go-cc project integrates OpenCode Go with Claude Code, enabling users to leverage their OpenCode Go subscription for enhanced AI and machine learning capabilities. This integration facilitates seamless code collaboration and development using Claude Code's features. By combining these tools, developers can streamline their workflow and improve productivity.
+The oc-go-cc project is an open-source initiative that enables users to integrate their OpenCode Go subscription with Claude Code, providing a seamless experience for coding and development. This integration offers enhanced capabilities for users to access and utilize their OpenCode Go subscription within the Claude Code environment. The project aims to streamline development workflows and unlock new possibilities for users.
 
 ---
 

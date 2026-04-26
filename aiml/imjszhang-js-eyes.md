@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-js-eyes is an open-source browser extension that enables AI-powered agent interactions, inspired by OpenClaw. This project integrates artificial intelligence capabilities into web browsing, allowing for the creation of advanced AI agents that can interact with online content. By utilizing js-eyes, developers can build sophisticated AI applications that seamlessly interact with web-based interfaces.
+The "js-eyes" project is an open-source browser extension that enables the integration of AI agents, such as OpenClaw, into web applications. This extension allows developers to leverage AI capabilities within their browser, opening up new possibilities for interactive and dynamic web experiences. By harnessing the power of AI, "js-eyes" aims to revolutionize the way we interact with the web.
 
 ---
 

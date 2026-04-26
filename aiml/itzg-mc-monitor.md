@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The itzg/mc-monitor project is an open-source tool that enables users to monitor the status of their Minecraft servers in a centralized and efficient manner. It achieves this by providing a Prometheus exporter and Influx line protocol output, allowing for seamless integration with monitoring systems and data analysis tools. This project simplifies server monitoring, making it easier to troubleshoot and optimize Minecraft server performance.
+The itzg/mc-monitor project is an open-source tool that allows users to monitor the status of their Minecraft servers. It provides two key features: a Prometheus exporter, which enables server metrics to be scraped and stored in a Prometheus database for further analysis, and Influx line protocol output, which enables real-time data streaming into InfluxDB for visualization and monitoring. This project helps Minecraft server administrators to gain insights into server performance and optimize their infrastructure.
 
 ---
 

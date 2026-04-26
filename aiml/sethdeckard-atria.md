@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Atria is an open-source, text-based user interface (TUI) designed to empower developers by providing a centralized hub to manage multiple AI coding agents. With Atria, users can easily navigate and interact with these agents in terminal tabs and panes, streamlining the development process. This project aims to bridge the gap between AI-assisted coding and efficient terminal management.
+Atria is an open-source Terminal User Interface (TUI) designed for managing multiple AI coding agents across various terminal tabs and panes. This intuitive tool streamlines the development process by providing a centralized hub for interacting with and navigating multiple agents. Atria aims to enhance productivity and efficiency for developers and researchers working with AI-coded projects.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Codebot is an open-source coding agent that utilizes AI/ML capabilities to assist with coding tasks. This project aims to automate routine coding processes and provide developers with an intelligent coding companion. With Codebot, users can streamline their coding workflow, save time, and focus on more complex and creative aspects of software development.
+Codebot is an open-source AI/ML project that offers a coding agent designed to assist developers with various coding tasks. This tool enables users to automate repetitive coding processes, freeing up time for more complex and creative work. By leveraging its capabilities, users can streamline their coding workflow and boost productivity.
 
 ---
 

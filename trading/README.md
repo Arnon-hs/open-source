@@ -8,16 +8,16 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 100/100 |
-| 2 | [ZhuLinsen/daily_stock_analysis](./zhulinsen-daily-stock-analysis.md) | ⭐ 31.6k | Python | 100/100 |
-| 3 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | HTML | 100/100 |
-| 4 | [MISP/MISP](./misp-misp.md) | ⭐ 6.3k | PHP | 100/100 |
-| 5 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
-| 6 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 100/100 |
-| 7 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | — | 100/100 |
-| 8 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 24k | Python | 100/100 |
-| 9 | [hiyouga/LlamaFactory](./hiyouga-llamafactory.md) | ⭐ 70.6k | Python | 100/100 |
-| 10 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.3k | TypeScript | 100/100 |
+| 1 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | — | 100/100 |
+| 2 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 100/100 |
+| 3 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 100/100 |
+| 4 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | HTML | 100/100 |
+| 5 | [MISP/MISP](./misp-misp.md) | ⭐ 6.3k | PHP | 100/100 |
+| 6 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
+| 7 | [ZhuLinsen/daily_stock_analysis](./zhulinsen-daily-stock-analysis.md) | ⭐ 31.6k | Python | 100/100 |
+| 8 | [hiyouga/LlamaFactory](./hiyouga-llamafactory.md) | ⭐ 70.6k | Python | 100/100 |
+| 9 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.3k | TypeScript | 100/100 |
+| 10 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 24k | Python | 100/100 |
 | 11 | [QuantumNous/new-api](./quantumnous-new-api.md) | ⭐ 29k | Go | 99/100 |
 | 12 | [TauricResearch/TradingAgents](./tauricresearch-tradingagents.md) | ⭐ 53.1k | Python | 96/100 |
 | 13 | [intuitem/ciso-assistant-community](./intuitem-ciso-assistant-community.md) | ⭐ 4k | Python | 88/100 |
@@ -40,18 +40,18 @@
 | 30 | [PaPerseller/chn-iplist](./paperseller-chn-iplist.md) | ⭐ 1.2k | RouterOS Script | 61/100 |
 | 31 | [Erudika/scoold](./erudika-scoold.md) | ⭐ 916 | Java | 60/100 |
 | 32 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 911 | Rust | 59/100 |
-| 33 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 953 | Python | 59/100 |
+| 33 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 955 | Python | 59/100 |
 | 34 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 619 | Python | 59/100 |
-| 35 | [tcgdex/cards-database](./tcgdex-cards-database.md) | ⭐ 749 | TypeScript | 58/100 |
-| 36 | [abshare/abshare.github.io](./abshare-abshare.github.io.md) | ⭐ 979 | — | 58/100 |
-| 37 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 703 | Jupyter Notebook | 57/100 |
-| 38 | [mguessan/davmail](./mguessan-davmail.md) | ⭐ 717 | Java | 57/100 |
+| 35 | [abshare/abshare.github.io](./abshare-abshare.github.io.md) | ⭐ 979 | — | 58/100 |
+| 36 | [tcgdex/cards-database](./tcgdex-cards-database.md) | ⭐ 749 | TypeScript | 58/100 |
+| 37 | [mguessan/davmail](./mguessan-davmail.md) | ⭐ 717 | Java | 57/100 |
+| 38 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 703 | Jupyter Notebook | 57/100 |
 | 39 | [freqtrade/technical](./freqtrade-technical.md) | ⭐ 996 | Python | 56/100 |
 | 40 | [himself65/finance-skills](./himself65-finance-skills.md) | ⭐ 1.3k | TypeScript | 56/100 |
 | 41 | [QMCPACK/qmcpack](./qmcpack-qmcpack.md) | ⭐ 383 | C++ | 55/100 |
 | 42 | [IntQuant/noita_entangled_worlds](./intquant-noita-entangled-worlds.md) | ⭐ 1.1k | Rust | 54/100 |
 | 43 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 446 | Rust | 54/100 |
-| 44 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 404 | Python | 54/100 |
+| 44 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 407 | Python | 54/100 |
 | 45 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 578 | Swift | 54/100 |
 | 46 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 774 | Rust | 54/100 |
 | 47 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
@@ -66,17 +66,17 @@
 | 56 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 87 | Python | 51/100 |
 | 57 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 121 | Go | 51/100 |
 | 58 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 53 | Python | 51/100 |
-| 59 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 157 | Rust | 51/100 |
-| 60 | [flukelaster/ai-trading-agent](./flukelaster-ai-trading-agent.md) | ⭐ 35 | Python | 51/100 |
+| 59 | [flukelaster/ai-trading-agent](./flukelaster-ai-trading-agent.md) | ⭐ 35 | Python | 51/100 |
+| 60 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 157 | Rust | 51/100 |
 | 61 | [tensorcircuit/tensorcircuit-ng](./tensorcircuit-tensorcircuit-ng.md) | ⭐ 70 | Python | 51/100 |
 | 62 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 132 | Python | 51/100 |
-| 63 | [wakatime/wakatime-cli](./wakatime-wakatime-cli.md) | ⭐ 428 | Go | 50/100 |
-| 64 | [quantamixsol/graqle](./quantamixsol-graqle.md) | ⭐ 22 | Python | 50/100 |
-| 65 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 32 | Shell | 50/100 |
-| 66 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
+| 63 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
+| 64 | [wakatime/wakatime-cli](./wakatime-wakatime-cli.md) | ⭐ 428 | Go | 50/100 |
+| 65 | [quantamixsol/graqle](./quantamixsol-graqle.md) | ⭐ 22 | Python | 50/100 |
+| 66 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 32 | Shell | 50/100 |
 | 67 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 24 | Swift | 50/100 |
-| 68 | [LLMQuant/quant-mind](./llmquant-quant-mind.md) | ⭐ 151 | Python | 50/100 |
-| 69 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 28 | Python | 50/100 |
+| 68 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 28 | Python | 50/100 |
+| 69 | [LLMQuant/quant-mind](./llmquant-quant-mind.md) | ⭐ 151 | Python | 50/100 |
 | 70 | [tqec/tqec](./tqec-tqec.md) | ⭐ 358 | Python | 48/100 |
 | 71 | [rivar0107/autostrategy](./rivar0107-autostrategy.md) | ⭐ 14 | Python | 48/100 |
 | 72 | [No-Trade-No-Life/Yuan](./no-trade-no-life-yuan.md) | ⭐ 351 | TypeScript | 48/100 |

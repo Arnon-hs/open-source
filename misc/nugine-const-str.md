@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Nugine/const-str is an open-source project that enables compile-time string operations, allowing developers to manipulate and process strings during the compilation phase of their code. This approach can significantly improve performance and reduce runtime overhead by avoiding the need for dynamic string processing. By leveraging compile-time evaluations, const-str aims to simplify string-related tasks and optimize code efficiency.
+Nugine/const-str is an open-source project that provides compile-time string operations. This project allows developers to manipulate and process strings at compile-time, offering performance improvements and enhanced code readability. By leveraging this functionality, programmers can write more efficient and optimized code.
 
 ---
 

@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-obsidian
 
-[![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-obsidian?style=flat-square&color=yellow)](https://github.com/AgriciDaniel/claude-obsidian/stargazers) [![Forks](https://img.shields.io/github/forks/AgriciDaniel/claude-obsidian?style=flat-square&color=blue)](https://github.com/AgriciDaniel/claude-obsidian/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-obsidian?style=flat-square&color=yellow)](https://github.com/AgriciDaniel/claude-obsidian/stargazers) [![Forks](https://img.shields.io/github/forks/AgriciDaniel/claude-obsidian?style=flat-square&color=blue)](https://github.com/AgriciDaniel/claude-obsidian/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 398 |
+| 🍴 **Forks** | 400 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
