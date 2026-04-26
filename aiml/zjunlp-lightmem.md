@@ -1,6 +1,6 @@
 # zjunlp/LightMem
 
-[![Stars](https://img.shields.io/github/stars/zjunlp/LightMem?style=flat-square&color=yellow)](https://github.com/zjunlp/LightMem/stargazers) [![Forks](https://img.shields.io/github/forks/zjunlp/LightMem?style=flat-square&color=blue)](https://github.com/zjunlp/LightMem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zjunlp/LightMem?style=flat-square&color=yellow)](https://github.com/zjunlp/LightMem/stargazers) [![Forks](https://img.shields.io/github/forks/zjunlp/LightMem?style=flat-square&color=blue)](https://github.com/zjunlp/LightMem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > [ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 777 |
+| ⭐ **Stars** | 779 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

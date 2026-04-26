@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 77 |
-| 🍴 **Forks** | 11 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |

@@ -25,7 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-EngineeringKiosk/GermanTechPodcasts is an open-source project that provides a comprehensive, curated list of German technology podcasts. This collection is accessible to users and can be easily contributed to or updated by the community. The project primarily caters to a mobile audience in Austria, Germany, and Switzerland, where German is the primary language.
+This open-source project, GermanTechPodcasts, is a curated list of German technology podcasts in English. The list includes popular podcasts from Austria, Germany, and Switzerland, making it a valuable resource for tech enthusiasts and professionals interested in German-speaking technology and innovation. It serves as a mobile-friendly directory for convenient access to these podcasts.
 
 ---
 

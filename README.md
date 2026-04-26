@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6681** |
+| 🗂️ **Total projects** | **6770** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,14 +18,14 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2563 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1183 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 660 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 596 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 383 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 380 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 233 | [Browse →](./crypto/) |
-| 📊 **Data** | 155 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 2595 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1205 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 670 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 602 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 391 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 388 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 235 | [Browse →](./crypto/) |
+| 📊 **Data** | 156 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 138 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 102 | [Browse →](./mobile/) |
 | 💳 **Payments** | 94 | [Browse →](./payments/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [vbenjs/vue-vben-admin](./aiml/vbenjs-vue-vben-admin.md) | ⭐ 32.2k | AI/ML |
-| 2 | [zhkl0228/unidbg](./mobile/zhkl0228-unidbg.md) | ⭐ 4.9k | Mobile |
-| 3 | [esphome/esphome](./aiml/esphome-esphome.md) | ⭐ 11k | AI/ML |
-| 4 | [ether/etherpad](./misc/ether-etherpad.md) | ⭐ 18.3k | Misc |
-| 5 | [AccumulateMore/CV](./aiml/accumulatemore-cv.md) | ⭐ 20.3k | AI/ML |
-| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 7 | [logseq/logseq](./product/logseq-logseq.md) | ⭐ 42.4k | Product |
-| 8 | [endless-sky/endless-sky](./trading/endless-sky-endless-sky.md) | ⭐ 7.3k | Trading |
-| 9 | [icsharpcode/ILSpy](./data/icsharpcode-ilspy.md) | ⭐ 25k | Data |
-| 10 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 186.5k | AI/ML |
+| 1 | [apache/casbin](./aiml/apache-casbin.md) | ⭐ 20k | AI/ML |
+| 2 | [Dash-Industry-Forum/dash.js](./devtools/dash-industry-forum-dash.js.md) | ⭐ 5.5k | DevTools |
+| 3 | [AccumulateMore/CV](./aiml/accumulatemore-cv.md) | ⭐ 20.3k | AI/ML |
+| 4 | [PaddlePaddle/PaddleOCR](./aiml/paddlepaddle-paddleocr.md) | ⭐ 76.6k | AI/ML |
+| 5 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 6 | [shanraisshan/claude-code-best-practice](./orchestration/shanraisshan-claude-code-best-practice.md) | ⭐ 48.1k | Orchestration |
+| 7 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
+| 8 | [Canner/WrenAI](./aiml/canner-wrenai.md) | ⭐ 15k | AI/ML |
+| 9 | [Tencent/WeKnora](./aiml/tencent-weknora.md) | ⭐ 14k | AI/ML |
+| 10 | [onyx-dot-app/onyx](./aiml/onyx-dot-app-onyx.md) | ⭐ 28.5k | AI/ML |
 
 ## 🚀 How it works
 

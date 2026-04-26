@@ -25,9 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the go-to-k/cls3 project:
 
-"cls3" is a command-line tool designed to securely and efficiently clear S3 buckets by deleting all objects, versions, and delete markers, or to delete the buckets themselves. This open-source project provides a simple and effective solution for managing and cleaning up S3 storage. With cls3, users can easily maintain their AWS S3 resources and comply with data retention and security policies.
+go-to-k/cls3 is an open-source CLI tool designed to efficiently manage AWS S3 buckets. It provides the capability to clear S3 buckets by deleting all objects, versions, and delete markers, or to delete the buckets themselves. This tool is ideal for developers and administrators looking for a simple and effective solution for S3 bucket management and cleanup.
 
 ---
 

@@ -25,7 +25,7 @@ Crypto
 
 ## 📝 Summary
 
-The offset/onion-vanity-address project is an open-source tool that generates Tor Onion Service v3 vanity addresses with optimized search capabilities. This allows users to efficiently search for and find custom Onion addresses that meet their specific needs. By leveraging advanced search algorithms, the project streamlines the process of finding unique Onion addresses for various applications.
+The offset/onion-vanity-address project is an open-source tool that generates Tor Onion Service v3 vanity addresses efficiently. This project optimizes the search process for unique and personalized Onion addresses, often used for anonymity and security purposes. It helps users to easily create their own custom Onion addresses with a specific pattern or combination of characters.
 
 ---
 

@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the OpenDerisk project:
+Here's a brief summary for the OpenDerisk project:
 
-OpenDerisk is an open-source, AI-native risk intelligence system designed to provide comprehensive and real-time protection for application systems 24/7. It offers in-depth risk detection and management capabilities, empowering users to mitigate potential threats and ensure the security of their applications. With its AI/ML-driven orchestration, OpenDerisk enables proactive risk intelligence management.
+OpenDerisk is an open-source AI-native risk intelligence system that provides 24/7 comprehensive protection for application systems. This platform utilizes advanced AI and ML capabilities to detect and mitigate potential risks, ensuring a secure and reliable environment for applications to operate. With OpenDerisk, organizations can now effectively manage and mitigate application system risks in a proactive and automated manner.
 
 ---
 

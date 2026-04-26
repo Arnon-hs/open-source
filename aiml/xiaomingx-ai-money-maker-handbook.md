@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 233 |
+| ⭐ **Stars** | 2.2k |
+| 🍴 **Forks** | 235 |
 | 💻 **Language** | CSS |
 | 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |

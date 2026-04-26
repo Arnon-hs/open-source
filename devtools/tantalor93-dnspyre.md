@@ -25,9 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary for the Tantalor93/dnspyre open-source project:
 
-DNSpire is an open-source command-line tool designed to perform high-quality, high-quantity per-second (QPS) DNS benchmarking. It allows users to measure the performance and capacity of DNS servers under various loads and scenarios. With DNSpire, developers and network administrators can optimize and troubleshoot their DNS infrastructure for improved reliability and scalability.
+dnspyre is a high-performance command-line tool designed to conduct high QPS (queries per second) DNS benchmarking. This open-source project allows users to test the performance and reliability of DNS servers under heavy loads, providing valuable insights into their capabilities and limitations. By using dnspyre, network administrators can optimize their DNS infrastructure to ensure optimal performance and resilience.
 
 ---
 

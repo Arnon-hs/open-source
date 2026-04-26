@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The Bonfire App is an open-source platform that empowers users to create and host their own customizable online spaces. With a focus on community-driven functionality, Bonfire allows users to tailor their digital experience to their specific needs and preferences. This project is an innovative solution for individuals seeking granular control over their online presence.
+Bonfire is an open-source project that empowers users to create and host their own personalized online communities, providing unparalleled control over their digital experience. This customizable platform combines cutting-edge front-end development with AI/ML capabilities, allowing users to shape their online space according to their unique needs. By hosting their own communities on Bonfire, users can enjoy a granular level of control and customization.
 
 ---
 

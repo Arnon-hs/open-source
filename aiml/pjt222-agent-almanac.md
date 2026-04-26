@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Agent Almanac is an open-source, curated reference platform that provides a comprehensive collection of executable skills, specialist agents, and teams for AI-assisted development. This interactive platform offers a visualization tool to explore and understand the complex landscape of AI capabilities. By leveraging Agent Almanac, developers can discover and integrate the most suitable AI tools and technologies into their projects.
+Here's a 2-3 sentence summary for the Agent Almanac project:
+
+Agent Almanac is an open-source, AI-assisted development platform that provides a curated reference of executable skills, specialist agents, and teams. This platform features interactive visualization, enabling users to explore and discover various AI capabilities and their applications. By offering a centralized repository of AI assets, Agent Almanac aims to streamline the development process and foster innovation in the field of artificial intelligence.
 
 ---
 

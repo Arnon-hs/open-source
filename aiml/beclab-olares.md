@@ -1,6 +1,6 @@
 # beclab/Olares
 
-[![Stars](https://img.shields.io/github/stars/beclab/Olares?style=flat-square&color=yellow)](https://github.com/beclab/Olares/stargazers) [![Forks](https://img.shields.io/github/forks/beclab/Olares?style=flat-square&color=blue)](https://github.com/beclab/Olares/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beclab/Olares?style=flat-square&color=yellow)](https://github.com/beclab/Olares/stargazers) [![Forks](https://img.shields.io/github/forks/beclab/Olares?style=flat-square&color=blue)](https://github.com/beclab/Olares/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Olares: An Open-Source Personal Cloud to Reclaim Your Data
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.4k |
-| 🍴 **Forks** | 250 |
+| 🍴 **Forks** | 251 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

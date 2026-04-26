@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the AccumulateMore/CV project:
+Here's a brief summary for the AccumulateMore/CV project:
 
-This open-source project provides an extensive collection of deep learning notes, covering various topics and resources. The project combines notes from multiple sources, including PyTorch tutorials, Li Mu's "Deep Learning" handbooks, Andrew Ng's deep learning courses, and Dai Wei's large model agent tutorials. The aim is to create a comprehensive and accessible resource for AI and machine learning enthusiasts.
+AccumulateMore/CV is an open-source, comprehensive deep learning note compilation that combines notes from multiple sources, including "Deep Learning" by Li Mu, "Deep Learning" by Andrew Ng, and "Big Model Agent" by Da Fei. The notes cover a wide range of topics in deep learning and are organized for easy reference. This resource aims to assist AI/ML learners and practitioners in their studies and projects.
 
 ---
 

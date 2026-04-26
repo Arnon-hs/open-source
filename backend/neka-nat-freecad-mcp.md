@@ -25,9 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
+Here's a brief summary for the project:
 
-The freecad-mcp project is an open-source implementation of the Model Context Protocol (MCP) server for FreeCAD, enabling seamless integration with other applications. This project provides a backend framework for MCP, facilitating communication between FreeCAD and other systems. By leveraging MCP, users can access and manipulate FreeCAD models from external tools and platforms.
+The freecad-mcp project is an open-source, backend implementation of the Model Context Protocol (MCP) server for FreeCAD, a free and open-source 3D CAD software. This project enables seamless communication between FreeCAD and other applications or services that support the MCP protocol. By providing a standardized interface, freecad-mcp facilitates interoperability and collaboration across different tools and workflows.
 
 ---
 

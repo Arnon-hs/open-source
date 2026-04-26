@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The Draw.io MCP Server is an open-source project that provides a backend implementation for the Model Context Protocol (MCP) used in Draw.io. This server enables seamless integration with Draw.io, allowing developers to leverage its features and functionality in their applications. By utilizing this MCP Server, developers can create a more streamlined and efficient experience for users working with diagrams and visualizations.
+This open-source project, lgazo/drawio-mcp-server, provides an implementation of the Draw.io Model Context Protocol (MCP) Server. It serves as a backend component for handling model context requests and responses, enabling integration with Draw.io and other compatible applications. This server facilitates communication and collaboration by providing a standardized protocol for exchanging model data.
 
 ---
 

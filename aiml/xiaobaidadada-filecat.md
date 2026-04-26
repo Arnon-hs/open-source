@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the open-source project:
+Here's a 2-3 sentence summary for the open-source project:
 
-xiaobaidadada/filecat is an open-source web file browser server manager that incorporates AI capabilities, allowing for intelligent server management and internal network penetration testing. This project provides a comprehensive platform for file and server management, streamlining operations and enhancing productivity. With its AI-powered features, filecat offers a cutting-edge solution for backend development and DevOps tools.
+xiaobaidadada/filecat is an open-source web file browser server manager that integrates AI capabilities to streamline file and server management. This tool also serves as a handy internal network penetration utility, making it a valuable resource for system administrators and developers. By combining AI and server management, filecat aims to simplify complex tasks and improve overall efficiency.
 
 ---
 

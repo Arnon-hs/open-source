@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The DarkNoah/aime-chat project is an open-source, cross-platform AI desktop chat application designed for collaborative work. It supports multiple large language model (LLM) providers, integrates a robust RAG knowledge base, and includes MCP tools, making it a comprehensive solution for AI-driven teamwork. Built with a modern tech stack including Electron, React, and Mastra, this app aims to provide a seamless and efficient AI-powered collaboration experience.
+DarkNoah/aime-chat is an open-source, cross-platform AI desktop chat cowork app that enables seamless collaboration and knowledge sharing. Built with Electron, React, and Mastra, the app supports over 10 leading Large Language Model (LLM) providers and integrates with a Rich Argument Graph (RAG) knowledge base, making it an ideal tool for developers and teams working on AI-related projects. This feature-rich app provides a comprehensive platform for AI-powered coworking and knowledge exchange.
 
 ---
 

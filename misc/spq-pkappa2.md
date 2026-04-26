@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The spq/pkappa2 project is an open-source network traffic analysis tool designed to facilitate Attack and Defense Capture The Flag (CTF) competitions. This tool provides a valuable resource for participants to analyze and understand network traffic patterns, ultimately enhancing their skills in detecting and mitigating cyber threats. By leveraging pkappa2, CTF teams can gain a competitive edge in identifying vulnerabilities and developing effective defensive strategies.
+The spq/pkappa2 project is an open-source tool designed for network traffic analysis, specifically tailored for use in Attack & Defense Capture The Flag (CTF) events. It provides a valuable resource for security enthusiasts and professionals to test their skills in analyzing network traffic and identifying potential security threats. By utilizing this tool, users can gain hands-on experience in network traffic analysis and improve their defensive and offensive security capabilities.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-"CLAUDIE-Code-Android is an open-source project that enables users to run Claude Code natively on Android devices without the need for SSH, root access, or a desktop environment. This is made possible by leveraging Termux or Android Virtualization Framework (AVF), allowing seamless AI/ML development on mobile devices. The project expands the possibilities of AI development on Android."
+This open-source project, claude-code-android, enables native execution of Claude Code on Android devices without the need for a desktop, SSH, or root access. It allows users to run Claude Code directly on their mobile device using Termux or Android Virtualization Framework (AVF), unlocking seamless AI/ML development capabilities on-the-go. This project offers a convenient and accessible solution for Android users to explore AI/ML development.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Kraftkit is an open-source project that enables users to build and utilize highly customized, ultra-lightweight unikernel Virtual Machines (VMs). This project simplifies the process of creating and deploying unikernels, allowing developers to create tailored, resource-efficient VMs for various applications. With Kraftkit, users can design and deploy unikernels with ease, streamlining their development and deployment workflows.
+Kraftkit is an open-source project that enables users to build and utilize ultra-lightweight, highly customized unikernel virtual machines. This project provides a flexible and efficient platform for developers to create tailored unikernels for specific use cases, reducing the overhead associated with traditional virtualization. With Kraftkit, users can leverage unikernel VMs in a wide range of applications, from cloud infrastructure to network function virtualization.
 
 ---
 

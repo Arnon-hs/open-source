@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat-square&color=yellow)](https://github.com/domcyrus/rustnet/stargazers) [![Forks](https://img.shields.io/github/forks/domcyrus/rustnet?style=flat-square&color=blue)](https://github.com/domcyrus/rustnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
-> A cross-platform network monitoring terminal UI tool built with Rust.
+> Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Frontend · Security
+Frontend · DevTools
 
 ## 📝 Summary
 

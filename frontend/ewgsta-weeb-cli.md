@@ -25,9 +25,9 @@ Frontend · DevTools · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary for the 'weeb-cli' project:
+Here's a brief summary for the open-source project "ewgsta/weeb-cli":
 
-The 'weeb-cli' project provides a distraction-free, open-source anime viewing experience that allows users to enjoy their favorite shows without the need for a browser or ads. This command-line interface-focused platform offers an unparalleled viewing experience for anime enthusiasts. With 'weeb-cli', users can immerse themselves in their favorite anime without interruptions or distractions.
+Weeb-cli is an open-source command-line tool designed to provide a seamless and distraction-free anime viewing experience. This project offers a unique alternative to traditional browsers, allowing users to focus solely on their favorite anime content without the presence of ads or other unwanted elements. With weeb-cli, users can enjoy an unparalleled level of immersion in the world of anime.
 
 ---
 

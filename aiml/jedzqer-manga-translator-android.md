@@ -25,7 +25,7 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-This open-source project, manga-translator-android, is a mobile app that provides instant automatic manga translation using Large Language Models (LLM). The app aims to bridge language gaps for manga readers by facilitating seamless translation on the go. Powered by AI-driven technology, it offers a convenient solution for readers to enjoy their favorite manga in their native language.
+This open-source project, "manga-translator-android", is a mobile app that utilizes Large Language Models (LLM) to provide instant automatic translation for manga content. The app aims to bridge language gaps and make manga accessible to a broader audience. By leveraging AI-driven technology, it enables seamless translation of manga on mobile devices.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The parol project is an open-source parser generator tool that supports both LL(k) and LALR(1) parsing methods for Rust and C#. This project allows developers to create parsers for their specific programming languages or file formats, enabling the development of compilers, interpreters, and other language-related tools. It provides a flexible and efficient way to parse input data and generate abstract syntax trees (ASTs) for further processing.
+The parol project is an open-source parser generator tool that supports both LL(k) and LALR(1) parsing algorithms. It is designed to work with Rust and C# programming languages, enabling developers to build efficient and reliable parsers for their specific needs. This project aims to provide a flexible and versatile solution for parsing tasks in various applications.
 
 ---
 

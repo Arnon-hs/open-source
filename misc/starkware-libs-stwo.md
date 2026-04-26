@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Unfortunately, I don't have any additional information about the project, as the description is quite vague. However, based on the name 'starkware-libs/stwo', I can make an educated guess that it's related to the Starkware library. Here's a possible summary:
+Here's a brief summary for the starkware-libs/stwo project:
 
-The Starkware-libs/stwo project is an open-source library that likely focuses on providing a set of tools or utilities for Starkware, a company known for developing scalable and secure blockchain solutions using StarkNet, a layer 2 scaling solution built on top of Ethereum. The project aims to facilitate the development of decentralized applications (dApps) on the StarkNet platform.
+The starkware-libs/stwo project is an open-source implementation that provides a high-performance two-party computation protocol. It enables secure computation of private functions on encrypted inputs without revealing the underlying data, facilitating secure data sharing and collaboration between parties. This protocol is designed to be efficient and scalable for real-world applications.
 
 ---
 

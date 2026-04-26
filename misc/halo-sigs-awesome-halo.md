@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the open-source project:
 
-The "awesome-halo" project is a comprehensive list of Halo-related ecosystem resources, serving as a valuable reference for fans and enthusiasts. This open-source collection aggregates various Halo-related tools, guides, and communities, making it easier to discover and explore the vast Halo universe. By bringing together these resources under one umbrella, the project aims to foster a sense of community and facilitate collaboration among Halo enthusiasts.
+Awesome Halo is an open-source project that curates a comprehensive list of Halo-related resources, including peripherals, tools, and community-driven content. This collection aims to serve as a centralized hub for Halo enthusiasts to discover and explore the vast ecosystem surrounding the popular video game franchise. By fostering collaboration and sharing, Awesome Halo promotes a thriving community for Halo fans worldwide.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Windiff is a web-based tool that facilitates comparison of key information in Microsoft Windows binaries across various OS versions. This open-source project enables users to analyze and contrast symbol, type, and syscall details, providing valuable insights into binary compatibility and potential security vulnerabilities. By leveraging Windiff, developers and security researchers can streamline their analysis and identification of differences between Windows binaries.
+The windiff project is an open-source, web-based tool for comparing symbol, type, and syscall information of Microsoft Windows binaries across different versions of the operating system. This allows users to analyze and identify changes in binary code over time, facilitating reverse engineering and research. By providing a comprehensive comparison of binary data, windiff empowers developers and researchers to better understand the evolution of Windows binaries.
 
 ---
 

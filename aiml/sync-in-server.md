@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Sync-in/server?style=flat-square&color=yellow)](https://github.com/Sync-in/server/stargazers) [![Forks](https://img.shields.io/github/forks/Sync-in/server?style=flat-square&color=blue)](https://github.com/Sync-in/server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
-> Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
+> Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 
 ## 📊 Stats
 

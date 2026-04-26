@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The open-source project "ls-mcp" by lirantal allows users to list MCP Server configurations in their system, which are commonly utilized by AI applications such as Cursor, Claude Desktop, and VS Code. This tool provides a centralized way to manage and view MCP Server configurations across various platforms. By offering transparency into MCP Server usage, "ls-mcp" facilitates better AI application management and troubleshooting.
+Here's a brief summary of the open-source project "lirantal/ls-mcp":
+
+The "ls-mcp" project allows users to list and discover MCP (Microsoft Cognitive Playwright) server configurations on their system, which are often used by various AI applications. This includes tools like Cursor, Claude Desktop, and VS Code. By providing a simple way to view and manage MCP configurations, "ls-mcp" aims to facilitate the development and integration of AI-driven applications.
 
 ---
 

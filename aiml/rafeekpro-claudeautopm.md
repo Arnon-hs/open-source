@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-ClaudeAutoPM is an open-source, AI-powered project management framework designed to automate development tasks and optimize project workflows. Built on top of the Claude Code, this autonomous framework leverages advanced AI capabilities to streamline project management, increase efficiency, and enhance collaboration among team members. By automating routine tasks and providing real-time insights, ClaudeAutoPM empowers developers to focus on high-priority initiatives and drive project success.
+Here's a brief summary for the project:
+
+ClaudeAutoPM is an open-source, autonomous project management framework designed to simplify development automation through advanced AI capabilities. This innovative framework is tailored for Claude Code, a powerful development automation tool, to streamline project workflows and enhance collaboration. By leveraging AI, ClaudeAutoPM enables developers to automate tasks, reduce manual errors, and increase productivity.
 
 ---
 

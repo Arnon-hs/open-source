@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The **cc-rig** project is an open-source setup generator for Claude Code, a powerful AI framework. It allows users to pick their preferred framework and workflow, resulting in a fully configured project with all necessary components, including documentation, hooks, agents, commands, skills, plugins, and memory integration. This tool streamlines development and deployment for AI/ML applications, making it an essential DevTool for the community.
+The cc-rig project is an open-source setup generator for Claude Code, a framework for building conversational AI applications. It allows users to easily create a fully configured project by selecting a framework and workflow, resulting in a comprehensive project setup with various components such as commands, skills, and plugins. This tool aims to streamline the development process for AI/ML projects using Claude Code.
 
 ---
 

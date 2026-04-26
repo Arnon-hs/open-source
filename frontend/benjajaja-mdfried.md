@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-The mdfried project is a free, open-source markdown viewer designed for terminal use. It offers advanced rendering capabilities, including support for displaying images and large header styles. This allows users to easily view and interact with markdown files directly in their terminal.
+Here's a brief summary for the open-source project "benjajaja/mdfried":
+
+mdfried is a lightweight, open-source markdown viewer designed for terminal use, capable of rendering images and displaying large headers. This frontend-focused tool aims to provide a convenient and accessible way to view markdown documents in a terminal environment. With its ability to render images, it stands out as a feature-rich markdown viewer.
 
 ---
 

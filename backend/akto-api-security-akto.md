@@ -1,6 +1,6 @@
 # akto-api-security/akto
 
-[![Stars](https://img.shields.io/github/stars/akto-api-security/akto?style=flat-square&color=yellow)](https://github.com/akto-api-security/akto/stargazers) [![Forks](https://img.shields.io/github/forks/akto-api-security/akto?style=flat-square&color=blue)](https://github.com/akto-api-security/akto/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akto-api-security/akto?style=flat-square&color=yellow)](https://github.com/akto-api-security/akto/stargazers) [![Forks](https://img.shields.io/github/forks/akto-api-security/akto?style=flat-square&color=blue)](https://github.com/akto-api-security/akto/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Proactive, Open source API security → API discovery, API Security Posture, Testing in CI/CD, Test Library with 1000+ Tests, Add custom tests, Sensitive data exposure
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 280 |
+| 🍴 **Forks** | 281 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

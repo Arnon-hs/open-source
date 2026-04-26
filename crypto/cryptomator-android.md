@@ -25,7 +25,7 @@ Crypto · Mobile
 
 ## 📝 Summary
 
-Cryptomator for Android is a free, open-source app that enables users to encrypt and protect their files on mobile devices using the zero-knowledge protocol. This app allows users to create secure vaults and store sensitive data, such as documents and photos, in an encrypted format that can only be accessed with a master password. By using Cryptomator, users can safeguard their digital assets against unauthorized access.
+Cryptomator for Android is an open-source, user-friendly encryption solution that protects your mobile data from unauthorized access. It creates an encrypted container on your device, allowing you to securely store sensitive files and data. This project enables users to safeguard their personal information with robust encryption and easy-to-use functionality.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Slink is an open-source, self-hosted image sharing service designed for users who want to manage their media privately. It provides a platform for users to upload, share, and store images securely on their own infrastructure. With Slink, users can maintain control over their data and avoid relying on third-party services for image hosting.
+Slink is an open-source, self-hosted image sharing service that allows users to host and share images privately on their own infrastructure. This platform provides a secure and customizable solution for individuals and organizations to manage their image collections without relying on third-party services. By hosting Slink, users maintain control over their data and can tailor the platform to meet their specific needs.
 
 ---
 

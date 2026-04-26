@@ -25,7 +25,9 @@ DevTools · Product
 
 ## 📝 Summary
 
-Carapace-bin is an open-source, multi-shell completion binary designed to provide comprehensive and versatile command-line interface completion capabilities. It allows users to easily extend and customize shell completions across various platforms, making it an essential tool for developers and users alike. By leveraging carapace-bin, users can streamline their workflow and enhance their overall command-line experience.
+Here's a brief summary for the carapace-sh/carapace-bin open-source project:
+
+The carapace-sh/carapace-bin project is an open-source, multi-shell completion binary designed to provide a unified and efficient way to complete commands across various shells. This versatile tool aims to simplify the user experience by minimizing the need to learn different completion mechanisms for each shell. With carapace-bin, users can enjoy consistent and seamless completion functionality across their preferred shells.
 
 ---
 

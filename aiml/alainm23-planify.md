@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.2k |
-| 🍴 **Forks** | 303 |
+| 🍴 **Forks** | 304 |
 | 💻 **Language** | Vala |
 | 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | — |

@@ -1,6 +1,6 @@
 # multikernel/sandlock
 
-[![Stars](https://img.shields.io/github/stars/multikernel/sandlock?style=flat-square&color=yellow)](https://github.com/multikernel/sandlock/stargazers) [![Forks](https://img.shields.io/github/forks/multikernel/sandlock?style=flat-square&color=blue)](https://github.com/multikernel/sandlock/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/multikernel/sandlock?style=flat-square&color=yellow)](https://github.com/multikernel/sandlock/stargazers) [![Forks](https://img.shields.io/github/forks/multikernel/sandlock?style=flat-square&color=blue)](https://github.com/multikernel/sandlock/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no root.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 117 |
+| ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Trading · Frontend
 
 ## 📝 Summary
 
-OptionStratLib is an open-source Rust library designed to facilitate options trading and strategy development across various asset classes. This comprehensive library provides a robust framework for creating and executing options trading strategies, enabling users to optimize their trades with precision and ease. By leveraging OptionStratLib, developers can build sophisticated trading applications with minimal setup and configuration.
+OptionStratLib is an open-source Rust library designed to facilitate options trading and strategic development across various asset classes. This comprehensive library provides a foundation for creating and executing complex trading strategies, empowering users to navigate the world of options trading with precision and control. By leveraging OptionStratLib, developers can build robust and efficient solutions for trading options across multiple markets.
 
 ---
 
