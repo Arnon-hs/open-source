@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The xontrib-template project is a comprehensive open-source template designed to facilitate the creation of extensions for the xonsh shell, a powerful and customizable command-line interface. This template provides a full-featured starting point for building xontribs, allowing developers to focus on crafting their own custom features and functionality. By utilizing this template, developers can streamline their development process and create high-quality xontribs with ease.
+The xonsh/xontrib-template project provides an open-source template for building extensions (xontribs) for the xonsh shell, a full-featured Unix shell. This template offers a foundation for creating custom shell tools and functionality, allowing developers to extend the capabilities of xonsh. By utilizing this template, users can create their own xontribs with ease.
 
 ---
 

@@ -1,6 +1,6 @@
 # erwinkramer/bank-api
 
-[![Stars](https://img.shields.io/github/stars/erwinkramer/bank-api?style=flat-square&color=yellow)](https://github.com/erwinkramer/bank-api/stargazers) [![Forks](https://img.shields.io/github/forks/erwinkramer/bank-api?style=flat-square&color=blue)](https://github.com/erwinkramer/bank-api/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erwinkramer/bank-api?style=flat-square&color=yellow)](https://github.com/erwinkramer/bank-api/stargazers) [![Forks](https://img.shields.io/github/forks/erwinkramer/bank-api?style=flat-square&color=blue)](https://github.com/erwinkramer/bank-api/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The Bank API is a design reference project suitable to bootstrap development for a compliant and modern API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 827 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

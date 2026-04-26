@@ -27,7 +27,7 @@ Orchestration · AI/ML
 
 Here's a brief summary of the LightAgent project:
 
-LightAgent is an open-source, lightweight AI agent framework that enables multi-agent collaboration, self-learning, and seamless integration with major Large Language Models (LLMs) such as OpenAI, DeepSeek, and Qwen. This framework boasts a tree-of-thought architecture and supports tools like memory management, making it a powerful tool for AI development. With MCP and SSE protocol integration, LightAgent streamlines AI orchestration and scalability.
+LightAgent is an open-source, lightweight AI agent framework that enables multi-agent collaboration, self-learning, and seamless integration with major Large Language Models (LLMs). This framework is designed to support advanced features such as memory and a tree-of-thought structure, facilitating sophisticated AI decision-making. With its MCP/SSE protocol integration, LightAgent offers a scalable and efficient solution for AI/ML applications.
 
 ---
 

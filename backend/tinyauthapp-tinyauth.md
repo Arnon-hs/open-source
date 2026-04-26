@@ -25,7 +25,7 @@ Backend · Security
 
 ## 📝 Summary
 
-The tinyauth project is an open-source, lightweight authentication and authorization server designed for simplicity and ease of use. This compact server allows developers to quickly and efficiently handle user authentication and permissions, making it an attractive solution for small to medium-sized applications. By leveraging tinyauth, developers can focus on building their applications while relying on a reliable and secure authentication system.
+The tinyauth project is a lightweight, open-source authentication and authorization server designed to provide a secure and scalable solution for various applications. This compact server offers a range of features, including user management, authentication, and authorization, making it an ideal choice for developers seeking a minimalistic yet effective security solution. By leveraging tinyauth, developers can easily implement robust security measures in their applications.
 
 ---
 

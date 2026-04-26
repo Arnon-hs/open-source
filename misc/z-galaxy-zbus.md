@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The zbus project is an open-source, Rust implementation of the D-Bus protocol, providing a reliable and efficient way to communicate between processes and applications. It offers a robust and flexible D-Bus interface, allowing developers to easily integrate their Rust applications with D-Bus-based systems. By leveraging zbus, developers can create more seamless and integrated experiences across desktop environments.
+The z-galaxy/zbus project is an open-source Rust library that provides a D-Bus implementation, enabling communication between processes on Linux systems. This crate allows developers to easily create and interact with D-Bus services in Rust, making it an essential tool for building desktop applications, system services, and other Linux software. By providing a Rust interface to D-Bus, this project simplifies the development of complex system interactions.
 
 ---
 

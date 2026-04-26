@@ -1,6 +1,6 @@
 # grpc/grpc-dotnet
 
-[![Stars](https://img.shields.io/github/stars/grpc/grpc-dotnet?style=flat-square&color=yellow)](https://github.com/grpc/grpc-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/grpc/grpc-dotnet?style=flat-square&color=blue)](https://github.com/grpc/grpc-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grpc/grpc-dotnet?style=flat-square&color=yellow)](https://github.com/grpc/grpc-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/grpc/grpc-dotnet?style=flat-square&color=blue)](https://github.com/grpc/grpc-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > gRPC for .NET
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 832 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

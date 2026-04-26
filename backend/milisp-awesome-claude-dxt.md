@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The milisp/awesome-claude-dxt project provides a collection of desktop extensions for the Claude AI model, offering a range of backend capabilities. This open-source initiative aims to enhance the Claude AI experience, making it more accessible and user-friendly across various platforms. By contributing to this project, developers can expand the potential of Claude and similar AI models.
+The milisp/awesome-claude-dxt project provides a collection of desktop extensions for the Claude AI model, enabling users to seamlessly integrate and utilize its capabilities within their local environments. This open-source project also supports the MCPB, a backend framework, to expand its functionality and accommodate various AI models beyond Claude. By leveraging this project, users can build customized AI-powered workflows and applications.
 
 ---
 

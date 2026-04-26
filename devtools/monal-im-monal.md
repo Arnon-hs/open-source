@@ -1,6 +1,6 @@
 # monal-im/Monal
 
-[![Stars](https://img.shields.io/github/stars/monal-im/Monal?style=flat-square&color=yellow)](https://github.com/monal-im/Monal/stargazers) [![Forks](https://img.shields.io/github/forks/monal-im/Monal?style=flat-square&color=blue)](https://github.com/monal-im/Monal/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/monal-im/Monal?style=flat-square&color=yellow)](https://github.com/monal-im/Monal/stargazers) [![Forks](https://img.shields.io/github/forks/monal-im/Monal?style=flat-square&color=blue)](https://github.com/monal-im/Monal/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Monal for XMPP (iOS and macOS)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 652 |
+| ⭐ **Stars** | 653 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

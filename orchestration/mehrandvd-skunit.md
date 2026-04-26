@@ -25,9 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the skUnit project:
-
-SkUnit is an open-source testing tool designed to validate the functionality and performance of AI units, including IChatClient, MCP Servers, and agents. This testing framework provides a robust and reliable way to ensure the integrity of AI systems, facilitating the development of more robust and efficient artificial intelligence applications. By utilizing SkUnit, developers can streamline the testing process and improve overall AI unit reliability.
+skUnit is an open-source testing tool designed to verify the functionality of AI units, including chatbots, servers, and agents. This tool facilitates the validation of AI systems by providing a comprehensive framework for testing and evaluation. With skUnit, developers can ensure the reliability and performance of their AI-powered applications.
 
 ---
 

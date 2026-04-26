@@ -25,7 +25,7 @@ AI/ML · Frontend · Product
 
 ## 📝 Summary
 
-Magda-core is a cutting-edge, open-source digital audio workstation (DAW) designed for automation, transformation, and rapid musical iteration. This innovative project leverages AI and frontend technologies to provide a seamless and efficient music creation experience. By streamlining the composition process, Magda-core empowers musicians and producers to experiment and express themselves more freely.
+Magda-core is an open-source digital audio workstation (DAW) designed for automation, transformation, and rapid musical iteration. This platform utilizes AI/ML capabilities to streamline the creative process, enabling users to experiment and produce music efficiently. By leveraging advanced technologies, Magda-core empowers musicians and producers to push the boundaries of their art.
 
 ---
 

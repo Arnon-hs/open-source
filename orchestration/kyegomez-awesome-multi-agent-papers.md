@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-This open-source project, 'awesome-multi-agent-papers', is a curated list of the most influential and high-quality papers on multi-agent systems. It serves as a valuable resource for researchers and practitioners in the field of AI and machine learning, providing a one-stop-shop for exploring the latest advancements and innovations in multi-agent research. By aggregating the best papers, this project aims to foster collaboration and knowledge-sharing within the community.
+This open-source project, created by kyegomez, is a comprehensive collection of the most notable papers in the field of multi-agent systems. The repository serves as a valuable resource for researchers and practitioners seeking to stay updated on the latest advancements and trends in multi-agent AI/ML. It provides an easily accessible and organized compilation of influential papers in the area of orchestration and multi-agent systems.
 
 ---
 

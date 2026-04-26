@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The siggy project is an open-source, terminal-based client for the Signal messaging platform, offering a user-friendly interface with vim keybindings for a seamless experience. This application provides an alternative way to access Signal messaging without the need for a graphical interface. By utilizing vim keybindings, users familiar with the Vim editor can easily navigate and interact with Signal's features.
+The siggy project is a terminal-based client for the Signal messenger service, allowing users to access their Signal conversations from the command line. Built with a focus on usability, siggy incorporates vim keybindings to provide a familiar and efficient user experience. This open-source project offers a convenient alternative to the standard Signal desktop application.
 
 ---
 

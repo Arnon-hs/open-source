@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The DTV project is an open-source, cross-platform desktop client that allows users to access popular live streaming services such as Douyin (TikTok), Bilibili, Douyu, and Huya. This lightweight application enables users to stream their favorite content from various platforms in a unified interface. By utilizing the DTV client, users can enjoy a seamless streaming experience across multiple platforms from the comfort of their desktop.
+The DTV project is an open-source, cross-platform desktop client that enables users to access popular live streaming platforms such as Douyin (TikTok), Bilibili, Douyu, and Huya, providing a lightweight and unified interface for these services. This project aims to simplify the experience of using these platforms on desktop devices. It offers a convenient alternative to using the native apps or mobile web versions.
 
 ---
 

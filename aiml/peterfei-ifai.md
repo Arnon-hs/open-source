@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary:
+Here's a brief summary for the open-source project "peterfei/ifai":
 
-"IfAI is an open-source, cross-platform AI code editor built using Tauri 2.0. This editor provides a user-friendly interface for developers to work with AI and machine learning code, allowing for seamless collaboration and productivity. With IfAI, users can create, edit, and manage AI-related projects efficiently across different operating systems."
+IfAI is an open-source, cross-platform AI code editor built with Tauri 2.0, empowering developers to create and edit AI-related code across various platforms. This project provides a flexible and intuitive interface for coding and experimenting with AI and machine learning concepts. By leveraging Tauri's capabilities, IfAI offers a seamless and efficient coding experience.
 
 ---
 

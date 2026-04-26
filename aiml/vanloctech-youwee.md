@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the "youwee" project:
-
-Youwee is an open-source, cross-platform downloader that facilitates video downloads from over 1800 websites, including YouTube, TikTok, and Instagram. This GUI-based application utilizes yt-dlp to streamline the downloading process and incorporates AI technology to generate video summaries, enhancing user experience and efficiency. Featuring post-processing capabilities, youwee provides a comprehensive solution for video management and analysis.
+The "youwee" project is an open-source, cross-platform downloader that enables users to easily save videos from various platforms, including YouTube, TikTok, and Instagram, as well as over 1800 other websites. This user-friendly interface, built on top of the yt-dlp library, also features AI-powered video summaries and post-processing capabilities. By combining functionality with simplicity, youwee streamlines video downloading and editing for a seamless user experience.
 
 ---
 

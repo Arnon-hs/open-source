@@ -25,9 +25,7 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Galacticcouncil/hydration-node project:
-
-The Hydration Node is an open-source, cross-chain liquidity protocol built using the Polkadot-SDK, enabling seamless interactions between different blockchain networks. This project aims to facilitate a more interconnected and fluid cryptocurrency ecosystem. By leveraging advanced technologies, Hydration Node seeks to enhance the efficiency and accessibility of cross-chain transactions.
+The Hydration Node is an open-source, cross-chain liquidity protocol built using the Polkadot SDK, aiming to facilitate seamless interactions across various blockchain networks. This innovative project enables the creation of a decentralized, interconnected liquidity ecosystem, fostering greater flexibility and accessibility in the world of cryptocurrency trading. By harnessing the power of Polkadot, the Hydration Node seeks to revolutionize the way we approach cross-chain liquidity management.
 
 ---
 

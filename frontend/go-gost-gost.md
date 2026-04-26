@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the go-gost/gost open-source project:
-
-GO Simple Tunnel (GOST) is an open-source, simple tunnel written in Go (Golang) for secure and private network communication. This lightweight tunnel provides a reliable and efficient way to establish encrypted connections between networks, making it ideal for use cases such as anonymous browsing, secure file transfer, and more. With GOST, users can easily create a secure and private network connection.
+GO Simple Tunnel, also known as gost, is an open-source project that provides a simple tunnel written in Go (Golang). This tunnel allows users to establish secure connections between different networks, offering a lightweight and versatile solution for network communication. By utilizing gost, developers can easily create and manage tunnels for various use cases.
 
 ---
 

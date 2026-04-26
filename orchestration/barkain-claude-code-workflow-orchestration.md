@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the project in 2-3 sentences:
 
-Claude Code Workflow Orchestration is an open-source plugin that enables multi-step workflow orchestration, automatically decomposing tasks into manageable components and executing them in parallel with specialized agent delegation. This project integrates seamlessly with native plan mode, streamlining complex workflows and enhancing productivity. It's specifically designed for AI/ML workflows, making it an ideal choice for data scientists and AI engineers.
+Claude Code Workflow Orchestration is an open-source project that enables multi-step workflow orchestration through automatic task decomposition, parallel execution, and specialized agent delegation. This plugin, built for the Claude Code platform, streamlines complex workflows by leveraging AI/ML capabilities to optimize task execution and resource allocation. By integrating with native plan mode, users can efficiently manage intricate workflows with ease and precision.
 
 ---
 

@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The wx_channel project is an open-source tool designed to download WeChat Video Number content. It allows users to easily access and save videos from WeChat's Video Number platform, providing a convenient means of sharing and preserving video content. This tool caters to the needs of users seeking to download and manage WeChat Video Number videos.
+Here's a brief summary of the project:
+
+"wx_channel is an open-source tool designed for downloading WeChat Video Number (also known as WeChat Video Channel) content. This utility allows users to easily access and save videos from WeChat Video Number channels, making it a convenient solution for content creators and enthusiasts. The project aims to provide a seamless experience for downloading WeChat Video Number content."
 
 ---
 

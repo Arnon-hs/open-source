@@ -1,0 +1,32 @@
+# glomatico/votify
+
+[![Stars](https://img.shields.io/github/stars/glomatico/votify?style=flat-square&color=yellow)](https://github.com/glomatico/votify/stargazers) [![Forks](https://img.shields.io/github/forks/glomatico/votify?style=flat-square&color=blue)](https://github.com/glomatico/votify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+
+> A command-line app for downloading songs, podcasts and videos from Spotify.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 809 |
+| 🍴 **Forks** | 74 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+DevTools
+
+## 📝 Summary
+
+Votify is an open-source command-line application for downloading music from Spotify, allowing users to easily access and save their favorite songs, podcasts, and videos. This tool aims to provide a convenient alternative for Spotify enthusiasts who want to manage their media libraries offline. With votify, users can seamlessly download and organize their Spotify content on their local devices.
+
+---
+
+<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/glomatico/votify) · [← Back to DevTools](./README.md)</sub>

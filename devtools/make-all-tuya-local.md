@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The make-all/tuya-local project provides local support for Tuya devices within the Home Assistant platform. This open-source initiative enables users to integrate and control Tuya devices directly within their Home Assistant setup, eliminating the need for cloud connectivity. By leveraging local support, users can enhance their smart home experience while maintaining control over their data.
+The make-all/tuya-local project provides local support for Tuya devices within the Home Assistant ecosystem, allowing users to integrate and control their Tuya devices in a more seamless and secure manner. This open-source solution enables users to interact with their Tuya devices without relying on the cloud, improving device responsiveness and reducing internet connectivity requirements. By integrating Tuya devices locally with Home Assistant, users can enjoy enhanced device control and monitoring capabilities.
 
 ---
 

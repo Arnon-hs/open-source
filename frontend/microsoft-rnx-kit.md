@@ -1,6 +1,6 @@
 # microsoft/rnx-kit
 
-[![Stars](https://img.shields.io/github/stars/microsoft/rnx-kit?style=flat-square&color=yellow)](https://github.com/microsoft/rnx-kit/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/rnx-kit?style=flat-square&color=blue)](https://github.com/microsoft/rnx-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/rnx-kit?style=flat-square&color=yellow)](https://github.com/microsoft/rnx-kit/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/rnx-kit?style=flat-square&color=blue)](https://github.com/microsoft/rnx-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Modern, scalable tools. Exceptional developer experience.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

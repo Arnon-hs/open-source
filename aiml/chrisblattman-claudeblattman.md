@@ -25,7 +25,7 @@ AI/ML · Frontend · Product
 
 ## 📝 Summary
 
-Claude is an open-source project that provides academics with a suite of tools for building and managing code projects efficiently. It offers setup guides, agent integrations, and skills for skills-based workflows, catering to the specific needs of researchers and academics in the AI/ML and Product spaces. The project aims to streamline coding processes, enabling users to focus on their research and development.
+Claude Code is an open-source project that provides a comprehensive collection of code and setup guides designed specifically for academics. It offers tools and resources for skills development, agent-based modeling, and other AI/ML applications, aiming to streamline research processes. By sharing expertise through this project, academics can leverage a collaborative platform to accelerate their work.
 
 ---
 

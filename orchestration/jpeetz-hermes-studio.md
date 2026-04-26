@@ -1,6 +1,6 @@
 # JPeetz/Hermes-Studio
 
-[![Stars](https://img.shields.io/github/stars/JPeetz/Hermes-Studio?style=flat-square&color=yellow)](https://github.com/JPeetz/Hermes-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/JPeetz/Hermes-Studio?style=flat-square&color=blue)](https://github.com/JPeetz/Hermes-Studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JPeetz/Hermes-Studio?style=flat-square&color=yellow)](https://github.com/JPeetz/Hermes-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/JPeetz/Hermes-Studio?style=flat-square&color=blue)](https://github.com/JPeetz/Hermes-Studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Web UI & dashboard for Hermes Agent — chat, memory, skills, terminal, approvals, multi-agent orchestration. Self-hosted.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 49 |
-| 🍴 **Forks** | 10 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

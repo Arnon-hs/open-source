@@ -25,7 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-OpenTeams is an open-source project that aims to develop AI agentic teammates, enabling seamless collaboration between humans and artificial intelligence systems. This initiative focuses on orchestration, leveraging AI/ML capabilities to create intelligent, adaptable, and cooperative team members. By providing a platform for AI-powered teamwork, OpenTeams seeks to enhance productivity and efficiency in various industries.
+Here's a brief summary for the Open-Teams project:
+
+Open-Teams is an open-source project that aims to create AI agentic teammates capable of autonomously working alongside humans. This project utilizes AI/ML technologies to develop a system that can learn from interactions, adapt to new situations, and make decisions in real-time. By orchestrating these intelligent agents, Open-Teams seeks to redefine the boundaries of human-AI collaboration and unlock new possibilities for teamwork and productivity.
 
 ---
 

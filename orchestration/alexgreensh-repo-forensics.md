@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The alexgreensh/repo-forensics project is an open-source, automated security scanner designed to monitor GitHub repositories, Agent Skills, Plugins, and MCP servers for potential vulnerabilities. This comprehensive tool includes 18 scanners, requiring zero dependencies and prioritizing user and agent safety. It offers a robust solution for maintaining the security and integrity of these systems.
+The alexgreensh/repo-forensics project is an open-source, automated security scanner designed to detect potential vulnerabilities in GitHub repositories, agent skills, plugins, and MCP servers. This comprehensive tool features 18 scanners, requiring zero dependencies to ensure safe and efficient operation. It serves as a valuable resource for those seeking to fortify their digital assets against threats.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Pikiclaw is an open-source project that enables users to access and utilize advanced AI agents and plugins from their mobile devices. This innovative tool simplifies the integration of cutting-edge AI capabilities, putting the world's most intelligent AI agents at your fingertips. By streamlining AI development and deployment, Pikiclaw empowers users to unlock the full potential of AI in their daily lives.
+The xiaotonng/pikiclaw project is an open-source initiative that combines the world's most advanced AI agents and plugins into a compact, mobile-friendly platform. This project offers developers the ability to integrate cutting-edge AI capabilities into their applications, making it easier to create innovative and intelligent solutions. By harnessing the power of AI in a portable format, pikiclaw empowers users to explore and experiment with AI technologies on-the-go.
 
 ---
 

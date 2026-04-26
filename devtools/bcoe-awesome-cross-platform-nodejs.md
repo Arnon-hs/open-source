@@ -1,6 +1,6 @@
 # bcoe/awesome-cross-platform-nodejs
 
-[![Stars](https://img.shields.io/github/stars/bcoe/awesome-cross-platform-nodejs?style=flat-square&color=yellow)](https://github.com/bcoe/awesome-cross-platform-nodejs/stargazers) [![Forks](https://img.shields.io/github/forks/bcoe/awesome-cross-platform-nodejs?style=flat-square&color=blue)](https://github.com/bcoe/awesome-cross-platform-nodejs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bcoe/awesome-cross-platform-nodejs?style=flat-square&color=yellow)](https://github.com/bcoe/awesome-cross-platform-nodejs/stargazers) [![Forks](https://img.shields.io/github/forks/bcoe/awesome-cross-platform-nodejs?style=flat-square&color=blue)](https://github.com/bcoe/awesome-cross-platform-nodejs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > :two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

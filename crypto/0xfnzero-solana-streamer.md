@@ -25,7 +25,9 @@ Crypto · Payments · Trading
 
 ## 📝 Summary
 
-The 0xfnzero/solana-streamer is an open-source Rust library designed for real-time event streaming from Solana decentralized exchange (DEX) trading programs. This lightweight library offers efficient event parsing and subscription capabilities for popular Solana-based trading protocols, including PumpFun, PumpSwap, Bonk, and Raydium CPMM. By leveraging this library, developers can create applications that stay up-to-date with Solana market activity in real-time.
+Here's a brief summary of the 0xfnzero/solana-streamer project:
+
+The 0xfnzero/solana-streamer is an open-source Rust library that enables real-time event streaming from Solana DEX trading programs. It provides efficient event parsing and subscription capabilities for various protocols, including PumpFun, PumpSwap, Bonk, and Raydium CPMM. This library allows developers to tap into Solana's decentralized exchange ecosystem and build real-time trading applications.
 
 ---
 

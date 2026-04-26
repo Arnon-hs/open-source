@@ -25,7 +25,9 @@ AI/ML · Design
 
 ## 📝 Summary
 
-The MontrealAI/AGI-Alpha-Agent-v0 is an open-source project that aims to develop a comprehensive artificial general intelligence (AGI) system. This end-to-end framework seeks to integrate multiple stages, from identifying problems to executing strategies, to create a highly autonomous and adaptive AI agent. By incorporating various design elements and machine learning capabilities, the project aims to push the boundaries of AGI development.
+Here's a brief summary of the MontrealAI/AGI-Alpha-Agent-v0 project:
+
+The MontrealAI/AGI-Alpha-Agent-v0 is an open-source project that aims to develop a meta-agentic artificial general intelligence (α-AGI) capable of end-to-end decision-making, from identification to execution. This project leverages a multi-stage approach, including learning, thinking, designing, strategizing, and executing, to create a robust AI system. By open-sourcing this project, researchers can collaborate and advance the field of artificial general intelligence.
 
 ---
 

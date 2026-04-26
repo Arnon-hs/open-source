@@ -25,9 +25,7 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the kantord/headson project:
-
-Headson is an open-source project that simplifies the summarization and preview of structured data, including JSON, YAML, and source code. It offers a convenient way to extract key information from complex data formats, making it easier to understand and work with large datasets. By providing a streamlined solution for data summarization, headson aims to improve developer productivity and collaboration.
+The open-source project "kantord/headson" provides a tool for efficiently summarizing and previewing structured data, including JSON and YAML files, as well as source code. This allows for quick insights and understanding of complex data without having to navigate through the entire dataset. By offering a concise head and tail functionality, users can gain valuable context and make informed decisions.
 
 ---
 

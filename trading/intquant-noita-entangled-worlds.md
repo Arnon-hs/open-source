@@ -25,7 +25,7 @@ Trading
 
 ## 📝 Summary
 
-The IntQuant/noita_entangled_worlds project is an open-source, true co-op multiplayer mod for the game Noita, enabling players to explore and experience the game's world together in real-time. This mod promises a more immersive and dynamic gameplay experience, allowing friends to collaborate and cooperate in a shared environment. With its open-source nature, the community can contribute to and enhance the mod, further expanding the possibilities in Noita's world.
+IntQuant's Noita Entangled Worlds is an open-source, true cooperative multiplayer mod for the game Noita. This mod enables seamless gameplay between friends, allowing for a shared and immersive experience. By fostering cooperation, players can work together to overcome the game's challenges and explore its procedurally generated world.
 
 ---
 

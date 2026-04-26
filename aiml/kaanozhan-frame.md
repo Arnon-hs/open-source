@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "Frame":
+Here's a brief summary for the kaanozhan/Frame project:
 
-Frame is an open-source platform designed for agentic vibecoders who utilize Claude code and Codex CLI, empowering them with a comprehensive toolset for AI-driven content creation. This platform offers a streamlined environment for users to work efficiently with Claude's AI capabilities and Codex's coding functionalities. By providing a unified platform, Frame aims to enhance the creative workflow of vibecoders and agentic developers.
+Frame is an open-source platform designed for agentic vibecoders who utilize Claude code and Codex CLI. This platform serves as a powerful toolset for developers and AI/ML professionals to enhance their productivity and creativity. By leveraging the capabilities of Claude code and Codex CLI, Frame provides a streamlined environment for building innovative projects.
 
 ---
 

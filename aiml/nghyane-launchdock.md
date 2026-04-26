@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Launchdock is an open-source project that enables seamless integration with Claude and GPT through a single local gateway. This project supports both OpenAI-compatible and Claude-native APIs, providing users with a unified interface to access these powerful AI tools. By utilizing Launchdock, developers can simplify their workflow and streamline AI-powered applications.
+Launchdock is an open-source project that enables seamless interaction with AI models, including Claude and GPT, through a single local gateway. This project provides a unified interface for both OpenAI-compatible and Claude-native APIs, simplifying the development experience for developers working with these AI models. By leveraging Launchdock, developers can easily integrate AI capabilities into their applications.
 
 ---
 

@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Vacuum is a high-performance, open-source OpenAPI linter and toolkit that quickly scans API specifications with ease. It boasts 100% compatibility with Spectral rulesets and OpenAPI versions 3.0, 3.1, and 3.2, making it a versatile tool for API developers and maintainers. By leveraging Vacuum, users can efficiently enforce API standards and ensure their specifications are accurate and up-to-date.
+The Vacuum project is an open-source, high-performance OpenAPI linter and toolkit. It offers 100% compatibility with Spectral rulesets and OpenAPI 3.0, 3.1, and 3.2, making it a versatile solution for API specification validation and management. By leveraging Vacuum, developers can efficiently ensure the quality and compliance of their API designs.
 
 ---
 
