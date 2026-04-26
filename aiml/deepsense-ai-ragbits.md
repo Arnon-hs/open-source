@@ -1,6 +1,6 @@
 # deepsense-ai/ragbits
 
-[![Stars](https://img.shields.io/github/stars/deepsense-ai/ragbits?style=flat-square&color=yellow)](https://github.com/deepsense-ai/ragbits/stargazers) [![Forks](https://img.shields.io/github/forks/deepsense-ai/ragbits?style=flat-square&color=blue)](https://github.com/deepsense-ai/ragbits/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepsense-ai/ragbits?style=flat-square&color=yellow)](https://github.com/deepsense-ai/ragbits/stargazers) [![Forks](https://img.shields.io/github/forks/deepsense-ai/ragbits?style=flat-square&color=blue)](https://github.com/deepsense-ai/ragbits/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Building blocks for rapid development of GenAI applications
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 136 |
+| 🍴 **Forks** | 135 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

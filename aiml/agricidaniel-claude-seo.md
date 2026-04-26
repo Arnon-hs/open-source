@@ -25,9 +25,9 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a 3-sentence summary for the open-source project:
+Here's a brief summary for the open-source project:
 
-The Claude SEO project is an open-source, universal SEO skill designed for the Claude Code, empowering users to tackle various SEO tasks with ease. It encompasses 19 sub-skills, 12 subagents, and three extensions (DataForSEO, Firecrawl, and Banana) that cater to technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, and more. This comprehensive project facilitates PDF/Excel reporting and leverages Google APIs to provide users with a robust SEO solution.
+Claude-SEO is an open-source, universal SEO skill designed for Claude Code, encompassing 19 sub-skills and 12 subagents. This comprehensive toolset offers cutting-edge capabilities, including technical SEO, E-E-A-T, schema, and GEO/AEO optimization, all powered by integrations with Google APIs and additional extensions like DataForSEO, Firecrawl, and Banana. With a focus on AI-driven insights, Claude-SEO provides actionable recommendations and detailed reporting in PDF and Excel formats.
 
 ---
 

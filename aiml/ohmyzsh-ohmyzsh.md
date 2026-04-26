@@ -25,7 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Ohmyzsh is a community-driven framework for managing zsh configuration, providing over 300 optional plugins and 140+ themes to customize your shell experience. This open-source project is maintained by a large community of 2,400+ contributors and offers an auto-update tool for effortless updates. It supports various programming environments and tools, making it a versatile choice for developers and users alike.
+Oh My Zsh is a community-driven framework for managing zsh configuration, featuring over 300 optional plugins and 140+ themes to customize your terminal experience. With an auto-update tool, users can easily stay up-to-date with the latest community updates. This project has been contributed to by over 2,400 developers, making it a comprehensive and reliable solution for zsh users.
 
 ---
 

@@ -27,7 +27,7 @@ AI/ML · Backend · DevTools
 
 Here's a brief summary for the open-source project:
 
-The leshchenko1979/fast-mcp-telegram project provides a customizable Telegram MCP server with an HTTP-MTProto Bridge, allowing for direct API and curl access. It features multi-user Bearer authentication, file attachments, voice transcription, and a context-optimized architecture for efficient performance. This project is also compatible with Docker and includes an MTProto proxy for seamless integration.
+The leshchenko1979/fast-mcp-telegram project provides a customizable and high-performance Telegram MCP server with an HTTP-MTProto bridge, offering direct API and curl access, multi-user authentication, and support for file attachments and voice transcription. This open-source tool also includes a Docker image and MTProto proxy functionality for enhanced flexibility and scalability. It's optimized for context-based use cases, making it a valuable resource for developers and organizations leveraging Telegram APIs.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Konflux-CI is an open-source project that enables the integration and release of Konflux-CI, a continuous integration and continuous deployment (CI/CD) tool. This project provides a platform for automating software development workflows, enhancing collaboration, and streamlining the release process. By leveraging Konflux-CI, developers can improve the efficiency and reliability of their development pipelines.
+Konflux-CI is an open-source project that integrates and releases a continuous integration tool. This project provides a platform for automating software builds, testing, and deployment processes, enabling developers to streamline their development workflow and enhance collaboration. Through Konflux-CI, users can create, manage, and execute CI pipelines with ease, promoting efficiency and reliability in software development.
 
 ---
 

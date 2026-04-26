@@ -25,9 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here is a brief summary for the Arduino command line tool:
-
-Arduino CLI is an open-source command line tool designed to simplify interactions with the Arduino ecosystem. It allows users to easily manage their projects, boards, and libraries from the terminal, providing a more efficient workflow for developers. With Arduino CLI, users can automate tasks, integrate with other tools, and streamline their overall development experience.
+The Arduino command line tool, available in the arduino/arduino-cli repository, is an open-source project that enables users to interact with the Arduino platform from the terminal. This tool allows developers to manage their projects, upload code, and monitor their boards using a simple and efficient command-line interface. By utilizing the Arduino CLI, users can streamline their development workflow and enhance productivity.
 
 ---
 

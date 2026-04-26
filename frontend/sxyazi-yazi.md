@@ -25,9 +25,7 @@ Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the sxyazi/yazi project:
-
-Yazi is a high-performance terminal file manager written in Rust that leverages asynchronous I/O for efficient file system interactions. This open-source project provides a blazing fast file management experience, making it ideal for developers and power users who require a responsive file system interface. With its Rust-based architecture, Yazi offers a modern and scalable solution for terminal file management.
+Yazi is an open-source, high-performance terminal file manager written in Rust that utilizes asynchronous I/O for efficient operation. It offers a fast and responsive interface for managing files and directories. With its focus on async I/O, Yazi is designed to provide a seamless user experience.
 
 ---
 

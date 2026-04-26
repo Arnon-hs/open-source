@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Skhd.zig is an open-source, macOS-based hotkey daemon that allows users to customize and automate various system functions through simple keyboard shortcuts. This project is a port of the popular skhd by koekeishiya, written in the Zig programming language for improved efficiency and reliability. With Skhd.zig, users can streamline their workflow and enhance productivity by assigning custom hotkeys to execute complex tasks.
+Here's a brief summary for the jackielii/skhd.zig project:
+
+Skhd.zig is an open-source, macOS-based hotkey daemon that provides a simple and customizable way to manage keyboard shortcuts. Ported from the original skhd by koekeishiya, this project aims to offer a reliable and efficient solution for users seeking to streamline their workflow. With its modular design and support for various actions, Skhd.zig enables users to tailor their hotkey setup to suit their specific needs.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the trzsz/trzsz-ssh project:
+Here's a brief summary for the trzsz/trzsz-ssh project:
 
-trzsz-ssh (tssh) is an open-source SSH client designed as a drop-in replacement for the OpenSSH client, offering complete compatibility with its features and additional functionalities. This SSH client enhances user experience with features such as login prompts, batch login, password remembrance, automated interaction, and advanced transfer modes like UDP. By mirroring OpenSSH's capabilities and introducing innovative features, tssh aims to provide a more efficient and user-friendly SSH experience.
+trzsz-ssh (tssh) is an open-source SSH client that serves as a drop-in replacement for the popular openssh client. Offering complete compatibility with openssh, it also includes additional features such as automated interaction, file transfer protocols, and advanced login options. With its robust set of features, tssh aims to simplify secure remote connections for developers and users alike.
 
 ---
 

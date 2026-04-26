@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The php/doc-en project is an open-source initiative to provide comprehensive, community-driven English documentation for the PHP programming language. This resource aims to offer a centralized hub for PHP developers to access accurate, up-to-date information on language features, best practices, and troubleshooting guides. By contributing to php/doc-en, developers can help create a reliable and user-friendly documentation platform for the PHP community.
+The php/doc-en project is an open-source initiative providing comprehensive English documentation for PHP, a popular server-side scripting language. This project aims to create a centralized resource for PHP developers, offering detailed information and guidelines on various aspects of the language. By contributing to this project, developers can help ensure the accuracy and completeness of PHP documentation, ultimately enhancing the programming experience for the community.
 
 ---
 

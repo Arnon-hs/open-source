@@ -1,6 +1,6 @@
 # Lin-arm/GKD_subscription
 
-[![Stars](https://img.shields.io/github/stars/Lin-arm/GKD_subscription?style=flat-square&color=yellow)](https://github.com/Lin-arm/GKD_subscription/stargazers) [![Forks](https://img.shields.io/github/forks/Lin-arm/GKD_subscription?style=flat-square&color=blue)](https://github.com/Lin-arm/GKD_subscription/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lin-arm/GKD_subscription?style=flat-square&color=yellow)](https://github.com/Lin-arm/GKD_subscription/stargazers) [![Forks](https://img.shields.io/github/forks/Lin-arm/GKD_subscription?style=flat-square&color=blue)](https://github.com/Lin-arm/GKD_subscription/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 用于安卓 GKD 的第三方订阅规则 (👻Fork版)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,9 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-The Frago project is an open-source, multi-runtime automation infrastructure designed for AI agents. It features a native CDP browser control, a metadata-driven Recipe system, and persistent Run context management, providing a comprehensive framework for automating tasks and managing complex AI workflows. This infrastructure enables developers to streamline AI agent interactions and optimize their performance.
+Here's a brief summary for the open-source project "tsaijamey/frago":
+
+Frago is an open-source, multi-runtime automation infrastructure designed for AI agents, providing a flexible and scalable platform for automating complex tasks. Its key features include native control of CDP browsers, a metadata-driven Recipe system for easily managing workflows, and persistent Run context management for seamless continuity. This innovative tool enables developers to automate AI-powered tasks with ease and efficiency.
 
 ---
 

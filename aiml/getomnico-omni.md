@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a summary for the open-source project:
-
-Omni is an open-source Workplace AI Assistant and Search Platform designed to streamline workplace productivity. This AI/ML-based platform enables users to search and access relevant information across multiple sources, while also providing personalized assistance and automation features. By leveraging machine learning and natural language processing, Omni aims to revolutionize the way people work and interact with information in the workplace.
+The omni project is an open-source Workplace AI Assistant and Search Platform designed to enhance productivity and streamline workflows. It utilizes artificial intelligence and machine learning to provide a comprehensive search platform and intelligent assistant capabilities, thereby improving employee efficiency and collaboration. This project aims to offer a customizable and scalable solution for organizations seeking to leverage AI-powered tools in their work environment.
 
 ---
 

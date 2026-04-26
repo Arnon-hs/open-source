@@ -25,7 +25,9 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-ChatCrystal is an open-source project that aims to crystallize knowledge from AI conversations. It allows users to import data from various sources, including Claude Code, Cursor, and Codex CLI, and then summarizes the content using Large Language Models (LLMs). The project enables semantic search capabilities within the summarized data, making it a powerful tool for knowledge discovery and organization.
+Here's a brief summary of the ChatCrystal project:
+
+ChatCrystal is an open-source project that helps crystallize knowledge from AI conversations. It enables users to import data from popular AI tools such as Claude, Cursor, and Codex CLI, and then summarize the content using Large Language Models (LLMs). This allows for efficient searching and organization of knowledge by semantics.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the NovelForge project:
-
-NovelForge is an open-source project that utilizes AI to assist in the creation of long-form novels, employing a card-based approach for creative writing. It enables structured AI generation and contextual referencing, with a strong focus on extensibility. By leveraging JSON Schema, users can define and customize the writing process to suit their needs.
+NovelForge is an open-source AI-assisted novel writing platform that utilizes a card-based approach, allowing users to leverage structured AI generation and contextual referencing. Based on JSON Schema, this platform offers high flexibility and extensibility for users to customize their creative process. By integrating AI technology, NovelForge aims to streamline and enhance the novel writing experience.
 
 ---
 

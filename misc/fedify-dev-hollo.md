@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Hollo is an open-source, federated single-user microblogging software that allows users to share and discover content across a decentralized network. This project enables individuals to maintain control over their online presence while interacting with others in a community-driven environment. By facilitating a peer-to-peer network, Hollo promotes a more independent and community-focused approach to online publishing.
+Hollo is an open-source, federated single-user microblogging software that enables users to write and share short-form content with others across different server instances. This decentralized platform allows for a more private and secure alternative to traditional social media services. With Hollo, users can maintain control over their data and have a unique, community-driven experience.
 
 ---
 

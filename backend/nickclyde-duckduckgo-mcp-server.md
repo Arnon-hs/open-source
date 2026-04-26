@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-This open-source project, duckduckgo-mcp-server, is a Model Context Protocol (MCP) server that utilizes DuckDuckGo for web search capabilities. The server also offers additional features for content fetching and parsing, enhancing its functionality beyond standard search functionality. It serves as a valuable backend solution for applications requiring robust search and data retrieval capabilities.
+This open-source project, duckduckgo-mcp-server, is a Model Context Protocol (MCP) server that integrates with DuckDuckGo to provide web search capabilities. It offers additional functionality for fetching and parsing content, enhancing its overall search capabilities. The project is designed to be a robust backend solution for applications that require advanced search functionality.
 
 ---
 

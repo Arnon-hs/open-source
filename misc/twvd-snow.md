@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The 'snow' project is an open-source, classic Macintosh emulator that allows users to run vintage Mac OS software on modern platforms. By emulating the original Macintosh hardware, this emulator provides a way to experience and interact with classic Mac applications and games in a modern environment. It supports various Macintosh models and is a valuable resource for retro computing enthusiasts and historians.
+The twvd/snow project is an open-source emulator designed to replicate the functionality of classic Macintosh computers, allowing users to experience and run original Macintosh software on modern systems. This emulator provides a nostalgic gateway to the early days of personal computing, enabling users to explore and interact with vintage Macintosh systems in a digital environment. By emulating classic Macintosh hardware, snow brings a piece of history to life for developers, historians, and enthusiasts alike.
 
 ---
 

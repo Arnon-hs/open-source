@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Replicase/pgcapture is an open-source project that offers a scalable Netflix DBLog implementation tailored for PostgreSQL. This solution enables efficient and reliable logging of PostgreSQL database events, allowing developers to monitor and analyze database activity with ease. By leveraging Replicase/pgcapture, users can optimize database performance and troubleshoot issues more effectively.
+Replicase/pgcapture is an open-source project that provides a scalable implementation of Netflix's DBLog, optimized for use with PostgreSQL databases. This solution enables efficient, log-based replication and data capture, making it easier to manage and analyze database activity. By utilizing pgcapture, developers can unlock improved data insights and enhance the reliability of their PostgreSQL systems.
 
 ---
 

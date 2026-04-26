@@ -25,7 +25,7 @@ Design
 
 ## 📝 Summary
 
-Moor is an open-source, configurable pager designed to provide a straightforward and hassle-free user experience without the need for extensive setup. Its simplicity-focused approach aims to deliver essential functionality without overwhelming users with options. With Moor, users can quickly and easily view and manage their messages.
+Moor is an open-source pager project designed to provide a simple, unobtrusive notification solution. This minimalist tool is configured to automatically do the right thing without requiring any additional setup or customization. Its straightforward approach makes it a viable option for those seeking a hassle-free notification experience.
 
 ---
 

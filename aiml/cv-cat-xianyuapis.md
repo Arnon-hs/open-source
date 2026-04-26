@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here is a brief summary for the open-source project:
-
-cv-cat/XianYuApis is an open-source project that provides an implementation of the Xianyu API, enabling automated operation through WebSockets. This project is based on the reverse-engineering of Xianyu's algorithms and serves as a foundation for Xianyu AI Agents. It falls under the categories of Artificial Intelligence (AI) and Machine Learning (ML), with a focus on backend development.
+XianYuApis is an open-source project that reverse-engineers XianYu's (Xian Yu, a Chinese online marketplace) algorithms. It provides an API and WebSocket automation capabilities, serving as the foundation for a XianYu AI agent. The project aims to enable developers to build autonomous operations and AI-powered tools for the platform.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-frePPLe is an open-source supply chain planning platform that utilizes AI and ML capabilities to optimize and streamline supply chain operations. This free and customizable tool offers advanced features for demand forecasting, inventory management, and production planning to help businesses improve their supply chain efficiency and decision-making. By leveraging the power of open-source technology, businesses can reduce costs and increase flexibility in their supply chain planning.
+frePPLe is an open-source supply chain planning platform that utilizes advanced algorithms and AI/ML capabilities to optimize and streamline business operations. This comprehensive tool enables users to manage and analyze complex supply chain data, automate decision-making processes, and improve overall efficiency. By leveraging frePPLe's robust features and community-driven development, organizations can gain a competitive edge in their supply chain management.
 
 ---
 

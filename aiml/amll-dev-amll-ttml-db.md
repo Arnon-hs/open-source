@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The AMLL TTML Database is an open-source, word-level lyrics repository for TTML (Timed Text Markup Language) files, specifically designed for the AMLL community. This project aims to provide a collaborative platform for users to contribute and expand the database, making it a valuable resource for AI and ML applications. The repository is maintained by AMLL and welcomes contributions from the public.
+The amll-dev/amll-ttml-db project is an open-source repository of TTML word-level lyric databases, specifically designed for the AMLL (Association for Machine Learning in Music) community. This project aims to facilitate the development and construction of a comprehensive lyric database, with contributions from the public welcome. By sharing this resource, researchers and developers can leverage the database to improve AI and machine learning models for music-related tasks.
 
 ---
 

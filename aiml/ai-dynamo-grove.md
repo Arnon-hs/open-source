@@ -25,9 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here is a brief summary of the ai-dynamo/grove project:
+Here's a brief summary for the ai-dynamo/grove project:
 
-The ai-dynamo/grove project is an open-source initiative that enhances Kubernetes with features for network topology aware gang scheduling and autoscaling. This allows for more efficient and intelligent resource management in cloud environments, leading to improved application performance and scalability. By leveraging AI/ML capabilities, groove optimizes cluster utilization and reduces the complexity of managing large-scale network deployments.
+Grove is an open-source Kubernetes enhancement project that leverages Network Topology Aware Gang Scheduling and Autoscaling to optimize cluster resource allocation and improve application performance. By considering network topology, Grove enables more efficient scheduling and scaling of workloads, reducing latency and improving overall system reliability. This project aims to revolutionize Kubernetes cluster management with innovative AI/ML-driven approaches.
 
 ---
 

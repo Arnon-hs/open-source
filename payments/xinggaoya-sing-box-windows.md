@@ -25,7 +25,9 @@ Payments · DevTools
 
 ## 📝 Summary
 
-The sing-box desktop client is an open-source, cross-platform project that modernizes subscription management, proxy switching, and runtime monitoring. It offers a user-friendly interface for subscription import, proxy mode switching, and real-time monitoring. Compatible with Windows, Linux, and macOS, this project aims to streamline subscription and proxy management for users.
+Here's a brief summary for the open-source project:
+
+Sing-Box is a modern, cross-platform desktop client for subscriptions and runtime monitoring. The application supports proxy switching and runtime monitoring, offering a convenient and unified experience across multiple platforms, including Windows, Linux, and macOS. It caters to developers and users who require efficient and streamlined management of subscriptions and proxy settings.
 
 ---
 

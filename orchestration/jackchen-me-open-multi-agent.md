@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/JackChen-me/open-multi-agent?style=flat-square&color=yellow)](https://github.com/JackChen-me/open-multi-agent/stargazers) [![Forks](https://img.shields.io/github/forks/JackChen-me/open-multi-agent?style=flat-square&color=blue)](https://github.com/JackChen-me/open-multi-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> TypeScript multi-agent orchestration engine — one runTeam() call from goal to result. Multi-model teams, auto task decomposition, parallel execution. 3 runtime dependencies.
+> From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with multi-model teams and parallel execution. Three runtime dependencies.
 
 ## 📊 Stats
 

@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-The carverauto/serviceradar project is an open-source, zero-trust network management and observability platform designed to provide comprehensive visibility and control over network operations. This platform enables organizations to monitor and analyze network traffic, identify potential security threats, and enforce strict access controls to maintain a secure environment. Through its zero-trust architecture, serviceradar ensures that only authorized entities have access to network resources, reducing the risk of security breaches and data compromise.
+Here's a brief summary for the carverauto/serviceradar project:
+
+Serviceradar is an open-source, zero-trust network management and observability platform designed to provide secure and transparent network visibility. This platform enables users to monitor and manage their network with confidence, ensuring a secure and reliable environment for their systems and applications. By leveraging Serviceradar, users can gain unparalleled insights into their network operations and make data-driven decisions to improve their IT infrastructure.
 
 ---
 

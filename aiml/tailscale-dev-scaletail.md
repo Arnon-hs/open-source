@@ -25,7 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-ScaleTail is an open-source project that provides pre-built Tailscale sidecar configurations for Docker, streamlining the process of securing and managing Docker containers with Tailscale. This project helps developers easily integrate Tailscale's secure networking features into their Docker applications, enhancing security and reducing complexity. By leveraging ScaleTail, users can simplify their container networking and access management.
+Here's a brief summary for the ScaleTail project:
+
+ScaleTail is an open-source project that provides pre-configured Tailscale sidecar configurations for Docker, simplifying the integration of secure and reliable networking for containerized applications. By leveraging Tailscale, developers can establish fast, secure, and zero-config networking between containers and on-premises environments. This project aims to streamline DevOps workflows and enable seamless communication across distributed systems.
 
 ---
 

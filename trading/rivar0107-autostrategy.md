@@ -25,9 +25,9 @@ Trading · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the rivar0107/autostrategy project:
 
-The rivar0107/autostrategy project is an open-source tool that generates automated trading strategies using AI-driven approaches. It supports Claude Code and other AI agents, enabling users to convert natural language ideas into backtestable Python strategies. The tool also features a five-dimensional scoring system and automatic optimization for optimized results.
+The rivar0107/autostrategy is an open-source tool for generating AI-driven quantitative trading strategies. It supports the use of AI agents like Claude Code, converting natural language ideas into backtestable Python trading strategies. The tool also includes a five-dimensional scoring system and automated optimization features.
 
 ---
 
