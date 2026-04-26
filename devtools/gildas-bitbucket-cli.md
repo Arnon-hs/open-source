@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The gildas/bitbucket-cli project is an open-source command-line interface tool designed to interact with Bitbucket repositories. This CLI provides users with a convenient way to manage their Bitbucket projects, repositories, and code from the comfort of their terminal or command prompt. It offers a simple and efficient way to automate tasks and workflows related to Bitbucket.
+The gildas/bitbucket-cli project is an open-source command-line interface (CLI) for interacting with Bitbucket, a web-based version control repository manager. This tool allows users to manage their Bitbucket repositories and projects directly from the terminal, streamlining development workflows and improving productivity. With the bitbucket-cli, users can perform various tasks, such as repository management, issue tracking, and code reviews, all from a single command-line interface.
 
 ---
 

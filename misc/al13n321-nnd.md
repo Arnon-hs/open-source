@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, 'nnd', is a debugger designed for Linux systems. It aims to provide a comprehensive debugging solution for developers working on Linux-based projects. With its open-source nature, the community can contribute to and improve the debugger, ensuring it stays up-to-date with the latest Linux developments.
+Here's a brief summary for the project:
+
+This open-source debugger for Linux provides a tool for developers to identify and troubleshoot issues in their code. The project, nnd, allows users to inspect and analyze the behavior of their programs, making it easier to debug and resolve errors. By leveraging its capabilities, developers can streamline their development process and create more robust, reliable software.
 
 ---
 

@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, dmarro89/go-dav-os, is a 64-bit freestanding OS kernel written in Go. It provides a foundation for building a custom operating system with features such as a VGA terminal, PS/2 keyboard support, and a debug shell. The kernel also includes a bitmap page frame allocator, in-memory and FAT filesystem support, and is bootable via GRUB/Multiboot2.
+Here's a brief summary for the dmarro89/go-dav-os project:
+
+go-dav-os is a 64-bit freestanding operating system kernel written in Go, designed to provide a foundation for building custom OS environments. It supports booting via GRUB/Multiboot2 and includes features such as a VGA terminal, PS/2 keyboard, and basic hardware management through IDT/PIC/PIT interfaces. Additionally, the kernel provides a debug shell, bitmap page frame allocator, and support for both in-memory and FAT file systems.
 
 ---
 

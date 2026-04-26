@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The wechat-robot-client is an open-source project that enables users to create AI-powered chatbots for WeChat, offering features such as AI-driven conversations, AI-generated drawings, and music playlists. It also includes functionality for group chat rankings, summaries, and welcome messages, as well as monitoring for new members and departures. This project serves as a versatile tool for developers to build engaging WeChat chatbots using AI and machine learning technologies.
+Here's a brief summary for the project:
+
+This open-source WeChat robot client offers a range of fun features, including AI-powered chat, AI-generated art, song requests, group ranking charts, and welcome messages for new group members. It also provides group summary and departure monitoring. With its versatility and functionality, this project is ideal for developers interested in AI/ML and DevTools.
 
 ---
 

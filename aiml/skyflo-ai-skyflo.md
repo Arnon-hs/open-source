@@ -25,9 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the open-source project "skyflo":
 
-"Skyflo is an open-source, self-hosted AI agent designed for Kubernetes and DevOps environments. It provides approval-gated, deterministic control loops to ensure secure and predictable decision-making. With Skyflo, users can leverage AI-driven automation while maintaining full control and visibility over their systems."
+Skyflo is an open-source, self-hosted AI agent designed for Kubernetes and DevOps environments. This approval-gated, deterministic control loop enables organizations to automate and streamline their operations while maintaining control and transparency. By leveraging AI, Skyflo enhances efficiency and reliability in complex infrastructure management.
 
 ---
 

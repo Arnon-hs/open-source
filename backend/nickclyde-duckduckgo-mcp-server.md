@@ -1,0 +1,32 @@
+# nickclyde/duckduckgo-mcp-server
+
+[![Stars](https://img.shields.io/github/stars/nickclyde/duckduckgo-mcp-server?style=flat-square&color=yellow)](https://github.com/nickclyde/duckduckgo-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/nickclyde/duckduckgo-mcp-server?style=flat-square&color=blue)](https://github.com/nickclyde/duckduckgo-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+
+> A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1k |
+| 🍴 **Forks** | 155 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Backend
+
+## 📝 Summary
+
+This open-source project, duckduckgo-mcp-server, is a Model Context Protocol (MCP) server that utilizes DuckDuckGo for web search capabilities. The server also offers additional features for content fetching and parsing, enhancing its functionality beyond standard search functionality. It serves as a valuable backend solution for applications requiring robust search and data retrieval capabilities.
+
+---
+
+<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/nickclyde/duckduckgo-mcp-server) · [← Back to Backend](./README.md)</sub>

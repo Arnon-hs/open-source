@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Learnship is an open-source project that empowers developers to build real-world products while learning new skills in AI/ML, frontend development, and DevTools. By focusing on agentic engineering, Learnship aims to foster a culture of intentional and effective learning. This project enables users to acquire knowledge through hands-on experience, ultimately leading to the creation of meaningful products.
+The learnship project is an open-source initiative that enables learners to build real products while developing their skills in AI/ML, frontend development, and DevTools. This project promotes a hands-on approach to learning, allowing users to acquire practical experience through the process of building and shipping tangible products. With its focus on agentic engineering, learnship empowers individuals to take ownership of their projects and develop meaningful, industry-relevant skills.
 
 ---
 

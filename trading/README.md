@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**67 projects** in this category.
+**68 projects** in this category.
 
 ## Projects
 
@@ -72,9 +72,10 @@
 | 62 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
 | 63 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 24 | Swift | 50/100 |
 | 64 | [quantamixsol/graqle](./quantamixsol-graqle.md) | ⭐ 22 | Python | 50/100 |
-| 65 | [No-Trade-No-Life/Yuan](./no-trade-no-life-yuan.md) | ⭐ 351 | TypeScript | 48/100 |
-| 66 | [tqec/tqec](./tqec-tqec.md) | ⭐ 358 | Python | 48/100 |
-| 67 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 300 | Rust | 47/100 |
+| 65 | [rivar0107/autostrategy](./rivar0107-autostrategy.md) | ⭐ 14 | Python | 48/100 |
+| 66 | [No-Trade-No-Life/Yuan](./no-trade-no-life-yuan.md) | ⭐ 351 | TypeScript | 48/100 |
+| 67 | [tqec/tqec](./tqec-tqec.md) | ⭐ 358 | Python | 48/100 |
+| 68 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 300 | Rust | 47/100 |
 
 ---
 

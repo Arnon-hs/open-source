@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**376 projects** in this category.
+**378 projects** in this category.
 
 ## Projects
 
@@ -326,64 +326,66 @@
 | 316 | [drhelius/Gearlynx](./drhelius-gearlynx.md) | ⭐ 60 | C++ | 51/100 |
 | 317 | [facil-io/cstl](./facil-io-cstl.md) | ⭐ 120 | C | 51/100 |
 | 318 | [googleapis/google-api-java-client-services](./googleapis-google-api-java-client-services.md) | ⭐ 719 | Java | 51/100 |
-| 319 | [Authula/authula](./authula-authula.md) | ⭐ 185 | Go | 50/100 |
-| 320 | [fr0ster/mcp-abap-adt](./fr0ster-mcp-abap-adt.md) | ⭐ 43 | TypeScript | 50/100 |
-| 321 | [kuberstar/qartez-mcp](./kuberstar-qartez-mcp.md) | ⭐ 43 | Rust | 50/100 |
-| 322 | [izderadicka/audioserve](./izderadicka-audioserve.md) | ⭐ 828 | Rust | 50/100 |
-| 323 | [eggplants/get-pixivpy-token](./eggplants-get-pixivpy-token.md) | ⭐ 181 | Python | 50/100 |
-| 324 | [oxidecomputer/dropshot](./oxidecomputer-dropshot.md) | ⭐ 1.2k | Rust | 50/100 |
-| 325 | [ngrok/ngrok-operator](./ngrok-ngrok-operator.md) | ⭐ 259 | Go | 50/100 |
-| 326 | [mycrl/turn-rs](./mycrl-turn-rs.md) | ⭐ 481 | Rust | 50/100 |
-| 327 | [yioneko/vtsls](./yioneko-vtsls.md) | ⭐ 997 | TypeScript | 50/100 |
-| 328 | [dan-online/autopulse](./dan-online-autopulse.md) | ⭐ 484 | Rust | 50/100 |
-| 329 | [meloncafe/chromadb-remote-mcp](./meloncafe-chromadb-remote-mcp.md) | ⭐ 12 | TypeScript | 50/100 |
-| 330 | [marichu-kt/marichu-kt](./marichu-kt-marichu-kt.md) | ⭐ 36 | — | 50/100 |
-| 331 | [kastelldev/kastell](./kastelldev-kastell.md) | ⭐ 49 | TypeScript | 50/100 |
-| 332 | [hanxi/cups-web](./hanxi-cups-web.md) | ⭐ 259 | Go | 50/100 |
-| 333 | [umputun/tg-spam](./umputun-tg-spam.md) | ⭐ 420 | Go | 50/100 |
-| 334 | [hypothesi/mcp-server-tauri](./hypothesi-mcp-server-tauri.md) | ⭐ 189 | TypeScript | 49/100 |
-| 335 | [brave/brave-search-mcp-server](./brave-brave-search-mcp-server.md) | ⭐ 940 | TypeScript | 49/100 |
-| 336 | [kubernetes/sample-apiserver](./kubernetes-sample-apiserver.md) | ⭐ 599 | Go | 49/100 |
-| 337 | [glassechidna/trackiam](./glassechidna-trackiam.md) | ⭐ 302 | Go | 49/100 |
-| 338 | [basketikun/chatgpt2api](./basketikun-chatgpt2api.md) | ⭐ 825 | Python | 49/100 |
-| 339 | [overextended/oxmysql](./overextended-oxmysql.md) | ⭐ 340 | TypeScript | 49/100 |
-| 340 | [s3rgeym/hh-applicant-tool](./s3rgeym-hh-applicant-tool.md) | ⭐ 348 | Python | 49/100 |
-| 341 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 922 | Python | 48/100 |
-| 342 | [ibizaman/selfhostblocks](./ibizaman-selfhostblocks.md) | ⭐ 453 | Nix | 48/100 |
-| 343 | [Epistates/turbomcp](./epistates-turbomcp.md) | ⭐ 78 | Rust | 48/100 |
-| 344 | [Softeria/ms-365-mcp-server](./softeria-ms-365-mcp-server.md) | ⭐ 652 | TypeScript | 48/100 |
-| 345 | [narumiruna/yfinance-mcp](./narumiruna-yfinance-mcp.md) | ⭐ 126 | Python | 48/100 |
-| 346 | [akutishevsky/lunchmoney-mcp](./akutishevsky-lunchmoney-mcp.md) | ⭐ 64 | TypeScript | 48/100 |
-| 347 | [clastix/cluster-api-control-plane-provider-kamaji](./clastix-cluster-api-control-plane-provider-kamaji.md) | ⭐ 148 | Go | 47/100 |
-| 348 | [kimmknight/raweb](./kimmknight-raweb.md) | ⭐ 764 | C# | 47/100 |
-| 349 | [cnitlrt/AutoTeam](./cnitlrt-autoteam.md) | ⭐ 640 | Python | 47/100 |
-| 350 | [thisisparker/xword-dl](./thisisparker-xword-dl.md) | ⭐ 196 | Python | 47/100 |
-| 351 | [kubernetes/metrics](./kubernetes-metrics.md) | ⭐ 531 | Go | 47/100 |
-| 352 | [robcerda/monarch-mcp-server](./robcerda-monarch-mcp-server.md) | ⭐ 174 | Python | 47/100 |
-| 353 | [Rishikant181/Rettiwt-API](./rishikant181-rettiwt-api.md) | ⭐ 821 | TypeScript | 47/100 |
-| 354 | [hackers365/xiaozhi-esp32-server-golang](./hackers365-xiaozhi-esp32-server-golang.md) | ⭐ 290 | Go | 47/100 |
-| 355 | [james-6-23/codex2api](./james-6-23-codex2api.md) | ⭐ 716 | Go | 47/100 |
-| 356 | [lansespirit/image-gen-mcp](./lansespirit-image-gen-mcp.md) | ⭐ 56 | Python | 47/100 |
-| 357 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 501 | Rust | 46/100 |
-| 358 | [steipete/discrawl](./steipete-discrawl.md) | ⭐ 666 | Go | 46/100 |
-| 359 | [toddsundsted/ktistec](./toddsundsted-ktistec.md) | ⭐ 428 | Crystal | 46/100 |
-| 360 | [lineofflight/country](./lineofflight-country.md) | ⭐ 302 | TypeScript | 46/100 |
-| 361 | [SigNoz/signoz-mcp-server](./signoz-signoz-mcp-server.md) | ⭐ 88 | Go | 46/100 |
-| 362 | [sigbit/mcp-auth-proxy](./sigbit-mcp-auth-proxy.md) | ⭐ 104 | Go | 46/100 |
-| 363 | [lhccong/fish-island-backend](./lhccong-fish-island-backend.md) | ⭐ 695 | Java | 46/100 |
-| 364 | [Mibayy/token-savior](./mibayy-token-savior.md) | ⭐ 667 | Python | 45/100 |
-| 365 | [kubernetes/component-base](./kubernetes-component-base.md) | ⭐ 121 | Go | 45/100 |
-| 366 | [drfccv/mcp-server-12306](./drfccv-mcp-server-12306.md) | ⭐ 313 | Python | 45/100 |
-| 367 | [shankar0123/certctl](./shankar0123-certctl.md) | ⭐ 307 | Go | 44/100 |
-| 368 | [WhatsApp/erlang-language-platform](./whatsapp-erlang-language-platform.md) | ⭐ 397 | Rust | 44/100 |
-| 369 | [meta-pytorch/torchcomms](./meta-pytorch-torchcomms.md) | ⭐ 358 | C++ | 44/100 |
-| 370 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 291 | Rust | 43/100 |
-| 371 | [apappascs/mcp-servers-hub](./apappascs-mcp-servers-hub.md) | ⭐ 318 | — | 43/100 |
-| 372 | [okira-e/veriflow](./okira-e-veriflow.md) | ⭐ 3 | Go | 42/100 |
-| 373 | [PaulNonatomic/ServiceKit](./paulnonatomic-servicekit.md) | ⭐ 4 | C# | 40/100 |
-| 374 | [ScalableCapital/scalable-cli](./scalablecapital-scalable-cli.md) | ⭐ 199 | — | 39/100 |
-| 375 | [useknockout/api](./useknockout-api.md) | ⭐ 25 | Python | 36/100 |
-| 376 | [prixe-api/politicians](./prixe-api-politicians.md) | ⭐ 5 | JavaScript | 36/100 |
+| 319 | [nickclyde/duckduckgo-mcp-server](./nickclyde-duckduckgo-mcp-server.md) | ⭐ 1k | Python | 50/100 |
+| 320 | [Authula/authula](./authula-authula.md) | ⭐ 185 | Go | 50/100 |
+| 321 | [fr0ster/mcp-abap-adt](./fr0ster-mcp-abap-adt.md) | ⭐ 43 | TypeScript | 50/100 |
+| 322 | [kuberstar/qartez-mcp](./kuberstar-qartez-mcp.md) | ⭐ 43 | Rust | 50/100 |
+| 323 | [izderadicka/audioserve](./izderadicka-audioserve.md) | ⭐ 828 | Rust | 50/100 |
+| 324 | [eggplants/get-pixivpy-token](./eggplants-get-pixivpy-token.md) | ⭐ 181 | Python | 50/100 |
+| 325 | [oxidecomputer/dropshot](./oxidecomputer-dropshot.md) | ⭐ 1.2k | Rust | 50/100 |
+| 326 | [ngrok/ngrok-operator](./ngrok-ngrok-operator.md) | ⭐ 259 | Go | 50/100 |
+| 327 | [mycrl/turn-rs](./mycrl-turn-rs.md) | ⭐ 481 | Rust | 50/100 |
+| 328 | [yioneko/vtsls](./yioneko-vtsls.md) | ⭐ 997 | TypeScript | 50/100 |
+| 329 | [dan-online/autopulse](./dan-online-autopulse.md) | ⭐ 484 | Rust | 50/100 |
+| 330 | [meloncafe/chromadb-remote-mcp](./meloncafe-chromadb-remote-mcp.md) | ⭐ 12 | TypeScript | 50/100 |
+| 331 | [marichu-kt/marichu-kt](./marichu-kt-marichu-kt.md) | ⭐ 36 | — | 50/100 |
+| 332 | [kastelldev/kastell](./kastelldev-kastell.md) | ⭐ 49 | TypeScript | 50/100 |
+| 333 | [hanxi/cups-web](./hanxi-cups-web.md) | ⭐ 259 | Go | 50/100 |
+| 334 | [umputun/tg-spam](./umputun-tg-spam.md) | ⭐ 420 | Go | 50/100 |
+| 335 | [hypothesi/mcp-server-tauri](./hypothesi-mcp-server-tauri.md) | ⭐ 189 | TypeScript | 49/100 |
+| 336 | [brave/brave-search-mcp-server](./brave-brave-search-mcp-server.md) | ⭐ 940 | TypeScript | 49/100 |
+| 337 | [kubernetes/sample-apiserver](./kubernetes-sample-apiserver.md) | ⭐ 599 | Go | 49/100 |
+| 338 | [glassechidna/trackiam](./glassechidna-trackiam.md) | ⭐ 302 | Go | 49/100 |
+| 339 | [basketikun/chatgpt2api](./basketikun-chatgpt2api.md) | ⭐ 825 | Python | 49/100 |
+| 340 | [overextended/oxmysql](./overextended-oxmysql.md) | ⭐ 340 | TypeScript | 49/100 |
+| 341 | [s3rgeym/hh-applicant-tool](./s3rgeym-hh-applicant-tool.md) | ⭐ 348 | Python | 49/100 |
+| 342 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 922 | Python | 48/100 |
+| 343 | [ibizaman/selfhostblocks](./ibizaman-selfhostblocks.md) | ⭐ 453 | Nix | 48/100 |
+| 344 | [Epistates/turbomcp](./epistates-turbomcp.md) | ⭐ 78 | Rust | 48/100 |
+| 345 | [Softeria/ms-365-mcp-server](./softeria-ms-365-mcp-server.md) | ⭐ 652 | TypeScript | 48/100 |
+| 346 | [narumiruna/yfinance-mcp](./narumiruna-yfinance-mcp.md) | ⭐ 126 | Python | 48/100 |
+| 347 | [akutishevsky/lunchmoney-mcp](./akutishevsky-lunchmoney-mcp.md) | ⭐ 64 | TypeScript | 48/100 |
+| 348 | [clastix/cluster-api-control-plane-provider-kamaji](./clastix-cluster-api-control-plane-provider-kamaji.md) | ⭐ 148 | Go | 47/100 |
+| 349 | [kimmknight/raweb](./kimmknight-raweb.md) | ⭐ 764 | C# | 47/100 |
+| 350 | [cnitlrt/AutoTeam](./cnitlrt-autoteam.md) | ⭐ 640 | Python | 47/100 |
+| 351 | [thisisparker/xword-dl](./thisisparker-xword-dl.md) | ⭐ 196 | Python | 47/100 |
+| 352 | [kubernetes/metrics](./kubernetes-metrics.md) | ⭐ 531 | Go | 47/100 |
+| 353 | [robcerda/monarch-mcp-server](./robcerda-monarch-mcp-server.md) | ⭐ 174 | Python | 47/100 |
+| 354 | [Rishikant181/Rettiwt-API](./rishikant181-rettiwt-api.md) | ⭐ 821 | TypeScript | 47/100 |
+| 355 | [hackers365/xiaozhi-esp32-server-golang](./hackers365-xiaozhi-esp32-server-golang.md) | ⭐ 290 | Go | 47/100 |
+| 356 | [james-6-23/codex2api](./james-6-23-codex2api.md) | ⭐ 716 | Go | 47/100 |
+| 357 | [lansespirit/image-gen-mcp](./lansespirit-image-gen-mcp.md) | ⭐ 56 | Python | 47/100 |
+| 358 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 501 | Rust | 46/100 |
+| 359 | [steipete/discrawl](./steipete-discrawl.md) | ⭐ 666 | Go | 46/100 |
+| 360 | [toddsundsted/ktistec](./toddsundsted-ktistec.md) | ⭐ 428 | Crystal | 46/100 |
+| 361 | [lineofflight/country](./lineofflight-country.md) | ⭐ 302 | TypeScript | 46/100 |
+| 362 | [SigNoz/signoz-mcp-server](./signoz-signoz-mcp-server.md) | ⭐ 88 | Go | 46/100 |
+| 363 | [sigbit/mcp-auth-proxy](./sigbit-mcp-auth-proxy.md) | ⭐ 104 | Go | 46/100 |
+| 364 | [lhccong/fish-island-backend](./lhccong-fish-island-backend.md) | ⭐ 695 | Java | 46/100 |
+| 365 | [natsukium/mcp-servers-nix](./natsukium-mcp-servers-nix.md) | ⭐ 244 | Nix | 45/100 |
+| 366 | [Mibayy/token-savior](./mibayy-token-savior.md) | ⭐ 667 | Python | 45/100 |
+| 367 | [kubernetes/component-base](./kubernetes-component-base.md) | ⭐ 121 | Go | 45/100 |
+| 368 | [drfccv/mcp-server-12306](./drfccv-mcp-server-12306.md) | ⭐ 313 | Python | 45/100 |
+| 369 | [shankar0123/certctl](./shankar0123-certctl.md) | ⭐ 307 | Go | 44/100 |
+| 370 | [WhatsApp/erlang-language-platform](./whatsapp-erlang-language-platform.md) | ⭐ 397 | Rust | 44/100 |
+| 371 | [meta-pytorch/torchcomms](./meta-pytorch-torchcomms.md) | ⭐ 358 | C++ | 44/100 |
+| 372 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 291 | Rust | 43/100 |
+| 373 | [apappascs/mcp-servers-hub](./apappascs-mcp-servers-hub.md) | ⭐ 318 | — | 43/100 |
+| 374 | [okira-e/veriflow](./okira-e-veriflow.md) | ⭐ 3 | Go | 42/100 |
+| 375 | [PaulNonatomic/ServiceKit](./paulnonatomic-servicekit.md) | ⭐ 4 | C# | 40/100 |
+| 376 | [ScalableCapital/scalable-cli](./scalablecapital-scalable-cli.md) | ⭐ 199 | — | 39/100 |
+| 377 | [useknockout/api](./useknockout-api.md) | ⭐ 25 | Python | 36/100 |
+| 378 | [prixe-api/politicians](./prixe-api-politicians.md) | ⭐ 5 | JavaScript | 36/100 |
 
 ---
 

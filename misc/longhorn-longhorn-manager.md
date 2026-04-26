@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the longhorn/longhorn-manager project:
-
-Longhorn Manager is an open-source project that enables the orchestration of massive volumes of data across distributed systems. It provides a scalable and flexible solution for managing large-scale storage environments. By leveraging Longhorn Manager, users can efficiently manage and optimize their storage infrastructure.
+Longhorn Manager is an open-source project that helps manage and orchestrate large-scale storage environments. It enables the management of millions of volumes across various storage systems, providing a scalable and efficient solution for complex storage infrastructures. This project is designed to simplify storage management and improve data organization.
 
 ---
 

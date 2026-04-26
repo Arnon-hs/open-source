@@ -25,9 +25,9 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary of the project:
 
-Vault-for-LLM is an open-source, local-first knowledge system designed for Large Language Model (LLM) agents. It utilizes sqlite-vec and ONNX embeddings to enable efficient and cloud-free processing, eliminating the need for Docker and PyTorch dependencies. This system provides a lightweight and independent solution for LLM knowledge management.
+Vault-for-LLM is an open-source, local-first knowledge system designed for Large Language Model (LLM) agents. It uses SQLite and ONNX embeddings to enable efficient and scalable knowledge management without relying on cloud services or Docker containers. This project eliminates the need for PyTorch dependencies, making it a lightweight and flexible solution for LLM development.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Tcell is an open-source, alternate terminal package that offers improved functionality compared to similar alternatives like termbox. This package provides a more efficient and feature-rich way to create terminal-based applications, making it a valuable resource for developers. By leveraging Tcell, users can build more complex and engaging terminal interfaces.
+Tcell is an open-source, terminal package designed for efficient and intuitive terminal interactions. Developed as an alternative to termbox, it offers enhanced performance and capabilities, making it a viable option for terminal-based applications. This project enables developers to create robust and responsive command-line interfaces.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The crawlchat project is an open-source initiative that utilizes AI technology to transform documentation into an instant question-answering assistant. This innovative tool enables users to leverage their existing documentation to create a personalized AI assistant, streamlining information access and improving productivity. By harnessing the power of AI, crawlchat helps bridge the knowledge gap and enhances the user experience.
+Crawlchat is an open-source project that empowers users to transform their documentation into a conversational AI assistant. This innovative tool enables instant question answering, streamlining knowledge management and improving user experience. By leveraging AI/ML capabilities, crawlchat helps users turn their static documentation into a dynamic, interactive resource.
 
 ---
 

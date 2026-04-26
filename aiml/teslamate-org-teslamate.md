@@ -25,7 +25,9 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Teslamate is an open-source, self-hosted data logger designed to collect and store data from your Tesla vehicle. This project allows users to centralize and monitor various vehicle metrics, providing insights and control over their Tesla's behavior. By hosting the data locally, users can maintain data ownership and control over their vehicle's information.
+Here's a brief summary for the teslamate project:
+
+Teslamate is an open-source, self-hosted data logger that allows you to collect and store your Tesla vehicle's data on your own server. This project enables users to maintain control over their data and provides a flexible solution for tracking and analyzing their driving habits. With Teslamate, you can access detailed insights into your Tesla's performance and energy usage.
 
 ---
 

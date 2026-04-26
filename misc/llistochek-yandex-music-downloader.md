@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the Yandex Music Downloader open-source project:
+Here's a brief summary for the open-source project:
 
-The Yandex Music Downloader is an open-source tool that allows users to download music from Yandex.Music, a popular Russian music streaming service. This project enables users to access and save their favorite music from the platform, providing a convenient option for offline listening. By utilizing this downloader, users can enjoy their Yandex Music library without internet connectivity.
+Yandex Music Downloader is an open-source tool that allows users to download music from Yandex.Music, a popular Russian music streaming service. This application provides a convenient way for users to access and save their favorite tracks offline. It supports downloading music from Yandex.Music, giving users more flexibility and control over their music collection.
 
 ---
 

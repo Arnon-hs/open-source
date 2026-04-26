@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The Agent Skills Hub is an open-source, global library that provides a collection of AI agent skills, enabling seamless integration across various platforms such as OpenClaw, Claude Code, Gemini, Cursor, and Antigravity. This hub facilitates the development and orchestration of AI/ML capabilities, empowering developers with a unified framework for building and deploying AI applications. By consolidating skills from diverse sources, Agent Skills Hub simplifies the process of AI model development and deployment.
+The Agent Skills Hub is an open-source project that serves as a centralized library of AI agent skills, allowing developers to leverage a diverse range of capabilities across various platforms, including OpenClaw, Claude Code, Gemini, Cursor, and Antigravity. This library facilitates seamless integration and reuse of skills, empowering the creation of more advanced and sophisticated AI applications. By fostering collaboration and standardization, the Agent Skills Hub aims to accelerate the development of AI solutions.
 
 ---
 

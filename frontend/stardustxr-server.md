@@ -25,7 +25,7 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-The StardustXR/server is an open-source project that facilitates the operation of the Stardust XR system by providing a server component necessary for clients to connect and run. This server enables seamless communication between clients and the Stardust XR environment, ensuring a cohesive and immersive experience. As a key part of the Stardust XR ecosystem, it plays a crucial role in delivering a robust and interactive experience for users.
+StardustXR/server is an open-source server project that enables the connection and operation of clients in a virtual reality environment. It serves as a crucial component for running and managing XR (Extended Reality) experiences, providing a backend infrastructure for seamless interactions. This project is designed to facilitate the development and deployment of immersive applications.
 
 ---
 

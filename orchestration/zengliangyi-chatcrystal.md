@@ -1,0 +1,32 @@
+# ZengLiangYi/ChatCrystal
+
+[![Stars](https://img.shields.io/github/stars/ZengLiangYi/ChatCrystal?style=flat-square&color=yellow)](https://github.com/ZengLiangYi/ChatCrystal/stargazers) [![Forks](https://img.shields.io/github/forks/ZengLiangYi/ChatCrystal?style=flat-square&color=blue)](https://github.com/ZengLiangYi/ChatCrystal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+
+> Crystallize knowledge from AI conversations. Import from Claude Code / Cursor / Codex CLI,   summarize with LLM, search by semantics.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 17 |
+| 🍴 **Forks** | 1 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Orchestration · AI/ML · Backend
+
+## 📝 Summary
+
+ChatCrystal is an open-source project that aims to crystallize knowledge from AI conversations. It allows users to import data from various sources, including Claude Code, Cursor, and Codex CLI, and then summarizes the content using Large Language Models (LLMs). The project enables semantic search capabilities within the summarized data, making it a powerful tool for knowledge discovery and organization.
+
+---
+
+<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ZengLiangYi/ChatCrystal) · [← Back to Orchestration](./README.md)</sub>

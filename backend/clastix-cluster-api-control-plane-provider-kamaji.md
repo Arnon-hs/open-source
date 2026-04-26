@@ -25,7 +25,7 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The Cluster API Control Plane provider for Kamaji is an open-source project that enables the management of Kubernetes control planes using the Cluster Management API. This provider allows for the automation of control plane deployment, scaling, and lifecycle management, making it easier to manage complex cluster topologies. By leveraging the Cluster API, users can define and manage control plane configurations in a declarative and scalable manner.
+The cluster-api-control-plane-provider-kamaji project is an open-source implementation of the Cluster Management API's Control Plane provider for Kamaji, a scalable and efficient container orchestration solution. This project enables seamless integration of Kamaji control planes with cluster management infrastructure, streamlining cluster operations and management. By providing a standardized interface, it facilitates automation and scalability in containerized environments.
 
 ---
 

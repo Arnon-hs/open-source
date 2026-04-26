@@ -25,7 +25,7 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Signet is an open-source project that provides a proof layer for AI agents, enabling the cryptographically verification of every action taken by these agents. This ensures the integrity and trustworthiness of AI decision-making processes, promoting transparency and accountability. By integrating signet into AI systems, developers can establish a secure and auditable framework for AI-driven actions.
+Signet is an open-source proof layer for AI agents that provides cryptographic verification for every action taken by the agent. This ensures the integrity and trustworthiness of AI interactions, enabling secure and transparent decision-making processes. By leveraging cryptographic techniques, Signet offers a reliable and auditable framework for AI-driven applications.
 
 ---
 

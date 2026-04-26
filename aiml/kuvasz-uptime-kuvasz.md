@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the kuvasz-uptime/kuvasz project:
+Here's a 2-3 sentence summary of the kuvasz project:
 
-Kuvasz is an open-source uptime and SSL monitoring service that offers customizable notification channels, status pages, and integrations with Prometheus and other tools. Built with a focus on flexibility, Kuvasz supports multiple notification channels and provides a comprehensive REST API for seamless integration. With its robust features, Kuvasz is an ideal choice for monitoring and maintaining the uptime and security of web applications.
+Kuvasz is an open-source uptime and SSL monitoring service that provides comprehensive monitoring capabilities with multiple notification channels and customizable status pages. This tool is built with a focus on flexibility, featuring support for Infrastructure as Code (IAC) via YAML, integration with Prometheus, and a complete REST API for seamless automation. With its robust features, kuvasz enables users to monitor and manage their infrastructure with ease.
 
 ---
 

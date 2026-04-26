@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**152 projects** in this category.
+**153 projects** in this category.
 
 ## Projects
 
@@ -138,28 +138,29 @@
 | 128 | [apache/sedona-db](./apache-sedona-db.md) | ⭐ 445 | Rust | 54/100 |
 | 129 | [florianl/go-tc](./florianl-go-tc.md) | ⭐ 524 | Go | 54/100 |
 | 130 | [OpenGeoscience/geojs](./opengeoscience-geojs.md) | ⭐ 470 | JavaScript | 54/100 |
-| 131 | [techouse/sqlite3-to-mysql](./techouse-sqlite3-to-mysql.md) | ⭐ 458 | Python | 53/100 |
-| 132 | [owensgroup/RXMesh](./owensgroup-rxmesh.md) | ⭐ 301 | Cuda | 53/100 |
-| 133 | [gotempsh/temps](./gotempsh-temps.md) | ⭐ 421 | Rust | 53/100 |
-| 134 | [ormsgpack/ormsgpack](./ormsgpack-ormsgpack.md) | ⭐ 388 | Rust | 53/100 |
-| 135 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 226 | Rust | 53/100 |
-| 136 | [nightscape/spark-excel](./nightscape-spark-excel.md) | ⭐ 523 | Scala | 52/100 |
-| 137 | [SkBlaz/py3plex](./skblaz-py3plex.md) | ⭐ 181 | Python | 52/100 |
-| 138 | [voxpupuli/g10k](./voxpupuli-g10k.md) | ⭐ 139 | Go | 52/100 |
-| 139 | [neondatabase/website](./neondatabase-website.md) | ⭐ 309 | JavaScript | 51/100 |
-| 140 | [simpledms/simpledms](./simpledms-simpledms.md) | ⭐ 134 | Go | 51/100 |
-| 141 | [datafolklabs/cement](./datafolklabs-cement.md) | ⭐ 1.3k | Python | 51/100 |
-| 142 | [mus-format/mus-go](./mus-format-mus-go.md) | ⭐ 137 | Go | 50/100 |
-| 143 | [dataform-co/dataform](./dataform-co-dataform.md) | ⭐ 972 | TypeScript | 50/100 |
-| 144 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 102 | Rust | 50/100 |
-| 145 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 157 | Rust | 48/100 |
-| 146 | [ankane/ruby-polars](./ankane-ruby-polars.md) | ⭐ 984 | Ruby | 48/100 |
-| 147 | [egraphs-good/egglog](./egraphs-good-egglog.md) | ⭐ 740 | Rust | 47/100 |
-| 148 | [RetroAchievements/RAWeb](./retroachievements-raweb.md) | ⭐ 391 | PHP | 47/100 |
-| 149 | [leekleak/traffic-light](./leekleak-traffic-light.md) | ⭐ 589 | Kotlin | 44/100 |
-| 150 | [embassy-rs/stm32-data](./embassy-rs-stm32-data.md) | ⭐ 127 | Rust | 44/100 |
-| 151 | [foxtrotcommunications/foxtrotcommunications-forge-core](./foxtrotcommunications-foxtrotcommunications-forge-core.md) | ⭐ 3 | Python | 44/100 |
-| 152 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 42/100 |
+| 131 | [replicase/pgcapture](./replicase-pgcapture.md) | ⭐ 281 | Go | 53/100 |
+| 132 | [techouse/sqlite3-to-mysql](./techouse-sqlite3-to-mysql.md) | ⭐ 458 | Python | 53/100 |
+| 133 | [owensgroup/RXMesh](./owensgroup-rxmesh.md) | ⭐ 301 | Cuda | 53/100 |
+| 134 | [gotempsh/temps](./gotempsh-temps.md) | ⭐ 421 | Rust | 53/100 |
+| 135 | [ormsgpack/ormsgpack](./ormsgpack-ormsgpack.md) | ⭐ 388 | Rust | 53/100 |
+| 136 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 226 | Rust | 53/100 |
+| 137 | [nightscape/spark-excel](./nightscape-spark-excel.md) | ⭐ 523 | Scala | 52/100 |
+| 138 | [SkBlaz/py3plex](./skblaz-py3plex.md) | ⭐ 181 | Python | 52/100 |
+| 139 | [voxpupuli/g10k](./voxpupuli-g10k.md) | ⭐ 139 | Go | 52/100 |
+| 140 | [neondatabase/website](./neondatabase-website.md) | ⭐ 309 | JavaScript | 51/100 |
+| 141 | [simpledms/simpledms](./simpledms-simpledms.md) | ⭐ 134 | Go | 51/100 |
+| 142 | [datafolklabs/cement](./datafolklabs-cement.md) | ⭐ 1.3k | Python | 51/100 |
+| 143 | [mus-format/mus-go](./mus-format-mus-go.md) | ⭐ 137 | Go | 50/100 |
+| 144 | [dataform-co/dataform](./dataform-co-dataform.md) | ⭐ 972 | TypeScript | 50/100 |
+| 145 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 102 | Rust | 50/100 |
+| 146 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 157 | Rust | 48/100 |
+| 147 | [ankane/ruby-polars](./ankane-ruby-polars.md) | ⭐ 984 | Ruby | 48/100 |
+| 148 | [egraphs-good/egglog](./egraphs-good-egglog.md) | ⭐ 740 | Rust | 47/100 |
+| 149 | [RetroAchievements/RAWeb](./retroachievements-raweb.md) | ⭐ 391 | PHP | 47/100 |
+| 150 | [leekleak/traffic-light](./leekleak-traffic-light.md) | ⭐ 589 | Kotlin | 44/100 |
+| 151 | [embassy-rs/stm32-data](./embassy-rs-stm32-data.md) | ⭐ 127 | Rust | 44/100 |
+| 152 | [foxtrotcommunications/foxtrotcommunications-forge-core](./foxtrotcommunications-foxtrotcommunications-forge-core.md) | ⭐ 3 | Python | 44/100 |
+| 153 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 42/100 |
 
 ---
 

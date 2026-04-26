@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The Pare project is an open-source collection of developer tools, specifically designed to optimize performance for agents. It provides structured, token-efficient MCP servers for popular tools such as Git, test runners, npm, and Docker, streamlining development workflows and enhancing efficiency. This versatile suite of tools supports AI/ML and backend development, making it an invaluable resource for developers.
+Here's a brief summary for the open-source project:
+
+Pare is an open-source suite of development tools optimized for agents, providing structured and token-efficient MCP (Multi-Purpose Container) servers for popular applications such as Git, test runners, npm, and Docker. This project aims to simplify development workflows by streamlining access to essential tools. With Pare, developers can focus on their projects while leveraging efficient and scalable infrastructure.
 
 ---
 

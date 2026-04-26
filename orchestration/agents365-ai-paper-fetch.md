@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Agents365-ai/paper-fetch is an open-source project that allows users to download legal, open-access PDFs from various platforms, including Unpaywall, arXiv, PMC, and bioRxiv. This multi-platform Agent Skill is designed to provide seamless access to academic papers, utilizing their unique identifiers such as DOIs. The project is built to support diverse platforms and can be integrated with other orchestration and AI/ML tools.
+The paper-fetch project is an open-source tool that enables the retrieval of legal, open-access PDFs from various sources, including Unpaywall, arXiv, PMC, and bioRxiv, using their unique identifiers (DOIs). This multi-platform skill utilizes AI/ML capabilities to efficiently collect relevant research papers across different platforms, making it an invaluable resource for researchers and scholars. By utilizing this project, users can easily access and download open-access papers.
 
 ---
 

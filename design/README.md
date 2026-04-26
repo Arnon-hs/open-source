@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**25 projects** in this category.
+**26 projects** in this category.
 
 ## Projects
 
@@ -23,16 +23,17 @@
 | 13 | [metacraft-labs/codetracer](./metacraft-labs-codetracer.md) | ⭐ 1.3k | Rust | 59/100 |
 | 14 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 59/100 |
 | 15 | [lahin31/system-design-bangla](./lahin31-system-design-bangla.md) | ⭐ 1.2k | — | 56/100 |
-| 16 | [juspay/superposition](./juspay-superposition.md) | ⭐ 412 | Rust | 53/100 |
-| 17 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
-| 18 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
-| 19 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 224 | Go | 52/100 |
-| 20 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 209 | PHP | 52/100 |
-| 21 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 457 | Go | 49/100 |
-| 22 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 426 | JavaScript | 49/100 |
-| 23 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
-| 24 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 182 | Go | 48/100 |
-| 25 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 522 | Python | 46/100 |
+| 16 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
+| 17 | [juspay/superposition](./juspay-superposition.md) | ⭐ 412 | Rust | 53/100 |
+| 18 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
+| 19 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
+| 20 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 224 | Go | 52/100 |
+| 21 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 209 | PHP | 52/100 |
+| 22 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 457 | Go | 49/100 |
+| 23 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 426 | JavaScript | 49/100 |
+| 24 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
+| 25 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 182 | Go | 48/100 |
+| 26 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 522 | Python | 46/100 |
 
 ---
 

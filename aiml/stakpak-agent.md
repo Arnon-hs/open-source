@@ -25,9 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the stakpak/agent project:
+Here's a brief summary:
 
-Stakpak/agent is an open-source tool that continuously monitors and maintains your applications, ensuring they remain up and running 24/7. This autonomous agent automates the process of keeping your code in optimal condition, streamlining DevOps and infrastructure management. By leveraging AI/ML capabilities, stakpak/agent provides proactive and efficient application management.
+Stakpak/Agent is an open-source, 24/7 monitoring agent that ensures your applications are always running smoothly. This autonomous AI-powered tool continuously checks the health of your apps, detecting and resolving issues before they become critical. By automating routine maintenance and troubleshooting, Stakpak/Agent helps keep your code up and running with minimal human intervention.
 
 ---
 

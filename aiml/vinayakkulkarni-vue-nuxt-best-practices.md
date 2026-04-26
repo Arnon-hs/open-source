@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here is a brief summary for the open-source project:
-
-This project, vinayakkulkarni/vue-nuxt-best-practices, focuses on providing best practices for building Vue and Nuxt applications, particularly for use cases involving Claude Code and AI agents. The repository shares expertise on optimizing frontend development for AI-driven projects, ensuring efficient and scalable solutions. By adopting these best practices, developers can improve the performance and reliability of their AI-powered applications.
+This open-source project, vinayakkulkarni/vue-nuxt-best-practices, offers a collection of best practices for building robust and maintainable Vue and Nuxt applications, specifically tailored for integration with Claude Code and AI agents. By following these guidelines, developers can ensure their projects are scalable, efficient, and well-structured for seamless AI interactions. This project aims to bridge the gap between frontend development and AI-powered applications.
 
 ---
 

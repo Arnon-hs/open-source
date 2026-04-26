@@ -25,7 +25,7 @@ Frontend · Security
 
 ## 📝 Summary
 
-Rustnet is an open-source, cross-platform terminal UI tool designed for network monitoring. Built with Rust, this project provides users with a secure and efficient way to visualize and interact with network data. By offering a comprehensive network monitoring solution, Rustnet aims to simplify network administration and enhance overall system security.
+Rustnet is a cross-platform network monitoring terminal UI tool that provides real-time network insights. Built with Rust, this open-source project offers a secure and efficient way to visualize network activity, making it a valuable resource for system administrators and network security professionals. With its terminal-based interface, Rustnet offers a lightweight and customizable solution for monitoring network traffic.
 
 ---
 
