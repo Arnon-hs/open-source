@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the jhipster/prettier-java project:
-
-The jhipster/prettier-java project is an open-source plugin that integrates Prettier with Java, enabling developers to format their Java code according to a consistent and readable style. This plugin aims to improve code readability and maintainability by automatically reformatting Java code to adhere to a standardized format. By leveraging Prettier's powerful formatting capabilities, developers can streamline their coding workflow and focus on writing high-quality code.
+The Prettier Java Plugin, an open-source project, enhances the Prettier code formatter to support Java files. This plugin allows developers to maintain consistent and visually appealing Java code, adhering to the standard formatting rules and guidelines. By integrating Prettier with Java, it simplifies code formatting tasks and promotes clean, readable code.
 
 ---
 

@@ -25,9 +25,9 @@ Backend · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the Sandertv/Gophertunnel project:
+Here's a brief summary for the Sandertv/gophertunnel project:
 
-Gophertunnel is an open-source, general-purpose library for Minecraft Bedrock Edition software written in Go. It provides a reliable and secure backend solution for developers working with Minecraft, offering a versatile toolset for various applications. This project is suitable for developers seeking to enhance their Minecraft development experience with a robust and maintainable Go-based library.
+The GopherTunnel project is an open-source library for Minecraft Bedrock Edition software, written in the Go programming language. This general-purpose library provides a robust set of tools for developers, making it easier to build and manage Minecraft Bedrock Edition projects. By leveraging the power of Go, GopherTunnel enhances security, backend functionality, and development efficiency in the Minecraft ecosystem.
 
 ---
 

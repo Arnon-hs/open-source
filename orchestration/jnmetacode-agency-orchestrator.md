@@ -27,7 +27,7 @@ Orchestration · AI/ML · Backend
 
 Here's a brief summary of the jnMetaCode/agency-orchestrator project:
 
-The jnMetaCode/agency-orchestrator is an open-source project that enables seamless collaboration between multiple artificial intelligence (AI) roles, streamlining the planning process into just minutes. With support for 211+ expert roles and 9 large language model (LLM) providers, including 6 free options, this zero-code YAML-based solution simplifies complex tasks and accelerates decision-making. Its orchestration capabilities make it a valuable tool for AI/ML development and backend applications.
+The agency-orchestrator is an open-source tool that enables rapid collaboration among multiple AI roles to generate a complete plan in minutes, leveraging 211+ expert roles and 9 LLM providers, including 6 free options. With zero-code YAML configuration, users can easily orchestrate multi-AI workflows to streamline their decision-making process. This project facilitates efficient and automated collaboration among AI experts to deliver comprehensive solutions quickly.
 
 ---
 

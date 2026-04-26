@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This project, nicobailon/pi-powerline-footer, is an open-source extension that brings a Powerline-style status bar to the pi coding agent, enhancing the user experience with a visually appealing and informative interface. Specifically designed for AI/ML applications, it provides a sleek and customizable way to display critical system information. By integrating this extension, users can enjoy a more streamlined and efficient coding environment.
+This open-source project, nicobailon/pi-powerline-footer, is an extension for the pi coding agent that provides a Powerline-style status bar, enhancing user experience and productivity for AI/ML developers. It offers a customizable and visually appealing interface for real-time status updates and information. By integrating this extension, users can streamline their workflow and stay informed with key details at a glance.
 
 ---
 

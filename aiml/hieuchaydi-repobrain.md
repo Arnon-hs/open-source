@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/hieuchaydi/RepoBrain?style=flat-square&color=yellow)](https://github.com/hieuchaydi/RepoBrain/stargazers) [![Forks](https://img.shields.io/github/forks/hieuchaydi/RepoBrain?style=flat-square&color=blue)](https://github.com/hieuchaydi/RepoBrain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> RepoBrain is a local-first codebase memory engine for AI coding assistants. It indexes repositories, retrieves grounded evidence, traces logic flows, and ranks the safest files to inspect or edit before code generation.
+> Local codebase indexing and search tool. Supports hybrid search, flow tracing and impact analysis.
 
 ## 📊 Stats
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project features a compression algorithm developed by an Oxford PhD, endorsed by the tech community and useful in finance applications. The algorithm has been shared through a mention on Hacker News, a platform for discussing and discovering new technologies and projects. Its utility in finance and tech makes it an interesting resource for developers and researchers in these fields.
+This open-source project presents a compression algorithm that has been endorsed by an Oxford PhD, highlighting its potential for applications in finance. The algorithm, discovered on Hacker News, offers an innovative solution for data compression. Its open-source nature allows developers to contribute and utilize this technology across various fields, including technology.
 
 ---
 

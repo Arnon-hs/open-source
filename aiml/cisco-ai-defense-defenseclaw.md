@@ -25,7 +25,7 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Defenseclaw is an open-source project providing security governance for agentic AI systems. It aims to ensure that AI agents operate within predetermined security boundaries and adhere to established guidelines, promoting transparency and accountability in AI decision-making processes. By implementing Defenseclaw, organizations can minimize the risk of AI-driven security breaches and maintain control over their AI systems.
+DefenseClaw is an open-source project providing security governance for agentic AI systems. It offers a framework for ensuring the safety and accountability of autonomous AI decision-making processes. By implementing DefenseClaw, developers can establish a robust security posture for their AI systems and mitigate potential risks associated with AI-driven decision-making.
 
 ---
 

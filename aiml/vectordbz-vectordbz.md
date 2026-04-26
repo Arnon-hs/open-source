@@ -25,7 +25,9 @@ AI/ML · Data
 
 ## 📝 Summary
 
-vectordbz is an open-source desktop application designed to provide a comprehensive platform for exploring, managing, and analyzing vector databases. This tool enables users to efficiently interact with and visualize vector data, facilitating deeper insights and understanding. By offering a user-friendly interface, vectordbz aims to simplify the process of working with vector databases for data scientists and researchers.
+Here's a summary of the vectordbz project:
+
+vectordbz is an open-source desktop application designed to facilitate the exploration, management, and analysis of vector databases. This modern tool enables users to efficiently interact with their vector data, providing a streamlined experience for data professionals and researchers working with AI/ML and data-intensive projects. By leveraging vectordbz, users can unlock the full potential of their vector databases.
 
 ---
 

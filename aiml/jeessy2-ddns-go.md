@@ -1,6 +1,6 @@
 # jeessy2/ddns-go
 
-[![Stars](https://img.shields.io/github/stars/jeessy2/ddns-go?style=flat-square&color=yellow)](https://github.com/jeessy2/ddns-go/stargazers) [![Forks](https://img.shields.io/github/forks/jeessy2/ddns-go?style=flat-square&color=blue)](https://github.com/jeessy2/ddns-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jeessy2/ddns-go?style=flat-square&color=yellow)](https://github.com/jeessy2/ddns-go/stargazers) [![Forks](https://img.shields.io/github/forks/jeessy2/ddns-go?style=flat-square&color=blue)](https://github.com/jeessy2/ddns-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
 > Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.7k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 100/100 |
+| 📈 **Score** | 99/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

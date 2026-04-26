@@ -1,6 +1,6 @@
 # tornikebolokadze1-cyber/awesome-ai-pulse-georgia
 
-[![Stars](https://img.shields.io/github/stars/tornikebolokadze1-cyber/awesome-ai-pulse-georgia?style=flat-square&color=yellow)](https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia/stargazers) [![Forks](https://img.shields.io/github/forks/tornikebolokadze1-cyber/awesome-ai-pulse-georgia?style=flat-square&color=blue)](https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tornikebolokadze1-cyber/awesome-ai-pulse-georgia?style=flat-square&color=yellow)](https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia/stargazers) [![Forks](https://img.shields.io/github/forks/tornikebolokadze1-cyber/awesome-ai-pulse-georgia?style=flat-square&color=blue)](https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of cutting-edge AI agent frameworks, developer tools, and automation resources — by AI Pulse Georgia
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 81 |
+| ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 5 |
-| 💻 **Language** | Unknown |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

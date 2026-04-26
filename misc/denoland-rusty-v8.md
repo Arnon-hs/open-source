@@ -1,6 +1,6 @@
 # denoland/rusty_v8
 
-[![Stars](https://img.shields.io/github/stars/denoland/rusty_v8?style=flat-square&color=yellow)](https://github.com/denoland/rusty_v8/stargazers) [![Forks](https://img.shields.io/github/forks/denoland/rusty_v8?style=flat-square&color=blue)](https://github.com/denoland/rusty_v8/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/denoland/rusty_v8?style=flat-square&color=yellow)](https://github.com/denoland/rusty_v8/stargazers) [![Forks](https://img.shields.io/github/forks/denoland/rusty_v8?style=flat-square&color=blue)](https://github.com/denoland/rusty_v8/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Rust bindings for the V8 JavaScript engine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 393 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

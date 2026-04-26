@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-This open-source project aims to guide users in developing expertise with Claude Code, providing a comprehensive resource for learning and mastery. By offering a structured approach, users can unlock the full potential of Claude Code and improve their skills in the frontend development space. The project serves as a valuable starting point for those looking to enhance their coding abilities.
+This open-source project aims to provide a guide for users on how to build expertise while utilizing Claude Code, a versatile tool. The project covers essential steps and strategies for leveraging Claude Code to enhance skills and knowledge in frontend development. By following this tutorial, users can unlock the full potential of Claude Code and improve their coding expertise.
 
 ---
 

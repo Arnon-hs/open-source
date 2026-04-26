@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-HomeClaw is an open-source project that enables HomeKit smart home control via the MCP framework, allowing users to manage devices such as lights, locks, thermostats, and scenes through Claude Desktop, Claude Code, and OpenClaw. This project provides a flexible solution for integrating HomeKit devices with the Claude ecosystem. It supports a range of HomeKit-compatible devices, making home automation more accessible and convenient.
+HomeClaw is an open-source project that allows users to control their HomeKit smart home devices from the Claude Desktop, Claude Code, and OpenClaw environments. It provides seamless integration with various HomeKit devices, including lights, locks, thermostats, and scenes. This project offers a convenient solution for those seeking to manage their smart home devices in a more accessible and customizable manner.
 
 ---
 

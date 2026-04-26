@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The modem-dev/hunk project is an open-source terminal diff viewer designed for agile coders who prioritize code review. This tool allows users to visually inspect changes in code, streamlining the review process and enhancing collaboration. By utilizing a review-first approach, hunk empowers developers to focus on quality and consistency in their codebase.
+The modem-dev/hunk project is an open-source, review-first terminal diff viewer designed specifically for agentic coders. This innovative tool streamlines the code review process by providing a clear and concise visual representation of code changes, empowering developers to focus on high-quality contributions and effective collaboration. With hunk, developers can efficiently review and understand code modifications in a terminal-based interface.
 
 ---
 

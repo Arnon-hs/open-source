@@ -25,7 +25,7 @@ AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-The go-test-coverage tool is an open-source solution that automatically checks test coverage in Go projects. It identifies and reports code segments with inadequate test coverage, helping developers maintain high-quality code and ensure comprehensive testing. By setting a specified coverage threshold, users can enforce consistent testing standards across their projects.
+The vladopajic/go-test-coverage project is an open-source tool that monitors and reports on test coverage in Go projects. It allows developers to set a desired test coverage threshold, alerting them when their codebase falls below this level, enabling them to identify areas of improvement. This tool is designed to streamline the process of maintaining high test coverage in Go-based development.
 
 ---
 

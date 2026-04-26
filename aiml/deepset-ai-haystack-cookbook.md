@@ -1,6 +1,6 @@
 # deepset-ai/haystack-cookbook
 
-[![Stars](https://img.shields.io/github/stars/deepset-ai/haystack-cookbook?style=flat-square&color=yellow)](https://github.com/deepset-ai/haystack-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/deepset-ai/haystack-cookbook?style=flat-square&color=blue)](https://github.com/deepset-ai/haystack-cookbook/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepset-ai/haystack-cookbook?style=flat-square&color=yellow)](https://github.com/deepset-ai/haystack-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/deepset-ai/haystack-cookbook?style=flat-square&color=blue)](https://github.com/deepset-ai/haystack-cookbook/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 👩🏻‍🍳 A collection of example notebooks using Haystack
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 539 |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project in English:
+Here's a brief summary for the open-source project:
 
-The mini-ai-1c is an open-source AI assistant designed for 1C:Enterprise developers, providing a smart chat interface, code analysis in BSL (Basic Development Language), and seamless integration with the Configurator. This tool aims to enhance developer productivity by leveraging AI and machine learning capabilities. With mini-ai-1c, developers can streamline their workflow and improve code quality.
+The mini-ai-1c project is an open-source AI assistant designed for 1C:Enterprise developers, offering a smart chat interface, code analysis in BSL, and seamless integration with the Configurator. This tool aims to simplify the development process by leveraging AI/ML technologies. It provides a valuable resource for developers to improve their productivity and workflow.
 
 ---
 

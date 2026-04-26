@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/sharpdeveye/maestro?style=flat-square&color=yellow)](https://github.com/sharpdeveye/maestro/stargazers) [![Forks](https://img.shields.io/github/forks/sharpdeveye/maestro?style=flat-square&color=blue)](https://github.com/sharpdeveye/maestro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Workflow fluency for AI coding agents. 1 skill, 21 commands, 7 references — works across Cursor, Claude Code, Gemini CLI, Copilot, and 6 more.
+> Workflow fluency for AI coding agents. 1 core skill · 25 commands · 7 domain references · memory layer · audit trail — works across Cursor, Claude Code, Gemini CLI, Copilot, and 6 more.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 145 |
+| ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |

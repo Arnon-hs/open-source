@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Semble is an open-source project that offers fast code search capabilities with near-transformer accuracy. This AI/ML-powered tool enables agents to quickly find relevant code snippets, streamlining development and improving productivity. By leveraging Semble, developers can efficiently locate the necessary code, reducing search time and enhancing overall coding efficiency.
+Semble is an open-source project that enables fast code search for agents, achieving near-transformer accuracy. This project utilizes cutting-edge AI and ML techniques to efficiently locate relevant code snippets, bridging the gap between speed and accuracy. By leveraging Semble, developers can accelerate their development process and improve overall productivity.
 
 ---
 

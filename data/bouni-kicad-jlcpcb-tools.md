@@ -1,6 +1,6 @@
 # Bouni/kicad-jlcpcb-tools
 
-[![Stars](https://img.shields.io/github/stars/Bouni/kicad-jlcpcb-tools?style=flat-square&color=yellow)](https://github.com/Bouni/kicad-jlcpcb-tools/stargazers) [![Forks](https://img.shields.io/github/forks/Bouni/kicad-jlcpcb-tools?style=flat-square&color=blue)](https://github.com/Bouni/kicad-jlcpcb-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bouni/kicad-jlcpcb-tools?style=flat-square&color=yellow)](https://github.com/Bouni/kicad-jlcpcb-tools/stargazers) [![Forks](https://img.shields.io/github/forks/Bouni/kicad-jlcpcb-tools?style=flat-square&color=blue)](https://github.com/Bouni/kicad-jlcpcb-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Plugin to generate BOM + CPL files for JLCPCB, assigning LCSC part numbers directly from the plugin, query the JLCPCB parts database, lookup datasheets and much more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

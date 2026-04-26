@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, "tracing-opentelemetry-instrumentation-sdk", provides middleware and tools for integrating OpenTelemetry tracing into Axum applications. It enables users to easily instrument their Axum-based services for monitoring and analytics, leveraging the OpenTelemetry standard. This integration facilitates a more comprehensive understanding of application performance and behavior.
+The tracing-opentelemetry-instrumentation-sdk is an open-source project that provides middlewares and tools to seamlessly integrate tracing functionality with the Axum web framework using OpenTelemetry. This project enables developers to instrument their Axum applications for distributed tracing, thereby enhancing observability and facilitating better monitoring of their systems. By leveraging OpenTelemetry, users can easily collect and analyze metrics for their applications.
 
 ---
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Apra-Fleet is an open-source project that utilizes AI agents to automate various tasks, including coding, code review, and machine coordination. This innovative system enables AI agents to work collaboratively and review each other's work, promoting efficiency and accuracy in software development. By integrating AI-powered orchestration, Apra-Fleet streamlines the development process, making it more efficient and effective.
+ApraFleet is an open-source project that utilizes AI agents to automate coding tasks, such as code generation and review, as well as machine coordination. This innovative platform leverages AI/ML capabilities to streamline development workflows, enhancing efficiency and productivity. By orchestrating code development and review across multiple machines, ApraFleet empowers developers to focus on high-level tasks.
 
 ---
 

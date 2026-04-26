@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 261 |
+| 🍴 **Forks** | 262 |
 | 💻 **Language** | PDDL |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **7431** |
+| 🗂️ **Total projects** | **7521** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,22 +18,22 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2852 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1364 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 747 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 648 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 422 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 419 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 253 | [Browse →](./crypto/) |
-| 📊 **Data** | 166 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 142 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 2887 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1390 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 754 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 651 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 428 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 421 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 256 | [Browse →](./crypto/) |
+| 📊 **Data** | 169 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 143 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 112 | [Browse →](./mobile/) |
-| 💳 **Payments** | 103 | [Browse →](./payments/) |
-| 📈 **Trading** | 75 | [Browse →](./trading/) |
+| 💳 **Payments** | 105 | [Browse →](./payments/) |
+| 📈 **Trading** | 76 | [Browse →](./trading/) |
 | 🔐 **Security** | 72 | [Browse →](./security/) |
 | ✨ **Design** | 26 | [Browse →](./design/) |
 | 🎯 **Product** | 20 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 10 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 11 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
@@ -41,14 +41,14 @@
 |---|---|---|---|
 | 1 | [openscad/openscad](./misc/openscad-openscad.md) | ⭐ 9.3k | Misc |
 | 2 | [fatedier/frp](./backend/fatedier-frp.md) | ⭐ 106.1k | Backend |
-| 3 | [hibernate/hibernate-orm](./data/hibernate-hibernate-orm.md) | ⭐ 6.4k | Data |
-| 4 | [jeessy2/ddns-go](./aiml/jeessy2-ddns-go.md) | ⭐ 16.7k | AI/ML |
-| 5 | [iii-hq/iii](./aiml/iii-hq-iii.md) | ⭐ 15.3k | AI/ML |
-| 6 | [containerd/containerd](./aiml/containerd-containerd.md) | ⭐ 20.6k | AI/ML |
-| 7 | [PaddlePaddle/PaddleOCR](./aiml/paddlepaddle-paddleocr.md) | ⭐ 76.6k | AI/ML |
-| 8 | [microsoft/agent-framework](./orchestration/microsoft-agent-framework.md) | ⭐ 9.8k | Orchestration |
-| 9 | [huggingface/pytorch-image-models](./aiml/huggingface-pytorch-image-models.md) | ⭐ 36.7k | AI/ML |
-| 10 | [gruntwork-io/terratest](./devtools/gruntwork-io-terratest.md) | ⭐ 7.9k | DevTools |
+| 3 | [avajs/ava](./devtools/avajs-ava.md) | ⭐ 20.8k | DevTools |
+| 4 | [calcom/cal.diy](./aiml/calcom-cal.diy.md) | ⭐ 42.1k | AI/ML |
+| 5 | [bluewave-labs/Checkmate](./frontend/bluewave-labs-checkmate.md) | ⭐ 9.7k | Frontend |
+| 6 | [mbadolato/iTerm2-Color-Schemes](./misc/mbadolato-iterm2-color-schemes.md) | ⭐ 26.8k | Misc |
+| 7 | [Kong/insomnia](./aiml/kong-insomnia.md) | ⭐ 38.4k | AI/ML |
+| 8 | [saleor/saleor](./payments/saleor-saleor.md) | ⭐ 22.9k | Payments |
+| 9 | [tikv/tikv](./data/tikv-tikv.md) | ⭐ 16.6k | Data |
+| 10 | [rustfs/rustfs](./aiml/rustfs-rustfs.md) | ⭐ 26.5k | AI/ML |
 
 ## 🚀 How it works
 

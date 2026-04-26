@@ -25,7 +25,7 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Netlify Build is an open-source project that automates the build process for web applications, running build commands, plugins, and bundling Netlify Functions. It can be utilized within the Buildbot environment or locally via the Netlify CLI, offering flexibility and ease of use. This tool streamlines development workflows for frontend and backend projects, making it an essential DevTool for web developers.
+Netlify Build is an open-source project that manages the build process for web applications, executing build commands and plugins while bundling Netlify Functions. It can be utilized in a Buildbot environment or locally through the Netlify CLI, providing flexibility and control over the development workflow. This project is categorized under frontend, backend, and DevTools, making it suitable for a wide range of web development needs.
 
 ---
 

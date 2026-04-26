@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Rikaikun is an open-source Chrome extension that facilitates reading Japanese web pages by providing real-time hover-over translations, including the reading and English definitions of Japanese words. This extension helps bridge the language gap for users navigating Japanese content online. By leveraging AI/ML, Rikaikun enhances the reading experience for those interested in Japanese language and culture.
+Rikaikun is a free and open-source Chrome extension that enables users to effortlessly read Japanese web pages by providing real-time kanji readings and English translations upon hover. This tool simplifies the process of navigating Japanese content, making it more accessible to a broader audience. The extension relies on AI/ML technology, offering an innovative solution for language learners and enthusiasts alike.
 
 ---
 

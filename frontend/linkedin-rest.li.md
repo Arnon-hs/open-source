@@ -1,6 +1,6 @@
 # linkedin/rest.li
 
-[![Stars](https://img.shields.io/github/stars/linkedin/rest.li?style=flat-square&color=yellow)](https://github.com/linkedin/rest.li/stargazers) [![Forks](https://img.shields.io/github/forks/linkedin/rest.li?style=flat-square&color=blue)](https://github.com/linkedin/rest.li/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linkedin/rest.li?style=flat-square&color=yellow)](https://github.com/linkedin/rest.li/stargazers) [![Forks](https://img.shields.io/github/forks/linkedin/rest.li?style=flat-square&color=blue)](https://github.com/linkedin/rest.li/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Rest.li is a REST+JSON framework for building robust, scalable service architectures using dynamic discovery and simple asynchronous APIs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 562 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

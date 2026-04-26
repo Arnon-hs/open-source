@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 44 |
-| 🍴 **Forks** | 26 |
+| 🍴 **Forks** | 27 |
 | 💻 **Language** | SCSS |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |

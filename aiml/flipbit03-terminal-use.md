@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/flipbit03/terminal-use?style=flat-square&color=yellow)](https://github.com/flipbit03/terminal-use/stargazers) [![Forks](https://img.shields.io/github/forks/flipbit03/terminal-use?style=flat-square&color=blue)](https://github.com/flipbit03/terminal-use/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> Virtual terminal for AI agents
+> tu is tmux for your coding agent
 
 ## 📊 Stats
 

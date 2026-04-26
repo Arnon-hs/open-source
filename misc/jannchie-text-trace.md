@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the Text Trace project:
-
-Text Trace is an open-source web project that enables the creation of Keynote-style SVG text trace animations. This innovative tool allows developers to add visually striking text animations to websites, making them more engaging and interactive. By leveraging SVG technology, Text Trace provides a flexible and customizable solution for web designers and developers.
+Text Trace is an open-source project that allows for the creation of Keynote-style SVG text trace animations on the web. This project enables users to add dynamic and engaging visual effects to their text elements, making them stand out on web pages. By utilizing SVG technology, developers can easily incorporate this functionality into their web applications.
 
 ---
 

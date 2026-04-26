@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Hacker-Valley-Media/Interceptor is an open-source Chrome extension that enables full browser control via the command line interface (CLI). This agent-driven tool provides developers with the ability to automate and interact with web applications programmatically, making it an invaluable asset for AI/ML and DevTools applications. By leveraging the extension, users can streamline development workflows and push the boundaries of web automation.
+Here's a brief summary for the Hacker-Valley-Media/Interceptor project:
+
+Interceptor is an open-source Chrome extension that enables full browser control via a command-line interface (CLI), allowing users to automate browser interactions using agent-driven scripts. This powerful tool is designed for developers and researchers working on AI/ML projects, providing a seamless integration with DevTools. By using Interceptor, users can streamline their workflow and optimize their browser interactions.
 
 ---
 

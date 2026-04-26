@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-Melpa is an open-source project that serves as the build machinery and package repository for the largest collection of Emacs packages. It provides recipes for building and managing packages, making it easier for developers to contribute and users to discover and install the latest Emacs extensions. Melpa plays a crucial role in the Emacs ecosystem, facilitating collaboration and package distribution.
+Here's a brief summary for the melpa project:
+
+Melpa (Meta Package Repository) is an open-source project that provides recipes and build machinery for the Emacs ecosystem's largest package repository. It enables users to easily discover, download, and install Emacs packages, making it a crucial component for the Emacs community. Melpa simplifies the process of managing and updating Emacs packages.
 
 ---
 

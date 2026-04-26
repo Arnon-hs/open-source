@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The SentryShot project is an open-source video management system designed to efficiently handle and organize video content. This system is a mirrored version of the original Codeberg repository, offering a comprehensive solution for video management and storage. Its open-source nature allows developers to customize and contribute to its development.
+SentryShot is an open-source video management system designed to efficiently handle and manage video content. This project offers a robust platform for users to store, organize, and access their video collections, making it an ideal solution for personal or professional video archiving needs. The project is hosted on Codeberg, a decentralized and open-source alternative to traditional source code hosting platforms.
 
 ---
 

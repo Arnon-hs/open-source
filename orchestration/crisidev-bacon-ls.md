@@ -25,9 +25,7 @@ Orchestration · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The bacon-ls project is an open-source Language Server for Rust, utilizing the Bacon diagnostics framework to provide accurate and effective language features. This server is designed to be extensible and efficient, supporting a wide range of Rust development workflows. By leveraging Bacon's diagnostics capabilities, bacon-ls offers a robust and reliable experience for Rust developers.
+The bacon-ls project provides an open-source language server for Rust, utilizing the Bacon diagnostics library to offer a robust and accurate development experience. This tool enables features such as code completion, diagnostics, and code refactoring, all within a Rust-specific context. By leveraging Bacon, bacon-ls provides high-quality diagnostics for Rust developers.
 
 ---
 

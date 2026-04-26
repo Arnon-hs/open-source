@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The ovg-project/kvcached is an open-source project that offers a virtualized elastic key-value cache, designed to enable dynamic GPU sharing and other applications that require high-performance, scalable data storage and retrieval. This project aims to provide a flexible and efficient solution for AI/ML workloads and other demanding use cases. By leveraging a key-value cache architecture, ovg-project/kvcached can help optimize system performance and reduce latency.
+The kvcached project is an open-source, virtualized elastic key-value cache designed for dynamic GPU sharing and other applications. Its purpose is to provide a flexible and scalable solution for caching data, enabling efficient processing and high-performance computing in AI/ML and backend systems. By leveraging this cache, developers can optimize their applications for improved speed and resource utilization.
 
 ---
 

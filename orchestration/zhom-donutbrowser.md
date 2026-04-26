@@ -1,6 +1,6 @@
 # zhom/donutbrowser
 
-[![Stars](https://img.shields.io/github/stars/zhom/donutbrowser?style=flat-square&color=yellow)](https://github.com/zhom/donutbrowser/stargazers) [![Forks](https://img.shields.io/github/forks/zhom/donutbrowser?style=flat-square&color=blue)](https://github.com/zhom/donutbrowser/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhom/donutbrowser?style=flat-square&color=yellow)](https://github.com/zhom/donutbrowser/stargazers) [![Forks](https://img.shields.io/github/forks/zhom/donutbrowser?style=flat-square&color=blue)](https://github.com/zhom/donutbrowser/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Simple Yet Powerful Anti-Detect Browser 🍩
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 140 |
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 146 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-TraceFree is an open-source project that aims to unify package management across various Linux distributions, including Apt (Debian-based), Snap, and Flatpak. This project also incorporates a feature called "ghost file detection" to identify and remove unnecessary files on a system. By streamlining package management and eliminating unused files, TraceFree aims to provide a more efficient and clutter-free user experience.
+TraceFree is an open-source project that aims to provide a unified package manager for various Linux distributions, supporting Apt, Snap, and Flatpak package management systems. Its key feature is the ability to detect "ghost" files, which are files not directly managed by the package manager but are still present on the system, potentially causing issues. This project seeks to improve system cleanliness and reliability.
 
 ---
 

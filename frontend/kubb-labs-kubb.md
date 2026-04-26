@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/kubb-labs/kubb?style=flat-square&color=yellow)](https://github.com/kubb-labs/kubb/stargazers) [![Forks](https://img.shields.io/github/forks/kubb-labs/kubb?style=flat-square&color=blue)](https://github.com/kubb-labs/kubb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
-> 🧩 The Ultimate Toolkit for Generating Type-Safe API Clients, Hooks, and Validators.
+> 🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Frontend · Backend · DevTools
+Frontend · Backend · Mobile
 
 ## 📝 Summary
 

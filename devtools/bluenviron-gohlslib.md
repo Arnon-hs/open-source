@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the bluenviron/gohlslib project:
-
-The bluenviron/gohlslib project is an open-source library for the Go programming language, providing a comprehensive HLS (HTTP Live Streaming) client and muxer. This library enables developers to easily work with HLS in their Go applications, making it a valuable resource for media streaming and live content delivery. With gohlslib, developers can create robust and efficient HLS implementations for a wide range of use cases.
+The bluenviron/gohlslib project is an open-source library for the Go programming language, providing a comprehensive solution for working with the HTTP Live Streaming (HLS) protocol. It combines both client and muxer capabilities, allowing developers to easily create and manage HLS streams. This library is designed to help simplify the development of HLS-based applications.
 
 ---
 

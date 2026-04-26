@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-WaveletLM is an open-source project that introduces a wavelet-based, attention-free model with a significantly improved scaling complexity of O(n log n). This model aims to provide a more efficient alternative to traditional attention-based architectures, particularly in tasks requiring fast inference times. By leveraging wavelet techniques, WaveletLM enables faster computation and processing of large datasets.
+Researchers have developed an open-source project called WaveletLM, a novel wavelet-based model that leverages wavelet theory to achieve efficient scaling with a time complexity of O(n log n) without relying on attention mechanisms. This innovative approach has the potential to improve the performance and scalability of various machine learning applications. By harnessing the power of wavelets, WaveletLM may offer a more efficient alternative to traditional models.
 
 ---
 

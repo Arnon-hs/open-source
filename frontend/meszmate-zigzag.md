@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The zigzag project is an open-source, delightful TUI (Text User Interface) framework designed specifically for the Zig programming language. It provides a user-friendly and efficient way to build command-line applications with a visually appealing interface. This TUI framework enables developers to create engaging and interactive command-line tools with ease.
+Zigzag is a user-friendly, open-source Terminal User Interface (TUI) framework designed for the Zig programming language. It offers a delightful development experience with its intuitive API and customizable features, empowering developers to create engaging, text-based interfaces for their applications. By leveraging Zigzag, developers can focus on building innovative TUI applications without worrying about the complexities of low-level terminal interactions.
 
 ---
 
