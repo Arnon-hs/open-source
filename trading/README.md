@@ -8,16 +8,16 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MISP/MISP](./misp-misp.md) | ⭐ 6.3k | PHP | 100/100 |
-| 2 | [ZhuLinsen/daily_stock_analysis](./zhulinsen-daily-stock-analysis.md) | ⭐ 31.4k | Python | 100/100 |
-| 3 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 100/100 |
-| 4 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
-| 5 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 100/100 |
-| 6 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.3k | TypeScript | 100/100 |
-| 7 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 24k | Python | 100/100 |
-| 8 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | HTML | 100/100 |
-| 9 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | — | 100/100 |
-| 10 | [hiyouga/LlamaFactory](./hiyouga-llamafactory.md) | ⭐ 70.6k | Python | 100/100 |
+| 1 | [hiyouga/LlamaFactory](./hiyouga-llamafactory.md) | ⭐ 70.6k | Python | 100/100 |
+| 2 | [MISP/MISP](./misp-misp.md) | ⭐ 6.3k | PHP | 100/100 |
+| 3 | [ZhuLinsen/daily_stock_analysis](./zhulinsen-daily-stock-analysis.md) | ⭐ 31.4k | Python | 100/100 |
+| 4 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 100/100 |
+| 5 | [quantumlib/Cirq](./quantumlib-cirq.md) | ⭐ 4.9k | Python | 100/100 |
+| 6 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 100/100 |
+| 7 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.3k | TypeScript | 100/100 |
+| 8 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 24k | Python | 100/100 |
+| 9 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 25.8k | HTML | 100/100 |
+| 10 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | — | 100/100 |
 | 11 | [QuantumNous/new-api](./quantumnous-new-api.md) | ⭐ 28.9k | Go | 99/100 |
 | 12 | [TauricResearch/TradingAgents](./tauricresearch-tradingagents.md) | ⭐ 53k | Python | 96/100 |
 | 13 | [intuitem/ciso-assistant-community](./intuitem-ciso-assistant-community.md) | ⭐ 4k | Python | 88/100 |
@@ -42,27 +42,27 @@
 | 32 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 911 | Rust | 59/100 |
 | 33 | [abshare/abshare.github.io](./abshare-abshare.github.io.md) | ⭐ 977 | — | 58/100 |
 | 34 | [tcgdex/cards-database](./tcgdex-cards-database.md) | ⭐ 747 | TypeScript | 58/100 |
-| 35 | [mguessan/davmail](./mguessan-davmail.md) | ⭐ 717 | Java | 57/100 |
-| 36 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 702 | Jupyter Notebook | 57/100 |
+| 35 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 702 | Jupyter Notebook | 57/100 |
+| 36 | [mguessan/davmail](./mguessan-davmail.md) | ⭐ 717 | Java | 57/100 |
 | 37 | [himself65/finance-skills](./himself65-finance-skills.md) | ⭐ 1.3k | TypeScript | 56/100 |
 | 38 | [freqtrade/technical](./freqtrade-technical.md) | ⭐ 996 | Python | 56/100 |
 | 39 | [QMCPACK/qmcpack](./qmcpack-qmcpack.md) | ⭐ 383 | C++ | 55/100 |
 | 40 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 568 | Swift | 54/100 |
 | 41 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
-| 42 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 772 | Rust | 54/100 |
-| 43 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 445 | Rust | 54/100 |
+| 42 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 445 | Rust | 54/100 |
+| 43 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 773 | Rust | 54/100 |
 | 44 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
 | 45 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 399 | Python | 53/100 |
 | 46 | [quantumaikr/quant.cpp](./quantumaikr-quant.cpp.md) | ⭐ 384 | C | 53/100 |
 | 47 | [tolinkshare2/tolinkshare2.github.io](./tolinkshare2-tolinkshare2.github.io.md) | ⭐ 381 | — | 53/100 |
-| 48 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 120 | Go | 51/100 |
-| 49 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 52 | Python | 51/100 |
-| 50 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 79 | Python | 51/100 |
-| 51 | [tensorcircuit/tensorcircuit-ng](./tensorcircuit-tensorcircuit-ng.md) | ⭐ 70 | Python | 51/100 |
-| 52 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 86 | Python | 51/100 |
-| 53 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 157 | Rust | 51/100 |
-| 54 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 152 | Rust | 51/100 |
-| 55 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 131 | Python | 51/100 |
+| 48 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 79 | Python | 51/100 |
+| 49 | [tensorcircuit/tensorcircuit-ng](./tensorcircuit-tensorcircuit-ng.md) | ⭐ 70 | Python | 51/100 |
+| 50 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 86 | Python | 51/100 |
+| 51 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 157 | Rust | 51/100 |
+| 52 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 152 | Rust | 51/100 |
+| 53 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 131 | Python | 51/100 |
+| 54 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 120 | Go | 51/100 |
+| 55 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 52 | Python | 51/100 |
 | 56 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 27 | Python | 50/100 |
 | 57 | [quantamixsol/graqle](./quantamixsol-graqle.md) | ⭐ 22 | Python | 50/100 |
 | 58 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 30 | Shell | 50/100 |

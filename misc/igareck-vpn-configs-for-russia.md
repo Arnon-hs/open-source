@@ -1,6 +1,6 @@
 # igareck/vpn-configs-for-russia
 
-[![Stars](https://img.shields.io/github/stars/igareck/vpn-configs-for-russia?style=flat-square&color=yellow)](https://github.com/igareck/vpn-configs-for-russia/stargazers) [![Forks](https://img.shields.io/github/forks/igareck/vpn-configs-for-russia?style=flat-square&color=blue)](https://github.com/igareck/vpn-configs-for-russia/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/igareck/vpn-configs-for-russia?style=flat-square&color=yellow)](https://github.com/igareck/vpn-configs-for-russia/stargazers) [![Forks](https://img.shields.io/github/forks/igareck/vpn-configs-for-russia?style=flat-square&color=blue)](https://github.com/igareck/vpn-configs-for-russia/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > 🗽Бесплатные и проверенные VPN конфигурации, работающие в РФ ⚪ Белые списки / обход белых списков ⚪ Free and checked VPN configurations that work in Russia ⚪ Whitelists bypass
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

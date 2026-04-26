@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6238** |
+| 🗂️ **Total projects** | **6302** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2393 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1081 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 619 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 566 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 368 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 346 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 222 | [Browse →](./crypto/) |
-| 📊 **Data** | 147 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 129 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 96 | [Browse →](./mobile/) |
-| 💳 **Payments** | 90 | [Browse →](./payments/) |
-| 🔐 **Security** | 65 | [Browse →](./security/) |
+| 🤖 **AI/ML** | 2417 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1097 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 627 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 568 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 370 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 349 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 224 | [Browse →](./crypto/) |
+| 📊 **Data** | 150 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 130 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 97 | [Browse →](./mobile/) |
+| 💳 **Payments** | 91 | [Browse →](./payments/) |
+| 🔐 **Security** | 66 | [Browse →](./security/) |
 | 📈 **Trading** | 63 | [Browse →](./trading/) |
-| ✨ **Design** | 24 | [Browse →](./design/) |
+| ✨ **Design** | 25 | [Browse →](./design/) |
 | 🎯 **Product** | 19 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 10 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 9 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [apernet/hysteria](./frontend/apernet-hysteria.md) | ⭐ 19.8k | Frontend |
-| 2 | [yeasy/blockchain_guide](./crypto/yeasy-blockchain-guide.md) | ⭐ 7.1k | Crypto |
-| 3 | [ngosang/trackerslist](./misc/ngosang-trackerslist.md) | ⭐ 53.6k | Misc |
-| 4 | [projectdiscovery/nuclei](./aiml/projectdiscovery-nuclei.md) | ⭐ 28.1k | AI/ML |
-| 5 | [casdoor/casdoor](./aiml/casdoor-casdoor.md) | ⭐ 13.5k | AI/ML |
-| 6 | [astral-sh/ruff](./frontend/astral-sh-ruff.md) | ⭐ 47.2k | Frontend |
-| 7 | [matplotlib/matplotlib](./data/matplotlib-matplotlib.md) | ⭐ 22.7k | Data |
-| 8 | [alam00000/bentopdf](./devopsinfra/alam00000-bentopdf.md) | ⭐ 12.9k | DevOps & Infra |
-| 9 | [alibaba/nacos](./aiml/alibaba-nacos.md) | ⭐ 32.9k | AI/ML |
-| 10 | [flybywiresim/aircraft](./aiml/flybywiresim-aircraft.md) | ⭐ 5.4k | AI/ML |
+| 1 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25k | Design |
+| 2 | [ngosang/trackerslist](./misc/ngosang-trackerslist.md) | ⭐ 53.6k | Misc |
+| 3 | [duplicati/duplicati](./aiml/duplicati-duplicati.md) | ⭐ 14.5k | AI/ML |
+| 4 | [WinMerge/winmerge](./misc/winmerge-winmerge.md) | ⭐ 8.7k | Misc |
+| 5 | [ImageMagick/ImageMagick](./frontend/imagemagick-imagemagick.md) | ⭐ 16.3k | Frontend |
+| 6 | [BlinkDL/RWKV-LM](./aiml/blinkdl-rwkv-lm.md) | ⭐ 14.5k | AI/ML |
+| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 8 | [spree/spree](./backend/spree-spree.md) | ⭐ 15.4k | Backend |
+| 9 | [ultralytics/ultralytics](./devtools/ultralytics-ultralytics.md) | ⭐ 56.4k | DevTools |
+| 10 | [seaweedfs/seaweedfs](./aiml/seaweedfs-seaweedfs.md) | ⭐ 31.7k | AI/ML |
 
 ## 🚀 How it works
 

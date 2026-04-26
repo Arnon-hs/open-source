@@ -1,6 +1,6 @@
 # hashicorp/terraform-provider-azurerm
 
-[![Stars](https://img.shields.io/github/stars/hashicorp/terraform-provider-azurerm?style=flat-square&color=yellow)](https://github.com/hashicorp/terraform-provider-azurerm/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/terraform-provider-azurerm?style=flat-square&color=blue)](https://github.com/hashicorp/terraform-provider-azurerm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashicorp/terraform-provider-azurerm?style=flat-square&color=yellow)](https://github.com/hashicorp/terraform-provider-azurerm/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/terraform-provider-azurerm?style=flat-square&color=blue)](https://github.com/hashicorp/terraform-provider-azurerm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform provider for Azure Resource Manager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 5k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 94/100 |
+| 📈 **Score** | 95/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # openmemind/memind
 
-[![Stars](https://img.shields.io/github/stars/openmemind/memind?style=flat-square&color=yellow)](https://github.com/openmemind/memind/stargazers) [![Forks](https://img.shields.io/github/forks/openmemind/memind?style=flat-square&color=blue)](https://github.com/openmemind/memind/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openmemind/memind?style=flat-square&color=yellow)](https://github.com/openmemind/memind/stargazers) [![Forks](https://img.shields.io/github/forks/openmemind/memind?style=flat-square&color=blue)](https://github.com/openmemind/memind/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 535 |
+| ⭐ **Stars** | 536 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

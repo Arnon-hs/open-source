@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/arpanghosh8453/open-dronelog?style=flat-square&color=yellow)](https://github.com/arpanghosh8453/open-dronelog/stargazers) [![Forks](https://img.shields.io/github/forks/arpanghosh8453/open-dronelog?style=flat-square&color=blue)](https://github.com/arpanghosh8453/open-dronelog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
-> Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
+> Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built with Tauri v2, DuckDB, and React.
 
 ## 📊 Stats
 

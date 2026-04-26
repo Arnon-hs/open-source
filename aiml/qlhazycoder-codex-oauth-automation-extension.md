@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/QLHazyCoder/codex-oauth-automation-extension?style=flat-square&color=yellow)](https://github.com/QLHazyCoder/codex-oauth-automation-extension/stargazers) [![Forks](https://img.shields.io/github/forks/QLHazyCoder/codex-oauth-automation-extension?style=flat-square&color=blue)](https://github.com/QLHazyCoder/codex-oauth-automation-extension/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
-> Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复
+> Chrome扩展：支持OpenAI OAuth注册(自动开通plus账号)、验证码获取、CPA/sub/cpdex2api回调验证与自动恢复
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Security
+AI/ML · Backend · Security
 
 ## 📝 Summary
 
