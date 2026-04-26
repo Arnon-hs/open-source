@@ -1,6 +1,6 @@
 # crazy-max/swarm-cronjob
 
-[![Stars](https://img.shields.io/github/stars/crazy-max/swarm-cronjob?style=flat-square&color=yellow)](https://github.com/crazy-max/swarm-cronjob/stargazers) [![Forks](https://img.shields.io/github/forks/crazy-max/swarm-cronjob?style=flat-square&color=blue)](https://github.com/crazy-max/swarm-cronjob/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crazy-max/swarm-cronjob?style=flat-square&color=yellow)](https://github.com/crazy-max/swarm-cronjob/stargazers) [![Forks](https://img.shields.io/github/forks/crazy-max/swarm-cronjob?style=flat-square&color=blue)](https://github.com/crazy-max/swarm-cronjob/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Create jobs on a time-based schedule on Docker Swarm
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 869 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

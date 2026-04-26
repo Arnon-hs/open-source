@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 508 |
+| ⭐ **Stars** | 507 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 44/100 |
@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Leadaxe/singbox-launcher is an open-source, GUI-based launcher for Sing-box, designed to provide an intuitive interface for users. Developed with Go, this frontend application simplifies the process of accessing and interacting with Sing-box functionality. By leveraging a graphical user interface, users can easily navigate and utilize Sing-box features with ease.
+The Leadaxe/singbox-launcher is an open-source graphical user interface (GUI) launcher designed to simplify the interaction with Sing-Box. Developed using the Go programming language, this frontend tool provides a user-friendly interface for managing Sing-Box functionality. By streamlining access to Sing-Box features, the launcher enhances the overall user experience.
 
 ---
 

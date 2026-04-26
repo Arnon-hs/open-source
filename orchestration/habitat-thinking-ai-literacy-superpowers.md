@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary of the project:
 
-The Habitat-Thinking/ai-literacy-superpowers project offers a comprehensive AI development workflow through a set of plugins for Claude Code and GitHub Copilot. This workflow includes features such as harness engineering, agent orchestration, literate programming, CUPID code review, and the three enforcement loops, empowering developers with AI literacy. By utilizing these plugins, users can streamline their AI development process, ensuring more efficient and effective project management.
+The Habitat-Thinking/ai-literacy-superpowers project offers a comprehensive AI development workflow, integrating Claude Code and GitHub Copilot plugins to facilitate harness engineering, agent orchestration, and literate programming. This framework also includes CUPID code review and the three enforcement loops for streamlined AI/ML development. By providing a unified platform, developers can enhance their AI literacy and productivity.
 
 ---
 

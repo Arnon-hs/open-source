@@ -1,6 +1,6 @@
 # swaldman/c3p0
 
-[![Stars](https://img.shields.io/github/stars/swaldman/c3p0?style=flat-square&color=yellow)](https://github.com/swaldman/c3p0/stargazers) [![Forks](https://img.shields.io/github/forks/swaldman/c3p0?style=flat-square&color=blue)](https://github.com/swaldman/c3p0/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swaldman/c3p0?style=flat-square&color=yellow)](https://github.com/swaldman/c3p0/stargazers) [![Forks](https://img.shields.io/github/forks/swaldman/c3p0?style=flat-square&color=blue)](https://github.com/swaldman/c3p0/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > a mature, highly concurrent JDBC Connection pooling library, with support for caching and reuse of PreparedStatements.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 343 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

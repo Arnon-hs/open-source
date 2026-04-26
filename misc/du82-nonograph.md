@@ -1,17 +1,17 @@
 # du82/nonograph
 
-[![Stars](https://img.shields.io/github/stars/du82/nonograph?style=flat-square&color=yellow)](https://github.com/du82/nonograph/stargazers) [![Forks](https://img.shields.io/github/forks/du82/nonograph?style=flat-square&color=blue)](https://github.com/du82/nonograph/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/du82/nonograph?style=flat-square&color=yellow)](https://github.com/du82/nonograph/stargazers) [![Forks](https://img.shields.io/github/forks/du82/nonograph?style=flat-square&color=blue)](https://github.com/du82/nonograph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Nonograph is a self-hosted anonymous publishing platform. No accounts, no tracking, no compromise. Write anonymously, publish instantly, read privately.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 18 |
+| 🍴 **Forks** | 3 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

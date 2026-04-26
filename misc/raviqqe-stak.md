@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "raviqqe/stak":
-
-stak is an open-source, embeddable R7RS Scheme implementation, designed to be a miniature and lightweight alternative for use in various applications. It offers a compact and efficient implementation of the Scheme programming language, making it suitable for embedding in other projects. With its R7RS compliance, stak provides a reliable and flexible foundation for building Scheme-based applications.
+The stak project is a compact, embeddable implementation of the R7RS Scheme programming language, designed to be easily integrated into various applications and environments. This open-source project aims to provide a minimalist and efficient Scheme runtime, making it suitable for use in resource-constrained systems and development scenarios. By leveraging the R7RS standard, stak offers a consistent and predictable Scheme experience.
 
 ---
 

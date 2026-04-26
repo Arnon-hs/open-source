@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-"trykimu/videoeditor" is an open-source front-end video editing project that aims to provide a user-friendly interface for content creators to edit and refine their video content. As a creative copilot, it offers a range of features and tools to streamline the editing process, making it easier for users to bring their vision to life. This project is designed to be highly customizable and extensible, allowing users to tailor the interface to their specific needs and workflows.
+Trykimu/videoeditor is a free and open-source video editing project that aims to provide a user-friendly and innovative interface for creators to craft engaging video content. This frontend-focused project is designed to empower users with a robust set of tools and features, allowing them to bring their visual ideas to life. By harnessing the power of open-source collaboration, trykimu/videoeditor continues to evolve and improve, offering a unique and dynamic video editing experience.
 
 ---
 

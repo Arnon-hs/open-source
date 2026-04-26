@@ -25,7 +25,9 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Dora is an open-source, lightweight slot explorer specifically designed for the Ethereum Beacon Chain. This tool provides in-depth insights and analysis of the beacon chain, facilitating a deeper understanding of the underlying mechanics. By leveraging machine learning and cryptography expertise, Dora enables users to explore and navigate the Ethereum Beacon Chain with ease.
+Here's a brief summary for the Dora project:
+
+Dora is an open-source, lightweight slot explorer specifically designed for the Ethereum beacon chain. This tool enables users to explore and understand the beacon chain, providing valuable insights into the underlying architecture and operations of the network. By leveraging Dora, developers and researchers can gain a deeper understanding of the Ethereum proof-of-stake consensus mechanism.
 
 ---
 

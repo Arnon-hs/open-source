@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the voxelmorph/voxelmorph project:
-
-Voxelmorph is an open-source project that leverages unsupervised learning for image registration. It enables the accurate alignment of different images by utilizing deep learning techniques, which can be particularly useful in various applications such as medical imaging, computer vision, and remote sensing. This project provides a powerful tool for image registration tasks, simplifying the process and improving results.
+The voxelmorph project is an open-source library that enables unsupervised learning for image registration, a crucial process in medical imaging and computer vision. By leveraging deep learning techniques, voxelmorph facilitates the alignment of images from different sources, allowing for more accurate analysis and visualization of complex data. This library provides a scalable and adaptable solution for various applications, including MRI and CT scans.
 
 ---
 

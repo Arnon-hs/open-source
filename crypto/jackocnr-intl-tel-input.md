@@ -1,6 +1,6 @@
 # jackocnr/intl-tel-input
 
-[![Stars](https://img.shields.io/github/stars/jackocnr/intl-tel-input?style=flat-square&color=yellow)](https://github.com/jackocnr/intl-tel-input/stargazers) [![Forks](https://img.shields.io/github/forks/jackocnr/intl-tel-input?style=flat-square&color=blue)](https://github.com/jackocnr/intl-tel-input/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jackocnr/intl-tel-input?style=flat-square&color=yellow)](https://github.com/jackocnr/intl-tel-input/stargazers) [![Forks](https://img.shields.io/github/forks/jackocnr/intl-tel-input?style=flat-square&color=blue)](https://github.com/jackocnr/intl-tel-input/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
 > A JavaScript plugin for entering, formatting and validating international telephone numbers. Includes React, Vue, Angular and Svelte components, plus TypeScript definitions.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 8.2k |
 | 🍴 **Forks** | 2k |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

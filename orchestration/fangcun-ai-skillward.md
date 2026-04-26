@@ -25,9 +25,9 @@ Orchestration · AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the SkillWard project:
+Here's a brief summary for the SkillWard project:
 
-SkillWard is an open-source security scanner designed to detect hidden threats in Agent Skills before deployment. This tool leverages AI/ML capabilities to identify potential security vulnerabilities, ensuring the integrity and reliability of Agent Skills. By using SkillWard, users can uncover and mitigate risks, thereby enhancing the overall security posture of their applications.
+SkillWard is an open-source security scanner designed to detect hidden threats in Agent Skills before deployment. Leveraging AI and machine learning, this tool enhances the security and integrity of Agent Skills, empowering users to make informed decisions about their application's safety and reliability. With SkillWard, users can identify and mitigate potential vulnerabilities, ensuring a safer and more secure deployment process.
 
 ---
 

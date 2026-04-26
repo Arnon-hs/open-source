@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **7600** |
+| 🗂️ **Total projects** | **7676** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2917 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1411 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 766 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 656 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 433 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 425 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 258 | [Browse →](./crypto/) |
-| 📊 **Data** | 169 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 143 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 111 | [Browse →](./mobile/) |
-| 💳 **Payments** | 105 | [Browse →](./payments/) |
-| 📈 **Trading** | 76 | [Browse →](./trading/) |
+| 🤖 **AI/ML** | 2954 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1427 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 772 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 660 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 436 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 429 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 259 | [Browse →](./crypto/) |
+| 📊 **Data** | 168 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 144 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 112 | [Browse →](./mobile/) |
+| 💳 **Payments** | 106 | [Browse →](./payments/) |
+| 📈 **Trading** | 79 | [Browse →](./trading/) |
 | 🔐 **Security** | 72 | [Browse →](./security/) |
 | ✨ **Design** | 26 | [Browse →](./design/) |
 | 🎯 **Product** | 20 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [avajs/ava](./devtools/avajs-ava.md) | ⭐ 20.8k | DevTools |
-| 2 | [TanStack/table](./frontend/tanstack-table.md) | ⭐ 27.9k | Frontend |
-| 3 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 36.1k | Orchestration |
-| 4 | [n8n-io/n8n](./aiml/n8n-io-n8n.md) | ⭐ 185.7k | AI/ML |
-| 5 | [calcom/cal.diy](./aiml/calcom-cal.diy.md) | ⭐ 42.1k | AI/ML |
-| 6 | [sqlmapproject/sqlmap](./devtools/sqlmapproject-sqlmap.md) | ⭐ 37.1k | DevTools |
-| 7 | [btcpayserver/btcpayserver](./crypto/btcpayserver-btcpayserver.md) | ⭐ 7.5k | Crypto |
-| 8 | [BasedHardware/omi](./aiml/basedhardware-omi.md) | ⭐ 12.2k | AI/ML |
-| 9 | [jeecgboot/JeecgBoot](./orchestration/jeecgboot-jeecgboot.md) | ⭐ 46k | Orchestration |
-| 10 | [winsiderss/systeminformer](./security/winsiderss-systeminformer.md) | ⭐ 14.1k | Security |
+| 1 | [yusufkaraaslan/Skill_Seekers](./aiml/yusufkaraaslan-skill-seekers.md) | ⭐ 13.1k | AI/ML |
+| 2 | [wshobson/agents](./orchestration/wshobson-agents.md) | ⭐ 34.4k | Orchestration |
+| 3 | [sharkdp/fd](./devtools/sharkdp-fd.md) | ⭐ 42.7k | DevTools |
+| 4 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 118.2k | AI/ML |
+| 5 | [micro-editor/micro](./frontend/micro-editor-micro.md) | ⭐ 28.5k | Frontend |
+| 6 | [iced-rs/iced](./orchestration/iced-rs-iced.md) | ⭐ 30.3k | Orchestration |
+| 7 | [zeromicro/go-zero](./aiml/zeromicro-go-zero.md) | ⭐ 33k | AI/ML |
+| 8 | [rapidsai/cudf](./aiml/rapidsai-cudf.md) | ⭐ 9.6k | AI/ML |
+| 9 | [datahub-project/datahub](./aiml/datahub-project-datahub.md) | ⭐ 11.8k | AI/ML |
+| 10 | [Yeachan-Heo/oh-my-claudecode](./orchestration/yeachan-heo-oh-my-claudecode.md) | ⭐ 31.4k | Orchestration |
 
 ## 🚀 How it works
 

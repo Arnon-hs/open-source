@@ -25,7 +25,7 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-This open-source project, "ios.cfw.guide", provides a comprehensive guide to iOS modding, covering the process of transforming a stock iOS device into a fully customized jailbroken device. The guide offers step-by-step instructions and expert advice for users to unlock their device's full potential. With its focus on mobile and frontend development, this resource is ideal for those interested in exploring the world of iOS modding.
+This open-source project, cfw-guide/ios.cfw.guide, provides a comprehensive guide for iOS modding, covering the journey from a stock device to a fully jailbroken device. The guide offers detailed instructions and resources for users to customize and personalize their iOS experience. With its accessible and user-friendly format, this guide is ideal for both beginners and experienced users looking to unlock their iPhone's full potential.
 
 ---
 

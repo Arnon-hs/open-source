@@ -1,6 +1,6 @@
 # elyra-ai/elyra
 
-[![Stars](https://img.shields.io/github/stars/elyra-ai/elyra?style=flat-square&color=yellow)](https://github.com/elyra-ai/elyra/stargazers) [![Forks](https://img.shields.io/github/forks/elyra-ai/elyra?style=flat-square&color=blue)](https://github.com/elyra-ai/elyra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elyra-ai/elyra?style=flat-square&color=yellow)](https://github.com/elyra-ai/elyra/stargazers) [![Forks](https://img.shields.io/github/forks/elyra-ai/elyra?style=flat-square&color=blue)](https://github.com/elyra-ai/elyra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Elyra extends JupyterLab with an AI centric approach.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 367 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

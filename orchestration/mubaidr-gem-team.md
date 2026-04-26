@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/mubaidr/gem-team?style=flat-square&color=yellow)](https://github.com/mubaidr/gem-team/stargazers) [![Forks](https://img.shields.io/github/forks/mubaidr/gem-team?style=flat-square&color=blue)](https://github.com/mubaidr/gem-team/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Multi-agent orchestration framework for spec-driven development and automated verification.
+> Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.
 
 ## 📊 Stats
 

@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Pokete is an open-source, terminal-based game inspired by classic Pokémon adventures. Players can explore a virtual world, catch and train creatures, and engage in battles, all within the confines of their terminal interface. This project showcases a unique blend of interactive storytelling and command-line gaming.
+Pokete is a terminal-based Pokémon-like game, developed as an open-source project. It brings the classic Pokémon experience to the command line, offering an engaging and interactive way to play without the need for a graphical interface. This project serves as a demonstration of game development capabilities using terminal-based tools.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-RustAudio/cpal is an open-source, cross-platform audio input/output library written entirely in Rust, providing a simple and efficient way to interact with audio devices. It allows developers to read and write audio data in a platform-agnostic manner, making it a versatile tool for various audio-related projects. With cpal, developers can create high-quality audio applications that run seamlessly across different operating systems.
+The RustAudio/cpal project is an open-source library that provides a cross-platform audio I/O solution in pure Rust, designed to handle various audio input and output operations efficiently. This library aims to offer a versatile and reliable means of working with audio data across different platforms, including desktop and mobile environments. By leveraging Rust's capabilities, cpal enables developers to create robust and high-performance audio applications with ease.
 
 ---
 

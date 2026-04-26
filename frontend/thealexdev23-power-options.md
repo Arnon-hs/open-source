@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-TheAlexDev23/power-options is an open-source, feature-rich Linux GUI power management solution that provides users with a comprehensive set of tools to manage their system's power consumption. This project offers a user-friendly interface for configuring and customizing power management settings, making it an ideal choice for those seeking a seamless and intuitive power management experience on Linux. By leveraging this solution, users can optimize their system's performance and prolong its lifespan.
+TheAlexDev23/power-options is an open-source Linux GUI power management solution that offers comprehensive features, making it a robust and reliable choice for users seeking fine-grained control over their system's power settings. This frontend-driven project provides an intuitive interface for managing power-related preferences, ensuring seamless optimization of system performance and energy efficiency. By leveraging its feature-rich functionality, users can customize their power management settings to suit their specific needs.
 
 ---
 

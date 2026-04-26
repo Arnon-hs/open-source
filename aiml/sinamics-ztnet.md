@@ -1,6 +1,6 @@
 # sinamics/ztnet
 
-[![Stars](https://img.shields.io/github/stars/sinamics/ztnet?style=flat-square&color=yellow)](https://github.com/sinamics/ztnet/stargazers) [![Forks](https://img.shields.io/github/forks/sinamics/ztnet?style=flat-square&color=blue)](https://github.com/sinamics/ztnet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sinamics/ztnet?style=flat-square&color=yellow)](https://github.com/sinamics/ztnet/stargazers) [![Forks](https://img.shields.io/github/forks/sinamics/ztnet?style=flat-square&color=blue)](https://github.com/sinamics/ztnet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 100 |
+| 🍴 **Forks** | 101 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

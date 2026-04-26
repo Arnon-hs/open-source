@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the open-source project "stippi/code-assistant":
 
-"stippi/code-assistant is an open-source, AI-driven coding assistant that utilizes Large Language Models to provide autonomous support for developers. The tool offers three operating modes: Code Assistant, Multi-Code Project (MCP), and Advanced Code Project (ACP), catering to diverse coding needs. This backend project is designed to streamline the coding experience and enhance productivity for developers."
+The stippi/code-assistant is an open-source coding assistant powered by Large Language Models (LLMs), enabling users to receive autonomous assistance with coding tasks. It also supports two additional modes: MCP (Multi-Code-Project) and ACP (Auto-Code-Project), allowing for more advanced and efficient coding experiences. This project combines AI and backend technologies to streamline the coding process.
 
 ---
 

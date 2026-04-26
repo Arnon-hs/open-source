@@ -25,7 +25,9 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The Maciejonos/qbitwebui project is an open-source, modern web interface for managing qBittorrent instances. It offers a range of features, including cross-seeding capabilities, and provides a mobile-friendly user experience through a Progressive Web App (PWA) design. This project streamlines qBittorrent management, making it easier to monitor and control torrent downloads.
+Here's a brief summary:
+
+qbitwebui is an open-source web interface for managing qBittorrent instances, providing a modern and user-friendly experience. It features a mobile-responsive design with progressive web app (PWA) support, making it accessible on-the-go. Additionally, qbitwebui offers advanced tools such as cross-seeding for efficient torrent management.
 
 ---
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Athena-Flow CLI is an open-source, agentic workflow runtime that enables developers to simplify and automate complex processes. This project provides a powerful tool for orchestrating tasks, workflows, and AI/ML pipelines, making it an ideal choice for those looking to streamline their operations and improve efficiency. With its flexible and extensible design, Athena-Flow CLI empowers users to build custom workflows and integrate with various tools and systems.
+Athena Flow CLI is an open-source, agentic workflow runtime that streamlines complex processes by providing a robust and flexible environment for automation and orchestration. This project enables developers and data scientists to easily manage and scale their workflows, making it ideal for AI/ML pipelines and other data-intensive applications. By leveraging Athena Flow CLI, users can focus on building and refining their workflows rather than worrying about the underlying infrastructure.
 
 ---
 

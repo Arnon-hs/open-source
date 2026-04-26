@@ -1,6 +1,6 @@
 # kubernetes-sigs/aws-efs-csi-driver
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/aws-efs-csi-driver?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/aws-efs-csi-driver/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/aws-efs-csi-driver?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/aws-efs-csi-driver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/aws-efs-csi-driver?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/aws-efs-csi-driver/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/aws-efs-csi-driver?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/aws-efs-csi-driver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > CSI Driver for Amazon EFS https://aws.amazon.com/efs/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 793 |
 | 🍴 **Forks** | 601 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

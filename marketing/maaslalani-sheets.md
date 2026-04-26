@@ -25,7 +25,9 @@ Marketing
 
 ## 📝 Summary
 
-Sheets is an open-source, terminal-based spreadsheet tool designed to provide users with a simple and efficient way to manage and manipulate tabular data. This project offers a unique alternative to traditional graphical spreadsheet software, allowing users to work with spreadsheets directly in their terminal. With Sheets, users can create, edit, and analyze spreadsheets using a command-line interface.
+Here's a brief summary for the 'sheets' project:
+
+Sheets is an open-source, terminal-based spreadsheet tool designed for users who need a simple and efficient way to manage and analyze data. This project offers a command-line interface for creating, editing, and manipulating spreadsheets, making it ideal for developers, marketers, and analysts who prefer working in the terminal. With Sheets, users can easily import, export, and calculate data, streamlining their workflow and improving productivity.
 
 ---
 

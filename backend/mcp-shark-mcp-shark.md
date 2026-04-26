@@ -25,7 +25,9 @@ Backend · Security
 
 ## 📝 Summary
 
-mcp-shark is an open-source tool that provides forensic analysis capabilities for Model Context Protocol (MCP) communications, offering a Wireshark-like experience for inspecting and investigating HTTP requests and responses between development environments and MCP servers. This tool enables developers to capture, analyze, and troubleshoot MCP interactions for improved security and efficiency in backend development.
+Here's a brief summary for the mcp-shark/mcp-shark project:
+
+mcp-shark is an open-source tool for forensic analysis of Model Context Protocol (MCP) communications, allowing developers to capture and investigate HTTP requests and responses between their IDE and MCP servers. This tool provides a Wireshark-like interface for inspecting and analyzing MCP traffic, enabling more efficient and secure development processes. By using mcp-shark, developers can gain valuable insights into their MCP communications and improve their overall security posture.
 
 ---
 

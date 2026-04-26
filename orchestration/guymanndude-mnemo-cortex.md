@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the mnemo-cortex project:
+Here's a brief summary for the mnemo-cortex open-source project:
 
-The mnemo-cortex is an open-source memory coprocessor designed to enhance the capabilities of AI agents. This innovative project enables persistent recall, semantic search, and crash-safe capture of information without the need for any hooks. By leveraging its unique features, AI agents can efficiently store, retrieve, and utilize knowledge, leading to improved performance and reliability.
+The mnemo-cortex is an open-source memory coprocessor designed for AI agents, providing persistent recall, semantic search, and crash-safe capture capabilities without requiring any hooks. This innovative solution enables AI systems to efficiently store, retrieve, and manage memories in a robust and reliable manner. By leveraging mnemo-cortex, developers can build more intelligent and resilient AI agents that can learn and adapt effectively.
 
 ---
 

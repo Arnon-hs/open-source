@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Cluster Monitoring Operator is an open-source project that manages the OpenShift monitoring stack, providing a scalable and highly available solution for monitoring and logging clusters. It automates the deployment and configuration of monitoring components, including Prometheus, Grafana, and Alertmanager, to offer a comprehensive view of cluster performance and resource utilization. By leveraging this operator, users can easily monitor and troubleshoot their OpenShift clusters.
+The cluster-monitoring-operator is an open-source project that manages the OpenShift monitoring stack. It enables users to monitor and troubleshoot their OpenShift clusters, providing insights into system performance, resource utilization, and other key metrics. By automating the deployment and management of monitoring tools, this project simplifies the process of cluster monitoring and maintenance.
 
 ---
 

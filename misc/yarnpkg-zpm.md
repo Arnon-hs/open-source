@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Yarnpkg/zpm is an open-source project that serves as the future development trunk for Yarn, a popular package manager for JavaScript. This project showcases the ongoing development and innovation of Yarn, enabling the community to stay up-to-date with the latest features and improvements. As the development hub for Yarn, zpm provides a platform for testing and refining new ideas before they are released to the public.
+The yarnpkg/zpm project is the future development trunk for Yarn, a popular package manager for JavaScript developers. This open-source repository serves as a central hub for ongoing development and innovation in Yarn, driving advancements in package management and dependency resolution. By contributing to zpm, developers can help shape the future of Yarn and improve the overall developer experience.
 
 ---
 

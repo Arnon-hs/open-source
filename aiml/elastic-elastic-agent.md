@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The Elastic Agent is an open-source project that provides a single, unified way to add monitoring for various types of data, including logs, metrics, and more, to a host. This lightweight agent simplifies data collection and enables users to easily monitor and manage their system's performance and health. By providing a centralized platform, the Elastic Agent streamlines data ingestion and analysis.
+The Elastic Agent is an open-source tool that provides a unified way to collect and monitor various types of data from a single host. It enables users to gather logs, metrics, and other data sources in one place, facilitating streamlined monitoring and analysis. This agent is designed to be extensible and adaptable to different environments and data sources.
 
 ---
 

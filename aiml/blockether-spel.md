@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Blockether/spel project:
+Here's a brief summary for the Blockether/spel project:
 
-Blockether/spel is an open-source, idiomatic Clojure wrapper for Playwright, enabling browser automation, API testing, and Allure reporting. This comprehensive tool supports native CLI integration with Chromium, Firefox, and WebKit, making it a versatile solution for developers. With spel, users can streamline their testing workflows and leverage the power of Clojure for efficient automation.
+Blockether/spel is an open-source, idiomatic Clojure wrapper for Playwright, enabling seamless browser automation, API testing, and Allure reporting. This project provides a native CLI for Chromium, Firefox, and WebKit, making it a powerful tool for web developers and engineers. With spel, users can write efficient and scalable code for web applications using the familiar Clojure programming language.
 
 ---
 

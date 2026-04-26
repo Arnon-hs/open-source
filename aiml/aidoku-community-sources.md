@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Aidoku-Community/sources is an open-source project that provides community-maintained sources for the Aidoku e-book reader application. This repository offers a collaborative effort to enhance and improve the functionality of Aidoku, leveraging advancements in AI and Machine Learning (ML) technologies. By contributing to this project, users can help shape the future of e-book reading experiences.
+The Aidoku-Community/sources project is an open-source repository of community-maintained sources for the Aidoku e-book reader. This collaborative effort aims to provide users with alternative options and updates for the Aidoku application, leveraging the power of artificial intelligence and machine learning. By contributing to this project, developers can enhance the functionality and user experience of Aidoku.
 
 ---
 

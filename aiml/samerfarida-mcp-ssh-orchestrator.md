@@ -25,9 +25,9 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the project:
 
-The MCP-SSH-Orchestrator provides a secure and controlled way to manage SSH access for AI agents, allowing for policy-enforced execution of commands across a server fleet while maintaining comprehensive audit logging. This project enables robust network controls and centralized management, making it a valuable tool for DevOps and infrastructure teams. By leveraging MCP, users can ensure secure and compliant AI operations.
+The MCP-SSH-Orchestrator is an open-source tool that enables secure and centralized SSH access for AI agents. This project provides a robust solution for executing commands across a server fleet while enforcing policies, controlling network access, and maintaining comprehensive audit logs. By leveraging MCP, users can ensure secure and scalable management of their AI infrastructure.
 
 ---
 

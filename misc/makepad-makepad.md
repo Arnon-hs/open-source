@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Makepad is an open-source creative software development platform for Rust that enables developers to create applications for various platforms, including web, desktop, and mobile devices. It provides a unique feature of compiling Rust code to different backends such as wasm/webGL, osx/metal, windows/dx11, and linux/opengl. This versatility makes Makepad an ideal choice for developers looking to create cross-platform applications with high-performance graphics capabilities.
+Makepad is an open-source creative software development platform for Rust that allows developers to compile their projects to various platforms, including web-based applications with wasm/webGL, as well as desktop applications for macOS (osx/metal), Windows (windows/dx11), and Linux (linux/opengl). This platform empowers creators to build cross-platform, high-performance applications with ease. By leveraging Rust's safety features and the flexibility of its compilation targets, Makepad enables developers to focus on building innovative experiences without the constraints of platform-specific development.
 
 ---
 

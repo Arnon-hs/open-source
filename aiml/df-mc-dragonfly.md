@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 790 |
-| 🍴 **Forks** | 176 |
+| 🍴 **Forks** | 177 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the df-mc/dragonfly project:
-
-Dragonfly is an open-source, Go-based Minecraft Bedrock Edition server software designed to provide a reliable and efficient backend solution for Minecraft servers. Built with Go, it aims to offer a high-performance and scalable platform for hosting Minecraft servers, making it an attractive choice for developers and server administrators. With its open-source nature, Dragonfly invites community contributions and participation to further enhance its features and capabilities.
+The Dragonfly project is an open-source, Minecraft Bedrock Edition server software built with the Go programming language. This backend-focused implementation provides a flexible and scalable solution for hosting Minecraft servers, catering to the needs of developers and server administrators. By leveraging Go, Dragonfly aims to offer high performance and reliability for large-scale Minecraft servers.
 
 ---
 
