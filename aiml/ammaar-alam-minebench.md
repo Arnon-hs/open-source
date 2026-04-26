@@ -27,7 +27,7 @@ AI/ML
 
 Here's a brief summary for the open-source project:
 
-Minebench is an open-source, Minecraft-style voxel benchmark designed to compare the performance of AI models in two challenging environments: Arena and Sandbox. By leveraging this voxel benchmark, researchers and developers can evaluate the capabilities of their AI models in a controlled, real-world setting. This enables the development of more efficient and effective AI systems for various applications.
+Minebench is a Minecraft-style voxel benchmark designed for comparing AI models in both Arena and Sandbox environments. This open-source project provides a realistic evaluation framework for AI models, allowing researchers to assess their performance in complex, real-world scenarios. By leveraging a voxel-based game engine, Minebench enables the development of more robust and efficient AI models for various applications.
 
 ---
 

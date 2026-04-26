@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/getkin/kin-openapi?style=flat-square&color=yellow)](https://github.com/getkin/kin-openapi/stargazers) [![Forks](https://img.shields.io/github/forks/getkin/kin-openapi?style=flat-square&color=blue)](https://github.com/getkin/kin-openapi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
-> OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
+> OpenAPI 3.0 and 3.1 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 
 ## 📊 Stats
 

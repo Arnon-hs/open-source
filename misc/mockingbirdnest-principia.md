@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Principia is an open-source project that extends the functionality of Kerbal Space Program by providing a more accurate simulation of gravitational interactions. This includes support for both 𝑛-body and extended body gravitation, allowing players to model complex spaceflight scenarios with greater realism. By incorporating these advanced gravitational mechanics, Principia enhances the overall simulation experience and provides a more immersive and challenging gameplay environment.
+The Principia project is an open-source, 𝑛-Body and Extended Body Gravitation plugin for Kerbal Space Program, providing a more realistic and complex gravitational system. This plugin simulates the gravitational interactions of multiple celestial bodies, allowing for more accurate and immersive space exploration experiences. By extending the game's core physics, Principia offers a more realistic representation of space travel and celestial mechanics.
 
 ---
 

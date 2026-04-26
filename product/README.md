@@ -2,16 +2,16 @@
 
 > Product-focused apps
 
-**20 projects** in this category.
+**21 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
-| 2 | [opf/openproject](./opf-openproject.md) | ⭐ 14.9k | Ruby | 100/100 |
-| 3 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.4k | Clojure | 100/100 |
-| 4 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.1k | C# | 100/100 |
+| 1 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.4k | Clojure | 100/100 |
+| 2 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.1k | C# | 100/100 |
+| 3 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
+| 4 | [opf/openproject](./opf-openproject.md) | ⭐ 14.9k | Ruby | 100/100 |
 | 5 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122k | TypeScript | 99/100 |
 | 6 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.8k | C++ | 96/100 |
 | 7 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9k | Python | 92/100 |
@@ -22,12 +22,13 @@
 | 12 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 71/100 |
 | 13 | [git-town/git-town](./git-town-git-town.md) | ⭐ 3.2k | Gherkin | 71/100 |
 | 14 | [beam-community/elixir-companies](./beam-community-elixir-companies.md) | ⭐ 1.7k | Astro | 67/100 |
-| 15 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 59/100 |
-| 16 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 589 | Rust | 55/100 |
+| 15 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 589 | Rust | 55/100 |
+| 16 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 55/100 |
 | 17 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | JavaScript | 53/100 |
-| 18 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 655 | Shell | 52/100 |
-| 19 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 52/100 |
+| 18 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 52/100 |
+| 19 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 655 | Shell | 52/100 |
 | 20 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 51/100 |
+| 21 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 314 | Rust | 42/100 |
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Rust Playground is an open-source project that allows developers to write, run, and share Rust code in a web-based environment. This platform provides a convenient and accessible way to experiment with Rust programming and share code snippets with others. With the Rust Playground, users can instantly test and demonstrate Rust concepts without requiring a local Rust setup.
+The Rust Playground is an open-source project providing an online environment for Rust developers to write, execute, and share code snippets. This platform allows users to quickly test and experiment with Rust programming without setting up a local development environment. It serves as a valuable resource for learning and sharing Rust code examples.
 
 ---
 

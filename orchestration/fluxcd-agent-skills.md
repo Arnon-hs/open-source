@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The fluxcd/agent-skills project is an open-source initiative that empowers AI agents to function as GitOps engineers. By providing a set of transformable skills, this project enables AI agents to automate and orchestrate infrastructure and application deployments using GitOps principles. This innovative approach brings together AI/ML capabilities and GitOps methodologies for streamlined and efficient DevOps practices.
+The agent-skills project, developed by FluxCD, enables the transformation of AI agents into GitOps engineers, allowing for the automation of infrastructure configuration and deployment through a GitOps approach. This open-source solution combines AI capabilities with orchestration expertise to streamline the development and delivery of software systems. By leveraging AI agents, users can simplify complex infrastructure management tasks and improve overall operational efficiency.
 
 ---
 

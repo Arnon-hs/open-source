@@ -1,8 +1,8 @@
 # 8Network/8v
 
-[![Stars](https://img.shields.io/github/stars/8Network/8v?style=flat-square&color=yellow)](https://github.com/8Network/8v/stargazers) [![Forks](https://img.shields.io/github/forks/8Network/8v?style=flat-square&color=blue)](https://github.com/8Network/8v/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/8Network/8v?style=flat-square&color=yellow)](https://github.com/8Network/8v/stargazers) [![Forks](https://img.shields.io/github/forks/8Network/8v?style=flat-square&color=blue)](https://github.com/8Network/8v/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> 8v is one binary that reads, writes, searches, checks, builds, tests, and formats code, using fewer input and output tokens than the agent's native tools.
 
 ## 📊 Stats
 
@@ -10,8 +10,8 @@
 |---|---|
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,11 +21,13 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-8v is an open-source project that provides a unified command-line interface (CLI) for interacting with AI agents, aiming to streamline communication and reduce token usage by up to 66%. This tool offers a single point of access to various AI capabilities, making it easier to integrate AI into development workflows. By simplifying interactions with AI agents, 8v aims to increase productivity and efficiency.
+Here's a brief summary for the open-source project "8v":
+
+8v is an open-source command-line interface (CLI) designed to streamline interactions between users and their AI agents. By optimizing token usage, 8v claims to reduce tokens by up to 66% compared to traditional interfaces. This innovative tool aims to enhance collaboration between humans and AI systems through efficient and user-friendly communication.
 
 ---
 

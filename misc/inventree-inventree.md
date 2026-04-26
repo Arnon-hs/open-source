@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-InvenTree is a free and open-source inventory management system designed to streamline tracking and organization of physical assets, components, and stock levels. This comprehensive system offers a range of features, including automated stock updates, customizable reporting, and multi-user access control. With InvenTree, users can efficiently manage their inventory and make informed decisions.
+InvenTree is an open-source inventory management system designed to help organizations track and manage their stock levels, assets, and supplies. This user-friendly platform offers a wide range of features to streamline inventory operations, including data visualization, reporting, and real-time updates. By leveraging InvenTree, businesses can improve inventory accuracy, reduce stockouts, and optimize their supply chain efficiency.
 
 ---
 

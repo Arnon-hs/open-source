@@ -1,6 +1,6 @@
 # mollie/laravel-cashier-mollie
 
-[![Stars](https://img.shields.io/github/stars/mollie/laravel-cashier-mollie?style=flat-square&color=yellow)](https://github.com/mollie/laravel-cashier-mollie/stargazers) [![Forks](https://img.shields.io/github/forks/mollie/laravel-cashier-mollie?style=flat-square&color=blue)](https://github.com/mollie/laravel-cashier-mollie/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mollie/laravel-cashier-mollie?style=flat-square&color=yellow)](https://github.com/mollie/laravel-cashier-mollie/stargazers) [![Forks](https://img.shields.io/github/forks/mollie/laravel-cashier-mollie?style=flat-square&color=blue)](https://github.com/mollie/laravel-cashier-mollie/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Official Mollie integration for Laravel Cashier
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

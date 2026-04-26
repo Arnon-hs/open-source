@@ -27,7 +27,7 @@ AI/ML · Backend
 
 Here's a brief summary for the arabold/docs-mcp-server project:
 
-Grounded Docs MCP Server is an open-source, alternative solution to popular documentation platforms like Context7, Nia, and Ref.Tools. This project offers a comprehensive backend solution for managing and serving documentation, providing a customizable and scalable option for developers. By leveraging arabold/docs-mcp-server, users can host their documentation securely and efficiently.
+Arabold/docs-mcp-server is an open-source, alternative documentation platform inspired by Context7, Nia, and Ref.Tools. This project provides a robust, customizable, and user-friendly solution for managing and sharing documentation, driven by AI and machine learning technologies. By leveraging an open-source approach, developers can extend and modify the platform to meet their specific needs.
 
 ---
 

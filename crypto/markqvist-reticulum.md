@@ -25,7 +25,7 @@ Crypto · Frontend
 
 ## 📝 Summary
 
-Reticulum is an open-source cryptography-based networking stack that enables the creation of secure and resilient networks using various wireless technologies such as LoRa, Packet Radio, and WiFi. This project provides a robust foundation for building unstoppable networks that can withstand various threats and disruptions. By leveraging cryptography, Reticulum aims to provide a secure and reliable communication framework for a wide range of applications.
+Reticulum is an open-source, cryptography-based networking stack designed to build robust and secure networks using a variety of protocols, including LoRa, Packet Radio, and WiFi. This project enables the creation of unstoppable networks that prioritize security and resilience in the face of potential disruptions or attacks. By leveraging cryptography, Reticulum provides a foundation for reliable and protected communication in a range of applications.
 
 ---
 

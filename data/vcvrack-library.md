@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-VCVRack/library is an open-source database for the VCV Library, a collection of user-created modules and plugins for VCV Rack, a visual voltage modular synthesizer. This database stores and manages metadata for the library, allowing users to easily discover and access the wide range of available modules. It's a crucial component for the VCV Library, enabling users to browse and install modules with ease.
+VCVRack/library is an open-source database designed to store and manage the VCV Library, a collection of plugins for the VCV Rack software. This database provides a centralized repository for library metadata, ensuring easy access and maintenance of the library's vast array of modules. By fostering collaboration and organization, the VCVRack/library project facilitates a seamless user experience within the VCV ecosystem.
 
 ---
 

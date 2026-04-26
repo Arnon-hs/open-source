@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The exercism/go project is an open-source initiative that offers exercises in the Go programming language, allowing users to hone their skills and learn from others. Through this platform, individuals can participate in coding challenges, receive feedback from the community, and improve their proficiency in Go. This project is an excellent resource for programmers seeking to enhance their expertise in Go and related technologies.
+The exercism/go project is an open-source initiative that provides a platform for learning and improving Go programming skills through practical exercises. It offers a collection of coding challenges and tasks designed to help developers hone their abilities in the Go programming language. By working through these exercises, developers can gain hands-on experience and build their portfolio of skills in AI and machine learning.
 
 ---
 

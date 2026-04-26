@@ -1,6 +1,6 @@
 # dynamoose/dynamoose
 
-[![Stars](https://img.shields.io/github/stars/dynamoose/dynamoose?style=flat-square&color=yellow)](https://github.com/dynamoose/dynamoose/stargazers) [![Forks](https://img.shields.io/github/forks/dynamoose/dynamoose?style=flat-square&color=blue)](https://github.com/dynamoose/dynamoose/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dynamoose/dynamoose?style=flat-square&color=yellow)](https://github.com/dynamoose/dynamoose/stargazers) [![Forks](https://img.shields.io/github/forks/dynamoose/dynamoose?style=flat-square&color=blue)](https://github.com/dynamoose/dynamoose/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Dynamoose is a modeling tool for Amazon's DynamoDB
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 366 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

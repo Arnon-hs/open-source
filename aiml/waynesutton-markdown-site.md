@@ -1,0 +1,32 @@
+# waynesutton/markdown-site
+
+[![Stars](https://img.shields.io/github/stars/waynesutton/markdown-site?style=flat-square&color=yellow)](https://github.com/waynesutton/markdown-site/stargazers) [![Forks](https://img.shields.io/github/forks/waynesutton/markdown-site?style=flat-square&color=blue)](https://github.com/waynesutton/markdown-site/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+
+> An open-source publishing framework built for AI agents and developers to ship websites, docs, or blogs. Write markdown, sync from the terminal. Your content is instantly available to browsers, LLMs, and AI agents. Built on Convex and Netlify.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 609 |
+| 🍴 **Forks** | 88 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI/ML · Frontend · DevTools
+
+## 📝 Summary
+
+The waynesutton/markdown-site project is an open-source publishing framework that enables developers and AI agents to effortlessly create and deploy websites, documentation, and blogs using markdown files. This convenient tool syncs content from the terminal, making it instantly accessible to browsers, large language models, and AI agents. Built on Convex and Netlify, it simplifies the process of publishing content online.
+
+---
+
+<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/waynesutton/markdown-site) · [← Back to AI/ML](./README.md)</sub>

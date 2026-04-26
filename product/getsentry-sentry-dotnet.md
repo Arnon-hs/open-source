@@ -1,6 +1,6 @@
 # getsentry/sentry-dotnet
 
-[![Stars](https://img.shields.io/github/stars/getsentry/sentry-dotnet?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-dotnet?style=flat-square&color=blue)](https://github.com/getsentry/sentry-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getsentry/sentry-dotnet?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-dotnet?style=flat-square&color=blue)](https://github.com/getsentry/sentry-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Sentry SDK for .NET
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 752 |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

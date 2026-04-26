@@ -1,6 +1,6 @@
 # RedPlanetHQ/core
 
-[![Stars](https://img.shields.io/github/stars/RedPlanetHQ/core?style=flat-square&color=yellow)](https://github.com/RedPlanetHQ/core/stargazers) [![Forks](https://img.shields.io/github/forks/RedPlanetHQ/core?style=flat-square&color=blue)](https://github.com/RedPlanetHQ/core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RedPlanetHQ/core?style=flat-square&color=yellow)](https://github.com/RedPlanetHQ/core/stargazers) [![Forks](https://img.shields.io/github/forks/RedPlanetHQ/core?style=flat-square&color=blue)](https://github.com/RedPlanetHQ/core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI butler that get things done
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 138 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

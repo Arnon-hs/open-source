@@ -25,9 +25,7 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the Gustav Navar Grid.Blazor project:
-
-Grid.Blazor is an open-source project that provides a robust grid component for Blazor applications, supporting both client-side and server-side rendering. This versatile grid component includes CRUD (Create, Read, Update, Delete) functionality, making it an ideal solution for managing data in ASP.NET Core MVC applications. By utilizing Grid.Blazor, developers can efficiently build data-driven interfaces with ease.
+The gustavnavar/Grid.Blazor project is an open-source, feature-rich grid component designed for Blazor applications. It supports both client-side and server-side rendering and integrates seamlessly with ASP.NET Core MVC, offering robust CRUD capabilities. This grid component empowers developers to build dynamic, data-driven interfaces with ease.
 
 ---
 

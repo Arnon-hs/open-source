@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Replikativ/datahike is an open-source Datalog engine that provides a fast, distributed, and versioned data management system. Designed for universal accessibility, this engine enables efficient data storage and querying capabilities. It is suitable for various applications that require scalable and concurrent data processing.
+Replikativ/datahike is an open-source, distributed Datalog engine that enables fast and versioned data storage. It is designed to meet the needs of data-driven applications, providing a scalable and reliable solution for data management. With its Datalog engine, datahike simplifies data querying and manipulation, making it accessible to developers and users alike.
 
 ---
 

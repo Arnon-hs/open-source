@@ -1,6 +1,6 @@
 # typetools/checker-framework
 
-[![Stars](https://img.shields.io/github/stars/typetools/checker-framework?style=flat-square&color=yellow)](https://github.com/typetools/checker-framework/stargazers) [![Forks](https://img.shields.io/github/forks/typetools/checker-framework?style=flat-square&color=blue)](https://github.com/typetools/checker-framework/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typetools/checker-framework?style=flat-square&color=yellow)](https://github.com/typetools/checker-framework/stargazers) [![Forks](https://img.shields.io/github/forks/typetools/checker-framework?style=flat-square&color=blue)](https://github.com/typetools/checker-framework/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Pluggable type-checking for Java
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 437 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

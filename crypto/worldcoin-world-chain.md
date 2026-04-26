@@ -25,7 +25,7 @@ Crypto · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-World Chain is an open-source monorepo project that combines innovative technologies from the crypto and AI/ML spaces, with a focus on infrastructure and DevOps. This project aims to push the boundaries of what is possible at the intersection of blockchain, artificial intelligence, and distributed systems. By providing an open and collaborative platform, World Chain seeks to accelerate the development of next-generation applications and solutions.
+World Chain is an open-source monorepo project that integrates cutting-edge technologies in crypto, AI/ML, and DevOps/Infra to revolutionize the way blockchain systems operate. This project aims to provide a scalable and secure foundation for World Coin, a cryptocurrency that leverages AI and machine learning to enhance its functionality and usability. By contributing to World Chain, developers can collaborate on a groundbreaking project that pushes the boundaries of blockchain innovation.
 
 ---
 

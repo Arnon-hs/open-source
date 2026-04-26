@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The MCP-linear project is an open-source initiative that enables seamless interaction between AI assistants and the Linear project management system. This project facilitates natural language processing, allowing users to retrieve, create, and update issues, projects, and teams with ease. By integrating AI technology, MCP-linear streamlines project management and collaboration within teams.
+Here's a brief summary for the open-source project "tacticlaunch/mcp-linear":
+
+The MCP-linear project provides a server that enables seamless interaction between AI assistants and the Linear project management system, allowing users to manage projects, issues, and teams through natural language commands. This integration empowers users to effortlessly retrieve, create, and update project data using voice or text-based queries. By bridging the gap between AI and project management, MCP-linear streamlines workflow and enhances productivity.
 
 ---
 

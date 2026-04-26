@@ -25,7 +25,7 @@ Frontend · Data · Product
 
 ## 📝 Summary
 
-Killedbygoogle is an open-source project that serves as a memorial to Google's discontinued projects, acting as a digital graveyard for the company's abandoned apps, services, and hardware. It functions similarly to a guillotine, where users can learn about and explore the fates of these cancelled ventures. This initiative provides a unique historical snapshot of Google's product landscape over time.
+The killedbygoogle project is an open-source initiative that serves as a memorial for Google's discontinued products. It combines a graveyard with a visual representation of the guillotine, symbolizing the demise of these abandoned apps, services, and hardware. This project provides a unique tribute to the fleeting nature of tech innovations.
 
 ---
 
