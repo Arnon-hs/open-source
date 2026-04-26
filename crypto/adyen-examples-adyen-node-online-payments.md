@@ -1,6 +1,6 @@
 # adyen-examples/adyen-node-online-payments
 
-[![Stars](https://img.shields.io/github/stars/adyen-examples/adyen-node-online-payments?style=flat-square&color=yellow)](https://github.com/adyen-examples/adyen-node-online-payments/stargazers) [![Forks](https://img.shields.io/github/forks/adyen-examples/adyen-node-online-payments?style=flat-square&color=blue)](https://github.com/adyen-examples/adyen-node-online-payments/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adyen-examples/adyen-node-online-payments?style=flat-square&color=yellow)](https://github.com/adyen-examples/adyen-node-online-payments/stargazers) [![Forks](https://img.shields.io/github/forks/adyen-examples/adyen-node-online-payments?style=flat-square&color=blue)](https://github.com/adyen-examples/adyen-node-online-payments/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Accept payments on your Node.js/Express-based website with cards, wallets, and key local payment methods
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

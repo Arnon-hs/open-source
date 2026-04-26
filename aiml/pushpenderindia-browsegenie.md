@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the PushpenderIndia/browsegenie project:
-
-BrowseGenie is an open-source AI agent designed to automate browser tasks and web scraping using a single prompt. With its advanced capabilities, developers can easily automate various browser interactions and extract data from websites without requiring extensive coding knowledge. This project combines the power of AI and browser automation to streamline development workflows and enhance productivity.
+BrowseGenie is an open-source AI agent capable of automating browser tasks and web scraping through a single text prompt. This innovative project leverages AI/ML technology to simplify complex browser automation and web scraping tasks, making them accessible to a wide range of users. With BrowseGenie, users can easily automate repetitive browser tasks and extract valuable data from websites using natural language input.
 
 ---
 

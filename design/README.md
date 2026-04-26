@@ -26,8 +26,8 @@
 | 16 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
 | 17 | [juspay/superposition](./juspay-superposition.md) | ⭐ 412 | Rust | 53/100 |
 | 18 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
-| 19 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
-| 20 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 224 | Go | 52/100 |
+| 19 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 224 | Go | 52/100 |
+| 20 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
 | 21 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 209 | PHP | 52/100 |
 | 22 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 427 | JavaScript | 49/100 |
 | 23 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 457 | Go | 49/100 |

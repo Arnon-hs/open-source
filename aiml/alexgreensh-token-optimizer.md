@@ -1,6 +1,6 @@
 # alexgreensh/token-optimizer
 
-[![Stars](https://img.shields.io/github/stars/alexgreensh/token-optimizer?style=flat-square&color=yellow)](https://github.com/alexgreensh/token-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/alexgreensh/token-optimizer?style=flat-square&color=blue)](https://github.com/alexgreensh/token-optimizer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexgreensh/token-optimizer?style=flat-square&color=yellow)](https://github.com/alexgreensh/token-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/alexgreensh/token-optimizer?style=flat-square&color=blue)](https://github.com/alexgreensh/token-optimizer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 659 |
+| ⭐ **Stars** | 662 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

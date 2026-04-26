@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Scribe.js is an open-source JavaScript library that enables text extraction from images and PDFs using Optical Character Recognition (OCR) technology. This library allows developers to easily integrate OCR functionality into their web applications, making it a valuable tool for various use cases such as document processing and image analysis. With scribe.js, users can automate the extraction of text from visual content.
+Scribe.js is an open-source JavaScript library that enables text extraction and Optical Character Recognition (OCR) from images and PDFs. This tool provides a simple and efficient way to automate the process of extracting text from visual content, making it a valuable asset for web developers and applications. With scribe.js, users can easily incorporate OCR functionality into their projects, streamlining text extraction and enhancing overall user experience.
 
 ---
 

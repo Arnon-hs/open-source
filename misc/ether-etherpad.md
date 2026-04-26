@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Etherpad is a free, open-source, collaborative document editor that enables multiple users to edit and share text in real-time. This web-based application is designed to facilitate seamless communication and collaboration among users, making it ideal for group projects, meetings, and online discussions. With Etherpad, users can create, edit, and save documents simultaneously, promoting a truly collaborative and interactive experience.
+Etherpad is a free, open-source, real-time collaborative document editor that enables users to work together simultaneously on text-based documents. Developed as an open-source project, it allows for seamless collaboration and synchronization across multiple devices in real-time. With its modern design and user-friendly interface, Etherpad offers a convenient solution for group editing and collaborative writing.
 
 ---
 

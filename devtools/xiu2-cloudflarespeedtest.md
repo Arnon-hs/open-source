@@ -27,7 +27,7 @@ DevTools
 
 Here's a brief summary for the open-source project:
 
-The XIU2/CloudflareSpeedTest is an open-source tool that allows users to test the latency and speed of Cloudflare's content delivery network (CDN) and choose the fastest IP for their needs. It also supports testing other CDNs and multiple IP addresses for websites. This project can be helpful for developers and users looking to optimize their online experience.
+The XIU2/CloudflareSpeedTest project is an open-source tool that allows users to test the latency and speed of Cloudflare's Content Delivery Network (CDN) and select the optimal IP for their location. It also supports testing other CDNs and multiple resolver IP addresses. This tool is designed to help users optimize their online experience by identifying the fastest and most reliable IP addresses.
 
 ---
 

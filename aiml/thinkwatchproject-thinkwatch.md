@@ -1,6 +1,6 @@
 # ThinkWatchProject/ThinkWatch
 
-[![Stars](https://img.shields.io/github/stars/ThinkWatchProject/ThinkWatch?style=flat-square&color=yellow)](https://github.com/ThinkWatchProject/ThinkWatch/stargazers) [![Forks](https://img.shields.io/github/forks/ThinkWatchProject/ThinkWatch?style=flat-square&color=blue)](https://github.com/ThinkWatchProject/ThinkWatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThinkWatchProject/ThinkWatch?style=flat-square&color=yellow)](https://github.com/ThinkWatchProject/ThinkWatch/stargazers) [![Forks](https://img.shields.io/github/forks/ThinkWatchProject/ThinkWatch?style=flat-square&color=blue)](https://github.com/ThinkWatchProject/ThinkWatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise AI bastion host for secure AI API and MCP access, with unified proxying, RBAC, audit logs, rate limiting, and cost tracking across OpenAI, Anthropic, Gemini, and self-hosted LLMs.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 478 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 482 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

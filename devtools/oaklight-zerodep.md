@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Oaklight/zerodep?style=flat-square&color=yellow)](https://github.com/Oaklight/zerodep/stargazers) [![Forks](https://img.shields.io/github/forks/Oaklight/zerodep?style=flat-square&color=blue)](https://github.com/Oaklight/zerodep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Zero-dependency, performant, single-file Python implementations of popular libraries | 零依赖高性能单文件 Python 常用库实现
+> Zero-dependency, single-file Python implementations of popular libraries — benchmarked for performance parity | 零依赖单文件 Python 常用库实现，性能对标主流库
 
 ## 📊 Stats
 

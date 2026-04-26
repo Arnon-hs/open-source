@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The oneiromancer project is an open-source reverse engineering assistant that leverages a locally running Large Language Model (LLM) to facilitate pseudocode analysis. By utilizing AI/ML capabilities, oneiromancer aims to aid developers and researchers in understanding complex code structures and behaviors. This tool has the potential to significantly enhance the reverse engineering process, making it more efficient and accessible.
+The oneiromancer project is an open-source reverse engineering assistant that utilizes a locally running Large Language Model (LLM) to facilitate the analysis of pseudocode. This innovative tool provides developers with a powerful aid in understanding complex code structures and identifying potential vulnerabilities. By harnessing the capabilities of LLM technology, oneiromancer streamlines the reverse engineering process, saving time and improving overall efficiency.
 
 ---
 

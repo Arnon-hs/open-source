@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a 2-3 sentence summary for the LessUp/awesome-cursorrules-zh project in English:
 
-LessUp/awesome-cursorrules-zh is an open-source project that provides a curated collection of Cursor AI coding rules optimized for Chinese developers. This project aims to enhance the coding experience for Chinese developers by offering a set of pre-configured rules for Cursor AI. By leveraging AI-powered coding assistance, developers can improve their productivity and efficiency.
+LessUp/awesome-cursorrules-zh is an open-source, AI programming rule collection optimized for Chinese developers. This project provides a curated set of rules to enhance the coding experience for Chinese users who utilize Cursor AI, a popular coding assistant. By offering a tailored solution, it aims to improve productivity and efficiency for developers working with Chinese characters.
 
 ---
 

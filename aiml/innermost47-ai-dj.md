@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The ai-dj project is an open-source VST3 plugin designed for live performance, featuring 8 tracks and 8 AI models. This tool requires users to collaborate with the AI, offering 30 seconds of processing time per loop, and occasionally introduces creative errors or 'hallucinations.' It is intended to augment human creativity, not replace it.
+The "ai-dj" project is an open-source VST3 plugin designed for live performance, allowing users to harness the power of 8 AI models across 8 tracks. This innovative tool is geared towards artists who want to incorporate AI into their creative process, but still maintain control and human intuition. By embracing AI-generated soundscapes, users can unlock new dimensions of musical expression while staying true to their artistic vision.
 
 ---
 

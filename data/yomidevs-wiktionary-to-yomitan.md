@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The yomidevs/wiktionary-to-yomitan project utilizes data from Wiktionary to generate compatible dictionaries for Yomitan, a Ryukyuan language spoken on the Japanese island of Okinawa. By leveraging open-source Wiktionary data, this project aims to provide a valuable resource for learners and speakers of Yomitan. The resulting dictionaries can be used for language education, research, and cultural preservation.
+This open-source project, yomidevs/wiktionary-to-yomitan, leverages Wiktionary data to create dictionaries compatible with Yomitan, a language processing tool. By utilizing Wiktionary's vast repository of words, this project enables the development of comprehensive Yomitan dictionaries. The resulting dictionaries can be used to improve language understanding and processing capabilities within Yomitan applications.
 
 ---
 

@@ -1,6 +1,6 @@
 # akazwz/hostc
 
-[![Stars](https://img.shields.io/github/stars/akazwz/hostc?style=flat-square&color=yellow)](https://github.com/akazwz/hostc/stargazers) [![Forks](https://img.shields.io/github/forks/akazwz/hostc?style=flat-square&color=blue)](https://github.com/akazwz/hostc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akazwz/hostc?style=flat-square&color=yellow)](https://github.com/akazwz/hostc/stargazers) [![Forks](https://img.shields.io/github/forks/akazwz/hostc?style=flat-square&color=blue)](https://github.com/akazwz/hostc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Localhost to the edge. Secure, fast, and zero-config edge tunnels powered by Cloudflare Workers.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 287 |
-| 🍴 **Forks** | 32 |
+| ⭐ **Stars** | 288 |
+| 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

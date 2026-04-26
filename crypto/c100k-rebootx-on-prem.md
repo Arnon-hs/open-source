@@ -25,7 +25,7 @@ Crypto · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-RebootX On-Prem is an open-source specification that enables customization of servers to manage on-premise runnables and dashboards within the RebootX app. This specification empowers users to define and deploy tailored server solutions for their specific needs, enhancing control and flexibility. By providing a customizable framework, RebootX On-Prem facilitates seamless integration with existing infrastructure.
+RebootX On-Prem is an open-source specification for managing custom servers on-premise, enabling users to host runnables and dashboards within the RebootX app. This project provides a framework for defining and deploying custom servers, catering to the needs of users who require control over their on-premise infrastructure. By leveraging RebootX On-Prem, users can enjoy enhanced security, scalability, and flexibility in managing their on-premise applications.
 
 ---
 

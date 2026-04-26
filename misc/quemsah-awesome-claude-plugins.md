@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The awesome-claude-plugins project is an open-source initiative that utilizes n8n workflows to collect and track adoption metrics for Claude Code plugins across various GitHub repositories. This automated collection of metrics aims to provide valuable insights into the usage and popularity of these plugins. By gathering and analyzing this data, developers can gain a better understanding of the ecosystem and make informed decisions about their plugin development and maintenance.
+The awesome-claude-plugins project is an open-source initiative that utilizes n8n workflows to collect and track adoption metrics of Claude Code plugins across GitHub repositories. This automated collection allows for a comprehensive understanding of how widely these plugins are used in the developer community. By providing insights into plugin adoption, the project aims to facilitate collaboration and improvement among Claude Code developers.
 
 ---
 

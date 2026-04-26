@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Anagnorisis project:
-
-Anagnorisis is an open-source, local data-management platform that empowers users to manage their data in a secure and self-contained environment. Built-in to this platform is a trainable recommendation engine, enabling organizations to leverage the power of AI/ML without sacrificing data sovereignty. This comprehensive solution streamlines data orchestration and analysis, making it an attractive choice for organizations seeking greater control over their data.
+Anagnorisis is an open-source, local data-management platform designed for on-premises applications. It features a built-in trainable recommendation engine, empowering users to manage and analyze their data while leveraging AI-driven insights. By providing a complete local solution, Anagnorisis addresses data security and compliance concerns, offering a flexible and customizable platform for various use cases.
 
 ---
 

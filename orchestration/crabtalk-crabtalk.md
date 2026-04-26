@@ -1,6 +1,6 @@
 # crabtalk/crabtalk
 
-[![Stars](https://img.shields.io/github/stars/crabtalk/crabtalk?style=flat-square&color=yellow)](https://github.com/crabtalk/crabtalk/stargazers) [![Forks](https://img.shields.io/github/forks/crabtalk/crabtalk?style=flat-square&color=blue)](https://github.com/crabtalk/crabtalk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crabtalk/crabtalk?style=flat-square&color=yellow)](https://github.com/crabtalk/crabtalk/stargazers) [![Forks](https://img.shields.io/github/forks/crabtalk/crabtalk?style=flat-square&color=blue)](https://github.com/crabtalk/crabtalk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Agents daemon that hides nothing
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 529 |
+| ⭐ **Stars** | 531 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,0 +1,32 @@
+# offset/onion-vanity-address
+
+[![Stars](https://img.shields.io/github/stars/offset/onion-vanity-address?style=flat-square&color=yellow)](https://github.com/offset/onion-vanity-address/stargazers) [![Forks](https://img.shields.io/github/forks/offset/onion-vanity-address?style=flat-square&color=blue)](https://github.com/offset/onion-vanity-address/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+
+> Tor Onion Service v3 vanity address generator with optimized search
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 202 |
+| 🍴 **Forks** | 470 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Crypto
+
+## 📝 Summary
+
+The offset/onion-vanity-address project is an open-source tool that generates Tor Onion Service v3 vanity addresses with optimized search capabilities. This allows users to efficiently search for and find custom Onion addresses that meet their specific needs. By leveraging advanced search algorithms, the project streamlines the process of finding unique Onion addresses for various applications.
+
+---
+
+<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/offset/onion-vanity-address) · [← Back to Crypto](./README.md)</sub>

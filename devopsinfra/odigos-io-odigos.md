@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Odigos is an open-source project that enables distributed tracing without requiring any code changes. Leveraging OpenTelemetry and eBPF, it allows for instant monitoring of any application, providing valuable insights into system performance and behavior. This DevOps/Infra tool is designed to simplify the process of gathering and analyzing distributed tracing data.
+Odigos is an open-source project that enables distributed tracing without requiring code modifications. Leveraging OpenTelemetry and eBPF, Odigos allows instant monitoring of any application, providing real-time visibility into system performance. This solution streamlines DevOps and infrastructure management by eliminating the need for code instrumentation.
 
 ---
 

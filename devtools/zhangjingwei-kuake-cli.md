@@ -27,7 +27,7 @@ DevTools
 
 Here's a brief summary for the zhangjingwei/kuake_cli project:
 
-Kuake Cli is an open-source, command-line interface (CLI) tool for managing files on Quark Cloud Drive, a cloud storage platform. This tool provides a convenient way to interact with Quark Cloud Drive from the terminal, allowing users to perform various file management operations. With Kuake Cli, users can easily manage their cloud storage without needing a graphical interface.
+Kuake Cli is an open-source, command-line interface (CLI) tool designed for managing files on Quark Cloud Drive. It enables users to easily interact with their cloud storage through terminal commands, providing a convenient and efficient way to manage their files remotely. This tool is part of the DevTools category, making it a valuable resource for developers and users of Quark Cloud Drive.
 
 ---
 

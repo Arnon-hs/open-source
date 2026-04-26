@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The azat-io/token-limit project is an open-source tool that helps monitor and manage token consumption in AI tools, allowing developers to track and set budgets for their code and configurations. This project provides real-time alerts when token limits are reached, enabling efficient resource allocation and cost optimization. By using token-limit, developers can streamline their AI development workflow and avoid costly token overages.
+The azat-io/token-limit project is an open-source tool designed to monitor and manage token consumption in AI tools, allowing developers to set budgets and receive alerts when limits are exceeded. This tool enables efficient resource allocation and helps prevent unexpected costs associated with AI development and deployment. By providing a transparent view of token usage, it facilitates better project planning and resource management.
 
 ---
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6630** |
+| 🗂️ **Total projects** | **6681** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2542 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1171 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 657 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 595 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 379 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 375 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 231 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 2563 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1183 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 660 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 596 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 383 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 380 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 233 | [Browse →](./crypto/) |
 | 📊 **Data** | 155 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 138 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 100 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 102 | [Browse →](./mobile/) |
 | 💳 **Payments** | 94 | [Browse →](./payments/) |
-| 📈 **Trading** | 69 | [Browse →](./trading/) |
+| 📈 **Trading** | 70 | [Browse →](./trading/) |
 | 🔐 **Security** | 69 | [Browse →](./security/) |
 | ✨ **Design** | 26 | [Browse →](./design/) |
 | 🎯 **Product** | 20 | [Browse →](./product/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [vbenjs/vue-vben-admin](./aiml/vbenjs-vue-vben-admin.md) | ⭐ 32.2k | AI/ML |
-| 2 | [ether/etherpad](./misc/ether-etherpad.md) | ⭐ 18.3k | Misc |
-| 3 | [zhkl0228/unidbg](./mobile/zhkl0228-unidbg.md) | ⭐ 4.9k | Mobile |
-| 4 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 5 | [logseq/logseq](./product/logseq-logseq.md) | ⭐ 42.4k | Product |
-| 6 | [containerd/containerd](./aiml/containerd-containerd.md) | ⭐ 20.6k | AI/ML |
-| 7 | [endless-sky/endless-sky](./trading/endless-sky-endless-sky.md) | ⭐ 7.3k | Trading |
-| 8 | [icsharpcode/ILSpy](./data/icsharpcode-ilspy.md) | ⭐ 25k | Data |
-| 9 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 186.5k | AI/ML |
-| 10 | [triggerdotdev/trigger.dev](./orchestration/triggerdotdev-trigger.dev.md) | ⭐ 14.7k | Orchestration |
+| 2 | [zhkl0228/unidbg](./mobile/zhkl0228-unidbg.md) | ⭐ 4.9k | Mobile |
+| 3 | [esphome/esphome](./aiml/esphome-esphome.md) | ⭐ 11k | AI/ML |
+| 4 | [ether/etherpad](./misc/ether-etherpad.md) | ⭐ 18.3k | Misc |
+| 5 | [AccumulateMore/CV](./aiml/accumulatemore-cv.md) | ⭐ 20.3k | AI/ML |
+| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 7 | [logseq/logseq](./product/logseq-logseq.md) | ⭐ 42.4k | Product |
+| 8 | [endless-sky/endless-sky](./trading/endless-sky-endless-sky.md) | ⭐ 7.3k | Trading |
+| 9 | [icsharpcode/ILSpy](./data/icsharpcode-ilspy.md) | ⭐ 25k | Data |
+| 10 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 186.5k | AI/ML |
 
 ## 🚀 How it works
 

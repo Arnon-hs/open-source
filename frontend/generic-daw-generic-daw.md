@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the generic-daw project:
-
-generic-daw is an open-source, cross-platform digital audio workstation (DAW) currently under development. Built in Rust, this project aims to provide a flexible and customizable platform for music production and audio editing. With its focus on frontend development, generic-daw seeks to offer a powerful and intuitive user experience for musicians and audio engineers.
+Generic DAW is an open-source, cross-platform digital audio workstation (DAW) currently in development, built using Rust. This ambitious project aims to provide a versatile and customizable platform for music production, offering users a range of features and tools to create and edit audio content. As a front-end focused project, it prioritizes user interface and interaction, setting the stage for a seamless and intuitive music creation experience.
 
 ---
 

@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the kantord/blogtato project:
-
-Blogtato is an open-source, command-line interface (CLI) RSS/Atom feed reader inspired by Taskwarrior. It allows users to easily manage and read their favorite blogs and news sources from the terminal. This intuitive tool is designed to provide a simple and efficient way to stay up-to-date with the latest content from your chosen feeds.
+Kantord/blogtato is an open-source command-line RSS/Atom feed reader inspired by Taskwarrior. This tool allows users to easily manage and read RSS/Atom feeds from the terminal, providing a simple and efficient way to stay up-to-date on their favorite blogs and news sites. Its Taskwarrior-inspired design makes it a great option for developers who prefer a text-based interface.
 
 ---
 

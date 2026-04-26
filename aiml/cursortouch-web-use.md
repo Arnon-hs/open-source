@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the Web-Use project:
+Here's a brief summary for the Web-Use project:
 
-Web-Use is an open-source, CDP-powered Browser Agent that enables advanced browser interactions and data collection. Leveraging AI/ML capabilities, this project unlocks new possibilities for web-based applications and services. With Web-Use, developers can tap into a rich set of features for enhanced user experiences and analytics.
+Web-Use is an open-source, AI/ML powered browser agent built on top of Google's Cloud Data Platform (CDP). This agent provides advanced browser functionality, utilizing machine learning capabilities to enhance user experiences. By leveraging CDP, Web-Use offers a scalable and efficient solution for web-based applications.
 
 ---
 

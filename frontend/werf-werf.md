@@ -25,7 +25,7 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Werf (pronounced "werf" as in "werf" a boat) is an open-source tool designed to simplify and streamline the software delivery process to Kubernetes. It helps developers implement best practices for consistent and efficient deployment, ensuring seamless integration with their existing workflows. With werf, teams can optimize their Kubernetes-based applications with ease.
+Werf is an open-source tool for efficient and consistent software delivery to Kubernetes, enabling organizations to implement best practices in DevOps and infrastructure management. It streamlines the process of building, testing, and deploying applications to Kubernetes environments, promoting consistency and reducing the risk of errors. By leveraging werf, teams can improve the speed and reliability of their software delivery pipelines.
 
 ---
 

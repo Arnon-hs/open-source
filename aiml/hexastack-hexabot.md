@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the Hexastack/Hexabot project:
-
-Hexastack/Hexabot is an open-source, user-friendly platform for building and managing AI-powered chatbots and agents. With its ability to support multiple channels and languages, users can create and deploy chatbots that cater to diverse audiences and communication platforms. This accessible tool empowers developers and non-technical users to create sophisticated chatbots without extensive coding knowledge.
+Hexastack/Hexabot is an open-source AI chatbot builder that enables users to create and manage multi-channel and multilingual chatbots with ease. This versatile tool allows developers to build sophisticated chatbots that can interact with users across various platforms and languages, catering to diverse user needs. With Hexabot, users can streamline the development process and create effective AI-powered agents for various applications and industries.
 
 ---
 

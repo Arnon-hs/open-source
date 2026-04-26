@@ -25,9 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The unidbg project, developed by zhkl0228, allows for the emulation of Android native libraries and offers experimental iOS emulation capabilities. This open-source tool enables developers to analyze and debug Android and iOS native libraries in a controlled environment. By utilizing unidbg, developers can gain deeper insights into mobile application behavior and functionality.
+The unidbg project is an open-source tool that enables the emulation of Android native libraries, allowing developers to test and debug their applications without the need for physical devices. Experimental iOS emulation is also available, further expanding its capabilities. This versatile tool supports the testing and debugging of mobile applications across various Android and iOS versions.
 
 ---
 

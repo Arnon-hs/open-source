@@ -1,6 +1,6 @@
 # pgalko/BambooAI
 
-[![Stars](https://img.shields.io/github/stars/pgalko/BambooAI?style=flat-square&color=yellow)](https://github.com/pgalko/BambooAI/stargazers) [![Forks](https://img.shields.io/github/forks/pgalko/BambooAI?style=flat-square&color=blue)](https://github.com/pgalko/BambooAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pgalko/BambooAI?style=flat-square&color=yellow)](https://github.com/pgalko/BambooAI/stargazers) [![Forks](https://img.shields.io/github/forks/pgalko/BambooAI?style=flat-square&color=blue)](https://github.com/pgalko/BambooAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A Python library powered by Language Models (LLMs) for conversational data discovery and analysis.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 775 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

@@ -25,7 +25,9 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The dockur/umbrel project is an open-source implementation that packages umbrelOS within a Docker container, providing a convenient and portable way to run the operating system. This allows users to easily deploy and manage umbrelOS across various environments, streamlining development and deployment processes. By leveraging Docker, the project offers a flexible and scalable solution for umbrelOS-based projects.
+Here's a brief summary for the dockur/umbrel project:
+
+UmbrelOS, an open-source, self-contained home server operating system, is now available in a Docker container format. This project, dockur/umbrel, provides users with a lightweight and portable way to experience the full features of UmbrelOS, making it easier to set up and manage their home servers. By leveraging Docker, users can now run UmbrelOS on a wide range of platforms and environments.
 
 ---
 

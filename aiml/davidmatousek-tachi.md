@@ -1,6 +1,6 @@
 # davidmatousek/tachi
 
-[![Stars](https://img.shields.io/github/stars/davidmatousek/tachi?style=flat-square&color=yellow)](https://github.com/davidmatousek/tachi/stargazers) [![Forks](https://img.shields.io/github/forks/davidmatousek/tachi?style=flat-square&color=blue)](https://github.com/davidmatousek/tachi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davidmatousek/tachi?style=flat-square&color=yellow)](https://github.com/davidmatousek/tachi/stargazers) [![Forks](https://img.shields.io/github/forks/davidmatousek/tachi?style=flat-square&color=blue)](https://github.com/davidmatousek/tachi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Automated threat modeling toolkit — STRIDE + AI-specific threats in one command
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 51 |
-| 🍴 **Forks** | 9 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

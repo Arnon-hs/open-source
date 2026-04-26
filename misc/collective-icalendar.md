@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Collective's icalendar is an open-source Python library that efficiently parses iCalendar (.ics) files. It provides a simple and intuitive interface for extracting and manipulating calendar data, making it a valuable tool for developers working with scheduling and calendaring applications. With icalendar, Python developers can easily integrate with various calendar systems and formats.
+The collective/icalendar project is an open-source Python library that parses iCalendar files, allowing developers to easily work with calendar data in various formats. This library provides a convenient and efficient way to extract and manipulate calendar information from iCalendar files (.ics) and other related data formats. It's a valuable tool for applications that integrate with calendar systems.
 
 ---
 

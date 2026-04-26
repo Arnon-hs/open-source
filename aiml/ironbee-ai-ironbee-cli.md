@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the IronBee CLI project:
-
-IronBee CLI is an open-source tool that provides a verification and intelligence layer for coding agents, empowering developers to create more sophisticated and reliable coding assistants. This project combines AI and machine learning technology to enhance coding workflows and improve the overall coding experience. By leveraging IronBee CLI, developers can unlock new possibilities for coding automation and collaboration.
+IronBee CLI is an open-source project that serves as a verification and intelligence layer for coding agents. It enables the integration of AI and ML capabilities with coding tools, enhancing their functionality and efficiency. This project empowers developers to build more intelligent and automated coding agents.
 
 ---
 

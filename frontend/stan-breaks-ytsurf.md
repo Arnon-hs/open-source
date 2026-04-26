@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Stan-breaks/ytsurf is an open-source terminal-based YouTube client that provides a clean and distraction-free experience for users. This project allows you to access YouTube directly from your terminal, making it a convenient option for those who prefer a minimalistic interface. With ytsurf, you can search for videos, play them, and manage your YouTube experience from the comfort of your terminal.
+Stan-breaks/ytsurf is an open-source project that brings the YouTube experience directly to your terminal, providing a distraction-free and clean interface. This project enables users to access and interact with YouTube from the comfort of their command line, without the need for a web browser. With ytsurf, users can enjoy seamless YouTube functionality in a minimalistic terminal environment.
 
 ---
 

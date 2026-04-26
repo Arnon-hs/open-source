@@ -1,6 +1,6 @@
 # Trampoline-AI/predict-rlm
 
-[![Stars](https://img.shields.io/github/stars/Trampoline-AI/predict-rlm?style=flat-square&color=yellow)](https://github.com/Trampoline-AI/predict-rlm/stargazers) [![Forks](https://img.shields.io/github/forks/Trampoline-AI/predict-rlm?style=flat-square&color=blue)](https://github.com/Trampoline-AI/predict-rlm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Trampoline-AI/predict-rlm?style=flat-square&color=yellow)](https://github.com/Trampoline-AI/predict-rlm/stargazers) [![Forks](https://img.shields.io/github/forks/Trampoline-AI/predict-rlm?style=flat-square&color=blue)](https://github.com/Trampoline-AI/predict-rlm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Production focused Self-harnessed LM runtime (RLM) that allows the LM to call its sub-lm with DSPy signatures. Define your inputs, outputs, and tools — the model handles its own control flow. Get fully interpretable trajectories and performance that scales directly with model improvements. Without context rot.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 204 |
-| 🍴 **Forks** | 21 |
+| ⭐ **Stars** | 207 |
+| 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

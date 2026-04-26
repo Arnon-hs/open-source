@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The takt-sdd repository is an open-source project that defines a workflow for Spec-Driven Development (SDD) using the takt framework. This project is categorized under Crypto and AI/ML, suggesting its application in secure and intelligent development processes. It aims to provide a standardized approach to SDD through the use of takt.
+The j5ik2o/takt-sdd project is an open-source repository that utilizes the takt framework to define workflows for Spec-Driven Development (SDD). This project caters to the categories of crypto and AI/ML, suggesting its application in the development of secure and intelligent systems. By leveraging takt, it enables efficient and standardized SDD workflows.
 
 ---
 

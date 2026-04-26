@@ -25,7 +25,9 @@ DevTools · Security
 
 ## 📝 Summary
 
-The azat-io/actions-up project is an open-source interactive CLI tool designed to update GitHub Actions to their latest versions with SHA pinning, ensuring the highest level of security and stability for your workflows. This tool streamlines the process of keeping your Actions up-to-date, reducing the risk of security vulnerabilities and compatibility issues. By leveraging SHA pinning, you can maintain precise control over your dependencies.
+Here's a brief summary for the azat-io/actions-up project:
+
+azat-io/actions-up is an interactive Command-Line Interface (CLI) tool designed to update GitHub Actions to their latest versions while maintaining SHA pinning for enhanced security. This open-source project aims to streamline the process of keeping GitHub Actions up-to-date, ensuring users have access to the latest features and security patches. By using actions-up, developers can easily manage their GitHub Actions dependencies and stay secure.
 
 ---
 

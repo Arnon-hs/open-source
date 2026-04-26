@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Cryload is a cross-platform command-line interface (CLI) for HTTP load testing, designed to provide a modern alternative to established tools like ApacheBench (ab) and wrk. It offers machine-readable reports, making it an ideal choice for integration into Continuous Integration/Continuous Deployment (CI/CD) pipelines. With its open-source nature, developers can easily customize and extend Cryload to suit their testing needs.
+The cryload project is an open-source, cross-platform command-line interface (CLI) designed for HTTP load testing. It aims to provide a modern alternative to tools like ab and wrk, offering machine-readable reports suitable for integration into continuous integration and continuous deployment (CI/CD) pipelines. This allows developers to easily and efficiently test the performance of their web applications under various loads.
 
 ---
 
