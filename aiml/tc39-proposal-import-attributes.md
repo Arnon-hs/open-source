@@ -1,6 +1,6 @@
 # tc39/proposal-import-attributes
 
-[![Stars](https://img.shields.io/github/stars/tc39/proposal-import-attributes?style=flat-square&color=yellow)](https://github.com/tc39/proposal-import-attributes/stargazers) [![Forks](https://img.shields.io/github/forks/tc39/proposal-import-attributes?style=flat-square&color=blue)](https://github.com/tc39/proposal-import-attributes/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tc39/proposal-import-attributes?style=flat-square&color=yellow)](https://github.com/tc39/proposal-import-attributes/stargazers) [![Forks](https://img.shields.io/github/forks/tc39/proposal-import-attributes?style=flat-square&color=blue)](https://github.com/tc39/proposal-import-attributes/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Proposal for syntax to import ES modules with assertions
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 628 |
+| ⭐ **Stars** | 629 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 35/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

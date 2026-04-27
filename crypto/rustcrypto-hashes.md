@@ -1,6 +1,6 @@
 # RustCrypto/hashes
 
-[![Stars](https://img.shields.io/github/stars/RustCrypto/hashes?style=flat-square&color=yellow)](https://github.com/RustCrypto/hashes/stargazers) [![Forks](https://img.shields.io/github/forks/RustCrypto/hashes?style=flat-square&color=blue)](https://github.com/RustCrypto/hashes/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RustCrypto/hashes?style=flat-square&color=yellow)](https://github.com/RustCrypto/hashes/stargazers) [![Forks](https://img.shields.io/github/forks/RustCrypto/hashes?style=flat-square&color=blue)](https://github.com/RustCrypto/hashes/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of cryptographic hash functions written in pure Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 315 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

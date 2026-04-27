@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Aix is an open-source, unified Command-Line Interface (CLI) designed to simplify the management of AI coding assistant configurations across various platforms. This tool provides a centralized solution for users to control and customize their AI coding assistants, streamlining their development workflow. By leveraging Aix, developers can efficiently configure and utilize AI-powered tools, enhancing productivity and collaboration.
+The aix project is an open-source, unified command-line interface (CLI) designed to simplify the management of AI coding assistant configurations across various platforms. This tool aims to provide a streamlined experience for developers working with AI coding assistants, allowing them to easily configure and manage their settings. By unifying configuration management, aix helps to reduce complexity and increase productivity.
 
 ---
 

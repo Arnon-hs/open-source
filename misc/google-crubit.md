@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The google/crubit project is an open-source tool that generates bidirectional bindings for C++ and Rust, allowing for seamless communication between these two languages. This project facilitates the creation of interoperable codebases, enabling developers to share data and functionality between C++ and Rust applications. By automating the binding generation process, crubit simplifies the integration of C++ and Rust, promoting more efficient and effective cross-language development.
+The google/crubit project is an open-source library that generates bidirectional bindings for C++ and Rust, allowing for seamless communication and data exchange between the two languages. This utility simplifies the process of creating interoperable code, making it easier to integrate C++ and Rust components into a single application. By automating the binding generation process, crubit reduces the complexity and effort required to develop cross-language interfaces.
 
 ---
 

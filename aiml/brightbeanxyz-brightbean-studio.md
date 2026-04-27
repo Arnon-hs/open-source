@@ -1,6 +1,6 @@
 # brightbeanxyz/brightbean-studio
 
-[![Stars](https://img.shields.io/github/stars/brightbeanxyz/brightbean-studio?style=flat-square&color=yellow)](https://github.com/brightbeanxyz/brightbean-studio/stargazers) [![Forks](https://img.shields.io/github/forks/brightbeanxyz/brightbean-studio?style=flat-square&color=blue)](https://github.com/brightbeanxyz/brightbean-studio/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brightbeanxyz/brightbean-studio?style=flat-square&color=yellow)](https://github.com/brightbeanxyz/brightbean-studio/stargazers) [![Forks](https://img.shields.io/github/forks/brightbeanxyz/brightbean-studio?style=flat-square&color=blue)](https://github.com/brightbeanxyz/brightbean-studio/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 271 |
+| ⭐ **Stars** | 1.4k |
+| 🍴 **Forks** | 273 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

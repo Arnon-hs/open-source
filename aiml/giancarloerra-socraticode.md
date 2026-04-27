@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/giancarloerra/SocratiCode?style=flat-square&color=yellow)](https://github.com/giancarloerra/SocratiCode/stargazers) [![Forks](https://img.shields.io/github/forks/giancarloerra/SocratiCode?style=flat-square&color=blue)](https://github.com/giancarloerra/SocratiCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
-> Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Plugin/Skill or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, cross-project/repo & branch-aware search, and DB/API/infra knowledge. Benchmark: 61% less tokens, 84% fewer calls, 37x faster than AI grep. Cloud in private beta.
+> Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, private & local Plugin/Skill or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, interactive HTML viewer, cross-project & branch-aware search, DB/API/infra knowledge. 61% less tokens, 84% fewer calls, 37x faster. Cloud in private beta.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 184 |
+| 🍴 **Forks** | 187 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |

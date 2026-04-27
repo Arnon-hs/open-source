@@ -1,6 +1,6 @@
 # HarbourMasters/SpaghettiKart
 
-[![Stars](https://img.shields.io/github/stars/HarbourMasters/SpaghettiKart?style=flat-square&color=yellow)](https://github.com/HarbourMasters/SpaghettiKart/stargazers) [![Forks](https://img.shields.io/github/forks/HarbourMasters/SpaghettiKart?style=flat-square&color=blue)](https://github.com/HarbourMasters/SpaghettiKart/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HarbourMasters/SpaghettiKart?style=flat-square&color=yellow)](https://github.com/HarbourMasters/SpaghettiKart/stargazers) [![Forks](https://img.shields.io/github/forks/HarbourMasters/SpaghettiKart?style=flat-square&color=blue)](https://github.com/HarbourMasters/SpaghettiKart/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > I have spaghetti, now i just need a kart
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # greenpolo/cc-multi-cli-plugin
 
-[![Stars](https://img.shields.io/github/stars/greenpolo/cc-multi-cli-plugin?style=flat-square&color=yellow)](https://github.com/greenpolo/cc-multi-cli-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/greenpolo/cc-multi-cli-plugin?style=flat-square&color=blue)](https://github.com/greenpolo/cc-multi-cli-plugin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/greenpolo/cc-multi-cli-plugin?style=flat-square&color=yellow)](https://github.com/greenpolo/cc-multi-cli-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/greenpolo/cc-multi-cli-plugin?style=flat-square&color=blue)](https://github.com/greenpolo/cc-multi-cli-plugin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin: delegate to Codex, Gemini, Cursor, GitHub Copilot, and Qwen CLIs via their native protocols (ACP, ASP). Use /gemini:research, /cursor:debug, /codex:execute, /copilot:review and more — Claude can also auto-dispatch.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 62 |
+| ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

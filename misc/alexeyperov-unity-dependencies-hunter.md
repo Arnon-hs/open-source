@@ -1,6 +1,6 @@
 # AlexeyPerov/Unity-Dependencies-Hunter
 
-[![Stars](https://img.shields.io/github/stars/AlexeyPerov/Unity-Dependencies-Hunter?style=flat-square&color=yellow)](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter/stargazers) [![Forks](https://img.shields.io/github/forks/AlexeyPerov/Unity-Dependencies-Hunter?style=flat-square&color=blue)](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlexeyPerov/Unity-Dependencies-Hunter?style=flat-square&color=yellow)](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter/stargazers) [![Forks](https://img.shields.io/github/forks/AlexeyPerov/Unity-Dependencies-Hunter?style=flat-square&color=blue)](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > This tool finds unreferenced assets by scanning all files in your Unity project.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 710 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

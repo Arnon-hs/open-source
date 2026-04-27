@@ -1,6 +1,6 @@
 # Tiledesk/tiledesk-server
 
-[![Stars](https://img.shields.io/github/stars/Tiledesk/tiledesk-server?style=flat-square&color=yellow)](https://github.com/Tiledesk/tiledesk-server/stargazers) [![Forks](https://img.shields.io/github/forks/Tiledesk/tiledesk-server?style=flat-square&color=blue)](https://github.com/Tiledesk/tiledesk-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tiledesk/tiledesk-server?style=flat-square&color=yellow)](https://github.com/Tiledesk/tiledesk-server/stargazers) [![Forks](https://img.shields.io/github/forks/Tiledesk/tiledesk-server?style=flat-square&color=blue)](https://github.com/Tiledesk/tiledesk-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Tiledesk Server is the main API component of the Tiledesk platform 🚀 Tiledesk is an open-source alternative to Voiceflow, allowing you to build advanced LLM-powered agents with easy human-in-the-loop (HITL) when necessary.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 380 |
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

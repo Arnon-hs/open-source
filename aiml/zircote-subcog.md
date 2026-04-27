@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The subcog project is an open-source, persistent memory system designed for AI coding assistants. It captures and stores decisions, learnings, and context from coding sessions, utilizing a hybrid search algorithm and integrating with MCP servers for enhanced functionality. The system is built with Rust and leverages SQLite persistence with a knowledge graph for efficient data management.
+Here's a brief summary of the project:
+
+Subcog is an open-source, persistent memory system for AI coding assistants that captures and retains knowledge from coding sessions. It features a hybrid search engine, integration with MCP servers, and a knowledge graph stored in SQLite, enabling proactive memory surfacing. Built with Rust, Subcog aims to enhance the performance and capabilities of AI coding assistants.
 
 ---
 

@@ -1,6 +1,6 @@
 # IQSS/dataverse
 
-[![Stars](https://img.shields.io/github/stars/IQSS/dataverse?style=flat-square&color=yellow)](https://github.com/IQSS/dataverse/stargazers) [![Forks](https://img.shields.io/github/forks/IQSS/dataverse?style=flat-square&color=blue)](https://github.com/IQSS/dataverse/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IQSS/dataverse?style=flat-square&color=yellow)](https://github.com/IQSS/dataverse/stargazers) [![Forks](https://img.shields.io/github/forks/IQSS/dataverse?style=flat-square&color=blue)](https://github.com/IQSS/dataverse/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open source research data repository software
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 541 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

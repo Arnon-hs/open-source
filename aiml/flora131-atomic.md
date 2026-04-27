@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Atomic is an open-source project that provides reliable workflows for coding agents, offering a framework for efficient and effective coding processes. This project, developed by flora131, is categorized under AI/ML and is designed to streamline coding tasks, making it a valuable resource for developers and AI/ML researchers alike.
+The "atomic" project provides a set of reliable workflows for coding agents, offering a structured approach to AI and machine learning development. This open-source initiative helps ensure efficient and reproducible coding processes, allowing developers to focus on complex tasks. By streamlining workflows, "atomic" aims to enhance collaboration and productivity in the AI/ML community.
 
 ---
 

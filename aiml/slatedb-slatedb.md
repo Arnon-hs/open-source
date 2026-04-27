@@ -1,6 +1,6 @@
 # slatedb/slatedb
 
-[![Stars](https://img.shields.io/github/stars/slatedb/slatedb?style=flat-square&color=yellow)](https://github.com/slatedb/slatedb/stargazers) [![Forks](https://img.shields.io/github/forks/slatedb/slatedb?style=flat-square&color=blue)](https://github.com/slatedb/slatedb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/slatedb/slatedb?style=flat-square&color=yellow)](https://github.com/slatedb/slatedb/stargazers) [![Forks](https://img.shields.io/github/forks/slatedb/slatedb?style=flat-square&color=blue)](https://github.com/slatedb/slatedb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A cloud native embedded storage engine built on object storage.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 225 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

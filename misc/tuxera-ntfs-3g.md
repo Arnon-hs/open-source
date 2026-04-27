@@ -1,6 +1,6 @@
 # tuxera/ntfs-3g
 
-[![Stars](https://img.shields.io/github/stars/tuxera/ntfs-3g?style=flat-square&color=yellow)](https://github.com/tuxera/ntfs-3g/releases/tag/2026.2.25/stargazers) [![Forks](https://img.shields.io/github/forks/tuxera/ntfs-3g?style=flat-square&color=blue)](https://github.com/tuxera/ntfs-3g/releases/tag/2026.2.25/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tuxera/ntfs-3g?style=flat-square&color=yellow)](https://github.com/tuxera/ntfs-3g/releases/tag/2026.2.25/stargazers) [![Forks](https://img.shields.io/github/forks/tuxera/ntfs-3g?style=flat-square&color=blue)](https://github.com/tuxera/ntfs-3g/releases/tag/2026.2.25/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > NTFS-3G Safe Read/Write NTFS Driver
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | C |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

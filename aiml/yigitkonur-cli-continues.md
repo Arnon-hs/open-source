@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The open-source project "yigitkonur/cli-continues" enables users to resume AI coding sessions across various tools, including Claude Code, Copilot, Gemini, Codex, and Cursor. This allows developers to pick up where they left off in their coding workflow, streamlining productivity and collaboration. By providing a seamless continuity experience, the project simplifies the integration of AI-powered coding assistants.
+The open-source project 'yigitkonur/cli-continues' enables users to resume AI coding sessions across various tools, including Claude Code, Copilot, Gemini, Codex, and Cursor. This project allows developers to seamlessly pick up where they left off in their coding sessions, eliminating the need to restart from scratch. By providing a unified interface, 'cli-continues' streamlines the AI coding experience and enhances productivity.
 
 ---
 

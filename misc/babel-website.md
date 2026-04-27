@@ -1,6 +1,6 @@
 # babel/website
 
-[![Stars](https://img.shields.io/github/stars/babel/website?style=flat-square&color=yellow)](https://github.com/babel/website/stargazers) [![Forks](https://img.shields.io/github/forks/babel/website?style=flat-square&color=blue)](https://github.com/babel/website/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/babel/website?style=flat-square&color=yellow)](https://github.com/babel/website/stargazers) [![Forks](https://img.shields.io/github/forks/babel/website?style=flat-square&color=blue)](https://github.com/babel/website/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > :globe_with_meridians: The Babel documentation website
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 774 |
+| ⭐ **Stars** | 775 |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

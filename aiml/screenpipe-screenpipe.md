@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=flat-square&color=yellow)](https://github.com/screenpipe/screenpipe/stargazers) [![Forks](https://img.shields.io/github/forks/screenpipe/screenpipe?style=flat-square&color=blue)](https://github.com/screenpipe/screenpipe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> Run agents that work for you based on what you do. AI finally knows what you are doing
+> Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # GetBindu/Bindu
 
-[![Stars](https://img.shields.io/github/stars/GetBindu/Bindu?style=flat-square&color=yellow)](https://github.com/GetBindu/Bindu/stargazers) [![Forks](https://img.shields.io/github/forks/GetBindu/Bindu?style=flat-square&color=blue)](https://github.com/GetBindu/Bindu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GetBindu/Bindu?style=flat-square&color=yellow)](https://github.com/GetBindu/Bindu/stargazers) [![Forks](https://img.shields.io/github/forks/GetBindu/Bindu?style=flat-square&color=blue)](https://github.com/GetBindu/Bindu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
 > Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 359 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

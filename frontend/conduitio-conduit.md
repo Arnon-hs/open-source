@@ -1,6 +1,6 @@
 # ConduitIO/conduit
 
-[![Stars](https://img.shields.io/github/stars/ConduitIO/conduit?style=flat-square&color=yellow)](https://github.com/ConduitIO/conduit/stargazers) [![Forks](https://img.shields.io/github/forks/ConduitIO/conduit?style=flat-square&color=blue)](https://github.com/ConduitIO/conduit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ConduitIO/conduit?style=flat-square&color=yellow)](https://github.com/ConduitIO/conduit/stargazers) [![Forks](https://img.shields.io/github/forks/ConduitIO/conduit?style=flat-square&color=blue)](https://github.com/ConduitIO/conduit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Conduit streams data between data stores. Kafka Connect replacement. No JVM required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 591 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

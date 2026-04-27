@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Foundry is an open-source, Markdown-first content management system (CMS) built with Go. It offers a flexible framework with support for themes, plugins, and an integrated administrative interface, empowering developers to create customized and efficient content management solutions. With Foundry, users can effortlessly manage and present content in a variety of formats.
+Foundry is an open-source, Markdown-first content management system (CMS) built with Go. It features a modular architecture, including themes and plugins, allowing for customization and extensibility. The system also includes an integrated admin UI for streamlined management.
 
 ---
 

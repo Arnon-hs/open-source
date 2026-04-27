@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the Memory Guardian project:
-
-Memory Guardian is an open-source memory governance solution designed to manage and optimize memory usage in AI agents. This project aims to provide a framework for AI developers to efficiently allocate and utilize memory, ensuring stable performance and preventing potential memory-related issues. By leveraging open-source code, developers can integrate Memory Guardian into their AI applications and enhance overall efficiency and scalability.
+Memory Guardian is an open-source project that aims to provide memory governance for AI agents, ensuring efficient and secure use of system resources. This project helps manage and allocate memory in AI systems, preventing potential memory leaks and overconsumption. By implementing Memory Guardian, developers can optimize AI performance and mitigate risks associated with memory-related issues.
 
 ---
 

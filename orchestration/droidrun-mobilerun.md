@@ -25,7 +25,9 @@ Orchestration · AI/ML · Mobile
 
 ## 📝 Summary
 
-The open-source project droidrun/mobilerun enables users to automate their mobile devices using natural language commands, providing a user-friendly interface for controlling and interacting with mobile devices. This LLM-agnostic mobile agent leverages advanced AI and machine learning capabilities to simplify device automation and orchestration. By supporting a wide range of natural language inputs, mobilerun offers a flexible and intuitive way to manage mobile devices.
+Here's a brief summary for the droidrun/mobilerun project:
+
+Mobilerun is an open-source mobile automation tool that enables users to control their mobile devices using natural language commands, allowing for more intuitive and efficient interaction. This agent is designed to be LLM (Large Language Model) agnostic, making it adaptable to various AI/ML platforms. By leveraging mobilerun, users can automate and streamline mobile device management and tasks.
 
 ---
 

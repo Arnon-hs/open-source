@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Amazon Orders library is a Python library and command-line interface (CLI) that provides users with access to their Amazon order history. This open-source project enables users to easily retrieve and manage their past orders, making it a valuable tool for those who frequently shop on Amazon. By utilizing this library, users can streamline their order management and gain better visibility into their purchasing history.
+This open-source project, 'amazon-orders,' provides a Python library and command-line interface (CLI) to access and manage Amazon order history. It simplifies the process of retrieving and analyzing order data, enabling users to leverage their purchase history for personal finance tracking, market research, or other purposes. The project caters to developers and researchers who need to harness Amazon order data for various applications.
 
 ---
 

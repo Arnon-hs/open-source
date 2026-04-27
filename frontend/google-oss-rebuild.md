@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The google/oss-rebuild project aims to enhance the security of open-source package ecosystems by validating and augmenting build attestations. This is achieved through originating, verifying, and enriching information about open-source package builds. By doing so, it helps to ensure the integrity and authenticity of open-source packages.
+The google/oss-rebuild project aims to enhance the security of open-source package ecosystems by verifying and authenticating build attestations. This is achieved through the process of originating, validating, and augmenting these attestations to ensure the integrity and trustworthiness of the packages. By doing so, it helps to prevent potential security vulnerabilities and maintain a safer software supply chain.
 
 ---
 

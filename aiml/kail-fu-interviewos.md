@@ -1,6 +1,6 @@
 # Kail-Fu/InterviewOS
 
-[![Stars](https://img.shields.io/github/stars/Kail-Fu/InterviewOS?style=flat-square&color=yellow)](https://github.com/Kail-Fu/InterviewOS/stargazers) [![Forks](https://img.shields.io/github/forks/Kail-Fu/InterviewOS?style=flat-square&color=blue)](https://github.com/Kail-Fu/InterviewOS/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kail-Fu/InterviewOS?style=flat-square&color=yellow)](https://github.com/Kail-Fu/InterviewOS/stargazers) [![Forks](https://img.shields.io/github/forks/Kail-Fu/InterviewOS?style=flat-square&color=blue)](https://github.com/Kail-Fu/InterviewOS/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Replace coding puzzles with real-work simulations.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 980 |
+| ⭐ **Stars** | 981 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

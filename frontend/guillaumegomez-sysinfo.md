@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-GuillaumeGomez/sysinfo is an open-source, cross-platform library designed to retrieve and provide system information, making it a versatile tool for diverse applications and environments. This library aims to offer a unified interface for accessing system details, simplifying the process of system information collection. By utilizing sysinfo, developers can easily integrate system-related features into their projects.
+GuillaumeGomez/sysinfo is an open-source, cross-platform library designed to provide a unified interface for fetching system information. This library offers a simple and consistent way to retrieve various system metrics, making it a valuable tool for developers working on applications that require system-specific data. By utilizing sysinfo, developers can easily create system-aware applications that adapt to different environments.
 
 ---
 

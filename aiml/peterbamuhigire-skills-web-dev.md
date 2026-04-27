@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The 'skills-web-dev' project is an open-source initiative that provides a comprehensive skills system for building robust web and mobile applications. This production-grade framework encompasses over 120 skills, covering essential areas such as AI, security, UX, APIs, databases, and ERP engineering. It enables developers to generate secure, scalable, and maintainable software systems by encoding reusable engineering judgment through layered baseline and specialist skills.
+This open-source project, "skills-web-dev", provides a comprehensive skills system for web development and mobile architecture, covering over 120+ skills across various domains such as AI, security, UX, and engineering. It enables the generation of secure, scalable, and high-performance software systems through its layered baseline and specialist skills framework. This production-grade system is designed for web and mobile app development, APIs, databases, and SaaS/ERP engineering.
 
 ---
 

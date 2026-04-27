@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the livekit/server-sdk-go project:
-
-Livekit/server-sdk-go is an open-source, Go-based Realtime SDK and server API for LiveKit, enabling developers to create scalable and interactive live video applications. This project provides a robust backend solution for building real-time communication and collaboration tools. With its SDK and API, developers can leverage LiveKit's capabilities to create engaging and immersive experiences.
+The livekit/server-sdk-go project is an open-source, Go-based Realtime SDK and server API for LiveKit, enabling developers to build scalable and secure real-time communication applications. This SDK provides a set of tools for building and managing Realtime applications, including support for WebRTC, user management, and room management. By utilizing this project, developers can create immersive and interactive applications for various use cases, such as video conferencing, live events, and collaborative workspaces.
 
 ---
 

@@ -1,6 +1,6 @@
 # mlightcad/cad-viewer
 
-[![Stars](https://img.shields.io/github/stars/mlightcad/cad-viewer?style=flat-square&color=yellow)](https://github.com/mlightcad/cad-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/mlightcad/cad-viewer?style=flat-square&color=blue)](https://github.com/mlightcad/cad-viewer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mlightcad/cad-viewer?style=flat-square&color=yellow)](https://github.com/mlightcad/cad-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/mlightcad/cad-viewer?style=flat-square&color=blue)](https://github.com/mlightcad/cad-viewer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 543 |
+| ⭐ **Stars** | 544 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

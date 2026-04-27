@@ -1,6 +1,6 @@
 # Pumpkin-MC/Pumpkin
 
-[![Stars](https://img.shields.io/github/stars/Pumpkin-MC/Pumpkin?style=flat-square&color=yellow)](https://github.com/Pumpkin-MC/Pumpkin/stargazers) [![Forks](https://img.shields.io/github/forks/Pumpkin-MC/Pumpkin?style=flat-square&color=blue)](https://github.com/Pumpkin-MC/Pumpkin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pumpkin-MC/Pumpkin?style=flat-square&color=yellow)](https://github.com/Pumpkin-MC/Pumpkin/stargazers) [![Forks](https://img.shields.io/github/forks/Pumpkin-MC/Pumpkin?style=flat-square&color=blue)](https://github.com/Pumpkin-MC/Pumpkin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
 
 > Empowering everyone to host fast and efficient Minecraft servers.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.5k |
-| 🍴 **Forks** | 498 |
+| 🍴 **Forks** | 500 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 92/100 |
+| 📈 **Score** | 93/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

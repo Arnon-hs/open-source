@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Microsoft PromptFlow project:
-
-Microsoft PromptFlow is an open-source platform that enables developers to build, test, and deploy high-quality Large Language Model (LLM) applications efficiently. This comprehensive toolset streamlines the workflow from prototyping to production deployment and monitoring, making it an ideal choice for AI/ML and frontend developers. By using PromptFlow, developers can accelerate their LLM app development process while ensuring scalability and reliability.
+Microsoft PromptFlow is an open-source project that streamlines the development of high-quality Large Language Model (LLM) applications. It offers a comprehensive platform for prototyping, testing, deployment, and monitoring of LLM apps, making it easier for developers to build, iterate, and scale their projects. By leveraging PromptFlow, developers can accelerate their workflow and create more sophisticated LLM applications.
 
 ---
 

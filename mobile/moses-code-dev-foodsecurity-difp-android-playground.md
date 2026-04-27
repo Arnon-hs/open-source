@@ -1,6 +1,6 @@
 # Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground
 
-[![Stars](https://img.shields.io/github/stars/Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground?style=flat-square&color=yellow)](https://github.com/Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground/stargazers) [![Forks](https://img.shields.io/github/forks/Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground?style=flat-square&color=blue)](https://github.com/Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground?style=flat-square&color=yellow)](https://github.com/Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground/stargazers) [![Forks](https://img.shields.io/github/forks/Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground?style=flat-square&color=blue)](https://github.com/Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Java |
-| 📈 **Score** | 30/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

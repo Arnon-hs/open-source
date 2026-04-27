@@ -1,6 +1,6 @@
 # pashagolub/pgxmock
 
-[![Stars](https://img.shields.io/github/stars/pashagolub/pgxmock?style=flat-square&color=yellow)](https://github.com/pashagolub/pgxmock/stargazers) [![Forks](https://img.shields.io/github/forks/pashagolub/pgxmock?style=flat-square&color=blue)](https://github.com/pashagolub/pgxmock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pashagolub/pgxmock?style=flat-square&color=yellow)](https://github.com/pashagolub/pgxmock/stargazers) [![Forks](https://img.shields.io/github/forks/pashagolub/pgxmock?style=flat-square&color=blue)](https://github.com/pashagolub/pgxmock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > pgx mock driver for golang to test database interactions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 580 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # pnp/cli-microsoft365
 
-[![Stars](https://img.shields.io/github/stars/pnp/cli-microsoft365?style=flat-square&color=yellow)](https://github.com/pnp/cli-microsoft365/stargazers) [![Forks](https://img.shields.io/github/forks/pnp/cli-microsoft365?style=flat-square&color=blue)](https://github.com/pnp/cli-microsoft365/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pnp/cli-microsoft365?style=flat-square&color=yellow)](https://github.com/pnp/cli-microsoft365/stargazers) [![Forks](https://img.shields.io/github/forks/pnp/cli-microsoft365?style=flat-square&color=blue)](https://github.com/pnp/cli-microsoft365/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Manage Microsoft 365 and SharePoint Framework projects on any platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 386 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

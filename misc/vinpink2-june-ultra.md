@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 633 |
+| ⭐ **Stars** | 634 |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Procfile |
 | 📈 **Score** | 59/100 |

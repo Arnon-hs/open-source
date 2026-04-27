@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The JNetwork project is an autonomous AI judge designed to resolve high-profile disputes in the tech industry, with its inaugural case being Musk v. Altman. This innovative system uses a combination of orchestration, AI/ML, and frontend technologies to deliver final verdicts with no room for appeal. By leveraging AI-driven decision-making, JNetwork aims to bring efficiency and transparency to the dispute resolution process.
+JNetwork is an open-source, autonomous AI judge designed to resolve high-profile tech disputes. Its inaugural case, Musk v. Altman, showcases its ability to render final verdicts without appeal. This AI-powered platform leverages orchestration, artificial intelligence, and machine learning to provide a novel solution for resolving complex technological conflicts.
 
 ---
 

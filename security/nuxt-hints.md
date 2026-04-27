@@ -1,6 +1,6 @@
 # nuxt/hints
 
-[![Stars](https://img.shields.io/github/stars/nuxt/hints?style=flat-square&color=yellow)](https://github.com/nuxt/hints/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt/hints?style=flat-square&color=blue)](https://github.com/nuxt/hints/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nuxt/hints?style=flat-square&color=yellow)](https://github.com/nuxt/hints/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt/hints?style=flat-square&color=blue)](https://github.com/nuxt/hints/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Nuxt module that shows hints for aspects of your application such as Performance, A11Y, Security, and more!
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 333 |
+| ⭐ **Stars** | 334 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

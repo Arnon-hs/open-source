@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-This is a fast and lightweight disk usage analyzer called gdu, written in Go. It features a console interface, making it easy to use and understand disk space usage statistics. gdu is an open-source project suitable for developers seeking a reliable and efficient tool for disk analysis.
+The dundee/gdu project is an open-source, fast disk usage analyzer developed with a console interface, allowing users to efficiently monitor and analyze disk space usage. Written in Go, this tool is designed to provide a simple and effective way to manage disk usage and optimize storage space. It is ideal for system administrators and developers looking for a lightweight and efficient disk analysis solution.
 
 ---
 

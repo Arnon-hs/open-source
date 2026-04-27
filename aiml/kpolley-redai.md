@@ -1,6 +1,6 @@
 # kpolley/redai
 
-[![Stars](https://img.shields.io/github/stars/kpolley/redai?style=flat-square&color=yellow)](https://github.com/kpolley/redai/stargazers) [![Forks](https://img.shields.io/github/forks/kpolley/redai?style=flat-square&color=blue)](https://github.com/kpolley/redai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kpolley/redai?style=flat-square&color=yellow)](https://github.com/kpolley/redai/stargazers) [![Forks](https://img.shields.io/github/forks/kpolley/redai?style=flat-square&color=blue)](https://github.com/kpolley/redai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > AI-driven vulnerability discovery and live validation
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 170 |
-| 🍴 **Forks** | 16 |
+| ⭐ **Stars** | 177 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

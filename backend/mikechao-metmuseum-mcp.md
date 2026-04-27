@@ -27,7 +27,7 @@ Backend
 
 Here's a brief summary for the open-source project:
 
-This project, 'metmuseum-mcp', provides integration with The Metropolitan Museum of Art's (Met) Collection API, allowing users to discover and explore the vast art collection at the Met Museum in New York. With this integration, developers can easily access and utilize the Met's collection data in their applications. This project enables the discovery of the Met's rich cultural heritage, making it a valuable resource for art enthusiasts and developers alike.
+The mikechao/metmuseum-mcp project provides an integration with the Metropolitan Museum of Art's Collection API (MCP) to discover the vast art collection at The Metropolitan Museum of Art in New York. This open-source integration enables developers to access and utilize the museum's digital collection, making it easier to build applications and services that showcase the museum's extensive artwork. With metmuseum-mcp, users can tap into the museum's rich cultural heritage and explore its diverse art collection.
 
 ---
 

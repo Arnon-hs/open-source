@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-ByteNess/aws-vault is an open-source project that provides a secure vault for storing and accessing AWS credentials in development environments. This tool helps ensure the safe management of sensitive AWS credentials, protecting against unauthorized access and reducing the risk of compromised security. By using aws-vault, developers can isolate their AWS credentials from their code and environment, maintaining a high level of security and compliance.
+ByteNess/aws-vault is an open-source project that securely stores and manages AWS credentials in development environments. This project helps to avoid hardcoding sensitive AWS keys and access tokens, reducing the risk of exposure and unauthorized access. It provides a secure way to manage AWS credentials, making it easier to collaborate and automate development workflows.
 
 ---
 

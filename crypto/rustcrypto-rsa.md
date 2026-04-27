@@ -25,7 +25,7 @@ Crypto
 
 ## 📝 Summary
 
-The RustCrypto/RSA project is an open-source implementation of the RSA encryption algorithm in pure Rust. This cryptographic library provides a secure and efficient way to perform RSA encryption, decryption, and key generation. It is designed to be a robust and reliable solution for cryptographic applications, leveraging Rust's memory safety features for added security.
+The RustCrypto/RSA project is an open-source implementation of the RSA encryption algorithm, written entirely in Rust for maximum performance and security. This library provides a pure Rust solution for cryptographic needs, allowing developers to leverage the benefits of Rust's memory safety and concurrency features. By utilizing RSA, users can securely encrypt and decrypt data, ensuring the confidentiality and integrity of sensitive information.
 
 ---
 

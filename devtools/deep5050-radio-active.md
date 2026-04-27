@@ -1,6 +1,6 @@
 # deep5050/radio-active
 
-[![Stars](https://img.shields.io/github/stars/deep5050/radio-active?style=flat-square&color=yellow)](https://github.com/deep5050/radio-active/stargazers) [![Forks](https://img.shields.io/github/forks/deep5050/radio-active?style=flat-square&color=blue)](https://github.com/deep5050/radio-active/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deep5050/radio-active?style=flat-square&color=yellow)](https://github.com/deep5050/radio-active/stargazers) [![Forks](https://img.shields.io/github/forks/deep5050/radio-active?style=flat-square&color=blue)](https://github.com/deep5050/radio-active/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Play any radios around the globe right from the terminal :zap:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 584 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

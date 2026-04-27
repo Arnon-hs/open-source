@@ -1,6 +1,6 @@
 # bruin-data/ingestr
 
-[![Stars](https://img.shields.io/github/stars/bruin-data/ingestr?style=flat-square&color=yellow)](https://github.com/bruin-data/ingestr/stargazers) [![Forks](https://img.shields.io/github/forks/bruin-data/ingestr?style=flat-square&color=blue)](https://github.com/bruin-data/ingestr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bruin-data/ingestr?style=flat-square&color=yellow)](https://github.com/bruin-data/ingestr/stargazers) [![Forks](https://img.shields.io/github/forks/bruin-data/ingestr?style=flat-square&color=blue)](https://github.com/bruin-data/ingestr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

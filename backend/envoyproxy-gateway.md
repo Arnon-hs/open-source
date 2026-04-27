@@ -1,6 +1,6 @@
 # envoyproxy/gateway
 
-[![Stars](https://img.shields.io/github/stars/envoyproxy/gateway?style=flat-square&color=yellow)](https://github.com/envoyproxy/gateway/stargazers) [![Forks](https://img.shields.io/github/forks/envoyproxy/gateway?style=flat-square&color=blue)](https://github.com/envoyproxy/gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/envoyproxy/gateway?style=flat-square&color=yellow)](https://github.com/envoyproxy/gateway/stargazers) [![Forks](https://img.shields.io/github/forks/envoyproxy/gateway?style=flat-square&color=blue)](https://github.com/envoyproxy/gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 735 |
+| 🍴 **Forks** | 736 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

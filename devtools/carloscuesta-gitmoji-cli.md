@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-The carloscuesta/gitmoji-cli project is an open-source, interactive command-line tool designed to help users easily associate emojis with their Git commits. This tool makes it simple to add context and meaning to commit messages, enhancing collaboration and code readability. By using emojis in a standardized way, developers can more effectively communicate changes and intentions within their codebase.
+Here's a brief summary for the carloscuesta/gitmoji-cli project:
+
+Gitmoji-cli is an interactive command-line tool for using emojis in Git commit messages, allowing developers to quickly and easily add expressive and visually appealing commit indicators. This open-source project simplifies the process of including emojis in commit messages, promoting more consistent and effective communication among team members. With gitmoji-cli, developers can boost the clarity and expressiveness of their commit history.
 
 ---
 

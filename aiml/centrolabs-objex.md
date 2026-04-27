@@ -1,6 +1,6 @@
 # centrolabs/ObjeX
 
-[![Stars](https://img.shields.io/github/stars/centrolabs/ObjeX?style=flat-square&color=yellow)](https://github.com/centrolabs/ObjeX/stargazers) [![Forks](https://img.shields.io/github/forks/centrolabs/ObjeX?style=flat-square&color=blue)](https://github.com/centrolabs/ObjeX/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/centrolabs/ObjeX?style=flat-square&color=yellow)](https://github.com/centrolabs/ObjeX/stargazers) [![Forks](https://img.shields.io/github/forks/centrolabs/ObjeX?style=flat-square&color=blue)](https://github.com/centrolabs/ObjeX/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, S3-compatible blob storage built with .NET 10 and Blazor. Drop-in replacement for S3 in homelabs and dev environments with a built-in web UI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

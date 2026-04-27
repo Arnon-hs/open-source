@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The codemcp/workflows project is an open-source MCP (Master Control Program) server designed to streamline development processes. It helps teams adopt a structured approach by providing a centralized platform for managing workflows and promoting collaboration. By automating development processes, this server enables teams to work more efficiently and effectively.
+The codemcp/workflows project is an open-source MCP server designed to facilitate a structured development process. It provides a controlled environment for developers to follow a standardized workflow, helping to maintain organization and efficiency in their coding endeavors. By utilizing this MCP server, developers can streamline their development process and improve overall productivity.
 
 ---
 

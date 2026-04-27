@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The blacktop/ida-mcp-rs project provides a headless IDA Pro MCP server, allowing for programmable access to IDA Pro's functionality in a server-based architecture. This open-source project enables developers to leverage IDA Pro's capabilities in a more flexible and scalable manner. By providing a remote interface to IDA Pro, it facilitates automation and integration with other tools and systems.
+The blacktop/ida-mcp-rs project is an open-source, headless IDA Pro MCP Server, providing a backend solution for interacting with the IDA Pro disassembler. This server allows for remote control and automation of IDA Pro functionality, making it a valuable tool for reverse engineering and malware analysis workflows. It enables developers to integrate IDA Pro into their existing systems and scripts.
 
 ---
 

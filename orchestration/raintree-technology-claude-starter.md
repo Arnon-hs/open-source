@@ -1,6 +1,6 @@
 # raintree-technology/claude-starter
 
-[![Stars](https://img.shields.io/github/stars/raintree-technology/claude-starter?style=flat-square&color=yellow)](https://github.com/raintree-technology/claude-starter/stargazers) [![Forks](https://img.shields.io/github/forks/raintree-technology/claude-starter?style=flat-square&color=blue)](https://github.com/raintree-technology/claude-starter/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raintree-technology/claude-starter?style=flat-square&color=yellow)](https://github.com/raintree-technology/claude-starter/stargazers) [![Forks](https://img.shields.io/github/forks/raintree-technology/claude-starter?style=flat-square&color=blue)](https://github.com/raintree-technology/claude-starter/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced Claude Code framework: 40+ skills, meta-commands, TOON format (30-60% token savings), workflow automation & skill orchestration. npx create-claude-starter@latest
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
