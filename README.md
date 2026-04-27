@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8767** |
+| 🗂️ **Total projects** | **8843** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3386 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1611 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 886 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 738 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 509 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 501 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 310 | [Browse →](./crypto/) |
-| 📊 **Data** | 187 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 175 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 3405 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1638 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 892 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 740 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 511 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 504 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 317 | [Browse →](./crypto/) |
+| 📊 **Data** | 191 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 176 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 118 | [Browse →](./mobile/) |
 | 💳 **Payments** | 112 | [Browse →](./payments/) |
-| 📈 **Trading** | 88 | [Browse →](./trading/) |
-| 🔐 **Security** | 79 | [Browse →](./security/) |
+| 📈 **Trading** | 89 | [Browse →](./trading/) |
+| 🔐 **Security** | 81 | [Browse →](./security/) |
 | ✨ **Design** | 30 | [Browse →](./design/) |
 | 🎯 **Product** | 22 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 15 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 17 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Lissy93/dashy](./frontend/lissy93-dashy.md) | ⭐ 24.8k | Frontend |
-| 2 | [ionic-team/capacitor](./aiml/ionic-team-capacitor.md) | ⭐ 15.5k | AI/ML |
-| 3 | [formbricks/formbricks](./aiml/formbricks-formbricks.md) | ⭐ 12.1k | AI/ML |
-| 4 | [marimo-team/marimo](./aiml/marimo-team-marimo.md) | ⭐ 20.7k | AI/ML |
-| 5 | [wolfpld/tracy](./misc/wolfpld-tracy.md) | ⭐ 15.7k | Misc |
-| 6 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.5k | DevTools |
-| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 8 | [MarlinFirmware/Marlin](./frontend/marlinfirmware-marlin.md) | ⭐ 17.4k | Frontend |
-| 9 | [x-extends/vxe-table](./frontend/x-extends-vxe-table.md) | ⭐ 8.6k | Frontend |
-| 10 | [elizaOS/eliza](./crypto/elizaos-eliza.md) | ⭐ 18.3k | Crypto |
+| 1 | [webpack/webpack](./frontend/webpack-webpack.md) | ⭐ 65.8k | Frontend |
+| 2 | [zeek/zeek](./security/zeek-zeek.md) | ⭐ 7.6k | Security |
+| 3 | [PrivateBin/PrivateBin](./crypto/privatebin-privatebin.md) | ⭐ 8.2k | Crypto |
+| 4 | [sunface/rust-course](./aiml/sunface-rust-course.md) | ⭐ 30.3k | AI/ML |
+| 5 | [clap-rs/clap](./misc/clap-rs-clap.md) | ⭐ 16.3k | Misc |
+| 6 | [Lissy93/dashy](./frontend/lissy93-dashy.md) | ⭐ 24.8k | Frontend |
+| 7 | [ionic-team/capacitor](./aiml/ionic-team-capacitor.md) | ⭐ 15.5k | AI/ML |
+| 8 | [formbricks/formbricks](./aiml/formbricks-formbricks.md) | ⭐ 12.1k | AI/ML |
+| 9 | [marimo-team/marimo](./aiml/marimo-team-marimo.md) | ⭐ 20.7k | AI/ML |
+| 10 | [wolfpld/tracy](./misc/wolfpld-tracy.md) | ⭐ 15.7k | Misc |
 
 ## 🚀 How it works
 

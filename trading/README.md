@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**88 projects** in this category.
+**89 projects** in this category.
 
 ## Projects
 
@@ -96,6 +96,7 @@
 | 86 | [twjackysu/TWSEMCPServer](./twjackysu-twsemcpserver.md) | ⭐ 74 | Python | 47/100 |
 | 87 | [itsubaki/q](./itsubaki-q.md) | ⭐ 279 | Go | 46/100 |
 | 88 | [valory-xyz/trader](./valory-xyz-trader.md) | ⭐ 65 | Python | 41/100 |
+| 89 | [altaidevorg/isanagent](./altaidevorg-isanagent.md) | ⭐ — | — | 39/100 |
 
 ---
 
