@@ -1,6 +1,6 @@
 # marco-trotta1/badvibes
 
-[![Stars](https://img.shields.io/github/stars/marco-trotta1/badvibes?style=flat-square&color=yellow)](https://github.com/marco-trotta1/badvibes/stargazers) [![Forks](https://img.shields.io/github/forks/marco-trotta1/badvibes?style=flat-square&color=blue)](https://github.com/marco-trotta1/badvibes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marco-trotta1/badvibes?style=flat-square&color=yellow)](https://github.com/marco-trotta1/badvibes/stargazers) [![Forks](https://img.shields.io/github/forks/marco-trotta1/badvibes?style=flat-square&color=blue)](https://github.com/marco-trotta1/badvibes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Lint for AI slop. Audits a repo and prints a Vibe Score from 0 to 100.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2 |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

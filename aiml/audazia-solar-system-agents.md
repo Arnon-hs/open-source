@@ -1,6 +1,6 @@
 # Audazia/solar-system-agents
 
-[![Stars](https://img.shields.io/github/stars/Audazia/solar-system-agents?style=flat-square&color=yellow)](https://github.com/Audazia/solar-system-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Audazia/solar-system-agents?style=flat-square&color=blue)](https://github.com/Audazia/solar-system-agents/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Audazia/solar-system-agents?style=flat-square&color=yellow)](https://github.com/Audazia/solar-system-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Audazia/solar-system-agents?style=flat-square&color=blue)](https://github.com/Audazia/solar-system-agents/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Cyberpunk Mission Control dashboard for AI agent fleets. Zero dependencies. Open source.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 28/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

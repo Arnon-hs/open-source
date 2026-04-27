@@ -1,6 +1,6 @@
 # bfgroup/Lyra
 
-[![Stars](https://img.shields.io/github/stars/bfgroup/Lyra?style=flat-square&color=yellow)](https://github.com/bfgroup/Lyra/stargazers) [![Forks](https://img.shields.io/github/forks/bfgroup/Lyra?style=flat-square&color=blue)](https://github.com/bfgroup/Lyra/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bfgroup/Lyra?style=flat-square&color=yellow)](https://github.com/bfgroup/Lyra/stargazers) [![Forks](https://img.shields.io/github/forks/bfgroup/Lyra?style=flat-square&color=blue)](https://github.com/bfgroup/Lyra/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A simple to use, composable, command line parser for C++ 11 and beyond
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 583 |
+| ⭐ **Stars** | 584 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

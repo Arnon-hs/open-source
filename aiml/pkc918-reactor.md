@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/pkc918/reactor?style=flat-square&color=yellow)](https://github.com/pkc918/reactor/stargazers) [![Forks](https://img.shields.io/github/forks/pkc918/reactor?style=flat-square&color=blue)](https://github.com/pkc918/reactor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
-> Reactor for AI coding agents — plugins, skills, and marketplace bits for Claude Code & friends. Like JARVIS: wire it in and your agent runs with real power.
+> Reactor is named after Iron Man's arc reactor. It is not a single tool, but the core energy source that keeps an AI Agent running. For one-person companies and indie builders, Reactor is the AI agent reactor for building products
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Frontend · Product
 
 ## 📝 Summary
 

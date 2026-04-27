@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8127** |
+| 🗂️ **Total projects** | **8207** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3130 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1501 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 816 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 694 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 474 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 456 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 280 | [Browse →](./crypto/) |
-| 📊 **Data** | 176 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 154 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 114 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 3160 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1512 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 828 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 701 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 477 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 462 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 282 | [Browse →](./crypto/) |
+| 📊 **Data** | 180 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 156 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 115 | [Browse →](./mobile/) |
 | 💳 **Payments** | 111 | [Browse →](./payments/) |
-| 📈 **Trading** | 84 | [Browse →](./trading/) |
+| 📈 **Trading** | 85 | [Browse →](./trading/) |
 | 🔐 **Security** | 75 | [Browse →](./security/) |
 | ✨ **Design** | 28 | [Browse →](./design/) |
 | 🎯 **Product** | 21 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 13 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 14 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [freqtrade/freqtrade](./crypto/freqtrade-freqtrade.md) | ⭐ 49.5k | Crypto |
-| 2 | [apache/shardingsphere](./data/apache-shardingsphere.md) | ⭐ 20.7k | Data |
-| 3 | [shadcn-ui/ui](./aiml/shadcn-ui-ui.md) | ⭐ 113.1k | AI/ML |
-| 4 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 5 | [glpi-project/glpi](./data/glpi-project-glpi.md) | ⭐ 5.8k | Data |
-| 6 | [dataease/dataease](./data/dataease-dataease.md) | ⭐ 23.8k | Data |
-| 7 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25k | Design |
-| 8 | [authelia/authelia](./devopsinfra/authelia-authelia.md) | ⭐ 27.6k | DevOps & Infra |
-| 9 | [yeasy/docker_practice](./aiml/yeasy-docker-practice.md) | ⭐ 26k | AI/ML |
-| 10 | [meshtastic/firmware](./misc/meshtastic-firmware.md) | ⭐ 7.4k | Misc |
+| 1 | [qutebrowser/qutebrowser](./misc/qutebrowser-qutebrowser.md) | ⭐ 11.5k | Misc |
+| 2 | [shadcn-ui/ui](./aiml/shadcn-ui-ui.md) | ⭐ 113.1k | AI/ML |
+| 3 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 4 | [getsentry/sentry-javascript](./frontend/getsentry-sentry-javascript.md) | ⭐ 8.6k | Frontend |
+| 5 | [sharkdp/bat](./devtools/sharkdp-bat.md) | ⭐ 58.6k | DevTools |
+| 6 | [storybookjs/storybook](./aiml/storybookjs-storybook.md) | ⭐ 89.8k | AI/ML |
+| 7 | [cryptomator/cryptomator](./crypto/cryptomator-cryptomator.md) | ⭐ 15k | Crypto |
+| 8 | [etcd-io/etcd](./data/etcd-io-etcd.md) | ⭐ 51.6k | Data |
+| 9 | [volcano-sh/volcano](./aiml/volcano-sh-volcano.md) | ⭐ 5.5k | AI/ML |
+| 10 | [pathwaycom/pathway](./aiml/pathwaycom-pathway.md) | ⭐ 63.4k | AI/ML |
 
 ## 🚀 How it works
 

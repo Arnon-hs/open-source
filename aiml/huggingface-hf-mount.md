@@ -1,6 +1,6 @@
 # huggingface/hf-mount
 
-[![Stars](https://img.shields.io/github/stars/huggingface/hf-mount?style=flat-square&color=yellow)](https://github.com/huggingface/hf-mount/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/hf-mount?style=flat-square&color=blue)](https://github.com/huggingface/hf-mount/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/hf-mount?style=flat-square&color=yellow)](https://github.com/huggingface/hf-mount/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/hf-mount?style=flat-square&color=blue)](https://github.com/huggingface/hf-mount/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Mount Hugging Face Buckets and repos as local filesystems. No download, no copy, no waiting.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 693 |
+| ⭐ **Stars** | 694 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

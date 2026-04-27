@@ -1,6 +1,6 @@
 # zama-ai/tfhe-rs
 
-[![Stars](https://img.shields.io/github/stars/zama-ai/tfhe-rs?style=flat-square&color=yellow)](https://github.com/zama-ai/tfhe-rs/stargazers) [![Forks](https://img.shields.io/github/forks/zama-ai/tfhe-rs?style=flat-square&color=blue)](https://github.com/zama-ai/tfhe-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zama-ai/tfhe-rs?style=flat-square&color=yellow)](https://github.com/zama-ai/tfhe-rs/stargazers) [![Forks](https://img.shields.io/github/forks/zama-ai/tfhe-rs?style=flat-square&color=blue)](https://github.com/zama-ai/tfhe-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > TFHE-rs: A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 322 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

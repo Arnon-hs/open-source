@@ -1,6 +1,6 @@
 # JuliaMolSim/DFTK.jl
 
-[![Stars](https://img.shields.io/github/stars/JuliaMolSim/DFTK.jl?style=flat-square&color=yellow)](https://github.com/JuliaMolSim/DFTK.jl/stargazers) [![Forks](https://img.shields.io/github/forks/JuliaMolSim/DFTK.jl?style=flat-square&color=blue)](https://github.com/JuliaMolSim/DFTK.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuliaMolSim/DFTK.jl?style=flat-square&color=yellow)](https://github.com/JuliaMolSim/DFTK.jl/stargazers) [![Forks](https://img.shields.io/github/forks/JuliaMolSim/DFTK.jl?style=flat-square&color=blue)](https://github.com/JuliaMolSim/DFTK.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Density-functional toolkit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 522 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
