@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/zhaoliangbin42/AI-MarkDone?style=flat-square&color=yellow)](https://github.com/zhaoliangbin42/AI-MarkDone/stargazers) [![Forks](https://img.shields.io/github/forks/zhaoliangbin42/AI-MarkDone?style=flat-square&color=blue)](https://github.com/zhaoliangbin42/AI-MarkDone/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Immersive reading mode, messages folding, bookmark system, Markdown & PDF export, one‑click LaTeX copy for ChatGPT / Gemini / Claude / DeepSeek.
+> ChatGPT directory navigation, Reader source copy, Dynamic Annotation, bookmarks, PNG export, and beautiful PDF export.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 81 |
+| ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Product
+AI/ML · Product
 
 ## 📝 Summary
 

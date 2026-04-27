@@ -1,6 +1,6 @@
 # Luligu/matterbridge
 
-[![Stars](https://img.shields.io/github/stars/Luligu/matterbridge?style=flat-square&color=yellow)](https://github.com/Luligu/matterbridge/stargazers) [![Forks](https://img.shields.io/github/forks/Luligu/matterbridge?style=flat-square&color=blue)](https://github.com/Luligu/matterbridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Luligu/matterbridge?style=flat-square&color=yellow)](https://github.com/Luligu/matterbridge/stargazers) [![Forks](https://img.shields.io/github/forks/Luligu/matterbridge?style=flat-square&color=blue)](https://github.com/Luligu/matterbridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Matterbridge plugin manager for Matter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 870 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

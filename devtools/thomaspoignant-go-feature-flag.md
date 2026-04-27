@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/thomaspoignant/go-feature-flag?style=flat-square&color=yellow)](https://github.com/thomaspoignant/go-feature-flag/stargazers) [![Forks](https://img.shields.io/github/forks/thomaspoignant/go-feature-flag?style=flat-square&color=blue)](https://github.com/thomaspoignant/go-feature-flag/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
-> GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+> GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️
 
 ## 📊 Stats
 

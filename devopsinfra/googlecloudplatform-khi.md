@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/khi
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/khi?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/khi/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/khi?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/khi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/khi?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/khi/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/khi?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/khi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A log viewer for Kubernetes troubleshooting
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

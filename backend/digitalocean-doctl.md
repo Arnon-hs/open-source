@@ -1,6 +1,6 @@
 # digitalocean/doctl
 
-[![Stars](https://img.shields.io/github/stars/digitalocean/doctl?style=flat-square&color=yellow)](https://github.com/digitalocean/doctl/stargazers) [![Forks](https://img.shields.io/github/forks/digitalocean/doctl?style=flat-square&color=blue)](https://github.com/digitalocean/doctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/digitalocean/doctl?style=flat-square&color=yellow)](https://github.com/digitalocean/doctl/stargazers) [![Forks](https://img.shields.io/github/forks/digitalocean/doctl?style=flat-square&color=blue)](https://github.com/digitalocean/doctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The official command line interface for the DigitalOcean API.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 458 |
+| 🍴 **Forks** | 457 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

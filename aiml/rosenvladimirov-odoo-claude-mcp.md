@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/rosenvladimirov/odoo-claude-mcp?style=flat-square&color=yellow)](https://github.com/rosenvladimirov/odoo-claude-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/rosenvladimirov/odoo-claude-mcp?style=flat-square&color=blue)](https://github.com/rosenvladimirov/odoo-claude-mcp/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Self-hosted MCP server for Odoo 15-19 — 197+ tools, multi-tenant Claude/Claude Code integration, Bulgaria l10n, Docker + K3s
+> Self-hosted MCP server connecting Claude to Odoo 15→19 — 197+ tools, multi-tenant, Bulgaria l10n
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # datagouv/datagouv-mcp
 
-[![Stars](https://img.shields.io/github/stars/datagouv/datagouv-mcp?style=flat-square&color=yellow)](https://github.com/datagouv/datagouv-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/datagouv/datagouv-mcp?style=flat-square&color=blue)](https://github.com/datagouv/datagouv-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datagouv/datagouv-mcp?style=flat-square&color=yellow)](https://github.com/datagouv/datagouv-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/datagouv/datagouv-mcp?style=flat-square&color=blue)](https://github.com/datagouv/datagouv-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 115 |
+| 🍴 **Forks** | 116 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

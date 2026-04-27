@@ -1,6 +1,6 @@
 # superset-sh/superset
 
-[![Stars](https://img.shields.io/github/stars/superset-sh/superset?style=flat-square&color=yellow)](https://github.com/superset-sh/superset/stargazers) [![Forks](https://img.shields.io/github/forks/superset-sh/superset?style=flat-square&color=blue)](https://github.com/superset-sh/superset/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superset-sh/superset?style=flat-square&color=yellow)](https://github.com/superset-sh/superset/stargazers) [![Forks](https://img.shields.io/github/forks/superset-sh/superset?style=flat-square&color=blue)](https://github.com/superset-sh/superset/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
 
 > Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10k |
-| 🍴 **Forks** | 833 |
+| ⭐ **Stars** | 10.1k |
+| 🍴 **Forks** | 834 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 97/100 |
+| 📈 **Score** | 98/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

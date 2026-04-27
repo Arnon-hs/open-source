@@ -1,6 +1,6 @@
 # chrysb/alphaclaw
 
-[![Stars](https://img.shields.io/github/stars/chrysb/alphaclaw?style=flat-square&color=yellow)](https://github.com/chrysb/alphaclaw/stargazers) [![Forks](https://img.shields.io/github/forks/chrysb/alphaclaw?style=flat-square&color=blue)](https://github.com/chrysb/alphaclaw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrysb/alphaclaw?style=flat-square&color=yellow)](https://github.com/chrysb/alphaclaw/stargazers) [![Forks](https://img.shields.io/github/forks/chrysb/alphaclaw?style=flat-square&color=blue)](https://github.com/chrysb/alphaclaw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

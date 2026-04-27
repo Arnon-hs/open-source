@@ -1,6 +1,6 @@
 # fisenkodv/dfm
 
-[![Stars](https://img.shields.io/github/stars/fisenkodv/dfm?style=flat-square&color=yellow)](https://github.com/fisenkodv/dfm/stargazers) [![Forks](https://img.shields.io/github/forks/fisenkodv/dfm?style=flat-square&color=blue)](https://github.com/fisenkodv/dfm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fisenkodv/dfm?style=flat-square&color=yellow)](https://github.com/fisenkodv/dfm/stargazers) [![Forks](https://img.shields.io/github/forks/fisenkodv/dfm?style=flat-square&color=blue)](https://github.com/fisenkodv/dfm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Standalone, single-binary dotfiles manager
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 35/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

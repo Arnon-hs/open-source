@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/doccker/cc-use-exp?style=flat-square&color=yellow)](https://github.com/doccker/cc-use-exp/stargazers) [![Forks](https://img.shields.io/github/forks/doccker/cc-use-exp?style=flat-square&color=blue)](https://github.com/doccker/cc-use-exp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> 让 Claude Code、Gemini CLI、Codex、Cursor 开箱即用的分层配置模板，总结日常经验，持续完善中……
+> 让 Claude Code、Gemini CLI、Codex、Cursor 开箱即用的分层配置模板，总结十多年的日常开发经验，持续完善中……
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 632 |
-| 🍴 **Forks** | 64 |
+| ⭐ **Stars** | 633 |
+| 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |

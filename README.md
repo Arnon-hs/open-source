@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8367** |
+| 🗂️ **Total projects** | **8447** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3223 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1537 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 848 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 708 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 483 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 478 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 288 | [Browse →](./crypto/) |
-| 📊 **Data** | 182 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 164 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 3256 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1550 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 861 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 712 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 490 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 482 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 290 | [Browse →](./crypto/) |
+| 📊 **Data** | 183 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 166 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 118 | [Browse →](./mobile/) |
 | 💳 **Payments** | 111 | [Browse →](./payments/) |
-| 📈 **Trading** | 85 | [Browse →](./trading/) |
+| 📈 **Trading** | 86 | [Browse →](./trading/) |
 | 🔐 **Security** | 77 | [Browse →](./security/) |
 | ✨ **Design** | 28 | [Browse →](./design/) |
 | 🎯 **Product** | 22 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [shadcn-ui/ui](./aiml/shadcn-ui-ui.md) | ⭐ 113.1k | AI/ML |
-| 2 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 3 | [hibernate/hibernate-orm](./data/hibernate-hibernate-orm.md) | ⭐ 6.4k | Data |
-| 4 | [ZhuLinsen/daily_stock_analysis](./trading/zhulinsen-daily-stock-analysis.md) | ⭐ 31.8k | Trading |
-| 5 | [getsentry/sentry-javascript](./frontend/getsentry-sentry-javascript.md) | ⭐ 8.6k | Frontend |
-| 6 | [hellodigua/ChatLab](./aiml/hellodigua-chatlab.md) | ⭐ 6.1k | AI/ML |
-| 7 | [storybookjs/storybook](./aiml/storybookjs-storybook.md) | ⭐ 89.8k | AI/ML |
-| 8 | [cryptomator/cryptomator](./crypto/cryptomator-cryptomator.md) | ⭐ 15k | Crypto |
-| 9 | [etcd-io/etcd](./data/etcd-io-etcd.md) | ⭐ 51.6k | Data |
-| 10 | [volcano-sh/volcano](./aiml/volcano-sh-volcano.md) | ⭐ 5.5k | AI/ML |
+| 1 | [AdguardTeam/AdGuardHome](./frontend/adguardteam-adguardhome.md) | ⭐ 33.7k | Frontend |
+| 2 | [shadcn-ui/ui](./aiml/shadcn-ui-ui.md) | ⭐ 113.1k | AI/ML |
+| 3 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 4 | [vxcontrol/pentagi](./orchestration/vxcontrol-pentagi.md) | ⭐ 15.9k | Orchestration |
+| 5 | [leon-ai/leon](./aiml/leon-ai-leon.md) | ⭐ 17.2k | AI/ML |
+| 6 | [cri-o/cri-o](./aiml/cri-o-cri-o.md) | ⭐ 5.6k | AI/ML |
+| 7 | [k2-fsa/sherpa-onnx](./backend/k2-fsa-sherpa-onnx.md) | ⭐ 11.9k | Backend |
+| 8 | [gogs/gogs](./aiml/gogs-gogs.md) | ⭐ 47.5k | AI/ML |
+| 9 | [microsoft/terminal](./misc/microsoft-terminal.md) | ⭐ 102.9k | Misc |
+| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
 
 ## 🚀 How it works
 

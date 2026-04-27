@@ -1,6 +1,6 @@
 # Taltzipi/live-hooks
 
-[![Stars](https://img.shields.io/github/stars/Taltzipi/live-hooks?style=flat-square&color=yellow)](https://github.com/Taltzipi/live-hooks/stargazers) [![Forks](https://img.shields.io/github/forks/Taltzipi/live-hooks?style=flat-square&color=blue)](https://github.com/Taltzipi/live-hooks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Taltzipi/live-hooks?style=flat-square&color=yellow)](https://github.com/Taltzipi/live-hooks/stargazers) [![Forks](https://img.shields.io/github/forks/Taltzipi/live-hooks?style=flat-square&color=blue)](https://github.com/Taltzipi/live-hooks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight hook wrappers for stale-safe async React
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

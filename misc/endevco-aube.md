@@ -1,6 +1,6 @@
 # endevco/aube
 
-[![Stars](https://img.shields.io/github/stars/endevco/aube?style=flat-square&color=yellow)](https://github.com/endevco/aube/stargazers) [![Forks](https://img.shields.io/github/forks/endevco/aube?style=flat-square&color=blue)](https://github.com/endevco/aube/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/endevco/aube?style=flat-square&color=yellow)](https://github.com/endevco/aube/stargazers) [![Forks](https://img.shields.io/github/forks/endevco/aube?style=flat-square&color=blue)](https://github.com/endevco/aube/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A fast Node.js package manager
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 608 |
+| ⭐ **Stars** | 615 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

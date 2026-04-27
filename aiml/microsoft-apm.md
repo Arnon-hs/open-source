@@ -1,6 +1,6 @@
 # microsoft/apm
 
-[![Stars](https://img.shields.io/github/stars/microsoft/apm?style=flat-square&color=yellow)](https://github.com/microsoft/apm/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/apm?style=flat-square&color=blue)](https://github.com/microsoft/apm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/apm?style=flat-square&color=yellow)](https://github.com/microsoft/apm/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/apm?style=flat-square&color=blue)](https://github.com/microsoft/apm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Package Manager
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 145 |
+| 🍴 **Forks** | 146 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
