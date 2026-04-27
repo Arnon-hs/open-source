@@ -1,6 +1,6 @@
 # lets-mica/mica
 
-[![Stars](https://img.shields.io/github/stars/lets-mica/mica?style=flat-square&color=yellow)](https://github.com/lets-mica/mica/stargazers) [![Forks](https://img.shields.io/github/forks/lets-mica/mica?style=flat-square&color=blue)](https://github.com/lets-mica/mica/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lets-mica/mica?style=flat-square&color=yellow)](https://github.com/lets-mica/mica/stargazers) [![Forks](https://img.shields.io/github/forks/lets-mica/mica?style=flat-square&color=blue)](https://github.com/lets-mica/mica/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Spring Cloud 微服务开发核心工具集。工具类、验证码、http、redis、ip2region、xss 等，开箱即用。 🔝 🔝 记得右上角点个star 关注更新！
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 376 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

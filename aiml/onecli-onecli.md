@@ -1,6 +1,6 @@
 # onecli/onecli
 
-[![Stars](https://img.shields.io/github/stars/onecli/onecli?style=flat-square&color=yellow)](https://github.com/onecli/onecli/stargazers) [![Forks](https://img.shields.io/github/forks/onecli/onecli?style=flat-square&color=blue)](https://github.com/onecli/onecli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onecli/onecli?style=flat-square&color=yellow)](https://github.com/onecli/onecli/stargazers) [![Forks](https://img.shields.io/github/forks/onecli/onecli?style=flat-square&color=blue)](https://github.com/onecli/onecli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source credential vault, give your AI agents access to services without exposing keys.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 97 |
+| 🍴 **Forks** | 98 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

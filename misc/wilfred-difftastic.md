@@ -1,6 +1,6 @@
 # Wilfred/difftastic
 
-[![Stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=flat-square&color=yellow)](https://github.com/Wilfred/difftastic/stargazers) [![Forks](https://img.shields.io/github/forks/Wilfred/difftastic?style=flat-square&color=blue)](https://github.com/Wilfred/difftastic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=flat-square&color=yellow)](https://github.com/Wilfred/difftastic/stargazers) [![Forks](https://img.shields.io/github/forks/Wilfred/difftastic?style=flat-square&color=blue)](https://github.com/Wilfred/difftastic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > a structural diff that understands syntax 🟥🟩
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 25.1k |
-| 🍴 **Forks** | 466 |
+| 🍴 **Forks** | 467 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

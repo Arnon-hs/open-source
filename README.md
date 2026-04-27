@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **7857** |
+| 🗂️ **Total projects** | **7910** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3024 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1464 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 793 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 669 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 448 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 439 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 268 | [Browse →](./crypto/) |
-| 📊 **Data** | 170 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 147 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 3044 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1471 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 798 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 674 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 451 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 443 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 272 | [Browse →](./crypto/) |
+| 📊 **Data** | 171 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 149 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 112 | [Browse →](./mobile/) |
-| 💳 **Payments** | 109 | [Browse →](./payments/) |
+| 💳 **Payments** | 110 | [Browse →](./payments/) |
 | 📈 **Trading** | 79 | [Browse →](./trading/) |
 | 🔐 **Security** | 74 | [Browse →](./security/) |
-| ✨ **Design** | 27 | [Browse →](./design/) |
+| ✨ **Design** | 28 | [Browse →](./design/) |
 | 🎯 **Product** | 21 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 13 | [Browse →](./marketing/) |
 
@@ -42,13 +42,13 @@
 | 1 | [x-extends/vxe-table](./frontend/x-extends-vxe-table.md) | ⭐ 8.6k | Frontend |
 | 2 | [MarlinFirmware/Marlin](./frontend/marlinfirmware-marlin.md) | ⭐ 17.4k | Frontend |
 | 3 | [reflex-dev/reflex](./frontend/reflex-dev-reflex.md) | ⭐ 28.3k | Frontend |
-| 4 | [arendst/Tasmota](./frontend/arendst-tasmota.md) | ⭐ 24.3k | Frontend |
-| 5 | [lichess-org/lila](./backend/lichess-org-lila.md) | ⭐ 18.1k | Backend |
-| 6 | [rclone/rclone](./aiml/rclone-rclone.md) | ⭐ 56.9k | AI/ML |
-| 7 | [secdev/scapy](./security/secdev-scapy.md) | ⭐ 12.2k | Security |
-| 8 | [RT-Thread/rt-thread](./aiml/rt-thread-rt-thread.md) | ⭐ 11.9k | AI/ML |
-| 9 | [tw93/Mole](./aiml/tw93-mole.md) | ⭐ 49.2k | AI/ML |
-| 10 | [langchain-ai/langgraph](./orchestration/langchain-ai-langgraph.md) | ⭐ 30.5k | Orchestration |
+| 4 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 5 | [arendst/Tasmota](./frontend/arendst-tasmota.md) | ⭐ 24.3k | Frontend |
+| 6 | [secdev/scapy](./security/secdev-scapy.md) | ⭐ 12.2k | Security |
+| 7 | [azerothcore/azerothcore-wotlk](./backend/azerothcore-azerothcore-wotlk.md) | ⭐ 8.2k | Backend |
+| 8 | [elizaOS/eliza](./crypto/elizaos-eliza.md) | ⭐ 18.2k | Crypto |
+| 9 | [SimplifyJobs/New-Grad-Positions](./trading/simplifyjobs-new-grad-positions.md) | ⭐ 16.8k | Trading |
+| 10 | [huggingface/transformers](./crypto/huggingface-transformers.md) | ⭐ 160k | Crypto |
 
 ## 🚀 How it works
 

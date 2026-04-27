@@ -1,6 +1,6 @@
 # dfinity/sdk
 
-[![Stars](https://img.shields.io/github/stars/dfinity/sdk?style=flat-square&color=yellow)](https://github.com/dfinity/sdk/stargazers) [![Forks](https://img.shields.io/github/forks/dfinity/sdk?style=flat-square&color=blue)](https://github.com/dfinity/sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dfinity/sdk?style=flat-square&color=yellow)](https://github.com/dfinity/sdk/stargazers) [![Forks](https://img.shields.io/github/forks/dfinity/sdk?style=flat-square&color=blue)](https://github.com/dfinity/sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > IC SDK: a Software Development Kit for creating and managing canister smart contracts on the ICP blockchain.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

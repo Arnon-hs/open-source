@@ -1,6 +1,6 @@
 # square/kotlinpoet
 
-[![Stars](https://img.shields.io/github/stars/square/kotlinpoet?style=flat-square&color=yellow)](https://github.com/square/kotlinpoet/stargazers) [![Forks](https://img.shields.io/github/forks/square/kotlinpoet?style=flat-square&color=blue)](https://github.com/square/kotlinpoet/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/square/kotlinpoet?style=flat-square&color=yellow)](https://github.com/square/kotlinpoet/stargazers) [![Forks](https://img.shields.io/github/forks/square/kotlinpoet?style=flat-square&color=blue)](https://github.com/square/kotlinpoet/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A Kotlin API for generating .kt source files.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 307 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

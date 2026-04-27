@@ -1,6 +1,6 @@
 # CoreWCF/CoreWCF
 
-[![Stars](https://img.shields.io/github/stars/CoreWCF/CoreWCF?style=flat-square&color=yellow)](https://github.com/CoreWCF/CoreWCF/stargazers) [![Forks](https://img.shields.io/github/forks/CoreWCF/CoreWCF?style=flat-square&color=blue)](https://github.com/CoreWCF/CoreWCF/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CoreWCF/CoreWCF?style=flat-square&color=yellow)](https://github.com/CoreWCF/CoreWCF/stargazers) [![Forks](https://img.shields.io/github/forks/CoreWCF/CoreWCF?style=flat-square&color=blue)](https://github.com/CoreWCF/CoreWCF/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Main repository for the Core WCF project
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 315 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

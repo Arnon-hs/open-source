@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**27 projects** in this category.
+**28 projects** in this category.
 
 ## Projects
 
@@ -30,11 +30,12 @@
 | 20 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
 | 21 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 209 | PHP | 52/100 |
 | 22 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 225 | Go | 52/100 |
-| 23 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 457 | Go | 49/100 |
+| 23 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 600 | PHP | 50/100 |
 | 24 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 435 | JavaScript | 49/100 |
-| 25 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
-| 26 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 190 | Go | 48/100 |
-| 27 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 522 | Python | 46/100 |
+| 25 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 457 | Go | 49/100 |
+| 26 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
+| 27 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 192 | Go | 48/100 |
+| 28 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 522 | Python | 46/100 |
 
 ---
 
