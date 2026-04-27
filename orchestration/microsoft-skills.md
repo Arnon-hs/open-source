@@ -1,6 +1,6 @@
 # microsoft/skills
 
-[![Stars](https://img.shields.io/github/stars/microsoft/skills?style=flat-square&color=yellow)](https://github.com/microsoft/skills/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/skills?style=flat-square&color=blue)](https://github.com/microsoft/skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/skills?style=flat-square&color=yellow)](https://github.com/microsoft/skills/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/skills?style=flat-square&color=blue)](https://github.com/microsoft/skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 245 |
+| 🍴 **Forks** | 246 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

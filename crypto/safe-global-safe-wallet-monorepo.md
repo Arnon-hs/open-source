@@ -1,6 +1,6 @@
 # safe-global/safe-wallet-monorepo
 
-[![Stars](https://img.shields.io/github/stars/safe-global/safe-wallet-monorepo?style=flat-square&color=yellow)](https://github.com/safe-global/safe-wallet-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/safe-global/safe-wallet-monorepo?style=flat-square&color=blue)](https://github.com/safe-global/safe-wallet-monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/safe-global/safe-wallet-monorepo?style=flat-square&color=yellow)](https://github.com/safe-global/safe-wallet-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/safe-global/safe-wallet-monorepo?style=flat-square&color=blue)](https://github.com/safe-global/safe-wallet-monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Safe{Wallet} – smart account wallet
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 560 |
 | 🍴 **Forks** | 638 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # virtualagc/virtualagc
 
-[![Stars](https://img.shields.io/github/stars/virtualagc/virtualagc?style=flat-square&color=yellow)](https://github.com/virtualagc/virtualagc/stargazers) [![Forks](https://img.shields.io/github/forks/virtualagc/virtualagc?style=flat-square&color=blue)](https://github.com/virtualagc/virtualagc/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/virtualagc/virtualagc?style=flat-square&color=yellow)](https://github.com/virtualagc/virtualagc/stargazers) [![Forks](https://img.shields.io/github/forks/virtualagc/virtualagc?style=flat-square&color=blue)](https://github.com/virtualagc/virtualagc/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Virtual Apollo Guidance Computer (AGC) software
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 388 |
 | 💻 **Language** | Assembly |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

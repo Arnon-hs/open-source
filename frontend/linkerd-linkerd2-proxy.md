@@ -1,6 +1,6 @@
 # linkerd/linkerd2-proxy
 
-[![Stars](https://img.shields.io/github/stars/linkerd/linkerd2-proxy?style=flat-square&color=yellow)](https://github.com/linkerd/linkerd2-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/linkerd/linkerd2-proxy?style=flat-square&color=blue)](https://github.com/linkerd/linkerd2-proxy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linkerd/linkerd2-proxy?style=flat-square&color=yellow)](https://github.com/linkerd/linkerd2-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/linkerd/linkerd2-proxy?style=flat-square&color=blue)](https://github.com/linkerd/linkerd2-proxy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A purpose-built proxy for the Linkerd service mesh. Written in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 291 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

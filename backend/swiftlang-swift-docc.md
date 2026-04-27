@@ -1,6 +1,6 @@
 # swiftlang/swift-docc
 
-[![Stars](https://img.shields.io/github/stars/swiftlang/swift-docc?style=flat-square&color=yellow)](https://github.com/swiftlang/swift-docc/stargazers) [![Forks](https://img.shields.io/github/forks/swiftlang/swift-docc?style=flat-square&color=blue)](https://github.com/swiftlang/swift-docc/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swiftlang/swift-docc?style=flat-square&color=yellow)](https://github.com/swiftlang/swift-docc/stargazers) [![Forks](https://img.shields.io/github/forks/swiftlang/swift-docc?style=flat-square&color=blue)](https://github.com/swiftlang/swift-docc/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

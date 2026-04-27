@@ -2,31 +2,31 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**191 projects** in this category.
+**192 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [yugabyte/yugabyte-db](./yugabyte-yugabyte-db.md) | ⭐ 10.2k | C | 100/100 |
-| 2 | [apache/hudi](./apache-hudi.md) | ⭐ 6.1k | Java | 100/100 |
+| 2 | [apache/hudi](./apache-hudi.md) | ⭐ 6.2k | Java | 100/100 |
 | 3 | [apache/datafusion](./apache-datafusion.md) | ⭐ 8.7k | Rust | 100/100 |
 | 4 | [apache/beam](./apache-beam.md) | ⭐ 8.6k | Java | 100/100 |
 | 5 | [etcd-io/etcd](./etcd-io-etcd.md) | ⭐ 51.6k | Go | 100/100 |
 | 6 | [hibernate/hibernate-orm](./hibernate-hibernate-orm.md) | ⭐ 6.4k | Java | 100/100 |
 | 7 | [pola-rs/polars](./pola-rs-polars.md) | ⭐ 38.3k | Rust | 100/100 |
 | 8 | [mickael-kerjean/filestash](./mickael-kerjean-filestash.md) | ⭐ 14.1k | Go | 100/100 |
-| 9 | [trinodb/trino](./trinodb-trino.md) | ⭐ 12.8k | Java | 100/100 |
-| 10 | [icsharpcode/ILSpy](./icsharpcode-ilspy.md) | ⭐ 25k | C# | 100/100 |
-| 11 | [debezium/debezium](./debezium-debezium.md) | ⭐ 12.7k | Java | 100/100 |
-| 12 | [protocolbuffers/protobuf](./protocolbuffers-protobuf.md) | ⭐ 71.2k | C++ | 100/100 |
-| 13 | [hazelcast/hazelcast](./hazelcast-hazelcast.md) | ⭐ 6.6k | Java | 100/100 |
-| 14 | [VictoriaMetrics/VictoriaMetrics](./victoriametrics-victoriametrics.md) | ⭐ 16.9k | Go | 100/100 |
-| 15 | [zalando/postgres-operator](./zalando-postgres-operator.md) | ⭐ 5.1k | Go | 100/100 |
-| 16 | [prestodb/presto](./prestodb-presto.md) | ⭐ 16.7k | Java | 100/100 |
-| 17 | [apache/spark](./apache-spark.md) | ⭐ 43.2k | Scala | 100/100 |
-| 18 | [cython/cython](./cython-cython.md) | ⭐ 10.7k | Cython | 100/100 |
-| 19 | [tikv/tikv](./tikv-tikv.md) | ⭐ 16.6k | Rust | 100/100 |
+| 9 | [VictoriaMetrics/VictoriaMetrics](./victoriametrics-victoriametrics.md) | ⭐ 16.9k | Go | 100/100 |
+| 10 | [trinodb/trino](./trinodb-trino.md) | ⭐ 12.8k | Java | 100/100 |
+| 11 | [icsharpcode/ILSpy](./icsharpcode-ilspy.md) | ⭐ 25k | C# | 100/100 |
+| 12 | [debezium/debezium](./debezium-debezium.md) | ⭐ 12.7k | Java | 100/100 |
+| 13 | [zalando/postgres-operator](./zalando-postgres-operator.md) | ⭐ 5.1k | Go | 100/100 |
+| 14 | [protocolbuffers/protobuf](./protocolbuffers-protobuf.md) | ⭐ 71.2k | C++ | 100/100 |
+| 15 | [hazelcast/hazelcast](./hazelcast-hazelcast.md) | ⭐ 6.6k | Java | 100/100 |
+| 16 | [tikv/tikv](./tikv-tikv.md) | ⭐ 16.6k | Rust | 100/100 |
+| 17 | [prestodb/presto](./prestodb-presto.md) | ⭐ 16.7k | Java | 100/100 |
+| 18 | [apache/spark](./apache-spark.md) | ⭐ 43.2k | Scala | 100/100 |
+| 19 | [cython/cython](./cython-cython.md) | ⭐ 10.7k | Cython | 100/100 |
 | 20 | [apache/shardingsphere](./apache-shardingsphere.md) | ⭐ 20.7k | Java | 100/100 |
 | 21 | [glpi-project/glpi](./glpi-project-glpi.md) | ⭐ 5.8k | PHP | 100/100 |
 | 22 | [dataease/dataease](./dataease-dataease.md) | ⭐ 23.9k | Java | 100/100 |
@@ -46,8 +46,8 @@
 | 36 | [EndlessCheng/codeforces-go](./endlesscheng-codeforces-go.md) | ⭐ 8.4k | Go | 97/100 |
 | 37 | [apache/flink](./apache-flink.md) | ⭐ 26k | Java | 97/100 |
 | 38 | [mdn/browser-compat-data](./mdn-browser-compat-data.md) | ⭐ 5.6k | JSON | 96/100 |
-| 39 | [scikit-learn/scikit-learn](./scikit-learn-scikit-learn.md) | ⭐ 65.9k | Python | 96/100 |
-| 40 | [mongodb/mongo-go-driver](./mongodb-mongo-go-driver.md) | ⭐ 8.5k | Go | 96/100 |
+| 39 | [mongodb/mongo-go-driver](./mongodb-mongo-go-driver.md) | ⭐ 8.5k | Go | 96/100 |
+| 40 | [scikit-learn/scikit-learn](./scikit-learn-scikit-learn.md) | ⭐ 65.9k | Python | 96/100 |
 | 41 | [apple/foundationdb](./apple-foundationdb.md) | ⭐ 16.3k | C++ | 96/100 |
 | 42 | [sacridini/Awesome-Geospatial](./sacridini-awesome-geospatial.md) | ⭐ 5k | — | 96/100 |
 | 43 | [grocy/grocy](./grocy-grocy.md) | ⭐ 9k | JavaScript | 96/100 |
@@ -60,8 +60,8 @@
 | 50 | [python-visualization/folium](./python-visualization-folium.md) | ⭐ 7.4k | Python | 92/100 |
 | 51 | [apache/pinot](./apache-pinot.md) | ⭐ 6.1k | Java | 91/100 |
 | 52 | [paradedb/paradedb](./paradedb-paradedb.md) | ⭐ 8.7k | Rust | 91/100 |
-| 53 | [Fyrd/caniuse](./fyrd-caniuse.md) | ⭐ 5.8k | JSON | 90/100 |
-| 54 | [google/osv-scanner](./google-osv-scanner.md) | ⭐ 9.9k | Go | 90/100 |
+| 53 | [google/osv-scanner](./google-osv-scanner.md) | ⭐ 9.9k | Go | 90/100 |
+| 54 | [Fyrd/caniuse](./fyrd-caniuse.md) | ⭐ 5.8k | JSON | 90/100 |
 | 55 | [crate/crate](./crate-crate.md) | ⭐ 4.4k | Java | 90/100 |
 | 56 | [enso-org/enso](./enso-org-enso.md) | ⭐ 7.4k | Java | 90/100 |
 | 57 | [jackvale/rectg](./jackvale-rectg.md) | ⭐ 8.7k | Python | 89/100 |
@@ -69,8 +69,8 @@
 | 59 | [Openpanel-dev/openpanel](./openpanel-dev-openpanel.md) | ⭐ 5.7k | TypeScript | 88/100 |
 | 60 | [pgmpy/pgmpy](./pgmpy-pgmpy.md) | ⭐ 3.3k | Python | 88/100 |
 | 61 | [gristlabs/grist-core](./gristlabs-grist-core.md) | ⭐ 11k | TypeScript | 87/100 |
-| 62 | [facebookincubator/velox](./facebookincubator-velox.md) | ⭐ 4.1k | C++ | 86/100 |
-| 63 | [loro-dev/loro](./loro-dev-loro.md) | ⭐ 5.6k | Rust | 86/100 |
+| 62 | [loro-dev/loro](./loro-dev-loro.md) | ⭐ 5.6k | Rust | 86/100 |
+| 63 | [facebookincubator/velox](./facebookincubator-velox.md) | ⭐ 4.1k | C++ | 86/100 |
 | 64 | [NLnetLabs/unbound](./nlnetlabs-unbound.md) | ⭐ 4.5k | C | 84/100 |
 | 65 | [PRQL/prql](./prql-prql.md) | ⭐ 10.8k | Rust | 83/100 |
 | 66 | [arp242/goatcounter](./arp242-goatcounter.md) | ⭐ 5.7k | Go | 83/100 |
@@ -101,15 +101,15 @@
 | 91 | [pymc-labs/pymc-marketing](./pymc-labs-pymc-marketing.md) | ⭐ 1.1k | Python | 64/100 |
 | 92 | [OSGeo/grass](./osgeo-grass.md) | ⭐ 1.1k | C | 64/100 |
 | 93 | [skrub-data/skrub](./skrub-data-skrub.md) | ⭐ 1.6k | Python | 64/100 |
-| 94 | [ChurchCRM/CRM](./churchcrm-crm.md) | ⭐ 869 | PHP | 64/100 |
-| 95 | [aardappel/treesheets](./aardappel-treesheets.md) | ⭐ 3k | C++ | 64/100 |
+| 94 | [aardappel/treesheets](./aardappel-treesheets.md) | ⭐ 3k | C++ | 64/100 |
+| 95 | [ChurchCRM/CRM](./churchcrm-crm.md) | ⭐ 869 | PHP | 64/100 |
 | 96 | [Bouni/kicad-jlcpcb-tools](./bouni-kicad-jlcpcb-tools.md) | ⭐ 1.9k | Python | 64/100 |
 | 97 | [perses/perses](./perses-perses.md) | ⭐ 2.1k | Go | 64/100 |
 | 98 | [facebook/openzl](./facebook-openzl.md) | ⭐ 3k | C | 63/100 |
 | 99 | [Danny-Dasilva/CycleTLS](./danny-dasilva-cycletls.md) | ⭐ 1.4k | Go | 63/100 |
 | 100 | [ultralytics/JSON2YOLO](./ultralytics-json2yolo.md) | ⭐ 1.2k | Python | 62/100 |
-| 101 | [replikativ/datahike](./replikativ-datahike.md) | ⭐ 1.8k | Clojure | 61/100 |
-| 102 | [mdqinc/SDL_GameControllerDB](./mdqinc-sdl-gamecontrollerdb.md) | ⭐ 1.7k | Python | 61/100 |
+| 101 | [mdqinc/SDL_GameControllerDB](./mdqinc-sdl-gamecontrollerdb.md) | ⭐ 1.7k | Python | 61/100 |
+| 102 | [replikativ/datahike](./replikativ-datahike.md) | ⭐ 1.8k | Clojure | 61/100 |
 | 103 | [iptv-org/database](./iptv-org-database.md) | ⭐ 1.3k | JavaScript | 61/100 |
 | 104 | [WerWolv/ImHex-Patterns](./werwolv-imhex-patterns.md) | ⭐ 955 | Rust | 61/100 |
 | 105 | [OpenMS/OpenMS](./openms-openms.md) | ⭐ 587 | C++ | 61/100 |
@@ -125,25 +125,25 @@
 | 115 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 603 | PHP | 58/100 |
 | 116 | [DataDog/helm-charts](./datadog-helm-charts.md) | ⭐ 418 | Go | 58/100 |
 | 117 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 1.7k | PHP | 58/100 |
-| 118 | [liweiyi88/onedump](./liweiyi88-onedump.md) | ⭐ 961 | Go | 58/100 |
-| 119 | [sassanix/Warracker](./sassanix-warracker.md) | ⭐ 1.4k | JavaScript | 58/100 |
+| 118 | [sassanix/Warracker](./sassanix-warracker.md) | ⭐ 1.4k | JavaScript | 58/100 |
+| 119 | [liweiyi88/onedump](./liweiyi88-onedump.md) | ⭐ 961 | Go | 58/100 |
 | 120 | [apache/datafusion-comet](./apache-datafusion-comet.md) | ⭐ 1.2k | Rust | 58/100 |
 | 121 | [percona/pmm](./percona-pmm.md) | ⭐ 1k | Go | 58/100 |
 | 122 | [24eme/signaturepdf](./24eme-signaturepdf.md) | ⭐ 777 | JavaScript | 57/100 |
-| 123 | [klsdf/GreenResourcesManager](./klsdf-greenresourcesmanager.md) | ⭐ 885 | JavaScript | 57/100 |
-| 124 | [topling/toplingdb](./topling-toplingdb.md) | ⭐ 1k | C++ | 57/100 |
-| 125 | [unicode-org/cldr](./unicode-org-cldr.md) | ⭐ 1.1k | Java | 57/100 |
+| 123 | [unicode-org/cldr](./unicode-org-cldr.md) | ⭐ 1.1k | Java | 57/100 |
+| 124 | [klsdf/GreenResourcesManager](./klsdf-greenresourcesmanager.md) | ⭐ 885 | JavaScript | 57/100 |
+| 125 | [topling/toplingdb](./topling-toplingdb.md) | ⭐ 1k | C++ | 57/100 |
 | 126 | [oxigraph/oxigraph](./oxigraph-oxigraph.md) | ⭐ 1.6k | Rust | 57/100 |
 | 127 | [databricks/terraform-provider-databricks](./databricks-terraform-provider-databricks.md) | ⭐ 586 | Go | 57/100 |
 | 128 | [scverse/anndata](./scverse-anndata.md) | ⭐ 735 | Python | 57/100 |
-| 129 | [y-scope/clp](./y-scope-clp.md) | ⭐ 1.1k | C++ | 56/100 |
-| 130 | [pass-with-high-score/blockads-android](./pass-with-high-score-blockads-android.md) | ⭐ 797 | Kotlin | 56/100 |
-| 131 | [merenlab/anvio](./merenlab-anvio.md) | ⭐ 515 | Python | 56/100 |
-| 132 | [visit-dav/visit](./visit-dav-visit.md) | ⭐ 512 | C | 56/100 |
+| 129 | [visit-dav/visit](./visit-dav-visit.md) | ⭐ 512 | C | 56/100 |
+| 130 | [y-scope/clp](./y-scope-clp.md) | ⭐ 1.1k | C++ | 56/100 |
+| 131 | [pass-with-high-score/blockads-android](./pass-with-high-score-blockads-android.md) | ⭐ 799 | Kotlin | 56/100 |
+| 132 | [merenlab/anvio](./merenlab-anvio.md) | ⭐ 515 | Python | 56/100 |
 | 133 | [tryandromeda/andromeda](./tryandromeda-andromeda.md) | ⭐ 813 | Rust | 56/100 |
-| 134 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 497 | R | 55/100 |
-| 135 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 607 | Rust | 55/100 |
-| 136 | [Desbordante/desbordante-core](./desbordante-desbordante-core.md) | ⭐ 475 | C++ | 55/100 |
+| 134 | [Desbordante/desbordante-core](./desbordante-desbordante-core.md) | ⭐ 475 | C++ | 55/100 |
+| 135 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 497 | R | 55/100 |
+| 136 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 607 | Rust | 55/100 |
 | 137 | [MarkMoHR/Awesome-Sketch-Synthesis](./markmohr-awesome-sketch-synthesis.md) | ⭐ 560 | — | 55/100 |
 | 138 | [freelawproject/courtlistener](./freelawproject-courtlistener.md) | ⭐ 906 | Python | 55/100 |
 | 139 | [duggytuxy/Data-Shield_IPv4_Blocklist](./duggytuxy-data-shield-ipv4-blocklist.md) | ⭐ 569 | — | 55/100 |
@@ -169,36 +169,37 @@
 | 159 | [simpledms/simpledms](./simpledms-simpledms.md) | ⭐ 134 | Go | 51/100 |
 | 160 | [techouse/mysql-to-sqlite3](./techouse-mysql-to-sqlite3.md) | ⭐ 266 | Python | 51/100 |
 | 161 | [datafolklabs/cement](./datafolklabs-cement.md) | ⭐ 1.3k | Python | 51/100 |
-| 162 | [flanglet/kanzi-go](./flanglet-kanzi-go.md) | ⭐ 624 | Go | 51/100 |
-| 163 | [qiantongtech/qData](./qiantongtech-qdata.md) | ⭐ 409 | Java | 51/100 |
+| 162 | [qiantongtech/qData](./qiantongtech-qdata.md) | ⭐ 409 | Java | 51/100 |
+| 163 | [flanglet/kanzi-go](./flanglet-kanzi-go.md) | ⭐ 624 | Go | 51/100 |
 | 164 | [neondatabase/website](./neondatabase-website.md) | ⭐ 309 | JavaScript | 51/100 |
 | 165 | [yomidevs/wiktionary-to-yomitan](./yomidevs-wiktionary-to-yomitan.md) | ⭐ 169 | Rust | 51/100 |
 | 166 | [ydb-platform/ydb-go-sdk](./ydb-platform-ydb-go-sdk.md) | ⭐ 178 | Go | 50/100 |
-| 167 | [dataform-co/dataform](./dataform-co-dataform.md) | ⭐ 972 | TypeScript | 50/100 |
-| 168 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 103 | Rust | 50/100 |
-| 169 | [OpenGeoscience/geojs](./opengeoscience-geojs.md) | ⭐ 470 | JavaScript | 50/100 |
+| 167 | [OpenGeoscience/geojs](./opengeoscience-geojs.md) | ⭐ 470 | JavaScript | 50/100 |
+| 168 | [dataform-co/dataform](./dataform-co-dataform.md) | ⭐ 972 | TypeScript | 50/100 |
+| 169 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 103 | Rust | 50/100 |
 | 170 | [mus-format/mus-go](./mus-format-mus-go.md) | ⭐ 137 | Go | 50/100 |
 | 171 | [ormsgpack/ormsgpack](./ormsgpack-ormsgpack.md) | ⭐ 388 | Rust | 49/100 |
-| 172 | [ankane/ruby-polars](./ankane-ruby-polars.md) | ⭐ 984 | Ruby | 48/100 |
-| 173 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 157 | Rust | 48/100 |
-| 174 | [JuliaData/XLSX.jl](./juliadata-xlsx.jl.md) | ⭐ 307 | Julia | 48/100 |
-| 175 | [SkBlaz/py3plex](./skblaz-py3plex.md) | ⭐ 181 | Python | 48/100 |
-| 176 | [Trendyol/go-pq-cdc](./trendyol-go-pq-cdc.md) | ⭐ 175 | Go | 47/100 |
+| 172 | [estuary/flow](./estuary-flow.md) | ⭐ 910 | Rust | 48/100 |
+| 173 | [ankane/ruby-polars](./ankane-ruby-polars.md) | ⭐ 984 | Ruby | 48/100 |
+| 174 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 157 | Rust | 48/100 |
+| 175 | [JuliaData/XLSX.jl](./juliadata-xlsx.jl.md) | ⭐ 307 | Julia | 48/100 |
+| 176 | [SkBlaz/py3plex](./skblaz-py3plex.md) | ⭐ 181 | Python | 48/100 |
 | 177 | [egraphs-good/egglog](./egraphs-good-egglog.md) | ⭐ 741 | Rust | 47/100 |
 | 178 | [RetroAchievements/RAWeb](./retroachievements-raweb.md) | ⭐ 392 | PHP | 47/100 |
-| 179 | [planetopendata/awesome-sqlite](./planetopendata-awesome-sqlite.md) | ⭐ 394 | — | 47/100 |
-| 180 | [JanKaul/iceberg-rust](./jankaul-iceberg-rust.md) | ⭐ 236 | Rust | 47/100 |
-| 181 | [Open-Industry-Project/Open-Industry-Project](./open-industry-project-open-industry-project.md) | ⭐ 690 | GDScript | 46/100 |
-| 182 | [microsoft/Kusto-Query-Language](./microsoft-kusto-query-language.md) | ⭐ 656 | C# | 46/100 |
-| 183 | [VCVRack/library](./vcvrack-library.md) | ⭐ 424 | Python | 44/100 |
-| 184 | [embassy-rs/stm32-data](./embassy-rs-stm32-data.md) | ⭐ 128 | Rust | 44/100 |
-| 185 | [foxtrotcommunications/foxtrotcommunications-forge-core](./foxtrotcommunications-foxtrotcommunications-forge-core.md) | ⭐ 3 | Python | 44/100 |
-| 186 | [leekleak/traffic-light](./leekleak-traffic-light.md) | ⭐ 591 | Kotlin | 44/100 |
-| 187 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 43/100 |
-| 188 | [posit-dev/ggsql](./posit-dev-ggsql.md) | ⭐ 407 | Rust | 43/100 |
-| 189 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 42/100 |
-| 190 | [ferres-db/ferres-db](./ferres-db-ferres-db.md) | ⭐ — | — | 39/100 |
-| 191 | [ramongougis/WaveletLM](./ramongougis-waveletlm.md) | ⭐ 6 | Python | 36/100 |
+| 179 | [Trendyol/go-pq-cdc](./trendyol-go-pq-cdc.md) | ⭐ 175 | Go | 47/100 |
+| 180 | [planetopendata/awesome-sqlite](./planetopendata-awesome-sqlite.md) | ⭐ 394 | — | 47/100 |
+| 181 | [JanKaul/iceberg-rust](./jankaul-iceberg-rust.md) | ⭐ 236 | Rust | 47/100 |
+| 182 | [Open-Industry-Project/Open-Industry-Project](./open-industry-project-open-industry-project.md) | ⭐ 690 | GDScript | 46/100 |
+| 183 | [microsoft/Kusto-Query-Language](./microsoft-kusto-query-language.md) | ⭐ 656 | C# | 46/100 |
+| 184 | [leekleak/traffic-light](./leekleak-traffic-light.md) | ⭐ 591 | Kotlin | 44/100 |
+| 185 | [VCVRack/library](./vcvrack-library.md) | ⭐ 424 | Python | 44/100 |
+| 186 | [embassy-rs/stm32-data](./embassy-rs-stm32-data.md) | ⭐ 128 | Rust | 44/100 |
+| 187 | [foxtrotcommunications/foxtrotcommunications-forge-core](./foxtrotcommunications-foxtrotcommunications-forge-core.md) | ⭐ 3 | Python | 44/100 |
+| 188 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 43/100 |
+| 189 | [posit-dev/ggsql](./posit-dev-ggsql.md) | ⭐ 407 | Rust | 43/100 |
+| 190 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 42/100 |
+| 191 | [ferres-db/ferres-db](./ferres-db-ferres-db.md) | ⭐ — | — | 39/100 |
+| 192 | [ramongougis/WaveletLM](./ramongougis-waveletlm.md) | ⭐ 6 | Python | 36/100 |
 
 ---
 

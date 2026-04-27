@@ -1,6 +1,6 @@
 # bug0inc/passmark
 
-[![Stars](https://img.shields.io/github/stars/bug0inc/passmark?style=flat-square&color=yellow)](https://github.com/bug0inc/passmark/stargazers) [![Forks](https://img.shields.io/github/forks/bug0inc/passmark?style=flat-square&color=blue)](https://github.com/bug0inc/passmark/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bug0inc/passmark?style=flat-square&color=yellow)](https://github.com/bug0inc/passmark/stargazers) [![Forks](https://img.shields.io/github/forks/bug0inc/passmark?style=flat-square&color=blue)](https://github.com/bug0inc/passmark/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 610 |
-| 🍴 **Forks** | 81 |
+| ⭐ **Stars** | 614 |
+| 🍴 **Forks** | 85 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

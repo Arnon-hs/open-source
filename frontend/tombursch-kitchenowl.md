@@ -1,6 +1,6 @@
 # TomBursch/kitchenowl
 
-[![Stars](https://img.shields.io/github/stars/TomBursch/kitchenowl?style=flat-square&color=yellow)](https://github.com/TomBursch/kitchenowl/stargazers) [![Forks](https://img.shields.io/github/forks/TomBursch/kitchenowl?style=flat-square&color=blue)](https://github.com/TomBursch/kitchenowl/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TomBursch/kitchenowl?style=flat-square&color=yellow)](https://github.com/TomBursch/kitchenowl/stargazers) [![Forks](https://img.shields.io/github/forks/TomBursch/kitchenowl?style=flat-square&color=blue)](https://github.com/TomBursch/kitchenowl/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 191 |
+| 🍴 **Forks** | 193 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

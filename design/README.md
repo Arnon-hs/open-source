@@ -8,12 +8,12 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
-| 2 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.1k | JavaScript | 100/100 |
+| 1 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.1k | JavaScript | 100/100 |
+| 2 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
 | 3 | [roboflow/rf-detr](./roboflow-rf-detr.md) | ⭐ 6.6k | Python | 96/100 |
 | 4 | [dotnet/csharplang](./dotnet-csharplang.md) | ⭐ 12.6k | C# | 93/100 |
 | 5 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.6k | Scala | 91/100 |
-| 6 | [garrytan/gstack](./garrytan-gstack.md) | ⭐ 84.9k | TypeScript | 90/100 |
+| 6 | [garrytan/gstack](./garrytan-gstack.md) | ⭐ 85k | TypeScript | 90/100 |
 | 7 | [j178/prek](./j178-prek.md) | ⭐ 7.4k | Rust | 82/100 |
 | 8 | [tw93/Waza](./tw93-waza.md) | ⭐ 4k | Shell | 82/100 |
 | 9 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |
@@ -32,9 +32,9 @@
 | 22 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 225 | Go | 52/100 |
 | 23 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 50/100 |
 | 24 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 600 | PHP | 50/100 |
-| 25 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
-| 26 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 437 | JavaScript | 49/100 |
-| 27 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 222 | Go | 48/100 |
+| 25 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 438 | JavaScript | 49/100 |
+| 26 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
+| 27 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 225 | Go | 48/100 |
 | 28 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
 | 29 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
 | 30 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 522 | Python | 46/100 |

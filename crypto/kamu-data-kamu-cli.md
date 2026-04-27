@@ -1,6 +1,6 @@
 # kamu-data/kamu-cli
 
-[![Stars](https://img.shields.io/github/stars/kamu-data/kamu-cli?style=flat-square&color=yellow)](https://github.com/kamu-data/kamu-cli/stargazers) [![Forks](https://img.shields.io/github/forks/kamu-data/kamu-cli?style=flat-square&color=blue)](https://github.com/kamu-data/kamu-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kamu-data/kamu-cli?style=flat-square&color=yellow)](https://github.com/kamu-data/kamu-cli/stargazers) [![Forks](https://img.shields.io/github/forks/kamu-data/kamu-cli?style=flat-square&color=blue)](https://github.com/kamu-data/kamu-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Next-generation decentralized data lakehouse and a multi-party stream processing network
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 344 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

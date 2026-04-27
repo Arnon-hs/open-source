@@ -1,6 +1,6 @@
 # sagemathinc/cocalc
 
-[![Stars](https://img.shields.io/github/stars/sagemathinc/cocalc?style=flat-square&color=yellow)](https://github.com/sagemathinc/cocalc/stargazers) [![Forks](https://img.shields.io/github/forks/sagemathinc/cocalc?style=flat-square&color=blue)](https://github.com/sagemathinc/cocalc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sagemathinc/cocalc?style=flat-square&color=yellow)](https://github.com/sagemathinc/cocalc/stargazers) [![Forks](https://img.shields.io/github/forks/sagemathinc/cocalc?style=flat-square&color=blue)](https://github.com/sagemathinc/cocalc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > CoCalc: Collaborative Calculation in the Cloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

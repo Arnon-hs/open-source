@@ -1,6 +1,6 @@
 # touhidurrr/iplist-youtube
 
-[![Stars](https://img.shields.io/github/stars/touhidurrr/iplist-youtube?style=flat-square&color=yellow)](https://github.com/touhidurrr/iplist-youtube/stargazers) [![Forks](https://img.shields.io/github/forks/touhidurrr/iplist-youtube?style=flat-square&color=blue)](https://github.com/touhidurrr/iplist-youtube/network) [![Language](https://img.shields.io/badge/lang-RouterOS%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/touhidurrr/iplist-youtube?style=flat-square&color=yellow)](https://github.com/touhidurrr/iplist-youtube/stargazers) [![Forks](https://img.shields.io/github/forks/touhidurrr/iplist-youtube?style=flat-square&color=blue)](https://github.com/touhidurrr/iplist-youtube/network) [![Language](https://img.shields.io/badge/lang-RouterOS%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > An attempt to list all Youtube IPs at one place.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 377 |
+| ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | RouterOS Script |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

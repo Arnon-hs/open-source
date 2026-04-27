@@ -1,6 +1,6 @@
 # giselles-ai/giselle
 
-[![Stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=flat-square&color=yellow)](https://github.com/giselles-ai/giselle/stargazers) [![Forks](https://img.shields.io/github/forks/giselles-ai/giselle?style=flat-square&color=blue)](https://github.com/giselles-ai/giselle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=flat-square&color=yellow)](https://github.com/giselles-ai/giselle/stargazers) [![Forks](https://img.shields.io/github/forks/giselles-ai/giselle?style=flat-square&color=blue)](https://github.com/giselles-ai/giselle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Giselle: AI App Builder. Open Source.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 519 |
-| 🍴 **Forks** | 124 |
+| 🍴 **Forks** | 125 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

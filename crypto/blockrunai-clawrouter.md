@@ -1,6 +1,6 @@
 # BlockRunAI/ClawRouter
 
-[![Stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=flat-square&color=yellow)](https://github.com/BlockRunAI/ClawRouter/stargazers) [![Forks](https://img.shields.io/github/forks/BlockRunAI/ClawRouter?style=flat-square&color=blue)](https://github.com/BlockRunAI/ClawRouter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=flat-square&color=yellow)](https://github.com/BlockRunAI/ClawRouter/stargazers) [![Forks](https://img.shields.io/github/forks/BlockRunAI/ClawRouter?style=flat-square&color=blue)](https://github.com/BlockRunAI/ClawRouter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
 > The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana via x402.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.4k |
-| 🍴 **Forks** | 566 |
+| 🍴 **Forks** | 567 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 93/100 |
+| 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
