@@ -1,6 +1,6 @@
 # borisfaure/terminology
 
-[![Stars](https://img.shields.io/github/stars/borisfaure/terminology?style=flat-square&color=yellow)](https://github.com/borisfaure/terminology/stargazers) [![Forks](https://img.shields.io/github/forks/borisfaure/terminology?style=flat-square&color=blue)](https://github.com/borisfaure/terminology/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/borisfaure/terminology?style=flat-square&color=yellow)](https://github.com/borisfaure/terminology/stargazers) [![Forks](https://img.shields.io/github/forks/borisfaure/terminology?style=flat-square&color=blue)](https://github.com/borisfaure/terminology/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The best terminal emulator based on the Enlightenment Foundation Libraries
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 728 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | C |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

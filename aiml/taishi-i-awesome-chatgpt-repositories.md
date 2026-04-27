@@ -1,6 +1,6 @@
 # taishi-i/awesome-ChatGPT-repositories
 
-[![Stars](https://img.shields.io/github/stars/taishi-i/awesome-ChatGPT-repositories?style=flat-square&color=yellow)](https://github.com/taishi-i/awesome-ChatGPT-repositories/stargazers) [![Forks](https://img.shields.io/github/forks/taishi-i/awesome-ChatGPT-repositories?style=flat-square&color=blue)](https://github.com/taishi-i/awesome-ChatGPT-repositories/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taishi-i/awesome-ChatGPT-repositories?style=flat-square&color=yellow)](https://github.com/taishi-i/awesome-ChatGPT-repositories/stargazers) [![Forks](https://img.shields.io/github/forks/taishi-i/awesome-ChatGPT-repositories?style=flat-square&color=blue)](https://github.com/taishi-i/awesome-ChatGPT-repositories/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 376 |
+| 🍴 **Forks** | 377 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

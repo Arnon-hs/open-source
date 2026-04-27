@@ -1,6 +1,6 @@
 # j6k4m8/goosepaper
 
-[![Stars](https://img.shields.io/github/stars/j6k4m8/goosepaper?style=flat-square&color=yellow)](https://github.com/j6k4m8/goosepaper/stargazers) [![Forks](https://img.shields.io/github/forks/j6k4m8/goosepaper?style=flat-square&color=blue)](https://github.com/j6k4m8/goosepaper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/j6k4m8/goosepaper?style=flat-square&color=yellow)](https://github.com/j6k4m8/goosepaper/stargazers) [![Forks](https://img.shields.io/github/forks/j6k4m8/goosepaper?style=flat-square&color=blue)](https://github.com/j6k4m8/goosepaper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > generate and deliver a daily newspaper to you or your remarkable tablet
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 318 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

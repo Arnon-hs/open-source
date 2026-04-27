@@ -1,6 +1,6 @@
 # injaneity/pi-computer-use
 
-[![Stars](https://img.shields.io/github/stars/injaneity/pi-computer-use?style=flat-square&color=yellow)](https://github.com/injaneity/pi-computer-use/stargazers) [![Forks](https://img.shields.io/github/forks/injaneity/pi-computer-use?style=flat-square&color=blue)](https://github.com/injaneity/pi-computer-use/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/injaneity/pi-computer-use?style=flat-square&color=yellow)](https://github.com/injaneity/pi-computer-use/stargazers) [![Forks](https://img.shields.io/github/forks/injaneity/pi-computer-use?style=flat-square&color=blue)](https://github.com/injaneity/pi-computer-use/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > control your applications using pi-coding-agent. fully invisible.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 434 |
+| ⭐ **Stars** | 439 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

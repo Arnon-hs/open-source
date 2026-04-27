@@ -1,6 +1,6 @@
 # karafka/karafka
 
-[![Stars](https://img.shields.io/github/stars/karafka/karafka?style=flat-square&color=yellow)](https://github.com/karafka/karafka/stargazers) [![Forks](https://img.shields.io/github/forks/karafka/karafka?style=flat-square&color=blue)](https://github.com/karafka/karafka/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/karafka/karafka?style=flat-square&color=yellow)](https://github.com/karafka/karafka/stargazers) [![Forks](https://img.shields.io/github/forks/karafka/karafka?style=flat-square&color=blue)](https://github.com/karafka/karafka/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Ruby and Rails efficient Kafka processing framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

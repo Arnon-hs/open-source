@@ -1,6 +1,6 @@
 # OpenMachine-ai/transformer-tricks
 
-[![Stars](https://img.shields.io/github/stars/OpenMachine-ai/transformer-tricks?style=flat-square&color=yellow)](https://github.com/OpenMachine-ai/transformer-tricks/stargazers) [![Forks](https://img.shields.io/github/forks/OpenMachine-ai/transformer-tricks?style=flat-square&color=blue)](https://github.com/OpenMachine-ai/transformer-tricks/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenMachine-ai/transformer-tricks?style=flat-square&color=yellow)](https://github.com/OpenMachine-ai/transformer-tricks/stargazers) [![Forks](https://img.shields.io/github/forks/OpenMachine-ai/transformer-tricks?style=flat-square&color=blue)](https://github.com/OpenMachine-ai/transformer-tricks/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of tricks and tools to speed up transformer models
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 199 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

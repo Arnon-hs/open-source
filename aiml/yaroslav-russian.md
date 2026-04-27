@@ -1,6 +1,6 @@
 # yaroslav/russian
 
-[![Stars](https://img.shields.io/github/stars/yaroslav/russian?style=flat-square&color=yellow)](https://github.com/yaroslav/russian/stargazers) [![Forks](https://img.shields.io/github/forks/yaroslav/russian?style=flat-square&color=blue)](https://github.com/yaroslav/russian/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yaroslav/russian?style=flat-square&color=yellow)](https://github.com/yaroslav/russian/stargazers) [![Forks](https://img.shields.io/github/forks/yaroslav/russian?style=flat-square&color=blue)](https://github.com/yaroslav/russian/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Russian language support for Ruby and Rails: localization, date and time handling, pluralization, and improved Russian language support in Rails. | Поддержка русского языка для Ruby и Rails: локализация, работа с датой и временем, плюрализация, локализация, улучшенная поддержка русского языка в Rails.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 479 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

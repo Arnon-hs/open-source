@@ -1,6 +1,6 @@
 # davidmonterocrespo24/velxio
 
-[![Stars](https://img.shields.io/github/stars/davidmonterocrespo24/velxio?style=flat-square&color=yellow)](https://github.com/davidmonterocrespo24/velxio/stargazers) [![Forks](https://img.shields.io/github/forks/davidmonterocrespo24/velxio?style=flat-square&color=blue)](https://github.com/davidmonterocrespo24/velxio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davidmonterocrespo24/velxio?style=flat-square&color=yellow)](https://github.com/davidmonterocrespo24/velxio/stargazers) [![Forks](https://img.shields.io/github/forks/davidmonterocrespo24/velxio?style=flat-square&color=blue)](https://github.com/davidmonterocrespo24/velxio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no cloud, no limits.. Discord: https://discord.gg/3mARjJrh4E
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.7k |
+| ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

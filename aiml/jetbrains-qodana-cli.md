@@ -1,6 +1,6 @@
 # JetBrains/qodana-cli
 
-[![Stars](https://img.shields.io/github/stars/JetBrains/qodana-cli?style=flat-square&color=yellow)](https://github.com/JetBrains/qodana-cli/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/qodana-cli?style=flat-square&color=blue)](https://github.com/JetBrains/qodana-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JetBrains/qodana-cli?style=flat-square&color=yellow)](https://github.com/JetBrains/qodana-cli/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/qodana-cli?style=flat-square&color=blue)](https://github.com/JetBrains/qodana-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🔧 JetBrains Qodana’s official command line tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 228 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

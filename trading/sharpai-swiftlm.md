@@ -1,6 +1,6 @@
 # SharpAI/SwiftLM
 
-[![Stars](https://img.shields.io/github/stars/SharpAI/SwiftLM?style=flat-square&color=yellow)](https://github.com/SharpAI/SwiftLM/stargazers) [![Forks](https://img.shields.io/github/forks/SharpAI/SwiftLM?style=flat-square&color=blue)](https://github.com/SharpAI/SwiftLM/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SharpAI/SwiftLM?style=flat-square&color=yellow)](https://github.com/SharpAI/SwiftLM/stargazers) [![Forks](https://img.shields.io/github/forks/SharpAI/SwiftLM?style=flat-square&color=blue)](https://github.com/SharpAI/SwiftLM/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Native MLX Swift LLM inference server for Apple Silicon. OpenAI-compatible API, SSD streaming for 100B+ MoE models, TurboQuant KV cache compression, MACOS + iOS iPhone app.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 581 |
+| ⭐ **Stars** | 583 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
