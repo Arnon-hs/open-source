@@ -25,7 +25,7 @@ Orchestration · AI/ML · Marketing
 
 ## 📝 Summary
 
-The agent-skills project is an open-source, secure registry for validated skills of professional AI coding agents, enabling seamless extension of popular tools like Antigravity, Claude Code, Cursor, and Copilot. This registry ensures absolute confidence in AI coding capabilities, making it an invaluable resource for developers and organizations. By standardizing AI skill validation, the project facilitates streamlined integration and collaboration across various AI coding platforms.
+The agent-skills project is an open-source, secure registry for validated AI coding skills. It allows developers to extend popular AI coding agents, such as Antigravity and Copilot, with confidence in their abilities. This registry provides a standardized way to verify and utilize AI skills, enhancing collaboration and innovation in the field of AI coding.
 
 ---
 

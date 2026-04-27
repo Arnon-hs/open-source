@@ -27,7 +27,7 @@ Misc
 
 Here's a brief summary for the project:
 
-The furgit library is an open-source, low-level Git plumbing library written in pure Go. It provides a set of primitives for interacting with Git repositories, allowing developers to build custom Git tools and integrations. By offering a direct interface to Git's internal data structures, furgit simplifies the process of working with Git data programmatically.
+The furgit library is an open-source, low-level Git plumbing library written in pure Go. It provides a simple and efficient interface for accessing and manipulating Git data, allowing developers to build custom Git tools and integrations. This library serves as a foundation for building more advanced Git-related applications and services.
 
 ---
 

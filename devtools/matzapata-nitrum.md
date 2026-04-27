@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Nitrum is an open-source project that provides a Rust toolkit and CLI for working with AWS Nitro Enclaves. This toolkit aims to simplify the development and management of secure, isolated environments within the cloud. By offering a set of libraries and commands, Nitrum facilitates the creation and deployment of enclaves for various use cases.
+Nitrum is an open-source Rust toolkit and command-line interface (CLI) designed for AWS Nitro Enclaves. This project enables developers to easily create, manage, and deploy secure applications within Nitro Enclaves, providing a seamless experience for building and running sensitive workloads in the cloud. With Nitrum, users can streamline their development workflows and take advantage of the enhanced security features offered by Nitro Enclaves.
 
 ---
 

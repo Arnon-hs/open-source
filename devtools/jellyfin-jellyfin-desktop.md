@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Jellyfin Desktop Client is an open-source, cross-platform application that allows users to access and manage their Jellyfin media libraries from their desktop. This client provides a user-friendly interface for browsing, organizing, and streaming media content, ensuring seamless integration with Jellyfin's robust media management capabilities. With its open-source nature, the community can contribute to and customize the client to suit their needs.
+Here's a brief summary for the jellyfin/jellyfin-desktop project:
+
+Jellyfin Desktop Client is an open-source, cross-platform desktop application that allows users to stream and manage their media collections using the Jellyfin media server. This desktop client provides a seamless and intuitive interface for browsing, playing, and organizing media content, making it a convenient complement to the Jellyfin server software. By leveraging the Jellyfin API, the desktop client offers a robust and feature-rich experience for users.
 
 ---
 

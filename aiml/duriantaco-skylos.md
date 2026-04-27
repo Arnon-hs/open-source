@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/duriantaco/skylos?style=flat-square&color=yellow)](https://github.com/duriantaco/skylos/stargazers) [![Forks](https://img.shields.io/github/forks/duriantaco/skylos?style=flat-square&color=blue)](https://github.com/duriantaco/skylos/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable   flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.
+> Open-source PR gate for Python, TS/JS, Java, and Go. Stop merging dead code, secrets, security flows, and AI-code regressions.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend · Security
+AI/ML · Security
 
 ## 📝 Summary
 

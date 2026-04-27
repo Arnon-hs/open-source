@@ -25,9 +25,9 @@ Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the prest/prest project:
+Here's a brief summary for the open-source project:
 
-Prest is an open-source project that combines PostgreSQL with REST capabilities, simplifying and accelerating the development process of Postgres applications. By leveraging low-code functionality, Prest enables instant, real-time, and high-performance data management on any existing or new Postgres application. This integration aims to streamline backend development and data management for Postgres users.
+Prest is an open-source framework that combines PostgreSQL with RESTful APIs to simplify and accelerate the development of Postgres applications. It allows developers to build high-performance, real-time, and instant applications on top of existing or new Postgres databases, reducing the complexity and time required for development. With Prest, developers can focus on building innovative solutions rather than tedious backend infrastructure.
 
 ---
 

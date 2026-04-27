@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-EasyList/EasyListChina is an open-source project that provides a collection of rules for filtering unwanted content from web pages. The project's primary goal is to enhance user experience by preventing annoying ads, pop-ups, and other intrusive elements from displaying on websites. By utilizing these rules, users can maintain a clutter-free browsing experience across various web platforms.
+The easylist/easylistchina project is an open-source repository containing ad-blocking filter lists in various languages, including a dedicated Chinese list ("easylistchina"). This collection of filter lists helps users block unwanted advertisements and malicious content across different web browsers and platforms. By contributing to this project, developers can improve the effectiveness of ad-blocking solutions for global users.
 
 ---
 

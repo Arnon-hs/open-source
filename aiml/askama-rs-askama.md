@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Askama is an open-source, type-safe template rendering engine for Rust, inspired by Jinja. It generates Rust code at compile time, allowing developers to create robust and efficient templates that reduce runtime errors and improve code maintainability. By leveraging the Rust ecosystem, Askama enables developers to build reliable and scalable applications with a high degree of type safety.
+Askama is an open-source template rendering engine that utilizes Jinja's syntax to generate type-safe Rust code at compile time. This allows for robust data binding and secure template execution. By leveraging Jinja's syntax and Rust's compile-time type safety, Askama provides a secure and efficient solution for template rendering.
 
 ---
 

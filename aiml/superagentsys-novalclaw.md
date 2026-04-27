@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-novalclaw is an open-source, next-generation AI format designed to push the boundaries of artificial intelligence capabilities. Developed as part of the Superagentsys project, novalclaw aims to provide a powerful and flexible framework for building and deploying advanced AI models. This AI format holds promise for revolutionizing the field of AI and machine learning.
+The Superagentsys/novalclaw project offers an open-source, next-generation AI format designed to advance the field of artificial intelligence. novalclaw aims to provide a cutting-edge platform for AI development, enabling researchers and developers to create more sophisticated and efficient AI models. This innovative format is part of the broader AI/ML category, pushing the boundaries of what is possible in the realm of machine learning.
 
 ---
 

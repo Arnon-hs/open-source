@@ -25,7 +25,7 @@ AI/ML · Design
 
 ## 📝 Summary
 
-The selfhst/icons project is an open-source collection of icons and logos maintained by selfh.st, offering designers and developers a free resource for enhancing their digital projects. This diverse set of icons can be used in various contexts, including AI/ML applications, and are provided under an open-source license for easy accessibility and modification. By contributing to the project, users can help expand this valuable resource for the broader design community.
+The selfhst/icons project is an open-source collection of icons and logos maintained by selfh.st. It offers a diverse range of visual assets for various projects and applications, catering to designers and developers in the AI/ML and design communities. This repository serves as a convenient resource for those seeking high-quality, easily accessible icons and logos.
 
 ---
 

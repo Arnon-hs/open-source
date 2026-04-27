@@ -25,7 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The waynesutton/markdown-site project is an open-source publishing framework that enables developers and AI agents to effortlessly create and deploy websites, documentation, and blogs using markdown files. This convenient tool syncs content from the terminal, making it instantly accessible to browsers, large language models, and AI agents. Built on Convex and Netlify, it simplifies the process of publishing content online.
+Here's a 2-3 sentence summary for the project:
+
+Wayne Sutton's open-source project, markdown-site, is a publishing framework designed for AI agents and developers to easily deploy websites, documentation, or blogs. It allows users to write content in markdown and sync it from the terminal, making their content instantly available in browsers, LLMs, and AI agents. Built on Convex and Netlify, this framework streamlines the process of website creation and deployment.
 
 ---
 

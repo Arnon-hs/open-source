@@ -25,7 +25,9 @@ Crypto · Orchestration · DevTools
 
 ## 📝 Summary
 
-The OpenCLI (OCS) project provides a standardized, platform-agnostic interface for CLI applications, enabling both humans and computers to understand how to invoke a tool without relying on source code or documentation. This specification promotes interoperability and ease of development across various languages and platforms. By standardizing CLI interactions, OpenCLI facilitates automation, integration, and discovery of CLI tools.
+Here's a brief summary of the open-source project spectreconsole/open-cli:
+
+The OpenCLI specification (OCS) is an open-source project that defines a standardized, language-agnostic interface for Command-Line Interface (CLI) applications, enabling seamless invocation and interaction without requiring access to source code or documentation. This platform-independent framework aims to bridge the gap between humans and computers, facilitating effortless communication and automation of CLI tools. By adopting OCS, developers can ensure consistent and intuitive CLI experiences across different platforms and languages.
 
 ---
 

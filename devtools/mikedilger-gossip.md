@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Gossip is an open-source project that serves as a client for the Nostr protocol, a decentralized social network alternative to traditional social media platforms. This client allows users to interact with the Nostr network, enabling features such as real-time communication and data sharing. By utilizing Gossip, users can explore the capabilities of the Nostr protocol in a user-friendly manner.
+Here's a brief summary for the open-source project 'gossip':
+
+Gossip is an open-source Nostr client, a decentralized, blockchain-based social media platform that prioritizes user data privacy and control. It provides users with a secure and transparent way to share and interact with each other. By utilizing the Nostr protocol, Gossip promotes a censorship-resistant and community-driven social networking experience.
 
 ---
 

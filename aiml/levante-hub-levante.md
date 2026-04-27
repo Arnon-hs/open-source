@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Levante project:
-
-Levante is an open-source, local AI client that prioritizes user security and data privacy. Built as a free and personal AI solution, Levante provides a secure and decentralized alternative to cloud-based AI models, allowing users to maintain control over their data. This project aims to empower users with a self-hosted AI experience.
+Levante is an open-source, personal AI client that provides a secure and free local AI experience. This innovative project enables users to interact with a Machine Learning Platform (MCP) client in a decentralized manner, promoting data privacy and control. By running Levante locally, users can enjoy the benefits of AI without relying on cloud-based services.
 
 ---
 

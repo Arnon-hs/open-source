@@ -1,6 +1,6 @@
 # NeuralNomadsAI/CodeNomad
 
-[![Stars](https://img.shields.io/github/stars/NeuralNomadsAI/CodeNomad?style=flat-square&color=yellow)](https://github.com/NeuralNomadsAI/CodeNomad/stargazers) [![Forks](https://img.shields.io/github/forks/NeuralNomadsAI/CodeNomad?style=flat-square&color=blue)](https://github.com/NeuralNomadsAI/CodeNomad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NeuralNomadsAI/CodeNomad?style=flat-square&color=yellow)](https://github.com/NeuralNomadsAI/CodeNomad/stargazers) [![Forks](https://img.shields.io/github/forks/NeuralNomadsAI/CodeNomad?style=flat-square&color=blue)](https://github.com/NeuralNomadsAI/CodeNomad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > CodeNomad: The command center that puts AI coding on steroids.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

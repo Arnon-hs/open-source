@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the getaero-io/gtm-eng-skills project:
+Here's a brief summary of the open-source project:
 
-The getaero-io/gtm-eng-skills project is an open-source collection of 10 AI agent skills for Claude Code, a set of tools for automating tasks such as email enrichment and outbound automation. Powered by Deepline CLI, these skills leverage over 28+ GTM data providers to enable data-driven decision-making. This project aims to streamline sales and marketing workflows through AI-powered orchestration and automation.
+This project, gtm-eng-skills, provides a suite of 10 AI-powered skills for Claude Code, enabling users to automate tasks such as email enrichment, TAM building, and outbound automation. Built with Deepline CLI and leveraging 28+ GTM data providers, this collection of skills streamlines workflows and enhances business operations.
 
 ---
 

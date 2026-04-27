@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The greenpolo/cc-multi-cli-plugin is an open-source project that integrates multiple AI and programming language tools into the Claude Code platform. This plugin allows users to delegate tasks to Codex, Gemini, Cursor, GitHub Copilot, and Qwen CLIs via their native protocols, enhancing functionality and efficiency. Users can access various tools and features, such as research, debugging, and code execution, directly within Claude.
+The greenpolo/cc-multi-cli-plugin is an open-source project that enables seamless integration with various AI and coding tools via their native protocols. This plugin allows users to leverage the capabilities of Codex, Gemini, Cursor, GitHub Copilot, and Qwen CLIs within the Claude Code platform, streamlining development workflows and enhancing productivity. With auto-dispatch functionality, users can easily access a range of features, including research, debugging, and code review.
 
 ---
 

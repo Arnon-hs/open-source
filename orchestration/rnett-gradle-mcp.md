@@ -1,6 +1,6 @@
 # rnett/gradle-mcp
 
-[![Stars](https://img.shields.io/github/stars/rnett/gradle-mcp?style=flat-square&color=yellow)](https://github.com/rnett/gradle-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/rnett/gradle-mcp?style=flat-square&color=blue)](https://github.com/rnett/gradle-mcp/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rnett/gradle-mcp?style=flat-square&color=yellow)](https://github.com/rnett/gradle-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/rnett/gradle-mcp?style=flat-square&color=blue)](https://github.com/rnett/gradle-mcp/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive MCP server for Gradle.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 2 |
-| 💻 **Language** | HTML |
+| 💻 **Language** | Kotlin |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

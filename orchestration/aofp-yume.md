@@ -25,7 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Yume is an open-source project that provides a native desktop user interface for Claude Code, a powerful AI/ML platform. Built with the Tauri framework and React, Yume offers orchestration, streaming, and background agent capabilities, along with support for multiple providers. This comprehensive UI enables seamless interaction with Claude Code, streamlining AI/ML workflows and productivity.
+Here's a brief summary of the aofp/yume project:
+
+Yume is an open-source, native desktop UI for Claude Code, offering orchestration, streaming, background agents, and multi-provider support. Built using Tauri and React, this project provides a seamless user experience for interacting with Claude Code. With its comprehensive feature set, Yume empowers developers to unlock the full potential of Claude Code.
 
 ---
 

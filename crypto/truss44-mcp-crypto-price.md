@@ -25,7 +25,7 @@ Crypto · Trading · Backend
 
 ## 📝 Summary
 
-The MCP-crypto-price project is an open-source Model Context Protocol (MCP) server that provides real-time cryptocurrency analysis and data via CoinCap's API. It enables users, such as those interacting with the Claude AI assistant, to access current prices, analyze market trends, and track historical cryptocurrency data. This project facilitates seamless cryptocurrency data integration for various MCP clients and applications.
+The MCP-crypto-price project is an open-source Model Context Protocol (MCP) server that leverages CoinCap's API to deliver real-time cryptocurrency analysis. This server enables clients such as Claude to fetch current prices, analyze market trends, and track historical data, providing valuable insights for cryptocurrency traders and enthusiasts. By utilizing this MCP server, users can stay up-to-date on the latest market developments and make informed decisions.
 
 ---
 

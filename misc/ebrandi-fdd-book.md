@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The FreeBSD Device Drivers Book is an open-source project that aims to provide a comprehensive guide to developing device drivers for the FreeBSD operating system. This project offers a wealth of information and practical knowledge for system administrators, developers, and hardware enthusiasts looking to create custom device drivers. By contributing to this project, users can access a valuable resource for learning and experimentation.
+The FreeBSD Device Drivers Book is an open-source project that provides comprehensive documentation and guidance on writing device drivers for the FreeBSD operating system. This resource is designed to assist developers in creating and troubleshooting device drivers, ensuring compatibility and stability across various hardware configurations. The book serves as a valuable reference for those seeking to expand FreeBSD's capabilities and improve its device support.
 
 ---
 
