@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/zilliztech/memsearch?style=flat-square&color=yellow)](https://github.com/zilliztech/memsearch/stargazers) [![Forks](https://img.shields.io/github/forks/zilliztech/memsearch?style=flat-square&color=blue)](https://github.com/zilliztech/memsearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
-> A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
+> One persistent memory layer for all your AI agents, backed by Markdown and Milvus.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 

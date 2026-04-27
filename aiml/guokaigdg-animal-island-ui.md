@@ -1,6 +1,6 @@
 # guokaigdg/animal-island-ui
 
-[![Stars](https://img.shields.io/github/stars/guokaigdg/animal-island-ui?style=flat-square&color=yellow)](https://github.com/guokaigdg/animal-island-ui/stargazers) [![Forks](https://img.shields.io/github/forks/guokaigdg/animal-island-ui?style=flat-square&color=blue)](https://github.com/guokaigdg/animal-island-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guokaigdg/animal-island-ui?style=flat-square&color=yellow)](https://github.com/guokaigdg/animal-island-ui/stargazers) [![Forks](https://img.shields.io/github/forks/guokaigdg/animal-island-ui?style=flat-square&color=blue)](https://github.com/guokaigdg/animal-island-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Animal 风格的 React 组件库 灵感来源于任天堂集合啦！动物森友会游戏界面
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 574 |
-| 🍴 **Forks** | 29 |
+| ⭐ **Stars** | 579 |
+| 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

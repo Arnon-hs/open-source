@@ -1,6 +1,6 @@
 # taracodlabs/aiden
 
-[![Stars](https://img.shields.io/github/stars/taracodlabs/aiden?style=flat-square&color=yellow)](https://github.com/taracodlabs/aiden/stargazers) [![Forks](https://img.shields.io/github/forks/taracodlabs/aiden?style=flat-square&color=blue)](https://github.com/taracodlabs/aiden/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taracodlabs/aiden?style=flat-square&color=yellow)](https://github.com/taracodlabs/aiden/stargazers) [![Forks](https://img.shields.io/github/forks/taracodlabs/aiden?style=flat-square&color=blue)](https://github.com/taracodlabs/aiden/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > local-first AI OS for Linux & Windows — 1500+ skills · 89+ tools · 14+ providers · AGPL-3.0
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 55 |
-| 🍴 **Forks** | 6 |
+| ⭐ **Stars** | 96 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

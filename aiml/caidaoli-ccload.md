@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/caidaoli/ccLoad?style=flat-square&color=yellow)](https://github.com/caidaoli/ccLoad/stargazers) [![Forks](https://img.shields.io/github/forks/caidaoli/ccLoad?style=flat-square&color=blue)](https://github.com/caidaoli/ccLoad/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
-> _No description provided._
+> High-performance AI API proxy with smart routing, failover, monitoring, and protocol transforms for Claude Code, Codex, Gemini, and OpenAI.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 

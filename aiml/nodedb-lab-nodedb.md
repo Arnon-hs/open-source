@@ -1,6 +1,6 @@
 # nodeDB-Lab/nodedb
 
-[![Stars](https://img.shields.io/github/stars/nodeDB-Lab/nodedb?style=flat-square&color=yellow)](https://github.com/nodeDB-Lab/nodedb/stargazers) [![Forks](https://img.shields.io/github/forks/nodeDB-Lab/nodedb?style=flat-square&color=blue)](https://github.com/nodeDB-Lab/nodedb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nodeDB-Lab/nodedb?style=flat-square&color=yellow)](https://github.com/nodeDB-Lab/nodedb/stargazers) [![Forks](https://img.shields.io/github/forks/nodeDB-Lab/nodedb?style=flat-square&color=blue)](https://github.com/nodeDB-Lab/nodedb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A local-first, real-time, edge-to-cloud hybrid database for multi-modal workloads
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 56 |
+| ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -18,7 +18,7 @@
 | 8 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 513 | PHP | 54/100 |
 | 9 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 10 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 601 | C# | 53/100 |
-| 11 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 132 | MDX | 51/100 |
+| 11 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 133 | MDX | 51/100 |
 | 12 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 119 | Rust | 51/100 |
 | 13 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 16 | — | 50/100 |
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8047** |
+| 🗂️ **Total projects** | **8127** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3095 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1490 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 811 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 688 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 469 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 451 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 276 | [Browse →](./crypto/) |
-| 📊 **Data** | 173 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 153 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 112 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 3130 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1501 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 816 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 694 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 474 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 456 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 280 | [Browse →](./crypto/) |
+| 📊 **Data** | 176 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 154 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 114 | [Browse →](./mobile/) |
 | 💳 **Payments** | 111 | [Browse →](./payments/) |
-| 📈 **Trading** | 81 | [Browse →](./trading/) |
+| 📈 **Trading** | 84 | [Browse →](./trading/) |
 | 🔐 **Security** | 75 | [Browse →](./security/) |
 | ✨ **Design** | 28 | [Browse →](./design/) |
 | 🎯 **Product** | 21 | [Browse →](./product/) |
@@ -41,14 +41,14 @@
 |---|---|---|---|
 | 1 | [freqtrade/freqtrade](./crypto/freqtrade-freqtrade.md) | ⭐ 49.5k | Crypto |
 | 2 | [apache/shardingsphere](./data/apache-shardingsphere.md) | ⭐ 20.7k | Data |
-| 3 | [meshtastic/firmware](./misc/meshtastic-firmware.md) | ⭐ 7.4k | Misc |
-| 4 | [avajs/ava](./devtools/avajs-ava.md) | ⭐ 20.8k | DevTools |
-| 5 | [calcom/cal.diy](./aiml/calcom-cal.diy.md) | ⭐ 42.1k | AI/ML |
-| 6 | [agentscope-ai/agentscope](./orchestration/agentscope-ai-agentscope.md) | ⭐ 24.4k | Orchestration |
-| 7 | [microsoft/RD-Agent](./aiml/microsoft-rd-agent.md) | ⭐ 12.7k | AI/ML |
-| 8 | [sharkdp/bat](./devtools/sharkdp-bat.md) | ⭐ 58.6k | DevTools |
-| 9 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 36.1k | Orchestration |
-| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 3 | [shadcn-ui/ui](./aiml/shadcn-ui-ui.md) | ⭐ 113.1k | AI/ML |
+| 4 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 5 | [glpi-project/glpi](./data/glpi-project-glpi.md) | ⭐ 5.8k | Data |
+| 6 | [dataease/dataease](./data/dataease-dataease.md) | ⭐ 23.8k | Data |
+| 7 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25k | Design |
+| 8 | [authelia/authelia](./devopsinfra/authelia-authelia.md) | ⭐ 27.6k | DevOps & Infra |
+| 9 | [yeasy/docker_practice](./aiml/yeasy-docker-practice.md) | ⭐ 26k | AI/ML |
+| 10 | [meshtastic/firmware](./misc/meshtastic-firmware.md) | ⭐ 7.4k | Misc |
 
 ## 🚀 How it works
 

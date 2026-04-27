@@ -1,6 +1,6 @@
 # kimono-koans/httm
 
-[![Stars](https://img.shields.io/github/stars/kimono-koans/httm?style=flat-square&color=yellow)](https://github.com/kimono-koans/httm/stargazers) [![Forks](https://img.shields.io/github/forks/kimono-koans/httm?style=flat-square&color=blue)](https://github.com/kimono-koans/httm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kimono-koans/httm?style=flat-square&color=yellow)](https://github.com/kimono-koans/httm/stargazers) [![Forks](https://img.shields.io/github/forks/kimono-koans/httm?style=flat-square&color=blue)](https://github.com/kimono-koans/httm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

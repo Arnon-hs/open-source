@@ -1,6 +1,6 @@
 # Arvo-AI/aurora
 
-[![Stars](https://img.shields.io/github/stars/Arvo-AI/aurora?style=flat-square&color=yellow)](https://github.com/Arvo-AI/aurora/stargazers) [![Forks](https://img.shields.io/github/forks/Arvo-AI/aurora?style=flat-square&color=blue)](https://github.com/Arvo-AI/aurora/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arvo-AI/aurora?style=flat-square&color=yellow)](https://github.com/Arvo-AI/aurora/stargazers) [![Forks](https://img.shields.io/github/forks/Arvo-AI/aurora?style=flat-square&color=blue)](https://github.com/Arvo-AI/aurora/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Aurora — Open source AI-powered agentic incident management & root cause analysis for SREs. LangGraph agents investigate across AWS, Azure, GCP, Kubernetes. Integrates with PagerDuty, Datadog, Grafana, Slack. Apache 2.0.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 151 |
-| 🍴 **Forks** | 29 |
+| 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

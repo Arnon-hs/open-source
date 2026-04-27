@@ -1,6 +1,6 @@
 # MugglePay/MugglePay
 
-[![Stars](https://img.shields.io/github/stars/MugglePay/MugglePay?style=flat-square&color=yellow)](https://github.com/MugglePay/MugglePay/stargazers) [![Forks](https://img.shields.io/github/forks/MugglePay/MugglePay?style=flat-square&color=blue)](https://github.com/MugglePay/MugglePay/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MugglePay/MugglePay?style=flat-square&color=yellow)](https://github.com/MugglePay/MugglePay/stargazers) [![Forks](https://img.shields.io/github/forks/MugglePay/MugglePay?style=flat-square&color=blue)](https://github.com/MugglePay/MugglePay/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Make Payments Crypto Native. MugglePay makes merchants and AI agents accept crypto and sell more with it.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 234 |
+| ⭐ **Stars** | 235 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

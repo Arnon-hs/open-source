@@ -1,6 +1,6 @@
 # vectorize-io/hindsight
 
-[![Stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=flat-square&color=yellow)](https://github.com/vectorize-io/hindsight/stargazers) [![Forks](https://img.shields.io/github/forks/vectorize-io/hindsight?style=flat-square&color=blue)](https://github.com/vectorize-io/hindsight/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=flat-square&color=yellow)](https://github.com/vectorize-io/hindsight/stargazers) [![Forks](https://img.shields.io/github/forks/vectorize-io/hindsight?style=flat-square&color=blue)](https://github.com/vectorize-io/hindsight/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > Hindsight: Agent Memory That  Learns
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.9k |
-| 🍴 **Forks** | 633 |
+| 🍴 **Forks** | 634 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

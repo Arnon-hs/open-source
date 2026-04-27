@@ -1,6 +1,6 @@
 # huggingface/ml-intern
 
-[![Stars](https://img.shields.io/github/stars/huggingface/ml-intern?style=flat-square&color=yellow)](https://github.com/huggingface/ml-intern/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/ml-intern?style=flat-square&color=blue)](https://github.com/huggingface/ml-intern/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/ml-intern?style=flat-square&color=yellow)](https://github.com/huggingface/ml-intern/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/ml-intern?style=flat-square&color=blue)](https://github.com/huggingface/ml-intern/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.8k |
-| 🍴 **Forks** | 626 |
+| 🍴 **Forks** | 637 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # jzero-io/jzero
 
-[![Stars](https://img.shields.io/github/stars/jzero-io/jzero?style=flat-square&color=yellow)](https://github.com/jzero-io/jzero/stargazers) [![Forks](https://img.shields.io/github/forks/jzero-io/jzero?style=flat-square&color=blue)](https://github.com/jzero-io/jzero/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jzero-io/jzero?style=flat-square&color=yellow)](https://github.com/jzero-io/jzero/stargazers) [![Forks](https://img.shields.io/github/forks/jzero-io/jzero?style=flat-square&color=blue)](https://github.com/jzero-io/jzero/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically generate server and client framework code based on descriptive files (proto/api/sql), while using built-in jzero-skills to empower AI to generate production-ready business code adhering to best practices.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

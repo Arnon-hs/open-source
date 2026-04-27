@@ -1,6 +1,6 @@
 # Agents365-ai/video-podcast-maker
 
-[![Stars](https://img.shields.io/github/stars/Agents365-ai/video-podcast-maker?style=flat-square&color=yellow)](https://github.com/Agents365-ai/video-podcast-maker/stargazers) [![Forks](https://img.shields.io/github/forks/Agents365-ai/video-podcast-maker?style=flat-square&color=blue)](https://github.com/Agents365-ai/video-podcast-maker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agents365-ai/video-podcast-maker?style=flat-square&color=yellow)](https://github.com/Agents365-ai/video-podcast-maker/stargazers) [![Forks](https://img.shields.io/github/forks/Agents365-ai/video-podcast-maker?style=flat-square&color=blue)](https://github.com/Agents365-ai/video-podcast-maker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered video podcast creation skill for coding agents. Supports Bilibili & YouTube, multi-language (zh-CN/en-US), 6 TTS engines (Edge/Azure/ElevenLabs/OpenAI/Doubao/CosyVoice), 4K Remotion rendering.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 613 |
+| ⭐ **Stars** | 617 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

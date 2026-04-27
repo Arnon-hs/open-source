@@ -1,6 +1,6 @@
 # microsoft/ghqr
 
-[![Stars](https://img.shields.io/github/stars/microsoft/ghqr?style=flat-square&color=yellow)](https://github.com/microsoft/ghqr/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/ghqr?style=flat-square&color=blue)](https://github.com/microsoft/ghqr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/ghqr?style=flat-square&color=yellow)](https://github.com/microsoft/ghqr/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/ghqr?style=flat-square&color=blue)](https://github.com/microsoft/ghqr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Quick Review. Evaluate your enterprise and organizations with GitHub best practices
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 305 |
+| ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

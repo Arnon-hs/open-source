@@ -1,6 +1,6 @@
 # miconda/sipexer
 
-[![Stars](https://img.shields.io/github/stars/miconda/sipexer?style=flat-square&color=yellow)](https://github.com/miconda/sipexer/stargazers) [![Forks](https://img.shields.io/github/forks/miconda/sipexer?style=flat-square&color=blue)](https://github.com/miconda/sipexer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miconda/sipexer?style=flat-square&color=yellow)](https://github.com/miconda/sipexer/stargazers) [![Forks](https://img.shields.io/github/forks/miconda/sipexer?style=flat-square&color=blue)](https://github.com/miconda/sipexer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Modern and flexible SIP/VoIP cli tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 385 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

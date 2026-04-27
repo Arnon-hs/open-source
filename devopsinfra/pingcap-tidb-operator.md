@@ -1,6 +1,6 @@
 # pingcap/tidb-operator
 
-[![Stars](https://img.shields.io/github/stars/pingcap/tidb-operator?style=flat-square&color=yellow)](https://github.com/pingcap/tidb-operator/stargazers) [![Forks](https://img.shields.io/github/forks/pingcap/tidb-operator?style=flat-square&color=blue)](https://github.com/pingcap/tidb-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pingcap/tidb-operator?style=flat-square&color=yellow)](https://github.com/pingcap/tidb-operator/stargazers) [![Forks](https://img.shields.io/github/forks/pingcap/tidb-operator?style=flat-square&color=blue)](https://github.com/pingcap/tidb-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > TiDB operator creates and manages TiDB clusters running in Kubernetes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 535 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
