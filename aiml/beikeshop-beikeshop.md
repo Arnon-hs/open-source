@@ -1,6 +1,6 @@
 # beikeshop/beikeshop
 
-[![Stars](https://img.shields.io/github/stars/beikeshop/beikeshop?style=flat-square&color=yellow)](https://github.com/beikeshop/beikeshop/stargazers) [![Forks](https://img.shields.io/github/forks/beikeshop/beikeshop?style=flat-square&color=blue)](https://github.com/beikeshop/beikeshop/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beikeshop/beikeshop?style=flat-square&color=yellow)](https://github.com/beikeshop/beikeshop/stargazers) [![Forks](https://img.shields.io/github/forks/beikeshop/beikeshop?style=flat-square&color=blue)](https://github.com/beikeshop/beikeshop/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Free and Open-Source, Easy-to-Use Laravel eCommerce Platform, Base on the Laravel . It supports multiple languages and currencies, Integrates AI agents. The platform features customizable visual design and a rich plugins on marketplace.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 398 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

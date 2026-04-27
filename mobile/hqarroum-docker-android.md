@@ -1,6 +1,6 @@
 # HQarroum/docker-android
 
-[![Stars](https://img.shields.io/github/stars/HQarroum/docker-android?style=flat-square&color=yellow)](https://github.com/HQarroum/docker-android/stargazers) [![Forks](https://img.shields.io/github/forks/HQarroum/docker-android?style=flat-square&color=blue)](https://github.com/HQarroum/docker-android/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HQarroum/docker-android?style=flat-square&color=yellow)](https://github.com/HQarroum/docker-android/stargazers) [![Forks](https://img.shields.io/github/forks/HQarroum/docker-android?style=flat-square&color=blue)](https://github.com/HQarroum/docker-android/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 331 |
+| 🍴 **Forks** | 332 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

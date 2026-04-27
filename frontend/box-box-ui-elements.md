@@ -1,6 +1,6 @@
 # box/box-ui-elements
 
-[![Stars](https://img.shields.io/github/stars/box/box-ui-elements?style=flat-square&color=yellow)](https://github.com/box/box-ui-elements/stargazers) [![Forks](https://img.shields.io/github/forks/box/box-ui-elements?style=flat-square&color=blue)](https://github.com/box/box-ui-elements/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/box/box-ui-elements?style=flat-square&color=yellow)](https://github.com/box/box-ui-elements/stargazers) [![Forks](https://img.shields.io/github/forks/box/box-ui-elements?style=flat-square&color=blue)](https://github.com/box/box-ui-elements/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > React Components for Box's Design System and Pluggable Components
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 553 |
 | 🍴 **Forks** | 347 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

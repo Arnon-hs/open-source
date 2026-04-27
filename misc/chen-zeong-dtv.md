@@ -1,6 +1,6 @@
 # chen-zeong/DTV
 
-[![Stars](https://img.shields.io/github/stars/chen-zeong/DTV?style=flat-square&color=yellow)](https://github.com/chen-zeong/DTV/stargazers) [![Forks](https://img.shields.io/github/forks/chen-zeong/DTV?style=flat-square&color=blue)](https://github.com/chen-zeong/DTV/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chen-zeong/DTV?style=flat-square&color=yellow)](https://github.com/chen-zeong/DTV/stargazers) [![Forks](https://img.shields.io/github/forks/chen-zeong/DTV?style=flat-square&color=blue)](https://github.com/chen-zeong/DTV/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 58 |
-| 💻 **Language** | Rust |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

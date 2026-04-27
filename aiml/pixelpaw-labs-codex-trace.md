@@ -1,6 +1,6 @@
 # PixelPaw-Labs/codex-trace
 
-[![Stars](https://img.shields.io/github/stars/PixelPaw-Labs/codex-trace?style=flat-square&color=yellow)](https://github.com/PixelPaw-Labs/codex-trace/stargazers) [![Forks](https://img.shields.io/github/forks/PixelPaw-Labs/codex-trace?style=flat-square&color=blue)](https://github.com/PixelPaw-Labs/codex-trace/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PixelPaw-Labs/codex-trace?style=flat-square&color=yellow)](https://github.com/PixelPaw-Labs/codex-trace/stargazers) [![Forks](https://img.shields.io/github/forks/PixelPaw-Labs/codex-trace?style=flat-square&color=blue)](https://github.com/PixelPaw-Labs/codex-trace/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time viewer for Codex session logs — desktop app, web
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |

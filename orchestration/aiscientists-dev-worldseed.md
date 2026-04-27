@@ -1,6 +1,6 @@
 # AIScientists-Dev/WorldSeed
 
-[![Stars](https://img.shields.io/github/stars/AIScientists-Dev/WorldSeed?style=flat-square&color=yellow)](https://github.com/AIScientists-Dev/WorldSeed/stargazers) [![Forks](https://img.shields.io/github/forks/AIScientists-Dev/WorldSeed?style=flat-square&color=blue)](https://github.com/AIScientists-Dev/WorldSeed/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AIScientists-Dev/WorldSeed?style=flat-square&color=yellow)](https://github.com/AIScientists-Dev/WorldSeed/stargazers) [![Forks](https://img.shields.io/github/forks/AIScientists-Dev/WorldSeed?style=flat-square&color=blue)](https://github.com/AIScientists-Dev/WorldSeed/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 234 |
-| 🍴 **Forks** | 17 |
+| ⭐ **Stars** | 446 |
+| 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # AnInsomniacy/motrix-next
 
-[![Stars](https://img.shields.io/github/stars/AnInsomniacy/motrix-next?style=flat-square&color=yellow)](https://github.com/AnInsomniacy/motrix-next/stargazers) [![Forks](https://img.shields.io/github/forks/AnInsomniacy/motrix-next?style=flat-square&color=blue)](https://github.com/AnInsomniacy/motrix-next/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnInsomniacy/motrix-next?style=flat-square&color=yellow)](https://github.com/AnInsomniacy/motrix-next/stargazers) [![Forks](https://img.shields.io/github/forks/AnInsomniacy/motrix-next?style=flat-square&color=blue)](https://github.com/AnInsomniacy/motrix-next/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > A full-featured download manager — rebuilt from the ground up
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

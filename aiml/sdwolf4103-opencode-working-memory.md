@@ -1,17 +1,17 @@
 # sdwolf4103/opencode-working-memory
 
-[![Stars](https://img.shields.io/github/stars/sdwolf4103/opencode-working-memory?style=flat-square&color=yellow)](https://github.com/sdwolf4103/opencode-working-memory/stargazers) [![Forks](https://img.shields.io/github/forks/sdwolf4103/opencode-working-memory?style=flat-square&color=blue)](https://github.com/sdwolf4103/opencode-working-memory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sdwolf4103/opencode-working-memory?style=flat-square&color=yellow)](https://github.com/sdwolf4103/opencode-working-memory/stargazers) [![Forks](https://img.shields.io/github/forks/sdwolf4103/opencode-working-memory?style=flat-square&color=blue)](https://github.com/sdwolf4103/opencode-working-memory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> Three-tier memory architecture for OpenCode AI agents: persistent workspace memory, session working memory. No extra API call.
+> Automatic memory for OpenCode agents: persistent workspace memory, hot session context, and compaction-based memory extraction — with zero extra API calls.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 91 |
-| 🍴 **Forks** | 2 |
+| 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # matz/spinel
 
-[![Stars](https://img.shields.io/github/stars/matz/spinel?style=flat-square&color=yellow)](https://github.com/matz/spinel/stargazers) [![Forks](https://img.shields.io/github/forks/matz/spinel?style=flat-square&color=blue)](https://github.com/matz/spinel/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matz/spinel?style=flat-square&color=yellow)](https://github.com/matz/spinel/stargazers) [![Forks](https://img.shields.io/github/forks/matz/spinel?style=flat-square&color=blue)](https://github.com/matz/spinel/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 26 |
+| ⭐ **Stars** | 1.2k |
+| 🍴 **Forks** | 27 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

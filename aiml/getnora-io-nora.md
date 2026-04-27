@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/getnora-io/nora?style=flat-square&color=yellow)](https://github.com/getnora-io/nora/stargazers) [![Forks](https://img.shields.io/github/forks/getnora-io/nora?style=flat-square&color=blue)](https://github.com/getnora-io/nora/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Lightweight artifact registry. Docker, Maven, npm, PyPI, Cargo, Go. Single binary, zero dependencies, <100MB RAM.
+> Lightweight multi-format artifact registry. 13 formats: Docker, Maven, npm, PyPI, Cargo, Go, RubyGems, Terraform, NuGet, and more. Single binary, zero dependencies, <100MB RAM.
 
 ## 📊 Stats
 

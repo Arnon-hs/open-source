@@ -1,6 +1,6 @@
 # toomuchdesign/re-reselect
 
-[![Stars](https://img.shields.io/github/stars/toomuchdesign/re-reselect?style=flat-square&color=yellow)](https://github.com/toomuchdesign/re-reselect/stargazers) [![Forks](https://img.shields.io/github/forks/toomuchdesign/re-reselect?style=flat-square&color=blue)](https://github.com/toomuchdesign/re-reselect/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/toomuchdesign/re-reselect?style=flat-square&color=yellow)](https://github.com/toomuchdesign/re-reselect/stargazers) [![Forks](https://img.shields.io/github/forks/toomuchdesign/re-reselect?style=flat-square&color=blue)](https://github.com/toomuchdesign/re-reselect/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Enhance Reselect selectors with deeper memoization and cache management.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

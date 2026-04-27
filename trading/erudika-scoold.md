@@ -1,6 +1,6 @@
 # Erudika/scoold
 
-[![Stars](https://img.shields.io/github/stars/Erudika/scoold?style=flat-square&color=yellow)](https://github.com/Erudika/scoold/stargazers) [![Forks](https://img.shields.io/github/forks/Erudika/scoold?style=flat-square&color=blue)](https://github.com/Erudika/scoold/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Erudika/scoold?style=flat-square&color=yellow)](https://github.com/Erudika/scoold/stargazers) [![Forks](https://img.shields.io/github/forks/Erudika/scoold?style=flat-square&color=blue)](https://github.com/Erudika/scoold/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The Stack Overflow clone for your team (self-hosted or hosted)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 916 |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # nambok/mentedb
 
-[![Stars](https://img.shields.io/github/stars/nambok/mentedb?style=flat-square&color=yellow)](https://github.com/nambok/mentedb/stargazers) [![Forks](https://img.shields.io/github/forks/nambok/mentedb?style=flat-square&color=blue)](https://github.com/nambok/mentedb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nambok/mentedb?style=flat-square&color=yellow)](https://github.com/nambok/mentedb/stargazers) [![Forks](https://img.shields.io/github/forks/nambok/mentedb?style=flat-square&color=blue)](https://github.com/nambok/mentedb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and speculative context pre assembly. Not a wrapper, a ground up storage engine that thinks.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 67 |
-| 🍴 **Forks** | 2 |
+| ⭐ **Stars** | 68 |
+| 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

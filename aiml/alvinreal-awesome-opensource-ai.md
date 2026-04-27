@@ -1,6 +1,6 @@
 # alvinreal/awesome-opensource-ai
 
-[![Stars](https://img.shields.io/github/stars/alvinreal/awesome-opensource-ai?style=flat-square&color=yellow)](https://github.com/alvinreal/awesome-opensource-ai/stargazers) [![Forks](https://img.shields.io/github/forks/alvinreal/awesome-opensource-ai?style=flat-square&color=blue)](https://github.com/alvinreal/awesome-opensource-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alvinreal/awesome-opensource-ai?style=flat-square&color=yellow)](https://github.com/alvinreal/awesome-opensource-ai/stargazers) [![Forks](https://img.shields.io/github/forks/alvinreal/awesome-opensource-ai?style=flat-square&color=blue)](https://github.com/alvinreal/awesome-opensource-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 293 |
+| 🍴 **Forks** | 294 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

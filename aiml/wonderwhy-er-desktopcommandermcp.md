@@ -1,6 +1,6 @@
 # wonderwhy-er/DesktopCommanderMCP
 
-[![Stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=yellow)](https://github.com/wonderwhy-er/DesktopCommanderMCP/stargazers) [![Forks](https://img.shields.io/github/forks/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=blue)](https://github.com/wonderwhy-er/DesktopCommanderMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=yellow)](https://github.com/wonderwhy-er/DesktopCommanderMCP/stargazers) [![Forks](https://img.shields.io/github/forks/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=blue)](https://github.com/wonderwhy-er/DesktopCommanderMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6k |
-| 🍴 **Forks** | 699 |
+| 🍴 **Forks** | 700 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

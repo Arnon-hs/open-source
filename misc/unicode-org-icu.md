@@ -1,6 +1,6 @@
 # unicode-org/icu
 
-[![Stars](https://img.shields.io/github/stars/unicode-org/icu?style=flat-square&color=yellow)](https://github.com/unicode-org/icu/stargazers) [![Forks](https://img.shields.io/github/forks/unicode-org/icu?style=flat-square&color=blue)](https://github.com/unicode-org/icu/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unicode-org/icu?style=flat-square&color=yellow)](https://github.com/unicode-org/icu/stargazers) [![Forks](https://img.shields.io/github/forks/unicode-org/icu?style=flat-square&color=blue)](https://github.com/unicode-org/icu/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > The home of the ICU project source code.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 878 |
+| 🍴 **Forks** | 879 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
