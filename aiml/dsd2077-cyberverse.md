@@ -1,6 +1,6 @@
 # dsd2077/CyberVerse
 
-[![Stars](https://img.shields.io/github/stars/dsd2077/CyberVerse?style=flat-square&color=yellow)](https://github.com/dsd2077/CyberVerse/stargazers) [![Forks](https://img.shields.io/github/forks/dsd2077/CyberVerse?style=flat-square&color=blue)](https://github.com/dsd2077/CyberVerse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dsd2077/CyberVerse?style=flat-square&color=yellow)](https://github.com/dsd2077/CyberVerse/stargazers) [![Forks](https://img.shields.io/github/forks/dsd2077/CyberVerse?style=flat-square&color=blue)](https://github.com/dsd2077/CyberVerse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

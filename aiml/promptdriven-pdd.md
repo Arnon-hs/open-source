@@ -1,6 +1,6 @@
 # promptdriven/pdd
 
-[![Stars](https://img.shields.io/github/stars/promptdriven/pdd?style=flat-square&color=yellow)](https://github.com/promptdriven/pdd/stargazers) [![Forks](https://img.shields.io/github/forks/promptdriven/pdd?style=flat-square&color=blue)](https://github.com/promptdriven/pdd/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/promptdriven/pdd?style=flat-square&color=yellow)](https://github.com/promptdriven/pdd/stargazers) [![Forks](https://img.shields.io/github/forks/promptdriven/pdd?style=flat-square&color=blue)](https://github.com/promptdriven/pdd/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Prompt Driven Development Command Line Interface
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 662 |
-| 🍴 **Forks** | 57 |
+| 🍴 **Forks** | 58 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

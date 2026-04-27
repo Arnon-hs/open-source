@@ -1,6 +1,6 @@
 # webpack/webpack-cli
 
-[![Stars](https://img.shields.io/github/stars/webpack/webpack-cli?style=flat-square&color=yellow)](https://github.com/webpack/webpack-cli/stargazers) [![Forks](https://img.shields.io/github/forks/webpack/webpack-cli?style=flat-square&color=blue)](https://github.com/webpack/webpack-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webpack/webpack-cli?style=flat-square&color=yellow)](https://github.com/webpack/webpack-cli/stargazers) [![Forks](https://img.shields.io/github/forks/webpack/webpack-cli?style=flat-square&color=blue)](https://github.com/webpack/webpack-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Webpack's Command Line Interface
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 667 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

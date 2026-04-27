@@ -1,6 +1,6 @@
 # alpic-ai/skybridge
 
-[![Stars](https://img.shields.io/github/stars/alpic-ai/skybridge?style=flat-square&color=yellow)](https://github.com/alpic-ai/skybridge/stargazers) [![Forks](https://img.shields.io/github/forks/alpic-ai/skybridge?style=flat-square&color=blue)](https://github.com/alpic-ai/skybridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alpic-ai/skybridge?style=flat-square&color=yellow)](https://github.com/alpic-ai/skybridge/stargazers) [![Forks](https://img.shields.io/github/forks/alpic-ai/skybridge?style=flat-square&color=blue)](https://github.com/alpic-ai/skybridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Skybridge is a Full-Stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 57 |
+| 🍴 **Forks** | 58 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

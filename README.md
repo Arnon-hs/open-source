@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8932** |
+| 🗂️ **Total projects** | **8952** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3435 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1659 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 3456 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1654 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 896 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 745 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 516 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 513 | [Browse →](./devtools/) |
+| 🧩 **Orchestration** | 750 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 518 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 512 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 321 | [Browse →](./crypto/) |
-| 📊 **Data** | 193 | [Browse →](./data/) |
+| 📊 **Data** | 192 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 177 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 122 | [Browse →](./mobile/) |
 | 💳 **Payments** | 113 | [Browse →](./payments/) |
-| 📈 **Trading** | 91 | [Browse →](./trading/) |
+| 📈 **Trading** | 90 | [Browse →](./trading/) |
 | 🔐 **Security** | 81 | [Browse →](./security/) |
 | ✨ **Design** | 31 | [Browse →](./design/) |
 | 🎯 **Product** | 22 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [wolfpld/tracy](./misc/wolfpld-tracy.md) | ⭐ 15.7k | Misc |
-| 2 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.5k | DevTools |
-| 3 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 4 | [nhivp/Awesome-Embedded](./aiml/nhivp-awesome-embedded.md) | ⭐ 8.5k | AI/ML |
-| 5 | [flybywiresim/aircraft](./aiml/flybywiresim-aircraft.md) | ⭐ 5.4k | AI/ML |
-| 6 | [swc-project/swc](./misc/swc-project-swc.md) | ⭐ 33.4k | Misc |
-| 7 | [whatwg/html](./aiml/whatwg-html.md) | ⭐ 9.2k | AI/ML |
-| 8 | [labstack/echo](./backend/labstack-echo.md) | ⭐ 32.3k | Backend |
-| 9 | [tailcallhq/forgecode](./orchestration/tailcallhq-forgecode.md) | ⭐ 7.1k | Orchestration |
-| 10 | [triggerdotdev/trigger.dev](./orchestration/triggerdotdev-trigger.dev.md) | ⭐ 14.7k | Orchestration |
+| 1 | [electerm/electerm](./aiml/electerm-electerm.md) | ⭐ 14k | AI/ML |
+| 2 | [mermaid-js/mermaid](./aiml/mermaid-js-mermaid.md) | ⭐ 87.7k | AI/ML |
+| 3 | [ankidroid/Anki-Android](./mobile/ankidroid-anki-android.md) | ⭐ 11.1k | Mobile |
+| 4 | [wolfpld/tracy](./misc/wolfpld-tracy.md) | ⭐ 15.7k | Misc |
+| 5 | [BabylonJS/Babylon.js](./misc/babylonjs-babylon.js.md) | ⭐ 25.4k | Misc |
+| 6 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.5k | DevTools |
+| 7 | [Avaiga/taipy](./orchestration/avaiga-taipy.md) | ⭐ 19.2k | Orchestration |
+| 8 | [GoogleChrome/lighthouse](./devtools/googlechrome-lighthouse.md) | ⭐ 30.1k | DevTools |
+| 9 | [open-policy-agent/opa](./aiml/open-policy-agent-opa.md) | ⭐ 11.6k | AI/ML |
+| 10 | [milvus-io/milvus](./aiml/milvus-io-milvus.md) | ⭐ 44k | AI/ML |
 
 ## 🚀 How it works
 

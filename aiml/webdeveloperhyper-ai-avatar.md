@@ -1,17 +1,17 @@
 # webdeveloperhyper/ai-avatar
 
-[![Stars](https://img.shields.io/github/stars/webdeveloperhyper/ai-avatar?style=flat-square&color=yellow)](https://github.com/webdeveloperhyper/ai-avatar/stargazers) [![Forks](https://img.shields.io/github/forks/webdeveloperhyper/ai-avatar?style=flat-square&color=blue)](https://github.com/webdeveloperhyper/ai-avatar/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webdeveloperhyper/ai-avatar?style=flat-square&color=yellow)](https://github.com/webdeveloperhyper/ai-avatar/stargazers) [![Forks](https://img.shields.io/github/forks/webdeveloperhyper/ai-avatar?style=flat-square&color=blue)](https://github.com/webdeveloperhyper/ai-avatar/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag ai): 🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)
+> _No description provided._
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 30/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 

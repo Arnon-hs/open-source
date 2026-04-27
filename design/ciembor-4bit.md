@@ -1,6 +1,6 @@
 # ciembor/4bit
 
-[![Stars](https://img.shields.io/github/stars/ciembor/4bit?style=flat-square&color=yellow)](https://github.com/ciembor/4bit/stargazers) [![Forks](https://img.shields.io/github/forks/ciembor/4bit?style=flat-square&color=blue)](https://github.com/ciembor/4bit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ciembor/4bit?style=flat-square&color=yellow)](https://github.com/ciembor/4bit/stargazers) [![Forks](https://img.shields.io/github/forks/ciembor/4bit?style=flat-square&color=blue)](https://github.com/ciembor/4bit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal Color Scheme Designer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

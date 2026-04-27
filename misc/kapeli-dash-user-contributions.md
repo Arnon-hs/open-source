@@ -1,6 +1,6 @@
 # Kapeli/Dash-User-Contributions
 
-[![Stars](https://img.shields.io/github/stars/Kapeli/Dash-User-Contributions?style=flat-square&color=yellow)](https://github.com/Kapeli/Dash-User-Contributions/stargazers) [![Forks](https://img.shields.io/github/forks/Kapeli/Dash-User-Contributions?style=flat-square&color=blue)](https://github.com/Kapeli/Dash-User-Contributions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kapeli/Dash-User-Contributions?style=flat-square&color=yellow)](https://github.com/Kapeli/Dash-User-Contributions/stargazers) [![Forks](https://img.shields.io/github/forks/Kapeli/Dash-User-Contributions?style=flat-square&color=blue)](https://github.com/Kapeli/Dash-User-Contributions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Dash repo of user contributed docsets
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 851 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

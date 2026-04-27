@@ -1,6 +1,6 @@
 # spegel-org/spegel
 
-[![Stars](https://img.shields.io/github/stars/spegel-org/spegel?style=flat-square&color=yellow)](https://github.com/spegel-org/spegel/stargazers) [![Forks](https://img.shields.io/github/forks/spegel-org/spegel?style=flat-square&color=blue)](https://github.com/spegel-org/spegel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spegel-org/spegel?style=flat-square&color=yellow)](https://github.com/spegel-org/spegel/stargazers) [![Forks](https://img.shields.io/github/forks/spegel-org/spegel?style=flat-square&color=blue)](https://github.com/spegel-org/spegel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Stateless cluster local OCI registry mirror.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

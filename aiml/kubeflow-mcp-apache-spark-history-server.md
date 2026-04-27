@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/kubeflow/mcp-apache-spark-history-server?style=flat-square&color=yellow)](https://github.com/kubeflow/mcp-apache-spark-history-server/stargazers) [![Forks](https://img.shields.io/github/forks/kubeflow/mcp-apache-spark-history-server?style=flat-square&color=blue)](https://github.com/kubeflow/mcp-apache-spark-history-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
-> MCP Server for Apache Spark History Server. The bridge between Agentic AI and Apache Spark.
+> MCP Server and CLI for Apache Spark History Server. The bridge between Agentic AI and Apache Spark.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 152 |
+| ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend · Data
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 

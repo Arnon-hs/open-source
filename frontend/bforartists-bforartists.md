@@ -1,6 +1,6 @@
 # Bforartists/Bforartists
 
-[![Stars](https://img.shields.io/github/stars/Bforartists/Bforartists?style=flat-square&color=yellow)](https://github.com/Bforartists/Bforartists/stargazers) [![Forks](https://img.shields.io/github/forks/Bforartists/Bforartists?style=flat-square&color=blue)](https://github.com/Bforartists/Bforartists/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bforartists/Bforartists?style=flat-square&color=yellow)](https://github.com/Bforartists/Bforartists/stargazers) [![Forks](https://img.shields.io/github/forks/Bforartists/Bforartists?style=flat-square&color=blue)](https://github.com/Bforartists/Bforartists/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 735 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

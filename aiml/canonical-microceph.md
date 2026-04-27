@@ -1,6 +1,6 @@
 # canonical/microceph
 
-[![Stars](https://img.shields.io/github/stars/canonical/microceph?style=flat-square&color=yellow)](https://github.com/canonical/microceph/stargazers) [![Forks](https://img.shields.io/github/forks/canonical/microceph?style=flat-square&color=blue)](https://github.com/canonical/microceph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/canonical/microceph?style=flat-square&color=yellow)](https://github.com/canonical/microceph/stargazers) [![Forks](https://img.shields.io/github/forks/canonical/microceph?style=flat-square&color=blue)](https://github.com/canonical/microceph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > MicroCeph is snap-deployed Ceph with built-in clustering
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 375 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

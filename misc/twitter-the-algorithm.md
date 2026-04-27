@@ -1,17 +1,17 @@
 # twitter/the-algorithm
 
-[![Stars](https://img.shields.io/github/stars/twitter/the-algorithm?style=flat-square&color=yellow)](https://github.com/twitter/the-algorithm/issues/1999/stargazers) [![Forks](https://img.shields.io/github/forks/twitter/the-algorithm?style=flat-square&color=blue)](https://github.com/twitter/the-algorithm/issues/1999/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/twitter/the-algorithm?style=flat-square&color=yellow)](https://github.com/twitter/the-algorithm/issues/1999/stargazers) [![Forks](https://img.shields.io/github/forks/twitter/the-algorithm?style=flat-square&color=blue)](https://github.com/twitter/the-algorithm/issues/1999/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Source code for the X Recommendation Algorithm
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 73.1k |
+| 🍴 **Forks** | 13.3k |
+| 💻 **Language** | Scala |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

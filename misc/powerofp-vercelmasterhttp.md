@@ -1,17 +1,17 @@
 # powerofp/vercelmasterhttp
 
-[![Stars](https://img.shields.io/github/stars/powerofp/vercelmasterhttp?style=flat-square&color=yellow)](https://github.com/powerofp/vercelmasterhttp/stargazers) [![Forks](https://img.shields.io/github/forks/powerofp/vercelmasterhttp?style=flat-square&color=blue)](https://github.com/powerofp/vercelmasterhttp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/powerofp/vercelmasterhttp?style=flat-square&color=yellow)](https://github.com/powerofp/vercelmasterhttp/stargazers) [![Forks](https://img.shields.io/github/forks/powerofp/vercelmasterhttp?style=flat-square&color=blue)](https://github.com/powerofp/vercelmasterhttp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> _No description provided._
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 64 |
+| 🍴 **Forks** | 70 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

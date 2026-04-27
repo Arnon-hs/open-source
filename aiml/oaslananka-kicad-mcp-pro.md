@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/oaslananka/kicad-mcp-pro?style=flat-square&color=yellow)](https://github.com/oaslananka/kicad-mcp-pro/stargazers) [![Forks](https://img.shields.io/github/forks/oaslananka/kicad-mcp-pro?style=flat-square&color=blue)](https://github.com/oaslananka/kicad-mcp-pro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Professional Model Context Protocol server for KiCad: project setup, schematic/PCB tooling, validation, and manufacturing exports.
+> Production-grade MCP server for KiCad 10/9 — AI-driven schematic capture, PCB layout, DRC/ERC/DFM validation, signal & power integrity, EMC checks, SPICE simulation, FreeRouting, and gated manufacturing exports (Gerber, BOM, IPC-2581, STEP).
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 94 |
+| ⭐ **Stars** | 95 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend · Design
 
 ## 📝 Summary
 
