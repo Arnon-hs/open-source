@@ -1,0 +1,32 @@
+# pgplex/pgschema
+
+[![Stars](https://img.shields.io/github/stars/pgplex/pgschema?style=flat-square&color=yellow)](https://github.com/pgplex/pgschema/stargazers) [![Forks](https://img.shields.io/github/forks/pgplex/pgschema?style=flat-square&color=blue)](https://github.com/pgplex/pgschema/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+
+> Terraform-style, declarative schema migration CLI for Postgres. Agent friendly.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 900 |
+| 🍴 **Forks** | 42 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI/ML · DevTools · DevOps/Infra
+
+## 📝 Summary
+
+pgplex/pgschema is a command-line tool for managing PostgreSQL database schema migrations in a declarative and Terraform-style approach. This agent-friendly utility allows users to define desired schema configurations and easily track changes, making it ideal for teams and workflows. By using pgplex/pgschema, users can maintain a consistent and up-to-date PostgreSQL schema across multiple environments.
+
+---
+
+<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/pgplex/pgschema) · [← Back to AI/ML](./README.md)</sub>

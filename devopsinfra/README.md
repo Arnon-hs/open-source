@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**177 projects** in this category.
+**178 projects** in this category.
 
 ## Projects
 
@@ -182,9 +182,10 @@
 | 172 | [kubernetes-sigs/downloadkubernetes](./kubernetes-sigs-downloadkubernetes.md) | ⭐ 123 | Go | 43/100 |
 | 173 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ 326 | Rust | 43/100 |
 | 174 | [kubernetes/kube-controller-manager](./kubernetes-kube-controller-manager.md) | ⭐ 105 | Go | 43/100 |
-| 175 | [zeroecco/holos](./zeroecco-holos.md) | ⭐ 124 | Go | 41/100 |
-| 176 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 38/100 |
-| 177 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 4 | Go | 34/100 |
+| 175 | [vmware-tanzu/vm-operator](./vmware-tanzu-vm-operator.md) | ⭐ 129 | Go | 42/100 |
+| 176 | [zeroecco/holos](./zeroecco-holos.md) | ⭐ 124 | Go | 41/100 |
+| 177 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 38/100 |
+| 178 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 4 | Go | 34/100 |
 
 ---
 
