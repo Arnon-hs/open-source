@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-This is an open-source MCP (Messenger Platform Connector) server designed specifically for LinkedIn, allowing integration with various AI assistants, including Claude and others compatible with MCP. The server grants access to LinkedIn's data, including profiles, companies, job listings, and messages. This project enables users to leverage LinkedIn's vast network through AI-powered applications.
+This open-source LinkedIn MCP server provides a interface for AI assistants like Claude and other MCP-compatible tools to access LinkedIn data, including profiles, companies, job listings, and messages. By utilizing this server, developers can create integrations that leverage LinkedIn's vast network and data. This project enables developers to build innovative applications that tap into the power of LinkedIn's data.
 
 ---
 

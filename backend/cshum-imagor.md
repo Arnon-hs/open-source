@@ -25,7 +25,9 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The imagor project is an open-source, high-performance image processing server and library written in Go. Built on top of the powerful libvips library, imagor enables developers to process images efficiently and securely, making it suitable for applications requiring rapid image processing, such as media platforms and social networks. This versatile tool offers a scalable solution for image manipulation tasks.
+Here's a brief summary for the imagor project:
+
+Imagor is an open-source image processing server and Go library that prioritizes speed and security. Built on top of the libvips library, it enables fast and efficient image processing operations. This versatile solution is suitable for use in backend infrastructure and development operations.
 
 ---
 

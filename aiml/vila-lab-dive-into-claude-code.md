@@ -25,7 +25,7 @@ AI/ML · Design
 
 ## 📝 Summary
 
-The "Dive-into-Claude-Code" project provides a systematic analysis and discussion of the Claude code, aiming to facilitate the design of advanced AI agent systems for both current and future applications. It offers an open-source resource for developers to explore and learn from the Claude code's architecture and functionality. By diving into the code, users can gain insights into AI system design and contribute to the project's growth and improvement.
+The Dive-into-Claude-Code project is an open-source initiative that provides a systematic analysis and discussion of Claude code, a crucial framework for designing modern and future AI agent systems. This comprehensive resource aims to facilitate a deeper understanding of Claude code and its applications in AI and machine learning. By exploring the intricacies of Claude code, developers and researchers can create more efficient and effective AI systems.
 
 ---
 

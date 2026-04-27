@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The aspect-build/aspect-cli is an open-source project that prioritizes speed and efficiency. It provides a command-line interface for building and managing frontend applications with ease, allowing developers to automate tasks and streamline their workflow. This tool is designed to help developers create, build, and deploy high-performance applications quickly and accurately.
+The aspect-build/aspect-cli project is an open-source tool designed to streamline development workflows. It offers a user-friendly command-line interface (CLI) that provides a flexible and efficient way to build, develop, and test applications. By automating various development tasks, aspect-cli aims to improve the productivity of frontend developers.
 
 ---
 

@@ -1,6 +1,6 @@
 # mono0926/LicensePlist
 
-[![Stars](https://img.shields.io/github/stars/mono0926/LicensePlist?style=flat-square&color=yellow)](https://github.com/mono0926/LicensePlist/stargazers) [![Forks](https://img.shields.io/github/forks/mono0926/LicensePlist?style=flat-square&color=blue)](https://github.com/mono0926/LicensePlist/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mono0926/LicensePlist?style=flat-square&color=yellow)](https://github.com/mono0926/LicensePlist/stargazers) [![Forks](https://img.shields.io/github/forks/mono0926/LicensePlist?style=flat-square&color=blue)](https://github.com/mono0926/LicensePlist/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A license list generator of all your dependencies for iOS applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

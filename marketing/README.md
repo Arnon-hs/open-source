@@ -2,7 +2,7 @@
 
 > 
 
-**17 projects** in this category.
+**18 projects** in this category.
 
 ## Projects
 
@@ -24,7 +24,8 @@
 | 14 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
 | 15 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 133 | MDX | 51/100 |
 | 16 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 16 | — | 50/100 |
-| 17 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 1 | — | 36/100 |
+| 17 | [garritfra/cell](./garritfra-cell.md) | ⭐ 120 | Rust | 46/100 |
+| 18 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 1 | — | 36/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # langchain-ai/langchain-aws
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain-aws?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchain-aws/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain-aws?style=flat-square&color=blue)](https://github.com/langchain-ai/langchain-aws/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain-aws?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchain-aws/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain-aws?style=flat-square&color=blue)](https://github.com/langchain-ai/langchain-aws/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Build LangChain Applications on AWS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 318 |
 | 🍴 **Forks** | 280 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

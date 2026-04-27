@@ -14,9 +14,9 @@
 | 4 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
 | 5 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
 | 6 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.1k | C | 100/100 |
-| 7 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.5k | C | 100/100 |
-| 8 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6.1k | C++ | 100/100 |
-| 9 | [zeek/zeek](./zeek-zeek.md) | ⭐ 7.6k | C++ | 100/100 |
+| 7 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6.1k | C++ | 100/100 |
+| 8 | [zeek/zeek](./zeek-zeek.md) | ⭐ 7.6k | C++ | 100/100 |
+| 9 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.5k | C | 100/100 |
 | 10 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
 | 11 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 25.9k | Go | 100/100 |
 | 12 | [shadowsocks/shadowsocks-rust](./shadowsocks-shadowsocks-rust.md) | ⭐ 10.6k | Rust | 99/100 |
@@ -65,8 +65,8 @@
 | 55 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 323 | Python | 53/100 |
 | 56 | [rfc-st/humble](./rfc-st-humble.md) | ⭐ 361 | Python | 53/100 |
 | 57 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 252 | Go | 52/100 |
-| 58 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
-| 59 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 612 | Go | 52/100 |
+| 58 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 612 | Go | 52/100 |
+| 59 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
 | 60 | [ohaswin/pyscan](./ohaswin-pyscan.md) | ⭐ 236 | Rust | 52/100 |
 | 61 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 457 | Rust | 52/100 |
 | 62 | [theopenlane/core](./theopenlane-core.md) | ⭐ 241 | Go | 52/100 |

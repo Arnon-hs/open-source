@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The VMware Tanzu VM Operator is an open-source project that enables self-service management of virtual infrastructure. It allows users to provision, manage, and orchestrate virtual machines in a scalable and automated manner, simplifying IT operations and streamlining the development process. This tool is designed to cater to the needs of DevOps and infrastructure teams, promoting efficient resource allocation and management.
+The vm-operator is an open-source project that enables self-service management of virtual infrastructure. It allows users to automate the deployment and management of virtual machines, providing a scalable and efficient way to manage virtual resources. By streamlining virtual infrastructure management, vm-operator facilitates a more agile and responsive DevOps environment.
 
 ---
 

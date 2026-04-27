@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Tera is an open-source, compiler-native UI framework that provides a shared runtime and AI context for efficient and seamless user interfaces. This innovative project aims to bridge the gap between AI and user interface development, enabling developers to create sophisticated and intelligent UI experiences. By leveraging a shared runtime, Tera facilitates faster development and improved performance for modern web applications.
+Tera is an open-source, compiler-native UI framework that enables the creation of high-performance applications by leveraging a shared runtime and AI context. This innovative framework aims to bridge the gap between AI and frontend development, providing a powerful platform for building scalable and efficient user interfaces. By utilizing compiler-native capabilities, Tera seeks to offer unparalleled performance and flexibility for modern application development.
 
 ---
 

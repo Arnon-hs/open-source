@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Claude, an open-source project, appears to be experiencing an issue where prompt-cache writes are not immediately visible to subsequent requests. This problem was reported through a Hacker News mention on GitHub. The project is categorized as "Misc" due to its miscellaneous nature.
+The Claude prompt-cache issue affects the visibility of writes made to the cache in an open-source project. Specifically, changes may not be immediately apparent to subsequent requests due to a problem discovered on Hacker News. This issue falls under the 'Misc' category.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Compozy is an open-source project that facilitates the entire lifecycle of AI-assisted development, from conceptualization to deployment of shipped code. It aims to streamline the development process by leveraging AI/ML capabilities to enhance productivity and efficiency. This project empowers developers to build and deliver high-quality software faster and more effectively.
+Compozy is an open-source project designed to drive the full lifecycle of AI-assisted development, from conceptualization to deployment. This AI-driven platform aims to streamline the development process by providing a comprehensive toolset for building, testing, and shipping code. With Compozy, developers can leverage AI to automate and optimize their workflow, increasing efficiency and productivity.
 
 ---
 

@@ -25,7 +25,7 @@ DevTools · Mobile · Security
 
 ## 📝 Summary
 
-This open-source project provides a set of tooling for rootless security testing of Android devices, allowing developers and security researchers to assess the security of Android devices without requiring root access. The project's tooling enables a range of security tests to be performed, improving the efficiency and effectiveness of Android security testing. By using this project, users can identify vulnerabilities and strengthen the security of their Android devices.
+This open-source project provides rootless security testing capabilities for Android devices, enabling developers and security researchers to thoroughly evaluate the security of Android devices without requiring root access. By leveraging this tool, users can simulate various attacks and test the robustness of their devices, ultimately enhancing the overall security of the Android ecosystem. This project is particularly valuable for its non-intrusive approach to security testing.
 
 ---
 

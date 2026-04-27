@@ -25,7 +25,7 @@ AI/ML · Product
 
 ## 📝 Summary
 
-CrabTrap is an open-source project that utilizes a Large Language Model (LLM) as a judge in an HTTP proxy setup, providing an additional layer of security for agents in production environments. This LLM-based proxy serves as a safeguard to help detect and prevent malicious activities, enhancing the overall security posture of the system. By leveraging AI-powered threat detection, CrabTrap aims to minimize the risk of attacks on sensitive applications.
+CrabTrap is an open-source HTTP proxy that leverages Large Language Models (LLMs) to serve as a judge, securing agents in production environments. By implementing this LLM-as-a-judge approach, CrabTrap helps to detect and mitigate potential threats in real-time, enhancing the overall security and reliability of connected systems. This innovative solution combines the strengths of AI and HTTP proxying to safeguard critical infrastructure.
 
 ---
 

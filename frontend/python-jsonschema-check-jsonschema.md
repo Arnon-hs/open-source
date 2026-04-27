@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-This open-source project, python-jsonschema/check-jsonschema, provides a command-line interface and pre-commit hooks for jsonschema validation, enabling developers to easily integrate schema validation into their workflows. It offers pre-built configurations for popular CI/CD tools like GitHub Workflows, Renovate, and Azure Pipelines. This project simplifies the process of ensuring JSON data conforms to established schemas.
+This open-source project, "check-jsonschema," is a command-line tool and set of pre-commit hooks that enables jsonschema validation for ensuring data consistency and integrity. It provides built-in support for popular CI/CD tools such as GitHub Workflows, Renovate, and Azure Pipelines. By integrating this tool into your development workflow, you can automate jsonschema validation and catch errors early on.
 
 ---
 

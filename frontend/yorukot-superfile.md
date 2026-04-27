@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The superfile project is an open-source, modern terminal file manager designed to provide a sleek and user-friendly experience. This frontend-focused tool allows users to manage files with ease, leveraging the capabilities of the terminal to streamline their workflow. With its focus on user experience, superfile aims to simplify file management tasks.
+Here's a brief summary for the open-source project "superfile":
+
+Superfile is an open-source, modern terminal file manager designed for a sleek and intuitive user experience. This project provides a visually appealing and user-friendly interface for managing files in the terminal, aiming to streamline file organization and navigation. With its focus on frontend and developer tools, Superfile is an innovative solution for terminal-based file management.
 
 ---
 

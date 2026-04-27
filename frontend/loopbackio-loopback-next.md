@@ -1,6 +1,6 @@
 # loopbackio/loopback-next
 
-[![Stars](https://img.shields.io/github/stars/loopbackio/loopback-next?style=flat-square&color=yellow)](https://github.com/loopbackio/loopback-next/stargazers) [![Forks](https://img.shields.io/github/forks/loopbackio/loopback-next?style=flat-square&color=blue)](https://github.com/loopbackio/loopback-next/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/loopbackio/loopback-next?style=flat-square&color=yellow)](https://github.com/loopbackio/loopback-next/stargazers) [![Forks](https://img.shields.io/github/forks/loopbackio/loopback-next?style=flat-square&color=blue)](https://github.com/loopbackio/loopback-next/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > LoopBack makes it easy to build modern API applications that require complex integrations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 100/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

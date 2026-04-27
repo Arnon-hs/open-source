@@ -1,6 +1,6 @@
 # openconfig/public
 
-[![Stars](https://img.shields.io/github/stars/openconfig/public?style=flat-square&color=yellow)](https://github.com/openconfig/public/stargazers) [![Forks](https://img.shields.io/github/forks/openconfig/public?style=flat-square&color=blue)](https://github.com/openconfig/public/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openconfig/public?style=flat-square&color=yellow)](https://github.com/openconfig/public/stargazers) [![Forks](https://img.shields.io/github/forks/openconfig/public?style=flat-square&color=blue)](https://github.com/openconfig/public/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Repository for publishing OpenConfig models, documentation, and other material for the community.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 971 |
 | 🍴 **Forks** | 697 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

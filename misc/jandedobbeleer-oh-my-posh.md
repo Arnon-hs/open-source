@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Oh-My-Posh is an open-source project that provides a highly customizable and low-latency cross-platform shell prompt renderer. It allows users to personalize their command-line interface with a wide range of themes and styles, offering a seamless and visually appealing experience. This project supports various platforms, making it a versatile solution for users across different operating systems.
+Oh-My-Posh is an open-source project that offers a highly customizable and efficient cross-platform shell prompt renderer. It allows users to personalize their terminal experience with various themes, styles, and features. This project aims to provide a low-latency and flexible solution for shell prompt rendering, supporting multiple platforms.
 
 ---
 

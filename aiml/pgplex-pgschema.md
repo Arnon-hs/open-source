@@ -25,7 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-pgplex/pgschema is a command-line tool for managing PostgreSQL database schema migrations in a declarative and Terraform-style approach. This agent-friendly utility allows users to define desired schema configurations and easily track changes, making it ideal for teams and workflows. By using pgplex/pgschema, users can maintain a consistent and up-to-date PostgreSQL schema across multiple environments.
+pgplex/pgschema is an open-source, declarative schema migration tool for Postgres, designed to simplify the process of managing database schema changes. This Terraform-style CLI allows developers to define desired schema states and automatically applies the necessary migrations, making it an agent-friendly DevOps/Infra solution. By using pgplex/pgschema, developers can streamline their database schema management and reduce the risk of human error.
 
 ---
 

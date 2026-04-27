@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The supermodeltools/cli project is an open-source toolset that leverages code graphs to analyze and optimize AI/ML model performance, resulting in significant cost savings of up to 40% on agent token costs. It provides features such as call graphs, dependency graphs, dead code detection, and blast radius analysis to improve model efficiency. By utilizing code graphs, developers can refine their models and reduce unnecessary computations.
+The supermodeltools/cli project is an open-source toolset designed to optimize agent token costs by analyzing code complexity through call graphs, dependency graphs, dead code detection, and blast radius analysis. This tool aims to help developers reduce costs associated with code execution by identifying and eliminating unnecessary dependencies. By leveraging AI/ML capabilities, supermodeltools/cli enables more efficient code optimization and enhanced developer productivity.
 
 ---
 

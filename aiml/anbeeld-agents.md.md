@@ -1,6 +1,6 @@
 # Anbeeld/AGENTS.md
 
-[![Stars](https://img.shields.io/github/stars/Anbeeld/AGENTS.md?style=flat-square&color=yellow)](https://github.com/Anbeeld/AGENTS.md/stargazers) [![Forks](https://img.shields.io/github/forks/Anbeeld/AGENTS.md?style=flat-square&color=blue)](https://github.com/Anbeeld/AGENTS.md/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anbeeld/AGENTS.md?style=flat-square&color=yellow)](https://github.com/Anbeeld/AGENTS.md/stargazers) [![Forks](https://img.shields.io/github/forks/Anbeeld/AGENTS.md?style=flat-square&color=blue)](https://github.com/Anbeeld/AGENTS.md/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Global instructions for coding agents: evidence, parallelization, validation, all in one AGENTS.md / CLAUDE.md
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 35 |
-| 🍴 **Forks** | 5 |
-| 💻 **Language** | PowerShell |
+| ⭐ **Stars** | 41 |
+| 🍴 **Forks** | 6 |
+| 💻 **Language** | Shell |
 | 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

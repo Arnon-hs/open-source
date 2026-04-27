@@ -1,6 +1,6 @@
 # seojoonkim/memkraft
 
-[![Stars](https://img.shields.io/github/stars/seojoonkim/memkraft?style=flat-square&color=yellow)](https://github.com/seojoonkim/memkraft/stargazers) [![Forks](https://img.shields.io/github/forks/seojoonkim/memkraft?style=flat-square&color=blue)](https://github.com/seojoonkim/memkraft/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seojoonkim/memkraft?style=flat-square&color=yellow)](https://github.com/seojoonkim/memkraft/stargazers) [![Forks](https://img.shields.io/github/forks/seojoonkim/memkraft?style=flat-square&color=blue)](https://github.com/seojoonkim/memkraft/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Ultimate zero-dependency compound knowledge system for AI agents. Auto-extract, classify, search, and maintain memory in plain Markdown.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 169 |
+| ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

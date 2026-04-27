@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-MediaCMS is an open-source video and media content management system, built using Python, Django, and React. It features a robust REST API and provides a modern, fully-featured platform for managing and delivering media content. This versatile CMS is designed to meet the needs of a wide range of users, from small media outlets to large-scale content providers.
+MediaCMS is an open-source video and media content management system that combines a robust backend built with Python and Django with a modern, user-friendly interface crafted in React. This comprehensive platform features a REST API, enabling seamless integration and customization. With MediaCMS, users can efficiently manage, publish, and distribute media content across various channels.
 
 ---
 

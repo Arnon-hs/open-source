@@ -1,6 +1,6 @@
 # fawry-api/fawry
 
-[![Stars](https://img.shields.io/github/stars/fawry-api/fawry?style=flat-square&color=yellow)](https://github.com/fawry-api/fawry/stargazers) [![Forks](https://img.shields.io/github/forks/fawry-api/fawry?style=flat-square&color=blue)](https://github.com/fawry-api/fawry/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fawry-api/fawry?style=flat-square&color=yellow)](https://github.com/fawry-api/fawry/stargazers) [![Forks](https://img.shields.io/github/forks/fawry-api/fawry?style=flat-square&color=blue)](https://github.com/fawry-api/fawry/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A plug-and-play library to interface with Fawry's payment gateway API (charge, refund, payment status, card payment, service callback v2) - (مكتبة بسيطة للتواصل مع شبكة خدمات الدفع الإلكتروني فوري (دفع٬ استرجاع٬ حالة الدفع٬ دفع بالكارت، رد السيرفر
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 69 |
+| ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

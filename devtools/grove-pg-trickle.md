@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The pgvector Tooling Landscape in 2026 is an open-source project that aims to document and provide a comprehensive overview of the current state of pgvector tooling. This project seeks to facilitate a better understanding of the available tools and resources for working with pgvector in 2026. By offering a centralized hub of information, developers can more efficiently navigate and utilize the pgvector ecosystem.
+The pgvector Tooling Landscape in 2026 is an open-source project that aims to provide a comprehensive overview of the current state of tooling for pgvector, a popular vector data type for PostgreSQL. This project offers valuable insights and resources for developers working with pgvector, facilitating their understanding and utilization of the technology. By contributing to this landscape, developers can enhance their productivity and efficiency when working with pgvector.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here is a brief summary of the open-source project:
-
-The brainstorm-mcp project is an open-source MCP (Multi-Cloud Platform) server designed to facilitate multi-round AI brainstorming debates between various AI models, including GPT, DeepSeek, Groq, Ollama, and more. This platform enables users to engage in dynamic, model-to-model discussions, fostering innovative ideas and improving AI collaboration. By providing a scalable and adaptable infrastructure, brainstorm-mcp empowers researchers and developers to push the boundaries of AI-powered brainstorming and debate.
+The brainstorm-mcp project is an open-source MCP (Model-Controller-Proxy) server designed for multi-round AI brainstorming debates between various models, including GPT, DeepSeek, Groq, and Ollama. This platform enables the creation of engaging and dynamic discussions between AI models, fostering innovative ideas and insights through collaborative debate. By facilitating multi-model debates, brainstorm-mcp aims to accelerate AI research and development.
 
 ---
 

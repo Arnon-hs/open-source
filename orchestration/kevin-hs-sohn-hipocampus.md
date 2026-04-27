@@ -1,6 +1,6 @@
 # kevin-hs-sohn/hipocampus
 
-[![Stars](https://img.shields.io/github/stars/kevin-hs-sohn/hipocampus?style=flat-square&color=yellow)](https://github.com/kevin-hs-sohn/hipocampus/stargazers) [![Forks](https://img.shields.io/github/forks/kevin-hs-sohn/hipocampus?style=flat-square&color=blue)](https://github.com/kevin-hs-sohn/hipocampus/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kevin-hs-sohn/hipocampus?style=flat-square&color=yellow)](https://github.com/kevin-hs-sohn/hipocampus/stargazers) [![Forks](https://img.shields.io/github/forks/kevin-hs-sohn/hipocampus?style=flat-square&color=blue)](https://github.com/kevin-hs-sohn/hipocampus/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Drop-in memory harness for AI agents — 3-tier memory, compaction tree, hybrid search. One command to set up. Works with Claude Code and OpenClaw.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
