@@ -1,6 +1,6 @@
 # dovecot/core
 
-[![Stars](https://img.shields.io/github/stars/dovecot/core?style=flat-square&color=yellow)](https://github.com/dovecot/core/stargazers) [![Forks](https://img.shields.io/github/forks/dovecot/core?style=flat-square&color=blue)](https://github.com/dovecot/core/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dovecot/core?style=flat-square&color=yellow)](https://github.com/dovecot/core/stargazers) [![Forks](https://img.shields.io/github/forks/dovecot/core?style=flat-square&color=blue)](https://github.com/dovecot/core/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Dovecot mail server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 336 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

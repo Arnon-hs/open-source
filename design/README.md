@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**32 projects** in this category.
+**33 projects** in this category.
 
 ## Projects
 
@@ -22,24 +22,25 @@
 | 12 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 72/100 |
 | 13 | [sipsorcery-org/sipsorcery](./sipsorcery-org-sipsorcery.md) | ⭐ 1.9k | C# | 71/100 |
 | 14 | [aws-samples/amazon-bedrock-workshop](./aws-samples-amazon-bedrock-workshop.md) | ⭐ 2.1k | Jupyter Notebook | 69/100 |
-| 15 | [metacraft-labs/codetracer](./metacraft-labs-codetracer.md) | ⭐ 1.3k | Rust | 59/100 |
-| 16 | [lahin31/system-design-bangla](./lahin31-system-design-bangla.md) | ⭐ 1.2k | — | 56/100 |
-| 17 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 55/100 |
-| 18 | [juspay/superposition](./juspay-superposition.md) | ⭐ 412 | Rust | 53/100 |
-| 19 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
-| 20 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
+| 15 | [Jelmerro/Vieb](./jelmerro-vieb.md) | ⭐ 1.6k | JavaScript | 60/100 |
+| 16 | [metacraft-labs/codetracer](./metacraft-labs-codetracer.md) | ⭐ 1.3k | Rust | 59/100 |
+| 17 | [lahin31/system-design-bangla](./lahin31-system-design-bangla.md) | ⭐ 1.2k | — | 56/100 |
+| 18 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 55/100 |
+| 19 | [juspay/superposition](./juspay-superposition.md) | ⭐ 412 | Rust | 53/100 |
+| 20 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
 | 21 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 209 | PHP | 52/100 |
-| 22 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
+| 22 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
 | 23 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 225 | Go | 52/100 |
-| 24 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 601 | PHP | 50/100 |
-| 25 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 50/100 |
-| 26 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
-| 27 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 438 | JavaScript | 49/100 |
-| 28 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 233 | Go | 48/100 |
-| 29 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
-| 30 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
-| 31 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 522 | Python | 46/100 |
-| 32 | [bergside/design-md-figma](./bergside-design-md-figma.md) | ⭐ — | — | 39/100 |
+| 24 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
+| 25 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 601 | PHP | 50/100 |
+| 26 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 50/100 |
+| 27 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
+| 28 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 438 | JavaScript | 49/100 |
+| 29 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 233 | Go | 48/100 |
+| 30 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
+| 31 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
+| 32 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 522 | Python | 46/100 |
+| 33 | [bergside/design-md-figma](./bergside-design-md-figma.md) | ⭐ — | — | 39/100 |
 
 ---
 

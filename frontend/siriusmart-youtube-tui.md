@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Siriusmart's YouTube TUI is an open-source, command-line based YouTube client written in Rust. This aesthetically pleasing tool provides a user-friendly interface for browsing, searching, and playing YouTube videos directly from the terminal. With its intuitive design and robust features, users can enjoy a seamless YouTube experience without the need for a web browser.
+The YouTube TUI is an open-source, Rust-based terminal interface designed to provide an aesthetically pleasing experience for browsing YouTube videos. This project allows users to navigate and interact with YouTube content directly from the terminal, enabling a unique and distraction-free way to consume videos. The project's focus on a user-friendly interface and Rust programming make it an attractive option for developers and YouTube enthusiasts alike.
 
 ---
 

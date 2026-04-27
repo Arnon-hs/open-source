@@ -1,6 +1,6 @@
 # npstorey/civic-ai-tools
 
-[![Stars](https://img.shields.io/github/stars/npstorey/civic-ai-tools?style=flat-square&color=yellow)](https://github.com/npstorey/civic-ai-tools/stargazers) [![Forks](https://img.shields.io/github/forks/npstorey/civic-ai-tools?style=flat-square&color=blue)](https://github.com/npstorey/civic-ai-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/npstorey/civic-ai-tools?style=flat-square&color=yellow)](https://github.com/npstorey/civic-ai-tools/stargazers) [![Forks](https://img.shields.io/github/forks/npstorey/civic-ai-tools?style=flat-square&color=blue)](https://github.com/npstorey/civic-ai-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source platform connecting AI assistants to government open data — MCP server, curated civic MCP directory, and anti-hallucination framework for all 559 Socrata portals
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

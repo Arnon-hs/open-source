@@ -1,6 +1,6 @@
 # cadence-workflow/cadence-go-client
 
-[![Stars](https://img.shields.io/github/stars/cadence-workflow/cadence-go-client?style=flat-square&color=yellow)](https://github.com/cadence-workflow/cadence-go-client/stargazers) [![Forks](https://img.shields.io/github/forks/cadence-workflow/cadence-go-client?style=flat-square&color=blue)](https://github.com/cadence-workflow/cadence-go-client/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cadence-workflow/cadence-go-client?style=flat-square&color=yellow)](https://github.com/cadence-workflow/cadence-go-client/stargazers) [![Forks](https://img.shields.io/github/forks/cadence-workflow/cadence-go-client?style=flat-square&color=blue)](https://github.com/cadence-workflow/cadence-go-client/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Framework for authoring workflows and activities running on top of the Cadence orchestration engine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 375 |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

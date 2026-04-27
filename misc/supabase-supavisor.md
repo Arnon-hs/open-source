@@ -1,6 +1,6 @@
 # supabase/supavisor
 
-[![Stars](https://img.shields.io/github/stars/supabase/supavisor?style=flat-square&color=yellow)](https://github.com/supabase/supavisor/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/supavisor?style=flat-square&color=blue)](https://github.com/supabase/supavisor/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supabase/supavisor?style=flat-square&color=yellow)](https://github.com/supabase/supavisor/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/supavisor?style=flat-square&color=blue)](https://github.com/supabase/supavisor/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A cloud-native, multi-tenant Postgres connection pooler.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

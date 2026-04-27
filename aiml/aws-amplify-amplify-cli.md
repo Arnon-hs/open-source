@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The AWS Amplify CLI is an open-source toolchain that simplifies serverless development for web and mobile applications. It streamlines the process of building, deploying, and managing cloud-based projects, enabling developers to focus on creating innovative user experiences. With Amplify CLI, developers can leverage a suite of features and services to build scalable, secure, and performant applications with ease.
+Here's a brief summary for the AWS Amplify CLI project:
+
+The AWS Amplify CLI is a powerful toolchain that simplifies serverless web and mobile development by providing a unified interface for building, deploying, and managing applications on AWS. With its intuitive command-line interface, developers can quickly integrate AWS services, such as authentication, analytics, and storage, into their projects. This open-source project enables seamless development and deployment of scalable, secure, and high-performance applications on the cloud.
 
 ---
 

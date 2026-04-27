@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Hegel-Rust is an open-source property-based testing library for Rust, designed to help developers write robust and reliable code. Built on top of Hypothesis, a popular property-based testing engine, Hegel-Rust enables automated testing of Rust programs to ensure their correctness and functionality under various scenarios. This library simplifies the process of writing comprehensive tests, allowing developers to focus on writing high-quality code.
+Hegel-rust is an open-source property-based testing framework for Rust applications, leveraging the Hypothesis library. This framework enables the creation of robust and comprehensive test cases, allowing developers to verify the correctness of their code under a wide range of inputs and scenarios. By using property-based testing, Rust developers can enhance the reliability and maintainability of their software.
 
 ---
 

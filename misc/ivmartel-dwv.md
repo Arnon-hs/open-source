@@ -1,6 +1,6 @@
 # ivmartel/dwv
 
-[![Stars](https://img.shields.io/github/stars/ivmartel/dwv?style=flat-square&color=yellow)](https://github.com/ivmartel/dwv/stargazers) [![Forks](https://img.shields.io/github/forks/ivmartel/dwv?style=flat-square&color=blue)](https://github.com/ivmartel/dwv/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ivmartel/dwv?style=flat-square&color=yellow)](https://github.com/ivmartel/dwv/stargazers) [![Forks](https://img.shields.io/github/forks/ivmartel/dwv?style=flat-square&color=blue)](https://github.com/ivmartel/dwv/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > DICOM Web Viewer: open source zero footprint medical image library.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 620 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

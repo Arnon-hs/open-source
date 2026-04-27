@@ -1,16 +1,16 @@
 # glama-ai/lightport
 
-[![Stars](https://img.shields.io/github/stars/glama-ai/lightport?style=flat-square&color=yellow)](https://github.com/glama-ai/lightport/stargazers) [![Forks](https://img.shields.io/github/forks/glama-ai/lightport?style=flat-square&color=blue)](https://github.com/glama-ai/lightport/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/glama-ai/lightport?style=flat-square&color=yellow)](https://github.com/glama-ai/lightport/stargazers) [![Forks](https://img.shields.io/github/forks/glama-ai/lightport?style=flat-square&color=blue)](https://github.com/glama-ai/lightport/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> A lightweight AI gateway that makes LLM providers OpenAI-compatible.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |

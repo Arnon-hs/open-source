@@ -27,7 +27,7 @@ AI/ML · Backend · Data
 
 Here's a brief summary for the open-source project:
 
-Netbox-MCP-Server enables seamless interaction between Large Language Models (LLMs) and NetBox data, providing a read-only Model Context Protocol (MCP) server for AI/ML applications. This project allows LLMs to access and utilize NetBox data, facilitating more accurate and informed decision-making. By bridging the gap between LLMs and NetBox, this project unlocks new possibilities for data-driven AI innovation.
+Netbox-mcp-server is an open-source Model Context Protocol (MCP) server that enables read-only interaction with NetBox data in large language models (LLMs). This library provides a seamless way for LLMs to access NetBox data, facilitating the development of network infrastructure-focused AI applications. By leveraging MCP, users can unlock the potential of NetBox data in their AI-powered projects.
 
 ---
 

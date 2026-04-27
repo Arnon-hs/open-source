@@ -1,6 +1,6 @@
 # ngrok/ngrok-operator
 
-[![Stars](https://img.shields.io/github/stars/ngrok/ngrok-operator?style=flat-square&color=yellow)](https://github.com/ngrok/ngrok-operator/stargazers) [![Forks](https://img.shields.io/github/forks/ngrok/ngrok-operator?style=flat-square&color=blue)](https://github.com/ngrok/ngrok-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ngrok/ngrok-operator?style=flat-square&color=yellow)](https://github.com/ngrok/ngrok-operator/stargazers) [![Forks](https://img.shields.io/github/forks/ngrok/ngrok-operator?style=flat-square&color=blue)](https://github.com/ngrok/ngrok-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The official ngrok Kubernetes Operator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 259 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

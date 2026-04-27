@@ -1,6 +1,6 @@
 # emanuele-em/proxelar
 
-[![Stars](https://img.shields.io/github/stars/emanuele-em/proxelar?style=flat-square&color=yellow)](https://github.com/emanuele-em/proxelar/stargazers) [![Forks](https://img.shields.io/github/forks/emanuele-em/proxelar?style=flat-square&color=blue)](https://github.com/emanuele-em/proxelar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emanuele-em/proxelar?style=flat-square&color=yellow)](https://github.com/emanuele-em/proxelar/stargazers) [![Forks](https://img.shields.io/github/forks/emanuele-em/proxelar?style=flat-square&color=blue)](https://github.com/emanuele-em/proxelar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is    doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 947 |
+| ⭐ **Stars** | 948 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

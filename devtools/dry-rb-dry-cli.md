@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The dry-rb/dry-cli project is an open-source, general-purpose Command Line Interface (CLI) framework for Ruby, designed to provide a robust and flexible foundation for building command-line tools. It offers a structured approach to CLI development, allowing developers to focus on writing business logic without worrying about the intricacies of command-line parsing and execution. This framework enables the creation of efficient, maintainable, and testable CLIs.
+The dry-cli project is an open-source, general-purpose Command Line Interface (CLI) framework designed for Ruby developers. It provides a robust foundation for building efficient, flexible, and scalable command-line tools, enabling developers to create robust CLI applications with ease. By leveraging dry-cli, developers can focus on crafting high-quality CLI experiences without the need for extensive boilerplate code.
 
 ---
 

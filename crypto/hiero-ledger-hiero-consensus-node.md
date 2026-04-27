@@ -25,7 +25,7 @@ Crypto
 
 ## 📝 Summary
 
-The hiero-ledger/hiero-consensus-node project is an open-source initiative that provides comprehensive services for a Hiero-based network, encompassing cryptography, token management, consensus mechanisms, file storage, and smart contract functionality. This project aims to establish a robust and decentralized infrastructure for a Hiero network, enabling secure and efficient transactions and interactions. By contributing to this project, developers can help shape the future of Hiero's decentralized ecosystem.
+This open-source project, hiero-ledger/hiero-consensus-node, provides a comprehensive set of services for a Hiero-based network, including crypto, token, consensus, file, and smart contract functionality. It enables the development of secure and scalable blockchain applications, facilitating seamless interactions within the Hiero network. By offering these essential services, the project empowers users to build and deploy decentralized solutions with ease.
 
 ---
 

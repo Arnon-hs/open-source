@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-rquickjs is an open-source, high-level binding to the QuickJS JavaScript engine, providing a seamless integration for developers to leverage the power of JavaScript in their applications. This project offers a convenient and easy-to-use interface to the QuickJS engine, allowing for efficient and lightweight JavaScript execution. With rquickjs, developers can tap into the capabilities of QuickJS while maintaining a high level of abstraction and simplicity.
+rquickjs is an open-source project that provides high-level bindings to the QuickJS JavaScript engine, offering a lightweight and efficient way to integrate JavaScript capabilities into applications. This project enables developers to leverage the power of QuickJS in their frontend projects, simplifying the process of working with JavaScript in native environments. By using rquickjs, developers can create high-performance and feature-rich applications.
 
 ---
 

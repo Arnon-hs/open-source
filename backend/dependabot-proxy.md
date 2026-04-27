@@ -25,7 +25,7 @@ Backend · Security
 
 ## 📝 Summary
 
-Dependabot's proxy is an open-source, HTTP proxy tool designed to authenticate requests to various package registries, Git servers, and the GitHub API, ensuring secure access to these services. By utilizing this proxy, developers can manage authentication and authorization for their dependencies, increasing security and reducing the risk of unauthorized access. This proxy is an essential component for Dependabot's functionality, allowing for seamless authentication and package management.
+Dependabot's HTTP proxy is an open-source project that enables secure authentication for requests to package registries, Git servers, and the GitHub API. This proxy helps protect sensitive information by verifying requests and granting access only to authorized users. By using Dependabot's HTTP proxy, developers can ensure the integrity and security of their dependencies and repositories.
 
 ---
 

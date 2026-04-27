@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"Integrate the pi.dev coding agent with your GitHub workflow using this open-source GitHub action, enabling seamless AI-powered code review and suggestions within your CI/CD pipeline and issue tracking. This action streamlines the development process, allowing developers to harness the power of AI-driven code analysis and improve overall code quality. Perfect for AI/ML projects, this action fosters collaboration and productivity through intelligent code review."
+The shaftoe/pi-coding-agent-action is an open-source GitHub action that integrates the pi.dev coding agent with GitHub's CI/CD, issue, and pull request workflows. This integration enables seamless automation of coding tasks, allowing developers to leverage AI/ML capabilities within their GitHub-based projects. By using this action, developers can streamline their coding process and enhance collaboration within their teams.
 
 ---
 

@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Khal is an open-source, command-line interface (CLI) calendar application designed for simplicity and ease of use. It allows users to view and manage calendar events in a text-based format, making it an ideal tool for those who prefer a minimalistic approach to calendar management. With khal, users can efficiently keep track of appointments, meetings, and other important dates.
+Khal is an open-source command-line interface (CLI) calendar application designed to provide users with a simple and efficient way to manage their schedules. This tool allows for viewing and editing calendar events in a variety of formats, making it a useful utility for system administrators and developers. With khal, users can easily access and manipulate their calendar data from the comfort of their terminal.
 
 ---
 

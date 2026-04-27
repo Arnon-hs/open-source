@@ -1,6 +1,6 @@
 # open-lambda/open-lambda
 
-[![Stars](https://img.shields.io/github/stars/open-lambda/open-lambda?style=flat-square&color=yellow)](https://github.com/open-lambda/open-lambda/stargazers) [![Forks](https://img.shields.io/github/forks/open-lambda/open-lambda?style=flat-square&color=blue)](https://github.com/open-lambda/open-lambda/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-lambda/open-lambda?style=flat-square&color=yellow)](https://github.com/open-lambda/open-lambda/stargazers) [![Forks](https://img.shields.io/github/forks/open-lambda/open-lambda?style=flat-square&color=blue)](https://github.com/open-lambda/open-lambda/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An open source serverless computing platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

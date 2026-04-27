@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Beadwork is an open-source, git-native work management tool designed for collaborative projects involving humans and AI coding agents. It stores plans, progress, and decisions as files on an orphan branch, keeping them organized and separate from individual work repositories. This innovative approach helps streamline project management and facilitates seamless integration with AI coding agents.
+Beadwork is an open-source, git-native work management tool designed for collaborative projects between humans and AI coding agents. It allows users to track plans, progress, and decisions by persisting them as files on an orphan branch, keeping project information organized and easily accessible. This innovative approach streamlines communication and workflow between humans and AI agents.
 
 ---
 

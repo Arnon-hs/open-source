@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-Fibratus is an open-source project that focuses on adversary tradecraft detection, protection, and hunting. It provides a comprehensive toolset for identifying and mitigating advanced threats, helping to improve the security posture of an organization. Fibratus offers real-time monitoring and analysis of system calls, memory, and other critical system data to detect and respond to potential security incidents.
+Fibratus is an open-source project designed to detect and prevent adversary tradecraft, a set of techniques used by malicious actors to infiltrate and maintain control over systems. This security-focused tool enables detection, protection, and hunting of adversary activities, helping organizations strengthen their defenses against sophisticated threats. By leveraging Fibratus, users can gain valuable insights into potential security breaches and take proactive measures to safeguard their systems.
 
 ---
 

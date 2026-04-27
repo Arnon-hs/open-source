@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The tborychowski/self-hosted-cookbook is an open-source collection of Docker Compose recipes for self-hosted applications and services. This project provides a central resource for DevOps and infrastructure teams to discover and use pre-configured, self-hosted solutions for various use cases. By contributing to and utilizing this cookbook, users can streamline their self-hosted infrastructure setup and deployment processes.
+The tborychowski/self-hosted-cookbook is an open-source collection of Docker-compose recipes for self-hosting various applications and services. This project provides a centralized repository of deployable configurations, making it easier for users to set up and manage their own self-hosted infrastructure. It is designed to facilitate DevOps and infrastructure management by offering a curated set of recipes for common self-hosted applications.
 
 ---
 

@@ -25,9 +25,9 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the Ozark-Connect/NetworkOptimizer project:
+Here's a 2-3 sentence summary for the Ozark-Connect/NetworkOptimizer project:
 
-Ozark-Connect/NetworkOptimizer is an open-source, self-hosted tool designed to optimize and secure UniFi Networks. It offers advanced features such as wireless health scoring, channel optimization, and security audits for DNS, VLAN, and firewall configurations. This comprehensive platform also includes centralized network speed testing and modem monitoring, providing users with a holistic view of their network's performance and security.
+Ozark-Connect/NetworkOptimizer is an open-source tool for UniFi network administrators, providing a comprehensive performance optimization and security audit solution. This self-hosted platform offers features like Wi-Fi optimization, advanced security checks, config suggestions, and network speed testing, helping users to improve their network's health and security. With its range of tools and features, Ozark-Connect/NetworkOptimizer empowers network administrators to troubleshoot and optimize their UniFi networks more efficiently.
 
 ---
 

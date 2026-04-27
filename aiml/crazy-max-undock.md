@@ -1,6 +1,6 @@
 # crazy-max/undock
 
-[![Stars](https://img.shields.io/github/stars/crazy-max/undock?style=flat-square&color=yellow)](https://github.com/crazy-max/undock/stargazers) [![Forks](https://img.shields.io/github/forks/crazy-max/undock?style=flat-square&color=blue)](https://github.com/crazy-max/undock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crazy-max/undock?style=flat-square&color=yellow)](https://github.com/crazy-max/undock/stargazers) [![Forks](https://img.shields.io/github/forks/crazy-max/undock?style=flat-square&color=blue)](https://github.com/crazy-max/undock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Extract contents of a container image in a local folder
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 230 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,17 +1,17 @@
 # allenj12/anchor
 
-[![Stars](https://img.shields.io/github/stars/allenj12/anchor?style=flat-square&color=yellow)](https://github.com/allenj12/anchor/tree/main/stargazers) [![Forks](https://img.shields.io/github/forks/allenj12/anchor?style=flat-square&color=blue)](https://github.com/allenj12/anchor/tree/main/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/allenj12/anchor?style=flat-square&color=yellow)](https://github.com/allenj12/anchor/tree/main/stargazers) [![Forks](https://img.shields.io/github/forks/allenj12/anchor?style=flat-square&color=blue)](https://github.com/allenj12/anchor/tree/main/network) [![Language](https://img.shields.io/badge/lang-Scheme-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Dynamic C with s-expressions and hygenic macros
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Scheme |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

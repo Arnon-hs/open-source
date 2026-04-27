@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Archik is an open-source project that enables the creation of architecture diagrams from YAML files, integrating with AI capabilities through the Claude Code skill. This innovative solution streamlines the process of visualizing complex system architectures, making it easier for developers and architects to communicate and collaborate. By leveraging YAML and AI-powered tools, Archik offers a flexible and efficient approach to architectural diagramming.
+Archik is an open-source project that enables users to create architecture diagrams using YAML code. This project integrates with Claude Code, a skill within the Claude AI platform, allowing users to easily generate and visualize architecture diagrams. By leveraging YAML and AI capabilities, Archik streamlines the process of documenting and communicating complex system architectures.
 
 ---
 

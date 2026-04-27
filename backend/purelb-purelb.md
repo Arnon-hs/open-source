@@ -25,9 +25,9 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary for the PureLB project:
 
-PureLB is an open-source, dual-stack service load balancer controller designed for Kubernetes environments. It integrates with BGP (Border Gateway Protocol) for efficient routing and load balancing, enabling users to manage network traffic in a scalable and flexible manner. By leveraging Kubernetes and BGP, PureLB provides a robust and highly available solution for service load balancing.
+PureLB is an open-source, dual-stack service load balancer controller designed for Kubernetes environments. It integrates BGP (Border Gateway Protocol) for efficient routing and traffic management. By providing a load balancing solution with BGP integration, PureLB enables users to optimize application performance and scalability in Kubernetes deployments.
 
 ---
 

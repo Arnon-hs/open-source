@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The navidrome/apple-music-plugin is an open-source project that leverages free iTunes/Apple Music endpoints to fetch artist metadata from Apple Music. This plugin aims to provide a reliable and free alternative for accessing artist information. By using this plugin, users can retrieve and utilize Apple Music artist data without incurring costs.
+The navidrome/apple-music-plugin is an open-source project that utilizes free iTunes/Apple Music endpoints to fetch artist metadata. This plugin allows users to access Apple Music data without requiring a paid subscription. By using this plugin, users can enhance their music experience with additional information about artists.
 
 ---
 

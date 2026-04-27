@@ -1,6 +1,6 @@
 # microsoft/retina
 
-[![Stars](https://img.shields.io/github/stars/microsoft/retina?style=flat-square&color=yellow)](https://github.com/microsoft/retina/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/retina?style=flat-square&color=blue)](https://github.com/microsoft/retina/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/retina?style=flat-square&color=yellow)](https://github.com/microsoft/retina/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/retina?style=flat-square&color=blue)](https://github.com/microsoft/retina/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > eBPF distributed networking observability tool for Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 287 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
