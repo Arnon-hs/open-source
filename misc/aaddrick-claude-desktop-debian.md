@@ -1,6 +1,6 @@
 # aaddrick/claude-desktop-debian
 
-[![Stars](https://img.shields.io/github/stars/aaddrick/claude-desktop-debian?style=flat-square&color=yellow)](https://github.com/aaddrick/claude-desktop-debian/stargazers) [![Forks](https://img.shields.io/github/forks/aaddrick/claude-desktop-debian?style=flat-square&color=blue)](https://github.com/aaddrick/claude-desktop-debian/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aaddrick/claude-desktop-debian?style=flat-square&color=yellow)](https://github.com/aaddrick/claude-desktop-debian/stargazers) [![Forks](https://img.shields.io/github/forks/aaddrick/claude-desktop-debian?style=flat-square&color=blue)](https://github.com/aaddrick/claude-desktop-debian/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Desktop for Debian-based Linux distributions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 401 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

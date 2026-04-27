@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The Google Cloud Client Libraries for Rust, also known as yoshidan/google-cloud-rust, is an open-source project that provides a set of libraries for interacting with Google Cloud services in Rust programming language. This project enables developers to easily integrate their Rust applications with Google Cloud features, such as storage, databases, and machine learning services. By using these libraries, developers can leverage the power of Google Cloud in their Rust projects.
+The Google Cloud Client Libraries for Rust is an open-source project that provides a set of libraries for interacting with Google Cloud services from Rust applications. This project enables developers to easily integrate their Rust code with various Google Cloud services, such as storage, bigtable, and more. By providing a Rust interface to Google Cloud services, this library simplifies the development process and facilitates the creation of scalable and reliable cloud-based applications.
 
 ---
 

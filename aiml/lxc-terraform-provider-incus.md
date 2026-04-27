@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The lxc/terraform-provider-incus project is an open-source provider for Terraform and OpenTofu that enables seamless integration with Incus, a platform for AI and machine learning workloads. This provider allows users to manage and deploy Incus resources as code, simplifying infrastructure management and automation. By supporting Incus within Terraform/OpenTofu, users can leverage a unified workflow for managing complex AI and infrastructure deployments.
+The lxc/terraform-provider-incus project is an open-source provider for Terraform/OpenTofu, enabling users to manage infrastructure resources with Incus, a tool for building and managing infrastructure. This provider allows for seamless integration of Incus with Terraform, simplifying the process of provisioning and configuring infrastructure. By leveraging this provider, users can leverage the power of Terraform to deploy and manage their Incus-based infrastructure.
 
 ---
 

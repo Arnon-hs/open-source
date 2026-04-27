@@ -25,7 +25,9 @@ Data · Mobile
 
 ## 📝 Summary
 
-SamWaf is a lightweight, open-source web application firewall designed for small companies, studios, and personal websites. It offers fully private deployment, end-to-end encryption of locally stored data, and supports both Linux and Windows 64-bit operating systems. This user-friendly solution provides an effective defense against potential threats, making it an ideal choice for protecting online assets.
+Here's a 2-3 sentence summary for the SamWaf project:
+
+SamWaf is a lightweight, open-source web application firewall designed for small companies, studios, and personal websites. It offers fully private deployment, local data encryption, and user-friendly setup, making it an ideal solution for securing online presence. Supporting both Linux and Windows 64-bit operating systems, SamWaf provides robust protection for its users.
 
 ---
 

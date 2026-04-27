@@ -25,7 +25,7 @@ AI/ML · Frontend · Marketing
 
 ## 📝 Summary
 
-The initech project is an open-source agent runtime designed for collaborative multi-agent systems that can be controlled from a single terminal. It focuses on steerability, allowing users to easily guide and interact with agents in real-time. This project enables developers to create and manage complex AI and ML systems with a simple and intuitive interface.
+Initech is an open-source agent runtime that enables collaborative interactions between multiple agents from a single terminal, prioritizing steerability for efficient control. This innovative platform empowers developers to create and manage multi-agent systems, fostering complex interactions and streamlined communication. By leveraging Initech, users can build sophisticated AI-driven applications with enhanced scalability and flexibility.
 
 ---
 

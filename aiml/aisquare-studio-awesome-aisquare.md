@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-AISquare-Studio's awesome-aisquare is an open-source platform that provides governance, debugging, and audit trails for AI agents. This ensures transparency and accountability in AI decision-making processes, meeting the requirements of compliance teams. By leveraging this platform, organizations can trust their AI systems to operate reliably and securely.
+Here's a brief summary for the project:
+
+AISquare-Studio/awesome-aisquare is an open-source initiative providing comprehensive governance, debugging, and audit trails for AI agents, ensuring transparency and compliance in AI development. This project addresses the limitations of relying solely on "it just works" solutions, meeting the demands of regulatory teams and stakeholders. By adopting this framework, developers can build trustworthy and accountable AI systems.
 
 ---
 

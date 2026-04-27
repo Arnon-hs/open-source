@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/zhikunqingtao/zhikuncode?style=flat-square&color=yellow)](https://github.com/zhikunqingtao/zhikuncode/stargazers) [![Forks](https://img.shields.io/github/forks/zhikunqingtao/zhikuncode?style=flat-square&color=blue)](https://github.com/zhikunqingtao/zhikuncode/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> 开源 AI 编程助手 · Web UI · Docker 自托管 · 多Agent协作 · 浏览器全流程操控
+> Claude Code 的开源替代方案。Muti Agent AI 编程助手，CLI & Web UI 双入口。自托管，随处部署——手机浏览器也能完整操控。支持任意 LLM，原生浏览器自动化，90+ 命令。技能、插件与持久记忆。企业级安全，零锁定。Docker 一键部署。
 
 ## 📊 Stats
 

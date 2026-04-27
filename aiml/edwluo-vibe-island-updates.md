@@ -25,7 +25,7 @@ AI/ML · Product
 
 ## 📝 Summary
 
-The vibe-island-updates project is an open-source initiative that provides an update feed for Vibe Island, facilitating seamless access to the latest appcast.xml and release information. This project aims to simplify the process of staying up-to-date with Vibe Island updates, enhancing user experience and convenience. By leveraging this update feed, users can easily stay informed about the latest developments on Vibe Island.
+The edwluo/vibe-island-updates project provides a centralized update feed for Vibe Island, featuring an XML file (appcast.xml) and release notes to keep users informed about the latest developments. This open-source initiative aims to streamline updates for the Vibe Island community, fostering easier access to new features and enhancements. By aggregating updates in a standardized format, it simplifies the process of staying up-to-date for users.
 
 ---
 

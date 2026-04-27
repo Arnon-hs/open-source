@@ -25,9 +25,7 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project 'tngan/samlify':
-
-samlify is a Node.js library that streamlines Single Sign-On (SSO) using the Security Assertion Markup Language (SAML) protocol. This open-source project enables developers to easily integrate SAML-based authentication into their applications, enhancing security and user convenience. By leveraging samlify, developers can efficiently manage SSO workflows and reduce the complexity associated with SAML implementation.
+The tngan/samlify project is an open-source Node.js library designed to facilitate Single Sign-On (SSO) using the Security Assertion Markup Language (SAML) protocol. This library enables developers to integrate SAML-based authentication into their applications, streamlining the login process for users. By utilizing tngan/samlify, developers can easily implement secure and standardized SSO solutions.
 
 ---
 

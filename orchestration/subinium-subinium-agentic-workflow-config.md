@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the subinium project:
 
-The subinium project provides a battle-tested configuration for parallel agentic development, offering a comprehensive setup for skills, agents, hooks, and rules within the .claude/ directory. This open-source project serves as a DevTools solution for AI/ML and orchestration, streamlining development workflows. It is designed to facilitate efficient and parallel agentic development.
+Subinium is an open-source configuration for the ~/.claude/ directory that enables parallel agentic development, streamlining workflows with features like skills, agents, hooks, and rules. This battle-tested setup provides a robust foundation for managing complex AI/ML projects and automating repetitive tasks. By leveraging subinium, developers can optimize their development process and focus on building innovative solutions.
 
 ---
 

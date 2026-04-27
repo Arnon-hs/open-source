@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-PAI is an open-source project that enables users to carry a private, portable computer on a USB stick. Based on a bootable Debian 12 Linux distro, PAI runs Ollama, a locally-hosted AI, on x86_64 or ARM64 machines, providing a full desktop experience with hardened networking. This ultra-portable solution ensures complete data privacy, with no cloud or account dependencies.
+PAI (Private AI) is an open-source, bootable Linux distribution on a USB stick, offering a fully functional desktop and local AI capabilities on x86_64 and ARM64 machines. This ultra-portable solution runs entirely in RAM, allowing users to work on any machine without leaving a digital footprint. With PAI, users can have complete control over their AI and data, without relying on cloud services or accounts.
 
 ---
 

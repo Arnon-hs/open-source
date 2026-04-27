@@ -25,9 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the ahmetb/kubectl-tree project:
-
-The ahmetb/kubectl-tree project provides a kubectl plugin that enables users to visualize Kubernetes object hierarchies as a tree, facilitating easier navigation and understanding of complex cluster structures. This tool allows developers and administrators to browse and explore the relationships between objects in their Kubernetes clusters. By leveraging this plugin, users can gain a deeper insight into their cluster's configuration and optimize its performance.
+The ahmetb/kubectl-tree project is an open-source Kubernetes plugin that enables users to visualize and navigate object hierarchies within their clusters as an interactive tree structure. This plugin provides a convenient and intuitive way to explore and understand complex relationships between Kubernetes objects. By leveraging kubectl, it streamlines cluster browsing and debugging for DevOps and infrastructure professionals.
 
 ---
 

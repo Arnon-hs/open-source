@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The open-source project 'artisan.page' provides a comprehensive and searchable cheatsheet for Laravel's Artisan commands, allowing developers to quickly access and reference the available commands. This bookmarkable resource is designed to streamline the development process, saving time and reducing the need for manual searches. It serves as a convenient and organized tool for Laravel developers to stay up-to-date with the latest command options.
+This project, artisan.page, is an open-source initiative that offers a searchable and bookmarkable cheatsheet for Laravel's Artisan commands. It provides developers with an easily accessible resource for navigating and utilizing the comprehensive suite of commands available in Laravel's Artisan tool. This convenient reference aims to streamline the development process by reducing the need to constantly consult the official documentation.
 
 ---
 

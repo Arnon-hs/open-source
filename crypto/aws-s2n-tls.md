@@ -1,6 +1,6 @@
 # aws/s2n-tls
 
-[![Stars](https://img.shields.io/github/stars/aws/s2n-tls?style=flat-square&color=yellow)](https://github.com/aws/s2n-tls/stargazers) [![Forks](https://img.shields.io/github/forks/aws/s2n-tls?style=flat-square&color=blue)](https://github.com/aws/s2n-tls/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/s2n-tls?style=flat-square&color=yellow)](https://github.com/aws/s2n-tls/stargazers) [![Forks](https://img.shields.io/github/forks/aws/s2n-tls?style=flat-square&color=blue)](https://github.com/aws/s2n-tls/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > An implementation of the TLS/SSL protocols
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 775 |
 | 💻 **Language** | C |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

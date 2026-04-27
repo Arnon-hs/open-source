@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-This open-source project, Nuxt boilerplate, provides a modern foundation for web applications built with Nuxt 4, TypeScript, and Prisma ORM, allowing for seamless integration with PostgreSQL databases. The boilerplate also includes features such as internationalization, security middleware, and a comprehensive testing suite, making it an ideal choice for rapid development and deployment. This project is designed to support both frontend and backend development, catering to a wide range of use cases.
+This open-source project, WilliamFontaine/nuxt-boilerplate, provides a streamlined Nuxt 4 boilerplate that leverages modern technologies such as TypeScript, Prisma ORM, and PostgreSQL for efficient development. The boilerplate includes essential features like authentication, internationalization, and security middleware, as well as a comprehensive testing suite and a shared utilities architecture. This boilerplate empowers developers to create scalable and secure web applications quickly.
 
 ---
 

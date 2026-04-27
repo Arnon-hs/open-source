@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Holochain is an open-source, blockchain-based platform that utilizes Rust for high performance and industrial strength. This distributed computing system enables the creation of decentralized applications, leveraging AI and ML capabilities to facilitate more efficient and secure data management. By providing a performant and scalable framework, Holochain aims to empower developers in building robust and innovative applications.
+Holochain is an open-source, decentralized platform that utilizes Rust to create a performant and industrial-strength version of its distributed ledger technology. This project enables the development of scalable, permissionless networks for various applications, including AI and machine learning. By harnessing the power of Holochain, developers can build robust and secure systems that promote a more decentralized future.
 
 ---
 

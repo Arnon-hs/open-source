@@ -25,11 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Kete is an open-source project providing tools for the Solar System Survey. 
-
-This project aims to support the analysis and exploration of data from various Solar System surveys, offering a comprehensive platform for astronomers and researchers. 
-
-Its open-source nature enables the community to contribute to and benefit from its development, driving innovation in the field of Solar System research.
+The Kete Solar System Survey project is an open-source initiative that provides tools for exploring and analyzing the solar system. This collection of tools, hosted by Dahlend, aims to facilitate a deeper understanding of the solar system through comprehensive data and visualization. By making these resources available to the public, the project fosters collaboration and community-driven research in the field of astrophysics.
 
 ---
 

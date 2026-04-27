@@ -1,17 +1,17 @@
 # ebrandi/FDD-book
 
-[![Stars](https://img.shields.io/github/stars/ebrandi/FDD-book?style=flat-square&color=yellow)](https://github.com/ebrandi/FDD-book/stargazers) [![Forks](https://img.shields.io/github/forks/ebrandi/FDD-book?style=flat-square&color=blue)](https://github.com/ebrandi/FDD-book/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ebrandi/FDD-book?style=flat-square&color=yellow)](https://github.com/ebrandi/FDD-book/stargazers) [![Forks](https://img.shields.io/github/forks/ebrandi/FDD-book?style=flat-square&color=blue)](https://github.com/ebrandi/FDD-book/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> FreeBSD Device Driver Book
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 65 |
+| 🍴 **Forks** | 2 |
+| 💻 **Language** | Shell |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

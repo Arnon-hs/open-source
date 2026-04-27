@@ -25,7 +25,7 @@ Crypto
 
 ## 📝 Summary
 
-BCHD is an open-source, alternative full node implementation for Bitcoin Cash written in Go (golang). This project allows users to verify and participate in the Bitcoin Cash network, ensuring the integrity and security of transactions. By providing a reliable and customizable option, BCHD empowers developers and users to engage with the Bitcoin Cash ecosystem.
+The gcash/bchd project is an open-source, alternative full node implementation of the Bitcoin Cash (BCH) network, written in Go (golang). This implementation aims to provide a secure, reliable, and efficient way to validate and synchronize transactions on the BCH blockchain. By running a bchd node, users can participate in the decentralized BCH network and contribute to its overall health and security.
 
 ---
 

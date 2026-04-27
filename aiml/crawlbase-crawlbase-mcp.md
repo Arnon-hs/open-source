@@ -1,6 +1,6 @@
 # crawlbase/crawlbase-mcp
 
-[![Stars](https://img.shields.io/github/stars/crawlbase/crawlbase-mcp?style=flat-square&color=yellow)](https://github.com/crawlbase/crawlbase-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/crawlbase/crawlbase-mcp?style=flat-square&color=blue)](https://github.com/crawlbase/crawlbase-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crawlbase/crawlbase-mcp?style=flat-square&color=yellow)](https://github.com/crawlbase/crawlbase-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/crawlbase/crawlbase-mcp?style=flat-square&color=blue)](https://github.com/crawlbase/crawlbase-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Crawlbase MCP Server connects AI agents and LLMs with real-time web data. It powers Claude, Cursor, and Windsurf integrations with battle-tested web scraping, JavaScript rendering, and anti-bot protection enabling structured, live data inside your AI workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

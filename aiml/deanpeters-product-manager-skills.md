@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 499 |
+| 🍴 **Forks** | 500 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The deanpeters/Product-Manager-Skills project is an open-source framework for Product Management skills, combining battle-tested methods from various sources. This comprehensive framework is designed to aid product managers, developers, and AI agents in streamlining their workflow and improving collaboration. By leveraging techniques from Claude Code, Cowork, Codex, and AI agents, it enables users to optimize their product development processes.
+The deanpeters/Product-Manager-Skills project is an open-source framework for product management skills, developed using battle-tested methods for Claude Code, Cowork, Codex, and AI agents. This framework provides a structured approach to product management, enabling teams to effectively collaborate with AI and machine learning tools. By leveraging this framework, product managers can streamline their workflow and make data-driven decisions.
 
 ---
 

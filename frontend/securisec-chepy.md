@@ -25,9 +25,7 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the securisec/chepy project:
-
-Chepy is an open-source Python library and command-line interface that replicates the functionality of CyberChef, a powerful online tool for data transformation and manipulation. This project aims to bring the same capabilities to Python developers and users, providing a versatile tool for encoding, decoding, and processing data. With Chepy, users can perform complex data transformations and analysis tasks with ease and flexibility.
+Chepy is an open-source project that brings the functionality of CyberChef, a popular online tool for data manipulation and analysis, to the Python command line. This library provides a Pythonic interface to perform various data transformations, encoding, and decoding tasks. With Chepy, developers can automate and integrate CyberChef-like operations into their Python workflows.
 
 ---
 

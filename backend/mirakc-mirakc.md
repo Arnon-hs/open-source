@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Mirakc is an open-source, Rust-based PVR (Personal Video Recorder) backend that is compatible with Mirakurun, a Japanese digital TV streaming system. This project enables users to access and manage their digital TV recordings using a robust and customizable backend solution. By leveraging Rust's performance and reliability, Mirakc provides a scalable and efficient platform for digital TV recording and streaming.
+Mirakc is an open-source, Rust-based PVR (Personal Video Recorder) backend designed for compatibility with Mirakurun. This project aims to provide a reliable and efficient solution for recording and managing digital television content. It serves as a backend component, facilitating seamless integration with other applications.
 
 ---
 

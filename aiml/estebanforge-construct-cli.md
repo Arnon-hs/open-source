@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the EstebanForge/construct-cli project:
 
-Construct-cli is an open-source, secure loading program designed to sandbox AI agents, ensuring a safe and isolated environment for their execution. This tool provides a crucial layer of protection against potential security threats, allowing developers to experiment with AI models without compromising their systems. By utilizing a sandboxed approach, construct-cli empowers the secure development and testing of AI applications.
+The EstebanForge/construct-cli is an open-source sandbox solution designed to provide secure loading for AI agents. This tool ensures a safe environment for AI models to operate within, mitigating potential risks and vulnerabilities that can arise from uncontrolled interactions. By utilizing a secure sandbox, developers can confidently deploy and test AI agents with minimal exposure to potential security threats.
 
 ---
 

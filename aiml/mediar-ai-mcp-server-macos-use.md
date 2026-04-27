@@ -1,6 +1,6 @@
 # mediar-ai/mcp-server-macos-use
 
-[![Stars](https://img.shields.io/github/stars/mediar-ai/mcp-server-macos-use?style=flat-square&color=yellow)](https://github.com/mediar-ai/mcp-server-macos-use/stargazers) [![Forks](https://img.shields.io/github/forks/mediar-ai/mcp-server-macos-use?style=flat-square&color=blue)](https://github.com/mediar-ai/mcp-server-macos-use/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mediar-ai/mcp-server-macos-use?style=flat-square&color=yellow)](https://github.com/mediar-ai/mcp-server-macos-use/stargazers) [![Forks](https://img.shields.io/github/forks/mediar-ai/mcp-server-macos-use?style=flat-square&color=blue)](https://github.com/mediar-ai/mcp-server-macos-use/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent that controls computer with OS-level tools, MCP compatible, works with any model
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 275 |
 | 🍴 **Forks** | 33 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | Swift |
 | 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

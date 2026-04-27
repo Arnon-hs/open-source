@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the tgoai/tgo project:
+Here's a brief summary for the open-source project:
 
-The tgoai/tgo project is an open-source AI agent customer service platform that enables the creation of AI agent teams through LLM orchestration, RAG knowledge base management, and multi-channel support. This platform allows for seamless human collaboration with AI agents, providing a comprehensive solution for customer service needs. By leveraging AI and machine learning capabilities, tgoai/tgo aims to revolutionize the way customer support is delivered.
+The tgoai/tgo open-source project is an AI Agent Customer Service Platform that enables the creation of AI agent teams with advanced features such as Large Language Model (LLM) orchestration, Robustness and Accuracy Gradient (RAG) knowledge base, and multi-channel support. This platform also facilitates human collaboration with AI agents, making it an ideal solution for businesses seeking to enhance customer service with AI-powered automation. By leveraging tgo, organizations can build scalable and effective customer service systems.
 
 ---
 

@@ -25,7 +25,7 @@ Payments · AI/ML
 
 ## 📝 Summary
 
-This open-source project, ianjwhite99/opencode-with-claude, enables seamless integration between OpenCode and Claude Max/Pro subscriptions via Meridian, allowing users to utilize their AI capabilities within the OpenCode platform. The plugin facilitates a more streamlined experience for developers and designers, making it easier to leverage Claude's advanced features. By using this plugin, users can unlock the full potential of their Claude subscription within OpenCode.
+The ianjwhite99/opencode-with-claude project enables seamless integration of Claude AI services with the OpenCode plugin, allowing users to leverage their Claude Max/Pro subscription within the OpenCode ecosystem via Meridian. This open-source solution bridges the gap between Claude's AI capabilities and OpenCode's development environment, facilitating streamlined workflows and enhanced productivity. By integrating Claude's services, OpenCode users can tap into advanced AI features and automate tasks.
 
 ---
 

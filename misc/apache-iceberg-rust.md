@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The apache/iceberg-rust project is an open-source implementation of Apache Iceberg, a unified storage layer for large-scale analytics and data warehousing. This Rust-based library provides a scalable and efficient way to handle big data storage, offering features such as columnar storage, snapshot isolation, and metadata management. By leveraging Apache Iceberg's robust storage capabilities, developers can build reliable and high-performance data pipelines.
+Apache Iceberg is an open-source, cross-language table format for reliable and scalable data storage. The Iceberg Rust project provides Rust bindings for interacting with Iceberg tables, enabling developers to create and manage Iceberg data structures within Rust applications. This project facilitates seamless integration of Iceberg with Rust-based data pipelines and workflows.
 
 ---
 

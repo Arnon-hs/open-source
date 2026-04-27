@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The skills-manager is an open-source, native macOS application designed to streamline skill management across various coding agents, including Claude Code, Cursor, Copilot CLI, Codex, and Gemini CLI. This project aims to simplify the process of organizing and utilizing skills from different AI/ML-powered tools, enhancing productivity for developers and coders. By providing a centralized platform, skills-manager simplifies the workflow and improves the efficiency of coding tasks.
+The skills-manager app is an open-source, native macOS tool designed to streamline the management of skills across various coding agents. It supports popular AI and ML tools such as Claude Code, Cursor, Copilot CLI, Codex, and Gemini CLI, making it easier to orchestrate and utilize their capabilities. This app aims to simplify the process of skill management and maximize productivity for developers and coding enthusiasts.
 
 ---
 

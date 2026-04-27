@@ -27,7 +27,7 @@ AI/ML
 
 Here's a brief summary of the LnYo-Cly/ai4j project:
 
-LnYo-Cly/ai4j is an open-source Java SDK that enables rapid integration with AI large models from various platforms, including OpenAi, Zhipu, DeepSeek, and more. It provides a unified interface for input and output, eliminating platform-specific differences and optimizing function calls to streamline AI model interaction. With support for JDK 1.8 and features like Pinecone vector database and built-in networking enhancements, this SDK empowers users to quickly integrate AI capabilities into their projects.
+LnYo-Cly/ai4j is an open-source Java SDK designed to facilitate seamless integration with AI large models from various platforms, including OpenAI and others. This SDK provides a unified input/output interface, optimized function calls, and support for RAG (Relation-Agnostic Graph) queries. By leveraging its features, developers can quickly integrate AI capabilities into their applications, regardless of the underlying model or platform.
 
 ---
 

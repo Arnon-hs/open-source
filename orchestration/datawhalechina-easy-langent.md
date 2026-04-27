@@ -25,9 +25,9 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the open-source project "easy-langent":
 
-The "Easy Langent" project is an open-source learning guide that combines the terms "lang" (language) and "agent" to provide a comprehensive tutorial on orchestration, AI/ML, and data. This resource aims to facilitate learning and exploration in these areas, making it a valuable asset for developers and researchers. By consolidating knowledge and best practices, Easy Langent strives to make complex concepts more accessible and understandable.
+easy-langent is an open-source learning platform that combines language and agent concepts to provide comprehensive tutorials and educational resources. It is categorized under Orchestration, AI/ML, and Data, indicating its focus on machine learning and data-related topics. The platform serves as a valuable resource for individuals seeking to improve their skills in these areas.
 
 ---
 

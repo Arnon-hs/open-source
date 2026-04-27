@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-OpenMeters is an open-source, fast, and professional audio metering and visualization tool for Linux. It provides a comprehensive platform for monitoring and analyzing audio signals, making it an essential tool for audio engineers, producers, and musicians. With its robust features and customizable interface, OpenMeters helps users to efficiently measure and visualize audio levels, frequencies, and other metrics.
+Here is a brief summary for the open-source project:
+
+OpenMeters is an open-source audio metering and visualization tool designed for Linux, offering fast and professional metrics for audio professionals. This software provides a comprehensive suite of features for monitoring and analyzing audio signals, making it an ideal choice for live performances, post-production, and other audio applications. With its ease of use and customization options, OpenMeters streamlines the audio monitoring process.
 
 ---
 

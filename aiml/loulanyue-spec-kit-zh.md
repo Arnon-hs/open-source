@@ -27,7 +27,7 @@ AI/ML · DevTools
 
 Here's a brief summary for the open-source project:
 
-The Spec-Kit-ZH is an open-source toolkit designed to facilitate Spec-Driven Development, enabling seamless collaboration across various AI coding agents, including popular platforms like Claude Code and Codex. This tool aims to simplify the development process by providing a unified interface for working with AI-powered coding tools. It supports a wide range of AI coding agents, allowing developers to focus on writing code efficiently.
+Spec-Kit is an open-source toolkit that facilitates Spec-Driven Development, allowing users to quickly get started with this approach. It seamlessly integrates with various popular AI coding agents, making it a versatile and convenient tool for developers. By leveraging Spec-Kit, users can streamline their development process and tap into the power of AI-driven coding.
 
 ---
 

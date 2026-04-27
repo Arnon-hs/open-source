@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The fastrepl/anarlog project is an open-source alternative to Granola AI, designed to provide a more accessible and customizable solution for AI and machine learning needs. This project offers a frontend interface and utilizes AI/ML capabilities, making it a versatile tool for developers and users alike. By leveraging an open-source model, anarlog aims to promote innovation and collaboration in the AI space.
+The fastrepl/anarlog open-source project offers a Granola AI alternative, providing a free and accessible solution for artificial intelligence and machine learning applications. This frontend-focused project aims to replicate the capabilities of Granola AI, making it a viable option for developers seeking an open-source AI alternative. By leveraging anarlog, users can tap into advanced AI features without the costs or constraints of proprietary solutions.
 
 ---
 

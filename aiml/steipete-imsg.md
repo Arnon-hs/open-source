@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The imsg project is an open-source, command-line interface (CLI) tool that enables developers to interact with Apple's Messages.app programmatically. This allows agents to send and receive SMS and iMessage texts, facilitating automation and integration with other applications. The imsg CLI provides a convenient interface for developers to leverage Apple's messaging platform in their projects.
+The imsg project is an open-source command-line interface (CLI) for Apple's Messages.app, enabling developers to automate text messaging and iMessage interactions through their agents. With imsg, users can send and receive messages programmatically, facilitating integration with various applications and services. This tool is particularly useful for developers working with AI/ML projects and other DevTools.
 
 ---
 

@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The fabio project provides a simple and open-source implementation of a load balancer, designed to be used in conjunction with Consul for service discovery and orchestration. This project aims to make load balancing easier and more accessible for developers and infrastructure teams. By leveraging Consul's robust service discovery capabilities, fabio facilitates the creation of a scalable and resilient load balancing solution.
+This project, fabio, offers a simple solution for Load Balancing made easy. Built on top of Consul, it provides a way to distribute traffic across multiple servers in a scalable and efficient manner. By leveraging Consul's existing infrastructure, fabio streamlines load balancing tasks for developers and operators.
 
 ---
 

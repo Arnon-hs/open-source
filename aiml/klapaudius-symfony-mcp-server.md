@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The Symfony-MCP-Server package is an open-source solution for building secure, real-time servers using the Model Context Protocol (MCP). It leverages Server-Sent Events (SSE) and StreamableHTTP to enable efficient, scalable communication for enterprise-grade applications. This project is ideal for developers working on complex systems that require high-performance, synchronous data exchange.
+This open-source project, Symfony MCP Server, offers a secure and scalable solution for building real-time communication systems in enterprise-grade applications. Utilizing Model Context Protocol (MCP) and technologies such as Server-Sent Events (SSE) and StreamableHTTP, it enables seamless and efficient data exchange between clients and servers. The package is ideal for developers seeking to integrate real-time functionality into their Symfony applications.
 
 ---
 

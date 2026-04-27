@@ -1,6 +1,6 @@
 # freelensapp/freelens
 
-[![Stars](https://img.shields.io/github/stars/freelensapp/freelens?style=flat-square&color=yellow)](https://github.com/freelensapp/freelens/stargazers) [![Forks](https://img.shields.io/github/forks/freelensapp/freelens?style=flat-square&color=blue)](https://github.com/freelensapp/freelens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freelensapp/freelens?style=flat-square&color=yellow)](https://github.com/freelensapp/freelens/stargazers) [![Forks](https://img.shields.io/github/forks/freelensapp/freelens?style=flat-square&color=blue)](https://github.com/freelensapp/freelens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Free IDE for Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
