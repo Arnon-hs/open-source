@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/87owo/PYAS?style=flat-square&color=yellow)](https://github.com/87owo/PYAS/stargazers) [![Forks](https://img.shields.io/github/forks/87owo/PYAS?style=flat-square&color=blue)](https://github.com/87owo/PYAS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> Antivirus software written in Python and C++ that blocks threats through deep learning and behavioral monitoring!
+> Antivirus software written in Python and C++ that blocks threats through Machine Learning and behavioral monitoring!
 
 ## 📊 Stats
 

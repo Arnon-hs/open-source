@@ -1,6 +1,6 @@
 # h4ckf0r0day/obscura
 
-[![Stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=flat-square&color=yellow)](https://github.com/h4ckf0r0day/obscura/stargazers) [![Forks](https://img.shields.io/github/forks/h4ckf0r0day/obscura?style=flat-square&color=blue)](https://github.com/h4ckf0r0day/obscura/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=flat-square&color=yellow)](https://github.com/h4ckf0r0day/obscura/stargazers) [![Forks](https://img.shields.io/github/forks/h4ckf0r0day/obscura?style=flat-square&color=blue)](https://github.com/h4ckf0r0day/obscura/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > The headless browser for AI agents and web scraping
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.1k |
-| 🍴 **Forks** | 354 |
+| ⭐ **Stars** | 6.3k |
+| 🍴 **Forks** | 370 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

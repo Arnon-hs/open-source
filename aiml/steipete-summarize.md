@@ -1,6 +1,6 @@
 # steipete/summarize
 
-[![Stars](https://img.shields.io/github/stars/steipete/summarize?style=flat-square&color=yellow)](https://github.com/steipete/summarize/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/summarize?style=flat-square&color=blue)](https://github.com/steipete/summarize/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steipete/summarize?style=flat-square&color=yellow)](https://github.com/steipete/summarize/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/summarize?style=flat-square&color=blue)](https://github.com/steipete/summarize/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.7k |
-| 🍴 **Forks** | 366 |
+| ⭐ **Stars** | 5.8k |
+| 🍴 **Forks** | 367 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

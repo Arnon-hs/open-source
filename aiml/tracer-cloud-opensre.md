@@ -1,6 +1,6 @@
 # Tracer-Cloud/opensre
 
-[![Stars](https://img.shields.io/github/stars/Tracer-Cloud/opensre?style=flat-square&color=yellow)](https://github.com/Tracer-Cloud/opensre/stargazers) [![Forks](https://img.shields.io/github/forks/Tracer-Cloud/opensre?style=flat-square&color=blue)](https://github.com/Tracer-Cloud/opensre/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tracer-Cloud/opensre?style=flat-square&color=yellow)](https://github.com/Tracer-Cloud/opensre/stargazers) [![Forks](https://img.shields.io/github/forks/Tracer-Cloud/opensre?style=flat-square&color=blue)](https://github.com/Tracer-Cloud/opensre/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Build your own AI SRE agents. The open source toolkit for the AI era ✨
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 377 |
+| 🍴 **Forks** | 381 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Aiden is an open-source, local-first AI operating system available for both Linux and Windows. It boasts an extensive collection of over 1500 skills, 89+ tools, and support for 14+ providers, offering users a comprehensive AI experience. This AGPL-3.0 licensed project is categorized under AI/ML, prioritizing user flexibility and control within a decentralized AI ecosystem.
+Aiden is an open-source, local-first AI operating system designed for Linux and Windows, offering over 1500 skills, 89 tools, and integration with 14+ providers. This comprehensive AI framework is built with the AGPL-3.0 license, prioritizing user freedom and collaboration. Aiden empowers users to harness the power of AI on their local machines, fostering innovation and autonomy.
 
 ---
 

@@ -1,6 +1,6 @@
 # amitshekhariitbhu/llm-internals
 
-[![Stars](https://img.shields.io/github/stars/amitshekhariitbhu/llm-internals?style=flat-square&color=yellow)](https://github.com/amitshekhariitbhu/llm-internals/stargazers) [![Forks](https://img.shields.io/github/forks/amitshekhariitbhu/llm-internals?style=flat-square&color=blue)](https://github.com/amitshekhariitbhu/llm-internals/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amitshekhariitbhu/llm-internals?style=flat-square&color=yellow)](https://github.com/amitshekhariitbhu/llm-internals/stargazers) [![Forks](https://img.shields.io/github/forks/amitshekhariitbhu/llm-internals?style=flat-square&color=blue)](https://github.com/amitshekhariitbhu/llm-internals/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Learn LLM internals step by step - from tokenization to attention to inference optimization.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 732 |
-| 🍴 **Forks** | 53 |
+| ⭐ **Stars** | 757 |
+| 🍴 **Forks** | 54 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-dnsx is an open-source, multi-purpose DNS toolkit designed for speed and flexibility. It enables users to run various DNS queries with a list of custom resolvers, providing a powerful tool for DNS exploration and analysis. dnsx is part of the projectdiscovery suite, a collection of DevTools for security researchers and developers.
+Here's a brief summary for the project:
+
+dnsx is an open-source, multi-purpose DNS toolkit that enables users to run various DNS queries with a list of user-supplied resolvers, allowing for fast and efficient DNS testing. This tool aims to simplify the process of DNS query execution, making it a valuable resource for developers and security researchers. By providing a flexible and customizable DNS querying environment, dnsx streamlines DNS testing and analysis.
 
 ---
 

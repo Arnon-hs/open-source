@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra · Product
 
 ## 📝 Summary
 
-Kubean is an open-source, product-ready cluster lifecycle management toolchain that utilizes kubespray and other cluster management engines to streamline the management of Kubernetes clusters. This toolchain is designed to simplify complex cluster operations, making it easier to deploy, manage, and maintain scalable and secure Kubernetes environments. By leveraging Kubeadm, Ansible, and other popular tools, Kubean provides a unified interface for managing cluster lifecycle across various environments and scales.
+Kubean is an open-source cluster lifecycle management tool that streamlines the creation, management, and scaling of product-ready clusters. Built on top of kubespray and other cluster management engines, Kubean simplifies the complexities of cluster operations, enabling users to efficiently manage their infrastructure. This solution is designed for AI/ML, DevOps, and infrastructure teams looking to automate and optimize their cluster management processes.
 
 ---
 

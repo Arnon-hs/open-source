@@ -1,6 +1,6 @@
 # stonerl/Thaw
 
-[![Stars](https://img.shields.io/github/stars/stonerl/Thaw?style=flat-square&color=yellow)](https://github.com/stonerl/Thaw/stargazers) [![Forks](https://img.shields.io/github/forks/stonerl/Thaw?style=flat-square&color=blue)](https://github.com/stonerl/Thaw/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stonerl/Thaw?style=flat-square&color=yellow)](https://github.com/stonerl/Thaw/stargazers) [![Forks](https://img.shields.io/github/forks/stonerl/Thaw?style=flat-square&color=blue)](https://github.com/stonerl/Thaw/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Menu bar manager for macOS 26
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

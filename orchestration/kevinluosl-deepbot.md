@@ -1,6 +1,6 @@
 # kevinluosl/deepbot
 
-[![Stars](https://img.shields.io/github/stars/kevinluosl/deepbot?style=flat-square&color=yellow)](https://github.com/kevinluosl/deepbot/stargazers) [![Forks](https://img.shields.io/github/forks/kevinluosl/deepbot?style=flat-square&color=blue)](https://github.com/kevinluosl/deepbot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kevinluosl/deepbot?style=flat-square&color=yellow)](https://github.com/kevinluosl/deepbot/stargazers) [![Forks](https://img.shields.io/github/forks/kevinluosl/deepbot?style=flat-square&color=blue)](https://github.com/kevinluosl/deepbot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > DeepBot is a system-level AI assistant built for both personal productivity and enterprise workflows — one-click setup, seamless experience, and native Feishu integration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

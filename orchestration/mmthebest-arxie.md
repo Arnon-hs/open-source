@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The arxie project is an open-source research workspace designed to facilitate AI research by providing persistent paper databases, structured evidence extraction, hybrid search, and proposal workflows. This platform enables researchers to organize and analyze vast amounts of data, streamline their workflows, and accelerate the discovery process. By harnessing the power of AI and structured data management, arxie aims to revolutionize the way researchers collaborate and innovate.
+The arxie project is an open-source AI research workspace that streamlines the workflow of researchers with a persistent paper database, structured evidence extraction, and hybrid search capabilities. This platform enables efficient collaboration, evidence organization, and proposal development for AI and machine learning research projects. By integrating these features, arxie aims to accelerate the pace of AI research and innovation.
 
 ---
 

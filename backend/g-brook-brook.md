@@ -25,9 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the g-brook/brook project:
+Here's a brief summary for the open-source project Brook:
 
-Brook is a high-performance network tunnel and proxy tool written in Go, designed to provide efficient and secure network connectivity. It allows users to establish secure, customizable, and high-performance tunnels and proxies for various network applications. With its versatility and scalability, Brook is a valuable asset for network administrators and developers looking to optimize their network infrastructure.
+Brook is a high-performance network tunnel and proxy tool written in Go, designed to provide secure and efficient network connectivity. It offers a robust solution for proxying and tunneling network traffic, making it suitable for a wide range of applications, from secure web browsing to network access control. Brook's high-performance capabilities and Go-based architecture make it an attractive choice for developers and users looking for a reliable and efficient network proxy solution.
 
 ---
 

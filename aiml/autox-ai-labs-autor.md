@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-AutoR is an open-source project that empowers humans to guide AI-driven execution, allowing users to own the direction while leveraging AI power. Each run of the project generates a research artifact that can be inspected on disk, providing valuable insights and enabling reproducibility in AI/ML development. This project streamlines the collaboration between humans and AI, promoting a more transparent and efficient workflow.
+Here's a 2-3 sentence summary for the AutoR open-source project:
+
+AutoR provides a collaborative framework where AI-driven automation meets human oversight, allowing developers to execute AI tasks while maintaining control over direction and goals. Each run is recorded as a research artifact, enabling transparent and inspectable workflows. This innovative approach combines the power of AI with human intuition to drive research and development.
 
 ---
 

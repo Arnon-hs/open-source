@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The Ray-D-Song/web-archive project is an open-source initiative that provides a free web archiving and sharing service. This platform allows users to save and preserve web content, making it accessible for future generations. By offering a backend solution, the project empowers developers and users to build upon its capabilities, promoting a culture of web preservation and accessibility.
+The Ray-D-Song/web-archive project is an open-source initiative that provides a free web archiving and sharing service. This platform enables users to capture and preserve online content, allowing for long-term access and preservation of web pages, articles, and other digital materials. By promoting web archiving, the project aims to preserve online heritage and make it accessible for future generations.
 
 ---
 

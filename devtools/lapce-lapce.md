@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Lapce is a high-performance, open-source code editor developed in Rust, designed to provide a lightning-fast and powerful coding experience. This editor is built with speed and efficiency in mind, making it an ideal choice for developers seeking a seamless and efficient coding environment. With its Rust-based architecture, lapce aims to offer a fast and feature-rich alternative to existing code editors.
+Lapce is a high-performance, open-source code editor built with Rust, designed to provide a lightning-fast and powerful development experience. This versatile editor is tailored for developers who need a seamless and efficient coding environment, with a focus on speed, stability, and feature-rich functionality. With its cutting-edge architecture, Lapce aims to elevate the coding experience to new heights.
 
 ---
 

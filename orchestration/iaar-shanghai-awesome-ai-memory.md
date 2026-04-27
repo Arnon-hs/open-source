@@ -25,9 +25,9 @@ Orchestration · AI/ML · Design
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Awesome-AI-Memory project:
+Here's a brief summary of the open-source project:
 
-The Awesome-AI-Memory project is an open-source, curated knowledge base dedicated to AI memory, covering long-term memory, reasoning, retrieval, and memory-native system design for Large Language Models (LLMs) and intelligent agents. This comprehensive resource systematizes cutting-edge research, engineering frameworks, system designs, evaluation benchmarks, and real-world application practices in the field of AI memory. It serves as a valuable resource for researchers and developers working on AI memory-related projects.
+Awesome-AI-Memory is an open-source, continuously updated knowledge base that systematically organizes cutting-edge research, engineering frameworks, system designs, evaluation benchmarks, and practical applications of AI memory for Large Language Models (LLMs) and intelligent agents. This comprehensive resource covers key aspects of AI memory, including long-term memory, reasoning, retrieval, and native system design. Its goal is to facilitate the development and improvement of AI memory technologies.
 
 ---
 

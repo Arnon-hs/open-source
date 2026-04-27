@@ -1,6 +1,6 @@
 # yeojz/otplib
 
-[![Stars](https://img.shields.io/github/stars/yeojz/otplib?style=flat-square&color=yellow)](https://github.com/yeojz/otplib/stargazers) [![Forks](https://img.shields.io/github/forks/yeojz/otplib?style=flat-square&color=blue)](https://github.com/yeojz/otplib/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yeojz/otplib?style=flat-square&color=yellow)](https://github.com/yeojz/otplib/stargazers) [![Forks](https://img.shields.io/github/forks/yeojz/otplib?style=flat-square&color=blue)](https://github.com/yeojz/otplib/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

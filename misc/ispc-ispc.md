@@ -1,6 +1,6 @@
 # ispc/ispc
 
-[![Stars](https://img.shields.io/github/stars/ispc/ispc?style=flat-square&color=yellow)](https://github.com/ispc/ispc/stargazers) [![Forks](https://img.shields.io/github/forks/ispc/ispc?style=flat-square&color=blue)](https://github.com/ispc/ispc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ispc/ispc?style=flat-square&color=yellow)](https://github.com/ispc/ispc/stargazers) [![Forks](https://img.shields.io/github/forks/ispc/ispc?style=flat-square&color=blue)](https://github.com/ispc/ispc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Intel® Implicit SPMD Program Compiler
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 345 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

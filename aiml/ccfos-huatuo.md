@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/ccfos/huatuo?style=flat-square&color=yellow)](https://github.com/ccfos/huatuo/stargazers) [![Forks](https://img.shields.io/github/forks/ccfos/huatuo?style=flat-square&color=blue)](https://github.com/ccfos/huatuo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
-> A cloud-native operating system observability project based on eBPF, incubated under CCF.
+> a cloud-native operating system observability project based on eBPF.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 952 |
+| ⭐ **Stars** | 954 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 58/100 |

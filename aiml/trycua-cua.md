@@ -1,6 +1,6 @@
 # trycua/cua
 
-[![Stars](https://img.shields.io/github/stars/trycua/cua?style=flat-square&color=yellow)](https://github.com/trycua/cua/stargazers) [![Forks](https://img.shields.io/github/forks/trycua/cua?style=flat-square&color=blue)](https://github.com/trycua/cua/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trycua/cua?style=flat-square&color=yellow)](https://github.com/trycua/cua/stargazers) [![Forks](https://img.shields.io/github/forks/trycua/cua?style=flat-square&color=blue)](https://github.com/trycua/cua/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14.4k |
-| 🍴 **Forks** | 899 |
+| ⭐ **Stars** | 14.5k |
+| 🍴 **Forks** | 908 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 98/100 |
+| 📈 **Score** | 99/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

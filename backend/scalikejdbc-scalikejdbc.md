@@ -25,7 +25,7 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-Scalikejdbc is a lightweight and user-friendly SQL-based database access library for Scala developers. It simplifies interactions with databases by naturally wrapping JDBC APIs, providing an easy-to-use interface for database operations. This open-source library is designed to make database access more efficient and convenient for Scala applications.
+Scalikejdbc is an open-source, SQL-based database access library designed for Scala developers. It provides a simple and intuitive API by wrapping the JDBC APIs, making database interactions easier and more efficient. This library is ideal for backend development and data management tasks.
 
 ---
 

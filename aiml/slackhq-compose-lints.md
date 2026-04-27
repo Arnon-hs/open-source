@@ -1,6 +1,6 @@
 # slackhq/compose-lints
 
-[![Stars](https://img.shields.io/github/stars/slackhq/compose-lints?style=flat-square&color=yellow)](https://github.com/slackhq/compose-lints/stargazers) [![Forks](https://img.shields.io/github/forks/slackhq/compose-lints?style=flat-square&color=blue)](https://github.com/slackhq/compose-lints/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/slackhq/compose-lints?style=flat-square&color=yellow)](https://github.com/slackhq/compose-lints/stargazers) [![Forks](https://img.shields.io/github/forks/slackhq/compose-lints?style=flat-square&color=blue)](https://github.com/slackhq/compose-lints/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Lint checks to aid with a healthy adoption of Compose
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

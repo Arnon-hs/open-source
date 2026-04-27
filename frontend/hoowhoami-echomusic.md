@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 83 |
+| 🍴 **Forks** | 84 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |

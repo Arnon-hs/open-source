@@ -25,9 +25,9 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the open-source project:
 
-Zero-Admin is an open-source e-commerce backend system built on top of the Go-zero framework, aiming to simplify the development and maintenance of complex e-commerce applications. This project provides a robust and scalable foundation for building enterprise-level e-commerce systems. By leveraging the Go-zero framework, Zero-Admin offers a high degree of customization and flexibility.
+Zero-Admin is an open-source e-commerce backend system built on top of the Go-zero framework, aiming to simplify the development and deployment of scalable and maintainable online store services. This project provides a comprehensive solution for building robust and efficient e-commerce applications. Its modular design and flexible architecture enable developers to easily customize and extend the system to meet their specific needs.
 
 ---
 

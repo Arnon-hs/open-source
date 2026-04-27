@@ -1,6 +1,6 @@
 # grafana/alloy
 
-[![Stars](https://img.shields.io/github/stars/grafana/alloy?style=flat-square&color=yellow)](https://github.com/grafana/alloy/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/alloy?style=flat-square&color=blue)](https://github.com/grafana/alloy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/alloy?style=flat-square&color=yellow)](https://github.com/grafana/alloy/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/alloy?style=flat-square&color=blue)](https://github.com/grafana/alloy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > OpenTelemetry Collector distribution with programmable pipelines
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 579 |
+| 🍴 **Forks** | 580 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

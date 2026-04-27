@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The xpzouying/xiaohongshu-mcp project is an open-source implementation of the Machine-Check Architecture (MCP) for Xiaohongshu.com, a popular Chinese e-commerce platform. This MCP provides a standardized interface for error reporting and diagnosis on the Xiaohongshu.com platform. By utilizing this project, developers can more efficiently identify and resolve issues, improving overall platform stability and user experience.
+The xpzouying/xiaohongshu-mcp project provides a Microservices Container Platform (MCP) for Xiaohongshu, a popular e-commerce platform in China. This open-source project enables the deployment and management of microservices in a containerized environment, promoting scalability, flexibility, and efficient resource utilization. By leveraging MCP, developers can build and maintain complex web applications with high reliability and performance.
 
 ---
 

@@ -1,6 +1,6 @@
 # esp-rs/esp-hal
 
-[![Stars](https://img.shields.io/github/stars/esp-rs/esp-hal?style=flat-square&color=yellow)](https://github.com/esp-rs/esp-hal/stargazers) [![Forks](https://img.shields.io/github/forks/esp-rs/esp-hal?style=flat-square&color=blue)](https://github.com/esp-rs/esp-hal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/esp-rs/esp-hal?style=flat-square&color=yellow)](https://github.com/esp-rs/esp-hal/stargazers) [![Forks](https://img.shields.io/github/forks/esp-rs/esp-hal?style=flat-square&color=blue)](https://github.com/esp-rs/esp-hal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > no_std Hardware Abstraction Layers for ESP32 microcontrollers
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 429 |
+| 🍴 **Forks** | 428 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

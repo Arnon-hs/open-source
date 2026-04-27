@@ -1,6 +1,6 @@
 # Glade-tool/glade-mcp-unity
 
-[![Stars](https://img.shields.io/github/stars/Glade-tool/glade-mcp-unity?style=flat-square&color=yellow)](https://github.com/Glade-tool/glade-mcp-unity/stargazers) [![Forks](https://img.shields.io/github/forks/Glade-tool/glade-mcp-unity?style=flat-square&color=blue)](https://github.com/Glade-tool/glade-mcp-unity/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Glade-tool/glade-mcp-unity?style=flat-square&color=yellow)](https://github.com/Glade-tool/glade-mcp-unity/stargazers) [![Forks](https://img.shields.io/github/forks/Glade-tool/glade-mcp-unity?style=flat-square&color=blue)](https://github.com/Glade-tool/glade-mcp-unity/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Connect any MCP-compatible AI client (Claude Code, Cursor) to your Unity Editor. 222+ granular tools, a full Unity-aware system prompt, game design document project context, script semantic search, and skill calibration - all free and local.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 58 |
+| ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

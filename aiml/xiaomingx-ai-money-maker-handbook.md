@@ -1,6 +1,6 @@
 # XiaomingX/ai-money-maker-handbook
 
-[![Stars](https://img.shields.io/github/stars/XiaomingX/ai-money-maker-handbook?style=flat-square&color=yellow)](https://github.com/XiaomingX/ai-money-maker-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/XiaomingX/ai-money-maker-handbook?style=flat-square&color=blue)](https://github.com/XiaomingX/ai-money-maker-handbook/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XiaomingX/ai-money-maker-handbook?style=flat-square&color=yellow)](https://github.com/XiaomingX/ai-money-maker-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/XiaomingX/ai-money-maker-handbook?style=flat-square&color=blue)](https://github.com/XiaomingX/ai-money-maker-handbook/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 240 |
+| 🍴 **Forks** | 243 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

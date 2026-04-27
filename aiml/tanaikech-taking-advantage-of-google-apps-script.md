@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The "Taking Advantage of Google Apps Script" project is an open-source initiative that aggregates and showcases various tools, libraries, and scripts for leveraging Google Apps Script's capabilities. This comprehensive collection includes CLI tools, libraries, add-ons, reports, benchmarks, and sample scripts, all of which are sourced from the author's blog, Gists, and GitHub. The project aims to facilitate the development and exploration of Google Apps Script applications.
+Here's a brief summary of the open-source project:
+
+This project, "taking-advantage-of-google-apps-script", is an open-source collection of resources that showcase the potential of Google Apps Script. It includes CLI tools, libraries, add-ons, reports, benchmarks, and sample scripts that demonstrate various ways to leverage Google Apps Script, spanning AI/ML, backend development, and DevTools. The project aggregates materials from the creator's blog, Gists, and GitHub, making it a valuable resource for developers looking to tap into Google Apps Script's capabilities.
 
 ---
 

@@ -1,6 +1,6 @@
 # XTraceAI/xtrace-sdk
 
-[![Stars](https://img.shields.io/github/stars/XTraceAI/xtrace-sdk?style=flat-square&color=yellow)](https://github.com/XTraceAI/xtrace-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/XTraceAI/xtrace-sdk?style=flat-square&color=blue)](https://github.com/XTraceAI/xtrace-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XTraceAI/xtrace-sdk?style=flat-square&color=yellow)](https://github.com/XTraceAI/xtrace-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/XTraceAI/xtrace-sdk?style=flat-square&color=blue)](https://github.com/XTraceAI/xtrace-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > open source version xtrace sdk
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 33/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

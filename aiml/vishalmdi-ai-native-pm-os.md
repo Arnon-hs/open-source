@@ -1,6 +1,6 @@
 # vishalmdi/ai-native-pm-os
 
-[![Stars](https://img.shields.io/github/stars/vishalmdi/ai-native-pm-os?style=flat-square&color=yellow)](https://github.com/vishalmdi/ai-native-pm-os/stargazers) [![Forks](https://img.shields.io/github/forks/vishalmdi/ai-native-pm-os?style=flat-square&color=blue)](https://github.com/vishalmdi/ai-native-pm-os/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vishalmdi/ai-native-pm-os?style=flat-square&color=yellow)](https://github.com/vishalmdi/ai-native-pm-os/stargazers) [![Forks](https://img.shields.io/github/forks/vishalmdi/ai-native-pm-os?style=flat-square&color=blue)](https://github.com/vishalmdi/ai-native-pm-os/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The exhaustive guide to mastering Claude for Product Managers. Build your AI-native PM OS from scratch — PRDs, research synthesis, stakeholder decks, and autonomous agents. 11 modules, 40+ hours, real deliverables.
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25 |
+| ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 4 |
-| 💻 **Language** | HTML |
+| 💻 **Language** | Shell |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

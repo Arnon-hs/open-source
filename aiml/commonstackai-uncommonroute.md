@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the UncommonRoute project:
+Here's a brief summary of the UncommonRoute project:
 
-UncommonRoute is an open-source, automatic Large Language Model (LLM) router that offers significant cost savings of up to 82% while maintaining high accuracy of 79.4% and a pass rate of 93.4%. This drop-in OpenAI proxy simplifies the integration process, making it an attractive solution for developers and organizations looking to leverage AI/ML capabilities. By automating LLM routing, UncommonRoute streamlines AI-powered applications.
+UncommonRoute is an open-source, drop-in OpenAI proxy that optimizes the performance of Large Language Models (LLMs) by automatically routing requests, achieving significant cost savings of 82% and high accuracy of 79.4%, while maintaining an impressive 93.4% pass rate. This AI/ML tool streamlines LLM interactions, making it an invaluable resource for developers and organizations working with OpenAI models. By leveraging UncommonRoute, users can enhance the efficiency and effectiveness of their AI-powered applications.
 
 ---
 

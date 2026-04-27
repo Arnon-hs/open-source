@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Wallabag is an open-source, self-hostable application that allows users to save and organize web pages for later reading. With the ability to classify articles and access them freely, users can easily manage and revisit their favorite online content. This application offers a flexible and private alternative to traditional bookmarking and reading services.
+Here's a brief summary of the wallabag project:
+
+Wallabag is a free, open-source application for saving and organizing web pages, allowing users to classify and read articles at their convenience. This self-hostable platform provides users with complete control over their saved content, free from the constraints of third-party services. By using wallabag, users can save, organize, and access their favorite web pages without any limitations.
 
 ---
 

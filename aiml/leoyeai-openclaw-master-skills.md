@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The LeoYeAI/openclaw-master-skills repository is an open-source collection of expert-level OpenClaw skills, carefully curated and regularly updated by MyClaw.ai. This comprehensive library comprises over 560 best practices, providing a valuable resource for AI and machine learning professionals. It aims to accelerate the development and improvement of AI capabilities.
+The open-source project "LeoYeAI/openclaw-master-skills" is a comprehensive collection of 560+ OpenClaw skills, carefully curated to provide users with the most up-to-date tools for AI and machine learning tasks. This repository is regularly updated by MyClaw.ai, ensuring users have access to the latest skills and capabilities. It serves as a valuable resource for developers and researchers working with OpenClaw.
 
 ---
 

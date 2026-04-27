@@ -1,6 +1,6 @@
 # lucasastorian/llmwiki
 
-[![Stars](https://img.shields.io/github/stars/lucasastorian/llmwiki?style=flat-square&color=yellow)](https://github.com/lucasastorian/llmwiki/stargazers) [![Forks](https://img.shields.io/github/forks/lucasastorian/llmwiki?style=flat-square&color=blue)](https://github.com/lucasastorian/llmwiki/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lucasastorian/llmwiki?style=flat-square&color=yellow)](https://github.com/lucasastorian/llmwiki/stargazers) [![Forks](https://img.shields.io/github/forks/lucasastorian/llmwiki?style=flat-square&color=blue)](https://github.com/lucasastorian/llmwiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 684 |
-| 🍴 **Forks** | 111 |
-| 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| ⭐ **Stars** | 690 |
+| 🍴 **Forks** | 113 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -27,7 +27,7 @@ AI/ML · Frontend
 
 Here's a brief summary for the BioClaw project:
 
-BioClaw is an open-source, AI-powered research assistant designed for bioinformatics tasks, built upon the OpenClaw framework. This innovative tool leverages machine learning capabilities to streamline complex bioinformatics research, enhancing productivity and efficiency for scientists and researchers. By harnessing the power of AI, BioClaw aims to accelerate breakthroughs in the field of bioinformatics.
+BioClaw is an open-source, AI-powered bioinformatics research assistant that leverages the capabilities of OpenClaw to streamline complex biological analysis. This innovative tool utilizes machine learning algorithms to assist researchers in discovering insights from vast amounts of biological data, accelerating the pace of scientific discovery. By integrating AI and bioinformatics, BioClaw aims to simplify the research process and unlock new avenues for biomedical innovation.
 
 ---
 

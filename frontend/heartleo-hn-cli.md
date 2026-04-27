@@ -25,9 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary of the open-source project "heartleo/hn-cli":
 
-The heartleo/hn-cli project provides a blazing fast and user-friendly Hacker News command-line interface (TUI) for users to interact with the popular social news and discussion website. This open-source tool offers a streamlined experience for browsing, searching, and engaging with Hacker News content from the comfort of the terminal. By leveraging a TUI, users can enjoy a more efficient and immersive way to discover and share news and discussions.
+"heartleo/hn-cli is a lightning-fast, command-line interface (CLI) for Hacker News, providing a terminal-based user experience. This open-source project allows users to interact with Hacker News from the comfort of their command line, making it a convenient option for those who prefer a more streamlined experience. With its blazing speed and intuitive interface, hn-cli is a great tool for HN enthusiasts and power users alike."
 
 ---
 

@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the 'elastic/beats' project:
-
-Beats is an open-source project that provides lightweight shippers for sending data to Elasticsearch and Logstash. These shippers, known as Beats, can collect data from various sources, including logs, metrics, and file inputs, and then forward it to Elasticsearch or Logstash for analysis and processing. By using Beats, users can easily collect, ship, and index data for real-time monitoring and analytics.
+Elastic Beats is an open-source project that provides lightweight shippers for sending data to Elasticsearch and Logstash. These shippers, known as Beats, are designed to be simple, scalable, and easy to use, making it easy to collect and analyze data in real-time. They can be used for a wide range of data types, including logs, metrics, and application data.
 
 ---
 

@@ -1,8 +1,8 @@
 # poinsettiaclg-gif/AETHER-core
 
-[![Stars](https://img.shields.io/github/stars/poinsettiaclg-gif/AETHER-core?style=flat-square&color=yellow)](https://github.com/poinsettiaclg-gif/AETHER-core/stargazers) [![Forks](https://img.shields.io/github/forks/poinsettiaclg-gif/AETHER-core?style=flat-square&color=blue)](https://github.com/poinsettiaclg-gif/AETHER-core/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/poinsettiaclg-gif/AETHER-core?style=flat-square&color=yellow)](https://github.com/poinsettiaclg-gif/AETHER-core/stargazers) [![Forks](https://img.shields.io/github/forks/poinsettiaclg-gif/AETHER-core?style=flat-square&color=blue)](https://github.com/poinsettiaclg-gif/AETHER-core/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> The open-source core compiler for the AETHER Agent Reliability Framework. Replaces fuzzy prompts with strict Weighted Intent Token (WIT) vectors to prevent Context Rot.
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

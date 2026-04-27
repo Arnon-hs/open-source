@@ -1,6 +1,6 @@
 # Besty0728/Unity-Skills
 
-[![Stars](https://img.shields.io/github/stars/Besty0728/Unity-Skills?style=flat-square&color=yellow)](https://github.com/Besty0728/Unity-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/Besty0728/Unity-Skills?style=flat-square&color=blue)](https://github.com/Besty0728/Unity-Skills/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Besty0728/Unity-Skills?style=flat-square&color=yellow)](https://github.com/Besty0728/Unity-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/Besty0728/Unity-Skills?style=flat-square&color=blue)](https://github.com/Besty0728/Unity-Skills/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > AI automation skills specifically designed for Unity
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 856 |
+| ⭐ **Stars** | 858 |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

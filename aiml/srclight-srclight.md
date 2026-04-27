@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a 2-3 sentence summary of the project:
 
-srclight is an open-source, deep code indexing MCP server designed to support AI agents. It offers a comprehensive set of tools, including advanced search, call graph analysis, and build system analysis, with support for multi-repo workspaces and 10 languages. By utilizing GPU acceleration and a local, cloud-free architecture, srclight enables efficient and secure code exploration and analysis.
+srclight is an open-source, deep code indexing MCP server designed to facilitate AI agent interactions. It provides a comprehensive suite of 25 tools, including search, call graph analysis, and build system analysis, to support multi-repo workspaces and 10 languages. By leveraging GPU-accelerated semantic search and remaining fully local, srclight eliminates cloud dependencies, enabling efficient and secure code exploration.
 
 ---
 

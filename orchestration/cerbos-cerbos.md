@@ -25,7 +25,7 @@ Orchestration · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Cerbos is an open-source, language-agnostic authorization solution that simplifies user permissions and access control management through context-aware access control policies. It offers a scalable and straightforward approach to implementing authorization for application resources. By leveraging Cerbos, developers can easily manage complex access control scenarios and ensure secure data access.
+Cerbos is an open-source, language-agnostic authorization solution that simplifies user permissions and access control management through context-aware policies. This scalable platform allows developers to write and manage policies for various application resources, streamlining the process of implementing authorization. By leveraging Cerbos, users can ensure secure and fine-grained access control across their applications.
 
 ---
 

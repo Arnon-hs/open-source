@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The ardaku/whoami library is an open-source Rust project that provides a simple and efficient way to retrieve information about the current user and environment. This library offers a convenient interface for gathering metadata, such as user credentials, operating system details, and other relevant context. By leveraging this library, developers can easily incorporate user and environment information into their Rust applications and projects.
+The ardaku/whoami Rust library provides a simple and efficient way to gather information about the current user and environment. It offers a collection of functions to retrieve various details, including the user's name, ID, and environment variables. This library is designed to be a lightweight and easy-to-use solution for applications that require user and environment information.
 
 ---
 

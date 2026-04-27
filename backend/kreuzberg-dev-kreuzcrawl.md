@@ -1,6 +1,6 @@
 # kreuzberg-dev/kreuzcrawl
 
-[![Stars](https://img.shields.io/github/stars/kreuzberg-dev/kreuzcrawl?style=flat-square&color=yellow)](https://github.com/kreuzberg-dev/kreuzcrawl/stargazers) [![Forks](https://img.shields.io/github/forks/kreuzberg-dev/kreuzcrawl?style=flat-square&color=blue)](https://github.com/kreuzberg-dev/kreuzcrawl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kreuzberg-dev/kreuzcrawl?style=flat-square&color=yellow)](https://github.com/kreuzberg-dev/kreuzcrawl/stargazers) [![Forks](https://img.shields.io/github/forks/kreuzberg-dev/kreuzcrawl?style=flat-square&color=blue)](https://github.com/kreuzberg-dev/kreuzcrawl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance web crawling engine with bindings for 11 languages
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 56 |
-| 🍴 **Forks** | 7 |
+| ⭐ **Stars** | 58 |
+| 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

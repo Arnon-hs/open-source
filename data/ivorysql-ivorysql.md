@@ -1,6 +1,6 @@
 # IvorySQL/IvorySQL
 
-[![Stars](https://img.shields.io/github/stars/IvorySQL/IvorySQL?style=flat-square&color=yellow)](https://github.com/IvorySQL/IvorySQL/stargazers) [![Forks](https://img.shields.io/github/forks/IvorySQL/IvorySQL?style=flat-square&color=blue)](https://github.com/IvorySQL/IvorySQL/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IvorySQL/IvorySQL?style=flat-square&color=yellow)](https://github.com/IvorySQL/IvorySQL/stargazers) [![Forks](https://img.shields.io/github/forks/IvorySQL/IvorySQL?style=flat-square&color=blue)](https://github.com/IvorySQL/IvorySQL/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Oracle Compatible PostgreSQL.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

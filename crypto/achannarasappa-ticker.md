@@ -25,9 +25,7 @@ Crypto · Trading · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The achannarasappa/ticker project is an open-source tool that allows users to track real-time prices and positions for stocks, cryptocurrencies, and derivatives directly from their terminal. This project provides a convenient and streamlined way for traders and investors to monitor their assets and stay up-to-date with market fluctuations. By leveraging real-time data, users can make more informed decisions and stay ahead of the market.
+The achannarasappa/ticker project is an open-source, real-time terminal-based application for tracking various financial assets, including stocks, cryptocurrencies, and derivatives. It provides users with up-to-date market information from their terminal, allowing for efficient monitoring and analysis of their investments. This project offers a convenient and customizable solution for traders and investors seeking real-time market data.
 
 ---
 

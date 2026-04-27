@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary of the project:
 
-JeecgBoot × JimuReport's Claude Code is an open-source AI-driven platform that enables rapid development of business systems through natural language input. With a single command, users can generate entire business systems, including code, forms, workflows, reports, charts, dashboards, and data visualizations. This platform combines data analysis and visualization capabilities to deliver end-to-end solutions with unprecedented efficiency.
+JeecgBoot's skills is an open-source platform that utilizes natural language to drive AI-driven application development. It enables developers to generate a complete business system with a single sentence, automating code, form, workflow, report, chart, dashboard, and data wall design and generation. Powered by JimuReport's block-based report capabilities, it streamlines data analysis and visualization, allowing for rapid deployment with just one sentence.
 
 ---
 

@@ -25,7 +25,7 @@ Backend · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Apache Kyuubi is an open-source project that offers a distributed and multi-tenant gateway for serverless SQL access to data warehouses and lakehouses. This project provides a scalable solution for querying large-scale data sets, enabling users to leverage SQL for analytics and data processing in a cloud-agnostic environment. By providing serverless SQL capabilities, Kyuubi simplifies data access and enhances collaboration among teams.
+Apache Kyuubi is an open-source, distributed gateway that enables serverless SQL access to data warehouses and lakehouses. It provides a multi-tenant platform for secure and efficient querying of large-scale data, making it ideal for big data analytics and data science applications. With Kyuubi, users can execute SQL queries on various data storage systems without the need for provisioning or managing infrastructure.
 
 ---
 

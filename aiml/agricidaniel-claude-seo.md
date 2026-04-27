@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-seo
 
-[![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square&color=yellow)](https://github.com/AgriciDaniel/claude-seo/stargazers) [![Forks](https://img.shields.io/github/forks/AgriciDaniel/claude-seo?style=flat-square&color=blue)](https://github.com/AgriciDaniel/claude-seo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square&color=yellow)](https://github.com/AgriciDaniel/claude-seo/stargazers) [![Forks](https://img.shields.io/github/forks/AgriciDaniel/claude-seo?style=flat-square&color=blue)](https://github.com/AgriciDaniel/claude-seo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
 
 > Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google APIs, and PDF/Excel reporting.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.5k |
-| 🍴 **Forks** | 848 |
+| 🍴 **Forks** | 852 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 96/100 |
+| 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Lobe Icons is an open-source project that provides a collection of AI and Large Language Model (LLM) brand logos, designed to be easily integrated into React and React Native applications. The project offers static SVG, PNG, and WebP formats, eliminating the need for additional dependencies. This allows developers to seamlessly incorporate AI and LLM branding into their mobile and web applications.
+The lobe-icons project provides a collection of AI and LLM brand logos, designed as static SVG, PNG, and WebP files that can be easily integrated into React and React Native applications. This open-source project eliminates the need for additional dependencies, offering a lightweight solution for developers to enhance their applications with recognizable AI logos. By utilizing these pre-made icons, developers can streamline their design process and create a consistent branding experience within their apps.
 
 ---
 

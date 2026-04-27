@@ -1,6 +1,6 @@
 # vaayne/agent-kit
 
-[![Stars](https://img.shields.io/github/stars/vaayne/agent-kit?style=flat-square&color=yellow)](https://github.com/vaayne/agent-kit/stargazers) [![Forks](https://img.shields.io/github/forks/vaayne/agent-kit?style=flat-square&color=blue)](https://github.com/vaayne/agent-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vaayne/agent-kit?style=flat-square&color=yellow)](https://github.com/vaayne/agent-kit/stargazers) [![Forks](https://img.shields.io/github/forks/vaayne/agent-kit?style=flat-square&color=blue)](https://github.com/vaayne/agent-kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Reusable components for AI coding agents: skills, subagents, MCP servers, and extensions.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 3 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | JavaScript |
 | 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

@@ -1,6 +1,6 @@
 # guanxiaol/WindsurfPoolAPI
 
-[![Stars](https://img.shields.io/github/stars/guanxiaol/WindsurfPoolAPI?style=flat-square&color=yellow)](https://github.com/guanxiaol/WindsurfPoolAPI/stargazers) [![Forks](https://img.shields.io/github/forks/guanxiaol/WindsurfPoolAPI?style=flat-square&color=blue)](https://github.com/guanxiaol/WindsurfPoolAPI/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guanxiaol/WindsurfPoolAPI?style=flat-square&color=yellow)](https://github.com/guanxiaol/WindsurfPoolAPI/stargazers) [![Forks](https://img.shields.io/github/forks/guanxiaol/WindsurfPoolAPI?style=flat-square&color=blue)](https://github.com/guanxiaol/WindsurfPoolAPI/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-account pool proxy for Windsurf — 113+ models (Claude/GPT/Gemini/Grok/Kimi) via OpenAI & Anthropic APIs, image upload, Cursor & Claude Code native / 企业级 Windsurf 多账号池化 API 代理
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 145 |
-| 🍴 **Forks** | 30 |
+| ⭐ **Stars** | 150 |
+| 🍴 **Forks** | 31 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

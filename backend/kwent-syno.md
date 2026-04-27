@@ -25,7 +25,9 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Kwent/syno is an open-source project that provides a simple Node.js wrapper and command-line interface (CLI) for interacting with Synology DSM REST APIs, supporting versions 5.x and 6.x. This project enables developers to easily access and manage their Synology NAS devices programmatically, making it a valuable tool for automation and integration tasks. By providing a straightforward interface, kwent/syno simplifies the process of working with Synology devices in Node.js applications.
+Here's a brief summary for the kwent/syno project:
+
+Kwent/syno is an open-source project that provides a simple Node.js wrapper and command-line interface (CLI) for interacting with Synology DiskStation Manager (DSM) REST API versions 5.x and 6.x. This project enables developers to easily access and manage various Synology services using their preferred programming language or through a user-friendly CLI. It aims to simplify the integration of Synology devices with Node.js applications and scripts.
 
 ---
 

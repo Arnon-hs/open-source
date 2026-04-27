@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-Wireguird is an open-source, user-friendly graphical user interface (GUI) for managing WireGuard connections on Linux systems. Developed as a GTK GUI, it provides an intuitive and accessible way for users to configure and control their WireGuard VPN settings. This project aims to simplify the wireguard configuration process, making it more accessible to users who prefer a visual interface over command-line tools.
+Here's a brief summary for the open-source project:
+
+wireguird is a user-friendly graphical interface for managing WireGuard VPN connections on Linux systems. This open-source project provides a simple and intuitive GTK frontend for configuring and controlling WireGuard settings, streamlining the process of securing your online connections. By utilizing WireGuard's robust encryption capabilities, wireguird offers a secure and accessible way to manage your VPN connections.
 
 ---
 

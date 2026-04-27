@@ -25,9 +25,9 @@ AI/ML · Data · Product
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Microsoft RD-Agent open-source project:
+Here's a brief summary of the Microsoft RD-Agent project:
 
-The Microsoft RD-Agent project aims to automate generic Research and Development (R&D) processes through the use of Artificial Intelligence (AI). By leveraging AI to drive data-driven decisions, RD-Agent enables the enhancement of industrial productivity in the AI era. This innovative project has the potential to revolutionize high-value R&D processes, facilitating the integration of AI with data models.
+Microsoft RD-Agent is an open-source initiative aimed at automating high-value generic research and development (R&D) processes, particularly in the AI era. By leveraging AI to drive data-driven AI, the project enables the efficient enhancement of industrial productivity. This innovative solution focuses on data and models, two core aspects of R&D.
 
 ---
 

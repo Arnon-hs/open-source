@@ -1,17 +1,17 @@
 # fastrepl/unsigned-char
 
-[![Stars](https://img.shields.io/github/stars/fastrepl/unsigned-char?style=flat-square&color=yellow)](https://github.com/fastrepl/unsigned-char/stargazers) [![Forks](https://img.shields.io/github/forks/fastrepl/unsigned-char?style=flat-square&color=blue)](https://github.com/fastrepl/unsigned-char/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fastrepl/unsigned-char?style=flat-square&color=yellow)](https://github.com/fastrepl/unsigned-char/stargazers) [![Forks](https://img.shields.io/github/forks/fastrepl/unsigned-char?style=flat-square&color=blue)](https://github.com/fastrepl/unsigned-char/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
-> Open source Granola AI Alternative
+> Privacy-first AI meeting notetaker
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.3k |
-| 🍴 **Forks** | 590 |
-| 💻 **Language** | Rust |
-| 📈 **Score** | 93/100 |
+| ⭐ **Stars** | 7 |
+| 🍴 **Forks** | — |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 

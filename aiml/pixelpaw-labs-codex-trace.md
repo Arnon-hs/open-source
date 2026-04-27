@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/PixelPaw-Labs/codex-trace?style=flat-square&color=yellow)](https://github.com/PixelPaw-Labs/codex-trace/stargazers) [![Forks](https://img.shields.io/github/forks/PixelPaw-Labs/codex-trace?style=flat-square&color=blue)](https://github.com/PixelPaw-Labs/codex-trace/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Browse, search, and live-tail Codex CLI session logs in a native desktop app and web UI.
+> Real-time viewer for Codex session logs — desktop app, web
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 46/100 |

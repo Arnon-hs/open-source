@@ -1,6 +1,6 @@
 # zenc-lang/zenc
 
-[![Stars](https://img.shields.io/github/stars/zenc-lang/zenc?style=flat-square&color=yellow)](https://github.com/zenc-lang/zenc/stargazers) [![Forks](https://img.shields.io/github/forks/zenc-lang/zenc?style=flat-square&color=blue)](https://github.com/zenc-lang/zenc/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zenc-lang/zenc?style=flat-square&color=yellow)](https://github.com/zenc-lang/zenc/stargazers) [![Forks](https://img.shields.io/github/forks/zenc-lang/zenc?style=flat-square&color=blue)](https://github.com/zenc-lang/zenc/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Write like a high-level language, run like C.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 210 |
 | 💻 **Language** | C |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

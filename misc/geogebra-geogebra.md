@@ -1,6 +1,6 @@
 # geogebra/geogebra
 
-[![Stars](https://img.shields.io/github/stars/geogebra/geogebra?style=flat-square&color=yellow)](https://github.com/geogebra/geogebra/stargazers) [![Forks](https://img.shields.io/github/forks/geogebra/geogebra?style=flat-square&color=blue)](https://github.com/geogebra/geogebra/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/geogebra/geogebra?style=flat-square&color=yellow)](https://github.com/geogebra/geogebra/stargazers) [![Forks](https://img.shields.io/github/forks/geogebra/geogebra?style=flat-square&color=blue)](https://github.com/geogebra/geogebra/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > GeoGebra apps (mirror)
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 443 |
+| 🍴 **Forks** | 444 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
