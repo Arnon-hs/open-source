@@ -1,6 +1,6 @@
 # SurgeDM/Surge
 
-[![Stars](https://img.shields.io/github/stars/SurgeDM/Surge?style=flat-square&color=yellow)](https://github.com/SurgeDM/Surge/stargazers) [![Forks](https://img.shields.io/github/forks/SurgeDM/Surge?style=flat-square&color=blue)](https://github.com/SurgeDM/Surge/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SurgeDM/Surge?style=flat-square&color=yellow)](https://github.com/SurgeDM/Surge/stargazers) [![Forks](https://img.shields.io/github/forks/SurgeDM/Surge?style=flat-square&color=blue)](https://github.com/SurgeDM/Surge/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Blazing fast TUI download manager built in Go for power users
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

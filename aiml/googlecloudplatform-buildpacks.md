@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/buildpacks
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/buildpacks?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/buildpacks/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/buildpacks?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/buildpacks/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/buildpacks?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/buildpacks/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/buildpacks?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/buildpacks/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Builders and buildpacks designed to run on Google Cloud's container platforms
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 203 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

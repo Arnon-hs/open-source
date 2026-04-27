@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/chojs23/lazyagent?style=flat-square&color=yellow)](https://github.com/chojs23/lazyagent/stargazers) [![Forks](https://img.shields.io/github/forks/chojs23/lazyagent?style=flat-square&color=blue)](https://github.com/chojs23/lazyagent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> TUI for watching all your AI coding agents(claude, codex and opencode)
+> Watch what your ai coding agents(claude, codex and opencode) are doing on your terminal and browser.
 
 ## 📊 Stats
 

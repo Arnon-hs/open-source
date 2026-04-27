@@ -1,6 +1,6 @@
 # Dicklesworthstone/destructive_command_guard
 
-[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/destructive_command_guard?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/destructive_command_guard/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/destructive_command_guard?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/destructive_command_guard/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/destructive_command_guard?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/destructive_command_guard/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/destructive_command_guard?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/destructive_command_guard/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 892 |
+| ⭐ **Stars** | 896 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

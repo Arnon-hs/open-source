@@ -1,6 +1,6 @@
 # Pasta-Devs/Marinara-Engine
 
-[![Stars](https://img.shields.io/github/stars/Pasta-Devs/Marinara-Engine?style=flat-square&color=yellow)](https://github.com/Pasta-Devs/Marinara-Engine/stargazers) [![Forks](https://img.shields.io/github/forks/Pasta-Devs/Marinara-Engine?style=flat-square&color=blue)](https://github.com/Pasta-Devs/Marinara-Engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pasta-Devs/Marinara-Engine?style=flat-square&color=yellow)](https://github.com/Pasta-Devs/Marinara-Engine/stargazers) [![Forks](https://img.shields.io/github/forks/Pasta-Devs/Marinara-Engine?style=flat-square&color=blue)](https://github.com/Pasta-Devs/Marinara-Engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > AI frontend
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 224 |
+| ⭐ **Stars** | 225 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

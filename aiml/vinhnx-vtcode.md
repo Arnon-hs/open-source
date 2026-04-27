@@ -1,6 +1,6 @@
 # vinhnx/VTCode
 
-[![Stars](https://img.shields.io/github/stars/vinhnx/VTCode?style=flat-square&color=yellow)](https://github.com/vinhnx/VTCode/stargazers) [![Forks](https://img.shields.io/github/forks/vinhnx/VTCode?style=flat-square&color=blue)](https://github.com/vinhnx/VTCode/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vinhnx/VTCode?style=flat-square&color=yellow)](https://github.com/vinhnx/VTCode/stargazers) [![Forks](https://img.shields.io/github/forks/vinhnx/VTCode?style=flat-square&color=blue)](https://github.com/vinhnx/VTCode/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > VT Code - semantic AI coding agent
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 544 |
+| ⭐ **Stars** | 547 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

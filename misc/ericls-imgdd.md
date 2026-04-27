@@ -1,6 +1,6 @@
 # ericls/imgdd
 
-[![Stars](https://img.shields.io/github/stars/ericls/imgdd?style=flat-square&color=yellow)](https://github.com/ericls/imgdd/stargazers) [![Forks](https://img.shields.io/github/forks/ericls/imgdd?style=flat-square&color=blue)](https://github.com/ericls/imgdd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ericls/imgdd?style=flat-square&color=yellow)](https://github.com/ericls/imgdd/stargazers) [![Forks](https://img.shields.io/github/forks/ericls/imgdd?style=flat-square&color=blue)](https://github.com/ericls/imgdd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > simple image hosting program
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 146 |
+| ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # coalton-lang/coalton
 
-[![Stars](https://img.shields.io/github/stars/coalton-lang/coalton?style=flat-square&color=yellow)](https://github.com/coalton-lang/coalton/stargazers) [![Forks](https://img.shields.io/github/forks/coalton-lang/coalton?style=flat-square&color=blue)](https://github.com/coalton-lang/coalton/network) [![Language](https://img.shields.io/badge/lang-Common%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coalton-lang/coalton?style=flat-square&color=yellow)](https://github.com/coalton-lang/coalton/stargazers) [![Forks](https://img.shields.io/github/forks/coalton-lang/coalton?style=flat-square&color=blue)](https://github.com/coalton-lang/coalton/network) [![Language](https://img.shields.io/badge/lang-Common%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Common Lisp |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # sofa-framework/sofa
 
-[![Stars](https://img.shields.io/github/stars/sofa-framework/sofa?style=flat-square&color=yellow)](https://github.com/sofa-framework/sofa/stargazers) [![Forks](https://img.shields.io/github/forks/sofa-framework/sofa?style=flat-square&color=blue)](https://github.com/sofa-framework/sofa/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sofa-framework/sofa?style=flat-square&color=yellow)](https://github.com/sofa-framework/sofa/stargazers) [![Forks](https://img.shields.io/github/forks/sofa-framework/sofa?style=flat-square&color=blue)](https://github.com/sofa-framework/sofa/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time multi-physics simulation with an emphasis on medical simulation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 350 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # dotnet/dev-proxy
 
-[![Stars](https://img.shields.io/github/stars/dotnet/dev-proxy?style=flat-square&color=yellow)](https://github.com/dotnet/dev-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/dev-proxy?style=flat-square&color=blue)](https://github.com/dotnet/dev-proxy/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/dev-proxy?style=flat-square&color=yellow)](https://github.com/dotnet/dev-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/dev-proxy?style=flat-square&color=blue)](https://github.com/dotnet/dev-proxy/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Simulate API failures, throttling, and chaos — all from your command line.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 786 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

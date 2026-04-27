@@ -1,6 +1,6 @@
 # wiredtiger/wiredtiger
 
-[![Stars](https://img.shields.io/github/stars/wiredtiger/wiredtiger?style=flat-square&color=yellow)](https://github.com/wiredtiger/wiredtiger/stargazers) [![Forks](https://img.shields.io/github/forks/wiredtiger/wiredtiger?style=flat-square&color=blue)](https://github.com/wiredtiger/wiredtiger/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wiredtiger/wiredtiger?style=flat-square&color=yellow)](https://github.com/wiredtiger/wiredtiger/stargazers) [![Forks](https://img.shields.io/github/forks/wiredtiger/wiredtiger?style=flat-square&color=blue)](https://github.com/wiredtiger/wiredtiger/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > WiredTiger's source tree
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 422 |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

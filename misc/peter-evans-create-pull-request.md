@@ -1,6 +1,6 @@
 # peter-evans/create-pull-request
 
-[![Stars](https://img.shields.io/github/stars/peter-evans/create-pull-request?style=flat-square&color=yellow)](https://github.com/peter-evans/create-pull-request/stargazers) [![Forks](https://img.shields.io/github/forks/peter-evans/create-pull-request?style=flat-square&color=blue)](https://github.com/peter-evans/create-pull-request/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/peter-evans/create-pull-request?style=flat-square&color=yellow)](https://github.com/peter-evans/create-pull-request/stargazers) [![Forks](https://img.shields.io/github/forks/peter-evans/create-pull-request?style=flat-square&color=blue)](https://github.com/peter-evans/create-pull-request/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A GitHub action to create a pull request for changes to your repository in the actions workspace
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 539 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**28 projects** in this category.
+**29 projects** in this category.
 
 ## Projects
 
@@ -21,11 +21,11 @@
 | 11 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 72/100 |
 | 12 | [sipsorcery-org/sipsorcery](./sipsorcery-org-sipsorcery.md) | ⭐ 1.9k | C# | 71/100 |
 | 13 | [aws-samples/amazon-bedrock-workshop](./aws-samples-amazon-bedrock-workshop.md) | ⭐ 2.1k | Jupyter Notebook | 69/100 |
-| 14 | [metacraft-labs/codetracer](./metacraft-labs-codetracer.md) | ⭐ 1.3k | Rust | 59/100 |
-| 15 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 59/100 |
+| 14 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 59/100 |
+| 15 | [metacraft-labs/codetracer](./metacraft-labs-codetracer.md) | ⭐ 1.3k | Rust | 59/100 |
 | 16 | [lahin31/system-design-bangla](./lahin31-system-design-bangla.md) | ⭐ 1.2k | — | 56/100 |
-| 17 | [juspay/superposition](./juspay-superposition.md) | ⭐ 412 | Rust | 53/100 |
-| 18 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
+| 17 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
+| 18 | [juspay/superposition](./juspay-superposition.md) | ⭐ 412 | Rust | 53/100 |
 | 19 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
 | 20 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 225 | Go | 52/100 |
 | 21 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 209 | PHP | 52/100 |
@@ -33,9 +33,10 @@
 | 23 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 600 | PHP | 50/100 |
 | 24 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 437 | JavaScript | 49/100 |
 | 25 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
-| 26 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 212 | Go | 48/100 |
-| 27 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
-| 28 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 522 | Python | 46/100 |
+| 26 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
+| 27 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 218 | Go | 48/100 |
+| 28 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
+| 29 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 522 | Python | 46/100 |
 
 ---
 

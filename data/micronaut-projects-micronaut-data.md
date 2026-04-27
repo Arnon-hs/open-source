@@ -1,6 +1,6 @@
 # micronaut-projects/micronaut-data
 
-[![Stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-data?style=flat-square&color=yellow)](https://github.com/micronaut-projects/micronaut-data/stargazers) [![Forks](https://img.shields.io/github/forks/micronaut-projects/micronaut-data?style=flat-square&color=blue)](https://github.com/micronaut-projects/micronaut-data/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-data?style=flat-square&color=yellow)](https://github.com/micronaut-projects/micronaut-data/stargazers) [![Forks](https://img.shields.io/github/forks/micronaut-projects/micronaut-data?style=flat-square&color=blue)](https://github.com/micronaut-projects/micronaut-data/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Ahead of Time Data Repositories
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 226 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

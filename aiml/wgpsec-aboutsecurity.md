@@ -1,6 +1,6 @@
 # wgpsec/AboutSecurity
 
-[![Stars](https://img.shields.io/github/stars/wgpsec/AboutSecurity?style=flat-square&color=yellow)](https://github.com/wgpsec/AboutSecurity/stargazers) [![Forks](https://img.shields.io/github/forks/wgpsec/AboutSecurity?style=flat-square&color=blue)](https://github.com/wgpsec/AboutSecurity/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wgpsec/AboutSecurity?style=flat-square&color=yellow)](https://github.com/wgpsec/AboutSecurity/stargazers) [![Forks](https://img.shields.io/github/forks/wgpsec/AboutSecurity?style=flat-square&color=blue)](https://github.com/wgpsec/AboutSecurity/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Everything for pentest. | 渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论。
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 201 |
+| 🍴 **Forks** | 202 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

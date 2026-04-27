@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/nixopus/nixopus?style=flat-square&color=yellow)](https://github.com/nixopus/nixopus/stargazers) [![Forks](https://img.shields.io/github/forks/nixopus/nixopus?style=flat-square&color=blue)](https://github.com/nixopus/nixopus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
-> Run production apps without thinking about infrastructure On your server or ours. Fully agentic.
+> Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
 
 ## 📊 Stats
 

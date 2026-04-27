@@ -1,6 +1,6 @@
 # opensteno/plover
 
-[![Stars](https://img.shields.io/github/stars/opensteno/plover?style=flat-square&color=yellow)](https://github.com/opensteno/plover/stargazers) [![Forks](https://img.shields.io/github/forks/opensteno/plover?style=flat-square&color=blue)](https://github.com/opensteno/plover/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensteno/plover?style=flat-square&color=yellow)](https://github.com/opensteno/plover/stargazers) [![Forks](https://img.shields.io/github/forks/opensteno/plover?style=flat-square&color=blue)](https://github.com/opensteno/plover/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Open source stenotype engine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 307 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

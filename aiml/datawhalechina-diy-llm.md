@@ -1,6 +1,6 @@
 # datawhalechina/diy-llm
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/diy-llm?style=flat-square&color=yellow)](https://github.com/datawhalechina/diy-llm/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/diy-llm?style=flat-square&color=blue)](https://github.com/datawhalechina/diy-llm/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/diy-llm?style=flat-square&color=yellow)](https://github.com/datawhalechina/diy-llm/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/diy-llm?style=flat-square&color=blue)](https://github.com/datawhalechina/diy-llm/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🎓 系统性大语言模型构建课程｜🛠️ 覆盖预训练数据工程、Tokenizer、Transformer、MoE、GPU 编程 (CUDA/Triton)、分布式训练、Scaling Laws、推理优化及对齐 (SFT/RLHF/GRPO)｜🚀 6 个渐进式作业 + 代码驱动，建立 LLM 全栈认知体系
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 654 |
+| ⭐ **Stars** | 655 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

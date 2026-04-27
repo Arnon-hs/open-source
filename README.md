@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8527** |
+| 🗂️ **Total projects** | **8607** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3285 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1566 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 863 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 718 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 497 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 491 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 295 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 3318 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1586 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 866 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 723 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 503 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 497 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 298 | [Browse →](./crypto/) |
 | 📊 **Data** | 183 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 170 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 171 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 118 | [Browse →](./mobile/) |
-| 💳 **Payments** | 112 | [Browse →](./payments/) |
-| 📈 **Trading** | 87 | [Browse →](./trading/) |
+| 💳 **Payments** | 113 | [Browse →](./payments/) |
+| 📈 **Trading** | 88 | [Browse →](./trading/) |
 | 🔐 **Security** | 77 | [Browse →](./security/) |
-| ✨ **Design** | 28 | [Browse →](./design/) |
+| ✨ **Design** | 29 | [Browse →](./design/) |
 | 🎯 **Product** | 22 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 15 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [AdguardTeam/AdGuardHome](./frontend/adguardteam-adguardhome.md) | ⭐ 33.7k | Frontend |
-| 2 | [shadcn-ui/ui](./aiml/shadcn-ui-ui.md) | ⭐ 113.1k | AI/ML |
-| 3 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 4 | [vxcontrol/pentagi](./orchestration/vxcontrol-pentagi.md) | ⭐ 15.9k | Orchestration |
-| 5 | [leon-ai/leon](./aiml/leon-ai-leon.md) | ⭐ 17.2k | AI/ML |
-| 6 | [cri-o/cri-o](./aiml/cri-o-cri-o.md) | ⭐ 5.6k | AI/ML |
-| 7 | [ruby/ruby](./misc/ruby-ruby.md) | ⭐ 23.5k | Misc |
-| 8 | [doocs/md](./aiml/doocs-md.md) | ⭐ 12.4k | AI/ML |
-| 9 | [zhayujie/CowAgent](./orchestration/zhayujie-cowagent.md) | ⭐ 43.8k | Orchestration |
-| 10 | [valkey-io/valkey](./devtools/valkey-io-valkey.md) | ⭐ 25.6k | DevTools |
+| 1 | [swagger-api/swagger-core](./backend/swagger-api-swagger-core.md) | ⭐ 7.5k | Backend |
+| 2 | [projectdiscovery/httpx](./devtools/projectdiscovery-httpx.md) | ⭐ 9.9k | DevTools |
+| 3 | [moby/buildkit](./orchestration/moby-buildkit.md) | ⭐ 9.9k | Orchestration |
+| 4 | [tw93/Pake](./misc/tw93-pake.md) | ⭐ 48.2k | Misc |
+| 5 | [ruby/ruby](./misc/ruby-ruby.md) | ⭐ 23.5k | Misc |
+| 6 | [docusealco/docuseal](./aiml/docusealco-docuseal.md) | ⭐ 11.8k | AI/ML |
+| 7 | [K-Dense-AI/scientific-agent-skills](./orchestration/k-dense-ai-scientific-agent-skills.md) | ⭐ 19.5k | Orchestration |
+| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 9 | [tinygo-org/tinygo](./frontend/tinygo-org-tinygo.md) | ⭐ 17.4k | Frontend |
+| 10 | [SeleniumHQ/selenium](./misc/seleniumhq-selenium.md) | ⭐ 34.1k | Misc |
 
 ## 🚀 How it works
 
