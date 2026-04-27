@@ -1,6 +1,6 @@
 # jd-opensource/JoySafeter
 
-[![Stars](https://img.shields.io/github/stars/jd-opensource/JoySafeter?style=flat-square&color=yellow)](https://github.com/jd-opensource/JoySafeter/stargazers) [![Forks](https://img.shields.io/github/forks/jd-opensource/JoySafeter?style=flat-square&color=blue)](https://github.com/jd-opensource/JoySafeter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jd-opensource/JoySafeter?style=flat-square&color=yellow)](https://github.com/jd-opensource/JoySafeter/stargazers) [![Forks](https://img.shields.io/github/forks/jd-opensource/JoySafeter?style=flat-square&color=blue)](https://github.com/jd-opensource/JoySafeter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 JoySafeter: An enterprise AI Agent Platform—Not just chatting. building、running、testing, and tracing autonomous Agent Teams with visual orchestration...
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 261 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

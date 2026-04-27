@@ -1,6 +1,6 @@
 # ormsgpack/ormsgpack
 
-[![Stars](https://img.shields.io/github/stars/ormsgpack/ormsgpack?style=flat-square&color=yellow)](https://github.com/ormsgpack/ormsgpack/stargazers) [![Forks](https://img.shields.io/github/forks/ormsgpack/ormsgpack?style=flat-square&color=blue)](https://github.com/ormsgpack/ormsgpack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ormsgpack/ormsgpack?style=flat-square&color=yellow)](https://github.com/ormsgpack/ormsgpack/stargazers) [![Forks](https://img.shields.io/github/forks/ormsgpack/ormsgpack?style=flat-square&color=blue)](https://github.com/ormsgpack/ormsgpack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > MessagePack serialization library for Python derived from orjson, written in Rust using PyO3
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 388 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

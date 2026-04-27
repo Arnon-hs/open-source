@@ -1,6 +1,6 @@
 # ianshulx/React-projects-for-beginners
 
-[![Stars](https://img.shields.io/github/stars/ianshulx/React-projects-for-beginners?style=flat-square&color=yellow)](https://github.com/ianshulx/React-projects-for-beginners/stargazers) [![Forks](https://img.shields.io/github/forks/ianshulx/React-projects-for-beginners?style=flat-square&color=blue)](https://github.com/ianshulx/React-projects-for-beginners/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ianshulx/React-projects-for-beginners?style=flat-square&color=yellow)](https://github.com/ianshulx/React-projects-for-beginners/stargazers) [![Forks](https://img.shields.io/github/forks/ianshulx/React-projects-for-beginners?style=flat-square&color=blue)](https://github.com/ianshulx/React-projects-for-beginners/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Are you a beginner eager to enhance your React JS skills? Look no further! This repository is the perfect platform for you to dive into the world of React development and contribute to open source during Hacktoberfest. @Hacktoberfest @ReactJS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 529 |
 | 🍴 **Forks** | 402 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

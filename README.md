@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8687** |
+| 🗂️ **Total projects** | **8767** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3352 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1599 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 877 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 729 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 504 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 500 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 305 | [Browse →](./crypto/) |
-| 📊 **Data** | 184 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 174 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 3386 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1611 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 886 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 738 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 509 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 501 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 310 | [Browse →](./crypto/) |
+| 📊 **Data** | 187 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 175 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 118 | [Browse →](./mobile/) |
-| 💳 **Payments** | 113 | [Browse →](./payments/) |
+| 💳 **Payments** | 112 | [Browse →](./payments/) |
 | 📈 **Trading** | 88 | [Browse →](./trading/) |
-| 🔐 **Security** | 78 | [Browse →](./security/) |
-| ✨ **Design** | 29 | [Browse →](./design/) |
+| 🔐 **Security** | 79 | [Browse →](./security/) |
+| ✨ **Design** | 30 | [Browse →](./design/) |
 | 🎯 **Product** | 22 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 15 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [swagger-api/swagger-core](./backend/swagger-api-swagger-core.md) | ⭐ 7.5k | Backend |
-| 2 | [projectdiscovery/httpx](./devtools/projectdiscovery-httpx.md) | ⭐ 9.9k | DevTools |
-| 3 | [moby/buildkit](./orchestration/moby-buildkit.md) | ⭐ 9.9k | Orchestration |
-| 4 | [tw93/Pake](./misc/tw93-pake.md) | ⭐ 48.2k | Misc |
-| 5 | [webstudio-is/webstudio](./frontend/webstudio-is-webstudio.md) | ⭐ 8.5k | Frontend |
-| 6 | [ceph/ceph](./crypto/ceph-ceph.md) | ⭐ 16.5k | Crypto |
-| 7 | [zitadel/zitadel](./aiml/zitadel-zitadel.md) | ⭐ 13.6k | AI/ML |
-| 8 | [ruby/ruby](./misc/ruby-ruby.md) | ⭐ 23.5k | Misc |
-| 9 | [ionic-team/capacitor](./aiml/ionic-team-capacitor.md) | ⭐ 15.5k | AI/ML |
-| 10 | [formbricks/formbricks](./aiml/formbricks-formbricks.md) | ⭐ 12.1k | AI/ML |
+| 1 | [Lissy93/dashy](./frontend/lissy93-dashy.md) | ⭐ 24.8k | Frontend |
+| 2 | [ionic-team/capacitor](./aiml/ionic-team-capacitor.md) | ⭐ 15.5k | AI/ML |
+| 3 | [formbricks/formbricks](./aiml/formbricks-formbricks.md) | ⭐ 12.1k | AI/ML |
+| 4 | [marimo-team/marimo](./aiml/marimo-team-marimo.md) | ⭐ 20.7k | AI/ML |
+| 5 | [wolfpld/tracy](./misc/wolfpld-tracy.md) | ⭐ 15.7k | Misc |
+| 6 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.5k | DevTools |
+| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 8 | [MarlinFirmware/Marlin](./frontend/marlinfirmware-marlin.md) | ⭐ 17.4k | Frontend |
+| 9 | [x-extends/vxe-table](./frontend/x-extends-vxe-table.md) | ⭐ 8.6k | Frontend |
+| 10 | [elizaOS/eliza](./crypto/elizaos-eliza.md) | ⭐ 18.3k | Crypto |
 
 ## 🚀 How it works
 

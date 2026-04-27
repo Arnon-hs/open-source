@@ -1,6 +1,6 @@
 # samueltuyizere/oc-go-cc
 
-[![Stars](https://img.shields.io/github/stars/samueltuyizere/oc-go-cc?style=flat-square&color=yellow)](https://github.com/samueltuyizere/oc-go-cc/stargazers) [![Forks](https://img.shields.io/github/forks/samueltuyizere/oc-go-cc?style=flat-square&color=blue)](https://github.com/samueltuyizere/oc-go-cc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samueltuyizere/oc-go-cc?style=flat-square&color=yellow)](https://github.com/samueltuyizere/oc-go-cc/stargazers) [![Forks](https://img.shields.io/github/forks/samueltuyizere/oc-go-cc?style=flat-square&color=blue)](https://github.com/samueltuyizere/oc-go-cc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Use your OpenCode Go subscription with Claude Code.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 87 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 89 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

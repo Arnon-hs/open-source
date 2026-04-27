@@ -1,6 +1,6 @@
 # dbcli/athenacli
 
-[![Stars](https://img.shields.io/github/stars/dbcli/athenacli?style=flat-square&color=yellow)](https://github.com/dbcli/athenacli/stargazers) [![Forks](https://img.shields.io/github/forks/dbcli/athenacli?style=flat-square&color=blue)](https://github.com/dbcli/athenacli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dbcli/athenacli?style=flat-square&color=yellow)](https://github.com/dbcli/athenacli/stargazers) [![Forks](https://img.shields.io/github/forks/dbcli/athenacli?style=flat-square&color=blue)](https://github.com/dbcli/athenacli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 225 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

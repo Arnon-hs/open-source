@@ -1,6 +1,6 @@
 # chojs23/lazyagent
 
-[![Stars](https://img.shields.io/github/stars/chojs23/lazyagent?style=flat-square&color=yellow)](https://github.com/chojs23/lazyagent/stargazers) [![Forks](https://img.shields.io/github/forks/chojs23/lazyagent?style=flat-square&color=blue)](https://github.com/chojs23/lazyagent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chojs23/lazyagent?style=flat-square&color=yellow)](https://github.com/chojs23/lazyagent/stargazers) [![Forks](https://img.shields.io/github/forks/chojs23/lazyagent?style=flat-square&color=blue)](https://github.com/chojs23/lazyagent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Watch what your ai coding agents(claude, codex and opencode) are doing on your terminal and browser.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 64 |
+| ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

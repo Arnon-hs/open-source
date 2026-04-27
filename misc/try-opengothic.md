@@ -1,6 +1,6 @@
 # Try/OpenGothic
 
-[![Stars](https://img.shields.io/github/stars/Try/OpenGothic?style=flat-square&color=yellow)](https://github.com/Try/OpenGothic/stargazers) [![Forks](https://img.shields.io/github/forks/Try/OpenGothic?style=flat-square&color=blue)](https://github.com/Try/OpenGothic/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Try/OpenGothic?style=flat-square&color=yellow)](https://github.com/Try/OpenGothic/stargazers) [![Forks](https://img.shields.io/github/forks/Try/OpenGothic?style=flat-square&color=blue)](https://github.com/Try/OpenGothic/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Reimplementation of Gothic 2 Notr
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

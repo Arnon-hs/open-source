@@ -1,6 +1,6 @@
 # Adyen/adyen-web
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-web?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-web/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-web?style=flat-square&color=blue)](https://github.com/Adyen/adyen-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-web?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-web/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-web?style=flat-square&color=blue)](https://github.com/Adyen/adyen-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Adyen Web Drop-in and Components
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 246 |
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # pagehelper-org/pagehelper-spring-boot
 
-[![Stars](https://img.shields.io/github/stars/pagehelper-org/pagehelper-spring-boot?style=flat-square&color=yellow)](https://github.com/pagehelper-org/pagehelper-spring-boot/stargazers) [![Forks](https://img.shields.io/github/forks/pagehelper-org/pagehelper-spring-boot?style=flat-square&color=blue)](https://github.com/pagehelper-org/pagehelper-spring-boot/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pagehelper-org/pagehelper-spring-boot?style=flat-square&color=yellow)](https://github.com/pagehelper-org/pagehelper-spring-boot/stargazers) [![Forks](https://img.shields.io/github/forks/pagehelper-org/pagehelper-spring-boot?style=flat-square&color=blue)](https://github.com/pagehelper-org/pagehelper-spring-boot/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > pagehelper-spring-boot
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 313 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

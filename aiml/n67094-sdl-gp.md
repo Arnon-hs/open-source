@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/n67094/SDL_gp?style=flat-square&color=yellow)](https://github.com/n67094/SDL_gp/stargazers) [![Forks](https://img.shields.io/github/forks/n67094/SDL_gp?style=flat-square&color=blue)](https://github.com/n67094/SDL_gp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> A high-performance 2D graphics painter for SDL3
+> Single header high-performance 2D graphics painter for SDL3
 
 ## 📊 Stats
 

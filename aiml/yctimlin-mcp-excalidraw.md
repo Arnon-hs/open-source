@@ -1,6 +1,6 @@
 # yctimlin/mcp_excalidraw
 
-[![Stars](https://img.shields.io/github/stars/yctimlin/mcp_excalidraw?style=flat-square&color=yellow)](https://github.com/yctimlin/mcp_excalidraw/stargazers) [![Forks](https://img.shields.io/github/forks/yctimlin/mcp_excalidraw?style=flat-square&color=blue)](https://github.com/yctimlin/mcp_excalidraw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yctimlin/mcp_excalidraw?style=flat-square&color=yellow)](https://github.com/yctimlin/mcp_excalidraw/stargazers) [![Forks](https://img.shields.io/github/forks/yctimlin/mcp_excalidraw?style=flat-square&color=blue)](https://github.com/yctimlin/mcp_excalidraw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with real-time canvas sync.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 184 |
+| 🍴 **Forks** | 185 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

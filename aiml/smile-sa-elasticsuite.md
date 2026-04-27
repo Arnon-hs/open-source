@@ -1,6 +1,6 @@
 # Smile-SA/elasticsuite
 
-[![Stars](https://img.shields.io/github/stars/Smile-SA/elasticsuite?style=flat-square&color=yellow)](https://github.com/Smile-SA/elasticsuite/stargazers) [![Forks](https://img.shields.io/github/forks/Smile-SA/elasticsuite?style=flat-square&color=blue)](https://github.com/Smile-SA/elasticsuite/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Smile-SA/elasticsuite?style=flat-square&color=yellow)](https://github.com/Smile-SA/elasticsuite/stargazers) [![Forks](https://img.shields.io/github/forks/Smile-SA/elasticsuite?style=flat-square&color=blue)](https://github.com/Smile-SA/elasticsuite/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Smile ElasticSuite - Magento 2 merchandising and search engine built on ElasticSearch
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 804 |
 | 🍴 **Forks** | 355 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

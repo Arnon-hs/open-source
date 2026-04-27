@@ -1,6 +1,6 @@
 # tektoncd/cli
 
-[![Stars](https://img.shields.io/github/stars/tektoncd/cli?style=flat-square&color=yellow)](https://github.com/tektoncd/cli/stargazers) [![Forks](https://img.shields.io/github/forks/tektoncd/cli?style=flat-square&color=blue)](https://github.com/tektoncd/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tektoncd/cli?style=flat-square&color=yellow)](https://github.com/tektoncd/cli/stargazers) [![Forks](https://img.shields.io/github/forks/tektoncd/cli?style=flat-square&color=blue)](https://github.com/tektoncd/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI for interacting with Tekton!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 460 |
 | 🍴 **Forks** | 262 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

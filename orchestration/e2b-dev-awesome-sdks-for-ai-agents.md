@@ -1,6 +1,6 @@
 # e2b-dev/awesome-sdks-for-ai-agents
 
-[![Stars](https://img.shields.io/github/stars/e2b-dev/awesome-sdks-for-ai-agents?style=flat-square&color=yellow)](https://github.com/e2b-dev/awesome-sdks-for-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/awesome-sdks-for-ai-agents?style=flat-square&color=blue)](https://github.com/e2b-dev/awesome-sdks-for-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/e2b-dev/awesome-sdks-for-ai-agents?style=flat-square&color=yellow)](https://github.com/e2b-dev/awesome-sdks-for-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/awesome-sdks-for-ai-agents?style=flat-square&color=blue)](https://github.com/e2b-dev/awesome-sdks-for-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

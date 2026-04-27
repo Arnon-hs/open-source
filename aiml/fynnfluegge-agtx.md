@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/fynnfluegge/agtx?style=flat-square&color=yellow)](https://github.com/fynnfluegge/agtx/stargazers) [![Forks](https://img.shields.io/github/forks/fynnfluegge/agtx?style=flat-square&color=blue)](https://github.com/fynnfluegge/agtx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
-> The blackboard for coding agents — from idea to merge, hands-free
+> 🏄🏼‍♂️ The blackboard for coding agents - from idea to merge, hands-free
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 951 |
+| ⭐ **Stars** | 957 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |

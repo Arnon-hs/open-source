@@ -1,6 +1,6 @@
 # goharbor/terraform-provider-harbor
 
-[![Stars](https://img.shields.io/github/stars/goharbor/terraform-provider-harbor?style=flat-square&color=yellow)](https://github.com/goharbor/terraform-provider-harbor/stargazers) [![Forks](https://img.shields.io/github/forks/goharbor/terraform-provider-harbor?style=flat-square&color=blue)](https://github.com/goharbor/terraform-provider-harbor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/goharbor/terraform-provider-harbor?style=flat-square&color=yellow)](https://github.com/goharbor/terraform-provider-harbor/stargazers) [![Forks](https://img.shields.io/github/forks/goharbor/terraform-provider-harbor?style=flat-square&color=blue)](https://github.com/goharbor/terraform-provider-harbor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A Terraform provider for Harbor. To configure and manage all aspects of your Harbor Container Registry with Terraform Infrastructure as Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

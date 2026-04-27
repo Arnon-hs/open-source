@@ -1,6 +1,6 @@
 # 10xChengTu/input0
 
-[![Stars](https://img.shields.io/github/stars/10xChengTu/input0?style=flat-square&color=yellow)](https://github.com/10xChengTu/input0/stargazers) [![Forks](https://img.shields.io/github/forks/10xChengTu/input0?style=flat-square&color=blue)](https://github.com/10xChengTu/input0/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/10xChengTu/input0?style=flat-square&color=yellow)](https://github.com/10xChengTu/input0/stargazers) [![Forks](https://img.shields.io/github/forks/10xChengTu/input0?style=flat-square&color=blue)](https://github.com/10xChengTu/input0/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Input0 — A macOS voice input tool: hold a hotkey to record, release to transcribe locally via STT, refine with LLM, and auto-paste into the active text field.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 197 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 198 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # timmyy123/LLM-Hub
 
-[![Stars](https://img.shields.io/github/stars/timmyy123/LLM-Hub?style=flat-square&color=yellow)](https://github.com/timmyy123/LLM-Hub/stargazers) [![Forks](https://img.shields.io/github/forks/timmyy123/LLM-Hub?style=flat-square&color=blue)](https://github.com/timmyy123/LLM-Hub/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timmyy123/LLM-Hub?style=flat-square&color=yellow)](https://github.com/timmyy123/LLM-Hub/stargazers) [![Forks](https://img.shields.io/github/forks/timmyy123/LLM-Hub?style=flat-square&color=blue)](https://github.com/timmyy123/LLM-Hub/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Local AI Assistant on your phone
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 334 |
-| 🍴 **Forks** | 76 |
+| ⭐ **Stars** | 336 |
+| 🍴 **Forks** | 77 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # WildKernels/OnePlus_KernelSU_SUSFS
 
-[![Stars](https://img.shields.io/github/stars/WildKernels/OnePlus_KernelSU_SUSFS?style=flat-square&color=yellow)](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/stargazers) [![Forks](https://img.shields.io/github/forks/WildKernels/OnePlus_KernelSU_SUSFS?style=flat-square&color=blue)](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WildKernels/OnePlus_KernelSU_SUSFS?style=flat-square&color=yellow)](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/stargazers) [![Forks](https://img.shields.io/github/forks/WildKernels/OnePlus_KernelSU_SUSFS?style=flat-square&color=blue)](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > OnePlus Kernels with KernelSU & SUSFS
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 496 |
+| ⭐ **Stars** | 497 |
 | 🍴 **Forks** | 535 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

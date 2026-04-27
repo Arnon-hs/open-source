@@ -1,6 +1,6 @@
 # Azure-Samples/AI-Gateway
 
-[![Stars](https://img.shields.io/github/stars/Azure-Samples/AI-Gateway?style=flat-square&color=yellow)](https://github.com/Azure-Samples/AI-Gateway/stargazers) [![Forks](https://img.shields.io/github/forks/Azure-Samples/AI-Gateway?style=flat-square&color=blue)](https://github.com/Azure-Samples/AI-Gateway/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure-Samples/AI-Gateway?style=flat-square&color=yellow)](https://github.com/Azure-Samples/AI-Gateway/stargazers) [![Forks](https://img.shields.io/github/forks/Azure-Samples/AI-Gateway?style=flat-square&color=blue)](https://github.com/Azure-Samples/AI-Gateway/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Labs to explore AI Models, MCP servers, and Agents with the AI Gateway powered by Azure API Management and Microsoft Foundry 🚀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 905 |
 | 🍴 **Forks** | 434 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

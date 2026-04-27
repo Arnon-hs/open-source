@@ -1,6 +1,6 @@
 # scratchfoundation/scratch-www
 
-[![Stars](https://img.shields.io/github/stars/scratchfoundation/scratch-www?style=flat-square&color=yellow)](https://github.com/scratchfoundation/scratch-www/stargazers) [![Forks](https://img.shields.io/github/forks/scratchfoundation/scratch-www?style=flat-square&color=blue)](https://github.com/scratchfoundation/scratch-www/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scratchfoundation/scratch-www?style=flat-square&color=yellow)](https://github.com/scratchfoundation/scratch-www/stargazers) [![Forks](https://img.shields.io/github/forks/scratchfoundation/scratch-www?style=flat-square&color=blue)](https://github.com/scratchfoundation/scratch-www/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Standalone web client for Scratch
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 913 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # mollie/Shopware6
 
-[![Stars](https://img.shields.io/github/stars/mollie/Shopware6?style=flat-square&color=yellow)](https://github.com/mollie/Shopware6/stargazers) [![Forks](https://img.shields.io/github/forks/mollie/Shopware6?style=flat-square&color=blue)](https://github.com/mollie/Shopware6/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mollie/Shopware6?style=flat-square&color=yellow)](https://github.com/mollie/Shopware6/stargazers) [![Forks](https://img.shields.io/github/forks/mollie/Shopware6?style=flat-square&color=blue)](https://github.com/mollie/Shopware6/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Mollie Payments Plugin for Shopware 6
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

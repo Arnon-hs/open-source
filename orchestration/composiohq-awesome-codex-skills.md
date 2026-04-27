@@ -1,6 +1,6 @@
 # ComposioHQ/awesome-codex-skills
 
-[![Stars](https://img.shields.io/github/stars/ComposioHQ/awesome-codex-skills?style=flat-square&color=yellow)](https://github.com/ComposioHQ/awesome-codex-skills/stargazers) [![Forks](https://img.shields.io/github/forks/ComposioHQ/awesome-codex-skills?style=flat-square&color=blue)](https://github.com/ComposioHQ/awesome-codex-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ComposioHQ/awesome-codex-skills?style=flat-square&color=yellow)](https://github.com/ComposioHQ/awesome-codex-skills/stargazers) [![Forks](https://img.shields.io/github/forks/ComposioHQ/awesome-codex-skills?style=flat-square&color=blue)](https://github.com/ComposioHQ/awesome-codex-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 169 |
+| ⭐ **Stars** | 2.5k |
+| 🍴 **Forks** | 173 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

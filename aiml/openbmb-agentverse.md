@@ -1,6 +1,6 @@
 # OpenBMB/AgentVerse
 
-[![Stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=flat-square&color=yellow)](https://github.com/OpenBMB/AgentVerse/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBMB/AgentVerse?style=flat-square&color=blue)](https://github.com/OpenBMB/AgentVerse/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=flat-square&color=yellow)](https://github.com/OpenBMB/AgentVerse/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBMB/AgentVerse?style=flat-square&color=blue)](https://github.com/OpenBMB/AgentVerse/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 502 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

@@ -1,6 +1,6 @@
 # knockout/tko
 
-[![Stars](https://img.shields.io/github/stars/knockout/tko?style=flat-square&color=yellow)](https://github.com/knockout/tko/stargazers) [![Forks](https://img.shields.io/github/forks/knockout/tko?style=flat-square&color=blue)](https://github.com/knockout/tko/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/knockout/tko?style=flat-square&color=yellow)](https://github.com/knockout/tko/stargazers) [![Forks](https://img.shields.io/github/forks/knockout/tko?style=flat-square&color=blue)](https://github.com/knockout/tko/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🥊  Technical Knockout – The Monorepo for Knockout.js (4.0+)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
