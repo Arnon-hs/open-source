@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-XenoAtom.Terminal is an open-source, modern .NET replacement for the traditional System.Console API. This project provides a more efficient and powerful alternative for console-based applications, offering improved performance and enhanced functionality. By utilizing XenoAtom.Terminal, developers can create more sophisticated console experiences with ease.
+XenoAtom.Terminal is an open-source project that provides a modern .NET replacement for System.Console. This project aims to offer a more efficient and feature-rich alternative for console-based applications, allowing developers to create more robust and user-friendly command-line experiences. By utilizing .NET, it enables developers to build cross-platform applications with a unified console interface.
 
 ---
 

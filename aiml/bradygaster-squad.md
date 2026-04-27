@@ -1,6 +1,6 @@
 # bradygaster/squad
 
-[![Stars](https://img.shields.io/github/stars/bradygaster/squad?style=flat-square&color=yellow)](https://github.com/bradygaster/squad/stargazers) [![Forks](https://img.shields.io/github/forks/bradygaster/squad?style=flat-square&color=blue)](https://github.com/bradygaster/squad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bradygaster/squad?style=flat-square&color=yellow)](https://github.com/bradygaster/squad/stargazers) [![Forks](https://img.shields.io/github/forks/bradygaster/squad?style=flat-square&color=blue)](https://github.com/bradygaster/squad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Squad: AI agent teams for any project
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 331 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

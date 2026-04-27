@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The WOZCODE plugin for Claude Code is an open-source project that enables integration of WOZCODE with the Claude Code platform. This plugin allows users to leverage the capabilities of Claude Code while utilizing the features and functionality of WOZCODE. By providing a seamless connection between the two platforms, developers can unlock new possibilities for building innovative applications.
+The WOZCODE plugin is an open-source project that extends the functionality of Claude Code, a text-based AI tool. This plugin, developed under the WithWoz organization, provides additional capabilities to Claude Code users, enhancing their experience and interaction with the platform.
 
 ---
 

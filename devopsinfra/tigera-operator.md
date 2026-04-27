@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The tigera/operator is an open-source Kubernetes operator designed to simplify the installation and management of Calico and Calico Enterprise, providing network and security capabilities for containerized environments. This operator automates the deployment and configuration of Calico, streamlining network policy enforcement and ensuring secure communication between pods. By leveraging the Kubernetes Operator Framework, tigera/operator offers a scalable and efficient solution for network and security management.
+The tigera/operator project provides a Kubernetes operator for managing the installation and configuration of Calico, a popular network and security solution for containerized environments. This open-source project simplifies the deployment and management of Calico, allowing users to easily integrate it with their Kubernetes clusters. By using this operator, users can leverage Calico's network and security features with minimal operational overhead.
 
 ---
 

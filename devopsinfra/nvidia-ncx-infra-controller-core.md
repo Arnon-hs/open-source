@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The NVIDIA NCX Infra Controller Core is an open-source project that provides a hardware lifecycle management and multitenant networking solution, enabling efficient and scalable infrastructure management. This project is designed to cater to the needs of DevOps and infrastructure teams, offering a flexible and customizable framework for managing complex infrastructure environments. By leveraging the NCX Infra Controller Core, users can streamline their infrastructure operations and improve overall network agility and scalability.
+The NCX Infra Controller is an open-source project that enables hardware lifecycle management and multitenant networking through a scalable and flexible infrastructure. This project is designed to cater to the needs of DevOps and infrastructure teams by providing a robust solution for managing and provisioning hardware resources across multiple tenants. By leveraging the NCX Infra Controller, users can simplify their infrastructure management and improve overall network efficiency.
 
 ---
 

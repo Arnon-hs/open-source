@@ -25,9 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The Superchain Registry is an open-source project that maintains an index of chains within the Superchain Ecosystem, serving as the authoritative source of truth for participating chains. This registry plays a crucial role in facilitating collaboration and interoperability among chains in the Superchain Ecosystem. By providing a centralized registry, the project aims to promote the growth and development of the Superchain Ecosystem.
+The Superchain Registry is an open-source project that serves as the authoritative index of chains within the Superchain Ecosystem. This registry provides a centralized source of truth for identifying participating chains, facilitating collaboration and integration among ecosystem members. It plays a crucial role in the development and growth of the Superchain Ecosystem.
 
 ---
 

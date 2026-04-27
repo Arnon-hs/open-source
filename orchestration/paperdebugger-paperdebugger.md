@@ -1,6 +1,6 @@
 # PaperDebugger/paperdebugger
 
-[![Stars](https://img.shields.io/github/stars/PaperDebugger/paperdebugger?style=flat-square&color=yellow)](https://github.com/PaperDebugger/paperdebugger/stargazers) [![Forks](https://img.shields.io/github/forks/PaperDebugger/paperdebugger?style=flat-square&color=blue)](https://github.com/PaperDebugger/paperdebugger/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaperDebugger/paperdebugger?style=flat-square&color=yellow)](https://github.com/PaperDebugger/paperdebugger/stargazers) [![Forks](https://img.shields.io/github/forks/PaperDebugger/paperdebugger?style=flat-square&color=blue)](https://github.com/PaperDebugger/paperdebugger/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

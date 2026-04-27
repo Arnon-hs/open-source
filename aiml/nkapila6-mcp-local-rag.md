@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The mcp-local-rag project is an open-source, locally-run server that implements a primitive context protocol (MCP) for a RAG-like web search model. This project enables the development and testing of web search models in a local environment, without requiring access to external APIs. By running this server locally, users can efficiently prototype and experiment with their web search models.
+The mcp-local-rag project is an open-source, locally running web search model context protocol (MCP) server that utilizes a primitive RAG-like model. It does not rely on APIs, providing a self-contained solution for search functionality. This project is categorized under AI/ML and Backend development.
 
 ---
 

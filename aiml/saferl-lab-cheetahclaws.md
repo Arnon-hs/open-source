@@ -1,6 +1,6 @@
 # SafeRL-Lab/cheetahclaws
 
-[![Stars](https://img.shields.io/github/stars/SafeRL-Lab/cheetahclaws?style=flat-square&color=yellow)](https://github.com/SafeRL-Lab/cheetahclaws/stargazers) [![Forks](https://img.shields.io/github/forks/SafeRL-Lab/cheetahclaws?style=flat-square&color=blue)](https://github.com/SafeRL-Lab/cheetahclaws/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SafeRL-Lab/cheetahclaws?style=flat-square&color=yellow)](https://github.com/SafeRL-Lab/cheetahclaws/stargazers) [![Forks](https://img.shields.io/github/forks/SafeRL-Lab/cheetahclaws?style=flat-square&color=blue)](https://github.com/SafeRL-Lab/cheetahclaws/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > CheetahClaws (Nano Claude Code): A Fast, Easy-to-Use, Python-Native Personal AI Assistant for Any Model, Inspired by OpenClaw and Claude Code, Built to Work for You Autonomously 24/7.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 615 |
-| 🍴 **Forks** | 228 |
+| ⭐ **Stars** | 617 |
+| 🍴 **Forks** | 229 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

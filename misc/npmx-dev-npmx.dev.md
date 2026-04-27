@@ -1,6 +1,6 @@
 # npmx-dev/npmx.dev
 
-[![Stars](https://img.shields.io/github/stars/npmx-dev/npmx.dev?style=flat-square&color=yellow)](https://github.com/npmx-dev/npmx.dev/stargazers) [![Forks](https://img.shields.io/github/forks/npmx-dev/npmx.dev?style=flat-square&color=blue)](https://github.com/npmx-dev/npmx.dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/npmx-dev/npmx.dev?style=flat-square&color=yellow)](https://github.com/npmx-dev/npmx.dev/stargazers) [![Forks](https://img.shields.io/github/forks/npmx-dev/npmx.dev?style=flat-square&color=blue)](https://github.com/npmx-dev/npmx.dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > a fast, modern browser for the npm registry
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 427 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

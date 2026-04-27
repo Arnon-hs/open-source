@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The ugm project is an open-source, terminal-based tool for browsing UNIX user and group information. It provides a simple and efficient way to manage and interact with user and group data within a command-line interface. This project offers a convenient solution for system administrators and developers who require easy access to user and group details.
+The ariasmn/ugm project is a user-friendly, terminal-based utility for browsing and managing UNIX user and group information. This open-source tool provides a convenient interface for users to view, create, and modify user and group settings, making it easier to manage system access and permissions. With ugm, system administrators can efficiently manage user and group accounts from the terminal.
 
 ---
 

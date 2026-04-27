@@ -1,6 +1,6 @@
 # BuilderPulse/BuilderPulse
 
-[![Stars](https://img.shields.io/github/stars/BuilderPulse/BuilderPulse?style=flat-square&color=yellow)](https://github.com/BuilderPulse/BuilderPulse/stargazers) [![Forks](https://img.shields.io/github/forks/BuilderPulse/BuilderPulse?style=flat-square&color=blue)](https://github.com/BuilderPulse/BuilderPulse/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BuilderPulse/BuilderPulse?style=flat-square&color=yellow)](https://github.com/BuilderPulse/BuilderPulse/stargazers) [![Forks](https://img.shields.io/github/forks/BuilderPulse/BuilderPulse?style=flat-square&color=blue)](https://github.com/BuilderPulse/BuilderPulse/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

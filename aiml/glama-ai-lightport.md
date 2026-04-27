@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Lightport is an open-source AI gateway project that aims to make Large Language Model (LLM) providers compatible with OpenAI's interface. By acting as a bridge, Lightport enables developers to utilize their preferred LLMs with OpenAI-compatible tools and applications. This project has the potential to increase flexibility and interoperability in the AI and machine learning ecosystem.
+Here's a brief summary of the Lightport project:
+
+Lightport is an open-source AI gateway that enables Large Language Model (LLM) providers to seamlessly integrate with OpenAI's ecosystem, making their models compatible with the popular platform. This project aims to bridge the gap between different LLM providers and the OpenAI framework, allowing users to access a wider range of AI models and services. By promoting interoperability, Lightport has the potential to democratize AI adoption and accelerate innovation in the field.
 
 ---
 

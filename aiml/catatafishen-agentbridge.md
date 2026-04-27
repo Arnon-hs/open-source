@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-AgentBridge is an open-source JetBrains IDE plugin that unlocks full access to integrated development environments (IDEs) for AI coding agents, enabling seamless collaboration and automation between humans and machines. This plugin allows AI agents to interact with the IDE, perform tasks, and provide feedback, revolutionizing the way developers work with artificial intelligence. By bridging the gap between humans and AI, AgentBridge facilitates more efficient and effective coding workflows.
+The agentbridge plugin provides a bridge between AI coding agents and JetBrains Integrated Development Environments (IDEs), granting AI agents full access to IDE features and capabilities. This enables seamless integration of AI agents into the development workflow, allowing for automated coding and improved productivity. By leveraging this plugin, developers can unlock the full potential of AI-powered coding assistance.
 
 ---
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Spacedock is an open-source project that enables zero-dependency agent workflows with structured approval gates and adversarial review. This Orchestration tool is particularly useful for AI/ML applications, allowing for more efficient and secure deployment processes. By incorporating adversarial review, Spacedock enhances the reliability of its agent workflows.
+The spacedock project is an open-source tool that enables zero-dependency agent workflows with structured approval gates and adversarial review capabilities. This Orchestration and AI/ML framework streamlines complex processes and enhances collaboration through rigorous evaluation and validation mechanisms. By leveraging spacedock, users can build and automate robust workflows with built-in review and approval processes.
 
 ---
 

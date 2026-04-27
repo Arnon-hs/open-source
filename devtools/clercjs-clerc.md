@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Clerc is an open-source, full-featured command-line interface (CLI) library designed to provide developers with a robust and customizable tool for building interactive command-line applications. This library offers a wide range of features, including input/output management, command parsing, and user interaction capabilities. By leveraging Clerc, developers can create efficient, user-friendly CLI experiences.
+Clerc is a full-featured command-line interface (CLI) library for developers, providing a robust set of tools for building efficient and user-friendly command-line applications. This open-source project offers a wide range of features and functionalities, making it an ideal choice for developers seeking to create powerful CLI tools. With Clerc, users can easily design and implement custom CLI interfaces.
 
 ---
 

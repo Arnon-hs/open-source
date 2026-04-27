@@ -25,9 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Pororoca project:
-
-Pororoca is an open-source API testing tool designed to support HTTP/2 and HTTP/3 protocols, providing an alternative to Postman for testing and debugging APIs. This tool is ideal for developers and testers working on backend applications who need to simulate API requests and analyze responses efficiently. With Pororoca, users can streamline their API testing processes and optimize their workflows.
+Pororoca is an open-source API testing tool designed to support the latest web protocols, including HTTP/2 and HTTP/3. Developed as a free alternative to Postman, Pororoca provides a comprehensive solution for backend developers to create, send, and analyze API requests with ease. This flexible tool is ideal for testing and debugging web APIs in a modern web development environment.
 
 ---
 

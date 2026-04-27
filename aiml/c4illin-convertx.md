@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-C4illin/ConvertX is an open-source, self-hosted online file converter that supports over 1000+ different file formats, empowering users to easily convert files without relying on third-party services. This project utilizes AI/ML capabilities and boasts a frontend interface, making it a versatile and user-friendly solution for various file conversion needs. By hosting it locally, users can maintain control over their data while enjoying seamless file conversions.
+The C4illin/ConvertX project is an open-source, self-hosted online file converter that supports over 1000 different file formats, providing users with a versatile and customizable solution for converting various file types. This project combines AI/ML capabilities with a user-friendly frontend, making it an attractive option for users seeking a secure and efficient file conversion experience. By hosting the converter on one's own server, users maintain control over their data and can ensure compliance with data privacy regulations.
 
 ---
 

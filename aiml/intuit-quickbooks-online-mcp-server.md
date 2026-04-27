@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a 3-sentence summary for the open-source project:
-
-The QuickBooks MCP Server is an open-source project that enables AI assistants to access QuickBooks Online data through a standardized interface. It utilizes the Model Context Protocol (MCP) to expose QuickBooks features as callable tools, allowing developers to build AI applications that retrieve real-time data from QuickBooks Online. By leveraging this server, developers can create innovative AI apps that integrate with QuickBooks Online in a seamless and secure manner.
+The QuickBooks MCP Server is an open-source project that enables AI assistants to access QuickBooks data through a standardized interface. By utilizing the Model Context Protocol, it exposes QuickBooks features as callable tools, allowing developers to build AI applications that can fetch real-time data. This facilitates the creation of AI-powered apps that integrate seamlessly with QuickBooks Online.
 
 ---
 

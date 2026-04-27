@@ -25,9 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the roampal-core project:
-
-Roampal-core is an open-source outcome-based persistent memory MCP server that integrates with Claude Code and OpenCode. It promotes good advice and demotes bad advice, providing a valuable decision-making tool. Developers can easily incorporate this functionality into their projects using pip install roampal.
+The roampal-core project is an open-source, outcome-based persistent memory MCP server designed for use with Claude Code and OpenCode. This server promotes good advice while demoting bad advice, utilizing AI/ML capabilities. It can be easily installed using pip with the command "pip install roampal".
 
 ---
 

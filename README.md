@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **9037** |
+| 🗂️ **Total projects** | **9106** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,22 +18,22 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3486 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1669 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 905 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 755 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 522 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 521 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 326 | [Browse →](./crypto/) |
-| 📊 **Data** | 192 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 182 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 122 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 3508 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1682 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 912 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 757 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 530 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 525 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 330 | [Browse →](./crypto/) |
+| 📊 **Data** | 196 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 183 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 123 | [Browse →](./mobile/) |
 | 💳 **Payments** | 114 | [Browse →](./payments/) |
 | 📈 **Trading** | 91 | [Browse →](./trading/) |
-| 🔐 **Security** | 81 | [Browse →](./security/) |
-| ✨ **Design** | 31 | [Browse →](./design/) |
+| 🔐 **Security** | 82 | [Browse →](./security/) |
+| ✨ **Design** | 32 | [Browse →](./design/) |
 | 🎯 **Product** | 22 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 18 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 19 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
@@ -41,14 +41,14 @@
 |---|---|---|---|
 | 1 | [electerm/electerm](./aiml/electerm-electerm.md) | ⭐ 14k | AI/ML |
 | 2 | [TryGhost/Ghost](./payments/tryghost-ghost.md) | ⭐ 52.7k | Payments |
-| 3 | [mermaid-js/mermaid](./aiml/mermaid-js-mermaid.md) | ⭐ 87.7k | AI/ML |
-| 4 | [JanDeDobbeleer/oh-my-posh](./misc/jandedobbeleer-oh-my-posh.md) | ⭐ 22.3k | Misc |
-| 5 | [ankidroid/Anki-Android](./mobile/ankidroid-anki-android.md) | ⭐ 11.1k | Mobile |
-| 6 | [wolfpld/tracy](./misc/wolfpld-tracy.md) | ⭐ 15.7k | Misc |
-| 7 | [BabylonJS/Babylon.js](./misc/babylonjs-babylon.js.md) | ⭐ 25.4k | Misc |
-| 8 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.5k | DevTools |
-| 9 | [Avaiga/taipy](./orchestration/avaiga-taipy.md) | ⭐ 19.2k | Orchestration |
-| 10 | [GoogleChrome/lighthouse](./devtools/googlechrome-lighthouse.md) | ⭐ 30.1k | DevTools |
+| 3 | [volcengine/OpenViking](./aiml/volcengine-openviking.md) | ⭐ 23.1k | AI/ML |
+| 4 | [langchain4j/langchain4j](./orchestration/langchain4j-langchain4j.md) | ⭐ 11.8k | Orchestration |
+| 5 | [deepset-ai/haystack](./orchestration/deepset-ai-haystack.md) | ⭐ 25k | Orchestration |
+| 6 | [mermaid-js/mermaid](./aiml/mermaid-js-mermaid.md) | ⭐ 87.7k | AI/ML |
+| 7 | [JanDeDobbeleer/oh-my-posh](./misc/jandedobbeleer-oh-my-posh.md) | ⭐ 22.3k | Misc |
+| 8 | [ankidroid/Anki-Android](./mobile/ankidroid-anki-android.md) | ⭐ 11.1k | Mobile |
+| 9 | [wolfpld/tracy](./misc/wolfpld-tracy.md) | ⭐ 15.7k | Misc |
+| 10 | [BabylonJS/Babylon.js](./misc/babylonjs-babylon.js.md) | ⭐ 25.4k | Misc |
 
 ## 🚀 How it works
 

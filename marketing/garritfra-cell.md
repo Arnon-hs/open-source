@@ -25,7 +25,9 @@ Marketing
 
 ## 📝 Summary
 
-Cell is an open-source terminal spreadsheet editor that caters to users who prefer working within a command-line environment. It offers Vim keybindings, allowing users to leverage their existing knowledge and expertise in Vim to edit and manipulate spreadsheet data. This tool enables efficient and streamlined data analysis and management directly from the terminal.
+Here's a 2-3 sentence summary for the garritfra/cell project:
+
+Cell is an open-source, terminal-based spreadsheet editor that offers a flexible and powerful tool for data manipulation. Equipped with intuitive Vim keybindings, users can efficiently create, edit, and manage spreadsheets from the comfort of their terminal environment. This project aims to provide a lightweight and customizable solution for spreadsheet needs in a terminal setting.
 
 ---
 

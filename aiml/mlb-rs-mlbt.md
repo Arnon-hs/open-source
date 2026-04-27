@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a summary of the project:
 
-The mlbt terminal interface provides users with a command-line experience to access and interact with the MLB stats API, offering features such as checking scores, standings, and stats. This open-source project allows users to stay up-to-date with their favorite baseball teams and players from the comfort of their terminal. With its user-friendly interface, mlbt offers a unique way to experience the thrill of baseball in a text-based format.
+mlbt is an open-source terminal-based user interface for the MLB stats API, providing users with a simple way to check scores, standings, and statistics. This project offers a convenient and accessible way to stay up-to-date with baseball news and data. With mlbt, users can even watch a live baseball game directly in their terminal.
 
 ---
 

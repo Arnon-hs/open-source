@@ -1,6 +1,6 @@
 # georgekobaidze/metal-birds-watch
 
-[![Stars](https://img.shields.io/github/stars/georgekobaidze/metal-birds-watch?style=flat-square&color=yellow)](https://github.com/georgekobaidze/metal-birds-watch/stargazers) [![Forks](https://img.shields.io/github/forks/georgekobaidze/metal-birds-watch?style=flat-square&color=blue)](https://github.com/georgekobaidze/metal-birds-watch/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/georgekobaidze/metal-birds-watch?style=flat-square&color=yellow)](https://github.com/georgekobaidze/metal-birds-watch/stargazers) [![Forks](https://img.shields.io/github/forks/georgekobaidze/metal-birds-watch?style=flat-square&color=blue)](https://github.com/georgekobaidze/metal-birds-watch/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A web application that shows real-time notifications when planes fly over your location.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4 |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

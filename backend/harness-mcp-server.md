@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The harness/mcp-server is an open-source project that hosts the official Harness MCP server repository. It provides a backend infrastructure for Harness MCP, enabling users to manage and monitor their applications, infrastructure, and workflows in a unified and scalable manner. This project is a crucial component of the Harness platform, facilitating seamless integration and automation of complex systems.
+The Harness MCP server is an open-source project that provides a backend infrastructure for the Harness platform. It serves as a central hub for managing and orchestrating various aspects of the platform, offering a robust and scalable solution for developers and operators. By leveraging this server, users can streamline their workflows and enhance their overall experience with Harness.
 
 ---
 

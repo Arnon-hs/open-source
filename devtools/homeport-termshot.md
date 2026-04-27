@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Termshot is an open-source project that generates screenshots of terminal command output, providing a visual representation of the results. This project can be particularly useful for documenting terminal-based applications, testing, and debugging purposes. By capturing the output of terminal commands as images, Termshot simplifies the process of sharing and understanding terminal interactions.
+The termshot project from homeport allows users to create high-quality screenshots of terminal command output for documentation, tutorials, and other purposes. This open-source tool can capture and save the exact visual representation of command-line interactions, making it easier to share and demonstrate complex terminal workflows. It is particularly useful for developers and technical writers who need to create clear and accurate screen captures.
 
 ---
 

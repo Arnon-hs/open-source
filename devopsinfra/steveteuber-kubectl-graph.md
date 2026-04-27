@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The kubectl-graph plugin provides a visual representation of Kubernetes resources and their relationships, allowing users to better understand and navigate complex cluster configurations. By leveraging the power of graph visualization, this plugin enhances the Kubernetes management experience and facilitates informed decision-making. It is an open-source tool designed to simplify cluster understanding and troubleshooting.
+This open-source project, 'kubectl-graph', is a plugin for kubectl that enables the visualization of Kubernetes resources and their relationships in a graphical format. It aims to provide a more intuitive understanding of complex Kubernetes deployments and their dependencies. By leveraging this plugin, developers and administrators can gain a clearer view of their cluster's topology.
 
 ---
 

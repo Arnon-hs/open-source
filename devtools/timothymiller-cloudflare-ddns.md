@@ -25,7 +25,9 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-This open-source project, "timothymiller/cloudflare-ddns," provides a Rust-based dynamic DNS (DDNS) updater for Cloudflare, enabling users to easily update their DNS records in real-time. The tool allows for seamless integration with Cloudflare, ensuring that IP addresses are updated automatically, reducing the risk of DNS inconsistencies. It is designed to be a reliable and efficient solution for developers and DevOps teams.
+Here's a brief summary for the project:
+
+This open-source project, timothymiller/cloudflare-ddns, is a Rust-based dynamic DNS (DDNS) updater for Cloudflare, enabling users to automatically update their DNS records when their IP address changes. It serves as a useful tool for DevOps and infrastructure management, facilitating seamless and continuous DNS updates. This solution is designed to be efficient and reliable, ensuring minimal downtime and maximum availability.
 
 ---
 

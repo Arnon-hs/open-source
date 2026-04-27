@@ -1,6 +1,6 @@
 # mgonzs13/llama_ros
 
-[![Stars](https://img.shields.io/github/stars/mgonzs13/llama_ros?style=flat-square&color=yellow)](https://github.com/mgonzs13/llama_ros/stargazers) [![Forks](https://img.shields.io/github/forks/mgonzs13/llama_ros?style=flat-square&color=blue)](https://github.com/mgonzs13/llama_ros/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mgonzs13/llama_ros?style=flat-square&color=yellow)](https://github.com/mgonzs13/llama_ros/stargazers) [![Forks](https://img.shields.io/github/forks/mgonzs13/llama_ros?style=flat-square&color=blue)](https://github.com/mgonzs13/llama_ros/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > llama.cpp (GGUF LLMs) and llava.cpp (GGUF VLMs) for ROS 2
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 248 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

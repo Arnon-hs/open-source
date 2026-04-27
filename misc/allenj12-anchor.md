@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Anchor is an open-source project that compiles Lisp code into C, eliminating the need for a garbage collector. It supports hygienic macros and leverages Chez Scheme's capabilities at compile-time. This compiler aims to provide a high-performance and efficient way to execute Lisp code.
+Anchor is an open-source project that serves as a Lisp-to-C compiler, enabling the compilation of Lisp code to efficient C code without the need for garbage collection. This compiler also supports hygienic macros and incorporates Chez Scheme functionality at compile-time, providing a unique advantage for Scheme developers. By compiling Lisp code directly to C, Anchor aims to improve performance and efficiency.
 
 ---
 

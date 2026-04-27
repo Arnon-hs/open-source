@@ -25,7 +25,7 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-The Flow CLI is an open-source tool for building and interacting with the Flow blockchain. It enables users to deploy contracts, execute transactions, manage accounts, and run a local Flow emulator, making it an essential tool for developers working on Flow applications. By providing a comprehensive set of features, the Flow CLI streamlines the development process and facilitates the creation of decentralized applications on the Flow network.
+The onflow/flow-cli is an open-source command-line interface (CLI) designed for building on the Flow blockchain network. It allows developers to deploy contracts, execute transactions, manage accounts, and run a local Flow emulator, making it a primary tool for Flow development. With flow-cli, developers can streamline their workflow and efficiently build scalable blockchain applications.
 
 ---
 

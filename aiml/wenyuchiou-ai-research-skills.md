@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/WenyuChiou/ai-research-skills?style=flat-square&color=yellow)](https://github.com/WenyuChiou/ai-research-skills/stargazers) [![Forks](https://img.shields.io/github/forks/WenyuChiou/ai-research-skills?style=flat-square&color=blue)](https://github.com/WenyuChiou/ai-research-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Catalog of 13 AI skills for researchers — full workflow from literature discovery to manuscript submission. Works with Claude Code, Zotero, Obsidian, NotebookLM.
+> 13 Claude Code skills for common research tasks — literature triage, research design, project context, manuscript writing, and multi-AI delegation. 5-plugin marketplace, install in one command.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 34 |
+| ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Design
 
 ## 📝 Summary
 

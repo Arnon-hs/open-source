@@ -1,6 +1,6 @@
 # radius-project/radius
 
-[![Stars](https://img.shields.io/github/stars/radius-project/radius?style=flat-square&color=yellow)](https://github.com/radius-project/radius/stargazers) [![Forks](https://img.shields.io/github/forks/radius-project/radius?style=flat-square&color=blue)](https://github.com/radius-project/radius/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/radius-project/radius?style=flat-square&color=yellow)](https://github.com/radius-project/radius/stargazers) [![Forks](https://img.shields.io/github/forks/radius-project/radius?style=flat-square&color=blue)](https://github.com/radius-project/radius/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

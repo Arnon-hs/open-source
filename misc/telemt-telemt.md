@@ -1,6 +1,6 @@
 # telemt/telemt
 
-[![Stars](https://img.shields.io/github/stars/telemt/telemt?style=flat-square&color=yellow)](https://github.com/telemt/telemt/stargazers) [![Forks](https://img.shields.io/github/forks/telemt/telemt?style=flat-square&color=blue)](https://github.com/telemt/telemt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/telemt/telemt?style=flat-square&color=yellow)](https://github.com/telemt/telemt/stargazers) [![Forks](https://img.shields.io/github/forks/telemt/telemt?style=flat-square&color=blue)](https://github.com/telemt/telemt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > MTProxy for Telegram on Rust + Tokio
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 196 |
+| 🍴 **Forks** | 197 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

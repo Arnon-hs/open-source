@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-The hotpath-rs project is an open-source Rust performance profiler and channels monitoring toolkit, designed to provide a Terminal User Interface (TUI) and Multi-Channel Profiling (MCP) capabilities. This tool allows developers to gain insights into their application's performance and identify bottlenecks, ultimately helping to optimize and improve overall system efficiency. By leveraging Rust's capabilities, hotpath-rs offers a powerful and efficient solution for performance monitoring and analysis.
+Here's a brief summary for the project:
+
+Hotpath-rs is an open-source Rust performance profiler and channels monitoring toolkit, providing a text-based user interface (TUI) and Multi-Channel Profiler (MCP) capabilities. This project aims to help developers optimize and troubleshoot performance issues in Rust applications by offering a comprehensive and interactive profiling experience. With hotpath-rs, developers can gain valuable insights into their code's performance bottlenecks and optimize their applications for better efficiency.
 
 ---
 

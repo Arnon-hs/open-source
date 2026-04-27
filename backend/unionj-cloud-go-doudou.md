@@ -1,6 +1,6 @@
 # unionj-cloud/go-doudou
 
-[![Stars](https://img.shields.io/github/stars/unionj-cloud/go-doudou?style=flat-square&color=yellow)](https://github.com/unionj-cloud/go-doudou/stargazers) [![Forks](https://img.shields.io/github/forks/unionj-cloud/go-doudou?style=flat-square&color=blue)](https://github.com/unionj-cloud/go-doudou/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unionj-cloud/go-doudou?style=flat-square&color=yellow)](https://github.com/unionj-cloud/go-doudou/stargazers) [![Forks](https://img.shields.io/github/forks/unionj-cloud/go-doudou?style=flat-square&color=blue)](https://github.com/unionj-cloud/go-doudou/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.0 (for REST) spec and Protobuf v3 (for grpc) based lightweight microservice framework. It supports monolith service application as well.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 196 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

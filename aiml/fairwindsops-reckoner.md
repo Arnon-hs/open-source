@@ -25,9 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the FairwindsOps/reckoner project:
-
-Reckoner is an open-source tool that allows for the declarative installation and management of multiple Helm chart releases, streamlining DevOps and infrastructure operations. By leveraging a declarative approach, users can easily define desired application states and let Reckoner handle the underlying installation and configuration. This simplifies the process of managing complex applications and reduces the risk of human error.
+Reckoner is an open-source project that allows declarative installation and management of multiple Helm chart releases. This tool simplifies the process of deploying and maintaining complex applications by enabling users to define desired states and letting the project handle the underlying setup. With Reckoner, users can focus on their application's functionality rather than the intricacies of Helm chart management.
 
 ---
 

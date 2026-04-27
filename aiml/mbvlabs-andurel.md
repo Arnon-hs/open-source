@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Andurel is an open-source, Rails-like framework for Go that simplifies the development of web applications, making it easier to build scalable and maintainable software. With its intuitive design and robust features, Andurel is ideal for developers seeking a streamlined approach to building complex applications. By leveraging Andurel, developers can accelerate their workflow and focus on delivering innovative solutions.
+Andurel is an open-source, Go framework inspired by Ruby on Rails, designed to streamline application development and simplify complex tasks. With its focus on developer productivity, it aims to provide a robust and efficient foundation for building scalable and maintainable applications. This framework is particularly suited for building AI/ML projects, offering a structured approach to development and deployment.
 
 ---
 

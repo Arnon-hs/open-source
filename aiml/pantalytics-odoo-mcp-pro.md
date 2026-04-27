@@ -1,6 +1,6 @@
 # pantalytics/odoo-mcp-pro
 
-[![Stars](https://img.shields.io/github/stars/pantalytics/odoo-mcp-pro?style=flat-square&color=yellow)](https://github.com/pantalytics/odoo-mcp-pro/stargazers) [![Forks](https://img.shields.io/github/forks/pantalytics/odoo-mcp-pro?style=flat-square&color=blue)](https://github.com/pantalytics/odoo-mcp-pro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pantalytics/odoo-mcp-pro?style=flat-square&color=yellow)](https://github.com/pantalytics/odoo-mcp-pro/stargazers) [![Forks](https://img.shields.io/github/forks/pantalytics/odoo-mcp-pro?style=flat-square&color=blue)](https://github.com/pantalytics/odoo-mcp-pro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > AI connector for Odoo ERP | Connect Claude, ChatGPT, Cursor and other AI tools to Odoo via MCP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

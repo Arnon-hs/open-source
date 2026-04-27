@@ -1,6 +1,6 @@
 # activemerchant/payment_icons
 
-[![Stars](https://img.shields.io/github/stars/activemerchant/payment_icons?style=flat-square&color=yellow)](https://github.com/activemerchant/payment_icons/stargazers) [![Forks](https://img.shields.io/github/forks/activemerchant/payment_icons?style=flat-square&color=blue)](https://github.com/activemerchant/payment_icons/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/activemerchant/payment_icons?style=flat-square&color=yellow)](https://github.com/activemerchant/payment_icons/stargazers) [![Forks](https://img.shields.io/github/forks/activemerchant/payment_icons?style=flat-square&color=blue)](https://github.com/activemerchant/payment_icons/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An easy to use library that allows you to manage and access payment icons
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 546 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

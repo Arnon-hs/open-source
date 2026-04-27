@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The madiele/vod2pod-rss project simplifies the process of converting YouTube or Twitch channels into podcasts, generating a podcast RSS feed that can be seamlessly integrated into any podcast client. This open-source tool transcodes VODs (Video On Demand) to MP3 in real-time, eliminating the need for server storage. As a result, users can easily access and listen to their favorite channels as podcasts.
+Here's a brief summary of the project:
+
+Vod2Pod-RSS is an open-source tool that transforms YouTube or Twitch channels into podcasts, generating a direct RSS feed for seamless playback in any podcast client. This innovative solution transcodes VODs to MP3 in real-time without requiring server storage, making it a convenient and efficient way to create podcasts from live streaming content. By leveraging this project, users can easily share their favorite channel's content in a podcast format.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Kloak is an open-source cloud native zero trust security solution designed to protect AI agent run environments from potential threats. It aims to provide a secure and trusted infrastructure for AI and machine learning workloads, ensuring the confidentiality, integrity, and availability of sensitive data. By adopting a zero trust approach, Kloak helps organizations to strengthen their security posture and mitigate risks associated with AI and ML environments.
+Kloak is an open-source, cloud-native zero-trust security solution designed specifically for AI agent runtime environments. It provides a secure, scalable, and highly configurable framework for protecting AI workloads from potential threats and vulnerabilities. By leveraging zero-trust principles, Kloak ensures the integrity and reliability of AI-powered applications.
 
 ---
 

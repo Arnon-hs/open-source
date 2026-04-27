@@ -1,6 +1,6 @@
 # google/closure-compiler
 
-[![Stars](https://img.shields.io/github/stars/google/closure-compiler?style=flat-square&color=yellow)](https://github.com/google/closure-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/google/closure-compiler?style=flat-square&color=blue)](https://github.com/google/closure-compiler/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/closure-compiler?style=flat-square&color=yellow)](https://github.com/google/closure-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/google/closure-compiler?style=flat-square&color=blue)](https://github.com/google/closure-compiler/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > A JavaScript checker and optimizer.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.6k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
