@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8607** |
+| 🗂️ **Total projects** | **8687** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3318 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1586 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 866 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 723 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 503 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 497 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 298 | [Browse →](./crypto/) |
-| 📊 **Data** | 183 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 171 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 3352 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1599 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 877 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 729 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 504 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 500 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 305 | [Browse →](./crypto/) |
+| 📊 **Data** | 184 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 174 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 118 | [Browse →](./mobile/) |
 | 💳 **Payments** | 113 | [Browse →](./payments/) |
 | 📈 **Trading** | 88 | [Browse →](./trading/) |
-| 🔐 **Security** | 77 | [Browse →](./security/) |
+| 🔐 **Security** | 78 | [Browse →](./security/) |
 | ✨ **Design** | 29 | [Browse →](./design/) |
 | 🎯 **Product** | 22 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 15 | [Browse →](./marketing/) |
@@ -43,12 +43,12 @@
 | 2 | [projectdiscovery/httpx](./devtools/projectdiscovery-httpx.md) | ⭐ 9.9k | DevTools |
 | 3 | [moby/buildkit](./orchestration/moby-buildkit.md) | ⭐ 9.9k | Orchestration |
 | 4 | [tw93/Pake](./misc/tw93-pake.md) | ⭐ 48.2k | Misc |
-| 5 | [ruby/ruby](./misc/ruby-ruby.md) | ⭐ 23.5k | Misc |
-| 6 | [docusealco/docuseal](./aiml/docusealco-docuseal.md) | ⭐ 11.8k | AI/ML |
-| 7 | [K-Dense-AI/scientific-agent-skills](./orchestration/k-dense-ai-scientific-agent-skills.md) | ⭐ 19.5k | Orchestration |
-| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 9 | [tinygo-org/tinygo](./frontend/tinygo-org-tinygo.md) | ⭐ 17.4k | Frontend |
-| 10 | [SeleniumHQ/selenium](./misc/seleniumhq-selenium.md) | ⭐ 34.1k | Misc |
+| 5 | [webstudio-is/webstudio](./frontend/webstudio-is-webstudio.md) | ⭐ 8.5k | Frontend |
+| 6 | [ceph/ceph](./crypto/ceph-ceph.md) | ⭐ 16.5k | Crypto |
+| 7 | [zitadel/zitadel](./aiml/zitadel-zitadel.md) | ⭐ 13.6k | AI/ML |
+| 8 | [ruby/ruby](./misc/ruby-ruby.md) | ⭐ 23.5k | Misc |
+| 9 | [ionic-team/capacitor](./aiml/ionic-team-capacitor.md) | ⭐ 15.5k | AI/ML |
+| 10 | [formbricks/formbricks](./aiml/formbricks-formbricks.md) | ⭐ 12.1k | AI/ML |
 
 ## 🚀 How it works
 

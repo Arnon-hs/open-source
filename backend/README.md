@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**503 projects** in this category.
+**504 projects** in this category.
 
 ## Projects
 
@@ -466,51 +466,52 @@
 | 456 | [Michael-Obele/shadcn-svelte-mcp](./michael-obele-shadcn-svelte-mcp.md) | ⭐ 49 | TypeScript | 47/100 |
 | 457 | [robcerda/monarch-mcp-server](./robcerda-monarch-mcp-server.md) | ⭐ 178 | Python | 47/100 |
 | 458 | [freema/mcp-gsheets](./freema-mcp-gsheets.md) | ⭐ 59 | TypeScript | 47/100 |
-| 459 | [percona/percona-server-mysql-operator](./percona-percona-server-mysql-operator.md) | ⭐ 219 | Go | 46/100 |
-| 460 | [weiesky/cc-viewer](./weiesky-cc-viewer.md) | ⭐ 710 | JavaScript | 46/100 |
-| 461 | [SigNoz/signoz-mcp-server](./signoz-signoz-mcp-server.md) | ⭐ 88 | Go | 46/100 |
-| 462 | [steipete/discrawl](./steipete-discrawl.md) | ⭐ 674 | Go | 46/100 |
-| 463 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 501 | Rust | 46/100 |
-| 464 | [lineofflight/country](./lineofflight-country.md) | ⭐ 302 | TypeScript | 46/100 |
-| 465 | [toddsundsted/ktistec](./toddsundsted-ktistec.md) | ⭐ 428 | Crystal | 46/100 |
-| 466 | [wgsl-analyzer/wgsl-analyzer](./wgsl-analyzer-wgsl-analyzer.md) | ⭐ 636 | Rust | 46/100 |
-| 467 | [yegappan/lsp](./yegappan-lsp.md) | ⭐ 718 | Vim Script | 46/100 |
-| 468 | [tinkerbell/cluster-api-provider-tinkerbell](./tinkerbell-cluster-api-provider-tinkerbell.md) | ⭐ 128 | Go | 46/100 |
-| 469 | [lhccong/fish-island-backend](./lhccong-fish-island-backend.md) | ⭐ 695 | Java | 46/100 |
-| 470 | [steipete/macos-automator-mcp](./steipete-macos-automator-mcp.md) | ⭐ 772 | TypeScript | 46/100 |
-| 471 | [sigbit/mcp-auth-proxy](./sigbit-mcp-auth-proxy.md) | ⭐ 105 | Go | 46/100 |
-| 472 | [makeplane/plane-mcp-server](./makeplane-plane-mcp-server.md) | ⭐ 206 | Python | 45/100 |
-| 473 | [natsukium/mcp-servers-nix](./natsukium-mcp-servers-nix.md) | ⭐ 244 | Nix | 45/100 |
-| 474 | [drfccv/mcp-server-12306](./drfccv-mcp-server-12306.md) | ⭐ 314 | Python | 45/100 |
-| 475 | [box/boxcli](./box-boxcli.md) | ⭐ 267 | JavaScript | 45/100 |
-| 476 | [openshift/library-go](./openshift-library-go.md) | ⭐ 105 | Go | 45/100 |
-| 477 | [oss-serverless/serverless](./oss-serverless-serverless.md) | ⭐ 594 | JavaScript | 45/100 |
-| 478 | [kubernetes/component-base](./kubernetes-component-base.md) | ⭐ 121 | Go | 45/100 |
-| 479 | [GitGuardian/ggmcp](./gitguardian-ggmcp.md) | ⭐ 35 | Python | 45/100 |
-| 480 | [shankar0123/certctl](./shankar0123-certctl.md) | ⭐ 308 | Go | 44/100 |
-| 481 | [apify/impit](./apify-impit.md) | ⭐ 456 | Rust | 44/100 |
-| 482 | [volcengine/mcp-server](./volcengine-mcp-server.md) | ⭐ 280 | Python | 44/100 |
-| 483 | [delorenj/mcp-server-trello](./delorenj-mcp-server-trello.md) | ⭐ 314 | TypeScript | 44/100 |
-| 484 | [WhatsApp/erlang-language-platform](./whatsapp-erlang-language-platform.md) | ⭐ 397 | Rust | 44/100 |
-| 485 | [meta-pytorch/torchcomms](./meta-pytorch-torchcomms.md) | ⭐ 358 | C++ | 44/100 |
-| 486 | [cr7258/elasticsearch-mcp-server](./cr7258-elasticsearch-mcp-server.md) | ⭐ 268 | Python | 43/100 |
-| 487 | [viamrobotics/rdk](./viamrobotics-rdk.md) | ⭐ 162 | Go | 43/100 |
-| 488 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 305 | Rust | 43/100 |
-| 489 | [apappascs/mcp-servers-hub](./apappascs-mcp-servers-hub.md) | ⭐ 318 | — | 43/100 |
-| 490 | [eugr/llama-benchy](./eugr-llama-benchy.md) | ⭐ 318 | Python | 43/100 |
-| 491 | [praha-inc/byethrow](./praha-inc-byethrow.md) | ⭐ 317 | TypeScript | 42/100 |
-| 492 | [okira-e/veriflow](./okira-e-veriflow.md) | ⭐ 3 | Go | 42/100 |
-| 493 | [microsoft/work-iq](./microsoft-work-iq.md) | ⭐ 766 | PowerShell | 42/100 |
-| 494 | [Qihoo360/TinyMCP](./qihoo360-tinymcp.md) | ⭐ 95 | C++ | 41/100 |
-| 495 | [marianfoo/abap-mcp-server](./marianfoo-abap-mcp-server.md) | ⭐ 67 | TypeScript | 41/100 |
-| 496 | [Laksh-star/mcp-server-tmdb](./laksh-star-mcp-server-tmdb.md) | ⭐ 70 | JavaScript | 41/100 |
-| 497 | [erikmaday/unusual-whales-mcp](./erikmaday-unusual-whales-mcp.md) | ⭐ 52 | TypeScript | 40/100 |
-| 498 | [PaulNonatomic/ServiceKit](./paulnonatomic-servicekit.md) | ⭐ 4 | C# | 40/100 |
-| 499 | [ScalableCapital/scalable-cli](./scalablecapital-scalable-cli.md) | ⭐ 199 | — | 39/100 |
-| 500 | [prixe-api/politicians](./prixe-api-politicians.md) | ⭐ 7 | JavaScript | 36/100 |
-| 501 | [useknockout/api](./useknockout-api.md) | ⭐ 28 | Python | 36/100 |
-| 502 | [woodyst/rockchip-vaapi](./woodyst-rockchip-vaapi.md) | ⭐ 14 | C | 36/100 |
-| 503 | [pawelb0/matrirc](./pawelb0-matrirc.md) | ⭐ 6 | Rust | 36/100 |
+| 459 | [huggingface/nfsserve](./huggingface-nfsserve.md) | ⭐ 724 | Rust | 46/100 |
+| 460 | [percona/percona-server-mysql-operator](./percona-percona-server-mysql-operator.md) | ⭐ 219 | Go | 46/100 |
+| 461 | [weiesky/cc-viewer](./weiesky-cc-viewer.md) | ⭐ 710 | JavaScript | 46/100 |
+| 462 | [SigNoz/signoz-mcp-server](./signoz-signoz-mcp-server.md) | ⭐ 88 | Go | 46/100 |
+| 463 | [steipete/discrawl](./steipete-discrawl.md) | ⭐ 674 | Go | 46/100 |
+| 464 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 501 | Rust | 46/100 |
+| 465 | [lineofflight/country](./lineofflight-country.md) | ⭐ 302 | TypeScript | 46/100 |
+| 466 | [toddsundsted/ktistec](./toddsundsted-ktistec.md) | ⭐ 428 | Crystal | 46/100 |
+| 467 | [wgsl-analyzer/wgsl-analyzer](./wgsl-analyzer-wgsl-analyzer.md) | ⭐ 636 | Rust | 46/100 |
+| 468 | [yegappan/lsp](./yegappan-lsp.md) | ⭐ 718 | Vim Script | 46/100 |
+| 469 | [tinkerbell/cluster-api-provider-tinkerbell](./tinkerbell-cluster-api-provider-tinkerbell.md) | ⭐ 128 | Go | 46/100 |
+| 470 | [lhccong/fish-island-backend](./lhccong-fish-island-backend.md) | ⭐ 695 | Java | 46/100 |
+| 471 | [steipete/macos-automator-mcp](./steipete-macos-automator-mcp.md) | ⭐ 772 | TypeScript | 46/100 |
+| 472 | [sigbit/mcp-auth-proxy](./sigbit-mcp-auth-proxy.md) | ⭐ 105 | Go | 46/100 |
+| 473 | [makeplane/plane-mcp-server](./makeplane-plane-mcp-server.md) | ⭐ 206 | Python | 45/100 |
+| 474 | [natsukium/mcp-servers-nix](./natsukium-mcp-servers-nix.md) | ⭐ 244 | Nix | 45/100 |
+| 475 | [drfccv/mcp-server-12306](./drfccv-mcp-server-12306.md) | ⭐ 314 | Python | 45/100 |
+| 476 | [box/boxcli](./box-boxcli.md) | ⭐ 267 | JavaScript | 45/100 |
+| 477 | [openshift/library-go](./openshift-library-go.md) | ⭐ 105 | Go | 45/100 |
+| 478 | [oss-serverless/serverless](./oss-serverless-serverless.md) | ⭐ 594 | JavaScript | 45/100 |
+| 479 | [kubernetes/component-base](./kubernetes-component-base.md) | ⭐ 121 | Go | 45/100 |
+| 480 | [GitGuardian/ggmcp](./gitguardian-ggmcp.md) | ⭐ 35 | Python | 45/100 |
+| 481 | [shankar0123/certctl](./shankar0123-certctl.md) | ⭐ 308 | Go | 44/100 |
+| 482 | [apify/impit](./apify-impit.md) | ⭐ 456 | Rust | 44/100 |
+| 483 | [volcengine/mcp-server](./volcengine-mcp-server.md) | ⭐ 280 | Python | 44/100 |
+| 484 | [delorenj/mcp-server-trello](./delorenj-mcp-server-trello.md) | ⭐ 314 | TypeScript | 44/100 |
+| 485 | [WhatsApp/erlang-language-platform](./whatsapp-erlang-language-platform.md) | ⭐ 397 | Rust | 44/100 |
+| 486 | [meta-pytorch/torchcomms](./meta-pytorch-torchcomms.md) | ⭐ 358 | C++ | 44/100 |
+| 487 | [cr7258/elasticsearch-mcp-server](./cr7258-elasticsearch-mcp-server.md) | ⭐ 268 | Python | 43/100 |
+| 488 | [viamrobotics/rdk](./viamrobotics-rdk.md) | ⭐ 162 | Go | 43/100 |
+| 489 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 305 | Rust | 43/100 |
+| 490 | [apappascs/mcp-servers-hub](./apappascs-mcp-servers-hub.md) | ⭐ 318 | — | 43/100 |
+| 491 | [eugr/llama-benchy](./eugr-llama-benchy.md) | ⭐ 318 | Python | 43/100 |
+| 492 | [praha-inc/byethrow](./praha-inc-byethrow.md) | ⭐ 317 | TypeScript | 42/100 |
+| 493 | [okira-e/veriflow](./okira-e-veriflow.md) | ⭐ 3 | Go | 42/100 |
+| 494 | [microsoft/work-iq](./microsoft-work-iq.md) | ⭐ 766 | PowerShell | 42/100 |
+| 495 | [Qihoo360/TinyMCP](./qihoo360-tinymcp.md) | ⭐ 95 | C++ | 41/100 |
+| 496 | [marianfoo/abap-mcp-server](./marianfoo-abap-mcp-server.md) | ⭐ 67 | TypeScript | 41/100 |
+| 497 | [Laksh-star/mcp-server-tmdb](./laksh-star-mcp-server-tmdb.md) | ⭐ 70 | JavaScript | 41/100 |
+| 498 | [erikmaday/unusual-whales-mcp](./erikmaday-unusual-whales-mcp.md) | ⭐ 52 | TypeScript | 40/100 |
+| 499 | [PaulNonatomic/ServiceKit](./paulnonatomic-servicekit.md) | ⭐ 4 | C# | 40/100 |
+| 500 | [ScalableCapital/scalable-cli](./scalablecapital-scalable-cli.md) | ⭐ 199 | — | 39/100 |
+| 501 | [prixe-api/politicians](./prixe-api-politicians.md) | ⭐ 7 | JavaScript | 36/100 |
+| 502 | [useknockout/api](./useknockout-api.md) | ⭐ 28 | Python | 36/100 |
+| 503 | [woodyst/rockchip-vaapi](./woodyst-rockchip-vaapi.md) | ⭐ 14 | C | 36/100 |
+| 504 | [pawelb0/matrirc](./pawelb0-matrirc.md) | ⭐ 6 | Rust | 36/100 |
 
 ---
 

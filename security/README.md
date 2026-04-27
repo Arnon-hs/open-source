@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**77 projects** in this category.
+**78 projects** in this category.
 
 ## Projects
 
@@ -80,11 +80,12 @@
 | 70 | [mytech-today-now/OO](./mytech-today-now-oo.md) | ⭐ 2 | PowerShell | 46/100 |
 | 71 | [Tatsh/dbeaver-creds](./tatsh-dbeaver-creds.md) | ⭐ 33 | PowerShell | 45/100 |
 | 72 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 496 | Go | 45/100 |
-| 73 | [himself65/auth-spec](./himself65-auth-spec.md) | ⭐ 21 | TypeScript | 44/100 |
-| 74 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 453 | — | 44/100 |
-| 75 | [FanTranslatorsInternational/Kuriimu2](./fantranslatorsinternational-kuriimu2.md) | ⭐ 407 | C# | 44/100 |
-| 76 | [nuxt/hints](./nuxt-hints.md) | ⭐ 333 | TypeScript | 42/100 |
-| 77 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
+| 73 | [facebookincubator/TTPForge](./facebookincubator-ttpforge.md) | ⭐ 420 | Go | 44/100 |
+| 74 | [himself65/auth-spec](./himself65-auth-spec.md) | ⭐ 21 | TypeScript | 44/100 |
+| 75 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 453 | — | 44/100 |
+| 76 | [FanTranslatorsInternational/Kuriimu2](./fantranslatorsinternational-kuriimu2.md) | ⭐ 407 | C# | 44/100 |
+| 77 | [nuxt/hints](./nuxt-hints.md) | ⭐ 333 | TypeScript | 42/100 |
+| 78 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
 
 ---
 
