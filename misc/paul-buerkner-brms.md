@@ -1,6 +1,6 @@
 # paul-buerkner/brms
 
-[![Stars](https://img.shields.io/github/stars/paul-buerkner/brms?style=flat-square&color=yellow)](https://github.com/paul-buerkner/brms/stargazers) [![Forks](https://img.shields.io/github/forks/paul-buerkner/brms?style=flat-square&color=blue)](https://github.com/paul-buerkner/brms/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paul-buerkner/brms?style=flat-square&color=yellow)](https://github.com/paul-buerkner/brms/stargazers) [![Forks](https://img.shields.io/github/forks/paul-buerkner/brms?style=flat-square&color=blue)](https://github.com/paul-buerkner/brms/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | R |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

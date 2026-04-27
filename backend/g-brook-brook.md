@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/g-brook/brook?style=flat-square&color=yellow)](https://github.com/g-brook/brook/stargazers) [![Forks](https://img.shields.io/github/forks/g-brook/brook?style=flat-square&color=blue)](https://github.com/g-brook/brook/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> High-performance network tunnel & proxy tool written in Go.  (高性能 Go 语言网络隧道与代理工具。)
+> Brook is a cross-platform network tunneling tool that helps securely transmit data between different networks. (Brook 是一个用于建立网络隧道的跨平台工具，帮助在不同网络之间安全地传输数据。)
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Backend
+Backend · Data
 
 ## 📝 Summary
 

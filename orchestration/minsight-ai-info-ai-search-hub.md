@@ -1,6 +1,6 @@
 # minsight-ai-info/AI-Search-Hub
 
-[![Stars](https://img.shields.io/github/stars/minsight-ai-info/AI-Search-Hub?style=flat-square&color=yellow)](https://github.com/minsight-ai-info/AI-Search-Hub/stargazers) [![Forks](https://img.shields.io/github/forks/minsight-ai-info/AI-Search-Hub?style=flat-square&color=blue)](https://github.com/minsight-ai-info/AI-Search-Hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minsight-ai-info/AI-Search-Hub?style=flat-square&color=yellow)](https://github.com/minsight-ai-info/AI-Search-Hub/stargazers) [![Forks](https://img.shields.io/github/forks/minsight-ai-info/AI-Search-Hub?style=flat-square&color=blue)](https://github.com/minsight-ai-info/AI-Search-Hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > One Query. All Search Skill. 聚合 Gemini、Grok、豆包、元宝等平台原生 AI 搜索能力，免费获取科技趋势、行业舆情、热点追踪、旅行规划、日常问题统一接进自己的 Agent 与工作流，指定链接免费爬取
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

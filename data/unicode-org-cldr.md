@@ -1,6 +1,6 @@
 # unicode-org/cldr
 
-[![Stars](https://img.shields.io/github/stars/unicode-org/cldr?style=flat-square&color=yellow)](https://github.com/unicode-org/cldr/stargazers) [![Forks](https://img.shields.io/github/forks/unicode-org/cldr?style=flat-square&color=blue)](https://github.com/unicode-org/cldr/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unicode-org/cldr?style=flat-square&color=yellow)](https://github.com/unicode-org/cldr/stargazers) [![Forks](https://img.shields.io/github/forks/unicode-org/cldr?style=flat-square&color=blue)](https://github.com/unicode-org/cldr/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The home of the Unicode Common Locale Data Repository
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 424 |
+| 🍴 **Forks** | 425 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

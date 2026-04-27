@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8207** |
+| 🗂️ **Total projects** | **8287** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3160 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1512 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 828 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 701 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 477 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 462 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 282 | [Browse →](./crypto/) |
-| 📊 **Data** | 180 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 156 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 115 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 3194 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1523 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 841 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 704 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 479 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 468 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 287 | [Browse →](./crypto/) |
+| 📊 **Data** | 181 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 158 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 116 | [Browse →](./mobile/) |
 | 💳 **Payments** | 111 | [Browse →](./payments/) |
 | 📈 **Trading** | 85 | [Browse →](./trading/) |
-| 🔐 **Security** | 75 | [Browse →](./security/) |
+| 🔐 **Security** | 76 | [Browse →](./security/) |
 | ✨ **Design** | 28 | [Browse →](./design/) |
 | 🎯 **Product** | 21 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 14 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 15 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [qutebrowser/qutebrowser](./misc/qutebrowser-qutebrowser.md) | ⭐ 11.5k | Misc |
+| 1 | [matomo-org/matomo](./frontend/matomo-org-matomo.md) | ⭐ 21.5k | Frontend |
 | 2 | [shadcn-ui/ui](./aiml/shadcn-ui-ui.md) | ⭐ 113.1k | AI/ML |
 | 3 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 4 | [getsentry/sentry-javascript](./frontend/getsentry-sentry-javascript.md) | ⭐ 8.6k | Frontend |
-| 5 | [sharkdp/bat](./devtools/sharkdp-bat.md) | ⭐ 58.6k | DevTools |
-| 6 | [storybookjs/storybook](./aiml/storybookjs-storybook.md) | ⭐ 89.8k | AI/ML |
-| 7 | [cryptomator/cryptomator](./crypto/cryptomator-cryptomator.md) | ⭐ 15k | Crypto |
-| 8 | [etcd-io/etcd](./data/etcd-io-etcd.md) | ⭐ 51.6k | Data |
-| 9 | [volcano-sh/volcano](./aiml/volcano-sh-volcano.md) | ⭐ 5.5k | AI/ML |
-| 10 | [pathwaycom/pathway](./aiml/pathwaycom-pathway.md) | ⭐ 63.4k | AI/ML |
+| 4 | [hibernate/hibernate-orm](./data/hibernate-hibernate-orm.md) | ⭐ 6.4k | Data |
+| 5 | [ZhuLinsen/daily_stock_analysis](./trading/zhulinsen-daily-stock-analysis.md) | ⭐ 31.8k | Trading |
+| 6 | [getsentry/sentry-javascript](./frontend/getsentry-sentry-javascript.md) | ⭐ 8.6k | Frontend |
+| 7 | [hellodigua/ChatLab](./aiml/hellodigua-chatlab.md) | ⭐ 6.1k | AI/ML |
+| 8 | [storybookjs/storybook](./aiml/storybookjs-storybook.md) | ⭐ 89.8k | AI/ML |
+| 9 | [cryptomator/cryptomator](./crypto/cryptomator-cryptomator.md) | ⭐ 15k | Crypto |
+| 10 | [etcd-io/etcd](./data/etcd-io-etcd.md) | ⭐ 51.6k | Data |
 
 ## 🚀 How it works
 

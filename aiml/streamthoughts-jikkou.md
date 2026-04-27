@@ -1,6 +1,6 @@
 # streamthoughts/jikkou
 
-[![Stars](https://img.shields.io/github/stars/streamthoughts/jikkou?style=flat-square&color=yellow)](https://github.com/streamthoughts/jikkou/stargazers) [![Forks](https://img.shields.io/github/forks/streamthoughts/jikkou?style=flat-square&color=blue)](https://github.com/streamthoughts/jikkou/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/streamthoughts/jikkou?style=flat-square&color=yellow)](https://github.com/streamthoughts/jikkou/stargazers) [![Forks](https://img.shields.io/github/forks/streamthoughts/jikkou?style=flat-square&color=blue)](https://github.com/streamthoughts/jikkou/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The Open source Resource as Code framework for Apache Kafka. Jikkou helps you implement GitOps for Kafka at scale!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 284 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

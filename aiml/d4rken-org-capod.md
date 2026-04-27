@@ -1,6 +1,6 @@
 # d4rken-org/capod
 
-[![Stars](https://img.shields.io/github/stars/d4rken-org/capod?style=flat-square&color=yellow)](https://github.com/d4rken-org/capod/stargazers) [![Forks](https://img.shields.io/github/forks/d4rken-org/capod?style=flat-square&color=blue)](https://github.com/d4rken-org/capod/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/d4rken-org/capod?style=flat-square&color=yellow)](https://github.com/d4rken-org/capod/stargazers) [![Forks](https://img.shields.io/github/forks/d4rken-org/capod?style=flat-square&color=blue)](https://github.com/d4rken-org/capod/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A companion app for AirPods on Android.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 960 |
+| ⭐ **Stars** | 962 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,8 +1,8 @@
 # enkryptai/glyph
 
-[![Stars](https://img.shields.io/github/stars/enkryptai/glyph?style=flat-square&color=yellow)](https://github.com/enkryptai/glyph/stargazers) [![Forks](https://img.shields.io/github/forks/enkryptai/glyph?style=flat-square&color=blue)](https://github.com/enkryptai/glyph/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enkryptai/glyph?style=flat-square&color=yellow)](https://github.com/enkryptai/glyph/stargazers) [![Forks](https://img.shields.io/github/forks/enkryptai/glyph?style=flat-square&color=blue)](https://github.com/enkryptai/glyph/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-0%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> _No description provided._
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 0/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,11 +21,11 @@ _no topics_
 
 ## 🎯 Categories
 
-Misc
+_uncategorized_
 
 ## 📝 Summary
 
-Glyph is an open-source project that aims to detect prompt-injection attacks in near real-time, boasting sub-millisecond detection speeds. This tool is designed to help developers and security professionals safeguard against malicious input that can compromise the integrity of applications. By providing swift and accurate detection, Glyph helps mitigate the risks associated with prompt-injection attacks.
+Glyph is an open-source project that detects prompt-injection attacks in sub-millisecond timeframes. This tool is designed to identify and prevent malicious attempts to inject malicious code or data into systems through user input. By providing rapid detection capabilities, Glyph aims to enhance the security and resilience of applications against such threats.
 
 ---
 

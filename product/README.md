@@ -23,7 +23,7 @@
 | 13 | [git-town/git-town](./git-town-git-town.md) | ⭐ 3.2k | Gherkin | 71/100 |
 | 14 | [beam-community/elixir-companies](./beam-community-elixir-companies.md) | ⭐ 1.7k | Astro | 67/100 |
 | 15 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 55/100 |
-| 16 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 602 | Rust | 55/100 |
+| 16 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 603 | Rust | 55/100 |
 | 17 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 656 | Shell | 52/100 |
 | 18 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 51/100 |
 | 19 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | JavaScript | 49/100 |

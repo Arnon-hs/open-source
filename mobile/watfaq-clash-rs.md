@@ -1,6 +1,6 @@
 # Watfaq/clash-rs
 
-[![Stars](https://img.shields.io/github/stars/Watfaq/clash-rs?style=flat-square&color=yellow)](https://github.com/Watfaq/clash-rs/stargazers) [![Forks](https://img.shields.io/github/forks/Watfaq/clash-rs?style=flat-square&color=blue)](https://github.com/Watfaq/clash-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Watfaq/clash-rs?style=flat-square&color=yellow)](https://github.com/Watfaq/clash-rs/stargazers) [![Forks](https://img.shields.io/github/forks/Watfaq/clash-rs?style=flat-square&color=blue)](https://github.com/Watfaq/clash-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > custom protocol network proxy
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 143 |
+| 🍴 **Forks** | 144 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

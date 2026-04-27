@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
-| 2 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.1k | JavaScript | 100/100 |
+| 1 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.1k | JavaScript | 100/100 |
+| 2 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
 | 3 | [roboflow/rf-detr](./roboflow-rf-detr.md) | ⭐ 6.6k | Python | 96/100 |
 | 4 | [dotnet/csharplang](./dotnet-csharplang.md) | ⭐ 12.6k | C# | 93/100 |
 | 5 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.6k | Scala | 91/100 |
