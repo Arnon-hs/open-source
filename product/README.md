@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**21 projects** in this category.
+**22 projects** in this category.
 
 ## Projects
 
@@ -14,8 +14,8 @@
 | 4 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.1k | C# | 100/100 |
 | 5 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122k | TypeScript | 99/100 |
 | 6 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.8k | C++ | 96/100 |
-| 7 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9k | Python | 92/100 |
-| 8 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.1k | Rust | 92/100 |
+| 7 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.1k | Rust | 92/100 |
+| 8 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9k | Python | 92/100 |
 | 9 | [liuchong/awesome-roadmaps](./liuchong-awesome-roadmaps.md) | ⭐ 6.9k | — | 88/100 |
 | 10 | [johnste/finicky](./johnste-finicky.md) | ⭐ 4.8k | Go | 86/100 |
 | 11 | [dreamworksanimation/openmoonray](./dreamworksanimation-openmoonray.md) | ⭐ 4.6k | CMake | 78/100 |
@@ -27,8 +27,9 @@
 | 17 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 656 | Shell | 52/100 |
 | 18 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 51/100 |
 | 19 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | JavaScript | 49/100 |
-| 20 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
-| 21 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 314 | Rust | 42/100 |
+| 20 | [ralfbiedert/interoptopus](./ralfbiedert-interoptopus.md) | ⭐ 461 | Rust | 48/100 |
+| 21 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
+| 22 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 314 | Rust | 42/100 |
 
 ---
 
