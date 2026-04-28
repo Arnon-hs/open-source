@@ -1,6 +1,6 @@
 # kubernetes-sigs/secrets-store-csi-driver
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/secrets-store-csi-driver?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/secrets-store-csi-driver/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/secrets-store-csi-driver?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/secrets-store-csi-driver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/secrets-store-csi-driver?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/secrets-store-csi-driver/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/secrets-store-csi-driver?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/secrets-store-csi-driver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 325 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

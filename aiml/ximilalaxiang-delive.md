@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/XimilalaXiang/DeLive?style=flat-square&color=yellow)](https://github.com/XimilalaXiang/DeLive/stargazers) [![Forks](https://img.shields.io/github/forks/XimilalaXiang/DeLive?style=flat-square&color=blue)](https://github.com/XimilalaXiang/DeLive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> System audio capture + multi-provider ASR + local-first AI review workspace. Floating live captions, 6 ASR backends, 60+ languages, AI summary/chat/mindmap, Open API, MCP server, and Agent Skill.
+> System audio capture + multi-provider ASR + local-first AI review workspace. Floating live captions, 12 ASR backends, 60+ languages, AI summary/chat/mindmap, Open API, MCP server, and Agent Skill.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 64 |
+| ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |

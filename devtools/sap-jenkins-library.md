@@ -1,6 +1,6 @@
 # SAP/jenkins-library
 
-[![Stars](https://img.shields.io/github/stars/SAP/jenkins-library?style=flat-square&color=yellow)](https://github.com/SAP/jenkins-library/stargazers) [![Forks](https://img.shields.io/github/forks/SAP/jenkins-library?style=flat-square&color=blue)](https://github.com/SAP/jenkins-library/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SAP/jenkins-library?style=flat-square&color=yellow)](https://github.com/SAP/jenkins-library/stargazers) [![Forks](https://img.shields.io/github/forks/SAP/jenkins-library?style=flat-square&color=blue)](https://github.com/SAP/jenkins-library/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Jenkins shared library for Continuous Delivery pipelines.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 817 |
 | 🍴 **Forks** | 622 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra
+AI/ML
 
 ## 📝 Summary
 

@@ -20,7 +20,7 @@
 | 10 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 610 | C# | 53/100 |
 | 11 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 12 | [nil-go/konf](./nil-go-konf.md) | ⭐ 379 | Go | 53/100 |
-| 13 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 133 | MDX | 51/100 |
+| 13 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 134 | MDX | 51/100 |
 | 14 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 120 | Rust | 51/100 |
 | 15 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
 | 16 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 16 | — | 50/100 |
