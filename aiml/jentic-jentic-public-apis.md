@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The jentic-public-apis project is an open-source initiative that serves as a comprehensive knowledge layer for AI agents and APIs. It aims to provide a unified platform for accessing and utilizing various public APIs, empowering developers to build more sophisticated AI models and applications. By leveraging this open knowledge layer, developers can streamline their workflows and accelerate the development of AI-driven solutions.
+The jentic-public-apis project is an open-source initiative that serves as a knowledge layer for AI agents and APIs, providing a comprehensive platform for integrating and exchanging information across various systems. This project aims to facilitate the development of more intelligent and interconnected AI applications, promoting collaboration and innovation in the field of artificial intelligence and machine learning. By offering a shared knowledge base, jentic-public-apis enables the creation of more robust and effective AI solutions.
 
 ---
 

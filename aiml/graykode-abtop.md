@@ -1,6 +1,6 @@
 # graykode/abtop
 
-[![Stars](https://img.shields.io/github/stars/graykode/abtop?style=flat-square&color=yellow)](https://github.com/graykode/abtop/stargazers) [![Forks](https://img.shields.io/github/forks/graykode/abtop?style=flat-square&color=blue)](https://github.com/graykode/abtop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/graykode/abtop?style=flat-square&color=yellow)](https://github.com/graykode/abtop/stargazers) [![Forks](https://img.shields.io/github/forks/graykode/abtop?style=flat-square&color=blue)](https://github.com/graykode/abtop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 105 |
+| 🍴 **Forks** | 106 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

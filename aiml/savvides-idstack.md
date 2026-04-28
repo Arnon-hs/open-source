@@ -1,6 +1,6 @@
 # savvides/idstack
 
-[![Stars](https://img.shields.io/github/stars/savvides/idstack?style=flat-square&color=yellow)](https://github.com/savvides/idstack/stargazers) [![Forks](https://img.shields.io/github/forks/savvides/idstack?style=flat-square&color=blue)](https://github.com/savvides/idstack/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/savvides/idstack?style=flat-square&color=yellow)](https://github.com/savvides/idstack/stargazers) [![Forks](https://img.shields.io/github/forks/savvides/idstack?style=flat-square&color=blue)](https://github.com/savvides/idstack/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Evidence-based instructional design skills for Claude Code. 9 AI skills that check alignment, accessibility, cognitive load, and evidence strength. Import from any LMS or authoring tool.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go Template |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

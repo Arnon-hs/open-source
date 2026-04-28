@@ -1,8 +1,8 @@
 # deadbolthq/certhound-agent
 
-[![Stars](https://img.shields.io/github/stars/deadbolthq/certhound-agent?style=flat-square&color=yellow)](https://github.com/deadbolthq/certhound-agent/stargazers) [![Forks](https://img.shields.io/github/forks/deadbolthq/certhound-agent?style=flat-square&color=blue)](https://github.com/deadbolthq/certhound-agent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deadbolthq/certhound-agent?style=flat-square&color=yellow)](https://github.com/deadbolthq/certhound-agent/stargazers) [![Forks](https://img.shields.io/github/forks/deadbolthq/certhound-agent?style=flat-square&color=blue)](https://github.com/deadbolthq/certhound-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Cross-platform Go agent for SSL/TLS certificate inventory and ACME auto-renewal. Single binary, no daemons, runs standalone or with the optional CertHound dashboard.
 
 ## 📊 Stats
 
@@ -10,8 +10,8 @@
 |---|---|
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,11 +21,11 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 
-CertHound is an open-source SSL/TLS certificate discovery and auto-renewal agent designed to simplify the process of managing digital certificates. This project leverages AI/ML capabilities to automate tasks related to certificate discovery, validation, and renewal, ensuring seamless secure connectivity. By utilizing CertHound, users can streamline their certificate management and maintain the integrity of their online infrastructure.
+CertHound is an open-source project that automates the discovery and auto-renewal of SSL/TLS certificates. This tool helps organizations streamline their certificate management by identifying and updating certificates before they expire, reducing the risk of security breaches and downtime. By leveraging CertHound, users can simplify their certificate lifecycle management and maintain the security and trust of their online presence.
 
 ---
 

@@ -1,17 +1,17 @@
 # hpennington/agentswift
 
-[![Stars](https://img.shields.io/github/stars/hpennington/agentswift?style=flat-square&color=yellow)](https://github.com/hpennington/agentswift/stargazers) [![Forks](https://img.shields.io/github/forks/hpennington/agentswift?style=flat-square&color=blue)](https://github.com/hpennington/agentswift/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hpennington/agentswift?style=flat-square&color=yellow)](https://github.com/hpennington/agentswift/stargazers) [![Forks](https://img.shields.io/github/forks/hpennington/agentswift?style=flat-square&color=blue)](https://github.com/hpennington/agentswift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> _No description provided._
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Swift |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,11 +21,11 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Mobile
+AI/ML
 
 ## 📝 Summary
 
-AgentSwift is an open-source, iOS builder agent designed to simplify the development process for iOS applications. This project leverages AI/ML and frontend technologies to create a more efficient and streamlined experience for mobile developers. By utilizing AgentSwift, developers can focus on building innovative apps, rather than getting bogged down in the complexities of iOS development.
+AgentSwift is an open-source iOS builder agent designed to streamline the development process for mobile applications. This project utilizes a builder agent approach to simplify and enhance the creation of iOS apps, offering a valuable resource for developers working on mobile projects. By leveraging AgentSwift, developers can focus on writing code rather than dealing with the complexities of building and testing iOS apps.
 
 ---
 

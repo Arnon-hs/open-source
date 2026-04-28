@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **9379** |
+| 🗂️ **Total projects** | **9429** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3612 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1752 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 943 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 775 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 548 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 536 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 335 | [Browse →](./crypto/) |
-| 📊 **Data** | 199 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 3631 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1756 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 949 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 784 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 552 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 537 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 337 | [Browse →](./crypto/) |
+| 📊 **Data** | 202 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 188 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 124 | [Browse →](./mobile/) |
 | 💳 **Payments** | 115 | [Browse →](./payments/) |
 | 📈 **Trading** | 95 | [Browse →](./trading/) |
-| 🔐 **Security** | 85 | [Browse →](./security/) |
+| 🔐 **Security** | 87 | [Browse →](./security/) |
 | ✨ **Design** | 32 | [Browse →](./design/) |
 | 🎯 **Product** | 22 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 18 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [CorentinTh/it-tools](./frontend/corentinth-it-tools.md) | ⭐ 38.3k | Frontend |
-| 2 | [wolfpld/tracy](./misc/wolfpld-tracy.md) | ⭐ 15.7k | Misc |
-| 3 | [1Panel-dev/1Panel](./aiml/1panel-dev-1panel.md) | ⭐ 35.2k | AI/ML |
-| 4 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.5k | DevTools |
-| 5 | [openscad/openscad](./misc/openscad-openscad.md) | ⭐ 9.3k | Misc |
-| 6 | [coollabsio/coolify](./backend/coollabsio-coolify.md) | ⭐ 54.3k | Backend |
-| 7 | [roboflow/supervision](./misc/roboflow-supervision.md) | ⭐ 38.2k | Misc |
-| 8 | [RIOT-OS/RIOT](./misc/riot-os-riot.md) | ⭐ 5.7k | Misc |
-| 9 | [shadps4-emu/shadPS4](./frontend/shadps4-emu-shadps4.md) | ⭐ 30.9k | Frontend |
-| 10 | [getsops/sops](./security/getsops-sops.md) | ⭐ 21.6k | Security |
+| 1 | [temporalio/temporal](./orchestration/temporalio-temporal.md) | ⭐ 19.9k | Orchestration |
+| 2 | [grpc/grpc-go](./backend/grpc-grpc-go.md) | ⭐ 22.9k | Backend |
+| 3 | [Stirling-Tools/Stirling-PDF](./devopsinfra/stirling-tools-stirling-pdf.md) | ⭐ 77.9k | DevOps & Infra |
+| 4 | [sonic-pi-net/sonic-pi](./misc/sonic-pi-net-sonic-pi.md) | ⭐ 11.8k | Misc |
+| 5 | [wkentaro/labelme](./aiml/wkentaro-labelme.md) | ⭐ 15.8k | AI/ML |
+| 6 | [huggingface/peft](./aiml/huggingface-peft.md) | ⭐ 21k | AI/ML |
+| 7 | [ipython/ipython](./aiml/ipython-ipython.md) | ⭐ 16.7k | AI/ML |
+| 8 | [is-a-dev/register](./aiml/is-a-dev-register.md) | ⭐ 10.2k | AI/ML |
+| 9 | [Donchitos/Claude-Code-Game-Studios](./aiml/donchitos-claude-code-game-studios.md) | ⭐ 16.4k | AI/ML |
+| 10 | [TykTechnologies/tyk](./backend/tyktechnologies-tyk.md) | ⭐ 10.7k | Backend |
 
 ## 🚀 How it works
 

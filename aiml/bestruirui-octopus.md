@@ -27,7 +27,7 @@ AI/ML · Frontend · Backend
 
 Here's a brief summary for the bestruirui/octopus project:
 
-Octopus is an open-source project that aggregates and provides a unified API for multiple Large Language Models (LLMs), making it easier for individuals to access and utilize their capabilities. This project aims to simplify the development process by offering a single hub for LLMs, streamlining interactions and reducing complexity. By consolidating LLM APIs, Octopus facilitates innovation and experimentation in AI and ML applications.
+Octopus is an open-source LLM (Large Language Model) API aggregation service, designed to provide a unified hub for accessing multiple LLMs. It allows developers to easily integrate and switch between different LLMs, streamlining AI and machine learning workflows. This project aims to simplify the process of working with various LLMs, making it more accessible to individuals and teams.
 
 ---
 

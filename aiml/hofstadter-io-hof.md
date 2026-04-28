@@ -1,6 +1,6 @@
 # hofstadter-io/hof
 
-[![Stars](https://img.shields.io/github/stars/hofstadter-io/hof?style=flat-square&color=yellow)](https://github.com/hofstadter-io/hof/stargazers) [![Forks](https://img.shields.io/github/forks/hofstadter-io/hof?style=flat-square&color=blue)](https://github.com/hofstadter-io/hof/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hofstadter-io/hof?style=flat-square&color=yellow)](https://github.com/hofstadter-io/hof/stargazers) [![Forks](https://img.shields.io/github/forks/hofstadter-io/hof?style=flat-square&color=blue)](https://github.com/hofstadter-io/hof/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A developer experience centered on CUE. Unifies schemas, data models, deterministic and agentic code generation, workflow and task engine, dagger powered environments, coding assistant, and vscode extension; woven together on the CUE lattice. Squint harder if you can't see the cube :]
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 605 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

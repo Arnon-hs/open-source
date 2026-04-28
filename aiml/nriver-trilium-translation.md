@@ -25,9 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Trilium Notes translation project:
+Here's a brief summary for the project:
 
-This open-source project provides a Chinese translation for Trilium Notes, a note-taking application, to enhance user experience. The translation aims to improve compatibility and usability of the application for Chinese-speaking users. By contributing to this project, developers can help bridge the language gap and make Trilium Notes more accessible to a broader audience.
+This open-source project, Trilium-Translation, provides a Chinese adaptation and optimized experience for Trilium Notes, a note-taking application. The project aims to improve the usability and accessibility of Trilium Notes for Chinese users through translation and user interface enhancements. It involves AI/ML and DevOps/Infra categories.
 
 ---
 

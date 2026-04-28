@@ -1,6 +1,6 @@
 # tenequm/skills
 
-[![Stars](https://img.shields.io/github/stars/tenequm/skills?style=flat-square&color=yellow)](https://github.com/tenequm/skills/stargazers) [![Forks](https://img.shields.io/github/forks/tenequm/skills?style=flat-square&color=blue)](https://github.com/tenequm/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tenequm/skills?style=flat-square&color=yellow)](https://github.com/tenequm/skills/stargazers) [![Forks](https://img.shields.io/github/forks/tenequm/skills?style=flat-square&color=blue)](https://github.com/tenequm/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skills for building, shipping, and growing software products
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

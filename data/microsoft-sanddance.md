@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Microsoft SandDance is an open-source project that enables users to visually explore, understand, and present their data in an interactive and intuitive manner. This tool provides a comprehensive platform for data analysis, allowing users to create immersive and dynamic visualizations that facilitate deeper insights into their data. By leveraging SandDance, users can effectively communicate complex data stories to stakeholders and make informed decisions.
+SandDance is an open-source data exploration and visualization tool that enables users to understand and present complex data in a visually engaging way. With SandDance, users can create interactive and immersive data stories, making it easier to communicate insights and trends to others. This project offers a flexible and customizable platform for data analysis and presentation.
 
 ---
 

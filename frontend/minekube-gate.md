@@ -25,9 +25,9 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a summary of the minekube/gate project:
+Here's a 2-3 sentence summary for the minekube/gate project:
 
-minekube/gate is a high-performance, resource-efficient Minecraft reverse proxy and library that supports multiple protocols, making it a scalable alternative to Velocity and BungeeCord. Designed for both development and large-scale deployments, it has proven to be reliable in production environments and powers the global Connect edge proxy network. This open-source project is ideal for those seeking a robust and efficient solution for their Minecraft server infrastructure.
+minekube/gate is a high-performance Minecraft reverse proxy and library designed for scalability and efficiency. As a robust alternative to Velocity and BungeeCord, it supports multiple protocols and is suitable for both small-scale development and large-scale production environments. This open-source solution has been proven reliable in powering the global Connect edge proxy network.
 
 ---
 

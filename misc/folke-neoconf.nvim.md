@@ -1,6 +1,6 @@
 # folke/neoconf.nvim
 
-[![Stars](https://img.shields.io/github/stars/folke/neoconf.nvim?style=flat-square&color=yellow)](https://github.com/folke/neoconf.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/folke/neoconf.nvim?style=flat-square&color=blue)](https://github.com/folke/neoconf.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/folke/neoconf.nvim?style=flat-square&color=yellow)](https://github.com/folke/neoconf.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/folke/neoconf.nvim?style=flat-square&color=blue)](https://github.com/folke/neoconf.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 💼 Neovim plugin to manage global and project-local settings
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 953 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

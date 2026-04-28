@@ -25,7 +25,7 @@ Crypto · Payments · AI/ML
 
 ## 📝 Summary
 
-The qntx/x402-openai-python project is an open-source, drop-in client for interacting with OpenAI services, offering seamless integration with transparent x402 payment support. This project enables users to leverage AI capabilities from OpenAI while maintaining a secure and transparent payment experience. By simplifying the payment process, it streamlines the development of AI-powered applications.
+This open-source project, qntx/x402-openai-python, provides a comprehensive, drop-in OpenAI Python client that seamlessly integrates with the x402 payment system. This allows developers to easily interact with OpenAI services while ensuring secure and transparent payment processing through x402. The project supports the development of AI-driven applications that require robust payment gateways.
 
 ---
 

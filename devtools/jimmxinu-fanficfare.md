@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here is a brief summary of the FanFicFare project:
-
-FanFicFare is an open-source tool designed to help users create eBooks from their favorite stories on fanfiction and other websites. With this user-friendly application, fans can easily collect, organize, and format their favorite stories into professionally-looking eBooks. By automating the eBook creation process, FanFicFare saves users time and effort, allowing them to focus on what matters most - enjoying their favorite stories.
+FanFicFare is an open-source tool designed to simplify the process of creating eBooks from stories found on fanfiction and other web-based platforms. This user-friendly application allows users to easily collect and organize their favorite fan-created content into a readable eBook format. By streamlining the eBook creation process, FanFicFare makes it easier for fans to enjoy and share their favorite stories in a convenient digital format.
 
 ---
 

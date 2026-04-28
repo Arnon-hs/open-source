@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 313 |
+| ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
@@ -25,7 +25,9 @@ Orchestration · AI/ML · Security
 
 ## 📝 Summary
 
-DeepZero is an open-source, automated vulnerability research framework that leverages AI agents to identify zero-days in Windows kernel drivers. The platform parses, decompiles, and analyzes thousands of drivers for exploitable IOCTLs, enabling researchers to discover potential vulnerabilities while minimizing manual effort. By streamlining the vulnerability detection process, DeepZero aims to enhance the efficiency and effectiveness of security research.
+Here's a brief summary of the DeepZero project:
+
+DeepZero is an open-source, automated vulnerability research framework that utilizes AI agents to analyze thousands of Windows kernel drivers for exploitable IOCTLs. This innovative framework parses, decompiles, and examines driver code to identify potential security weaknesses, allowing researchers to discover zero-day vulnerabilities while minimizing manual effort. By leveraging AI-driven analysis, DeepZero aims to accelerate vulnerability discovery and improve overall security posture.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Flowexec/flow is an open-source local developer automation platform designed to streamline development workflows and enhance productivity. This platform aims to integrate seamlessly with developers' existing tools and processes, adapting to their unique needs as they evolve. By automating repetitive tasks and providing a customizable environment, flowexec/flow empowers developers to focus on their core work.
+Flow is an open-source, local developer automation platform that streamlines workflows and enhances productivity. This user-friendly tool allows developers to automate repetitive tasks, creating a seamless and efficient coding experience. By "flowing with you," Flow aims to simplify and accelerate the development process, making it easier for developers to focus on what matters most.
 
 ---
 

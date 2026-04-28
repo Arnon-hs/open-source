@@ -1,6 +1,6 @@
 # 514-labs/moosestack
 
-[![Stars](https://img.shields.io/github/stars/514-labs/moosestack?style=flat-square&color=yellow)](https://github.com/514-labs/moosestack/stargazers) [![Forks](https://img.shields.io/github/forks/514-labs/moosestack?style=flat-square&color=blue)](https://github.com/514-labs/moosestack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/514-labs/moosestack?style=flat-square&color=yellow)](https://github.com/514-labs/moosestack/stargazers) [![Forks](https://img.shields.io/github/forks/514-labs/moosestack?style=flat-square&color=blue)](https://github.com/514-labs/moosestack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The agent harness for building analytics into your app on top of ClickHouse, Redpanda and other high-performance analytical infrastructure
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 575 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

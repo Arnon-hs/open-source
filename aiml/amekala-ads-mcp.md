@@ -27,7 +27,7 @@ AI/ML · Backend · DevTools
 
 Here's a brief summary for the amekala/ads-mcp project:
 
-The amekala/ads-mcp project is an open-source, MCP (Media Conductor Protocol) server that streamlines ad campaign management across multiple platforms, including Google Ads, Meta Ads, LinkedIn Ads, and TikTok Ads. This comprehensive tool features over 100 utilities for campaign creation, analysis, research, and optimization, making it an invaluable resource for advertisers and digital marketing professionals. It also integrates with popular AI and automation tools like ChatGPT and Gemini CLI.
+The amekala/ads-mcp project is an open-source MCP (Media Center Platform) server that streamlines the management of ad campaigns across multiple platforms, including Google Ads, Meta Ads, LinkedIn Ads, and TikTok Ads. With a comprehensive set of over 100 tools for campaign creation, analysis, and optimization, this project enables efficient and data-driven ad management. It also integrates with various AI and CLI tools for enhanced functionality.
 
 ---
 

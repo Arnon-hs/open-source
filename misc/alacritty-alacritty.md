@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Alacritty is a highly customizable, open-source terminal emulator that supports OpenGL across multiple platforms. It provides a fast and efficient text rendering experience, making it suitable for users who require high-performance terminal functionality. With its modular design, Alacritty is highly extensible and can be tailored to meet the specific needs of its users.
+Alacritty is a highly customizable, open-source terminal emulator that utilizes OpenGL for rendering, allowing for fast and efficient performance across multiple platforms. It offers advanced features and a user-friendly interface, making it a popular choice among terminal users. By leveraging OpenGL, Alacritty provides a seamless and responsive experience, even with large amounts of text.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "dorkitude/linctl":
+Here's a brief summary for the open-source project linctl:
 
-Linctl is an open-source, linear CLI tool designed with agents in mind, but also accessible to humans. Built with Golang and the Cobra framework, it provides a user-friendly interface for executing commands and automating tasks. This versatile tool is suitable for various applications, including AI/ML, frontend development, and DevOps.
+linctl is an open-source Linear CLI tool designed with agents in mind, but also useful for humans, built using Golang and the Cobra framework. This project aims to provide a user-friendly interface for interacting with Linear, a powerful collaboration platform. By leveraging Golang and Cobra, linctl offers a robust and customizable CLI experience for managing Linear workflows.
 
 ---
 

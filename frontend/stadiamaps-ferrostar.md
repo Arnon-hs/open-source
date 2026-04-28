@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-Ferrostar is an open-source navigation SDK designed for the future of frontend development. This FOSS (Free and Open-Source Software) project provides a cutting-edge navigation solution built from the ground up, offering a robust and flexible framework for developers. By leveraging Ferrostar, developers can create immersive and interactive navigation experiences for various applications and platforms.
+Here's a brief summary for the stadiamaps/ferrostar project:
+
+Ferrostar is an open-source, frontend navigation SDK designed for modern applications, offering a robust and flexible framework for building high-performance navigation experiences. Built from the ground up for the future, this SDK provides a comprehensive set of tools and APIs for developers to create intuitive and efficient navigation systems. Its open-source nature and modular architecture make it an ideal choice for developers seeking a customizable and community-driven navigation solution.
 
 ---
 

@@ -1,6 +1,6 @@
 # EvoMap/evolver
 
-[![Stars](https://img.shields.io/github/stars/EvoMap/evolver?style=flat-square&color=yellow)](https://github.com/EvoMap/evolver/stargazers) [![Forks](https://img.shields.io/github/forks/EvoMap/evolver?style=flat-square&color=blue)](https://github.com/EvoMap/evolver/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvoMap/evolver?style=flat-square&color=yellow)](https://github.com/EvoMap/evolver/stargazers) [![Forks](https://img.shields.io/github/forks/EvoMap/evolver?style=flat-square&color=blue)](https://github.com/EvoMap/evolver/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7k |
-| 🍴 **Forks** | 699 |
+| 🍴 **Forks** | 700 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-The antvis/mcp-server-chart project is an open-source visualization library that utilizes the @antvis framework to generate over 25 unique charts and graphs. This tool is designed for chart generation and data analysis, making it a valuable resource for AI/ML and data-driven applications. It enables developers to create interactive and customizable visualizations for their data analysis needs.
+The antvis/mcp-server-chart project is an open-source visualization tool that utilizes the @antvis library to generate over 25 different types of charts. It can be used for chart generation and data analysis, particularly in the fields of AI/ML and data-driven applications. This project enables users to create interactive and informative visualizations for their data.
 
 ---
 

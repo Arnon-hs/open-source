@@ -25,9 +25,9 @@ Crypto · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the project:
 
-Nodit-MCP-Server is an open-source Model Context Protocol (MCP) server that enables Large Language Models (LLMs) to interact with blockchain data through Nodit's Web3 Data and Node APIs, providing structured, multi-chain blockchain context without requiring blockchain-specific logic. This project facilitates seamless integration of AI agents with blockchain data, accelerating the development of AI applications in the crypto space. By abstracting away blockchain complexities, Nodit-MCP-Server empowers LLMs to focus on high-level AI tasks.
+The nodit-mcp-server is an open-source project that enables AI agents, such as Large Language Models (LLMs), to interact with blockchain data via Nodit's Web3 APIs, allowing for structured access to multi-chain blockchain context. This allows LLMs to focus on complex tasks without requiring blockchain-specific logic. The project facilitates seamless integration between AI and blockchain technologies.
 
 ---
 

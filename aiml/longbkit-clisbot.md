@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the longbkit/clisbot project:
-
-The longbkit/clisbot project is an open-source initiative that combines a coding CLI with a chatbot, providing a unique interface for developers to interact with their code. This agentic coding system utilizes AI/ML technologies to streamline coding workflows, making it easier for users to create, manage, and automate their projects. By bridging the gap between coding and conversation, clisbot aims to revolutionize the way developers collaborate and interact with their code.
+Clisbot is an open-source project that combines a command-line interface (CLI) with a chatbot, providing users with a flexible and interactive way to work with code. This agentic coding tool utilizes AI/ML capabilities to enable developers to automate tasks, generate code, and engage in coding conversations. By leveraging both CLI and chatbot interfaces, Clisbot streamlines the coding process and enhances productivity.
 
 ---
 

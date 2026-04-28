@@ -1,6 +1,6 @@
 # browser-use/bux
 
-[![Stars](https://img.shields.io/github/stars/browser-use/bux?style=flat-square&color=yellow)](https://github.com/browser-use/bux/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/bux?style=flat-square&color=blue)](https://github.com/browser-use/bux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/browser-use/bux?style=flat-square&color=yellow)](https://github.com/browser-use/bux/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/bux?style=flat-square&color=blue)](https://github.com/browser-use/bux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A 24/7 Claude Code agent with Browser Harness, on any box you own.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 169 |
-| 🍴 **Forks** | 14 |
+| ⭐ **Stars** | 186 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

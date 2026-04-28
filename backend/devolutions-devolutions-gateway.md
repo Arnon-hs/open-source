@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Devolutions Gateway is an open-source, high-performance relay server that can handle various protocols and provide customizable traffic inspection capabilities. This adaptable backend solution enables seamless communication between different systems and networks while offering advanced security features. By leveraging Devolutions Gateway, developers can build robust and efficient infrastructure for their applications.
+Devolutions Gateway is a high-performance relay server that enables seamless communication across various protocols while providing customizable traffic inspection capabilities. Built with scalability and adaptability in mind, this open-source project empowers developers to construct robust and secure networking solutions. Its versatility makes it suitable for a wide range of applications.
 
 ---
 

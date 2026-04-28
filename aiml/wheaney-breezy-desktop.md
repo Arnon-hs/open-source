@@ -1,0 +1,32 @@
+# wheaney/breezy-desktop
+
+[![Stars](https://img.shields.io/github/stars/wheaney/breezy-desktop?style=flat-square&color=yellow)](https://github.com/wheaney/breezy-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/wheaney/breezy-desktop?style=flat-square&color=blue)](https://github.com/wheaney/breezy-desktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+
+> XR productivity and gaming applications for Linux
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 667 |
+| 🍴 **Forks** | 54 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI/ML · Product
+
+## 📝 Summary
+
+Breezy Desktop is an open-source project that aims to bring seamless XR (extended reality) productivity and gaming experiences to Linux users. This innovative platform enables users to unlock immersive capabilities, elevating their workflow and entertainment to new heights. By harnessing the power of AI and machine learning, Breezy Desktop redefines the boundaries of what is possible on the Linux operating system.
+
+---
+
+<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/wheaney/breezy-desktop) · [← Back to AI/ML](./README.md)</sub>

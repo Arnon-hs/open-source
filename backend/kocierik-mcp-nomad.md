@@ -25,9 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the kocierik/mcp-nomad project:
+Here's a brief summary of the kocierik/mcp-nomad project:
 
-The kocierik/mcp-nomad project is an open-source implementation of a nomadic MCP (Model Context Protocol) server, designed to provide a flexible and scalable backend solution. This server enables the exchange of data and context between different systems and applications, facilitating seamless integration and communication. By utilizing the MCP protocol, developers can easily build interoperable and context-aware applications.
+The kocierik/mcp-nomad project is an open-source implementation of a nomad MCP Server, providing a decentralized and mobile model context protocol for efficient data exchange. This backend project enables the creation of a robust and scalable network for disseminating model context information, promoting real-time collaboration and data synchronization. By leveraging a nomadic design, users can easily deploy and manage MCP servers in various environments.
 
 ---
 

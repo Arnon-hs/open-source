@@ -1,6 +1,6 @@
 # unhappychoice/terminal_image
 
-[![Stars](https://img.shields.io/github/stars/unhappychoice/terminal_image?style=flat-square&color=yellow)](https://github.com/unhappychoice/terminal_image/stargazers) [![Forks](https://img.shields.io/github/forks/unhappychoice/terminal_image?style=flat-square&color=blue)](https://github.com/unhappychoice/terminal_image/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unhappychoice/terminal_image?style=flat-square&color=yellow)](https://github.com/unhappychoice/terminal_image/stargazers) [![Forks](https://img.shields.io/github/forks/unhappychoice/terminal_image?style=flat-square&color=blue)](https://github.com/unhappychoice/terminal_image/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > :desktop_computer: Show high resolution images on your terminal !
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
