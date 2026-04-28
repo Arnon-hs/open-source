@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Uniswap/uniswap-ai project:
-
-The Uniswap/uniswap-ai project is an open-source initiative that provides AI tools to facilitate building on the Uniswap platform. This project offers various AI capabilities, including skills, plugins, and agents, designed to empower developers and coding agents to create innovative applications. By leveraging AI, the project aims to enhance the building experience on Uniswap and foster a more vibrant ecosystem.
+The Uniswap AI project provides an open-source suite of AI tools for developers building on the Uniswap platform. This comprehensive toolkit offers skills, plugins, and agents that can be utilized by any coding agent, empowering the creation of innovative solutions within the Uniswap ecosystem. By harnessing the power of AI, developers can streamline their workflows and unlock new possibilities for DeFi applications.
 
 ---
 

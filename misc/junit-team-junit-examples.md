@@ -1,6 +1,6 @@
 # junit-team/junit-examples
 
-[![Stars](https://img.shields.io/github/stars/junit-team/junit-examples?style=flat-square&color=yellow)](https://github.com/junit-team/junit-examples/stargazers) [![Forks](https://img.shields.io/github/forks/junit-team/junit-examples?style=flat-square&color=blue)](https://github.com/junit-team/junit-examples/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/junit-team/junit-examples?style=flat-square&color=yellow)](https://github.com/junit-team/junit-examples/stargazers) [![Forks](https://img.shields.io/github/forks/junit-team/junit-examples?style=flat-square&color=blue)](https://github.com/junit-team/junit-examples/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of JUnit example projects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

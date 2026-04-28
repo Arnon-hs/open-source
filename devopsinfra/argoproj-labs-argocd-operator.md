@@ -27,7 +27,7 @@ DevOps/Infra
 
 Here's a brief summary for the argocd-operator project:
 
-The argocd-operator is an open-source Kubernetes operator that simplifies the management of Argo CD clusters. This operator automates the deployment, scaling, and updating of Argo CD instances, streamlining the process of application delivery and deployment across multiple environments. By leveraging the operator, users can easily manage their Argo CD clusters and ensure consistent application delivery across their Kubernetes infrastructure.
+The argocd-operator is an open-source Kubernetes operator that simplifies the management of Argo CD clusters. It automates the deployment, scaling, and upgrading of Argo CD instances, providing a scalable and reliable way to manage multiple CD applications. This operator enables DevOps teams to efficiently manage their Argo CD infrastructure and streamline their continuous delivery processes.
 
 ---
 

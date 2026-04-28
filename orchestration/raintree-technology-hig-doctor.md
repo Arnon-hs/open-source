@@ -1,6 +1,6 @@
 # raintree-technology/hig-doctor
 
-[![Stars](https://img.shields.io/github/stars/raintree-technology/hig-doctor?style=flat-square&color=yellow)](https://github.com/raintree-technology/hig-doctor/stargazers) [![Forks](https://img.shields.io/github/forks/raintree-technology/hig-doctor?style=flat-square&color=blue)](https://github.com/raintree-technology/hig-doctor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raintree-technology/hig-doctor?style=flat-square&color=yellow)](https://github.com/raintree-technology/hig-doctor/stargazers) [![Forks](https://img.shields.io/github/forks/raintree-technology/hig-doctor?style=flat-square&color=blue)](https://github.com/raintree-technology/hig-doctor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Apple HIG audit CLI + 14 agent skills for AI coding assistants — score any project for HIG compliance across 12 frameworks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

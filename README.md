@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **9263** |
+| 🗂️ **Total projects** | **9327** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3569 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1722 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 928 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 767 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 541 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 530 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 3595 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1741 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 935 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 772 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 543 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 532 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 332 | [Browse →](./crypto/) |
-| 📊 **Data** | 197 | [Browse →](./data/) |
+| 📊 **Data** | 198 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 188 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 124 | [Browse →](./mobile/) |
-| 💳 **Payments** | 114 | [Browse →](./payments/) |
-| 📈 **Trading** | 94 | [Browse →](./trading/) |
+| 💳 **Payments** | 115 | [Browse →](./payments/) |
+| 📈 **Trading** | 95 | [Browse →](./trading/) |
 | 🔐 **Security** | 85 | [Browse →](./security/) |
 | ✨ **Design** | 32 | [Browse →](./design/) |
 | 🎯 **Product** | 22 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 33.7k | Orchestration |
-| 2 | [SigmaHQ/sigma](./aiml/sigmahq-sigma.md) | ⭐ 10.4k | AI/ML |
-| 3 | [wolfpld/tracy](./misc/wolfpld-tracy.md) | ⭐ 15.7k | Misc |
-| 4 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.5k | DevTools |
-| 5 | [microsoft/promptflow](./aiml/microsoft-promptflow.md) | ⭐ 11.1k | AI/ML |
-| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 7 | [ngosang/trackerslist](./misc/ngosang-trackerslist.md) | ⭐ 53.7k | Misc |
-| 8 | [SigNoz/signoz](./frontend/signoz-signoz.md) | ⭐ 26.7k | Frontend |
-| 9 | [dagster-io/dagster](./orchestration/dagster-io-dagster.md) | ⭐ 15.4k | Orchestration |
-| 10 | [dependabot/dependabot-core](./devopsinfra/dependabot-dependabot-core.md) | ⭐ 5.6k | DevOps & Infra |
+| 1 | [apache/superset](./frontend/apache-superset.md) | ⭐ 72.6k | Frontend |
+| 2 | [laramies/theHarvester](./aiml/laramies-theharvester.md) | ⭐ 16.1k | AI/ML |
+| 3 | [CorentinTh/it-tools](./frontend/corentinth-it-tools.md) | ⭐ 38.3k | Frontend |
+| 4 | [wolfpld/tracy](./misc/wolfpld-tracy.md) | ⭐ 15.7k | Misc |
+| 5 | [1Panel-dev/1Panel](./aiml/1panel-dev-1panel.md) | ⭐ 35.2k | AI/ML |
+| 6 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.5k | DevTools |
+| 7 | [openscad/openscad](./misc/openscad-openscad.md) | ⭐ 9.3k | Misc |
+| 8 | [coollabsio/coolify](./backend/coollabsio-coolify.md) | ⭐ 54.3k | Backend |
+| 9 | [roboflow/supervision](./misc/roboflow-supervision.md) | ⭐ 38.2k | Misc |
+| 10 | [RIOT-OS/RIOT](./misc/riot-os-riot.md) | ⭐ 5.7k | Misc |
 
 ## 🚀 How it works
 

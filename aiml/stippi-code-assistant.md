@@ -1,6 +1,6 @@
 # stippi/code-assistant
 
-[![Stars](https://img.shields.io/github/stars/stippi/code-assistant?style=flat-square&color=yellow)](https://github.com/stippi/code-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/stippi/code-assistant?style=flat-square&color=blue)](https://github.com/stippi/code-assistant/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stippi/code-assistant?style=flat-square&color=yellow)](https://github.com/stippi/code-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/stippi/code-assistant?style=flat-square&color=blue)](https://github.com/stippi/code-assistant/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > An LLM-powered, autonomous coding assistant. Also offers an MCP and ACP mode.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 160 |
+| ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

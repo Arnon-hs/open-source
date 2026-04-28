@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The anubis-oss project is an open-source tool designed for local Large Language Model (LLM) testing and benchmarking on Apple Silicon devices. This project aims to provide a platform for developers to test and optimize their LLM applications on Apple's M-series chips, enhancing their performance and efficiency. By utilizing anubis-oss, developers can streamline their testing and development processes, leading to improved LLM-based applications.
+The anubis-oss project is an open-source framework designed for local Large Language Model (LLM) testing and benchmarking on Apple Silicon devices. It provides a platform for developers to evaluate and compare the performance of various LLMs on Apple's M-series chips, enabling the creation of more efficient and effective AI models. This project is a valuable resource for the AI and ML communities looking to optimize their models for Apple Silicon architectures.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-ChordVox by GravityPoet is an open-source, local AI-powered voice input tool that enables users to transform their voice into a digital keyboard. It allows for real-time speech-to-text capabilities, polishing spoken words for accuracy, and auto-pasting them at the cursor position. This free and forever open-source solution streamlines the process of converting spoken words into typed text.
+Here's a brief summary of the GravityPoet/ChordVox open-source project:
+
+GravityPoet/ChordVox is a free, open-source local AI voice input tool that enables users to convert spoken words into text with ease. This innovative project allows users to speak, and the AI engine will automatically polish and paste the text at the cursor position, providing a seamless speech-to-text experience. By leveraging local AI capabilities, users can enjoy a fast and reliable speech-to-text solution without relying on cloud services.
 
 ---
 

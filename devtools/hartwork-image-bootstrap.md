@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the open-source project:
-
-Hartwork/image-bootstrap is an open-source command line tool that enables the creation of Linux chroots and bootable virtual machine images. Built using Python 3, this project provides a convenient and flexible solution for developers and system administrators. With its ability to create self-contained environments, it facilitates testing, development, and deployment of Linux-based projects.
+The hartwork/image-bootstrap project is an open-source command-line tool that enables the creation of Linux chroots and bootable virtual machine images. Built using Python 3, this tool simplifies the process of building custom Linux environments for development, testing, and deployment purposes. It provides a flexible and efficient solution for DevOps and system administrators.
 
 ---
 

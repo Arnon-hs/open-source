@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The AI Agent Session Center is an open-source project that transforms AI coding agent sessions into immersive, real-time 3D robots, providing a unique visual interface for developers. This dashboard includes interactive features such as live terminals, prompt history, and tool logs, allowing for a more engaging coding experience. It can run on any device, making it accessible to users across various platforms.
+The AI Agent Session Center is an open-source project that visualizes AI coding agent sessions in a real-time 3D dashboard. This interactive interface brings sessions from agents like Claude Code, Gemini CLI, and Codex to life, featuring animated robots with live terminals, prompt history, tool logs, and queuing functionality. The project can run on any device, making it accessible for users to monitor and explore AI coding agent sessions.
 
 ---
 

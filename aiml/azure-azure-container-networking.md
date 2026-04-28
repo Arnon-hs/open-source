@@ -1,6 +1,6 @@
 # Azure/azure-container-networking
 
-[![Stars](https://img.shields.io/github/stars/Azure/azure-container-networking?style=flat-square&color=yellow)](https://github.com/Azure/azure-container-networking/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-container-networking?style=flat-square&color=blue)](https://github.com/Azure/azure-container-networking/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/azure-container-networking?style=flat-square&color=yellow)](https://github.com/Azure/azure-container-networking/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-container-networking?style=flat-square&color=blue)](https://github.com/Azure/azure-container-networking/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Azure Container Networking Solutions for Linux and Windows Containers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 423 |
 | 🍴 **Forks** | 265 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

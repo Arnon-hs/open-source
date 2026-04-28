@@ -25,9 +25,7 @@ Crypto · Trading · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project 'richkuo/go-trader':
-
-richkuo/go-trader is a comprehensive open-source crypto trading bot that enables users to backtest, paper trade, and live trade with robust risk management features. This versatile tool caters to the needs of both novice and experienced traders, providing a reliable platform for exploring various trading strategies and optimizing their performance. By harnessing the power of Go, richkuo/go-trader offers a high-performance and efficient solution for traders.
+Richkuo's go-trader is an open-source, full-featured crypto trading bot that enables users to efficiently backtest, paper trade, and live trade with robust risk management capabilities. This project caters to developers and traders seeking to refine their trading strategies and automate their cryptocurrency transactions. With its wide range of features, go-trader empowers users to make informed trading decisions and optimize their portfolio.
 
 ---
 

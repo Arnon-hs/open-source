@@ -25,9 +25,9 @@ Backend · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the open-source project:
 
-The antd-components-mcp project is an open-source service that streamlines the process of querying Ant Design components, reducing code duplication and improving development efficiency. It features a comprehensive MCP service with system prompts, component documentation, API documentation, code examples, and update logs. This service aims to enhance the user experience of working with Ant Design components.
+This project provides an MCP (Macro Component Platform) service to facilitate querying of Ant Design components, reducing coding confusion. It includes features for system message retrieval, component documentation, API documentation, code examples, and update log searches. By utilizing this service, developers can easily access and utilize Ant Design components with improved efficiency and productivity.
 
 ---
 

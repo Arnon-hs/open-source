@@ -27,7 +27,7 @@ AI/ML · DevTools
 
 Here's a brief summary for the open-source project:
 
-Depthnet is an open-source, Laravel-based autonomous AI agent platform that enables the development of advanced AI models with cyclic thinking and persistent memory capabilities. This platform allows for real-time code execution, empowering users to create sophisticated AI agents. With its robust feature set, Depthnet serves as a powerful tool for AI/ML developers and researchers.
+Depthnet is an open-source, Laravel-based autonomous AI agent platform that enables cyclic thinking, persistent memory, and real-time code execution. This AI agent platform allows for the development of sophisticated, self-learning models that can adapt and respond to complex scenarios. By leveraging Laravel's robust framework, Depthnet provides a scalable and efficient foundation for building and deploying AI applications.
 
 ---
 

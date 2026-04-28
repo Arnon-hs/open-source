@@ -27,7 +27,7 @@ Frontend · Backend · Data
 
 Here's a 2-3 sentence summary for the lovablelabs/neon-operator project:
 
-The lovablelabs/neon-operator is an open-source Kubernetes operator designed to manage self-hosted Neon Postgres database clusters. This operator simplifies the management of Neon's control plane components, making it easier to deploy and run on both cloud and on-premises Kubernetes environments. By streamlining cluster management, developers can focus on building applications with a scalable and reliable Postgres database.
+The lovablelabs/neon-operator is an open-source Kubernetes operator designed to manage self-hosted Neon Postgres database clusters. This operator streamlines the management of all necessary components of Neon's control plane within Kubernetes environments, both in the cloud and on-premises. By utilizing this operator, users can easily deploy, manage, and scale their Neon Postgres database clusters.
 
 ---
 

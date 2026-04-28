@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The Agent Context Protocol (ACP) is an open-source documentation and planning system designed to facilitate the understanding and management of complex software projects by AI agents. It captures and structures implicit project knowledge, transforming it into explicit, machine-readable documentation that persists across agent sessions. This enables AI agents to build and maintain software projects more effectively and efficiently.
+The Agent Context Protocol (ACP) is an open-source documentation and planning system that facilitates the creation and maintenance of complex software projects by AI agents. It captures implicit project knowledge and converts it into explicit, machine-readable documentation, enabling seamless knowledge persistence across agent sessions. This protocol aids in structured knowledge capture and enhances AI agent capabilities in understanding and managing software projects.
 
 ---
 

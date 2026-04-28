@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The keith/ghb project provides a collection of tools specifically designed for GitHub, offering a range of functionalities to enhance user experience and streamline workflow. This open-source project aims to simplify various tasks and operations within the GitHub ecosystem, making it easier for developers to manage their repositories and collaborate with others. By offering a set of user-friendly tools, keith/ghb supports improved productivity and efficiency for GitHub users.
+The keith/ghb project is an open-source collection of tools designed to aid users in managing and interacting with GitHub. This versatile set of utilities is intended to simplify various GitHub-related tasks and enhance productivity for developers and GitHub users. By providing a range of useful functions, keith/ghb aims to make GitHub more accessible and efficient.
 
 ---
 

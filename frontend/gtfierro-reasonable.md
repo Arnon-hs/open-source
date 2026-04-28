@@ -25,7 +25,7 @@ Frontend · Data
 
 ## 📝 Summary
 
-The 'reasonable' project is an open-source OWL 2 Reasoner built on top of the DataFrog framework, designed to efficiently process and reason over complex ontologies. This tool utilizes the flexibility of DataFrog to provide a scalable and powerful reasoning engine for users to leverage in various applications. By leveraging DataFrog, 'reasonable' aims to optimize performance and simplify the process of working with OWL 2 ontologies.
+The open-source project "reasonable" is an OWL 2 Reasoner built on top of DataFrog, providing a powerful tool for reasoning and inference in the semantic web domain. Developed by gtfierro, this project combines the strengths of DataFrog with the capabilities of an OWL 2 Reasoner to enable efficient and accurate processing of ontology data. By leveraging this technology, developers can unlock the full potential of their semantic data.
 
 ---
 

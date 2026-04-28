@@ -25,7 +25,7 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The aws-k8s-tester project provides a set of tools for testing Kubernetes deployments on Amazon Web Services (AWS). These tools enable developers and DevOps engineers to simulate various failure scenarios, stress test their clusters, and validate the resilience of their Kubernetes applications. By leveraging aws-k8s-tester, users can ensure their Kubernetes environments are robust and reliable.
+The aws/aws-k8s-tester project provides an open-source toolset for testing Kubernetes deployments on Amazon Web Services (AWS). This suite of tools enables developers and DevOps teams to thoroughly validate and optimize their Kubernetes environments on AWS, ensuring scalability, reliability, and high-performance. By utilizing aws-k8s-tester, users can streamline their testing processes and improve the overall quality of their cloud-native applications.
 
 ---
 

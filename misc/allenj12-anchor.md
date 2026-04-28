@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5 |
+| ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Scheme |
 | 📈 **Score** | 36/100 |

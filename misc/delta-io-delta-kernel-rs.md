@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Delta-kernel-rs is an open-source, native implementation of the Delta protocol for seamless integration with various query engines. Written in Rust, it enables efficient data storage and processing by leveraging the Delta protocol, which is designed for incremental data updates. This project facilitates data versioning and efficient querying, making it ideal for use cases that involve frequent data updates.
+Delta-kernel-rs is an open-source, native Delta implementation written in Rust, designed for seamless integration with any query engine. This project enables developers to leverage Delta's high-performance capabilities in various data processing and analytics workflows. By providing a Rust-based kernel, it expands the reach of Delta's benefits across diverse query engines and data systems.
 
 ---
 

@@ -1,6 +1,6 @@
 # epinio/epinio
 
-[![Stars](https://img.shields.io/github/stars/epinio/epinio?style=flat-square&color=yellow)](https://github.com/epinio/epinio/stargazers) [![Forks](https://img.shields.io/github/forks/epinio/epinio?style=flat-square&color=blue)](https://github.com/epinio/epinio/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/epinio/epinio?style=flat-square&color=yellow)](https://github.com/epinio/epinio/stargazers) [![Forks](https://img.shields.io/github/forks/epinio/epinio?style=flat-square&color=blue)](https://github.com/epinio/epinio/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Opinionated platform that runs on Kubernetes, that takes you from App to URL in one step.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 587 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

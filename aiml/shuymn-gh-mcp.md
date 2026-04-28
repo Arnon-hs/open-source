@@ -1,6 +1,6 @@
 # shuymn/gh-mcp
 
-[![Stars](https://img.shields.io/github/stars/shuymn/gh-mcp?style=flat-square&color=yellow)](https://github.com/shuymn/gh-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/shuymn/gh-mcp?style=flat-square&color=blue)](https://github.com/shuymn/gh-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shuymn/gh-mcp?style=flat-square&color=yellow)](https://github.com/shuymn/gh-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/shuymn/gh-mcp?style=flat-square&color=blue)](https://github.com/shuymn/gh-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A GitHub CLI extension that seamlessly runs the github-mcp-server using your existing gh authentication. Eliminates manual PAT setup by automatically retrieving GitHub credentials and launching the MCP server with proper authentication.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25 |
+| ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

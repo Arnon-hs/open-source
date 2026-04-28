@@ -1,6 +1,6 @@
 # evroon/bracket
 
-[![Stars](https://img.shields.io/github/stars/evroon/bracket?style=flat-square&color=yellow)](https://github.com/evroon/bracket/stargazers) [![Forks](https://img.shields.io/github/forks/evroon/bracket?style=flat-square&color=blue)](https://github.com/evroon/bracket/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evroon/bracket?style=flat-square&color=yellow)](https://github.com/evroon/bracket/stargazers) [![Forks](https://img.shields.io/github/forks/evroon/bracket?style=flat-square&color=blue)](https://github.com/evroon/bracket/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Selfhosted tournament system
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 156 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # raketenkater/llm-server
 
-[![Stars](https://img.shields.io/github/stars/raketenkater/llm-server?style=flat-square&color=yellow)](https://github.com/raketenkater/llm-server/stargazers) [![Forks](https://img.shields.io/github/forks/raketenkater/llm-server?style=flat-square&color=blue)](https://github.com/raketenkater/llm-server/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raketenkater/llm-server?style=flat-square&color=yellow)](https://github.com/raketenkater/llm-server/stargazers) [![Forks](https://img.shields.io/github/forks/raketenkater/llm-server?style=flat-square&color=blue)](https://github.com/raketenkater/llm-server/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Smart launcher for llama.cpp / ik_llama.cpp — auto-detects GPUs, optimizes MoE placement, crash recovery
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 197 |
-| 🍴 **Forks** | 9 |
+| 🍴 **Forks** | 8 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

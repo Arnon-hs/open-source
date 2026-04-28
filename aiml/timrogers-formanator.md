@@ -1,6 +1,6 @@
 # timrogers/formanator
 
-[![Stars](https://img.shields.io/github/stars/timrogers/formanator?style=flat-square&color=yellow)](https://github.com/timrogers/formanator/stargazers) [![Forks](https://img.shields.io/github/forks/timrogers/formanator?style=flat-square&color=blue)](https://github.com/timrogers/formanator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timrogers/formanator?style=flat-square&color=yellow)](https://github.com/timrogers/formanator/stargazers) [![Forks](https://img.shields.io/github/forks/timrogers/formanator?style=flat-square&color=blue)](https://github.com/timrogers/formanator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Submit and manage Forma (https://joinforma.com) claims from the command line and Model Context Protocol (MCP) clients
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

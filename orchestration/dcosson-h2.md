@@ -25,7 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The dcosson/h2 project is an open-source platform that provides a comprehensive infrastructure for running agents, facilitating messaging, and managing orchestration tasks. This robust solution is particularly useful for AI and machine learning (ML) applications, offering a scalable and efficient environment for complex data processing and model deployment. By leveraging h2's capabilities, developers can streamline their workflows and enhance the overall performance of their AI and ML projects.
+Here's a brief summary for the dcosson/h2 project:
+
+The dcosson/h2 project is an open-source platform that provides a comprehensive agent runner, messaging, and orchestration layer, enabling efficient management and coordination of tasks and resources. This AI/ML-focused orchestration tool streamlines complex workflows, making it suitable for large-scale distributed systems and data science applications. By leveraging h2, developers can build scalable, high-performance, and data-driven systems.
 
 ---
 

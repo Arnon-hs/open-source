@@ -1,6 +1,6 @@
 # waybarrios/opencode-power-pack
 
-[![Stars](https://img.shields.io/github/stars/waybarrios/opencode-power-pack?style=flat-square&color=yellow)](https://github.com/waybarrios/opencode-power-pack/stargazers) [![Forks](https://img.shields.io/github/forks/waybarrios/opencode-power-pack?style=flat-square&color=blue)](https://github.com/waybarrios/opencode-power-pack/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/waybarrios/opencode-power-pack?style=flat-square&color=yellow)](https://github.com/waybarrios/opencode-power-pack/stargazers) [![Forks](https://img.shields.io/github/forks/waybarrios/opencode-power-pack?style=flat-square&color=blue)](https://github.com/waybarrios/opencode-power-pack/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 55 |
+| ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

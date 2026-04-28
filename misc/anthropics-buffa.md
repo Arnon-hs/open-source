@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The buffa project is an open-source Rust implementation of Protocol Buffers (protobuf) that supports editions, enabling developers to work with different protobuf versions. Additionally, buffa provides JSON serialization capabilities and zero-copy views, allowing users to efficiently access and manipulate data. This versatile library streamlines the process of working with protobuf messages in Rust applications.
+Buffa is an open-source project that provides a Rust implementation of the Protocol Buffers (protobuf) data serialization format. It supports multiple editions and offers additional features such as JSON serialization and zero-copy views, making it a versatile and efficient tool for data encoding and decoding. Buffa is designed to be a robust and flexible alternative to traditional protobuf implementations.
 
 ---
 

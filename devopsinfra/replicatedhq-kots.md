@@ -25,9 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-KOTS (Kubernetes Off-The-Shelf) is an open-source framework that enables the delivery and management of third-party Kubernetes applications in a scalable and efficient manner. It provides a set of tools and integrations that simplify the process of deploying and maintaining Kubernetes-based software, making it easier for organizations to adopt and manage complex applications. With KOTS, users can focus on deploying and managing applications, rather than building custom Kubernetes infrastructure.
+KOTS (Kubernetes Off-The-Shelf Software) is an open-source project that enables the delivery and management of third-party Kubernetes applications. It provides a framework, tools, and integrations for streamlining the deployment and management of Kubernetes-based software, making it easier to adopt and maintain scalable and efficient infrastructure. With KOTS, developers can easily integrate and manage a wide range of Kubernetes applications.
 
 ---
 

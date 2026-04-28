@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The open-source project "googlefonts/fontations" provides a library for reading and writing font files, making it easier to work with font data programmatically. This project is useful for developers who need to manipulate font files in their applications, allowing for tasks such as font formatting, analysis, and conversion. By leveraging this library, developers can simplify their font-related workflows and create more complex font-related applications.
+The "googlefonts/fontations" project is an open-source library that allows users to read and write font files, providing a simple and efficient way to work with font data. This project is designed to handle various font formats, making it a versatile tool for developers who need to manipulate font files in their applications. By using this library, users can easily read, write, and manipulate font data in a platform-independent manner.
 
 ---
 

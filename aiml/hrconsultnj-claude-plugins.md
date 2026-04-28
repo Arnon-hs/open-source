@@ -1,6 +1,6 @@
 # hrconsultnj/claude-plugins
 
-[![Stars](https://img.shields.io/github/stars/hrconsultnj/claude-plugins?style=flat-square&color=yellow)](https://github.com/hrconsultnj/claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/hrconsultnj/claude-plugins?style=flat-square&color=blue)](https://github.com/hrconsultnj/claude-plugins/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hrconsultnj/claude-plugins?style=flat-square&color=yellow)](https://github.com/hrconsultnj/claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/hrconsultnj/claude-plugins?style=flat-square&color=blue)](https://github.com/hrconsultnj/claude-plugins/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin — code quality hooks, knowledge graph, impact-aware reviews, decomposition enforcement. Babysitter for your AI's code quality.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 66 |
+| ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

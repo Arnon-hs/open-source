@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The τ-Bench project is an open-source benchmark designed to evaluate the performance of tool-agent-user interactions in real-world domains. By providing a standardized framework for testing and comparing various AI and machine learning models, τ-Bench aims to advance the development of intelligent systems that effectively interact with humans. This benchmark is particularly useful for researchers and developers working on AI applications in areas such as robotics, healthcare, and education.
+The τ-Bench project is an open-source benchmark designed to evaluate tool-agent-user interaction in real-world domains, providing a standardized platform for assessing AI and ML systems in practical applications. It aims to facilitate the development and comparison of intelligent systems across various domains, ensuring seamless integration and effective collaboration between humans and machines. By offering a comprehensive benchmark, τ-Bench promotes the advancement of AI and ML technology in real-world settings.
 
 ---
 

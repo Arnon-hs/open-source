@@ -1,6 +1,6 @@
 # Ilm-Alan/frontend-design
 
-[![Stars](https://img.shields.io/github/stars/Ilm-Alan/frontend-design?style=flat-square&color=yellow)](https://github.com/Ilm-Alan/frontend-design/stargazers) [![Forks](https://img.shields.io/github/forks/Ilm-Alan/frontend-design?style=flat-square&color=blue)](https://github.com/Ilm-Alan/frontend-design/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ilm-Alan/frontend-design?style=flat-square&color=yellow)](https://github.com/Ilm-Alan/frontend-design/stargazers) [![Forks](https://img.shields.io/github/forks/Ilm-Alan/frontend-design?style=flat-square&color=blue)](https://github.com/Ilm-Alan/frontend-design/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Frontend design skill for Claude Code, Codex, and Gemini CLI. Eight aesthetic anchors, each locking palette, typography, and texture to specific CSS tokens. Pick one per brief.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

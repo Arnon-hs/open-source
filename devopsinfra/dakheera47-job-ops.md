@@ -1,6 +1,6 @@
 # DaKheera47/job-ops
 
-[![Stars](https://img.shields.io/github/stars/DaKheera47/job-ops?style=flat-square&color=yellow)](https://github.com/DaKheera47/job-ops/stargazers) [![Forks](https://img.shields.io/github/forks/DaKheera47/job-ops?style=flat-square&color=blue)](https://github.com/DaKheera47/job-ops/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DaKheera47/job-ops?style=flat-square&color=yellow)](https://github.com/DaKheera47/job-ops/stargazers) [![Forks](https://img.shields.io/github/forks/DaKheera47/job-ops?style=flat-square&color=blue)](https://github.com/DaKheera47/job-ops/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 339 |
+| 🍴 **Forks** | 340 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

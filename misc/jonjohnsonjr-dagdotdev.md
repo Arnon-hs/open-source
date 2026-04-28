@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Dagdotdev is an open-source project that provides tools for exploring OCI (Open Container Initiative) and APK (Android Package Kit) files. This project offers users a way to delve into the contents of these files, potentially aiding in debugging, reverse engineering, and security analysis. The project is hosted on GitHub by jonjohnsonjr.
+The open-source project "jonjohnsonjr/dagdotdev" is a toolkit designed for exploring and analyzing OCI (Open Container Initiative) and APK (Android Package Kit) files. This project provides a convenient interface for developers to inspect the contents of these file formats, making it easier to understand and work with containerized applications and Android packages.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-Cherri is an open-source programming language designed specifically for Siri Shortcuts, enabling developers to create custom workflows and automations for iOS devices. This language allows users to build complex tasks and integrate various features, enhancing the capabilities of Siri Shortcuts. By leveraging Cherri, developers can unlock new possibilities for automation and productivity on Apple devices.
+The cherri open-source project is a programming language designed for Siri Shortcuts, a feature that allows users to automate tasks on their Apple devices. It enables developers to create custom shortcuts and workflows in a more efficient and accessible way, leveraging the power of AI and machine learning. With cherri, users can build complex automations without needing extensive programming knowledge.
 
 ---
 

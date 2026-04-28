@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the iloom-cli project:
-
-iloom-cli is an open-source, AI-assisted developer workflow system that streamlines structured development by persisting analysis, plans, and decisions in a user's issue tracker. The system consists of a CLI and a VS Code extension, providing real-time insights, assumptions, risks, and decisions for enhanced development efficiency. This workflow system aims to simplify the development process by leveraging AI assistance.
+Iloom is an open-source developer workflow system that streamlines AI-assisted development through a Command Line Interface (CLI) and a Visual Studio Code (VS Code) extension. The CLI manages isolated workflows, while the VS Code extension provides real-time insights into project complexities, risks, and decisions. This integrated system aims to structure and enhance the development process using machine learning and artificial intelligence.
 
 ---
 

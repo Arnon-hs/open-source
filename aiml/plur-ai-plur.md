@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The plur project is an open-source, shared memory framework designed to facilitate communication and data exchange between AI agents. This shared memory system enables AI agents to efficiently and safely interact with one another, promoting collaboration and seamless data sharing. By providing a standardized interface, plur simplifies the development of multi-agent systems in AI and machine learning applications.
+The plur project is an open-source shared memory framework designed specifically for AI agents, enabling them to efficiently communicate and collaborate with each other in real-time. This framework facilitates the creation of complex AI systems by providing a scalable and reliable means of data exchange between agents. By leveraging shared memory, AI agents can access and modify data simultaneously, promoting more effective and coordinated behavior.
 
 ---
 

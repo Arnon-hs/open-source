@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 731 |
-| 🍴 **Forks** | 112 |
+| ⭐ **Stars** | 732 |
+| 🍴 **Forks** | 113 |
 | 💻 **Language** | PowerShell |
 | 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |

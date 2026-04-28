@@ -1,17 +1,17 @@
 # manankharwar/fusioncore
 
-[![Stars](https://img.shields.io/github/stars/manankharwar/fusioncore?style=flat-square&color=yellow)](https://github.com/manankharwar/fusioncore/stargazers) [![Forks](https://img.shields.io/github/forks/manankharwar/fusioncore?style=flat-square&color=blue)](https://github.com/manankharwar/fusioncore/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/manankharwar/fusioncore?style=flat-square&color=yellow)](https://github.com/manankharwar/fusioncore/stargazers) [![Forks](https://img.shields.io/github/forks/manankharwar/fusioncore?style=flat-square&color=blue)](https://github.com/manankharwar/fusioncore/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> ROS 2 sensor fusion SDK: UKF, 3D native, proper GNSS, zero manual tuning. Apache 2.0.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 148 |
+| 🍴 **Forks** | 10 |
+| 💻 **Language** | C++ |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

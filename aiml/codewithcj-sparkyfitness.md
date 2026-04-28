@@ -1,6 +1,6 @@
 # CodeWithCJ/SparkyFitness
 
-[![Stars](https://img.shields.io/github/stars/CodeWithCJ/SparkyFitness?style=flat-square&color=yellow)](https://github.com/CodeWithCJ/SparkyFitness/stargazers) [![Forks](https://img.shields.io/github/forks/CodeWithCJ/SparkyFitness?style=flat-square&color=blue)](https://github.com/CodeWithCJ/SparkyFitness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CodeWithCJ/SparkyFitness?style=flat-square&color=yellow)](https://github.com/CodeWithCJ/SparkyFitness/stargazers) [![Forks](https://img.shields.io/github/forks/CodeWithCJ/SparkyFitness?style=flat-square&color=blue)](https://github.com/CodeWithCJ/SparkyFitness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

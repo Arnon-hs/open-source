@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 59.8k |
+| ⭐ **Stars** | 59.9k |
 | 🍴 **Forks** | 20.3k |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 100/100 |

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 25 |
-| 🍴 **Forks** | 5 |
+| 🍴 **Forks** | 4 |
 | 💻 **Language** | Markdown |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |

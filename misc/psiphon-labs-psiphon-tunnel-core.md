@@ -1,6 +1,6 @@
 # Psiphon-Labs/psiphon-tunnel-core
 
-[![Stars](https://img.shields.io/github/stars/Psiphon-Labs/psiphon-tunnel-core?style=flat-square&color=yellow)](https://github.com/Psiphon-Labs/psiphon-tunnel-core/stargazers) [![Forks](https://img.shields.io/github/forks/Psiphon-Labs/psiphon-tunnel-core?style=flat-square&color=blue)](https://github.com/Psiphon-Labs/psiphon-tunnel-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Psiphon-Labs/psiphon-tunnel-core?style=flat-square&color=yellow)](https://github.com/Psiphon-Labs/psiphon-tunnel-core/stargazers) [![Forks](https://img.shields.io/github/forks/Psiphon-Labs/psiphon-tunnel-core?style=flat-square&color=blue)](https://github.com/Psiphon-Labs/psiphon-tunnel-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Psiphon is an Internet censorship circumvention system.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 315 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
