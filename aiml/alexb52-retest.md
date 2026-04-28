@@ -1,6 +1,6 @@
 # AlexB52/retest
 
-[![Stars](https://img.shields.io/github/stars/AlexB52/retest?style=flat-square&color=yellow)](https://github.com/AlexB52/retest/stargazers) [![Forks](https://img.shields.io/github/forks/AlexB52/retest?style=flat-square&color=blue)](https://github.com/AlexB52/retest/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlexB52/retest?style=flat-square&color=yellow)](https://github.com/AlexB52/retest/stargazers) [![Forks](https://img.shields.io/github/forks/AlexB52/retest?style=flat-square&color=blue)](https://github.com/AlexB52/retest/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A trusty CLI companion to monitor file changes and automatically run the corresponding Ruby specs. Ready to assist on any Ruby project, no setup needed!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 221 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

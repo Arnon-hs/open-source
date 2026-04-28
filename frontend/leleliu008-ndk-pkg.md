@@ -1,6 +1,6 @@
 # leleliu008/ndk-pkg
 
-[![Stars](https://img.shields.io/github/stars/leleliu008/ndk-pkg?style=flat-square&color=yellow)](https://github.com/leleliu008/ndk-pkg/stargazers) [![Forks](https://img.shields.io/github/forks/leleliu008/ndk-pkg?style=flat-square&color=blue)](https://github.com/leleliu008/ndk-pkg/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leleliu008/ndk-pkg?style=flat-square&color=yellow)](https://github.com/leleliu008/ndk-pkg/stargazers) [![Forks](https://img.shields.io/github/forks/leleliu008/ndk-pkg?style=flat-square&color=blue)](https://github.com/leleliu008/ndk-pkg/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A package builder using Android NDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

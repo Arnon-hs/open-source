@@ -1,6 +1,6 @@
 # zhitongblog/solomd
 
-[![Stars](https://img.shields.io/github/stars/zhitongblog/solomd?style=flat-square&color=yellow)](https://github.com/zhitongblog/solomd/stargazers) [![Forks](https://img.shields.io/github/forks/zhitongblog/solomd?style=flat-square&color=blue)](https://github.com/zhitongblog/solomd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhitongblog/solomd?style=flat-square&color=yellow)](https://github.com/zhitongblog/solomd/stargazers) [![Forks](https://img.shields.io/github/forks/zhitongblog/solomd?style=flat-square&color=blue)](https://github.com/zhitongblog/solomd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A markdown editor — and the bridge to your LLM. Local-first, MIT, ~15 MB. Bundled MCP server lets Claude Code / Codex / Cursor drive your vault directly. 14 AI providers BYOK.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 191 |
-| 🍴 **Forks** | 10 |
+| ⭐ **Stars** | 193 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

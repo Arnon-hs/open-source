@@ -1,6 +1,6 @@
 # hashgraph-online/ai-plugin-scanner
 
-[![Stars](https://img.shields.io/github/stars/hashgraph-online/ai-plugin-scanner?style=flat-square&color=yellow)](https://github.com/hashgraph-online/ai-plugin-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/hashgraph-online/ai-plugin-scanner?style=flat-square&color=blue)](https://github.com/hashgraph-online/ai-plugin-scanner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashgraph-online/ai-plugin-scanner?style=flat-square&color=yellow)](https://github.com/hashgraph-online/ai-plugin-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/hashgraph-online/ai-plugin-scanner?style=flat-square&color=blue)](https://github.com/hashgraph-online/ai-plugin-scanner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Security and best-practices scanner for AI Plugins, covering Codex, Claude, Opencode, Gemini & more. Scores trust for plugins 0-100.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 207 |
+| ⭐ **Stars** | 210 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

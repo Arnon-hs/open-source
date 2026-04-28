@@ -1,6 +1,6 @@
 # Ben-Lichtman/ropr
 
-[![Stars](https://img.shields.io/github/stars/Ben-Lichtman/ropr?style=flat-square&color=yellow)](https://github.com/Ben-Lichtman/ropr/stargazers) [![Forks](https://img.shields.io/github/forks/Ben-Lichtman/ropr?style=flat-square&color=blue)](https://github.com/Ben-Lichtman/ropr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ben-Lichtman/ropr?style=flat-square&color=yellow)](https://github.com/Ben-Lichtman/ropr/stargazers) [![Forks](https://img.shields.io/github/forks/Ben-Lichtman/ropr?style=flat-square&color=blue)](https://github.com/Ben-Lichtman/ropr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative (currently x86 only)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 550 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

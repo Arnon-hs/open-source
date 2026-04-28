@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/SkardiLabs/skardi?style=flat-square&color=yellow)](https://github.com/SkardiLabs/skardi/stargazers) [![Forks](https://img.shields.io/github/forks/SkardiLabs/skardi?style=flat-square&color=blue)](https://github.com/SkardiLabs/skardi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Spark for Agents — a data platform that gives AI agents full data autonomy so every dataset in your stack becomes something an agent can actually use.
+> Skardi is an agent data plane that gives AI agents data autonomy.
 
 ## 📊 Stats
 

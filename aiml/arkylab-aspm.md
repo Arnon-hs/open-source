@@ -1,6 +1,6 @@
 # arkylab/aspm
 
-[![Stars](https://img.shields.io/github/stars/arkylab/aspm?style=flat-square&color=yellow)](https://github.com/arkylab/aspm/stargazers) [![Forks](https://img.shields.io/github/forks/arkylab/aspm?style=flat-square&color=blue)](https://github.com/arkylab/aspm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arkylab/aspm?style=flat-square&color=yellow)](https://github.com/arkylab/aspm/stargazers) [![Forks](https://img.shields.io/github/forks/arkylab/aspm?style=flat-square&color=blue)](https://github.com/arkylab/aspm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A Git-based package manager designed for AI-assisted development, similar to npm but supporting skills, agents, commands, hooks, and any AI resource types.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

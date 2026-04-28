@@ -1,6 +1,6 @@
 # haga-rak/fluxzy.core
 
-[![Stars](https://img.shields.io/github/stars/haga-rak/fluxzy.core?style=flat-square&color=yellow)](https://github.com/haga-rak/fluxzy.core/stargazers) [![Forks](https://img.shields.io/github/forks/haga-rak/fluxzy.core?style=flat-square&color=blue)](https://github.com/haga-rak/fluxzy.core/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haga-rak/fluxzy.core?style=flat-square&color=yellow)](https://github.com/haga-rak/fluxzy.core/stargazers) [![Forks](https://img.shields.io/github/forks/haga-rak/fluxzy.core?style=flat-square&color=blue)](https://github.com/haga-rak/fluxzy.core/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Fast and fully streamed Man-On-The-Middle to intercept, record, impersonate  and alter HTTP/1.1, H2, websocket and gRPC traffic.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

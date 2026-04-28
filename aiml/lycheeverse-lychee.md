@@ -1,6 +1,6 @@
 # lycheeverse/lychee
 
-[![Stars](https://img.shields.io/github/stars/lycheeverse/lychee?style=flat-square&color=yellow)](https://github.com/lycheeverse/lychee/stargazers) [![Forks](https://img.shields.io/github/forks/lycheeverse/lychee?style=flat-square&color=blue)](https://github.com/lycheeverse/lychee/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lycheeverse/lychee?style=flat-square&color=yellow)](https://github.com/lycheeverse/lychee/stargazers) [![Forks](https://img.shields.io/github/forks/lycheeverse/lychee?style=flat-square&color=blue)](https://github.com/lycheeverse/lychee/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 199 |
+| 🍴 **Forks** | 200 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

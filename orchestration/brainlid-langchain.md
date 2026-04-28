@@ -1,6 +1,6 @@
 # brainlid/langchain
 
-[![Stars](https://img.shields.io/github/stars/brainlid/langchain?style=flat-square&color=yellow)](https://github.com/brainlid/langchain/stargazers) [![Forks](https://img.shields.io/github/forks/brainlid/langchain?style=flat-square&color=blue)](https://github.com/brainlid/langchain/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brainlid/langchain?style=flat-square&color=yellow)](https://github.com/brainlid/langchain/stargazers) [![Forks](https://img.shields.io/github/forks/brainlid/langchain?style=flat-square&color=blue)](https://github.com/brainlid/langchain/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

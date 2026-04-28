@@ -1,6 +1,6 @@
 # voxpupuli/g10k
 
-[![Stars](https://img.shields.io/github/stars/voxpupuli/g10k?style=flat-square&color=yellow)](https://github.com/voxpupuli/g10k/stargazers) [![Forks](https://img.shields.io/github/forks/voxpupuli/g10k?style=flat-square&color=blue)](https://github.com/voxpupuli/g10k/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/voxpupuli/g10k?style=flat-square&color=yellow)](https://github.com/voxpupuli/g10k/stargazers) [![Forks](https://img.shields.io/github/forks/voxpupuli/g10k?style=flat-square&color=blue)](https://github.com/voxpupuli/g10k/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > my r10k fork in Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

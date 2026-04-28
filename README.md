@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **9514** |
+| 🗂️ **Total projects** | **9590** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,21 +18,21 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3657 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1779 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 956 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 790 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 555 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 545 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 339 | [Browse →](./crypto/) |
-| 📊 **Data** | 206 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 3691 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1791 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 960 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 796 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 564 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 550 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 342 | [Browse →](./crypto/) |
+| 📊 **Data** | 207 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 191 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 126 | [Browse →](./mobile/) |
 | 💳 **Payments** | 115 | [Browse →](./payments/) |
-| 📈 **Trading** | 96 | [Browse →](./trading/) |
+| 📈 **Trading** | 97 | [Browse →](./trading/) |
 | 🔐 **Security** | 87 | [Browse →](./security/) |
 | ✨ **Design** | 32 | [Browse →](./design/) |
-| 🎯 **Product** | 22 | [Browse →](./product/) |
+| 🎯 **Product** | 23 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 18 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [temporalio/temporal](./orchestration/temporalio-temporal.md) | ⭐ 19.9k | Orchestration |
-| 2 | [grpc/grpc-go](./backend/grpc-grpc-go.md) | ⭐ 22.9k | Backend |
-| 3 | [ImageMagick/ImageMagick](./frontend/imagemagick-imagemagick.md) | ⭐ 16.3k | Frontend |
-| 4 | [sonic-pi-net/sonic-pi](./misc/sonic-pi-net-sonic-pi.md) | ⭐ 11.8k | Misc |
-| 5 | [wkentaro/labelme](./aiml/wkentaro-labelme.md) | ⭐ 15.8k | AI/ML |
-| 6 | [is-a-dev/register](./aiml/is-a-dev-register.md) | ⭐ 10.2k | AI/ML |
-| 7 | [bytedance/UI-TARS-desktop](./aiml/bytedance-ui-tars-desktop.md) | ⭐ 29.5k | AI/ML |
-| 8 | [istio/istio](./frontend/istio-istio.md) | ⭐ 38.1k | Frontend |
-| 9 | [martin-ger/esp_wifi_repeater](./misc/martin-ger-esp-wifi-repeater.md) | ⭐ 5.2k | Misc |
-| 10 | [rook/rook](./orchestration/rook-rook.md) | ⭐ 13.5k | Orchestration |
+| 2 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 3 | [bytecodealliance/wasmtime](./misc/bytecodealliance-wasmtime.md) | ⭐ 17.9k | Misc |
+| 4 | [dagster-io/dagster](./orchestration/dagster-io-dagster.md) | ⭐ 15.4k | Orchestration |
+| 5 | [MarlinFirmware/Marlin](./frontend/marlinfirmware-marlin.md) | ⭐ 17.4k | Frontend |
+| 6 | [Stellarium/stellarium](./aiml/stellarium-stellarium.md) | ⭐ 9.6k | AI/ML |
+| 7 | [x-extends/vxe-table](./frontend/x-extends-vxe-table.md) | ⭐ 8.6k | Frontend |
+| 8 | [elizaOS/eliza](./crypto/elizaos-eliza.md) | ⭐ 18.3k | Crypto |
+| 9 | [huggingface/transformers](./crypto/huggingface-transformers.md) | ⭐ 160k | Crypto |
+| 10 | [gruntwork-io/terratest](./devtools/gruntwork-io-terratest.md) | ⭐ 7.9k | DevTools |
 
 ## 🚀 How it works
 

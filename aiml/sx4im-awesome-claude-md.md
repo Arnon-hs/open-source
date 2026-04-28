@@ -1,6 +1,6 @@
 # sx4im/awesome-claude-md
 
-[![Stars](https://img.shields.io/github/stars/sx4im/awesome-claude-md?style=flat-square&color=yellow)](https://github.com/sx4im/awesome-claude-md/stargazers) [![Forks](https://img.shields.io/github/forks/sx4im/awesome-claude-md?style=flat-square&color=blue)](https://github.com/sx4im/awesome-claude-md/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sx4im/awesome-claude-md?style=flat-square&color=yellow)](https://github.com/sx4im/awesome-claude-md/stargazers) [![Forks](https://img.shields.io/github/forks/sx4im/awesome-claude-md?style=flat-square&color=blue)](https://github.com/sx4im/awesome-claude-md/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Battle-tested CLAUDE.md files for Next.js, React, Python, Flutter and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

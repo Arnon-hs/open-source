@@ -1,6 +1,6 @@
 # Tochemey/goakt
 
-[![Stars](https://img.shields.io/github/stars/Tochemey/goakt?style=flat-square&color=yellow)](https://github.com/Tochemey/goakt/stargazers) [![Forks](https://img.shields.io/github/forks/Tochemey/goakt?style=flat-square&color=blue)](https://github.com/Tochemey/goakt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tochemey/goakt?style=flat-square&color=yellow)](https://github.com/Tochemey/goakt/stargazers) [![Forks](https://img.shields.io/github/forks/Tochemey/goakt?style=flat-square&color=blue)](https://github.com/Tochemey/goakt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > [Go] Distributed Actor/Grain framework for Golang
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

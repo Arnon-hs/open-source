@@ -1,6 +1,6 @@
 # metatube-community/metatube-sdk-go
 
-[![Stars](https://img.shields.io/github/stars/metatube-community/metatube-sdk-go?style=flat-square&color=yellow)](https://github.com/metatube-community/metatube-sdk-go/stargazers) [![Forks](https://img.shields.io/github/forks/metatube-community/metatube-sdk-go?style=flat-square&color=blue)](https://github.com/metatube-community/metatube-sdk-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/metatube-community/metatube-sdk-go?style=flat-square&color=yellow)](https://github.com/metatube-community/metatube-sdk-go/stargazers) [![Forks](https://img.shields.io/github/forks/metatube-community/metatube-sdk-go?style=flat-square&color=blue)](https://github.com/metatube-community/metatube-sdk-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > MetaTube SDK & API Server in Golang
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 787 |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

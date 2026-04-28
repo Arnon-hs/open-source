@@ -1,6 +1,6 @@
 # takeshy/obsidian-llm-hub
 
-[![Stars](https://img.shields.io/github/stars/takeshy/obsidian-llm-hub?style=flat-square&color=yellow)](https://github.com/takeshy/obsidian-llm-hub/stargazers) [![Forks](https://img.shields.io/github/forks/takeshy/obsidian-llm-hub?style=flat-square&color=blue)](https://github.com/takeshy/obsidian-llm-hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/takeshy/obsidian-llm-hub?style=flat-square&color=yellow)](https://github.com/takeshy/obsidian-llm-hub/stargazers) [![Forks](https://img.shields.io/github/forks/takeshy/obsidian-llm-hub?style=flat-square&color=blue)](https://github.com/takeshy/obsidian-llm-hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Obsidian plugin for AI chat, workflow automation, and semantic search — supports Gemini, OpenAI, OpenRouter, Grok, Ollama, and CLI   backends
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

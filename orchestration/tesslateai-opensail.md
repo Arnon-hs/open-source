@@ -1,6 +1,6 @@
 # TesslateAI/OpenSail
 
-[![Stars](https://img.shields.io/github/stars/TesslateAI/OpenSail?style=flat-square&color=yellow)](https://github.com/TesslateAI/OpenSail/stargazers) [![Forks](https://img.shields.io/github/forks/TesslateAI/OpenSail?style=flat-square&color=blue)](https://github.com/TesslateAI/OpenSail/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TesslateAI/OpenSail?style=flat-square&color=yellow)](https://github.com/TesslateAI/OpenSail/stargazers) [![Forks](https://img.shields.io/github/forks/TesslateAI/OpenSail?style=flat-square&color=blue)](https://github.com/TesslateAI/OpenSail/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 454 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # freedit-org/freedit
 
-[![Stars](https://img.shields.io/github/stars/freedit-org/freedit?style=flat-square&color=yellow)](https://github.com/freedit-org/freedit/stargazers) [![Forks](https://img.shields.io/github/forks/freedit-org/freedit?style=flat-square&color=blue)](https://github.com/freedit-org/freedit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freedit-org/freedit?style=flat-square&color=yellow)](https://github.com/freedit-org/freedit/stargazers) [![Forks](https://img.shields.io/github/forks/freedit-org/freedit?style=flat-square&color=blue)](https://github.com/freedit-org/freedit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The safest and lightest forum, powered by rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

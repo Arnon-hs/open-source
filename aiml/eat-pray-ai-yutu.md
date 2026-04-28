@@ -1,6 +1,6 @@
 # eat-pray-ai/yutu
 
-[![Stars](https://img.shields.io/github/stars/eat-pray-ai/yutu?style=flat-square&color=yellow)](https://github.com/eat-pray-ai/yutu/stargazers) [![Forks](https://img.shields.io/github/forks/eat-pray-ai/yutu?style=flat-square&color=blue)](https://github.com/eat-pray-ai/yutu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eat-pray-ai/yutu?style=flat-square&color=yellow)](https://github.com/eat-pray-ai/yutu/stargazers) [![Forks](https://img.shields.io/github/forks/eat-pray-ai/yutu?style=flat-square&color=blue)](https://github.com/eat-pray-ai/yutu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The AI-powered toolkit that grows your YouTube channel on autopilot.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 447 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
