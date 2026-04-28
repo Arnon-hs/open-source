@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**23 projects** in this category.
+**24 projects** in this category.
 
 ## Projects
 
@@ -23,14 +23,15 @@
 | 13 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 71/100 |
 | 14 | [beam-community/elixir-companies](./beam-community-elixir-companies.md) | ⭐ 1.7k | Astro | 67/100 |
 | 15 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 59/100 |
-| 16 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 625 | Rust | 55/100 |
-| 17 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 656 | Shell | 52/100 |
-| 18 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 51/100 |
-| 19 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | JavaScript | 49/100 |
-| 20 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
+| 16 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 535 | C | 56/100 |
+| 17 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 630 | Rust | 55/100 |
+| 18 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 656 | Shell | 52/100 |
+| 19 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 51/100 |
+| 20 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | JavaScript | 49/100 |
 | 21 | [ralfbiedert/interoptopus](./ralfbiedert-interoptopus.md) | ⭐ 462 | Rust | 48/100 |
-| 22 | [getsentry/relay](./getsentry-relay.md) | ⭐ 375 | Rust | 46/100 |
-| 23 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 314 | Rust | 42/100 |
+| 22 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
+| 23 | [getsentry/relay](./getsentry-relay.md) | ⭐ 375 | Rust | 46/100 |
+| 24 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 314 | Rust | 42/100 |
 
 ---
 

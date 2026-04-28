@@ -2,19 +2,19 @@
 
 > Security, auth, encryption, privacy
 
-**87 projects** in this category.
+**89 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
-| 2 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6.1k | C++ | 100/100 |
-| 3 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
-| 4 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.2k | C | 100/100 |
-| 5 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
-| 6 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
-| 7 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.5k | C | 100/100 |
+| 2 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.2k | C | 100/100 |
+| 3 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.5k | C | 100/100 |
+| 4 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6.1k | C++ | 100/100 |
+| 5 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
+| 6 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
+| 7 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
 | 8 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.2k | Python | 100/100 |
 | 9 | [zeek/zeek](./zeek-zeek.md) | ⭐ 7.6k | C++ | 100/100 |
 | 10 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.2k | JavaScript | 100/100 |
@@ -35,66 +35,68 @@
 | 25 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.7k | Rust | 85/100 |
 | 26 | [Velocidex/velociraptor](./velocidex-velociraptor.md) | ⭐ 3.9k | Go | 85/100 |
 | 27 | [pocket-id/pocket-id](./pocket-id-pocket-id.md) | ⭐ 7.7k | Go | 84/100 |
-| 28 | [openziti/ziti](./openziti-ziti.md) | ⭐ 4.1k | Go | 83/100 |
-| 29 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4k | TypeScript | 83/100 |
+| 28 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4k | TypeScript | 83/100 |
+| 29 | [openziti/ziti](./openziti-ziti.md) | ⭐ 4.1k | Go | 83/100 |
 | 30 | [rizinorg/rizin](./rizinorg-rizin.md) | ⭐ 3.5k | C | 79/100 |
 | 31 | [zizmorcore/zizmor](./zizmorcore-zizmor.md) | ⭐ 4.3k | Rust | 78/100 |
 | 32 | [EnergizedProtection/block](./energizedprotection-block.md) | ⭐ 2.8k | — | 73/100 |
 | 33 | [rabbitstack/fibratus](./rabbitstack-fibratus.md) | ⭐ 2.4k | Go | 70/100 |
 | 34 | [jhaals/yopass](./jhaals-yopass.md) | ⭐ 2.7k | Go | 70/100 |
 | 35 | [lestrrat-go/jwx](./lestrrat-go-jwx.md) | ⭐ 2.4k | Go | 68/100 |
-| 36 | [vmoranv/jshookmcp](./vmoranv-jshookmcp.md) | ⭐ 1.3k | TypeScript | 65/100 |
-| 37 | [OpenAEV-Platform/openaev](./openaev-platform-openaev.md) | ⭐ 1.7k | Java | 64/100 |
-| 38 | [spring-projects/spring-security-samples](./spring-projects-spring-security-samples.md) | ⭐ 1.7k | Java | 64/100 |
-| 39 | [mthcht/awesome-lists](./mthcht-awesome-lists.md) | ⭐ 1.4k | YARA | 63/100 |
-| 40 | [naturalcrit/homebrewery](./naturalcrit-homebrewery.md) | ⭐ 1.3k | JavaScript | 62/100 |
-| 41 | [hectorm/otpauth](./hectorm-otpauth.md) | ⭐ 1.4k | JavaScript | 61/100 |
-| 42 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 60/100 |
-| 43 | [apache/casbin-rs](./apache-casbin-rs.md) | ⭐ 1.1k | Rust | 59/100 |
-| 44 | [Zibbp/ganymede](./zibbp-ganymede.md) | ⭐ 950 | Go | 57/100 |
-| 45 | [intigriti/misconfig-mapper](./intigriti-misconfig-mapper.md) | ⭐ 902 | Go | 57/100 |
-| 46 | [roddhjav/apparmor.d](./roddhjav-apparmor.d.md) | ⭐ 762 | Go | 57/100 |
-| 47 | [dogtagpki/pki](./dogtagpki-pki.md) | ⭐ 488 | Java | 56/100 |
-| 48 | [firewalla/firewalla](./firewalla-firewalla.md) | ⭐ 604 | JavaScript | 56/100 |
-| 49 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 1.1k | Rust | 56/100 |
-| 50 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 163 | Go | 55/100 |
-| 51 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 506 | JavaScript | 55/100 |
-| 52 | [lf-edge/eve](./lf-edge-eve.md) | ⭐ 544 | Go | 55/100 |
-| 53 | [ValueMelody/melody-auth](./valuemelody-melody-auth.md) | ⭐ 606 | TypeScript | 55/100 |
-| 54 | [DeepNotesApp/DeepNotes](./deepnotesapp-deepnotes.md) | ⭐ 595 | TypeScript | 55/100 |
-| 55 | [oxyno-zeta/s3-proxy](./oxyno-zeta-s3-proxy.md) | ⭐ 456 | Go | 54/100 |
-| 56 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 371 | Rust | 53/100 |
-| 57 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 316 | Python | 53/100 |
-| 58 | [rfc-st/humble](./rfc-st-humble.md) | ⭐ 361 | Python | 53/100 |
-| 59 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 323 | Python | 53/100 |
-| 60 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
-| 61 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 457 | Rust | 52/100 |
-| 62 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
-| 63 | [apache/casbin-caddy-authz](./apache-casbin-caddy-authz.md) | ⭐ 249 | Go | 52/100 |
+| 36 | [srixivas/PcapXray](./srixivas-pcapxray.md) | ⭐ 1.9k | Python | 67/100 |
+| 37 | [vmoranv/jshookmcp](./vmoranv-jshookmcp.md) | ⭐ 1.3k | TypeScript | 65/100 |
+| 38 | [OpenAEV-Platform/openaev](./openaev-platform-openaev.md) | ⭐ 1.7k | Java | 64/100 |
+| 39 | [spring-projects/spring-security-samples](./spring-projects-spring-security-samples.md) | ⭐ 1.7k | Java | 64/100 |
+| 40 | [mthcht/awesome-lists](./mthcht-awesome-lists.md) | ⭐ 1.4k | YARA | 63/100 |
+| 41 | [naturalcrit/homebrewery](./naturalcrit-homebrewery.md) | ⭐ 1.3k | JavaScript | 62/100 |
+| 42 | [hectorm/otpauth](./hectorm-otpauth.md) | ⭐ 1.4k | JavaScript | 61/100 |
+| 43 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 60/100 |
+| 44 | [apache/casbin-rs](./apache-casbin-rs.md) | ⭐ 1.1k | Rust | 59/100 |
+| 45 | [Zibbp/ganymede](./zibbp-ganymede.md) | ⭐ 950 | Go | 57/100 |
+| 46 | [intigriti/misconfig-mapper](./intigriti-misconfig-mapper.md) | ⭐ 902 | Go | 57/100 |
+| 47 | [roddhjav/apparmor.d](./roddhjav-apparmor.d.md) | ⭐ 762 | Go | 57/100 |
+| 48 | [dogtagpki/pki](./dogtagpki-pki.md) | ⭐ 488 | Java | 56/100 |
+| 49 | [firewalla/firewalla](./firewalla-firewalla.md) | ⭐ 604 | JavaScript | 56/100 |
+| 50 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 1.1k | Rust | 56/100 |
+| 51 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 163 | Go | 55/100 |
+| 52 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 506 | JavaScript | 55/100 |
+| 53 | [lf-edge/eve](./lf-edge-eve.md) | ⭐ 544 | Go | 55/100 |
+| 54 | [ValueMelody/melody-auth](./valuemelody-melody-auth.md) | ⭐ 606 | TypeScript | 55/100 |
+| 55 | [DeepNotesApp/DeepNotes](./deepnotesapp-deepnotes.md) | ⭐ 595 | TypeScript | 55/100 |
+| 56 | [oxyno-zeta/s3-proxy](./oxyno-zeta-s3-proxy.md) | ⭐ 456 | Go | 54/100 |
+| 57 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 371 | Rust | 53/100 |
+| 58 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 316 | Python | 53/100 |
+| 59 | [rfc-st/humble](./rfc-st-humble.md) | ⭐ 361 | Python | 53/100 |
+| 60 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 323 | Python | 53/100 |
+| 61 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
+| 62 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 457 | Rust | 52/100 |
+| 63 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
 | 64 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 252 | Go | 52/100 |
-| 65 | [theopenlane/core](./theopenlane-core.md) | ⭐ 241 | Go | 52/100 |
-| 66 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 612 | Go | 52/100 |
-| 67 | [ohaswin/pyscan](./ohaswin-pyscan.md) | ⭐ 239 | Rust | 52/100 |
-| 68 | [yaklang/yaklang](./yaklang-yaklang.md) | ⭐ 540 | Go | 51/100 |
-| 69 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
-| 70 | [Karib0u/rustinel](./karib0u-rustinel.md) | ⭐ 112 | Rust | 51/100 |
-| 71 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 167 | Go | 51/100 |
-| 72 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 51/100 |
-| 73 | [Snowflake-Labs/sansshell](./snowflake-labs-sansshell.md) | ⭐ 122 | Go | 49/100 |
-| 74 | [cloudflare/svg-hush](./cloudflare-svg-hush.md) | ⭐ 420 | Rust | 48/100 |
-| 75 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 758 | — | 47/100 |
-| 76 | [falcosecurity/plugins](./falcosecurity-plugins.md) | ⭐ 114 | Go | 47/100 |
-| 77 | [mytech-today-now/OO](./mytech-today-now-oo.md) | ⭐ 3 | PowerShell | 46/100 |
-| 78 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 496 | Go | 45/100 |
-| 79 | [Tatsh/dbeaver-creds](./tatsh-dbeaver-creds.md) | ⭐ 33 | PowerShell | 45/100 |
-| 80 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 453 | — | 44/100 |
-| 81 | [FanTranslatorsInternational/Kuriimu2](./fantranslatorsinternational-kuriimu2.md) | ⭐ 408 | C# | 44/100 |
-| 82 | [himself65/auth-spec](./himself65-auth-spec.md) | ⭐ 21 | TypeScript | 44/100 |
-| 83 | [facebookincubator/TTPForge](./facebookincubator-ttpforge.md) | ⭐ 420 | Go | 44/100 |
-| 84 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 245 | Rust | 43/100 |
-| 85 | [nuxt/hints](./nuxt-hints.md) | ⭐ 334 | TypeScript | 43/100 |
-| 86 | [bartei/git-agecrypt](./bartei-git-agecrypt.md) | ⭐ 3 | Rust | 42/100 |
-| 87 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
+| 65 | [apache/casbin-caddy-authz](./apache-casbin-caddy-authz.md) | ⭐ 249 | Go | 52/100 |
+| 66 | [theopenlane/core](./theopenlane-core.md) | ⭐ 241 | Go | 52/100 |
+| 67 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 612 | Go | 52/100 |
+| 68 | [LinOTP/LinOTP](./linotp-linotp.md) | ⭐ 546 | Python | 52/100 |
+| 69 | [ohaswin/pyscan](./ohaswin-pyscan.md) | ⭐ 239 | Rust | 52/100 |
+| 70 | [yaklang/yaklang](./yaklang-yaklang.md) | ⭐ 540 | Go | 51/100 |
+| 71 | [Karib0u/rustinel](./karib0u-rustinel.md) | ⭐ 112 | Rust | 51/100 |
+| 72 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
+| 73 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 167 | Go | 51/100 |
+| 74 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 51/100 |
+| 75 | [Snowflake-Labs/sansshell](./snowflake-labs-sansshell.md) | ⭐ 122 | Go | 49/100 |
+| 76 | [cloudflare/svg-hush](./cloudflare-svg-hush.md) | ⭐ 420 | Rust | 48/100 |
+| 77 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 758 | — | 47/100 |
+| 78 | [falcosecurity/plugins](./falcosecurity-plugins.md) | ⭐ 114 | Go | 47/100 |
+| 79 | [mytech-today-now/OO](./mytech-today-now-oo.md) | ⭐ 3 | PowerShell | 46/100 |
+| 80 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 497 | Go | 45/100 |
+| 81 | [Tatsh/dbeaver-creds](./tatsh-dbeaver-creds.md) | ⭐ 33 | PowerShell | 45/100 |
+| 82 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 453 | — | 44/100 |
+| 83 | [FanTranslatorsInternational/Kuriimu2](./fantranslatorsinternational-kuriimu2.md) | ⭐ 408 | C# | 44/100 |
+| 84 | [himself65/auth-spec](./himself65-auth-spec.md) | ⭐ 21 | TypeScript | 44/100 |
+| 85 | [facebookincubator/TTPForge](./facebookincubator-ttpforge.md) | ⭐ 420 | Go | 44/100 |
+| 86 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 245 | Rust | 43/100 |
+| 87 | [nuxt/hints](./nuxt-hints.md) | ⭐ 334 | TypeScript | 43/100 |
+| 88 | [bartei/git-agecrypt](./bartei-git-agecrypt.md) | ⭐ 4 | Rust | 42/100 |
+| 89 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
 
 ---
 

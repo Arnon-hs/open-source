@@ -1,6 +1,6 @@
 # qxcnm/Codex-Manager
 
-[![Stars](https://img.shields.io/github/stars/qxcnm/Codex-Manager?style=flat-square&color=yellow)](https://github.com/qxcnm/Codex-Manager/stargazers) [![Forks](https://img.shields.io/github/forks/qxcnm/Codex-Manager?style=flat-square&color=blue)](https://github.com/qxcnm/Codex-Manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qxcnm/Codex-Manager?style=flat-square&color=yellow)](https://github.com/qxcnm/Codex-Manager/stargazers) [![Forks](https://img.shields.io/github/forks/qxcnm/Codex-Manager?style=flat-square&color=blue)](https://github.com/qxcnm/Codex-Manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 229 |
+| 🍴 **Forks** | 230 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

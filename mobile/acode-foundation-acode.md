@@ -1,6 +1,6 @@
 # Acode-Foundation/Acode
 
-[![Stars](https://img.shields.io/github/stars/Acode-Foundation/Acode?style=flat-square&color=yellow)](https://github.com/Acode-Foundation/Acode/stargazers) [![Forks](https://img.shields.io/github/forks/Acode-Foundation/Acode?style=flat-square&color=blue)](https://github.com/Acode-Foundation/Acode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Acode-Foundation/Acode?style=flat-square&color=yellow)](https://github.com/Acode-Foundation/Acode/stargazers) [![Forks](https://img.shields.io/github/forks/Acode-Foundation/Acode?style=flat-square&color=blue)](https://github.com/Acode-Foundation/Acode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
 > Acode - powerful text/code editor for android
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.2k |
-| 🍴 **Forks** | 982 |
+| 🍴 **Forks** | 984 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 93/100 |
+| 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

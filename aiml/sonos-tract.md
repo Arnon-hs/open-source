@@ -1,6 +1,6 @@
 # sonos/tract
 
-[![Stars](https://img.shields.io/github/stars/sonos/tract?style=flat-square&color=yellow)](https://github.com/sonos/tract/stargazers) [![Forks](https://img.shields.io/github/forks/sonos/tract?style=flat-square&color=blue)](https://github.com/sonos/tract/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sonos/tract?style=flat-square&color=yellow)](https://github.com/sonos/tract/stargazers) [![Forks](https://img.shields.io/github/forks/sonos/tract?style=flat-square&color=blue)](https://github.com/sonos/tract/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 255 |
+| 🍴 **Forks** | 256 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

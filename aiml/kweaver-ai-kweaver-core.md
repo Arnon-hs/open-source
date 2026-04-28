@@ -1,6 +1,6 @@
 # kweaver-ai/kweaver-core
 
-[![Stars](https://img.shields.io/github/stars/kweaver-ai/kweaver-core?style=flat-square&color=yellow)](https://github.com/kweaver-ai/kweaver-core/stargazers) [![Forks](https://img.shields.io/github/forks/kweaver-ai/kweaver-core?style=flat-square&color=blue)](https://github.com/kweaver-ai/kweaver-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kweaver-ai/kweaver-core?style=flat-square&color=yellow)](https://github.com/kweaver-ai/kweaver-core/stargazers) [![Forks](https://img.shields.io/github/forks/kweaver-ai/kweaver-core?style=flat-square&color=blue)](https://github.com/kweaver-ai/kweaver-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > KWeaver Core is a harness-first foundation for enterprise decision agents. It turns fragmented data, knowledge, tools, and policies into governed context, safe execution, and verifiable feedback loops. With semantic modeling, real-time access, runtime control, and TraceAI, it helps AI systems reason, adapt, and act reliable in complex enterprises.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 619 |
-| 🍴 **Forks** | 77 |
+| ⭐ **Stars** | 620 |
+| 🍴 **Forks** | 78 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

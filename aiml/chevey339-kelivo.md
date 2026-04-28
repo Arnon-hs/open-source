@@ -1,6 +1,6 @@
 # Chevey339/kelivo
 
-[![Stars](https://img.shields.io/github/stars/Chevey339/kelivo?style=flat-square&color=yellow)](https://github.com/Chevey339/kelivo/stargazers) [![Forks](https://img.shields.io/github/forks/Chevey339/kelivo?style=flat-square&color=blue)](https://github.com/Chevey339/kelivo/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chevey339/kelivo?style=flat-square&color=yellow)](https://github.com/Chevey339/kelivo/stargazers) [![Forks](https://img.shields.io/github/forks/Chevey339/kelivo?style=flat-square&color=blue)](https://github.com/Chevey339/kelivo/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A Flutter LLM Chat Client. Support Mobile & Desktop.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 230 |
+| 🍴 **Forks** | 231 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

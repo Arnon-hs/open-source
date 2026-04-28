@@ -1,6 +1,6 @@
 # danielrosehill/Claude-Code-Projects-Index
 
-[![Stars](https://img.shields.io/github/stars/danielrosehill/Claude-Code-Projects-Index?style=flat-square&color=yellow)](https://github.com/danielrosehill/Claude-Code-Projects-Index/stargazers) [![Forks](https://img.shields.io/github/forks/danielrosehill/Claude-Code-Projects-Index?style=flat-square&color=blue)](https://github.com/danielrosehill/Claude-Code-Projects-Index/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danielrosehill/Claude-Code-Projects-Index?style=flat-square&color=yellow)](https://github.com/danielrosehill/Claude-Code-Projects-Index/stargazers) [![Forks](https://img.shields.io/github/forks/danielrosehill/Claude-Code-Projects-Index?style=flat-square&color=blue)](https://github.com/danielrosehill/Claude-Code-Projects-Index/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An index of my Claude Code related repos including a wide variety of starter templates for using Claude Code for common and more imaginative purposes!
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 415 |
+| ⭐ **Stars** | 417 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

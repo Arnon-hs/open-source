@@ -1,6 +1,6 @@
 # igoropaniuk/stonks-cli
 
-[![Stars](https://img.shields.io/github/stars/igoropaniuk/stonks-cli?style=flat-square&color=yellow)](https://github.com/igoropaniuk/stonks-cli/stargazers) [![Forks](https://img.shields.io/github/forks/igoropaniuk/stonks-cli?style=flat-square&color=blue)](https://github.com/igoropaniuk/stonks-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/igoropaniuk/stonks-cli?style=flat-square&color=yellow)](https://github.com/igoropaniuk/stonks-cli/stargazers) [![Forks](https://img.shields.io/github/forks/igoropaniuk/stonks-cli?style=flat-square&color=blue)](https://github.com/igoropaniuk/stonks-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal investment portfolio tracker with live prices, P&L, stock financials, candlestick charts, news feed and AI chat bot
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

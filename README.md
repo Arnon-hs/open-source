@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **9590** |
+| 🗂️ **Total projects** | **9664** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,21 +18,21 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3691 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1791 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 960 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 796 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 564 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 550 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 342 | [Browse →](./crypto/) |
-| 📊 **Data** | 207 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 191 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 126 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 3721 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1805 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 966 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 799 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 571 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 555 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 344 | [Browse →](./crypto/) |
+| 📊 **Data** | 208 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 192 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 127 | [Browse →](./mobile/) |
 | 💳 **Payments** | 115 | [Browse →](./payments/) |
-| 📈 **Trading** | 97 | [Browse →](./trading/) |
-| 🔐 **Security** | 87 | [Browse →](./security/) |
+| 📈 **Trading** | 98 | [Browse →](./trading/) |
+| 🔐 **Security** | 89 | [Browse →](./security/) |
 | ✨ **Design** | 32 | [Browse →](./design/) |
-| 🎯 **Product** | 23 | [Browse →](./product/) |
+| 🎯 **Product** | 24 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 18 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [temporalio/temporal](./orchestration/temporalio-temporal.md) | ⭐ 19.9k | Orchestration |
-| 2 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 3 | [bytecodealliance/wasmtime](./misc/bytecodealliance-wasmtime.md) | ⭐ 17.9k | Misc |
-| 4 | [dagster-io/dagster](./orchestration/dagster-io-dagster.md) | ⭐ 15.4k | Orchestration |
-| 5 | [MarlinFirmware/Marlin](./frontend/marlinfirmware-marlin.md) | ⭐ 17.4k | Frontend |
-| 6 | [Stellarium/stellarium](./aiml/stellarium-stellarium.md) | ⭐ 9.6k | AI/ML |
-| 7 | [x-extends/vxe-table](./frontend/x-extends-vxe-table.md) | ⭐ 8.6k | Frontend |
-| 8 | [elizaOS/eliza](./crypto/elizaos-eliza.md) | ⭐ 18.3k | Crypto |
-| 9 | [huggingface/transformers](./crypto/huggingface-transformers.md) | ⭐ 160k | Crypto |
-| 10 | [gruntwork-io/terratest](./devtools/gruntwork-io-terratest.md) | ⭐ 7.9k | DevTools |
+| 2 | [alibaba/MNN](./aiml/alibaba-mnn.md) | ⭐ 15k | AI/ML |
+| 3 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 36.2k | Orchestration |
+| 4 | [hesreallyhim/awesome-claude-code](./orchestration/hesreallyhim-awesome-claude-code.md) | ⭐ 41.6k | Orchestration |
+| 5 | [googleworkspace/cli](./orchestration/googleworkspace-cli.md) | ⭐ 25.5k | Orchestration |
+| 6 | [labring/FastGPT](./orchestration/labring-fastgpt.md) | ⭐ 27.9k | Orchestration |
+| 7 | [foundry-rs/foundry](./crypto/foundry-rs-foundry.md) | ⭐ 10.3k | Crypto |
+| 8 | [JackChen-me/open-multi-agent](./orchestration/jackchen-me-open-multi-agent.md) | ⭐ 5.9k | Orchestration |
+| 9 | [spree/spree](./backend/spree-spree.md) | ⭐ 15.4k | Backend |
+| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
 
 ## 🚀 How it works
 

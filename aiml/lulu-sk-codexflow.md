@@ -1,6 +1,6 @@
 # lulu-sk/CodexFlow
 
-[![Stars](https://img.shields.io/github/stars/lulu-sk/CodexFlow?style=flat-square&color=yellow)](https://github.com/lulu-sk/CodexFlow/stargazers) [![Forks](https://img.shields.io/github/forks/lulu-sk/CodexFlow?style=flat-square&color=blue)](https://github.com/lulu-sk/CodexFlow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lulu-sk/CodexFlow?style=flat-square&color=yellow)](https://github.com/lulu-sk/CodexFlow/stargazers) [![Forks](https://img.shields.io/github/forks/lulu-sk/CodexFlow?style=flat-square&color=blue)](https://github.com/lulu-sk/CodexFlow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > CodexFlow is a unified desktop workbench for AI coding agents (Codex/Claude/Gemini) across Windows and WSL. Organize chats by project, run parallel tasks via Git worktrees, build rich prompts with files/@refs, and resume any session in one click.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 63 |
-| 🍴 **Forks** | 3 |
+| 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

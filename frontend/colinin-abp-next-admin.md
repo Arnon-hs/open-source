@@ -1,6 +1,6 @@
 # colinin/abp-next-admin
 
-[![Stars](https://img.shields.io/github/stars/colinin/abp-next-admin?style=flat-square&color=yellow)](https://github.com/colinin/abp-next-admin/stargazers) [![Forks](https://img.shields.io/github/forks/colinin/abp-next-admin?style=flat-square&color=blue)](https://github.com/colinin/abp-next-admin/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/colinin/abp-next-admin?style=flat-square&color=yellow)](https://github.com/colinin/abp-next-admin/stargazers) [![Forks](https://img.shields.io/github/forks/colinin/abp-next-admin?style=flat-square&color=blue)](https://github.com/colinin/abp-next-admin/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 这是基于vue-vben-admin 模板适用于abp vNext的前端管理项目
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

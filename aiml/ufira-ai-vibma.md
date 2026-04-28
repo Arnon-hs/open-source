@@ -1,6 +1,6 @@
 # ufira-ai/Vibma
 
-[![Stars](https://img.shields.io/github/stars/ufira-ai/Vibma?style=flat-square&color=yellow)](https://github.com/ufira-ai/Vibma/stargazers) [![Forks](https://img.shields.io/github/forks/ufira-ai/Vibma?style=flat-square&color=blue)](https://github.com/ufira-ai/Vibma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ufira-ai/Vibma?style=flat-square&color=yellow)](https://github.com/ufira-ai/Vibma/stargazers) [![Forks](https://img.shields.io/github/forks/ufira-ai/Vibma?style=flat-square&color=blue)](https://github.com/ufira-ai/Vibma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Vibe Design meets Figma. Let AI agents design directly in Figma.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 579 |
+| ⭐ **Stars** | 578 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

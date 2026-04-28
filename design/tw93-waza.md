@@ -1,6 +1,6 @@
 # tw93/Waza
 
-[![Stars](https://img.shields.io/github/stars/tw93/Waza?style=flat-square&color=yellow)](https://github.com/tw93/Waza/stargazers) [![Forks](https://img.shields.io/github/forks/tw93/Waza?style=flat-square&color=blue)](https://github.com/tw93/Waza/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tw93/Waza?style=flat-square&color=yellow)](https://github.com/tw93/Waza/stargazers) [![Forks](https://img.shields.io/github/forks/tw93/Waza?style=flat-square&color=blue)](https://github.com/tw93/Waza/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > 🥷 Engineering habits you already know, turned into skills Claude can run.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.1k |
-| 🍴 **Forks** | 253 |
+| 🍴 **Forks** | 254 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

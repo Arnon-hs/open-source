@@ -1,6 +1,6 @@
 # AgentEra/Agently
 
-[![Stars](https://img.shields.io/github/stars/AgentEra/Agently?style=flat-square&color=yellow)](https://github.com/AgentEra/Agently/stargazers) [![Forks](https://img.shields.io/github/forks/AgentEra/Agently?style=flat-square&color=blue)](https://github.com/AgentEra/Agently/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgentEra/Agently?style=flat-square&color=yellow)](https://github.com/AgentEra/Agently/stargazers) [![Forks](https://img.shields.io/github/forks/AgentEra/Agently?style=flat-square&color=blue)](https://github.com/AgentEra/Agently/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent in code using structure data and chained-calls syntax 🧩 Use Event-Driven Flow *TriggerFlow* to manage complex GenAI working logic 🔀 Switch to any model without rewrite application code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
