@@ -1,6 +1,6 @@
 # px7nn/px7-radio
 
-[![Stars](https://img.shields.io/github/stars/px7nn/px7-radio?style=flat-square&color=yellow)](https://github.com/px7nn/px7-radio/stargazers) [![Forks](https://img.shields.io/github/forks/px7nn/px7-radio?style=flat-square&color=blue)](https://github.com/px7nn/px7-radio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/px7nn/px7-radio?style=flat-square&color=yellow)](https://github.com/px7nn/px7-radio/stargazers) [![Forks](https://img.shields.io/github/forks/px7nn/px7-radio?style=flat-square&color=blue)](https://github.com/px7nn/px7-radio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal, fast alternative to heavy music apps — built for the terminal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

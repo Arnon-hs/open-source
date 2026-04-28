@@ -1,6 +1,6 @@
 # Broomy-AI/broomy
 
-[![Stars](https://img.shields.io/github/stars/Broomy-AI/broomy?style=flat-square&color=yellow)](https://github.com/Broomy-AI/broomy/stargazers) [![Forks](https://img.shields.io/github/forks/Broomy-AI/broomy?style=flat-square&color=blue)](https://github.com/Broomy-AI/broomy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Broomy-AI/broomy?style=flat-square&color=yellow)](https://github.com/Broomy-AI/broomy/stargazers) [![Forks](https://img.shields.io/github/forks/Broomy-AI/broomy?style=flat-square&color=blue)](https://github.com/Broomy-AI/broomy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Tool for making it easy to work with lots of AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

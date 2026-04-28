@@ -1,6 +1,6 @@
 # hypersocialinc/shots
 
-[![Stars](https://img.shields.io/github/stars/hypersocialinc/shots?style=flat-square&color=yellow)](https://github.com/hypersocialinc/shots/stargazers) [![Forks](https://img.shields.io/github/forks/hypersocialinc/shots?style=flat-square&color=blue)](https://github.com/hypersocialinc/shots/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hypersocialinc/shots?style=flat-square&color=yellow)](https://github.com/hypersocialinc/shots/stargazers) [![Forks](https://img.shields.io/github/forks/hypersocialinc/shots?style=flat-square&color=blue)](https://github.com/hypersocialinc/shots/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 85 |
-| 🍴 **Forks** | 10 |
+| ⭐ **Stars** | 91 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

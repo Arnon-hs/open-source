@@ -1,6 +1,6 @@
 # tddworks/asc-cli
 
-[![Stars](https://img.shields.io/github/stars/tddworks/asc-cli?style=flat-square&color=yellow)](https://github.com/tddworks/asc-cli/stargazers) [![Forks](https://img.shields.io/github/forks/tddworks/asc-cli?style=flat-square&color=blue)](https://github.com/tddworks/asc-cli/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tddworks/asc-cli?style=flat-square&color=yellow)](https://github.com/tddworks/asc-cli/stargazers) [![Forks](https://img.shields.io/github/forks/tddworks/asc-cli?style=flat-square&color=blue)](https://github.com/tddworks/asc-cli/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > App Store Connect from your terminal & Agents. A Swift CLI for managing your iOS and macOS apps on App Store Connect. Submit versions, manage screenshots, track builds — with full AI-agent support via CAEOAS affordances.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 169 |
-| 🍴 **Forks** | 21 |
+| ⭐ **Stars** | 170 |
+| 🍴 **Forks** | 22 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

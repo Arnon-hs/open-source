@@ -1,6 +1,6 @@
 # facil-io/cstl
 
-[![Stars](https://img.shields.io/github/stars/facil-io/cstl?style=flat-square&color=yellow)](https://github.com/facil-io/cstl/stargazers) [![Forks](https://img.shields.io/github/forks/facil-io/cstl?style=flat-square&color=blue)](https://github.com/facil-io/cstl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facil-io/cstl?style=flat-square&color=yellow)](https://github.com/facil-io/cstl/stargazers) [![Forks](https://img.shields.io/github/forks/facil-io/cstl?style=flat-square&color=blue)](https://github.com/facil-io/cstl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > facil.io C STL - a Server Toolbox Library for C, including JSON processing, hash maps, dynamic arrays, binary strings and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | C |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

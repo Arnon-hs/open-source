@@ -1,6 +1,6 @@
 # ckotzbauer/sbom-operator
 
-[![Stars](https://img.shields.io/github/stars/ckotzbauer/sbom-operator?style=flat-square&color=yellow)](https://github.com/ckotzbauer/sbom-operator/stargazers) [![Forks](https://img.shields.io/github/forks/ckotzbauer/sbom-operator?style=flat-square&color=blue)](https://github.com/ckotzbauer/sbom-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ckotzbauer/sbom-operator?style=flat-square&color=yellow)](https://github.com/ckotzbauer/sbom-operator/stargazers) [![Forks](https://img.shields.io/github/forks/ckotzbauer/sbom-operator?style=flat-square&color=blue)](https://github.com/ckotzbauer/sbom-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Catalogue all images of a Kubernetes cluster to multiple targets with Syft
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

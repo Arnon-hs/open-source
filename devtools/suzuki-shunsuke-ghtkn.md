@@ -1,6 +1,6 @@
 # suzuki-shunsuke/ghtkn
 
-[![Stars](https://img.shields.io/github/stars/suzuki-shunsuke/ghtkn?style=flat-square&color=yellow)](https://github.com/suzuki-shunsuke/ghtkn/stargazers) [![Forks](https://img.shields.io/github/forks/suzuki-shunsuke/ghtkn?style=flat-square&color=blue)](https://github.com/suzuki-shunsuke/ghtkn/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suzuki-shunsuke/ghtkn?style=flat-square&color=yellow)](https://github.com/suzuki-shunsuke/ghtkn/stargazers) [![Forks](https://img.shields.io/github/forks/suzuki-shunsuke/ghtkn?style=flat-square&color=blue)](https://github.com/suzuki-shunsuke/ghtkn/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI to create short-lived (8 hours) GitHub App User Access Token for secure local development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

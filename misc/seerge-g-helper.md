@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/seerge/g-helper?style=flat-square&color=yellow)](https://github.com/seerge/g-helper/stargazers) [![Forks](https://img.shields.io/github/forks/seerge/g-helper?style=flat-square&color=blue)](https://github.com/seerge/g-helper/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
 
-> Lightweight, open-source control tool for ASUS laptops and ROG Ally. Manage performance modes, fans, GPU, battery, and RGB lighting across Zephyrus, Flow, TUF, Strix, Scar, and other models.
+> The control app every laptop should come with. G-Helper is a fast, native tool for tuning performance, fans, GPU, battery, and RGB on any Asus laptop or handheld - ROG Zephyrus, Flow, Strix, Scar, TUF, Vivobook, Zenbook, ProArt, ROG Ally, and beyond.
 
 ## 📊 Stats
 

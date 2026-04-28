@@ -1,6 +1,6 @@
 # ReaperProtocol/Reaper
 
-[![Stars](https://img.shields.io/github/stars/ReaperProtocol/Reaper?style=flat-square&color=yellow)](https://github.com/ReaperProtocol/Reaper/stargazers) [![Forks](https://img.shields.io/github/forks/ReaperProtocol/Reaper?style=flat-square&color=blue)](https://github.com/ReaperProtocol/Reaper/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ReaperProtocol/Reaper?style=flat-square&color=yellow)](https://github.com/ReaperProtocol/Reaper/stargazers) [![Forks](https://img.shields.io/github/forks/ReaperProtocol/Reaper?style=flat-square&color=blue)](https://github.com/ReaperProtocol/Reaper/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Liquidation risk monitor for Solana DeFi. Scans Kamino, MarginFi, and Drift for positions approaching liquidation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

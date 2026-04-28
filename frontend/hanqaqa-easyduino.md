@@ -1,6 +1,6 @@
 # Hanqaqa/Easyduino
 
-[![Stars](https://img.shields.io/github/stars/Hanqaqa/Easyduino?style=flat-square&color=yellow)](https://github.com/Hanqaqa/Easyduino/stargazers) [![Forks](https://img.shields.io/github/forks/Hanqaqa/Easyduino?style=flat-square&color=blue)](https://github.com/Hanqaqa/Easyduino/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hanqaqa/Easyduino?style=flat-square&color=yellow)](https://github.com/Hanqaqa/Easyduino/stargazers) [![Forks](https://img.shields.io/github/forks/Hanqaqa/Easyduino?style=flat-square&color=blue)](https://github.com/Hanqaqa/Easyduino/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Easily dive into different PCB KiCad designs of the most popular microcontroller devboards
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 463 |
+| ⭐ **Stars** | 482 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

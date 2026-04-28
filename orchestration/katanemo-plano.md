@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/katanemo/plano?style=flat-square&color=yellow)](https://github.com/katanemo/plano/stargazers) [![Forks](https://img.shields.io/github/forks/katanemo/plano?style=flat-square&color=blue)](https://github.com/katanemo/plano/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
-> Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
+> Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic. Now part of DigitalOcean's AI-Native Cloud.
 
 ## 📊 Stats
 

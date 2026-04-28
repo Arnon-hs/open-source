@@ -1,6 +1,6 @@
 # zhiburt/tabled
 
-[![Stars](https://img.shields.io/github/stars/zhiburt/tabled?style=flat-square&color=yellow)](https://github.com/zhiburt/tabled/stargazers) [![Forks](https://img.shields.io/github/forks/zhiburt/tabled?style=flat-square&color=blue)](https://github.com/zhiburt/tabled/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhiburt/tabled?style=flat-square&color=yellow)](https://github.com/zhiburt/tabled/stargazers) [![Forks](https://img.shields.io/github/forks/zhiburt/tabled?style=flat-square&color=blue)](https://github.com/zhiburt/tabled/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > An easy to use library for pretty print tables of Rust structs and enums.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

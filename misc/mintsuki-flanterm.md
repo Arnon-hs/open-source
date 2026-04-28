@@ -1,6 +1,6 @@
 # Mintsuki/Flanterm
 
-[![Stars](https://img.shields.io/github/stars/Mintsuki/Flanterm?style=flat-square&color=yellow)](https://github.com/Mintsuki/Flanterm/stargazers) [![Forks](https://img.shields.io/github/forks/Mintsuki/Flanterm?style=flat-square&color=blue)](https://github.com/Mintsuki/Flanterm/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mintsuki/Flanterm?style=flat-square&color=yellow)](https://github.com/Mintsuki/Flanterm/stargazers) [![Forks](https://img.shields.io/github/forks/Mintsuki/Flanterm?style=flat-square&color=blue)](https://github.com/Mintsuki/Flanterm/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Fast and reasonably complete (framebuffer) terminal emulator.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | C |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

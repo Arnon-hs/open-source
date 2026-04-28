@@ -1,6 +1,6 @@
 # theniceboy/.config
 
-[![Stars](https://img.shields.io/github/stars/theniceboy/.config?style=flat-square&color=yellow)](https://github.com/theniceboy/.config/stargazers) [![Forks](https://img.shields.io/github/forks/theniceboy/.config?style=flat-square&color=blue)](https://github.com/theniceboy/.config/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/theniceboy/.config?style=flat-square&color=yellow)](https://github.com/theniceboy/.config/stargazers) [![Forks](https://img.shields.io/github/forks/theniceboy/.config?style=flat-square&color=blue)](https://github.com/theniceboy/.config/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > My dotfiles
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 665 |
 | 🍴 **Forks** | 247 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

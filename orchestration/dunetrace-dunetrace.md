@@ -1,6 +1,6 @@
 # dunetrace/dunetrace
 
-[![Stars](https://img.shields.io/github/stars/dunetrace/dunetrace?style=flat-square&color=yellow)](https://github.com/dunetrace/dunetrace/stargazers) [![Forks](https://img.shields.io/github/forks/dunetrace/dunetrace?style=flat-square&color=blue)](https://github.com/dunetrace/dunetrace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dunetrace/dunetrace?style=flat-square&color=yellow)](https://github.com/dunetrace/dunetrace/stargazers) [![Forks](https://img.shields.io/github/forks/dunetrace/dunetrace?style=flat-square&color=blue)](https://github.com/dunetrace/dunetrace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Real time anomaly detection layer for AI agents. Privacy-safe by design.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

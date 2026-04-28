@@ -1,6 +1,6 @@
 # tailscale-dev/ScaleTail
 
-[![Stars](https://img.shields.io/github/stars/tailscale-dev/ScaleTail?style=flat-square&color=yellow)](https://github.com/tailscale-dev/ScaleTail/stargazers) [![Forks](https://img.shields.io/github/forks/tailscale-dev/ScaleTail?style=flat-square&color=blue)](https://github.com/tailscale-dev/ScaleTail/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tailscale-dev/ScaleTail?style=flat-square&color=yellow)](https://github.com/tailscale-dev/ScaleTail/stargazers) [![Forks](https://img.shields.io/github/forks/tailscale-dev/ScaleTail?style=flat-square&color=blue)](https://github.com/tailscale-dev/ScaleTail/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Tailscale Sidecar Configurations for Docker
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 98 |
+| 🍴 **Forks** | 99 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

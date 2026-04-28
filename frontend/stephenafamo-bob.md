@@ -1,6 +1,6 @@
 # stephenafamo/bob
 
-[![Stars](https://img.shields.io/github/stars/stephenafamo/bob?style=flat-square&color=yellow)](https://github.com/stephenafamo/bob/stargazers) [![Forks](https://img.shields.io/github/forks/stephenafamo/bob?style=flat-square&color=blue)](https://github.com/stephenafamo/bob/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stephenafamo/bob?style=flat-square&color=yellow)](https://github.com/stephenafamo/bob/stargazers) [![Forks](https://img.shields.io/github/forks/stephenafamo/bob?style=flat-square&color=blue)](https://github.com/stephenafamo/bob/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

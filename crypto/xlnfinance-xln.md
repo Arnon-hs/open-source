@@ -1,6 +1,6 @@
 # xlnfinance/xln
 
-[![Stars](https://img.shields.io/github/stars/xlnfinance/xln?style=flat-square&color=yellow)](https://github.com/xlnfinance/xln/stargazers) [![Forks](https://img.shields.io/github/forks/xlnfinance/xln?style=flat-square&color=blue)](https://github.com/xlnfinance/xln/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xlnfinance/xln?style=flat-square&color=yellow)](https://github.com/xlnfinance/xln/stargazers) [![Forks](https://img.shields.io/github/forks/xlnfinance/xln?style=flat-square&color=blue)](https://github.com/xlnfinance/xln/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and future CBDC jurisdictions—unicast O(1) per hop, link-capped risk, local state, sovereign exits.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

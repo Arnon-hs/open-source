@@ -1,6 +1,6 @@
 # nokodo-labs/os1
 
-[![Stars](https://img.shields.io/github/stars/nokodo-labs/os1?style=flat-square&color=yellow)](https://github.com/nokodo-labs/os1/stargazers) [![Forks](https://img.shields.io/github/forks/nokodo-labs/os1?style=flat-square&color=blue)](https://github.com/nokodo-labs/os1/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nokodo-labs/os1?style=flat-square&color=yellow)](https://github.com/nokodo-labs/os1/stargazers) [![Forks](https://img.shields.io/github/forks/nokodo-labs/os1?style=flat-square&color=blue)](https://github.com/nokodo-labs/os1/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > the next-gen open source AI platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 186 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **10684** |
+| 🗂️ **Total projects** | **10751** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4125 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2012 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1052 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 859 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 637 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 622 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 386 | [Browse →](./crypto/) |
-| 📊 **Data** | 235 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 219 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 132 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 4147 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2030 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1059 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 861 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 643 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 624 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 388 | [Browse →](./crypto/) |
+| 📊 **Data** | 236 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 222 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 133 | [Browse →](./mobile/) |
 | 💳 **Payments** | 123 | [Browse →](./payments/) |
-| 📈 **Trading** | 106 | [Browse →](./trading/) |
-| 🔐 **Security** | 95 | [Browse →](./security/) |
+| 📈 **Trading** | 107 | [Browse →](./trading/) |
+| 🔐 **Security** | 96 | [Browse →](./security/) |
 | ✨ **Design** | 36 | [Browse →](./design/) |
 | 🎯 **Product** | 25 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 20 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 21 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [fatedier/frp](./backend/fatedier-frp.md) | ⭐ 106.1k | Backend |
-| 2 | [coollabsio/coolify](./backend/coollabsio-coolify.md) | ⭐ 54.3k | Backend |
-| 3 | [roboflow/supervision](./misc/roboflow-supervision.md) | ⭐ 38.2k | Misc |
-| 4 | [CherryHQ/cherry-studio](./aiml/cherryhq-cherry-studio.md) | ⭐ 44.7k | AI/ML |
-| 5 | [RIOT-OS/RIOT](./misc/riot-os-riot.md) | ⭐ 5.7k | Misc |
-| 6 | [unslothai/unsloth](./aiml/unslothai-unsloth.md) | ⭐ 63.2k | AI/ML |
-| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 8 | [sktime/sktime](./aiml/sktime-sktime.md) | ⭐ 9.7k | AI/ML |
-| 9 | [locustio/locust](./aiml/locustio-locust.md) | ⭐ 27.7k | AI/ML |
-| 10 | [assistant-ui/assistant-ui](./aiml/assistant-ui-assistant-ui.md) | ⭐ 9.8k | AI/ML |
+| 1 | [apache/hudi](./data/apache-hudi.md) | ⭐ 6.2k | Data |
+| 2 | [go-acme/lego](./devtools/go-acme-lego.md) | ⭐ 9.5k | DevTools |
+| 3 | [fatedier/frp](./backend/fatedier-frp.md) | ⭐ 106.1k | Backend |
+| 4 | [coollabsio/coolify](./backend/coollabsio-coolify.md) | ⭐ 54.3k | Backend |
+| 5 | [roboflow/supervision](./misc/roboflow-supervision.md) | ⭐ 38.2k | Misc |
+| 6 | [CherryHQ/cherry-studio](./aiml/cherryhq-cherry-studio.md) | ⭐ 44.7k | AI/ML |
+| 7 | [RIOT-OS/RIOT](./misc/riot-os-riot.md) | ⭐ 5.7k | Misc |
+| 8 | [jhipster/generator-jhipster](./frontend/jhipster-generator-jhipster.md) | ⭐ 22.4k | Frontend |
+| 9 | [apache/apisix](./aiml/apache-apisix.md) | ⭐ 16.5k | AI/ML |
+| 10 | [apache/shardingsphere](./data/apache-shardingsphere.md) | ⭐ 20.7k | Data |
 
 ## 🚀 How it works
 

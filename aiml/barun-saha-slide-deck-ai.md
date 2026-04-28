@@ -1,6 +1,6 @@
 # barun-saha/slide-deck-ai
 
-[![Stars](https://img.shields.io/github/stars/barun-saha/slide-deck-ai?style=flat-square&color=yellow)](https://github.com/barun-saha/slide-deck-ai/stargazers) [![Forks](https://img.shields.io/github/forks/barun-saha/slide-deck-ai?style=flat-square&color=blue)](https://github.com/barun-saha/slide-deck-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/barun-saha/slide-deck-ai?style=flat-square&color=yellow)](https://github.com/barun-saha/slide-deck-ai/stargazers) [![Forks](https://img.shields.io/github/forks/barun-saha/slide-deck-ai?style=flat-square&color=blue)](https://github.com/barun-saha/slide-deck-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Co-create PowerPoint slide decks with AI
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 349 |
+| ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/stanislav-web/OpenDoor?style=flat-square&color=yellow)](https://github.com/stanislav-web/OpenDoor/stargazers) [![Forks](https://img.shields.io/github/forks/stanislav-web/OpenDoor?style=flat-square&color=blue)](https://github.com/stanislav-web/OpenDoor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
-> OWASP WEB Directory Scanner
+> OpenDoor — OWASP Web Directory Scanner
 
 ## 📊 Stats
 

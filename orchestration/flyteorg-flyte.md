@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/flyteorg/flyte?style=flat-square&color=yellow)](https://github.com/flyteorg/flyte/stargazers) [![Forks](https://img.shields.io/github/forks/flyteorg/flyte?style=flat-square&color=blue)](https://github.com/flyteorg/flyte/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
 
-> Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
+> Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 
 ## 📊 Stats
 

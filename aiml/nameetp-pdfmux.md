@@ -1,6 +1,6 @@
 # NameetP/pdfmux
 
-[![Stars](https://img.shields.io/github/stars/NameetP/pdfmux?style=flat-square&color=yellow)](https://github.com/NameetP/pdfmux/stargazers) [![Forks](https://img.shields.io/github/forks/NameetP/pdfmux?style=flat-square&color=blue)](https://github.com/NameetP/pdfmux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NameetP/pdfmux?style=flat-square&color=yellow)](https://github.com/NameetP/pdfmux/stargazers) [![Forks](https://img.shields.io/github/forks/NameetP/pdfmux?style=flat-square&color=blue)](https://github.com/NameetP/pdfmux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > PDF extraction that checks its own work. #2 reading order accuracy — zero AI, zero GPU, zero cost.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 58 |
+| ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # matthart1983/netwatch
 
-[![Stars](https://img.shields.io/github/stars/matthart1983/netwatch?style=flat-square&color=yellow)](https://github.com/matthart1983/netwatch/stargazers) [![Forks](https://img.shields.io/github/forks/matthart1983/netwatch?style=flat-square&color=blue)](https://github.com/matthart1983/netwatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matthart1983/netwatch?style=flat-square&color=yellow)](https://github.com/matthart1983/netwatch/stargazers) [![Forks](https://img.shields.io/github/forks/matthart1983/netwatch?style=flat-square&color=blue)](https://github.com/matthart1983/netwatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
