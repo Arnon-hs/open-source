@@ -1,6 +1,6 @@
 # vbauerster/getparty
 
-[![Stars](https://img.shields.io/github/stars/vbauerster/getparty?style=flat-square&color=yellow)](https://github.com/vbauerster/getparty/stargazers) [![Forks](https://img.shields.io/github/forks/vbauerster/getparty?style=flat-square&color=blue)](https://github.com/vbauerster/getparty/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vbauerster/getparty?style=flat-square&color=yellow)](https://github.com/vbauerster/getparty/stargazers) [![Forks](https://img.shields.io/github/forks/vbauerster/getparty?style=flat-square&color=blue)](https://github.com/vbauerster/getparty/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > HTTP Download Manager with multi-parts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

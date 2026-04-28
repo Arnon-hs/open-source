@@ -1,6 +1,6 @@
 # matevip/mateclaw
 
-[![Stars](https://img.shields.io/github/stars/matevip/mateclaw?style=flat-square&color=yellow)](https://github.com/matevip/mateclaw/stargazers) [![Forks](https://img.shields.io/github/forks/matevip/mateclaw?style=flat-square&color=blue)](https://github.com/matevip/mateclaw/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matevip/mateclaw?style=flat-square&color=yellow)](https://github.com/matevip/mateclaw/stargazers) [![Forks](https://img.shields.io/github/forks/matevip/mateclaw?style=flat-square&color=blue)](https://github.com/matevip/mateclaw/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 290 |
-| 🍴 **Forks** | 92 |
+| ⭐ **Stars** | 297 |
+| 🍴 **Forks** | 95 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

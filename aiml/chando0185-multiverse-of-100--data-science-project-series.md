@@ -1,6 +1,6 @@
 # Chando0185/Multiverse_of_100-_data_science_project_series
 
-[![Stars](https://img.shields.io/github/stars/Chando0185/Multiverse_of_100-_data_science_project_series?style=flat-square&color=yellow)](https://github.com/Chando0185/Multiverse_of_100-_data_science_project_series/stargazers) [![Forks](https://img.shields.io/github/forks/Chando0185/Multiverse_of_100-_data_science_project_series?style=flat-square&color=blue)](https://github.com/Chando0185/Multiverse_of_100-_data_science_project_series/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chando0185/Multiverse_of_100-_data_science_project_series?style=flat-square&color=yellow)](https://github.com/Chando0185/Multiverse_of_100-_data_science_project_series/stargazers) [![Forks](https://img.shields.io/github/forks/Chando0185/Multiverse_of_100-_data_science_project_series?style=flat-square&color=blue)](https://github.com/Chando0185/Multiverse_of_100-_data_science_project_series/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Welcome to the Multiverse of Data Science — a comprehensive, ever-expanding collection of over 100 real-world projects covering the entire data science pipeline!
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 141 |
+| ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

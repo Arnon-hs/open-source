@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **9943** |
+| 🗂️ **Total projects** | **10018** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3837 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1860 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 988 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 818 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 588 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 569 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 354 | [Browse →](./crypto/) |
-| 📊 **Data** | 215 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 202 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 3861 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1874 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 996 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 825 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 593 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 572 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 357 | [Browse →](./crypto/) |
+| 📊 **Data** | 218 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 205 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 130 | [Browse →](./mobile/) |
-| 💳 **Payments** | 117 | [Browse →](./payments/) |
+| 💳 **Payments** | 119 | [Browse →](./payments/) |
 | 📈 **Trading** | 99 | [Browse →](./trading/) |
-| 🔐 **Security** | 91 | [Browse →](./security/) |
-| ✨ **Design** | 33 | [Browse →](./design/) |
+| 🔐 **Security** | 93 | [Browse →](./security/) |
+| ✨ **Design** | 34 | [Browse →](./design/) |
 | 🎯 **Product** | 24 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 18 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [locustio/locust](./aiml/locustio-locust.md) | ⭐ 27.7k | AI/ML |
-| 2 | [alirezarezvani/claude-skills](./orchestration/alirezarezvani-claude-skills.md) | ⭐ 13k | Orchestration |
-| 3 | [snowplow/snowplow](./data/snowplow-snowplow.md) | ⭐ 7k | Data |
-| 4 | [lightningnetwork/lnd](./crypto/lightningnetwork-lnd.md) | ⭐ 8.1k | Crypto |
-| 5 | [juicedata/juicefs](./aiml/juicedata-juicefs.md) | ⭐ 13.5k | AI/ML |
-| 6 | [future-architect/vuls](./aiml/future-architect-vuls.md) | ⭐ 12.1k | AI/ML |
-| 7 | [TanStack/table](./frontend/tanstack-table.md) | ⭐ 27.9k | Frontend |
-| 8 | [ultralytics/ultralytics](./devtools/ultralytics-ultralytics.md) | ⭐ 56.5k | DevTools |
-| 9 | [stride3d/stride](./misc/stride3d-stride.md) | ⭐ 7.6k | Misc |
-| 10 | [louislam/uptime-kuma](./frontend/louislam-uptime-kuma.md) | ⭐ 86k | Frontend |
+| 1 | [ramitsurana/awesome-kubernetes](./devopsinfra/ramitsurana-awesome-kubernetes.md) | ⭐ 15.9k | DevOps & Infra |
+| 2 | [snowplow/snowplow](./data/snowplow-snowplow.md) | ⭐ 7k | Data |
+| 3 | [lightningnetwork/lnd](./crypto/lightningnetwork-lnd.md) | ⭐ 8.1k | Crypto |
+| 4 | [juicedata/juicefs](./aiml/juicedata-juicefs.md) | ⭐ 13.5k | AI/ML |
+| 5 | [future-architect/vuls](./aiml/future-architect-vuls.md) | ⭐ 12.1k | AI/ML |
+| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 7 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.5k | DevTools |
+| 8 | [Skyvern-AI/skyvern](./aiml/skyvern-ai-skyvern.md) | ⭐ 21.4k | AI/ML |
+| 9 | [ossrs/srs](./backend/ossrs-srs.md) | ⭐ 28.8k | Backend |
+| 10 | [flannel-io/flannel](./aiml/flannel-io-flannel.md) | ⭐ 9.4k | AI/ML |
 
 ## 🚀 How it works
 

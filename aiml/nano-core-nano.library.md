@@ -1,6 +1,6 @@
 # Nano-Core/Nano.Library
 
-[![Stars](https://img.shields.io/github/stars/Nano-Core/Nano.Library?style=flat-square&color=yellow)](https://github.com/Nano-Core/Nano.Library/stargazers) [![Forks](https://img.shields.io/github/forks/Nano-Core/Nano.Library?style=flat-square&color=blue)](https://github.com/Nano-Core/Nano.Library/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nano-Core/Nano.Library?style=flat-square&color=yellow)](https://github.com/Nano-Core/Nano.Library/stargazers) [![Forks](https://img.shields.io/github/forks/Nano-Core/Nano.Library?style=flat-square&color=blue)](https://github.com/Nano-Core/Nano.Library/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Take full advantage of Nano Library to rapidly build enriched .NET microservices.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

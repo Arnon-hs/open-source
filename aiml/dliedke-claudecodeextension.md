@@ -1,6 +1,6 @@
 # dliedke/ClaudeCodeExtension
 
-[![Stars](https://img.shields.io/github/stars/dliedke/ClaudeCodeExtension?style=flat-square&color=yellow)](https://github.com/dliedke/ClaudeCodeExtension/stargazers) [![Forks](https://img.shields.io/github/forks/dliedke/ClaudeCodeExtension?style=flat-square&color=blue)](https://github.com/dliedke/ClaudeCodeExtension/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dliedke/ClaudeCodeExtension?style=flat-square&color=yellow)](https://github.com/dliedke/ClaudeCodeExtension/stargazers) [![Forks](https://img.shields.io/github/forks/dliedke/ClaudeCodeExtension?style=flat-square&color=blue)](https://github.com/dliedke/ClaudeCodeExtension/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A Visual Studio .NET extension that provides a better interface for Claude Code CLI, OpenAI Codex, Cursor Agent, Opencode CLI and Qwen Code with support for multi-line prompts with image or file attachments for high productivity and vibe coding
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 73 |
-| 🍴 **Forks** | 13 |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # shuaiplus/nodewarden
 
-[![Stars](https://img.shields.io/github/stars/shuaiplus/nodewarden?style=flat-square&color=yellow)](https://github.com/shuaiplus/nodewarden/stargazers) [![Forks](https://img.shields.io/github/forks/shuaiplus/nodewarden?style=flat-square&color=blue)](https://github.com/shuaiplus/nodewarden/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shuaiplus/nodewarden?style=flat-square&color=yellow)](https://github.com/shuaiplus/nodewarden/stargazers) [![Forks](https://img.shields.io/github/forks/shuaiplus/nodewarden?style=flat-square&color=blue)](https://github.com/shuaiplus/nodewarden/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > A third-party Bitwarden server running on Cloudflare Workers
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 1.6k |
+| 🍴 **Forks** | 1.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

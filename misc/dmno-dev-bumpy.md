@@ -1,17 +1,17 @@
 # dmno-dev/bumpy
 
-[![Stars](https://img.shields.io/github/stars/dmno-dev/bumpy?style=flat-square&color=yellow)](https://github.com/dmno-dev/bumpy/stargazers) [![Forks](https://img.shields.io/github/forks/dmno-dev/bumpy?style=flat-square&color=blue)](https://github.com/dmno-dev/bumpy/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dmno-dev/bumpy?style=flat-square&color=yellow)](https://github.com/dmno-dev/bumpy/stargazers) [![Forks](https://img.shields.io/github/forks/dmno-dev/bumpy?style=flat-square&color=blue)](https://github.com/dmno-dev/bumpy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> 🐸 Modern monorepo friendly version management + changelog tool
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

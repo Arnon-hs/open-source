@@ -1,6 +1,6 @@
 # jelmer/dulwich
 
-[![Stars](https://img.shields.io/github/stars/jelmer/dulwich?style=flat-square&color=yellow)](https://github.com/jelmer/dulwich/stargazers) [![Forks](https://img.shields.io/github/forks/jelmer/dulwich?style=flat-square&color=blue)](https://github.com/jelmer/dulwich/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jelmer/dulwich?style=flat-square&color=yellow)](https://github.com/jelmer/dulwich/stargazers) [![Forks](https://img.shields.io/github/forks/jelmer/dulwich?style=flat-square&color=blue)](https://github.com/jelmer/dulwich/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Pure-Python Git implementation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 430 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

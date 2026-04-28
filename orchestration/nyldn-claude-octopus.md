@@ -1,6 +1,6 @@
 # nyldn/claude-octopus
 
-[![Stars](https://img.shields.io/github/stars/nyldn/claude-octopus?style=flat-square&color=yellow)](https://github.com/nyldn/claude-octopus/stargazers) [![Forks](https://img.shields.io/github/forks/nyldn/claude-octopus?style=flat-square&color=blue)](https://github.com/nyldn/claude-octopus/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nyldn/claude-octopus?style=flat-square&color=yellow)](https://github.com/nyldn/claude-octopus/stargazers) [![Forks](https://img.shields.io/github/forks/nyldn/claude-octopus?style=flat-square&color=blue)](https://github.com/nyldn/claude-octopus/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Put up to 8 AI models on every coding task — blind spots surface before you ship. Claude Code plugin.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 274 |
+| 🍴 **Forks** | 275 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

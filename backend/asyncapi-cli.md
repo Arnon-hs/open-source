@@ -1,6 +1,6 @@
 # asyncapi/cli
 
-[![Stars](https://img.shields.io/github/stars/asyncapi/cli?style=flat-square&color=yellow)](https://github.com/asyncapi/cli/stargazers) [![Forks](https://img.shields.io/github/forks/asyncapi/cli?style=flat-square&color=blue)](https://github.com/asyncapi/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asyncapi/cli?style=flat-square&color=yellow)](https://github.com/asyncapi/cli/stargazers) [![Forks](https://img.shields.io/github/forks/asyncapi/cli?style=flat-square&color=blue)](https://github.com/asyncapi/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 267 |
 | 🍴 **Forks** | 354 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

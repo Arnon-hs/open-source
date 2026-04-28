@@ -1,6 +1,6 @@
 # ExplosiveCoderflome/AI-Novel-Writing-Assistant
 
-[![Stars](https://img.shields.io/github/stars/ExplosiveCoderflome/AI-Novel-Writing-Assistant?style=flat-square&color=yellow)](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant/stargazers) [![Forks](https://img.shields.io/github/forks/ExplosiveCoderflome/AI-Novel-Writing-Assistant?style=flat-square&color=blue)](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ExplosiveCoderflome/AI-Novel-Writing-Assistant?style=flat-square&color=yellow)](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant/stargazers) [![Forks](https://img.shields.io/github/forks/ExplosiveCoderflome/AI-Novel-Writing-Assistant?style=flat-square&color=blue)](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-driven workflows.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 887 |
-| 🍴 **Forks** | 203 |
+| ⭐ **Stars** | 913 |
+| 🍴 **Forks** | 208 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

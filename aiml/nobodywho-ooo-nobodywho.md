@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 841 |
+| ⭐ **Stars** | 845 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Mobile
+AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 

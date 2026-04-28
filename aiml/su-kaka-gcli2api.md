@@ -1,6 +1,6 @@
 # su-kaka/gcli2api
 
-[![Stars](https://img.shields.io/github/stars/su-kaka/gcli2api?style=flat-square&color=yellow)](https://github.com/su-kaka/gcli2api/stargazers) [![Forks](https://img.shields.io/github/forks/su-kaka/gcli2api?style=flat-square&color=blue)](https://github.com/su-kaka/gcli2api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/su-kaka/gcli2api?style=flat-square&color=yellow)](https://github.com/su-kaka/gcli2api/stargazers) [![Forks](https://img.shields.io/github/forks/su-kaka/gcli2api?style=flat-square&color=blue)](https://github.com/su-kaka/gcli2api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
 
 > 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 97/100 |
+| 📈 **Score** | 98/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # vinhnx/VT.ai
 
-[![Stars](https://img.shields.io/github/stars/vinhnx/VT.ai?style=flat-square&color=yellow)](https://github.com/vinhnx/VT.ai/stargazers) [![Forks](https://img.shields.io/github/forks/vinhnx/VT.ai?style=flat-square&color=blue)](https://github.com/vinhnx/VT.ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vinhnx/VT.ai?style=flat-square&color=yellow)](https://github.com/vinhnx/VT.ai/stargazers) [![Forks](https://img.shields.io/github/forks/vinhnx/VT.ai?style=flat-square&color=blue)](https://github.com/vinhnx/VT.ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > VT.ai - multimodal AI chat app with dynamic conversation routing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

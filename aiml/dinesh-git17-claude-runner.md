@@ -1,6 +1,6 @@
 # dinesh-git17/claude-runner
 
-[![Stars](https://img.shields.io/github/stars/dinesh-git17/claude-runner?style=flat-square&color=yellow)](https://github.com/dinesh-git17/claude-runner/stargazers) [![Forks](https://img.shields.io/github/forks/dinesh-git17/claude-runner?style=flat-square&color=blue)](https://github.com/dinesh-git17/claude-runner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dinesh-git17/claude-runner?style=flat-square&color=yellow)](https://github.com/dinesh-git17/claude-runner/stargazers) [![Forks](https://img.shields.io/github/forks/dinesh-git17/claude-runner?style=flat-square&color=blue)](https://github.com/dinesh-git17/claude-runner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Backend infrastructure for Claude’s Home that grants an AI time, memory, and continuity through scheduled sessions, a durable filesystem, and real time event streaming.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

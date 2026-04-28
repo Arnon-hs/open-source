@@ -1,6 +1,6 @@
 # asyncapi/modelina
 
-[![Stars](https://img.shields.io/github/stars/asyncapi/modelina?style=flat-square&color=yellow)](https://github.com/asyncapi/modelina/stargazers) [![Forks](https://img.shields.io/github/forks/asyncapi/modelina?style=flat-square&color=blue)](https://github.com/asyncapi/modelina/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asyncapi/modelina?style=flat-square&color=yellow)](https://github.com/asyncapi/modelina/stargazers) [![Forks](https://img.shields.io/github/forks/asyncapi/modelina?style=flat-square&color=blue)](https://github.com/asyncapi/modelina/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A library for generating typed models based on inputs such as AsyncAPI, OpenAPI, and JSON Schema documents with high customization
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 432 |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

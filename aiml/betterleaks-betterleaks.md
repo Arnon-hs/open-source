@@ -1,6 +1,6 @@
 # betterleaks/betterleaks
 
-[![Stars](https://img.shields.io/github/stars/betterleaks/betterleaks?style=flat-square&color=yellow)](https://github.com/betterleaks/betterleaks/stargazers) [![Forks](https://img.shields.io/github/forks/betterleaks/betterleaks?style=flat-square&color=blue)](https://github.com/betterleaks/betterleaks/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/betterleaks/betterleaks?style=flat-square&color=yellow)](https://github.com/betterleaks/betterleaks/stargazers) [![Forks](https://img.shields.io/github/forks/betterleaks/betterleaks?style=flat-square&color=blue)](https://github.com/betterleaks/betterleaks/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Better Secrets Scanner built for configurability and speed
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 838 |
+| ⭐ **Stars** | 839 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

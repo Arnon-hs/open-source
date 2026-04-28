@@ -1,6 +1,6 @@
 # binref/refinery
 
-[![Stars](https://img.shields.io/github/stars/binref/refinery?style=flat-square&color=yellow)](https://github.com/binref/refinery/stargazers) [![Forks](https://img.shields.io/github/forks/binref/refinery?style=flat-square&color=blue)](https://github.com/binref/refinery/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/binref/refinery?style=flat-square&color=yellow)](https://github.com/binref/refinery/stargazers) [![Forks](https://img.shields.io/github/forks/binref/refinery?style=flat-square&color=blue)](https://github.com/binref/refinery/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > High Octane Triage Analysis
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 841 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # alash3al/stash
 
-[![Stars](https://img.shields.io/github/stars/alash3al/stash?style=flat-square&color=yellow)](https://github.com/alash3al/stash/stargazers) [![Forks](https://img.shields.io/github/forks/alash3al/stash?style=flat-square&color=blue)](https://github.com/alash3al/stash/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alash3al/stash?style=flat-square&color=yellow)](https://github.com/alash3al/stash/stargazers) [![Forks](https://img.shields.io/github/forks/alash3al/stash?style=flat-square&color=blue)](https://github.com/alash3al/stash/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 451 |
+| ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

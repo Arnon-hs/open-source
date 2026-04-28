@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/call518/MCP-PostgreSQL-Ops?style=flat-square&color=yellow)](https://github.com/call518/MCP-PostgreSQL-Ops/stargazers) [![Forks](https://img.shields.io/github/forks/call518/MCP-PostgreSQL-Ops?style=flat-square&color=blue)](https://github.com/call518/MCP-PostgreSQL-Ops/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> 🔍Professional MCP server for PostgreSQL operations & monitoring: 30+ extension-independent tools for performance analysis, table bloat detection, autovacuum monitoring, schema introspection, and database management. Supports PostgreSQL 12+.
+> 🐘 Give AI assistants full PostgreSQL DBA superpowers — 30+ tools for performance analysis, bloat detection, lock/deadlock monitoring, autovacuum & schema inspection. No extensions required. PG 12-18.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 147 |
+| ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |

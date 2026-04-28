@@ -1,6 +1,6 @@
 # lingfengQAQ/webnovel-writer
 
-[![Stars](https://img.shields.io/github/stars/lingfengQAQ/webnovel-writer?style=flat-square&color=yellow)](https://github.com/lingfengQAQ/webnovel-writer/stargazers) [![Forks](https://img.shields.io/github/forks/lingfengQAQ/webnovel-writer?style=flat-square&color=blue)](https://github.com/lingfengQAQ/webnovel-writer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lingfengQAQ/webnovel-writer?style=flat-square&color=yellow)](https://github.com/lingfengQAQ/webnovel-writer/stargazers) [![Forks](https://img.shields.io/github/forks/lingfengQAQ/webnovel-writer?style=flat-square&color=blue)](https://github.com/lingfengQAQ/webnovel-writer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 572 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
