@@ -1,6 +1,6 @@
 # seaworld008/Commonly-used-high-value-skills
 
-[![Stars](https://img.shields.io/github/stars/seaworld008/Commonly-used-high-value-skills?style=flat-square&color=yellow)](https://github.com/seaworld008/Commonly-used-high-value-skills/stargazers) [![Forks](https://img.shields.io/github/forks/seaworld008/Commonly-used-high-value-skills?style=flat-square&color=blue)](https://github.com/seaworld008/Commonly-used-high-value-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seaworld008/Commonly-used-high-value-skills?style=flat-square&color=yellow)](https://github.com/seaworld008/Commonly-used-high-value-skills/stargazers) [![Forks](https://img.shields.io/github/forks/seaworld008/Commonly-used-high-value-skills?style=flat-square&color=blue)](https://github.com/seaworld008/Commonly-used-high-value-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > High-value AI skills repository for Codex, Claude Code, OpenClaw, agents, prompts, and automation workflows.  高价值的 AI 技能库，涵盖 Codex、Claude Code、OpenClaw、代理、提示和自动化工作流程。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

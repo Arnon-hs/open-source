@@ -25,7 +25,9 @@ Backend · Data
 
 ## 📝 Summary
 
-GoScrapy is an open-source project that leverages the performance of the Go programming language to create blazingly fast web scraping tools. Inspired by the popular Python framework Scrapy, GoScrapy aims to provide a scalable and efficient solution for data extraction and processing. By utilizing Go's concurrency capabilities, GoScrapy enables developers to scrape the web with unprecedented speed and reliability.
+Here's a brief summary for the GoScrapy project:
+
+GoScrapy is an open-source web scraping framework written in Go, designed to leverage the language's performance capabilities for efficient data extraction from the web. Inspired by the popular Python Scrapy framework, GoScrapy aims to provide a high-speed and scalable solution for data scraping tasks. By harnessing Go's concurrency features, GoScrapy enables developers to scrape web data at unprecedented speeds.
 
 ---
 

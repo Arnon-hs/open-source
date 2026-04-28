@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-AOSC-Dev/oma is an open-source package manager designed for AOSC OS, a Linux distribution. This tool enables users to easily install, update, and manage software packages on the operating system. By utilizing oma, users can maintain their AOSC OS system with efficiency and precision.
+AOSC-Dev/oma is an open-source package manager designed for AOSC OS, offering a streamlined solution for software installation and management. It enables users to easily install, update, and manage packages within AOSC OS, providing a convenient and efficient experience. This package manager is a key component of AOSC OS, facilitating the discovery and installation of software packages.
 
 ---
 

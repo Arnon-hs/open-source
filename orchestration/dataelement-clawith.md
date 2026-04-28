@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/dataelement/Clawith?style=flat-square&color=yellow)](https://github.com/dataelement/Clawith/stargazers) [![Forks](https://img.shields.io/github/forks/dataelement/Clawith?style=flat-square&color=blue)](https://github.com/dataelement/Clawith/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
-> OpenClaw for Teams
+> Your Agent Company
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 558 |
+| 🍴 **Forks** | 559 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |

@@ -1,6 +1,6 @@
 # nnnkkk7/lazyactions
 
-[![Stars](https://img.shields.io/github/stars/nnnkkk7/lazyactions?style=flat-square&color=yellow)](https://github.com/nnnkkk7/lazyactions/stargazers) [![Forks](https://img.shields.io/github/forks/nnnkkk7/lazyactions?style=flat-square&color=blue)](https://github.com/nnnkkk7/lazyactions/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nnnkkk7/lazyactions?style=flat-square&color=yellow)](https://github.com/nnnkkk7/lazyactions/stargazers) [![Forks](https://img.shields.io/github/forks/nnnkkk7/lazyactions?style=flat-square&color=blue)](https://github.com/nnnkkk7/lazyactions/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Lazygit-style TUI for GitHub Actions — monitor, trigger, and manage workflows from your terminal
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 86 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

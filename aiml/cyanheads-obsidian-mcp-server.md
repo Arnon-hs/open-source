@@ -25,9 +25,7 @@ AI/ML · Backend · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The obsidian-mcp-server is an open-source project that enables seamless interaction with Obsidian vaults via the Local REST API plugin. It allows users to read, write, search, and edit notes, tags, and frontmatter programmatically, making it an ideal tool for developers and power users. This MCP server offers a flexible and efficient way to integrate Obsidian with other applications and services.
+The obsidian-mcp-server is an open-source project that enables seamless integration with Obsidian vaults via the Local REST API plugin. It provides read, write, search, and edit capabilities for notes, tags, and frontmatter, allowing for more efficient management and interaction with Obsidian data. This project is particularly useful for developers and power users looking to unlock advanced functionality in their Obsidian vaults.
 
 ---
 

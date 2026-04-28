@@ -1,6 +1,6 @@
 # tonisives/clawtab
 
-[![Stars](https://img.shields.io/github/stars/tonisives/clawtab?style=flat-square&color=yellow)](https://github.com/tonisives/clawtab/stargazers) [![Forks](https://img.shields.io/github/forks/tonisives/clawtab?style=flat-square&color=blue)](https://github.com/tonisives/clawtab/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tonisives/clawtab?style=flat-square&color=yellow)](https://github.com/tonisives/clawtab/stargazers) [![Forks](https://img.shields.io/github/forks/tonisives/clawtab?style=flat-square&color=blue)](https://github.com/tonisives/clawtab/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

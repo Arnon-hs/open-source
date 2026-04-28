@@ -1,6 +1,6 @@
 # FasterXML/jackson-module-scala
 
-[![Stars](https://img.shields.io/github/stars/FasterXML/jackson-module-scala?style=flat-square&color=yellow)](https://github.com/FasterXML/jackson-module-scala/stargazers) [![Forks](https://img.shields.io/github/forks/FasterXML/jackson-module-scala?style=flat-square&color=blue)](https://github.com/FasterXML/jackson-module-scala/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FasterXML/jackson-module-scala?style=flat-square&color=yellow)](https://github.com/FasterXML/jackson-module-scala/stargazers) [![Forks](https://img.shields.io/github/forks/FasterXML/jackson-module-scala?style=flat-square&color=blue)](https://github.com/FasterXML/jackson-module-scala/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Add-on module for Jackson (https://github.com/FasterXML/jackson) to support Scala-specific datatypes
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 509 |
+| ⭐ **Stars** | 508 |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

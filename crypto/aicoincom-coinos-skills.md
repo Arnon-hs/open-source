@@ -25,7 +25,7 @@ Crypto · Trading · AI/ML
 
 ## 📝 Summary
 
-The coinos-skills project is an open-source toolkit for AI agents in the crypto space, providing over 40 tools for real-time data analysis and trading automation. It offers a comprehensive suite of features, including price data, technical indicators, AI analysis, and exchange trading capabilities, powered by the CCXT library. This toolkit aims to streamline AI-driven trading strategies and empower developers to build sophisticated crypto trading bots.
+The AiCoin crypto toolkit, also known as CoinOS Skills, is an open-source project providing a comprehensive set of tools for AI agents in the cryptocurrency space. It offers over 40 real-time features, including price and K-line analysis, whale tracking, and exchange trading capabilities, leveraging the CCXT library and Freqtrade bot automation. This toolkit empowers AI agents to make informed trading decisions and stay ahead in the crypto market.
 
 ---
 

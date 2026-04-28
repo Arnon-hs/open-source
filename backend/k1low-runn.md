@@ -1,6 +1,6 @@
 # k1LoW/runn
 
-[![Stars](https://img.shields.io/github/stars/k1LoW/runn?style=flat-square&color=yellow)](https://github.com/k1LoW/runn/stargazers) [![Forks](https://img.shields.io/github/forks/k1LoW/runn?style=flat-square&color=blue)](https://github.com/k1LoW/runn/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/k1LoW/runn?style=flat-square&color=yellow)](https://github.com/k1LoW/runn/stargazers) [![Forks](https://img.shields.io/github/forks/k1LoW/runn?style=flat-square&color=blue)](https://github.com/k1LoW/runn/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > runn is a package/tool for running operations following a scenario.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 624 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

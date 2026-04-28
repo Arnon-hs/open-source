@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-WTF (pronounced "wonderful terminal forest") is an open-source, terminal-based personal information dashboard that provides a centralized hub for monitoring various aspects of your digital life. With its user-friendly interface, you can easily track system resources, network status, weather, and other essential information from the comfort of your terminal. This project aims to simplify your workflow and keep you informed about what matters most.
+WTF (Whatever Thing Framework) is an open-source, terminal-based personal information dashboard that provides a centralized hub for tracking various aspects of your digital life. This project offers a customizable and accessible way to stay on top of your tasks, notes, reminders, and other essential information from the comfort of your terminal. By leveraging a simple and intuitive interface, WTF empowers users to streamline their workflow and boost productivity.
 
 ---
 

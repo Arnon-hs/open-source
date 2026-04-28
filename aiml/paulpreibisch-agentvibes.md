@@ -25,7 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-AgentVibes is an open-source project that provides a text-to-speech (TTS) functionality for Claude Code, a language model. This project aims to enhance the user experience by giving Claude a voice, making it more interactive and engaging. It leverages AI/ML and DevOps/infra expertise to bring AgentVibes to life.
+Here's a brief summary for the AgentVibes project:
+
+AgentVibes is an open-source project that integrates a text-to-speech (TTS) functionality with Claude Code, enabling users to generate voice outputs for their text-based interactions. This project combines AI/ML and DevOps/Infra expertise to create a seamless and immersive experience. It allows developers to leverage Claude Code's capabilities in a more engaging and interactive way.
 
 ---
 

@@ -1,6 +1,6 @@
 # joshuar/go-hass-agent
 
-[![Stars](https://img.shields.io/github/stars/joshuar/go-hass-agent?style=flat-square&color=yellow)](https://github.com/joshuar/go-hass-agent/stargazers) [![Forks](https://img.shields.io/github/forks/joshuar/go-hass-agent?style=flat-square&color=blue)](https://github.com/joshuar/go-hass-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joshuar/go-hass-agent?style=flat-square&color=yellow)](https://github.com/joshuar/go-hass-agent/stargazers) [![Forks](https://img.shields.io/github/forks/joshuar/go-hass-agent?style=flat-square&color=blue)](https://github.com/joshuar/go-hass-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A Home Assistant, native app for desktop/laptop devices.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 500 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

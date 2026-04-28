@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-DitriXNew/EDT-MCP is an open-source project that provides a management console (MCP) for users of 1C:EDT, a popular enterprise resource planning system. This MCP aims to enhance the user experience and improve functionality for 1C:EDT users. By leveraging open-source collaboration, DitriXNew/EDT-MCP offers a customizable and community-driven solution for managing 1C:EDT resources.
+The DitriXNew/EDT-MCP is an open-source project that provides a Management Control Panel (MCP) designed specifically for 1C:EDT, a business management and automation platform. This MCP aims to offer a convenient and efficient management interface for users to control and monitor various aspects of their 1C:EDT system. By leveraging this MCP, users can streamline their system administration tasks and enhance overall productivity.
 
 ---
 

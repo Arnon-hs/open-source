@@ -1,6 +1,6 @@
 # nguyenphutrong/quotio
 
-[![Stars](https://img.shields.io/github/stars/nguyenphutrong/quotio?style=flat-square&color=yellow)](https://github.com/nguyenphutrong/quotio/stargazers) [![Forks](https://img.shields.io/github/forks/nguyenphutrong/quotio?style=flat-square&color=blue)](https://github.com/nguyenphutrong/quotio/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nguyenphutrong/quotio?style=flat-square&color=yellow)](https://github.com/nguyenphutrong/quotio/stargazers) [![Forks](https://img.shields.io/github/forks/nguyenphutrong/quotio?style=flat-square&color=blue)](https://github.com/nguyenphutrong/quotio/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 274 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

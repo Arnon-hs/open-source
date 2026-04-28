@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-TheStack-ai's swing-skills is an open-source project that aims to improve the reliability of AI models by providing six cognitive firewalls to prevent hallucinations, biases, and sloppy reasoning. These cognitive firewalls can be seamlessly integrated into AI applications using the command "npx skills add." This project is particularly relevant to developers working with AI/ML, helping to ensure more accurate and trustworthy AI outputs.
+TheStack-ai/swing-skills is an open-source project that provides Claude Code skills to prevent AI hallucination, bias, and sloppy reasoning. This set of 6 cognitive firewalls serves as a tool for developers to ensure the reliability and accuracy of AI models. It can be easily integrated using the command 'npx skills add'.
 
 ---
 

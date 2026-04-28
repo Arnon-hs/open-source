@@ -1,6 +1,6 @@
 # lealone/Lealone
 
-[![Stars](https://img.shields.io/github/stars/lealone/Lealone?style=flat-square&color=yellow)](https://github.com/lealone/Lealone/stargazers) [![Forks](https://img.shields.io/github/forks/lealone/Lealone?style=flat-square&color=blue)](https://github.com/lealone/Lealone/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lealone/Lealone?style=flat-square&color=yellow)](https://github.com/lealone/Lealone/stargazers) [![Forks](https://img.shields.io/github/forks/lealone/Lealone?style=flat-square&color=blue)](https://github.com/lealone/Lealone/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 能安全适用于个人助理和氛围编程以及企业应用的全栈自进化通用智能体
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 521 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

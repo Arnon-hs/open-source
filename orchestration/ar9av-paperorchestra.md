@@ -1,6 +1,6 @@
 # Ar9av/PaperOrchestra
 
-[![Stars](https://img.shields.io/github/stars/Ar9av/PaperOrchestra?style=flat-square&color=yellow)](https://github.com/Ar9av/PaperOrchestra/stargazers) [![Forks](https://img.shields.io/github/forks/Ar9av/PaperOrchestra?style=flat-square&color=blue)](https://github.com/Ar9av/PaperOrchestra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ar9av/PaperOrchestra?style=flat-square&color=yellow)](https://github.com/Ar9av/PaperOrchestra/stargazers) [![Forks](https://img.shields.io/github/forks/Ar9av/PaperOrchestra?style=flat-square&color=blue)](https://github.com/Ar9av/PaperOrchestra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An automated AI research-paper writer based off Google's PaperOrchestra paper's implementation through a skills -  benchmark + autoraters using any coding agent (Claude Code, Cursor, Antigravity, Cline, Aider). No API keys, no LLM SDKs.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 280 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 283 |
+| 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

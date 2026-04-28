@@ -1,6 +1,6 @@
 # blitzdotdev/blitz-mac
 
-[![Stars](https://img.shields.io/github/stars/blitzdotdev/blitz-mac?style=flat-square&color=yellow)](https://github.com/blitzdotdev/blitz-mac/stargazers) [![Forks](https://img.shields.io/github/forks/blitzdotdev/blitz-mac?style=flat-square&color=blue)](https://github.com/blitzdotdev/blitz-mac/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blitzdotdev/blitz-mac?style=flat-square&color=yellow)](https://github.com/blitzdotdev/blitz-mac/stargazers) [![Forks](https://img.shields.io/github/forks/blitzdotdev/blitz-mac?style=flat-square&color=blue)](https://github.com/blitzdotdev/blitz-mac/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with AI agents
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 129 |
+| 🍴 **Forks** | 130 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

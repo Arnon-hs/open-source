@@ -1,6 +1,6 @@
 # Mats2208/MCP-Packet-Tracer
 
-[![Stars](https://img.shields.io/github/stars/Mats2208/MCP-Packet-Tracer?style=flat-square&color=yellow)](https://github.com/Mats2208/MCP-Packet-Tracer/stargazers) [![Forks](https://img.shields.io/github/forks/Mats2208/MCP-Packet-Tracer?style=flat-square&color=blue)](https://github.com/Mats2208/MCP-Packet-Tracer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mats2208/MCP-Packet-Tracer?style=flat-square&color=yellow)](https://github.com/Mats2208/MCP-Packet-Tracer/stargazers) [![Forks](https://img.shields.io/github/forks/Mats2208/MCP-Packet-Tracer?style=flat-square&color=blue)](https://github.com/Mats2208/MCP-Packet-Tracer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered Cisco Packet Tracer automation using MCP. Generate, validate and deploy full network topologies (OSPF, DHCP, EIGRP, RIP) from natural language prompts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

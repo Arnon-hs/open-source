@@ -1,6 +1,6 @@
 # petdance/altbox
 
-[![Stars](https://img.shields.io/github/stars/petdance/altbox?style=flat-square&color=yellow)](https://github.com/petdance/altbox/stargazers) [![Forks](https://img.shields.io/github/forks/petdance/altbox?style=flat-square&color=blue)](https://github.com/petdance/altbox/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/petdance/altbox?style=flat-square&color=yellow)](https://github.com/petdance/altbox/stargazers) [![Forks](https://img.shields.io/github/forks/petdance/altbox?style=flat-square&color=blue)](https://github.com/petdance/altbox/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Website for altbox.dev, the alternative toolbox for developers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

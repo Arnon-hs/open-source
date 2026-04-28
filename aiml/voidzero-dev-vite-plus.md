@@ -1,6 +1,6 @@
 # voidzero-dev/vite-plus
 
-[![Stars](https://img.shields.io/github/stars/voidzero-dev/vite-plus?style=flat-square&color=yellow)](https://github.com/voidzero-dev/vite-plus/stargazers) [![Forks](https://img.shields.io/github/forks/voidzero-dev/vite-plus?style=flat-square&color=blue)](https://github.com/voidzero-dev/vite-plus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/voidzero-dev/vite-plus?style=flat-square&color=yellow)](https://github.com/voidzero-dev/vite-plus/stargazers) [![Forks](https://img.shields.io/github/forks/voidzero-dev/vite-plus?style=flat-square&color=blue)](https://github.com/voidzero-dev/vite-plus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

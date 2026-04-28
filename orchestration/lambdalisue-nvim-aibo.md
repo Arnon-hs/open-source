@@ -1,6 +1,6 @@
 # lambdalisue/nvim-aibo
 
-[![Stars](https://img.shields.io/github/stars/lambdalisue/nvim-aibo?style=flat-square&color=yellow)](https://github.com/lambdalisue/nvim-aibo/stargazers) [![Forks](https://img.shields.io/github/forks/lambdalisue/nvim-aibo?style=flat-square&color=blue)](https://github.com/lambdalisue/nvim-aibo/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lambdalisue/nvim-aibo?style=flat-square&color=yellow)](https://github.com/lambdalisue/nvim-aibo/stargazers) [![Forks](https://img.shields.io/github/forks/lambdalisue/nvim-aibo?style=flat-square&color=blue)](https://github.com/lambdalisue/nvim-aibo/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 🐶 Aibo -  AI Bot Integration and Orchestration for Neovim
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

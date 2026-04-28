@@ -1,6 +1,6 @@
 # gastownhall/gascity
 
-[![Stars](https://img.shields.io/github/stars/gastownhall/gascity?style=flat-square&color=yellow)](https://github.com/gastownhall/gascity/stargazers) [![Forks](https://img.shields.io/github/forks/gastownhall/gascity?style=flat-square&color=blue)](https://github.com/gastownhall/gascity/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gastownhall/gascity?style=flat-square&color=yellow)](https://github.com/gastownhall/gascity/stargazers) [![Forks](https://img.shields.io/github/forks/gastownhall/gascity?style=flat-square&color=blue)](https://github.com/gastownhall/gascity/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestration-builder SDK for multi-agent coding workflows
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 485 |
-| 🍴 **Forks** | 135 |
+| ⭐ **Stars** | 494 |
+| 🍴 **Forks** | 138 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # PCGEx/PCGExtendedToolkit
 
-[![Stars](https://img.shields.io/github/stars/PCGEx/PCGExtendedToolkit?style=flat-square&color=yellow)](https://github.com/PCGEx/PCGExtendedToolkit/stargazers) [![Forks](https://img.shields.io/github/forks/PCGEx/PCGExtendedToolkit?style=flat-square&color=blue)](https://github.com/PCGEx/PCGExtendedToolkit/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PCGEx/PCGExtendedToolkit?style=flat-square&color=yellow)](https://github.com/PCGEx/PCGExtendedToolkit/stargazers) [![Forks](https://img.shields.io/github/forks/PCGEx/PCGExtendedToolkit?style=flat-square&color=blue)](https://github.com/PCGEx/PCGExtendedToolkit/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The missing pieces for Unreal's PCG. Graph theory, advanced pathfinding, spatial ops, filtering, asset management, and more.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 615 |
+| ⭐ **Stars** | 616 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

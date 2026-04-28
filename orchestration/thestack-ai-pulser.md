@@ -27,7 +27,7 @@ Orchestration · AI/ML · DevTools
 
 Here's a brief summary of the open-source project:
 
-Pulser is an open-source tool for ensuring Claude Code adherence to Anthropic best practices. It acts as a linter for SKILL.md files, auto-diagnosing and fixing skills to maintain optimal performance. With a simple command-line interface (npx pulser), developers can streamline their AI/ML workflows and improve the quality of their code.
+Pulser is an open-source tool designed to auto-diagnose and fix skills in Claude Code, aligning them with Anthropic's best practices. It leverages the SKILL.md linter to provide users with actionable feedback on their code. By running "npx pulser", developers can streamline their workflow and write more efficient, high-quality skills.
 
 ---
 

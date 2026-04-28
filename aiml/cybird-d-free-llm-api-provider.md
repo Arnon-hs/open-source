@@ -1,6 +1,6 @@
 # CYBIRD-D/FREE-LLM-API-Provider
 
-[![Stars](https://img.shields.io/github/stars/CYBIRD-D/FREE-LLM-API-Provider?style=flat-square&color=yellow)](https://github.com/CYBIRD-D/FREE-LLM-API-Provider/stargazers) [![Forks](https://img.shields.io/github/forks/CYBIRD-D/FREE-LLM-API-Provider?style=flat-square&color=blue)](https://github.com/CYBIRD-D/FREE-LLM-API-Provider/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CYBIRD-D/FREE-LLM-API-Provider?style=flat-square&color=yellow)](https://github.com/CYBIRD-D/FREE-LLM-API-Provider/stargazers) [![Forks](https://img.shields.io/github/forks/CYBIRD-D/FREE-LLM-API-Provider?style=flat-square&color=blue)](https://github.com/CYBIRD-D/FREE-LLM-API-Provider/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > This is a list of free LLM provider resources accessible via API. Including some cn platform  免费llm api平台（包括cn平台）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-TheStack-ai/zclean is an open-source project that helps to kill zombie processes from AI coding tools, freeing up memory and improving system performance. This project is specifically designed for tools like Claude Code, Codex, and Cursor, allowing developers to easily clean up unused processes with the command 'npx zclean'. By doing so, it enables a more efficient and streamlined AI coding experience.
+TheStack-ai/zclean is an open-source project that helps manage AI coding tools by killing zombie processes, freeing up memory and improving system performance. It specifically targets tools like Claude Code, Codex, and Cursor, providing a simple solution for developers to optimize their computer resources. With just one command, 'npx zclean', users can clean up unnecessary processes and enhance their coding experience.
 
 ---
 

@@ -25,9 +25,9 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary for the open-source project:
 
-The Skill Blue Book 2026 is an open-source research project based on 61,776 skill data points, produced by AgentSkillsHub. This project aims to provide insights into the skill distribution and its associated metrics, such as the 54% of skills with zero stars and a high Gini coefficient of 0.983. The project falls under the categories of orchestration, AI/ML, and backend development.
+The "Skill Blue Book 2026" is an open-source research project that analyzes 61,776 skills data, providing unique insights into the field. Developed by AgentSkillsHub, this project offers a comprehensive dataset and statistical analysis, with notable statistics including 54% unstarred repositories and a high Kini coefficient of 0.983. This research aims to facilitate better understanding and improvement of technical skills in the Orchestration, AI/ML, and Backend fields.
 
 ---
 

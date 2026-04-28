@@ -25,9 +25,9 @@ AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the project:
 
-The fugazi/test-automation-skills-agents project is an open-source library that provides production-oriented solutions for QA Automation Engineers. This practical library offers a range of agents, instructions, and skills designed to streamline test automation efforts and improve overall efficiency. By leveraging this library, developers can create robust and scalable test automation frameworks that meet the demands of modern software development.
+"Fugazi is an open-source library of test automation skills and agents designed to support QA Automation Engineers in developing production-oriented solutions. This practical library offers a collection of instructions and skills tailored to streamline QA automation workflows. By leveraging Fugazi, engineers can create efficient and effective test automation frameworks."
 
 ---
 

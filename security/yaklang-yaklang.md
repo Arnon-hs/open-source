@@ -25,7 +25,7 @@ Security · Design
 
 ## 📝 Summary
 
-Yaklang is an open-source programming language specifically designed for developing secure applications and mitigating cyber threats. Its purpose is to provide a robust framework for writing secure code, thereby reducing the risk of vulnerabilities and attacks. By focusing solely on cybersecurity, Yaklang aims to revolutionize the way developers approach security in software development.
+Yaklang is an open-source, cybersecurity-focused programming language designed to provide a secure environment for writing secure code. Its primary goal is to prevent common programming mistakes that can lead to security vulnerabilities, thereby making it a valuable tool for developers and cybersecurity professionals. By leveraging Yaklang's secure-by-design architecture, users can write more secure code and reduce the risk of cyber threats.
 
 ---
 

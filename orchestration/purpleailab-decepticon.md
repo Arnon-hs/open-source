@@ -1,6 +1,6 @@
 # PurpleAILAB/Decepticon
 
-[![Stars](https://img.shields.io/github/stars/PurpleAILAB/Decepticon?style=flat-square&color=yellow)](https://github.com/PurpleAILAB/Decepticon/stargazers) [![Forks](https://img.shields.io/github/forks/PurpleAILAB/Decepticon?style=flat-square&color=blue)](https://github.com/PurpleAILAB/Decepticon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PurpleAILAB/Decepticon?style=flat-square&color=yellow)](https://github.com/PurpleAILAB/Decepticon/stargazers) [![Forks](https://img.shields.io/github/forks/PurpleAILAB/Decepticon?style=flat-square&color=blue)](https://github.com/PurpleAILAB/Decepticon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous Hacking Agent for Red Team
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 515 |
+| ⭐ **Stars** | 2.9k |
+| 🍴 **Forks** | 540 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

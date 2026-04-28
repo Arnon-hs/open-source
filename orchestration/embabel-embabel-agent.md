@@ -1,6 +1,6 @@
 # embabel/embabel-agent
 
-[![Stars](https://img.shields.io/github/stars/embabel/embabel-agent?style=flat-square&color=yellow)](https://github.com/embabel/embabel-agent/stargazers) [![Forks](https://img.shields.io/github/forks/embabel/embabel-agent?style=flat-square&color=blue)](https://github.com/embabel/embabel-agent/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/embabel/embabel-agent?style=flat-square&color=yellow)](https://github.com/embabel/embabel-agent/stargazers) [![Forks](https://img.shields.io/github/forks/embabel/embabel-agent?style=flat-square&color=blue)](https://github.com/embabel/embabel-agent/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 332 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

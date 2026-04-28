@@ -1,6 +1,6 @@
 # KarryViber/Orb
 
-[![Stars](https://img.shields.io/github/stars/KarryViber/Orb?style=flat-square&color=yellow)](https://github.com/KarryViber/Orb/stargazers) [![Forks](https://img.shields.io/github/forks/KarryViber/Orb?style=flat-square&color=blue)](https://github.com/KarryViber/Orb/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KarryViber/Orb?style=flat-square&color=yellow)](https://github.com/KarryViber/Orb/stargazers) [![Forks](https://img.shields.io/github/forks/KarryViber/Orb?style=flat-square&color=blue)](https://github.com/KarryViber/Orb/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Self-evolving AI agent framework — wraps Claude Code CLI with persistent memory, multi-profile isolation, and messaging platform integration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

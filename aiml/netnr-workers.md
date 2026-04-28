@@ -1,6 +1,6 @@
 # netnr/workers
 
-[![Stars](https://img.shields.io/github/stars/netnr/workers?style=flat-square&color=yellow)](https://github.com/netnr/workers/stargazers) [![Forks](https://img.shields.io/github/forks/netnr/workers?style=flat-square&color=blue)](https://github.com/netnr/workers/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netnr/workers?style=flat-square&color=yellow)](https://github.com/netnr/workers/stargazers) [![Forks](https://img.shields.io/github/forks/netnr/workers?style=flat-square&color=blue)](https://github.com/netnr/workers/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Cloudflare Workers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 441 |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

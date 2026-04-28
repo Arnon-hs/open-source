@@ -1,6 +1,6 @@
 # codefromkarl/ContextAtlas
 
-[![Stars](https://img.shields.io/github/stars/codefromkarl/ContextAtlas?style=flat-square&color=yellow)](https://github.com/codefromkarl/ContextAtlas/stargazers) [![Forks](https://img.shields.io/github/forks/codefromkarl/ContextAtlas?style=flat-square&color=blue)](https://github.com/codefromkarl/ContextAtlas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codefromkarl/ContextAtlas?style=flat-square&color=yellow)](https://github.com/codefromkarl/ContextAtlas/stargazers) [![Forks](https://img.shields.io/github/forks/codefromkarl/ContextAtlas?style=flat-square&color=blue)](https://github.com/codefromkarl/ContextAtlas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ContextAtlas — context infrastructure for AI coding agents: hybrid retrieval, project memory and retrieval observability via CLI, MCP server or embeddable library. Tree-sitter indexing, LanceDB vector search, FTS5 and token-aware context packing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

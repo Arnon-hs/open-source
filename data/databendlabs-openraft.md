@@ -25,9 +25,7 @@ Data
 
 ## 📝 Summary
 
-Here's a brief summary for the "databendlabs/openraft" project:
-
-Openraft is an open-source implementation of the Raft consensus algorithm in Rust, designed to provide a reliable and efficient distributed consensus solution. Built on top of the Raft protocol, this project introduces various improvements to enhance its performance, scalability, and usability. It is suitable for a wide range of applications requiring fault-tolerant and highly available data storage systems.
+The openraft project is an open-source implementation of the Raft consensus algorithm in Rust, designed to improve the reliability and scalability of distributed systems. This enhanced version of Raft incorporates various optimizations and improvements to provide a robust and efficient consensus protocol. By leveraging Rust's performance and safety features, openraft enables the development of fault-tolerant and high-performance distributed applications.
 
 ---
 

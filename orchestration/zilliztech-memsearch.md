@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/zilliztech/memsearch?style=flat-square&color=yellow)](https://github.com/zilliztech/memsearch/stargazers) [![Forks](https://img.shields.io/github/forks/zilliztech/memsearch?style=flat-square&color=blue)](https://github.com/zilliztech/memsearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
-> One persistent memory layer for all your AI agents, backed by Markdown and Milvus.
+> A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex), backed by Markdown and Milvus.
 
 ## 📊 Stats
 

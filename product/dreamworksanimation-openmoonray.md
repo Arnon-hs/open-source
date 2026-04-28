@@ -1,8 +1,8 @@
 # dreamworksanimation/openmoonray
 
-[![Stars](https://img.shields.io/github/stars/dreamworksanimation/openmoonray?style=flat-square&color=yellow)](https://github.com/dreamworksanimation/openmoonray/stargazers) [![Forks](https://img.shields.io/github/forks/dreamworksanimation/openmoonray?style=flat-square&color=blue)](https://github.com/dreamworksanimation/openmoonray/network) [![Language](https://img.shields.io/badge/lang-CMake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dreamworksanimation/openmoonray?style=flat-square&color=yellow)](https://github.com/dreamworksanimation/openmoonray/stargazers) [![Forks](https://img.shields.io/github/forks/dreamworksanimation/openmoonray?style=flat-square&color=blue)](https://github.com/dreamworksanimation/openmoonray/network) [![Language](https://img.shields.io/badge/lang-CMake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
-> MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
+> MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 292 |
 | 💻 **Language** | CMake |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

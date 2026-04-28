@@ -1,6 +1,6 @@
 # lzhgus/Capso
 
-[![Stars](https://img.shields.io/github/stars/lzhgus/Capso?style=flat-square&color=yellow)](https://github.com/lzhgus/Capso/stargazers) [![Forks](https://img.shields.io/github/forks/lzhgus/Capso?style=flat-square&color=blue)](https://github.com/lzhgus/Capso/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lzhgus/Capso?style=flat-square&color=yellow)](https://github.com/lzhgus/Capso/stargazers) [![Forks](https://img.shields.io/github/forks/lzhgus/Capso?style=flat-square&color=blue)](https://github.com/lzhgus/Capso/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 717 |
+| ⭐ **Stars** | 718 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

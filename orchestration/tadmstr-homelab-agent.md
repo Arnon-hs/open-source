@@ -1,6 +1,6 @@
 # TadMSTR/homelab-agent
 
-[![Stars](https://img.shields.io/github/stars/TadMSTR/homelab-agent?style=flat-square&color=yellow)](https://github.com/TadMSTR/homelab-agent/stargazers) [![Forks](https://img.shields.io/github/forks/TadMSTR/homelab-agent?style=flat-square&color=blue)](https://github.com/TadMSTR/homelab-agent/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TadMSTR/homelab-agent?style=flat-square&color=yellow)](https://github.com/TadMSTR/homelab-agent/stargazers) [![Forks](https://img.shields.io/github/forks/TadMSTR/homelab-agent?style=flat-square&color=blue)](https://github.com/TadMSTR/homelab-agent/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Reference build for a self-hosted AI platform — persistent context, multi-agent workflows, and purpose-built agents on your own hardware
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

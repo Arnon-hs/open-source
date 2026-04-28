@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Valkeyrie is an open-source, distributed key-value store abstraction library written in Go. It provides a high-level interface for interacting with various distributed key-value stores, allowing developers to build scalable and fault-tolerant applications. By abstracting away the underlying storage implementation, Valkeyrie simplifies the development process and enables easy integration with a range of key-value stores.
+Valkeyrie is an open-source distributed key/value store abstraction library written in Go. It provides a flexible and scalable framework for developers to work with distributed key/value stores, allowing for seamless integration with various storage engines. With Valkeyrie, developers can focus on building applications without worrying about the underlying storage complexities.
 
 ---
 

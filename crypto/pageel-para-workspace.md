@@ -25,7 +25,9 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-The PARA Workspace project is an open-source framework that enables humans and AI agents to collaborate on projects by organizing knowledge in a structured and efficient manner. As a comprehensive repository, it includes a kernel, command-line interface tools, and templates that facilitate the creation of workspaces where real collaboration takes place. This project is at the intersection of AI, machine learning, and orchestration, with potential applications in the crypto space.
+Here's a 2-3 sentence summary for the pageel/para-workspace project:
+
+PARA Workspace is an open-source framework that enables humans and AI agents to collaborate on projects by organizing knowledge effectively. This project provides a comprehensive set of tools, including a kernel, CLI tools, and templates, to generate workspaces where users can engage in productive work. By integrating AI/ML capabilities with a structured workspace, PARA Workspace aims to revolutionize project collaboration and knowledge management.
 
 ---
 

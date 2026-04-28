@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The yantrikdb-server is an open-source, AGPL-licensed cognitive memory database designed for AI agents. It eliminates duplicates, identifies inconsistencies, and automatically discards outdated information through temporal decay, ensuring a consistent and up-to-date knowledge base. This Rust-based project can be used as a library, an MCP server, or an HTTP cluster to facilitate AI decision-making processes.
+The YantrikDB Server is an open-source cognitive memory database designed for AI agents. It consolidates duplicate information, detects inconsistencies, and automatically fades outdated knowledge through a temporal decay mechanism. This Rust-based project offers flexibility as a library, a monolithic control process (MCP) server, or a scalable HTTP cluster.
 
 ---
 

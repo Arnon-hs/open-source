@@ -1,6 +1,6 @@
 # blacknon/hwatch
 
-[![Stars](https://img.shields.io/github/stars/blacknon/hwatch?style=flat-square&color=yellow)](https://github.com/blacknon/hwatch/stargazers) [![Forks](https://img.shields.io/github/forks/blacknon/hwatch?style=flat-square&color=blue)](https://github.com/blacknon/hwatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blacknon/hwatch?style=flat-square&color=yellow)](https://github.com/blacknon/hwatch/stargazers) [![Forks](https://img.shields.io/github/forks/blacknon/hwatch?style=flat-square&color=blue)](https://github.com/blacknon/hwatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,9 @@ AI/ML · Marketing
 
 ## 📝 Summary
 
-Claude-Skill-Social-Post is an open-source AI-powered project that enables users to automatically post on multiple social media platforms, including Facebook, Instagram, Threads, and X, using a learned voice from their Facebook account. The project utilizes a 14-day content calendar and has been validated through a successful post that reached 72K users, received 358 likes, and sparked 443 comments. This AI/ML tool is suitable for marketing professionals and those interested in leveraging AI for social media management.
+Here's a 2-3 sentence summary for the open-source project:
+
+Claude-Skill-Social-Post is an AI-powered content creation tool that generates social media posts based on a user's voice and personality. It uses a 14-day content calendar to auto-post on Facebook, Instagram, Threads, and X, making it a valuable resource for marketers and social media managers. This project has been validated by a viral post that reached 72K users, garnered 358 likes, and sparked 443 comments.
 
 ---
 

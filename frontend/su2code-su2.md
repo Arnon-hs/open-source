@@ -1,6 +1,6 @@
 # su2code/SU2
 
-[![Stars](https://img.shields.io/github/stars/su2code/SU2?style=flat-square&color=yellow)](https://github.com/su2code/SU2/stargazers) [![Forks](https://img.shields.io/github/forks/su2code/SU2?style=flat-square&color=blue)](https://github.com/su2code/SU2/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/su2code/SU2?style=flat-square&color=yellow)](https://github.com/su2code/SU2/stargazers) [![Forks](https://img.shields.io/github/forks/su2code/SU2?style=flat-square&color=blue)](https://github.com/su2code/SU2/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > SU2: An Open-Source Suite for Multiphysics Simulation and Design
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 977 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

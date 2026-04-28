@@ -1,6 +1,6 @@
 # Emin-ACIKGOZ/scbake
 
-[![Stars](https://img.shields.io/github/stars/Emin-ACIKGOZ/scbake?style=flat-square&color=yellow)](https://github.com/Emin-ACIKGOZ/scbake/stargazers) [![Forks](https://img.shields.io/github/forks/Emin-ACIKGOZ/scbake?style=flat-square&color=blue)](https://github.com/Emin-ACIKGOZ/scbake/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Emin-ACIKGOZ/scbake?style=flat-square&color=yellow)](https://github.com/Emin-ACIKGOZ/scbake/stargazers) [![Forks](https://img.shields.io/github/forks/Emin-ACIKGOZ/scbake?style=flat-square&color=blue)](https://github.com/Emin-ACIKGOZ/scbake/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Scaffold Bake is a single-binary CLI that atomically scaffolds and maintains projects using composable language packs and infrastructure templates from a single source of truth.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

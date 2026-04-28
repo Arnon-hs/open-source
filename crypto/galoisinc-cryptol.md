@@ -1,6 +1,6 @@
 # GaloisInc/cryptol
 
-[![Stars](https://img.shields.io/github/stars/GaloisInc/cryptol?style=flat-square&color=yellow)](https://github.com/GaloisInc/cryptol/stargazers) [![Forks](https://img.shields.io/github/forks/GaloisInc/cryptol?style=flat-square&color=blue)](https://github.com/GaloisInc/cryptol/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GaloisInc/cryptol?style=flat-square&color=yellow)](https://github.com/GaloisInc/cryptol/stargazers) [![Forks](https://img.shields.io/github/forks/GaloisInc/cryptol?style=flat-square&color=blue)](https://github.com/GaloisInc/cryptol/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Cryptol: The Language of Cryptography
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

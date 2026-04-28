@@ -1,6 +1,6 @@
 # pypsa-meets-earth/pypsa-earth
 
-[![Stars](https://img.shields.io/github/stars/pypsa-meets-earth/pypsa-earth?style=flat-square&color=yellow)](https://github.com/pypsa-meets-earth/pypsa-earth/stargazers) [![Forks](https://img.shields.io/github/forks/pypsa-meets-earth/pypsa-earth?style=flat-square&color=blue)](https://github.com/pypsa-meets-earth/pypsa-earth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pypsa-meets-earth/pypsa-earth?style=flat-square&color=yellow)](https://github.com/pypsa-meets-earth/pypsa-earth/stargazers) [![Forks](https://img.shields.io/github/forks/pypsa-meets-earth/pypsa-earth?style=flat-square&color=blue)](https://github.com/pypsa-meets-earth/pypsa-earth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > PyPSA-Earth: A flexible Python-based open optimisation model to study energy system futures around the world.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 336 |
-| 🍴 **Forks** | 315 |
+| ⭐ **Stars** | 337 |
+| 🍴 **Forks** | 316 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

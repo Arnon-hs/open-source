@@ -1,6 +1,6 @@
 # tinted-theming/tinty
 
-[![Stars](https://img.shields.io/github/stars/tinted-theming/tinty?style=flat-square&color=yellow)](https://github.com/tinted-theming/tinty/stargazers) [![Forks](https://img.shields.io/github/forks/tinted-theming/tinty?style=flat-square&color=blue)](https://github.com/tinted-theming/tinty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinted-theming/tinty?style=flat-square&color=yellow)](https://github.com/tinted-theming/tinty/stargazers) [![Forks](https://img.shields.io/github/forks/tinted-theming/tinty?style=flat-square&color=blue)](https://github.com/tinted-theming/tinty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A base16 and base24 color scheme manager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 177 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

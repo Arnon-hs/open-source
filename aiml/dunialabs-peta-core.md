@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Peta-Core is an open-source control plane for the MCP (Modular Container Platform), providing a secure vault, managed runtime, audit trail, and policy-based approvals. This project enables secure and scalable infrastructure management, ensuring data integrity and compliance. By leveraging Peta-Core, developers can create robust and auditable containerized applications.
+Peta-Core is an open-source control plane for the Micro Cloud Platform (MCP), providing a secure environment for managing applications. Key features include a secure vault for sensitive data, a managed runtime for application execution, an audit trail for monitoring activity, and policy-based approvals for access control. This control plane enables secure, scalable, and compliant deployment of AI/ML and other applications.
 
 ---
 

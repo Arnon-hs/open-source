@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-This open-source project, AwesomeSalesforceSkills, offers a comprehensive library of reusable Salesforce skills for AI coding agents. With over 100 skills covering various domains, including Admin, Dev, DevOps, Integration, and Architecture, it enables users to leverage the Salesforce Well-Architected Framework. The project is compatible with popular AI tools like Claude Code, Copilot, and Codex, empowering developers to work more efficiently and effectively.
+Here's a brief summary for the AwesomeSalesforceSkills project:
+
+The AwesomeSalesforceSkills project is an open-source library of reusable Salesforce skills tailored for AI coding agents. This comprehensive collection of over 100 skills spans Admin, Dev, DevOps, Integration, and Architecture domains, mapping to the Salesforce Well-Architected Framework. By leveraging this library, developers can efficiently leverage AI coding tools like Claude Code, Copilot, and Codex to streamline their Salesforce projects.
 
 ---
 

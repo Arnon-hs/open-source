@@ -25,7 +25,7 @@ AI/ML · Backend · Marketing
 
 ## 📝 Summary
 
-The AdsPower/adspower-browser project is an open-source initiative that provides a MCP (Multi-Client Protocol) server for utilizing AdsPower's LocalAPI, aiming to streamline advertising operations. This project is categorized under AI/ML, Backend, and Marketing, indicating its focus on leveraging technology for marketing and advertising purposes. By harnessing the power of LocalAPI through this MCP server, users can enhance their advertising efficiency and performance.
+AdsPower/adspower-browser is an open-source project that provides a MCP (Master Control Panel) server for utilizing the AdsPower LocalAPI. This server enables users to leverage the capabilities of AdsPower's LocalAPI for various marketing purposes. By utilizing this MCP server, users can streamline their marketing operations and automate tasks through the AdsPower LocalAPI.
 
 ---
 

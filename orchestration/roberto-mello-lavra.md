@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The Lavra project is an open-source plugin that integrates compound engineering workflows with AI coding agents, enabling more efficient and streamlined development processes. This plugin is designed for use in orchestration, AI/ML, and DevTools environments, providing a powerful tool for developers and data scientists. By combining human expertise with AI-driven capabilities, Lavra aims to enhance the productivity and accuracy of coding tasks.
+Here's a brief summary for the open-source project:
+
+Lavra is an open-source plugin that enables compound engineering workflows for AI coding agents, providing a scalable and efficient framework for AI development. This innovative tool combines orchestration and AI/ML capabilities to streamline the coding process. By leveraging Lavra, developers can unlock the full potential of AI coding agents and accelerate their projects.
 
 ---
 

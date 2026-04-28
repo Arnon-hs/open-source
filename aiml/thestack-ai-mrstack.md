@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-TheStack-ai/mrstack is an open-source project that enables users to run Claude Code from Telegram, a 24/7 AI development partner, even when the terminal is closed. This project simplifies the experience by allowing users to access AI-powered development capabilities at any time. It can be installed via pip with the command "pip install mrstack".
+Here's a brief summary:
+
+Mrstack is an open-source project that allows users to run Claude Code from Telegram, a 24/7 AI development partner, even after the terminal is closed. This project can be easily installed using pip, providing developers with a convenient and always-on development experience. By utilizing mrstack, users can leverage the capabilities of Claude Code in a more efficient and accessible manner.
 
 ---
 

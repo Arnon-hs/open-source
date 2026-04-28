@@ -1,6 +1,6 @@
 # trailheadapps/ebikes-lwc
 
-[![Stars](https://img.shields.io/github/stars/trailheadapps/ebikes-lwc?style=flat-square&color=yellow)](https://github.com/trailheadapps/ebikes-lwc/stargazers) [![Forks](https://img.shields.io/github/forks/trailheadapps/ebikes-lwc?style=flat-square&color=blue)](https://github.com/trailheadapps/ebikes-lwc/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trailheadapps/ebikes-lwc?style=flat-square&color=yellow)](https://github.com/trailheadapps/ebikes-lwc/stargazers) [![Forks](https://img.shields.io/github/forks/trailheadapps/ebikes-lwc?style=flat-square&color=blue)](https://github.com/trailheadapps/ebikes-lwc/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Sample application for Lightning Web Components and Experience Cloud on Salesforce Platform. Retail use case. Get inspired and learn best practices.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 839 |
+| ⭐ **Stars** | 838 |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

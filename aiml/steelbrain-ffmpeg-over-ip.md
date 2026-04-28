@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The 'ffmpeg-over-ip' project by steelbrain enables you to connect to remote FFmpeg servers, allowing for decentralized and scalable media processing. This solution empowers developers to harness the power of FFmpeg in a distributed environment, facilitating efficient and fault-tolerant media processing. By leveraging remote FFmpeg servers, users can optimize resource utilization and improve overall system reliability.
+The steelbrain/ffmpeg-over-ip project allows developers to connect to remote FFmpeg servers, enabling the use of these servers for media processing tasks in a distributed computing environment. This open-source project simplifies the integration of FFmpeg servers into larger applications, facilitating scalable and efficient media processing. By leveraging remote FFmpeg servers, developers can optimize resource utilization and improve system performance.
 
 ---
 

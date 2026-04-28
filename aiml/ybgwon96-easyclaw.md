@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The EasyClaw project is an open-source, one-click installer for the OpenClaw AI agent, providing a seamless installation experience for both macOS and Windows users. This project simplifies the process of getting started with OpenClaw, a cutting-edge AI tool, by eliminating the need for manual configuration and setup.
+The EasyClaw project is an open-source, one-click installer for the OpenClaw AI agent, allowing users to easily deploy the agent on both macOS and Windows operating systems. This installer streamlines the setup process, making it more accessible for developers and researchers working with AI/ML applications. By leveraging EasyClaw, users can quickly get started with OpenClaw without needing to navigate complex installation procedures.
 
 ---
 

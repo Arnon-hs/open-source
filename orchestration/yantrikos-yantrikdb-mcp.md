@@ -25,9 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-YantrikDB MCP Server is a cognitive memory system designed for AI agents, enabling them to learn and adapt from experiences. This open-source project provides a robust backend framework for AI/ML applications to efficiently store and retrieve complex data. By leveraging YantrikDB MCP Server, developers can build more intelligent and responsive AI systems.
+YantrikDB MCP Server is an open-source cognitive memory system designed for AI agents, providing a robust backend solution for knowledge management and inference. This project enables AI applications to store, reason, and retrieve complex knowledge graphs, facilitating more intelligent and adaptive decision-making processes. By leveraging YantrikDB MCP Server, developers can build more sophisticated AI systems with enhanced cognitive capabilities.
 
 ---
 

@@ -1,6 +1,6 @@
 # umihico/docker-selenium-lambda
 
-[![Stars](https://img.shields.io/github/stars/umihico/docker-selenium-lambda?style=flat-square&color=yellow)](https://github.com/umihico/docker-selenium-lambda/stargazers) [![Forks](https://img.shields.io/github/forks/umihico/docker-selenium-lambda?style=flat-square&color=blue)](https://github.com/umihico/docker-selenium-lambda/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/umihico/docker-selenium-lambda?style=flat-square&color=yellow)](https://github.com/umihico/docker-selenium-lambda/stargazers) [![Forks](https://img.shields.io/github/forks/umihico/docker-selenium-lambda?style=flat-square&color=blue)](https://github.com/umihico/docker-selenium-lambda/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The simplest demo of chrome automation by python and selenium in AWS Lambda
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 621 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

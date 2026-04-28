@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The n8n-install project is an open-source solution for self-hosting a comprehensive AI automation platform. With a single command, users can deploy a range of tools, including n8n, Ollama, Flowise, RAG, and Supabase, as well as over 30 additional integrations. This platform offers a free alternative to commercial services like Zapier and Make, providing users with a customizable, self-hosted automation solution.
+The kossakovsky/n8n-install project is an open-source platform for self-hosting AI automation tools. It enables users to deploy a range of popular tools, including n8n, Ollama, and Supabase, with a single command, and automatically configures HTTPS for secure operations. This project offers a free alternative to commercial automation platforms like Zapier and Make.
 
 ---
 

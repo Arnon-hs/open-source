@@ -1,6 +1,6 @@
 # combinatrix-ai/agenv
 
-[![Stars](https://img.shields.io/github/stars/combinatrix-ai/agenv?style=flat-square&color=yellow)](https://github.com/combinatrix-ai/agenv/stargazers) [![Forks](https://img.shields.io/github/forks/combinatrix-ai/agenv?style=flat-square&color=blue)](https://github.com/combinatrix-ai/agenv/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/combinatrix-ai/agenv?style=flat-square&color=yellow)](https://github.com/combinatrix-ai/agenv/stargazers) [![Forks](https://img.shields.io/github/forks/combinatrix-ai/agenv?style=flat-square&color=blue)](https://github.com/combinatrix-ai/agenv/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > nvm / pyenv for AI coding agents
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2 |
+| ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 

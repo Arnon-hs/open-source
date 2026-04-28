@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/datachain-ai/datachain?style=flat-square&color=yellow)](https://github.com/datachain-ai/datachain/stargazers) [![Forks](https://img.shields.io/github/forks/datachain-ai/datachain?style=flat-square&color=blue)](https://github.com/datachain-ai/datachain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
-> Data context layer for unstructured data - images, video, sensor data, text and PDFs
+> Data Memory: the operational data context layer for AI agents - typed, versioned datasets over images, video, docs and tables
 
 ## 📊 Stats
 

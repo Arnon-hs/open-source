@@ -1,6 +1,6 @@
 # DeusData/codebase-memory-mcp
 
-[![Stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=flat-square&color=yellow)](https://github.com/DeusData/codebase-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/DeusData/codebase-memory-mcp?style=flat-square&color=blue)](https://github.com/DeusData/codebase-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=flat-square&color=yellow)](https://github.com/DeusData/codebase-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/DeusData/codebase-memory-mcp?style=flat-square&color=blue)](https://github.com/DeusData/codebase-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 212 |
+| 🍴 **Forks** | 214 |
 | 💻 **Language** | C |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

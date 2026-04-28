@@ -1,6 +1,6 @@
 # IBM/fp-go
 
-[![Stars](https://img.shields.io/github/stars/IBM/fp-go?style=flat-square&color=yellow)](https://github.com/IBM/fp-go/stargazers) [![Forks](https://img.shields.io/github/forks/IBM/fp-go?style=flat-square&color=blue)](https://github.com/IBM/fp-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IBM/fp-go?style=flat-square&color=yellow)](https://github.com/IBM/fp-go/stargazers) [![Forks](https://img.shields.io/github/forks/IBM/fp-go?style=flat-square&color=blue)](https://github.com/IBM/fp-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads, plus optics (Lens, Prism, Traversal) for immutable data manipulation. Supports Functor, Applicative, and Monad abstractions with do-notation-style
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

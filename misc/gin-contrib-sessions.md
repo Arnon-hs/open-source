@@ -1,6 +1,6 @@
 # gin-contrib/sessions
 
-[![Stars](https://img.shields.io/github/stars/gin-contrib/sessions?style=flat-square&color=yellow)](https://github.com/gin-contrib/sessions/stargazers) [![Forks](https://img.shields.io/github/forks/gin-contrib/sessions?style=flat-square&color=blue)](https://github.com/gin-contrib/sessions/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gin-contrib/sessions?style=flat-square&color=yellow)](https://github.com/gin-contrib/sessions/stargazers) [![Forks](https://img.shields.io/github/forks/gin-contrib/sessions?style=flat-square&color=blue)](https://github.com/gin-contrib/sessions/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Gin middleware for session management
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

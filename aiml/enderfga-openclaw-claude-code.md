@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The open-source project, openclaw-claude-code, is an OpenClaw plugin that transforms the Claude Code CLI into a programmable, headless coding engine. This powerful tool provides a wide range of features, including multi-model proxy and agent teams, making it an ideal solution for developers looking to leverage AI and ML capabilities in their projects. With openclaw-claude-code, users can create, integrate, and automate complex coding tasks with ease.
+Here's a brief summary for the open-source project:
+
+OpenClaw-Clawde-Code is an open-source plugin that enables the Claude Code CLI to function as a programmable, headless coding engine. This powerful tool offers a range of features, including agent teams and multi-model proxies, making it an ideal solution for developers working with AI and ML applications. By leveraging OpenClaw, users can unlock the full potential of Claude Code and streamline their development workflow.
 
 ---
 

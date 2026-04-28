@@ -1,6 +1,6 @@
 # alvinreal/awesome-autoresearch
 
-[![Stars](https://img.shields.io/github/stars/alvinreal/awesome-autoresearch?style=flat-square&color=yellow)](https://github.com/alvinreal/awesome-autoresearch/stargazers) [![Forks](https://img.shields.io/github/forks/alvinreal/awesome-autoresearch?style=flat-square&color=blue)](https://github.com/alvinreal/awesome-autoresearch/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alvinreal/awesome-autoresearch?style=flat-square&color=yellow)](https://github.com/alvinreal/awesome-autoresearch/stargazers) [![Forks](https://img.shields.io/github/forks/alvinreal/awesome-autoresearch?style=flat-square&color=blue)](https://github.com/alvinreal/awesome-autoresearch/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

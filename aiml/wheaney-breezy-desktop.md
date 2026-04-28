@@ -25,7 +25,7 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Breezy Desktop is an open-source project that aims to bring seamless XR (extended reality) productivity and gaming experiences to Linux users. This innovative platform enables users to unlock immersive capabilities, elevating their workflow and entertainment to new heights. By harnessing the power of AI and machine learning, Breezy Desktop redefines the boundaries of what is possible on the Linux operating system.
+Breezy-Desktop is an open-source project that brings cutting-edge XR (Extended Reality) productivity and gaming experiences to Linux users. This innovative platform leverages AI/ML technologies to provide users with immersive and interactive applications. By harnessing the power of Linux, Breezy-Desktop aims to revolutionize the way users work and play in virtual and augmented reality environments.
 
 ---
 

@@ -1,6 +1,6 @@
 # new92/instatools
 
-[![Stars](https://img.shields.io/github/stars/new92/instatools?style=flat-square&color=yellow)](https://github.com/new92/instatools/stargazers) [![Forks](https://img.shields.io/github/forks/new92/instatools?style=flat-square&color=blue)](https://github.com/new92/instatools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/new92/instatools?style=flat-square&color=yellow)](https://github.com/new92/instatools/stargazers) [![Forks](https://img.shields.io/github/forks/new92/instatools?style=flat-square&color=blue)](https://github.com/new92/instatools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🧰 A collection of automation tools for Instagram 📱| Written in Python 🐍 | Don't forget to ⭐ the repo !
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 290 |
+| ⭐ **Stars** | 291 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

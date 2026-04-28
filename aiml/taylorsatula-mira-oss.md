@@ -1,6 +1,6 @@
 # taylorsatula/mira-OSS
 
-[![Stars](https://img.shields.io/github/stars/taylorsatula/mira-OSS?style=flat-square&color=yellow)](https://github.com/taylorsatula/mira-OSS/stargazers) [![Forks](https://img.shields.io/github/forks/taylorsatula/mira-OSS?style=flat-square&color=blue)](https://github.com/taylorsatula/mira-OSS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taylorsatula/mira-OSS?style=flat-square&color=yellow)](https://github.com/taylorsatula/mira-OSS/stargazers) [![Forks](https://img.shields.io/github/forks/taylorsatula/mira-OSS?style=flat-square&color=blue)](https://github.com/taylorsatula/mira-OSS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I would like to think I've made an elegant brain-in-box. You load it and send cURL requests - it talks back, learns, and uses tools. Contributions welcome.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 446 |
+| ⭐ **Stars** | 447 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
