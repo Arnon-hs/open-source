@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Uno Platform Gallery is an open-source application that showcases the capabilities of the Uno Platform, a cross-platform framework for building modern applications across multiple platforms, including Windows, macOS, iOS, Android, and web. This gallery demonstrates a wide range of features, controls, and UI components available on the Uno Platform. It serves as a valuable resource for developers to explore and learn about the platform's capabilities.
+The Uno Platform Gallery is an open-source project showcasing the capabilities of the Uno Platform, a cross-platform framework for building mobile, desktop, and web applications. This gallery application demonstrates various features and examples of Uno Platform, allowing developers to explore its potential and see its applications in action. It serves as a valuable resource for learning and testing the Uno Platform.
 
 ---
 

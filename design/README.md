@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.1k | JavaScript | 100/100 |
 | 2 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
-| 3 | [roboflow/rf-detr](./roboflow-rf-detr.md) | ⭐ 6.6k | Python | 96/100 |
+| 3 | [roboflow/rf-detr](./roboflow-rf-detr.md) | ⭐ 6.7k | Python | 96/100 |
 | 4 | [dotnet/csharplang](./dotnet-csharplang.md) | ⭐ 12.6k | C# | 93/100 |
 | 5 | [safing/portmaster](./safing-portmaster.md) | ⭐ 12.5k | Go | 92/100 |
 | 6 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.6k | Scala | 91/100 |
@@ -18,8 +18,8 @@
 | 8 | [tw93/Waza](./tw93-waza.md) | ⭐ 4.2k | Shell | 83/100 |
 | 9 | [j178/prek](./j178-prek.md) | ⭐ 7.5k | Rust | 82/100 |
 | 10 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |
-| 11 | [lowRISC/opentitan](./lowrisc-opentitan.md) | ⭐ 3.3k | SystemVerilog | 78/100 |
-| 12 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 2.8k | TypeScript | 78/100 |
+| 11 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 2.8k | TypeScript | 78/100 |
+| 12 | [lowRISC/opentitan](./lowrisc-opentitan.md) | ⭐ 3.3k | SystemVerilog | 78/100 |
 | 13 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 72/100 |
 | 14 | [sipsorcery-org/sipsorcery](./sipsorcery-org-sipsorcery.md) | ⭐ 1.9k | C# | 71/100 |
 | 15 | [aws-samples/amazon-bedrock-workshop](./aws-samples-amazon-bedrock-workshop.md) | ⭐ 2.1k | Jupyter Notebook | 69/100 |
@@ -34,8 +34,8 @@
 | 24 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 52/100 |
 | 25 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 225 | Go | 52/100 |
 | 26 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
-| 27 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 50/100 |
-| 28 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 602 | PHP | 50/100 |
+| 27 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 602 | PHP | 50/100 |
+| 28 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 50/100 |
 | 29 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 441 | JavaScript | 49/100 |
 | 30 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
 | 31 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 252 | Go | 48/100 |

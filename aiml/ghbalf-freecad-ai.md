@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The ghbalf/freecad-ai project is an open-source workbench for FreeCAD that leverages AI to efficiently generate 3D models from natural language input. This innovative tool empowers users to create complex designs using straightforward text descriptions, streamlining the design process and enhancing productivity. By integrating AI technology into FreeCAD, this project pushes the boundaries of computer-aided design and engineering.
+This open-source project, ghbalf/freecad-ai, offers an AI-powered assistant workbench for FreeCAD, enabling users to generate 3D models directly from natural language input. The workbench utilizes AI capabilities to translate verbal descriptions into precise 3D geometry, streamlining the design process for FreeCAD users. This integration aims to make 3D modeling more accessible and efficient.
 
 ---
 

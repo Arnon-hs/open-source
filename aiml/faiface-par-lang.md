@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Par (⅋) project is an open-source, experimental concurrent programming language that incorporates the principles of linear logic to provide a powerful framework for concurrent programming. This language aims to facilitate the development of complex, concurrent applications by leveraging the expressive power of linear logic. By making Par (⅋) open-source, the community can collaborate and contribute to its development for AI and ML applications.
+Par (⅋) is an experimental concurrent programming language that aims to bring the expressive power of linear logic into practical use. This open-source project seeks to harness the power of linear logic to create more efficient and effective concurrent programming models. By leveraging linear logic, Par (⅋) aims to provide a novel approach to concurrent programming for AI/ML applications.
 
 ---
 

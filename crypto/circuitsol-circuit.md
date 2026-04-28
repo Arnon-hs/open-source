@@ -1,6 +1,6 @@
 # CircuitSOL/Circuit
 
-[![Stars](https://img.shields.io/github/stars/CircuitSOL/Circuit?style=flat-square&color=yellow)](https://github.com/CircuitSOL/Circuit/stargazers) [![Forks](https://img.shields.io/github/forks/CircuitSOL/Circuit?style=flat-square&color=blue)](https://github.com/CircuitSOL/Circuit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CircuitSOL/Circuit?style=flat-square&color=yellow)](https://github.com/CircuitSOL/Circuit/stargazers) [![Forks](https://img.shields.io/github/forks/CircuitSOL/Circuit?style=flat-square&color=blue)](https://github.com/CircuitSOL/Circuit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

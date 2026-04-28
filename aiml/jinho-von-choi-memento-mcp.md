@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the project:
 
-Memento-MCP is an open-source, fragment-based memory management system for long-term AI memory. This project provides a server implementation of the system, enabling efficient and scalable management of complex AI knowledge bases. The goal of Memento-MCP is to support the development of advanced AI applications by providing a robust and flexible framework for long-term memory management.
+The Memento MCP Server is an open-source, AI-driven long-term memory system that leverages fragment-based memory architecture to store and retrieve data. Developed with a focus on scalability and flexibility, this project enables the creation of robust and efficient memory systems for various applications. By utilizing AI and machine learning techniques, Memento MCP Server aims to revolutionize the way data is stored and managed.
 
 ---
 

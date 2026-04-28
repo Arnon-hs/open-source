@@ -25,9 +25,9 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here is a brief summary for the authzed/zed project:
+Here's a brief summary for the authzed/zed project:
 
-Zed is an official command-line tool for managing SpiceDB, a leading open-source graph database designed for authorization and access control. With Zed, users can easily interact with SpiceDB to create, update, and manage access control policies, streamlining their workflow and improving overall efficiency. As a command-line tool, Zed offers a flexible and scalable solution for managing SpiceDB instances in a variety of environments.
+zed is an official command-line tool for managing SpiceDB, a graph database for fine-grained access control and authorization. This open-source project provides a powerful and flexible way to interact with SpiceDB, enabling developers to manage policies, users, and access controls with ease. With zed, you can simplify the process of setting up and maintaining secure access control systems in your applications.
 
 ---
 

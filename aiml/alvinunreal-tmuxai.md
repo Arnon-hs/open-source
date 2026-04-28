@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The tmuxai project is an open-source, AI-powered terminal assistant designed to work seamlessly with tmux, a popular terminal multiplexer. This non-intrusive assistant utilizes AI to provide users with intelligent suggestions and automation capabilities, enhancing their terminal experience. By leveraging AI and machine learning, tmuxai aims to make terminal interactions more efficient and productive.
+The tmuxai project is an open-source, AI-powered terminal assistant designed to work seamlessly with tmux, a popular terminal multiplexer. This non-intrusive assistant provides users with automated features and suggestions to enhance their productivity, streamlining tasks and workflow management within the terminal environment. By leveraging AI/ML capabilities, tmuxai aims to revolutionize the way users interact with their terminals.
 
 ---
 

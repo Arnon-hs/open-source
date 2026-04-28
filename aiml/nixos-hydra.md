@@ -1,6 +1,6 @@
 # NixOS/hydra
 
-[![Stars](https://img.shields.io/github/stars/NixOS/hydra?style=flat-square&color=yellow)](https://github.com/NixOS/hydra/stargazers) [![Forks](https://img.shields.io/github/forks/NixOS/hydra?style=flat-square&color=blue)](https://github.com/NixOS/hydra/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NixOS/hydra?style=flat-square&color=yellow)](https://github.com/NixOS/hydra/stargazers) [![Forks](https://img.shields.io/github/forks/NixOS/hydra?style=flat-square&color=blue)](https://github.com/NixOS/hydra/network) [![Language](https://img.shields.io/badge/lang-PLpgSQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 342 |
-| 💻 **Language** | Perl |
+| 💻 **Language** | PLpgSQL |
 | 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

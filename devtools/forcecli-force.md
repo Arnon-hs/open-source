@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-ForceCLI, also known as 'force', is an open-source command-line interface that provides a simple and efficient way to interact with the Salesforce platform, known as Force.com. This tool allows developers and administrators to manage their Salesforce environments, execute commands, and perform various tasks from the comfort of their terminal or command prompt. By utilizing ForceCLI, users can streamline their workflow and improve productivity when working with Salesforce.
+ForceCLI/force is an open-source command-line interface (CLI) designed to interact with Salesforce's Force.com platform from the terminal. This tool enables users to manage and automate tasks on the platform using simple, intuitive commands. By leveraging ForceCLI/force, developers can streamline their workflows and improve productivity when working with Salesforce.
 
 ---
 

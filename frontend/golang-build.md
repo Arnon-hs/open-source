@@ -25,7 +25,7 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The golang/build project is an open-source continuous build and release infrastructure for Go, providing a platform for automating the build process of Go projects. Although it is intended for experimental use and does not guarantee stability, it can be used by developers to streamline their build workflows. This project is primarily utilized by the Go team itself, but can be employed by any project that requires automated build and release processes.
+The golang/build project is an open-source initiative that provides Go's continuous build and release infrastructure. This project offers a robust system for automating build processes, enabling developers to streamline their workflow and ensure efficient code deployment. As an open-source project, it allows for community contributions and flexibility in its use, making it a valuable resource for Go developers and DevOps teams.
 
 ---
 

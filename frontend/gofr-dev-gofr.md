@@ -25,7 +25,7 @@ Frontend · Backend · Data
 
 ## 📝 Summary
 
-Gofr is an open-source, opinionated GoLang framework designed to accelerate microservice development. It provides built-in support for databases and observability, streamlining the process of building, deploying, and monitoring scalable microservices. With gofr, developers can focus on writing efficient and reliable code, rather than spending time on framework setup and configuration.
+The gofr project is an open-source, opinionated framework for accelerating microservice development in GoLang. It provides built-in support for databases and observability, streamlining the development process and enabling developers to focus on core business logic. This framework is ideal for building scalable and efficient microservices.
 
 ---
 

@@ -25,9 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The aws-ecr-credential-helper is an open-source tool that automates the process of obtaining Amazon ECR (Elastic Container Registry) credentials for Docker operations. It seamlessly retrieves the necessary credentials for Docker push and pull operations, streamlining the integration of ECR with Docker environments. This tool simplifies DevOps and infrastructure workflows by eliminating the need for manual credential configuration.
+The Amazon ECR Credential Helper is an open-source project that automates the process of obtaining credentials for Amazon Elastic Container Registry (ECR) when using Docker push or pull operations. This tool simplifies the integration of ECR with Docker, eliminating the need for manual credential configuration. By streamlining the authentication process, developers can focus on building and deploying their applications with greater ease and efficiency.
 
 ---
 

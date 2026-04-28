@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The georust/geojson library is an open-source tool for efficiently serializing and working with the GeoJSON vector GIS file format. It provides a convenient interface for converting between GeoJSON data structures and other formats, making it an essential resource for geospatial data processing and analysis. This library simplifies the integration of GeoJSON data into various applications and workflows.
+The georust/geojson library is an open-source project that enables the serialization of GeoJSON, a widely used vector GIS file format for geospatial data. This library provides a convenient interface for working with GeoJSON files, allowing developers to easily create, read, and manipulate geospatial data in a variety of applications. By utilizing georust/geojson, developers can efficiently integrate geospatial functionality into their projects.
 
 ---
 
