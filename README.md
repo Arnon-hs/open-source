@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **9327** |
+| 🗂️ **Total projects** | **9379** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,14 +18,14 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3595 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1741 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 935 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 772 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 543 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 532 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 332 | [Browse →](./crypto/) |
-| 📊 **Data** | 198 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 3612 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1752 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 943 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 775 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 548 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 536 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 335 | [Browse →](./crypto/) |
+| 📊 **Data** | 199 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 188 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 124 | [Browse →](./mobile/) |
 | 💳 **Payments** | 115 | [Browse →](./payments/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [apache/superset](./frontend/apache-superset.md) | ⭐ 72.6k | Frontend |
-| 2 | [laramies/theHarvester](./aiml/laramies-theharvester.md) | ⭐ 16.1k | AI/ML |
-| 3 | [CorentinTh/it-tools](./frontend/corentinth-it-tools.md) | ⭐ 38.3k | Frontend |
-| 4 | [wolfpld/tracy](./misc/wolfpld-tracy.md) | ⭐ 15.7k | Misc |
-| 5 | [1Panel-dev/1Panel](./aiml/1panel-dev-1panel.md) | ⭐ 35.2k | AI/ML |
-| 6 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.5k | DevTools |
-| 7 | [openscad/openscad](./misc/openscad-openscad.md) | ⭐ 9.3k | Misc |
-| 8 | [coollabsio/coolify](./backend/coollabsio-coolify.md) | ⭐ 54.3k | Backend |
-| 9 | [roboflow/supervision](./misc/roboflow-supervision.md) | ⭐ 38.2k | Misc |
-| 10 | [RIOT-OS/RIOT](./misc/riot-os-riot.md) | ⭐ 5.7k | Misc |
+| 1 | [CorentinTh/it-tools](./frontend/corentinth-it-tools.md) | ⭐ 38.3k | Frontend |
+| 2 | [wolfpld/tracy](./misc/wolfpld-tracy.md) | ⭐ 15.7k | Misc |
+| 3 | [1Panel-dev/1Panel](./aiml/1panel-dev-1panel.md) | ⭐ 35.2k | AI/ML |
+| 4 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.5k | DevTools |
+| 5 | [openscad/openscad](./misc/openscad-openscad.md) | ⭐ 9.3k | Misc |
+| 6 | [coollabsio/coolify](./backend/coollabsio-coolify.md) | ⭐ 54.3k | Backend |
+| 7 | [roboflow/supervision](./misc/roboflow-supervision.md) | ⭐ 38.2k | Misc |
+| 8 | [RIOT-OS/RIOT](./misc/riot-os-riot.md) | ⭐ 5.7k | Misc |
+| 9 | [shadps4-emu/shadPS4](./frontend/shadps4-emu-shadps4.md) | ⭐ 30.9k | Frontend |
+| 10 | [getsops/sops](./security/getsops-sops.md) | ⭐ 21.6k | Security |
 
 ## 🚀 How it works
 

@@ -1,6 +1,6 @@
 # ebrandi/FDD-book
 
-[![Stars](https://img.shields.io/github/stars/ebrandi/FDD-book?style=flat-square&color=yellow)](https://github.com/ebrandi/FDD-book/stargazers) [![Forks](https://img.shields.io/github/forks/ebrandi/FDD-book?style=flat-square&color=blue)](https://github.com/ebrandi/FDD-book/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ebrandi/FDD-book?style=flat-square&color=yellow)](https://github.com/ebrandi/FDD-book/stargazers) [![Forks](https://img.shields.io/github/forks/ebrandi/FDD-book?style=flat-square&color=blue)](https://github.com/ebrandi/FDD-book/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > FreeBSD Device Driver Book
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 319 |
-| 🍴 **Forks** | 17 |
+| ⭐ **Stars** | 321 |
+| 🍴 **Forks** | 18 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
