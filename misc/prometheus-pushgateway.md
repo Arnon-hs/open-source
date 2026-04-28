@@ -1,6 +1,6 @@
 # prometheus/pushgateway
 
-[![Stars](https://img.shields.io/github/stars/prometheus/pushgateway?style=flat-square&color=yellow)](https://github.com/prometheus/pushgateway/stargazers) [![Forks](https://img.shields.io/github/forks/prometheus/pushgateway?style=flat-square&color=blue)](https://github.com/prometheus/pushgateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prometheus/pushgateway?style=flat-square&color=yellow)](https://github.com/prometheus/pushgateway/stargazers) [![Forks](https://img.shields.io/github/forks/prometheus/pushgateway?style=flat-square&color=blue)](https://github.com/prometheus/pushgateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Push acceptor for ephemeral and batch jobs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 497 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # ZacSweers/metro
 
-[![Stars](https://img.shields.io/github/stars/ZacSweers/metro?style=flat-square&color=yellow)](https://github.com/ZacSweers/metro/stargazers) [![Forks](https://img.shields.io/github/forks/ZacSweers/metro?style=flat-square&color=blue)](https://github.com/ZacSweers/metro/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZacSweers/metro?style=flat-square&color=yellow)](https://github.com/ZacSweers/metro/stargazers) [![Forks](https://img.shields.io/github/forks/ZacSweers/metro?style=flat-square&color=blue)](https://github.com/ZacSweers/metro/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A multiplatform, compile-time dependency injection framework for Kotlin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

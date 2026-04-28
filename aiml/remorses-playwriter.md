@@ -1,6 +1,6 @@
 # remorses/playwriter
 
-[![Stars](https://img.shields.io/github/stars/remorses/playwriter?style=flat-square&color=yellow)](https://github.com/remorses/playwriter/stargazers) [![Forks](https://img.shields.io/github/forks/remorses/playwriter?style=flat-square&color=blue)](https://github.com/remorses/playwriter/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remorses/playwriter?style=flat-square&color=yellow)](https://github.com/remorses/playwriter/stargazers) [![Forks](https://img.shields.io/github/forks/remorses/playwriter?style=flat-square&color=blue)](https://github.com/remorses/playwriter/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Chrome extension to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

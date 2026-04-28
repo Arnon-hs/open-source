@@ -1,6 +1,6 @@
 # warpdotdev/warp
 
-[![Stars](https://img.shields.io/github/stars/warpdotdev/warp?style=flat-square&color=yellow)](https://github.com/warpdotdev/warp/stargazers) [![Forks](https://img.shields.io/github/forks/warpdotdev/warp?style=flat-square&color=blue)](https://github.com/warpdotdev/warp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/warpdotdev/warp?style=flat-square&color=yellow)](https://github.com/warpdotdev/warp/stargazers) [![Forks](https://img.shields.io/github/forks/warpdotdev/warp?style=flat-square&color=blue)](https://github.com/warpdotdev/warp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
 
 > Warp is an agentic development environment, born out of the terminal.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 26.5k |
-| 🍴 **Forks** | 646 |
+| ⭐ **Stars** | 28.1k |
+| 🍴 **Forks** | 830 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # juspay/hyperswitch-prism
 
-[![Stars](https://img.shields.io/github/stars/juspay/hyperswitch-prism?style=flat-square&color=yellow)](https://github.com/juspay/hyperswitch-prism/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/hyperswitch-prism?style=flat-square&color=blue)](https://github.com/juspay/hyperswitch-prism/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juspay/hyperswitch-prism?style=flat-square&color=yellow)](https://github.com/juspay/hyperswitch-prism/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/hyperswitch-prism?style=flat-square&color=blue)](https://github.com/juspay/hyperswitch-prism/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > One library | Many payment processors | Scale to multiple processors with few lines of code.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 127 |
-| 🍴 **Forks** | 23 |
+| ⭐ **Stars** | 434 |
+| 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

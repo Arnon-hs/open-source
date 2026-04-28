@@ -1,6 +1,6 @@
 # midwayjs/midway
 
-[![Stars](https://img.shields.io/github/stars/midwayjs/midway?style=flat-square&color=yellow)](https://github.com/midwayjs/midway/stargazers) [![Forks](https://img.shields.io/github/forks/midwayjs/midway?style=flat-square&color=blue)](https://github.com/midwayjs/midway/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/midwayjs/midway?style=flat-square&color=yellow)](https://github.com/midwayjs/midway/stargazers) [![Forks](https://img.shields.io/github/forks/midwayjs/midway?style=flat-square&color=blue)](https://github.com/midwayjs/midway/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.7k |
 | 🍴 **Forks** | 590 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 94/100 |
+| 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # graphql-java/graphql-java
 
-[![Stars](https://img.shields.io/github/stars/graphql-java/graphql-java?style=flat-square&color=yellow)](https://github.com/graphql-java/graphql-java/stargazers) [![Forks](https://img.shields.io/github/forks/graphql-java/graphql-java?style=flat-square&color=blue)](https://github.com/graphql-java/graphql-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/graphql-java/graphql-java?style=flat-square&color=yellow)](https://github.com/graphql-java/graphql-java/stargazers) [![Forks](https://img.shields.io/github/forks/graphql-java/graphql-java?style=flat-square&color=blue)](https://github.com/graphql-java/graphql-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > GraphQL Java implementation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 94/100 |
+| 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

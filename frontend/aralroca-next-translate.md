@@ -1,6 +1,6 @@
 # aralroca/next-translate
 
-[![Stars](https://img.shields.io/github/stars/aralroca/next-translate?style=flat-square&color=yellow)](https://github.com/aralroca/next-translate/stargazers) [![Forks](https://img.shields.io/github/forks/aralroca/next-translate?style=flat-square&color=blue)](https://github.com/aralroca/next-translate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aralroca/next-translate?style=flat-square&color=yellow)](https://github.com/aralroca/next-translate/stargazers) [![Forks](https://img.shields.io/github/forks/aralroca/next-translate?style=flat-square&color=blue)](https://github.com/aralroca/next-translate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 596 |
+| 🍴 **Forks** | 595 |
 | 💻 **Language** | ABAP |
 | 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |

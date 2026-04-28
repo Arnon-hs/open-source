@@ -1,6 +1,6 @@
 # AgenticGoKit/AgenticGoKit
 
-[![Stars](https://img.shields.io/github/stars/AgenticGoKit/AgenticGoKit?style=flat-square&color=yellow)](https://github.com/AgenticGoKit/AgenticGoKit/stargazers) [![Forks](https://img.shields.io/github/forks/AgenticGoKit/AgenticGoKit?style=flat-square&color=blue)](https://github.com/AgenticGoKit/AgenticGoKit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgenticGoKit/AgenticGoKit?style=flat-square&color=yellow)](https://github.com/AgenticGoKit/AgenticGoKit/stargazers) [![Forks](https://img.shields.io/github/forks/AgenticGoKit/AgenticGoKit?style=flat-square&color=blue)](https://github.com/AgenticGoKit/AgenticGoKit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Agentic AI framework in Go for building, orchestrating, and deploying intelligent agents. LLM-agnostic, event-driven, with multi-agent workflows, MCP tool discovery, and production-grade observability.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

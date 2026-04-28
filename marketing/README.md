@@ -2,7 +2,7 @@
 
 > 
 
-**18 projects** in this category.
+**19 projects** in this category.
 
 ## Projects
 
@@ -17,15 +17,16 @@
 | 7 | [maaslalani/sheets](./maaslalani-sheets.md) | ⭐ 2.1k | Go | 56/100 |
 | 8 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 56/100 |
 | 9 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 514 | PHP | 54/100 |
-| 10 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 611 | C# | 53/100 |
-| 11 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
-| 12 | [nil-go/konf](./nil-go-konf.md) | ⭐ 379 | Go | 53/100 |
+| 10 | [nil-go/konf](./nil-go-konf.md) | ⭐ 379 | Go | 53/100 |
+| 11 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 611 | C# | 53/100 |
+| 12 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 13 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 134 | MDX | 51/100 |
-| 14 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
-| 15 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 121 | Rust | 51/100 |
+| 14 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 121 | Rust | 51/100 |
+| 15 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
 | 16 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 16 | — | 46/100 |
 | 17 | [garritfra/cell](./garritfra-cell.md) | ⭐ 186 | Rust | 46/100 |
-| 18 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 1 | — | 36/100 |
+| 18 | [angr/cle](./angr-cle.md) | ⭐ 478 | Python | 45/100 |
+| 19 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 1 | — | 36/100 |
 
 ---
 

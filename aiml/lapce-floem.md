@@ -1,6 +1,6 @@
 # lapce/floem
 
-[![Stars](https://img.shields.io/github/stars/lapce/floem?style=flat-square&color=yellow)](https://github.com/lapce/floem/stargazers) [![Forks](https://img.shields.io/github/forks/lapce/floem?style=flat-square&color=blue)](https://github.com/lapce/floem/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lapce/floem?style=flat-square&color=yellow)](https://github.com/lapce/floem/stargazers) [![Forks](https://img.shields.io/github/forks/lapce/floem?style=flat-square&color=blue)](https://github.com/lapce/floem/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A native Rust UI library with fine-grained reactivity
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # jdalrymple/gitbeaker
 
-[![Stars](https://img.shields.io/github/stars/jdalrymple/gitbeaker?style=flat-square&color=yellow)](https://github.com/jdalrymple/gitbeaker/stargazers) [![Forks](https://img.shields.io/github/forks/jdalrymple/gitbeaker?style=flat-square&color=blue)](https://github.com/jdalrymple/gitbeaker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jdalrymple/gitbeaker?style=flat-square&color=yellow)](https://github.com/jdalrymple/gitbeaker/stargazers) [![Forks](https://img.shields.io/github/forks/jdalrymple/gitbeaker?style=flat-square&color=blue)](https://github.com/jdalrymple/gitbeaker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 319 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

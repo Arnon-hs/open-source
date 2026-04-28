@@ -1,6 +1,6 @@
 # beam-community/elixir-companies
 
-[![Stars](https://img.shields.io/github/stars/beam-community/elixir-companies?style=flat-square&color=yellow)](https://github.com/beam-community/elixir-companies/stargazers) [![Forks](https://img.shields.io/github/forks/beam-community/elixir-companies?style=flat-square&color=blue)](https://github.com/beam-community/elixir-companies/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beam-community/elixir-companies?style=flat-square&color=yellow)](https://github.com/beam-community/elixir-companies/stargazers) [![Forks](https://img.shields.io/github/forks/beam-community/elixir-companies?style=flat-square&color=blue)](https://github.com/beam-community/elixir-companies/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A list of companies currently using Elixir in production.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 380 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

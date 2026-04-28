@@ -1,6 +1,6 @@
 # tranxuanthang/lrcget
 
-[![Stars](https://img.shields.io/github/stars/tranxuanthang/lrcget?style=flat-square&color=yellow)](https://github.com/tranxuanthang/lrcget/stargazers) [![Forks](https://img.shields.io/github/forks/tranxuanthang/lrcget?style=flat-square&color=blue)](https://github.com/tranxuanthang/lrcget/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tranxuanthang/lrcget?style=flat-square&color=yellow)](https://github.com/tranxuanthang/lrcget/stargazers) [![Forks](https://img.shields.io/github/forks/tranxuanthang/lrcget?style=flat-square&color=blue)](https://github.com/tranxuanthang/lrcget/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Utility for mass-downloading LRC synced lyrics for your offline music library.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

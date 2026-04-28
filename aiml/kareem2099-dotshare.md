@@ -1,16 +1,16 @@
 # kareem2099/DotShare
 
-[![Stars](https://img.shields.io/github/stars/kareem2099/DotShare?style=flat-square&color=yellow)](https://github.com/kareem2099/DotShare/stargazers) [![Forks](https://img.shields.io/github/forks/kareem2099/DotShare?style=flat-square&color=blue)](https://github.com/kareem2099/DotShare/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kareem2099/DotShare?style=flat-square&color=yellow)](https://github.com/kareem2099/DotShare/stargazers) [![Forks](https://img.shields.io/github/forks/kareem2099/DotShare?style=flat-square&color=blue)](https://github.com/kareem2099/DotShare/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag opensource): Building a Universal Drafts System in a VS Code Extension — Part 1: Types & Storage
+> A VS Code extension that helps you share your project updates to social media using AI-powered content generation.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
+| ⭐ **Stars** | 2 |
+| 🍴 **Forks** | 2 |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 

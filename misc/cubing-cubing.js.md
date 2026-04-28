@@ -1,6 +1,6 @@
 # cubing/cubing.js
 
-[![Stars](https://img.shields.io/github/stars/cubing/cubing.js?style=flat-square&color=yellow)](https://github.com/cubing/cubing.js/stargazers) [![Forks](https://img.shields.io/github/forks/cubing/cubing.js?style=flat-square&color=blue)](https://github.com/cubing/cubing.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cubing/cubing.js?style=flat-square&color=yellow)](https://github.com/cubing/cubing.js/stargazers) [![Forks](https://img.shields.io/github/forks/cubing/cubing.js?style=flat-square&color=blue)](https://github.com/cubing/cubing.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 🛠 A library for displaying and working with twisty puzzles. Also currently home to the code for Twizzle.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 331 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

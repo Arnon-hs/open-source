@@ -1,6 +1,6 @@
 # ProgerXP/Notepad2e
 
-[![Stars](https://img.shields.io/github/stars/ProgerXP/Notepad2e?style=flat-square&color=yellow)](https://github.com/ProgerXP/Notepad2e/stargazers) [![Forks](https://img.shields.io/github/forks/ProgerXP/Notepad2e?style=flat-square&color=blue)](https://github.com/ProgerXP/Notepad2e/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ProgerXP/Notepad2e?style=flat-square&color=yellow)](https://github.com/ProgerXP/Notepad2e/stargazers) [![Forks](https://img.shields.io/github/forks/ProgerXP/Notepad2e?style=flat-square&color=blue)](https://github.com/ProgerXP/Notepad2e/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Word highlighting, simultaneous editing, split views, math evaluation, un/grep, comment reformatting, UAC elevation, complete regexps (PCRE), Lua lexers, DPI awareness and more (XP+)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 425 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

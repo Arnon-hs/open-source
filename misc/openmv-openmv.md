@@ -1,6 +1,6 @@
 # openmv/openmv
 
-[![Stars](https://img.shields.io/github/stars/openmv/openmv?style=flat-square&color=yellow)](https://github.com/openmv/openmv/stargazers) [![Forks](https://img.shields.io/github/forks/openmv/openmv?style=flat-square&color=blue)](https://github.com/openmv/openmv/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openmv/openmv?style=flat-square&color=yellow)](https://github.com/openmv/openmv/stargazers) [![Forks](https://img.shields.io/github/forks/openmv/openmv?style=flat-square&color=blue)](https://github.com/openmv/openmv/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > OpenMV Camera Module
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

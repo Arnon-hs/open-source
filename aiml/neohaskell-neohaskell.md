@@ -1,6 +1,6 @@
 # neohaskell/NeoHaskell
 
-[![Stars](https://img.shields.io/github/stars/neohaskell/NeoHaskell?style=flat-square&color=yellow)](https://github.com/neohaskell/NeoHaskell/stargazers) [![Forks](https://img.shields.io/github/forks/neohaskell/NeoHaskell?style=flat-square&color=blue)](https://github.com/neohaskell/NeoHaskell/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neohaskell/NeoHaskell?style=flat-square&color=yellow)](https://github.com/neohaskell/NeoHaskell/stargazers) [![Forks](https://img.shields.io/github/forks/neohaskell/NeoHaskell?style=flat-square&color=blue)](https://github.com/neohaskell/NeoHaskell/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ⏩ NeoHaskell is a dialect of Haskell that is focused on newcomer-friendliness and productivity.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

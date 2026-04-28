@@ -1,6 +1,6 @@
 # janosmiko/lfk
 
-[![Stars](https://img.shields.io/github/stars/janosmiko/lfk?style=flat-square&color=yellow)](https://github.com/janosmiko/lfk/stargazers) [![Forks](https://img.shields.io/github/forks/janosmiko/lfk?style=flat-square&color=blue)](https://github.com/janosmiko/lfk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/janosmiko/lfk?style=flat-square&color=yellow)](https://github.com/janosmiko/lfk/stargazers) [![Forks](https://img.shields.io/github/forks/janosmiko/lfk?style=flat-square&color=blue)](https://github.com/janosmiko/lfk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller columns layout with an owner-based resource hierarchy to your terminal.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 334 |
+| ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

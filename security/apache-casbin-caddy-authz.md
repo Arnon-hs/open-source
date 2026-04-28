@@ -1,6 +1,6 @@
 # apache/casbin-caddy-authz
 
-[![Stars](https://img.shields.io/github/stars/apache/casbin-caddy-authz?style=flat-square&color=yellow)](https://github.com/apache/casbin-caddy-authz/stargazers) [![Forks](https://img.shields.io/github/forks/apache/casbin-caddy-authz?style=flat-square&color=blue)](https://github.com/apache/casbin-caddy-authz/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/casbin-caddy-authz?style=flat-square&color=yellow)](https://github.com/apache/casbin-caddy-authz/stargazers) [![Forks](https://img.shields.io/github/forks/apache/casbin-caddy-authz?style=flat-square&color=blue)](https://github.com/apache/casbin-caddy-authz/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Caddy-authz is a middleware for Caddy that blocks or allows requests based on access control policies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 249 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

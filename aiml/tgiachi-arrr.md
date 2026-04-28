@@ -1,17 +1,17 @@
 # tgiachi/Arrr
 
-[![Stars](https://img.shields.io/github/stars/tgiachi/Arrr?style=flat-square&color=yellow)](https://github.com/tgiachi/Arrr/stargazers) [![Forks](https://img.shields.io/github/forks/tgiachi/Arrr?style=flat-square&color=blue)](https://github.com/tgiachi/Arrr/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tgiachi/Arrr?style=flat-square&color=yellow)](https://github.com/tgiachi/Arrr/stargazers) [![Forks](https://img.shields.io/github/forks/tgiachi/Arrr?style=flat-square&color=blue)](https://github.com/tgiachi/Arrr/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Notification aggregator for Linux. background service with plugin support for RSS,   IMAP, Teams, Telegram and D-Bus. Plugins loaded at runtime via Unix domain socket
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | C# |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 

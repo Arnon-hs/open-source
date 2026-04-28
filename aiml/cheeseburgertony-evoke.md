@@ -1,6 +1,6 @@
 # cheeseburgertony/evoke
 
-[![Stars](https://img.shields.io/github/stars/cheeseburgertony/evoke?style=flat-square&color=yellow)](https://github.com/cheeseburgertony/evoke/stargazers) [![Forks](https://img.shields.io/github/forks/cheeseburgertony/evoke?style=flat-square&color=blue)](https://github.com/cheeseburgertony/evoke/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cheeseburgertony/evoke?style=flat-square&color=yellow)](https://github.com/cheeseburgertony/evoke/stargazers) [![Forks](https://img.shields.io/github/forks/cheeseburgertony/evoke?style=flat-square&color=blue)](https://github.com/cheeseburgertony/evoke/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered web app generator — turn natural language ideas into full code with live preview and code explorer ｜AI 驱动的 Web 应用生成平台，通过自然语言对话生成完整可运行的代码，并提供实时预览与代码浏览
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
