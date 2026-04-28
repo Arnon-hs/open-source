@@ -1,6 +1,6 @@
 # basketikun/chatgpt2api
 
-[![Stars](https://img.shields.io/github/stars/basketikun/chatgpt2api?style=flat-square&color=yellow)](https://github.com/basketikun/chatgpt2api/stargazers) [![Forks](https://img.shields.io/github/forks/basketikun/chatgpt2api?style=flat-square&color=blue)](https://github.com/basketikun/chatgpt2api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/basketikun/chatgpt2api?style=flat-square&color=yellow)](https://github.com/basketikun/chatgpt2api/stargazers) [![Forks](https://img.shields.io/github/forks/basketikun/chatgpt2api?style=flat-square&color=blue)](https://github.com/basketikun/chatgpt2api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口协议，在线批量生成图像，号池管理，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 382 |
+| 🍴 **Forks** | 386 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

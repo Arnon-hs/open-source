@@ -1,6 +1,6 @@
 # akutishevsky/lunchmoney-mcp
 
-[![Stars](https://img.shields.io/github/stars/akutishevsky/lunchmoney-mcp?style=flat-square&color=yellow)](https://github.com/akutishevsky/lunchmoney-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/akutishevsky/lunchmoney-mcp?style=flat-square&color=blue)](https://github.com/akutishevsky/lunchmoney-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akutishevsky/lunchmoney-mcp?style=flat-square&color=yellow)](https://github.com/akutishevsky/lunchmoney-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/akutishevsky/lunchmoney-mcp?style=flat-square&color=blue)](https://github.com/akutishevsky/lunchmoney-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server implementation for LunchMoney, providing programmatic access to personal finance management through LunchMoney's API.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 64 |
+| ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

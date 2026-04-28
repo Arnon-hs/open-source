@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/beelzebub-labs/beelzebub?style=flat-square&color=yellow)](https://github.com/beelzebub-labs/beelzebub/stargazers) [![Forks](https://img.shields.io/github/forks/beelzebub-labs/beelzebub?style=flat-square&color=blue)](https://github.com/beelzebub-labs/beelzebub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
-> A secure low code honeypot framework, leveraging AI for System Virtualization.
+> A secure low code deception runtime framework, leveraging AI for System Virtualization.
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # anthropic-experimental/sandbox-runtime
 
-[![Stars](https://img.shields.io/github/stars/anthropic-experimental/sandbox-runtime?style=flat-square&color=yellow)](https://github.com/anthropic-experimental/sandbox-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/anthropic-experimental/sandbox-runtime?style=flat-square&color=blue)](https://github.com/anthropic-experimental/sandbox-runtime/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anthropic-experimental/sandbox-runtime?style=flat-square&color=yellow)](https://github.com/anthropic-experimental/sandbox-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/anthropic-experimental/sandbox-runtime?style=flat-square&color=blue)](https://github.com/anthropic-experimental/sandbox-runtime/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.9k |
-| 🍴 **Forks** | 274 |
+| 🍴 **Forks** | 275 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/zhouyoukang/windsurf-assistant?style=flat-square&color=yellow)](https://github.com/zhouyoukang/windsurf-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/zhouyoukang/windsurf-assistant?style=flat-square&color=blue)](https://github.com/zhouyoukang/windsurf-assistant/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> 道Agent (道德经 SP 注入 · 绝 rules/skills/workflows/memories 侧信道) + 无感切号 (百号轮转 · 额度耗尽自切) · 二核合一 · 道法自然
+> Windsurf multi-account manager · auto-rotate · quota-aware · zero-config · 水善利万物而不争
 
 ## 📊 Stats
 

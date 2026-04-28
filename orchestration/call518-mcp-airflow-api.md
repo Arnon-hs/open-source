@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/call518/MCP-Airflow-API?style=flat-square&color=yellow)](https://github.com/call518/MCP-Airflow-API/stargazers) [![Forks](https://img.shields.io/github/forks/call518/MCP-Airflow-API?style=flat-square&color=blue)](https://github.com/call518/MCP-Airflow-API/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> 🔍Model Context Protocol (MCP) server for Apache Airflow API integration. Provides comprehensive tools for managing Airflow clusters including service operations, configuration management, status monitoring, and request tracking.
+> ⚡ Control Apache Airflow with natural language via MCP. Chat with your workflows using Claude, GPT, or any LLM — no REST API calls needed. Supports Airflow 2.x (43 tools) & 3.0+ (45+ tools).
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 

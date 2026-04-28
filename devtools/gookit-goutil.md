@@ -1,6 +1,6 @@
 # gookit/goutil
 
-[![Stars](https://img.shields.io/github/stars/gookit/goutil?style=flat-square&color=yellow)](https://github.com/gookit/goutil/stargazers) [![Forks](https://img.shields.io/github/forks/gookit/goutil?style=flat-square&color=blue)](https://github.com/gookit/goutil/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gookit/goutil?style=flat-square&color=yellow)](https://github.com/gookit/goutil/stargazers) [![Forks](https://img.shields.io/github/forks/gookit/goutil?style=flat-square&color=blue)](https://github.com/gookit/goutil/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 💪 Helper Utils(900+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 202 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

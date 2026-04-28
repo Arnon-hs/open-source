@@ -1,6 +1,6 @@
 # Dra-Ganzz/Premium-Call
 
-[![Stars](https://img.shields.io/github/stars/Dra-Ganzz/Premium-Call?style=flat-square&color=yellow)](https://github.com/Dra-Ganzz/Premium-Call/stargazers) [![Forks](https://img.shields.io/github/forks/Dra-Ganzz/Premium-Call?style=flat-square&color=blue)](https://github.com/Dra-Ganzz/Premium-Call/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dra-Ganzz/Premium-Call?style=flat-square&color=yellow)](https://github.com/Dra-Ganzz/Premium-Call/stargazers) [![Forks](https://img.shields.io/github/forks/Dra-Ganzz/Premium-Call?style=flat-square&color=blue)](https://github.com/Dra-Ganzz/Premium-Call/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Work Script Call Unlimited Premium Multi Target - Kebanyak Nomor || Dan 24 jam Nonstop || And No Timer/Delay!!! || And Spam Premium-Wa - WhatsApp !!!🥰
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 80 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

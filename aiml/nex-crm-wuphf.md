@@ -1,6 +1,6 @@
 # nex-crm/wuphf
 
-[![Stars](https://img.shields.io/github/stars/nex-crm/wuphf?style=flat-square&color=yellow)](https://github.com/nex-crm/wuphf/stargazers) [![Forks](https://img.shields.io/github/forks/nex-crm/wuphf?style=flat-square&color=blue)](https://github.com/nex-crm/wuphf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nex-crm/wuphf?style=flat-square&color=yellow)](https://github.com/nex-crm/wuphf/stargazers) [![Forks](https://img.shields.io/github/forks/nex-crm/wuphf?style=flat-square&color=blue)](https://github.com/nex-crm/wuphf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs via OpenCode.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 693 |
+| ⭐ **Stars** | 702 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

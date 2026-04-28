@@ -1,6 +1,6 @@
 # AJenbo/phpantom_lsp
 
-[![Stars](https://img.shields.io/github/stars/AJenbo/phpantom_lsp?style=flat-square&color=yellow)](https://github.com/AJenbo/phpantom_lsp/stargazers) [![Forks](https://img.shields.io/github/forks/AJenbo/phpantom_lsp?style=flat-square&color=blue)](https://github.com/AJenbo/phpantom_lsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AJenbo/phpantom_lsp?style=flat-square&color=yellow)](https://github.com/AJenbo/phpantom_lsp/stargazers) [![Forks](https://img.shields.io/github/forks/AJenbo/phpantom_lsp?style=flat-square&color=blue)](https://github.com/AJenbo/phpantom_lsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 582 |
+| ⭐ **Stars** | 584 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

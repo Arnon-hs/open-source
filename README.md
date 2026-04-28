@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **10018** |
+| 🗂️ **Total projects** | **10090** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,16 +18,16 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3861 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1874 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 996 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 825 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 593 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 572 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 357 | [Browse →](./crypto/) |
-| 📊 **Data** | 218 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 205 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 130 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 3892 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1885 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1003 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 828 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 598 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 579 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 358 | [Browse →](./crypto/) |
+| 📊 **Data** | 220 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 209 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 131 | [Browse →](./mobile/) |
 | 💳 **Payments** | 119 | [Browse →](./payments/) |
 | 📈 **Trading** | 99 | [Browse →](./trading/) |
 | 🔐 **Security** | 93 | [Browse →](./security/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [ramitsurana/awesome-kubernetes](./devopsinfra/ramitsurana-awesome-kubernetes.md) | ⭐ 15.9k | DevOps & Infra |
-| 2 | [snowplow/snowplow](./data/snowplow-snowplow.md) | ⭐ 7k | Data |
-| 3 | [lightningnetwork/lnd](./crypto/lightningnetwork-lnd.md) | ⭐ 8.1k | Crypto |
-| 4 | [juicedata/juicefs](./aiml/juicedata-juicefs.md) | ⭐ 13.5k | AI/ML |
-| 5 | [future-architect/vuls](./aiml/future-architect-vuls.md) | ⭐ 12.1k | AI/ML |
-| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 7 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.5k | DevTools |
-| 8 | [Skyvern-AI/skyvern](./aiml/skyvern-ai-skyvern.md) | ⭐ 21.4k | AI/ML |
-| 9 | [ossrs/srs](./backend/ossrs-srs.md) | ⭐ 28.8k | Backend |
-| 10 | [flannel-io/flannel](./aiml/flannel-io-flannel.md) | ⭐ 9.4k | AI/ML |
+| 2 | [readest/readest](./aiml/readest-readest.md) | ⭐ 20k | AI/ML |
+| 3 | [spaceship-prompt/spaceship-prompt](./misc/spaceship-prompt-spaceship-prompt.md) | ⭐ 20.5k | Misc |
+| 4 | [js-org/js.org](./aiml/js-org-js.org.md) | ⭐ 5.7k | AI/ML |
+| 5 | [Anil-matcha/Open-Generative-AI](./aiml/anil-matcha-open-generative-ai.md) | ⭐ 9.5k | AI/ML |
+| 6 | [charmbracelet/bubbletea](./frontend/charmbracelet-bubbletea.md) | ⭐ 41.9k | Frontend |
+| 7 | [jumpserver/jumpserver](./backend/jumpserver-jumpserver.md) | ⭐ 30.4k | Backend |
+| 8 | [langchain-ai/open-swe](./orchestration/langchain-ai-open-swe.md) | ⭐ 9.7k | Orchestration |
+| 9 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 10 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.5k | DevTools |
 
 ## 🚀 How it works
 

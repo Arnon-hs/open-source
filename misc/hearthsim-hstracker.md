@@ -1,6 +1,6 @@
 # HearthSim/HSTracker
 
-[![Stars](https://img.shields.io/github/stars/HearthSim/HSTracker?style=flat-square&color=yellow)](https://github.com/HearthSim/HSTracker/stargazers) [![Forks](https://img.shields.io/github/forks/HearthSim/HSTracker?style=flat-square&color=blue)](https://github.com/HearthSim/HSTracker/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HearthSim/HSTracker?style=flat-square&color=yellow)](https://github.com/HearthSim/HSTracker/stargazers) [![Forks](https://img.shields.io/github/forks/HearthSim/HSTracker?style=flat-square&color=blue)](https://github.com/HearthSim/HSTracker/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A deck tracker and deck manager for Hearthstone on macOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

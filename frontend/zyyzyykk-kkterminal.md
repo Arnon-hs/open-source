@@ -1,6 +1,6 @@
 # zyyzyykk/kkTerminal
 
-[![Stars](https://img.shields.io/github/stars/zyyzyykk/kkTerminal?style=flat-square&color=yellow)](https://github.com/zyyzyykk/kkTerminal/stargazers) [![Forks](https://img.shields.io/github/forks/zyyzyykk/kkTerminal?style=flat-square&color=blue)](https://github.com/zyyzyykk/kkTerminal/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zyyzyykk/kkTerminal?style=flat-square&color=yellow)](https://github.com/zyyzyykk/kkTerminal/stargazers) [![Forks](https://img.shields.io/github/forks/zyyzyykk/kkTerminal?style=flat-square&color=blue)](https://github.com/zyyzyykk/kkTerminal/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal for Web SSH connection
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 410 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

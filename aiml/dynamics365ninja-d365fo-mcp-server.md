@@ -1,6 +1,6 @@
 # dynamics365ninja/d365fo-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/dynamics365ninja/d365fo-mcp-server?style=flat-square&color=yellow)](https://github.com/dynamics365ninja/d365fo-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/dynamics365ninja/d365fo-mcp-server?style=flat-square&color=blue)](https://github.com/dynamics365ninja/d365fo-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dynamics365ninja/d365fo-mcp-server?style=flat-square&color=yellow)](https://github.com/dynamics365ninja/d365fo-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/dynamics365ninja/d365fo-mcp-server?style=flat-square&color=blue)](https://github.com/dynamics365ninja/d365fo-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 MCP server for Dynamics 365 Finance & Operations with standard and custom indexed X++ objects. Provides IntelliSense-like code navigation, intelligent EDT suggestions, AI-driven table/form generation, and pattern-based code completion for GitHub Copilot integration.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 57 |
+| ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # nashsu/llm_wiki
 
-[![Stars](https://img.shields.io/github/stars/nashsu/llm_wiki?style=flat-square&color=yellow)](https://github.com/nashsu/llm_wiki/stargazers) [![Forks](https://img.shields.io/github/forks/nashsu/llm_wiki?style=flat-square&color=blue)](https://github.com/nashsu/llm_wiki/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nashsu/llm_wiki?style=flat-square&color=yellow)](https://github.com/nashsu/llm_wiki/stargazers) [![Forks](https://img.shields.io/github/forks/nashsu/llm_wiki?style=flat-square&color=blue)](https://github.com/nashsu/llm_wiki/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 522 |
+| ⭐ **Stars** | 4.4k |
+| 🍴 **Forks** | 527 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # asimovinc/asimov-v1
 
-[![Stars](https://img.shields.io/github/stars/asimovinc/asimov-v1?style=flat-square&color=yellow)](https://github.com/asimovinc/asimov-v1/stargazers) [![Forks](https://img.shields.io/github/forks/asimovinc/asimov-v1?style=flat-square&color=blue)](https://github.com/asimovinc/asimov-v1/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asimovinc/asimov-v1?style=flat-square&color=yellow)](https://github.com/asimovinc/asimov-v1/stargazers) [![Forks](https://img.shields.io/github/forks/asimovinc/asimov-v1?style=flat-square&color=blue)](https://github.com/asimovinc/asimov-v1/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > v1 of Asimov, an open-source humanoid robot
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 176 |
-| 🍴 **Forks** | 12 |
+| ⭐ **Stars** | 195 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

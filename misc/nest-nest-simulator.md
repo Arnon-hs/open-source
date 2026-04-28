@@ -1,6 +1,6 @@
 # nest/nest-simulator
 
-[![Stars](https://img.shields.io/github/stars/nest/nest-simulator?style=flat-square&color=yellow)](https://github.com/nest/nest-simulator/stargazers) [![Forks](https://img.shields.io/github/forks/nest/nest-simulator?style=flat-square&color=blue)](https://github.com/nest/nest-simulator/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nest/nest-simulator?style=flat-square&color=yellow)](https://github.com/nest/nest-simulator/stargazers) [![Forks](https://img.shields.io/github/forks/nest/nest-simulator?style=flat-square&color=blue)](https://github.com/nest/nest-simulator/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The NEST simulator
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 643 |
-| 🍴 **Forks** | 399 |
+| 🍴 **Forks** | 400 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
