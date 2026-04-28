@@ -1,6 +1,6 @@
 # PayRam/payram-mcp
 
-[![Stars](https://img.shields.io/github/stars/PayRam/payram-mcp?style=flat-square&color=yellow)](https://github.com/PayRam/payram-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/PayRam/payram-mcp?style=flat-square&color=blue)](https://github.com/PayRam/payram-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PayRam/payram-mcp?style=flat-square&color=yellow)](https://github.com/PayRam/payram-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/PayRam/payram-mcp?style=flat-square&color=blue)](https://github.com/PayRam/payram-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Connect to hosted payram helper at: https://mcp.payram.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

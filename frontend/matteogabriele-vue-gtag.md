@@ -1,6 +1,6 @@
 # MatteoGabriele/vue-gtag
 
-[![Stars](https://img.shields.io/github/stars/MatteoGabriele/vue-gtag?style=flat-square&color=yellow)](https://github.com/MatteoGabriele/vue-gtag/stargazers) [![Forks](https://img.shields.io/github/forks/MatteoGabriele/vue-gtag?style=flat-square&color=blue)](https://github.com/MatteoGabriele/vue-gtag/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MatteoGabriele/vue-gtag?style=flat-square&color=yellow)](https://github.com/MatteoGabriele/vue-gtag/stargazers) [![Forks](https://img.shields.io/github/forks/MatteoGabriele/vue-gtag?style=flat-square&color=blue)](https://github.com/MatteoGabriele/vue-gtag/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Global Site Tag plugin for Vue (gtag.js)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 932 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

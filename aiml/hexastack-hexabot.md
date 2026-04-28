@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Hexastack/Hexabot?style=flat-square&color=yellow)](https://github.com/Hexastack/Hexabot/stargazers) [![Forks](https://img.shields.io/github/forks/Hexastack/Hexabot?style=flat-square&color=blue)](https://github.com/Hexastack/Hexabot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
-> Hexabot is an open-source AI chatbot / agent builder. It allows you to create and manage multi-channel and multilingual chatbots / agents with ease.
+> Hexabot v3 is an automation platform with first-class AI capabilities, combining workflows, actions, and conversational channels in one runtime.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 

@@ -1,17 +1,17 @@
 # taichi-dev/taichi
 
-[![Stars](https://img.shields.io/github/stars/taichi-dev/taichi?style=flat-square&color=yellow)](https://github.com/taichi-dev/taichi/stargazers) [![Forks](https://img.shields.io/github/forks/taichi-dev/taichi?style=flat-square&color=blue)](https://github.com/taichi-dev/taichi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taichi-dev/taichi?style=flat-square&color=yellow)](https://github.com/taichi-dev/taichi/stargazers) [![Forks](https://img.shields.io/github/forks/taichi-dev/taichi?style=flat-square&color=blue)](https://github.com/taichi-dev/taichi/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Productive, portable, and performant GPU programming in Python.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 28.2k |
+| 🍴 **Forks** | 2.4k |
+| 💻 **Language** | C++ |
+| 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Product
 
 ## 📝 Summary
 

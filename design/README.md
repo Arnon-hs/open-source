@@ -2,14 +2,14 @@
 
 > Design tools, UX, creative software
 
-**35 projects** in this category.
+**36 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.1k | JavaScript | 100/100 |
-| 2 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
+| 1 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
+| 2 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.1k | JavaScript | 100/100 |
 | 3 | [roboflow/rf-detr](./roboflow-rf-detr.md) | ⭐ 6.6k | Python | 96/100 |
 | 4 | [dotnet/csharplang](./dotnet-csharplang.md) | ⭐ 12.6k | C# | 93/100 |
 | 5 | [safing/portmaster](./safing-portmaster.md) | ⭐ 12.5k | Go | 92/100 |
@@ -34,7 +34,7 @@
 | 24 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 225 | Go | 52/100 |
 | 25 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 52/100 |
 | 26 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
-| 27 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 601 | PHP | 50/100 |
+| 27 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 602 | PHP | 50/100 |
 | 28 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 50/100 |
 | 29 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 441 | JavaScript | 49/100 |
 | 30 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
@@ -42,7 +42,8 @@
 | 32 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 249 | Go | 48/100 |
 | 33 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
 | 34 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
-| 35 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 436 | Go | 43/100 |
+| 35 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
+| 36 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 301 | AutoIt | 42/100 |
 
 ---
 

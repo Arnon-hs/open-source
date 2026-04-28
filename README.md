@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **10282** |
+| 🗂️ **Total projects** | **10362** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3971 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1925 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1017 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 839 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 610 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 586 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 370 | [Browse →](./crypto/) |
-| 📊 **Data** | 226 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 213 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 3999 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1947 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1026 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 843 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 615 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 591 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 373 | [Browse →](./crypto/) |
+| 📊 **Data** | 228 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 214 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 131 | [Browse →](./mobile/) |
 | 💳 **Payments** | 121 | [Browse →](./payments/) |
 | 📈 **Trading** | 102 | [Browse →](./trading/) |
 | 🔐 **Security** | 94 | [Browse →](./security/) |
-| ✨ **Design** | 35 | [Browse →](./design/) |
+| ✨ **Design** | 36 | [Browse →](./design/) |
 | 🎯 **Product** | 24 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 18 | [Browse →](./marketing/) |
 
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [aimeos/aimeos-laravel](./aiml/aimeos-aimeos-laravel.md) | ⭐ 8.6k | AI/ML |
-| 2 | [readest/readest](./aiml/readest-readest.md) | ⭐ 20k | AI/ML |
-| 3 | [paperless-ngx/paperless-ngx](./misc/paperless-ngx-paperless-ngx.md) | ⭐ 40k | Misc |
-| 4 | [fluent/fluent-bit](./data/fluent-fluent-bit.md) | ⭐ 7.8k | Data |
-| 5 | [MonoGame/MonoGame](./misc/monogame-monogame.md) | ⭐ 13.8k | Misc |
-| 6 | [DioxusLabs/dioxus](./aiml/dioxuslabs-dioxus.md) | ⭐ 35.9k | AI/ML |
-| 7 | [openvinotoolkit/openvino](./aiml/openvinotoolkit-openvino.md) | ⭐ 10.1k | AI/ML |
-| 8 | [containerd/containerd](./aiml/containerd-containerd.md) | ⭐ 20.6k | AI/ML |
-| 9 | [nukeop/nuclear](./aiml/nukeop-nuclear.md) | ⭐ 17.4k | AI/ML |
-| 10 | [spaceship-prompt/spaceship-prompt](./misc/spaceship-prompt-spaceship-prompt.md) | ⭐ 20.5k | Misc |
+| 2 | [paperless-ngx/paperless-ngx](./misc/paperless-ngx-paperless-ngx.md) | ⭐ 40k | Misc |
+| 3 | [fluent/fluent-bit](./data/fluent-fluent-bit.md) | ⭐ 7.8k | Data |
+| 4 | [MonoGame/MonoGame](./misc/monogame-monogame.md) | ⭐ 13.8k | Misc |
+| 5 | [nukeop/nuclear](./aiml/nukeop-nuclear.md) | ⭐ 17.4k | AI/ML |
+| 6 | [spaceship-prompt/spaceship-prompt](./misc/spaceship-prompt-spaceship-prompt.md) | ⭐ 20.5k | Misc |
+| 7 | [zalando/postgres-operator](./data/zalando-postgres-operator.md) | ⭐ 5.1k | Data |
+| 8 | [Stellarium/stellarium](./aiml/stellarium-stellarium.md) | ⭐ 9.6k | AI/ML |
+| 9 | [x-extends/vxe-table](./frontend/x-extends-vxe-table.md) | ⭐ 8.6k | Frontend |
+| 10 | [invoiceninja/invoiceninja](./payments/invoiceninja-invoiceninja.md) | ⭐ 9.7k | Payments |
 
 ## 🚀 How it works
 

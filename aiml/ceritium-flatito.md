@@ -1,6 +1,6 @@
 # ceritium/flatito
 
-[![Stars](https://img.shields.io/github/stars/ceritium/flatito?style=flat-square&color=yellow)](https://github.com/ceritium/flatito/stargazers) [![Forks](https://img.shields.io/github/forks/ceritium/flatito?style=flat-square&color=blue)](https://github.com/ceritium/flatito/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ceritium/flatito?style=flat-square&color=yellow)](https://github.com/ceritium/flatito/stargazers) [![Forks](https://img.shields.io/github/forks/ceritium/flatito?style=flat-square&color=blue)](https://github.com/ceritium/flatito/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Grep for YAML and JSON files
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

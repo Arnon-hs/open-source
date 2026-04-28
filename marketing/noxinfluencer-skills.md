@@ -1,6 +1,6 @@
 # NoxInfluencer/skills
 
-[![Stars](https://img.shields.io/github/stars/NoxInfluencer/skills?style=flat-square&color=yellow)](https://github.com/NoxInfluencer/skills/stargazers) [![Forks](https://img.shields.io/github/forks/NoxInfluencer/skills?style=flat-square&color=blue)](https://github.com/NoxInfluencer/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NoxInfluencer/skills?style=flat-square&color=yellow)](https://github.com/NoxInfluencer/skills/stargazers) [![Forks](https://img.shields.io/github/forks/NoxInfluencer/skills?style=flat-square&color=blue)](https://github.com/NoxInfluencer/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Nox Influencer marketing skill for creator discovery, due-diligence analysis, contact retrieval, and video monitoring.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

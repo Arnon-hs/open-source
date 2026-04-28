@@ -1,17 +1,17 @@
 # Buthis404/RootNotes
 
-[![Stars](https://img.shields.io/github/stars/Buthis404/RootNotes?style=flat-square&color=yellow)](https://github.com/Buthis404/RootNotes/stargazers) [![Forks](https://img.shields.io/github/forks/Buthis404/RootNotes?style=flat-square&color=blue)](https://github.com/Buthis404/RootNotes/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Buthis404/RootNotes?style=flat-square&color=yellow)](https://github.com/Buthis404/RootNotes/stargazers) [![Forks](https://img.shields.io/github/forks/Buthis404/RootNotes?style=flat-square&color=blue)](https://github.com/Buthis404/RootNotes/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> self-hosted red team workspace for tracking projects, notes, hosts, credentials, findings, loot, objectives, scope, and attack paths in one interface
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -1,8 +1,8 @@
 # natdexterra/work-with-design-systems
 
-[![Stars](https://img.shields.io/github/stars/natdexterra/work-with-design-systems?style=flat-square&color=yellow)](https://github.com/natdexterra/work-with-design-systems/stargazers) [![Forks](https://img.shields.io/github/forks/natdexterra/work-with-design-systems?style=flat-square&color=blue)](https://github.com/natdexterra/work-with-design-systems/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/natdexterra/work-with-design-systems?style=flat-square&color=yellow)](https://github.com/natdexterra/work-with-design-systems/stargazers) [![Forks](https://img.shields.io/github/forks/natdexterra/work-with-design-systems?style=flat-square&color=blue)](https://github.com/natdexterra/work-with-design-systems/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> MCP skill for generating complete design systems in Figma: tokens, variables, components with variants and auto layout
+> Inspect, build, or extend Figma design systems from Claude Code. Read-only audits with WCAG checks and component scoring, build mode with variable bindings and slots, optional Phase 6 sync to tokens.css + AI rules.
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Design
+Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 

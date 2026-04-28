@@ -1,17 +1,17 @@
 # xoai/sage-wiki
 
-[![Stars](https://img.shields.io/github/stars/xoai/sage-wiki?style=flat-square&color=yellow)](https://github.com/xoai/sage-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/xoai/sage-wiki?style=flat-square&color=blue)](https://github.com/xoai/sage-wiki/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xoai/sage-wiki?style=flat-square&color=yellow)](https://github.com/xoai/sage-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/xoai/sage-wiki?style=flat-square&color=blue)](https://github.com/xoai/sage-wiki/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 482 |
+| 🍴 **Forks** | 81 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

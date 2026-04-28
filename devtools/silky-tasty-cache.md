@@ -1,17 +1,17 @@
 # silky/tasty-cache
 
-[![Stars](https://img.shields.io/github/stars/silky/tasty-cache?style=flat-square&color=yellow)](https://github.com/silky/tasty-cache/stargazers) [![Forks](https://img.shields.io/github/forks/silky/tasty-cache?style=flat-square&color=blue)](https://github.com/silky/tasty-cache/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/silky/tasty-cache?style=flat-square&color=yellow)](https://github.com/silky/tasty-cache/stargazers) [![Forks](https://img.shields.io/github/forks/silky/tasty-cache?style=flat-square&color=blue)](https://github.com/silky/tasty-cache/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Lobsters: tasty-cache: Nix-style test caching for Haskell
+> Cache tests based on their source dependency tree; only re-run when source meaningfully changed.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 35/100 |
+| 💻 **Language** | Haskell |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | lobsters |
 

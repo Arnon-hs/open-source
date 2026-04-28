@@ -1,6 +1,6 @@
 # ringsaturn/tzf-rs
 
-[![Stars](https://img.shields.io/github/stars/ringsaturn/tzf-rs?style=flat-square&color=yellow)](https://github.com/ringsaturn/tzf-rs/stargazers) [![Forks](https://img.shields.io/github/forks/ringsaturn/tzf-rs?style=flat-square&color=blue)](https://github.com/ringsaturn/tzf-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ringsaturn/tzf-rs?style=flat-square&color=yellow)](https://github.com/ringsaturn/tzf-rs/stargazers) [![Forks](https://img.shields.io/github/forks/ringsaturn/tzf-rs?style=flat-square&color=blue)](https://github.com/ringsaturn/tzf-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Get timezone via longitude&latitude in Rust in a fast way
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
