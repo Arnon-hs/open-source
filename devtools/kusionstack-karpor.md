@@ -1,6 +1,6 @@
 # KusionStack/karpor
 
-[![Stars](https://img.shields.io/github/stars/KusionStack/karpor?style=flat-square&color=yellow)](https://github.com/KusionStack/karpor/stargazers) [![Forks](https://img.shields.io/github/forks/KusionStack/karpor?style=flat-square&color=blue)](https://github.com/KusionStack/karpor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KusionStack/karpor?style=flat-square&color=yellow)](https://github.com/KusionStack/karpor/stargazers) [![Forks](https://img.shields.io/github/forks/KusionStack/karpor?style=flat-square&color=blue)](https://github.com/KusionStack/karpor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

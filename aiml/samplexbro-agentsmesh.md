@@ -1,17 +1,17 @@
 # sampleXbro/agentsmesh
 
-[![Stars](https://img.shields.io/github/stars/sampleXbro/agentsmesh?style=flat-square&color=yellow)](https://github.com/sampleXbro/agentsmesh/stargazers) [![Forks](https://img.shields.io/github/forks/sampleXbro/agentsmesh?style=flat-square&color=blue)](https://github.com/sampleXbro/agentsmesh/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sampleXbro/agentsmesh?style=flat-square&color=yellow)](https://github.com/sampleXbro/agentsmesh/stargazers) [![Forks](https://img.shields.io/github/forks/sampleXbro/agentsmesh?style=flat-square&color=blue)](https://github.com/sampleXbro/agentsmesh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> One reliable canonical source for AI coding agent rules, commands, skills, MCP, hooks, and permissions — synced across AI coding assistants.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 

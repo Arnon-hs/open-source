@@ -1,6 +1,6 @@
 # linebender/druid
 
-[![Stars](https://img.shields.io/github/stars/linebender/druid?style=flat-square&color=yellow)](https://github.com/linebender/druid/stargazers) [![Forks](https://img.shields.io/github/forks/linebender/druid?style=flat-square&color=blue)](https://github.com/linebender/druid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linebender/druid?style=flat-square&color=yellow)](https://github.com/linebender/druid/stargazers) [![Forks](https://img.shields.io/github/forks/linebender/druid?style=flat-square&color=blue)](https://github.com/linebender/druid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > A data-first Rust-native UI design toolkit.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 568 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

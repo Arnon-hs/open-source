@@ -1,6 +1,6 @@
 # artemnovichkov/skills
 
-[![Stars](https://img.shields.io/github/stars/artemnovichkov/skills?style=flat-square&color=yellow)](https://github.com/artemnovichkov/skills/stargazers) [![Forks](https://img.shields.io/github/forks/artemnovichkov/skills?style=flat-square&color=blue)](https://github.com/artemnovichkov/skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/artemnovichkov/skills?style=flat-square&color=yellow)](https://github.com/artemnovichkov/skills/stargazers) [![Forks](https://img.shields.io/github/forks/artemnovichkov/skills?style=flat-square&color=blue)](https://github.com/artemnovichkov/skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of Claude Code plugins for enhanced development workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

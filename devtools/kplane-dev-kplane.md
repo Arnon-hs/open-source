@@ -1,6 +1,6 @@
 # kplane-dev/kplane
 
-[![Stars](https://img.shields.io/github/stars/kplane-dev/kplane?style=flat-square&color=yellow)](https://github.com/kplane-dev/kplane/stargazers) [![Forks](https://img.shields.io/github/forks/kplane-dev/kplane?style=flat-square&color=blue)](https://github.com/kplane-dev/kplane/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kplane-dev/kplane?style=flat-square&color=yellow)](https://github.com/kplane-dev/kplane/stargazers) [![Forks](https://img.shields.io/github/forks/kplane-dev/kplane?style=flat-square&color=blue)](https://github.com/kplane-dev/kplane/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > kplane is a CLI for creating virtual Kubernetes control planes
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 24 |
+| ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

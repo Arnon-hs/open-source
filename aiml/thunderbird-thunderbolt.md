@@ -1,6 +1,6 @@
 # thunderbird/thunderbolt
 
-[![Stars](https://img.shields.io/github/stars/thunderbird/thunderbolt?style=flat-square&color=yellow)](https://github.com/thunderbird/thunderbolt/stargazers) [![Forks](https://img.shields.io/github/forks/thunderbird/thunderbolt?style=flat-square&color=blue)](https://github.com/thunderbird/thunderbolt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thunderbird/thunderbolt?style=flat-square&color=yellow)](https://github.com/thunderbird/thunderbolt/stargazers) [![Forks](https://img.shields.io/github/forks/thunderbird/thunderbolt?style=flat-square&color=blue)](https://github.com/thunderbird/thunderbolt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 281 |
+| 🍴 **Forks** | 282 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

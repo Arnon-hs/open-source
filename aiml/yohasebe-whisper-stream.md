@@ -1,6 +1,6 @@
 # yohasebe/whisper-stream
 
-[![Stars](https://img.shields.io/github/stars/yohasebe/whisper-stream?style=flat-square&color=yellow)](https://github.com/yohasebe/whisper-stream/stargazers) [![Forks](https://img.shields.io/github/forks/yohasebe/whisper-stream?style=flat-square&color=blue)](https://github.com/yohasebe/whisper-stream/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yohasebe/whisper-stream?style=flat-square&color=yellow)](https://github.com/yohasebe/whisper-stream/stargazers) [![Forks](https://img.shields.io/github/forks/yohasebe/whisper-stream?style=flat-square&color=blue)](https://github.com/yohasebe/whisper-stream/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A bash script using OpenAI Whisper API for continuous audio transcription with automatic silence detection
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

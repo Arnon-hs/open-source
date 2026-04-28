@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/ggozad/oterm?style=flat-square&color=yellow)](https://github.com/ggozad/oterm/stargazers) [![Forks](https://img.shields.io/github/forks/ggozad/oterm?style=flat-square&color=blue)](https://github.com/ggozad/oterm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
-> the terminal client for Ollama
+> the terminal client for LLMs
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # kargnas/vscode-ext-tmux-worktree
 
-[![Stars](https://img.shields.io/github/stars/kargnas/vscode-ext-tmux-worktree?style=flat-square&color=yellow)](https://github.com/kargnas/vscode-ext-tmux-worktree/stargazers) [![Forks](https://img.shields.io/github/forks/kargnas/vscode-ext-tmux-worktree?style=flat-square&color=blue)](https://github.com/kargnas/vscode-ext-tmux-worktree/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kargnas/vscode-ext-tmux-worktree?style=flat-square&color=yellow)](https://github.com/kargnas/vscode-ext-tmux-worktree/stargazers) [![Forks](https://img.shields.io/github/forks/kargnas/vscode-ext-tmux-worktree?style=flat-square&color=blue)](https://github.com/kargnas/vscode-ext-tmux-worktree/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Let's work on 5 projects in parallels
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

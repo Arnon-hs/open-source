@@ -1,6 +1,6 @@
 # EtienneLescot/n8n-as-code
 
-[![Stars](https://img.shields.io/github/stars/EtienneLescot/n8n-as-code?style=flat-square&color=yellow)](https://github.com/EtienneLescot/n8n-as-code/stargazers) [![Forks](https://img.shields.io/github/forks/EtienneLescot/n8n-as-code?style=flat-square&color=blue)](https://github.com/EtienneLescot/n8n-as-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EtienneLescot/n8n-as-code?style=flat-square&color=yellow)](https://github.com/EtienneLescot/n8n-as-code/stargazers) [![Forks](https://img.shields.io/github/forks/EtienneLescot/n8n-as-code?style=flat-square&color=blue)](https://github.com/EtienneLescot/n8n-as-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700+ templates, Git-like sync, and TypeScript workflows.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 952 |
+| ⭐ **Stars** | 955 |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

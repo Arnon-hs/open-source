@@ -1,6 +1,6 @@
 # strands-agents/docs
 
-[![Stars](https://img.shields.io/github/stars/strands-agents/docs?style=flat-square&color=yellow)](https://github.com/strands-agents/docs/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/docs?style=flat-square&color=blue)](https://github.com/strands-agents/docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-agents/docs?style=flat-square&color=yellow)](https://github.com/strands-agents/docs/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/docs?style=flat-square&color=blue)](https://github.com/strands-agents/docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 187 |
-| 🍴 **Forks** | 212 |
+| 🍴 **Forks** | 213 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

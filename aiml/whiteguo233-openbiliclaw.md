@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/whiteguo233/OpenBiliClaw?style=flat-square&color=yellow)](https://github.com/whiteguo233/OpenBiliClaw/stargazers) [![Forks](https://img.shields.io/github/forks/whiteguo233/OpenBiliClaw?style=flat-square&color=blue)](https://github.com/whiteguo233/OpenBiliClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> B站推荐算法的开源替代品——跑在你自己电脑上，用心理画像而不是点击记录来理解你，主动帮你发现从没接触过的好内容
+> 通用个性化内容推荐 Agent —— 跑在你自己电脑上，用心理画像而不是点击记录跨平台理解你，主动帮你发现从没接触过的好内容。项目最初是想做一个开源、私有、思路完全不同的 B 站推荐算法平替（项目名由此而来：Open + Bili + Claw），现已演进为支持小红书、通用 Web 的通用跨平台 Agent
 
 ## 📊 Stats
 

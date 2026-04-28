@@ -1,17 +1,17 @@
 # SyntaxError2505/curryvim
 
-[![Stars](https://img.shields.io/github/stars/SyntaxError2505/curryvim?style=flat-square&color=yellow)](https://github.com/SyntaxError2505/curryvim/stargazers) [![Forks](https://img.shields.io/github/forks/SyntaxError2505/curryvim?style=flat-square&color=blue)](https://github.com/SyntaxError2505/curryvim/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SyntaxError2505/curryvim?style=flat-square&color=yellow)](https://github.com/SyntaxError2505/curryvim/stargazers) [![Forks](https://img.shields.io/github/forks/SyntaxError2505/curryvim?style=flat-square&color=blue)](https://github.com/SyntaxError2505/curryvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> The gateway-drug to a neovim config. Made to be different from e.g. VSCode and configs that make neovim work like it
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Lua |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

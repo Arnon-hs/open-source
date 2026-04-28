@@ -1,6 +1,6 @@
 # flowsurface-rs/flowsurface
 
-[![Stars](https://img.shields.io/github/stars/flowsurface-rs/flowsurface?style=flat-square&color=yellow)](https://github.com/flowsurface-rs/flowsurface/stargazers) [![Forks](https://img.shields.io/github/forks/flowsurface-rs/flowsurface?style=flat-square&color=blue)](https://github.com/flowsurface-rs/flowsurface/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flowsurface-rs/flowsurface?style=flat-square&color=yellow)](https://github.com/flowsurface-rs/flowsurface/stargazers) [![Forks](https://img.shields.io/github/forks/flowsurface-rs/flowsurface?style=flat-square&color=blue)](https://github.com/flowsurface-rs/flowsurface/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A native desktop charting platform for crypto markets
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 282 |
+| 🍴 **Forks** | 283 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # InsForge/InsForge
 
-[![Stars](https://img.shields.io/github/stars/InsForge/InsForge?style=flat-square&color=yellow)](https://github.com/InsForge/InsForge/stargazers) [![Forks](https://img.shields.io/github/forks/InsForge/InsForge?style=flat-square&color=blue)](https://github.com/InsForge/InsForge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/InsForge/InsForge?style=flat-square&color=yellow)](https://github.com/InsForge/InsForge/stargazers) [![Forks](https://img.shields.io/github/forks/InsForge/InsForge?style=flat-square&color=blue)](https://github.com/InsForge/InsForge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
 > Give agents everything they need to ship fullstack apps. The backend built for agentic development.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.9k |
-| 🍴 **Forks** | 634 |
+| 🍴 **Forks** | 633 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

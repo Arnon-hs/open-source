@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/serac-labs/serac?style=flat-square&color=yellow)](https://github.com/serac-labs/serac/stargazers) [![Forks](https://img.shields.io/github/forks/serac-labs/serac?style=flat-square&color=blue)](https://github.com/serac-labs/serac/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> 🤖 AI-powered ServiceNow development with 400+ MCP tools. Works with Claude, GPT, Gemini, Ollama & 75+ providers. Deploy widgets, manage incidents, automate workflows - all through natural language. Open-source Build Agent alternative.
+> AI-powered ServiceNow development with 400+ MCP tools. Works with Claude, GPT, Gemini, Ollama & 75+ providers. Deploy widgets, manage incidents, automate workflows - all through natural language. Open-source Build Agent alternative.
 
 ## 📊 Stats
 

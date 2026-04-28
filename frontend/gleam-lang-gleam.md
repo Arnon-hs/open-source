@@ -1,6 +1,6 @@
 # gleam-lang/gleam
 
-[![Stars](https://img.shields.io/github/stars/gleam-lang/gleam?style=flat-square&color=yellow)](https://github.com/gleam-lang/gleam/stargazers) [![Forks](https://img.shields.io/github/forks/gleam-lang/gleam?style=flat-square&color=blue)](https://github.com/gleam-lang/gleam/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gleam-lang/gleam?style=flat-square&color=yellow)](https://github.com/gleam-lang/gleam/stargazers) [![Forks](https://img.shields.io/github/forks/gleam-lang/gleam?style=flat-square&color=blue)](https://github.com/gleam-lang/gleam/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > ⭐️ A friendly language for building type-safe, scalable systems!
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 21.4k |
-| 🍴 **Forks** | 950 |
+| 🍴 **Forks** | 951 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

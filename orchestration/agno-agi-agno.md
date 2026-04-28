@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat-square&color=yellow)](https://github.com/agno-agi/agno/stargazers) [![Forks](https://img.shields.io/github/forks/agno-agi/agno?style=flat-square&color=blue)](https://github.com/agno-agi/agno/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
-> Agno turns agents into production software. Build in any framework. Run as a service. Ship to real users.
+> Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
 
 ## 📊 Stats
 

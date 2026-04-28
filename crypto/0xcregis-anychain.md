@@ -1,6 +1,6 @@
 # 0xcregis/anychain
 
-[![Stars](https://img.shields.io/github/stars/0xcregis/anychain?style=flat-square&color=yellow)](https://github.com/0xcregis/anychain/stargazers) [![Forks](https://img.shields.io/github/forks/0xcregis/anychain?style=flat-square&color=blue)](https://github.com/0xcregis/anychain/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xcregis/anychain?style=flat-square&color=yellow)](https://github.com/0xcregis/anychain/stargazers) [![Forks](https://img.shields.io/github/forks/0xcregis/anychain?style=flat-square&color=blue)](https://github.com/0xcregis/anychain/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-chain Rust wallet sdk, supports Bitcoin, Ethereum, Tron, Solana etc. https://cregisoffical.gitbook.io/anychain/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 246 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

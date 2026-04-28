@@ -1,6 +1,6 @@
 # yohasebe/openai-chat-api-workflow
 
-[![Stars](https://img.shields.io/github/stars/yohasebe/openai-chat-api-workflow?style=flat-square&color=yellow)](https://github.com/yohasebe/openai-chat-api-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/yohasebe/openai-chat-api-workflow?style=flat-square&color=blue)](https://github.com/yohasebe/openai-chat-api-workflow/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yohasebe/openai-chat-api-workflow?style=flat-square&color=yellow)](https://github.com/yohasebe/openai-chat-api-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/yohasebe/openai-chat-api-workflow?style=flat-square&color=blue)](https://github.com/yohasebe/openai-chat-api-workflow/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT models 🤖💬 It also allows image generation/editing/understanding 🖼️, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 318 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
