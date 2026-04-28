@@ -1,6 +1,6 @@
 # performancecopilot/pcp
 
-[![Stars](https://img.shields.io/github/stars/performancecopilot/pcp?style=flat-square&color=yellow)](https://github.com/performancecopilot/pcp/stargazers) [![Forks](https://img.shields.io/github/forks/performancecopilot/pcp?style=flat-square&color=blue)](https://github.com/performancecopilot/pcp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/performancecopilot/pcp?style=flat-square&color=yellow)](https://github.com/performancecopilot/pcp/stargazers) [![Forks](https://img.shields.io/github/forks/performancecopilot/pcp?style=flat-square&color=blue)](https://github.com/performancecopilot/pcp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Performance Co-Pilot
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 261 |
 | 💻 **Language** | C |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # ChorusSignals/Chorus
 
-[![Stars](https://img.shields.io/github/stars/ChorusSignals/Chorus?style=flat-square&color=yellow)](https://github.com/ChorusSignals/Chorus/stargazers) [![Forks](https://img.shields.io/github/forks/ChorusSignals/Chorus?style=flat-square&color=blue)](https://github.com/ChorusSignals/Chorus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChorusSignals/Chorus?style=flat-square&color=yellow)](https://github.com/ChorusSignals/Chorus/stargazers) [![Forks](https://img.shields.io/github/forks/ChorusSignals/Chorus?style=flat-square&color=blue)](https://github.com/ChorusSignals/Chorus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

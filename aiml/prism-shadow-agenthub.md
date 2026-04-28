@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/Prism-Shadow/AgentHub?style=flat-square&color=yellow)](https://github.com/Prism-Shadow/AgentHub/stargazers) [![Forks](https://img.shields.io/github/forks/Prism-Shadow/AgentHub?style=flat-square&color=blue)](https://github.com/Prism-Shadow/AgentHub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> AgentHub is the LLM API Hub for the Agent era, built for high-precision autonomous agents. (GPT-5.4/Claude 4.6/Gemini 3.1)
+> AgentHub is the LLM API Hub for the Agent era, built for high-precision autonomous agents. (GPT-5.5/Claude 4.6/Gemini 3.1)
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 71 |
+| ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |

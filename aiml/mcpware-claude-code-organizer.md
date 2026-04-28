@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/mcpware/claude-code-organizer?style=flat-square&color=yellow)](https://github.com/mcpware/claude-code-organizer/stargazers) [![Forks](https://img.shields.io/github/forks/mcpware/claude-code-organizer?style=flat-square&color=blue)](https://github.com/mcpware/claude-code-organizer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Dashboard to manage Claude Code memories, configs, and MCP servers — security scanner for tool poisoning, context token budget tracker, duplicate cleanup, scope management. npx @mcpware/claude-code-organizer
+> Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP servers, skills, memories, agents, sessions, security scanning, context budget, and backups.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 283 |
-| 🍴 **Forks** | 25 |
+| 🍴 **Forks** | 26 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |

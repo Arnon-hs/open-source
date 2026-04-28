@@ -1,8 +1,8 @@
 # goofypluto999/cv-mirror-mcp
 
-[![Stars](https://img.shields.io/github/stars/goofypluto999/cv-mirror-mcp?style=flat-square&color=yellow)](https://github.com/goofypluto999/cv-mirror-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/goofypluto999/cv-mirror-mcp?style=flat-square&color=blue)](https://github.com/goofypluto999/cv-mirror-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/goofypluto999/cv-mirror-mcp?style=flat-square&color=yellow)](https://github.com/goofypluto999/cv-mirror-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/goofypluto999/cv-mirror-mcp?style=flat-square&color=blue)](https://github.com/goofypluto999/cv-mirror-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag opensource): I built an open-source MCP server that lints a CV against 5 real ATS parsers
+> MCP server that lints a CV against 5 real ATS parsers (Workday, Greenhouse, Lever, Taleo, iCIMS). Real heuristics from public vendor docs. Works with Claude Code, Cursor, Windsurf, Zed, and any MCP-compatible agent.
 
 ## 📊 Stats
 
@@ -10,8 +10,8 @@
 |---|---|
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 

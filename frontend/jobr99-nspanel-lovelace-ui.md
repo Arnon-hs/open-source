@@ -1,6 +1,6 @@
 # joBr99/nspanel-lovelace-ui
 
-[![Stars](https://img.shields.io/github/stars/joBr99/nspanel-lovelace-ui?style=flat-square&color=yellow)](https://github.com/joBr99/nspanel-lovelace-ui/stargazers) [![Forks](https://img.shields.io/github/forks/joBr99/nspanel-lovelace-ui?style=flat-square&color=blue)](https://github.com/joBr99/nspanel-lovelace-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joBr99/nspanel-lovelace-ui?style=flat-square&color=yellow)](https://github.com/joBr99/nspanel-lovelace-ui/stargazers) [![Forks](https://img.shields.io/github/forks/joBr99/nspanel-lovelace-ui?style=flat-square&color=blue)](https://github.com/joBr99/nspanel-lovelace-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Custom Firmware for NsPanel with the design of HomeAssistant's lovelace UI in mind, works with Tasmota.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 985 |
 | 🍴 **Forks** | 197 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

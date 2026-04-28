@@ -1,6 +1,6 @@
 # NexusSOL/Nexus
 
-[![Stars](https://img.shields.io/github/stars/NexusSOL/Nexus?style=flat-square&color=yellow)](https://github.com/NexusSOL/Nexus/stargazers) [![Forks](https://img.shields.io/github/forks/NexusSOL/Nexus?style=flat-square&color=blue)](https://github.com/NexusSOL/Nexus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NexusSOL/Nexus?style=flat-square&color=yellow)](https://github.com/NexusSOL/Nexus/stargazers) [![Forks](https://img.shields.io/github/forks/NexusSOL/Nexus?style=flat-square&color=blue)](https://github.com/NexusSOL/Nexus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-chain bridge monitor for Solana. Tracks asset flows between Solana and EVM chains and detects anomalies using Claude.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

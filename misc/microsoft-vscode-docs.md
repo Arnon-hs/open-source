@@ -1,17 +1,17 @@
 # microsoft/vscode-docs
 
-[![Stars](https://img.shields.io/github/stars/microsoft/vscode-docs?style=flat-square&color=yellow)](https://github.com/microsoft/vscode-docs/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/vscode-docs?style=flat-square&color=blue)](https://github.com/microsoft/vscode-docs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/vscode-docs?style=flat-square&color=yellow)](https://github.com/microsoft/vscode-docs/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/vscode-docs?style=flat-square&color=blue)](https://github.com/microsoft/vscode-docs/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag github): Top 10 Open Source Projects for Beginners to Contribute To
+> Public documentation for Visual Studio Code
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| ⭐ **Stars** | 6.5k |
+| 🍴 **Forks** | 5.6k |
+| 💻 **Language** | Markdown |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

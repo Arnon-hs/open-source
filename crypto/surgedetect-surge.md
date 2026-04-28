@@ -1,6 +1,6 @@
 # SurgeDetect/Surge
 
-[![Stars](https://img.shields.io/github/stars/SurgeDetect/Surge?style=flat-square&color=yellow)](https://github.com/SurgeDetect/Surge/stargazers) [![Forks](https://img.shields.io/github/forks/SurgeDetect/Surge?style=flat-square&color=blue)](https://github.com/SurgeDetect/Surge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SurgeDetect/Surge?style=flat-square&color=yellow)](https://github.com/SurgeDetect/Surge/stargazers) [![Forks](https://img.shields.io/github/forks/SurgeDetect/Surge?style=flat-square&color=blue)](https://github.com/SurgeDetect/Surge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Volume spike detector for Solana. Finds tokens with unusual DEX volume and uses Claude to classify organic vs manipulation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # hashintel/hash
 
-[![Stars](https://img.shields.io/github/stars/hashintel/hash?style=flat-square&color=yellow)](https://github.com/hashintel/hash/stargazers) [![Forks](https://img.shields.io/github/forks/hashintel/hash?style=flat-square&color=blue)](https://github.com/hashintel/hash/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashintel/hash?style=flat-square&color=yellow)](https://github.com/hashintel/hash/stargazers) [![Forks](https://img.shields.io/github/forks/hashintel/hash?style=flat-square&color=blue)](https://github.com/hashintel/hash/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀  The open-source, multi-tenant platform for self-building knowledge graphs and simulation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # TensorBlock/awesome-mcp-servers
 
-[![Stars](https://img.shields.io/github/stars/TensorBlock/awesome-mcp-servers?style=flat-square&color=yellow)](https://github.com/TensorBlock/awesome-mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/TensorBlock/awesome-mcp-servers?style=flat-square&color=blue)](https://github.com/TensorBlock/awesome-mcp-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TensorBlock/awesome-mcp-servers?style=flat-square&color=yellow)](https://github.com/TensorBlock/awesome-mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/TensorBlock/awesome-mcp-servers?style=flat-square&color=blue)](https://github.com/TensorBlock/awesome-mcp-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive collection of Model Context Protocol (MCP) servers
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 646 |
-| 🍴 **Forks** | 331 |
+| 🍴 **Forks** | 332 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

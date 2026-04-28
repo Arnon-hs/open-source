@@ -1,6 +1,6 @@
 # midudev/libros-programacion-gratis
 
-[![Stars](https://img.shields.io/github/stars/midudev/libros-programacion-gratis?style=flat-square&color=yellow)](https://github.com/midudev/libros-programacion-gratis/stargazers) [![Forks](https://img.shields.io/github/forks/midudev/libros-programacion-gratis?style=flat-square&color=blue)](https://github.com/midudev/libros-programacion-gratis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/midudev/libros-programacion-gratis?style=flat-square&color=yellow)](https://github.com/midudev/libros-programacion-gratis/stargazers) [![Forks](https://img.shields.io/github/forks/midudev/libros-programacion-gratis?style=flat-square&color=blue)](https://github.com/midudev/libros-programacion-gratis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
 
 > 📚 Lista de libros sobre programación en Español y gratis
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.1k |
-| 🍴 **Forks** | 583 |
+| 🍴 **Forks** | 585 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 92/100 |
+| 📈 **Score** | 93/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # theihtisham/omni-skills-forge
 
-[![Stars](https://img.shields.io/github/stars/theihtisham/omni-skills-forge?style=flat-square&color=yellow)](https://github.com/theihtisham/omni-skills-forge/stargazers) [![Forks](https://img.shields.io/github/forks/theihtisham/omni-skills-forge?style=flat-square&color=blue)](https://github.com/theihtisham/omni-skills-forge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/theihtisham/omni-skills-forge?style=flat-square&color=yellow)](https://github.com/theihtisham/omni-skills-forge/stargazers) [![Forks](https://img.shields.io/github/forks/theihtisham/omni-skills-forge?style=flat-square&color=blue)](https://github.com/theihtisham/omni-skills-forge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Universal skill & slash-command manager for AI coding assistants — build, share, install community skills. Works with Claude Code. npm install omni-skills-forge
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

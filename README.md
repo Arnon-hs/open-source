@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **10584** |
+| 🗂️ **Total projects** | **10635** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4085 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1993 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1047 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 853 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 628 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 614 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 381 | [Browse →](./crypto/) |
-| 📊 **Data** | 233 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 4109 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2002 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1049 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 856 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 632 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 617 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 382 | [Browse →](./crypto/) |
+| 📊 **Data** | 234 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 217 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 131 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 132 | [Browse →](./mobile/) |
 | 💳 **Payments** | 123 | [Browse →](./payments/) |
-| 📈 **Trading** | 105 | [Browse →](./trading/) |
-| 🔐 **Security** | 94 | [Browse →](./security/) |
+| 📈 **Trading** | 106 | [Browse →](./trading/) |
+| 🔐 **Security** | 95 | [Browse →](./security/) |
 | ✨ **Design** | 36 | [Browse →](./design/) |
-| 🎯 **Product** | 24 | [Browse →](./product/) |
+| 🎯 **Product** | 25 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 20 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [nukeop/nuclear](./aiml/nukeop-nuclear.md) | ⭐ 17.4k | AI/ML |
-| 2 | [hazelcast/hazelcast](./data/hazelcast-hazelcast.md) | ⭐ 6.6k | Data |
-| 3 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 4 | [meteor/meteor](./frontend/meteor-meteor.md) | ⭐ 44.8k | Frontend |
-| 5 | [travisvn/awesome-claude-skills](./aiml/travisvn-awesome-claude-skills.md) | ⭐ 11.9k | AI/ML |
-| 6 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.5k | AI/ML |
-| 7 | [flame-engine/flame](./mobile/flame-engine-flame.md) | ⭐ 10.5k | Mobile |
-| 8 | [firebase/firebase-ios-sdk](./aiml/firebase-firebase-ios-sdk.md) | ⭐ 6.6k | AI/ML |
-| 9 | [web-platform-tests/wpt](./aiml/web-platform-tests-wpt.md) | ⭐ 5.9k | AI/ML |
-| 10 | [shadcn-ui/ui](./aiml/shadcn-ui-ui.md) | ⭐ 113.2k | AI/ML |
+| 1 | [fatedier/frp](./backend/fatedier-frp.md) | ⭐ 106.1k | Backend |
+| 2 | [coollabsio/coolify](./backend/coollabsio-coolify.md) | ⭐ 54.3k | Backend |
+| 3 | [roboflow/supervision](./misc/roboflow-supervision.md) | ⭐ 38.2k | Misc |
+| 4 | [CherryHQ/cherry-studio](./aiml/cherryhq-cherry-studio.md) | ⭐ 44.7k | AI/ML |
+| 5 | [RIOT-OS/RIOT](./misc/riot-os-riot.md) | ⭐ 5.7k | Misc |
+| 6 | [shadps4-emu/shadPS4](./frontend/shadps4-emu-shadps4.md) | ⭐ 30.9k | Frontend |
+| 7 | [ollama/ollama](./aiml/ollama-ollama.md) | ⭐ 170.2k | AI/ML |
+| 8 | [unslothai/unsloth](./aiml/unslothai-unsloth.md) | ⭐ 63.2k | AI/ML |
+| 9 | [prometheus/alertmanager](./aiml/prometheus-alertmanager.md) | ⭐ 8.4k | AI/ML |
+| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
 
 ## 🚀 How it works
 
