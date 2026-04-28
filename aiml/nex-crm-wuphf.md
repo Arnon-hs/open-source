@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/nex-crm/wuphf?style=flat-square&color=yellow)](https://github.com/nex-crm/wuphf/stargazers) [![Forks](https://img.shields.io/github/forks/nex-crm/wuphf?style=flat-square&color=blue)](https://github.com/nex-crm/wuphf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Slack for AI employees that build and maintain their own wiki. Get Claudes, Codexes, OpenClaws and local LLMs to collaborate and do your work autonomously while never losing context.
+> WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs via OpenCode.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 686 |
-| 🍴 **Forks** | 41 |
+| ⭐ **Stars** | 693 |
+| 🍴 **Forks** | 43 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |

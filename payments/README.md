@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**116 projects** in this category.
+**117 projects** in this category.
 
 ## Projects
 
@@ -39,8 +39,8 @@
 | 29 | [FOSSBilling/FOSSBilling](./fossbilling-fossbilling.md) | ⭐ 1.5k | PHP | 65/100 |
 | 30 | [robinebers/openusage](./robinebers-openusage.md) | ⭐ 2.1k | JavaScript | 64/100 |
 | 31 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.5k | Kotlin | 64/100 |
-| 32 | [NiREvil/vless](./nirevil-vless.md) | ⭐ 1.1k | Rust | 61/100 |
-| 33 | [stripe/stripe-cli](./stripe-stripe-cli.md) | ⭐ 2k | Go | 61/100 |
+| 32 | [stripe/stripe-cli](./stripe-stripe-cli.md) | ⭐ 2k | Go | 61/100 |
+| 33 | [NiREvil/vless](./nirevil-vless.md) | ⭐ 1.1k | Rust | 61/100 |
 | 34 | [Natively-AI-assistant/natively-cluely-ai-assistant](./natively-ai-assistant-natively-cluely-ai-assistant.md) | ⭐ 1.1k | TypeScript | 61/100 |
 | 35 | [Lin-arm/GKD_subscription](./lin-arm-gkd-subscription.md) | ⭐ 2.2k | TypeScript | 61/100 |
 | 36 | [useautumn/autumn](./useautumn-autumn.md) | ⭐ 2.5k | TypeScript | 61/100 |
@@ -96,34 +96,35 @@
 | 86 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 170 | Ruby | 48/100 |
 | 87 | [braintree/android-card-form](./braintree-android-card-form.md) | ⭐ 374 | Java | 48/100 |
 | 88 | [angelleye/paypal-woocommerce](./angelleye-paypal-woocommerce.md) | ⭐ 132 | PHP | 47/100 |
-| 89 | [VictorAvelar/mollie-api-go](./victoravelar-mollie-api-go.md) | ⭐ 91 | Go | 47/100 |
-| 90 | [Dicklesworthstone/flywheel_connectors](./dicklesworthstone-flywheel-connectors.md) | ⭐ 74 | Rust | 47/100 |
-| 91 | [MusahMusah/laravel-multipayment-gateways](./musahmusah-laravel-multipayment-gateways.md) | ⭐ 88 | PHP | 47/100 |
-| 92 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 47/100 |
-| 93 | [Dicklesworthstone/coding_agent_account_manager](./dicklesworthstone-coding-agent-account-manager.md) | ⭐ 114 | Go | 47/100 |
-| 94 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 47/100 |
-| 95 | [Adyen/adyen-ruby-api-library](./adyen-adyen-ruby-api-library.md) | ⭐ 52 | Ruby | 47/100 |
-| 96 | [checkout/checkout-sdk-node](./checkout-checkout-sdk-node.md) | ⭐ 67 | JavaScript | 47/100 |
-| 97 | [braintree/braintree-android-drop-in](./braintree-braintree-android-drop-in.md) | ⭐ 125 | Java | 46/100 |
-| 98 | [shetabit/payment](./shetabit-payment.md) | ⭐ 941 | PHP | 46/100 |
-| 99 | [poe-platform/poe-code](./poe-platform-poe-code.md) | ⭐ 76 | TypeScript | 46/100 |
-| 100 | [xinggaoya/sing-box-windows](./xinggaoya-sing-box-windows.md) | ⭐ 698 | Rust | 46/100 |
-| 101 | [getlago/lago-api](./getlago-lago-api.md) | ⭐ 418 | Ruby | 45/100 |
-| 102 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 66 | TypeScript | 45/100 |
-| 103 | [sarowish/ytsub](./sarowish-ytsub.md) | ⭐ 31 | Rust | 45/100 |
-| 104 | [Adyen/adyen-python-api-library](./adyen-adyen-python-api-library.md) | ⭐ 65 | Python | 43/100 |
-| 105 | [mollie/laravel-cashier-mollie](./mollie-laravel-cashier-mollie.md) | ⭐ 172 | PHP | 43/100 |
-| 106 | [juspay/decision-engine](./juspay-decision-engine.md) | ⭐ 114 | Rust | 43/100 |
-| 107 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 75 | Python | 43/100 |
-| 108 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 42/100 |
-| 109 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 243 | JavaScript | 42/100 |
-| 110 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 127 | Rust | 42/100 |
-| 111 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 42/100 |
-| 112 | [AuthorizeNet/sdk-dotnet](./authorizenet-sdk-dotnet.md) | ⭐ 154 | C# | 42/100 |
-| 113 | [mollie/Shopware6](./mollie-shopware6.md) | ⭐ 64 | PHP | 41/100 |
-| 114 | [protonemedia/laravel-paddle](./protonemedia-laravel-paddle.md) | ⭐ 202 | PHP | 40/100 |
-| 115 | [PtPrashantTripathi/linkpe](./ptprashanttripathi-linkpe.md) | ⭐ 98 | HTML | 40/100 |
-| 116 | [AutoFTbot/Qris-OrderKuota](./autoftbot-qris-orderkuota.md) | ⭐ 63 | PHP | 39/100 |
+| 89 | [Dicklesworthstone/flywheel_connectors](./dicklesworthstone-flywheel-connectors.md) | ⭐ 74 | Rust | 47/100 |
+| 90 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 64 | HTML | 47/100 |
+| 91 | [VictorAvelar/mollie-api-go](./victoravelar-mollie-api-go.md) | ⭐ 91 | Go | 47/100 |
+| 92 | [MusahMusah/laravel-multipayment-gateways](./musahmusah-laravel-multipayment-gateways.md) | ⭐ 88 | PHP | 47/100 |
+| 93 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 47/100 |
+| 94 | [Dicklesworthstone/coding_agent_account_manager](./dicklesworthstone-coding-agent-account-manager.md) | ⭐ 114 | Go | 47/100 |
+| 95 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 47/100 |
+| 96 | [Adyen/adyen-ruby-api-library](./adyen-adyen-ruby-api-library.md) | ⭐ 52 | Ruby | 47/100 |
+| 97 | [checkout/checkout-sdk-node](./checkout-checkout-sdk-node.md) | ⭐ 67 | JavaScript | 47/100 |
+| 98 | [braintree/braintree-android-drop-in](./braintree-braintree-android-drop-in.md) | ⭐ 125 | Java | 46/100 |
+| 99 | [shetabit/payment](./shetabit-payment.md) | ⭐ 941 | PHP | 46/100 |
+| 100 | [poe-platform/poe-code](./poe-platform-poe-code.md) | ⭐ 76 | TypeScript | 46/100 |
+| 101 | [xinggaoya/sing-box-windows](./xinggaoya-sing-box-windows.md) | ⭐ 698 | Rust | 46/100 |
+| 102 | [getlago/lago-api](./getlago-lago-api.md) | ⭐ 418 | Ruby | 45/100 |
+| 103 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 66 | TypeScript | 45/100 |
+| 104 | [sarowish/ytsub](./sarowish-ytsub.md) | ⭐ 31 | Rust | 45/100 |
+| 105 | [Adyen/adyen-python-api-library](./adyen-adyen-python-api-library.md) | ⭐ 65 | Python | 43/100 |
+| 106 | [mollie/laravel-cashier-mollie](./mollie-laravel-cashier-mollie.md) | ⭐ 172 | PHP | 43/100 |
+| 107 | [juspay/decision-engine](./juspay-decision-engine.md) | ⭐ 114 | Rust | 43/100 |
+| 108 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 75 | Python | 43/100 |
+| 109 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 42/100 |
+| 110 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 243 | JavaScript | 42/100 |
+| 111 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 127 | Rust | 42/100 |
+| 112 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 42/100 |
+| 113 | [AuthorizeNet/sdk-dotnet](./authorizenet-sdk-dotnet.md) | ⭐ 154 | C# | 42/100 |
+| 114 | [mollie/Shopware6](./mollie-shopware6.md) | ⭐ 64 | PHP | 41/100 |
+| 115 | [protonemedia/laravel-paddle](./protonemedia-laravel-paddle.md) | ⭐ 202 | PHP | 40/100 |
+| 116 | [PtPrashantTripathi/linkpe](./ptprashanttripathi-linkpe.md) | ⭐ 98 | HTML | 40/100 |
+| 117 | [AutoFTbot/Qris-OrderKuota](./autoftbot-qris-orderkuota.md) | ⭐ 63 | PHP | 39/100 |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**201 projects** in this category.
+**202 projects** in this category.
 
 ## Projects
 
@@ -10,11 +10,11 @@
 |---|---|---|---|---|
 | 1 | [firefly-iii/firefly-iii](./firefly-iii-firefly-iii.md) | ⭐ 23.1k | PHP | 100/100 |
 | 2 | [alam00000/bentopdf](./alam00000-bentopdf.md) | ⭐ 13k | JavaScript | 100/100 |
-| 3 | [metallb/metallb](./metallb-metallb.md) | ⭐ 8.2k | Go | 100/100 |
-| 4 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 77.9k | TypeScript | 100/100 |
-| 5 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.4k | Python | 100/100 |
-| 6 | [nginx/kubernetes-ingress](./nginx-kubernetes-ingress.md) | ⭐ 5k | Go | 100/100 |
-| 7 | [projectcalico/calico](./projectcalico-calico.md) | ⭐ 7.2k | Go | 100/100 |
+| 3 | [projectcalico/calico](./projectcalico-calico.md) | ⭐ 7.2k | Go | 100/100 |
+| 4 | [metallb/metallb](./metallb-metallb.md) | ⭐ 8.2k | Go | 100/100 |
+| 5 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 77.9k | TypeScript | 100/100 |
+| 6 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.4k | Python | 100/100 |
+| 7 | [nginx/kubernetes-ingress](./nginx-kubernetes-ingress.md) | ⭐ 5k | Go | 100/100 |
 | 8 | [dependabot/dependabot-core](./dependabot-dependabot-core.md) | ⭐ 5.6k | Ruby | 100/100 |
 | 9 | [netbox-community/netbox](./netbox-community-netbox.md) | ⭐ 20.4k | Python | 100/100 |
 | 10 | [runatlantis/atlantis](./runatlantis-atlantis.md) | ⭐ 9k | Go | 100/100 |
@@ -43,8 +43,8 @@
 | 33 | [woodpecker-ci/woodpecker](./woodpecker-ci-woodpecker.md) | ⭐ 6.9k | Go | 92/100 |
 | 34 | [docker-library/docs](./docker-library-docs.md) | ⭐ 5.3k | Shell | 91/100 |
 | 35 | [terraform-docs/terraform-docs](./terraform-docs-terraform-docs.md) | ⭐ 4.8k | Go | 90/100 |
-| 36 | [docker-library/official-images](./docker-library-official-images.md) | ⭐ 6.9k | Shell | 90/100 |
-| 37 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 8.8k | Go | 90/100 |
+| 36 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 8.8k | Go | 90/100 |
+| 37 | [docker-library/official-images](./docker-library-official-images.md) | ⭐ 6.9k | Shell | 90/100 |
 | 38 | [opentofu/opentofu](./opentofu-opentofu.md) | ⭐ 28.5k | Go | 90/100 |
 | 39 | [google/clusterfuzz](./google-clusterfuzz.md) | ⭐ 5.6k | Python | 89/100 |
 | 40 | [xubiaolin/docker-zerotier-planet](./xubiaolin-docker-zerotier-planet.md) | ⭐ 4k | Shell | 87/100 |
@@ -70,7 +70,7 @@
 | 60 | [homebridge/docker-homebridge](./homebridge-docker-homebridge.md) | ⭐ 2.7k | Shell | 73/100 |
 | 61 | [autobrr/autobrr](./autobrr-autobrr.md) | ⭐ 2.7k | Go | 72/100 |
 | 62 | [GhostWriters/DockSTARTer](./ghostwriters-dockstarter.md) | ⭐ 2.6k | Shell | 72/100 |
-| 63 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 948 | Go Template | 72/100 |
+| 63 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 949 | Go Template | 72/100 |
 | 64 | [microsoft/retina](./microsoft-retina.md) | ⭐ 3.1k | Go | 71/100 |
 | 65 | [NVIDIA/gpu-operator](./nvidia-gpu-operator.md) | ⭐ 2.7k | Go | 71/100 |
 | 66 | [argoproj-labs/argocd-operator](./argoproj-labs-argocd-operator.md) | ⭐ 859 | Go | 71/100 |
@@ -157,58 +157,59 @@
 | 147 | [budimanjojo/talhelper](./budimanjojo-talhelper.md) | ⭐ 635 | Go | 51/100 |
 | 148 | [budimanjojo/home-cluster](./budimanjojo-home-cluster.md) | ⭐ 247 | Go | 51/100 |
 | 149 | [devops-works/binenv](./devops-works-binenv.md) | ⭐ 406 | Go | 51/100 |
-| 150 | [electerm/electerm-web-docker](./electerm-electerm-web-docker.md) | ⭐ 71 | Shell | 51/100 |
-| 151 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 256 | Rust | 51/100 |
-| 152 | [cozystack/talm](./cozystack-talm.md) | ⭐ 447 | Go | 51/100 |
-| 153 | [tianon/dockerfiles](./tianon-dockerfiles.md) | ⭐ 1.1k | Dockerfile | 51/100 |
-| 154 | [mongodb/terraform-provider-mongodbatlas](./mongodb-terraform-provider-mongodbatlas.md) | ⭐ 274 | Go | 51/100 |
-| 155 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
+| 150 | [Dynatrace/dynatrace-operator](./dynatrace-dynatrace-operator.md) | ⭐ 207 | Go | 51/100 |
+| 151 | [electerm/electerm-web-docker](./electerm-electerm-web-docker.md) | ⭐ 71 | Shell | 51/100 |
+| 152 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 256 | Rust | 51/100 |
+| 153 | [cozystack/talm](./cozystack-talm.md) | ⭐ 447 | Go | 51/100 |
+| 154 | [tianon/dockerfiles](./tianon-dockerfiles.md) | ⭐ 1.1k | Dockerfile | 51/100 |
+| 155 | [mongodb/terraform-provider-mongodbatlas](./mongodb-terraform-provider-mongodbatlas.md) | ⭐ 274 | Go | 51/100 |
 | 156 | [tencentcloudstack/terraform-provider-tencentcloud](./tencentcloudstack-terraform-provider-tencentcloud.md) | ⭐ 214 | Go | 50/100 |
-| 157 | [skyhook-io/radar](./skyhook-io-radar.md) | ⭐ 1.3k | TypeScript | 50/100 |
-| 158 | [estahn/k8s-image-swapper](./estahn-k8s-image-swapper.md) | ⭐ 631 | Go | 50/100 |
-| 159 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 213 | Go | 50/100 |
-| 160 | [cdklabs/cdk-ecr-deployment](./cdklabs-cdk-ecr-deployment.md) | ⭐ 187 | Go | 49/100 |
-| 161 | [kubewarden/kubewarden-controller](./kubewarden-kubewarden-controller.md) | ⭐ 228 | Rust | 49/100 |
-| 162 | [huaweicloud/terraform-provider-huaweicloud](./huaweicloud-terraform-provider-huaweicloud.md) | ⭐ 259 | Go | 49/100 |
-| 163 | [terraform-provider-openstack/terraform-provider-openstack](./terraform-provider-openstack-terraform-provider-openstack.md) | ⭐ 468 | Go | 49/100 |
-| 164 | [kube-rbac-proxy/kube-rbac-proxy](./kube-rbac-proxy-kube-rbac-proxy.md) | ⭐ 672 | Go | 49/100 |
-| 165 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 935 | Dockerfile | 49/100 |
-| 166 | [arangodb/kube-arangodb](./arangodb-kube-arangodb.md) | ⭐ 234 | Go | 48/100 |
-| 167 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 174 | Go | 48/100 |
-| 168 | [cybozu-go/moco](./cybozu-go-moco.md) | ⭐ 362 | Go | 48/100 |
-| 169 | [scaleway/terraform-provider-scaleway](./scaleway-terraform-provider-scaleway.md) | ⭐ 252 | Go | 48/100 |
-| 170 | [stackitcloud/terraform-provider-stackit](./stackitcloud-terraform-provider-stackit.md) | ⭐ 169 | Go | 48/100 |
-| 171 | [vmware/terraform-provider-vra](./vmware-terraform-provider-vra.md) | ⭐ 116 | Go | 48/100 |
-| 172 | [reteps/dockerfmt](./reteps-dockerfmt.md) | ⭐ 600 | Go | 48/100 |
-| 173 | [vmware/terraform-provider-nsxt](./vmware-terraform-provider-nsxt.md) | ⭐ 146 | Go | 47/100 |
-| 174 | [kubernetes/kubelet](./kubernetes-kubelet.md) | ⭐ 401 | Go | 47/100 |
-| 175 | [elastic/terraform-provider-elasticstack](./elastic-terraform-provider-elasticstack.md) | ⭐ 206 | Go | 47/100 |
-| 176 | [SumoLogic/sumologic-kubernetes-collection](./sumologic-sumologic-kubernetes-collection.md) | ⭐ 154 | Go | 46/100 |
-| 177 | [microsoft/terraform-provider-fabric](./microsoft-terraform-provider-fabric.md) | ⭐ 115 | Go | 46/100 |
-| 178 | [googlecloudrobotics/core](./googlecloudrobotics-core.md) | ⭐ 206 | Go | 46/100 |
-| 179 | [docker/model-runner](./docker-model-runner.md) | ⭐ 552 | Go | 46/100 |
-| 180 | [cert-manager/csi-driver](./cert-manager-csi-driver.md) | ⭐ 235 | Go | 46/100 |
-| 181 | [SAP/terraform-provider-btp](./sap-terraform-provider-btp.md) | ⭐ 115 | Go | 45/100 |
-| 182 | [epinio/epinio](./epinio-epinio.md) | ⭐ 587 | Go | 45/100 |
-| 183 | [steveteuber/kubectl-graph](./steveteuber-kubectl-graph.md) | ⭐ 686 | Go | 45/100 |
-| 184 | [bitnami/charts-syncer](./bitnami-charts-syncer.md) | ⭐ 238 | Go | 45/100 |
-| 185 | [netbirdio/kubernetes-operator](./netbirdio-kubernetes-operator.md) | ⭐ 118 | Go | 44/100 |
-| 186 | [cloudfoundry/korifi](./cloudfoundry-korifi.md) | ⭐ 397 | Go | 44/100 |
-| 187 | [tigera/operator](./tigera-operator.md) | ⭐ 211 | Go | 44/100 |
-| 188 | [kubernetes/kube-scheduler](./kubernetes-kube-scheduler.md) | ⭐ 198 | Go | 44/100 |
-| 189 | [kubernetes/pod-security-admission](./kubernetes-pod-security-admission.md) | ⭐ 102 | Go | 44/100 |
-| 190 | [kubernetes/kube-proxy](./kubernetes-kube-proxy.md) | ⭐ 206 | Go | 44/100 |
-| 191 | [kubernetes-sigs/downloadkubernetes](./kubernetes-sigs-downloadkubernetes.md) | ⭐ 123 | Go | 43/100 |
-| 192 | [kubernetes/kube-controller-manager](./kubernetes-kube-controller-manager.md) | ⭐ 105 | Go | 43/100 |
-| 193 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ 333 | Rust | 43/100 |
-| 194 | [submariner-io/lighthouse](./submariner-io-lighthouse.md) | ⭐ 149 | Go | 42/100 |
-| 195 | [vmware-tanzu/vm-operator](./vmware-tanzu-vm-operator.md) | ⭐ 129 | Go | 42/100 |
-| 196 | [NVIDIA/ncx-infra-controller-core](./nvidia-ncx-infra-controller-core.md) | ⭐ 132 | Rust | 42/100 |
-| 197 | [pulumi/pulumi-terraform](./pulumi-pulumi-terraform.md) | ⭐ 118 | Go | 41/100 |
-| 198 | [zeroecco/holos](./zeroecco-holos.md) | ⭐ 130 | Go | 41/100 |
-| 199 | [ricardomaraschini/oomhero](./ricardomaraschini-oomhero.md) | ⭐ 111 | Rust | 41/100 |
-| 200 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 38/100 |
-| 201 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 4 | Go | 34/100 |
+| 157 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
+| 158 | [skyhook-io/radar](./skyhook-io-radar.md) | ⭐ 1.3k | TypeScript | 50/100 |
+| 159 | [estahn/k8s-image-swapper](./estahn-k8s-image-swapper.md) | ⭐ 631 | Go | 50/100 |
+| 160 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 213 | Go | 50/100 |
+| 161 | [cdklabs/cdk-ecr-deployment](./cdklabs-cdk-ecr-deployment.md) | ⭐ 187 | Go | 49/100 |
+| 162 | [kubewarden/kubewarden-controller](./kubewarden-kubewarden-controller.md) | ⭐ 228 | Rust | 49/100 |
+| 163 | [huaweicloud/terraform-provider-huaweicloud](./huaweicloud-terraform-provider-huaweicloud.md) | ⭐ 259 | Go | 49/100 |
+| 164 | [terraform-provider-openstack/terraform-provider-openstack](./terraform-provider-openstack-terraform-provider-openstack.md) | ⭐ 468 | Go | 49/100 |
+| 165 | [kube-rbac-proxy/kube-rbac-proxy](./kube-rbac-proxy-kube-rbac-proxy.md) | ⭐ 672 | Go | 49/100 |
+| 166 | [LesnyRumcajs/grpc_bench](./lesnyrumcajs-grpc-bench.md) | ⭐ 935 | Dockerfile | 49/100 |
+| 167 | [arangodb/kube-arangodb](./arangodb-kube-arangodb.md) | ⭐ 234 | Go | 48/100 |
+| 168 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 174 | Go | 48/100 |
+| 169 | [cybozu-go/moco](./cybozu-go-moco.md) | ⭐ 362 | Go | 48/100 |
+| 170 | [scaleway/terraform-provider-scaleway](./scaleway-terraform-provider-scaleway.md) | ⭐ 252 | Go | 48/100 |
+| 171 | [stackitcloud/terraform-provider-stackit](./stackitcloud-terraform-provider-stackit.md) | ⭐ 169 | Go | 48/100 |
+| 172 | [vmware/terraform-provider-vra](./vmware-terraform-provider-vra.md) | ⭐ 116 | Go | 48/100 |
+| 173 | [reteps/dockerfmt](./reteps-dockerfmt.md) | ⭐ 600 | Go | 48/100 |
+| 174 | [vmware/terraform-provider-nsxt](./vmware-terraform-provider-nsxt.md) | ⭐ 146 | Go | 47/100 |
+| 175 | [kubernetes/kubelet](./kubernetes-kubelet.md) | ⭐ 401 | Go | 47/100 |
+| 176 | [elastic/terraform-provider-elasticstack](./elastic-terraform-provider-elasticstack.md) | ⭐ 206 | Go | 47/100 |
+| 177 | [SumoLogic/sumologic-kubernetes-collection](./sumologic-sumologic-kubernetes-collection.md) | ⭐ 154 | Go | 46/100 |
+| 178 | [microsoft/terraform-provider-fabric](./microsoft-terraform-provider-fabric.md) | ⭐ 115 | Go | 46/100 |
+| 179 | [googlecloudrobotics/core](./googlecloudrobotics-core.md) | ⭐ 206 | Go | 46/100 |
+| 180 | [docker/model-runner](./docker-model-runner.md) | ⭐ 552 | Go | 46/100 |
+| 181 | [cert-manager/csi-driver](./cert-manager-csi-driver.md) | ⭐ 235 | Go | 46/100 |
+| 182 | [SAP/terraform-provider-btp](./sap-terraform-provider-btp.md) | ⭐ 115 | Go | 45/100 |
+| 183 | [epinio/epinio](./epinio-epinio.md) | ⭐ 587 | Go | 45/100 |
+| 184 | [steveteuber/kubectl-graph](./steveteuber-kubectl-graph.md) | ⭐ 686 | Go | 45/100 |
+| 185 | [bitnami/charts-syncer](./bitnami-charts-syncer.md) | ⭐ 238 | Go | 45/100 |
+| 186 | [netbirdio/kubernetes-operator](./netbirdio-kubernetes-operator.md) | ⭐ 118 | Go | 44/100 |
+| 187 | [cloudfoundry/korifi](./cloudfoundry-korifi.md) | ⭐ 397 | Go | 44/100 |
+| 188 | [tigera/operator](./tigera-operator.md) | ⭐ 211 | Go | 44/100 |
+| 189 | [kubernetes/kube-scheduler](./kubernetes-kube-scheduler.md) | ⭐ 198 | Go | 44/100 |
+| 190 | [kubernetes/pod-security-admission](./kubernetes-pod-security-admission.md) | ⭐ 102 | Go | 44/100 |
+| 191 | [kubernetes/kube-proxy](./kubernetes-kube-proxy.md) | ⭐ 206 | Go | 44/100 |
+| 192 | [kubernetes-sigs/downloadkubernetes](./kubernetes-sigs-downloadkubernetes.md) | ⭐ 123 | Go | 43/100 |
+| 193 | [kubernetes/kube-controller-manager](./kubernetes-kube-controller-manager.md) | ⭐ 105 | Go | 43/100 |
+| 194 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ 333 | Rust | 43/100 |
+| 195 | [submariner-io/lighthouse](./submariner-io-lighthouse.md) | ⭐ 149 | Go | 42/100 |
+| 196 | [vmware-tanzu/vm-operator](./vmware-tanzu-vm-operator.md) | ⭐ 129 | Go | 42/100 |
+| 197 | [NVIDIA/ncx-infra-controller-core](./nvidia-ncx-infra-controller-core.md) | ⭐ 132 | Rust | 42/100 |
+| 198 | [pulumi/pulumi-terraform](./pulumi-pulumi-terraform.md) | ⭐ 118 | Go | 41/100 |
+| 199 | [zeroecco/holos](./zeroecco-holos.md) | ⭐ 130 | Go | 41/100 |
+| 200 | [ricardomaraschini/oomhero](./ricardomaraschini-oomhero.md) | ⭐ 111 | Rust | 41/100 |
+| 201 | [veerendra2/composeflux](./veerendra2-composeflux.md) | ⭐ 3 | Go | 38/100 |
+| 202 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 4 | Go | 34/100 |
 
 ---
 

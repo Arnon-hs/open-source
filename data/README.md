@@ -9,9 +9,9 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [snowplow/snowplow](./snowplow-snowplow.md) | ⭐ 7k | Scala | 100/100 |
-| 2 | [apache/beam](./apache-beam.md) | ⭐ 8.6k | Java | 100/100 |
-| 3 | [pola-rs/polars](./pola-rs-polars.md) | ⭐ 38.3k | Rust | 100/100 |
-| 4 | [VictoriaMetrics/VictoriaMetrics](./victoriametrics-victoriametrics.md) | ⭐ 16.9k | Go | 100/100 |
+| 2 | [VictoriaMetrics/VictoriaMetrics](./victoriametrics-victoriametrics.md) | ⭐ 16.9k | Go | 100/100 |
+| 3 | [apache/beam](./apache-beam.md) | ⭐ 8.6k | Java | 100/100 |
+| 4 | [pola-rs/polars](./pola-rs-polars.md) | ⭐ 38.3k | Rust | 100/100 |
 | 5 | [zalando/postgres-operator](./zalando-postgres-operator.md) | ⭐ 5.1k | Go | 100/100 |
 | 6 | [apache/spark](./apache-spark.md) | ⭐ 43.2k | Scala | 100/100 |
 | 7 | [apache/hudi](./apache-hudi.md) | ⭐ 6.2k | Java | 100/100 |
@@ -71,8 +71,8 @@
 | 61 | [enso-org/enso](./enso-org-enso.md) | ⭐ 7.4k | Java | 90/100 |
 | 62 | [Fyrd/caniuse](./fyrd-caniuse.md) | ⭐ 5.8k | JSON | 90/100 |
 | 63 | [jackvale/rectg](./jackvale-rectg.md) | ⭐ 8.7k | Python | 89/100 |
-| 64 | [pgmpy/pgmpy](./pgmpy-pgmpy.md) | ⭐ 3.3k | Python | 88/100 |
-| 65 | [johnkerl/miller](./johnkerl-miller.md) | ⭐ 9.8k | Go | 88/100 |
+| 64 | [johnkerl/miller](./johnkerl-miller.md) | ⭐ 9.9k | Go | 88/100 |
+| 65 | [pgmpy/pgmpy](./pgmpy-pgmpy.md) | ⭐ 3.3k | Python | 88/100 |
 | 66 | [Openpanel-dev/openpanel](./openpanel-dev-openpanel.md) | ⭐ 5.7k | TypeScript | 88/100 |
 | 67 | [gristlabs/grist-core](./gristlabs-grist-core.md) | ⭐ 11k | TypeScript | 87/100 |
 | 68 | [loro-dev/loro](./loro-dev-loro.md) | ⭐ 5.6k | Rust | 86/100 |
@@ -142,9 +142,9 @@
 | 132 | [sassanix/Warracker](./sassanix-warracker.md) | ⭐ 1.4k | JavaScript | 58/100 |
 | 133 | [percona/pmm](./percona-pmm.md) | ⭐ 1k | Go | 58/100 |
 | 134 | [supabase/supabase-swift](./supabase-supabase-swift.md) | ⭐ 1.2k | Swift | 57/100 |
-| 135 | [24eme/signaturepdf](./24eme-signaturepdf.md) | ⭐ 777 | JavaScript | 57/100 |
-| 136 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 57/100 |
-| 137 | [klsdf/GreenResourcesManager](./klsdf-greenresourcesmanager.md) | ⭐ 885 | JavaScript | 57/100 |
+| 135 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 57/100 |
+| 136 | [klsdf/GreenResourcesManager](./klsdf-greenresourcesmanager.md) | ⭐ 885 | JavaScript | 57/100 |
+| 137 | [24eme/signaturepdf](./24eme-signaturepdf.md) | ⭐ 777 | JavaScript | 57/100 |
 | 138 | [scverse/anndata](./scverse-anndata.md) | ⭐ 735 | Python | 57/100 |
 | 139 | [IQSS/dataverse](./iqss-dataverse.md) | ⭐ 1k | Java | 57/100 |
 | 140 | [unicode-org/cldr](./unicode-org-cldr.md) | ⭐ 1.1k | Java | 57/100 |
@@ -168,9 +168,9 @@
 | 158 | [apache/sedona-db](./apache-sedona-db.md) | ⭐ 448 | Rust | 54/100 |
 | 159 | [PostHog/posthog-js](./posthog-posthog-js.md) | ⭐ 538 | TypeScript | 54/100 |
 | 160 | [ad-freiburg/qlever](./ad-freiburg-qlever.md) | ⭐ 823 | C++ | 54/100 |
-| 161 | [surrealdb/surrealkv](./surrealdb-surrealkv.md) | ⭐ 516 | Rust | 53/100 |
-| 162 | [techouse/sqlite3-to-mysql](./techouse-sqlite3-to-mysql.md) | ⭐ 458 | Python | 53/100 |
-| 163 | [taleshape-com/shaper](./taleshape-com-shaper.md) | ⭐ 1.1k | Go | 53/100 |
+| 161 | [techouse/sqlite3-to-mysql](./techouse-sqlite3-to-mysql.md) | ⭐ 458 | Python | 53/100 |
+| 162 | [taleshape-com/shaper](./taleshape-com-shaper.md) | ⭐ 1.1k | Go | 53/100 |
+| 163 | [surrealdb/surrealkv](./surrealdb-surrealkv.md) | ⭐ 516 | Rust | 53/100 |
 | 164 | [topling/toplingdb](./topling-toplingdb.md) | ⭐ 1k | C++ | 53/100 |
 | 165 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 228 | Rust | 53/100 |
 | 166 | [gotempsh/temps](./gotempsh-temps.md) | ⭐ 424 | Rust | 53/100 |

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **9884** |
+| 🗂️ **Total projects** | **9943** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3813 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1848 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 983 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 816 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 579 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 568 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 353 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 3837 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1860 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 988 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 818 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 588 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 569 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 354 | [Browse →](./crypto/) |
 | 📊 **Data** | 215 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 201 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 129 | [Browse →](./mobile/) |
-| 💳 **Payments** | 116 | [Browse →](./payments/) |
+| 🚀 **DevOps & Infra** | 202 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 130 | [Browse →](./mobile/) |
+| 💳 **Payments** | 117 | [Browse →](./payments/) |
 | 📈 **Trading** | 99 | [Browse →](./trading/) |
-| 🔐 **Security** | 90 | [Browse →](./security/) |
-| ✨ **Design** | 32 | [Browse →](./design/) |
+| 🔐 **Security** | 91 | [Browse →](./security/) |
+| ✨ **Design** | 33 | [Browse →](./design/) |
 | 🎯 **Product** | 24 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 18 | [Browse →](./marketing/) |
 
@@ -42,13 +42,13 @@
 | 1 | [locustio/locust](./aiml/locustio-locust.md) | ⭐ 27.7k | AI/ML |
 | 2 | [alirezarezvani/claude-skills](./orchestration/alirezarezvani-claude-skills.md) | ⭐ 13k | Orchestration |
 | 3 | [snowplow/snowplow](./data/snowplow-snowplow.md) | ⭐ 7k | Data |
-| 4 | [TanStack/table](./frontend/tanstack-table.md) | ⭐ 27.9k | Frontend |
-| 5 | [ultralytics/ultralytics](./devtools/ultralytics-ultralytics.md) | ⭐ 56.5k | DevTools |
-| 6 | [stride3d/stride](./misc/stride3d-stride.md) | ⭐ 7.6k | Misc |
-| 7 | [louislam/uptime-kuma](./frontend/louislam-uptime-kuma.md) | ⭐ 86k | Frontend |
-| 8 | [bluewave-labs/Checkmate](./frontend/bluewave-labs-checkmate.md) | ⭐ 9.7k | Frontend |
-| 9 | [MISP/MISP](./trading/misp-misp.md) | ⭐ 6.3k | Trading |
-| 10 | [assistant-ui/assistant-ui](./aiml/assistant-ui-assistant-ui.md) | ⭐ 9.8k | AI/ML |
+| 4 | [lightningnetwork/lnd](./crypto/lightningnetwork-lnd.md) | ⭐ 8.1k | Crypto |
+| 5 | [juicedata/juicefs](./aiml/juicedata-juicefs.md) | ⭐ 13.5k | AI/ML |
+| 6 | [future-architect/vuls](./aiml/future-architect-vuls.md) | ⭐ 12.1k | AI/ML |
+| 7 | [TanStack/table](./frontend/tanstack-table.md) | ⭐ 27.9k | Frontend |
+| 8 | [ultralytics/ultralytics](./devtools/ultralytics-ultralytics.md) | ⭐ 56.5k | DevTools |
+| 9 | [stride3d/stride](./misc/stride3d-stride.md) | ⭐ 7.6k | Misc |
+| 10 | [louislam/uptime-kuma](./frontend/louislam-uptime-kuma.md) | ⭐ 86k | Frontend |
 
 ## 🚀 How it works
 

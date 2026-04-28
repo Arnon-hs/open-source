@@ -77,8 +77,8 @@
 | 67 | [freqtrade/technical](./freqtrade-technical.md) | ⭐ 996 | Python | 52/100 |
 | 68 | [tensorcircuit/tensorcircuit-ng](./tensorcircuit-tensorcircuit-ng.md) | ⭐ 71 | Python | 51/100 |
 | 69 | [OnePunchMonk/AgentQuant](./onepunchmonk-agentquant.md) | ⭐ 91 | Python | 51/100 |
-| 70 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 93 | Python | 51/100 |
-| 71 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 62 | Python | 51/100 |
+| 70 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 62 | Python | 51/100 |
+| 71 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 93 | Python | 51/100 |
 | 72 | [flukelaster/ai-trading-agent](./flukelaster-ai-trading-agent.md) | ⭐ 35 | Python | 51/100 |
 | 73 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 158 | Rust | 51/100 |
 | 74 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 93 | Python | 51/100 |
@@ -98,9 +98,9 @@
 | 88 | [SparkEngineAI/QuantClaw-plugin](./sparkengineai-quantclaw-plugin.md) | ⭐ 94 | TypeScript | 49/100 |
 | 89 | [deepentropy/ibx](./deepentropy-ibx.md) | ⭐ 115 | Rust | 49/100 |
 | 90 | [infinitefield/hypersdk](./infinitefield-hypersdk.md) | ⭐ 147 | Rust | 48/100 |
-| 91 | [andyzengmath/quantum-loop](./andyzengmath-quantum-loop.md) | ⭐ 22 | Shell | 48/100 |
-| 92 | [rivar0107/autostrategy](./rivar0107-autostrategy.md) | ⭐ 14 | Python | 48/100 |
-| 93 | [No-Trade-No-Life/Yuan](./no-trade-no-life-yuan.md) | ⭐ 351 | TypeScript | 48/100 |
+| 91 | [No-Trade-No-Life/Yuan](./no-trade-no-life-yuan.md) | ⭐ 351 | TypeScript | 48/100 |
+| 92 | [andyzengmath/quantum-loop](./andyzengmath-quantum-loop.md) | ⭐ 22 | Shell | 48/100 |
+| 93 | [rivar0107/autostrategy](./rivar0107-autostrategy.md) | ⭐ 14 | Python | 48/100 |
 | 94 | [tqec/tqec](./tqec-tqec.md) | ⭐ 359 | Python | 48/100 |
 | 95 | [twjackysu/TWSEMCPServer](./twjackysu-twsemcpserver.md) | ⭐ 74 | Python | 47/100 |
 | 96 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 300 | Rust | 47/100 |
