@@ -1,17 +1,17 @@
 # MTimma/knowerage
 
-[![Stars](https://img.shields.io/github/stars/MTimma/knowerage?style=flat-square&color=yellow)](https://github.com/MTimma/knowerage/stargazers) [![Forks](https://img.shields.io/github/forks/MTimma/knowerage?style=flat-square&color=blue)](https://github.com/MTimma/knowerage/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MTimma/knowerage?style=flat-square&color=yellow)](https://github.com/MTimma/knowerage/stargazers) [![Forks](https://img.shields.io/github/forks/MTimma/knowerage?style=flat-square&color=blue)](https://github.com/MTimma/knowerage/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Local MCP server that tracks AI analysis coverage against your codebase
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 

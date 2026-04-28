@@ -1,6 +1,6 @@
 # miroslavpejic85/mirotalksfu
 
-[![Stars](https://img.shields.io/github/stars/miroslavpejic85/mirotalksfu?style=flat-square&color=yellow)](https://github.com/miroslavpejic85/mirotalksfu/stargazers) [![Forks](https://img.shields.io/github/forks/miroslavpejic85/mirotalksfu?style=flat-square&color=blue)](https://github.com/miroslavpejic85/mirotalksfu/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miroslavpejic85/mirotalksfu?style=flat-square&color=yellow)](https://github.com/miroslavpejic85/mirotalksfu/stargazers) [![Forks](https://img.shields.io/github/forks/miroslavpejic85/mirotalksfu?style=flat-square&color=blue)](https://github.com/miroslavpejic85/mirotalksfu/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > 🏆 Self-hosted, open-source WebRTC video conferencing platform for real-time communication and collaboration. A modern alternative to Zoom, built on SFU architecture.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 456 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

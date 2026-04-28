@@ -1,6 +1,6 @@
 # kachkaev/njt
 
-[![Stars](https://img.shields.io/github/stars/kachkaev/njt?style=flat-square&color=yellow)](https://github.com/kachkaev/njt/stargazers) [![Forks](https://img.shields.io/github/forks/kachkaev/njt?style=flat-square&color=blue)](https://github.com/kachkaev/njt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kachkaev/njt?style=flat-square&color=yellow)](https://github.com/kachkaev/njt/stargazers) [![Forks](https://img.shields.io/github/forks/kachkaev/njt?style=flat-square&color=blue)](https://github.com/kachkaev/njt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > njt (npm jump to): a quick navigation tool for npm packages
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 317 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # openJiuwen-ai/jiuwenclaw
 
-[![Stars](https://img.shields.io/github/stars/openJiuwen-ai/jiuwenclaw?style=flat-square&color=yellow)](https://github.com/openJiuwen-ai/jiuwenclaw/stargazers) [![Forks](https://img.shields.io/github/forks/openJiuwen-ai/jiuwenclaw?style=flat-square&color=blue)](https://github.com/openJiuwen-ai/jiuwenclaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openJiuwen-ai/jiuwenclaw?style=flat-square&color=yellow)](https://github.com/openJiuwen-ai/jiuwenclaw/stargazers) [![Forks](https://img.shields.io/github/forks/openJiuwen-ai/jiuwenclaw?style=flat-square&color=blue)](https://github.com/openJiuwen-ai/jiuwenclaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > JiuwenClaw is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 583 |
-| 🍴 **Forks** | 93 |
+| ⭐ **Stars** | 591 |
+| 🍴 **Forks** | 94 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

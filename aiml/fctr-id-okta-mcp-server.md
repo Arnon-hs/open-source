@@ -1,6 +1,6 @@
 # fctr-id/okta-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/fctr-id/okta-mcp-server?style=flat-square&color=yellow)](https://github.com/fctr-id/okta-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/fctr-id/okta-mcp-server?style=flat-square&color=blue)](https://github.com/fctr-id/okta-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fctr-id/okta-mcp-server?style=flat-square&color=yellow)](https://github.com/fctr-id/okta-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/fctr-id/okta-mcp-server?style=flat-square&color=blue)](https://github.com/fctr-id/okta-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The Okta MCP Server is a groundbreaking tool built by the team at Fctr that enables AI models to interact directly with your Okta environment using the Model Context Protocol (MCP). Built specifically for IAM engineers, security teams, and Okta administrators, it implements the MCP specification to help work with Okta enitities
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

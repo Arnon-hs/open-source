@@ -1,6 +1,6 @@
 # xianyu110/gpt-codex
 
-[![Stars](https://img.shields.io/github/stars/xianyu110/gpt-codex?style=flat-square&color=yellow)](https://github.com/xianyu110/gpt-codex/stargazers) [![Forks](https://img.shields.io/github/forks/xianyu110/gpt-codex?style=flat-square&color=blue)](https://github.com/xianyu110/gpt-codex/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xianyu110/gpt-codex?style=flat-square&color=yellow)](https://github.com/xianyu110/gpt-codex/stargazers) [![Forks](https://img.shields.io/github/forks/xianyu110/gpt-codex?style=flat-square&color=blue)](https://github.com/xianyu110/gpt-codex/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 这是一个关于 OpenAI CodeX 的完整教程网站，专为国内开发者打造。
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 132 |
+| ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

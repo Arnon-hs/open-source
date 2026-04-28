@@ -1,17 +1,17 @@
 # localsend/localsend
 
-[![Stars](https://img.shields.io/github/stars/localsend/localsend?style=flat-square&color=yellow)](https://github.com/localsend/localsend/stargazers) [![Forks](https://img.shields.io/github/forks/localsend/localsend?style=flat-square&color=blue)](https://github.com/localsend/localsend/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/localsend/localsend?style=flat-square&color=yellow)](https://github.com/localsend/localsend/stargazers) [![Forks](https://img.shields.io/github/forks/localsend/localsend?style=flat-square&color=blue)](https://github.com/localsend/localsend/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> An open-source cross-platform alternative to AirDrop
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 79.3k |
+| 🍴 **Forks** | 4.3k |
+| 💻 **Language** | Dart |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Mobile
 
 ## 📝 Summary
 

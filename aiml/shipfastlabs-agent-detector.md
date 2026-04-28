@@ -1,6 +1,6 @@
 # shipfastlabs/agent-detector
 
-[![Stars](https://img.shields.io/github/stars/shipfastlabs/agent-detector?style=flat-square&color=yellow)](https://github.com/shipfastlabs/agent-detector/stargazers) [![Forks](https://img.shields.io/github/forks/shipfastlabs/agent-detector?style=flat-square&color=blue)](https://github.com/shipfastlabs/agent-detector/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shipfastlabs/agent-detector?style=flat-square&color=yellow)](https://github.com/shipfastlabs/agent-detector/stargazers) [![Forks](https://img.shields.io/github/forks/shipfastlabs/agent-detector?style=flat-square&color=blue)](https://github.com/shipfastlabs/agent-detector/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight PHP utility to detect if your code is running inside an AI agent or automated development environment.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 54 |
-| 🍴 **Forks** | 8 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

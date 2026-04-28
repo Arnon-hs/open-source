@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **10090** |
+| 🗂️ **Total projects** | **10202** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3892 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1885 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1003 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 828 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 598 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 579 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 358 | [Browse →](./crypto/) |
-| 📊 **Data** | 220 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 209 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 3944 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1907 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1011 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 835 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 603 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 583 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 365 | [Browse →](./crypto/) |
+| 📊 **Data** | 222 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 212 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 131 | [Browse →](./mobile/) |
-| 💳 **Payments** | 119 | [Browse →](./payments/) |
-| 📈 **Trading** | 99 | [Browse →](./trading/) |
-| 🔐 **Security** | 93 | [Browse →](./security/) |
-| ✨ **Design** | 34 | [Browse →](./design/) |
+| 💳 **Payments** | 120 | [Browse →](./payments/) |
+| 📈 **Trading** | 100 | [Browse →](./trading/) |
+| 🔐 **Security** | 92 | [Browse →](./security/) |
+| ✨ **Design** | 35 | [Browse →](./design/) |
 | 🎯 **Product** | 24 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 18 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [ramitsurana/awesome-kubernetes](./devopsinfra/ramitsurana-awesome-kubernetes.md) | ⭐ 15.9k | DevOps & Infra |
+| 1 | [aimeos/aimeos-laravel](./aiml/aimeos-aimeos-laravel.md) | ⭐ 8.6k | AI/ML |
 | 2 | [readest/readest](./aiml/readest-readest.md) | ⭐ 20k | AI/ML |
-| 3 | [spaceship-prompt/spaceship-prompt](./misc/spaceship-prompt-spaceship-prompt.md) | ⭐ 20.5k | Misc |
-| 4 | [js-org/js.org](./aiml/js-org-js.org.md) | ⭐ 5.7k | AI/ML |
-| 5 | [Anil-matcha/Open-Generative-AI](./aiml/anil-matcha-open-generative-ai.md) | ⭐ 9.5k | AI/ML |
-| 6 | [charmbracelet/bubbletea](./frontend/charmbracelet-bubbletea.md) | ⭐ 41.9k | Frontend |
-| 7 | [jumpserver/jumpserver](./backend/jumpserver-jumpserver.md) | ⭐ 30.4k | Backend |
-| 8 | [langchain-ai/open-swe](./orchestration/langchain-ai-open-swe.md) | ⭐ 9.7k | Orchestration |
-| 9 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 10 | [grafana/k6](./devtools/grafana-k6.md) | ⭐ 30.5k | DevTools |
+| 3 | [paperless-ngx/paperless-ngx](./misc/paperless-ngx-paperless-ngx.md) | ⭐ 40k | Misc |
+| 4 | [fluent/fluent-bit](./data/fluent-fluent-bit.md) | ⭐ 7.8k | Data |
+| 5 | [MonoGame/MonoGame](./misc/monogame-monogame.md) | ⭐ 13.8k | Misc |
+| 6 | [DioxusLabs/dioxus](./aiml/dioxuslabs-dioxus.md) | ⭐ 35.9k | AI/ML |
+| 7 | [openvinotoolkit/openvino](./aiml/openvinotoolkit-openvino.md) | ⭐ 10.1k | AI/ML |
+| 8 | [containerd/containerd](./aiml/containerd-containerd.md) | ⭐ 20.6k | AI/ML |
+| 9 | [nukeop/nuclear](./aiml/nukeop-nuclear.md) | ⭐ 17.4k | AI/ML |
+| 10 | [spaceship-prompt/spaceship-prompt](./misc/spaceship-prompt-spaceship-prompt.md) | ⭐ 20.5k | Misc |
 
 ## 🚀 How it works
 

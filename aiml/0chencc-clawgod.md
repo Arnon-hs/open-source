@@ -1,6 +1,6 @@
 # 0Chencc/clawgod
 
-[![Stars](https://img.shields.io/github/stars/0Chencc/clawgod?style=flat-square&color=yellow)](https://github.com/0Chencc/clawgod/stargazers) [![Forks](https://img.shields.io/github/forks/0Chencc/clawgod?style=flat-square&color=blue)](https://github.com/0Chencc/clawgod/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0Chencc/clawgod?style=flat-square&color=yellow)](https://github.com/0Chencc/clawgod/stargazers) [![Forks](https://img.shields.io/github/forks/0Chencc/clawgod?style=flat-square&color=blue)](https://github.com/0Chencc/clawgod/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 868 |
+| ⭐ **Stars** | 869 |
 | 🍴 **Forks** | 181 |
-| 💻 **Language** | Shell |
+| 💻 **Language** | HTML |
 | 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

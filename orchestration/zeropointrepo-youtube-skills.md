@@ -1,6 +1,6 @@
 # ZeroPointRepo/youtube-skills
 
-[![Stars](https://img.shields.io/github/stars/ZeroPointRepo/youtube-skills?style=flat-square&color=yellow)](https://github.com/ZeroPointRepo/youtube-skills/stargazers) [![Forks](https://img.shields.io/github/forks/ZeroPointRepo/youtube-skills?style=flat-square&color=blue)](https://github.com/ZeroPointRepo/youtube-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZeroPointRepo/youtube-skills?style=flat-square&color=yellow)](https://github.com/ZeroPointRepo/youtube-skills/stargazers) [![Forks](https://img.shields.io/github/forks/ZeroPointRepo/youtube-skills?style=flat-square&color=blue)](https://github.com/ZeroPointRepo/youtube-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with OpenClaw, ClawdBot, Claude Code, Cursor, Windsurf.
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 119 |
+| ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 13 |
-| 💻 **Language** | JavaScript |
+| 💻 **Language** | Unknown |
 | 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

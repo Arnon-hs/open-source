@@ -1,6 +1,6 @@
 # cloudbase/garm
 
-[![Stars](https://img.shields.io/github/stars/cloudbase/garm?style=flat-square&color=yellow)](https://github.com/cloudbase/garm/stargazers) [![Forks](https://img.shields.io/github/forks/cloudbase/garm?style=flat-square&color=blue)](https://github.com/cloudbase/garm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudbase/garm?style=flat-square&color=yellow)](https://github.com/cloudbase/garm/stargazers) [![Forks](https://img.shields.io/github/forks/cloudbase/garm?style=flat-square&color=blue)](https://github.com/cloudbase/garm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners with pluggable providers
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 310 |
+| ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

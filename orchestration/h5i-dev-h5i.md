@@ -1,6 +1,6 @@
 # h5i-dev/h5i
 
-[![Stars](https://img.shields.io/github/stars/h5i-dev/h5i?style=flat-square&color=yellow)](https://github.com/h5i-dev/h5i/stargazers) [![Forks](https://img.shields.io/github/forks/h5i-dev/h5i?style=flat-square&color=blue)](https://github.com/h5i-dev/h5i/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/h5i-dev/h5i?style=flat-square&color=yellow)](https://github.com/h5i-dev/h5i/stargazers) [![Forks](https://img.shields.io/github/forks/h5i-dev/h5i?style=flat-square&color=blue)](https://github.com/h5i-dev/h5i/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Next-Gen AI-Aware Git
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 56 |
+| ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
