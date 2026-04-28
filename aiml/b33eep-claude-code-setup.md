@@ -1,6 +1,6 @@
 # b33eep/claude-code-setup
 
-[![Stars](https://img.shields.io/github/stars/b33eep/claude-code-setup?style=flat-square&color=yellow)](https://github.com/b33eep/claude-code-setup/stargazers) [![Forks](https://img.shields.io/github/forks/b33eep/claude-code-setup?style=flat-square&color=blue)](https://github.com/b33eep/claude-code-setup/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/b33eep/claude-code-setup?style=flat-square&color=yellow)](https://github.com/b33eep/claude-code-setup/stargazers) [![Forks](https://img.shields.io/github/forks/b33eep/claude-code-setup?style=flat-square&color=blue)](https://github.com/b33eep/claude-code-setup/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory system for Claude Code via Markdown. Setup with /init-project, resume with /catchup, wrap with /wrapup. Includes coding standards, MCP   servers, and modular skills. Solves context loss after /clear.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51 |
+| ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

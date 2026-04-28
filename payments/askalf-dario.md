@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 98 |
-| 🍴 **Forks** | 32 |
+| 🍴 **Forks** | 31 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |

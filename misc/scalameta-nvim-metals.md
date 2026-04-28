@@ -1,6 +1,6 @@
 # scalameta/nvim-metals
 
-[![Stars](https://img.shields.io/github/stars/scalameta/nvim-metals?style=flat-square&color=yellow)](https://github.com/scalameta/nvim-metals/stargazers) [![Forks](https://img.shields.io/github/forks/scalameta/nvim-metals?style=flat-square&color=blue)](https://github.com/scalameta/nvim-metals/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scalameta/nvim-metals?style=flat-square&color=yellow)](https://github.com/scalameta/nvim-metals/stargazers) [![Forks](https://img.shields.io/github/forks/scalameta/nvim-metals?style=flat-square&color=blue)](https://github.com/scalameta/nvim-metals/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A Metals plugin for Neovim
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 559 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

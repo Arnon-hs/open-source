@@ -1,6 +1,6 @@
 # influxdata/influxdb-client-java
 
-[![Stars](https://img.shields.io/github/stars/influxdata/influxdb-client-java?style=flat-square&color=yellow)](https://github.com/influxdata/influxdb-client-java/stargazers) [![Forks](https://img.shields.io/github/forks/influxdata/influxdb-client-java?style=flat-square&color=blue)](https://github.com/influxdata/influxdb-client-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/influxdata/influxdb-client-java?style=flat-square&color=yellow)](https://github.com/influxdata/influxdb-client-java/stargazers) [![Forks](https://img.shields.io/github/forks/influxdata/influxdb-client-java?style=flat-square&color=blue)](https://github.com/influxdata/influxdb-client-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > InfluxDB 2 JVM Based Clients
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

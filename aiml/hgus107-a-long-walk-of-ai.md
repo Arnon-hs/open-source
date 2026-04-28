@@ -1,17 +1,17 @@
 # hgus107/A-Long-Walk-of-AI
 
-[![Stars](https://img.shields.io/github/stars/hgus107/A-Long-Walk-of-AI?style=flat-square&color=yellow)](https://github.com/hgus107/A-Long-Walk-of-AI/stargazers) [![Forks](https://img.shields.io/github/forks/hgus107/A-Long-Walk-of-AI?style=flat-square&color=blue)](https://github.com/hgus107/A-Long-Walk-of-AI/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hgus107/A-Long-Walk-of-AI?style=flat-square&color=yellow)](https://github.com/hgus107/A-Long-Walk-of-AI/stargazers) [![Forks](https://img.shields.io/github/forks/hgus107/A-Long-Walk-of-AI?style=flat-square&color=blue)](https://github.com/hgus107/A-Long-Walk-of-AI/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> A narrative walk through 90 years of AI history, paper by paper. 66 chapters from Turing 1936 to Blackwell 2025.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

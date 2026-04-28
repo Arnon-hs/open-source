@@ -1,6 +1,6 @@
 # omegaup/omegaup
 
-[![Stars](https://img.shields.io/github/stars/omegaup/omegaup?style=flat-square&color=yellow)](https://github.com/omegaup/omegaup/stargazers) [![Forks](https://img.shields.io/github/forks/omegaup/omegaup?style=flat-square&color=blue)](https://github.com/omegaup/omegaup/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omegaup/omegaup?style=flat-square&color=yellow)](https://github.com/omegaup/omegaup/stargazers) [![Forks](https://img.shields.io/github/forks/omegaup/omegaup?style=flat-square&color=blue)](https://github.com/omegaup/omegaup/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > omegaUp automatic programming contest evaluator & arena
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 344 |
+| ⭐ **Stars** | 345 |
 | 🍴 **Forks** | 532 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

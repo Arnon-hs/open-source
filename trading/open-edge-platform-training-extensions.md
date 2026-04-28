@@ -1,6 +1,6 @@
 # open-edge-platform/training_extensions
 
-[![Stars](https://img.shields.io/github/stars/open-edge-platform/training_extensions?style=flat-square&color=yellow)](https://github.com/open-edge-platform/training_extensions/stargazers) [![Forks](https://img.shields.io/github/forks/open-edge-platform/training_extensions?style=flat-square&color=blue)](https://github.com/open-edge-platform/training_extensions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-edge-platform/training_extensions?style=flat-square&color=yellow)](https://github.com/open-edge-platform/training_extensions/stargazers) [![Forks](https://img.shields.io/github/forks/open-edge-platform/training_extensions?style=flat-square&color=blue)](https://github.com/open-edge-platform/training_extensions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Train, Evaluate, Optimize, Deploy Computer Vision Models via OpenVINO™
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 467 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

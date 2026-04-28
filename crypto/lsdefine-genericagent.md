@@ -1,6 +1,6 @@
 # lsdefine/GenericAgent
 
-[![Stars](https://img.shields.io/github/stars/lsdefine/GenericAgent?style=flat-square&color=yellow)](https://github.com/lsdefine/GenericAgent/stargazers) [![Forks](https://img.shields.io/github/forks/lsdefine/GenericAgent?style=flat-square&color=blue)](https://github.com/lsdefine/GenericAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lsdefine/GenericAgent?style=flat-square&color=yellow)](https://github.com/lsdefine/GenericAgent/stargazers) [![Forks](https://img.shields.io/github/forks/lsdefine/GenericAgent?style=flat-square&color=blue)](https://github.com/lsdefine/GenericAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
 > Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.8k |
-| 🍴 **Forks** | 899 |
+| ⭐ **Stars** | 7.9k |
+| 🍴 **Forks** | 908 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 98/100 |
+| 📈 **Score** | 99/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

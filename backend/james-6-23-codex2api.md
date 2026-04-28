@@ -1,6 +1,6 @@
 # james-6-23/codex2api
 
-[![Stars](https://img.shields.io/github/stars/james-6-23/codex2api?style=flat-square&color=yellow)](https://github.com/james-6-23/codex2api/stargazers) [![Forks](https://img.shields.io/github/forks/james-6-23/codex2api?style=flat-square&color=blue)](https://github.com/james-6-23/codex2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/james-6-23/codex2api?style=flat-square&color=yellow)](https://github.com/james-6-23/codex2api/stargazers) [![Forks](https://img.shields.io/github/forks/james-6-23/codex2api?style=flat-square&color=blue)](https://github.com/james-6-23/codex2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 745 |
-| 🍴 **Forks** | 152 |
+| ⭐ **Stars** | 746 |
+| 🍴 **Forks** | 155 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

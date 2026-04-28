@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/ywatanabe1989/scitex-python?style=flat-square&color=yellow)](https://github.com/ywatanabe1989/scitex-python/stargazers) [![Forks](https://img.shields.io/github/forks/ywatanabe1989/scitex-python?style=flat-square&color=blue)](https://github.com/ywatanabe1989/scitex-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Python toolkit for reproducible science — from raw data to manuscript. Includes 70 modules, 252 CLI commands, 229 MCP tools, and 358 skills.
+> Python toolkit for reproducible science — from raw data to manuscript. Includes 70 modules, 252 CLI commands, 229 MCP tools, and 375 skills.
 
 ## 📊 Stats
 

@@ -1,17 +1,17 @@
 # epscylonb/1386.ai.rocm
 
-[![Stars](https://img.shields.io/github/stars/epscylonb/1386.ai.rocm?style=flat-square&color=yellow)](https://github.com/epscylonb/1386.ai.rocm/stargazers) [![Forks](https://img.shields.io/github/forks/epscylonb/1386.ai.rocm?style=flat-square&color=blue)](https://github.com/epscylonb/1386.ai.rocm/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/epscylonb/1386.ai.rocm?style=flat-square&color=yellow)](https://github.com/epscylonb/1386.ai.rocm/stargazers) [![Forks](https://img.shields.io/github/forks/epscylonb/1386.ai.rocm?style=flat-square&color=blue)](https://github.com/epscylonb/1386.ai.rocm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> A lightweight transformer language model built from scratch in PyTorch, trained on a single consumer GPU with a full pipeline for data processing, pretraining, and instruction tuning.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 1 |
+| 🍴 **Forks** | 1 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Frontend · Data
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # vibheksoni/free-ai
 
-[![Stars](https://img.shields.io/github/stars/vibheksoni/free-ai?style=flat-square&color=yellow)](https://github.com/vibheksoni/free-ai/stargazers) [![Forks](https://img.shields.io/github/forks/vibheksoni/free-ai?style=flat-square&color=blue)](https://github.com/vibheksoni/free-ai/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vibheksoni/free-ai?style=flat-square&color=yellow)](https://github.com/vibheksoni/free-ai/stargazers) [![Forks](https://img.shields.io/github/forks/vibheksoni/free-ai?style=flat-square&color=blue)](https://github.com/vibheksoni/free-ai/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 141 |
-| 🍴 **Forks** | 24 |
+| ⭐ **Stars** | 155 |
+| 🍴 **Forks** | 29 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

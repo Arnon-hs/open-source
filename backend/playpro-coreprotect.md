@@ -1,6 +1,6 @@
 # PlayPro/CoreProtect
 
-[![Stars](https://img.shields.io/github/stars/PlayPro/CoreProtect?style=flat-square&color=yellow)](https://github.com/PlayPro/CoreProtect/stargazers) [![Forks](https://img.shields.io/github/forks/PlayPro/CoreProtect?style=flat-square&color=blue)](https://github.com/PlayPro/CoreProtect/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PlayPro/CoreProtect?style=flat-square&color=yellow)](https://github.com/PlayPro/CoreProtect/stargazers) [![Forks](https://img.shields.io/github/forks/PlayPro/CoreProtect?style=flat-square&color=blue)](https://github.com/PlayPro/CoreProtect/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 922 |
 | 🍴 **Forks** | 670 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

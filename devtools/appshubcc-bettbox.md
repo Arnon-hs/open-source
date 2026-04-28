@@ -1,6 +1,6 @@
 # appshubcc/Bettbox
 
-[![Stars](https://img.shields.io/github/stars/appshubcc/Bettbox?style=flat-square&color=yellow)](https://github.com/appshubcc/Bettbox/stargazers) [![Forks](https://img.shields.io/github/forks/appshubcc/Bettbox?style=flat-square&color=blue)](https://github.com/appshubcc/Bettbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appshubcc/Bettbox?style=flat-square&color=yellow)](https://github.com/appshubcc/Bettbox/stargazers) [![Forks](https://img.shields.io/github/forks/appshubcc/Bettbox?style=flat-square&color=blue)](https://github.com/appshubcc/Bettbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Another Better Mihomo Client
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 852 |
+| ⭐ **Stars** | 854 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

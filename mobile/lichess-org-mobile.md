@@ -1,6 +1,6 @@
 # lichess-org/mobile
 
-[![Stars](https://img.shields.io/github/stars/lichess-org/mobile?style=flat-square&color=yellow)](https://github.com/lichess-org/mobile/stargazers) [![Forks](https://img.shields.io/github/forks/lichess-org/mobile?style=flat-square&color=blue)](https://github.com/lichess-org/mobile/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lichess-org/mobile?style=flat-square&color=yellow)](https://github.com/lichess-org/mobile/stargazers) [![Forks](https://img.shields.io/github/forks/lichess-org/mobile?style=flat-square&color=blue)](https://github.com/lichess-org/mobile/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Lichess mobile app written in Flutter
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 401 |
+| 🍴 **Forks** | 403 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

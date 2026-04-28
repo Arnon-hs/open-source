@@ -1,6 +1,6 @@
 # gdt050579/AppCUI-rs
 
-[![Stars](https://img.shields.io/github/stars/gdt050579/AppCUI-rs?style=flat-square&color=yellow)](https://github.com/gdt050579/AppCUI-rs/stargazers) [![Forks](https://img.shields.io/github/forks/gdt050579/AppCUI-rs?style=flat-square&color=blue)](https://github.com/gdt050579/AppCUI-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gdt050579/AppCUI-rs?style=flat-square&color=yellow)](https://github.com/gdt050579/AppCUI-rs/stargazers) [![Forks](https://img.shields.io/github/forks/gdt050579/AppCUI-rs?style=flat-square&color=blue)](https://github.com/gdt050579/AppCUI-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > AppCUI is a fast, cross-platform console and text-based user interface (CUI/TUI) framework for Rust. It combines a low-level console engine for input (mouse, keyboard, clipboard, etc.), colors, and rendering with a high-level, rich toolkit of widgets such as windows, menus, buttons, checkboxes, and many more, available for Windows, Linux and Mac.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 370 |
+| ⭐ **Stars** | 371 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

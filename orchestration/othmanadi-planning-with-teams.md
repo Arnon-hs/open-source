@@ -1,6 +1,6 @@
 # OthmanAdi/planning-with-teams
 
-[![Stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-teams?style=flat-square&color=yellow)](https://github.com/OthmanAdi/planning-with-teams/stargazers) [![Forks](https://img.shields.io/github/forks/OthmanAdi/planning-with-teams?style=flat-square&color=blue)](https://github.com/OthmanAdi/planning-with-teams/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-teams?style=flat-square&color=yellow)](https://github.com/OthmanAdi/planning-with-teams/stargazers) [![Forks](https://img.shields.io/github/forks/OthmanAdi/planning-with-teams?style=flat-square&color=blue)](https://github.com/OthmanAdi/planning-with-teams/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Manus-style context engineering for Claude Code Agent Teams. Coordinate multiple Claude instances with shared planning files.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

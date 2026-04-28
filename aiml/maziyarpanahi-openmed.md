@@ -1,6 +1,6 @@
 # maziyarpanahi/openmed
 
-[![Stars](https://img.shields.io/github/stars/maziyarpanahi/openmed?style=flat-square&color=yellow)](https://github.com/maziyarpanahi/openmed/stargazers) [![Forks](https://img.shields.io/github/forks/maziyarpanahi/openmed?style=flat-square&color=blue)](https://github.com/maziyarpanahi/openmed/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maziyarpanahi/openmed?style=flat-square&color=yellow)](https://github.com/maziyarpanahi/openmed/stargazers) [![Forks](https://img.shields.io/github/forks/maziyarpanahi/openmed?style=flat-square&color=blue)](https://github.com/maziyarpanahi/openmed/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > open-source healthcare ai
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 974 |
+| ⭐ **Stars** | 976 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

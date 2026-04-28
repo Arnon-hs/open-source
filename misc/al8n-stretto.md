@@ -1,6 +1,6 @@
 # al8n/stretto
 
-[![Stars](https://img.shields.io/github/stars/al8n/stretto?style=flat-square&color=yellow)](https://github.com/al8n/stretto/stargazers) [![Forks](https://img.shields.io/github/forks/al8n/stretto?style=flat-square&color=blue)](https://github.com/al8n/stretto/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/al8n/stretto?style=flat-square&color=yellow)](https://github.com/al8n/stretto/stargazers) [![Forks](https://img.shields.io/github/forks/al8n/stretto?style=flat-square&color=blue)](https://github.com/al8n/stretto/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Stretto is a Rust implementation for Dgraph's ristretto (https://github.com/dgraph-io/ristretto). A high performance memory-bound Rust cache.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 430 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

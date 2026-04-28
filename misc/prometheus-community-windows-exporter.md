@@ -1,6 +1,6 @@
 # prometheus-community/windows_exporter
 
-[![Stars](https://img.shields.io/github/stars/prometheus-community/windows_exporter?style=flat-square&color=yellow)](https://github.com/prometheus-community/windows_exporter/stargazers) [![Forks](https://img.shields.io/github/forks/prometheus-community/windows_exporter?style=flat-square&color=blue)](https://github.com/prometheus-community/windows_exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prometheus-community/windows_exporter?style=flat-square&color=yellow)](https://github.com/prometheus-community/windows_exporter/stargazers) [![Forks](https://img.shields.io/github/forks/prometheus-community/windows_exporter?style=flat-square&color=blue)](https://github.com/prometheus-community/windows_exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Prometheus exporter for Windows machines
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 769 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
