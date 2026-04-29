@@ -1,6 +1,6 @@
 # bobmatnyc/claude-mpm
 
-[![Stars](https://img.shields.io/github/stars/bobmatnyc/claude-mpm?style=flat-square&color=yellow)](https://github.com/bobmatnyc/claude-mpm/stargazers) [![Forks](https://img.shields.io/github/forks/bobmatnyc/claude-mpm?style=flat-square&color=blue)](https://github.com/bobmatnyc/claude-mpm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bobmatnyc/claude-mpm?style=flat-square&color=yellow)](https://github.com/bobmatnyc/claude-mpm/stargazers) [![Forks](https://img.shields.io/github/forks/bobmatnyc/claude-mpm?style=flat-square&color=blue)](https://github.com/bobmatnyc/claude-mpm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Multi-Agent Project Manager — multi-channel orchestration, GitHub-first SDK mode, and plugin system for Claude
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

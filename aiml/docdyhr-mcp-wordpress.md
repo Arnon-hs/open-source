@@ -1,6 +1,6 @@
 # docdyhr/mcp-wordpress
 
-[![Stars](https://img.shields.io/github/stars/docdyhr/mcp-wordpress?style=flat-square&color=yellow)](https://github.com/docdyhr/mcp-wordpress/stargazers) [![Forks](https://img.shields.io/github/forks/docdyhr/mcp-wordpress?style=flat-square&color=blue)](https://github.com/docdyhr/mcp-wordpress/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/docdyhr/mcp-wordpress?style=flat-square&color=yellow)](https://github.com/docdyhr/mcp-wordpress/stargazers) [![Forks](https://img.shields.io/github/forks/docdyhr/mcp-wordpress?style=flat-square&color=blue)](https://github.com/docdyhr/mcp-wordpress/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server to manage a Wordpress CMS system.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # skyflo-ai/skyflo
 
-[![Stars](https://img.shields.io/github/stars/skyflo-ai/skyflo?style=flat-square&color=yellow)](https://github.com/skyflo-ai/skyflo/stargazers) [![Forks](https://img.shields.io/github/forks/skyflo-ai/skyflo?style=flat-square&color=blue)](https://github.com/skyflo-ai/skyflo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skyflo-ai/skyflo?style=flat-square&color=yellow)](https://github.com/skyflo-ai/skyflo/stargazers) [![Forks](https://img.shields.io/github/forks/skyflo-ai/skyflo?style=flat-square&color=blue)](https://github.com/skyflo-ai/skyflo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Self-Hosted AI Agent for Kubernetes & DevOps. Approval-Gated. Deterministic Control Loop.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # codesnippetspro/code-snippets
 
-[![Stars](https://img.shields.io/github/stars/codesnippetspro/code-snippets?style=flat-square&color=yellow)](https://github.com/codesnippetspro/code-snippets/stargazers) [![Forks](https://img.shields.io/github/forks/codesnippetspro/code-snippets?style=flat-square&color=blue)](https://github.com/codesnippetspro/code-snippets/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codesnippetspro/code-snippets?style=flat-square&color=yellow)](https://github.com/codesnippetspro/code-snippets/stargazers) [![Forks](https://img.shields.io/github/forks/codesnippetspro/code-snippets?style=flat-square&color=blue)](https://github.com/codesnippetspro/code-snippets/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Code Snippets WordPress Plugin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

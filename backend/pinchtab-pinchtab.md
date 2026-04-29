@@ -1,6 +1,6 @@
 # pinchtab/pinchtab
 
-[![Stars](https://img.shields.io/github/stars/pinchtab/pinchtab?style=flat-square&color=yellow)](https://github.com/pinchtab/pinchtab/stargazers) [![Forks](https://img.shields.io/github/forks/pinchtab/pinchtab?style=flat-square&color=blue)](https://github.com/pinchtab/pinchtab/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pinchtab/pinchtab?style=flat-square&color=yellow)](https://github.com/pinchtab/pinchtab/stargazers) [![Forks](https://img.shields.io/github/forks/pinchtab/pinchtab?style=flat-square&color=blue)](https://github.com/pinchtab/pinchtab/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.9k |
-| 🍴 **Forks** | 648 |
+| 🍴 **Forks** | 650 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 93/100 |
+| 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

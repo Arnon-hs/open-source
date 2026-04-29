@@ -1,6 +1,6 @@
 # OctopusTakopi/binance_l3_est
 
-[![Stars](https://img.shields.io/github/stars/OctopusTakopi/binance_l3_est?style=flat-square&color=yellow)](https://github.com/OctopusTakopi/binance_l3_est/stargazers) [![Forks](https://img.shields.io/github/forks/OctopusTakopi/binance_l3_est?style=flat-square&color=blue)](https://github.com/OctopusTakopi/binance_l3_est/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OctopusTakopi/binance_l3_est?style=flat-square&color=yellow)](https://github.com/OctopusTakopi/binance_l3_est/stargazers) [![Forks](https://img.shields.io/github/forks/OctopusTakopi/binance_l3_est?style=flat-square&color=blue)](https://github.com/OctopusTakopi/binance_l3_est/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Uses L2 data's change in time to estimate a L3 order book microstructure on Binance
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 215 |
+| ⭐ **Stars** | 214 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

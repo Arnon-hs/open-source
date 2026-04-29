@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **11331** |
+| 🗂️ **Total projects** | **11380** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4335 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2174 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1117 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 898 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 683 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 674 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 404 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 4356 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2181 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1121 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 900 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 689 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 677 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 405 | [Browse →](./crypto/) |
 | 📊 **Data** | 246 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 239 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 136 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 241 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 137 | [Browse →](./mobile/) |
 | 💳 **Payments** | 125 | [Browse →](./payments/) |
-| 📈 **Trading** | 116 | [Browse →](./trading/) |
-| 🔐 **Security** | 101 | [Browse →](./security/) |
+| 📈 **Trading** | 117 | [Browse →](./trading/) |
+| 🔐 **Security** | 102 | [Browse →](./security/) |
 | ✨ **Design** | 37 | [Browse →](./design/) |
 | 🎯 **Product** | 25 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 21 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [tldraw/tldraw](./frontend/tldraw-tldraw.md) | ⭐ 46.7k | Frontend |
-| 2 | [vnotex/vnote](./aiml/vnotex-vnote.md) | ⭐ 12.8k | AI/ML |
-| 3 | [Wei-Shaw/sub2api](./aiml/wei-shaw-sub2api.md) | ⭐ 16.6k | AI/ML |
-| 4 | [lichess-org/lila](./backend/lichess-org-lila.md) | ⭐ 18.1k | Backend |
-| 5 | [matplotlib/matplotlib](./data/matplotlib-matplotlib.md) | ⭐ 22.8k | Data |
-| 6 | [sharkdp/fd](./devtools/sharkdp-fd.md) | ⭐ 42.7k | DevTools |
-| 7 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 123.5k | AI/ML |
-| 8 | [oapi-codegen/oapi-codegen](./backend/oapi-codegen-oapi-codegen.md) | ⭐ 8.3k | Backend |
-| 9 | [micro-editor/micro](./frontend/micro-editor-micro.md) | ⭐ 28.5k | Frontend |
-| 10 | [statelyai/xstate](./orchestration/statelyai-xstate.md) | ⭐ 29.6k | Orchestration |
+| 1 | [vnotex/vnote](./aiml/vnotex-vnote.md) | ⭐ 12.8k | AI/ML |
+| 2 | [Wei-Shaw/sub2api](./aiml/wei-shaw-sub2api.md) | ⭐ 16.6k | AI/ML |
+| 3 | [lichess-org/lila](./backend/lichess-org-lila.md) | ⭐ 18.1k | Backend |
+| 4 | [opendataloader-project/opendataloader-pdf](./aiml/opendataloader-project-opendataloader-pdf.md) | ⭐ 19.7k | AI/ML |
+| 5 | [LizardByte/Sunshine](./aiml/lizardbyte-sunshine.md) | ⭐ 36.5k | AI/ML |
+| 6 | [evcc-io/evcc](./misc/evcc-io-evcc.md) | ⭐ 6.5k | Misc |
+| 7 | [unslothai/unsloth](./aiml/unslothai-unsloth.md) | ⭐ 63.2k | AI/ML |
+| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 9 | [oven-sh/bun](./frontend/oven-sh-bun.md) | ⭐ 89.4k | Frontend |
+| 10 | [hiyouga/LlamaFactory](./trading/hiyouga-llamafactory.md) | ⭐ 70.8k | Trading |
 
 ## 🚀 How it works
 

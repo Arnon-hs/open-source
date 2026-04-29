@@ -1,6 +1,6 @@
 # Auriti-Labs/geo-optimizer-skill
 
-[![Stars](https://img.shields.io/github/stars/Auriti-Labs/geo-optimizer-skill?style=flat-square&color=yellow)](https://github.com/Auriti-Labs/geo-optimizer-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Auriti-Labs/geo-optimizer-skill?style=flat-square&color=blue)](https://github.com/Auriti-Labs/geo-optimizer-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Auriti-Labs/geo-optimizer-skill?style=flat-square&color=yellow)](https://github.com/Auriti-Labs/geo-optimizer-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Auriti-Labs/geo-optimizer-skill?style=flat-square&color=blue)](https://github.com/Auriti-Labs/geo-optimizer-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > GEO (Generative Engine Optimization) toolkit — audit, optimize, and make websites visible to AI search engines (ChatGPT, Perplexity, Claude, Gemini). Based on Princeton KDD 2024 research.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 294 |
-| 🍴 **Forks** | 25 |
+| ⭐ **Stars** | 302 |
+| 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

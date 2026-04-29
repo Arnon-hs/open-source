@@ -1,6 +1,6 @@
 # an0nfunc/ALHP
 
-[![Stars](https://img.shields.io/github/stars/an0nfunc/ALHP?style=flat-square&color=yellow)](https://github.com/an0nfunc/ALHP/stargazers) [![Forks](https://img.shields.io/github/forks/an0nfunc/ALHP?style=flat-square&color=blue)](https://github.com/an0nfunc/ALHP/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/an0nfunc/ALHP?style=flat-square&color=yellow)](https://github.com/an0nfunc/ALHP/stargazers) [![Forks](https://img.shields.io/github/forks/an0nfunc/ALHP?style=flat-square&color=blue)](https://github.com/an0nfunc/ALHP/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of https://somegit.dev/ALHP/ALHP.GO
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

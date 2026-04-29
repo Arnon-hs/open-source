@@ -1,6 +1,6 @@
 # agent-skills-hub/agent-skills-hub
 
-[![Stars](https://img.shields.io/github/stars/agent-skills-hub/agent-skills-hub?style=flat-square&color=yellow)](https://github.com/agent-skills-hub/agent-skills-hub/stargazers) [![Forks](https://img.shields.io/github/forks/agent-skills-hub/agent-skills-hub?style=flat-square&color=blue)](https://github.com/agent-skills-hub/agent-skills-hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agent-skills-hub/agent-skills-hub?style=flat-square&color=yellow)](https://github.com/agent-skills-hub/agent-skills-hub/stargazers) [![Forks](https://img.shields.io/github/forks/agent-skills-hub/agent-skills-hub?style=flat-square&color=blue)](https://github.com/agent-skills-hub/agent-skills-hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Skills Hub is a global library of AI agent skills that work across OpenClaw, Claude Code, Gemini, Cursor, Antigravity, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

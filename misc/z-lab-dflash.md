@@ -1,6 +1,6 @@
 # z-lab/dflash
 
-[![Stars](https://img.shields.io/github/stars/z-lab/dflash?style=flat-square&color=yellow)](https://github.com/z-lab/dflash/stargazers) [![Forks](https://img.shields.io/github/forks/z-lab/dflash?style=flat-square&color=blue)](https://github.com/z-lab/dflash/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/z-lab/dflash?style=flat-square&color=yellow)](https://github.com/z-lab/dflash/stargazers) [![Forks](https://img.shields.io/github/forks/z-lab/dflash?style=flat-square&color=blue)](https://github.com/z-lab/dflash/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > DFlash: Block Diffusion for Flash Speculative Decoding
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

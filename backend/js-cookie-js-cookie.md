@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/js-cookie/js-cookie?style=flat-square&color=yellow)](https://github.com/js-cookie/js-cookie/stargazers) [![Forks](https://img.shields.io/github/forks/js-cookie/js-cookie?style=flat-square&color=blue)](https://github.com/js-cookie/js-cookie/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
 
-> A simple, lightweight JavaScript API for handling browser cookies
+> A simple, lightweight JavaScript API for handling cookies, client-side.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Backend
+Backend · DevTools
 
 ## 📝 Summary
 

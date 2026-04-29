@@ -1,6 +1,6 @@
 # fredrikaverpil/claudeline
 
-[![Stars](https://img.shields.io/github/stars/fredrikaverpil/claudeline?style=flat-square&color=yellow)](https://github.com/fredrikaverpil/claudeline/stargazers) [![Forks](https://img.shields.io/github/forks/fredrikaverpil/claudeline?style=flat-square&color=blue)](https://github.com/fredrikaverpil/claudeline/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fredrikaverpil/claudeline?style=flat-square&color=yellow)](https://github.com/fredrikaverpil/claudeline/stargazers) [![Forks](https://img.shields.io/github/forks/fredrikaverpil/claudeline?style=flat-square&color=blue)](https://github.com/fredrikaverpil/claudeline/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Minimalistic Go statusline for Claude Code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

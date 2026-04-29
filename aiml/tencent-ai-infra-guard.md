@@ -1,6 +1,6 @@
 # Tencent/AI-Infra-Guard
 
-[![Stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?style=flat-square&color=yellow)](https://github.com/Tencent/AI-Infra-Guard/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/AI-Infra-Guard?style=flat-square&color=blue)](https://github.com/Tencent/AI-Infra-Guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?style=flat-square&color=yellow)](https://github.com/Tencent/AI-Infra-Guard/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/AI-Infra-Guard?style=flat-square&color=blue)](https://github.com/Tencent/AI-Infra-Guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 356 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

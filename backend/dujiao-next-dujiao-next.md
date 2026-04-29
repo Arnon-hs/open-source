@@ -1,6 +1,6 @@
 # dujiao-next/dujiao-next
 
-[![Stars](https://img.shields.io/github/stars/dujiao-next/dujiao-next?style=flat-square&color=yellow)](https://github.com/dujiao-next/dujiao-next/stargazers) [![Forks](https://img.shields.io/github/forks/dujiao-next/dujiao-next?style=flat-square&color=blue)](https://github.com/dujiao-next/dujiao-next/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dujiao-next/dujiao-next?style=flat-square&color=yellow)](https://github.com/dujiao-next/dujiao-next/stargazers) [![Forks](https://img.shields.io/github/forks/dujiao-next/dujiao-next?style=flat-square&color=blue)](https://github.com/dujiao-next/dujiao-next/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Dujiao-Next Server 独角Next服务端
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 432 |
-| 🍴 **Forks** | 98 |
+| ⭐ **Stars** | 439 |
+| 🍴 **Forks** | 100 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

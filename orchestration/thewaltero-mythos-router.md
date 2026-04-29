@@ -1,6 +1,6 @@
 # thewaltero/mythos-router
 
-[![Stars](https://img.shields.io/github/stars/thewaltero/mythos-router?style=flat-square&color=yellow)](https://github.com/thewaltero/mythos-router/stargazers) [![Forks](https://img.shields.io/github/forks/thewaltero/mythos-router?style=flat-square&color=blue)](https://github.com/thewaltero/mythos-router/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thewaltero/mythos-router?style=flat-square&color=yellow)](https://github.com/thewaltero/mythos-router/stargazers) [![Forks](https://img.shields.io/github/forks/thewaltero/mythos-router?style=flat-square&color=blue)](https://github.com/thewaltero/mythos-router/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The leaked Anthropic reasoning protocol. Running locally. Zero-drift coding with Strict Write Discipline and adaptive Claude Opus 4.7 thinking. Mythos
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 107 |
+| ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

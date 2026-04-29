@@ -1,6 +1,6 @@
 # omnuron/omniclaw
 
-[![Stars](https://img.shields.io/github/stars/omnuron/omniclaw?style=flat-square&color=yellow)](https://github.com/omnuron/omniclaw/stargazers) [![Forks](https://img.shields.io/github/forks/omnuron/omniclaw?style=flat-square&color=blue)](https://github.com/omnuron/omniclaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omnuron/omniclaw?style=flat-square&color=yellow)](https://github.com/omnuron/omniclaw/stargazers) [![Forks](https://img.shields.io/github/forks/omnuron/omniclaw?style=flat-square&color=blue)](https://github.com/omnuron/omniclaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The first agentic payment network: policy-controlled, gasless, and real money-ready.  OmniClaw CLI + Financial Policy Engine let autonomous agents pay and earn safely at machine speed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 513 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

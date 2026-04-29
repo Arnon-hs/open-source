@@ -1,6 +1,6 @@
 # urzeye/ophel
 
-[![Stars](https://img.shields.io/github/stars/urzeye/ophel?style=flat-square&color=yellow)](https://github.com/urzeye/ophel/stargazers) [![Forks](https://img.shields.io/github/forks/urzeye/ophel?style=flat-square&color=blue)](https://github.com/urzeye/ophel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/urzeye/ophel?style=flat-square&color=yellow)](https://github.com/urzeye/ophel/stargazers) [![Forks](https://img.shields.io/github/forks/urzeye/ophel?style=flat-square&color=blue)](https://github.com/urzeye/ophel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 578 |
+| ⭐ **Stars** | 579 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

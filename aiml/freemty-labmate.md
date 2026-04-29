@@ -1,6 +1,6 @@
 # freemty/labmate
 
-[![Stars](https://img.shields.io/github/stars/freemty/labmate?style=flat-square&color=yellow)](https://github.com/freemty/labmate/stargazers) [![Forks](https://img.shields.io/github/forks/freemty/labmate?style=flat-square&color=blue)](https://github.com/freemty/labmate/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freemty/labmate?style=flat-square&color=yellow)](https://github.com/freemty/labmate/stargazers) [![Forks](https://img.shields.io/github/forks/freemty/labmate?style=flat-square&color=blue)](https://github.com/freemty/labmate/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Research Harness for Claude Code. Keep your agent grounded in context, not lost in vibe coding.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

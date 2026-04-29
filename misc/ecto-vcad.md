@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/ecto/vcad?style=flat-square&color=yellow)](https://github.com/ecto/vcad/stargazers) [![Forks](https://img.shields.io/github/forks/ecto/vcad?style=flat-square&color=blue)](https://github.com/ecto/vcad/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
-> BRep CAD kernel in Rust (and WASM)
+> BRep CAD kernel in Rust/WASM
 
 ## 📊 Stats
 
