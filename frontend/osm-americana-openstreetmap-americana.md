@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-OpenStreetMap Américana is an open-source, quintessentially American map style designed to provide a unique visual representation of geographic data. This frontend-focused project offers a distinctive and recognizable mapping aesthetic that celebrates American culture and design. It is available for customization and modification to suit various mapping applications.
+The open-source project osm-americana/openstreetmap-americana offers a quintessentially American map style for OpenStreetMap, providing a unique visual representation of geographical data. This frontend-focused project enables users to experience the beauty of American cartography, making it an attractive option for those seeking a distinctive map aesthetic. By leveraging the power of OpenStreetMap, this project brings a touch of American flair to the world of digital mapping.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Scalene is an open-source profiling tool for Python that provides high-performance, high-precision analysis of CPU, GPU, and memory usage. Leveraging AI-powered technology, Scalene offers actionable optimization proposals to help developers improve their code's efficiency and scalability. This powerful tool enables data scientists and engineers to identify and address performance bottlenecks in their Python applications.
+Scalene is an open-source, high-performance profiling tool for Python applications, capable of analyzing CPU, GPU, and memory usage with high precision. It utilizes AI-powered optimization techniques to provide actionable insights and proposals for improving the efficiency of Python code. By leveraging advanced profiling and AI-driven analysis, Scalene helps developers identify performance bottlenecks and optimize their applications for better scalability and reliability.
 
 ---
 

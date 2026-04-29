@@ -1,6 +1,6 @@
 # elbruno/openclawnet
 
-[![Stars](https://img.shields.io/github/stars/elbruno/openclawnet?style=flat-square&color=yellow)](https://github.com/elbruno/openclawnet/stargazers) [![Forks](https://img.shields.io/github/forks/elbruno/openclawnet?style=flat-square&color=blue)](https://github.com/elbruno/openclawnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elbruno/openclawnet?style=flat-square&color=yellow)](https://github.com/elbruno/openclawnet/stargazers) [![Forks](https://img.shields.io/github/forks/elbruno/openclawnet?style=flat-square&color=blue)](https://github.com/elbruno/openclawnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🐾 OpenClawNet — Build an AI Agent Platform in .NET 10 (Reactor live series materials)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 42 |
+| ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

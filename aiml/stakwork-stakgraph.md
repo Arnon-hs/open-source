@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the stakwork/stakgraph project:
+Here's a 2-3 sentence summary for the stakwork/stakgraph project:
 
-stakgraph is an open-source project that utilizes Tree Sitter, LSP, and Neo4j to parse source code and generate software knowledge graphs. These knowledge graphs can be leveraged by AI agents to facilitate advanced software development tasks and improve overall productivity. By structuring code into a graph-based format, stakgraph enables more efficient and effective software analysis and development workflows.
+Stakgraph is an open-source project that leverages advanced technologies such as treesitter, LSP, and Neo4j to parse source code and construct powerful software knowledge graphs. These knowledge graphs serve as a foundation for AI agents to understand and interact with software systems at a deeper level, enabling more informed decision-making and improved software development experiences. By utilizing this project, developers can unlock new capabilities for their AI-powered tools and applications.
 
 ---
 

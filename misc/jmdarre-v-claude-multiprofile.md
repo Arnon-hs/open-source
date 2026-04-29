@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Claude-multiprofile is an open-source project that enables users to run multiple Claude accounts simultaneously on macOS. This solution allows for seamless side-by-side usage of multiple Claude accounts, potentially increasing productivity for individuals who frequently switch between accounts. By using Claude-multiprofile, users can streamline their workflow and efficiently manage multiple Claude accounts on their macOS devices.
+Claude-multiprofile is an open-source project that enables users to run multiple Claude accounts simultaneously on macOS, allowing for the seamless management of multiple language models and accounts on a single machine. This project provides a convenient solution for those who need to access and utilize multiple Claude accounts for various tasks and projects. By running multiple accounts side by side, users can enhance their productivity and streamline their workflow with Claude.
 
 ---
 

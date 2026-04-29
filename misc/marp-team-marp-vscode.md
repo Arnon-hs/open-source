@@ -1,6 +1,6 @@
 # marp-team/marp-vscode
 
-[![Stars](https://img.shields.io/github/stars/marp-team/marp-vscode?style=flat-square&color=yellow)](https://github.com/marp-team/marp-vscode/stargazers) [![Forks](https://img.shields.io/github/forks/marp-team/marp-vscode?style=flat-square&color=blue)](https://github.com/marp-team/marp-vscode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marp-team/marp-vscode?style=flat-square&color=yellow)](https://github.com/marp-team/marp-vscode/stargazers) [![Forks](https://img.shields.io/github/forks/marp-team/marp-vscode?style=flat-square&color=blue)](https://github.com/marp-team/marp-vscode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Marp for VS Code: Create slide deck written in Marp Markdown on VS Code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

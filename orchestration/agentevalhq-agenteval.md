@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the AgentEval project:
-
-AgentEval is an open-source .NET toolkit that provides a comprehensive framework for evaluating AI agents, offering features such as tool usage validation, RAG quality metrics, and stochastic evaluation. Built with Microsoft's Agent Framework (MAF) and Microsoft.Extensions.AI in mind, AgentEval fills the need for AI evaluation tools in the .NET ecosystem, mirroring the capabilities of popular Python libraries like RAGAS, PromptFoo, and DeepEval. This toolkit enables developers to compare and validate AI models, streamlining the development and improvement of intelligent agents.
+AgentEval is an open-source .NET toolkit designed for comprehensive AI agent evaluation, providing tools for validation, quality metrics, stochastic evaluation, and model comparison. Built with support for Microsoft Agent Framework (MAF) and Microsoft.Extensions.AI, AgentEval offers a robust platform for assessing and optimizing AI performance in .NET environments. This toolkit helps bridge the gap for .NET developers, mirroring the capabilities of existing Python libraries like RAGAS, PromptFoo, and DeepEval.
 
 ---
 

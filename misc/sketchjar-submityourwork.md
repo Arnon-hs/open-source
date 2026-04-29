@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-SubmitYourWork is an open-source project that simplifies the process of submitting startups to directories by providing a centralized platform. This project aims to save time and effort for startup founders by consolidating the submission process into one place. By utilizing SubmitYourWork, founders can easily submit their startups to multiple directories simultaneously.
+SubmitYourWork is an open-source project that simplifies the process of submitting startups to various directories from a single platform. This tool allows users to streamline their startup's online presence by submitting to multiple directories simultaneously, saving time and effort. By using SubmitYourWork, entrepreneurs can efficiently reach a broader audience and increase their startup's visibility.
 
 ---
 

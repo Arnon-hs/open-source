@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The kubernetes-sigs/dra-driver-nvidia-gpu project provides an open-source DRA (Dynamic Root of Trust for Measurement) driver for NVIDIA GPUs. This driver enables secure boot and measurement capabilities on NVIDIA GPUs, enhancing the overall security and integrity of systems utilizing these graphics processing units. By contributing to this project, developers can help improve the security and reliability of their NVIDIA GPU-based systems.
+The kubernetes-sigs/dra-driver-nvidia-gpu project is an open-source initiative that provides a DRA (Dynamic Resource Allocation) driver for NVIDIA GPUs, aimed at optimizing resource utilization and performance in Kubernetes environments. This driver is designed to enhance the efficiency of NVIDIA GPU usage within Kubernetes clusters, allowing for better allocation and utilization of GPU resources. By leveraging this driver, users can optimize their GPU-intensive workloads and improve overall cluster performance.
 
 ---
 

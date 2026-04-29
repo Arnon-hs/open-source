@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the Rapid-MLX project:
-
-Rapid-MLX is an open-source, local AI engine optimized for Apple Silicon, offering unparalleled speed and performance. This drop-in replacement for OpenAI has been shown to be 4.2x faster than Ollama, with capabilities including prompt caching, reasoning separation, and cloud routing. With support for tools like Claude Code, Cursor, and Aider, Rapid-MLX streamlines AI workflows and enhances development efficiency.
+Rapid-MLX is an open-source, local AI engine optimized for Apple Silicon devices, boasting exceptional speed and performance. It offers a drop-in replacement for OpenAI, with capabilities such as 4.2x faster processing, 0.08s cached text-to-text translation, and seamless integration with popular tools like Claude Code and Cursor. This innovative engine empowers developers to build high-performance AI applications with ease and efficiency.
 
 ---
 

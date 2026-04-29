@@ -25,9 +25,7 @@ Backend · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the disgo project:
-
-**disgo** is an open-source, modular Golang Discord API wrapper designed for efficient and secure integration with the Discord platform. This customizable library provides a flexible framework for developers to build Discord-enabled applications with ease, empowering the creation of scalable and reliable Discord bots. With its focus on security and modularity, disgo is an ideal choice for developers seeking a robust Discord API wrapper for their projects.
+The disgo project is an open-source, modular Golang Discord API wrapper designed for developers building Discord-integrated applications. This wrapper provides a secure and efficient interface to interact with the Discord API, making it an ideal choice for backend development. With its modular architecture, disgo offers flexibility and customization options for developers to tailor their Discord integrations to meet specific needs.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Mattermost GitHub plugin provides integration between Mattermost and GitHub, allowing users to seamlessly collaborate and track changes between the two platforms. This plugin enables features such as issue tracking, pull request notifications, and user authentication, enhancing the overall development experience. By bridging the gap between Mattermost and GitHub, this plugin streamlines communication and workflow for teams and developers.
+The Mattermost GitHub plugin allows users to seamlessly integrate their GitHub account with the Mattermost platform, enabling features such as automated issue tracking and real-time updates to teams. This plugin streamlines collaboration and communication between developers and teams by providing a direct link to GitHub repositories and issues. By integrating GitHub with Mattermost, teams can more efficiently manage and track their projects.
 
 ---
 

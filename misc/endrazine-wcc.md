@@ -1,6 +1,6 @@
 # endrazine/wcc
 
-[![Stars](https://img.shields.io/github/stars/endrazine/wcc?style=flat-square&color=yellow)](https://github.com/endrazine/wcc/stargazers) [![Forks](https://img.shields.io/github/forks/endrazine/wcc?style=flat-square&color=blue)](https://github.com/endrazine/wcc/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/endrazine/wcc?style=flat-square&color=yellow)](https://github.com/endrazine/wcc/stargazers) [![Forks](https://img.shields.io/github/forks/endrazine/wcc?style=flat-square&color=blue)](https://github.com/endrazine/wcc/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The Witchcraft Compiler Collection
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

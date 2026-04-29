@@ -25,7 +25,7 @@ Crypto
 
 ## 📝 Summary
 
-RustCrypto/crypto-bigint is an open-source library that provides high-performance, constant-time big integer implementations optimized for cryptography applications. Its stack-allocated design and no_std-friendliness make it suitable for use in resource-constrained environments. This library supports modern cryptographic formulas, enabling developers to write secure and efficient cryptographic code.
+RustCrypto/crypto-bigint is an open-source cryptography library that provides high-performance big integer implementations optimized for constant-time operations. These stack-allocated, no_std-friendly implementations utilize modern formulas to achieve efficient and secure arithmetic operations. This library is designed to support various cryptographic algorithms and applications requiring large integer arithmetic.
 
 ---
 

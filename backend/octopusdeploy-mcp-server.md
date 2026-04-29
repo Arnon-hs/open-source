@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The Octopus Deploy MCP Server is an open-source project that provides a backend infrastructure for Octopus Deploy, a popular deployment and automation tool. This official server is designed to manage and facilitate secure, scalable, and reliable deployment processes. By contributing to this project, developers can help shape the future of Octopus Deploy and enhance its capabilities.
+The Octopus Deploy MCP Server is an open-source, backend project that provides a server implementation for the Microservices Configuration Protocol (MCP). This protocol enables distributed systems to securely manage configuration and secrets, promoting scalability and reliability in complex environments. By contributing to this project, developers can help shape the future of MCP and improve its adoption in the industry.
 
 ---
 

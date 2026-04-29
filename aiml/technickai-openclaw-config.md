@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Openclaw-config is an open-source project that empowers AI assistants to learn and adapt by providing persistent memory, integration skills, and autonomous workflows. This project is designed for use with Claude Code and offers 11 integration skills and 4 autonomous workflows, all configurable through markdown and Python scripts. By leveraging this project, users can give their AI assistants a higher level of autonomy and intelligence.
+The open-source project TechNickAI/openclaw-config is a comprehensive framework for enhancing AI assistants with persistent memory, advanced skills, and autonomous workflows. It provides 11 integration skills and 4 workflows, all customizable through markdown and Python scripts, specifically designed for use with Claude Code. This project empowers users to give their AI assistants greater capabilities and autonomy.
 
 ---
 

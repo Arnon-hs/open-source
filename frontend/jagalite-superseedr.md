@@ -25,9 +25,7 @@ Frontend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the Jagalite/superseedr project:
-
-Jagalite/superseedr is an open-source, terminal-based BitTorrent client that allows users to seamlessly download and manage torrents from the command line. This project offers a convenient and efficient way to access BitTorrent functionality directly within the terminal, streamlining the torrenting experience. It's ideal for users who prefer a lightweight, text-based interface or need to automate torrent downloads.
+Jagalite/superseedr is an open-source BitTorrent client designed for terminal-based use, allowing users to manage and download torrents directly from the command line. This client provides a convenient and accessible way to leverage BitTorrent technology without the need for a graphical user interface. With its focus on usability and efficiency, superseedr is an ideal choice for developers and power users looking to streamline their torrent management workflow.
 
 ---
 

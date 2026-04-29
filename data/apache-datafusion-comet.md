@@ -1,6 +1,6 @@
 # apache/datafusion-comet
 
-[![Stars](https://img.shields.io/github/stars/apache/datafusion-comet?style=flat-square&color=yellow)](https://github.com/apache/datafusion-comet/stargazers) [![Forks](https://img.shields.io/github/forks/apache/datafusion-comet?style=flat-square&color=blue)](https://github.com/apache/datafusion-comet/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/datafusion-comet?style=flat-square&color=yellow)](https://github.com/apache/datafusion-comet/stargazers) [![Forks](https://img.shields.io/github/forks/apache/datafusion-comet?style=flat-square&color=blue)](https://github.com/apache/datafusion-comet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Apache DataFusion Comet Spark Accelerator
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 307 |
-| 💻 **Language** | Scala |
+| 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

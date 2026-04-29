@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The pion/example-webrtc-applications project is an open-source collection of example WebRTC applications that showcase large-scale implementations and utilize third-party libraries. These examples are designed to provide developers with a starting point for building complex WebRTC applications, offering insights into best practices and efficient coding techniques. By leveraging these examples, developers can accelerate their own WebRTC projects and explore innovative features and functionality.
+This open-source project, pion/example-webrtc-applications, provides a collection of large-scale WebRTC application examples that utilize third-party libraries. These examples serve as a reference for developers looking to implement complex WebRTC functionalities in their own projects. By sharing these examples, the project aims to facilitate the development and adoption of WebRTC technologies.
 
 ---
 

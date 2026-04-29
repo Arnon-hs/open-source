@@ -25,7 +25,7 @@ DevTools · Security
 
 ## 📝 Summary
 
-The go-acme/lego project is an open-source, cross-platform Let's Encrypt/ACME client and library written in Go. It allows developers to automate certificate issuance and management, making it a convenient and secure solution for securing web applications and services. With lego, users can easily obtain and manage SSL/TLS certificates for their domains.
+The go-acme/lego project is an open-source client and library for working with Let's Encrypt and the Automated Certificate Management Environment (ACME) protocol, written in the Go programming language. This project enables developers to obtain and manage SSL/TLS certificates for their applications, providing a secure and automated way to configure encryption. By utilizing go-acme/lego, developers can simplify the process of setting up and managing SSL certificates for their projects.
 
 ---
 

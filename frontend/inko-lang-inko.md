@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Inko is an open-source language designed for building concurrent software with confidence, aiming to simplify the development of parallel and distributed systems. It allows developers to focus on writing concurrent code without worrying about the complexities of synchronization and communication. By providing a high-level abstraction, Inko enables the creation of efficient, scalable, and reliable concurrent software.
+Inko is an open-source language designed to simplify the development of concurrent software, allowing developers to build reliable and efficient applications with ease. By providing a robust set of features and tools, Inko aims to reduce the complexity associated with concurrent programming, making it more accessible to a wider range of developers. With its focus on concurrency, Inko enables the creation of high-performance software that can effectively handle multiple tasks simultaneously.
 
 ---
 

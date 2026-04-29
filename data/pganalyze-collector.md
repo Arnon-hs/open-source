@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The pganalyze collector is an open-source project that gathers PostgreSQL metrics and log data to provide insights into database performance and behavior. This tool enables database administrators to monitor and analyze key statistics, logs, and other essential metrics to optimize their PostgreSQL installations. By collecting and processing PostgreSQL data, the collector facilitates data-driven decision-making and helps ensure the overall health and efficiency of the database system.
+The pganalyze/collector is an open-source project that gathers critical PostgreSQL metrics and log data, providing valuable insights for database administrators and developers. This statistics collector helps monitor and troubleshoot PostgreSQL performance, allowing users to optimize their database setups and improve overall system reliability. By collecting and analyzing PostgreSQL data, users can make data-driven decisions to enhance their database management.
 
 ---
 

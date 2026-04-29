@@ -25,7 +25,7 @@ Backend · Security
 
 ## 📝 Summary
 
-The dhax/go-base project provides a customizable and secure Go RESTful API boilerplate that incorporates JWT authentication, allowing developers to quickly build robust backend applications. Built on a PostgreSQL database, this open-source project offers a solid foundation for developing scalable and reliable APIs. With its focus on security and ease of use, dhax/go-base is an excellent starting point for building backend applications in Go.
+Dhax/go-base is an open-source project providing a Go-based RESTful API boilerplate. This project offers a comprehensive foundation for building secure APIs with JWT authentication, utilizing PostgreSQL as the database backend. It serves as a starting point for developers to rapidly create robust and scalable backend applications.
 
 ---
 

@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The anthropic-cli is an open-source command-line interface (CLI) for the Claude API, a powerful tool that enables developers to build AI-powered applications. This CLI provides an easy-to-use interface for interacting with Claude, allowing users to leverage its capabilities without needing to write complex code. By using anthropic-cli, developers can streamline their workflow and focus on building innovative applications with AI-driven features.
+The anthropic-cli is an open-source command-line interface (CLI) designed for the Claude API, providing developers with a user-friendly tool to interact with the AI-powered platform. This CLI enables seamless integration and automation of tasks, making it easier to leverage the capabilities of Claude in various applications and projects. By using anthropic-cli, developers can streamline their workflow and unlock the full potential of the Claude API.
 
 ---
 
