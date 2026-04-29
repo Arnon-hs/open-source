@@ -25,7 +25,7 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-The pilinux/gorest project is an open-source Go starter kit for building robust RESTful APIs, equipped with essential features such as authentication via JWT, database support for various RDBMS and NoSQL solutions, and additional security measures like 2FA and password recovery. This versatile kit also includes tools for email verification, making it an ideal foundation for complex backend applications. By leveraging popular frameworks like Gin, GORM, and Redis, developers can quickly establish a solid foundation for their projects.
+The pilinux/gorest project is an open-source Go RESTful API starter kit that provides a comprehensive foundation for building robust, secure, and scalable backend applications. It integrates popular libraries such as Gin, JWT, GORM, Redis, and MongoDB to support various database management systems and adds features like two-factor authentication, email verification, and password recovery for enhanced security. This kit enables developers to quickly create powerful and reliable APIs.
 
 ---
 

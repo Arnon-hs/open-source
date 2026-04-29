@@ -25,9 +25,7 @@ Frontend · DevOps/Infra · Design
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the ForgeMT project:
-
-ForgeMT is an open-source, secure GitHub Actions runner platform designed for multi-tenant environments. It automates isolated runner provisioning on Kubernetes or EC2, featuring built-in authentication, cost optimization, and deep observability. This scalable solution simplifies the management of ephemeral workloads and enhances the security of CI/CD pipelines.
+ForgeMT is an open-source, secure GitHub Actions runner platform designed for multi-tenant environments. It automates the provisioning of isolated runners on Kubernetes or EC2, providing features such as OIDC, IAM, cost optimization, and deep observability. This scalable solution enables efficient management of ephemeral workloads.
 
 ---
 

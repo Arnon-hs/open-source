@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The liby/dotfiles project is an open-source collection of customizable dotfiles designed for both humans and their coding agents. This repository provides a user-friendly configuration for AI and ML applications, allowing developers to streamline their coding experience and optimize their workflows. By offering a standardized setup, liby/dotfiles aims to simplify the integration of AI and ML tools into daily coding routines.
+The liby/dotfiles project provides an open-source collection of customizable dotfiles tailored for developers and AI/ML professionals. This repository offers a set of pre-configured and extensible configuration files for various tools and platforms, aiming to simplify the setup and management of coding environments. By leveraging this resource, users can streamline their workflow and focus on their projects.
 
 ---
 

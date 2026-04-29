@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Stackit is an open-source CLI tool built with Go that streamlines the management of stacked changes in Git repositories. It enables developers to track branch relationships, automate rebases, and efficiently submit connected pull requests, simplifying the process of working with dependent branches. This tool is particularly useful for teams collaborating on complex projects with multiple interconnected branches.
+Stackit is a Go-based command-line tool designed to simplify the management of dependent branches in Git repositories. It tracks branch relationships, automates rebases across related branches, and streamlines the process of submitting connected pull requests. This open-source tool aims to make collaborative development more efficient and organized.
 
 ---
 

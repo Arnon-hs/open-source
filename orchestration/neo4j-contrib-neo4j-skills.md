@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 26 |
+| ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
@@ -27,7 +27,7 @@ Orchestration · AI/ML · DevTools
 
 Here's a brief summary of the neo4j-skills project:
 
-The neo4j-skills project is an open-source initiative that enables coding and other agents, such as AI/ML models, to interact with Neo4j databases using Cypher, a powerful query language. This project facilitates seamless integration between Neo4j and various tools and systems, unlocking new possibilities for data-driven applications and AI-driven decision-making. By leveraging Neo4j's graph database capabilities, developers can build more efficient and effective solutions.
+Neo4j-skills is an open-source project that provides a comprehensive set of skills for Neo4j, a leading graph database management system. This project includes skills for coding and other agents, enabling seamless integration with various tools and technologies, such as Cypher. By leveraging neo4j-skills, developers and organizations can unlock the full potential of Neo4j and accelerate their graph-based data processing and analytics capabilities.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The "mulch" project is an open-source initiative that aims to collect and structure expertise in coding for artificial intelligence (AI) and machine learning (ML) agents. It uses a Git-based system to store and accumulate knowledge over time, making it accessible to various agents and developers. This collaborative approach enables the growth of collective expertise, enhancing the capabilities of AI and ML systems.
+The mulch project is an open-source initiative that aims to provide a structured and scalable way for coding agents to accumulate expertise over time. By utilizing Git as a repository, mulch allows agents to access and build upon a collective knowledge base, making it compatible with any agent. This approach enables efficient and organized knowledge sharing and growth within the AI and ML communities.
 
 ---
 

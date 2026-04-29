@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The tryAGI/Anthropic project is an open-source C# Software Development Kit (SDK) that enables developers to seamlessly integrate the Anthropic API into their applications. This SDK supports a range of features, including Claude chat completions, tool calling, and vision capabilities, making it an ideal choice for developers working on AI-powered projects. With this SDK, users can easily harness the power of Anthropic's robust AI tools.
+The tryAGI/Anthropic project is an open-source C# Software Development Kit (SDK) that provides a seamless interface to the Anthropic API. With this SDK, developers can easily integrate Anthropic's powerful language model capabilities, including text completions, tool calling, and vision, into their applications. This SDK enables users to unlock the full potential of the Anthropic API in a scalable and efficient manner.
 
 ---
 

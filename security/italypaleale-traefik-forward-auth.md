@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-The ItalyPaleAle/traefik-forward-auth project is a lightweight, open-source forward authentication service that integrates seamlessly with Traefik reverse proxy to provide secure Google and OpenID Connect-based login and authentication. This solution enables users to access protected resources behind Traefik's reverse proxy through a standardized OAuth 2.0 authentication flow. By leveraging this service, developers can easily add authentication capabilities to their Traefik-based applications and services.
+Traefik-Forward-Auth is an open-source project that provides a minimal forward authentication service for Traefik reverse proxy. This service enables Google and OpenID OAuth-based login and authentication, simplifying the process of securing access to Traefik-managed applications. By leveraging Traefik's reverse proxy capabilities, users can securely authenticate users with minimal configuration required.
 
 ---
 

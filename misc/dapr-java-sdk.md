@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The dapr/java-sdk is an open-source project that provides a Java SDK for building distributed applications using the Distributed Application Runtime (Dapr). This SDK enables developers to easily integrate their Java applications with Dapr's state management, pub-sub messaging, and service invocation capabilities. By leveraging the dapr/java-sdk, developers can build scalable, resilient, and cloud-native applications with ease.
+The dapr/java-sdk is an open-source project that provides a Java software development kit (SDK) for Dapr, a distributed application runtime that simplifies building and managing microservices. This SDK enables Java developers to build scalable, event-driven, and distributed applications using the Dapr platform. With the dapr/java-sdk, developers can leverage Dapr's core features, such as state management, pub/sub messaging, and API composition, to create robust and maintainable applications.
 
 ---
 

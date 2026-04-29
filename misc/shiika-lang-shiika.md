@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Shiika is an open-source, statically-typed programming language designed to provide a robust and efficient platform for software development. Its statically-typed nature ensures type safety at compile time, reducing errors and improving overall code reliability. With a focus on simplicity and ease of use, Shiika aims to make complex programming tasks more accessible to developers of all levels.
+Shiika is an open-source, statically-typed programming language designed for reliability and performance. It offers a robust and efficient development experience, ideal for applications requiring high precision and scalability. As a statically-typed language, Shiika helps developers catch errors at compile-time, reducing runtime errors and improving overall code quality.
 
 ---
 

@@ -25,9 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the replicatedhq/troubleshoot project:
-
-The replicatedhq/troubleshoot project is an open-source tool designed to streamline the troubleshooting process for Kubernetes applications. It provides a framework for preflight checks and support bundles, enabling developers to quickly diagnose and resolve issues in their Kubernetes environments. This framework helps reduce the complexity and time required to troubleshoot Kubernetes applications, making it easier to ensure their reliability and performance.
+The replicatedhq/troubleshoot project is an open-source framework for Kubernetes applications that enables preflight checks and customizable support bundles. This framework streamlines the troubleshooting process by providing a standardized way to capture and analyze issues in Kubernetes environments. By leveraging this project, developers and operators can identify and resolve issues more efficiently.
 
 ---
 

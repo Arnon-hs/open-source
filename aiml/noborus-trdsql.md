@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the noborus/trdsql project:
+Here's a brief summary for the open-source project:
 
-TRDSQL is an open-source command-line interface (CLI) tool that enables users to execute SQL queries on various data formats, including CSV, LTSV, JSON, YAML, and TBLN. With its versatility, TRDSQL allows users to easily manipulate and transform their data, making it an essential tool for data scientists, analysts, and developers. This project is particularly useful for AI/ML tasks and DevOps operations that require data processing and analysis.
+TRDSQL is a command-line tool for executing SQL queries on various data sources, including CSV, LTSV, JSON, YAML, and TBLN files. It allows users to transform and manipulate data by executing SQL queries and outputs the results in several formats. This versatile tool streamlines data analysis and manipulation tasks.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The "gemini-web-to-api" project is an open-source, reverse-engineered API designed to mimic the functionality of the Gemini web app, allowing users to interact with OpenAI, Gemini, and Claude APIs as if they had genuine API keys. This project bridges the gap between the web app's features and direct API access, making it easier to integrate these capabilities into custom applications. By leveraging this reverse-engineered API, developers can tap into the full potential of these AI-powered tools.
+The ntthanh2603/gemini-web-to-api project is an open-source, reverse-engineered API that allows users to interact with the Gemini web app as if they had a genuine API key. This API can be used to access OpenAI, Gemini, and Claude functionalities, providing developers with a convenient alternative for integrating these services into their applications. By utilizing this project, developers can simplify the process of working with these AI-powered tools.
 
 ---
 

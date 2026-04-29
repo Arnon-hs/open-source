@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The Neumann-Labs/mcp-cpp project provides a C++ Software Development Kit (SDK) for the Model Context Protocol (MCP), enabling developers to create MCP servers and clients in C++. This open-source framework offers a robust and efficient backend solution for building MCP-enabled applications. With mcp-cpp, developers can harness the power of MCP in their C++ projects.
+The MCP-CPP SDK is an open-source C++ framework for building Model Context Protocol (MCP) servers and clients. This project provides a comprehensive set of tools and libraries to simplify the development of MCP-based applications. By utilizing MCP-CPP, developers can create scalable and efficient MCP implementations in C++.
 
 ---
 

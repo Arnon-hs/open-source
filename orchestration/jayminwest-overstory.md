@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the overstory project:
-
-Overstory is an open-source, multi-agent orchestration tool for AI coding agents, allowing developers to plug in various runtime adapters for different AI platforms such as Claude Code and Pi. This flexible framework streamlines the process of integrating AI coding agents, enabling seamless collaboration and automation. By supporting multiple platforms, overstory empowers developers to create more efficient and scalable AI workflows.
+Overstory is an open-source project that enables multi-agent orchestration for AI coding agents. It provides pluggable runtime adapters to integrate various AI coding platforms, including Claude Code and Pi, allowing developers to manage and coordinate complex AI workflows. This project streamlines AI development by facilitating seamless interaction and orchestration across multiple coding agents.
 
 ---
 

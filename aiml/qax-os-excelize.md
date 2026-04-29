@@ -25,7 +25,7 @@ AI/ML · Data · Marketing
 
 ## 📝 Summary
 
-The excelize library is an open-source project that provides a Go language interface for reading and writing Microsoft Excel spreadsheets. It supports a variety of Excel file formats, including XLAM, XLSM, XLSX, XLTM, and XLTX. This library enables developers to easily work with Excel files in their Go applications.
+The Excelize library is an open-source project that enables the reading and writing of Microsoft Excel spreadsheets in the Go programming language. It supports various Excel file formats, including XLAM, XLSM, XLSX, XLTM, and XLTX. This library simplifies the process of interacting with Excel files in Go-based applications.
 
 ---
 
