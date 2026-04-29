@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**36 projects** in this category.
+**37 projects** in this category.
 
 ## Projects
 
@@ -42,8 +42,9 @@
 | 32 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 256 | Go | 48/100 |
 | 33 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
 | 34 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
-| 35 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
-| 36 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 305 | AutoIt | 43/100 |
+| 35 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
+| 36 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
+| 37 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 305 | AutoIt | 43/100 |
 
 ---
 

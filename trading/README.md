@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**115 projects** in this category.
+**116 projects** in this category.
 
 ## Projects
 
@@ -121,8 +121,9 @@
 | 111 | [eriirfos-eng/ternary-intelligence-stack](./eriirfos-eng-ternary-intelligence-stack.md) | ⭐ 10 | Rust | 46/100 |
 | 112 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 141 | Rust | 41/100 |
 | 113 | [valory-xyz/trader](./valory-xyz-trader.md) | ⭐ 66 | Python | 41/100 |
-| 114 | [qumulator/qumulator-sdk](./qumulator-qumulator-sdk.md) | ⭐ 5 | Python | 36/100 |
-| 115 | [cirosantilli/test-octopus-100k](./cirosantilli-test-octopus-100k.md) | ⭐ 36 | — | 20/100 |
+| 114 | [msuzen/leymosun](./msuzen-leymosun.md) | ⭐ — | — | 39/100 |
+| 115 | [qumulator/qumulator-sdk](./qumulator-qumulator-sdk.md) | ⭐ 5 | Python | 36/100 |
+| 116 | [cirosantilli/test-octopus-100k](./cirosantilli-test-octopus-100k.md) | ⭐ 36 | — | 20/100 |
 
 ---
 
