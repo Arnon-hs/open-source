@@ -1,6 +1,6 @@
 # mksglu/context-mode
 
-[![Stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square&color=yellow)](https://github.com/mksglu/context-mode/stargazers) [![Forks](https://img.shields.io/github/forks/mksglu/context-mode?style=flat-square&color=blue)](https://github.com/mksglu/context-mode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square&color=yellow)](https://github.com/mksglu/context-mode/stargazers) [![Forks](https://img.shields.io/github/forks/mksglu/context-mode?style=flat-square&color=blue)](https://github.com/mksglu/context-mode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
 
 > Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11.2k |
-| 🍴 **Forks** | 766 |
+| 🍴 **Forks** | 767 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 96/100 |
+| 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/bruin-data/dac?style=flat-square&color=yellow)](https://github.com/bruin-data/dac/stargazers) [![Forks](https://img.shields.io/github/forks/bruin-data/dac?style=flat-square&color=blue)](https://github.com/bruin-data/dac/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
-> dac is a dashboard-as-tool code. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards.
+> dac is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 50 |
+| ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 41/100 |

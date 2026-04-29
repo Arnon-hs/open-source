@@ -1,6 +1,6 @@
 # samugit83/redamon
 
-[![Stars](https://img.shields.io/github/stars/samugit83/redamon?style=flat-square&color=yellow)](https://github.com/samugit83/redamon/stargazers) [![Forks](https://img.shields.io/github/forks/samugit83/redamon?style=flat-square&color=blue)](https://github.com/samugit83/redamon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samugit83/redamon?style=flat-square&color=yellow)](https://github.com/samugit83/redamon/stargazers) [![Forks](https://img.shields.io/github/forks/samugit83/redamon?style=flat-square&color=blue)](https://github.com/samugit83/redamon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 383 |
+| 🍴 **Forks** | 384 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

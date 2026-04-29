@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The hopp project is an open-source remote pair programming application designed to facilitate collaborative coding and development. Built with a focus on user experience and cutting-edge technology, hopp streamlines the remote development process, making it easier for developers to work together in real-time. This innovative solution leverages AI/ML capabilities to enhance the collaboration experience.
+Hopp is an open-source remote pair programming application designed to facilitate collaboration and learning between developers. This innovative platform combines the benefits of AI/ML technology with a user-friendly frontend interface to create a seamless and productive coding experience. By leveraging Hopp, developers can work together in real-time, regardless of their geographical location.
 
 ---
 

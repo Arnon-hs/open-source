@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project utilizes Claude Code to build an AI-powered job search agent, specifically designed for identifying promising positions in project management roles. The agent leverages AI/ML capabilities to streamline the job search process, providing users with a more efficient and targeted approach to finding suitable job opportunities. By open-sourcing this project, developers can explore and contribute to the development of this innovative AI job search tool.
+This open-source project leverages the Claude Code platform to create an AI-driven job search agent, specifically designed to aid in searching for Project Manager (PM) job opportunities. The agent utilizes AI and machine learning capabilities to streamline the job search process. By automating tasks, it aims to save time and increase efficiency in finding suitable job openings.
 
 ---
 

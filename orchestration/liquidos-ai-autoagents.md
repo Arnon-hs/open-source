@@ -1,6 +1,6 @@
 # liquidos-ai/AutoAgents
 
-[![Stars](https://img.shields.io/github/stars/liquidos-ai/AutoAgents?style=flat-square&color=yellow)](https://github.com/liquidos-ai/AutoAgents/stargazers) [![Forks](https://img.shields.io/github/forks/liquidos-ai/AutoAgents?style=flat-square&color=blue)](https://github.com/liquidos-ai/AutoAgents/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liquidos-ai/AutoAgents?style=flat-square&color=yellow)](https://github.com/liquidos-ai/AutoAgents/stargazers) [![Forks](https://img.shields.io/github/forks/liquidos-ai/AutoAgents?style=flat-square&color=blue)](https://github.com/liquidos-ai/AutoAgents/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A  multi-agent framework written in Rust that enables you to build, deploy, and coordinate multiple intelligent agents
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 604 |
+| ⭐ **Stars** | 605 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

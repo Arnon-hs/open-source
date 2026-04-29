@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/layerbrain/trunks?style=flat-square&color=yellow)](https://github.com/layerbrain/trunks/stargazers) [![Forks](https://img.shields.io/github/forks/layerbrain/trunks?style=flat-square&color=blue)](https://github.com/layerbrain/trunks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Git repos backed by your own storage. Push to S3, R2, Tigris, MinIO, Postgres, SFTP, NFS, or local disk.
+> Git repos backed by your own storage. Push to S3, R2, Tigris, MinIO, Postgres, SFTP, NFS, or local disk
 
 ## 📊 Stats
 

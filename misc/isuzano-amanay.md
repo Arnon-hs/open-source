@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Amanay is an open-source terminal project that aims to provide predictable behavior, likely catering to users who value reliability and consistency in their command-line interface. Built using C and the GTK4 library, it offers a terminal experience focused on stability and usability. Amanay is a promising project for those seeking a dependable terminal solution.
+Amanay is an open-source terminal project that focuses on providing predictable behavior. Built with C and utilizing GTK4, it aims to offer a consistent and reliable user experience. By prioritizing predictability, Amanay seeks to address potential issues that may arise from more complex or dynamic terminal interfaces.
 
 ---
 

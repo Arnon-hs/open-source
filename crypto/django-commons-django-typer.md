@@ -1,6 +1,6 @@
 # django-commons/django-typer
 
-[![Stars](https://img.shields.io/github/stars/django-commons/django-typer?style=flat-square&color=yellow)](https://github.com/django-commons/django-typer/stargazers) [![Forks](https://img.shields.io/github/forks/django-commons/django-typer?style=flat-square&color=blue)](https://github.com/django-commons/django-typer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/django-commons/django-typer?style=flat-square&color=yellow)](https://github.com/django-commons/django-typer/stargazers) [![Forks](https://img.shields.io/github/forks/django-commons/django-typer?style=flat-square&color=blue)](https://github.com/django-commons/django-typer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Use Typer (type hints) to define the interface for your Django management commands.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 265 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Backend · Data · DevOps/Infra
 
 ## 📝 Summary
 
-This open-source project, titled "Golang REST API Template", provides a comprehensive template for building robust REST APIs using the Gin framework in Golang. The template includes support for JWT authentication, PostgreSQL database, Redis cache, and MongoDB for logging, making it an ideal starting point for building scalable backend applications. It's an excellent resource for developers looking to streamline their backend development process with Golang.
+This project provides a comprehensive open-source template for building a REST API using Golang and the Gin framework. It integrates with various popular technologies, including PostgreSQL for database operations, Redis for caching, and MongoDB for logging, while ensuring secure authentication using JWT. This template serves as a solid foundation for large-scale backend applications, making it an ideal starting point for developers working on complex projects.
 
 ---
 

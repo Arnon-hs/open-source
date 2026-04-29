@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Thunderdome is an open-source agile planning poker, sprint retro, and story mapping tool designed to streamline team collaboration and project planning. This user-friendly platform leverages Agile methodologies to facilitate effective communication and decision-making among team members. By providing a versatile and customizable tool, Thunderdome empowers teams to work more efficiently and achieve their goals.
+Thunderdome is an open-source, agile planning tool that facilitates collaborative decision-making and team communication. It offers features such as planning poker, sprint retrospectives, and story mapping, providing a comprehensive platform for teams to manage and prioritize their work effectively. By leveraging AI/ML capabilities, Thunderdome aims to enhance team productivity and efficiency in software development and project management.
 
 ---
 

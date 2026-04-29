@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project leverages AI and machine learning to mine academic research for novel time series discoveries. By analyzing existing research, the agent aims to identify new patterns and trends, facilitating further exploration and potential breakthroughs in various fields. This innovative tool has the potential to accelerate knowledge discovery in time series analysis.
+This open-source project leverages AI and machine learning to mine academic research for novel time series discoveries. It utilizes a sophisticated approach to identify patterns and relationships within large datasets, unlocking new insights in the field of time series analysis. By automating the process of research discovery, this tool can accelerate scientific breakthroughs and foster innovation.
 
 ---
 

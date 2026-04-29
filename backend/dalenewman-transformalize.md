@@ -1,6 +1,6 @@
 # dalenewman/Transformalize
 
-[![Stars](https://img.shields.io/github/stars/dalenewman/Transformalize?style=flat-square&color=yellow)](https://github.com/dalenewman/Transformalize/stargazers) [![Forks](https://img.shields.io/github/forks/dalenewman/Transformalize?style=flat-square&color=blue)](https://github.com/dalenewman/Transformalize/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dalenewman/Transformalize?style=flat-square&color=yellow)](https://github.com/dalenewman/Transformalize/stargazers) [![Forks](https://img.shields.io/github/forks/dalenewman/Transformalize?style=flat-square&color=blue)](https://github.com/dalenewman/Transformalize/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Configurable Extract, Transform, and Load
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

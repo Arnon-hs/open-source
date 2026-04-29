@@ -14,8 +14,8 @@
 | 4 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
 | 5 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122.2k | TypeScript | 99/100 |
 | 6 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.8k | C++ | 96/100 |
-| 7 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.1k | Rust | 92/100 |
-| 8 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9.1k | Python | 92/100 |
+| 7 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9.1k | Python | 92/100 |
+| 8 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.1k | Rust | 92/100 |
 | 9 | [liuchong/awesome-roadmaps](./liuchong-awesome-roadmaps.md) | ⭐ 6.9k | — | 88/100 |
 | 10 | [johnste/finicky](./johnste-finicky.md) | ⭐ 4.8k | Go | 86/100 |
 | 11 | [dreamworksanimation/openmoonray](./dreamworksanimation-openmoonray.md) | ⭐ 4.6k | CMake | 77/100 |

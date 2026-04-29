@@ -25,7 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The jezweb/claude-skills project provides a collection of skills for the Claude Code CLI, empowering users to leverage various technologies such as full-stack development, Cloudflare, React, Tailwind CSS 4, and AI integrations. This open-source initiative enables developers to extend the capabilities of Claude, a powerful AI tool. By offering a range of skills, the project fosters innovation and productivity in the development process.
+Here's a brief summary of the open-source project:
+
+Claude-Skills is an open-source project providing skills for the Claude Code CLI, a powerful tool for developers. This project offers a range of capabilities, including full-stack development on Cloudflare, React, and Tailwind v4, as well as AI integrations, making it an ideal resource for those working with AI and machine learning. With Claude-Skills, developers can streamline their workflows and enhance their productivity with these essential coding skills.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The yokatlas-mcp project is an open-source implementation of a MCP (Master Control Protocol) server for YOK Atlas, enabling efficient control and management of the YOK Atlas system. This backend solution utilizes AI/ML capabilities to streamline interactions and optimize performance. By providing a standardized interface, yokatlas-mcp facilitates seamless integration with other systems and applications.
+Here's a brief summary for the yokatlas-mcp project:
+
+The yokatlas-mcp project is an open-source MCP (Multi-Crafting Protocol) server designed specifically for YOK Atlas, a backend-focused platform. This server enables seamless communication and data exchange between YOK Atlas and its respective clients, facilitating a streamlined and efficient experience. By leveraging AI/ML capabilities, yokatlas-mcp enhances the overall performance and functionality of YOK Atlas.
 
 ---
 

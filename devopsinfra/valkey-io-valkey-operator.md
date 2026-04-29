@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The valkey-operator is an open-source Kubernetes operator currently in development (WIP), designed to provide a scalable and automated solution for managing infrastructure and applications within Kubernetes environments. This project aims to simplify the deployment, scaling, and maintenance of applications by leveraging the power of Kubernetes operators. By utilizing the valkey-operator, users can streamline their DevOps processes and improve overall infrastructure efficiency.
+The valkey-operator is a Kubernetes operator currently in development (WIP) designed to simplify the deployment and management of applications on Kubernetes clusters. This open-source project aims to provide a scalable and efficient solution for automating the lifecycle of applications within a Kubernetes environment. By utilizing the operator, users can leverage the power of Kubernetes to streamline application deployment, scaling, and maintenance.
 
 ---
 

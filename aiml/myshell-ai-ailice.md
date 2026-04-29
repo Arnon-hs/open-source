@@ -1,6 +1,6 @@
 # myshell-ai/AIlice
 
-[![Stars](https://img.shields.io/github/stars/myshell-ai/AIlice?style=flat-square&color=yellow)](https://github.com/myshell-ai/AIlice/stargazers) [![Forks](https://img.shields.io/github/forks/myshell-ai/AIlice?style=flat-square&color=blue)](https://github.com/myshell-ai/AIlice/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/myshell-ai/AIlice?style=flat-square&color=yellow)](https://github.com/myshell-ai/AIlice/stargazers) [![Forks](https://img.shields.io/github/forks/myshell-ai/AIlice?style=flat-square&color=blue)](https://github.com/myshell-ai/AIlice/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > AIlice is a fully autonomous, general-purpose AI agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 208 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

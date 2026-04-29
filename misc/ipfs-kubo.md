@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here is a brief summary of the ipfs/kubo project:
-
-ipfs/kubo is an open-source implementation of the InterPlanetary File System (IPFS) in Go, providing a decentralized storage and sharing solution for files and applications. This project allows users to store and manage large amounts of data in a distributed network, enabling efficient and resilient data sharing. By utilizing Kubo, developers can integrate IPFS functionality into their applications and take advantage of its peer-to-peer architecture.
+IPFS/Kubo is an open-source implementation of the InterPlanetary File System (IPFS) in the Go programming language. This project enables the decentralized storage and sharing of data over the internet, allowing users to store and access files in a peer-to-peer network. By utilizing Kubo, developers can leverage IPFS's capabilities for building distributed applications and services.
 
 ---
 

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 20.4k |
-| 🍴 **Forks** | 719 |
+| 🍴 **Forks** | 718 |
 | 💻 **Language** | Batchfile |
 | 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
