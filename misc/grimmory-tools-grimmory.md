@@ -1,6 +1,6 @@
 # grimmory-tools/grimmory
 
-[![Stars](https://img.shields.io/github/stars/grimmory-tools/grimmory?style=flat-square&color=yellow)](https://github.com/grimmory-tools/grimmory/stargazers) [![Forks](https://img.shields.io/github/forks/grimmory-tools/grimmory?style=flat-square&color=blue)](https://github.com/grimmory-tools/grimmory/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grimmory-tools/grimmory?style=flat-square&color=yellow)](https://github.com/grimmory-tools/grimmory/stargazers) [![Forks](https://img.shields.io/github/forks/grimmory-tools/grimmory?style=flat-square&color=blue)](https://github.com/grimmory-tools/grimmory/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Grimmory is an independent community fork of Booklore.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 182 |
+| 🍴 **Forks** | 183 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

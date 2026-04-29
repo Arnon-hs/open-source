@@ -1,6 +1,6 @@
 # rfc-st/humble
 
-[![Stars](https://img.shields.io/github/stars/rfc-st/humble?style=flat-square&color=yellow)](https://github.com/rfc-st/humble/stargazers) [![Forks](https://img.shields.io/github/forks/rfc-st/humble?style=flat-square&color=blue)](https://github.com/rfc-st/humble/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rfc-st/humble?style=flat-square&color=yellow)](https://github.com/rfc-st/humble/stargazers) [![Forks](https://img.shields.io/github/forks/rfc-st/humble?style=flat-square&color=blue)](https://github.com/rfc-st/humble/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 361 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

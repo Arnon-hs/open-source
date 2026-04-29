@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Rshell is an open-source, cross-platform C2 (Command and Control) framework written in Go that enables red team operators to conduct penetration testing and blue team operators to engage in simulated threat scenarios. This project provides a flexible and extensible platform for managing and executing attacks or defensive simulations across multiple platforms. By leveraging Rshell, users can streamline their test and training processes.
+Here's a brief summary of the Rshell project:
+
+Rshell is an open-source, cross-platform C2 (Command and Control) framework written in Golang, designed to facilitate penetration testing and red team exercises for security professionals. This platform-agnostic tool enables users to conduct various types of attacks and exercises safely and efficiently. With its flexibility and customizability, Rshell provides a versatile solution for security researchers and testers.
 
 ---
 

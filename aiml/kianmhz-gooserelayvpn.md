@@ -1,6 +1,6 @@
 # Kianmhz/GooseRelayVPN
 
-[![Stars](https://img.shields.io/github/stars/Kianmhz/GooseRelayVPN?style=flat-square&color=yellow)](https://github.com/Kianmhz/GooseRelayVPN/stargazers) [![Forks](https://img.shields.io/github/forks/Kianmhz/GooseRelayVPN?style=flat-square&color=blue)](https://github.com/Kianmhz/GooseRelayVPN/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kianmhz/GooseRelayVPN?style=flat-square&color=yellow)](https://github.com/Kianmhz/GooseRelayVPN/stargazers) [![Forks](https://img.shields.io/github/forks/Kianmhz/GooseRelayVPN?style=flat-square&color=blue)](https://github.com/Kianmhz/GooseRelayVPN/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 262 |
-| 🍴 **Forks** | 52 |
+| ⭐ **Stars** | 301 |
+| 🍴 **Forks** | 58 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

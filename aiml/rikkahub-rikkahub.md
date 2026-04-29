@@ -1,6 +1,6 @@
 # rikkahub/rikkahub
 
-[![Stars](https://img.shields.io/github/stars/rikkahub/rikkahub?style=flat-square&color=yellow)](https://github.com/rikkahub/rikkahub/stargazers) [![Forks](https://img.shields.io/github/forks/rikkahub/rikkahub?style=flat-square&color=blue)](https://github.com/rikkahub/rikkahub/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rikkahub/rikkahub?style=flat-square&color=yellow)](https://github.com/rikkahub/rikkahub/stargazers) [![Forks](https://img.shields.io/github/forks/rikkahub/rikkahub?style=flat-square&color=blue)](https://github.com/rikkahub/rikkahub/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > RikkaHub is an Android APP that supports for multiple LLM providers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 272 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

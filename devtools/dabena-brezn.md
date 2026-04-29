@@ -1,6 +1,6 @@
 # DaBena/Brezn
 
-[![Stars](https://img.shields.io/github/stars/DaBena/Brezn?style=flat-square&color=yellow)](https://github.com/DaBena/Brezn/stargazers) [![Forks](https://img.shields.io/github/forks/DaBena/Brezn?style=flat-square&color=blue)](https://github.com/DaBena/Brezn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DaBena/Brezn?style=flat-square&color=yellow)](https://github.com/DaBena/Brezn/stargazers) [![Forks](https://img.shields.io/github/forks/DaBena/Brezn?style=flat-square&color=blue)](https://github.com/DaBena/Brezn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > a crisp Nostr client from Bavaria
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

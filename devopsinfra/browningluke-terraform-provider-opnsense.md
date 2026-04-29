@@ -25,9 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The OPNsense Terraform Provider, developed by browningluke, enables infrastructure as code management for OPNsense firewalls. This open-source provider integrates with Terraform, allowing users to create, manage, and configure OPNsense instances programmatically through a consistent and version-controlled workflow. By leveraging this provider, DevOps teams can streamline their infrastructure provisioning and management processes.
+The Terraform Provider for OPNsense allows users to manage their OPNsense infrastructure as code, enabling the creation, modification, and deletion of OPNsense resources using Terraform configurations. This provider simplifies the process of managing OPNsense settings, firewall rules, and network configurations, making it easier to automate and version control infrastructure deployments. By integrating OPNsense with Terraform, users can leverage a consistent and repeatable approach to infrastructure management.
 
 ---
 

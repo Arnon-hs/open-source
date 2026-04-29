@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The nix-community/nix4vscode project is an open-source initiative that integrates Nix package manager with Visual Studio Code (VS Code), allowing users to manage and install packages seamlessly within the popular code editor. This integration enables users to easily install and configure development environments with Nix, streamlining the development process. By leveraging Nix's declarative package management, users can maintain reproducible and consistent environments across projects.
+The nix-community/nix4vscode project provides a Visual Studio Code (VS Code) extension that integrates Nix, a package manager for Linux and other Unix-like systems, into the popular code editor. This extension allows users to easily manage Nix-based projects within VS Code, streamlining their workflow and improving productivity. By leveraging Nix's powerful package management capabilities, developers can now harness its benefits directly within their favorite code editor.
 
 ---
 

@@ -1,6 +1,6 @@
 # Gentleman-Programming/engram
 
-[![Stars](https://img.shields.io/github/stars/Gentleman-Programming/engram?style=flat-square&color=yellow)](https://github.com/Gentleman-Programming/engram/stargazers) [![Forks](https://img.shields.io/github/forks/Gentleman-Programming/engram?style=flat-square&color=blue)](https://github.com/Gentleman-Programming/engram/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gentleman-Programming/engram?style=flat-square&color=yellow)](https://github.com/Gentleman-Programming/engram/stargazers) [![Forks](https://img.shields.io/github/forks/Gentleman-Programming/engram?style=flat-square&color=blue)](https://github.com/Gentleman-Programming/engram/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 320 |
+| ⭐ **Stars** | 3k |
+| 🍴 **Forks** | 326 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

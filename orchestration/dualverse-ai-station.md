@@ -1,6 +1,6 @@
 # dualverse-ai/station
 
-[![Stars](https://img.shields.io/github/stars/dualverse-ai/station?style=flat-square&color=yellow)](https://github.com/dualverse-ai/station/stargazers) [![Forks](https://img.shields.io/github/forks/dualverse-ai/station?style=flat-square&color=blue)](https://github.com/dualverse-ai/station/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dualverse-ai/station?style=flat-square&color=yellow)](https://github.com/dualverse-ai/station/stargazers) [![Forks](https://img.shields.io/github/forks/dualverse-ai/station?style=flat-square&color=blue)](https://github.com/dualverse-ai/station/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The Station, an open-world multi-agent environment that models a miniature scientific ecosystem.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 112 |
+| ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

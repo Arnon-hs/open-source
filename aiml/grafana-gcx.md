@@ -1,6 +1,6 @@
 # grafana/gcx
 
-[![Stars](https://img.shields.io/github/stars/grafana/gcx?style=flat-square&color=yellow)](https://github.com/grafana/gcx/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/gcx?style=flat-square&color=blue)](https://github.com/grafana/gcx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/gcx?style=flat-square&color=yellow)](https://github.com/grafana/gcx/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/gcx?style=flat-square&color=blue)](https://github.com/grafana/gcx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI for managing Grafana Cloud resources. Optimized for agentic usage.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 191 |
+| ⭐ **Stars** | 193 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

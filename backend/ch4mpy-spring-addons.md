@@ -25,7 +25,7 @@ Backend · Security
 
 ## 📝 Summary
 
-The ch4mpy/spring-addons project provides a set of open-source tools to simplify OAuth2 and OpenID authentication in Spring-based RESTful backends, enhancing security and ease of integration. This library streamlines the process of implementing authentication and authorization mechanisms, allowing developers to focus on building robust backend applications. By utilizing spring-addons, developers can efficiently manage authentication flows and protect their applications from unauthorized access.
+The ch4mpy/spring-addons project is an open-source library designed to simplify the integration of OAuth2 and OpenID authentication in Spring-based RESTful backends. It provides a convenient and standardized way to handle authentication and authorization flows, allowing developers to focus on building secure and scalable applications. This project eases the complexity of implementing secure user authentication in Spring-based projects.
 
 ---
 

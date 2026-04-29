@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The vaayne/mori project is an open-source, native macOS workspace terminal designed to organize your work around Projects and Worktrees. Built on top of tmux and libghostty, this tool aims to streamline your workflow by providing a structured environment for productivity. Mori offers a customized workspace experience tailored to macOS users.
+Mori is an open-source, native macOS workspace terminal that organizes your workflow around Projects and Worktrees. Built on top of tmux and libghostty, Mori provides a streamlined terminal experience. By structuring your workspace around projects and worktrees, Mori aims to improve your productivity and efficiency.
 
 ---
 

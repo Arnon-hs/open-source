@@ -1,6 +1,6 @@
 # herbie-fp/herbie
 
-[![Stars](https://img.shields.io/github/stars/herbie-fp/herbie?style=flat-square&color=yellow)](https://github.com/herbie-fp/herbie/stargazers) [![Forks](https://img.shields.io/github/forks/herbie-fp/herbie?style=flat-square&color=blue)](https://github.com/herbie-fp/herbie/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/herbie-fp/herbie?style=flat-square&color=yellow)](https://github.com/herbie-fp/herbie/stargazers) [![Forks](https://img.shields.io/github/forks/herbie-fp/herbie?style=flat-square&color=blue)](https://github.com/herbie-fp/herbie/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Optimize floating-point expressions for accuracy
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 871 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

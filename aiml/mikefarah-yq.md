@@ -1,6 +1,6 @@
 # mikefarah/yq
 
-[![Stars](https://img.shields.io/github/stars/mikefarah/yq?style=flat-square&color=yellow)](https://github.com/mikefarah/yq/stargazers) [![Forks](https://img.shields.io/github/forks/mikefarah/yq?style=flat-square&color=blue)](https://github.com/mikefarah/yq/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mikefarah/yq?style=flat-square&color=yellow)](https://github.com/mikefarah/yq/stargazers) [![Forks](https://img.shields.io/github/forks/mikefarah/yq?style=flat-square&color=blue)](https://github.com/mikefarah/yq/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
 
 > yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 15.3k |
-| 🍴 **Forks** | 766 |
+| 🍴 **Forks** | 767 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 96/100 |
+| 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

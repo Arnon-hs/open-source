@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-PyWry is a versatile, open-source project that enables developers to create native desktop, web, and notebook applications from a single Python API. This cross-platform app factory combines a rendering engine and UI toolkit, streamlining the development process and eliminating the need for platform-specific code. By leveraging PyWry, developers can efficiently build a wide range of applications with ease.
+PyWry is an open-source project that enables developers to create cross-platform applications with a unified API. This powerful tool allows Python users to build native desktop, web, and notebook experiences with a single set of code, streamlining the development process and increasing efficiency. By combining an app factory, rendering engine, and UI toolkit, PyWry simplifies the creation of complex applications and leverages the strengths of Python.
 
 ---
 

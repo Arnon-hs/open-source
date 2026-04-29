@@ -1,6 +1,6 @@
 # aws-samples/hardeneks
 
-[![Stars](https://img.shields.io/github/stars/aws-samples/hardeneks?style=flat-square&color=yellow)](https://github.com/aws-samples/hardeneks/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/hardeneks?style=flat-square&color=blue)](https://github.com/aws-samples/hardeneks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-samples/hardeneks?style=flat-square&color=yellow)](https://github.com/aws-samples/hardeneks/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/hardeneks?style=flat-square&color=blue)](https://github.com/aws-samples/hardeneks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Runs checks to see if an EKS cluster follows EKS Best Practices.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 953 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

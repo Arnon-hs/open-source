@@ -1,6 +1,6 @@
 # nyx-space/nyx
 
-[![Stars](https://img.shields.io/github/stars/nyx-space/nyx?style=flat-square&color=yellow)](https://github.com/nyx-space/nyx/stargazers) [![Forks](https://img.shields.io/github/forks/nyx-space/nyx?style=flat-square&color=blue)](https://github.com/nyx-space/nyx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nyx-space/nyx?style=flat-square&color=yellow)](https://github.com/nyx-space/nyx/stargazers) [![Forks](https://img.shields.io/github/forks/nyx-space/nyx?style=flat-square&color=blue)](https://github.com/nyx-space/nyx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Nyx is a high fidelity, fast, reliable and validated astrodynamics toolkit library written in Rust and available in Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

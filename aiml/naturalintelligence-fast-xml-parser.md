@@ -1,6 +1,6 @@
 # NaturalIntelligence/fast-xml-parser
 
-[![Stars](https://img.shields.io/github/stars/NaturalIntelligence/fast-xml-parser?style=flat-square&color=yellow)](https://github.com/NaturalIntelligence/fast-xml-parser/stargazers) [![Forks](https://img.shields.io/github/forks/NaturalIntelligence/fast-xml-parser?style=flat-square&color=blue)](https://github.com/NaturalIntelligence/fast-xml-parser/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NaturalIntelligence/fast-xml-parser?style=flat-square&color=yellow)](https://github.com/NaturalIntelligence/fast-xml-parser/stargazers) [![Forks](https://img.shields.io/github/forks/NaturalIntelligence/fast-xml-parser?style=flat-square&color=blue)](https://github.com/NaturalIntelligence/fast-xml-parser/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 368 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

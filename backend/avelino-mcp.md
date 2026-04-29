@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The avelino/mcp project is an open-source Command-Line Interface (CLI) that enables users to interact with MCP (Multi-Craft Protocol) servers as if they were terminal commands. This innovative tool converts MCP servers into a single binary executable, simplifying the process of managing and controlling servers from the command line. As a result, developers can streamline their workflow and improve productivity.
+The avelino/mcp project transforms MCP servers into easily accessible terminal commands, allowing users to interact with them in a more streamlined and efficient manner. This open-source project is a single binary CLI, designed to simplify backend development and provide a convenient DevTools experience. By leveraging MCP servers, developers can now execute complex commands with a simple, intuitive interface.
 
 ---
 

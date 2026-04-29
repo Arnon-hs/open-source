@@ -1,6 +1,6 @@
 # openebs/lvm-localpv
 
-[![Stars](https://img.shields.io/github/stars/openebs/lvm-localpv?style=flat-square&color=yellow)](https://github.com/openebs/lvm-localpv/stargazers) [![Forks](https://img.shields.io/github/forks/openebs/lvm-localpv?style=flat-square&color=blue)](https://github.com/openebs/lvm-localpv/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openebs/lvm-localpv?style=flat-square&color=yellow)](https://github.com/openebs/lvm-localpv/stargazers) [![Forks](https://img.shields.io/github/forks/openebs/lvm-localpv?style=flat-square&color=blue)](https://github.com/openebs/lvm-localpv/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Dynamically provision Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 337 |
+| ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

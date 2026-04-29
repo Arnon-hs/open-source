@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Arceos is an experimental, modular operating system written in Rust, designed to provide a flexible and customizable foundation for building various operating systems. This open-source project aims to explore new possibilities in OS design, with a focus on modularity and extensibility. By leveraging the Rust programming language, Arceos seeks to offer a high-performance and memory-safe platform for innovation and experimentation in the field of operating systems.
+Arceos is an open-source, experimental modular operating system developed in Rust, designed to provide a flexible and customizable foundation for building various computing systems. This project allows developers to experiment with novel OS architectures and explore the possibilities of modular design. By leveraging Rust's modern language features, Arceos aims to create a secure, efficient, and extensible operating system.
 
 ---
 

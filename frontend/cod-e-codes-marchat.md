@@ -1,6 +1,6 @@
 # Cod-e-Codes/marchat
 
-[![Stars](https://img.shields.io/github/stars/Cod-e-Codes/marchat?style=flat-square&color=yellow)](https://github.com/Cod-e-Codes/marchat/stargazers) [![Forks](https://img.shields.io/github/forks/Cod-e-Codes/marchat?style=flat-square&color=blue)](https://github.com/Cod-e-Codes/marchat/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cod-e-Codes/marchat?style=flat-square&color=yellow)](https://github.com/Cod-e-Codes/marchat/stargazers) [![Forks](https://img.shields.io/github/forks/Cod-e-Codes/marchat?style=flat-square&color=blue)](https://github.com/Cod-e-Codes/marchat/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal chat for developers: Go WebSocket server + Bubble Tea TUI client, optional E2E, reactions, DMs, channels, plugins, files, code snippets, admin UI. Backends: SQLite, PostgreSQL, or MySQL. Self-hosted.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

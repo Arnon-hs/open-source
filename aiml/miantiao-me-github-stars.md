@@ -1,6 +1,6 @@
 # miantiao-me/github-stars
 
-[![Stars](https://img.shields.io/github/stars/miantiao-me/github-stars?style=flat-square&color=yellow)](https://github.com/miantiao-me/github-stars/stargazers) [![Forks](https://img.shields.io/github/forks/miantiao-me/github-stars?style=flat-square&color=blue)](https://github.com/miantiao-me/github-stars/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miantiao-me/github-stars?style=flat-square&color=yellow)](https://github.com/miantiao-me/github-stars/stargazers) [![Forks](https://img.shields.io/github/forks/miantiao-me/github-stars?style=flat-square&color=blue)](https://github.com/miantiao-me/github-stars/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A Cloudflare-powered MCP (Model Context Protocol) Server that allows you to search and query your GitHub starred repositories using natural language.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-Spx is an open-source, 2D game engine designed for STEM education, compatible with Scratch, a popular platform for young learners. Developed in Go and XGo, this engine aims to provide a user-friendly environment for creating engaging educational games and interactive experiences. By leveraging the familiarity of Scratch, spx empowers educators and students to create and explore complex concepts in a fun and interactive way.
+Here's a brief summary for the goplus/spx open-source project:
+
+Spx is a free and open-source 2D game engine designed to be Scratch-compatible, making it an ideal tool for STEM education. Built on top of Go and XGo, spx allows developers to create engaging games and interactive experiences for students, promoting coding skills and problem-solving abilities. With spx, educators can easily create and share educational content that brings learning to life.
 
 ---
 

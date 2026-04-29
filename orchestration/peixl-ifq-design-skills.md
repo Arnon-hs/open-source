@@ -25,7 +25,7 @@ Orchestration · AI/ML · Design
 
 ## 📝 Summary
 
-The peixl/ifq-design-skills project is an open-source initiative that leverages AI/ML capabilities to empower users with agent-native design skills. This project enables users to generate verified HTML-first prototypes, decks, dashboards, motion demos, and export-ready visuals from ordinary prompts. By combining orchestration and AI/ML, it streamlines the design process and fosters creativity.
+The peixl/ifq-design-skills project is an open-source initiative that enables the creation of verified HTML-first prototypes, decks, dashboards, motion demos, and export-ready visuals directly from ordinary prompts. By utilizing AI/ML capabilities, this project streamlines the design process, facilitating the seamless transition from concept to reality. It serves as a powerful tool for designers and developers alike, enhancing collaboration and efficiency through orchestration of AI-driven design skills.
 
 ---
 

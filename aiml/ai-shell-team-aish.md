@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The aish project is an open-source initiative that aims to integrate Artificial Intelligence (AI) capabilities into shell environments, enabling a more intelligent and automated workflow. By evolving shell operations, aish seeks to enhance productivity and streamline tasks through AI-driven decision-making. This project has potential applications in various fields, including automation, data analysis, and system administration.
+The 'aish' project is an open-source initiative that aims to integrate artificial intelligence (AI) capabilities into the shell. It enables shell operations to become more intelligent, evolving the way users interact with their command-line interfaces. By empowering the shell to think, 'aish' seeks to revolutionize the way tasks are automated and executed.
 
 ---
 

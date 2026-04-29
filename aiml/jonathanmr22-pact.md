@@ -25,7 +25,9 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The Programmatic Agent Constraint Toolkit (PACT) is an open-source governance infrastructure for AI coding agents, providing a Claude Code plugin marketplace. PACT enables developers to manage and govern AI coding agents, promoting transparency and accountability in AI development. This platform empowers users to create, deploy, and manage AI coding agents with ease, driving innovation and efficiency in the field of artificial intelligence.
+Here's a brief summary of the project:
+
+PACT (Programmatic Agent Constraint Toolkit) is an open-source governance infrastructure for AI coding agents, providing a framework for managing and regulating the behavior of autonomous coding tools. It serves as a marketplace for the Claude Code plugin, allowing developers to create, share, and manage AI-powered coding agents. This project empowers the development of more efficient, secure, and compliant AI coding agents.
 
 ---
 

@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-The Slate project is an open-source, one-command terminal setup that simplifies the process of configuring macOS and Linux environments. This comprehensive setup includes synchronized themes, prompts, fonts, and tools to provide a unified and streamlined user experience. With Slate, users can easily customize their terminal to meet their needs and preferences.
+Here's a brief summary for the open-source project:
+
+The Slate project is an open-source, one-command terminal setup for macOS and Linux users, providing a seamless integration of themes, prompts, fonts, and essential tools. With Slate, you can easily customize your terminal experience and have all your settings in sync across different environments. This DevTools project streamlines your terminal setup, saving you time and effort.
 
 ---
 

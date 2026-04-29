@@ -1,6 +1,6 @@
 # cloudflare/terraform-provider-cloudflare
 
-[![Stars](https://img.shields.io/github/stars/cloudflare/terraform-provider-cloudflare?style=flat-square&color=yellow)](https://github.com/cloudflare/terraform-provider-cloudflare/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/terraform-provider-cloudflare?style=flat-square&color=blue)](https://github.com/cloudflare/terraform-provider-cloudflare/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudflare/terraform-provider-cloudflare?style=flat-square&color=yellow)](https://github.com/cloudflare/terraform-provider-cloudflare/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/terraform-provider-cloudflare?style=flat-square&color=blue)](https://github.com/cloudflare/terraform-provider-cloudflare/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Cloudflare Terraform Provider
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 818 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # intigriti/misconfig-mapper
 
-[![Stars](https://img.shields.io/github/stars/intigriti/misconfig-mapper?style=flat-square&color=yellow)](https://github.com/intigriti/misconfig-mapper/stargazers) [![Forks](https://img.shields.io/github/forks/intigriti/misconfig-mapper?style=flat-square&color=blue)](https://github.com/intigriti/misconfig-mapper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intigriti/misconfig-mapper?style=flat-square&color=yellow)](https://github.com/intigriti/misconfig-mapper/stargazers) [![Forks](https://img.shields.io/github/forks/intigriti/misconfig-mapper?style=flat-square&color=blue)](https://github.com/intigriti/misconfig-mapper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 902 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

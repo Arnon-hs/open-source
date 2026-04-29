@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The 'han' project is an open-source, compiled programming language that incorporates Korean keywords, providing a unique language experience for developers familiar with the Korean language. Written in Rust, this language aims to bridge the gap between programming and linguistic diversity. By using Korean keywords, 'han' seeks to promote inclusivity and accessibility in the world of programming.
+The 'han' project is an open-source, compiled programming language that incorporates Korean keywords, aiming to provide a unique coding experience for developers. Written in Rust, the language offers a distinct approach to programming, leveraging the Korean language to simplify coding processes. This endeavor is a significant contribution to the programming community, particularly in regions where Korean is predominantly spoken.
 
 ---
 

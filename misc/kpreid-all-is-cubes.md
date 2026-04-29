@@ -1,6 +1,6 @@
 # kpreid/all-is-cubes
 
-[![Stars](https://img.shields.io/github/stars/kpreid/all-is-cubes?style=flat-square&color=yellow)](https://github.com/kpreid/all-is-cubes/stargazers) [![Forks](https://img.shields.io/github/forks/kpreid/all-is-cubes?style=flat-square&color=blue)](https://github.com/kpreid/all-is-cubes/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kpreid/all-is-cubes?style=flat-square&color=yellow)](https://github.com/kpreid/all-is-cubes/stargazers) [![Forks](https://img.shields.io/github/forks/kpreid/all-is-cubes?style=flat-square&color=blue)](https://github.com/kpreid/all-is-cubes/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Yet another block/voxel game; in this one the blocks are made out of blocks. Runs in browsers on WebGPU+WebAssembly.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

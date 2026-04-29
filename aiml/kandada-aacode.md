@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the kandada/aacode project:
 
-kandada/aacode is an open-source, Python-based CLI coding assistant that offers a lightweight and flexible alternative to existing coding agents like Claude Code and OpenCode. It features pluggable model support, enabling users to integrate various AI models, including DeepSeek, to enhance coding productivity. This tool is designed for developers seeking a customizable and efficient coding experience.
+kandada/aacode is an open-source, Python-based CLI coding assistant designed for developers. It offers a lightweight and flexible framework for generating code, supporting pluggable model integration with DeepSeek and other models. This tool aims to provide a versatile alternative to existing coding agents like Claude Code and OpenCode.
 
 ---
 

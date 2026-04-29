@@ -1,6 +1,6 @@
 # Neverous/efibooteditor
 
-[![Stars](https://img.shields.io/github/stars/Neverous/efibooteditor?style=flat-square&color=yellow)](https://github.com/Neverous/efibooteditor/stargazers) [![Forks](https://img.shields.io/github/forks/Neverous/efibooteditor?style=flat-square&color=blue)](https://github.com/Neverous/efibooteditor/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Neverous/efibooteditor?style=flat-square&color=yellow)](https://github.com/Neverous/efibooteditor/stargazers) [![Forks](https://img.shields.io/github/forks/Neverous/efibooteditor?style=flat-square&color=blue)](https://github.com/Neverous/efibooteditor/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Boot Editor for (U)EFI based systems
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 429 |
-| 🍴 **Forks** | 33 |
+| ⭐ **Stars** | 430 |
+| 🍴 **Forks** | 34 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

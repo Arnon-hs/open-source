@@ -1,6 +1,6 @@
 # jwwsjlm/douyinLive
 
-[![Stars](https://img.shields.io/github/stars/jwwsjlm/douyinLive?style=flat-square&color=yellow)](https://github.com/jwwsjlm/douyinLive/stargazers) [![Forks](https://img.shields.io/github/forks/jwwsjlm/douyinLive?style=flat-square&color=blue)](https://github.com/jwwsjlm/douyinLive/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jwwsjlm/douyinLive?style=flat-square&color=yellow)](https://github.com/jwwsjlm/douyinLive/stargazers) [![Forks](https://img.shields.io/github/forks/jwwsjlm/douyinLive?style=flat-square&color=blue)](https://github.com/jwwsjlm/douyinLive/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 抖音弹幕抓取
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 328 |
+| ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

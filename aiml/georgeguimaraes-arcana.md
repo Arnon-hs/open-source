@@ -1,6 +1,6 @@
 # georgeguimaraes/arcana
 
-[![Stars](https://img.shields.io/github/stars/georgeguimaraes/arcana?style=flat-square&color=yellow)](https://github.com/georgeguimaraes/arcana/stargazers) [![Forks](https://img.shields.io/github/forks/georgeguimaraes/arcana?style=flat-square&color=blue)](https://github.com/georgeguimaraes/arcana/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/georgeguimaraes/arcana?style=flat-square&color=yellow)](https://github.com/georgeguimaraes/arcana/stargazers) [![Forks](https://img.shields.io/github/forks/georgeguimaraes/arcana?style=flat-square&color=blue)](https://github.com/georgeguimaraes/arcana/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Embeddable RAG library for Elixir/Phoenix with agentic pipelines and dashboard
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 292 |
+| ⭐ **Stars** | 293 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The AWESOME-Azure-Bicep project is an open-source collection of resources specifically designed to aid in learning and mastering Azure Bicep. This curated list encompasses a wide range of valuable content, including tutorials, code examples, and tools, contributed by experts in the field. It serves as a comprehensive starting point for DevOps and infrastructure professionals looking to leverage Azure Bicep in their workflows.
+AWESOME-Azure-Bicep is an open-source project that serves as a comprehensive resource hub for learning Azure Bicep, a declarative DevOps tool for defining and managing Azure infrastructure as code. Maintained by a community of experts, this collection includes blogs, tutorials, videos, code examples, and tools to help users get started with Azure Bicep. It provides a one-stop-shop for developers, DevOps professionals, and infrastructure specialists looking to upskill in Azure Bicep.
 
 ---
 

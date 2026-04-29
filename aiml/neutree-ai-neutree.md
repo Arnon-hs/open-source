@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Neutree is an open-source, enterprise-grade private Model-as-a-Service (MaaS) platform that provides a secure and scalable solution for deploying and managing artificial intelligence (AI) and machine learning (ML) models. This platform enables organizations to develop, deploy, and manage their AI models in a private, on-premises environment, ensuring control and compliance with sensitive data. By leveraging Neutree, businesses can accelerate their AI adoption while maintaining the security and governance required for their enterprise needs.
+Here's a brief summary of the neutree project:
+
+Neutree is an open-source, enterprise-grade Private Model-as-a-Service (MaaS) platform that empowers organizations to securely deploy and manage AI/ML models. This platform provides a robust infrastructure for model deployment, management, and governance, ensuring compliance with data privacy regulations. By leveraging neutree, businesses can unlock the full potential of their AI/ML models while maintaining complete control over their sensitive data.
 
 ---
 

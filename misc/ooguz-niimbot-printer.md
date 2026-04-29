@@ -1,6 +1,6 @@
 # ooguz/niimbot-printer
 
-[![Stars](https://img.shields.io/github/stars/ooguz/niimbot-printer?style=flat-square&color=yellow)](https://github.com/ooguz/niimbot-printer/stargazers) [![Forks](https://img.shields.io/github/forks/ooguz/niimbot-printer?style=flat-square&color=blue)](https://github.com/ooguz/niimbot-printer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ooguz/niimbot-printer?style=flat-square&color=yellow)](https://github.com/ooguz/niimbot-printer/stargazers) [![Forks](https://img.shields.io/github/forks/ooguz/niimbot-printer?style=flat-square&color=blue)](https://github.com/ooguz/niimbot-printer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Print labels on NIIMBOT B1
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the project:
 
-In this project, the author leverages the Gemini CLI to automate and streamline a complex Relational-to-Aggregate (RAG) migration. By utilizing Gemini CLI, the author simplifies the process of migrating data from relational databases to aggregate data structures, making it easier to implement Domain-Driven Design (DDD) principles in software development. This project showcases the power of Gemini CLI in orchestrating complex data migrations.
+This open-source project showcases a practical use case of Gemini CLI in orchestrating a complex RAG (Risk and Assurance Gateway) migration. By leveraging Gemini CLI's capabilities, the project demonstrates how to streamline and automate a challenging migration process. The project provides a valuable resource for developers and DevOps teams seeking to simplify their migration workflows.
 
 ---
 

@@ -1,6 +1,6 @@
 # d-tsuji/awesome-go-orms
 
-[![Stars](https://img.shields.io/github/stars/d-tsuji/awesome-go-orms?style=flat-square&color=yellow)](https://github.com/d-tsuji/awesome-go-orms/stargazers) [![Forks](https://img.shields.io/github/forks/d-tsuji/awesome-go-orms?style=flat-square&color=blue)](https://github.com/d-tsuji/awesome-go-orms/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/d-tsuji/awesome-go-orms?style=flat-square&color=yellow)](https://github.com/d-tsuji/awesome-go-orms/stargazers) [![Forks](https://img.shields.io/github/forks/d-tsuji/awesome-go-orms?style=flat-square&color=blue)](https://github.com/d-tsuji/awesome-go-orms/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > ORMs for Go, most starred on GitHub.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 647 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # SylvanFranklin/.config
 
-[![Stars](https://img.shields.io/github/stars/SylvanFranklin/.config?style=flat-square&color=yellow)](https://github.com/SylvanFranklin/.config/stargazers) [![Forks](https://img.shields.io/github/forks/SylvanFranklin/.config?style=flat-square&color=blue)](https://github.com/SylvanFranklin/.config/network) [![Language](https://img.shields.io/badge/lang-HolyC-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SylvanFranklin/.config?style=flat-square&color=yellow)](https://github.com/SylvanFranklin/.config/stargazers) [![Forks](https://img.shields.io/github/forks/SylvanFranklin/.config?style=flat-square&color=blue)](https://github.com/SylvanFranklin/.config/network) [![Language](https://img.shields.io/badge/lang-HolyC-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Secret Forum
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 429 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | HolyC |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

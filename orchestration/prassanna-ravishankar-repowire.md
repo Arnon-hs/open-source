@@ -1,6 +1,6 @@
 # prassanna-ravishankar/repowire
 
-[![Stars](https://img.shields.io/github/stars/prassanna-ravishankar/repowire?style=flat-square&color=yellow)](https://github.com/prassanna-ravishankar/repowire/stargazers) [![Forks](https://img.shields.io/github/forks/prassanna-ravishankar/repowire?style=flat-square&color=blue)](https://github.com/prassanna-ravishankar/repowire/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prassanna-ravishankar/repowire?style=flat-square&color=yellow)](https://github.com/prassanna-ravishankar/repowire/stargazers) [![Forks](https://img.shields.io/github/forks/prassanna-ravishankar/repowire?style=flat-square&color=blue)](https://github.com/prassanna-ravishankar/repowire/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Peer-to-peer mesh for AI coding agents - connect Claude Code, Opencode, Codex, Gemini CLI across projects
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 64 |
-| 🍴 **Forks** | 17 |
+| ⭐ **Stars** | 80 |
+| 🍴 **Forks** | 18 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 

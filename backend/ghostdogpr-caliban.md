@@ -1,6 +1,6 @@
 # ghostdogpr/caliban
 
-[![Stars](https://img.shields.io/github/stars/ghostdogpr/caliban?style=flat-square&color=yellow)](https://github.com/ghostdogpr/caliban/stargazers) [![Forks](https://img.shields.io/github/forks/ghostdogpr/caliban?style=flat-square&color=blue)](https://github.com/ghostdogpr/caliban/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ghostdogpr/caliban?style=flat-square&color=yellow)](https://github.com/ghostdogpr/caliban/stargazers) [![Forks](https://img.shields.io/github/forks/ghostdogpr/caliban?style=flat-square&color=blue)](https://github.com/ghostdogpr/caliban/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Functional GraphQL library for Scala
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 992 |
 | 🍴 **Forks** | 263 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

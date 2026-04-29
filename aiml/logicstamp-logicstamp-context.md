@@ -1,6 +1,6 @@
 # LogicStamp/logicstamp-context
 
-[![Stars](https://img.shields.io/github/stars/LogicStamp/logicstamp-context?style=flat-square&color=yellow)](https://github.com/LogicStamp/logicstamp-context/stargazers) [![Forks](https://img.shields.io/github/forks/LogicStamp/logicstamp-context?style=flat-square&color=blue)](https://github.com/LogicStamp/logicstamp-context/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LogicStamp/logicstamp-context?style=flat-square&color=yellow)](https://github.com/LogicStamp/logicstamp-context/stargazers) [![Forks](https://img.shields.io/github/forks/LogicStamp/logicstamp-context?style=flat-square&color=blue)](https://github.com/LogicStamp/logicstamp-context/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A Context Compiler for TypeScript. Deterministic, diffable architectural contracts and dependency graphs for AI coding workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

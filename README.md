@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **10896** |
+| 🗂️ **Total projects** | **10962** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4193 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2067 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1072 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 873 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 655 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 637 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 390 | [Browse →](./crypto/) |
-| 📊 **Data** | 236 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 226 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 135 | [Browse →](./mobile/) |
-| 💳 **Payments** | 125 | [Browse →](./payments/) |
-| 📈 **Trading** | 109 | [Browse →](./trading/) |
+| 🤖 **AI/ML** | 4207 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2090 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1080 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 876 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 657 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 646 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 392 | [Browse →](./crypto/) |
+| 📊 **Data** | 237 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 228 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 136 | [Browse →](./mobile/) |
+| 💳 **Payments** | 124 | [Browse →](./payments/) |
+| 📈 **Trading** | 111 | [Browse →](./trading/) |
 | 🔐 **Security** | 96 | [Browse →](./security/) |
 | ✨ **Design** | 36 | [Browse →](./design/) |
 | 🎯 **Product** | 25 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [expo/expo](./frontend/expo-expo.md) | ⭐ 49.1k | Frontend |
-| 2 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
-| 3 | [fatedier/frp](./backend/fatedier-frp.md) | ⭐ 106.1k | Backend |
-| 4 | [coollabsio/coolify](./backend/coollabsio-coolify.md) | ⭐ 54.3k | Backend |
-| 5 | [promptfoo/promptfoo](./aiml/promptfoo-promptfoo.md) | ⭐ 20.7k | AI/ML |
-| 6 | [projectdiscovery/nuclei-templates](./security/projectdiscovery-nuclei-templates.md) | ⭐ 12.3k | Security |
-| 7 | [playframework/playframework](./aiml/playframework-playframework.md) | ⭐ 12.6k | AI/ML |
-| 8 | [roboflow/supervision](./misc/roboflow-supervision.md) | ⭐ 38.2k | Misc |
-| 9 | [CherryHQ/cherry-studio](./aiml/cherryhq-cherry-studio.md) | ⭐ 44.7k | AI/ML |
-| 10 | [RIOT-OS/RIOT](./misc/riot-os-riot.md) | ⭐ 5.7k | Misc |
+| 1 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
+| 2 | [docling-project/docling](./aiml/docling-project-docling.md) | ⭐ 58.7k | AI/ML |
+| 3 | [flutter/flutter](./frontend/flutter-flutter.md) | ⭐ 176.1k | Frontend |
+| 4 | [unslothai/unsloth](./aiml/unslothai-unsloth.md) | ⭐ 63.2k | AI/ML |
+| 5 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 6 | [HKUDS/DeepTutor](./orchestration/hkuds-deeptutor.md) | ⭐ 22.4k | Orchestration |
+| 7 | [OutlineFoundation/outline-apps](./backend/outlinefoundation-outline-apps.md) | ⭐ 9.1k | Backend |
+| 8 | [sktime/sktime](./aiml/sktime-sktime.md) | ⭐ 9.7k | AI/ML |
+| 9 | [oppia/oppia](./misc/oppia-oppia.md) | ⭐ 6.7k | Misc |
+| 10 | [dotnet/maui](./frontend/dotnet-maui.md) | ⭐ 23.2k | Frontend |
 
 ## 🚀 How it works
 

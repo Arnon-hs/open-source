@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/GRCEngClub/claude-grc-engineering?style=flat-square&color=yellow)](https://github.com/GRCEngClub/claude-grc-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/GRCEngClub/claude-grc-engineering?style=flat-square&color=blue)](https://github.com/GRCEngClub/claude-grc-engineering/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Official open-source GRC toolkit from the GRC Engineering Club. Claude Code plugins for evidence collection, SCF crosswalks, multi-framework gap reports, OSCAL workflows.
+> Open-source GRC toolkit from the GRC Engineering Club. Claude Code plugins for evidence collection, SCF crosswalks, multi-framework gap reports, OSCAL workflows.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 98 |
+| ⭐ **Stars** | 99 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 51/100 |

@@ -1,6 +1,6 @@
 # truecourse-ai/truecourse
 
-[![Stars](https://img.shields.io/github/stars/truecourse-ai/truecourse?style=flat-square&color=yellow)](https://github.com/truecourse-ai/truecourse/stargazers) [![Forks](https://img.shields.io/github/forks/truecourse-ai/truecourse?style=flat-square&color=blue)](https://github.com/truecourse-ai/truecourse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/truecourse-ai/truecourse?style=flat-square&color=yellow)](https://github.com/truecourse-ai/truecourse/stargazers) [![Forks](https://img.shields.io/github/forks/truecourse-ai/truecourse?style=flat-square&color=blue)](https://github.com/truecourse-ai/truecourse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered architecture analysis and code intelligence. Detects circular deps, layer violations, dead modules, and more. Web UI + CLI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 299 |
+| ⭐ **Stars** | 300 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

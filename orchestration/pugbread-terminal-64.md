@@ -1,6 +1,6 @@
 # Pugbread/Terminal-64
 
-[![Stars](https://img.shields.io/github/stars/Pugbread/Terminal-64?style=flat-square&color=yellow)](https://github.com/Pugbread/Terminal-64/stargazers) [![Forks](https://img.shields.io/github/forks/Pugbread/Terminal-64?style=flat-square&color=blue)](https://github.com/Pugbread/Terminal-64/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pugbread/Terminal-64?style=flat-square&color=yellow)](https://github.com/Pugbread/Terminal-64/stargazers) [![Forks](https://img.shields.io/github/forks/Pugbread/Terminal-64?style=flat-square&color=blue)](https://github.com/Pugbread/Terminal-64/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Canvas-based terminal emulator with multi-agent Claude Code, widgets, and MCP — Tauri + React + xterm.js
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

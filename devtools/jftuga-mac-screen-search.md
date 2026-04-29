@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The mac-screen-search project is an open-source command-line tool designed for macOS users. It allows users to search, highlight, and redact text on their screen or within files, making it a useful utility for developers, researchers, and anyone else who needs to efficiently locate specific information. This tool can be accessed through a simple CLI interface.
+The mac-screen-search project is a command-line interface (CLI) tool designed for macOS users. It enables users to search for, highlight, and redact text on their screen or within files, providing a convenient way to manage and protect sensitive information. This open-source project aims to simplify text search and manipulation tasks.
 
 ---
 

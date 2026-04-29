@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The forme project is an open-source library that enables the creation of PDFs from JSX templates, offering a user-friendly solution for developers to generate high-quality PDFs. A notable feature of forme is its ability to handle page breaks effectively, ensuring a seamless and professional-looking output. This library streamlines the PDF generation process, making it easier to integrate into various applications and workflows.
+forme is an open-source project that enables PDF generation using JSX, allowing developers to create complex documents with ease. A key feature of forme is its ability to handle page breaks effectively, making it a valuable tool for generating professional-looking PDFs. This project streamlines the process of creating custom PDFs for web applications.
 
 ---
 

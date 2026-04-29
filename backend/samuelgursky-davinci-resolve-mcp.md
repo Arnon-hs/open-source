@@ -25,7 +25,7 @@ Backend · Design
 
 ## 📝 Summary
 
-The davinci-resolve-mcp project is an open-source integration that enables seamless communication between DaVinci Resolve and the MediaCentral Platform (MCP) server. This integration facilitates the transfer of media and metadata between Resolve and MCP, enhancing workflow efficiency for media professionals. By bridging the two systems, the project aims to streamline collaboration and asset management in post-production environments.
+The davinci-resolve-mcp project integrates a MediaCentral Platform (MCP) server with DaVinci Resolve, a professional video editing software. This integration enables seamless media management and content exchange between MCP and DaVinci Resolve, streamlining workflows for media professionals. By leveraging this open-source solution, users can enhance their collaboration and productivity capabilities.
 
 ---
 

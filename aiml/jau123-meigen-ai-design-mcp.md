@@ -1,6 +1,6 @@
 # jau123/MeiGen-AI-Design-MCP
 
-[![Stars](https://img.shields.io/github/stars/jau123/MeiGen-AI-Design-MCP?style=flat-square&color=yellow)](https://github.com/jau123/MeiGen-AI-Design-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/jau123/MeiGen-AI-Design-MCP?style=flat-square&color=blue)](https://github.com/jau123/MeiGen-AI-Design-MCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jau123/MeiGen-AI-Design-MCP?style=flat-square&color=yellow)](https://github.com/jau123/MeiGen-AI-Design-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/jau123/MeiGen-AI-Design-MCP?style=flat-square&color=blue)](https://github.com/jau123/MeiGen-AI-Design-MCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > MeiGen-AI-Design-MCP — Turn Claude Code / OpenClaw into your local Lovart. Local ComfyUI, 1,400+ prompt library, multi-direction parallel generation.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 720 |
-| 🍴 **Forks** | 96 |
+| ⭐ **Stars** | 721 |
+| 🍴 **Forks** | 97 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

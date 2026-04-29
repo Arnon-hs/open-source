@@ -1,6 +1,6 @@
 # pydata/xarray
 
-[![Stars](https://img.shields.io/github/stars/pydata/xarray?style=flat-square&color=yellow)](https://github.com/pydata/xarray/stargazers) [![Forks](https://img.shields.io/github/forks/pydata/xarray?style=flat-square&color=blue)](https://github.com/pydata/xarray/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pydata/xarray?style=flat-square&color=yellow)](https://github.com/pydata/xarray/stargazers) [![Forks](https://img.shields.io/github/forks/pydata/xarray?style=flat-square&color=blue)](https://github.com/pydata/xarray/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
 
 > N-D labeled arrays and datasets in Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 91/100 |
+| 📈 **Score** | 92/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

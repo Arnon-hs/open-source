@@ -25,7 +25,7 @@ Payments · DevTools
 
 ## 📝 Summary
 
-The nexus4cc project is an open-source initiative that enables seamless integration of Claude Code, a cutting-edge AI technology, across various platforms and applications. This project focuses on developing tools and infrastructure to facilitate the deployment and utilization of Claude Code in diverse contexts, including payments and development tools. By providing a unified framework, nexus4cc empowers developers to harness the potential of Claude Code for a wide range of use cases.
+The librae8226/nexus4cc project is an open-source initiative that aims to provide seamless integration of Claude capabilities across various platforms. By offering a unified interface, developers can easily utilize Claude's features for payments and other applications. This project is designed to make Claude-based development more accessible and efficient.
 
 ---
 

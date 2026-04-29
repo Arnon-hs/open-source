@@ -1,6 +1,6 @@
 # Priivacy-ai/spec-kitty
 
-[![Stars](https://img.shields.io/github/stars/Priivacy-ai/spec-kitty?style=flat-square&color=yellow)](https://github.com/Priivacy-ai/spec-kitty/stargazers) [![Forks](https://img.shields.io/github/forks/Priivacy-ai/spec-kitty?style=flat-square&color=blue)](https://github.com/Priivacy-ai/spec-kitty/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Priivacy-ai/spec-kitty?style=flat-square&color=yellow)](https://github.com/Priivacy-ai/spec-kitty/stargazers) [![Forks](https://img.shields.io/github/forks/Priivacy-ai/spec-kitty?style=flat-square&color=blue)](https://github.com/Priivacy-ai/spec-kitty/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban dashboard, git worktrees, auto-merge and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

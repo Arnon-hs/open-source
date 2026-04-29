@@ -1,6 +1,6 @@
 # gpshead/cpython-skills
 
-[![Stars](https://img.shields.io/github/stars/gpshead/cpython-skills?style=flat-square&color=yellow)](https://github.com/gpshead/cpython-skills/stargazers) [![Forks](https://img.shields.io/github/forks/gpshead/cpython-skills?style=flat-square&color=blue)](https://github.com/gpshead/cpython-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gpshead/cpython-skills?style=flat-square&color=yellow)](https://github.com/gpshead/cpython-skills/stargazers) [![Forks](https://img.shields.io/github/forks/gpshead/cpython-skills?style=flat-square&color=blue)](https://github.com/gpshead/cpython-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A Claude Code marketplace and skill for working in the cpython repo.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

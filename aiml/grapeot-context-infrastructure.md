@@ -25,7 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The grapeot/context-infrastructure project is an open-source framework that enables AI coding agents to manage context and memory persistently. It provides a robust infrastructure for storing personal rules, skills, and scheduled observations, facilitating seamless information exchange and recall for AI-driven applications. This framework is designed to support the development of intelligent coding agents with improved memory and contextual awareness.
+Here's a brief summary of the grapeot/context-infrastructure project:
+
+Grapeot/context-infrastructure is an open-source project that provides a context and memory system for AI coding agents, enabling the creation of intelligent, adaptable, and persistent coding environments. This system allows for the storage of personal rules, skills, and scheduled observations, making it an essential component for AI agents to learn, remember, and evolve over time. By offering a robust and flexible infrastructure, grapeot/context-infrastructure facilitates the development of sophisticated AI coding agents.
 
 ---
 

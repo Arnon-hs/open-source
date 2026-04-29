@@ -1,6 +1,6 @@
 # OpenHub-Store/GitHub-Store
 
-[![Stars](https://img.shields.io/github/stars/OpenHub-Store/GitHub-Store?style=flat-square&color=yellow)](https://github.com/OpenHub-Store/GitHub-Store/stargazers) [![Forks](https://img.shields.io/github/forks/OpenHub-Store/GitHub-Store?style=flat-square&color=blue)](https://github.com/OpenHub-Store/GitHub-Store/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenHub-Store/GitHub-Store?style=flat-square&color=yellow)](https://github.com/OpenHub-Store/GitHub-Store/stargazers) [![Forks](https://img.shields.io/github/forks/OpenHub-Store/GitHub-Store?style=flat-square&color=blue)](https://github.com/OpenHub-Store/GitHub-Store/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
 
 > 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 12.3k |
-| 🍴 **Forks** | 433 |
+| 🍴 **Forks** | 434 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 91/100 |
+| 📈 **Score** | 92/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # lidge-jun/ima2-gen
 
-[![Stars](https://img.shields.io/github/stars/lidge-jun/ima2-gen?style=flat-square&color=yellow)](https://github.com/lidge-jun/ima2-gen/stargazers) [![Forks](https://img.shields.io/github/forks/lidge-jun/ima2-gen?style=flat-square&color=blue)](https://github.com/lidge-jun/ima2-gen/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lidge-jun/ima2-gen?style=flat-square&color=yellow)](https://github.com/lidge-jun/ima2-gen/stargazers) [![Forks](https://img.shields.io/github/forks/lidge-jun/ima2-gen?style=flat-square&color=blue)](https://github.com/lidge-jun/ima2-gen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal CLI + web UI for OpenAI GPT Image 2 generation. Dual auth: API Key (paid) or OAuth via ChatGPT (free). Text-to-image, image-to-image, parallel gen, custom sizes.
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 114 |
+| ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 21 |
-| 💻 **Language** | JavaScript |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

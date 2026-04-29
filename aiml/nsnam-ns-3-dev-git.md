@@ -1,6 +1,6 @@
 # nsnam/ns-3-dev-git
 
-[![Stars](https://img.shields.io/github/stars/nsnam/ns-3-dev-git?style=flat-square&color=yellow)](https://github.com/nsnam/ns-3-dev-git/stargazers) [![Forks](https://img.shields.io/github/forks/nsnam/ns-3-dev-git?style=flat-square&color=blue)](https://github.com/nsnam/ns-3-dev-git/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nsnam/ns-3-dev-git?style=flat-square&color=yellow)](https://github.com/nsnam/ns-3-dev-git/stargazers) [![Forks](https://img.shields.io/github/forks/nsnam/ns-3-dev-git?style=flat-square&color=blue)](https://github.com/nsnam/ns-3-dev-git/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub read-only mirror of ns-3-dev repository, will be kept in sync with main GitLab.com repository.  Please DO NOT file pull requests here; instead, file issues and merge requests at https://gitlab.com/nsnam/ns-3-dev/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 539 |
 | 🍴 **Forks** | 658 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

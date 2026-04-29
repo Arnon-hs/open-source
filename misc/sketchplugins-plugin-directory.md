@@ -1,6 +1,6 @@
 # sketchplugins/plugin-directory
 
-[![Stars](https://img.shields.io/github/stars/sketchplugins/plugin-directory?style=flat-square&color=yellow)](https://github.com/sketchplugins/plugin-directory/stargazers) [![Forks](https://img.shields.io/github/forks/sketchplugins/plugin-directory?style=flat-square&color=blue)](https://github.com/sketchplugins/plugin-directory/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sketchplugins/plugin-directory?style=flat-square&color=yellow)](https://github.com/sketchplugins/plugin-directory/stargazers) [![Forks](https://img.shields.io/github/forks/sketchplugins/plugin-directory?style=flat-square&color=blue)](https://github.com/sketchplugins/plugin-directory/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Official Sketch Plugin directory
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 681 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

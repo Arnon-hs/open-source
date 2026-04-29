@@ -1,6 +1,6 @@
 # henson/Scraper
 
-[![Stars](https://img.shields.io/github/stars/henson/Scraper?style=flat-square&color=yellow)](https://github.com/henson/Scraper/stargazers) [![Forks](https://img.shields.io/github/forks/henson/Scraper?style=flat-square&color=blue)](https://github.com/henson/Scraper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/henson/Scraper?style=flat-square&color=yellow)](https://github.com/henson/Scraper/stargazers) [![Forks](https://img.shields.io/github/forks/henson/Scraper?style=flat-square&color=blue)](https://github.com/henson/Scraper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Tracking the most popular Github repos, updated daily.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The open-jet project by L-Forster provides a unified backend, setup, and coding harness for local large language models (LLMs), allowing for seamless integration and management of these complex AI systems. This project, built on Claude Code, offers a streamlined approach to working with local LLMs, making it an ideal choice for developers and researchers seeking to leverage the power of LLMs in their applications. With open-jet, users can easily set up and deploy their own LLM models.
+The open-jet project by L-Forster is an open-source initiative that aims to provide a unified backend, setup, and coding harness for developing and utilizing local large language models (LLMs). It offers a comprehensive framework, based on Claude Code, to create and deploy customized LLMs, empowering users to build and integrate their own AI models. This project caters to the needs of developers and researchers working with AI/ML, providing a flexible and accessible solution for local LLM development.
 
 ---
 

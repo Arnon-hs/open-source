@@ -1,6 +1,6 @@
 # IvanJosipovic/KubeUI
 
-[![Stars](https://img.shields.io/github/stars/IvanJosipovic/KubeUI?style=flat-square&color=yellow)](https://github.com/IvanJosipovic/KubeUI/stargazers) [![Forks](https://img.shields.io/github/forks/IvanJosipovic/KubeUI?style=flat-square&color=blue)](https://github.com/IvanJosipovic/KubeUI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IvanJosipovic/KubeUI?style=flat-square&color=yellow)](https://github.com/IvanJosipovic/KubeUI/stargazers) [![Forks](https://img.shields.io/github/forks/IvanJosipovic/KubeUI?style=flat-square&color=blue)](https://github.com/IvanJosipovic/KubeUI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes User Interface
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

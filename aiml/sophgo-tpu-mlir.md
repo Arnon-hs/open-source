@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The sophgo/tpu-mlir project is an open-source machine learning compiler built on top of MLIR (Machine Learning Intermediate Representation) infrastructure, specifically designed for Sophgo TPU. This compiler aims to leverage MLIR's modularity and flexibility to optimize machine learning workloads for Sophgo's Tensor Processing Unit (TPU), enabling efficient deployment of AI and ML models. By utilizing MLIR, the project facilitates the development of portable and scalable machine learning applications on Sophgo TPU.
+The sophgo/tpu-mlir project is an open-source machine learning compiler that utilizes the MLIR framework to optimize and accelerate machine learning workloads on Sophgo TPU devices. By leveraging MLIR's modular and extensible design, this compiler enables efficient compilation and execution of machine learning models on Sophgo TPUs, improving performance and scalability. This project aims to bridge the gap between existing machine learning frameworks and the Sophgo TPU hardware, promoting easier adoption and faster development of TPU-optimized models.
 
 ---
 

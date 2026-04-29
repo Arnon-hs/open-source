@@ -1,6 +1,6 @@
 # tuyoogame/tyclaw.rs
 
-[![Stars](https://img.shields.io/github/stars/tuyoogame/tyclaw.rs?style=flat-square&color=yellow)](https://github.com/tuyoogame/tyclaw.rs/stargazers) [![Forks](https://img.shields.io/github/forks/tuyoogame/tyclaw.rs?style=flat-square&color=blue)](https://github.com/tuyoogame/tyclaw.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tuyoogame/tyclaw.rs?style=flat-square&color=yellow)](https://github.com/tuyoogame/tyclaw.rs/stargazers) [![Forks](https://img.shields.io/github/forks/tuyoogame/tyclaw.rs?style=flat-square&color=blue)](https://github.com/tuyoogame/tyclaw.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > 企业级AI Agent的Rust实现，支持沙箱隔离，审计安全，使用统计，钉钉接入等实用功能。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

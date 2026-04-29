@@ -25,7 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Kubevela is an open-source, modern application platform that enables organizations to build, deploy, and manage complex cloud-native applications with ease. It provides a comprehensive set of tools and features to streamline the development, testing, and delivery of applications, making it an ideal choice for DevOps and infrastructure teams. With its scalability and flexibility, Kubevela empowers developers to focus on writing code, not managing infrastructure.
+Kubevela is an open-source Modern Application Platform that empowers developers to build, deploy, and manage cloud-native applications with ease. This platform leverages the power of Kubernetes to provide a scalable and flexible foundation for application development and deployment. By streamlining the application lifecycle, Kubevela enables teams to accelerate innovation and achieve faster time-to-market.
 
 ---
 

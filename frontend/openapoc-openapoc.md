@@ -1,6 +1,6 @@
 # OpenApoc/OpenApoc
 
-[![Stars](https://img.shields.io/github/stars/OpenApoc/OpenApoc?style=flat-square&color=yellow)](https://github.com/OpenApoc/OpenApoc/stargazers) [![Forks](https://img.shields.io/github/forks/OpenApoc/OpenApoc?style=flat-square&color=blue)](https://github.com/OpenApoc/OpenApoc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenApoc/OpenApoc?style=flat-square&color=yellow)](https://github.com/OpenApoc/OpenApoc/stargazers) [![Forks](https://img.shields.io/github/forks/OpenApoc/OpenApoc?style=flat-square&color=blue)](https://github.com/OpenApoc/OpenApoc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Opensource rebuild of the XCOM Apocalypse Engine that requires the original files to run.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 574 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

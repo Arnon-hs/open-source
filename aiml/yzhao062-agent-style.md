@@ -25,7 +25,7 @@ AI/ML · Frontend · Marketing
 
 ## 📝 Summary
 
-The "agent-style" open-source project provides a set of 21 writing rules for AI coding and writing agents, such as Claude Code, Codex, Copilot, Cursor, and Aider. This drop-in solution helps to refine the output of these agents, making their writing style more suitable for professional settings. By implementing these rules, developers can improve the readability and clarity of AI-generated content.
+The agent-style project is an open-source initiative that provides 21 writing rules for coding and writing AI agents. This drop-in solution is designed to enhance the output of popular AI tools, including Claude Code, Codex, Copilot, Cursor, and Aider, making their generated content more professional and tech-savvy. The project aims to elevate the quality of AI-generated writing in the fields of AI/ML, frontend, and marketing.
 
 ---
 

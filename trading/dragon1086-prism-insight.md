@@ -25,9 +25,9 @@ Trading · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the project:
 
-"Prism Insight is an open-source AI-based stock analysis and trading system designed to provide users with comprehensive insights and data-driven decision making tools for informed investment and trading strategies. Leveraging machine learning and advanced analytics, Prism Insight aims to empower users to navigate complex financial markets with confidence and precision. By harnessing AI's predictive capabilities, this system can potentially improve trading outcomes and optimize investment returns."
+Prism Insight is an open-source AI-based stock analysis and trading system designed to provide users with data-driven insights and trading recommendations. Leveraging machine learning and AI capabilities, this system aims to streamline the trading process and help users make informed investment decisions. With its robust features and flexibility, Prism Insight is an ideal solution for both beginner and experienced traders seeking to optimize their stock trading strategies.
 
 ---
 

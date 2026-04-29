@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/sarowish/ytsub?style=flat-square&color=yellow)](https://github.com/sarowish/ytsub/stargazers) [![Forks](https://img.shields.io/github/forks/sarowish/ytsub?style=flat-square&color=blue)](https://github.com/sarowish/ytsub/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> A subscriptions only TUI Youtube client
+> A subscriptions only TUI YouTube client
 
 ## 📊 Stats
 
