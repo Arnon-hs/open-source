@@ -1,6 +1,6 @@
 # nightscout/Trio
 
-[![Stars](https://img.shields.io/github/stars/nightscout/Trio?style=flat-square&color=yellow)](https://github.com/nightscout/Trio/stargazers) [![Forks](https://img.shields.io/github/forks/nightscout/Trio?style=flat-square&color=blue)](https://github.com/nightscout/Trio/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nightscout/Trio?style=flat-square&color=yellow)](https://github.com/nightscout/Trio/stargazers) [![Forks](https://img.shields.io/github/forks/nightscout/Trio?style=flat-square&color=blue)](https://github.com/nightscout/Trio/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Trio - an automated insulin delivery system for iOS based on the OpenAPS algorithm with adaptations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

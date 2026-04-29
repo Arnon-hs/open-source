@@ -1,6 +1,6 @@
 # iBicha/playlet
 
-[![Stars](https://img.shields.io/github/stars/iBicha/playlet?style=flat-square&color=yellow)](https://github.com/iBicha/playlet/stargazers) [![Forks](https://img.shields.io/github/forks/iBicha/playlet?style=flat-square&color=blue)](https://github.com/iBicha/playlet/network) [![Language](https://img.shields.io/badge/lang-BrighterScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iBicha/playlet?style=flat-square&color=yellow)](https://github.com/iBicha/playlet/stargazers) [![Forks](https://img.shields.io/github/forks/iBicha/playlet?style=flat-square&color=blue)](https://github.com/iBicha/playlet/network) [![Language](https://img.shields.io/badge/lang-BrighterScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The unofficial, privacy driven, YouTube client for Roku
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 649 |
-| 🍴 **Forks** | 30 |
+| ⭐ **Stars** | 650 |
+| 🍴 **Forks** | 31 |
 | 💻 **Language** | BrighterScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

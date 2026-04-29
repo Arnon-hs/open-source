@@ -1,6 +1,6 @@
 # msmps/awesome-opentui
 
-[![Stars](https://img.shields.io/github/stars/msmps/awesome-opentui?style=flat-square&color=yellow)](https://github.com/msmps/awesome-opentui/stargazers) [![Forks](https://img.shields.io/github/forks/msmps/awesome-opentui?style=flat-square&color=blue)](https://github.com/msmps/awesome-opentui/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/msmps/awesome-opentui?style=flat-square&color=yellow)](https://github.com/msmps/awesome-opentui/stargazers) [![Forks](https://img.shields.io/github/forks/msmps/awesome-opentui?style=flat-square&color=blue)](https://github.com/msmps/awesome-opentui/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome opentui resources
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 273 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

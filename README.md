@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **10807** |
+| 🗂️ **Total projects** | **10844** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4167 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2046 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1061 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 866 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 648 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 629 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 389 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 4181 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2051 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1066 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 870 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 650 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 633 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 390 | [Browse →](./crypto/) |
 | 📊 **Data** | 236 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 223 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 224 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 134 | [Browse →](./mobile/) |
 | 💳 **Payments** | 124 | [Browse →](./payments/) |
 | 📈 **Trading** | 107 | [Browse →](./trading/) |
-| 🔐 **Security** | 95 | [Browse →](./security/) |
+| 🔐 **Security** | 96 | [Browse →](./security/) |
 | ✨ **Design** | 36 | [Browse →](./design/) |
 | 🎯 **Product** | 25 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 21 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [apache/hudi](./data/apache-hudi.md) | ⭐ 6.2k | Data |
-| 2 | [fatedier/frp](./backend/fatedier-frp.md) | ⭐ 106.1k | Backend |
-| 3 | [coollabsio/coolify](./backend/coollabsio-coolify.md) | ⭐ 54.3k | Backend |
-| 4 | [roboflow/supervision](./misc/roboflow-supervision.md) | ⭐ 38.2k | Misc |
-| 5 | [CherryHQ/cherry-studio](./aiml/cherryhq-cherry-studio.md) | ⭐ 44.7k | AI/ML |
-| 6 | [RIOT-OS/RIOT](./misc/riot-os-riot.md) | ⭐ 5.7k | Misc |
-| 7 | [unslothai/unsloth](./aiml/unslothai-unsloth.md) | ⭐ 63.2k | AI/ML |
-| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 9 | [dotnet/maui](./frontend/dotnet-maui.md) | ⭐ 23.2k | Frontend |
-| 10 | [Qiskit/qiskit](./trading/qiskit-qiskit.md) | ⭐ 7.3k | Trading |
+| 1 | [github/awesome-copilot](./orchestration/github-awesome-copilot.md) | ⭐ 31.5k | Orchestration |
+| 2 | [qax-os/excelize](./aiml/qax-os-excelize.md) | ⭐ 20.5k | AI/ML |
+| 3 | [expo/expo](./frontend/expo-expo.md) | ⭐ 49.1k | Frontend |
+| 4 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
+| 5 | [fatedier/frp](./backend/fatedier-frp.md) | ⭐ 106.1k | Backend |
+| 6 | [coollabsio/coolify](./backend/coollabsio-coolify.md) | ⭐ 54.3k | Backend |
+| 7 | [promptfoo/promptfoo](./aiml/promptfoo-promptfoo.md) | ⭐ 20.7k | AI/ML |
+| 8 | [projectdiscovery/nuclei-templates](./security/projectdiscovery-nuclei-templates.md) | ⭐ 12.3k | Security |
+| 9 | [playframework/playframework](./aiml/playframework-playframework.md) | ⭐ 12.6k | AI/ML |
+| 10 | [roboflow/supervision](./misc/roboflow-supervision.md) | ⭐ 38.2k | Misc |
 
 ## 🚀 How it works
 

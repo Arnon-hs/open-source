@@ -1,6 +1,6 @@
 # cyanheads/git-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/cyanheads/git-mcp-server?style=flat-square&color=yellow)](https://github.com/cyanheads/git-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cyanheads/git-mcp-server?style=flat-square&color=blue)](https://github.com/cyanheads/git-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyanheads/git-mcp-server?style=flat-square&color=yellow)](https://github.com/cyanheads/git-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cyanheads/git-mcp-server?style=flat-square&color=blue)](https://github.com/cyanheads/git-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP (Model Context Protocol) server enabling LLMs and AI agents to interact with Git repositories. Provides tools for comprehensive Git operations including clone, commit, branch, diff, log, status, push, pull, merge, rebase, worktree, tag management, and more, via the MCP standard. STDIO & HTTP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 211 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

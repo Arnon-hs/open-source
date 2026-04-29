@@ -1,6 +1,6 @@
 # getpaseo/paseo
 
-[![Stars](https://img.shields.io/github/stars/getpaseo/paseo?style=flat-square&color=yellow)](https://github.com/getpaseo/paseo/stargazers) [![Forks](https://img.shields.io/github/forks/getpaseo/paseo?style=flat-square&color=blue)](https://github.com/getpaseo/paseo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getpaseo/paseo?style=flat-square&color=yellow)](https://github.com/getpaseo/paseo/stargazers) [![Forks](https://img.shields.io/github/forks/getpaseo/paseo?style=flat-square&color=blue)](https://github.com/getpaseo/paseo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestrate coding agents remotely from your phone, desktop and CLI
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 428 |
+| 🍴 **Forks** | 429 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
