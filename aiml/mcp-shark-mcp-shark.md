@@ -1,6 +1,6 @@
 # mcp-shark/mcp-shark
 
-[![Stars](https://img.shields.io/github/stars/mcp-shark/mcp-shark?style=flat-square&color=yellow)](https://github.com/mcp-shark/mcp-shark/stargazers) [![Forks](https://img.shields.io/github/forks/mcp-shark/mcp-shark?style=flat-square&color=blue)](https://github.com/mcp-shark/mcp-shark/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mcp-shark/mcp-shark?style=flat-square&color=yellow)](https://github.com/mcp-shark/mcp-shark/stargazers) [![Forks](https://img.shields.io/github/forks/mcp-shark/mcp-shark?style=flat-square&color=blue)](https://github.com/mcp-shark/mcp-shark/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Wireshark-like forensic analysis for Model Context Protocol communications  Capture, inspect, and investigate all HTTP requests and responses between your IDE and MCP servers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

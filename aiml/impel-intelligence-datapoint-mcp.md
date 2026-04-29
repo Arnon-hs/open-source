@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-This open-source project enables real-time human opinion collection through a MCP (Multi-Client Protocol) server. The server allows agents to receive instant feedback from humans, facilitating the development and refinement of AI and machine learning models. By integrating human perspectives, this project aims to improve the accuracy and reliability of AI decision-making processes.
+This open-source project provides a real-time human opinion collection system via a Microservices-based Container Platform (MCP) server. The server enables agents to gather opinions from humans in real-time, facilitating applications in areas like AI/ML model evaluation, customer feedback, and market research. It aims to bridge the gap between machine decision-making and human input.
 
 ---
 

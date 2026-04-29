@@ -1,6 +1,6 @@
 # owensgroup/RXMesh
 
-[![Stars](https://img.shields.io/github/stars/owensgroup/RXMesh?style=flat-square&color=yellow)](https://github.com/owensgroup/RXMesh/stargazers) [![Forks](https://img.shields.io/github/forks/owensgroup/RXMesh?style=flat-square&color=blue)](https://github.com/owensgroup/RXMesh/network) [![Language](https://img.shields.io/badge/lang-Cuda-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/owensgroup/RXMesh?style=flat-square&color=yellow)](https://github.com/owensgroup/RXMesh/stargazers) [![Forks](https://img.shields.io/github/forks/owensgroup/RXMesh?style=flat-square&color=blue)](https://github.com/owensgroup/RXMesh/network) [![Language](https://img.shields.io/badge/lang-Cuda-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > GPU-accelerated triangle mesh processing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Cuda |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

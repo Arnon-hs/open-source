@@ -1,6 +1,6 @@
 # Hound-Media-Server/hound
 
-[![Stars](https://img.shields.io/github/stars/Hound-Media-Server/hound?style=flat-square&color=yellow)](https://github.com/Hound-Media-Server/hound/stargazers) [![Forks](https://img.shields.io/github/forks/Hound-Media-Server/hound?style=flat-square&color=blue)](https://github.com/Hound-Media-Server/hound/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hound-Media-Server/hound?style=flat-square&color=yellow)](https://github.com/Hound-Media-Server/hound/stargazers) [![Forks](https://img.shields.io/github/forks/Hound-Media-Server/hound?style=flat-square&color=blue)](https://github.com/Hound-Media-Server/hound/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > All-in-one Media Server—Find, watch, track, and manage your media
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 178 |
-| 🍴 **Forks** | 3 |
+| ⭐ **Stars** | 210 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

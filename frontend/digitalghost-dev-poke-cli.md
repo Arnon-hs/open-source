@@ -25,7 +25,7 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-Poke-cli is an open-source hybrid CLI/TUI tool written in Go, allowing users to view Pokémon data directly from their terminal. This project serves as a versatile Data Engineering project, combining frontend development and tooling expertise. With poke-cli, users can easily access and explore Pokémon data in a user-friendly terminal interface.
+The poke-cli project is an open-source, hybrid command-line interface (CLI) and terminal user interface (TUI) tool written in Go. It allows users to view Pokémon data from the terminal, making it a unique and convenient way to access Pokémon information. This project also serves as a data engineering project, providing a hands-on example of building a data-driven application.
 
 ---
 

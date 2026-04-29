@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-This open-source project, Prefetcharr, allows Sonarr to fetch episodes on demand for a show you're currently watching on Jellyfin, Emby, or Plex media servers. By integrating with these popular media platforms, Prefetcharr enables seamless episode fetching for your favorite shows. This convenient feature enhances your TV watching experience by reducing delays and making it easier to access the latest episodes.
+The prefetcharr project allows users to fetch episodes on demand in Sonarr while watching a show on a compatible media server, such as Jellyfin, Emby, or Plex. This feature enables seamless episode access, enhancing the user experience for fans of serialized television content. By integrating with popular media servers, prefetcharr streamlines the process of accessing related episodes.
 
 ---
 

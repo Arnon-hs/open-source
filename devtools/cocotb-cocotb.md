@@ -1,6 +1,6 @@
 # cocotb/cocotb
 
-[![Stars](https://img.shields.io/github/stars/cocotb/cocotb?style=flat-square&color=yellow)](https://github.com/cocotb/cocotb/stargazers) [![Forks](https://img.shields.io/github/forks/cocotb/cocotb?style=flat-square&color=blue)](https://github.com/cocotb/cocotb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cocotb/cocotb?style=flat-square&color=yellow)](https://github.com/cocotb/cocotb/stargazers) [![Forks](https://img.shields.io/github/forks/cocotb/cocotb?style=flat-square&color=blue)](https://github.com/cocotb/cocotb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > cocotb: Python-based chip (RTL) verification
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 636 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

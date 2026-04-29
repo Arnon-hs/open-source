@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The Owen Rumney's 'go-lsp' project is an open-source implementation of Language Servers (LSP) that adhere to the official LSP specification (version 3.17). This project provides a robust foundation for building language servers that seamlessly integrate with various development environments, facilitating features such as code completion, diagnostics, and code refactoring. By using 'go-lsp', developers can easily create high-quality language servers that enhance the overall coding experience.
+The owenrumney/go-lsp project is an open-source implementation of Language Servers compliant with version 3.17 of the Language Server Protocol (LSP) Specification. This Go-based project provides a foundation for building Language Servers that can seamlessly integrate with various text editors and IDEs. By leveraging this project, developers can create custom Language Servers tailored to their specific needs.
 
 ---
 

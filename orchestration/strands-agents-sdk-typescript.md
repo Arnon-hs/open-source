@@ -1,6 +1,6 @@
 # strands-agents/sdk-typescript
 
-[![Stars](https://img.shields.io/github/stars/strands-agents/sdk-typescript?style=flat-square&color=yellow)](https://github.com/strands-agents/sdk-typescript/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/sdk-typescript?style=flat-square&color=blue)](https://github.com/strands-agents/sdk-typescript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-agents/sdk-typescript?style=flat-square&color=yellow)](https://github.com/strands-agents/sdk-typescript/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/sdk-typescript?style=flat-square&color=blue)](https://github.com/strands-agents/sdk-typescript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A model-driven approach to building AI agents in just a few lines of code.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 597 |
+| ⭐ **Stars** | 599 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

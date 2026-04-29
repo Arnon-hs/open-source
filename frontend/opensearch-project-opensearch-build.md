@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The OpenSearch Build project is an open-source repository providing build systems for OpenSearch and OpenSearch Dashboards. It facilitates the compilation and deployment of these applications, enabling developers to easily create and manage their own versions. By utilizing this project, users can contribute to the improvement and customization of OpenSearch and OpenSearch Dashboards.
+The OpenSearch Build project is an open-source collection of build systems for OpenSearch and OpenSearch Dashboards. This project provides a framework for automating the build process, enabling developers to easily compile and test these applications. By using this build system, users can ensure consistency and reliability in their OpenSearch builds.
 
 ---
 

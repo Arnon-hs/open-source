@@ -1,6 +1,6 @@
 # damusix/ai-tools
 
-[![Stars](https://img.shields.io/github/stars/damusix/ai-tools?style=flat-square&color=yellow)](https://github.com/damusix/ai-tools/stargazers) [![Forks](https://img.shields.io/github/forks/damusix/ai-tools?style=flat-square&color=blue)](https://github.com/damusix/ai-tools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/damusix/ai-tools?style=flat-square&color=yellow)](https://github.com/damusix/ai-tools/stargazers) [![Forks](https://img.shields.io/github/forks/damusix/ai-tools?style=flat-square&color=blue)](https://github.com/damusix/ai-tools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > AI Tools to be installed as skills, plugins, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

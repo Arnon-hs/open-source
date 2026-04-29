@@ -25,7 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-TerriaJS/terriajs is an open-source library for creating comprehensive, web-based geospatial data platforms with both 2D and 3D capabilities. This powerful tool enables developers to efficiently build and deploy rich, interactive geospatial applications using a range of data sources. By leveraging TerriaJS, users can effectively visualize, analyze, and share complex geospatial data.
+TerriaJS/terriajs is an open-source library for designing and developing advanced geospatial data platforms. It enables the creation of rich, interactive 2D and 3D web applications that can handle large datasets and provide users with intuitive navigation and visualization tools. With its capabilities in data handling and visualization, TerriaJS facilitates the exploration and analysis of complex geospatial data.
 
 ---
 

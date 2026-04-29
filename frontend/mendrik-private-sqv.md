@@ -25,7 +25,7 @@ Frontend · Data
 
 ## 📝 Summary
 
-The sqv project is an open-source, SQLite3 viewer designed to provide a user-friendly interface for exploring and interacting with SQLite databases. Built with a focus on simplicity and ease of use, sqv enables users to browse, query, and manipulate SQLite databases in a convenient and intuitive manner. This project is ideal for developers, data analysts, and anyone needing to inspect and manage SQLite databases.
+The sqv project is an open-source tool that provides a SQLite3 viewer, allowing users to easily navigate and manage SQLite databases in a user-friendly interface. This frontend application offers a convenient way to interact with SQLite databases, making it an ideal choice for developers, data analysts, and anyone working with SQLite databases. With sqv, users can view and manipulate database data efficiently.
 
 ---
 

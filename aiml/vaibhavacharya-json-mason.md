@@ -1,6 +1,6 @@
 # VaibhavAcharya/json-mason
 
-[![Stars](https://img.shields.io/github/stars/VaibhavAcharya/json-mason?style=flat-square&color=yellow)](https://github.com/VaibhavAcharya/json-mason/stargazers) [![Forks](https://img.shields.io/github/forks/VaibhavAcharya/json-mason?style=flat-square&color=blue)](https://github.com/VaibhavAcharya/json-mason/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VaibhavAcharya/json-mason?style=flat-square&color=yellow)](https://github.com/VaibhavAcharya/json-mason/stargazers) [![Forks](https://img.shields.io/github/forks/VaibhavAcharya/json-mason?style=flat-square&color=blue)](https://github.com/VaibhavAcharya/json-mason/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > A library for performing structured modifications on JSON data. It provides a safe, predictable way to transform JSON objects through a series of operations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -1,6 +1,6 @@
 # olegiv/llm-wiki-go
 
-[![Stars](https://img.shields.io/github/stars/olegiv/llm-wiki-go?style=flat-square&color=yellow)](https://github.com/olegiv/llm-wiki-go/stargazers) [![Forks](https://img.shields.io/github/forks/olegiv/llm-wiki-go?style=flat-square&color=blue)](https://github.com/olegiv/llm-wiki-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/olegiv/llm-wiki-go?style=flat-square&color=yellow)](https://github.com/olegiv/llm-wiki-go/stargazers) [![Forks](https://img.shields.io/github/forks/olegiv/llm-wiki-go?style=flat-square&color=blue)](https://github.com/olegiv/llm-wiki-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Karpathy-style LLM Wiki — raw/ holds immutable source material, wiki/ is the compiled knowledge layer, wikilint enforces structure.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

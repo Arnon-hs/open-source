@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The DNSCrypt/dnscrypt-resolvers project is an open-source initiative that maintains a comprehensive list of public DNSCrypt and DoH (DNS over HTTPS) servers, as well as DNS relays. This project has been actively updated since 2011, ensuring users have access to reliable and secure DNS services. It is categorized under AI/ML and Backend, highlighting its technical relevance and importance in the field.
+The DNSCrypt/dnscrypt-resolvers project is an open-source initiative that maintains a comprehensive list of publicly available DNSCrypt and DoH (DNS over HTTPS) servers, as well as DNS relays. This resource has been actively updated since 2011, providing a reliable source of information for developers and users. The project's catalog serves as a valuable tool for those seeking to enhance their online security and privacy through the use of secure DNS protocols.
 
 ---
 

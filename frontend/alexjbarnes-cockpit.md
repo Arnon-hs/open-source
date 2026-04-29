@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The Claude Code Web UI is an open-source project that provides a web-based user interface for the Claude Code, a code generation and completion tool. This frontend-focused project allows users to interact with the Claude Code in a graphical web environment, enhancing its usability and accessibility. By leveraging web technology, the project offers a streamlined experience for users to explore and utilize the Claude Code's capabilities.
+Claude Code Web UI is a user-friendly, open-source web interface for the Claude code editor. This project aims to provide a seamless coding experience, allowing developers to focus on writing code without the hassle of a cluttered interface. It is available on GitHub as an open-source contribution to the coding community.
 
 ---
 

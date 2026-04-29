@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Redox-OS's relibc project is an open-source implementation of the C standard library. It is designed to work with the Redox operating system, providing essential functionality for building applications. This project maintains a mirror of the original repository on GitLab, ensuring seamless collaboration and development.
+Redox OS's libc project is an open-source implementation of the standard C library for the Redox OS, providing a foundation for building applications on the operating system. This project aims to offer a reliable alternative to other C libraries, ensuring compatibility and efficiency for users. By mirroring the original repository from GitLab, this project provides a convenient access point for Redox OS developers and contributors.
 
 ---
 

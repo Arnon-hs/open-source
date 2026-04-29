@@ -1,6 +1,6 @@
 # espressif/esp-claw
 
-[![Stars](https://img.shields.io/github/stars/espressif/esp-claw?style=flat-square&color=yellow)](https://github.com/espressif/esp-claw/stargazers) [![Forks](https://img.shields.io/github/forks/espressif/esp-claw?style=flat-square&color=blue)](https://github.com/espressif/esp-claw/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/espressif/esp-claw?style=flat-square&color=yellow)](https://github.com/espressif/esp-claw/stargazers) [![Forks](https://img.shields.io/github/forks/espressif/esp-claw?style=flat-square&color=blue)](https://github.com/espressif/esp-claw/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 737 |
-| 🍴 **Forks** | 151 |
+| ⭐ **Stars** | 749 |
+| 🍴 **Forks** | 152 |
 | 💻 **Language** | C |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

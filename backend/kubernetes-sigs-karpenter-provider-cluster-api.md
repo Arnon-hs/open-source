@@ -25,7 +25,7 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Kubernetes-sigs/karpenter-provider-cluster-api is an open-source project that integrates Karpenter with Cluster API to provide a scalable and infrastructure-agnostic container cluster management solution. This implementation leverages Cluster API as the infrastructure provider, enabling users to manage and orchestrate clusters across multiple environments. By combining the strengths of Karpenter and Cluster API, this project offers a powerful tool for automating cluster provisioning and scaling.
+Kubernetes-sigs/karpenter-provider-cluster-api is an open-source project that integrates Karpenter, a Kubernetes node autoscaler, with Cluster API, a standardized way to provision and manage clusters. This implementation allows users to leverage Cluster API's infrastructure provisioning capabilities with Karpenter's node scaling features. By combining these tools, users can automate the creation and management of clusters with greater efficiency.
 
 ---
 

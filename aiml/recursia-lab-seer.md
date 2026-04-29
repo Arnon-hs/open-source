@@ -1,8 +1,8 @@
 # recursia-lab/Seer
 
-[![Stars](https://img.shields.io/github/stars/recursia-lab/Seer?style=flat-square&color=yellow)](https://github.com/recursia-lab/Seer/stargazers) [![Forks](https://img.shields.io/github/forks/recursia-lab/Seer?style=flat-square&color=blue)](https://github.com/recursia-lab/Seer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/recursia-lab/Seer?style=flat-square&color=yellow)](https://github.com/recursia-lab/Seer/stargazers) [![Forks](https://img.shields.io/github/forks/recursia-lab/Seer?style=flat-square&color=blue)](https://github.com/recursia-lab/Seer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Local AI image descriptions for screen readers. No API. No cloud.
 
 ## 📊 Stats
 
@@ -10,8 +10,8 @@
 |---|---|
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

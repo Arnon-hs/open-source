@@ -1,6 +1,6 @@
 # kubernetes-client/csharp
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-client/csharp?style=flat-square&color=yellow)](https://github.com/kubernetes-client/csharp/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-client/csharp?style=flat-square&color=blue)](https://github.com/kubernetes-client/csharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-client/csharp?style=flat-square&color=yellow)](https://github.com/kubernetes-client/csharp/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-client/csharp?style=flat-square&color=blue)](https://github.com/kubernetes-client/csharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Officially supported dotnet Kubernetes Client library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 311 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # aegis-icons/aegis-icons
 
-[![Stars](https://img.shields.io/github/stars/aegis-icons/aegis-icons?style=flat-square&color=yellow)](https://github.com/aegis-icons/aegis-icons/stargazers) [![Forks](https://img.shields.io/github/forks/aegis-icons/aegis-icons?style=flat-square&color=blue)](https://github.com/aegis-icons/aegis-icons/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aegis-icons/aegis-icons?style=flat-square&color=yellow)](https://github.com/aegis-icons/aegis-icons/stargazers) [![Forks](https://img.shields.io/github/forks/aegis-icons/aegis-icons?style=flat-square&color=blue)](https://github.com/aegis-icons/aegis-icons/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial 2FA entry icons for open source Android authenticator Aegis.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 895 |
+| ⭐ **Stars** | 896 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Batchfile |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

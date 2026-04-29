@@ -1,8 +1,8 @@
 # denismaggior8/enigma-python-mcp
 
-[![Stars](https://img.shields.io/github/stars/denismaggior8/enigma-python-mcp?style=flat-square&color=yellow)](https://github.com/denismaggior8/enigma-python-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/denismaggior8/enigma-python-mcp?style=flat-square&color=blue)](https://github.com/denismaggior8/enigma-python-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/denismaggior8/enigma-python-mcp?style=flat-square&color=yellow)](https://github.com/denismaggior8/enigma-python-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/denismaggior8/enigma-python-mcp?style=flat-square&color=blue)](https://github.com/denismaggior8/enigma-python-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> An MCP (Model Context Protocol) server that brings the capabilities of the enigmapython library to LLMs, allowing them to encrypt and decrypt messages using historically accurate Enigma machine emulators
 
 ## 📊 Stats
 
@@ -10,8 +10,8 @@
 |---|---|
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # rodydavis/flutter_piano
 
-[![Stars](https://img.shields.io/github/stars/rodydavis/flutter_piano?style=flat-square&color=yellow)](https://github.com/rodydavis/flutter_piano/stargazers) [![Forks](https://img.shields.io/github/forks/rodydavis/flutter_piano?style=flat-square&color=blue)](https://github.com/rodydavis/flutter_piano/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rodydavis/flutter_piano?style=flat-square&color=yellow)](https://github.com/rodydavis/flutter_piano/stargazers) [![Forks](https://img.shields.io/github/forks/rodydavis/flutter_piano?style=flat-square&color=blue)](https://github.com/rodydavis/flutter_piano/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A Cross Platform Piano made with Flutter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 429 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

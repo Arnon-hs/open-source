@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-LibreSBC is an open-source, cost-effective Session Border Controller (SBC) designed to simplify communication infrastructure management. This project aims to provide a free alternative to commercial SBC solutions, potentially saving thousands of dollars for businesses and organizations. By leveraging LibreSBC, users can enhance their VoIP and real-time communication systems with robust security and reliability features.
+Here's a brief summary for the open-source project:
+
+LibreSBC is an open-source Session Border Controller (SBC) designed to provide a cost-effective solution for voice and video communication. This project offers a free alternative to traditional SBCs, enabling users to save thousands of dollars in licensing fees. By leveraging LibreSBC, developers can build and deploy scalable and secure communication systems.
 
 ---
 

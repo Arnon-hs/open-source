@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the gruntwork-io/terragrunt-action open-source project:
+Here's a brief summary for the gruntwork-io/terragrunt-action project:
 
-The gruntwork-io/terragrunt-action is a GitHub Action that facilitates the installation and execution of Terragrunt, a popular tool for automating infrastructure as code deployments, making it easier to manage complex cloud infrastructure. This action simplifies the integration of Terragrunt into CI/CD pipelines, enabling developers to streamline their infrastructure management processes. By leveraging this action, users can automate their infrastructure deployments with greater ease and efficiency.
+The gruntwork-io/terragrunt-action is an open-source GitHub Action that simplifies the process of installing and running Terragrunt, a powerful tool for managing and scaling infrastructure deployments. This action enables users to automate the setup and execution of Terragrunt workflows on GitHub, facilitating more efficient and reliable infrastructure management. By leveraging this action, developers can streamline their infrastructure development and deployment processes.
 
 ---
 

@@ -1,6 +1,6 @@
 # Pr0fe5s0r/StixDB
 
-[![Stars](https://img.shields.io/github/stars/Pr0fe5s0r/StixDB?style=flat-square&color=yellow)](https://github.com/Pr0fe5s0r/StixDB/stargazers) [![Forks](https://img.shields.io/github/forks/Pr0fe5s0r/StixDB?style=flat-square&color=blue)](https://github.com/Pr0fe5s0r/StixDB/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pr0fe5s0r/StixDB?style=flat-square&color=yellow)](https://github.com/Pr0fe5s0r/StixDB/stargazers) [![Forks](https://img.shields.io/github/forks/Pr0fe5s0r/StixDB?style=flat-square&color=blue)](https://github.com/Pr0fe5s0r/StixDB/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > A memory layer for AI agents that organizes itself
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

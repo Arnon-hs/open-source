@@ -1,6 +1,6 @@
 # rNeomy/reader-view
 
-[![Stars](https://img.shields.io/github/stars/rNeomy/reader-view?style=flat-square&color=yellow)](https://github.com/rNeomy/reader-view/stargazers) [![Forks](https://img.shields.io/github/forks/rNeomy/reader-view?style=flat-square&color=blue)](https://github.com/rNeomy/reader-view/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rNeomy/reader-view?style=flat-square&color=yellow)](https://github.com/rNeomy/reader-view/stargazers) [![Forks](https://img.shields.io/github/forks/rNeomy/reader-view?style=flat-square&color=blue)](https://github.com/rNeomy/reader-view/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Access Firefox's built in reader view from right click context menu
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 548 |
+| ⭐ **Stars** | 549 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

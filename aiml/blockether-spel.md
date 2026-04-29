@@ -1,6 +1,6 @@
 # Blockether/spel
 
-[![Stars](https://img.shields.io/github/stars/Blockether/spel?style=flat-square&color=yellow)](https://github.com/Blockether/spel/stargazers) [![Forks](https://img.shields.io/github/forks/Blockether/spel?style=flat-square&color=blue)](https://github.com/Blockether/spel/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Blockether/spel?style=flat-square&color=yellow)](https://github.com/Blockether/spel/stargazers) [![Forks](https://img.shields.io/github/forks/Blockether/spel?style=flat-square&color=blue)](https://github.com/Blockether/spel/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Idiomatic Clojure wrapper for Playwright. Browser automation, API testing, Allure reporting, and native CLI - for Chromium, Firefox, and WebKit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

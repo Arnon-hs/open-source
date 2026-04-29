@@ -1,6 +1,6 @@
 # tweag/ormolu
 
-[![Stars](https://img.shields.io/github/stars/tweag/ormolu?style=flat-square&color=yellow)](https://github.com/tweag/ormolu/stargazers) [![Forks](https://img.shields.io/github/forks/tweag/ormolu?style=flat-square&color=blue)](https://github.com/tweag/ormolu/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tweag/ormolu?style=flat-square&color=yellow)](https://github.com/tweag/ormolu/stargazers) [![Forks](https://img.shields.io/github/forks/tweag/ormolu?style=flat-square&color=blue)](https://github.com/tweag/ormolu/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A formatter for Haskell source code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
