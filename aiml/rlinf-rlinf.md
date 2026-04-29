@@ -1,6 +1,6 @@
 # RLinf/RLinf
 
-[![Stars](https://img.shields.io/github/stars/RLinf/RLinf?style=flat-square&color=yellow)](https://github.com/RLinf/RLinf/stargazers) [![Forks](https://img.shields.io/github/forks/RLinf/RLinf?style=flat-square&color=blue)](https://github.com/RLinf/RLinf/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RLinf/RLinf?style=flat-square&color=yellow)](https://github.com/RLinf/RLinf/stargazers) [![Forks](https://img.shields.io/github/forks/RLinf/RLinf?style=flat-square&color=blue)](https://github.com/RLinf/RLinf/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 431 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

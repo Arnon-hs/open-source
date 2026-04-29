@@ -1,6 +1,6 @@
 # moq-dev/moq
 
-[![Stars](https://img.shields.io/github/stars/moq-dev/moq?style=flat-square&color=yellow)](https://github.com/moq-dev/moq/stargazers) [![Forks](https://img.shields.io/github/forks/moq-dev/moq?style=flat-square&color=blue)](https://github.com/moq-dev/moq/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moq-dev/moq?style=flat-square&color=yellow)](https://github.com/moq-dev/moq/stargazers) [![Forks](https://img.shields.io/github/forks/moq-dev/moq?style=flat-square&color=blue)](https://github.com/moq-dev/moq/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Media over QUIC library in Rust+Typescript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

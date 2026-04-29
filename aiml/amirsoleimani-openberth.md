@@ -1,6 +1,6 @@
 # AmirSoleimani/openberth
 
-[![Stars](https://img.shields.io/github/stars/AmirSoleimani/openberth?style=flat-square&color=yellow)](https://github.com/AmirSoleimani/openberth/stargazers) [![Forks](https://img.shields.io/github/forks/AmirSoleimani/openberth?style=flat-square&color=blue)](https://github.com/AmirSoleimani/openberth/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmirSoleimani/openberth?style=flat-square&color=yellow)](https://github.com/AmirSoleimani/openberth/stargazers) [![Forks](https://img.shields.io/github/forks/AmirSoleimani/openberth?style=flat-square&color=blue)](https://github.com/AmirSoleimani/openberth/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted deployment platform. Give it code, get a live HTTPS URL. Supports Node.js, Python, Go, and static sites. Every    deployment runs sandboxed in gVisor. Three static Go binaries, zero runtime dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

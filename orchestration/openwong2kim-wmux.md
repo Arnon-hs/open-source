@@ -1,6 +1,6 @@
 # openwong2kim/wmux
 
-[![Stars](https://img.shields.io/github/stars/openwong2kim/wmux?style=flat-square&color=yellow)](https://github.com/openwong2kim/wmux/stargazers) [![Forks](https://img.shields.io/github/forks/openwong2kim/wmux?style=flat-square&color=blue)](https://github.com/openwong2kim/wmux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openwong2kim/wmux?style=flat-square&color=yellow)](https://github.com/openwong2kim/wmux/stargazers) [![Forks](https://img.shields.io/github/forks/openwong2kim/wmux?style=flat-square&color=blue)](https://github.com/openwong2kim/wmux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 45 |
+| ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

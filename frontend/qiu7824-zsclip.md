@@ -1,6 +1,6 @@
 # qiu7824/zsclip
 
-[![Stars](https://img.shields.io/github/stars/qiu7824/zsclip?style=flat-square&color=yellow)](https://github.com/qiu7824/zsclip/stargazers) [![Forks](https://img.shields.io/github/forks/qiu7824/zsclip?style=flat-square&color=blue)](https://github.com/qiu7824/zsclip/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qiu7824/zsclip?style=flat-square&color=yellow)](https://github.com/qiu7824/zsclip/stargazers) [![Forks](https://img.shields.io/github/forks/qiu7824/zsclip?style=flat-square&color=blue)](https://github.com/qiu7824/zsclip/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > 面向 系统ui 的轻量级 Rust 剪贴板管理器
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 111 |
+| ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

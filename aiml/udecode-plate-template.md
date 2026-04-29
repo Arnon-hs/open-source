@@ -1,6 +1,6 @@
 # udecode/plate-template
 
-[![Stars](https://img.shields.io/github/stars/udecode/plate-template?style=flat-square&color=yellow)](https://github.com/udecode/plate-template/stargazers) [![Forks](https://img.shields.io/github/forks/udecode/plate-template?style=flat-square&color=blue)](https://github.com/udecode/plate-template/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/udecode/plate-template?style=flat-square&color=yellow)](https://github.com/udecode/plate-template/stargazers) [![Forks](https://img.shields.io/github/forks/udecode/plate-template?style=flat-square&color=blue)](https://github.com/udecode/plate-template/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal Plate template with React 19, Next 16, Tailwind 4, MCP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

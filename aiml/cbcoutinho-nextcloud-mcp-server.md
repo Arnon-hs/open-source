@@ -1,6 +1,6 @@
 # cbcoutinho/nextcloud-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/cbcoutinho/nextcloud-mcp-server?style=flat-square&color=yellow)](https://github.com/cbcoutinho/nextcloud-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cbcoutinho/nextcloud-mcp-server?style=flat-square&color=blue)](https://github.com/cbcoutinho/nextcloud-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cbcoutinho/nextcloud-mcp-server?style=flat-square&color=yellow)](https://github.com/cbcoutinho/nextcloud-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cbcoutinho/nextcloud-mcp-server?style=flat-square&color=blue)](https://github.com/cbcoutinho/nextcloud-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Nextcloud MCP Server
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 202 |
+| ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

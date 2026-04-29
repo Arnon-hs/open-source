@@ -1,6 +1,6 @@
 # agentscope-ai/agentscope-java
 
-[![Stars](https://img.shields.io/github/stars/agentscope-ai/agentscope-java?style=flat-square&color=yellow)](https://github.com/agentscope-ai/agentscope-java/stargazers) [![Forks](https://img.shields.io/github/forks/agentscope-ai/agentscope-java?style=flat-square&color=blue)](https://github.com/agentscope-ai/agentscope-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentscope-ai/agentscope-java?style=flat-square&color=yellow)](https://github.com/agentscope-ai/agentscope-java/stargazers) [![Forks](https://img.shields.io/github/forks/agentscope-ai/agentscope-java?style=flat-square&color=blue)](https://github.com/agentscope-ai/agentscope-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > AgentScope Java: Agent-Oriented Programming for Building LLM Applications
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 585 |
+| 🍴 **Forks** | 587 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

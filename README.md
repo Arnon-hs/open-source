@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **11036** |
+| 🗂️ **Total projects** | **11096** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4228 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2107 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1087 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 879 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 666 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 655 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 392 | [Browse →](./crypto/) |
-| 📊 **Data** | 239 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 232 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 4253 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2115 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1090 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 882 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 669 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 661 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 396 | [Browse →](./crypto/) |
+| 📊 **Data** | 240 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 235 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 136 | [Browse →](./mobile/) |
-| 💳 **Payments** | 124 | [Browse →](./payments/) |
-| 📈 **Trading** | 112 | [Browse →](./trading/) |
-| 🔐 **Security** | 97 | [Browse →](./security/) |
+| 💳 **Payments** | 125 | [Browse →](./payments/) |
+| 📈 **Trading** | 113 | [Browse →](./trading/) |
+| 🔐 **Security** | 99 | [Browse →](./security/) |
 | ✨ **Design** | 36 | [Browse →](./design/) |
 | 🎯 **Product** | 25 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 21 | [Browse →](./marketing/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [tiajinsha/JKVideo](./frontend/tiajinsha-jkvideo.md) | ⭐ 4.9k | Frontend |
-| 2 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
-| 3 | [matplotlib/matplotlib](./data/matplotlib-matplotlib.md) | ⭐ 22.8k | Data |
-| 4 | [sharkdp/fd](./devtools/sharkdp-fd.md) | ⭐ 42.7k | DevTools |
-| 5 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 123.5k | AI/ML |
-| 6 | [oapi-codegen/oapi-codegen](./backend/oapi-codegen-oapi-codegen.md) | ⭐ 8.3k | Backend |
-| 7 | [micro-editor/micro](./frontend/micro-editor-micro.md) | ⭐ 28.5k | Frontend |
-| 8 | [statelyai/xstate](./orchestration/statelyai-xstate.md) | ⭐ 29.6k | Orchestration |
-| 9 | [alibaba/page-agent](./aiml/alibaba-page-agent.md) | ⭐ 17.5k | AI/ML |
-| 10 | [nginx/kubernetes-ingress](./devopsinfra/nginx-kubernetes-ingress.md) | ⭐ 5k | DevOps & Infra |
+| 2 | [clash-verge-rev/clash-verge-rev](./aiml/clash-verge-rev-clash-verge-rev.md) | ⭐ 114.5k | AI/ML |
+| 3 | [ueberdosis/tiptap](./frontend/ueberdosis-tiptap.md) | ⭐ 36.5k | Frontend |
+| 4 | [nilbuild/developer-roadmap](./crypto/nilbuild-developer-roadmap.md) | ⭐ 353.9k | Crypto |
+| 5 | [vnotex/vnote](./aiml/vnotex-vnote.md) | ⭐ 12.8k | AI/ML |
+| 6 | [zhkl0228/unidbg](./mobile/zhkl0228-unidbg.md) | ⭐ 4.9k | Mobile |
+| 7 | [huggingface/transformers](./crypto/huggingface-transformers.md) | ⭐ 160.1k | Crypto |
+| 8 | [gruntwork-io/terratest](./devtools/gruntwork-io-terratest.md) | ⭐ 7.9k | DevTools |
+| 9 | [assistant-ui/assistant-ui](./aiml/assistant-ui-assistant-ui.md) | ⭐ 9.8k | AI/ML |
+| 10 | [matplotlib/matplotlib](./data/matplotlib-matplotlib.md) | ⭐ 22.8k | Data |
 
 ## 🚀 How it works
 

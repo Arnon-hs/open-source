@@ -1,6 +1,6 @@
 # KatherLab/STAMP
 
-[![Stars](https://img.shields.io/github/stars/KatherLab/STAMP?style=flat-square&color=yellow)](https://github.com/KatherLab/STAMP/stargazers) [![Forks](https://img.shields.io/github/forks/KatherLab/STAMP?style=flat-square&color=blue)](https://github.com/KatherLab/STAMP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KatherLab/STAMP?style=flat-square&color=yellow)](https://github.com/KatherLab/STAMP/stargazers) [![Forks](https://img.shields.io/github/forks/KatherLab/STAMP?style=flat-square&color=blue)](https://github.com/KatherLab/STAMP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Solid Tumor Associative Modeling in Pathology
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 118 |
+| ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

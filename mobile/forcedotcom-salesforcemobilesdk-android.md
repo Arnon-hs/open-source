@@ -1,6 +1,6 @@
 # forcedotcom/SalesforceMobileSDK-Android
 
-[![Stars](https://img.shields.io/github/stars/forcedotcom/SalesforceMobileSDK-Android?style=flat-square&color=yellow)](https://github.com/forcedotcom/SalesforceMobileSDK-Android/stargazers) [![Forks](https://img.shields.io/github/forks/forcedotcom/SalesforceMobileSDK-Android?style=flat-square&color=blue)](https://github.com/forcedotcom/SalesforceMobileSDK-Android/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/forcedotcom/SalesforceMobileSDK-Android?style=flat-square&color=yellow)](https://github.com/forcedotcom/SalesforceMobileSDK-Android/stargazers) [![Forks](https://img.shields.io/github/forks/forcedotcom/SalesforceMobileSDK-Android?style=flat-square&color=blue)](https://github.com/forcedotcom/SalesforceMobileSDK-Android/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Android SDK for Salesforce
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 358 |
 | 🍴 **Forks** | 393 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

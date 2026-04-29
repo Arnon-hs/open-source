@@ -1,6 +1,6 @@
 # apache/hive
 
-[![Stars](https://img.shields.io/github/stars/apache/hive?style=flat-square&color=yellow)](https://github.com/apache/hive/stargazers) [![Forks](https://img.shields.io/github/forks/apache/hive?style=flat-square&color=blue)](https://github.com/apache/hive/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/hive?style=flat-square&color=yellow)](https://github.com/apache/hive/stargazers) [![Forks](https://img.shields.io/github/forks/apache/hive?style=flat-square&color=blue)](https://github.com/apache/hive/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Hive
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 4.8k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 99/100 |
+| 📈 **Score** | 95/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

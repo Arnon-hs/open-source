@@ -1,6 +1,6 @@
 # yaklang/hack-skills
 
-[![Stars](https://img.shields.io/github/stars/yaklang/hack-skills?style=flat-square&color=yellow)](https://github.com/yaklang/hack-skills/stargazers) [![Forks](https://img.shields.io/github/forks/yaklang/hack-skills?style=flat-square&color=blue)](https://github.com/yaklang/hack-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yaklang/hack-skills?style=flat-square&color=yellow)](https://github.com/yaklang/hack-skills/stargazers) [![Forks](https://img.shields.io/github/forks/yaklang/hack-skills?style=flat-square&color=blue)](https://github.com/yaklang/hack-skills/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Helping AI Agent become an awesome practical hacker!
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 336 |
+| ⭐ **Stars** | 344 |
 | 🍴 **Forks** | 62 |
-| 💻 **Language** | Unknown |
+| 💻 **Language** | CSS |
 | 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Frontend
 
 ## 📝 Summary
 

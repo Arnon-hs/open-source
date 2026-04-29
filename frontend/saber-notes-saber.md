@@ -1,6 +1,6 @@
 # saber-notes/saber
 
-[![Stars](https://img.shields.io/github/stars/saber-notes/saber?style=flat-square&color=yellow)](https://github.com/saber-notes/saber/stargazers) [![Forks](https://img.shields.io/github/forks/saber-notes/saber?style=flat-square&color=blue)](https://github.com/saber-notes/saber/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saber-notes/saber?style=flat-square&color=yellow)](https://github.com/saber-notes/saber/stargazers) [![Forks](https://img.shields.io/github/forks/saber-notes/saber?style=flat-square&color=blue)](https://github.com/saber-notes/saber/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > The cross-platform open-source app built for handwriting
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.4k |
-| 🍴 **Forks** | 310 |
+| 🍴 **Forks** | 311 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

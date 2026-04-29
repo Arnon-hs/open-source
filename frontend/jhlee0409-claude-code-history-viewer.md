@@ -1,6 +1,6 @@
 # jhlee0409/claude-code-history-viewer
 
-[![Stars](https://img.shields.io/github/stars/jhlee0409/claude-code-history-viewer?style=flat-square&color=yellow)](https://github.com/jhlee0409/claude-code-history-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/jhlee0409/claude-code-history-viewer?style=flat-square&color=blue)](https://github.com/jhlee0409/claude-code-history-viewer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jhlee0409/claude-code-history-viewer?style=flat-square&color=yellow)](https://github.com/jhlee0409/claude-code-history-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/jhlee0409/claude-code-history-viewer?style=flat-square&color=blue)](https://github.com/jhlee0409/claude-code-history-viewer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > desktop app to browse and analyze your Claude Code conversation history
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

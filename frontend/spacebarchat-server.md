@@ -1,6 +1,6 @@
 # spacebarchat/server
 
-[![Stars](https://img.shields.io/github/stars/spacebarchat/server?style=flat-square&color=yellow)](https://github.com/spacebarchat/server/stargazers) [![Forks](https://img.shields.io/github/forks/spacebarchat/server?style=flat-square&color=blue)](https://github.com/spacebarchat/server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spacebarchat/server?style=flat-square&color=yellow)](https://github.com/spacebarchat/server/stargazers) [![Forks](https://img.shields.io/github/forks/spacebarchat/server?style=flat-square&color=blue)](https://github.com/spacebarchat/server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 299 |
+| 🍴 **Forks** | 300 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

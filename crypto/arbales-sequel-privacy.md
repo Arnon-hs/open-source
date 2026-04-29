@@ -1,0 +1,32 @@
+# arbales/sequel-privacy
+
+[![Stars](https://img.shields.io/github/stars/arbales/sequel-privacy?style=flat-square&color=yellow)](https://github.com/arbales/sequel-privacy/stargazers) [![Forks](https://img.shields.io/github/forks/arbales/sequel-privacy?style=flat-square&color=blue)](https://github.com/arbales/sequel-privacy/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+
+> a Sequel::Model plugin for object and field-level privacy definition and enforcement
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2 |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Ruby |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | hackernews |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Crypto
+
+## 📝 Summary
+
+Sequel-privacy is an open-source project that enforces privacy policies on objects, fields, and associations in databases. This tool helps developers implement data protection and adhere to regulations by controlling access to sensitive information. By using Sequel-privacy, users can ensure that their databases meet required data protection standards.
+
+---
+
+<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/arbales/sequel-privacy) · [← Back to Crypto](./README.md)</sub>

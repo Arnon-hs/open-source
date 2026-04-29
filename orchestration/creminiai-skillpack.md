@@ -1,6 +1,6 @@
 # CreminiAI/skillpack
 
-[![Stars](https://img.shields.io/github/stars/CreminiAI/skillpack?style=flat-square&color=yellow)](https://github.com/CreminiAI/skillpack/stargazers) [![Forks](https://img.shields.io/github/forks/CreminiAI/skillpack?style=flat-square&color=blue)](https://github.com/CreminiAI/skillpack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CreminiAI/skillpack?style=flat-square&color=yellow)](https://github.com/CreminiAI/skillpack/stargazers) [![Forks](https://img.shields.io/github/forks/CreminiAI/skillpack?style=flat-square&color=blue)](https://github.com/CreminiAI/skillpack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Pack and deploy local AI agents for your team in minutes
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 233 |
+| ⭐ **Stars** | 235 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

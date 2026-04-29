@@ -1,6 +1,6 @@
 # kubearmor/KubeArmor
 
-[![Stars](https://img.shields.io/github/stars/kubearmor/KubeArmor?style=flat-square&color=yellow)](https://github.com/kubearmor/KubeArmor/stargazers) [![Forks](https://img.shields.io/github/forks/kubearmor/KubeArmor?style=flat-square&color=blue)](https://github.com/kubearmor/KubeArmor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubearmor/KubeArmor?style=flat-square&color=yellow)](https://github.com/kubearmor/KubeArmor/stargazers) [![Forks](https://img.shields.io/github/forks/kubearmor/KubeArmor?style=flat-square&color=blue)](https://github.com/kubearmor/KubeArmor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 460 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
