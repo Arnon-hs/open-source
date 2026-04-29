@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **11548** |
+| 🗂️ **Total projects** | **11608** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4427 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2206 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1138 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 910 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 703 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 685 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 412 | [Browse →](./crypto/) |
-| 📊 **Data** | 248 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 244 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 4441 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2228 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1146 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 913 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 708 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 688 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 413 | [Browse →](./crypto/) |
+| 📊 **Data** | 250 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 245 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 140 | [Browse →](./mobile/) |
-| 💳 **Payments** | 126 | [Browse →](./payments/) |
+| 💳 **Payments** | 127 | [Browse →](./payments/) |
 | 📈 **Trading** | 117 | [Browse →](./trading/) |
 | 🔐 **Security** | 105 | [Browse →](./security/) |
 | ✨ **Design** | 39 | [Browse →](./design/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [samber/awesome-prometheus-alerts](./misc/samber-awesome-prometheus-alerts.md) | ⭐ 7.9k | Misc |
-| 2 | [hwdsl2/docker-ipsec-vpn-server](./backend/hwdsl2-docker-ipsec-vpn-server.md) | ⭐ 7.1k | Backend |
-| 3 | [emqx/emqx](./aiml/emqx-emqx.md) | ⭐ 16.2k | AI/ML |
-| 4 | [keybase/client](./frontend/keybase-client.md) | ⭐ 9.2k | Frontend |
+| 1 | [koreader/koreader](./mobile/koreader-koreader.md) | ⭐ 26.5k | Mobile |
+| 2 | [samber/awesome-prometheus-alerts](./misc/samber-awesome-prometheus-alerts.md) | ⭐ 7.9k | Misc |
+| 3 | [hwdsl2/docker-ipsec-vpn-server](./backend/hwdsl2-docker-ipsec-vpn-server.md) | ⭐ 7.1k | Backend |
+| 4 | [elizaOS/eliza](./crypto/elizaos-eliza.md) | ⭐ 18.3k | Crypto |
 | 5 | [logseq/logseq](./product/logseq-logseq.md) | ⭐ 42.5k | Product |
-| 6 | [LizardByte/Sunshine](./aiml/lizardbyte-sunshine.md) | ⭐ 36.5k | AI/ML |
-| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 8 | [renovatebot/renovate](./devtools/renovatebot-renovate.md) | ⭐ 21.4k | DevTools |
-| 9 | [netbirdio/netbird](./misc/netbirdio-netbird.md) | ⭐ 24.9k | Misc |
-| 10 | [supermemoryai/supermemory](./orchestration/supermemoryai-supermemory.md) | ⭐ 22.3k | Orchestration |
+| 6 | [zhkl0228/unidbg](./mobile/zhkl0228-unidbg.md) | ⭐ 4.9k | Mobile |
+| 7 | [huggingface/transformers](./crypto/huggingface-transformers.md) | ⭐ 160.1k | Crypto |
+| 8 | [gruntwork-io/terratest](./devtools/gruntwork-io-terratest.md) | ⭐ 7.9k | DevTools |
+| 9 | [MISP/MISP](./trading/misp-misp.md) | ⭐ 6.3k | Trading |
+| 10 | [assistant-ui/assistant-ui](./aiml/assistant-ui-assistant-ui.md) | ⭐ 9.8k | AI/ML |
 
 ## 🚀 How it works
 

@@ -1,6 +1,6 @@
 # tcurdt/jdeb
 
-[![Stars](https://img.shields.io/github/stars/tcurdt/jdeb?style=flat-square&color=yellow)](https://github.com/tcurdt/jdeb/stargazers) [![Forks](https://img.shields.io/github/forks/tcurdt/jdeb?style=flat-square&color=blue)](https://github.com/tcurdt/jdeb/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tcurdt/jdeb?style=flat-square&color=yellow)](https://github.com/tcurdt/jdeb/stargazers) [![Forks](https://img.shields.io/github/forks/tcurdt/jdeb?style=flat-square&color=blue)](https://github.com/tcurdt/jdeb/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > This library provides an Ant task and a Maven plugin to create Debian packages from Java builds in a truly cross platform manner.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 310 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,17 +1,17 @@
 # bruin-data/dac
 
-[![Stars](https://img.shields.io/github/stars/bruin-data/dac?style=flat-square&color=yellow)](https://github.com/bruin-data/dac/stargazers) [![Forks](https://img.shields.io/github/forks/bruin-data/dac?style=flat-square&color=blue)](https://github.com/bruin-data/dac/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bruin-data/dac?style=flat-square&color=yellow)](https://github.com/bruin-data/dac/stargazers) [![Forks](https://img.shields.io/github/forks/bruin-data/dac?style=flat-square&color=blue)](https://github.com/bruin-data/dac/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> dac is a dashboard-as-tool code. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 28 |
+| 🍴 **Forks** | 1 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Frontend · Data
 
 ## 📝 Summary
 

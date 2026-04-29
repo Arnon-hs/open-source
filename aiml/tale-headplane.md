@@ -1,6 +1,6 @@
 # tale/headplane
 
-[![Stars](https://img.shields.io/github/stars/tale/headplane?style=flat-square&color=yellow)](https://github.com/tale/headplane/stargazers) [![Forks](https://img.shields.io/github/forks/tale/headplane?style=flat-square&color=blue)](https://github.com/tale/headplane/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tale/headplane?style=flat-square&color=yellow)](https://github.com/tale/headplane/stargazers) [![Forks](https://img.shields.io/github/forks/tale/headplane?style=flat-square&color=blue)](https://github.com/tale/headplane/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A feature-complete Web UI for Headscale
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

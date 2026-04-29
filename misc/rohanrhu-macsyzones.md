@@ -1,6 +1,6 @@
 # rohanrhu/MacsyZones
 
-[![Stars](https://img.shields.io/github/stars/rohanrhu/MacsyZones?style=flat-square&color=yellow)](https://github.com/rohanrhu/MacsyZones/stargazers) [![Forks](https://img.shields.io/github/forks/rohanrhu/MacsyZones?style=flat-square&color=blue)](https://github.com/rohanrhu/MacsyZones/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rohanrhu/MacsyZones?style=flat-square&color=yellow)](https://github.com/rohanrhu/MacsyZones/stargazers) [![Forks](https://img.shields.io/github/forks/rohanrhu/MacsyZones?style=flat-square&color=blue)](https://github.com/rohanrhu/MacsyZones/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 801 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

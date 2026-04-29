@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain-google?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchain-google/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain-google?style=flat-square&color=blue)](https://github.com/langchain-ai/langchain-google/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
-> 🦜🔗 LangChain interfaces to Google's suite of AI products (Gemini & Vertex AI)
+> 🦜🔗 LangChain interfaces to Google's suite of AI products (e.g. Gemini & Vertex AI)
 
 ## 📊 Stats
 

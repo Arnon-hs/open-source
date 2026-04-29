@@ -1,6 +1,6 @@
 # nico-martin/gemma4-browser-extension
 
-[![Stars](https://img.shields.io/github/stars/nico-martin/gemma4-browser-extension?style=flat-square&color=yellow)](https://github.com/nico-martin/gemma4-browser-extension/stargazers) [![Forks](https://img.shields.io/github/forks/nico-martin/gemma4-browser-extension?style=flat-square&color=blue)](https://github.com/nico-martin/gemma4-browser-extension/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nico-martin/gemma4-browser-extension?style=flat-square&color=yellow)](https://github.com/nico-martin/gemma4-browser-extension/stargazers) [![Forks](https://img.shields.io/github/forks/nico-martin/gemma4-browser-extension?style=flat-square&color=blue)](https://github.com/nico-martin/gemma4-browser-extension/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > On-device AI agent Chrome extension powered by Transformers.js and Gemma 4
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 615 |
-| 🍴 **Forks** | 75 |
+| ⭐ **Stars** | 627 |
+| 🍴 **Forks** | 77 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

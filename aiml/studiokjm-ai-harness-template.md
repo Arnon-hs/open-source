@@ -1,6 +1,6 @@
 # studioKjm/ai-harness-template
 
-[![Stars](https://img.shields.io/github/stars/studioKjm/ai-harness-template?style=flat-square&color=yellow)](https://github.com/studioKjm/ai-harness-template/stargazers) [![Forks](https://img.shields.io/github/forks/studioKjm/ai-harness-template?style=flat-square&color=blue)](https://github.com/studioKjm/ai-harness-template/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/studioKjm/ai-harness-template?style=flat-square&color=yellow)](https://github.com/studioKjm/ai-harness-template/stargazers) [![Forks](https://img.shields.io/github/forks/studioKjm/ai-harness-template?style=flat-square&color=blue)](https://github.com/studioKjm/ai-harness-template/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > AI Harness Engineering Template — guardrails, gates, and boundaries for AI coding agents. One-command install. Zero dependencies.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 3 |
-| 💻 **Language** | Shell |
+| 💻 **Language** | Python |
 | 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

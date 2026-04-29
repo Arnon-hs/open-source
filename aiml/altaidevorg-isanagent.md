@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/altaidevorg/isanagent?style=flat-square&color=yellow)](https://github.com/altaidevorg/isanagent/stargazers) [![Forks](https://img.shields.io/github/forks/altaidevorg/isanagent?style=flat-square&color=blue)](https://github.com/altaidevorg/isanagent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> Your always-on and autonomous ML engineer that works 24/7 to conduct research, generate datasets, train models, learn and evolve. Works on Colab, local GPU or over SSH. Zero infra needed
+> Like Openclaw, but for ML engineering. Your always-on and autonomous ML engineer that works 24/7 to conduct research, generate datasets, train models, learn and evolve. Works on Colab, local GPU or over SSH. Zero infra needed
 
 ## 📊 Stats
 

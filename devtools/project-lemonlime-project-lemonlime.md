@@ -1,6 +1,6 @@
 # Project-LemonLime/Project_LemonLime
 
-[![Stars](https://img.shields.io/github/stars/Project-LemonLime/Project_LemonLime?style=flat-square&color=yellow)](https://github.com/Project-LemonLime/Project_LemonLime/stargazers) [![Forks](https://img.shields.io/github/forks/Project-LemonLime/Project_LemonLime?style=flat-square&color=blue)](https://github.com/Project-LemonLime/Project_LemonLime/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Project-LemonLime/Project_LemonLime?style=flat-square&color=yellow)](https://github.com/Project-LemonLime/Project_LemonLime/stargazers) [![Forks](https://img.shields.io/github/forks/Project-LemonLime/Project_LemonLime?style=flat-square&color=blue)](https://github.com/Project-LemonLime/Project_LemonLime/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 684 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

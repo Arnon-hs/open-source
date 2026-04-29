@@ -1,6 +1,6 @@
 # mnfst/awesome-free-llm-apis
 
-[![Stars](https://img.shields.io/github/stars/mnfst/awesome-free-llm-apis?style=flat-square&color=yellow)](https://github.com/mnfst/awesome-free-llm-apis/stargazers) [![Forks](https://img.shields.io/github/forks/mnfst/awesome-free-llm-apis?style=flat-square&color=blue)](https://github.com/mnfst/awesome-free-llm-apis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mnfst/awesome-free-llm-apis?style=flat-square&color=yellow)](https://github.com/mnfst/awesome-free-llm-apis/stargazers) [![Forks](https://img.shields.io/github/forks/mnfst/awesome-free-llm-apis?style=flat-square&color=blue)](https://github.com/mnfst/awesome-free-llm-apis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > List of Permanent Free LLM API  (API Keys)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 381 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

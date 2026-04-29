@@ -1,6 +1,6 @@
 # eltociear/awesome-molt-ecosystem
 
-[![Stars](https://img.shields.io/github/stars/eltociear/awesome-molt-ecosystem?style=flat-square&color=yellow)](https://github.com/eltociear/awesome-molt-ecosystem/stargazers) [![Forks](https://img.shields.io/github/forks/eltociear/awesome-molt-ecosystem?style=flat-square&color=blue)](https://github.com/eltociear/awesome-molt-ecosystem/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eltociear/awesome-molt-ecosystem?style=flat-square&color=yellow)](https://github.com/eltociear/awesome-molt-ecosystem/stargazers) [![Forks](https://img.shields.io/github/forks/eltociear/awesome-molt-ecosystem?style=flat-square&color=blue)](https://github.com/eltociear/awesome-molt-ecosystem/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The brutally honest guide to 200+ AI agent platforms. Tier S-D ratings, x402 economy, 68+ CVEs, bug bounty pipeline. I registered on 200+ platforms so you don't have to.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

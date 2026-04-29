@@ -1,17 +1,17 @@
 # stepbrobd/miroir
 
-[![Stars](https://img.shields.io/github/stars/stepbrobd/miroir?style=flat-square&color=yellow)](https://github.com/stepbrobd/miroir/stargazers) [![Forks](https://img.shields.io/github/forks/stepbrobd/miroir?style=flat-square&color=blue)](https://github.com/stepbrobd/miroir/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stepbrobd/miroir?style=flat-square&color=yellow)](https://github.com/stepbrobd/miroir/stargazers) [![Forks](https://img.shields.io/github/forks/stepbrobd/miroir?style=flat-square&color=blue)](https://github.com/stepbrobd/miroir/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> repo manager wannabe?
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 8 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
