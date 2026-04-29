@@ -1,6 +1,6 @@
 # capsulerun/capsule
 
-[![Stars](https://img.shields.io/github/stars/capsulerun/capsule?style=flat-square&color=yellow)](https://github.com/capsulerun/capsule/stargazers) [![Forks](https://img.shields.io/github/forks/capsulerun/capsule?style=flat-square&color=blue)](https://github.com/capsulerun/capsule/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/capsulerun/capsule?style=flat-square&color=yellow)](https://github.com/capsulerun/capsule/stargazers) [![Forks](https://img.shields.io/github/forks/capsulerun/capsule?style=flat-square&color=blue)](https://github.com/capsulerun/capsule/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Run untrusted code in isolated WebAssembly sandboxes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 279 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

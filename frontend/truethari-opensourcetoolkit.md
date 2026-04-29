@@ -1,6 +1,6 @@
 # truethari/OpensourceToolkit
 
-[![Stars](https://img.shields.io/github/stars/truethari/OpensourceToolkit?style=flat-square&color=yellow)](https://github.com/truethari/OpensourceToolkit/stargazers) [![Forks](https://img.shields.io/github/forks/truethari/OpensourceToolkit?style=flat-square&color=blue)](https://github.com/truethari/OpensourceToolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/truethari/OpensourceToolkit?style=flat-square&color=yellow)](https://github.com/truethari/OpensourceToolkit/stargazers) [![Forks](https://img.shields.io/github/forks/truethari/OpensourceToolkit?style=flat-square&color=blue)](https://github.com/truethari/OpensourceToolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, comprehensive collection of developer and utility tools built with Next.js 15, React 19, and TypeScript. Designed for developers, security professionals, and anyone who needs reliable, fast, and secure utility tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

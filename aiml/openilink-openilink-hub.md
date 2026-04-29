@@ -1,6 +1,6 @@
 # openilink/openilink-hub
 
-[![Stars](https://img.shields.io/github/stars/openilink/openilink-hub?style=flat-square&color=yellow)](https://github.com/openilink/openilink-hub/stargazers) [![Forks](https://img.shields.io/github/forks/openilink/openilink-hub?style=flat-square&color=blue)](https://github.com/openilink/openilink-hub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openilink/openilink-hub?style=flat-square&color=yellow)](https://github.com/openilink/openilink-hub/stargazers) [![Forks](https://img.shields.io/github/forks/openilink/openilink-hub?style=flat-square&color=blue)](https://github.com/openilink/openilink-hub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 开源微信 Bot 管理平台 + App 应用市场 | Self-hosted WeChat Bot Platform with App Marketplace | Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps | AI Tools | 7 Language SDKs
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 79 |
+| 🍴 **Forks** | 81 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

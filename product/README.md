@@ -32,7 +32,7 @@
 | 22 | [ralfbiedert/interoptopus](./ralfbiedert-interoptopus.md) | ⭐ 462 | Rust | 48/100 |
 | 23 | [getsentry/relay](./getsentry-relay.md) | ⭐ 375 | Rust | 46/100 |
 | 24 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 314 | Rust | 42/100 |
-| 25 | [verona-team/verona-atlas](./verona-team-verona-atlas.md) | ⭐ 10 | Python | 36/100 |
+| 25 | [verona-team/verona-atlas](./verona-team-verona-atlas.md) | ⭐ 14 | Python | 36/100 |
 
 ---
 

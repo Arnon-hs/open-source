@@ -1,6 +1,6 @@
 # kuvasz-uptime/kuvasz
 
-[![Stars](https://img.shields.io/github/stars/kuvasz-uptime/kuvasz?style=flat-square&color=yellow)](https://github.com/kuvasz-uptime/kuvasz/stargazers) [![Forks](https://img.shields.io/github/forks/kuvasz-uptime/kuvasz?style=flat-square&color=blue)](https://github.com/kuvasz-uptime/kuvasz/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kuvasz-uptime/kuvasz?style=flat-square&color=yellow)](https://github.com/kuvasz-uptime/kuvasz/stargazers) [![Forks](https://img.shields.io/github/forks/kuvasz-uptime/kuvasz?style=flat-square&color=blue)](https://github.com/kuvasz-uptime/kuvasz/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 513 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

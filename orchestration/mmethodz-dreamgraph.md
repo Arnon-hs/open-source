@@ -1,6 +1,6 @@
 # mmethodz/dreamgraph
 
-[![Stars](https://img.shields.io/github/stars/mmethodz/dreamgraph?style=flat-square&color=yellow)](https://github.com/mmethodz/dreamgraph/stargazers) [![Forks](https://img.shields.io/github/forks/mmethodz/dreamgraph?style=flat-square&color=blue)](https://github.com/mmethodz/dreamgraph/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mmethodz/dreamgraph?style=flat-square&color=yellow)](https://github.com/mmethodz/dreamgraph/stargazers) [![Forks](https://img.shields.io/github/forks/mmethodz/dreamgraph?style=flat-square&color=blue)](https://github.com/mmethodz/dreamgraph/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > DreamGraph is a graph-first cognitive layer (graph → MCP → CLI → dashboard → extension) that builds a persistent knowledge graph to reason, validate changes, and generate docs.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 37 |
-| 🍴 **Forks** | 13 |
+| ⭐ **Stars** | 42 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

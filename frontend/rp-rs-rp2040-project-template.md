@@ -1,6 +1,6 @@
 # rp-rs/rp2040-project-template
 
-[![Stars](https://img.shields.io/github/stars/rp-rs/rp2040-project-template?style=flat-square&color=yellow)](https://github.com/rp-rs/rp2040-project-template/stargazers) [![Forks](https://img.shields.io/github/forks/rp-rs/rp2040-project-template?style=flat-square&color=blue)](https://github.com/rp-rs/rp2040-project-template/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rp-rs/rp2040-project-template?style=flat-square&color=yellow)](https://github.com/rp-rs/rp2040-project-template/stargazers) [![Forks](https://img.shields.io/github/forks/rp-rs/rp2040-project-template?style=flat-square&color=blue)](https://github.com/rp-rs/rp2040-project-template/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A basic rp2040-hal project with blinky and rtt logging example code. With this you can quickly get started on a new rp2040 project
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

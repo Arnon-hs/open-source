@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/Alishahryar1/free-claude-code?style=flat-square&color=yellow)](https://github.com/Alishahryar1/free-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/Alishahryar1/free-claude-code?style=flat-square&color=blue)](https://github.com/Alishahryar1/free-claude-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
-> Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
+> Use claude-code for free in the terminal, VSCode extension or discord like openclaw
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 17.6k |
+| ⭐ **Stars** | 17.8k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |

@@ -1,6 +1,6 @@
 # anombyte93/atlas-session-lifecycle
 
-[![Stars](https://img.shields.io/github/stars/anombyte93/atlas-session-lifecycle?style=flat-square&color=yellow)](https://github.com/anombyte93/atlas-session-lifecycle/stargazers) [![Forks](https://img.shields.io/github/forks/anombyte93/atlas-session-lifecycle?style=flat-square&color=blue)](https://github.com/anombyte93/atlas-session-lifecycle/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anombyte93/atlas-session-lifecycle?style=flat-square&color=yellow)](https://github.com/anombyte93/atlas-session-lifecycle/stargazers) [![Forks](https://img.shields.io/github/forks/anombyte93/atlas-session-lifecycle?style=flat-square&color=blue)](https://github.com/anombyte93/atlas-session-lifecycle/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Session lifecycle management for Claude Code — persistent memory, soul purpose, reconcile, harvest, archive
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 86 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

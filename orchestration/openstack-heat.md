@@ -1,6 +1,6 @@
 # openstack/heat
 
-[![Stars](https://img.shields.io/github/stars/openstack/heat?style=flat-square&color=yellow)](https://github.com/openstack/heat/stargazers) [![Forks](https://img.shields.io/github/forks/openstack/heat?style=flat-square&color=blue)](https://github.com/openstack/heat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openstack/heat?style=flat-square&color=yellow)](https://github.com/openstack/heat/stargazers) [![Forks](https://img.shields.io/github/forks/openstack/heat?style=flat-square&color=blue)](https://github.com/openstack/heat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > OpenStack Orchestration (Heat). Mirror of code maintained at opendev.org.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 409 |
 | 🍴 **Forks** | 344 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

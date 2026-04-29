@@ -1,6 +1,6 @@
 # koukekoukej-glitch/feynman-tutor
 
-[![Stars](https://img.shields.io/github/stars/koukekoukej-glitch/feynman-tutor?style=flat-square&color=yellow)](https://github.com/koukekoukej-glitch/feynman-tutor/stargazers) [![Forks](https://img.shields.io/github/forks/koukekoukej-glitch/feynman-tutor?style=flat-square&color=blue)](https://github.com/koukekoukej-glitch/feynman-tutor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/koukekoukej-glitch/feynman-tutor?style=flat-square&color=yellow)](https://github.com/koukekoukej-glitch/feynman-tutor/stargazers) [![Forks](https://img.shields.io/github/forks/koukekoukej-glitch/feynman-tutor?style=flat-square&color=blue)](https://github.com/koukekoukej-glitch/feynman-tutor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > AI teaching Skill based on the Feynman Technique — makes YOU teach the AI to expose gaps in your understanding. Works with Claude Code, Cursor, Windsurf, and any LLM agent framework.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

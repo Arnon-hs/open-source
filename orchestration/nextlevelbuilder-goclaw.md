@@ -1,6 +1,6 @@
 # nextlevelbuilder/goclaw
 
-[![Stars](https://img.shields.io/github/stars/nextlevelbuilder/goclaw?style=flat-square&color=yellow)](https://github.com/nextlevelbuilder/goclaw/stargazers) [![Forks](https://img.shields.io/github/forks/nextlevelbuilder/goclaw?style=flat-square&color=blue)](https://github.com/nextlevelbuilder/goclaw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextlevelbuilder/goclaw?style=flat-square&color=yellow)](https://github.com/nextlevelbuilder/goclaw/stargazers) [![Forks](https://img.shields.io/github/forks/nextlevelbuilder/goclaw?style=flat-square&color=blue)](https://github.com/nextlevelbuilder/goclaw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 781 |
+| 🍴 **Forks** | 783 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

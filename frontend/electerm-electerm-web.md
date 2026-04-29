@@ -1,6 +1,6 @@
 # electerm/electerm-web
 
-[![Stars](https://img.shields.io/github/stars/electerm/electerm-web?style=flat-square&color=yellow)](https://github.com/electerm/electerm-web/stargazers) [![Forks](https://img.shields.io/github/forks/electerm/electerm-web?style=flat-square&color=blue)](https://github.com/electerm/electerm-web/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/electerm/electerm-web?style=flat-square&color=yellow)](https://github.com/electerm/electerm-web/stargazers) [![Forks](https://img.shields.io/github/forks/electerm/electerm-web?style=flat-square&color=blue)](https://github.com/electerm/electerm-web/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Running electerm as web app
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

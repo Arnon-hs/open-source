@@ -1,6 +1,6 @@
 # RareDevs/Rare
 
-[![Stars](https://img.shields.io/github/stars/RareDevs/Rare?style=flat-square&color=yellow)](https://github.com/RareDevs/Rare/stargazers) [![Forks](https://img.shields.io/github/forks/RareDevs/Rare?style=flat-square&color=blue)](https://github.com/RareDevs/Rare/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RareDevs/Rare?style=flat-square&color=yellow)](https://github.com/RareDevs/Rare/stargazers) [![Forks](https://img.shields.io/github/forks/RareDevs/Rare?style=flat-square&color=blue)](https://github.com/RareDevs/Rare/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Rare is an open source alternative for Epic Games Launcher, using Legendary.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 884 |
+| ⭐ **Stars** | 885 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

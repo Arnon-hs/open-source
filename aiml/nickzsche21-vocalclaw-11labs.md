@@ -1,6 +1,6 @@
 # nickzsche21/VocalClaw_11Labs
 
-[![Stars](https://img.shields.io/github/stars/nickzsche21/VocalClaw_11Labs?style=flat-square&color=yellow)](https://github.com/nickzsche21/VocalClaw_11Labs/stargazers) [![Forks](https://img.shields.io/github/forks/nickzsche21/VocalClaw_11Labs?style=flat-square&color=blue)](https://github.com/nickzsche21/VocalClaw_11Labs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nickzsche21/VocalClaw_11Labs?style=flat-square&color=yellow)](https://github.com/nickzsche21/VocalClaw_11Labs/stargazers) [![Forks](https://img.shields.io/github/forks/nickzsche21/VocalClaw_11Labs?style=flat-square&color=blue)](https://github.com/nickzsche21/VocalClaw_11Labs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Run OpenClaw AI agent with zero API cost, local LLM via AirLLM
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 94 |
+| ⭐ **Stars** | 95 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

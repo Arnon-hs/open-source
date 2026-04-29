@@ -1,6 +1,6 @@
 # rust-embedded/svd2rust
 
-[![Stars](https://img.shields.io/github/stars/rust-embedded/svd2rust?style=flat-square&color=yellow)](https://github.com/rust-embedded/svd2rust/stargazers) [![Forks](https://img.shields.io/github/forks/rust-embedded/svd2rust?style=flat-square&color=blue)](https://github.com/rust-embedded/svd2rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-embedded/svd2rust?style=flat-square&color=yellow)](https://github.com/rust-embedded/svd2rust/stargazers) [![Forks](https://img.shields.io/github/forks/rust-embedded/svd2rust?style=flat-square&color=blue)](https://github.com/rust-embedded/svd2rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Generate Rust register maps (`struct`s) from SVD files
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 837 |
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

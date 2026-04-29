@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **10962** |
+| 🗂️ **Total projects** | **11036** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4207 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2090 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1080 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 876 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 657 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 646 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 4228 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2107 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1087 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 879 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 666 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 655 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 392 | [Browse →](./crypto/) |
-| 📊 **Data** | 237 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 228 | [Browse →](./devopsinfra/) |
+| 📊 **Data** | 239 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 232 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 136 | [Browse →](./mobile/) |
 | 💳 **Payments** | 124 | [Browse →](./payments/) |
-| 📈 **Trading** | 111 | [Browse →](./trading/) |
-| 🔐 **Security** | 96 | [Browse →](./security/) |
+| 📈 **Trading** | 112 | [Browse →](./trading/) |
+| 🔐 **Security** | 97 | [Browse →](./security/) |
 | ✨ **Design** | 36 | [Browse →](./design/) |
 | 🎯 **Product** | 25 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 21 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
-| 2 | [docling-project/docling](./aiml/docling-project-docling.md) | ⭐ 58.7k | AI/ML |
-| 3 | [flutter/flutter](./frontend/flutter-flutter.md) | ⭐ 176.1k | Frontend |
-| 4 | [unslothai/unsloth](./aiml/unslothai-unsloth.md) | ⭐ 63.2k | AI/ML |
-| 5 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 6 | [HKUDS/DeepTutor](./orchestration/hkuds-deeptutor.md) | ⭐ 22.4k | Orchestration |
-| 7 | [OutlineFoundation/outline-apps](./backend/outlinefoundation-outline-apps.md) | ⭐ 9.1k | Backend |
-| 8 | [sktime/sktime](./aiml/sktime-sktime.md) | ⭐ 9.7k | AI/ML |
-| 9 | [oppia/oppia](./misc/oppia-oppia.md) | ⭐ 6.7k | Misc |
-| 10 | [dotnet/maui](./frontend/dotnet-maui.md) | ⭐ 23.2k | Frontend |
+| 1 | [tiajinsha/JKVideo](./frontend/tiajinsha-jkvideo.md) | ⭐ 4.9k | Frontend |
+| 2 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
+| 3 | [matplotlib/matplotlib](./data/matplotlib-matplotlib.md) | ⭐ 22.8k | Data |
+| 4 | [sharkdp/fd](./devtools/sharkdp-fd.md) | ⭐ 42.7k | DevTools |
+| 5 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 123.5k | AI/ML |
+| 6 | [oapi-codegen/oapi-codegen](./backend/oapi-codegen-oapi-codegen.md) | ⭐ 8.3k | Backend |
+| 7 | [micro-editor/micro](./frontend/micro-editor-micro.md) | ⭐ 28.5k | Frontend |
+| 8 | [statelyai/xstate](./orchestration/statelyai-xstate.md) | ⭐ 29.6k | Orchestration |
+| 9 | [alibaba/page-agent](./aiml/alibaba-page-agent.md) | ⭐ 17.5k | AI/ML |
+| 10 | [nginx/kubernetes-ingress](./devopsinfra/nginx-kubernetes-ingress.md) | ⭐ 5k | DevOps & Infra |
 
 ## 🚀 How it works
 

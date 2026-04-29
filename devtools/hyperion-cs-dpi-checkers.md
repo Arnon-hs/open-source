@@ -1,6 +1,6 @@
 # hyperion-cs/dpi-checkers
 
-[![Stars](https://img.shields.io/github/stars/hyperion-cs/dpi-checkers?style=flat-square&color=yellow)](https://github.com/hyperion-cs/dpi-checkers/stargazers) [![Forks](https://img.shields.io/github/forks/hyperion-cs/dpi-checkers?style=flat-square&color=blue)](https://github.com/hyperion-cs/dpi-checkers/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperion-cs/dpi-checkers?style=flat-square&color=yellow)](https://github.com/hyperion-cs/dpi-checkers/stargazers) [![Forks](https://img.shields.io/github/forks/hyperion-cs/dpi-checkers?style=flat-square&color=blue)](https://github.com/hyperion-cs/dpi-checkers/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Checkers to test your internet provider for censorship.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 831 |
+| ⭐ **Stars** | 833 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

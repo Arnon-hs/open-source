@@ -1,6 +1,6 @@
 # SkyD666/PodAura
 
-[![Stars](https://img.shields.io/github/stars/SkyD666/PodAura?style=flat-square&color=yellow)](https://github.com/SkyD666/PodAura/stargazers) [![Forks](https://img.shields.io/github/forks/SkyD666/PodAura?style=flat-square&color=blue)](https://github.com/SkyD666/PodAura/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SkyD666/PodAura?style=flat-square&color=yellow)](https://github.com/SkyD666/PodAura/stargazers) [![Forks](https://img.shields.io/github/forks/SkyD666/PodAura?style=flat-square&color=blue)](https://github.com/SkyD666/PodAura/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > All-in-on podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

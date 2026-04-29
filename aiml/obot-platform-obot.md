@@ -1,6 +1,6 @@
 # obot-platform/obot
 
-[![Stars](https://img.shields.io/github/stars/obot-platform/obot?style=flat-square&color=yellow)](https://github.com/obot-platform/obot/stargazers) [![Forks](https://img.shields.io/github/forks/obot-platform/obot?style=flat-square&color=blue)](https://github.com/obot-platform/obot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/obot-platform/obot?style=flat-square&color=yellow)](https://github.com/obot-platform/obot/stargazers) [![Forks](https://img.shields.io/github/forks/obot-platform/obot?style=flat-square&color=blue)](https://github.com/obot-platform/obot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Complete MCP Platform -- Hosting, Registry, Gateway, and Chat Client
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 730 |
+| ⭐ **Stars** | 732 |
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

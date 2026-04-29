@@ -1,6 +1,6 @@
 # mintoolkit/mint
 
-[![Stars](https://img.shields.io/github/stars/mintoolkit/mint?style=flat-square&color=yellow)](https://github.com/mintoolkit/mint/stargazers) [![Forks](https://img.shields.io/github/forks/mintoolkit/mint?style=flat-square&color=blue)](https://github.com/mintoolkit/mint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mintoolkit/mint?style=flat-square&color=yellow)](https://github.com/mintoolkit/mint/stargazers) [![Forks](https://img.shields.io/github/forks/mintoolkit/mint?style=flat-square&color=blue)](https://github.com/mintoolkit/mint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > minT(oolkit): Mint awesome, secure and production ready containers just the way you need them! Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

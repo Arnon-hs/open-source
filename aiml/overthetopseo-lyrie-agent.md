@@ -1,6 +1,6 @@
 # overthetopseo/lyrie-agent
 
-[![Stars](https://img.shields.io/github/stars/overthetopseo/lyrie-agent?style=flat-square&color=yellow)](https://github.com/overthetopseo/lyrie-agent/stargazers) [![Forks](https://img.shields.io/github/forks/overthetopseo/lyrie-agent?style=flat-square&color=blue)](https://github.com/overthetopseo/lyrie-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/overthetopseo/lyrie-agent?style=flat-square&color=yellow)](https://github.com/overthetopseo/lyrie-agent/stargazers) [![Forks](https://img.shields.io/github/forks/overthetopseo/lyrie-agent?style=flat-square&color=blue)](https://github.com/overthetopseo/lyrie-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The world's first autonomous AI agent with built-in cybersecurity. By OTT Cybersecurity LLC.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 520 |
-| 🍴 **Forks** | 57 |
+| ⭐ **Stars** | 523 |
+| 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

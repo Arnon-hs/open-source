@@ -1,17 +1,17 @@
 # rsamborski/rag-migration
 
-[![Stars](https://img.shields.io/github/stars/rsamborski/rag-migration?style=flat-square&color=yellow)](https://github.com/rsamborski/rag-migration/stargazers) [![Forks](https://img.shields.io/github/forks/rsamborski/rag-migration?style=flat-square&color=blue)](https://github.com/rsamborski/rag-migration/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rsamborski/rag-migration?style=flat-square&color=yellow)](https://github.com/rsamborski/rag-migration/stargazers) [![Forks](https://img.shields.io/github/forks/rsamborski/rag-migration?style=flat-square&color=blue)](https://github.com/rsamborski/rag-migration/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag programming): How I used Gemini CLI to orchestrate a complex RAG migration
+> RAG Embedding Migration Framework
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 30/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 

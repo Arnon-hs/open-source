@@ -1,6 +1,6 @@
 # brisa-build/brisa
 
-[![Stars](https://img.shields.io/github/stars/brisa-build/brisa?style=flat-square&color=yellow)](https://github.com/brisa-build/brisa/stargazers) [![Forks](https://img.shields.io/github/forks/brisa-build/brisa?style=flat-square&color=blue)](https://github.com/brisa-build/brisa/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brisa-build/brisa?style=flat-square&color=yellow)](https://github.com/brisa-build/brisa/stargazers) [![Forks](https://img.shields.io/github/forks/brisa-build/brisa?style=flat-square&color=blue)](https://github.com/brisa-build/brisa/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The Web Platform Framework.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 778 |
+| ⭐ **Stars** | 777 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

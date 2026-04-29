@@ -1,6 +1,6 @@
 # lh3/minimap2
 
-[![Stars](https://img.shields.io/github/stars/lh3/minimap2?style=flat-square&color=yellow)](https://github.com/lh3/minimap2/stargazers) [![Forks](https://img.shields.io/github/forks/lh3/minimap2?style=flat-square&color=blue)](https://github.com/lh3/minimap2/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lh3/minimap2?style=flat-square&color=yellow)](https://github.com/lh3/minimap2/stargazers) [![Forks](https://img.shields.io/github/forks/lh3/minimap2?style=flat-square&color=blue)](https://github.com/lh3/minimap2/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A versatile pairwise aligner for genomic and spliced nucleotide sequences
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 460 |
 | 💻 **Language** | C |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/fosrl/pangolin?style=flat-square&color=yellow)](https://github.com/fosrl/pangolin/stargazers) [![Forks](https://img.shields.io/github/forks/fosrl/pangolin?style=flat-square&color=blue)](https://github.com/fosrl/pangolin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
-> Identity-aware VPN and tunneled reverse proxy for remote access.
+> Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # paulgessinger/swift-paperless
 
-[![Stars](https://img.shields.io/github/stars/paulgessinger/swift-paperless?style=flat-square&color=yellow)](https://github.com/paulgessinger/swift-paperless/stargazers) [![Forks](https://img.shields.io/github/forks/paulgessinger/swift-paperless?style=flat-square&color=blue)](https://github.com/paulgessinger/swift-paperless/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paulgessinger/swift-paperless?style=flat-square&color=yellow)](https://github.com/paulgessinger/swift-paperless/stargazers) [![Forks](https://img.shields.io/github/forks/paulgessinger/swift-paperless?style=flat-square&color=blue)](https://github.com/paulgessinger/swift-paperless/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Native iOS app for interacting with a Paperless-ngx installation to manage documents
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 902 |
+| ⭐ **Stars** | 904 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

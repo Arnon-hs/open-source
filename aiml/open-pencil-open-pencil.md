@@ -1,6 +1,6 @@
 # open-pencil/open-pencil
 
-[![Stars](https://img.shields.io/github/stars/open-pencil/open-pencil?style=flat-square&color=yellow)](https://github.com/open-pencil/open-pencil/stargazers) [![Forks](https://img.shields.io/github/forks/open-pencil/open-pencil?style=flat-square&color=blue)](https://github.com/open-pencil/open-pencil/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-pencil/open-pencil?style=flat-square&color=yellow)](https://github.com/open-pencil/open-pencil/stargazers) [![Forks](https://img.shields.io/github/forks/open-pencil/open-pencil?style=flat-square&color=blue)](https://github.com/open-pencil/open-pencil/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > AI-native design editor. Open-source Figma alternative.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.5k |
-| 🍴 **Forks** | 386 |
+| 🍴 **Forks** | 387 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

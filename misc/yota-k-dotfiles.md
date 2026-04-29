@@ -1,6 +1,6 @@
 # Yota-K/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/Yota-K/dotfiles?style=flat-square&color=yellow)](https://github.com/Yota-K/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/Yota-K/dotfiles?style=flat-square&color=blue)](https://github.com/Yota-K/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yota-K/dotfiles?style=flat-square&color=yellow)](https://github.com/Yota-K/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/Yota-K/dotfiles?style=flat-square&color=blue)](https://github.com/Yota-K/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > my dotfiles
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
