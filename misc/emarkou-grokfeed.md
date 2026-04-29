@@ -1,17 +1,17 @@
 # emarkou/grokfeed
 
-[![Stars](https://img.shields.io/github/stars/emarkou/grokfeed?style=flat-square&color=yellow)](https://github.com/emarkou/grokfeed/stargazers) [![Forks](https://img.shields.io/github/forks/emarkou/grokfeed?style=flat-square&color=blue)](https://github.com/emarkou/grokfeed/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emarkou/grokfeed?style=flat-square&color=yellow)](https://github.com/emarkou/grokfeed/stargazers) [![Forks](https://img.shields.io/github/forks/emarkou/grokfeed?style=flat-square&color=blue)](https://github.com/emarkou/grokfeed/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> A terminal feed reader for HN and Reddit and lobste.rs
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

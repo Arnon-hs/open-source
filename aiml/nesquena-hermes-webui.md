@@ -1,6 +1,6 @@
 # nesquena/hermes-webui
 
-[![Stars](https://img.shields.io/github/stars/nesquena/hermes-webui?style=flat-square&color=yellow)](https://github.com/nesquena/hermes-webui/stargazers) [![Forks](https://img.shields.io/github/forks/nesquena/hermes-webui?style=flat-square&color=blue)](https://github.com/nesquena/hermes-webui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nesquena/hermes-webui?style=flat-square&color=yellow)](https://github.com/nesquena/hermes-webui/stargazers) [![Forks](https://img.shields.io/github/forks/nesquena/hermes-webui?style=flat-square&color=blue)](https://github.com/nesquena/hermes-webui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 597 |
+| 🍴 **Forks** | 605 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

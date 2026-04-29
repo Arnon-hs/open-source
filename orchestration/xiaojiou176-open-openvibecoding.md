@@ -1,6 +1,6 @@
 # xiaojiou176-open/OpenVibeCoding
 
-[![Stars](https://img.shields.io/github/stars/xiaojiou176-open/OpenVibeCoding?style=flat-square&color=yellow)](https://github.com/xiaojiou176-open/OpenVibeCoding/stargazers) [![Forks](https://img.shields.io/github/forks/xiaojiou176-open/OpenVibeCoding?style=flat-square&color=blue)](https://github.com/xiaojiou176-open/OpenVibeCoding/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xiaojiou176-open/OpenVibeCoding?style=flat-square&color=yellow)](https://github.com/xiaojiou176-open/OpenVibeCoding/stargazers) [![Forks](https://img.shields.io/github/forks/xiaojiou176-open/OpenVibeCoding?style=flat-square&color=blue)](https://github.com/xiaojiou176-open/OpenVibeCoding/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > OpenVibeCoding is the command tower for AI engineering: plan, delegate, track, resume, and prove long-running work across Codex and Claude Code.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 157 |
+| ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

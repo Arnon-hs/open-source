@@ -1,6 +1,6 @@
 # sdogruyol/cryload
 
-[![Stars](https://img.shields.io/github/stars/sdogruyol/cryload?style=flat-square&color=yellow)](https://github.com/sdogruyol/cryload/stargazers) [![Forks](https://img.shields.io/github/forks/sdogruyol/cryload?style=flat-square&color=blue)](https://github.com/sdogruyol/cryload/network) [![Language](https://img.shields.io/badge/lang-Crystal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sdogruyol/cryload?style=flat-square&color=yellow)](https://github.com/sdogruyol/cryload/stargazers) [![Forks](https://img.shields.io/github/forks/sdogruyol/cryload?style=flat-square&color=blue)](https://github.com/sdogruyol/cryload/network) [![Language](https://img.shields.io/badge/lang-Crystal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform HTTP load testing CLI: a modern ab/wrk alternative with machine-readable reports for CI/CD
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 187 |
+| ⭐ **Stars** | 188 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Crystal |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

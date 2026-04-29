@@ -1,6 +1,6 @@
 # elirantutia/vibeyard
 
-[![Stars](https://img.shields.io/github/stars/elirantutia/vibeyard?style=flat-square&color=yellow)](https://github.com/elirantutia/vibeyard/stargazers) [![Forks](https://img.shields.io/github/forks/elirantutia/vibeyard?style=flat-square&color=blue)](https://github.com/elirantutia/vibeyard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elirantutia/vibeyard?style=flat-square&color=yellow)](https://github.com/elirantutia/vibeyard/stargazers) [![Forks](https://img.shields.io/github/forks/elirantutia/vibeyard?style=flat-square&color=blue)](https://github.com/elirantutia/vibeyard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The IDE built for AI coding agents.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 718 |
-| 🍴 **Forks** | 94 |
+| ⭐ **Stars** | 725 |
+| 🍴 **Forks** | 96 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # kvcache-ai/Mooncake
 
-[![Stars](https://img.shields.io/github/stars/kvcache-ai/Mooncake?style=flat-square&color=yellow)](https://github.com/kvcache-ai/Mooncake/stargazers) [![Forks](https://img.shields.io/github/forks/kvcache-ai/Mooncake?style=flat-square&color=blue)](https://github.com/kvcache-ai/Mooncake/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kvcache-ai/Mooncake?style=flat-square&color=yellow)](https://github.com/kvcache-ai/Mooncake/stargazers) [![Forks](https://img.shields.io/github/forks/kvcache-ai/Mooncake?style=flat-square&color=blue)](https://github.com/kvcache-ai/Mooncake/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
 > Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.2k |
-| 🍴 **Forks** | 716 |
+| 🍴 **Forks** | 717 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 94/100 |
+| 📈 **Score** | 95/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

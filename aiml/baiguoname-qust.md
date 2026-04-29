@@ -1,6 +1,6 @@
 # baiguoname/qust
 
-[![Stars](https://img.shields.io/github/stars/baiguoname/qust?style=flat-square&color=yellow)](https://github.com/baiguoname/qust/stargazers) [![Forks](https://img.shields.io/github/forks/baiguoname/qust?style=flat-square&color=blue)](https://github.com/baiguoname/qust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/baiguoname/qust?style=flat-square&color=yellow)](https://github.com/baiguoname/qust/stargazers) [![Forks](https://img.shields.io/github/forks/baiguoname/qust?style=flat-square&color=blue)](https://github.com/baiguoname/qust/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 44 |
-| 💻 **Language** | Rust |
+| 💻 **Language** | JavaScript |
 | 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

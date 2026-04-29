@@ -1,6 +1,6 @@
 # Gisto/Gisto
 
-[![Stars](https://img.shields.io/github/stars/Gisto/Gisto?style=flat-square&color=yellow)](https://github.com/Gisto/Gisto/stargazers) [![Forks](https://img.shields.io/github/forks/Gisto/Gisto?style=flat-square&color=blue)](https://github.com/Gisto/Gisto/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gisto/Gisto?style=flat-square&color=yellow)](https://github.com/Gisto/Gisto/stargazers) [![Forks](https://img.shields.io/github/forks/Gisto/Gisto?style=flat-square&color=blue)](https://github.com/Gisto/Gisto/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists or GitLab snippets Infrastructure which means you can use all your existing snippets by connecting your GitHub/GitLab account!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # rocky-data/rocky
 
-[![Stars](https://img.shields.io/github/stars/rocky-data/rocky?style=flat-square&color=yellow)](https://github.com/rocky-data/rocky/stargazers) [![Forks](https://img.shields.io/github/forks/rocky-data/rocky?style=flat-square&color=blue)](https://github.com/rocky-data/rocky/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rocky-data/rocky?style=flat-square&color=yellow)](https://github.com/rocky-data/rocky/stargazers) [![Forks](https://img.shields.io/github/forks/rocky-data/rocky?style=flat-square&color=blue)](https://github.com/rocky-data/rocky/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The trust system for your data. Rust-based control plane for warehouse pipelines — branches, replay, column-level lineage, compile-time safety, per-model cost attribution. Keep Databricks or Snowflake. Bring Rocky for the DAG.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 37 |
+| ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

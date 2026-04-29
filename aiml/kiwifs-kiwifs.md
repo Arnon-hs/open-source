@@ -1,6 +1,6 @@
 # kiwifs/kiwifs
 
-[![Stars](https://img.shields.io/github/stars/kiwifs/kiwifs?style=flat-square&color=yellow)](https://github.com/kiwifs/kiwifs/stargazers) [![Forks](https://img.shields.io/github/forks/kiwifs/kiwifs?style=flat-square&color=blue)](https://github.com/kiwifs/kiwifs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kiwifs/kiwifs?style=flat-square&color=yellow)](https://github.com/kiwifs/kiwifs/stargazers) [![Forks](https://img.shields.io/github/forks/kiwifs/kiwifs?style=flat-square&color=blue)](https://github.com/kiwifs/kiwifs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Virtual filesystem agents can write, search, query, and trust
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 163 |
-| 🍴 **Forks** | 18 |
+| ⭐ **Stars** | 180 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

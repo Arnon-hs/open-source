@@ -1,6 +1,6 @@
 # nexu-io/nexu
 
-[![Stars](https://img.shields.io/github/stars/nexu-io/nexu?style=flat-square&color=yellow)](https://github.com/nexu-io/nexu/stargazers) [![Forks](https://img.shields.io/github/forks/nexu-io/nexu?style=flat-square&color=blue)](https://github.com/nexu-io/nexu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nexu-io/nexu?style=flat-square&color=yellow)](https://github.com/nexu-io/nexu/stargazers) [![Forks](https://img.shields.io/github/forks/nexu-io/nexu?style=flat-square&color=blue)](https://github.com/nexu-io/nexu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 221 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

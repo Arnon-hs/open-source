@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/retkowsky/Azure-AIGEN-demos?style=flat-square&color=yellow)](https://github.com/retkowsky/Azure-AIGEN-demos/stargazers) [![Forks](https://img.shields.io/github/forks/retkowsky/Azure-AIGEN-demos?style=flat-square&color=blue)](https://github.com/retkowsky/Azure-AIGEN-demos/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
-> Azure AI Foundry (demos, documentation, accelerators).
+> Microsoft Foundry (demos, documentation, accelerators).
 
 ## 📊 Stats
 

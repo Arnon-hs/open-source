@@ -1,6 +1,6 @@
 # CJackHwang/ds2api
 
-[![Stars](https://img.shields.io/github/stars/CJackHwang/ds2api?style=flat-square&color=yellow)](https://github.com/CJackHwang/ds2api/stargazers) [![Forks](https://img.shields.io/github/forks/CJackHwang/ds2api?style=flat-square&color=blue)](https://github.com/CJackHwang/ds2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CJackHwang/ds2api?style=flat-square&color=yellow)](https://github.com/CJackHwang/ds2api/stargazers) [![Forks](https://img.shields.io/github/forks/CJackHwang/ds2api?style=flat-square&color=blue)](https://github.com/CJackHwang/ds2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 691 |
+| ⭐ **Stars** | 2.6k |
+| 🍴 **Forks** | 700 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # huggingface/mcp-course
 
-[![Stars](https://img.shields.io/github/stars/huggingface/mcp-course?style=flat-square&color=yellow)](https://github.com/huggingface/mcp-course/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/mcp-course?style=flat-square&color=blue)](https://github.com/huggingface/mcp-course/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/mcp-course?style=flat-square&color=yellow)](https://github.com/huggingface/mcp-course/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/mcp-course?style=flat-square&color=blue)](https://github.com/huggingface/mcp-course/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 896 |
+| ⭐ **Stars** | 897 |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
