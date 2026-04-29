@@ -1,6 +1,6 @@
 # uccl-project/uccl
 
-[![Stars](https://img.shields.io/github/stars/uccl-project/uccl?style=flat-square&color=yellow)](https://github.com/uccl-project/uccl/stargazers) [![Forks](https://img.shields.io/github/forks/uccl-project/uccl?style=flat-square&color=blue)](https://github.com/uccl-project/uccl/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uccl-project/uccl?style=flat-square&color=yellow)](https://github.com/uccl-project/uccl/stargazers) [![Forks](https://img.shields.io/github/forks/uccl-project/uccl?style=flat-square&color=blue)](https://github.com/uccl-project/uccl/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > UCCL is an efficient communication library for GPUs, covering collectives, P2P (e.g., KV cache transfer, RL weight transfer), and EP (e.g., GPU-driven)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/AccumulateMore/CV?style=flat-square&color=yellow)](https://github.com/AccumulateMore/CV/stargazers) [![Forks](https://img.shields.io/github/forks/AccumulateMore/CV?style=flat-square&color=blue)](https://github.com/AccumulateMore/CV/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> ✔（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】
+> ✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】
 
 ## 📊 Stats
 

@@ -1,17 +1,17 @@
 # comfyanonymous/ComfyUI
 
-[![Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=flat-square&color=yellow)](https://github.com/comfyanonymous/ComfyUI/stargazers) [![Forks](https://img.shields.io/github/forks/comfyanonymous/ComfyUI?style=flat-square&color=blue)](https://github.com/comfyanonymous/ComfyUI/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=flat-square&color=yellow)](https://github.com/comfyanonymous/ComfyUI/stargazers) [![Forks](https://img.shields.io/github/forks/comfyanonymous/ComfyUI?style=flat-square&color=blue)](https://github.com/comfyanonymous/ComfyUI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag ai): Are We Using AI at the Wrong Scale?
+> The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| ⭐ **Stars** | 110.6k |
+| 🍴 **Forks** | 12.9k |
+| 💻 **Language** | Python |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Frontend · Backend
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # Xquik-dev/tweetclaw
 
-[![Stars](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=flat-square&color=yellow)](https://github.com/Xquik-dev/tweetclaw/stargazers) [![Forks](https://img.shields.io/github/forks/Xquik-dev/tweetclaw?style=flat-square&color=blue)](https://github.com/Xquik-dev/tweetclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=flat-square&color=yellow)](https://github.com/Xquik-dev/tweetclaw/stargazers) [![Forks](https://img.shields.io/github/forks/Xquik-dev/tweetclaw?style=flat-square&color=blue)](https://github.com/Xquik-dev/tweetclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Post tweets, reply, like, retweet, follow, DM & more from OpenClaw. Full X (formerly Twitter) automation via Xquik - 111 endpoints, reads from $0.00015/call (33x cheaper than the official X API). 2 tools, 2 commands, background event poller.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

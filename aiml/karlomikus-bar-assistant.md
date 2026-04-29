@@ -1,6 +1,6 @@
 # karlomikus/bar-assistant
 
-[![Stars](https://img.shields.io/github/stars/karlomikus/bar-assistant?style=flat-square&color=yellow)](https://github.com/karlomikus/bar-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/karlomikus/bar-assistant?style=flat-square&color=blue)](https://github.com/karlomikus/bar-assistant/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/karlomikus/bar-assistant?style=flat-square&color=yellow)](https://github.com/karlomikus/bar-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/karlomikus/bar-assistant?style=flat-square&color=blue)](https://github.com/karlomikus/bar-assistant/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Bar assistant is a all-in-one solution for managing your home bar
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # njbrake/agent-of-empires
 
-[![Stars](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&color=yellow)](https://github.com/njbrake/agent-of-empires/stargazers) [![Forks](https://img.shields.io/github/forks/njbrake/agent-of-empires?style=flat-square&color=blue)](https://github.com/njbrake/agent-of-empires/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&color=yellow)](https://github.com/njbrake/agent-of-empires/stargazers) [![Forks](https://img.shields.io/github/forks/njbrake/agent-of-empires?style=flat-square&color=blue)](https://github.com/njbrake/agent-of-empires/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 143 |
+| 🍴 **Forks** | 144 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

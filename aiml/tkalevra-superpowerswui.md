@@ -1,6 +1,6 @@
 # tkalevra/SuperPowersWUI
 
-[![Stars](https://img.shields.io/github/stars/tkalevra/SuperPowersWUI?style=flat-square&color=yellow)](https://github.com/tkalevra/SuperPowersWUI/stargazers) [![Forks](https://img.shields.io/github/forks/tkalevra/SuperPowersWUI?style=flat-square&color=blue)](https://github.com/tkalevra/SuperPowersWUI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tkalevra/SuperPowersWUI?style=flat-square&color=yellow)](https://github.com/tkalevra/SuperPowersWUI/stargazers) [![Forks](https://img.shields.io/github/forks/tkalevra/SuperPowersWUI?style=flat-square&color=blue)](https://github.com/tkalevra/SuperPowersWUI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Open WebUI tool port of Superpowers by Jesse Vincent — brainstorm → spec → plan → execute agentic dev workflow for local LLMs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

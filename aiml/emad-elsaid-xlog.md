@@ -1,6 +1,6 @@
 # emad-elsaid/xlog
 
-[![Stars](https://img.shields.io/github/stars/emad-elsaid/xlog?style=flat-square&color=yellow)](https://github.com/emad-elsaid/xlog/stargazers) [![Forks](https://img.shields.io/github/forks/emad-elsaid/xlog?style=flat-square&color=blue)](https://github.com/emad-elsaid/xlog/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emad-elsaid/xlog?style=flat-square&color=yellow)](https://github.com/emad-elsaid/xlog/stargazers) [![Forks](https://img.shields.io/github/forks/emad-elsaid/xlog?style=flat-square&color=blue)](https://github.com/emad-elsaid/xlog/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 💥 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and audio recording embedded in the note. and fast search through the KB
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 207 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

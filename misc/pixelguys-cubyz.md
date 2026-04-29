@@ -1,6 +1,6 @@
 # PixelGuys/Cubyz
 
-[![Stars](https://img.shields.io/github/stars/PixelGuys/Cubyz?style=flat-square&color=yellow)](https://github.com/PixelGuys/Cubyz/stargazers) [![Forks](https://img.shields.io/github/forks/PixelGuys/Cubyz?style=flat-square&color=blue)](https://github.com/PixelGuys/Cubyz/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PixelGuys/Cubyz?style=flat-square&color=yellow)](https://github.com/PixelGuys/Cubyz/stargazers) [![Forks](https://img.shields.io/github/forks/PixelGuys/Cubyz?style=flat-square&color=blue)](https://github.com/PixelGuys/Cubyz/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 217 |
+| 🍴 **Forks** | 218 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

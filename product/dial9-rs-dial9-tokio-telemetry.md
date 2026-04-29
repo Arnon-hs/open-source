@@ -1,6 +1,6 @@
 # dial9-rs/dial9-tokio-telemetry
 
-[![Stars](https://img.shields.io/github/stars/dial9-rs/dial9-tokio-telemetry?style=flat-square&color=yellow)](https://github.com/dial9-rs/dial9-tokio-telemetry/stargazers) [![Forks](https://img.shields.io/github/forks/dial9-rs/dial9-tokio-telemetry?style=flat-square&color=blue)](https://github.com/dial9-rs/dial9-tokio-telemetry/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dial9-rs/dial9-tokio-telemetry?style=flat-square&color=yellow)](https://github.com/dial9-rs/dial9-tokio-telemetry/stargazers) [![Forks](https://img.shields.io/github/forks/dial9-rs/dial9-tokio-telemetry?style=flat-square&color=blue)](https://github.com/dial9-rs/dial9-tokio-telemetry/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Tokio Telemetry you can run in production
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 314 |
-| 🍴 **Forks** | 20 |
+| 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

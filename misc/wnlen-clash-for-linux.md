@@ -1,6 +1,6 @@
 # wnlen/clash-for-linux
 
-[![Stars](https://img.shields.io/github/stars/wnlen/clash-for-linux?style=flat-square&color=yellow)](https://github.com/wnlen/clash-for-linux/stargazers) [![Forks](https://img.shields.io/github/forks/wnlen/clash-for-linux?style=flat-square&color=blue)](https://github.com/wnlen/clash-for-linux/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wnlen/clash-for-linux?style=flat-square&color=yellow)](https://github.com/wnlen/clash-for-linux/stargazers) [![Forks](https://img.shields.io/github/forks/wnlen/clash-for-linux?style=flat-square&color=blue)](https://github.com/wnlen/clash-for-linux/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
 > 🐧 一个更完整、更优雅的 Linux Clash / Mihomo 运行平台
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 99/100 |
+| 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

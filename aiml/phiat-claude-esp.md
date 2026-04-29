@@ -1,6 +1,6 @@
 # phiat/claude-esp
 
-[![Stars](https://img.shields.io/github/stars/phiat/claude-esp?style=flat-square&color=yellow)](https://github.com/phiat/claude-esp/stargazers) [![Forks](https://img.shields.io/github/forks/phiat/claude-esp?style=flat-square&color=blue)](https://github.com/phiat/claude-esp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phiat/claude-esp?style=flat-square&color=yellow)](https://github.com/phiat/claude-esp/stargazers) [![Forks](https://img.shields.io/github/forks/phiat/claude-esp?style=flat-square&color=blue)](https://github.com/phiat/claude-esp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Stream Claude Code's hidden output (thinking, tool calls, subagents) to a separate terminal in real-time
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

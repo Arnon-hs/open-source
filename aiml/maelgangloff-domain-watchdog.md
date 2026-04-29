@@ -1,6 +1,6 @@
 # maelgangloff/domain-watchdog
 
-[![Stars](https://img.shields.io/github/stars/maelgangloff/domain-watchdog?style=flat-square&color=yellow)](https://github.com/maelgangloff/domain-watchdog/stargazers) [![Forks](https://img.shields.io/github/forks/maelgangloff/domain-watchdog?style=flat-square&color=blue)](https://github.com/maelgangloff/domain-watchdog/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maelgangloff/domain-watchdog?style=flat-square&color=yellow)](https://github.com/maelgangloff/domain-watchdog/stargazers) [![Forks](https://img.shields.io/github/forks/maelgangloff/domain-watchdog?style=flat-square&color=blue)](https://github.com/maelgangloff/domain-watchdog/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 🔍 An app that monitors domain names using RDAP, tracks their history, and helps you acquire them when they expire
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 366 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

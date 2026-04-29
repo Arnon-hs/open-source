@@ -1,6 +1,6 @@
 # apache/commons-imaging
 
-[![Stars](https://img.shields.io/github/stars/apache/commons-imaging?style=flat-square&color=yellow)](https://github.com/apache/commons-imaging/stargazers) [![Forks](https://img.shields.io/github/forks/apache/commons-imaging?style=flat-square&color=blue)](https://github.com/apache/commons-imaging/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/commons-imaging?style=flat-square&color=yellow)](https://github.com/apache/commons-imaging/stargazers) [![Forks](https://img.shields.io/github/forks/apache/commons-imaging?style=flat-square&color=blue)](https://github.com/apache/commons-imaging/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Commons Imaging (previously Sanselan) is a pure-Java image library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 482 |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

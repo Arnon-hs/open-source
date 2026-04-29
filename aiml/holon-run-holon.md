@@ -1,8 +1,8 @@
 # holon-run/holon
 
-[![Stars](https://img.shields.io/github/stars/holon-run/holon?style=flat-square&color=yellow)](https://github.com/holon-run/holon/stargazers) [![Forks](https://img.shields.io/github/forks/holon-run/holon?style=flat-square&color=blue)](https://github.com/holon-run/holon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/holon-run/holon?style=flat-square&color=yellow)](https://github.com/holon-run/holon/stargazers) [![Forks](https://img.shields.io/github/forks/holon-run/holon?style=flat-square&color=blue)](https://github.com/holon-run/holon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
-> Holon runs AI coding agents headlessly to turn issues into PR-ready patches and summaries — locally or in CI, without babysitting the agent.
+> Local-first AI agent runtime for workspaces, wakeups, and long-running task execution
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
