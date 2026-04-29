@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**120 projects** in this category.
+**121 projects** in this category.
 
 ## Projects
 
@@ -126,8 +126,9 @@
 | 116 | [msuzen/leymosun](./msuzen-leymosun.md) | ⭐ 8 | Jupyter Notebook | 42/100 |
 | 117 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 141 | Rust | 41/100 |
 | 118 | [valory-xyz/trader](./valory-xyz-trader.md) | ⭐ 66 | Python | 41/100 |
-| 119 | [qumulator/qumulator-sdk](./qumulator-qumulator-sdk.md) | ⭐ 5 | Python | 36/100 |
-| 120 | [cirosantilli/test-octopus-100k](./cirosantilli-test-octopus-100k.md) | ⭐ 36 | — | 20/100 |
+| 119 | [Icemap/duckdb-vector-index](./icemap-duckdb-vector-index.md) | ⭐ — | — | 39/100 |
+| 120 | [qumulator/qumulator-sdk](./qumulator-qumulator-sdk.md) | ⭐ 5 | Python | 36/100 |
+| 121 | [cirosantilli/test-octopus-100k](./cirosantilli-test-octopus-100k.md) | ⭐ 36 | — | 20/100 |
 
 ---
 

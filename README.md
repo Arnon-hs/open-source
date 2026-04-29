@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **11760** |
+| 🗂️ **Total projects** | **11804** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4493 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2261 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1156 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 930 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 716 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 697 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 421 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 4505 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2272 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1160 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 931 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 722 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 702 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 423 | [Browse →](./crypto/) |
 | 📊 **Data** | 254 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 249 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 251 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 142 | [Browse →](./mobile/) |
 | 💳 **Payments** | 128 | [Browse →](./payments/) |
-| 📈 **Trading** | 120 | [Browse →](./trading/) |
+| 📈 **Trading** | 121 | [Browse →](./trading/) |
 | 🔐 **Security** | 106 | [Browse →](./security/) |
 | ✨ **Design** | 39 | [Browse →](./design/) |
 | 🎯 **Product** | 26 | [Browse →](./product/) |
@@ -44,11 +44,11 @@
 | 3 | [huggingface/peft](./aiml/huggingface-peft.md) | ⭐ 21k | AI/ML |
 | 4 | [ipython/ipython](./aiml/ipython-ipython.md) | ⭐ 16.7k | AI/ML |
 | 5 | [TykTechnologies/tyk](./backend/tyktechnologies-tyk.md) | ⭐ 10.7k | Backend |
-| 6 | [caddyserver/caddy](./backend/caddyserver-caddy.md) | ⭐ 71.9k | Backend |
-| 7 | [WeblateOrg/weblate](./misc/weblateorg-weblate.md) | ⭐ 5.8k | Misc |
-| 8 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 9 | [saltstack/salt](./devopsinfra/saltstack-salt.md) | ⭐ 15.4k | DevOps & Infra |
-| 10 | [rtk-ai/rtk](./aiml/rtk-ai-rtk.md) | ⭐ 38.3k | AI/ML |
+| 6 | [NativeScript/NativeScript](./frontend/nativescript-nativescript.md) | ⭐ 25.5k | Frontend |
+| 7 | [caddyserver/caddy](./backend/caddyserver-caddy.md) | ⭐ 71.9k | Backend |
+| 8 | [WeblateOrg/weblate](./misc/weblateorg-weblate.md) | ⭐ 5.8k | Misc |
+| 9 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 10 | [saltstack/salt](./devopsinfra/saltstack-salt.md) | ⭐ 15.4k | DevOps & Infra |
 
 ## 🚀 How it works
 
