@@ -1,6 +1,6 @@
 # 1337hero/faster-chat
 
-[![Stars](https://img.shields.io/github/stars/1337hero/faster-chat?style=flat-square&color=yellow)](https://github.com/1337hero/faster-chat/stargazers) [![Forks](https://img.shields.io/github/forks/1337hero/faster-chat?style=flat-square&color=blue)](https://github.com/1337hero/faster-chat/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1337hero/faster-chat?style=flat-square&color=yellow)](https://github.com/1337hero/faster-chat/stargazers) [![Forks](https://img.shields.io/github/forks/1337hero/faster-chat?style=flat-square&color=blue)](https://github.com/1337hero/faster-chat/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A blazingly fast, privacy first & OPEN AI Chat Interface
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 137 |
+| ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

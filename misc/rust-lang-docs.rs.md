@@ -1,6 +1,6 @@
 # rust-lang/docs.rs
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/docs.rs?style=flat-square&color=yellow)](https://github.com/rust-lang/docs.rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/docs.rs?style=flat-square&color=blue)](https://github.com/rust-lang/docs.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/docs.rs?style=flat-square&color=yellow)](https://github.com/rust-lang/docs.rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/docs.rs?style=flat-square&color=blue)](https://github.com/rust-lang/docs.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > crates.io documentation generator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

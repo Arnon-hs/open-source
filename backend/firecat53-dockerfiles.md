@@ -1,6 +1,6 @@
 # firecat53/dockerfiles
 
-[![Stars](https://img.shields.io/github/stars/firecat53/dockerfiles?style=flat-square&color=yellow)](https://github.com/firecat53/dockerfiles/stargazers) [![Forks](https://img.shields.io/github/forks/firecat53/dockerfiles?style=flat-square&color=blue)](https://github.com/firecat53/dockerfiles/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firecat53/dockerfiles?style=flat-square&color=yellow)](https://github.com/firecat53/dockerfiles/stargazers) [![Forks](https://img.shields.io/github/forks/firecat53/dockerfiles?style=flat-square&color=blue)](https://github.com/firecat53/dockerfiles/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Dockerfiles: Gollum, Jackett, Miniflux, Nginx/PHP-FPM, Plex, Privatebin, Qbittorrent, Radarr, Sabnzbd, Samba, SSH Socks Proxy server, Sonarr, Syncthing, Transmission, Unifi Controller.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 643 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **12634** |
+| 🗂️ **Total projects** | **12684** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4819 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2463 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1228 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 979 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 768 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 750 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 452 | [Browse →](./crypto/) |
-| 📊 **Data** | 286 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 4835 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2475 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1232 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 980 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 773 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 753 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 455 | [Browse →](./crypto/) |
+| 📊 **Data** | 288 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 277 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 156 | [Browse →](./mobile/) |
-| 💳 **Payments** | 133 | [Browse →](./payments/) |
-| 📈 **Trading** | 130 | [Browse →](./trading/) |
-| 🔐 **Security** | 109 | [Browse →](./security/) |
+| 💳 **Payments** | 134 | [Browse →](./payments/) |
+| 📈 **Trading** | 131 | [Browse →](./trading/) |
+| 🔐 **Security** | 110 | [Browse →](./security/) |
 | ✨ **Design** | 37 | [Browse →](./design/) |
 | 🎯 **Product** | 25 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 22 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 23 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [dotansimha/graphql-code-generator](./payments/dotansimha-graphql-code-generator.md) | ⭐ 11.2k | Payments |
-| 2 | [project-chip/connectedhomeip](./frontend/project-chip-connectedhomeip.md) | ⭐ 8.7k | Frontend |
-| 3 | [serverless/serverless](./aiml/serverless-serverless.md) | ⭐ 46.9k | AI/ML |
-| 4 | [appium/appium](./frontend/appium-appium.md) | ⭐ 21.5k | Frontend |
-| 5 | [jnMetaCode/agency-agents-zh](./crypto/jnmetacode-agency-agents-zh.md) | ⭐ 9.2k | Crypto |
-| 6 | [xbmc/xbmc](./aiml/xbmc-xbmc.md) | ⭐ 20.7k | AI/ML |
-| 7 | [Canner/WrenAI](./aiml/canner-wrenai.md) | ⭐ 15k | AI/ML |
-| 8 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
-| 9 | [ossrs/srs](./backend/ossrs-srs.md) | ⭐ 28.8k | Backend |
-| 10 | [psf/black](./misc/psf-black.md) | ⭐ 41.5k | Misc |
+| 1 | [appium/appium](./frontend/appium-appium.md) | ⭐ 21.5k | Frontend |
+| 2 | [jnMetaCode/agency-agents-zh](./crypto/jnmetacode-agency-agents-zh.md) | ⭐ 9.2k | Crypto |
+| 3 | [xbmc/xbmc](./aiml/xbmc-xbmc.md) | ⭐ 20.7k | AI/ML |
+| 4 | [Canner/WrenAI](./aiml/canner-wrenai.md) | ⭐ 15k | AI/ML |
+| 5 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
+| 6 | [ossrs/srs](./backend/ossrs-srs.md) | ⭐ 28.8k | Backend |
+| 7 | [psf/black](./misc/psf-black.md) | ⭐ 41.5k | Misc |
+| 8 | [bytecodealliance/wasmtime](./misc/bytecodealliance-wasmtime.md) | ⭐ 17.9k | Misc |
+| 9 | [feast-dev/feast](./aiml/feast-dev-feast.md) | ⭐ 7k | AI/ML |
+| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
 
 ## 🚀 How it works
 

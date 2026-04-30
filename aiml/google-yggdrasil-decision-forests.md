@@ -1,6 +1,6 @@
 # google/yggdrasil-decision-forests
 
-[![Stars](https://img.shields.io/github/stars/google/yggdrasil-decision-forests?style=flat-square&color=yellow)](https://github.com/google/yggdrasil-decision-forests/stargazers) [![Forks](https://img.shields.io/github/forks/google/yggdrasil-decision-forests?style=flat-square&color=blue)](https://github.com/google/yggdrasil-decision-forests/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/yggdrasil-decision-forests?style=flat-square&color=yellow)](https://github.com/google/yggdrasil-decision-forests/stargazers) [![Forks](https://img.shields.io/github/forks/google/yggdrasil-decision-forests?style=flat-square&color=blue)](https://github.com/google/yggdrasil-decision-forests/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A library to train, evaluate, interpret, and productionize decision forest models such as Random Forest and Gradient Boosted Decision Trees.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 652 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

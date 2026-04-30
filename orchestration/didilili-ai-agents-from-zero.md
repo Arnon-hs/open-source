@@ -1,6 +1,6 @@
 # didilili/ai-agents-from-zero
 
-[![Stars](https://img.shields.io/github/stars/didilili/ai-agents-from-zero?style=flat-square&color=yellow)](https://github.com/didilili/ai-agents-from-zero/stargazers) [![Forks](https://img.shields.io/github/forks/didilili/ai-agents-from-zero?style=flat-square&color=blue)](https://github.com/didilili/ai-agents-from-zero/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/didilili/ai-agents-from-zero?style=flat-square&color=yellow)](https://github.com/didilili/ai-agents-from-zero/stargazers) [![Forks](https://img.shields.io/github/forks/didilili/ai-agents-from-zero?style=flat-square&color=blue)](https://github.com/didilili/ai-agents-from-zero/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 588 |
-| 🍴 **Forks** | 89 |
+| ⭐ **Stars** | 592 |
+| 🍴 **Forks** | 91 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

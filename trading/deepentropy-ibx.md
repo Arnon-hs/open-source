@@ -1,6 +1,6 @@
 # deepentropy/ibx
 
-[![Stars](https://img.shields.io/github/stars/deepentropy/ibx?style=flat-square&color=yellow)](https://github.com/deepentropy/ibx/stargazers) [![Forks](https://img.shields.io/github/forks/deepentropy/ibx?style=flat-square&color=blue)](https://github.com/deepentropy/ibx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepentropy/ibx?style=flat-square&color=yellow)](https://github.com/deepentropy/ibx/stargazers) [![Forks](https://img.shields.io/github/forks/deepentropy/ibx?style=flat-square&color=blue)](https://github.com/deepentropy/ibx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Direct connection engine for Interactive Brokers in Rust. No Java Gateway required. Ultra-low-latency orders and market data. Rust + Python (PyO3).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

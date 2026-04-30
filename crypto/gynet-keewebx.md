@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/gynet/keewebx?style=flat-square&color=yellow)](https://github.com/gynet/keewebx/stargazers) [![Forks](https://img.shields.io/github/forks/gynet/keewebx?style=flat-square&color=blue)](https://github.com/gynet/keewebx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> The only KeePass client you can run by double-clicking a .html file. Modern, web-only, KDBX4, TypeScript, zero runtime deps. Browser extension autofill included.
+> Open a KeePass vault in your browser — no install, no signup. Try the demo in 10 seconds at keewebx.app/app?demo=1. Modern web-only KeePass client: KDBX4, passkey unlock, browser extension autofill, runs from a double-clicked .html file.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7 |
+| ⭐ **Stars** | 8 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 46/100 |

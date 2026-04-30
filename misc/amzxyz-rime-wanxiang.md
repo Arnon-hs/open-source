@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/amzxyz/rime_wanxiang?style=flat-square&color=yellow)](https://github.com/amzxyz/rime_wanxiang/stargazers) [![Forks](https://img.shields.io/github/forks/amzxyz/rime_wanxiang?style=flat-square&color=blue)](https://github.com/amzxyz/rime_wanxiang/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
-> 〈把算法留在幕后，把纯粹还给指尖〉万象拼音，用更现代的数据，接管你的候选。Q群：11033572 / 11631066
+> 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066
 
 ## 📊 Stats
 

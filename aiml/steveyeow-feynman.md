@@ -1,6 +1,6 @@
 # steveyeow/Feynman
 
-[![Stars](https://img.shields.io/github/stars/steveyeow/Feynman?style=flat-square&color=yellow)](https://github.com/steveyeow/Feynman/stargazers) [![Forks](https://img.shields.io/github/forks/steveyeow/Feynman?style=flat-square&color=blue)](https://github.com/steveyeow/Feynman/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steveyeow/Feynman?style=flat-square&color=yellow)](https://github.com/steveyeow/Feynman/stargazers) [![Forks](https://img.shields.io/github/forks/steveyeow/Feynman?style=flat-square&color=blue)](https://github.com/steveyeow/Feynman/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Read books the way Feynman did — along with a continuously evolving network of agent-simulated great minds
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

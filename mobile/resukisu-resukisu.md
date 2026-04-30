@@ -1,6 +1,6 @@
 # ReSukiSU/ReSukiSU
 
-[![Stars](https://img.shields.io/github/stars/ReSukiSU/ReSukiSU?style=flat-square&color=yellow)](https://github.com/ReSukiSU/ReSukiSU/stargazers) [![Forks](https://img.shields.io/github/forks/ReSukiSU/ReSukiSU?style=flat-square&color=blue)](https://github.com/ReSukiSU/ReSukiSU/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ReSukiSU/ReSukiSU?style=flat-square&color=yellow)](https://github.com/ReSukiSU/ReSukiSU/stargazers) [![Forks](https://img.shields.io/github/forks/ReSukiSU/ReSukiSU?style=flat-square&color=blue)](https://github.com/ReSukiSU/ReSukiSU/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A KernelSU based root solution for Android (Currently support Linux 3.4~6.12)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 626 |
+| ⭐ **Stars** | 627 |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

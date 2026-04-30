@@ -1,6 +1,6 @@
 # airmang/hwpx-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/airmang/hwpx-mcp-server?style=flat-square&color=yellow)](https://github.com/airmang/hwpx-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/airmang/hwpx-mcp-server?style=flat-square&color=blue)](https://github.com/airmang/hwpx-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/airmang/hwpx-mcp-server?style=flat-square&color=yellow)](https://github.com/airmang/hwpx-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/airmang/hwpx-mcp-server?style=flat-square&color=blue)](https://github.com/airmang/hwpx-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for AI agents to read, edit, inspect, and validate local HWPX documents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

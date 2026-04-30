@@ -1,6 +1,6 @@
 # Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project
 
-[![Stars](https://img.shields.io/github/stars/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project?style=flat-square&color=yellow)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project/stargazers) [![Forks](https://img.shields.io/github/forks/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project?style=flat-square&color=blue)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project?style=flat-square&color=yellow)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project/stargazers) [![Forks](https://img.shields.io/github/forks/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project?style=flat-square&color=blue)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 676 |
+| ⭐ **Stars** | 677 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

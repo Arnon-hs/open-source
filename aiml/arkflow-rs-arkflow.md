@@ -1,6 +1,6 @@
 # arkflow-rs/arkflow
 
-[![Stars](https://img.shields.io/github/stars/arkflow-rs/arkflow?style=flat-square&color=yellow)](https://github.com/arkflow-rs/arkflow/stargazers) [![Forks](https://img.shields.io/github/forks/arkflow-rs/arkflow?style=flat-square&color=blue)](https://github.com/arkflow-rs/arkflow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arkflow-rs/arkflow?style=flat-square&color=yellow)](https://github.com/arkflow-rs/arkflow/stargazers) [![Forks](https://img.shields.io/github/forks/arkflow-rs/arkflow?style=flat-square&color=blue)](https://github.com/arkflow-rs/arkflow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > High performance Rust stream processing engine seamlessly integrates AI capabilities, providing powerful real-time data processing and intelligent analysis.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # SamR1/FitTrackee
 
-[![Stars](https://img.shields.io/github/stars/SamR1/FitTrackee?style=flat-square&color=yellow)](https://github.com/SamR1/FitTrackee/stargazers) [![Forks](https://img.shields.io/github/forks/SamR1/FitTrackee?style=flat-square&color=blue)](https://github.com/SamR1/FitTrackee/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SamR1/FitTrackee?style=flat-square&color=yellow)](https://github.com/SamR1/FitTrackee/stargazers) [![Forks](https://img.shields.io/github/forks/SamR1/FitTrackee?style=flat-square&color=blue)](https://github.com/SamR1/FitTrackee/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted outdoor activity tracker :bicyclist:
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 74 |
+| 🍴 **Forks** | 75 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

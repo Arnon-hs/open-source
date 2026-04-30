@@ -1,6 +1,6 @@
 # Filippo-Venturini/ctxvault
 
-[![Stars](https://img.shields.io/github/stars/Filippo-Venturini/ctxvault?style=flat-square&color=yellow)](https://github.com/Filippo-Venturini/ctxvault/stargazers) [![Forks](https://img.shields.io/github/forks/Filippo-Venturini/ctxvault?style=flat-square&color=blue)](https://github.com/Filippo-Venturini/ctxvault/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Filippo-Venturini/ctxvault?style=flat-square&color=yellow)](https://github.com/Filippo-Venturini/ctxvault/stargazers) [![Forks](https://img.shields.io/github/forks/Filippo-Venturini/ctxvault?style=flat-square&color=blue)](https://github.com/Filippo-Venturini/ctxvault/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
