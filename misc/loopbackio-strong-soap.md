@@ -1,6 +1,6 @@
 # loopbackio/strong-soap
 
-[![Stars](https://img.shields.io/github/stars/loopbackio/strong-soap?style=flat-square&color=yellow)](https://github.com/loopbackio/strong-soap/stargazers) [![Forks](https://img.shields.io/github/forks/loopbackio/strong-soap?style=flat-square&color=blue)](https://github.com/loopbackio/strong-soap/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/loopbackio/strong-soap?style=flat-square&color=yellow)](https://github.com/loopbackio/strong-soap/stargazers) [![Forks](https://img.shields.io/github/forks/loopbackio/strong-soap?style=flat-square&color=blue)](https://github.com/loopbackio/strong-soap/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > SOAP driver for Node.js (A complete rewrite of node-soap)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 411 |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

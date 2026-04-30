@@ -1,6 +1,6 @@
 # zotero/translators
 
-[![Stars](https://img.shields.io/github/stars/zotero/translators?style=flat-square&color=yellow)](https://github.com/zotero/translators/stargazers) [![Forks](https://img.shields.io/github/forks/zotero/translators?style=flat-square&color=blue)](https://github.com/zotero/translators/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zotero/translators?style=flat-square&color=yellow)](https://github.com/zotero/translators/stargazers) [![Forks](https://img.shields.io/github/forks/zotero/translators?style=flat-square&color=blue)](https://github.com/zotero/translators/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Zotero Translators
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 879 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

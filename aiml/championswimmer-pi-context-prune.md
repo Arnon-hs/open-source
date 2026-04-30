@@ -1,6 +1,6 @@
 # championswimmer/pi-context-prune
 
-[![Stars](https://img.shields.io/github/stars/championswimmer/pi-context-prune?style=flat-square&color=yellow)](https://github.com/championswimmer/pi-context-prune/stargazers) [![Forks](https://img.shields.io/github/forks/championswimmer/pi-context-prune?style=flat-square&color=blue)](https://github.com/championswimmer/pi-context-prune/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/championswimmer/pi-context-prune?style=flat-square&color=yellow)](https://github.com/championswimmer/pi-context-prune/stargazers) [![Forks](https://img.shields.io/github/forks/championswimmer/pi-context-prune?style=flat-square&color=blue)](https://github.com/championswimmer/pi-context-prune/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Pi coding-agent extension for pruning tool-call trees
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 67 |
+| ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

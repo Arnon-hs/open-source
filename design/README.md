@@ -38,8 +38,8 @@
 | 28 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 50/100 |
 | 29 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 450 | JavaScript | 49/100 |
 | 30 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
-| 31 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 266 | Go | 48/100 |
-| 32 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
+| 31 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
+| 32 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 266 | Go | 48/100 |
 | 33 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
 | 34 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 45/100 |
 | 35 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |

@@ -23,10 +23,10 @@
 | 13 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 622 | C# | 53/100 |
 | 14 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 15 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 136 | MDX | 51/100 |
-| 16 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
-| 17 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 122 | Rust | 51/100 |
+| 16 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 122 | Rust | 51/100 |
+| 17 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
 | 18 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 16 | — | 50/100 |
-| 19 | [garritfra/cell](./garritfra-cell.md) | ⭐ 233 | Rust | 47/100 |
+| 19 | [garritfra/cell](./garritfra-cell.md) | ⭐ 235 | Rust | 47/100 |
 | 20 | [angr/cle](./angr-cle.md) | ⭐ 480 | Python | 45/100 |
 | 21 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 329 | Go | 42/100 |
 | 22 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 2 | — | 36/100 |

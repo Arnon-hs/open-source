@@ -1,17 +1,17 @@
 # ionos-cloud/RMR
 
-[![Stars](https://img.shields.io/github/stars/ionos-cloud/RMR?style=flat-square&color=yellow)](https://github.com/ionos-cloud/RMR/stargazers) [![Forks](https://img.shields.io/github/forks/ionos-cloud/RMR?style=flat-square&color=blue)](https://github.com/ionos-cloud/RMR/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ionos-cloud/RMR?style=flat-square&color=yellow)](https://github.com/ionos-cloud/RMR/stargazers) [![Forks](https://img.shields.io/github/forks/ionos-cloud/RMR?style=flat-square&color=blue)](https://github.com/ionos-cloud/RMR/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Reliable multicast over RTRS (RMR) and Block device over RMR (BRMR)
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | C |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

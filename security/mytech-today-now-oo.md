@@ -1,6 +1,6 @@
 # mytech-today-now/OO
 
-[![Stars](https://img.shields.io/github/stars/mytech-today-now/OO?style=flat-square&color=yellow)](https://github.com/mytech-today-now/OO/stargazers) [![Forks](https://img.shields.io/github/forks/mytech-today-now/OO?style=flat-square&color=blue)](https://github.com/mytech-today-now/OO/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mytech-today-now/OO?style=flat-square&color=yellow)](https://github.com/mytech-today-now/OO/stargazers) [![Forks](https://img.shields.io/github/forks/mytech-today-now/OO?style=flat-square&color=blue)](https://github.com/mytech-today-now/OO/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Automate O&O ShutUp10++ privacy on Windows 10/11
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

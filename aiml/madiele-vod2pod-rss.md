@@ -1,6 +1,6 @@
 # madiele/vod2pod-rss
 
-[![Stars](https://img.shields.io/github/stars/madiele/vod2pod-rss?style=flat-square&color=yellow)](https://github.com/madiele/vod2pod-rss/stargazers) [![Forks](https://img.shields.io/github/forks/madiele/vod2pod-rss?style=flat-square&color=blue)](https://github.com/madiele/vod2pod-rss/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/madiele/vod2pod-rss?style=flat-square&color=yellow)](https://github.com/madiele/vod2pod-rss/stargazers) [![Forks](https://img.shields.io/github/forks/madiele/vod2pod-rss?style=flat-square&color=blue)](https://github.com/madiele/vod2pod-rss/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Vod2Pod-RSS converts a YouTube or Twitch channel into a podcast with ease. It creates a podcast RSS that can be listened to directly inside any podcast client. VODs are transcoded to MP3 on the fly and no server storage is needed!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

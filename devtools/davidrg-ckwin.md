@@ -1,6 +1,6 @@
 # davidrg/ckwin
 
-[![Stars](https://img.shields.io/github/stars/davidrg/ckwin?style=flat-square&color=yellow)](https://github.com/davidrg/ckwin/stargazers) [![Forks](https://img.shields.io/github/forks/davidrg/ckwin?style=flat-square&color=blue)](https://github.com/davidrg/ckwin/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davidrg/ckwin?style=flat-square&color=yellow)](https://github.com/davidrg/ckwin/stargazers) [![Forks](https://img.shields.io/github/forks/davidrg/ckwin?style=flat-square&color=blue)](https://github.com/davidrg/ckwin/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Kermit 95 (C-Kermit for Windows and OS/2) - scriptable internet and serial communications with terminal emulation
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 95 |
+| ⭐ **Stars** | 96 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | C |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

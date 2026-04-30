@@ -1,6 +1,6 @@
 # awebai/aweb
 
-[![Stars](https://img.shields.io/github/stars/awebai/aweb?style=flat-square&color=yellow)](https://github.com/awebai/aweb/stargazers) [![Forks](https://img.shields.io/github/forks/awebai/aweb?style=flat-square&color=blue)](https://github.com/awebai/aweb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awebai/aweb?style=flat-square&color=yellow)](https://github.com/awebai/aweb/stargazers) [![Forks](https://img.shields.io/github/forks/awebai/aweb?style=flat-square&color=blue)](https://github.com/awebai/aweb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Coordination tools for AI agents: messaging, tasks and file reservations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # ConardLi/garden-skills
 
-[![Stars](https://img.shields.io/github/stars/ConardLi/garden-skills?style=flat-square&color=yellow)](https://github.com/ConardLi/garden-skills/stargazers) [![Forks](https://img.shields.io/github/forks/ConardLi/garden-skills?style=flat-square&color=blue)](https://github.com/ConardLi/garden-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ConardLi/garden-skills?style=flat-square&color=yellow)](https://github.com/ConardLi/garden-skills/stargazers) [![Forks](https://img.shields.io/github/forks/ConardLi/garden-skills?style=flat-square&color=blue)](https://github.com/ConardLi/garden-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 323 |
-| 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
+| 🍴 **Forks** | 328 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=flat-square&color=yellow)](https://github.com/MervinPraison/PraisonAI/stargazers) [![Forks](https://img.shields.io/github/forks/MervinPraison/PraisonAI?style=flat-square&color=blue)](https://github.com/MervinPraison/PraisonAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.
+> PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.
 
 ## 📊 Stats
 

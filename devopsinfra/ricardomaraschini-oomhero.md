@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/ricardomaraschini/oomhero?style=flat-square&color=yellow)](https://github.com/ricardomaraschini/oomhero/stargazers) [![Forks](https://img.shields.io/github/forks/ricardomaraschini/oomhero?style=flat-square&color=blue)](https://github.com/ricardomaraschini/oomhero/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
-> Kubernetes sidecar for memory usage tracking
+> Kubernetes sidecar for memory usage and Kernel pressure tracking
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # Teach2Breach/Tempest
 
-[![Stars](https://img.shields.io/github/stars/Teach2Breach/Tempest?style=flat-square&color=yellow)](https://github.com/Teach2Breach/Tempest/stargazers) [![Forks](https://img.shields.io/github/forks/Teach2Breach/Tempest?style=flat-square&color=blue)](https://github.com/Teach2Breach/Tempest/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Teach2Breach/Tempest?style=flat-square&color=yellow)](https://github.com/Teach2Breach/Tempest/stargazers) [![Forks](https://img.shields.io/github/forks/Teach2Breach/Tempest?style=flat-square&color=blue)](https://github.com/Teach2Breach/Tempest/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > A command and control framework written in rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 386 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

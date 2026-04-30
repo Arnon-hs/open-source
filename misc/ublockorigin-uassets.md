@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.7k |
-| 🍴 **Forks** | 989 |
+| 🍴 **Forks** | 990 |
 | 💻 **Language** | Adblock Filter List |
 | 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | — |

@@ -1,6 +1,6 @@
 # kittors/CliRelay
 
-[![Stars](https://img.shields.io/github/stars/kittors/CliRelay?style=flat-square&color=yellow)](https://github.com/kittors/CliRelay/stargazers) [![Forks](https://img.shields.io/github/forks/kittors/CliRelay?style=flat-square&color=blue)](https://github.com/kittors/CliRelay/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kittors/CliRelay?style=flat-square&color=yellow)](https://github.com/kittors/CliRelay/stargazers) [![Forks](https://img.shields.io/github/forks/kittors/CliRelay?style=flat-square&color=blue)](https://github.com/kittors/CliRelay/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 410 |
-| 🍴 **Forks** | 37 |
+| ⭐ **Stars** | 464 |
+| 🍴 **Forks** | 39 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

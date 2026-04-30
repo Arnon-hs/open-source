@@ -1,6 +1,6 @@
 # nkapila6/mcp-local-rag
 
-[![Stars](https://img.shields.io/github/stars/nkapila6/mcp-local-rag?style=flat-square&color=yellow)](https://github.com/nkapila6/mcp-local-rag/stargazers) [![Forks](https://img.shields.io/github/forks/nkapila6/mcp-local-rag?style=flat-square&color=blue)](https://github.com/nkapila6/mcp-local-rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nkapila6/mcp-local-rag?style=flat-square&color=yellow)](https://github.com/nkapila6/mcp-local-rag/stargazers) [![Forks](https://img.shields.io/github/forks/nkapila6/mcp-local-rag?style=flat-square&color=blue)](https://github.com/nkapila6/mcp-local-rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

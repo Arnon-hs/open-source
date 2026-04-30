@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/ceilf6/FrontAgent?style=flat-square&color=yellow)](https://github.com/ceilf6/FrontAgent/stargazers) [![Forks](https://img.shields.io/github/forks/ceilf6/FrontAgent?style=flat-square&color=blue)](https://github.com/ceilf6/FrontAgent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> AI agent platform for frontend engineering with RAG, Skills, SDD, MCP | 通过多种适配前端工程的技术进行赋能的智能体
+> AI agent platform for frontend engineering with RAG, Skills, SDD, MCP | 通过多种适配前端工程的技术进行赋能的智能体，支持通过 CLI 或 VSCode插件 使用
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 

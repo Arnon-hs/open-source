@@ -1,6 +1,6 @@
 # Flexget/Flexget
 
-[![Stars](https://img.shields.io/github/stars/Flexget/Flexget?style=flat-square&color=yellow)](https://github.com/Flexget/Flexget/stargazers) [![Forks](https://img.shields.io/github/forks/Flexget/Flexget?style=flat-square&color=blue)](https://github.com/Flexget/Flexget/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Flexget/Flexget?style=flat-square&color=yellow)](https://github.com/Flexget/Flexget/stargazers) [![Forks](https://img.shields.io/github/forks/Flexget/Flexget?style=flat-square&color=blue)](https://github.com/Flexget/Flexget/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The official FlexGet repository
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 483 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

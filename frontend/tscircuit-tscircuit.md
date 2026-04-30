@@ -1,6 +1,6 @@
 # tscircuit/tscircuit
 
-[![Stars](https://img.shields.io/github/stars/tscircuit/tscircuit?style=flat-square&color=yellow)](https://github.com/tscircuit/tscircuit/stargazers) [![Forks](https://img.shields.io/github/forks/tscircuit/tscircuit?style=flat-square&color=blue)](https://github.com/tscircuit/tscircuit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tscircuit/tscircuit?style=flat-square&color=yellow)](https://github.com/tscircuit/tscircuit/stargazers) [![Forks](https://img.shields.io/github/forks/tscircuit/tscircuit?style=flat-square&color=blue)](https://github.com/tscircuit/tscircuit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Create real electronics with Typescript and React
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 234 |
+| 🍴 **Forks** | 233 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

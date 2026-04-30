@@ -1,6 +1,6 @@
 # jpetrucciani/pog
 
-[![Stars](https://img.shields.io/github/stars/jpetrucciani/pog?style=flat-square&color=yellow)](https://github.com/jpetrucciani/pog/stargazers) [![Forks](https://img.shields.io/github/forks/jpetrucciani/pog?style=flat-square&color=blue)](https://github.com/jpetrucciani/pog/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jpetrucciani/pog?style=flat-square&color=yellow)](https://github.com/jpetrucciani/pog/stargazers) [![Forks](https://img.shields.io/github/forks/jpetrucciani/pog?style=flat-square&color=blue)](https://github.com/jpetrucciani/pog/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > 🤯 a new, powerful way to do bash scripts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

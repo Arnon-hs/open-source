@@ -1,6 +1,6 @@
 # rajsinghtech/tsflow
 
-[![Stars](https://img.shields.io/github/stars/rajsinghtech/tsflow?style=flat-square&color=yellow)](https://github.com/rajsinghtech/tsflow/stargazers) [![Forks](https://img.shields.io/github/forks/rajsinghtech/tsflow?style=flat-square&color=blue)](https://github.com/rajsinghtech/tsflow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rajsinghtech/tsflow?style=flat-square&color=yellow)](https://github.com/rajsinghtech/tsflow/stargazers) [![Forks](https://img.shields.io/github/forks/rajsinghtech/tsflow?style=flat-square&color=blue)](https://github.com/rajsinghtech/tsflow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Network flow visualizer for Tailscale -  Requires Premium TS plans
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

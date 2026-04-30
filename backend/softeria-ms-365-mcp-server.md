@@ -1,6 +1,6 @@
 # Softeria/ms-365-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/Softeria/ms-365-mcp-server?style=flat-square&color=yellow)](https://github.com/Softeria/ms-365-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/Softeria/ms-365-mcp-server?style=flat-square&color=blue)](https://github.com/Softeria/ms-365-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Softeria/ms-365-mcp-server?style=flat-square&color=yellow)](https://github.com/Softeria/ms-365-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/Softeria/ms-365-mcp-server?style=flat-square&color=blue)](https://github.com/Softeria/ms-365-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server for interacting with Microsoft 365 and Office services through the Graph API
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 668 |
-| 🍴 **Forks** | 254 |
+| 🍴 **Forks** | 255 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

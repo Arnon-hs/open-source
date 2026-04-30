@@ -1,6 +1,6 @@
 # polyipseity/obsidian-terminal
 
-[![Stars](https://img.shields.io/github/stars/polyipseity/obsidian-terminal?style=flat-square&color=yellow)](https://github.com/polyipseity/obsidian-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/polyipseity/obsidian-terminal?style=flat-square&color=blue)](https://github.com/polyipseity/obsidian-terminal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/polyipseity/obsidian-terminal?style=flat-square&color=yellow)](https://github.com/polyipseity/obsidian-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/polyipseity/obsidian-terminal?style=flat-square&color=blue)](https://github.com/polyipseity/obsidian-terminal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Integrate consoles, shells, and terminals.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 765 |
+| ⭐ **Stars** | 766 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # pivotal-cf/om
 
-[![Stars](https://img.shields.io/github/stars/pivotal-cf/om?style=flat-square&color=yellow)](https://github.com/pivotal-cf/om/stargazers) [![Forks](https://img.shields.io/github/forks/pivotal-cf/om?style=flat-square&color=blue)](https://github.com/pivotal-cf/om/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pivotal-cf/om?style=flat-square&color=yellow)](https://github.com/pivotal-cf/om/stargazers) [![Forks](https://img.shields.io/github/forks/pivotal-cf/om?style=flat-square&color=blue)](https://github.com/pivotal-cf/om/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > General command line utility for working with VMware Tanzu Operations Manager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

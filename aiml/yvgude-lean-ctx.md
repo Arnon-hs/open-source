@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/yvgude/lean-ctx?style=flat-square&color=yellow)](https://github.com/yvgude/lean-ctx/stargazers) [![Forks](https://img.shields.io/github/forks/yvgude/lean-ctx?style=flat-square&color=blue)](https://github.com/yvgude/lean-ctx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
-> Reduce AI coding costs by 99% — MCP Server + Shell Hook for Cursor, Claude Code, Copilot, Windsurf, Gemini CLI & 24 tools. Single Rust binary, zero telemetry.
+> The context layer for AI coding agents  Reduce token waste in Cursor, Claude Code, Copilot, Windsurf, Codex, Gemini & more by 60–95% (up to 99% on cached reads) Shell Hook + MCP Server · 49 tools · 10 read modes · 90+ patterns · Single Rust binary
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 954 |
+| ⭐ **Stars** | 959 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
