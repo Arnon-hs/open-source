@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**150 projects** in this category.
+**151 projects** in this category.
 
 ## Projects
 
@@ -152,12 +152,13 @@
 | 142 | [meshtastic/rust](./meshtastic-rust.md) | ⭐ 131 | Rust | 45/100 |
 | 143 | [icepy/manong-weekly](./icepy-manong-weekly.md) | ⭐ 367 | Objective-C | 44/100 |
 | 144 | [grafana/grafana-kiosk](./grafana-grafana-kiosk.md) | ⭐ 474 | Go | 44/100 |
-| 145 | [NEORUAA/XHS_Downloader_Android](./neoruaa-xhs-downloader-android.md) | ⭐ 313 | Kotlin | 43/100 |
-| 146 | [TobiasBuchholz/Plugin.Firebase](./tobiasbuchholz-plugin.firebase.md) | ⭐ 301 | C# | 43/100 |
-| 147 | [rodydavis/flutter_piano](./rodydavis-flutter-piano.md) | ⭐ 429 | Dart | 41/100 |
-| 148 | [herzbube/littlego](./herzbube-littlego.md) | ⭐ 152 | Objective-C | 40/100 |
-| 149 | [cocoanetics/swiftbash](./cocoanetics-swiftbash.md) | ⭐ 17 | Swift | 36/100 |
-| 150 | [Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground](./moses-code-dev-foodsecurity-difp-android-playground.md) | ⭐ 1 | Java | 34/100 |
+| 145 | [Dart-Code/Flutter](./dart-code-flutter.md) | ⭐ 345 | JavaScript | 43/100 |
+| 146 | [NEORUAA/XHS_Downloader_Android](./neoruaa-xhs-downloader-android.md) | ⭐ 313 | Kotlin | 43/100 |
+| 147 | [TobiasBuchholz/Plugin.Firebase](./tobiasbuchholz-plugin.firebase.md) | ⭐ 301 | C# | 43/100 |
+| 148 | [rodydavis/flutter_piano](./rodydavis-flutter-piano.md) | ⭐ 429 | Dart | 41/100 |
+| 149 | [herzbube/littlego](./herzbube-littlego.md) | ⭐ 152 | Objective-C | 40/100 |
+| 150 | [cocoanetics/swiftbash](./cocoanetics-swiftbash.md) | ⭐ 17 | Swift | 36/100 |
+| 151 | [Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground](./moses-code-dev-foodsecurity-difp-android-playground.md) | ⭐ 1 | Java | 34/100 |
 
 ---
 
