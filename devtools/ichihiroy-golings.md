@@ -1,6 +1,6 @@
 # Ichihiroy/golings
 
-[![Stars](https://img.shields.io/github/stars/Ichihiroy/golings?style=flat-square&color=yellow)](https://github.com/Ichihiroy/golings/stargazers) [![Forks](https://img.shields.io/github/forks/Ichihiroy/golings?style=flat-square&color=blue)](https://github.com/Ichihiroy/golings/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ichihiroy/golings?style=flat-square&color=yellow)](https://github.com/Ichihiroy/golings/stargazers) [![Forks](https://img.shields.io/github/forks/Ichihiroy/golings?style=flat-square&color=blue)](https://github.com/Ichihiroy/golings/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > 🐹 Learn Go through small, interactive exercises — inspired by rustlings.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

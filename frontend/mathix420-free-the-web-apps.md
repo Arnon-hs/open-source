@@ -1,6 +1,6 @@
 # mathix420/free-the-web-apps
 
-[![Stars](https://img.shields.io/github/stars/mathix420/free-the-web-apps?style=flat-square&color=yellow)](https://github.com/mathix420/free-the-web-apps/stargazers) [![Forks](https://img.shields.io/github/forks/mathix420/free-the-web-apps?style=flat-square&color=blue)](https://github.com/mathix420/free-the-web-apps/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mathix420/free-the-web-apps?style=flat-square&color=yellow)](https://github.com/mathix420/free-the-web-apps/stargazers) [![Forks](https://img.shields.io/github/forks/mathix420/free-the-web-apps?style=flat-square&color=blue)](https://github.com/mathix420/free-the-web-apps/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any website into an app in seconds!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 515 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # ChaosRealmsAI/NextFrame
 
-[![Stars](https://img.shields.io/github/stars/ChaosRealmsAI/NextFrame?style=flat-square&color=yellow)](https://github.com/ChaosRealmsAI/NextFrame/stargazers) [![Forks](https://img.shields.io/github/forks/ChaosRealmsAI/NextFrame?style=flat-square&color=blue)](https://github.com/ChaosRealmsAI/NextFrame/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChaosRealmsAI/NextFrame?style=flat-square&color=yellow)](https://github.com/ChaosRealmsAI/NextFrame/stargazers) [![Forks](https://img.shields.io/github/forks/ChaosRealmsAI/NextFrame?style=flat-square&color=blue)](https://github.com/ChaosRealmsAI/NextFrame/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI Video Engine — Turn structured data into videos. JSON timeline → Scene components → HTML/MP4.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18 |
+| ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

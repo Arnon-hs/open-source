@@ -1,6 +1,6 @@
 # getnao/nao
 
-[![Stars](https://img.shields.io/github/stars/getnao/nao?style=flat-square&color=yellow)](https://github.com/getnao/nao/stargazers) [![Forks](https://img.shields.io/github/forks/getnao/nao?style=flat-square&color=blue)](https://github.com/getnao/nao/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getnao/nao?style=flat-square&color=yellow)](https://github.com/getnao/nao/stargazers) [![Forks](https://img.shields.io/github/forks/getnao/nao?style=flat-square&color=blue)](https://github.com/getnao/nao/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 131 |
+| 🍴 **Forks** | 132 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

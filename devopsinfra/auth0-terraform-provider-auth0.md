@@ -1,6 +1,6 @@
 # auth0/terraform-provider-auth0
 
-[![Stars](https://img.shields.io/github/stars/auth0/terraform-provider-auth0?style=flat-square&color=yellow)](https://github.com/auth0/terraform-provider-auth0/stargazers) [![Forks](https://img.shields.io/github/forks/auth0/terraform-provider-auth0?style=flat-square&color=blue)](https://github.com/auth0/terraform-provider-auth0/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/auth0/terraform-provider-auth0?style=flat-square&color=yellow)](https://github.com/auth0/terraform-provider-auth0/stargazers) [![Forks](https://img.shields.io/github/forks/auth0/terraform-provider-auth0?style=flat-square&color=blue)](https://github.com/auth0/terraform-provider-auth0/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The Auth0 Terraform Provider is the official plugin for managing Auth0 tenant configuration through the Terraform tool.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 210 |
-| 🍴 **Forks** | 118 |
+| 🍴 **Forks** | 119 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/fcakyon/phd-skills?style=flat-square&color=yellow)](https://github.com/fcakyon/phd-skills/stargazers) [![Forks](https://img.shields.io/github/forks/fcakyon/phd-skills?style=flat-square&color=blue)](https://github.com/fcakyon/phd-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Research integrity plugin for Claude Code — paper auditing, citation verification, experiment analysis, and methodology-first skills for academic workflows.
+> PhD Research Skills for Claude Code: paper reproduction, experiment design, paper review, result comparison and more.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 169 |
+| ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 51/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Design · Product
 
 ## 📝 Summary
 

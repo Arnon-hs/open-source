@@ -1,6 +1,6 @@
 # dfinity/agent-rs
 
-[![Stars](https://img.shields.io/github/stars/dfinity/agent-rs?style=flat-square&color=yellow)](https://github.com/dfinity/agent-rs/stargazers) [![Forks](https://img.shields.io/github/forks/dfinity/agent-rs?style=flat-square&color=blue)](https://github.com/dfinity/agent-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dfinity/agent-rs?style=flat-square&color=yellow)](https://github.com/dfinity/agent-rs/stargazers) [![Forks](https://img.shields.io/github/forks/dfinity/agent-rs?style=flat-square&color=blue)](https://github.com/dfinity/agent-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of libraries and tools for building software around the Internet Computer, in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

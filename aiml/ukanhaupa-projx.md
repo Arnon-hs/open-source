@@ -1,6 +1,6 @@
 # ukanhaupa/projx
 
-[![Stars](https://img.shields.io/github/stars/ukanhaupa/projx?style=flat-square&color=yellow)](https://github.com/ukanhaupa/projx/stargazers) [![Forks](https://img.shields.io/github/forks/ukanhaupa/projx?style=flat-square&color=blue)](https://github.com/ukanhaupa/projx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ukanhaupa/projx?style=flat-square&color=yellow)](https://github.com/ukanhaupa/projx/stargazers) [![Forks](https://img.shields.io/github/forks/ukanhaupa/projx?style=flat-square&color=blue)](https://github.com/ukanhaupa/projx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Projx — A CLI tool for scaffolding production-grade projects. Pick your stack (FastAPI, Fastify, React, Flutter), get a fully wired template with auth, database, CI/CD, and E2E tests. Update anytime when templates improve.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

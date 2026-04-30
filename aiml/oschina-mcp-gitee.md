@@ -1,6 +1,6 @@
 # oschina/mcp-gitee
 
-[![Stars](https://img.shields.io/github/stars/oschina/mcp-gitee?style=flat-square&color=yellow)](https://github.com/oschina/mcp-gitee/stargazers) [![Forks](https://img.shields.io/github/forks/oschina/mcp-gitee?style=flat-square&color=blue)](https://github.com/oschina/mcp-gitee/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oschina/mcp-gitee?style=flat-square&color=yellow)](https://github.com/oschina/mcp-gitee/stargazers) [![Forks](https://img.shields.io/github/forks/oschina/mcp-gitee?style=flat-square&color=blue)](https://github.com/oschina/mcp-gitee/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > mcp-gitee is a Model Context Protocol (MCP) server implementation for Gitee. It provides a set of tools that interact with Gitee's API, allowing AI assistants to manage repository, issues, pull requests, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

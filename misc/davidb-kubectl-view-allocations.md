@@ -1,6 +1,6 @@
 # davidB/kubectl-view-allocations
 
-[![Stars](https://img.shields.io/github/stars/davidB/kubectl-view-allocations?style=flat-square&color=yellow)](https://github.com/davidB/kubectl-view-allocations/stargazers) [![Forks](https://img.shields.io/github/forks/davidB/kubectl-view-allocations?style=flat-square&color=blue)](https://github.com/davidB/kubectl-view-allocations/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davidB/kubectl-view-allocations?style=flat-square&color=yellow)](https://github.com/davidB/kubectl-view-allocations/stargazers) [![Forks](https://img.shields.io/github/forks/davidB/kubectl-view-allocations?style=flat-square&color=blue)](https://github.com/davidB/kubectl-view-allocations/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 790 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # DataZooDE/flapi
 
-[![Stars](https://img.shields.io/github/stars/DataZooDE/flapi?style=flat-square&color=yellow)](https://github.com/DataZooDE/flapi/stargazers) [![Forks](https://img.shields.io/github/forks/DataZooDE/flapi?style=flat-square&color=blue)](https://github.com/DataZooDE/flapi/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataZooDE/flapi?style=flat-square&color=yellow)](https://github.com/DataZooDE/flapi/stargazers) [![Forks](https://img.shields.io/github/forks/DataZooDE/flapi?style=flat-square&color=blue)](https://github.com/DataZooDE/flapi/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > API Framework heavily relying on the power of DuckDB and DuckDB extensions. Ready to build performant and cost-efficient APIs on top of BigQuery or Snowflake  for AI Agents and Data Apps
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # NitroRCr/AIaW
 
-[![Stars](https://img.shields.io/github/stars/NitroRCr/AIaW?style=flat-square&color=yellow)](https://github.com/NitroRCr/AIaW/stargazers) [![Forks](https://img.shields.io/github/forks/NitroRCr/AIaW?style=flat-square&color=blue)](https://github.com/NitroRCr/AIaW/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NitroRCr/AIaW?style=flat-square&color=yellow)](https://github.com/NitroRCr/AIaW/stargazers) [![Forks](https://img.shields.io/github/forks/NitroRCr/AIaW?style=flat-square&color=blue)](https://github.com/NitroRCr/AIaW/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

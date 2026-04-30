@@ -1,6 +1,6 @@
 # fgrosse/go-coverage-report
 
-[![Stars](https://img.shields.io/github/stars/fgrosse/go-coverage-report?style=flat-square&color=yellow)](https://github.com/fgrosse/go-coverage-report/stargazers) [![Forks](https://img.shields.io/github/forks/fgrosse/go-coverage-report?style=flat-square&color=blue)](https://github.com/fgrosse/go-coverage-report/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fgrosse/go-coverage-report?style=flat-square&color=yellow)](https://github.com/fgrosse/go-coverage-report/stargazers) [![Forks](https://img.shields.io/github/forks/fgrosse/go-coverage-report?style=flat-square&color=blue)](https://github.com/fgrosse/go-coverage-report/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI tool and GitHub Action to post Go code coverage reports as comment to your pull requests.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Dash-Industry-Forum/dash.js
 
-[![Stars](https://img.shields.io/github/stars/Dash-Industry-Forum/dash.js?style=flat-square&color=yellow)](https://github.com/Dash-Industry-Forum/dash.js/stargazers) [![Forks](https://img.shields.io/github/forks/Dash-Industry-Forum/dash.js?style=flat-square&color=blue)](https://github.com/Dash-Industry-Forum/dash.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dash-Industry-Forum/dash.js?style=flat-square&color=yellow)](https://github.com/Dash-Industry-Forum/dash.js/stargazers) [![Forks](https://img.shields.io/github/forks/Dash-Industry-Forum/dash.js?style=flat-square&color=blue)](https://github.com/Dash-Industry-Forum/dash.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 100/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

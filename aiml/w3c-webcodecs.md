@@ -1,6 +1,6 @@
 # w3c/webcodecs
 
-[![Stars](https://img.shields.io/github/stars/w3c/webcodecs?style=flat-square&color=yellow)](https://github.com/w3c/webcodecs/stargazers) [![Forks](https://img.shields.io/github/forks/w3c/webcodecs?style=flat-square&color=blue)](https://github.com/w3c/webcodecs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/w3c/webcodecs?style=flat-square&color=yellow)](https://github.com/w3c/webcodecs/stargazers) [![Forks](https://img.shields.io/github/forks/w3c/webcodecs?style=flat-square&color=blue)](https://github.com/w3c/webcodecs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > WebCodecs is a flexible web API for encoding and decoding audio and video.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

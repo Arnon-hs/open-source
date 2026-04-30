@@ -1,6 +1,6 @@
 # ComposioHQ/agent-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/ComposioHQ/agent-orchestrator?style=flat-square&color=yellow)](https://github.com/ComposioHQ/agent-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/ComposioHQ/agent-orchestrator?style=flat-square&color=blue)](https://github.com/ComposioHQ/agent-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ComposioHQ/agent-orchestrator?style=flat-square&color=yellow)](https://github.com/ComposioHQ/agent-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/ComposioHQ/agent-orchestrator?style=flat-square&color=blue)](https://github.com/ComposioHQ/agent-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.7k |
-| 🍴 **Forks** | 899 |
+| 🍴 **Forks** | 900 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 98/100 |
+| 📈 **Score** | 99/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

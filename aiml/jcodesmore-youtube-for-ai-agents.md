@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/JCodesMore/youtube-for-ai-agents?style=flat-square&color=yellow)](https://github.com/JCodesMore/youtube-for-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/JCodesMore/youtube-for-ai-agents?style=flat-square&color=blue)](https://github.com/JCodesMore/youtube-for-ai-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
-> Claude Code plugin for YouTube research — search, transcripts, video info, channel browsing
+> YouTube for AI Agents — search, transcripts, video info, channel browsing, reel creation
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # hetznercloud/hcloud-cloud-controller-manager
 
-[![Stars](https://img.shields.io/github/stars/hetznercloud/hcloud-cloud-controller-manager?style=flat-square&color=yellow)](https://github.com/hetznercloud/hcloud-cloud-controller-manager/stargazers) [![Forks](https://img.shields.io/github/forks/hetznercloud/hcloud-cloud-controller-manager?style=flat-square&color=blue)](https://github.com/hetznercloud/hcloud-cloud-controller-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hetznercloud/hcloud-cloud-controller-manager?style=flat-square&color=yellow)](https://github.com/hetznercloud/hcloud-cloud-controller-manager/stargazers) [![Forks](https://img.shields.io/github/forks/hetznercloud/hcloud-cloud-controller-manager?style=flat-square&color=blue)](https://github.com/hetznercloud/hcloud-cloud-controller-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes cloud-controller-manager for Hetzner Cloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 910 |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # TesslateAI/OpenSail
 
-[![Stars](https://img.shields.io/github/stars/TesslateAI/OpenSail?style=flat-square&color=yellow)](https://github.com/TesslateAI/OpenSail/stargazers) [![Forks](https://img.shields.io/github/forks/TesslateAI/OpenSail?style=flat-square&color=blue)](https://github.com/TesslateAI/OpenSail/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TesslateAI/OpenSail?style=flat-square&color=yellow)](https://github.com/TesslateAI/OpenSail/stargazers) [![Forks](https://img.shields.io/github/forks/TesslateAI/OpenSail?style=flat-square&color=blue)](https://github.com/TesslateAI/OpenSail/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > OpenSail is the open-source alternative to Codex App, Claude Desktop, Cursor, and Cowork for agentic software work.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 471 |
-| 🍴 **Forks** | 80 |
+| 🍴 **Forks** | 81 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

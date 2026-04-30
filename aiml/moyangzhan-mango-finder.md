@@ -1,8 +1,8 @@
 # moyangzhan/mango-finder
 
-[![Stars](https://img.shields.io/github/stars/moyangzhan/mango-finder?style=flat-square&color=yellow)](https://github.com/moyangzhan/mango-finder/stargazers) [![Forks](https://img.shields.io/github/forks/moyangzhan/mango-finder?style=flat-square&color=blue)](https://github.com/moyangzhan/mango-finder/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moyangzhan/mango-finder?style=flat-square&color=yellow)](https://github.com/moyangzhan/mango-finder/stargazers) [![Forks](https://img.shields.io/github/forks/moyangzhan/mango-finder?style=flat-square&color=blue)](https://github.com/moyangzhan/mango-finder/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
-> Search your files across your devices with natural language
+> Search your files across your devices with natural language | 使用自然语言跨设备搜索文件的桌面应用
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
