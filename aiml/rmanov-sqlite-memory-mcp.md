@@ -1,6 +1,6 @@
 # RMANOV/sqlite-memory-mcp
 
-[![Stars](https://img.shields.io/github/stars/RMANOV/sqlite-memory-mcp?style=flat-square&color=yellow)](https://github.com/RMANOV/sqlite-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/RMANOV/sqlite-memory-mcp?style=flat-square&color=blue)](https://github.com/RMANOV/sqlite-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RMANOV/sqlite-memory-mcp?style=flat-square&color=yellow)](https://github.com/RMANOV/sqlite-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/RMANOV/sqlite-memory-mcp?style=flat-square&color=blue)](https://github.com/RMANOV/sqlite-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > SQLite-backed MCP Memory Server with WAL concurrent safety, FTS5 search, session tracking, task management, and cross-machine bridge sync
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

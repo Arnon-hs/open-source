@@ -1,6 +1,6 @@
 # jiaqi/jmxterm
 
-[![Stars](https://img.shields.io/github/stars/jiaqi/jmxterm?style=flat-square&color=yellow)](https://github.com/jiaqi/jmxterm/stargazers) [![Forks](https://img.shields.io/github/forks/jiaqi/jmxterm?style=flat-square&color=blue)](https://github.com/jiaqi/jmxterm/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jiaqi/jmxterm?style=flat-square&color=yellow)](https://github.com/jiaqi/jmxterm/stargazers) [![Forks](https://img.shields.io/github/forks/jiaqi/jmxterm?style=flat-square&color=blue)](https://github.com/jiaqi/jmxterm/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive command line JMX client
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 551 |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # genielabs/HomeGenie
 
-[![Stars](https://img.shields.io/github/stars/genielabs/HomeGenie?style=flat-square&color=yellow)](https://github.com/genielabs/HomeGenie/stargazers) [![Forks](https://img.shields.io/github/forks/genielabs/HomeGenie?style=flat-square&color=blue)](https://github.com/genielabs/HomeGenie/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/genielabs/HomeGenie?style=flat-square&color=yellow)](https://github.com/genielabs/HomeGenie/stargazers) [![Forks](https://img.shields.io/github/forks/genielabs/HomeGenie?style=flat-square&color=blue)](https://github.com/genielabs/HomeGenie/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 449 |
+| ⭐ **Stars** | 450 |
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

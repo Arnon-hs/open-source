@@ -1,6 +1,6 @@
 # marshmallow-code/marshmallow-sqlalchemy
 
-[![Stars](https://img.shields.io/github/stars/marshmallow-code/marshmallow-sqlalchemy?style=flat-square&color=yellow)](https://github.com/marshmallow-code/marshmallow-sqlalchemy/stargazers) [![Forks](https://img.shields.io/github/forks/marshmallow-code/marshmallow-sqlalchemy?style=flat-square&color=blue)](https://github.com/marshmallow-code/marshmallow-sqlalchemy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marshmallow-code/marshmallow-sqlalchemy?style=flat-square&color=yellow)](https://github.com/marshmallow-code/marshmallow-sqlalchemy/stargazers) [![Forks](https://img.shields.io/github/forks/marshmallow-code/marshmallow-sqlalchemy?style=flat-square&color=blue)](https://github.com/marshmallow-code/marshmallow-sqlalchemy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > SQLAlchemy integration with marshmallow
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 585 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # nabijaczleweli/rust-embed-resource
 
-[![Stars](https://img.shields.io/github/stars/nabijaczleweli/rust-embed-resource?style=flat-square&color=yellow)](https://github.com/nabijaczleweli/rust-embed-resource/stargazers) [![Forks](https://img.shields.io/github/forks/nabijaczleweli/rust-embed-resource?style=flat-square&color=blue)](https://github.com/nabijaczleweli/rust-embed-resource/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nabijaczleweli/rust-embed-resource?style=flat-square&color=yellow)](https://github.com/nabijaczleweli/rust-embed-resource/stargazers) [![Forks](https://img.shields.io/github/forks/nabijaczleweli/rust-embed-resource?style=flat-square&color=blue)](https://github.com/nabijaczleweli/rust-embed-resource/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > A Cargo build script library to handle compilation and inclusion of Windows resources, in the most resilient fashion imaginable
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

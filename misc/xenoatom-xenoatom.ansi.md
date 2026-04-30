@@ -1,6 +1,6 @@
 # XenoAtom/XenoAtom.Ansi
 
-[![Stars](https://img.shields.io/github/stars/XenoAtom/XenoAtom.Ansi?style=flat-square&color=yellow)](https://github.com/XenoAtom/XenoAtom.Ansi/stargazers) [![Forks](https://img.shields.io/github/forks/XenoAtom/XenoAtom.Ansi?style=flat-square&color=blue)](https://github.com/XenoAtom/XenoAtom.Ansi/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XenoAtom/XenoAtom.Ansi?style=flat-square&color=yellow)](https://github.com/XenoAtom/XenoAtom.Ansi/stargazers) [![Forks](https://img.shields.io/github/forks/XenoAtom/XenoAtom.Ansi?style=flat-square&color=blue)](https://github.com/XenoAtom/XenoAtom.Ansi/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, allocation-friendly .NET library to generate, parse, and manipulate ANSI/VT escape sequences (writer, markup, tokenizer, ANSI-aware text utilities).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

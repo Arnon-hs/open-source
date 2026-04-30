@@ -1,6 +1,6 @@
 # smithersai/smithers
 
-[![Stars](https://img.shields.io/github/stars/smithersai/smithers?style=flat-square&color=yellow)](https://github.com/smithersai/smithers/stargazers) [![Forks](https://img.shields.io/github/forks/smithersai/smithers?style=flat-square&color=blue)](https://github.com/smithersai/smithers/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smithersai/smithers?style=flat-square&color=yellow)](https://github.com/smithersai/smithers/stargazers) [![Forks](https://img.shields.io/github/forks/smithersai/smithers?style=flat-square&color=blue)](https://github.com/smithersai/smithers/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced AI Agents in React
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

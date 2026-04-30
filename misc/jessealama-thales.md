@@ -1,17 +1,17 @@
 # jessealama/thales
 
-[![Stars](https://img.shields.io/github/stars/jessealama/thales?style=flat-square&color=yellow)](https://github.com/jessealama/thales/stargazers) [![Forks](https://img.shields.io/github/forks/jessealama/thales?style=flat-square&color=blue)](https://github.com/jessealama/thales/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jessealama/thales?style=flat-square&color=yellow)](https://github.com/jessealama/thales/stargazers) [![Forks](https://img.shields.io/github/forks/jessealama/thales?style=flat-square&color=blue)](https://github.com/jessealama/thales/network) [![Language](https://img.shields.io/badge/lang-Lean-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> TypeScript compiler and JavaScript engine in Lean
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 12 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Lean |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

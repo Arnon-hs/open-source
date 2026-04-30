@@ -1,6 +1,6 @@
 # Rubby2001/Rshell---A-Cross-Platform-C2
 
-[![Stars](https://img.shields.io/github/stars/Rubby2001/Rshell---A-Cross-Platform-C2?style=flat-square&color=yellow)](https://github.com/Rubby2001/Rshell---A-Cross-Platform-C2/stargazers) [![Forks](https://img.shields.io/github/forks/Rubby2001/Rshell---A-Cross-Platform-C2?style=flat-square&color=blue)](https://github.com/Rubby2001/Rshell---A-Cross-Platform-C2/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rubby2001/Rshell---A-Cross-Platform-C2?style=flat-square&color=yellow)](https://github.com/Rubby2001/Rshell---A-Cross-Platform-C2/stargazers) [![Forks](https://img.shields.io/github/forks/Rubby2001/Rshell---A-Cross-Platform-C2?style=flat-square&color=blue)](https://github.com/Rubby2001/Rshell---A-Cross-Platform-C2/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Rshell是一款开源的golang编写的支持多平台的C2框架，旨在帮助安服人员渗透测试、红蓝对抗。
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 502 |
+| ⭐ **Stars** | 503 |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

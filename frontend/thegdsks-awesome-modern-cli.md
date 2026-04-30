@@ -1,6 +1,6 @@
 # thegdsks/awesome-modern-cli
 
-[![Stars](https://img.shields.io/github/stars/thegdsks/awesome-modern-cli?style=flat-square&color=yellow)](https://github.com/thegdsks/awesome-modern-cli/stargazers) [![Forks](https://img.shields.io/github/forks/thegdsks/awesome-modern-cli?style=flat-square&color=blue)](https://github.com/thegdsks/awesome-modern-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thegdsks/awesome-modern-cli?style=flat-square&color=yellow)](https://github.com/thegdsks/awesome-modern-cli/stargazers) [![Forks](https://img.shields.io/github/forks/thegdsks/awesome-modern-cli?style=flat-square&color=blue)](https://github.com/thegdsks/awesome-modern-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 315 |
+| ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

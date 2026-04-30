@@ -12,7 +12,7 @@
 | 2 | [alvr-org/ALVR](./alvr-org-alvr.md) | ⭐ 7.6k | Rust | 91/100 |
 | 3 | [jiji262/douyin-downloader](./jiji262-douyin-downloader.md) | ⭐ 7.5k | Python | 90/100 |
 | 4 | [apache/plc4x](./apache-plc4x.md) | ⭐ 1.6k | Java | 68/100 |
-| 5 | [tonhowtf/omniget](./tonhowtf-omniget.md) | ⭐ 2.2k | Rust | 68/100 |
+| 5 | [tonhowtf/omniget](./tonhowtf-omniget.md) | ⭐ 2.3k | Rust | 68/100 |
 | 6 | [museofficial/muse](./museofficial-muse.md) | ⭐ 1.2k | TypeScript | 60/100 |
 | 7 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 726 | Adblock Filter List | 57/100 |
 | 8 | [maaslalani/sheets](./maaslalani-sheets.md) | ⭐ 2.1k | Go | 56/100 |

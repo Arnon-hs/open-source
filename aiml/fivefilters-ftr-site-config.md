@@ -1,6 +1,6 @@
 # fivefilters/ftr-site-config
 
-[![Stars](https://img.shields.io/github/stars/fivefilters/ftr-site-config?style=flat-square&color=yellow)](https://github.com/fivefilters/ftr-site-config/stargazers) [![Forks](https://img.shields.io/github/forks/fivefilters/ftr-site-config?style=flat-square&color=blue)](https://github.com/fivefilters/ftr-site-config/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fivefilters/ftr-site-config?style=flat-square&color=yellow)](https://github.com/fivefilters/ftr-site-config/stargazers) [![Forks](https://img.shields.io/github/forks/fivefilters/ftr-site-config?style=flat-square&color=blue)](https://github.com/fivefilters/ftr-site-config/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Site-specific article extraction rules to aid content extractors, feed readers, and 'read later' applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 466 |
 | 🍴 **Forks** | 291 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

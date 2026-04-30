@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **12684** |
+| 🗂️ **Total projects** | **12735** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4835 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2475 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1232 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 980 | [Browse →](./orchestration/) |
+| 🤖 **AI/ML** | 4855 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2488 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1235 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 984 | [Browse →](./orchestration/) |
 | ⚙️ **Backend** | 773 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 753 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 455 | [Browse →](./crypto/) |
-| 📊 **Data** | 288 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 277 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 156 | [Browse →](./mobile/) |
+| 🔧 **DevTools** | 754 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 458 | [Browse →](./crypto/) |
+| 📊 **Data** | 289 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 279 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 157 | [Browse →](./mobile/) |
 | 💳 **Payments** | 134 | [Browse →](./payments/) |
-| 📈 **Trading** | 131 | [Browse →](./trading/) |
+| 📈 **Trading** | 132 | [Browse →](./trading/) |
 | 🔐 **Security** | 110 | [Browse →](./security/) |
 | ✨ **Design** | 37 | [Browse →](./design/) |
-| 🎯 **Product** | 25 | [Browse →](./product/) |
+| 🎯 **Product** | 27 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 23 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [appium/appium](./frontend/appium-appium.md) | ⭐ 21.5k | Frontend |
-| 2 | [jnMetaCode/agency-agents-zh](./crypto/jnmetacode-agency-agents-zh.md) | ⭐ 9.2k | Crypto |
-| 3 | [xbmc/xbmc](./aiml/xbmc-xbmc.md) | ⭐ 20.7k | AI/ML |
-| 4 | [Canner/WrenAI](./aiml/canner-wrenai.md) | ⭐ 15k | AI/ML |
-| 5 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
-| 6 | [ossrs/srs](./backend/ossrs-srs.md) | ⭐ 28.8k | Backend |
-| 7 | [psf/black](./misc/psf-black.md) | ⭐ 41.5k | Misc |
-| 8 | [bytecodealliance/wasmtime](./misc/bytecodealliance-wasmtime.md) | ⭐ 17.9k | Misc |
-| 9 | [feast-dev/feast](./aiml/feast-dev-feast.md) | ⭐ 7k | AI/ML |
-| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 1 | [hasura/graphql-engine](./aiml/hasura-graphql-engine.md) | ⭐ 32k | AI/ML |
+| 2 | [appium/appium](./frontend/appium-appium.md) | ⭐ 21.5k | Frontend |
+| 3 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
+| 4 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 5 | [bpftrace/bpftrace](./misc/bpftrace-bpftrace.md) | ⭐ 10.1k | Misc |
+| 6 | [frappe/frappe](./aiml/frappe-frappe.md) | ⭐ 10k | AI/ML |
+| 7 | [laramies/theHarvester](./aiml/laramies-theharvester.md) | ⭐ 16.1k | AI/ML |
+| 8 | [mudler/LocalAI](./aiml/mudler-localai.md) | ⭐ 45.9k | AI/ML |
+| 9 | [volcengine/OpenViking](./aiml/volcengine-openviking.md) | ⭐ 23.3k | AI/ML |
+| 10 | [novuhq/novu](./aiml/novuhq-novu.md) | ⭐ 38.9k | AI/ML |
 
 ## 🚀 How it works
 

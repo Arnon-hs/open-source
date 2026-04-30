@@ -1,6 +1,6 @@
 # multiformats/rust-multihash
 
-[![Stars](https://img.shields.io/github/stars/multiformats/rust-multihash?style=flat-square&color=yellow)](https://github.com/multiformats/rust-multihash/stargazers) [![Forks](https://img.shields.io/github/forks/multiformats/rust-multihash?style=flat-square&color=blue)](https://github.com/multiformats/rust-multihash/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/multiformats/rust-multihash?style=flat-square&color=yellow)](https://github.com/multiformats/rust-multihash/stargazers) [![Forks](https://img.shields.io/github/forks/multiformats/rust-multihash?style=flat-square&color=blue)](https://github.com/multiformats/rust-multihash/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > multihash implementation in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

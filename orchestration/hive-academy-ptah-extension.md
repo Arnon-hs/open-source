@@ -1,6 +1,6 @@
 # Hive-Academy/ptah-extension
 
-[![Stars](https://img.shields.io/github/stars/Hive-Academy/ptah-extension?style=flat-square&color=yellow)](https://github.com/Hive-Academy/ptah-extension/stargazers) [![Forks](https://img.shields.io/github/forks/Hive-Academy/ptah-extension?style=flat-square&color=blue)](https://github.com/Hive-Academy/ptah-extension/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hive-Academy/ptah-extension?style=flat-square&color=yellow)](https://github.com/Hive-Academy/ptah-extension/stargazers) [![Forks](https://img.shields.io/github/forks/Hive-Academy/ptah-extension?style=flat-square&color=blue)](https://github.com/Hive-Academy/ptah-extension/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Provider-agnostic AI orchestration for VS Code. Intelligent workspace analysis, Code Execution MCP server, and project-adaptive multi-agent workflows — all natively integrated into VS Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

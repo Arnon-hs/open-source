@@ -1,6 +1,6 @@
 # mobile-next/mobilewright
 
-[![Stars](https://img.shields.io/github/stars/mobile-next/mobilewright?style=flat-square&color=yellow)](https://github.com/mobile-next/mobilewright/stargazers) [![Forks](https://img.shields.io/github/forks/mobile-next/mobilewright?style=flat-square&color=blue)](https://github.com/mobile-next/mobilewright/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mobile-next/mobilewright?style=flat-square&color=yellow)](https://github.com/mobile-next/mobilewright/stargazers) [![Forks](https://img.shields.io/github/forks/mobile-next/mobilewright?style=flat-square&color=blue)](https://github.com/mobile-next/mobilewright/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Mobilewright is a dev framework for Mobile App Testing and Automation. It allows testing iOS/Android app on real devices, emulators and simulators with a single API.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 53 |
-| 🍴 **Forks** | 4 |
+| ⭐ **Stars** | 59 |
+| 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

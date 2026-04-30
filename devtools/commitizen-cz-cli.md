@@ -1,6 +1,6 @@
 # commitizen/cz-cli
 
-[![Stars](https://img.shields.io/github/stars/commitizen/cz-cli?style=flat-square&color=yellow)](https://github.com/commitizen/cz-cli/stargazers) [![Forks](https://img.shields.io/github/forks/commitizen/cz-cli?style=flat-square&color=blue)](https://github.com/commitizen/cz-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/commitizen/cz-cli?style=flat-square&color=yellow)](https://github.com/commitizen/cz-cli/stargazers) [![Forks](https://img.shields.io/github/forks/commitizen/cz-cli?style=flat-square&color=blue)](https://github.com/commitizen/cz-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
 > The commitizen command line utility. #BlackLivesMatter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.5k |
 | 🍴 **Forks** | 564 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 93/100 |
+| 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
