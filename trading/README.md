@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**126 projects** in this category.
+**128 projects** in this category.
 
 ## Projects
 
@@ -104,36 +104,38 @@
 | 94 | [cclib/cclib](./cclib-cclib.md) | ⭐ 405 | Python | 51/100 |
 | 95 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 26 | Swift | 50/100 |
 | 96 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 50/100 |
-| 97 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 29 | Python | 50/100 |
-| 98 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
-| 99 | [LLMQuant/quant-mind](./llmquant-quant-mind.md) | ⭐ 153 | Python | 50/100 |
-| 100 | [TradingGoose/TradingGoose-Studio](./tradinggoose-tradinggoose-studio.md) | ⭐ 56 | TypeScript | 50/100 |
-| 101 | [quantamixsol/graqle](./quantamixsol-graqle.md) | ⭐ 22 | Python | 50/100 |
-| 102 | [wakatime/wakatime-cli](./wakatime-wakatime-cli.md) | ⭐ 428 | Go | 50/100 |
-| 103 | [quantumaikr/quant.cpp](./quantumaikr-quant.cpp.md) | ⭐ 384 | C | 49/100 |
-| 104 | [deepentropy/ibx](./deepentropy-ibx.md) | ⭐ 115 | Rust | 49/100 |
-| 105 | [btopn/OpenInsider-MCP](./btopn-openinsider-mcp.md) | ⭐ 72 | TypeScript | 49/100 |
-| 106 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 282 | Jupyter Notebook | 49/100 |
-| 107 | [SparkEngineAI/QuantClaw-plugin](./sparkengineai-quantclaw-plugin.md) | ⭐ 101 | TypeScript | 49/100 |
-| 108 | [OctopusTakopi/binance_l3_est](./octopustakopi-binance-l3-est.md) | ⭐ 214 | Rust | 49/100 |
-| 109 | [No-Trade-No-Life/Yuan](./no-trade-no-life-yuan.md) | ⭐ 350 | TypeScript | 48/100 |
-| 110 | [infinitefield/hypersdk](./infinitefield-hypersdk.md) | ⭐ 150 | Rust | 48/100 |
-| 111 | [andyzengmath/quantum-loop](./andyzengmath-quantum-loop.md) | ⭐ 22 | Shell | 48/100 |
-| 112 | [twjackysu/TWSEMCPServer](./twjackysu-twsemcpserver.md) | ⭐ 77 | Python | 47/100 |
-| 113 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 301 | Rust | 47/100 |
-| 114 | [itsubaki/q](./itsubaki-q.md) | ⭐ 279 | Go | 46/100 |
-| 115 | [eriirfos-eng/ternary-intelligence-stack](./eriirfos-eng-ternary-intelligence-stack.md) | ⭐ 12 | Rust | 46/100 |
-| 116 | [ConteurShadow/Polymarket-Trading-Bot-Rust](./conteurshadow-polymarket-trading-bot-rust.md) | ⭐ 244 | Rust | 46/100 |
-| 117 | [tinmanlabsl/qvac-gemma4-patch](./tinmanlabsl-qvac-gemma4-patch.md) | ⭐ 2 | C++ | 46/100 |
-| 118 | [rivar0107/autostrategy](./rivar0107-autostrategy.md) | ⭐ 14 | Python | 44/100 |
-| 119 | [tqec/tqec](./tqec-tqec.md) | ⭐ 359 | Python | 44/100 |
-| 120 | [msuzen/leymosun](./msuzen-leymosun.md) | ⭐ 8 | Jupyter Notebook | 42/100 |
-| 121 | [adam-s/alphadidactic](./adam-s-alphadidactic.md) | ⭐ 38 | Python | 41/100 |
-| 122 | [valory-xyz/trader](./valory-xyz-trader.md) | ⭐ 66 | Python | 41/100 |
-| 123 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 141 | Rust | 41/100 |
-| 124 | [Icemap/duckdb-vector-index](./icemap-duckdb-vector-index.md) | ⭐ 3 | C++ | 36/100 |
-| 125 | [qumulator/qumulator-sdk](./qumulator-qumulator-sdk.md) | ⭐ 10 | Python | 36/100 |
-| 126 | [cirosantilli/test-octopus-100k](./cirosantilli-test-octopus-100k.md) | ⭐ 36 | — | 20/100 |
+| 97 | [Miasyster/QuantGPT](./miasyster-quantgpt.md) | ⭐ 33 | Python | 50/100 |
+| 98 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 29 | Python | 50/100 |
+| 99 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
+| 100 | [LLMQuant/quant-mind](./llmquant-quant-mind.md) | ⭐ 153 | Python | 50/100 |
+| 101 | [TradingGoose/TradingGoose-Studio](./tradinggoose-tradinggoose-studio.md) | ⭐ 56 | TypeScript | 50/100 |
+| 102 | [quantamixsol/graqle](./quantamixsol-graqle.md) | ⭐ 22 | Python | 50/100 |
+| 103 | [wakatime/wakatime-cli](./wakatime-wakatime-cli.md) | ⭐ 428 | Go | 50/100 |
+| 104 | [quantumaikr/quant.cpp](./quantumaikr-quant.cpp.md) | ⭐ 384 | C | 49/100 |
+| 105 | [staskh/trading_skills](./staskh-trading-skills.md) | ⭐ 131 | Python | 49/100 |
+| 106 | [deepentropy/ibx](./deepentropy-ibx.md) | ⭐ 115 | Rust | 49/100 |
+| 107 | [btopn/OpenInsider-MCP](./btopn-openinsider-mcp.md) | ⭐ 72 | TypeScript | 49/100 |
+| 108 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 282 | Jupyter Notebook | 49/100 |
+| 109 | [SparkEngineAI/QuantClaw-plugin](./sparkengineai-quantclaw-plugin.md) | ⭐ 101 | TypeScript | 49/100 |
+| 110 | [OctopusTakopi/binance_l3_est](./octopustakopi-binance-l3-est.md) | ⭐ 214 | Rust | 49/100 |
+| 111 | [No-Trade-No-Life/Yuan](./no-trade-no-life-yuan.md) | ⭐ 350 | TypeScript | 48/100 |
+| 112 | [infinitefield/hypersdk](./infinitefield-hypersdk.md) | ⭐ 150 | Rust | 48/100 |
+| 113 | [andyzengmath/quantum-loop](./andyzengmath-quantum-loop.md) | ⭐ 22 | Shell | 48/100 |
+| 114 | [twjackysu/TWSEMCPServer](./twjackysu-twsemcpserver.md) | ⭐ 77 | Python | 47/100 |
+| 115 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 301 | Rust | 47/100 |
+| 116 | [itsubaki/q](./itsubaki-q.md) | ⭐ 279 | Go | 46/100 |
+| 117 | [eriirfos-eng/ternary-intelligence-stack](./eriirfos-eng-ternary-intelligence-stack.md) | ⭐ 12 | Rust | 46/100 |
+| 118 | [ConteurShadow/Polymarket-Trading-Bot-Rust](./conteurshadow-polymarket-trading-bot-rust.md) | ⭐ 244 | Rust | 46/100 |
+| 119 | [tinmanlabsl/qvac-gemma4-patch](./tinmanlabsl-qvac-gemma4-patch.md) | ⭐ 2 | C++ | 46/100 |
+| 120 | [rivar0107/autostrategy](./rivar0107-autostrategy.md) | ⭐ 14 | Python | 44/100 |
+| 121 | [tqec/tqec](./tqec-tqec.md) | ⭐ 359 | Python | 44/100 |
+| 122 | [msuzen/leymosun](./msuzen-leymosun.md) | ⭐ 8 | Jupyter Notebook | 42/100 |
+| 123 | [adam-s/alphadidactic](./adam-s-alphadidactic.md) | ⭐ 38 | Python | 41/100 |
+| 124 | [valory-xyz/trader](./valory-xyz-trader.md) | ⭐ 66 | Python | 41/100 |
+| 125 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 141 | Rust | 41/100 |
+| 126 | [Icemap/duckdb-vector-index](./icemap-duckdb-vector-index.md) | ⭐ 3 | C++ | 36/100 |
+| 127 | [qumulator/qumulator-sdk](./qumulator-qumulator-sdk.md) | ⭐ 10 | Python | 36/100 |
+| 128 | [cirosantilli/test-octopus-100k](./cirosantilli-test-octopus-100k.md) | ⭐ 36 | — | 20/100 |
 
 ---
 

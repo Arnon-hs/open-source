@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**107 projects** in this category.
+**108 projects** in this category.
 
 ## Projects
 
@@ -82,39 +82,40 @@
 | 72 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
 | 73 | [LinOTP/LinOTP](./linotp-linotp.md) | ⭐ 546 | Python | 52/100 |
 | 74 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 51/100 |
-| 75 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 167 | Go | 51/100 |
-| 76 | [Shopify/ejson](./shopify-ejson.md) | ⭐ 1.5k | Go | 51/100 |
-| 77 | [Karib0u/rustinel](./karib0u-rustinel.md) | ⭐ 119 | Rust | 51/100 |
-| 78 | [yaklang/yaklang](./yaklang-yaklang.md) | ⭐ 542 | Go | 51/100 |
-| 79 | [404tk/cloudtoolkit](./404tk-cloudtoolkit.md) | ⭐ 107 | Go | 51/100 |
-| 80 | [DeepNotesApp/DeepNotes](./deepnotesapp-deepnotes.md) | ⭐ 595 | TypeScript | 51/100 |
-| 81 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
-| 82 | [Snowflake-Labs/sansshell](./snowflake-labs-sansshell.md) | ⭐ 122 | Go | 49/100 |
-| 83 | [threefoldtech/mycelium](./threefoldtech-mycelium.md) | ⭐ 178 | Rust | 48/100 |
-| 84 | [cloudflare/svg-hush](./cloudflare-svg-hush.md) | ⭐ 421 | Rust | 48/100 |
-| 85 | [apache/casbin-caddy-authz](./apache-casbin-caddy-authz.md) | ⭐ 249 | Go | 48/100 |
-| 86 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 761 | — | 47/100 |
-| 87 | [falcosecurity/plugins](./falcosecurity-plugins.md) | ⭐ 114 | Go | 47/100 |
-| 88 | [rushter/hexora](./rushter-hexora.md) | ⭐ 150 | Rust | 47/100 |
-| 89 | [mytech-today-now/OO](./mytech-today-now-oo.md) | ⭐ 3 | PowerShell | 46/100 |
-| 90 | [powdr-labs/powdr](./powdr-labs-powdr.md) | ⭐ 491 | Rust | 45/100 |
-| 91 | [Tatsh/dbeaver-creds](./tatsh-dbeaver-creds.md) | ⭐ 33 | C | 45/100 |
-| 92 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 497 | Go | 45/100 |
-| 93 | [himself65/auth-spec](./himself65-auth-spec.md) | ⭐ 22 | TypeScript | 44/100 |
-| 94 | [facebookincubator/TTPForge](./facebookincubator-ttpforge.md) | ⭐ 419 | Go | 44/100 |
-| 95 | [FanTranslatorsInternational/Kuriimu2](./fantranslatorsinternational-kuriimu2.md) | ⭐ 408 | C# | 44/100 |
-| 96 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 454 | — | 44/100 |
-| 97 | [tkhq/qos](./tkhq-qos.md) | ⭐ 104 | Rust | 44/100 |
-| 98 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 245 | Rust | 43/100 |
-| 99 | [canonical/authd](./canonical-authd.md) | ⭐ 288 | Go | 43/100 |
-| 100 | [nuxt/hints](./nuxt-hints.md) | ⭐ 334 | TypeScript | 43/100 |
-| 101 | [ex-machina-co/opencode-anthropic-auth](./ex-machina-co-opencode-anthropic-auth.md) | ⭐ 376 | TypeScript | 43/100 |
-| 102 | [depado/gin-auth-example](./depado-gin-auth-example.md) | ⭐ 185 | Go | 42/100 |
-| 103 | [bartei/git-agecrypt](./bartei-git-agecrypt.md) | ⭐ 8 | Rust | 42/100 |
-| 104 | [NordSecurity/libtelio](./nordsecurity-libtelio.md) | ⭐ 148 | Rust | 41/100 |
-| 105 | [ItalyPaleAle/traefik-forward-auth](./italypaleale-traefik-forward-auth.md) | ⭐ 104 | Go | 41/100 |
-| 106 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
-| 107 | [DslsDZC/HIC](./dslsdzc-hic.md) | ⭐ 12 | C | 36/100 |
+| 75 | [falcosecurity/libs](./falcosecurity-libs.md) | ⭐ 305 | C | 51/100 |
+| 76 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 167 | Go | 51/100 |
+| 77 | [Shopify/ejson](./shopify-ejson.md) | ⭐ 1.5k | Go | 51/100 |
+| 78 | [Karib0u/rustinel](./karib0u-rustinel.md) | ⭐ 119 | Rust | 51/100 |
+| 79 | [yaklang/yaklang](./yaklang-yaklang.md) | ⭐ 542 | Go | 51/100 |
+| 80 | [404tk/cloudtoolkit](./404tk-cloudtoolkit.md) | ⭐ 107 | Go | 51/100 |
+| 81 | [DeepNotesApp/DeepNotes](./deepnotesapp-deepnotes.md) | ⭐ 595 | TypeScript | 51/100 |
+| 82 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
+| 83 | [Snowflake-Labs/sansshell](./snowflake-labs-sansshell.md) | ⭐ 122 | Go | 49/100 |
+| 84 | [threefoldtech/mycelium](./threefoldtech-mycelium.md) | ⭐ 178 | Rust | 48/100 |
+| 85 | [cloudflare/svg-hush](./cloudflare-svg-hush.md) | ⭐ 421 | Rust | 48/100 |
+| 86 | [apache/casbin-caddy-authz](./apache-casbin-caddy-authz.md) | ⭐ 249 | Go | 48/100 |
+| 87 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 761 | — | 47/100 |
+| 88 | [falcosecurity/plugins](./falcosecurity-plugins.md) | ⭐ 114 | Go | 47/100 |
+| 89 | [rushter/hexora](./rushter-hexora.md) | ⭐ 150 | Rust | 47/100 |
+| 90 | [mytech-today-now/OO](./mytech-today-now-oo.md) | ⭐ 3 | PowerShell | 46/100 |
+| 91 | [powdr-labs/powdr](./powdr-labs-powdr.md) | ⭐ 491 | Rust | 45/100 |
+| 92 | [Tatsh/dbeaver-creds](./tatsh-dbeaver-creds.md) | ⭐ 33 | C | 45/100 |
+| 93 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 497 | Go | 45/100 |
+| 94 | [himself65/auth-spec](./himself65-auth-spec.md) | ⭐ 22 | TypeScript | 44/100 |
+| 95 | [facebookincubator/TTPForge](./facebookincubator-ttpforge.md) | ⭐ 419 | Go | 44/100 |
+| 96 | [FanTranslatorsInternational/Kuriimu2](./fantranslatorsinternational-kuriimu2.md) | ⭐ 408 | C# | 44/100 |
+| 97 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 454 | — | 44/100 |
+| 98 | [tkhq/qos](./tkhq-qos.md) | ⭐ 104 | Rust | 44/100 |
+| 99 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 245 | Rust | 43/100 |
+| 100 | [canonical/authd](./canonical-authd.md) | ⭐ 288 | Go | 43/100 |
+| 101 | [nuxt/hints](./nuxt-hints.md) | ⭐ 334 | TypeScript | 43/100 |
+| 102 | [ex-machina-co/opencode-anthropic-auth](./ex-machina-co-opencode-anthropic-auth.md) | ⭐ 376 | TypeScript | 43/100 |
+| 103 | [depado/gin-auth-example](./depado-gin-auth-example.md) | ⭐ 185 | Go | 42/100 |
+| 104 | [bartei/git-agecrypt](./bartei-git-agecrypt.md) | ⭐ 8 | Rust | 42/100 |
+| 105 | [NordSecurity/libtelio](./nordsecurity-libtelio.md) | ⭐ 148 | Rust | 41/100 |
+| 106 | [ItalyPaleAle/traefik-forward-auth](./italypaleale-traefik-forward-auth.md) | ⭐ 104 | Go | 41/100 |
+| 107 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
+| 108 | [DslsDZC/HIC](./dslsdzc-hic.md) | ⭐ 12 | C | 36/100 |
 
 ---
 
