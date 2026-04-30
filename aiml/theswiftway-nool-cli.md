@@ -1,6 +1,6 @@
 # theswiftway/nool-cli
 
-[![Stars](https://img.shields.io/github/stars/theswiftway/nool-cli?style=flat-square&color=yellow)](https://github.com/theswiftway/nool-cli/stargazers) [![Forks](https://img.shields.io/github/forks/theswiftway/nool-cli?style=flat-square&color=blue)](https://github.com/theswiftway/nool-cli/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/theswiftway/nool-cli?style=flat-square&color=yellow)](https://github.com/theswiftway/nool-cli/stargazers) [![Forks](https://img.shields.io/github/forks/theswiftway/nool-cli?style=flat-square&color=blue)](https://github.com/theswiftway/nool-cli/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > A DAG based VCS, superset of git for AI agentic world to power the speed of thought without compromising on safety and reliability.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

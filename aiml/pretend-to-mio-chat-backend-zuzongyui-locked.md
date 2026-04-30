@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the project:
 
-The Pretend-to/mio-chat-backend-zuzongyui-locked project is a locked repository for an AI/ML powered chat backend. Unfortunately, this repository has been seized by its owner, Yui, who is now accepting contributions to restore access. The project likely falls under the categories of AI/ML, Frontend, and Backend development.
+The Pretend-to/mio-chat-backend-zuzongyui-locked project is an open-source initiative that focuses on developing a chat backend system. Unfortunately, the repository has been confiscated by a user named Yui, and contributions are being solicited to redeem it. This project likely utilizes AI/ML, frontend, and backend technologies.
 
 ---
 

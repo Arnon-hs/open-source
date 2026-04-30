@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12 |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 17 |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | Lean |
 | 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |

@@ -1,6 +1,6 @@
 # alexdlaird/amazon-orders
 
-[![Stars](https://img.shields.io/github/stars/alexdlaird/amazon-orders?style=flat-square&color=yellow)](https://github.com/alexdlaird/amazon-orders/stargazers) [![Forks](https://img.shields.io/github/forks/alexdlaird/amazon-orders?style=flat-square&color=blue)](https://github.com/alexdlaird/amazon-orders/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexdlaird/amazon-orders?style=flat-square&color=yellow)](https://github.com/alexdlaird/amazon-orders/stargazers) [![Forks](https://img.shields.io/github/forks/alexdlaird/amazon-orders?style=flat-square&color=blue)](https://github.com/alexdlaird/amazon-orders/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A Python library (and CLI) for Amazon order history
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 134 |
+| ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

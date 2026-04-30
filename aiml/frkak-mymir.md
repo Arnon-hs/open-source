@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/FrkAk/mymir?style=flat-square&color=yellow)](https://github.com/FrkAk/mymir/stargazers) [![Forks](https://img.shields.io/github/forks/FrkAk/mymir?style=flat-square&color=blue)](https://github.com/FrkAk/mymir/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Context management for the agent-native engineering era.
+> Context management for the agentic engineering era.
 
 ## 📊 Stats
 

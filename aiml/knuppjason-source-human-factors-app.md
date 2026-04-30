@@ -1,8 +1,8 @@
 # knuppjason-source/Human-Factors-App
 
-[![Stars](https://img.shields.io/github/stars/knuppjason-source/Human-Factors-App?style=flat-square&color=yellow)](https://github.com/knuppjason-source/Human-Factors-App/stargazers) [![Forks](https://img.shields.io/github/forks/knuppjason-source/Human-Factors-App?style=flat-square&color=blue)](https://github.com/knuppjason-source/Human-Factors-App/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/knuppjason-source/Human-Factors-App?style=flat-square&color=yellow)](https://github.com/knuppjason-source/Human-Factors-App/stargazers) [![Forks](https://img.shields.io/github/forks/knuppjason-source/Human-Factors-App?style=flat-square&color=blue)](https://github.com/knuppjason-source/Human-Factors-App/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> This is a command decision tool, work flow easer, and plan coordinating tool for leadership and Sailors
 
 ## 📊 Stats
 
@@ -10,8 +10,8 @@
 |---|---|
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

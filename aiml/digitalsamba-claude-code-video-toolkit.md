@@ -1,6 +1,6 @@
 # digitalsamba/claude-code-video-toolkit
 
-[![Stars](https://img.shields.io/github/stars/digitalsamba/claude-code-video-toolkit?style=flat-square&color=yellow)](https://github.com/digitalsamba/claude-code-video-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/digitalsamba/claude-code-video-toolkit?style=flat-square&color=blue)](https://github.com/digitalsamba/claude-code-video-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/digitalsamba/claude-code-video-toolkit?style=flat-square&color=yellow)](https://github.com/digitalsamba/claude-code-video-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/digitalsamba/claude-code-video-toolkit?style=flat-square&color=blue)](https://github.com/digitalsamba/claude-code-video-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > AI-native video production toolkit for Claude Code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

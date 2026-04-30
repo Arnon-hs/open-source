@@ -25,7 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The DQIII8 project is an open-source AI orchestrator designed to efficiently manage and route tasks to the most cost-effective models available. This innovative tool enables self-auditing and self-improvement, eliminating the need for explicit prompting skills, while utilizing local models to achieve up to 70% free operation. By giving users full control over their models and data, DQIII8 empowers individuals to harness AI capabilities without compromising on flexibility or cost.
+Here's a 2-3 sentence summary of the project:
+
+DQIII8 is an open-source AI orchestrator that automatically assigns tasks to the most cost-effective models, utilizing local models to reduce costs to 30%. This self-auditing and self-improving tool requires no prompting skills, making it accessible to users of all levels. Built by a finance student using 'vibe coding', DQIII8 empowers users to manage their own AI models and data.
 
 ---
 

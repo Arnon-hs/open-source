@@ -25,9 +25,7 @@ DevOps/Infra · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the Azure/Kubelogin project:
-
-Kubelogin is a Kubernetes credential plugin that enables Azure authentication for secure access to cluster resources. This open-source project allows users to leverage their Azure credentials to authenticate with Kubernetes clusters, streamlining the authentication process. By integrating Azure with Kubernetes, Kubelogin enhances security and simplifies cluster management.
+The Azure/kubelogin project is an open-source Kubernetes credential plugin that enables seamless authentication with Azure services. It provides a secure and efficient way to manage credentials for Azure-based Kubernetes environments, streamlining DevOps and infrastructure processes. By leveraging this plugin, users can simplify their authentication workflows and enhance overall security.
 
 ---
 

@@ -1,6 +1,6 @@
 # madeye/mcp-cli
 
-[![Stars](https://img.shields.io/github/stars/madeye/mcp-cli?style=flat-square&color=yellow)](https://github.com/madeye/mcp-cli/stargazers) [![Forks](https://img.shields.io/github/forks/madeye/mcp-cli?style=flat-square&color=blue)](https://github.com/madeye/mcp-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/madeye/mcp-cli?style=flat-square&color=yellow)](https://github.com/madeye/mcp-cli/stargazers) [![Forks](https://img.shields.io/github/forks/madeye/mcp-cli?style=flat-square&color=blue)](https://github.com/madeye/mcp-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > a prototype to save fork/exec overhead of ai code agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

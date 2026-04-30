@@ -1,6 +1,6 @@
 # alchemiststudiosDOTai/tunacode
 
-[![Stars](https://img.shields.io/github/stars/alchemiststudiosDOTai/tunacode?style=flat-square&color=yellow)](https://github.com/alchemiststudiosDOTai/tunacode/stargazers) [![Forks](https://img.shields.io/github/forks/alchemiststudiosDOTai/tunacode?style=flat-square&color=blue)](https://github.com/alchemiststudiosDOTai/tunacode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alchemiststudiosDOTai/tunacode?style=flat-square&color=yellow)](https://github.com/alchemiststudiosDOTai/tunacode/stargazers) [![Forks](https://img.shields.io/github/forks/alchemiststudiosDOTai/tunacode?style=flat-square&color=blue)](https://github.com/alchemiststudiosDOTai/tunacode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🍣 TunaCode  AI CLI coding agent with safe git branches, rich tools & multi-LLM support.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

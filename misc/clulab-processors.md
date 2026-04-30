@@ -1,6 +1,6 @@
 # clulab/processors
 
-[![Stars](https://img.shields.io/github/stars/clulab/processors?style=flat-square&color=yellow)](https://github.com/clulab/processors/stargazers) [![Forks](https://img.shields.io/github/forks/clulab/processors?style=flat-square&color=blue)](https://github.com/clulab/processors/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clulab/processors?style=flat-square&color=yellow)](https://github.com/clulab/processors/stargazers) [![Forks](https://img.shields.io/github/forks/clulab/processors?style=flat-square&color=blue)](https://github.com/clulab/processors/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Natural Language Processors
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 424 |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

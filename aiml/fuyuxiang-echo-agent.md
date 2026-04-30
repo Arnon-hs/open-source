@@ -1,6 +1,6 @@
 # fuyuxiang/echo-agent
 
-[![Stars](https://img.shields.io/github/stars/fuyuxiang/echo-agent?style=flat-square&color=yellow)](https://github.com/fuyuxiang/echo-agent/stargazers) [![Forks](https://img.shields.io/github/forks/fuyuxiang/echo-agent?style=flat-square&color=blue)](https://github.com/fuyuxiang/echo-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fuyuxiang/echo-agent?style=flat-square&color=yellow)](https://github.com/fuyuxiang/echo-agent/stargazers) [![Forks](https://img.shields.io/github/forks/fuyuxiang/echo-agent?style=flat-square&color=blue)](https://github.com/fuyuxiang/echo-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Echo Agent 是一款可自托管、长期运行的跨平台 AI Agent。支持接入微信、Telegram、Discord 等多平台与全网主流大模型，提供统一的记忆、技能和权限管理，助你轻松构建专属的个人助理或团队自动化机器人。
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51 |
+| ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Picovoice/picollm
 
-[![Stars](https://img.shields.io/github/stars/Picovoice/picollm?style=flat-square&color=yellow)](https://github.com/Picovoice/picollm/stargazers) [![Forks](https://img.shields.io/github/forks/Picovoice/picollm?style=flat-square&color=blue)](https://github.com/Picovoice/picollm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Picovoice/picollm?style=flat-square&color=yellow)](https://github.com/Picovoice/picollm/stargazers) [![Forks](https://img.shields.io/github/forks/Picovoice/picollm?style=flat-square&color=blue)](https://github.com/Picovoice/picollm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > On-device LLM Inference Powered by X-Bit Quantization
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

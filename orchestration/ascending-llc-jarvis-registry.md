@@ -1,6 +1,6 @@
 # ascending-llc/jarvis-registry
 
-[![Stars](https://img.shields.io/github/stars/ascending-llc/jarvis-registry?style=flat-square&color=yellow)](https://github.com/ascending-llc/jarvis-registry/stargazers) [![Forks](https://img.shields.io/github/forks/ascending-llc/jarvis-registry?style=flat-square&color=blue)](https://github.com/ascending-llc/jarvis-registry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ascending-llc/jarvis-registry?style=flat-square&color=yellow)](https://github.com/ascending-llc/jarvis-registry/stargazers) [![Forks](https://img.shields.io/github/forks/ascending-llc/jarvis-registry?style=flat-square&color=blue)](https://github.com/ascending-llc/jarvis-registry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Connect any AI copilot or autonomous agent to your enterprise tools — through a single, secure MCP/Agent gateway with built-in identity, access control, and full observability.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 466 |
-| 🍴 **Forks** | 48 |
+| ⭐ **Stars** | 472 |
+| 🍴 **Forks** | 49 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-This open-source project, "remote-mcp-functions-python," is an Azure Functions implementation in Python that gets you started with remote MCP (Microsoft Cloud PC) servers. It showcases how to integrate Azure Functions with MCP servers for secure, cloud-based remote access to virtual machines. This project serves as a reference point for developers looking to build scalable and efficient remote access solutions on Azure.
+The Azure-Samples/remote-mcp-functions-python project provides a starting point for integrating Remote Multi-Channel Processing (MCP) servers with Azure Functions using Python. This open-source project enables developers to leverage Azure Functions to manage and orchestrate Remote MCP servers, streamlining the process of building scalable and efficient cloud-based applications. By following this project, developers can create robust and secure cloud-based solutions with Remote MCP.
 
 ---
 

@@ -1,6 +1,6 @@
 # qosf/awesome-quantum-software
 
-[![Stars](https://img.shields.io/github/stars/qosf/awesome-quantum-software?style=flat-square&color=yellow)](https://github.com/qosf/awesome-quantum-software/stargazers) [![Forks](https://img.shields.io/github/forks/qosf/awesome-quantum-software?style=flat-square&color=blue)](https://github.com/qosf/awesome-quantum-software/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qosf/awesome-quantum-software?style=flat-square&color=yellow)](https://github.com/qosf/awesome-quantum-software/stargazers) [![Forks](https://img.shields.io/github/forks/qosf/awesome-quantum-software?style=flat-square&color=blue)](https://github.com/qosf/awesome-quantum-software/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of open-source quantum software projects.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 411 |
+| ⭐ **Stars** | 2.1k |
+| 🍴 **Forks** | 413 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # eitchtee/WYGIWYH
 
-[![Stars](https://img.shields.io/github/stars/eitchtee/WYGIWYH?style=flat-square&color=yellow)](https://github.com/eitchtee/WYGIWYH/stargazers) [![Forks](https://img.shields.io/github/forks/eitchtee/WYGIWYH?style=flat-square&color=blue)](https://github.com/eitchtee/WYGIWYH/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eitchtee/WYGIWYH?style=flat-square&color=yellow)](https://github.com/eitchtee/WYGIWYH/stargazers) [![Forks](https://img.shields.io/github/forks/eitchtee/WYGIWYH?style=flat-square&color=blue)](https://github.com/eitchtee/WYGIWYH/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A simple but powerful self-hosted finance tracker
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 838 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

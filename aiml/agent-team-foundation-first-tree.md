@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The 'first-tree' project is an open-source initiative that offers a Git-native knowledge layer for teams, providing a centralized platform for information management and collaboration. This tool suite aims to keep the knowledge layer alive by incorporating features that promote knowledge sharing, retrieval, and updates. By leveraging AI/ML and frontend technologies, 'first-tree' seeks to revolutionize the way teams access, utilize, and disseminate knowledge.
+The "first-tree" project is an open-source initiative that provides a Git-native knowledge layer for teams, enabling seamless collaboration and information management. This tool suite is designed to foster a living repository of knowledge, keeping it up-to-date and easily accessible for team members. By leveraging AI/ML and frontend technologies, "first-tree" aims to revolutionize the way teams work together and share knowledge.
 
 ---
 

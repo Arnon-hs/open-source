@@ -1,6 +1,6 @@
 # huggingface/upskill
 
-[![Stars](https://img.shields.io/github/stars/huggingface/upskill?style=flat-square&color=yellow)](https://github.com/huggingface/upskill/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/upskill?style=flat-square&color=blue)](https://github.com/huggingface/upskill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/upskill?style=flat-square&color=yellow)](https://github.com/huggingface/upskill/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/upskill?style=flat-square&color=blue)](https://github.com/huggingface/upskill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Generate and evaluate agent skills for code agents like Claude Code, Open Code, OpenAI Codex
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 506 |
+| ⭐ **Stars** | 509 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

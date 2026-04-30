@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The hassio-rclone-backup project is an open-source Home Assistant addon that integrates Rclone to automatically sync backups to remote locations. This addon simplifies the process of backing up Home Assistant data, allowing users to store their configuration and history in secure, off-site locations. By leveraging Rclone's support for multiple cloud storage services, users can easily replicate their backups across various platforms.
+This open-source project, "hassio-rclone-backup," is a Home Assistant addon that automates the syncing of backups to remote locations using Rclone. It allows users to seamlessly backup and restore their Home Assistant configuration and data to cloud storage services such as Google Drive, Dropbox, and more. This addon provides an additional layer of security and convenience for Home Assistant users.
 
 ---
 

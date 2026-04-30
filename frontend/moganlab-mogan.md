@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 556 |
-| 🍴 **Forks** | 95 |
+| 🍴 **Forks** | 94 |
 | 💻 **Language** | Scheme |
 | 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |

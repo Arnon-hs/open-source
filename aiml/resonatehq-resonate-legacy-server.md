@@ -1,6 +1,6 @@
 # resonatehq/resonate-legacy-server
 
-[![Stars](https://img.shields.io/github/stars/resonatehq/resonate-legacy-server?style=flat-square&color=yellow)](https://github.com/resonatehq/resonate-legacy-server/stargazers) [![Forks](https://img.shields.io/github/forks/resonatehq/resonate-legacy-server?style=flat-square&color=blue)](https://github.com/resonatehq/resonate-legacy-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/resonatehq/resonate-legacy-server?style=flat-square&color=yellow)](https://github.com/resonatehq/resonate-legacy-server/stargazers) [![Forks](https://img.shields.io/github/forks/resonatehq/resonate-legacy-server?style=flat-square&color=blue)](https://github.com/resonatehq/resonate-legacy-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Distributed Async Await — Durable Executions, Dead Simple
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 582 |
-| 🍴 **Forks** | 47 |
+| ⭐ **Stars** | 15 |
+| 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

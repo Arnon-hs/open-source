@@ -1,6 +1,6 @@
 # Hybirdss/smartest-tv
 
-[![Stars](https://img.shields.io/github/stars/Hybirdss/smartest-tv?style=flat-square&color=yellow)](https://github.com/Hybirdss/smartest-tv/stargazers) [![Forks](https://img.shields.io/github/forks/Hybirdss/smartest-tv?style=flat-square&color=blue)](https://github.com/Hybirdss/smartest-tv/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hybirdss/smartest-tv?style=flat-square&color=yellow)](https://github.com/Hybirdss/smartest-tv/stargazers) [![Forks](https://img.shields.io/github/forks/Hybirdss/smartest-tv?style=flat-square&color=blue)](https://github.com/Hybirdss/smartest-tv/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 📺 Control any smart TV with natural language. Play Netflix by name from your terminal. PyPI: stv · MCP server · LG/Samsung/Roku/Android
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

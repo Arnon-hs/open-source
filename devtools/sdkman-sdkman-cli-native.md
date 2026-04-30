@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-SDKMAN! CLI Native is an open-source project that rewrites the next generation of SDKMAN! CLI commands in Rust, providing a faster and more efficient alternative to the existing implementation. This native CLI aims to improve performance, reliability, and user experience for developers managing their software development kits (SDKs) and toolchains. By leveraging Rust's capabilities, it offers a more scalable and maintainable solution for the SDKMAN! ecosystem.
+Here's a brief summary for the sdkman/sdkman-cli-native project:
+
+The sdkman/sdkman-cli-native project is a next-generation implementation of the SDKMAN! CLI, written in Rust to provide a faster and more efficient command-line interface for managing software development kits (SDKs) and toolchains. This open-source project aims to replace the existing CLI with a more modern and performant solution. By leveraging Rust, it promotes better performance, reliability, and scalability for developers.
 
 ---
 

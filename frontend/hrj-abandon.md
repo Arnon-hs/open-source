@@ -1,6 +1,6 @@
 # hrj/abandon
 
-[![Stars](https://img.shields.io/github/stars/hrj/abandon?style=flat-square&color=yellow)](https://github.com/hrj/abandon/stargazers) [![Forks](https://img.shields.io/github/forks/hrj/abandon?style=flat-square&color=blue)](https://github.com/hrj/abandon/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hrj/abandon?style=flat-square&color=yellow)](https://github.com/hrj/abandon/stargazers) [![Forks](https://img.shields.io/github/forks/hrj/abandon?style=flat-square&color=blue)](https://github.com/hrj/abandon/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > :relieved: Simple and Robust Accounting
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 186 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

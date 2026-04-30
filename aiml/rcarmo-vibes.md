@@ -1,6 +1,6 @@
 # rcarmo/vibes
 
-[![Stars](https://img.shields.io/github/stars/rcarmo/vibes?style=flat-square&color=yellow)](https://github.com/rcarmo/vibes/stargazers) [![Forks](https://img.shields.io/github/forks/rcarmo/vibes?style=flat-square&color=blue)](https://github.com/rcarmo/vibes/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rcarmo/vibes?style=flat-square&color=yellow)](https://github.com/rcarmo/vibes/stargazers) [![Forks](https://img.shields.io/github/forks/rcarmo/vibes?style=flat-square&color=blue)](https://github.com/rcarmo/vibes/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A simple mobile-focused chat app to talk to an agent via the ACP protocol
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | 4 |
-| 💻 **Language** | JavaScript |
+| 💻 **Language** | Go |
 | 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

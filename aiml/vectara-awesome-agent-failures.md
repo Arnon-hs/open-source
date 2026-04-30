@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Awesome Agent Failures project is a community-driven, open-source collection of AI agent failure modes and proven solutions. It serves as a valuable resource for developers and researchers to learn from and mitigate common pitfalls in AI system design. By sharing battle-tested solutions, the project aims to accelerate the development of robust and reliable AI systems.
+The Awesome Agent Failures project is a collaborative, open-source repository that catalogues and shares common failure modes encountered in AI and machine learning (ML) agents. This collection provides a valuable resource for developers to learn from and mitigate these failures, ultimately enhancing the reliability and robustness of their AI systems. By sharing battle-tested solutions, the project aims to accelerate the development of more resilient and effective AI agents.
 
 ---
 

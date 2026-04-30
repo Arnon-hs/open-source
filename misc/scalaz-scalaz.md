@@ -1,6 +1,6 @@
 # scalaz/scalaz
 
-[![Stars](https://img.shields.io/github/stars/scalaz/scalaz?style=flat-square&color=yellow)](https://github.com/scalaz/scalaz/stargazers) [![Forks](https://img.shields.io/github/forks/scalaz/scalaz?style=flat-square&color=blue)](https://github.com/scalaz/scalaz/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scalaz/scalaz?style=flat-square&color=yellow)](https://github.com/scalaz/scalaz/stargazers) [![Forks](https://img.shields.io/github/forks/scalaz/scalaz?style=flat-square&color=blue)](https://github.com/scalaz/scalaz/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Principled Functional Programming in Scala
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 698 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

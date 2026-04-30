@@ -25,7 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-The mempalace-rs project is an open-source, Rust-based AI memory system designed for high-performance, local, and offline-first applications. This system enables efficient storage and retrieval of AI-generated data, making it suitable for use cases that require fast access to large datasets without relying on internet connectivity. By leveraging Rust's performance capabilities, mempalace-rs provides a scalable and reliable solution for AI-powered applications.
+Mempalace-RS is an open-source, high-performance AI memory system designed for local, offline-first applications. Built using Rust, this system enables efficient storage and retrieval of AI-related data, making it ideal for applications such as chatbots, language models, and other AI-driven frontend projects. By providing a robust, local AI memory system, Mempalace-RS offers a scalable and reliable solution for AI development.
 
 ---
 

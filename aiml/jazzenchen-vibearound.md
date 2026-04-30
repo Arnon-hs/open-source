@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/jazzenchen/VibeAround?style=flat-square&color=yellow)](https://github.com/jazzenchen/VibeAround/stargazers) [![Forks](https://img.shields.io/github/forks/jazzenchen/VibeAround?style=flat-square&color=blue)](https://github.com/jazzenchen/VibeAround/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> Vibe coding with your local AI agent, from anywhere.
+> Vibe coding companion: work with your local AI agents from anywhere. Chat on your phone or through a browser terminal, with instant previews for your work. Switch profiles freely, run multiple agents in parallel, and third-party APIs are supported.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 

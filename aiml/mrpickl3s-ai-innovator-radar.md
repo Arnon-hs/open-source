@@ -1,6 +1,6 @@
 # MrPickl3s/AI-Innovator-Radar
 
-[![Stars](https://img.shields.io/github/stars/MrPickl3s/AI-Innovator-Radar?style=flat-square&color=yellow)](https://github.com/MrPickl3s/AI-Innovator-Radar/stargazers) [![Forks](https://img.shields.io/github/forks/MrPickl3s/AI-Innovator-Radar?style=flat-square&color=blue)](https://github.com/MrPickl3s/AI-Innovator-Radar/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MrPickl3s/AI-Innovator-Radar?style=flat-square&color=yellow)](https://github.com/MrPickl3s/AI-Innovator-Radar/stargazers) [![Forks](https://img.shields.io/github/forks/MrPickl3s/AI-Innovator-Radar?style=flat-square&color=blue)](https://github.com/MrPickl3s/AI-Innovator-Radar/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A personal AI intelligence system for solo builders. Filter daily AI noise against your active projects using AI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

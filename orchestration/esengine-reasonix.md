@@ -1,6 +1,6 @@
 # esengine/reasonix
 
-[![Stars](https://img.shields.io/github/stars/esengine/reasonix?style=flat-square&color=yellow)](https://github.com/esengine/reasonix/stargazers) [![Forks](https://img.shields.io/github/forks/esengine/reasonix?style=flat-square&color=blue)](https://github.com/esengine/reasonix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/esengine/reasonix?style=flat-square&color=yellow)](https://github.com/esengine/reasonix/stargazers) [![Forks](https://img.shields.io/github/forks/esengine/reasonix?style=flat-square&color=blue)](https://github.com/esengine/reasonix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek-native agent framework: Cache-First Loop, R1 Thought Harvesting, Tool-Call Repair. TypeScript + Ink TUI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 192 |
-| 🍴 **Forks** | 10 |
+| ⭐ **Stars** | 198 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

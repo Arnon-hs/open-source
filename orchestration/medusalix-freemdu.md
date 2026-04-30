@@ -1,6 +1,6 @@
 # medusalix/FreeMDU
 
-[![Stars](https://img.shields.io/github/stars/medusalix/FreeMDU?style=flat-square&color=yellow)](https://github.com/medusalix/FreeMDU/stargazers) [![Forks](https://img.shields.io/github/forks/medusalix/FreeMDU?style=flat-square&color=blue)](https://github.com/medusalix/FreeMDU/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/medusalix/FreeMDU?style=flat-square&color=yellow)](https://github.com/medusalix/FreeMDU/stargazers) [![Forks](https://img.shields.io/github/forks/medusalix/FreeMDU?style=flat-square&color=blue)](https://github.com/medusalix/FreeMDU/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The syke project is an open-source initiative that aims to create a dynamic digital identity extension for interacting with artificial intelligence (AI) systems. It encompasses concepts such as agentic memory, enabling users to establish a personalized and adaptive relationship with various AI applications. This extension is designed to facilitate seamless and intelligent interactions across multiple AI platforms.
+The syke project is an open-source initiative that aims to create a dynamic identity framework, enabling users to interact seamlessly with AI systems through a unified digital extension. This extension, built on the principles of agentic memory, facilitates a more intuitive and personalized experience with AI technology. By integrating syke, users can leverage AI more effectively to enhance their daily lives.
 
 ---
 

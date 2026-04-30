@@ -1,6 +1,6 @@
 # XeldarAlz/helm
 
-[![Stars](https://img.shields.io/github/stars/XeldarAlz/helm?style=flat-square&color=yellow)](https://github.com/XeldarAlz/helm/stargazers) [![Forks](https://img.shields.io/github/forks/XeldarAlz/helm?style=flat-square&color=blue)](https://github.com/XeldarAlz/helm/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XeldarAlz/helm?style=flat-square&color=yellow)](https://github.com/XeldarAlz/helm/stargazers) [![Forks](https://img.shields.io/github/forks/XeldarAlz/helm?style=flat-square&color=blue)](https://github.com/XeldarAlz/helm/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Automated Unity game development pipeline. Describe a game, get a production ready Unity Project. Powered by Claude Code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

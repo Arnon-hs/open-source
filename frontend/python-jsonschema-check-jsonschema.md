@@ -1,6 +1,6 @@
 # python-jsonschema/check-jsonschema
 
-[![Stars](https://img.shields.io/github/stars/python-jsonschema/check-jsonschema?style=flat-square&color=yellow)](https://github.com/python-jsonschema/check-jsonschema/stargazers) [![Forks](https://img.shields.io/github/forks/python-jsonschema/check-jsonschema?style=flat-square&color=blue)](https://github.com/python-jsonschema/check-jsonschema/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/python-jsonschema/check-jsonschema?style=flat-square&color=yellow)](https://github.com/python-jsonschema/check-jsonschema/stargazers) [![Forks](https://img.shields.io/github/forks/python-jsonschema/check-jsonschema?style=flat-square&color=blue)](https://github.com/python-jsonschema/check-jsonschema/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI and set of pre-commit hooks for jsonschema validation with built-in support for GitHub Workflows, Renovate, Azure Pipelines, and more!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

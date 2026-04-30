@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The orch project is an open-source autonomous agents orchestrator experiment focused on artificial intelligence and machine learning. It aims to provide a framework for managing and coordinating the interactions between multiple autonomous agents, enabling more complex and dynamic systems to be developed. By leveraging this platform, researchers and developers can explore innovative applications in AI and ML.
+Orch is an open-source, experimental framework for orchestrating autonomous agents. This project aims to facilitate the development and management of complex systems involving multiple AI-powered entities, enabling researchers and developers to create and test advanced autonomous systems. By providing a flexible platform for agent orchestration, Orch seeks to advance the field of artificial intelligence and machine learning.
 
 ---
 

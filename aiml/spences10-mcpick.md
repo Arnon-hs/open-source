@@ -1,6 +1,6 @@
 # spences10/mcpick
 
-[![Stars](https://img.shields.io/github/stars/spences10/mcpick?style=flat-square&color=yellow)](https://github.com/spences10/mcpick/stargazers) [![Forks](https://img.shields.io/github/forks/spences10/mcpick?style=flat-square&color=blue)](https://github.com/spences10/mcpick/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spences10/mcpick?style=flat-square&color=yellow)](https://github.com/spences10/mcpick/stargazers) [![Forks](https://img.shields.io/github/forks/spences10/mcpick?style=flat-square&color=blue)](https://github.com/spences10/mcpick/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code extension manager — MCP servers, plugins (skills, hooks, agents), and marketplaces
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

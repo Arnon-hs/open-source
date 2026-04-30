@@ -1,6 +1,6 @@
 # zircote/subcog
 
-[![Stars](https://img.shields.io/github/stars/zircote/subcog?style=flat-square&color=yellow)](https://github.com/zircote/subcog/stargazers) [![Forks](https://img.shields.io/github/forks/zircote/subcog?style=flat-square&color=blue)](https://github.com/zircote/subcog/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zircote/subcog?style=flat-square&color=yellow)](https://github.com/zircote/subcog/stargazers) [![Forks](https://img.shields.io/github/forks/zircote/subcog?style=flat-square&color=blue)](https://github.com/zircote/subcog/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory system for AI coding assistants. Captures decisions, learnings, and context from coding sessions. Features hybrid search (semantic + BM25), MCP server integration, SQLite persistence with knowledge graph, and proactive memory surfacing. Written in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

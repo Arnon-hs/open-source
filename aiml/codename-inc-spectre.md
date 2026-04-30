@@ -25,7 +25,7 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-SPECTRE is an open-source, agentic coding workflow that enables high-quality results through a structured product development process. It offers a six-step approach, including scope, plan, execute, clean, test, and evaluate, to guide AI coding agents and facilitate efficient development. This workflow aims to streamline AI-powered coding by providing a clear framework for managing the development process from start to finish.
+SPECTRE is an open-source, agentic coding workflow that guides users through a structured product development process to achieve high-quality results with AI coding agents. This workflow is divided into six stages: /Scope, /Plan, /Execute, /Clean, /Test, and /Evaluate, each designed to ensure seamless collaboration with AI coding agents. By using SPECTRE, developers can efficiently generate reliable and effective AI-driven solutions.
 
 ---
 

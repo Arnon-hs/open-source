@@ -1,6 +1,6 @@
 # shinpr/claude-code-workflows
 
-[![Stars](https://img.shields.io/github/stars/shinpr/claude-code-workflows?style=flat-square&color=yellow)](https://github.com/shinpr/claude-code-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/shinpr/claude-code-workflows?style=flat-square&color=blue)](https://github.com/shinpr/claude-code-workflows/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shinpr/claude-code-workflows?style=flat-square&color=yellow)](https://github.com/shinpr/claude-code-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/shinpr/claude-code-workflows?style=flat-square&color=blue)](https://github.com/shinpr/claude-code-workflows/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready development workflows for Claude Code, powered by specialized AI agents.
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 324 |
+| ⭐ **Stars** | 325 |
 | 🍴 **Forks** | 62 |
-| 💻 **Language** | Unknown |
+| 💻 **Language** | JavaScript |
 | 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

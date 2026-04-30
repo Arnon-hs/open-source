@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **12901** |
+| 🗂️ **Total projects** | **12946** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4922 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2527 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1250 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 992 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 780 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 4934 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2541 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1256 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 993 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 783 | [Browse →](./backend/) |
 | 🔧 **DevTools** | 765 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 467 | [Browse →](./crypto/) |
-| 📊 **Data** | 290 | [Browse →](./data/) |
+| ⛓️ **Crypto** | 469 | [Browse →](./crypto/) |
+| 📊 **Data** | 292 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 281 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 160 | [Browse →](./mobile/) |
-| 💳 **Payments** | 135 | [Browse →](./payments/) |
-| 📈 **Trading** | 133 | [Browse →](./trading/) |
-| 🔐 **Security** | 110 | [Browse →](./security/) |
-| ✨ **Design** | 38 | [Browse →](./design/) |
+| 💳 **Payments** | 136 | [Browse →](./payments/) |
+| 📈 **Trading** | 134 | [Browse →](./trading/) |
+| 🔐 **Security** | 111 | [Browse →](./security/) |
+| ✨ **Design** | 40 | [Browse →](./design/) |
 | 🎯 **Product** | 27 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 24 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [hasura/graphql-engine](./aiml/hasura-graphql-engine.md) | ⭐ 32k | AI/ML |
-| 2 | [appium/appium](./frontend/appium-appium.md) | ⭐ 21.5k | Frontend |
-| 3 | [nats-io/nats-server](./aiml/nats-io-nats-server.md) | ⭐ 19.7k | AI/ML |
-| 4 | [MarlinFirmware/Marlin](./frontend/marlinfirmware-marlin.md) | ⭐ 17.4k | Frontend |
-| 5 | [triggerdotdev/trigger.dev](./orchestration/triggerdotdev-trigger.dev.md) | ⭐ 14.7k | Orchestration |
-| 6 | [apache/superset](./frontend/apache-superset.md) | ⭐ 72.7k | Frontend |
-| 7 | [kata-containers/kata-containers](./aiml/kata-containers-kata-containers.md) | ⭐ 7.8k | AI/ML |
-| 8 | [webstudio-is/webstudio](./frontend/webstudio-is-webstudio.md) | ⭐ 8.5k | Frontend |
-| 9 | [toeverything/AFFiNE](./aiml/toeverything-affine.md) | ⭐ 67.9k | AI/ML |
-| 10 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
+| 1 | [apache/ignite](./backend/apache-ignite.md) | ⭐ 5.1k | Backend |
+| 2 | [nats-io/nats-server](./aiml/nats-io-nats-server.md) | ⭐ 19.7k | AI/ML |
+| 3 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
+| 4 | [ceph/ceph](./crypto/ceph-ceph.md) | ⭐ 16.5k | Crypto |
+| 5 | [zitadel/zitadel](./aiml/zitadel-zitadel.md) | ⭐ 13.7k | AI/ML |
+| 6 | [jackocnr/intl-tel-input](./aiml/jackocnr-intl-tel-input.md) | ⭐ 8.2k | AI/ML |
+| 7 | [Snailclimb/JavaGuide](./aiml/snailclimb-javaguide.md) | ⭐ 155.4k | AI/ML |
+| 8 | [activepieces/activepieces](./aiml/activepieces-activepieces.md) | ⭐ 22k | AI/ML |
+| 9 | [volcengine/OpenViking](./aiml/volcengine-openviking.md) | ⭐ 23.3k | AI/ML |
+| 10 | [novuhq/novu](./aiml/novuhq-novu.md) | ⭐ 38.9k | AI/ML |
 
 ## 🚀 How it works
 

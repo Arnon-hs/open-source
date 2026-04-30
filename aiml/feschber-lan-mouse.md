@@ -1,6 +1,6 @@
 # feschber/lan-mouse
 
-[![Stars](https://img.shields.io/github/stars/feschber/lan-mouse?style=flat-square&color=yellow)](https://github.com/feschber/lan-mouse/stargazers) [![Forks](https://img.shields.io/github/forks/feschber/lan-mouse?style=flat-square&color=blue)](https://github.com/feschber/lan-mouse/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/feschber/lan-mouse?style=flat-square&color=yellow)](https://github.com/feschber/lan-mouse/stargazers) [![Forks](https://img.shields.io/github/forks/feschber/lan-mouse?style=flat-square&color=blue)](https://github.com/feschber/lan-mouse/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > mouse & keyboard sharing via LAN
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
