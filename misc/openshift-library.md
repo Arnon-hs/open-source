@@ -1,6 +1,6 @@
 # openshift/library
 
-[![Stars](https://img.shields.io/github/stars/openshift/library?style=flat-square&color=yellow)](https://github.com/openshift/library/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/library?style=flat-square&color=blue)](https://github.com/openshift/library/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openshift/library?style=flat-square&color=yellow)](https://github.com/openshift/library/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/library?style=flat-square&color=blue)](https://github.com/openshift/library/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Examples and Components for deploying into OpenShift
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

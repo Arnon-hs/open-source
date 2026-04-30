@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **12402** |
+| 🗂️ **Total projects** | **12462** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4735 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2410 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1212 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 963 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 752 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 738 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 441 | [Browse →](./crypto/) |
-| 📊 **Data** | 278 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 270 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 4756 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2425 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1214 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 966 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 758 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 741 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 446 | [Browse →](./crypto/) |
+| 📊 **Data** | 280 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 272 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 151 | [Browse →](./mobile/) |
-| 💳 **Payments** | 130 | [Browse →](./payments/) |
+| 💳 **Payments** | 131 | [Browse →](./payments/) |
 | 📈 **Trading** | 129 | [Browse →](./trading/) |
 | 🔐 **Security** | 109 | [Browse →](./security/) |
 | ✨ **Design** | 37 | [Browse →](./design/) |
@@ -41,14 +41,14 @@
 |---|---|---|---|
 | 1 | [bpftrace/bpftrace](./misc/bpftrace-bpftrace.md) | ⭐ 10.1k | Misc |
 | 2 | [dragonflydb/dragonfly](./aiml/dragonflydb-dragonfly.md) | ⭐ 30.4k | AI/ML |
-| 3 | [nocodb/nocodb](./aiml/nocodb-nocodb.md) | ⭐ 62.9k | AI/ML |
-| 4 | [mastodon/mastodon](./devopsinfra/mastodon-mastodon.md) | ⭐ 49.9k | DevOps & Infra |
-| 5 | [arc53/DocsGPT](./aiml/arc53-docsgpt.md) | ⭐ 17.9k | AI/ML |
-| 6 | [Wei-Shaw/sub2api](./aiml/wei-shaw-sub2api.md) | ⭐ 16.9k | AI/ML |
-| 7 | [lichess-org/lila](./backend/lichess-org-lila.md) | ⭐ 18.1k | Backend |
-| 8 | [XIU2/TrackersListCollection](./aiml/xiu2-trackerslistcollection.md) | ⭐ 31.2k | AI/ML |
-| 9 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
-| 10 | [hiyouga/LlamaFactory](./trading/hiyouga-llamafactory.md) | ⭐ 70.8k | Trading |
+| 3 | [mastodon/mastodon](./devopsinfra/mastodon-mastodon.md) | ⭐ 49.9k | DevOps & Infra |
+| 4 | [arc53/DocsGPT](./aiml/arc53-docsgpt.md) | ⭐ 17.9k | AI/ML |
+| 5 | [Wei-Shaw/sub2api](./aiml/wei-shaw-sub2api.md) | ⭐ 16.9k | AI/ML |
+| 6 | [lichess-org/lila](./backend/lichess-org-lila.md) | ⭐ 18.1k | Backend |
+| 7 | [XIU2/TrackersListCollection](./aiml/xiu2-trackerslistcollection.md) | ⭐ 31.2k | AI/ML |
+| 8 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
+| 9 | [hiyouga/LlamaFactory](./trading/hiyouga-llamafactory.md) | ⭐ 70.8k | Trading |
+| 10 | [aio-libs/aiohttp](./aiml/aio-libs-aiohttp.md) | ⭐ 16.4k | AI/ML |
 
 ## 🚀 How it works
 

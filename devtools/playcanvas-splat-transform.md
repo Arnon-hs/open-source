@@ -1,6 +1,6 @@
 # playcanvas/splat-transform
 
-[![Stars](https://img.shields.io/github/stars/playcanvas/splat-transform?style=flat-square&color=yellow)](https://github.com/playcanvas/splat-transform/stargazers) [![Forks](https://img.shields.io/github/forks/playcanvas/splat-transform?style=flat-square&color=blue)](https://github.com/playcanvas/splat-transform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/playcanvas/splat-transform?style=flat-square&color=yellow)](https://github.com/playcanvas/splat-transform/stargazers) [![Forks](https://img.shields.io/github/forks/playcanvas/splat-transform?style=flat-square&color=blue)](https://github.com/playcanvas/splat-transform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool for 3D Gaussian splat format conversion and transformation
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 681 |
+| ⭐ **Stars** | 683 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

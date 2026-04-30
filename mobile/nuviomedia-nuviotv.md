@@ -1,6 +1,6 @@
 # NuvioMedia/NuvioTV
 
-[![Stars](https://img.shields.io/github/stars/NuvioMedia/NuvioTV?style=flat-square&color=yellow)](https://github.com/NuvioMedia/NuvioTV/stargazers) [![Forks](https://img.shields.io/github/forks/NuvioMedia/NuvioTV?style=flat-square&color=blue)](https://github.com/NuvioMedia/NuvioTV/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NuvioMedia/NuvioTV?style=flat-square&color=yellow)](https://github.com/NuvioMedia/NuvioTV/stargazers) [![Forks](https://img.shields.io/github/forks/NuvioMedia/NuvioTV?style=flat-square&color=blue)](https://github.com/NuvioMedia/NuvioTV/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Official Nuvio Android TV Repository
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

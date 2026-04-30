@@ -1,6 +1,6 @@
 # galacticcouncil/hydration-node
 
-[![Stars](https://img.shields.io/github/stars/galacticcouncil/hydration-node?style=flat-square&color=yellow)](https://github.com/galacticcouncil/hydration-node/stargazers) [![Forks](https://img.shields.io/github/forks/galacticcouncil/hydration-node?style=flat-square&color=blue)](https://github.com/galacticcouncil/hydration-node/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/galacticcouncil/hydration-node?style=flat-square&color=yellow)](https://github.com/galacticcouncil/hydration-node/stargazers) [![Forks](https://img.shields.io/github/forks/galacticcouncil/hydration-node?style=flat-square&color=blue)](https://github.com/galacticcouncil/hydration-node/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Hydration node - Cross-chain liquidity protocol built with Polkadot-SDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # superlinked/VectorHub
 
-[![Stars](https://img.shields.io/github/stars/superlinked/VectorHub?style=flat-square&color=yellow)](https://github.com/superlinked/VectorHub/stargazers) [![Forks](https://img.shields.io/github/forks/superlinked/VectorHub?style=flat-square&color=blue)](https://github.com/superlinked/VectorHub/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superlinked/VectorHub?style=flat-square&color=yellow)](https://github.com/superlinked/VectorHub/stargazers) [![Forks](https://img.shields.io/github/forks/superlinked/VectorHub?style=flat-square&color=blue)](https://github.com/superlinked/VectorHub/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > VectorHub is a free, open-source learning website for people (software developers to senior ML architects) interested in adding vector retrieval to their ML stack.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 516 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

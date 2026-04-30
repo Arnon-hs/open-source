@@ -1,6 +1,6 @@
 # mocaccinoOS/mocaccino
 
-[![Stars](https://img.shields.io/github/stars/mocaccinoOS/mocaccino?style=flat-square&color=yellow)](https://github.com/mocaccinoOS/mocaccino/stargazers) [![Forks](https://img.shields.io/github/forks/mocaccinoOS/mocaccino?style=flat-square&color=blue)](https://github.com/mocaccinoOS/mocaccino/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mocaccinoOS/mocaccino?style=flat-square&color=yellow)](https://github.com/mocaccinoOS/mocaccino/stargazers) [![Forks](https://img.shields.io/github/forks/mocaccinoOS/mocaccino?style=flat-square&color=blue)](https://github.com/mocaccinoOS/mocaccino/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > :musical_score: where magic happens
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

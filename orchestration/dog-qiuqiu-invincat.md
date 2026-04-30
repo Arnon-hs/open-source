@@ -1,6 +1,6 @@
 # dog-qiuqiu/invincat
 
-[![Stars](https://img.shields.io/github/stars/dog-qiuqiu/invincat?style=flat-square&color=yellow)](https://github.com/dog-qiuqiu/invincat/stargazers) [![Forks](https://img.shields.io/github/forks/dog-qiuqiu/invincat?style=flat-square&color=blue)](https://github.com/dog-qiuqiu/invincat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dog-qiuqiu/invincat?style=flat-square&color=yellow)](https://github.com/dog-qiuqiu/invincat/stargazers) [![Forks](https://img.shields.io/github/forks/dog-qiuqiu/invincat?style=flat-square&color=blue)](https://github.com/dog-qiuqiu/invincat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A native Python agent CLI built on DeepAgents CLI, featuring an independent memory Agent that captures learnings after each task and delivers efficient AI coding assistance through hierarchical memory management.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 135 |
-| 🍴 **Forks** | 12 |
+| ⭐ **Stars** | 210 |
+| 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

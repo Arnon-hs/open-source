@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Yanyutin753/LambChat?style=flat-square&color=yellow)](https://github.com/Yanyutin753/LambChat/stargazers) [![Forks](https://img.shields.io/github/forks/Yanyutin753/LambChat?style=flat-square&color=blue)](https://github.com/Yanyutin753/LambChat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> LambChat — A pluggable, multi-tenant AI conversation system. Skills + MCP dual-engine driven, modular by design. SSE streaming, multi-modal document processing, JWT/RBAC auth, and GitHub-synced Skills.
+> LambChat — A multi-tenant AI Agent Harness Platform. Skills + MCP dual-engine powered, built for scale and isolation. SSE real-time streaming, multi-modal document intelligence, JWT/RBAC enterprise security, and GitHub-connected Skill marketplace.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Security · Design
+AI/ML · Frontend · Security
 
 ## 📝 Summary
 

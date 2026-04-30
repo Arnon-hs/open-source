@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/onyks-os/TransparentTorProxy?style=flat-square&color=yellow)](https://github.com/onyks-os/TransparentTorProxy/stargazers) [![Forks](https://img.shields.io/github/forks/onyks-os/TransparentTorProxy?style=flat-square&color=blue)](https://github.com/onyks-os/TransparentTorProxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> A Linux CLI utility that transparently routes all system traffic through the Tor network using nftables. It enables rapid IP rotation and easy toggling of global proxy settings for anticensura and privacy tasks.
+> A Linux CLI utility that transparently routes all system traffic through the Tor network using nftables. It enables rapid IP rotation and easy toggling of global proxy settings for privacy tasks.
 
 ## 📊 Stats
 

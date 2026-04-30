@@ -1,6 +1,6 @@
 # devld/go-drive
 
-[![Stars](https://img.shields.io/github/stars/devld/go-drive?style=flat-square&color=yellow)](https://github.com/devld/go-drive/stargazers) [![Forks](https://img.shields.io/github/forks/devld/go-drive?style=flat-square&color=blue)](https://github.com/devld/go-drive/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/devld/go-drive?style=flat-square&color=yellow)](https://github.com/devld/go-drive/stargazers) [![Forks](https://img.shields.io/github/forks/devld/go-drive?style=flat-square&color=blue)](https://github.com/devld/go-drive/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A simple cloud drive mapping web app supports local, FTP/SFTP, S3, OneDrive, WebDAV, Google Drive.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 788 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

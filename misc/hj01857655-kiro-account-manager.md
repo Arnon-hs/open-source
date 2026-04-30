@@ -1,6 +1,6 @@
 # hj01857655/kiro-account-manager
 
-[![Stars](https://img.shields.io/github/stars/hj01857655/kiro-account-manager?style=flat-square&color=yellow)](https://github.com/hj01857655/kiro-account-manager/stargazers) [![Forks](https://img.shields.io/github/forks/hj01857655/kiro-account-manager?style=flat-square&color=blue)](https://github.com/hj01857655/kiro-account-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hj01857655/kiro-account-manager?style=flat-square&color=yellow)](https://github.com/hj01857655/kiro-account-manager/stargazers) [![Forks](https://img.shields.io/github/forks/hj01857655/kiro-account-manager?style=flat-square&color=blue)](https://github.com/hj01857655/kiro-account-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 智能管理 Kiro IDE 账号，一键切换，配额监控 | 官网：https://kiro-website-six.vercel.app
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 241 |
+| 🍴 **Forks** | 242 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

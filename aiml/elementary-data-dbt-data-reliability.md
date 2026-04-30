@@ -1,6 +1,6 @@
 # elementary-data/dbt-data-reliability
 
-[![Stars](https://img.shields.io/github/stars/elementary-data/dbt-data-reliability?style=flat-square&color=yellow)](https://github.com/elementary-data/dbt-data-reliability/stargazers) [![Forks](https://img.shields.io/github/forks/elementary-data/dbt-data-reliability?style=flat-square&color=blue)](https://github.com/elementary-data/dbt-data-reliability/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elementary-data/dbt-data-reliability?style=flat-square&color=yellow)](https://github.com/elementary-data/dbt-data-reliability/stargazers) [![Forks](https://img.shields.io/github/forks/elementary-data/dbt-data-reliability?style=flat-square&color=blue)](https://github.com/elementary-data/dbt-data-reliability/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > This dbt package captures metadata, artifacts, and test results so you can detect anomalies, monitor data quality, and build metadata tables. It powers Elementary OSS and feeds the wider context layer used by Elementary Cloud’s full Data & AI Control Plane.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 505 |
-| 🍴 **Forks** | 132 |
+| 🍴 **Forks** | 131 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # hoowhoami/EchoMusic
 
-[![Stars](https://img.shields.io/github/stars/hoowhoami/EchoMusic?style=flat-square&color=yellow)](https://github.com/hoowhoami/EchoMusic/stargazers) [![Forks](https://img.shields.io/github/forks/hoowhoami/EchoMusic?style=flat-square&color=blue)](https://github.com/hoowhoami/EchoMusic/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoowhoami/EchoMusic?style=flat-square&color=yellow)](https://github.com/hoowhoami/EchoMusic/stargazers) [![Forks](https://img.shields.io/github/forks/hoowhoami/EchoMusic?style=flat-square&color=blue)](https://github.com/hoowhoami/EchoMusic/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🎉 一个简约的第三方酷狗概念版音乐播放器
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.4k |
+| ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

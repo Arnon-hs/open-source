@@ -1,6 +1,6 @@
 # minghinmatthewlam/pi-gui
 
-[![Stars](https://img.shields.io/github/stars/minghinmatthewlam/pi-gui?style=flat-square&color=yellow)](https://github.com/minghinmatthewlam/pi-gui/stargazers) [![Forks](https://img.shields.io/github/forks/minghinmatthewlam/pi-gui?style=flat-square&color=blue)](https://github.com/minghinmatthewlam/pi-gui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minghinmatthewlam/pi-gui?style=flat-square&color=yellow)](https://github.com/minghinmatthewlam/pi-gui/stargazers) [![Forks](https://img.shields.io/github/forks/minghinmatthewlam/pi-gui?style=flat-square&color=blue)](https://github.com/minghinmatthewlam/pi-gui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Electron GUI app for the pi coding agent runtime
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 301 |
+| ⭐ **Stars** | 303 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # pjt222/agent-almanac
 
-[![Stars](https://img.shields.io/github/stars/pjt222/agent-almanac?style=flat-square&color=yellow)](https://github.com/pjt222/agent-almanac/stargazers) [![Forks](https://img.shields.io/github/forks/pjt222/agent-almanac?style=flat-square&color=blue)](https://github.com/pjt222/agent-almanac/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pjt222/agent-almanac?style=flat-square&color=yellow)](https://github.com/pjt222/agent-almanac/stargazers) [![Forks](https://img.shields.io/github/forks/pjt222/agent-almanac?style=flat-square&color=blue)](https://github.com/pjt222/agent-almanac/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Almanac — a curated reference of executable skills, specialist agents, and teams for AI-assisted development, with interactive visualization
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | R |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

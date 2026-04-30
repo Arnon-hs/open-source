@@ -1,6 +1,6 @@
 # caffeinelabs/vessel
 
-[![Stars](https://img.shields.io/github/stars/caffeinelabs/vessel?style=flat-square&color=yellow)](https://github.com/caffeinelabs/vessel/stargazers) [![Forks](https://img.shields.io/github/forks/caffeinelabs/vessel?style=flat-square&color=blue)](https://github.com/caffeinelabs/vessel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caffeinelabs/vessel?style=flat-square&color=yellow)](https://github.com/caffeinelabs/vessel/stargazers) [![Forks](https://img.shields.io/github/forks/caffeinelabs/vessel?style=flat-square&color=blue)](https://github.com/caffeinelabs/vessel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > The original package manager for Motoko
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

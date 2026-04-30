@@ -1,6 +1,6 @@
 # grafana/grafana-plugin-sdk-go
 
-[![Stars](https://img.shields.io/github/stars/grafana/grafana-plugin-sdk-go?style=flat-square&color=yellow)](https://github.com/grafana/grafana-plugin-sdk-go/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/grafana-plugin-sdk-go?style=flat-square&color=blue)](https://github.com/grafana/grafana-plugin-sdk-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/grafana-plugin-sdk-go?style=flat-square&color=yellow)](https://github.com/grafana/grafana-plugin-sdk-go/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/grafana-plugin-sdk-go?style=flat-square&color=blue)](https://github.com/grafana/grafana-plugin-sdk-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A Go SDK for building backend plugins for Grafana
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 248 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

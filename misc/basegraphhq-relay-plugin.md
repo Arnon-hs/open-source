@@ -1,6 +1,6 @@
 # basegraphhq/relay-plugin
 
-[![Stars](https://img.shields.io/github/stars/basegraphhq/relay-plugin?style=flat-square&color=yellow)](https://github.com/basegraphhq/relay-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/basegraphhq/relay-plugin?style=flat-square&color=blue)](https://github.com/basegraphhq/relay-plugin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/basegraphhq/relay-plugin?style=flat-square&color=yellow)](https://github.com/basegraphhq/relay-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/basegraphhq/relay-plugin?style=flat-square&color=blue)](https://github.com/basegraphhq/relay-plugin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Your Claude Code becomes Relay — a staff engineer thinking partner that listens before proposing and captures decisions in your repo.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -1,6 +1,6 @@
 # cap-js/mcp-server
 
-[![Stars](https://img.shields.io/github/stars/cap-js/mcp-server?style=flat-square&color=yellow)](https://github.com/cap-js/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cap-js/mcp-server?style=flat-square&color=blue)](https://github.com/cap-js/mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cap-js/mcp-server?style=flat-square&color=yellow)](https://github.com/cap-js/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cap-js/mcp-server?style=flat-square&color=blue)](https://github.com/cap-js/mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for AI-assisted development of CAP applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 94 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

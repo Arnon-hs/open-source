@@ -1,6 +1,6 @@
 # chaunsin/netease-cloud-music
 
-[![Stars](https://img.shields.io/github/stars/chaunsin/netease-cloud-music?style=flat-square&color=yellow)](https://github.com/chaunsin/netease-cloud-music/stargazers) [![Forks](https://img.shields.io/github/forks/chaunsin/netease-cloud-music?style=flat-square&color=blue)](https://github.com/chaunsin/netease-cloud-music/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chaunsin/netease-cloud-music?style=flat-square&color=yellow)](https://github.com/chaunsin/netease-cloud-music/stargazers) [![Forks](https://img.shields.io/github/forks/chaunsin/netease-cloud-music?style=flat-square&color=blue)](https://github.com/chaunsin/netease-cloud-music/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ 网易云音乐 Golang 🎵
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 360 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

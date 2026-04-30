@@ -1,6 +1,6 @@
 # fsnotify/fsnotify
 
-[![Stars](https://img.shields.io/github/stars/fsnotify/fsnotify?style=flat-square&color=yellow)](https://github.com/fsnotify/fsnotify/stargazers) [![Forks](https://img.shields.io/github/forks/fsnotify/fsnotify?style=flat-square&color=blue)](https://github.com/fsnotify/fsnotify/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fsnotify/fsnotify?style=flat-square&color=yellow)](https://github.com/fsnotify/fsnotify/stargazers) [![Forks](https://img.shields.io/github/forks/fsnotify/fsnotify?style=flat-square&color=blue)](https://github.com/fsnotify/fsnotify/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform filesystem notifications for Go.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.6k |
-| 🍴 **Forks** | 967 |
+| 🍴 **Forks** | 966 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

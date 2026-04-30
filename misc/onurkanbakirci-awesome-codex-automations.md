@@ -1,6 +1,6 @@
 # onurkanbakirci/awesome-codex-automations
 
-[![Stars](https://img.shields.io/github/stars/onurkanbakirci/awesome-codex-automations?style=flat-square&color=yellow)](https://github.com/onurkanbakirci/awesome-codex-automations/stargazers) [![Forks](https://img.shields.io/github/forks/onurkanbakirci/awesome-codex-automations?style=flat-square&color=blue)](https://github.com/onurkanbakirci/awesome-codex-automations/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onurkanbakirci/awesome-codex-automations?style=flat-square&color=yellow)](https://github.com/onurkanbakirci/awesome-codex-automations/stargazers) [![Forks](https://img.shields.io/github/forks/onurkanbakirci/awesome-codex-automations?style=flat-square&color=blue)](https://github.com/onurkanbakirci/awesome-codex-automations/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of automations for codex
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

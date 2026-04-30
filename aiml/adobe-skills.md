@@ -1,6 +1,6 @@
 # adobe/skills
 
-[![Stars](https://img.shields.io/github/stars/adobe/skills?style=flat-square&color=yellow)](https://github.com/adobe/skills/stargazers) [![Forks](https://img.shields.io/github/forks/adobe/skills?style=flat-square&color=blue)](https://github.com/adobe/skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adobe/skills?style=flat-square&color=yellow)](https://github.com/adobe/skills/stargazers) [![Forks](https://img.shields.io/github/forks/adobe/skills?style=flat-square&color=blue)](https://github.com/adobe/skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Adobe Skills for Agents
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 52 |
-| 🍴 **Forks** | 24 |
+| ⭐ **Stars** | 59 |
+| 🍴 **Forks** | 25 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

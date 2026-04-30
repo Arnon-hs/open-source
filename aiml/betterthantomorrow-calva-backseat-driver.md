@@ -1,6 +1,6 @@
 # BetterThanTomorrow/calva-backseat-driver
 
-[![Stars](https://img.shields.io/github/stars/BetterThanTomorrow/calva-backseat-driver?style=flat-square&color=yellow)](https://github.com/BetterThanTomorrow/calva-backseat-driver/stargazers) [![Forks](https://img.shields.io/github/forks/BetterThanTomorrow/calva-backseat-driver?style=flat-square&color=blue)](https://github.com/BetterThanTomorrow/calva-backseat-driver/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BetterThanTomorrow/calva-backseat-driver?style=flat-square&color=yellow)](https://github.com/BetterThanTomorrow/calva-backseat-driver/stargazers) [![Forks](https://img.shields.io/github/forks/BetterThanTomorrow/calva-backseat-driver?style=flat-square&color=blue)](https://github.com/BetterThanTomorrow/calva-backseat-driver/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > VS Code AI Agent Interactive Programming. Tools for CoPIlot and other assistants. Can also be used as an MCP server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/nodeDB-Lab/nodedb?style=flat-square&color=yellow)](https://github.com/nodeDB-Lab/nodedb/stargazers) [![Forks](https://img.shields.io/github/forks/nodeDB-Lab/nodedb?style=flat-square&color=blue)](https://github.com/nodeDB-Lab/nodedb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
-> A local-first, real-time, edge-to-cloud hybrid database for multi-modal workloads
+> Document, columnar, KV, Graph, Vector, Array - The only all-in-one database that you need.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 75 |
+| ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Data · Marketing
+AI/ML · Data
 
 ## 📝 Summary
 

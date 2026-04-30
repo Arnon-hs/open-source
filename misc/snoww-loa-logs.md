@@ -1,6 +1,6 @@
 # snoww/loa-logs
 
-[![Stars](https://img.shields.io/github/stars/snoww/loa-logs?style=flat-square&color=yellow)](https://github.com/snoww/loa-logs/stargazers) [![Forks](https://img.shields.io/github/forks/snoww/loa-logs?style=flat-square&color=blue)](https://github.com/snoww/loa-logs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/snoww/loa-logs?style=flat-square&color=yellow)](https://github.com/snoww/loa-logs/stargazers) [![Forks](https://img.shields.io/github/forks/snoww/loa-logs?style=flat-square&color=blue)](https://github.com/snoww/loa-logs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > LOA Logs - Modern DPS Meter for Lost Ark
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 200 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

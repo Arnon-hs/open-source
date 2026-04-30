@@ -1,6 +1,6 @@
 # jhspetersson/fselect
 
-[![Stars](https://img.shields.io/github/stars/jhspetersson/fselect?style=flat-square&color=yellow)](https://github.com/jhspetersson/fselect/stargazers) [![Forks](https://img.shields.io/github/forks/jhspetersson/fselect?style=flat-square&color=blue)](https://github.com/jhspetersson/fselect/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jhspetersson/fselect?style=flat-square&color=yellow)](https://github.com/jhspetersson/fselect/stargazers) [![Forks](https://img.shields.io/github/forks/jhspetersson/fselect?style=flat-square&color=blue)](https://github.com/jhspetersson/fselect/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Find files with SQL-like queries
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

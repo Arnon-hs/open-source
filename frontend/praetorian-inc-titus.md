@@ -1,6 +1,6 @@
 # praetorian-inc/titus
 
-[![Stars](https://img.shields.io/github/stars/praetorian-inc/titus?style=flat-square&color=yellow)](https://github.com/praetorian-inc/titus/stargazers) [![Forks](https://img.shields.io/github/forks/praetorian-inc/titus?style=flat-square&color=blue)](https://github.com/praetorian-inc/titus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/praetorian-inc/titus?style=flat-square&color=yellow)](https://github.com/praetorian-inc/titus/stargazers) [![Forks](https://img.shields.io/github/forks/praetorian-inc/titus?style=flat-square&color=blue)](https://github.com/praetorian-inc/titus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance secrets scanner. CLI, Go library, Burp Suite extension, and Chrome extension. 487 detection rules with live credential validation.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 529 |
+| ⭐ **Stars** | 530 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

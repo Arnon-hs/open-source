@@ -1,6 +1,6 @@
 # gogpu/ui
 
-[![Stars](https://img.shields.io/github/stars/gogpu/ui?style=flat-square&color=yellow)](https://github.com/gogpu/ui/stargazers) [![Forks](https://img.shields.io/github/forks/gogpu/ui?style=flat-square&color=blue)](https://github.com/gogpu/ui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gogpu/ui?style=flat-square&color=yellow)](https://github.com/gogpu/ui/stargazers) [![Forks](https://img.shields.io/github/forks/gogpu/ui?style=flat-square&color=blue)](https://github.com/gogpu/ui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Pure Go GUI toolkit built on GoGPU — widgets, layouts, styling
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 230 |
+| ⭐ **Stars** | 234 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

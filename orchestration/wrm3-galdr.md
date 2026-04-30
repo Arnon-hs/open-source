@@ -1,6 +1,6 @@
 # wrm3/galdr
 
-[![Stars](https://img.shields.io/github/stars/wrm3/galdr?style=flat-square&color=yellow)](https://github.com/wrm3/galdr/stargazers) [![Forks](https://img.shields.io/github/forks/wrm3/galdr?style=flat-square&color=blue)](https://github.com/wrm3/galdr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wrm3/galdr?style=flat-square&color=yellow)](https://github.com/wrm3/galdr/stargazers) [![Forks](https://img.shields.io/github/forks/wrm3/galdr?style=flat-square&color=blue)](https://github.com/wrm3/galdr/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered development framework with task management, 41 agents, 83 skills, and MCP tools for Cursor, Claude Code, Gemini, Codex & OpenCode. File-based memory that survives across sessions.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | 3 |
-| 💻 **Language** | Python |
+| 💻 **Language** | PowerShell |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

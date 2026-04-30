@@ -1,6 +1,6 @@
 # syedinsaf/otaripper
 
-[![Stars](https://img.shields.io/github/stars/syedinsaf/otaripper?style=flat-square&color=yellow)](https://github.com/syedinsaf/otaripper/stargazers) [![Forks](https://img.shields.io/github/forks/syedinsaf/otaripper?style=flat-square&color=blue)](https://github.com/syedinsaf/otaripper/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/syedinsaf/otaripper?style=flat-square&color=yellow)](https://github.com/syedinsaf/otaripper/stargazers) [![Forks](https://img.shields.io/github/forks/syedinsaf/otaripper?style=flat-square&color=blue)](https://github.com/syedinsaf/otaripper/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, safe, and reliable Android OTA partition extractor
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51 |
-| 🍴 **Forks** | 4 |
+| ⭐ **Stars** | 52 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

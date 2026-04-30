@@ -1,6 +1,6 @@
 # ReactiveBayes/RxInfer.jl
 
-[![Stars](https://img.shields.io/github/stars/ReactiveBayes/RxInfer.jl?style=flat-square&color=yellow)](https://github.com/ReactiveBayes/RxInfer.jl/stargazers) [![Forks](https://img.shields.io/github/forks/ReactiveBayes/RxInfer.jl?style=flat-square&color=blue)](https://github.com/ReactiveBayes/RxInfer.jl/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ReactiveBayes/RxInfer.jl?style=flat-square&color=yellow)](https://github.com/ReactiveBayes/RxInfer.jl/stargazers) [![Forks](https://img.shields.io/github/forks/ReactiveBayes/RxInfer.jl?style=flat-square&color=blue)](https://github.com/ReactiveBayes/RxInfer.jl/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Julia package for automated Bayesian inference on a factor graph with reactive message passing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 398 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

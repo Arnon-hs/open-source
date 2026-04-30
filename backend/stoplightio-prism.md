@@ -1,6 +1,6 @@
 # stoplightio/prism
 
-[![Stars](https://img.shields.io/github/stars/stoplightio/prism?style=flat-square&color=yellow)](https://github.com/stoplightio/prism/stargazers) [![Forks](https://img.shields.io/github/forks/stoplightio/prism?style=flat-square&color=blue)](https://github.com/stoplightio/prism/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stoplightio/prism?style=flat-square&color=yellow)](https://github.com/stoplightio/prism/stargazers) [![Forks](https://img.shields.io/github/forks/stoplightio/prism?style=flat-square&color=blue)](https://github.com/stoplightio/prism/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 402 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # quantumaikr/quant.cpp
 
-[![Stars](https://img.shields.io/github/stars/quantumaikr/quant.cpp?style=flat-square&color=yellow)](https://github.com/quantumaikr/quant.cpp/stargazers) [![Forks](https://img.shields.io/github/forks/quantumaikr/quant.cpp?style=flat-square&color=blue)](https://github.com/quantumaikr/quant.cpp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quantumaikr/quant.cpp?style=flat-square&color=yellow)](https://github.com/quantumaikr/quant.cpp/stargazers) [![Forks](https://img.shields.io/github/forks/quantumaikr/quant.cpp?style=flat-square&color=blue)](https://github.com/quantumaikr/quant.cpp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > LLM inference with 7x longer context. Pure C, zero dependencies. Lossless KV cache compression + single-header library.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 384 |
-| 🍴 **Forks** | 41 |
+| ⭐ **Stars** | 385 |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | C |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
