@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **11959** |
+| 🗂️ **Total projects** | **12001** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4555 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2314 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4571 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2328 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 1172 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 942 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 734 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 707 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 427 | [Browse →](./crypto/) |
-| 📊 **Data** | 263 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 257 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 145 | [Browse →](./mobile/) |
+| 🧩 **Orchestration** | 944 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 733 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 710 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 428 | [Browse →](./crypto/) |
+| 📊 **Data** | 264 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 259 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 148 | [Browse →](./mobile/) |
 | 💳 **Payments** | 129 | [Browse →](./payments/) |
-| 📈 **Trading** | 123 | [Browse →](./trading/) |
+| 📈 **Trading** | 124 | [Browse →](./trading/) |
 | 🔐 **Security** | 107 | [Browse →](./security/) |
 | ✨ **Design** | 37 | [Browse →](./design/) |
 | 🎯 **Product** | 25 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [armbian/build](./aiml/armbian-build.md) | ⭐ 5.2k | AI/ML |
-| 2 | [OthmanAdi/planning-with-files](./orchestration/othmanadi-planning-with-files.md) | ⭐ 19.9k | Orchestration |
-| 3 | [Automattic/wp-calypso](./frontend/automattic-wp-calypso.md) | ⭐ 12.6k | Frontend |
-| 4 | [huggingface/peft](./aiml/huggingface-peft.md) | ⭐ 21k | AI/ML |
-| 5 | [ipython/ipython](./aiml/ipython-ipython.md) | ⭐ 16.7k | AI/ML |
-| 6 | [TykTechnologies/tyk](./backend/tyktechnologies-tyk.md) | ⭐ 10.7k | Backend |
-| 7 | [hoppscotch/hoppscotch](./frontend/hoppscotch-hoppscotch.md) | ⭐ 79.1k | Frontend |
-| 8 | [caddyserver/caddy](./backend/caddyserver-caddy.md) | ⭐ 71.9k | Backend |
-| 9 | [alacritty/alacritty](./misc/alacritty-alacritty.md) | ⭐ 63.8k | Misc |
-| 10 | [WeblateOrg/weblate](./misc/weblateorg-weblate.md) | ⭐ 5.8k | Misc |
+| 1 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 2 | [wpscanteam/wpscan](./aiml/wpscanteam-wpscan.md) | ⭐ 9.6k | AI/ML |
+| 3 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 4 | [birobirobiro/awesome-shadcn-ui](./frontend/birobirobiro-awesome-shadcn-ui.md) | ⭐ 19.4k | Frontend |
+| 5 | [oppia/oppia](./misc/oppia-oppia.md) | ⭐ 6.7k | Misc |
+| 6 | [sktime/sktime](./aiml/sktime-sktime.md) | ⭐ 9.7k | AI/ML |
+| 7 | [airbytehq/airbyte](./aiml/airbytehq-airbyte.md) | ⭐ 21.2k | AI/ML |
+| 8 | [docling-project/docling](./aiml/docling-project-docling.md) | ⭐ 58.8k | AI/ML |
+| 9 | [flutter/flutter](./frontend/flutter-flutter.md) | ⭐ 176.1k | Frontend |
+| 10 | [rclone/rclone](./aiml/rclone-rclone.md) | ⭐ 56.9k | AI/ML |
 
 ## 🚀 How it works
 

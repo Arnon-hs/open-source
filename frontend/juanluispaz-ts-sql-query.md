@@ -1,6 +1,6 @@
 # juanluispaz/ts-sql-query
 
-[![Stars](https://img.shields.io/github/stars/juanluispaz/ts-sql-query?style=flat-square&color=yellow)](https://github.com/juanluispaz/ts-sql-query/stargazers) [![Forks](https://img.shields.io/github/forks/juanluispaz/ts-sql-query?style=flat-square&color=blue)](https://github.com/juanluispaz/ts-sql-query/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juanluispaz/ts-sql-query?style=flat-square&color=yellow)](https://github.com/juanluispaz/ts-sql-query/stargazers) [![Forks](https://img.shields.io/github/forks/juanluispaz/ts-sql-query?style=flat-square&color=blue)](https://github.com/juanluispaz/ts-sql-query/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Type-safe SQL query builder like QueryDSL or JOOQ in Java or Linq in .Net for TypeScript with MariaDB, MySql, Oracle, PostgreSql, Sqlite and SqlServer support.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

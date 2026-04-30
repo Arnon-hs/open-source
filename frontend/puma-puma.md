@@ -1,6 +1,6 @@
 # puma/puma
 
-[![Stars](https://img.shields.io/github/stars/puma/puma?style=flat-square&color=yellow)](https://github.com/puma/puma/stargazers) [![Forks](https://img.shields.io/github/forks/puma/puma?style=flat-square&color=blue)](https://github.com/puma/puma/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/puma/puma?style=flat-square&color=yellow)](https://github.com/puma/puma/stargazers) [![Forks](https://img.shields.io/github/forks/puma/puma?style=flat-square&color=blue)](https://github.com/puma/puma/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > A Ruby/Rack web server built for parallelism
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.9k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

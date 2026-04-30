@@ -1,6 +1,6 @@
 # mondaycom/vibe
 
-[![Stars](https://img.shields.io/github/stars/mondaycom/vibe?style=flat-square&color=yellow)](https://github.com/mondaycom/vibe/stargazers) [![Forks](https://img.shields.io/github/forks/mondaycom/vibe?style=flat-square&color=blue)](https://github.com/mondaycom/vibe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mondaycom/vibe?style=flat-square&color=yellow)](https://github.com/mondaycom/vibe/stargazers) [![Forks](https://img.shields.io/github/forks/mondaycom/vibe?style=flat-square&color=blue)](https://github.com/mondaycom/vibe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🎨 Vibe Design System - Official monday.com UI resources for application development in React.js
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 641 |
+| ⭐ **Stars** | 642 |
 | 🍴 **Forks** | 363 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

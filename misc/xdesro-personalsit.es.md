@@ -1,6 +1,6 @@
 # xdesro/personalsit.es
 
-[![Stars](https://img.shields.io/github/stars/xdesro/personalsit.es?style=flat-square&color=yellow)](https://github.com/xdesro/personalsit.es/stargazers) [![Forks](https://img.shields.io/github/forks/xdesro/personalsit.es?style=flat-square&color=blue)](https://github.com/xdesro/personalsit.es/network) [![Language](https://img.shields.io/badge/lang-Nunjucks-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xdesro/personalsit.es?style=flat-square&color=yellow)](https://github.com/xdesro/personalsit.es/stargazers) [![Forks](https://img.shields.io/github/forks/xdesro/personalsit.es?style=flat-square&color=blue)](https://github.com/xdesro/personalsit.es/network) [![Language](https://img.shields.io/badge/lang-Nunjucks-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 📇 A little directory of people's personal sites
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 914 |
 | 🍴 **Forks** | 898 |
 | 💻 **Language** | Nunjucks |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

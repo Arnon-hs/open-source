@@ -25,7 +25,9 @@ Data · Security
 
 ## 📝 Summary
 
-Datadog's dd-trace-go is an open-source library for the Go programming language that provides comprehensive monitoring and tracing capabilities. This library enables developers to instrument their Go applications for APM (Application Performance Monitoring), profiling, and security monitoring, providing insights into performance and potential security vulnerabilities. By integrating dd-trace-go, developers can gain a deeper understanding of their application's behavior and improve overall system reliability.
+Here's a brief summary for the DataDog/dd-trace-go project:
+
+The Datadog dd-trace-go project is an open-source library that provides a comprehensive monitoring solution for Go applications, enabling APM (Application Performance Monitoring) tracing, profiling, and security monitoring. With this library, developers can easily collect and analyze performance, latency, and error data to optimize their applications and identify potential security threats. By integrating dd-trace-go into their Go applications, developers can gain valuable insights and improve overall system reliability and security.
 
 ---
 

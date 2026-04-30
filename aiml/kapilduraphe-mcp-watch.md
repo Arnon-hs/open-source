@@ -1,6 +1,6 @@
 # kapilduraphe/mcp-watch
 
-[![Stars](https://img.shields.io/github/stars/kapilduraphe/mcp-watch?style=flat-square&color=yellow)](https://github.com/kapilduraphe/mcp-watch/stargazers) [![Forks](https://img.shields.io/github/forks/kapilduraphe/mcp-watch?style=flat-square&color=blue)](https://github.com/kapilduraphe/mcp-watch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kapilduraphe/mcp-watch?style=flat-square&color=yellow)](https://github.com/kapilduraphe/mcp-watch/stargazers) [![Forks](https://img.shields.io/github/forks/kapilduraphe/mcp-watch?style=flat-square&color=blue)](https://github.com/kapilduraphe/mcp-watch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive security scanner for Model Context Protocol (MCP) servers that detects vulnerabilities and security issues in your MCP server implementations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

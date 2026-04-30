@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Rcarmo/go-joker is an open-source project that offers a personal reinterpretation of the original Clojure interpreter and linter. This project is built with a focus on providing a unique twist on the original Clojure functionality, with its source code available on GitHub. By leveraging this project, developers can gain access to alternative Clojure tools and enhance their development experience.
+Here's a 2-3 sentence summary of the Rcarmo/go-joker project:
+
+Rcarmo/go-joker is an open-source project that offers a unique twist on the original Clojure interpreter and linter, providing a personalized experience for users. This project is built on top of Clojure and allows for customization and extension of its functionality. With go-joker, developers can leverage a powerful tool for coding and debugging in a flexible and adaptable environment.
 
 ---
 

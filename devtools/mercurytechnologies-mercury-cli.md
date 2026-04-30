@@ -1,6 +1,6 @@
 # MercuryTechnologies/mercury-cli
 
-[![Stars](https://img.shields.io/github/stars/MercuryTechnologies/mercury-cli?style=flat-square&color=yellow)](https://github.com/MercuryTechnologies/mercury-cli/stargazers) [![Forks](https://img.shields.io/github/forks/MercuryTechnologies/mercury-cli?style=flat-square&color=blue)](https://github.com/MercuryTechnologies/mercury-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MercuryTechnologies/mercury-cli?style=flat-square&color=yellow)](https://github.com/MercuryTechnologies/mercury-cli/stargazers) [![Forks](https://img.shields.io/github/forks/MercuryTechnologies/mercury-cli?style=flat-square&color=blue)](https://github.com/MercuryTechnologies/mercury-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 59 |
+| ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

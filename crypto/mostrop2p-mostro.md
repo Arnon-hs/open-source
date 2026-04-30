@@ -1,6 +1,6 @@
 # MostroP2P/mostro
 
-[![Stars](https://img.shields.io/github/stars/MostroP2P/mostro?style=flat-square&color=yellow)](https://github.com/MostroP2P/mostro/stargazers) [![Forks](https://img.shields.io/github/forks/MostroP2P/mostro?style=flat-square&color=blue)](https://github.com/MostroP2P/mostro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MostroP2P/mostro?style=flat-square&color=yellow)](https://github.com/MostroP2P/mostro/stargazers) [![Forks](https://img.shields.io/github/forks/MostroP2P/mostro?style=flat-square&color=blue)](https://github.com/MostroP2P/mostro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Lightning Network peer-to-peer exchange platform on Nostr
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 283 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

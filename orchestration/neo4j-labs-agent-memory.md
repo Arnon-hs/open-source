@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The neo4j-labs/agent-memory project is an open-source solution that provides a graph-native memory system for AI agents and context graphs, enabling the storage of conversations and construction of knowledge graphs. This system allows AI agents to learn from their own reasoning and decision-making processes, all while being backed by the powerful graph database, Neo4j. By leveraging this technology, developers can create more sophisticated and intelligent AI agents.
+The Neo4j Labs Agent Memory project is an open-source, graph-native memory system designed to support AI agents and context graphs. This innovative system enables users to store conversations, build knowledge graphs, and facilitate agent learning through self-reasoning, all integrated with the Neo4j database. By leveraging Neo4j, users can create sophisticated AI agents with knowledge graph capabilities.
 
 ---
 

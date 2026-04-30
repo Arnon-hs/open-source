@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-The hear command-line interface provides access to macOS's built-in speech recognition and transcription capabilities, enabling users to easily convert spoken words into text from the terminal. This open-source tool leverages Apple's Speech framework to offer a convenient, text-based interface for speech-to-text functionality. With hear, users can effortlessly capture and transcribe spoken content from their Mac.
+The sveinbjornt/hear project is an open-source command line interface that leverages macOS's built-in speech recognition and transcription capabilities, providing users with a straightforward way to interact with these features. This project aims to simplify access to macOS's speech recognition functionality, making it more accessible and user-friendly. By utilizing the native speech recognition capabilities, hear offers a seamless experience for users.
 
 ---
 

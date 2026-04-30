@@ -1,6 +1,6 @@
 # i42output/neoGFX
 
-[![Stars](https://img.shields.io/github/stars/i42output/neoGFX?style=flat-square&color=yellow)](https://github.com/i42output/neoGFX/stargazers) [![Forks](https://img.shields.io/github/forks/i42output/neoGFX?style=flat-square&color=blue)](https://github.com/i42output/neoGFX/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/i42output/neoGFX?style=flat-square&color=yellow)](https://github.com/i42output/neoGFX/stargazers) [![Forks](https://img.shields.io/github/forks/i42output/neoGFX?style=flat-square&color=blue)](https://github.com/i42output/neoGFX/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform GPU-oriented C++ application/game framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 570 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The prokopyl/clack project provides a low-level, safe wrapper for creating CLAP (Cross Platform Audio Plugin) audio plugins and hosts in Rust, allowing developers to build robust and secure audio applications. This open-source library aims to facilitate the development of high-performance audio tools with a focus on platform compatibility and stability. By leveraging Rust's type safety and memory management features, clack enables developers to write efficient and reliable audio code.
+The clack project is an open-source Rust library that provides a safe and low-level interface for creating CLAP (Custom Low Latency Audio Plugin) audio plugins and hosts. This wrapper aims to simplify the development process while maintaining low-level control, making it an ideal choice for developers looking to build custom audio processing solutions. With clack, developers can focus on writing plugin or host logic without worrying about the underlying CLAP implementation details.
 
 ---
 

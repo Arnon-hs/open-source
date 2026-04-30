@@ -1,6 +1,6 @@
 # calagopus/wings
 
-[![Stars](https://img.shields.io/github/stars/calagopus/wings?style=flat-square&color=yellow)](https://github.com/calagopus/wings/stargazers) [![Forks](https://img.shields.io/github/forks/calagopus/wings?style=flat-square&color=blue)](https://github.com/calagopus/wings/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/calagopus/wings?style=flat-square&color=yellow)](https://github.com/calagopus/wings/stargazers) [![Forks](https://img.shields.io/github/forks/calagopus/wings?style=flat-square&color=blue)](https://github.com/calagopus/wings/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Pterodactyl Wings alternative written in Rust with more Speed, more Features and more Maintainability.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

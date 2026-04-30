@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Exaile is an open-source, cross-platform music player that allows users to manage and play their music libraries with ease. This versatile music player supports a wide range of audio formats and offers features such as playlist management, album art display, and customizable hotkeys. With its user-friendly interface, Exaile provides a seamless music experience across various operating systems.
+Exaile is an open-source, cross-platform music player that allows users to manage and play their music libraries. This user-friendly music player supports various file formats and provides features such as playlist management, tag editing, and lyrics display. With its robust functionality and customization options, Exaile caters to the diverse needs of music enthusiasts.
 
 ---
 

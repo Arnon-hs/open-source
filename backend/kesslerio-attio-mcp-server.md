@@ -25,9 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the project:
 
-The attio-mcp-server is an open-source implementation of the Attio Model Context Protocol (MCP) server, a backend solution for handling model context information. This project provides a robust and reliable platform for managing model context, enabling efficient integration with various models and applications. By leveraging the MCP protocol, developers can easily integrate and manage model context in their projects.
+The Attio Model Context Protocol (MCP) server is a lightweight, open-source implementation designed to facilitate efficient data exchange and management between applications. This server provides a standardized framework for handling model context, enabling seamless communication and collaboration across different systems and services. By leveraging the Attio MCP protocol, developers can create more scalable and interoperable solutions for their applications.
 
 ---
 

@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Prana is an open-source project that simplifies database management and code generation using the Go programming language. It provides a robust framework for interacting with databases, allowing users to easily manage data and generate code to interact with their database schema. This project streamlines database-related tasks, making it easier for developers to focus on building their applications.
+Prana is an open-source project that enables database management and code generation using the Go programming language. It provides a comprehensive framework for interacting with databases, automating tasks, and generating code to streamline development workflows. By leveraging Prana, developers can simplify database operations and focus on building efficient and scalable applications.
 
 ---
 

@@ -1,6 +1,6 @@
 # akdeb/ElatoAI
 
-[![Stars](https://img.shields.io/github/stars/akdeb/ElatoAI?style=flat-square&color=yellow)](https://github.com/akdeb/ElatoAI/stargazers) [![Forks](https://img.shields.io/github/forks/akdeb/ElatoAI?style=flat-square&color=blue)](https://github.com/akdeb/ElatoAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akdeb/ElatoAI?style=flat-square&color=yellow)](https://github.com/akdeb/ElatoAI/stargazers) [![Forks](https://img.shields.io/github/forks/akdeb/ElatoAI?style=flat-square&color=blue)](https://github.com/akdeb/ElatoAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Toys, Companions, and Devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here is a brief summary for the Halo project:
-
-Halo is an open-source project that utilizes reinforcement learning (RLM) to optimize agent harnesses, a key component in various AI and machine learning applications. This project aims to improve the efficiency and performance of agent harnesses, enabling more effective and robust AI systems. By leveraging RLM techniques, Halo seeks to advance the field of AI/ML and provide a valuable resource for researchers and developers.
+This open-source project leverages Relaxed Linear Models (RLM) to optimize agent harnesses in the context of artificial intelligence and machine learning. By utilizing RLM, the project aims to improve the efficiency and performance of agent harnesses, potentially leading to enhanced AI model capabilities. This project is a promising development in the AI/ML space, offering a novel approach to agent optimization.
 
 ---
 

@@ -1,6 +1,6 @@
 # glauberlima/claude-code-statusline
 
-[![Stars](https://img.shields.io/github/stars/glauberlima/claude-code-statusline?style=flat-square&color=yellow)](https://github.com/glauberlima/claude-code-statusline/stargazers) [![Forks](https://img.shields.io/github/forks/glauberlima/claude-code-statusline?style=flat-square&color=blue)](https://github.com/glauberlima/claude-code-statusline/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/glauberlima/claude-code-statusline?style=flat-square&color=yellow)](https://github.com/glauberlima/claude-code-statusline/stargazers) [![Forks](https://img.shields.io/github/forks/glauberlima/claude-code-statusline?style=flat-square&color=blue)](https://github.com/glauberlima/claude-code-statusline/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Supercharge your Claude Code CLI experience with a powerful statusline that displays key session metrics (Git state, context usage, model info and cost) at a glance — minimal setup, maximum insight.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27 |
+| ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

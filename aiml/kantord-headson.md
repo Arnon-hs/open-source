@@ -1,6 +1,6 @@
 # kantord/headson
 
-[![Stars](https://img.shields.io/github/stars/kantord/headson?style=flat-square&color=yellow)](https://github.com/kantord/headson/stargazers) [![Forks](https://img.shields.io/github/forks/kantord/headson?style=flat-square&color=blue)](https://github.com/kantord/headson/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kantord/headson?style=flat-square&color=yellow)](https://github.com/kantord/headson/stargazers) [![Forks](https://img.shields.io/github/forks/kantord/headson?style=flat-square&color=blue)](https://github.com/kantord/headson/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > head/tail for structured data - summarize/preview JSON/YAML and source code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 250 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

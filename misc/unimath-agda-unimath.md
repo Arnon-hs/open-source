@@ -1,6 +1,6 @@
 # UniMath/agda-unimath
 
-[![Stars](https://img.shields.io/github/stars/UniMath/agda-unimath?style=flat-square&color=yellow)](https://github.com/UniMath/agda-unimath/stargazers) [![Forks](https://img.shields.io/github/forks/UniMath/agda-unimath?style=flat-square&color=blue)](https://github.com/UniMath/agda-unimath/network) [![Language](https://img.shields.io/badge/lang-Agda-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UniMath/agda-unimath?style=flat-square&color=yellow)](https://github.com/UniMath/agda-unimath/stargazers) [![Forks](https://img.shields.io/github/forks/UniMath/agda-unimath?style=flat-square&color=blue)](https://github.com/UniMath/agda-unimath/network) [![Language](https://img.shields.io/badge/lang-Agda-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The agda-unimath library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 300 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Agda |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

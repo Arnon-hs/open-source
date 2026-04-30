@@ -1,6 +1,6 @@
 # waycrate/swhkd
 
-[![Stars](https://img.shields.io/github/stars/waycrate/swhkd?style=flat-square&color=yellow)](https://github.com/waycrate/swhkd/stargazers) [![Forks](https://img.shields.io/github/forks/waycrate/swhkd?style=flat-square&color=blue)](https://github.com/waycrate/swhkd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/waycrate/swhkd?style=flat-square&color=yellow)](https://github.com/waycrate/swhkd/stargazers) [![Forks](https://img.shields.io/github/forks/waycrate/swhkd?style=flat-square&color=blue)](https://github.com/waycrate/swhkd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Sxhkd clone for Wayland (works on TTY and X11 too)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 837 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

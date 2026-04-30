@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.8k |
-| 🍴 **Forks** | 789 |
+| 🍴 **Forks** | 788 |
 | 💻 **Language** | Bikeshed |
 | 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | — |

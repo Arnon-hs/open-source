@@ -1,6 +1,6 @@
 # matiasbattocchia/open-bsp-api
 
-[![Stars](https://img.shields.io/github/stars/matiasbattocchia/open-bsp-api?style=flat-square&color=yellow)](https://github.com/matiasbattocchia/open-bsp-api/stargazers) [![Forks](https://img.shields.io/github/forks/matiasbattocchia/open-bsp-api?style=flat-square&color=blue)](https://github.com/matiasbattocchia/open-bsp-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matiasbattocchia/open-bsp-api?style=flat-square&color=yellow)](https://github.com/matiasbattocchia/open-bsp-api/stargazers) [![Forks](https://img.shields.io/github/forks/matiasbattocchia/open-bsp-api?style=flat-square&color=blue)](https://github.com/matiasbattocchia/open-bsp-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source WhatsApp Business platform
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 211 |
+| ⭐ **Stars** | 214 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

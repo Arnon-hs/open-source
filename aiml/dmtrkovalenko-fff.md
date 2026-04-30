@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The fff project is an open-source, high-performance file search toolkit designed for various platforms, including AI agents, Neovim, Rust, C, and NodeJS. This tool enables accurate and efficient file searching, catering to the needs of developers and AI professionals alike. Its versatility and speed make it an ideal solution for tasks that require rapid file discovery and exploration.
+Here's a 2-3 sentence summary for the open-source project:
+
+The fff (fastest file finder) project is an open-source, high-performance file search toolkit designed for AI agents and developers working with Neovim, Rust, C, and NodeJS. With its focus on speed and accuracy, fff enables efficient search capabilities for a wide range of applications and use cases. This versatile tool aims to simplify file searching and improve productivity for developers and AI agents alike.
 
 ---
 

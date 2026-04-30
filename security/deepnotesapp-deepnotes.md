@@ -1,6 +1,6 @@
 # DeepNotesApp/DeepNotes
 
-[![Stars](https://img.shields.io/github/stars/DeepNotesApp/DeepNotes?style=flat-square&color=yellow)](https://github.com/DeepNotesApp/DeepNotes/stargazers) [![Forks](https://img.shields.io/github/forks/DeepNotesApp/DeepNotes?style=flat-square&color=blue)](https://github.com/DeepNotesApp/DeepNotes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DeepNotesApp/DeepNotes?style=flat-square&color=yellow)](https://github.com/DeepNotesApp/DeepNotes/stargazers) [![Forks](https://img.shields.io/github/forks/DeepNotesApp/DeepNotes?style=flat-square&color=blue)](https://github.com/DeepNotesApp/DeepNotes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > End-to-end encrypted visual note-taking tool with deep page navigation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 595 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

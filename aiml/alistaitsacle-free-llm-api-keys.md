@@ -1,6 +1,6 @@
 # alistaitsacle/free-llm-api-keys
 
-[![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=flat-square&color=yellow)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers) [![Forks](https://img.shields.io/github/forks/alistaitsacle/free-llm-api-keys?style=flat-square&color=blue)](https://github.com/alistaitsacle/free-llm-api-keys/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=flat-square&color=yellow)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers) [![Forks](https://img.shields.io/github/forks/alistaitsacle/free-llm-api-keys?style=flat-square&color=blue)](https://github.com/alistaitsacle/free-llm-api-keys/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Free LLM API keys for GPT-5.4, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 194 |
+| ⭐ **Stars** | 197 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

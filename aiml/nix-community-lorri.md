@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Lorri is an open-source project that provides a Nix package manager integration for managing and maintaining environments for artificial intelligence and machine learning (AI/ML) workloads. Developed by @Profpatsch and @nyarly, Lorri aims to simplify the process of setting up and managing complex AI/ML environments using Nix's declarative configuration approach. This facilitates reproducibility, ease of maintenance, and efficient use of resources.
+Lorri is an open-source project that integrates with nix-env, a package manager for the Nix ecosystem. It aims to provide a seamless experience for users to manage their machine learning (ML) and artificial intelligence (AI) environments and dependencies. By leveraging Nix's robust package management, Lorri simplifies the process of setting up and switching between different ML/AI environments.
 
 ---
 

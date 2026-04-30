@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Moonwave is an open-source tool for automatically generating documentation from comments in Lua source code. It leverages the existing documentation in code comments to produce high-quality, readable documentation, streamlining the documentation process. This tool is designed to be particularly useful for projects with extensive Lua codebases.
+Moonwave is an open-source tool that automatically generates documentation from comments in Lua source code. This feature-rich utility helps developers maintain accurate and up-to-date documentation by parsing comments directly from their code, streamlining the process of creating comprehensive documentation. By leveraging Moonwave, developers can save time and effort when documenting their Lua projects.
 
 ---
 

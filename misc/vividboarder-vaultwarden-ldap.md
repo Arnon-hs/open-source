@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, titled "vaultwarden_ldap", automates the process of sending LDAP invites to Vaultwarden, a secure password manager. By integrating LDAP (Lightweight Directory Access Protocol) with Vaultwarden, users can easily invite others to join their password management system. This automation streamlines the onboarding process and enhances collaboration within teams.
+Vaultwarden LDAP is an open-source project that automates the process of sending LDAP invites to Vaultwarden, a password manager designed for secure collaboration. This project enables seamless integration between LDAP directories and Vaultwarden, streamlining user onboarding and management. By automating LDAP invites, organizations can enhance their password management workflow and improve team collaboration.
 
 ---
 

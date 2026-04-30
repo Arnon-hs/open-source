@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The shinpr/claude-code-workflows project provides production-ready development workflows for Claude Code, leveraging specialized AI agents to streamline and optimize the development process. These workflows are designed to facilitate efficient collaboration and automation, making it easier for developers to build and deploy AI-powered applications. By utilizing AI-driven agents, this project aims to reduce development time and enhance overall productivity.
+Claude Code is an open-source project that offers production-ready development workflows. These workflows are powered by specialized AI agents, streamlining the development process and enhancing productivity. The project provides an efficient solution for developers and teams working with Claude Code.
 
 ---
 

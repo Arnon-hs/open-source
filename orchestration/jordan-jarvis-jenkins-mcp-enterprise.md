@@ -25,9 +25,9 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary of the project in 2-3 sentences:
 
-Jenkins MCP Enterprise is an open-source, advanced Jenkins server that offers cutting-edge features for complex CI/CD pipelines. Its capabilities include AI-powered failure analysis, multi-instance management, vector search, and configurable diagnostics, making it an ideal choice for enterprise debugging needs. This powerful tool enables organizations to streamline their development workflows and improve overall pipeline efficiency.
+The Jenkins MCP Enterprise project is an open-source platform that provides advanced debugging, multi-instance management, and AI-powered failure analysis for complex CI/CD pipelines. With features like vector search and configurable diagnostics, developers can efficiently identify and resolve issues, improving overall pipeline reliability. This enterprise-grade solution is designed to streamline CI/CD workflows and enhance collaboration through its robust set of features.
 
 ---
 

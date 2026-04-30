@@ -1,17 +1,17 @@
 # re-marked/yokai
 
-[![Stars](https://img.shields.io/github/stars/re-marked/yokai?style=flat-square&color=yellow)](https://github.com/re-marked/yokai/stargazers) [![Forks](https://img.shields.io/github/forks/re-marked/yokai?style=flat-square&color=blue)](https://github.com/re-marked/yokai/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/re-marked/yokai?style=flat-square&color=yellow)](https://github.com/re-marked/yokai/stargazers) [![Forks](https://img.shields.io/github/forks/re-marked/yokai?style=flat-square&color=blue)](https://github.com/re-marked/yokai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Serious React TUI renderer for serious CLI apps. Pure TypeScript Yoga layout, diff-based rendering, ScrollBox, alt buffer, mouse events, draggable and resizable components.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 

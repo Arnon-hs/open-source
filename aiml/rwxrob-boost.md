@@ -1,6 +1,6 @@
 # rwxrob/boost
 
-[![Stars](https://img.shields.io/github/stars/rwxrob/boost?style=flat-square&color=yellow)](https://github.com/rwxrob/boost/stargazers) [![Forks](https://img.shields.io/github/forks/rwxrob/boost?style=flat-square&color=blue)](https://github.com/rwxrob/boost/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rwxrob/boost?style=flat-square&color=yellow)](https://github.com/rwxrob/boost/stargazers) [![Forks](https://img.shields.io/github/forks/rwxrob/boost?style=flat-square&color=blue)](https://github.com/rwxrob/boost/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Get started right. Become a shell native. This is the way.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Vim Script |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the open-source project:
-
-The MCP-js project provides a JavaScript runtime server, powered by V8, for use in AI agent development. It enables integration with modern AI development environments and supports persistent heap snapshots through S3 or local filesystem storage. This project aims to facilitate AI development by offering a robust JavaScript execution environment.
+This open-source project, mcp-js, is a MCP server that integrates a V8 JavaScript runtime, enabling AI agents like Claude and Cursor to utilize its capabilities. The server offers persistent heap snapshots through S3 or local storage, making it suitable for seamless integration with cutting-edge AI development environments. By leveraging this project, developers can create robust AI systems that leverage JavaScript's flexibility and power.
 
 ---
 

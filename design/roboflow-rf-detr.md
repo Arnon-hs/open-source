@@ -1,6 +1,6 @@
 # roboflow/rf-detr
 
-[![Stars](https://img.shields.io/github/stars/roboflow/rf-detr?style=flat-square&color=yellow)](https://github.com/roboflow/rf-detr/stargazers) [![Forks](https://img.shields.io/github/forks/roboflow/rf-detr?style=flat-square&color=blue)](https://github.com/roboflow/rf-detr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roboflow/rf-detr?style=flat-square&color=yellow)](https://github.com/roboflow/rf-detr/stargazers) [![Forks](https://img.shields.io/github/forks/roboflow/rf-detr?style=flat-square&color=blue)](https://github.com/roboflow/rf-detr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
 
 > [ICLR 2026] RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.7k |
-| 🍴 **Forks** | 847 |
+| ⭐ **Stars** | 6.8k |
+| 🍴 **Forks** | 852 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 96/100 |
+| 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

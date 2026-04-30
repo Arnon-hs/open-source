@@ -1,6 +1,6 @@
 # harnessclaw/harnessclaw-engine
 
-[![Stars](https://img.shields.io/github/stars/harnessclaw/harnessclaw-engine?style=flat-square&color=yellow)](https://github.com/harnessclaw/harnessclaw-engine/stargazers) [![Forks](https://img.shields.io/github/forks/harnessclaw/harnessclaw-engine?style=flat-square&color=blue)](https://github.com/harnessclaw/harnessclaw-engine/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harnessclaw/harnessclaw-engine?style=flat-square&color=yellow)](https://github.com/harnessclaw/harnessclaw-engine/stargazers) [![Forks](https://img.shields.io/github/forks/harnessclaw/harnessclaw-engine?style=flat-square&color=blue)](https://github.com/harnessclaw/harnessclaw-engine/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An LLM programming assistant engine built with Go, supporting WebSocket, multi-turn dialogues, tool calling, permission control, and skill extension.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 298 |
-| 🍴 **Forks** | 25 |
+| ⭐ **Stars** | 304 |
+| 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

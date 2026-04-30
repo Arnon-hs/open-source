@@ -1,6 +1,6 @@
 # runvnc/mindroot
 
-[![Stars](https://img.shields.io/github/stars/runvnc/mindroot?style=flat-square&color=yellow)](https://github.com/runvnc/mindroot/stargazers) [![Forks](https://img.shields.io/github/forks/runvnc/mindroot?style=flat-square&color=blue)](https://github.com/runvnc/mindroot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runvnc/mindroot?style=flat-square&color=yellow)](https://github.com/runvnc/mindroot/stargazers) [![Forks](https://img.shields.io/github/forks/runvnc/mindroot?style=flat-square&color=blue)](https://github.com/runvnc/mindroot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent web app platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 94 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
