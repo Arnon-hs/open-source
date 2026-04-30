@@ -1,6 +1,6 @@
 # heycupola/relic
 
-[![Stars](https://img.shields.io/github/stars/heycupola/relic?style=flat-square&color=yellow)](https://github.com/heycupola/relic/stargazers) [![Forks](https://img.shields.io/github/forks/heycupola/relic?style=flat-square&color=blue)](https://github.com/heycupola/relic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heycupola/relic?style=flat-square&color=yellow)](https://github.com/heycupola/relic/stargazers) [![Forks](https://img.shields.io/github/forks/heycupola/relic?style=flat-square&color=blue)](https://github.com/heycupola/relic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Manage and share secrets. Encrypted on your device, never exposed to anyone else.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

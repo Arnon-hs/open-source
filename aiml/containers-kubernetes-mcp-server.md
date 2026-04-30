@@ -1,6 +1,6 @@
 # containers/kubernetes-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/containers/kubernetes-mcp-server?style=flat-square&color=yellow)](https://github.com/containers/kubernetes-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/containers/kubernetes-mcp-server?style=flat-square&color=blue)](https://github.com/containers/kubernetes-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/containers/kubernetes-mcp-server?style=flat-square&color=yellow)](https://github.com/containers/kubernetes-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/containers/kubernetes-mcp-server?style=flat-square&color=blue)](https://github.com/containers/kubernetes-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol (MCP) server for Kubernetes and OpenShift
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 327 |
+| 🍴 **Forks** | 328 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

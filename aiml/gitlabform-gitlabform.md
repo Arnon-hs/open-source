@@ -1,6 +1,6 @@
 # gitlabform/gitlabform
 
-[![Stars](https://img.shields.io/github/stars/gitlabform/gitlabform?style=flat-square&color=yellow)](https://github.com/gitlabform/gitlabform/stargazers) [![Forks](https://img.shields.io/github/forks/gitlabform/gitlabform?style=flat-square&color=blue)](https://github.com/gitlabform/gitlabform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gitlabform/gitlabform?style=flat-square&color=yellow)](https://github.com/gitlabform/gitlabform/stargazers) [![Forks](https://img.shields.io/github/forks/gitlabform/gitlabform?style=flat-square&color=blue)](https://github.com/gitlabform/gitlabform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 🏗 Specialized configuration as a code tool for GitLab
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

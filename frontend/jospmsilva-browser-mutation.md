@@ -1,6 +1,6 @@
 # JosPMSilva/Browser-mutation
 
-[![Stars](https://img.shields.io/github/stars/JosPMSilva/Browser-mutation?style=flat-square&color=yellow)](https://github.com/JosPMSilva/Browser-mutation/stargazers) [![Forks](https://img.shields.io/github/forks/JosPMSilva/Browser-mutation?style=flat-square&color=blue)](https://github.com/JosPMSilva/Browser-mutation/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JosPMSilva/Browser-mutation?style=flat-square&color=yellow)](https://github.com/JosPMSilva/Browser-mutation/stargazers) [![Forks](https://img.shields.io/github/forks/JosPMSilva/Browser-mutation?style=flat-square&color=blue)](https://github.com/JosPMSilva/Browser-mutation/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Capture live browser UI edits as structured mutation intent for Codex.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

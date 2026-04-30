@@ -1,6 +1,6 @@
 # FavioVazquez/learnship
 
-[![Stars](https://img.shields.io/github/stars/FavioVazquez/learnship?style=flat-square&color=yellow)](https://github.com/FavioVazquez/learnship/stargazers) [![Forks](https://img.shields.io/github/forks/FavioVazquez/learnship?style=flat-square&color=blue)](https://github.com/FavioVazquez/learnship/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FavioVazquez/learnship?style=flat-square&color=yellow)](https://github.com/FavioVazquez/learnship/stargazers) [![Forks](https://img.shields.io/github/forks/FavioVazquez/learnship?style=flat-square&color=blue)](https://github.com/FavioVazquez/learnship/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Learn as you build. Build with intent. Ship real products. Agentic engineering done right.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

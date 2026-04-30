@@ -1,6 +1,6 @@
 # ovh/venom
 
-[![Stars](https://img.shields.io/github/stars/ovh/venom?style=flat-square&color=yellow)](https://github.com/ovh/venom/stargazers) [![Forks](https://img.shields.io/github/forks/ovh/venom?style=flat-square&color=blue)](https://github.com/ovh/venom/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ovh/venom?style=flat-square&color=yellow)](https://github.com/ovh/venom/stargazers) [![Forks](https://img.shields.io/github/forks/ovh/venom?style=flat-square&color=blue)](https://github.com/ovh/venom/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

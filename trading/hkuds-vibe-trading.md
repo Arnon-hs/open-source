@@ -1,6 +1,6 @@
 # HKUDS/Vibe-Trading
 
-[![Stars](https://img.shields.io/github/stars/HKUDS/Vibe-Trading?style=flat-square&color=yellow)](https://github.com/HKUDS/Vibe-Trading/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/Vibe-Trading?style=flat-square&color=blue)](https://github.com/HKUDS/Vibe-Trading/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HKUDS/Vibe-Trading?style=flat-square&color=yellow)](https://github.com/HKUDS/Vibe-Trading/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/Vibe-Trading?style=flat-square&color=blue)](https://github.com/HKUDS/Vibe-Trading/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
 > "Vibe-Trading: Your Personal Trading Agent"
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 779 |
+| 🍴 **Forks** | 788 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

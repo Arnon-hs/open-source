@@ -1,6 +1,6 @@
 # demircancelebi/tafl
 
-[![Stars](https://img.shields.io/github/stars/demircancelebi/tafl?style=flat-square&color=yellow)](https://github.com/demircancelebi/tafl/stargazers) [![Forks](https://img.shields.io/github/forks/demircancelebi/tafl?style=flat-square&color=blue)](https://github.com/demircancelebi/tafl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/demircancelebi/tafl?style=flat-square&color=yellow)](https://github.com/demircancelebi/tafl/stargazers) [![Forks](https://img.shields.io/github/forks/demircancelebi/tafl?style=flat-square&color=blue)](https://github.com/demircancelebi/tafl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A library for Hnefatafl (Viking Chess, or Tafl) that is used for move generation/validation, piece placement/movement, and game over detection. You can use it to simulate games between AI agents - although you need to write the agents yourself :)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

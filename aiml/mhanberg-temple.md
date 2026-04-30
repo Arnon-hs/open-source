@@ -1,6 +1,6 @@
 # mhanberg/temple
 
-[![Stars](https://img.shields.io/github/stars/mhanberg/temple?style=flat-square&color=yellow)](https://github.com/mhanberg/temple/stargazers) [![Forks](https://img.shields.io/github/forks/mhanberg/temple?style=flat-square&color=blue)](https://github.com/mhanberg/temple/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mhanberg/temple?style=flat-square&color=yellow)](https://github.com/mhanberg/temple/stargazers) [![Forks](https://img.shields.io/github/forks/mhanberg/temple?style=flat-square&color=blue)](https://github.com/mhanberg/temple/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > An HTML DSL for Elixir and Phoenix
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 509 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

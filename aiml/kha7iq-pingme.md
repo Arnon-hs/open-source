@@ -1,6 +1,6 @@
 # kha7iq/pingme
 
-[![Stars](https://img.shields.io/github/stars/kha7iq/pingme?style=flat-square&color=yellow)](https://github.com/kha7iq/pingme/stargazers) [![Forks](https://img.shields.io/github/forks/kha7iq/pingme?style=flat-square&color=blue)](https://github.com/kha7iq/pingme/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kha7iq/pingme?style=flat-square&color=yellow)](https://github.com/kha7iq/pingme/stargazers) [![Forks](https://img.shields.io/github/forks/kha7iq/pingme?style=flat-square&color=blue)](https://github.com/kha7iq/pingme/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > PingMe - A unified CLI and web service for sending notifications across multiple messaging platforms
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 850 |
+| ⭐ **Stars** | 851 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

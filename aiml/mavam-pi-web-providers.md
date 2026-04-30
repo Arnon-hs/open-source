@@ -1,6 +1,6 @@
 # mavam/pi-web-providers
 
-[![Stars](https://img.shields.io/github/stars/mavam/pi-web-providers?style=flat-square&color=yellow)](https://github.com/mavam/pi-web-providers/stargazers) [![Forks](https://img.shields.io/github/forks/mavam/pi-web-providers?style=flat-square&color=blue)](https://github.com/mavam/pi-web-providers/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mavam/pi-web-providers?style=flat-square&color=yellow)](https://github.com/mavam/pi-web-providers/stargazers) [![Forks](https://img.shields.io/github/forks/mavam/pi-web-providers?style=flat-square&color=blue)](https://github.com/mavam/pi-web-providers/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Configurable web access extension for pi that routes search, contents, answers, and research across Claude, Codex, Exa, Gemini, Parallel, and Valyu providers.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54 |
+| ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

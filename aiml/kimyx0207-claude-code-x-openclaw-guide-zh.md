@@ -1,6 +1,6 @@
 # KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh
 
-[![Stars](https://img.shields.io/github/stars/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh?style=flat-square&color=yellow)](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh/stargazers) [![Forks](https://img.shields.io/github/forks/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh?style=flat-square&color=blue)](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh?style=flat-square&color=yellow)](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh/stargazers) [![Forks](https://img.shields.io/github/forks/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh?style=flat-square&color=blue)](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > 从零到企业实战：Claude Code 官方编程神器 + OpenClaw 224K Stars 开源AI助手 | 双顶流中文教程 | 21篇教程 130000+字
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 689 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
