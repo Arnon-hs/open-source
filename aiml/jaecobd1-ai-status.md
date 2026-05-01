@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The AI Status project is an open-source macOS application that provides a simple and intuitive dashboard for monitoring various AI and machine learning models and frameworks. This app offers real-time insights into the status and performance of AI systems, making it an invaluable resource for developers and researchers working with AI. By leveraging the power of open-source software, AI Status empowers users to stay informed and up-to-date with the latest AI trends and advancements.
+AI Status is an open-source Mac application that provides a simple and intuitive interface to monitor the status of various artificial intelligence (AI) and machine learning (ML) models and frameworks. This project allows users to keep track of the performance, health, and metrics of their AI systems in real-time. By fostering transparency and collaboration, AI Status aims to facilitate the development and improvement of AI technologies.
 
 ---
 

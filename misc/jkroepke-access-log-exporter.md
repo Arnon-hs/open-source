@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The jkroepke/access-log-exporter is an open-source Prometheus exporter that enables the conversion of nginx access logs into metrics using the syslog protocol. This allows for efficient and scalable logging and monitoring of web server activity, making it easier to track performance and troubleshoot issues. By leveraging Prometheus, users can gain valuable insights into their application's behavior and optimize its performance.
+Here's a brief summary for the jkroepke/access-log-exporter project:
+
+The jkroepke/access-log-exporter is an open-source Prometheus exporter that leverages the syslog protocol to receive access logs from nginx and convert them into actionable metrics. This tool enables users to monitor and analyze their web server traffic in a scalable and efficient manner. By utilizing Prometheus, users can easily visualize and query their access log data for performance insights and optimization opportunities.
 
 ---
 

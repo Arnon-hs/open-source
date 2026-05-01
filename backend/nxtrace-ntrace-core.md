@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-NextTrace is an open-source visual route tracking CLI tool that provides real-time route tracking capabilities. This project, known as nxtrace/NTrace-core, allows users to monitor and analyze routes, making it a valuable resource for developers and professionals seeking to optimize logistics and navigation. With NextTrace, users can gain valuable insights into their route data, enhancing decision-making and efficiency.
+NextTrace is an open-source, visual route tracking CLI tool that enables users to track and analyze their routes in a straightforward and intuitive manner. This project, also known as nxtrace/NTrace-core, is designed to provide a robust backend for the NextTrace tool, facilitating its functionality and user experience. By leveraging its capabilities, users can gain valuable insights into their travel habits and optimize their routes for improved efficiency.
 
 ---
 

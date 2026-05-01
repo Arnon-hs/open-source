@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Dokploy/cli is an open-source command-line interface (CLI) tool designed to provide effortless deployment and management of serverless applications. It simplifies the process of setting up and scaling cloud infrastructure, making it easier for developers to focus on writing code. This CLI tool streamlines the entire deployment workflow, reducing complexity and increasing productivity.
+Dokploy/cli is an open-source command-line interface (CLI) tool designed to simplify the deployment process for developers. It provides a user-friendly and efficient way to automate and manage deployments, streamlining the workflow and reducing manual errors. With Dokploy/cli, developers can focus on building applications while ensuring seamless and reliable deployment.
 
 ---
 

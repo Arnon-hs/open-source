@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-SpikeHD/Dorion is a lightweight, open-source Discord client designed to provide a faster and more streamlined experience. This alternative client offers a range of features, including themes and plugins, allowing users to customize their interface and expand its capabilities. By focusing on a smaller footprint, SpikeHD/Dorion aims to deliver a snappier startup and improved overall performance.
+The SpikeHD/Dorion project is an open-source, lightweight alternative Discord client that offers a reduced footprint and faster startup times. It provides users with a range of customizable features, including themes and plugins, making it a versatile and adaptable solution for Discord users. By leveraging these capabilities, users can enhance their Discord experience while conserving system resources.
 
 ---
 

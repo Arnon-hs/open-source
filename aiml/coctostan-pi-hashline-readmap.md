@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a 2-3 sentence summary for the open-source project:
 
-The coctostan/pi-hashline-readmap project is an open-source extension that integrates hash-anchored file editing with structural code maps, enhancing the coding experience with AI-driven insights. This unified extension streamlines code navigation, allowing developers to seamlessly explore and understand the relationships between different code elements. By combining these features, it aims to improve coding efficiency and productivity.
+"pi-hashline-readmap" is an open-source AI/ML extension that integrates hash-anchored file editing with structural code maps. This unified pi-coding-agent provides a powerful tool for developers to navigate and edit code more efficiently. By combining these features, the extension aims to enhance the coding experience and improve productivity.
 
 ---
 

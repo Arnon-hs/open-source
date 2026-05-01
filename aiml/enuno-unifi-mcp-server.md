@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The enuno/unifi-mcp-server is an open-source project that utilizes the official UniFi API to create a MCP (Multi-Controller Proxy) server. This server enables advanced automation, monitoring, and control of UniFi networks, leveraging the power of the UniFi API. By utilizing AI/ML and backend technologies, the project offers a robust and scalable solution for UniFi network management.
+Here's a brief summary for the open-source project:
+
+The enuno/unifi-mcp-server project is an open-source implementation of an MCP (Master Control Program) server that utilizes the official UniFi API. This project provides a backend solution for integrating with UniFi networks, enabling developers to leverage its power for AI/ML applications and more. By tapping into the UniFi API, users can access a wealth of network data and insights.
 
 ---
 

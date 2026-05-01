@@ -25,9 +25,9 @@ Trading
 
 ## 📝 Summary
 
-Here's a brief summary for the YoungCan-Wang/Wyckoff-Analysis project:
+Here's a brief summary of the open-source project:
 
-This open-source project enables Wyckoff Analysis of A-share stocks, inspired by the strategies of trader Autumn (秋生trader) from Hoyooyoo. It provides a framework for applying the Wyckoff Method, a technical analysis technique, to analyze and predict stock market trends. By leveraging this project, users can gain insights into A-share stock movements and make more informed investment decisions.
+The Wyckoff-Analysis project applies the Wyckoff method to analyze A-share stocks, inspired by the trading strategies of autumn-born trader Hoyooyoo. This open-source tool aims to provide a practical application of the Wyckoff principle, a renowned market analysis technique. By leveraging the Wyckoff method, users can gain insights into market trends and patterns.
 
 ---
 

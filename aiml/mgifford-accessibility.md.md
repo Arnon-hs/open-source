@@ -25,7 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-ACCESSIBILITY.md is an open-source project that provides a simple, standardized format for guiding AI and ML coding agents to prioritize accessibility. By aligning with AGENTS.md, this project aims to promote inclusivity and equal access to information. It caters to the frontend aspect, ensuring that digital experiences are designed with accessibility in mind.
+Here's a brief summary for the open-source project:
+
+ACCESSIBILITY.md is a simple, open format that helps guide coding agents, such as AI and machine learning models, to prioritize accessibility. Aligned with the AGENTS.md format, it provides a framework for developers to create more inclusive and user-friendly digital experiences. This project aims to promote accessibility in AI-driven coding and frontend development.
 
 ---
 

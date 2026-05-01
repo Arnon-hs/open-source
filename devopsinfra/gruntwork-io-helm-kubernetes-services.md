@@ -25,9 +25,7 @@ DevOps/Infra · Product
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The gruntwork-io/helm-kubernetes-services project provides a set of pre-built Helm charts that simplify the packaging and deployment of applications on Kubernetes. These charts enable developers to easily create production-ready deployments for their applications, reducing the complexity and time involved in setting up and managing Kubernetes environments. By leveraging these charts, developers can focus on building and scaling their applications, rather than wrestling with underlying infrastructure.
+The gruntwork-io/helm-kubernetes-services project provides an open-source collection of Helm charts designed to help package applications for production-ready deployments on Kubernetes. This set of charts enables users to streamline the process of deploying applications to Kubernetes environments with minimal configuration and effort. By leveraging these Helm charts, developers can focus on writing code rather than managing infrastructure details.
 
 ---
 

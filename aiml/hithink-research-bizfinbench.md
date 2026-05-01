@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The BizFinBench project is an open-source initiative that aims to provide a business-driven real-world financial benchmark for evaluating Large Language Models (LLMs). This benchmark is designed to assess the capabilities of LLMs in handling complex financial tasks, enabling developers to evaluate and improve their models' performance in this domain. By offering a standardized and practical evaluation framework, BizFinBench facilitates the advancement of LLMs in financial applications.
+The BizFinBench project is an open-source, business-driven benchmark for evaluating the performance of Large Language Models (LLMs) in real-world financial applications. This comprehensive benchmark provides a set of financial datasets and evaluation metrics, enabling developers to assess the capabilities and limitations of their LLMs in tasks such as financial text analysis, forecasting, and decision-making. By leveraging BizFinBench, the LLM development community can advance the state-of-the-art in AI-driven financial applications.
 
 ---
 

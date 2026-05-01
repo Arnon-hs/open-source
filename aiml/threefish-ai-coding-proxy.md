@@ -27,7 +27,7 @@ AI/ML
 
 Here's a brief summary for the ThreeFish-AI/coding-proxy project:
 
-The ThreeFish-AI/coding-proxy is an open-source, high-availability proxy that seamlessly integrates with various AI coding tools, including Claude, GitHub Copilot, and Google Antigravity. This multi-vendor proxy enhances transparency and provides a unified interface for developers to access a wide range of AI-powered coding solutions. By supporting multiple AI tools, it streamlines the coding experience and promotes collaboration.
+The ThreeFish-AI/coding-proxy is an open-source, high-availability proxy designed to support multiple AI coding tools, including Claude Code, GitHub Copilot, and more. It features transparent and smart routing capabilities, ensuring seamless integration and access to a wide range of AI services across various plans and providers. This project aims to simplify the use of AI-powered coding tools for developers, enhancing productivity and efficiency.
 
 ---
 

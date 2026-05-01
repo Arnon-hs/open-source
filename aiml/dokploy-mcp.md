@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The Dokploy/MCP project is an open-source package that integrates Machine Learning and Computer Vision capabilities into the Dokploy framework. This project enables developers to leverage state-of-the-art AI and ML algorithms for a wide range of applications, including image and video processing, object detection, and classification. By utilizing the MCP package, users can tap into advanced ML models and accelerate the development of AI-driven solutions.
+Here's a brief summary for the Dokploy/mcp project:
+
+The Dokploy/mcp project is an open-source package that integrates the Meta Classification Platform (MCP) into the Dokploy ecosystem, enabling users to leverage advanced AI and machine learning capabilities. This integration provides a seamless and efficient way to classify and process data, enhancing overall system performance and productivity. With Dokploy/mcp, users can unlock the full potential of their data analytics and machine learning applications.
 
 ---
 

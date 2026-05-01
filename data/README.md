@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**296 projects** in this category.
+**297 projects** in this category.
 
 ## Projects
 
@@ -303,7 +303,8 @@
 | 293 | [picodata/picodata](./picodata-picodata.md) | ⭐ 112 | Rust | 41/100 |
 | 294 | [zmap/zannotate](./zmap-zannotate.md) | ⭐ 112 | Go | 41/100 |
 | 295 | [sergiodlopes/flexdatalist](./sergiodlopes-flexdatalist.md) | ⭐ 364 | JavaScript | 40/100 |
-| 296 | [ramongougis/WaveletLM](./ramongougis-waveletlm.md) | ⭐ 6 | Python | 36/100 |
+| 296 | [diegoscarabelli/garmin-health-data](./diegoscarabelli-garmin-health-data.md) | ⭐ — | — | 39/100 |
+| 297 | [ramongougis/WaveletLM](./ramongougis-waveletlm.md) | ⭐ 6 | Python | 36/100 |
 
 ---
 

@@ -27,7 +27,7 @@ Orchestration · AI/ML
 
 Here's a brief summary for the project:
 
-Project Golem is an open-source, OS-level autonomous AI agent that enables long-term memory and multi-agent coordination. Built with a focus on scalability and reliability, it features the Titan Chronos scheduler and the Moltbot Social Core, allowing for efficient task orchestration and social intelligence. This AI agent is designed to facilitate complex workflows and interactions across multiple agents.
+Project Golem is an open-source, OS-level autonomous AI agent that enables long-term memory and multi-agent coordination. It features a robust scheduling system powered by Titan Chronos and a social core powered by Moltbot, making it a highly capable and adaptable AI infrastructure. This project is ideal for complex orchestration and AI/ML workflows requiring autonomous decision-making and coordination.
 
 ---
 

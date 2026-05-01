@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Dory is an open-source project that aims to provide a memory layer for AI agents. It adopts a local-first approach, utilizing markdown as the source of truth, and is natively supported by various protocols including CLI, HTTP, and MCP. This allows for the efficient management of AI agent memories, preventing issues like forgetting past interactions.
+Dory is an open-source project that provides a unified memory layer for AI agents, allowing them to recall and store information locally. This decentralized approach is based on markdown source of truth, supporting native integration with CLI, HTTP, and MCP protocols. Dory aims to prevent memory loss, ensuring AI agents can recall information and maintain context.
 
 ---
 

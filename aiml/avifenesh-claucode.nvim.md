@@ -27,7 +27,7 @@ AI/ML · DevTools
 
 Here's a brief summary for the avifenesh/claucode.nvim project:
 
-This open-source plugin, avifenesh/claucode.nvim, seamlessly integrates Claude's AI capabilities with your Neovim editor, enabling effortless coding assistance. By bridging the gap between your text editor and Claude's Code CLI, this plugin streamlines the development process and enhances productivity. It's a valuable tool for developers looking to leverage AI-driven coding suggestions and insights directly within their Neovim environment.
+The avifenesh/claucode.nvim plugin seamlessly integrates Neovim with Claude's AI capabilities, providing a bridge between your editor and the powerful Claude Code CLI. This integration enables you to leverage Claude's AI features within your Neovim environment, enhancing your development experience. With claucode.nvim, you can unlock the full potential of Claude's code completion, debugging, and other AI-driven tools directly within your editor.
 
 ---
 

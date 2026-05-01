@@ -25,9 +25,7 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project Zypheron-CLI:
-
-Zypheron-CLI is a powerful, open-source command-line interface for automated security testing, designed to integrate seamlessly into DevSecOps pipelines. This AI-driven tool enables developers to efficiently identify and address security vulnerabilities, ensuring the robustness and reliability of their applications. By automating security testing, Zypheron-CLI streamlines the development process and enhances overall software security.
+The Zypheron-CLI is an open-source, powerful command-line interface designed for automated security testing. This tool seamlessly integrates into DevSecOps pipelines, enabling developers to incorporate security checks into their workflows. By leveraging the Zypheron-CLI, users can streamline security testing and ensure the reliability of their applications.
 
 ---
 

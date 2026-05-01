@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Liquid-rust is an open-source project that brings the Liquid templating engine to the Rust programming language. This frontend library allows developers to render dynamic templates, separating presentation logic from application logic for improved maintainability and scalability. By integrating Liquid templating with Rust, developers can create robust and efficient templating solutions for their web applications.
+Liquid-rust is an open-source templating engine for Rust, allowing developers to use Liquid templates to render dynamic content in their Rust applications. This library provides a seamless integration of Liquid templating syntax with Rust's syntax, enabling developers to write efficient and maintainable templates. By utilizing liquid-rust, developers can easily separate presentation logic from application logic, improving the overall structure and readability of their code.
 
 ---
 

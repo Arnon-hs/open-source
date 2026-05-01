@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Newbrew project:
-
-Newbrew is an open-source, text-based user interface (TUI) tool that enables users to discover recent additions to the Homebrew formula repository. Developed from a discovery on Hacker News, this project leverages GitHub mentions to provide users with a curated feed of newly added formulas. By harnessing the power of open-source collaboration, Newbrew empowers the Homebrew community to explore and engage with the latest brews.
+Newbrew is an open-source terminal user interface (TUI) project that helps users discover recent additions to the Homebrew formula collection. Built on the concept of Hacker News- style mentions, Newbrew provides a simple and intuitive way for users to stay up-to-date with the latest Homebrew formula additions. This project is perfect for developers and users who want to easily explore and integrate new formulas into their Homebrew setup.
 
 ---
 

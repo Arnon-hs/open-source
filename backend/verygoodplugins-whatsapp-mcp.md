@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The WhatsApp MCP server, developed by verygoodplugins, is an open-source project that enables seamless communication between Claude and WhatsApp. This backend-focused solution allows users to read and send messages on WhatsApp via Claude, bridging the gap between these platforms. By utilizing this MCP server, developers can integrate Claude with WhatsApp for enhanced messaging capabilities.
+This open-source project, WhatsApp MCP server, enables seamless integration of Claude with the WhatsApp messaging platform. It facilitates the reading and sending of messages, bridging the gap between Claude's capabilities and the vast user base of WhatsApp. This integration empowers Claude users to leverage the full potential of WhatsApp for various use cases, such as customer support, marketing, or personal communication.
 
 ---
 
