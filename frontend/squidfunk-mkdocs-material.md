@@ -25,7 +25,7 @@ Frontend · Design
 
 ## 📝 Summary
 
-The squidfunk/mkdocs-material project provides a simple and effective documentation solution using the Material Design aesthetic. Built on top of the popular MkDocs framework, it enables users to create high-quality, visually appealing documentation with minimal effort. This open-source project is ideal for developers and teams seeking to create professional-looking documentation for their projects.
+The squidfunk/mkdocs-material project is an open-source, Material Design-themed documentation generator for technical documentation. It leverages the power of MkDocs, a static site generator, to create elegant and well-structured documentation that is easy to maintain and navigate. With this project, developers can create professional-looking documentation for their projects without requiring extensive design or coding expertise.
 
 ---
 

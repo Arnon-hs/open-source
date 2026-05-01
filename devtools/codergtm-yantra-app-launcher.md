@@ -25,9 +25,7 @@ DevTools · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the yantra-app-launcher project:
-
-Yantra-app-launcher is an open-source, minimal CLI-based Android app launcher designed for developers. This lightweight tool provides a straightforward way to launch Android apps from the command line, simplifying the development process and streamlining testing workflows. By leveraging CLI functionality, users can efficiently manage and interact with their Android apps.
+The yantra-app-launcher is an open-source, minimal command-line interface (CLI) based Android app launcher. This project provides a simple and efficient way to launch Android apps from the terminal, making it a useful tool for developers and system administrators. It offers a streamlined approach to app management, ideal for users who prefer a text-based interface.
 
 ---
 

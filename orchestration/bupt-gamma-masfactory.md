@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the BUPT-GAMMA/MASFactory project:
-
-BUPT-GAMMA/MASFactory is an open-source, graph-centric framework for orchestrating complex multi-agent systems. It utilizes Vibe Graphing to provide a scalable and efficient platform for managing and analyzing interactions among multiple agents. This framework enables researchers and developers to design, deploy, and manage sophisticated AI/ML applications with ease.
+The BUPT-GAMMA/MASFactory project is an open-source, graph-centric framework designed to orchestrate complex Multi-Agent Systems (MAS) with real-time visualization capabilities through Vibe Graphing. This framework enables efficient coordination and management of multiple agents, facilitating scalable and flexible MAS development. By leveraging graph-centric approaches, developers can create and analyze dynamic agent interactions and relationships.
 
 ---
 

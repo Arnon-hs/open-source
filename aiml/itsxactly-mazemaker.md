@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here is a brief summary for the itsXactlY/mazemaker project:
 
-The itsXactlY/mazemaker project is an open-source semantic memory system designed for the Hermes Agent, incorporating advanced AI and ML techniques. This system utilizes a knowledge graph, spreading activation, and embedding-based recall to support the agent's learning and decision-making processes. It also features autonomous dream consolidation and C++ LSTM+kNN pattern learning capabilities, enabling the agent to adapt and improve over time.
+The itsXactlY/mazemaker project is an open-source semantic memory system designed for the Hermes Agent, leveraging a knowledge graph and advanced AI/ML techniques such as spreading activation, embedding-based recall, and LSTM+kNN pattern learning. This system enables autonomous dream consolidation, allowing the agent to learn and refine its knowledge over time. By utilizing C++ and a combination of AI/ML algorithms, the project aims to create a sophisticated and adaptive memory system for artificial intelligence applications.
 
 ---
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The k-dense-byok project is an open-source AI co-scientist that utilizes Scientific Agent Skills to empower users with advanced desktop-based artificial intelligence capabilities. This project enables seamless orchestration and integration of AI/ML functionalities, streamlining the development and deployment of intelligent systems. By harnessing the power of Scientific Agent Skills, k-dense-byok facilitates a collaborative approach to AI research and innovation.
+The k-dense-byok project is an open-source, desktop-based AI co-scientist that leverages Scientific Agent Skills to facilitate collaboration between humans and AI in various scientific endeavors. By harnessing the power of AI/ML, this platform enables users to streamline complex tasks and accelerate discovery. This orchestration tool empowers users to work alongside AI co-scientists, unlocking new possibilities in research and development.
 
 ---
 

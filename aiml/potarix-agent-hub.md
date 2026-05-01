@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Agent-Hub is an open-source project that provides a centralized platform for interacting with various agents, simplifying communication and management across different tools and technologies. This AI/ML and frontend-focused project enables users to connect to all their agents from a single interface, streamlining workflows and enhancing productivity. By consolidating agent interactions, Agent-Hub facilitates easier integration, development, and maintenance of AI-powered applications and tools.
+Agent-Hub is an open-source project that consolidates communication with multiple agents into a single interface. It serves as a central hub for interacting with various agents, streamlining the process and improving efficiency. By unifying agent interactions, Agent-Hub facilitates seamless collaboration and development in AI/ML and other related fields.
 
 ---
 

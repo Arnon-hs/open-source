@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The all-contributors project is an open-source initiative that aims to acknowledge and recognize all types of contributors to a project, beyond just code pushers. This includes documentation writers, designers, testers, and more. The project provides a website and documentation to support the all-contributors bot, which helps to give due recognition to the diverse range of individuals contributing to a project.
+The all-contributors/allcontributors.org project is an open-source initiative that aims to recognize and celebrate all types of contributors to a project, not just those who write code. This platform provides a bot and documentation to help acknowledge contributors' diverse roles, such as designers, writers, and community managers, in the development process. By promoting inclusivity, the project encourages appreciation for the multifaceted efforts that drive project success.
 
 ---
 

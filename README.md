@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **13731** |
+| 🗂️ **Total projects** | **13783** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5198 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2728 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1331 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1035 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 844 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 820 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 484 | [Browse →](./crypto/) |
-| 📊 **Data** | 316 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 298 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 5214 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2744 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1340 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1036 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 846 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 822 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 485 | [Browse →](./crypto/) |
+| 📊 **Data** | 317 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 301 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 172 | [Browse →](./mobile/) |
 | 💳 **Payments** | 150 | [Browse →](./payments/) |
 | 📈 **Trading** | 141 | [Browse →](./trading/) |
-| 🔐 **Security** | 115 | [Browse →](./security/) |
+| 🔐 **Security** | 116 | [Browse →](./security/) |
 | ✨ **Design** | 44 | [Browse →](./design/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 26 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [VoltAgent/awesome-design-md](./aiml/voltagent-awesome-design-md.md) | ⭐ 69.1k | AI/ML |
-| 2 | [jestjs/jest](./aiml/jestjs-jest.md) | ⭐ 45.3k | AI/ML |
-| 3 | [Dokploy/dokploy](./frontend/dokploy-dokploy.md) | ⭐ 33.7k | Frontend |
-| 4 | [CorentinTh/it-tools](./frontend/corentinth-it-tools.md) | ⭐ 38.3k | Frontend |
-| 5 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 6 | [Stirling-Tools/Stirling-PDF](./devopsinfra/stirling-tools-stirling-pdf.md) | ⭐ 78.1k | DevOps & Infra |
-| 7 | [xbmc/xbmc](./aiml/xbmc-xbmc.md) | ⭐ 20.7k | AI/ML |
-| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 9 | [iii-hq/iii](./aiml/iii-hq-iii.md) | ⭐ 15.5k | AI/ML |
-| 10 | [Qiskit/qiskit](./trading/qiskit-qiskit.md) | ⭐ 7.3k | Trading |
+| 1 | [jestjs/jest](./aiml/jestjs-jest.md) | ⭐ 45.3k | AI/ML |
+| 2 | [VoltAgent/awesome-design-md](./aiml/voltagent-awesome-design-md.md) | ⭐ 69.1k | AI/ML |
+| 3 | [influxdata/influxdb](./frontend/influxdata-influxdb.md) | ⭐ 31.5k | Frontend |
+| 4 | [Dokploy/dokploy](./frontend/dokploy-dokploy.md) | ⭐ 33.7k | Frontend |
+| 5 | [CorentinTh/it-tools](./frontend/corentinth-it-tools.md) | ⭐ 38.3k | Frontend |
+| 6 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 7 | [Stirling-Tools/Stirling-PDF](./devopsinfra/stirling-tools-stirling-pdf.md) | ⭐ 78.1k | DevOps & Infra |
+| 8 | [xbmc/xbmc](./aiml/xbmc-xbmc.md) | ⭐ 20.7k | AI/ML |
+| 9 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 10 | [iii-hq/iii](./aiml/iii-hq-iii.md) | ⭐ 15.5k | AI/ML |
 
 ## 🚀 How it works
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The DigitalArchivist/Open-Genealogy project is an open-source collection of genealogy resources, designed to streamline the process of family history research and organization. Leveraging orchestration and AI/ML techniques, this platform aims to automate and optimize the discovery and analysis of genealogical data. By providing a centralized hub for genealogists, it seeks to enhance research efficiency and collaboration.
+The Open-Genealogy project is an open-source initiative that brings together a collection of genealogy resources, aiming to facilitate the discovery, management, and analysis of family histories. By leveraging orchestration and AI/ML technologies, this platform seeks to simplify the genealogical research process, providing users with efficient tools and insights to explore their ancestral roots. This collaborative effort promotes the preservation and sharing of family histories and cultural heritage.
 
 ---
 

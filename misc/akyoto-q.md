@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Akyoto/q is an open-source, minimal programming language and compiler designed for simplicity and ease of use. It is a compact and lightweight language that aims to provide a straightforward and intuitive experience for developers. By mirroring the simplicity of its design, the akyoto/q project offers a unique alternative for users seeking a hassle-free development environment.
+Akyoto/q is an open-source, minimal programming language with a compiler. It aims to provide a lightweight and efficient platform for building applications. This project serves as a mirror of the original implementation, offering a versatile tool for developers to experiment and build upon.
 
 ---
 

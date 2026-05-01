@@ -25,9 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-The GMod Patch Tool is an open-source project that provides patches for Garry's Mod, a popular game modification for Half-Life 2. This tool aims to improve and update the CEF (Chromium Embedded Framework) component, as well as resolve common launch and performance issues, particularly on Linux, Proton, and macOS platforms. By addressing these issues, the tool enhances the overall gaming experience for users.
+The GModPatchTool is an open-source project that provides patches for Garry's Mod, enhancing performance and fixing common issues, particularly on Linux, Proton, and macOS environments. This tool updates and improves the CEF (Chrome Embedded Framework) component, ensuring a smoother gaming experience. By using the GModPatchTool, users can optimize their game's launch and performance.
 
 ---
 

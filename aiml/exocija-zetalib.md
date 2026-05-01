@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-I'm unable to verify this project's details. However, based on the information given, here's a possible summary:
-
-The Gay Jailbreak Technique is an open-source project that utilizes AI/ML to address a specific challenge. While I couldn't find more information about the project's purpose, it appears to stem from a discovery shared on Hacker News. This project may provide a novel solution to a particular problem, but its exact nature and applications are unclear without further context.
+I couldn't find any information about the "Gay Jailbreak Technique" and its connection to Hacker News or GitHub. It's possible that the project doesn't exist or is not publicly available.
 
 ---
 

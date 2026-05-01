@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-UniClaude is an open-source project that integrates Claude Code, a powerful AI platform, natively within the Unity Editor. This innovative tool provides a dockable chat window with real-time project awareness, offering users access to over 60 McIntosh Code Project (MCP) tools and streamlining workflows without the need for constant switching between applications.
+UniClaude is an open-source project that provides a seamless integration of Claude Code within the Unity Editor, enabling developers to work more efficiently. This dockable chat window offers full project awareness and access to over 60 Machine-First Code (MCP) tools, eliminating the need for constant switching between applications. By combining these features, UniClaude streamlines the development process, allowing users to stay focused and productive.
 
 ---
 

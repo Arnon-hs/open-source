@@ -25,7 +25,7 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-The VoltAgent/awesome-design-md project offers a library of pre-designed DESIGN.md files, each inspired by popular brand design systems. By incorporating one of these templates into your project, AI-powered coding agents can generate a matching user interface, streamlining the design-to-code process. This open-source collection aims to accelerate frontend development and facilitate collaboration between designers and developers.
+VoltAgent's 'awesome-design-md' is an open-source project that provides a collection of DESIGN.md files, inspired by popular brand design systems. By incorporating these files into a project, developers can leverage coding agents to generate a matching user interface, streamlining the design process. This innovative approach combines AI/ML, frontend, and design to simplify and accelerate UI development.
 
 ---
 

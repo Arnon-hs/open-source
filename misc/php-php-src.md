@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The php/php-src project is an open-source implementation of the PHP interpreter, a high-performance, server-side scripting language used for web development. It allows developers to execute PHP code directly, enabling the creation of dynamic web applications and services. This project provides a comprehensive and customizable foundation for building, running, and extending PHP-based applications.
+The php/php-src project is an open-source PHP interpreter that provides a high-performance, server-side scripting language for web development. It enables developers to create dynamic web content and applications using a vast array of libraries and frameworks, making it a foundational component of many web applications. The PHP interpreter is written in C and C++ and is widely used across the web development industry.
 
 ---
 
