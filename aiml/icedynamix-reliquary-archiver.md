@@ -1,6 +1,6 @@
 # IceDynamix/reliquary-archiver
 
-[![Stars](https://img.shields.io/github/stars/IceDynamix/reliquary-archiver?style=flat-square&color=yellow)](https://github.com/IceDynamix/reliquary-archiver/stargazers) [![Forks](https://img.shields.io/github/forks/IceDynamix/reliquary-archiver?style=flat-square&color=blue)](https://github.com/IceDynamix/reliquary-archiver/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IceDynamix/reliquary-archiver?style=flat-square&color=yellow)](https://github.com/IceDynamix/reliquary-archiver/stargazers) [![Forks](https://img.shields.io/github/forks/IceDynamix/reliquary-archiver?style=flat-square&color=blue)](https://github.com/IceDynamix/reliquary-archiver/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > tool to create a relic export from network packets of a certain turn-based anime game
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 380 |
+| ⭐ **Stars** | 379 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

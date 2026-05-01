@@ -1,6 +1,6 @@
 # oh-jon-paul/awesome-i18n
 
-[![Stars](https://img.shields.io/github/stars/oh-jon-paul/awesome-i18n?style=flat-square&color=yellow)](https://github.com/oh-jon-paul/awesome-i18n/stargazers) [![Forks](https://img.shields.io/github/forks/oh-jon-paul/awesome-i18n?style=flat-square&color=blue)](https://github.com/oh-jon-paul/awesome-i18n/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oh-jon-paul/awesome-i18n?style=flat-square&color=yellow)](https://github.com/oh-jon-paul/awesome-i18n/stargazers) [![Forks](https://img.shields.io/github/forks/oh-jon-paul/awesome-i18n?style=flat-square&color=blue)](https://github.com/oh-jon-paul/awesome-i18n/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🌍 A curated list of i18n resources for all kind of languages and frameworks
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 402 |
+| ⭐ **Stars** | 403 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

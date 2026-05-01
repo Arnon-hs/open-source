@@ -1,6 +1,6 @@
 # 7mind/izumi
 
-[![Stars](https://img.shields.io/github/stars/7mind/izumi?style=flat-square&color=yellow)](https://github.com/7mind/izumi/stargazers) [![Forks](https://img.shields.io/github/forks/7mind/izumi?style=flat-square&color=blue)](https://github.com/7mind/izumi/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/7mind/izumi?style=flat-square&color=yellow)](https://github.com/7mind/izumi/stargazers) [![Forks](https://img.shields.io/github/forks/7mind/izumi?style=flat-square&color=blue)](https://github.com/7mind/izumi/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Productivity-oriented collection of lightweight fancy stuff for Scala toolchain
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 629 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

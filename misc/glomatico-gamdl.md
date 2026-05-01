@@ -1,6 +1,6 @@
 # glomatico/gamdl
 
-[![Stars](https://img.shields.io/github/stars/glomatico/gamdl?style=flat-square&color=yellow)](https://github.com/glomatico/gamdl/stargazers) [![Forks](https://img.shields.io/github/forks/glomatico/gamdl?style=flat-square&color=blue)](https://github.com/glomatico/gamdl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/glomatico/gamdl?style=flat-square&color=yellow)](https://github.com/glomatico/gamdl/stargazers) [![Forks](https://img.shields.io/github/forks/glomatico/gamdl?style=flat-square&color=blue)](https://github.com/glomatico/gamdl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A command-line app for downloading Apple Music songs, music videos and post videos.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

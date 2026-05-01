@@ -1,6 +1,6 @@
 # beryllium-org/Micro
 
-[![Stars](https://img.shields.io/github/stars/beryllium-org/Micro?style=flat-square&color=yellow)](https://github.com/beryllium-org/Micro/stargazers) [![Forks](https://img.shields.io/github/forks/beryllium-org/Micro?style=flat-square&color=blue)](https://github.com/beryllium-org/Micro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beryllium-org/Micro?style=flat-square&color=yellow)](https://github.com/beryllium-org/Micro/stargazers) [![Forks](https://img.shields.io/github/forks/beryllium-org/Micro?style=flat-square&color=blue)](https://github.com/beryllium-org/Micro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Beryllium OS Micro, a unix-like operating system for CircuitPython powered microcontrollers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 320 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

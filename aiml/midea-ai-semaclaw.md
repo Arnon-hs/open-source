@@ -1,6 +1,6 @@
 # midea-ai/SemaClaw
 
-[![Stars](https://img.shields.io/github/stars/midea-ai/SemaClaw?style=flat-square&color=yellow)](https://github.com/midea-ai/SemaClaw/stargazers) [![Forks](https://img.shields.io/github/forks/midea-ai/SemaClaw?style=flat-square&color=blue)](https://github.com/midea-ai/SemaClaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/midea-ai/SemaClaw?style=flat-square&color=yellow)](https://github.com/midea-ai/SemaClaw/stargazers) [![Forks](https://img.shields.io/github/forks/midea-ai/SemaClaw?style=flat-square&color=blue)](https://github.com/midea-ai/SemaClaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > SemaClaw is an open-source framework for general-purpose personal AI agents.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 52 |
+| ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

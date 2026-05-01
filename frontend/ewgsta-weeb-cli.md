@@ -1,6 +1,6 @@
 # ewgsta/weeb-cli
 
-[![Stars](https://img.shields.io/github/stars/ewgsta/weeb-cli?style=flat-square&color=yellow)](https://github.com/ewgsta/weeb-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ewgsta/weeb-cli?style=flat-square&color=blue)](https://github.com/ewgsta/weeb-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ewgsta/weeb-cli?style=flat-square&color=yellow)](https://github.com/ewgsta/weeb-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ewgsta/weeb-cli?style=flat-square&color=blue)](https://github.com/ewgsta/weeb-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > No browser, no ads, no distractions. Just you and an unparalleled anime viewing experience.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

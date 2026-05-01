@@ -1,6 +1,6 @@
 # presenton/presenton
 
-[![Stars](https://img.shields.io/github/stars/presenton/presenton?style=flat-square&color=yellow)](https://github.com/presenton/presenton/stargazers) [![Forks](https://img.shields.io/github/forks/presenton/presenton?style=flat-square&color=blue)](https://github.com/presenton/presenton/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/presenton/presenton?style=flat-square&color=yellow)](https://github.com/presenton/presenton/stargazers) [![Forks](https://img.shields.io/github/forks/presenton/presenton?style=flat-square&color=blue)](https://github.com/presenton/presenton/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
 
 > Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 951 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | JavaScript |
 | 📈 **Score** | 98/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

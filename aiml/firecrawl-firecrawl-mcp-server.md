@@ -1,6 +1,6 @@
 # firecrawl/firecrawl-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server?style=flat-square&color=yellow)](https://github.com/firecrawl/firecrawl-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/firecrawl/firecrawl-mcp-server?style=flat-square&color=blue)](https://github.com/firecrawl/firecrawl-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server?style=flat-square&color=yellow)](https://github.com/firecrawl/firecrawl-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/firecrawl/firecrawl-mcp-server?style=flat-square&color=blue)](https://github.com/firecrawl/firecrawl-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.2k |
-| 🍴 **Forks** | 699 |
+| 🍴 **Forks** | 700 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

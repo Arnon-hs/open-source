@@ -1,8 +1,8 @@
 # nearai/ironclaw
 
-[![Stars](https://img.shields.io/github/stars/nearai/ironclaw?style=flat-square&color=yellow)](https://github.com/nearai/ironclaw/stargazers) [![Forks](https://img.shields.io/github/forks/nearai/ironclaw?style=flat-square&color=blue)](https://github.com/nearai/ironclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nearai/ironclaw?style=flat-square&color=yellow)](https://github.com/nearai/ironclaw/stargazers) [![Forks](https://img.shields.io/github/forks/nearai/ironclaw?style=flat-square&color=blue)](https://github.com/nearai/ironclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
-> IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
+> IronClaw is an Agent OS focused on privacy, security and extensibility
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.1k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

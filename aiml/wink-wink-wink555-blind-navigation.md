@@ -1,6 +1,6 @@
 # wink-wink-wink555/blind_navigation
 
-[![Stars](https://img.shields.io/github/stars/wink-wink-wink555/blind_navigation?style=flat-square&color=yellow)](https://github.com/wink-wink-wink555/blind_navigation/stargazers) [![Forks](https://img.shields.io/github/forks/wink-wink-wink555/blind_navigation?style=flat-square&color=blue)](https://github.com/wink-wink-wink555/blind_navigation/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wink-wink-wink555/blind_navigation?style=flat-square&color=yellow)](https://github.com/wink-wink-wink555/blind_navigation/stargazers) [![Forks](https://img.shields.io/github/forks/wink-wink-wink555/blind_navigation?style=flat-square&color=blue)](https://github.com/wink-wink-wink555/blind_navigation/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Travel Assistance System for the Visually Impaired (ARIADNE) is an AI-powered solution designed to enhance mobility for visually impaired individuals by combining real-time video analysis with voice-guided navigation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

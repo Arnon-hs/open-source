@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/PCIRCLE-AI/toonify-mcp?style=flat-square&color=yellow)](https://github.com/PCIRCLE-AI/toonify-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/PCIRCLE-AI/toonify-mcp?style=flat-square&color=blue)](https://github.com/PCIRCLE-AI/toonify-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
-> Automatic token optimization for Claude Code and MCP workflows, including structured data and source code compression.
+> Local context compression for Claude Code large outputs, debug traces, and source files.
 
 ## 📊 Stats
 

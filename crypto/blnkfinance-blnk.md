@@ -1,6 +1,6 @@
 # blnkfinance/blnk
 
-[![Stars](https://img.shields.io/github/stars/blnkfinance/blnk?style=flat-square&color=yellow)](https://github.com/blnkfinance/blnk/stargazers) [![Forks](https://img.shields.io/github/forks/blnkfinance/blnk?style=flat-square&color=blue)](https://github.com/blnkfinance/blnk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blnkfinance/blnk?style=flat-square&color=yellow)](https://github.com/blnkfinance/blnk/stargazers) [![Forks](https://img.shields.io/github/forks/blnkfinance/blnk?style=flat-square&color=blue)](https://github.com/blnkfinance/blnk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Blnk is an open-source ledger & financial core for shipping fintech products fast.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 410 |
-| 🍴 **Forks** | 108 |
+| 🍴 **Forks** | 109 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

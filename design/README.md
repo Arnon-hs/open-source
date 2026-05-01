@@ -2,14 +2,14 @@
 
 > Design tools, UX, creative software
 
-**41 projects** in this category.
+**42 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.2k | JavaScript | 100/100 |
-| 2 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
+| 1 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
+| 2 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.2k | JavaScript | 100/100 |
 | 3 | [cheat/cheat](./cheat-cheat.md) | ⭐ 13.3k | Go | 98/100 |
 | 4 | [roboflow/rf-detr](./roboflow-rf-detr.md) | ⭐ 6.8k | Python | 97/100 |
 | 5 | [dotnet/csharplang](./dotnet-csharplang.md) | ⭐ 12.6k | C# | 93/100 |
@@ -35,20 +35,21 @@
 | 25 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
 | 26 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
 | 27 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 226 | Go | 52/100 |
-| 28 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 602 | PHP | 50/100 |
-| 29 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 50/100 |
-| 30 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 451 | JavaScript | 49/100 |
-| 31 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 282 | Go | 49/100 |
-| 32 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
+| 28 | [JuliaDSP/DSP.jl](./juliadsp-dsp.jl.md) | ⭐ 416 | Julia | 51/100 |
+| 29 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 602 | PHP | 50/100 |
+| 30 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 50/100 |
+| 31 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 451 | JavaScript | 49/100 |
+| 32 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 282 | Go | 49/100 |
 | 33 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
 | 34 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
-| 35 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
-| 36 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 45/100 |
-| 37 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 141 | Rust | 43/100 |
-| 38 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
-| 39 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 43/100 |
-| 40 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
-| 41 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 404 | TypeScript | 43/100 |
+| 35 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
+| 36 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
+| 37 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 45/100 |
+| 38 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 141 | Rust | 43/100 |
+| 39 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
+| 40 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 43/100 |
+| 41 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
+| 42 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 404 | TypeScript | 43/100 |
 
 ---
 

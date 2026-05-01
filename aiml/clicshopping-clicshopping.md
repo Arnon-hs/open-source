@@ -1,6 +1,6 @@
 # ClicShopping/ClicShopping
 
-[![Stars](https://img.shields.io/github/stars/ClicShopping/ClicShopping?style=flat-square&color=yellow)](https://github.com/ClicShopping/ClicShopping/stargazers) [![Forks](https://img.shields.io/github/forks/ClicShopping/ClicShopping?style=flat-square&color=blue)](https://github.com/ClicShopping/ClicShopping/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ClicShopping/ClicShopping?style=flat-square&color=yellow)](https://github.com/ClicShopping/ClicShopping/stargazers) [![Forks](https://img.shields.io/github/forks/ClicShopping/ClicShopping?style=flat-square&color=blue)](https://github.com/ClicShopping/ClicShopping/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > ClicShopping AI(tm) is OpenSource and powerfull Solution AI  e-commerce B2B / B2C / B2B-B2C  agentic. The solution is based on a modern, responsive design that will allow you to have a great website on all mobile device, desktop and easy to install.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

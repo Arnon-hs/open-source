@@ -1,17 +1,17 @@
 # jtc268/glowgoblin
 
-[![Stars](https://img.shields.io/github/stars/jtc268/glowgoblin?style=flat-square&color=yellow)](https://github.com/jtc268/glowgoblin/stargazers) [![Forks](https://img.shields.io/github/forks/jtc268/glowgoblin?style=flat-square&color=blue)](https://github.com/jtc268/glowgoblin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jtc268/glowgoblin?style=flat-square&color=yellow)](https://github.com/jtc268/glowgoblin/stargazers) [![Forks](https://img.shields.io/github/forks/jtc268/glowgoblin?style=flat-square&color=blue)](https://github.com/jtc268/glowgoblin/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Hidden macOS XDR brightness booster for MacBook Pro
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Swift |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

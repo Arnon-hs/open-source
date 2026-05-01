@@ -1,6 +1,6 @@
 # meriyah/meriyah
 
-[![Stars](https://img.shields.io/github/stars/meriyah/meriyah?style=flat-square&color=yellow)](https://github.com/meriyah/meriyah/stargazers) [![Forks](https://img.shields.io/github/forks/meriyah/meriyah?style=flat-square&color=blue)](https://github.com/meriyah/meriyah/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meriyah/meriyah?style=flat-square&color=yellow)](https://github.com/meriyah/meriyah/stargazers) [![Forks](https://img.shields.io/github/forks/meriyah/meriyah?style=flat-square&color=blue)](https://github.com/meriyah/meriyah/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

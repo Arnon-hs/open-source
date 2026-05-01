@@ -1,6 +1,6 @@
 # ParisNeo/lollms-webui
 
-[![Stars](https://img.shields.io/github/stars/ParisNeo/lollms-webui?style=flat-square&color=yellow)](https://github.com/ParisNeo/lollms-webui/stargazers) [![Forks](https://img.shields.io/github/forks/ParisNeo/lollms-webui?style=flat-square&color=blue)](https://github.com/ParisNeo/lollms-webui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ParisNeo/lollms-webui?style=flat-square&color=yellow)](https://github.com/ParisNeo/lollms-webui/stargazers) [![Forks](https://img.shields.io/github/forks/ParisNeo/lollms-webui?style=flat-square&color=blue)](https://github.com/ParisNeo/lollms-webui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Lord of Large Language and Multi modal Systems Web User Interface
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 582 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

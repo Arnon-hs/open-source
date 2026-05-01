@@ -1,6 +1,6 @@
 # rust-lang/compiler-builtins
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/compiler-builtins?style=flat-square&color=yellow)](https://github.com/rust-lang/compiler-builtins/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/compiler-builtins?style=flat-square&color=blue)](https://github.com/rust-lang/compiler-builtins/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/compiler-builtins?style=flat-square&color=yellow)](https://github.com/rust-lang/compiler-builtins/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/compiler-builtins?style=flat-square&color=blue)](https://github.com/rust-lang/compiler-builtins/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Rust implementations of compiler-rt and libm
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 490 |
-| 🍴 **Forks** | 271 |
+| 🍴 **Forks** | 272 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

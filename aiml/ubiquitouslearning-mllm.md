@@ -1,6 +1,6 @@
 # UbiquitousLearning/mllm
 
-[![Stars](https://img.shields.io/github/stars/UbiquitousLearning/mllm?style=flat-square&color=yellow)](https://github.com/UbiquitousLearning/mllm/stargazers) [![Forks](https://img.shields.io/github/forks/UbiquitousLearning/mllm?style=flat-square&color=blue)](https://github.com/UbiquitousLearning/mllm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UbiquitousLearning/mllm?style=flat-square&color=yellow)](https://github.com/UbiquitousLearning/mllm/stargazers) [![Forks](https://img.shields.io/github/forks/UbiquitousLearning/mllm?style=flat-square&color=blue)](https://github.com/UbiquitousLearning/mllm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Fast Multimodal LLM on Mobile Devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
