@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**289 projects** in this category.
+**290 projects** in this category.
 
 ## Projects
 
@@ -276,27 +276,28 @@
 | 266 | [signalfx/splunk-otel-collector-chart](./signalfx-splunk-otel-collector-chart.md) | ⭐ 154 | Go | 44/100 |
 | 267 | [cloudfoundry/korifi](./cloudfoundry-korifi.md) | ⭐ 398 | Go | 44/100 |
 | 268 | [gruntwork-io/helm-kubernetes-services](./gruntwork-io-helm-kubernetes-services.md) | ⭐ 210 | Go | 44/100 |
-| 269 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ 377 | Rust | 43/100 |
-| 270 | [vmware-tanzu/vm-operator](./vmware-tanzu-vm-operator.md) | ⭐ 129 | Go | 42/100 |
-| 271 | [NVIDIA/ncx-infra-controller-core](./nvidia-ncx-infra-controller-core.md) | ⭐ 139 | Rust | 42/100 |
-| 272 | [valkey-io/valkey-operator](./valkey-io-valkey-operator.md) | ⭐ 182 | Go | 42/100 |
-| 273 | [operator-framework/operator-controller](./operator-framework-operator-controller.md) | ⭐ 198 | Go | 42/100 |
-| 274 | [mongodb/mongodb-kubernetes](./mongodb-mongodb-kubernetes.md) | ⭐ 180 | Go | 42/100 |
-| 275 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 139 | Rust | 42/100 |
-| 276 | [submariner-io/lighthouse](./submariner-io-lighthouse.md) | ⭐ 149 | Go | 42/100 |
-| 277 | [pulumi/pulumi-cloudflare](./pulumi-pulumi-cloudflare.md) | ⭐ 148 | Go | 41/100 |
-| 278 | [ricardomaraschini/oomhero](./ricardomaraschini-oomhero.md) | ⭐ 111 | Rust | 41/100 |
-| 279 | [zeroecco/holos](./zeroecco-holos.md) | ⭐ 132 | Go | 41/100 |
-| 280 | [kubermatic/kubelb](./kubermatic-kubelb.md) | ⭐ 143 | Go | 41/100 |
-| 281 | [pulumi/pulumi-terraform](./pulumi-pulumi-terraform.md) | ⭐ 118 | Go | 41/100 |
-| 282 | [kubernetes/kube-proxy](./kubernetes-kube-proxy.md) | ⭐ 206 | Go | 40/100 |
-| 283 | [kubernetes/kube-scheduler](./kubernetes-kube-scheduler.md) | ⭐ 198 | Go | 40/100 |
-| 284 | [kubernetes/pod-security-admission](./kubernetes-pod-security-admission.md) | ⭐ 102 | Go | 40/100 |
-| 285 | [kubernetes-sigs/downloadkubernetes](./kubernetes-sigs-downloadkubernetes.md) | ⭐ 123 | Go | 39/100 |
-| 286 | [kubernetes/kube-controller-manager](./kubernetes-kube-controller-manager.md) | ⭐ 105 | Go | 39/100 |
-| 287 | [ethical-buddy/vx6](./ethical-buddy-vx6.md) | ⭐ 61 | Go | 37/100 |
-| 288 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 4 | Go | 34/100 |
-| 289 | [rsamborski/vibecoding](./rsamborski-vibecoding.md) | ⭐ — | Dockerfile | 26/100 |
+| 269 | [seaweedfs/seaweedfs-operator](./seaweedfs-seaweedfs-operator.md) | ⭐ 296 | Go | 43/100 |
+| 270 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ 377 | Rust | 43/100 |
+| 271 | [vmware-tanzu/vm-operator](./vmware-tanzu-vm-operator.md) | ⭐ 129 | Go | 42/100 |
+| 272 | [NVIDIA/ncx-infra-controller-core](./nvidia-ncx-infra-controller-core.md) | ⭐ 139 | Rust | 42/100 |
+| 273 | [valkey-io/valkey-operator](./valkey-io-valkey-operator.md) | ⭐ 182 | Go | 42/100 |
+| 274 | [operator-framework/operator-controller](./operator-framework-operator-controller.md) | ⭐ 198 | Go | 42/100 |
+| 275 | [mongodb/mongodb-kubernetes](./mongodb-mongodb-kubernetes.md) | ⭐ 180 | Go | 42/100 |
+| 276 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 139 | Rust | 42/100 |
+| 277 | [submariner-io/lighthouse](./submariner-io-lighthouse.md) | ⭐ 149 | Go | 42/100 |
+| 278 | [pulumi/pulumi-cloudflare](./pulumi-pulumi-cloudflare.md) | ⭐ 148 | Go | 41/100 |
+| 279 | [ricardomaraschini/oomhero](./ricardomaraschini-oomhero.md) | ⭐ 111 | Rust | 41/100 |
+| 280 | [zeroecco/holos](./zeroecco-holos.md) | ⭐ 132 | Go | 41/100 |
+| 281 | [kubermatic/kubelb](./kubermatic-kubelb.md) | ⭐ 143 | Go | 41/100 |
+| 282 | [pulumi/pulumi-terraform](./pulumi-pulumi-terraform.md) | ⭐ 118 | Go | 41/100 |
+| 283 | [kubernetes/kube-proxy](./kubernetes-kube-proxy.md) | ⭐ 206 | Go | 40/100 |
+| 284 | [kubernetes/kube-scheduler](./kubernetes-kube-scheduler.md) | ⭐ 198 | Go | 40/100 |
+| 285 | [kubernetes/pod-security-admission](./kubernetes-pod-security-admission.md) | ⭐ 102 | Go | 40/100 |
+| 286 | [kubernetes-sigs/downloadkubernetes](./kubernetes-sigs-downloadkubernetes.md) | ⭐ 123 | Go | 39/100 |
+| 287 | [kubernetes/kube-controller-manager](./kubernetes-kube-controller-manager.md) | ⭐ 105 | Go | 39/100 |
+| 288 | [ethical-buddy/vx6](./ethical-buddy-vx6.md) | ⭐ 61 | Go | 37/100 |
+| 289 | [docker-secret-operator/dso](./docker-secret-operator-dso.md) | ⭐ 4 | Go | 34/100 |
+| 290 | [rsamborski/vibecoding](./rsamborski-vibecoding.md) | ⭐ — | Dockerfile | 26/100 |
 
 ---
 

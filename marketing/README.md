@@ -2,7 +2,7 @@
 
 > 
 
-**25 projects** in this category.
+**26 projects** in this category.
 
 ## Projects
 
@@ -31,8 +31,9 @@
 | 21 | [garritfra/cell](./garritfra-cell.md) | ⭐ 241 | Rust | 47/100 |
 | 22 | [angr/cle](./angr-cle.md) | ⭐ 480 | Python | 45/100 |
 | 23 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 329 | Go | 42/100 |
-| 24 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 3 | — | 36/100 |
-| 25 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 7 | Go | 36/100 |
+| 24 | [wdecoster/cramino](./wdecoster-cramino.md) | ⭐ 182 | Rust | 41/100 |
+| 25 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 3 | — | 36/100 |
+| 26 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 7 | Go | 36/100 |
 
 ---
 
