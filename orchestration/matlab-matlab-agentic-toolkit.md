@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The MATLAB Agentic Toolkit is an open-source project that seamlessly integrates trusted MATLAB capabilities with AI agents, enabling the creation of agent-ready engineering and scientific workflows. This toolkit empowers developers to leverage MATLAB's powerful tools and libraries within AI and machine learning frameworks, streamlining the development process. By bridging the gap between MATLAB and AI agents, the toolkit facilitates more efficient and effective scientific computing.
+The MATLAB Agentic Toolkit is an open-source project that enables AI agents to leverage trusted MATLAB capabilities, enhancing engineering and scientific workflows. By integrating MATLAB with AI agents, this toolkit streamlines the development of intelligent systems that can perform complex tasks and make informed decisions. This agent-ready framework fosters collaboration between humans and machines, driving innovation in AI-driven applications.
 
 ---
 

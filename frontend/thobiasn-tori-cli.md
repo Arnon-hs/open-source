@@ -25,7 +25,9 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Tori-cli is an open-source project that enables Docker server monitoring from the comfort of your terminal. It provides real-time metrics, logs, and alerts, all within a single binary that exposes no ports, requiring only SSH access. This tool streamlines server monitoring without the need for a full-fledged monitoring stack.
+Here's a brief summary for the thobiasn/tori-cli project:
+
+Tori-cli is a lightweight, open-source monitoring solution for Docker servers that provides real-time metrics, logs, and alerts from the terminal. This single-binary tool requires no exposed ports and only relies on SSH connectivity, making it a secure choice for monitoring. With Tori-cli, you can easily monitor and manage your Docker servers without the need for a separate stack.
 
 ---
 

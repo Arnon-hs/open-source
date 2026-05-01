@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **13841** |
+| 🗂️ **Total projects** | **13873** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,16 +18,16 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5227 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2761 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1347 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1042 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 851 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 823 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 5235 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2775 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1349 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1043 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 852 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 827 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 488 | [Browse →](./crypto/) |
 | 📊 **Data** | 318 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 303 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 172 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 304 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 173 | [Browse →](./mobile/) |
 | 💳 **Payments** | 151 | [Browse →](./payments/) |
 | 📈 **Trading** | 142 | [Browse →](./trading/) |
 | 🔐 **Security** | 117 | [Browse →](./security/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [invertase/react-native-firebase](./aiml/invertase-react-native-firebase.md) | ⭐ 12.3k | AI/ML |
-| 2 | [awsdocs/aws-doc-sdk-examples](./aiml/awsdocs-aws-doc-sdk-examples.md) | ⭐ 10.4k | AI/ML |
-| 3 | [VoltAgent/awesome-design-md](./aiml/voltagent-awesome-design-md.md) | ⭐ 69.1k | AI/ML |
-| 4 | [influxdata/influxdb](./frontend/influxdata-influxdb.md) | ⭐ 31.5k | Frontend |
-| 5 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 6 | [ruby/ruby](./misc/ruby-ruby.md) | ⭐ 23.6k | Misc |
-| 7 | [LizardByte/Sunshine](./aiml/lizardbyte-sunshine.md) | ⭐ 36.6k | AI/ML |
-| 8 | [future-architect/vuls](./aiml/future-architect-vuls.md) | ⭐ 12.1k | AI/ML |
-| 9 | [shadps4-emu/shadPS4](./frontend/shadps4-emu-shadps4.md) | ⭐ 31k | Frontend |
-| 10 | [pubkey/rxdb](./aiml/pubkey-rxdb.md) | ⭐ 23.2k | AI/ML |
+| 1 | [VoltAgent/awesome-design-md](./aiml/voltagent-awesome-design-md.md) | ⭐ 69.1k | AI/ML |
+| 2 | [influxdata/influxdb](./frontend/influxdata-influxdb.md) | ⭐ 31.5k | Frontend |
+| 3 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 4 | [zalando/postgres-operator](./data/zalando-postgres-operator.md) | ⭐ 5.1k | Data |
+| 5 | [ruby/ruby](./misc/ruby-ruby.md) | ⭐ 23.6k | Misc |
+| 6 | [LizardByte/Sunshine](./aiml/lizardbyte-sunshine.md) | ⭐ 36.6k | AI/ML |
+| 7 | [future-architect/vuls](./aiml/future-architect-vuls.md) | ⭐ 12.1k | AI/ML |
+| 8 | [shadps4-emu/shadPS4](./frontend/shadps4-emu-shadps4.md) | ⭐ 31k | Frontend |
+| 9 | [pubkey/rxdb](./aiml/pubkey-rxdb.md) | ⭐ 23.2k | AI/ML |
+| 10 | [Anil-matcha/Open-Generative-AI](./aiml/anil-matcha-open-generative-ai.md) | ⭐ 10.6k | AI/ML |
 
 ## 🚀 How it works
 

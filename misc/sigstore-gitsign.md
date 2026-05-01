@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The sigstore/gitsign project enables keyless Git signing using Sigstore, a secure and decentralized system for signing and verifying software packages. This open-source initiative aims to simplify the process of verifying the authenticity and integrity of Git repositories, promoting transparency and trust within software development communities. By leveraging Sigstore, gitsign eliminates the need for manual key management, streamlining the signing process and reducing the risk of security breaches.
+Sigstore/gitsign is an open-source project that enables keyless Git signing, providing a secure and convenient way to authenticate commits. By leveraging the Sigstore framework, it simplifies the process of verifying commit authenticity without the need for traditional public-private key pairs. This makes it easier to ensure the integrity of open-source projects and software supply chains.
 
 ---
 

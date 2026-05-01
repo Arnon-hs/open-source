@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The OpenShift Command Line (oc) is a powerful tool that allows users to interact with OpenShift clusters from the command line. As a part of the OpenShift Kubernetes Distribution (OKD), oc enables developers to manage applications, services, and resources in a streamlined and efficient manner. With its open-source nature, oc provides a flexible and customizable interface for managing OpenShift environments.
+The OpenShift Command Line (oc) is a command-line tool that provides an interface to manage and interact with OpenShift environments. It allows users to create, manage, and scale applications, as well as perform other tasks such as building, deploying, and monitoring containerized applications. As part of the OKD project, oc is an essential tool for developers and administrators working with OpenShift.
 
 ---
 

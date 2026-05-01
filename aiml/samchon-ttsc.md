@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/samchon/ttsc?style=flat-square&color=yellow)](https://github.com/samchon/ttsc/stargazers) [![Forks](https://img.shields.io/github/forks/samchon/ttsc?style=flat-square&color=blue)](https://github.com/samchon/ttsc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> A `typescript-go` toolchain for compiler-powered transforms and type-safe execution.
+> A `typescript-go` toolchain for compiler-powered plugins and type-safe execution + 20x faster TS lint integrated into compiler
 
 ## 📊 Stats
 

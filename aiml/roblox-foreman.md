@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Foreman is an open-source toolchain manager specifically designed for Roblox projects, aiming to streamline development workflows and enhance productivity. This platform provides a centralized hub for managing dependencies, automating tasks, and simplifying the process of building and deploying Roblox applications. By leveraging Foreman, developers can focus on creating engaging experiences for the Roblox community.
+Roblox/foreman is an open-source, toolchain manager designed to streamline the development and management of Roblox projects. This AI/ML-related project aims to simplify the workflow for Roblox developers by providing a centralized platform for managing dependencies, building, and testing. By leveraging foreman, developers can focus on creating engaging experiences without worrying about the underlying complexities of their project setup.
 
 ---
 

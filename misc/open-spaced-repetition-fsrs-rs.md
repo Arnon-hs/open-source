@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-FSRS for Rust is an open-source implementation of the FSRS (Functional Sequence Relationship System) algorithm, a spaced repetition technique used for memory consolidation and efficient learning. This Rust-based project includes an optimizer and scheduler, enhancing the effectiveness of the algorithm. By leveraging Rust's performance capabilities, FSRS-RS aims to improve the efficiency and scalability of spaced repetition systems.
+The open-spaced-repetition/fsrs-rs project is an open-source implementation of the FSRS algorithm for Rust, allowing for efficient spaced repetition in software applications. This project includes both an optimizer and scheduler, enabling developers to create intelligent and adaptive learning systems. By leveraging FSRS, developers can build more effective spaced repetition systems for various use cases.
 
 ---
 

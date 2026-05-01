@@ -1,6 +1,6 @@
 # networkmanager-rs/nmrs
 
-[![Stars](https://img.shields.io/github/stars/networkmanager-rs/nmrs?style=flat-square&color=yellow)](https://github.com/networkmanager-rs/nmrs/stargazers) [![Forks](https://img.shields.io/github/forks/networkmanager-rs/nmrs?style=flat-square&color=blue)](https://github.com/networkmanager-rs/nmrs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/networkmanager-rs/nmrs?style=flat-square&color=yellow)](https://github.com/networkmanager-rs/nmrs/stargazers) [![Forks](https://img.shields.io/github/forks/networkmanager-rs/nmrs?style=flat-square&color=blue)](https://github.com/networkmanager-rs/nmrs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Rust bindings for NetworkManager over D-Bus.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 250 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The networkmanager-rs/nmrs project provides a Rust interface to NetworkManager via D-Bus, enabling Rust developers to interact with and manage network connections on Linux systems. This open-source library facilitates seamless integration with NetworkManager, allowing users to create network configurations, monitor network status, and more. By providing a Rust binding for NetworkManager, this project simplifies the development of network-related applications.
+The networkmanager-rs/nmrs project provides Rust bindings for NetworkManager, a system service for managing network connections, via the D-Bus protocol. This allows Rust developers to interact with NetworkManager and leverage its features in their applications. By providing a Rust interface to NetworkManager, this project facilitates the development of network-aware Rust software.
 
 ---
 

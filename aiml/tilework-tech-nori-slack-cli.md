@@ -1,17 +1,17 @@
 # tilework-tech/nori-slack-cli
 
-[![Stars](https://img.shields.io/github/stars/tilework-tech/nori-slack-cli?style=flat-square&color=yellow)](https://github.com/tilework-tech/nori-slack-cli/stargazers) [![Forks](https://img.shields.io/github/forks/tilework-tech/nori-slack-cli?style=flat-square&color=blue)](https://github.com/tilework-tech/nori-slack-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tilework-tech/nori-slack-cli?style=flat-square&color=yellow)](https://github.com/tilework-tech/nori-slack-cli/stargazers) [![Forks](https://img.shields.io/github/forks/tilework-tech/nori-slack-cli?style=flat-square&color=blue)](https://github.com/tilework-tech/nori-slack-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> CLI for interacting with the Slack Web API, designed for coding agents
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,13 +21,11 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-Show HN: An Agent First Slack CLI is an open-source command-line interface for Slack, designed with an agent-first approach to provide a more intuitive and user-friendly experience. This project utilizes AI/ML to improve interactions with the Slack platform, making it easier for developers to manage their workflows and communicate with team members. By leveraging the power of AI, this CLI aims to enhance productivity and efficiency in Slack-based teams.
+This open-source project, an Agent First Slack CLI, is a command-line interface that integrates with Slack, enabling users to interact with the platform using a more agent-oriented approach. Built on top of AI and machine learning technologies, this project aims to simplify and enhance Slack interactions, providing a more intuitive experience for users. By leveraging an agent-first design, the CLI empowers users to accomplish tasks and manage their Slack conversations more efficiently.
 
 ---
 

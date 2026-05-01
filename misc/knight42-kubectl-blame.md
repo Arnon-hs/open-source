@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The kubectl-blame project provides a simple way to identify which user made changes to specific fields of Kubernetes resources. By using this tool, users can easily track and audit modifications to their cluster configurations. It enhances the Kubernetes CLI with the ability to assign blame for resource updates.
+The kubectl-blame project is an open-source tool that provides valuable insights into who made changes to specific fields within Kubernetes resources. By utilizing this tool, users can easily identify contributors to resource fields, facilitating better collaboration and debugging within their Kubernetes environments. It integrates seamlessly with the standard kubectl command-line interface.
 
 ---
 

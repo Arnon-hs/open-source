@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The samply project, created by mstange, is an open-source command-line sampling profiler that supports macOS, Linux, and Windows operating systems. This tool allows developers to analyze and optimize the performance of their applications by providing detailed information about CPU usage, memory allocation, and other system resources. Samply offers a convenient way to identify performance bottlenecks and optimize code for improved efficiency.
+The samply project is an open-source, command-line sampling profiler that allows developers to analyze and optimize the performance of their applications on multiple operating systems, including macOS, Linux, and Windows. This tool provides a detailed breakdown of the execution time spent in different parts of the code, enabling developers to identify performance bottlenecks and improve the overall efficiency of their software. With samply, developers can gain valuable insights into their application's behavior and make data-driven decisions to optimize its performance.
 
 ---
 

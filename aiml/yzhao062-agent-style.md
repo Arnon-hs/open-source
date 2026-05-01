@@ -1,6 +1,6 @@
 # yzhao062/agent-style
 
-[![Stars](https://img.shields.io/github/stars/yzhao062/agent-style?style=flat-square&color=yellow)](https://github.com/yzhao062/agent-style/stargazers) [![Forks](https://img.shields.io/github/forks/yzhao062/agent-style?style=flat-square&color=blue)](https://github.com/yzhao062/agent-style/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yzhao062/agent-style?style=flat-square&color=yellow)](https://github.com/yzhao062/agent-style/stargazers) [![Forks](https://img.shields.io/github/forks/yzhao062/agent-style?style=flat-square&color=blue)](https://github.com/yzhao062/agent-style/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 383 |
+| ⭐ **Stars** | 384 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
