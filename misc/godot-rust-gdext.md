@@ -1,6 +1,6 @@
 # godot-rust/gdext
 
-[![Stars](https://img.shields.io/github/stars/godot-rust/gdext?style=flat-square&color=yellow)](https://github.com/godot-rust/gdext/stargazers) [![Forks](https://img.shields.io/github/forks/godot-rust/gdext?style=flat-square&color=blue)](https://github.com/godot-rust/gdext/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/godot-rust/gdext?style=flat-square&color=yellow)](https://github.com/godot-rust/gdext/stargazers) [![Forks](https://img.shields.io/github/forks/godot-rust/gdext?style=flat-square&color=blue)](https://github.com/godot-rust/gdext/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Rust bindings for Godot 4
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

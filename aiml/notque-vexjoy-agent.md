@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The VexJoy Agent is an open-source project that enables the creation of custom /do routers, allowing users to craft tailored workflows and automations. This AI-driven tool leverages machine learning capabilities to streamline complex tasks and interactions, empowering developers and users to build sophisticated applications with ease. By harnessing the power of AI and machine learning, the VexJoy Agent facilitates efficient and flexible automation solutions.
+The VexJoy Agent, an open-source project by notque, is a pioneering AI/ML tool that generates the /do router, a crucial component for various applications. This innovative project leverages AI capabilities to automate the creation of the /do router, streamlining development processes and enhancing efficiency. By harnessing the power of machine learning, VexJoy Agent empowers developers to accelerate their workflows and focus on high-value tasks.
 
 ---
 

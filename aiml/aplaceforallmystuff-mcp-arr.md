@@ -1,6 +1,6 @@
 # aplaceforallmystuff/mcp-arr
 
-[![Stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-arr?style=flat-square&color=yellow)](https://github.com/aplaceforallmystuff/mcp-arr/stargazers) [![Forks](https://img.shields.io/github/forks/aplaceforallmystuff/mcp-arr?style=flat-square&color=blue)](https://github.com/aplaceforallmystuff/mcp-arr/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-arr?style=flat-square&color=yellow)](https://github.com/aplaceforallmystuff/mcp-arr/stargazers) [![Forks](https://img.shields.io/github/forks/aplaceforallmystuff/mcp-arr?style=flat-square&color=blue)](https://github.com/aplaceforallmystuff/mcp-arr/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for *arr media management suite
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

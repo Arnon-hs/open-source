@@ -1,6 +1,6 @@
 # steipete/goplaces
 
-[![Stars](https://img.shields.io/github/stars/steipete/goplaces?style=flat-square&color=yellow)](https://github.com/steipete/goplaces/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/goplaces?style=flat-square&color=blue)](https://github.com/steipete/goplaces/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steipete/goplaces?style=flat-square&color=yellow)](https://github.com/steipete/goplaces/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/goplaces?style=flat-square&color=blue)](https://github.com/steipete/goplaces/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Modern Google Places CLI in Go
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 211 |
+| ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

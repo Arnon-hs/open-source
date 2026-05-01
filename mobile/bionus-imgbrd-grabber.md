@@ -1,6 +1,6 @@
 # Bionus/imgbrd-grabber
 
-[![Stars](https://img.shields.io/github/stars/Bionus/imgbrd-grabber?style=flat-square&color=yellow)](https://github.com/Bionus/imgbrd-grabber/stargazers) [![Forks](https://img.shields.io/github/forks/Bionus/imgbrd-grabber?style=flat-square&color=blue)](https://github.com/Bionus/imgbrd-grabber/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bionus/imgbrd-grabber?style=flat-square&color=yellow)](https://github.com/Bionus/imgbrd-grabber/stargazers) [![Forks](https://img.shields.io/github/forks/Bionus/imgbrd-grabber?style=flat-square&color=blue)](https://github.com/Bionus/imgbrd-grabber/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Very customizable imageboard/booru downloader with powerful filenaming features.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 264 |
+| 🍴 **Forks** | 265 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

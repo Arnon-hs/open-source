@@ -25,7 +25,7 @@ Payments
 
 ## 📝 Summary
 
-This open-source project enables the integration of Codex subscription services within both Electron-based desktop applications and Chromium web browsers. By utilizing this code, developers can seamlessly implement subscription features for users, enhancing the overall user experience and revenue streams for their projects. The project facilitates a streamlined and efficient subscription process across various platforms.
+This open-source project enables Codex subscriptions within both Electron-based desktop applications and Chromium web browsers, providing a seamless payment integration for users. By leveraging a combination of Electron and Chromium, the project offers a flexible solution for developers looking to implement subscription-based models in their applications. The project's codebase is available for public access, facilitating collaboration and customization.
 
 ---
 

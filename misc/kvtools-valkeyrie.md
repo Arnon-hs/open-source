@@ -1,6 +1,6 @@
 # kvtools/valkeyrie
 
-[![Stars](https://img.shields.io/github/stars/kvtools/valkeyrie?style=flat-square&color=yellow)](https://github.com/kvtools/valkeyrie/stargazers) [![Forks](https://img.shields.io/github/forks/kvtools/valkeyrie?style=flat-square&color=blue)](https://github.com/kvtools/valkeyrie/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kvtools/valkeyrie?style=flat-square&color=yellow)](https://github.com/kvtools/valkeyrie/stargazers) [![Forks](https://img.shields.io/github/forks/kvtools/valkeyrie?style=flat-square&color=blue)](https://github.com/kvtools/valkeyrie/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Distributed Key/Value Store Abstraction Library written in Go.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 303 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

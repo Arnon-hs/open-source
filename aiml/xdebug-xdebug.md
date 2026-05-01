@@ -1,6 +1,6 @@
 # xdebug/xdebug
 
-[![Stars](https://img.shields.io/github/stars/xdebug/xdebug?style=flat-square&color=yellow)](https://github.com/xdebug/xdebug/stargazers) [![Forks](https://img.shields.io/github/forks/xdebug/xdebug?style=flat-square&color=blue)](https://github.com/xdebug/xdebug/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xdebug/xdebug?style=flat-square&color=yellow)](https://github.com/xdebug/xdebug/stargazers) [![Forks](https://img.shields.io/github/forks/xdebug/xdebug?style=flat-square&color=blue)](https://github.com/xdebug/xdebug/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Xdebug — Step Debugger and Debugging Aid for PHP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 599 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

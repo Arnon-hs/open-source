@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Vibe is an open-source, single-header C networking library designed for Linux systems. This compact library provides a simple and efficient way to establish network connections and perform various network-related operations. Its single-header architecture makes it easy to integrate into projects, requiring minimal dependencies and setup.
+Vibe is an open-source, single-header C networking library designed for Linux systems. This compact library provides a simple and lightweight way to establish network connections, allowing developers to focus on their application logic without added complexity. By keeping the codebase small and self-contained, Vibe aims to streamline network programming in C.
 
 ---
 

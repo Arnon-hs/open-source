@@ -25,7 +25,9 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The lnxpy/pyaction project is an open-source tool that enables users to create GitHub Actions using Python. This project simplifies the process of automating workflows on GitHub by providing a Pythonic interface to define and manage Actions. With lnxpy/pyaction, developers can easily build, test, and deploy their applications using a Python-based configuration.
+Here's a brief summary for the lnxpy/pyaction project:
+
+lnxpy/pyaction is an open-source project that enables developers to create GitHub Actions seamlessly using Python. This tool simplifies the process of automating workflows on GitHub by providing a Python-based interface to define and execute actions. With lnxpy/pyaction, developers can focus on writing code without worrying about the intricacies of GitHub Actions configuration.
 
 ---
 

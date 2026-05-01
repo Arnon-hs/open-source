@@ -1,6 +1,6 @@
 # davidB/tracing-opentelemetry-instrumentation-sdk
 
-[![Stars](https://img.shields.io/github/stars/davidB/tracing-opentelemetry-instrumentation-sdk?style=flat-square&color=yellow)](https://github.com/davidB/tracing-opentelemetry-instrumentation-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/davidB/tracing-opentelemetry-instrumentation-sdk?style=flat-square&color=blue)](https://github.com/davidB/tracing-opentelemetry-instrumentation-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davidB/tracing-opentelemetry-instrumentation-sdk?style=flat-square&color=yellow)](https://github.com/davidB/tracing-opentelemetry-instrumentation-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/davidB/tracing-opentelemetry-instrumentation-sdk?style=flat-square&color=blue)](https://github.com/davidB/tracing-opentelemetry-instrumentation-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Middlewares and tools to integrate axum + tracing + opentelemetry
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 239 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

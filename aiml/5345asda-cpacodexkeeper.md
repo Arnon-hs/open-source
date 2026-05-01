@@ -1,6 +1,6 @@
 # 5345asda/CPACodexKeeper
 
-[![Stars](https://img.shields.io/github/stars/5345asda/CPACodexKeeper?style=flat-square&color=yellow)](https://github.com/5345asda/CPACodexKeeper/stargazers) [![Forks](https://img.shields.io/github/forks/5345asda/CPACodexKeeper?style=flat-square&color=blue)](https://github.com/5345asda/CPACodexKeeper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/5345asda/CPACodexKeeper?style=flat-square&color=yellow)](https://github.com/5345asda/CPACodexKeeper/stargazers) [![Forks](https://img.shields.io/github/forks/5345asda/CPACodexKeeper?style=flat-square&color=blue)](https://github.com/5345asda/CPACodexKeeper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Maintain CPA-managed codex tokens with quota checks, auto refresh, disable/enable logic, and Docker support.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 171 |
+| ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

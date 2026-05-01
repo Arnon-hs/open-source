@@ -1,6 +1,6 @@
 # k1p1l0/claude-telegram-supercharged
 
-[![Stars](https://img.shields.io/github/stars/k1p1l0/claude-telegram-supercharged?style=flat-square&color=yellow)](https://github.com/k1p1l0/claude-telegram-supercharged/stargazers) [![Forks](https://img.shields.io/github/forks/k1p1l0/claude-telegram-supercharged?style=flat-square&color=blue)](https://github.com/k1p1l0/claude-telegram-supercharged/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/k1p1l0/claude-telegram-supercharged?style=flat-square&color=yellow)](https://github.com/k1p1l0/claude-telegram-supercharged/stargazers) [![Forks](https://img.shields.io/github/forks/k1p1l0/claude-telegram-supercharged?style=flat-square&color=blue)](https://github.com/k1p1l0/claude-telegram-supercharged/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Supercharged Claude Code Official Telegram plugin — threading, voice messages 2 ways, stickers, GIFs, reactions, MarkdownV2 & more. Drop-in replacement.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

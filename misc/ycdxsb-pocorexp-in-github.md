@@ -1,6 +1,6 @@
 # ycdxsb/PocOrExp_in_Github
 
-[![Stars](https://img.shields.io/github/stars/ycdxsb/PocOrExp_in_Github?style=flat-square&color=yellow)](https://github.com/ycdxsb/PocOrExp_in_Github/stargazers) [![Forks](https://img.shields.io/github/forks/ycdxsb/PocOrExp_in_Github?style=flat-square&color=blue)](https://github.com/ycdxsb/PocOrExp_in_Github/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ycdxsb/PocOrExp_in_Github?style=flat-square&color=yellow)](https://github.com/ycdxsb/PocOrExp_in_Github/stargazers) [![Forks](https://img.shields.io/github/forks/ycdxsb/PocOrExp_in_Github?style=flat-square&color=blue)](https://github.com/ycdxsb/PocOrExp_in_Github/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically Collect POC or EXP from GitHub by CVE ID.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 231 |
+| 🍴 **Forks** | 232 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

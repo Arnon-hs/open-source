@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/superagent-ai/grok-cli?style=flat-square&color=yellow)](https://github.com/superagent-ai/grok-cli/stargazers) [![Forks](https://img.shields.io/github/forks/superagent-ai/grok-cli?style=flat-square&color=blue)](https://github.com/superagent-ai/grok-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
-> An open-source autonomous agent powered by Grok.
+> An open-source coding agent for the Grok API
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 

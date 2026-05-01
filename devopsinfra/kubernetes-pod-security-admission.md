@@ -1,6 +1,6 @@
 # kubernetes/pod-security-admission
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/pod-security-admission?style=flat-square&color=yellow)](https://github.com/kubernetes/pod-security-admission/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/pod-security-admission?style=flat-square&color=blue)](https://github.com/kubernetes/pod-security-admission/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/pod-security-admission?style=flat-square&color=yellow)](https://github.com/kubernetes/pod-security-admission/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/pod-security-admission?style=flat-square&color=blue)](https://github.com/kubernetes/pod-security-admission/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes Pod Security Standards implementation - https://github.com/kubernetes/enhancements/blob/master/keps/sig-auth/2579-psp-replacement/README.md
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

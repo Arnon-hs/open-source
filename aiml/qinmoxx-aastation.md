@@ -1,6 +1,6 @@
 # QinMoXX/AAStation
 
-[![Stars](https://img.shields.io/github/stars/QinMoXX/AAStation?style=flat-square&color=yellow)](https://github.com/QinMoXX/AAStation/stargazers) [![Forks](https://img.shields.io/github/forks/QinMoXX/AAStation?style=flat-square&color=blue)](https://github.com/QinMoXX/AAStation/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QinMoXX/AAStation?style=flat-square&color=yellow)](https://github.com/QinMoXX/AAStation/stargazers) [![Forks](https://img.shields.io/github/forks/QinMoXX/AAStation?style=flat-square&color=blue)](https://github.com/QinMoXX/AAStation/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent relay station
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 58 |
+| ⭐ **Stars** | 61 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

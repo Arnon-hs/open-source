@@ -1,6 +1,6 @@
 # steipete/sonoscli
 
-[![Stars](https://img.shields.io/github/stars/steipete/sonoscli?style=flat-square&color=yellow)](https://github.com/steipete/sonoscli/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/sonoscli?style=flat-square&color=blue)](https://github.com/steipete/sonoscli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steipete/sonoscli?style=flat-square&color=yellow)](https://github.com/steipete/sonoscli/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/sonoscli?style=flat-square&color=blue)](https://github.com/steipete/sonoscli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Control SONOS speakers from your terminal.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 120 |
+| ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

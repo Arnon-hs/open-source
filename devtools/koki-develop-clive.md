@@ -1,6 +1,6 @@
 # koki-develop/clive
 
-[![Stars](https://img.shields.io/github/stars/koki-develop/clive?style=flat-square&color=yellow)](https://github.com/koki-develop/clive/stargazers) [![Forks](https://img.shields.io/github/forks/koki-develop/clive?style=flat-square&color=blue)](https://github.com/koki-develop/clive/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/koki-develop/clive?style=flat-square&color=yellow)](https://github.com/koki-develop/clive/stargazers) [![Forks](https://img.shields.io/github/forks/koki-develop/clive?style=flat-square&color=blue)](https://github.com/koki-develop/clive/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Automates terminal operations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 385 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

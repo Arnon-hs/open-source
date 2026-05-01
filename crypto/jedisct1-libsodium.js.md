@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 161 |
+| 🍴 **Forks** | 162 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |

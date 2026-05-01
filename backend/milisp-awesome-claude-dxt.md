@@ -1,6 +1,6 @@
 # milisp/awesome-claude-dxt
 
-[![Stars](https://img.shields.io/github/stars/milisp/awesome-claude-dxt?style=flat-square&color=yellow)](https://github.com/milisp/awesome-claude-dxt/stargazers) [![Forks](https://img.shields.io/github/forks/milisp/awesome-claude-dxt?style=flat-square&color=blue)](https://github.com/milisp/awesome-claude-dxt/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/milisp/awesome-claude-dxt?style=flat-square&color=yellow)](https://github.com/milisp/awesome-claude-dxt/stargazers) [![Forks](https://img.shields.io/github/forks/milisp/awesome-claude-dxt?style=flat-square&color=blue)](https://github.com/milisp/awesome-claude-dxt/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome Claude Desktop Extensions (dxt) (not only Claude) mcpb
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

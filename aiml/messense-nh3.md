@@ -1,6 +1,6 @@
 # messense/nh3
 
-[![Stars](https://img.shields.io/github/stars/messense/nh3?style=flat-square&color=yellow)](https://github.com/messense/nh3/stargazers) [![Forks](https://img.shields.io/github/forks/messense/nh3?style=flat-square&color=blue)](https://github.com/messense/nh3/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/messense/nh3?style=flat-square&color=yellow)](https://github.com/messense/nh3/stargazers) [![Forks](https://img.shields.io/github/forks/messense/nh3?style=flat-square&color=blue)](https://github.com/messense/nh3/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Python binding to Ammonia HTML sanitizer Rust crate
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 372 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Radian is an open-source, modern R console designed for the 21st century. This project aims to provide a sleek and user-friendly interface for interacting with the R programming language, enhancing the overall developer experience. By utilizing a 21st-century design, Radian aims to bridge the gap between traditional R interfaces and modern software development tools.
+The radian project is an open-source, modern R console designed to meet the needs of users in the 21st century. It aims to provide a sleek, intuitive, and feature-rich environment for R users to analyze, visualize, and interact with data. By leveraging the capabilities of R, radian seeks to enhance the overall user experience and streamline data analysis workflows.
 
 ---
 

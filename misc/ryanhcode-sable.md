@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project is an interactive physics system in Minecraft that enables the creation of dynamic block structures. Using this system, users can build complex moving block arrangements and simulations that mimic real-world physics, adding a new level of realism and interactivity to the game. The project can be used by modders and developers to create engaging and immersive experiences within the Minecraft universe.
+This open-source project allows users to create and interact with dynamic physics-based block structures in Minecraft. By leveraging the game's physics engine, it enables complex and realistic simulations, enabling users to build and experiment with a wide range of structures. This project can be used for educational purposes, artistic expression, or simply to explore the possibilities of Minecraft's physics capabilities.
 
 ---
 

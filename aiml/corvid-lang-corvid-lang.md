@@ -25,7 +25,7 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Corvid-lang is an open-source project that enables users to interact with their data in a conversational manner through plain English. This innovative tool combines data analysis, data science, and machine learning capabilities with the power of Large Language Models (LLMs). With Corvid-lang, users can effortlessly explore, modify, visualize, and develop machine learning models using natural language commands.
+Corvid-lang is an open-source project that revolutionizes data analysis and science by allowing users to interact with data using plain English, enabled by Large Language Models (LLMs). With Corvid-lang, users can chat with their data, modify it, visualize it, create and test machine learning models, making data science more conversational and accessible. This innovative tool empowers users to explore and analyze their data without requiring extensive coding knowledge.
 
 ---
 

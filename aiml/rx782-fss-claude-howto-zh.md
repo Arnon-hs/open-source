@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, Rx782-Fss/claude-howto-zh, is a comprehensive Chinese translation of the Claude AI How-To guide. Based on the original luongnv89/claude-howto repository, it aims to provide users with a complete and easy-to-understand resource for working with the Claude AI platform in Mandarin. The project facilitates the adoption and utilization of Claude AI among Chinese-speaking communities.
+Here's a brief summary of the Rx782-Fss/claude-howto-zh project in 2-3 sentences:
+
+Claude-Howto-Zh is an open-source, comprehensive Chinese translation of the Claude AI how-to guide. This project is based on the original work by luongnv89 and provides a valuable resource for Chinese speakers interested in learning about Claude AI. The translation aims to facilitate access to AI knowledge and expertise in the Chinese community.
 
 ---
 

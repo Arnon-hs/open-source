@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The Garmin-health-data project is an open-source initiative that empowers users to take control of their Garmin health data analysis. By leveraging this project, individuals can easily access, manage, and explore their fitness and health metrics, breaking free from Garmin's proprietary data ecosystem. This project promotes data ownership and interoperability, allowing users to make more informed decisions about their well-being.
+The Garmin-health-data project is an open-source initiative that enables users to own and analyze their Garmin health data. This project provides a platform for users to access and process their health data, promoting transparency and control over their personal health information. By leveraging open-source technology, users can gain deeper insights into their health and well-being.
 
 ---
 

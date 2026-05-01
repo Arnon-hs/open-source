@@ -1,6 +1,6 @@
 # cerberauth/awesome-openid-connect
 
-[![Stars](https://img.shields.io/github/stars/cerberauth/awesome-openid-connect?style=flat-square&color=yellow)](https://github.com/cerberauth/awesome-openid-connect/stargazers) [![Forks](https://img.shields.io/github/forks/cerberauth/awesome-openid-connect?style=flat-square&color=blue)](https://github.com/cerberauth/awesome-openid-connect/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cerberauth/awesome-openid-connect?style=flat-square&color=yellow)](https://github.com/cerberauth/awesome-openid-connect/stargazers) [![Forks](https://img.shields.io/github/forks/cerberauth/awesome-openid-connect?style=flat-square&color=blue)](https://github.com/cerberauth/awesome-openid-connect/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > OpenID Connect, the authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins (Apple, Facebook, Google, ...etc). Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 104 |
+| ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

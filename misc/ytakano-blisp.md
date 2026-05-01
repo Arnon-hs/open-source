@@ -1,6 +1,6 @@
 # ytakano/blisp
 
-[![Stars](https://img.shields.io/github/stars/ytakano/blisp?style=flat-square&color=yellow)](https://github.com/ytakano/blisp/stargazers) [![Forks](https://img.shields.io/github/forks/ytakano/blisp?style=flat-square&color=blue)](https://github.com/ytakano/blisp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ytakano/blisp?style=flat-square&color=yellow)](https://github.com/ytakano/blisp/stargazers) [![Forks](https://img.shields.io/github/forks/ytakano/blisp?style=flat-square&color=blue)](https://github.com/ytakano/blisp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A statically typed Lisp like scripting programming language for Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 234 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # php-tui/php-tui
 
-[![Stars](https://img.shields.io/github/stars/php-tui/php-tui?style=flat-square&color=yellow)](https://github.com/php-tui/php-tui/stargazers) [![Forks](https://img.shields.io/github/forks/php-tui/php-tui?style=flat-square&color=blue)](https://github.com/php-tui/php-tui/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/php-tui/php-tui?style=flat-square&color=yellow)](https://github.com/php-tui/php-tui/stargazers) [![Forks](https://img.shields.io/github/forks/php-tui/php-tui?style=flat-square&color=blue)](https://github.com/php-tui/php-tui/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Make awesome console applications in PHP (port of Rust's Ratatui)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

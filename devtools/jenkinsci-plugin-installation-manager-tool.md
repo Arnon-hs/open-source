@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The Jenkins Plugin Installation Manager Tool is an open-source command-line interface (CLI) tool designed to simplify the installation and management of Jenkins plugins. This tool enables users to easily discover, install, and manage plugins for their Jenkins instances, streamlining the process of configuring and maintaining their Jenkins environments. It provides a convenient and efficient way to manage plugin dependencies and updates.
+The Jenkins Plugin Installation Manager Tool is an open-source command-line interface (CLI) tool designed to manage Jenkins plugins easily. It allows users to install, update, and remove plugins directly from the command line, streamlining Jenkins plugin management and simplifying the process of maintaining a Jenkins environment. This tool is ideal for users looking to automate Jenkins plugin management tasks.
 
 ---
 

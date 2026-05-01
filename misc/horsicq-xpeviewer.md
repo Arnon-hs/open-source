@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 114 |
+| 🍴 **Forks** | 115 |
 | 💻 **Language** | QMake |
 | 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |

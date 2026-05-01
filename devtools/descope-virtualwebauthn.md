@@ -1,6 +1,6 @@
 # descope/virtualwebauthn
 
-[![Stars](https://img.shields.io/github/stars/descope/virtualwebauthn?style=flat-square&color=yellow)](https://github.com/descope/virtualwebauthn/stargazers) [![Forks](https://img.shields.io/github/forks/descope/virtualwebauthn?style=flat-square&color=blue)](https://github.com/descope/virtualwebauthn/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/descope/virtualwebauthn?style=flat-square&color=yellow)](https://github.com/descope/virtualwebauthn/stargazers) [![Forks](https://img.shields.io/github/forks/descope/virtualwebauthn?style=flat-square&color=blue)](https://github.com/descope/virtualwebauthn/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A set of helper tools for testing WebAuthn authentication flows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

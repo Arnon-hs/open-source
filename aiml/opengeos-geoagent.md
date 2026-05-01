@@ -1,17 +1,17 @@
 # opengeos/GeoAgent
 
-[![Stars](https://img.shields.io/github/stars/opengeos/GeoAgent?style=flat-square&color=yellow)](https://github.com/opengeos/GeoAgent/stargazers) [![Forks](https://img.shields.io/github/forks/opengeos/GeoAgent?style=flat-square&color=blue)](https://github.com/opengeos/GeoAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opengeos/GeoAgent?style=flat-square&color=yellow)](https://github.com/opengeos/GeoAgent/stargazers) [![Forks](https://img.shields.io/github/forks/opengeos/GeoAgent?style=flat-square&color=blue)](https://github.com/opengeos/GeoAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
-> An AI Agent for Geospatial Data Analysis and Visualization
+> A multimodal AI agent for geospatial data analysis and interactive visualization
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 97 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 115 |
+| 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

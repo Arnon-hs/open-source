@@ -1,6 +1,6 @@
 # srinathsankara/agent-recall-ai
 
-[![Stars](https://img.shields.io/github/stars/srinathsankara/agent-recall-ai?style=flat-square&color=yellow)](https://github.com/srinathsankara/agent-recall-ai/stargazers) [![Forks](https://img.shields.io/github/forks/srinathsankara/agent-recall-ai?style=flat-square&color=blue)](https://github.com/srinathsankara/agent-recall-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/srinathsankara/agent-recall-ai?style=flat-square&color=yellow)](https://github.com/srinathsankara/agent-recall-ai/stargazers) [![Forks](https://img.shields.io/github/forks/srinathsankara/agent-recall-ai?style=flat-square&color=blue)](https://github.com/srinathsankara/agent-recall-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI agent never starts over again. Framework-agnostic session checkpointing - survive context limits, cost overruns, and session death.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

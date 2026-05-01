@@ -1,6 +1,6 @@
 # samueljun/tomato-clock
 
-[![Stars](https://img.shields.io/github/stars/samueljun/tomato-clock?style=flat-square&color=yellow)](https://github.com/samueljun/tomato-clock/stargazers) [![Forks](https://img.shields.io/github/forks/samueljun/tomato-clock?style=flat-square&color=blue)](https://github.com/samueljun/tomato-clock/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samueljun/tomato-clock?style=flat-square&color=yellow)](https://github.com/samueljun/tomato-clock/stargazers) [![Forks](https://img.shields.io/github/forks/samueljun/tomato-clock?style=flat-square&color=blue)](https://github.com/samueljun/tomato-clock/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Tomato Clock is a simple browser extension for managing your productivity.
 
@@ -9,8 +9,8 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 353 |
-| 🍴 **Forks** | 63 |
-| 💻 **Language** | JavaScript |
+| 🍴 **Forks** | 64 |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

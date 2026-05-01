@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Konch is an open-source project that allows users to customize and configure their Python shell, providing a personalized experience tailored to their specific needs. This project empowers users to tailor their command-line interface, making it more intuitive and efficient for their workflow. By configuring the Python shell, users can streamline their coding process and increase productivity.
+Konch is an open-source project that configures your Python shell, providing a customizable and efficient way to work with the Python interpreter. It offers a simple and intuitive configuration system, allowing users to personalize their shell experience with various settings and tools. With Konch, users can streamline their workflow and improve their productivity in Python development.
 
 ---
 

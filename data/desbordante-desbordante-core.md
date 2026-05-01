@@ -1,6 +1,6 @@
 # Desbordante/desbordante-core
 
-[![Stars](https://img.shields.io/github/stars/Desbordante/desbordante-core?style=flat-square&color=yellow)](https://github.com/Desbordante/desbordante-core/stargazers) [![Forks](https://img.shields.io/github/forks/Desbordante/desbordante-core?style=flat-square&color=blue)](https://github.com/Desbordante/desbordante-core/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Desbordante/desbordante-core?style=flat-square&color=yellow)](https://github.com/Desbordante/desbordante-core/stargazers) [![Forks](https://img.shields.io/github/forks/Desbordante/desbordante-core?style=flat-square&color=blue)](https://github.com/Desbordante/desbordante-core/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Desbordante is a high-performance data profiler that is capable of discovering many different patterns in data using various algorithms. It also allows to run data cleaning scenarios using these algorithms. Desbordante has a console version and an easy-to-use web application.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 476 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

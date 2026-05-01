@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Public Suffix List is an open-source project that maintains a database of domain name suffixes that are not subdomains, making it a crucial resource for developers and web browsers to correctly handle URL parsing and cookie management. This list helps prevent security vulnerabilities like domain hijacking and ensures user privacy by correctly identifying the domain ownership. It enables browsers to correctly handle URL parsing and domain suffixes, improving overall online security.
+The publicsuffix/list project is an open-source initiative that maintains a widely-used list of public suffixes, allowing developers to accurately identify the registrar or authority responsible for a given domain. This list helps prevent domain squatting and supports the validation of domain names in web browsers and applications. The Public Suffix List is a collaborative effort, regularly updated to reflect changes in the global domain name space.
 
 ---
 

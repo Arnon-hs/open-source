@@ -1,6 +1,6 @@
 # almond-sh/almond
 
-[![Stars](https://img.shields.io/github/stars/almond-sh/almond?style=flat-square&color=yellow)](https://github.com/almond-sh/almond/stargazers) [![Forks](https://img.shields.io/github/forks/almond-sh/almond?style=flat-square&color=blue)](https://github.com/almond-sh/almond/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/almond-sh/almond?style=flat-square&color=yellow)](https://github.com/almond-sh/almond/stargazers) [![Forks](https://img.shields.io/github/forks/almond-sh/almond?style=flat-square&color=blue)](https://github.com/almond-sh/almond/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A Scala kernel for Jupyter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 247 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

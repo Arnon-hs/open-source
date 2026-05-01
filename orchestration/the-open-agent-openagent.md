@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/the-open-agent/openagent?style=flat-square&color=yellow)](https://github.com/the-open-agent/openagent/stargazers) [![Forks](https://img.shields.io/github/forks/the-open-agent/openagent?style=flat-square&color=blue)](https://github.com/the-open-agent/openagent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
-> ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent
+> ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org/
 
 ## 📊 Stats
 

@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/rampstackco/claude-skills?style=flat-square&color=yellow)](https://github.com/rampstackco/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/rampstackco/claude-skills?style=flat-square&color=blue)](https://github.com/rampstackco/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> 59 stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth.
+> Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, optimize.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 91 |
-| 🍴 **Forks** | 12 |
+| ⭐ **Stars** | 97 |
+| 🍴 **Forks** | 13 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Design
+Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 

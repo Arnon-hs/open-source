@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **13101** |
+| 🗂️ **Total projects** | **13149** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4981 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2576 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1276 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 999 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 796 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 5001 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2587 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1281 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1006 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 801 | [Browse →](./backend/) |
 | 🔧 **DevTools** | 780 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 472 | [Browse →](./crypto/) |
-| 📊 **Data** | 297 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 284 | [Browse →](./devopsinfra/) |
+| 📊 **Data** | 298 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 282 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 161 | [Browse →](./mobile/) |
 | 💳 **Payments** | 140 | [Browse →](./payments/) |
-| 📈 **Trading** | 135 | [Browse →](./trading/) |
+| 📈 **Trading** | 136 | [Browse →](./trading/) |
 | 🔐 **Security** | 111 | [Browse →](./security/) |
 | ✨ **Design** | 41 | [Browse →](./design/) |
 | 🎯 **Product** | 27 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [apache/ignite](./backend/apache-ignite.md) | ⭐ 5.1k | Backend |
-| 2 | [dotnet/efcore](./data/dotnet-efcore.md) | ⭐ 14.6k | Data |
-| 3 | [JuliusBrussee/caveman](./aiml/juliusbrussee-caveman.md) | ⭐ 51.3k | AI/ML |
-| 4 | [ceph/ceph](./crypto/ceph-ceph.md) | ⭐ 16.5k | Crypto |
-| 5 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
-| 6 | [birobirobiro/awesome-shadcn-ui](./frontend/birobirobiro-awesome-shadcn-ui.md) | ⭐ 19.4k | Frontend |
-| 7 | [langchain-ai/langchain](./orchestration/langchain-ai-langchain.md) | ⭐ 135.5k | Orchestration |
-| 8 | [janhq/jan](./aiml/janhq-jan.md) | ⭐ 42.3k | AI/ML |
-| 9 | [CoplayDev/unity-mcp](./aiml/coplaydev-unity-mcp.md) | ⭐ 9.1k | AI/ML |
-| 10 | [PowerShell/PowerShell](./misc/powershell-powershell.md) | ⭐ 53.2k | Misc |
+| 1 | [dotnet/efcore](./data/dotnet-efcore.md) | ⭐ 14.6k | Data |
+| 2 | [JuliusBrussee/caveman](./aiml/juliusbrussee-caveman.md) | ⭐ 51.5k | AI/ML |
+| 3 | [TykTechnologies/tyk](./backend/tyktechnologies-tyk.md) | ⭐ 10.7k | Backend |
+| 4 | [caddyserver/caddy](./backend/caddyserver-caddy.md) | ⭐ 72k | Backend |
+| 5 | [birobirobiro/awesome-shadcn-ui](./frontend/birobirobiro-awesome-shadcn-ui.md) | ⭐ 19.4k | Frontend |
+| 6 | [langchain-ai/langchain](./orchestration/langchain-ai-langchain.md) | ⭐ 135.5k | Orchestration |
+| 7 | [janhq/jan](./aiml/janhq-jan.md) | ⭐ 42.3k | AI/ML |
+| 8 | [CoplayDev/unity-mcp](./aiml/coplaydev-unity-mcp.md) | ⭐ 9.1k | AI/ML |
+| 9 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
+| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
 
 ## 🚀 How it works
 

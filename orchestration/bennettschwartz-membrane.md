@@ -25,7 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The membrane project is an open-source framework for creating adaptive learning and memory systems in agentic AI applications. It provides a typed, revisable, and decayable memory architecture with competence learning capabilities, allowing systems to learn and improve over time. Additionally, it incorporates trust-aware retrieval mechanisms to ensure reliable and accurate information recall.
+Here's a brief summary of the open-source project:
+
+The membrane project is an open-source, selective learning and memory substrate designed for agentic systems. It provides typed, revisable, and decayable memory capabilities, along with competence learning and trust-aware retrieval mechanisms, enabling more intelligent and adaptive decision-making. This project aims to advance the development of sophisticated artificial intelligence and machine learning systems.
 
 ---
 

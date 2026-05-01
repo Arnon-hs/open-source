@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Frona is an open-source personal AI assistant that empowers users to create autonomous agents capable of executing tasks independently. These agents can browse the web, run code, and even delegate tasks to one another, freeing users to focus on high-level decision making. By giving users more control over their digital workflow, Frona aims to revolutionize the way we work with AI.
+Frona is an open-source, personal AI assistant that enables users to create autonomous agents with unique tools and abilities. These agents can independently browse the web, run code, and interact with various services, such as making phone calls and searching the internet, to complete tasks assigned to them. With Frona, users can delegate work to multiple agents and watch as they collaborate to achieve desired outcomes.
 
 ---
 

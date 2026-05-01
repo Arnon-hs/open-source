@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Winpodx is an open-source project that enables users to run Windows applications natively on Linux systems. This allows Linux users to access and run Windows-exclusive software directly on their Linux environment without the need for emulation or virtualization. The project aims to bridge the gap between Linux and Windows ecosystems, providing a seamless experience for users to run Windows applications on Linux.
+Winpodx is an open-source project that enables users to run Windows applications natively on Linux systems. This allows Linux users to access and utilize Windows-exclusive software without the need for virtualization or emulation. By providing a native integration, Winpodx aims to enhance compatibility and user experience for cross-platform applications.
 
 ---
 

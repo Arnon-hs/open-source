@@ -1,6 +1,6 @@
 # wrtnlabs/agentica
 
-[![Stars](https://img.shields.io/github/stars/wrtnlabs/agentica?style=flat-square&color=yellow)](https://github.com/wrtnlabs/agentica/stargazers) [![Forks](https://img.shields.io/github/forks/wrtnlabs/agentica?style=flat-square&color=blue)](https://github.com/wrtnlabs/agentica/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wrtnlabs/agentica?style=flat-square&color=yellow)](https://github.com/wrtnlabs/agentica/stargazers) [![Forks](https://img.shields.io/github/forks/wrtnlabs/agentica?style=flat-square&color=blue)](https://github.com/wrtnlabs/agentica/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript AI AI Function Calling Framework enhanced by compiler skills.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

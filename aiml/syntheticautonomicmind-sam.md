@@ -1,6 +1,6 @@
 # SyntheticAutonomicMind/SAM
 
-[![Stars](https://img.shields.io/github/stars/SyntheticAutonomicMind/SAM?style=flat-square&color=yellow)](https://github.com/SyntheticAutonomicMind/SAM/stargazers) [![Forks](https://img.shields.io/github/forks/SyntheticAutonomicMind/SAM?style=flat-square&color=blue)](https://github.com/SyntheticAutonomicMind/SAM/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SyntheticAutonomicMind/SAM?style=flat-square&color=yellow)](https://github.com/SyntheticAutonomicMind/SAM/stargazers) [![Forks](https://img.shields.io/github/forks/SyntheticAutonomicMind/SAM?style=flat-square&color=blue)](https://github.com/SyntheticAutonomicMind/SAM/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Synthetic Autonomic Mind - An AI assistant for everyone.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

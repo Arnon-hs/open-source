@@ -27,7 +27,7 @@ Frontend · Backend · Data
 
 Here's a brief summary for the guillevc/yubal project:
 
-Yubal is a self-hosted YouTube Music downloader that enables users to tag, organize, and sync playlists from their personal server. This open-source project offers a convenient solution for those looking to manage their music collections and playlists without relying on third-party services. By hosting Yubal on their own servers, users maintain full control over their music data and can access it from anywhere.
+Yubal is an open-source, self-hosted YouTube Music downloader that allows users to manage and organize their music libraries with ease. It enables users to download, tag, and sync their playlists across various devices, providing a seamless music experience. With yubal, users can maintain control over their music collections without relying on third-party services.
 
 ---
 

@@ -1,6 +1,6 @@
 # meshtastic/web
 
-[![Stars](https://img.shields.io/github/stars/meshtastic/web?style=flat-square&color=yellow)](https://github.com/meshtastic/web/stargazers) [![Forks](https://img.shields.io/github/forks/meshtastic/web?style=flat-square&color=blue)](https://github.com/meshtastic/web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meshtastic/web?style=flat-square&color=yellow)](https://github.com/meshtastic/web/stargazers) [![Forks](https://img.shields.io/github/forks/meshtastic/web?style=flat-square&color=blue)](https://github.com/meshtastic/web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Meshtastic Web Client/JS Monorepo
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 755 |
 | 🍴 **Forks** | 275 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

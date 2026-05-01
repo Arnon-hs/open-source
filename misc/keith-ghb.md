@@ -1,6 +1,6 @@
 # keith/ghb
 
-[![Stars](https://img.shields.io/github/stars/keith/ghb?style=flat-square&color=yellow)](https://github.com/keith/ghb/stargazers) [![Forks](https://img.shields.io/github/forks/keith/ghb?style=flat-square&color=blue)](https://github.com/keith/ghb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keith/ghb?style=flat-square&color=yellow)](https://github.com/keith/ghb/stargazers) [![Forks](https://img.shields.io/github/forks/keith/ghb?style=flat-square&color=blue)](https://github.com/keith/ghb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Tools for GitHub
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

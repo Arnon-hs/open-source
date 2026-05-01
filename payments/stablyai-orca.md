@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/stablyai/orca?style=flat-square&color=yellow)](https://github.com/stablyai/orca/stargazers) [![Forks](https://img.shields.io/github/forks/stablyai/orca?style=flat-square&color=blue)](https://github.com/stablyai/orca/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
-> The next-gen IDE for running a fleet of coding agents in parallel. Works with any agent — bring your own subscription
+> Orca is the next-gen IDE for parallel agentic development. Run any coding agent with your own subscription.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 120 |
+| 🍴 **Forks** | 123 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |

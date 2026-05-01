@@ -1,6 +1,6 @@
 # mysteriumnetwork/node
 
-[![Stars](https://img.shields.io/github/stars/mysteriumnetwork/node?style=flat-square&color=yellow)](https://github.com/mysteriumnetwork/node/stargazers) [![Forks](https://img.shields.io/github/forks/mysteriumnetwork/node?style=flat-square&color=blue)](https://github.com/mysteriumnetwork/node/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mysteriumnetwork/node?style=flat-square&color=yellow)](https://github.com/mysteriumnetwork/node/stargazers) [![Forks](https://img.shields.io/github/forks/mysteriumnetwork/node?style=flat-square&color=blue)](https://github.com/mysteriumnetwork/node/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 340 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

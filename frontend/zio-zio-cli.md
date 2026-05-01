@@ -25,9 +25,7 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The zio/zio-cli project empowers developers to rapidly build robust and efficient command-line applications using the ZIO programming framework. With its open-source and versatile design, zio-cli streamlines the development process, allowing users to create powerful CLI tools and apps with ease. This project is ideal for developers seeking to leverage ZIO's strengths in building scalable and concurrent systems.
+The `zio/zio-cli` project is an open-source framework that enables developers to efficiently create robust command-line applications using the ZIO programming model. With its robust feature set, users can rapidly build powerful CLI tools that are scalable, maintainable, and performant. By leveraging ZIO's functional programming capabilities, developers can focus on writing clean, composable code without the overhead of low-level CLI concerns.
 
 ---
 

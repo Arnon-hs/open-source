@@ -1,6 +1,6 @@
 # deepfounder-ai/qwe-qwe
 
-[![Stars](https://img.shields.io/github/stars/deepfounder-ai/qwe-qwe?style=flat-square&color=yellow)](https://github.com/deepfounder-ai/qwe-qwe/stargazers) [![Forks](https://img.shields.io/github/forks/deepfounder-ai/qwe-qwe?style=flat-square&color=blue)](https://github.com/deepfounder-ai/qwe-qwe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepfounder-ai/qwe-qwe?style=flat-square&color=yellow)](https://github.com/deepfounder-ai/qwe-qwe/stargazers) [![Forks](https://img.shields.io/github/forks/deepfounder-ai/qwe-qwe?style=flat-square&color=blue)](https://github.com/deepfounder-ai/qwe-qwe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted AI agent built to drop into business workflows: customer ops, internal automation, knowledge retrieval, scheduled reporting. Deploys on a laptop, a workstation, or your own server — never sends data to a third party unless you tell it to.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

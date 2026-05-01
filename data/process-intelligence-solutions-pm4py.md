@@ -1,6 +1,6 @@
 # process-intelligence-solutions/pm4py
 
-[![Stars](https://img.shields.io/github/stars/process-intelligence-solutions/pm4py?style=flat-square&color=yellow)](https://github.com/process-intelligence-solutions/pm4py/stargazers) [![Forks](https://img.shields.io/github/forks/process-intelligence-solutions/pm4py?style=flat-square&color=blue)](https://github.com/process-intelligence-solutions/pm4py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/process-intelligence-solutions/pm4py?style=flat-square&color=yellow)](https://github.com/process-intelligence-solutions/pm4py/stargazers) [![Forks](https://img.shields.io/github/forks/process-intelligence-solutions/pm4py?style=flat-square&color=blue)](https://github.com/process-intelligence-solutions/pm4py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Official public repository for PM4Py (Process Mining for Python) — an open-source library for exploring, analyzing, and optimizing business processes with Python.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 948 |
 | 🍴 **Forks** | 347 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

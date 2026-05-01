@@ -1,6 +1,6 @@
 # opensesh/KARIMO
 
-[![Stars](https://img.shields.io/github/stars/opensesh/KARIMO?style=flat-square&color=yellow)](https://github.com/opensesh/KARIMO/stargazers) [![Forks](https://img.shields.io/github/forks/opensesh/KARIMO?style=flat-square&color=blue)](https://github.com/opensesh/KARIMO/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensesh/KARIMO?style=flat-square&color=yellow)](https://github.com/opensesh/KARIMO/stargazers) [![Forks](https://img.shields.io/github/forks/opensesh/KARIMO?style=flat-square&color=blue)](https://github.com/opensesh/KARIMO/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code harness engineering plugin — plan mode on steroids. Product design-driven agent orchestration with sub-agents and agent teams, tuned for developers and designers shipping real features. Phased adoption from PRD execution to automated review, code review, and CI-friendly agent teams
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 48 |
-| 🍴 **Forks** | 7 |
+| ⭐ **Stars** | 57 |
+| 🍴 **Forks** | 8 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

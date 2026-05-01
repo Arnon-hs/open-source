@@ -1,6 +1,6 @@
 # tokio-rs/toasty
 
-[![Stars](https://img.shields.io/github/stars/tokio-rs/toasty?style=flat-square&color=yellow)](https://github.com/tokio-rs/toasty/stargazers) [![Forks](https://img.shields.io/github/forks/tokio-rs/toasty?style=flat-square&color=blue)](https://github.com/tokio-rs/toasty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tokio-rs/toasty?style=flat-square&color=yellow)](https://github.com/tokio-rs/toasty/stargazers) [![Forks](https://img.shields.io/github/forks/tokio-rs/toasty?style=flat-square&color=blue)](https://github.com/tokio-rs/toasty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > An async ORM for Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

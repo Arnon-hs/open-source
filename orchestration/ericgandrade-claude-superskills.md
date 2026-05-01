@@ -1,6 +1,6 @@
 # ericgandrade/claude-superskills
 
-[![Stars](https://img.shields.io/github/stars/ericgandrade/claude-superskills?style=flat-square&color=yellow)](https://github.com/ericgandrade/claude-superskills/stargazers) [![Forks](https://img.shields.io/github/forks/ericgandrade/claude-superskills?style=flat-square&color=blue)](https://github.com/ericgandrade/claude-superskills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ericgandrade/claude-superskills?style=flat-square&color=yellow)](https://github.com/ericgandrade/claude-superskills/stargazers) [![Forks](https://img.shields.io/github/forks/ericgandrade/claude-superskills?style=flat-square&color=blue)](https://github.com/ericgandrade/claude-superskills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 55 Universal AI Skills for Claude Code, GitHub Copilot & 6 more platforms. Planning, orchestration, product strategy, career workflows, research, Obsidian knowledge management, document conversion — no API keys required.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | JavaScript |
+| 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

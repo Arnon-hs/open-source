@@ -1,6 +1,6 @@
 # noditlabs/nodit-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/noditlabs/nodit-mcp-server?style=flat-square&color=yellow)](https://github.com/noditlabs/nodit-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/noditlabs/nodit-mcp-server?style=flat-square&color=blue)](https://github.com/noditlabs/nodit-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/noditlabs/nodit-mcp-server?style=flat-square&color=yellow)](https://github.com/noditlabs/nodit-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/noditlabs/nodit-mcp-server?style=flat-square&color=blue)](https://github.com/noditlabs/nodit-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server for AI agents to interact with blockchain data via Nodit’s Web3 Data and Node APIs. Enables LLMs to access structured, multi-chain blockchain context with zero blockchain-specific logic.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

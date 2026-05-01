@@ -1,6 +1,6 @@
 # RPiList/specials
 
-[![Stars](https://img.shields.io/github/stars/RPiList/specials?style=flat-square&color=yellow)](https://github.com/RPiList/specials/stargazers) [![Forks](https://img.shields.io/github/forks/RPiList/specials?style=flat-square&color=blue)](https://github.com/RPiList/specials/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RPiList/specials?style=flat-square&color=yellow)](https://github.com/RPiList/specials/stargazers) [![Forks](https://img.shields.io/github/forks/RPiList/specials?style=flat-square&color=blue)](https://github.com/RPiList/specials/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 253 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

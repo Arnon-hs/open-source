@@ -1,6 +1,6 @@
 # microsoft/azure-skills
 
-[![Stars](https://img.shields.io/github/stars/microsoft/azure-skills?style=flat-square&color=yellow)](https://github.com/microsoft/azure-skills/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/azure-skills?style=flat-square&color=blue)](https://github.com/microsoft/azure-skills/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/azure-skills?style=flat-square&color=yellow)](https://github.com/microsoft/azure-skills/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/azure-skills?style=flat-square&color=blue)](https://github.com/microsoft/azure-skills/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Official agent plugin providing skills and MCP server configurations for Azure scenarios.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 776 |
-| 🍴 **Forks** | 118 |
+| ⭐ **Stars** | 780 |
+| 🍴 **Forks** | 120 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

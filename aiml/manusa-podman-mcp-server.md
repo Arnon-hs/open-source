@@ -25,7 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The manusa/podman-mcp-server project provides an open-source Model Context Protocol (MCP) server for container runtimes, including Podman and Docker. This server enables integration with machine learning models to provide context-aware services within containerized environments. By leveraging MCP, developers can create more intelligent and adaptive applications that respond to changing conditions.
+The manusa/podman-mcp-server is an open-source project that provides a Model Context Protocol (MCP) server for container runtimes, specifically targeting Podman and Docker. This server enables seamless integration and communication between AI/ML models and containerized applications, facilitating more efficient and effective model deployment and management. By providing a standardized protocol, developers can leverage the power of MCP to enhance the development and operation of containerized AI/ML applications.
 
 ---
 

@@ -1,6 +1,6 @@
 # immartian/bellamem
 
-[![Stars](https://img.shields.io/github/stars/immartian/bellamem?style=flat-square&color=yellow)](https://github.com/immartian/bellamem/stargazers) [![Forks](https://img.shields.io/github/forks/immartian/bellamem?style=flat-square&color=blue)](https://github.com/immartian/bellamem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/immartian/bellamem?style=flat-square&color=yellow)](https://github.com/immartian/bellamem/stargazers) [![Forks](https://img.shields.io/github/forks/immartian/bellamem?style=flat-square&color=blue)](https://github.com/immartian/bellamem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent belief-graph memory for AI agents. Retrieves decisive context by importance — not recency, not RAG, not /compact.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

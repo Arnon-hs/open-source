@@ -1,6 +1,6 @@
 # ntorga/agent-starter-kit
 
-[![Stars](https://img.shields.io/github/stars/ntorga/agent-starter-kit?style=flat-square&color=yellow)](https://github.com/ntorga/agent-starter-kit/stargazers) [![Forks](https://img.shields.io/github/forks/ntorga/agent-starter-kit?style=flat-square&color=blue)](https://github.com/ntorga/agent-starter-kit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ntorga/agent-starter-kit?style=flat-square&color=yellow)](https://github.com/ntorga/agent-starter-kit/stargazers) [![Forks](https://img.shields.io/github/forks/ntorga/agent-starter-kit?style=flat-square&color=blue)](https://github.com/ntorga/agent-starter-kit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

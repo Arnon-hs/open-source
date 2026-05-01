@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here is a 2-3 sentence summary for the open-source project:
 
-The Thinking in Java Mind Mapping project is a comprehensive open-source platform that combines notes on programming, AI learning resources, movie guides, reading summaries, life reflections, and game records. This AI/ML-focused repository serves as a centralized knowledge hub for developers and learners interested in exploring various topics. By fostering collaboration and knowledge-sharing, the project aims to accelerate learning and innovation in the AI and programming communities.
+Thinking in Java Mind Mapping is an open-source project that combines various personal notes and reflections, including programming notes, AI learning resources, movie guides, book summaries, life insights, and gaming records. This project aims to facilitate knowledge sharing and personal growth through a structured mind mapping approach. By leveraging AI/ML categories, it offers a comprehensive platform for learning and exploration.
 
 ---
 

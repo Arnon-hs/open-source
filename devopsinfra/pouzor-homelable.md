@@ -1,6 +1,6 @@
 # Pouzor/homelable
 
-[![Stars](https://img.shields.io/github/stars/Pouzor/homelable?style=flat-square&color=yellow)](https://github.com/Pouzor/homelable/stargazers) [![Forks](https://img.shields.io/github/forks/Pouzor/homelable?style=flat-square&color=blue)](https://github.com/Pouzor/homelable/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pouzor/homelable?style=flat-square&color=yellow)](https://github.com/Pouzor/homelable/stargazers) [![Forks](https://img.shields.io/github/forks/Pouzor/homelable?style=flat-square&color=blue)](https://github.com/Pouzor/homelable/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

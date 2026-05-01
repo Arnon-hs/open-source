@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration
+Orchestration · AI/ML
 
 ## 📝 Summary
 

@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The Laravel AI Translator project is an open-source solution that leverages AI technology to automatically translate language files in Laravel applications. This project, inspired by tools like Claude and GPT, enables developers to effortlessly expand their application's global reach by supporting multiple languages. By utilizing AI-driven translation, this tool simplifies the localization process and enhances user experience for a diverse audience.
+Here's a brief summary for the project:
+
+The laravel-ai-translator is an open-source tool that utilizes AI-powered translation capabilities, similar to Claude and GPT, to automatically translate language files with high accuracy. This Laravel package simplifies the process of multilingual support for web applications by leveraging advanced machine learning algorithms. By integrating this translator, developers can easily reach a broader global audience without the need for manual translation.
 
 ---
 

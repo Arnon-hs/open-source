@@ -1,6 +1,6 @@
 # nexu-io/open-design
 
-[![Stars](https://img.shields.io/github/stars/nexu-io/open-design?style=flat-square&color=yellow)](https://github.com/nexu-io/open-design/stargazers) [![Forks](https://img.shields.io/github/forks/nexu-io/open-design?style=flat-square&color=blue)](https://github.com/nexu-io/open-design/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nexu-io/open-design?style=flat-square&color=yellow)](https://github.com/nexu-io/open-design/stargazers) [![Forks](https://img.shields.io/github/forks/nexu-io/open-design?style=flat-square&color=blue)](https://github.com/nexu-io/open-design/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
 > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.2k |
-| 🍴 **Forks** | 914 |
+| ⭐ **Stars** | 8.8k |
+| 🍴 **Forks** | 982 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 99/100 |
+| 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

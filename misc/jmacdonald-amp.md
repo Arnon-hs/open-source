@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The amp project is a comprehensive, open-source text editor designed to be used directly from the terminal. It provides users with a powerful and feature-rich editing experience, rivaling traditional desktop-based text editors. With amp, users can create, edit, and manage files in a convenient and accessible way from the command line.
+The amp project is an open-source, terminal-based text editor that offers a complete and user-friendly writing experience. With its customizable interface and feature-rich functionality, amp empowers users to edit and create text files directly from their terminal. This versatile tool is ideal for developers, writers, and anyone seeking a lightweight, command-line text editor.
 
 ---
 

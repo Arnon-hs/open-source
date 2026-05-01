@@ -1,6 +1,6 @@
 # go-swagger/go-swagger
 
-[![Stars](https://img.shields.io/github/stars/go-swagger/go-swagger?style=flat-square&color=yellow)](https://github.com/go-swagger/go-swagger/stargazers) [![Forks](https://img.shields.io/github/forks/go-swagger/go-swagger?style=flat-square&color=blue)](https://github.com/go-swagger/go-swagger/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/go-swagger/go-swagger?style=flat-square&color=yellow)](https://github.com/go-swagger/go-swagger/stargazers) [![Forks](https://img.shields.io/github/forks/go-swagger/go-swagger?style=flat-square&color=blue)](https://github.com/go-swagger/go-swagger/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
 > Swagger 2.0 implementation for go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 99/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
