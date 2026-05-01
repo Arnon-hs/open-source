@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Cap-go/capgo-skills open-source project provides a set of skills tailored for AI coding agents to seamlessly integrate with Capacitor, enabling efficient and effective collaboration between humans and AI in software development. This project offers a framework for AI agents to assist with various coding tasks, enhancing productivity and code quality. By leveraging these skills, developers can unlock the full potential of AI-powered coding assistance within the Capacitor ecosystem.
+The Cap-go/capgo-skills project is an open-source initiative that provides essential skills for AI coding agents to work seamlessly with Capacitor, a popular cross-platform app development framework. This AI-focused project enhances the capabilities of AI coding agents by enabling them to efficiently interact with Capacitor, facilitating streamlined app development and deployment. By leveraging capgo-skills, developers can unlock the full potential of AI-assisted coding.
 
 ---
 

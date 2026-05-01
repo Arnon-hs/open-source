@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Rucola is a terminal-based note management tool that utilizes markdown formatting to create and organize notes. This open-source project provides a simple and efficient way to jot down and store information, ideal for users who prefer a command-line interface. With Rucola, users can effortlessly create, edit, and manage their notes from the comfort of their terminal.
+Rucola is a terminal-based markdown note manager that allows users to efficiently organize and edit notes in a command-line interface. This open-source tool is designed to provide a simple and flexible way to manage notes, making it ideal for those who prefer a minimalistic approach. With Rucola, users can create, edit, and view notes using standard markdown syntax.
 
 ---
 

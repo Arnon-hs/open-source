@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-GoMLX is an open-source, accelerated machine learning framework designed for the Go programming language, providing a seamless and efficient experience for developers to build and deploy AI-driven applications. This framework streamlines various machine learning tasks, leveraging Go's performance capabilities to accelerate computations and enhance overall productivity. By utilizing GoMLX, developers can efficiently develop, test, and deploy machine learning models at scale.
+GoMLX is an open-source, accelerated machine learning framework written in Go, designed to provide a high-performance and efficient platform for building and deploying AI and ML applications. It aims to leverage the strengths of the Go language to deliver fast and scalable machine learning capabilities, making it an attractive choice for data scientists and engineers. By utilizing Go's concurrency features and optimized libraries, GoMLX enables developers to develop and deploy ML models with ease and speed.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The resonant project is an open-source relational AI framework that enables the development of sophisticated AI agents capable of maintaining relationships, remembering past interactions, and adapting over time. Built on the Claude Agent SDK, this framework integrates memory and MCP features to create a more human-like AI experience. By utilizing resonant, developers can craft AI agents that grow and evolve in a continuous and meaningful way.
+The resonant project is an open-source relational AI framework that enables the creation of relationship-aware AI agents with persistent identity, memory, and learning capabilities. Built on the Claude Agent SDK, resonant allows developers to build AI agents that remember and grow over time, maintaining continuity in their interactions. This framework aims to revolutionize AI development by providing a more realistic and dynamic approach to artificial intelligence.
 
 ---
 

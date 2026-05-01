@@ -1,6 +1,6 @@
 # igniterealtime/Openfire
 
-[![Stars](https://img.shields.io/github/stars/igniterealtime/Openfire?style=flat-square&color=yellow)](https://github.com/igniterealtime/Openfire/stargazers) [![Forks](https://img.shields.io/github/forks/igniterealtime/Openfire?style=flat-square&color=blue)](https://github.com/igniterealtime/Openfire/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/igniterealtime/Openfire?style=flat-square&color=yellow)](https://github.com/igniterealtime/Openfire/stargazers) [![Forks](https://img.shields.io/github/forks/igniterealtime/Openfire?style=flat-square&color=blue)](https://github.com/igniterealtime/Openfire/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > An XMPP server licensed under the Open Source Apache License.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, shinpr/ai-coding-project-boilerplate, provides a TypeScript-based boilerplate for Claude Code, a framework for building sub-agent workflows with integrated quality checks and context engineering. The boilerplate is designed to facilitate efficient and scalable development of AI/ML projects by offering a streamlined coding experience. It is suitable for use cases involving orchestration, frontend development, and AI/ML pipeline management.
+This open-source project, 'ai-coding-project-boilerplate', provides a comprehensive TypeScript boilerplate for Claude Code, enabling the development of sub-agent workflows with integrated quality checks. It also includes context engineering capabilities, making it an ideal starting point for building AI and ML projects. This boilerplate is designed to streamline the development process and ensure high-quality coding.
 
 ---
 

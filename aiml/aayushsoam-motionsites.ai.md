@@ -1,6 +1,6 @@
 # aayushsoam/motionsites.ai
 
-[![Stars](https://img.shields.io/github/stars/aayushsoam/motionsites.ai?style=flat-square&color=yellow)](https://github.com/aayushsoam/motionsites.ai/stargazers) [![Forks](https://img.shields.io/github/forks/aayushsoam/motionsites.ai?style=flat-square&color=blue)](https://github.com/aayushsoam/motionsites.ai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aayushsoam/motionsites.ai?style=flat-square&color=yellow)](https://github.com/aayushsoam/motionsites.ai/stargazers) [![Forks](https://img.shields.io/github/forks/aayushsoam/motionsites.ai?style=flat-square&color=blue)](https://github.com/aayushsoam/motionsites.ai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > motionsites.ai
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 39 |
-| 🍴 **Forks** | 15 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

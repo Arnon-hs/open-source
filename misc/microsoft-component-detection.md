@@ -1,6 +1,6 @@
 # microsoft/component-detection
 
-[![Stars](https://img.shields.io/github/stars/microsoft/component-detection?style=flat-square&color=yellow)](https://github.com/microsoft/component-detection/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/component-detection?style=flat-square&color=blue)](https://github.com/microsoft/component-detection/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/component-detection?style=flat-square&color=yellow)](https://github.com/microsoft/component-detection/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/component-detection?style=flat-square&color=blue)](https://github.com/microsoft/component-detection/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Scans your project to determine what components you use
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

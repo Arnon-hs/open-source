@@ -1,6 +1,6 @@
 # kubernetes-sigs/node-feature-discovery
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/node-feature-discovery?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/node-feature-discovery/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/node-feature-discovery?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/node-feature-discovery/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/node-feature-discovery?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/node-feature-discovery/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/node-feature-discovery?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/node-feature-discovery/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Node feature discovery for Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 307 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

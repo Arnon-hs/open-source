@@ -1,6 +1,6 @@
 # scalacenter/bloop
 
-[![Stars](https://img.shields.io/github/stars/scalacenter/bloop?style=flat-square&color=yellow)](https://github.com/scalacenter/bloop/stargazers) [![Forks](https://img.shields.io/github/forks/scalacenter/bloop?style=flat-square&color=blue)](https://github.com/scalacenter/bloop/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scalacenter/bloop?style=flat-square&color=yellow)](https://github.com/scalacenter/bloop/stargazers) [![Forks](https://img.shields.io/github/forks/scalacenter/bloop?style=flat-square&color=blue)](https://github.com/scalacenter/bloop/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 938 |
 | 🍴 **Forks** | 216 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

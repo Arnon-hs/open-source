@@ -1,6 +1,6 @@
 # sumup/sumup-android-sdk
 
-[![Stars](https://img.shields.io/github/stars/sumup/sumup-android-sdk?style=flat-square&color=yellow)](https://github.com/sumup/sumup-android-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/sumup/sumup-android-sdk?style=flat-square&color=blue)](https://github.com/sumup/sumup-android-sdk/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sumup/sumup-android-sdk?style=flat-square&color=yellow)](https://github.com/sumup/sumup-android-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/sumup/sumup-android-sdk?style=flat-square&color=blue)](https://github.com/sumup/sumup-android-sdk/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > SumUp Android SDK.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

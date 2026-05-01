@@ -1,6 +1,6 @@
 # SerendipityOneInc/APIClaw-Skills
 
-[![Stars](https://img.shields.io/github/stars/SerendipityOneInc/APIClaw-Skills?style=flat-square&color=yellow)](https://github.com/SerendipityOneInc/APIClaw-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/SerendipityOneInc/APIClaw-Skills?style=flat-square&color=blue)](https://github.com/SerendipityOneInc/APIClaw-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SerendipityOneInc/APIClaw-Skills?style=flat-square&color=yellow)](https://github.com/SerendipityOneInc/APIClaw-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/SerendipityOneInc/APIClaw-Skills?style=flat-square&color=blue)](https://github.com/SerendipityOneInc/APIClaw-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > APIClaw Skills - AI Agent capabilities for Amazon Product Research
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

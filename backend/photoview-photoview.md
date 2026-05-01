@@ -25,9 +25,7 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the photoview project:
-
-Photoview is an open-source photo gallery solution designed for self-hosted personal servers, allowing users to easily organize and share their photos with others. This robust platform is built with flexibility and customization in mind, making it an ideal choice for individuals looking to host and manage their personal photo collections. By self-hosting photoview, users maintain full control over their data and can enjoy a seamless photo management experience.
+Photoview is an open-source, self-hosted photo gallery project designed for personal servers. It provides a simple and user-friendly way to manage and showcase your personal photo collections, offering a flexible solution for digital photo storage and organization. By hosting your own photo gallery, you maintain full control over your photos and data.
 
 ---
 

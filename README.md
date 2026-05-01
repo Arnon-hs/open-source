@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **13471** |
+| 🗂️ **Total projects** | **13541** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,21 +18,21 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5109 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2666 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1307 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1025 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 827 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 799 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 479 | [Browse →](./crypto/) |
-| 📊 **Data** | 308 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 294 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 5129 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2685 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1315 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1028 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 832 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 806 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 482 | [Browse →](./crypto/) |
+| 📊 **Data** | 309 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 295 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 166 | [Browse →](./mobile/) |
-| 💳 **Payments** | 144 | [Browse →](./payments/) |
+| 💳 **Payments** | 146 | [Browse →](./payments/) |
 | 📈 **Trading** | 140 | [Browse →](./trading/) |
 | 🔐 **Security** | 112 | [Browse →](./security/) |
 | ✨ **Design** | 42 | [Browse →](./design/) |
-| 🎯 **Product** | 27 | [Browse →](./product/) |
+| 🎯 **Product** | 28 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 26 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
@@ -43,12 +43,12 @@
 | 2 | [xournalpp/xournalpp](./misc/xournalpp-xournalpp.md) | ⭐ 14.7k | Misc |
 | 3 | [playcanvas/engine](./frontend/playcanvas-engine.md) | ⭐ 14.8k | Frontend |
 | 4 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 5 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 6 | [qutebrowser/qutebrowser](./misc/qutebrowser-qutebrowser.md) | ⭐ 11.5k | Misc |
-| 7 | [directus/directus](./frontend/directus-directus.md) | ⭐ 35k | Frontend |
-| 8 | [doocs/leetcode](./misc/doocs-leetcode.md) | ⭐ 36k | Misc |
-| 9 | [Anuken/Mindustry](./mobile/anuken-mindustry.md) | ⭐ 27.4k | Mobile |
-| 10 | [locustio/locust](./aiml/locustio-locust.md) | ⭐ 27.7k | AI/ML |
+| 5 | [apache/tvm](./misc/apache-tvm.md) | ⭐ 13.3k | Misc |
+| 6 | [thedotmack/claude-mem](./orchestration/thedotmack-claude-mem.md) | ⭐ 70.6k | Orchestration |
+| 7 | [Stirling-Tools/Stirling-PDF](./devopsinfra/stirling-tools-stirling-pdf.md) | ⭐ 78k | DevOps & Infra |
+| 8 | [gravitational/teleport](./backend/gravitational-teleport.md) | ⭐ 20.2k | Backend |
+| 9 | [Yeachan-Heo/oh-my-claudecode](./orchestration/yeachan-heo-oh-my-claudecode.md) | ⭐ 32.1k | Orchestration |
+| 10 | [xbmc/xbmc](./aiml/xbmc-xbmc.md) | ⭐ 20.7k | AI/ML |
 
 ## 🚀 How it works
 

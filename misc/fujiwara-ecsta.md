@@ -1,6 +1,6 @@
 # fujiwara/ecsta
 
-[![Stars](https://img.shields.io/github/stars/fujiwara/ecsta?style=flat-square&color=yellow)](https://github.com/fujiwara/ecsta/stargazers) [![Forks](https://img.shields.io/github/forks/fujiwara/ecsta?style=flat-square&color=blue)](https://github.com/fujiwara/ecsta/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fujiwara/ecsta?style=flat-square&color=yellow)](https://github.com/fujiwara/ecsta/stargazers) [![Forks](https://img.shields.io/github/forks/fujiwara/ecsta?style=flat-square&color=blue)](https://github.com/fujiwara/ecsta/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > ECS Task Assistant tool.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

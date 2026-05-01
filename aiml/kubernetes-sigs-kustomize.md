@@ -25,7 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Kustomize is an open-source tool for customizing Kubernetes YAML configurations, providing a simple and efficient way to manage and deploy complex cloud-native applications. It allows users to define and manage infrastructure configurations in a declarative manner, reducing the complexity and manual effort required for Kubernetes deployment and management. With Kustomize, developers can focus on writing application code rather than worrying about the underlying infrastructure.
+The kustomize project is an open-source tool that allows users to customize and manage Kubernetes YAML configurations in a scalable and declarative manner. It provides a simple way to define and apply overlays to Kubernetes manifests, making it easier to manage complex deployments and rollouts. With kustomize, users can automate the customization of Kubernetes resources, reducing the complexity and time required for infrastructure management.
 
 ---
 

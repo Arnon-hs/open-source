@@ -25,7 +25,9 @@ Payments · Data
 
 ## 📝 Summary
 
-dj-stripe is an open-source project that simplifies working with Stripe data in Django applications. It automatically syncs Stripe data to a local database, presenting it as Django models that can be easily accessed and manipulated using the Django Object-Relational Mapping (ORM) system. This integration streamlines the process of managing payments and related data within Django projects.
+Here's a brief summary for the open-source project dj-stripe:
+
+dj-stripe is an open-source library that seamlessly synchronizes Stripe data with a local database, providing pre-implemented Django models for easy data access. This simplifies working with Stripe data, enabling developers to utilize the Django ORM for efficient and intuitive data manipulation. With dj-stripe, you can focus on building your application without worrying about the complexities of data integration.
 
 ---
 

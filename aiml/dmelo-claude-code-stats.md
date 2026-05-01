@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Claude-Code-Stats is an open-source project that provides insights into the composition and structure of code. Developed by dmelo, this tool leverages data analysis to offer a deeper understanding of programming languages, enabling developers to make informed decisions about code optimization and maintenance. By utilizing AI/ML techniques, Claude-Code-Stats offers a unique approach to code analysis and statistics.
+Claude-Code-Stats is an open-source project that utilizes AI/ML to provide detailed statistics and insights about code repositories. It offers a comprehensive analysis of repository data, helping users understand code complexity, performance, and other key metrics. By leveraging machine learning algorithms, Claude-Code-Stats aims to enhance code quality, maintainability, and collaboration within software development teams.
 
 ---
 

@@ -25,9 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-"Bug-Hunter is an open-source, adversarial AI-powered tool designed to identify and autonomously fix security vulnerabilities, logic errors, and runtime bugs in various development tools and platforms. This multi-agent pipeline supports a range of popular tools, including Claude Code, Cursor, and GitHub Copilot CLI, helping developers streamline their debugging process and enhance code reliability. By automating bug detection and resolution, Bug-Hunter reduces the time and effort required to maintain secure and high-quality code."
+The bug-hunter project is an open-source, multi-agent pipeline that utilizes Adversarial AI to identify and fix security vulnerabilities, logic errors, and runtime bugs in various codebases, including Claude Code, Cursor, and more. This tool autonomously detects issues and applies fixes on a safe branch, streamlining the debugging process. By leveraging AI/ML, bug-hunter aims to significantly improve code quality and reduce vulnerabilities.
 
 ---
 

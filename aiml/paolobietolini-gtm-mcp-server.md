@@ -25,9 +25,9 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the paolobietolini/gtm-mcp-server project:
 
-The GTM-MCP-Server is an open-source project that enables seamless management of Google Tag Manager (GTM) using natural language. By connecting to a Large Language Model (LLM), users can authenticate once and start issuing commands to GTM through intuitive voice or text inputs. This innovative solution streamlines GTM management, reducing the need for complex coding and enhancing collaboration among teams.
+This open-source project, gtm-mcp-server, enables seamless integration of Google Tag Manager with Large Language Models (LLMs), allowing users to manage their GTM accounts through natural language commands. Once authenticated, users can interact with the server using voice or text-based queries, streamlining the process of managing their GTM setup. This innovative solution combines AI/ML capabilities with backend functionality for enhanced security and efficiency.
 
 ---
 

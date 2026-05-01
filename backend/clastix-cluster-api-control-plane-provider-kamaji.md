@@ -1,6 +1,6 @@
 # clastix/cluster-api-control-plane-provider-kamaji
 
-[![Stars](https://img.shields.io/github/stars/clastix/cluster-api-control-plane-provider-kamaji?style=flat-square&color=yellow)](https://github.com/clastix/cluster-api-control-plane-provider-kamaji/stargazers) [![Forks](https://img.shields.io/github/forks/clastix/cluster-api-control-plane-provider-kamaji?style=flat-square&color=blue)](https://github.com/clastix/cluster-api-control-plane-provider-kamaji/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clastix/cluster-api-control-plane-provider-kamaji?style=flat-square&color=yellow)](https://github.com/clastix/cluster-api-control-plane-provider-kamaji/stargazers) [![Forks](https://img.shields.io/github/forks/clastix/cluster-api-control-plane-provider-kamaji?style=flat-square&color=blue)](https://github.com/clastix/cluster-api-control-plane-provider-kamaji/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > The Kamaji Control Plane provider implementation of the Cluster Management API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

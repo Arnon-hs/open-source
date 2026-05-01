@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 46 |
+| ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the WanLanglin/-awesome-cc-harness project:
+Here's a brief summary of the WanLanglin/-awesome-cc-harness project:
 
-The WanLanglin/-awesome-cc-harness project is an open-source initiative focused on reverse-engineering the 512K LOC TypeScript source of Claude Code, a significant AI/ML project. This reverse-engineering effort aims to dissect key components such as the agent loop, tool system, permission model, and Grove training pipeline, with the goal of improving understanding and replicability. By shedding light on Claude Code's inner workings, the project seeks to accelerate AI/ML research and development.
+WanLanglin/-awesome-cc-harness is an open-source project aimed at reverse-engineering the complex architecture of Claude Code, a large-scale AI model with over 512,000 lines of code. The project focuses on dissecting key components such as the agent loop, tool system, permission model, and Grove training pipeline, as well as implementing anti-distillation defense mechanisms. By making this knowledge publicly available, WanLanglin/-awesome-cc-harness aims to promote transparency and advancement in the AI/ML community.
 
 ---
 

@@ -25,7 +25,9 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The switchboard project is an open-source Kubernetes Operator designed to automate the issuance of DNS records and TLS certificates for Traefik ingress routes. This operator streamlines the setup process for secure and reliable ingress routing in Kubernetes environments. By simplifying the management of DNS and TLS configurations, switchboard enhances the overall scalability and security of Traefik deployments.
+Here's a brief summary for the open-source project "borchero/switchboard":
+
+Switchboard is an open-source Kubernetes Operator that automates the issuance of DNS records and TLS certificates for Traefik ingress routes. This operator streamlines the process of securing Traefik ingress controllers with Let's Encrypt certificates, making it easier to manage and deploy secure web applications in Kubernetes environments. By simplifying the certificate management process, Switchboard enhances the security and reliability of cloud-native applications.
 
 ---
 

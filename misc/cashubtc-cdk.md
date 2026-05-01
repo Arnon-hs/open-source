@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Cashu Development Kit (CDK) is an open-source project that provides a comprehensive set of tools and resources for developers to build, test, and deploy applications. This kit offers a flexible and customizable framework for integrating Cashu services and functionalities, enabling developers to create innovative and seamless experiences for users. By leveraging the CDK, developers can streamline their development process and focus on building high-quality applications.
+The Cashu Development Kit (CDK) is an open-source project that provides a framework for developers to build, test, and deploy Cashu-related applications. This kit aims to facilitate the integration of Cashu services into various software projects, allowing for seamless and efficient development processes. By leveraging the CDK, developers can simplify their work and focus on creating innovative solutions for the Cashu ecosystem.
 
 ---
 

@@ -1,6 +1,6 @@
 # plexinc/papr
 
-[![Stars](https://img.shields.io/github/stars/plexinc/papr?style=flat-square&color=yellow)](https://github.com/plexinc/papr/stargazers) [![Forks](https://img.shields.io/github/forks/plexinc/papr?style=flat-square&color=blue)](https://github.com/plexinc/papr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plexinc/papr?style=flat-square&color=yellow)](https://github.com/plexinc/papr/stargazers) [![Forks](https://img.shields.io/github/forks/plexinc/papr?style=flat-square&color=blue)](https://github.com/plexinc/papr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > MongoDB TypeScript-aware Models
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 492 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

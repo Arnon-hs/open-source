@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The typefully/agent-skills project is an open-source initiative that provides AI-driven skills for crafting and scheduling social media content through Typefully. This innovative solution leverages AI/ML capabilities to streamline social media management, saving users time and effort. By automating post drafting and scheduling, the project aims to enhance social media efficiency and productivity.
+The typefully/agent-skills project is an open-source initiative that focuses on developing AI-driven skills for automating social media content creation and scheduling. By integrating with Typefully, this project enables users to draft and schedule social media posts efficiently using artificial intelligence. With a focus on orchestration and AI/ML, it aims to streamline social media management tasks.
 
 ---
 

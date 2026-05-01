@@ -1,17 +1,17 @@
 # cloudflare/agentic-inbox
 
-[![Stars](https://img.shields.io/github/stars/cloudflare/agentic-inbox?style=flat-square&color=yellow)](https://github.com/cloudflare/agentic-inbox/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/agentic-inbox?style=flat-square&color=blue)](https://github.com/cloudflare/agentic-inbox/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudflare/agentic-inbox?style=flat-square&color=yellow)](https://github.com/cloudflare/agentic-inbox/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/agentic-inbox?style=flat-square&color=blue)](https://github.com/cloudflare/agentic-inbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 2.2k |
+| 🍴 **Forks** | 249 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,11 +21,11 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 
-This open-source project enables users to host their own email clone similar to Gmail for free using Cloudflare. By leveraging Cloudflare's infrastructure, users can create a self-hosted email solution that maintains the same functionality as a commercial email service. This project is ideal for individuals seeking greater control and security over their email communications.
+This open-source project enables users to host their own Gmail clone on Cloudflare for free, providing a self-managed alternative to the popular email service. Leveraging Cloudflare's infrastructure, users can establish a custom email platform with advanced features, all while maintaining control over their data. By utilizing this project, individuals can enjoy a free, scalable, and secure email solution.
 
 ---
 

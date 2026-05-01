@@ -1,6 +1,6 @@
 # paul-j-lucas/cdecl
 
-[![Stars](https://img.shields.io/github/stars/paul-j-lucas/cdecl?style=flat-square&color=yellow)](https://github.com/paul-j-lucas/cdecl/stargazers) [![Forks](https://img.shields.io/github/forks/paul-j-lucas/cdecl?style=flat-square&color=blue)](https://github.com/paul-j-lucas/cdecl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paul-j-lucas/cdecl?style=flat-square&color=yellow)](https://github.com/paul-j-lucas/cdecl/stargazers) [![Forks](https://img.shields.io/github/forks/paul-j-lucas/cdecl?style=flat-square&color=blue)](https://github.com/paul-j-lucas/cdecl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Composing and deciphering C (or C++) declarations or casts, aka ‘‘gibberish.’’
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 333 |
+| ⭐ **Stars** | 334 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | C |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

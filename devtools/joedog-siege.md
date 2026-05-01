@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Siege is an open-source, command-line utility for testing and benchmarking HTTP servers and websites. It simulates multiple concurrent users and HTTP requests to evaluate the performance, scalability, and reliability of web applications under various load conditions. By providing a detailed analysis of metrics such as response times and error rates, Siege helps developers and administrators optimize their infrastructure and improve the overall user experience.
+Siege is an open-source, command-line tool designed for HTTP load testing and benchmarking. It allows users to simulate large volumes of traffic, providing insights into the performance and scalability of web applications under various loads. With Siege, developers can identify bottlenecks and optimize their infrastructure for better responsiveness and reliability.
 
 ---
 

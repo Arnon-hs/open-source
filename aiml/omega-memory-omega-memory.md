@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary for the omega-memory project:
 
-Omega-Memory is an open-source project that provides persistent memory capabilities for AI coding agents, enabling them to retain knowledge and learn from past experiences. This feature-rich memory system facilitates seamless interaction between AI agents and their environment, allowing for more efficient and effective learning. By providing a robust and scalable solution, Omega-Memory supports the development of advanced AI applications.
+Omega-memory is an open-source framework that provides persistent memory capabilities for AI coding agents, enabling them to learn and retain complex information over time. This backend solution facilitates the development of intelligent systems that can adapt and evolve in response to changing environments and tasks. By providing a robust and scalable memory infrastructure, omega-memory empowers AI agents to learn from experience and improve their performance over time.
 
 ---
 

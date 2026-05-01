@@ -1,6 +1,6 @@
 # langfuse/langfuse-python
 
-[![Stars](https://img.shields.io/github/stars/langfuse/langfuse-python?style=flat-square&color=yellow)](https://github.com/langfuse/langfuse-python/stargazers) [![Forks](https://img.shields.io/github/forks/langfuse/langfuse-python?style=flat-square&color=blue)](https://github.com/langfuse/langfuse-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langfuse/langfuse-python?style=flat-square&color=yellow)](https://github.com/langfuse/langfuse-python/stargazers) [![Forks](https://img.shields.io/github/forks/langfuse/langfuse-python?style=flat-square&color=blue)](https://github.com/langfuse/langfuse-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 389 |
-| 🍴 **Forks** | 263 |
+| 🍴 **Forks** | 264 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

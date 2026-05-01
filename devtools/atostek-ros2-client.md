@@ -1,6 +1,6 @@
 # Atostek/ros2-client
 
-[![Stars](https://img.shields.io/github/stars/Atostek/ros2-client?style=flat-square&color=yellow)](https://github.com/Atostek/ros2-client/stargazers) [![Forks](https://img.shields.io/github/forks/Atostek/ros2-client?style=flat-square&color=blue)](https://github.com/Atostek/ros2-client/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Atostek/ros2-client?style=flat-square&color=yellow)](https://github.com/Atostek/ros2-client/stargazers) [![Forks](https://img.shields.io/github/forks/Atostek/ros2-client?style=flat-square&color=blue)](https://github.com/Atostek/ros2-client/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > ROS2 client library based on RustDDS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

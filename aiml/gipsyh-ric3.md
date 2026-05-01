@@ -1,6 +1,6 @@
 # gipsyh/rIC3
 
-[![Stars](https://img.shields.io/github/stars/gipsyh/rIC3?style=flat-square&color=yellow)](https://github.com/gipsyh/rIC3/stargazers) [![Forks](https://img.shields.io/github/forks/gipsyh/rIC3?style=flat-square&color=blue)](https://github.com/gipsyh/rIC3/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gipsyh/rIC3?style=flat-square&color=yellow)](https://github.com/gipsyh/rIC3/stargazers) [![Forks](https://img.shields.io/github/forks/gipsyh/rIC3?style=flat-square&color=blue)](https://github.com/gipsyh/rIC3/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > LLM-Assisted Hardware Formal Verification Tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

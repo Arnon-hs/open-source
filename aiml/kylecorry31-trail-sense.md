@@ -1,6 +1,6 @@
 # kylecorry31/Trail-Sense
 
-[![Stars](https://img.shields.io/github/stars/kylecorry31/Trail-Sense?style=flat-square&color=yellow)](https://github.com/kylecorry31/Trail-Sense/stargazers) [![Forks](https://img.shields.io/github/forks/kylecorry31/Trail-Sense?style=flat-square&color=blue)](https://github.com/kylecorry31/Trail-Sense/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kylecorry31/Trail-Sense?style=flat-square&color=yellow)](https://github.com/kylecorry31/Trail-Sense/stargazers) [![Forks](https://img.shields.io/github/forks/kylecorry31/Trail-Sense?style=flat-square&color=blue)](https://github.com/kylecorry31/Trail-Sense/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

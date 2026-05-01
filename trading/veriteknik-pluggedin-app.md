@@ -25,9 +25,9 @@ Trading · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the pluggedin-app:
+Here's a 2-3 sentence summary for the pluggedin-app project:
 
-"pluggedin-app is an open-source, self-hostable web interface that facilitates unified management of AI data exchanges across multiple Model Context Protocol (MCP) sources. It integrates AI tools, workspaces, prompts, and logs from various MCP servers, such as Claude and Cursor, into a centralized platform. This enables seamless discovery, configuration, and management of AI data, empowering users to streamline their AI workflows."
+Pluggedin-app is an open-source, self-hostable web interface that streamlines AI data exchanges by unifying Model Context Protocol (MCP) servers from various sources. This platform enables users to discover, configure, and manage AI tools, workspaces, prompts, and logs from multiple MCP servers, such as Claude and Cursor, under a single roof. By bringing together disparate AI data sources, pluggedin-app facilitates seamless collaboration and efficient workflow management.
 
 ---
 

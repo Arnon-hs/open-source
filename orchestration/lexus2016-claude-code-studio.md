@@ -1,6 +1,6 @@
 # Lexus2016/claude-code-studio
 
-[![Stars](https://img.shields.io/github/stars/Lexus2016/claude-code-studio?style=flat-square&color=yellow)](https://github.com/Lexus2016/claude-code-studio/stargazers) [![Forks](https://img.shields.io/github/forks/Lexus2016/claude-code-studio?style=flat-square&color=blue)](https://github.com/Lexus2016/claude-code-studio/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lexus2016/claude-code-studio?style=flat-square&color=yellow)](https://github.com/Lexus2016/claude-code-studio/stargazers) [![Forks](https://img.shields.io/github/forks/Lexus2016/claude-code-studio?style=flat-square&color=blue)](https://github.com/Lexus2016/claude-code-studio/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A fully functional web workspace for Claude Code CLI—chat, Kanban task board, task scheduling, multi-agent orchestration, MCP servers, skills, remote access (Web, SSH, Telegram), projects, and real-time data streaming.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

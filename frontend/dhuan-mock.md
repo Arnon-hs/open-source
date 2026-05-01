@@ -25,9 +25,7 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the dhuan/mock project:
-
-Dhuan/mock is an open-source project that simplifies the process of building and testing APIs, making it easier for developers to create and iterate on their API solutions. With this tool, developers can quickly design, implement, and test APIs, streamlining their workflow and reducing development time. By leveraging dhuan/mock, developers can focus on building robust and scalable APIs.
+This open-source project, "dhuan/mock", is a tool designed to simplify the process of building and testing APIs. It aims to streamline the development workflow by providing a user-friendly interface for API creation and validation. With "dhuan/mock", developers can focus on building robust and efficient APIs with minimal hassle.
 
 ---
 

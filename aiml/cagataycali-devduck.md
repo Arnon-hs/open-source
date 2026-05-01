@@ -1,6 +1,6 @@
 # cagataycali/devduck
 
-[![Stars](https://img.shields.io/github/stars/cagataycali/devduck?style=flat-square&color=yellow)](https://github.com/cagataycali/devduck/stargazers) [![Forks](https://img.shields.io/github/forks/cagataycali/devduck?style=flat-square&color=blue)](https://github.com/cagataycali/devduck/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cagataycali/devduck?style=flat-square&color=yellow)](https://github.com/cagataycali/devduck/stargazers) [![Forks](https://img.shields.io/github/forks/cagataycali/devduck?style=flat-square&color=blue)](https://github.com/cagataycali/devduck/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Minimalist AI agent that fixes itself when things break.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

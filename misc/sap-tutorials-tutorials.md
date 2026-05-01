@@ -1,6 +1,6 @@
 # sap-tutorials/Tutorials
 
-[![Stars](https://img.shields.io/github/stars/sap-tutorials/Tutorials?style=flat-square&color=yellow)](https://github.com/sap-tutorials/Tutorials/stargazers) [![Forks](https://img.shields.io/github/forks/sap-tutorials/Tutorials?style=flat-square&color=blue)](https://github.com/sap-tutorials/Tutorials/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sap-tutorials/Tutorials?style=flat-square&color=yellow)](https://github.com/sap-tutorials/Tutorials/stargazers) [![Forks](https://img.shields.io/github/forks/sap-tutorials/Tutorials?style=flat-square&color=blue)](https://github.com/sap-tutorials/Tutorials/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Tutorials on sap.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 867 |
 | 🍴 **Forks** | 835 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
