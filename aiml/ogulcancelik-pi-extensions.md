@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The ogulcancelik/pi-extensions project provides a collection of extensions for pi, a terminal-based coding agent. These extensions enhance pi's functionality, enabling users to unlock more advanced features and capabilities. By offering additional functionality, pi-extensions empowers developers to leverage the full potential of this AI/ML-based coding tool.
+Here's a brief summary for the ogulcancelik/pi-extensions project:
+
+The pi-extensions project provides a collection of open-source extensions for pi, a terminal-based coding agent designed to accelerate AI and machine learning tasks. These extensions enhance the functionality of pi, empowering developers to create more efficient and effective workflows for their coding needs. By contributing to this project, users can expand the capabilities of pi and advance the field of AI and machine learning.
 
 ---
 

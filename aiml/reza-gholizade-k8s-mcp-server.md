@@ -1,6 +1,6 @@
 # reza-gholizade/k8s-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/reza-gholizade/k8s-mcp-server?style=flat-square&color=yellow)](https://github.com/reza-gholizade/k8s-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/reza-gholizade/k8s-mcp-server?style=flat-square&color=blue)](https://github.com/reza-gholizade/k8s-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reza-gholizade/k8s-mcp-server?style=flat-square&color=yellow)](https://github.com/reza-gholizade/k8s-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/reza-gholizade/k8s-mcp-server?style=flat-square&color=blue)](https://github.com/reza-gholizade/k8s-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Manage Your Kubernetes Cluster with k8s mcp-server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

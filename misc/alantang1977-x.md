@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the open-source project:
+Here's a brief summary of the open-source project:
 
-This open-source project, 'alantang1977/X', is a miscellaneous repository that provides content for testing and learning purposes. However, users are advised to exercise caution and judgment regarding the content's accuracy, completeness, and validity, as the repository manager disclaims any responsibility for its use. The content is intended for non-commercial use and should not be used for activities that violate national, regional, or organizational laws and regulations.
+This repository, alantang1977/X, is a miscellaneous project that aims to provide a platform for testing and learning purposes. The repository content is subject to certain usage restrictions, including non-commercial use and compliance with applicable laws and regulations. It is recommended to review the repository's disclaimer and usage guidelines before utilizing its content.
 
 ---
 

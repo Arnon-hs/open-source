@@ -1,6 +1,6 @@
 # ariso-ai/ivan
 
-[![Stars](https://img.shields.io/github/stars/ariso-ai/ivan?style=flat-square&color=yellow)](https://github.com/ariso-ai/ivan/stargazers) [![Forks](https://img.shields.io/github/forks/ariso-ai/ivan?style=flat-square&color=blue)](https://github.com/ariso-ai/ivan/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ariso-ai/ivan?style=flat-square&color=yellow)](https://github.com/ariso-ai/ivan/stargazers) [![Forks](https://img.shields.io/github/forks/ariso-ai/ivan?style=flat-square&color=blue)](https://github.com/ariso-ai/ivan/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 Ivan: AI-Powered Development Assistant - Breaks down complex tasks, implements them with Claude Code, creates PRs with smart commits, orchestrates AI code reviews, and automatically addresses PR comments
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

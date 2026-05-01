@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary of the open-source project:
 
-The VideoAdGuard plugin is an open-source browser extension designed for Bilibili users that leverages large language models to detect and skip integrated ads in videos. This AI-powered tool automatically identifies and bypasses embedded ads, providing a seamless viewing experience.
+Bilibili Video AdGuard is an open-source browser extension that utilizes AI and machine learning to detect and skip ads in Bilibili videos. With a single click, users can bypass intrusive video ads and sponsored content on the popular Chinese video-sharing platform. This project leverages large language models to provide an enhanced viewing experience.
 
 ---
 

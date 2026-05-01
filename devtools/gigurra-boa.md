@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-GiGurra/boa is an open-source project that simplifies the management of command-line arguments, environment variables, and configuration files in a declarative way. This opinionated tool aims to provide a straightforward and intuitive approach to handling these essential components of software development. By leveraging a declarative syntax, boa enables developers to focus on writing code rather than worrying about configuration details.
+GiGurra/boa is an open-source project that simplifies the management of command-line arguments, environment variables, and configuration files. It provides an opinionated, declarative approach to handling these essential components, making it easier to develop and maintain robust command-line interfaces. By using boa, developers can focus on building their applications rather than worrying about the intricacies of CLI argument parsing and configuration management.
 
 ---
 

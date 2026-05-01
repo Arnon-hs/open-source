@@ -1,6 +1,6 @@
 # smallstep/crypto
 
-[![Stars](https://img.shields.io/github/stars/smallstep/crypto?style=flat-square&color=yellow)](https://github.com/smallstep/crypto/stargazers) [![Forks](https://img.shields.io/github/forks/smallstep/crypto?style=flat-square&color=blue)](https://github.com/smallstep/crypto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smallstep/crypto?style=flat-square&color=yellow)](https://github.com/smallstep/crypto/stargazers) [![Forks](https://img.shields.io/github/forks/smallstep/crypto?style=flat-square&color=blue)](https://github.com/smallstep/crypto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Crypto is a collection of packages used by Smallstep products
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

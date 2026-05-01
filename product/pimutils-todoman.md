@@ -25,7 +25,7 @@ Product
 
 ## 📝 Summary
 
-Todoman is an open-source, command-line task manager that adheres to industry standards. This simple and user-friendly tool allows users to manage their to-do lists with ease, making it an ideal solution for those who prefer a straightforward approach to task organization. Todoman is perfect for individuals and teams seeking a reliable and customizable task management system.
+The Todoman project is an open-source, command-line todo manager that adheres to standards, providing a simple and efficient way to manage tasks. This lightweight tool allows users to easily add, delete, and modify tasks, making it a versatile addition to any productivity workflow. With its focus on simplicity and functionality, Todoman is an ideal choice for those seeking a straightforward task management solution.
 
 ---
 

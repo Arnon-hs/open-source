@@ -1,6 +1,6 @@
 # ipodtouch0218/NSMB-MarioVsLuigi
 
-[![Stars](https://img.shields.io/github/stars/ipodtouch0218/NSMB-MarioVsLuigi?style=flat-square&color=yellow)](https://github.com/ipodtouch0218/NSMB-MarioVsLuigi/stargazers) [![Forks](https://img.shields.io/github/forks/ipodtouch0218/NSMB-MarioVsLuigi?style=flat-square&color=blue)](https://github.com/ipodtouch0218/NSMB-MarioVsLuigi/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ipodtouch0218/NSMB-MarioVsLuigi?style=flat-square&color=yellow)](https://github.com/ipodtouch0218/NSMB-MarioVsLuigi/stargazers) [![Forks](https://img.shields.io/github/forks/ipodtouch0218/NSMB-MarioVsLuigi?style=flat-square&color=blue)](https://github.com/ipodtouch0218/NSMB-MarioVsLuigi/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Standalone Unity remake of New Super Mario Bros DS' multiplayer gamemode, "Mario vs Luigi"
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 383 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Payments · Backend
 
 ## 📝 Summary
 
-The Adyen Java API Library is a comprehensive, open-source library for integrating Adyen's payment processing services into Java-based applications. This library enables developers to easily interact with Adyen's APIs, facilitating secure and reliable transactions. By leveraging this library, developers can streamline payment processing and focus on building innovative payment experiences.
+The Adyen Java API Library is an open-source project that allows developers to easily integrate Adyen's payment services into their Java-based applications. This library provides a simple and efficient way to connect with Adyen's API, enabling secure and seamless payment processing. By leveraging this library, developers can streamline their payment workflows and focus on building innovative applications.
 
 ---
 

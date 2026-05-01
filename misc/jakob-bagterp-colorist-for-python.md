@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the jakob-bagterp/colorist-for-python project:
-
-Colorist is a lightweight, open-source package that simplifies the process of printing colored text in the terminal. It allows developers to enhance the readability and visual appeal of their console output with minimal effort. With Colorist, you can easily add color and style to your terminal-based applications.
+This open-source project, "colorist-for-python," provides a lightweight package for printing colored text in the terminal. It enables developers to add vibrant color to their command-line output with ease and speed, enhancing the visual appeal of their applications. This package is ideal for users looking to add a touch of personality to their terminal-based projects.
 
 ---
 

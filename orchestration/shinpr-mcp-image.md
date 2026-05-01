@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The shinpr/mcp-image project is an open-source MCP server designed for AI image generation and editing, featuring automatic prompt optimization and customizable quality presets. Powered by Gemini, a high-performance AI engine, this project enables seamless image creation with options for fast, balanced, or high-quality output. This orchestration tool is built for backend applications, streamlining AI-driven image generation processes.
+The shinpr/mcp-image project is an open-source MCP server that enables AI-powered image generation and editing capabilities, featuring automatic prompt optimization and customizable quality settings. Built on the Gemini platform, it supports the Nano Banana 2 and Pro models, allowing for efficient and high-quality image processing. This project is ideal for developers and artists seeking to integrate AI-driven image editing into their workflows.
 
 ---
 

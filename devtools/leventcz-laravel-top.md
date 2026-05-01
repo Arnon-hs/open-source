@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Laravel Top is an open-source command-line tool for real-time monitoring of Laravel applications. It provides a simple and intuitive way to track system metrics, such as memory usage, CPU utilization, and Laravel-specific statistics, in real-time. This tool is designed to help developers and sysadmins quickly identify performance issues and optimize their Laravel applications for better performance and efficiency.
+The laravel-top project is an open-source tool that provides real-time monitoring of Laravel applications from the command line. This tool allows developers to track key metrics and performance indicators, enabling them to quickly identify and resolve issues. By offering a simple and intuitive CLI interface, laravel-top streamlines the monitoring and debugging process for Laravel developers.
 
 ---
 

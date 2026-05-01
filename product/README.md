@@ -8,10 +8,10 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.7k | C# | 100/100 |
+| 1 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
 | 2 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.5k | Clojure | 100/100 |
 | 3 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
-| 4 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
+| 4 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.7k | C# | 100/100 |
 | 5 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122.3k | TypeScript | 99/100 |
 | 6 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.9k | C++ | 96/100 |
 | 7 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9.1k | Python | 92/100 |
@@ -23,9 +23,9 @@
 | 13 | [git-town/git-town](./git-town-git-town.md) | ⭐ 3.2k | Gherkin | 71/100 |
 | 14 | [beam-community/elixir-companies](./beam-community-elixir-companies.md) | ⭐ 1.7k | Astro | 63/100 |
 | 15 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 59/100 |
-| 16 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 536 | C | 56/100 |
+| 16 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 537 | C | 56/100 |
 | 17 | [pimutils/todoman](./pimutils-todoman.md) | ⭐ 573 | Python | 55/100 |
-| 18 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 673 | Rust | 55/100 |
+| 18 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 686 | Rust | 55/100 |
 | 19 | [aws-observability/aws-otel-collector](./aws-observability-aws-otel-collector.md) | ⭐ 738 | Go | 54/100 |
 | 20 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | TypeScript | 53/100 |
 | 21 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 657 | Shell | 52/100 |

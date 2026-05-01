@@ -1,6 +1,6 @@
 # ilai-deutel/kibi
 
-[![Stars](https://img.shields.io/github/stars/ilai-deutel/kibi?style=flat-square&color=yellow)](https://github.com/ilai-deutel/kibi/stargazers) [![Forks](https://img.shields.io/github/forks/ilai-deutel/kibi?style=flat-square&color=blue)](https://github.com/ilai-deutel/kibi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ilai-deutel/kibi?style=flat-square&color=yellow)](https://github.com/ilai-deutel/kibi/stargazers) [![Forks](https://img.shields.io/github/forks/ilai-deutel/kibi?style=flat-square&color=blue)](https://github.com/ilai-deutel/kibi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A text editor in ≤1024 lines of code, written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

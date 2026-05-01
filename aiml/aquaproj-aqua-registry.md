@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 315 |
-| 🍴 **Forks** | 325 |
+| 🍴 **Forks** | 327 |
 | 💻 **Language** | YAML |
 | 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |

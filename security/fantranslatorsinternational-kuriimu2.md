@@ -1,6 +1,6 @@
 # FanTranslatorsInternational/Kuriimu2
 
-[![Stars](https://img.shields.io/github/stars/FanTranslatorsInternational/Kuriimu2?style=flat-square&color=yellow)](https://github.com/FanTranslatorsInternational/Kuriimu2/stargazers) [![Forks](https://img.shields.io/github/forks/FanTranslatorsInternational/Kuriimu2?style=flat-square&color=blue)](https://github.com/FanTranslatorsInternational/Kuriimu2/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FanTranslatorsInternational/Kuriimu2?style=flat-square&color=yellow)](https://github.com/FanTranslatorsInternational/Kuriimu2/stargazers) [![Forks](https://img.shields.io/github/forks/FanTranslatorsInternational/Kuriimu2?style=flat-square&color=blue)](https://github.com/FanTranslatorsInternational/Kuriimu2/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Kuriimu is a general purpose game translation project manager and toolkit for authors of fan translations and game mods.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 408 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # sigcli/sigcli
 
-[![Stars](https://img.shields.io/github/stars/sigcli/sigcli?style=flat-square&color=yellow)](https://github.com/sigcli/sigcli/stargazers) [![Forks](https://img.shields.io/github/forks/sigcli/sigcli?style=flat-square&color=blue)](https://github.com/sigcli/sigcli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sigcli/sigcli?style=flat-square&color=yellow)](https://github.com/sigcli/sigcli/stargazers) [![Forks](https://img.shields.io/github/forks/sigcli/sigcli?style=flat-square&color=blue)](https://github.com/sigcli/sigcli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > The authentication CLI & Proxy for AI agents. Give agents access, not your credentials.
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 178 |
+| ⭐ **Stars** | 181 |
 | 🍴 **Forks** | 17 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | Python |
 | 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

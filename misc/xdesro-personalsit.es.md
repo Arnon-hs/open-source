@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 914 |
-| 🍴 **Forks** | 898 |
+| 🍴 **Forks** | 899 |
 | 💻 **Language** | Nunjucks |
 | 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |

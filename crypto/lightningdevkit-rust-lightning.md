@@ -25,9 +25,7 @@ Crypto
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The Rust-Lightning library is a highly modular, open-source Bitcoin Lightning Network implementation written in Rust, enabling secure and efficient transactions on the decentralized network. It offers a robust and flexible framework for building Lightning Network applications, making it an ideal choice for developers. With its modular design and Rust programming language, Rust-Lightning provides a high level of reliability and scalability.
+The rust-lightning project is an open-source, highly modular Bitcoin Lightning library written in Rust. It provides a robust and flexible framework for working with the Lightning Network, allowing developers to build custom applications and services on top of the protocol. This library enables the creation of secure, scalable, and efficient Lightning Network solutions.
 
 ---
 

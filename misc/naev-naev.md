@@ -1,6 +1,6 @@
 # naev/naev
 
-[![Stars](https://img.shields.io/github/stars/naev/naev?style=flat-square&color=yellow)](https://github.com/naev/naev/stargazers) [![Forks](https://img.shields.io/github/forks/naev/naev?style=flat-square&color=blue)](https://github.com/naev/naev/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/naev/naev?style=flat-square&color=yellow)](https://github.com/naev/naev/stargazers) [![Forks](https://img.shields.io/github/forks/naev/naev?style=flat-square&color=blue)](https://github.com/naev/naev/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Naev has moved to codeberg! This is just a mirror.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 937 |
 | 🍴 **Forks** | 202 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

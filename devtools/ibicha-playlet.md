@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 652 |
+| ⭐ **Stars** | 653 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | BrighterScript |
 | 📈 **Score** | 55/100 |

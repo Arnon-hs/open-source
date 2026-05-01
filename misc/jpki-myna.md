@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The jpki/myna project is an open-source utility tool for managing Japanese My Number cards and performing JPKI (Japanese Public Key Infrastructure) signature tasks. It provides a convenient interface for users to interact with their My Number cards and utilize JPKI signing capabilities. This tool aims to facilitate secure and efficient use of these services.
+The jpki/myna project is an open-source utility for managing Japanese My Number cards, providing JPKI (Japanese Public Key Infrastructure) signature functionality. This tool aims to facilitate secure processing and verification of digital signatures related to My Number cards. It caters to users requiring access to JPKI signing capabilities for various applications.
 
 ---
 

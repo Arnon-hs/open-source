@@ -1,6 +1,6 @@
 # MISP/PyMISP
 
-[![Stars](https://img.shields.io/github/stars/MISP/PyMISP?style=flat-square&color=yellow)](https://github.com/MISP/PyMISP/stargazers) [![Forks](https://img.shields.io/github/forks/MISP/PyMISP?style=flat-square&color=blue)](https://github.com/MISP/PyMISP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MISP/PyMISP?style=flat-square&color=yellow)](https://github.com/MISP/PyMISP/stargazers) [![Forks](https://img.shields.io/github/forks/MISP/PyMISP?style=flat-square&color=blue)](https://github.com/MISP/PyMISP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Python library using the MISP Rest API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 484 |
 | 🍴 **Forks** | 284 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

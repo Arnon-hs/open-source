@@ -1,6 +1,6 @@
 # dosemu2/dosemu2
 
-[![Stars](https://img.shields.io/github/stars/dosemu2/dosemu2?style=flat-square&color=yellow)](https://github.com/dosemu2/dosemu2/stargazers) [![Forks](https://img.shields.io/github/forks/dosemu2/dosemu2?style=flat-square&color=blue)](https://github.com/dosemu2/dosemu2/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dosemu2/dosemu2?style=flat-square&color=yellow)](https://github.com/dosemu2/dosemu2/stargazers) [![Forks](https://img.shields.io/github/forks/dosemu2/dosemu2?style=flat-square&color=blue)](https://github.com/dosemu2/dosemu2/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Run DOS programs under linux:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 699 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

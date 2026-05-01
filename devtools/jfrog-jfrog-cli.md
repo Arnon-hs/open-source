@@ -1,6 +1,6 @@
 # jfrog/jfrog-cli
 
-[![Stars](https://img.shields.io/github/stars/jfrog/jfrog-cli?style=flat-square&color=yellow)](https://github.com/jfrog/jfrog-cli/stargazers) [![Forks](https://img.shields.io/github/forks/jfrog/jfrog-cli?style=flat-square&color=blue)](https://github.com/jfrog/jfrog-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jfrog/jfrog-cli?style=flat-square&color=yellow)](https://github.com/jfrog/jfrog-cli/stargazers) [![Forks](https://img.shields.io/github/forks/jfrog/jfrog-cli?style=flat-square&color=blue)](https://github.com/jfrog/jfrog-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > JFrog CLI is a client that provides a simple interface that automates access to the JFrog products.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 582 |
+| ⭐ **Stars** | 583 |
 | 🍴 **Forks** | 295 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

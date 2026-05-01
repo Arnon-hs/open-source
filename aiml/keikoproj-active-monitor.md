@@ -27,7 +27,7 @@ AI/ML · DevOps/Infra
 
 Here's a 2-3 sentence summary for the open-source project:
 
-"Active-Monitor is an open-source project that offers in-depth monitoring and self-healing capabilities for Kubernetes clusters. Leveraging AI and machine learning, this tool enables real-time detection and mitigation of cluster issues, ensuring optimal performance and minimizing downtime. By automating monitoring and healing, Active-Monitor simplifies cluster management and improves overall reliability and efficiency."
+The active-monitor project offers advanced Kubernetes cluster monitoring and self-healing capabilities, empowering efficient detection and resolution of cluster issues. By leveraging AI/ML techniques, active-monitor enables proactive management of Kubernetes environments, reducing downtime and improving overall cluster reliability. This open-source solution is designed to support DevOps and infrastructure teams in achieving high availability and scalability.
 
 ---
 

@@ -1,6 +1,6 @@
 # vbauerster/mpb
 
-[![Stars](https://img.shields.io/github/stars/vbauerster/mpb?style=flat-square&color=yellow)](https://github.com/vbauerster/mpb/stargazers) [![Forks](https://img.shields.io/github/forks/vbauerster/mpb?style=flat-square&color=blue)](https://github.com/vbauerster/mpb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vbauerster/mpb?style=flat-square&color=yellow)](https://github.com/vbauerster/mpb/stargazers) [![Forks](https://img.shields.io/github/forks/vbauerster/mpb?style=flat-square&color=blue)](https://github.com/vbauerster/mpb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > multi progress bar for Go cli applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

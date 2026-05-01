@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Cluster API k3s is an open-source project that integrates the Cluster API (CAP) with the lightweight Kubernetes distribution k3s, providing a scalable and automated way to provision and manage Kubernetes clusters. This project enables users to manage k3s clusters as infrastructure, simplifying the process of cluster creation, scaling, and deletion. By leveraging the Cluster API and k3s, users can enjoy a streamlined and standardized approach to Kubernetes cluster management.
+Cluster API k3s is an open-source project that provides a Kubernetes-native way to provision, upgrade, and manage clusters on top of the k3s runtime. This project enables users to easily create, configure, and manage clusters using standard Kubernetes APIs, streamlining infrastructure operations and improving efficiency. By integrating with k3s, Cluster API k3s offers a scalable and secure way to deploy and manage cloud-native applications.
 
 ---
 

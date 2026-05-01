@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Ironclad/Rivet is an open-source, visual AI programming environment that empowers users to create and train machine learning models. Built using TypeScript, this library provides a user-friendly interface for building and customizing AI applications. With Rivet, developers can design, implement, and deploy AI solutions without extensive programming knowledge.
+Ironclad/Rivet is an open-source visual AI programming environment that enables developers to create and train AI models with ease. It provides a user-friendly interface for building and customizing AI workflows, making it accessible to both experienced professionals and newcomers to the field. As a TypeScript library, Rivet offers a robust foundation for building scalable and maintainable AI applications.
 
 ---
 

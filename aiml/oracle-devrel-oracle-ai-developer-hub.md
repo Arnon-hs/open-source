@@ -1,6 +1,6 @@
 # oracle-devrel/oracle-ai-developer-hub
 
-[![Stars](https://img.shields.io/github/stars/oracle-devrel/oracle-ai-developer-hub?style=flat-square&color=yellow)](https://github.com/oracle-devrel/oracle-ai-developer-hub/stargazers) [![Forks](https://img.shields.io/github/forks/oracle-devrel/oracle-ai-developer-hub?style=flat-square&color=blue)](https://github.com/oracle-devrel/oracle-ai-developer-hub/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oracle-devrel/oracle-ai-developer-hub?style=flat-square&color=yellow)](https://github.com/oracle-devrel/oracle-ai-developer-hub/stargazers) [![Forks](https://img.shields.io/github/forks/oracle-devrel/oracle-ai-developer-hub?style=flat-square&color=blue)](https://github.com/oracle-devrel/oracle-ai-developer-hub/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 289 |
+| ⭐ **Stars** | 290 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

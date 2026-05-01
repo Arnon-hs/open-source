@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/YehudaFrankel/clankbrain?style=flat-square&color=yellow)](https://github.com/YehudaFrankel/clankbrain/stargazers) [![Forks](https://img.shields.io/github/forks/YehudaFrankel/clankbrain?style=flat-square&color=blue)](https://github.com/YehudaFrankel/clankbrain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Give Claude Code a permanent memory — session commands, drift detection, and auto-documented codebase. Built over 140 real dev sessions.
+> Memory + workflows for Claude Code that compound across sessions
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools · Product
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # rustls/rcgen
 
-[![Stars](https://img.shields.io/github/stars/rustls/rcgen?style=flat-square&color=yellow)](https://github.com/rustls/rcgen/stargazers) [![Forks](https://img.shields.io/github/forks/rustls/rcgen?style=flat-square&color=blue)](https://github.com/rustls/rcgen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustls/rcgen?style=flat-square&color=yellow)](https://github.com/rustls/rcgen/stargazers) [![Forks](https://img.shields.io/github/forks/rustls/rcgen?style=flat-square&color=blue)](https://github.com/rustls/rcgen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Generate X.509 certificates, CSRs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 483 |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

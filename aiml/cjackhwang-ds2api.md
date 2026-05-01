@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/CJackHwang/ds2api?style=flat-square&color=yellow)](https://github.com/CJackHwang/ds2api/stargazers) [![Forks](https://img.shields.io/github/forks/CJackHwang/ds2api?style=flat-square&color=blue)](https://github.com/CJackHwang/ds2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
-> Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
+> DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 789 |
+| 🍴 **Forks** | 796 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |

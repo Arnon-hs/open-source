@@ -1,6 +1,6 @@
 # keepnotes-ai/keep
 
-[![Stars](https://img.shields.io/github/stars/keepnotes-ai/keep?style=flat-square&color=yellow)](https://github.com/keepnotes-ai/keep/stargazers) [![Forks](https://img.shields.io/github/forks/keepnotes-ai/keep?style=flat-square&color=blue)](https://github.com/keepnotes-ai/keep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keepnotes-ai/keep?style=flat-square&color=yellow)](https://github.com/keepnotes-ai/keep/stargazers) [![Forks](https://img.shields.io/github/forks/keepnotes-ai/keep?style=flat-square&color=blue)](https://github.com/keepnotes-ai/keep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Reflective memory for AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

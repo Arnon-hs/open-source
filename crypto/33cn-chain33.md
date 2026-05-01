@@ -1,6 +1,6 @@
 # 33cn/chain33
 
-[![Stars](https://img.shields.io/github/stars/33cn/chain33?style=flat-square&color=yellow)](https://github.com/33cn/chain33/stargazers) [![Forks](https://img.shields.io/github/forks/33cn/chain33?style=flat-square&color=blue)](https://github.com/33cn/chain33/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/33cn/chain33?style=flat-square&color=yellow)](https://github.com/33cn/chain33/stargazers) [![Forks](https://img.shields.io/github/forks/33cn/chain33?style=flat-square&color=blue)](https://github.com/33cn/chain33/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 高度模块化, 遵循 KISS原则的区块链开发框架
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 734 |
 | 🍴 **Forks** | 259 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

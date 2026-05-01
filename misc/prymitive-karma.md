@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Karma is an open-source alert dashboard designed for Prometheus Alertmanager. It provides a user-friendly interface for monitoring and managing alerts, allowing users to visualize and respond to alert notifications in a more efficient and organized manner. Karma aims to simplify alert management and improve incident response for teams using Prometheus and Alertmanager.
+Prymitive/karma is an open-source alert dashboard for Prometheus Alertmanager, providing a user-friendly interface to visualize and manage alerts from your monitoring system. This tool enables teams to quickly identify and respond to critical issues, streamlining incident resolution processes. By offering a customizable and intuitive experience, karma aims to simplify the complexities of alert management.
 
 ---
 

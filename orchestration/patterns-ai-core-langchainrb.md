@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The patterns-ai-core/langchainrb project is an open-source initiative that enables developers to build Large Language Model (LLM)-powered applications in Ruby. This project utilizes LangChain, a library for building LLM applications, and provides a Ruby interface for seamless integration with LLMs. By leveraging this project, developers can create innovative AI-driven applications with Ruby.
+The patterns-ai-core/langchainrb project enables developers to build and deploy large language model (LLM)-powered applications in Ruby, providing an accessible interface to integrate AI capabilities into their projects. This open-source library streamlines the process of developing and integrating LLM functionality, making it easier for Ruby developers to create innovative AI-driven applications. By leveraging langchainrb, developers can focus on building their applications without worrying about the complexities of LLM integration.
 
 ---
 

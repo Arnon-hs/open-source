@@ -1,6 +1,6 @@
 # progval/Limnoria
 
-[![Stars](https://img.shields.io/github/stars/progval/Limnoria?style=flat-square&color=yellow)](https://github.com/progval/Limnoria/stargazers) [![Forks](https://img.shields.io/github/forks/progval/Limnoria?style=flat-square&color=blue)](https://github.com/progval/Limnoria/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/progval/Limnoria?style=flat-square&color=yellow)](https://github.com/progval/Limnoria/stargazers) [![Forks](https://img.shields.io/github/forks/progval/Limnoria?style=flat-square&color=blue)](https://github.com/progval/Limnoria/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 659 |
+| ⭐ **Stars** | 660 |
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

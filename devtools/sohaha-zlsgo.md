@@ -1,6 +1,6 @@
 # sohaha/zlsgo
 
-[![Stars](https://img.shields.io/github/stars/sohaha/zlsgo?style=flat-square&color=yellow)](https://github.com/sohaha/zlsgo/stargazers) [![Forks](https://img.shields.io/github/forks/sohaha/zlsgo?style=flat-square&color=blue)](https://github.com/sohaha/zlsgo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sohaha/zlsgo?style=flat-square&color=yellow)](https://github.com/sohaha/zlsgo/stargazers) [![Forks](https://img.shields.io/github/forks/sohaha/zlsgo?style=flat-square&color=blue)](https://github.com/sohaha/zlsgo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 简单易用、足够轻量、性能好的 Golang 库 - Easy to use, light enough, good performance Golang library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

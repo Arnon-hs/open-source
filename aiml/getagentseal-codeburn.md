@@ -1,6 +1,6 @@
 # getagentseal/codeburn
 
-[![Stars](https://img.shields.io/github/stars/getagentseal/codeburn?style=flat-square&color=yellow)](https://github.com/getagentseal/codeburn/stargazers) [![Forks](https://img.shields.io/github/forks/getagentseal/codeburn?style=flat-square&color=blue)](https://github.com/getagentseal/codeburn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getagentseal/codeburn?style=flat-square&color=yellow)](https://github.com/getagentseal/codeburn/stargazers) [![Forks](https://img.shields.io/github/forks/getagentseal/codeburn?style=flat-square&color=blue)](https://github.com/getagentseal/codeburn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
 > See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.7k |
+| ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 356 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

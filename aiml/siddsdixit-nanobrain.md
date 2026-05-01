@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-NanoBrain is an open-source project that integrates Markdown and Git to create a "second brain" for Claude Code, enabling users to leverage AI and machine learning capabilities for knowledge management and organization. This innovative tool empowers users to store, tag, and link notes in a seamless and collaborative environment. By combining Markdown's readability with Git's version control, NanoBrain streamlines knowledge capture and sharing.
+NanoBrain is an open-source project that combines the power of Markdown and Git to create an organized "second brain" for users of Claude Code, an AI-powered writing tool. This innovative platform allows users to store, manage, and connect their ideas, notes, and content in a structured and collaborative environment. By leveraging Markdown and Git, NanoBrain provides a flexible and version-controlled system for users to develop and refine their knowledge and ideas.
 
 ---
 

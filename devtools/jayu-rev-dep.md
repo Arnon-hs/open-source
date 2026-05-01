@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The rev-dep toolkit provides a dependency analysis and optimization solution for JavaScript and TypeScript projects, ensuring clean dependency graphs and removing unused code. This open-source CLI tool is designed to be fast and efficient, allowing developers to streamline their codebases and improve maintainability. By enforcing dependency graph hygiene, rev-dep enables better performance, scalability, and overall code quality.
+The open-source project 'jayu/rev-dep' is a dependency analysis and optimization toolkit designed to maintain clean and efficient JavaScript and TypeScript codebases. It uses a fast CLI to enforce dependency graph hygiene and eliminate unused code, ensuring optimal performance and scalability. This powerful tool is ideal for modern developers looking to streamline their project's dependencies and reduce unnecessary code.
 
 ---
 

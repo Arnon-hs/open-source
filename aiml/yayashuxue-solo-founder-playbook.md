@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/yayashuxue/solo-founder-playbook?style=flat-square&color=yellow)](https://github.com/yayashuxue/solo-founder-playbook/stargazers) [![Forks](https://img.shields.io/github/forks/yayashuxue/solo-founder-playbook?style=flat-square&color=blue)](https://github.com/yayashuxue/solo-founder-playbook/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> 6 data-backed startup skills for Claude Code & OpenAI Codex — powered by 101 Starter Story founder interviews
+> 7 data-backed startup skills for Claude Code & OpenAI Codex — powered by 101 Starter Story founder interviews. Try in browser: solo-founder-playbook.vercel.app/try
 
 ## 📊 Stats
 

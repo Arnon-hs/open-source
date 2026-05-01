@@ -1,6 +1,6 @@
 # Dr-Emann/applesauce
 
-[![Stars](https://img.shields.io/github/stars/Dr-Emann/applesauce?style=flat-square&color=yellow)](https://github.com/Dr-Emann/applesauce/stargazers) [![Forks](https://img.shields.io/github/forks/Dr-Emann/applesauce?style=flat-square&color=blue)](https://github.com/Dr-Emann/applesauce/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dr-Emann/applesauce?style=flat-square&color=yellow)](https://github.com/Dr-Emann/applesauce/stargazers) [![Forks](https://img.shields.io/github/forks/Dr-Emann/applesauce?style=flat-square&color=blue)](https://github.com/Dr-Emann/applesauce/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Transparent compression for Apple File System Compression (AFSC)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 103 |
+| ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

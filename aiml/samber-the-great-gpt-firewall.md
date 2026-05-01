@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Great GPT Firewall is an open-source project that provides a comprehensive list of websites that restrict access to AI agents, AI crawlers, and GPTs. This curated list helps developers and researchers navigate the rapidly evolving landscape of AI accessibility and ensure compliance with website terms of service. By utilizing this resource, users can avoid inadvertently violating website policies and maintain a positive reputation in the AI community.
+The Great GPT Firewall is an open-source project that provides a curated list of websites restricting access to AI agents, AI crawlers, and GPTs. This resource aims to facilitate responsible AI development by helping users navigate websites with GPT limitations. By categorizing these restrictions, the project promotes more informed AI interactions and development best practices.
 
 ---
 

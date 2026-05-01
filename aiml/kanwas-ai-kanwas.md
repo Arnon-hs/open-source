@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/kanwas-ai/kanwas?style=flat-square&color=yellow)](https://github.com/kanwas-ai/kanwas/stargazers) [![Forks](https://img.shields.io/github/forks/kanwas-ai/kanwas?style=flat-square&color=blue)](https://github.com/kanwas-ai/kanwas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
-> Kanwas — open source thinking space for teams and agents
+> Kanwas — Shared context board for teams and agents
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 109 |
+| ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 42/100 |

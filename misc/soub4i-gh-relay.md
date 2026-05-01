@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Gh-relay is an open-source project that enables users to securely share a read-only browser view of their private GitHub repositories via a temporary URL. This allows others to access the repository without requiring them to log in or have direct access to the repository. The project provides a convenient and secure way to collaborate or share repository content without compromising sensitive information.
+Gh-relay is an open-source project that allows you to share a read-only browser view of your private GitHub repository with others via a temporary URL. This tool provides a convenient way to grant access to specific files or folders in your private repository without revealing your entire project. By using Gh-relay, you can control who has access to your sensitive information and for how long.
 
 ---
 

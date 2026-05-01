@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-The sp500-mcp-server project is an open-source backend solution that provides a simple and efficient way to manage and track the S&P 500 index. This server implementation utilizes the MCP (Message Contract Protocol) for data exchange, enabling seamless integration with various applications. By leveraging this project, developers can easily build and deploy their own S&P 500 tracking solutions, simplifying the process of staying up-to-date with market performance.
+Here's a brief summary for the open-source project "zhensherlock/sp500-mcp-server":
+
+This project provides an open-source implementation of an MCP (Master Control Program) server for the S&P 500 index, allowing developers to easily access and manage real-time market data. The MCP server is a powerful tool for building scalable and efficient financial applications. By leveraging this project, developers can create robust and reliable solutions for data analysis, trading, and more.
 
 ---
 

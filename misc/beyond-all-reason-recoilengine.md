@@ -1,6 +1,6 @@
 # beyond-all-reason/RecoilEngine
 
-[![Stars](https://img.shields.io/github/stars/beyond-all-reason/RecoilEngine?style=flat-square&color=yellow)](https://github.com/beyond-all-reason/RecoilEngine/stargazers) [![Forks](https://img.shields.io/github/forks/beyond-all-reason/RecoilEngine?style=flat-square&color=blue)](https://github.com/beyond-all-reason/RecoilEngine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beyond-all-reason/RecoilEngine?style=flat-square&color=yellow)](https://github.com/beyond-all-reason/RecoilEngine/stargazers) [![Forks](https://img.shields.io/github/forks/beyond-all-reason/RecoilEngine?style=flat-square&color=blue)](https://github.com/beyond-all-reason/RecoilEngine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful free cross-platform RTS game engine
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 572 |
+| ⭐ **Stars** | 573 |
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

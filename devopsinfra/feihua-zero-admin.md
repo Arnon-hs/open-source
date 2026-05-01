@@ -1,6 +1,6 @@
 # feihua/zero-admin
 
-[![Stars](https://img.shields.io/github/stars/feihua/zero-admin?style=flat-square&color=yellow)](https://github.com/feihua/zero-admin/stargazers) [![Forks](https://img.shields.io/github/forks/feihua/zero-admin?style=flat-square&color=blue)](https://github.com/feihua/zero-admin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/feihua/zero-admin?style=flat-square&color=yellow)](https://github.com/feihua/zero-admin/stargazers) [![Forks](https://img.shields.io/github/forks/feihua/zero-admin?style=flat-square&color=blue)](https://github.com/feihua/zero-admin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-Admin 是一套基于 go-zero 框架实现的电商系统的后端服务
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 960 |
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

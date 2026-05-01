@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Glyph is an open-source project that enables byte-exact substring retrieval at high speeds, achieving a query time of approximately 1.5 milliseconds. This is achieved through the use of a FM-index, a data structure optimized for efficient substring matching. The project aims to provide a fast and effective solution for substring retrieval applications.
+Glyph is an open-source project that enables fast and accurate substring retrieval, achieving speeds of approximately 1.5 milliseconds. It utilizes a FM-index, a data structure optimized for efficient string matching, to ensure byte-exact results. This project provides a reliable solution for applications requiring rapid substring search capabilities.
 
 ---
 

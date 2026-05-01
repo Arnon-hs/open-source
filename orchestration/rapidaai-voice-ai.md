@@ -1,6 +1,6 @@
 # rapidaai/voice-ai
 
-[![Stars](https://img.shields.io/github/stars/rapidaai/voice-ai?style=flat-square&color=yellow)](https://github.com/rapidaai/voice-ai/stargazers) [![Forks](https://img.shields.io/github/forks/rapidaai/voice-ai?style=flat-square&color=blue)](https://github.com/rapidaai/voice-ai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rapidaai/voice-ai?style=flat-square&color=yellow)](https://github.com/rapidaai/voice-ai/stargazers) [![Forks](https://img.shields.io/github/forks/rapidaai/voice-ai?style=flat-square&color=blue)](https://github.com/rapidaai/voice-ai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state management, and observability.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 587 |
+| ⭐ **Stars** | 589 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
