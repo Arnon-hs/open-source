@@ -1,6 +1,6 @@
 # backmeupplz/voicy
 
-[![Stars](https://img.shields.io/github/stars/backmeupplz/voicy?style=flat-square&color=yellow)](https://github.com/backmeupplz/voicy/stargazers) [![Forks](https://img.shields.io/github/forks/backmeupplz/voicy?style=flat-square&color=blue)](https://github.com/backmeupplz/voicy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/backmeupplz/voicy?style=flat-square&color=yellow)](https://github.com/backmeupplz/voicy/stargazers) [![Forks](https://img.shields.io/github/forks/backmeupplz/voicy?style=flat-square&color=blue)](https://github.com/backmeupplz/voicy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > @voicybot Telegram bot main repository
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 907 |
 | 🍴 **Forks** | 165 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | JavaScript |
 | 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

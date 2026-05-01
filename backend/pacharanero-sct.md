@@ -1,6 +1,6 @@
 # pacharanero/sct
 
-[![Stars](https://img.shields.io/github/stars/pacharanero/sct?style=flat-square&color=yellow)](https://github.com/pacharanero/sct/stargazers) [![Forks](https://img.shields.io/github/forks/pacharanero/sct?style=flat-square&color=blue)](https://github.com/pacharanero/sct/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pacharanero/sct?style=flat-square&color=yellow)](https://github.com/pacharanero/sct/stargazers) [![Forks](https://img.shields.io/github/forks/pacharanero/sct?style=flat-square&color=blue)](https://github.com/pacharanero/sct/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > SNOMED-CT tooling, brought into the 21stC. RF2 → NDJSON → SQLite | Vector | .arrow, | .parquet | .md | refsets | .codelist | MCP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

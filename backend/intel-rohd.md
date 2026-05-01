@@ -25,7 +25,7 @@ Backend · Design
 
 ## 📝 Summary
 
-The intel/rohd project is an open-source framework for Rapid Open Hardware Development, allowing users to describe and verify hardware designs in the Dart programming language. This framework enables developers to create, simulate, and analyze complex hardware systems using a high-level, programming-language-based approach. By leveraging Dart, ROHD provides a flexible and scalable platform for hardware development.
+The intel/rohd project provides a framework for describing and verifying hardware components using the Dart programming language. With its focus on Rapid Open Hardware Development (ROHD), this open-source framework facilitates the creation, validation, and testing of digital circuits. By leveraging Dart, it offers a unique approach to hardware development that combines ease of use with the benefits of a modern, object-oriented language.
 
 ---
 

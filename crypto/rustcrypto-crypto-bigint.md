@@ -1,6 +1,6 @@
 # RustCrypto/crypto-bigint
 
-[![Stars](https://img.shields.io/github/stars/RustCrypto/crypto-bigint?style=flat-square&color=yellow)](https://github.com/RustCrypto/crypto-bigint/stargazers) [![Forks](https://img.shields.io/github/forks/RustCrypto/crypto-bigint?style=flat-square&color=blue)](https://github.com/RustCrypto/crypto-bigint/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RustCrypto/crypto-bigint?style=flat-square&color=yellow)](https://github.com/RustCrypto/crypto-bigint/stargazers) [![Forks](https://img.shields.io/github/forks/RustCrypto/crypto-bigint?style=flat-square&color=blue)](https://github.com/RustCrypto/crypto-bigint/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Cryptography-oriented big integer library with constant-time, stack-allocated (no_std-friendly) implementations of modern formulas
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 296 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

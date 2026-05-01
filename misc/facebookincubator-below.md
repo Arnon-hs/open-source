@@ -1,6 +1,6 @@
 # facebookincubator/below
 
-[![Stars](https://img.shields.io/github/stars/facebookincubator/below?style=flat-square&color=yellow)](https://github.com/facebookincubator/below/stargazers) [![Forks](https://img.shields.io/github/forks/facebookincubator/below?style=flat-square&color=blue)](https://github.com/facebookincubator/below/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebookincubator/below?style=flat-square&color=yellow)](https://github.com/facebookincubator/below/stargazers) [![Forks](https://img.shields.io/github/forks/facebookincubator/below?style=flat-square&color=blue)](https://github.com/facebookincubator/below/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A time traveling resource monitor for modern Linux systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

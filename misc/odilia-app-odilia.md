@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The odilia project is an open-source, high-performance screen reader designed for Unix-based desktop environments. It provides users with an efficient and accessible way to navigate their operating system. With odilia, individuals who are visually impaired can interact with their desktop and applications with ease, enhancing their overall computing experience.
+Odilia is an open-source, high-performance screen reader designed for Unix-like desktop environments. It aims to provide users with a fast and efficient way to navigate and interact with their computers through spoken feedback. By leveraging optimized code, Odilia seeks to improve the accessibility and usability of Unix desktops for visually impaired individuals.
 
 ---
 

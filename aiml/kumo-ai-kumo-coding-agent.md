@@ -25,9 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the kumo-coding-agent project:
-
-Kumo Coding Agent is an open-source project that provides essential tools for building machine learning models using the Kumo SDK. It offers context documentation, skill management, and self-maintenance features to streamline the development process. This agent is designed to facilitate efficient and effective ML model creation, making it a valuable resource for data scientists and developers alike.
+The Kumo Coding Agent is an open-source project that provides a comprehensive toolset for building machine learning (ML) models using the Kumo SDK. It includes features such as context documentation, skill development, and self-maintenance, facilitating efficient and effective ML model development. This project is ideal for developers and researchers working on AI/ML and Data-related applications.
 
 ---
 

@@ -1,6 +1,6 @@
 # BlackHatDevX/openspot-music-app
 
-[![Stars](https://img.shields.io/github/stars/BlackHatDevX/openspot-music-app?style=flat-square&color=yellow)](https://github.com/BlackHatDevX/openspot-music-app/stargazers) [![Forks](https://img.shields.io/github/forks/BlackHatDevX/openspot-music-app?style=flat-square&color=blue)](https://github.com/BlackHatDevX/openspot-music-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlackHatDevX/openspot-music-app?style=flat-square&color=yellow)](https://github.com/BlackHatDevX/openspot-music-app/stargazers) [![Forks](https://img.shields.io/github/forks/BlackHatDevX/openspot-music-app?style=flat-square&color=blue)](https://github.com/BlackHatDevX/openspot-music-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > OpenSpot is a free and open-source music streaming application designed for a seamless, high-fidelity listening experience. Built with a modern tech stack, it features a beautiful, responsive UI that looks great on any device.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 120 |
+| ⭐ **Stars** | 2k |
+| 🍴 **Forks** | 121 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the lovstudio/lovcode project:
-
-lovcode is an open-source desktop companion app designed to enhance your AI coding experience. It allows users to browse and manage their chat history, configurations, commands, and skills within AI coding tools like Claude Code, making it easier to work efficiently and effectively. This app is built for developers who use AI-assisted coding tools, simplifying their workflow and productivity.
+Lovcode is an open-source desktop companion app designed to enhance the user experience of AI coding tools. It allows users to browse chat histories, manage configurations, commands, skills, and more in a centralized and intuitive interface. This app streamlines the workflow for developers and coders who utilize AI-powered coding tools like Claude Code.
 
 ---
 

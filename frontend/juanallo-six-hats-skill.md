@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-A new open-source project has been developed, creating a Claude Code skill for structured decision making. This skill aims to streamline the decision-making process by providing a structured approach, using Claude's AI capabilities to analyze and weigh options. The project is now available on GitHub for developers to explore and contribute to.
+This open-source project presents a Claude Code skill designed for structured decision making, providing a tool for users to approach complex choices in a systematic and organized manner. Built as a frontend solution, it aims to make decision-making more accessible and efficient. The project leverages the Claude Code framework to facilitate a clear and logical decision-making process.
 
 ---
 

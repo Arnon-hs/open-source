@@ -1,6 +1,6 @@
 # subramanya1997/markdownfs
 
-[![Stars](https://img.shields.io/github/stars/subramanya1997/markdownfs?style=flat-square&color=yellow)](https://github.com/subramanya1997/markdownfs/stargazers) [![Forks](https://img.shields.io/github/forks/subramanya1997/markdownfs?style=flat-square&color=blue)](https://github.com/subramanya1997/markdownfs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/subramanya1997/markdownfs?style=flat-square&color=yellow)](https://github.com/subramanya1997/markdownfs/stargazers) [![Forks](https://img.shields.io/github/forks/subramanya1997/markdownfs?style=flat-square&color=blue)](https://github.com/subramanya1997/markdownfs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance, in-memory virtual file system for Markdown files. Unix-like commands, Git-style versioning, content-addressable storage, and multi-user permissions — built in Rust.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 192 |
+| ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

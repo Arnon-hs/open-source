@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Blue Alliance is an open-source web application that provides a comprehensive platform for accessing information about the FIRST Robotics Competition. It offers real-time updates, team and match data, and analytics to enhance the experience of fans, competitors, and volunteers. By leveraging this web app, users can stay informed and engaged throughout the competition season.
+The Blue Alliance is an open-source web application that provides comprehensive information and resources about the FIRST Robotics Competition, making it a valuable tool for teams, judges, and fans. With its user-friendly interface, users can access team information, match schedules, and scores, helping them stay up-to-date with the latest developments in the competition. This web app is a valuable asset for the FIRST community, promoting transparency and accessibility.
 
 ---
 

@@ -1,6 +1,6 @@
 # alec-c4/kickstart
 
-[![Stars](https://img.shields.io/github/stars/alec-c4/kickstart?style=flat-square&color=yellow)](https://github.com/alec-c4/kickstart/stargazers) [![Forks](https://img.shields.io/github/forks/alec-c4/kickstart?style=flat-square&color=blue)](https://github.com/alec-c4/kickstart/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alec-c4/kickstart?style=flat-square&color=yellow)](https://github.com/alec-c4/kickstart/stargazers) [![Forks](https://img.shields.io/github/forks/alec-c4/kickstart?style=flat-square&color=blue)](https://github.com/alec-c4/kickstart/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Ruby on Rails application templates
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The GitHub data source for Grafana enables users to seamlessly integrate and visualize GitHub data within their Grafana dashboards, providing a unified platform for monitoring and tracking project performance. With this open-source project, developers can gain deeper insights into their GitHub repositories, issues, and workflows, streamlining project management and decision-making processes. This data source facilitates a more comprehensive understanding of GitHub data within the Grafana ecosystem.
+The GitHub data source is an open-source project that enables users to visualize GitHub data within Grafana dashboards, providing a seamless and integrated way to track and analyze GitHub metrics. This project allows developers to create customized dashboards to monitor their GitHub repositories, teams, and projects, streamlining their workflow and decision-making process. By leveraging Grafana's intuitive interface, users can easily create data visualizations and reports to gain insights into their GitHub data.
 
 ---
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/vinkius-labs/vurb.ts?style=flat-square&color=yellow)](https://github.com/vinkius-labs/vurb.ts/stargazers) [![Forks](https://img.shields.io/github/forks/vinkius-labs/vurb.ts?style=flat-square&color=blue)](https://github.com/vinkius-labs/vurb.ts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> The Express.js for MCP Servers. Type-safe tools · Presenters that control what the LLM sees · Built-in PII redaction · Deploy once — every AI assistant connects.
+> The TypeScript MCP framework where every AI agent finds its first action — and every action after.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 

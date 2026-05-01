@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the komorebi project:
-
-Komorebi is a free and open-source tiling window manager for Windows, designed to provide a sleek and efficient way to manage your desktop. With its unique tiling capabilities, you can easily organize your windows and workspaces to boost your productivity. This versatile tool is perfect for users seeking a customizable and high-performance window management solution.
+Komorebi is an open-source tiling window manager designed for Windows users, offering a customizable and efficient way to manage windows on their system. Developed by LGUG2Z, this project provides a unique tiling experience, allowing users to arrange windows in a grid-based layout. Its open-source nature facilitates community-driven development and customization.
 
 ---
 

@@ -1,6 +1,6 @@
 # henrydaum/second-brain
 
-[![Stars](https://img.shields.io/github/stars/henrydaum/second-brain?style=flat-square&color=yellow)](https://github.com/henrydaum/second-brain/stargazers) [![Forks](https://img.shields.io/github/forks/henrydaum/second-brain?style=flat-square&color=blue)](https://github.com/henrydaum/second-brain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/henrydaum/second-brain?style=flat-square&color=yellow)](https://github.com/henrydaum/second-brain/stargazers) [![Forks](https://img.shields.io/github/forks/henrydaum/second-brain?style=flat-square&color=blue)](https://github.com/henrydaum/second-brain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Second Brain is an agentic framework that acts as an operating system, using local file intelligence, workflow automation, and LLMs to complete tasks and communicate over multiple modalities and messaging platforms.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 493 |
+| ⭐ **Stars** | 494 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

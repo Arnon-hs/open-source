@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Stealth Benchmark project is an open-source initiative that aims to test the detectability of AI coding interview tools. By creating a stealth benchmark, developers can assess whether these tools can identify and flag automated code submissions, thus helping to prevent cheating in coding interviews. This project contributes to the development of more secure and transparent assessment methods in the field of AI and machine learning.
+Here's a brief summary of the project:
+
+This open-source project, "Stealth Benchmark," conducts a stealthy benchmark test to determine whether AI-powered coding interview tools can detect the user's attempts to cheat or exploit the system. By analyzing the behavior of these tools under various conditions, the project aims to assess their security and reliability in a real-world setting. The findings of this project can help improve the overall integrity of AI-driven coding interview platforms.
 
 ---
 

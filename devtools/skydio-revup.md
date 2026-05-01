@@ -1,6 +1,6 @@
 # Skydio/revup
 
-[![Stars](https://img.shields.io/github/stars/Skydio/revup?style=flat-square&color=yellow)](https://github.com/Skydio/revup/stargazers) [![Forks](https://img.shields.io/github/forks/Skydio/revup?style=flat-square&color=blue)](https://github.com/Skydio/revup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Skydio/revup?style=flat-square&color=yellow)](https://github.com/Skydio/revup/stargazers) [![Forks](https://img.shields.io/github/forks/Skydio/revup?style=flat-square&color=blue)](https://github.com/Skydio/revup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Upload once to create multiple, relative PRs. Productivity-focused git tools with patch revision tracking, rebase detection and more. Uses python and git plumbing commands.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 385 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

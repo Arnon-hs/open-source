@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/Jovancoding/Network-AI?style=flat-square&color=yellow)](https://github.com/Jovancoding/Network-AI/stargazers) [![Forks](https://img.shields.io/github/forks/Jovancoding/Network-AI?style=flat-square&color=blue)](https://github.com/Jovancoding/Network-AI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for 28 AI frameworks
+> Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for 29 AI frameworks
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44 |
+| ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |

@@ -25,9 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the Chanakya-Local-Friend project:
-
-Chanakya is an open-source voice assistant designed for user privacy and control, utilizing local AI/ML models to keep your data secure. This self-hosted assistant integrates with over 1000 third-party services, including Home Assistant, providing a flexible and customizable solution. By leveraging local AI/ML, Chanakya ensures your data remains private and within your control.
+Chanakya is a cutting-edge, open-source voice assistant that prioritizes user data privacy and customization. Leveraging local AI/ML models, it empowers users to maintain full control over their data while also integrating seamlessly with over 1000 third-party services, including Home Assistant. This self-hostable assistant offers unparalleled flexibility and power for a tailored experience.
 
 ---
 

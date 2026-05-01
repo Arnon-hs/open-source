@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The cargo-dist project is an open-source tool for packaging Rust applications into distributable formats. It enables developers to easily create shippable binaries, archives, or installers for their Rust-based projects, streamlining the distribution process. This project is maintained by the axodotdev organization and contributes to the accessibility of Rust applications across various platforms.
+Cargo-dist is an open-source project that enables shippable application packaging. It provides a convenient way to package Rust applications into distributable archives, simplifying the process of sharing and deploying Rust projects. This tool integrates seamlessly with Cargo, Rust's package manager, to streamline the packaging process.
 
 ---
 

@@ -1,6 +1,6 @@
 # davisking/dlib
 
-[![Stars](https://img.shields.io/github/stars/davisking/dlib?style=flat-square&color=yellow)](https://github.com/davisking/dlib/stargazers) [![Forks](https://img.shields.io/github/forks/davisking/dlib?style=flat-square&color=blue)](https://github.com/davisking/dlib/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davisking/dlib?style=flat-square&color=yellow)](https://github.com/davisking/dlib/stargazers) [![Forks](https://img.shields.io/github/forks/davisking/dlib?style=flat-square&color=blue)](https://github.com/davisking/dlib/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
 > A toolkit for making real world machine learning and data analysis applications in C++
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.4k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 99/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

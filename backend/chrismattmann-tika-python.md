@@ -1,6 +1,6 @@
 # chrismattmann/tika-python
 
-[![Stars](https://img.shields.io/github/stars/chrismattmann/tika-python?style=flat-square&color=yellow)](https://github.com/chrismattmann/tika-python/stargazers) [![Forks](https://img.shields.io/github/forks/chrismattmann/tika-python?style=flat-square&color=blue)](https://github.com/chrismattmann/tika-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrismattmann/tika-python?style=flat-square&color=yellow)](https://github.com/chrismattmann/tika-python/stargazers) [![Forks](https://img.shields.io/github/forks/chrismattmann/tika-python?style=flat-square&color=blue)](https://github.com/chrismattmann/tika-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Tika-Python is a Python binding to the Apache Tika™ REST services allowing Tika to be called natively in the Python community.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

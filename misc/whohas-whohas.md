@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 89 |
-| 🍴 **Forks** | 12 |
+| ⭐ **Stars** | 126 |
+| 🍴 **Forks** | 13 |
 | 💻 **Language** | Perl |
 | 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |

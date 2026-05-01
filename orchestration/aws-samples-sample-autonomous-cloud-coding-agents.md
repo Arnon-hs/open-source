@@ -1,6 +1,6 @@
 # aws-samples/sample-autonomous-cloud-coding-agents
 
-[![Stars](https://img.shields.io/github/stars/aws-samples/sample-autonomous-cloud-coding-agents?style=flat-square&color=yellow)](https://github.com/aws-samples/sample-autonomous-cloud-coding-agents/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/sample-autonomous-cloud-coding-agents?style=flat-square&color=blue)](https://github.com/aws-samples/sample-autonomous-cloud-coding-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-samples/sample-autonomous-cloud-coding-agents?style=flat-square&color=yellow)](https://github.com/aws-samples/sample-autonomous-cloud-coding-agents/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/sample-autonomous-cloud-coding-agents?style=flat-square&color=blue)](https://github.com/aws-samples/sample-autonomous-cloud-coding-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous background coding agents on AWS. Turn tasks into pull requests via isolated runtimes, with built-in orchestration, observability, and governance.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

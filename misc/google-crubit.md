@@ -1,6 +1,6 @@
 # google/crubit
 
-[![Stars](https://img.shields.io/github/stars/google/crubit?style=flat-square&color=yellow)](https://github.com/google/crubit/stargazers) [![Forks](https://img.shields.io/github/forks/google/crubit?style=flat-square&color=blue)](https://github.com/google/crubit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/crubit?style=flat-square&color=yellow)](https://github.com/google/crubit/stargazers) [![Forks](https://img.shields.io/github/forks/google/crubit?style=flat-square&color=blue)](https://github.com/google/crubit/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A bidirectional bindings generator for C++ and Rust.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 64 |
-| 💻 **Language** | Rust |
+| 💻 **Language** | C++ |
 | 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

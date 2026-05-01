@@ -1,6 +1,6 @@
 # Darkatse/TauriTavern
 
-[![Stars](https://img.shields.io/github/stars/Darkatse/TauriTavern?style=flat-square&color=yellow)](https://github.com/Darkatse/TauriTavern/stargazers) [![Forks](https://img.shields.io/github/forks/Darkatse/TauriTavern?style=flat-square&color=blue)](https://github.com/Darkatse/TauriTavern/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Darkatse/TauriTavern?style=flat-square&color=yellow)](https://github.com/Darkatse/TauriTavern/stargazers) [![Forks](https://img.shields.io/github/forks/Darkatse/TauriTavern?style=flat-square&color=blue)](https://github.com/Darkatse/TauriTavern/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The classic Sillytavern, now has been rewritten in Tauri/Rust.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 287 |
+| ⭐ **Stars** | 288 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

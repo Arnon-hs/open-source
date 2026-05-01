@@ -1,6 +1,6 @@
 # TheWayWithin/agent-11
 
-[![Stars](https://img.shields.io/github/stars/TheWayWithin/agent-11?style=flat-square&color=yellow)](https://github.com/TheWayWithin/agent-11/stargazers) [![Forks](https://img.shields.io/github/forks/TheWayWithin/agent-11?style=flat-square&color=blue)](https://github.com/TheWayWithin/agent-11/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheWayWithin/agent-11?style=flat-square&color=yellow)](https://github.com/TheWayWithin/agent-11/stargazers) [![Forks](https://img.shields.io/github/forks/TheWayWithin/agent-11?style=flat-square&color=blue)](https://github.com/TheWayWithin/agent-11/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Opensource AI development agent suite for solo founders. Deploy 11 specialized agents in Claude Code with one command. https://buymeacoffee.com/jamiewatters
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
