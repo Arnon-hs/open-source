@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Gollem is an open-source Go framework designed for building agentic AI applications, featuring a modular architecture and built-in tools for ease of use. It incorporates the Modular Cognitive Process (MCP) framework, enabling developers to create sophisticated AI systems. With Gollem, developers can streamline their workflow and focus on crafting innovative AI-powered solutions.
+Gollem is an open-source Go framework designed for building agentic AI applications using the Multiple Causality Problem (MCP) approach. This framework provides a comprehensive set of tools for developing intelligent and autonomous AI systems, offering a unique combination of frontend capabilities and AI/ML functionality. With Gollem, developers can create advanced AI applications that can perceive, reason, and interact with their environment.
 
 ---
 

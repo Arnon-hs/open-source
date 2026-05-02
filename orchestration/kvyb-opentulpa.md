@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the kvyb/opentulpa project:
-
-OpenTulpa is an open-source, self-hosted personal AI agent that automates workflows by running code, scheduling tasks, and saving context in your direct messages. This AI employee assists with various tasks, including code writing, tool execution, and job scheduling, to streamline your work process. By integrating with your workflow, OpenTulpa helps boost productivity and efficiency.
+OpenTulpa is a self-hosted personal AI agent designed for workflow automation in direct messages. It enables users to create and manage complex workflows, write code, and run tools, while also maintaining context and saving workflows for future reference. This open-source project aims to streamline workflow automation and enhance productivity through the power of AI.
 
 ---
 

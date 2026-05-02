@@ -1,17 +1,17 @@
 # Wombosvideo/tw-animate-css
 
-[![Stars](https://img.shields.io/github/stars/Wombosvideo/tw-animate-css?style=flat-square&color=yellow)](https://github.com/Wombosvideo/tw-animate-css/stargazers) [![Forks](https://img.shields.io/github/forks/Wombosvideo/tw-animate-css?style=flat-square&color=blue)](https://github.com/Wombosvideo/tw-animate-css/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wombosvideo/tw-animate-css?style=flat-square&color=yellow)](https://github.com/Wombosvideo/tw-animate-css/stargazers) [![Forks](https://img.shields.io/github/forks/Wombosvideo/tw-animate-css?style=flat-square&color=blue)](https://github.com/Wombosvideo/tw-animate-css/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> TailwindCSS v4.0 compatible replacement for `tailwindcss-animate`
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 755 |
+| 🍴 **Forks** | 12 |
+| 💻 **Language** | CSS |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

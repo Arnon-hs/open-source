@@ -1,6 +1,6 @@
 # swagger-api/swagger-core
 
-[![Stars](https://img.shields.io/github/stars/swagger-api/swagger-core?style=flat-square&color=yellow)](https://github.com/swagger-api/swagger-core/stargazers) [![Forks](https://img.shields.io/github/forks/swagger-api/swagger-core?style=flat-square&color=blue)](https://github.com/swagger-api/swagger-core/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swagger-api/swagger-core?style=flat-square&color=yellow)](https://github.com/swagger-api/swagger-core/stargazers) [![Forks](https://img.shields.io/github/forks/swagger-api/swagger-core?style=flat-square&color=blue)](https://github.com/swagger-api/swagger-core/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.5k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 100/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

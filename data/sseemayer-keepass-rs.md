@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The keepass-rs project is an open-source, Rust-based library that provides a parser for KeePass database files, supporting KDB, KDBX3, and KDBX4 formats. It also includes experimental support for writing KDBX4 files. This library enables developers to read and potentially write KeePass database files in their Rust applications.
+This project, keepass-rs, is an open-source Rust library that allows parsing KeePass database files in KDB, KDBX3, and KDBX4 formats. It also provides experimental support for writing KDBX4 files, enabling users to interact with KeePass databases programmatically. The library offers a reliable and efficient way to work with KeePass data in Rust applications.
 
 ---
 

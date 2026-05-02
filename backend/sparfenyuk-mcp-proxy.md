@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-This project, sparfenyuk/mcp-proxy, serves as a bridge between Streamable HTTP and stdio MCP transports, allowing for seamless communication between different systems. It facilitates the exchange of data between these disparate environments, promoting interoperability and flexibility. By bridging the gap between these transports, the proxy enables efficient data exchange and facilitates the integration of various systems.
+The mcp-proxy project is an open-source tool that acts as a bridge between two different transport methods for Minecraft server communication: Streamable HTTP and stdio MCP transports. This allows for seamless communication between these two transport protocols, enabling Minecraft servers to run with greater flexibility and compatibility. The project is designed to facilitate backend operations for Minecraft servers.
 
 ---
 

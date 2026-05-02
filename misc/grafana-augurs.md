@@ -1,6 +1,6 @@
 # grafana/augurs
 
-[![Stars](https://img.shields.io/github/stars/grafana/augurs?style=flat-square&color=yellow)](https://github.com/grafana/augurs/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/augurs?style=flat-square&color=blue)](https://github.com/grafana/augurs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/augurs?style=flat-square&color=yellow)](https://github.com/grafana/augurs/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/augurs?style=flat-square&color=blue)](https://github.com/grafana/augurs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Time series analysis for Rust, with bindings to Python and Javascript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 567 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

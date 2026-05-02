@@ -25,7 +25,7 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-The termly-cli is an open-source command-line interface developed by termly-dev, enabling users to seamlessly integrate various AI and machine learning (ML) tools into their workflow. This powerful DevTool ensures enhanced security by providing a centralized platform for managing sensitive AI and ML-related tasks. By streamlining these processes, termly-cli improves efficiency and productivity for developers working with AI and ML technologies.
+The termly-cli is an open-source command-line interface tool that empowers developers to simplify and streamline their workflows, especially when working with AI and machine learning models. This project is designed to provide a comprehensive set of tools and features to enhance the development experience, while also ensuring the security of sensitive information. By leveraging termly-cli, developers can automate repetitive tasks, improve productivity, and enhance overall efficiency.
 
 ---
 

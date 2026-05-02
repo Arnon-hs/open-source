@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Pulumi Azure Native provider is an open-source project that allows users to manage and deploy Azure resources using the Pulumi infrastructure-as-code platform. This provider provides a Pulumi SDK for Azure Native, enabling users to define and deploy Azure resources in a consistent, programmatic, and version-controlled manner. By leveraging Pulumi's infrastructure-as-code capabilities, users can simplify Azure resource management and improve collaboration across teams.
+The Pulumi Azure Native provider is an open-source project that enables users to manage and deploy Azure resources using the Pulumi platform. It provides a high-level abstraction for interacting with Azure services, making it easier to manage infrastructure, applications, and data in the cloud. This provider allows developers to write Azure-native resources in their preferred programming language, further simplifying cloud development.
 
 ---
 

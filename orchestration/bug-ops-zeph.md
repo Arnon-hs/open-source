@@ -1,6 +1,6 @@
 # bug-ops/zeph
 
-[![Stars](https://img.shields.io/github/stars/bug-ops/zeph?style=flat-square&color=yellow)](https://github.com/bug-ops/zeph/stargazers) [![Forks](https://img.shields.io/github/forks/bug-ops/zeph?style=flat-square&color=blue)](https://github.com/bug-ops/zeph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bug-ops/zeph?style=flat-square&color=yellow)](https://github.com/bug-ops/zeph/stargazers) [![Forks](https://img.shields.io/github/forks/bug-ops/zeph?style=flat-square&color=blue)](https://github.com/bug-ops/zeph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Rust AI agent where every context token earns its place. Self-learning skills, temporal graph memory, cascade quality   routing, OWASP AI security. Hybrid inference: Ollama · Claude · Gemini · OpenAI · GGUF. MCP + ACP. One binary.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

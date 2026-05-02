@@ -1,6 +1,6 @@
 # microsoft/navcontainerhelper
 
-[![Stars](https://img.shields.io/github/stars/microsoft/navcontainerhelper?style=flat-square&color=yellow)](https://github.com/microsoft/navcontainerhelper/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/navcontainerhelper?style=flat-square&color=blue)](https://github.com/microsoft/navcontainerhelper/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/navcontainerhelper?style=flat-square&color=yellow)](https://github.com/microsoft/navcontainerhelper/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/navcontainerhelper?style=flat-square&color=blue)](https://github.com/microsoft/navcontainerhelper/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Official Microsoft repository for BcContainerHelper, a PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 261 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

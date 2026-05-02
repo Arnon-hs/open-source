@@ -1,6 +1,6 @@
 # dubisdev/key-on-screen
 
-[![Stars](https://img.shields.io/github/stars/dubisdev/key-on-screen?style=flat-square&color=yellow)](https://github.com/dubisdev/key-on-screen/stargazers) [![Forks](https://img.shields.io/github/forks/dubisdev/key-on-screen?style=flat-square&color=blue)](https://github.com/dubisdev/key-on-screen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dubisdev/key-on-screen?style=flat-square&color=yellow)](https://github.com/dubisdev/key-on-screen/stargazers) [![Forks](https://img.shields.io/github/forks/dubisdev/key-on-screen?style=flat-square&color=blue)](https://github.com/dubisdev/key-on-screen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > KoS - Key on Screen | ⌨️ Show in your screen the keys you are pressing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

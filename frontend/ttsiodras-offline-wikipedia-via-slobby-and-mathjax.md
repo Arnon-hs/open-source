@@ -1,6 +1,6 @@
 # ttsiodras/offline-wikipedia-via-slobby-and-mathjax
 
-[![Stars](https://img.shields.io/github/stars/ttsiodras/offline-wikipedia-via-slobby-and-mathjax?style=flat-square&color=yellow)](https://github.com/ttsiodras/offline-wikipedia-via-slobby-and-mathjax/stargazers) [![Forks](https://img.shields.io/github/forks/ttsiodras/offline-wikipedia-via-slobby-and-mathjax?style=flat-square&color=blue)](https://github.com/ttsiodras/offline-wikipedia-via-slobby-and-mathjax/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ttsiodras/offline-wikipedia-via-slobby-and-mathjax?style=flat-square&color=yellow)](https://github.com/ttsiodras/offline-wikipedia-via-slobby-and-mathjax/stargazers) [![Forks](https://img.shields.io/github/forks/ttsiodras/offline-wikipedia-via-slobby-and-mathjax?style=flat-square&color=blue)](https://github.com/ttsiodras/offline-wikipedia-via-slobby-and-mathjax/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Building on top of slobby, to get private, offline, properly-math-rendering-via-MathJax wikipedia
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -1,6 +1,6 @@
 # lone-cloud/gerbil
 
-[![Stars](https://img.shields.io/github/stars/lone-cloud/gerbil?style=flat-square&color=yellow)](https://github.com/lone-cloud/gerbil/stargazers) [![Forks](https://img.shields.io/github/forks/lone-cloud/gerbil?style=flat-square&color=blue)](https://github.com/lone-cloud/gerbil/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lone-cloud/gerbil?style=flat-square&color=yellow)](https://github.com/lone-cloud/gerbil/stargazers) [![Forks](https://img.shields.io/github/forks/lone-cloud/gerbil?style=flat-square&color=blue)](https://github.com/lone-cloud/gerbil/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A desktop app for running Large Language Models locally.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

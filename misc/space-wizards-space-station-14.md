@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 5.2k |
+| 🍴 **Forks** | 5.3k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | — |

@@ -1,6 +1,6 @@
 # ansible/galaxy
 
-[![Stars](https://img.shields.io/github/stars/ansible/galaxy?style=flat-square&color=yellow)](https://github.com/ansible/galaxy/stargazers) [![Forks](https://img.shields.io/github/forks/ansible/galaxy?style=flat-square&color=blue)](https://github.com/ansible/galaxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ansible/galaxy?style=flat-square&color=yellow)](https://github.com/ansible/galaxy/stargazers) [![Forks](https://img.shields.io/github/forks/ansible/galaxy?style=flat-square&color=blue)](https://github.com/ansible/galaxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Legacy Galaxy still available as read-only on  https://old-galaxy.ansible.com - looking for the new galaxy -> https://github.com/ansible/galaxy_ng
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 866 |
 | 🍴 **Forks** | 327 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The rustyline project is an open-source implementation of the Readline library in Rust, providing a robust and customizable line editing experience for command-line applications. It supports features such as history management, key bindings, and syntax highlighting, allowing developers to create interactive and user-friendly interfaces. By leveraging Rust's performance and safety features, rustyline offers a reliable and maintainable solution for building CLI applications.
+The rustyline project is an open-source implementation of the readline feature in Rust, providing a robust and interactive command-line interface to users. This project aims to replicate the functionality of the traditional readline library, commonly used in shells and command-line applications, within the Rust programming language. By offering a Rust-based alternative, rustyline facilitates the development of high-performance and cross-platform command-line tools.
 
 ---
 

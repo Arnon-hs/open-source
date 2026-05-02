@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/kamyu104/LeetCode-Solutions?style=flat-square&color=yellow)](https://github.com/kamyu104/LeetCode-Solutions/stargazers) [![Forks](https://img.shields.io/github/forks/kamyu104/LeetCode-Solutions?style=flat-square&color=blue)](https://github.com/kamyu104/LeetCode-Solutions/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> 🏋️ Python / Modern C++ Solutions of All 3906 LeetCode Problems (Weekly Update)
+> 🏋️ Python / Modern C++ Solutions of All 3916 LeetCode Problems (Weekly Update)
 
 ## 📊 Stats
 

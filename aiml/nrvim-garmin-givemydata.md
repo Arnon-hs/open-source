@@ -25,9 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The "garmin-givemydata" project allows users to securely retrieve their Garmin Connect data and store it in a local SQLite database, giving them full control over their personal fitness information. This data can then be used with machine learning and AI applications, empowering users to leverage their own data for personalized insights and analysis. By taking control of their data, users can maintain ownership and autonomy over their fitness tracking information.
+This open-source project, "garmin-givemydata," aims to empower users by retrieving their Garmin Connect data and storing it in a local SQLite database and AI-ready format. This enables users to take control of their data and utilize it for various applications, such as AI and machine learning projects. By providing a flexible data storage solution, users can unlock the full potential of their fitness and activity data.
 
 ---
 

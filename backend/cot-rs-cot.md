@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Cot is an open-source Rust web framework designed to simplify web development for developers who prefer a more relaxed approach. With Cot, you can quickly build and deploy web applications without being bogged down by complex configuration and boilerplate code. This framework aims to make web development more accessible and efficient for developers of all skill levels.
+Cot is an open-source Rust web framework designed for developers who value simplicity and efficiency. Built with lazy development in mind, Cot streamlines the web development process by providing a lightweight and easy-to-use framework for building robust web applications. Its intuitive interface and modular architecture make it an ideal choice for developers looking to create scalable and maintainable web projects.
 
 ---
 

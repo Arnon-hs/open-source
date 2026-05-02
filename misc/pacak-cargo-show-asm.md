@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The `cargo-show-asm` project is an open-source tool that extends the Cargo build system with a custom subcommand, allowing users to view the generated assembly, LLVM-IR, and MIR (Mid-Level Intermediate Representation) code for their Rust projects. This feature provides developers with a deeper understanding of the compilation process and can aid in debugging and optimization tasks. By inspecting the intermediate representations, users can gain insights into how their Rust code is translated into machine code.
+The pacak/cargo-show-asm open-source project introduces a Cargo subcommand that provides visibility into the assembly, LLVM-IR, and MIR (Mid-Level Intermediate Representation) code generated from Rust source code. This tool allows developers to inspect the intermediate stages of Rust code compilation, enhancing their understanding of the compilation process and potential performance optimizations. By showcasing these intermediate representations, developers can gain insight into the complexities of Rust's compilation pipeline.
 
 ---
 

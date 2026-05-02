@@ -1,6 +1,6 @@
 # rsxdalv/TTS-WebUI
 
-[![Stars](https://img.shields.io/github/stars/rsxdalv/TTS-WebUI?style=flat-square&color=yellow)](https://github.com/rsxdalv/TTS-WebUI/stargazers) [![Forks](https://img.shields.io/github/forks/rsxdalv/TTS-WebUI?style=flat-square&color=blue)](https://github.com/rsxdalv/TTS-WebUI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rsxdalv/TTS-WebUI?style=flat-square&color=yellow)](https://github.com/rsxdalv/TTS-WebUI/stargazers) [![Forks](https://img.shields.io/github/forks/rsxdalv/TTS-WebUI?style=flat-square&color=blue)](https://github.com/rsxdalv/TTS-WebUI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 318 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

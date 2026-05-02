@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 117 |
-| 🍴 **Forks** | 7 |
+| ⭐ **Stars** | 118 |
+| 🍴 **Forks** | 8 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |

@@ -1,6 +1,6 @@
 # dailydotdev/docs
 
-[![Stars](https://img.shields.io/github/stars/dailydotdev/docs?style=flat-square&color=yellow)](https://github.com/dailydotdev/docs/stargazers) [![Forks](https://img.shields.io/github/forks/dailydotdev/docs?style=flat-square&color=blue)](https://github.com/dailydotdev/docs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dailydotdev/docs?style=flat-square&color=yellow)](https://github.com/dailydotdev/docs/stargazers) [![Forks](https://img.shields.io/github/forks/dailydotdev/docs?style=flat-square&color=blue)](https://github.com/dailydotdev/docs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The official product docs of daily.dev
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 360 |
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The zen-browser/www project serves as the official homepage for the Zen Browser, providing users with essential information, updates, and resources related to the browser. As the central hub for the Zen Browser community, this project aims to facilitate user engagement and drive the browser's development forward. By offering a comprehensive platform for users to explore and interact with, zen-browser/www plays a crucial role in the browser's growth and success.
+The zen-browser/www project is an open-source initiative that serves as the official homepage for the Zen Browser. This project aims to provide a central hub for users to access information, updates, and resources related to the browser. The website is a key component of the Zen Browser ecosystem, offering a seamless user experience for those interested in the project.
 
 ---
 

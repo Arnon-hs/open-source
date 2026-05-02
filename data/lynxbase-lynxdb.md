@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Lynxdb is an open-source, lightweight analytics solution that enables schema-on-read capabilities in a single binary. This project provides a flexible and efficient approach to data analysis, allowing users to process and query data without the need for complex infrastructure setup. With lynxdb, developers can leverage powerful analytics capabilities in a streamlined and easily deployable package.
+Lynxdb is an open-source project that offers a lightweight, single-binary solution for schema-on-read analytics. It provides a flexible and efficient way to process and analyze data, making it suitable for various applications. By leveraging a schema-on-read approach, users can quickly adapt to changing data structures without compromising performance.
 
 ---
 

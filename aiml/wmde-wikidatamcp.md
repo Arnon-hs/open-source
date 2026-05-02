@@ -25,9 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the wmde/WikidataMCP project:
-
-The Wikidata Model Context Protocol (MCP) is an open-source project that facilitates the integration of machine learning models with Wikidata, a free and collaborative knowledge base. By providing a standardized protocol for model context, MCP enables seamless data exchange and efficient model deployment for a wide range of applications. This project promotes the advancement of AI and data-driven research on Wikidata.
+The wmde/WikidataMCP project, also known as Model Context Protocol for Wikidata, is an open-source initiative aimed at developing a standardized protocol for integrating AI/ML models with Wikidata, a free and collaborative knowledge graph. This protocol enables seamless interaction between models and the vast amount of structured data available in Wikidata, enhancing the efficiency and accuracy of machine learning applications. By facilitating communication between models and Wikidata, the project promotes the development of more informed and knowledge-driven AI/ML solutions.
 
 ---
 
