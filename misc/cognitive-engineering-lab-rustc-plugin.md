@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The cognitive-engineering-lab/rustc_plugin project is an open-source framework that enables developers to create plugins for the Rust compiler. These plugins can extend and modify the compiler's functionality, allowing users to customize and enhance the Rust development experience. By providing a foundation for integrating with the Rust compiler, this project facilitates the creation of tools and features that can improve code quality, efficiency, and maintainability.
+This open-source project, "rustc_plugin", provides a framework for creating plugins that integrate seamlessly with the Rust compiler. By leveraging this framework, developers can extend the functionality of the Rust compiler, enabling new features and capabilities that enhance the overall development experience. With its open-source nature, users can contribute to and customize the framework to suit their specific needs.
 
 ---
 

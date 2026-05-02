@@ -1,6 +1,6 @@
 # umputun/tg-spam
 
-[![Stars](https://img.shields.io/github/stars/umputun/tg-spam?style=flat-square&color=yellow)](https://github.com/umputun/tg-spam/stargazers) [![Forks](https://img.shields.io/github/forks/umputun/tg-spam?style=flat-square&color=blue)](https://github.com/umputun/tg-spam/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/umputun/tg-spam?style=flat-square&color=yellow)](https://github.com/umputun/tg-spam/stargazers) [![Forks](https://img.shields.io/github/forks/umputun/tg-spam?style=flat-square&color=blue)](https://github.com/umputun/tg-spam/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Anti-spam bot for Telegram and general-purpose anti-spam library and server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 421 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

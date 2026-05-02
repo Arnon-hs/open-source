@@ -1,6 +1,6 @@
 # ollm/OpenComic
 
-[![Stars](https://img.shields.io/github/stars/ollm/OpenComic?style=flat-square&color=yellow)](https://github.com/ollm/OpenComic/stargazers) [![Forks](https://img.shields.io/github/forks/ollm/OpenComic?style=flat-square&color=blue)](https://github.com/ollm/OpenComic/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ollm/OpenComic?style=flat-square&color=yellow)](https://github.com/ollm/OpenComic/stargazers) [![Forks](https://img.shields.io/github/forks/ollm/OpenComic?style=flat-square&color=blue)](https://github.com/ollm/OpenComic/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Comic and Manga reader, written with Node.js and using Electron
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

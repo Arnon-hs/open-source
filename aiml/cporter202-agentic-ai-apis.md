@@ -1,6 +1,6 @@
 # cporter202/agentic-ai-apis
 
-[![Stars](https://img.shields.io/github/stars/cporter202/agentic-ai-apis?style=flat-square&color=yellow)](https://github.com/cporter202/agentic-ai-apis/stargazers) [![Forks](https://img.shields.io/github/forks/cporter202/agentic-ai-apis?style=flat-square&color=blue)](https://github.com/cporter202/agentic-ai-apis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cporter202/agentic-ai-apis?style=flat-square&color=yellow)](https://github.com/cporter202/agentic-ai-apis/stargazers) [![Forks](https://img.shields.io/github/forks/cporter202/agentic-ai-apis?style=flat-square&color=blue)](https://github.com/cporter202/agentic-ai-apis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 302 |
-| 🍴 **Forks** | 91 |
+| ⭐ **Stars** | 304 |
+| 🍴 **Forks** | 92 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

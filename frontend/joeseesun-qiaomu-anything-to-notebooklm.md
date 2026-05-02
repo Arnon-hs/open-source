@@ -1,6 +1,6 @@
 # joeseesun/qiaomu-anything-to-notebooklm
 
-[![Stars](https://img.shields.io/github/stars/joeseesun/qiaomu-anything-to-notebooklm?style=flat-square&color=yellow)](https://github.com/joeseesun/qiaomu-anything-to-notebooklm/stargazers) [![Forks](https://img.shields.io/github/forks/joeseesun/qiaomu-anything-to-notebooklm?style=flat-square&color=blue)](https://github.com/joeseesun/qiaomu-anything-to-notebooklm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joeseesun/qiaomu-anything-to-notebooklm?style=flat-square&color=yellow)](https://github.com/joeseesun/qiaomu-anything-to-notebooklm/stargazers) [![Forks](https://img.shields.io/github/forks/joeseesun/qiaomu-anything-to-notebooklm?style=flat-square&color=blue)](https://github.com/joeseesun/qiaomu-anything-to-notebooklm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

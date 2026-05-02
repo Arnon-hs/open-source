@@ -25,9 +25,9 @@ Trading · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a 2-3 sentence summary for the project:
 
-Turbovec is an open-source vector index built on TurboQuant, utilizing Rust for performance and Python bindings for seamless integration. This project enables users to leverage AI/ML capabilities in trading applications with high-speed data access and manipulation. By combining Rust's speed and Python's ease of use, Turbovec aims to simplify the development of efficient trading and data-driven systems.
+Turbovec is an open-source vector index built on TurboQuant, offering high-performance indexing capabilities for various applications. Written in Rust for efficiency, Turbovec provides Python bindings for seamless integration with AI/ML workflows and trading systems. This project enables developers to leverage vector indexing in their projects, improving data management and query efficiency.
 
 ---
 

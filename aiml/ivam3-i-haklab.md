@@ -1,6 +1,6 @@
 # ivam3/i-Haklab
 
-[![Stars](https://img.shields.io/github/stars/ivam3/i-Haklab?style=flat-square&color=yellow)](https://github.com/ivam3/i-Haklab/stargazers) [![Forks](https://img.shields.io/github/forks/ivam3/i-Haklab?style=flat-square&color=blue)](https://github.com/ivam3/i-Haklab/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ivam3/i-Haklab?style=flat-square&color=yellow)](https://github.com/ivam3/i-Haklab/stargazers) [![Forks](https://img.shields.io/github/forks/ivam3/i-Haklab?style=flat-square&color=blue)](https://github.com/ivam3/i-Haklab/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > i-Haklab is a hacking laboratory for Termux that contains open source tools for pentesting, scan/find vulnerabilities, explotation and post-explotation recommended by Ivam3 with automation hacking commands and many guides and tutorials to learn use it.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 549 |
+| ⭐ **Stars** | 550 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

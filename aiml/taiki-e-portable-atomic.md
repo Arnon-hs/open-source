@@ -1,6 +1,6 @@
 # taiki-e/portable-atomic
 
-[![Stars](https://img.shields.io/github/stars/taiki-e/portable-atomic?style=flat-square&color=yellow)](https://github.com/taiki-e/portable-atomic/stargazers) [![Forks](https://img.shields.io/github/forks/taiki-e/portable-atomic?style=flat-square&color=blue)](https://github.com/taiki-e/portable-atomic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taiki-e/portable-atomic?style=flat-square&color=yellow)](https://github.com/taiki-e/portable-atomic/stargazers) [![Forks](https://img.shields.io/github/forks/taiki-e/portable-atomic?style=flat-square&color=blue)](https://github.com/taiki-e/portable-atomic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Portable atomic types including support for 128-bit atomics, atomic float, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

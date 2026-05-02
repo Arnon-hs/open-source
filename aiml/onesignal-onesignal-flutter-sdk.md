@@ -1,6 +1,6 @@
 # OneSignal/OneSignal-Flutter-SDK
 
-[![Stars](https://img.shields.io/github/stars/OneSignal/OneSignal-Flutter-SDK?style=flat-square&color=yellow)](https://github.com/OneSignal/OneSignal-Flutter-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/OneSignal/OneSignal-Flutter-SDK?style=flat-square&color=blue)](https://github.com/OneSignal/OneSignal-Flutter-SDK/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OneSignal/OneSignal-Flutter-SDK?style=flat-square&color=yellow)](https://github.com/OneSignal/OneSignal-Flutter-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/OneSignal/OneSignal-Flutter-SDK?style=flat-square&color=blue)](https://github.com/OneSignal/OneSignal-Flutter-SDK/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your flutter app with OneSignal
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 235 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

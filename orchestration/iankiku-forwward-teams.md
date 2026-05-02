@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Forward-Teams is an open-source project designed to provide lean agent skills for technical founders, focusing on key areas such as building, shipping, strategy, and growth without unnecessary context. This project combines expertise from Orchestration, AI/ML, and Frontend categories, offering a streamlined approach to technical innovation. By leveraging Forward-Teams, founders can concentrate on driving their vision forward.
+The forward-teams project is an open-source initiative providing lean agent skills for technical founders, covering essential areas such as build, ship, strategy, and growth. By focusing on no-context bloat, the project aims to streamline decision-making and execution for founders. This project is categorized under Orchestration, AI/ML, and Frontend, offering a comprehensive toolkit for technical founders.
 
 ---
 

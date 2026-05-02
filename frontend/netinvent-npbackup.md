@@ -1,6 +1,6 @@
 # netinvent/npbackup
 
-[![Stars](https://img.shields.io/github/stars/netinvent/npbackup?style=flat-square&color=yellow)](https://github.com/netinvent/npbackup/stargazers) [![Forks](https://img.shields.io/github/forks/netinvent/npbackup?style=flat-square&color=blue)](https://github.com/netinvent/npbackup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netinvent/npbackup?style=flat-square&color=yellow)](https://github.com/netinvent/npbackup/stargazers) [![Forks](https://img.shields.io/github/forks/netinvent/npbackup?style=flat-square&color=blue)](https://github.com/netinvent/npbackup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A secure and efficient file backup solution that fits both system administrators (CLI) and end users (GUI)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 326 |
+| ⭐ **Stars** | 327 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

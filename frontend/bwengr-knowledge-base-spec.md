@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-This open-source project is a static site implementation for a civil engineering firm, built using Cloudflare Pages. Initially discovered on Hacker News, the project showcases a frontend solution that can be adapted by developers and engineering firms alike. The codebase provides a starting point for creating static websites on Cloudflare Pages.
+This open-source project is a web application built for a civil engineering firm's static site, utilizing Cloudflare Pages as its deployment platform. The project showcases a practical implementation of frontend development, highlighting its use in a real-world setting. It serves as a valuable resource for those interested in building static sites with Cloudflare Pages.
 
 ---
 

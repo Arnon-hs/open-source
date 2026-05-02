@@ -1,6 +1,6 @@
 # ethereum-optimism/superchain-registry
 
-[![Stars](https://img.shields.io/github/stars/ethereum-optimism/superchain-registry?style=flat-square&color=yellow)](https://github.com/ethereum-optimism/superchain-registry/stargazers) [![Forks](https://img.shields.io/github/forks/ethereum-optimism/superchain-registry?style=flat-square&color=blue)](https://github.com/ethereum-optimism/superchain-registry/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ethereum-optimism/superchain-registry?style=flat-square&color=yellow)](https://github.com/ethereum-optimism/superchain-registry/stargazers) [![Forks](https://img.shields.io/github/forks/ethereum-optimism/superchain-registry?style=flat-square&color=blue)](https://github.com/ethereum-optimism/superchain-registry/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > An index of chains which serves as the source of truth for who’s in the Superchain Ecosystem
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 216 |
 | 🍴 **Forks** | 212 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

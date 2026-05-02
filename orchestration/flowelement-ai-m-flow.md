@@ -1,6 +1,6 @@
 # FlowElement-ai/m_flow
 
-[![Stars](https://img.shields.io/github/stars/FlowElement-ai/m_flow?style=flat-square&color=yellow)](https://github.com/FlowElement-ai/m_flow/stargazers) [![Forks](https://img.shields.io/github/forks/FlowElement-ai/m_flow?style=flat-square&color=blue)](https://github.com/FlowElement-ai/m_flow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FlowElement-ai/m_flow?style=flat-square&color=yellow)](https://github.com/FlowElement-ai/m_flow/stargazers) [![Forks](https://img.shields.io/github/forks/FlowElement-ai/m_flow?style=flat-square&color=blue)](https://github.com/FlowElement-ai/m_flow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A bio-inspired cognitive memory engine — a new paradigm for Graph RAG.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 238 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

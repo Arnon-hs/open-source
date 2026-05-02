@@ -25,7 +25,7 @@ Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
-Joplin is a free, open-source note-taking app prioritizing user privacy with end-to-end encryption and sync capabilities. This cross-platform application is available on Windows, macOS, Linux, Android, and iOS, allowing users to access their notes seamlessly across multiple devices. With its user-friendly interface and robust feature set, Joplin offers an alternative to traditional note-taking apps.
+Joplin is an open-source, privacy-focused note-taking application that offers seamless syncing capabilities across various platforms, including Windows, macOS, Linux, Android, and iOS. This versatile tool provides users with a secure and reliable space to store and organize their notes, making it an attractive option for those prioritizing data protection. With its cross-platform compatibility, Joplin is an ideal solution for individuals seeking a unified note-taking experience.
 
 ---
 

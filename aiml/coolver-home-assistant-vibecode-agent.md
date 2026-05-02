@@ -25,9 +25,9 @@ AI/ML · Backend · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary for the open-source project:
 
-The Home Assistant Vibecode Agent is an open-source project that enables integration with various MCP-enabled Integrated Development Environments (IDEs), such as Claude Code, Cursor, and VS Code, allowing users to manage their Home Assistant setup using natural language. This integration streamlines tasks like automation creation, dashboard design, theme tweaking, configuration modification, and deployment, making Home Assistant more accessible and user-friendly. By leveraging AI-driven interfaces, users can interact with Home Assistant in a more intuitive and efficient way.
+The Home Assistant Vibecode Agent is an open-source server designed for Home Assistant users to seamlessly integrate their Home Assistant setup with popular Integrated Development Environments (IDEs) like Claude Code, Cursor, and VS Code. This agent enables users to manage their Home Assistant configurations, automations, and dashboards using natural language, streamlining the development and debugging process. By bridging the gap between Home Assistant and IDEs, the Vibecode Agent enhances the user experience and simplifies the management of smart home setups.
 
 ---
 

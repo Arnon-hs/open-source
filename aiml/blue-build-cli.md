@@ -1,6 +1,6 @@
 # blue-build/cli
 
-[![Stars](https://img.shields.io/github/stars/blue-build/cli?style=flat-square&color=yellow)](https://github.com/blue-build/cli/stargazers) [![Forks](https://img.shields.io/github/forks/blue-build/cli?style=flat-square&color=blue)](https://github.com/blue-build/cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blue-build/cli?style=flat-square&color=yellow)](https://github.com/blue-build/cli/stargazers) [![Forks](https://img.shields.io/github/forks/blue-build/cli?style=flat-square&color=blue)](https://github.com/blue-build/cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > BlueBuild's command line program that builds custom Fedora Atomic images based on your recipe.yml
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # khive-ai/lionagi
 
-[![Stars](https://img.shields.io/github/stars/khive-ai/lionagi?style=flat-square&color=yellow)](https://github.com/khive-ai/lionagi/stargazers) [![Forks](https://img.shields.io/github/forks/khive-ai/lionagi?style=flat-square&color=blue)](https://github.com/khive-ai/lionagi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/khive-ai/lionagi?style=flat-square&color=yellow)](https://github.com/khive-ai/lionagi/stargazers) [![Forks](https://img.shields.io/github/forks/khive-ai/lionagi?style=flat-square&color=blue)](https://github.com/khive-ai/lionagi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > AGI SDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

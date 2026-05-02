@@ -1,6 +1,6 @@
 # nyx-space/anise
 
-[![Stars](https://img.shields.io/github/stars/nyx-space/anise?style=flat-square&color=yellow)](https://github.com/nyx-space/anise/stargazers) [![Forks](https://img.shields.io/github/forks/nyx-space/anise?style=flat-square&color=blue)](https://github.com/nyx-space/anise/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nyx-space/anise?style=flat-square&color=yellow)](https://github.com/nyx-space/anise/stargazers) [![Forks](https://img.shields.io/github/forks/nyx-space/anise?style=flat-square&color=blue)](https://github.com/nyx-space/anise/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > ANISE provides a toolkit and files for Attitude, Navigation, Instrument, Spacecraft, and Ephemeris data. It's a modern replacement of the NAIF SPICE toolkit.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

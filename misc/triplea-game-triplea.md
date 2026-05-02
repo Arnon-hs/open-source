@@ -1,6 +1,6 @@
 # triplea-game/triplea
 
-[![Stars](https://img.shields.io/github/stars/triplea-game/triplea?style=flat-square&color=yellow)](https://github.com/triplea-game/triplea/stargazers) [![Forks](https://img.shields.io/github/forks/triplea-game/triplea?style=flat-square&color=blue)](https://github.com/triplea-game/triplea/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/triplea-game/triplea?style=flat-square&color=yellow)](https://github.com/triplea-game/triplea/stargazers) [![Forks](https://img.shields.io/github/forks/triplea-game/triplea?style=flat-square&color=blue)](https://github.com/triplea-game/triplea/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 458 |
+| 🍴 **Forks** | 459 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-pdfcpu is an open-source, Go-based PDF processor designed to handle a wide range of PDF-related tasks. It offers features such as PDF manipulation, content extraction, and more, making it a versatile tool for developers working with PDF files. With pdfcpu, users can easily create, modify, and analyze PDF documents within their Go applications.
+Pdfcpu is an open-source PDF processor written in Go, designed to provide a simple and efficient way to manipulate and analyze PDF files. With its extensive API, developers can easily perform tasks such as PDF splitting, merging, and encryption, making it a valuable tool for various use cases. By leveraging the power of Golang, pdfcpu offers a high-performance solution for PDF processing needs.
 
 ---
 

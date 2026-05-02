@@ -1,6 +1,6 @@
 # pypiserver/pypiserver
 
-[![Stars](https://img.shields.io/github/stars/pypiserver/pypiserver?style=flat-square&color=yellow)](https://github.com/pypiserver/pypiserver/stargazers) [![Forks](https://img.shields.io/github/forks/pypiserver/pypiserver?style=flat-square&color=blue)](https://github.com/pypiserver/pypiserver/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pypiserver/pypiserver?style=flat-square&color=yellow)](https://github.com/pypiserver/pypiserver/stargazers) [![Forks](https://img.shields.io/github/forks/pypiserver/pypiserver?style=flat-square&color=blue)](https://github.com/pypiserver/pypiserver/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal PyPI server for uploading & downloading packages with pip/easy_install
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 326 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

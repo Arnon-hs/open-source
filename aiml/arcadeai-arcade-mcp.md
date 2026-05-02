@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/ArcadeAI/arcade-mcp?style=flat-square&color=yellow)](https://github.com/ArcadeAI/arcade-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ArcadeAI/arcade-mcp?style=flat-square&color=blue)](https://github.com/ArcadeAI/arcade-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
-> The best way to create, deploy, and share MCP Servers
+> MCP Server Framework and Tool Development library for building custom capabilities into agents.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Frontend · Backend
 
 ## 📝 Summary
 

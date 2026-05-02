@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Grinta is an open-source, local-first coding agent designed to provide a powerful AI/ML tool for developers. Created through a solo effort over 7 months, this project aims to empower users with a highly customizable and flexible coding assistant. By being local-first, Grinta offers a unique approach to AI-driven coding, allowing for more control and autonomy over coding workflows.
+Grinta is an open-source, local-first coding agent developed over a period of 7 months by a solo contributor. This AI/ML project utilizes local-first architecture, allowing for autonomous coding and potentially reducing reliance on cloud-based services. By making the project open-source, the developer aims to encourage community involvement and further development of Grinta.
 
 ---
 

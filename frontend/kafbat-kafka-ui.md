@@ -1,6 +1,6 @@
 # kafbat/kafka-ui
 
-[![Stars](https://img.shields.io/github/stars/kafbat/kafka-ui?style=flat-square&color=yellow)](https://github.com/kafbat/kafka-ui/stargazers) [![Forks](https://img.shields.io/github/forks/kafbat/kafka-ui?style=flat-square&color=blue)](https://github.com/kafbat/kafka-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kafbat/kafka-ui?style=flat-square&color=yellow)](https://github.com/kafbat/kafka-ui/stargazers) [![Forks](https://img.shields.io/github/forks/kafbat/kafka-ui?style=flat-square&color=blue)](https://github.com/kafbat/kafka-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open-Source Web UI for managing Apache Kafka clusters
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 301 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

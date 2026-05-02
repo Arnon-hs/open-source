@@ -1,6 +1,6 @@
 # HexSleeves/tailscale-mcp
 
-[![Stars](https://img.shields.io/github/stars/HexSleeves/tailscale-mcp?style=flat-square&color=yellow)](https://github.com/HexSleeves/tailscale-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/HexSleeves/tailscale-mcp?style=flat-square&color=blue)](https://github.com/HexSleeves/tailscale-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HexSleeves/tailscale-mcp?style=flat-square&color=yellow)](https://github.com/HexSleeves/tailscale-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/HexSleeves/tailscale-mcp?style=flat-square&color=blue)](https://github.com/HexSleeves/tailscale-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > server that provides seamless integration with Tailscale's CLI commands and REST API, enabling automated network management and monitoring through a standardized interface
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

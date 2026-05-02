@@ -1,6 +1,6 @@
 # agentic-dev3o/sandbox-shell
 
-[![Stars](https://img.shields.io/github/stars/agentic-dev3o/sandbox-shell?style=flat-square&color=yellow)](https://github.com/agentic-dev3o/sandbox-shell/stargazers) [![Forks](https://img.shields.io/github/forks/agentic-dev3o/sandbox-shell?style=flat-square&color=blue)](https://github.com/agentic-dev3o/sandbox-shell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentic-dev3o/sandbox-shell?style=flat-square&color=yellow)](https://github.com/agentic-dev3o/sandbox-shell/stargazers) [![Forks](https://img.shields.io/github/forks/agentic-dev3o/sandbox-shell?style=flat-square&color=blue)](https://github.com/agentic-dev3o/sandbox-shell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > macOS Seatbelt sandbox CLI for developers. Protect credentials (SSH, AWS, GPG) from malicious npm packages, supply chain attacks, and untrusted build   scripts. Deny-by-default filesystem isolation. Perfect for Claude Code agentic workflows with --dangerously-skip-permissions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

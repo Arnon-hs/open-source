@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The serde_with crate is an open-source project that offers a set of customizable serialization and deserialization helpers for use with the Serde library. These helpers can be used in conjunction with Serde's `with` and `serde_as` annotations to create more flexible and expressive serialization and deserialization logic. This allows developers to tailor the serialization and deserialization process to the needs of their specific use case.
+The serde_with crate offers a set of custom de/serialization helpers that can be used in conjunction with Serde's `with`-annotation and `serde_as`-annotation, enhancing the serialization and deserialization process. These helpers provide a more flexible and efficient way to handle complex data formats. By leveraging serde_with, developers can write more readable and maintainable serialization code.
 
 ---
 

@@ -1,6 +1,6 @@
 # MoonshotAI/kimi-cli
 
-[![Stars](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?style=flat-square&color=yellow)](https://github.com/MoonshotAI/kimi-cli/stargazers) [![Forks](https://img.shields.io/github/forks/MoonshotAI/kimi-cli?style=flat-square&color=blue)](https://github.com/MoonshotAI/kimi-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?style=flat-square&color=yellow)](https://github.com/MoonshotAI/kimi-cli/stargazers) [![Forks](https://img.shields.io/github/forks/MoonshotAI/kimi-cli?style=flat-square&color=blue)](https://github.com/MoonshotAI/kimi-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > Kimi Code CLI is your next CLI agent.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.4k |
-| 🍴 **Forks** | 966 |
+| 🍴 **Forks** | 968 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

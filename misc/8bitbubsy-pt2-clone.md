@@ -1,6 +1,6 @@
 # 8bitbubsy/pt2-clone
 
-[![Stars](https://img.shields.io/github/stars/8bitbubsy/pt2-clone?style=flat-square&color=yellow)](https://github.com/8bitbubsy/pt2-clone/stargazers) [![Forks](https://img.shields.io/github/forks/8bitbubsy/pt2-clone?style=flat-square&color=blue)](https://github.com/8bitbubsy/pt2-clone/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/8bitbubsy/pt2-clone?style=flat-square&color=yellow)](https://github.com/8bitbubsy/pt2-clone/stargazers) [![Forks](https://img.shields.io/github/forks/8bitbubsy/pt2-clone?style=flat-square&color=blue)](https://github.com/8bitbubsy/pt2-clone/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > ProTracker 2 clone for Windows/macOS/Linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 616 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | C |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

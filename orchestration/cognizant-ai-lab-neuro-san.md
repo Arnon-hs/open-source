@@ -1,6 +1,6 @@
 # cognizant-ai-lab/neuro-san
 
-[![Stars](https://img.shields.io/github/stars/cognizant-ai-lab/neuro-san?style=flat-square&color=yellow)](https://github.com/cognizant-ai-lab/neuro-san/stargazers) [![Forks](https://img.shields.io/github/forks/cognizant-ai-lab/neuro-san?style=flat-square&color=blue)](https://github.com/cognizant-ai-lab/neuro-san/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cognizant-ai-lab/neuro-san?style=flat-square&color=yellow)](https://github.com/cognizant-ai-lab/neuro-san/stargazers) [![Forks](https://img.shields.io/github/forks/cognizant-ai-lab/neuro-san?style=flat-square&color=blue)](https://github.com/cognizant-ai-lab/neuro-san/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Neuro AI System of Agent Networks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

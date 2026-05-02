@@ -1,6 +1,6 @@
 # robocorp/rpaframework
 
-[![Stars](https://img.shields.io/github/stars/robocorp/rpaframework?style=flat-square&color=yellow)](https://github.com/robocorp/rpaframework/stargazers) [![Forks](https://img.shields.io/github/forks/robocorp/rpaframework?style=flat-square&color=blue)](https://github.com/robocorp/rpaframework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robocorp/rpaframework?style=flat-square&color=yellow)](https://github.com/robocorp/rpaframework/stargazers) [![Forks](https://img.shields.io/github/forks/robocorp/rpaframework?style=flat-square&color=blue)](https://github.com/robocorp/rpaframework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 267 |
+| 🍴 **Forks** | 268 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

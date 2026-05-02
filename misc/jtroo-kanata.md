@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Kanata is an open-source project that enhances keyboard comfort and usability by offering advanced customization options. With its adaptable settings, users can personalize their typing experience to suit their preferences, aiming to reduce discomfort and increase productivity. This project caters to individuals seeking to optimize their keyboard interaction.
+The open-source project "kanata" allows users to enhance their keyboard experience through advanced customization. It aims to improve keyboard comfort and usability by providing a flexible framework for personalizing keyboard settings. By utilizing this project, users can tailor their keyboard to their specific needs and preferences.
 
 ---
 

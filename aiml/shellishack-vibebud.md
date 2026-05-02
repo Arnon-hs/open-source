@@ -1,17 +1,17 @@
 # Shellishack/vibebud
 
-[![Stars](https://img.shields.io/github/stars/Shellishack/vibebud?style=flat-square&color=yellow)](https://github.com/Shellishack/vibebud/stargazers) [![Forks](https://img.shields.io/github/forks/Shellishack/vibebud?style=flat-square&color=blue)](https://github.com/Shellishack/vibebud/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shellishack/vibebud?style=flat-square&color=yellow)](https://github.com/Shellishack/vibebud/stargazers) [![Forks](https://img.shields.io/github/forks/Shellishack/vibebud?style=flat-square&color=blue)](https://github.com/Shellishack/vibebud/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
-> Floating AI virtual character for Codex, Claude Code.
+> Floating AI virtual pets for Codex, Claude Code, and more on desktop and mobile.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 15 |
+| ⭐ **Stars** | 17 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

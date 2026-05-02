@@ -1,6 +1,6 @@
 # telman03/gocraft
 
-[![Stars](https://img.shields.io/github/stars/telman03/gocraft?style=flat-square&color=yellow)](https://github.com/telman03/gocraft/stargazers) [![Forks](https://img.shields.io/github/forks/telman03/gocraft?style=flat-square&color=blue)](https://github.com/telman03/gocraft/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/telman03/gocraft?style=flat-square&color=yellow)](https://github.com/telman03/gocraft/stargazers) [![Forks](https://img.shields.io/github/forks/telman03/gocraft?style=flat-square&color=blue)](https://github.com/telman03/gocraft/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Create Go projects faster → Auth, DB, gRPC, Docker, Swagger, and monitoring included.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 195 |
+| ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

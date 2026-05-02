@@ -1,6 +1,6 @@
 # 9bingyin/Gist
 
-[![Stars](https://img.shields.io/github/stars/9bingyin/Gist?style=flat-square&color=yellow)](https://github.com/9bingyin/Gist/stargazers) [![Forks](https://img.shields.io/github/forks/9bingyin/Gist?style=flat-square&color=blue)](https://github.com/9bingyin/Gist/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/9bingyin/Gist?style=flat-square&color=yellow)](https://github.com/9bingyin/Gist/stargazers) [![Forks](https://img.shields.io/github/forks/9bingyin/Gist?style=flat-square&color=blue)](https://github.com/9bingyin/Gist/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > A modern RSS reader application built with React and Go.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 183 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

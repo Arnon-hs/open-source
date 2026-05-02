@@ -1,6 +1,6 @@
 # hyperledger-iroha/iroha
 
-[![Stars](https://img.shields.io/github/stars/hyperledger-iroha/iroha?style=flat-square&color=yellow)](https://github.com/hyperledger-iroha/iroha/stargazers) [![Forks](https://img.shields.io/github/forks/hyperledger-iroha/iroha?style=flat-square&color=blue)](https://github.com/hyperledger-iroha/iroha/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperledger-iroha/iroha?style=flat-square&color=yellow)](https://github.com/hyperledger-iroha/iroha/stargazers) [![Forks](https://img.shields.io/github/forks/hyperledger-iroha/iroha?style=flat-square&color=blue)](https://github.com/hyperledger-iroha/iroha/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Iroha: A cutting-edge, enterprise-grade decentralized ledger
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 485 |
+| ⭐ **Stars** | 484 |
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/borski/travel-hacking-toolkit?style=flat-square&color=yellow)](https://github.com/borski/travel-hacking-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/borski/travel-hacking-toolkit?style=flat-square&color=blue)](https://github.com/borski/travel-hacking-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
-> AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code.
+> AI-powered travel hacking  and search with cash, points, miles, and award flights. Drop-in skills and MCP servers for Claude, Codex, and OpenCode.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 459 |
+| ⭐ **Stars** | 461 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |

@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-This open-source project, juno-code, offers a unique workflow inspired by Kanban and Ralph Wiggum's style, simplifying tasks into one-per-iteration execution. It automatically tracks progress, integrates with Git commits, and supports various modes such as Claude Code, Codex, Pi, and Cursor. This tool streamlines AI/ML development and other projects, allowing users to easily set it up and let it run.
+The askbudi/juno-code project is an open-source implementation of a Kanban-style workflow for software development, inspired by the laid-back approach of Ralph Wiggum from The Simpsons. This tool allows for efficient execution of a single task per iteration, automatic progress tracking, and seamless integration with Git commits. By setting it and letting it run, developers can streamline their workflow and stay organized.
 
 ---
 

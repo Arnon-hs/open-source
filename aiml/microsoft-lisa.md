@@ -1,6 +1,6 @@
 # microsoft/lisa
 
-[![Stars](https://img.shields.io/github/stars/microsoft/lisa?style=flat-square&color=yellow)](https://github.com/microsoft/lisa/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/lisa?style=flat-square&color=blue)](https://github.com/microsoft/lisa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/lisa?style=flat-square&color=yellow)](https://github.com/microsoft/lisa/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/lisa?style=flat-square&color=blue)](https://github.com/microsoft/lisa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > LISA is developed and maintained by Microsoft, to empower Linux validation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

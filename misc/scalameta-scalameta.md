@@ -1,6 +1,6 @@
 # scalameta/scalameta
 
-[![Stars](https://img.shields.io/github/stars/scalameta/scalameta?style=flat-square&color=yellow)](https://github.com/scalameta/scalameta/stargazers) [![Forks](https://img.shields.io/github/forks/scalameta/scalameta?style=flat-square&color=blue)](https://github.com/scalameta/scalameta/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scalameta/scalameta?style=flat-square&color=yellow)](https://github.com/scalameta/scalameta/stargazers) [![Forks](https://img.shields.io/github/forks/scalameta/scalameta?style=flat-square&color=blue)](https://github.com/scalameta/scalameta/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Library to read, analyze, transform and generate Scala programs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 239 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

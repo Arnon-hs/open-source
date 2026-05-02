@@ -1,6 +1,6 @@
 # AcademySoftwareFoundation/OpenColorIO
 
-[![Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenColorIO?style=flat-square&color=yellow)](https://github.com/AcademySoftwareFoundation/OpenColorIO/stargazers) [![Forks](https://img.shields.io/github/forks/AcademySoftwareFoundation/OpenColorIO?style=flat-square&color=blue)](https://github.com/AcademySoftwareFoundation/OpenColorIO/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenColorIO?style=flat-square&color=yellow)](https://github.com/AcademySoftwareFoundation/OpenColorIO/stargazers) [![Forks](https://img.shields.io/github/forks/AcademySoftwareFoundation/OpenColorIO?style=flat-square&color=blue)](https://github.com/AcademySoftwareFoundation/OpenColorIO/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A color management framework for visual effects and animation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 490 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

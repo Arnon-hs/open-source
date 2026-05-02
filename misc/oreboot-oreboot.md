@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Oreboot is an open-source firmware project that serves as a fork of coreboot, with a key difference being its implementation in the Rust programming language, removing C as the foundation. This rewrite aims to provide a more modern and secure approach to firmware development. By leveraging Rust's features, oreboot seeks to improve the overall reliability and maintainability of firmware for various devices.
+Oreboot is an open-source project that serves as a fork of coreboot, a well-established BIOS replacement. Unlike its predecessor, oreboot is written entirely in Rust, providing a clean and modern alternative for developers. This shift aims to improve security, reliability, and maintainability, making it an attractive option for those seeking a cutting-edge firmware solution.
 
 ---
 

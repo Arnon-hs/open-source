@@ -1,6 +1,6 @@
 # NVIDIA/OpenShell
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/OpenShell?style=flat-square&color=yellow)](https://github.com/NVIDIA/OpenShell/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/OpenShell?style=flat-square&color=blue)](https://github.com/NVIDIA/OpenShell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/OpenShell?style=flat-square&color=yellow)](https://github.com/NVIDIA/OpenShell/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/OpenShell?style=flat-square&color=blue)](https://github.com/NVIDIA/OpenShell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > OpenShell is the safe, private runtime for autonomous AI agents.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.5k |
-| 🍴 **Forks** | 631 |
+| 🍴 **Forks** | 634 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

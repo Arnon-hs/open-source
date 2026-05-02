@@ -1,6 +1,6 @@
 # UniversalMediaServer/UniversalMediaServer
 
-[![Stars](https://img.shields.io/github/stars/UniversalMediaServer/UniversalMediaServer?style=flat-square&color=yellow)](https://github.com/UniversalMediaServer/UniversalMediaServer/stargazers) [![Forks](https://img.shields.io/github/forks/UniversalMediaServer/UniversalMediaServer?style=flat-square&color=blue)](https://github.com/UniversalMediaServer/UniversalMediaServer/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UniversalMediaServer/UniversalMediaServer?style=flat-square&color=yellow)](https://github.com/UniversalMediaServer/UniversalMediaServer/stargazers) [![Forks](https://img.shields.io/github/forks/UniversalMediaServer/UniversalMediaServer?style=flat-square&color=blue)](https://github.com/UniversalMediaServer/UniversalMediaServer/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A DLNA, UPnP and HTTP(S) Media Server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 514 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The fctr-id/okta-ai-agent is an innovative, open-source AI-powered tool designed to simplify Okta tenant data querying for administrators. This local-first agent enables users to query their data using natural language, streamlining the process and enhancing productivity. By leveraging AI technology, the agent provides a secure and efficient solution for Okta administrators to access and analyze their tenant data.
+The Okta AI Agent is an open-source, local-first AI solution designed to assist Okta administrators in querying their tenant data using natural language. This secure agent empowers administrators to easily access and utilize their data, streamlining tasks and enhancing productivity. With its AI-driven functionality, the Okta AI Agent simplifies data exploration and analysis, promoting a more efficient and user-friendly experience within the Okta platform.
 
 ---
 

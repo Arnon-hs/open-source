@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14889** |
+| 🗂️ **Total projects** | **14930** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5573 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3046 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1458 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1101 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 914 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 888 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 516 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 5587 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3057 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1462 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1104 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 917 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 890 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 518 | [Browse →](./crypto/) |
 | 📊 **Data** | 339 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 321 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 322 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 198 | [Browse →](./mobile/) |
 | 💳 **Payments** | 159 | [Browse →](./payments/) |
-| 📈 **Trading** | 151 | [Browse →](./trading/) |
+| 📈 **Trading** | 152 | [Browse →](./trading/) |
 | 🔐 **Security** | 120 | [Browse →](./security/) |
 | ✨ **Design** | 48 | [Browse →](./design/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
@@ -42,13 +42,13 @@
 | 1 | [HugoBlox/kit](./aiml/hugoblox-kit.md) | ⭐ 9.4k | AI/ML |
 | 2 | [MaterialDesignInXAML/MaterialDesignInXamlToolkit](./aiml/materialdesigninxaml-materialdesigninxamltoolkit.md) | ⭐ 16.1k | AI/ML |
 | 3 | [luanti-org/luanti](./devtools/luanti-org-luanti.md) | ⭐ 12.8k | DevTools |
-| 4 | [The-PR-Agent/pr-agent](./aiml/the-pr-agent-pr-agent.md) | ⭐ 11.1k | AI/ML |
-| 5 | [ImageMagick/ImageMagick](./frontend/imagemagick-imagemagick.md) | ⭐ 16.3k | Frontend |
-| 6 | [laurent22/joplin](./frontend/laurent22-joplin.md) | ⭐ 54.6k | Frontend |
-| 7 | [google/comprehensive-rust](./aiml/google-comprehensive-rust.md) | ⭐ 32.9k | AI/ML |
-| 8 | [nats-io/nats-server](./aiml/nats-io-nats-server.md) | ⭐ 19.7k | AI/ML |
-| 9 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 10 | [redisson/redisson](./frontend/redisson-redisson.md) | ⭐ 24.3k | Frontend |
+| 4 | [xtekky/gpt4free](./aiml/xtekky-gpt4free.md) | ⭐ 66.2k | AI/ML |
+| 5 | [Leonxlnx/taste-skill](./aiml/leonxlnx-taste-skill.md) | ⭐ 14.5k | AI/ML |
+| 6 | [The-PR-Agent/pr-agent](./aiml/the-pr-agent-pr-agent.md) | ⭐ 11.1k | AI/ML |
+| 7 | [ImageMagick/ImageMagick](./frontend/imagemagick-imagemagick.md) | ⭐ 16.3k | Frontend |
+| 8 | [google/comprehensive-rust](./aiml/google-comprehensive-rust.md) | ⭐ 32.9k | AI/ML |
+| 9 | [nats-io/nats-server](./aiml/nats-io-nats-server.md) | ⭐ 19.7k | AI/ML |
+| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
 
 ## 🚀 How it works
 

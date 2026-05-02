@@ -1,6 +1,6 @@
 # zircote/rlm-rs
 
-[![Stars](https://img.shields.io/github/stars/zircote/rlm-rs?style=flat-square&color=yellow)](https://github.com/zircote/rlm-rs/stargazers) [![Forks](https://img.shields.io/github/forks/zircote/rlm-rs?style=flat-square&color=blue)](https://github.com/zircote/rlm-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zircote/rlm-rs?style=flat-square&color=yellow)](https://github.com/zircote/rlm-rs/stargazers) [![Forks](https://img.shields.io/github/forks/zircote/rlm-rs?style=flat-square&color=blue)](https://github.com/zircote/rlm-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Rust CLI implementing the Recursive Language Model (RLM) pattern for Claude Code. Process documents 100x larger than context windows through intelligent chunking, SQLite persistence, and recursive sub-LLM orchestration.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 39 |
+| ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # thushan/olla
 
-[![Stars](https://img.shields.io/github/stars/thushan/olla?style=flat-square&color=yellow)](https://github.com/thushan/olla/stargazers) [![Forks](https://img.shields.io/github/forks/thushan/olla?style=flat-square&color=blue)](https://github.com/thushan/olla/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thushan/olla?style=flat-square&color=yellow)](https://github.com/thushan/olla/stargazers) [![Forks](https://img.shields.io/github/forks/thushan/olla?style=flat-square&color=blue)](https://github.com/thushan/olla/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance lightweight proxy and load balancer for LLM infrastructure. Intelligent routing, automatic failover and unified model discovery across local and remote inference backends.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

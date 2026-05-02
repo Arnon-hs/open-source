@@ -1,6 +1,6 @@
 # yym68686/uni-api
 
-[![Stars](https://img.shields.io/github/stars/yym68686/uni-api?style=flat-square&color=yellow)](https://github.com/yym68686/uni-api/stargazers) [![Forks](https://img.shields.io/github/forks/yym68686/uni-api?style=flat-square&color=blue)](https://github.com/yym68686/uni-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yym68686/uni-api?style=flat-square&color=yellow)](https://github.com/yym68686/uni-api/stargazers) [![Forks](https://img.shields.io/github/forks/yym68686/uni-api?style=flat-square&color=blue)](https://github.com/yym68686/uni-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
