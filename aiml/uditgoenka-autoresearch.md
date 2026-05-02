@@ -1,6 +1,6 @@
 # uditgoenka/autoresearch
 
-[![Stars](https://img.shields.io/github/stars/uditgoenka/autoresearch?style=flat-square&color=yellow)](https://github.com/uditgoenka/autoresearch/stargazers) [![Forks](https://img.shields.io/github/forks/uditgoenka/autoresearch?style=flat-square&color=blue)](https://github.com/uditgoenka/autoresearch/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uditgoenka/autoresearch?style=flat-square&color=yellow)](https://github.com/uditgoenka/autoresearch/stargazers) [![Forks](https://img.shields.io/github/forks/uditgoenka/autoresearch?style=flat-square&color=blue)](https://github.com/uditgoenka/autoresearch/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.2k |
-| 🍴 **Forks** | 324 |
+| 🍴 **Forks** | 325 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

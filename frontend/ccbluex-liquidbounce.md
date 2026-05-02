@@ -1,6 +1,6 @@
 # CCBlueX/LiquidBounce
 
-[![Stars](https://img.shields.io/github/stars/CCBlueX/LiquidBounce?style=flat-square&color=yellow)](https://github.com/CCBlueX/LiquidBounce/stargazers) [![Forks](https://img.shields.io/github/forks/CCBlueX/LiquidBounce?style=flat-square&color=blue)](https://github.com/CCBlueX/LiquidBounce/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CCBlueX/LiquidBounce?style=flat-square&color=yellow)](https://github.com/CCBlueX/LiquidBounce/stargazers) [![Forks](https://img.shields.io/github/forks/CCBlueX/LiquidBounce?style=flat-square&color=blue)](https://github.com/CCBlueX/LiquidBounce/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > A free Minecraft hacked client (utility mod) for Fabric
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 638 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

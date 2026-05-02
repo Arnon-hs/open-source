@@ -1,6 +1,6 @@
 # est31/cargo-udeps
 
-[![Stars](https://img.shields.io/github/stars/est31/cargo-udeps?style=flat-square&color=yellow)](https://github.com/est31/cargo-udeps/stargazers) [![Forks](https://img.shields.io/github/forks/est31/cargo-udeps?style=flat-square&color=blue)](https://github.com/est31/cargo-udeps/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/est31/cargo-udeps?style=flat-square&color=yellow)](https://github.com/est31/cargo-udeps/stargazers) [![Forks](https://img.shields.io/github/forks/est31/cargo-udeps?style=flat-square&color=blue)](https://github.com/est31/cargo-udeps/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Find unused dependencies in Cargo.toml
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # jal-co/shieldcn
 
-[![Stars](https://img.shields.io/github/stars/jal-co/shieldcn?style=flat-square&color=yellow)](https://github.com/jal-co/shieldcn//stargazers) [![Forks](https://img.shields.io/github/forks/jal-co/shieldcn?style=flat-square&color=blue)](https://github.com/jal-co/shieldcn//network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jal-co/shieldcn?style=flat-square&color=yellow)](https://github.com/jal-co/shieldcn//stargazers) [![Forks](https://img.shields.io/github/forks/jal-co/shieldcn?style=flat-square&color=blue)](https://github.com/jal-co/shieldcn//network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 67 |
+| ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

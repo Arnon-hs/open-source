@@ -1,6 +1,6 @@
 # Corsinvest/cv4pve-autosnap
 
-[![Stars](https://img.shields.io/github/stars/Corsinvest/cv4pve-autosnap?style=flat-square&color=yellow)](https://github.com/Corsinvest/cv4pve-autosnap/stargazers) [![Forks](https://img.shields.io/github/forks/Corsinvest/cv4pve-autosnap?style=flat-square&color=blue)](https://github.com/Corsinvest/cv4pve-autosnap/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Corsinvest/cv4pve-autosnap?style=flat-square&color=yellow)](https://github.com/Corsinvest/cv4pve-autosnap/stargazers) [![Forks](https://img.shields.io/github/forks/Corsinvest/cv4pve-autosnap?style=flat-square&color=blue)](https://github.com/Corsinvest/cv4pve-autosnap/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Automatic snapshot tool for Proxmox VE VMs and containers with retention policies
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 534 |
+| ⭐ **Stars** | 539 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

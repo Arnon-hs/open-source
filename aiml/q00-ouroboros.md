@@ -1,6 +1,6 @@
 # Q00/ouroboros
 
-[![Stars](https://img.shields.io/github/stars/Q00/ouroboros?style=flat-square&color=yellow)](https://github.com/Q00/ouroboros/stargazers) [![Forks](https://img.shields.io/github/forks/Q00/ouroboros?style=flat-square&color=blue)](https://github.com/Q00/ouroboros/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Q00/ouroboros?style=flat-square&color=yellow)](https://github.com/Q00/ouroboros/stargazers) [![Forks](https://img.shields.io/github/forks/Q00/ouroboros?style=flat-square&color=blue)](https://github.com/Q00/ouroboros/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Agent OS: Stop prompting. Start specifying.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 287 |
+| ⭐ **Stars** | 3.1k |
+| 🍴 **Forks** | 289 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

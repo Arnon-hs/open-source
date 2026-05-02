@@ -1,6 +1,6 @@
 # fltk/fltk
 
-[![Stars](https://img.shields.io/github/stars/fltk/fltk?style=flat-square&color=yellow)](https://github.com/fltk/fltk/stargazers) [![Forks](https://img.shields.io/github/forks/fltk/fltk?style=flat-square&color=blue)](https://github.com/fltk/fltk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fltk/fltk?style=flat-square&color=yellow)](https://github.com/fltk/fltk/stargazers) [![Forks](https://img.shields.io/github/forks/fltk/fltk?style=flat-square&color=blue)](https://github.com/fltk/fltk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > FLTK - Fast Light Tool Kit - https://github.com/fltk/fltk - cross platform GUI development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 335 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

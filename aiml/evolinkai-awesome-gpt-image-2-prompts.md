@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/EvoLinkAI/awesome-gpt-image-2-prompts?style=flat-square&color=yellow)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/EvoLinkAI/awesome-gpt-image-2-prompts?style=flat-square&color=blue)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.
+> GPT-Image-2 API and Prompts
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 11.4k |
-| 🍴 **Forks** | 1.1k |
+| 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend
 
 ## 📝 Summary
 

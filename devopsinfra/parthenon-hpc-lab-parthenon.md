@@ -1,6 +1,6 @@
 # parthenon-hpc-lab/parthenon
 
-[![Stars](https://img.shields.io/github/stars/parthenon-hpc-lab/parthenon?style=flat-square&color=yellow)](https://github.com/parthenon-hpc-lab/parthenon/stargazers) [![Forks](https://img.shields.io/github/forks/parthenon-hpc-lab/parthenon?style=flat-square&color=blue)](https://github.com/parthenon-hpc-lab/parthenon/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/parthenon-hpc-lab/parthenon?style=flat-square&color=yellow)](https://github.com/parthenon-hpc-lab/parthenon/stargazers) [![Forks](https://img.shields.io/github/forks/parthenon-hpc-lab/parthenon?style=flat-square&color=blue)](https://github.com/parthenon-hpc-lab/parthenon/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Parthenon AMR infrastructure
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

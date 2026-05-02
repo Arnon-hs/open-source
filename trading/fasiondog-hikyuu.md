@@ -1,6 +1,6 @@
 # fasiondog/hikyuu
 
-[![Stars](https://img.shields.io/github/stars/fasiondog/hikyuu?style=flat-square&color=yellow)](https://github.com/fasiondog/hikyuu/stargazers) [![Forks](https://img.shields.io/github/forks/fasiondog/hikyuu?style=flat-square&color=blue)](https://github.com/fasiondog/hikyuu/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fasiondog/hikyuu?style=flat-square&color=yellow)](https://github.com/fasiondog/hikyuu/stargazers) [![Forks](https://img.shields.io/github/forks/fasiondog/hikyuu?style=flat-square&color=blue)](https://github.com/fasiondog/hikyuu/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Hikyuu Quant Framework 基于C++/Python的超高速开源量化交易研究框架，同时可基于策略部件进行资产重用，快速累积策略资产。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 761 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

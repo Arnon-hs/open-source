@@ -1,6 +1,6 @@
 # getreu/tp-note
 
-[![Stars](https://img.shields.io/github/stars/getreu/tp-note?style=flat-square&color=yellow)](https://github.com/getreu/tp-note/stargazers) [![Forks](https://img.shields.io/github/forks/getreu/tp-note?style=flat-square&color=blue)](https://github.com/getreu/tp-note/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getreu/tp-note?style=flat-square&color=yellow)](https://github.com/getreu/tp-note/stargazers) [![Forks](https://img.shields.io/github/forks/getreu/tp-note?style=flat-square&color=blue)](https://github.com/getreu/tp-note/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Minimalistic note taking: save and edit your clipboard content as a note file (Gitlab mirror)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

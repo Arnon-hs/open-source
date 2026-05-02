@@ -1,6 +1,6 @@
 # EmbarkStudios/crash-handling
 
-[![Stars](https://img.shields.io/github/stars/EmbarkStudios/crash-handling?style=flat-square&color=yellow)](https://github.com/EmbarkStudios/crash-handling/stargazers) [![Forks](https://img.shields.io/github/forks/EmbarkStudios/crash-handling?style=flat-square&color=blue)](https://github.com/EmbarkStudios/crash-handling/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EmbarkStudios/crash-handling?style=flat-square&color=yellow)](https://github.com/EmbarkStudios/crash-handling/stargazers) [![Forks](https://img.shields.io/github/forks/EmbarkStudios/crash-handling?style=flat-square&color=blue)](https://github.com/EmbarkStudios/crash-handling/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of crates to deal with crashes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 175 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

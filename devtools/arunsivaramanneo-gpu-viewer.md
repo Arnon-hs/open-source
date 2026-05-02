@@ -1,6 +1,6 @@
 # arunsivaramanneo/GPU-Viewer
 
-[![Stars](https://img.shields.io/github/stars/arunsivaramanneo/GPU-Viewer?style=flat-square&color=yellow)](https://github.com/arunsivaramanneo/GPU-Viewer/stargazers) [![Forks](https://img.shields.io/github/forks/arunsivaramanneo/GPU-Viewer?style=flat-square&color=blue)](https://github.com/arunsivaramanneo/GPU-Viewer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arunsivaramanneo/GPU-Viewer?style=flat-square&color=yellow)](https://github.com/arunsivaramanneo/GPU-Viewer/stargazers) [![Forks](https://img.shields.io/github/forks/arunsivaramanneo/GPU-Viewer?style=flat-square&color=blue)](https://github.com/arunsivaramanneo/GPU-Viewer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A front-end to glxinfo, vulkaninfo, clinfo and es2_info - Linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 415 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

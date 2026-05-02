@@ -1,6 +1,6 @@
 # RustCrypto/formats
 
-[![Stars](https://img.shields.io/github/stars/RustCrypto/formats?style=flat-square&color=yellow)](https://github.com/RustCrypto/formats/stargazers) [![Forks](https://img.shields.io/github/forks/RustCrypto/formats?style=flat-square&color=blue)](https://github.com/RustCrypto/formats/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RustCrypto/formats?style=flat-square&color=yellow)](https://github.com/RustCrypto/formats/stargazers) [![Forks](https://img.shields.io/github/forks/RustCrypto/formats?style=flat-square&color=blue)](https://github.com/RustCrypto/formats/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

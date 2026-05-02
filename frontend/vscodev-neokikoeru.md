@@ -1,6 +1,6 @@
 # vscodev/neokikoeru
 
-[![Stars](https://img.shields.io/github/stars/vscodev/neokikoeru?style=flat-square&color=yellow)](https://github.com/vscodev/neokikoeru/stargazers) [![Forks](https://img.shields.io/github/forks/vscodev/neokikoeru?style=flat-square&color=blue)](https://github.com/vscodev/neokikoeru/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vscodev/neokikoeru?style=flat-square&color=yellow)](https://github.com/vscodev/neokikoeru/stargazers) [![Forks](https://img.shields.io/github/forks/vscodev/neokikoeru?style=flat-square&color=blue)](https://github.com/vscodev/neokikoeru/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Neokikoeru, which means "New Kikoeru" — Robust, fast, and easy-to-use self-hosted streaming media server for DLsite voice works.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 536 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Crypt0nly/plutus
 
-[![Stars](https://img.shields.io/github/stars/Crypt0nly/plutus?style=flat-square&color=yellow)](https://github.com/Crypt0nly/plutus/stargazers) [![Forks](https://img.shields.io/github/forks/Crypt0nly/plutus?style=flat-square&color=blue)](https://github.com/Crypt0nly/plutus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Crypt0nly/plutus?style=flat-square&color=yellow)](https://github.com/Crypt0nly/plutus/stargazers) [![Forks](https://img.shields.io/github/forks/Crypt0nly/plutus?style=flat-square&color=blue)](https://github.com/Crypt0nly/plutus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Local Ai agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

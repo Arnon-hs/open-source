@@ -1,6 +1,6 @@
 # hatchet-dev/hatchet
 
-[![Stars](https://img.shields.io/github/stars/hatchet-dev/hatchet?style=flat-square&color=yellow)](https://github.com/hatchet-dev/hatchet/stargazers) [![Forks](https://img.shields.io/github/forks/hatchet-dev/hatchet?style=flat-square&color=blue)](https://github.com/hatchet-dev/hatchet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hatchet-dev/hatchet?style=flat-square&color=yellow)](https://github.com/hatchet-dev/hatchet/stargazers) [![Forks](https://img.shields.io/github/forks/hatchet-dev/hatchet?style=flat-square&color=blue)](https://github.com/hatchet-dev/hatchet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7k |
-| 🍴 **Forks** | 365 |
+| 🍴 **Forks** | 367 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

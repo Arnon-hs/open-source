@@ -1,6 +1,6 @@
 # stackitcloud/terraform-provider-stackit
 
-[![Stars](https://img.shields.io/github/stars/stackitcloud/terraform-provider-stackit?style=flat-square&color=yellow)](https://github.com/stackitcloud/terraform-provider-stackit/stargazers) [![Forks](https://img.shields.io/github/forks/stackitcloud/terraform-provider-stackit?style=flat-square&color=blue)](https://github.com/stackitcloud/terraform-provider-stackit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stackitcloud/terraform-provider-stackit?style=flat-square&color=yellow)](https://github.com/stackitcloud/terraform-provider-stackit/stargazers) [![Forks](https://img.shields.io/github/forks/stackitcloud/terraform-provider-stackit?style=flat-square&color=blue)](https://github.com/stackitcloud/terraform-provider-stackit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > The official Terraform provider for STACKIT
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

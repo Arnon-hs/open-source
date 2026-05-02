@@ -1,6 +1,6 @@
 # robolectric/robolectric
 
-[![Stars](https://img.shields.io/github/stars/robolectric/robolectric?style=flat-square&color=yellow)](https://github.com/robolectric/robolectric/stargazers) [![Forks](https://img.shields.io/github/forks/robolectric/robolectric?style=flat-square&color=blue)](https://github.com/robolectric/robolectric/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robolectric/robolectric?style=flat-square&color=yellow)](https://github.com/robolectric/robolectric/stargazers) [![Forks](https://img.shields.io/github/forks/robolectric/robolectric?style=flat-square&color=blue)](https://github.com/robolectric/robolectric/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
 > Android Unit Testing Framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 91/100 |
+| 📈 **Score** | 95/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

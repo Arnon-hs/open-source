@@ -1,6 +1,6 @@
 # MinishLab/semble
 
-[![Stars](https://img.shields.io/github/stars/MinishLab/semble?style=flat-square&color=yellow)](https://github.com/MinishLab/semble/stargazers) [![Forks](https://img.shields.io/github/forks/MinishLab/semble?style=flat-square&color=blue)](https://github.com/MinishLab/semble/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MinishLab/semble?style=flat-square&color=yellow)](https://github.com/MinishLab/semble/stargazers) [![Forks](https://img.shields.io/github/forks/MinishLab/semble?style=flat-square&color=blue)](https://github.com/MinishLab/semble/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 448 |
-| 🍴 **Forks** | 39 |
+| ⭐ **Stars** | 471 |
+| 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

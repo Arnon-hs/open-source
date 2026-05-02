@@ -1,6 +1,6 @@
 # icepy/manong-weekly
 
-[![Stars](https://img.shields.io/github/stars/icepy/manong-weekly?style=flat-square&color=yellow)](https://github.com/icepy/manong-weekly/stargazers) [![Forks](https://img.shields.io/github/forks/icepy/manong-weekly?style=flat-square&color=blue)](https://github.com/icepy/manong-weekly/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/icepy/manong-weekly?style=flat-square&color=yellow)](https://github.com/icepy/manong-weekly/stargazers) [![Forks](https://img.shields.io/github/forks/icepy/manong-weekly?style=flat-square&color=blue)](https://github.com/icepy/manong-weekly/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > 🐒《猿已阅》码农周刊 iOS App（放弃维护，推荐大家下载《开发者头条》App，https://toutiao.io ）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 367 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

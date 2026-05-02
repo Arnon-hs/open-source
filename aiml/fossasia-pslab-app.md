@@ -1,6 +1,6 @@
 # fossasia/pslab-app
 
-[![Stars](https://img.shields.io/github/stars/fossasia/pslab-app?style=flat-square&color=yellow)](https://github.com/fossasia/pslab-app/stargazers) [![Forks](https://img.shields.io/github/forks/fossasia/pslab-app?style=flat-square&color=blue)](https://github.com/fossasia/pslab-app/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fossasia/pslab-app?style=flat-square&color=yellow)](https://github.com/fossasia/pslab-app/stargazers) [![Forks](https://img.shields.io/github/forks/fossasia/pslab-app?style=flat-square&color=blue)](https://github.com/fossasia/pslab-app/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > PSLab Android App https://play.google.com/store/apps/details?id=io.pslab
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 845 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

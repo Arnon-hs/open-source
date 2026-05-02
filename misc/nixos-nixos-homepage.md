@@ -1,6 +1,6 @@
 # NixOS/nixos-homepage
 
-[![Stars](https://img.shields.io/github/stars/NixOS/nixos-homepage?style=flat-square&color=yellow)](https://github.com/NixOS/nixos-homepage/stargazers) [![Forks](https://img.shields.io/github/forks/NixOS/nixos-homepage?style=flat-square&color=blue)](https://github.com/NixOS/nixos-homepage/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NixOS/nixos-homepage?style=flat-square&color=yellow)](https://github.com/NixOS/nixos-homepage/stargazers) [![Forks](https://img.shields.io/github/forks/NixOS/nixos-homepage?style=flat-square&color=blue)](https://github.com/NixOS/nixos-homepage/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Sources for nixos.org
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 371 |
 | 🍴 **Forks** | 361 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

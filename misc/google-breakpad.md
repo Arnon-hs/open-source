@@ -1,6 +1,6 @@
 # google/breakpad
 
-[![Stars](https://img.shields.io/github/stars/google/breakpad?style=flat-square&color=yellow)](https://github.com/google/breakpad/stargazers) [![Forks](https://img.shields.io/github/forks/google/breakpad?style=flat-square&color=blue)](https://github.com/google/breakpad/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/breakpad?style=flat-square&color=yellow)](https://github.com/google/breakpad/stargazers) [![Forks](https://img.shields.io/github/forks/google/breakpad?style=flat-square&color=blue)](https://github.com/google/breakpad/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of Google Breakpad project
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 779 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

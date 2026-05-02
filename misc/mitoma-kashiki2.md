@@ -1,6 +1,6 @@
 # mitoma/kashiki2
 
-[![Stars](https://img.shields.io/github/stars/mitoma/kashiki2?style=flat-square&color=yellow)](https://github.com/mitoma/kashiki2/stargazers) [![Forks](https://img.shields.io/github/forks/mitoma/kashiki2?style=flat-square&color=blue)](https://github.com/mitoma/kashiki2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mitoma/kashiki2?style=flat-square&color=yellow)](https://github.com/mitoma/kashiki2/stargazers) [![Forks](https://img.shields.io/github/forks/mitoma/kashiki2?style=flat-square&color=blue)](https://github.com/mitoma/kashiki2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 炊紙(kashikishi) is a text editor that utilizes GPU to edit text in a 3D space.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 362 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

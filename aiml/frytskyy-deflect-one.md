@@ -1,6 +1,6 @@
 # Frytskyy/deflect-one
 
-[![Stars](https://img.shields.io/github/stars/Frytskyy/deflect-one?style=flat-square&color=yellow)](https://github.com/Frytskyy/deflect-one/stargazers) [![Forks](https://img.shields.io/github/forks/Frytskyy/deflect-one?style=flat-square&color=blue)](https://github.com/Frytskyy/deflect-one/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Frytskyy/deflect-one?style=flat-square&color=yellow)](https://github.com/Frytskyy/deflect-one/stargazers) [![Forks](https://img.shields.io/github/forks/Frytskyy/deflect-one?style=flat-square&color=blue)](https://github.com/Frytskyy/deflect-one/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Deflect One. Agentless DevOps command center for Linux infrastructure - monitoring, attack defense, AI assistance (optional). One Python file, SSH only.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

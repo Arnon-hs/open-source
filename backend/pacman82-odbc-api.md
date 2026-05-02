@@ -1,6 +1,6 @@
 # pacman82/odbc-api
 
-[![Stars](https://img.shields.io/github/stars/pacman82/odbc-api?style=flat-square&color=yellow)](https://github.com/pacman82/odbc-api/stargazers) [![Forks](https://img.shields.io/github/forks/pacman82/odbc-api?style=flat-square&color=blue)](https://github.com/pacman82/odbc-api/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pacman82/odbc-api?style=flat-square&color=yellow)](https://github.com/pacman82/odbc-api/stargazers) [![Forks](https://img.shields.io/github/forks/pacman82/odbc-api?style=flat-square&color=blue)](https://github.com/pacman82/odbc-api/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > ODBC (Open Database Connectivity) bindings for Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 184 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

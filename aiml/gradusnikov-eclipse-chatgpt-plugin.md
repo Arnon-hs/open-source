@@ -1,6 +1,6 @@
 # gradusnikov/eclipse-chatgpt-plugin
 
-[![Stars](https://img.shields.io/github/stars/gradusnikov/eclipse-chatgpt-plugin?style=flat-square&color=yellow)](https://github.com/gradusnikov/eclipse-chatgpt-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/gradusnikov/eclipse-chatgpt-plugin?style=flat-square&color=blue)](https://github.com/gradusnikov/eclipse-chatgpt-plugin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gradusnikov/eclipse-chatgpt-plugin?style=flat-square&color=yellow)](https://github.com/gradusnikov/eclipse-chatgpt-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/gradusnikov/eclipse-chatgpt-plugin?style=flat-square&color=blue)](https://github.com/gradusnikov/eclipse-chatgpt-plugin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Eclipse IDE as an MCP Server for AI Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

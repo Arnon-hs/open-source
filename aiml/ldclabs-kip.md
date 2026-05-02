@@ -1,6 +1,6 @@
 # ldclabs/KIP
 
-[![Stars](https://img.shields.io/github/stars/ldclabs/KIP?style=flat-square&color=yellow)](https://github.com/ldclabs/KIP/stargazers) [![Forks](https://img.shields.io/github/forks/ldclabs/KIP?style=flat-square&color=blue)](https://github.com/ldclabs/KIP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ldclabs/KIP?style=flat-square&color=yellow)](https://github.com/ldclabs/KIP/stargazers) [![Forks](https://img.shields.io/github/forks/ldclabs/KIP?style=flat-square&color=blue)](https://github.com/ldclabs/KIP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 🧬 KIP is a Knowledge-memory Interaction Protocol designed for LLMs, aiming to build a sustainable learning and self-evolving memory system for AI Agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

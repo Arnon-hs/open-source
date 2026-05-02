@@ -1,6 +1,6 @@
 # guigui-gui/guigui
 
-[![Stars](https://img.shields.io/github/stars/guigui-gui/guigui?style=flat-square&color=yellow)](https://github.com/guigui-gui/guigui/stargazers) [![Forks](https://img.shields.io/github/forks/guigui-gui/guigui?style=flat-square&color=blue)](https://github.com/guigui-gui/guigui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guigui-gui/guigui?style=flat-square&color=yellow)](https://github.com/guigui-gui/guigui/stargazers) [![Forks](https://img.shields.io/github/forks/guigui-gui/guigui?style=flat-square&color=blue)](https://github.com/guigui-gui/guigui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > An immediate-mode-inspired GUI framework for Go
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 429 |
+| ⭐ **Stars** | 430 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

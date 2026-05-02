@@ -1,6 +1,6 @@
 # reVrost/go-openrouter
 
-[![Stars](https://img.shields.io/github/stars/reVrost/go-openrouter?style=flat-square&color=yellow)](https://github.com/reVrost/go-openrouter/stargazers) [![Forks](https://img.shields.io/github/forks/reVrost/go-openrouter?style=flat-square&color=blue)](https://github.com/reVrost/go-openrouter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reVrost/go-openrouter?style=flat-square&color=yellow)](https://github.com/reVrost/go-openrouter/stargazers) [![Forks](https://img.shields.io/github/forks/reVrost/go-openrouter?style=flat-square&color=blue)](https://github.com/reVrost/go-openrouter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial API SDK for openrouter.ai in go
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 122 |
+| ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

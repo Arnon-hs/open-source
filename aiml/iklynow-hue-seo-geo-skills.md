@@ -1,6 +1,6 @@
 # iklynow-hue/seo-geo-skills
 
-[![Stars](https://img.shields.io/github/stars/iklynow-hue/seo-geo-skills?style=flat-square&color=yellow)](https://github.com/iklynow-hue/seo-geo-skills/stargazers) [![Forks](https://img.shields.io/github/forks/iklynow-hue/seo-geo-skills?style=flat-square&color=blue)](https://github.com/iklynow-hue/seo-geo-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iklynow-hue/seo-geo-skills?style=flat-square&color=yellow)](https://github.com/iklynow-hue/seo-geo-skills/stargazers) [![Forks](https://img.shields.io/github/forks/iklynow-hue/seo-geo-skills?style=flat-square&color=blue)](https://github.com/iklynow-hue/seo-geo-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > SEO/GEO site audit skill for Codex and Claude Code with capped crawling, template-aware sampling, and bilingual HTML reporting powered by local Lighthouse or PageSpeed API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

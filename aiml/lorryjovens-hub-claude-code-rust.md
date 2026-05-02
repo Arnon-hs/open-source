@@ -1,6 +1,6 @@
 # lorryjovens-hub/claude-code-rust
 
-[![Stars](https://img.shields.io/github/stars/lorryjovens-hub/claude-code-rust?style=flat-square&color=yellow)](https://github.com/lorryjovens-hub/claude-code-rust/stargazers) [![Forks](https://img.shields.io/github/forks/lorryjovens-hub/claude-code-rust?style=flat-square&color=blue)](https://github.com/lorryjovens-hub/claude-code-rust/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lorryjovens-hub/claude-code-rust?style=flat-square&color=yellow)](https://github.com/lorryjovens-hub/claude-code-rust/stargazers) [![Forks](https://img.shields.io/github/forks/lorryjovens-hub/claude-code-rust?style=flat-square&color=blue)](https://github.com/lorryjovens-hub/claude-code-rust/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 611 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

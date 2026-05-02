@@ -1,6 +1,6 @@
 # qCanoe/skills-manager
 
-[![Stars](https://img.shields.io/github/stars/qCanoe/skills-manager?style=flat-square&color=yellow)](https://github.com/qCanoe/skills-manager/stargazers) [![Forks](https://img.shields.io/github/forks/qCanoe/skills-manager?style=flat-square&color=blue)](https://github.com/qCanoe/skills-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qCanoe/skills-manager?style=flat-square&color=yellow)](https://github.com/qCanoe/skills-manager/stargazers) [![Forks](https://img.shields.io/github/forks/qCanoe/skills-manager?style=flat-square&color=blue)](https://github.com/qCanoe/skills-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Skills Manager 是一个基于 Tauri 构建的Windows轻量托盘应用，用于集中管理本地 AI agent skills。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

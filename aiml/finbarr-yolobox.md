@@ -1,6 +1,6 @@
 # finbarr/yolobox
 
-[![Stars](https://img.shields.io/github/stars/finbarr/yolobox?style=flat-square&color=yellow)](https://github.com/finbarr/yolobox/stargazers) [![Forks](https://img.shields.io/github/forks/finbarr/yolobox?style=flat-square&color=blue)](https://github.com/finbarr/yolobox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/finbarr/yolobox?style=flat-square&color=yellow)](https://github.com/finbarr/yolobox/stargazers) [![Forks](https://img.shields.io/github/forks/finbarr/yolobox?style=flat-square&color=blue)](https://github.com/finbarr/yolobox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Let your AI go full send. Your home directory stays home.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 559 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

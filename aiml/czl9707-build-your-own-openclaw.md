@@ -1,6 +1,6 @@
 # czl9707/build-your-own-openclaw
 
-[![Stars](https://img.shields.io/github/stars/czl9707/build-your-own-openclaw?style=flat-square&color=yellow)](https://github.com/czl9707/build-your-own-openclaw/stargazers) [![Forks](https://img.shields.io/github/forks/czl9707/build-your-own-openclaw?style=flat-square&color=blue)](https://github.com/czl9707/build-your-own-openclaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/czl9707/build-your-own-openclaw?style=flat-square&color=yellow)](https://github.com/czl9707/build-your-own-openclaw/stargazers) [![Forks](https://img.shields.io/github/forks/czl9707/build-your-own-openclaw?style=flat-square&color=blue)](https://github.com/czl9707/build-your-own-openclaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A step-by-step guide to build your own AI agent.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 258 |
+| 🍴 **Forks** | 261 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # adongwanai/AgentGuide
 
-[![Stars](https://img.shields.io/github/stars/adongwanai/AgentGuide?style=flat-square&color=yellow)](https://github.com/adongwanai/AgentGuide/stargazers) [![Forks](https://img.shields.io/github/forks/adongwanai/AgentGuide?style=flat-square&color=blue)](https://github.com/adongwanai/AgentGuide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adongwanai/AgentGuide?style=flat-square&color=yellow)](https://github.com/adongwanai/AgentGuide/stargazers) [![Forks](https://img.shields.io/github/forks/adongwanai/AgentGuide?style=flat-square&color=blue)](https://github.com/adongwanai/AgentGuide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 438 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

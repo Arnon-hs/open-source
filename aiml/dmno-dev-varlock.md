@@ -1,6 +1,6 @@
 # dmno-dev/varlock
 
-[![Stars](https://img.shields.io/github/stars/dmno-dev/varlock?style=flat-square&color=yellow)](https://github.com/dmno-dev/varlock/stargazers) [![Forks](https://img.shields.io/github/forks/dmno-dev/varlock?style=flat-square&color=blue)](https://github.com/dmno-dev/varlock/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dmno-dev/varlock?style=flat-square&color=yellow)](https://github.com/dmno-dev/varlock/stargazers) [![Forks](https://img.shields.io/github/forks/dmno-dev/varlock?style=flat-square&color=blue)](https://github.com/dmno-dev/varlock/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > AI-safe .env files: Schemas for agents, Secrets for humans.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

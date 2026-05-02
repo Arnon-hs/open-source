@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/marcusquinn/aidevops?style=flat-square&color=yellow)](https://github.com/marcusquinn/aidevops/stargazers) [![Forks](https://img.shields.io/github/forks/marcusquinn/aidevops?style=flat-square&color=blue)](https://github.com/marcusquinn/aidevops/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.
+> Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.
 
 ## 📊 Stats
 

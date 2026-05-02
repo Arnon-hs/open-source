@@ -1,6 +1,6 @@
 # boxdot/gurk-rs
 
-[![Stars](https://img.shields.io/github/stars/boxdot/gurk-rs?style=flat-square&color=yellow)](https://github.com/boxdot/gurk-rs/stargazers) [![Forks](https://img.shields.io/github/forks/boxdot/gurk-rs?style=flat-square&color=blue)](https://github.com/boxdot/gurk-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boxdot/gurk-rs?style=flat-square&color=yellow)](https://github.com/boxdot/gurk-rs/stargazers) [![Forks](https://img.shields.io/github/forks/boxdot/gurk-rs?style=flat-square&color=blue)](https://github.com/boxdot/gurk-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Signal Messenger client for terminal
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

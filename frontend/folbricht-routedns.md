@@ -1,6 +1,6 @@
 # folbricht/routedns
 
-[![Stars](https://img.shields.io/github/stars/folbricht/routedns?style=flat-square&color=yellow)](https://github.com/folbricht/routedns/stargazers) [![Forks](https://img.shields.io/github/forks/folbricht/routedns?style=flat-square&color=blue)](https://github.com/folbricht/routedns/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/folbricht/routedns?style=flat-square&color=yellow)](https://github.com/folbricht/routedns/stargazers) [![Forks](https://img.shields.io/github/forks/folbricht/routedns?style=flat-square&color=blue)](https://github.com/folbricht/routedns/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 610 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

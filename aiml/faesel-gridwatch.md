@@ -1,6 +1,6 @@
 # faesel/gridwatch
 
-[![Stars](https://img.shields.io/github/stars/faesel/gridwatch?style=flat-square&color=yellow)](https://github.com/faesel/gridwatch/stargazers) [![Forks](https://img.shields.io/github/forks/faesel/gridwatch?style=flat-square&color=blue)](https://github.com/faesel/gridwatch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/faesel/gridwatch?style=flat-square&color=yellow)](https://github.com/faesel/gridwatch/stargazers) [![Forks](https://img.shields.io/github/forks/faesel/gridwatch?style=flat-square&color=blue)](https://github.com/faesel/gridwatch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A Tron-themed desktop app that visualises your GitHub Copilot CLI sessions —    browse history, track token usage, and explore activity across all your coding sessions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

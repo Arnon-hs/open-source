@@ -1,6 +1,6 @@
 # FCL-Team/FoldCraftLauncher
 
-[![Stars](https://img.shields.io/github/stars/FCL-Team/FoldCraftLauncher?style=flat-square&color=yellow)](https://github.com/FCL-Team/FoldCraftLauncher/stargazers) [![Forks](https://img.shields.io/github/forks/FCL-Team/FoldCraftLauncher?style=flat-square&color=blue)](https://github.com/FCL-Team/FoldCraftLauncher/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FCL-Team/FoldCraftLauncher?style=flat-square&color=yellow)](https://github.com/FCL-Team/FoldCraftLauncher/stargazers) [![Forks](https://img.shields.io/github/forks/FCL-Team/FoldCraftLauncher?style=flat-square&color=blue)](https://github.com/FCL-Team/FoldCraftLauncher/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 274 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

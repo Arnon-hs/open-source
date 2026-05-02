@@ -1,6 +1,6 @@
 # AikidoSec/firewall-php
 
-[![Stars](https://img.shields.io/github/stars/AikidoSec/firewall-php?style=flat-square&color=yellow)](https://github.com/AikidoSec/firewall-php/stargazers) [![Forks](https://img.shields.io/github/forks/AikidoSec/firewall-php?style=flat-square&color=blue)](https://github.com/AikidoSec/firewall-php/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AikidoSec/firewall-php?style=flat-square&color=yellow)](https://github.com/AikidoSec/firewall-php/stargazers) [![Forks](https://img.shields.io/github/forks/AikidoSec/firewall-php?style=flat-square&color=blue)](https://github.com/AikidoSec/firewall-php/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Zen by Aikido protects your PHP app against attacks with one line of code. Get peace of mind — at runtime.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # strands-labs/robots
 
-[![Stars](https://img.shields.io/github/stars/strands-labs/robots?style=flat-square&color=yellow)](https://github.com/strands-labs/robots/stargazers) [![Forks](https://img.shields.io/github/forks/strands-labs/robots?style=flat-square&color=blue)](https://github.com/strands-labs/robots/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-labs/robots?style=flat-square&color=yellow)](https://github.com/strands-labs/robots/stargazers) [![Forks](https://img.shields.io/github/forks/strands-labs/robots?style=flat-square&color=blue)](https://github.com/strands-labs/robots/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Control robots and physical hardware with natural language through Strands Agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

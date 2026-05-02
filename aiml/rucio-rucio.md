@@ -1,6 +1,6 @@
 # rucio/rucio
 
-[![Stars](https://img.shields.io/github/stars/rucio/rucio?style=flat-square&color=yellow)](https://github.com/rucio/rucio/stargazers) [![Forks](https://img.shields.io/github/forks/rucio/rucio?style=flat-square&color=blue)](https://github.com/rucio/rucio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rucio/rucio?style=flat-square&color=yellow)](https://github.com/rucio/rucio/stargazers) [![Forks](https://img.shields.io/github/forks/rucio/rucio?style=flat-square&color=blue)](https://github.com/rucio/rucio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Rucio - Scientific Data Management
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 298 |
 | 🍴 **Forks** | 383 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

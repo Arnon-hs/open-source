@@ -1,6 +1,6 @@
 # NSIS-Dev/nsis
 
-[![Stars](https://img.shields.io/github/stars/NSIS-Dev/nsis?style=flat-square&color=yellow)](https://github.com/NSIS-Dev/nsis/stargazers) [![Forks](https://img.shields.io/github/forks/NSIS-Dev/nsis?style=flat-square&color=blue)](https://github.com/NSIS-Dev/nsis/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NSIS-Dev/nsis?style=flat-square&color=yellow)](https://github.com/NSIS-Dev/nsis/stargazers) [![Forks](https://img.shields.io/github/forks/NSIS-Dev/nsis?style=flat-square&color=blue)](https://github.com/NSIS-Dev/nsis/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ***This is just a mirror of https://sf.net/projects/nsis -- please report issues there*** NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 817 |
 | 🍴 **Forks** | 176 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # deepset-ai/haystack-integrations
 
-[![Stars](https://img.shields.io/github/stars/deepset-ai/haystack-integrations?style=flat-square&color=yellow)](https://github.com/deepset-ai/haystack-integrations/stargazers) [![Forks](https://img.shields.io/github/forks/deepset-ai/haystack-integrations?style=flat-square&color=blue)](https://github.com/deepset-ai/haystack-integrations/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepset-ai/haystack-integrations?style=flat-square&color=yellow)](https://github.com/deepset-ai/haystack-integrations/stargazers) [![Forks](https://img.shields.io/github/forks/deepset-ai/haystack-integrations?style=flat-square&color=blue)](https://github.com/deepset-ai/haystack-integrations/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 A list of Haystack Integrations, maintained by the community or deepset.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 108 |
-| 🍴 **Forks** | 143 |
+| 🍴 **Forks** | 144 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

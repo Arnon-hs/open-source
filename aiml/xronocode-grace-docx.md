@@ -1,6 +1,6 @@
 # xronocode/grace-docx
 
-[![Stars](https://img.shields.io/github/stars/xronocode/grace-docx?style=flat-square&color=yellow)](https://github.com/xronocode/grace-docx/stargazers) [![Forks](https://img.shields.io/github/forks/xronocode/grace-docx?style=flat-square&color=blue)](https://github.com/xronocode/grace-docx/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xronocode/grace-docx?style=flat-square&color=yellow)](https://github.com/xronocode/grace-docx/stargazers) [![Forks](https://img.shields.io/github/forks/xronocode/grace-docx?style=flat-square&color=blue)](https://github.com/xronocode/grace-docx/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Make your .docx self-describing for AI agents. One prompt bootstraps the document — the agent maps it, contracts it, navigates it.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # haveno-dex/haveno
 
-[![Stars](https://img.shields.io/github/stars/haveno-dex/haveno?style=flat-square&color=yellow)](https://github.com/haveno-dex/haveno/stargazers) [![Forks](https://img.shields.io/github/forks/haveno-dex/haveno?style=flat-square&color=blue)](https://github.com/haveno-dex/haveno/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haveno-dex/haveno?style=flat-square&color=yellow)](https://github.com/haveno-dex/haveno/stargazers) [![Forks](https://img.shields.io/github/forks/haveno-dex/haveno?style=flat-square&color=blue)](https://github.com/haveno-dex/haveno/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Decentralized P2P exchange platform built on Monero and Tor
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

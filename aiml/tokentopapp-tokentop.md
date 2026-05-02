@@ -1,6 +1,6 @@
 # tokentopapp/tokentop
 
-[![Stars](https://img.shields.io/github/stars/tokentopapp/tokentop?style=flat-square&color=yellow)](https://github.com/tokentopapp/tokentop/stargazers) [![Forks](https://img.shields.io/github/forks/tokentopapp/tokentop?style=flat-square&color=blue)](https://github.com/tokentopapp/tokentop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tokentopapp/tokentop?style=flat-square&color=yellow)](https://github.com/tokentopapp/tokentop/stargazers) [![Forks](https://img.shields.io/github/forks/tokentopapp/tokentop?style=flat-square&color=blue)](https://github.com/tokentopapp/tokentop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > htop for your AI costs — real-time terminal monitoring of LLM token usage and spending across providers and coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # miantiao-me/bm.md
 
-[![Stars](https://img.shields.io/github/stars/miantiao-me/bm.md?style=flat-square&color=yellow)](https://github.com/miantiao-me/bm.md/stargazers) [![Forks](https://img.shields.io/github/forks/miantiao-me/bm.md?style=flat-square&color=blue)](https://github.com/miantiao-me/bm.md/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miantiao-me/bm.md?style=flat-square&color=yellow)](https://github.com/miantiao-me/bm.md/stargazers) [![Forks](https://img.shields.io/github/forks/miantiao-me/bm.md?style=flat-square&color=blue)](https://github.com/miantiao-me/bm.md/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 571 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

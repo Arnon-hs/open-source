@@ -1,6 +1,6 @@
 # sshaaf/keycloak-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/sshaaf/keycloak-mcp-server?style=flat-square&color=yellow)](https://github.com/sshaaf/keycloak-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/sshaaf/keycloak-mcp-server?style=flat-square&color=blue)](https://github.com/sshaaf/keycloak-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sshaaf/keycloak-mcp-server?style=flat-square&color=yellow)](https://github.com/sshaaf/keycloak-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/sshaaf/keycloak-mcp-server?style=flat-square&color=blue)](https://github.com/sshaaf/keycloak-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server for Keycloak,  designed to work with Keycloak for identity and access management, covering, Users, Realms, Clients, Roles, Groups, IDPs, Authentication. Searching keycloak discourse, Native builds available.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

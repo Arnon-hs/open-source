@@ -1,6 +1,6 @@
 # elastic/rally
 
-[![Stars](https://img.shields.io/github/stars/elastic/rally?style=flat-square&color=yellow)](https://github.com/elastic/rally/stargazers) [![Forks](https://img.shields.io/github/forks/elastic/rally?style=flat-square&color=blue)](https://github.com/elastic/rally/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elastic/rally?style=flat-square&color=yellow)](https://github.com/elastic/rally/stargazers) [![Forks](https://img.shields.io/github/forks/elastic/rally?style=flat-square&color=blue)](https://github.com/elastic/rally/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Macrobenchmarking framework for Elasticsearch
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 334 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

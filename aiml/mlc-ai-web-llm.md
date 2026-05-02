@@ -1,17 +1,17 @@
 # mlc-ai/web-llm
 
-[![Stars](https://img.shields.io/github/stars/mlc-ai/web-llm?style=flat-square&color=yellow)](https://github.com/mlc-ai/web-llm/stargazers) [![Forks](https://img.shields.io/github/forks/mlc-ai/web-llm?style=flat-square&color=blue)](https://github.com/mlc-ai/web-llm/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mlc-ai/web-llm?style=flat-square&color=yellow)](https://github.com/mlc-ai/web-llm/stargazers) [![Forks](https://img.shields.io/github/forks/mlc-ai/web-llm?style=flat-square&color=blue)](https://github.com/mlc-ai/web-llm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> High-performance In-browser LLM Inference Engine
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 17.9k |
+| 🍴 **Forks** | 1.2k |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 95/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

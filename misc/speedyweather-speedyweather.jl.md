@@ -1,6 +1,6 @@
 # SpeedyWeather/SpeedyWeather.jl
 
-[![Stars](https://img.shields.io/github/stars/SpeedyWeather/SpeedyWeather.jl?style=flat-square&color=yellow)](https://github.com/SpeedyWeather/SpeedyWeather.jl/stargazers) [![Forks](https://img.shields.io/github/forks/SpeedyWeather/SpeedyWeather.jl?style=flat-square&color=blue)](https://github.com/SpeedyWeather/SpeedyWeather.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SpeedyWeather/SpeedyWeather.jl?style=flat-square&color=yellow)](https://github.com/SpeedyWeather/SpeedyWeather.jl/stargazers) [![Forks](https://img.shields.io/github/forks/SpeedyWeather/SpeedyWeather.jl?style=flat-square&color=blue)](https://github.com/SpeedyWeather/SpeedyWeather.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Play atmospheric modelling like it's LEGO.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 549 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

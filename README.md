@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14569** |
+| 🗂️ **Total projects** | **14621** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5477 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2948 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1421 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1085 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 893 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 866 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 512 | [Browse →](./crypto/) |
-| 📊 **Data** | 331 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 315 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 5493 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2966 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1425 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1088 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 896 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 869 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 513 | [Browse →](./crypto/) |
+| 📊 **Data** | 332 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 317 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 194 | [Browse →](./mobile/) |
 | 💳 **Payments** | 156 | [Browse →](./payments/) |
-| 📈 **Trading** | 148 | [Browse →](./trading/) |
+| 📈 **Trading** | 149 | [Browse →](./trading/) |
 | 🔐 **Security** | 120 | [Browse →](./security/) |
 | ✨ **Design** | 46 | [Browse →](./design/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Yin-Hongwei/music-website](./frontend/yin-hongwei-music-website.md) | ⭐ 6.7k | Frontend |
-| 2 | [JackChen-me/open-multi-agent](./orchestration/jackchen-me-open-multi-agent.md) | ⭐ 6k | Orchestration |
-| 3 | [grpc/grpc-go](./backend/grpc-grpc-go.md) | ⭐ 22.9k | Backend |
-| 4 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.1k | AI/ML |
-| 5 | [apache/dolphinscheduler](./orchestration/apache-dolphinscheduler.md) | ⭐ 14.3k | Orchestration |
-| 6 | [kubernetes/kube-state-metrics](./aiml/kubernetes-kube-state-metrics.md) | ⭐ 6.1k | AI/ML |
-| 7 | [remoteintech/remote-jobs](./aiml/remoteintech-remote-jobs.md) | ⭐ 40.3k | AI/ML |
-| 8 | [krayin/laravel-crm](./frontend/krayin-laravel-crm.md) | ⭐ 22.4k | Frontend |
-| 9 | [hellodigua/ChatLab](./aiml/hellodigua-chatlab.md) | ⭐ 6.2k | AI/ML |
-| 10 | [meilisearch/meilisearch](./aiml/meilisearch-meilisearch.md) | ⭐ 57.4k | AI/ML |
+| 1 | [datawhalechina/all-in-rag](./orchestration/datawhalechina-all-in-rag.md) | ⭐ 6.9k | Orchestration |
+| 2 | [filamentphp/filament](./aiml/filamentphp-filament.md) | ⭐ 30.5k | AI/ML |
+| 3 | [apache/dolphinscheduler](./orchestration/apache-dolphinscheduler.md) | ⭐ 14.3k | Orchestration |
+| 4 | [remoteintech/remote-jobs](./aiml/remoteintech-remote-jobs.md) | ⭐ 40.3k | AI/ML |
+| 5 | [hellodigua/ChatLab](./aiml/hellodigua-chatlab.md) | ⭐ 6.2k | AI/ML |
+| 6 | [meilisearch/meilisearch](./aiml/meilisearch-meilisearch.md) | ⭐ 57.4k | AI/ML |
+| 7 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 8 | [mlflow/mlflow](./orchestration/mlflow-mlflow.md) | ⭐ 25.7k | Orchestration |
+| 9 | [immich-app/immich](./mobile/immich-app-immich.md) | ⭐ 99.5k | Mobile |
+| 10 | [rapidsai/cudf](./aiml/rapidsai-cudf.md) | ⭐ 9.6k | AI/ML |
 
 ## 🚀 How it works
 

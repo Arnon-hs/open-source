@@ -1,6 +1,6 @@
 # Stewart86/hamr
 
-[![Stars](https://img.shields.io/github/stars/Stewart86/hamr?style=flat-square&color=yellow)](https://github.com/Stewart86/hamr/stargazers) [![Forks](https://img.shields.io/github/forks/Stewart86/hamr?style=flat-square&color=blue)](https://github.com/Stewart86/hamr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Stewart86/hamr?style=flat-square&color=yellow)](https://github.com/Stewart86/hamr/stargazers) [![Forks](https://img.shields.io/github/forks/Stewart86/hamr?style=flat-square&color=blue)](https://github.com/Stewart86/hamr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Hamr is an extensible launcher for Wayland built with rust and gtk layer shell. Extend it with plugins that can be written in any languages.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

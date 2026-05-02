@@ -1,17 +1,17 @@
 # lukeed/clsx
 
-[![Stars](https://img.shields.io/github/stars/lukeed/clsx?style=flat-square&color=yellow)](https://github.com/lukeed/clsx/stargazers) [![Forks](https://img.shields.io/github/forks/lukeed/clsx?style=flat-square&color=blue)](https://github.com/lukeed/clsx/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lukeed/clsx?style=flat-square&color=yellow)](https://github.com/lukeed/clsx/stargazers) [![Forks](https://img.shields.io/github/forks/lukeed/clsx?style=flat-square&color=blue)](https://github.com/lukeed/clsx/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> A tiny (239B) utility for constructing `className` strings conditionally.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 9.7k |
+| 🍴 **Forks** | 176 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

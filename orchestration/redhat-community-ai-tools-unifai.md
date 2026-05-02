@@ -1,6 +1,6 @@
 # redhat-community-ai-tools/UnifAI
 
-[![Stars](https://img.shields.io/github/stars/redhat-community-ai-tools/UnifAI?style=flat-square&color=yellow)](https://github.com/redhat-community-ai-tools/UnifAI/stargazers) [![Forks](https://img.shields.io/github/forks/redhat-community-ai-tools/UnifAI?style=flat-square&color=blue)](https://github.com/redhat-community-ai-tools/UnifAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redhat-community-ai-tools/UnifAI?style=flat-square&color=yellow)](https://github.com/redhat-community-ai-tools/UnifAI/stargazers) [![Forks](https://img.shields.io/github/forks/redhat-community-ai-tools/UnifAI?style=flat-square&color=blue)](https://github.com/redhat-community-ai-tools/UnifAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade multi-agent orchestration engine. Compose agentic workflows from a pluggable catalog of Agents, LLMs, tools, and retrievers. Execute locally with LangGraph or distributed with Temporal. Built-in RAG pipeline for enterprise knowledge retrieval. A2A and MCP protocol support. Visual drag-and-drop blueprint builder.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

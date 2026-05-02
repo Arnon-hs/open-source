@@ -1,6 +1,6 @@
 # officecli/officecli-skills
 
-[![Stars](https://img.shields.io/github/stars/officecli/officecli-skills?style=flat-square&color=yellow)](https://github.com/officecli/officecli-skills/stargazers) [![Forks](https://img.shields.io/github/forks/officecli/officecli-skills?style=flat-square&color=blue)](https://github.com/officecli/officecli-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/officecli/officecli-skills?style=flat-square&color=yellow)](https://github.com/officecli/officecli-skills/stargazers) [![Forks](https://img.shields.io/github/forks/officecli/officecli-skills?style=flat-square&color=blue)](https://github.com/officecli/officecli-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent skills for Claude Code and Codex to create PPTX, DOCX, XLSX, and report workflows with OfficeCLI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31 |
+| ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

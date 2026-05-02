@@ -1,6 +1,6 @@
 # jmcerrejon/PiKISS
 
-[![Stars](https://img.shields.io/github/stars/jmcerrejon/PiKISS?style=flat-square&color=yellow)](https://github.com/jmcerrejon/PiKISS/stargazers) [![Forks](https://img.shields.io/github/forks/jmcerrejon/PiKISS?style=flat-square&color=blue)](https://github.com/jmcerrejon/PiKISS/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jmcerrejon/PiKISS?style=flat-square&color=yellow)](https://github.com/jmcerrejon/PiKISS/stargazers) [![Forks](https://img.shields.io/github/forks/jmcerrejon/PiKISS?style=flat-square&color=blue)](https://github.com/jmcerrejon/PiKISS/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > PiKISS for Raspberry Pi: A bunch of scripts with menu to make your life easier.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 998 |
+| ⭐ **Stars** | 997 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

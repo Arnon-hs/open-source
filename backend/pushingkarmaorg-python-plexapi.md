@@ -1,6 +1,6 @@
 # pushingkarmaorg/python-plexapi
 
-[![Stars](https://img.shields.io/github/stars/pushingkarmaorg/python-plexapi?style=flat-square&color=yellow)](https://github.com/pushingkarmaorg/python-plexapi/stargazers) [![Forks](https://img.shields.io/github/forks/pushingkarmaorg/python-plexapi?style=flat-square&color=blue)](https://github.com/pushingkarmaorg/python-plexapi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pushingkarmaorg/python-plexapi?style=flat-square&color=yellow)](https://github.com/pushingkarmaorg/python-plexapi/stargazers) [![Forks](https://img.shields.io/github/forks/pushingkarmaorg/python-plexapi?style=flat-square&color=blue)](https://github.com/pushingkarmaorg/python-plexapi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Python bindings for the Plex API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 197 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

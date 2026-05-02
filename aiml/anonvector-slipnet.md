@@ -1,6 +1,6 @@
 # anonvector/SlipNet
 
-[![Stars](https://img.shields.io/github/stars/anonvector/SlipNet?style=flat-square&color=yellow)](https://github.com/anonvector/SlipNet/stargazers) [![Forks](https://img.shields.io/github/forks/anonvector/SlipNet?style=flat-square&color=blue)](https://github.com/anonvector/SlipNet/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anonvector/SlipNet?style=flat-square&color=yellow)](https://github.com/anonvector/SlipNet/stargazers) [![Forks](https://img.shields.io/github/forks/anonvector/SlipNet?style=flat-square&color=blue)](https://github.com/anonvector/SlipNet/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Android VPN client with DNS tunneling (DNSTT, NoizDNS & Slipstream), NaiveProxy, SSH, Tor, and DoH support — featuring a built-in DNS scanner.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 882 |
+| ⭐ **Stars** | 885 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
