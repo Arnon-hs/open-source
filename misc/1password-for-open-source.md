@@ -1,6 +1,6 @@
 # 1Password/for-open-source
 
-[![Stars](https://img.shields.io/github/stars/1Password/for-open-source?style=flat-square&color=yellow)](https://github.com/1Password/for-open-source/stargazers) [![Forks](https://img.shields.io/github/forks/1Password/for-open-source?style=flat-square&color=blue)](https://github.com/1Password/for-open-source/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1Password/for-open-source?style=flat-square&color=yellow)](https://github.com/1Password/for-open-source/stargazers) [![Forks](https://img.shields.io/github/forks/1Password/for-open-source?style=flat-square&color=blue)](https://github.com/1Password/for-open-source/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Get a 1Password team account for free to support your open source initiatives!
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 818 |
+| 🍴 **Forks** | 817 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

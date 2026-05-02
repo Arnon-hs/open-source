@@ -1,6 +1,6 @@
 # yanyiwu/nodejieba
 
-[![Stars](https://img.shields.io/github/stars/yanyiwu/nodejieba?style=flat-square&color=yellow)](https://github.com/yanyiwu/nodejieba/stargazers) [![Forks](https://img.shields.io/github/forks/yanyiwu/nodejieba?style=flat-square&color=blue)](https://github.com/yanyiwu/nodejieba/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yanyiwu/nodejieba?style=flat-square&color=yellow)](https://github.com/yanyiwu/nodejieba/stargazers) [![Forks](https://img.shields.io/github/forks/yanyiwu/nodejieba?style=flat-square&color=blue)](https://github.com/yanyiwu/nodejieba/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > "结巴"中文分词的Node.js版本
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

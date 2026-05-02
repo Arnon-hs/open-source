@@ -25,7 +25,9 @@ Data
 
 ## 📝 Summary
 
-SvgMap is an open-source JavaScript library enabling users to create interactive world maps that visually compare customizable data across countries. With this library, developers can easily integrate a dynamic and engaging geographic visualization into their applications or websites. By leveraging SvgMap, users can easily analyze and present complex global data in a clear and understandable manner.
+Here's a brief summary for the stephanwagner/svgMap project:
+
+svgMap is an open-source JavaScript library that enables the creation of interactive world maps. It allows users to customize data for each country, making it a powerful tool for comparative analysis and visualization. With svgMap, developers can easily integrate interactive maps into their web applications and explore various data sets in a visually engaging way.
 
 ---
 

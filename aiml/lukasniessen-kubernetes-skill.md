@@ -25,9 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a 2-3 sentence summary for the open-source project:
 
-LukasNiessen/kubernetes-skill is an open-source project aimed at improving the accuracy of Large Language Models (LLMs) in understanding Kubernetes and related technologies. This project, specifically designed for Claude Code and Codex, helps eliminate hallucinations by grounding LLMs in official best practices for Kubernetes, Helm, and other DevOps/Infra tools. By doing so, it enhances the overall reliability and correctness of LLM-generated responses.
+LukasNiessen/kubernetes-skill is an open-source project that enhances the accuracy of Large Language Models (LLMs) like Claude Code and Codex by grounding their understanding of Kubernetes and related technologies in official best practices. By eliminating hallucinations, KubeShark helps users trust the output of LLMs when working with Kubernetes, Helm, and other DevOps tools. This project aims to improve the reliability and efficiency of LLM-assisted Kubernetes development and operations.
 
 ---
 

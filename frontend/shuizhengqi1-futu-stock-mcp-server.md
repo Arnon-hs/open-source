@@ -27,7 +27,7 @@ Frontend · Backend
 
 Here's a brief summary for the project:
 
-The Futu Stock MCP Server is an open-source project that provides a server infrastructure for Futuniuniu stock services. It enables users to interact with stock data and APIs, making it a valuable resource for developers and investors. This project is built with a modular and scalable design, making it easy to integrate with other applications and services.
+This repository hosts an open-source MCP (Market Data Server) server for Futuniuniu stock, a platform for financial data. The Futu Stock MCP Server is designed to provide a backend infrastructure for retrieving and managing stock market data. It is built as a community-driven project, aiming to facilitate the development of stock market-related applications.
 
 ---
 

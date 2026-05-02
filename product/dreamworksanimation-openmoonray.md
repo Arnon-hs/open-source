@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.6k |
-| 🍴 **Forks** | 294 |
+| 🍴 **Forks** | 295 |
 | 💻 **Language** | CMake |
 | 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |

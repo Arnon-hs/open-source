@@ -1,6 +1,6 @@
 # gyunggyung/AGI-Papers
 
-[![Stars](https://img.shields.io/github/stars/gyunggyung/AGI-Papers?style=flat-square&color=yellow)](https://github.com/gyunggyung/AGI-Papers/stargazers) [![Forks](https://img.shields.io/github/forks/gyunggyung/AGI-Papers?style=flat-square&color=blue)](https://github.com/gyunggyung/AGI-Papers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gyunggyung/AGI-Papers?style=flat-square&color=yellow)](https://github.com/gyunggyung/AGI-Papers/stargazers) [![Forks](https://img.shields.io/github/forks/gyunggyung/AGI-Papers?style=flat-square&color=blue)](https://github.com/gyunggyung/AGI-Papers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A curated archive of breakthroughs in Agents, Architecture, Training, RAG, and On-Device AI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

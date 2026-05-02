@@ -25,7 +25,7 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Droast is an open-source Dockerfile linter that helps developers identify and improve their containerization best practices. This tool "roasts" users for common mistakes and suboptimal techniques in their Dockerfiles, promoting more efficient and secure containerization. By using Droast, developers can ensure their Dockerfiles are well-structured and follow industry standards.
+Droast is a Dockerfile linter that checks for common best practices and warns users about potential security issues, bad coding habits, and inefficient configurations. This open-source tool helps developers improve the quality and maintainability of their Dockerfiles by identifying and addressing potential problems early on. By using Droast, users can ensure their Docker images are optimized and secure.
 
 ---
 

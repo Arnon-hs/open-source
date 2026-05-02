@@ -1,6 +1,6 @@
 # meilisearch/strapi-plugin-meilisearch
 
-[![Stars](https://img.shields.io/github/stars/meilisearch/strapi-plugin-meilisearch?style=flat-square&color=yellow)](https://github.com/meilisearch/strapi-plugin-meilisearch/stargazers) [![Forks](https://img.shields.io/github/forks/meilisearch/strapi-plugin-meilisearch?style=flat-square&color=blue)](https://github.com/meilisearch/strapi-plugin-meilisearch/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meilisearch/strapi-plugin-meilisearch?style=flat-square&color=yellow)](https://github.com/meilisearch/strapi-plugin-meilisearch/stargazers) [![Forks](https://img.shields.io/github/forks/meilisearch/strapi-plugin-meilisearch?style=flat-square&color=blue)](https://github.com/meilisearch/strapi-plugin-meilisearch/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A strapi plugin to add your collections to Meilisearch
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 242 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

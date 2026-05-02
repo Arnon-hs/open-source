@@ -1,6 +1,6 @@
 # SagerNet/sing
 
-[![Stars](https://img.shields.io/github/stars/SagerNet/sing?style=flat-square&color=yellow)](https://github.com/SagerNet/sing/stargazers) [![Forks](https://img.shields.io/github/forks/SagerNet/sing?style=flat-square&color=blue)](https://github.com/SagerNet/sing/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SagerNet/sing?style=flat-square&color=yellow)](https://github.com/SagerNet/sing/stargazers) [![Forks](https://img.shields.io/github/forks/SagerNet/sing?style=flat-square&color=blue)](https://github.com/SagerNet/sing/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Do you hear the people sing?
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 122 |
+| ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

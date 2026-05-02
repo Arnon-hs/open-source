@@ -1,6 +1,6 @@
 # Heyflyingpig/CausalAgent
 
-[![Stars](https://img.shields.io/github/stars/Heyflyingpig/CausalAgent?style=flat-square&color=yellow)](https://github.com/Heyflyingpig/CausalAgent/stargazers) [![Forks](https://img.shields.io/github/forks/Heyflyingpig/CausalAgent?style=flat-square&color=blue)](https://github.com/Heyflyingpig/CausalAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Heyflyingpig/CausalAgent?style=flat-square&color=yellow)](https://github.com/Heyflyingpig/CausalAgent/stargazers) [![Forks](https://img.shields.io/github/forks/Heyflyingpig/CausalAgent?style=flat-square&color=blue)](https://github.com/Heyflyingpig/CausalAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 这是一个由LangGraph协议主导的因果分析Muti-Agent，结合MCP,RAG等多种工具进行辅助进行因果分析，提供给用户一份完善的因果分析的分析报告和因果图
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

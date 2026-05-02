@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 

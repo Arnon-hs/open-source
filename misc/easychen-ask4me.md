@@ -1,6 +1,6 @@
 # easychen/ask4me
 
-[![Stars](https://img.shields.io/github/stars/easychen/ask4me?style=flat-square&color=yellow)](https://github.com/easychen/ask4me/stargazers) [![Forks](https://img.shields.io/github/forks/easychen/ask4me?style=flat-square&color=blue)](https://github.com/easychen/ask4me/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/easychen/ask4me?style=flat-square&color=yellow)](https://github.com/easychen/ask4me/stargazers) [![Forks](https://img.shields.io/github/forks/easychen/ask4me?style=flat-square&color=blue)](https://github.com/easychen/ask4me/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Single request, complete the human-in-the-loop | 极简Human-in-the-Loop 方案：一个同步请求搞定一切
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # stellar/rs-soroban-sdk
 
-[![Stars](https://img.shields.io/github/stars/stellar/rs-soroban-sdk?style=flat-square&color=yellow)](https://github.com/stellar/rs-soroban-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/stellar/rs-soroban-sdk?style=flat-square&color=blue)](https://github.com/stellar/rs-soroban-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stellar/rs-soroban-sdk?style=flat-square&color=yellow)](https://github.com/stellar/rs-soroban-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/stellar/rs-soroban-sdk?style=flat-square&color=blue)](https://github.com/stellar/rs-soroban-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Rust SDK for Soroban contracts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 185 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

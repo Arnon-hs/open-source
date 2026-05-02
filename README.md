@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14447** |
+| 🗂️ **Total projects** | **14499** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,16 +18,16 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5431 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2924 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1411 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1076 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 881 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 863 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 506 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 5449 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2933 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1414 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1081 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 888 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 866 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 508 | [Browse →](./crypto/) |
 | 📊 **Data** | 331 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 313 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 186 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 314 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 190 | [Browse →](./mobile/) |
 | 💳 **Payments** | 156 | [Browse →](./payments/) |
 | 📈 **Trading** | 147 | [Browse →](./trading/) |
 | 🔐 **Security** | 120 | [Browse →](./security/) |
@@ -42,13 +42,13 @@
 | 1 | [Yin-Hongwei/music-website](./frontend/yin-hongwei-music-website.md) | ⭐ 6.7k | Frontend |
 | 2 | [grpc/grpc-go](./backend/grpc-grpc-go.md) | ⭐ 22.9k | Backend |
 | 3 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.1k | AI/ML |
-| 4 | [kubernetes/kube-state-metrics](./aiml/kubernetes-kube-state-metrics.md) | ⭐ 6.1k | AI/ML |
-| 5 | [krayin/laravel-crm](./frontend/krayin-laravel-crm.md) | ⭐ 22.4k | Frontend |
-| 6 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 7 | [yamadashy/repomix](./aiml/yamadashy-repomix.md) | ⭐ 24.2k | AI/ML |
-| 8 | [microsoft/ai-agents-for-beginners](./orchestration/microsoft-ai-agents-for-beginners.md) | ⭐ 60.3k | Orchestration |
-| 9 | [ether/etherpad](./misc/ether-etherpad.md) | ⭐ 18.3k | Misc |
-| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 4 | [apache/dolphinscheduler](./orchestration/apache-dolphinscheduler.md) | ⭐ 14.3k | Orchestration |
+| 5 | [kubernetes/kube-state-metrics](./aiml/kubernetes-kube-state-metrics.md) | ⭐ 6.1k | AI/ML |
+| 6 | [remoteintech/remote-jobs](./aiml/remoteintech-remote-jobs.md) | ⭐ 40.3k | AI/ML |
+| 7 | [krayin/laravel-crm](./frontend/krayin-laravel-crm.md) | ⭐ 22.4k | Frontend |
+| 8 | [meilisearch/meilisearch](./aiml/meilisearch-meilisearch.md) | ⭐ 57.4k | AI/ML |
+| 9 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 10 | [enricoros/big-AGI](./aiml/enricoros-big-agi.md) | ⭐ 6.9k | AI/ML |
 
 ## 🚀 How it works
 

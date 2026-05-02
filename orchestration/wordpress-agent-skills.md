@@ -1,6 +1,6 @@
 # WordPress/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/WordPress/agent-skills?style=flat-square&color=yellow)](https://github.com/WordPress/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/WordPress/agent-skills?style=flat-square&color=blue)](https://github.com/WordPress/agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WordPress/agent-skills?style=flat-square&color=yellow)](https://github.com/WordPress/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/WordPress/agent-skills?style=flat-square&color=blue)](https://github.com/WordPress/agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 191 |
+| 🍴 **Forks** | 192 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

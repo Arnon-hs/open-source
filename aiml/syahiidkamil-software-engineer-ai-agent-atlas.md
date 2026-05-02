@@ -1,6 +1,6 @@
 # syahiidkamil/Software-Engineer-AI-Agent-Atlas
 
-[![Stars](https://img.shields.io/github/stars/syahiidkamil/Software-Engineer-AI-Agent-Atlas?style=flat-square&color=yellow)](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas/stargazers) [![Forks](https://img.shields.io/github/forks/syahiidkamil/Software-Engineer-AI-Agent-Atlas?style=flat-square&color=blue)](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/syahiidkamil/Software-Engineer-AI-Agent-Atlas?style=flat-square&color=yellow)](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas/stargazers) [![Forks](https://img.shields.io/github/forks/syahiidkamil/Software-Engineer-AI-Agent-Atlas?style=flat-square&color=blue)](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > ATLAS: Software Engineer AI Agent. Living memory persists. Learning compounds.   Every commit evolves it. Professional focus. KISS/YAGNI/DRY and Depend on Context. No overengineering. Clean code and Clean Architecture that works.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 293 |
+| ⭐ **Stars** | 292 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

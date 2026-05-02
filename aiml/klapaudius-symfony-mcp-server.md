@@ -1,6 +1,6 @@
 # klapaudius/symfony-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/klapaudius/symfony-mcp-server?style=flat-square&color=yellow)](https://github.com/klapaudius/symfony-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/klapaudius/symfony-mcp-server?style=flat-square&color=blue)](https://github.com/klapaudius/symfony-mcp-server/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/klapaudius/symfony-mcp-server?style=flat-square&color=yellow)](https://github.com/klapaudius/symfony-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/klapaudius/symfony-mcp-server?style=flat-square&color=blue)](https://github.com/klapaudius/symfony-mcp-server/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A Symfony package designed for building secure servers based on the Model Context Protocol, utilizing Server-Sent Events (SSE) and/or StreamableHTTP for real-time communication. It offers a scalable tool system tailored for enterprise-grade applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

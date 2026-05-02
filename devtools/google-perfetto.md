@@ -1,6 +1,6 @@
 # google/perfetto
 
-[![Stars](https://img.shields.io/github/stars/google/perfetto?style=flat-square&color=yellow)](https://github.com/google/perfetto/stargazers) [![Forks](https://img.shields.io/github/forks/google/perfetto?style=flat-square&color=blue)](https://github.com/google/perfetto/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/perfetto?style=flat-square&color=yellow)](https://github.com/google/perfetto/stargazers) [![Forks](https://img.shields.io/github/forks/google/perfetto?style=flat-square&color=blue)](https://github.com/google/perfetto/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade client-side tracing, profiling, and analysis for complex software systems.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.9k |
-| 🍴 **Forks** | 766 |
+| 🍴 **Forks** | 767 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

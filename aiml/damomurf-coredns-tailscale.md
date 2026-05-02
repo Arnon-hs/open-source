@@ -1,6 +1,6 @@
 # damomurf/coredns-tailscale
 
-[![Stars](https://img.shields.io/github/stars/damomurf/coredns-tailscale?style=flat-square&color=yellow)](https://github.com/damomurf/coredns-tailscale/stargazers) [![Forks](https://img.shields.io/github/forks/damomurf/coredns-tailscale?style=flat-square&color=blue)](https://github.com/damomurf/coredns-tailscale/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/damomurf/coredns-tailscale?style=flat-square&color=yellow)](https://github.com/damomurf/coredns-tailscale/stargazers) [![Forks](https://img.shields.io/github/forks/damomurf/coredns-tailscale?style=flat-square&color=blue)](https://github.com/damomurf/coredns-tailscale/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A Tailscale lookup plugin for CoreDNS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

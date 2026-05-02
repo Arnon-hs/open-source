@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The pylipp/financeager project is an open-source command-line tool designed to simplify financial organization. It enables users to manage their finances effortlessly, making it an ideal solution for those who prefer a text-based interface or require automation for financial tasks. With financeager, users can track expenses, monitor budgets, and stay on top of their financial well-being from the comfort of their terminal.
+The pylipp/financeager project is an open-source command-line finance organizer that simplifies personal finance management. With financeager, users can easily track expenses, income, and budgets from the comfort of their terminal, making financial organization more accessible and convenient. This tool aims to streamline financial tasks, promoting transparency and control over one's financial situation.
 
 ---
 

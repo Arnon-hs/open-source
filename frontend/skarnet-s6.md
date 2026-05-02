@@ -1,6 +1,6 @@
 # skarnet/s6
 
-[![Stars](https://img.shields.io/github/stars/skarnet/s6?style=flat-square&color=yellow)](https://github.com/skarnet/s6/stargazers) [![Forks](https://img.shields.io/github/forks/skarnet/s6?style=flat-square&color=blue)](https://github.com/skarnet/s6/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skarnet/s6?style=flat-square&color=yellow)](https://github.com/skarnet/s6/stargazers) [![Forks](https://img.shields.io/github/forks/skarnet/s6?style=flat-square&color=blue)](https://github.com/skarnet/s6/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The s6 supervision suite.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 922 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

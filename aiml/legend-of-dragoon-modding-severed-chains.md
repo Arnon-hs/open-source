@@ -1,6 +1,6 @@
 # Legend-of-Dragoon-Modding/Severed-Chains
 
-[![Stars](https://img.shields.io/github/stars/Legend-of-Dragoon-Modding/Severed-Chains?style=flat-square&color=yellow)](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains/stargazers) [![Forks](https://img.shields.io/github/forks/Legend-of-Dragoon-Modding/Severed-Chains?style=flat-square&color=blue)](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Legend-of-Dragoon-Modding/Severed-Chains?style=flat-square&color=yellow)](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains/stargazers) [![Forks](https://img.shields.io/github/forks/Legend-of-Dragoon-Modding/Severed-Chains?style=flat-square&color=blue)](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Legend of Dragoon decompiled, reverse engineered, and ported to PC/Mac/Linux/Steam Deck
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 444 |
+| ⭐ **Stars** | 445 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # repowise-dev/repowise
 
-[![Stars](https://img.shields.io/github/stars/repowise-dev/repowise?style=flat-square&color=yellow)](https://github.com/repowise-dev/repowise/stargazers) [![Forks](https://img.shields.io/github/forks/repowise-dev/repowise?style=flat-square&color=blue)](https://github.com/repowise-dev/repowise/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/repowise-dev/repowise?style=flat-square&color=yellow)](https://github.com/repowise-dev/repowise/stargazers) [![Forks](https://img.shields.io/github/forks/repowise-dev/repowise?style=flat-square&color=blue)](https://github.com/repowise-dev/repowise/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Codebase intelligence for AI-assisted engineering teams — auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

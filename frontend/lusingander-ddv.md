@@ -1,6 +1,6 @@
 # lusingander/ddv
 
-[![Stars](https://img.shields.io/github/stars/lusingander/ddv?style=flat-square&color=yellow)](https://github.com/lusingander/ddv/stargazers) [![Forks](https://img.shields.io/github/forks/lusingander/ddv?style=flat-square&color=blue)](https://github.com/lusingander/ddv/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lusingander/ddv?style=flat-square&color=yellow)](https://github.com/lusingander/ddv/stargazers) [![Forks](https://img.shields.io/github/forks/lusingander/ddv?style=flat-square&color=blue)](https://github.com/lusingander/ddv/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal DynamoDB Viewer ⚡️
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 96 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

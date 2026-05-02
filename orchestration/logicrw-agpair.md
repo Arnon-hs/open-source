@@ -1,6 +1,6 @@
 # logicrw/agpair
 
-[![Stars](https://img.shields.io/github/stars/logicrw/agpair?style=flat-square&color=yellow)](https://github.com/logicrw/agpair/stargazers) [![Forks](https://img.shields.io/github/forks/logicrw/agpair?style=flat-square&color=blue)](https://github.com/logicrw/agpair/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/logicrw/agpair?style=flat-square&color=yellow)](https://github.com/logicrw/agpair/stargazers) [![Forks](https://img.shields.io/github/forks/logicrw/agpair?style=flat-square&color=blue)](https://github.com/logicrw/agpair/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code-first durable orchestration for AI coding workflows — dispatch to Antigravity, Codex CLI, and Gemini CLI with structured receipts, recovery, and long-running task control. 面向 Claude Code 的持久化 AI 编程任务控制层。
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 40 |
+| ⭐ **Stars** | 41 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

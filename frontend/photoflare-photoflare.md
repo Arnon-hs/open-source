@@ -1,6 +1,6 @@
 # PhotoFlare/photoflare
 
-[![Stars](https://img.shields.io/github/stars/PhotoFlare/photoflare?style=flat-square&color=yellow)](https://github.com/PhotoFlare/photoflare/stargazers) [![Forks](https://img.shields.io/github/forks/PhotoFlare/photoflare?style=flat-square&color=blue)](https://github.com/PhotoFlare/photoflare/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PhotoFlare/photoflare?style=flat-square&color=yellow)](https://github.com/PhotoFlare/photoflare/stargazers) [![Forks](https://img.shields.io/github/forks/PhotoFlare/photoflare?style=flat-square&color=blue)](https://github.com/PhotoFlare/photoflare/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Quick, simple but powerful Cross Platform image editor.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

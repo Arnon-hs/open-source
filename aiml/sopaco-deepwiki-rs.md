@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Deepwiki-rs is an open-source project that leverages AI to generate accurate technical documentation and context from code, streamlining the process for human teams and intelligent agents. This tool enables users to turn their code into clear and structured documentation in just minutes, promoting clarity and efficiency. By automating documentation, deepwiki-rs facilitates better collaboration and knowledge sharing.
+The deepwiki-rs project is an open-source tool that uses AI to generate accurate technical documentation and context from code in just a few minutes. This perfectly structured documentation is ideal for both human teams and intelligent agents, enhancing collaboration and knowledge sharing. With deepwiki-rs, developers can turn their code into clarity, streamlining the documentation process and improving overall efficiency.
 
 ---
 

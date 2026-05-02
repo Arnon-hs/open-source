@@ -1,6 +1,6 @@
 # duriantaco/fyn
 
-[![Stars](https://img.shields.io/github/stars/duriantaco/fyn?style=flat-square&color=yellow)](https://github.com/duriantaco/fyn/stargazers) [![Forks](https://img.shields.io/github/forks/duriantaco/fyn?style=flat-square&color=blue)](https://github.com/duriantaco/fyn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/duriantaco/fyn?style=flat-square&color=yellow)](https://github.com/duriantaco/fyn/stargazers) [![Forks](https://img.shields.io/github/forks/duriantaco/fyn?style=flat-square&color=blue)](https://github.com/duriantaco/fyn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Fyn is a fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

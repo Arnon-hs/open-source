@@ -1,6 +1,6 @@
 # tmstack/awesome-persona-skills
 
-[![Stars](https://img.shields.io/github/stars/tmstack/awesome-persona-skills?style=flat-square&color=yellow)](https://github.com/tmstack/awesome-persona-skills/stargazers) [![Forks](https://img.shields.io/github/forks/tmstack/awesome-persona-skills?style=flat-square&color=blue)](https://github.com/tmstack/awesome-persona-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tmstack/awesome-persona-skills?style=flat-square&color=yellow)](https://github.com/tmstack/awesome-persona-skills/stargazers) [![Forks](https://img.shields.io/github/forks/tmstack/awesome-persona-skills?style=flat-square&color=blue)](https://github.com/tmstack/awesome-persona-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill……
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

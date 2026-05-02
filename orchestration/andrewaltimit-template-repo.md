@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The AndrewAltimit/template-repo is an open-source template repository that enables agent orchestration and security with advanced features like mechanistic interpretability, agent2agent workflows, and CLI wrappers for seamless integration. This project allows users to build and manage complex AI/ML workflows, ensuring security and transparency throughout the process. By leveraging the MCP tool and other cutting-edge technologies, users can streamline agent automation and integration.
+The AndrewAltimit/template-repo is an open-source project that provides a comprehensive template for agent orchestration and security. This template offers a range of features, including the building of MCP (Mechanistic Cognitive Processes) tools, agent2agent workflows, and mechanistic interpretability for sleeper agents. It also enables seamless integration of agents through CLI (Command-Line Interface) wrappers.
 
 ---
 

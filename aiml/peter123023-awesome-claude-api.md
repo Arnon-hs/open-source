@@ -1,6 +1,6 @@
 # peter123023/awesome-claude-api
 
-[![Stars](https://img.shields.io/github/stars/peter123023/awesome-claude-api?style=flat-square&color=yellow)](https://github.com/peter123023/awesome-claude-api/stargazers) [![Forks](https://img.shields.io/github/forks/peter123023/awesome-claude-api?style=flat-square&color=blue)](https://github.com/peter123023/awesome-claude-api/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/peter123023/awesome-claude-api?style=flat-square&color=yellow)](https://github.com/peter123023/awesome-claude-api/stargazers) [![Forks](https://img.shields.io/github/forks/peter123023/awesome-claude-api?style=flat-square&color=blue)](https://github.com/peter123023/awesome-claude-api/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 收集和整理的可靠Claude中转API资源列表，帮助开发者快速找到稳定、高性价比的Claude API服务
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 118 |
-| 🍴 **Forks** | 5 |
+| ⭐ **Stars** | 135 |
+| 🍴 **Forks** | 6 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,9 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the vladkens/macmon project:
+Here's a brief summary of the vladkens/macmon project:
 
-macmon is an open-source, real-time system monitor designed for Apple Silicon Macs (M1-M5). It provides a user-friendly text-based interface (TUI), as well as a JSON/Prometheus metrics server and a Rust library for easy integration. macmon operates without requiring sudo privileges, making it a convenient monitoring solution for macOS users.
+macmon is an open-source, real-time system monitor designed specifically for Apple Silicon Macs (M1-M5). It provides a user-friendly interface (TUI), JSON and Prometheus metrics, and a Rust library, all without requiring sudo privileges. This project serves as a valuable tool for developers and system administrators seeking to monitor and analyze their Mac's performance.
 
 ---
 

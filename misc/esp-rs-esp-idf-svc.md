@@ -1,6 +1,6 @@
 # esp-rs/esp-idf-svc
 
-[![Stars](https://img.shields.io/github/stars/esp-rs/esp-idf-svc?style=flat-square&color=yellow)](https://github.com/esp-rs/esp-idf-svc/stargazers) [![Forks](https://img.shields.io/github/forks/esp-rs/esp-idf-svc?style=flat-square&color=blue)](https://github.com/esp-rs/esp-idf-svc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/esp-rs/esp-idf-svc?style=flat-square&color=yellow)](https://github.com/esp-rs/esp-idf-svc/stargazers) [![Forks](https://img.shields.io/github/forks/esp-rs/esp-idf-svc?style=flat-square&color=blue)](https://github.com/esp-rs/esp-idf-svc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 508 |
 | 🍴 **Forks** | 238 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

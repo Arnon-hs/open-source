@@ -1,6 +1,6 @@
 # stacklok/brood-box
 
-[![Stars](https://img.shields.io/github/stars/stacklok/brood-box?style=flat-square&color=yellow)](https://github.com/stacklok/brood-box/stargazers) [![Forks](https://img.shields.io/github/forks/stacklok/brood-box?style=flat-square&color=blue)](https://github.com/stacklok/brood-box/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stacklok/brood-box?style=flat-square&color=yellow)](https://github.com/stacklok/brood-box/stargazers) [![Forks](https://img.shields.io/github/forks/stacklok/brood-box?style=flat-square&color=blue)](https://github.com/stacklok/brood-box/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool for running coding agents inside hardware-isolated microVMs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

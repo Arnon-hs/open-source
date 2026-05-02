@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-ClaudeBar is a free, open-source macOS menu bar application designed to help users monitor their AI coding assistant usage quotas. It provides a convenient, at-a-glance view of usage statistics for popular AI tools, including Claude, Codex, Antigravity, and Gemini. By keeping track of usage, users can stay organized and avoid hitting usage limits, ensuring uninterrupted productivity.
+ClaudeBar is an open-source macOS menu bar application that provides a convenient way to monitor your usage quotas for popular AI coding assistants, including Claude, Codex, Antigravity, and Gemini. With ClaudeBar, you can easily track your AI usage at a glance, helping you stay on top of your quota limits. This application is ideal for developers and professionals who rely on these AI tools for their work.
 
 ---
 

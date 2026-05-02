@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The pavex project is an open-source, backend framework designed for Rust professionals, providing a robust foundation for building scalable and efficient applications. This framework aims to simplify the development process and accelerate the creation of high-quality backend systems. By leveraging Rust's strong focus on safety and performance, pavex empowers developers to craft reliable and high-performance backend solutions.
+Pavex is an open-source backend framework designed for Rust professionals, providing a robust foundation for building scalable and efficient server-side applications. This framework aims to simplify the development process by offering a modular and extensible architecture, allowing developers to focus on writing high-quality code. With Pavex, developers can leverage the power of Rust to create fast, reliable, and secure backend services.
 
 ---
 

@@ -1,6 +1,6 @@
 # Achiefs/fim
 
-[![Stars](https://img.shields.io/github/stars/Achiefs/fim?style=flat-square&color=yellow)](https://github.com/Achiefs/fim/stargazers) [![Forks](https://img.shields.io/github/forks/Achiefs/fim?style=flat-square&color=blue)](https://github.com/Achiefs/fim/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Achiefs/fim?style=flat-square&color=yellow)](https://github.com/Achiefs/fim/stargazers) [![Forks](https://img.shields.io/github/forks/Achiefs/fim?style=flat-square&color=blue)](https://github.com/Achiefs/fim/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > FIM is an Open Source Host-based file integrity monitoring tool that performs file system analysis, file integrity checking, real time alerting and provides Audit daemon data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

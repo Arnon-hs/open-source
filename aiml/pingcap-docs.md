@@ -1,6 +1,6 @@
 # pingcap/docs
 
-[![Stars](https://img.shields.io/github/stars/pingcap/docs?style=flat-square&color=yellow)](https://github.com/pingcap/docs/stargazers) [![Forks](https://img.shields.io/github/forks/pingcap/docs?style=flat-square&color=blue)](https://github.com/pingcap/docs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pingcap/docs?style=flat-square&color=yellow)](https://github.com/pingcap/docs/stargazers) [![Forks](https://img.shields.io/github/forks/pingcap/docs?style=flat-square&color=blue)](https://github.com/pingcap/docs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > TiDB database documentation. TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at: https://www.pingcap.com/tidb-cloud-starter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 615 |
 | 🍴 **Forks** | 709 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

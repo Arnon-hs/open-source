@@ -1,6 +1,6 @@
 # ilastik/ilastik
 
-[![Stars](https://img.shields.io/github/stars/ilastik/ilastik?style=flat-square&color=yellow)](https://github.com/ilastik/ilastik/stargazers) [![Forks](https://img.shields.io/github/forks/ilastik/ilastik?style=flat-square&color=blue)](https://github.com/ilastik/ilastik/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ilastik/ilastik?style=flat-square&color=yellow)](https://github.com/ilastik/ilastik/stargazers) [![Forks](https://img.shields.io/github/forks/ilastik/ilastik?style=flat-square&color=blue)](https://github.com/ilastik/ilastik/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ilastik-shell, applets, and workflows to string them together.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 397 |
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

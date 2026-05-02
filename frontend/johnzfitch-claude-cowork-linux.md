@@ -1,6 +1,6 @@
 # johnzfitch/claude-cowork-linux
 
-[![Stars](https://img.shields.io/github/stars/johnzfitch/claude-cowork-linux?style=flat-square&color=yellow)](https://github.com/johnzfitch/claude-cowork-linux/stargazers) [![Forks](https://img.shields.io/github/forks/johnzfitch/claude-cowork-linux?style=flat-square&color=blue)](https://github.com/johnzfitch/claude-cowork-linux/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/johnzfitch/claude-cowork-linux?style=flat-square&color=yellow)](https://github.com/johnzfitch/claude-cowork-linux/stargazers) [![Forks](https://img.shields.io/github/forks/johnzfitch/claude-cowork-linux?style=flat-square&color=blue)](https://github.com/johnzfitch/claude-cowork-linux/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Run Claude Desktop’s Cowork mode natively on Linux — no macOS or VM required
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 258 |
-| 🍴 **Forks** | 46 |
+| 🍴 **Forks** | 47 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

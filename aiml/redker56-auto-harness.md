@@ -1,6 +1,6 @@
 # redker56/auto-harness
 
-[![Stars](https://img.shields.io/github/stars/redker56/auto-harness?style=flat-square&color=yellow)](https://github.com/redker56/auto-harness/stargazers) [![Forks](https://img.shields.io/github/forks/redker56/auto-harness?style=flat-square&color=blue)](https://github.com/redker56/auto-harness/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redker56/auto-harness?style=flat-square&color=yellow)](https://github.com/redker56/auto-harness/stargazers) [![Forks](https://img.shields.io/github/forks/redker56/auto-harness?style=flat-square&color=blue)](https://github.com/redker56/auto-harness/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Run Claude Code like a specialist software team: planning, implementation, QA, fix/retest loops, and durable .harness state for long-running project delivery.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # singchia/frontier
 
-[![Stars](https://img.shields.io/github/stars/singchia/frontier?style=flat-square&color=yellow)](https://github.com/singchia/frontier/stargazers) [![Forks](https://img.shields.io/github/forks/singchia/frontier?style=flat-square&color=blue)](https://github.com/singchia/frontier/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/singchia/frontier?style=flat-square&color=yellow)](https://github.com/singchia/frontier/stargazers) [![Forks](https://img.shields.io/github/forks/singchia/frontier?style=flat-square&color=blue)](https://github.com/singchia/frontier/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Bidirectional service-to-edge cloud-native gateway for long-lived connection.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 288 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

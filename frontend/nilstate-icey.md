@@ -1,6 +1,6 @@
 # nilstate/icey
 
-[![Stars](https://img.shields.io/github/stars/nilstate/icey?style=flat-square&color=yellow)](https://github.com/nilstate/icey/stargazers) [![Forks](https://img.shields.io/github/forks/nilstate/icey?style=flat-square&color=blue)](https://github.com/nilstate/icey/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nilstate/icey?style=flat-square&color=yellow)](https://github.com/nilstate/icey/stargazers) [![Forks](https://img.shields.io/github/forks/nilstate/icey?style=flat-square&color=blue)](https://github.com/nilstate/icey/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time media stack and lightweight libwebrtc alternative, built in C++20
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 352 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

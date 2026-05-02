@@ -1,6 +1,6 @@
 # ModelEngine-Group/unified-cache-management
 
-[![Stars](https://img.shields.io/github/stars/ModelEngine-Group/unified-cache-management?style=flat-square&color=yellow)](https://github.com/ModelEngine-Group/unified-cache-management/stargazers) [![Forks](https://img.shields.io/github/forks/ModelEngine-Group/unified-cache-management?style=flat-square&color=blue)](https://github.com/ModelEngine-Group/unified-cache-management/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ModelEngine-Group/unified-cache-management?style=flat-square&color=yellow)](https://github.com/ModelEngine-Group/unified-cache-management/stargazers) [![Forks](https://img.shields.io/github/forks/ModelEngine-Group/unified-cache-management?style=flat-square&color=blue)](https://github.com/ModelEngine-Group/unified-cache-management/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Persist and reuse KV Cache to speedup your LLM.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 274 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

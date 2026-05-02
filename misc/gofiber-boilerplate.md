@@ -1,6 +1,6 @@
 # gofiber/boilerplate
 
-[![Stars](https://img.shields.io/github/stars/gofiber/boilerplate?style=flat-square&color=yellow)](https://github.com/gofiber/boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/gofiber/boilerplate?style=flat-square&color=blue)](https://github.com/gofiber/boilerplate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gofiber/boilerplate?style=flat-square&color=yellow)](https://github.com/gofiber/boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/gofiber/boilerplate?style=flat-square&color=blue)](https://github.com/gofiber/boilerplate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 🚧 Boilerplate for 🚀 Fiber
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 501 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

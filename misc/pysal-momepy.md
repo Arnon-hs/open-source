@@ -1,6 +1,6 @@
 # pysal/momepy
 
-[![Stars](https://img.shields.io/github/stars/pysal/momepy?style=flat-square&color=yellow)](https://github.com/pysal/momepy/stargazers) [![Forks](https://img.shields.io/github/forks/pysal/momepy?style=flat-square&color=blue)](https://github.com/pysal/momepy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pysal/momepy?style=flat-square&color=yellow)](https://github.com/pysal/momepy/stargazers) [![Forks](https://img.shields.io/github/forks/pysal/momepy?style=flat-square&color=blue)](https://github.com/pysal/momepy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Urban Morphology Measuring Toolkit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 604 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

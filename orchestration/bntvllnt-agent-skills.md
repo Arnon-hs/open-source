@@ -1,6 +1,6 @@
 # bntvllnt/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/bntvllnt/agent-skills?style=flat-square&color=yellow)](https://github.com/bntvllnt/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/bntvllnt/agent-skills?style=flat-square&color=blue)](https://github.com/bntvllnt/agent-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bntvllnt/agent-skills?style=flat-square&color=yellow)](https://github.com/bntvllnt/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/bntvllnt/agent-skills?style=flat-square&color=blue)](https://github.com/bntvllnt/agent-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of AI agent skills - reusable capabilities for any domain via skills.sh
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

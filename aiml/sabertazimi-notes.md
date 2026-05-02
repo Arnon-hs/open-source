@@ -1,6 +1,6 @@
 # sabertazimi/notes
 
-[![Stars](https://img.shields.io/github/stars/sabertazimi/notes?style=flat-square&color=yellow)](https://github.com/sabertazimi/notes/stargazers) [![Forks](https://img.shields.io/github/forks/sabertazimi/notes?style=flat-square&color=blue)](https://github.com/sabertazimi/notes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sabertazimi/notes?style=flat-square&color=yellow)](https://github.com/sabertazimi/notes/stargazers) [![Forks](https://img.shields.io/github/forks/sabertazimi/notes?style=flat-square&color=blue)](https://github.com/sabertazimi/notes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > :bookmark: Personal notes: today I learned
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

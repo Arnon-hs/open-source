@@ -1,6 +1,6 @@
 # MbinOrg/mbin
 
-[![Stars](https://img.shields.io/github/stars/MbinOrg/mbin?style=flat-square&color=yellow)](https://github.com/MbinOrg/mbin/stargazers) [![Forks](https://img.shields.io/github/forks/MbinOrg/mbin?style=flat-square&color=blue)](https://github.com/MbinOrg/mbin/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MbinOrg/mbin?style=flat-square&color=yellow)](https://github.com/MbinOrg/mbin/stargazers) [![Forks](https://img.shields.io/github/forks/MbinOrg/mbin?style=flat-square&color=blue)](https://github.com/MbinOrg/mbin/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Mbin: a federated content aggregator, voting, discussion and microblogging platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 401 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

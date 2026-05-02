@@ -1,6 +1,6 @@
 # OpenZeppelin/solidity-docgen
 
-[![Stars](https://img.shields.io/github/stars/OpenZeppelin/solidity-docgen?style=flat-square&color=yellow)](https://github.com/OpenZeppelin/solidity-docgen/stargazers) [![Forks](https://img.shields.io/github/forks/OpenZeppelin/solidity-docgen?style=flat-square&color=blue)](https://github.com/OpenZeppelin/solidity-docgen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenZeppelin/solidity-docgen?style=flat-square&color=yellow)](https://github.com/OpenZeppelin/solidity-docgen/stargazers) [![Forks](https://img.shields.io/github/forks/OpenZeppelin/solidity-docgen?style=flat-square&color=blue)](https://github.com/OpenZeppelin/solidity-docgen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Documentation generator for Solidity projects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 463 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

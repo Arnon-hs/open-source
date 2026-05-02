@@ -1,6 +1,6 @@
 # freema/openclaw-mcp
 
-[![Stars](https://img.shields.io/github/stars/freema/openclaw-mcp?style=flat-square&color=yellow)](https://github.com/freema/openclaw-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/freema/openclaw-mcp?style=flat-square&color=blue)](https://github.com/freema/openclaw-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freema/openclaw-mcp?style=flat-square&color=yellow)](https://github.com/freema/openclaw-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/freema/openclaw-mcp?style=flat-square&color=blue)](https://github.com/freema/openclaw-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 🦞 MCP server for OpenClaw - secure bridge between Claude.ai and your self-hosted OpenClaw assistant with OAuth2 authentication
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 149 |
+| ⭐ **Stars** | 150 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # renatahodovan/grammarinator
 
-[![Stars](https://img.shields.io/github/stars/renatahodovan/grammarinator?style=flat-square&color=yellow)](https://github.com/renatahodovan/grammarinator/stargazers) [![Forks](https://img.shields.io/github/forks/renatahodovan/grammarinator?style=flat-square&color=blue)](https://github.com/renatahodovan/grammarinator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/renatahodovan/grammarinator?style=flat-square&color=yellow)](https://github.com/renatahodovan/grammarinator/stargazers) [![Forks](https://img.shields.io/github/forks/renatahodovan/grammarinator?style=flat-square&color=blue)](https://github.com/renatahodovan/grammarinator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > ANTLR v4 grammar-based test generator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 425 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # madara-alliance/madara
 
-[![Stars](https://img.shields.io/github/stars/madara-alliance/madara?style=flat-square&color=yellow)](https://github.com/madara-alliance/madara/stargazers) [![Forks](https://img.shields.io/github/forks/madara-alliance/madara?style=flat-square&color=blue)](https://github.com/madara-alliance/madara/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/madara-alliance/madara?style=flat-square&color=yellow)](https://github.com/madara-alliance/madara/stargazers) [![Forks](https://img.shields.io/github/forks/madara-alliance/madara?style=flat-square&color=blue)](https://github.com/madara-alliance/madara/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Madara is a powerful hybrid Starknet client written in Rust.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 123 |
+| ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

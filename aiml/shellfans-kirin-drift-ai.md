@@ -1,6 +1,6 @@
 # ShellFans-Kirin/drift_ai
 
-[![Stars](https://img.shields.io/github/stars/ShellFans-Kirin/drift_ai?style=flat-square&color=yellow)](https://github.com/ShellFans-Kirin/drift_ai/stargazers) [![Forks](https://img.shields.io/github/forks/ShellFans-Kirin/drift_ai?style=flat-square&color=blue)](https://github.com/ShellFans-Kirin/drift_ai/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShellFans-Kirin/drift_ai?style=flat-square&color=yellow)](https://github.com/ShellFans-Kirin/drift_ai/stargazers) [![Forks](https://img.shields.io/github/forks/ShellFans-Kirin/drift_ai?style=flat-square&color=blue)](https://github.com/ShellFans-Kirin/drift_ai/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first CLI: capture AI coding sessions, compact them, bind to commits via git notes. Day-one Claude Code + Codex.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

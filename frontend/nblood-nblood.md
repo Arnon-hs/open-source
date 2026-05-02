@@ -1,6 +1,6 @@
 # NBlood/NBlood
 
-[![Stars](https://img.shields.io/github/stars/NBlood/NBlood?style=flat-square&color=yellow)](https://github.com/NBlood/NBlood/stargazers) [![Forks](https://img.shields.io/github/forks/NBlood/NBlood?style=flat-square&color=blue)](https://github.com/NBlood/NBlood/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NBlood/NBlood?style=flat-square&color=yellow)](https://github.com/NBlood/NBlood/stargazers) [![Forks](https://img.shields.io/github/forks/NBlood/NBlood?style=flat-square&color=blue)](https://github.com/NBlood/NBlood/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Reverse-engineered ports of Build games using EDuke32 engine technology and development principles (NBlood/Rednukem/PCExhumed)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 767 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # magicbug/Cloudlog
 
-[![Stars](https://img.shields.io/github/stars/magicbug/Cloudlog?style=flat-square&color=yellow)](https://github.com/magicbug/Cloudlog/stargazers) [![Forks](https://img.shields.io/github/forks/magicbug/Cloudlog?style=flat-square&color=blue)](https://github.com/magicbug/Cloudlog/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/magicbug/Cloudlog?style=flat-square&color=yellow)](https://github.com/magicbug/Cloudlog/stargazers) [![Forks](https://img.shields.io/github/forks/magicbug/Cloudlog?style=flat-square&color=blue)](https://github.com/magicbug/Cloudlog/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Cloudlog is a web-based amateur radio logging application built with PHP and MySQL. It supports a wide range of station logging activities, from HF to microwave, and integrates with companion tools for CAT control and automation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 555 |
 | 🍴 **Forks** | 202 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

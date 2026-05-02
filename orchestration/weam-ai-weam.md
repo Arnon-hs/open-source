@@ -1,6 +1,6 @@
 # weam-ai/weam
 
-[![Stars](https://img.shields.io/github/stars/weam-ai/weam?style=flat-square&color=yellow)](https://github.com/weam-ai/weam/stargazers) [![Forks](https://img.shields.io/github/forks/weam-ai/weam?style=flat-square&color=blue)](https://github.com/weam-ai/weam/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weam-ai/weam?style=flat-square&color=yellow)](https://github.com/weam-ai/weam/stargazers) [![Forks](https://img.shields.io/github/forks/weam-ai/weam?style=flat-square&color=blue)](https://github.com/weam-ai/weam/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Web app for teams of 20+ members. In-built connections to major LLMs via API. Share chats, prompts, and agents in team or private folders. Modern, fully responsive stack (Next.js, Node.js). Deploy your own vibe-coded AI apps, agents, or workflows—or use ready-made solutions from the library.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 214 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

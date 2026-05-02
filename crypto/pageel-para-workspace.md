@@ -1,6 +1,6 @@
 # pageel/para-workspace
 
-[![Stars](https://img.shields.io/github/stars/pageel/para-workspace?style=flat-square&color=yellow)](https://github.com/pageel/para-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/pageel/para-workspace?style=flat-square&color=blue)](https://github.com/pageel/para-workspace/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pageel/para-workspace?style=flat-square&color=yellow)](https://github.com/pageel/para-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/pageel/para-workspace?style=flat-square&color=blue)](https://github.com/pageel/para-workspace/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🌌 PARA Workspace is an open-source workspace framework that defines how humans and AI agents organize knowledge and collaborate on projects. It ships as a repo containing a kernel (constitution), CLI tools, and templates — which generates workspaces where you actually work.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

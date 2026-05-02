@@ -1,6 +1,6 @@
 # cogentcore/core
 
-[![Stars](https://img.shields.io/github/stars/cogentcore/core?style=flat-square&color=yellow)](https://github.com/cogentcore/core/stargazers) [![Forks](https://img.shields.io/github/forks/cogentcore/core?style=flat-square&color=blue)](https://github.com/cogentcore/core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cogentcore/core?style=flat-square&color=yellow)](https://github.com/cogentcore/core/stargazers) [![Forks](https://img.shields.io/github/forks/cogentcore/core?style=flat-square&color=blue)](https://github.com/cogentcore/core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run Everywhere.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

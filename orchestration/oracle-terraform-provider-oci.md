@@ -1,6 +1,6 @@
 # oracle/terraform-provider-oci
 
-[![Stars](https://img.shields.io/github/stars/oracle/terraform-provider-oci?style=flat-square&color=yellow)](https://github.com/oracle/terraform-provider-oci/stargazers) [![Forks](https://img.shields.io/github/forks/oracle/terraform-provider-oci?style=flat-square&color=blue)](https://github.com/oracle/terraform-provider-oci/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oracle/terraform-provider-oci?style=flat-square&color=yellow)](https://github.com/oracle/terraform-provider-oci/stargazers) [![Forks](https://img.shields.io/github/forks/oracle/terraform-provider-oci?style=flat-square&color=blue)](https://github.com/oracle/terraform-provider-oci/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform Oracle Cloud Infrastructure provider
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 859 |
 | 🍴 **Forks** | 741 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

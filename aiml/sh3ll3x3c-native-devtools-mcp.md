@@ -1,6 +1,6 @@
 # sh3ll3x3c/native-devtools-mcp
 
-[![Stars](https://img.shields.io/github/stars/sh3ll3x3c/native-devtools-mcp?style=flat-square&color=yellow)](https://github.com/sh3ll3x3c/native-devtools-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sh3ll3x3c/native-devtools-mcp?style=flat-square&color=blue)](https://github.com/sh3ll3x3c/native-devtools-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sh3ll3x3c/native-devtools-mcp?style=flat-square&color=yellow)](https://github.com/sh3ll3x3c/native-devtools-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sh3ll3x3c/native-devtools-mcp?style=flat-square&color=blue)](https://github.com/sh3ll3x3c/native-devtools-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for computer use & browser automation  - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

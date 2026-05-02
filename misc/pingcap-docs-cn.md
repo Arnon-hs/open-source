@@ -1,6 +1,6 @@
 # pingcap/docs-cn
 
-[![Stars](https://img.shields.io/github/stars/pingcap/docs-cn?style=flat-square&color=yellow)](https://github.com/pingcap/docs-cn/stargazers) [![Forks](https://img.shields.io/github/forks/pingcap/docs-cn?style=flat-square&color=blue)](https://github.com/pingcap/docs-cn/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pingcap/docs-cn?style=flat-square&color=yellow)](https://github.com/pingcap/docs-cn/stargazers) [![Forks](https://img.shields.io/github/forks/pingcap/docs-cn?style=flat-square&color=blue)](https://github.com/pingcap/docs-cn/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > TiDB/TiKV/PD 中文文档
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
