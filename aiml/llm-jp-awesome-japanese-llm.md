@@ -1,6 +1,6 @@
 # llm-jp/awesome-japanese-llm
 
-[![Stars](https://img.shields.io/github/stars/llm-jp/awesome-japanese-llm?style=flat-square&color=yellow)](https://github.com/llm-jp/awesome-japanese-llm/stargazers) [![Forks](https://img.shields.io/github/forks/llm-jp/awesome-japanese-llm?style=flat-square&color=blue)](https://github.com/llm-jp/awesome-japanese-llm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llm-jp/awesome-japanese-llm?style=flat-square&color=yellow)](https://github.com/llm-jp/awesome-japanese-llm/stargazers) [![Forks](https://img.shields.io/github/forks/llm-jp/awesome-japanese-llm?style=flat-square&color=blue)](https://github.com/llm-jp/awesome-japanese-llm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 日本語LLMまとめ - Overview of Japanese LLMs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

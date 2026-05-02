@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/VoidChecksum/void-patcher-cc?style=flat-square&color=yellow)](https://github.com/VoidChecksum/void-patcher-cc/stargazers) [![Forks](https://img.shields.io/github/forks/VoidChecksum/void-patcher-cc?style=flat-square&color=blue)](https://github.com/VoidChecksum/void-patcher-cc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Void Patcher for Claude Code — 96 regex-signature patches for cli.js + Bun SEA (active-bundle + VFS-aware), auto-heal through every CC update
+> Void Patcher for Claude Code v2.1.120 — 96 regex-signature patches for cli.js + Bun SEA (active-bundle + VFS-aware), auto-heal through every CC update
 
 ## 📊 Stats
 

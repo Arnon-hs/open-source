@@ -1,6 +1,6 @@
 # ortelius/ortelius
 
-[![Stars](https://img.shields.io/github/stars/ortelius/ortelius?style=flat-square&color=yellow)](https://github.com/ortelius/ortelius/stargazers) [![Forks](https://img.shields.io/github/forks/ortelius/ortelius?style=flat-square&color=blue)](https://github.com/ortelius/ortelius/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ortelius/ortelius?style=flat-square&color=yellow)](https://github.com/ortelius/ortelius/stargazers) [![Forks](https://img.shields.io/github/forks/ortelius/ortelius?style=flat-square&color=blue)](https://github.com/ortelius/ortelius/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > The mission of the Ortelius community is to expose weak links in the software supply chain by continuously gathering and analyzing software supply chain intelligence.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 386 |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

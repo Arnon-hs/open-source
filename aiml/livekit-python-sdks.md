@@ -1,6 +1,6 @@
 # livekit/python-sdks
 
-[![Stars](https://img.shields.io/github/stars/livekit/python-sdks?style=flat-square&color=yellow)](https://github.com/livekit/python-sdks/stargazers) [![Forks](https://img.shields.io/github/forks/livekit/python-sdks?style=flat-square&color=blue)](https://github.com/livekit/python-sdks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/livekit/python-sdks?style=flat-square&color=yellow)](https://github.com/livekit/python-sdks/stargazers) [![Forks](https://img.shields.io/github/forks/livekit/python-sdks?style=flat-square&color=blue)](https://github.com/livekit/python-sdks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > LiveKit real-time and server SDKs for Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 354 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # platformatic/kafka
 
-[![Stars](https://img.shields.io/github/stars/platformatic/kafka?style=flat-square&color=yellow)](https://github.com/platformatic/kafka/stargazers) [![Forks](https://img.shields.io/github/forks/platformatic/kafka?style=flat-square&color=blue)](https://github.com/platformatic/kafka/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/platformatic/kafka?style=flat-square&color=yellow)](https://github.com/platformatic/kafka/stargazers) [![Forks](https://img.shields.io/github/forks/platformatic/kafka?style=flat-square&color=blue)](https://github.com/platformatic/kafka/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 383 |
+| ⭐ **Stars** | 384 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

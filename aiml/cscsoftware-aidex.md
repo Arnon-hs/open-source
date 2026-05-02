@@ -1,6 +1,6 @@
 # CSCSoftware/AiDex
 
-[![Stars](https://img.shields.io/github/stars/CSCSoftware/AiDex?style=flat-square&color=yellow)](https://github.com/CSCSoftware/AiDex/stargazers) [![Forks](https://img.shields.io/github/forks/CSCSoftware/AiDex?style=flat-square&color=blue)](https://github.com/CSCSoftware/AiDex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CSCSoftware/AiDex?style=flat-square&color=yellow)](https://github.com/CSCSoftware/AiDex/stargazers) [![Forks](https://img.shields.io/github/forks/CSCSoftware/AiDex?style=flat-square&color=blue)](https://github.com/CSCSoftware/AiDex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server for persistent code indexing. Gives AI assistants (Claude, Gemini, Copilot, Cursor) instant access to your codebase. 50x less context than grep.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

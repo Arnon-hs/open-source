@@ -1,6 +1,6 @@
 # AmrDab/clawdcursor
 
-[![Stars](https://img.shields.io/github/stars/AmrDab/clawdcursor?style=flat-square&color=yellow)](https://github.com/AmrDab/clawdcursor/stargazers) [![Forks](https://img.shields.io/github/forks/AmrDab/clawdcursor?style=flat-square&color=blue)](https://github.com/AmrDab/clawdcursor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmrDab/clawdcursor?style=flat-square&color=yellow)](https://github.com/AmrDab/clawdcursor/stargazers) [![Forks](https://img.shields.io/github/forks/AmrDab/clawdcursor?style=flat-square&color=blue)](https://github.com/AmrDab/clawdcursor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > OS-agnostic, model-agnostic desktop automation server. Gives any AI agent eyes, hands, and ground-truth verification on Windows, macOS, and Linux.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 253 |
-| 🍴 **Forks** | 41 |
+| ⭐ **Stars** | 275 |
+| 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/webadderallorg/Recordly?style=flat-square&color=yellow)](https://github.com/webadderallorg/Recordly/stargazers) [![Forks](https://img.shields.io/github/forks/webadderallorg/Recordly?style=flat-square&color=blue)](https://github.com/webadderallorg/Recordly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
 
-> Create polished screen recordings for free. An open-source alternative to Screen Studio.
+> Create polished screen recordings without editing. Mac/Windows/Linux
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11.3k |
-| 🍴 **Forks** | 818 |
+| ⭐ **Stars** | 11.5k |
+| 🍴 **Forks** | 826 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | — |

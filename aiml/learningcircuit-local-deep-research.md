@@ -1,6 +1,6 @@
 # LearningCircuit/local-deep-research
 
-[![Stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat-square&color=yellow)](https://github.com/LearningCircuit/local-deep-research/stargazers) [![Forks](https://img.shields.io/github/forks/LearningCircuit/local-deep-research?style=flat-square&color=blue)](https://github.com/LearningCircuit/local-deep-research/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat-square&color=yellow)](https://github.com/LearningCircuit/local-deep-research/stargazers) [![Forks](https://img.shields.io/github/forks/LearningCircuit/local-deep-research?style=flat-square&color=blue)](https://github.com/LearningCircuit/local-deep-research/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > Local Deep Research achieves ~95% on SimpleQA benchmark (tested with Qwen 3.6). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.4k |
-| 🍴 **Forks** | 422 |
+| ⭐ **Stars** | 4.5k |
+| 🍴 **Forks** | 424 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # we-promise/sure
 
-[![Stars](https://img.shields.io/github/stars/we-promise/sure?style=flat-square&color=yellow)](https://github.com/we-promise/sure/stargazers) [![Forks](https://img.shields.io/github/forks/we-promise/sure?style=flat-square&color=blue)](https://github.com/we-promise/sure/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/we-promise/sure?style=flat-square&color=yellow)](https://github.com/we-promise/sure/stargazers) [![Forks](https://img.shields.io/github/forks/we-promise/sure?style=flat-square&color=blue)](https://github.com/we-promise/sure/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8k |
-| 🍴 **Forks** | 899 |
+| 🍴 **Forks** | 900 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

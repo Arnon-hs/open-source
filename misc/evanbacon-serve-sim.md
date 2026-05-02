@@ -1,6 +1,6 @@
 # EvanBacon/serve-sim
 
-[![Stars](https://img.shields.io/github/stars/EvanBacon/serve-sim?style=flat-square&color=yellow)](https://github.com/EvanBacon/serve-sim/stargazers) [![Forks](https://img.shields.io/github/forks/EvanBacon/serve-sim?style=flat-square&color=blue)](https://github.com/EvanBacon/serve-sim/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvanBacon/serve-sim?style=flat-square&color=yellow)](https://github.com/EvanBacon/serve-sim/stargazers) [![Forks](https://img.shields.io/github/forks/EvanBacon/serve-sim?style=flat-square&color=blue)](https://github.com/EvanBacon/serve-sim/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > The `npx serve` of Apple Simulators.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 428 |
+| ⭐ **Stars** | 472 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

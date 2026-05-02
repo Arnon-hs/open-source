@@ -1,6 +1,6 @@
 # SuperCmdLabs/SuperCmd
 
-[![Stars](https://img.shields.io/github/stars/SuperCmdLabs/SuperCmd?style=flat-square&color=yellow)](https://github.com/SuperCmdLabs/SuperCmd/stargazers) [![Forks](https://img.shields.io/github/forks/SuperCmdLabs/SuperCmd?style=flat-square&color=blue)](https://github.com/SuperCmdLabs/SuperCmd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SuperCmdLabs/SuperCmd?style=flat-square&color=yellow)](https://github.com/SuperCmdLabs/SuperCmd/stargazers) [![Forks](https://img.shields.io/github/forks/SuperCmdLabs/SuperCmd?style=flat-square&color=blue)](https://github.com/SuperCmdLabs/SuperCmd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Powerful MacOS Launcher
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 101 |
+| ⭐ **Stars** | 2.5k |
+| 🍴 **Forks** | 103 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

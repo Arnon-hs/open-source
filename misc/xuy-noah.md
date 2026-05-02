@@ -1,6 +1,6 @@
 # xuy/noah
 
-[![Stars](https://img.shields.io/github/stars/xuy/noah?style=flat-square&color=yellow)](https://github.com/xuy/noah/stargazers) [![Forks](https://img.shields.io/github/forks/xuy/noah?style=flat-square&color=blue)](https://github.com/xuy/noah/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xuy/noah?style=flat-square&color=yellow)](https://github.com/xuy/noah/stargazers) [![Forks](https://img.shields.io/github/forks/xuy/noah?style=flat-square&color=blue)](https://github.com/xuy/noah/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Noah -- fixing your computer issues
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

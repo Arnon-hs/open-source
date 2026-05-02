@@ -1,6 +1,6 @@
 # cachethq/core
 
-[![Stars](https://img.shields.io/github/stars/cachethq/core?style=flat-square&color=yellow)](https://github.com/cachethq/core/stargazers) [![Forks](https://img.shields.io/github/forks/cachethq/core?style=flat-square&color=blue)](https://github.com/cachethq/core/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cachethq/core?style=flat-square&color=yellow)](https://github.com/cachethq/core/stargazers) [![Forks](https://img.shields.io/github/forks/cachethq/core?style=flat-square&color=blue)](https://github.com/cachethq/core/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 🚦 The core for Cachet, the open-source, self-hosted status page system.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 222 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

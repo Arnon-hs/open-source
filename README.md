@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14664** |
+| 🗂️ **Total projects** | **14704** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5502 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2977 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1431 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 5508 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2991 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1434 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 1093 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 897 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 875 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 903 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 882 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 513 | [Browse →](./crypto/) |
-| 📊 **Data** | 334 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 318 | [Browse →](./devopsinfra/) |
+| 📊 **Data** | 335 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 319 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 195 | [Browse →](./mobile/) |
 | 💳 **Payments** | 156 | [Browse →](./payments/) |
-| 📈 **Trading** | 150 | [Browse →](./trading/) |
+| 📈 **Trading** | 151 | [Browse →](./trading/) |
 | 🔐 **Security** | 120 | [Browse →](./security/) |
-| ✨ **Design** | 46 | [Browse →](./design/) |
+| ✨ **Design** | 47 | [Browse →](./design/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 
@@ -41,14 +41,14 @@
 |---|---|---|---|
 | 1 | [datawhalechina/all-in-rag](./orchestration/datawhalechina-all-in-rag.md) | ⭐ 6.9k | Orchestration |
 | 2 | [filamentphp/filament](./aiml/filamentphp-filament.md) | ⭐ 30.5k | AI/ML |
-| 3 | [apache/dolphinscheduler](./orchestration/apache-dolphinscheduler.md) | ⭐ 14.3k | Orchestration |
-| 4 | [remoteintech/remote-jobs](./aiml/remoteintech-remote-jobs.md) | ⭐ 40.3k | AI/ML |
-| 5 | [hellodigua/ChatLab](./aiml/hellodigua-chatlab.md) | ⭐ 6.2k | AI/ML |
-| 6 | [meilisearch/meilisearch](./aiml/meilisearch-meilisearch.md) | ⭐ 57.4k | AI/ML |
-| 7 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 8 | [mlflow/mlflow](./orchestration/mlflow-mlflow.md) | ⭐ 25.7k | Orchestration |
-| 9 | [immich-app/immich](./mobile/immich-app-immich.md) | ⭐ 99.5k | Mobile |
-| 10 | [rapidsai/cudf](./aiml/rapidsai-cudf.md) | ⭐ 9.6k | AI/ML |
+| 3 | [luanti-org/luanti](./devtools/luanti-org-luanti.md) | ⭐ 12.8k | DevTools |
+| 4 | [hellodigua/ChatLab](./aiml/hellodigua-chatlab.md) | ⭐ 6.2k | AI/ML |
+| 5 | [mlflow/mlflow](./orchestration/mlflow-mlflow.md) | ⭐ 25.7k | Orchestration |
+| 6 | [immich-app/immich](./mobile/immich-app-immich.md) | ⭐ 99.5k | Mobile |
+| 7 | [rapidsai/cudf](./aiml/rapidsai-cudf.md) | ⭐ 9.6k | AI/ML |
+| 8 | [gpakosz/.tmux](./aiml/gpakosz-.tmux.md) | ⭐ 24.8k | AI/ML |
+| 9 | [k2-fsa/sherpa-onnx](./backend/k2-fsa-sherpa-onnx.md) | ⭐ 12k | Backend |
+| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
 
 ## 🚀 How it works
 

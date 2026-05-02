@@ -1,6 +1,6 @@
 # technyon/nuki_hub
 
-[![Stars](https://img.shields.io/github/stars/technyon/nuki_hub?style=flat-square&color=yellow)](https://github.com/technyon/nuki_hub/stargazers) [![Forks](https://img.shields.io/github/forks/technyon/nuki_hub?style=flat-square&color=blue)](https://github.com/technyon/nuki_hub/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/technyon/nuki_hub?style=flat-square&color=yellow)](https://github.com/technyon/nuki_hub/stargazers) [![Forks](https://img.shields.io/github/forks/technyon/nuki_hub?style=flat-square&color=blue)](https://github.com/technyon/nuki_hub/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Use an ESP32 as a Hub between a NUKI Lock and your smarthome.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 705 |
+| ⭐ **Stars** | 706 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

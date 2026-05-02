@@ -1,6 +1,6 @@
 # xt765/FinchBot
 
-[![Stars](https://img.shields.io/github/stars/xt765/FinchBot?style=flat-square&color=yellow)](https://github.com/xt765/FinchBot/stargazers) [![Forks](https://img.shields.io/github/forks/xt765/FinchBot?style=flat-square&color=blue)](https://github.com/xt765/FinchBot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xt765/FinchBot?style=flat-square&color=yellow)](https://github.com/xt765/FinchBot/stargazers) [![Forks](https://img.shields.io/github/forks/xt765/FinchBot?style=flat-square&color=blue)](https://github.com/xt765/FinchBot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > FinchBot is an AI Agent framework that empowers agents with true autonomy, built on LangChain v1.2 and LangGraph v1.0. With fully async architecture, agents gain the ability to self-decide, self-extend, and self-evolve
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

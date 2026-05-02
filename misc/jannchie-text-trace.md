@@ -1,6 +1,6 @@
 # Jannchie/text-trace
 
-[![Stars](https://img.shields.io/github/stars/Jannchie/text-trace?style=flat-square&color=yellow)](https://github.com/Jannchie/text-trace/stargazers) [![Forks](https://img.shields.io/github/forks/Jannchie/text-trace?style=flat-square&color=blue)](https://github.com/Jannchie/text-trace/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jannchie/text-trace?style=flat-square&color=yellow)](https://github.com/Jannchie/text-trace/stargazers) [![Forks](https://img.shields.io/github/forks/Jannchie/text-trace?style=flat-square&color=blue)](https://github.com/Jannchie/text-trace/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Create Keynote-style SVG text trace animations
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4 |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

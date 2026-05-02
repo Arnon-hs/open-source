@@ -1,6 +1,6 @@
 # ozeranskii/httptap
 
-[![Stars](https://img.shields.io/github/stars/ozeranskii/httptap?style=flat-square&color=yellow)](https://github.com/ozeranskii/httptap/stargazers) [![Forks](https://img.shields.io/github/forks/ozeranskii/httptap?style=flat-square&color=blue)](https://github.com/ozeranskii/httptap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ozeranskii/httptap?style=flat-square&color=yellow)](https://github.com/ozeranskii/httptap/stargazers) [![Forks](https://img.shields.io/github/forks/ozeranskii/httptap?style=flat-square&color=blue)](https://github.com/ozeranskii/httptap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 491 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

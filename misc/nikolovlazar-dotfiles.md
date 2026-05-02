@@ -1,6 +1,6 @@
 # nikolovlazar/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/nikolovlazar/dotfiles?style=flat-square&color=yellow)](https://github.com/nikolovlazar/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/nikolovlazar/dotfiles?style=flat-square&color=blue)](https://github.com/nikolovlazar/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikolovlazar/dotfiles?style=flat-square&color=yellow)](https://github.com/nikolovlazar/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/nikolovlazar/dotfiles?style=flat-square&color=blue)](https://github.com/nikolovlazar/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > My ever-evolving dotfiles. Optimized for JavaScript/TypeScript/Web Development. Managed with stow.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 317 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

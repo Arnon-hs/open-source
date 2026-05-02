@@ -1,6 +1,6 @@
 # leomoon-studios/wiki-go
 
-[![Stars](https://img.shields.io/github/stars/leomoon-studios/wiki-go?style=flat-square&color=yellow)](https://github.com/leomoon-studios/wiki-go/stargazers) [![Forks](https://img.shields.io/github/forks/leomoon-studios/wiki-go?style=flat-square&color=blue)](https://github.com/leomoon-studios/wiki-go/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leomoon-studios/wiki-go?style=flat-square&color=yellow)](https://github.com/leomoon-studios/wiki-go/stargazers) [![Forks](https://img.shields.io/github/forks/leomoon-studios/wiki-go?style=flat-square&color=blue)](https://github.com/leomoon-studios/wiki-go/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 545 |
-| 🍴 **Forks** | 45 |
+| ⭐ **Stars** | 546 |
+| 🍴 **Forks** | 46 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

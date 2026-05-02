@@ -1,6 +1,6 @@
 # modelcontextprotocol/csharp-sdk
 
-[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/csharp-sdk?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/csharp-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/csharp-sdk?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/csharp-sdk/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/csharp-sdk?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/csharp-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/csharp-sdk?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/csharp-sdk/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.2k |
-| 🍴 **Forks** | 691 |
+| 🍴 **Forks** | 692 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

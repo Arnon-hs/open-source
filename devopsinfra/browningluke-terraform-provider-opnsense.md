@@ -1,6 +1,6 @@
 # browningluke/terraform-provider-opnsense
 
-[![Stars](https://img.shields.io/github/stars/browningluke/terraform-provider-opnsense?style=flat-square&color=yellow)](https://github.com/browningluke/terraform-provider-opnsense/stargazers) [![Forks](https://img.shields.io/github/forks/browningluke/terraform-provider-opnsense?style=flat-square&color=blue)](https://github.com/browningluke/terraform-provider-opnsense/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/browningluke/terraform-provider-opnsense?style=flat-square&color=yellow)](https://github.com/browningluke/terraform-provider-opnsense/stargazers) [![Forks](https://img.shields.io/github/forks/browningluke/terraform-provider-opnsense?style=flat-square&color=blue)](https://github.com/browningluke/terraform-provider-opnsense/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > OPNsense Terraform Provider
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # tektoncd/dashboard
 
-[![Stars](https://img.shields.io/github/stars/tektoncd/dashboard?style=flat-square&color=yellow)](https://github.com/tektoncd/dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/tektoncd/dashboard?style=flat-square&color=blue)](https://github.com/tektoncd/dashboard/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tektoncd/dashboard?style=flat-square&color=yellow)](https://github.com/tektoncd/dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/tektoncd/dashboard?style=flat-square&color=blue)](https://github.com/tektoncd/dashboard/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A dashboard for Tekton!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 950 |
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

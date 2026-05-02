@@ -1,6 +1,6 @@
 # remoteintech/remote-jobs
 
-[![Stars](https://img.shields.io/github/stars/remoteintech/remote-jobs?style=flat-square&color=yellow)](https://github.com/remoteintech/remote-jobs/stargazers) [![Forks](https://img.shields.io/github/forks/remoteintech/remote-jobs?style=flat-square&color=blue)](https://github.com/remoteintech/remote-jobs/network) [![Language](https://img.shields.io/badge/lang-Nunjucks-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remoteintech/remote-jobs?style=flat-square&color=yellow)](https://github.com/remoteintech/remote-jobs/stargazers) [![Forks](https://img.shields.io/github/forks/remoteintech/remote-jobs?style=flat-square&color=blue)](https://github.com/remoteintech/remote-jobs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
 > Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 40.3k |
 | 🍴 **Forks** | 3.9k |
-| 💻 **Language** | Nunjucks |
+| 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

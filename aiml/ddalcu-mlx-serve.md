@@ -1,6 +1,6 @@
 # ddalcu/mlx-serve
 
-[![Stars](https://img.shields.io/github/stars/ddalcu/mlx-serve?style=flat-square&color=yellow)](https://github.com/ddalcu/mlx-serve/stargazers) [![Forks](https://img.shields.io/github/forks/ddalcu/mlx-serve?style=flat-square&color=blue)](https://github.com/ddalcu/mlx-serve/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ddalcu/mlx-serve?style=flat-square&color=yellow)](https://github.com/ddalcu/mlx-serve/stargazers) [![Forks](https://img.shields.io/github/forks/ddalcu/mlx-serve?style=flat-square&color=blue)](https://github.com/ddalcu/mlx-serve/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

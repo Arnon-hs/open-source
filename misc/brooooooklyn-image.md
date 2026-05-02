@@ -1,6 +1,6 @@
 # Brooooooklyn/Image
 
-[![Stars](https://img.shields.io/github/stars/Brooooooklyn/Image?style=flat-square&color=yellow)](https://github.com/Brooooooklyn/Image/stargazers) [![Forks](https://img.shields.io/github/forks/Brooooooklyn/Image?style=flat-square&color=blue)](https://github.com/Brooooooklyn/Image/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Brooooooklyn/Image?style=flat-square&color=yellow)](https://github.com/Brooooooklyn/Image/stargazers) [![Forks](https://img.shields.io/github/forks/Brooooooklyn/Image?style=flat-square&color=blue)](https://github.com/Brooooooklyn/Image/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Image processing library.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

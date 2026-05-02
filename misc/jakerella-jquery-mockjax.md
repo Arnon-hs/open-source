@@ -1,6 +1,6 @@
 # jakerella/jquery-mockjax
 
-[![Stars](https://img.shields.io/github/stars/jakerella/jquery-mockjax?style=flat-square&color=yellow)](https://github.com/jakerella/jquery-mockjax/stargazers) [![Forks](https://img.shields.io/github/forks/jakerella/jquery-mockjax?style=flat-square&color=blue)](https://github.com/jakerella/jquery-mockjax/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jakerella/jquery-mockjax?style=flat-square&color=yellow)](https://github.com/jakerella/jquery-mockjax/stargazers) [![Forks](https://img.shields.io/github/forks/jakerella/jquery-mockjax?style=flat-square&color=blue)](https://github.com/jakerella/jquery-mockjax/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The jQuery Mockjax Plugin provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 367 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

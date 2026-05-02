@@ -1,6 +1,6 @@
 # verona-team/verona-atlas
 
-[![Stars](https://img.shields.io/github/stars/verona-team/verona-atlas?style=flat-square&color=yellow)](https://github.com/verona-team/verona-atlas/stargazers) [![Forks](https://img.shields.io/github/forks/verona-team/verona-atlas?style=flat-square&color=blue)](https://github.com/verona-team/verona-atlas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/verona-team/verona-atlas?style=flat-square&color=yellow)](https://github.com/verona-team/verona-atlas/stargazers) [![Forks](https://img.shields.io/github/forks/verona-team/verona-atlas?style=flat-square&color=blue)](https://github.com/verona-team/verona-atlas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Verona bug bashes your product like a human
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

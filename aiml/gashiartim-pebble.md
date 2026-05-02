@@ -1,6 +1,6 @@
 # gashiartim/pebble
 
-[![Stars](https://img.shields.io/github/stars/gashiartim/pebble?style=flat-square&color=yellow)](https://github.com/gashiartim/pebble/stargazers) [![Forks](https://img.shields.io/github/forks/gashiartim/pebble?style=flat-square&color=blue)](https://github.com/gashiartim/pebble/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gashiartim/pebble?style=flat-square&color=yellow)](https://github.com/gashiartim/pebble/stargazers) [![Forks](https://img.shields.io/github/forks/gashiartim/pebble?style=flat-square&color=blue)](https://github.com/gashiartim/pebble/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Menu-bar text-polish tool that rewrites your clipboard with a local Ollama model. One global shortcut, seven presets, no cloud.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

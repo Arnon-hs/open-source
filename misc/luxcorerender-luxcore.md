@@ -1,6 +1,6 @@
 # LuxCoreRender/LuxCore
 
-[![Stars](https://img.shields.io/github/stars/LuxCoreRender/LuxCore?style=flat-square&color=yellow)](https://github.com/LuxCoreRender/LuxCore/stargazers) [![Forks](https://img.shields.io/github/forks/LuxCoreRender/LuxCore?style=flat-square&color=blue)](https://github.com/LuxCoreRender/LuxCore/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LuxCoreRender/LuxCore?style=flat-square&color=yellow)](https://github.com/LuxCoreRender/LuxCore/stargazers) [![Forks](https://img.shields.io/github/forks/LuxCoreRender/LuxCore?style=flat-square&color=blue)](https://github.com/LuxCoreRender/LuxCore/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > LuxCore source repository
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # tylergraydev/claude-code-tool-manager
 
-[![Stars](https://img.shields.io/github/stars/tylergraydev/claude-code-tool-manager?style=flat-square&color=yellow)](https://github.com/tylergraydev/claude-code-tool-manager/stargazers) [![Forks](https://img.shields.io/github/forks/tylergraydev/claude-code-tool-manager?style=flat-square&color=blue)](https://github.com/tylergraydev/claude-code-tool-manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tylergraydev/claude-code-tool-manager?style=flat-square&color=yellow)](https://github.com/tylergraydev/claude-code-tool-manager/stargazers) [![Forks](https://img.shields.io/github/forks/tylergraydev/claude-code-tool-manager?style=flat-square&color=blue)](https://github.com/tylergraydev/claude-code-tool-manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > GUI app to manage MCP servers for Claude Code
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 303 |
+| ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

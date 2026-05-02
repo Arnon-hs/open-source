@@ -1,6 +1,6 @@
 # Basekick-Labs/arc
 
-[![Stars](https://img.shields.io/github/stars/Basekick-Labs/arc?style=flat-square&color=yellow)](https://github.com/Basekick-Labs/arc/stargazers) [![Forks](https://img.shields.io/github/forks/Basekick-Labs/arc?style=flat-square&color=blue)](https://github.com/Basekick-Labs/arc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Basekick-Labs/arc?style=flat-square&color=yellow)](https://github.com/Basekick-Labs/arc/stargazers) [![Forks](https://img.shields.io/github/forks/Basekick-Labs/arc?style=flat-square&color=blue)](https://github.com/Basekick-Labs/arc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance analytical database. DuckDB SQL engine + Parquet storage + Arrow format. 19.9M records/sec ingestion. 6M+ rows/sec queries. Use for analytics, observability, AI, IoT, logs. Single Go binary. S3/Azure native. No vendor lock-in. AGPL-3.0
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 586 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

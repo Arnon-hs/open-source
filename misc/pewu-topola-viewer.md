@@ -1,6 +1,6 @@
 # PeWu/topola-viewer
 
-[![Stars](https://img.shields.io/github/stars/PeWu/topola-viewer?style=flat-square&color=yellow)](https://github.com/PeWu/topola-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/PeWu/topola-viewer?style=flat-square&color=blue)](https://github.com/PeWu/topola-viewer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PeWu/topola-viewer?style=flat-square&color=yellow)](https://github.com/PeWu/topola-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/PeWu/topola-viewer?style=flat-square&color=blue)](https://github.com/PeWu/topola-viewer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Topola Genealogy Viewer – interactive genealogy visualization
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

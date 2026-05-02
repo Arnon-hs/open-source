@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/temidaradev/kopuz?style=flat-square&color=yellow)](https://github.com/temidaradev/kopuz/stargazers) [![Forks](https://img.shields.io/github/forks/temidaradev/kopuz?style=flat-square&color=blue)](https://github.com/temidaradev/kopuz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Another music player but written in rust using dioxus (local files and jellyfin supported)
+> Feature rich music player but written in rust using dioxus
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 482 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 487 |
+| 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |

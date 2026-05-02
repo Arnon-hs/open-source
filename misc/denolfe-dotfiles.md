@@ -1,6 +1,6 @@
 # denolfe/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/denolfe/dotfiles?style=flat-square&color=yellow)](https://github.com/denolfe/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/denolfe/dotfiles?style=flat-square&color=blue)](https://github.com/denolfe/dotfiles/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/denolfe/dotfiles?style=flat-square&color=yellow)](https://github.com/denolfe/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/denolfe/dotfiles?style=flat-square&color=blue)](https://github.com/denolfe/dotfiles/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > :floppy_disk: dotfiles for macOS - includes zsh, claude, hyper key, global shortcuts, and zellij configurations. Installation via dotbot.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

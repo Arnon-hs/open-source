@@ -1,6 +1,6 @@
 # PanAchy/copilot-arewecooked
 
-[![Stars](https://img.shields.io/github/stars/PanAchy/copilot-arewecooked?style=flat-square&color=yellow)](https://github.com/PanAchy/copilot-arewecooked/stargazers) [![Forks](https://img.shields.io/github/forks/PanAchy/copilot-arewecooked?style=flat-square&color=blue)](https://github.com/PanAchy/copilot-arewecooked/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PanAchy/copilot-arewecooked?style=flat-square&color=yellow)](https://github.com/PanAchy/copilot-arewecooked/stargazers) [![Forks](https://img.shields.io/github/forks/PanAchy/copilot-arewecooked?style=flat-square&color=blue)](https://github.com/PanAchy/copilot-arewecooked/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Estimate your GitHub Copilot AI-credit cost in preparation for June 1st.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 60 |
+| ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

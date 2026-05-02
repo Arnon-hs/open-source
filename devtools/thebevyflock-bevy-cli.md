@@ -1,6 +1,6 @@
 # TheBevyFlock/bevy_cli
 
-[![Stars](https://img.shields.io/github/stars/TheBevyFlock/bevy_cli?style=flat-square&color=yellow)](https://github.com/TheBevyFlock/bevy_cli/stargazers) [![Forks](https://img.shields.io/github/forks/TheBevyFlock/bevy_cli?style=flat-square&color=blue)](https://github.com/TheBevyFlock/bevy_cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheBevyFlock/bevy_cli?style=flat-square&color=yellow)](https://github.com/TheBevyFlock/bevy_cli/stargazers) [![Forks](https://img.shields.io/github/forks/TheBevyFlock/bevy_cli?style=flat-square&color=blue)](https://github.com/TheBevyFlock/bevy_cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > A Bevy CLI tool and linter.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

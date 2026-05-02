@@ -1,6 +1,6 @@
 # ccxt/go-binance
 
-[![Stars](https://img.shields.io/github/stars/ccxt/go-binance?style=flat-square&color=yellow)](https://github.com/ccxt/go-binance/stargazers) [![Forks](https://img.shields.io/github/forks/ccxt/go-binance?style=flat-square&color=blue)](https://github.com/ccxt/go-binance/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ccxt/go-binance?style=flat-square&color=yellow)](https://github.com/ccxt/go-binance/stargazers) [![Forks](https://img.shields.io/github/forks/ccxt/go-binance?style=flat-square&color=blue)](https://github.com/ccxt/go-binance/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A Go SDK for Binance API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 784 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -11,7 +11,7 @@
 | 1 | [Tyrrrz/YoutubeDownloader](./tyrrrz-youtubedownloader.md) | ⭐ 14.9k | C# | 100/100 |
 | 2 | [alvr-org/ALVR](./alvr-org-alvr.md) | ⭐ 7.6k | Rust | 91/100 |
 | 3 | [jiji262/douyin-downloader](./jiji262-douyin-downloader.md) | ⭐ 7.5k | Python | 90/100 |
-| 4 | [tonhowtf/omniget](./tonhowtf-omniget.md) | ⭐ 3k | Rust | 75/100 |
+| 4 | [tonhowtf/omniget](./tonhowtf-omniget.md) | ⭐ 3.1k | Rust | 76/100 |
 | 5 | [apache/plc4x](./apache-plc4x.md) | ⭐ 1.6k | Java | 68/100 |
 | 6 | [danielbrendel/hortusfox-web](./danielbrendel-hortusfox-web.md) | ⭐ 1.5k | PHP | 62/100 |
 | 7 | [museofficial/muse](./museofficial-muse.md) | ⭐ 1.2k | TypeScript | 60/100 |
@@ -24,8 +24,8 @@
 | 14 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 15 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 52/100 |
 | 16 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 967 | TypeScript | 52/100 |
-| 17 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 121 | Rust | 51/100 |
-| 18 | [deadsy/sdfx](./deadsy-sdfx.md) | ⭐ 613 | Go | 51/100 |
+| 17 | [deadsy/sdfx](./deadsy-sdfx.md) | ⭐ 613 | Go | 51/100 |
+| 18 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 121 | Rust | 51/100 |
 | 19 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 136 | MDX | 51/100 |
 | 20 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
 | 21 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 17 | — | 50/100 |

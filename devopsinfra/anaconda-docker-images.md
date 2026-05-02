@@ -1,6 +1,6 @@
 # anaconda/docker-images
 
-[![Stars](https://img.shields.io/github/stars/anaconda/docker-images?style=flat-square&color=yellow)](https://github.com/anaconda/docker-images/stargazers) [![Forks](https://img.shields.io/github/forks/anaconda/docker-images?style=flat-square&color=blue)](https://github.com/anaconda/docker-images/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anaconda/docker-images?style=flat-square&color=yellow)](https://github.com/anaconda/docker-images/stargazers) [![Forks](https://img.shields.io/github/forks/anaconda/docker-images?style=flat-square&color=blue)](https://github.com/anaconda/docker-images/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Repository of Docker images created by Anaconda
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 857 |
 | 🍴 **Forks** | 284 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

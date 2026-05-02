@@ -1,6 +1,6 @@
 # rakeshgangwar/erpnext-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/rakeshgangwar/erpnext-mcp-server?style=flat-square&color=yellow)](https://github.com/rakeshgangwar/erpnext-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/rakeshgangwar/erpnext-mcp-server?style=flat-square&color=blue)](https://github.com/rakeshgangwar/erpnext-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rakeshgangwar/erpnext-mcp-server?style=flat-square&color=yellow)](https://github.com/rakeshgangwar/erpnext-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/rakeshgangwar/erpnext-mcp-server?style=flat-square&color=blue)](https://github.com/rakeshgangwar/erpnext-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Connect AI assistants to your ERPNext instance via the Model Context Protocol (MCP) using the official Frappe API.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 86 |
+| ⭐ **Stars** | 87 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

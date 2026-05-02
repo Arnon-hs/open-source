@@ -8,9 +8,9 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
+| 1 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.6k | Clojure | 100/100 |
 | 2 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.7k | C# | 100/100 |
-| 3 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.6k | Clojure | 100/100 |
+| 3 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
 | 4 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
 | 5 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122.4k | TypeScript | 99/100 |
 | 6 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.9k | C++ | 96/100 |
@@ -36,7 +36,7 @@
 | 26 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 47/100 |
 | 27 | [getsentry/relay](./getsentry-relay.md) | ⭐ 376 | Rust | 46/100 |
 | 28 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 313 | Rust | 43/100 |
-| 29 | [verona-team/verona-atlas](./verona-team-verona-atlas.md) | ⭐ 16 | Python | 36/100 |
+| 29 | [verona-team/verona-atlas](./verona-team-verona-atlas.md) | ⭐ 16 | Python | 32/100 |
 
 ---
 

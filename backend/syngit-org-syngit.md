@@ -1,6 +1,6 @@
 # syngit-org/syngit
 
-[![Stars](https://img.shields.io/github/stars/syngit-org/syngit?style=flat-square&color=yellow)](https://github.com/syngit-org/syngit/stargazers) [![Forks](https://img.shields.io/github/forks/syngit-org/syngit?style=flat-square&color=blue)](https://github.com/syngit-org/syngit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/syngit-org/syngit?style=flat-square&color=yellow)](https://github.com/syngit-org/syngit/stargazers) [![Forks](https://img.shields.io/github/forks/syngit-org/syngit?style=flat-square&color=blue)](https://github.com/syngit-org/syngit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Syngit - Kubernetes operator to push resources on a git repository and manage their lifecycle.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

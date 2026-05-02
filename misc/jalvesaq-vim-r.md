@@ -1,6 +1,6 @@
 # jalvesaq/Vim-R
 
-[![Stars](https://img.shields.io/github/stars/jalvesaq/Vim-R?style=flat-square&color=yellow)](https://github.com/jalvesaq/Vim-R/stargazers) [![Forks](https://img.shields.io/github/forks/jalvesaq/Vim-R?style=flat-square&color=blue)](https://github.com/jalvesaq/Vim-R/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jalvesaq/Vim-R?style=flat-square&color=yellow)](https://github.com/jalvesaq/Vim-R/stargazers) [![Forks](https://img.shields.io/github/forks/jalvesaq/Vim-R?style=flat-square&color=blue)](https://github.com/jalvesaq/Vim-R/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Vim plugin to work with R
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 982 |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | Vim Script |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

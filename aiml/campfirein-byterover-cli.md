@@ -1,6 +1,6 @@
 # campfirein/byterover-cli
 
-[![Stars](https://img.shields.io/github/stars/campfirein/byterover-cli?style=flat-square&color=yellow)](https://github.com/campfirein/byterover-cli/stargazers) [![Forks](https://img.shields.io/github/forks/campfirein/byterover-cli?style=flat-square&color=blue)](https://github.com/campfirein/byterover-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/campfirein/byterover-cli?style=flat-square&color=yellow)](https://github.com/campfirein/byterover-cli/stargazers) [![Forks](https://img.shields.io/github/forks/campfirein/byterover-cli?style=flat-square&color=blue)](https://github.com/campfirein/byterover-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 448 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

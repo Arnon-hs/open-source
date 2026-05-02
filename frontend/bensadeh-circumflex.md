@@ -1,6 +1,6 @@
 # bensadeh/circumflex
 
-[![Stars](https://img.shields.io/github/stars/bensadeh/circumflex?style=flat-square&color=yellow)](https://github.com/bensadeh/circumflex/stargazers) [![Forks](https://img.shields.io/github/forks/bensadeh/circumflex?style=flat-square&color=blue)](https://github.com/bensadeh/circumflex/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bensadeh/circumflex?style=flat-square&color=yellow)](https://github.com/bensadeh/circumflex/stargazers) [![Forks](https://img.shields.io/github/forks/bensadeh/circumflex?style=flat-square&color=blue)](https://github.com/bensadeh/circumflex/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 🌿 It's Hacker News in your terminal
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 43 |
+| 🍴 **Forks** | 44 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

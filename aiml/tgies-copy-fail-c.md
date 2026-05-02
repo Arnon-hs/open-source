@@ -1,6 +1,6 @@
 # tgies/copy-fail-c
 
-[![Stars](https://img.shields.io/github/stars/tgies/copy-fail-c?style=flat-square&color=yellow)](https://github.com/tgies/copy-fail-c/stargazers) [![Forks](https://img.shields.io/github/forks/tgies/copy-fail-c?style=flat-square&color=blue)](https://github.com/tgies/copy-fail-c/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tgies/copy-fail-c?style=flat-square&color=yellow)](https://github.com/tgies/copy-fail-c/stargazers) [![Forks](https://img.shields.io/github/forks/tgies/copy-fail-c?style=flat-square&color=blue)](https://github.com/tgies/copy-fail-c/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform C port of the Copy Fail Linux LPE (CVE-2026-31431). Disclosed 2026-04-29 by Theori / Xint.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 215 |
-| 🍴 **Forks** | 61 |
+| ⭐ **Stars** | 225 |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | C |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

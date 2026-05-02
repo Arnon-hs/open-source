@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18.9k |
+| ⭐ **Stars** | 19k |
 | 🍴 **Forks** | 4.5k |
 | 💻 **Language** | PLSQL |
 | 📈 **Score** | 84/100 |
