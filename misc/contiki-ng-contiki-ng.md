@@ -1,6 +1,6 @@
 # contiki-ng/contiki-ng
 
-[![Stars](https://img.shields.io/github/stars/contiki-ng/contiki-ng?style=flat-square&color=yellow)](https://github.com/contiki-ng/contiki-ng/stargazers) [![Forks](https://img.shields.io/github/forks/contiki-ng/contiki-ng?style=flat-square&color=blue)](https://github.com/contiki-ng/contiki-ng/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/contiki-ng/contiki-ng?style=flat-square&color=yellow)](https://github.com/contiki-ng/contiki-ng/stargazers) [![Forks](https://img.shields.io/github/forks/contiki-ng/contiki-ng?style=flat-square&color=blue)](https://github.com/contiki-ng/contiki-ng/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Contiki-NG: The OS for Next Generation IoT Devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 758 |
 | 💻 **Language** | C |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

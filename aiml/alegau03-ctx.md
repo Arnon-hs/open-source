@@ -1,6 +1,6 @@
 # Alegau03/CTX
 
-[![Stars](https://img.shields.io/github/stars/Alegau03/CTX?style=flat-square&color=yellow)](https://github.com/Alegau03/CTX/stargazers) [![Forks](https://img.shields.io/github/forks/Alegau03/CTX?style=flat-square&color=blue)](https://github.com/Alegau03/CTX/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Alegau03/CTX?style=flat-square&color=yellow)](https://github.com/Alegau03/CTX/stargazers) [![Forks](https://img.shields.io/github/forks/Alegau03/CTX?style=flat-square&color=blue)](https://github.com/Alegau03/CTX/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > CTX - Context Runtime Engine for Coding Agents
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 59 |
-| 🍴 **Forks** | 5 |
+| ⭐ **Stars** | 63 |
+| 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

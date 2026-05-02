@@ -11,7 +11,7 @@
 | 1 | [Tyrrrz/YoutubeDownloader](./tyrrrz-youtubedownloader.md) | ⭐ 14.9k | C# | 100/100 |
 | 2 | [alvr-org/ALVR](./alvr-org-alvr.md) | ⭐ 7.6k | Rust | 91/100 |
 | 3 | [jiji262/douyin-downloader](./jiji262-douyin-downloader.md) | ⭐ 7.5k | Python | 90/100 |
-| 4 | [tonhowtf/omniget](./tonhowtf-omniget.md) | ⭐ 3.1k | Rust | 76/100 |
+| 4 | [tonhowtf/omniget](./tonhowtf-omniget.md) | ⭐ 3.2k | Rust | 76/100 |
 | 5 | [apache/plc4x](./apache-plc4x.md) | ⭐ 1.6k | Java | 68/100 |
 | 6 | [danielbrendel/hortusfox-web](./danielbrendel-hortusfox-web.md) | ⭐ 1.5k | PHP | 62/100 |
 | 7 | [museofficial/muse](./museofficial-muse.md) | ⭐ 1.2k | TypeScript | 60/100 |
@@ -20,7 +20,7 @@
 | 10 | [maaslalani/sheets](./maaslalani-sheets.md) | ⭐ 2.2k | Go | 56/100 |
 | 11 | [nowork-studio/toprank](./nowork-studio-toprank.md) | ⭐ 1.6k | Python | 54/100 |
 | 12 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 519 | PHP | 54/100 |
-| 13 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 626 | C# | 53/100 |
+| 13 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 627 | C# | 53/100 |
 | 14 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 15 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 52/100 |
 | 16 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 967 | TypeScript | 52/100 |

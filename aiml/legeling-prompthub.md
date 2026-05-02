@@ -1,6 +1,6 @@
 # legeling/PromptHub
 
-[![Stars](https://img.shields.io/github/stars/legeling/PromptHub?style=flat-square&color=yellow)](https://github.com/legeling/PromptHub/stargazers) [![Forks](https://img.shields.io/github/forks/legeling/PromptHub?style=flat-square&color=blue)](https://github.com/legeling/PromptHub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/legeling/PromptHub?style=flat-square&color=yellow)](https://github.com/legeling/PromptHub/stargazers) [![Forks](https://img.shields.io/github/forks/legeling/PromptHub?style=flat-square&color=blue)](https://github.com/legeling/PromptHub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 一款开源、纯本地 Prompt ，Skill 管理工具，帮助你高效管理、版本控制和复用 Prompt，并一键分发skill | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

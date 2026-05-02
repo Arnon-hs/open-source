@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/formulahendry/acp-ui?style=flat-square&color=yellow)](https://github.com/formulahendry/acp-ui/stargazers) [![Forks](https://img.shields.io/github/forks/formulahendry/acp-ui?style=flat-square&color=blue)](https://github.com/formulahendry/acp-ui/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> A modern, cross-platform client for the Agent Client Protocol (ACP) on desktop and mobile — connect to any ACP-compatible AI agent (Claude, Codex, Copilot, Qwen, Gemini, OpenCode, OpenClaw and more)
+> A modern, cross-platform client for the Agent Client Protocol (ACP) on desktop, mobile, and the web — connect to any ACP-compatible AI agent (Claude, Codex, Copilot, Qwen, Gemini, OpenCode, OpenClaw and more)
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 209 |
+| ⭐ **Stars** | 210 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 46/100 |

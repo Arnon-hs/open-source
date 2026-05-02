@@ -1,6 +1,6 @@
 # antoniandre/wave-ui
 
-[![Stars](https://img.shields.io/github/stars/antoniandre/wave-ui?style=flat-square&color=yellow)](https://github.com/antoniandre/wave-ui/stargazers) [![Forks](https://img.shields.io/github/forks/antoniandre/wave-ui?style=flat-square&color=blue)](https://github.com/antoniandre/wave-ui/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antoniandre/wave-ui?style=flat-square&color=yellow)](https://github.com/antoniandre/wave-ui/stargazers) [![Forks](https://img.shields.io/github/forks/antoniandre/wave-ui?style=flat-square&color=blue)](https://github.com/antoniandre/wave-ui/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A UI framework for Vue.js 3 (and 2) with only the bright side. ☀️
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 562 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

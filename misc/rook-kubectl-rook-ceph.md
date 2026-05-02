@@ -1,6 +1,6 @@
 # rook/kubectl-rook-ceph
 
-[![Stars](https://img.shields.io/github/stars/rook/kubectl-rook-ceph?style=flat-square&color=yellow)](https://github.com/rook/kubectl-rook-ceph/stargazers) [![Forks](https://img.shields.io/github/forks/rook/kubectl-rook-ceph?style=flat-square&color=blue)](https://github.com/rook/kubectl-rook-ceph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rook/kubectl-rook-ceph?style=flat-square&color=yellow)](https://github.com/rook/kubectl-rook-ceph/stargazers) [![Forks](https://img.shields.io/github/forks/rook/kubectl-rook-ceph?style=flat-square&color=blue)](https://github.com/rook/kubectl-rook-ceph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Krew plugin to run kubectl commands with rook-ceph
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

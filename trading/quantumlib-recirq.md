@@ -1,6 +1,6 @@
 # quantumlib/ReCirq
 
-[![Stars](https://img.shields.io/github/stars/quantumlib/ReCirq?style=flat-square&color=yellow)](https://github.com/quantumlib/ReCirq/stargazers) [![Forks](https://img.shields.io/github/forks/quantumlib/ReCirq?style=flat-square&color=blue)](https://github.com/quantumlib/ReCirq/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quantumlib/ReCirq?style=flat-square&color=yellow)](https://github.com/quantumlib/ReCirq/stargazers) [![Forks](https://img.shields.io/github/forks/quantumlib/ReCirq?style=flat-square&color=blue)](https://github.com/quantumlib/ReCirq/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Python modules for quantum computing applications and experiments using Cirq. Research using Cirq!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

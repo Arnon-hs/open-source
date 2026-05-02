@@ -1,6 +1,6 @@
 # lucaspoffo/renet
 
-[![Stars](https://img.shields.io/github/stars/lucaspoffo/renet?style=flat-square&color=yellow)](https://github.com/lucaspoffo/renet/stargazers) [![Forks](https://img.shields.io/github/forks/lucaspoffo/renet?style=flat-square&color=blue)](https://github.com/lucaspoffo/renet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lucaspoffo/renet?style=flat-square&color=yellow)](https://github.com/lucaspoffo/renet/stargazers) [![Forks](https://img.shields.io/github/forks/lucaspoffo/renet?style=flat-square&color=blue)](https://github.com/lucaspoffo/renet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Server/Client network library for multiplayer games with authentication and connection management made with Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 905 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # WhatsApp/eqwalizer
 
-[![Stars](https://img.shields.io/github/stars/WhatsApp/eqwalizer?style=flat-square&color=yellow)](https://github.com/WhatsApp/eqwalizer/stargazers) [![Forks](https://img.shields.io/github/forks/WhatsApp/eqwalizer?style=flat-square&color=blue)](https://github.com/WhatsApp/eqwalizer/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WhatsApp/eqwalizer?style=flat-square&color=yellow)](https://github.com/WhatsApp/eqwalizer/stargazers) [![Forks](https://img.shields.io/github/forks/WhatsApp/eqwalizer?style=flat-square&color=blue)](https://github.com/WhatsApp/eqwalizer/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > A type-checker for Erlang
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 544 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # akseolabs-seo/AK-Threads-booster
 
-[![Stars](https://img.shields.io/github/stars/akseolabs-seo/AK-Threads-booster?style=flat-square&color=yellow)](https://github.com/akseolabs-seo/AK-Threads-booster/stargazers) [![Forks](https://img.shields.io/github/forks/akseolabs-seo/AK-Threads-booster?style=flat-square&color=blue)](https://github.com/akseolabs-seo/AK-Threads-booster/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akseolabs-seo/AK-Threads-booster?style=flat-square&color=yellow)](https://github.com/akseolabs-seo/AK-Threads-booster/stargazers) [![Forks](https://img.shields.io/github/forks/akseolabs-seo/AK-Threads-booster?style=flat-square&color=blue)](https://github.com/akseolabs-seo/AK-Threads-booster/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > AK體 · 數據驅動的 Threads 寫文決策系統。用你的歷史貼文、演算法與社媒心理學，協助選題、起草、發文前診斷、表現預估與復盤。Data-driven Threads writing advisor — topic selection, drafting, diagnosis, prediction & review based on your own post history.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 194 |
-| 🍴 **Forks** | 176 |
+| 🍴 **Forks** | 177 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

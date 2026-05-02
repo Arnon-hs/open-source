@@ -1,6 +1,6 @@
 # tombelieber/claude-view
 
-[![Stars](https://img.shields.io/github/stars/tombelieber/claude-view?style=flat-square&color=yellow)](https://github.com/tombelieber/claude-view/stargazers) [![Forks](https://img.shields.io/github/forks/tombelieber/claude-view?style=flat-square&color=blue)](https://github.com/tombelieber/claude-view/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tombelieber/claude-view?style=flat-square&color=yellow)](https://github.com/tombelieber/claude-view/stargazers) [![Forks](https://img.shields.io/github/forks/tombelieber/claude-view?style=flat-square&color=blue)](https://github.com/tombelieber/claude-view/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 10 Claude sessions running. What are they doing? Live dashboard — monitor, cost tracking, search, sub-agent visibility.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # tolkonepiu/best-of-mcp-servers
 
-[![Stars](https://img.shields.io/github/stars/tolkonepiu/best-of-mcp-servers?style=flat-square&color=yellow)](https://github.com/tolkonepiu/best-of-mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/tolkonepiu/best-of-mcp-servers?style=flat-square&color=blue)](https://github.com/tolkonepiu/best-of-mcp-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tolkonepiu/best-of-mcp-servers?style=flat-square&color=yellow)](https://github.com/tolkonepiu/best-of-mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/tolkonepiu/best-of-mcp-servers?style=flat-square&color=blue)](https://github.com/tolkonepiu/best-of-mcp-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🏆  A ranked list of MCP servers. Updated weekly.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 72 |
-| 🍴 **Forks** | 57 |
+| 🍴 **Forks** | 59 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # hyper-mcp-rs/hyper-mcp
 
-[![Stars](https://img.shields.io/github/stars/hyper-mcp-rs/hyper-mcp?style=flat-square&color=yellow)](https://github.com/hyper-mcp-rs/hyper-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/hyper-mcp-rs/hyper-mcp?style=flat-square&color=blue)](https://github.com/hyper-mcp-rs/hyper-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyper-mcp-rs/hyper-mcp?style=flat-square&color=yellow)](https://github.com/hyper-mcp-rs/hyper-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/hyper-mcp-rs/hyper-mcp?style=flat-square&color=blue)](https://github.com/hyper-mcp-rs/hyper-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 873 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

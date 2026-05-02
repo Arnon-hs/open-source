@@ -1,6 +1,6 @@
 # TheWinci/mimirs
 
-[![Stars](https://img.shields.io/github/stars/TheWinci/mimirs?style=flat-square&color=yellow)](https://github.com/TheWinci/mimirs/stargazers) [![Forks](https://img.shields.io/github/forks/TheWinci/mimirs?style=flat-square&color=blue)](https://github.com/TheWinci/mimirs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheWinci/mimirs?style=flat-square&color=yellow)](https://github.com/TheWinci/mimirs/stargazers) [![Forks](https://img.shields.io/github/forks/TheWinci/mimirs?style=flat-square&color=blue)](https://github.com/TheWinci/mimirs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Local MCP server that gives AI coding agents persistent, searchable memory of your codebase
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

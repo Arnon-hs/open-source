@@ -1,6 +1,6 @@
 # ChiR24/Unreal_mcp
 
-[![Stars](https://img.shields.io/github/stars/ChiR24/Unreal_mcp?style=flat-square&color=yellow)](https://github.com/ChiR24/Unreal_mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ChiR24/Unreal_mcp?style=flat-square&color=blue)](https://github.com/ChiR24/Unreal_mcp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChiR24/Unreal_mcp?style=flat-square&color=yellow)](https://github.com/ChiR24/Unreal_mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ChiR24/Unreal_mcp?style=flat-square&color=blue)](https://github.com/ChiR24/Unreal_mcp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive Model Context Protocol (MCP) server that enables AI assistants to control Unreal Engine through the native C++ Automation Bridge plugin. Built with TypeScript and C++.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 571 |
-| 🍴 **Forks** | 99 |
+| ⭐ **Stars** | 572 |
+| 🍴 **Forks** | 100 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

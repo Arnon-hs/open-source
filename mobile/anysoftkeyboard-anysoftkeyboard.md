@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/AnySoftKeyboard/AnySoftKeyboard?style=flat-square&color=yellow)](https://github.com/AnySoftKeyboard/AnySoftKeyboard/stargazers) [![Forks](https://img.shields.io/github/forks/AnySoftKeyboard/AnySoftKeyboard?style=flat-square&color=blue)](https://github.com/AnySoftKeyboard/AnySoftKeyboard/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
-> Android (f/w 2.1+) on screen keyboard for multiple languages.
+> Android on screen keyboard for multiple languages and NO internet access
 
 ## 📊 Stats
 

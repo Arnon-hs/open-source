@@ -1,6 +1,6 @@
 # bufbuild/protocompile
 
-[![Stars](https://img.shields.io/github/stars/bufbuild/protocompile?style=flat-square&color=yellow)](https://github.com/bufbuild/protocompile/stargazers) [![Forks](https://img.shields.io/github/forks/bufbuild/protocompile?style=flat-square&color=blue)](https://github.com/bufbuild/protocompile/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bufbuild/protocompile?style=flat-square&color=yellow)](https://github.com/bufbuild/protocompile/stargazers) [![Forks](https://img.shields.io/github/forks/bufbuild/protocompile?style=flat-square&color=blue)](https://github.com/bufbuild/protocompile/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A parsing/linking engine for protobuf; the guts for a pure Go replacement of protoc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

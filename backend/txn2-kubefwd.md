@@ -1,6 +1,6 @@
 # txn2/kubefwd
 
-[![Stars](https://img.shields.io/github/stars/txn2/kubefwd?style=flat-square&color=yellow)](https://github.com/txn2/kubefwd/stargazers) [![Forks](https://img.shields.io/github/forks/txn2/kubefwd?style=flat-square&color=blue)](https://github.com/txn2/kubefwd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/txn2/kubefwd?style=flat-square&color=yellow)](https://github.com/txn2/kubefwd/stargazers) [![Forks](https://img.shields.io/github/forks/txn2/kubefwd?style=flat-square&color=blue)](https://github.com/txn2/kubefwd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Bulk port forwarding Kubernetes services for local development.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

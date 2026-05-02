@@ -1,6 +1,6 @@
 # facebook/fboss
 
-[![Stars](https://img.shields.io/github/stars/facebook/fboss?style=flat-square&color=yellow)](https://github.com/facebook/fboss/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/fboss?style=flat-square&color=blue)](https://github.com/facebook/fboss/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/fboss?style=flat-square&color=yellow)](https://github.com/facebook/fboss/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/fboss?style=flat-square&color=blue)](https://github.com/facebook/fboss/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Facebook Open Switching System  Software for controlling network switches.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 964 |
+| ⭐ **Stars** | 965 |
 | 🍴 **Forks** | 383 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

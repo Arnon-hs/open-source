@@ -1,6 +1,6 @@
 # Tuxemon/Tuxemon
 
-[![Stars](https://img.shields.io/github/stars/Tuxemon/Tuxemon?style=flat-square&color=yellow)](https://github.com/Tuxemon/Tuxemon/stargazers) [![Forks](https://img.shields.io/github/forks/Tuxemon/Tuxemon?style=flat-square&color=blue)](https://github.com/Tuxemon/Tuxemon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tuxemon/Tuxemon?style=flat-square&color=yellow)](https://github.com/Tuxemon/Tuxemon/stargazers) [![Forks](https://img.shields.io/github/forks/Tuxemon/Tuxemon?style=flat-square&color=blue)](https://github.com/Tuxemon/Tuxemon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Open source monster-fighting RPG.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 224 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # bquenin/interpreter
 
-[![Stars](https://img.shields.io/github/stars/bquenin/interpreter?style=flat-square&color=yellow)](https://github.com/bquenin/interpreter/stargazers) [![Forks](https://img.shields.io/github/forks/bquenin/interpreter?style=flat-square&color=blue)](https://github.com/bquenin/interpreter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bquenin/interpreter?style=flat-square&color=yellow)](https://github.com/bquenin/interpreter/stargazers) [![Forks](https://img.shields.io/github/forks/bquenin/interpreter?style=flat-square&color=blue)](https://github.com/bquenin/interpreter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > This application can translate text captured from any application running on your computer.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 690 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

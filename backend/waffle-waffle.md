@@ -1,6 +1,6 @@
 # Waffle/waffle
 
-[![Stars](https://img.shields.io/github/stars/Waffle/waffle?style=flat-square&color=yellow)](https://github.com/Waffle/waffle/stargazers) [![Forks](https://img.shields.io/github/forks/Waffle/waffle?style=flat-square&color=blue)](https://github.com/Waffle/waffle/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Waffle/waffle?style=flat-square&color=yellow)](https://github.com/Waffle/waffle/stargazers) [![Forks](https://img.shields.io/github/forks/Waffle/waffle?style=flat-square&color=blue)](https://github.com/Waffle/waffle/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Enable drop-in Windows Single Sign On for popular Java web servers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 503 |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

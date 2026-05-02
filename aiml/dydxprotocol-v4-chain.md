@@ -1,6 +1,6 @@
 # dydxprotocol/v4-chain
 
-[![Stars](https://img.shields.io/github/stars/dydxprotocol/v4-chain?style=flat-square&color=yellow)](https://github.com/dydxprotocol/v4-chain/stargazers) [![Forks](https://img.shields.io/github/forks/dydxprotocol/v4-chain?style=flat-square&color=blue)](https://github.com/dydxprotocol/v4-chain/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dydxprotocol/v4-chain?style=flat-square&color=yellow)](https://github.com/dydxprotocol/v4-chain/stargazers) [![Forks](https://img.shields.io/github/forks/dydxprotocol/v4-chain?style=flat-square&color=blue)](https://github.com/dydxprotocol/v4-chain/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > dydx v4 protocol
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

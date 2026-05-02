@@ -1,6 +1,6 @@
 # asdf-vm/asdf-elixir
 
-[![Stars](https://img.shields.io/github/stars/asdf-vm/asdf-elixir?style=flat-square&color=yellow)](https://github.com/asdf-vm/asdf-elixir/stargazers) [![Forks](https://img.shields.io/github/forks/asdf-vm/asdf-elixir?style=flat-square&color=blue)](https://github.com/asdf-vm/asdf-elixir/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asdf-vm/asdf-elixir?style=flat-square&color=yellow)](https://github.com/asdf-vm/asdf-elixir/stargazers) [![Forks](https://img.shields.io/github/forks/asdf-vm/asdf-elixir?style=flat-square&color=blue)](https://github.com/asdf-vm/asdf-elixir/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Elixir plugin for asdf version manager
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 521 |
+| ⭐ **Stars** | 523 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 471 |
-| 🍴 **Forks** | 46 |
+| ⭐ **Stars** | 489 |
+| 🍴 **Forks** | 49 |
 | 💻 **Language** | Roff |
 | 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |

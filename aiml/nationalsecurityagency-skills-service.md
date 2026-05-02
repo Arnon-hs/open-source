@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 564 |
-| 🍴 **Forks** | 122 |
+| 🍴 **Forks** | 121 |
 | 💻 **Language** | Groovy |
 | 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |

@@ -1,6 +1,6 @@
 # paulmach/osm
 
-[![Stars](https://img.shields.io/github/stars/paulmach/osm?style=flat-square&color=yellow)](https://github.com/paulmach/osm/stargazers) [![Forks](https://img.shields.io/github/forks/paulmach/osm?style=flat-square&color=blue)](https://github.com/paulmach/osm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paulmach/osm?style=flat-square&color=yellow)](https://github.com/paulmach/osm/stargazers) [![Forks](https://img.shields.io/github/forks/paulmach/osm?style=flat-square&color=blue)](https://github.com/paulmach/osm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > General purpose library for reading, writing and working with OpenStreetMap data
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 452 |
+| ⭐ **Stars** | 453 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

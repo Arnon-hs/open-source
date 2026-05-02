@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/WorkSmartAI-alt/ai-visibility-monitor?style=flat-square&color=yellow)](https://github.com/WorkSmartAI-alt/ai-visibility-monitor/stargazers) [![Forks](https://img.shields.io/github/forks/WorkSmartAI-alt/ai-visibility-monitor?style=flat-square&color=blue)](https://github.com/WorkSmartAI-alt/ai-visibility-monitor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> Track whether ChatGPT, Claude, Perplexity, and Gemini are citing your site, and figure out what to do about it. Built for solo operators and lean teams. Built by Work-Smart.ai.
+> Most tools tell you if AI cites you. This tells you which queries you can win and what to make.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Marketing
+AI/ML · Marketing
 
 ## 📝 Summary
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/NickCirv/engram?style=flat-square&color=yellow)](https://github.com/NickCirv/engram/stargazers) [![Forks](https://img.shields.io/github/forks/NickCirv/engram?style=flat-square&color=blue)](https://github.com/NickCirv/engram/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> The context spine that 10x's every AI coding session. Works in Claude Code, Cursor, Cline, Continue, Aider, Codex, Windsurf, Zed. 89.1% measured token reduction. Bi-temporal mistakes. Local SQLite, zero cloud, Apache 2.0.
+> The context spine that 10x's every AI coding session. Live in 8 IDEs (Claude Code, Cursor, Cline, Continue, Aider, Codex, Windsurf, Zed) via npm + OpenVSX + Anthropic plugin directory. 89% measured token reduction. Local SQLite, zero cloud, Apache 2.0.
 
 ## 📊 Stats
 

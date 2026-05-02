@@ -1,6 +1,6 @@
 # Harry-kp/vortix
 
-[![Stars](https://img.shields.io/github/stars/Harry-kp/vortix?style=flat-square&color=yellow)](https://github.com/Harry-kp/vortix/stargazers) [![Forks](https://img.shields.io/github/forks/Harry-kp/vortix?style=flat-square&color=blue)](https://github.com/Harry-kp/vortix/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Harry-kp/vortix?style=flat-square&color=yellow)](https://github.com/Harry-kp/vortix/stargazers) [![Forks](https://img.shields.io/github/forks/Harry-kp/vortix?style=flat-square&color=blue)](https://github.com/Harry-kp/vortix/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

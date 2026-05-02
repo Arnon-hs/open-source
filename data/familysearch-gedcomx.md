@@ -1,6 +1,6 @@
 # FamilySearch/gedcomx
 
-[![Stars](https://img.shields.io/github/stars/FamilySearch/gedcomx?style=flat-square&color=yellow)](https://github.com/FamilySearch/gedcomx/stargazers) [![Forks](https://img.shields.io/github/forks/FamilySearch/gedcomx?style=flat-square&color=blue)](https://github.com/FamilySearch/gedcomx/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FamilySearch/gedcomx?style=flat-square&color=yellow)](https://github.com/FamilySearch/gedcomx/stargazers) [![Forks](https://img.shields.io/github/forks/FamilySearch/gedcomx?style=flat-square&color=blue)](https://github.com/FamilySearch/gedcomx/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > An open data model and an open serialization format for exchanging genealogical data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 384 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

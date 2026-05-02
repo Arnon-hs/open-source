@@ -1,6 +1,6 @@
 # dosco/graphjin
 
-[![Stars](https://img.shields.io/github/stars/dosco/graphjin?style=flat-square&color=yellow)](https://github.com/dosco/graphjin/stargazers) [![Forks](https://img.shields.io/github/forks/dosco/graphjin?style=flat-square&color=blue)](https://github.com/dosco/graphjin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dosco/graphjin?style=flat-square&color=yellow)](https://github.com/dosco/graphjin/stargazers) [![Forks](https://img.shields.io/github/forks/dosco/graphjin?style=flat-square&color=blue)](https://github.com/dosco/graphjin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > GraphJin - An Automagical Compiler to Connect AI to Your Databases
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 186 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # rlops/rlix
 
-[![Stars](https://img.shields.io/github/stars/rlops/rlix?style=flat-square&color=yellow)](https://github.com/rlops/rlix/stargazers) [![Forks](https://img.shields.io/github/forks/rlops/rlix?style=flat-square&color=blue)](https://github.com/rlops/rlix/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rlops/rlix?style=flat-square&color=yellow)](https://github.com/rlops/rlix/stargazers) [![Forks](https://img.shields.io/github/forks/rlops/rlix?style=flat-square&color=blue)](https://github.com/rlops/rlix/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Run more RL experiments. Wait less for GPUs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 276 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

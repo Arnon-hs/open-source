@@ -1,6 +1,6 @@
 # modxcms/revolution
 
-[![Stars](https://img.shields.io/github/stars/modxcms/revolution?style=flat-square&color=yellow)](https://github.com/modxcms/revolution/stargazers) [![Forks](https://img.shields.io/github/forks/modxcms/revolution?style=flat-square&color=blue)](https://github.com/modxcms/revolution/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modxcms/revolution?style=flat-square&color=yellow)](https://github.com/modxcms/revolution/stargazers) [![Forks](https://img.shields.io/github/forks/modxcms/revolution?style=flat-square&color=blue)](https://github.com/modxcms/revolution/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MODX Revolution - Content Management Framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 529 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

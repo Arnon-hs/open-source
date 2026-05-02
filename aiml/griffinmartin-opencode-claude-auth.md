@@ -1,6 +1,6 @@
 # griffinmartin/opencode-claude-auth
 
-[![Stars](https://img.shields.io/github/stars/griffinmartin/opencode-claude-auth?style=flat-square&color=yellow)](https://github.com/griffinmartin/opencode-claude-auth/stargazers) [![Forks](https://img.shields.io/github/forks/griffinmartin/opencode-claude-auth?style=flat-square&color=blue)](https://github.com/griffinmartin/opencode-claude-auth/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/griffinmartin/opencode-claude-auth?style=flat-square&color=yellow)](https://github.com/griffinmartin/opencode-claude-auth/stargazers) [![Forks](https://img.shields.io/github/forks/griffinmartin/opencode-claude-auth?style=flat-square&color=blue)](https://github.com/griffinmartin/opencode-claude-auth/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 948 |
-| 🍴 **Forks** | 124 |
+| 🍴 **Forks** | 125 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

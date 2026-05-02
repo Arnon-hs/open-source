@@ -1,6 +1,6 @@
 # kubernetes-sigs/cluster-api-addon-provider-helm
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/cluster-api-addon-provider-helm?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/cluster-api-addon-provider-helm?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/cluster-api-addon-provider-helm?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/cluster-api-addon-provider-helm?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > CAAPH uses Helm charts to manage the installation and lifecycle of Cluster API add-ons.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 177 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

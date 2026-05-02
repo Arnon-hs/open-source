@@ -1,6 +1,6 @@
 # iotaledger/identity
 
-[![Stars](https://img.shields.io/github/stars/iotaledger/identity?style=flat-square&color=yellow)](https://github.com/iotaledger/identity/stargazers) [![Forks](https://img.shields.io/github/forks/iotaledger/identity?style=flat-square&color=blue)](https://github.com/iotaledger/identity/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iotaledger/identity?style=flat-square&color=yellow)](https://github.com/iotaledger/identity/stargazers) [![Forks](https://img.shields.io/github/forks/iotaledger/identity?style=flat-square&color=blue)](https://github.com/iotaledger/identity/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Implementation of the Decentralized Identity standards such as DID and Verifiable Credentials by W3C for the IOTA MoveVM.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 348 |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

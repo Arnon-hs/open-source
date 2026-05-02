@@ -1,6 +1,6 @@
 # jnMetaCode/ai-coding-guide
 
-[![Stars](https://img.shields.io/github/stars/jnMetaCode/ai-coding-guide?style=flat-square&color=yellow)](https://github.com/jnMetaCode/ai-coding-guide/stargazers) [![Forks](https://img.shields.io/github/forks/jnMetaCode/ai-coding-guide?style=flat-square&color=blue)](https://github.com/jnMetaCode/ai-coding-guide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jnMetaCode/ai-coding-guide?style=flat-square&color=yellow)](https://github.com/jnMetaCode/ai-coding-guide/stargazers) [![Forks](https://img.shields.io/github/forks/jnMetaCode/ai-coding-guide?style=flat-square&color=blue)](https://github.com/jnMetaCode/ai-coding-guide/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > AI 编程工具实战指南 — 66 个 Claude Code 技巧 + 9 款工具最佳实践 + 可复制配置模板 | AI Coding Tools Guide with 66 Claude Code tips
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 27 |
-| 💻 **Language** | HTML |
+| 💻 **Language** | JavaScript |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

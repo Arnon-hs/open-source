@@ -1,6 +1,6 @@
 # EstebanForge/construct-cli
 
-[![Stars](https://img.shields.io/github/stars/EstebanForge/construct-cli?style=flat-square&color=yellow)](https://github.com/EstebanForge/construct-cli/stargazers) [![Forks](https://img.shields.io/github/forks/EstebanForge/construct-cli?style=flat-square&color=blue)](https://github.com/EstebanForge/construct-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EstebanForge/construct-cli?style=flat-square&color=yellow)](https://github.com/EstebanForge/construct-cli/stargazers) [![Forks](https://img.shields.io/github/forks/EstebanForge/construct-cli?style=flat-square&color=blue)](https://github.com/EstebanForge/construct-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > The secure loading program (sandbox) for AI Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

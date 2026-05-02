@@ -1,6 +1,6 @@
 # linearis-oss/linearis
 
-[![Stars](https://img.shields.io/github/stars/linearis-oss/linearis?style=flat-square&color=yellow)](https://github.com/linearis-oss/linearis/stargazers) [![Forks](https://img.shields.io/github/forks/linearis-oss/linearis?style=flat-square&color=blue)](https://github.com/linearis-oss/linearis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linearis-oss/linearis?style=flat-square&color=yellow)](https://github.com/linearis-oss/linearis/stargazers) [![Forks](https://img.shields.io/github/forks/linearis-oss/linearis?style=flat-square&color=blue)](https://github.com/linearis-oss/linearis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool for Linear.app with JSON output, smart ID resolution, and optimized GraphQL queries. Designed for LLM agents and humans who prefer structured data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 190 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/Caldis/react-zmage?style=flat-square&color=yellow)](https://github.com/Caldis/react-zmage/stargazers) [![Forks](https://img.shields.io/github/forks/Caldis/react-zmage?style=flat-square&color=blue)](https://github.com/Caldis/react-zmage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
-> 一个基于 React 的可缩放图片控件 | A scalable image wrapper power by react
+> Turn any <img> into an origin-expand fullscreen React image viewer.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 925 |
+| ⭐ **Stars** | 926 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |

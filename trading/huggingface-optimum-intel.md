@@ -1,6 +1,6 @@
 # huggingface/optimum-intel
 
-[![Stars](https://img.shields.io/github/stars/huggingface/optimum-intel?style=flat-square&color=yellow)](https://github.com/huggingface/optimum-intel/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/optimum-intel?style=flat-square&color=blue)](https://github.com/huggingface/optimum-intel/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/optimum-intel?style=flat-square&color=yellow)](https://github.com/huggingface/optimum-intel/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/optimum-intel?style=flat-square&color=blue)](https://github.com/huggingface/optimum-intel/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🤗 Optimum Intel: Accelerate inference with Intel optimization tools
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 578 |
-| 🍴 **Forks** | 230 |
+| 🍴 **Forks** | 231 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

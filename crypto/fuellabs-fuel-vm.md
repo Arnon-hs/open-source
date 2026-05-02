@@ -1,6 +1,6 @@
 # FuelLabs/fuel-vm
 
-[![Stars](https://img.shields.io/github/stars/FuelLabs/fuel-vm?style=flat-square&color=yellow)](https://github.com/FuelLabs/fuel-vm/stargazers) [![Forks](https://img.shields.io/github/forks/FuelLabs/fuel-vm?style=flat-square&color=blue)](https://github.com/FuelLabs/fuel-vm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FuelLabs/fuel-vm?style=flat-square&color=yellow)](https://github.com/FuelLabs/fuel-vm/stargazers) [![Forks](https://img.shields.io/github/forks/FuelLabs/fuel-vm?style=flat-square&color=blue)](https://github.com/FuelLabs/fuel-vm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Fuel v2 interpreter in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

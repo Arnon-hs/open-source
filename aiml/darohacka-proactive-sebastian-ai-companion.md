@@ -1,8 +1,8 @@
 # DaroHacka/proactive-sebastian-ai-companion
 
-[![Stars](https://img.shields.io/github/stars/DaroHacka/proactive-sebastian-ai-companion?style=flat-square&color=yellow)](https://github.com/DaroHacka/proactive-sebastian-ai-companion/stargazers) [![Forks](https://img.shields.io/github/forks/DaroHacka/proactive-sebastian-ai-companion?style=flat-square&color=blue)](https://github.com/DaroHacka/proactive-sebastian-ai-companion/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DaroHacka/proactive-sebastian-ai-companion?style=flat-square&color=yellow)](https://github.com/DaroHacka/proactive-sebastian-ai-companion/stargazers) [![Forks](https://img.shields.io/github/forks/DaroHacka/proactive-sebastian-ai-companion?style=flat-square&color=blue)](https://github.com/DaroHacka/proactive-sebastian-ai-companion/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Sebastian Proactive is a lightweight, local‑first AI companion designed to initiate interactions instead of waiting for prompts. It runs entirely on your machine through Ollama and uses a modular library system, a probabilistic selector, and a proactive scheduler to generate context‑aware messages at configurable intervals.
 
 ## 📊 Stats
 
@@ -10,8 +10,8 @@
 |---|---|
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Frontend · Design
 
 ## 📝 Summary
 
