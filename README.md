@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14843** |
+| 🗂️ **Total projects** | **14889** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5559 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3026 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1452 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1100 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 913 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 5573 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3046 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1458 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1101 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 914 | [Browse →](./backend/) |
 | 🔧 **DevTools** | 888 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 516 | [Browse →](./crypto/) |
-| 📊 **Data** | 337 | [Browse →](./data/) |
+| 📊 **Data** | 339 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 321 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 197 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 198 | [Browse →](./mobile/) |
 | 💳 **Payments** | 159 | [Browse →](./payments/) |
-| 📈 **Trading** | 150 | [Browse →](./trading/) |
+| 📈 **Trading** | 151 | [Browse →](./trading/) |
 | 🔐 **Security** | 120 | [Browse →](./security/) |
 | ✨ **Design** | 48 | [Browse →](./design/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
@@ -44,11 +44,11 @@
 | 3 | [luanti-org/luanti](./devtools/luanti-org-luanti.md) | ⭐ 12.8k | DevTools |
 | 4 | [The-PR-Agent/pr-agent](./aiml/the-pr-agent-pr-agent.md) | ⭐ 11.1k | AI/ML |
 | 5 | [ImageMagick/ImageMagick](./frontend/imagemagick-imagemagick.md) | ⭐ 16.3k | Frontend |
-| 6 | [google/comprehensive-rust](./aiml/google-comprehensive-rust.md) | ⭐ 32.9k | AI/ML |
-| 7 | [nats-io/nats-server](./aiml/nats-io-nats-server.md) | ⭐ 19.7k | AI/ML |
-| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 9 | [redisson/redisson](./frontend/redisson-redisson.md) | ⭐ 24.3k | Frontend |
-| 10 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25k | Design |
+| 6 | [laurent22/joplin](./frontend/laurent22-joplin.md) | ⭐ 54.6k | Frontend |
+| 7 | [google/comprehensive-rust](./aiml/google-comprehensive-rust.md) | ⭐ 32.9k | AI/ML |
+| 8 | [nats-io/nats-server](./aiml/nats-io-nats-server.md) | ⭐ 19.7k | AI/ML |
+| 9 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 10 | [redisson/redisson](./frontend/redisson-redisson.md) | ⭐ 24.3k | Frontend |
 
 ## 🚀 How it works
 
