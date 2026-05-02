@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-BLTS (Better Living Through Statistics) is an open-source project that aims to make monitoring more enjoyable and efficient. It provides a flexible and customizable framework for collecting and visualizing data, allowing users to create tailored solutions for their specific needs. With BLTS, users can break free from the constraints of traditional monitoring tools and create a more streamlined approach to data analysis.
+The blts project aims to simplify and improve the experience of monitoring and statistics across various applications, making it easier to track and analyze data. By providing a more user-friendly approach to monitoring, blts seeks to enhance productivity and overall user experience. This open-source initiative strives to make statistics and monitoring accessible and enjoyable.
 
 ---
 

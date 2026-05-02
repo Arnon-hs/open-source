@@ -1,6 +1,6 @@
 # dapr/java-sdk
 
-[![Stars](https://img.shields.io/github/stars/dapr/java-sdk?style=flat-square&color=yellow)](https://github.com/dapr/java-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/dapr/java-sdk?style=flat-square&color=blue)](https://github.com/dapr/java-sdk/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dapr/java-sdk?style=flat-square&color=yellow)](https://github.com/dapr/java-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/dapr/java-sdk?style=flat-square&color=blue)](https://github.com/dapr/java-sdk/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Dapr SDK for Java
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 297 |
 | 🍴 **Forks** | 227 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Celer is a lightweight, open-source C/C++ package manager that utilizes TOML configuration files to manage C/C++ libraries. This tool streamlines the process of installing, updating, and managing dependencies for AI/ML applications. By relying on TOML, Celer provides a simple and efficient way to manage C/C++ packages.
+Celer is an open-source, lightweight C/C++ package manager that simplifies library management using TOML configuration files. By leveraging TOML, Celer streamlines the process of installing, updating, and managing C/C++ libraries, making it an ideal solution for developers working in the AI/ML space. Its minimalistic approach ensures efficient and hassle-free dependency management.
 
 ---
 

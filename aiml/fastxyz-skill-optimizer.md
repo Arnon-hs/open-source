@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The fastxyz/skill-optimizer project is an open-source tool designed to benchmark and automatically optimize SDK/CLI/MCP guidance, ensuring reliable performance across various agent models. This optimization enables developers to leverage their tools more efficiently, streamlining their workflows and reducing potential issues. By providing a self-optimizing solution, the project enhances the overall performance and usability of AI/ML, frontend, and DevTools applications.
+The fastxyz/skill-optimizer project is an open-source tool designed to benchmark and optimize SDK/CLI/MCP guidance for reliable use with agent models. This project aims to ensure seamless integration and performance across various AI/ML applications. By self-optimizing guidance, it enables developers to harness the full potential of their tools.
 
 ---
 

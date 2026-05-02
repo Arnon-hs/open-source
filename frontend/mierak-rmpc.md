@@ -1,6 +1,6 @@
 # mierak/rmpc
 
-[![Stars](https://img.shields.io/github/stars/mierak/rmpc?style=flat-square&color=yellow)](https://github.com/mierak/rmpc/stargazers) [![Forks](https://img.shields.io/github/forks/mierak/rmpc?style=flat-square&color=blue)](https://github.com/mierak/rmpc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mierak/rmpc?style=flat-square&color=yellow)](https://github.com/mierak/rmpc/stargazers) [![Forks](https://img.shields.io/github/forks/mierak/rmpc?style=flat-square&color=blue)](https://github.com/mierak/rmpc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

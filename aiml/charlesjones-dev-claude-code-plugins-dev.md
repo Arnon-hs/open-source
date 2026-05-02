@@ -1,6 +1,6 @@
 # charlesjones-dev/claude-code-plugins-dev
 
-[![Stars](https://img.shields.io/github/stars/charlesjones-dev/claude-code-plugins-dev?style=flat-square&color=yellow)](https://github.com/charlesjones-dev/claude-code-plugins-dev/stargazers) [![Forks](https://img.shields.io/github/forks/charlesjones-dev/claude-code-plugins-dev?style=flat-square&color=blue)](https://github.com/charlesjones-dev/claude-code-plugins-dev/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/charlesjones-dev/claude-code-plugins-dev?style=flat-square&color=yellow)](https://github.com/charlesjones-dev/claude-code-plugins-dev/stargazers) [![Forks](https://img.shields.io/github/forks/charlesjones-dev/claude-code-plugins-dev?style=flat-square&color=blue)](https://github.com/charlesjones-dev/claude-code-plugins-dev/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered plugins that streamline your entire development workflow in Claude Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

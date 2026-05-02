@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14081** |
+| 🗂️ **Total projects** | **14117** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,13 +18,13 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5310 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2833 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1370 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1052 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 864 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 837 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 492 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 5323 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2841 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1374 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1056 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 866 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 841 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 493 | [Browse →](./crypto/) |
 | 📊 **Data** | 322 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 310 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 177 | [Browse →](./mobile/) |
@@ -45,10 +45,10 @@
 | 4 | [reflex-dev/reflex](./frontend/reflex-dev-reflex.md) | ⭐ 28.4k | Frontend |
 | 5 | [DIYgod/RSSHub](./misc/diygod-rsshub.md) | ⭐ 43.8k | Misc |
 | 6 | [foundry-rs/foundry](./crypto/foundry-rs-foundry.md) | ⭐ 10.3k | Crypto |
-| 7 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 8 | [zalando/postgres-operator](./data/zalando-postgres-operator.md) | ⭐ 5.1k | Data |
-| 9 | [DarkFlippers/unleashed-firmware](./aiml/darkflippers-unleashed-firmware.md) | ⭐ 21.5k | AI/ML |
-| 10 | [getsentry/self-hosted](./aiml/getsentry-self-hosted.md) | ⭐ 9.3k | AI/ML |
+| 7 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 14.9k | AI/ML |
+| 8 | [m1k1o/neko](./frontend/m1k1o-neko.md) | ⭐ 20.7k | Frontend |
+| 9 | [glpi-project/glpi](./data/glpi-project-glpi.md) | ⭐ 5.8k | Data |
+| 10 | [lsdefine/GenericAgent](./crypto/lsdefine-genericagent.md) | ⭐ 8.6k | Crypto |
 
 ## 🚀 How it works
 

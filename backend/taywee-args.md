@@ -1,6 +1,6 @@
 # Taywee/args
 
-[![Stars](https://img.shields.io/github/stars/Taywee/args?style=flat-square&color=yellow)](https://github.com/Taywee/args/stargazers) [![Forks](https://img.shields.io/github/forks/Taywee/args?style=flat-square&color=blue)](https://github.com/Taywee/args/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Taywee/args?style=flat-square&color=yellow)](https://github.com/Taywee/args/stargazers) [![Forks](https://img.shields.io/github/forks/Taywee/args?style=flat-square&color=blue)](https://github.com/Taywee/args/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

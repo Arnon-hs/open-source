@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-MemHub is an open-source project that enables users to visualize their Large Language Model (LLM) history, including interactions with GPT, Claude, and Gemini, in a mind map format. This innovative tool allows users to explore and organize their model interactions, providing valuable insights into their knowledge and usage patterns. By converting LLM history into a visual mind map, MemHub facilitates a more intuitive and engaging learning experience.
+MemHub is an open-source project that transforms the conversation histories of large language models (LLMs) like GPT, Claude, and Gemini into a visual mindmap. This interactive map provides a unique insight into how these models think and respond to various topics, essentially creating a wiki-style knowledge repository. By leveraging these models' conversation histories, MemHub aims to facilitate a deeper understanding of their inner workings and knowledge structures.
 
 ---
 

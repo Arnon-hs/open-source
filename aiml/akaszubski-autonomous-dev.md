@@ -1,6 +1,6 @@
 # akaszubski/autonomous-dev
 
-[![Stars](https://img.shields.io/github/stars/akaszubski/autonomous-dev?style=flat-square&color=yellow)](https://github.com/akaszubski/autonomous-dev/stargazers) [![Forks](https://img.shields.io/github/forks/akaszubski/autonomous-dev?style=flat-square&color=blue)](https://github.com/akaszubski/autonomous-dev/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akaszubski/autonomous-dev?style=flat-square&color=yellow)](https://github.com/akaszubski/autonomous-dev/stargazers) [![Forks](https://img.shields.io/github/forks/akaszubski/autonomous-dev?style=flat-square&color=blue)](https://github.com/akaszubski/autonomous-dev/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready Claude Code 2.0 setup for autonomous development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

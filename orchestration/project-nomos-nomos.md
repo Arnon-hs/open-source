@@ -25,7 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The open-source project "Nomos" allows users to create a self-hosted AI digital clone that learns and acts on their behalf, utilizing persistent vector memory and multi-agent teams. With over 60 skills, smart model routing, and support for multiple messaging platforms, Nomos offers a comprehensive AI solution for personal assistance and automation. This decentralized, encrypted, and multi-provider system provides users with a secure and customizable way to deploy their AI digital clone across various platforms.
+Here's a brief summary of the project:
+
+Nomos is an open-source AI digital clone that learns about its user and acts on their behalf, remembering everything and possessing over 60 skills. This self-hosted, encrypted platform leverages persistent vector memory and multi-agent teams to provide smart model routing and multi-provider support. With Nomos, users can deploy their AI clone to various communication platforms such as Slack, Discord, and WhatsApp in just minutes.
 
 ---
 

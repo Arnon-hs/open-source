@@ -1,6 +1,6 @@
 # nickel-lang/nickel
 
-[![Stars](https://img.shields.io/github/stars/nickel-lang/nickel?style=flat-square&color=yellow)](https://github.com/nickel-lang/nickel/stargazers) [![Forks](https://img.shields.io/github/forks/nickel-lang/nickel?style=flat-square&color=blue)](https://github.com/nickel-lang/nickel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nickel-lang/nickel?style=flat-square&color=yellow)](https://github.com/nickel-lang/nickel/stargazers) [![Forks](https://img.shields.io/github/forks/nickel-lang/nickel?style=flat-square&color=blue)](https://github.com/nickel-lang/nickel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Better configuration for less
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

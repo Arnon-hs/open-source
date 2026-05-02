@@ -1,6 +1,6 @@
 # apache/commons-compress
 
-[![Stars](https://img.shields.io/github/stars/apache/commons-compress?style=flat-square&color=yellow)](https://github.com/apache/commons-compress/stargazers) [![Forks](https://img.shields.io/github/forks/apache/commons-compress?style=flat-square&color=blue)](https://github.com/apache/commons-compress/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/commons-compress?style=flat-square&color=yellow)](https://github.com/apache/commons-compress/stargazers) [![Forks](https://img.shields.io/github/forks/apache/commons-compress?style=flat-square&color=blue)](https://github.com/apache/commons-compress/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Commons Compress
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 394 |
 | 🍴 **Forks** | 308 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The dav-server-rs library is an open-source Rust implementation of a WebDAV server. Based on the webdav-handler crate, this project provides a flexible and customizable backend solution for WebDAV functionality, allowing developers to create robust and scalable WebDAV servers. It is specifically designed to meet the needs of developers working with Rust and WebDAV.
+The messense/dav-server-rs project is a Rust-based library that provides a WebDAV server implementation, ideal for creating robust backend solutions. This open-source library serves as a fork of the webdav-handler crate, offering enhanced functionality and flexibility. It enables developers to build scalable and secure WebDAV servers with ease.
 
 ---
 

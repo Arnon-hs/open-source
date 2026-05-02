@@ -1,6 +1,6 @@
 # microsoft/fabric-rti-mcp
 
-[![Stars](https://img.shields.io/github/stars/microsoft/fabric-rti-mcp?style=flat-square&color=yellow)](https://github.com/microsoft/fabric-rti-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/fabric-rti-mcp?style=flat-square&color=blue)](https://github.com/microsoft/fabric-rti-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/fabric-rti-mcp?style=flat-square&color=yellow)](https://github.com/microsoft/fabric-rti-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/fabric-rti-mcp?style=flat-square&color=blue)](https://github.com/microsoft/fabric-rti-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Fabric Real-Time Intelligence (https://aka.ms/fabricrti) supporting tools for Eventhouse (https://aka.ms/eventhouse), Azure Data Explorer (https://aka.ms/adx, and other RTI services (coming soon)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

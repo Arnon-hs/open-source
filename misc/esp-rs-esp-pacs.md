@@ -1,6 +1,6 @@
 # esp-rs/esp-pacs
 
-[![Stars](https://img.shields.io/github/stars/esp-rs/esp-pacs?style=flat-square&color=yellow)](https://github.com/esp-rs/esp-pacs/stargazers) [![Forks](https://img.shields.io/github/forks/esp-rs/esp-pacs?style=flat-square&color=blue)](https://github.com/esp-rs/esp-pacs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/esp-rs/esp-pacs?style=flat-square&color=yellow)](https://github.com/esp-rs/esp-pacs/stargazers) [![Forks](https://img.shields.io/github/forks/esp-rs/esp-pacs?style=flat-square&color=blue)](https://github.com/esp-rs/esp-pacs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Peripheral Access Crates for Espressif SoCs and modules
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

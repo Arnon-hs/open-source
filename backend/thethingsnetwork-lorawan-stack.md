@@ -1,6 +1,6 @@
 # TheThingsNetwork/lorawan-stack
 
-[![Stars](https://img.shields.io/github/stars/TheThingsNetwork/lorawan-stack?style=flat-square&color=yellow)](https://github.com/TheThingsNetwork/lorawan-stack/stargazers) [![Forks](https://img.shields.io/github/forks/TheThingsNetwork/lorawan-stack?style=flat-square&color=blue)](https://github.com/TheThingsNetwork/lorawan-stack/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheThingsNetwork/lorawan-stack?style=flat-square&color=yellow)](https://github.com/TheThingsNetwork/lorawan-stack/stargazers) [![Forks](https://img.shields.io/github/forks/TheThingsNetwork/lorawan-stack?style=flat-square&color=blue)](https://github.com/TheThingsNetwork/lorawan-stack/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The Things Stack, an Open Source LoRaWAN Network Server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 350 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

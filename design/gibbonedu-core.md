@@ -1,6 +1,6 @@
 # GibbonEdu/core
 
-[![Stars](https://img.shields.io/github/stars/GibbonEdu/core?style=flat-square&color=yellow)](https://github.com/GibbonEdu/core/stargazers) [![Forks](https://img.shields.io/github/forks/GibbonEdu/core?style=flat-square&color=blue)](https://github.com/GibbonEdu/core/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GibbonEdu/core?style=flat-square&color=yellow)](https://github.com/GibbonEdu/core/stargazers) [![Forks](https://img.shields.io/github/forks/GibbonEdu/core?style=flat-square&color=blue)](https://github.com/GibbonEdu/core/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Gibbon is a flexible, open source school management platform designed to make life better for teachers, students, parents and leaders.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 602 |
 | 🍴 **Forks** | 406 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

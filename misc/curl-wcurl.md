@@ -1,6 +1,6 @@
 # curl/wcurl
 
-[![Stars](https://img.shields.io/github/stars/curl/wcurl?style=flat-square&color=yellow)](https://github.com/curl/wcurl/stargazers) [![Forks](https://img.shields.io/github/forks/curl/wcurl?style=flat-square&color=blue)](https://github.com/curl/wcurl/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/curl/wcurl?style=flat-square&color=yellow)](https://github.com/curl/wcurl/stargazers) [![Forks](https://img.shields.io/github/forks/curl/wcurl?style=flat-square&color=blue)](https://github.com/curl/wcurl/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > a simple wrapper around curl to easily download files
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 500 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

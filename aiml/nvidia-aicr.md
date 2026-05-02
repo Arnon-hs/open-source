@@ -1,6 +1,6 @@
 # NVIDIA/aicr
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/aicr?style=flat-square&color=yellow)](https://github.com/NVIDIA/aicr/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/aicr?style=flat-square&color=blue)](https://github.com/NVIDIA/aicr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/aicr?style=flat-square&color=yellow)](https://github.com/NVIDIA/aicr/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/aicr?style=flat-square&color=blue)](https://github.com/NVIDIA/aicr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 279 |
-| 🍴 **Forks** | 36 |
+| 🍴 **Forks** | 37 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

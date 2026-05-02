@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The oxide-and-friends project is an open-source initiative that provides show notes from the Oxide and Friends podcast recordings. This collection of notes offers a convenient reference for listeners to revisit key points, insights, and discussions from the episodes. By making the content easily accessible, the project aims to foster a deeper engagement and understanding of the topics discussed.
+The oxide-and-friends project is an open-source repository that hosts show notes from Oxide and Friends, a series of recordings that likely feature conversations, discussions, or interviews on various topics. The repository provides a centralized location for accessing and referencing the show notes from these recordings. It is a community-driven resource for users to review and engage with the content.
 
 ---
 

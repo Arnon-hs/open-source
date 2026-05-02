@@ -1,8 +1,8 @@
 # ahmadvh/octochains
 
-[![Stars](https://img.shields.io/github/stars/ahmadvh/octochains?style=flat-square&color=yellow)](https://github.com/ahmadvh/octochains/stargazers) [![Forks](https://img.shields.io/github/forks/ahmadvh/octochains?style=flat-square&color=blue)](https://github.com/ahmadvh/octochains/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahmadvh/octochains?style=flat-square&color=yellow)](https://github.com/ahmadvh/octochains/stargazers) [![Forks](https://img.shields.io/github/forks/ahmadvh/octochains?style=flat-square&color=blue)](https://github.com/ahmadvh/octochains/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> A lightweight Python framework for Parallel AI Reasoning.
+> A lightweight, zero-dependency Python framework for parallel, isolated, collaborative AI reasoning.
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 317 |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The HEMTT project is an open-source build system designed for Arma 3, a popular tactical military simulation game. This system aims to streamline the process of creating and managing game modifications, providing developers with a flexible and efficient tool for building and deploying their projects. By leveraging the HEMTT build system, users can simplify their development workflow and focus on creating high-quality game content.
+The HEMTT project is an open-source build system for Arma 3, designed to simplify the process of creating and managing game modifications. Developed by BrettMayson, this frontend-focused tool aims to streamline development workflows and enhance collaboration among modding communities. With HEMTT, users can efficiently build, test, and deploy their Arma 3 modifications.
 
 ---
 

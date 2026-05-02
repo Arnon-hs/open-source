@@ -1,6 +1,6 @@
 # Cuprate/cuprate
 
-[![Stars](https://img.shields.io/github/stars/Cuprate/cuprate?style=flat-square&color=yellow)](https://github.com/Cuprate/cuprate/stargazers) [![Forks](https://img.shields.io/github/forks/Cuprate/cuprate?style=flat-square&color=blue)](https://github.com/Cuprate/cuprate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cuprate/cuprate?style=flat-square&color=yellow)](https://github.com/Cuprate/cuprate/stargazers) [![Forks](https://img.shields.io/github/forks/Cuprate/cuprate?style=flat-square&color=blue)](https://github.com/Cuprate/cuprate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Cuprate, a modular Monero node written in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 362 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

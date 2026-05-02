@@ -1,6 +1,6 @@
 # dry-rb/dry-cli
 
-[![Stars](https://img.shields.io/github/stars/dry-rb/dry-cli?style=flat-square&color=yellow)](https://github.com/dry-rb/dry-cli/stargazers) [![Forks](https://img.shields.io/github/forks/dry-rb/dry-cli?style=flat-square&color=blue)](https://github.com/dry-rb/dry-cli/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dry-rb/dry-cli?style=flat-square&color=yellow)](https://github.com/dry-rb/dry-cli/stargazers) [![Forks](https://img.shields.io/github/forks/dry-rb/dry-cli?style=flat-square&color=blue)](https://github.com/dry-rb/dry-cli/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > General purpose Command Line Interface (CLI) framework for Ruby
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

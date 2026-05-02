@@ -1,6 +1,6 @@
 # mercari/grpc-federation
 
-[![Stars](https://img.shields.io/github/stars/mercari/grpc-federation?style=flat-square&color=yellow)](https://github.com/mercari/grpc-federation/stargazers) [![Forks](https://img.shields.io/github/forks/mercari/grpc-federation?style=flat-square&color=blue)](https://github.com/mercari/grpc-federation/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mercari/grpc-federation?style=flat-square&color=yellow)](https://github.com/mercari/grpc-federation/stargazers) [![Forks](https://img.shields.io/github/forks/mercari/grpc-federation?style=flat-square&color=blue)](https://github.com/mercari/grpc-federation/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > gRPC Federation generates a gRPC server by writing a custom option in Protocol Buffers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 380 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

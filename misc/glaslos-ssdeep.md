@@ -1,6 +1,6 @@
 # glaslos/ssdeep
 
-[![Stars](https://img.shields.io/github/stars/glaslos/ssdeep?style=flat-square&color=yellow)](https://github.com/glaslos/ssdeep/stargazers) [![Forks](https://img.shields.io/github/forks/glaslos/ssdeep?style=flat-square&color=blue)](https://github.com/glaslos/ssdeep/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/glaslos/ssdeep?style=flat-square&color=yellow)](https://github.com/glaslos/ssdeep/stargazers) [![Forks](https://img.shields.io/github/forks/glaslos/ssdeep?style=flat-square&color=blue)](https://github.com/glaslos/ssdeep/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > SSDEEP hash lib in Golang
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # sandlbn/ultimate64-manager
 
-[![Stars](https://img.shields.io/github/stars/sandlbn/ultimate64-manager?style=flat-square&color=yellow)](https://github.com/sandlbn/ultimate64-manager/stargazers) [![Forks](https://img.shields.io/github/forks/sandlbn/ultimate64-manager?style=flat-square&color=blue)](https://github.com/sandlbn/ultimate64-manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sandlbn/ultimate64-manager?style=flat-square&color=yellow)](https://github.com/sandlbn/ultimate64-manager/stargazers) [![Forks](https://img.shields.io/github/forks/sandlbn/ultimate64-manager?style=flat-square&color=blue)](https://github.com/sandlbn/ultimate64-manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop application for managing Commodore 64 Ultimate, Ultimate64 and Ultimate-II+ devices
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 140 |
+| ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

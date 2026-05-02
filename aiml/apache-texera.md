@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Apache Texera is an open-source project that enables human-AI collaboration in data science through visual workflows. By providing a platform for seamless integration of data, machine learning, and human expertise, Texera empowers users to build, deploy, and manage data science workflows efficiently. This collaborative approach streamlines data science processes, reducing complexity and enhancing productivity.
+The apache/texera project is an open-source initiative that empowers human-AI collaboration in data science through visual workflows. It aims to streamline the data science process by enabling users to design, execute, and visualize data pipelines with the help of AI-driven tools. By leveraging the power of both humans and AI, texera facilitates efficient and effective data analysis.
 
 ---
 

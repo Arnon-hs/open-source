@@ -1,6 +1,6 @@
 # projectcontour/contour
 
-[![Stars](https://img.shields.io/github/stars/projectcontour/contour?style=flat-square&color=yellow)](https://github.com/projectcontour/contour/stargazers) [![Forks](https://img.shields.io/github/forks/projectcontour/contour?style=flat-square&color=blue)](https://github.com/projectcontour/contour/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/projectcontour/contour?style=flat-square&color=yellow)](https://github.com/projectcontour/contour/stargazers) [![Forks](https://img.shields.io/github/forks/projectcontour/contour?style=flat-square&color=blue)](https://github.com/projectcontour/contour/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Contour is a Kubernetes ingress controller using Envoy proxy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 711 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

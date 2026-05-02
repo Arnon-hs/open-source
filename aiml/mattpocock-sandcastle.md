@@ -1,6 +1,6 @@
 # mattpocock/sandcastle
 
-[![Stars](https://img.shields.io/github/stars/mattpocock/sandcastle?style=flat-square&color=yellow)](https://github.com/mattpocock/sandcastle/stargazers) [![Forks](https://img.shields.io/github/forks/mattpocock/sandcastle?style=flat-square&color=blue)](https://github.com/mattpocock/sandcastle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattpocock/sandcastle?style=flat-square&color=yellow)](https://github.com/mattpocock/sandcastle/stargazers) [![Forks](https://img.shields.io/github/forks/mattpocock/sandcastle?style=flat-square&color=blue)](https://github.com/mattpocock/sandcastle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 228 |
+| 🍴 **Forks** | 232 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

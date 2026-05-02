@@ -1,6 +1,6 @@
 # ComposioHQ/awesome-claude-plugins
 
-[![Stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-plugins?style=flat-square&color=yellow)](https://github.com/ComposioHQ/awesome-claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/ComposioHQ/awesome-claude-plugins?style=flat-square&color=blue)](https://github.com/ComposioHQ/awesome-claude-plugins/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-plugins?style=flat-square&color=yellow)](https://github.com/ComposioHQ/awesome-claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/ComposioHQ/awesome-claude-plugins?style=flat-square&color=blue)](https://github.com/ComposioHQ/awesome-claude-plugins/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 358 |
+| 🍴 **Forks** | 359 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

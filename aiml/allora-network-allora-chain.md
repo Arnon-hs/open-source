@@ -1,6 +1,6 @@
 # allora-network/allora-chain
 
-[![Stars](https://img.shields.io/github/stars/allora-network/allora-chain?style=flat-square&color=yellow)](https://github.com/allora-network/allora-chain/stargazers) [![Forks](https://img.shields.io/github/forks/allora-network/allora-chain?style=flat-square&color=blue)](https://github.com/allora-network/allora-chain/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/allora-network/allora-chain?style=flat-square&color=yellow)](https://github.com/allora-network/allora-chain/stargazers) [![Forks](https://img.shields.io/github/forks/allora-network/allora-chain?style=flat-square&color=blue)](https://github.com/allora-network/allora-chain/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > node of the decentralized oracle network, bridging present and future computation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

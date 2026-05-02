@@ -1,6 +1,6 @@
 # petereon/beaupy
 
-[![Stars](https://img.shields.io/github/stars/petereon/beaupy?style=flat-square&color=yellow)](https://github.com/petereon/beaupy/stargazers) [![Forks](https://img.shields.io/github/forks/petereon/beaupy?style=flat-square&color=blue)](https://github.com/petereon/beaupy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/petereon/beaupy?style=flat-square&color=yellow)](https://github.com/petereon/beaupy/stargazers) [![Forks](https://img.shields.io/github/forks/petereon/beaupy?style=flat-square&color=blue)](https://github.com/petereon/beaupy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A Python library of interactive CLI elements you have been looking for
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 236 |
+| ⭐ **Stars** | 237 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

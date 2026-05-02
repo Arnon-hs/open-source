@@ -1,6 +1,6 @@
 # in-toto/attestation
 
-[![Stars](https://img.shields.io/github/stars/in-toto/attestation?style=flat-square&color=yellow)](https://github.com/in-toto/attestation/stargazers) [![Forks](https://img.shields.io/github/forks/in-toto/attestation?style=flat-square&color=blue)](https://github.com/in-toto/attestation/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/in-toto/attestation?style=flat-square&color=yellow)](https://github.com/in-toto/attestation/stargazers) [![Forks](https://img.shields.io/github/forks/in-toto/attestation?style=flat-square&color=blue)](https://github.com/in-toto/attestation/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > in-toto Attestation Framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 333 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

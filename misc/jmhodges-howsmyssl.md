@@ -1,6 +1,6 @@
 # jmhodges/howsmyssl
 
-[![Stars](https://img.shields.io/github/stars/jmhodges/howsmyssl?style=flat-square&color=yellow)](https://github.com/jmhodges/howsmyssl/stargazers) [![Forks](https://img.shields.io/github/forks/jmhodges/howsmyssl?style=flat-square&color=blue)](https://github.com/jmhodges/howsmyssl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jmhodges/howsmyssl?style=flat-square&color=yellow)](https://github.com/jmhodges/howsmyssl/stargazers) [![Forks](https://img.shields.io/github/forks/jmhodges/howsmyssl?style=flat-square&color=blue)](https://github.com/jmhodges/howsmyssl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > The web app running howsmyssl.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 351 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

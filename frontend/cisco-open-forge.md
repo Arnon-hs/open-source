@@ -1,6 +1,6 @@
 # cisco-open/forge
 
-[![Stars](https://img.shields.io/github/stars/cisco-open/forge?style=flat-square&color=yellow)](https://github.com/cisco-open/forge/stargazers) [![Forks](https://img.shields.io/github/forks/cisco-open/forge?style=flat-square&color=blue)](https://github.com/cisco-open/forge/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cisco-open/forge?style=flat-square&color=yellow)](https://github.com/cisco-open/forge/stargazers) [![Forks](https://img.shields.io/github/forks/cisco-open/forge?style=flat-square&color=blue)](https://github.com/cisco-open/forge/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > ForgeMT is a secure, scalable GitHub Actions runner platform for ephemeral workloads. Designed for multi-tenant environments, it automates isolated runner provisioning on Kubernetes or EC2, with built-in OIDC, IAM, cost optimization, and deep observability.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 202 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | HCL |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

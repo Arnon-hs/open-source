@@ -1,6 +1,6 @@
 # microsoft/iq-series
 
-[![Stars](https://img.shields.io/github/stars/microsoft/iq-series?style=flat-square&color=yellow)](https://github.com/microsoft/iq-series/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/iq-series?style=flat-square&color=blue)](https://github.com/microsoft/iq-series/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/iq-series?style=flat-square&color=yellow)](https://github.com/microsoft/iq-series/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/iq-series?style=flat-square&color=blue)](https://github.com/microsoft/iq-series/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The IQ Series is a hands-on learning experience for Microsoft IQ: Microsoft's unified intelligence layer for the enterprise, spanning Foundry IQ, Work IQ, and Fabric IQ. The series includes video episodes, Jupyter notebooks, and Azure deployment templates.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 147 |
+| ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

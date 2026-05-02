@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The Miosa-osa/OSA project is an open-source, Elixir/OTP-based system agent designed to maximize signal, eliminate noise, and find the optimal path across various aspects of code, work, and life. As a locally running alternative to OpenClaw, OSA aims to provide efficient orchestration and AI/ML capabilities. This project offers a powerful tool for developers and professionals seeking to streamline their workflow and optimize their productivity.
+The Miosa-osa/OSA project is an open-source, locally-run AI system built on Elixir/OTP that aims to maximize efficiency and productivity. As an optimal system agent, OSA eliminates noise, finds the optimal path, and optimizes signals across various aspects of code, work, and life. This project serves as a potential alternative to OpenClaw, offering a customizable solution for orchestration, AI/ML, and DevTools.
 
 ---
 

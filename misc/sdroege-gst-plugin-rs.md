@@ -1,6 +1,6 @@
 # sdroege/gst-plugin-rs
 
-[![Stars](https://img.shields.io/github/stars/sdroege/gst-plugin-rs?style=flat-square&color=yellow)](https://github.com/sdroege/gst-plugin-rs/stargazers) [![Forks](https://img.shields.io/github/forks/sdroege/gst-plugin-rs?style=flat-square&color=blue)](https://github.com/sdroege/gst-plugin-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sdroege/gst-plugin-rs?style=flat-square&color=yellow)](https://github.com/sdroege/gst-plugin-rs/stargazers) [![Forks](https://img.shields.io/github/forks/sdroege/gst-plugin-rs?style=flat-square&color=blue)](https://github.com/sdroege/gst-plugin-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Rust crate for writing GStreamer plugins and various plugins - This repository moved to https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,7 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the WebDecoy/FCaptcha project:
-
-WebDecoy/FCaptcha is a self-hosted, open-source security solution that uses advanced behavioral signals and proof-of-work mechanisms to detect and prevent bot traffic, vision AI agents, and headless browsers. This privacy-first approach offers robust protection against automated threats without compromising user data. By leveraging 40+ behavioral signals, WebDecoy/FCaptcha provides a comprehensive defense against malicious traffic.
+WebDecoy/FCaptcha is an open-source, self-hosted security project that detects and prevents bots, vision AI agents, and headless browsers from accessing your website. Using over 40 behavioral signals and a SHA-256 proof of work, this project provides a robust and privacy-first solution for securing your online applications. By leveraging AI and machine learning techniques, WebDecoy/FCaptcha helps maintain the integrity and security of your website.
 
 ---
 

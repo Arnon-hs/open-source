@@ -1,6 +1,6 @@
 # Warp-net/warpnet
 
-[![Stars](https://img.shields.io/github/stars/Warp-net/warpnet?style=flat-square&color=yellow)](https://github.com/Warp-net/warpnet/stargazers) [![Forks](https://img.shields.io/github/forks/Warp-net/warpnet?style=flat-square&color=blue)](https://github.com/Warp-net/warpnet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Warp-net/warpnet?style=flat-square&color=yellow)](https://github.com/Warp-net/warpnet/stargazers) [![Forks](https://img.shields.io/github/forks/Warp-net/warpnet?style=flat-square&color=blue)](https://github.com/Warp-net/warpnet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Warpnet is a decentralized, peer-to-peer social network inspired by Twitter, built with Go. It runs without central servers, using Noise protocol for inter-node communication and built-in local storage. Warpnet is censorship-resistant, scalable, and fully open-source.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

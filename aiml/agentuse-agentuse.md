@@ -1,6 +1,6 @@
 # agentuse/agentuse
 
-[![Stars](https://img.shields.io/github/stars/agentuse/agentuse?style=flat-square&color=yellow)](https://github.com/agentuse/agentuse/stargazers) [![Forks](https://img.shields.io/github/forks/agentuse/agentuse?style=flat-square&color=blue)](https://github.com/agentuse/agentuse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentuse/agentuse?style=flat-square&color=yellow)](https://github.com/agentuse/agentuse/stargazers) [![Forks](https://img.shields.io/github/forks/agentuse/agentuse?style=flat-square&color=blue)](https://github.com/agentuse/agentuse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 AI agents on autopilot. Any model. Runs local, cron, CI/CD, or Docker.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

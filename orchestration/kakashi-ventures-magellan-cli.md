@@ -1,6 +1,6 @@
 # kakashi-ventures/magellan-cli
 
-[![Stars](https://img.shields.io/github/stars/kakashi-ventures/magellan-cli?style=flat-square&color=yellow)](https://github.com/kakashi-ventures/magellan-cli/stargazers) [![Forks](https://img.shields.io/github/forks/kakashi-ventures/magellan-cli?style=flat-square&color=blue)](https://github.com/kakashi-ventures/magellan-cli/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kakashi-ventures/magellan-cli?style=flat-square&color=yellow)](https://github.com/kakashi-ventures/magellan-cli/stargazers) [![Forks](https://img.shields.io/github/forks/kakashi-ventures/magellan-cli?style=flat-square&color=blue)](https://github.com/kakashi-ventures/magellan-cli/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI experiment in cross-disciplinary scientific discovery. Can a multi-agent system autonomously find real scientific connections that humans haven't made yet? This project tests that question.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

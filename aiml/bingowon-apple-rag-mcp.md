@@ -1,6 +1,6 @@
 # BingoWon/apple-rag-mcp
 
-[![Stars](https://img.shields.io/github/stars/BingoWon/apple-rag-mcp?style=flat-square&color=yellow)](https://github.com/BingoWon/apple-rag-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/BingoWon/apple-rag-mcp?style=flat-square&color=blue)](https://github.com/BingoWon/apple-rag-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BingoWon/apple-rag-mcp?style=flat-square&color=yellow)](https://github.com/BingoWon/apple-rag-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/BingoWon/apple-rag-mcp?style=flat-square&color=blue)](https://github.com/BingoWon/apple-rag-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 >  MCP server providing AI agents with instant access to Apple developer documentation via RAG
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

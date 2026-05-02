@@ -1,6 +1,6 @@
 # ZalithLauncher/ZalithLauncher2
 
-[![Stars](https://img.shields.io/github/stars/ZalithLauncher/ZalithLauncher2?style=flat-square&color=yellow)](https://github.com/ZalithLauncher/ZalithLauncher2/stargazers) [![Forks](https://img.shields.io/github/forks/ZalithLauncher/ZalithLauncher2?style=flat-square&color=blue)](https://github.com/ZalithLauncher/ZalithLauncher2/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZalithLauncher/ZalithLauncher2?style=flat-square&color=yellow)](https://github.com/ZalithLauncher/ZalithLauncher2/stargazers) [![Forks](https://img.shields.io/github/forks/ZalithLauncher/ZalithLauncher2?style=flat-square&color=blue)](https://github.com/ZalithLauncher/ZalithLauncher2/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A Minecraft: Java Edition Launcher for Android
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 119 |
+| 🍴 **Forks** | 120 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

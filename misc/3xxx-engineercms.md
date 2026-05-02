@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the 3xxx/engineercms project:
+Here's a brief summary for the open-source project "3xxx/engineercms":
 
-Engineercms is an open-source, web-based knowledge management system designed specifically for civil engineers and construction professionals. Built with Go (using the Beego framework) and supporting distributed file storage via MinIO, the platform enables users to manage project files, share documents with password protection, and collaborate on documents in real-time. The system also includes a mobile app and allows users to create and read e-books, as well as view PDF files.
+Engineercms is an open-source knowledge management system designed for civil engineers, built using the Golang language and Beego framework. It supports distributed file storage with MinIO clusters and offers features such as encrypted file sharing, real-time document collaboration, and online book creation. The platform also has a mobile app and a WeChat mini program, making it easily accessible for users on-the-go.
 
 ---
 

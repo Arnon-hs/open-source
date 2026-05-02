@@ -1,6 +1,6 @@
 # stx-labs/clarinet
 
-[![Stars](https://img.shields.io/github/stars/stx-labs/clarinet?style=flat-square&color=yellow)](https://github.com/stx-labs/clarinet/stargazers) [![Forks](https://img.shields.io/github/forks/stx-labs/clarinet?style=flat-square&color=blue)](https://github.com/stx-labs/clarinet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stx-labs/clarinet?style=flat-square&color=yellow)](https://github.com/stx-labs/clarinet/stargazers) [![Forks](https://img.shields.io/github/forks/stx-labs/clarinet?style=flat-square&color=blue)](https://github.com/stx-labs/clarinet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Write, test and deploy high-quality smart contracts to the Stacks blockchain and Bitcoin.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 354 |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

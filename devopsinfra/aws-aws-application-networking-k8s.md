@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The aws/aws-application-networking-k8s project is an open-source Kubernetes controller that enables seamless integration with Amazon VPC Lattice, a service mesh for Amazon Web Services (AWS). This controller simplifies the management of application networking in Kubernetes environments, providing a scalable and secure way to connect microservices. By leveraging AWS VPC Lattice, developers can focus on building applications without worrying about complex network configurations.
+The aws-application-networking-k8s project is an open-source Kubernetes controller that enables the management of Amazon VPC Lattice environments within a Kubernetes cluster. This controller provides a bridge between Kubernetes and Amazon VPC Lattice, allowing for seamless integration and automation of network policies and configurations. By leveraging this project, users can simplify the deployment and management of their application networks on Amazon Web Services (AWS).
 
 ---
 

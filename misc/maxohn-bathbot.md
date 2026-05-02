@@ -1,6 +1,6 @@
 # MaxOhn/Bathbot
 
-[![Stars](https://img.shields.io/github/stars/MaxOhn/Bathbot?style=flat-square&color=yellow)](https://github.com/MaxOhn/Bathbot/stargazers) [![Forks](https://img.shields.io/github/forks/MaxOhn/Bathbot?style=flat-square&color=blue)](https://github.com/MaxOhn/Bathbot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MaxOhn/Bathbot?style=flat-square&color=yellow)](https://github.com/MaxOhn/Bathbot/stargazers) [![Forks](https://img.shields.io/github/forks/MaxOhn/Bathbot?style=flat-square&color=blue)](https://github.com/MaxOhn/Bathbot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Discord bot for osu!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

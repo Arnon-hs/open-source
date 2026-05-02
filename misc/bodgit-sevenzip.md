@@ -1,6 +1,6 @@
 # bodgit/sevenzip
 
-[![Stars](https://img.shields.io/github/stars/bodgit/sevenzip?style=flat-square&color=yellow)](https://github.com/bodgit/sevenzip/stargazers) [![Forks](https://img.shields.io/github/forks/bodgit/sevenzip?style=flat-square&color=blue)](https://github.com/bodgit/sevenzip/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bodgit/sevenzip?style=flat-square&color=yellow)](https://github.com/bodgit/sevenzip/stargazers) [![Forks](https://img.shields.io/github/forks/bodgit/sevenzip?style=flat-square&color=blue)](https://github.com/bodgit/sevenzip/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Golang library for dealing with 7-zip archives
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 241 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

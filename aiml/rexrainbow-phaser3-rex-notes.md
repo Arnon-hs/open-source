@@ -1,6 +1,6 @@
 # rexrainbow/phaser3-rex-notes
 
-[![Stars](https://img.shields.io/github/stars/rexrainbow/phaser3-rex-notes?style=flat-square&color=yellow)](https://github.com/rexrainbow/phaser3-rex-notes/stargazers) [![Forks](https://img.shields.io/github/forks/rexrainbow/phaser3-rex-notes?style=flat-square&color=blue)](https://github.com/rexrainbow/phaser3-rex-notes/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rexrainbow/phaser3-rex-notes?style=flat-square&color=yellow)](https://github.com/rexrainbow/phaser3-rex-notes/stargazers) [![Forks](https://img.shields.io/github/forks/rexrainbow/phaser3-rex-notes?style=flat-square&color=blue)](https://github.com/rexrainbow/phaser3-rex-notes/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Notes of phaser3 engine
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 267 |
+| 🍴 **Forks** | 268 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

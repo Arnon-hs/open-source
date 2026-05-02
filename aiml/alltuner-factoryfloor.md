@@ -1,6 +1,6 @@
 # alltuner/factoryfloor
 
-[![Stars](https://img.shields.io/github/stars/alltuner/factoryfloor?style=flat-square&color=yellow)](https://github.com/alltuner/factoryfloor/stargazers) [![Forks](https://img.shields.io/github/forks/alltuner/factoryfloor?style=flat-square&color=blue)](https://github.com/alltuner/factoryfloor/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alltuner/factoryfloor?style=flat-square&color=yellow)](https://github.com/alltuner/factoryfloor/stargazers) [![Forks](https://img.shields.io/github/forks/alltuner/factoryfloor?style=flat-square&color=blue)](https://github.com/alltuner/factoryfloor/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered macOS development workspace. Git worktrees, Claude Code sessions, and dev servers in a single native app.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 94 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

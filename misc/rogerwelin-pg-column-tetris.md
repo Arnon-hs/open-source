@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16 |
+| ⭐ **Stars** | 18 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | PLpgSQL |
 | 📈 **Score** | 36/100 |

@@ -1,6 +1,6 @@
 # team-telnyx/telnyx-cli
 
-[![Stars](https://img.shields.io/github/stars/team-telnyx/telnyx-cli?style=flat-square&color=yellow)](https://github.com/team-telnyx/telnyx-cli/stargazers) [![Forks](https://img.shields.io/github/forks/team-telnyx/telnyx-cli?style=flat-square&color=blue)](https://github.com/team-telnyx/telnyx-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/team-telnyx/telnyx-cli?style=flat-square&color=yellow)](https://github.com/team-telnyx/telnyx-cli/stargazers) [![Forks](https://img.shields.io/github/forks/team-telnyx/telnyx-cli?style=flat-square&color=blue)](https://github.com/team-telnyx/telnyx-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > CLI SDK for the Telnyx API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

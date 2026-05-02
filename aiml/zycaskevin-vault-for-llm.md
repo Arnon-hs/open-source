@@ -1,6 +1,6 @@
 # zycaskevin/Vault-for-LLM
 
-[![Stars](https://img.shields.io/github/stars/zycaskevin/Vault-for-LLM?style=flat-square&color=yellow)](https://github.com/zycaskevin/Vault-for-LLM/stargazers) [![Forks](https://img.shields.io/github/forks/zycaskevin/Vault-for-LLM?style=flat-square&color=blue)](https://github.com/zycaskevin/Vault-for-LLM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zycaskevin/Vault-for-LLM?style=flat-square&color=yellow)](https://github.com/zycaskevin/Vault-for-LLM/stargazers) [![Forks](https://img.shields.io/github/forks/zycaskevin/Vault-for-LLM?style=flat-square&color=blue)](https://github.com/zycaskevin/Vault-for-LLM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 🧠 Local-first knowledge system for LLM agents — sqlite-vec + ONNX embeddings, no cloud/Docker/PyTorch dependency
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

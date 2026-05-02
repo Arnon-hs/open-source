@@ -1,6 +1,6 @@
 # containerd/ttrpc
 
-[![Stars](https://img.shields.io/github/stars/containerd/ttrpc?style=flat-square&color=yellow)](https://github.com/containerd/ttrpc/stargazers) [![Forks](https://img.shields.io/github/forks/containerd/ttrpc?style=flat-square&color=blue)](https://github.com/containerd/ttrpc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/containerd/ttrpc?style=flat-square&color=yellow)](https://github.com/containerd/ttrpc/stargazers) [![Forks](https://img.shields.io/github/forks/containerd/ttrpc?style=flat-square&color=blue)](https://github.com/containerd/ttrpc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > GRPC for low-memory environments
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # GuyMannDude/mnemo-cortex
 
-[![Stars](https://img.shields.io/github/stars/GuyMannDude/mnemo-cortex?style=flat-square&color=yellow)](https://github.com/GuyMannDude/mnemo-cortex/stargazers) [![Forks](https://img.shields.io/github/forks/GuyMannDude/mnemo-cortex?style=flat-square&color=blue)](https://github.com/GuyMannDude/mnemo-cortex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GuyMannDude/mnemo-cortex?style=flat-square&color=yellow)](https://github.com/GuyMannDude/mnemo-cortex/stargazers) [![Forks](https://img.shields.io/github/forks/GuyMannDude/mnemo-cortex?style=flat-square&color=blue)](https://github.com/GuyMannDude/mnemo-cortex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source memory coprocessor for AI agents. Persistent recall, semantic search, crash-safe capture. No hooks required.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 47 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 52 |
+| 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # heymrun/heym
 
-[![Stars](https://img.shields.io/github/stars/heymrun/heym?style=flat-square&color=yellow)](https://github.com/heymrun/heym/stargazers) [![Forks](https://img.shields.io/github/forks/heymrun/heym?style=flat-square&color=blue)](https://github.com/heymrun/heym/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heymrun/heym?style=flat-square&color=yellow)](https://github.com/heymrun/heym/stargazers) [![Forks](https://img.shields.io/github/forks/heymrun/heym?style=flat-square&color=blue)](https://github.com/heymrun/heym/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI workflow automation platform with visual canvas, agents, RAG, HITL, MCP, and observability in one runtime.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49 |
+| ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
