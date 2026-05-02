@@ -1,6 +1,6 @@
 # AISquare-Studio/awesome-aisquare
 
-[![Stars](https://img.shields.io/github/stars/AISquare-Studio/awesome-aisquare?style=flat-square&color=yellow)](https://github.com/AISquare-Studio/awesome-aisquare/stargazers) [![Forks](https://img.shields.io/github/forks/AISquare-Studio/awesome-aisquare?style=flat-square&color=blue)](https://github.com/AISquare-Studio/awesome-aisquare/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AISquare-Studio/awesome-aisquare?style=flat-square&color=yellow)](https://github.com/AISquare-Studio/awesome-aisquare/stargazers) [![Forks](https://img.shields.io/github/forks/AISquare-Studio/awesome-aisquare?style=flat-square&color=blue)](https://github.com/AISquare-Studio/awesome-aisquare/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > The front door to AISquare open source. Governance, debugging, and audit trails for AI agents — because "it just works" isn't an answer your compliance team accepts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

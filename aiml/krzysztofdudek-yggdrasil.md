@@ -1,6 +1,6 @@
 # krzysztofdudek/Yggdrasil
 
-[![Stars](https://img.shields.io/github/stars/krzysztofdudek/Yggdrasil?style=flat-square&color=yellow)](https://github.com/krzysztofdudek/Yggdrasil/stargazers) [![Forks](https://img.shields.io/github/forks/krzysztofdudek/Yggdrasil?style=flat-square&color=blue)](https://github.com/krzysztofdudek/Yggdrasil/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krzysztofdudek/Yggdrasil?style=flat-square&color=yellow)](https://github.com/krzysztofdudek/Yggdrasil/stargazers) [![Forks](https://img.shields.io/github/forks/krzysztofdudek/Yggdrasil?style=flat-square&color=blue)](https://github.com/krzysztofdudek/Yggdrasil/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Architecture enforcement for AI coding agents. You write rules in plain Markdown; a reviewer verifies every change the agent makes and feeds violations back into the agent's loop — before it moves on. Works with Claude Code, Cursor, Copilot, Codex, Cline, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

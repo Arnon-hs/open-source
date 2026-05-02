@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-"aaaaxy" is an open-source, nonlinear 2D puzzle platformer that challenges players to navigate impossible spaces. This project combines elements of puzzle-solving and platforming to create a unique gaming experience. By examining the code and gameplay, developers can gain insights into creating immersive and mind-bending puzzle games.
+The divVerent/aaaaxy project is an open-source nonlinear 2D puzzle platformer that challenges players to navigate through impossible spaces. This game features complex, mind-bending levels that require strategic thinking to overcome obstacles and progress through the game. As an open-source project, aaaaxy offers developers a unique opportunity to explore and contribute to the game's design and mechanics.
 
 ---
 

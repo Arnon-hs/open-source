@@ -1,6 +1,6 @@
 # zoharbabin/google-researcher-mcp
 
-[![Stars](https://img.shields.io/github/stars/zoharbabin/google-researcher-mcp?style=flat-square&color=yellow)](https://github.com/zoharbabin/google-researcher-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/zoharbabin/google-researcher-mcp?style=flat-square&color=blue)](https://github.com/zoharbabin/google-researcher-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zoharbabin/google-researcher-mcp?style=flat-square&color=yellow)](https://github.com/zoharbabin/google-researcher-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/zoharbabin/google-researcher-mcp?style=flat-square&color=blue)](https://github.com/zoharbabin/google-researcher-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > This is a Model Context Protocol (MCP) server that enables AI assistants like Claude, GPT, and other LLMs to:  Search the web via Google (general, images, news) Read any webpage including JavaScript-rendered sites Extract YouTube transcripts automatically Parse documents (PDF, DOCX, PPTX)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

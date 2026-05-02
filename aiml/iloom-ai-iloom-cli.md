@@ -1,6 +1,6 @@
 # iloom-ai/iloom-cli
 
-[![Stars](https://img.shields.io/github/stars/iloom-ai/iloom-cli?style=flat-square&color=yellow)](https://github.com/iloom-ai/iloom-cli/stargazers) [![Forks](https://img.shields.io/github/forks/iloom-ai/iloom-cli?style=flat-square&color=blue)](https://github.com/iloom-ai/iloom-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iloom-ai/iloom-cli?style=flat-square&color=yellow)](https://github.com/iloom-ai/iloom-cli/stargazers) [![Forks](https://img.shields.io/github/forks/iloom-ai/iloom-cli?style=flat-square&color=blue)](https://github.com/iloom-ai/iloom-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > iloom: a developer workflow system delivered as a CLI and a VS Code extension for structured AI-assisted development. The CLI is the system of record, running tasks in isolated workflows and persisting analysis, plans, and decisions to your issue tracker, while the VS Code extension exposes insights, assumptions, risks, and decisions in real time.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

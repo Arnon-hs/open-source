@@ -1,6 +1,6 @@
 # ebkalderon/terminus
 
-[![Stars](https://img.shields.io/github/stars/ebkalderon/terminus?style=flat-square&color=yellow)](https://github.com/ebkalderon/terminus/stargazers) [![Forks](https://img.shields.io/github/forks/ebkalderon/terminus?style=flat-square&color=blue)](https://github.com/ebkalderon/terminus/network) [![Language](https://img.shields.io/badge/lang-SCSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ebkalderon/terminus?style=flat-square&color=yellow)](https://github.com/ebkalderon/terminus/stargazers) [![Forks](https://img.shields.io/github/forks/ebkalderon/terminus?style=flat-square&color=blue)](https://github.com/ebkalderon/terminus/network) [![Language](https://img.shields.io/badge/lang-SCSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A dark retro theme for Zola
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44 |
+| ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | SCSS |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

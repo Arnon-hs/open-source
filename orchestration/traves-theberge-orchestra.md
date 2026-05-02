@@ -1,6 +1,6 @@
 # Traves-Theberge/Orchestra
 
-[![Stars](https://img.shields.io/github/stars/Traves-Theberge/Orchestra?style=flat-square&color=yellow)](https://github.com/Traves-Theberge/Orchestra/stargazers) [![Forks](https://img.shields.io/github/forks/Traves-Theberge/Orchestra?style=flat-square&color=blue)](https://github.com/Traves-Theberge/Orchestra/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Traves-Theberge/Orchestra?style=flat-square&color=yellow)](https://github.com/Traves-Theberge/Orchestra/stargazers) [![Forks](https://img.shields.io/github/forks/Traves-Theberge/Orchestra?style=flat-square&color=blue)](https://github.com/Traves-Theberge/Orchestra/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestra is a desktop development workspace that integrates AI coding agents with project management, terminals, and real-time collaboration tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

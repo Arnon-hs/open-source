@@ -1,6 +1,6 @@
 # shaarkys/com.xiaomi-miio
 
-[![Stars](https://img.shields.io/github/stars/shaarkys/com.xiaomi-miio?style=flat-square&color=yellow)](https://github.com/shaarkys/com.xiaomi-miio/stargazers) [![Forks](https://img.shields.io/github/forks/shaarkys/com.xiaomi-miio?style=flat-square&color=blue)](https://github.com/shaarkys/com.xiaomi-miio/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shaarkys/com.xiaomi-miio?style=flat-square&color=yellow)](https://github.com/shaarkys/com.xiaomi-miio/stargazers) [![Forks](https://img.shields.io/github/forks/shaarkys/com.xiaomi-miio?style=flat-square&color=blue)](https://github.com/shaarkys/com.xiaomi-miio/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Homey app to control Mi Home devices that implement the miIO protocol and Xiaomi gateway child devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 475 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

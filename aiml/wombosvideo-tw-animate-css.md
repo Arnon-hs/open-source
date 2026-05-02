@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This open-source project provides a collection of Tailwind CSS v4.0 utilities for effortlessly creating stunning animations in web applications. By leveraging these pre-built utilities, developers can streamline their animation workflows and focus on crafting engaging user experiences. This collection is an invaluable resource for frontend developers looking to incorporate animations into their projects with minimal effort and maximum flexibility.
+This open-source project provides a collection of Tailwind CSS v4.0 utilities designed to help developers create visually appealing animations with ease. By leveraging these utilities, users can add engaging animations to their web applications without requiring extensive animation knowledge. The project aims to simplify the animation process, making it more accessible to frontend developers.
 
 ---
 

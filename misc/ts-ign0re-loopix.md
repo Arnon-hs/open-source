@@ -1,6 +1,6 @@
 # ts-ign0re/loopix
 
-[![Stars](https://img.shields.io/github/stars/ts-ign0re/loopix?style=flat-square&color=yellow)](https://github.com/ts-ign0re/loopix/stargazers) [![Forks](https://img.shields.io/github/forks/ts-ign0re/loopix?style=flat-square&color=blue)](https://github.com/ts-ign0re/loopix/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ts-ign0re/loopix?style=flat-square&color=yellow)](https://github.com/ts-ign0re/loopix/stargazers) [![Forks](https://img.shields.io/github/forks/ts-ign0re/loopix?style=flat-square&color=blue)](https://github.com/ts-ign0re/loopix/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Photo Editor
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

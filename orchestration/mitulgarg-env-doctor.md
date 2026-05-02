@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The mitulgarg/env-doctor project is an open-source tool designed to diagnose and resolve compatibility issues with CUDA and GPU environments across various platforms, including local machines, Docker containers, and CI/CD pipelines. This versatile tool offers both a command-line interface (CLI) and a Multi-Container Platform (MCP) server for effortless environment management and troubleshooting. By using env-doctor, developers can streamline their AI/ML and backend workflows and ensure seamless GPU utilization.
+Env-Doctor is an open-source project designed to diagnose and resolve compatibility issues with CUDA and GPU environments. It offers a command-line interface and supports local, Docker, and CI/CD environments, providing a comprehensive solution for AI/ML and backend development. Env-Doctor also includes an MCP server for centralized management and monitoring.
 
 ---
 

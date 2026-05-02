@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-SeaDve/Mousai is an open-source AI/ML project that employs cutting-edge technology to rapidly identify songs in mere seconds. Leveraging advanced machine learning algorithms, this tool streamlines music recognition, making it a valuable asset for music enthusiasts, researchers, and industries alike. By providing near-instant song identification, SeaDve/Mousai revolutionizes the way we interact with music and opens up new possibilities for music discovery and analysis.
+Here's a brief summary for the SeaDve/Mousai project:
+
+SeaDve/Mousai is an open-source AI/ML project that utilizes advanced music recognition technology to identify songs in mere seconds. This innovative system enables users to quickly and accurately detect and label songs, making it a valuable tool for music enthusiasts, researchers, and industry professionals. By harnessing the power of AI, Mousai aims to revolutionize the way we interact with and explore music.
 
 ---
 

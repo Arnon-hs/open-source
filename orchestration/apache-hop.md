@@ -1,6 +1,6 @@
 # apache/hop
 
-[![Stars](https://img.shields.io/github/stars/apache/hop?style=flat-square&color=yellow)](https://github.com/apache/hop/stargazers) [![Forks](https://img.shields.io/github/forks/apache/hop?style=flat-square&color=blue)](https://github.com/apache/hop/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/hop?style=flat-square&color=yellow)](https://github.com/apache/hop/stargazers) [![Forks](https://img.shields.io/github/forks/apache/hop?style=flat-square&color=blue)](https://github.com/apache/hop/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Hop Orchestration Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 448 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

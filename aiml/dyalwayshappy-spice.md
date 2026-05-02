@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the Spice project:
+Here's a brief summary for the open-source project Spice:
 
-Spice is an open-source AI project that aims to provide a personal decision-making assistant, allowing users to perceive their surroundings and make informed, optimized choices. By leveraging artificial intelligence and machine learning, Spice empowers individuals to make the most suitable decisions for their needs. This project seeks to develop a second brain, streamlining the decision-making process and enhancing overall life quality.
+Spice is an open-source AI project that enables users to perceive and analyze their surroundings, making informed decisions based on the information gathered. This "second brain" aims to provide users with the best possible choices tailored to their needs and preferences. By leveraging AI/ML capabilities, Spice strives to streamline decision-making and enhance user experience.
 
 ---
 

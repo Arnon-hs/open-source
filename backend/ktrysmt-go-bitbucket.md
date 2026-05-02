@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-The ktrysmt/go-bitbucket project is an open-source library that provides a Go (Golang) implementation of the Bitbucket API. This library allows developers to interact with Bitbucket's REST API, enabling features such as repository management, pull request handling, and user authentication. It simplifies the process of integrating Bitbucket services into Go-based applications.
+Here's a brief summary for the ktrysmt/go-bitbucket project:
+
+The ktrysmt/go-bitbucket project is an open-source, Go-based library that provides a simple and efficient interface to interact with the Bitbucket API. This library allows developers to access Bitbucket's features, such as repository management and issue tracking, from their Go applications. By leveraging this library, developers can easily integrate Bitbucket functionality into their backend services.
 
 ---
 

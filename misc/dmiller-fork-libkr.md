@@ -1,6 +1,6 @@
 # dmiller-fork/libkr
 
-[![Stars](https://img.shields.io/github/stars/dmiller-fork/libkr?style=flat-square&color=yellow)](https://github.com/dmiller-fork/libkr/stargazers) [![Forks](https://img.shields.io/github/forks/dmiller-fork/libkr?style=flat-square&color=blue)](https://github.com/dmiller-fork/libkr/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dmiller-fork/libkr?style=flat-square&color=yellow)](https://github.com/dmiller-fork/libkr/stargazers) [![Forks](https://img.shields.io/github/forks/dmiller-fork/libkr?style=flat-square&color=blue)](https://github.com/dmiller-fork/libkr/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > A library of the examples from the c programming language by Kernighan and Ritchie
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a summary of the RSSPub project:
-
-RSSPub is an open-source project that enables users to curate their daily reading material by aggregating RSS feeds and read-later articles into a personalized digital newspaper. This innovative tool allows users to streamline their e-reader with relevant content, saving time and effort in content discovery. By leveraging AI/ML, RSSPub helps users organize and access their preferred sources, creating a seamless reading experience.
+The RSSPub project is an open-source initiative that transforms RSS feeds and read-later articles into a personalized daily newspaper for e-readers. This innovative tool utilizes AI/ML capabilities to curate and organize content, creating a seamless reading experience tailored to individual preferences. By leveraging RSS feeds and read-later services, users can access a wide range of articles and stay up-to-date on their interests.
 
 ---
 

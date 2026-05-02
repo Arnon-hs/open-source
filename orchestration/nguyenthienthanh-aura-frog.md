@@ -1,6 +1,6 @@
 # nguyenthienthanh/aura-frog
 
-[![Stars](https://img.shields.io/github/stars/nguyenthienthanh/aura-frog?style=flat-square&color=yellow)](https://github.com/nguyenthienthanh/aura-frog/stargazers) [![Forks](https://img.shields.io/github/forks/nguyenthienthanh/aura-frog?style=flat-square&color=blue)](https://github.com/nguyenthienthanh/aura-frog/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nguyenthienthanh/aura-frog?style=flat-square&color=yellow)](https://github.com/nguyenthienthanh/aura-frog/stargazers) [![Forks](https://img.shields.io/github/forks/nguyenthienthanh/aura-frog?style=flat-square&color=blue)](https://github.com/nguyenthienthanh/aura-frog/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Aura Frog — Claude Code plugin — 10 agents, 5-phase TDD workflow, 3-tier rules, 27 hooks. Stop prompting. Start shipping. 🐸
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

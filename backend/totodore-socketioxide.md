@@ -1,6 +1,6 @@
 # Totodore/socketioxide
 
-[![Stars](https://img.shields.io/github/stars/Totodore/socketioxide?style=flat-square&color=yellow)](https://github.com/Totodore/socketioxide/stargazers) [![Forks](https://img.shields.io/github/forks/Totodore/socketioxide?style=flat-square&color=blue)](https://github.com/Totodore/socketioxide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Totodore/socketioxide?style=flat-square&color=yellow)](https://github.com/Totodore/socketioxide/stargazers) [![Forks](https://img.shields.io/github/forks/Totodore/socketioxide?style=flat-square&color=blue)](https://github.com/Totodore/socketioxide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A socket.io server implementation in Rust that integrates with the Tower ecosystem and the Tokio stack.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Notifiarr/dockwatch
 
-[![Stars](https://img.shields.io/github/stars/Notifiarr/dockwatch?style=flat-square&color=yellow)](https://github.com/Notifiarr/dockwatch/stargazers) [![Forks](https://img.shields.io/github/forks/Notifiarr/dockwatch?style=flat-square&color=blue)](https://github.com/Notifiarr/dockwatch/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Notifiarr/dockwatch?style=flat-square&color=yellow)](https://github.com/Notifiarr/dockwatch/stargazers) [![Forks](https://img.shields.io/github/forks/Notifiarr/dockwatch?style=flat-square&color=blue)](https://github.com/Notifiarr/dockwatch/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Automated Container Management and Notifications w/ beautiful WebUI
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 328 |
+| ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

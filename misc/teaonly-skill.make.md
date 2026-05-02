@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-SKILL.make is an open-source project that introduces a Makefile styled skill file for users, allowing them to manage and organize their skills in a structured and efficient manner. This project aims to simplify the process of tracking and updating skills, making it accessible to a broader audience. By leveraging a Makefile style, SKILL.make provides a unique approach to skill management.
+SKILL.make is an open-source project that offers a Makefile-styled skill file, providing a more structured approach to skill development. This project aims to streamline the skill development process by utilizing a familiar Makefile syntax, making it easier for developers to manage and maintain their skills. By adopting this format, users can take advantage of a more organized and efficient skill development workflow.
 
 ---
 

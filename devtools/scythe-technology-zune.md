@@ -1,6 +1,6 @@
 # Scythe-Technology/zune
 
-[![Stars](https://img.shields.io/github/stars/Scythe-Technology/zune?style=flat-square&color=yellow)](https://github.com/Scythe-Technology/zune/stargazers) [![Forks](https://img.shields.io/github/forks/Scythe-Technology/zune?style=flat-square&color=blue)](https://github.com/Scythe-Technology/zune/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Scythe-Technology/zune?style=flat-square&color=yellow)](https://github.com/Scythe-Technology/zune/stargazers) [![Forks](https://img.shields.io/github/forks/Scythe-Technology/zune?style=flat-square&color=blue)](https://github.com/Scythe-Technology/zune/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A Luau runtime
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

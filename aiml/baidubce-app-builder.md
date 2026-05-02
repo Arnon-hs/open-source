@@ -1,6 +1,6 @@
 # baidubce/app-builder
 
-[![Stars](https://img.shields.io/github/stars/baidubce/app-builder?style=flat-square&color=yellow)](https://github.com/baidubce/app-builder/stargazers) [![Forks](https://img.shields.io/github/forks/baidubce/app-builder?style=flat-square&color=blue)](https://github.com/baidubce/app-builder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/baidubce/app-builder?style=flat-square&color=yellow)](https://github.com/baidubce/app-builder/stargazers) [![Forks](https://img.shields.io/github/forks/baidubce/app-builder?style=flat-square&color=blue)](https://github.com/baidubce/app-builder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > appbuilder-sdk, 千帆AppBuilder-SDK帮助开发者灵活、快速的搭建AI原生应用
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 580 |
 | 🍴 **Forks** | 141 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

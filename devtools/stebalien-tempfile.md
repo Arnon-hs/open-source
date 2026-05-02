@@ -1,6 +1,6 @@
 # Stebalien/tempfile
 
-[![Stars](https://img.shields.io/github/stars/Stebalien/tempfile?style=flat-square&color=yellow)](https://github.com/Stebalien/tempfile/stargazers) [![Forks](https://img.shields.io/github/forks/Stebalien/tempfile?style=flat-square&color=blue)](https://github.com/Stebalien/tempfile/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Stebalien/tempfile?style=flat-square&color=yellow)](https://github.com/Stebalien/tempfile/stargazers) [![Forks](https://img.shields.io/github/forks/Stebalien/tempfile?style=flat-square&color=blue)](https://github.com/Stebalien/tempfile/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Temporary file library for rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

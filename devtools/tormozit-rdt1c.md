@@ -1,6 +1,6 @@
 # tormozit/RDT1C
 
-[![Stars](https://img.shields.io/github/stars/tormozit/RDT1C?style=flat-square&color=yellow)](https://github.com/tormozit/RDT1C/stargazers) [![Forks](https://img.shields.io/github/forks/tormozit/RDT1C?style=flat-square&color=blue)](https://github.com/tormozit/RDT1C/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tormozit/RDT1C?style=flat-square&color=yellow)](https://github.com/tormozit/RDT1C/stargazers) [![Forks](https://img.shields.io/github/forks/tormozit/RDT1C?style=flat-square&color=blue)](https://github.com/tormozit/RDT1C/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Подсистема "Инструменты разработчика" для платформы 1С 8
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 184 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | 1C Enterprise |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

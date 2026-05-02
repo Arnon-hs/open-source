@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The open-source project "stata-mcp" provides an interface to utilize Large Language Models (LLMs) in conjunction with Stata, a popular statistical software, to streamline regression analysis and enhance causal thinking. This project aims to bridge the gap between data analysis and AI-driven insights, empowering users to transition from basic statistical modeling to more sophisticated causal inference. By leveraging LLMs, users can refine their research and achieve more accurate results.
+The SepineTam/stata-mcp project is an open-source initiative that leverages large language models to assist users in performing regression analysis with Stata, a popular data analysis software. This collaboration aims to help users evolve from merely applying basic regression techniques to thinking critically about causality and making more informed decisions. By combining AI-driven insights with Stata's powerful analytical capabilities, users can unlock new levels of statistical sophistication.
 
 ---
 

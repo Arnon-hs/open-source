@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The bangumi/server project is an open-source API server designed to interact with bgm.tv, a popular anime and manga community platform. It provides a backend interface for accessing and managing content, allowing developers to build custom applications and integrations with bgm.tv. This project enables seamless connectivity and data exchange between bgm.tv and external systems.
+The bangumi/server project is an open-source API server designed to interact with bgm.tv, providing a backend solution for developers to access and utilize bgm.tv data. This project aims to facilitate seamless integration with the bgm.tv platform, enabling users to build custom applications, scripts, or tools that utilize the rich content available on the site. By leveraging this API server, developers can unlock new possibilities and enhance their experience with bgm.tv.
 
 ---
 

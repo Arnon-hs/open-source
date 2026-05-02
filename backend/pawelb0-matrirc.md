@@ -1,6 +1,6 @@
 # pawelb0/matrirc
 
-[![Stars](https://img.shields.io/github/stars/pawelb0/matrirc?style=flat-square&color=yellow)](https://github.com/pawelb0/matrirc/stargazers) [![Forks](https://img.shields.io/github/forks/pawelb0/matrirc?style=flat-square&color=blue)](https://github.com/pawelb0/matrirc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pawelb0/matrirc?style=flat-square&color=yellow)](https://github.com/pawelb0/matrirc/stargazers) [![Forks](https://img.shields.io/github/forks/pawelb0/matrirc?style=flat-square&color=blue)](https://github.com/pawelb0/matrirc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Local IRC server backed by Matrix (E2EE)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

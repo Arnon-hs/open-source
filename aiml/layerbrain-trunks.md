@@ -1,6 +1,6 @@
 # layerbrain/trunks
 
-[![Stars](https://img.shields.io/github/stars/layerbrain/trunks?style=flat-square&color=yellow)](https://github.com/layerbrain/trunks/stargazers) [![Forks](https://img.shields.io/github/forks/layerbrain/trunks?style=flat-square&color=blue)](https://github.com/layerbrain/trunks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/layerbrain/trunks?style=flat-square&color=yellow)](https://github.com/layerbrain/trunks/stargazers) [![Forks](https://img.shields.io/github/forks/layerbrain/trunks?style=flat-square&color=blue)](https://github.com/layerbrain/trunks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Git repos backed by your own storage. Push to S3, R2, Tigris, MinIO, Postgres, SFTP, NFS, or local disk
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 71 |
+| ⭐ **Stars** | 72 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

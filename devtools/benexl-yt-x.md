@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Benexl/yt-x is an open-source terminal YouTube browser that allows users to navigate and interact with YouTube content from the comfort of their terminal. This project provides a convenient alternative to traditional web browsing, empowering users to search, watch, and manage YouTube videos with ease using simple commands. With Benexl/yt-x, you can enjoy a more streamlined and efficient YouTube experience from the terminal.
+Benexl/yt-x is an open-source project that enables users to browse YouTube directly from their terminal. This project provides a convenient and command-line interface for interacting with YouTube, allowing users to search, play, and manage their YouTube experience in a text-based environment. It is ideal for users who prefer a more streamlined and automated approach to browsing YouTube.
 
 ---
 

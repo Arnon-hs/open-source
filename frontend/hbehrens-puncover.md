@@ -1,6 +1,6 @@
 # HBehrens/puncover
 
-[![Stars](https://img.shields.io/github/stars/HBehrens/puncover?style=flat-square&color=yellow)](https://github.com/HBehrens/puncover/stargazers) [![Forks](https://img.shields.io/github/forks/HBehrens/puncover?style=flat-square&color=blue)](https://github.com/HBehrens/puncover/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HBehrens/puncover?style=flat-square&color=yellow)](https://github.com/HBehrens/puncover/stargazers) [![Forks](https://img.shields.io/github/forks/HBehrens/puncover?style=flat-square&color=blue)](https://github.com/HBehrens/puncover/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Analyses C/C++ build output for code size, static variables, and stack usage
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 554 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

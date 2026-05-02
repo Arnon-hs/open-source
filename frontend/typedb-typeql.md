@@ -25,7 +25,7 @@ Frontend · Data
 
 ## 📝 Summary
 
-TypeQL is an open-source query language designed specifically for querying complex systems and data models. It allows users to express queries in a concise and readable manner, making it easy to navigate and manage large amounts of data. TypeQL is built to handle the intricacies of system modeling, providing a powerful tool for developers and data analysts alike.
+TypeQL is an open-source query language designed specifically for systems and data models, providing a powerful and expressive way to query and manipulate complex data structures. Built on top of TypeDB, a high-performance knowledge graph database, TypeQL enables developers to define and execute queries using a concise and intuitive syntax. This allows for more efficient and effective data management in system-centric applications.
 
 ---
 

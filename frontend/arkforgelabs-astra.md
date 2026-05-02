@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Astra is a high-performance runtime environment for the Lua programming language, designed to deliver blazingly fast execution speeds. This open-source project is suitable for both frontend and backend applications, offering a powerful and efficient platform for building a wide range of software projects. With Astra, developers can harness the full potential of Lua to create fast, scalable, and reliable systems.
+Astra is an open-source Lua runtime environment designed for high-performance applications. Built for both frontend and backend development, Astra aims to provide a blazingly fast execution environment for Lua-based projects. By leveraging Astra, developers can optimize their Lua code and unlock improved performance and efficiency in their applications.
 
 ---
 

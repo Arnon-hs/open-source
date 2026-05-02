@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the HydroniumLabs/h3o project:
+Here's a brief summary for the HydroniumLabs/h3o project:
 
-HydroniumLabs/h3o is an open-source Rust implementation of the H3 geospatial indexing system, enabling efficient spatial queries and data analysis. This project utilizes machine learning and AI techniques to optimize spatial data processing and querying, making it a valuable tool for geospatial applications. By providing a fast and scalable indexing system, h3o facilitates the development of spatially-aware AI and ML models.
+HydroniumLabs/h3o is an open-source Rust implementation of the H3 geospatial indexing system, providing a scalable and efficient solution for spatial data management. This project enables developers to create, query, and manipulate geospatial data using a widely-supported indexing system. By leveraging H3, developers can improve the performance and accuracy of their geospatial applications, particularly in AI and machine learning tasks.
 
 ---
 

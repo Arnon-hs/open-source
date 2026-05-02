@@ -1,6 +1,6 @@
 # keikoproj/upgrade-manager
 
-[![Stars](https://img.shields.io/github/stars/keikoproj/upgrade-manager?style=flat-square&color=yellow)](https://github.com/keikoproj/upgrade-manager/stargazers) [![Forks](https://img.shields.io/github/forks/keikoproj/upgrade-manager?style=flat-square&color=blue)](https://github.com/keikoproj/upgrade-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keikoproj/upgrade-manager?style=flat-square&color=yellow)](https://github.com/keikoproj/upgrade-manager/stargazers) [![Forks](https://img.shields.io/github/forks/keikoproj/upgrade-manager?style=flat-square&color=blue)](https://github.com/keikoproj/upgrade-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Reliable, extensible rolling-upgrades of Autoscaling groups in Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

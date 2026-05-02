@@ -1,6 +1,6 @@
 # ppy/osu-web
 
-[![Stars](https://img.shields.io/github/stars/ppy/osu-web?style=flat-square&color=yellow)](https://github.com/ppy/osu-web/stargazers) [![Forks](https://img.shields.io/github/forks/ppy/osu-web?style=flat-square&color=blue)](https://github.com/ppy/osu-web/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ppy/osu-web?style=flat-square&color=yellow)](https://github.com/ppy/osu-web/stargazers) [![Forks](https://img.shields.io/github/forks/ppy/osu-web?style=flat-square&color=blue)](https://github.com/ppy/osu-web/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > the browser-facing portion of osu!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 418 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

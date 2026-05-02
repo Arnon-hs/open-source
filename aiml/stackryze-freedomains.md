@@ -1,6 +1,6 @@
 # stackryze/FreeDomains
 
-[![Stars](https://img.shields.io/github/stars/stackryze/FreeDomains?style=flat-square&color=yellow)](https://github.com/stackryze/FreeDomains/stargazers) [![Forks](https://img.shields.io/github/forks/stackryze/FreeDomains?style=flat-square&color=blue)](https://github.com/stackryze/FreeDomains/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stackryze/FreeDomains?style=flat-square&color=yellow)](https://github.com/stackryze/FreeDomains/stargazers) [![Forks](https://img.shields.io/github/forks/stackryze/FreeDomains?style=flat-square&color=blue)](https://github.com/stackryze/FreeDomains/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Stackryze Domains: Free Domain for Everyone, Claim yours today.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

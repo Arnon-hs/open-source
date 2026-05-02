@@ -1,6 +1,6 @@
 # Bajusz15/beacon
 
-[![Stars](https://img.shields.io/github/stars/Bajusz15/beacon?style=flat-square&color=yellow)](https://github.com/Bajusz15/beacon/stargazers) [![Forks](https://img.shields.io/github/forks/Bajusz15/beacon?style=flat-square&color=blue)](https://github.com/Bajusz15/beacon/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bajusz15/beacon?style=flat-square&color=yellow)](https://github.com/Bajusz15/beacon/stargazers) [![Forks](https://img.shields.io/github/forks/Bajusz15/beacon?style=flat-square&color=blue)](https://github.com/Bajusz15/beacon/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight open-source deployment and monitoring agent for self-hosted or home-lab servers and devices such as Raspberry Pi, N100, or any Linux server. Future proof your deployments with automation and monitoring.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

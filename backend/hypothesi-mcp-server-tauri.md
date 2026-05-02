@@ -1,6 +1,6 @@
 # hypothesi/mcp-server-tauri
 
-[![Stars](https://img.shields.io/github/stars/hypothesi/mcp-server-tauri?style=flat-square&color=yellow)](https://github.com/hypothesi/mcp-server-tauri/stargazers) [![Forks](https://img.shields.io/github/forks/hypothesi/mcp-server-tauri?style=flat-square&color=blue)](https://github.com/hypothesi/mcp-server-tauri/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hypothesi/mcp-server-tauri?style=flat-square&color=yellow)](https://github.com/hypothesi/mcp-server-tauri/stargazers) [![Forks](https://img.shields.io/github/forks/hypothesi/mcp-server-tauri?style=flat-square&color=blue)](https://github.com/hypothesi/mcp-server-tauri/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server and plugin for Tauri v2 development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 191 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

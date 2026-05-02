@@ -1,6 +1,6 @@
 # toss/overlay-kit
 
-[![Stars](https://img.shields.io/github/stars/toss/overlay-kit?style=flat-square&color=yellow)](https://github.com/toss/overlay-kit/stargazers) [![Forks](https://img.shields.io/github/forks/toss/overlay-kit?style=flat-square&color=blue)](https://github.com/toss/overlay-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/toss/overlay-kit?style=flat-square&color=yellow)](https://github.com/toss/overlay-kit/stargazers) [![Forks](https://img.shields.io/github/forks/toss/overlay-kit?style=flat-square&color=blue)](https://github.com/toss/overlay-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A library for handling overlays more easily in React.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 690 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

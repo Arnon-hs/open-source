@@ -1,6 +1,6 @@
 # terajs/terajs
 
-[![Stars](https://img.shields.io/github/stars/terajs/terajs?style=flat-square&color=yellow)](https://github.com/terajs/terajs/stargazers) [![Forks](https://img.shields.io/github/forks/terajs/terajs?style=flat-square&color=blue)](https://github.com/terajs/terajs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terajs/terajs?style=flat-square&color=yellow)](https://github.com/terajs/terajs/stargazers) [![Forks](https://img.shields.io/github/forks/terajs/terajs?style=flat-square&color=blue)](https://github.com/terajs/terajs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Terajs is a compiler-native UI framework for route-first, local-first web apps with fine-grained reactivity, direct DOM updates, first-party DevTools, and a renderer-agnostic core.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

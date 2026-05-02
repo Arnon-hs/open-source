@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here is a brief summary for the open-source project:
 
-The stock-sdk-mcp project provides a comprehensive solution for stock market data with MCP + Skills, supporting integration with various AI tools such as OpenClaw, Cursor, Claude Desktop, Antigravity, and Gemini/Codex CLI. This open-source project aims to simplify the process of leveraging stock market data for AI applications. It offers a unified interface for accessing and utilizing stock data across multiple platforms.
+The stock-sdk-mcp project provides a comprehensive solution for stock market data and skills, supporting popular AI tools such as OpenClaw, Cursor, Claude Desktop, Antigravity, and Gemini/Codex CLI. This open-source project offers a unified backend for accessing and utilizing stock market data, streamlining workflows for developers and AI enthusiasts. By providing a standardized interface, it enables seamless integration with various AI tools and applications.
 
 ---
 

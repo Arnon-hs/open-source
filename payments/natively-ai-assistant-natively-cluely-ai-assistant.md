@@ -1,6 +1,6 @@
 # Natively-AI-assistant/natively-cluely-ai-assistant
 
-[![Stars](https://img.shields.io/github/stars/Natively-AI-assistant/natively-cluely-ai-assistant?style=flat-square&color=yellow)](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/Natively-AI-assistant/natively-cluely-ai-assistant?style=flat-square&color=blue)](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Natively-AI-assistant/natively-cluely-ai-assistant?style=flat-square&color=yellow)](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/Natively-AI-assistant/natively-cluely-ai-assistant?style=flat-square&color=blue)](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Natively - Free open-source AI interview copilot & meeting assistant. The best Cluely alternative, Final Round AI alternative, and Interview Coder alternative. Real-time transcription, undetectable stealth mode, local RAG, BYOK. No subscriptions. No data breaches.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 255 |
+| 🍴 **Forks** | 256 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

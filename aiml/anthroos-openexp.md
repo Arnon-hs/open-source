@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/anthroos/openexp?style=flat-square&color=yellow)](https://github.com/anthroos/openexp/stargazers) [![Forks](https://img.shields.io/github/forks/anthroos/openexp?style=flat-square&color=blue)](https://github.com/anthroos/openexp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Q-learning memory for AI agents. Outcome-based rewards from predictions, CRM events, calibration & retrospective. 17 MCP tools, hybrid retrieval, 5 reward paths.
+> Outsource your understanding. Capture every human-AI decision as a step in a trajectory; grade trajectories retroactively when outcomes land (deal closed, sprint shipped). Hooks + MCP server for Claude Code, Qdrant + FastEmbed local-first.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 

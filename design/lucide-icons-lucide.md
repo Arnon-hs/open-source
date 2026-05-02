@@ -25,7 +25,7 @@ Design
 
 ## 📝 Summary
 
-Lucide is an open-source icon library providing 1600 high-quality vector SVG files for icons. This extensive collection is designed to cater to various design needs, offering a versatile and customizable solution for developers and designers. With Lucide, users can access a vast array of icons for their projects, free of charge.
+Lucide is an open-source icon library featuring 1600 vector SVG files, providing a comprehensive collection of icons for designers and developers. This extensive library offers a wide range of icons, making it an ideal resource for projects requiring visually cohesive and scalable graphics. By utilizing Lucide, users can easily incorporate high-quality icons into their designs without incurring licensing costs.
 
 ---
 

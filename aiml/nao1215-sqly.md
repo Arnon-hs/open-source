@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The sqly project is an open-source tool that enables users to execute SQL queries against various file formats, including CSV, TSV, JSON, and Excel, using shell commands. This project simplifies the process of data analysis and manipulation by providing a unified interface for querying different file types. By leveraging sqly, users can efficiently extract insights from diverse data sources.
+The sqly project is an open-source tool that enables users to execute SQL queries against a variety of data file formats, including CSV, TSV, LTSV, JSON, JSONL, Parquet, Microsoft Excel, and financial files like ACH and Fedwire. This versatile utility allows users to interact with data in different formats using a unified SQL interface, simplifying data analysis and processing tasks. By leveraging sqly, users can streamline their data workflow and improve productivity.
 
 ---
 

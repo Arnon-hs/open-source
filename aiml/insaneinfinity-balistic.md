@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project offers a ballistic simulator that utilizes terrain data from NASA's SRTM (Shuttle Radar Topography Mission) to create a realistic and accurate simulation environment. Developed with a combination of Python and C#, this project enables users to model and analyze the trajectories of projectiles, taking into account the complexities of real-world terrain. By leveraging AI/ML capabilities, this simulator aims to provide a powerful tool for various applications, including military, scientific research, and educational purposes.
+Here's a brief summary for the open-source project:
+
+This open-source project is a ballistic simulator that utilizes NASA's SRTM (Shuttle Radar Topography Mission) terrain data for accurate and realistic simulations. Developed in a combination of Python and C#, the project leverages machine learning capabilities to enhance its performance and accuracy. By providing a realistic and data-driven simulation environment, this project aims to aid in the development and testing of ballistic systems and applications.
 
 ---
 

@@ -25,9 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Oaklight/ToolRegistry project:
-
-Oaklight/ToolRegistry is an open-source library that enables the management and orchestration of function-calling Large Language Models (LLMs) across multiple protocols, including OpenAI, Anthropic, Gemini, LangChain, and MCP. This protocol-agnostic library streamlines tool management and integration, allowing developers to focus on building applications without worrying about the underlying complexities. By providing a unified interface, ToolRegistry simplifies the development process and enhances collaboration among developers working with LLMs.
+Oaklight/ToolRegistry is an open-source, protocol-agnostic library for managing tools and function calls in Large Language Models (LLMs) from various providers, including OpenAI, Anthropic, Gemini, LangChain, and MCP. This library aims to simplify the orchestration of LLMs by abstracting away the complexities of interacting with different models and their respective APIs. By utilizing ToolRegistry, developers can focus on building applications without worrying about the underlying model-specific implementation details.
 
 ---
 

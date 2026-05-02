@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the RunAgent project:
-
-RunAgent is an open-source platform that simplifies the serverless deployment of AI agents, making it easier to build and integrate intelligent systems. With a robust CLI and support for multiple programming languages through its SDK, RunAgent enables seamless agent invocation and streaming capabilities. This powerful tool unlocks the potential for rapid development and deployment of AI-powered applications.
+RunAgent is an open-source project that streamlines serverless deployment of AI agents, providing a powerful command-line interface (CLI) and support for multiple programming languages through its SDK. This allows developers to easily build, deploy, and invoke AI-powered applications, as well as handle streaming inputs and outputs. By leveraging RunAgent, developers can focus on building innovative AI solutions without worrying about infrastructure complexities.
 
 ---
 
