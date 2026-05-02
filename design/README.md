@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**44 projects** in this category.
+**45 projects** in this category.
 
 ## Projects
 
@@ -52,6 +52,7 @@
 | 42 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 406 | TypeScript | 43/100 |
 | 43 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
 | 44 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 43/100 |
+| 45 | [lucide-icons/lucide](./lucide-icons-lucide.md) | ⭐ — | — | 39/100 |
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The open-source project "unavatar" provides a unified user avatar retrieval service for various social networks, including platforms like Instagram, SoundCloud, Telegram, Twitter, and YouTube. This project allows developers to easily fetch and display user avatars from multiple sources, simplifying the process of creating consistent and recognizable user profiles. By leveraging "unavatar", developers can focus on building their applications without worrying about the complexities of social media avatar integration.
+The unavatar project is an open-source library that retrieves unified user avatars from various social networks, including Instagram, SoundCloud, Telegram, Twitter, and YouTube, among others. This library simplifies the process of obtaining user avatars, providing a centralized solution for developers to access and display user profiles across different platforms. By utilizing unavatar, developers can create more consistent and user-friendly experiences.
 
 ---
 

@@ -25,7 +25,7 @@ Crypto · Trading · Backend
 
 ## 📝 Summary
 
-The Pump Fun SDK is an open-source project that provides a comprehensive set of tools for token creation, trading, and management. With features such as token launching, bonding curve trading, and AMM migration, it offers a robust platform for decentralized finance (DeFi) applications. Additionally, it includes features like tiered fees, creator fee sharing, and a vanity keygen for enhanced user experience and security.
+The pump-fun-sdk is an open-source project that provides a comprehensive toolkit for token creation and management. It offers features such as token launching, bonding curve trading, and Automated Market Maker (AMM) migration, as well as tiered fees and creator fee sharing capabilities. This SDK also includes additional tools like vanity key generation, MCP server integration, and Telegram bot support for live dashboards.
 
 ---
 

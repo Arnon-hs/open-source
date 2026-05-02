@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the project:
-
-XActions is an open-source automation toolkit designed for Twitter and X users, allowing for a range of actions without API fees. This comprehensive toolset includes scrapers, a server for AI agents, CLI, and browser scripts, enabling users to automate tasks such as unfollowing non-reciprocals, monitoring analytics, and performing follow, like, and comment actions. By leveraging AI and machine learning capabilities, XActions provides a powerful and cost-effective solution for social media management.
+XActions is an open-source automation toolkit for X/Twitter, allowing users to automate various tasks such as following, liking, commenting, and scraping without incurring API fees. This comprehensive toolset includes a CLI, browser scripts, and an MCP server for integrating AI agents like Claude/GPT. With features like real-time analytics and reciprocal unfollowing, XActions streamlines social media management and analysis.
 
 ---
 

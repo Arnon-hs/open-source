@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the 'git-graph' project:
+Here's a brief summary for the git-bahn/git-graph project:
 
-git-graph is a command-line tool that visualizes Git graphs in a clear and organized manner, tailored to your specific branching model. This open-source project simplifies Git workflow analysis by providing a readable representation of your project's commit history. It aims to make it easier to understand complex Git relationships and collaborate with others in a distributed version control environment.
+git-bahn/git-graph is an open-source command line tool designed to visualize and arrange Git graphs according to your branching model, providing a clear overview of your repository's history. This tool is particularly useful for developers and teams managing complex Git workflows, enabling them to better understand and navigate their repository's structure. With git-bahn/git-graph, you can easily visualize and optimize your Git branch management.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Hyper-RAG open-source project:
+Here's a 2-3 sentence summary for the Hyper-RAG open-source project:
 
-Hyper-RAG is an open-source project that aims to combat hallucinations in Large Language Models (LLMs) by leveraging hypergraph-driven retrieval-augmented generation techniques. This innovative approach enables more accurate and reliable text generation, reducing the likelihood of LLMs producing false or misleading information. By harnessing the power of hypergraphs and retrieval-augmented generation, Hyper-RAG seeks to improve the overall quality and trustworthiness of LLM outputs.
+Hyper-RAG is an open-source project that aims to mitigate large language model (LLM) hallucinations by leveraging a hypergraph-driven retrieval-augmented generation approach. This innovative technique integrates retrieval and generation processes to improve the accuracy and reliability of LLM outputs. By utilizing hypergraphs to represent complex relationships between input and output, Hyper-RAG has the potential to significantly reduce LLM hallucinations and enhance the overall quality of AI-generated content.
 
 ---
 

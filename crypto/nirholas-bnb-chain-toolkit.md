@@ -25,7 +25,9 @@ Crypto · Trading · AI/ML
 
 ## 📝 Summary
 
-The nirholas/bnb-chain-toolkit is an open-source, modular toolkit designed for building, deploying, and interacting with smart contracts on the BNB Chain. This comprehensive toolset offers utilities for BEP-20 tokens, DeFi integrations, wallet management, and cross-chain bridging, making it a valuable resource for developers working with the BNB Chain ecosystem. Built by the Sperax team for the BNB Chain Hackathon, this toolkit aims to simplify the development process and unlock new possibilities for BNB Chain applications.
+Here's a 2-3 sentence summary for the nirholas/bnb-chain-toolkit project:
+
+The nirholas/bnb-chain-toolkit is an open-source, modular toolkit for building, deploying, and interacting with smart contracts on the BNB Chain. This comprehensive suite includes utilities for managing BEP-20 tokens, integrating DeFi applications, managing wallets, and facilitating cross-chain bridging. Developed by the Sperax team for the BNB Chain Hackathon, this toolkit empowers developers to create and manage robust blockchain applications.
 
 ---
 

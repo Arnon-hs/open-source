@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Southclaws/sampctl is an open-source project providing essential tools for SA:MP server owners and library maintainers. This project serves as a comprehensive toolkit, offering vital functionalities to streamline SA:MP development and server management. With its robust features and user-friendly interface, sampctl aims to simplify the process of building, maintaining, and customizing SA:MP servers and libraries.
+SAMPctl is an essential toolkit for SA:MP server owners and library maintainers, providing a comprehensive set of vital tools to streamline operations and improve efficiency. This Swiss Army Knife of SA:MP includes a range of features that cater to diverse needs, making it an indispensable asset for those managing SA:MP servers and libraries. By utilizing SAMPctl, users can simplify their workflow and enhance overall server management.
 
 ---
 

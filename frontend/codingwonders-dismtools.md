@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-DISMTools is an open-source project that provides a comprehensive platform for Windows system administration. It offers a connected space for users to manage and maintain their Windows systems efficiently, with a user-friendly frontend interface. This project aims to simplify system administration tasks, making it easier for users to troubleshoot and resolve issues.
+DISMTools is an open-source project that provides a comprehensive platform for Windows system administration, facilitating seamless management and maintenance of Windows systems. This project offers a user-friendly interface for system administrators to perform various tasks, such as updating and configuring Windows settings. By leveraging DISMTools, system administrators can streamline their workflow and improve overall system efficiency.
 
 ---
 

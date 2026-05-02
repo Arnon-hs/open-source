@@ -25,7 +25,7 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-The deltalytix project is an open-source trading journal that integrates AI agents to analyze and optimize trading strategies, providing users with a comprehensive dashboard to track performance statistics. This platform aims to help traders refine their decision-making through data-driven insights and machine learning-powered analysis. By leveraging AI and ML capabilities, deltalytix empowers traders to gain a competitive edge in the markets.
+"Deltalytix" is an open-source trading journal that leverages AI agents to analyze and optimize trading strategies. This project combines a user-friendly dashboard with advanced statistics to help traders track and refine their performance, enabling data-driven decision making. By integrating AI capabilities, Deltalytix aims to revolutionize the trading industry through intelligent and personalized insights.
 
 ---
 

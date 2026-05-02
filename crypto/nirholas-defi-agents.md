@@ -25,7 +25,7 @@ Crypto · Trading · Orchestration
 
 ## 📝 Summary
 
-The defi-agents project is an open-source initiative that provides a JSON API for DeFi agent definitions, enabling the creation of production-ready Web3 applications for crypto trading, portfolio management, and blockchain automation. Compatible with the MCP (Message Contract Protocol), this project offers a comprehensive solution for developers looking to leverage blockchain technology in their applications. It facilitates the orchestration of complex DeFi workflows with ease and efficiency.
+The defi-agents project is an open-source repository that provides a production-ready JSON API for defining DeFi agents, enabling users to automate Web3, crypto trading, portfolio management, and blockchain processes. This project is compatible with MCP (a workflow orchestration platform) and caters to users seeking to streamline their blockchain-related tasks. It facilitates a seamless and efficient experience for those operating within the Web3 space.
 
 ---
 

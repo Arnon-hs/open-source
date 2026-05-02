@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project "forloopcodes/contextplus":
-
-Context+ is an open-source MCP server designed to provide developers with 99% accurate semantic intelligence for large-scale engineering projects. It utilizes a combination of advanced technologies, including RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style linking, to transform massive codebases into searchable, hierarchical feature graphs. This innovative tool enables developers to unlock the full potential of their codebases and make more informed decisions with ease.
+Context+, an open-source project, leverages advanced technologies like RAG, Tree-sitter AST, and Spectral Clustering to provide a highly accurate MCP server. This innovative solution transforms large codebases into searchable, hierarchical feature graphs, empowering developers with 99% accuracy. Context+ serves as a powerful tool for developers seeking to simplify codebase exploration and management.
 
 ---
 

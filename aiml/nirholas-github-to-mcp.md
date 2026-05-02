@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-This open-source project, nirholas/github-to-mcp, enables the automatic conversion of GitHub repositories into MCP servers. Using AI-powered code generation, it extracts tools from various APIs and creates type-safe MCP servers in TypeScript or Python, with a zero-configuration setup process. The project aims to facilitate integration with AI assistants and Large Language Model (LLM) tools.
+Here's a brief summary for the nirholas/github-to-mcp open-source project:
+
+This open-source project, nirholas/github-to-mcp, enables the automatic conversion of GitHub repositories into MCP servers. Leveraging AI-powered code generation, the tool extracts and integrates APIs from various sources like OpenAPI, GraphQL, and REST, generating type-safe TypeScript or Python MCP servers with zero configuration required. This project is ideal for integrating with AI assistants and LLM tools.
 
 ---
 

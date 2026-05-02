@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Glacier is a zero-configuration terminal for macOS developed using Rust. This open-source project aims to provide a seamless user experience by eliminating the need for manual setup and configuration. By leveraging Rust, Glacier is built with efficiency and performance in mind, making it a promising alternative for macOS terminal users.
+Glacier is an open-source, zero-configuration macOS terminal developed in Rust. This project provides an alternative terminal experience for users looking for a seamless and hassle-free interface. By leveraging Rust, Glacier achieves a high level of performance and stability, making it a promising option for macOS users.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the kekkai project:
+Here's a brief summary for the catatsuy/kekkai project:
 
-Kekkai is an open-source, lightweight Go tool designed to detect file tampering by verifying content-based hashes stored securely in Amazon S3. This tool utilizes machine learning categories to ensure the integrity of files, making it an essential component in maintaining data security. By integrating kekkai into your system, you can safeguard against potential threats and ensure the authenticity of your files.
+Kekkai is an open-source, lightweight tool written in Go that helps detect file tampering by comparing content-based hashes stored securely in Amazon S3. This AI/ML tool enables secure integrity checks for files, providing an additional layer of protection against unauthorized modifications. By verifying file hashes, Kekkai ensures that files remain unaltered from their original state.
 
 ---
 

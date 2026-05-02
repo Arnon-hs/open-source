@@ -27,7 +27,7 @@ Crypto · Payments · Trading
 
 Here's a brief summary for the nirholas/agenti project:
 
-The nirholas/agenti project provides any AI agent with the ability to manage a crypto wallet, enabling autonomous transactions and access to financial services. This open-source solution integrates with various AI platforms, including Claude, LangChain, and AutoGen, and supports multiple blockchain ecosystems such as EVM and Solana. By giving AI agents a financial presence, this project expands the possibilities for AI-driven applications in the realm of crypto and trading.
+"Agenti is an open-source project that empowers any AI agent with a crypto wallet, allowing for autonomous transactions and access to financial services. With support for various AI frameworks, including Claude and LangChain, Agenti enables seamless interactions with APIs, such as x402, and receipt of USDC. This innovative solution connects AI agents to the world of crypto, expanding their capabilities and potential applications."
 
 ---
 

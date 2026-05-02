@@ -25,9 +25,9 @@ Crypto · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the UCAI project:
+Here's a brief summary of the UCAI project:
 
-The Universal Contract AI Interface (UCAI) is an open standard that enables seamless connection between AI agents and blockchain networks. UCAI provides a framework for building and integrating AI-powered smart contracts with various DeFi protocols, including Uniswap, Aave, and ERC20 tokens. With support for multiple blockchain chains, including Polygon and Ethereum, UCAI empowers developers to create sophisticated AI-driven applications on the blockchain.
+The Universal Contract AI Interface (UCAI) is an open-source standard that enables seamless connectivity between AI agents and blockchain networks, including Polygon, Arbitrum, Base, and Ethereum EVM chains. This project provides a robust MCP server generator for smart contracts, supporting popular DeFi protocols such as Uniswap and Aave, as well as ERC20 tokens and NFTs. With its Python CLI, Web3 integration, and transaction simulation capabilities, UCAI accelerates AI adoption in blockchain development.
 
 ---
 

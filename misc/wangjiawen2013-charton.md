@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The "charton" project is an open-source implementation of the Grammar of Graphics in Rust, a data visualization framework that enables users to create a wide range of charts and graphs by combining different visualizations components. This library allows developers to separate the concerns of data, aesthetics, and geometry, making it easier to create customized and dynamic visualizations. By leveraging Rust's performance and reliability, charton provides a robust foundation for data visualization in Rust applications.
+Wangjiawen2013/charton is an open-source Rust library that implements the Grammar of Graphics, a data visualization framework that separates the concerns of data, aesthetics, and geometry. This library provides a flexible and modular approach to data visualization, allowing users to easily create complex and customized plots by combining different components. By leveraging the Rust programming language, charton offers a fast and efficient way to generate high-quality visualizations.
 
 ---
 

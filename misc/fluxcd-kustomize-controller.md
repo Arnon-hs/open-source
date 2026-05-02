@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the fluxcd/kustomize-controller project:
-
-The fluxcd/kustomize-controller is an open-source project that integrates Kustomize, a configuration management tool, into the GitOps workflow. This project enables automated deployment and management of Kubernetes applications by reconciling Kustomize configurations with the actual cluster state. By leveraging the power of GitOps and Kustomize, developers can maintain a consistent and reproducible deployment environment.
+The fluxcd/kustomize-controller project is an open-source component of the GitOps Toolkit, specifically designed to reconcile Kustomize configurations for infrastructure as code management. It enables automated deployment and management of applications by ensuring Kustomize resources are properly applied and updated in a Kubernetes environment. This project helps bridge the gap between GitOps practices and Kustomize-based infrastructure management.
 
 ---
 

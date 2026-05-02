@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the sing-tun open-source project:
-
-Sing-tun is a simple transparent proxy library designed to provide a straightforward and efficient solution for proxying network traffic. This open-source project utilizes a transparent proxy approach, allowing users to easily intercept and manipulate network communications. By leveraging sing-tun, developers can create custom proxy solutions for a variety of applications and use cases.
+The sing-tun project is an open-source, simple transparent proxy library designed to facilitate network communication and provide a versatile proxying solution. It offers a lightweight and customizable approach to proxying, making it suitable for a range of applications and use cases. By leveraging sing-tun, developers can easily create transparent proxies to enhance network security, optimize performance, and improve overall system functionality.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a 2-3 sentence summary for the open-source project:
 
-"Sunsama is an open-source task management platform that leverages AI-native technology to provide a powerful and customizable experience. This project offers a self-hostable alternative to traditional task managers, featuring a MCP server for Claude/Cursor, REST API, time blocking, and a kanban board. With its open-source nature, users can modify and extend the platform to suit their specific needs."
+"Sunsama is an open-source task manager that leverages AI-native capabilities, offering a comprehensive platform for productivity and organization. This self-hostable alternative to Sunsama features a MCP server for Claude/Cursor, a REST API, time blocking, and a kanban board, providing users with a flexible and customizable tool for managing their tasks. By harnessing AI and machine learning, Sunsama empowers users to optimize their workflows and boost productivity."
 
 ---
 

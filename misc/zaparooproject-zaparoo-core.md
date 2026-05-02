@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Zaparoo-core project is an open-source initiative that provides the foundational software for the Zaparoo service. This core service software serves as the underlying infrastructure for the Zaparoo functionality, enabling users to build upon and extend its capabilities. The project aims to foster a community-driven development environment, promoting collaboration and innovation in the Zaparoo ecosystem.
+The Zaparoo-core project is an open-source, core service software developed under the ZaparooProject umbrella. This software provides a foundational layer for building and managing various services, enabling scalability and flexibility in system architecture. By leveraging the zaparoo-core, developers can streamline their service development process and enhance overall system efficiency.
 
 ---
 

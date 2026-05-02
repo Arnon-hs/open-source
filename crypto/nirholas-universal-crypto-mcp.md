@@ -25,9 +25,9 @@ Crypto · AI/ML · Backend
 
 ## 📝 Summary
 
-Here is a brief summary for the open-source project:
+Here's a brief summary of the nirholas/universal-crypto-mcp project:
 
-"Universal-Crypto-MCP is an open-source server that enables AI agents to interact with various blockchain networks through natural language and plugins. It supports a wide range of functionalities including swaps, bridges, gas management, staking, and lending across popular chains like Ethereum, Arbitrum, and Polygon. This versatile platform empowers developers to integrate their AI models with multiple blockchain ecosystems."
+Universal Crypto MCP is an open-source project that enables AI agents to interact with various blockchain networks using natural language and plugin-based architecture. This versatile platform supports a wide range of blockchain services, including swaps, bridges, gas management, staking, lending, and more across multiple chains such as Ethereum, Arbitrum, and Polygon. By providing a unified interface, Universal Crypto MCP streamlines interactions between AI agents and blockchain networks.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the Akagi project:
+Here's a 2-3 sentence summary for the open-source project:
 
-Akagi is an open-source project that enables real-time analysis of various mahjong games, including Majsoul, Tenhou, Riichi City, and Amatsuki. It utilizes custom AI models to provide suggestions, with Mortal AI serving as a built-in example. This project combines AI/ML and frontend technologies to enhance mahjong gameplay experience.
+Akagi is an open-source platform that supports popular Japanese mahjong games, including Majsoul, Tenhou, Riichi City, and Amatsuki. This project enables real-time analysis of games using custom AI models, providing users with actionable suggestions to improve their gameplay. With a built-in example model, Mortal AI, users can explore the capabilities of AI-driven mahjong analysis and develop their own models for enhanced performance.
 
 ---
 
