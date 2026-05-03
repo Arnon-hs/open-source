@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/ndycode/codex-multi-auth?style=flat-square&color=yellow)](https://github.com/ndycode/codex-multi-auth/stargazers) [![Forks](https://img.shields.io/github/forks/ndycode/codex-multi-auth?style=flat-square&color=blue)](https://github.com/ndycode/codex-multi-auth/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> OpenAI Codex CLI multi-account OAuth manager with resilient routing, quota-aware rotation, and terminal-first diagnostics.
+> Codex CLI multi-account OAuth manager with account switching, health checks, runtime rotation, diagnostics, and recovery tools for @openai/codex
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 118 |
-| 🍴 **Forks** | 12 |
+| ⭐ **Stars** | 122 |
+| 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |

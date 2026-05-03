@@ -1,6 +1,6 @@
 # lunarway/shuttle
 
-[![Stars](https://img.shields.io/github/stars/lunarway/shuttle?style=flat-square&color=yellow)](https://github.com/lunarway/shuttle/stargazers) [![Forks](https://img.shields.io/github/forks/lunarway/shuttle?style=flat-square&color=blue)](https://github.com/lunarway/shuttle/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lunarway/shuttle?style=flat-square&color=yellow)](https://github.com/lunarway/shuttle/stargazers) [![Forks](https://img.shields.io/github/forks/lunarway/shuttle?style=flat-square&color=blue)](https://github.com/lunarway/shuttle/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > CLI for handling shared build and deploy tools between projects no matter what technologies the projects are using
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

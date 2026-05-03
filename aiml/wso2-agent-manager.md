@@ -1,6 +1,6 @@
 # wso2/agent-manager
 
-[![Stars](https://img.shields.io/github/stars/wso2/agent-manager?style=flat-square&color=yellow)](https://github.com/wso2/agent-manager/stargazers) [![Forks](https://img.shields.io/github/forks/wso2/agent-manager?style=flat-square&color=blue)](https://github.com/wso2/agent-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wso2/agent-manager?style=flat-square&color=yellow)](https://github.com/wso2/agent-manager/stargazers) [![Forks](https://img.shields.io/github/forks/wso2/agent-manager?style=flat-square&color=blue)](https://github.com/wso2/agent-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > WSO2 AI Agent Manager is an open control plane designed for enterprises to deploy, manage, and govern AI agents at scale.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

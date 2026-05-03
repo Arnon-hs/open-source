@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15193** |
+| 🗂️ **Total projects** | **15238** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5669 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3134 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1483 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1126 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 929 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 907 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 521 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 5682 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3146 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1488 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1131 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 930 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 910 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 522 | [Browse →](./crypto/) |
 | 📊 **Data** | 345 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 324 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 326 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 205 | [Browse →](./mobile/) |
 | 💳 **Payments** | 162 | [Browse →](./payments/) |
 | 📈 **Trading** | 155 | [Browse →](./trading/) |
-| 🔐 **Security** | 124 | [Browse →](./security/) |
-| ✨ **Design** | 49 | [Browse →](./design/) |
+| 🔐 **Security** | 126 | [Browse →](./security/) |
+| ✨ **Design** | 50 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
 
@@ -45,10 +45,10 @@
 | 4 | [eosphoros-ai/DB-GPT](./aiml/eosphoros-ai-db-gpt.md) | ⭐ 18.6k | AI/ML |
 | 5 | [gogf/gf](./backend/gogf-gf.md) | ⭐ 13.1k | Backend |
 | 6 | [mikel-brostrom/boxmot](./misc/mikel-brostrom-boxmot.md) | ⭐ 8.1k | Misc |
-| 7 | [matomo-org/matomo](./frontend/matomo-org-matomo.md) | ⭐ 21.5k | Frontend |
-| 8 | [supabase/supabase](./aiml/supabase-supabase.md) | ⭐ 101.8k | AI/ML |
-| 9 | [grpc/grpc-go](./backend/grpc-grpc-go.md) | ⭐ 22.9k | Backend |
-| 10 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.1k | AI/ML |
+| 7 | [grpc/grpc-go](./backend/grpc-grpc-go.md) | ⭐ 22.9k | Backend |
+| 8 | [matomo-org/matomo](./frontend/matomo-org-matomo.md) | ⭐ 21.5k | Frontend |
+| 9 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.1k | AI/ML |
+| 10 | [kubernetes/kube-state-metrics](./aiml/kubernetes-kube-state-metrics.md) | ⭐ 6.1k | AI/ML |
 
 ## 🚀 How it works
 

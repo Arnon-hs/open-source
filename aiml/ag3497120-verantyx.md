@@ -1,6 +1,6 @@
 # Ag3497120/verantyx
 
-[![Stars](https://img.shields.io/github/stars/Ag3497120/verantyx?style=flat-square&color=yellow)](https://github.com/Ag3497120/verantyx/stargazers) [![Forks](https://img.shields.io/github/forks/Ag3497120/verantyx?style=flat-square&color=blue)](https://github.com/Ag3497120/verantyx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ag3497120/verantyx?style=flat-square&color=yellow)](https://github.com/Ag3497120/verantyx/stargazers) [![Forks](https://img.shields.io/github/forks/Ag3497120/verantyx?style=flat-square&color=blue)](https://github.com/Ag3497120/verantyx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > AI Memory Refresh System & Autonomous Coding IDE — JCross spatial memory, VerantyxIDE macOS app, Privacy Shield inference, Rust browser engine
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8 |
+| ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

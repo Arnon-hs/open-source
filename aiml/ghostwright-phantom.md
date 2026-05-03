@@ -1,6 +1,6 @@
 # ghostwright/phantom
 
-[![Stars](https://img.shields.io/github/stars/ghostwright/phantom?style=flat-square&color=yellow)](https://github.com/ghostwright/phantom/stargazers) [![Forks](https://img.shields.io/github/forks/ghostwright/phantom?style=flat-square&color=blue)](https://github.com/ghostwright/phantom/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ghostwright/phantom?style=flat-square&color=yellow)](https://github.com/ghostwright/phantom/stargazers) [![Forks](https://img.shields.io/github/forks/ghostwright/phantom?style=flat-square&color=blue)](https://github.com/ghostwright/phantom/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

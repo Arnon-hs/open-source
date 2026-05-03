@@ -1,6 +1,6 @@
 # walm00/business-context-os
 
-[![Stars](https://img.shields.io/github/stars/walm00/business-context-os?style=flat-square&color=yellow)](https://github.com/walm00/business-context-os/stargazers) [![Forks](https://img.shields.io/github/forks/walm00/business-context-os?style=flat-square&color=blue)](https://github.com/walm00/business-context-os/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/walm00/business-context-os?style=flat-square&color=yellow)](https://github.com/walm00/business-context-os/stargazers) [![Forks](https://img.shields.io/github/forks/walm00/business-context-os?style=flat-square&color=blue)](https://github.com/walm00/business-context-os/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Business Context Engineering for Claude Code. Create order in your business knowledge - and keep it. CLEAR methodology, self-learning lessons system, strategic reflection, session persistence, scheduled cleaning.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

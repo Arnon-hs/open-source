@@ -1,6 +1,6 @@
 # sunmh207/AI-Codereview-Gitlab
 
-[![Stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=flat-square&color=yellow)](https://github.com/sunmh207/AI-Codereview-Gitlab/stargazers) [![Forks](https://img.shields.io/github/forks/sunmh207/AI-Codereview-Gitlab?style=flat-square&color=blue)](https://github.com/sunmh207/AI-Codereview-Gitlab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sunmh207/AI-Codereview-Gitlab?style=flat-square&color=yellow)](https://github.com/sunmh207/AI-Codereview-Gitlab/stargazers) [![Forks](https://img.shields.io/github/forks/sunmh207/AI-Codereview-Gitlab?style=flat-square&color=blue)](https://github.com/sunmh207/AI-Codereview-Gitlab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 361 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # ACINQ/eclair
 
-[![Stars](https://img.shields.io/github/stars/ACINQ/eclair?style=flat-square&color=yellow)](https://github.com/ACINQ/eclair/stargazers) [![Forks](https://img.shields.io/github/forks/ACINQ/eclair?style=flat-square&color=blue)](https://github.com/ACINQ/eclair/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ACINQ/eclair?style=flat-square&color=yellow)](https://github.com/ACINQ/eclair/stargazers) [![Forks](https://img.shields.io/github/forks/ACINQ/eclair?style=flat-square&color=blue)](https://github.com/ACINQ/eclair/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A scala implementation of the Lightning Network.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 281 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

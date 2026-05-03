@@ -1,6 +1,6 @@
 # trailofbits/test-fuzz
 
-[![Stars](https://img.shields.io/github/stars/trailofbits/test-fuzz?style=flat-square&color=yellow)](https://github.com/trailofbits/test-fuzz/stargazers) [![Forks](https://img.shields.io/github/forks/trailofbits/test-fuzz?style=flat-square&color=blue)](https://github.com/trailofbits/test-fuzz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trailofbits/test-fuzz?style=flat-square&color=yellow)](https://github.com/trailofbits/test-fuzz/stargazers) [![Forks](https://img.shields.io/github/forks/trailofbits/test-fuzz?style=flat-square&color=blue)](https://github.com/trailofbits/test-fuzz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > To make fuzzing Rust easy
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

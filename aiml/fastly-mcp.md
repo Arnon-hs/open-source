@@ -1,6 +1,6 @@
 # fastly/mcp
 
-[![Stars](https://img.shields.io/github/stars/fastly/mcp?style=flat-square&color=yellow)](https://github.com/fastly/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/fastly/mcp?style=flat-square&color=blue)](https://github.com/fastly/mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fastly/mcp?style=flat-square&color=yellow)](https://github.com/fastly/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/fastly/mcp?style=flat-square&color=blue)](https://github.com/fastly/mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol (MCP) server for AI-powered Fastly CDN management.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 35 |
+| ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

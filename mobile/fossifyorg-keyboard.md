@@ -1,6 +1,6 @@
 # FossifyOrg/Keyboard
 
-[![Stars](https://img.shields.io/github/stars/FossifyOrg/Keyboard?style=flat-square&color=yellow)](https://github.com/FossifyOrg/Keyboard/stargazers) [![Forks](https://img.shields.io/github/forks/FossifyOrg/Keyboard?style=flat-square&color=blue)](https://github.com/FossifyOrg/Keyboard/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FossifyOrg/Keyboard?style=flat-square&color=yellow)](https://github.com/FossifyOrg/Keyboard/stargazers) [![Forks](https://img.shields.io/github/forks/FossifyOrg/Keyboard?style=flat-square&color=blue)](https://github.com/FossifyOrg/Keyboard/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Easy keyboard for inserting all kinds of texts, special characters and numbers.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 602 |
-| 🍴 **Forks** | 69 |
+| 🍴 **Forks** | 70 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # mvt-project/androidqf
 
-[![Stars](https://img.shields.io/github/stars/mvt-project/androidqf?style=flat-square&color=yellow)](https://github.com/mvt-project/androidqf/stargazers) [![Forks](https://img.shields.io/github/forks/mvt-project/androidqf?style=flat-square&color=blue)](https://github.com/mvt-project/androidqf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mvt-project/androidqf?style=flat-square&color=yellow)](https://github.com/mvt-project/androidqf/stargazers) [![Forks](https://img.shields.io/github/forks/mvt-project/androidqf?style=flat-square&color=blue)](https://github.com/mvt-project/androidqf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > androidqf (Android Quick Forensics) helps quickly gathering forensic evidence from Android devices, in order to identify potential traces of compromise.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 153 |
+| ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

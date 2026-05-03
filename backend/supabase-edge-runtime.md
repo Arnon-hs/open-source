@@ -1,6 +1,6 @@
 # supabase/edge-runtime
 
-[![Stars](https://img.shields.io/github/stars/supabase/edge-runtime?style=flat-square&color=yellow)](https://github.com/supabase/edge-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/edge-runtime?style=flat-square&color=blue)](https://github.com/supabase/edge-runtime/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supabase/edge-runtime?style=flat-square&color=yellow)](https://github.com/supabase/edge-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/edge-runtime?style=flat-square&color=blue)](https://github.com/supabase/edge-runtime/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 940 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

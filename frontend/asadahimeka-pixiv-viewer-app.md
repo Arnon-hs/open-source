@@ -1,6 +1,6 @@
 # asadahimeka/pixiv-viewer-app
 
-[![Stars](https://img.shields.io/github/stars/asadahimeka/pixiv-viewer-app?style=flat-square&color=yellow)](https://github.com/asadahimeka/pixiv-viewer-app/stargazers) [![Forks](https://img.shields.io/github/forks/asadahimeka/pixiv-viewer-app?style=flat-square&color=blue)](https://github.com/asadahimeka/pixiv-viewer-app/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asadahimeka/pixiv-viewer-app?style=flat-square&color=yellow)](https://github.com/asadahimeka/pixiv-viewer-app/stargazers) [![Forks](https://img.shields.io/github/forks/asadahimeka/pixiv-viewer-app?style=flat-square&color=blue)](https://github.com/asadahimeka/pixiv-viewer-app/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > App version of pixiv-viewer. 又一个 pixiv 第三方免登录 APP，提供 pixiv 的插画、动图、漫画和小说等作品的浏览，适配多端样式，提供多种浏览布局选择，支持免代理直连，支持自定义 API 与图床，支持 RefreshToken/OAuth/Cookie 方式登录。
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 348 |
+| ⭐ **Stars** | 349 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

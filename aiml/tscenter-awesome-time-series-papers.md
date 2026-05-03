@@ -1,6 +1,6 @@
 # TSCenter/awesome-time-series-papers
 
-[![Stars](https://img.shields.io/github/stars/TSCenter/awesome-time-series-papers?style=flat-square&color=yellow)](https://github.com/TSCenter/awesome-time-series-papers/stargazers) [![Forks](https://img.shields.io/github/forks/TSCenter/awesome-time-series-papers?style=flat-square&color=blue)](https://github.com/TSCenter/awesome-time-series-papers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TSCenter/awesome-time-series-papers?style=flat-square&color=yellow)](https://github.com/TSCenter/awesome-time-series-papers/stargazers) [![Forks](https://img.shields.io/github/forks/TSCenter/awesome-time-series-papers?style=flat-square&color=blue)](https://github.com/TSCenter/awesome-time-series-papers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > An Awesome List of the latest time series papers and code from top AI venues.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 972 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

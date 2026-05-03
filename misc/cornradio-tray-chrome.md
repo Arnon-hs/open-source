@@ -1,6 +1,6 @@
 # cornradio/tray-chrome
 
-[![Stars](https://img.shields.io/github/stars/cornradio/tray-chrome?style=flat-square&color=yellow)](https://github.com/cornradio/tray-chrome/stargazers) [![Forks](https://img.shields.io/github/forks/cornradio/tray-chrome?style=flat-square&color=blue)](https://github.com/cornradio/tray-chrome/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cornradio/tray-chrome?style=flat-square&color=yellow)](https://github.com/cornradio/tray-chrome/stargazers) [![Forks](https://img.shields.io/github/forks/cornradio/tray-chrome?style=flat-square&color=blue)](https://github.com/cornradio/tray-chrome/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > menubarX for windows
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 494 |
+| ⭐ **Stars** | 495 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

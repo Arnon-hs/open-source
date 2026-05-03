@@ -1,6 +1,6 @@
 # chainwayxyz/clementine
 
-[![Stars](https://img.shields.io/github/stars/chainwayxyz/clementine?style=flat-square&color=yellow)](https://github.com/chainwayxyz/clementine/stargazers) [![Forks](https://img.shields.io/github/forks/chainwayxyz/clementine?style=flat-square&color=blue)](https://github.com/chainwayxyz/clementine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chainwayxyz/clementine?style=flat-square&color=yellow)](https://github.com/chainwayxyz/clementine/stargazers) [![Forks](https://img.shields.io/github/forks/chainwayxyz/clementine?style=flat-square&color=blue)](https://github.com/chainwayxyz/clementine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Clementine repository
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

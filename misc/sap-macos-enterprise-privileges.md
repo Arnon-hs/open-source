@@ -1,6 +1,6 @@
 # SAP/macOS-enterprise-privileges
 
-[![Stars](https://img.shields.io/github/stars/SAP/macOS-enterprise-privileges?style=flat-square&color=yellow)](https://github.com/SAP/macOS-enterprise-privileges/stargazers) [![Forks](https://img.shields.io/github/forks/SAP/macOS-enterprise-privileges?style=flat-square&color=blue)](https://github.com/SAP/macOS-enterprise-privileges/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SAP/macOS-enterprise-privileges?style=flat-square&color=yellow)](https://github.com/SAP/macOS-enterprise-privileges/stargazers) [![Forks](https://img.shields.io/github/forks/SAP/macOS-enterprise-privileges?style=flat-square&color=blue)](https://github.com/SAP/macOS-enterprise-privileges/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > This application gives Mac users in enterprise environments control over the administration of their machines by elevating their access level to administrator privileges on macOS. Users can set a timeframe in the application's settings to perform specific tasks, such as installing or uninstalling applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # chapmanjacobd/library
 
-[![Stars](https://img.shields.io/github/stars/chapmanjacobd/library?style=flat-square&color=yellow)](https://github.com/chapmanjacobd/library/stargazers) [![Forks](https://img.shields.io/github/forks/chapmanjacobd/library?style=flat-square&color=blue)](https://github.com/chapmanjacobd/library/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chapmanjacobd/library?style=flat-square&color=yellow)](https://github.com/chapmanjacobd/library/stargazers) [![Forks](https://img.shields.io/github/forks/chapmanjacobd/library?style=flat-square&color=blue)](https://github.com/chapmanjacobd/library/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 99+ CLI tools to build, browse, and blend your media library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # mattatz/curvo
 
-[![Stars](https://img.shields.io/github/stars/mattatz/curvo?style=flat-square&color=yellow)](https://github.com/mattatz/curvo/stargazers) [![Forks](https://img.shields.io/github/forks/mattatz/curvo?style=flat-square&color=blue)](https://github.com/mattatz/curvo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattatz/curvo?style=flat-square&color=yellow)](https://github.com/mattatz/curvo/stargazers) [![Forks](https://img.shields.io/github/forks/mattatz/curvo?style=flat-square&color=blue)](https://github.com/mattatz/curvo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > NURBS curve / surface modeling library for Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 199 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

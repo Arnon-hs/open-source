@@ -1,6 +1,6 @@
 # dgunzy/flux9s
 
-[![Stars](https://img.shields.io/github/stars/dgunzy/flux9s?style=flat-square&color=yellow)](https://github.com/dgunzy/flux9s/stargazers) [![Forks](https://img.shields.io/github/forks/dgunzy/flux9s?style=flat-square&color=blue)](https://github.com/dgunzy/flux9s/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dgunzy/flux9s?style=flat-square&color=yellow)](https://github.com/dgunzy/flux9s/stargazers) [![Forks](https://img.shields.io/github/forks/dgunzy/flux9s?style=flat-square&color=blue)](https://github.com/dgunzy/flux9s/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > A K9s-inspired terminal UI for monitoring Flux resources in real-time
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 191 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

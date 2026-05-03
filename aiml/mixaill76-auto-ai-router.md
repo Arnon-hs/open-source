@@ -1,6 +1,6 @@
 # MiXaiLL76/auto_ai_router
 
-[![Stars](https://img.shields.io/github/stars/MiXaiLL76/auto_ai_router?style=flat-square&color=yellow)](https://github.com/MiXaiLL76/auto_ai_router/stargazers) [![Forks](https://img.shields.io/github/forks/MiXaiLL76/auto_ai_router?style=flat-square&color=blue)](https://github.com/MiXaiLL76/auto_ai_router/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MiXaiLL76/auto_ai_router?style=flat-square&color=yellow)](https://github.com/MiXaiLL76/auto_ai_router/stargazers) [![Forks](https://img.shields.io/github/forks/MiXaiLL76/auto_ai_router?style=flat-square&color=blue)](https://github.com/MiXaiLL76/auto_ai_router/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance proxy router for LLM APIs with automatic load balancing, rate limiting, and fail2ban protection
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

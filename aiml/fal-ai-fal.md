@@ -1,6 +1,6 @@
 # fal-ai/fal
 
-[![Stars](https://img.shields.io/github/stars/fal-ai/fal?style=flat-square&color=yellow)](https://github.com/fal-ai/fal/stargazers) [![Forks](https://img.shields.io/github/forks/fal-ai/fal?style=flat-square&color=blue)](https://github.com/fal-ai/fal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fal-ai/fal?style=flat-square&color=yellow)](https://github.com/fal-ai/fal/stargazers) [![Forks](https://img.shields.io/github/forks/fal-ai/fal?style=flat-square&color=blue)](https://github.com/fal-ai/fal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Fastest way to serve open source ML models to millions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 894 |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

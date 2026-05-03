@@ -1,6 +1,6 @@
 # leenooks/phpLDAPadmin
 
-[![Stars](https://img.shields.io/github/stars/leenooks/phpLDAPadmin?style=flat-square&color=yellow)](https://github.com/leenooks/phpLDAPadmin/stargazers) [![Forks](https://img.shields.io/github/forks/leenooks/phpLDAPadmin?style=flat-square&color=blue)](https://github.com/leenooks/phpLDAPadmin/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leenooks/phpLDAPadmin?style=flat-square&color=yellow)](https://github.com/leenooks/phpLDAPadmin/stargazers) [![Forks](https://img.shields.io/github/forks/leenooks/phpLDAPadmin?style=flat-square&color=blue)](https://github.com/leenooks/phpLDAPadmin/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > phpLDAPadmin - Web based LDAP administration tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 725 |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

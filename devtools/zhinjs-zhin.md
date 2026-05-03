@@ -1,6 +1,6 @@
 # zhinjs/zhin
 
-[![Stars](https://img.shields.io/github/stars/zhinjs/zhin?style=flat-square&color=yellow)](https://github.com/zhinjs/zhin/stargazers) [![Forks](https://img.shields.io/github/forks/zhinjs/zhin?style=flat-square&color=blue)](https://github.com/zhinjs/zhin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhinjs/zhin?style=flat-square&color=yellow)](https://github.com/zhinjs/zhin/stargazers) [![Forks](https://img.shields.io/github/forks/zhinjs/zhin?style=flat-square&color=blue)](https://github.com/zhinjs/zhin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > a chat bot framework for Node.js developers, compatible with qq、icqq、wechat、discord、onebot(11/12)、dingtalk and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

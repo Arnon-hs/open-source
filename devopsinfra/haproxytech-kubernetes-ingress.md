@@ -1,6 +1,6 @@
 # haproxytech/kubernetes-ingress
 
-[![Stars](https://img.shields.io/github/stars/haproxytech/kubernetes-ingress?style=flat-square&color=yellow)](https://github.com/haproxytech/kubernetes-ingress/stargazers) [![Forks](https://img.shields.io/github/forks/haproxytech/kubernetes-ingress?style=flat-square&color=blue)](https://github.com/haproxytech/kubernetes-ingress/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haproxytech/kubernetes-ingress?style=flat-square&color=yellow)](https://github.com/haproxytech/kubernetes-ingress/stargazers) [![Forks](https://img.shields.io/github/forks/haproxytech/kubernetes-ingress?style=flat-square&color=blue)](https://github.com/haproxytech/kubernetes-ingress/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > HAProxy Ingress Controller for Kubernetes https://www.haproxy.com/blog/announcing-haproxy-kubernetes-ingress-controller-3-2
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 850 |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

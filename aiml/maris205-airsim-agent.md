@@ -1,6 +1,6 @@
 # maris205/airsim_agent
 
-[![Stars](https://img.shields.io/github/stars/maris205/airsim_agent?style=flat-square&color=yellow)](https://github.com/maris205/airsim_agent/stargazers) [![Forks](https://img.shields.io/github/forks/maris205/airsim_agent?style=flat-square&color=blue)](https://github.com/maris205/airsim_agent/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maris205/airsim_agent?style=flat-square&color=yellow)](https://github.com/maris205/airsim_agent/stargazers) [![Forks](https://img.shields.io/github/forks/maris205/airsim_agent?style=flat-square&color=blue)](https://github.com/maris205/airsim_agent/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 90 |
+| ⭐ **Stars** | 89 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

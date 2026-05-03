@@ -1,6 +1,6 @@
 # tinyflow-ai/tinyflow
 
-[![Stars](https://img.shields.io/github/stars/tinyflow-ai/tinyflow?style=flat-square&color=yellow)](https://github.com/tinyflow-ai/tinyflow/stargazers) [![Forks](https://img.shields.io/github/forks/tinyflow-ai/tinyflow?style=flat-square&color=blue)](https://github.com/tinyflow-ai/tinyflow/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinyflow-ai/tinyflow?style=flat-square&color=yellow)](https://github.com/tinyflow-ai/tinyflow/stargazers) [![Forks](https://img.shields.io/github/forks/tinyflow-ai/tinyflow?style=flat-square&color=blue)](https://github.com/tinyflow-ai/tinyflow/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Tinyflow is a lightweight AI agent solution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 658 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

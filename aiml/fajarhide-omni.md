@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/fajarhide/omni?style=flat-square&color=yellow)](https://github.com/fajarhide/omni/stargazers) [![Forks](https://img.shields.io/github/forks/fajarhide/omni?style=flat-square&color=blue)](https://github.com/fajarhide/omni/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> A smart context filter that removes noise, improves responses, and reduces token usage up to 90%
+> A smart context filter that removes noise, refines and enhances responses, also slashes token usage by up to 90%.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 152 |
-| 🍴 **Forks** | 16 |
+| ⭐ **Stars** | 153 |
+| 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |

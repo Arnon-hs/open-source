@@ -1,6 +1,6 @@
 # googleapis/google-api-ruby-client
 
-[![Stars](https://img.shields.io/github/stars/googleapis/google-api-ruby-client?style=flat-square&color=yellow)](https://github.com/googleapis/google-api-ruby-client/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-api-ruby-client?style=flat-square&color=blue)](https://github.com/googleapis/google-api-ruby-client/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/google-api-ruby-client?style=flat-square&color=yellow)](https://github.com/googleapis/google-api-ruby-client/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-api-ruby-client?style=flat-square&color=blue)](https://github.com/googleapis/google-api-ruby-client/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > REST client for Google APIs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 885 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

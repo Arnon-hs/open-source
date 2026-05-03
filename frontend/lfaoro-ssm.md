@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/lfaoro/ssm?style=flat-square&color=yellow)](https://github.com/lfaoro/ssm/stargazers) [![Forks](https://img.shields.io/github/forks/lfaoro/ssm?style=flat-square&color=blue)](https://github.com/lfaoro/ssm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Your terminal SSH connection manager
+> Terminal SSH connection manager
 
 ## 📊 Stats
 

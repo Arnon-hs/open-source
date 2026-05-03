@@ -1,6 +1,6 @@
 # Oppzippy/OpenSCQ30
 
-[![Stars](https://img.shields.io/github/stars/Oppzippy/OpenSCQ30?style=flat-square&color=yellow)](https://github.com/Oppzippy/OpenSCQ30/stargazers) [![Forks](https://img.shields.io/github/forks/Oppzippy/OpenSCQ30?style=flat-square&color=blue)](https://github.com/Oppzippy/OpenSCQ30/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Oppzippy/OpenSCQ30?style=flat-square&color=yellow)](https://github.com/Oppzippy/OpenSCQ30/stargazers) [![Forks](https://img.shields.io/github/forks/Oppzippy/OpenSCQ30?style=flat-square&color=blue)](https://github.com/Oppzippy/OpenSCQ30/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Cross platform application for controlling settings of Soundcore headphones, earbuds, and speakers. Supports desktop (CLI and GUI) and Android.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 306 |
-| 🍴 **Forks** | 23 |
+| 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # sveinbjornt/hear
 
-[![Stars](https://img.shields.io/github/stars/sveinbjornt/hear?style=flat-square&color=yellow)](https://github.com/sveinbjornt/hear/stargazers) [![Forks](https://img.shields.io/github/forks/sveinbjornt/hear?style=flat-square&color=blue)](https://github.com/sveinbjornt/hear/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sveinbjornt/hear?style=flat-square&color=yellow)](https://github.com/sveinbjornt/hear/stargazers) [![Forks](https://img.shields.io/github/forks/sveinbjornt/hear?style=flat-square&color=blue)](https://github.com/sveinbjornt/hear/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Command line interface for the built-in speech recognition and transcription capabilities in macOS.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 652 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

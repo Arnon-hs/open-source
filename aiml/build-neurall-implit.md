@@ -1,6 +1,6 @@
 # build-neurall/implit
 
-[![Stars](https://img.shields.io/github/stars/build-neurall/implit?style=flat-square&color=yellow)](https://github.com/build-neurall/implit/stargazers) [![Forks](https://img.shields.io/github/forks/build-neurall/implit?style=flat-square&color=blue)](https://github.com/build-neurall/implit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/build-neurall/implit?style=flat-square&color=yellow)](https://github.com/build-neurall/implit/stargazers) [![Forks](https://img.shields.io/github/forks/build-neurall/implit?style=flat-square&color=blue)](https://github.com/build-neurall/implit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Validate imports and catch fake AI-generated dependencies
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

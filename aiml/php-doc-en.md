@@ -1,6 +1,6 @@
 # php/doc-en
 
-[![Stars](https://img.shields.io/github/stars/php/doc-en?style=flat-square&color=yellow)](https://github.com/php/doc-en/stargazers) [![Forks](https://img.shields.io/github/forks/php/doc-en?style=flat-square&color=blue)](https://github.com/php/doc-en/network) [![Language](https://img.shields.io/badge/lang-XML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/php/doc-en?style=flat-square&color=yellow)](https://github.com/php/doc-en/stargazers) [![Forks](https://img.shields.io/github/forks/php/doc-en?style=flat-square&color=blue)](https://github.com/php/doc-en/network) [![Language](https://img.shields.io/badge/lang-XML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > English PHP documentation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 585 |
 | 🍴 **Forks** | 866 |
 | 💻 **Language** | XML |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

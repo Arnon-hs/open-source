@@ -1,6 +1,6 @@
 # orchidfiles/ungate
 
-[![Stars](https://img.shields.io/github/stars/orchidfiles/ungate?style=flat-square&color=yellow)](https://github.com/orchidfiles/ungate/stargazers) [![Forks](https://img.shields.io/github/forks/orchidfiles/ungate?style=flat-square&color=blue)](https://github.com/orchidfiles/ungate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orchidfiles/ungate?style=flat-square&color=yellow)](https://github.com/orchidfiles/ungate/stargazers) [![Forks](https://img.shields.io/github/forks/orchidfiles/ungate?style=flat-square&color=blue)](https://github.com/orchidfiles/ungate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Use your Claude and ChatGPT subscriptions in Cursor instead of paying for API tokens.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # googleapis/mcp-toolbox-sdk-js
 
-[![Stars](https://img.shields.io/github/stars/googleapis/mcp-toolbox-sdk-js?style=flat-square&color=yellow)](https://github.com/googleapis/mcp-toolbox-sdk-js/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/mcp-toolbox-sdk-js?style=flat-square&color=blue)](https://github.com/googleapis/mcp-toolbox-sdk-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/mcp-toolbox-sdk-js?style=flat-square&color=yellow)](https://github.com/googleapis/mcp-toolbox-sdk-js/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/mcp-toolbox-sdk-js?style=flat-square&color=blue)](https://github.com/googleapis/mcp-toolbox-sdk-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Javascript SDK for interacting with the MCP Toolbox for Databases.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

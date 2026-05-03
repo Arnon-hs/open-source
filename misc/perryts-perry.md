@@ -1,6 +1,6 @@
 # PerryTS/perry
 
-[![Stars](https://img.shields.io/github/stars/PerryTS/perry?style=flat-square&color=yellow)](https://github.com/PerryTS/perry/stargazers) [![Forks](https://img.shields.io/github/forks/PerryTS/perry?style=flat-square&color=blue)](https://github.com/PerryTS/perry/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PerryTS/perry?style=flat-square&color=yellow)](https://github.com/PerryTS/perry/stargazers) [![Forks](https://img.shields.io/github/forks/PerryTS/perry?style=flat-square&color=blue)](https://github.com/PerryTS/perry/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 73 |
+| ⭐ **Stars** | 2.4k |
+| 🍴 **Forks** | 74 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

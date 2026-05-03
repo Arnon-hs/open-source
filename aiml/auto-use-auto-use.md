@@ -1,6 +1,6 @@
 # auto-use/Auto-Use
 
-[![Stars](https://img.shields.io/github/stars/auto-use/Auto-Use?style=flat-square&color=yellow)](https://github.com/auto-use/Auto-Use/stargazers) [![Forks](https://img.shields.io/github/forks/auto-use/Auto-Use?style=flat-square&color=blue)](https://github.com/auto-use/Auto-Use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/auto-use/Auto-Use?style=flat-square&color=yellow)](https://github.com/auto-use/Auto-Use/stargazers) [![Forks](https://img.shields.io/github/forks/auto-use/Auto-Use?style=flat-square&color=blue)](https://github.com/auto-use/Auto-Use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Auto-Use Computer Use — drives your OS, browser, scours the web, writes your code. One agent, end to end.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 56 |
+| ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

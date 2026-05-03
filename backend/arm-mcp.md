@@ -1,6 +1,6 @@
 # arm/mcp
 
-[![Stars](https://img.shields.io/github/stars/arm/mcp?style=flat-square&color=yellow)](https://github.com/arm/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/arm/mcp?style=flat-square&color=blue)](https://github.com/arm/mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arm/mcp?style=flat-square&color=yellow)](https://github.com/arm/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/arm/mcp?style=flat-square&color=blue)](https://github.com/arm/mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Arm's MCP server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # IgorShadurin/app.yumcut.com
 
-[![Stars](https://img.shields.io/github/stars/IgorShadurin/app.yumcut.com?style=flat-square&color=yellow)](https://github.com/IgorShadurin/app.yumcut.com/stargazers) [![Forks](https://img.shields.io/github/forks/IgorShadurin/app.yumcut.com?style=flat-square&color=blue)](https://github.com/IgorShadurin/app.yumcut.com/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IgorShadurin/app.yumcut.com?style=flat-square&color=yellow)](https://github.com/IgorShadurin/app.yumcut.com/stargazers) [![Forks](https://img.shields.io/github/forks/IgorShadurin/app.yumcut.com?style=flat-square&color=blue)](https://github.com/IgorShadurin/app.yumcut.com/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > YumCut - free AI video generator to turn a prompt into ready vertical videos for TikTok, Reels and YouTube Shorts. Auto script, scenes, voiceover, subtitles and watermark. Built with Next.js. Local-first pipeline + templates, batch rendering and API hooks for creators and indie makers. Self-hosted, FFmpeg-ready, multi-language output. Low cost fast
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 688 |
+| ⭐ **Stars** | 689 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

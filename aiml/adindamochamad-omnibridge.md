@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 34 |
-| 🍴 **Forks** | 8 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | Svelte |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
