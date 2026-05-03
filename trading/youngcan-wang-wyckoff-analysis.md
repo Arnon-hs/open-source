@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/YoungCan-Wang/Wyckoff-Analysis?style=flat-square&color=yellow)](https://github.com/YoungCan-Wang/Wyckoff-Analysis/stargazers) [![Forks](https://img.shields.io/github/forks/YoungCan-Wang/Wyckoff-Analysis?style=flat-square&color=blue)](https://github.com/YoungCan-Wang/Wyckoff-Analysis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> 威科夫降临 分析A股，灵感来自 秋生trader @Hoyooyoo
+> 威科夫量化策略认知及大模型Agent开发系统，灵感来自 秋生trader @Hoyooyoo
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 381 |
+| ⭐ **Stars** | 382 |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 45/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Trading
+Trading · AI/ML
 
 ## 📝 Summary
 

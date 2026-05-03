@@ -1,6 +1,6 @@
 # hoo-dles/morphe-patches
 
-[![Stars](https://img.shields.io/github/stars/hoo-dles/morphe-patches?style=flat-square&color=yellow)](https://github.com/hoo-dles/morphe-patches/stargazers) [![Forks](https://img.shields.io/github/forks/hoo-dles/morphe-patches?style=flat-square&color=blue)](https://github.com/hoo-dles/morphe-patches/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoo-dles/morphe-patches?style=flat-square&color=yellow)](https://github.com/hoo-dles/morphe-patches/stargazers) [![Forks](https://img.shields.io/github/forks/hoo-dles/morphe-patches?style=flat-square&color=blue)](https://github.com/hoo-dles/morphe-patches/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 🍃 Patches for Morphe
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 476 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 480 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # tbckr/sgpt
 
-[![Stars](https://img.shields.io/github/stars/tbckr/sgpt?style=flat-square&color=yellow)](https://github.com/tbckr/sgpt/stargazers) [![Forks](https://img.shields.io/github/forks/tbckr/sgpt?style=flat-square&color=blue)](https://github.com/tbckr/sgpt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tbckr/sgpt?style=flat-square&color=yellow)](https://github.com/tbckr/sgpt/stargazers) [![Forks](https://img.shields.io/github/forks/tbckr/sgpt?style=flat-square&color=blue)](https://github.com/tbckr/sgpt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 441 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

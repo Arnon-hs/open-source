@@ -1,6 +1,6 @@
 # InternScience/ResearchClawBench
 
-[![Stars](https://img.shields.io/github/stars/InternScience/ResearchClawBench?style=flat-square&color=yellow)](https://github.com/InternScience/ResearchClawBench/stargazers) [![Forks](https://img.shields.io/github/forks/InternScience/ResearchClawBench?style=flat-square&color=blue)](https://github.com/InternScience/ResearchClawBench/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/InternScience/ResearchClawBench?style=flat-square&color=yellow)](https://github.com/InternScience/ResearchClawBench/stargazers) [![Forks](https://img.shields.io/github/forks/InternScience/ResearchClawBench?style=flat-square&color=blue)](https://github.com/InternScience/ResearchClawBench/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🦞 ResearchClawBench: Evaluating AI Agents for Automated Research from Re-Discovery to New-Discovery
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

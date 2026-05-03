@@ -1,6 +1,6 @@
 # Maproom/qmapshack
 
-[![Stars](https://img.shields.io/github/stars/Maproom/qmapshack?style=flat-square&color=yellow)](https://github.com/Maproom/qmapshack/stargazers) [![Forks](https://img.shields.io/github/forks/Maproom/qmapshack?style=flat-square&color=blue)](https://github.com/Maproom/qmapshack/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Maproom/qmapshack?style=flat-square&color=yellow)](https://github.com/Maproom/qmapshack/stargazers) [![Forks](https://img.shields.io/github/forks/Maproom/qmapshack?style=flat-square&color=blue)](https://github.com/Maproom/qmapshack/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Consumer grade GIS software
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 388 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

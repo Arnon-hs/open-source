@@ -1,6 +1,6 @@
 # ariasmn/ugm
 
-[![Stars](https://img.shields.io/github/stars/ariasmn/ugm?style=flat-square&color=yellow)](https://github.com/ariasmn/ugm/stargazers) [![Forks](https://img.shields.io/github/forks/ariasmn/ugm?style=flat-square&color=blue)](https://github.com/ariasmn/ugm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ariasmn/ugm?style=flat-square&color=yellow)](https://github.com/ariasmn/ugm/stargazers) [![Forks](https://img.shields.io/github/forks/ariasmn/ugm?style=flat-square&color=blue)](https://github.com/ariasmn/ugm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal based UNIX user and group browser
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 159 |
+| ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

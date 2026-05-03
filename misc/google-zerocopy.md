@@ -1,6 +1,6 @@
 # google/zerocopy
 
-[![Stars](https://img.shields.io/github/stars/google/zerocopy?style=flat-square&color=yellow)](https://github.com/google/zerocopy/stargazers) [![Forks](https://img.shields.io/github/forks/google/zerocopy?style=flat-square&color=blue)](https://github.com/google/zerocopy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/zerocopy?style=flat-square&color=yellow)](https://github.com/google/zerocopy/stargazers) [![Forks](https://img.shields.io/github/forks/google/zerocopy?style=flat-square&color=blue)](https://github.com/google/zerocopy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

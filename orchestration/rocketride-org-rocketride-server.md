@@ -1,6 +1,6 @@
 # rocketride-org/rocketride-server
 
-[![Stars](https://img.shields.io/github/stars/rocketride-org/rocketride-server?style=flat-square&color=yellow)](https://github.com/rocketride-org/rocketride-server/stargazers) [![Forks](https://img.shields.io/github/forks/rocketride-org/rocketride-server?style=flat-square&color=blue)](https://github.com/rocketride-org/rocketride-server/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rocketride-org/rocketride-server?style=flat-square&color=yellow)](https://github.com/rocketride-org/rocketride-server/stargazers) [![Forks](https://img.shields.io/github/forks/rocketride-org/rocketride-server?style=flat-square&color=blue)](https://github.com/rocketride-org/rocketride-server/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 100 |
+| ⭐ **Stars** | 2k |
+| 🍴 **Forks** | 120 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

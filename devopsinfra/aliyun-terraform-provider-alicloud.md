@@ -1,6 +1,6 @@
 # aliyun/terraform-provider-alicloud
 
-[![Stars](https://img.shields.io/github/stars/aliyun/terraform-provider-alicloud?style=flat-square&color=yellow)](https://github.com/aliyun/terraform-provider-alicloud/stargazers) [![Forks](https://img.shields.io/github/forks/aliyun/terraform-provider-alicloud?style=flat-square&color=blue)](https://github.com/aliyun/terraform-provider-alicloud/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aliyun/terraform-provider-alicloud?style=flat-square&color=yellow)](https://github.com/aliyun/terraform-provider-alicloud/stargazers) [![Forks](https://img.shields.io/github/forks/aliyun/terraform-provider-alicloud?style=flat-square&color=blue)](https://github.com/aliyun/terraform-provider-alicloud/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform AliCloud provider
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 654 |
 | 🍴 **Forks** | 601 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # juice-shop/multi-juicer
 
-[![Stars](https://img.shields.io/github/stars/juice-shop/multi-juicer?style=flat-square&color=yellow)](https://github.com/juice-shop/multi-juicer/stargazers) [![Forks](https://img.shields.io/github/forks/juice-shop/multi-juicer?style=flat-square&color=blue)](https://github.com/juice-shop/multi-juicer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juice-shop/multi-juicer?style=flat-square&color=yellow)](https://github.com/juice-shop/multi-juicer/stargazers) [![Forks](https://img.shields.io/github/forks/juice-shop/multi-juicer?style=flat-square&color=blue)](https://github.com/juice-shop/multi-juicer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Host and manage multiple Juice Shop instances for security trainings and Capture The Flags
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 314 |
-| 🍴 **Forks** | 172 |
+| ⭐ **Stars** | 315 |
+| 🍴 **Forks** | 173 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

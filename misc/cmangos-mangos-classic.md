@@ -1,6 +1,6 @@
 # cmangos/mangos-classic
 
-[![Stars](https://img.shields.io/github/stars/cmangos/mangos-classic?style=flat-square&color=yellow)](https://github.com/cmangos/mangos-classic/stargazers) [![Forks](https://img.shields.io/github/forks/cmangos/mangos-classic?style=flat-square&color=blue)](https://github.com/cmangos/mangos-classic/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cmangos/mangos-classic?style=flat-square&color=yellow)](https://github.com/cmangos/mangos-classic/stargazers) [![Forks](https://img.shields.io/github/forks/cmangos/mangos-classic?style=flat-square&color=blue)](https://github.com/cmangos/mangos-classic/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > C(ontinued)-MaNGOS (Classic fork) is about: -- Doing WoW-Emulation Right!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 591 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

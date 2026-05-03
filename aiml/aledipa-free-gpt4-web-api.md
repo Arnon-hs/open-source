@@ -1,6 +1,6 @@
 # aledipa/Free-GPT4-WEB-API
 
-[![Stars](https://img.shields.io/github/stars/aledipa/Free-GPT4-WEB-API?style=flat-square&color=yellow)](https://github.com/aledipa/Free-GPT4-WEB-API/stargazers) [![Forks](https://img.shields.io/github/forks/aledipa/Free-GPT4-WEB-API?style=flat-square&color=blue)](https://github.com/aledipa/Free-GPT4-WEB-API/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aledipa/Free-GPT4-WEB-API?style=flat-square&color=yellow)](https://github.com/aledipa/Free-GPT4-WEB-API/stargazers) [![Forks](https://img.shields.io/github/forks/aledipa/Free-GPT4-WEB-API?style=flat-square&color=blue)](https://github.com/aledipa/Free-GPT4-WEB-API/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Not just GPT4! Easy to use, Self-Hosted, Unlimited and Free WEB API of the latest A.I. like Gemini, DeepSeek, Claude and GPT
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 693 |
+| ⭐ **Stars** | 694 |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

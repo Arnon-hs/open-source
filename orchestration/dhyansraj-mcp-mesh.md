@@ -1,6 +1,6 @@
 # dhyansraj/mcp-mesh
 
-[![Stars](https://img.shields.io/github/stars/dhyansraj/mcp-mesh?style=flat-square&color=yellow)](https://github.com/dhyansraj/mcp-mesh/stargazers) [![Forks](https://img.shields.io/github/forks/dhyansraj/mcp-mesh?style=flat-square&color=blue)](https://github.com/dhyansraj/mcp-mesh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dhyansraj/mcp-mesh?style=flat-square&color=yellow)](https://github.com/dhyansraj/mcp-mesh/stargazers) [![Forks](https://img.shields.io/github/forks/dhyansraj/mcp-mesh?style=flat-square&color=blue)](https://github.com/dhyansraj/mcp-mesh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise-grade distributed AI agent framework | Develop → Deploy → Observe | K8s-native | Dynamic DI | Auto-failover | Multi-LLM | Python + Java + TypeScript
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 6 |
-| 💻 **Language** | Go |
+| 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

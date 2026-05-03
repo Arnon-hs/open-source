@@ -2,7 +2,7 @@
 
 > 
 
-**29 projects** in this category.
+**30 projects** in this category.
 
 ## Projects
 
@@ -20,8 +20,8 @@
 | 10 | [maaslalani/sheets](./maaslalani-sheets.md) | ⭐ 2.2k | Go | 56/100 |
 | 11 | [nowork-studio/toprank](./nowork-studio-toprank.md) | ⭐ 1.6k | Python | 55/100 |
 | 12 | [pH-7/Download-Simply-Videos-From-YouTube](./ph-7-download-simply-videos-from-youtube.md) | ⭐ 372 | Python | 54/100 |
-| 13 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 519 | PHP | 54/100 |
-| 14 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 628 | C# | 53/100 |
+| 13 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 520 | PHP | 54/100 |
+| 14 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 629 | C# | 53/100 |
 | 15 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 16 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 967 | TypeScript | 52/100 |
 | 17 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 52/100 |
@@ -31,12 +31,13 @@
 | 21 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 121 | Rust | 51/100 |
 | 22 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 17 | — | 50/100 |
 | 23 | [nil-go/konf](./nil-go-konf.md) | ⭐ 380 | Go | 49/100 |
-| 24 | [garritfra/cell](./garritfra-cell.md) | ⭐ 255 | Rust | 47/100 |
+| 24 | [garritfra/cell](./garritfra-cell.md) | ⭐ 256 | Rust | 47/100 |
 | 25 | [angr/cle](./angr-cle.md) | ⭐ 480 | Python | 45/100 |
 | 26 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 335 | Go | 43/100 |
-| 27 | [wdecoster/cramino](./wdecoster-cramino.md) | ⭐ 182 | Rust | 41/100 |
-| 28 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 232 | Go | 38/100 |
-| 29 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 3 | — | 36/100 |
+| 27 | [AzureIvory/block-ads](./azureivory-block-ads.md) | ⭐ 197 | Go | 42/100 |
+| 28 | [wdecoster/cramino](./wdecoster-cramino.md) | ⭐ 182 | Rust | 41/100 |
+| 29 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 232 | Go | 38/100 |
+| 30 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 3 | — | 36/100 |
 
 ---
 

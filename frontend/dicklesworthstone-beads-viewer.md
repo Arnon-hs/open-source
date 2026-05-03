@@ -1,6 +1,6 @@
 # Dicklesworthstone/beads_viewer
 
-[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/beads_viewer?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/beads_viewer/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/beads_viewer?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/beads_viewer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/beads_viewer?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/beads_viewer/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/beads_viewer?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/beads_viewer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, dependency DAG visualization, and robot-mode JSON API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

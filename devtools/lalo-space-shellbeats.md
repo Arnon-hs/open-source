@@ -1,6 +1,6 @@
 # lalo-space/shellbeats
 
-[![Stars](https://img.shields.io/github/stars/lalo-space/shellbeats?style=flat-square&color=yellow)](https://github.com/lalo-space/shellbeats/stargazers) [![Forks](https://img.shields.io/github/forks/lalo-space/shellbeats?style=flat-square&color=blue)](https://github.com/lalo-space/shellbeats/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lalo-space/shellbeats?style=flat-square&color=yellow)](https://github.com/lalo-space/shellbeats/stargazers) [![Forks](https://img.shields.io/github/forks/lalo-space/shellbeats?style=flat-square&color=blue)](https://github.com/lalo-space/shellbeats/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > CLI music player for Linux/Mac. Stream YouTube audio and mp3 download. Minimal, fast, keyboard driven.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 220 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | C |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

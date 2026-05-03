@@ -1,6 +1,6 @@
 # sophgo/LLM-TPU
 
-[![Stars](https://img.shields.io/github/stars/sophgo/LLM-TPU?style=flat-square&color=yellow)](https://github.com/sophgo/LLM-TPU/stargazers) [![Forks](https://img.shields.io/github/forks/sophgo/LLM-TPU?style=flat-square&color=blue)](https://github.com/sophgo/LLM-TPU/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sophgo/LLM-TPU?style=flat-square&color=yellow)](https://github.com/sophgo/LLM-TPU/stargazers) [![Forks](https://img.shields.io/github/forks/sophgo/LLM-TPU?style=flat-square&color=blue)](https://github.com/sophgo/LLM-TPU/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Run generative AI models in sophgo BM1684X/BM1688
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 282 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

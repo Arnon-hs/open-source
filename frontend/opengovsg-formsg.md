@@ -1,6 +1,6 @@
 # opengovsg/FormSG
 
-[![Stars](https://img.shields.io/github/stars/opengovsg/FormSG?style=flat-square&color=yellow)](https://github.com/opengovsg/FormSG/stargazers) [![Forks](https://img.shields.io/github/forks/opengovsg/FormSG?style=flat-square&color=blue)](https://github.com/opengovsg/FormSG/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opengovsg/FormSG?style=flat-square&color=yellow)](https://github.com/opengovsg/FormSG/stargazers) [![Forks](https://img.shields.io/github/forks/opengovsg/FormSG?style=flat-square&color=blue)](https://github.com/opengovsg/FormSG/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Form builder for the Singapore Government
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

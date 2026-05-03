@@ -1,6 +1,6 @@
 # ryaneggz/open-harness
 
-[![Stars](https://img.shields.io/github/stars/ryaneggz/open-harness?style=flat-square&color=yellow)](https://github.com/ryaneggz/open-harness/stargazers) [![Forks](https://img.shields.io/github/forks/ryaneggz/open-harness?style=flat-square&color=blue)](https://github.com/ryaneggz/open-harness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ryaneggz/open-harness?style=flat-square&color=yellow)](https://github.com/ryaneggz/open-harness/stargazers) [![Forks](https://img.shields.io/github/forks/ryaneggz/open-harness?style=flat-square&color=blue)](https://github.com/ryaneggz/open-harness/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🏗️ Multi-Layer AI Orchestrator & Sandbox System. BYOH (Bring Your Own Harness)
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 2 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | Shell |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

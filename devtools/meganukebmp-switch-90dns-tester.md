@@ -1,6 +1,6 @@
 # meganukebmp/Switch_90DNS_tester
 
-[![Stars](https://img.shields.io/github/stars/meganukebmp/Switch_90DNS_tester?style=flat-square&color=yellow)](https://github.com/meganukebmp/Switch_90DNS_tester/stargazers) [![Forks](https://img.shields.io/github/forks/meganukebmp/Switch_90DNS_tester?style=flat-square&color=blue)](https://github.com/meganukebmp/Switch_90DNS_tester/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meganukebmp/Switch_90DNS_tester?style=flat-square&color=yellow)](https://github.com/meganukebmp/Switch_90DNS_tester/stargazers) [![Forks](https://img.shields.io/github/forks/meganukebmp/Switch_90DNS_tester?style=flat-square&color=blue)](https://github.com/meganukebmp/Switch_90DNS_tester/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > A simple homebrew application to test 90DNS or Atmosphere DNS MITM on the switch (https://gitlab.com/a/90dns)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Makefile |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # voglster/lumbergh
 
-[![Stars](https://img.shields.io/github/stars/voglster/lumbergh?style=flat-square&color=yellow)](https://github.com/voglster/lumbergh/stargazers) [![Forks](https://img.shields.io/github/forks/voglster/lumbergh?style=flat-square&color=blue)](https://github.com/voglster/lumbergh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/voglster/lumbergh?style=flat-square&color=yellow)](https://github.com/voglster/lumbergh/stargazers) [![Forks](https://img.shields.io/github/forks/voglster/lumbergh?style=flat-square&color=blue)](https://github.com/voglster/lumbergh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted web dashboard for supervising multiple Claude Code AI sessions in tmux. Live terminals, real-time git diffs, file browser, todo lists, prompt templates, and mobile PWA support. Micromanage your AI interns from any device.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

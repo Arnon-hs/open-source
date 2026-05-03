@@ -1,6 +1,6 @@
 # 86maid/ddddocr
 
-[![Stars](https://img.shields.io/github/stars/86maid/ddddocr?style=flat-square&color=yellow)](https://github.com/86maid/ddddocr/stargazers) [![Forks](https://img.shields.io/github/forks/86maid/ddddocr?style=flat-square&color=blue)](https://github.com/86maid/ddddocr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/86maid/ddddocr?style=flat-square&color=yellow)](https://github.com/86maid/ddddocr/stargazers) [![Forks](https://img.shields.io/github/forks/86maid/ddddocr?style=flat-square&color=blue)](https://github.com/86maid/ddddocr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ddddocr rust 版本，ocr_api_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，AI MCP 支持，a simple OCR API server, very easy to deploy。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # saschagrunert/webapp.rs
 
-[![Stars](https://img.shields.io/github/stars/saschagrunert/webapp.rs?style=flat-square&color=yellow)](https://github.com/saschagrunert/webapp.rs/stargazers) [![Forks](https://img.shields.io/github/forks/saschagrunert/webapp.rs?style=flat-square&color=blue)](https://github.com/saschagrunert/webapp.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saschagrunert/webapp.rs?style=flat-square&color=yellow)](https://github.com/saschagrunert/webapp.rs/stargazers) [![Forks](https://img.shields.io/github/forks/saschagrunert/webapp.rs?style=flat-square&color=blue)](https://github.com/saschagrunert/webapp.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A web application completely written in Rust. 🌍
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 16.5k |
-| 🍴 **Forks** | 2.8k |
+| 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |

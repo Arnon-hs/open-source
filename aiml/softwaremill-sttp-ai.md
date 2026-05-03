@@ -1,6 +1,6 @@
 # softwaremill/sttp-ai
 
-[![Stars](https://img.shields.io/github/stars/softwaremill/sttp-ai?style=flat-square&color=yellow)](https://github.com/softwaremill/sttp-ai/stargazers) [![Forks](https://img.shields.io/github/forks/softwaremill/sttp-ai?style=flat-square&color=blue)](https://github.com/softwaremill/sttp-ai/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/softwaremill/sttp-ai?style=flat-square&color=yellow)](https://github.com/softwaremill/sttp-ai/stargazers) [![Forks](https://img.shields.io/github/forks/softwaremill/sttp-ai?style=flat-square&color=blue)](https://github.com/softwaremill/sttp-ai/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Scala Client for AI models
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

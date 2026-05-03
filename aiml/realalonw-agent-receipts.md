@@ -1,8 +1,8 @@
 # realalonw/agent-receipts
 
-[![Stars](https://img.shields.io/github/stars/realalonw/agent-receipts?style=flat-square&color=yellow)](https://github.com/realalonw/agent-receipts/stargazers) [![Forks](https://img.shields.io/github/forks/realalonw/agent-receipts?style=flat-square&color=blue)](https://github.com/realalonw/agent-receipts/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/realalonw/agent-receipts?style=flat-square&color=yellow)](https://github.com/realalonw/agent-receipts/stargazers) [![Forks](https://img.shields.io/github/forks/realalonw/agent-receipts?style=flat-square&color=blue)](https://github.com/realalonw/agent-receipts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Open-source receipts for AI agents. Make your AI show its work with sources, risks, confidence, and human-review notes.
 
 ## 📊 Stats
 
@@ -10,8 +10,8 @@
 |---|---|
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

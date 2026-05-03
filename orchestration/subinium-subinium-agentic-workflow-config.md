@@ -1,6 +1,6 @@
 # subinium/subinium-agentic-workflow-config
 
-[![Stars](https://img.shields.io/github/stars/subinium/subinium-agentic-workflow-config?style=flat-square&color=yellow)](https://github.com/subinium/subinium-agentic-workflow-config/stargazers) [![Forks](https://img.shields.io/github/forks/subinium/subinium-agentic-workflow-config?style=flat-square&color=blue)](https://github.com/subinium/subinium-agentic-workflow-config/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/subinium/subinium-agentic-workflow-config?style=flat-square&color=yellow)](https://github.com/subinium/subinium-agentic-workflow-config/stargazers) [![Forks](https://img.shields.io/github/forks/subinium/subinium-agentic-workflow-config?style=flat-square&color=blue)](https://github.com/subinium/subinium-agentic-workflow-config/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Battle-tested ~/.claude/ config for parallel agentic development — skills, agents, hooks, rules.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12 |
+| ⭐ **Stars** | 13 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

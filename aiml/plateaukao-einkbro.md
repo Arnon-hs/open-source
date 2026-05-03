@@ -1,6 +1,6 @@
 # plateaukao/einkbro
 
-[![Stars](https://img.shields.io/github/stars/plateaukao/einkbro?style=flat-square&color=yellow)](https://github.com/plateaukao/einkbro/stargazers) [![Forks](https://img.shields.io/github/forks/plateaukao/einkbro?style=flat-square&color=blue)](https://github.com/plateaukao/einkbro/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plateaukao/einkbro?style=flat-square&color=yellow)](https://github.com/plateaukao/einkbro/stargazers) [![Forks](https://img.shields.io/github/forks/plateaukao/einkbro?style=flat-square&color=blue)](https://github.com/plateaukao/einkbro/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

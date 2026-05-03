@@ -1,6 +1,6 @@
 # schemahero/schemahero
 
-[![Stars](https://img.shields.io/github/stars/schemahero/schemahero?style=flat-square&color=yellow)](https://github.com/schemahero/schemahero/stargazers) [![Forks](https://img.shields.io/github/forks/schemahero/schemahero?style=flat-square&color=blue)](https://github.com/schemahero/schemahero/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/schemahero/schemahero?style=flat-square&color=yellow)](https://github.com/schemahero/schemahero/stargazers) [![Forks](https://img.shields.io/github/forks/schemahero/schemahero?style=flat-square&color=blue)](https://github.com/schemahero/schemahero/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A Kubernetes operator for declarative database schema management (gitops for database schemas)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

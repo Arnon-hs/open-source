@@ -1,6 +1,6 @@
 # xingkongliang/skills-manager
 
-[![Stars](https://img.shields.io/github/stars/xingkongliang/skills-manager?style=flat-square&color=yellow)](https://github.com/xingkongliang/skills-manager/stargazers) [![Forks](https://img.shields.io/github/forks/xingkongliang/skills-manager?style=flat-square&color=blue)](https://github.com/xingkongliang/skills-manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xingkongliang/skills-manager?style=flat-square&color=yellow)](https://github.com/xingkongliang/skills-manager/stargazers) [![Forks](https://img.shields.io/github/forks/xingkongliang/skills-manager?style=flat-square&color=blue)](https://github.com/xingkongliang/skills-manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 91 |
+| 🍴 **Forks** | 92 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

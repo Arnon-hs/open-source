@@ -1,6 +1,6 @@
 # woodyst/rockchip-vaapi
 
-[![Stars](https://img.shields.io/github/stars/woodyst/rockchip-vaapi?style=flat-square&color=yellow)](https://github.com/woodyst/rockchip-vaapi/stargazers) [![Forks](https://img.shields.io/github/forks/woodyst/rockchip-vaapi?style=flat-square&color=blue)](https://github.com/woodyst/rockchip-vaapi/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/woodyst/rockchip-vaapi?style=flat-square&color=yellow)](https://github.com/woodyst/rockchip-vaapi/stargazers) [![Forks](https://img.shields.io/github/forks/woodyst/rockchip-vaapi?style=flat-square&color=blue)](https://github.com/woodyst/rockchip-vaapi/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > VA-API driver for Rockchip RK3588 via MPP
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21 |
+| ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | C |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

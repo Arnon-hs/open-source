@@ -1,6 +1,6 @@
 # firewalla/firewalla
 
-[![Stars](https://img.shields.io/github/stars/firewalla/firewalla?style=flat-square&color=yellow)](https://github.com/firewalla/firewalla/stargazers) [![Forks](https://img.shields.io/github/forks/firewalla/firewalla?style=flat-square&color=blue)](https://github.com/firewalla/firewalla/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firewalla/firewalla?style=flat-square&color=yellow)](https://github.com/firewalla/firewalla/stargazers) [![Forks](https://img.shields.io/github/forks/firewalla/firewalla?style=flat-square&color=blue)](https://github.com/firewalla/firewalla/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > http://firewalla.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 604 |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

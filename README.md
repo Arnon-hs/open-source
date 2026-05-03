@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15124** |
+| 🗂️ **Total projects** | **15153** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,21 +18,21 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5653 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3111 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1477 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 5660 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3120 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1480 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 1123 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 924 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 899 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 519 | [Browse →](./crypto/) |
+| ⚙️ **Backend** | 926 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 903 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 520 | [Browse →](./crypto/) |
 | 📊 **Data** | 344 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 324 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 204 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 205 | [Browse →](./mobile/) |
 | 💳 **Payments** | 162 | [Browse →](./payments/) |
-| 📈 **Trading** | 154 | [Browse →](./trading/) |
+| 📈 **Trading** | 155 | [Browse →](./trading/) |
 | 🔐 **Security** | 123 | [Browse →](./security/) |
 | ✨ **Design** | 49 | [Browse →](./design/) |
-| 🏷️ **Marketing** | 29 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 30 | [Browse →](./marketing/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
 
 ## 🔥 Top 10 by score
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [2dust/v2rayNG](./devtools/2dust-v2rayng.md) | ⭐ 55.3k | DevTools |
-| 2 | [react-hook-form/react-hook-form](./frontend/react-hook-form-react-hook-form.md) | ⭐ 44.7k | Frontend |
-| 3 | [tldraw/tldraw](./frontend/tldraw-tldraw.md) | ⭐ 46.8k | Frontend |
-| 4 | [Yin-Hongwei/music-website](./frontend/yin-hongwei-music-website.md) | ⭐ 6.7k | Frontend |
-| 5 | [grpc/grpc-go](./backend/grpc-grpc-go.md) | ⭐ 22.9k | Backend |
-| 6 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.1k | AI/ML |
-| 7 | [kubernetes/kube-state-metrics](./aiml/kubernetes-kube-state-metrics.md) | ⭐ 6.1k | AI/ML |
-| 8 | [krayin/laravel-crm](./frontend/krayin-laravel-crm.md) | ⭐ 22.4k | Frontend |
-| 9 | [ToolJet/ToolJet](./aiml/tooljet-tooljet.md) | ⭐ 37.9k | AI/ML |
-| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 2 | [pathwaycom/pathway](./aiml/pathwaycom-pathway.md) | ⭐ 63.4k | AI/ML |
+| 3 | [promptfoo/promptfoo](./aiml/promptfoo-promptfoo.md) | ⭐ 20.8k | AI/ML |
+| 4 | [eosphoros-ai/DB-GPT](./aiml/eosphoros-ai-db-gpt.md) | ⭐ 18.6k | AI/ML |
+| 5 | [gogf/gf](./backend/gogf-gf.md) | ⭐ 13.1k | Backend |
+| 6 | [react-hook-form/react-hook-form](./frontend/react-hook-form-react-hook-form.md) | ⭐ 44.7k | Frontend |
+| 7 | [mikel-brostrom/boxmot](./misc/mikel-brostrom-boxmot.md) | ⭐ 8.1k | Misc |
+| 8 | [tldraw/tldraw](./frontend/tldraw-tldraw.md) | ⭐ 46.8k | Frontend |
+| 9 | [matomo-org/matomo](./frontend/matomo-org-matomo.md) | ⭐ 21.5k | Frontend |
+| 10 | [supabase/supabase](./aiml/supabase-supabase.md) | ⭐ 101.8k | AI/ML |
 
 ## 🚀 How it works
 

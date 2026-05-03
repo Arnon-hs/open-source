@@ -1,6 +1,6 @@
 # yuhuiaws/ML-study
 
-[![Stars](https://img.shields.io/github/stars/yuhuiaws/ML-study?style=flat-square&color=yellow)](https://github.com/yuhuiaws/ML-study/stargazers) [![Forks](https://img.shields.io/github/forks/yuhuiaws/ML-study?style=flat-square&color=blue)](https://github.com/yuhuiaws/ML-study/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yuhuiaws/ML-study?style=flat-square&color=yellow)](https://github.com/yuhuiaws/ML-study/stargazers) [![Forks](https://img.shields.io/github/forks/yuhuiaws/ML-study?style=flat-square&color=blue)](https://github.com/yuhuiaws/ML-study/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > 自己整理了一些ML入门的知识，以及ML项目中的一些经验总结分享
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 321 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

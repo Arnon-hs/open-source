@@ -1,6 +1,6 @@
 # whitphx/stlite
 
-[![Stars](https://img.shields.io/github/stars/whitphx/stlite?style=flat-square&color=yellow)](https://github.com/whitphx/stlite/stargazers) [![Forks](https://img.shields.io/github/forks/whitphx/stlite?style=flat-square&color=blue)](https://github.com/whitphx/stlite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/whitphx/stlite?style=flat-square&color=yellow)](https://github.com/whitphx/stlite/stargazers) [![Forks](https://img.shields.io/github/forks/whitphx/stlite?style=flat-square&color=blue)](https://github.com/whitphx/stlite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > In-browser Streamlit 🎈🚀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

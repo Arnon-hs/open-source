@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/yuanchuan/aivo?style=flat-square&color=yellow)](https://github.com/yuanchuan/aivo/stargazers) [![Forks](https://img.shields.io/github/forks/yuanchuan/aivo?style=flat-square&color=blue)](https://github.com/yuanchuan/aivo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> A CLI for managing API keys and running Claude Code, Codex, Gemini, OpenCode, and Pi across providers
+> A command-line tool that connects your coding agent to almost any model. It includes free models out of the box — no API keys, no signup.
 
 ## 📊 Stats
 

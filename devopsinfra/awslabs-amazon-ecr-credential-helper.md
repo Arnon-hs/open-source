@@ -1,6 +1,6 @@
 # awslabs/amazon-ecr-credential-helper
 
-[![Stars](https://img.shields.io/github/stars/awslabs/amazon-ecr-credential-helper?style=flat-square&color=yellow)](https://github.com/awslabs/amazon-ecr-credential-helper/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/amazon-ecr-credential-helper?style=flat-square&color=blue)](https://github.com/awslabs/amazon-ecr-credential-helper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awslabs/amazon-ecr-credential-helper?style=flat-square&color=yellow)](https://github.com/awslabs/amazon-ecr-credential-helper/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/amazon-ecr-credential-helper?style=flat-square&color=blue)](https://github.com/awslabs/amazon-ecr-credential-helper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically gets credentials for Amazon ECR on docker push/docker pull
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 348 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
