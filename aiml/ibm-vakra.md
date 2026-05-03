@@ -1,6 +1,6 @@
 # IBM/vakra
 
-[![Stars](https://img.shields.io/github/stars/IBM/vakra?style=flat-square&color=yellow)](https://github.com/IBM/vakra/stargazers) [![Forks](https://img.shields.io/github/forks/IBM/vakra?style=flat-square&color=blue)](https://github.com/IBM/vakra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IBM/vakra?style=flat-square&color=yellow)](https://github.com/IBM/vakra/stargazers) [![Forks](https://img.shields.io/github/forks/IBM/vakra?style=flat-square&color=blue)](https://github.com/IBM/vakra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > A Benchmark for Evaluating Multi-Hop, Multi-Source Tool-Calling in AI Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 61 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

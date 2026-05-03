@@ -1,6 +1,6 @@
 # insidegui/AssetCatalogTinkerer
 
-[![Stars](https://img.shields.io/github/stars/insidegui/AssetCatalogTinkerer?style=flat-square&color=yellow)](https://github.com/insidegui/AssetCatalogTinkerer/stargazers) [![Forks](https://img.shields.io/github/forks/insidegui/AssetCatalogTinkerer?style=flat-square&color=blue)](https://github.com/insidegui/AssetCatalogTinkerer/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/insidegui/AssetCatalogTinkerer?style=flat-square&color=yellow)](https://github.com/insidegui/AssetCatalogTinkerer/stargazers) [![Forks](https://img.shields.io/github/forks/insidegui/AssetCatalogTinkerer?style=flat-square&color=blue)](https://github.com/insidegui/AssetCatalogTinkerer/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > An app that lets you open .car files and browse/extract their images.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

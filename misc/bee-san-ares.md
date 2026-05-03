@@ -1,6 +1,6 @@
 # bee-san/Ares
 
-[![Stars](https://img.shields.io/github/stars/bee-san/Ares?style=flat-square&color=yellow)](https://github.com/bee-san/Ares/stargazers) [![Forks](https://img.shields.io/github/forks/bee-san/Ares?style=flat-square&color=blue)](https://github.com/bee-san/Ares/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bee-san/Ares?style=flat-square&color=yellow)](https://github.com/bee-san/Ares/stargazers) [![Forks](https://img.shields.io/github/forks/bee-san/Ares?style=flat-square&color=blue)](https://github.com/bee-san/Ares/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Automated decoding of encrypted text without knowing the key or ciphers used
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 869 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

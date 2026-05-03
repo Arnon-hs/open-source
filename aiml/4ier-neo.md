@@ -1,6 +1,6 @@
 # 4ier/neo
 
-[![Stars](https://img.shields.io/github/stars/4ier/neo?style=flat-square&color=yellow)](https://github.com/4ier/neo/stargazers) [![Forks](https://img.shields.io/github/forks/4ier/neo?style=flat-square&color=blue)](https://github.com/4ier/neo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/4ier/neo?style=flat-square&color=yellow)](https://github.com/4ier/neo/stargazers) [![Forks](https://img.shields.io/github/forks/4ier/neo?style=flat-square&color=blue)](https://github.com/4ier/neo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 694 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

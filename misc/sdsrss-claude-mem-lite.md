@@ -1,6 +1,6 @@
 # sdsrss/claude-mem-lite
 
-[![Stars](https://img.shields.io/github/stars/sdsrss/claude-mem-lite?style=flat-square&color=yellow)](https://github.com/sdsrss/claude-mem-lite/stargazers) [![Forks](https://img.shields.io/github/forks/sdsrss/claude-mem-lite?style=flat-square&color=blue)](https://github.com/sdsrss/claude-mem-lite/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sdsrss/claude-mem-lite?style=flat-square&color=yellow)](https://github.com/sdsrss/claude-mem-lite/stargazers) [![Forks](https://img.shields.io/github/forks/sdsrss/claude-mem-lite?style=flat-square&color=blue)](https://github.com/sdsrss/claude-mem-lite/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight persistent memory system for Claude Code — FTS5 search, episode batching, error-triggered recall
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 38 |
+| ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

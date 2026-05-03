@@ -1,6 +1,6 @@
 # timschmidt/realistic_blas
 
-[![Stars](https://img.shields.io/github/stars/timschmidt/realistic_blas?style=flat-square&color=yellow)](https://github.com/timschmidt/realistic_blas/stargazers) [![Forks](https://img.shields.io/github/forks/timschmidt/realistic_blas?style=flat-square&color=blue)](https://github.com/timschmidt/realistic_blas/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timschmidt/realistic_blas?style=flat-square&color=yellow)](https://github.com/timschmidt/realistic_blas/stargazers) [![Forks](https://img.shields.io/github/forks/timschmidt/realistic_blas?style=flat-square&color=blue)](https://github.com/timschmidt/realistic_blas/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Linear algebra primitives with infinite precision, exact equality, useful errors, and an f64 fast path
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

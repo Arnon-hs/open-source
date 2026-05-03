@@ -1,6 +1,6 @@
 # sapphiredev/framework
 
-[![Stars](https://img.shields.io/github/stars/sapphiredev/framework?style=flat-square&color=yellow)](https://github.com/sapphiredev/framework/stargazers) [![Forks](https://img.shields.io/github/forks/sapphiredev/framework?style=flat-square&color=blue)](https://github.com/sapphiredev/framework/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sapphiredev/framework?style=flat-square&color=yellow)](https://github.com/sapphiredev/framework/stargazers) [![Forks](https://img.shields.io/github/forks/sapphiredev/framework?style=flat-square&color=blue)](https://github.com/sapphiredev/framework/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Discord bot framework built on top of discord.js for advanced and amazing bots.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 746 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

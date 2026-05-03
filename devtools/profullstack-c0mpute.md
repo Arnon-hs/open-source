@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-This open-source project introduces a decentralized compute network, providing a user-friendly command-line interface (CLI) for seamless interaction. The platform aims to revolutionize cloud computing by harnessing the collective power of a distributed network, offering a more secure, flexible, and cost-effective solution. Through its CLI-first approach, users can easily deploy, manage, and scale their compute resources with ease.
+Here's a brief summary of the open-source project:
+
+This decentralized compute network is an open-source initiative that aims to provide a secure and scalable platform for computing resources. With a focus on CLI-first functionality, the project enables users to harness the collective power of a distributed network for various compute-intensive tasks. By decentralizing computing, this platform promotes flexibility, reliability, and community-driven innovation.
 
 ---
 

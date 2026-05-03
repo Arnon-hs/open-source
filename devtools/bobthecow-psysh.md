@@ -1,6 +1,6 @@
 # bobthecow/psysh
 
-[![Stars](https://img.shields.io/github/stars/bobthecow/psysh?style=flat-square&color=yellow)](https://github.com/bobthecow/psysh/stargazers) [![Forks](https://img.shields.io/github/forks/bobthecow/psysh?style=flat-square&color=blue)](https://github.com/bobthecow/psysh/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bobthecow/psysh?style=flat-square&color=yellow)](https://github.com/bobthecow/psysh/stargazers) [![Forks](https://img.shields.io/github/forks/bobthecow/psysh?style=flat-square&color=blue)](https://github.com/bobthecow/psysh/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > A REPL for PHP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

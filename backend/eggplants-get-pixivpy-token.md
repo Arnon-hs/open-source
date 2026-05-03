@@ -1,6 +1,6 @@
 # eggplants/get-pixivpy-token
 
-[![Stars](https://img.shields.io/github/stars/eggplants/get-pixivpy-token?style=flat-square&color=yellow)](https://github.com/eggplants/get-pixivpy-token/stargazers) [![Forks](https://img.shields.io/github/forks/eggplants/get-pixivpy-token?style=flat-square&color=blue)](https://github.com/eggplants/get-pixivpy-token/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eggplants/get-pixivpy-token?style=flat-square&color=yellow)](https://github.com/eggplants/get-pixivpy-token/stargazers) [![Forks](https://img.shields.io/github/forks/eggplants/get-pixivpy-token?style=flat-square&color=blue)](https://github.com/eggplants/get-pixivpy-token/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Get your Pixiv token easily (for running upbit/pixivpy)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 182 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

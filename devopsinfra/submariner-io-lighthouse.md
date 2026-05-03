@@ -1,6 +1,6 @@
 # submariner-io/lighthouse
 
-[![Stars](https://img.shields.io/github/stars/submariner-io/lighthouse?style=flat-square&color=yellow)](https://github.com/submariner-io/lighthouse/stargazers) [![Forks](https://img.shields.io/github/forks/submariner-io/lighthouse?style=flat-square&color=blue)](https://github.com/submariner-io/lighthouse/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/submariner-io/lighthouse?style=flat-square&color=yellow)](https://github.com/submariner-io/lighthouse/stargazers) [![Forks](https://img.shields.io/github/forks/submariner-io/lighthouse?style=flat-square&color=blue)](https://github.com/submariner-io/lighthouse/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > DNS service discovery across connected Kubernetes clusters.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 149 |
+| ⭐ **Stars** | 150 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

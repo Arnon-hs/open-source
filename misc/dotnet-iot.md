@@ -1,6 +1,6 @@
 # dotnet/iot
 
-[![Stars](https://img.shields.io/github/stars/dotnet/iot?style=flat-square&color=yellow)](https://github.com/dotnet/iot/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/iot?style=flat-square&color=blue)](https://github.com/dotnet/iot/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/iot?style=flat-square&color=yellow)](https://github.com/dotnet/iot/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/iot?style=flat-square&color=blue)](https://github.com/dotnet/iot/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > This repo includes .NET Core implementations for various IoT boards, chips, displays and PCBs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 625 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # 8Network/8v
 
-[![Stars](https://img.shields.io/github/stars/8Network/8v?style=flat-square&color=yellow)](https://github.com/8Network/8v/stargazers) [![Forks](https://img.shields.io/github/forks/8Network/8v?style=flat-square&color=blue)](https://github.com/8Network/8v/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/8Network/8v?style=flat-square&color=yellow)](https://github.com/8Network/8v/stargazers) [![Forks](https://img.shields.io/github/forks/8Network/8v?style=flat-square&color=blue)](https://github.com/8Network/8v/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > 8v is one binary that reads, writes, searches, checks, builds, tests, and formats code, using fewer input and output tokens than the agent's native tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/av/harbor?style=flat-square&color=yellow)](https://github.com/av/harbor/stargazers) [![Forks](https://img.shields.io/github/forks/av/harbor?style=flat-square&color=blue)](https://github.com/av/harbor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
-> One command brings a complete pre-wired LLM stack with hundreds of services to explore.
+> Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 
 ## 📊 Stats
 

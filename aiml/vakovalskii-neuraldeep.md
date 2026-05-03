@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-NeuralDeep is an open-source project that aggregates skills, MCP servers, and CLI tools for AI agents. It serves as a comprehensive platform for integrating and managing various AI-related capabilities, with a focus on Russian marketplaces such as Yandex, 1C, Bitrix, GigaChat, and Wildberries. This platform is designed to facilitate the development and deployment of AI-powered applications.
+Here's a brief summary for the NeuralDeep project:
+
+NeuralDeep is an open-source aggregator of AI skills, MCP servers, and CLI tools for AI agents. It provides a comprehensive platform for developers to access and utilize various AI capabilities, including tools from popular Russian companies such as Yandex, 1C, and Bitrix. This project aims to facilitate the development and deployment of AI-powered applications.
 
 ---
 

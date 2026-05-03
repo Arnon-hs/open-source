@@ -1,6 +1,6 @@
 # maxfischer2781/asyncstdlib
 
-[![Stars](https://img.shields.io/github/stars/maxfischer2781/asyncstdlib?style=flat-square&color=yellow)](https://github.com/maxfischer2781/asyncstdlib/stargazers) [![Forks](https://img.shields.io/github/forks/maxfischer2781/asyncstdlib?style=flat-square&color=blue)](https://github.com/maxfischer2781/asyncstdlib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maxfischer2781/asyncstdlib?style=flat-square&color=yellow)](https://github.com/maxfischer2781/asyncstdlib/stargazers) [![Forks](https://img.shields.io/github/forks/maxfischer2781/asyncstdlib?style=flat-square&color=blue)](https://github.com/maxfischer2781/asyncstdlib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > the missing toolbox for an async world
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 365 |
+| ⭐ **Stars** | 366 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

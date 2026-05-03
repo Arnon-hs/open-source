@@ -1,6 +1,6 @@
 # Valour-Software/Valour
 
-[![Stars](https://img.shields.io/github/stars/Valour-Software/Valour?style=flat-square&color=yellow)](https://github.com/Valour-Software/Valour/stargazers) [![Forks](https://img.shields.io/github/forks/Valour-Software/Valour?style=flat-square&color=blue)](https://github.com/Valour-Software/Valour/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Valour-Software/Valour?style=flat-square&color=yellow)](https://github.com/Valour-Software/Valour/stargazers) [![Forks](https://img.shields.io/github/forks/Valour-Software/Valour?style=flat-square&color=blue)](https://github.com/Valour-Software/Valour/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Valour is bringing communities into the future with unique features, blazing performance, and respect for users.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

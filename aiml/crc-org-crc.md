@@ -1,6 +1,6 @@
 # crc-org/crc
 
-[![Stars](https://img.shields.io/github/stars/crc-org/crc?style=flat-square&color=yellow)](https://github.com/crc-org/crc/stargazers) [![Forks](https://img.shields.io/github/forks/crc-org/crc?style=flat-square&color=blue)](https://github.com/crc-org/crc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crc-org/crc?style=flat-square&color=yellow)](https://github.com/crc-org/crc/stargazers) [![Forks](https://img.shields.io/github/forks/crc-org/crc?style=flat-square&color=blue)](https://github.com/crc-org/crc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > CRC is a tool to help you run containers. It manages local VMs to run a OpenShift 4.x cluster, Microshift or Podman optimized for testing and development purposes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 256 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

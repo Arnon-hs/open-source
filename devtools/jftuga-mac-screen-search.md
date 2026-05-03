@@ -1,6 +1,6 @@
 # jftuga/mac-screen-search
 
-[![Stars](https://img.shields.io/github/stars/jftuga/mac-screen-search?style=flat-square&color=yellow)](https://github.com/jftuga/mac-screen-search/stargazers) [![Forks](https://img.shields.io/github/forks/jftuga/mac-screen-search?style=flat-square&color=blue)](https://github.com/jftuga/mac-screen-search/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jftuga/mac-screen-search?style=flat-square&color=yellow)](https://github.com/jftuga/mac-screen-search/stargazers) [![Forks](https://img.shields.io/github/forks/jftuga/mac-screen-search?style=flat-square&color=blue)](https://github.com/jftuga/mac-screen-search/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > macOS CLI tool that captures screenshots, performs OCR to find text, and highlights or redacts matches
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

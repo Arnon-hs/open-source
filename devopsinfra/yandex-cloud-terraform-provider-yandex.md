@@ -1,6 +1,6 @@
 # yandex-cloud/terraform-provider-yandex
 
-[![Stars](https://img.shields.io/github/stars/yandex-cloud/terraform-provider-yandex?style=flat-square&color=yellow)](https://github.com/yandex-cloud/terraform-provider-yandex/stargazers) [![Forks](https://img.shields.io/github/forks/yandex-cloud/terraform-provider-yandex?style=flat-square&color=blue)](https://github.com/yandex-cloud/terraform-provider-yandex/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yandex-cloud/terraform-provider-yandex?style=flat-square&color=yellow)](https://github.com/yandex-cloud/terraform-provider-yandex/stargazers) [![Forks](https://img.shields.io/github/forks/yandex-cloud/terraform-provider-yandex?style=flat-square&color=blue)](https://github.com/yandex-cloud/terraform-provider-yandex/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform Yandex provider
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 257 |
 | 🍴 **Forks** | 141 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-WireGuard is a highly secure and fast VPN (Virtual Private Network) solution for Windows. This open-source project provides a mirror repository for the official WireGuard Windows installer, allowing users to easily download and install the software. With WireGuard, users can establish secure and private connections over the internet.
+WireGuard is a fast and secure virtual private network (VPN) solution. This open-source project provides a Windows implementation of the WireGuard VPN, allowing users to securely connect to remote networks and protect their internet traffic. The WireGuard Windows project is a mirror repository for the official project, providing easy access to the software.
 
 ---
 

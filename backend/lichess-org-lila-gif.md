@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The lila-gif project is an open-source web service designed to generate and stream GIFs of chess positions and games in a frame-by-frame format. This backend service allows for the creation of dynamic, visual representations of chess games, making it a valuable tool for analysis, education, and entertainment. With its focus on chess, lila-gif is a specialized solution for the chess community.
+Lila-GIF is an open-source web service that generates and streams animated GIFs of chess positions and games, allowing users to visualize and analyze complex chess scenarios. This backend project provides a flexible and customizable solution for rendering dynamic chess content, making it a valuable resource for online chess platforms and communities. By leveraging Lila-GIF, developers can create engaging and interactive chess experiences for a wide range of audiences.
 
 ---
 

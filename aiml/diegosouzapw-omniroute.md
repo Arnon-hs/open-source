@@ -1,17 +1,17 @@
 # diegosouzapw/OmniRoute
 
-[![Stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=flat-square&color=yellow)](https://github.com/diegosouzapw/OmniRoute/stargazers) [![Forks](https://img.shields.io/github/forks/diegosouzapw/OmniRoute?style=flat-square&color=blue)](https://github.com/diegosouzapw/OmniRoute/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=flat-square&color=yellow)](https://github.com/diegosouzapw/OmniRoute/stargazers) [![Forks](https://img.shields.io/github/forks/diegosouzapw/OmniRoute?style=flat-square&color=blue)](https://github.com/diegosouzapw/OmniRoute/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
-> OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference.
+> Never stop coding. Free AI gateway: one endpoint, 160+ providers, RTK+Caveman stacked compression up to ~95% eligible context savings, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 611 |
+| ⭐ **Stars** | 3.9k |
+| 🍴 **Forks** | 628 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 

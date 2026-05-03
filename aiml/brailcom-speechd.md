@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The speechd project provides a unified, high-level interface to speech synthesis, allowing developers to easily integrate various speech synthesis engines into their applications. This common interface enables a consistent programming model across different platforms and speech synthesis systems. By providing a standardized API, speechd simplifies the development process and promotes cross-platform compatibility.
+The brailcom/speechd project provides a common high-level interface to speech synthesis, enabling developers to access various speech synthesis systems with a unified API. This open-source project simplifies the integration of speech synthesis functionality into applications, making it easier to incorporate voice-based interactions. By providing a standardized interface, speechd facilitates the development of more versatile and accessible AI/ML projects.
 
 ---
 

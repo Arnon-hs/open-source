@@ -1,6 +1,6 @@
 # openclaw/acpx
 
-[![Stars](https://img.shields.io/github/stars/openclaw/acpx?style=flat-square&color=yellow)](https://github.com/openclaw/acpx/stargazers) [![Forks](https://img.shields.io/github/forks/openclaw/acpx?style=flat-square&color=blue)](https://github.com/openclaw/acpx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openclaw/acpx?style=flat-square&color=yellow)](https://github.com/openclaw/acpx/stargazers) [![Forks](https://img.shields.io/github/forks/openclaw/acpx?style=flat-square&color=blue)](https://github.com/openclaw/acpx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Headless CLI client for stateful Agent Client Protocol (ACP) sessions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 239 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

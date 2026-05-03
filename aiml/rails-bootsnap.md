@@ -1,6 +1,6 @@
 # rails/bootsnap
 
-[![Stars](https://img.shields.io/github/stars/rails/bootsnap?style=flat-square&color=yellow)](https://github.com/rails/bootsnap/stargazers) [![Forks](https://img.shields.io/github/forks/rails/bootsnap?style=flat-square&color=blue)](https://github.com/rails/bootsnap/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rails/bootsnap?style=flat-square&color=yellow)](https://github.com/rails/bootsnap/stargazers) [![Forks](https://img.shields.io/github/forks/rails/bootsnap?style=flat-square&color=blue)](https://github.com/rails/bootsnap/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Boot large Ruby/Rails apps faster
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

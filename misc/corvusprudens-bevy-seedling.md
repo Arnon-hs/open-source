@@ -1,6 +1,6 @@
 # CorvusPrudens/bevy_seedling
 
-[![Stars](https://img.shields.io/github/stars/CorvusPrudens/bevy_seedling?style=flat-square&color=yellow)](https://github.com/CorvusPrudens/bevy_seedling/stargazers) [![Forks](https://img.shields.io/github/forks/CorvusPrudens/bevy_seedling?style=flat-square&color=blue)](https://github.com/CorvusPrudens/bevy_seedling/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CorvusPrudens/bevy_seedling?style=flat-square&color=yellow)](https://github.com/CorvusPrudens/bevy_seedling/stargazers) [![Forks](https://img.shields.io/github/forks/CorvusPrudens/bevy_seedling?style=flat-square&color=blue)](https://github.com/CorvusPrudens/bevy_seedling/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A sprouting integration of the Firewheel audio engine
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 129 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 130 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-The sgaunet/claude-plugins project is an open-source collection of specialized plugins for Claude, designed to boost development workflows with intelligent agents, skills, and commands. These plugins aim to simplify complex tasks and enhance productivity by leveraging AI and machine learning capabilities. By integrating these plugins, developers can unlock new levels of automation, customization, and efficiency in their work.
+The sgaunet/claude-plugins project is an open-source collection of specialized plugins for Claude Code, designed to streamline development workflows by leveraging intelligent agents, skills, and commands. This curated set of plugins enables developers to amplify their productivity through advanced AI and machine learning capabilities. By utilizing these plugins, users can unlock new levels of efficiency and innovation in their design and development processes.
 
 ---
 

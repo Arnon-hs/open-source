@@ -1,6 +1,6 @@
 # Daghis/teamcity-mcp
 
-[![Stars](https://img.shields.io/github/stars/Daghis/teamcity-mcp?style=flat-square&color=yellow)](https://github.com/Daghis/teamcity-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Daghis/teamcity-mcp?style=flat-square&color=blue)](https://github.com/Daghis/teamcity-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Daghis/teamcity-mcp?style=flat-square&color=yellow)](https://github.com/Daghis/teamcity-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Daghis/teamcity-mcp?style=flat-square&color=blue)](https://github.com/Daghis/teamcity-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol (MCP) server for JetBrains TeamCity: control builds, tests, agents and configs from AI coding assistants.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

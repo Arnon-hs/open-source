@@ -25,7 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Vigil is an open-source microservices status page that provides real-time monitoring and alerting capabilities for distributed infrastructure. It enables users to track the status of their systems and receive notifications through various channels, including Slack and SMS. Vigil aims to simplify the process of monitoring and maintaining complex infrastructures.
+Vigil is an open-source microservices status page that provides real-time monitoring and alerting capabilities for distributed infrastructure. It enables teams to track the health and performance of their services, sending notifications to Slack, SMS, and other platforms when issues arise. Vigil helps ensure high availability and reliability in complex systems, empowering developers and operators to respond quickly to incidents.
 
 ---
 

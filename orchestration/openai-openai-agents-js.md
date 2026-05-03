@@ -1,6 +1,6 @@
 # openai/openai-agents-js
 
-[![Stars](https://img.shields.io/github/stars/openai/openai-agents-js?style=flat-square&color=yellow)](https://github.com/openai/openai-agents-js/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-agents-js?style=flat-square&color=blue)](https://github.com/openai/openai-agents-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openai/openai-agents-js?style=flat-square&color=yellow)](https://github.com/openai/openai-agents-js/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-agents-js?style=flat-square&color=blue)](https://github.com/openai/openai-agents-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, powerful framework for multi-agent workflows and voice agents
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 721 |
+| 🍴 **Forks** | 723 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

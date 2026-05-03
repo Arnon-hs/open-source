@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Wove 2.0 is an open-source project that aims to provide a seamless and beautiful Python asynchronous experience. This project adds the capability to execute Celery tasks inline, making it easier to integrate asynchronous tasks into Python applications. With Wove 2.0, developers can simplify their asynchronous workflows and improve overall efficiency.
+Here's a brief summary of the open-source project:
+
+Wove 2.0 is an open-source project that aims to revolutionize asynchronous Python development by providing a beautiful and intuitive way to write async code. This project introduces inline Celery execution, allowing developers to leverage asynchronous tasks in a more seamless and efficient manner. By simplifying async development, Wove 2.0 seeks to make Python async programming more accessible and enjoyable.
 
 ---
 

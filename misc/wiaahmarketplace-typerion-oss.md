@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Typerion is an open-source tool designed to detect and resolve type discrepancies between TypeScript (TS) and SQL databases. It enables seamless migrations by catching potential mismatches that may compile but cause issues in production. By using Typerion, developers can ensure their database schema and TypeScript code are compatible, reducing the risk of errors and data inconsistencies.
+Typerion is an open-source project designed to detect and address type system mismatches between TypeScript and SQL databases. It identifies potential issues that compile successfully but may cause problems during migration, ensuring clean and seamless database operations. By catching these mismatches early, developers can prevent bugs and improve overall code reliability.
 
 ---
 

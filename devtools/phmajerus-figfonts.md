@@ -1,6 +1,6 @@
 # PhMajerus/FIGfonts
 
-[![Stars](https://img.shields.io/github/stars/PhMajerus/FIGfonts?style=flat-square&color=yellow)](https://github.com/PhMajerus/FIGfonts/stargazers) [![Forks](https://img.shields.io/github/forks/PhMajerus/FIGfonts?style=flat-square&color=blue)](https://github.com/PhMajerus/FIGfonts/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PhMajerus/FIGfonts?style=flat-square&color=yellow)](https://github.com/PhMajerus/FIGfonts/stargazers) [![Forks](https://img.shields.io/github/forks/PhMajerus/FIGfonts?style=flat-square&color=blue)](https://github.com/PhMajerus/FIGfonts/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Philippe Majerus’s FIGfonts collection
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

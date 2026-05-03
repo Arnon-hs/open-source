@@ -1,6 +1,6 @@
 # knative-extensions/eventing-kafka-broker
 
-[![Stars](https://img.shields.io/github/stars/knative-extensions/eventing-kafka-broker?style=flat-square&color=yellow)](https://github.com/knative-extensions/eventing-kafka-broker/stargazers) [![Forks](https://img.shields.io/github/forks/knative-extensions/eventing-kafka-broker?style=flat-square&color=blue)](https://github.com/knative-extensions/eventing-kafka-broker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/knative-extensions/eventing-kafka-broker?style=flat-square&color=yellow)](https://github.com/knative-extensions/eventing-kafka-broker/stargazers) [![Forks](https://img.shields.io/github/forks/knative-extensions/eventing-kafka-broker?style=flat-square&color=blue)](https://github.com/knative-extensions/eventing-kafka-broker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Alternate Kafka Broker implementation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 204 |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

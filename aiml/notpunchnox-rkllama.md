@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the NotPunchnox/rkllama project:
+Here's a brief summary for the NotPunchnox/rkllama project:
 
-rkllama is an alternative solution to Ollama, designed to efficiently run AI and deep learning models on Rockchip devices. It leverages optimized support for Rockchip's Neural Processing Unit (NPU), known as rkllm, to accelerate model execution. By utilizing rkllama, developers can unlock faster AI capabilities on Rockchip-powered devices.
+NotPunchnox/rkllama is an open-source alternative to Ollama, designed to efficiently run AI and Deep Learning models on Rockchip devices with optimized NPU support. This project leverages the Rockchip NPU (rkllm) to provide a fast and reliable solution for AI applications on Rockchip devices. By optimizing NPU support, rkllama enables developers to run complex AI workloads on Rockchip devices with improved performance.
 
 ---
 

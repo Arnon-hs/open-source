@@ -1,6 +1,6 @@
 # Feromond/budget_tracker_tui
 
-[![Stars](https://img.shields.io/github/stars/Feromond/budget_tracker_tui?style=flat-square&color=yellow)](https://github.com/Feromond/budget_tracker_tui/stargazers) [![Forks](https://img.shields.io/github/forks/Feromond/budget_tracker_tui?style=flat-square&color=blue)](https://github.com/Feromond/budget_tracker_tui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Feromond/budget_tracker_tui?style=flat-square&color=yellow)](https://github.com/Feromond/budget_tracker_tui/stargazers) [![Forks](https://img.shields.io/github/forks/Feromond/budget_tracker_tui?style=flat-square&color=blue)](https://github.com/Feromond/budget_tracker_tui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A simple TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 222 |
+| ⭐ **Stars** | 223 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # secureCodeBox/secureCodeBox
 
-[![Stars](https://img.shields.io/github/stars/secureCodeBox/secureCodeBox?style=flat-square&color=yellow)](https://github.com/secureCodeBox/secureCodeBox/stargazers) [![Forks](https://img.shields.io/github/forks/secureCodeBox/secureCodeBox?style=flat-square&color=blue)](https://github.com/secureCodeBox/secureCodeBox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/secureCodeBox/secureCodeBox?style=flat-square&color=yellow)](https://github.com/secureCodeBox/secureCodeBox/stargazers) [![Forks](https://img.shields.io/github/forks/secureCodeBox/secureCodeBox?style=flat-square&color=blue)](https://github.com/secureCodeBox/secureCodeBox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > secureCodeBox (SCB) - continuous secure delivery out of the box
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 971 |
+| ⭐ **Stars** | 970 |
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

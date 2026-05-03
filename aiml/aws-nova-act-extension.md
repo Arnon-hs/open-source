@@ -1,6 +1,6 @@
 # aws/nova-act-extension
 
-[![Stars](https://img.shields.io/github/stars/aws/nova-act-extension?style=flat-square&color=yellow)](https://github.com/aws/nova-act-extension/stargazers) [![Forks](https://img.shields.io/github/forks/aws/nova-act-extension?style=flat-square&color=blue)](https://github.com/aws/nova-act-extension/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/nova-act-extension?style=flat-square&color=yellow)](https://github.com/aws/nova-act-extension/stargazers) [![Forks](https://img.shields.io/github/forks/aws/nova-act-extension?style=flat-square&color=blue)](https://github.com/aws/nova-act-extension/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Amazon Nova Act is an AWS service for building and deploying highly reliable AI agents that automate UI-based workflows at scale.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

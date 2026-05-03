@@ -1,6 +1,6 @@
 # oxyno-zeta/s3-proxy
 
-[![Stars](https://img.shields.io/github/stars/oxyno-zeta/s3-proxy?style=flat-square&color=yellow)](https://github.com/oxyno-zeta/s3-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/oxyno-zeta/s3-proxy?style=flat-square&color=blue)](https://github.com/oxyno-zeta/s3-proxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxyno-zeta/s3-proxy?style=flat-square&color=yellow)](https://github.com/oxyno-zeta/s3-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/oxyno-zeta/s3-proxy?style=flat-square&color=blue)](https://github.com/oxyno-zeta/s3-proxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > S3 Reverse Proxy with GET, PUT and DELETE methods and authentication (OpenID Connect and Basic Auth)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 458 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

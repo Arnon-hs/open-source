@@ -1,6 +1,6 @@
 # pivovarit/tdocker
 
-[![Stars](https://img.shields.io/github/stars/pivovarit/tdocker?style=flat-square&color=yellow)](https://github.com/pivovarit/tdocker/stargazers) [![Forks](https://img.shields.io/github/forks/pivovarit/tdocker?style=flat-square&color=blue)](https://github.com/pivovarit/tdocker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pivovarit/tdocker?style=flat-square&color=yellow)](https://github.com/pivovarit/tdocker/stargazers) [![Forks](https://img.shields.io/github/forks/pivovarit/tdocker?style=flat-square&color=blue)](https://github.com/pivovarit/tdocker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > minimalistic terminal UI for everyday Docker operations
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

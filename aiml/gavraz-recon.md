@@ -1,6 +1,6 @@
 # gavraz/recon
 
-[![Stars](https://img.shields.io/github/stars/gavraz/recon?style=flat-square&color=yellow)](https://github.com/gavraz/recon/stargazers) [![Forks](https://img.shields.io/github/forks/gavraz/recon?style=flat-square&color=blue)](https://github.com/gavraz/recon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gavraz/recon?style=flat-square&color=yellow)](https://github.com/gavraz/recon/stargazers) [![Forks](https://img.shields.io/github/forks/gavraz/recon?style=flat-square&color=blue)](https://github.com/gavraz/recon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > tmux-native dashboard for managing Claude Code agents
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 223 |
+| ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

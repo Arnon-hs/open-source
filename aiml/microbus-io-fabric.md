@@ -1,6 +1,6 @@
 # microbus-io/fabric
 
-[![Stars](https://img.shields.io/github/stars/microbus-io/fabric?style=flat-square&color=yellow)](https://github.com/microbus-io/fabric/stargazers) [![Forks](https://img.shields.io/github/forks/microbus-io/fabric?style=flat-square&color=blue)](https://github.com/microbus-io/fabric/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microbus-io/fabric?style=flat-square&color=yellow)](https://github.com/microbus-io/fabric/stargazers) [![Forks](https://img.shields.io/github/forks/microbus-io/fabric?style=flat-square&color=blue)](https://github.com/microbus-io/fabric/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Your coding agent can already code. Microbus teaches it to master the complex domain of distributed systems — the architecture, the patterns, the operational discipline — and produce enterprise-grade microservices, every time.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

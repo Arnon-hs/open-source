@@ -1,6 +1,6 @@
 # londek/ipadecrypt
 
-[![Stars](https://img.shields.io/github/stars/londek/ipadecrypt?style=flat-square&color=yellow)](https://github.com/londek/ipadecrypt/stargazers) [![Forks](https://img.shields.io/github/forks/londek/ipadecrypt?style=flat-square&color=blue)](https://github.com/londek/ipadecrypt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/londek/ipadecrypt?style=flat-square&color=yellow)](https://github.com/londek/ipadecrypt/stargazers) [![Forks](https://img.shields.io/github/forks/londek/ipadecrypt?style=flat-square&color=blue)](https://github.com/londek/ipadecrypt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 192 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 211 |
+| 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

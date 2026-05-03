@@ -1,6 +1,6 @@
 # translate-tools/transly
 
-[![Stars](https://img.shields.io/github/stars/translate-tools/transly?style=flat-square&color=yellow)](https://github.com/translate-tools/transly/stargazers) [![Forks](https://img.shields.io/github/forks/translate-tools/transly?style=flat-square&color=blue)](https://github.com/translate-tools/transly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/translate-tools/transly?style=flat-square&color=yellow)](https://github.com/translate-tools/transly/stargazers) [![Forks](https://img.shields.io/github/forks/translate-tools/transly?style=flat-square&color=blue)](https://github.com/translate-tools/transly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Cache-driven incremental translation (via LLM, GoogleTranslate, etc.)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

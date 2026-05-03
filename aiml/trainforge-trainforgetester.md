@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-TrainForgeTester is an open-source project that provides deterministic scenario tests for AI agents, enabling developers to evaluate and validate the performance of their models in a reliable and repeatable manner. This tool helps ensure the robustness and consistency of AI decision-making, facilitating collaboration and reproducibility in the AI development process. By using TrainForgeTester, developers can simplify the debugging and improvement of their AI agents.
+TrainForgeTester is an open-source project that provides deterministic scenario tests for AI agents, allowing developers to create and run repeatable, controlled tests to evaluate the performance and behavior of AI models. This tool is designed to help streamline the development and testing process for AI systems, enhancing their reliability and accuracy. By using TrainForgeTester, developers can ensure their AI agents behave consistently and make informed decisions in various scenarios.
 
 ---
 

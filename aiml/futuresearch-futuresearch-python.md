@@ -1,6 +1,6 @@
 # futuresearch/futuresearch-python
 
-[![Stars](https://img.shields.io/github/stars/futuresearch/futuresearch-python?style=flat-square&color=yellow)](https://github.com/futuresearch/futuresearch-python/stargazers) [![Forks](https://img.shields.io/github/forks/futuresearch/futuresearch-python?style=flat-square&color=blue)](https://github.com/futuresearch/futuresearch-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/futuresearch/futuresearch-python?style=flat-square&color=yellow)](https://github.com/futuresearch/futuresearch-python/stargazers) [![Forks](https://img.shields.io/github/forks/futuresearch/futuresearch-python?style=flat-square&color=blue)](https://github.com/futuresearch/futuresearch-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Your team of research agents. Or give researchers to your AI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 36 |
+| ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

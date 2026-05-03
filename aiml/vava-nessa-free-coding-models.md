@@ -1,6 +1,6 @@
 # vava-nessa/free-coding-models
 
-[![Stars](https://img.shields.io/github/stars/vava-nessa/free-coding-models?style=flat-square&color=yellow)](https://github.com/vava-nessa/free-coding-models/stargazers) [![Forks](https://img.shields.io/github/forks/vava-nessa/free-coding-models?style=flat-square&color=blue)](https://github.com/vava-nessa/free-coding-models/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vava-nessa/free-coding-models?style=flat-square&color=yellow)](https://github.com/vava-nessa/free-coding-models/stargazers) [![Forks](https://img.shields.io/github/forks/vava-nessa/free-coding-models?style=flat-square&color=blue)](https://github.com/vava-nessa/free-coding-models/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 190 |
+| 🍴 **Forks** | 191 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The h44z/wg-portal project is an open-source, user-friendly interface for managing WireGuard configurations, incorporating an LDAP connection for secure authentication and authorization. This frontend solution streamlines the process of setting up and managing WireGuard connections, making it easier for administrators to manage network access and security. By leveraging LDAP integration, the portal provides a robust and scalable solution for large-scale network deployments.
+The h44z/wg-portal project is an open-source, wireguard configuration portal that simplifies the setup and management of WireGuard VPN connections. This portal integrates with LDAP connections, enabling seamless authentication and authorization for users. By utilizing this tool, administrators can efficiently configure and manage WireGuard VPN settings for their organization.
 
 ---
 

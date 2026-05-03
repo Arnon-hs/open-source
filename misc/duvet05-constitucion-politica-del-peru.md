@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-A developer has creatively modeled Peru's 1993 Constitution as a Git history, utilizing the version control system's framework to visualize the document's structure and changes. This unique approach allows users to navigate the Constitution's articles and amendments in a familiar and intuitive manner, akin to browsing a Git repository. The project provides an innovative way to engage with and explore Peru's foundational document.
+This open-source project creatively models Peru's 1993 Constitution as a Git history, using version control principles to represent the document's amendments and updates over time. By leveraging the familiar interface of Git, the project provides an engaging and accessible way to explore the country's constitutional evolution. This innovative approach offers a unique perspective on the development of Peru's foundational law.
 
 ---
 

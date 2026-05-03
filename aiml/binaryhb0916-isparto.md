@@ -1,6 +1,6 @@
 # BinaryHB0916/iSparto
 
-[![Stars](https://img.shields.io/github/stars/BinaryHB0916/iSparto?style=flat-square&color=yellow)](https://github.com/BinaryHB0916/iSparto/stargazers) [![Forks](https://img.shields.io/github/forks/BinaryHB0916/iSparto?style=flat-square&color=blue)](https://github.com/BinaryHB0916/iSparto/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BinaryHB0916/iSparto?style=flat-square&color=yellow)](https://github.com/BinaryHB0916/iSparto/stargazers) [![Forks](https://img.shields.io/github/forks/BinaryHB0916/iSparto?style=flat-square&color=blue)](https://github.com/BinaryHB0916/iSparto/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Agent Team framework for Claude Code, built for solopreneurs. One command spins up the whole agent team — all working in perfect sync.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

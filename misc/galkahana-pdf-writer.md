@@ -1,6 +1,6 @@
 # galkahana/PDF-Writer
 
-[![Stars](https://img.shields.io/github/stars/galkahana/PDF-Writer?style=flat-square&color=yellow)](https://github.com/galkahana/PDF-Writer/stargazers) [![Forks](https://img.shields.io/github/forks/galkahana/PDF-Writer?style=flat-square&color=blue)](https://github.com/galkahana/PDF-Writer/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/galkahana/PDF-Writer?style=flat-square&color=yellow)](https://github.com/galkahana/PDF-Writer/stargazers) [![Forks](https://img.shields.io/github/forks/galkahana/PDF-Writer?style=flat-square&color=blue)](https://github.com/galkahana/PDF-Writer/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > High performance library for creating, modiyfing and parsing PDF files in C++
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | C |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

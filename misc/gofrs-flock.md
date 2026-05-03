@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The gofrs/flock library is an open-source, thread-safe file locking solution written in Go, providing a reliable way to manage concurrent access to files across multiple threads. This lightweight library leverages the underlying flock system call to implement atomic file locking, ensuring data integrity and preventing file corruption. With gofrs/flock, developers can easily add file locking capabilities to their Go applications without worrying about concurrency issues.
+The gofrs/flock library is a lightweight, open-source, and thread-safe file locking solution for Go applications. It provides a simple and efficient way to acquire and release file locks, ensuring data integrity in concurrent environments. This library facilitates robust and reliable file locking, making it a valuable tool for developers building high-performance and concurrent systems.
 
 ---
 

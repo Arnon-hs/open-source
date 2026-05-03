@@ -37,7 +37,7 @@
 | 27 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 336 | Go | 43/100 |
 | 28 | [AzureIvory/block-ads](./azureivory-block-ads.md) | ⭐ 197 | Go | 42/100 |
 | 29 | [wdecoster/cramino](./wdecoster-cramino.md) | ⭐ 182 | Rust | 41/100 |
-| 30 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 249 | Go | 38/100 |
+| 30 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 278 | Go | 38/100 |
 | 31 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 3 | — | 36/100 |
 
 ---

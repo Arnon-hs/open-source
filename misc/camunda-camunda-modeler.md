@@ -1,6 +1,6 @@
 # camunda/camunda-modeler
 
-[![Stars](https://img.shields.io/github/stars/camunda/camunda-modeler?style=flat-square&color=yellow)](https://github.com/camunda/camunda-modeler/stargazers) [![Forks](https://img.shields.io/github/forks/camunda/camunda-modeler?style=flat-square&color=blue)](https://github.com/camunda/camunda-modeler/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/camunda/camunda-modeler?style=flat-square&color=yellow)](https://github.com/camunda/camunda-modeler/stargazers) [![Forks](https://img.shields.io/github/forks/camunda/camunda-modeler?style=flat-square&color=blue)](https://github.com/camunda/camunda-modeler/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A modeling solution for BPMN, DMN, and Forms based on bpmn.io. As a companion tool to your favorite IDE it supports you in implementing solutions with Camunda.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 531 |
+| 🍴 **Forks** | 532 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

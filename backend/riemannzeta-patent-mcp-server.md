@@ -25,7 +25,9 @@ Backend · Data
 
 ## 📝 Summary
 
-The riemannzeta/patent_mcp_server project is an open-source, high-performance server designed to efficiently process and analyze United States Patent and Trademark Office (USPTO) data. It utilizes the FastMCP algorithm to enable fast and scalable data retrieval and manipulation. This server is a valuable tool for researchers, developers, and professionals working with intellectual property data.
+Here's a brief summary for the open-source project:
+
+The riemannzeta/patent_mcp_server project provides a high-performance MCP (Multi-Class Prediction) server for processing large datasets from the United States Patent and Trademark Office (USPTO). This server enables efficient analysis and processing of USPTO data, making it an invaluable tool for researchers and developers working with patent-related information. The project's open-source nature facilitates collaboration and innovation in the field of patent data analysis.
 
 ---
 

@@ -1,6 +1,6 @@
 # lightly-ai/lightly-studio
 
-[![Stars](https://img.shields.io/github/stars/lightly-ai/lightly-studio?style=flat-square&color=yellow)](https://github.com/lightly-ai/lightly-studio/stargazers) [![Forks](https://img.shields.io/github/forks/lightly-ai/lightly-studio?style=flat-square&color=blue)](https://github.com/lightly-ai/lightly-studio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lightly-ai/lightly-studio?style=flat-square&color=yellow)](https://github.com/lightly-ai/lightly-studio/stargazers) [![Forks](https://img.shields.io/github/forks/lightly-ai/lightly-studio?style=flat-square&color=blue)](https://github.com/lightly-ai/lightly-studio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Curate, Annotate, and Manage Your Data in LightlyStudio.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 699 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

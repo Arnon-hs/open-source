@@ -1,6 +1,6 @@
 # Kirachon/context-engine
 
-[![Stars](https://img.shields.io/github/stars/Kirachon/context-engine?style=flat-square&color=yellow)](https://github.com/Kirachon/context-engine/stargazers) [![Forks](https://img.shields.io/github/forks/Kirachon/context-engine?style=flat-square&color=blue)](https://github.com/Kirachon/context-engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kirachon/context-engine?style=flat-square&color=yellow)](https://github.com/Kirachon/context-engine/stargazers) [![Forks](https://img.shields.io/github/forks/Kirachon/context-engine?style=flat-square&color=blue)](https://github.com/Kirachon/context-engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Local-native Context Engine MCP server for codebase indexing, semantic retrieval, planning, and review workflows.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 40 |
+| ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

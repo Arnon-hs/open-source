@@ -1,6 +1,6 @@
 # kubernetes-sigs/cluster-api-provider-openstack
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/cluster-api-provider-openstack?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/cluster-api-provider-openstack?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/cluster-api-provider-openstack?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/cluster-api-provider-openstack?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Cluster API implementation for OpenStack
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 298 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Water-Run/get
 
-[![Stars](https://img.shields.io/github/stars/Water-Run/get?style=flat-square&color=yellow)](https://github.com/Water-Run/get/stargazers) [![Forks](https://img.shields.io/github/forks/Water-Run/get?style=flat-square&color=blue)](https://github.com/Water-Run/get/network) [![Language](https://img.shields.io/badge/lang-Nim-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Water-Run/get?style=flat-square&color=yellow)](https://github.com/Water-Run/get/stargazers) [![Forks](https://img.shields.io/github/forks/Water-Run/get?style=flat-square&color=blue)](https://github.com/Water-Run/get/network) [![Language](https://img.shields.io/badge/lang-Nim-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > get -- get anything from your computer
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 40 |
+| ⭐ **Stars** | 41 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Nim |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
