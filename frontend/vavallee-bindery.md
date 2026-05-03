@@ -1,6 +1,6 @@
 # vavallee/bindery
 
-[![Stars](https://img.shields.io/github/stars/vavallee/bindery?style=flat-square&color=yellow)](https://github.com/vavallee/bindery/stargazers) [![Forks](https://img.shields.io/github/forks/vavallee/bindery?style=flat-square&color=blue)](https://github.com/vavallee/bindery/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vavallee/bindery?style=flat-square&color=yellow)](https://github.com/vavallee/bindery/stargazers) [![Forks](https://img.shields.io/github/forks/vavallee/bindery?style=flat-square&color=blue)](https://github.com/vavallee/bindery/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 194 |
+| ⭐ **Stars** | 196 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

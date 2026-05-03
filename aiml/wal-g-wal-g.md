@@ -1,6 +1,6 @@
 # wal-g/wal-g
 
-[![Stars](https://img.shields.io/github/stars/wal-g/wal-g?style=flat-square&color=yellow)](https://github.com/wal-g/wal-g/stargazers) [![Forks](https://img.shields.io/github/forks/wal-g/wal-g?style=flat-square&color=blue)](https://github.com/wal-g/wal-g/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wal-g/wal-g?style=flat-square&color=yellow)](https://github.com/wal-g/wal-g/stargazers) [![Forks](https://img.shields.io/github/forks/wal-g/wal-g?style=flat-square&color=blue)](https://github.com/wal-g/wal-g/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > Archival and Restoration for databases in the Cloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 541 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

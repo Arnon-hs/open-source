@@ -1,6 +1,6 @@
 # aws/s2n-quic
 
-[![Stars](https://img.shields.io/github/stars/aws/s2n-quic?style=flat-square&color=yellow)](https://github.com/aws/s2n-quic/stargazers) [![Forks](https://img.shields.io/github/forks/aws/s2n-quic?style=flat-square&color=blue)](https://github.com/aws/s2n-quic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/s2n-quic?style=flat-square&color=yellow)](https://github.com/aws/s2n-quic/stargazers) [![Forks](https://img.shields.io/github/forks/aws/s2n-quic?style=flat-square&color=blue)](https://github.com/aws/s2n-quic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An implementation of the IETF QUIC protocol
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

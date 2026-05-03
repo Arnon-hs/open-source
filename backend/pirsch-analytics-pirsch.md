@@ -1,6 +1,6 @@
 # pirsch-analytics/pirsch
 
-[![Stars](https://img.shields.io/github/stars/pirsch-analytics/pirsch?style=flat-square&color=yellow)](https://github.com/pirsch-analytics/pirsch/stargazers) [![Forks](https://img.shields.io/github/forks/pirsch-analytics/pirsch?style=flat-square&color=blue)](https://github.com/pirsch-analytics/pirsch/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pirsch-analytics/pirsch?style=flat-square&color=yellow)](https://github.com/pirsch-analytics/pirsch/stargazers) [![Forks](https://img.shields.io/github/forks/pirsch-analytics/pirsch?style=flat-square&color=blue)](https://github.com/pirsch-analytics/pirsch/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

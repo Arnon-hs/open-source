@@ -1,6 +1,6 @@
 # palantir/godel
 
-[![Stars](https://img.shields.io/github/stars/palantir/godel?style=flat-square&color=yellow)](https://github.com/palantir/godel/stargazers) [![Forks](https://img.shields.io/github/forks/palantir/godel?style=flat-square&color=blue)](https://github.com/palantir/godel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/palantir/godel?style=flat-square&color=yellow)](https://github.com/palantir/godel/stargazers) [![Forks](https://img.shields.io/github/forks/palantir/godel?style=flat-square&color=blue)](https://github.com/palantir/godel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Go tool for formatting, checking, building, distributing and publishing projects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

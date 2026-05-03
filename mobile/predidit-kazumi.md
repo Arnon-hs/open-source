@@ -1,6 +1,6 @@
 # Predidit/Kazumi
 
-[![Stars](https://img.shields.io/github/stars/Predidit/Kazumi?style=flat-square&color=yellow)](https://github.com/Predidit/Kazumi/stargazers) [![Forks](https://img.shields.io/github/forks/Predidit/Kazumi?style=flat-square&color=blue)](https://github.com/Predidit/Kazumi/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Predidit/Kazumi?style=flat-square&color=yellow)](https://github.com/Predidit/Kazumi/stargazers) [![Forks](https://img.shields.io/github/forks/Predidit/Kazumi?style=flat-square&color=blue)](https://github.com/Predidit/Kazumi/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 24.7k |
-| 🍴 **Forks** | 699 |
+| 🍴 **Forks** | 701 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

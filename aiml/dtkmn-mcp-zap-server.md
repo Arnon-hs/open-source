@@ -1,6 +1,6 @@
 # dtkmn/mcp-zap-server
 
-[![Stars](https://img.shields.io/github/stars/dtkmn/mcp-zap-server?style=flat-square&color=yellow)](https://github.com/dtkmn/mcp-zap-server/stargazers) [![Forks](https://img.shields.io/github/forks/dtkmn/mcp-zap-server?style=flat-square&color=blue)](https://github.com/dtkmn/mcp-zap-server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dtkmn/mcp-zap-server?style=flat-square&color=yellow)](https://github.com/dtkmn/mcp-zap-server/stargazers) [![Forks](https://img.shields.io/github/forks/dtkmn/mcp-zap-server?style=flat-square&color=blue)](https://github.com/dtkmn/mcp-zap-server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A Spring Boot application exposing OWASP ZAP as an MCP (Model Context Protocol) server. It lets any MCP‑compatible AI agent (e.g., Claude Desktop, Cursor) orchestrate ZAP actions—spider, active scan, import OpenAPI specs, and generate reports.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49 |
+| ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

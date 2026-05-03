@@ -1,6 +1,6 @@
 # marconae/speq-skill
 
-[![Stars](https://img.shields.io/github/stars/marconae/speq-skill?style=flat-square&color=yellow)](https://github.com/marconae/speq-skill/stargazers) [![Forks](https://img.shields.io/github/forks/marconae/speq-skill?style=flat-square&color=blue)](https://github.com/marconae/speq-skill/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marconae/speq-skill?style=flat-square&color=yellow)](https://github.com/marconae/speq-skill/stargazers) [![Forks](https://img.shields.io/github/forks/marconae/speq-skill?style=flat-square&color=blue)](https://github.com/marconae/speq-skill/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A light-weight and straightforward system for spec-driven development with Claude Code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

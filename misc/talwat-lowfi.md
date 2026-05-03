@@ -1,6 +1,6 @@
 # talwat/lowfi
 
-[![Stars](https://img.shields.io/github/stars/talwat/lowfi?style=flat-square&color=yellow)](https://github.com/talwat/lowfi/stargazers) [![Forks](https://img.shields.io/github/forks/talwat/lowfi?style=flat-square&color=blue)](https://github.com/talwat/lowfi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/talwat/lowfi?style=flat-square&color=yellow)](https://github.com/talwat/lowfi/stargazers) [![Forks](https://img.shields.io/github/forks/talwat/lowfi?style=flat-square&color=blue)](https://github.com/talwat/lowfi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > An extremely simple lofi player.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 881 |
+| ⭐ **Stars** | 882 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

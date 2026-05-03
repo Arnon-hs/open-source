@@ -1,6 +1,6 @@
 # mauhpr/agentlint
 
-[![Stars](https://img.shields.io/github/stars/mauhpr/agentlint?style=flat-square&color=yellow)](https://github.com/mauhpr/agentlint/stargazers) [![Forks](https://img.shields.io/github/forks/mauhpr/agentlint?style=flat-square&color=blue)](https://github.com/mauhpr/agentlint/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mauhpr/agentlint?style=flat-square&color=yellow)](https://github.com/mauhpr/agentlint/stargazers) [![Forks](https://img.shields.io/github/forks/mauhpr/agentlint?style=flat-square&color=blue)](https://github.com/mauhpr/agentlint/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time guardrails for AI coding agents. 68 rules across 8 packs covering code quality, security, and infrastructure safety. Inline ignore directives, path exemptions, hook timing, and session summaries.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

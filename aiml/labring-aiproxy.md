@@ -1,6 +1,6 @@
 # labring/aiproxy
 
-[![Stars](https://img.shields.io/github/stars/labring/aiproxy?style=flat-square&color=yellow)](https://github.com/labring/aiproxy/stargazers) [![Forks](https://img.shields.io/github/forks/labring/aiproxy?style=flat-square&color=blue)](https://github.com/labring/aiproxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/labring/aiproxy?style=flat-square&color=yellow)](https://github.com/labring/aiproxy/stargazers) [![Forks](https://img.shields.io/github/forks/labring/aiproxy?style=flat-square&color=blue)](https://github.com/labring/aiproxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > AI Proxy is a high performance AI gateway using OpenAI / Claude / Gemini protocol as the entry point. It features intelligent error handling, multi-channel management, and comprehensive monitoring. With support for multiple models, rate limiting, and multi-tenant isolation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 439 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

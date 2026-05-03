@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 333 |
-| 🍴 **Forks** | 23 |
+| 🍴 **Forks** | 24 |
 | 💻 **Language** | Nix |
 | 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.6k |
-| 🍴 **Forks** | 822 |
+| 🍴 **Forks** | 823 |
 | 💻 **Language** | TeX |
 | 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |

@@ -1,6 +1,6 @@
 # NVIDIA/NeMo-text-processing
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-text-processing?style=flat-square&color=yellow)](https://github.com/NVIDIA/NeMo-text-processing/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NeMo-text-processing?style=flat-square&color=blue)](https://github.com/NVIDIA/NeMo-text-processing/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-text-processing?style=flat-square&color=yellow)](https://github.com/NVIDIA/NeMo-text-processing/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NeMo-text-processing?style=flat-square&color=blue)](https://github.com/NVIDIA/NeMo-text-processing/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > NeMo text processing for ASR and TTS
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 455 |
+| ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

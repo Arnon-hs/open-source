@@ -1,6 +1,6 @@
 # http4s/http4s
 
-[![Stars](https://img.shields.io/github/stars/http4s/http4s?style=flat-square&color=yellow)](https://github.com/http4s/http4s/stargazers) [![Forks](https://img.shields.io/github/forks/http4s/http4s?style=flat-square&color=blue)](https://github.com/http4s/http4s/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/http4s/http4s?style=flat-square&color=yellow)](https://github.com/http4s/http4s/stargazers) [![Forks](https://img.shields.io/github/forks/http4s/http4s?style=flat-square&color=blue)](https://github.com/http4s/http4s/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal, idiomatic Scala interface for HTTP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 808 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

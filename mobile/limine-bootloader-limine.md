@@ -1,6 +1,6 @@
 # Limine-Bootloader/Limine
 
-[![Stars](https://img.shields.io/github/stars/Limine-Bootloader/Limine?style=flat-square&color=yellow)](https://github.com/Limine-Bootloader/Limine/stargazers) [![Forks](https://img.shields.io/github/forks/Limine-Bootloader/Limine?style=flat-square&color=blue)](https://github.com/Limine-Bootloader/Limine/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Limine-Bootloader/Limine?style=flat-square&color=yellow)](https://github.com/Limine-Bootloader/Limine/stargazers) [![Forks](https://img.shields.io/github/forks/Limine-Bootloader/Limine?style=flat-square&color=blue)](https://github.com/Limine-Bootloader/Limine/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Modern, advanced, portable, multiprotocol bootloader and boot manager.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 189 |
+| 🍴 **Forks** | 190 |
 | 💻 **Language** | C |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

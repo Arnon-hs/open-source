@@ -1,6 +1,6 @@
 # mvisonneau/gitlab-ci-pipelines-exporter
 
-[![Stars](https://img.shields.io/github/stars/mvisonneau/gitlab-ci-pipelines-exporter?style=flat-square&color=yellow)](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/mvisonneau/gitlab-ci-pipelines-exporter?style=flat-square&color=blue)](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mvisonneau/gitlab-ci-pipelines-exporter?style=flat-square&color=yellow)](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/mvisonneau/gitlab-ci-pipelines-exporter?style=flat-square&color=blue)](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 275 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

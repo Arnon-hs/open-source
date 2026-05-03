@@ -1,6 +1,6 @@
 # ChrisTitusTech/ChrisTitusTech
 
-[![Stars](https://img.shields.io/github/stars/ChrisTitusTech/ChrisTitusTech?style=flat-square&color=yellow)](https://github.com/ChrisTitusTech/ChrisTitusTech/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisTitusTech/ChrisTitusTech?style=flat-square&color=blue)](https://github.com/ChrisTitusTech/ChrisTitusTech/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChrisTitusTech/ChrisTitusTech?style=flat-square&color=yellow)](https://github.com/ChrisTitusTech/ChrisTitusTech/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisTitusTech/ChrisTitusTech?style=flat-square&color=blue)](https://github.com/ChrisTitusTech/ChrisTitusTech/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 539 |
+| ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

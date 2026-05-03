@@ -1,6 +1,6 @@
 # somranimehdi/TraceFree
 
-[![Stars](https://img.shields.io/github/stars/somranimehdi/TraceFree?style=flat-square&color=yellow)](https://github.com/somranimehdi/TraceFree/stargazers) [![Forks](https://img.shields.io/github/forks/somranimehdi/TraceFree?style=flat-square&color=blue)](https://github.com/somranimehdi/TraceFree/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/somranimehdi/TraceFree?style=flat-square&color=yellow)](https://github.com/somranimehdi/TraceFree/stargazers) [![Forks](https://img.shields.io/github/forks/somranimehdi/TraceFree?style=flat-square&color=blue)](https://github.com/somranimehdi/TraceFree/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Unified package manager for Ubuntu browse, search and clean Apt, Snap & Flatpak apps with ghost file detection. Built with Python & Tkinter.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4 |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

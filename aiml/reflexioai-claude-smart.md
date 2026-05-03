@@ -1,6 +1,6 @@
 # ReflexioAI/claude-smart
 
-[![Stars](https://img.shields.io/github/stars/ReflexioAI/claude-smart?style=flat-square&color=yellow)](https://github.com/ReflexioAI/claude-smart/stargazers) [![Forks](https://img.shields.io/github/forks/ReflexioAI/claude-smart?style=flat-square&color=blue)](https://github.com/ReflexioAI/claude-smart/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ReflexioAI/claude-smart?style=flat-square&color=yellow)](https://github.com/ReflexioAI/claude-smart/stargazers) [![Forks](https://img.shields.io/github/forks/ReflexioAI/claude-smart?style=flat-square&color=blue)](https://github.com/ReflexioAI/claude-smart/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A Claude Code plugin that makes Claude Code self-improve — learning from your corrections, not just remembering them
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

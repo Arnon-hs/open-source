@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/compute-image-tools
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/compute-image-tools?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/compute-image-tools/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/compute-image-tools?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/compute-image-tools/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/compute-image-tools?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/compute-image-tools/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/compute-image-tools?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/compute-image-tools/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Tools and scripts for Google Compute Engine images.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 218 |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

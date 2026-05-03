@@ -1,6 +1,6 @@
 # lukaszliniewicz/catlabel
 
-[![Stars](https://img.shields.io/github/stars/lukaszliniewicz/catlabel?style=flat-square&color=yellow)](https://github.com/lukaszliniewicz/catlabel/stargazers) [![Forks](https://img.shields.io/github/forks/lukaszliniewicz/catlabel?style=flat-square&color=blue)](https://github.com/lukaszliniewicz/catlabel/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lukaszliniewicz/catlabel?style=flat-square&color=yellow)](https://github.com/lukaszliniewicz/catlabel/stargazers) [![Forks](https://img.shields.io/github/forks/lukaszliniewicz/catlabel?style=flat-square&color=blue)](https://github.com/lukaszliniewicz/catlabel/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A local web-based design and printing studio for portable Bluetooth thermal label printers (Niimbot, Phomemo, Generic). Features a visual canvas, auto-scaling HTML layouts, batch data printing, and AI layout generation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

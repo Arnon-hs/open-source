@@ -1,6 +1,6 @@
 # mostafa/xk6-kafka
 
-[![Stars](https://img.shields.io/github/stars/mostafa/xk6-kafka?style=flat-square&color=yellow)](https://github.com/mostafa/xk6-kafka/stargazers) [![Forks](https://img.shields.io/github/forks/mostafa/xk6-kafka?style=flat-square&color=blue)](https://github.com/mostafa/xk6-kafka/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mostafa/xk6-kafka?style=flat-square&color=yellow)](https://github.com/mostafa/xk6-kafka/stargazers) [![Forks](https://img.shields.io/github/forks/mostafa/xk6-kafka?style=flat-square&color=blue)](https://github.com/mostafa/xk6-kafka/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > k6 extension to load test Apache Kafka with support for various serialization formats, SASL, TLS, compression, Schema Registry client and beyond
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 215 |
+| ⭐ **Stars** | 216 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

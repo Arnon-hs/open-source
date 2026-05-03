@@ -1,6 +1,6 @@
 # shankar0123/certctl
 
-[![Stars](https://img.shields.io/github/stars/shankar0123/certctl?style=flat-square&color=yellow)](https://github.com/shankar0123/certctl/stargazers) [![Forks](https://img.shields.io/github/forks/shankar0123/certctl?style=flat-square&color=blue)](https://github.com/shankar0123/certctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shankar0123/certctl?style=flat-square&color=yellow)](https://github.com/shankar0123/certctl/stargazers) [![Forks](https://img.shields.io/github/forks/shankar0123/certctl?style=flat-square&color=blue)](https://github.com/shankar0123/certctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > certctl is a self-hosted platform that automates the entire certificate lifecycle — from issuance through renewal to deployment — with zero human intervention. It works with any certificate authority, deploys to any server, and keeps private keys on your infrastructure where they belong.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

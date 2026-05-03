@@ -1,6 +1,6 @@
 # charmbracelet/fantasy
 
-[![Stars](https://img.shields.io/github/stars/charmbracelet/fantasy?style=flat-square&color=yellow)](https://github.com/charmbracelet/fantasy/stargazers) [![Forks](https://img.shields.io/github/forks/charmbracelet/fantasy?style=flat-square&color=blue)](https://github.com/charmbracelet/fantasy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/charmbracelet/fantasy?style=flat-square&color=yellow)](https://github.com/charmbracelet/fantasy/stargazers) [![Forks](https://img.shields.io/github/forks/charmbracelet/fantasy?style=flat-square&color=blue)](https://github.com/charmbracelet/fantasy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Build AI agents with Go. Multiple providers, multiple models, one API. 🧙
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 737 |
+| ⭐ **Stars** | 738 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

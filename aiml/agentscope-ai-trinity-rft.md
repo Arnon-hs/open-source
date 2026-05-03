@@ -1,6 +1,6 @@
 # agentscope-ai/Trinity-RFT
 
-[![Stars](https://img.shields.io/github/stars/agentscope-ai/Trinity-RFT?style=flat-square&color=yellow)](https://github.com/agentscope-ai/Trinity-RFT/stargazers) [![Forks](https://img.shields.io/github/forks/agentscope-ai/Trinity-RFT?style=flat-square&color=blue)](https://github.com/agentscope-ai/Trinity-RFT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentscope-ai/Trinity-RFT?style=flat-square&color=yellow)](https://github.com/agentscope-ai/Trinity-RFT/stargazers) [![Forks](https://img.shields.io/github/forks/agentscope-ai/Trinity-RFT?style=flat-square&color=blue)](https://github.com/agentscope-ai/Trinity-RFT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Trinity-RFT is a general-purpose, flexible and scalable framework designed for reinforcement fine-tuning (RFT) of large language models (LLM).
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 616 |
+| ⭐ **Stars** | 617 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # corelan/mona
 
-[![Stars](https://img.shields.io/github/stars/corelan/mona?style=flat-square&color=yellow)](https://github.com/corelan/mona/stargazers) [![Forks](https://img.shields.io/github/forks/corelan/mona?style=flat-square&color=blue)](https://github.com/corelan/mona/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/corelan/mona?style=flat-square&color=yellow)](https://github.com/corelan/mona/stargazers) [![Forks](https://img.shields.io/github/forks/corelan/mona?style=flat-square&color=blue)](https://github.com/corelan/mona/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Corelan Repository for mona.py
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 606 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

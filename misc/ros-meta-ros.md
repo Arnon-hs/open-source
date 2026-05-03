@@ -1,6 +1,6 @@
 # ros/meta-ros
 
-[![Stars](https://img.shields.io/github/stars/ros/meta-ros?style=flat-square&color=yellow)](https://github.com/ros/meta-ros/stargazers) [![Forks](https://img.shields.io/github/forks/ros/meta-ros?style=flat-square&color=blue)](https://github.com/ros/meta-ros/network) [![Language](https://img.shields.io/badge/lang-BitBake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ros/meta-ros?style=flat-square&color=yellow)](https://github.com/ros/meta-ros/stargazers) [![Forks](https://img.shields.io/github/forks/ros/meta-ros?style=flat-square&color=blue)](https://github.com/ros/meta-ros/network) [![Language](https://img.shields.io/badge/lang-BitBake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > OpenEmbedded Layers for ROS 1 and ROS 2
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 474 |
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | BitBake |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

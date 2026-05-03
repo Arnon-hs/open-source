@@ -1,6 +1,6 @@
 # VintLin/skill-flow
 
-[![Stars](https://img.shields.io/github/stars/VintLin/skill-flow?style=flat-square&color=yellow)](https://github.com/VintLin/skill-flow/stargazers) [![Forks](https://img.shields.io/github/forks/VintLin/skill-flow?style=flat-square&color=blue)](https://github.com/VintLin/skill-flow/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VintLin/skill-flow?style=flat-square&color=yellow)](https://github.com/VintLin/skill-flow/stargazers) [![Forks](https://img.shields.io/github/forks/VintLin/skill-flow?style=flat-square&color=blue)](https://github.com/VintLin/skill-flow/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Install, manage, and share skills across every major coding agent — Claude Code, Cursor, Copilot, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 221 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

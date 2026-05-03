@@ -1,6 +1,6 @@
 # rundeck-plugins/ansible-plugin
 
-[![Stars](https://img.shields.io/github/stars/rundeck-plugins/ansible-plugin?style=flat-square&color=yellow)](https://github.com/rundeck-plugins/ansible-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/rundeck-plugins/ansible-plugin?style=flat-square&color=blue)](https://github.com/rundeck-plugins/ansible-plugin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rundeck-plugins/ansible-plugin?style=flat-square&color=yellow)](https://github.com/rundeck-plugins/ansible-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/rundeck-plugins/ansible-plugin?style=flat-square&color=blue)](https://github.com/rundeck-plugins/ansible-plugin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Ansible Integration for Rundeck
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 344 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

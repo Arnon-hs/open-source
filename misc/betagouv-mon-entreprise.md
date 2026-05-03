@@ -1,6 +1,6 @@
 # betagouv/mon-entreprise
 
-[![Stars](https://img.shields.io/github/stars/betagouv/mon-entreprise?style=flat-square&color=yellow)](https://github.com/betagouv/mon-entreprise/stargazers) [![Forks](https://img.shields.io/github/forks/betagouv/mon-entreprise?style=flat-square&color=blue)](https://github.com/betagouv/mon-entreprise/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/betagouv/mon-entreprise?style=flat-square&color=yellow)](https://github.com/betagouv/mon-entreprise/stargazers) [![Forks](https://img.shields.io/github/forks/betagouv/mon-entreprise?style=flat-square&color=blue)](https://github.com/betagouv/mon-entreprise/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > L'assistant officiel des entrepreneurs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

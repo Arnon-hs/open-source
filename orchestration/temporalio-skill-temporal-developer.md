@@ -1,6 +1,6 @@
 # temporalio/skill-temporal-developer
 
-[![Stars](https://img.shields.io/github/stars/temporalio/skill-temporal-developer?style=flat-square&color=yellow)](https://github.com/temporalio/skill-temporal-developer/stargazers) [![Forks](https://img.shields.io/github/forks/temporalio/skill-temporal-developer?style=flat-square&color=blue)](https://github.com/temporalio/skill-temporal-developer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/temporalio/skill-temporal-developer?style=flat-square&color=yellow)](https://github.com/temporalio/skill-temporal-developer/stargazers) [![Forks](https://img.shields.io/github/forks/temporalio/skill-temporal-developer?style=flat-square&color=blue)](https://github.com/temporalio/skill-temporal-developer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Comprehensive Skill for developing with Temporal
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/SrihariLegend/rig?style=flat-square&color=yellow)](https://github.com/SrihariLegend/rig/stargazers) [![Forks](https://img.shields.io/github/forks/SrihariLegend/rig?style=flat-square&color=blue)](https://github.com/SrihariLegend/rig/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> AI coding agent in C. Single binary, zero runtime deps, every major LLM provider. Early stage — contributions welcome.
+> AI coding agent in C. Single binary, zero runtime deps, every major LLM provider.
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # morapelker/hive
 
-[![Stars](https://img.shields.io/github/stars/morapelker/hive?style=flat-square&color=yellow)](https://github.com/morapelker/hive/stargazers) [![Forks](https://img.shields.io/github/forks/morapelker/hive?style=flat-square&color=blue)](https://github.com/morapelker/hive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/morapelker/hive?style=flat-square&color=yellow)](https://github.com/morapelker/hive/stargazers) [![Forks](https://img.shields.io/github/forks/morapelker/hive?style=flat-square&color=blue)](https://github.com/morapelker/hive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Project/Worktree manager, deeply integrated with AI agents to increase productivity and multitask efficiently
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 395 |
-| 🍴 **Forks** | 48 |
+| ⭐ **Stars** | 397 |
+| 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

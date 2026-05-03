@@ -1,17 +1,17 @@
 # sderosiaux/launchdeck
 
-[![Stars](https://img.shields.io/github/stars/sderosiaux/launchdeck?style=flat-square&color=yellow)](https://github.com/sderosiaux/launchdeck/stargazers) [![Forks](https://img.shields.io/github/forks/sderosiaux/launchdeck?style=flat-square&color=blue)](https://github.com/sderosiaux/launchdeck/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sderosiaux/launchdeck?style=flat-square&color=yellow)](https://github.com/sderosiaux/launchdeck/stargazers) [![Forks](https://img.shields.io/github/forks/sderosiaux/launchdeck?style=flat-square&color=blue)](https://github.com/sderosiaux/launchdeck/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Unified macOS service console for launchd and Homebrew
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -1,6 +1,6 @@
 # grubersjoe/react-github-calendar
 
-[![Stars](https://img.shields.io/github/stars/grubersjoe/react-github-calendar?style=flat-square&color=yellow)](https://github.com/grubersjoe/react-github-calendar/stargazers) [![Forks](https://img.shields.io/github/forks/grubersjoe/react-github-calendar?style=flat-square&color=blue)](https://github.com/grubersjoe/react-github-calendar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grubersjoe/react-github-calendar?style=flat-square&color=yellow)](https://github.com/grubersjoe/react-github-calendar/stargazers) [![Forks](https://img.shields.io/github/forks/grubersjoe/react-github-calendar?style=flat-square&color=blue)](https://github.com/grubersjoe/react-github-calendar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > React component to display a GitHub contributions calendar
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 647 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

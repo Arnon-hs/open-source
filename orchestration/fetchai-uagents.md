@@ -1,6 +1,6 @@
 # fetchai/uAgents
 
-[![Stars](https://img.shields.io/github/stars/fetchai/uAgents?style=flat-square&color=yellow)](https://github.com/fetchai/uAgents/stargazers) [![Forks](https://img.shields.io/github/forks/fetchai/uAgents?style=flat-square&color=blue)](https://github.com/fetchai/uAgents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fetchai/uAgents?style=flat-square&color=yellow)](https://github.com/fetchai/uAgents/stargazers) [![Forks](https://img.shields.io/github/forks/fetchai/uAgents?style=flat-square&color=blue)](https://github.com/fetchai/uAgents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A fast and lightweight framework for creating decentralized agents with ease.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 348 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

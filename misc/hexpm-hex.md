@@ -1,6 +1,6 @@
 # hexpm/hex
 
-[![Stars](https://img.shields.io/github/stars/hexpm/hex?style=flat-square&color=yellow)](https://github.com/hexpm/hex/stargazers) [![Forks](https://img.shields.io/github/forks/hexpm/hex?style=flat-square&color=blue)](https://github.com/hexpm/hex/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hexpm/hex?style=flat-square&color=yellow)](https://github.com/hexpm/hex/stargazers) [![Forks](https://img.shields.io/github/forks/hexpm/hex?style=flat-square&color=blue)](https://github.com/hexpm/hex/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Package manager for the Erlang ecosystem.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 203 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

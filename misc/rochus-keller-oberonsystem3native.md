@@ -1,17 +1,17 @@
 # rochus-keller/OberonSystem3Native
 
-[![Stars](https://img.shields.io/github/stars/rochus-keller/OberonSystem3Native?style=flat-square&color=yellow)](https://github.com/rochus-keller/OberonSystem3Native/releases/tag/2026-04-28/stargazers) [![Forks](https://img.shields.io/github/forks/rochus-keller/OberonSystem3Native?style=flat-square&color=blue)](https://github.com/rochus-keller/OberonSystem3Native/releases/tag/2026-04-28/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rochus-keller/OberonSystem3Native?style=flat-square&color=yellow)](https://github.com/rochus-keller/OberonSystem3Native/releases/tag/2026-04-28/stargazers) [![Forks](https://img.shields.io/github/forks/rochus-keller/OberonSystem3Native?style=flat-square&color=blue)](https://github.com/rochus-keller/OberonSystem3Native/releases/tag/2026-04-28/network) [![Language](https://img.shields.io/badge/lang-Modula-2-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> This is a version based on v2.3.7 supposed to eventually run natively on PC i386, Raspi Model 3b and Olimex ESP32-P4-PC, using existing bootloaders instead of Oberon0
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 149 |
+| 🍴 **Forks** | 10 |
+| 💻 **Language** | Modula-2 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

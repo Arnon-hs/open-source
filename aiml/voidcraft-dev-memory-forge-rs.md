@@ -1,6 +1,6 @@
 # voidcraft-dev/memory-forge-rs
 
-[![Stars](https://img.shields.io/github/stars/voidcraft-dev/memory-forge-rs?style=flat-square&color=yellow)](https://github.com/voidcraft-dev/memory-forge-rs/stargazers) [![Forks](https://img.shields.io/github/forks/voidcraft-dev/memory-forge-rs?style=flat-square&color=blue)](https://github.com/voidcraft-dev/memory-forge-rs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/voidcraft-dev/memory-forge-rs?style=flat-square&color=yellow)](https://github.com/voidcraft-dev/memory-forge-rs/stargazers) [![Forks](https://img.shields.io/github/forks/voidcraft-dev/memory-forge-rs?style=flat-square&color=blue)](https://github.com/voidcraft-dev/memory-forge-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Stop resetting satisfying AI chats — edit the memory instead. Local session manager for Claude Code, Codex & OpenCode & Gemini CLI &  Kiro CLI . Tauri + Rust, 100% offline - 记忆操控，可视化随意改写AI记忆
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 116 |
+| ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 15 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

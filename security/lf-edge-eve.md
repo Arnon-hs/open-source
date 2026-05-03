@@ -1,6 +1,6 @@
 # lf-edge/eve
 
-[![Stars](https://img.shields.io/github/stars/lf-edge/eve?style=flat-square&color=yellow)](https://github.com/lf-edge/eve/stargazers) [![Forks](https://img.shields.io/github/forks/lf-edge/eve?style=flat-square&color=blue)](https://github.com/lf-edge/eve/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lf-edge/eve?style=flat-square&color=yellow)](https://github.com/lf-edge/eve/stargazers) [![Forks](https://img.shields.io/github/forks/lf-edge/eve?style=flat-square&color=blue)](https://github.com/lf-edge/eve/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > EVE is Edge Virtualization Engine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 544 |
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

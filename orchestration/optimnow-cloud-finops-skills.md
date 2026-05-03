@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/OptimNow/cloud-finops-skills?style=flat-square&color=yellow)](https://github.com/OptimNow/cloud-finops-skills/stargazers) [![Forks](https://img.shields.io/github/forks/OptimNow/cloud-finops-skills?style=flat-square&color=blue)](https://github.com/OptimNow/cloud-finops-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Cloud FinOps Agent Skill — expert guidance on AI cost management, AWS/Azure optimization, tagging governance, and FinOps framework implementation. Built by OptimNow.
+> Open-source, FOCUS-aligned FinOps knowledge skill for AI coding assistants. 28 reference files spanning cloud cost (AWS/Azure/GCP/OCI), AI inference economics, Kubernetes, data platforms, allocation, chargeback, anomaly management, waste detection, GreenOps. Installs into 11 AI tools. Refreshed bi-monthly. Built by OptimNow.
 
 ## 📊 Stats
 

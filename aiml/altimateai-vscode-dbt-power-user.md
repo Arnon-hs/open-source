@@ -1,6 +1,6 @@
 # AltimateAI/vscode-dbt-power-user
 
-[![Stars](https://img.shields.io/github/stars/AltimateAI/vscode-dbt-power-user?style=flat-square&color=yellow)](https://github.com/AltimateAI/vscode-dbt-power-user/stargazers) [![Forks](https://img.shields.io/github/forks/AltimateAI/vscode-dbt-power-user?style=flat-square&color=blue)](https://github.com/AltimateAI/vscode-dbt-power-user/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AltimateAI/vscode-dbt-power-user?style=flat-square&color=yellow)](https://github.com/AltimateAI/vscode-dbt-power-user/stargazers) [![Forks](https://img.shields.io/github/forks/AltimateAI/vscode-dbt-power-user?style=flat-square&color=blue)](https://github.com/AltimateAI/vscode-dbt-power-user/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > This extension makes vscode seamlessly work with dbt™: Auto-complete, preview, column lineage, AI docs generation, health checks, cost estimation etc
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 572 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

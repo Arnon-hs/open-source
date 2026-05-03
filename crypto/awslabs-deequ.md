@@ -1,6 +1,6 @@
 # awslabs/deequ
 
-[![Stars](https://img.shields.io/github/stars/awslabs/deequ?style=flat-square&color=yellow)](https://github.com/awslabs/deequ/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/deequ?style=flat-square&color=blue)](https://github.com/awslabs/deequ/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awslabs/deequ?style=flat-square&color=yellow)](https://github.com/awslabs/deequ/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/deequ?style=flat-square&color=blue)](https://github.com/awslabs/deequ/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 583 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
 
-[![Stars](https://img.shields.io/github/stars/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line?style=flat-square&color=yellow)](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/stargazers) [![Forks](https://img.shields.io/github/forks/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line?style=flat-square&color=blue)](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line?style=flat-square&color=yellow)](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/stargazers) [![Forks](https://img.shields.io/github/forks/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line?style=flat-square&color=blue)](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > A complete course for learning Bitcoin programming and usage from the command
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 823 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15616** |
+| 🗂️ **Total projects** | **15656** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5825 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3230 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1527 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 5836 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3244 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1535 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 1147 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 956 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 930 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 529 | [Browse →](./crypto/) |
-| 📊 **Data** | 354 | [Browse →](./data/) |
+| ⚙️ **Backend** | 958 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 931 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 532 | [Browse →](./crypto/) |
+| 📊 **Data** | 355 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 336 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 213 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 216 | [Browse →](./mobile/) |
 | 💳 **Payments** | 164 | [Browse →](./payments/) |
-| 📈 **Trading** | 164 | [Browse →](./trading/) |
-| 🔐 **Security** | 128 | [Browse →](./security/) |
+| 📈 **Trading** | 162 | [Browse →](./trading/) |
+| 🔐 **Security** | 127 | [Browse →](./security/) |
 | ✨ **Design** | 52 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🎯 **Product** | 30 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Laravel-Lang/lang](./payments/laravel-lang-lang.md) | ⭐ 7.8k | Payments |
+| 1 | [utmapp/UTM](./aiml/utmapp-utm.md) | ⭐ 33.9k | AI/ML |
 | 2 | [reactos/reactos](./frontend/reactos-reactos.md) | ⭐ 17.5k | Frontend |
-| 3 | [ShareX/ShareX](./product/sharex-sharex.md) | ⭐ 37k | Product |
-| 4 | [flameshot-org/flameshot](./frontend/flameshot-org-flameshot.md) | ⭐ 29.8k | Frontend |
-| 5 | [Budibase/budibase](./orchestration/budibase-budibase.md) | ⭐ 27.9k | Orchestration |
-| 6 | [oapi-codegen/oapi-codegen](./backend/oapi-codegen-oapi-codegen.md) | ⭐ 8.3k | Backend |
-| 7 | [langchain-ai/open-swe](./orchestration/langchain-ai-open-swe.md) | ⭐ 9.7k | Orchestration |
-| 8 | [openvinotoolkit/openvino](./aiml/openvinotoolkit-openvino.md) | ⭐ 10.2k | AI/ML |
-| 9 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
-| 10 | [rook/rook](./orchestration/rook-rook.md) | ⭐ 13.5k | Orchestration |
+| 3 | [flameshot-org/flameshot](./frontend/flameshot-org-flameshot.md) | ⭐ 29.8k | Frontend |
+| 4 | [Budibase/budibase](./orchestration/budibase-budibase.md) | ⭐ 27.9k | Orchestration |
+| 5 | [oapi-codegen/oapi-codegen](./backend/oapi-codegen-oapi-codegen.md) | ⭐ 8.3k | Backend |
+| 6 | [langchain-ai/open-swe](./orchestration/langchain-ai-open-swe.md) | ⭐ 9.7k | Orchestration |
+| 7 | [openvinotoolkit/openvino](./aiml/openvinotoolkit-openvino.md) | ⭐ 10.2k | AI/ML |
+| 8 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
+| 9 | [rook/rook](./orchestration/rook-rook.md) | ⭐ 13.5k | Orchestration |
+| 10 | [farion1231/cc-switch](./aiml/farion1231-cc-switch.md) | ⭐ 58.4k | AI/ML |
 
 ## 🚀 How it works
 

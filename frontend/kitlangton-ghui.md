@@ -1,6 +1,6 @@
 # kitlangton/ghui
 
-[![Stars](https://img.shields.io/github/stars/kitlangton/ghui?style=flat-square&color=yellow)](https://github.com/kitlangton/ghui/stargazers) [![Forks](https://img.shields.io/github/forks/kitlangton/ghui?style=flat-square&color=blue)](https://github.com/kitlangton/ghui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kitlangton/ghui?style=flat-square&color=yellow)](https://github.com/kitlangton/ghui/stargazers) [![Forks](https://img.shields.io/github/forks/kitlangton/ghui?style=flat-square&color=blue)](https://github.com/kitlangton/ghui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A GitHub TUI
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 686 |
+| ⭐ **Stars** | 717 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

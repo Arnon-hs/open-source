@@ -1,8 +1,8 @@
 # Corbell-AI/evalmonkey
 
-[![Stars](https://img.shields.io/github/stars/Corbell-AI/evalmonkey?style=flat-square&color=yellow)](https://github.com/Corbell-AI/evalmonkey/stargazers) [![Forks](https://img.shields.io/github/forks/Corbell-AI/evalmonkey?style=flat-square&color=blue)](https://github.com/Corbell-AI/evalmonkey/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Corbell-AI/evalmonkey?style=flat-square&color=yellow)](https://github.com/Corbell-AI/evalmonkey/stargazers) [![Forks](https://img.shields.io/github/forks/Corbell-AI/evalmonkey?style=flat-square&color=blue)](https://github.com/Corbell-AI/evalmonkey/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> CLI for coding agents to benchmarking & chaos test your AI Agents
+> CLI for coding agents to benchmark & chaos test your AI Agents
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # paramientos/presto
 
-[![Stars](https://img.shields.io/github/stars/paramientos/presto?style=flat-square&color=yellow)](https://github.com/paramientos/presto/stargazers) [![Forks](https://img.shields.io/github/forks/paramientos/presto?style=flat-square&color=blue)](https://github.com/paramientos/presto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paramientos/presto?style=flat-square&color=yellow)](https://github.com/paramientos/presto/stargazers) [![Forks](https://img.shields.io/github/forks/paramientos/presto?style=flat-square&color=blue)](https://github.com/paramientos/presto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Presto is a dependency manager for PHP and drop-in-replacement for Composer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

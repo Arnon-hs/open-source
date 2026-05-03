@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/rocky-data/rocky?style=flat-square&color=yellow)](https://github.com/rocky-data/rocky/stargazers) [![Forks](https://img.shields.io/github/forks/rocky-data/rocky?style=flat-square&color=blue)](https://github.com/rocky-data/rocky/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
-> The trust system for your data. Rust-based control plane for warehouse pipelines — branches, replay, column-level lineage, compile-time safety, per-model cost attribution. Keep Databricks or Snowflake. Bring Rocky for the DAG.
+> Rust SQL transformation engine with branches, replay, column-level lineage, compile-time type safety, and per-model cost attribution. Single static binary; adapters for Databricks, Snowflake, BigQuery, DuckDB. Apache 2.0.
 
 ## 📊 Stats
 

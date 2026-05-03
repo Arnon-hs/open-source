@@ -1,6 +1,6 @@
 # dalathegreat/Battery-Emulator
 
-[![Stars](https://img.shields.io/github/stars/dalathegreat/Battery-Emulator?style=flat-square&color=yellow)](https://github.com/dalathegreat/Battery-Emulator/stargazers) [![Forks](https://img.shields.io/github/forks/dalathegreat/Battery-Emulator?style=flat-square&color=blue)](https://github.com/dalathegreat/Battery-Emulator/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dalathegreat/Battery-Emulator?style=flat-square&color=yellow)](https://github.com/dalathegreat/Battery-Emulator/stargazers) [![Forks](https://img.shields.io/github/forks/dalathegreat/Battery-Emulator?style=flat-square&color=blue)](https://github.com/dalathegreat/Battery-Emulator/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 329 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Trendyol/go-pq-cdc
 
-[![Stars](https://img.shields.io/github/stars/Trendyol/go-pq-cdc?style=flat-square&color=yellow)](https://github.com/Trendyol/go-pq-cdc/stargazers) [![Forks](https://img.shields.io/github/forks/Trendyol/go-pq-cdc?style=flat-square&color=blue)](https://github.com/Trendyol/go-pq-cdc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Trendyol/go-pq-cdc?style=flat-square&color=yellow)](https://github.com/Trendyol/go-pq-cdc/stargazers) [![Forks](https://img.shields.io/github/forks/Trendyol/go-pq-cdc?style=flat-square&color=blue)](https://github.com/Trendyol/go-pq-cdc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > go-pq-cdc is lightweight and efficient Change Data Capture (CDC) system designed for PostgreSQL
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 175 |
+| ⭐ **Stars** | 176 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

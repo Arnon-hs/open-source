@@ -1,6 +1,6 @@
 # light-cloud-com/out-loud
 
-[![Stars](https://img.shields.io/github/stars/light-cloud-com/out-loud?style=flat-square&color=yellow)](https://github.com/light-cloud-com/out-loud/stargazers) [![Forks](https://img.shields.io/github/forks/light-cloud-com/out-loud?style=flat-square&color=blue)](https://github.com/light-cloud-com/out-loud/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/light-cloud-com/out-loud?style=flat-square&color=yellow)](https://github.com/light-cloud-com/out-loud/stargazers) [![Forks](https://img.shields.io/github/forks/light-cloud-com/out-loud?style=flat-square&color=blue)](https://github.com/light-cloud-com/out-loud/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open-source, 100% offline AI text-to-speech for macOS, Windows & Linux.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

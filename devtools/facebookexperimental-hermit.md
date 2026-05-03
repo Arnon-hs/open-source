@@ -1,6 +1,6 @@
 # facebookexperimental/hermit
 
-[![Stars](https://img.shields.io/github/stars/facebookexperimental/hermit?style=flat-square&color=yellow)](https://github.com/facebookexperimental/hermit/stargazers) [![Forks](https://img.shields.io/github/forks/facebookexperimental/hermit?style=flat-square&color=blue)](https://github.com/facebookexperimental/hermit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebookexperimental/hermit?style=flat-square&color=yellow)](https://github.com/facebookexperimental/hermit/stargazers) [![Forks](https://img.shields.io/github/forks/facebookexperimental/hermit?style=flat-square&color=blue)](https://github.com/facebookexperimental/hermit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior. This can be used for various applications, including replay-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

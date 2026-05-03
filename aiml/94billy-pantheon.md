@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/94BILLY/PANTHEON?style=flat-square&color=yellow)](https://github.com/94BILLY/PANTHEON/stargazers) [![Forks](https://img.shields.io/github/forks/94BILLY/PANTHEON?style=flat-square&color=blue)](https://github.com/94BILLY/PANTHEON/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> PANTHEON: A deterministic Path 1 rendering framework for the PlayStation 2. Sustaining a locked 60 FPS baseline, it leverages the Emotion Engine as a high-bandwidth stream orchestrator to sequence DMA/VIF command chains to the VU1 co-processor. Extracts maximum silicon throughput via direct XGKICK hardware rendering.
+> PANTHEON: A deterministic Path 1 rendering framework for the Sony® PlayStation 2. Sustaining a locked 60 FPS baseline, it leverages the Emotion Engine as a high-bandwidth stream orchestrator to sequence DMA/VIF command chains to the VU1 co-processor. Extracts maximum silicon throughput via direct XGKICK hardware rendering.
 
 ## 📊 Stats
 

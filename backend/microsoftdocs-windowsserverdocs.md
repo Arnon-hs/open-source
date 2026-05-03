@@ -1,6 +1,6 @@
 # MicrosoftDocs/windowsserverdocs
 
-[![Stars](https://img.shields.io/github/stars/MicrosoftDocs/windowsserverdocs?style=flat-square&color=yellow)](https://github.com/MicrosoftDocs/windowsserverdocs/stargazers) [![Forks](https://img.shields.io/github/forks/MicrosoftDocs/windowsserverdocs?style=flat-square&color=blue)](https://github.com/MicrosoftDocs/windowsserverdocs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MicrosoftDocs/windowsserverdocs?style=flat-square&color=yellow)](https://github.com/MicrosoftDocs/windowsserverdocs/stargazers) [![Forks](https://img.shields.io/github/forks/MicrosoftDocs/windowsserverdocs?style=flat-square&color=blue)](https://github.com/MicrosoftDocs/windowsserverdocs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Public content repository for Windows Server content.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 26 |
+| ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Markdown |
 | 📈 **Score** | 50/100 |

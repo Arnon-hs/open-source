@@ -1,6 +1,6 @@
 # andrisgauracs/netflix-void-web-app
 
-[![Stars](https://img.shields.io/github/stars/andrisgauracs/netflix-void-web-app?style=flat-square&color=yellow)](https://github.com/andrisgauracs/netflix-void-web-app/stargazers) [![Forks](https://img.shields.io/github/forks/andrisgauracs/netflix-void-web-app?style=flat-square&color=blue)](https://github.com/andrisgauracs/netflix-void-web-app/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/andrisgauracs/netflix-void-web-app?style=flat-square&color=yellow)](https://github.com/andrisgauracs/netflix-void-web-app/stargazers) [![Forks](https://img.shields.io/github/forks/andrisgauracs/netflix-void-web-app?style=flat-square&color=blue)](https://github.com/andrisgauracs/netflix-void-web-app/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 34/100 |
+| 📈 **Score** | 30/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | youtube |
 

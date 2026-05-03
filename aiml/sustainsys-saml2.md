@@ -1,6 +1,6 @@
 # Sustainsys/Saml2
 
-[![Stars](https://img.shields.io/github/stars/Sustainsys/Saml2?style=flat-square&color=yellow)](https://github.com/Sustainsys/Saml2/stargazers) [![Forks](https://img.shields.io/github/forks/Sustainsys/Saml2?style=flat-square&color=blue)](https://github.com/Sustainsys/Saml2/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sustainsys/Saml2?style=flat-square&color=yellow)](https://github.com/Sustainsys/Saml2/stargazers) [![Forks](https://img.shields.io/github/forks/Sustainsys/Saml2?style=flat-square&color=blue)](https://github.com/Sustainsys/Saml2/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Saml2 Authentication services for ASP.NET
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 603 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

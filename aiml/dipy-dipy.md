@@ -1,6 +1,6 @@
 # dipy/dipy
 
-[![Stars](https://img.shields.io/github/stars/dipy/dipy?style=flat-square&color=yellow)](https://github.com/dipy/dipy/stargazers) [![Forks](https://img.shields.io/github/forks/dipy/dipy?style=flat-square&color=blue)](https://github.com/dipy/dipy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dipy/dipy?style=flat-square&color=yellow)](https://github.com/dipy/dipy/stargazers) [![Forks](https://img.shields.io/github/forks/dipy/dipy?style=flat-square&color=blue)](https://github.com/dipy/dipy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > DIPY is the paragon 3D/4D+ medical imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images. Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 819 |
 | 🍴 **Forks** | 497 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # flanksource/canary-checker
 
-[![Stars](https://img.shields.io/github/stars/flanksource/canary-checker?style=flat-square&color=yellow)](https://github.com/flanksource/canary-checker/stargazers) [![Forks](https://img.shields.io/github/forks/flanksource/canary-checker?style=flat-square&color=blue)](https://github.com/flanksource/canary-checker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flanksource/canary-checker?style=flat-square&color=yellow)](https://github.com/flanksource/canary-checker/stargazers) [![Forks](https://img.shields.io/github/forks/flanksource/canary-checker?style=flat-square&color=blue)](https://github.com/flanksource/canary-checker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes Native Health Check Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 325 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

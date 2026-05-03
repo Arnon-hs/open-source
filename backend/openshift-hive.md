@@ -1,6 +1,6 @@
 # openshift/hive
 
-[![Stars](https://img.shields.io/github/stars/openshift/hive?style=flat-square&color=yellow)](https://github.com/openshift/hive/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/hive?style=flat-square&color=blue)](https://github.com/openshift/hive/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openshift/hive?style=flat-square&color=yellow)](https://github.com/openshift/hive/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/hive?style=flat-square&color=blue)](https://github.com/openshift/hive/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > API driven OpenShift cluster provisioning and management
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 275 |
 | 🍴 **Forks** | 259 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

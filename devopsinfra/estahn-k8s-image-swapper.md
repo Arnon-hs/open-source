@@ -1,6 +1,6 @@
 # estahn/k8s-image-swapper
 
-[![Stars](https://img.shields.io/github/stars/estahn/k8s-image-swapper?style=flat-square&color=yellow)](https://github.com/estahn/k8s-image-swapper/stargazers) [![Forks](https://img.shields.io/github/forks/estahn/k8s-image-swapper?style=flat-square&color=blue)](https://github.com/estahn/k8s-image-swapper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/estahn/k8s-image-swapper?style=flat-square&color=yellow)](https://github.com/estahn/k8s-image-swapper/stargazers) [![Forks](https://img.shields.io/github/forks/estahn/k8s-image-swapper?style=flat-square&color=blue)](https://github.com/estahn/k8s-image-swapper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror images into your own registry and swap image references automatically.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 630 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
