@@ -1,6 +1,6 @@
 # oasisprotocol/oasis-core
 
-[![Stars](https://img.shields.io/github/stars/oasisprotocol/oasis-core?style=flat-square&color=yellow)](https://github.com/oasisprotocol/oasis-core/stargazers) [![Forks](https://img.shields.io/github/forks/oasisprotocol/oasis-core?style=flat-square&color=blue)](https://github.com/oasisprotocol/oasis-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oasisprotocol/oasis-core?style=flat-square&color=yellow)](https://github.com/oasisprotocol/oasis-core/stargazers) [![Forks](https://img.shields.io/github/forks/oasisprotocol/oasis-core?style=flat-square&color=blue)](https://github.com/oasisprotocol/oasis-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Performant and Confidentiality-Preserving Smart Contracts + Blockchains
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

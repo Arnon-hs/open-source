@@ -27,7 +27,7 @@ AI/ML
 
 Here's a brief summary for the wwmm/easyeffects project:
 
-EasyEffects is an open-source, modular audio effects plugin suite for PipeWire applications, providing a range of tools such as limiters, compressors, and equalizers. This project enables users to easily customize and enhance their audio experience across various PipeWire-based platforms. With its comprehensive set of features and flexible design, EasyEffects is an ideal solution for content creators, audio engineers, and anyone looking to refine their audio output.
+EasyEffects is an open-source audio effects plugin suite for PipeWire applications, providing a range of features including limiter, compressor, convolver, equalizer, and auto volume control. This project enables creators to enhance their audio experiences with a variety of effects, making it a valuable resource for musicians, producers, and developers. By leveraging AI/ML capabilities, EasyEffects offers a flexible and customizable solution for audio processing.
 
 ---
 

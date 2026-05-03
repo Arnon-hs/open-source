@@ -25,9 +25,9 @@ Trading
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary of the open-source project:
 
-TurboQuant, a four-year-old trading implementation, has been discovered and shared on GitHub. This open-source project provides a quantifiable approach to trading, likely utilizing complex algorithms and mathematical models to optimize investment strategies. Developers can leverage this project to gain insights into trading automation and machine learning-based decision-making in finance.
+TurboQuant is an open-source implementation of a trading system, discovered on Hacker News, that has been available for four years on GitHub. This trading software is designed to provide fast and efficient execution of trades. Its open-source nature allows developers to contribute and improve the system.
 
 ---
 

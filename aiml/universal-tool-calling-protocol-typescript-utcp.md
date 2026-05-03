@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The universal-tool-calling-protocol/typescript-utcp project provides an official TypeScript implementation of the UTCP (Universal Tool Calling Protocol) open standard. This standard enables AI agents to directly interact with any API, eliminating the need for additional middleware. By leveraging UTCP, developers can simplify their workflows and build more efficient AI-powered applications.
+The universal-tool-calling-protocol/typescript-utcp project is an open-source, TypeScript implementation of the Universal Tool Calling Protocol (UTCP), a standard enabling AI agents to directly interface with any API without the need for intermediate middleware. This allows for seamless communication and integration between AI systems and external services. By leveraging UTCP, developers can simplify their interactions with APIs and enhance the capabilities of their AI applications.
 
 ---
 

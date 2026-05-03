@@ -25,7 +25,9 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-rqlite/gorqlite is a Go client for rqlite, a distributed database built on top of SQLite technology. This open-source project enables seamless interaction between Go applications and the rqlite database, providing a robust and efficient way to manage and query distributed data. By utilizing gorqlite, developers can leverage the power of rqlite in their Go-based projects.
+Here's a brief summary of the rqlite/gorqlite project:
+
+rqlite/gorqlite is an open-source Go client for rqlite, a distributed database built on top of SQLite. This client enables developers to interact with rqlite databases from their Go applications, providing a simple and efficient way to store and retrieve data in a distributed environment. By using gorqlite, developers can take advantage of rqlite's scalability and fault tolerance features.
 
 ---
 

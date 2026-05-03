@@ -1,6 +1,6 @@
 # aquivalabs/my-org-butler
 
-[![Stars](https://img.shields.io/github/stars/aquivalabs/my-org-butler?style=flat-square&color=yellow)](https://github.com/aquivalabs/my-org-butler/stargazers) [![Forks](https://img.shields.io/github/forks/aquivalabs/my-org-butler?style=flat-square&color=blue)](https://github.com/aquivalabs/my-org-butler/network) [![Language](https://img.shields.io/badge/lang-Apex-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aquivalabs/my-org-butler?style=flat-square&color=yellow)](https://github.com/aquivalabs/my-org-butler/stargazers) [![Forks](https://img.shields.io/github/forks/aquivalabs/my-org-butler?style=flat-square&color=blue)](https://github.com/aquivalabs/my-org-butler/network) [![Language](https://img.shields.io/badge/lang-Apex-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent for the Salesforce Utility Bar. Performs tasks for the user & answers questions about the org. Uses the trusted Salesforce Agentforce under the hood.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Apex |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

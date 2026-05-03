@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/sverklo/sverklo?style=flat-square&color=yellow)](https://github.com/sverklo/sverklo/stargazers) [![Forks](https://img.shields.io/github/forks/sverklo/sverklo?style=flat-square&color=blue)](https://github.com/sverklo/sverklo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Sverklo — code intelligence for AI agents. Local-first semantic search, PageRank ranking, zero config.
+> The local-first MCP server for code intelligence — symbol graph, blast-radius, git-pinned memory. Open-source alternative to Greptile/Sourcegraph for Claude Code & Cursor.
 
 ## 📊 Stats
 

@@ -1,17 +1,17 @@
 # alias8818/enoch-agentic-research-system
 
-[![Stars](https://img.shields.io/github/stars/alias8818/enoch-agentic-research-system?style=flat-square&color=yellow)](https://github.com/alias8818/enoch-agentic-research-system/stargazers) [![Forks](https://img.shields.io/github/forks/alias8818/enoch-agentic-research-system?style=flat-square&color=blue)](https://github.com/alias8818/enoch-agentic-research-system/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alias8818/enoch-agentic-research-system?style=flat-square&color=yellow)](https://github.com/alias8818/enoch-agentic-research-system/stargazers) [![Forks](https://img.shields.io/github/forks/alias8818/enoch-agentic-research-system?style=flat-square&color=blue)](https://github.com/alias8818/enoch-agentic-research-system/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Agentic research control plane: queue state, worker preflight, wake-gated execution, evidence sync, dashboard, alerts, and AI-generated paper packaging.
+> Agentic research control plane with local proof, provenance packaging, and explicit audit-status reporting.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6 |
+| ⭐ **Stars** | 7 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

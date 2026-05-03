@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-XinRoom/go-portScan is an open-source, high-performance port scanner designed for efficient scanning of network ports. This project leverages the Go programming language to deliver fast and accurate results, making it a valuable tool for network administrators and security professionals. By utilizing a SYN scanner approach, XinRoom/go-portScan provides thorough port scanning capabilities with minimal resource utilization.
+XinRoom/go-portScan is an open-source, high-performance port scanner written in Go, capable of scanning networks for open ports using SYN scanning. This allows for efficient and reliable identification of accessible ports on target systems. The project is designed to be highly customizable, making it suitable for a wide range of network scanning use cases.
 
 ---
 

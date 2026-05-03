@@ -1,6 +1,6 @@
 # 1850298154/memory_agent_hub
 
-[![Stars](https://img.shields.io/github/stars/1850298154/memory_agent_hub?style=flat-square&color=yellow)](https://github.com/1850298154/memory_agent_hub/stargazers) [![Forks](https://img.shields.io/github/forks/1850298154/memory_agent_hub?style=flat-square&color=blue)](https://github.com/1850298154/memory_agent_hub/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1850298154/memory_agent_hub?style=flat-square&color=yellow)](https://github.com/1850298154/memory_agent_hub/stargazers) [![Forks](https://img.shields.io/github/forks/1850298154/memory_agent_hub?style=flat-square&color=blue)](https://github.com/1850298154/memory_agent_hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 2026 swarm Agent 年，swarm Agent 、Agent team、 ai coding、skill、memory、evolve、agentic RL 等 AI Agent集合
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 8 |
-| 💻 **Language** | Jupyter Notebook |
+| 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

@@ -1,6 +1,6 @@
 # mlb-rs/mlbt
 
-[![Stars](https://img.shields.io/github/stars/mlb-rs/mlbt?style=flat-square&color=yellow)](https://github.com/mlb-rs/mlbt/stargazers) [![Forks](https://img.shields.io/github/forks/mlb-rs/mlbt?style=flat-square&color=blue)](https://github.com/mlb-rs/mlbt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mlb-rs/mlbt?style=flat-square&color=yellow)](https://github.com/mlb-rs/mlbt/stargazers) [![Forks](https://img.shields.io/github/forks/mlb-rs/mlbt?style=flat-square&color=blue)](https://github.com/mlb-rs/mlbt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal user interface for the MLB Stats API. Check scores, standings, and stats. Even watch a baseball game in your terminal! ⚾
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

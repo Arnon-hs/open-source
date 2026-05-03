@@ -1,6 +1,6 @@
 # homerquan/GomokuBench
 
-[![Stars](https://img.shields.io/github/stars/homerquan/GomokuBench?style=flat-square&color=yellow)](https://github.com/homerquan/GomokuBench/stargazers) [![Forks](https://img.shields.io/github/forks/homerquan/GomokuBench?style=flat-square&color=blue)](https://github.com/homerquan/GomokuBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/homerquan/GomokuBench?style=flat-square&color=yellow)](https://github.com/homerquan/GomokuBench/stargazers) [![Forks](https://img.shields.io/github/forks/homerquan/GomokuBench?style=flat-square&color=blue)](https://github.com/homerquan/GomokuBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > A LLM Benchmark for playing Gomoku
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

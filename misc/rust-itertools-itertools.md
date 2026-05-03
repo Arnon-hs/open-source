@@ -1,6 +1,6 @@
 # rust-itertools/itertools
 
-[![Stars](https://img.shields.io/github/stars/rust-itertools/itertools?style=flat-square&color=yellow)](https://github.com/rust-itertools/itertools/stargazers) [![Forks](https://img.shields.io/github/forks/rust-itertools/itertools?style=flat-square&color=blue)](https://github.com/rust-itertools/itertools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-itertools/itertools?style=flat-square&color=yellow)](https://github.com/rust-itertools/itertools/stargazers) [![Forks](https://img.shields.io/github/forks/rust-itertools/itertools?style=flat-square&color=blue)](https://github.com/rust-itertools/itertools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Extra iterator adaptors, iterator methods, free functions, and macros.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 346 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

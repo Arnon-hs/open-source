@@ -1,6 +1,6 @@
 # grafana/xk6
 
-[![Stars](https://img.shields.io/github/stars/grafana/xk6?style=flat-square&color=yellow)](https://github.com/grafana/xk6/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/xk6?style=flat-square&color=blue)](https://github.com/grafana/xk6/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/xk6?style=flat-square&color=yellow)](https://github.com/grafana/xk6/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/xk6?style=flat-square&color=blue)](https://github.com/grafana/xk6/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > k6 extension development toolbox
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 293 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

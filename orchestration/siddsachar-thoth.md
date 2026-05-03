@@ -1,6 +1,6 @@
 # siddsachar/Thoth
 
-[![Stars](https://img.shields.io/github/stars/siddsachar/Thoth?style=flat-square&color=yellow)](https://github.com/siddsachar/Thoth/stargazers) [![Forks](https://img.shields.io/github/forks/siddsachar/Thoth?style=flat-square&color=blue)](https://github.com/siddsachar/Thoth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/siddsachar/Thoth?style=flat-square&color=yellow)](https://github.com/siddsachar/Thoth/stargazers) [![Forks](https://img.shields.io/github/forks/siddsachar/Thoth?style=flat-square&color=blue)](https://github.com/siddsachar/Thoth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Thoth - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messaging channels. Run locally via Ollama or add opt-in cloud models. Your data stays on your machine.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 717 |
-| 🍴 **Forks** | 83 |
+| ⭐ **Stars** | 754 |
+| 🍴 **Forks** | 85 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

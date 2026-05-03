@@ -1,6 +1,6 @@
 # saschagrunert/demo
 
-[![Stars](https://img.shields.io/github/stars/saschagrunert/demo?style=flat-square&color=yellow)](https://github.com/saschagrunert/demo/stargazers) [![Forks](https://img.shields.io/github/forks/saschagrunert/demo?style=flat-square&color=blue)](https://github.com/saschagrunert/demo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saschagrunert/demo?style=flat-square&color=yellow)](https://github.com/saschagrunert/demo/stargazers) [![Forks](https://img.shields.io/github/forks/saschagrunert/demo?style=flat-square&color=blue)](https://github.com/saschagrunert/demo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A framework for performing live pre-recorded command line demos in the wild 📼
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

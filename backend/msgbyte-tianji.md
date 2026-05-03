@@ -1,6 +1,6 @@
 # msgbyte/tianji
 
-[![Stars](https://img.shields.io/github/stars/msgbyte/tianji?style=flat-square&color=yellow)](https://github.com/msgbyte/tianji/stargazers) [![Forks](https://img.shields.io/github/forks/msgbyte/tianji?style=flat-square&color=blue)](https://github.com/msgbyte/tianji/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/msgbyte/tianji?style=flat-square&color=yellow)](https://github.com/msgbyte/tianji/stargazers) [![Forks](https://img.shields.io/github/forks/msgbyte/tianji?style=flat-square&color=blue)](https://github.com/msgbyte/tianji/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | youtube |
 

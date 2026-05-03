@@ -1,6 +1,6 @@
 # dremio/dremio-mcp
 
-[![Stars](https://img.shields.io/github/stars/dremio/dremio-mcp?style=flat-square&color=yellow)](https://github.com/dremio/dremio-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/dremio/dremio-mcp?style=flat-square&color=blue)](https://github.com/dremio/dremio-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dremio/dremio-mcp?style=flat-square&color=yellow)](https://github.com/dremio/dremio-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/dremio/dremio-mcp?style=flat-square&color=blue)](https://github.com/dremio/dremio-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Dremio MCP server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

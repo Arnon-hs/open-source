@@ -1,6 +1,6 @@
 # iondodon/witcher
 
-[![Stars](https://img.shields.io/github/stars/iondodon/witcher?style=flat-square&color=yellow)](https://github.com/iondodon/witcher/stargazers) [![Forks](https://img.shields.io/github/forks/iondodon/witcher?style=flat-square&color=blue)](https://github.com/iondodon/witcher/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iondodon/witcher?style=flat-square&color=yellow)](https://github.com/iondodon/witcher/stargazers) [![Forks](https://img.shields.io/github/forks/iondodon/witcher?style=flat-square&color=blue)](https://github.com/iondodon/witcher/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Wayland Alt+Tab window switcher
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

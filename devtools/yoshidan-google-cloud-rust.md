@@ -1,6 +1,6 @@
 # yoshidan/google-cloud-rust
 
-[![Stars](https://img.shields.io/github/stars/yoshidan/google-cloud-rust?style=flat-square&color=yellow)](https://github.com/yoshidan/google-cloud-rust/stargazers) [![Forks](https://img.shields.io/github/forks/yoshidan/google-cloud-rust?style=flat-square&color=blue)](https://github.com/yoshidan/google-cloud-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yoshidan/google-cloud-rust?style=flat-square&color=yellow)](https://github.com/yoshidan/google-cloud-rust/stargazers) [![Forks](https://img.shields.io/github/forks/yoshidan/google-cloud-rust?style=flat-square&color=blue)](https://github.com/yoshidan/google-cloud-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Google Cloud Client Libraries for Rust.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 302 |
+| ⭐ **Stars** | 303 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

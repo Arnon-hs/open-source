@@ -25,7 +25,7 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Rekor, an open-source project by sigstore, is a software supply chain transparency log that provides a secure and tamper-evident record of software artifacts, enabling developers to verify the integrity and provenance of their code. This tool helps to build trust in the software development process by ensuring the authenticity and reliability of software components. By leveraging Rekor, developers can maintain a transparent and auditable record of their software supply chain.
+Rekor is an open-source, software supply chain transparency log designed to provide visibility and trust into the development and deployment of software components. It acts as a centralized repository for collecting and storing metadata about software artifacts, enabling a secure and auditable record of their origins and provenance. By using Rekor, organizations can enhance the integrity and reliability of their software supply chains.
 
 ---
 

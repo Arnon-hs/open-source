@@ -1,6 +1,6 @@
 # flashbots/rbuilder
 
-[![Stars](https://img.shields.io/github/stars/flashbots/rbuilder?style=flat-square&color=yellow)](https://github.com/flashbots/rbuilder/stargazers) [![Forks](https://img.shields.io/github/forks/flashbots/rbuilder?style=flat-square&color=blue)](https://github.com/flashbots/rbuilder/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flashbots/rbuilder?style=flat-square&color=yellow)](https://github.com/flashbots/rbuilder/stargazers) [![Forks](https://img.shields.io/github/forks/flashbots/rbuilder?style=flat-square&color=blue)](https://github.com/flashbots/rbuilder/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 545 |
-| 🍴 **Forks** | 201 |
+| 🍴 **Forks** | 202 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

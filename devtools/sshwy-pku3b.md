@@ -1,6 +1,6 @@
 # sshwy/pku3b
 
-[![Stars](https://img.shields.io/github/stars/sshwy/pku3b?style=flat-square&color=yellow)](https://github.com/sshwy/pku3b/stargazers) [![Forks](https://img.shields.io/github/forks/sshwy/pku3b?style=flat-square&color=blue)](https://github.com/sshwy/pku3b/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sshwy/pku3b?style=flat-square&color=yellow)](https://github.com/sshwy/pku3b/stargazers) [![Forks](https://img.shields.io/github/forks/sshwy/pku3b?style=flat-square&color=blue)](https://github.com/sshwy/pku3b/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 🎓a Better BlackBoard for PKUers. 北京大学教学网命令行工具（🖥️Win/🐧Linux/🍏Mac）, 支持查看/提交作业、下载课程回放.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 103 |
+| ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # mindee/doctr
 
-[![Stars](https://img.shields.io/github/stars/mindee/doctr?style=flat-square&color=yellow)](https://github.com/mindee/doctr/stargazers) [![Forks](https://img.shields.io/github/forks/mindee/doctr?style=flat-square&color=blue)](https://github.com/mindee/doctr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mindee/doctr?style=flat-square&color=yellow)](https://github.com/mindee/doctr/stargazers) [![Forks](https://img.shields.io/github/forks/mindee/doctr?style=flat-square&color=blue)](https://github.com/mindee/doctr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 641 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

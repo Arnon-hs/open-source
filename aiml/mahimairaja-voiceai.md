@@ -1,6 +1,6 @@
 # mahimairaja/voiceai
 
-[![Stars](https://img.shields.io/github/stars/mahimairaja/voiceai?style=flat-square&color=yellow)](https://github.com/mahimairaja/voiceai/stargazers) [![Forks](https://img.shields.io/github/forks/mahimairaja/voiceai?style=flat-square&color=blue)](https://github.com/mahimairaja/voiceai/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mahimairaja/voiceai?style=flat-square&color=yellow)](https://github.com/mahimairaja/voiceai/stargazers) [![Forks](https://img.shields.io/github/forks/mahimairaja/voiceai?style=flat-square&color=blue)](https://github.com/mahimairaja/voiceai/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Set of 📝 with 🔗 to help those building Voice AI agents 🎙️🤖
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 185 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 194 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

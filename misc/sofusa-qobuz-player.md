@@ -1,6 +1,6 @@
 # SofusA/qobuz-player
 
-[![Stars](https://img.shields.io/github/stars/SofusA/qobuz-player?style=flat-square&color=yellow)](https://github.com/SofusA/qobuz-player/stargazers) [![Forks](https://img.shields.io/github/forks/SofusA/qobuz-player?style=flat-square&color=blue)](https://github.com/SofusA/qobuz-player/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SofusA/qobuz-player?style=flat-square&color=yellow)](https://github.com/SofusA/qobuz-player/stargazers) [![Forks](https://img.shields.io/github/forks/SofusA/qobuz-player?style=flat-square&color=blue)](https://github.com/SofusA/qobuz-player/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

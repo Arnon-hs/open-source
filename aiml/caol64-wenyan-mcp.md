@@ -1,6 +1,6 @@
 # caol64/wenyan-mcp
 
-[![Stars](https://img.shields.io/github/stars/caol64/wenyan-mcp?style=flat-square&color=yellow)](https://github.com/caol64/wenyan-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/caol64/wenyan-mcp?style=flat-square&color=blue)](https://github.com/caol64/wenyan-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caol64/wenyan-mcp?style=flat-square&color=yellow)](https://github.com/caol64/wenyan-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/caol64/wenyan-mcp?style=flat-square&color=blue)](https://github.com/caol64/wenyan-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 文颜 MCP Server 可以让 AI 自动将 Markdown 文章排版后发布至微信公众号。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

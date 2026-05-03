@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/Automations-Project/VSCode-Airtable-Formula?style=flat-square&color=yellow)](https://github.com/Automations-Project/VSCode-Airtable-Formula/stargazers) [![Forks](https://img.shields.io/github/forks/Automations-Project/VSCode-Airtable-Formula?style=flat-square&color=blue)](https://github.com/Automations-Project/VSCode-Airtable-Formula/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> VS Code extension and MCP server for Airtable, formula editor, schema tools, and 30+ automation utilities for bases, views, and fields.
+> VS Code extension and MCP server for Airtable, formula editor, schema tools, and 60+ automation utilities for bases, views, and fields.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 15 |
-| 🍴 **Forks** | — |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |

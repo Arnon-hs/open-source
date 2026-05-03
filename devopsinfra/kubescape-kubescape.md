@@ -1,6 +1,6 @@
 # kubescape/kubescape
 
-[![Stars](https://img.shields.io/github/stars/kubescape/kubescape?style=flat-square&color=yellow)](https://github.com/kubescape/kubescape/stargazers) [![Forks](https://img.shields.io/github/forks/kubescape/kubescape?style=flat-square&color=blue)](https://github.com/kubescape/kubescape/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubescape/kubescape?style=flat-square&color=yellow)](https://github.com/kubescape/kubescape/stargazers) [![Forks](https://img.shields.io/github/forks/kubescape/kubescape?style=flat-square&color=blue)](https://github.com/kubescape/kubescape/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
 
 > Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11.4k |
-| 🍴 **Forks** | 916 |
+| 🍴 **Forks** | 917 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 97/100 |
+| 📈 **Score** | 98/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,9 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the project:
 
-GOWA is a comprehensive WhatsApp REST API built with Golang, offering support for UI, multi-account functionality, webhooks, and integration with Chatwoot. This open-source project enables efficient memory use, making it a reliable choice for developers. With its robust features, GOWA provides a flexible solution for building WhatsApp-based applications.
+GOWA is an open-source WhatsApp REST API built with Golang, offering a suite of features including UI support, multi-account functionality, webhooks, and integrations with Chatwoot and MCP. This lightweight and efficient API is designed to handle multiple WhatsApp accounts and provide a seamless user experience. With its flexible architecture, GOWA enables developers to build custom WhatsApp automation solutions and integrations.
 
 ---
 

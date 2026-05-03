@@ -1,6 +1,6 @@
 # falcosecurity/libs
 
-[![Stars](https://img.shields.io/github/stars/falcosecurity/libs?style=flat-square&color=yellow)](https://github.com/falcosecurity/libs/stargazers) [![Forks](https://img.shields.io/github/forks/falcosecurity/libs?style=flat-square&color=blue)](https://github.com/falcosecurity/libs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/falcosecurity/libs?style=flat-square&color=yellow)](https://github.com/falcosecurity/libs/stargazers) [![Forks](https://img.shields.io/github/forks/falcosecurity/libs?style=flat-square&color=blue)](https://github.com/falcosecurity/libs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > libsinsp, libscap, the kernel module driver, and the eBPF driver sources
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | C |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

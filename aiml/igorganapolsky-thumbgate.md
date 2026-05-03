@@ -1,6 +1,6 @@
 # IgorGanapolsky/ThumbGate
 
-[![Stars](https://img.shields.io/github/stars/IgorGanapolsky/ThumbGate?style=flat-square&color=yellow)](https://github.com/IgorGanapolsky/ThumbGate/stargazers) [![Forks](https://img.shields.io/github/forks/IgorGanapolsky/ThumbGate?style=flat-square&color=blue)](https://github.com/IgorGanapolsky/ThumbGate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IgorGanapolsky/ThumbGate?style=flat-square&color=yellow)](https://github.com/IgorGanapolsky/ThumbGate/stargazers) [![Forks](https://img.shields.io/github/forks/IgorGanapolsky/ThumbGate?style=flat-square&color=blue)](https://github.com/IgorGanapolsky/ThumbGate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Agent governance for ThumbGate: 👍/👎 become Pre-Action Checks that block repeat mistakes before code, money, or customer systems change.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

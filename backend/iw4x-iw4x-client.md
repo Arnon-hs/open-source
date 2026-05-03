@@ -27,7 +27,7 @@ Backend · DevTools · Security
 
 Here's a brief summary for the iw4x/iw4x-client project:
 
-This open-source project, iw4x/iw4x-client, offers a custom client for Call of Duty: Modern Warfare 2 (2009), providing users with improved security, dedicated servers, and extensive modding capabilities. The project caters to developers and players seeking a more secure and customizable gaming experience. By utilizing iw4x, users can enjoy a more personalized and secure gameplay environment.
+iw4x/iw4x-client is an open-source, custom client for Call of Duty: Modern Warfare 2 (2009) that offers enhanced features, improved security, and extensive modding capabilities. This project provides a dedicated server system and various security fixes to provide a more stable and secure gaming experience. With its modding support, users can customize and extend the game to their liking.
 
 ---
 

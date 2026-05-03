@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a summary of the open-source project:
 
-The OverleafMCP project is an open-source Model Context Protocol (MCP) server that enables AI assistants to interact with Overleaf projects, parsing LaTeX document structures and facilitating seamless collaboration. With compatibility across various MCP clients, including Claude Desktop, Cursor, and Windsurf, this project streamlines the integration of AI-powered editing capabilities with Overleaf.
+The OverleafMCP project is an open-source server that enables AI assistants to read and interact with Overleaf projects, parsing LaTeX document structures and facilitating section-level edits. Compatible with various AI clients, including Claude Desktop and Cursor, this server integrates with the Model Context Protocol (MCP) to streamline collaborative writing and editing. By pushing changes via Git, OverleafMCP simplifies the process of working with AI-powered writing tools.
 
 ---
 

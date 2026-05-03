@@ -1,6 +1,6 @@
 # l2beat/l2beat
 
-[![Stars](https://img.shields.io/github/stars/l2beat/l2beat?style=flat-square&color=yellow)](https://github.com/l2beat/l2beat/stargazers) [![Forks](https://img.shields.io/github/forks/l2beat/l2beat?style=flat-square&color=blue)](https://github.com/l2beat/l2beat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/l2beat/l2beat?style=flat-square&color=yellow)](https://github.com/l2beat/l2beat/stargazers) [![Forks](https://img.shields.io/github/forks/l2beat/l2beat?style=flat-square&color=blue)](https://github.com/l2beat/l2beat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling solutions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 654 |
 | 🍴 **Forks** | 632 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

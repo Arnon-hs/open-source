@@ -1,6 +1,6 @@
 # inference-gateway/inference-gateway
 
-[![Stars](https://img.shields.io/github/stars/inference-gateway/inference-gateway?style=flat-square&color=yellow)](https://github.com/inference-gateway/inference-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/inference-gateway/inference-gateway?style=flat-square&color=blue)](https://github.com/inference-gateway/inference-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inference-gateway/inference-gateway?style=flat-square&color=yellow)](https://github.com/inference-gateway/inference-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/inference-gateway/inference-gateway?style=flat-square&color=blue)](https://github.com/inference-gateway/inference-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source, cloud-native, high-performance gateway unifying multiple LLM providers, from local solutions like Ollama to major cloud providers such as OpenAI, Groq, Cohere, Anthropic, Cloudflare and DeepSeek.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

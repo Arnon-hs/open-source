@@ -1,6 +1,6 @@
 # s-kostyaev/ellama
 
-[![Stars](https://img.shields.io/github/stars/s-kostyaev/ellama?style=flat-square&color=yellow)](https://github.com/s-kostyaev/ellama/stargazers) [![Forks](https://img.shields.io/github/forks/s-kostyaev/ellama?style=flat-square&color=blue)](https://github.com/s-kostyaev/ellama/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/s-kostyaev/ellama?style=flat-square&color=yellow)](https://github.com/s-kostyaev/ellama/stargazers) [![Forks](https://img.shields.io/github/forks/s-kostyaev/ellama?style=flat-square&color=blue)](https://github.com/s-kostyaev/ellama/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Ellama is a tool for interacting with large language models from Emacs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 937 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

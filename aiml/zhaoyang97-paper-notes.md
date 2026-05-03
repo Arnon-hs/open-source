@@ -1,6 +1,6 @@
 # zhaoyang97/Paper-Notes
 
-[![Stars](https://img.shields.io/github/stars/zhaoyang97/Paper-Notes?style=flat-square&color=yellow)](https://github.com/zhaoyang97/Paper-Notes/stargazers) [![Forks](https://img.shields.io/github/forks/zhaoyang97/Paper-Notes?style=flat-square&color=blue)](https://github.com/zhaoyang97/Paper-Notes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhaoyang97/Paper-Notes?style=flat-square&color=yellow)](https://github.com/zhaoyang97/Paper-Notes/stargazers) [![Forks](https://img.shields.io/github/forks/zhaoyang97/Paper-Notes?style=flat-square&color=blue)](https://github.com/zhaoyang97/Paper-Notes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 📚 数千篇 AI · LLM · NLP · CV 顶会论文解读，每篇 5 分钟读懂核心思想。
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 166 |
+| ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Payments · Frontend
 
 ## 📝 Summary
 
-This open-source project, paypal-examples/v6-web-sdk-sample-integration, provides example integrations for the PayPal SDK in JavaScript, TypeScript, and React. Developers can use these examples to seamlessly integrate PayPal payments into their web applications, streamlining the checkout process for their customers. The project serves as a valuable resource for those looking to implement PayPal's web SDK in their frontend development projects.
+This open-source project, PayPal SDK Sample Integration, provides real-world examples of integrating the PayPal SDK into JavaScript, TypeScript, and React applications. The project offers a set of code samples that demonstrate how to use the PayPal SDK for various payment scenarios, making it easier for developers to integrate payments into their web applications. By using these examples, developers can streamline the integration process and reduce development time.
 
 ---
 
