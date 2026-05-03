@@ -1,17 +1,17 @@
 # QLNI/NodeMind
 
-[![Stars](https://img.shields.io/github/stars/QLNI/NodeMind?style=flat-square&color=yellow)](https://github.com/QLNI/NodeMind/stargazers) [![Forks](https://img.shields.io/github/forks/QLNI/NodeMind?style=flat-square&color=blue)](https://github.com/QLNI/NodeMind/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QLNI/NodeMind?style=flat-square&color=yellow)](https://github.com/QLNI/NodeMind/stargazers) [![Forks](https://img.shields.io/github/forks/QLNI/NodeMind?style=flat-square&color=blue)](https://github.com/QLNI/NodeMind/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> NodeMind — a binary-indexed knowledge graph that replaces vector databases, delivering 48× compression and 75× faster retrieval at a fraction of the cost.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | HTML |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Data
 
 ## 📝 Summary
 

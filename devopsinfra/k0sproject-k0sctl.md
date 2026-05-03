@@ -1,6 +1,6 @@
 # k0sproject/k0sctl
 
-[![Stars](https://img.shields.io/github/stars/k0sproject/k0sctl?style=flat-square&color=yellow)](https://github.com/k0sproject/k0sctl/stargazers) [![Forks](https://img.shields.io/github/forks/k0sproject/k0sctl?style=flat-square&color=blue)](https://github.com/k0sproject/k0sctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/k0sproject/k0sctl?style=flat-square&color=yellow)](https://github.com/k0sproject/k0sctl/stargazers) [![Forks](https://img.shields.io/github/forks/k0sproject/k0sctl?style=flat-square&color=blue)](https://github.com/k0sproject/k0sctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A bootstrapping and management tool for k0s clusters.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 554 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

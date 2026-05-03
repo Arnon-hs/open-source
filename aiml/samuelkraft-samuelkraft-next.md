@@ -1,6 +1,6 @@
 # samuelkraft/samuelkraft-next
 
-[![Stars](https://img.shields.io/github/stars/samuelkraft/samuelkraft-next?style=flat-square&color=yellow)](https://github.com/samuelkraft/samuelkraft-next/stargazers) [![Forks](https://img.shields.io/github/forks/samuelkraft/samuelkraft-next?style=flat-square&color=blue)](https://github.com/samuelkraft/samuelkraft-next/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samuelkraft/samuelkraft-next?style=flat-square&color=yellow)](https://github.com/samuelkraft/samuelkraft-next/stargazers) [![Forks](https://img.shields.io/github/forks/samuelkraft/samuelkraft-next?style=flat-square&color=blue)](https://github.com/samuelkraft/samuelkraft-next/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > My personal website built with Next.js, Typescript, MDX, Tailwind
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 480 |
+| ⭐ **Stars** | 481 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

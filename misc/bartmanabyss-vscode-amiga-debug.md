@@ -1,6 +1,6 @@
 # BartmanAbyss/vscode-amiga-debug
 
-[![Stars](https://img.shields.io/github/stars/BartmanAbyss/vscode-amiga-debug?style=flat-square&color=yellow)](https://github.com/BartmanAbyss/vscode-amiga-debug/stargazers) [![Forks](https://img.shields.io/github/forks/BartmanAbyss/vscode-amiga-debug?style=flat-square&color=blue)](https://github.com/BartmanAbyss/vscode-amiga-debug/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BartmanAbyss/vscode-amiga-debug?style=flat-square&color=yellow)](https://github.com/BartmanAbyss/vscode-amiga-debug/stargazers) [![Forks](https://img.shields.io/github/forks/BartmanAbyss/vscode-amiga-debug?style=flat-square&color=blue)](https://github.com/BartmanAbyss/vscode-amiga-debug/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > One-stop Visual Studio Code Extension to compile, debug and profile Amiga C/C++ programs compiled by the bundled gcc 14.2 with the bundled WinUAE/FS-UAE.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 422 |
+| ⭐ **Stars** | 423 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

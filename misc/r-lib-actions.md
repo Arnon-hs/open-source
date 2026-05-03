@@ -1,6 +1,6 @@
 # r-lib/actions
 
-[![Stars](https://img.shields.io/github/stars/r-lib/actions?style=flat-square&color=yellow)](https://github.com/r-lib/actions/stargazers) [![Forks](https://img.shields.io/github/forks/r-lib/actions?style=flat-square&color=blue)](https://github.com/r-lib/actions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/r-lib/actions?style=flat-square&color=yellow)](https://github.com/r-lib/actions/stargazers) [![Forks](https://img.shields.io/github/forks/r-lib/actions?style=flat-square&color=blue)](https://github.com/r-lib/actions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Actions for the R community
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

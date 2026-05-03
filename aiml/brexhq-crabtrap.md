@@ -1,6 +1,6 @@
 # brexhq/CrabTrap
 
-[![Stars](https://img.shields.io/github/stars/brexhq/CrabTrap?style=flat-square&color=yellow)](https://github.com/brexhq/CrabTrap/stargazers) [![Forks](https://img.shields.io/github/forks/brexhq/CrabTrap?style=flat-square&color=blue)](https://github.com/brexhq/CrabTrap/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brexhq/CrabTrap?style=flat-square&color=yellow)](https://github.com/brexhq/CrabTrap/stargazers) [![Forks](https://img.shields.io/github/forks/brexhq/CrabTrap?style=flat-square&color=blue)](https://github.com/brexhq/CrabTrap/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > An LLM-as-a-judge HTTP proxy to secure agents in production
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 551 |
-| 🍴 **Forks** | 41 |
+| ⭐ **Stars** | 556 |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

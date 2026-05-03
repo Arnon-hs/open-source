@@ -1,6 +1,6 @@
 # wasi-master/13ft
 
-[![Stars](https://img.shields.io/github/stars/wasi-master/13ft?style=flat-square&color=yellow)](https://github.com/wasi-master/13ft/stargazers) [![Forks](https://img.shields.io/github/forks/wasi-master/13ft?style=flat-square&color=blue)](https://github.com/wasi-master/13ft/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wasi-master/13ft?style=flat-square&color=yellow)](https://github.com/wasi-master/13ft/stargazers) [![Forks](https://img.shields.io/github/forks/wasi-master/13ft?style=flat-square&color=blue)](https://github.com/wasi-master/13ft/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > My own custom 12ft.io replacement
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

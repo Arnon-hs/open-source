@@ -1,6 +1,6 @@
 # sqlrooms/sqlrooms
 
-[![Stars](https://img.shields.io/github/stars/sqlrooms/sqlrooms?style=flat-square&color=yellow)](https://github.com/sqlrooms/sqlrooms/stargazers) [![Forks](https://img.shields.io/github/forks/sqlrooms/sqlrooms?style=flat-square&color=blue)](https://github.com/sqlrooms/sqlrooms/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sqlrooms/sqlrooms?style=flat-square&color=yellow)](https://github.com/sqlrooms/sqlrooms/stargazers) [![Forks](https://img.shields.io/github/forks/sqlrooms/sqlrooms?style=flat-square&color=blue)](https://github.com/sqlrooms/sqlrooms/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Building blocks for React data analytics apps powered by DuckDB-WASM
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 419 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

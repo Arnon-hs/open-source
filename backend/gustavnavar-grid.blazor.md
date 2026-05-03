@@ -1,6 +1,6 @@
 # gustavnavar/Grid.Blazor
 
-[![Stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square&color=yellow)](https://github.com/gustavnavar/Grid.Blazor/stargazers) [![Forks](https://img.shields.io/github/forks/gustavnavar/Grid.Blazor?style=flat-square&color=blue)](https://github.com/gustavnavar/Grid.Blazor/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square&color=yellow)](https://github.com/gustavnavar/Grid.Blazor/stargazers) [![Forks](https://img.shields.io/github/forks/gustavnavar/Grid.Blazor?style=flat-square&color=blue)](https://github.com/gustavnavar/Grid.Blazor/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Grid component with CRUD for Blazor (client-side and server-side) and ASP.NET Core MVC
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 735 |
+| ⭐ **Stars** | 734 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

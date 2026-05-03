@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15153** |
+| 🗂️ **Total projects** | **15193** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,21 +18,21 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5660 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3120 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1480 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1123 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 926 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 903 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 520 | [Browse →](./crypto/) |
-| 📊 **Data** | 344 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 5669 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3134 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1483 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1126 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 929 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 907 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 521 | [Browse →](./crypto/) |
+| 📊 **Data** | 345 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 324 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 205 | [Browse →](./mobile/) |
 | 💳 **Payments** | 162 | [Browse →](./payments/) |
 | 📈 **Trading** | 155 | [Browse →](./trading/) |
-| 🔐 **Security** | 123 | [Browse →](./security/) |
+| 🔐 **Security** | 124 | [Browse →](./security/) |
 | ✨ **Design** | 49 | [Browse →](./design/) |
-| 🏷️ **Marketing** | 30 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
 
 ## 🔥 Top 10 by score
@@ -44,11 +44,11 @@
 | 3 | [promptfoo/promptfoo](./aiml/promptfoo-promptfoo.md) | ⭐ 20.8k | AI/ML |
 | 4 | [eosphoros-ai/DB-GPT](./aiml/eosphoros-ai-db-gpt.md) | ⭐ 18.6k | AI/ML |
 | 5 | [gogf/gf](./backend/gogf-gf.md) | ⭐ 13.1k | Backend |
-| 6 | [react-hook-form/react-hook-form](./frontend/react-hook-form-react-hook-form.md) | ⭐ 44.7k | Frontend |
-| 7 | [mikel-brostrom/boxmot](./misc/mikel-brostrom-boxmot.md) | ⭐ 8.1k | Misc |
-| 8 | [tldraw/tldraw](./frontend/tldraw-tldraw.md) | ⭐ 46.8k | Frontend |
-| 9 | [matomo-org/matomo](./frontend/matomo-org-matomo.md) | ⭐ 21.5k | Frontend |
-| 10 | [supabase/supabase](./aiml/supabase-supabase.md) | ⭐ 101.8k | AI/ML |
+| 6 | [mikel-brostrom/boxmot](./misc/mikel-brostrom-boxmot.md) | ⭐ 8.1k | Misc |
+| 7 | [matomo-org/matomo](./frontend/matomo-org-matomo.md) | ⭐ 21.5k | Frontend |
+| 8 | [supabase/supabase](./aiml/supabase-supabase.md) | ⭐ 101.8k | AI/ML |
+| 9 | [grpc/grpc-go](./backend/grpc-grpc-go.md) | ⭐ 22.9k | Backend |
+| 10 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.1k | AI/ML |
 
 ## 🚀 How it works
 

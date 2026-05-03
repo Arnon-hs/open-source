@@ -1,6 +1,6 @@
 # chainapsis/keplr-wallet
 
-[![Stars](https://img.shields.io/github/stars/chainapsis/keplr-wallet?style=flat-square&color=yellow)](https://github.com/chainapsis/keplr-wallet/stargazers) [![Forks](https://img.shields.io/github/forks/chainapsis/keplr-wallet?style=flat-square&color=blue)](https://github.com/chainapsis/keplr-wallet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chainapsis/keplr-wallet?style=flat-square&color=yellow)](https://github.com/chainapsis/keplr-wallet/stargazers) [![Forks](https://img.shields.io/github/forks/chainapsis/keplr-wallet?style=flat-square&color=blue)](https://github.com/chainapsis/keplr-wallet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The most powerful wallet infrastructure for the multi-chain world
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 831 |
 | 🍴 **Forks** | 522 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

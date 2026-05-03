@@ -31,8 +31,8 @@
 | 21 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | TypeScript | 53/100 |
 | 22 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 659 | Shell | 52/100 |
 | 23 | [eph5xx/tweakidea](./eph5xx-tweakidea.md) | ⭐ 14 | Python | 50/100 |
-| 24 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
-| 25 | [ralfbiedert/interoptopus](./ralfbiedert-interoptopus.md) | ⭐ 463 | Rust | 48/100 |
+| 24 | [ralfbiedert/interoptopus](./ralfbiedert-interoptopus.md) | ⭐ 464 | Rust | 48/100 |
+| 25 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
 | 26 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 47/100 |
 | 27 | [getsentry/relay](./getsentry-relay.md) | ⭐ 376 | Rust | 46/100 |
 | 28 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 313 | Rust | 43/100 |

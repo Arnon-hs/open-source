@@ -1,6 +1,6 @@
 # cisco-open/network-sketcher
 
-[![Stars](https://img.shields.io/github/stars/cisco-open/network-sketcher?style=flat-square&color=yellow)](https://github.com/cisco-open/network-sketcher/stargazers) [![Forks](https://img.shields.io/github/forks/cisco-open/network-sketcher?style=flat-square&color=blue)](https://github.com/cisco-open/network-sketcher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cisco-open/network-sketcher?style=flat-square&color=yellow)](https://github.com/cisco-open/network-sketcher/stargazers) [![Forks](https://img.shields.io/github/forks/cisco-open/network-sketcher?style=flat-square&color=blue)](https://github.com/cisco-open/network-sketcher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Network Sketcher generates network configuration diagrams in PowerPoint and manages configuration information in Excel. With AI (LLM) integration, it supports network design creation and updates via desktop GUI/CLI (Offline) or web browser (Online).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

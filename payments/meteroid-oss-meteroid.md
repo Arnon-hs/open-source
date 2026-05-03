@@ -1,6 +1,6 @@
 # meteroid-oss/meteroid
 
-[![Stars](https://img.shields.io/github/stars/meteroid-oss/meteroid?style=flat-square&color=yellow)](https://github.com/meteroid-oss/meteroid/stargazers) [![Forks](https://img.shields.io/github/forks/meteroid-oss/meteroid?style=flat-square&color=blue)](https://github.com/meteroid-oss/meteroid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meteroid-oss/meteroid?style=flat-square&color=yellow)](https://github.com/meteroid-oss/meteroid/stargazers) [![Forks](https://img.shields.io/github/forks/meteroid-oss/meteroid?style=flat-square&color=blue)](https://github.com/meteroid-oss/meteroid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

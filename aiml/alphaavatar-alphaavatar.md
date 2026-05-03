@@ -1,6 +1,6 @@
 # AlphaAvatar/AlphaAvatar
 
-[![Stars](https://img.shields.io/github/stars/AlphaAvatar/AlphaAvatar?style=flat-square&color=yellow)](https://github.com/AlphaAvatar/AlphaAvatar/stargazers) [![Forks](https://img.shields.io/github/forks/AlphaAvatar/AlphaAvatar?style=flat-square&color=blue)](https://github.com/AlphaAvatar/AlphaAvatar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlphaAvatar/AlphaAvatar?style=flat-square&color=yellow)](https://github.com/AlphaAvatar/AlphaAvatar/stargazers) [![Forks](https://img.shields.io/github/forks/AlphaAvatar/AlphaAvatar?style=flat-square&color=blue)](https://github.com/AlphaAvatar/AlphaAvatar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A real-time interactive Omni Avatar built on LiveKit, which allows you to seamlessly integrate with any open source Avatar components (real-time model, visual, voice, memory, search, etc.).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 569 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

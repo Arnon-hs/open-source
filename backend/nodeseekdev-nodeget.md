@@ -1,6 +1,6 @@
 # NodeSeekDev/NodeGet
 
-[![Stars](https://img.shields.io/github/stars/NodeSeekDev/NodeGet?style=flat-square&color=yellow)](https://github.com/NodeSeekDev/NodeGet/stargazers) [![Forks](https://img.shields.io/github/forks/NodeSeekDev/NodeGet?style=flat-square&color=blue)](https://github.com/NodeSeekDev/NodeGet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NodeSeekDev/NodeGet?style=flat-square&color=yellow)](https://github.com/NodeSeekDev/NodeGet/stargazers) [![Forks](https://img.shields.io/github/forks/NodeSeekDev/NodeGet?style=flat-square&color=blue)](https://github.com/NodeSeekDev/NodeGet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Next-generation server monitoring and management tools
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 146 |
-| 🍴 **Forks** | 15 |
+| ⭐ **Stars** | 149 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

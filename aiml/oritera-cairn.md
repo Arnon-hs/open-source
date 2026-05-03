@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/oritera/Cairn?style=flat-square&color=yellow)](https://github.com/oritera/Cairn/stargazers) [![Forks](https://img.shields.io/github/forks/oritera/Cairn?style=flat-square&color=blue)](https://github.com/oritera/Cairn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
-> A general-purpose state-space AI search engine, validated first on autonomous penetration testing.
+> A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 606 |
-| 🍴 **Forks** | 29 |
+| ⭐ **Stars** | 621 |
+| 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |

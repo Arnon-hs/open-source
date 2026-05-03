@@ -1,6 +1,6 @@
 # HugoRCD/shelve
 
-[![Stars](https://img.shields.io/github/stars/HugoRCD/shelve?style=flat-square&color=yellow)](https://github.com/HugoRCD/shelve/stargazers) [![Forks](https://img.shields.io/github/forks/HugoRCD/shelve?style=flat-square&color=blue)](https://github.com/HugoRCD/shelve/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HugoRCD/shelve?style=flat-square&color=yellow)](https://github.com/HugoRCD/shelve/stargazers) [![Forks](https://img.shields.io/github/forks/HugoRCD/shelve?style=flat-square&color=blue)](https://github.com/HugoRCD/shelve/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source secret & environment management. Secure, simple, collaborative. CLI & Github Sync
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 409 |
+| ⭐ **Stars** | 410 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

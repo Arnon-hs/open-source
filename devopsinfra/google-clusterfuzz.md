@@ -1,6 +1,6 @@
 # google/clusterfuzz
 
-[![Stars](https://img.shields.io/github/stars/google/clusterfuzz?style=flat-square&color=yellow)](https://github.com/google/clusterfuzz/stargazers) [![Forks](https://img.shields.io/github/forks/google/clusterfuzz?style=flat-square&color=blue)](https://github.com/google/clusterfuzz/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/clusterfuzz?style=flat-square&color=yellow)](https://github.com/google/clusterfuzz/stargazers) [![Forks](https://img.shields.io/github/forks/google/clusterfuzz?style=flat-square&color=blue)](https://github.com/google/clusterfuzz/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Scalable fuzzing infrastructure.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 613 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # rust-dd/stochastic-rs
 
-[![Stars](https://img.shields.io/github/stars/rust-dd/stochastic-rs?style=flat-square&color=yellow)](https://github.com/rust-dd/stochastic-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-dd/stochastic-rs?style=flat-square&color=blue)](https://github.com/rust-dd/stochastic-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-dd/stochastic-rs?style=flat-square&color=yellow)](https://github.com/rust-dd/stochastic-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-dd/stochastic-rs?style=flat-square&color=blue)](https://github.com/rust-dd/stochastic-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > stochastic-rs is a Rust library designed for high-performance simulation and analysis of stochastic processes and models in quant finance.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

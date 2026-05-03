@@ -1,6 +1,6 @@
 # Power-Components/livewire-powergrid
 
-[![Stars](https://img.shields.io/github/stars/Power-Components/livewire-powergrid?style=flat-square&color=yellow)](https://github.com/Power-Components/livewire-powergrid/stargazers) [![Forks](https://img.shields.io/github/forks/Power-Components/livewire-powergrid?style=flat-square&color=blue)](https://github.com/Power-Components/livewire-powergrid/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Power-Components/livewire-powergrid?style=flat-square&color=yellow)](https://github.com/Power-Components/livewire-powergrid/stargazers) [![Forks](https://img.shields.io/github/forks/Power-Components/livewire-powergrid?style=flat-square&color=blue)](https://github.com/Power-Components/livewire-powergrid/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ PowerGrid generates modern, powerful and easy-to-customize data tables using Laravel Livewire.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 244 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # wp-cli/entity-command
 
-[![Stars](https://img.shields.io/github/stars/wp-cli/entity-command?style=flat-square&color=yellow)](https://github.com/wp-cli/entity-command/stargazers) [![Forks](https://img.shields.io/github/forks/wp-cli/entity-command?style=flat-square&color=blue)](https://github.com/wp-cli/entity-command/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wp-cli/entity-command?style=flat-square&color=yellow)](https://github.com/wp-cli/entity-command/stargazers) [![Forks](https://img.shields.io/github/forks/wp-cli/entity-command?style=flat-square&color=blue)](https://github.com/wp-cli/entity-command/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Manage WordPress comments, menus, options, posts, sites, terms, and users.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

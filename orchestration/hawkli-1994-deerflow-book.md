@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/hawkli-1994/deerflow-book?style=flat-square&color=yellow)](https://github.com/hawkli-1994/deerflow-book/stargazers) [![Forks](https://img.shields.io/github/forks/hawkli-1994/deerflow-book?style=flat-square&color=blue)](https://github.com/hawkli-1994/deerflow-book/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> 本书围绕 DeerFlow 2.0，从理论到源码，系统讲解如何进行二次开发。
+> 本书围绕 DeerFlow 2.0，从理论到源码，系统讲解如何进行二次开发。(精校)
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 180 |
+| ⭐ **Stars** | 181 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |

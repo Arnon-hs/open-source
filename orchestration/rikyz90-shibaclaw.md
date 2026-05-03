@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/RikyZ90/ShibaClaw?style=flat-square&color=yellow)](https://github.com/RikyZ90/ShibaClaw/stargazers) [![Forks](https://img.shields.io/github/forks/RikyZ90/ShibaClaw?style=flat-square&color=blue)](https://github.com/RikyZ90/ShibaClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> 🤖 Self-hosted multi-agent AI chatbot for Telegram, Matrix & more.  MCP-ready, Docker, hardened security. Works with Ollama,  OpenAI & OpenRouter. Python.
+> 🐕 Self-hosted security-first AI agent · 22 providers · 11 chat channels · WebUI · 3-level memory · cron · heartbeat · skills · MCP
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44 |
+| ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 

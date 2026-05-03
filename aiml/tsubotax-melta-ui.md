@@ -1,6 +1,6 @@
 # tsubotax/melta-ui
 
-[![Stars](https://img.shields.io/github/stars/tsubotax/melta-ui?style=flat-square&color=yellow)](https://github.com/tsubotax/melta-ui/stargazers) [![Forks](https://img.shields.io/github/forks/tsubotax/melta-ui?style=flat-square&color=blue)](https://github.com/tsubotax/melta-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tsubotax/melta-ui?style=flat-square&color=yellow)](https://github.com/tsubotax/melta-ui/stargazers) [![Forks](https://img.shields.io/github/forks/tsubotax/melta-ui?style=flat-square&color=blue)](https://github.com/tsubotax/melta-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 人間にも、AIにも、読めるデザインシステム — AI-Ready Design System for Claude Code & Cursor
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

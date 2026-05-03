@@ -1,6 +1,6 @@
 # Robdel12/OrbitDock
 
-[![Stars](https://img.shields.io/github/stars/Robdel12/OrbitDock?style=flat-square&color=yellow)](https://github.com/Robdel12/OrbitDock/stargazers) [![Forks](https://img.shields.io/github/forks/Robdel12/OrbitDock?style=flat-square&color=blue)](https://github.com/Robdel12/OrbitDock/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Robdel12/OrbitDock?style=flat-square&color=yellow)](https://github.com/Robdel12/OrbitDock/stargazers) [![Forks](https://img.shields.io/github/forks/Robdel12/OrbitDock?style=flat-square&color=blue)](https://github.com/Robdel12/OrbitDock/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Run, review, and orchestrate AI coding agents from anywhere
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 96 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

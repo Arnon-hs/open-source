@@ -1,6 +1,6 @@
 # kenforthewin/atomic
 
-[![Stars](https://img.shields.io/github/stars/kenforthewin/atomic?style=flat-square&color=yellow)](https://github.com/kenforthewin/atomic/stargazers) [![Forks](https://img.shields.io/github/forks/kenforthewin/atomic?style=flat-square&color=blue)](https://github.com/kenforthewin/atomic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kenforthewin/atomic?style=flat-square&color=yellow)](https://github.com/kenforthewin/atomic/stargazers) [![Forks](https://img.shields.io/github/forks/kenforthewin/atomic?style=flat-square&color=blue)](https://github.com/kenforthewin/atomic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, semantically-connected personal knowledge base
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 95 |
+| 🍴 **Forks** | 96 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

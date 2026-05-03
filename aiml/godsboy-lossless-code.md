@@ -1,6 +1,6 @@
 # GodsBoy/lossless-code
 
-[![Stars](https://img.shields.io/github/stars/GodsBoy/lossless-code?style=flat-square&color=yellow)](https://github.com/GodsBoy/lossless-code/stargazers) [![Forks](https://img.shields.io/github/forks/GodsBoy/lossless-code?style=flat-square&color=blue)](https://github.com/GodsBoy/lossless-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GodsBoy/lossless-code?style=flat-square&color=yellow)](https://github.com/GodsBoy/lossless-code/stargazers) [![Forks](https://img.shields.io/github/forks/GodsBoy/lossless-code?style=flat-square&color=blue)](https://github.com/GodsBoy/lossless-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > DAG-based Lossless Context Management for Claude Code. Every message preserved, summaries cascade as a DAG, patterns extracted via Lossless Dream — full recall and reflection across sessions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

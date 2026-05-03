@@ -1,6 +1,6 @@
 # EdoardoBambini/Agent-Armor-Iaga
 
-[![Stars](https://img.shields.io/github/stars/EdoardoBambini/Agent-Armor-Iaga?style=flat-square&color=yellow)](https://github.com/EdoardoBambini/Agent-Armor-Iaga/stargazers) [![Forks](https://img.shields.io/github/forks/EdoardoBambini/Agent-Armor-Iaga?style=flat-square&color=blue)](https://github.com/EdoardoBambini/Agent-Armor-Iaga/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EdoardoBambini/Agent-Armor-Iaga?style=flat-square&color=yellow)](https://github.com/EdoardoBambini/Agent-Armor-Iaga/stargazers) [![Forks](https://img.shields.io/github/forks/EdoardoBambini/Agent-Armor-Iaga?style=flat-square&color=blue)](https://github.com/EdoardoBambini/Agent-Armor-Iaga/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > AI agents are getting tool access — shell, file system, databases, APIs, secrets. But **nobody is governing what they actually do with it**.  Frameworks like LangChain, CrewAI, AutoGen, and Claude Code give agents the power to execute. Agent Armor gives you the power to control, audit, and approve every single action before it happens.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,17 +1,17 @@
 # woct0rdho/mathstudio-apk-modernized
 
-[![Stars](https://img.shields.io/github/stars/woct0rdho/mathstudio-apk-modernized?style=flat-square&color=yellow)](https://github.com/woct0rdho/mathstudio-apk-modernized/stargazers) [![Forks](https://img.shields.io/github/forks/woct0rdho/mathstudio-apk-modernized?style=flat-square&color=blue)](https://github.com/woct0rdho/mathstudio-apk-modernized/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/woct0rdho/mathstudio-apk-modernized?style=flat-square&color=yellow)](https://github.com/woct0rdho/mathstudio-apk-modernized/stargazers) [![Forks](https://img.shields.io/github/forks/woct0rdho/mathstudio-apk-modernized?style=flat-square&color=blue)](https://github.com/woct0rdho/mathstudio-apk-modernized/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> MathStudio Android APK modernized for Android >= 7
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 2 |
+| 🍴 **Forks** | 1 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

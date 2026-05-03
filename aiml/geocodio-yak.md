@@ -1,6 +1,6 @@
 # Geocodio/yak
 
-[![Stars](https://img.shields.io/github/stars/Geocodio/yak?style=flat-square&color=yellow)](https://github.com/Geocodio/yak/stargazers) [![Forks](https://img.shields.io/github/forks/Geocodio/yak?style=flat-square&color=blue)](https://github.com/Geocodio/yak/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Geocodio/yak?style=flat-square&color=yellow)](https://github.com/Geocodio/yak/stargazers) [![Forks](https://img.shields.io/github/forks/Geocodio/yak?style=flat-square&color=blue)](https://github.com/Geocodio/yak/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Yak is an autonomous coding agent for papercuts. It picks up small tasks from Slack, Linear, Sentry, and GitHub and delivers reviewable pull requests while you work on what matters.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

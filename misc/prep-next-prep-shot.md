@@ -1,6 +1,6 @@
 # PREP-NexT/PREP-SHOT
 
-[![Stars](https://img.shields.io/github/stars/PREP-NexT/PREP-SHOT?style=flat-square&color=yellow)](https://github.com/PREP-NexT/PREP-SHOT/stargazers) [![Forks](https://img.shields.io/github/forks/PREP-NexT/PREP-SHOT?style=flat-square&color=blue)](https://github.com/PREP-NexT/PREP-SHOT/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PREP-NexT/PREP-SHOT?style=flat-square&color=yellow)](https://github.com/PREP-NexT/PREP-SHOT/stargazers) [![Forks](https://img.shields.io/github/forks/PREP-NexT/PREP-SHOT?style=flat-square&color=blue)](https://github.com/PREP-NexT/PREP-SHOT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Pathways for Renewable Energy Planning coupling Short-term Hydropower OperaTion
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 523 |
 | 🍴 **Forks** | 26 |
-| 💻 **Language** | Jupyter Notebook |
+| 💻 **Language** | Python |
 | 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

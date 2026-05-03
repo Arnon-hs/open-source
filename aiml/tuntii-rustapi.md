@@ -1,6 +1,6 @@
 # Tuntii/RustAPI
 
-[![Stars](https://img.shields.io/github/stars/Tuntii/RustAPI?style=flat-square&color=yellow)](https://github.com/Tuntii/RustAPI/stargazers) [![Forks](https://img.shields.io/github/forks/Tuntii/RustAPI?style=flat-square&color=blue)](https://github.com/Tuntii/RustAPI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tuntii/RustAPI?style=flat-square&color=yellow)](https://github.com/Tuntii/RustAPI/stargazers) [![Forks](https://img.shields.io/github/forks/Tuntii/RustAPI?style=flat-square&color=blue)](https://github.com/Tuntii/RustAPI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The central goal is the 5-line API a complete, production-ready endpoint with auto-generated OpenAPI documentation, compiled validation, and distributed tracing should require no more boilerplate than the handler logic itself.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

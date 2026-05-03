@@ -1,6 +1,6 @@
 # lhccong/fish-island-backend
 
-[![Stars](https://img.shields.io/github/stars/lhccong/fish-island-backend?style=flat-square&color=yellow)](https://github.com/lhccong/fish-island-backend/stargazers) [![Forks](https://img.shields.io/github/forks/lhccong/fish-island-backend?style=flat-square&color=blue)](https://github.com/lhccong/fish-island-backend/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lhccong/fish-island-backend?style=flat-square&color=yellow)](https://github.com/lhccong/fish-island-backend/stargazers) [![Forks](https://img.shields.io/github/forks/lhccong/fish-island-backend?style=flat-square&color=blue)](https://github.com/lhccong/fish-island-backend/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 摸鱼岛🎣后端 基于爬虫 ➕ Netty ➕ SpringBoot ➕Redis➕ MySQL 开源🌟一站式摸鱼网
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 696 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

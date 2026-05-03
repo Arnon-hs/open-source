@@ -1,6 +1,6 @@
 # Bojun-Vvibe/claude-starter
 
-[![Stars](https://img.shields.io/github/stars/Bojun-Vvibe/claude-starter?style=flat-square&color=yellow)](https://github.com/Bojun-Vvibe/claude-starter/stargazers) [![Forks](https://img.shields.io/github/forks/Bojun-Vvibe/claude-starter?style=flat-square&color=blue)](https://github.com/Bojun-Vvibe/claude-starter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bojun-Vvibe/claude-starter?style=flat-square&color=yellow)](https://github.com/Bojun-Vvibe/claude-starter/stargazers) [![Forks](https://img.shields.io/github/forks/Bojun-Vvibe/claude-starter?style=flat-square&color=blue)](https://github.com/Bojun-Vvibe/claude-starter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A beautiful terminal UI for Claude Code sessions — built for local-first, AI-native developer workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

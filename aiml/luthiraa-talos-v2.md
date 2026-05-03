@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 199 |
-| 🍴 **Forks** | 14 |
+| ⭐ **Stars** | 229 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | Verilog |
 | 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |

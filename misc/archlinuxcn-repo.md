@@ -1,6 +1,6 @@
 # archlinuxcn/repo
 
-[![Stars](https://img.shields.io/github/stars/archlinuxcn/repo?style=flat-square&color=yellow)](https://github.com/archlinuxcn/repo/stargazers) [![Forks](https://img.shields.io/github/forks/archlinuxcn/repo?style=flat-square&color=blue)](https://github.com/archlinuxcn/repo/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/archlinuxcn/repo?style=flat-square&color=yellow)](https://github.com/archlinuxcn/repo/stargazers) [![Forks](https://img.shields.io/github/forks/archlinuxcn/repo?style=flat-square&color=blue)](https://github.com/archlinuxcn/repo/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Arch Linux CN Repository
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 381 |
+| 🍴 **Forks** | 380 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

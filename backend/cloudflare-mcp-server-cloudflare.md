@@ -1,6 +1,6 @@
 # cloudflare/mcp-server-cloudflare
 
-[![Stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=flat-square&color=yellow)](https://github.com/cloudflare/mcp-server-cloudflare/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/mcp-server-cloudflare?style=flat-square&color=blue)](https://github.com/cloudflare/mcp-server-cloudflare/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=flat-square&color=yellow)](https://github.com/cloudflare/mcp-server-cloudflare/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/mcp-server-cloudflare?style=flat-square&color=blue)](https://github.com/cloudflare/mcp-server-cloudflare/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 381 |
+| 🍴 **Forks** | 384 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # cometbft/cometbft
 
-[![Stars](https://img.shields.io/github/stars/cometbft/cometbft?style=flat-square&color=yellow)](https://github.com/cometbft/cometbft/stargazers) [![Forks](https://img.shields.io/github/forks/cometbft/cometbft?style=flat-square&color=blue)](https://github.com/cometbft/cometbft/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cometbft/cometbft?style=flat-square&color=yellow)](https://github.com/cometbft/cometbft/stargazers) [![Forks](https://img.shields.io/github/forks/cometbft/cometbft?style=flat-square&color=blue)](https://github.com/cometbft/cometbft/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 889 |
 | 🍴 **Forks** | 794 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
