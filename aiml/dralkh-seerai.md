@@ -1,6 +1,6 @@
 # dralkh/seerai
 
-[![Stars](https://img.shields.io/github/stars/dralkh/seerai?style=flat-square&color=yellow)](https://github.com/dralkh/seerai/stargazers) [![Forks](https://img.shields.io/github/forks/dralkh/seerai?style=flat-square&color=blue)](https://github.com/dralkh/seerai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dralkh/seerai?style=flat-square&color=yellow)](https://github.com/dralkh/seerai/stargazers) [![Forks](https://img.shields.io/github/forks/dralkh/seerai?style=flat-square&color=blue)](https://github.com/dralkh/seerai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Zotero AI plugin, research framework, assistant, with MCP, agent capabilities, OCR, table extraction, semantic scholar, and firecrawl/tavily web search
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

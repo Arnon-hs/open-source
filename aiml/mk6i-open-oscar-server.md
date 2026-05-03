@@ -1,6 +1,6 @@
 # mk6i/open-oscar-server
 
-[![Stars](https://img.shields.io/github/stars/mk6i/open-oscar-server?style=flat-square&color=yellow)](https://github.com/mk6i/open-oscar-server/stargazers) [![Forks](https://img.shields.io/github/forks/mk6i/open-oscar-server?style=flat-square&color=blue)](https://github.com/mk6i/open-oscar-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mk6i/open-oscar-server?style=flat-square&color=yellow)](https://github.com/mk6i/open-oscar-server/stargazers) [![Forks](https://img.shields.io/github/forks/mk6i/open-oscar-server?style=flat-square&color=blue)](https://github.com/mk6i/open-oscar-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang. (Independently developed, not affiliated with or endorsed by AOL)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

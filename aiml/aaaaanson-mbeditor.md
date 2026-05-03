@@ -1,6 +1,6 @@
 # AAAAAnson/mbeditor
 
-[![Stars](https://img.shields.io/github/stars/AAAAAnson/mbeditor?style=flat-square&color=yellow)](https://github.com/AAAAAnson/mbeditor/stargazers) [![Forks](https://img.shields.io/github/forks/AAAAAnson/mbeditor?style=flat-square&color=blue)](https://github.com/AAAAAnson/mbeditor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AAAAAnson/mbeditor?style=flat-square&color=yellow)](https://github.com/AAAAAnson/mbeditor/stargazers) [![Forks](https://img.shields.io/github/forks/AAAAAnson/mbeditor?style=flat-square&color=blue)](https://github.com/AAAAAnson/mbeditor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 首款支持 CLI 化操作的微信公众号编辑器 — 让你的Agent直接写出精美推文
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 46 |
+| ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

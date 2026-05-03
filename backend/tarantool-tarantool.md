@@ -1,6 +1,6 @@
 # tarantool/tarantool
 
-[![Stars](https://img.shields.io/github/stars/tarantool/tarantool?style=flat-square&color=yellow)](https://github.com/tarantool/tarantool/stargazers) [![Forks](https://img.shields.io/github/forks/tarantool/tarantool?style=flat-square&color=blue)](https://github.com/tarantool/tarantool/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tarantool/tarantool?style=flat-square&color=yellow)](https://github.com/tarantool/tarantool/stargazers) [![Forks](https://img.shields.io/github/forks/tarantool/tarantool?style=flat-square&color=blue)](https://github.com/tarantool/tarantool/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Get your data in RAM. Get compute close to data. Enjoy the performance.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 405 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

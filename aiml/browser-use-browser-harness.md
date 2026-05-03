@@ -1,6 +1,6 @@
 # browser-use/browser-harness
 
-[![Stars](https://img.shields.io/github/stars/browser-use/browser-harness?style=flat-square&color=yellow)](https://github.com/browser-use/browser-harness/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/browser-harness?style=flat-square&color=blue)](https://github.com/browser-use/browser-harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/browser-use/browser-harness?style=flat-square&color=yellow)](https://github.com/browser-use/browser-harness/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/browser-harness?style=flat-square&color=blue)](https://github.com/browser-use/browser-harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
 > Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9.7k |
-| 🍴 **Forks** | 897 |
+| ⭐ **Stars** | 9.8k |
+| 🍴 **Forks** | 905 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

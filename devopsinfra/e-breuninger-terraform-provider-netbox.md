@@ -1,6 +1,6 @@
 # e-breuninger/terraform-provider-netbox
 
-[![Stars](https://img.shields.io/github/stars/e-breuninger/terraform-provider-netbox?style=flat-square&color=yellow)](https://github.com/e-breuninger/terraform-provider-netbox/stargazers) [![Forks](https://img.shields.io/github/forks/e-breuninger/terraform-provider-netbox?style=flat-square&color=blue)](https://github.com/e-breuninger/terraform-provider-netbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/e-breuninger/terraform-provider-netbox?style=flat-square&color=yellow)](https://github.com/e-breuninger/terraform-provider-netbox/stargazers) [![Forks](https://img.shields.io/github/forks/e-breuninger/terraform-provider-netbox?style=flat-square&color=blue)](https://github.com/e-breuninger/terraform-provider-netbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform provider to interact with Netbox
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 274 |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

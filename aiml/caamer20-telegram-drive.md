@@ -1,6 +1,6 @@
 # caamer20/Telegram-Drive
 
-[![Stars](https://img.shields.io/github/stars/caamer20/Telegram-Drive?style=flat-square&color=yellow)](https://github.com/caamer20/Telegram-Drive/stargazers) [![Forks](https://img.shields.io/github/forks/caamer20/Telegram-Drive?style=flat-square&color=blue)](https://github.com/caamer20/Telegram-Drive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caamer20/Telegram-Drive?style=flat-square&color=yellow)](https://github.com/caamer20/Telegram-Drive/stargazers) [![Forks](https://img.shields.io/github/forks/caamer20/Telegram-Drive?style=flat-square&color=blue)](https://github.com/caamer20/Telegram-Drive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 265 |
+| 🍴 **Forks** | 267 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

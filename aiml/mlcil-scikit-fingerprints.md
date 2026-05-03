@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-MLCIL/scikit-fingerprints is an open-source library that provides a Scikit-learn compatible framework for molecular fingerprints and chemoinformatics. This library enables users to apply machine learning techniques to chemical data, facilitating the analysis and modeling of molecular properties. By leveraging scikit-learn's APIs, it simplifies the integration of chemoinformatics tools into machine learning workflows.
+MLCIL/scikit-fingerprints is an open-source library that provides a scikit-learn compatible framework for molecular fingerprints and chemoinformatics, enabling seamless integration with machine learning workflows. It offers a range of tools for molecular data analysis and feature generation, making it a valuable resource for researchers and developers in the field of chemoinformatics and AI. By leveraging this library, users can efficiently process and analyze large molecular datasets.
 
 ---
 

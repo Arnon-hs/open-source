@@ -1,6 +1,6 @@
 # omixam/pensamiento-critico
 
-[![Stars](https://img.shields.io/github/stars/omixam/pensamiento-critico?style=flat-square&color=yellow)](https://github.com/omixam/pensamiento-critico/stargazers) [![Forks](https://img.shields.io/github/forks/omixam/pensamiento-critico?style=flat-square&color=blue)](https://github.com/omixam/pensamiento-critico/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omixam/pensamiento-critico?style=flat-square&color=yellow)](https://github.com/omixam/pensamiento-critico/stargazers) [![Forks](https://img.shields.io/github/forks/omixam/pensamiento-critico?style=flat-square&color=blue)](https://github.com/omixam/pensamiento-critico/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Skill para Claude Code que analiza textos argumentativos con el marco Paul-Elder (8 elementos + estándares intelectuales), detecta falacias y sesgos cognitivos, y declara la no-neutralidad del analizador. En español.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18 |
+| ⭐ **Stars** | 20 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

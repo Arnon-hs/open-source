@@ -1,6 +1,6 @@
 # gsd-build/gsd-2
 
-[![Stars](https://img.shields.io/github/stars/gsd-build/gsd-2?style=flat-square&color=yellow)](https://github.com/gsd-build/gsd-2/stargazers) [![Forks](https://img.shields.io/github/forks/gsd-build/gsd-2?style=flat-square&color=blue)](https://github.com/gsd-build/gsd-2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gsd-build/gsd-2?style=flat-square&color=yellow)](https://github.com/gsd-build/gsd-2/stargazers) [![Forks](https://img.shields.io/github/forks/gsd-build/gsd-2?style=flat-square&color=blue)](https://github.com/gsd-build/gsd-2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7k |
-| 🍴 **Forks** | 716 |
+| 🍴 **Forks** | 717 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

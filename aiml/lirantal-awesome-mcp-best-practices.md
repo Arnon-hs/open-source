@@ -1,6 +1,6 @@
 # lirantal/awesome-mcp-best-practices
 
-[![Stars](https://img.shields.io/github/stars/lirantal/awesome-mcp-best-practices?style=flat-square&color=yellow)](https://github.com/lirantal/awesome-mcp-best-practices/stargazers) [![Forks](https://img.shields.io/github/forks/lirantal/awesome-mcp-best-practices?style=flat-square&color=blue)](https://github.com/lirantal/awesome-mcp-best-practices/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lirantal/awesome-mcp-best-practices?style=flat-square&color=yellow)](https://github.com/lirantal/awesome-mcp-best-practices/stargazers) [![Forks](https://img.shields.io/github/forks/lirantal/awesome-mcp-best-practices?style=flat-square&color=blue)](https://github.com/lirantal/awesome-mcp-best-practices/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Build Awesome MCPs with Awesome Best Practices for MCP Servers and MCP Clients
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

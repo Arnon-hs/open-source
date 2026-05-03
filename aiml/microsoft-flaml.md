@@ -1,6 +1,6 @@
 # microsoft/FLAML
 
-[![Stars](https://img.shields.io/github/stars/microsoft/FLAML?style=flat-square&color=yellow)](https://github.com/microsoft/FLAML/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/FLAML?style=flat-square&color=blue)](https://github.com/microsoft/FLAML/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/FLAML?style=flat-square&color=yellow)](https://github.com/microsoft/FLAML/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/FLAML?style=flat-square&color=blue)](https://github.com/microsoft/FLAML/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
 > A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 560 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

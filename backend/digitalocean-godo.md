@@ -1,6 +1,6 @@
 # digitalocean/godo
 
-[![Stars](https://img.shields.io/github/stars/digitalocean/godo?style=flat-square&color=yellow)](https://github.com/digitalocean/godo/stargazers) [![Forks](https://img.shields.io/github/forks/digitalocean/godo?style=flat-square&color=blue)](https://github.com/digitalocean/godo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/digitalocean/godo?style=flat-square&color=yellow)](https://github.com/digitalocean/godo/stargazers) [![Forks](https://img.shields.io/github/forks/digitalocean/godo?style=flat-square&color=blue)](https://github.com/digitalocean/godo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > DigitalOcean Go API client
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 365 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

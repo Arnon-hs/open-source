@@ -1,6 +1,6 @@
 # rizinorg/rizin
 
-[![Stars](https://img.shields.io/github/stars/rizinorg/rizin?style=flat-square&color=yellow)](https://github.com/rizinorg/rizin/stargazers) [![Forks](https://img.shields.io/github/forks/rizinorg/rizin?style=flat-square&color=blue)](https://github.com/rizinorg/rizin/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rizinorg/rizin?style=flat-square&color=yellow)](https://github.com/rizinorg/rizin/stargazers) [![Forks](https://img.shields.io/github/forks/rizinorg/rizin?style=flat-square&color=blue)](https://github.com/rizinorg/rizin/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > UNIX-like reverse engineering framework and command-line toolset.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 560 |
+| 🍴 **Forks** | 559 |
 | 💻 **Language** | C |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -32,13 +32,13 @@
 | 22 | [lahin31/system-design-bangla](./lahin31-system-design-bangla.md) | ⭐ 1.2k | — | 56/100 |
 | 23 | [metacraft-labs/codetracer](./metacraft-labs-codetracer.md) | ⭐ 1.3k | Rust | 55/100 |
 | 24 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 55/100 |
-| 25 | [processing/processing4](./processing-processing4.md) | ⭐ 394 | Java | 55/100 |
-| 26 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
-| 27 | [MercuryWorkshop/scramjet](./mercuryworkshop-scramjet.md) | ⭐ 406 | TypeScript | 53/100 |
-| 28 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
-| 29 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
-| 30 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 228 | Go | 52/100 |
-| 31 | [JuliaDSP/DSP.jl](./juliadsp-dsp.jl.md) | ⭐ 416 | Julia | 51/100 |
+| 25 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
+| 26 | [MercuryWorkshop/scramjet](./mercuryworkshop-scramjet.md) | ⭐ 406 | TypeScript | 53/100 |
+| 27 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
+| 28 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
+| 29 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 228 | Go | 52/100 |
+| 30 | [JuliaDSP/DSP.jl](./juliadsp-dsp.jl.md) | ⭐ 416 | Julia | 51/100 |
+| 31 | [processing/processing4](./processing-processing4.md) | ⭐ 394 | Java | 51/100 |
 | 32 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 50/100 |
 | 33 | [NX211/homer-icons](./nx211-homer-icons.md) | ⭐ 975 | Python | 50/100 |
 | 34 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 50/100 |
@@ -52,11 +52,11 @@
 | 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
 | 43 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 45/100 |
 | 44 | [nats-io/nats-architecture-and-design](./nats-io-nats-architecture-and-design.md) | ⭐ 398 | Go | 44/100 |
-| 45 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
-| 46 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 141 | Rust | 43/100 |
-| 47 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 409 | TypeScript | 43/100 |
-| 48 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
-| 49 | [graelo/pumas](./graelo-pumas.md) | ⭐ 214 | Rust | 42/100 |
+| 45 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 141 | Rust | 43/100 |
+| 46 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 410 | TypeScript | 43/100 |
+| 47 | [graelo/pumas](./graelo-pumas.md) | ⭐ 214 | Rust | 42/100 |
+| 48 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 39/100 |
+| 49 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 39/100 |
 | 50 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |
 
 ---

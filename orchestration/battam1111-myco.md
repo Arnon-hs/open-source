@@ -1,6 +1,6 @@
 # Battam1111/Myco
 
-[![Stars](https://img.shields.io/github/stars/Battam1111/Myco?style=flat-square&color=yellow)](https://github.com/Battam1111/Myco/stargazers) [![Forks](https://img.shields.io/github/forks/Battam1111/Myco?style=flat-square&color=blue)](https://github.com/Battam1111/Myco/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Battam1111/Myco?style=flat-square&color=yellow)](https://github.com/Battam1111/Myco/stargazers) [![Forks](https://img.shields.io/github/forks/Battam1111/Myco?style=flat-square&color=blue)](https://github.com/Battam1111/Myco/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Self-evolving cognitive organism for AI agents — eternal devouring, eternal evolution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

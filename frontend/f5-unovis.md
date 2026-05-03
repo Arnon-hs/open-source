@@ -1,6 +1,6 @@
 # f5/unovis
 
-[![Stars](https://img.shields.io/github/stars/f5/unovis?style=flat-square&color=yellow)](https://github.com/f5/unovis/stargazers) [![Forks](https://img.shields.io/github/forks/f5/unovis?style=flat-square&color=blue)](https://github.com/f5/unovis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/f5/unovis?style=flat-square&color=yellow)](https://github.com/f5/unovis/stargazers) [![Forks](https://img.shields.io/github/forks/f5/unovis?style=flat-square&color=blue)](https://github.com/f5/unovis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

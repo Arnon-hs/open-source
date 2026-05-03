@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/mikel-brostrom/boxmot?style=flat-square&color=yellow)](https://github.com/mikel-brostrom/boxmot/stargazers) [![Forks](https://img.shields.io/github/forks/mikel-brostrom/boxmot?style=flat-square&color=blue)](https://github.com/mikel-brostrom/boxmot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> BoxMOT: Pluggable SOTA multi-object tracking modules with support for axis-aligned and oriented bounding boxes
+> BoxMOT: Pluggable python and c++ SOTA multi-object tracking modules with support for axis-aligned and oriented bounding boxes
 
 ## 📊 Stats
 

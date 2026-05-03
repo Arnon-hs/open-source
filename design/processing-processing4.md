@@ -1,6 +1,6 @@
 # processing/processing4
 
-[![Stars](https://img.shields.io/github/stars/processing/processing4?style=flat-square&color=yellow)](https://github.com/processing/processing4/stargazers) [![Forks](https://img.shields.io/github/forks/processing/processing4?style=flat-square&color=blue)](https://github.com/processing/processing4/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/processing/processing4?style=flat-square&color=yellow)](https://github.com/processing/processing4/stargazers) [![Forks](https://img.shields.io/github/forks/processing/processing4?style=flat-square&color=blue)](https://github.com/processing/processing4/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Source code for Processing, the software sketchbook and Java-based programming language for students, artists, designers, educators, hobbyists, and creative coders. Includes the core library, and editor (PDE)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 394 |
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

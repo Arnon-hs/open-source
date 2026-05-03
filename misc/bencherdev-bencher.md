@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 832 |
-| 🍴 **Forks** | 43 |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |

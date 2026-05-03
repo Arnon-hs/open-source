@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a 2-3 sentence summary for the open-source project:
 
-"SamurAIGPT/AI-Youtube-Shorts-Generator is an open-source alternative to commercial tools, enabling users to transform long-form YouTube videos into engaging 9:16 shorts using advanced AI technologies. Leveraging LLM highlight detection, Whisper transcription, and auto vertical cropping, this tool provides a free, watermark-free, and credit-free solution for creators. With its AI-driven capabilities, users can easily craft viral YouTube shorts from existing content."
+SamurAIGPT/AI-Youtube-Shorts-Generator is an open-source solution for creating viral 9:16 YouTube shorts from long-form videos. Leveraging AI/ML technologies, this tool detects key highlights, transcribes audio using Whisper, and auto-crops videos to a vertically-oriented format, all without watermarks or per-clip credits. This free alternative to commercial tools like Opus Clip and Vidyo.ai empowers creators to produce engaging content on their own terms.
 
 ---
 

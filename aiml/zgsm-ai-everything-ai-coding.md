@@ -1,6 +1,6 @@
 # zgsm-ai/everything-ai-coding
 
-[![Stars](https://img.shields.io/github/stars/zgsm-ai/everything-ai-coding?style=flat-square&color=yellow)](https://github.com/zgsm-ai/everything-ai-coding/stargazers) [![Forks](https://img.shields.io/github/forks/zgsm-ai/everything-ai-coding?style=flat-square&color=blue)](https://github.com/zgsm-ai/everything-ai-coding/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zgsm-ai/everything-ai-coding?style=flat-square&color=yellow)](https://github.com/zgsm-ai/everything-ai-coding/stargazers) [![Forks](https://img.shields.io/github/forks/zgsm-ai/everything-ai-coding?style=flat-square&color=blue)](https://github.com/zgsm-ai/everything-ai-coding/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 聚合精选编程 AI 扩展资源：MCP Servers、Skills、Rules、Prompts，周更索引 + 一键安装。
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 100 |
+| ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

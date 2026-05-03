@@ -1,6 +1,6 @@
 # simpledms/simpledms
 
-[![Stars](https://img.shields.io/github/stars/simpledms/simpledms?style=flat-square&color=yellow)](https://github.com/simpledms/simpledms/stargazers) [![Forks](https://img.shields.io/github/forks/simpledms/simpledms?style=flat-square&color=blue)](https://github.com/simpledms/simpledms/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simpledms/simpledms?style=flat-square&color=yellow)](https://github.com/simpledms/simpledms/stargazers) [![Forks](https://img.shields.io/github/forks/simpledms/simpledms?style=flat-square&color=blue)](https://github.com/simpledms/simpledms/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Document management for small businesses.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

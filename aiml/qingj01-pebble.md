@@ -1,6 +1,6 @@
 # QingJ01/Pebble
 
-[![Stars](https://img.shields.io/github/stars/QingJ01/Pebble?style=flat-square&color=yellow)](https://github.com/QingJ01/Pebble/stargazers) [![Forks](https://img.shields.io/github/forks/QingJ01/Pebble?style=flat-square&color=blue)](https://github.com/QingJ01/Pebble/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QingJ01/Pebble?style=flat-square&color=yellow)](https://github.com/QingJ01/Pebble/stargazers) [![Forks](https://img.shields.io/github/forks/QingJ01/Pebble?style=flat-square&color=blue)](https://github.com/QingJ01/Pebble/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A small yet beautiful email client.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 182 |
+| ⭐ **Stars** | 187 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

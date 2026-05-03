@@ -1,6 +1,6 @@
 # handplant/craftcms-lazy-starter-kit
 
-[![Stars](https://img.shields.io/github/stars/handplant/craftcms-lazy-starter-kit?style=flat-square&color=yellow)](https://github.com/handplant/craftcms-lazy-starter-kit/stargazers) [![Forks](https://img.shields.io/github/forks/handplant/craftcms-lazy-starter-kit?style=flat-square&color=blue)](https://github.com/handplant/craftcms-lazy-starter-kit/network) [![Language](https://img.shields.io/badge/lang-Twig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/handplant/craftcms-lazy-starter-kit?style=flat-square&color=yellow)](https://github.com/handplant/craftcms-lazy-starter-kit/stargazers) [![Forks](https://img.shields.io/github/forks/handplant/craftcms-lazy-starter-kit?style=flat-square&color=blue)](https://github.com/handplant/craftcms-lazy-starter-kit/network) [![Language](https://img.shields.io/badge/lang-Twig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A modern Craft CMS starter kit for agencies and developers — featuring Vite, Tailwind, Datastar, DDEV, MCP, LLM Ready.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Twig |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

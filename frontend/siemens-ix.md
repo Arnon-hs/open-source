@@ -1,6 +1,6 @@
 # siemens/ix
 
-[![Stars](https://img.shields.io/github/stars/siemens/ix?style=flat-square&color=yellow)](https://github.com/siemens/ix/stargazers) [![Forks](https://img.shields.io/github/forks/siemens/ix?style=flat-square&color=blue)](https://github.com/siemens/ix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/siemens/ix?style=flat-square&color=yellow)](https://github.com/siemens/ix/stargazers) [![Forks](https://img.shields.io/github/forks/siemens/ix?style=flat-square&color=blue)](https://github.com/siemens/ix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software products.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

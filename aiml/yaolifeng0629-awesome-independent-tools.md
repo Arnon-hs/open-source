@@ -1,6 +1,6 @@
 # yaolifeng0629/Awesome-independent-tools
 
-[![Stars](https://img.shields.io/github/stars/yaolifeng0629/Awesome-independent-tools?style=flat-square&color=yellow)](https://github.com/yaolifeng0629/Awesome-independent-tools/stargazers) [![Forks](https://img.shields.io/github/forks/yaolifeng0629/Awesome-independent-tools?style=flat-square&color=blue)](https://github.com/yaolifeng0629/Awesome-independent-tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yaolifeng0629/Awesome-independent-tools?style=flat-square&color=yellow)](https://github.com/yaolifeng0629/Awesome-independent-tools/stargazers) [![Forks](https://img.shields.io/github/forks/yaolifeng0629/Awesome-independent-tools?style=flat-square&color=blue)](https://github.com/yaolifeng0629/Awesome-independent-tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 217 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -22,7 +22,7 @@
 | 12 | [nowork-studio/toprank](./nowork-studio-toprank.md) | ⭐ 1.6k | Python | 55/100 |
 | 13 | [pH-7/Download-Simply-Videos-From-YouTube](./ph-7-download-simply-videos-from-youtube.md) | ⭐ 372 | Python | 54/100 |
 | 14 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 520 | PHP | 54/100 |
-| 15 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 629 | C# | 53/100 |
+| 15 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 630 | C# | 53/100 |
 | 16 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 17 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 967 | TypeScript | 52/100 |
 | 18 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 52/100 |

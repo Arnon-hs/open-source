@@ -25,7 +25,7 @@ AI/ML · Data · Product
 
 ## 📝 Summary
 
-This comprehensive open-source project, "AI-ML-Roadmap-from-scratch," provides a complete learning journey from beginner to advanced in Artificial Intelligence, Machine Learning, and related fields. It covers a wide range of topics, including Generative AI, Deep Learning, Data Science, Natural Language Processing, and Reinforcement Learning. This repository is ideal for those seeking to develop a thorough understanding of AI and ML concepts.
+This comprehensive open-source repository, 'AI-ML-Roadmap-from-scratch', provides a complete learning journey from beginner to expert in various AI and ML domains, including Generative AI, Deep Learning, Data Science, and more. It serves as a one-stop resource for individuals aspiring to develop skills in Artificial Intelligence, Machine Learning, and associated fields. This repository offers a structured approach to mastering cutting-edge technologies and techniques in AI and ML.
 
 ---
 

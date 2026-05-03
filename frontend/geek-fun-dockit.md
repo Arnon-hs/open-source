@@ -1,6 +1,6 @@
 # geek-fun/dockit
 
-[![Stars](https://img.shields.io/github/stars/geek-fun/dockit?style=flat-square&color=yellow)](https://github.com/geek-fun/dockit/stargazers) [![Forks](https://img.shields.io/github/forks/geek-fun/dockit?style=flat-square&color=blue)](https://github.com/geek-fun/dockit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/geek-fun/dockit?style=flat-square&color=yellow)](https://github.com/geek-fun/dockit/stargazers) [![Forks](https://img.shields.io/github/forks/geek-fun/dockit?style=flat-square&color=blue)](https://github.com/geek-fun/dockit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > ElasticSearch, OpenSearch and DynamoDB GUI client for Mac, windows and linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

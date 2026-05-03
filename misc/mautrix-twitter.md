@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Mautrix/Twitter is an open-source project that enables Matrix users to send and receive messages on Twitter via direct messages (DMs), allowing seamless communication between the two platforms. This bridge puppeteers Twitter DMs, providing a secure and private way to interact with Twitter without sharing your personal account credentials. It supports Matrix's decentralized and end-to-end encrypted messaging system.
+Mautrix/Twitter is an open-source project that enables users to send and receive direct messages between Twitter and the Matrix messaging platform. This bridge allows for seamless communication between the two services, effectively puppeting Twitter DMs within Matrix. By leveraging this tool, users can interact with their Twitter friends and followers directly from within the Matrix ecosystem.
 
 ---
 

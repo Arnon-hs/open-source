@@ -1,6 +1,6 @@
 # lambdaclass/ethrex
 
-[![Stars](https://img.shields.io/github/stars/lambdaclass/ethrex?style=flat-square&color=yellow)](https://github.com/lambdaclass/ethrex/stargazers) [![Forks](https://img.shields.io/github/forks/lambdaclass/ethrex?style=flat-square&color=blue)](https://github.com/lambdaclass/ethrex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lambdaclass/ethrex?style=flat-square&color=yellow)](https://github.com/lambdaclass/ethrex/stargazers) [![Forks](https://img.shields.io/github/forks/lambdaclass/ethrex?style=flat-square&color=blue)](https://github.com/lambdaclass/ethrex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Minimalist, stable, modular, fast, and ZK native implementation of the Ethereum protocol in Rust. L1 and L2 execution client.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 862 |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

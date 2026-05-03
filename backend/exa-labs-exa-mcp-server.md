@@ -1,6 +1,6 @@
 # exa-labs/exa-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/exa-labs/exa-mcp-server?style=flat-square&color=yellow)](https://github.com/exa-labs/exa-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/exa-labs/exa-mcp-server?style=flat-square&color=blue)](https://github.com/exa-labs/exa-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/exa-labs/exa-mcp-server?style=flat-square&color=yellow)](https://github.com/exa-labs/exa-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/exa-labs/exa-mcp-server?style=flat-square&color=blue)](https://github.com/exa-labs/exa-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Exa MCP for web search and web crawling!
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.4k |
-| 🍴 **Forks** | 326 |
+| 🍴 **Forks** | 327 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

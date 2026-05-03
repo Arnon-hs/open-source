@@ -1,6 +1,6 @@
 # Shiritai/sanity-gravity
 
-[![Stars](https://img.shields.io/github/stars/Shiritai/sanity-gravity?style=flat-square&color=yellow)](https://github.com/Shiritai/sanity-gravity/stargazers) [![Forks](https://img.shields.io/github/forks/Shiritai/sanity-gravity?style=flat-square&color=blue)](https://github.com/Shiritai/sanity-gravity/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shiritai/sanity-gravity?style=flat-square&color=yellow)](https://github.com/Shiritai/sanity-gravity/stargazers) [![Forks](https://img.shields.io/github/forks/Shiritai/sanity-gravity?style=flat-square&color=blue)](https://github.com/Shiritai/sanity-gravity/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Providing a strong Gravity in the wild world of Antigravity (AI Agents), to preserve the developer's Sanity.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

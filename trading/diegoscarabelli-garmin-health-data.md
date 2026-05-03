@@ -1,6 +1,6 @@
 # diegoscarabelli/garmin-health-data
 
-[![Stars](https://img.shields.io/github/stars/diegoscarabelli/garmin-health-data?style=flat-square&color=yellow)](https://github.com/diegoscarabelli/garmin-health-data/stargazers) [![Forks](https://img.shields.io/github/forks/diegoscarabelli/garmin-health-data?style=flat-square&color=blue)](https://github.com/diegoscarabelli/garmin-health-data/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/diegoscarabelli/garmin-health-data?style=flat-square&color=yellow)](https://github.com/diegoscarabelli/garmin-health-data/stargazers) [![Forks](https://img.shields.io/github/forks/diegoscarabelli/garmin-health-data?style=flat-square&color=blue)](https://github.com/diegoscarabelli/garmin-health-data/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A simple Python CLI to extract Garmin Connect data and save it to a SQLite database file
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54 |
+| ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

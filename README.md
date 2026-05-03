@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15279** |
+| 🗂️ **Total projects** | **15315** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5703 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3155 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1490 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1133 | [Browse →](./orchestration/) |
+| 🤖 **AI/ML** | 5717 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3164 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1495 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1135 | [Browse →](./orchestration/) |
 | ⚙️ **Backend** | 932 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 914 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 523 | [Browse →](./crypto/) |
+| 🔧 **DevTools** | 915 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 524 | [Browse →](./crypto/) |
 | 📊 **Data** | 345 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 326 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 205 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 328 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 206 | [Browse →](./mobile/) |
 | 💳 **Payments** | 162 | [Browse →](./payments/) |
-| 📈 **Trading** | 155 | [Browse →](./trading/) |
+| 📈 **Trading** | 156 | [Browse →](./trading/) |
 | 🔐 **Security** | 126 | [Browse →](./security/) |
 | ✨ **Design** | 50 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [2dust/v2rayNG](./devtools/2dust-v2rayng.md) | ⭐ 55.3k | DevTools |
-| 2 | [pathwaycom/pathway](./aiml/pathwaycom-pathway.md) | ⭐ 63.4k | AI/ML |
-| 3 | [promptfoo/promptfoo](./aiml/promptfoo-promptfoo.md) | ⭐ 20.8k | AI/ML |
-| 4 | [eosphoros-ai/DB-GPT](./aiml/eosphoros-ai-db-gpt.md) | ⭐ 18.6k | AI/ML |
-| 5 | [gogf/gf](./backend/gogf-gf.md) | ⭐ 13.1k | Backend |
-| 6 | [mikel-brostrom/boxmot](./misc/mikel-brostrom-boxmot.md) | ⭐ 8.1k | Misc |
-| 7 | [grpc/grpc-go](./backend/grpc-grpc-go.md) | ⭐ 22.9k | Backend |
-| 8 | [matomo-org/matomo](./frontend/matomo-org-matomo.md) | ⭐ 21.5k | Frontend |
-| 9 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.1k | AI/ML |
-| 10 | [kubernetes/kube-state-metrics](./aiml/kubernetes-kube-state-metrics.md) | ⭐ 6.1k | AI/ML |
+| 1 | [grpc/grpc-go](./backend/grpc-grpc-go.md) | ⭐ 22.9k | Backend |
+| 2 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.1k | AI/ML |
+| 3 | [kubernetes/kube-state-metrics](./aiml/kubernetes-kube-state-metrics.md) | ⭐ 6.1k | AI/ML |
+| 4 | [krayin/laravel-crm](./frontend/krayin-laravel-crm.md) | ⭐ 22.4k | Frontend |
+| 5 | [ToolJet/ToolJet](./aiml/tooljet-tooljet.md) | ⭐ 37.9k | AI/ML |
+| 6 | [emacs-lsp/lsp-mode](./aiml/emacs-lsp-lsp-mode.md) | ⭐ 5.1k | AI/ML |
+| 7 | [botpress/botpress](./orchestration/botpress-botpress.md) | ⭐ 14.7k | Orchestration |
+| 8 | [python-pillow/Pillow](./misc/python-pillow-pillow.md) | ⭐ 13.6k | Misc |
+| 9 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 10 | [kavishdevar/librepods](./aiml/kavishdevar-librepods.md) | ⭐ 26.8k | AI/ML |
 
 ## 🚀 How it works
 

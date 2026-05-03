@@ -1,6 +1,6 @@
 # quarkusio/quarkus-workshop-langchain4j
 
-[![Stars](https://img.shields.io/github/stars/quarkusio/quarkus-workshop-langchain4j?style=flat-square&color=yellow)](https://github.com/quarkusio/quarkus-workshop-langchain4j/stargazers) [![Forks](https://img.shields.io/github/forks/quarkusio/quarkus-workshop-langchain4j?style=flat-square&color=blue)](https://github.com/quarkusio/quarkus-workshop-langchain4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quarkusio/quarkus-workshop-langchain4j?style=flat-square&color=yellow)](https://github.com/quarkusio/quarkus-workshop-langchain4j/stargazers) [![Forks](https://img.shields.io/github/forks/quarkusio/quarkus-workshop-langchain4j?style=flat-square&color=blue)](https://github.com/quarkusio/quarkus-workshop-langchain4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Quarkus Langchain4J Workshop
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

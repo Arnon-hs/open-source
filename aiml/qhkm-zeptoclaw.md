@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/qhkm/zeptoclaw?style=flat-square&color=yellow)](https://github.com/qhkm/zeptoclaw/stargazers) [![Forks](https://img.shields.io/github/forks/qhkm/zeptoclaw?style=flat-square&color=blue)](https://github.com/qhkm/zeptoclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Fast, small, and secure personal AI assistant infrastructure: one Rust binary for tools, memory, channels, providers, and sandboxed autonomy.
+> Fast, small, secure, local-first personal AI assistant infrastructure: one Rust binary for tools, memory, channels, providers, and sandboxed autonomy.
 
 ## 📊 Stats
 

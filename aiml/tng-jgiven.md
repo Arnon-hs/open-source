@@ -1,6 +1,6 @@
 # TNG/JGiven
 
-[![Stars](https://img.shields.io/github/stars/TNG/JGiven?style=flat-square&color=yellow)](https://github.com/TNG/JGiven/stargazers) [![Forks](https://img.shields.io/github/forks/TNG/JGiven?style=flat-square&color=blue)](https://github.com/TNG/JGiven/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TNG/JGiven?style=flat-square&color=yellow)](https://github.com/TNG/JGiven/stargazers) [![Forks](https://img.shields.io/github/forks/TNG/JGiven?style=flat-square&color=blue)](https://github.com/TNG/JGiven/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Behavior-Driven Development in plain Java
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 460 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

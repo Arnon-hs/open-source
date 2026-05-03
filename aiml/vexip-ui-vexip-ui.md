@@ -1,6 +1,6 @@
 # vexip-ui/vexip-ui
 
-[![Stars](https://img.shields.io/github/stars/vexip-ui/vexip-ui?style=flat-square&color=yellow)](https://github.com/vexip-ui/vexip-ui/stargazers) [![Forks](https://img.shields.io/github/forks/vexip-ui/vexip-ui?style=flat-square&color=blue)](https://github.com/vexip-ui/vexip-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vexip-ui/vexip-ui?style=flat-square&color=yellow)](https://github.com/vexip-ui/vexip-ui/stargazers) [![Forks](https://img.shields.io/github/forks/vexip-ui/vexip-ui?style=flat-square&color=blue)](https://github.com/vexip-ui/vexip-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A Vue 3 UI library, highly customizability, full TypeScript, performance pretty good.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

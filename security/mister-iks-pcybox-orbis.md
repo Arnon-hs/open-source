@@ -1,6 +1,6 @@
 # Mister-iks/pcybox-orbis
 
-[![Stars](https://img.shields.io/github/stars/Mister-iks/pcybox-orbis?style=flat-square&color=yellow)](https://github.com/Mister-iks/pcybox-orbis/stargazers) [![Forks](https://img.shields.io/github/forks/Mister-iks/pcybox-orbis?style=flat-square&color=blue)](https://github.com/Mister-iks/pcybox-orbis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mister-iks/pcybox-orbis?style=flat-square&color=yellow)](https://github.com/Mister-iks/pcybox-orbis/stargazers) [![Forks](https://img.shields.io/github/forks/Mister-iks/pcybox-orbis?style=flat-square&color=blue)](https://github.com/Mister-iks/pcybox-orbis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > PCYBOX Orbis - Real-time network traffic visualizer. Force graph, world map, anomaly detection, process attribution. Free Windows app.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 48 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 50 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

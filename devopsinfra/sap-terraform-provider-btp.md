@@ -1,6 +1,6 @@
 # SAP/terraform-provider-btp
 
-[![Stars](https://img.shields.io/github/stars/SAP/terraform-provider-btp?style=flat-square&color=yellow)](https://github.com/SAP/terraform-provider-btp/stargazers) [![Forks](https://img.shields.io/github/forks/SAP/terraform-provider-btp?style=flat-square&color=blue)](https://github.com/SAP/terraform-provider-btp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SAP/terraform-provider-btp?style=flat-square&color=yellow)](https://github.com/SAP/terraform-provider-btp/stargazers) [![Forks](https://img.shields.io/github/forks/SAP/terraform-provider-btp?style=flat-square&color=blue)](https://github.com/SAP/terraform-provider-btp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform provider for SAP BTP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

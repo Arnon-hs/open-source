@@ -1,6 +1,6 @@
 # LSTM-Kirigaya/openmcp-client
 
-[![Stars](https://img.shields.io/github/stars/LSTM-Kirigaya/openmcp-client?style=flat-square&color=yellow)](https://github.com/LSTM-Kirigaya/openmcp-client/stargazers) [![Forks](https://img.shields.io/github/forks/LSTM-Kirigaya/openmcp-client?style=flat-square&color=blue)](https://github.com/LSTM-Kirigaya/openmcp-client/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LSTM-Kirigaya/openmcp-client?style=flat-square&color=yellow)](https://github.com/LSTM-Kirigaya/openmcp-client/stargazers) [![Forks](https://img.shields.io/github/forks/LSTM-Kirigaya/openmcp-client?style=flat-square&color=blue)](https://github.com/LSTM-Kirigaya/openmcp-client/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > All in one vscode plugin for mcp developer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 743 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

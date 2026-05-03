@@ -1,6 +1,6 @@
 # m7medVision/lazycommit
 
-[![Stars](https://img.shields.io/github/stars/m7medVision/lazycommit?style=flat-square&color=yellow)](https://github.com/m7medVision/lazycommit/stargazers) [![Forks](https://img.shields.io/github/forks/m7medVision/lazycommit?style=flat-square&color=blue)](https://github.com/m7medVision/lazycommit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/m7medVision/lazycommit?style=flat-square&color=yellow)](https://github.com/m7medVision/lazycommit/stargazers) [![Forks](https://img.shields.io/github/forks/m7medVision/lazycommit?style=flat-square&color=blue)](https://github.com/m7medVision/lazycommit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > AI for generating commit message and PR title
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

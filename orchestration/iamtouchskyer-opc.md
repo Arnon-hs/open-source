@@ -1,6 +1,6 @@
 # iamtouchskyer/opc
 
-[![Stars](https://img.shields.io/github/stars/iamtouchskyer/opc?style=flat-square&color=yellow)](https://github.com/iamtouchskyer/opc/stargazers) [![Forks](https://img.shields.io/github/forks/iamtouchskyer/opc?style=flat-square&color=blue)](https://github.com/iamtouchskyer/opc/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iamtouchskyer/opc?style=flat-square&color=yellow)](https://github.com/iamtouchskyer/opc/stargazers) [![Forks](https://img.shields.io/github/forks/iamtouchskyer/opc?style=flat-square&color=blue)](https://github.com/iamtouchskyer/opc/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > OPC — One Person Company. A full team in a single Claude Code skill. Adaptive agent orchestrator with 11 built-in roles, 4 modes, and adversarial quality control.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

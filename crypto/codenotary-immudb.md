@@ -1,6 +1,6 @@
 # codenotary/immudb
 
-[![Stars](https://img.shields.io/github/stars/codenotary/immudb?style=flat-square&color=yellow)](https://github.com/codenotary/immudb/stargazers) [![Forks](https://img.shields.io/github/forks/codenotary/immudb?style=flat-square&color=blue)](https://github.com/codenotary/immudb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codenotary/immudb?style=flat-square&color=yellow)](https://github.com/codenotary/immudb/stargazers) [![Forks](https://img.shields.io/github/forks/codenotary/immudb?style=flat-square&color=blue)](https://github.com/codenotary/immudb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 362 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

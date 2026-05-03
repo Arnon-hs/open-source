@@ -1,6 +1,6 @@
 # AnswerDotAI/nbdev
 
-[![Stars](https://img.shields.io/github/stars/AnswerDotAI/nbdev?style=flat-square&color=yellow)](https://github.com/AnswerDotAI/nbdev/stargazers) [![Forks](https://img.shields.io/github/forks/AnswerDotAI/nbdev?style=flat-square&color=blue)](https://github.com/AnswerDotAI/nbdev/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnswerDotAI/nbdev?style=flat-square&color=yellow)](https://github.com/AnswerDotAI/nbdev/stargazers) [![Forks](https://img.shields.io/github/forks/AnswerDotAI/nbdev?style=flat-square&color=blue)](https://github.com/AnswerDotAI/nbdev/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
 
 > Create delightful software with Jupyter Notebooks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 517 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 93/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # confluentinc/ksql
 
-[![Stars](https://img.shields.io/github/stars/confluentinc/ksql?style=flat-square&color=yellow)](https://github.com/confluentinc/ksql/stargazers) [![Forks](https://img.shields.io/github/forks/confluentinc/ksql?style=flat-square&color=blue)](https://github.com/confluentinc/ksql/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/confluentinc/ksql?style=flat-square&color=yellow)](https://github.com/confluentinc/ksql/stargazers) [![Forks](https://img.shields.io/github/forks/confluentinc/ksql?style=flat-square&color=blue)](https://github.com/confluentinc/ksql/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The database purpose-built for stream processing applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

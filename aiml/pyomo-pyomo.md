@@ -1,6 +1,6 @@
 # Pyomo/pyomo
 
-[![Stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=flat-square&color=yellow)](https://github.com/Pyomo/pyomo/stargazers) [![Forks](https://img.shields.io/github/forks/Pyomo/pyomo?style=flat-square&color=blue)](https://github.com/Pyomo/pyomo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=flat-square&color=yellow)](https://github.com/Pyomo/pyomo/stargazers) [![Forks](https://img.shields.io/github/forks/Pyomo/pyomo?style=flat-square&color=blue)](https://github.com/Pyomo/pyomo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > An object-oriented algebraic modeling language in Python for structured optimization problems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 577 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

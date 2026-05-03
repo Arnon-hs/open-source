@@ -1,6 +1,6 @@
 # AdaCore/spark2014
 
-[![Stars](https://img.shields.io/github/stars/AdaCore/spark2014?style=flat-square&color=yellow)](https://github.com/AdaCore/spark2014/stargazers) [![Forks](https://img.shields.io/github/forks/AdaCore/spark2014?style=flat-square&color=blue)](https://github.com/AdaCore/spark2014/network) [![Language](https://img.shields.io/badge/lang-Ada-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AdaCore/spark2014?style=flat-square&color=yellow)](https://github.com/AdaCore/spark2014/stargazers) [![Forks](https://img.shields.io/github/forks/AdaCore/spark2014?style=flat-square&color=blue)](https://github.com/AdaCore/spark2014/network) [![Language](https://img.shields.io/badge/lang-Ada-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > SPARK 2014 is the new version of SPARK, a software development technology specifically designed for engineering high-reliability applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Ada |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

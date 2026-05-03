@@ -19,8 +19,8 @@
 | 9 | [liuchong/awesome-roadmaps](./liuchong-awesome-roadmaps.md) | ⭐ 6.9k | — | 88/100 |
 | 10 | [johnste/finicky](./johnste-finicky.md) | ⭐ 4.8k | Go | 86/100 |
 | 11 | [dreamworksanimation/openmoonray](./dreamworksanimation-openmoonray.md) | ⭐ 4.6k | CMake | 77/100 |
-| 12 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 71/100 |
-| 13 | [git-town/git-town](./git-town-git-town.md) | ⭐ 3.2k | Gherkin | 71/100 |
+| 12 | [git-town/git-town](./git-town-git-town.md) | ⭐ 3.2k | Gherkin | 71/100 |
+| 13 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 71/100 |
 | 14 | [NVIDIA/cuda-python](./nvidia-cuda-python.md) | ⭐ 3.2k | Cython | 67/100 |
 | 15 | [beam-community/elixir-companies](./beam-community-elixir-companies.md) | ⭐ 1.7k | Astro | 63/100 |
 | 16 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 698 | Rust | 56/100 |

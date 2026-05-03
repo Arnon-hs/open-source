@@ -1,6 +1,6 @@
 # flyingpie/windows-terminal-quake
 
-[![Stars](https://img.shields.io/github/stars/flyingpie/windows-terminal-quake?style=flat-square&color=yellow)](https://github.com/flyingpie/windows-terminal-quake/stargazers) [![Forks](https://img.shields.io/github/forks/flyingpie/windows-terminal-quake?style=flat-square&color=blue)](https://github.com/flyingpie/windows-terminal-quake/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flyingpie/windows-terminal-quake?style=flat-square&color=yellow)](https://github.com/flyingpie/windows-terminal-quake/stargazers) [![Forks](https://img.shields.io/github/forks/flyingpie/windows-terminal-quake?style=flat-square&color=blue)](https://github.com/flyingpie/windows-terminal-quake/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Enable Quake-style dropdown for (almost) any application.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 759 |
+| ⭐ **Stars** | 760 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

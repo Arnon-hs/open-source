@@ -1,6 +1,6 @@
 # The-AI-Alliance/gofannon
 
-[![Stars](https://img.shields.io/github/stars/The-AI-Alliance/gofannon?style=flat-square&color=yellow)](https://github.com/The-AI-Alliance/gofannon/stargazers) [![Forks](https://img.shields.io/github/forks/The-AI-Alliance/gofannon?style=flat-square&color=blue)](https://github.com/The-AI-Alliance/gofannon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/The-AI-Alliance/gofannon?style=flat-square&color=yellow)](https://github.com/The-AI-Alliance/gofannon/stargazers) [![Forks](https://img.shields.io/github/forks/The-AI-Alliance/gofannon?style=flat-square&color=blue)](https://github.com/The-AI-Alliance/gofannon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A web app for rapidly prototyping AI agents and the lightweight web UIs that wrap them—build flows, preview interactions, and share agent-driven experiences without lock-in.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

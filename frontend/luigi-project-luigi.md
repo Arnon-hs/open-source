@@ -1,6 +1,6 @@
 # luigi-project/luigi
 
-[![Stars](https://img.shields.io/github/stars/luigi-project/luigi?style=flat-square&color=yellow)](https://github.com/luigi-project/luigi/stargazers) [![Forks](https://img.shields.io/github/forks/luigi-project/luigi?style=flat-square&color=blue)](https://github.com/luigi-project/luigi/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luigi-project/luigi?style=flat-square&color=yellow)](https://github.com/luigi-project/luigi/stargazers) [![Forks](https://img.shields.io/github/forks/luigi-project/luigi?style=flat-square&color=blue)](https://github.com/luigi-project/luigi/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Micro frontend framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 915 |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

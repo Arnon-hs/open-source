@@ -1,6 +1,6 @@
 # Opisek/luna
 
-[![Stars](https://img.shields.io/github/stars/Opisek/luna?style=flat-square&color=yellow)](https://github.com/Opisek/luna/stargazers) [![Forks](https://img.shields.io/github/forks/Opisek/luna?style=flat-square&color=blue)](https://github.com/Opisek/luna/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Opisek/luna?style=flat-square&color=yellow)](https://github.com/Opisek/luna/stargazers) [![Forks](https://img.shields.io/github/forks/Opisek/luna?style=flat-square&color=blue)](https://github.com/Opisek/luna/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Self-Hosted Calendar Aggregator and Frontend
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 334 |
+| ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

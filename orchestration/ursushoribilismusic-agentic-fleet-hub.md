@@ -1,6 +1,6 @@
 # UrsushoribilisMusic/agentic-fleet-hub
 
-[![Stars](https://img.shields.io/github/stars/UrsushoribilisMusic/agentic-fleet-hub?style=flat-square&color=yellow)](https://github.com/UrsushoribilisMusic/agentic-fleet-hub/stargazers) [![Forks](https://img.shields.io/github/forks/UrsushoribilisMusic/agentic-fleet-hub?style=flat-square&color=blue)](https://github.com/UrsushoribilisMusic/agentic-fleet-hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UrsushoribilisMusic/agentic-fleet-hub?style=flat-square&color=yellow)](https://github.com/UrsushoribilisMusic/agentic-fleet-hub/stargazers) [![Forks](https://img.shields.io/github/forks/UrsushoribilisMusic/agentic-fleet-hub?style=flat-square&color=blue)](https://github.com/UrsushoribilisMusic/agentic-fleet-hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted orchestration layer for autonomous AI agent teams. Shared memory, heartbeat scheduling, vault-first secrets, and cross-model peer review — one command to deploy.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 64 |
-| 🍴 **Forks** | 3 |
+| 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

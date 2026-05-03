@@ -1,6 +1,6 @@
 # Fajar-RahmadJaya/KeyTik
 
-[![Stars](https://img.shields.io/github/stars/Fajar-RahmadJaya/KeyTik?style=flat-square&color=yellow)](https://github.com/Fajar-RahmadJaya/KeyTik/stargazers) [![Forks](https://img.shields.io/github/forks/Fajar-RahmadJaya/KeyTik?style=flat-square&color=blue)](https://github.com/Fajar-RahmadJaya/KeyTik/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fajar-RahmadJaya/KeyTik?style=flat-square&color=yellow)](https://github.com/Fajar-RahmadJaya/KeyTik/stargazers) [![Forks](https://img.shields.io/github/forks/Fajar-RahmadJaya/KeyTik?style=flat-square&color=blue)](https://github.com/Fajar-RahmadJaya/KeyTik/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A Powerful Multi-Profile Key Mapper, Clicker, Macro, and More.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
