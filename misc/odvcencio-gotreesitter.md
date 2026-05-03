@@ -1,6 +1,6 @@
 # odvcencio/gotreesitter
 
-[![Stars](https://img.shields.io/github/stars/odvcencio/gotreesitter?style=flat-square&color=yellow)](https://github.com/odvcencio/gotreesitter/stargazers) [![Forks](https://img.shields.io/github/forks/odvcencio/gotreesitter?style=flat-square&color=blue)](https://github.com/odvcencio/gotreesitter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/odvcencio/gotreesitter?style=flat-square&color=yellow)](https://github.com/odvcencio/gotreesitter/stargazers) [![Forks](https://img.shields.io/github/forks/odvcencio/gotreesitter?style=flat-square&color=blue)](https://github.com/odvcencio/gotreesitter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Pure Go tree-sitter runtime
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 473 |
+| ⭐ **Stars** | 474 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # rocket-pool/smartnode
 
-[![Stars](https://img.shields.io/github/stars/rocket-pool/smartnode?style=flat-square&color=yellow)](https://github.com/rocket-pool/smartnode/stargazers) [![Forks](https://img.shields.io/github/forks/rocket-pool/smartnode?style=flat-square&color=blue)](https://github.com/rocket-pool/smartnode/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rocket-pool/smartnode?style=flat-square&color=yellow)](https://github.com/rocket-pool/smartnode/stargazers) [![Forks](https://img.shields.io/github/forks/rocket-pool/smartnode?style=flat-square&color=blue)](https://github.com/rocket-pool/smartnode/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > The CLI package for Rocket Pool smart nodes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 175 |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

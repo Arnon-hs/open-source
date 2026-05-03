@@ -1,6 +1,6 @@
 # WordPress/performance
 
-[![Stars](https://img.shields.io/github/stars/WordPress/performance?style=flat-square&color=yellow)](https://github.com/WordPress/performance/stargazers) [![Forks](https://img.shields.io/github/forks/WordPress/performance?style=flat-square&color=blue)](https://github.com/WordPress/performance/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WordPress/performance?style=flat-square&color=yellow)](https://github.com/WordPress/performance/stargazers) [![Forks](https://img.shields.io/github/forks/WordPress/performance?style=flat-square&color=blue)](https://github.com/WordPress/performance/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Performance plugin from the WordPress Performance Group, which is a collection of standalone performance modules.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # dragonflyoss/nydus
 
-[![Stars](https://img.shields.io/github/stars/dragonflyoss/nydus?style=flat-square&color=yellow)](https://github.com/dragonflyoss/nydus/stargazers) [![Forks](https://img.shields.io/github/forks/dragonflyoss/nydus?style=flat-square&color=blue)](https://github.com/dragonflyoss/nydus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dragonflyoss/nydus?style=flat-square&color=yellow)](https://github.com/dragonflyoss/nydus/stargazers) [![Forks](https://img.shields.io/github/forks/dragonflyoss/nydus?style=flat-square&color=blue)](https://github.com/dragonflyoss/nydus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 256 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

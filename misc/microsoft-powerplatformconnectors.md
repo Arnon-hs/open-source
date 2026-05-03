@@ -1,6 +1,6 @@
 # microsoft/PowerPlatformConnectors
 
-[![Stars](https://img.shields.io/github/stars/microsoft/PowerPlatformConnectors?style=flat-square&color=yellow)](https://github.com/microsoft/PowerPlatformConnectors/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/PowerPlatformConnectors?style=flat-square&color=blue)](https://github.com/microsoft/PowerPlatformConnectors/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/PowerPlatformConnectors?style=flat-square&color=yellow)](https://github.com/microsoft/PowerPlatformConnectors/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/PowerPlatformConnectors?style=flat-square&color=blue)](https://github.com/microsoft/PowerPlatformConnectors/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

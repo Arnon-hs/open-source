@@ -1,6 +1,6 @@
 # pierreyoda/hncli
 
-[![Stars](https://img.shields.io/github/stars/pierreyoda/hncli?style=flat-square&color=yellow)](https://github.com/pierreyoda/hncli/stargazers) [![Forks](https://img.shields.io/github/forks/pierreyoda/hncli?style=flat-square&color=blue)](https://github.com/pierreyoda/hncli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pierreyoda/hncli?style=flat-square&color=yellow)](https://github.com/pierreyoda/hncli/stargazers) [![Forks](https://img.shields.io/github/forks/pierreyoda/hncli?style=flat-square&color=blue)](https://github.com/pierreyoda/hncli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A Terminal User Interface-based application for browsing Hacker News, written in :crab: Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

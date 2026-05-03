@@ -1,6 +1,6 @@
 # GoogleChrome/chromium-dashboard
 
-[![Stars](https://img.shields.io/github/stars/GoogleChrome/chromium-dashboard?style=flat-square&color=yellow)](https://github.com/GoogleChrome/chromium-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleChrome/chromium-dashboard?style=flat-square&color=blue)](https://github.com/GoogleChrome/chromium-dashboard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleChrome/chromium-dashboard?style=flat-square&color=yellow)](https://github.com/GoogleChrome/chromium-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleChrome/chromium-dashboard?style=flat-square&color=blue)](https://github.com/GoogleChrome/chromium-dashboard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Chrome Status Dashboard
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 723 |
 | 🍴 **Forks** | 495 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

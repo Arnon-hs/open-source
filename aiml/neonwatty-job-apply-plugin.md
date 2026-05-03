@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The neonwatty/job-apply-plugin is an open-source project that utilizes AI capabilities to simplify the job application process. This plugin is specifically designed for Claude Code, allowing users to efficiently fill out job applications on platforms such as LinkedIn, Greenhouse, Ashby, and Workday. By streamlining this process, the project aims to enhance the job search experience for users.
+The neonwatty/job-apply-plugin is an open-source project that utilizes AI technology to automate the job application process for users of Claude Code, a code-based productivity tool. This plugin enables seamless integration with popular employment platforms such as LinkedIn, Greenhouse, Ashby, and Workday, streamlining the job application experience. By leveraging AI, the plugin aims to simplify and accelerate the job search process for its users.
 
 ---
 

@@ -1,6 +1,6 @@
 # skridlevsky/graphthulhu
 
-[![Stars](https://img.shields.io/github/stars/skridlevsky/graphthulhu?style=flat-square&color=yellow)](https://github.com/skridlevsky/graphthulhu/stargazers) [![Forks](https://img.shields.io/github/forks/skridlevsky/graphthulhu?style=flat-square&color=blue)](https://github.com/skridlevsky/graphthulhu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skridlevsky/graphthulhu?style=flat-square&color=yellow)](https://github.com/skridlevsky/graphthulhu/stargazers) [![Forks](https://img.shields.io/github/forks/skridlevsky/graphthulhu?style=flat-square&color=blue)](https://github.com/skridlevsky/graphthulhu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that gives AI full access to your Logseq or Obsidian knowledge graph. 39 tools for navigation, search, analysis, writing, decisions, journals, flashcards, and whiteboards.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

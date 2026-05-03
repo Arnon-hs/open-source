@@ -1,6 +1,6 @@
 # puritysb/AgentDeck
 
-[![Stars](https://img.shields.io/github/stars/puritysb/AgentDeck?style=flat-square&color=yellow)](https://github.com/puritysb/AgentDeck/stargazers) [![Forks](https://img.shields.io/github/forks/puritysb/AgentDeck?style=flat-square&color=blue)](https://github.com/puritysb/AgentDeck/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/puritysb/AgentDeck?style=flat-square&color=yellow)](https://github.com/puritysb/AgentDeck/stargazers) [![Forks](https://img.shields.io/github/forks/puritysb/AgentDeck?style=flat-square&color=blue)](https://github.com/puritysb/AgentDeck/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Physical controller & multi-surface dashboard for AI coding agents — Stream Deck+, Android, iOS/macOS, ESP32 displays, TUI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | C |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,17 +1,17 @@
 # Chadi00/thr
 
-[![Stars](https://img.shields.io/github/stars/Chadi00/thr?style=flat-square&color=yellow)](https://github.com/Chadi00/thr/stargazers) [![Forks](https://img.shields.io/github/forks/Chadi00/thr?style=flat-square&color=blue)](https://github.com/Chadi00/thr/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chadi00/thr?style=flat-square&color=yellow)](https://github.com/Chadi00/thr/stargazers) [![Forks](https://img.shields.io/github/forks/Chadi00/thr?style=flat-square&color=blue)](https://github.com/Chadi00/thr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> local semantic memory for your terminal and coding agents
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 

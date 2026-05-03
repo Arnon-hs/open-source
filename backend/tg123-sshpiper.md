@@ -1,6 +1,6 @@
 # tg123/sshpiper
 
-[![Stars](https://img.shields.io/github/stars/tg123/sshpiper?style=flat-square&color=yellow)](https://github.com/tg123/sshpiper/stargazers) [![Forks](https://img.shields.io/github/forks/tg123/sshpiper?style=flat-square&color=blue)](https://github.com/tg123/sshpiper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tg123/sshpiper?style=flat-square&color=yellow)](https://github.com/tg123/sshpiper/stargazers) [![Forks](https://img.shields.io/github/forks/tg123/sshpiper?style=flat-square&color=blue)](https://github.com/tg123/sshpiper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The missing reverse proxy for ssh scp
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 161 |
+| 🍴 **Forks** | 162 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

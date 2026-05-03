@@ -1,6 +1,6 @@
 # sivaprasadreddy/sivalabs-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/sivaprasadreddy/sivalabs-agent-skills?style=flat-square&color=yellow)](https://github.com/sivaprasadreddy/sivalabs-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/sivaprasadreddy/sivalabs-agent-skills?style=flat-square&color=blue)](https://github.com/sivaprasadreddy/sivalabs-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sivaprasadreddy/sivalabs-agent-skills?style=flat-square&color=yellow)](https://github.com/sivaprasadreddy/sivalabs-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/sivaprasadreddy/sivalabs-agent-skills?style=flat-square&color=blue)](https://github.com/sivaprasadreddy/sivalabs-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Spring Boot skills for AI coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

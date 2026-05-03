@@ -1,6 +1,6 @@
 # ashishb/adb-enhanced
 
-[![Stars](https://img.shields.io/github/stars/ashishb/adb-enhanced?style=flat-square&color=yellow)](https://github.com/ashishb/adb-enhanced/stargazers) [![Forks](https://img.shields.io/github/forks/ashishb/adb-enhanced?style=flat-square&color=blue)](https://github.com/ashishb/adb-enhanced/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ashishb/adb-enhanced?style=flat-square&color=yellow)](https://github.com/ashishb/adb-enhanced/stargazers) [![Forks](https://img.shields.io/github/forks/ashishb/adb-enhanced?style=flat-square&color=blue)](https://github.com/ashishb/adb-enhanced/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🔪Swiss-army knife for Android testing and development 🔪 ⛺
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

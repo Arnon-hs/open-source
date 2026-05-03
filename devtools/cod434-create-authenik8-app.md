@@ -1,6 +1,6 @@
 # COD434/create-authenik8-app
 
-[![Stars](https://img.shields.io/github/stars/COD434/create-authenik8-app?style=flat-square&color=yellow)](https://github.com/COD434/create-authenik8-app/stargazers) [![Forks](https://img.shields.io/github/forks/COD434/create-authenik8-app?style=flat-square&color=blue)](https://github.com/COD434/create-authenik8-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/COD434/create-authenik8-app?style=flat-square&color=yellow)](https://github.com/COD434/create-authenik8-app/stargazers) [![Forks](https://img.shields.io/github/forks/COD434/create-authenik8-app?style=flat-square&color=blue)](https://github.com/COD434/create-authenik8-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight authentication infrastructure generator powered by an internal Identity Engine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

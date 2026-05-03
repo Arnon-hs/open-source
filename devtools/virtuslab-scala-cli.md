@@ -1,6 +1,6 @@
 # VirtusLab/scala-cli
 
-[![Stars](https://img.shields.io/github/stars/VirtusLab/scala-cli?style=flat-square&color=yellow)](https://github.com/VirtusLab/scala-cli/stargazers) [![Forks](https://img.shields.io/github/forks/VirtusLab/scala-cli?style=flat-square&color=blue)](https://github.com/VirtusLab/scala-cli/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VirtusLab/scala-cli?style=flat-square&color=yellow)](https://github.com/VirtusLab/scala-cli/stargazers) [![Forks](https://img.shields.io/github/forks/VirtusLab/scala-cli?style=flat-square&color=blue)](https://github.com/VirtusLab/scala-cli/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 634 |
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

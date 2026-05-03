@@ -1,6 +1,6 @@
 # ginuim/skill-base
 
-[![Stars](https://img.shields.io/github/stars/ginuim/skill-base?style=flat-square&color=yellow)](https://github.com/ginuim/skill-base/stargazers) [![Forks](https://img.shields.io/github/forks/ginuim/skill-base?style=flat-square&color=blue)](https://github.com/ginuim/skill-base/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ginuim/skill-base?style=flat-square&color=yellow)](https://github.com/ginuim/skill-base/stargazers) [![Forks](https://img.shields.io/github/forks/ginuim/skill-base?style=flat-square&color=blue)](https://github.com/ginuim/skill-base/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Private Skill distribution platform for AI coding agents: publish, install, update, and rollback team skills across Cursor, Claude Code, Codex, and OpenClaw with a minimal server + skb CLI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14 |
+| ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

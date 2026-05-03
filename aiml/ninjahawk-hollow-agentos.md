@@ -1,6 +1,6 @@
 # ninjahawk/hollow-agentOS
 
-[![Stars](https://img.shields.io/github/stars/ninjahawk/hollow-agentOS?style=flat-square&color=yellow)](https://github.com/ninjahawk/hollow-agentOS/stargazers) [![Forks](https://img.shields.io/github/forks/ninjahawk/hollow-agentOS?style=flat-square&color=blue)](https://github.com/ninjahawk/hollow-agentOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ninjahawk/hollow-agentOS?style=flat-square&color=yellow)](https://github.com/ninjahawk/hollow-agentOS/stargazers) [![Forks](https://img.shields.io/github/forks/ninjahawk/hollow-agentOS?style=flat-square&color=blue)](https://github.com/ninjahawk/hollow-agentOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Hollow is an open-sourced self-modifying agentic system for consumer hardware
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 161 |
-| 🍴 **Forks** | 18 |
+| ⭐ **Stars** | 174 |
+| 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

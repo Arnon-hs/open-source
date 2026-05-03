@@ -1,6 +1,6 @@
 # rust-lang/rustc_codegen_gcc
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/rustc_codegen_gcc?style=flat-square&color=yellow)](https://github.com/rust-lang/rustc_codegen_gcc/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rustc_codegen_gcc?style=flat-square&color=blue)](https://github.com/rust-lang/rustc_codegen_gcc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/rustc_codegen_gcc?style=flat-square&color=yellow)](https://github.com/rust-lang/rustc_codegen_gcc/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rustc_codegen_gcc?style=flat-square&color=blue)](https://github.com/rust-lang/rustc_codegen_gcc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > libgccjit AOT codegen for rustc
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, "tacky-borders," offers customizable borders for Windows 11 and 10, allowing users to personalize the appearance of their desktop experience. The project aims to provide a flexible and user-friendly solution for modifying the borders to suit individual preferences. By leveraging this tool, users can enhance their Windows environment with unique and tailored visuals.
+The "tacky-borders" project offers customizable borders for Windows 11 and 10, allowing users to personalize their desktop experience. This open-source tool provides a simple way to change the appearance of your window borders, giving you more control over the look and feel of your operating system. With "tacky-borders," you can tailor your Windows environment to suit your unique style and preferences.
 
 ---
 

@@ -1,6 +1,6 @@
 # raroque/boop-agent
 
-[![Stars](https://img.shields.io/github/stars/raroque/boop-agent?style=flat-square&color=yellow)](https://github.com/raroque/boop-agent/stargazers) [![Forks](https://img.shields.io/github/forks/raroque/boop-agent?style=flat-square&color=blue)](https://github.com/raroque/boop-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raroque/boop-agent?style=flat-square&color=yellow)](https://github.com/raroque/boop-agent/stargazers) [![Forks](https://img.shields.io/github/forks/raroque/boop-agent?style=flat-square&color=blue)](https://github.com/raroque/boop-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Your new best friend 🐶 A proactive iMessage based agent built on the Claude Agent SDK (Ready to be customized with pre built multi-agent architecture, robust memory, automations, and integrations)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 726 |
-| 🍴 **Forks** | 159 |
+| ⭐ **Stars** | 729 |
+| 🍴 **Forks** | 161 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

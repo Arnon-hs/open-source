@@ -1,6 +1,6 @@
 # kootenpv/cliche
 
-[![Stars](https://img.shields.io/github/stars/kootenpv/cliche?style=flat-square&color=yellow)](https://github.com/kootenpv/cliche/stargazers) [![Forks](https://img.shields.io/github/forks/kootenpv/cliche?style=flat-square&color=blue)](https://github.com/kootenpv/cliche/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kootenpv/cliche?style=flat-square&color=yellow)](https://github.com/kootenpv/cliche/stargazers) [![Forks](https://img.shields.io/github/forks/kootenpv/cliche?style=flat-square&color=blue)](https://github.com/kootenpv/cliche/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Build a simple command-line interface from your functions :computer:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

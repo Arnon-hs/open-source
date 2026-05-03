@@ -1,6 +1,6 @@
 # conradkleinespel/rpassword
 
-[![Stars](https://img.shields.io/github/stars/conradkleinespel/rpassword?style=flat-square&color=yellow)](https://github.com/conradkleinespel/rpassword/stargazers) [![Forks](https://img.shields.io/github/forks/conradkleinespel/rpassword?style=flat-square&color=blue)](https://github.com/conradkleinespel/rpassword/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/conradkleinespel/rpassword?style=flat-square&color=yellow)](https://github.com/conradkleinespel/rpassword/stargazers) [![Forks](https://img.shields.io/github/forks/conradkleinespel/rpassword?style=flat-square&color=blue)](https://github.com/conradkleinespel/rpassword/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Cross platform Rust library to read a password in the terminal (Linux, BSD, MacOS, Windows, WASM).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 274 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

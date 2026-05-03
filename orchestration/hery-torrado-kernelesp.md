@@ -1,6 +1,6 @@
 # hery-torrado/KernelESP
 
-[![Stars](https://img.shields.io/github/stars/hery-torrado/KernelESP?style=flat-square&color=yellow)](https://github.com/hery-torrado/KernelESP/stargazers) [![Forks](https://img.shields.io/github/forks/hery-torrado/KernelESP?style=flat-square&color=blue)](https://github.com/hery-torrado/KernelESP/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hery-torrado/KernelESP?style=flat-square&color=yellow)](https://github.com/hery-torrado/KernelESP/stargazers) [![Forks](https://img.shields.io/github/forks/hery-torrado/KernelESP?style=flat-square&color=blue)](https://github.com/hery-torrado/KernelESP/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > ESP8266 UNIX-like control system with serial shell, web UI, automation, mail alerts and diagnostics
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

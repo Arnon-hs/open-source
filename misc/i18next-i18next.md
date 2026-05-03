@@ -1,6 +1,6 @@
 # i18next/i18next
 
-[![Stars](https://img.shields.io/github/stars/i18next/i18next?style=flat-square&color=yellow)](https://github.com/i18next/i18next/stargazers) [![Forks](https://img.shields.io/github/forks/i18next/i18next?style=flat-square&color=blue)](https://github.com/i18next/i18next/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/i18next/i18next?style=flat-square&color=yellow)](https://github.com/i18next/i18next/stargazers) [![Forks](https://img.shields.io/github/forks/i18next/i18next?style=flat-square&color=blue)](https://github.com/i18next/i18next/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > i18next: learn once - translate everywhere
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.6k |
 | 🍴 **Forks** | 686 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

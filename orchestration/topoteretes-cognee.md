@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/topoteretes/cognee?style=flat-square&color=yellow)](https://github.com/topoteretes/cognee/stargazers) [![Forks](https://img.shields.io/github/forks/topoteretes/cognee?style=flat-square&color=blue)](https://github.com/topoteretes/cognee/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> The memory for your AI Agents in 6 lines of code
+> The brain that gives your AI Agents memory in 6 lines of code
 
 ## 📊 Stats
 

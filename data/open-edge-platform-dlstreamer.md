@@ -1,6 +1,6 @@
 # open-edge-platform/dlstreamer
 
-[![Stars](https://img.shields.io/github/stars/open-edge-platform/dlstreamer?style=flat-square&color=yellow)](https://github.com/open-edge-platform/dlstreamer/stargazers) [![Forks](https://img.shields.io/github/forks/open-edge-platform/dlstreamer?style=flat-square&color=blue)](https://github.com/open-edge-platform/dlstreamer/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-edge-platform/dlstreamer?style=flat-square&color=yellow)](https://github.com/open-edge-platform/dlstreamer/stargazers) [![Forks](https://img.shields.io/github/forks/open-edge-platform/dlstreamer?style=flat-square&color=blue)](https://github.com/open-edge-platform/dlstreamer/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Deep Learning Streamer (DL Streamer) Pipeline Framework is an open-source streaming media analytics framework, based on GStreamer* multimedia framework, for creating complex media analytics pipelines for the Cloud or at the Edge.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 603 |
 | 🍴 **Forks** | 193 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

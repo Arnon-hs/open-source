@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, kkirchheim/pytorch-ood, provides a PyTorch implementation of out-of-distribution (OOD) detection techniques. It enables users to identify when a model is uncertain or predicting outside its domain of expertise, adding a layer of robustness to machine learning models. By utilizing various OOD detection methods, this project facilitates the development of more reliable and secure AI systems.
+The kkirchheim/pytorch-ood project provides a PyTorch implementation of out-of-distribution (OOD) detection methods, enabling developers to identify when their models generate unpredictable or unrealistic outputs. This open-source library supports various OOD detection techniques, facilitating the development of robust and reliable machine learning models. By using kkirchheim/pytorch-ood, users can improve the reliability and interpretability of their deep learning models.
 
 ---
 

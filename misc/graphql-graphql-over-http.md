@@ -1,6 +1,6 @@
 # graphql/graphql-over-http
 
-[![Stars](https://img.shields.io/github/stars/graphql/graphql-over-http?style=flat-square&color=yellow)](https://github.com/graphql/graphql-over-http/stargazers) [![Forks](https://img.shields.io/github/forks/graphql/graphql-over-http?style=flat-square&color=blue)](https://github.com/graphql/graphql-over-http/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/graphql/graphql-over-http?style=flat-square&color=yellow)](https://github.com/graphql/graphql-over-http/stargazers) [![Forks](https://img.shields.io/github/forks/graphql/graphql-over-http?style=flat-square&color=blue)](https://github.com/graphql/graphql-over-http/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Working draft of "GraphQL over HTTP" specification
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 422 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

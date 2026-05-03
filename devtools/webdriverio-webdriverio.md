@@ -1,6 +1,6 @@
 # webdriverio/webdriverio
 
-[![Stars](https://img.shields.io/github/stars/webdriverio/webdriverio?style=flat-square&color=yellow)](https://github.com/webdriverio/webdriverio/stargazers) [![Forks](https://img.shields.io/github/forks/webdriverio/webdriverio?style=flat-square&color=blue)](https://github.com/webdriverio/webdriverio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webdriverio/webdriverio?style=flat-square&color=yellow)](https://github.com/webdriverio/webdriverio/stargazers) [![Forks](https://img.shields.io/github/forks/webdriverio/webdriverio?style=flat-square&color=blue)](https://github.com/webdriverio/webdriverio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > Next-gen browser and mobile automation test framework for Node.js
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 100/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

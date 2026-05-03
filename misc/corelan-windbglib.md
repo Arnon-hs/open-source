@@ -1,6 +1,6 @@
 # corelan/windbglib
 
-[![Stars](https://img.shields.io/github/stars/corelan/windbglib?style=flat-square&color=yellow)](https://github.com/corelan/windbglib/stargazers) [![Forks](https://img.shields.io/github/forks/corelan/windbglib?style=flat-square&color=blue)](https://github.com/corelan/windbglib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/corelan/windbglib?style=flat-square&color=yellow)](https://github.com/corelan/windbglib/stargazers) [![Forks](https://img.shields.io/github/forks/corelan/windbglib?style=flat-square&color=blue)](https://github.com/corelan/windbglib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Public repository for windbglib, a wrapper around pykd.pyd (for Windbg), used by mona.py
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 333 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

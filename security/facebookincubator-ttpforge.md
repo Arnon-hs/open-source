@@ -1,6 +1,6 @@
 # facebookincubator/TTPForge
 
-[![Stars](https://img.shields.io/github/stars/facebookincubator/TTPForge?style=flat-square&color=yellow)](https://github.com/facebookincubator/TTPForge/stargazers) [![Forks](https://img.shields.io/github/forks/facebookincubator/TTPForge?style=flat-square&color=blue)](https://github.com/facebookincubator/TTPForge/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebookincubator/TTPForge?style=flat-square&color=yellow)](https://github.com/facebookincubator/TTPForge/stargazers) [![Forks](https://img.shields.io/github/forks/facebookincubator/TTPForge?style=flat-square&color=blue)](https://github.com/facebookincubator/TTPForge/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > The TTPForge is a Cybersecurity Framework for developing, automating, and executing attacker Tactics, Techniques, and Procedures (TTPs).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 420 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

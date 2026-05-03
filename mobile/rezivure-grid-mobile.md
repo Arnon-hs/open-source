@@ -1,6 +1,6 @@
 # Rezivure/Grid-Mobile
 
-[![Stars](https://img.shields.io/github/stars/Rezivure/Grid-Mobile?style=flat-square&color=yellow)](https://github.com/Rezivure/Grid-Mobile/stargazers) [![Forks](https://img.shields.io/github/forks/Rezivure/Grid-Mobile?style=flat-square&color=blue)](https://github.com/Rezivure/Grid-Mobile/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rezivure/Grid-Mobile?style=flat-square&color=yellow)](https://github.com/Rezivure/Grid-Mobile/stargazers) [![Forks](https://img.shields.io/github/forks/Rezivure/Grid-Mobile?style=flat-square&color=blue)](https://github.com/Rezivure/Grid-Mobile/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Grid: Private Location Sharing mobile app for iOS/Android. E2EE with Matrix.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 468 |
+| ⭐ **Stars** | 469 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

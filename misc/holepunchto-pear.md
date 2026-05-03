@@ -1,6 +1,6 @@
 # holepunchto/pear
 
-[![Stars](https://img.shields.io/github/stars/holepunchto/pear?style=flat-square&color=yellow)](https://github.com/holepunchto/pear/stargazers) [![Forks](https://img.shields.io/github/forks/holepunchto/pear?style=flat-square&color=blue)](https://github.com/holepunchto/pear/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/holepunchto/pear?style=flat-square&color=yellow)](https://github.com/holepunchto/pear/stargazers) [![Forks](https://img.shields.io/github/forks/holepunchto/pear?style=flat-square&color=blue)](https://github.com/holepunchto/pear/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > combined Peer-to-Peer (P2P) Runtime, Development & Deployment tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 241 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

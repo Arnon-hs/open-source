@@ -1,6 +1,6 @@
 # openclaw/crabbox
 
-[![Stars](https://img.shields.io/github/stars/openclaw/crabbox?style=flat-square&color=yellow)](https://github.com/openclaw/crabbox/stargazers) [![Forks](https://img.shields.io/github/forks/openclaw/crabbox?style=flat-square&color=blue)](https://github.com/openclaw/crabbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openclaw/crabbox?style=flat-square&color=yellow)](https://github.com/openclaw/crabbox/stargazers) [![Forks](https://img.shields.io/github/forks/openclaw/crabbox?style=flat-square&color=blue)](https://github.com/openclaw/crabbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Crabbox: warm a box, sync the diff, run the suite.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 142 |
-| 🍴 **Forks** | 16 |
+| ⭐ **Stars** | 148 |
+| 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

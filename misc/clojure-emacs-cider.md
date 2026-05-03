@@ -1,6 +1,6 @@
 # clojure-emacs/cider
 
-[![Stars](https://img.shields.io/github/stars/clojure-emacs/cider?style=flat-square&color=yellow)](https://github.com/clojure-emacs/cider/stargazers) [![Forks](https://img.shields.io/github/forks/clojure-emacs/cider?style=flat-square&color=blue)](https://github.com/clojure-emacs/cider/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clojure-emacs/cider?style=flat-square&color=yellow)](https://github.com/clojure-emacs/cider/stargazers) [![Forks](https://img.shields.io/github/forks/clojure-emacs/cider?style=flat-square&color=blue)](https://github.com/clojure-emacs/cider/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > The Clojure Interactive Development Environment that Rocks for Emacs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 652 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

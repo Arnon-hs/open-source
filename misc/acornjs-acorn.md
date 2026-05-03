@@ -1,6 +1,6 @@
 # acornjs/acorn
 
-[![Stars](https://img.shields.io/github/stars/acornjs/acorn?style=flat-square&color=yellow)](https://github.com/acornjs/acorn/stargazers) [![Forks](https://img.shields.io/github/forks/acornjs/acorn?style=flat-square&color=blue)](https://github.com/acornjs/acorn/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/acornjs/acorn?style=flat-square&color=yellow)](https://github.com/acornjs/acorn/stargazers) [![Forks](https://img.shields.io/github/forks/acornjs/acorn?style=flat-square&color=blue)](https://github.com/acornjs/acorn/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > A small, fast, JavaScript-based JavaScript parser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.4k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

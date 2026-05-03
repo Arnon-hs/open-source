@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The ember-mcp project is an open-source effort that provides an MCP Server for use with Ember projects. This server enables advanced tooling and debugging capabilities, leveraging AI and machine learning to enhance the development experience. By integrating MCP into Ember projects, developers can gain deeper insights and streamline their development workflow.
+Here's a brief summary for the ember-mcp open-source project:
+
+Ember-mcp is an open-source project that provides an MCP (Meta-Configuration Protocol) server for use with Ember projects. It enables integration with various tooling and services, streamlining development workflows and enhancing the overall efficiency of Ember application development. This project is ideal for developers working on Ember projects who want to leverage the benefits of MCP-based tooling and automation.
 
 ---
 

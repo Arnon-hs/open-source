@@ -8,10 +8,10 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ShareX/ShareX](./sharex-sharex.md) | ⭐ 37.1k | C# | 100/100 |
-| 2 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
-| 3 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.8k | C# | 100/100 |
-| 4 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
+| 1 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
+| 2 | [ShareX/ShareX](./sharex-sharex.md) | ⭐ 37.1k | C# | 100/100 |
+| 3 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
+| 4 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.8k | C# | 100/100 |
 | 5 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.6k | Clojure | 100/100 |
 | 6 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122.4k | TypeScript | 99/100 |
 | 7 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.9k | C++ | 96/100 |
@@ -34,8 +34,8 @@
 | 24 | [ralfbiedert/interoptopus](./ralfbiedert-interoptopus.md) | ⭐ 464 | Rust | 48/100 |
 | 25 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
 | 26 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 47/100 |
-| 27 | [getsentry/relay](./getsentry-relay.md) | ⭐ 376 | Rust | 46/100 |
-| 28 | [eph5xx/tweakidea](./eph5xx-tweakidea.md) | ⭐ 14 | Python | 46/100 |
+| 27 | [eph5xx/tweakidea](./eph5xx-tweakidea.md) | ⭐ 14 | Python | 46/100 |
+| 28 | [getsentry/relay](./getsentry-relay.md) | ⭐ 376 | Rust | 46/100 |
 | 29 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 313 | Rust | 43/100 |
 | 30 | [verona-team/verona-atlas](./verona-team-verona-atlas.md) | ⭐ 16 | Python | 32/100 |
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15656** |
+| 🗂️ **Total projects** | **15688** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5836 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3244 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1535 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1147 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 958 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 931 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 532 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 5848 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3256 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1540 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1149 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 960 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 930 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 533 | [Browse →](./crypto/) |
 | 📊 **Data** | 355 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 336 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 216 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 335 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 217 | [Browse →](./mobile/) |
 | 💳 **Payments** | 164 | [Browse →](./payments/) |
-| 📈 **Trading** | 162 | [Browse →](./trading/) |
+| 📈 **Trading** | 161 | [Browse →](./trading/) |
 | 🔐 **Security** | 127 | [Browse →](./security/) |
 | ✨ **Design** | 52 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [utmapp/UTM](./aiml/utmapp-utm.md) | ⭐ 33.9k | AI/ML |
-| 2 | [reactos/reactos](./frontend/reactos-reactos.md) | ⭐ 17.5k | Frontend |
-| 3 | [flameshot-org/flameshot](./frontend/flameshot-org-flameshot.md) | ⭐ 29.8k | Frontend |
-| 4 | [Budibase/budibase](./orchestration/budibase-budibase.md) | ⭐ 27.9k | Orchestration |
-| 5 | [oapi-codegen/oapi-codegen](./backend/oapi-codegen-oapi-codegen.md) | ⭐ 8.3k | Backend |
-| 6 | [langchain-ai/open-swe](./orchestration/langchain-ai-open-swe.md) | ⭐ 9.7k | Orchestration |
-| 7 | [openvinotoolkit/openvino](./aiml/openvinotoolkit-openvino.md) | ⭐ 10.2k | AI/ML |
-| 8 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
-| 9 | [rook/rook](./orchestration/rook-rook.md) | ⭐ 13.5k | Orchestration |
-| 10 | [farion1231/cc-switch](./aiml/farion1231-cc-switch.md) | ⭐ 58.4k | AI/ML |
+| 2 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
+| 3 | [rook/rook](./orchestration/rook-rook.md) | ⭐ 13.5k | Orchestration |
+| 4 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 5 | [linshenkx/prompt-optimizer](./aiml/linshenkx-prompt-optimizer.md) | ⭐ 27.9k | AI/ML |
+| 6 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 38.4k | Orchestration |
+| 7 | [h2oai/h2o-3](./aiml/h2oai-h2o-3.md) | ⭐ 7.5k | AI/ML |
+| 8 | [Graylog2/graylog2-server](./backend/graylog2-graylog2-server.md) | ⭐ 8k | Backend |
+| 9 | [run-llama/llama_index](./orchestration/run-llama-llama-index.md) | ⭐ 49.1k | Orchestration |
+| 10 | [PrefectHQ/prefect](./orchestration/prefecthq-prefect.md) | ⭐ 22.3k | Orchestration |
 
 ## 🚀 How it works
 

@@ -1,6 +1,6 @@
 # ViperJuice/Code-Index-MCP
 
-[![Stars](https://img.shields.io/github/stars/ViperJuice/Code-Index-MCP?style=flat-square&color=yellow)](https://github.com/ViperJuice/Code-Index-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/ViperJuice/Code-Index-MCP?style=flat-square&color=blue)](https://github.com/ViperJuice/Code-Index-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ViperJuice/Code-Index-MCP?style=flat-square&color=yellow)](https://github.com/ViperJuice/Code-Index-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/ViperJuice/Code-Index-MCP?style=flat-square&color=blue)](https://github.com/ViperJuice/Code-Index-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Code indexing MCP server to provide context to coding agents.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 50 |
+| ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

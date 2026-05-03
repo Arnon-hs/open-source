@@ -1,6 +1,6 @@
 # minekube/gate
 
-[![Stars](https://img.shields.io/github/stars/minekube/gate?style=flat-square&color=yellow)](https://github.com/minekube/gate/stargazers) [![Forks](https://img.shields.io/github/forks/minekube/gate?style=flat-square&color=blue)](https://github.com/minekube/gate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minekube/gate?style=flat-square&color=yellow)](https://github.com/minekube/gate/stargazers) [![Forks](https://img.shields.io/github/forks/minekube/gate?style=flat-square&color=blue)](https://github.com/minekube/gate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large-scale deployments. Proven in production environments, powering our global Connect edge proxy network.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

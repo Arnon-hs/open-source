@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/lalitshankarch/rvcore?style=flat-square&color=yellow)](https://github.com/lalitshankarch/rvcore/stargazers) [![Forks](https://img.shields.io/github/forks/lalitshankarch/rvcore?style=flat-square&color=blue)](https://github.com/lalitshankarch/rvcore/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> RV32IM emulator that runs DOOM
+> RISC-V emulator that runs DOOM
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3 |
+| ⭐ **Stars** | 13 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 36/100 |

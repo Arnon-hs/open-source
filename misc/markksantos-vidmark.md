@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-VidMark is an open-source project that introduces frame.io-style timestamped comments to Google Drive. This functionality allows users to leave comments that are linked to specific points in time within a Google Drive video, enhancing collaboration and review processes. By integrating this feature, users can more efficiently communicate and provide feedback on video content stored in Google Drive.
+VidMark is an open-source project that enables timestamped comments on Google Drive videos, similar to Frame.io. This tool allows users to annotate specific moments in videos, making it easier to collaborate and provide feedback on video content. By utilizing Google Drive, VidMark integrates seamlessly with existing workflows and file management systems.
 
 ---
 

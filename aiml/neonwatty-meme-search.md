@@ -25,9 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the neonwatty/meme-search project:
-
-The neonwatty/meme-search is an open-source, self-hosted meme search engine and finder that leverages Python, Ruby, and Docker for local deployment. This free platform allows users to search, discover, and explore memes from the comfort of their own servers, providing a high degree of customization and control. By harnessing the power of AI and data, meme-search offers a unique and engaging experience for meme enthusiasts.
+The neonwatty/meme-search project is an open-source, self-hosted meme search engine and finder that can be easily deployed locally using Python, Ruby, and Docker. This free tool allows users to explore and discover memes without relying on external platforms, providing a decentralized and community-driven alternative. By leveraging AI/ML, frontend, and data technologies, meme-search empowers users to create and manage their own meme databases.
 
 ---
 

@@ -1,6 +1,6 @@
 # rishipratap10/memory-guardian
 
-[![Stars](https://img.shields.io/github/stars/rishipratap10/memory-guardian?style=flat-square&color=yellow)](https://github.com/rishipratap10/memory-guardian/stargazers) [![Forks](https://img.shields.io/github/forks/rishipratap10/memory-guardian?style=flat-square&color=blue)](https://github.com/rishipratap10/memory-guardian/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rishipratap10/memory-guardian?style=flat-square&color=yellow)](https://github.com/rishipratap10/memory-guardian/stargazers) [![Forks](https://img.shields.io/github/forks/rishipratap10/memory-guardian?style=flat-square&color=blue)](https://github.com/rishipratap10/memory-guardian/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3 |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

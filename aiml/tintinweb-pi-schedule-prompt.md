@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/tintinweb/pi-schedule-prompt?style=flat-square&color=yellow)](https://github.com/tintinweb/pi-schedule-prompt/stargazers) [![Forks](https://img.shields.io/github/forks/tintinweb/pi-schedule-prompt?style=flat-square&color=blue)](https://github.com/tintinweb/pi-schedule-prompt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> Pi's Heartbeat - Let AI agents schedule main agent or background prompts.
+> Pi's Heartbeat - Schedule recurring and one-shot main agent or background prompts with cron-like functionality
 
 ## 📊 Stats
 

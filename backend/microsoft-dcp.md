@@ -1,6 +1,6 @@
 # microsoft/dcp
 
-[![Stars](https://img.shields.io/github/stars/microsoft/dcp?style=flat-square&color=yellow)](https://github.com/microsoft/dcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/dcp?style=flat-square&color=blue)](https://github.com/microsoft/dcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/dcp?style=flat-square&color=yellow)](https://github.com/microsoft/dcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/dcp?style=flat-square&color=blue)](https://github.com/microsoft/dcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Developer Control Plane API server and CLI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

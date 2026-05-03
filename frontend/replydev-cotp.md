@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/replydev/cotp?style=flat-square&color=yellow)](https://github.com/replydev/cotp/stargazers) [![Forks](https://img.shields.io/github/forks/replydev/cotp?style=flat-square&color=blue)](https://github.com/replydev/cotp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
+> Encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 
 ## 📊 Stats
 

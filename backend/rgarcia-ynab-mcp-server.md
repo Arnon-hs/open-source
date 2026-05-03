@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-This project, rgarcia/ynab-mcp-server, is an open-source implementation of the YNAB (You Need a Budget) MCP (My Copilot) server with custom skills. It enables users to integrate YNAB with other applications and services, providing a more seamless and automated budgeting experience. By leveraging this project, developers can build custom integrations and workflows tailored to their specific needs.
+This open-source project, 'rgarcia/ynab-mcp-server', is a custom implementation of a YNAB (You Need a Budget) MCP (Money Centered Parent) server with tailored skills. It provides a backend solution for automating financial management tasks and integrating with the YNAB platform. Users can leverage this server to streamline their budgeting and financial workflows.
 
 ---
 

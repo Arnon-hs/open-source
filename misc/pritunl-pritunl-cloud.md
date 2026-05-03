@@ -1,6 +1,6 @@
 # pritunl/pritunl-cloud
 
-[![Stars](https://img.shields.io/github/stars/pritunl/pritunl-cloud?style=flat-square&color=yellow)](https://github.com/pritunl/pritunl-cloud/stargazers) [![Forks](https://img.shields.io/github/forks/pritunl/pritunl-cloud?style=flat-square&color=blue)](https://github.com/pritunl/pritunl-cloud/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pritunl/pritunl-cloud?style=flat-square&color=yellow)](https://github.com/pritunl/pritunl-cloud/stargazers) [![Forks](https://img.shields.io/github/forks/pritunl/pritunl-cloud?style=flat-square&color=blue)](https://github.com/pritunl/pritunl-cloud/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Private cloud virtualization platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Orchestration
 
 ## 📝 Summary
 
-The Wayle project is an open-source, compositor-agnostic shell that offers extensive customization capabilities. This shell is designed to provide users with a high degree of flexibility and control over their desktop environment. With Wayle, users can tailor their workspace to suit their specific needs and preferences.
+Wayle is an open-source, compositor-agnostic shell that provides a highly customizable environment for Wayland-based systems. It allows users to tailor their desktop experience with extensive configuration options, making it a versatile tool for developers and users alike. Wayle's flexibility and modularity enable seamless integration with various window managers and compositors.
 
 ---
 

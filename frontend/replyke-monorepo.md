@@ -1,6 +1,6 @@
 # replyke/monorepo
 
-[![Stars](https://img.shields.io/github/stars/replyke/monorepo?style=flat-square&color=yellow)](https://github.com/replyke/monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/replyke/monorepo?style=flat-square&color=blue)](https://github.com/replyke/monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/replyke/monorepo?style=flat-square&color=yellow)](https://github.com/replyke/monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/replyke/monorepo?style=flat-square&color=blue)](https://github.com/replyke/monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Replyke: An Open-Source Framework for Social Features. Build social apps faster with powerful API and SDKs for JavaScript, React, and React Native.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

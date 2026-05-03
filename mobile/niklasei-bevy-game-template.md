@@ -25,7 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-This open-source project provides a comprehensive Bevy game template, offering a versatile foundation for game development across multiple platforms, including web, Windows, Linux, macOS, iOS, and Android. The template includes a robust Continuous Integration/Continuous Deployment (CI/CD) pipeline to streamline development and deployment processes. With this template, developers can quickly set up and build their Bevy game projects, accelerating their workflow and reducing development time.
+This open-source project, NiklasEi/bevy_game_template, provides a comprehensive Bevy game template that supports cross-platform development for a variety of operating systems and mobile devices. The template includes Continuous Integration/Continuous Deployment (CI/CD) pipelines for web, Windows, Linux, macOS, iOS, and Android platforms, streamlining the development process. It serves as a starting point for creating games with Bevy, a popular Rust-based game engine.
 
 ---
 

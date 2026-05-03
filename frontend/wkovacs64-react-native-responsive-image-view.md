@@ -1,6 +1,6 @@
 # wKovacs64/react-native-responsive-image-view
 
-[![Stars](https://img.shields.io/github/stars/wKovacs64/react-native-responsive-image-view?style=flat-square&color=yellow)](https://github.com/wKovacs64/react-native-responsive-image-view/stargazers) [![Forks](https://img.shields.io/github/forks/wKovacs64/react-native-responsive-image-view?style=flat-square&color=blue)](https://github.com/wKovacs64/react-native-responsive-image-view/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wKovacs64/react-native-responsive-image-view?style=flat-square&color=yellow)](https://github.com/wKovacs64/react-native-responsive-image-view/stargazers) [![Forks](https://img.shields.io/github/forks/wKovacs64/react-native-responsive-image-view?style=flat-square&color=blue)](https://github.com/wKovacs64/react-native-responsive-image-view/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > React Native component for scaling an Image within the parent View
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 398 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

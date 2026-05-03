@@ -1,6 +1,6 @@
 # editor-code-assistant/eca-emacs
 
-[![Stars](https://img.shields.io/github/stars/editor-code-assistant/eca-emacs?style=flat-square&color=yellow)](https://github.com/editor-code-assistant/eca-emacs/stargazers) [![Forks](https://img.shields.io/github/forks/editor-code-assistant/eca-emacs?style=flat-square&color=blue)](https://github.com/editor-code-assistant/eca-emacs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/editor-code-assistant/eca-emacs?style=flat-square&color=yellow)](https://github.com/editor-code-assistant/eca-emacs/stargazers) [![Forks](https://img.shields.io/github/forks/editor-code-assistant/eca-emacs?style=flat-square&color=blue)](https://github.com/editor-code-assistant/eca-emacs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Editor Code Assistant (ECA) integration for Emacs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 407 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # prest/prest
 
-[![Stars](https://img.shields.io/github/stars/prest/prest?style=flat-square&color=yellow)](https://github.com/prest/prest/stargazers) [![Forks](https://img.shields.io/github/forks/prest/prest?style=flat-square&color=blue)](https://github.com/prest/prest/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prest/prest?style=flat-square&color=yellow)](https://github.com/prest/prest/stargazers) [![Forks](https://img.shields.io/github/forks/prest/prest?style=flat-square&color=blue)](https://github.com/prest/prest/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 301 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

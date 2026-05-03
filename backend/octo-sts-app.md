@@ -1,6 +1,6 @@
 # octo-sts/app
 
-[![Stars](https://img.shields.io/github/stars/octo-sts/app?style=flat-square&color=yellow)](https://github.com/octo-sts/app/stargazers) [![Forks](https://img.shields.io/github/forks/octo-sts/app?style=flat-square&color=blue)](https://github.com/octo-sts/app/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/octo-sts/app?style=flat-square&color=yellow)](https://github.com/octo-sts/app/stargazers) [![Forks](https://img.shields.io/github/forks/octo-sts/app?style=flat-square&color=blue)](https://github.com/octo-sts/app/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > A GitHub App that acts like a Security Token Service (STS) for the Github API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

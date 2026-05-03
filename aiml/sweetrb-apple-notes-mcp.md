@@ -1,6 +1,6 @@
 # sweetrb/apple-notes-mcp
 
-[![Stars](https://img.shields.io/github/stars/sweetrb/apple-notes-mcp?style=flat-square&color=yellow)](https://github.com/sweetrb/apple-notes-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sweetrb/apple-notes-mcp?style=flat-square&color=blue)](https://github.com/sweetrb/apple-notes-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sweetrb/apple-notes-mcp?style=flat-square&color=yellow)](https://github.com/sweetrb/apple-notes-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sweetrb/apple-notes-mcp?style=flat-square&color=blue)](https://github.com/sweetrb/apple-notes-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Apple Notes - create, search, update, and manage notes via Claude and other AI assistants
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

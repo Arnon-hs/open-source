@@ -1,6 +1,6 @@
 # vercel/chat
 
-[![Stars](https://img.shields.io/github/stars/vercel/chat?style=flat-square&color=yellow)](https://github.com/vercel/chat/stargazers) [![Forks](https://img.shields.io/github/forks/vercel/chat?style=flat-square&color=blue)](https://github.com/vercel/chat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vercel/chat?style=flat-square&color=yellow)](https://github.com/vercel/chat/stargazers) [![Forks](https://img.shields.io/github/forks/vercel/chat?style=flat-square&color=blue)](https://github.com/vercel/chat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 186 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

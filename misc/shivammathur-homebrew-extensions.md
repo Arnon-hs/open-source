@@ -1,6 +1,6 @@
 # shivammathur/homebrew-extensions
 
-[![Stars](https://img.shields.io/github/stars/shivammathur/homebrew-extensions?style=flat-square&color=yellow)](https://github.com/shivammathur/homebrew-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/shivammathur/homebrew-extensions?style=flat-square&color=blue)](https://github.com/shivammathur/homebrew-extensions/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shivammathur/homebrew-extensions?style=flat-square&color=yellow)](https://github.com/shivammathur/homebrew-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/shivammathur/homebrew-extensions?style=flat-square&color=blue)](https://github.com/shivammathur/homebrew-extensions/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Homebrew tap for PHP extensions :beers:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 800 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # WaterplanAI/agentic-config
 
-[![Stars](https://img.shields.io/github/stars/WaterplanAI/agentic-config?style=flat-square&color=yellow)](https://github.com/WaterplanAI/agentic-config/stargazers) [![Forks](https://img.shields.io/github/forks/WaterplanAI/agentic-config?style=flat-square&color=blue)](https://github.com/WaterplanAI/agentic-config/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WaterplanAI/agentic-config?style=flat-square&color=yellow)](https://github.com/WaterplanAI/agentic-config/stargazers) [![Forks](https://img.shields.io/github/forks/WaterplanAI/agentic-config?style=flat-square&color=blue)](https://github.com/WaterplanAI/agentic-config/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Project-agnostic, composable AI workflow automation via pi packages and Claude Code plugins.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

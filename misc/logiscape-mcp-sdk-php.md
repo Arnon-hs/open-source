@@ -1,6 +1,6 @@
 # logiscape/mcp-sdk-php
 
-[![Stars](https://img.shields.io/github/stars/logiscape/mcp-sdk-php?style=flat-square&color=yellow)](https://github.com/logiscape/mcp-sdk-php/stargazers) [![Forks](https://img.shields.io/github/forks/logiscape/mcp-sdk-php?style=flat-square&color=blue)](https://github.com/logiscape/mcp-sdk-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/logiscape/mcp-sdk-php?style=flat-square&color=yellow)](https://github.com/logiscape/mcp-sdk-php/stargazers) [![Forks](https://img.shields.io/github/forks/logiscape/mcp-sdk-php?style=flat-square&color=blue)](https://github.com/logiscape/mcp-sdk-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol SDK for PHP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 366 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

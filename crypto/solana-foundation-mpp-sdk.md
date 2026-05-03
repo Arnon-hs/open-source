@@ -1,6 +1,6 @@
 # solana-foundation/mpp-sdk
 
-[![Stars](https://img.shields.io/github/stars/solana-foundation/mpp-sdk?style=flat-square&color=yellow)](https://github.com/solana-foundation/mpp-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/mpp-sdk?style=flat-square&color=blue)](https://github.com/solana-foundation/mpp-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solana-foundation/mpp-sdk?style=flat-square&color=yellow)](https://github.com/solana-foundation/mpp-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/mpp-sdk?style=flat-square&color=blue)](https://github.com/solana-foundation/mpp-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Solana payment method for the Machine Payments Protocol.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

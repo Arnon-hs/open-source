@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Icestream is an open-source project that enhances Apache Iceberg, a popular data storage system, by enabling efficient streaming writes. This project streamlines the process of writing data to Iceberg, improving performance and making it suitable for large-scale data processing workloads. By leveraging streaming writes, Icestream aims to optimize data storage and retrieval operations in Iceberg-based applications.
+Icestream is an open-source project that enhances Apache Iceberg by enabling efficient streaming writes. This improvement allows for faster and more scalable data processing, making it suitable for big data workloads and real-time analytics applications. By facilitating streaming writes, Icestream optimizes the performance and productivity of Apache Iceberg users.
 
 ---
 

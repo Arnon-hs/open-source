@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/swe-labs/the-go-engineer?style=flat-square&color=yellow)](https://github.com/swe-labs/the-go-engineer/stargazers) [![Forks](https://img.shields.io/github/forks/swe-labs/the-go-engineer?style=flat-square&color=blue)](https://github.com/swe-labs/the-go-engineer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> The Go Engineer: Master Software Engineering in Go by building high-impact, real-world projects. From foundations to production-grade architecture.
+> The Go Engineer is a complete Go backend engineering path where learners go from machine fundamentals to building Opslane, a production-shaped SaaS backend.
 
 ## 📊 Stats
 

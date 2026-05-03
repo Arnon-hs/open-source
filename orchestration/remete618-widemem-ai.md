@@ -1,6 +1,6 @@
 # remete618/widemem-ai
 
-[![Stars](https://img.shields.io/github/stars/remete618/widemem-ai?style=flat-square&color=yellow)](https://github.com/remete618/widemem-ai/stargazers) [![Forks](https://img.shields.io/github/forks/remete618/widemem-ai?style=flat-square&color=blue)](https://github.com/remete618/widemem-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remete618/widemem-ai?style=flat-square&color=yellow)](https://github.com/remete618/widemem-ai/stargazers) [![Forks](https://img.shields.io/github/forks/remete618/widemem-ai?style=flat-square&color=blue)](https://github.com/remete618/widemem-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
