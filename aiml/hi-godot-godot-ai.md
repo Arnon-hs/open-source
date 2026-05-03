@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 167 |
+| ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | GDScript |
 | 📈 **Score** | 48/100 |

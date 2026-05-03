@@ -1,6 +1,6 @@
 # erich666/Mineways
 
-[![Stars](https://img.shields.io/github/stars/erich666/Mineways?style=flat-square&color=yellow)](https://github.com/erich666/Mineways/stargazers) [![Forks](https://img.shields.io/github/forks/erich666/Mineways?style=flat-square&color=blue)](https://github.com/erich666/Mineways/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erich666/Mineways?style=flat-square&color=yellow)](https://github.com/erich666/Mineways/stargazers) [![Forks](https://img.shields.io/github/forks/erich666/Mineways?style=flat-square&color=blue)](https://github.com/erich666/Mineways/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Exports models from Minecraft for 3D printing or rendering
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 503 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

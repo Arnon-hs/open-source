@@ -1,6 +1,6 @@
 # langgenius/dify-sandbox
 
-[![Stars](https://img.shields.io/github/stars/langgenius/dify-sandbox?style=flat-square&color=yellow)](https://github.com/langgenius/dify-sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/langgenius/dify-sandbox?style=flat-square&color=blue)](https://github.com/langgenius/dify-sandbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langgenius/dify-sandbox?style=flat-square&color=yellow)](https://github.com/langgenius/dify-sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/langgenius/dify-sandbox?style=flat-square&color=blue)](https://github.com/langgenius/dify-sandbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, fast, and secure code execution environment that supports multiple programming languages
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 304 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

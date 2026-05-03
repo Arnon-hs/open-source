@@ -1,6 +1,6 @@
 # xgi-org/xgi
 
-[![Stars](https://img.shields.io/github/stars/xgi-org/xgi?style=flat-square&color=yellow)](https://github.com/xgi-org/xgi/stargazers) [![Forks](https://img.shields.io/github/forks/xgi-org/xgi?style=flat-square&color=blue)](https://github.com/xgi-org/xgi/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xgi-org/xgi?style=flat-square&color=yellow)](https://github.com/xgi-org/xgi/stargazers) [![Forks](https://img.shields.io/github/forks/xgi-org/xgi?style=flat-square&color=blue)](https://github.com/xgi-org/xgi/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > CompleX Group Interactions (XGI) is a Python package for higher-order networks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 248 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

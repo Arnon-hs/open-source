@@ -1,6 +1,6 @@
 # dependabot/proxy
 
-[![Stars](https://img.shields.io/github/stars/dependabot/proxy?style=flat-square&color=yellow)](https://github.com/dependabot/proxy/stargazers) [![Forks](https://img.shields.io/github/forks/dependabot/proxy?style=flat-square&color=blue)](https://github.com/dependabot/proxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dependabot/proxy?style=flat-square&color=yellow)](https://github.com/dependabot/proxy/stargazers) [![Forks](https://img.shields.io/github/forks/dependabot/proxy?style=flat-square&color=blue)](https://github.com/dependabot/proxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Dependabot's HTTP proxy to authenticate requests to package registries, git servers, and the GitHub API
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 126 |
+| ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

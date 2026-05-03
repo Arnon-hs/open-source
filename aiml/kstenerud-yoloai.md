@@ -1,6 +1,6 @@
 # kstenerud/yoloai
 
-[![Stars](https://img.shields.io/github/stars/kstenerud/yoloai?style=flat-square&color=yellow)](https://github.com/kstenerud/yoloai/stargazers) [![Forks](https://img.shields.io/github/forks/kstenerud/yoloai?style=flat-square&color=blue)](https://github.com/kstenerud/yoloai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kstenerud/yoloai?style=flat-square&color=yellow)](https://github.com/kstenerud/yoloai/stargazers) [![Forks](https://img.shields.io/github/forks/kstenerud/yoloai?style=flat-square&color=blue)](https://github.com/kstenerud/yoloai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Permission fatigue is a real problem. Sandbox escape is a real problem. yoloAI solves it.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 75 |
+| ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Rune-kit/rune
 
-[![Stars](https://img.shields.io/github/stars/Rune-kit/rune?style=flat-square&color=yellow)](https://github.com/Rune-kit/rune/stargazers) [![Forks](https://img.shields.io/github/forks/Rune-kit/rune?style=flat-square&color=blue)](https://github.com/Rune-kit/rune/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rune-kit/rune?style=flat-square&color=yellow)](https://github.com/Rune-kit/rune/stargazers) [![Forks](https://img.shields.io/github/forks/Rune-kit/rune?style=flat-square&color=blue)](https://github.com/Rune-kit/rune/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Less skills. Deeper connections. A lean, interconnected skill ecosystem for Claude Code.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 68 |
+| ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

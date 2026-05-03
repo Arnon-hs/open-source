@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**198 projects** in this category.
+**199 projects** in this category.
 
 ## Projects
 
@@ -16,10 +16,10 @@
 | 6 | [JunkFood02/Seal](./junkfood02-seal.md) | ⭐ 26k | Kotlin | 100/100 |
 | 7 | [zhkl0228/unidbg](./zhkl0228-unidbg.md) | ⭐ 4.9k | Java | 100/100 |
 | 8 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.3k | Markdown | 100/100 |
-| 9 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 113.3k | Rust | 100/100 |
-| 10 | [flame-engine/flame](./flame-engine-flame.md) | ⭐ 10.6k | Dart | 100/100 |
-| 11 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.7k | C | 100/100 |
-| 12 | [ankidroid/Anki-Android](./ankidroid-anki-android.md) | ⭐ 11.1k | Kotlin | 100/100 |
+| 9 | [ankidroid/Anki-Android](./ankidroid-anki-android.md) | ⭐ 11.1k | Kotlin | 100/100 |
+| 10 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 113.3k | Rust | 100/100 |
+| 11 | [flame-engine/flame](./flame-engine-flame.md) | ⭐ 10.6k | Dart | 100/100 |
+| 12 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.7k | C | 100/100 |
 | 13 | [google/filament](./google-filament.md) | ⭐ 20k | C++ | 100/100 |
 | 14 | [yuliskov/SmartTube](./yuliskov-smarttube.md) | ⭐ 29.9k | Java | 99/100 |
 | 15 | [mavlink/qgroundcontrol](./mavlink-qgroundcontrol.md) | ⭐ 4.6k | C++ | 97/100 |
@@ -74,10 +74,10 @@
 | 64 | [Arcticons-Team/Arcticons](./arcticons-team-arcticons.md) | ⭐ 1.4k | Java | 66/100 |
 | 65 | [envoyproxy/ratelimit](./envoyproxy-ratelimit.md) | ⭐ 2.6k | Go | 66/100 |
 | 66 | [NexAlloy/NexAlloy](./nexalloy-nexalloy.md) | ⭐ 2.4k | Kotlin | 66/100 |
-| 67 | [ossdocumentscanner/OSS-DocumentScanner](./ossdocumentscanner-oss-documentscanner.md) | ⭐ 2.1k | C++ | 66/100 |
-| 68 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 1.9k | TypeScript | 66/100 |
-| 69 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.7k | Shell | 65/100 |
-| 70 | [rust-skia/rust-skia](./rust-skia-rust-skia.md) | ⭐ 1.8k | Rust | 65/100 |
+| 67 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 1.9k | TypeScript | 66/100 |
+| 68 | [ossdocumentscanner/OSS-DocumentScanner](./ossdocumentscanner-oss-documentscanner.md) | ⭐ 2.1k | C++ | 66/100 |
+| 69 | [rust-skia/rust-skia](./rust-skia-rust-skia.md) | ⭐ 1.8k | Rust | 65/100 |
+| 70 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.7k | Shell | 65/100 |
 | 71 | [xoureldeen/Vectras-VM-Android](./xoureldeen-vectras-vm-android.md) | ⭐ 2.2k | Java | 65/100 |
 | 72 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 1.9k | C++ | 65/100 |
 | 73 | [Xed-Editor/Xed-Editor](./xed-editor-xed-editor.md) | ⭐ 1.9k | Java | 65/100 |
@@ -106,7 +106,7 @@
 | 96 | [MorpheApp/morphe-patches](./morpheapp-morphe-patches.md) | ⭐ 2k | Java | 58/100 |
 | 97 | [Delta-Icons/android](./delta-icons-android.md) | ⭐ 824 | Python | 58/100 |
 | 98 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
-| 99 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 960 | Dart | 58/100 |
+| 99 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 961 | Dart | 58/100 |
 | 100 | [theothernt/AerialViews](./theothernt-aerialviews.md) | ⭐ 938 | Kotlin | 57/100 |
 | 101 | [OpenRadioss/OpenRadioss](./openradioss-openradioss.md) | ⭐ 794 | Fortran | 57/100 |
 | 102 | [localdesktop/localdesktop.github.io](./localdesktop-localdesktop.github.io.md) | ⭐ 1.5k | Rust | 57/100 |
@@ -125,25 +125,25 @@
 | 115 | [koel/player](./koel-player.md) | ⭐ 547 | Dart | 55/100 |
 | 116 | [AhmedLSayed9/dropdown_button2](./ahmedlsayed9-dropdown-button2.md) | ⭐ 353 | Dart | 55/100 |
 | 117 | [hashicorp/design-system](./hashicorp-design-system.md) | ⭐ 504 | TypeScript | 54/100 |
-| 118 | [aegis-icons/aegis-icons](./aegis-icons-aegis-icons.md) | ⭐ 897 | Batchfile | 54/100 |
-| 119 | [ReSukiSU/ReSukiSU](./resukisu-resukisu.md) | ⭐ 639 | Kotlin | 54/100 |
-| 120 | [ChibiOS/ChibiOS](./chibios-chibios.md) | ⭐ 840 | C | 54/100 |
+| 118 | [ReSukiSU/ReSukiSU](./resukisu-resukisu.md) | ⭐ 639 | Kotlin | 54/100 |
+| 119 | [ChibiOS/ChibiOS](./chibios-chibios.md) | ⭐ 840 | C | 54/100 |
+| 120 | [aegis-icons/aegis-icons](./aegis-icons-aegis-icons.md) | ⭐ 897 | Batchfile | 54/100 |
 | 121 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 471 | Kotlin | 54/100 |
 | 122 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 577 | Rust | 54/100 |
 | 123 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 453 | Java | 54/100 |
-| 124 | [NativeScript/android](./nativescript-android.md) | ⭐ 558 | C++ | 54/100 |
-| 125 | [chaldea-center/chaldea](./chaldea-center-chaldea.md) | ⭐ 587 | Dart | 54/100 |
-| 126 | [Rezivure/Grid-Mobile](./rezivure-grid-mobile.md) | ⭐ 468 | Dart | 54/100 |
-| 127 | [moneymanagerex/android-money-manager-ex](./moneymanagerex-android-money-manager-ex.md) | ⭐ 686 | Java | 54/100 |
-| 128 | [geode-sdk/ios-launcher](./geode-sdk-ios-launcher.md) | ⭐ 513 | Objective-C | 54/100 |
+| 124 | [geode-sdk/ios-launcher](./geode-sdk-ios-launcher.md) | ⭐ 513 | Objective-C | 54/100 |
+| 125 | [NativeScript/android](./nativescript-android.md) | ⭐ 558 | C++ | 54/100 |
+| 126 | [chaldea-center/chaldea](./chaldea-center-chaldea.md) | ⭐ 587 | Dart | 54/100 |
+| 127 | [Rezivure/Grid-Mobile](./rezivure-grid-mobile.md) | ⭐ 468 | Dart | 54/100 |
+| 128 | [moneymanagerex/android-money-manager-ex](./moneymanagerex-android-money-manager-ex.md) | ⭐ 686 | Java | 54/100 |
 | 129 | [Akylas/oss-weather](./akylas-oss-weather.md) | ⭐ 407 | Svelte | 53/100 |
 | 130 | [bitwarden/ios](./bitwarden-ios.md) | ⭐ 574 | Swift | 53/100 |
 | 131 | [CompassMB/MBCompass](./compassmb-mbcompass.md) | ⭐ 429 | Kotlin | 53/100 |
 | 132 | [sealdice/sealdice-core](./sealdice-sealdice-core.md) | ⭐ 255 | Go | 53/100 |
 | 133 | [timer-machine/timer-machine-android](./timer-machine-timer-machine-android.md) | ⭐ 327 | Kotlin | 53/100 |
-| 134 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 341 | Python | 53/100 |
-| 135 | [aa-proxy/aa-proxy-rs](./aa-proxy-aa-proxy-rs.md) | ⭐ 360 | Rust | 53/100 |
-| 136 | [harflabs/SwiftVLC](./harflabs-swiftvlc.md) | ⭐ 422 | Swift | 53/100 |
+| 134 | [harflabs/SwiftVLC](./harflabs-swiftvlc.md) | ⭐ 428 | Swift | 53/100 |
+| 135 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 341 | Python | 53/100 |
+| 136 | [aa-proxy/aa-proxy-rs](./aa-proxy-aa-proxy-rs.md) | ⭐ 360 | Rust | 53/100 |
 | 137 | [leon-cleaning-services/leon](./leon-cleaning-services-leon.md) | ⭐ 356 | Kotlin | 52/100 |
 | 138 | [mtotschnig/MyExpenses](./mtotschnig-myexpenses.md) | ⭐ 1.1k | Kotlin | 52/100 |
 | 139 | [glKarin/com.n0n3m4.diii4a](./glkarin-com.n0n3m4.diii4a.md) | ⭐ 546 | C++ | 52/100 |
@@ -160,7 +160,7 @@
 | 150 | [michaelbel/movies](./michaelbel-movies.md) | ⭐ 335 | Kotlin | 51/100 |
 | 151 | [chinedufn/swift-bridge](./chinedufn-swift-bridge.md) | ⭐ 1.1k | Rust | 51/100 |
 | 152 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.2k | Kotlin | 51/100 |
-| 153 | [Shpigford/clearly](./shpigford-clearly.md) | ⭐ 790 | Swift | 51/100 |
+| 153 | [Shpigford/clearly](./shpigford-clearly.md) | ⭐ 795 | Swift | 51/100 |
 | 154 | [LanRhyme/MicYou](./lanrhyme-micyou.md) | ⭐ 1.5k | Kotlin | 51/100 |
 | 155 | [premnirmal/StockTicker](./premnirmal-stockticker.md) | ⭐ 554 | Kotlin | 51/100 |
 | 156 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 508 | Kotlin | 51/100 |
@@ -175,7 +175,7 @@
 | 165 | [Kr0oked/Compass](./kr0oked-compass.md) | ⭐ 607 | Kotlin | 49/100 |
 | 166 | [woocommerce/woocommerce-ios](./woocommerce-woocommerce-ios.md) | ⭐ 356 | Swift | 49/100 |
 | 167 | [woocommerce/woocommerce-android](./woocommerce-woocommerce-android.md) | ⭐ 310 | Kotlin | 49/100 |
-| 168 | [ironfox-oss/IronFox](./ironfox-oss-ironfox.md) | ⭐ 755 | Shell | 49/100 |
+| 168 | [ironfox-oss/IronFox](./ironfox-oss-ironfox.md) | ⭐ 756 | Shell | 49/100 |
 | 169 | [valbok/QtAVPlayer](./valbok-qtavplayer.md) | ⭐ 430 | C++ | 49/100 |
 | 170 | [MixinNetwork/flutter-plugins](./mixinnetwork-flutter-plugins.md) | ⭐ 506 | C | 48/100 |
 | 171 | [tomakino/lyricon](./tomakino-lyricon.md) | ⭐ 516 | Kotlin | 48/100 |
@@ -190,11 +190,11 @@
 | 180 | [EngineeringKiosk/GermanTechPodcasts](./engineeringkiosk-germantechpodcasts.md) | ⭐ 179 | Go | 46/100 |
 | 181 | [celestiamobile/AndroidCelestia](./celestiamobile-androidcelestia.md) | ⭐ 200 | Kotlin | 45/100 |
 | 182 | [meshtastic/rust](./meshtastic-rust.md) | ⭐ 132 | Rust | 45/100 |
-| 183 | [grafana/grafana-kiosk](./grafana-grafana-kiosk.md) | ⭐ 474 | Go | 44/100 |
-| 184 | [herzbube/littlego](./herzbube-littlego.md) | ⭐ 152 | Objective-C | 44/100 |
-| 185 | [osmandapp/OsmAnd-iOS](./osmandapp-osmand-ios.md) | ⭐ 339 | Objective-C++ | 44/100 |
-| 186 | [forcedotcom/SalesforceMobileSDK-Android](./forcedotcom-salesforcemobilesdk-android.md) | ⭐ 358 | Java | 44/100 |
-| 187 | [moffatman/chan](./moffatman-chan.md) | ⭐ 488 | Dart | 44/100 |
+| 183 | [herzbube/littlego](./herzbube-littlego.md) | ⭐ 152 | Objective-C | 44/100 |
+| 184 | [grafana/grafana-kiosk](./grafana-grafana-kiosk.md) | ⭐ 474 | Go | 44/100 |
+| 185 | [moffatman/chan](./moffatman-chan.md) | ⭐ 488 | Dart | 44/100 |
+| 186 | [osmandapp/OsmAnd-iOS](./osmandapp-osmand-ios.md) | ⭐ 339 | Objective-C++ | 44/100 |
+| 187 | [forcedotcom/SalesforceMobileSDK-Android](./forcedotcom-salesforcemobilesdk-android.md) | ⭐ 358 | Java | 44/100 |
 | 188 | [EmbarkStudios/crash-handling](./embarkstudios-crash-handling.md) | ⭐ 175 | Rust | 43/100 |
 | 189 | [Dart-Code/Flutter](./dart-code-flutter.md) | ⭐ 345 | JavaScript | 43/100 |
 | 190 | [NEORUAA/XHS_Downloader_Android](./neoruaa-xhs-downloader-android.md) | ⭐ 318 | Kotlin | 43/100 |
@@ -202,10 +202,11 @@
 | 192 | [FrankBarretta/LSFG-Android](./frankbarretta-lsfg-android.md) | ⭐ 319 | — | 42/100 |
 | 193 | [rodydavis/flutter_piano](./rodydavis-flutter-piano.md) | ⭐ 429 | Dart | 41/100 |
 | 194 | [icepy/manong-weekly](./icepy-manong-weekly.md) | ⭐ 367 | Objective-C | 40/100 |
-| 195 | [OpenMOSS/MOSS-Audio](./openmoss-moss-audio.md) | ⭐ 402 | Python | 39/100 |
-| 196 | [cocoanetics/swiftbash](./cocoanetics-swiftbash.md) | ⭐ 18 | Swift | 36/100 |
-| 197 | [CodyBontecou/isome](./codybontecou-isome.md) | ⭐ 3 | Swift | 36/100 |
-| 198 | [Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground](./moses-code-dev-foodsecurity-difp-android-playground.md) | ⭐ 1 | Java | 30/100 |
+| 195 | [vgaj/proxy](./vgaj-proxy.md) | ⭐ — | — | 39/100 |
+| 196 | [OpenMOSS/MOSS-Audio](./openmoss-moss-audio.md) | ⭐ 402 | Python | 39/100 |
+| 197 | [cocoanetics/swiftbash](./cocoanetics-swiftbash.md) | ⭐ 18 | Swift | 36/100 |
+| 198 | [CodyBontecou/isome](./codybontecou-isome.md) | ⭐ 3 | Swift | 36/100 |
+| 199 | [Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground](./moses-code-dev-foodsecurity-difp-android-playground.md) | ⭐ 1 | Java | 30/100 |
 
 ---
 

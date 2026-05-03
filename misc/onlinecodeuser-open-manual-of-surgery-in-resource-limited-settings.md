@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This project involves uploading Vanderbilt University Medical Center's (VUMC) comprehensive Open Manual of Surgery in Resource-Limited Settings to a publicly accessible platform on GitHub. The manual aims to provide essential surgical knowledge and guidelines for medical professionals working in areas with limited resources. By making this information freely available, the project hopes to improve surgical training and patient care in resource-scarce environments.
+This open-source project involves uploading the Vanderbilt University Medical Center's (VUMC) manual on surgery in resource-limited settings to GitHub, making it freely accessible to the public. The manual provides valuable guidance and knowledge for healthcare professionals working in resource-constrained environments. By sharing this resource, the project aims to promote global surgical education and improve patient care in underserved communities.
 
 ---
 

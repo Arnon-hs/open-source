@@ -1,6 +1,6 @@
 # cloudflare/agents-starter
 
-[![Stars](https://img.shields.io/github/stars/cloudflare/agents-starter?style=flat-square&color=yellow)](https://github.com/cloudflare/agents-starter/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/agents-starter?style=flat-square&color=blue)](https://github.com/cloudflare/agents-starter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudflare/agents-starter?style=flat-square&color=yellow)](https://github.com/cloudflare/agents-starter/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/agents-starter?style=flat-square&color=blue)](https://github.com/cloudflare/agents-starter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A starter kit for building ai agents on Cloudflare
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 253 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

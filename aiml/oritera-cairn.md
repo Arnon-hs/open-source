@@ -1,17 +1,17 @@
 # oritera/Cairn
 
-[![Stars](https://img.shields.io/github/stars/oritera/Cairn?style=flat-square&color=yellow)](https://github.com/oritera/Cairn/stargazers) [![Forks](https://img.shields.io/github/forks/oritera/Cairn?style=flat-square&color=blue)](https://github.com/oritera/Cairn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oritera/Cairn?style=flat-square&color=yellow)](https://github.com/oritera/Cairn/stargazers) [![Forks](https://img.shields.io/github/forks/oritera/Cairn?style=flat-square&color=blue)](https://github.com/oritera/Cairn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
-> AI 自动化通用问题解决 / AI 自动化渗透测试系统
+> A general-purpose state-space search engine, validated first on autonomous penetration testing.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 602 |
+| ⭐ **Stars** | 603 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools · Security
 
 ## 📝 Summary
 

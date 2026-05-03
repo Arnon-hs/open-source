@@ -1,6 +1,6 @@
 # ManageXR/claude-unity-bridge
 
-[![Stars](https://img.shields.io/github/stars/ManageXR/claude-unity-bridge?style=flat-square&color=yellow)](https://github.com/ManageXR/claude-unity-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/ManageXR/claude-unity-bridge?style=flat-square&color=blue)](https://github.com/ManageXR/claude-unity-bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ManageXR/claude-unity-bridge?style=flat-square&color=yellow)](https://github.com/ManageXR/claude-unity-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/ManageXR/claude-unity-bridge?style=flat-square&color=blue)](https://github.com/ManageXR/claude-unity-bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A file-based Command Protocol enabling Claude Code to trigger Unity Editor operations. Built for multi-agent and highly parallelized workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

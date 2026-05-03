@@ -1,6 +1,6 @@
 # zio/zio-http
 
-[![Stars](https://img.shields.io/github/stars/zio/zio-http?style=flat-square&color=yellow)](https://github.com/zio/zio-http/stargazers) [![Forks](https://img.shields.io/github/forks/zio/zio-http?style=flat-square&color=blue)](https://github.com/zio/zio-http/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zio/zio-http?style=flat-square&color=yellow)](https://github.com/zio/zio-http/stargazers) [![Forks](https://img.shields.io/github/forks/zio/zio-http?style=flat-square&color=blue)](https://github.com/zio/zio-http/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 867 |
 | 🍴 **Forks** | 488 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

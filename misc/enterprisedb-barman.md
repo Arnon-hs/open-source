@@ -1,6 +1,6 @@
 # EnterpriseDB/barman
 
-[![Stars](https://img.shields.io/github/stars/EnterpriseDB/barman?style=flat-square&color=yellow)](https://github.com/EnterpriseDB/barman/stargazers) [![Forks](https://img.shields.io/github/forks/EnterpriseDB/barman?style=flat-square&color=blue)](https://github.com/EnterpriseDB/barman/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EnterpriseDB/barman?style=flat-square&color=yellow)](https://github.com/EnterpriseDB/barman/stargazers) [![Forks](https://img.shields.io/github/forks/EnterpriseDB/barman?style=flat-square&color=blue)](https://github.com/EnterpriseDB/barman/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Barman - Backup and Recovery Manager for PostgreSQL
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.9k |
+| ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 245 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

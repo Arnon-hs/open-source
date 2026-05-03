@@ -1,6 +1,6 @@
 # kivo360/OmoiOS
 
-[![Stars](https://img.shields.io/github/stars/kivo360/OmoiOS?style=flat-square&color=yellow)](https://github.com/kivo360/OmoiOS/stargazers) [![Forks](https://img.shields.io/github/forks/kivo360/OmoiOS?style=flat-square&color=blue)](https://github.com/kivo360/OmoiOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kivo360/OmoiOS?style=flat-square&color=yellow)](https://github.com/kivo360/OmoiOS/stargazers) [![Forks](https://img.shields.io/github/forks/kivo360/OmoiOS?style=flat-square&color=blue)](https://github.com/kivo360/OmoiOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Spec-driven multi-agent orchestration — autonomous development workforce powered by Claude & OpenHands
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44 |
+| ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

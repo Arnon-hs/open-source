@@ -1,6 +1,6 @@
 # spr-networks/super
 
-[![Stars](https://img.shields.io/github/stars/spr-networks/super?style=flat-square&color=yellow)](https://github.com/spr-networks/super/stargazers) [![Forks](https://img.shields.io/github/forks/spr-networks/super?style=flat-square&color=blue)](https://github.com/spr-networks/super/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spr-networks/super?style=flat-square&color=yellow)](https://github.com/spr-networks/super/stargazers) [![Forks](https://img.shields.io/github/forks/spr-networks/super?style=flat-square&color=blue)](https://github.com/spr-networks/super/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 📡 SPR: Open Source, secure, user friendly and fast wifi routers for your home. One wifi password per device. Ad Blocking & Privacy Blocklists. Policy Based Network Access
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 559 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

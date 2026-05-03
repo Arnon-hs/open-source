@@ -1,6 +1,6 @@
 # alloy-rs/core
 
-[![Stars](https://img.shields.io/github/stars/alloy-rs/core?style=flat-square&color=yellow)](https://github.com/alloy-rs/core/stargazers) [![Forks](https://img.shields.io/github/forks/alloy-rs/core?style=flat-square&color=blue)](https://github.com/alloy-rs/core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alloy-rs/core?style=flat-square&color=yellow)](https://github.com/alloy-rs/core/stargazers) [![Forks](https://img.shields.io/github/forks/alloy-rs/core?style=flat-square&color=blue)](https://github.com/alloy-rs/core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance, well-tested & documented core libraries for Ethereum, in Rust
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 950 |
+| ⭐ **Stars** | 951 |
 | 🍴 **Forks** | 257 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

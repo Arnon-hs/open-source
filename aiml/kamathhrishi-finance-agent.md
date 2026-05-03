@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The finance-agent project is an open-source initiative that leverages AI/ML technologies to extract valuable insights from various financial sources, including earnings calls, SEC filings, and news articles. It enables users to ask questions and receive relevant answers, providing a unique platform for financial analysis and research. This project aims to streamline financial data analysis, making it more accessible and efficient for users.
+The finance-agent project is an open-source initiative that provides a platform to extract insights and answers from various financial data sources, including earnings calls, SEC filings, and news. Using AI and ML technologies, this project enables users to ask questions and receive relevant information, facilitating a deeper understanding of financial markets and companies. By leveraging this tool, users can gain valuable insights and make more informed decisions.
 
 ---
 

@@ -25,9 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "terror/just-lsp":
+Here's a brief summary for the terror/just-lsp project:
 
-The terror/just-lsp project is an open-source language server designed to work seamlessly with the Just programming language. It provides a robust backend infrastructure for Just developers, offering features such as syntax highlighting, code completion, and diagnostics. By utilizing this language server, developers can enhance their productivity and coding experience while working with Just.
+terror/just-lsp is an open-source language server designed for the just programming language. It provides a robust backend infrastructure for code development and editing, enabling features such as code completion, diagnostics, and code refactoring. By integrating this language server, developers can enhance their productivity and experience while working with just.
 
 ---
 

@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-ReagentX/imessage-exporter is an open-source project that enables the export of iMessage data and facilitates running iMessage diagnostics. This tool provides a convenient means for users to access and manage their iPhone's messaging history, making it a valuable resource for developers and individuals looking to analyze or transfer their messages. By leveraging this project, users can easily extract and manipulate their iMessage data.
+Here's a brief summary for the ReagentX/imessage-exporter project:
+
+This open-source project, imessage-exporter, enables users to export iMessage data and run diagnostics, providing a valuable tool for developers and users alike. By harnessing the power of Orchestration, AI/ML, and DevTools, the project offers a unique solution for managing and analyzing iMessage data. With imessage-exporter, users can gain deeper insights into their iMessage conversations and troubleshoot issues with ease.
 
 ---
 

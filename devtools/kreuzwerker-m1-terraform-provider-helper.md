@@ -1,6 +1,6 @@
 # kreuzwerker/m1-terraform-provider-helper
 
-[![Stars](https://img.shields.io/github/stars/kreuzwerker/m1-terraform-provider-helper?style=flat-square&color=yellow)](https://github.com/kreuzwerker/m1-terraform-provider-helper/stargazers) [![Forks](https://img.shields.io/github/forks/kreuzwerker/m1-terraform-provider-helper?style=flat-square&color=blue)](https://github.com/kreuzwerker/m1-terraform-provider-helper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kreuzwerker/m1-terraform-provider-helper?style=flat-square&color=yellow)](https://github.com/kreuzwerker/m1-terraform-provider-helper/stargazers) [![Forks](https://img.shields.io/github/forks/kreuzwerker/m1-terraform-provider-helper?style=flat-square&color=blue)](https://github.com/kreuzwerker/m1-terraform-provider-helper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 541 |
+| ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

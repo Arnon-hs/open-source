@@ -1,6 +1,6 @@
 # DrHyde/unicode-search
 
-[![Stars](https://img.shields.io/github/stars/DrHyde/unicode-search?style=flat-square&color=yellow)](https://github.com/DrHyde/unicode-search/stargazers) [![Forks](https://img.shields.io/github/forks/DrHyde/unicode-search?style=flat-square&color=blue)](https://github.com/DrHyde/unicode-search/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DrHyde/unicode-search?style=flat-square&color=yellow)](https://github.com/DrHyde/unicode-search/stargazers) [![Forks](https://img.shields.io/github/forks/DrHyde/unicode-search?style=flat-square&color=blue)](https://github.com/DrHyde/unicode-search/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > Search for Unicode characters, by name, by code point, and by encoded bytes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 30/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

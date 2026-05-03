@@ -1,6 +1,6 @@
 # KLOUCEO/klou-verify
 
-[![Stars](https://img.shields.io/github/stars/KLOUCEO/klou-verify?style=flat-square&color=yellow)](https://github.com/KLOUCEO/klou-verify/stargazers) [![Forks](https://img.shields.io/github/forks/KLOUCEO/klou-verify?style=flat-square&color=blue)](https://github.com/KLOUCEO/klou-verify/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KLOUCEO/klou-verify?style=flat-square&color=yellow)](https://github.com/KLOUCEO/klou-verify/stargazers) [![Forks](https://img.shields.io/github/forks/KLOUCEO/klou-verify?style=flat-square&color=blue)](https://github.com/KLOUCEO/klou-verify/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Deterministic cloud cost governance via Z3 SMT Solver. Formal verification of infrastructure states to prove and prevent waste. Zero-server & metadata-sovereign by design.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

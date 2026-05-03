@@ -1,6 +1,6 @@
 # nix-community/nh
 
-[![Stars](https://img.shields.io/github/stars/nix-community/nh?style=flat-square&color=yellow)](https://github.com/nix-community/nh/stargazers) [![Forks](https://img.shields.io/github/forks/nix-community/nh?style=flat-square&color=blue)](https://github.com/nix-community/nh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nix-community/nh?style=flat-square&color=yellow)](https://github.com/nix-community/nh/stargazers) [![Forks](https://img.shields.io/github/forks/nix-community/nh?style=flat-square&color=blue)](https://github.com/nix-community/nh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

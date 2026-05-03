@@ -1,6 +1,6 @@
 # orhun/gpg-tui
 
-[![Stars](https://img.shields.io/github/stars/orhun/gpg-tui?style=flat-square&color=yellow)](https://github.com/orhun/gpg-tui/stargazers) [![Forks](https://img.shields.io/github/forks/orhun/gpg-tui?style=flat-square&color=blue)](https://github.com/orhun/gpg-tui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orhun/gpg-tui?style=flat-square&color=yellow)](https://github.com/orhun/gpg-tui/stargazers) [![Forks](https://img.shields.io/github/forks/orhun/gpg-tui?style=flat-square&color=blue)](https://github.com/orhun/gpg-tui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Manage your GnuPG keys with ease! 🔐
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 44 |
+| 🍴 **Forks** | 43 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

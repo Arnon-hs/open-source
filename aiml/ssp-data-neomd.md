@@ -1,6 +1,6 @@
 # ssp-data/neomd
 
-[![Stars](https://img.shields.io/github/stars/ssp-data/neomd?style=flat-square&color=yellow)](https://github.com/ssp-data/neomd/stargazers) [![Forks](https://img.shields.io/github/forks/ssp-data/neomd?style=flat-square&color=blue)](https://github.com/ssp-data/neomd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ssp-data/neomd?style=flat-square&color=yellow)](https://github.com/ssp-data/neomd/stargazers) [![Forks](https://img.shields.io/github/forks/ssp-data/neomd?style=flat-square&color=blue)](https://github.com/ssp-data/neomd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal email TUI where you read with Markdown and write in Neovim.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 230 |
+| ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

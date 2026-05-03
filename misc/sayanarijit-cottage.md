@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Cottage is an open-source, modern secrets manager designed for teams, built on top of Git. It utilizes age-encryption to securely store sensitive information, providing a centralized and version-controlled solution for teams to manage their secrets. This tool aims to offer a robust and accessible alternative for teams to securely store and manage sensitive data.
+Cottage is an open-source, modern secrets manager designed for teams, built on top of Git. It offers age-encryption, allowing users to securely store and manage sensitive information in a transparent and collaborative environment. This solution enables teams to maintain control and visibility over their secrets while ensuring a high level of security and data protection.
 
 ---
 

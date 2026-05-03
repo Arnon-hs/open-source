@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Ninjasource/embedded-websocket is a Rust library that enables WebSocket communication on embedded systems without relying on the standard library (no_std). This library provides a lightweight and efficient solution for establishing WebSocket connections in resource-constrained environments. It is designed to be highly customizable and adaptable for a wide range of embedded system applications.
+The ninjasource/embedded-websocket project is an open-source Rust library designed for use in embedded systems, providing a WebSocket implementation that functions without the need for a standard library (no_std). This allows developers to integrate WebSocket functionality into resource-constrained devices. The library aims to facilitate the creation of real-time web applications on embedded systems.
 
 ---
 

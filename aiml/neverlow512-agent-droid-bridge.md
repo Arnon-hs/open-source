@@ -25,7 +25,9 @@ AI/ML · Backend · Mobile
 
 ## 📝 Summary
 
-The Agent Droid Bridge project is an open-source initiative that provides AI agents with programmatic control over Android devices and emulators through the Android Debug Bridge (ADB) protocol. This is achieved by exposing an MCP (Master Control Program) server, allowing AI agents to interact with Android devices programmatically. The project enables advanced automation and integration of AI with Android-based systems.
+Here's a brief summary of the project:
+
+The Agent Droid Bridge is an open-source project that enables AI agents to remotely control Android devices and emulators through a network connection. It exposes Android Debug Bridge (ADB) functionality as a Multi-Purpose Console (MCP) server, allowing AI agents to interact with Android devices programmatically. This bridge facilitates seamless integration between AI systems and Android devices for research, development, and testing purposes.
 
 ---
 

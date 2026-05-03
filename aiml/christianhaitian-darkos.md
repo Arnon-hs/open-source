@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-dArkOS is an open-source operating system based on Debian, designed to provide a secure and efficient platform for AI and machine learning applications. It offers a customizable and adaptable environment, allowing developers to focus on their projects without worrying about system-level complexities. By leveraging the stability and reliability of Debian, dArkOS empowers users to build and deploy AI-driven solutions with confidence.
+dArkOS is an open-source operating system based on Debian, designed to provide a flexible and customizable platform for various applications, including AI and machine learning. This project aims to offer a lightweight and efficient alternative for users seeking a Debian-based ArkOS environment. By leveraging the strengths of Debian, dArkOS enables users to harness the power of AI and ML tools with ease.
 
 ---
 

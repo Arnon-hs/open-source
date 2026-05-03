@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/tarampampam/error-pages?style=flat-square&color=yellow)](https://github.com/tarampampam/error-pages/stargazers) [![Forks](https://img.shields.io/github/forks/tarampampam/error-pages?style=flat-square&color=blue)](https://github.com/tarampampam/error-pages/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
-> 🚧 Pretty server's error pages in the docker image & git repository (for traefik, k8s, nginx and so on)
+> 🪂 Tiny, zero-dep HTTP server & Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, and Kubernetes
 
 ## 📊 Stats
 

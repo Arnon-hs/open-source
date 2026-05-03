@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-This open-source project is a Mac browser that caters to both human users and coding agents, providing them with local APIs. This unique browser offers seamless integration with AI/ML and backend development, making it an ideal tool for developers working on projects involving machine learning and data science. By providing local APIs, it enables coding agents to interact with the browser and its applications in a more efficient and streamlined manner.
+This open-source project is a Mac browser designed for human users, offering a unique interface for browsing the internet. Additionally, it provides local APIs for coding agents, allowing developers to leverage its functionality in their projects. This innovative tool integrates AI/ML and backend capabilities, making it an attractive solution for those exploring the intersection of human-computer interaction and coding applications.
 
 ---
 

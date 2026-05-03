@@ -1,6 +1,6 @@
 # plasma-umass/scalene
 
-[![Stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=flat-square&color=yellow)](https://github.com/plasma-umass/scalene/stargazers) [![Forks](https://img.shields.io/github/forks/plasma-umass/scalene?style=flat-square&color=blue)](https://github.com/plasma-umass/scalene/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=flat-square&color=yellow)](https://github.com/plasma-umass/scalene/stargazers) [![Forks](https://img.shields.io/github/forks/plasma-umass/scalene?style=flat-square&color=blue)](https://github.com/plasma-umass/scalene/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
 
 > Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 13.4k |
 | 🍴 **Forks** | 435 |
-| 💻 **Language** | JavaScript |
+| 💻 **Language** | Python |
 | 📈 **Score** | 92/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

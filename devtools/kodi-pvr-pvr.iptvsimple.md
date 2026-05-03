@@ -1,6 +1,6 @@
 # kodi-pvr/pvr.iptvsimple
 
-[![Stars](https://img.shields.io/github/stars/kodi-pvr/pvr.iptvsimple?style=flat-square&color=yellow)](https://github.com/kodi-pvr/pvr.iptvsimple/stargazers) [![Forks](https://img.shields.io/github/forks/kodi-pvr/pvr.iptvsimple?style=flat-square&color=blue)](https://github.com/kodi-pvr/pvr.iptvsimple/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kodi-pvr/pvr.iptvsimple?style=flat-square&color=yellow)](https://github.com/kodi-pvr/pvr.iptvsimple/stargazers) [![Forks](https://img.shields.io/github/forks/kodi-pvr/pvr.iptvsimple?style=flat-square&color=blue)](https://github.com/kodi-pvr/pvr.iptvsimple/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > IPTV Simple client for Kodi PVR
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 912 |
+| ⭐ **Stars** | 913 |
 | 🍴 **Forks** | 394 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

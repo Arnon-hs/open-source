@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, "demangle," is a C++ symbol name demangler implemented in the Go programming language. It provides a way to convert mangled C++ symbol names back into their human-readable forms, making it easier to inspect and understand binary code or debugging information. This demangler can be a useful tool for developers working with C++ binaries or debugging issues that involve symbol names.
+The demangle project is an open-source C++ symbol name demangler written in the Go programming language. It takes mangled C++ symbols and demangles them into their human-readable forms, making it easier to work with C++ code and debugging information. This project helps developers and engineers to better understand and interact with compiled C++ code.
 
 ---
 

@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Kubernetes Cloud Provider for AWS is an open-source project that enables the deployment and management of Kubernetes clusters on Amazon Web Services (AWS). This cloud provider provides a bridge between Kubernetes and AWS, allowing users to leverage AWS's scalable infrastructure and services within their Kubernetes environment. As a result, users can easily deploy and manage containerized applications on AWS while utilizing Kubernetes's orchestration and management capabilities.
+The Kubernetes Cloud Provider for AWS is an open-source project that enables Kubernetes to manage and deploy applications on Amazon Web Services (AWS). This project provides a cloud provider implementation for Kubernetes, allowing users to leverage AWS resources such as EC2 instances, RDS databases, and S3 storage within their Kubernetes clusters. By integrating with AWS, users can automate the deployment and management of their applications at scale.
 
 ---
 

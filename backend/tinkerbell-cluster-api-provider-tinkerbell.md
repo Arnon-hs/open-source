@@ -1,6 +1,6 @@
 # tinkerbell/cluster-api-provider-tinkerbell
 
-[![Stars](https://img.shields.io/github/stars/tinkerbell/cluster-api-provider-tinkerbell?style=flat-square&color=yellow)](https://github.com/tinkerbell/cluster-api-provider-tinkerbell/stargazers) [![Forks](https://img.shields.io/github/forks/tinkerbell/cluster-api-provider-tinkerbell?style=flat-square&color=blue)](https://github.com/tinkerbell/cluster-api-provider-tinkerbell/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinkerbell/cluster-api-provider-tinkerbell?style=flat-square&color=yellow)](https://github.com/tinkerbell/cluster-api-provider-tinkerbell/stargazers) [![Forks](https://img.shields.io/github/forks/tinkerbell/cluster-api-provider-tinkerbell?style=flat-square&color=blue)](https://github.com/tinkerbell/cluster-api-provider-tinkerbell/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Cluster API Infrastructure Provider
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

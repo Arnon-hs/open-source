@@ -1,6 +1,6 @@
 # securisec/chepy
 
-[![Stars](https://img.shields.io/github/stars/securisec/chepy?style=flat-square&color=yellow)](https://github.com/securisec/chepy/stargazers) [![Forks](https://img.shields.io/github/forks/securisec/chepy?style=flat-square&color=blue)](https://github.com/securisec/chepy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/securisec/chepy?style=flat-square&color=yellow)](https://github.com/securisec/chepy/stargazers) [![Forks](https://img.shields.io/github/forks/securisec/chepy?style=flat-square&color=blue)](https://github.com/securisec/chepy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

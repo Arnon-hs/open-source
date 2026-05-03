@@ -1,6 +1,6 @@
 # silky/tasty-cache
 
-[![Stars](https://img.shields.io/github/stars/silky/tasty-cache?style=flat-square&color=yellow)](https://github.com/silky/tasty-cache/stargazers) [![Forks](https://img.shields.io/github/forks/silky/tasty-cache?style=flat-square&color=blue)](https://github.com/silky/tasty-cache/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/silky/tasty-cache?style=flat-square&color=yellow)](https://github.com/silky/tasty-cache/stargazers) [![Forks](https://img.shields.io/github/forks/silky/tasty-cache?style=flat-square&color=blue)](https://github.com/silky/tasty-cache/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
 > Cache tests based on their source dependency tree; only re-run when source meaningfully changed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 34/100 |
+| 📈 **Score** | 30/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | lobsters |
 

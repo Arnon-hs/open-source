@@ -1,6 +1,6 @@
 # kcat/openal-soft
 
-[![Stars](https://img.shields.io/github/stars/kcat/openal-soft?style=flat-square&color=yellow)](https://github.com/kcat/openal-soft/stargazers) [![Forks](https://img.shields.io/github/forks/kcat/openal-soft?style=flat-square&color=blue)](https://github.com/kcat/openal-soft/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kcat/openal-soft?style=flat-square&color=yellow)](https://github.com/kcat/openal-soft/stargazers) [![Forks](https://img.shields.io/github/forks/kcat/openal-soft?style=flat-square&color=blue)](https://github.com/kcat/openal-soft/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 621 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

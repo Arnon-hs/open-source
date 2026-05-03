@@ -1,6 +1,6 @@
 # future-agi/agent-opt
 
-[![Stars](https://img.shields.io/github/stars/future-agi/agent-opt?style=flat-square&color=yellow)](https://github.com/future-agi/agent-opt/stargazers) [![Forks](https://img.shields.io/github/forks/future-agi/agent-opt?style=flat-square&color=blue)](https://github.com/future-agi/agent-opt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/future-agi/agent-opt?style=flat-square&color=yellow)](https://github.com/future-agi/agent-opt/stargazers) [![Forks](https://img.shields.io/github/forks/future-agi/agent-opt?style=flat-square&color=blue)](https://github.com/future-agi/agent-opt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Library for Automated Optimization of AI Agent Workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

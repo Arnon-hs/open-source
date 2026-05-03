@@ -25,7 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Dify-Helm is an open-source project that enables deployment of langgenious/dify, a language model-based application, on Kubernetes using a Helm chart. This project simplifies the process of setting up and managing dify on a Kubernetes cluster, making it accessible to developers and researchers alike. With Dify-Helm, users can easily deploy and manage their LLM-based applications on a scalable and containerized infrastructure.
+Here's a brief summary for the open-source project:
+
+Dify-helm is an open-source Helm chart that simplifies the deployment of langgenious/dify, a cutting-edge LLM-based application, on Kubernetes. This project leverages the power of Kubernetes and Helm to provide a streamlined and efficient way to deploy and manage the dify application. By using dify-helm, users can easily deploy and manage their LLM-based workflows on a scalable and reliable infrastructure.
 
 ---
 
