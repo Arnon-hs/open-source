@@ -1,6 +1,6 @@
 # SharzyL/pastebin-worker
 
-[![Stars](https://img.shields.io/github/stars/SharzyL/pastebin-worker?style=flat-square&color=yellow)](https://github.com/SharzyL/pastebin-worker/stargazers) [![Forks](https://img.shields.io/github/forks/SharzyL/pastebin-worker?style=flat-square&color=blue)](https://github.com/SharzyL/pastebin-worker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SharzyL/pastebin-worker?style=flat-square&color=yellow)](https://github.com/SharzyL/pastebin-worker/stargazers) [![Forks](https://img.shields.io/github/forks/SharzyL/pastebin-worker?style=flat-square&color=blue)](https://github.com/SharzyL/pastebin-worker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 991 |
-| 🍴 **Forks** | 341 |
+| 🍴 **Forks** | 342 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

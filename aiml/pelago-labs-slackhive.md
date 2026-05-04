@@ -1,6 +1,6 @@
 # pelago-labs/slackhive
 
-[![Stars](https://img.shields.io/github/stars/pelago-labs/slackhive?style=flat-square&color=yellow)](https://github.com/pelago-labs/slackhive/stargazers) [![Forks](https://img.shields.io/github/forks/pelago-labs/slackhive?style=flat-square&color=blue)](https://github.com/pelago-labs/slackhive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pelago-labs/slackhive?style=flat-square&color=yellow)](https://github.com/pelago-labs/slackhive/stargazers) [![Forks](https://img.shields.io/github/forks/pelago-labs/slackhive?style=flat-square&color=blue)](https://github.com/pelago-labs/slackhive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Build, deploy, and orchestrate teams of Claude Code AI agents on Slack
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

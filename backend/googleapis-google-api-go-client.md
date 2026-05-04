@@ -1,6 +1,6 @@
 # googleapis/google-api-go-client
 
-[![Stars](https://img.shields.io/github/stars/googleapis/google-api-go-client?style=flat-square&color=yellow)](https://github.com/googleapis/google-api-go-client/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-api-go-client?style=flat-square&color=blue)](https://github.com/googleapis/google-api-go-client/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/google-api-go-client?style=flat-square&color=yellow)](https://github.com/googleapis/google-api-go-client/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-api-go-client?style=flat-square&color=blue)](https://github.com/googleapis/google-api-go-client/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Auto-generated Google APIs for Go.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

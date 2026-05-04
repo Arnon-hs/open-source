@@ -1,6 +1,6 @@
 # onflow/cadence
 
-[![Stars](https://img.shields.io/github/stars/onflow/cadence?style=flat-square&color=yellow)](https://github.com/onflow/cadence/stargazers) [![Forks](https://img.shields.io/github/forks/onflow/cadence?style=flat-square&color=blue)](https://github.com/onflow/cadence/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onflow/cadence?style=flat-square&color=yellow)](https://github.com/onflow/cadence/stargazers) [![Forks](https://img.shields.io/github/forks/onflow/cadence?style=flat-square&color=blue)](https://github.com/onflow/cadence/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Cadence: the resource-oriented smart contract programming language of the Flow network. Capability-based security, type safety, and move semantics
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 545 |
+| ⭐ **Stars** | 546 |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

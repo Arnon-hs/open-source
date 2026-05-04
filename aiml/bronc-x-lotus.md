@@ -1,6 +1,6 @@
 # Bronc-X/Lotus
 
-[![Stars](https://img.shields.io/github/stars/Bronc-X/Lotus?style=flat-square&color=yellow)](https://github.com/Bronc-X/Lotus/stargazers) [![Forks](https://img.shields.io/github/forks/Bronc-X/Lotus?style=flat-square&color=blue)](https://github.com/Bronc-X/Lotus/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bronc-X/Lotus?style=flat-square&color=yellow)](https://github.com/Bronc-X/Lotus/stargazers) [![Forks](https://img.shields.io/github/forks/Bronc-X/Lotus?style=flat-square&color=blue)](https://github.com/Bronc-X/Lotus/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Write your AI agent rules once, deploy to every IDE. Global protocol for Claude Code, Cursor, Windsurf, Antigravity, Codex & more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

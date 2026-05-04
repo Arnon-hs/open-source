@@ -1,6 +1,6 @@
 # dereuromark/cakephp-queue
 
-[![Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue?style=flat-square&color=yellow)](https://github.com/dereuromark/cakephp-queue/stargazers) [![Forks](https://img.shields.io/github/forks/dereuromark/cakephp-queue?style=flat-square&color=blue)](https://github.com/dereuromark/cakephp-queue/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue?style=flat-square&color=yellow)](https://github.com/dereuromark/cakephp-queue/stargazers) [![Forks](https://img.shields.io/github/forks/dereuromark/cakephp-queue?style=flat-square&color=blue)](https://github.com/dereuromark/cakephp-queue/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Queue plugin for CakePHP - simple, pure PHP and without dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 138 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

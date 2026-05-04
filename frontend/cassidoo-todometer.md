@@ -1,6 +1,6 @@
 # cassidoo/todometer
 
-[![Stars](https://img.shields.io/github/stars/cassidoo/todometer?style=flat-square&color=yellow)](https://github.com/cassidoo/todometer/stargazers) [![Forks](https://img.shields.io/github/forks/cassidoo/todometer?style=flat-square&color=blue)](https://github.com/cassidoo/todometer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cassidoo/todometer?style=flat-square&color=yellow)](https://github.com/cassidoo/todometer/stargazers) [![Forks](https://img.shields.io/github/forks/cassidoo/todometer?style=flat-square&color=blue)](https://github.com/cassidoo/todometer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A meter-based to-do list
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 294 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

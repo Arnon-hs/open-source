@@ -1,6 +1,6 @@
 # wildfly/quickstart
 
-[![Stars](https://img.shields.io/github/stars/wildfly/quickstart?style=flat-square&color=yellow)](https://github.com/wildfly/quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/wildfly/quickstart?style=flat-square&color=blue)](https://github.com/wildfly/quickstart/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wildfly/quickstart?style=flat-square&color=yellow)](https://github.com/wildfly/quickstart/stargazers) [![Forks](https://img.shields.io/github/forks/wildfly/quickstart?style=flat-square&color=blue)](https://github.com/wildfly/quickstart/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Holds all versioned WildFly quickstarts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 926 |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

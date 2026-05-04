@@ -1,6 +1,6 @@
 # erweixin/RaTeX
 
-[![Stars](https://img.shields.io/github/stars/erweixin/RaTeX?style=flat-square&color=yellow)](https://github.com/erweixin/RaTeX/stargazers) [![Forks](https://img.shields.io/github/forks/erweixin/RaTeX?style=flat-square&color=blue)](https://github.com/erweixin/RaTeX/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erweixin/RaTeX?style=flat-square&color=yellow)](https://github.com/erweixin/RaTeX/stargazers) [![Forks](https://img.shields.io/github/forks/erweixin/RaTeX?style=flat-square&color=blue)](https://github.com/erweixin/RaTeX/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > >99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 696 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 768 |
+| 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # asciinema/asciinema-server
 
-[![Stars](https://img.shields.io/github/stars/asciinema/asciinema-server?style=flat-square&color=yellow)](https://github.com/asciinema/asciinema-server/stargazers) [![Forks](https://img.shields.io/github/forks/asciinema/asciinema-server?style=flat-square&color=blue)](https://github.com/asciinema/asciinema-server/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asciinema/asciinema-server?style=flat-square&color=yellow)](https://github.com/asciinema/asciinema-server/stargazers) [![Forks](https://img.shields.io/github/forks/asciinema/asciinema-server?style=flat-square&color=blue)](https://github.com/asciinema/asciinema-server/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Platform for hosting and sharing terminal session recordings
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 282 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # pragtical/pragtical
 
-[![Stars](https://img.shields.io/github/stars/pragtical/pragtical?style=flat-square&color=yellow)](https://github.com/pragtical/pragtical/stargazers) [![Forks](https://img.shields.io/github/forks/pragtical/pragtical?style=flat-square&color=blue)](https://github.com/pragtical/pragtical/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pragtical/pragtical?style=flat-square&color=yellow)](https://github.com/pragtical/pragtical/stargazers) [![Forks](https://img.shields.io/github/forks/pragtical/pragtical?style=flat-square&color=blue)](https://github.com/pragtical/pragtical/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The practical and pragmatic code editor.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 601 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

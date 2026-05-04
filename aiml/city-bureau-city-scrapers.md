@@ -1,6 +1,6 @@
 # City-Bureau/city-scrapers
 
-[![Stars](https://img.shields.io/github/stars/City-Bureau/city-scrapers?style=flat-square&color=yellow)](https://github.com/City-Bureau/city-scrapers/stargazers) [![Forks](https://img.shields.io/github/forks/City-Bureau/city-scrapers?style=flat-square&color=blue)](https://github.com/City-Bureau/city-scrapers/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/City-Bureau/city-scrapers?style=flat-square&color=yellow)](https://github.com/City-Bureau/city-scrapers/stargazers) [![Forks](https://img.shields.io/github/forks/City-Bureau/city-scrapers?style=flat-square&color=blue)](https://github.com/City-Bureau/city-scrapers/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Scrape, standardize and share public meetings from local government websites
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 376 |
 | 🍴 **Forks** | 323 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

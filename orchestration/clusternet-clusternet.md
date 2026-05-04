@@ -1,6 +1,6 @@
 # clusternet/clusternet
 
-[![Stars](https://img.shields.io/github/stars/clusternet/clusternet?style=flat-square&color=yellow)](https://github.com/clusternet/clusternet/stargazers) [![Forks](https://img.shields.io/github/forks/clusternet/clusternet?style=flat-square&color=blue)](https://github.com/clusternet/clusternet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clusternet/clusternet?style=flat-square&color=yellow)](https://github.com/clusternet/clusternet/stargazers) [![Forks](https://img.shields.io/github/forks/clusternet/clusternet?style=flat-square&color=blue)](https://github.com/clusternet/clusternet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > [CNCF Sandbox Project] Managing your Kubernetes clusters (including public, private, edge, etc.) as easily as visiting the Internet
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

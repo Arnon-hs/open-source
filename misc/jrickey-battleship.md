@@ -1,6 +1,6 @@
 # JRickey/BattleShip
 
-[![Stars](https://img.shields.io/github/stars/JRickey/BattleShip?style=flat-square&color=yellow)](https://github.com/JRickey/BattleShip/stargazers) [![Forks](https://img.shields.io/github/forks/JRickey/BattleShip?style=flat-square&color=blue)](https://github.com/JRickey/BattleShip/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JRickey/BattleShip?style=flat-square&color=yellow)](https://github.com/JRickey/BattleShip/stargazers) [![Forks](https://img.shields.io/github/forks/JRickey/BattleShip?style=flat-square&color=blue)](https://github.com/JRickey/BattleShip/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > A smashin' port for PC, Mac, and Linux!
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 141 |
+| ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 15 |
-| 💻 **Language** | C |
+| 💻 **Language** | C++ |
 | 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |

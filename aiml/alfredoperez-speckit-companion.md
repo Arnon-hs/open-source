@@ -1,6 +1,6 @@
 # alfredoperez/speckit-companion
 
-[![Stars](https://img.shields.io/github/stars/alfredoperez/speckit-companion?style=flat-square&color=yellow)](https://github.com/alfredoperez/speckit-companion/stargazers) [![Forks](https://img.shields.io/github/forks/alfredoperez/speckit-companion?style=flat-square&color=blue)](https://github.com/alfredoperez/speckit-companion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alfredoperez/speckit-companion?style=flat-square&color=yellow)](https://github.com/alfredoperez/speckit-companion/stargazers) [![Forks](https://img.shields.io/github/forks/alfredoperez/speckit-companion?style=flat-square&color=blue)](https://github.com/alfredoperez/speckit-companion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > VS Code extension for spec-driven development — manage specs, workflows, and steering docs for AI CLI tools (Claude Code, Gemini CLI, Copilot CLI)
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 45 |
-| 🍴 **Forks** | 14 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

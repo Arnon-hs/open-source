@@ -1,6 +1,6 @@
 # zapier/zapier-platform
 
-[![Stars](https://img.shields.io/github/stars/zapier/zapier-platform?style=flat-square&color=yellow)](https://github.com/zapier/zapier-platform/stargazers) [![Forks](https://img.shields.io/github/forks/zapier/zapier-platform?style=flat-square&color=blue)](https://github.com/zapier/zapier-platform/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zapier/zapier-platform?style=flat-square&color=yellow)](https://github.com/zapier/zapier-platform/stargazers) [![Forks](https://img.shields.io/github/forks/zapier/zapier-platform?style=flat-square&color=blue)](https://github.com/zapier/zapier-platform/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The toolkit for you to build an integration on Zapier
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 492 |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

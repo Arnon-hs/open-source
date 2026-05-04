@@ -1,6 +1,6 @@
 # globalcitizen/taoup
 
-[![Stars](https://img.shields.io/github/stars/globalcitizen/taoup?style=flat-square&color=yellow)](https://github.com/globalcitizen/taoup/stargazers) [![Forks](https://img.shields.io/github/forks/globalcitizen/taoup?style=flat-square&color=blue)](https://github.com/globalcitizen/taoup/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/globalcitizen/taoup?style=flat-square&color=yellow)](https://github.com/globalcitizen/taoup/stargazers) [![Forks](https://img.shields.io/github/forks/globalcitizen/taoup?style=flat-square&color=blue)](https://github.com/globalcitizen/taoup/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The Tao of Unix Programming (Ruby-powered ANSI colored fortunes)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 430 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

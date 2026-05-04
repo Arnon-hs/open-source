@@ -1,6 +1,6 @@
 # ThreeFish-AI/coding-proxy
 
-[![Stars](https://img.shields.io/github/stars/ThreeFish-AI/coding-proxy?style=flat-square&color=yellow)](https://github.com/ThreeFish-AI/coding-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/ThreeFish-AI/coding-proxy?style=flat-square&color=blue)](https://github.com/ThreeFish-AI/coding-proxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThreeFish-AI/coding-proxy?style=flat-square&color=yellow)](https://github.com/ThreeFish-AI/coding-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/ThreeFish-AI/coding-proxy?style=flat-square&color=blue)](https://github.com/ThreeFish-AI/coding-proxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A High-Availability, Transparent, and Smart Multi-Vendor Proxy for Claude Code. Support Claude Plans, GitHub Copilot, Google Antigravity, ZAI/GLM, MiniMax, Qwen, Xiaomi, Kimi, Doubao...
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

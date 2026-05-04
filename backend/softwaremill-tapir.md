@@ -1,6 +1,6 @@
 # softwaremill/tapir
 
-[![Stars](https://img.shields.io/github/stars/softwaremill/tapir?style=flat-square&color=yellow)](https://github.com/softwaremill/tapir/stargazers) [![Forks](https://img.shields.io/github/forks/softwaremill/tapir?style=flat-square&color=blue)](https://github.com/softwaremill/tapir/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/softwaremill/tapir?style=flat-square&color=yellow)](https://github.com/softwaremill/tapir/stargazers) [![Forks](https://img.shields.io/github/forks/softwaremill/tapir?style=flat-square&color=blue)](https://github.com/softwaremill/tapir/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Rapid development of self-documenting APIs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 464 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

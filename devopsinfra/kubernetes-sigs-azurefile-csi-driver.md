@@ -1,6 +1,6 @@
 # kubernetes-sigs/azurefile-csi-driver
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/azurefile-csi-driver?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/azurefile-csi-driver/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/azurefile-csi-driver?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/azurefile-csi-driver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/azurefile-csi-driver?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/azurefile-csi-driver/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/azurefile-csi-driver?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/azurefile-csi-driver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Azure File CSI Driver
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

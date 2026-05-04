@@ -1,6 +1,6 @@
 # pvpoke/pvpoke
 
-[![Stars](https://img.shields.io/github/stars/pvpoke/pvpoke?style=flat-square&color=yellow)](https://github.com/pvpoke/pvpoke/stargazers) [![Forks](https://img.shields.io/github/forks/pvpoke/pvpoke?style=flat-square&color=blue)](https://github.com/pvpoke/pvpoke/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pvpoke/pvpoke?style=flat-square&color=yellow)](https://github.com/pvpoke/pvpoke/stargazers) [![Forks](https://img.shields.io/github/forks/pvpoke/pvpoke?style=flat-square&color=blue)](https://github.com/pvpoke/pvpoke/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Open-Source Battle Simulator, Rankings & Team Building for Pokemon GO PvP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 367 |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

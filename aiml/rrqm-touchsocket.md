@@ -1,6 +1,6 @@
 # RRQM/TouchSocket
 
-[![Stars](https://img.shields.io/github/stars/RRQM/TouchSocket?style=flat-square&color=yellow)](https://github.com/RRQM/TouchSocket/stargazers) [![Forks](https://img.shields.io/github/forks/RRQM/TouchSocket?style=flat-square&color=blue)](https://github.com/RRQM/TouchSocket/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RRQM/TouchSocket?style=flat-square&color=yellow)](https://github.com/RRQM/TouchSocket/stargazers) [![Forks](https://img.shields.io/github/forks/RRQM/TouchSocket?style=flat-square&color=blue)](https://github.com/RRQM/TouchSocket/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > TouchSocket is an integrated .NET networking framework that includes modules for socket, TCP, UDP, SSL, named pipes, HTTP, WebSocket, RPC, and more. It offers a one-stop solution for TCP packet issues and enables quick implementation of custom data message parsing using protocol templates.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

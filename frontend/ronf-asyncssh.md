@@ -1,6 +1,6 @@
 # ronf/asyncssh
 
-[![Stars](https://img.shields.io/github/stars/ronf/asyncssh?style=flat-square&color=yellow)](https://github.com/ronf/asyncssh/stargazers) [![Forks](https://img.shields.io/github/forks/ronf/asyncssh?style=flat-square&color=blue)](https://github.com/ronf/asyncssh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ronf/asyncssh?style=flat-square&color=yellow)](https://github.com/ronf/asyncssh/stargazers) [![Forks](https://img.shields.io/github/forks/ronf/asyncssh?style=flat-square&color=blue)](https://github.com/ronf/asyncssh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > AsyncSSH is a Python package which provides an asynchronous client and server implementation of the SSHv2 protocol on top of the Python asyncio framework.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

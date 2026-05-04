@@ -1,6 +1,6 @@
 # bentoml/llm-inference-handbook
 
-[![Stars](https://img.shields.io/github/stars/bentoml/llm-inference-handbook?style=flat-square&color=yellow)](https://github.com/bentoml/llm-inference-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/bentoml/llm-inference-handbook?style=flat-square&color=blue)](https://github.com/bentoml/llm-inference-handbook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bentoml/llm-inference-handbook?style=flat-square&color=yellow)](https://github.com/bentoml/llm-inference-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/bentoml/llm-inference-handbook?style=flat-square&color=blue)](https://github.com/bentoml/llm-inference-handbook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Everything you need to know about LLM inference
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 282 |
+| ⭐ **Stars** | 283 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # dnsimple/erldns
 
-[![Stars](https://img.shields.io/github/stars/dnsimple/erldns?style=flat-square&color=yellow)](https://github.com/dnsimple/erldns/stargazers) [![Forks](https://img.shields.io/github/forks/dnsimple/erldns?style=flat-square&color=blue)](https://github.com/dnsimple/erldns/network) [![Language](https://img.shields.io/badge/lang-Erlang-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dnsimple/erldns?style=flat-square&color=yellow)](https://github.com/dnsimple/erldns/stargazers) [![Forks](https://img.shields.io/github/forks/dnsimple/erldns?style=flat-square&color=blue)](https://github.com/dnsimple/erldns/network) [![Language](https://img.shields.io/badge/lang-Erlang-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > DNS server, in Erlang.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 487 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Erlang |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

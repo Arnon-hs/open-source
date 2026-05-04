@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/letta-ai/lettabot?style=flat-square&color=yellow)](https://github.com/letta-ai/lettabot/stargazers) [![Forks](https://img.shields.io/github/forks/letta-ai/lettabot?style=flat-square&color=blue)](https://github.com/letta-ai/lettabot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> Your personal AI assistant that remembers everything across Telegram, Slack, WhatsApp, and Signal
+> Archived - has been replaced by Letta Code channels/schedules!
 
 ## 📊 Stats
 

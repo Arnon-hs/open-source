@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/TechNickAI/openclaw-config?style=flat-square&color=yellow)](https://github.com/TechNickAI/openclaw-config/stargazers) [![Forks](https://img.shields.io/github/forks/TechNickAI/openclaw-config?style=flat-square&color=blue)](https://github.com/TechNickAI/openclaw-config/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Give your AI assistant memory, skills, and autonomy. Persistent memory, 11 integration skills, and 4 autonomous workflows — all in markdown and Python scripts. Built for Claude Code.
+> Give your AI assistant memory, skills, and autonomy. Persistent memory, integration skills, and autonomous workflows
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 

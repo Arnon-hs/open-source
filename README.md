@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15853** |
+| 🗂️ **Total projects** | **15896** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,21 +18,21 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5905 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3299 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1563 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1157 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 968 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 937 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 536 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 5922 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3306 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1567 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1159 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 973 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 940 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 537 | [Browse →](./crypto/) |
 | 📊 **Data** | 361 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 338 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 339 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 218 | [Browse →](./mobile/) |
-| 💳 **Payments** | 164 | [Browse →](./payments/) |
+| 💳 **Payments** | 165 | [Browse →](./payments/) |
 | 📈 **Trading** | 163 | [Browse →](./trading/) |
 | 🔐 **Security** | 130 | [Browse →](./security/) |
-| ✨ **Design** | 52 | [Browse →](./design/) |
-| 🎯 **Product** | 31 | [Browse →](./product/) |
+| ✨ **Design** | 53 | [Browse →](./design/) |
+| 🎯 **Product** | 32 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [plankanban/planka](./frontend/plankanban-planka.md) | ⭐ 11.9k | Frontend |
-| 2 | [alibaba/spring-cloud-alibaba](./frontend/alibaba-spring-cloud-alibaba.md) | ⭐ 29.1k | Frontend |
-| 3 | [opendatalab/MinerU](./orchestration/opendatalab-mineru.md) | ⭐ 61.9k | Orchestration |
-| 4 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 131.3k | AI/ML |
-| 5 | [vuetifyjs/vuetify](./frontend/vuetifyjs-vuetify.md) | ⭐ 41k | Frontend |
-| 6 | [PaddlePaddle/Paddle](./aiml/paddlepaddle-paddle.md) | ⭐ 23.9k | AI/ML |
-| 7 | [ChenYilong/CYLTabBarController](./frontend/chenyilong-cyltabbarcontroller.md) | ⭐ 7k | Frontend |
-| 8 | [FlowiseAI/Flowise](./orchestration/flowiseai-flowise.md) | ⭐ 52.5k | Orchestration |
-| 9 | [zeek/zeek](./security/zeek-zeek.md) | ⭐ 7.6k | Security |
-| 10 | [liyupi/codefather](./aiml/liyupi-codefather.md) | ⭐ 7.2k | AI/ML |
+| 2 | [HumanSignal/label-studio](./aiml/humansignal-label-studio.md) | ⭐ 27.2k | AI/ML |
+| 3 | [alibaba/spring-cloud-alibaba](./frontend/alibaba-spring-cloud-alibaba.md) | ⭐ 29.1k | Frontend |
+| 4 | [microsoft/presidio](./aiml/microsoft-presidio.md) | ⭐ 7.9k | AI/ML |
+| 5 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
+| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 7 | [zitadel/zitadel](./aiml/zitadel-zitadel.md) | ⭐ 13.7k | AI/ML |
+| 8 | [mvanhorn/last30days-skill](./trading/mvanhorn-last30days-skill.md) | ⭐ 24.7k | Trading |
+| 9 | [goauthentik/authentik](./aiml/goauthentik-authentik.md) | ⭐ 21.3k | AI/ML |
+| 10 | [PrefectHQ/prefect](./orchestration/prefecthq-prefect.md) | ⭐ 22.3k | Orchestration |
 
 ## 🚀 How it works
 

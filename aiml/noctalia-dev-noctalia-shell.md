@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.3k |
-| 🍴 **Forks** | 457 |
+| 🍴 **Forks** | 458 |
 | 💻 **Language** | QML |
 | 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |

@@ -1,6 +1,6 @@
 # deepankarm/cinsights
 
-[![Stars](https://img.shields.io/github/stars/deepankarm/cinsights?style=flat-square&color=yellow)](https://github.com/deepankarm/cinsights/stargazers) [![Forks](https://img.shields.io/github/forks/deepankarm/cinsights?style=flat-square&color=blue)](https://github.com/deepankarm/cinsights/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepankarm/cinsights?style=flat-square&color=yellow)](https://github.com/deepankarm/cinsights/stargazers) [![Forks](https://img.shields.io/github/forks/deepankarm/cinsights?style=flat-square&color=blue)](https://github.com/deepankarm/cinsights/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Coding Agent insights for teams
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 24 |
+| ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

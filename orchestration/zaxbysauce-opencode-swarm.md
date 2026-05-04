@@ -1,6 +1,6 @@
 # zaxbysauce/opencode-swarm
 
-[![Stars](https://img.shields.io/github/stars/zaxbysauce/opencode-swarm?style=flat-square&color=yellow)](https://github.com/zaxbysauce/opencode-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/zaxbysauce/opencode-swarm?style=flat-square&color=blue)](https://github.com/zaxbysauce/opencode-swarm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zaxbysauce/opencode-swarm?style=flat-square&color=yellow)](https://github.com/zaxbysauce/opencode-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/zaxbysauce/opencode-swarm?style=flat-square&color=blue)](https://github.com/zaxbysauce/opencode-swarm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 294 |
-| 🍴 **Forks** | 28 |
+| ⭐ **Stars** | 296 |
+| 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

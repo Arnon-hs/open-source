@@ -1,6 +1,6 @@
 # kubefleet-dev/kubefleet
 
-[![Stars](https://img.shields.io/github/stars/kubefleet-dev/kubefleet?style=flat-square&color=yellow)](https://github.com/kubefleet-dev/kubefleet/stargazers) [![Forks](https://img.shields.io/github/forks/kubefleet-dev/kubefleet?style=flat-square&color=blue)](https://github.com/kubefleet-dev/kubefleet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubefleet-dev/kubefleet?style=flat-square&color=yellow)](https://github.com/kubefleet-dev/kubefleet/stargazers) [![Forks](https://img.shields.io/github/forks/kubefleet-dev/kubefleet?style=flat-square&color=blue)](https://github.com/kubefleet-dev/kubefleet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > KubeFleet is an open-source Kubernetes multi-cluster application management solution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # recodeee/gitguardex
 
-[![Stars](https://img.shields.io/github/stars/recodeee/gitguardex?style=flat-square&color=yellow)](https://github.com/recodeee/gitguardex/stargazers) [![Forks](https://img.shields.io/github/forks/recodeee/gitguardex?style=flat-square&color=blue)](https://github.com/recodeee/gitguardex/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/recodeee/gitguardex?style=flat-square&color=yellow)](https://github.com/recodeee/gitguardex/stargazers) [![Forks](https://img.shields.io/github/forks/recodeee/gitguardex?style=flat-square&color=blue)](https://github.com/recodeee/gitguardex/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Run many Codex & Claude agents in parallel without them overwriting each other. Isolated worktrees, file locks, PR-only merges. Auto-wires Oh My Codex, Oh My Claude, OpenSpec, and Caveman in every worktree.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # signal18/replication-manager
 
-[![Stars](https://img.shields.io/github/stars/signal18/replication-manager?style=flat-square&color=yellow)](https://github.com/signal18/replication-manager/stargazers) [![Forks](https://img.shields.io/github/forks/signal18/replication-manager?style=flat-square&color=blue)](https://github.com/signal18/replication-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/signal18/replication-manager?style=flat-square&color=yellow)](https://github.com/signal18/replication-manager/stargazers) [![Forks](https://img.shields.io/github/forks/signal18/replication-manager?style=flat-square&color=blue)](https://github.com/signal18/replication-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Signal 18 repman - Replication Manager for MySQL / MariaDB / Percona Server
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 727 |
+| ⭐ **Stars** | 728 |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

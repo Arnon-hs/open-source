@@ -1,6 +1,6 @@
 # prasadt1/agrinexus-ai
 
-[![Stars](https://img.shields.io/github/stars/prasadt1/agrinexus-ai?style=flat-square&color=yellow)](https://github.com/prasadt1/agrinexus-ai/stargazers) [![Forks](https://img.shields.io/github/forks/prasadt1/agrinexus-ai?style=flat-square&color=blue)](https://github.com/prasadt1/agrinexus-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prasadt1/agrinexus-ai?style=flat-square&color=yellow)](https://github.com/prasadt1/agrinexus-ai/stargazers) [![Forks](https://img.shields.io/github/forks/prasadt1/agrinexus-ai?style=flat-square&color=blue)](https://github.com/prasadt1/agrinexus-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
 > AgriNexus AI - Behavioral intervention engine for smallholder farmers (AWS 10,000 AIdeas Competition)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 34/100 |
+| 📈 **Score** | 30/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

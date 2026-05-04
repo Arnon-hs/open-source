@@ -1,6 +1,6 @@
 # ChenYilong/CYLTabBarController
 
-[![Stars](https://img.shields.io/github/stars/ChenYilong/CYLTabBarController?style=flat-square&color=yellow)](https://github.com/ChenYilong/CYLTabBarController/stargazers) [![Forks](https://img.shields.io/github/forks/ChenYilong/CYLTabBarController?style=flat-square&color=blue)](https://github.com/ChenYilong/CYLTabBarController/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChenYilong/CYLTabBarController?style=flat-square&color=yellow)](https://github.com/ChenYilong/CYLTabBarController/stargazers) [![Forks](https://img.shields.io/github/forks/ChenYilong/CYLTabBarController?style=flat-square&color=blue)](https://github.com/ChenYilong/CYLTabBarController/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > [EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, Liquid Glass and adding a bigger center UITabBar Item.  [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自带红点角标，支持动态刷新。【iOS26 & Dark Mode & iPhone 17 tested】
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 100/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

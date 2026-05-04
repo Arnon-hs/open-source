@@ -1,6 +1,6 @@
 # jiro4989/ojosama
 
-[![Stars](https://img.shields.io/github/stars/jiro4989/ojosama?style=flat-square&color=yellow)](https://github.com/jiro4989/ojosama/stargazers) [![Forks](https://img.shields.io/github/forks/jiro4989/ojosama?style=flat-square&color=blue)](https://github.com/jiro4989/ojosama/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jiro4989/ojosama?style=flat-square&color=yellow)](https://github.com/jiro4989/ojosama/stargazers) [![Forks](https://img.shields.io/github/forks/jiro4989/ojosama?style=flat-square&color=blue)](https://github.com/jiro4989/ojosama/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > テキストを壱百満天原サロメお嬢様風の口調に変換します
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 387 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

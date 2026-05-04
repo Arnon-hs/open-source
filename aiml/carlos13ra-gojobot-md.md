@@ -1,6 +1,6 @@
 # carlos13ra/GOJOBOT-MD
 
-[![Stars](https://img.shields.io/github/stars/carlos13ra/GOJOBOT-MD?style=flat-square&color=yellow)](https://github.com/carlos13ra/GOJOBOT-MD/stargazers) [![Forks](https://img.shields.io/github/forks/carlos13ra/GOJOBOT-MD?style=flat-square&color=blue)](https://github.com/carlos13ra/GOJOBOT-MD/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carlos13ra/GOJOBOT-MD?style=flat-square&color=yellow)](https://github.com/carlos13ra/GOJOBOT-MD/stargazers) [![Forks](https://img.shields.io/github/forks/carlos13ra/GOJOBOT-MD?style=flat-square&color=blue)](https://github.com/carlos13ra/GOJOBOT-MD/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > OFFICIAL GOJOBOT-MD ✅ | Original WhatsApp Multi-Device Bot created Aug 2025 by MANGUITO PROGRAMS | Developer: Carlos13ra - Carlos Ramirez | Beware of fake copies
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

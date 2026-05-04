@@ -1,6 +1,6 @@
 # openprose/prose
 
-[![Stars](https://img.shields.io/github/stars/openprose/prose?style=flat-square&color=yellow)](https://github.com/openprose/prose/stargazers) [![Forks](https://img.shields.io/github/forks/openprose/prose?style=flat-square&color=blue)](https://github.com/openprose/prose/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openprose/prose?style=flat-square&color=yellow)](https://github.com/openprose/prose/stargazers) [![Forks](https://img.shields.io/github/forks/openprose/prose?style=flat-square&color=blue)](https://github.com/openprose/prose/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A new kind of language for a new kind of computer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

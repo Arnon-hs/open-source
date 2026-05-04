@@ -1,6 +1,6 @@
 # getfloresta/Floresta
 
-[![Stars](https://img.shields.io/github/stars/getfloresta/Floresta?style=flat-square&color=yellow)](https://github.com/getfloresta/Floresta/stargazers) [![Forks](https://img.shields.io/github/forks/getfloresta/Floresta?style=flat-square&color=blue)](https://github.com/getfloresta/Floresta/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getfloresta/Floresta?style=flat-square&color=yellow)](https://github.com/getfloresta/Floresta/stargazers) [![Forks](https://img.shields.io/github/forks/getfloresta/Floresta?style=flat-square&color=blue)](https://github.com/getfloresta/Floresta/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight and embeddable Bitcoin client, built for sovereignty.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 403 |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

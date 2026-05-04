@@ -1,6 +1,6 @@
 # SaladDay/cc-switch-cli
 
-[![Stars](https://img.shields.io/github/stars/SaladDay/cc-switch-cli?style=flat-square&color=yellow)](https://github.com/SaladDay/cc-switch-cli/stargazers) [![Forks](https://img.shields.io/github/forks/SaladDay/cc-switch-cli?style=flat-square&color=blue)](https://github.com/SaladDay/cc-switch-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SaladDay/cc-switch-cli?style=flat-square&color=yellow)](https://github.com/SaladDay/cc-switch-cli/stargazers) [![Forks](https://img.shields.io/github/forks/SaladDay/cc-switch-cli?style=flat-square&color=blue)](https://github.com/SaladDay/cc-switch-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

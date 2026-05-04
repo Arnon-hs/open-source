@@ -1,6 +1,6 @@
 # Shopify/ruby-lsp
 
-[![Stars](https://img.shields.io/github/stars/Shopify/ruby-lsp?style=flat-square&color=yellow)](https://github.com/Shopify/ruby-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/Shopify/ruby-lsp?style=flat-square&color=blue)](https://github.com/Shopify/ruby-lsp/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shopify/ruby-lsp?style=flat-square&color=yellow)](https://github.com/Shopify/ruby-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/Shopify/ruby-lsp?style=flat-square&color=blue)](https://github.com/Shopify/ruby-lsp/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > An opinionated language server for Ruby
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 253 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

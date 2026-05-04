@@ -1,6 +1,6 @@
 # elementary-data/elementary
 
-[![Stars](https://img.shields.io/github/stars/elementary-data/elementary?style=flat-square&color=yellow)](https://github.com/elementary-data/elementary/stargazers) [![Forks](https://img.shields.io/github/forks/elementary-data/elementary?style=flat-square&color=blue)](https://github.com/elementary-data/elementary/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elementary-data/elementary?style=flat-square&color=yellow)](https://github.com/elementary-data/elementary/stargazers) [![Forks](https://img.shields.io/github/forks/elementary-data/elementary?style=flat-square&color=blue)](https://github.com/elementary-data/elementary/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

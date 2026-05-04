@@ -1,17 +1,17 @@
 # NoahCzelusta/mcpages
 
-[![Stars](https://img.shields.io/github/stars/NoahCzelusta/mcpages?style=flat-square&color=yellow)](https://github.com/NoahCzelusta/mcpages/stargazers) [![Forks](https://img.shields.io/github/forks/NoahCzelusta/mcpages?style=flat-square&color=blue)](https://github.com/NoahCzelusta/mcpages/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NoahCzelusta/mcpages?style=flat-square&color=yellow)](https://github.com/NoahCzelusta/mcpages/stargazers) [![Forks](https://img.shields.io/github/forks/NoahCzelusta/mcpages?style=flat-square&color=blue)](https://github.com/NoahCzelusta/mcpages/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-0%2F100-brightgreen?style=flat-square)](#)
 
-> Open source MCPages app
+> _No description provided._
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3 |
+| ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
-| 💻 **Language** | TypeScript |
-| 📈 **Score** | 36/100 |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 0/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Misc
+_uncategorized_
 
 ## 📝 Summary
 

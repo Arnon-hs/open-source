@@ -1,6 +1,6 @@
 # holochain/holochain
 
-[![Stars](https://img.shields.io/github/stars/holochain/holochain?style=flat-square&color=yellow)](https://github.com/holochain/holochain/stargazers) [![Forks](https://img.shields.io/github/forks/holochain/holochain?style=flat-square&color=blue)](https://github.com/holochain/holochain/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/holochain/holochain?style=flat-square&color=yellow)](https://github.com/holochain/holochain/stargazers) [![Forks](https://img.shields.io/github/forks/holochain/holochain?style=flat-square&color=blue)](https://github.com/holochain/holochain/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The current, performant & industrial strength version of Holochain on Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

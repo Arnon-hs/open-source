@@ -1,6 +1,6 @@
 # manusa/podman-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/manusa/podman-mcp-server?style=flat-square&color=yellow)](https://github.com/manusa/podman-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/manusa/podman-mcp-server?style=flat-square&color=blue)](https://github.com/manusa/podman-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/manusa/podman-mcp-server?style=flat-square&color=yellow)](https://github.com/manusa/podman-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/manusa/podman-mcp-server?style=flat-square&color=blue)](https://github.com/manusa/podman-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol (MCP) server for container runtimes (Podman and Docker)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

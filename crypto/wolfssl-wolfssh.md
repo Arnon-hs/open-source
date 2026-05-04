@@ -1,6 +1,6 @@
 # wolfSSL/wolfssh
 
-[![Stars](https://img.shields.io/github/stars/wolfSSL/wolfssh?style=flat-square&color=yellow)](https://github.com/wolfSSL/wolfssh/stargazers) [![Forks](https://img.shields.io/github/forks/wolfSSL/wolfssh?style=flat-square&color=blue)](https://github.com/wolfSSL/wolfssh/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wolfSSL/wolfssh?style=flat-square&color=yellow)](https://github.com/wolfSSL/wolfssh/stargazers) [![Forks](https://img.shields.io/github/forks/wolfSSL/wolfssh?style=flat-square&color=blue)](https://github.com/wolfSSL/wolfssh/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > wolfSSH is a small, fast, portable SSH implementation, including support for SCP and SFTP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 461 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

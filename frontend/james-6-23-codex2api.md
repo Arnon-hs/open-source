@@ -1,0 +1,32 @@
+# james-6-23/codex2api
+
+[![Stars](https://img.shields.io/github/stars/james-6-23/codex2api?style=flat-square&color=yellow)](https://github.com/james-6-23/codex2api/stargazers) [![Forks](https://img.shields.io/github/forks/james-6-23/codex2api?style=flat-square&color=blue)](https://github.com/james-6-23/codex2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+
+> Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 943 |
+| 🍴 **Forks** | 181 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Frontend · Backend
+
+## 📝 Summary
+
+Codex2API is an open-source project that enables seamless integration and conversion of user-generated content from the Codex AI model. This project provides a backend solution, allowing developers to access and utilize the vast potential of Codex's capabilities in their own applications. By leveraging Codex2API, users can tap into Codex's advanced language understanding and generation capabilities.
+
+---
+
+<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/james-6-23/codex2api) · [← Back to Frontend](./README.md)</sub>

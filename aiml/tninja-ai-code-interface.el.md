@@ -1,6 +1,6 @@
 # tninja/ai-code-interface.el
 
-[![Stars](https://img.shields.io/github/stars/tninja/ai-code-interface.el?style=flat-square&color=yellow)](https://github.com/tninja/ai-code-interface.el/stargazers) [![Forks](https://img.shields.io/github/forks/tninja/ai-code-interface.el?style=flat-square&color=blue)](https://github.com/tninja/ai-code-interface.el/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tninja/ai-code-interface.el?style=flat-square&color=yellow)](https://github.com/tninja/ai-code-interface.el/stargazers) [![Forks](https://img.shields.io/github/forks/tninja/ai-code-interface.el?style=flat-square&color=blue)](https://github.com/tninja/ai-code-interface.el/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Unified Emacs interface supporting OpenAI Codex, GitHub Copilot CLI, Claude Code, Gemini CLI, Opencode, and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 214 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

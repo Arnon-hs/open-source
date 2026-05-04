@@ -1,6 +1,6 @@
 # Legcord/Legcord
 
-[![Stars](https://img.shields.io/github/stars/Legcord/Legcord?style=flat-square&color=yellow)](https://github.com/Legcord/Legcord/stargazers) [![Forks](https://img.shields.io/github/forks/Legcord/Legcord?style=flat-square&color=blue)](https://github.com/Legcord/Legcord/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Legcord/Legcord?style=flat-square&color=yellow)](https://github.com/Legcord/Legcord/stargazers) [![Forks](https://img.shields.io/github/forks/Legcord/Legcord?style=flat-square&color=blue)](https://github.com/Legcord/Legcord/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

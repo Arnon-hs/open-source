@@ -1,6 +1,6 @@
 # SumoLogic/sumologic-kubernetes-collection
 
-[![Stars](https://img.shields.io/github/stars/SumoLogic/sumologic-kubernetes-collection?style=flat-square&color=yellow)](https://github.com/SumoLogic/sumologic-kubernetes-collection/stargazers) [![Forks](https://img.shields.io/github/forks/SumoLogic/sumologic-kubernetes-collection?style=flat-square&color=blue)](https://github.com/SumoLogic/sumologic-kubernetes-collection/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SumoLogic/sumologic-kubernetes-collection?style=flat-square&color=yellow)](https://github.com/SumoLogic/sumologic-kubernetes-collection/stargazers) [![Forks](https://img.shields.io/github/forks/SumoLogic/sumologic-kubernetes-collection?style=flat-square&color=blue)](https://github.com/SumoLogic/sumologic-kubernetes-collection/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Sumo Logic collection solution for Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

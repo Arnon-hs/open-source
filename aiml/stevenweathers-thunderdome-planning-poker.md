@@ -1,6 +1,6 @@
 # StevenWeathers/thunderdome-planning-poker
 
-[![Stars](https://img.shields.io/github/stars/StevenWeathers/thunderdome-planning-poker?style=flat-square&color=yellow)](https://github.com/StevenWeathers/thunderdome-planning-poker/stargazers) [![Forks](https://img.shields.io/github/forks/StevenWeathers/thunderdome-planning-poker?style=flat-square&color=blue)](https://github.com/StevenWeathers/thunderdome-planning-poker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StevenWeathers/thunderdome-planning-poker?style=flat-square&color=yellow)](https://github.com/StevenWeathers/thunderdome-planning-poker/stargazers) [![Forks](https://img.shields.io/github/forks/StevenWeathers/thunderdome-planning-poker?style=flat-square&color=blue)](https://github.com/StevenWeathers/thunderdome-planning-poker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 490 |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

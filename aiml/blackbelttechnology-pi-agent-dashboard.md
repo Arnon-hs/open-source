@@ -1,6 +1,6 @@
 # BlackBeltTechnology/pi-agent-dashboard
 
-[![Stars](https://img.shields.io/github/stars/BlackBeltTechnology/pi-agent-dashboard?style=flat-square&color=yellow)](https://github.com/BlackBeltTechnology/pi-agent-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/BlackBeltTechnology/pi-agent-dashboard?style=flat-square&color=blue)](https://github.com/BlackBeltTechnology/pi-agent-dashboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlackBeltTechnology/pi-agent-dashboard?style=flat-square&color=yellow)](https://github.com/BlackBeltTechnology/pi-agent-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/BlackBeltTechnology/pi-agent-dashboard?style=flat-square&color=blue)](https://github.com/BlackBeltTechnology/pi-agent-dashboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff viewer, pi-flows execution, and mobile-first remote control via mDNS or zrok tunnel. Coexists with pi's TUI — doesn't replace it.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 61 |
-| 🍴 **Forks** | 3 |
+| ⭐ **Stars** | 64 |
+| 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

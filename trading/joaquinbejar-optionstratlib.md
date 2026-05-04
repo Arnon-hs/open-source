@@ -1,6 +1,6 @@
 # joaquinbejar/OptionStratLib
 
-[![Stars](https://img.shields.io/github/stars/joaquinbejar/OptionStratLib?style=flat-square&color=yellow)](https://github.com/joaquinbejar/OptionStratLib/stargazers) [![Forks](https://img.shields.io/github/forks/joaquinbejar/OptionStratLib?style=flat-square&color=blue)](https://github.com/joaquinbejar/OptionStratLib/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joaquinbejar/OptionStratLib?style=flat-square&color=yellow)](https://github.com/joaquinbejar/OptionStratLib/stargazers) [![Forks](https://img.shields.io/github/forks/joaquinbejar/OptionStratLib?style=flat-square&color=blue)](https://github.com/joaquinbejar/OptionStratLib/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > OptionStratLib is a comprehensive Rust library for options trading and strategy development across multiple asset classes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

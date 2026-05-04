@@ -1,6 +1,6 @@
 # HiThink-Research/BizFinBench
 
-[![Stars](https://img.shields.io/github/stars/HiThink-Research/BizFinBench?style=flat-square&color=yellow)](https://github.com/HiThink-Research/BizFinBench/stargazers) [![Forks](https://img.shields.io/github/forks/HiThink-Research/BizFinBench?style=flat-square&color=blue)](https://github.com/HiThink-Research/BizFinBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HiThink-Research/BizFinBench?style=flat-square&color=yellow)](https://github.com/HiThink-Research/BizFinBench/stargazers) [![Forks](https://img.shields.io/github/forks/HiThink-Research/BizFinBench?style=flat-square&color=blue)](https://github.com/HiThink-Research/BizFinBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A Business-Driven Real-World Financial Benchmark for Evaluating LLMs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

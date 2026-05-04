@@ -1,6 +1,6 @@
 # supabase/supabase-swift
 
-[![Stars](https://img.shields.io/github/stars/supabase/supabase-swift?style=flat-square&color=yellow)](https://github.com/supabase/supabase-swift/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/supabase-swift?style=flat-square&color=blue)](https://github.com/supabase/supabase-swift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supabase/supabase-swift?style=flat-square&color=yellow)](https://github.com/supabase/supabase-swift/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/supabase-swift?style=flat-square&color=blue)](https://github.com/supabase/supabase-swift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Swift SDK for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse Swift examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 243 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # dance-of-tal/dot-studio
 
-[![Stars](https://img.shields.io/github/stars/dance-of-tal/dot-studio?style=flat-square&color=yellow)](https://github.com/dance-of-tal/dot-studio/stargazers) [![Forks](https://img.shields.io/github/forks/dance-of-tal/dot-studio?style=flat-square&color=blue)](https://github.com/dance-of-tal/dot-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dance-of-tal/dot-studio?style=flat-square&color=yellow)](https://github.com/dance-of-tal/dot-studio/stargazers) [![Forks](https://img.shields.io/github/forks/dance-of-tal/dot-studio?style=flat-square&color=blue)](https://github.com/dance-of-tal/dot-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Design Your AI Agents
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 371 |
-| 🍴 **Forks** | 58 |
+| ⭐ **Stars** | 374 |
+| 🍴 **Forks** | 60 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

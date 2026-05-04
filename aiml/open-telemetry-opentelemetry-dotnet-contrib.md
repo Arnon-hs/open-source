@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-dotnet-contrib
 
-[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-dotnet-contrib?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-dotnet-contrib/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-dotnet-contrib?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-dotnet-contrib/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-dotnet-contrib?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-dotnet-contrib/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-dotnet-contrib?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-dotnet-contrib/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 637 |
 | 🍴 **Forks** | 381 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

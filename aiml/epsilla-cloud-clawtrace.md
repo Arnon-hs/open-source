@@ -1,6 +1,6 @@
 # epsilla-cloud/clawtrace
 
-[![Stars](https://img.shields.io/github/stars/epsilla-cloud/clawtrace?style=flat-square&color=yellow)](https://github.com/epsilla-cloud/clawtrace/stargazers) [![Forks](https://img.shields.io/github/forks/epsilla-cloud/clawtrace?style=flat-square&color=blue)](https://github.com/epsilla-cloud/clawtrace/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/epsilla-cloud/clawtrace?style=flat-square&color=yellow)](https://github.com/epsilla-cloud/clawtrace/stargazers) [![Forks](https://img.shields.io/github/forks/epsilla-cloud/clawtrace?style=flat-square&color=blue)](https://github.com/epsilla-cloud/clawtrace/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Make your OpenClaw agents better, cheaper, and faster.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

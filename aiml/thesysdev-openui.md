@@ -1,6 +1,6 @@
 # thesysdev/openui
 
-[![Stars](https://img.shields.io/github/stars/thesysdev/openui?style=flat-square&color=yellow)](https://github.com/thesysdev/openui/stargazers) [![Forks](https://img.shields.io/github/forks/thesysdev/openui?style=flat-square&color=blue)](https://github.com/thesysdev/openui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thesysdev/openui?style=flat-square&color=yellow)](https://github.com/thesysdev/openui/stargazers) [![Forks](https://img.shields.io/github/forks/thesysdev/openui?style=flat-square&color=blue)](https://github.com/thesysdev/openui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > The Open Standard for Generative UI
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 242 |
+| ⭐ **Stars** | 3.9k |
+| 🍴 **Forks** | 249 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

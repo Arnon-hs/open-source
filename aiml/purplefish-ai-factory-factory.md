@@ -1,6 +1,6 @@
 # purplefish-ai/factory-factory
 
-[![Stars](https://img.shields.io/github/stars/purplefish-ai/factory-factory?style=flat-square&color=yellow)](https://github.com/purplefish-ai/factory-factory/stargazers) [![Forks](https://img.shields.io/github/forks/purplefish-ai/factory-factory?style=flat-square&color=blue)](https://github.com/purplefish-ai/factory-factory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/purplefish-ai/factory-factory?style=flat-square&color=yellow)](https://github.com/purplefish-ai/factory-factory/stargazers) [![Forks](https://img.shields.io/github/forks/purplefish-ai/factory-factory?style=flat-square&color=blue)](https://github.com/purplefish-ai/factory-factory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Workspace-based coding environment for running multiple Claude Code and Codex sessions in parallel.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

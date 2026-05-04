@@ -1,6 +1,6 @@
 # deeplay-io/nice-grpc
 
-[![Stars](https://img.shields.io/github/stars/deeplay-io/nice-grpc?style=flat-square&color=yellow)](https://github.com/deeplay-io/nice-grpc/stargazers) [![Forks](https://img.shields.io/github/forks/deeplay-io/nice-grpc?style=flat-square&color=blue)](https://github.com/deeplay-io/nice-grpc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deeplay-io/nice-grpc?style=flat-square&color=yellow)](https://github.com/deeplay-io/nice-grpc/stargazers) [![Forks](https://img.shields.io/github/forks/deeplay-io/nice-grpc?style=flat-square&color=blue)](https://github.com/deeplay-io/nice-grpc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A TypeScript gRPC library that is nice to you
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 530 |
+| ⭐ **Stars** | 531 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

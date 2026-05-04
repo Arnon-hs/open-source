@@ -1,6 +1,6 @@
 # cocoindex-io/cocoindex
 
-[![Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=flat-square&color=yellow)](https://github.com/cocoindex-io/cocoindex/stargazers) [![Forks](https://img.shields.io/github/forks/cocoindex-io/cocoindex?style=flat-square&color=blue)](https://github.com/cocoindex-io/cocoindex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=flat-square&color=yellow)](https://github.com/cocoindex-io/cocoindex/stargazers) [![Forks](https://img.shields.io/github/forks/cocoindex-io/cocoindex?style=flat-square&color=blue)](https://github.com/cocoindex-io/cocoindex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
 > Incremental engine for long horizon agents 🌟 Star if you like it!
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.7k |
-| 🍴 **Forks** | 566 |
+| 🍴 **Forks** | 573 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 93/100 |
+| 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

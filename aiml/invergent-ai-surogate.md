@@ -1,6 +1,6 @@
 # invergent-ai/surogate
 
-[![Stars](https://img.shields.io/github/stars/invergent-ai/surogate?style=flat-square&color=yellow)](https://github.com/invergent-ai/surogate/stargazers) [![Forks](https://img.shields.io/github/forks/invergent-ai/surogate?style=flat-square&color=blue)](https://github.com/invergent-ai/surogate/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/invergent-ai/surogate?style=flat-square&color=yellow)](https://github.com/invergent-ai/surogate/stargazers) [![Forks](https://img.shields.io/github/forks/invergent-ai/surogate?style=flat-square&color=blue)](https://github.com/invergent-ai/surogate/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Training/Fine-tuning at the speed of light
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

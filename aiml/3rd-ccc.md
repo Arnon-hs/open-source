@@ -1,6 +1,6 @@
 # 3rd/ccc
 
-[![Stars](https://img.shields.io/github/stars/3rd/ccc?style=flat-square&color=yellow)](https://github.com/3rd/ccc/stargazers) [![Forks](https://img.shields.io/github/forks/3rd/ccc?style=flat-square&color=blue)](https://github.com/3rd/ccc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/3rd/ccc?style=flat-square&color=yellow)](https://github.com/3rd/ccc/stargazers) [![Forks](https://img.shields.io/github/forks/3rd/ccc?style=flat-square&color=blue)](https://github.com/3rd/ccc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Custom launcher for Claude Code, supporting dynamic prompts, layered configuration and easy custom hooks and MCPs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

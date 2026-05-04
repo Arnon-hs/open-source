@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/federicodeponte/opendraft?style=flat-square&color=yellow)](https://github.com/federicodeponte/opendraft/stargazers) [![Forks](https://img.shields.io/github/forks/federicodeponte/opendraft?style=flat-square&color=blue)](https://github.com/federicodeponte/opendraft/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Open-source AI thesis writer with 19 specialized agents. Generate 20k+ word research drafts in 10 minutes. FREE (Gemini). Verified citations from 250M+ papers (Crossref, OpenAlex, Semantic Scholar). Export PDF/Word/LaTeX. MIT licensed.
+> Open-source AI thesis writer with 19 specialized agents. Generate 20k+ word research drafts in 10 minutes. FREE (Gemini). Verified citations from 500M+ papers. Export PDF/Word/LaTeX. MIT licensed. Hosted version at openpaper.dev
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 98 |
-| 🍴 **Forks** | 21 |
+| ⭐ **Stars** | 104 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |

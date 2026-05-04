@@ -1,6 +1,6 @@
 # aws/amazon-vpc-cni-k8s
 
-[![Stars](https://img.shields.io/github/stars/aws/amazon-vpc-cni-k8s?style=flat-square&color=yellow)](https://github.com/aws/amazon-vpc-cni-k8s/stargazers) [![Forks](https://img.shields.io/github/forks/aws/amazon-vpc-cni-k8s?style=flat-square&color=blue)](https://github.com/aws/amazon-vpc-cni-k8s/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/amazon-vpc-cni-k8s?style=flat-square&color=yellow)](https://github.com/aws/amazon-vpc-cni-k8s/stargazers) [![Forks](https://img.shields.io/github/forks/aws/amazon-vpc-cni-k8s?style=flat-square&color=blue)](https://github.com/aws/amazon-vpc-cni-k8s/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 811 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 411 |
-| 🍴 **Forks** | 39 |
+| 🍴 **Forks** | 40 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |

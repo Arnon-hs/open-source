@@ -1,6 +1,6 @@
 # fxamacker/cbor
 
-[![Stars](https://img.shields.io/github/stars/fxamacker/cbor?style=flat-square&color=yellow)](https://github.com/fxamacker/cbor/stargazers) [![Forks](https://img.shields.io/github/forks/fxamacker/cbor?style=flat-square&color=blue)](https://github.com/fxamacker/cbor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fxamacker/cbor?style=flat-square&color=yellow)](https://github.com/fxamacker/cbor/stargazers) [![Forks](https://img.shields.io/github/forks/fxamacker/cbor?style=flat-square&color=blue)](https://github.com/fxamacker/cbor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > CBOR codec (RFC 8949, RFC 8742) with CBOR tags, Go struct tag options (toarray, keyasint, omitempty, omitzero), float64/32/16, big.Int, and fuzz tested.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

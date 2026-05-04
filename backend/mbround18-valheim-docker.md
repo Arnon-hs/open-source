@@ -1,6 +1,6 @@
 # mbround18/valheim-docker
 
-[![Stars](https://img.shields.io/github/stars/mbround18/valheim-docker?style=flat-square&color=yellow)](https://github.com/mbround18/valheim-docker/stargazers) [![Forks](https://img.shields.io/github/forks/mbround18/valheim-docker?style=flat-square&color=blue)](https://github.com/mbround18/valheim-docker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mbround18/valheim-docker?style=flat-square&color=yellow)](https://github.com/mbround18/valheim-docker/stargazers) [![Forks](https://img.shields.io/github/forks/mbround18/valheim-docker?style=flat-square&color=blue)](https://github.com/mbround18/valheim-docker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interface.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 835 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

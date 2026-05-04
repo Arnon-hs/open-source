@@ -1,6 +1,6 @@
 # edgee-ai/edgee
 
-[![Stars](https://img.shields.io/github/stars/edgee-ai/edgee?style=flat-square&color=yellow)](https://github.com/edgee-ai/edgee/stargazers) [![Forks](https://img.shields.io/github/forks/edgee-ai/edgee?style=flat-square&color=blue)](https://github.com/edgee-ai/edgee/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edgee-ai/edgee?style=flat-square&color=yellow)](https://github.com/edgee-ai/edgee/stargazers) [![Forks](https://img.shields.io/github/forks/edgee-ai/edgee?style=flat-square&color=blue)](https://github.com/edgee-ai/edgee/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI gateway written in Rust, with token compression for Claude Code, Codex... and any other LLM client.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

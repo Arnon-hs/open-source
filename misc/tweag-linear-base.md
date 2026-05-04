@@ -1,6 +1,6 @@
 # tweag/linear-base
 
-[![Stars](https://img.shields.io/github/stars/tweag/linear-base?style=flat-square&color=yellow)](https://github.com/tweag/linear-base/stargazers) [![Forks](https://img.shields.io/github/forks/tweag/linear-base?style=flat-square&color=blue)](https://github.com/tweag/linear-base/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tweag/linear-base?style=flat-square&color=yellow)](https://github.com/tweag/linear-base/stargazers) [![Forks](https://img.shields.io/github/forks/tweag/linear-base?style=flat-square&color=blue)](https://github.com/tweag/linear-base/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Standard library for linear types in Haskell.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 356 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

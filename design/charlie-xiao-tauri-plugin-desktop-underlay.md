@@ -1,6 +1,6 @@
 # Charlie-XIAO/tauri-plugin-desktop-underlay
 
-[![Stars](https://img.shields.io/github/stars/Charlie-XIAO/tauri-plugin-desktop-underlay?style=flat-square&color=yellow)](https://github.com/Charlie-XIAO/tauri-plugin-desktop-underlay/stargazers) [![Forks](https://img.shields.io/github/forks/Charlie-XIAO/tauri-plugin-desktop-underlay?style=flat-square&color=blue)](https://github.com/Charlie-XIAO/tauri-plugin-desktop-underlay/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Charlie-XIAO/tauri-plugin-desktop-underlay?style=flat-square&color=yellow)](https://github.com/Charlie-XIAO/tauri-plugin-desktop-underlay/stargazers) [![Forks](https://img.shields.io/github/forks/Charlie-XIAO/tauri-plugin-desktop-underlay?style=flat-square&color=blue)](https://github.com/Charlie-XIAO/tauri-plugin-desktop-underlay/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Tauri plugin for making a window a desktop underlay, attached to the desktop, above the wallpaper, and below desktop icons.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 141 |
+| ⭐ **Stars** | 142 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

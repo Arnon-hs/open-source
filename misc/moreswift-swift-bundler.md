@@ -1,6 +1,6 @@
 # moreSwift/swift-bundler
 
-[![Stars](https://img.shields.io/github/stars/moreSwift/swift-bundler?style=flat-square&color=yellow)](https://github.com/moreSwift/swift-bundler/stargazers) [![Forks](https://img.shields.io/github/forks/moreSwift/swift-bundler?style=flat-square&color=blue)](https://github.com/moreSwift/swift-bundler/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moreSwift/swift-bundler?style=flat-square&color=yellow)](https://github.com/moreSwift/swift-bundler/stargazers) [![Forks](https://img.shields.io/github/forks/moreSwift/swift-bundler?style=flat-square&color=blue)](https://github.com/moreSwift/swift-bundler/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > An Xcodeproj-less tool for creating cross-platform Swift apps.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 485 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

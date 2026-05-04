@@ -1,6 +1,6 @@
 # kuberstar/qartez-mcp
 
-[![Stars](https://img.shields.io/github/stars/kuberstar/qartez-mcp?style=flat-square&color=yellow)](https://github.com/kuberstar/qartez-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/kuberstar/qartez-mcp?style=flat-square&color=blue)](https://github.com/kuberstar/qartez-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kuberstar/qartez-mcp?style=flat-square&color=yellow)](https://github.com/kuberstar/qartez-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/kuberstar/qartez-mcp?style=flat-square&color=blue)](https://github.com/kuberstar/qartez-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Semantic code intelligence MCP server for Claude Code - project maps, symbol search, impact analysis, and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

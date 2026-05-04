@@ -1,6 +1,6 @@
 # strands-labs/ai-functions
 
-[![Stars](https://img.shields.io/github/stars/strands-labs/ai-functions?style=flat-square&color=yellow)](https://github.com/strands-labs/ai-functions/stargazers) [![Forks](https://img.shields.io/github/forks/strands-labs/ai-functions?style=flat-square&color=blue)](https://github.com/strands-labs/ai-functions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-labs/ai-functions?style=flat-square&color=yellow)](https://github.com/strands-labs/ai-functions/stargazers) [![Forks](https://img.shields.io/github/forks/strands-labs/ai-functions?style=flat-square&color=blue)](https://github.com/strands-labs/ai-functions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Python functions powered by AI agents - with runtime post-conditions for reliable agentic workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 268 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

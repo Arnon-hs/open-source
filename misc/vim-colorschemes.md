@@ -1,6 +1,6 @@
 # vim/colorschemes
 
-[![Stars](https://img.shields.io/github/stars/vim/colorschemes?style=flat-square&color=yellow)](https://github.com/vim/colorschemes/stargazers) [![Forks](https://img.shields.io/github/forks/vim/colorschemes?style=flat-square&color=blue)](https://github.com/vim/colorschemes/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vim/colorschemes?style=flat-square&color=yellow)](https://github.com/vim/colorschemes/stargazers) [![Forks](https://img.shields.io/github/forks/vim/colorschemes?style=flat-square&color=blue)](https://github.com/vim/colorschemes/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > colorschemes for Vim
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 320 |
+| ⭐ **Stars** | 321 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Vim Script |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

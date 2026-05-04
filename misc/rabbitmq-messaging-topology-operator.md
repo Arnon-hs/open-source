@@ -1,6 +1,6 @@
 # rabbitmq/messaging-topology-operator
 
-[![Stars](https://img.shields.io/github/stars/rabbitmq/messaging-topology-operator?style=flat-square&color=yellow)](https://github.com/rabbitmq/messaging-topology-operator/stargazers) [![Forks](https://img.shields.io/github/forks/rabbitmq/messaging-topology-operator?style=flat-square&color=blue)](https://github.com/rabbitmq/messaging-topology-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rabbitmq/messaging-topology-operator?style=flat-square&color=yellow)](https://github.com/rabbitmq/messaging-topology-operator/stargazers) [![Forks](https://img.shields.io/github/forks/rabbitmq/messaging-topology-operator?style=flat-square&color=blue)](https://github.com/rabbitmq/messaging-topology-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > RabbitMQ messaging topology operator
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 156 |
+| ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

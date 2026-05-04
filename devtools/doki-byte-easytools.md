@@ -1,6 +1,6 @@
 # doki-byte/EasyTools
 
-[![Stars](https://img.shields.io/github/stars/doki-byte/EasyTools?style=flat-square&color=yellow)](https://github.com/doki-byte/EasyTools/stargazers) [![Forks](https://img.shields.io/github/forks/doki-byte/EasyTools?style=flat-square&color=blue)](https://github.com/doki-byte/EasyTools/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/doki-byte/EasyTools?style=flat-square&color=yellow)](https://github.com/doki-byte/EasyTools/stargazers) [![Forks](https://img.shields.io/github/forks/doki-byte/EasyTools?style=flat-square&color=blue)](https://github.com/doki-byte/EasyTools/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > EasyTools - 一个简单方便使用的渗透测试工具箱,集成了工具仓库、网址导航、简练助手、CTF合集、代理池、cli脚本定时执行等诸多功能。
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 263 |
+| ⭐ **Stars** | 264 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # couchbase/query
 
-[![Stars](https://img.shields.io/github/stars/couchbase/query?style=flat-square&color=yellow)](https://github.com/couchbase/query/stargazers) [![Forks](https://img.shields.io/github/forks/couchbase/query?style=flat-square&color=blue)](https://github.com/couchbase/query/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/couchbase/query?style=flat-square&color=yellow)](https://github.com/couchbase/query/stargazers) [![Forks](https://img.shields.io/github/forks/couchbase/query?style=flat-square&color=blue)](https://github.com/couchbase/query/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Query engine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

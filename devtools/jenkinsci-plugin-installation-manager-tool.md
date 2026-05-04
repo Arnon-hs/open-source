@@ -1,6 +1,6 @@
 # jenkinsci/plugin-installation-manager-tool
 
-[![Stars](https://img.shields.io/github/stars/jenkinsci/plugin-installation-manager-tool?style=flat-square&color=yellow)](https://github.com/jenkinsci/plugin-installation-manager-tool/stargazers) [![Forks](https://img.shields.io/github/forks/jenkinsci/plugin-installation-manager-tool?style=flat-square&color=blue)](https://github.com/jenkinsci/plugin-installation-manager-tool/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jenkinsci/plugin-installation-manager-tool?style=flat-square&color=yellow)](https://github.com/jenkinsci/plugin-installation-manager-tool/stargazers) [![Forks](https://img.shields.io/github/forks/jenkinsci/plugin-installation-manager-tool?style=flat-square&color=blue)](https://github.com/jenkinsci/plugin-installation-manager-tool/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Plugin Manager CLI tool for Jenkins
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 225 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

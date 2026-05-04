@@ -1,6 +1,6 @@
 # playframework/playframework
 
-[![Stars](https://img.shields.io/github/stars/playframework/playframework?style=flat-square&color=yellow)](https://github.com/playframework/playframework/stargazers) [![Forks](https://img.shields.io/github/forks/playframework/playframework?style=flat-square&color=blue)](https://github.com/playframework/playframework/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/playframework/playframework?style=flat-square&color=yellow)](https://github.com/playframework/playframework/stargazers) [![Forks](https://img.shields.io/github/forks/playframework/playframework?style=flat-square&color=blue)](https://github.com/playframework/playframework/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > The Community Maintained High Velocity Web Framework For Java and Scala.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.6k |
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 100/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

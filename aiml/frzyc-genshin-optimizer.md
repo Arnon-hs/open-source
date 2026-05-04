@@ -1,6 +1,6 @@
 # frzyc/genshin-optimizer
 
-[![Stars](https://img.shields.io/github/stars/frzyc/genshin-optimizer?style=flat-square&color=yellow)](https://github.com/frzyc/genshin-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/frzyc/genshin-optimizer?style=flat-square&color=blue)](https://github.com/frzyc/genshin-optimizer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frzyc/genshin-optimizer?style=flat-square&color=yellow)](https://github.com/frzyc/genshin-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/frzyc/genshin-optimizer?style=flat-square&color=blue)](https://github.com/frzyc/genshin-optimizer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > An Artifact optimizer for Genshin Impact(And other Gacha games).
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 965 |
-| 🍴 **Forks** | 257 |
+| ⭐ **Stars** | 966 |
+| 🍴 **Forks** | 258 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

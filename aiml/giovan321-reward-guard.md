@@ -1,6 +1,6 @@
 # Giovan321/Reward-Guard
 
-[![Stars](https://img.shields.io/github/stars/Giovan321/Reward-Guard?style=flat-square&color=yellow)](https://github.com/Giovan321/Reward-Guard/stargazers) [![Forks](https://img.shields.io/github/forks/Giovan321/Reward-Guard?style=flat-square&color=blue)](https://github.com/Giovan321/Reward-Guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Giovan321/Reward-Guard?style=flat-square&color=yellow)](https://github.com/Giovan321/Reward-Guard/stargazers) [![Forks](https://img.shields.io/github/forks/Giovan321/Reward-Guard?style=flat-square&color=blue)](https://github.com/Giovan321/Reward-Guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Plug-and-play reward monitoring for RL training loops. Catch reward hacking, component imbalance, and starvation before they tank your run. Drop in one .step() call — get balance reports, auto weight correction, alignment scores, and WandB/TensorBoard/SB3 integrations out of the box. → rewardguard.dev
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -1,6 +1,6 @@
 # infosecB/LOOBins
 
-[![Stars](https://img.shields.io/github/stars/infosecB/LOOBins?style=flat-square&color=yellow)](https://github.com/infosecB/LOOBins/stargazers) [![Forks](https://img.shields.io/github/forks/infosecB/LOOBins?style=flat-square&color=blue)](https://github.com/infosecB/LOOBins/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/infosecB/LOOBins?style=flat-square&color=yellow)](https://github.com/infosecB/LOOBins/stargazers) [![Forks](https://img.shields.io/github/forks/infosecB/LOOBins?style=flat-square&color=blue)](https://github.com/infosecB/LOOBins/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Living Off the Orchard: macOS Binaries (LOOBins) is designed to provide detailed information on various built-in "living off the land" macOS binaries and how they can be used by threat actors for malicious purposes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 536 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

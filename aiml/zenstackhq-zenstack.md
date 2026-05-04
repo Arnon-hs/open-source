@@ -1,6 +1,6 @@
 # zenstackhq/zenstack
 
-[![Stars](https://img.shields.io/github/stars/zenstackhq/zenstack?style=flat-square&color=yellow)](https://github.com/zenstackhq/zenstack/stargazers) [![Forks](https://img.shields.io/github/forks/zenstackhq/zenstack?style=flat-square&color=blue)](https://github.com/zenstackhq/zenstack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zenstackhq/zenstack?style=flat-square&color=yellow)](https://github.com/zenstackhq/zenstack/stargazers) [![Forks](https://img.shields.io/github/forks/zenstackhq/zenstack?style=flat-square&color=blue)](https://github.com/zenstackhq/zenstack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

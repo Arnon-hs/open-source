@@ -1,6 +1,6 @@
 # danielsogl/lighthouse-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/danielsogl/lighthouse-mcp-server?style=flat-square&color=yellow)](https://github.com/danielsogl/lighthouse-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/danielsogl/lighthouse-mcp-server?style=flat-square&color=blue)](https://github.com/danielsogl/lighthouse-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danielsogl/lighthouse-mcp-server?style=flat-square&color=yellow)](https://github.com/danielsogl/lighthouse-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/danielsogl/lighthouse-mcp-server?style=flat-square&color=blue)](https://github.com/danielsogl/lighthouse-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that enables AI agents to perform comprehensive web audits using Google Lighthouse with 13+ tools for performance, accessibility, SEO, and security analysis.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 56 |
+| ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

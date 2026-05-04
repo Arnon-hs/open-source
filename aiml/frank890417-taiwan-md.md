@@ -1,6 +1,6 @@
 # frank890417/taiwan-md
 
-[![Stars](https://img.shields.io/github/stars/frank890417/taiwan-md?style=flat-square&color=yellow)](https://github.com/frank890417/taiwan-md/stargazers) [![Forks](https://img.shields.io/github/forks/frank890417/taiwan-md?style=flat-square&color=blue)](https://github.com/frank890417/taiwan-md/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frank890417/taiwan-md?style=flat-square&color=yellow)](https://github.com/frank890417/taiwan-md/stargazers) [![Forks](https://img.shields.io/github/forks/frank890417/taiwan-md?style=flat-square&color=blue)](https://github.com/frank890417/taiwan-md/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 969 |
 | 🍴 **Forks** | 144 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | HTML |
 | 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

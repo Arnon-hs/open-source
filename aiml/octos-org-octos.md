@@ -1,6 +1,6 @@
 # octos-org/octos
 
-[![Stars](https://img.shields.io/github/stars/octos-org/octos?style=flat-square&color=yellow)](https://github.com/octos-org/octos/stargazers) [![Forks](https://img.shields.io/github/forks/octos-org/octos?style=flat-square&color=blue)](https://github.com/octos-org/octos/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/octos-org/octos?style=flat-square&color=yellow)](https://github.com/octos-org/octos/stargazers) [![Forks](https://img.shields.io/github/forks/octos-org/octos?style=flat-square&color=blue)](https://github.com/octos-org/octos/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Octos - Agentic Operating Systems
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 512 |
-| 🍴 **Forks** | 36 |
+| ⭐ **Stars** | 552 |
+| 🍴 **Forks** | 43 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

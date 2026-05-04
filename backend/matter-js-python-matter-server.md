@@ -1,6 +1,6 @@
 # matter-js/python-matter-server
 
-[![Stars](https://img.shields.io/github/stars/matter-js/python-matter-server?style=flat-square&color=yellow)](https://github.com/matter-js/python-matter-server/stargazers) [![Forks](https://img.shields.io/github/forks/matter-js/python-matter-server?style=flat-square&color=blue)](https://github.com/matter-js/python-matter-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matter-js/python-matter-server?style=flat-square&color=yellow)](https://github.com/matter-js/python-matter-server/stargazers) [![Forks](https://img.shields.io/github/forks/matter-js/python-matter-server?style=flat-square&color=blue)](https://github.com/matter-js/python-matter-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Python server to interact with Matter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

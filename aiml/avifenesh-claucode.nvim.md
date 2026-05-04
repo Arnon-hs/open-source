@@ -1,6 +1,6 @@
 # avifenesh/claucode.nvim
 
-[![Stars](https://img.shields.io/github/stars/avifenesh/claucode.nvim?style=flat-square&color=yellow)](https://github.com/avifenesh/claucode.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/avifenesh/claucode.nvim?style=flat-square&color=blue)](https://github.com/avifenesh/claucode.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avifenesh/claucode.nvim?style=flat-square&color=yellow)](https://github.com/avifenesh/claucode.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/avifenesh/claucode.nvim?style=flat-square&color=blue)](https://github.com/avifenesh/claucode.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A Neovim bridge plugin for Claude Code CLI, providing seamless integration between your editor and Claude's AI capabilities.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

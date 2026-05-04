@@ -1,6 +1,6 @@
 # PixVerseAI/skills
 
-[![Stars](https://img.shields.io/github/stars/PixVerseAI/skills?style=flat-square&color=yellow)](https://github.com/PixVerseAI/skills/stargazers) [![Forks](https://img.shields.io/github/forks/PixVerseAI/skills?style=flat-square&color=blue)](https://github.com/PixVerseAI/skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PixVerseAI/skills?style=flat-square&color=yellow)](https://github.com/PixVerseAI/skills/stargazers) [![Forks](https://img.shields.io/github/forks/PixVerseAI/skills?style=flat-square&color=blue)](https://github.com/PixVerseAI/skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skill library for PixVerse CLI — helps AI agents (Claude Code, Cursor, Codex, etc.) generate videos and images through structured, composable workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

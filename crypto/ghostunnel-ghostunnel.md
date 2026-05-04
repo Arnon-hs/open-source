@@ -1,6 +1,6 @@
 # ghostunnel/ghostunnel
 
-[![Stars](https://img.shields.io/github/stars/ghostunnel/ghostunnel?style=flat-square&color=yellow)](https://github.com/ghostunnel/ghostunnel/stargazers) [![Forks](https://img.shields.io/github/forks/ghostunnel/ghostunnel?style=flat-square&color=blue)](https://github.com/ghostunnel/ghostunnel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ghostunnel/ghostunnel?style=flat-square&color=yellow)](https://github.com/ghostunnel/ghostunnel/stargazers) [![Forks](https://img.shields.io/github/forks/ghostunnel/ghostunnel?style=flat-square&color=blue)](https://github.com/ghostunnel/ghostunnel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

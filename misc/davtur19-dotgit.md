@@ -1,6 +1,6 @@
 # davtur19/DotGit
 
-[![Stars](https://img.shields.io/github/stars/davtur19/DotGit?style=flat-square&color=yellow)](https://github.com/davtur19/DotGit/stargazers) [![Forks](https://img.shields.io/github/forks/davtur19/DotGit?style=flat-square&color=blue)](https://github.com/davtur19/DotGit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davtur19/DotGit?style=flat-square&color=yellow)](https://github.com/davtur19/DotGit/stargazers) [![Forks](https://img.shields.io/github/forks/davtur19/DotGit?style=flat-square&color=blue)](https://github.com/davtur19/DotGit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An extension for checking if .git is exposed in visited websites
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 470 |
+| ⭐ **Stars** | 471 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

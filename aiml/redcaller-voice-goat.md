@@ -1,6 +1,6 @@
 # redcaller/voice-goat
 
-[![Stars](https://img.shields.io/github/stars/redcaller/voice-goat?style=flat-square&color=yellow)](https://github.com/redcaller/voice-goat/stargazers) [![Forks](https://img.shields.io/github/forks/redcaller/voice-goat?style=flat-square&color=blue)](https://github.com/redcaller/voice-goat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redcaller/voice-goat?style=flat-square&color=yellow)](https://github.com/redcaller/voice-goat/stargazers) [![Forks](https://img.shields.io/github/forks/redcaller/voice-goat?style=flat-square&color=blue)](https://github.com/redcaller/voice-goat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > A purposely vulnerable voice agent application for security practitioners to practice exploiting voice-based (and text based) AI systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

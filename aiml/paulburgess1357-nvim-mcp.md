@@ -1,6 +1,6 @@
 # paulburgess1357/nvim-mcp
 
-[![Stars](https://img.shields.io/github/stars/paulburgess1357/nvim-mcp?style=flat-square&color=yellow)](https://github.com/paulburgess1357/nvim-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/paulburgess1357/nvim-mcp?style=flat-square&color=blue)](https://github.com/paulburgess1357/nvim-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paulburgess1357/nvim-mcp?style=flat-square&color=yellow)](https://github.com/paulburgess1357/nvim-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/paulburgess1357/nvim-mcp?style=flat-square&color=blue)](https://github.com/paulburgess1357/nvim-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that connects AI agents to your running Neovim instance via msgpack-RPC — no plugins required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
