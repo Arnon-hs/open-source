@@ -1,6 +1,6 @@
 # etiennebacher/jarl
 
-[![Stars](https://img.shields.io/github/stars/etiennebacher/jarl?style=flat-square&color=yellow)](https://github.com/etiennebacher/jarl/stargazers) [![Forks](https://img.shields.io/github/forks/etiennebacher/jarl?style=flat-square&color=blue)](https://github.com/etiennebacher/jarl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/etiennebacher/jarl?style=flat-square&color=yellow)](https://github.com/etiennebacher/jarl/stargazers) [![Forks](https://img.shields.io/github/forks/etiennebacher/jarl?style=flat-square&color=blue)](https://github.com/etiennebacher/jarl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Just another R linter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

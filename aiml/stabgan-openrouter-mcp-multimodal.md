@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/stabgan/openrouter-mcp-multimodal?style=flat-square&color=yellow)](https://github.com/stabgan/openrouter-mcp-multimodal/stargazers) [![Forks](https://img.shields.io/github/forks/stabgan/openrouter-mcp-multimodal?style=flat-square&color=blue)](https://github.com/stabgan/openrouter-mcp-multimodal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> MCP server for OpenRouter: 300+ LLMs with vision, image gen, audio in/out, and video analysis + generation (Veo 3.1 / Sora 2 Pro / Seedance / Wan). Structured errors, IPv6 SSRF guards, path sandbox.
+> MCP server for OpenRouter — chat with 300+ LLMs (Claude, Gemini, GPT), analyze images / audio / video, generate images / speech / music / video (Veo 3.1, Sora, Seedance, Wan) from Claude Desktop, Cursor, Kiro, VS Code.
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # datallmhub/spring-agent-flow
 
-[![Stars](https://img.shields.io/github/stars/datallmhub/spring-agent-flow?style=flat-square&color=yellow)](https://github.com/datallmhub/spring-agent-flow/stargazers) [![Forks](https://img.shields.io/github/forks/datallmhub/spring-agent-flow?style=flat-square&color=blue)](https://github.com/datallmhub/spring-agent-flow/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datallmhub/spring-agent-flow?style=flat-square&color=yellow)](https://github.com/datallmhub/spring-agent-flow/stargazers) [![Forks](https://img.shields.io/github/forks/datallmhub/spring-agent-flow?style=flat-square&color=blue)](https://github.com/datallmhub/spring-agent-flow/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent orchestration framework on top of Spring AI
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 16 |
-| 🍴 **Forks** | 4 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

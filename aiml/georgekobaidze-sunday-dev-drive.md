@@ -1,6 +1,6 @@
 # georgekobaidze/sunday-dev-drive
 
-[![Stars](https://img.shields.io/github/stars/georgekobaidze/sunday-dev-drive?style=flat-square&color=yellow)](https://github.com/georgekobaidze/sunday-dev-drive/stargazers) [![Forks](https://img.shields.io/github/forks/georgekobaidze/sunday-dev-drive?style=flat-square&color=blue)](https://github.com/georgekobaidze/sunday-dev-drive/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/georgekobaidze/sunday-dev-drive?style=flat-square&color=yellow)](https://github.com/georgekobaidze/sunday-dev-drive/stargazers) [![Forks](https://img.shields.io/github/forks/georgekobaidze/sunday-dev-drive?style=flat-square&color=blue)](https://github.com/georgekobaidze/sunday-dev-drive/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > A synthwave driving experience through your DEV Community articles
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

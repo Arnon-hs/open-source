@@ -1,6 +1,6 @@
 # Razz19/Exort
 
-[![Stars](https://img.shields.io/github/stars/Razz19/Exort?style=flat-square&color=yellow)](https://github.com/Razz19/Exort/stargazers) [![Forks](https://img.shields.io/github/forks/Razz19/Exort?style=flat-square&color=blue)](https://github.com/Razz19/Exort/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Razz19/Exort?style=flat-square&color=yellow)](https://github.com/Razz19/Exort/stargazers) [![Forks](https://img.shields.io/github/forks/Razz19/Exort?style=flat-square&color=blue)](https://github.com/Razz19/Exort/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Exort is a coding agent for embedded devices
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 4 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | Svelte |
 | 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

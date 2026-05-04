@@ -1,6 +1,6 @@
 # komunite/kalfa
 
-[![Stars](https://img.shields.io/github/stars/komunite/kalfa?style=flat-square&color=yellow)](https://github.com/komunite/kalfa/stargazers) [![Forks](https://img.shields.io/github/forks/komunite/kalfa?style=flat-square&color=blue)](https://github.com/komunite/kalfa/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/komunite/kalfa?style=flat-square&color=yellow)](https://github.com/komunite/kalfa/stargazers) [![Forks](https://img.shields.io/github/forks/komunite/kalfa?style=flat-square&color=blue)](https://github.com/komunite/kalfa/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 253 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

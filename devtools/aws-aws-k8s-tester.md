@@ -1,6 +1,6 @@
 # aws/aws-k8s-tester
 
-[![Stars](https://img.shields.io/github/stars/aws/aws-k8s-tester?style=flat-square&color=yellow)](https://github.com/aws/aws-k8s-tester/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-k8s-tester?style=flat-square&color=blue)](https://github.com/aws/aws-k8s-tester/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/aws-k8s-tester?style=flat-square&color=yellow)](https://github.com/aws/aws-k8s-tester/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-k8s-tester?style=flat-square&color=blue)](https://github.com/aws/aws-k8s-tester/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Tools for testing Kubernetes on AWS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 183 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

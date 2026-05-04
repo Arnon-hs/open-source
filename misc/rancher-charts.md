@@ -1,6 +1,6 @@
 # rancher/charts
 
-[![Stars](https://img.shields.io/github/stars/rancher/charts?style=flat-square&color=yellow)](https://github.com/rancher/charts/stargazers) [![Forks](https://img.shields.io/github/forks/rancher/charts?style=flat-square&color=blue)](https://github.com/rancher/charts/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rancher/charts?style=flat-square&color=yellow)](https://github.com/rancher/charts/stargazers) [![Forks](https://img.shields.io/github/forks/rancher/charts?style=flat-square&color=blue)](https://github.com/rancher/charts/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Github based Helm Chart Index Repository providing charts crafted for Rancher Manager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 428 |
 | 🍴 **Forks** | 737 |
 | 💻 **Language** | Go Template |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

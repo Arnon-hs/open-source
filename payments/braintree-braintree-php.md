@@ -1,6 +1,6 @@
 # braintree/braintree_php
 
-[![Stars](https://img.shields.io/github/stars/braintree/braintree_php?style=flat-square&color=yellow)](https://github.com/braintree/braintree_php/stargazers) [![Forks](https://img.shields.io/github/forks/braintree/braintree_php?style=flat-square&color=blue)](https://github.com/braintree/braintree_php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/braintree/braintree_php?style=flat-square&color=yellow)](https://github.com/braintree/braintree_php/stargazers) [![Forks](https://img.shields.io/github/forks/braintree/braintree_php?style=flat-square&color=blue)](https://github.com/braintree/braintree_php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Braintree PHP library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 555 |
 | 🍴 **Forks** | 226 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

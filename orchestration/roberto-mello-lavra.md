@@ -1,6 +1,6 @@
 # roberto-mello/lavra
 
-[![Stars](https://img.shields.io/github/stars/roberto-mello/lavra?style=flat-square&color=yellow)](https://github.com/roberto-mello/lavra/stargazers) [![Forks](https://img.shields.io/github/forks/roberto-mello/lavra?style=flat-square&color=blue)](https://github.com/roberto-mello/lavra/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roberto-mello/lavra?style=flat-square&color=yellow)](https://github.com/roberto-mello/lavra/stargazers) [![Forks](https://img.shields.io/github/forks/roberto-mello/lavra?style=flat-square&color=blue)](https://github.com/roberto-mello/lavra/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A plugin with compound engineering workflows and memory for AI coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # containers/gvisor-tap-vsock
 
-[![Stars](https://img.shields.io/github/stars/containers/gvisor-tap-vsock?style=flat-square&color=yellow)](https://github.com/containers/gvisor-tap-vsock/stargazers) [![Forks](https://img.shields.io/github/forks/containers/gvisor-tap-vsock?style=flat-square&color=blue)](https://github.com/containers/gvisor-tap-vsock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/containers/gvisor-tap-vsock?style=flat-square&color=yellow)](https://github.com/containers/gvisor-tap-vsock/stargazers) [![Forks](https://img.shields.io/github/forks/containers/gvisor-tap-vsock?style=flat-square&color=blue)](https://github.com/containers/gvisor-tap-vsock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > A new network stack based on gVisor
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 385 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

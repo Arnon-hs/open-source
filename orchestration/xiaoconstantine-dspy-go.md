@@ -1,6 +1,6 @@
 # XiaoConstantine/dspy-go
 
-[![Stars](https://img.shields.io/github/stars/XiaoConstantine/dspy-go?style=flat-square&color=yellow)](https://github.com/XiaoConstantine/dspy-go/stargazers) [![Forks](https://img.shields.io/github/forks/XiaoConstantine/dspy-go?style=flat-square&color=blue)](https://github.com/XiaoConstantine/dspy-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XiaoConstantine/dspy-go?style=flat-square&color=yellow)](https://github.com/XiaoConstantine/dspy-go/stargazers) [![Forks](https://img.shields.io/github/forks/XiaoConstantine/dspy-go?style=flat-square&color=blue)](https://github.com/XiaoConstantine/dspy-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > DSPy Go implementation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

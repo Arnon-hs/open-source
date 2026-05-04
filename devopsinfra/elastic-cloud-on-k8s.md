@@ -1,6 +1,6 @@
 # elastic/cloud-on-k8s
 
-[![Stars](https://img.shields.io/github/stars/elastic/cloud-on-k8s?style=flat-square&color=yellow)](https://github.com/elastic/cloud-on-k8s/stargazers) [![Forks](https://img.shields.io/github/forks/elastic/cloud-on-k8s?style=flat-square&color=blue)](https://github.com/elastic/cloud-on-k8s/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elastic/cloud-on-k8s?style=flat-square&color=yellow)](https://github.com/elastic/cloud-on-k8s/stargazers) [![Forks](https://img.shields.io/github/forks/elastic/cloud-on-k8s?style=flat-square&color=blue)](https://github.com/elastic/cloud-on-k8s/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Elastic Cloud on Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 786 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

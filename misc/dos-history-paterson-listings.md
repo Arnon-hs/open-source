@@ -1,6 +1,6 @@
 # DOS-History/Paterson-Listings
 
-[![Stars](https://img.shields.io/github/stars/DOS-History/Paterson-Listings?style=flat-square&color=yellow)](https://github.com/DOS-History/Paterson-Listings/stargazers) [![Forks](https://img.shields.io/github/forks/DOS-History/Paterson-Listings?style=flat-square&color=blue)](https://github.com/DOS-History/Paterson-Listings/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DOS-History/Paterson-Listings?style=flat-square&color=yellow)](https://github.com/DOS-History/Paterson-Listings/stargazers) [![Forks](https://img.shields.io/github/forks/DOS-History/Paterson-Listings?style=flat-square&color=blue)](https://github.com/DOS-History/Paterson-Listings/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Transcription of Tim Paterson's DOS printouts.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 767 |
+| ⭐ **Stars** | 776 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Assembly |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

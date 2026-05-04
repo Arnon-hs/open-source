@@ -1,6 +1,6 @@
 # MonicaFidalgo/git-garden
 
-[![Stars](https://img.shields.io/github/stars/MonicaFidalgo/git-garden?style=flat-square&color=yellow)](https://github.com/MonicaFidalgo/git-garden/stargazers) [![Forks](https://img.shields.io/github/forks/MonicaFidalgo/git-garden?style=flat-square&color=blue)](https://github.com/MonicaFidalgo/git-garden/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MonicaFidalgo/git-garden?style=flat-square&color=yellow)](https://github.com/MonicaFidalgo/git-garden/stargazers) [![Forks](https://img.shields.io/github/forks/MonicaFidalgo/git-garden?style=flat-square&color=blue)](https://github.com/MonicaFidalgo/git-garden/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-26%2F100-brightgreen?style=flat-square)](#)
 
 > Your GitHub contributions as a living garden.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 30/100 |
+| 📈 **Score** | 26/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

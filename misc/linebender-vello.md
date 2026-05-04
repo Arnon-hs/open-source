@@ -1,6 +1,6 @@
 # linebender/vello
 
-[![Stars](https://img.shields.io/github/stars/linebender/vello?style=flat-square&color=yellow)](https://github.com/linebender/vello/stargazers) [![Forks](https://img.shields.io/github/forks/linebender/vello?style=flat-square&color=blue)](https://github.com/linebender/vello/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linebender/vello?style=flat-square&color=yellow)](https://github.com/linebender/vello/stargazers) [![Forks](https://img.shields.io/github/forks/linebender/vello?style=flat-square&color=blue)](https://github.com/linebender/vello/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A GPU compute-centric 2D renderer.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 244 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

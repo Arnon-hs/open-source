@@ -1,6 +1,6 @@
 # Phil1988/FreeDi
 
-[![Stars](https://img.shields.io/github/stars/Phil1988/FreeDi?style=flat-square&color=yellow)](https://github.com/Phil1988/FreeDi/stargazers) [![Forks](https://img.shields.io/github/forks/Phil1988/FreeDi?style=flat-square&color=blue)](https://github.com/Phil1988/FreeDi/network) [![Language](https://img.shields.io/badge/lang-G-code-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Phil1988/FreeDi?style=flat-square&color=yellow)](https://github.com/Phil1988/FreeDi/stargazers) [![Forks](https://img.shields.io/github/forks/Phil1988/FreeDi?style=flat-square&color=blue)](https://github.com/Phil1988/FreeDi/network) [![Language](https://img.shields.io/badge/lang-G-code-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > LCD firmware for QIDI printers with mainline Klipper
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 440 |
-| 🍴 **Forks** | 27 |
+| 🍴 **Forks** | 28 |
 | 💻 **Language** | G-code |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

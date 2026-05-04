@@ -1,6 +1,6 @@
 # osandov/drgn
 
-[![Stars](https://img.shields.io/github/stars/osandov/drgn?style=flat-square&color=yellow)](https://github.com/osandov/drgn/stargazers) [![Forks](https://img.shields.io/github/forks/osandov/drgn?style=flat-square&color=blue)](https://github.com/osandov/drgn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/osandov/drgn?style=flat-square&color=yellow)](https://github.com/osandov/drgn/stargazers) [![Forks](https://img.shields.io/github/forks/osandov/drgn?style=flat-square&color=blue)](https://github.com/osandov/drgn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Programmable debugger
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 207 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

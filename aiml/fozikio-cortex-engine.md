@@ -1,6 +1,6 @@
 # Fozikio/cortex-engine
 
-[![Stars](https://img.shields.io/github/stars/Fozikio/cortex-engine?style=flat-square&color=yellow)](https://github.com/Fozikio/cortex-engine/stargazers) [![Forks](https://img.shields.io/github/forks/Fozikio/cortex-engine?style=flat-square&color=blue)](https://github.com/Fozikio/cortex-engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fozikio/cortex-engine?style=flat-square&color=yellow)](https://github.com/Fozikio/cortex-engine/stargazers) [![Forks](https://img.shields.io/github/forks/Fozikio/cortex-engine?style=flat-square&color=blue)](https://github.com/Fozikio/cortex-engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Cognitive engine for AI agents — semantic memory, observations, embeddings, dream consolidation. Cloud Run service + MCP tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # igraph/igraph
 
-[![Stars](https://img.shields.io/github/stars/igraph/igraph?style=flat-square&color=yellow)](https://github.com/igraph/igraph/stargazers) [![Forks](https://img.shields.io/github/forks/igraph/igraph?style=flat-square&color=blue)](https://github.com/igraph/igraph/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/igraph/igraph?style=flat-square&color=yellow)](https://github.com/igraph/igraph/stargazers) [![Forks](https://img.shields.io/github/forks/igraph/igraph?style=flat-square&color=blue)](https://github.com/igraph/igraph/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Library for the analysis of networks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 443 |
 | 💻 **Language** | C |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

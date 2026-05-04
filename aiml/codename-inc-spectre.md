@@ -1,6 +1,6 @@
 # Codename-Inc/spectre
 
-[![Stars](https://img.shields.io/github/stars/Codename-Inc/spectre?style=flat-square&color=yellow)](https://github.com/Codename-Inc/spectre/stargazers) [![Forks](https://img.shields.io/github/forks/Codename-Inc/spectre?style=flat-square&color=blue)](https://github.com/Codename-Inc/spectre/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Codename-Inc/spectre?style=flat-square&color=yellow)](https://github.com/Codename-Inc/spectre/stargazers) [![Forks](https://img.shields.io/github/forks/Codename-Inc/spectre?style=flat-square&color=blue)](https://github.com/Codename-Inc/spectre/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > SPECTRE is an agentic Coding Workflow - /Scope, /Plan, /Execute, /Clean, /Test, /Rebase, /Evaluate - that uses simply step by step product development workflow to generate high quality results from your AI Coding Agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

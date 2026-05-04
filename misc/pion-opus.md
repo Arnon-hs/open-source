@@ -1,6 +1,6 @@
 # pion/opus
 
-[![Stars](https://img.shields.io/github/stars/pion/opus?style=flat-square&color=yellow)](https://github.com/pion/opus/stargazers) [![Forks](https://img.shields.io/github/forks/pion/opus?style=flat-square&color=blue)](https://github.com/pion/opus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pion/opus?style=flat-square&color=yellow)](https://github.com/pion/opus/stargazers) [![Forks](https://img.shields.io/github/forks/pion/opus?style=flat-square&color=blue)](https://github.com/pion/opus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Pure Go implementation of Opus
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 512 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

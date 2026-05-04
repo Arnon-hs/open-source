@@ -1,6 +1,6 @@
 # vnmoorthy/groundtruth
 
-[![Stars](https://img.shields.io/github/stars/vnmoorthy/groundtruth?style=flat-square&color=yellow)](https://github.com/vnmoorthy/groundtruth/stargazers) [![Forks](https://img.shields.io/github/forks/vnmoorthy/groundtruth?style=flat-square&color=blue)](https://github.com/vnmoorthy/groundtruth/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vnmoorthy/groundtruth?style=flat-square&color=yellow)](https://github.com/vnmoorthy/groundtruth/stargazers) [![Forks](https://img.shields.io/github/forks/vnmoorthy/groundtruth?style=flat-square&color=blue)](https://github.com/vnmoorthy/groundtruth/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A completion-claim gate for Claude Code. Refuses to let the agent say done without evidence.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

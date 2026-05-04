@@ -1,6 +1,6 @@
 # atoms-co/splitter
 
-[![Stars](https://img.shields.io/github/stars/atoms-co/splitter?style=flat-square&color=yellow)](https://github.com/atoms-co/splitter/stargazers) [![Forks](https://img.shields.io/github/forks/atoms-co/splitter?style=flat-square&color=blue)](https://github.com/atoms-co/splitter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atoms-co/splitter?style=flat-square&color=yellow)](https://github.com/atoms-co/splitter/stargazers) [![Forks](https://img.shields.io/github/forks/atoms-co/splitter?style=flat-square&color=blue)](https://github.com/atoms-co/splitter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Coordinator for stateful sharded services
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

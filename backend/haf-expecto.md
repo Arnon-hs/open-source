@@ -1,6 +1,6 @@
 # haf/expecto
 
-[![Stars](https://img.shields.io/github/stars/haf/expecto?style=flat-square&color=yellow)](https://github.com/haf/expecto/stargazers) [![Forks](https://img.shields.io/github/forks/haf/expecto?style=flat-square&color=blue)](https://github.com/haf/expecto/network) [![Language](https://img.shields.io/badge/lang-F%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haf/expecto?style=flat-square&color=yellow)](https://github.com/haf/expecto/stargazers) [![Forks](https://img.shields.io/github/forks/haf/expecto?style=flat-square&color=blue)](https://github.com/haf/expecto/network) [![Language](https://img.shields.io/badge/lang-F%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A smooth testing lib for F#. APIs made for humans! Strong testing methodologies for everyone!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 734 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | F# |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

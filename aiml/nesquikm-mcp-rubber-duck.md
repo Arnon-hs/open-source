@@ -1,6 +1,6 @@
 # nesquikm/mcp-rubber-duck
 
-[![Stars](https://img.shields.io/github/stars/nesquikm/mcp-rubber-duck?style=flat-square&color=yellow)](https://github.com/nesquikm/mcp-rubber-duck/stargazers) [![Forks](https://img.shields.io/github/forks/nesquikm/mcp-rubber-duck?style=flat-square&color=blue)](https://github.com/nesquikm/mcp-rubber-duck/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nesquikm/mcp-rubber-duck?style=flat-square&color=yellow)](https://github.com/nesquikm/mcp-rubber-duck/stargazers) [![Forks](https://img.shields.io/github/forks/nesquikm/mcp-rubber-duck?style=flat-square&color=blue)](https://github.com/nesquikm/mcp-rubber-duck/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server that acts as a bridge to query multiple OpenAI-compatible LLMs with MCP tool access. Just like rubber duck debugging, explain your problems to various AI "ducks" who can actually research and get different perspectives!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

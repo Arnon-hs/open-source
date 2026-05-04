@@ -1,6 +1,6 @@
 # rz1989s/claude-code-statusline
 
-[![Stars](https://img.shields.io/github/stars/rz1989s/claude-code-statusline?style=flat-square&color=yellow)](https://github.com/rz1989s/claude-code-statusline/stargazers) [![Forks](https://img.shields.io/github/forks/rz1989s/claude-code-statusline?style=flat-square&color=blue)](https://github.com/rz1989s/claude-code-statusline/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rz1989s/claude-code-statusline?style=flat-square&color=yellow)](https://github.com/rz1989s/claude-code-statusline/stargazers) [![Forks](https://img.shields.io/github/forks/rz1989s/claude-code-statusline?style=flat-square&color=blue)](https://github.com/rz1989s/claude-code-statusline/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 439 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

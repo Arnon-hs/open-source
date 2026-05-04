@@ -1,6 +1,6 @@
 # quaadgras/graphics.gd
 
-[![Stars](https://img.shields.io/github/stars/quaadgras/graphics.gd?style=flat-square&color=yellow)](https://github.com/quaadgras/graphics.gd/stargazers) [![Forks](https://img.shields.io/github/forks/quaadgras/graphics.gd?style=flat-square&color=blue)](https://github.com/quaadgras/graphics.gd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quaadgras/graphics.gd?style=flat-square&color=yellow)](https://github.com/quaadgras/graphics.gd/stargazers) [![Forks](https://img.shields.io/github/forks/quaadgras/graphics.gd?style=flat-square&color=blue)](https://github.com/quaadgras/graphics.gd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Runtime for Go + Godot
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 792 |
+| ⭐ **Stars** | 793 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

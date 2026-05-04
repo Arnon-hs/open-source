@@ -1,6 +1,6 @@
 # go-ap/fedbox
 
-[![Stars](https://img.shields.io/github/stars/go-ap/fedbox?style=flat-square&color=yellow)](https://github.com/go-ap/fedbox/stargazers) [![Forks](https://img.shields.io/github/forks/go-ap/fedbox?style=flat-square&color=blue)](https://github.com/go-ap/fedbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/go-ap/fedbox?style=flat-square&color=yellow)](https://github.com/go-ap/fedbox/stargazers) [![Forks](https://img.shields.io/github/forks/go-ap/fedbox?style=flat-square&color=blue)](https://github.com/go-ap/fedbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Reference implementation of a generic ActivityPub service using the GoActivityPub library (mirror repository)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

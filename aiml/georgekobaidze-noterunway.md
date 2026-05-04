@@ -1,6 +1,6 @@
 # georgekobaidze/noterunway
 
-[![Stars](https://img.shields.io/github/stars/georgekobaidze/noterunway?style=flat-square&color=yellow)](https://github.com/georgekobaidze/noterunway/stargazers) [![Forks](https://img.shields.io/github/forks/georgekobaidze/noterunway?style=flat-square&color=blue)](https://github.com/georgekobaidze/noterunway/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/georgekobaidze/noterunway?style=flat-square&color=yellow)](https://github.com/georgekobaidze/noterunway/stargazers) [![Forks](https://img.shields.io/github/forks/georgekobaidze/noterunway?style=flat-square&color=blue)](https://github.com/georgekobaidze/noterunway/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > AI-Powered Notion Workspace Management Clean, organize, and command your Notion workspace with AI. Powered by the Notion MCP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

@@ -1,6 +1,6 @@
 # fulcrumgenomics/fqgrep
 
-[![Stars](https://img.shields.io/github/stars/fulcrumgenomics/fqgrep?style=flat-square&color=yellow)](https://github.com/fulcrumgenomics/fqgrep/stargazers) [![Forks](https://img.shields.io/github/forks/fulcrumgenomics/fqgrep?style=flat-square&color=blue)](https://github.com/fulcrumgenomics/fqgrep/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fulcrumgenomics/fqgrep?style=flat-square&color=yellow)](https://github.com/fulcrumgenomics/fqgrep/stargazers) [![Forks](https://img.shields.io/github/forks/fulcrumgenomics/fqgrep?style=flat-square&color=blue)](https://github.com/fulcrumgenomics/fqgrep/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Grep for FASTQ files
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

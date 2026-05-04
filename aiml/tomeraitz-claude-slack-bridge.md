@@ -1,6 +1,6 @@
 # tomeraitz/claude-slack-bridge
 
-[![Stars](https://img.shields.io/github/stars/tomeraitz/claude-slack-bridge?style=flat-square&color=yellow)](https://github.com/tomeraitz/claude-slack-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/tomeraitz/claude-slack-bridge?style=flat-square&color=blue)](https://github.com/tomeraitz/claude-slack-bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tomeraitz/claude-slack-bridge?style=flat-square&color=yellow)](https://github.com/tomeraitz/claude-slack-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/tomeraitz/claude-slack-bridge?style=flat-square&color=blue)](https://github.com/tomeraitz/claude-slack-bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that lets Claude Code pause mid-task and ask a human a question via Slack — then resume once you reply.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

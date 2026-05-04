@@ -1,6 +1,6 @@
 # AaronWong1999/hermesclaw
 
-[![Stars](https://img.shields.io/github/stars/AaronWong1999/hermesclaw?style=flat-square&color=yellow)](https://github.com/AaronWong1999/hermesclaw/stargazers) [![Forks](https://img.shields.io/github/forks/AaronWong1999/hermesclaw?style=flat-square&color=blue)](https://github.com/AaronWong1999/hermesclaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AaronWong1999/hermesclaw?style=flat-square&color=yellow)](https://github.com/AaronWong1999/hermesclaw/stargazers) [![Forks](https://img.shields.io/github/forks/AaronWong1999/hermesclaw?style=flat-square&color=blue)](https://github.com/AaronWong1999/hermesclaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Run Hermes Agent and OpenClaw on the same WeChat account
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 300 |
+| ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Icemap/duckdb-vector-index
 
-[![Stars](https://img.shields.io/github/stars/Icemap/duckdb-vector-index?style=flat-square&color=yellow)](https://github.com/Icemap/duckdb-vector-index/stargazers) [![Forks](https://img.shields.io/github/forks/Icemap/duckdb-vector-index?style=flat-square&color=blue)](https://github.com/Icemap/duckdb-vector-index/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Icemap/duckdb-vector-index?style=flat-square&color=yellow)](https://github.com/Icemap/duckdb-vector-index/stargazers) [![Forks](https://img.shields.io/github/forks/Icemap/duckdb-vector-index?style=flat-square&color=blue)](https://github.com/Icemap/duckdb-vector-index/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > A DuckDB extension providing HNSW, IVF, DiskANN, and SPANN vector indexes with FLAT, RaBitQ, PQ, and ScaNN quantizers for approximate nearest-neighbor search on ARRAY columns.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15714** |
+| 🗂️ **Total projects** | **15747** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5857 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3263 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1545 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1149 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 963 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 930 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 5874 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3270 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1549 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1151 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 964 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 929 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 534 | [Browse →](./crypto/) |
-| 📊 **Data** | 355 | [Browse →](./data/) |
+| 📊 **Data** | 357 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 336 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 217 | [Browse →](./mobile/) |
 | 💳 **Payments** | 164 | [Browse →](./payments/) |
 | 📈 **Trading** | 161 | [Browse →](./trading/) |
-| 🔐 **Security** | 127 | [Browse →](./security/) |
+| 🔐 **Security** | 128 | [Browse →](./security/) |
 | ✨ **Design** | 52 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🎯 **Product** | 30 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [utmapp/UTM](./aiml/utmapp-utm.md) | ⭐ 33.9k | AI/ML |
+| 1 | [opendatalab/MinerU](./orchestration/opendatalab-mineru.md) | ⭐ 61.9k | Orchestration |
 | 2 | [PatrickJS/awesome-angular](./aiml/patrickjs-awesome-angular.md) | ⭐ 10k | AI/ML |
-| 3 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
-| 4 | [rook/rook](./orchestration/rook-rook.md) | ⭐ 13.5k | Orchestration |
-| 5 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 6 | [linshenkx/prompt-optimizer](./aiml/linshenkx-prompt-optimizer.md) | ⭐ 27.9k | AI/ML |
-| 7 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 38.4k | Orchestration |
-| 8 | [h2oai/h2o-3](./aiml/h2oai-h2o-3.md) | ⭐ 7.5k | AI/ML |
-| 9 | [Graylog2/graylog2-server](./backend/graylog2-graylog2-server.md) | ⭐ 8k | Backend |
-| 10 | [run-llama/llama_index](./orchestration/run-llama-llama-index.md) | ⭐ 49.1k | Orchestration |
+| 3 | [JunkFood02/Seal](./mobile/junkfood02-seal.md) | ⭐ 26k | Mobile |
+| 4 | [firecrawl/firecrawl](./aiml/firecrawl-firecrawl.md) | ⭐ 114.7k | AI/ML |
+| 5 | [storybookjs/storybook](./aiml/storybookjs-storybook.md) | ⭐ 89.8k | AI/ML |
+| 6 | [xtekky/gpt4free](./aiml/xtekky-gpt4free.md) | ⭐ 66.2k | AI/ML |
+| 7 | [Leonxlnx/taste-skill](./aiml/leonxlnx-taste-skill.md) | ⭐ 14.9k | AI/ML |
+| 8 | [zhkl0228/unidbg](./mobile/zhkl0228-unidbg.md) | ⭐ 4.9k | Mobile |
+| 9 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
+| 10 | [code-yeongyu/oh-my-openagent](./orchestration/code-yeongyu-oh-my-openagent.md) | ⭐ 55.6k | Orchestration |
 
 ## 🚀 How it works
 

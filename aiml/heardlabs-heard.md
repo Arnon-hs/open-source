@@ -1,6 +1,6 @@
 # heardlabs/heard
 
-[![Stars](https://img.shields.io/github/stars/heardlabs/heard?style=flat-square&color=yellow)](https://github.com/heardlabs/heard/stargazers) [![Forks](https://img.shields.io/github/forks/heardlabs/heard?style=flat-square&color=blue)](https://github.com/heardlabs/heard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heardlabs/heard?style=flat-square&color=yellow)](https://github.com/heardlabs/heard/stargazers) [![Forks](https://img.shields.io/github/forks/heardlabs/heard?style=flat-square&color=blue)](https://github.com/heardlabs/heard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A voice companion for AI coding agents. Speaks your agent's replies so you can keep working.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 52 |
+| ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

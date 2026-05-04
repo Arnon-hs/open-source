@@ -1,6 +1,6 @@
 # JinHo-von-Choi/memento-mcp
 
-[![Stars](https://img.shields.io/github/stars/JinHo-von-Choi/memento-mcp?style=flat-square&color=yellow)](https://github.com/JinHo-von-Choi/memento-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/JinHo-von-Choi/memento-mcp?style=flat-square&color=blue)](https://github.com/JinHo-von-Choi/memento-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JinHo-von-Choi/memento-mcp?style=flat-square&color=yellow)](https://github.com/JinHo-von-Choi/memento-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/JinHo-von-Choi/memento-mcp?style=flat-square&color=blue)](https://github.com/JinHo-von-Choi/memento-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Fragment-Based Memory MCP Server — AI 중장기 기억 시스템
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 99 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

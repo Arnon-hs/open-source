@@ -1,6 +1,6 @@
 # pulsemcp/mcp-servers
 
-[![Stars](https://img.shields.io/github/stars/pulsemcp/mcp-servers?style=flat-square&color=yellow)](https://github.com/pulsemcp/mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/pulsemcp/mcp-servers?style=flat-square&color=blue)](https://github.com/pulsemcp/mcp-servers/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pulsemcp/mcp-servers?style=flat-square&color=yellow)](https://github.com/pulsemcp/mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/pulsemcp/mcp-servers?style=flat-square&color=blue)](https://github.com/pulsemcp/mcp-servers/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > MCP (Model Context Protocol) Servers authored and maintained by the PulseMCP team. We build reliable servers thoughtfully designed specifically for MCP Client-powered workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

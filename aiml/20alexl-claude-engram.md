@@ -1,6 +1,6 @@
 # 20alexl/claude-engram
 
-[![Stars](https://img.shields.io/github/stars/20alexl/claude-engram?style=flat-square&color=yellow)](https://github.com/20alexl/claude-engram/stargazers) [![Forks](https://img.shields.io/github/forks/20alexl/claude-engram?style=flat-square&color=blue)](https://github.com/20alexl/claude-engram/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/20alexl/claude-engram?style=flat-square&color=yellow)](https://github.com/20alexl/claude-engram/stargazers) [![Forks](https://img.shields.io/github/forks/20alexl/claude-engram?style=flat-square&color=blue)](https://github.com/20alexl/claude-engram/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory and session intelligence for AI coding assistants. Auto-tracks mistakes, decisions, and context via hooks. Mines your full session history for patterns, predictions, and cross-session search.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # microsoft/onnxscript
 
-[![Stars](https://img.shields.io/github/stars/microsoft/onnxscript?style=flat-square&color=yellow)](https://github.com/microsoft/onnxscript/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/onnxscript?style=flat-square&color=blue)](https://github.com/microsoft/onnxscript/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/onnxscript?style=flat-square&color=yellow)](https://github.com/microsoft/onnxscript/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/onnxscript?style=flat-square&color=blue)](https://github.com/microsoft/onnxscript/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > ONNX Script enables developers to naturally author ONNX functions and models using a subset of Python.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

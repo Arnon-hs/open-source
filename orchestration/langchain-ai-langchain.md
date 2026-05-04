@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchain/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain?style=flat-square&color=blue)](https://github.com/langchain-ai/langchain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> The agent engineering platform
+> The agent engineering platform. Available in TypeScript!
 
 ## 📊 Stats
 

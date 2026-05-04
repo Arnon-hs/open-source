@@ -1,6 +1,6 @@
 # Soju06/codex-lb
 
-[![Stars](https://img.shields.io/github/stars/Soju06/codex-lb?style=flat-square&color=yellow)](https://github.com/Soju06/codex-lb/stargazers) [![Forks](https://img.shields.io/github/forks/Soju06/codex-lb?style=flat-square&color=blue)](https://github.com/Soju06/codex-lb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Soju06/codex-lb?style=flat-square&color=yellow)](https://github.com/Soju06/codex-lb/stargazers) [![Forks](https://img.shields.io/github/forks/Soju06/codex-lb?style=flat-square&color=blue)](https://github.com/Soju06/codex-lb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 176 |
+| 🍴 **Forks** | 177 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

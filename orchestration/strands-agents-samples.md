@@ -1,6 +1,6 @@
 # strands-agents/samples
 
-[![Stars](https://img.shields.io/github/stars/strands-agents/samples?style=flat-square&color=yellow)](https://github.com/strands-agents/samples/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/samples?style=flat-square&color=blue)](https://github.com/strands-agents/samples/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-agents/samples?style=flat-square&color=yellow)](https://github.com/strands-agents/samples/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/samples?style=flat-square&color=blue)](https://github.com/strands-agents/samples/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Agent samples built using the Strands Agents SDK.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 751 |
 | 🍴 **Forks** | 396 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

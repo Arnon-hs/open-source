@@ -1,6 +1,6 @@
 # alchemyplatform/rundler
 
-[![Stars](https://img.shields.io/github/stars/alchemyplatform/rundler?style=flat-square&color=yellow)](https://github.com/alchemyplatform/rundler/stargazers) [![Forks](https://img.shields.io/github/forks/alchemyplatform/rundler?style=flat-square&color=blue)](https://github.com/alchemyplatform/rundler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alchemyplatform/rundler?style=flat-square&color=yellow)](https://github.com/alchemyplatform/rundler/stargazers) [![Forks](https://img.shields.io/github/forks/alchemyplatform/rundler?style=flat-square&color=blue)](https://github.com/alchemyplatform/rundler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > An ERC-4337 Bundler in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

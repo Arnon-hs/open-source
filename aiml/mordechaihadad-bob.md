@@ -1,6 +1,6 @@
 # MordechaiHadad/bob
 
-[![Stars](https://img.shields.io/github/stars/MordechaiHadad/bob?style=flat-square&color=yellow)](https://github.com/MordechaiHadad/bob/stargazers) [![Forks](https://img.shields.io/github/forks/MordechaiHadad/bob?style=flat-square&color=blue)](https://github.com/MordechaiHadad/bob/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MordechaiHadad/bob?style=flat-square&color=yellow)](https://github.com/MordechaiHadad/bob/stargazers) [![Forks](https://img.shields.io/github/forks/MordechaiHadad/bob?style=flat-square&color=blue)](https://github.com/MordechaiHadad/bob/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A version manager for neovim
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

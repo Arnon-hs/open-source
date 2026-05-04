@@ -1,6 +1,6 @@
 # samyama-ai/samyama-graph
 
-[![Stars](https://img.shields.io/github/stars/samyama-ai/samyama-graph?style=flat-square&color=yellow)](https://github.com/samyama-ai/samyama-graph/stargazers) [![Forks](https://img.shields.io/github/forks/samyama-ai/samyama-graph?style=flat-square&color=blue)](https://github.com/samyama-ai/samyama-graph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samyama-ai/samyama-graph?style=flat-square&color=yellow)](https://github.com/samyama-ai/samyama-graph/stargazers) [![Forks](https://img.shields.io/github/forks/samyama-ai/samyama-graph?style=flat-square&color=blue)](https://github.com/samyama-ai/samyama-graph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Graph-vector database that queried 1 billion edges for $2.50. Rust, OpenCypher, vector search, 14 graph algorithms. 74M nodes / 1B edges on a single machine.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 57 |
+| ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

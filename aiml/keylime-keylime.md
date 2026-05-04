@@ -1,6 +1,6 @@
 # keylime/keylime
 
-[![Stars](https://img.shields.io/github/stars/keylime/keylime?style=flat-square&color=yellow)](https://github.com/keylime/keylime/stargazers) [![Forks](https://img.shields.io/github/forks/keylime/keylime?style=flat-square&color=blue)](https://github.com/keylime/keylime/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keylime/keylime?style=flat-square&color=yellow)](https://github.com/keylime/keylime/stargazers) [![Forks](https://img.shields.io/github/forks/keylime/keylime?style=flat-square&color=blue)](https://github.com/keylime/keylime/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A CNCF Project to Bootstrap & Maintain Trust on the Edge / Cloud and IoT
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 534 |
+| ⭐ **Stars** | 535 |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

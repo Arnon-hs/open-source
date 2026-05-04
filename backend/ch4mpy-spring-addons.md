@@ -1,6 +1,6 @@
 # ch4mpy/spring-addons
 
-[![Stars](https://img.shields.io/github/stars/ch4mpy/spring-addons?style=flat-square&color=yellow)](https://github.com/ch4mpy/spring-addons/stargazers) [![Forks](https://img.shields.io/github/forks/ch4mpy/spring-addons?style=flat-square&color=blue)](https://github.com/ch4mpy/spring-addons/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ch4mpy/spring-addons?style=flat-square&color=yellow)](https://github.com/ch4mpy/spring-addons/stargazers) [![Forks](https://img.shields.io/github/forks/ch4mpy/spring-addons?style=flat-square&color=blue)](https://github.com/ch4mpy/spring-addons/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Ease OAuth2 / OpenID in Spring RESTful backends
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 662 |
+| ⭐ **Stars** | 663 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

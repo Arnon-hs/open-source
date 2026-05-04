@@ -1,6 +1,6 @@
 # tryAGI/Anthropic
 
-[![Stars](https://img.shields.io/github/stars/tryAGI/Anthropic?style=flat-square&color=yellow)](https://github.com/tryAGI/Anthropic/stargazers) [![Forks](https://img.shields.io/github/forks/tryAGI/Anthropic?style=flat-square&color=blue)](https://github.com/tryAGI/Anthropic/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tryAGI/Anthropic?style=flat-square&color=yellow)](https://github.com/tryAGI/Anthropic/stargazers) [![Forks](https://img.shields.io/github/forks/tryAGI/Anthropic?style=flat-square&color=blue)](https://github.com/tryAGI/Anthropic/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > C# SDK for the Anthropic API -- Claude chat completions, tool calling, and vision
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

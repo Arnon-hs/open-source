@@ -1,6 +1,6 @@
 # SAP-samples/btp-cap-genai-rag
 
-[![Stars](https://img.shields.io/github/stars/SAP-samples/btp-cap-genai-rag?style=flat-square&color=yellow)](https://github.com/SAP-samples/btp-cap-genai-rag/stargazers) [![Forks](https://img.shields.io/github/forks/SAP-samples/btp-cap-genai-rag?style=flat-square&color=blue)](https://github.com/SAP-samples/btp-cap-genai-rag/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SAP-samples/btp-cap-genai-rag?style=flat-square&color=yellow)](https://github.com/SAP-samples/btp-cap-genai-rag/stargazers) [![Forks](https://img.shields.io/github/forks/SAP-samples/btp-cap-genai-rag?style=flat-square&color=blue)](https://github.com/SAP-samples/btp-cap-genai-rag/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Explore this repository for GenAI samples on SAP Business Technology Platform (SAP BTP). We provide examples for single and multitenant versions, showcasing integration of LLMs via SAP AI Core, LangChain in SAP CAP, and advanced techniques like Retrieval Augmented Generation (RAG).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

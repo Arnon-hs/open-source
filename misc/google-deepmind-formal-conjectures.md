@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 953 |
-| 🍴 **Forks** | 274 |
+| 🍴 **Forks** | 275 |
 | 💻 **Language** | Lean |
 | 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |

@@ -1,6 +1,6 @@
 # Snaplii-Inc/agent-to-merchant-payments
 
-[![Stars](https://img.shields.io/github/stars/Snaplii-Inc/agent-to-merchant-payments?style=flat-square&color=yellow)](https://github.com/Snaplii-Inc/agent-to-merchant-payments/stargazers) [![Forks](https://img.shields.io/github/forks/Snaplii-Inc/agent-to-merchant-payments?style=flat-square&color=blue)](https://github.com/Snaplii-Inc/agent-to-merchant-payments/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Snaplii-Inc/agent-to-merchant-payments?style=flat-square&color=yellow)](https://github.com/Snaplii-Inc/agent-to-merchant-payments/stargazers) [![Forks](https://img.shields.io/github/forks/Snaplii-Inc/agent-to-merchant-payments?style=flat-square&color=blue)](https://github.com/Snaplii-Inc/agent-to-merchant-payments/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 263 |
-| 🍴 **Forks** | 39 |
+| ⭐ **Stars** | 280 |
+| 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

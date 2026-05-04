@@ -1,6 +1,6 @@
 # GALIAIS/Notion2API
 
-[![Stars](https://img.shields.io/github/stars/GALIAIS/Notion2API?style=flat-square&color=yellow)](https://github.com/GALIAIS/Notion2API/stargazers) [![Forks](https://img.shields.io/github/forks/GALIAIS/Notion2API?style=flat-square&color=blue)](https://github.com/GALIAIS/Notion2API/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GALIAIS/Notion2API?style=flat-square&color=yellow)](https://github.com/GALIAIS/Notion2API/stargazers) [![Forks](https://img.shields.io/github/forks/GALIAIS/Notion2API?style=flat-square&color=blue)](https://github.com/GALIAIS/Notion2API/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 135 |
-| 🍴 **Forks** | 36 |
+| ⭐ **Stars** | 139 |
+| 🍴 **Forks** | 38 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

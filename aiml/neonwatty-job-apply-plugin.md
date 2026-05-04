@@ -1,6 +1,6 @@
 # neonwatty/job-apply-plugin
 
-[![Stars](https://img.shields.io/github/stars/neonwatty/job-apply-plugin?style=flat-square&color=yellow)](https://github.com/neonwatty/job-apply-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/neonwatty/job-apply-plugin?style=flat-square&color=blue)](https://github.com/neonwatty/job-apply-plugin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neonwatty/job-apply-plugin?style=flat-square&color=yellow)](https://github.com/neonwatty/job-apply-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/neonwatty/job-apply-plugin?style=flat-square&color=blue)](https://github.com/neonwatty/job-apply-plugin/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered job application assistant for Claude Code - fills LinkedIn, Greenhouse, Ashby, and Workday applications
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 7 |
-| 💻 **Language** | Unknown |
+| 💻 **Language** | HTML |
 | 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

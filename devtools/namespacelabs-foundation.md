@@ -1,6 +1,6 @@
 # namespacelabs/foundation
 
-[![Stars](https://img.shields.io/github/stars/namespacelabs/foundation?style=flat-square&color=yellow)](https://github.com/namespacelabs/foundation/stargazers) [![Forks](https://img.shields.io/github/forks/namespacelabs/foundation?style=flat-square&color=blue)](https://github.com/namespacelabs/foundation/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/namespacelabs/foundation?style=flat-square&color=yellow)](https://github.com/namespacelabs/foundation/stargazers) [![Forks](https://img.shields.io/github/forks/namespacelabs/foundation?style=flat-square&color=blue)](https://github.com/namespacelabs/foundation/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Kubernetes application platform that powers Namespace's developer-optimized compute platform.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

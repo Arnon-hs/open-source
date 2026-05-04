@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/InnerWarden/innerwarden?style=flat-square&color=yellow)](https://github.com/InnerWarden/innerwarden/stargazers) [![Forks](https://img.shields.io/github/forks/InnerWarden/innerwarden?style=flat-square&color=blue)](https://github.com/InnerWarden/innerwarden/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Autonomous EDR for Linux. Install, forget, protected. Kernel-level eBPF detection, AI triage, autonomous response. Apache-2.0. The autonomous alternative to MDR: same outcome, no SOC cost.
+> The security agent that fights back. Watches your Linux server from inside, detects threats with kernel-level eBPF, and stops them with on-device AI. Open-source, self-hosted, dry-run by default. Apache-2.0.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Security
+AI/ML · Backend · Security
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # thisisryanswift/zellij-agent-tools
 
-[![Stars](https://img.shields.io/github/stars/thisisryanswift/zellij-agent-tools?style=flat-square&color=yellow)](https://github.com/thisisryanswift/zellij-agent-tools/stargazers) [![Forks](https://img.shields.io/github/forks/thisisryanswift/zellij-agent-tools?style=flat-square&color=blue)](https://github.com/thisisryanswift/zellij-agent-tools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thisisryanswift/zellij-agent-tools?style=flat-square&color=yellow)](https://github.com/thisisryanswift/zellij-agent-tools/stargazers) [![Forks](https://img.shields.io/github/forks/thisisryanswift/zellij-agent-tools?style=flat-square&color=blue)](https://github.com/thisisryanswift/zellij-agent-tools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
 > User approved Zellij pane tools and MCP for coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 34/100 |
+| 📈 **Score** | 30/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

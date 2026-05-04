@@ -1,6 +1,6 @@
 # hannibal002/SkyHanni
 
-[![Stars](https://img.shields.io/github/stars/hannibal002/SkyHanni?style=flat-square&color=yellow)](https://github.com/hannibal002/SkyHanni/stargazers) [![Forks](https://img.shields.io/github/forks/hannibal002/SkyHanni?style=flat-square&color=blue)](https://github.com/hannibal002/SkyHanni/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hannibal002/SkyHanni?style=flat-square&color=yellow)](https://github.com/hannibal002/SkyHanni/stargazers) [![Forks](https://img.shields.io/github/forks/hannibal002/SkyHanni?style=flat-square&color=blue)](https://github.com/hannibal002/SkyHanni/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > SkyHanni is a Minecraft Mod for Hypixel SkyBlock.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 501 |
 | 🍴 **Forks** | 334 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

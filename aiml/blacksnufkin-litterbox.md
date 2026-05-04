@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/BlackSnufkin/LitterBox?style=flat-square&color=yellow)](https://github.com/BlackSnufkin/LitterBox/stargazers) [![Forks](https://img.shields.io/github/forks/BlackSnufkin/LitterBox?style=flat-square&color=blue)](https://github.com/BlackSnufkin/LitterBox/network) [![Language](https://img.shields.io/badge/lang-YARA-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
-> A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabilities.
+> A self-hosted sandbox for red teams to test payloads against modern detection before deployment. MCP integration lets an LLM agent drive analysis end to end.
 
 ## 📊 Stats
 

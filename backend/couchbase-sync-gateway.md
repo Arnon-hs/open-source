@@ -1,6 +1,6 @@
 # couchbase/sync_gateway
 
-[![Stars](https://img.shields.io/github/stars/couchbase/sync_gateway?style=flat-square&color=yellow)](https://github.com/couchbase/sync_gateway/stargazers) [![Forks](https://img.shields.io/github/forks/couchbase/sync_gateway?style=flat-square&color=blue)](https://github.com/couchbase/sync_gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/couchbase/sync_gateway?style=flat-square&color=yellow)](https://github.com/couchbase/sync_gateway/stargazers) [![Forks](https://img.shields.io/github/forks/couchbase/sync_gateway?style=flat-square&color=blue)](https://github.com/couchbase/sync_gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Manages access and synchronization between Couchbase Lite and Couchbase Server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 452 |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

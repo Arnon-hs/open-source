@@ -1,6 +1,6 @@
 # JonasKruckenberg/k23
 
-[![Stars](https://img.shields.io/github/stars/JonasKruckenberg/k23?style=flat-square&color=yellow)](https://github.com/JonasKruckenberg/k23/stargazers) [![Forks](https://img.shields.io/github/forks/JonasKruckenberg/k23?style=flat-square&color=blue)](https://github.com/JonasKruckenberg/k23/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JonasKruckenberg/k23?style=flat-square&color=yellow)](https://github.com/JonasKruckenberg/k23/stargazers) [![Forks](https://img.shields.io/github/forks/JonasKruckenberg/k23?style=flat-square&color=blue)](https://github.com/JonasKruckenberg/k23/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Experimental WASM Microkernel Operating System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 627 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

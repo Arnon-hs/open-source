@@ -1,6 +1,6 @@
 # dubzzz/fast-check
 
-[![Stars](https://img.shields.io/github/stars/dubzzz/fast-check?style=flat-square&color=yellow)](https://github.com/dubzzz/fast-check/stargazers) [![Forks](https://img.shields.io/github/forks/dubzzz/fast-check?style=flat-square&color=blue)](https://github.com/dubzzz/fast-check/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dubzzz/fast-check?style=flat-square&color=yellow)](https://github.com/dubzzz/fast-check/stargazers) [![Forks](https://img.shields.io/github/forks/dubzzz/fast-check?style=flat-square&color=blue)](https://github.com/dubzzz/fast-check/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 208 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

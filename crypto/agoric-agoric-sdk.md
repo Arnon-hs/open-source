@@ -1,6 +1,6 @@
 # Agoric/agoric-sdk
 
-[![Stars](https://img.shields.io/github/stars/Agoric/agoric-sdk?style=flat-square&color=yellow)](https://github.com/Agoric/agoric-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/Agoric/agoric-sdk?style=flat-square&color=blue)](https://github.com/Agoric/agoric-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agoric/agoric-sdk?style=flat-square&color=yellow)](https://github.com/Agoric/agoric-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/Agoric/agoric-sdk?style=flat-square&color=blue)](https://github.com/Agoric/agoric-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > monorepo for the Agoric Javascript smart contract platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 354 |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

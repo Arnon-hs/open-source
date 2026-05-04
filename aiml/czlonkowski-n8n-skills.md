@@ -1,6 +1,6 @@
 # czlonkowski/n8n-skills
 
-[![Stars](https://img.shields.io/github/stars/czlonkowski/n8n-skills?style=flat-square&color=yellow)](https://github.com/czlonkowski/n8n-skills/stargazers) [![Forks](https://img.shields.io/github/forks/czlonkowski/n8n-skills?style=flat-square&color=blue)](https://github.com/czlonkowski/n8n-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/czlonkowski/n8n-skills?style=flat-square&color=yellow)](https://github.com/czlonkowski/n8n-skills/stargazers) [![Forks](https://img.shields.io/github/forks/czlonkowski/n8n-skills?style=flat-square&color=blue)](https://github.com/czlonkowski/n8n-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > n8n skillset for Claude Code to build flawless n8n workflows
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.8k |
-| 🍴 **Forks** | 828 |
+| 🍴 **Forks** | 829 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

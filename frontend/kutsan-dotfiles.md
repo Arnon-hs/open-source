@@ -1,6 +1,6 @@
 # kutsan/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/kutsan/dotfiles?style=flat-square&color=yellow)](https://github.com/kutsan/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/kutsan/dotfiles?style=flat-square&color=blue)](https://github.com/kutsan/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kutsan/dotfiles?style=flat-square&color=yellow)](https://github.com/kutsan/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/kutsan/dotfiles?style=flat-square&color=blue)](https://github.com/kutsan/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

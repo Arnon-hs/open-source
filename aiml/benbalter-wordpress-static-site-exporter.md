@@ -1,6 +1,6 @@
 # benbalter/wordpress-static-site-exporter
 
-[![Stars](https://img.shields.io/github/stars/benbalter/wordpress-static-site-exporter?style=flat-square&color=yellow)](https://github.com/benbalter/wordpress-static-site-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/benbalter/wordpress-static-site-exporter?style=flat-square&color=blue)](https://github.com/benbalter/wordpress-static-site-exporter/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/benbalter/wordpress-static-site-exporter?style=flat-square&color=yellow)](https://github.com/benbalter/wordpress-static-site-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/benbalter/wordpress-static-site-exporter?style=flat-square&color=blue)](https://github.com/benbalter/wordpress-static-site-exporter/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > One-click WordPress plugin that converts all posts, pages, taxonomies, metadata, and settings to Markdown and YAML which can be dropped into Jekyll (or Hugo or any other Markdown and YAML based site engine).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Balackburn/Apollo
 
-[![Stars](https://img.shields.io/github/stars/Balackburn/Apollo?style=flat-square&color=yellow)](https://github.com/Balackburn/Apollo/stargazers) [![Forks](https://img.shields.io/github/forks/Balackburn/Apollo?style=flat-square&color=blue)](https://github.com/Balackburn/Apollo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Balackburn/Apollo?style=flat-square&color=yellow)](https://github.com/Balackburn/Apollo/stargazers) [![Forks](https://img.shields.io/github/forks/Balackburn/Apollo?style=flat-square&color=blue)](https://github.com/Balackburn/Apollo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 79 |
+| 🍴 **Forks** | 78 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

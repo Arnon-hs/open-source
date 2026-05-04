@@ -1,6 +1,6 @@
 # trevor-nichols/agentrules-architect
 
-[![Stars](https://img.shields.io/github/stars/trevor-nichols/agentrules-architect?style=flat-square&color=yellow)](https://github.com/trevor-nichols/agentrules-architect/stargazers) [![Forks](https://img.shields.io/github/forks/trevor-nichols/agentrules-architect?style=flat-square&color=blue)](https://github.com/trevor-nichols/agentrules-architect/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trevor-nichols/agentrules-architect?style=flat-square&color=yellow)](https://github.com/trevor-nichols/agentrules-architect/stargazers) [![Forks](https://img.shields.io/github/forks/trevor-nichols/agentrules-architect?style=flat-square&color=blue)](https://github.com/trevor-nichols/agentrules-architect/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > AGENTS.md/CLAUDE.md generator and ExecPlan harness for Codex, Claude Code, Cursor, Antigravity, OpenCode and other coding agents. Use api keys or authenticate with Codex
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

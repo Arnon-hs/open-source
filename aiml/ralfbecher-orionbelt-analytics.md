@@ -1,6 +1,6 @@
 # ralfbecher/orionbelt-analytics
 
-[![Stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-analytics?style=flat-square&color=yellow)](https://github.com/ralfbecher/orionbelt-analytics/stargazers) [![Forks](https://img.shields.io/github/forks/ralfbecher/orionbelt-analytics?style=flat-square&color=blue)](https://github.com/ralfbecher/orionbelt-analytics/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-analytics?style=flat-square&color=yellow)](https://github.com/ralfbecher/orionbelt-analytics/stargazers) [![Forks](https://img.shields.io/github/forks/ralfbecher/orionbelt-analytics?style=flat-square&color=blue)](https://github.com/ralfbecher/orionbelt-analytics/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Ontology-based MCP server that analyzes database schemas (PostgreSQL, Snowflake, ClickHouse, Dremio) and generates RDF/OWL ontologies with SQL mappings for fan-trap-free Text-to-SQL.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

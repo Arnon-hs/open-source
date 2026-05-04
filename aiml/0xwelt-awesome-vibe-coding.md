@@ -1,6 +1,6 @@
 # 0xWelt/Awesome-Vibe-Coding
 
-[![Stars](https://img.shields.io/github/stars/0xWelt/Awesome-Vibe-Coding?style=flat-square&color=yellow)](https://github.com/0xWelt/Awesome-Vibe-Coding/stargazers) [![Forks](https://img.shields.io/github/forks/0xWelt/Awesome-Vibe-Coding?style=flat-square&color=blue)](https://github.com/0xWelt/Awesome-Vibe-Coding/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xWelt/Awesome-Vibe-Coding?style=flat-square&color=yellow)](https://github.com/0xWelt/Awesome-Vibe-Coding/stargazers) [![Forks](https://img.shields.io/github/forks/0xWelt/Awesome-Vibe-Coding?style=flat-square&color=blue)](https://github.com/0xWelt/Awesome-Vibe-Coding/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A Curated List of Vibe Coding Open-Source Projects, Tools, and Learning Resources
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 87 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

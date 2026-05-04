@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/AbdoKnbGit/tau?style=flat-square&color=yellow)](https://github.com/AbdoKnbGit/tau/stargazers) [![Forks](https://img.shields.io/github/forks/AbdoKnbGit/tau?style=flat-square&color=blue)](https://github.com/AbdoKnbGit/tau/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Tau is an open-source AI coding agent built for developers who want control. It runs in your terminal, supports multiple model providers, and helps you write, debug, refactor, and ship code without locking you into one ecosystem.
+> your orchestrator for all dev agents, sessions, and environments.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 

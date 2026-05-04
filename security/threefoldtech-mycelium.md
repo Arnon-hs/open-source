@@ -1,6 +1,6 @@
 # threefoldtech/mycelium
 
-[![Stars](https://img.shields.io/github/stars/threefoldtech/mycelium?style=flat-square&color=yellow)](https://github.com/threefoldtech/mycelium/stargazers) [![Forks](https://img.shields.io/github/forks/threefoldtech/mycelium?style=flat-square&color=blue)](https://github.com/threefoldtech/mycelium/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/threefoldtech/mycelium?style=flat-square&color=yellow)](https://github.com/threefoldtech/mycelium/stargazers) [![Forks](https://img.shields.io/github/forks/threefoldtech/mycelium?style=flat-square&color=blue)](https://github.com/threefoldtech/mycelium/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > End-2-end encrypted IPv6 overlay network
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 178 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

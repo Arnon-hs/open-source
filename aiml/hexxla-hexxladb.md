@@ -1,6 +1,6 @@
 # hexxla/hexxladb
 
-[![Stars](https://img.shields.io/github/stars/hexxla/hexxladb?style=flat-square&color=yellow)](https://github.com/hexxla/hexxladb/stargazers) [![Forks](https://img.shields.io/github/forks/hexxla/hexxladb?style=flat-square&color=blue)](https://github.com/hexxla/hexxladb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hexxla/hexxladb?style=flat-square&color=yellow)](https://github.com/hexxla/hexxladb/stargazers) [![Forks](https://img.shields.io/github/forks/hexxla/hexxladb?style=flat-square&color=blue)](https://github.com/hexxla/hexxladb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A hex-native embedded database for Go. Morton keys, native ring scans, seams (contradictions), MVCC, provenance, and optional HNSW embeddings. Built from scratch for lattice-addressed memory.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

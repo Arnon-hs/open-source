@@ -1,6 +1,6 @@
 # depot/cli
 
-[![Stars](https://img.shields.io/github/stars/depot/cli?style=flat-square&color=yellow)](https://github.com/depot/cli/stargazers) [![Forks](https://img.shields.io/github/forks/depot/cli?style=flat-square&color=blue)](https://github.com/depot/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/depot/cli?style=flat-square&color=yellow)](https://github.com/depot/cli/stargazers) [![Forks](https://img.shields.io/github/forks/depot/cli?style=flat-square&color=blue)](https://github.com/depot/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > 🖥️ Depot CLI, build your Docker images in the cloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 189 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

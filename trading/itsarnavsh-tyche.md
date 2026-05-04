@@ -1,17 +1,17 @@
 # ItsArnavSh/Tyche
 
-[![Stars](https://img.shields.io/github/stars/ItsArnavSh/Tyche?style=flat-square&color=yellow)](https://github.com/ItsArnavSh/Tyche/stargazers) [![Forks](https://img.shields.io/github/forks/ItsArnavSh/Tyche?style=flat-square&color=blue)](https://github.com/ItsArnavSh/Tyche/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ItsArnavSh/Tyche?style=flat-square&color=yellow)](https://github.com/ItsArnavSh/Tyche/stargazers) [![Forks](https://img.shields.io/github/forks/ItsArnavSh/Tyche?style=flat-square&color=blue)](https://github.com/ItsArnavSh/Tyche/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Fully Autonomous Experimental Distributed Trading Bot
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Java |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
