@@ -1,6 +1,6 @@
 # brontoguana/krasis
 
-[![Stars](https://img.shields.io/github/stars/brontoguana/krasis?style=flat-square&color=yellow)](https://github.com/brontoguana/krasis/stargazers) [![Forks](https://img.shields.io/github/forks/brontoguana/krasis?style=flat-square&color=blue)](https://github.com/brontoguana/krasis/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brontoguana/krasis?style=flat-square&color=yellow)](https://github.com/brontoguana/krasis/stargazers) [![Forks](https://img.shields.io/github/forks/brontoguana/krasis?style=flat-square&color=blue)](https://github.com/brontoguana/krasis/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Krasis is a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM limited hardware
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 449 |
-| 🍴 **Forks** | 23 |
+| ⭐ **Stars** | 450 |
+| 🍴 **Forks** | 24 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

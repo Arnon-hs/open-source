@@ -1,6 +1,6 @@
 # VeryGoodOpenSource/very_good_cli
 
-[![Stars](https://img.shields.io/github/stars/VeryGoodOpenSource/very_good_cli?style=flat-square&color=yellow)](https://github.com/VeryGoodOpenSource/very_good_cli/stargazers) [![Forks](https://img.shields.io/github/forks/VeryGoodOpenSource/very_good_cli?style=flat-square&color=blue)](https://github.com/VeryGoodOpenSource/very_good_cli/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VeryGoodOpenSource/very_good_cli?style=flat-square&color=yellow)](https://github.com/VeryGoodOpenSource/very_good_cli/stargazers) [![Forks](https://img.shields.io/github/forks/VeryGoodOpenSource/very_good_cli?style=flat-square&color=blue)](https://github.com/VeryGoodOpenSource/very_good_cli/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A Very Good Command-Line Interface for Dart created by Very Good Ventures 🦄
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

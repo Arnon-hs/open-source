@@ -1,6 +1,6 @@
 # HarbourMasters/Starship
 
-[![Stars](https://img.shields.io/github/stars/HarbourMasters/Starship?style=flat-square&color=yellow)](https://github.com/HarbourMasters/Starship/stargazers) [![Forks](https://img.shields.io/github/forks/HarbourMasters/Starship?style=flat-square&color=blue)](https://github.com/HarbourMasters/Starship/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HarbourMasters/Starship?style=flat-square&color=yellow)](https://github.com/HarbourMasters/Starship/stargazers) [![Forks](https://img.shields.io/github/forks/HarbourMasters/Starship?style=flat-square&color=blue)](https://github.com/HarbourMasters/Starship/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > SF64 PC Port
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

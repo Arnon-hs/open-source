@@ -1,6 +1,6 @@
 # tekumara/typos-lsp
 
-[![Stars](https://img.shields.io/github/stars/tekumara/typos-lsp?style=flat-square&color=yellow)](https://github.com/tekumara/typos-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/tekumara/typos-lsp?style=flat-square&color=blue)](https://github.com/tekumara/typos-lsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tekumara/typos-lsp?style=flat-square&color=yellow)](https://github.com/tekumara/typos-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/tekumara/typos-lsp?style=flat-square&color=blue)](https://github.com/tekumara/typos-lsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Source code spell checker for Visual Studio Code, Neovim and other LSP clients
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 544 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

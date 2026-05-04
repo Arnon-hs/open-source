@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The cloudfoundry/go-diodes project provides a Go implementation of ring buffers, known as diodes, which utilize atomic operations for safe and efficient manipulation. This open-source library offers a reliable and concurrent data structure for storing and retrieving elements in a circular buffer. By leveraging atomic operations, diodes enable thread-safe access and modification of the buffer.
+The cloudfoundry/go-diodes project provides a ring buffer implementation in Go, utilizing atomic operations for thread-safe manipulation. This allows for efficient and concurrent data handling in multi-threaded environments. The project offers a flexible and lightweight solution for buffering data.
 
 ---
 

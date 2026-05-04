@@ -1,6 +1,6 @@
 # dotCMS/core
 
-[![Stars](https://img.shields.io/github/stars/dotCMS/core?style=flat-square&color=yellow)](https://github.com/dotCMS/core/stargazers) [![Forks](https://img.shields.io/github/forks/dotCMS/core?style=flat-square&color=blue)](https://github.com/dotCMS/core/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotCMS/core?style=flat-square&color=yellow)](https://github.com/dotCMS/core/stargazers) [![Forks](https://img.shields.io/github/forks/dotCMS/core?style=flat-square&color=blue)](https://github.com/dotCMS/core/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The Visual Headless Content Management System for Enterprises
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 943 |
 | 🍴 **Forks** | 479 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

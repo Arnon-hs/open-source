@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16024** |
+| 🗂️ **Total projects** | **16063** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5964 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3331 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1581 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 5974 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3347 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1586 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 1166 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 984 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 987 | [Browse →](./backend/) |
 | 🔧 **DevTools** | 949 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 541 | [Browse →](./crypto/) |
 | 📊 **Data** | 366 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 343 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 221 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 345 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 222 | [Browse →](./mobile/) |
+| 📈 **Trading** | 166 | [Browse →](./trading/) |
 | 💳 **Payments** | 166 | [Browse →](./payments/) |
-| 📈 **Trading** | 164 | [Browse →](./trading/) |
 | 🔐 **Security** | 130 | [Browse →](./security/) |
 | ✨ **Design** | 54 | [Browse →](./design/) |
 | 🎯 **Product** | 33 | [Browse →](./product/) |
@@ -39,8 +39,8 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [mattermost-community/focalboard](./misc/mattermost-community-focalboard.md) | ⭐ 26.1k | Misc |
-| 2 | [microsoft/presidio](./aiml/microsoft-presidio.md) | ⭐ 7.9k | AI/ML |
+| 1 | [microsoft/presidio](./aiml/microsoft-presidio.md) | ⭐ 7.9k | AI/ML |
+| 2 | [hazelcast/hazelcast](./data/hazelcast-hazelcast.md) | ⭐ 6.6k | Data |
 | 3 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
 | 4 | [zitadel/zitadel](./aiml/zitadel-zitadel.md) | ⭐ 13.7k | AI/ML |
 | 5 | [K-Dense-AI/scientific-agent-skills](./orchestration/k-dense-ai-scientific-agent-skills.md) | ⭐ 20k | Orchestration |

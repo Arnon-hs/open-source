@@ -1,6 +1,6 @@
 # microsoft/lage
 
-[![Stars](https://img.shields.io/github/stars/microsoft/lage?style=flat-square&color=yellow)](https://github.com/microsoft/lage/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/lage?style=flat-square&color=blue)](https://github.com/microsoft/lage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/lage?style=flat-square&color=yellow)](https://github.com/microsoft/lage/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/lage?style=flat-square&color=blue)](https://github.com/microsoft/lage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Task runner in JS monorepos
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 809 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

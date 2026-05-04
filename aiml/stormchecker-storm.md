@@ -1,6 +1,6 @@
 # stormchecker/storm
 
-[![Stars](https://img.shields.io/github/stars/stormchecker/storm?style=flat-square&color=yellow)](https://github.com/stormchecker/storm/stargazers) [![Forks](https://img.shields.io/github/forks/stormchecker/storm?style=flat-square&color=blue)](https://github.com/stormchecker/storm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stormchecker/storm?style=flat-square&color=yellow)](https://github.com/stormchecker/storm/stargazers) [![Forks](https://img.shields.io/github/forks/stormchecker/storm?style=flat-square&color=blue)](https://github.com/stormchecker/storm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A Modern Probabilistic Model Checker
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

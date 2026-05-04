@@ -1,6 +1,6 @@
 # pritunl/pritunl-client
 
-[![Stars](https://img.shields.io/github/stars/pritunl/pritunl-client?style=flat-square&color=yellow)](https://github.com/pritunl/pritunl-client/stargazers) [![Forks](https://img.shields.io/github/forks/pritunl/pritunl-client?style=flat-square&color=blue)](https://github.com/pritunl/pritunl-client/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pritunl/pritunl-client?style=flat-square&color=yellow)](https://github.com/pritunl/pritunl-client/stargazers) [![Forks](https://img.shields.io/github/forks/pritunl/pritunl-client?style=flat-square&color=blue)](https://github.com/pritunl/pritunl-client/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Pritunl OpenVPN client
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 256 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

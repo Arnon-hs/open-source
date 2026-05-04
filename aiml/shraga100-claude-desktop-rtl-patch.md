@@ -1,6 +1,6 @@
 # shraga100/claude-desktop-rtl-patch
 
-[![Stars](https://img.shields.io/github/stars/shraga100/claude-desktop-rtl-patch?style=flat-square&color=yellow)](https://github.com/shraga100/claude-desktop-rtl-patch/stargazers) [![Forks](https://img.shields.io/github/forks/shraga100/claude-desktop-rtl-patch?style=flat-square&color=blue)](https://github.com/shraga100/claude-desktop-rtl-patch/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shraga100/claude-desktop-rtl-patch?style=flat-square&color=yellow)](https://github.com/shraga100/claude-desktop-rtl-patch/stargazers) [![Forks](https://img.shields.io/github/forks/shraga100/claude-desktop-rtl-patch?style=flat-square&color=blue)](https://github.com/shraga100/claude-desktop-rtl-patch/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > CSS patch for Claude Desktop windows version to enable RTL (right-to-left) support for Hebrew and Arabic
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

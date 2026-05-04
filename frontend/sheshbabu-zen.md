@@ -1,6 +1,6 @@
 # sheshbabu/zen
 
-[![Stars](https://img.shields.io/github/stars/sheshbabu/zen?style=flat-square&color=yellow)](https://github.com/sheshbabu/zen/stargazers) [![Forks](https://img.shields.io/github/forks/sheshbabu/zen?style=flat-square&color=blue)](https://github.com/sheshbabu/zen/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sheshbabu/zen?style=flat-square&color=yellow)](https://github.com/sheshbabu/zen/stargazers) [![Forks](https://img.shields.io/github/forks/sheshbabu/zen?style=flat-square&color=blue)](https://github.com/sheshbabu/zen/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

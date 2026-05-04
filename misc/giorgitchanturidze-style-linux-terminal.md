@@ -1,6 +1,6 @@
 # giorgitchanturidze/style-linux-terminal
 
-[![Stars](https://img.shields.io/github/stars/giorgitchanturidze/style-linux-terminal?style=flat-square&color=yellow)](https://github.com/giorgitchanturidze/style-linux-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/giorgitchanturidze/style-linux-terminal?style=flat-square&color=blue)](https://github.com/giorgitchanturidze/style-linux-terminal/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/giorgitchanturidze/style-linux-terminal?style=flat-square&color=yellow)](https://github.com/giorgitchanturidze/style-linux-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/giorgitchanturidze/style-linux-terminal?style=flat-square&color=blue)](https://github.com/giorgitchanturidze/style-linux-terminal/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Transform your Linux terminal into a modern, beautiful shell — Zsh, Oh My Zsh, Starship prompt, Autosuggestions, Syntax Highlighting, and an automated setup script.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # ancsemi/Haven
 
-[![Stars](https://img.shields.io/github/stars/ancsemi/Haven?style=flat-square&color=yellow)](https://github.com/ancsemi/Haven/stargazers) [![Forks](https://img.shields.io/github/forks/ancsemi/Haven?style=flat-square&color=blue)](https://github.com/ancsemi/Haven/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ancsemi/Haven?style=flat-square&color=yellow)](https://github.com/ancsemi/Haven/stargazers) [![Forks](https://img.shields.io/github/forks/ancsemi/Haven?style=flat-square&color=blue)](https://github.com/ancsemi/Haven/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 407 |
+| ⭐ **Stars** | 408 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

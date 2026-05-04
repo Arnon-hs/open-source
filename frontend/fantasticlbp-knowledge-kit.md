@@ -1,6 +1,6 @@
 # FantasticLBP/knowledge-kit
 
-[![Stars](https://img.shields.io/github/stars/FantasticLBP/knowledge-kit?style=flat-square&color=yellow)](https://github.com/FantasticLBP/knowledge-kit/stargazers) [![Forks](https://img.shields.io/github/forks/FantasticLBP/knowledge-kit?style=flat-square&color=blue)](https://github.com/FantasticLBP/knowledge-kit/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FantasticLBP/knowledge-kit?style=flat-square&color=yellow)](https://github.com/FantasticLBP/knowledge-kit/stargazers) [![Forks](https://img.shields.io/github/forks/FantasticLBP/knowledge-kit?style=flat-square&color=blue)](https://github.com/FantasticLBP/knowledge-kit/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 924 |
 | 🍴 **Forks** | 227 |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

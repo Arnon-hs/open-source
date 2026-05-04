@@ -1,6 +1,6 @@
 # cheeaun/awesome-hacker-news
 
-[![Stars](https://img.shields.io/github/stars/cheeaun/awesome-hacker-news?style=flat-square&color=yellow)](https://github.com/cheeaun/awesome-hacker-news/stargazers) [![Forks](https://img.shields.io/github/forks/cheeaun/awesome-hacker-news?style=flat-square&color=blue)](https://github.com/cheeaun/awesome-hacker-news/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cheeaun/awesome-hacker-news?style=flat-square&color=yellow)](https://github.com/cheeaun/awesome-hacker-news/stargazers) [![Forks](https://img.shields.io/github/forks/cheeaun/awesome-hacker-news?style=flat-square&color=blue)](https://github.com/cheeaun/awesome-hacker-news/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

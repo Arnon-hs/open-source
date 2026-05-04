@@ -1,6 +1,6 @@
 # microsoft/lib0xc
 
-[![Stars](https://img.shields.io/github/stars/microsoft/lib0xc?style=flat-square&color=yellow)](https://github.com/microsoft/lib0xc/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/lib0xc?style=flat-square&color=blue)](https://github.com/microsoft/lib0xc/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/lib0xc?style=flat-square&color=yellow)](https://github.com/microsoft/lib0xc/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/lib0xc?style=flat-square&color=blue)](https://github.com/microsoft/lib0xc/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Safe(ish) C programming library
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 318 |
-| 🍴 **Forks** | 16 |
+| ⭐ **Stars** | 331 |
+| 🍴 **Forks** | 17 |
 | 💻 **Language** | C |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

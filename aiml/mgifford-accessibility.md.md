@@ -1,6 +1,6 @@
 # mgifford/ACCESSIBILITY.md
 
-[![Stars](https://img.shields.io/github/stars/mgifford/ACCESSIBILITY.md?style=flat-square&color=yellow)](https://github.com/mgifford/ACCESSIBILITY.md/stargazers) [![Forks](https://img.shields.io/github/forks/mgifford/ACCESSIBILITY.md?style=flat-square&color=blue)](https://github.com/mgifford/ACCESSIBILITY.md/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mgifford/ACCESSIBILITY.md?style=flat-square&color=yellow)](https://github.com/mgifford/ACCESSIBILITY.md/stargazers) [![Forks](https://img.shields.io/github/forks/mgifford/ACCESSIBILITY.md?style=flat-square&color=blue)](https://github.com/mgifford/ACCESSIBILITY.md/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ACCESSIBILITY.md — a simple, open format (aligned with AGENTS.md) for guiding coding agents to be more accessible
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 43 |
+| ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

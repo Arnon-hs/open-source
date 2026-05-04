@@ -1,6 +1,6 @@
 # YouChenJun/Keydd
 
-[![Stars](https://img.shields.io/github/stars/YouChenJun/Keydd?style=flat-square&color=yellow)](https://github.com/YouChenJun/Keydd/stargazers) [![Forks](https://img.shields.io/github/forks/YouChenJun/Keydd?style=flat-square&color=blue)](https://github.com/YouChenJun/Keydd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YouChenJun/Keydd?style=flat-square&color=yellow)](https://github.com/YouChenJun/Keydd/stargazers) [![Forks](https://img.shields.io/github/forks/YouChenJun/Keydd?style=flat-square&color=blue)](https://github.com/YouChenJun/Keydd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > 从流量包匹配敏感信息的工具-可用作bp、浏览器的下游代理。0感知、无卡顿，支持https。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 295 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

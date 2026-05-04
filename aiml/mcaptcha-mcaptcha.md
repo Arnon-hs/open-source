@@ -1,6 +1,6 @@
 # mCaptcha/mCaptcha
 
-[![Stars](https://img.shields.io/github/stars/mCaptcha/mCaptcha?style=flat-square&color=yellow)](https://github.com/mCaptcha/mCaptcha/discussions/199/stargazers) [![Forks](https://img.shields.io/github/forks/mCaptcha/mCaptcha?style=flat-square&color=blue)](https://github.com/mCaptcha/mCaptcha/discussions/199/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mCaptcha/mCaptcha?style=flat-square&color=yellow)](https://github.com/mCaptcha/mCaptcha/discussions/199/stargazers) [![Forks](https://img.shields.io/github/forks/mCaptcha/mCaptcha?style=flat-square&color=blue)](https://github.com/mCaptcha/mCaptcha/discussions/199/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A no-nonsense CAPTCHA system with seamless UX | Backend component
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

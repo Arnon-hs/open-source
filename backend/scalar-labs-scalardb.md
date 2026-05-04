@@ -1,6 +1,6 @@
 # scalar-labs/scalardb
 
-[![Stars](https://img.shields.io/github/stars/scalar-labs/scalardb?style=flat-square&color=yellow)](https://github.com/scalar-labs/scalardb/stargazers) [![Forks](https://img.shields.io/github/forks/scalar-labs/scalardb?style=flat-square&color=blue)](https://github.com/scalar-labs/scalardb/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scalar-labs/scalardb?style=flat-square&color=yellow)](https://github.com/scalar-labs/scalardb/stargazers) [![Forks](https://img.shields.io/github/forks/scalar-labs/scalardb?style=flat-square&color=blue)](https://github.com/scalar-labs/scalardb/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Universal HTAP Engine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 641 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

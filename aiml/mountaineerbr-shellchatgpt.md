@@ -1,6 +1,6 @@
 # mountaineerbr/shellChatGPT
 
-[![Stars](https://img.shields.io/github/stars/mountaineerbr/shellChatGPT?style=flat-square&color=yellow)](https://github.com/mountaineerbr/shellChatGPT/stargazers) [![Forks](https://img.shields.io/github/forks/mountaineerbr/shellChatGPT?style=flat-square&color=blue)](https://github.com/mountaineerbr/shellChatGPT/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mountaineerbr/shellChatGPT?style=flat-square&color=yellow)](https://github.com/mountaineerbr/shellChatGPT/stargazers) [![Forks](https://img.shields.io/github/forks/mountaineerbr/shellChatGPT?style=flat-square&color=blue)](https://github.com/mountaineerbr/shellChatGPT/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Shell wrapper for OpenAI's ChatGPT, Whisper, and TTS. Features LocalAI, Ollama, Gemini, Anthropic, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

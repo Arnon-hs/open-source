@@ -25,7 +25,7 @@ DevTools · Product
 
 ## 📝 Summary
 
-Anderson's Twig is an open-source, tmux session manager that provides a user-friendly interface for managing multiple tmux sessions efficiently. This tool incorporates git worktree support, allowing developers to easily switch between different project branches and maintain a clean workspace. With Twig, users can streamline their development workflow and stay organized.
+This open-source project, Andersonkrs/twig, offers a powerful tmux session manager that combines functionality with a visually appealing interface. It provides additional support for Git worktrees, allowing developers to efficiently manage their projects within tmux sessions. This tool aims to simplify workflow organization and productivity for developers.
 
 ---
 

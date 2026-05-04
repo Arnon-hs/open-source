@@ -1,6 +1,6 @@
 # JetSetIlly/Gopher2600
 
-[![Stars](https://img.shields.io/github/stars/JetSetIlly/Gopher2600?style=flat-square&color=yellow)](https://github.com/JetSetIlly/Gopher2600/stargazers) [![Forks](https://img.shields.io/github/forks/JetSetIlly/Gopher2600?style=flat-square&color=blue)](https://github.com/JetSetIlly/Gopher2600/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JetSetIlly/Gopher2600?style=flat-square&color=yellow)](https://github.com/JetSetIlly/Gopher2600/stargazers) [![Forks](https://img.shields.io/github/forks/JetSetIlly/Gopher2600?style=flat-square&color=blue)](https://github.com/JetSetIlly/Gopher2600/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Gopher2600 is an emulator for the Atari 2600 games console
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 299 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

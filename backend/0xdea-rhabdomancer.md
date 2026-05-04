@@ -1,6 +1,6 @@
 # 0xdea/rhabdomancer
 
-[![Stars](https://img.shields.io/github/stars/0xdea/rhabdomancer?style=flat-square&color=yellow)](https://github.com/0xdea/rhabdomancer/stargazers) [![Forks](https://img.shields.io/github/forks/0xdea/rhabdomancer?style=flat-square&color=blue)](https://github.com/0xdea/rhabdomancer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xdea/rhabdomancer?style=flat-square&color=yellow)](https://github.com/0xdea/rhabdomancer/stargazers) [![Forks](https://img.shields.io/github/forks/0xdea/rhabdomancer?style=flat-square&color=blue)](https://github.com/0xdea/rhabdomancer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Vulnerability research assistant that locates calls to potentially insecure API functions in a binary file.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

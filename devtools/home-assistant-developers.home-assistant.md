@@ -1,6 +1,6 @@
 # home-assistant/developers.home-assistant
 
-[![Stars](https://img.shields.io/github/stars/home-assistant/developers.home-assistant?style=flat-square&color=yellow)](https://github.com/home-assistant/developers.home-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/home-assistant/developers.home-assistant?style=flat-square&color=blue)](https://github.com/home-assistant/developers.home-assistant/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/home-assistant/developers.home-assistant?style=flat-square&color=yellow)](https://github.com/home-assistant/developers.home-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/home-assistant/developers.home-assistant?style=flat-square&color=blue)](https://github.com/home-assistant/developers.home-assistant/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Developers website for Home Assistant.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 439 |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

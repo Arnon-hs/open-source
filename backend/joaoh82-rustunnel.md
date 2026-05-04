@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 624 |
-| 🍴 **Forks** | 43 |
+| ⭐ **Stars** | 626 |
+| 🍴 **Forks** | 44 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |

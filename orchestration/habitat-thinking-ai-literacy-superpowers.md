@@ -1,6 +1,6 @@
 # Habitat-Thinking/ai-literacy-superpowers
 
-[![Stars](https://img.shields.io/github/stars/Habitat-Thinking/ai-literacy-superpowers?style=flat-square&color=yellow)](https://github.com/Habitat-Thinking/ai-literacy-superpowers/stargazers) [![Forks](https://img.shields.io/github/forks/Habitat-Thinking/ai-literacy-superpowers?style=flat-square&color=blue)](https://github.com/Habitat-Thinking/ai-literacy-superpowers/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Habitat-Thinking/ai-literacy-superpowers?style=flat-square&color=yellow)](https://github.com/Habitat-Thinking/ai-literacy-superpowers/stargazers) [![Forks](https://img.shields.io/github/forks/Habitat-Thinking/ai-literacy-superpowers?style=flat-square&color=blue)](https://github.com/Habitat-Thinking/ai-literacy-superpowers/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A set of Claude Code and GitHub Copilot plugins providing the AI Literacy framework's complete development workflow — harness engineering, agent orchestration, literate programming, CUPID code review, and the three enforcement loops
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

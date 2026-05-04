@@ -1,6 +1,6 @@
 # denoland/std
 
-[![Stars](https://img.shields.io/github/stars/denoland/std?style=flat-square&color=yellow)](https://github.com/denoland/std/stargazers) [![Forks](https://img.shields.io/github/forks/denoland/std?style=flat-square&color=blue)](https://github.com/denoland/std/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/denoland/std?style=flat-square&color=yellow)](https://github.com/denoland/std/stargazers) [![Forks](https://img.shields.io/github/forks/denoland/std?style=flat-square&color=blue)](https://github.com/denoland/std/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > The Deno Standard Library
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 672 |
+| 🍴 **Forks** | 671 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

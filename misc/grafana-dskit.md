@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The grafana/dskit is an open-source Distributed Systems Kit, designed to provide a comprehensive framework for building scalable and reliable distributed systems. This kit offers a set of tools and libraries that facilitate the development of distributed applications, enabling developers to focus on solving complex problems rather than building foundational infrastructure. By leveraging dskit, developers can create high-performance, fault-tolerant systems that are easy to maintain and operate.
+The grafana/dskit is an open-source Distributed Systems Kit, providing a set of tools and libraries for building scalable and reliable distributed systems. This kit enables developers to create complex distributed architectures with ease, leveraging a modular and extensible design. By utilizing dskit, developers can streamline the development and deployment of distributed systems, focusing on application logic rather than low-level infrastructure concerns.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The osmanuygar/sqlatte project is an open-source tool that utilizes artificial intelligence (AI) to translate natural language queries into SQL code, facilitating efficient and intuitive data analysis. This AI-powered solution enables users to express complex database queries in a more human-friendly format, making it easier to interact with databases. By automating the SQL query generation process, sqlatte streamlines data exploration and analysis.
+The osmanuygar/sqlatte project is an open-source tool that leverages AI technology to convert natural language queries into SQL statements, simplifying database interactions. This innovative solution allows users to communicate with databases using everyday language, reducing the need for complex SQL syntax and enhancing productivity. By bridging the gap between human language and SQL, sqlatte empowers users to extract insights and manage data more efficiently.
 
 ---
 

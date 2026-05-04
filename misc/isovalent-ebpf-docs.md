@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Isovalent's eBPF-docs is an open-source project dedicated to creating a comprehensive documentation resource for eBPF (Extended Berkeley Packet Filter). This project aims to provide in-depth information and guidelines for developers, users, and maintainers of eBPF, promoting easier adoption and improved understanding of this technology. By offering a centralized and well-structured knowledge base, eBPF-docs seeks to accelerate the development and deployment of eBPF-based solutions.
+Isovalent's eBPF-docs project aims to create a comprehensive and accurate documentation resource for eBPF (Extended Berkeley Packet Filter), a powerful, in-kernel technology for building high-performance network monitoring and security solutions. This documentation will serve as a valuable reference for developers, engineers, and users looking to harness the full potential of eBPF. By providing a centralized and up-to-date resource, eBPF-docs facilitates the adoption and innovation of eBPF-based projects.
 
 ---
 

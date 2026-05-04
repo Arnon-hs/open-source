@@ -1,6 +1,6 @@
 # therealaleph/MasterHttpRelayVPN-RUST
 
-[![Stars](https://img.shields.io/github/stars/therealaleph/MasterHttpRelayVPN-RUST?style=flat-square&color=yellow)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/stargazers) [![Forks](https://img.shields.io/github/forks/therealaleph/MasterHttpRelayVPN-RUST?style=flat-square&color=blue)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/therealaleph/MasterHttpRelayVPN-RUST?style=flat-square&color=yellow)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/stargazers) [![Forks](https://img.shields.io/github/forks/therealaleph/MasterHttpRelayVPN-RUST?style=flat-square&color=blue)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 202 |
+| 🍴 **Forks** | 210 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # mrchantey/beet
 
-[![Stars](https://img.shields.io/github/stars/mrchantey/beet?style=flat-square&color=yellow)](https://github.com/mrchantey/beet/stargazers) [![Forks](https://img.shields.io/github/forks/mrchantey/beet?style=flat-square&color=blue)](https://github.com/mrchantey/beet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrchantey/beet?style=flat-square&color=yellow)](https://github.com/mrchantey/beet/stargazers) [![Forks](https://img.shields.io/github/forks/mrchantey/beet?style=flat-square&color=blue)](https://github.com/mrchantey/beet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A malleable application framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

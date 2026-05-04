@@ -1,6 +1,6 @@
 # nuxt-modules/og-image
 
-[![Stars](https://img.shields.io/github/stars/nuxt-modules/og-image?style=flat-square&color=yellow)](https://github.com/nuxt-modules/og-image/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt-modules/og-image?style=flat-square&color=blue)](https://github.com/nuxt-modules/og-image/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nuxt-modules/og-image?style=flat-square&color=yellow)](https://github.com/nuxt-modules/og-image/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt-modules/og-image?style=flat-square&color=blue)](https://github.com/nuxt-modules/og-image/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Generate OG Images with Vue templates in Nuxt.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 539 |
+| ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

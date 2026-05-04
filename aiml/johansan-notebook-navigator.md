@@ -1,6 +1,6 @@
 # johansan/notebook-navigator
 
-[![Stars](https://img.shields.io/github/stars/johansan/notebook-navigator?style=flat-square&color=yellow)](https://github.com/johansan/notebook-navigator/stargazers) [![Forks](https://img.shields.io/github/forks/johansan/notebook-navigator?style=flat-square&color=blue)](https://github.com/johansan/notebook-navigator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/johansan/notebook-navigator?style=flat-square&color=yellow)](https://github.com/johansan/notebook-navigator/stargazers) [![Forks](https://img.shields.io/github/forks/johansan/notebook-navigator?style=flat-square&color=blue)](https://github.com/johansan/notebook-navigator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable display options.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

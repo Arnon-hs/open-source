@@ -1,6 +1,6 @@
 # Azure/kubelogin
 
-[![Stars](https://img.shields.io/github/stars/Azure/kubelogin?style=flat-square&color=yellow)](https://github.com/Azure/kubelogin/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/kubelogin?style=flat-square&color=blue)](https://github.com/Azure/kubelogin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/kubelogin?style=flat-square&color=yellow)](https://github.com/Azure/kubelogin/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/kubelogin?style=flat-square&color=blue)](https://github.com/Azure/kubelogin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A Kubernetes credential (exec) plugin implementing azure authentication
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 568 |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

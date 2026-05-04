@@ -1,6 +1,6 @@
 # Tunnello/ChatBI
 
-[![Stars](https://img.shields.io/github/stars/Tunnello/ChatBI?style=flat-square&color=yellow)](https://github.com/Tunnello/ChatBI/stargazers) [![Forks](https://img.shields.io/github/forks/Tunnello/ChatBI?style=flat-square&color=blue)](https://github.com/Tunnello/ChatBI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tunnello/ChatBI?style=flat-square&color=yellow)](https://github.com/Tunnello/ChatBI/stargazers) [![Forks](https://img.shields.io/github/forks/Tunnello/ChatBI?style=flat-square&color=blue)](https://github.com/Tunnello/ChatBI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 对话式商业智能分析Agent应用
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

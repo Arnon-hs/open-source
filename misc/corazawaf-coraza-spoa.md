@@ -1,6 +1,6 @@
 # corazawaf/coraza-spoa
 
-[![Stars](https://img.shields.io/github/stars/corazawaf/coraza-spoa?style=flat-square&color=yellow)](https://github.com/corazawaf/coraza-spoa/stargazers) [![Forks](https://img.shields.io/github/forks/corazawaf/coraza-spoa?style=flat-square&color=blue)](https://github.com/corazawaf/coraza-spoa/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/corazawaf/coraza-spoa?style=flat-square&color=yellow)](https://github.com/corazawaf/coraza-spoa/stargazers) [![Forks](https://img.shields.io/github/forks/corazawaf/coraza-spoa?style=flat-square&color=blue)](https://github.com/corazawaf/coraza-spoa/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A wrapper for integrating the OWASP Coraza WAF with HAProxy's SPOE filters.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

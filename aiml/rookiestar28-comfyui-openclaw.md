@@ -1,6 +1,6 @@
 # rookiestar28/ComfyUI-OpenClaw
 
-[![Stars](https://img.shields.io/github/stars/rookiestar28/ComfyUI-OpenClaw?style=flat-square&color=yellow)](https://github.com/rookiestar28/ComfyUI-OpenClaw/stargazers) [![Forks](https://img.shields.io/github/forks/rookiestar28/ComfyUI-OpenClaw?style=flat-square&color=blue)](https://github.com/rookiestar28/ComfyUI-OpenClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rookiestar28/ComfyUI-OpenClaw?style=flat-square&color=yellow)](https://github.com/rookiestar28/ComfyUI-OpenClaw/stargazers) [![Forks](https://img.shields.io/github/forks/rookiestar28/ComfyUI-OpenClaw?style=flat-square&color=blue)](https://github.com/rookiestar28/ComfyUI-OpenClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Your own personal AIGC Factory. Any picture. Any reel. The Comfy way. ©️
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 534 |
+| ⭐ **Stars** | 535 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

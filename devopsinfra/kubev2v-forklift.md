@@ -1,6 +1,6 @@
 # kubev2v/forklift
 
-[![Stars](https://img.shields.io/github/stars/kubev2v/forklift?style=flat-square&color=yellow)](https://github.com/kubev2v/forklift/stargazers) [![Forks](https://img.shields.io/github/forks/kubev2v/forklift?style=flat-square&color=blue)](https://github.com/kubev2v/forklift/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubev2v/forklift?style=flat-square&color=yellow)](https://github.com/kubev2v/forklift/stargazers) [![Forks](https://img.shields.io/github/forks/kubev2v/forklift?style=flat-square&color=blue)](https://github.com/kubev2v/forklift/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Toolkit for migrating VMs from VMware, OVA, oVirt and OpenStack to KubeVirt
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 174 |
-| 🍴 **Forks** | 85 |
+| ⭐ **Stars** | 175 |
+| 🍴 **Forks** | 86 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

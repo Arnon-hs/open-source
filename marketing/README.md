@@ -20,9 +20,9 @@
 | 10 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 725 | Adblock Filter List | 57/100 |
 | 11 | [maaslalani/sheets](./maaslalani-sheets.md) | ⭐ 2.2k | Go | 56/100 |
 | 12 | [nowork-studio/toprank](./nowork-studio-toprank.md) | ⭐ 1.6k | Python | 55/100 |
-| 13 | [pH-7/Download-Simply-Videos-From-YouTube](./ph-7-download-simply-videos-from-youtube.md) | ⭐ 372 | Python | 54/100 |
-| 14 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 521 | PHP | 54/100 |
-| 15 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 636 | C# | 53/100 |
+| 13 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 521 | PHP | 54/100 |
+| 14 | [pH-7/Download-Simply-Videos-From-YouTube](./ph-7-download-simply-videos-from-youtube.md) | ⭐ 372 | Python | 54/100 |
+| 15 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 640 | C# | 53/100 |
 | 16 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 17 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 967 | TypeScript | 52/100 |
 | 18 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 52/100 |

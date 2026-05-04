@@ -1,6 +1,6 @@
 # Th0rgal/sandboxed.sh
 
-[![Stars](https://img.shields.io/github/stars/Th0rgal/sandboxed.sh?style=flat-square&color=yellow)](https://github.com/Th0rgal/sandboxed.sh/stargazers) [![Forks](https://img.shields.io/github/forks/Th0rgal/sandboxed.sh?style=flat-square&color=blue)](https://github.com/Th0rgal/sandboxed.sh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Th0rgal/sandboxed.sh?style=flat-square&color=yellow)](https://github.com/Th0rgal/sandboxed.sh/stargazers) [![Forks](https://img.shields.io/github/forks/Th0rgal/sandboxed.sh?style=flat-square&color=blue)](https://github.com/Th0rgal/sandboxed.sh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted orchestrator for AI autonomous agents. Run Claude Code & Open Code in isolated linux workspaces. Manage your skills, configs and encrypted secrets with a git repo.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 407 |
+| ⭐ **Stars** | 409 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

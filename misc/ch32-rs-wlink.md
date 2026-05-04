@@ -1,6 +1,6 @@
 # ch32-rs/wlink
 
-[![Stars](https://img.shields.io/github/stars/ch32-rs/wlink?style=flat-square&color=yellow)](https://github.com/ch32-rs/wlink/stargazers) [![Forks](https://img.shields.io/github/forks/ch32-rs/wlink?style=flat-square&color=blue)](https://github.com/ch32-rs/wlink/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ch32-rs/wlink?style=flat-square&color=yellow)](https://github.com/ch32-rs/wlink/stargazers) [![Forks](https://img.shields.io/github/forks/ch32-rs/wlink?style=flat-square&color=blue)](https://github.com/ch32-rs/wlink/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > An open source WCH-Link library/command line tool written in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

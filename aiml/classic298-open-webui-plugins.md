@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 318 |
+| ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the Classic298/open-webui-plugins project:
 
-The Classic298/open-webui-plugins repository offers a comprehensive collection of Open WebUI plugins, designed to enhance the functionality and capabilities of AI chat experiences. These plugins, including tools, skills, filters, pipes, and actions, provide users with a wide range of options to customize and extend their chat interactions. By contributing to this open-source initiative, developers can expand the possibilities of AI-powered conversations.
+This open-source project offers a comprehensive collection of Open WebUI plugins, expanding the capabilities of AI chat experiences with tools, skills, filters, pipes, and actions. These plugins can be easily integrated to enhance the functionality and customization of AI-powered chat interfaces. By providing a curated set of plugins, this project empowers developers to create more sophisticated and user-friendly AI chat applications.
 
 ---
 

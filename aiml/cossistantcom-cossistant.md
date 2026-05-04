@@ -1,6 +1,6 @@
 # cossistantcom/cossistant
 
-[![Stars](https://img.shields.io/github/stars/cossistantcom/cossistant?style=flat-square&color=yellow)](https://github.com/cossistantcom/cossistant/stargazers) [![Forks](https://img.shields.io/github/forks/cossistantcom/cossistant?style=flat-square&color=blue)](https://github.com/cossistantcom/cossistant/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cossistantcom/cossistant?style=flat-square&color=yellow)](https://github.com/cossistantcom/cossistant/stargazers) [![Forks](https://img.shields.io/github/forks/cossistantcom/cossistant?style=flat-square&color=blue)](https://github.com/cossistantcom/cossistant/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, customer support platform with fully customizable AI support agents for developers / startups shipping SaaS.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 650 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

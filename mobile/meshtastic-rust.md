@@ -1,6 +1,6 @@
 # meshtastic/rust
 
-[![Stars](https://img.shields.io/github/stars/meshtastic/rust?style=flat-square&color=yellow)](https://github.com/meshtastic/rust/stargazers) [![Forks](https://img.shields.io/github/forks/meshtastic/rust?style=flat-square&color=blue)](https://github.com/meshtastic/rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meshtastic/rust?style=flat-square&color=yellow)](https://github.com/meshtastic/rust/stargazers) [![Forks](https://img.shields.io/github/forks/meshtastic/rust?style=flat-square&color=blue)](https://github.com/meshtastic/rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust library for connecting to and configuring Meshtastic radios.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

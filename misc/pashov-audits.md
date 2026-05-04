@@ -1,6 +1,6 @@
 # pashov/audits
 
-[![Stars](https://img.shields.io/github/stars/pashov/audits?style=flat-square&color=yellow)](https://github.com/pashov/audits/stargazers) [![Forks](https://img.shields.io/github/forks/pashov/audits?style=flat-square&color=blue)](https://github.com/pashov/audits/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pashov/audits?style=flat-square&color=yellow)](https://github.com/pashov/audits/stargazers) [![Forks](https://img.shields.io/github/forks/pashov/audits?style=flat-square&color=blue)](https://github.com/pashov/audits/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

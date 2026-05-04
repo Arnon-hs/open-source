@@ -1,6 +1,6 @@
 # PackmindHub/packmind
 
-[![Stars](https://img.shields.io/github/stars/PackmindHub/packmind?style=flat-square&color=yellow)](https://github.com/PackmindHub/packmind/stargazers) [![Forks](https://img.shields.io/github/forks/PackmindHub/packmind?style=flat-square&color=blue)](https://github.com/PackmindHub/packmind/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PackmindHub/packmind?style=flat-square&color=yellow)](https://github.com/PackmindHub/packmind/stargazers) [![Forks](https://img.shields.io/github/forks/PackmindHub/packmind?style=flat-square&color=blue)](https://github.com/PackmindHub/packmind/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Packmind seamlessly captures your engineering playbook and turns it into AI context, guardrails, and governance.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 275 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

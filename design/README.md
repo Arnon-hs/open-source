@@ -16,12 +16,12 @@
 | 6 | [dotnet/csharplang](./dotnet-csharplang.md) | ⭐ 12.6k | C# | 93/100 |
 | 7 | [safing/portmaster](./safing-portmaster.md) | ⭐ 12.6k | Go | 92/100 |
 | 8 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.7k | Scala | 91/100 |
-| 9 | [garrytan/gstack](./garrytan-gstack.md) | ⭐ 88.8k | TypeScript | 90/100 |
+| 9 | [garrytan/gstack](./garrytan-gstack.md) | ⭐ 88.9k | TypeScript | 90/100 |
 | 10 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4k | C++ | 86/100 |
 | 11 | [tw93/Waza](./tw93-waza.md) | ⭐ 4.3k | Shell | 84/100 |
 | 12 | [j178/prek](./j178-prek.md) | ⭐ 7.5k | Rust | 82/100 |
-| 13 | [pqoqubbw/icons](./pqoqubbw-icons.md) | ⭐ 7.6k | TypeScript | 79/100 |
-| 14 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |
+| 13 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |
+| 14 | [pqoqubbw/icons](./pqoqubbw-icons.md) | ⭐ 7.6k | TypeScript | 79/100 |
 | 15 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 2.8k | TypeScript | 78/100 |
 | 16 | [lowRISC/opentitan](./lowrisc-opentitan.md) | ⭐ 3.3k | SystemVerilog | 78/100 |
 | 17 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 72/100 |
@@ -44,24 +44,24 @@
 | 34 | [NX211/homer-icons](./nx211-homer-icons.md) | ⭐ 975 | Python | 50/100 |
 | 35 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 352 | Go | 49/100 |
 | 36 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 462 | JavaScript | 49/100 |
-| 37 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
-| 38 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 109 | Rust | 48/100 |
+| 37 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 109 | Rust | 48/100 |
+| 38 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
 | 39 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
 | 40 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 46/100 |
 | 41 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
 | 42 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 45/100 |
 | 43 | [KinkyMakers/OSSM-hardware](./kinkymakers-ossm-hardware.md) | ⭐ 490 | C++ | 45/100 |
-| 44 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 44/100 |
-| 45 | [nats-io/nats-architecture-and-design](./nats-io-nats-architecture-and-design.md) | ⭐ 398 | Go | 44/100 |
-| 46 | [goadesign/examples](./goadesign-examples.md) | ⭐ 205 | Go | 44/100 |
+| 44 | [nats-io/nats-architecture-and-design](./nats-io-nats-architecture-and-design.md) | ⭐ 398 | Go | 44/100 |
+| 45 | [goadesign/examples](./goadesign-examples.md) | ⭐ 205 | Go | 44/100 |
+| 46 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 44/100 |
 | 47 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
 | 48 | [oripa/oripa](./oripa-oripa.md) | ⭐ 309 | Java | 43/100 |
 | 49 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 142 | Rust | 43/100 |
-| 50 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 413 | TypeScript | 43/100 |
-| 51 | [graelo/pumas](./graelo-pumas.md) | ⭐ 214 | Rust | 42/100 |
-| 52 | [PaulBellette/chladni_inverse_design](./paulbellette-chladni-inverse-design.md) | ⭐ — | — | 39/100 |
-| 53 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 39/100 |
-| 54 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |
+| 50 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 414 | TypeScript | 43/100 |
+| 51 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
+| 52 | [graelo/pumas](./graelo-pumas.md) | ⭐ 214 | Rust | 42/100 |
+| 53 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |
+| 54 | [PaulBellette/chladni_inverse_design](./paulbellette-chladni-inverse-design.md) | ⭐ — | Python | 32/100 |
 
 ---
 

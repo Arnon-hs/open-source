@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The corrosion project is an open-source, gossip-based service discovery system designed for large-scale distributed systems. It enables efficient and robust service discovery, allowing nodes to locate and communicate with each other dynamically. This system is particularly useful in complex distributed environments where traditional centralized approaches may struggle to maintain scalability and fault tolerance.
+The corrosion project is an open-source, gossip-based service discovery system designed for large-scale distributed systems. It enables efficient and fault-tolerant service discovery, allowing nodes to dynamically find and communicate with each other in a distributed network. This system is suitable for applications requiring high availability and scalability.
 
 ---
 

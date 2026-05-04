@@ -1,6 +1,6 @@
 # g-brook/brook
 
-[![Stars](https://img.shields.io/github/stars/g-brook/brook?style=flat-square&color=yellow)](https://github.com/g-brook/brook/stargazers) [![Forks](https://img.shields.io/github/forks/g-brook/brook?style=flat-square&color=blue)](https://github.com/g-brook/brook/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/g-brook/brook?style=flat-square&color=yellow)](https://github.com/g-brook/brook/stargazers) [![Forks](https://img.shields.io/github/forks/g-brook/brook?style=flat-square&color=blue)](https://github.com/g-brook/brook/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Brook is a cross-platform network tunneling tool that helps securely transmit data between different networks. (Brook 是一个用于建立网络隧道的跨平台工具，帮助在不同网络之间安全地传输数据。)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 347 |
+| ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

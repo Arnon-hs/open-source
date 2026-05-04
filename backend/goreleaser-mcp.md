@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The GoReleaser MCP is an open-source project that aims to simplify the process of managing and configuring GoReleaser, a popular tool for building and releasing Go binaries. This project provides a centralized configuration management platform for GoReleaser, making it easier for developers to manage their binary releases. By leveraging the MCP, users can streamline their release workflows and improve overall efficiency.
+The GoReleaser MCP (MacPorts) is an open-source project that allows users to create and manage packages for the MacPorts package manager using the GoReleaser tool. This project provides a simple and efficient way to automate the process of creating, uploading, and deploying packages for MacPorts. It streamlines the packaging process, making it easier for developers to share their software with the MacPorts community.
 
 ---
 

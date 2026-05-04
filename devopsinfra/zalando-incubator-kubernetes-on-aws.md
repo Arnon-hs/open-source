@@ -1,6 +1,6 @@
 # zalando-incubator/kubernetes-on-aws
 
-[![Stars](https://img.shields.io/github/stars/zalando-incubator/kubernetes-on-aws?style=flat-square&color=yellow)](https://github.com/zalando-incubator/kubernetes-on-aws/stargazers) [![Forks](https://img.shields.io/github/forks/zalando-incubator/kubernetes-on-aws?style=flat-square&color=blue)](https://github.com/zalando-incubator/kubernetes-on-aws/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zalando-incubator/kubernetes-on-aws?style=flat-square&color=yellow)](https://github.com/zalando-incubator/kubernetes-on-aws/stargazers) [![Forks](https://img.shields.io/github/forks/zalando-incubator/kubernetes-on-aws?style=flat-square&color=blue)](https://github.com/zalando-incubator/kubernetes-on-aws/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Deploying Kubernetes on AWS with CloudFormation and Ubuntu
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 634 |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

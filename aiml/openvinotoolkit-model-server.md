@@ -1,6 +1,6 @@
 # openvinotoolkit/model_server
 
-[![Stars](https://img.shields.io/github/stars/openvinotoolkit/model_server?style=flat-square&color=yellow)](https://github.com/openvinotoolkit/model_server/stargazers) [![Forks](https://img.shields.io/github/forks/openvinotoolkit/model_server?style=flat-square&color=blue)](https://github.com/openvinotoolkit/model_server/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openvinotoolkit/model_server?style=flat-square&color=yellow)](https://github.com/openvinotoolkit/model_server/stargazers) [![Forks](https://img.shields.io/github/forks/openvinotoolkit/model_server?style=flat-square&color=blue)](https://github.com/openvinotoolkit/model_server/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A scalable inference server for models optimized with OpenVINO™
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 870 |
+| ⭐ **Stars** | 871 |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

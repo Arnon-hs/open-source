@@ -1,6 +1,6 @@
 # GGP1/kure
 
-[![Stars](https://img.shields.io/github/stars/GGP1/kure?style=flat-square&color=yellow)](https://github.com/GGP1/kure/stargazers) [![Forks](https://img.shields.io/github/forks/GGP1/kure?style=flat-square&color=blue)](https://github.com/GGP1/kure/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GGP1/kure?style=flat-square&color=yellow)](https://github.com/GGP1/kure/stargazers) [![Forks](https://img.shields.io/github/forks/GGP1/kure?style=flat-square&color=blue)](https://github.com/GGP1/kure/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > CLI password manager with sessions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

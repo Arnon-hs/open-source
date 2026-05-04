@@ -1,6 +1,6 @@
 # tarampampam/microcheck
 
-[![Stars](https://img.shields.io/github/stars/tarampampam/microcheck?style=flat-square&color=yellow)](https://github.com/tarampampam/microcheck/stargazers) [![Forks](https://img.shields.io/github/forks/tarampampam/microcheck?style=flat-square&color=blue)](https://github.com/tarampampam/microcheck/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tarampampam/microcheck?style=flat-square&color=yellow)](https://github.com/tarampampam/microcheck/stargazers) [![Forks](https://img.shields.io/github/forks/tarampampam/microcheck?style=flat-square&color=blue)](https://github.com/tarampampam/microcheck/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🧪 Lightweight health check utilities for Docker containers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | C |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

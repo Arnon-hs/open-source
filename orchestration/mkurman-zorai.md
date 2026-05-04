@@ -1,6 +1,6 @@
 # mkurman/zorai
 
-[![Stars](https://img.shields.io/github/stars/mkurman/zorai?style=flat-square&color=yellow)](https://github.com/mkurman/zorai/stargazers) [![Forks](https://img.shields.io/github/forks/mkurman/zorai?style=flat-square&color=blue)](https://github.com/mkurman/zorai/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mkurman/zorai?style=flat-square&color=yellow)](https://github.com/mkurman/zorai/stargazers) [![Forks](https://img.shields.io/github/forks/mkurman/zorai?style=flat-square&color=blue)](https://github.com/mkurman/zorai/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Zorai is a persistent, multi-agent, auditable, learning execution platform where the daemon owns work, memory, approvals, tools, and long-running goals.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 305 |
+| ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

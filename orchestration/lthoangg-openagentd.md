@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 62 |
+| ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 47/100 |
@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the open-source project:
 
-OpenAgentD is a self-hosted AI agent operating system that enables users to run a highly customizable AI environment on their local machine. This platform supports real-time chat, tool integration, persistent memory, and the ability to manage multiple AI agents, making it a powerful tool for developers and researchers. With OpenAgentD, users can build and deploy complex AI systems without relying on cloud services.
+OpenAgentD is a self-hosted AI agent operating system that enables users to run their own AI agents on their local machine, providing features like real-time chat, tool integration, and persistent memory. This open-source platform also supports multi-agent teams, allowing for seamless collaboration and coordination among AI agents. By running entirely on your machine, OpenAgentD offers a secure and private AI solution for personal or professional use.
 
 ---
 

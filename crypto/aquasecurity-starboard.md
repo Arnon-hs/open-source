@@ -1,6 +1,6 @@
 # aquasecurity/starboard
 
-[![Stars](https://img.shields.io/github/stars/aquasecurity/starboard?style=flat-square&color=yellow)](https://github.com/aquasecurity/starboard/stargazers) [![Forks](https://img.shields.io/github/forks/aquasecurity/starboard?style=flat-square&color=blue)](https://github.com/aquasecurity/starboard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aquasecurity/starboard?style=flat-square&color=yellow)](https://github.com/aquasecurity/starboard/stargazers) [![Forks](https://img.shields.io/github/forks/aquasecurity/starboard?style=flat-square&color=blue)](https://github.com/aquasecurity/starboard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Superseded by https://github.com/aquasecurity/trivy-operator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 198 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
