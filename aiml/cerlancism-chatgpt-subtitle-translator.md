@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The Cerlancism/chatgpt-subtitle-translator is an open-source project that leverages the power of large language models, specifically those compatible with the OpenAI ChatGPT API, to provide efficient subtitle translation capabilities. This tool enables seamless translation of subtitles, streamlining the process for content creators and linguists alike. By utilizing cutting-edge AI/ML technology, it offers a user-friendly solution for multilingual media production.
+Cerlancism/chatgpt-subtitle-translator is an open-source project that utilizes ChatGPT or other OpenAI compatible Large Language Model (LLM) chat completion APIs to provide efficient subtitle translation services. This tool enables users to accurately translate subtitles in various languages, streamlining the process of multilingual content creation. By leveraging the power of AI, the project aims to bridge language gaps and enhance global accessibility.
 
 ---
 

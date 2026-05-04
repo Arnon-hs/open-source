@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This open-source project, codenamev/ai-software-architect, offers a comprehensive AI-powered architecture documentation framework that enables users to create robust ADRs (Architecture Decision Records) and conduct reviews. The framework also includes a pragmatic mode for streamlined implementation. It can be easily installed as a Claude Code Plugin, providing a seamless user experience.
+The ai-software-architect project is an open-source framework for AI-powered architecture documentation. It enables the creation of Architecture Decision Records (ADRs), facilitates code reviews, and offers a pragmatic mode for streamlined development. Now easily installable as a Claude Code Plugin, this project streamlines software architecture documentation with AI-driven efficiency.
 
 ---
 

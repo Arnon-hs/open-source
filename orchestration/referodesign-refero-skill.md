@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Refero Skill is an open-source project that aims to equip AI agents with research-first design skills, enabling them to understand and replicate real-world app screens and flows. With access to a vast library of over 150,000 real app screens and flows via Refero MCP, this project facilitates the development of more sophisticated and user-centric AI capabilities. By leveraging this dataset, Refero Skill has the potential to revolutionize the design of AI-driven interfaces and applications.
+The Refero_Skill project provides a research-first design skill for AI agents, leveraging a vast library of over 150,000 real app screens and flows via the Refero MCP (Model Composition Platform). This open-source tool enables the development of more effective and user-centric AI systems by incorporating human-centered design principles and real-world user experience data. By integrating this skill into AI agents, developers can create more intuitive and user-friendly interfaces.
 
 ---
 

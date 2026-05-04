@@ -25,7 +25,7 @@ Backend · Security
 
 ## 📝 Summary
 
-The kevinburke/nacl project is an open-source, pure Go implementation of the NaCL (Networking and Cryptography Library) API set. This library provides a secure and efficient way to perform cryptographic functions, including encryption, decryption, and hashing, in Go applications. With kevinburke/nacl, developers can easily integrate robust security features into their projects.
+This project, "nacl" by Kevin Burke, is an open-source, pure Go implementation of the NaCl (Networking and Cryptography library) set of APIs. It provides a secure and efficient way to perform common cryptographic tasks, such as data encryption, decryption, and hashing, using the NaCl library's proven and widely-used algorithms. This project allows developers to easily integrate secure cryptographic functionality into their Go applications.
 
 ---
 

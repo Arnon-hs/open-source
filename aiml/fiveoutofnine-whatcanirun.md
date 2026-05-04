@@ -25,7 +25,7 @@ AI/ML · Design
 
 ## 📝 Summary
 
-The "whatcanirun" project is an open-source initiative that aims to help users discover and run various AI/ML models on their local machines. This platform provides a comprehensive directory of models, along with step-by-step instructions on how to deploy them, making it easier for developers and researchers to get started with AI projects. By simplifying the model deployment process, "whatcanirun" promotes the adoption of AI technologies and fosters innovation in the field.
+The "whatcanirun" project is an open-source initiative that helps users discover and run the best AI and ML models locally on their systems. It aims to provide a comprehensive resource for finding and installing popular models, making it easier for developers and researchers to experiment with different models and techniques. This project supports the growth of the AI community by promoting local model development and exploration.
 
 ---
 

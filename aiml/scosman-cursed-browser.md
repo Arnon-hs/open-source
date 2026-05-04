@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Cursed Browser is an innovative open-source project that leverages visual Large Language Models (LLMs) to power a web rendering engine, showcasing the potential of AI in web development. This pioneering effort aims to redefine the boundaries of web rendering, enabling faster, more efficient, and potentially more secure browsing experiences. By harnessing the power of visual-LLMs, Cursed Browser seeks to revolutionize the way we interact with the web.
+Cursed Browser is an open-source project that leverages visual Large Language Models (LLMs) to create a web rendering engine. This innovative approach aims to revolutionize the way web content is displayed, potentially offering improved rendering performance, security, and flexibility. By harnessing the power of AI/ML, Cursed Browser seeks to redefine the future of web browsing.
 
 ---
 

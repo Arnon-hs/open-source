@@ -25,9 +25,9 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the zane-ops project:
+Here's a 2-3 sentence summary for the zane-ops project:
 
-zane-ops is an open-source, self-hosted Platform-as-a-Service (PaaS) that enables users to deploy, manage, and scale web applications, databases, and static websites efficiently. This fast and beautiful platform provides a flexible solution for businesses and developers looking to host their applications in-house, with control over performance, security, and customization. By leveraging zane-ops, users can streamline their application management processes and focus on innovation and growth.
+Zane-ops is an open-source, self-hosted platform-as-a-service (PaaS) designed to provide a seamless and efficient way to deploy, manage, and scale various applications, including web apps, databases, and static websites. With its focus on speed and beauty, zane-ops empowers users to host their projects in a centralized and customizable environment. This powerful tool is suitable for developers and organizations seeking flexibility and control over their infrastructure.
 
 ---
 

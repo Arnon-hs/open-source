@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-A developer has successfully reverse-engineered a thermal pocket printer, allowing users to print without reliance on the associated app. This open-source project enables users to directly interface with the printer, providing increased flexibility and autonomy. The reverse-engineered solution can be accessed on GitHub.
+A developer has successfully reverse-engineered a thermal pocket printer to enable printing without the manufacturer's proprietary app. This open-source project aims to provide users with more flexibility and control over their printer, allowing them to print without relying on the app. The project's availability on GitHub makes it accessible to anyone looking to utilize the printer without the manufacturer's software.
 
 ---
 

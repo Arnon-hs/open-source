@@ -25,9 +25,9 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the "Polymarket Whale Watcher" project:
 
-Polymarket Whale Watcher is an AI-powered surveillance tool for monitoring trades on Polymarket, providing real-time insights into over 700 markets. This open-source project offers a 7-step deep analysis, 14 autonomous research tools, and an information asymmetry scoring system to help users make informed trading decisions. By leveraging AI and machine learning, Whale Watcher aims to level the playing field for users by identifying opportunities and potential risks in the market.
+The Polymarket Whale Watcher is an open-source, AI-powered surveillance tool that monitors over 700 markets on Polymarket in real-time. It leverages 14 autonomous research tools and a 7-step deep analysis process to score information asymmetry, empowering traders to make more informed decisions. This project democratizes access to advanced trading insights, bridging the gap between professional traders and individual investors.
 
 ---
 

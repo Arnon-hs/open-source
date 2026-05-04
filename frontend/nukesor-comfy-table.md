@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-Comfy-table is an open-source project that enables users to create visually appealing terminal tables with ease. It automatically wraps content to ensure a neat and organized layout, making it a valuable tool for developers and users who need to display data in a clear and concise manner. This project simplifies the process of building terminal tables, saving time and effort for those who use it.
+Here's a brief summary for the Nukesor/comfy-table project:
+
+Nukesor/comfy-table is an open-source library that enables the creation of visually appealing terminal tables with automatic content wrapping. This frontend library simplifies the process of building tables with a clean and organized layout, making it ideal for developers who need to display complex data in a user-friendly manner. With comfy-table, you can focus on building your application without worrying about the intricacies of table formatting.
 
 ---
 

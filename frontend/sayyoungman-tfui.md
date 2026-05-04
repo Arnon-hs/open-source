@@ -25,9 +25,7 @@ Frontend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-"tfui is an interactive Terminal User Interface (TUI) for performing Terraform workflows. It provides a user-friendly command-line experience, allowing users to easily manage and execute Terraform configurations. This project streamlines Terraform operations, making it easier for developers and DevOps teams to manage infrastructure and resources."
+The tfui project is an open-source, interactive Terminal User Interface (TUI) designed for Terraform workflows. It enables users to perform Terraform operations, such as deployment and management, in a user-friendly and intuitive command-line environment. This tool streamlines Terraform workflows, making it easier for developers to manage and configure infrastructure resources.
 
 ---
 

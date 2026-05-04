@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Postgresparser is an open-source, Go-based PostgreSQL query parser utilizing ANTLR technology. This project enables developers to parse, analyze, and manipulate PostgreSQL queries, providing valuable insights and flexibility for a wide range of applications. By leveraging ANTLR, Postgresparser offers a robust and efficient parsing solution for PostgreSQL queries.
+Postgresparser is an open-source project that utilizes ANTLR to parse PostgreSQL queries in Go. This parser allows for a deeper understanding and manipulation of SQL queries, enabling developers to write more efficient and effective database tools. By utilizing ANTLR, Postgresparser provides a robust and flexible solution for parsing PostgreSQL queries.
 
 ---
 

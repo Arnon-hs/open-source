@@ -25,9 +25,9 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the project:
+Here's a 2-3 sentence summary for the kadykov/mcp-openapi-schema-explorer project:
 
-The MCP OpenAPI Schema Explorer is an open-source project that provides a token-efficient way for clients to access and explore OpenAPI/Swagger specifications. This MCP server uses resource templates to make OpenAPI specs accessible to clients, streamlining the development process. It's a valuable tool for backend developers and development teams looking to simplify API exploration and documentation.
+The kadykov/mcp-openapi-schema-explorer project is an open-source MCP server that enables efficient access to OpenAPI/Swagger specifications through MCP Resource Templates. This allows for seamless client-side exploration of API documentation, streamlining development and testing processes. By providing token-efficient access, it simplifies API discovery and usage.
 
 ---
 
