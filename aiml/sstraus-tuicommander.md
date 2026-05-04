@@ -25,7 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The Tuicommander is an open-source project that enables the parallel execution of multiple AI coding agents from a desktop terminal interface. Built using a stack of Tauri, SolidJS, and Rust, it provides a streamlined environment for developers to manage and run large-scale AI coding tasks efficiently. This tool is particularly useful for machine learning professionals and developers seeking to automate and optimize their coding workflows.
+Here's a brief summary for the sstraus/tuicommander project:
+
+"TuiCommander is an open-source desktop terminal orchestrator designed to efficiently run multiple AI coding agents in parallel, leveraging the performance of Tauri, SolidJS, and Rust. This project enables developers to streamline their coding workflow by automating the execution of AI-powered coding tools, making it ideal for AI/ML enthusiasts and developers. With TuiCommander, users can harness the power of parallel processing to accelerate their coding tasks and unlock new levels of productivity."
 
 ---
 

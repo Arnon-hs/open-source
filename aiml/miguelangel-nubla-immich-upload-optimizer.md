@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The immich-upload-optimizer project is an open-source tool that utilizes AI/ML capabilities to automatically optimize files uploaded to Immich, a digital preservation platform. By leveraging machine learning algorithms, this tool helps reduce storage space requirements while maintaining the original file's quality and integrity. This optimization solution enables users to store more content within the same storage capacity, making it an ideal solution for large-scale digital asset management.
+The immich-upload-optimizer project utilizes AI/ML to automatically optimize files uploaded to Immich, reducing storage space requirements without compromising on image quality. This open-source tool leverages machine learning algorithms to compress images efficiently, ensuring a seamless user experience. By optimizing uploaded files, users can maximize their storage capacity while still having access to high-quality content.
 
 ---
 

@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The ONLYOFFICE/docspace-mcp project is an open-source server component that enables collaboration and document management within a DocSpace environment. By utilizing this MCP (Management and Content Platform) server, users can access and manage their documents seamlessly across various applications and platforms. This backend-focused solution provides a robust foundation for efficient document sharing and collaboration.
+ONLYOFFICE/docspace-mcp is an open-source, backend-focused project that enables the creation and management of a centralized document space. It provides a server for storing, organizing, and sharing files and documents, catering to the needs of collaborative work environments. This platform fosters seamless document management and facilitates teamwork by centralizing access to shared resources.
 
 ---
 

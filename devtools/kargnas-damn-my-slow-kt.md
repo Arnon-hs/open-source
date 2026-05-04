@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-This open-source project, "damn-my-slow-kt," is a tool designed to simplify the process of claiming free internet service from KT for a month. By installing the tool, users can automate the process of obtaining a free internet service without having to manually write down the necessary documents. This tool caters to developers and is categorized under DevTools.
+The "damn-my-slow-kt" project is an open-source DevTool that enables users to utilize their KT internet plan for free for a month with a single command installation, eliminating the need to manually submit requests. This tool simplifies the process of accessing free internet, saving users time and effort. By automating the process, it aims to make internet access more efficient and convenient for users.
 
 ---
 

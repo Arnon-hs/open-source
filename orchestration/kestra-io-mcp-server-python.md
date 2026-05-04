@@ -25,7 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The kestra-io/mcp-server-python project is an open-source Python implementation of a MCP (Message Channel Protocol) Server for Kestra, enabling seamless integration with AI Agents and facilitating data exchange in a secure and efficient manner. This backend tool allows developers to leverage the power of Kestra's AI capabilities by providing a standardized messaging protocol. By utilizing this MCP Server, users can simplify data communication and enhance overall system scalability.
+The kestra-io/mcp-server-python project is an open-source Python implementation of the MCP (Machine Control Protocol) server, designed for use with Kestra's AI Agents as a tool for orchestration. This server enables seamless communication between Kestra's AI Agents and external systems, facilitating efficient workflow automation and control. It is a key component in the Kestra ecosystem, supporting AI-driven processes and machine learning applications.
 
 ---
 

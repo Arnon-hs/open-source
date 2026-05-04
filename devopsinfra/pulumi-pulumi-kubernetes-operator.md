@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Pulumi Kubernetes Operator is an open-source project that automates the deployment of Pulumi Stacks within Kubernetes environments. This operator streamlines the process of managing and scaling Pulumi applications, providing a more efficient and scalable way to deploy infrastructure as code. By integrating Pulumi with Kubernetes, developers can leverage the best of both worlds, combining the power of infrastructure automation with the reliability of a containerized environment.
+The Pulumi Kubernetes Operator is an open-source project that simplifies the deployment and management of Pulumi Stacks within a Kubernetes environment. This operator automates the process of deploying and scaling Pulumi Stacks, allowing developers to focus on writing code rather than managing infrastructure. By leveraging Kubernetes' proven infrastructure management capabilities, the operator provides a robust and scalable solution for deploying and managing cloud-native applications.
 
 ---
 

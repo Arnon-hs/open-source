@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**53 projects** in this category.
+**54 projects** in this category.
 
 ## Projects
 
@@ -59,8 +59,9 @@
 | 49 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 142 | Rust | 43/100 |
 | 50 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 413 | TypeScript | 43/100 |
 | 51 | [graelo/pumas](./graelo-pumas.md) | ⭐ 214 | Rust | 42/100 |
-| 52 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 39/100 |
-| 53 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |
+| 52 | [PaulBellette/chladni_inverse_design](./paulbellette-chladni-inverse-design.md) | ⭐ — | — | 39/100 |
+| 53 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 39/100 |
+| 54 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |
 
 ---
 

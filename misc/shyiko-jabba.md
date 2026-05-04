@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Jabba is an open-source, cross-platform Java Version Manager that simplifies the process of managing multiple Java versions on various operating systems. This project allows developers to easily switch between different Java versions, making it an ideal tool for teams and individuals working with projects that require specific versions of Java. By streamlining Java version management, Jabba enhances productivity and reduces the complexity associated with managing multiple Java installations.
+The shyiko/jabba project, an open-source Java Version Manager, enables users to seamlessly manage multiple Java versions across their system. This cross-platform tool simplifies the process of installing, updating, and switching between various Java versions, making it an ideal solution for developers working on projects with different Java requirements. By leveraging jabba, users can streamline their development workflow and improve productivity.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the pycontribs/jira project:
+Here's a brief summary for the pycontribs/jira project:
 
-The pycontribs/jira library is an open-source Python API for interacting with Atlassian Jira, enabling seamless integration with Jira projects and workflows. This library provides a robust and flexible interface for automating Jira tasks, making it a valuable tool for developers and data scientists working in AI/ML. By connecting Jira with Python applications, users can streamline project management and enhance collaboration.
+The pycontribs/jira project is an open-source Python library that provides a convenient interface for interacting with Jira, a popular project management and issue tracking tool. This library enables developers to automate tasks, retrieve data, and integrate Jira with other applications using Python. With its open-source nature and community-driven development, pycontribs/jira offers a flexible and customizable solution for working with Jira.
 
 ---
 

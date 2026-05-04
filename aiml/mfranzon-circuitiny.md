@@ -1,17 +1,17 @@
 # mfranzon/circuitiny
 
-[![Stars](https://img.shields.io/github/stars/mfranzon/circuitiny?style=flat-square&color=yellow)](https://github.com/mfranzon/circuitiny/stargazers) [![Forks](https://img.shields.io/github/forks/mfranzon/circuitiny?style=flat-square&color=blue)](https://github.com/mfranzon/circuitiny/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mfranzon/circuitiny?style=flat-square&color=yellow)](https://github.com/mfranzon/circuitiny/stargazers) [![Forks](https://img.shields.io/github/forks/mfranzon/circuitiny?style=flat-square&color=blue)](https://github.com/mfranzon/circuitiny/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Local-first, AI-assisted circuit design tool. Wire components in a 3D view, describe what you want to build, and the AI agent writes the firmware and  simulates it all before you touch a chip.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 13 |
+| 🍴 **Forks** | 3 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -25,7 +25,7 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Circuitiny is an open-source project that combines artificial intelligence (AI) with circuit design, aiming to make the process more accessible and efficient for hobbyists. This AI-assisted tool streamlines the circuit design experience, allowing users to focus on creativity while the technology handles complex calculations and optimizations. Circuitiny seeks to bridge the gap between technology enthusiasts and professional-grade circuit design tools.
+Circuitiny is an open-source, AI-assisted circuit design tool specifically designed for hobbyists. This innovative project utilizes artificial intelligence to streamline the circuit design process, making it easier for users to create and simulate electronic circuits. By leveraging AI technology, Circuitiny aims to empower hobbyists and electronics enthusiasts to bring their ideas to life with greater ease and efficiency.
 
 ---
 

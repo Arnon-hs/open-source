@@ -25,7 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Datnguye/dbterd is an open-source tool that leverages dbt artifacts to generate Entity Relationship Diagrams (ERDs) as code. This innovative project streamlines the process of visualizing database schema and facilitates improved collaboration among developers and data engineers. By automating ERD generation from dbt artifacts, dbterd enhances database design and development efficiency.
+Here's a 2-3 sentence summary for the open-source project "datnguye/dbterd":
+
+dbterd is an open-source project that generates Entity-Relationship Diagrams (ERDs) from dbt artifacts, providing a visual representation of database structures. This tool streamlines the process of understanding and communicating complex database relationships, facilitating collaboration and data modeling among teams. By leveraging dbt artifacts, dbterd automates the ERD generation process, saving developers time and effort.
 
 ---
 

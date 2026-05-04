@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-DefGuard's wireguard-rs is an open-source Rust library that offers a unified interface to both native/kernel and userspace implementations of WireGuard, a popular VPN protocol. This library aims to simplify the development of WireGuard applications by providing a single API for both kernel and userspace interfaces. By doing so, developers can focus on their application logic without worrying about the underlying implementation details.
+DefGuard's wireguard-rs is an open-source Rust library offering a unified interface to both kernel/native and userspace WireGuard implementations. This library simplifies the process of integrating WireGuard into applications by providing a single, consistent API. It allows developers to focus on their project's core functionality without worrying about the intricacies of different WireGuard implementations.
 
 ---
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The Cesium AI Integrations project is an open-source collection of reference integrations and experiments that bridge the Cesium ecosystem with AI systems. This project facilitates seamless interaction between Cesium's geospatial capabilities and various AI tools, including Model Context Protocol (MCP) tools, retrieval pipelines, and agent skills. By integrating AI with Cesium, users can leverage the strengths of both technologies to create innovative applications.
+The Cesium AI Integrations project is an open-source collection of reference integrations and experiments that connect the Cesium ecosystem with AI systems. This project provides tools and skills for integrating AI capabilities, including Model Context Protocol (MCP) tools and retrieval pipelines, to enhance geospatial applications. By leveraging AI and machine learning, Cesium AI Integrations aims to facilitate more sophisticated and autonomous geospatial experiences.
 
 ---
 

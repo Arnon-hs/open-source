@@ -25,9 +25,9 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a 2-3 sentence summary for the open-source project:
 
-The open-mercato project is an open-source AI-Engineering Foundation Framework that leverages AI and machine learning to facilitate the development of production-grade applications. By providing pre-defined architectural and domain decisions, developers can avoid reinventing the wheel and focus on building custom AI agents, such as Cursor, Claude Code, and Codex, to accelerate their projects. This framework enables rapid development of scalable and secure applications with built-in multi-tenancy, RBAC, and event-driven architecture.
+Open-Mercato is an open-source AI-Engineering Foundation Framework, designed to accelerate the development of AI-driven applications by providing pre-made architectural decisions and conventions. Built with AI and tailored for AI, this framework simplifies the development process by offering hundreds of domain decisions and specs, allowing developers to focus on shipping production-grade applications with AI agents. With its comprehensive set of features, Open-Mercato empowers developers to build scalable, secure, and efficient AI-powered solutions.
 
 ---
 

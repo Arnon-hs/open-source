@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The pdatastructs project is an open-source collection of simple probabilistic data structures, designed to provide efficient and accurate representations of large datasets. These data structures offer a balance between memory usage and query performance, making them suitable for various applications requiring fast lookup and estimation capabilities. With this library, developers can easily implement data structures such as Bloom filters, hyperloglogs, and minwise hashing.
+The pdatastructs.rs project is an open-source collection of simple probabilistic data structures, designed to provide efficient and space-saving solutions for various data analysis and storage needs. It offers a range of data structures, including bloom filters, min-heap, and hash table implementations, all with a focus on probabilistic accuracy. This project is ideal for developers seeking lightweight data handling solutions in their applications.
 
 ---
 
