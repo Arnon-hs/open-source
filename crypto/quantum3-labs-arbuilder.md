@@ -1,6 +1,6 @@
 # Quantum3-Labs/ARBuilder
 
-[![Stars](https://img.shields.io/github/stars/Quantum3-Labs/ARBuilder?style=flat-square&color=yellow)](https://github.com/Quantum3-Labs/ARBuilder/stargazers) [![Forks](https://img.shields.io/github/forks/Quantum3-Labs/ARBuilder?style=flat-square&color=blue)](https://github.com/Quantum3-Labs/ARBuilder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Quantum3-Labs/ARBuilder?style=flat-square&color=yellow)](https://github.com/Quantum3-Labs/ARBuilder/stargazers) [![Forks](https://img.shields.io/github/forks/Quantum3-Labs/ARBuilder?style=flat-square&color=blue)](https://github.com/Quantum3-Labs/ARBuilder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered code generator for Arbitrum Stylus, SDK bridging, dApps & Orbit chains — 19 MCP tools with RAG
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

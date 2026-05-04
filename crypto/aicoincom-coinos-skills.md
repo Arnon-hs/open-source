@@ -1,6 +1,6 @@
 # aicoincom/coinos-skills
 
-[![Stars](https://img.shields.io/github/stars/aicoincom/coinos-skills?style=flat-square&color=yellow)](https://github.com/aicoincom/coinos-skills/stargazers) [![Forks](https://img.shields.io/github/forks/aicoincom/coinos-skills?style=flat-square&color=blue)](https://github.com/aicoincom/coinos-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aicoincom/coinos-skills?style=flat-square&color=yellow)](https://github.com/aicoincom/coinos-skills/stargazers) [![Forks](https://img.shields.io/github/forks/aicoincom/coinos-skills?style=flat-square&color=blue)](https://github.com/aicoincom/coinos-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > AiCoin crypto toolkit for AI agents — 40+ tools for real-time prices, K-lines, AI analysis, funding rates, whale tracking, Hyperliquid on-chain analytics, exchange trading (CCXT),   and Freqtrade bot automation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

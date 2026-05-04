@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the project:
+Here's a 2-3 sentence summary for the open-source project:
 
-Oh-My-Kimi is an open-source, production-ready multi-agent orchestration framework designed for use with the Kimi Code CLI (K2.6). It provides a robust set of features, including worktree team runtime, DAG/ensemble planning, MCP skill-hooks, quality gates, and local graph memory to streamline AI/ML workflows. This project enables efficient management and automation of complex tasks, making it an essential tool for developers and data scientists.
+"oh-my-kimi" is an open-source, production-ready multi-agent orchestration framework designed for the Kimi Code CLI (K2.6). It provides a comprehensive set of features, including worktree team runtime, DAG/ensemble planning, MCP skill-hooks, quality gates, and local graph memory, to support efficient and reliable AI/ML workflows. This project is ideal for developers and researchers working with the Kimi Code CLI.
 
 ---
 

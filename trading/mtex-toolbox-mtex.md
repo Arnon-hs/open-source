@@ -1,6 +1,6 @@
 # mtex-toolbox/mtex
 
-[![Stars](https://img.shields.io/github/stars/mtex-toolbox/mtex?style=flat-square&color=yellow)](https://github.com/mtex-toolbox/mtex/stargazers) [![Forks](https://img.shields.io/github/forks/mtex-toolbox/mtex?style=flat-square&color=blue)](https://github.com/mtex-toolbox/mtex/network) [![Language](https://img.shields.io/badge/lang-MATLAB-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mtex-toolbox/mtex?style=flat-square&color=yellow)](https://github.com/mtex-toolbox/mtex/stargazers) [![Forks](https://img.shields.io/github/forks/mtex-toolbox/mtex?style=flat-square&color=blue)](https://github.com/mtex-toolbox/mtex/network) [![Language](https://img.shields.io/badge/lang-MATLAB-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > MTEX is a free Matlab toolbox for quantitative texture analysis. Homepage:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 360 |
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | MATLAB |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a summary of the honeycombio/refinery project:
-
-The honeycombio/refinery project is an open-source, trace-aware tail-based sampling proxy that leverages AI/ML technology to make informed sampling decisions for each trace. By analyzing whole traces, it can intelligently determine whether to keep or discard them, providing valuable insights while reducing unnecessary data. This approach enables efficient and accurate data collection, making it a useful tool for various applications.
+Refinery is an open-source, AI-powered proxy solution that enables efficient and intelligent sampling of network traffic. By analyzing entire network traces, Refinery makes informed decisions about which data to retain and which to discard, providing a more accurate representation of network activity. This trace-aware approach enables better data-driven insights and decision-making for network administrators and developers.
 
 ---
 

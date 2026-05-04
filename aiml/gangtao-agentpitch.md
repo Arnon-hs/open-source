@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This project, a soccer game simulator, utilizes AI agents to simulate gameplay, providing a dynamic and realistic experience. The simulator leverages AI/ML technologies to enable autonomous decision-making and strategy implementation by the AI agents, making the game more engaging and interactive. By open-sourcing this project, developers and enthusiasts can collaborate, modify, and expand the simulator's capabilities.
+This open-source project utilizes artificial intelligence (AI) to simulate a soccer game, where an AI agent competes against itself or other opponents. The simulator allows for the exploration of various soccer strategies and tactics in a virtual environment, providing insights into the complex interactions between players and teams. By leveraging machine learning algorithms, this project aims to create a realistic and engaging soccer simulation experience.
 
 ---
 

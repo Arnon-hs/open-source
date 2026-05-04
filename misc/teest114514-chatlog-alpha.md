@@ -1,6 +1,6 @@
 # teest114514/chatlog_alpha
 
-[![Stars](https://img.shields.io/github/stars/teest114514/chatlog_alpha?style=flat-square&color=yellow)](https://github.com/teest114514/chatlog_alpha/stargazers) [![Forks](https://img.shields.io/github/forks/teest114514/chatlog_alpha?style=flat-square&color=blue)](https://github.com/teest114514/chatlog_alpha/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teest114514/chatlog_alpha?style=flat-square&color=yellow)](https://github.com/teest114514/chatlog_alpha/stargazers) [![Forks](https://img.shields.io/github/forks/teest114514/chatlog_alpha?style=flat-square&color=blue)](https://github.com/teest114514/chatlog_alpha/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 原 [chatlog]项目（一个微信数据库解密读取及提供mcp服务、http服务的开源软件），现已支持通过微信clawbot接口推送消息，可以实时转发全部或指定消息到clawbot
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 845 |
+| ⭐ **Stars** | 847 |
 | 🍴 **Forks** | 505 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # metacraft-labs/codetracer
 
-[![Stars](https://img.shields.io/github/stars/metacraft-labs/codetracer?style=flat-square&color=yellow)](https://github.com/metacraft-labs/codetracer/stargazers) [![Forks](https://img.shields.io/github/forks/metacraft-labs/codetracer?style=flat-square&color=blue)](https://github.com/metacraft-labs/codetracer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/metacraft-labs/codetracer?style=flat-square&color=yellow)](https://github.com/metacraft-labs/codetracer/stargazers) [![Forks](https://img.shields.io/github/forks/metacraft-labs/codetracer?style=flat-square&color=blue)](https://github.com/metacraft-labs/codetracer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

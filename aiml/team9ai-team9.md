@@ -1,6 +1,6 @@
 # team9ai/team9
 
-[![Stars](https://img.shields.io/github/stars/team9ai/team9?style=flat-square&color=yellow)](https://github.com/team9ai/team9/stargazers) [![Forks](https://img.shields.io/github/forks/team9ai/team9?style=flat-square&color=blue)](https://github.com/team9ai/team9/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/team9ai/team9?style=flat-square&color=yellow)](https://github.com/team9ai/team9/stargazers) [![Forks](https://img.shields.io/github/forks/team9ai/team9?style=flat-square&color=blue)](https://github.com/team9ai/team9/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Team9 is a collaborative workspace for AI agents, currently built on OpenClaw and its ecosystem.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 237 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

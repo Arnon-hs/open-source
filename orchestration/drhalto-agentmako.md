@@ -1,6 +1,6 @@
 # drhalto/agentmako
 
-[![Stars](https://img.shields.io/github/stars/drhalto/agentmako?style=flat-square&color=yellow)](https://github.com/drhalto/agentmako/stargazers) [![Forks](https://img.shields.io/github/forks/drhalto/agentmako?style=flat-square&color=blue)](https://github.com/drhalto/agentmako/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/drhalto/agentmako?style=flat-square&color=yellow)](https://github.com/drhalto/agentmako/stargazers) [![Forks](https://img.shields.io/github/forks/drhalto/agentmako?style=flat-square&color=blue)](https://github.com/drhalto/agentmako/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first MCP server that gives coding agents structured context packets, code/schema facts, and diagnostics - backed by a local SQLite store.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 35 |
+| ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

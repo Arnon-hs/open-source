@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The developer-kit project is an open-source, modular plugin marketplace designed for Claude Code and agentic CLIs. It offers validated, specification-driven skills, agents, commands, and workflows for various programming languages and technologies, including Java, TypeScript, Python, PHP, AWS, and AI. This comprehensive kit simplifies development and automation tasks by providing a centralized repository of reusable components.
+The giuseppe-trisciuoglio/developer-kit project provides a modular plugin marketplace for Claude Code and agentic CLIs. This open-source platform offers validated, specification-driven skills, agents, commands, and workflows for various programming languages and technologies, including Java, TypeScript, Python, PHP, AWS, and AI. It aims to simplify development and orchestration by offering a comprehensive set of tools for building and managing complex applications.
 
 ---
 

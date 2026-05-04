@@ -1,6 +1,6 @@
 # PhiTux/DailyTxT
 
-[![Stars](https://img.shields.io/github/stars/PhiTux/DailyTxT?style=flat-square&color=yellow)](https://github.com/PhiTux/DailyTxT/stargazers) [![Forks](https://img.shields.io/github/forks/PhiTux/DailyTxT?style=flat-square&color=blue)](https://github.com/PhiTux/DailyTxT/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PhiTux/DailyTxT?style=flat-square&color=yellow)](https://github.com/PhiTux/DailyTxT/stargazers) [![Forks](https://img.shields.io/github/forks/PhiTux/DailyTxT?style=flat-square&color=blue)](https://github.com/PhiTux/DailyTxT/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Encrypted Diary Web-App
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 472 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # featurevisor/featurevisor
 
-[![Stars](https://img.shields.io/github/stars/featurevisor/featurevisor?style=flat-square&color=yellow)](https://github.com/featurevisor/featurevisor/stargazers) [![Forks](https://img.shields.io/github/forks/featurevisor/featurevisor?style=flat-square&color=blue)](https://github.com/featurevisor/featurevisor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/featurevisor/featurevisor?style=flat-square&color=yellow)](https://github.com/featurevisor/featurevisor/stargazers) [![Forks](https://img.shields.io/github/forks/featurevisor/featurevisor?style=flat-square&color=blue)](https://github.com/featurevisor/featurevisor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Feature flags, experiments, and remote config management with version control
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 799 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

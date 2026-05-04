@@ -1,6 +1,6 @@
 # ThHanke/ontosphere
 
-[![Stars](https://img.shields.io/github/stars/ThHanke/ontosphere?style=flat-square&color=yellow)](https://github.com/ThHanke/ontosphere/stargazers) [![Forks](https://img.shields.io/github/forks/ThHanke/ontosphere?style=flat-square&color=blue)](https://github.com/ThHanke/ontosphere/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThHanke/ontosphere?style=flat-square&color=yellow)](https://github.com/ThHanke/ontosphere/stargazers) [![Forks](https://img.shields.io/github/forks/ThHanke/ontosphere?style=flat-square&color=blue)](https://github.com/ThHanke/ontosphere/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Browser-based RDF/ontology knowledge graph editor — load RDF from files, URLs or SPARQL endpoints; author nodes and edges on the canvas; run OWL-RL reasoning; apply multi-algorithm layout and clustering. AI-native via MCP tool surface and relay bridge. Fully client-side, no backend required.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 52 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 53 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

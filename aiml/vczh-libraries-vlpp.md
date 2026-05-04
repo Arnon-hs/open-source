@@ -1,6 +1,6 @@
 # vczh-libraries/Vlpp
 
-[![Stars](https://img.shields.io/github/stars/vczh-libraries/Vlpp?style=flat-square&color=yellow)](https://github.com/vczh-libraries/Vlpp/stargazers) [![Forks](https://img.shields.io/github/forks/vczh-libraries/Vlpp?style=flat-square&color=blue)](https://github.com/vczh-libraries/Vlpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vczh-libraries/Vlpp?style=flat-square&color=yellow)](https://github.com/vczh-libraries/Vlpp/stargazers) [![Forks](https://img.shields.io/github/forks/vczh-libraries/Vlpp?style=flat-square&color=blue)](https://github.com/vczh-libraries/Vlpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Common C++ construction, including string operation / generic container / linq / etc
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 369 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

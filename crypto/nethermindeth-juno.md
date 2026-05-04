@@ -1,6 +1,6 @@
 # NethermindEth/juno
 
-[![Stars](https://img.shields.io/github/stars/NethermindEth/juno?style=flat-square&color=yellow)](https://github.com/NethermindEth/juno/stargazers) [![Forks](https://img.shields.io/github/forks/NethermindEth/juno?style=flat-square&color=blue)](https://github.com/NethermindEth/juno/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NethermindEth/juno?style=flat-square&color=yellow)](https://github.com/NethermindEth/juno/stargazers) [![Forks](https://img.shields.io/github/forks/NethermindEth/juno?style=flat-square&color=blue)](https://github.com/NethermindEth/juno/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Reliable and high performance Starknet full node implementation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 448 |
 | 🍴 **Forks** | 231 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

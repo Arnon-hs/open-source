@@ -1,6 +1,6 @@
 # console-rs/indicatif
 
-[![Stars](https://img.shields.io/github/stars/console-rs/indicatif?style=flat-square&color=yellow)](https://github.com/console-rs/indicatif/stargazers) [![Forks](https://img.shields.io/github/forks/console-rs/indicatif?style=flat-square&color=blue)](https://github.com/console-rs/indicatif/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/console-rs/indicatif?style=flat-square&color=yellow)](https://github.com/console-rs/indicatif/stargazers) [![Forks](https://img.shields.io/github/forks/console-rs/indicatif?style=flat-square&color=blue)](https://github.com/console-rs/indicatif/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A command line progress reporting library for Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 278 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

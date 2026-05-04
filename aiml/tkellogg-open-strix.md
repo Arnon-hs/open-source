@@ -1,6 +1,6 @@
 # tkellogg/open-strix
 
-[![Stars](https://img.shields.io/github/stars/tkellogg/open-strix?style=flat-square&color=yellow)](https://github.com/tkellogg/open-strix/stargazers) [![Forks](https://img.shields.io/github/forks/tkellogg/open-strix?style=flat-square&color=blue)](https://github.com/tkellogg/open-strix/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tkellogg/open-strix?style=flat-square&color=yellow)](https://github.com/tkellogg/open-strix/stargazers) [![Forks](https://img.shields.io/github/forks/tkellogg/open-strix?style=flat-square&color=blue)](https://github.com/tkellogg/open-strix/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Why can't an AI agent harness ship systems thinking as a skill?
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 64 |
+| ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

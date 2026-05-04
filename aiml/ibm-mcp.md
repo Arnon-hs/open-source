@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The IBM/mcp project is an open-source collection of tools that enables the development and implementation of Model Context Protocol (MCP) servers, clients, and developer tools. This protocol facilitates the integration of artificial intelligence (AI) and machine learning (ML) models into applications and systems. By leveraging MCP, developers can create more efficient and scalable AI-powered solutions.
+The IBM/mcp open-source project provides a comprehensive collection of tools and libraries for implementing the Model Context Protocol (MCP), enabling developers to efficiently manage and deploy machine learning models. This project includes MCP servers, clients, and developer tools, facilitating seamless integration and collaboration across various AI and machine learning applications. By leveraging IBM's MCP, developers can unlock greater flexibility and scalability in their model-driven workflows.
 
 ---
 

@@ -1,6 +1,6 @@
 # ZLeventer/linkedin-campaign-manager-mcp
 
-[![Stars](https://img.shields.io/github/stars/ZLeventer/linkedin-campaign-manager-mcp?style=flat-square&color=yellow)](https://github.com/ZLeventer/linkedin-campaign-manager-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ZLeventer/linkedin-campaign-manager-mcp?style=flat-square&color=blue)](https://github.com/ZLeventer/linkedin-campaign-manager-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZLeventer/linkedin-campaign-manager-mcp?style=flat-square&color=yellow)](https://github.com/ZLeventer/linkedin-campaign-manager-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ZLeventer/linkedin-campaign-manager-mcp?style=flat-square&color=blue)](https://github.com/ZLeventer/linkedin-campaign-manager-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for the LinkedIn Marketing API — 19 tools for campaigns, analytics, video, budget pacing, Lead Gen Forms, conversions, and targeting
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

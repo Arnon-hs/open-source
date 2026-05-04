@@ -1,6 +1,6 @@
 # proofsh/granola-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/proofsh/granola-mcp-server?style=flat-square&color=yellow)](https://github.com/proofsh/granola-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/proofsh/granola-mcp-server?style=flat-square&color=blue)](https://github.com/proofsh/granola-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/proofsh/granola-mcp-server?style=flat-square&color=yellow)](https://github.com/proofsh/granola-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/proofsh/granola-mcp-server?style=flat-square&color=blue)](https://github.com/proofsh/granola-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Local granola-ai-mcp-server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 86 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # haoruilee/awesome-agent-native-services
 
-[![Stars](https://img.shields.io/github/stars/haoruilee/awesome-agent-native-services?style=flat-square&color=yellow)](https://github.com/haoruilee/awesome-agent-native-services/stargazers) [![Forks](https://img.shields.io/github/forks/haoruilee/awesome-agent-native-services?style=flat-square&color=blue)](https://github.com/haoruilee/awesome-agent-native-services/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haoruilee/awesome-agent-native-services?style=flat-square&color=yellow)](https://github.com/haoruilee/awesome-agent-native-services/stargazers) [![Forks](https://img.shields.io/github/forks/haoruilee/awesome-agent-native-services?style=flat-square&color=blue)](https://github.com/haoruilee/awesome-agent-native-services/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > If you are an AI agent and want to discover services designed for you.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 323 |
+| ⭐ **Stars** | 331 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # dtsola/xiaoyaosearch
 
-[![Stars](https://img.shields.io/github/stars/dtsola/xiaoyaosearch?style=flat-square&color=yellow)](https://github.com/dtsola/xiaoyaosearch/stargazers) [![Forks](https://img.shields.io/github/forks/dtsola/xiaoyaosearch?style=flat-square&color=blue)](https://github.com/dtsola/xiaoyaosearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dtsola/xiaoyaosearch?style=flat-square&color=yellow)](https://github.com/dtsola/xiaoyaosearch/stargazers) [![Forks](https://img.shields.io/github/forks/dtsola/xiaoyaosearch?style=flat-square&color=blue)](https://github.com/dtsola/xiaoyaosearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 小遥搜索，听懂你的话、看懂你的图，用AI找到本地任何文件。让搜索像聊天一样简单。XiaoyaoSearch: Understands your words, reads your images, finds any local file with AI. Making search as easy as chatting.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 292 |
-| 🍴 **Forks** | 13 |
+| ⭐ **Stars** | 293 |
+| 🍴 **Forks** | 14 |
 | 💻 **Language** | Smali |
 | 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |

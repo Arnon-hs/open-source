@@ -1,17 +1,17 @@
 # raiyanyahya/how-to-train-your-gpt
 
-[![Stars](https://img.shields.io/github/stars/raiyanyahya/how-to-train-your-gpt?style=flat-square&color=yellow)](https://github.com/raiyanyahya/how-to-train-your-gpt/stargazers) [![Forks](https://img.shields.io/github/forks/raiyanyahya/how-to-train-your-gpt?style=flat-square&color=blue)](https://github.com/raiyanyahya/how-to-train-your-gpt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raiyanyahya/how-to-train-your-gpt?style=flat-square&color=yellow)](https://github.com/raiyanyahya/how-to-train-your-gpt/stargazers) [![Forks](https://img.shields.io/github/forks/raiyanyahya/how-to-train-your-gpt?style=flat-square&color=blue)](https://github.com/raiyanyahya/how-to-train-your-gpt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Build a modern LLM from scratch. Every line commented. Explained like we are five.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 149 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Frontend
 
 ## 📝 Summary
 

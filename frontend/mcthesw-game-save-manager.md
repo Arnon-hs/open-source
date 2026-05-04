@@ -27,7 +27,7 @@ Frontend
 
 Here's a brief summary for the open-source project:
 
-This project, mcthesw/game-save-manager, is a simple and open-source game save manager designed for easy frontend use. It provides a straightforward way to organize and manage game saves, making it a useful tool for gamers who want to keep their progress in order. This project is ideal for developers looking for a lightweight and accessible solution for game save management.
+mcthesw/game-save-manager is a lightweight, open-source game save manager designed to simplify the organization and management of game saves. This frontend tool provides an intuitive interface for browsing, renaming, and deleting game saves, making it easier to keep your game library organized. With its simple and user-friendly design, game-save-manager is a great addition to any gamer's toolkit.
 
 ---
 

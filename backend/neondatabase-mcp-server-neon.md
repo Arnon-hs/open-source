@@ -1,6 +1,6 @@
 # neondatabase/mcp-server-neon
 
-[![Stars](https://img.shields.io/github/stars/neondatabase/mcp-server-neon?style=flat-square&color=yellow)](https://github.com/neondatabase/mcp-server-neon/stargazers) [![Forks](https://img.shields.io/github/forks/neondatabase/mcp-server-neon?style=flat-square&color=blue)](https://github.com/neondatabase/mcp-server-neon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neondatabase/mcp-server-neon?style=flat-square&color=yellow)](https://github.com/neondatabase/mcp-server-neon/stargazers) [![Forks](https://img.shields.io/github/forks/neondatabase/mcp-server-neon?style=flat-square&color=blue)](https://github.com/neondatabase/mcp-server-neon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for interacting with Neon Management API and databases
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

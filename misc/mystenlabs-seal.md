@@ -1,6 +1,6 @@
 # MystenLabs/seal
 
-[![Stars](https://img.shields.io/github/stars/MystenLabs/seal?style=flat-square&color=yellow)](https://github.com/MystenLabs/seal/stargazers) [![Forks](https://img.shields.io/github/forks/MystenLabs/seal?style=flat-square&color=blue)](https://github.com/MystenLabs/seal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MystenLabs/seal?style=flat-square&color=yellow)](https://github.com/MystenLabs/seal/stargazers) [![Forks](https://img.shields.io/github/forks/MystenLabs/seal?style=flat-square&color=blue)](https://github.com/MystenLabs/seal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 407 |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

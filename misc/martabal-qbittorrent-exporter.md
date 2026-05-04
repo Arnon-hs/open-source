@@ -1,6 +1,6 @@
 # martabal/qbittorrent-exporter
 
-[![Stars](https://img.shields.io/github/stars/martabal/qbittorrent-exporter?style=flat-square&color=yellow)](https://github.com/martabal/qbittorrent-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/martabal/qbittorrent-exporter?style=flat-square&color=blue)](https://github.com/martabal/qbittorrent-exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/martabal/qbittorrent-exporter?style=flat-square&color=yellow)](https://github.com/martabal/qbittorrent-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/martabal/qbittorrent-exporter?style=flat-square&color=blue)](https://github.com/martabal/qbittorrent-exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A fast and lightweight prometheus exporter for qBittorrent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

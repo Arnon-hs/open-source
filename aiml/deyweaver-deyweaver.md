@@ -1,6 +1,6 @@
 # Deyweaver/DeyWeaver
 
-[![Stars](https://img.shields.io/github/stars/Deyweaver/DeyWeaver?style=flat-square&color=yellow)](https://github.com/Deyweaver/DeyWeaver/stargazers) [![Forks](https://img.shields.io/github/forks/Deyweaver/DeyWeaver?style=flat-square&color=blue)](https://github.com/Deyweaver/DeyWeaver/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Deyweaver/DeyWeaver?style=flat-square&color=yellow)](https://github.com/Deyweaver/DeyWeaver/stargazers) [![Forks](https://img.shields.io/github/forks/Deyweaver/DeyWeaver?style=flat-square&color=blue)](https://github.com/Deyweaver/DeyWeaver/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered task planner to structure your day with smart scheduling.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 331 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

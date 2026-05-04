@@ -1,6 +1,6 @@
 # wavesplatform/gowaves
 
-[![Stars](https://img.shields.io/github/stars/wavesplatform/gowaves?style=flat-square&color=yellow)](https://github.com/wavesplatform/gowaves/stargazers) [![Forks](https://img.shields.io/github/forks/wavesplatform/gowaves?style=flat-square&color=blue)](https://github.com/wavesplatform/gowaves/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wavesplatform/gowaves?style=flat-square&color=yellow)](https://github.com/wavesplatform/gowaves/stargazers) [![Forks](https://img.shields.io/github/forks/wavesplatform/gowaves?style=flat-square&color=blue)](https://github.com/wavesplatform/gowaves/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Go implementation of Waves node, libraries and tools for Waves blockchain
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 254 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

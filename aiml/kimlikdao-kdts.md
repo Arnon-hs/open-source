@@ -1,6 +1,6 @@
 # KimlikDAO/kdts
 
-[![Stars](https://img.shields.io/github/stars/KimlikDAO/kdts?style=flat-square&color=yellow)](https://github.com/KimlikDAO/kdts/stargazers) [![Forks](https://img.shields.io/github/forks/KimlikDAO/kdts?style=flat-square&color=blue)](https://github.com/KimlikDAO/kdts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KimlikDAO/kdts?style=flat-square&color=yellow)](https://github.com/KimlikDAO/kdts/stargazers) [![Forks](https://img.shields.io/github/forks/KimlikDAO/kdts?style=flat-square&color=blue)](https://github.com/KimlikDAO/kdts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > A TypeScript compiler with type-driven optimizations
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

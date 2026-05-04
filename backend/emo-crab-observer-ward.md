@@ -1,6 +1,6 @@
 # emo-crab/observer_ward
 
-[![Stars](https://img.shields.io/github/stars/emo-crab/observer_ward?style=flat-square&color=yellow)](https://github.com/emo-crab/observer_ward/stargazers) [![Forks](https://img.shields.io/github/forks/emo-crab/observer_ward?style=flat-square&color=blue)](https://github.com/emo-crab/observer_ward/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emo-crab/observer_ward?style=flat-square&color=yellow)](https://github.com/emo-crab/observer_ward/stargazers) [![Forks](https://img.shields.io/github/forks/emo-crab/observer_ward?style=flat-square&color=blue)](https://github.com/emo-crab/observer_ward/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > 侦查守卫(observer_ward)Web应用和服务指纹识别工具 （之前误删除了仓库）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # GargantuaX/gemini-watermark-remover
 
-[![Stars](https://img.shields.io/github/stars/GargantuaX/gemini-watermark-remover?style=flat-square&color=yellow)](https://github.com/GargantuaX/gemini-watermark-remover/stargazers) [![Forks](https://img.shields.io/github/forks/GargantuaX/gemini-watermark-remover?style=flat-square&color=blue)](https://github.com/GargantuaX/gemini-watermark-remover/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GargantuaX/gemini-watermark-remover?style=flat-square&color=yellow)](https://github.com/GargantuaX/gemini-watermark-remover/stargazers) [![Forks](https://img.shields.io/github/forks/GargantuaX/gemini-watermark-remover?style=flat-square&color=blue)](https://github.com/GargantuaX/gemini-watermark-remover/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. Tired of Gemini Watermark? GPT Image 2 ↓ / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法，对gemini水印疲了？推荐GPT-Image-2 ↓
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4k |
-| 🍴 **Forks** | 484 |
+| 🍴 **Forks** | 485 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

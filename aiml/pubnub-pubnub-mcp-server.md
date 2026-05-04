@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The PubNub MCP Server is an open-source protocol server designed for use in various AI and machine learning applications, including Cursor, Windsurf, Claude Desktop, Claude Code, and OpenAI Codex. It facilitates communication and data exchange between these applications, enabling efficient collaboration and knowledge sharing. By providing a standardized protocol, the MCP Server simplifies integration and development of AI-powered systems.
+This open-source project, PubNub MCP Server, is a protocol server designed to facilitate communication between various AI and ML applications, including Cursor, Windsurf, and Claude. It serves as a backend component for these tools, enabling seamless interaction and data exchange. By leveraging the PubNub MCP Model Context Protocol, this project provides a scalable and efficient infrastructure for AI-powered applications.
 
 ---
 

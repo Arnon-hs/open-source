@@ -1,6 +1,6 @@
 # AzureAD/microsoft-identity-web
 
-[![Stars](https://img.shields.io/github/stars/AzureAD/microsoft-identity-web?style=flat-square&color=yellow)](https://github.com/AzureAD/microsoft-identity-web/stargazers) [![Forks](https://img.shields.io/github/forks/AzureAD/microsoft-identity-web?style=flat-square&color=blue)](https://github.com/AzureAD/microsoft-identity-web/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AzureAD/microsoft-identity-web?style=flat-square&color=yellow)](https://github.com/AzureAD/microsoft-identity-web/stargazers) [![Forks](https://img.shields.io/github/forks/AzureAD/microsoft-identity-web?style=flat-square&color=blue)](https://github.com/AzureAD/microsoft-identity-web/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Helps creating protected web apps and web APIs with Microsoft identity platform and Azure AD B2C
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 777 |
 | 🍴 **Forks** | 264 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

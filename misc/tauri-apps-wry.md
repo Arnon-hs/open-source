@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The wry library is an open-source, cross-platform WebView implementation in Rust, specifically designed for use with the Tauri framework. It allows developers to embed web content into desktop applications, providing a seamless user experience across multiple platforms. By using wry, developers can leverage the strengths of web development while building native desktop applications.
+Wry is a cross-platform WebView library developed in Rust for use in Tauri applications, allowing for seamless integration of web content into desktop environments. It provides a robust and customizable solution for rendering web pages, enabling developers to build hybrid applications that combine the best of web and native development. With Wry, Tauri developers can create rich, interactive user experiences that span both web and desktop capabilities.
 
 ---
 

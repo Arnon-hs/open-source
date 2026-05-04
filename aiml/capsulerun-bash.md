@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Capsule Bash is an open-source, sandboxed Bash environment designed for secure execution within AI and ML agents. This secure shell allows for the execution of arbitrary Bash scripts within a controlled environment, minimizing potential risks to the host system. By providing a sandboxed environment, Capsule Bash enables the safe execution of Bash scripts in AI and ML applications.
+Capsule Bash is an open-source project that provides a sandboxed environment for running Bash scripts, allowing for secure and isolated execution of code by agents. This project focuses on AI/ML applications, enabling the safe evaluation of untrusted input or code snippets while preventing potential security breaches. By isolating the execution environment, Capsule Bash promotes a secure and reliable development workflow.
 
 ---
 

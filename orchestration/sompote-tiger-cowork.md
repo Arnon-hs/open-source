@@ -1,6 +1,6 @@
 # Sompote/tiger_cowork
 
-[![Stars](https://img.shields.io/github/stars/Sompote/tiger_cowork?style=flat-square&color=yellow)](https://github.com/Sompote/tiger_cowork/stargazers) [![Forks](https://img.shields.io/github/forks/Sompote/tiger_cowork?style=flat-square&color=blue)](https://github.com/Sompote/tiger_cowork/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sompote/tiger_cowork?style=flat-square&color=yellow)](https://github.com/Sompote/tiger_cowork/stargazers) [![Forks](https://img.shields.io/github/forks/Sompote/tiger_cowork?style=flat-square&color=blue)](https://github.com/Sompote/tiger_cowork/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted AI workspace unifying chat, code execution, parallel multi-agent orchestration, and project management. Each agent runs on a distinct provider — OpenAI-compatible APIs, Claude Code, or Codex CLI. MCP servers extend the toolbox. Built for 100+ tool-call sessions with context compression and checkpoint recovery.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

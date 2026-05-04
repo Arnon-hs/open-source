@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Gaman is a lightweight, open-source framework built on top of Bun, designed to provide a composable and efficient backend solution for developers. It offers a flexible foundation for building scalable and modular applications. With Gaman, developers can leverage its modular architecture to create robust and maintainable backend systems.
+Gaman is an open-source, lightweight framework built on the Bun platform. Designed for the backend, it provides a composable architecture that enables developers to create scalable and efficient applications. By leveraging Bun's capabilities, Gaman simplifies the process of building modern web applications.
 
 ---
 

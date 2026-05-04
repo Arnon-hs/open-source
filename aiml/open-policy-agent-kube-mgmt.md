@@ -25,9 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-policy-agent/kube-mgmt project:
-
-kube-mgmt is an open-source sidecar for managing OPA (Open Policy Agent) instances in Kubernetes environments. It automates the deployment, configuration, and management of OPA policies, simplifying the process of enforcing regulatory compliance and data governance. By streamlining policy management, kube-mgmt enables developers to focus on building secure and compliant applications.
+The open-policy-agent/kube-mgmt project is an open-source sidecar for managing Open Policy Agent (OPA) instances within Kubernetes environments. This tool simplifies the deployment and management of OPA, allowing developers to focus on policy enforcement and compliance. By integrating with Kubernetes, kube-mgmt streamlines the process of implementing and updating policies across complex distributed systems.
 
 ---
 

@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-SSTorytime is an open-source library that enables the creation of complex, semantic spacetime story graphs on top of a PostgreSQL database. This allows users to efficiently store and query the interconnected elements of a story, facilitating a rich and nuanced understanding of narrative structures. By leveraging PostgreSQL, SSTorytime provides a scalable and reliable foundation for exploring the intricate relationships within stories.
+SSTorytime is an open-source graph database library built on top of PostgreSQL. It enables users to efficiently store, query, and analyze complex semantic spacetime story graphs, facilitating the representation of relationships and events in a structured and scalable manner. This library empowers developers to build sophisticated applications that leverage the power of graph databases.
 
 ---
 

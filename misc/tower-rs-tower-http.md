@@ -1,6 +1,6 @@
 # tower-rs/tower-http
 
-[![Stars](https://img.shields.io/github/stars/tower-rs/tower-http?style=flat-square&color=yellow)](https://github.com/tower-rs/tower-http/stargazers) [![Forks](https://img.shields.io/github/forks/tower-rs/tower-http?style=flat-square&color=blue)](https://github.com/tower-rs/tower-http/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tower-rs/tower-http?style=flat-square&color=yellow)](https://github.com/tower-rs/tower-http/stargazers) [![Forks](https://img.shields.io/github/forks/tower-rs/tower-http?style=flat-square&color=blue)](https://github.com/tower-rs/tower-http/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > HTTP specific Tower utilities.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 869 |
 | 🍴 **Forks** | 218 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

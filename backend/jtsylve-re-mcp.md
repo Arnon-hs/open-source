@@ -1,6 +1,6 @@
 # jtsylve/re-mcp
 
-[![Stars](https://img.shields.io/github/stars/jtsylve/re-mcp?style=flat-square&color=yellow)](https://github.com/jtsylve/re-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jtsylve/re-mcp?style=flat-square&color=blue)](https://github.com/jtsylve/re-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jtsylve/re-mcp?style=flat-square&color=yellow)](https://github.com/jtsylve/re-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jtsylve/re-mcp?style=flat-square&color=blue)](https://github.com/jtsylve/re-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A headless MCP server for IDA Pro and Ghidra
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 57 |
+| ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

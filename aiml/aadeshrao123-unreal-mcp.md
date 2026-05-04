@@ -1,6 +1,6 @@
 # aadeshrao123/Unreal-MCP
 
-[![Stars](https://img.shields.io/github/stars/aadeshrao123/Unreal-MCP?style=flat-square&color=yellow)](https://github.com/aadeshrao123/Unreal-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/aadeshrao123/Unreal-MCP?style=flat-square&color=blue)](https://github.com/aadeshrao123/Unreal-MCP/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aadeshrao123/Unreal-MCP?style=flat-square&color=yellow)](https://github.com/aadeshrao123/Unreal-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/aadeshrao123/Unreal-MCP?style=flat-square&color=blue)](https://github.com/aadeshrao123/Unreal-MCP/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI bridge for Unreal Engine 5. Control the editor from Claude Code, Cursor, Windsurf, and any MCP client. 238 commands across materials, blueprints, Niagara VFX, StateTree, data tables, Mass Entity, Enhanced Input, UMG widgets, and performance profiling.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

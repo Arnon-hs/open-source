@@ -1,6 +1,6 @@
 # fengkx/NodeRSSBot
 
-[![Stars](https://img.shields.io/github/stars/fengkx/NodeRSSBot?style=flat-square&color=yellow)](https://github.com/fengkx/NodeRSSBot/stargazers) [![Forks](https://img.shields.io/github/forks/fengkx/NodeRSSBot?style=flat-square&color=blue)](https://github.com/fengkx/NodeRSSBot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fengkx/NodeRSSBot?style=flat-square&color=yellow)](https://github.com/fengkx/NodeRSSBot/stargazers) [![Forks](https://img.shields.io/github/forks/fengkx/NodeRSSBot?style=flat-square&color=blue)](https://github.com/fengkx/NodeRSSBot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Another Telegram RSS bot  but in Node.js Telegram RSS 机器人
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 403 |
+| ⭐ **Stars** | 404 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

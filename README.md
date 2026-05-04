@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16197** |
+| 🗂️ **Total projects** | **16230** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,15 +18,15 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 6018 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3381 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1600 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1173 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 994 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 6033 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3390 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1604 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1176 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 996 | [Browse →](./backend/) |
 | 🔧 **DevTools** | 953 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 543 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 544 | [Browse →](./crypto/) |
 | 📊 **Data** | 373 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 353 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 352 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 224 | [Browse →](./mobile/) |
 | 💳 **Payments** | 167 | [Browse →](./payments/) |
 | 📈 **Trading** | 166 | [Browse →](./trading/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [pola-rs/polars](./data/pola-rs-polars.md) | ⭐ 38.4k | Data |
-| 2 | [hazelcast/hazelcast](./data/hazelcast-hazelcast.md) | ⭐ 6.6k | Data |
-| 3 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 4 | [ceph/ceph](./crypto/ceph-ceph.md) | ⭐ 16.5k | Crypto |
-| 5 | [K-Dense-AI/scientific-agent-skills](./orchestration/k-dense-ai-scientific-agent-skills.md) | ⭐ 20k | Orchestration |
-| 6 | [mastra-ai/mastra](./aiml/mastra-ai-mastra.md) | ⭐ 23.6k | AI/ML |
-| 7 | [knative/docs](./aiml/knative-docs.md) | ⭐ 5k | AI/ML |
-| 8 | [apache/hudi](./data/apache-hudi.md) | ⭐ 6.2k | Data |
-| 9 | [community-scripts/ProxmoxVE](./aiml/community-scripts-proxmoxve.md) | ⭐ 27.9k | AI/ML |
-| 10 | [screenpipe/screenpipe](./aiml/screenpipe-screenpipe.md) | ⭐ 18.5k | AI/ML |
+| 2 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 3 | [K-Dense-AI/scientific-agent-skills](./orchestration/k-dense-ai-scientific-agent-skills.md) | ⭐ 20k | Orchestration |
+| 4 | [mastra-ai/mastra](./aiml/mastra-ai-mastra.md) | ⭐ 23.6k | AI/ML |
+| 5 | [knative/docs](./aiml/knative-docs.md) | ⭐ 5k | AI/ML |
+| 6 | [apache/hudi](./data/apache-hudi.md) | ⭐ 6.2k | Data |
+| 7 | [community-scripts/ProxmoxVE](./aiml/community-scripts-proxmoxve.md) | ⭐ 27.9k | AI/ML |
+| 8 | [screenpipe/screenpipe](./aiml/screenpipe-screenpipe.md) | ⭐ 18.5k | AI/ML |
+| 9 | [alam00000/bentopdf](./devopsinfra/alam00000-bentopdf.md) | ⭐ 13.1k | DevOps & Infra |
+| 10 | [JustArchiNET/ArchiSteamFarm](./backend/justarchinet-archisteamfarm.md) | ⭐ 13.3k | Backend |
 
 ## 🚀 How it works
 

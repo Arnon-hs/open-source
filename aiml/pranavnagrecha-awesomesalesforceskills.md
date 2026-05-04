@@ -1,6 +1,6 @@
 # PranavNagrecha/AwesomeSalesforceSkills
 
-[![Stars](https://img.shields.io/github/stars/PranavNagrecha/AwesomeSalesforceSkills?style=flat-square&color=yellow)](https://github.com/PranavNagrecha/AwesomeSalesforceSkills/stargazers) [![Forks](https://img.shields.io/github/forks/PranavNagrecha/AwesomeSalesforceSkills?style=flat-square&color=blue)](https://github.com/PranavNagrecha/AwesomeSalesforceSkills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PranavNagrecha/AwesomeSalesforceSkills?style=flat-square&color=yellow)](https://github.com/PranavNagrecha/AwesomeSalesforceSkills/stargazers) [![Forks](https://img.shields.io/github/forks/PranavNagrecha/AwesomeSalesforceSkills?style=flat-square&color=blue)](https://github.com/PranavNagrecha/AwesomeSalesforceSkills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Reusable Salesforce skills library for AI coding agents. 100+ skills across Admin, Dev, DevOps, Integration, and Architecture domains, mapped to the Salesforce Well-Architected Framework. Works with Claude Code, Copilot, Codex, and any agent that reads markdown
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

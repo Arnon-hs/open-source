@@ -25,7 +25,7 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-The sigstore/sigstore project is a shared open-source library in Go that provides common functionality across various sigstore services and clients. This library facilitates the development of secure and efficient digital signing and verification tools, enabling the creation of trustworthy software ecosystems. By leveraging sigstore/sigstore, developers can build robust security solutions with ease.
+The sigstore project is an open-source, cross-platform library written in Go that provides a shared foundation for sigstore services and clients. It facilitates secure software development and deployment by enabling the creation, storage, and verification of digital signatures and other cryptographic artifacts. This library is a crucial component of the sigstore ecosystem, supporting advanced security features and tools.
 
 ---
 

@@ -1,6 +1,6 @@
 # kdash-rs/kdash
 
-[![Stars](https://img.shields.io/github/stars/kdash-rs/kdash?style=flat-square&color=yellow)](https://github.com/kdash-rs/kdash/stargazers) [![Forks](https://img.shields.io/github/forks/kdash-rs/kdash?style=flat-square&color=blue)](https://github.com/kdash-rs/kdash/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kdash-rs/kdash?style=flat-square&color=yellow)](https://github.com/kdash-rs/kdash/stargazers) [![Forks](https://img.shields.io/github/forks/kdash-rs/kdash?style=flat-square&color=blue)](https://github.com/kdash-rs/kdash/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A simple and fast dashboard for Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

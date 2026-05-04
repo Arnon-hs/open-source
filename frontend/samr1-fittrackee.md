@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/SamR1/FitTrackee?style=flat-square&color=yellow)](https://github.com/SamR1/FitTrackee/stargazers) [![Forks](https://img.shields.io/github/forks/SamR1/FitTrackee?style=flat-square&color=blue)](https://github.com/SamR1/FitTrackee/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
-> Self-hosted outdoor activity tracker :bicyclist:
+> Self-hosted outdoor activity tracker :bicyclist: [mirror of codeberg repository: https://codeberg.org/FitTrackee/FitTrackee]
 
 ## 📊 Stats
 

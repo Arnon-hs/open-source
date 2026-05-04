@@ -1,6 +1,6 @@
 # microsoft/qdk
 
-[![Stars](https://img.shields.io/github/stars/microsoft/qdk?style=flat-square&color=yellow)](https://github.com/microsoft/qdk/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/qdk?style=flat-square&color=blue)](https://github.com/microsoft/qdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/qdk?style=flat-square&color=yellow)](https://github.com/microsoft/qdk/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/qdk?style=flat-square&color=blue)](https://github.com/microsoft/qdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Microsoft Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 915 |
+| ⭐ **Stars** | 916 |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

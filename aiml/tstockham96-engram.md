@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The engram project provides an open-source, universal memory layer for AI agents, enabling them to remember, recall, and consolidate information. This feature-rich memory system aims to enhance the intelligence and adaptability of artificial intelligence models by providing a robust and flexible framework for storing and retrieving knowledge. By leveraging engram, developers can create more sophisticated and human-like AI agents.
+The engram project is an open-source, universal memory layer designed for AI agents, enabling them to remember, recall, and consolidate information. This implementation aims to provide a robust and flexible framework for artificial general intelligence (AGI) systems to learn and retain knowledge. By developing a comprehensive memory layer, engram seeks to advance the capabilities of AI agents in various applications.
 
 ---
 

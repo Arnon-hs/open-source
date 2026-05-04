@@ -1,6 +1,6 @@
 # michael/editable-website
 
-[![Stars](https://img.shields.io/github/stars/michael/editable-website?style=flat-square&color=yellow)](https://github.com/michael/editable-website/stargazers) [![Forks](https://img.shields.io/github/forks/michael/editable-website?style=flat-square&color=blue)](https://github.com/michael/editable-website/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/michael/editable-website?style=flat-square&color=yellow)](https://github.com/michael/editable-website/stargazers) [![Forks](https://img.shields.io/github/forks/michael/editable-website?style=flat-square&color=blue)](https://github.com/michael/editable-website/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > CMS-free editable websites with Svelte
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

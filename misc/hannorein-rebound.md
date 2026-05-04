@@ -1,6 +1,6 @@
 # hannorein/rebound
 
-[![Stars](https://img.shields.io/github/stars/hannorein/rebound?style=flat-square&color=yellow)](https://github.com/hannorein/rebound/stargazers) [![Forks](https://img.shields.io/github/forks/hannorein/rebound?style=flat-square&color=blue)](https://github.com/hannorein/rebound/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hannorein/rebound?style=flat-square&color=yellow)](https://github.com/hannorein/rebound/stargazers) [![Forks](https://img.shields.io/github/forks/hannorein/rebound?style=flat-square&color=blue)](https://github.com/hannorein/rebound/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 💫 An open-source multi-purpose N-body code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 262 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

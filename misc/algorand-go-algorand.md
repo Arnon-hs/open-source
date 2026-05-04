@@ -1,6 +1,6 @@
 # algorand/go-algorand
 
-[![Stars](https://img.shields.io/github/stars/algorand/go-algorand?style=flat-square&color=yellow)](https://github.com/algorand/go-algorand/stargazers) [![Forks](https://img.shields.io/github/forks/algorand/go-algorand?style=flat-square&color=blue)](https://github.com/algorand/go-algorand/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/algorand/go-algorand?style=flat-square&color=yellow)](https://github.com/algorand/go-algorand/stargazers) [![Forks](https://img.shields.io/github/forks/algorand/go-algorand?style=flat-square&color=blue)](https://github.com/algorand/go-algorand/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Algorand's official implementation in Go.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 526 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

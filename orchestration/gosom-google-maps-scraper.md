@@ -1,6 +1,6 @@
 # gosom/google-maps-scraper
 
-[![Stars](https://img.shields.io/github/stars/gosom/google-maps-scraper?style=flat-square&color=yellow)](https://github.com/gosom/google-maps-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/gosom/google-maps-scraper?style=flat-square&color=blue)](https://github.com/gosom/google-maps-scraper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gosom/google-maps-scraper?style=flat-square&color=yellow)](https://github.com/gosom/google-maps-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/gosom/google-maps-scraper?style=flat-square&color=blue)](https://github.com/gosom/google-maps-scraper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.9k |
-| 🍴 **Forks** | 561 |
+| 🍴 **Forks** | 562 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

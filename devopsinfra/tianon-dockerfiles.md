@@ -1,6 +1,6 @@
 # tianon/dockerfiles
 
-[![Stars](https://img.shields.io/github/stars/tianon/dockerfiles?style=flat-square&color=yellow)](https://github.com/tianon/dockerfiles/stargazers) [![Forks](https://img.shields.io/github/forks/tianon/dockerfiles?style=flat-square&color=blue)](https://github.com/tianon/dockerfiles/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tianon/dockerfiles?style=flat-square&color=yellow)](https://github.com/tianon/dockerfiles/stargazers) [![Forks](https://img.shields.io/github/forks/tianon/dockerfiles?style=flat-square&color=blue)](https://github.com/tianon/dockerfiles/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A semi-random collection of odds and ends.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 231 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

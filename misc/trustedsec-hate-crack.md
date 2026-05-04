@@ -1,6 +1,6 @@
 # trustedsec/hate_crack
 
-[![Stars](https://img.shields.io/github/stars/trustedsec/hate_crack?style=flat-square&color=yellow)](https://github.com/trustedsec/hate_crack/stargazers) [![Forks](https://img.shields.io/github/forks/trustedsec/hate_crack?style=flat-square&color=blue)](https://github.com/trustedsec/hate_crack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trustedsec/hate_crack?style=flat-square&color=yellow)](https://github.com/trustedsec/hate_crack/stargazers) [![Forks](https://img.shields.io/github/forks/trustedsec/hate_crack?style=flat-square&color=blue)](https://github.com/trustedsec/hate_crack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 280 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

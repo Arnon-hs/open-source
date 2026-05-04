@@ -1,6 +1,6 @@
 # tzengyuxio/skills
 
-[![Stars](https://img.shields.io/github/stars/tzengyuxio/skills?style=flat-square&color=yellow)](https://github.com/tzengyuxio/skills/stargazers) [![Forks](https://img.shields.io/github/forks/tzengyuxio/skills?style=flat-square&color=blue)](https://github.com/tzengyuxio/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tzengyuxio/skills?style=flat-square&color=yellow)](https://github.com/tzengyuxio/skills/stargazers) [![Forks](https://img.shields.io/github/forks/tzengyuxio/skills?style=flat-square&color=blue)](https://github.com/tzengyuxio/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of custom skills for Claude Code and compatible AI coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

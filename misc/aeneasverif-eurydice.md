@@ -1,6 +1,6 @@
 # AeneasVerif/eurydice
 
-[![Stars](https://img.shields.io/github/stars/AeneasVerif/eurydice?style=flat-square&color=yellow)](https://github.com/AeneasVerif/eurydice/stargazers) [![Forks](https://img.shields.io/github/forks/AeneasVerif/eurydice?style=flat-square&color=blue)](https://github.com/AeneasVerif/eurydice/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AeneasVerif/eurydice?style=flat-square&color=yellow)](https://github.com/AeneasVerif/eurydice/stargazers) [![Forks](https://img.shields.io/github/forks/AeneasVerif/eurydice?style=flat-square&color=blue)](https://github.com/AeneasVerif/eurydice/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Eurydice compiles (a decent subset of) Rust to C. Verify programs in Rust, still get C code for legacy environments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | C |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

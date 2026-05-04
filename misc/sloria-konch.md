@@ -1,6 +1,6 @@
 # sloria/konch
 
-[![Stars](https://img.shields.io/github/stars/sloria/konch?style=flat-square&color=yellow)](https://github.com/sloria/konch/stargazers) [![Forks](https://img.shields.io/github/forks/sloria/konch?style=flat-square&color=blue)](https://github.com/sloria/konch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sloria/konch?style=flat-square&color=yellow)](https://github.com/sloria/konch/stargazers) [![Forks](https://img.shields.io/github/forks/sloria/konch?style=flat-square&color=blue)](https://github.com/sloria/konch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Configures your Python shell.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 415 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,7 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the SharkAuth project:
-
-SharkAuth is an open-source authentication server designed to handle AI agent delegation, providing a secure way to manage user identities and access control for artificial intelligence systems. This project aims to ensure the integrity and accountability of AI decision-making processes, promoting transparency and trust in AI-driven applications. By leveraging SharkAuth, developers can integrate secure authentication and authorization mechanisms into their AI-powered systems.
+SharkAuth is an open-source authentication server designed for AI agent delegation, aiming to provide a secure and reliable solution for managing access and permissions in AI-driven applications. This project enables developers to safely delegate tasks to AI agents, ensuring that sensitive data and operations are protected. By utilizing SharkAuth, users can establish trust between their AI systems and external agents.
 
 ---
 

@@ -1,6 +1,6 @@
 # e18e/module-replacements
 
-[![Stars](https://img.shields.io/github/stars/e18e/module-replacements?style=flat-square&color=yellow)](https://github.com/e18e/module-replacements/stargazers) [![Forks](https://img.shields.io/github/forks/e18e/module-replacements?style=flat-square&color=blue)](https://github.com/e18e/module-replacements/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/e18e/module-replacements?style=flat-square&color=yellow)](https://github.com/e18e/module-replacements/stargazers) [![Forks](https://img.shields.io/github/forks/e18e/module-replacements?style=flat-square&color=blue)](https://github.com/e18e/module-replacements/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A manifest of JS modules and their more modern/active replacements
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 907 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

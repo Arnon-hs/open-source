@@ -1,6 +1,6 @@
 # shenjingnan/xiaozhi-client
 
-[![Stars](https://img.shields.io/github/stars/shenjingnan/xiaozhi-client?style=flat-square&color=yellow)](https://github.com/shenjingnan/xiaozhi-client/stargazers) [![Forks](https://img.shields.io/github/forks/shenjingnan/xiaozhi-client?style=flat-square&color=blue)](https://github.com/shenjingnan/xiaozhi-client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shenjingnan/xiaozhi-client?style=flat-square&color=yellow)](https://github.com/shenjingnan/xiaozhi-client/stargazers) [![Forks](https://img.shields.io/github/forks/shenjingnan/xiaozhi-client?style=flat-square&color=blue)](https://github.com/shenjingnan/xiaozhi-client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > 小智AI客户端，目前主要用于MCP的对接
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 289 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

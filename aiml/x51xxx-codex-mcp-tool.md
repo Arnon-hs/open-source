@@ -1,6 +1,6 @@
 # x51xxx/codex-mcp-tool
 
-[![Stars](https://img.shields.io/github/stars/x51xxx/codex-mcp-tool?style=flat-square&color=yellow)](https://github.com/x51xxx/codex-mcp-tool/stargazers) [![Forks](https://img.shields.io/github/forks/x51xxx/codex-mcp-tool?style=flat-square&color=blue)](https://github.com/x51xxx/codex-mcp-tool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/x51xxx/codex-mcp-tool?style=flat-square&color=yellow)](https://github.com/x51xxx/codex-mcp-tool/stargazers) [![Forks](https://img.shields.io/github/forks/x51xxx/codex-mcp-tool?style=flat-square&color=blue)](https://github.com/x51xxx/codex-mcp-tool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

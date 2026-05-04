@@ -1,6 +1,6 @@
 # hashicorp/terraform-exec
 
-[![Stars](https://img.shields.io/github/stars/hashicorp/terraform-exec?style=flat-square&color=yellow)](https://github.com/hashicorp/terraform-exec/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/terraform-exec?style=flat-square&color=blue)](https://github.com/hashicorp/terraform-exec/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashicorp/terraform-exec?style=flat-square&color=yellow)](https://github.com/hashicorp/terraform-exec/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/terraform-exec?style=flat-square&color=blue)](https://github.com/hashicorp/terraform-exec/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform CLI commands via Go.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 781 |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

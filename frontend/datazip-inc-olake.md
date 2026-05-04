@@ -1,6 +1,6 @@
 # datazip-inc/olake
 
-[![Stars](https://img.shields.io/github/stars/datazip-inc/olake?style=flat-square&color=yellow)](https://github.com/datazip-inc/olake/stargazers) [![Forks](https://img.shields.io/github/forks/datazip-inc/olake?style=flat-square&color=blue)](https://github.com/datazip-inc/olake/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datazip-inc/olake?style=flat-square&color=yellow)](https://github.com/datazip-inc/olake/stargazers) [![Forks](https://img.shields.io/github/forks/datazip-inc/olake?style=flat-square&color=blue)](https://github.com/datazip-inc/olake/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > OLake - Fastest Databases, Kafka & S3 Replication to Apache Iceberg with Table optimization (Called OLake Fusion). ⚡ Efficient, quick and scalable data ingestion for real-time analytics.  Supported sources :  Postgres, MongoDB, MySQL, Oracle, MSSql, DB2, Kafka, S3.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 219 |
+| 🍴 **Forks** | 220 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

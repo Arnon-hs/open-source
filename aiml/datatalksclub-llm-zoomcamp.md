@@ -1,6 +1,6 @@
 # DataTalksClub/llm-zoomcamp
 
-[![Stars](https://img.shields.io/github/stars/DataTalksClub/llm-zoomcamp?style=flat-square&color=yellow)](https://github.com/DataTalksClub/llm-zoomcamp/stargazers) [![Forks](https://img.shields.io/github/forks/DataTalksClub/llm-zoomcamp?style=flat-square&color=blue)](https://github.com/DataTalksClub/llm-zoomcamp/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataTalksClub/llm-zoomcamp?style=flat-square&color=yellow)](https://github.com/DataTalksClub/llm-zoomcamp/stargazers) [![Forks](https://img.shields.io/github/forks/DataTalksClub/llm-zoomcamp?style=flat-square&color=blue)](https://github.com/DataTalksClub/llm-zoomcamp/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 894 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

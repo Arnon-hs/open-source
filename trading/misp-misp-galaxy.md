@@ -1,6 +1,6 @@
 # MISP/misp-galaxy
 
-[![Stars](https://img.shields.io/github/stars/MISP/misp-galaxy?style=flat-square&color=yellow)](https://github.com/MISP/misp-galaxy/stargazers) [![Forks](https://img.shields.io/github/forks/MISP/misp-galaxy?style=flat-square&color=blue)](https://github.com/MISP/misp-galaxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MISP/misp-galaxy?style=flat-square&color=yellow)](https://github.com/MISP/misp-galaxy/stargazers) [![Forks](https://img.shields.io/github/forks/MISP/misp-galaxy?style=flat-square&color=blue)](https://github.com/MISP/misp-galaxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Clusters and elements to attach to MISP events or attributes (like threat actors)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 621 |
 | 🍴 **Forks** | 296 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

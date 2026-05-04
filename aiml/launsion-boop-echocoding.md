@@ -1,6 +1,6 @@
 # launsion-boop/EchoCoding
 
-[![Stars](https://img.shields.io/github/stars/launsion-boop/EchoCoding?style=flat-square&color=yellow)](https://github.com/launsion-boop/EchoCoding/stargazers) [![Forks](https://img.shields.io/github/forks/launsion-boop/EchoCoding?style=flat-square&color=blue)](https://github.com/launsion-boop/EchoCoding/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/launsion-boop/EchoCoding?style=flat-square&color=yellow)](https://github.com/launsion-boop/EchoCoding/stargazers) [![Forks](https://img.shields.io/github/forks/launsion-boop/EchoCoding?style=flat-square&color=blue)](https://github.com/launsion-boop/EchoCoding/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Make your AI coding agent talk, listen, and feel alive.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

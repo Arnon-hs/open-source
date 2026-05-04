@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/emcie-co/parlant?style=flat-square&color=yellow)](https://github.com/emcie-co/parlant/stargazers) [![Forks](https://img.shields.io/github/forks/emcie-co/parlant?style=flat-square&color=blue)](https://github.com/emcie-co/parlant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> The interaction control harness for customer-facing AI agents - optimized for building controlled, consistent, and predictable customer interactions with LLMs.
+> Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 
 ## 📊 Stats
 
