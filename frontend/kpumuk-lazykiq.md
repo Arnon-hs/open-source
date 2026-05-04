@@ -1,6 +1,6 @@
 # kpumuk/lazykiq
 
-[![Stars](https://img.shields.io/github/stars/kpumuk/lazykiq?style=flat-square&color=yellow)](https://github.com/kpumuk/lazykiq/stargazers) [![Forks](https://img.shields.io/github/forks/kpumuk/lazykiq?style=flat-square&color=blue)](https://github.com/kpumuk/lazykiq/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kpumuk/lazykiq?style=flat-square&color=yellow)](https://github.com/kpumuk/lazykiq/stargazers) [![Forks](https://img.shields.io/github/forks/kpumuk/lazykiq?style=flat-square&color=blue)](https://github.com/kpumuk/lazykiq/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > rich terminal UI for Sidekiq
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

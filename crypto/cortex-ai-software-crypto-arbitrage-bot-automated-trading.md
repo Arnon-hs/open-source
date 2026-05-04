@@ -1,6 +1,6 @@
 # Cortex-AI-Software/crypto-arbitrage-bot-automated-trading
 
-[![Stars](https://img.shields.io/github/stars/Cortex-AI-Software/crypto-arbitrage-bot-automated-trading?style=flat-square&color=yellow)](https://github.com/Cortex-AI-Software/crypto-arbitrage-bot-automated-trading/stargazers) [![Forks](https://img.shields.io/github/forks/Cortex-AI-Software/crypto-arbitrage-bot-automated-trading?style=flat-square&color=blue)](https://github.com/Cortex-AI-Software/crypto-arbitrage-bot-automated-trading/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cortex-AI-Software/crypto-arbitrage-bot-automated-trading?style=flat-square&color=yellow)](https://github.com/Cortex-AI-Software/crypto-arbitrage-bot-automated-trading/stargazers) [![Forks](https://img.shields.io/github/forks/Cortex-AI-Software/crypto-arbitrage-bot-automated-trading?style=flat-square&color=blue)](https://github.com/Cortex-AI-Software/crypto-arbitrage-bot-automated-trading/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 Cortex AI: Automated Crypto Arbitrage Bot & P2P Spread Scanner. High-Speed Trading Engine for TON, Solana, and Base. Multi-Chain Flash-Loan & DEX-Arbitrage System v2.0 (Stable). Built by Cortex.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 45 |
+| ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

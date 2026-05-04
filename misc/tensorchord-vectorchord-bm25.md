@@ -1,6 +1,6 @@
 # tensorchord/VectorChord-bm25
 
-[![Stars](https://img.shields.io/github/stars/tensorchord/VectorChord-bm25?style=flat-square&color=yellow)](https://github.com/tensorchord/VectorChord-bm25/stargazers) [![Forks](https://img.shields.io/github/forks/tensorchord/VectorChord-bm25?style=flat-square&color=blue)](https://github.com/tensorchord/VectorChord-bm25/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tensorchord/VectorChord-bm25?style=flat-square&color=yellow)](https://github.com/tensorchord/VectorChord-bm25/stargazers) [![Forks](https://img.shields.io/github/forks/tensorchord/VectorChord-bm25?style=flat-square&color=blue)](https://github.com/tensorchord/VectorChord-bm25/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Native BM25 Ranking Index in PostgreSQL
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 363 |
+| ⭐ **Stars** | 365 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Rustowl is an open-source project that visualizes the complex concepts of ownership and lifetimes in Rust programming language. It helps developers better understand these fundamental concepts by providing a graphical representation of how ownership and lifetimes interact in their code. This tool can aid in debugging and optimizing Rust programs.
+The rustowl project provides a simple, visual representation of ownership and lifetimes in Rust, helping developers better understand the complex relationships between variables and their lifetimes. This open-source tool offers a graphical interface for inspecting and debugging ownership and borrow checker issues in Rust code. By visualizing these concepts, rustowl facilitates a deeper understanding of Rust's ownership system.
 
 ---
 

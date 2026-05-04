@@ -1,6 +1,6 @@
 # acoooder/aliyunpanshare
 
-[![Stars](https://img.shields.io/github/stars/acoooder/aliyunpanshare?style=flat-square&color=yellow)](https://github.com/acoooder/aliyunpanshare/stargazers) [![Forks](https://img.shields.io/github/forks/acoooder/aliyunpanshare?style=flat-square&color=blue)](https://github.com/acoooder/aliyunpanshare/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/acoooder/aliyunpanshare?style=flat-square&color=yellow)](https://github.com/acoooder/aliyunpanshare/stargazers) [![Forks](https://img.shields.io/github/forks/acoooder/aliyunpanshare?style=flat-square&color=blue)](https://github.com/acoooder/aliyunpanshare/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 阿里云盘、夸克网盘影视资源分享，每日发布最新电视剧、综艺、电影资源。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

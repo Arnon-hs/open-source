@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/awesome-ai-agents-2026?style=flat-square&color=yellow)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/stargazers) [![Forks](https://img.shields.io/github/forks/ARUNAGIRINATHAN-K/awesome-ai-agents-2026?style=flat-square&color=blue)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Awesome AI Agents for 2026
+> Awesome AI Agents for 2026 - 300+ AI Agents, Frameworks & Coding • Creative • Voice • Research • Enterprise. Comparison guides, benchmarks & deep dives
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 

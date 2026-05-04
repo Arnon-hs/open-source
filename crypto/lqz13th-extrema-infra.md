@@ -1,6 +1,6 @@
 # Lqz13Th/extrema_infra
 
-[![Stars](https://img.shields.io/github/stars/Lqz13Th/extrema_infra?style=flat-square&color=yellow)](https://github.com/Lqz13Th/extrema_infra/stargazers) [![Forks](https://img.shields.io/github/forks/Lqz13Th/extrema_infra?style=flat-square&color=blue)](https://github.com/Lqz13Th/extrema_infra/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lqz13Th/extrema_infra?style=flat-square&color=yellow)](https://github.com/Lqz13Th/extrema_infra/stargazers) [![Forks](https://img.shields.io/github/forks/Lqz13Th/extrema_infra?style=flat-square&color=blue)](https://github.com/Lqz13Th/extrema_infra/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance quantitative trading infrastructure built in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

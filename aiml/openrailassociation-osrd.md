@@ -1,6 +1,6 @@
 # OpenRailAssociation/osrd
 
-[![Stars](https://img.shields.io/github/stars/OpenRailAssociation/osrd?style=flat-square&color=yellow)](https://github.com/OpenRailAssociation/osrd/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRailAssociation/osrd?style=flat-square&color=blue)](https://github.com/OpenRailAssociation/osrd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenRailAssociation/osrd?style=flat-square&color=yellow)](https://github.com/OpenRailAssociation/osrd/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRailAssociation/osrd?style=flat-square&color=blue)](https://github.com/OpenRailAssociation/osrd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 627 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

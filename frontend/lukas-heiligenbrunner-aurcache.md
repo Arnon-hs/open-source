@@ -1,6 +1,6 @@
 # Lukas-Heiligenbrunner/AURCache
 
-[![Stars](https://img.shields.io/github/stars/Lukas-Heiligenbrunner/AURCache?style=flat-square&color=yellow)](https://github.com/Lukas-Heiligenbrunner/AURCache/stargazers) [![Forks](https://img.shields.io/github/forks/Lukas-Heiligenbrunner/AURCache?style=flat-square&color=blue)](https://github.com/Lukas-Heiligenbrunner/AURCache/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lukas-Heiligenbrunner/AURCache?style=flat-square&color=yellow)](https://github.com/Lukas-Heiligenbrunner/AURCache/stargazers) [![Forks](https://img.shields.io/github/forks/Lukas-Heiligenbrunner/AURCache?style=flat-square&color=blue)](https://github.com/Lukas-Heiligenbrunner/AURCache/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A cache build server for Archlinux AUR packages and serving them
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

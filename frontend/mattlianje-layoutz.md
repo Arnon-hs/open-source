@@ -1,6 +1,6 @@
 # mattlianje/layoutz
 
-[![Stars](https://img.shields.io/github/stars/mattlianje/layoutz?style=flat-square&color=yellow)](https://github.com/mattlianje/layoutz/stargazers) [![Forks](https://img.shields.io/github/forks/mattlianje/layoutz?style=flat-square&color=blue)](https://github.com/mattlianje/layoutz/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattlianje/layoutz?style=flat-square&color=yellow)](https://github.com/mattlianje/layoutz/stargazers) [![Forks](https://img.shields.io/github/forks/mattlianje/layoutz?style=flat-square&color=blue)](https://github.com/mattlianje/layoutz/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Simple, beautiful CLI output
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

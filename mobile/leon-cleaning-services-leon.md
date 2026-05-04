@@ -1,6 +1,6 @@
 # leon-cleaning-services/leon
 
-[![Stars](https://img.shields.io/github/stars/leon-cleaning-services/leon?style=flat-square&color=yellow)](https://github.com/leon-cleaning-services/leon/stargazers) [![Forks](https://img.shields.io/github/forks/leon-cleaning-services/leon?style=flat-square&color=blue)](https://github.com/leon-cleaning-services/leon/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leon-cleaning-services/leon?style=flat-square&color=yellow)](https://github.com/leon-cleaning-services/leon/stargazers) [![Forks](https://img.shields.io/github/forks/leon-cleaning-services/leon?style=flat-square&color=blue)](https://github.com/leon-cleaning-services/leon/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Android app for removing tracking parameters from shared URLs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 356 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

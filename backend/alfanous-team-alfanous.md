@@ -25,9 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Alfanous project:
+Here's a brief summary of the open-source project Alfanous:
 
-Alfanous is an open-source Arabic search engine API that provides a powerful tool for searching the Quran with simple and advanced search functionality. This API offers a wide range of features and interfaces, making it a valuable resource for developers working with Arabic language content. With Alfanous, users can easily access and analyze Arabic text data related to the Quran.
+Alfanous is an open-source Arabic search engine API designed to facilitate simple and advanced searches within the Quran. It offers a range of features and interfaces for users to explore the Quran efficiently. By providing a comprehensive search platform, Alfanous aims to enhance the accessibility and understanding of the Quran.
 
 ---
 

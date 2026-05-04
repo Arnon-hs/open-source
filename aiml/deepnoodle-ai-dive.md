@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Dive is an open-source Go library that enables developers to quickly build AI agents, allowing for the creation of agentic CLIs or the integration of AI capabilities into backend services. This library provides a customizable and embeddable solution for adding AI functionality to larger applications. With Dive, developers can leverage AI in a seamless and efficient manner.
+Here's a brief summary of the deepnoodle-ai/dive project:
+
+Dive is an open-source project that enables developers to quickly build AI agents in Go, allowing for the creation of agentic CLIs or the integration of AI into Go backend services. This versatile framework provides a customizable and embeddable solution for incorporating AI capabilities into larger applications. With Dive, developers can easily leverage Go's strengths in building robust and efficient AI-powered systems.
 
 ---
 

@@ -1,6 +1,6 @@
 # SamurAIGPT/AI-Youtube-Shorts-Generator
 
-[![Stars](https://img.shields.io/github/stars/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square&color=yellow)](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator/stargazers) [![Forks](https://img.shields.io/github/forks/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square&color=blue)](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square&color=yellow)](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator/stargazers) [![Forks](https://img.shields.io/github/forks/SamurAIGPT/AI-Youtube-Shorts-Generator?style=flat-square&color=blue)](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping — free, no watermarks, no per-clip credits.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 579 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

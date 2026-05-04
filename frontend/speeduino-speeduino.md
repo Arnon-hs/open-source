@@ -1,6 +1,6 @@
 # speeduino/speeduino
 
-[![Stars](https://img.shields.io/github/stars/speeduino/speeduino?style=flat-square&color=yellow)](https://github.com/speeduino/speeduino/stargazers) [![Forks](https://img.shields.io/github/forks/speeduino/speeduino?style=flat-square&color=blue)](https://github.com/speeduino/speeduino/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/speeduino/speeduino?style=flat-square&color=yellow)](https://github.com/speeduino/speeduino/stargazers) [![Forks](https://img.shields.io/github/forks/speeduino/speeduino?style=flat-square&color=blue)](https://github.com/speeduino/speeduino/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Speeduino - Arduino based engine management
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 633 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

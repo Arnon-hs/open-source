@@ -1,6 +1,6 @@
 # nautobot/nautobot
 
-[![Stars](https://img.shields.io/github/stars/nautobot/nautobot?style=flat-square&color=yellow)](https://github.com/nautobot/nautobot/stargazers) [![Forks](https://img.shields.io/github/forks/nautobot/nautobot?style=flat-square&color=blue)](https://github.com/nautobot/nautobot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nautobot/nautobot?style=flat-square&color=yellow)](https://github.com/nautobot/nautobot/stargazers) [![Forks](https://img.shields.io/github/forks/nautobot/nautobot?style=flat-square&color=blue)](https://github.com/nautobot/nautobot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Network Source of Truth & Network Automation Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 385 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

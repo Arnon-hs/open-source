@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/jigjoy-ai/mozaik?style=flat-square&color=yellow)](https://github.com/jigjoy-ai/mozaik/stargazers) [![Forks](https://img.shields.io/github/forks/jigjoy-ai/mozaik?style=flat-square&color=blue)](https://github.com/jigjoy-ai/mozaik/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Mozaik is a TypeScript framework for building event-driven AI agents.
+> Mozaik is an open-source TypeScript framework for building event-driven AI agents.
 
 ## 📊 Stats
 

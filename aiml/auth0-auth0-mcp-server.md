@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the auth0/auth0-mcp-server project:
+Here's a brief summary of the open-source project:
 
-The auth0-mcp-server is an open-source project that enables seamless integration of large language models (LLMs) and AI agents with Auth0's Management APIs through a Management Control Protocol (MCP) server. This solution allows for secure and interactive Auth0 administration using natural-language commands, supporting app creation, Action deployment, and log querying. By running locally, the auth0-mcp-server streamlines Auth0 management for AI tools and command-line interfaces (CLIs).
+The auth0-mcp-server is an open-source project that enables seamless integration of Large Language Models (LLMs) and Artificial Intelligence (AI) agents with Auth0 Management APIs through a Message Conduit Protocol (MCP) server. This allows for secure and interactive administration of Auth0 tenants using natural-language commands, creating a convenient interface for AI tools and command-line interfaces (CLIs). The MCP server can be run locally, providing a robust and flexible solution for automating Auth0 tasks.
 
 ---
 

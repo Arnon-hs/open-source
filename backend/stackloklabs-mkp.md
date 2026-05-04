@@ -25,9 +25,7 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the MKP project:
-
-MKP is an open-source Model Context Protocol (MCP) server designed specifically for Kubernetes environments. This project enables efficient communication between different components within a Kubernetes cluster by providing a standardized context protocol. By leveraging MKP, developers can simplify their Kubernetes workflows and improve overall system integration.
+MKP (Model Context Protocol) is an open-source project that provides a server for Kubernetes, enabling a standardized Model Context Protocol (MCP) for efficient model serving and deployment. This project helps streamline model management and context sharing within Kubernetes environments, making it easier to deploy and manage machine learning models at scale. MKP aims to simplify the process of model serving and management in Kubernetes clusters.
 
 ---
 

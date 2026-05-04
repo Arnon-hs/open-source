@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, 'terminal', brings a terminal-style experience to a website. It allows developers to create a terminal-like interface for their web applications, providing a unique and interactive user experience. By mimicking the functionality of a terminal, users can engage with websites in a more intuitive and engaging way.
+This open-source project, titled "terminal," aims to replicate a terminal-style interface for websites, offering a unique and retro-inspired user experience. By utilizing this project, developers can create websites that mimic the classic look and feel of a terminal, complete with a command-line interface and customizable appearance. The project is perfect for those seeking to create innovative and nostalgic web applications.
 
 ---
 

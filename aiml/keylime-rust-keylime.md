@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Keylime is an open-source project that provides a Rust implementation of the keylime agent, a trusted execution environment (TEE) designed for AI and machine learning (ML) workloads. This implementation enables secure and trustworthy execution of sensitive AI and ML models, protecting against unauthorized access and data tampering. By utilizing keylime, developers can ensure the integrity and confidentiality of their AI and ML applications.
+The keylime/rust-keylime project is an open-source Rust implementation of the Keylime agent, a trusted execution environment (TEE) for secure and trustworthy artificial intelligence (AI) and machine learning (ML) computations. This project aims to provide a secure and reliable foundation for AI/ML workloads, safeguarding against malware and unauthorized access. By utilizing Rust's strong focus on memory safety and performance, keylime/rust-keylime offers a robust platform for confidential AI/ML computations.
 
 ---
 

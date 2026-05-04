@@ -1,6 +1,6 @@
 # siderolabs/omni
 
-[![Stars](https://img.shields.io/github/stars/siderolabs/omni?style=flat-square&color=yellow)](https://github.com/siderolabs/omni/stargazers) [![Forks](https://img.shields.io/github/forks/siderolabs/omni?style=flat-square&color=blue)](https://github.com/siderolabs/omni/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/siderolabs/omni?style=flat-square&color=yellow)](https://github.com/siderolabs/omni/stargazers) [![Forks](https://img.shields.io/github/forks/siderolabs/omni?style=flat-square&color=blue)](https://github.com/siderolabs/omni/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > SaaS-simple deployment of Kubernetes - on your own hardware.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 97 |
+| 🍴 **Forks** | 99 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

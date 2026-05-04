@@ -1,6 +1,6 @@
 # tauraamui/lilly
 
-[![Stars](https://img.shields.io/github/stars/tauraamui/lilly?style=flat-square&color=yellow)](https://github.com/tauraamui/lilly/stargazers) [![Forks](https://img.shields.io/github/forks/tauraamui/lilly?style=flat-square&color=blue)](https://github.com/tauraamui/lilly/network) [![Language](https://img.shields.io/badge/lang-V-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tauraamui/lilly?style=flat-square&color=yellow)](https://github.com/tauraamui/lilly/stargazers) [![Forks](https://img.shields.io/github/forks/tauraamui/lilly?style=flat-square&color=blue)](https://github.com/tauraamui/lilly/network) [![Language](https://img.shields.io/badge/lang-V-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > TUI editor and VIM/Neovim alternative
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 448 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | V |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

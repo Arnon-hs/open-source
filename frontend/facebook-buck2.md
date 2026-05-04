@@ -1,6 +1,6 @@
 # facebook/buck2
 
-[![Stars](https://img.shields.io/github/stars/facebook/buck2?style=flat-square&color=yellow)](https://github.com/facebook/buck2/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/buck2?style=flat-square&color=blue)](https://github.com/facebook/buck2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/buck2?style=flat-square&color=yellow)](https://github.com/facebook/buck2/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/buck2?style=flat-square&color=blue)](https://github.com/facebook/buck2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Build system, successor to Buck
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 346 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

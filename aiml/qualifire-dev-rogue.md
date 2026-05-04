@@ -1,6 +1,6 @@
 # qualifire-dev/rogue
 
-[![Stars](https://img.shields.io/github/stars/qualifire-dev/rogue?style=flat-square&color=yellow)](https://github.com/qualifire-dev/rogue/stargazers) [![Forks](https://img.shields.io/github/forks/qualifire-dev/rogue?style=flat-square&color=blue)](https://github.com/qualifire-dev/rogue/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qualifire-dev/rogue?style=flat-square&color=yellow)](https://github.com/qualifire-dev/rogue/stargazers) [![Forks](https://img.shields.io/github/forks/qualifire-dev/rogue?style=flat-square&color=blue)](https://github.com/qualifire-dev/rogue/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent Evaluator & Red Team Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

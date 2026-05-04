@@ -1,6 +1,6 @@
 # flashinfer-ai/flashinfer-bench-starter-kit
 
-[![Stars](https://img.shields.io/github/stars/flashinfer-ai/flashinfer-bench-starter-kit?style=flat-square&color=yellow)](https://github.com/flashinfer-ai/flashinfer-bench-starter-kit/stargazers) [![Forks](https://img.shields.io/github/forks/flashinfer-ai/flashinfer-bench-starter-kit?style=flat-square&color=blue)](https://github.com/flashinfer-ai/flashinfer-bench-starter-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flashinfer-ai/flashinfer-bench-starter-kit?style=flat-square&color=yellow)](https://github.com/flashinfer-ai/flashinfer-bench-starter-kit/stargazers) [![Forks](https://img.shields.io/github/forks/flashinfer-ai/flashinfer-bench-starter-kit?style=flat-square&color=blue)](https://github.com/flashinfer-ai/flashinfer-bench-starter-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > FlashInfer Bench @ MLSys 2026: Building AI agents to write high performance GPU kernels
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

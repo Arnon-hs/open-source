@@ -1,6 +1,6 @@
 # okteto/okteto
 
-[![Stars](https://img.shields.io/github/stars/okteto/okteto?style=flat-square&color=yellow)](https://github.com/okteto/okteto/stargazers) [![Forks](https://img.shields.io/github/forks/okteto/okteto?style=flat-square&color=blue)](https://github.com/okteto/okteto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/okteto/okteto?style=flat-square&color=yellow)](https://github.com/okteto/okteto/stargazers) [![Forks](https://img.shields.io/github/forks/okteto/okteto?style=flat-square&color=blue)](https://github.com/okteto/okteto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Develop your applications directly in your Kubernetes Cluster
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 318 |
+| 🍴 **Forks** | 317 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

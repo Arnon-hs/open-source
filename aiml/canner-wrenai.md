@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Canner/WrenAI?style=flat-square&color=yellow)](https://github.com/Canner/WrenAI/stargazers) [![Forks](https://img.shields.io/github/forks/Canner/WrenAI?style=flat-square&color=blue)](https://github.com/Canner/WrenAI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> Open-source text-to-SQL and text-to-chart GenBI agent with a semantic layer. Ask your database questions in natural language — get accurate SQL, charts, and BI insights. Supports 12+ data sources (PostgreSQL, BigQuery, Snowflake, etc.) and any LLM (OpenAI, Claude, Gemini, Ollama).
+> The open context layer that gives AI agents grounded, governed SQL across 20+ data sources.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Data · Marketing
+AI/ML · Data
 
 ## 📝 Summary
 

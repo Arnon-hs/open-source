@@ -1,6 +1,6 @@
 # ethpandaops/dora
 
-[![Stars](https://img.shields.io/github/stars/ethpandaops/dora?style=flat-square&color=yellow)](https://github.com/ethpandaops/dora/stargazers) [![Forks](https://img.shields.io/github/forks/ethpandaops/dora?style=flat-square&color=blue)](https://github.com/ethpandaops/dora/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ethpandaops/dora?style=flat-square&color=yellow)](https://github.com/ethpandaops/dora/stargazers) [![Forks](https://img.shields.io/github/forks/ethpandaops/dora?style=flat-square&color=blue)](https://github.com/ethpandaops/dora/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Dora the Explorer is a lightweight slot explorer for the ethereum beaconchain
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

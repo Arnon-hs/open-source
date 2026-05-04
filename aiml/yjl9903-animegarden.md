@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the AnimeGarden project:
+Here's a brief summary of the open-source project:
 
-AnimeGarden is an open-source anime resource aggregation platform that collects and provides a centralized interface for anime fans to access and download anime BT resources. It is a mirror site that aims to index and organize anime-related content, allowing users to easily discover and access various anime resources. By providing an open API, AnimeGarden also enables developers to integrate anime data into their own applications.
+AnimeGarden is an open-source anime resource aggregation platform that provides a centralized interface for accessing anime BT resources. This project offers an open API for developers to integrate into their own applications, making it easier to discover and share anime content. By creating a mirror site for anime resources, AnimeGarden aims to provide a convenient and standardized experience for anime fans worldwide.
 
 ---
 

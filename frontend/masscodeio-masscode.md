@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/massCodeIO/massCode?style=flat-square&color=yellow)](https://github.com/massCodeIO/massCode/stargazers) [![Forks](https://img.shields.io/github/forks/massCodeIO/massCode?style=flat-square&color=blue)](https://github.com/massCodeIO/massCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
-> A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
+> A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
 
 ## 📊 Stats
 

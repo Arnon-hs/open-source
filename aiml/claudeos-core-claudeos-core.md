@@ -1,6 +1,6 @@
 # claudeos-core/claudeos-core
 
-[![Stars](https://img.shields.io/github/stars/claudeos-core/claudeos-core?style=flat-square&color=yellow)](https://github.com/claudeos-core/claudeos-core/stargazers) [![Forks](https://img.shields.io/github/forks/claudeos-core/claudeos-core?style=flat-square&color=blue)](https://github.com/claudeos-core/claudeos-core/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/claudeos-core/claudeos-core?style=flat-square&color=yellow)](https://github.com/claudeos-core/claudeos-core/stargazers) [![Forks](https://img.shields.io/github/forks/claudeos-core/claudeos-core?style=flat-square&color=blue)](https://github.com/claudeos-core/claudeos-core/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Static source analysis that generates deterministic Claude Code documentation ecosystems — no LLM guessing, only code-confirmed facts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

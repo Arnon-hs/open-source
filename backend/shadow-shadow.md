@@ -1,6 +1,6 @@
 # shadow/shadow
 
-[![Stars](https://img.shields.io/github/stars/shadow/shadow?style=flat-square&color=yellow)](https://github.com/shadow/shadow/stargazers) [![Forks](https://img.shields.io/github/forks/shadow/shadow?style=flat-square&color=blue)](https://github.com/shadow/shadow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shadow/shadow?style=flat-square&color=yellow)](https://github.com/shadow/shadow/stargazers) [![Forks](https://img.shields.io/github/forks/shadow/shadow?style=flat-square&color=blue)](https://github.com/shadow/shadow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 270 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

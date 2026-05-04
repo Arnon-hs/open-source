@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/stephnangue/warden?style=flat-square&color=yellow)](https://github.com/stephnangue/warden/stargazers) [![Forks](https://img.shields.io/github/forks/stephnangue/warden?style=flat-square&color=blue)](https://github.com/stephnangue/warden/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> The egress gateway for AI agents — every API call is authenticated, authorized, and audited. No credentials ever reach the agent.
+> The secure gateway connecting AI agents to enterprise systems.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend · Security
+AI/ML · Security
 
 ## 📝 Summary
 

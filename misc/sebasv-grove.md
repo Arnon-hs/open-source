@@ -1,6 +1,6 @@
 # sebasv/grove
 
-[![Stars](https://img.shields.io/github/stars/sebasv/grove?style=flat-square&color=yellow)](https://github.com/sebasv/grove//stargazers) [![Forks](https://img.shields.io/github/forks/sebasv/grove?style=flat-square&color=blue)](https://github.com/sebasv/grove//network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sebasv/grove?style=flat-square&color=yellow)](https://github.com/sebasv/grove//stargazers) [![Forks](https://img.shields.io/github/forks/sebasv/grove?style=flat-square&color=blue)](https://github.com/sebasv/grove//network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > A Grove of worktrees
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

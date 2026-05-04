@@ -1,17 +1,17 @@
 # raine/claude-code-proxy
 
-[![Stars](https://img.shields.io/github/stars/raine/claude-code-proxy?style=flat-square&color=yellow)](https://github.com/raine/claude-code-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/raine/claude-code-proxy?style=flat-square&color=blue)](https://github.com/raine/claude-code-proxy/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raine/claude-code-proxy?style=flat-square&color=yellow)](https://github.com/raine/claude-code-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/raine/claude-code-proxy?style=flat-square&color=blue)](https://github.com/raine/claude-code-proxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Use Claude Code with your ChatGPT or Kimi subscription via a local Anthropic-compatible proxy
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 71 |
+| 🍴 **Forks** | 15 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

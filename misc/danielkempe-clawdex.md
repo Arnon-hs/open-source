@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-A new update has been added to Claude Code, an open-source project, which now supports Codex pets. This integration enables users to access and utilize Codex pets within the Claude Code framework, enhancing its capabilities and flexibility. The update is available for download on the project's GitHub page.
+A new update has been added to the Claude Code project, allowing codex pets to now function within the system. This enhancement expands the capabilities of Claude Code, providing users with more interactive features and functionality. The addition of codex pets is a significant step forward in the project's development.
 
 ---
 

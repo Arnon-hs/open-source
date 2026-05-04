@@ -1,6 +1,6 @@
 # Adyen/adyen-magento2
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-magento2?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-magento2/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-magento2?style=flat-square&color=blue)](https://github.com/Adyen/adyen-magento2/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-magento2?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-magento2/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-magento2?style=flat-square&color=blue)](https://github.com/Adyen/adyen-magento2/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Adyen Payment plugin for Magento2
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 221 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

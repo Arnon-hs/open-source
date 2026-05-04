@@ -1,6 +1,6 @@
 # gruntwork-io/terragrunt-action
 
-[![Stars](https://img.shields.io/github/stars/gruntwork-io/terragrunt-action?style=flat-square&color=yellow)](https://github.com/gruntwork-io/terragrunt-action/stargazers) [![Forks](https://img.shields.io/github/forks/gruntwork-io/terragrunt-action?style=flat-square&color=blue)](https://github.com/gruntwork-io/terragrunt-action/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gruntwork-io/terragrunt-action?style=flat-square&color=yellow)](https://github.com/gruntwork-io/terragrunt-action/stargazers) [![Forks](https://img.shields.io/github/forks/gruntwork-io/terragrunt-action?style=flat-square&color=blue)](https://github.com/gruntwork-io/terragrunt-action/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > A GitHub Action for installing and running Terragrunt
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

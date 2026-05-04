@@ -1,6 +1,6 @@
 # Mapika/portview
 
-[![Stars](https://img.shields.io/github/stars/Mapika/portview?style=flat-square&color=yellow)](https://github.com/Mapika/portview/stargazers) [![Forks](https://img.shields.io/github/forks/Mapika/portview?style=flat-square&color=blue)](https://github.com/Mapika/portview/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mapika/portview?style=flat-square&color=yellow)](https://github.com/Mapika/portview/stargazers) [![Forks](https://img.shields.io/github/forks/Mapika/portview?style=flat-square&color=blue)](https://github.com/Mapika/portview/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > See what's on your ports, then act on it. Diagnostic-first port viewer for Linux, MacOS and Windows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

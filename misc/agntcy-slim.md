@@ -1,6 +1,6 @@
 # agntcy/slim
 
-[![Stars](https://img.shields.io/github/stars/agntcy/slim?style=flat-square&color=yellow)](https://github.com/agntcy/slim/stargazers) [![Forks](https://img.shields.io/github/forks/agntcy/slim?style=flat-square&color=blue)](https://github.com/agntcy/slim/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agntcy/slim?style=flat-square&color=yellow)](https://github.com/agntcy/slim/stargazers) [![Forks](https://img.shields.io/github/forks/agntcy/slim?style=flat-square&color=blue)](https://github.com/agntcy/slim/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Secure Low-Latency Interactive Messaging
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 189 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

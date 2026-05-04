@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the x42en/sysplant project:
-
-x42en/sysplant is an open-source Windows syscall hooking factory, featuring Canterlot's Gate, allowing developers to access and manipulate system calls through a unified interface. This project provides a powerful backend solution for AI/ML applications, enabling fine-grained control over system interactions. With MCP accessibility, sysplant streamlines the development process for complex Windows system integration tasks.
+The x42en/sysplant project is an open-source Windows syscall hooking factory that utilizes Canterlot's Gate, a powerful hooking system. This project enables developers to create and manage system call hooks through a user-friendly interface, accessible via the MCP (Management Console Portal). By leveraging x42en/sysplant, developers can harness the power of syscall hooking for AI/ML and backend applications.
 
 ---
 

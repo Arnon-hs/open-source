@@ -1,6 +1,6 @@
 # NVIDIA/spark-rapids
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/spark-rapids?style=flat-square&color=yellow)](https://github.com/NVIDIA/spark-rapids/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/spark-rapids?style=flat-square&color=blue)](https://github.com/NVIDIA/spark-rapids/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/spark-rapids?style=flat-square&color=yellow)](https://github.com/NVIDIA/spark-rapids/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/spark-rapids?style=flat-square&color=blue)](https://github.com/NVIDIA/spark-rapids/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Spark RAPIDS plugin - accelerate Apache Spark with GPUs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 975 |
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

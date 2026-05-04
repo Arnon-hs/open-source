@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a summary for the AI-mzq/From-Zero-to-AGI project:
+Here's a brief summary of the open-source project:
 
-This open-source project aims to comprehensively explore the path to developing General Artificial Intelligence (AGI), starting from fundamental concepts and gradually building a robust knowledge framework. It covers a wide range of AI topics, including AI Agents, Multi-Modal, Digital Humans, AI Art, and AI Video, among others. This project seeks to provide a thorough understanding of AGI development through a structured and step-by-step approach.
+The "From-Zero-to-AGI" project is an open-source initiative that aims to comprehensively explore the development path of General Artificial Intelligence (AGI). It covers a wide range of topics, from basic AI concepts such as AI Agents and RAG, to advanced areas like embodied intelligence, multimodal learning, and digital humans. The project seeks to build a complete knowledge framework for AGI from scratch.
 
 ---
 

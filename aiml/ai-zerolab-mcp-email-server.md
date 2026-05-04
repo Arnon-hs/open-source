@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The ai-zerolab/mcp-email-server project is an open-source implementation of IMAP (Internet Message Access Protocol) and SMTP (Simple Mail Transfer Protocol) servers utilizing the MCP (Micro Controller Protocol) server. This project enables users to interact with email accounts through MCP servers, providing a flexible and scalable solution for email management. By leveraging the MCP protocol, developers can integrate email functionality into their applications and systems.
+The ai-zerolab/mcp-email-server project is an open-source implementation of an email server using the MCP server protocol, enabling IMAP and SMTP services. This project allows developers to integrate email functionality into their applications, providing a flexible and customizable solution. By using the MCP server protocol, it offers a scalable and secure way to manage email communications.
 
 ---
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/badhope/skills?style=flat-square&color=yellow)](https://github.com/badhope/skills/stargazers) [![Forks](https://img.shields.io/github/forks/badhope/skills?style=flat-square&color=blue)](https://github.com/badhope/skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Works on ALL LLM Platforms: Claude Desktop • Cursor • Windsurf • Cline • Trae • Any MCP Client
+> Development Workflow Agent - 7 Core Skills + 16 Workflows for AI Platforms.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 

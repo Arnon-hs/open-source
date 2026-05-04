@@ -1,6 +1,6 @@
 # jtblin/go-ldap-client
 
-[![Stars](https://img.shields.io/github/stars/jtblin/go-ldap-client?style=flat-square&color=yellow)](https://github.com/jtblin/go-ldap-client/stargazers) [![Forks](https://img.shields.io/github/forks/jtblin/go-ldap-client?style=flat-square&color=blue)](https://github.com/jtblin/go-ldap-client/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jtblin/go-ldap-client?style=flat-square&color=yellow)](https://github.com/jtblin/go-ldap-client/stargazers) [![Forks](https://img.shields.io/github/forks/jtblin/go-ldap-client?style=flat-square&color=blue)](https://github.com/jtblin/go-ldap-client/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Simple ldap client to authenticate, retrieve basic information and groups for a user.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 264 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

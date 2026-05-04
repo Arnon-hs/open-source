@@ -1,6 +1,6 @@
 # kubernetes-sigs/controller-tools
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/controller-tools?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/controller-tools/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/controller-tools?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/controller-tools/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/controller-tools?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/controller-tools/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/controller-tools?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/controller-tools/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Tools to use with the controller-runtime libraries
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 859 |
 | 🍴 **Forks** | 476 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

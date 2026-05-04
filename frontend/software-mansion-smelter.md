@@ -1,6 +1,6 @@
 # software-mansion/smelter
 
-[![Stars](https://img.shields.io/github/stars/software-mansion/smelter?style=flat-square&color=yellow)](https://github.com/software-mansion/smelter/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion/smelter?style=flat-square&color=blue)](https://github.com/software-mansion/smelter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/software-mansion/smelter?style=flat-square&color=yellow)](https://github.com/software-mansion/smelter/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion/smelter?style=flat-square&color=blue)](https://github.com/software-mansion/smelter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Toolkit for real-time, low latency, programmable video and audio mixing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 659 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

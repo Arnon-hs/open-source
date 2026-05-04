@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-DependencyTrack/frontend is an open-source project that provides a user-friendly frontend UI for Dependency-Track, a widely used vulnerability management platform. This frontend interface enables users to interact seamlessly with Dependency-Track, enhancing their experience and productivity while managing dependencies and identifying vulnerabilities. By simplifying the user interface, DependencyTrack/frontend aims to improve adoption and usability of the Dependency-Track platform.
+DependencyTrack/frontend is an open-source project that provides a user-friendly frontend UI for Dependency-Track, a comprehensive dependency analysis tool. This frontend interface allows users to interact with Dependency-Track's features, streamlining the process of identifying and mitigating dependencies in software projects. By leveraging this frontend, users can easily access and utilize Dependency-Track's capabilities, enhancing the overall security and reliability of their software applications.
 
 ---
 

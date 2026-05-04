@@ -1,6 +1,6 @@
 # HeapsIO/hide
 
-[![Stars](https://img.shields.io/github/stars/HeapsIO/hide?style=flat-square&color=yellow)](https://github.com/HeapsIO/hide/stargazers) [![Forks](https://img.shields.io/github/forks/HeapsIO/hide?style=flat-square&color=blue)](https://github.com/HeapsIO/hide/network) [![Language](https://img.shields.io/badge/lang-Haxe-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HeapsIO/hide?style=flat-square&color=yellow)](https://github.com/HeapsIO/hide/stargazers) [![Forks](https://img.shields.io/github/forks/HeapsIO/hide?style=flat-square&color=blue)](https://github.com/HeapsIO/hide/network) [![Language](https://img.shields.io/badge/lang-Haxe-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Heaps IDE
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 627 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Haxe |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

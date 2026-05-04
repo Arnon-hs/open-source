@@ -1,6 +1,6 @@
 # lee-to/ai-workspace
 
-[![Stars](https://img.shields.io/github/stars/lee-to/ai-workspace?style=flat-square&color=yellow)](https://github.com/lee-to/ai-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/lee-to/ai-workspace?style=flat-square&color=blue)](https://github.com/lee-to/ai-workspace/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lee-to/ai-workspace?style=flat-square&color=yellow)](https://github.com/lee-to/ai-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/lee-to/ai-workspace?style=flat-square&color=blue)](https://github.com/lee-to/ai-workspace/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > AI Workspace - Give your AI agents memory that spans across projects.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

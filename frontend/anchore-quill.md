@@ -25,7 +25,7 @@ Frontend · Design
 
 ## 📝 Summary
 
-Quill is an open-source project that enables simple mac binary signing from any platform. This cross-platform tool allows users to sign macOS binaries without the need for a Mac, streamlining the development and deployment process. By providing a convenient solution for signing macOS binaries, Quill facilitates the creation of secure and trusted macOS applications.
+Anchore/quill is an open-source project that simplifies binary signing for macOS applications from any platform. This tool enables developers to create signed macOS binaries without the need for Mac-based infrastructure, streamlining the development and deployment process. By providing a cross-platform signing solution, quill increases flexibility and efficiency for developers working on macOS projects.
 
 ---
 

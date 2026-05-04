@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Gennadiyev/STS2MCP project:
+Here's a brief summary of the project:
 
-STS2MCP is an open-source mod for Slay the Spire 2 that enables full agentic runs, allowing AI and machine learning models to interact with the game in a more immersive and dynamic way. The mod exposes the game's in-game state, providing a comprehensive interface for developers to work with. This project also includes an MCP (Mod Container Protocol) server for seamless integration with other mods and tools.
+The STS2MCP project is an open-source mod for Slay the Spire 2, enabling full agentic runs and exposing the game's in-game state for AI/ML applications. This mod also provides a server implementation (MCP) for interacting with the mod's exposed data. By leveraging this mod, developers can create and train AI agents to play the game autonomously.
 
 ---
 

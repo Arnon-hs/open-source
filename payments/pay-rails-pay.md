@@ -25,7 +25,7 @@ Payments · AI/ML
 
 ## 📝 Summary
 
-The pay-rails/pay project is an open-source payment solution for Ruby on Rails applications, providing a seamless and secure way to process transactions. This project enables developers to easily integrate payment functionality into their Rails apps, making it a convenient option for e-commerce platforms and other online payment systems. By leveraging this solution, developers can focus on building their applications without worrying about payment processing complexities.
+Pay-rails/pay is an open-source payment processing library for Ruby on Rails applications, enabling developers to securely handle transactions and payments within their web applications. This library simplifies the integration of payment gateways, allowing developers to focus on building their core application. By providing a unified payment solution, pay-rails/pay streamlines the payment processing experience for both developers and end-users.
 
 ---
 

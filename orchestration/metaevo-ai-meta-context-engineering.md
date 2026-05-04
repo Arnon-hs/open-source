@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the metaevo-ai/meta-context-engineering project:
+Here's a 2-3 sentence summary for the metaevo-ai/meta-context-engineering project:
 
-This open-source project, "Meta Context Engineering via Agentic Skill Evolution," presents a novel approach to context engineering using meta-learning and evolutionary techniques. By leveraging agentic skills, the project enables the adaptation of complex systems to dynamic environments, fostering more efficient and robust AI/ML models. The work is based on a research paper presented at the International Conference on Machine Learning (ICML) in 2026.
+Meta Context Engineering via Agentic Skill Evolution is an open-source project that leverages machine learning to advance the field of meta-learning in context engineering. This project, presented at ICML 2026, focuses on developing a novel approach to meta-context engineering through agentic skill evolution, enabling more efficient and effective learning across various contexts.
 
 ---
 

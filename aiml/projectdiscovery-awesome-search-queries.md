@@ -1,6 +1,6 @@
 # projectdiscovery/awesome-search-queries
 
-[![Stars](https://img.shields.io/github/stars/projectdiscovery/awesome-search-queries?style=flat-square&color=yellow)](https://github.com/projectdiscovery/awesome-search-queries/stargazers) [![Forks](https://img.shields.io/github/forks/projectdiscovery/awesome-search-queries?style=flat-square&color=blue)](https://github.com/projectdiscovery/awesome-search-queries/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/projectdiscovery/awesome-search-queries?style=flat-square&color=yellow)](https://github.com/projectdiscovery/awesome-search-queries/stargazers) [![Forks](https://img.shields.io/github/forks/projectdiscovery/awesome-search-queries?style=flat-square&color=blue)](https://github.com/projectdiscovery/awesome-search-queries/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Community curated list of search queries for various products across multiple search engines.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 383 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

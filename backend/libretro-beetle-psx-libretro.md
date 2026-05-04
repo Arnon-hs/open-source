@@ -1,6 +1,6 @@
 # libretro/beetle-psx-libretro
 
-[![Stars](https://img.shields.io/github/stars/libretro/beetle-psx-libretro?style=flat-square&color=yellow)](https://github.com/libretro/beetle-psx-libretro/stargazers) [![Forks](https://img.shields.io/github/forks/libretro/beetle-psx-libretro?style=flat-square&color=blue)](https://github.com/libretro/beetle-psx-libretro/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libretro/beetle-psx-libretro?style=flat-square&color=yellow)](https://github.com/libretro/beetle-psx-libretro/stargazers) [![Forks](https://img.shields.io/github/forks/libretro/beetle-psx-libretro?style=flat-square&color=blue)](https://github.com/libretro/beetle-psx-libretro/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Standalone port/fork of Mednafen PSX to the Libretro API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 332 |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | C |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

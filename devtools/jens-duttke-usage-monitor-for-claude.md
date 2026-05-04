@@ -1,6 +1,6 @@
 # jens-duttke/usage-monitor-for-claude
 
-[![Stars](https://img.shields.io/github/stars/jens-duttke/usage-monitor-for-claude?style=flat-square&color=yellow)](https://github.com/jens-duttke/usage-monitor-for-claude/stargazers) [![Forks](https://img.shields.io/github/forks/jens-duttke/usage-monitor-for-claude?style=flat-square&color=blue)](https://github.com/jens-duttke/usage-monitor-for-claude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jens-duttke/usage-monitor-for-claude?style=flat-square&color=yellow)](https://github.com/jens-duttke/usage-monitor-for-claude/stargazers) [![Forks](https://img.shields.io/github/forks/jens-duttke/usage-monitor-for-claude?style=flat-square&color=blue)](https://github.com/jens-duttke/usage-monitor-for-claude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight Windows tray app that monitors your Claude rate limits in real time - portable single EXE, zero configuration, fully auditable
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

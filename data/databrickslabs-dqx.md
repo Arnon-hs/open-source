@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The dqx project is an open-source framework developed by Databricks that enables the validation of data quality for PySpark DataFrames and Tables. It provides a comprehensive set of tools to ensure the accuracy and reliability of data, helping to identify and address issues proactively. By leveraging dqx, users can streamline their data quality checks and maintain high-quality data assets within their PySpark environments.
+Databricks Labs' DQX (Data Quality eXtractor) is an open-source framework designed to validate the quality of PySpark DataFrames and Tables. This tool allows users to define and enforce data quality rules, ensuring accuracy and consistency in their data. By leveraging DQX, data professionals can streamline data validation processes, detect issues, and improve overall data reliability.
 
 ---
 

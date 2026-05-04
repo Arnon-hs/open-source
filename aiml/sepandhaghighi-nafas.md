@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The nafas project is an open-source Breathing Gymnastics Application designed to improve respiratory health and well-being. This application utilizes AI/ML techniques to guide users through various breathing exercises, providing a personalized and immersive experience. By leveraging AI and machine learning, nafas aims to make breathing exercises more accessible and effective for users worldwide.
+The sepandhaghighi/nafas project is an open-source application that implements a breathing gymnastics system, utilizing a combination of techniques to improve respiration and overall well-being. This application leverages AI/ML capabilities to provide users with personalized breathing exercises and routines. By utilizing this tool, individuals can develop better breathing habits and achieve a more balanced state of relaxation and focus.
 
 ---
 

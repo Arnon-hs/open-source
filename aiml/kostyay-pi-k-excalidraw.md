@@ -1,6 +1,6 @@
 # kostyay/pi-k-excalidraw
 
-[![Stars](https://img.shields.io/github/stars/kostyay/pi-k-excalidraw?style=flat-square&color=yellow)](https://github.com/kostyay/pi-k-excalidraw/stargazers) [![Forks](https://img.shields.io/github/forks/kostyay/pi-k-excalidraw?style=flat-square&color=blue)](https://github.com/kostyay/pi-k-excalidraw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kostyay/pi-k-excalidraw?style=flat-square&color=yellow)](https://github.com/kostyay/pi-k-excalidraw/stargazers) [![Forks](https://img.shields.io/github/forks/kostyay/pi-k-excalidraw?style=flat-square&color=blue)](https://github.com/kostyay/pi-k-excalidraw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Native Excalidraw diagram preview tool for pi — draw and save diagrams from the agent with a live glimpse webview.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 33 |
-| 🍴 **Forks** | 1 |
+| ⭐ **Stars** | 43 |
+| 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

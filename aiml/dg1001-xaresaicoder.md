@@ -1,6 +1,6 @@
 # DG1001/XaresAICoder
 
-[![Stars](https://img.shields.io/github/stars/DG1001/XaresAICoder?style=flat-square&color=yellow)](https://github.com/DG1001/XaresAICoder/stargazers) [![Forks](https://img.shields.io/github/forks/DG1001/XaresAICoder?style=flat-square&color=blue)](https://github.com/DG1001/XaresAICoder/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DG1001/XaresAICoder?style=flat-square&color=yellow)](https://github.com/DG1001/XaresAICoder/stargazers) [![Forks](https://img.shields.io/github/forks/DG1001/XaresAICoder?style=flat-square&color=blue)](https://github.com/DG1001/XaresAICoder/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A professional browser-based AI-powered development environment that integrates VS Code (code-server) with multiple AI coding assistants for enhanced productivity.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

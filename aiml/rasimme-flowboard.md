@@ -1,6 +1,6 @@
 # rasimme/FlowBoard
 
-[![Stars](https://img.shields.io/github/stars/rasimme/FlowBoard?style=flat-square&color=yellow)](https://github.com/rasimme/FlowBoard/stargazers) [![Forks](https://img.shields.io/github/forks/rasimme/FlowBoard?style=flat-square&color=blue)](https://github.com/rasimme/FlowBoard/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rasimme/FlowBoard?style=flat-square&color=yellow)](https://github.com/rasimme/FlowBoard/stargazers) [![Forks](https://img.shields.io/github/forks/rasimme/FlowBoard?style=flat-square&color=blue)](https://github.com/rasimme/FlowBoard/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Project workspaces for AI agents (OpenClaw) — context management, Kanban, specs, idea canvas.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

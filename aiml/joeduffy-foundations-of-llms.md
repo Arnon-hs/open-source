@@ -1,17 +1,17 @@
 # joeduffy/foundations-of-llms
 
-[![Stars](https://img.shields.io/github/stars/joeduffy/foundations-of-llms?style=flat-square&color=yellow)](https://github.com/joeduffy/foundations-of-llms/stargazers) [![Forks](https://img.shields.io/github/forks/joeduffy/foundations-of-llms?style=flat-square&color=blue)](https://github.com/joeduffy/foundations-of-llms/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joeduffy/foundations-of-llms?style=flat-square&color=yellow)](https://github.com/joeduffy/foundations-of-llms/stargazers) [![Forks](https://img.shields.io/github/forks/joeduffy/foundations-of-llms?style=flat-square&color=blue)](https://github.com/joeduffy/foundations-of-llms/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> _No description provided._
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 46 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | TeX |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

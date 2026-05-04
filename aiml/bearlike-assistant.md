@@ -1,6 +1,6 @@
 # bearlike/Assistant
 
-[![Stars](https://img.shields.io/github/stars/bearlike/Assistant?style=flat-square&color=yellow)](https://github.com/bearlike/Assistant/stargazers) [![Forks](https://img.shields.io/github/forks/bearlike/Assistant?style=flat-square&color=blue)](https://github.com/bearlike/Assistant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bearlike/Assistant?style=flat-square&color=yellow)](https://github.com/bearlike/Assistant/stargazers) [![Forks](https://img.shields.io/github/forks/bearlike/Assistant?style=flat-square&color=blue)](https://github.com/bearlike/Assistant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI assistant with a built-in agent hypervisor. Spawns, scopes, and manages parallel sub-agents across tasks. Runs from your terminal, browser, API, or Home Assistant.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

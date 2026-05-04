@@ -1,17 +1,17 @@
 # yuvhaim-gif/LLM_InSight
 
-[![Stars](https://img.shields.io/github/stars/yuvhaim-gif/LLM_InSight?style=flat-square&color=yellow)](https://github.com/yuvhaim-gif/LLM_InSight/stargazers) [![Forks](https://img.shields.io/github/forks/yuvhaim-gif/LLM_InSight?style=flat-square&color=blue)](https://github.com/yuvhaim-gif/LLM_InSight/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yuvhaim-gif/LLM_InSight?style=flat-square&color=yellow)](https://github.com/yuvhaim-gif/LLM_InSight/stargazers) [![Forks](https://img.shields.io/github/forks/yuvhaim-gif/LLM_InSight?style=flat-square&color=blue)](https://github.com/yuvhaim-gif/LLM_InSight/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> This my home rig testing process for creating evaluation metric, testing models, automating prompt creation in accordance to the evaluation results of last run and reviewing logs. its local first, independent of any specific tool and logs locally.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 

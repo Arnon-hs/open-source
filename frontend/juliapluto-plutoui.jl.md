@@ -1,6 +1,6 @@
 # JuliaPluto/PlutoUI.jl
 
-[![Stars](https://img.shields.io/github/stars/JuliaPluto/PlutoUI.jl?style=flat-square&color=yellow)](https://github.com/JuliaPluto/PlutoUI.jl/stargazers) [![Forks](https://img.shields.io/github/forks/JuliaPluto/PlutoUI.jl?style=flat-square&color=blue)](https://github.com/JuliaPluto/PlutoUI.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuliaPluto/PlutoUI.jl?style=flat-square&color=yellow)](https://github.com/JuliaPluto/PlutoUI.jl/stargazers) [![Forks](https://img.shields.io/github/forks/JuliaPluto/PlutoUI.jl?style=flat-square&color=blue)](https://github.com/JuliaPluto/PlutoUI.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

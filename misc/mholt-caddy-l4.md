@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Caddy L4 project is an open-source, layer 4 application that provides TCP and UDP proxy capabilities for the Caddy web server. By leveraging this module, users can offload traffic handling to a dedicated layer 4 server, enhancing performance and security for their web applications. This project supports Caddy, a popular web server software.
+The mholt/caddy-l4 project is an open-source, Layer 4 application designed to work seamlessly with Caddy, a popular web server and proxy. It provides TCP/UDP functionality, allowing developers to leverage the power of Caddy for both HTTP and raw network communication. This project extends the capabilities of Caddy, making it a versatile tool for network-related tasks.
 
 ---
 

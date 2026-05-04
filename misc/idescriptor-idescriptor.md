@@ -1,6 +1,6 @@
 # iDescriptor/iDescriptor
 
-[![Stars](https://img.shields.io/github/stars/iDescriptor/iDescriptor?style=flat-square&color=yellow)](https://github.com/iDescriptor/iDescriptor/stargazers) [![Forks](https://img.shields.io/github/forks/iDescriptor/iDescriptor?style=flat-square&color=blue)](https://github.com/iDescriptor/iDescriptor/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iDescriptor/iDescriptor?style=flat-square&color=yellow)](https://github.com/iDescriptor/iDescriptor/stargazers) [![Forks](https://img.shields.io/github/forks/iDescriptor/iDescriptor?style=flat-square&color=blue)](https://github.com/iDescriptor/iDescriptor/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A free, open-source, and cross-platform iDevice management tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

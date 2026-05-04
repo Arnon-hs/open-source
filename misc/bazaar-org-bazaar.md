@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The Bazaar project is an open-source initiative to create a new app store for GNOME, a popular desktop environment. This project aims to provide a centralized platform where users can discover, download, and install GNOME-compatible applications. By fostering a community-driven ecosystem, Bazaar seeks to enhance the GNOME user experience and promote the development of innovative desktop applications.
+Here's a 2-3 sentence summary for the bazaar-org/bazaar project:
+
+bazaar is an open-source project aiming to create a new App Store for the GNOME desktop environment. This platform will provide users with a seamless way to discover, download, and install GNOME-compatible applications, promoting a more unified and accessible user experience. By fostering community-driven development and submission, bazaar seeks to become a central hub for GNOME applications.
 
 ---
 

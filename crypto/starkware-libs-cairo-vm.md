@@ -25,9 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the open-source project:
-
-Cairo-vm is a Rust implementation of the Cairo Virtual Machine, a groundbreaking programming language designed for writing provable programs with cryptographic guarantees. With Cairo, developers can execute computations in a decentralized and trustless manner, allowing one party to verify that a computation was executed correctly without having to re-execute it themselves. This innovative project empowers the creation of secure and transparent applications in various fields, including cryptocurrency and artificial intelligence.
+This open-source project, cairo-vm, is a Rust implementation of the Cairo Virtual Machine, a platform for writing provable programs. It enables secure computations where one party can verify the correctness of a calculation without needing to re-run it. The Cairo VM is particularly useful in cryptographic applications and AI/ML use cases where program execution integrity is critical.
 
 ---
 

@@ -1,6 +1,6 @@
 # servo/pathfinder
 
-[![Stars](https://img.shields.io/github/stars/servo/pathfinder?style=flat-square&color=yellow)](https://github.com/servo/pathfinder/stargazers) [![Forks](https://img.shields.io/github/forks/servo/pathfinder?style=flat-square&color=blue)](https://github.com/servo/pathfinder/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/servo/pathfinder?style=flat-square&color=yellow)](https://github.com/servo/pathfinder/stargazers) [![Forks](https://img.shields.io/github/forks/servo/pathfinder?style=flat-square&color=blue)](https://github.com/servo/pathfinder/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, practical GPU rasterizer for fonts and vector graphics
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 238 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

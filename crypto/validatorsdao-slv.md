@@ -1,6 +1,6 @@
 # ValidatorsDAO/slv
 
-[![Stars](https://img.shields.io/github/stars/ValidatorsDAO/slv?style=flat-square&color=yellow)](https://github.com/ValidatorsDAO/slv/stargazers) [![Forks](https://img.shields.io/github/forks/ValidatorsDAO/slv?style=flat-square&color=blue)](https://github.com/ValidatorsDAO/slv/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ValidatorsDAO/slv?style=flat-square&color=yellow)](https://github.com/ValidatorsDAO/slv/stargazers) [![Forks](https://img.shields.io/github/forks/ValidatorsDAO/slv?style=flat-square&color=blue)](https://github.com/ValidatorsDAO/slv/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The AI Agent Kit for Solana Devs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 87 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,9 @@ Data · Product
 
 ## 📝 Summary
 
-The open-telemetry/opentelemetry-ebpf-profiler project is an open-source, production-scale datacenter profiler that supports various programming languages. It leverages eBPF (Extended Berkeley Packet Filter) to collect performance data from a wide range of systems and applications. This allows for detailed insights into system behavior and resource utilization.
+Here's a brief summary of the open-telemetry/opentelemetry-ebpf-profiler project:
+
+The open-telemetry/opentelemetry-ebpf-profiler project offers a production-scale, language-agnostic profiler for datacenters. Leveraging eBPF (Extended Berkeley Packet Filter), it can instrument a wide range of programming languages, providing detailed performance insights and metrics without modifying application code. This allows for effortless monitoring and optimization of complex datacenter environments.
 
 ---
 

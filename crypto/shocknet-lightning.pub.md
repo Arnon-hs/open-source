@@ -25,9 +25,7 @@ Crypto · Payments
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Lightning.Pub is an open-source, Nostr Native Lightning node that enables seamless sharing with nostr accounts and effortless connections to web applications. By leveraging the Nostr protocol, Lightning.Pub facilitates secure and decentralized payment processing. This project empowers users to easily integrate Lightning Network functionality into their web applications.
+Lightning.Pub is an open-source project that enables the creation of Nostr Native Lightning nodes, allowing users to easily share their nodes with Nostr accounts and connect to web applications. This project aims to simplify the process of using Lightning Network, a fast and secure payment system built on top of Bitcoin. By integrating Lightning.Pub with Nostr accounts, users can access a seamless and user-friendly experience for sending and receiving payments.
 
 ---
 

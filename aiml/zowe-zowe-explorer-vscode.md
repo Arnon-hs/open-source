@@ -1,6 +1,6 @@
 # zowe/zowe-explorer-vscode
 
-[![Stars](https://img.shields.io/github/stars/zowe/zowe-explorer-vscode?style=flat-square&color=yellow)](https://github.com/zowe/zowe-explorer-vscode/stargazers) [![Forks](https://img.shields.io/github/forks/zowe/zowe-explorer-vscode?style=flat-square&color=blue)](https://github.com/zowe/zowe-explorer-vscode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zowe/zowe-explorer-vscode?style=flat-square&color=yellow)](https://github.com/zowe/zowe-explorer-vscode/stargazers) [![Forks](https://img.shields.io/github/forks/zowe/zowe-explorer-vscode?style=flat-square&color=blue)](https://github.com/zowe/zowe-explorer-vscode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Visual Studio Code Extension for Zowe, which lets users interact with z/OS Data Sets, Unix System Services, and Jobs on a remote mainframe instance. Powered by Zowe SDKs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 188 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

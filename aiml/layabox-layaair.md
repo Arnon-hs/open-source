@@ -1,6 +1,6 @@
 # layabox/LayaAir
 
-[![Stars](https://img.shields.io/github/stars/layabox/LayaAir?style=flat-square&color=yellow)](https://github.com/layabox/LayaAir/stargazers) [![Forks](https://img.shields.io/github/forks/layabox/LayaAir?style=flat-square&color=blue)](https://github.com/layabox/LayaAir/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/layabox/LayaAir?style=flat-square&color=yellow)](https://github.com/layabox/LayaAir/stargazers) [![Forks](https://img.shields.io/github/forks/layabox/LayaAir?style=flat-square&color=blue)](https://github.com/layabox/LayaAir/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > LayaAir is a fully platform rendering engine with rich 2D/3D rendering capabilities and a mature integrated development platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 523 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

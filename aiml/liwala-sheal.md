@@ -1,6 +1,6 @@
 # liwala/sheal
 
-[![Stars](https://img.shields.io/github/stars/liwala/sheal?style=flat-square&color=yellow)](https://github.com/liwala/sheal/stargazers) [![Forks](https://img.shields.io/github/forks/liwala/sheal?style=flat-square&color=blue)](https://github.com/liwala/sheal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liwala/sheal?style=flat-square&color=yellow)](https://github.com/liwala/sheal/stargazers) [![Forks](https://img.shields.io/github/forks/liwala/sheal?style=flat-square&color=blue)](https://github.com/liwala/sheal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > your ai agent keeps making the same mistakes. sheal fixes that.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 64 |
+| ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
