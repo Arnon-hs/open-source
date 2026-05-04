@@ -1,6 +1,6 @@
 # tolinkshare2/tolinkshare2.github.io
 
-[![Stars](https://img.shields.io/github/stars/tolinkshare2/tolinkshare2.github.io?style=flat-square&color=yellow)](https://github.com/tolinkshare2/tolinkshare2.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/tolinkshare2/tolinkshare2.github.io?style=flat-square&color=blue)](https://github.com/tolinkshare2/tolinkshare2.github.io/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tolinkshare2/tolinkshare2.github.io?style=flat-square&color=yellow)](https://github.com/tolinkshare2/tolinkshare2.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/tolinkshare2/tolinkshare2.github.io?style=flat-square&color=blue)](https://github.com/tolinkshare2/tolinkshare2.github.io/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan节点,谷歌商店,翻墙梯子,ChatGPT,Shadowrocket,Quantumult X
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 384 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-tintinweb/pi-supervisor is an open-source extension for the Pi-Agent that ensures the coding agent operates within specified parameters, guiding it towards a predetermined outcome. This tool caters to users in the Crypto and AI/ML spaces, providing a structured approach to agent management. By supervising the agent's behavior, tintinweb/pi-supervisor enables more controlled and efficient experimentation and development.
+Tintinweb/pi-supervisor is an open-source project that extends the functionality of a Pi-Agent, enhancing its ability to supervise and guide the coding agent towards a specific outcome. This project combines advanced cryptographic techniques with AI/ML capabilities, making it a powerful tool for automation and optimization. By leveraging these technologies, users can achieve more precise control and efficiency in their coding processes.
 
 ---
 

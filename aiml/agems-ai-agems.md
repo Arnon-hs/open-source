@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The agems project is an open-source Agent Management System, designed as a centralized platform for AI-native businesses. This operating system enables the integration of AI agents and human employees into a single org chart, facilitating seamless communication, task execution, and collaboration. By providing a unified environment, agems aims to streamline operations and unlock the full potential of AI-powered businesses.
+The agems project is an open-source Agent Management System designed for AI-native businesses. It allows companies to build a unified org chart with both AI agents and humans working together seamlessly, enabling AI agents to communicate, execute tasks, and utilize tools to manage operations. The platform streamlines business operations, providing a single interface for AI-driven decision-making and automation.
 
 ---
 

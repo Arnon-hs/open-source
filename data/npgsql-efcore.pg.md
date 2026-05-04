@@ -1,6 +1,6 @@
 # npgsql/efcore.pg
 
-[![Stars](https://img.shields.io/github/stars/npgsql/efcore.pg?style=flat-square&color=yellow)](https://github.com/npgsql/efcore.pg/stargazers) [![Forks](https://img.shields.io/github/forks/npgsql/efcore.pg?style=flat-square&color=blue)](https://github.com/npgsql/efcore.pg/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/npgsql/efcore.pg?style=flat-square&color=yellow)](https://github.com/npgsql/efcore.pg/stargazers) [![Forks](https://img.shields.io/github/forks/npgsql/efcore.pg?style=flat-square&color=blue)](https://github.com/npgsql/efcore.pg/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Entity Framework Core provider for PostgreSQL
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 256 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

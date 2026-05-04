@@ -1,6 +1,6 @@
 # BetterTyped/hyper-fetch
 
-[![Stars](https://img.shields.io/github/stars/BetterTyped/hyper-fetch?style=flat-square&color=yellow)](https://github.com/BetterTyped/hyper-fetch/stargazers) [![Forks](https://img.shields.io/github/forks/BetterTyped/hyper-fetch?style=flat-square&color=blue)](https://github.com/BetterTyped/hyper-fetch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BetterTyped/hyper-fetch?style=flat-square&color=yellow)](https://github.com/BetterTyped/hyper-fetch/stargazers) [![Forks](https://img.shields.io/github/forks/BetterTyped/hyper-fetch?style=flat-square&color=blue)](https://github.com/BetterTyped/hyper-fetch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Fetching and realtime data exchange framework.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

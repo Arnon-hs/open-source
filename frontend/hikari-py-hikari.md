@@ -1,6 +1,6 @@
 # hikari-py/hikari
 
-[![Stars](https://img.shields.io/github/stars/hikari-py/hikari?style=flat-square&color=yellow)](https://github.com/hikari-py/hikari/stargazers) [![Forks](https://img.shields.io/github/forks/hikari-py/hikari?style=flat-square&color=blue)](https://github.com/hikari-py/hikari/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hikari-py/hikari?style=flat-square&color=yellow)](https://github.com/hikari-py/hikari/stargazers) [![Forks](https://img.shields.io/github/forks/hikari-py/hikari?style=flat-square&color=blue)](https://github.com/hikari-py/hikari/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A Discord API wrapper for Python and asyncio built on good intentions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 905 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

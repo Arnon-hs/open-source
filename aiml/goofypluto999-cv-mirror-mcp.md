@@ -1,6 +1,6 @@
 # goofypluto999/cv-mirror-mcp
 
-[![Stars](https://img.shields.io/github/stars/goofypluto999/cv-mirror-mcp?style=flat-square&color=yellow)](https://github.com/goofypluto999/cv-mirror-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/goofypluto999/cv-mirror-mcp?style=flat-square&color=blue)](https://github.com/goofypluto999/cv-mirror-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/goofypluto999/cv-mirror-mcp?style=flat-square&color=yellow)](https://github.com/goofypluto999/cv-mirror-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/goofypluto999/cv-mirror-mcp?style=flat-square&color=blue)](https://github.com/goofypluto999/cv-mirror-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server: lint a CV against 5 real ATS parsers (Workday, Greenhouse, Lever, Taleo, iCIMS). Pure JS engine, MIT licensed, no network calls.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

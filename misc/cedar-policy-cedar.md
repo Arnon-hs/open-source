@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The cedar project is an open-source implementation of the Cedar Policy Language, a declarative policy framework designed to define and enforce access control and security policies across various systems and applications. This project enables developers to write policies in a simple, flexible, and platform-independent language, allowing for more secure and scalable infrastructure. By adopting Cedar policies, organizations can streamline their security and compliance management processes.
+The cedar-policy/cedar project is an open-source implementation of the Cedar Policy Language, a tool for managing and enforcing access control policies within systems. It provides a standardized and flexible approach to policy definition, allowing users to define and manage access controls with precision and ease. This project enables developers to integrate Cedar policies into their systems, enhancing security and compliance capabilities.
 
 ---
 

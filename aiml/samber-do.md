@@ -1,6 +1,6 @@
 # samber/do
 
-[![Stars](https://img.shields.io/github/stars/samber/do?style=flat-square&color=yellow)](https://github.com/samber/do/stargazers) [![Forks](https://img.shields.io/github/forks/samber/do?style=flat-square&color=blue)](https://github.com/samber/do/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samber/do?style=flat-square&color=yellow)](https://github.com/samber/do/stargazers) [![Forks](https://img.shields.io/github/forks/samber/do?style=flat-square&color=blue)](https://github.com/samber/do/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

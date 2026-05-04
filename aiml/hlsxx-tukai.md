@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the hlsxx/tukai project:
-
-Tukai is an open-source typing app designed to enhance users' typing speed and accuracy through an interactive and engaging experience. It features switchable templates that cater to different learning needs, allowing users to tailor their practice sessions for optimal results. By leveraging this tool, users can improve their typing skills and become more efficient typists.
+The hlsxx/tukai project offers an interactive typing game that allows users to improve their typing speed and accuracy by utilizing customizable templates. This open-source application is designed to engage users in a fun and interactive way, helping them develop essential typing skills. By leveraging a user-friendly interface and adaptable templates, tukai aims to enhance overall typing performance.
 
 ---
 

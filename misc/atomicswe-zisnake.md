@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Zisnake is an open-source implementation of the classic snake game, developed in the Zig programming language. This simple yet engaging game is perfect for developers looking to explore the capabilities of the Zig language or seeking a minimalistic project to contribute to. With its basic yet addictive gameplay, Zisnake offers a fun learning experience for programmers of all skill levels.
+Zisnake is an open-source implementation of the classic snake game, created using the Zig programming language. This simple yet engaging game is designed for those interested in exploring the capabilities of Zig, a systems programming language known for its efficiency and safety. The project is a great resource for learning Zig and can be easily modified to suit various development needs.
 
 ---
 

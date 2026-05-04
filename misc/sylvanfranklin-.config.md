@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 431 |
-| 🍴 **Forks** | 20 |
+| 🍴 **Forks** | 21 |
 | 💻 **Language** | HolyC |
 | 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |

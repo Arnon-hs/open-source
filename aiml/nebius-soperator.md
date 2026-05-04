@@ -1,6 +1,6 @@
 # nebius/soperator
 
-[![Stars](https://img.shields.io/github/stars/nebius/soperator?style=flat-square&color=yellow)](https://github.com/nebius/soperator/stargazers) [![Forks](https://img.shields.io/github/forks/nebius/soperator?style=flat-square&color=blue)](https://github.com/nebius/soperator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nebius/soperator?style=flat-square&color=yellow)](https://github.com/nebius/soperator/stargazers) [![Forks](https://img.shields.io/github/forks/nebius/soperator?style=flat-square&color=blue)](https://github.com/nebius/soperator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Run Slurm in Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

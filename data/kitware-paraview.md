@@ -1,6 +1,6 @@
 # Kitware/ParaView
 
-[![Stars](https://img.shields.io/github/stars/Kitware/ParaView?style=flat-square&color=yellow)](https://github.com/Kitware/ParaView/stargazers) [![Forks](https://img.shields.io/github/forks/Kitware/ParaView?style=flat-square&color=blue)](https://github.com/Kitware/ParaView/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kitware/ParaView?style=flat-square&color=yellow)](https://github.com/Kitware/ParaView/stargazers) [![Forks](https://img.shields.io/github/forks/Kitware/ParaView?style=flat-square&color=blue)](https://github.com/Kitware/ParaView/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > VTK-based Data Analysis and Visualization Application
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 480 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

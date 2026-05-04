@@ -1,6 +1,6 @@
 # thrasher-corp/gocryptotrader
 
-[![Stars](https://img.shields.io/github/stars/thrasher-corp/gocryptotrader?style=flat-square&color=yellow)](https://github.com/thrasher-corp/gocryptotrader/stargazers) [![Forks](https://img.shields.io/github/forks/thrasher-corp/gocryptotrader?style=flat-square&color=blue)](https://github.com/thrasher-corp/gocryptotrader/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thrasher-corp/gocryptotrader?style=flat-square&color=yellow)](https://github.com/thrasher-corp/gocryptotrader/stargazers) [![Forks](https://img.shields.io/github/forks/thrasher-corp/gocryptotrader?style=flat-square&color=blue)](https://github.com/thrasher-corp/gocryptotrader/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 905 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

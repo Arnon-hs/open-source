@@ -1,6 +1,6 @@
 # HIM049/BADownloaderUI
 
-[![Stars](https://img.shields.io/github/stars/HIM049/BADownloaderUI?style=flat-square&color=yellow)](https://github.com/HIM049/BADownloaderUI/stargazers) [![Forks](https://img.shields.io/github/forks/HIM049/BADownloaderUI?style=flat-square&color=blue)](https://github.com/HIM049/BADownloaderUI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HIM049/BADownloaderUI?style=flat-square&color=yellow)](https://github.com/HIM049/BADownloaderUI/stargazers) [![Forks](https://img.shields.io/github/forks/HIM049/BADownloaderUI?style=flat-square&color=blue)](https://github.com/HIM049/BADownloaderUI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > BADownloader - 使用 wails 重构后的全新版本
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 380 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

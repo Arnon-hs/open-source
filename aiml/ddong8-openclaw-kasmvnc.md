@@ -1,6 +1,6 @@
 # ddong8/openclaw-kasmvnc
 
-[![Stars](https://img.shields.io/github/stars/ddong8/openclaw-kasmvnc?style=flat-square&color=yellow)](https://github.com/ddong8/openclaw-kasmvnc/stargazers) [![Forks](https://img.shields.io/github/forks/ddong8/openclaw-kasmvnc?style=flat-square&color=blue)](https://github.com/ddong8/openclaw-kasmvnc/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ddong8/openclaw-kasmvnc?style=flat-square&color=yellow)](https://github.com/ddong8/openclaw-kasmvnc/stargazers) [![Forks](https://img.shields.io/github/forks/ddong8/openclaw-kasmvnc?style=flat-square&color=blue)](https://github.com/ddong8/openclaw-kasmvnc/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > One-click deployment for OpenClaw + KasmVNC. Browser-based remote desktop with full container lifecycle management.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

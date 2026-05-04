@@ -1,6 +1,6 @@
 # curl/doh
 
-[![Stars](https://img.shields.io/github/stars/curl/doh?style=flat-square&color=yellow)](https://github.com/curl/doh/stargazers) [![Forks](https://img.shields.io/github/forks/curl/doh?style=flat-square&color=blue)](https://github.com/curl/doh/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/curl/doh?style=flat-square&color=yellow)](https://github.com/curl/doh/stargazers) [![Forks](https://img.shields.io/github/forks/curl/doh?style=flat-square&color=blue)](https://github.com/curl/doh/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 428 |
+| ⭐ **Stars** | 429 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | C |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

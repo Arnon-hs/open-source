@@ -1,6 +1,6 @@
 # software-mansion/live-debugger
 
-[![Stars](https://img.shields.io/github/stars/software-mansion/live-debugger?style=flat-square&color=yellow)](https://github.com/software-mansion/live-debugger/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion/live-debugger?style=flat-square&color=blue)](https://github.com/software-mansion/live-debugger/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/software-mansion/live-debugger?style=flat-square&color=yellow)](https://github.com/software-mansion/live-debugger/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion/live-debugger?style=flat-square&color=blue)](https://github.com/software-mansion/live-debugger/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Tool for debugging LiveView applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 743 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

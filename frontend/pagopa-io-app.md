@@ -1,6 +1,6 @@
 # pagopa/io-app
 
-[![Stars](https://img.shields.io/github/stars/pagopa/io-app?style=flat-square&color=yellow)](https://github.com/pagopa/io-app/stargazers) [![Forks](https://img.shields.io/github/forks/pagopa/io-app?style=flat-square&color=blue)](https://github.com/pagopa/io-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pagopa/io-app?style=flat-square&color=yellow)](https://github.com/pagopa/io-app/stargazers) [![Forks](https://img.shields.io/github/forks/pagopa/io-app?style=flat-square&color=blue)](https://github.com/pagopa/io-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > IO, l'app dei servizi pubblici
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 695 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

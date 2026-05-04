@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The cloudflare/cfssl_trust project is an open-source repository that hosts the CA (Certificate Authority) trust store for CFSSL (Cloudflare's SSL/TLS toolkit). This trust store contains pre-built certificates for well-known root CAs, enabling users to verify the authenticity of certificates issued by these trusted authorities. By utilizing this repository, users can easily integrate trusted certificate chains into their CFSSL configurations.
+The cloudflare/cfssl_trust project is an open-source repository that houses CFSSL's (Cloudflare's SSL/TLS Certificate Authority) CA (Certificate Authority) trust store. This trust store contains a collection of trusted root certificates from various Certificate Authorities (CAs) across the globe. It serves as a centralized repository for validating the authenticity of SSL/TLS certificates.
 
 ---
 

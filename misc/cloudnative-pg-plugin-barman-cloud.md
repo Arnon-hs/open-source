@@ -1,6 +1,6 @@
 # cloudnative-pg/plugin-barman-cloud
 
-[![Stars](https://img.shields.io/github/stars/cloudnative-pg/plugin-barman-cloud?style=flat-square&color=yellow)](https://github.com/cloudnative-pg/plugin-barman-cloud/stargazers) [![Forks](https://img.shields.io/github/forks/cloudnative-pg/plugin-barman-cloud?style=flat-square&color=blue)](https://github.com/cloudnative-pg/plugin-barman-cloud/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudnative-pg/plugin-barman-cloud?style=flat-square&color=yellow)](https://github.com/cloudnative-pg/plugin-barman-cloud/stargazers) [![Forks](https://img.shields.io/github/forks/cloudnative-pg/plugin-barman-cloud?style=flat-square&color=blue)](https://github.com/cloudnative-pg/plugin-barman-cloud/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Barman Cloud CNPG-I backup plugin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

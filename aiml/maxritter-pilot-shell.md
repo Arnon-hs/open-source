@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/maxritter/pilot-shell?style=flat-square&color=yellow)](https://github.com/maxritter/pilot-shell/stargazers) [![Forks](https://img.shields.io/github/forks/maxritter/pilot-shell?style=flat-square&color=blue)](https://github.com/maxritter/pilot-shell/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
-> The Claude Code engineering platform: spec-driven planning, enforced TDD, persistent memory, and quality hooks. Make Claude Code production-ready.
+> How real engineers run Claude Code: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make Claude Code production-ready.
 
 ## 📊 Stats
 

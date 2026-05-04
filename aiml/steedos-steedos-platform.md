@@ -1,6 +1,6 @@
 # steedos/steedos-platform
 
-[![Stars](https://img.shields.io/github/stars/steedos/steedos-platform?style=flat-square&color=yellow)](https://github.com/steedos/steedos-platform/stargazers) [![Forks](https://img.shields.io/github/forks/steedos/steedos-platform?style=flat-square&color=blue)](https://github.com/steedos/steedos-platform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steedos/steedos-platform?style=flat-square&color=yellow)](https://github.com/steedos/steedos-platform/stargazers) [![Forks](https://img.shields.io/github/forks/steedos/steedos-platform?style=flat-square&color=blue)](https://github.com/steedos/steedos-platform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The AI-Native Infrastructure for Enterprise Apps. Powered by ObjectStack (ObjectQL, ObjectOS, Object UI). Turn Prompts into Enterprise Software.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 414 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

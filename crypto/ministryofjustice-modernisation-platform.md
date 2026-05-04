@@ -1,6 +1,6 @@
 # ministryofjustice/modernisation-platform
 
-[![Stars](https://img.shields.io/github/stars/ministryofjustice/modernisation-platform?style=flat-square&color=yellow)](https://github.com/ministryofjustice/modernisation-platform/stargazers) [![Forks](https://img.shields.io/github/forks/ministryofjustice/modernisation-platform?style=flat-square&color=blue)](https://github.com/ministryofjustice/modernisation-platform/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ministryofjustice/modernisation-platform?style=flat-square&color=yellow)](https://github.com/ministryofjustice/modernisation-platform/stargazers) [![Forks](https://img.shields.io/github/forks/ministryofjustice/modernisation-platform?style=flat-square&color=blue)](https://github.com/ministryofjustice/modernisation-platform/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 723 |
 | 🍴 **Forks** | 289 |
 | 💻 **Language** | HCL |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

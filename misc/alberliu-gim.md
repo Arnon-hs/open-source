@@ -1,6 +1,6 @@
 # alberliu/gim
 
-[![Stars](https://img.shields.io/github/stars/alberliu/gim?style=flat-square&color=yellow)](https://github.com/alberliu/gim/stargazers) [![Forks](https://img.shields.io/github/forks/alberliu/gim?style=flat-square&color=blue)](https://github.com/alberliu/gim/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alberliu/gim?style=flat-square&color=yellow)](https://github.com/alberliu/gim/stargazers) [![Forks](https://img.shields.io/github/forks/alberliu/gim?style=flat-square&color=blue)](https://github.com/alberliu/gim/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > golang写的IM服务器(服务组件形式)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 539 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

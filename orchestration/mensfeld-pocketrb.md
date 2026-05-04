@@ -1,6 +1,6 @@
 # mensfeld/pocketrb
 
-[![Stars](https://img.shields.io/github/stars/mensfeld/pocketrb?style=flat-square&color=yellow)](https://github.com/mensfeld/pocketrb/stargazers) [![Forks](https://img.shields.io/github/forks/mensfeld/pocketrb?style=flat-square&color=blue)](https://github.com/mensfeld/pocketrb/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mensfeld/pocketrb?style=flat-square&color=yellow)](https://github.com/mensfeld/pocketrb/stargazers) [![Forks](https://img.shields.io/github/forks/mensfeld/pocketrb?style=flat-square&color=blue)](https://github.com/mensfeld/pocketrb/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

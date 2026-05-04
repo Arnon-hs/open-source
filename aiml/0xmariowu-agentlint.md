@@ -1,6 +1,6 @@
 # 0xmariowu/AgentLint
 
-[![Stars](https://img.shields.io/github/stars/0xmariowu/AgentLint?style=flat-square&color=yellow)](https://github.com/0xmariowu/AgentLint/stargazers) [![Forks](https://img.shields.io/github/forks/0xmariowu/AgentLint?style=flat-square&color=blue)](https://github.com/0xmariowu/AgentLint/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xmariowu/AgentLint?style=flat-square&color=yellow)](https://github.com/0xmariowu/AgentLint/stargazers) [![Forks](https://img.shields.io/github/forks/0xmariowu/AgentLint?style=flat-square&color=blue)](https://github.com/0xmariowu/AgentLint/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The linter for your agent harness. Works with Claude Code, Codex, and Cursor.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 22 |
+| ⭐ **Stars** | 23 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

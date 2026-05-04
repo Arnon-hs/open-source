@@ -27,11 +27,11 @@
 | 17 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 967 | TypeScript | 52/100 |
 | 18 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 52/100 |
 | 19 | [deadsy/sdfx](./deadsy-sdfx.md) | ⭐ 613 | Go | 51/100 |
-| 20 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 138 | MDX | 51/100 |
-| 21 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
-| 22 | [nil-go/konf](./nil-go-konf.md) | ⭐ 380 | Go | 49/100 |
-| 23 | [garritfra/cell](./garritfra-cell.md) | ⭐ 270 | Rust | 47/100 |
-| 24 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 121 | Rust | 47/100 |
+| 20 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 122 | Rust | 51/100 |
+| 21 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 138 | MDX | 51/100 |
+| 22 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
+| 23 | [nil-go/konf](./nil-go-konf.md) | ⭐ 380 | Go | 49/100 |
+| 24 | [garritfra/cell](./garritfra-cell.md) | ⭐ 270 | Rust | 47/100 |
 | 25 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 17 | — | 46/100 |
 | 26 | [angr/cle](./angr-cle.md) | ⭐ 480 | Python | 45/100 |
 | 27 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 338 | Go | 43/100 |

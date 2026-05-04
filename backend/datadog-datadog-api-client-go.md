@@ -1,6 +1,6 @@
 # DataDog/datadog-api-client-go
 
-[![Stars](https://img.shields.io/github/stars/DataDog/datadog-api-client-go?style=flat-square&color=yellow)](https://github.com/DataDog/datadog-api-client-go/stargazers) [![Forks](https://img.shields.io/github/forks/DataDog/datadog-api-client-go?style=flat-square&color=blue)](https://github.com/DataDog/datadog-api-client-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataDog/datadog-api-client-go?style=flat-square&color=yellow)](https://github.com/DataDog/datadog-api-client-go/stargazers) [![Forks](https://img.shields.io/github/forks/DataDog/datadog-api-client-go?style=flat-square&color=blue)](https://github.com/DataDog/datadog-api-client-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Golang client for the Datadog API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

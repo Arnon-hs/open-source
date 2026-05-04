@@ -1,6 +1,6 @@
 # ionic-team/ionic-docs
 
-[![Stars](https://img.shields.io/github/stars/ionic-team/ionic-docs?style=flat-square&color=yellow)](https://github.com/ionic-team/ionic-docs/stargazers) [![Forks](https://img.shields.io/github/forks/ionic-team/ionic-docs?style=flat-square&color=blue)](https://github.com/ionic-team/ionic-docs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ionic-team/ionic-docs?style=flat-square&color=yellow)](https://github.com/ionic-team/ionic-docs/stargazers) [![Forks](https://img.shields.io/github/forks/ionic-team/ionic-docs?style=flat-square&color=blue)](https://github.com/ionic-team/ionic-docs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 612 |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

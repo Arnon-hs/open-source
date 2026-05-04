@@ -25,7 +25,7 @@ DevTools · Data
 
 ## 📝 Summary
 
-The SAP/go-hdb project provides a client library for interacting with SAP HANA databases in Go programming language. This open-source library enables developers to easily connect to and query SAP HANA databases from their Go applications. It offers a seamless integration experience for Go developers working with SAP HANA databases.
+SAP/go-hdb is an open-source project that provides a client library for interacting with SAP HANA databases in Go applications. This library enables developers to connect to SAP HANA databases, execute queries, and retrieve results in a seamless and efficient manner. With SAP/go-hdb, developers can easily integrate SAP HANA functionality into their Go-based projects and applications.
 
 ---
 

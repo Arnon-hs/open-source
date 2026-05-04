@@ -1,6 +1,6 @@
 # tdurieux/anonymous_github
 
-[![Stars](https://img.shields.io/github/stars/tdurieux/anonymous_github?style=flat-square&color=yellow)](https://github.com/tdurieux/anonymous_github/stargazers) [![Forks](https://img.shields.io/github/forks/tdurieux/anonymous_github?style=flat-square&color=blue)](https://github.com/tdurieux/anonymous_github/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tdurieux/anonymous_github?style=flat-square&color=yellow)](https://github.com/tdurieux/anonymous_github/stargazers) [![Forks](https://img.shields.io/github/forks/tdurieux/anonymous_github?style=flat-square&color=blue)](https://github.com/tdurieux/anonymous_github/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 81 |
-| 💻 **Language** | JavaScript |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

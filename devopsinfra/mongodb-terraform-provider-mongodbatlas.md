@@ -1,6 +1,6 @@
 # mongodb/terraform-provider-mongodbatlas
 
-[![Stars](https://img.shields.io/github/stars/mongodb/terraform-provider-mongodbatlas?style=flat-square&color=yellow)](https://github.com/mongodb/terraform-provider-mongodbatlas/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb/terraform-provider-mongodbatlas?style=flat-square&color=blue)](https://github.com/mongodb/terraform-provider-mongodbatlas/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mongodb/terraform-provider-mongodbatlas?style=flat-square&color=yellow)](https://github.com/mongodb/terraform-provider-mongodbatlas/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb/terraform-provider-mongodbatlas?style=flat-square&color=blue)](https://github.com/mongodb/terraform-provider-mongodbatlas/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform MongoDB Atlas Provider: Deploy, update, and manage MongoDB Atlas infrastructure as code through HashiCorp Terraform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 274 |
 | 🍴 **Forks** | 213 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

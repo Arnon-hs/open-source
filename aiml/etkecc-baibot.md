@@ -1,6 +1,6 @@
 # etkecc/baibot
 
-[![Stars](https://img.shields.io/github/stars/etkecc/baibot?style=flat-square&color=yellow)](https://github.com/etkecc/baibot/stargazers) [![Forks](https://img.shields.io/github/forks/etkecc/baibot?style=flat-square&color=blue)](https://github.com/etkecc/baibot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/etkecc/baibot?style=flat-square&color=yellow)](https://github.com/etkecc/baibot/stargazers) [![Forks](https://img.shields.io/github/forks/etkecc/baibot?style=flat-square&color=blue)](https://github.com/etkecc/baibot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 A Matrix bot for using different capabilities (text-generation, text-to-speech, speech-to-text, image-generation, etc.) of AI / Large Language Models (OpenAI, Anthropic, etc.)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 220 |
+| ⭐ **Stars** | 221 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,9 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here is a summary for the Hypersequent/qasphere-mcp project:
 
-Hypersequent/qasphere-mcp is an open-source MCP (Message Control Protocol) server designed specifically for QA Sphere, a Transportation Management System (TMS). This project provides a backend solution for integrating with QA Sphere, enabling seamless communication and data exchange. With a focus on reliability and scalability, it serves as a valuable tool for developers and organizations utilizing QA Sphere.
+Hypersequent/qasphere-mcp is an open-source project that provides a MCP (Master Control Panel) Server for QA Sphere TMS, a transportation management system. This backend-focused project enables developers to build and integrate custom solutions with QA Sphere TMS. By utilizing the MCP Server, users can streamline their logistics operations and enhance overall system performance.
 
 ---
 

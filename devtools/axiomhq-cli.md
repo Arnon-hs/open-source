@@ -1,6 +1,6 @@
 # axiomhq/cli
 
-[![Stars](https://img.shields.io/github/stars/axiomhq/cli?style=flat-square&color=yellow)](https://github.com/axiomhq/cli/stargazers) [![Forks](https://img.shields.io/github/forks/axiomhq/cli?style=flat-square&color=blue)](https://github.com/axiomhq/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/axiomhq/cli?style=flat-square&color=yellow)](https://github.com/axiomhq/cli/stargazers) [![Forks](https://img.shields.io/github/forks/axiomhq/cli?style=flat-square&color=blue)](https://github.com/axiomhq/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The power of Axiom on the command line.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

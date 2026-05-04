@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Arize-skills is an open-source project that provides agent skills for Arize, enabling seamless integration of datasets, experiments, and traces via the ax CLI. This project streamlines the process of managing and monitoring AI/ML workflows, making it easier to orchestrate and optimize model development. By leveraging Arize-skills, developers can focus on building high-quality models without the hassle of manual data management.
+The Arize Skills project provides a set of open-source agent skills for Arize, enabling users to manage and interact with datasets, experiments, and traces directly via the Arize CLI (ax). This project streamlines AI/ML workflows, offering a unified interface for orchestration and development tooling. By leveraging Arize Skills, users can simplify and automate various tasks, enhancing overall efficiency in their machine learning pipelines.
 
 ---
 

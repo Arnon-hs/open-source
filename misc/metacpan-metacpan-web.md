@@ -1,6 +1,6 @@
 # metacpan/metacpan-web
 
-[![Stars](https://img.shields.io/github/stars/metacpan/metacpan-web?style=flat-square&color=yellow)](https://github.com/metacpan/metacpan-web/stargazers) [![Forks](https://img.shields.io/github/forks/metacpan/metacpan-web?style=flat-square&color=blue)](https://github.com/metacpan/metacpan-web/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/metacpan/metacpan-web?style=flat-square&color=yellow)](https://github.com/metacpan/metacpan-web/stargazers) [![Forks](https://img.shields.io/github/forks/metacpan/metacpan-web?style=flat-square&color=blue)](https://github.com/metacpan/metacpan-web/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Web interface for MetaCPAN
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 474 |
 | 🍴 **Forks** | 236 |
 | 💻 **Language** | Perl |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

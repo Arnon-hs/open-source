@@ -1,6 +1,6 @@
 # mukel/llama3.java
 
-[![Stars](https://img.shields.io/github/stars/mukel/llama3.java?style=flat-square&color=yellow)](https://github.com/mukel/llama3.java/stargazers) [![Forks](https://img.shields.io/github/forks/mukel/llama3.java?style=flat-square&color=blue)](https://github.com/mukel/llama3.java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mukel/llama3.java?style=flat-square&color=yellow)](https://github.com/mukel/llama3.java/stargazers) [![Forks](https://img.shields.io/github/forks/mukel/llama3.java?style=flat-square&color=blue)](https://github.com/mukel/llama3.java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Llama 3+ inference in pure Java
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 810 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

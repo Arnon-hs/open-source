@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The Christian Helle HTTP Generator project is an open-source tool that enables users to generate .http files from OpenAPI (Swagger) specifications. This tool allows developers to easily convert their API documentation into a human-readable, machine-understandable format, facilitating communication and collaboration within their development teams. By leveraging this project, developers can streamline their API development workflow.
+The christianhelle/httpgenerator project is an open-source tool that enables the automated generation of HTTP files from OpenAPI (Swagger) specifications. This feature allows developers to easily create and maintain API documentation in a standardized format. By leveraging OpenAPI specs, httpgenerator streamlines the process of creating and updating HTTP files, saving time and effort.
 
 ---
 

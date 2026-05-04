@@ -1,6 +1,6 @@
 # tikmatrix/tikmatrix-desktop
 
-[![Stars](https://img.shields.io/github/stars/tikmatrix/tikmatrix-desktop?style=flat-square&color=yellow)](https://github.com/tikmatrix/tikmatrix-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/tikmatrix/tikmatrix-desktop?style=flat-square&color=blue)](https://github.com/tikmatrix/tikmatrix-desktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tikmatrix/tikmatrix-desktop?style=flat-square&color=yellow)](https://github.com/tikmatrix/tikmatrix-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/tikmatrix/tikmatrix-desktop?style=flat-square&color=blue)](https://github.com/tikmatrix/tikmatrix-desktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > TikMatrix is a pc desktop software to automate TikTok on Android phones. Join Our Telegram Channel https://t.me/tikmatrix_agent_bot for daily tips on TikTok phone farming, automation tricks, and smart scaling strategies.   Let’s grow together! 🚀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

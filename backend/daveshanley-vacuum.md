@@ -1,6 +1,6 @@
 # daveshanley/vacuum
 
-[![Stars](https://img.shields.io/github/stars/daveshanley/vacuum?style=flat-square&color=yellow)](https://github.com/daveshanley/vacuum/stargazers) [![Forks](https://img.shields.io/github/forks/daveshanley/vacuum?style=flat-square&color=blue)](https://github.com/daveshanley/vacuum/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daveshanley/vacuum?style=flat-square&color=yellow)](https://github.com/daveshanley/vacuum/stargazers) [![Forks](https://img.shields.io/github/forks/daveshanley/vacuum?style=flat-square&color=blue)](https://github.com/daveshanley/vacuum/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > vacuum is the worlds fastest and most versatile OpenAPI linter and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rulesets, and OpenAPI 3.0, 3.1 and 3.2
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

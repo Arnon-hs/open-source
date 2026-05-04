@@ -1,6 +1,6 @@
 # jayu/rev-dep
 
-[![Stars](https://img.shields.io/github/stars/jayu/rev-dep?style=flat-square&color=yellow)](https://github.com/jayu/rev-dep/stargazers) [![Forks](https://img.shields.io/github/forks/jayu/rev-dep?style=flat-square&color=blue)](https://github.com/jayu/rev-dep/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jayu/rev-dep?style=flat-square&color=yellow)](https://github.com/jayu/rev-dep/stargazers) [![Forks](https://img.shields.io/github/forks/jayu/rev-dep?style=flat-square&color=blue)](https://github.com/jayu/rev-dep/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Dependency analysis and optimization toolkit for modern JavaScript and TypeScript codebases. Enforce dependency graph hygiene and remove unused code with a very fast CLI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 225 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

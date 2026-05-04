@@ -25,7 +25,7 @@ DevTools · Data
 
 ## 📝 Summary
 
-This project, MaxMind-DB, provides open-source specifications and test data for the MaxMind DB file format, a widely used geolocation database format. It allows developers to create, test, and verify the integrity of MaxMind DB files, facilitating the integration of geolocation data into various applications and systems. By contributing to this project, developers can help ensure the accuracy and compatibility of geolocation data across different platforms.
+The MaxMind-DB project is an open-source repository that provides specifications and test data for the MaxMind DB file format. This file format is used for geolocation data storage and retrieval, enabling developers to access and utilize geolocation information for various applications. The project aims to facilitate the adoption and maintenance of the MaxMind DB format.
 
 ---
 

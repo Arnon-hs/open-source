@@ -1,6 +1,6 @@
 # kstevica/captain-claw
 
-[![Stars](https://img.shields.io/github/stars/kstevica/captain-claw?style=flat-square&color=yellow)](https://github.com/kstevica/captain-claw/stargazers) [![Forks](https://img.shields.io/github/forks/kstevica/captain-claw?style=flat-square&color=blue)](https://github.com/kstevica/captain-claw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kstevica/captain-claw?style=flat-square&color=yellow)](https://github.com/kstevica/captain-claw/stargazers) [![Forks](https://img.shields.io/github/forks/kstevica/captain-claw?style=flat-square&color=blue)](https://github.com/kstevica/captain-claw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent with multi-agent orchestration, autonomous cognitive systems, and a full management dashboard
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 32 |
+| ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

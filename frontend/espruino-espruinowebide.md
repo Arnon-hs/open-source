@@ -1,6 +1,6 @@
 # espruino/EspruinoWebIDE
 
-[![Stars](https://img.shields.io/github/stars/espruino/EspruinoWebIDE?style=flat-square&color=yellow)](https://github.com/espruino/EspruinoWebIDE/stargazers) [![Forks](https://img.shields.io/github/forks/espruino/EspruinoWebIDE?style=flat-square&color=blue)](https://github.com/espruino/EspruinoWebIDE/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/espruino/EspruinoWebIDE?style=flat-square&color=yellow)](https://github.com/espruino/EspruinoWebIDE/stargazers) [![Forks](https://img.shields.io/github/forks/espruino/EspruinoWebIDE?style=flat-square&color=blue)](https://github.com/espruino/EspruinoWebIDE/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > The Espruino Web IDE - A Chrome Web App for programming Espruino
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 385 |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # zscaler/zscaler-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/zscaler/zscaler-mcp-server?style=flat-square&color=yellow)](https://github.com/zscaler/zscaler-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/zscaler/zscaler-mcp-server?style=flat-square&color=blue)](https://github.com/zscaler/zscaler-mcp-server/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zscaler/zscaler-mcp-server?style=flat-square&color=yellow)](https://github.com/zscaler/zscaler-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/zscaler/zscaler-mcp-server?style=flat-square&color=blue)](https://github.com/zscaler/zscaler-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Zscaler Integration MCP Server is a Model Context Protocol (MCP) server designed for managing Several Zscaler Products using Large Language Models (LLMs).
 
@@ -10,8 +10,8 @@
 |---|---|
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 16 |
-| 💻 **Language** | HTML |
-| 📈 **Score** | 46/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

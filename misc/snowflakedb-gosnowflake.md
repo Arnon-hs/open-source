@@ -1,6 +1,6 @@
 # snowflakedb/gosnowflake
 
-[![Stars](https://img.shields.io/github/stars/snowflakedb/gosnowflake?style=flat-square&color=yellow)](https://github.com/snowflakedb/gosnowflake/stargazers) [![Forks](https://img.shields.io/github/forks/snowflakedb/gosnowflake?style=flat-square&color=blue)](https://github.com/snowflakedb/gosnowflake/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/snowflakedb/gosnowflake?style=flat-square&color=yellow)](https://github.com/snowflakedb/gosnowflake/stargazers) [![Forks](https://img.shields.io/github/forks/snowflakedb/gosnowflake?style=flat-square&color=blue)](https://github.com/snowflakedb/gosnowflake/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Go Snowflake Driver
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 356 |
-| 🍴 **Forks** | 164 |
+| 🍴 **Forks** | 165 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The rdkit-mcp-server is an open-source project that facilitates interaction between language models and the RDKit toolkit through natural language processing. This MCP server enables seamless communication, allowing language models to query and manipulate chemical structures using simple language inputs. By bridging the gap between AI and chemistry, the rdkit-mcp-server empowers developers to leverage the strengths of both disciplines.
+Here's a brief summary for the open-source project:
+
+The rdkit-mcp-server is an open-source project that enables seamless communication between language models and RDKit, allowing for natural language interactions with chemical structures and molecular properties. This server facilitates the use of RDKit's powerful cheminformatics capabilities through intuitive, human-like conversations. By bridging the gap between AI and cheminformatics, the rdkit-mcp-server empowers researchers and developers to create more efficient and effective applications in the field of cheminformatics and materials science.
 
 ---
 

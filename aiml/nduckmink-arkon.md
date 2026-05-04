@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Arkon is an open-source platform that enables organizations to centrally manage employee access to Claude, a cutting-edge AI technology. With Arkon, administrators can easily govern knowledge, skills, and access policies from a single intuitive portal, streamlining employee experiences and reducing complexity. This centralized management solution eliminates manual configuration and context switching, promoting seamless AI adoption within organizations.
+Here's a 2-3 sentence summary for the nduckmink/arkon project:
+
+Arkon is an open-source platform that enables organizations to centrally manage the use of Claude, a powerful AI tool, across their workforce. Admins can easily manage knowledge, skills, and access policies from a single portal, streamlining employee access and context. This platform eliminates the need for manual configuration and context switching, making it easier for employees to work efficiently with Claude.
 
 ---
 

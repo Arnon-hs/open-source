@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-TypeChat is an open-source library designed to facilitate the creation of natural language interfaces by utilizing type-based approaches. This project simplifies the process of building conversational interfaces, making it easier for developers to integrate AI and machine learning capabilities into their frontend applications. By leveraging types, TypeChat enables developers to craft more intuitive and user-friendly natural language interfaces.
+TypeChat is an open-source library that enables developers to create natural language interfaces using types, streamlining the process of building conversational interfaces. By leveraging this library, developers can easily integrate AI-powered chat functionality into their applications, enhancing user interaction and experience. This library facilitates the development of intuitive interfaces that understand and respond to user inputs in a more human-like manner.
 
 ---
 

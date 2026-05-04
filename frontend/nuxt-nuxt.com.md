@@ -1,6 +1,6 @@
 # nuxt/nuxt.com
 
-[![Stars](https://img.shields.io/github/stars/nuxt/nuxt.com?style=flat-square&color=yellow)](https://github.com/nuxt/nuxt.com/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt/nuxt.com?style=flat-square&color=blue)](https://github.com/nuxt/nuxt.com/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nuxt/nuxt.com?style=flat-square&color=yellow)](https://github.com/nuxt/nuxt.com/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt/nuxt.com?style=flat-square&color=blue)](https://github.com/nuxt/nuxt.com/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The Nuxt website, made with Nuxt.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 445 |
 | 🍴 **Forks** | 253 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

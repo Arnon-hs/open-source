@@ -1,6 +1,6 @@
 # coduo/php-matcher
 
-[![Stars](https://img.shields.io/github/stars/coduo/php-matcher?style=flat-square&color=yellow)](https://github.com/coduo/php-matcher/stargazers) [![Forks](https://img.shields.io/github/forks/coduo/php-matcher?style=flat-square&color=blue)](https://github.com/coduo/php-matcher/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coduo/php-matcher?style=flat-square&color=yellow)](https://github.com/coduo/php-matcher/stargazers) [![Forks](https://img.shields.io/github/forks/coduo/php-matcher?style=flat-square&color=blue)](https://github.com/coduo/php-matcher/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 844 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # savannah-i-g/TSUKUYOMI
 
-[![Stars](https://img.shields.io/github/stars/savannah-i-g/TSUKUYOMI?style=flat-square&color=yellow)](https://github.com/savannah-i-g/TSUKUYOMI/stargazers) [![Forks](https://img.shields.io/github/forks/savannah-i-g/TSUKUYOMI?style=flat-square&color=blue)](https://github.com/savannah-i-g/TSUKUYOMI/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/savannah-i-g/TSUKUYOMI?style=flat-square&color=yellow)](https://github.com/savannah-i-g/TSUKUYOMI/stargazers) [![Forks](https://img.shields.io/github/forks/savannah-i-g/TSUKUYOMI?style=flat-square&color=blue)](https://github.com/savannah-i-g/TSUKUYOMI/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ##Note: this is really old now, and the janky pseudo methods are probably only working out of sheer coincidence. This was an early experiment in how jargon & combinations of artificial weights in pseudocode can influence LLM behaviour without retraining. This was probably ahead of its time
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

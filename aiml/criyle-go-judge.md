@@ -1,6 +1,6 @@
 # criyle/go-judge
 
-[![Stars](https://img.shields.io/github/stars/criyle/go-judge?style=flat-square&color=yellow)](https://github.com/criyle/go-judge/stargazers) [![Forks](https://img.shields.io/github/forks/criyle/go-judge?style=flat-square&color=blue)](https://github.com/criyle/go-judge/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/criyle/go-judge?style=flat-square&color=yellow)](https://github.com/criyle/go-judge/stargazers) [![Forks](https://img.shields.io/github/forks/criyle/go-judge?style=flat-square&color=blue)](https://github.com/criyle/go-judge/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Sandbox service built on Linux container technologies with simple REST and gRPC API
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 595 |
+| ⭐ **Stars** | 596 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

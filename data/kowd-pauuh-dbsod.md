@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-A major update has been released for Dbsod, an open-source density-based spatial outlier detection algorithm designed for data science applications. This update aims to improve the accuracy and efficiency of the algorithm, enabling users to effectively identify and analyze spatial outliers in large datasets. By leveraging density-based approaches, Dbsod provides a robust solution for anomaly detection in data-driven projects.
+The Dbsod project presents a major update to Density-Based Spatial Outlier Detection, a data science technique used to identify anomalies in spatial data. This update aims to improve the accuracy and efficiency of the algorithm, making it a valuable tool for data analysts and researchers working with geospatial datasets. By leveraging open-source development, the Dbsod project facilitates community-driven innovation and collaboration in the field of spatial data analysis.
 
 ---
 

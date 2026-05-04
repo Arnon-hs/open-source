@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Logram is an open-source, terminal-based log navigator that allows users to filter and organize their logs in a modular and efficient manner. This tool is designed to simplify the process of navigating through complex log files, providing a user-friendly interface for developers to quickly identify and address issues. Logram's modularity and filterability make it a valuable asset for any development workflow.
+Logram is an open-source terminal-based log navigator that allows for filterable and modular navigation. This project enables users to efficiently manage and analyze logs with its customizable filtering capabilities. By providing a user-friendly interface for terminal-based log navigation, Logram streamlines the process of log analysis and troubleshooting.
 
 ---
 

@@ -1,6 +1,6 @@
 # indico/indico
 
-[![Stars](https://img.shields.io/github/stars/indico/indico?style=flat-square&color=yellow)](https://github.com/indico/indico/stargazers) [![Forks](https://img.shields.io/github/forks/indico/indico?style=flat-square&color=blue)](https://github.com/indico/indico/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/indico/indico?style=flat-square&color=yellow)](https://github.com/indico/indico/stargazers) [![Forks](https://img.shields.io/github/forks/indico/indico?style=flat-square&color=blue)](https://github.com/indico/indico/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Indico - A feature-rich event management system, made @ CERN, the place where the Web was born.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 526 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

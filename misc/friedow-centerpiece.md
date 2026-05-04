@@ -1,6 +1,6 @@
 # friedow/centerpiece
 
-[![Stars](https://img.shields.io/github/stars/friedow/centerpiece?style=flat-square&color=yellow)](https://github.com/friedow/centerpiece/stargazers) [![Forks](https://img.shields.io/github/forks/friedow/centerpiece?style=flat-square&color=blue)](https://github.com/friedow/centerpiece/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/friedow/centerpiece?style=flat-square&color=yellow)](https://github.com/friedow/centerpiece/stargazers) [![Forks](https://img.shields.io/github/forks/friedow/centerpiece?style=flat-square&color=blue)](https://github.com/friedow/centerpiece/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Your trusty omnibox search.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 232 |
+| ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

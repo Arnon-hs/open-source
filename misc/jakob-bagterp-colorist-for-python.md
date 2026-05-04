@@ -1,6 +1,6 @@
 # jakob-bagterp/colorist-for-python
 
-[![Stars](https://img.shields.io/github/stars/jakob-bagterp/colorist-for-python?style=flat-square&color=yellow)](https://github.com/jakob-bagterp/colorist-for-python/stargazers) [![Forks](https://img.shields.io/github/forks/jakob-bagterp/colorist-for-python?style=flat-square&color=blue)](https://github.com/jakob-bagterp/colorist-for-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jakob-bagterp/colorist-for-python?style=flat-square&color=yellow)](https://github.com/jakob-bagterp/colorist-for-python/stargazers) [![Forks](https://img.shields.io/github/forks/jakob-bagterp/colorist-for-python?style=flat-square&color=blue)](https://github.com/jakob-bagterp/colorist-for-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 🌈 Lightweight package that makes it easy and fast to print colored text in the terminal 🌈
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

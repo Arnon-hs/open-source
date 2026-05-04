@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
+Here's a brief summary of the project:
 
-The Douyin Smart Feed Assistant is an open-source tool that optimizes TikTok video recommendations based on users' interests, helping to break through information silos and create personalized feed streams. This AI/ML project aims to improve the user experience by providing a more tailored and engaging feed. By focusing on individual interests, it seeks to reshape the way users interact with the platform.
+The Douyin-Smart-Feed-Assistant is an open-source tool for optimizing and personalizing video feeds on Douyin (TikTok), focusing on users' interests and breaking through information bubbles. This AI-powered assistant aims to reshape and enhance the user experience by providing a tailored and engaging feed. By leveraging machine learning, it helps users discover new content and interests.
 
 ---
 

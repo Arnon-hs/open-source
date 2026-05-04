@@ -1,6 +1,6 @@
 # tiffany352/rink-rs
 
-[![Stars](https://img.shields.io/github/stars/tiffany352/rink-rs?style=flat-square&color=yellow)](https://github.com/tiffany352/rink-rs/stargazers) [![Forks](https://img.shields.io/github/forks/tiffany352/rink-rs?style=flat-square&color=blue)](https://github.com/tiffany352/rink-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tiffany352/rink-rs?style=flat-square&color=yellow)](https://github.com/tiffany352/rink-rs/stargazers) [![Forks](https://img.shields.io/github/forks/tiffany352/rink-rs?style=flat-square&color=blue)](https://github.com/tiffany352/rink-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Unit conversion tool and library written in rust. Repo moving to Codeberg: https://codeberg.org/tiffany/rink
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 582 |
+| ⭐ **Stars** | 581 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

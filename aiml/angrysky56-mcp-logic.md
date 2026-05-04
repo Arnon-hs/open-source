@@ -1,6 +1,6 @@
 # angrysky56/mcp-logic
 
-[![Stars](https://img.shields.io/github/stars/angrysky56/mcp-logic?style=flat-square&color=yellow)](https://github.com/angrysky56/mcp-logic/stargazers) [![Forks](https://img.shields.io/github/forks/angrysky56/mcp-logic?style=flat-square&color=blue)](https://github.com/angrysky56/mcp-logic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/angrysky56/mcp-logic?style=flat-square&color=yellow)](https://github.com/angrysky56/mcp-logic/stargazers) [![Forks](https://img.shields.io/github/forks/angrysky56/mcp-logic?style=flat-square&color=blue)](https://github.com/angrysky56/mcp-logic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Fully functional AI Logic Calculator utilizing Prover9/Mace4 via Python based Model Context Protocol (MCP-Server)- tool for Windows, Linux, Claude App etc
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

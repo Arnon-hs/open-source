@@ -1,6 +1,6 @@
 # reubeno/brush
 
-[![Stars](https://img.shields.io/github/stars/reubeno/brush?style=flat-square&color=yellow)](https://github.com/reubeno/brush/stargazers) [![Forks](https://img.shields.io/github/forks/reubeno/brush?style=flat-square&color=blue)](https://github.com/reubeno/brush/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reubeno/brush?style=flat-square&color=yellow)](https://github.com/reubeno/brush/stargazers) [![Forks](https://img.shields.io/github/forks/reubeno/brush?style=flat-square&color=blue)](https://github.com/reubeno/brush/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.5k |
+| ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

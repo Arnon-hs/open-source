@@ -1,6 +1,6 @@
 # attilaszasz/sdd-pilot
 
-[![Stars](https://img.shields.io/github/stars/attilaszasz/sdd-pilot?style=flat-square&color=yellow)](https://github.com/attilaszasz/sdd-pilot/stargazers) [![Forks](https://img.shields.io/github/forks/attilaszasz/sdd-pilot?style=flat-square&color=blue)](https://github.com/attilaszasz/sdd-pilot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/attilaszasz/sdd-pilot?style=flat-square&color=yellow)](https://github.com/attilaszasz/sdd-pilot/stargazers) [![Forks](https://img.shields.io/github/forks/attilaszasz/sdd-pilot?style=flat-square&color=blue)](https://github.com/attilaszasz/sdd-pilot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Replace chaotic AI code generation with a disciplined, spec-driven workflow. SDD Pilot enforces structured development phases and quality gates, leveraging AI agents to conduct online research for best practices and plan your architecture before a single line of code is written.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

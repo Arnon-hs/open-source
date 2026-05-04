@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Ocular is an open-source budgeting tracking app designed for simplicity and ease of use. This application allows users to track their budget across multiple years, providing a straightforward and beautiful user experience. Ocular is a great option for those looking for a user-friendly solution to manage their finances.
+Ocular is a user-friendly, open-source budgeting tracking application that enables users to monitor their financial situation across multiple years. This straightforward app simplifies the process of getting started and setting up a budget, making it accessible to a wide range of users. With its simple and beautiful interface, Ocular provides a comprehensive tool for managing one's finances.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Ctify_: is an open-source, PHP-based wiki that offers a lightweight alternative for creating and managing online content. Forked from the popular PmWiki, Ctify_ aims to provide a simplified and efficient way to build and share knowledge through a wiki platform. Its open-source nature allows for community-driven development and customization.
+Ctify_ is a lightweight, open-source wiki platform built with PHP, derived from the popular PmWiki. This project offers a customizable and flexible solution for creating and managing online knowledge bases, making it suitable for various uses, from personal note-taking to collaborative documentation. With its PHP-based architecture, Ctify_ provides a reliable and efficient platform for users to create and share content.
 
 ---
 

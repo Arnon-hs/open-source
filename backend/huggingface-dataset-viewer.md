@@ -1,6 +1,6 @@
 # huggingface/dataset-viewer
 
-[![Stars](https://img.shields.io/github/stars/huggingface/dataset-viewer?style=flat-square&color=yellow)](https://github.com/huggingface/dataset-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/dataset-viewer?style=flat-square&color=blue)](https://github.com/huggingface/dataset-viewer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/dataset-viewer?style=flat-square&color=yellow)](https://github.com/huggingface/dataset-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/dataset-viewer?style=flat-square&color=blue)](https://github.com/huggingface/dataset-viewer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Backend that powers the dataset viewer on Hugging Face dataset pages through a public API.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 857 |
-| 🍴 **Forks** | 111 |
+| 🍴 **Forks** | 112 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # barbacane-dev/barbacane
 
-[![Stars](https://img.shields.io/github/stars/barbacane-dev/barbacane?style=flat-square&color=yellow)](https://github.com/barbacane-dev/barbacane/stargazers) [![Forks](https://img.shields.io/github/forks/barbacane-dev/barbacane?style=flat-square&color=blue)](https://github.com/barbacane-dev/barbacane/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/barbacane-dev/barbacane?style=flat-square&color=yellow)](https://github.com/barbacane-dev/barbacane/stargazers) [![Forks](https://img.shields.io/github/forks/barbacane-dev/barbacane?style=flat-square&color=blue)](https://github.com/barbacane-dev/barbacane/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Barbacane API and Bidirectional AI Gateway
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

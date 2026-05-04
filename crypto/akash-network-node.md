@@ -1,6 +1,6 @@
 # akash-network/node
 
-[![Stars](https://img.shields.io/github/stars/akash-network/node?style=flat-square&color=yellow)](https://github.com/akash-network/node/stargazers) [![Forks](https://img.shields.io/github/forks/akash-network/node?style=flat-square&color=blue)](https://github.com/akash-network/node/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akash-network/node?style=flat-square&color=yellow)](https://github.com/akash-network/node/stargazers) [![Forks](https://img.shields.io/github/forks/akash-network/node?style=flat-square&color=blue)](https://github.com/akash-network/node/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Source code for Akash node, a secure, transparent, and peer-to-peer cloud computing network
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 266 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

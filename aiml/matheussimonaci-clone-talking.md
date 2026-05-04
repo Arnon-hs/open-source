@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Clone Talking is an open-source project that enables real-time voice conversations with AI persona clones. This innovative technology allows users to interact with digital entities that mimic human-like conversations, opening up new possibilities for applications such as customer service, language learning, and more. By harnessing the power of AI and machine learning, Clone Talking provides a unique platform for exploring the frontiers of human-computer interaction.
+Clone Talking is an open-source project that enables real-time voice conversations between humans and AI-powered persona clones. This innovative project leverages AI and machine learning to create personalized and interactive conversational experiences. By facilitating human-AI interactions, Clone Talking has the potential to revolutionize areas such as customer service, education, and entertainment.
 
 ---
 

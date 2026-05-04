@@ -1,6 +1,6 @@
 # promhippie/github_exporter
 
-[![Stars](https://img.shields.io/github/stars/promhippie/github_exporter?style=flat-square&color=yellow)](https://github.com/promhippie/github_exporter/stargazers) [![Forks](https://img.shields.io/github/forks/promhippie/github_exporter?style=flat-square&color=blue)](https://github.com/promhippie/github_exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/promhippie/github_exporter?style=flat-square&color=yellow)](https://github.com/promhippie/github_exporter/stargazers) [![Forks](https://img.shields.io/github/forks/promhippie/github_exporter?style=flat-square&color=blue)](https://github.com/promhippie/github_exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Prometheus exporter for GitHub
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

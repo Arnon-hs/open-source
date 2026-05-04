@@ -1,6 +1,6 @@
 # OnChainMee/blockchain-projects
 
-[![Stars](https://img.shields.io/github/stars/OnChainMee/blockchain-projects?style=flat-square&color=yellow)](https://github.com/OnChainMee/blockchain-projects/stargazers) [![Forks](https://img.shields.io/github/forks/OnChainMee/blockchain-projects?style=flat-square&color=blue)](https://github.com/OnChainMee/blockchain-projects/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OnChainMee/blockchain-projects?style=flat-square&color=yellow)](https://github.com/OnChainMee/blockchain-projects/stargazers) [![Forks](https://img.shields.io/github/forks/OnChainMee/blockchain-projects?style=flat-square&color=blue)](https://github.com/OnChainMee/blockchain-projects/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Blockchain AI Architect Portfolio: Solana, EVM (Base, ApeChain), Bitcoin dApps | Smart Contracts, DeFi, NFT Marketplace, P2E Games, AI Agents, Non-Custodial Casino, AI Agent, Token Launchpad, Dex, NFT Game, Casino, Betting, RWA, Non Custodial Staking, GameFi, NFT Marketplace, Lending Protocal, dApps | Smart Contracts, DeFi, NFT Marketplace, Casino
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

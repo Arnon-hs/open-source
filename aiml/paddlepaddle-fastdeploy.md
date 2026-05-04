@@ -1,6 +1,6 @@
 # PaddlePaddle/FastDeploy
 
-[![Stars](https://img.shields.io/github/stars/PaddlePaddle/FastDeploy?style=flat-square&color=yellow)](https://github.com/PaddlePaddle/FastDeploy/stargazers) [![Forks](https://img.shields.io/github/forks/PaddlePaddle/FastDeploy?style=flat-square&color=blue)](https://github.com/PaddlePaddle/FastDeploy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaddlePaddle/FastDeploy?style=flat-square&color=yellow)](https://github.com/PaddlePaddle/FastDeploy/stargazers) [![Forks](https://img.shields.io/github/forks/PaddlePaddle/FastDeploy?style=flat-square&color=blue)](https://github.com/PaddlePaddle/FastDeploy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 743 |
+| 🍴 **Forks** | 744 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # sdsrss/code-graph-mcp
 
-[![Stars](https://img.shields.io/github/stars/sdsrss/code-graph-mcp?style=flat-square&color=yellow)](https://github.com/sdsrss/code-graph-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sdsrss/code-graph-mcp?style=flat-square&color=blue)](https://github.com/sdsrss/code-graph-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sdsrss/code-graph-mcp?style=flat-square&color=yellow)](https://github.com/sdsrss/code-graph-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sdsrss/code-graph-mcp?style=flat-square&color=blue)](https://github.com/sdsrss/code-graph-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > AST knowledge graph MCP server for Claude Code — semantic search, call graph traversal, HTTP route tracing, impact analysis. Auto-indexes 10 languages via Tree-sitter.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

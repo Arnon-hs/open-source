@@ -1,6 +1,6 @@
 # OneSignal/react-native-onesignal
 
-[![Stars](https://img.shields.io/github/stars/OneSignal/react-native-onesignal?style=flat-square&color=yellow)](https://github.com/OneSignal/react-native-onesignal/stargazers) [![Forks](https://img.shields.io/github/forks/OneSignal/react-native-onesignal?style=flat-square&color=blue)](https://github.com/OneSignal/react-native-onesignal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OneSignal/react-native-onesignal?style=flat-square&color=yellow)](https://github.com/OneSignal/react-native-onesignal/stargazers) [![Forks](https://img.shields.io/github/forks/OneSignal/react-native-onesignal?style=flat-square&color=blue)](https://github.com/OneSignal/react-native-onesignal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > React Native Library for OneSignal Push Notifications Service
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 379 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

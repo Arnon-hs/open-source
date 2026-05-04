@@ -1,6 +1,6 @@
 # grafviktor/goto
 
-[![Stars](https://img.shields.io/github/stars/grafviktor/goto?style=flat-square&color=yellow)](https://github.com/grafviktor/goto/stargazers) [![Forks](https://img.shields.io/github/forks/grafviktor/goto?style=flat-square&color=blue)](https://github.com/grafviktor/goto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafviktor/goto?style=flat-square&color=yellow)](https://github.com/grafviktor/goto/stargazers) [![Forks](https://img.shields.io/github/forks/grafviktor/goto?style=flat-square&color=blue)](https://github.com/grafviktor/goto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Easy to use terminal SSH manager with advanced features. Binaries included! 😉
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 520 |
+| ⭐ **Stars** | 521 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

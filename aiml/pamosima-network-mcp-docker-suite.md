@@ -1,6 +1,6 @@
 # pamosima/network-mcp-docker-suite
 
-[![Stars](https://img.shields.io/github/stars/pamosima/network-mcp-docker-suite?style=flat-square&color=yellow)](https://github.com/pamosima/network-mcp-docker-suite/stargazers) [![Forks](https://img.shields.io/github/forks/pamosima/network-mcp-docker-suite?style=flat-square&color=blue)](https://github.com/pamosima/network-mcp-docker-suite/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pamosima/network-mcp-docker-suite?style=flat-square&color=yellow)](https://github.com/pamosima/network-mcp-docker-suite/stargazers) [![Forks](https://img.shields.io/github/forks/pamosima/network-mcp-docker-suite?style=flat-square&color=blue)](https://github.com/pamosima/network-mcp-docker-suite/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Docker-based MCP server suite for AIOps - Cisco Meraki, Catalyst Center, IOS XE, ISE, ThousandEyes, Splunk & NetBox. AI-ready with LibreChat integration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

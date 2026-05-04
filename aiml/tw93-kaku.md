@@ -1,6 +1,6 @@
 # tw93/Kaku
 
-[![Stars](https://img.shields.io/github/stars/tw93/Kaku?style=flat-square&color=yellow)](https://github.com/tw93/Kaku/stargazers) [![Forks](https://img.shields.io/github/forks/tw93/Kaku?style=flat-square&color=blue)](https://github.com/tw93/Kaku/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tw93/Kaku?style=flat-square&color=yellow)](https://github.com/tw93/Kaku/stargazers) [![Forks](https://img.shields.io/github/forks/tw93/Kaku?style=flat-square&color=blue)](https://github.com/tw93/Kaku/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > 🎃 A fast, out-of-the-box terminal built for AI coding.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.8k |
+| ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # cnoe-io/ai-platform-engineering
 
-[![Stars](https://img.shields.io/github/stars/cnoe-io/ai-platform-engineering?style=flat-square&color=yellow)](https://github.com/cnoe-io/ai-platform-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/cnoe-io/ai-platform-engineering?style=flat-square&color=blue)](https://github.com/cnoe-io/ai-platform-engineering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cnoe-io/ai-platform-engineering?style=flat-square&color=yellow)](https://github.com/cnoe-io/ai-platform-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/cnoe-io/ai-platform-engineering?style=flat-square&color=blue)](https://github.com/cnoe-io/ai-platform-engineering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > CAIPE: Community AI Platform Engineering Multi-Agent Systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 357 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

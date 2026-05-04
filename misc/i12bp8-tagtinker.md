@@ -1,6 +1,6 @@
 # i12bp8/TagTinker
 
-[![Stars](https://img.shields.io/github/stars/i12bp8/TagTinker?style=flat-square&color=yellow)](https://github.com/i12bp8/TagTinker/stargazers) [![Forks](https://img.shields.io/github/forks/i12bp8/TagTinker?style=flat-square&color=blue)](https://github.com/i12bp8/TagTinker/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/i12bp8/TagTinker?style=flat-square&color=yellow)](https://github.com/i12bp8/TagTinker/stargazers) [![Forks](https://img.shields.io/github/forks/i12bp8/TagTinker?style=flat-square&color=blue)](https://github.com/i12bp8/TagTinker/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 101 |
+| 🍴 **Forks** | 104 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

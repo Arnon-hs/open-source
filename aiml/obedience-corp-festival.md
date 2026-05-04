@@ -1,6 +1,6 @@
 # Obedience-Corp/festival
 
-[![Stars](https://img.shields.io/github/stars/Obedience-Corp/festival?style=flat-square&color=yellow)](https://github.com/Obedience-Corp/festival/stargazers) [![Forks](https://img.shields.io/github/forks/Obedience-Corp/festival?style=flat-square&color=blue)](https://github.com/Obedience-Corp/festival/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Obedience-Corp/festival?style=flat-square&color=yellow)](https://github.com/Obedience-Corp/festival/stargazers) [![Forks](https://img.shields.io/github/forks/Obedience-Corp/festival?style=flat-square&color=blue)](https://github.com/Obedience-Corp/festival/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Organized AI Workspace | Complex Multi Phase Planning | Auditable Agent Workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

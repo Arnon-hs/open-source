@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-This open-source project provides a comprehensive load testing framework for SFTP, FTP, and FTPS protocols, allowing developers to simulate heavy loads and stress test their file transfer infrastructure. The tool enables the evaluation of system performance under various conditions, helping to identify scalability issues and optimize file transfer operations. By leveraging this project, users can ensure the reliability and efficiency of their file transfer systems.
+This open-source project is a load testing tool designed to evaluate the performance and scalability of SFTP, FTP, and FTPS servers under heavy loads. It allows users to simulate a large number of concurrent connections and file transfers to identify potential bottlenecks and areas for improvement. By providing a realistic load testing experience, this tool helps developers and administrators optimize the reliability and efficiency of their file transfer infrastructure.
 
 ---
 

@@ -1,6 +1,6 @@
 # zli12321/Vision-Language-Models-Overview
 
-[![Stars](https://img.shields.io/github/stars/zli12321/Vision-Language-Models-Overview?style=flat-square&color=yellow)](https://github.com/zli12321/Vision-Language-Models-Overview/stargazers) [![Forks](https://img.shields.io/github/forks/zli12321/Vision-Language-Models-Overview?style=flat-square&color=blue)](https://github.com/zli12321/Vision-Language-Models-Overview/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zli12321/Vision-Language-Models-Overview?style=flat-square&color=yellow)](https://github.com/zli12321/Vision-Language-Models-Overview/stargazers) [![Forks](https://img.shields.io/github/forks/zli12321/Vision-Language-Models-Overview?style=flat-square&color=blue)](https://github.com/zli12321/Vision-Language-Models-Overview/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A most Frontend Collection and survey of vision-language model papers, and models GitHub repository. Continuous updates.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 577 |
+| ⭐ **Stars** | 578 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # kwent/syno
 
-[![Stars](https://img.shields.io/github/stars/kwent/syno?style=flat-square&color=yellow)](https://github.com/kwent/syno/stargazers) [![Forks](https://img.shields.io/github/forks/kwent/syno?style=flat-square&color=blue)](https://github.com/kwent/syno/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kwent/syno?style=flat-square&color=yellow)](https://github.com/kwent/syno/stargazers) [![Forks](https://img.shields.io/github/forks/kwent/syno?style=flat-square&color=blue)](https://github.com/kwent/syno/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Simple Node.js wrapper and CLI for Synology  DSM REST API 5.x and 6.x.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

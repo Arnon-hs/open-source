@@ -1,6 +1,6 @@
 # Respect/Validation
 
-[![Stars](https://img.shields.io/github/stars/Respect/Validation?style=flat-square&color=yellow)](https://github.com/Respect/Validation/stargazers) [![Forks](https://img.shields.io/github/forks/Respect/Validation?style=flat-square&color=blue)](https://github.com/Respect/Validation/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Respect/Validation?style=flat-square&color=yellow)](https://github.com/Respect/Validation/stargazers) [![Forks](https://img.shields.io/github/forks/Respect/Validation?style=flat-square&color=blue)](https://github.com/Respect/Validation/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
 > The most awesome validation engine ever created for PHP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 773 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 91/100 |
+| 📈 **Score** | 95/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
