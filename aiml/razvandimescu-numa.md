@@ -1,6 +1,6 @@
 # razvandimescu/numa
 
-[![Stars](https://img.shields.io/github/stars/razvandimescu/numa?style=flat-square&color=yellow)](https://github.com/razvandimescu/numa/stargazers) [![Forks](https://img.shields.io/github/forks/razvandimescu/numa?style=flat-square&color=blue)](https://github.com/razvandimescu/numa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/razvandimescu/numa?style=flat-square&color=yellow)](https://github.com/razvandimescu/numa/stargazers) [![Forks](https://img.shields.io/github/forks/razvandimescu/numa?style=flat-square&color=blue)](https://github.com/razvandimescu/numa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 945 |
+| ⭐ **Stars** | 951 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

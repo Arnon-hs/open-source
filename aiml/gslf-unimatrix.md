@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-UNIMATRIx is an open-source project that simulates a society of AI agents, allowing researchers to study and analyze the behavior of artificial intelligence in complex, dynamic environments. The project provides a unique platform for investigating AI interactions, decision-making processes, and emergent behaviors. By leveraging this system, developers can gain insights into the development and control of AI societies.
+UNIMATRIx is an open-source project that introduces a society of AI agents, allowing researchers and developers to explore and experiment with decentralized AI systems. This project enables the creation of a dynamic, adaptive environment where AI agents interact and learn from one another, providing a unique framework for studying AI behavior and collaboration. By leveraging this platform, users can investigate complex AI phenomena and push the boundaries of artificial intelligence research.
 
 ---
 

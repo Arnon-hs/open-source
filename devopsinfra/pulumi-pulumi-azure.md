@@ -1,6 +1,6 @@
 # pulumi/pulumi-azure
 
-[![Stars](https://img.shields.io/github/stars/pulumi/pulumi-azure?style=flat-square&color=yellow)](https://github.com/pulumi/pulumi-azure/stargazers) [![Forks](https://img.shields.io/github/forks/pulumi/pulumi-azure?style=flat-square&color=blue)](https://github.com/pulumi/pulumi-azure/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pulumi/pulumi-azure?style=flat-square&color=yellow)](https://github.com/pulumi/pulumi-azure/stargazers) [![Forks](https://img.shields.io/github/forks/pulumi/pulumi-azure?style=flat-square&color=blue)](https://github.com/pulumi/pulumi-azure/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A Microsoft Azure Pulumi resource package, providing multi-language access to Azure
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

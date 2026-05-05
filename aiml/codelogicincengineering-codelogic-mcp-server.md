@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Codelogic MCP Server is an open-source project designed to leverage Codelogic's extensive software dependency data, enabling developers to integrate rich information into their AI-powered programming assistants. This project provides a backend infrastructure for querying and utilizing dependency data, empowering AI systems to make more informed decisions and provide more accurate suggestions. By utilizing this MCP Server, developers can enhance the capabilities of their AI programming assistants.
+The codelogic-mcp-server is an open-source project that enables integration with Codelogic's extensive software dependency data, enhancing AI programming assistants with robust and accurate information. This backend solution provides developers with a powerful tool to leverage Codelogic's rich data, driving more effective and informed AI-driven coding experiences. By utilizing this MCP server, developers can create more intelligent and supportive AI assistants.
 
 ---
 

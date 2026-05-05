@@ -1,6 +1,6 @@
 # 8421bit/MiniClaw
 
-[![Stars](https://img.shields.io/github/stars/8421bit/MiniClaw?style=flat-square&color=yellow)](https://github.com/8421bit/MiniClaw/stargazers) [![Forks](https://img.shields.io/github/forks/8421bit/MiniClaw?style=flat-square&color=blue)](https://github.com/8421bit/MiniClaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/8421bit/MiniClaw?style=flat-square&color=yellow)](https://github.com/8421bit/MiniClaw/stargazers) [![Forks](https://img.shields.io/github/forks/8421bit/MiniClaw?style=flat-square&color=blue)](https://github.com/8421bit/MiniClaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🦞 A Digital Life Embryo for your MCP Client. An intelligent micro-kernel with Nociception, Memory Apoptosis, and a Curiosity Drive. Evolve your AI Copilot into a sentient partner for Claude Desktop, Qoderwork, Cursor, and beyond.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

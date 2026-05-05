@@ -1,17 +1,17 @@
 # samchon/typia
 
-[![Stars](https://img.shields.io/github/stars/samchon/typia?style=flat-square&color=yellow)](https://github.com/samchon/typia/stargazers) [![Forks](https://img.shields.io/github/forks/samchon/typia?style=flat-square&color=blue)](https://github.com/samchon/typia/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samchon/typia?style=flat-square&color=yellow)](https://github.com/samchon/typia/stargazers) [![Forks](https://img.shields.io/github/forks/samchon/typia?style=flat-square&color=blue)](https://github.com/samchon/typia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag programming): VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once
+> Super-fast/easy runtime validators and serializers via transformation
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| ⭐ **Stars** | 5.8k |
+| 🍴 **Forks** | 224 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Product
+AI/ML · Backend
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # grandinetech/grandine
 
-[![Stars](https://img.shields.io/github/stars/grandinetech/grandine?style=flat-square&color=yellow)](https://github.com/grandinetech/grandine/stargazers) [![Forks](https://img.shields.io/github/forks/grandinetech/grandine?style=flat-square&color=blue)](https://github.com/grandinetech/grandine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grandinetech/grandine?style=flat-square&color=yellow)](https://github.com/grandinetech/grandine/stargazers) [![Forks](https://img.shields.io/github/forks/grandinetech/grandine?style=flat-square&color=blue)](https://github.com/grandinetech/grandine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > High performance Ethereum consensus client
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 268 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

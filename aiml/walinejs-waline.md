@@ -1,6 +1,6 @@
 # walinejs/waline
 
-[![Stars](https://img.shields.io/github/stars/walinejs/waline?style=flat-square&color=yellow)](https://github.com/walinejs/waline/stargazers) [![Forks](https://img.shields.io/github/forks/walinejs/waline?style=flat-square&color=blue)](https://github.com/walinejs/waline/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/walinejs/waline?style=flat-square&color=yellow)](https://github.com/walinejs/waline/stargazers) [![Forks](https://img.shields.io/github/forks/walinejs/waline?style=flat-square&color=blue)](https://github.com/walinejs/waline/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > 💬 A Simple, Safe Comment System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 584 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

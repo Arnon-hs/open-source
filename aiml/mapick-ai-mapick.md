@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The Mapick Butler is an open-source project that serves as a privacy layer and skill advisor for OpenClaw. It provides features such as local secret redaction, skill recommendation based on workflow fit, and risk scoring, while also cleaning "zombies" and generating personas. This project is designed to enhance the overall performance and security of OpenClaw systems.
+Here's a brief summary of the mapick-ai/mapick project:
+
+Mapick is an open-source project that provides a comprehensive privacy layer and skill advisor for OpenClaw. It offers features such as local secret redaction, skill recommendation based on workflow, zombie cleanup, risk scoring, persona generation, and bundle shipping. This project is built on the MIT license and utilizes AI/ML technologies.
 
 ---
 

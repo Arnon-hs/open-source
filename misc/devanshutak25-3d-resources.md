@@ -1,6 +1,6 @@
 # devanshutak25/3d-resources
 
-[![Stars](https://img.shields.io/github/stars/devanshutak25/3d-resources?style=flat-square&color=yellow)](https://github.com/devanshutak25/3d-resources/stargazers) [![Forks](https://img.shields.io/github/forks/devanshutak25/3d-resources?style=flat-square&color=blue)](https://github.com/devanshutak25/3d-resources/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/devanshutak25/3d-resources?style=flat-square&color=yellow)](https://github.com/devanshutak25/3d-resources/stargazers) [![Forks](https://img.shields.io/github/forks/devanshutak25/3d-resources?style=flat-square&color=blue)](https://github.com/devanshutak25/3d-resources/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of resources for 3D.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 578 |
+| ⭐ **Stars** | 585 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

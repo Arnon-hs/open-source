@@ -1,6 +1,6 @@
 # vantage-sh/vantage-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/vantage-sh/vantage-mcp-server?style=flat-square&color=yellow)](https://github.com/vantage-sh/vantage-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/vantage-sh/vantage-mcp-server?style=flat-square&color=blue)](https://github.com/vantage-sh/vantage-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vantage-sh/vantage-mcp-server?style=flat-square&color=yellow)](https://github.com/vantage-sh/vantage-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/vantage-sh/vantage-mcp-server?style=flat-square&color=blue)](https://github.com/vantage-sh/vantage-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server to fetch costs and usage data from your Vantage account.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 80 |
+| ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

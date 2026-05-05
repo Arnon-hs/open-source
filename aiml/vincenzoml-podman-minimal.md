@@ -1,6 +1,6 @@
 # vincenzoml/podman-minimal
 
-[![Stars](https://img.shields.io/github/stars/vincenzoml/podman-minimal?style=flat-square&color=yellow)](https://github.com/vincenzoml/podman-minimal/stargazers) [![Forks](https://img.shields.io/github/forks/vincenzoml/podman-minimal?style=flat-square&color=blue)](https://github.com/vincenzoml/podman-minimal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vincenzoml/podman-minimal?style=flat-square&color=yellow)](https://github.com/vincenzoml/podman-minimal/stargazers) [![Forks](https://img.shields.io/github/forks/vincenzoml/podman-minimal?style=flat-square&color=blue)](https://github.com/vincenzoml/podman-minimal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal Podman launcher: clean throwaway dev environments from any folder, with Dockerfile/devcontainer autodiscovery.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5 |
+| ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -1,6 +1,6 @@
 # FalkorDB/GraphRAG-SDK
 
-[![Stars](https://img.shields.io/github/stars/FalkorDB/GraphRAG-SDK?style=flat-square&color=yellow)](https://github.com/FalkorDB/GraphRAG-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/FalkorDB/GraphRAG-SDK?style=flat-square&color=blue)](https://github.com/FalkorDB/GraphRAG-SDK/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FalkorDB/GraphRAG-SDK?style=flat-square&color=yellow)](https://github.com/FalkorDB/GraphRAG-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/FalkorDB/GraphRAG-SDK?style=flat-square&color=blue)](https://github.com/FalkorDB/GraphRAG-SDK/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Build fast and accurate GenAI apps with GraphRAG SDK at scale  🌟
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 823 |
-| 🍴 **Forks** | 114 |
+| ⭐ **Stars** | 825 |
+| 🍴 **Forks** | 116 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

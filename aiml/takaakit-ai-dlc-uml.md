@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-AI-DLC-UML is an open-source project that integrates AI-driven development into the traditional UML modeling process. This innovative framework aims to enhance software development efficiency and accuracy by leveraging machine learning algorithms to streamline the development life cycle. By combining AI and UML, developers can create more robust and scalable software systems with reduced manual effort.
+AI-DLC-UML is an open-source project that leverages artificial intelligence to streamline the software development life cycle, using Unified Modeling Language (UML) modeling to enhance efficiency and collaboration. This innovative tool enables developers to automate tasks, generate UML diagrams, and improve project management. By combining AI and UML, AI-DLC-UML aims to revolutionize the way software projects are planned, designed, and executed.
 
 ---
 

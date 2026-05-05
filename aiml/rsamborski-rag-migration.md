@@ -1,6 +1,6 @@
 # rsamborski/rag-migration
 
-[![Stars](https://img.shields.io/github/stars/rsamborski/rag-migration?style=flat-square&color=yellow)](https://github.com/rsamborski/rag-migration/stargazers) [![Forks](https://img.shields.io/github/forks/rsamborski/rag-migration?style=flat-square&color=blue)](https://github.com/rsamborski/rag-migration/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rsamborski/rag-migration?style=flat-square&color=yellow)](https://github.com/rsamborski/rag-migration/stargazers) [![Forks](https://img.shields.io/github/forks/rsamborski/rag-migration?style=flat-square&color=blue)](https://github.com/rsamborski/rag-migration/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-26%2F100-brightgreen?style=flat-square)](#)
 
 > RAG Embedding Migration Framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 30/100 |
+| 📈 **Score** | 26/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

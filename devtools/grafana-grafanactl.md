@@ -1,6 +1,6 @@
 # grafana/grafanactl
 
-[![Stars](https://img.shields.io/github/stars/grafana/grafanactl?style=flat-square&color=yellow)](https://github.com/grafana/grafanactl/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/grafanactl?style=flat-square&color=blue)](https://github.com/grafana/grafanactl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/grafanactl?style=flat-square&color=yellow)](https://github.com/grafana/grafanactl/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/grafanactl?style=flat-square&color=blue)](https://github.com/grafana/grafanactl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > The Grafana CLI. Command-line tool designed to simplify interaction with Grafana resources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

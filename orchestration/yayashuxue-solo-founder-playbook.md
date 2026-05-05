@@ -1,6 +1,6 @@
 # yayashuxue/solo-founder-playbook
 
-[![Stars](https://img.shields.io/github/stars/yayashuxue/solo-founder-playbook?style=flat-square&color=yellow)](https://github.com/yayashuxue/solo-founder-playbook/stargazers) [![Forks](https://img.shields.io/github/forks/yayashuxue/solo-founder-playbook?style=flat-square&color=blue)](https://github.com/yayashuxue/solo-founder-playbook/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yayashuxue/solo-founder-playbook?style=flat-square&color=yellow)](https://github.com/yayashuxue/solo-founder-playbook/stargazers) [![Forks](https://img.shields.io/github/forks/yayashuxue/solo-founder-playbook?style=flat-square&color=blue)](https://github.com/yayashuxue/solo-founder-playbook/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 6 Claude Code skills for solo founders, built from 101 Starter Story founder interviews. Idea evaluation, growth strategy, failure-mode diagnosis, plan roasting — all data-backed. Try in browser: solo-founder-playbook.vercel.app/try
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

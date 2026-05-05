@@ -1,6 +1,6 @@
 # BaLaurent/agent-desktop
 
-[![Stars](https://img.shields.io/github/stars/BaLaurent/agent-desktop?style=flat-square&color=yellow)](https://github.com/BaLaurent/agent-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/BaLaurent/agent-desktop?style=flat-square&color=blue)](https://github.com/BaLaurent/agent-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BaLaurent/agent-desktop?style=flat-square&color=yellow)](https://github.com/BaLaurent/agent-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/BaLaurent/agent-desktop?style=flat-square&color=blue)](https://github.com/BaLaurent/agent-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > An highly configurable desktop client for your favourite LLM
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31 |
+| ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

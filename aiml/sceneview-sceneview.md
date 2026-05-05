@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Sceneview is an open-source, multi-platform 3D and AR SDK that supports Android, iOS, and Web development. Built with AI-first capabilities, including integration with AI models and a machine learning server, it offers a seamless experience through its use of Jetpack Compose and SwiftUI frameworks. As the only Compose-native 3D library, Sceneview simplifies the development process for augmented reality applications.
+Sceneview is an open-source, AI-first 3D and Augmented Reality (AR) SDK that supports Android, iOS, and Web platforms. It utilizes cutting-edge technologies like Jetpack Compose and Filament for Android, and SwiftUI and RealityKit for iOS, making it a Compose-native 3D library. With features like LLMs, MCP servers, and Copilot/Cursor rules, Sceneview empowers developers to build immersive and intelligent 3D experiences.
 
 ---
 

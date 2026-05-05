@@ -1,6 +1,6 @@
 # keepchen/go-sail
 
-[![Stars](https://img.shields.io/github/stars/keepchen/go-sail?style=flat-square&color=yellow)](https://github.com/keepchen/go-sail/stargazers) [![Forks](https://img.shields.io/github/forks/keepchen/go-sail?style=flat-square&color=blue)](https://github.com/keepchen/go-sail/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keepchen/go-sail?style=flat-square&color=yellow)](https://github.com/keepchen/go-sail/stargazers) [![Forks](https://img.shields.io/github/forks/keepchen/go-sail?style=flat-square&color=blue)](https://github.com/keepchen/go-sail/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 一个轻量的渐进式Golang Web框架。 A lightweight progressive Web Framework written in Go.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # harbor-framework/terminal-bench-science
 
-[![Stars](https://img.shields.io/github/stars/harbor-framework/terminal-bench-science?style=flat-square&color=yellow)](https://github.com/harbor-framework/terminal-bench-science/stargazers) [![Forks](https://img.shields.io/github/forks/harbor-framework/terminal-bench-science?style=flat-square&color=blue)](https://github.com/harbor-framework/terminal-bench-science/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harbor-framework/terminal-bench-science?style=flat-square&color=yellow)](https://github.com/harbor-framework/terminal-bench-science/stargazers) [![Forks](https://img.shields.io/github/forks/harbor-framework/terminal-bench-science?style=flat-square&color=blue)](https://github.com/harbor-framework/terminal-bench-science/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 67 |
+| ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

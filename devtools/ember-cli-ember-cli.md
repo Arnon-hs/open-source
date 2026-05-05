@@ -1,6 +1,6 @@
 # ember-cli/ember-cli
 
-[![Stars](https://img.shields.io/github/stars/ember-cli/ember-cli?style=flat-square&color=yellow)](https://github.com/ember-cli/ember-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ember-cli/ember-cli?style=flat-square&color=blue)](https://github.com/ember-cli/ember-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ember-cli/ember-cli?style=flat-square&color=yellow)](https://github.com/ember-cli/ember-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ember-cli/ember-cli?style=flat-square&color=blue)](https://github.com/ember-cli/ember-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > The Ember.js command line utility.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

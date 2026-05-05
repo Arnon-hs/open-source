@@ -25,7 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The expo/skills project is an open-source initiative that provides a collection of AI agent skills tailored for seamless integration with Expo projects and Expo Application Services. This comprehensive set of skills enables developers to leverage AI and machine learning capabilities to streamline their development workflow, enhance user experiences, and build more innovative applications. By harnessing the power of AI, Expo developers can automate tasks, analyze data, and improve the overall efficiency of their projects.
+Here's a brief summary for the expo/skills project:
+
+The expo/skills project is an open-source collection of AI agent skills designed to simplify interactions with Expo projects and Expo Application Services. These skills enable developers to leverage AI and machine learning capabilities to streamline project workflows, automate tasks, and enhance overall productivity. By utilizing this collection of skills, developers can unlock new possibilities for their Expo-based applications.
 
 ---
 

@@ -1,6 +1,6 @@
 # Terobyte/OpenVerb
 
-[![Stars](https://img.shields.io/github/stars/Terobyte/OpenVerb?style=flat-square&color=yellow)](https://github.com/Terobyte/OpenVerb/stargazers) [![Forks](https://img.shields.io/github/forks/Terobyte/OpenVerb?style=flat-square&color=blue)](https://github.com/Terobyte/OpenVerb/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Terobyte/OpenVerb?style=flat-square&color=yellow)](https://github.com/Terobyte/OpenVerb/stargazers) [![Forks](https://img.shields.io/github/forks/Terobyte/OpenVerb?style=flat-square&color=blue)](https://github.com/Terobyte/OpenVerb/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source 100% local voice-to-text for macOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

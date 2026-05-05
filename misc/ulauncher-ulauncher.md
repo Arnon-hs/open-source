@@ -1,6 +1,6 @@
 # Ulauncher/Ulauncher
 
-[![Stars](https://img.shields.io/github/stars/Ulauncher/Ulauncher?style=flat-square&color=yellow)](https://github.com/Ulauncher/Ulauncher/stargazers) [![Forks](https://img.shields.io/github/forks/Ulauncher/Ulauncher?style=flat-square&color=blue)](https://github.com/Ulauncher/Ulauncher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ulauncher/Ulauncher?style=flat-square&color=yellow)](https://github.com/Ulauncher/Ulauncher/stargazers) [![Forks](https://img.shields.io/github/forks/Ulauncher/Ulauncher?style=flat-square&color=blue)](https://github.com/Ulauncher/Ulauncher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Feature rich application Launcher for Linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 227 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

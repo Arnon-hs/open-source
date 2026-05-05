@@ -1,6 +1,6 @@
 # semos-labs/attyx
 
-[![Stars](https://img.shields.io/github/stars/semos-labs/attyx?style=flat-square&color=yellow)](https://github.com/semos-labs/attyx/stargazers) [![Forks](https://img.shields.io/github/forks/semos-labs/attyx?style=flat-square&color=blue)](https://github.com/semos-labs/attyx/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/semos-labs/attyx?style=flat-square&color=yellow)](https://github.com/semos-labs/attyx/stargazers) [![Forks](https://img.shields.io/github/forks/semos-labs/attyx?style=flat-square&color=blue)](https://github.com/semos-labs/attyx/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Fast programmable GPU-accelerated terminal emulator built with Zig
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 198 |
-| 🍴 **Forks** | 7 |
+| 🍴 **Forks** | 8 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

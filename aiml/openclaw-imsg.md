@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The openclaw/imsg project is an open-source command-line interface (CLI) for Apple's Messages.app, enabling automation and integration of text messages and iMessages with various tools and processes. This CLI allows developers to interact with the Messages app programmatically, streamlining tasks and enhancing the capabilities of AI and ML agents. By providing a simple and accessible interface, imsg simplifies the process of sending and receiving messages, making it a valuable resource for AI and ML developers.
+The openclaw/imsg project is an open-source, command-line interface (CLI) tool that enables agents to interact with Apple's Messages.app, facilitating the sending and receiving of text messages and iMessages. This tool provides a convenient and programmatic way to manage Messages.app functionality, making it ideal for developers and AI/ML projects. By using imsg, developers can integrate messaging capabilities into their applications and automate communication workflows.
 
 ---
 

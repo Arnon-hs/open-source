@@ -1,6 +1,6 @@
 # calebwin/gitgres
 
-[![Stars](https://img.shields.io/github/stars/calebwin/gitgres?style=flat-square&color=yellow)](https://github.com/calebwin/gitgres/stargazers) [![Forks](https://img.shields.io/github/forks/calebwin/gitgres?style=flat-square&color=blue)](https://github.com/calebwin/gitgres/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/calebwin/gitgres?style=flat-square&color=yellow)](https://github.com/calebwin/gitgres/stargazers) [![Forks](https://img.shields.io/github/forks/calebwin/gitgres?style=flat-square&color=blue)](https://github.com/calebwin/gitgres/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > A private GitHub on Postgres
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 68 |
-| 🍴 **Forks** | 1 |
+| 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

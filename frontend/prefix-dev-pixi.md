@@ -1,6 +1,6 @@
 # prefix-dev/pixi
 
-[![Stars](https://img.shields.io/github/stars/prefix-dev/pixi?style=flat-square&color=yellow)](https://github.com/prefix-dev/pixi/stargazers) [![Forks](https://img.shields.io/github/forks/prefix-dev/pixi?style=flat-square&color=blue)](https://github.com/prefix-dev/pixi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prefix-dev/pixi?style=flat-square&color=yellow)](https://github.com/prefix-dev/pixi/stargazers) [![Forks](https://img.shields.io/github/forks/prefix-dev/pixi?style=flat-square&color=blue)](https://github.com/prefix-dev/pixi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
 
 > Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7k |
-| 🍴 **Forks** | 499 |
+| 🍴 **Forks** | 500 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 92/100 |
+| 📈 **Score** | 93/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

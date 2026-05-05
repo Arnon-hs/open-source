@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The portr project is an open-source tool that allows exposing local HTTP, TCP, or WebSocket connections to the public internet, facilitating remote access to development environments and local services. This tool provides a convenient way for developers to share their work with others or test their applications in different environments. By leveraging portr, users can easily share their local connections with the world.
+The portr project is an open-source tool that allows users to expose local HTTP, TCP, or WebSocket connections to the public internet, enabling easy access and testing of local services. This tool is particularly useful for developers and testers who need to share their local applications or services with others remotely. By simplifying the process of exposing local connections, portr streamlines collaboration and testing.
 
 ---
 

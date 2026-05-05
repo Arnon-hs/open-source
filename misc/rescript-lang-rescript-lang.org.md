@@ -1,6 +1,6 @@
 # rescript-lang/rescript-lang.org
 
-[![Stars](https://img.shields.io/github/stars/rescript-lang/rescript-lang.org?style=flat-square&color=yellow)](https://github.com/rescript-lang/rescript-lang.org/stargazers) [![Forks](https://img.shields.io/github/forks/rescript-lang/rescript-lang.org?style=flat-square&color=blue)](https://github.com/rescript-lang/rescript-lang.org/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rescript-lang/rescript-lang.org?style=flat-square&color=yellow)](https://github.com/rescript-lang/rescript-lang.org/stargazers) [![Forks](https://img.shields.io/github/forks/rescript-lang/rescript-lang.org?style=flat-square&color=blue)](https://github.com/rescript-lang/rescript-lang.org/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Official documentation website for the ReScript programming language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 260 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/esengine/reasonix?style=flat-square&color=yellow)](https://github.com/esengine/reasonix/stargazers) [![Forks](https://img.shields.io/github/forks/esengine/reasonix?style=flat-square&color=blue)](https://github.com/esengine/reasonix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> DeepSeek-native agent framework: Cache-First Loop, R1 Thought Harvesting, Tool-Call Repair. TypeScript + Ink TUI.
+> DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 355 |
-| 🍴 **Forks** | 20 |
+| ⭐ **Stars** | 369 |
+| 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The open-source project "openpets" allows users to bring AI coding agents to life with interactive desktop pets. By installing pets and connecting Claude Code via the Microchip Controller Protocol (MCP), users can visualize their coding status in real-time, making the learning process more engaging and interactive. This project enables users to explore AI and machine learning concepts in a fun and accessible way.
+The open-source project "openpets" by alvinunreal provides a unique desktop experience for AI coding agents, allowing users to install and interact with virtual pets that display live coding status. This innovative tool connects to Claude Code via the MCP (Model Compatibility Protocol), enabling seamless real-time monitoring of AI coding activities. By combining AI and interactive design, openpets offers a novel approach to visualizing and engaging with coding processes.
 
 ---
 

@@ -1,6 +1,6 @@
 # webrtc/samples
 
-[![Stars](https://img.shields.io/github/stars/webrtc/samples?style=flat-square&color=yellow)](https://github.com/webrtc/samples/stargazers) [![Forks](https://img.shields.io/github/forks/webrtc/samples?style=flat-square&color=blue)](https://github.com/webrtc/samples/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webrtc/samples?style=flat-square&color=yellow)](https://github.com/webrtc/samples/stargazers) [![Forks](https://img.shields.io/github/forks/webrtc/samples?style=flat-square&color=blue)](https://github.com/webrtc/samples/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > WebRTC Web demos and samples
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.6k |
 | 🍴 **Forks** | 5.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

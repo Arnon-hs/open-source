@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The lemire/constmap project is an open-source library that provides a highly efficient and compact implementation of a constant-time hash map. It allows developers to store and look up key-value pairs in O(1) average time, making it suitable for applications requiring fast and predictable performance. This project is particularly useful for systems where memory efficiency and consistency are crucial.
+The lemire/constmap project is an open-source library providing a C++ implementation of const maps. This project offers a simple and efficient way to create thread-safe, constant maps that can be used in various applications where immutability is required.
 
 ---
 

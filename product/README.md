@@ -28,8 +28,8 @@
 | 18 | [beam-community/elixir-companies](./beam-community-elixir-companies.md) | ⭐ 1.7k | Astro | 63/100 |
 | 19 | [AcademySoftwareFoundation/OpenCue](./academysoftwarefoundation-opencue.md) | ⭐ 925 | Python | 60/100 |
 | 20 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 59/100 |
-| 21 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 707 | Rust | 56/100 |
-| 22 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 537 | C | 56/100 |
+| 21 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 537 | C | 56/100 |
+| 22 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 707 | Rust | 56/100 |
 | 23 | [pimutils/todoman](./pimutils-todoman.md) | ⭐ 575 | Python | 55/100 |
 | 24 | [aws-observability/aws-otel-collector](./aws-observability-aws-otel-collector.md) | ⭐ 742 | Go | 54/100 |
 | 25 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 666 | Shell | 52/100 |
@@ -39,8 +39,8 @@
 | 29 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
 | 30 | [eph5xx/tweakidea](./eph5xx-tweakidea.md) | ⭐ 14 | Python | 46/100 |
 | 31 | [getsentry/relay](./getsentry-relay.md) | ⭐ 376 | Rust | 46/100 |
-| 32 | [getsentry/snuba](./getsentry-snuba.md) | ⭐ 398 | Python | 45/100 |
-| 33 | [getsentry/symbolicator](./getsentry-symbolicator.md) | ⭐ 420 | Rust | 45/100 |
+| 32 | [getsentry/symbolicator](./getsentry-symbolicator.md) | ⭐ 420 | Rust | 45/100 |
+| 33 | [getsentry/snuba](./getsentry-snuba.md) | ⭐ 398 | Python | 45/100 |
 | 34 | [guardian/coverdrop](./guardian-coverdrop.md) | ⭐ 336 | Rust | 44/100 |
 | 35 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 315 | Rust | 43/100 |
 | 36 | [verona-team/verona-atlas](./verona-team-verona-atlas.md) | ⭐ 16 | Python | 32/100 |

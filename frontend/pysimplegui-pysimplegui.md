@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-PySimpleGUI 6 is a user-friendly, open-source Python library that simplifies the process of creating graphical user interfaces (GUIs). It utilizes a combination of the Tkinter and Qt libraries to provide a versatile and intuitive framework for building GUI applications. This library is ideal for developers of all skill levels who want to create visually appealing and interactive desktop applications.
+PySimpleGUI 6 is an open-source Python library that simplifies the process of creating graphical user interfaces (GUIs). It provides a high-level interface for building desktop applications, making it easy to create windows, buttons, text boxes, and other GUI elements. With PySimpleGUI, developers can focus on writing their application's logic without worrying about the intricacies of GUI programming.
 
 ---
 

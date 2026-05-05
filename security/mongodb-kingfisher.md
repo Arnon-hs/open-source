@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/mongodb/kingfisher?style=flat-square&color=yellow)](https://github.com/mongodb/kingfisher/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb/kingfisher?style=flat-square&color=blue)](https://github.com/mongodb/kingfisher/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
-> Find, validate, and map the impact of leaked secrets across your stack. Revoke fast. 900+ rules.
+> Find, validate, and map the impact of leaked secrets across your stack. Revoke fast. 950+ rules.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 97 |
+| 🍴 **Forks** | 98 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |

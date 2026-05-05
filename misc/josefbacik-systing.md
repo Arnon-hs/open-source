@@ -1,6 +1,6 @@
 # josefbacik/systing
 
-[![Stars](https://img.shields.io/github/stars/josefbacik/systing?style=flat-square&color=yellow)](https://github.com/josefbacik/systing/stargazers) [![Forks](https://img.shields.io/github/forks/josefbacik/systing?style=flat-square&color=blue)](https://github.com/josefbacik/systing/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/josefbacik/systing?style=flat-square&color=yellow)](https://github.com/josefbacik/systing/stargazers) [![Forks](https://img.shields.io/github/forks/josefbacik/systing?style=flat-square&color=blue)](https://github.com/josefbacik/systing/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A libbpf based tracer to help figure out what an application is doing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

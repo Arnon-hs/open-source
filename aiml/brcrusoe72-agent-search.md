@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-AgentSearch is an open-source, self-hosted search API designed for AI agents, allowing for efficient querying and indexing of vast amounts of data. This project also optionally integrates a Tor stack, providing users with increased anonymity and security. By hosting AgentSearch on-premises, developers and researchers can enhance their AI applications while maintaining control over their data and infrastructure.
+AgentSearch is an open-source, self-hosted search API designed for AI agents. It offers a robust search functionality while providing the option to integrate a Tor stack for enhanced anonymity. This project allows developers to create secure and private search experiences for their AI-powered applications.
 
 ---
 

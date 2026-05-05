@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-JosefVesely's img2ascii is an open-source command-line tool that enables users to convert images into ASCII art, allowing for unique and text-based representations of visual content. This utility provides a straightforward way to transform images into readable, character-based art. By leveraging ASCII characters, users can create distinctive and artistic representations of images directly from the terminal.
+JosefVesely/img2ascii is an open-source command-line tool that enables users to convert images into ASCII art. This tool utilizes a conversion algorithm to transform digital images into text-based representations, allowing users to visualize and share images in a unique and compact format. With img2ascii, users can easily convert a wide range of image files into ASCII art.
 
 ---
 

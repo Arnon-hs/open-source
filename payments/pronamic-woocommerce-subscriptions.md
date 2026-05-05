@@ -1,6 +1,6 @@
 # pronamic/woocommerce-subscriptions
 
-[![Stars](https://img.shields.io/github/stars/pronamic/woocommerce-subscriptions?style=flat-square&color=yellow)](https://github.com/pronamic/woocommerce-subscriptions/stargazers) [![Forks](https://img.shields.io/github/forks/pronamic/woocommerce-subscriptions?style=flat-square&color=blue)](https://github.com/pronamic/woocommerce-subscriptions/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pronamic/woocommerce-subscriptions?style=flat-square&color=yellow)](https://github.com/pronamic/woocommerce-subscriptions/stargazers) [![Forks](https://img.shields.io/github/forks/pronamic/woocommerce-subscriptions?style=flat-square&color=blue)](https://github.com/pronamic/woocommerce-subscriptions/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > WooCommerce Subscriptions, Git-ified. Synced manual! This repository is just a mirror of the WooCommerce Subscriptions plugin. Please do not send pull requests and issues.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 469 |
+| ⭐ **Stars** | 468 |
 | 🍴 **Forks** | 196 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

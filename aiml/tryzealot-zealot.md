@@ -1,6 +1,6 @@
 # tryzealot/zealot
 
-[![Stars](https://img.shields.io/github/stars/tryzealot/zealot?style=flat-square&color=yellow)](https://github.com/tryzealot/zealot/stargazers) [![Forks](https://img.shields.io/github/forks/tryzealot/zealot?style=flat-square&color=blue)](https://github.com/tryzealot/zealot/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tryzealot/zealot?style=flat-square&color=yellow)](https://github.com/tryzealot/zealot/stargazers) [![Forks](https://img.shields.io/github/forks/tryzealot/zealot?style=flat-square&color=blue)](https://github.com/tryzealot/zealot/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps | 开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

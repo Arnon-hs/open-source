@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project revolves around a discussion on Hacker News regarding whether to continue a specific project. The main focus is on exploring the possibility of switching between different AI harnesses, which are frameworks or tools used to integrate and utilize artificial intelligence capabilities. This project aims to shed light on the feasibility and benefits of changing AI harnesses in various applications.
+This open-source project revolves around a discussion on whether to continue a project, specifically focusing on the ability to change AI harness on Hacker News. The conversation was sparked by a GitHub mention and falls under the categories of AI and Machine Learning. It invites users to weigh in on the feasibility and potential of the project.
 
 ---
 

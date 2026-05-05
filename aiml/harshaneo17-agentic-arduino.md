@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The Embodied AI with Claude, Raspberry Pi, and Arduino project is an open-source initiative that integrates artificial intelligence with a physical environment using a unique combination of technologies. This project leverages Claude, a cutting-edge AI platform, alongside the versatility of Raspberry Pi and Arduino microcontrollers to create a dynamic and interactive system. By bringing together AI, hardware, and software, this project paves the way for innovative applications in robotics, IoT, and more.
+This open-source project combines Embodied AI with Claude, a conversational AI, and integrates it with Raspberry Pi and Arduino. The project enables users to interact with Claude through physical interfaces, such as sensors and actuators, to create a hands-on AI experience. By utilizing a Raspberry Pi and Arduino, users can build custom projects that bring Embodied AI to life.
 
 ---
 

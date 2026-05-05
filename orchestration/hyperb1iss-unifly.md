@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-Unifly is an open-source, user-friendly command-line interface (CLI) and text-based user interface (TUI) for managing UniFi networks. Designed with both humans and automation agents in mind, Unifly simplifies network administration and provides a seamless experience. Its elegant design makes it an ideal solution for users seeking to streamline their network management tasks.
+Unifly is an open-source project that provides a user-friendly command-line interface (CLI) and text-based user interface (TUI) for managing UniFi networks. This elegant solution is designed to simplify network administration, making it accessible to both human users and AI/ML agents. Unifly aims to streamline UniFi network management, enhancing productivity and efficiency in network operations.
 
 ---
 
