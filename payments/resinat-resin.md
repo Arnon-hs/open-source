@@ -25,7 +25,7 @@ Payments
 
 ## 📝 Summary
 
-Resinat/Resin is an open-source, high-performance proxy pool gateway that enables users to transform large-scale proxy subscriptions into a stable, smart, and observable network. This gateway supports sticky sessions, ensuring that requests from the same client are routed to the same proxy server. By leveraging Resinat/Resin, users can create a more efficient and reliable proxy network.
+Resin is an open-source, high-performance proxy pool gateway that enables users to transform large-scale proxy subscriptions into a stable, intelligent, and observable network with sticky sessions. This solution allows for efficient management and utilization of proxy resources, ensuring seamless connectivity and high availability. Resin is particularly suitable for applications in the payments category.
 
 ---
 

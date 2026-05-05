@@ -1,6 +1,6 @@
 # huanchong-99/SoloDawn
 
-[![Stars](https://img.shields.io/github/stars/huanchong-99/SoloDawn?style=flat-square&color=yellow)](https://github.com/huanchong-99/SoloDawn/stargazers) [![Forks](https://img.shields.io/github/forks/huanchong-99/SoloDawn?style=flat-square&color=blue)](https://github.com/huanchong-99/SoloDawn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huanchong-99/SoloDawn?style=flat-square&color=yellow)](https://github.com/huanchong-99/SoloDawn/stargazers) [![Forks](https://img.shields.io/github/forks/huanchong-99/SoloDawn?style=flat-square&color=blue)](https://github.com/huanchong-99/SoloDawn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > GitCortex delivers production-grade software directly from social media conversations. It actively resolves ambiguity, architects solutions, and orchestrates multiple AI coding agents (Claude Code, Gemini CLI, Codex, etc.) in parallel with built-in three-layer quality gates. No IDE, no terminal, no manual intervention.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 171 |
+| ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

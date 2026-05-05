@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The fiatjaf/nak project is an open-source command line tool designed to simplify interactions with the Nostr protocol. With nak, users can easily manage their Nostr accounts, keys, and subscriptions from the comfort of their terminal. This tool provides a streamlined experience for navigating the Nostr ecosystem.
+The nak project is an open-source command line tool designed for interacting with Nostr, a decentralized social network protocol. It enables users to manage their Nostr keys, publish and subscribe to events, and perform various other tasks from the comfort of the terminal. This tool simplifies the process of engaging with the Nostr ecosystem.
 
 ---
 

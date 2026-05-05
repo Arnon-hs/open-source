@@ -1,6 +1,6 @@
 # cowprotocol/services
 
-[![Stars](https://img.shields.io/github/stars/cowprotocol/services?style=flat-square&color=yellow)](https://github.com/cowprotocol/services/stargazers) [![Forks](https://img.shields.io/github/forks/cowprotocol/services?style=flat-square&color=blue)](https://github.com/cowprotocol/services/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cowprotocol/services?style=flat-square&color=yellow)](https://github.com/cowprotocol/services/stargazers) [![Forks](https://img.shields.io/github/forks/cowprotocol/services?style=flat-square&color=blue)](https://github.com/cowprotocol/services/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Off-chain services for CoW Protocol
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 298 |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

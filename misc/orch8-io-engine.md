@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Orch8 is an open-source, durable workflow engine written in Rust, designed to be a single binary that can be easily deployed. It supports both Postgres and SQLite databases, allowing users to create and manage complex workflows with flexibility and reliability. With its robust architecture, Orch8 aims to provide a seamless and efficient workflow management experience.
+Orch8 is an open-source, durable workflow engine written in Rust, designed to be a single, self-contained binary. This engine supports both Postgres and SQLite databases, offering flexibility and ease of use. With Orch8, users can build and manage complex workflows in a robust and maintainable way.
 
 ---
 

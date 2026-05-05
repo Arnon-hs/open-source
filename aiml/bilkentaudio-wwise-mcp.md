@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the Wwise-MCP project:
+Here's a 2-3 sentence summary for the Wwise-MCP project:
 
-Wwise-MCP is an open-source Model Context Protocol (MCP) server that integrates with the Wwise Authoring application, enabling the automation and composition of complex workflows using large language models (LLMs). Built on a custom Python WAAPI library, it provides a set of tools for MCP clients to interact with Wwise, streamlining multi-step processes. This collaboration between AI and audio applications enhances the efficiency and creativity of audio development workflows.
+Wwise-MCP is an open-source Model Context Protocol server that integrates large language models with the Wwise Authoring application, enabling the automation of complex workflows through a custom Python WAAPI library. This project provides a set of tools for MCP clients like Claude or Cursor to interact with Wwise, streamlining tasks and enhancing collaboration. By harnessing the power of AI and machine learning, Wwise-MCP facilitates more efficient and creative audio production workflows.
 
 ---
 

@@ -1,6 +1,6 @@
 # doctrine/orm
 
-[![Stars](https://img.shields.io/github/stars/doctrine/orm?style=flat-square&color=yellow)](https://github.com/doctrine/orm/stargazers) [![Forks](https://img.shields.io/github/forks/doctrine/orm?style=flat-square&color=blue)](https://github.com/doctrine/orm/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/doctrine/orm?style=flat-square&color=yellow)](https://github.com/doctrine/orm/stargazers) [![Forks](https://img.shields.io/github/forks/doctrine/orm?style=flat-square&color=blue)](https://github.com/doctrine/orm/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > Doctrine Object Relational Mapper (ORM)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.2k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 91/100 |
+| 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

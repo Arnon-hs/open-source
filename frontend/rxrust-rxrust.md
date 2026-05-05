@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the rxRust project:
-
-rxRust provides a zero-cost and type-safe implementation of Reactive Extensions for Rust, allowing developers to build high-performance reactive applications. It supports both local, single-threaded contexts and shared, thread-safe contexts, making it suitable for a wide range of applications. With WASM and Tokio support, rxRust enables efficient reactive programming on both client-side and server-side projects.
+rxRust is an open-source reactive extension library for Rust, offering zero-cost and type-safe data processing for both single-threaded and multi-threaded contexts. This library provides high-performance support for WebAssembly (WASM) and Tokio, making it suitable for frontend development. It enables efficient event handling and data transformation in Rust applications.
 
 ---
 

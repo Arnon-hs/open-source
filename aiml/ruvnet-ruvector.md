@@ -1,6 +1,6 @@
 # ruvnet/RuVector
 
-[![Stars](https://img.shields.io/github/stars/ruvnet/RuVector?style=flat-square&color=yellow)](https://github.com/ruvnet/RuVector/stargazers) [![Forks](https://img.shields.io/github/forks/ruvnet/RuVector?style=flat-square&color=blue)](https://github.com/ruvnet/RuVector/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ruvnet/RuVector?style=flat-square&color=yellow)](https://github.com/ruvnet/RuVector/stargazers) [![Forks](https://img.shields.io/github/forks/ruvnet/RuVector?style=flat-square&color=blue)](https://github.com/ruvnet/RuVector/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.9k |
-| 🍴 **Forks** | 478 |
+| 🍴 **Forks** | 485 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

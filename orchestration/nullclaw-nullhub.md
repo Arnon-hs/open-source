@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Nullhub is an open-source management console for the Null ecosystem, enabling users to install, configure, and monitor AI agents, workflows, pipelines, and system health. This comprehensive tool provides a centralized platform for orchestrating and managing complex AI/ML systems, streamlining tasks and improving overall system efficiency. By utilizing Nullhub, users can effectively manage and optimize their Null ecosystem for enhanced performance and productivity.
+Nullhub is an open-source management console for the Null ecosystem, providing a centralized platform to install, configure, and monitor AI agents, orchestration workflows, and task pipelines. This project enables users to efficiently manage and track system health, simplifying the process of integrating and managing complex AI and machine learning systems. By streamlining management tasks, Nullhub helps organizations optimize their operations and improve overall performance.
 
 ---
 

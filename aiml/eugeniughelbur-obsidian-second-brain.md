@@ -1,6 +1,6 @@
 # eugeniughelbur/obsidian-second-brain
 
-[![Stars](https://img.shields.io/github/stars/eugeniughelbur/obsidian-second-brain?style=flat-square&color=yellow)](https://github.com/eugeniughelbur/obsidian-second-brain/stargazers) [![Forks](https://img.shields.io/github/forks/eugeniughelbur/obsidian-second-brain?style=flat-square&color=blue)](https://github.com/eugeniughelbur/obsidian-second-brain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eugeniughelbur/obsidian-second-brain?style=flat-square&color=yellow)](https://github.com/eugeniughelbur/obsidian-second-brain/stargazers) [![Forks](https://img.shields.io/github/forks/eugeniughelbur/obsidian-second-brain?style=flat-square&color=blue)](https://github.com/eugeniughelbur/obsidian-second-brain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skill for Obsidian. Turn your vault into a living AI-first second brain. 31 commands, vault-first research, scheduled agents.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 504 |
-| 🍴 **Forks** | 55 |
+| ⭐ **Stars** | 555 |
+| 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

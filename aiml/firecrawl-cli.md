@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The firecrawl/cli project is an open-source command-line interface (CLI) and agent skill that enhances AI agents with web scraping, searching, and browsing capabilities. This powerful tool enables AI developers to easily integrate web data into their applications, expanding the capabilities of their AI agents. By leveraging firecrawl/cli, developers can unlock new possibilities for their AI projects and improve their overall performance and accuracy.
+Firecrawl/cli is an open-source project that enables developers to integrate web browsing and scraping capabilities into their AI agents through a command-line interface (CLI) and an agent skill. This tool allows AI agents to navigate the web, search for specific information, and scrape data from websites, expanding their capabilities and applications. By incorporating Firecrawl/cli, developers can enhance the functionality of their AI-powered projects.
 
 ---
 

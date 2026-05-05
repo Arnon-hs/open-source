@@ -1,6 +1,6 @@
 # s2-streamstore/cachey
 
-[![Stars](https://img.shields.io/github/stars/s2-streamstore/cachey?style=flat-square&color=yellow)](https://github.com/s2-streamstore/cachey/stargazers) [![Forks](https://img.shields.io/github/forks/s2-streamstore/cachey?style=flat-square&color=blue)](https://github.com/s2-streamstore/cachey/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/s2-streamstore/cachey?style=flat-square&color=yellow)](https://github.com/s2-streamstore/cachey/stargazers) [![Forks](https://img.shields.io/github/forks/s2-streamstore/cachey?style=flat-square&color=blue)](https://github.com/s2-streamstore/cachey/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Read-through cache for object storage
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 582 |
+| ⭐ **Stars** | 583 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

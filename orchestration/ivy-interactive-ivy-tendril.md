@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the Ivy-Tendril project:
-
-Ivy-Tendril is an open-source project that enables agent-agnostic coding orchestration, providing a flexible and adaptable framework for automating complex tasks. This project is designed to bridge the gap between various AI/ML agents, allowing developers to orchestrate them seamlessly. With Ivy-Tendril, users can focus on building intelligent systems without worrying about the underlying complexities of agent interaction.
+Ivy-Tendril is an open-source project that enables agent-agnostic coding orchestration, providing a flexible framework for managing complex workflows and AI/ML tasks. This project streamlines the development process by allowing users to decouple their code from specific execution environments, making it easier to adapt to changing requirements and integrate with various tools. By promoting code portability and reusability, Ivy-Tendril aims to simplify the orchestration of AI/ML projects and accelerate innovation.
 
 ---
 

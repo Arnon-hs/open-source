@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The yandex-cloud/k8s-csi-s3 project provides a GeeseFS-based Container Storage Interface (CSI) driver that enables Kubernetes clusters to mount Amazon S3 buckets as Persistent Volumes. This allows users to leverage S3 storage as persistent storage for their applications, making it easier to manage stateful workloads. The project enables seamless integration between Kubernetes and S3 storage.
+The yandex-cloud/k8s-csi-s3 project provides a Cloud Storage Interface (CSI) driver for Kubernetes, allowing users to mount Amazon S3 buckets as Persistent Volumes (PVs) within their cluster. This driver is built on top of GeeseFS, a lightweight and efficient S3-compatible storage solution. By leveraging this CSI driver, users can easily integrate their S3 buckets with their Kubernetes applications.
 
 ---
 

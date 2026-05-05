@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Cluster Node Tuning Operator is an open-source project that manages node-level tuning by orchestrating the tuned daemon, allowing for efficient and automatic tuning of Linux systems. This operator enables administrators to easily configure and optimize their cluster nodes for improved performance and efficiency. By leveraging the tuned daemon, this project provides a scalable and reliable solution for node-level tuning.
+The Cluster Node Tuning Operator is an open-source project that manages node-level tuning by orchestrating the tuned daemon. It provides a unified way to configure and manage system-wide tuning settings across a Kubernetes cluster, improving performance, reducing latency, and enhancing overall system efficiency. This operator enables cluster administrators to centrally manage and enforce tuning policies, streamlining system maintenance and optimization.
 
 ---
 

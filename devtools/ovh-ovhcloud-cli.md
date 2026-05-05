@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The ovh/ovhcloud-cli project is an open-source, official command line interface developed by OVHcloud, allowing users to manage their OVHcloud services from the comfort of their terminal. With ovhcloud-cli, users can easily create, configure, and monitor their OVHcloud services, streamlining their experience and increasing productivity. This CLI provides a flexible and intuitive way to interact with OVHcloud services.
+The OVHcloud CLI is an open-source command line interface that allows users to manage their OVHcloud services from the comfort of their terminal. With this tool, users can easily create, configure, and monitor their OVHcloud infrastructure, including servers, networks, and more. The CLI provides a convenient and efficient way to automate tasks and streamline OVHcloud operations.
 
 ---
 

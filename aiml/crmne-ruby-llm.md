@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project 'crmne/ruby_llm':
+Here's a brief summary for the open-source project:
 
-This open-source project, 'ruby_llm', provides a comprehensive Ruby API for interacting with leading Large Language Models (LLMs) and AI services, including OpenAI, Anthropic, and Azure, among others. It offers a unified interface for various AI capabilities, such as chat, vision, audio processing, and more, making it easier to integrate AI functionality into Ruby applications. With its focus on Rails integration and streaming capabilities, 'ruby_llm' serves as a powerful tool for developers building AI-powered projects.
+The ruby_llm project provides a unified, open-source Ruby API for integrating various large language models (LLMs) with popular AI services, including OpenAI and others. This API offers a wide range of features, from chat and vision capabilities to image and audio processing, and supports various frameworks like Rails. By providing a single interface for multiple LLMs, ruby_llm simplifies the development process for AI-powered applications.
 
 ---
 

@@ -1,6 +1,6 @@
 # aplavin/julia-mcp
 
-[![Stars](https://img.shields.io/github/stars/aplavin/julia-mcp?style=flat-square&color=yellow)](https://github.com/aplavin/julia-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/aplavin/julia-mcp?style=flat-square&color=blue)](https://github.com/aplavin/julia-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aplavin/julia-mcp?style=flat-square&color=yellow)](https://github.com/aplavin/julia-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/aplavin/julia-mcp?style=flat-square&color=blue)](https://github.com/aplavin/julia-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for persistent Julia sessions — fast iteration without startup/compilation overhead
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 55 |
+| ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

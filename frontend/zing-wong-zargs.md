@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The zargs project is an open-source implementation of command-line argument parsing for the Zig programming language. It allows developers to build and manage command-line interfaces with ease, leveraging Zig's comptime feature for compile-time evaluation and optimization. This project aims to simplify the process of creating CLI tools and applications in Zig.
+Here's a brief summary for the open-source project:
+
+"zargs is an open-source, comptime-based Argparse library for the Zig programming language, designed to help developers create custom command-line tools with ease. This library empowers users to build CLI applications using a simple and expressive syntax, making it an ideal choice for building and managing command-line interfaces. With zargs, you can focus on writing the logic of your tool without worrying about the intricacies of command-line parsing."
 
 ---
 

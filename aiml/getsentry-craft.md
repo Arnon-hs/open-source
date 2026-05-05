@@ -25,9 +25,7 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-Here's a brief summary of the getsentry/craft project:
-
-Craft is an open-source, universal release CLI developed by Sentry, designed to streamline the process of building, deploying, and monitoring software releases across various platforms. This powerful tool enables developers to automate and standardize their release workflows, reducing complexity and increasing productivity. By leveraging Craft, teams can efficiently manage releases and ensure a seamless experience for their users.
+The getsentry/craft project is an open-source, universal command-line interface (CLI) for managing Sentry releases. This tool allows users to streamline their release workflows, making it easier to track and report issues across various projects and environments. Craft simplifies the process of creating, tracking, and troubleshooting releases, enabling developers to focus on delivering high-quality software.
 
 ---
 

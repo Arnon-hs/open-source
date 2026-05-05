@@ -1,6 +1,6 @@
 # Vela-Engineering/coach
 
-[![Stars](https://img.shields.io/github/stars/Vela-Engineering/coach?style=flat-square&color=yellow)](https://github.com/Vela-Engineering/coach/stargazers) [![Forks](https://img.shields.io/github/forks/Vela-Engineering/coach?style=flat-square&color=blue)](https://github.com/Vela-Engineering/coach/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vela-Engineering/coach?style=flat-square&color=yellow)](https://github.com/Vela-Engineering/coach/stargazers) [![Forks](https://img.shields.io/github/forks/Vela-Engineering/coach?style=flat-square&color=blue)](https://github.com/Vela-Engineering/coach/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > What a $500/hour coach would analyze after reading 90 days of your meetings.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

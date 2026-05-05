@@ -1,6 +1,6 @@
 # aws/aws-sam-cli
 
-[![Stars](https://img.shields.io/github/stars/aws/aws-sam-cli?style=flat-square&color=yellow)](https://github.com/aws/aws-sam-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-sam-cli?style=flat-square&color=blue)](https://github.com/aws/aws-sam-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/aws-sam-cli?style=flat-square&color=yellow)](https://github.com/aws/aws-sam-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-sam-cli?style=flat-square&color=blue)](https://github.com/aws/aws-sam-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 96/100 |
+| 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

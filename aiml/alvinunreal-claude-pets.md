@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Claude-pets is an open-source project that seamlessly integrates Claude Code with OpenPets, allowing users to automatically update their desktop pet's status with minimal setup requirements. This integration leverages artificial intelligence (AI) capabilities, enabling users to effortlessly keep their virtual pets up-to-date. The one-command setup makes it easy for users to get started and enjoy a more immersive virtual pet experience.
+Claude-Pets is an open-source project that seamlessly integrates Claude Code with OpenPets, allowing users to receive automatic desktop pet status updates with ease. This AI-powered integration enables effortless one-command setup, streamlining the process of staying connected with your virtual pets. By combining the capabilities of Claude Code and OpenPets, Claude-Pets offers a convenient and innovative way to interact with your digital companions.
 
 ---
 

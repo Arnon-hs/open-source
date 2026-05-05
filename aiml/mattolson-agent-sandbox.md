@@ -1,6 +1,6 @@
 # mattolson/agent-sandbox
 
-[![Stars](https://img.shields.io/github/stars/mattolson/agent-sandbox?style=flat-square&color=yellow)](https://github.com/mattolson/agent-sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/mattolson/agent-sandbox?style=flat-square&color=blue)](https://github.com/mattolson/agent-sandbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattolson/agent-sandbox?style=flat-square&color=yellow)](https://github.com/mattolson/agent-sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/mattolson/agent-sandbox?style=flat-square&color=blue)](https://github.com/mattolson/agent-sandbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Secure local dev environment collaboration with AI coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 171 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

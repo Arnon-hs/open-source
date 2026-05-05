@@ -1,6 +1,6 @@
 # JochenYang/luma-mcp
 
-[![Stars](https://img.shields.io/github/stars/JochenYang/luma-mcp?style=flat-square&color=yellow)](https://github.com/JochenYang/luma-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/JochenYang/luma-mcp?style=flat-square&color=blue)](https://github.com/JochenYang/luma-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JochenYang/luma-mcp?style=flat-square&color=yellow)](https://github.com/JochenYang/luma-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/JochenYang/luma-mcp?style=flat-square&color=blue)](https://github.com/JochenYang/luma-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-Model Visual Understanding MCP Server, GLM-4.6V, DeepSeek-OCR (free), and Qwen3-VL-Flash. Provide visual processing capabilities for AI coding models that do not support image understanding.多模型视觉理解MCP服务器，GLM-4.6V、DeepSeek-OCR（免费）和Qwen3-VL-Flash等。为不支持图片理解的 AI 编码模型提供视觉处理能力。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

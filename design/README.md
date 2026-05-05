@@ -36,8 +36,8 @@
 | 26 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 54/100 |
 | 27 | [elementary/icons](./elementary-icons.md) | ⭐ 587 | Meson | 54/100 |
 | 28 | [icon11-community/Folder11](./icon11-community-folder11.md) | ⭐ 1.8k | — | 54/100 |
-| 29 | [MercuryWorkshop/scramjet](./mercuryworkshop-scramjet.md) | ⭐ 408 | TypeScript | 53/100 |
-| 30 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
+| 29 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
+| 30 | [MercuryWorkshop/scramjet](./mercuryworkshop-scramjet.md) | ⭐ 408 | TypeScript | 53/100 |
 | 31 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
 | 32 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
 | 33 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 228 | Go | 52/100 |

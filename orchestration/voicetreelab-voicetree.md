@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The VoiceTree project is an open-source, spatial integrated development environment (IDE) designed for building recursive multi-agent orchestrations. This unique platform allows users to work directly within a graph view similar to Obsidian, streamlining the process of complex system design and coordination. By leveraging VoiceTree, developers can effectively orchestrate AI and ML systems in a more intuitive and efficient manner.
+The voicetree project is an open-source, spatial interface for recursive multi-agent orchestration, allowing users to work directly within a graph view similar to Obsidian. This innovative platform enables users to efficiently manage complex systems and interactions between multiple agents, making it an ideal tool for AI/ML applications and orchestration tasks. With voicetree, users can visualize and navigate complex relationships in a highly intuitive and interactive environment.
 
 ---
 
