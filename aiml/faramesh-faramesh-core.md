@@ -1,6 +1,6 @@
 # faramesh/faramesh-core
 
-[![Stars](https://img.shields.io/github/stars/faramesh/faramesh-core?style=flat-square&color=yellow)](https://github.com/faramesh/faramesh-core/stargazers) [![Forks](https://img.shields.io/github/forks/faramesh/faramesh-core?style=flat-square&color=blue)](https://github.com/faramesh/faramesh-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/faramesh/faramesh-core?style=flat-square&color=yellow)](https://github.com/faramesh/faramesh-core/stargazers) [![Forks](https://img.shields.io/github/forks/faramesh/faramesh-core?style=flat-square&color=blue)](https://github.com/faramesh/faramesh-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Runtime intervention and containment layer for AI agents - enforcing approval, least privilege, credential isolation, and durable evidence before risky actions execute.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 47 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 48 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

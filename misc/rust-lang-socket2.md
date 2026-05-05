@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The socket2 project for Rust provides advanced configuration options for sockets, extending the functionality of the standard library's socket API. This open-source project allows developers to create high-performance and customizable network applications with fine-grained control over socket behavior. By offering a more comprehensive set of socket configuration options, socket2 enables developers to optimize their network code for specific use cases.
+The rust-lang/socket2 project is an open-source library that provides advanced configuration options for sockets. It allows developers to fine-tune socket behavior, enabling more control over network communication. By leveraging this library, developers can create more robust and customizable networking solutions in Rust.
 
 ---
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/nikoma/carrier?style=flat-square&color=yellow)](https://github.com/nikoma/carrier/stargazers) [![Forks](https://img.shields.io/github/forks/nikoma/carrier?style=flat-square&color=blue)](https://github.com/nikoma/carrier/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Turn business specs into production-ready APIs with built-in auth, DB, and compliance.
+> It only takes minutes to turn business specs into production-ready APIs with built-in auth, DB, and compliance.
 
 ## 📊 Stats
 

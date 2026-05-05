@@ -31,14 +31,14 @@
 | 21 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
 | 22 | [deadsy/sdfx](./deadsy-sdfx.md) | ⭐ 613 | Go | 51/100 |
 | 23 | [nil-go/konf](./nil-go-konf.md) | ⭐ 380 | Go | 49/100 |
-| 24 | [garritfra/cell](./garritfra-cell.md) | ⭐ 276 | Rust | 47/100 |
+| 24 | [garritfra/cell](./garritfra-cell.md) | ⭐ 275 | Rust | 47/100 |
 | 25 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 17 | — | 46/100 |
 | 26 | [angr/cle](./angr-cle.md) | ⭐ 480 | Python | 45/100 |
 | 27 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 341 | Go | 43/100 |
 | 28 | [AzureIvory/block-ads](./azureivory-block-ads.md) | ⭐ 197 | Go | 42/100 |
 | 29 | [wdecoster/cramino](./wdecoster-cramino.md) | ⭐ 182 | Rust | 41/100 |
 | 30 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 307 | Go | 38/100 |
-| 31 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 3 | — | 32/100 |
+| 31 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 3 | — | 36/100 |
 
 ---
 

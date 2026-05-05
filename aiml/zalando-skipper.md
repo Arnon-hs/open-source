@@ -1,6 +1,6 @@
 # zalando/skipper
 
-[![Stars](https://img.shields.io/github/stars/zalando/skipper?style=flat-square&color=yellow)](https://github.com/zalando/skipper/stargazers) [![Forks](https://img.shields.io/github/forks/zalando/skipper?style=flat-square&color=blue)](https://github.com/zalando/skipper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zalando/skipper?style=flat-square&color=yellow)](https://github.com/zalando/skipper/stargazers) [![Forks](https://img.shields.io/github/forks/zalando/skipper?style=flat-square&color=blue)](https://github.com/zalando/skipper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 387 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

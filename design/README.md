@@ -12,7 +12,7 @@
 | 2 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.2k | JavaScript | 100/100 |
 | 3 | [cheat/cheat](./cheat-cheat.md) | ⭐ 13.3k | Go | 98/100 |
 | 4 | [roboflow/rf-detr](./roboflow-rf-detr.md) | ⭐ 6.9k | Python | 97/100 |
-| 5 | [vscode-icons/vscode-icons](./vscode-icons-vscode-icons.md) | ⭐ 5k | TypeScript | 96/100 |
+| 5 | [vscode-icons/vscode-icons](./vscode-icons-vscode-icons.md) | ⭐ 5.1k | TypeScript | 96/100 |
 | 6 | [dotnet/csharplang](./dotnet-csharplang.md) | ⭐ 12.6k | C# | 93/100 |
 | 7 | [safing/portmaster](./safing-portmaster.md) | ⭐ 12.6k | Go | 92/100 |
 | 8 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.7k | Scala | 91/100 |
@@ -43,8 +43,8 @@
 | 33 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
 | 34 | [processing/processing4](./processing-processing4.md) | ⭐ 394 | Java | 51/100 |
 | 35 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 603 | PHP | 50/100 |
-| 36 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
-| 37 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 468 | JavaScript | 49/100 |
+| 36 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 468 | JavaScript | 49/100 |
+| 37 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
 | 38 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 367 | Go | 49/100 |
 | 39 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 48/100 |
 | 40 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |

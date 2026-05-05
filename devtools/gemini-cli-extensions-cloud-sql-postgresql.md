@@ -1,6 +1,6 @@
 # gemini-cli-extensions/cloud-sql-postgresql
 
-[![Stars](https://img.shields.io/github/stars/gemini-cli-extensions/cloud-sql-postgresql?style=flat-square&color=yellow)](https://github.com/gemini-cli-extensions/cloud-sql-postgresql/stargazers) [![Forks](https://img.shields.io/github/forks/gemini-cli-extensions/cloud-sql-postgresql?style=flat-square&color=blue)](https://github.com/gemini-cli-extensions/cloud-sql-postgresql/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gemini-cli-extensions/cloud-sql-postgresql?style=flat-square&color=yellow)](https://github.com/gemini-cli-extensions/cloud-sql-postgresql/stargazers) [![Forks](https://img.shields.io/github/forks/gemini-cli-extensions/cloud-sql-postgresql?style=flat-square&color=blue)](https://github.com/gemini-cli-extensions/cloud-sql-postgresql/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Skills for Cloud SQL for PostgreSQL
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

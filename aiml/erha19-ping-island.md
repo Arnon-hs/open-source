@@ -1,6 +1,6 @@
 # erha19/ping-island
 
-[![Stars](https://img.shields.io/github/stars/erha19/ping-island?style=flat-square&color=yellow)](https://github.com/erha19/ping-island/stargazers) [![Forks](https://img.shields.io/github/forks/erha19/ping-island?style=flat-square&color=blue)](https://github.com/erha19/ping-island/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erha19/ping-island?style=flat-square&color=yellow)](https://github.com/erha19/ping-island/stargazers) [![Forks](https://img.shields.io/github/forks/erha19/ping-island?style=flat-square&color=blue)](https://github.com/erha19/ping-island/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A macOS menu bar (Vibe Island liked ) app that monitors AI coding sessions in a Dynamic Island-style surface — approve, respond, and jump back to the right window, all from the notch.         一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 403 |
+| ⭐ **Stars** | 419 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

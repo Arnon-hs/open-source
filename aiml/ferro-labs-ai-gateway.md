@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/ferro-labs/ai-gateway?style=flat-square&color=yellow)](https://github.com/ferro-labs/ai-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/ferro-labs/ai-gateway?style=flat-square&color=blue)](https://github.com/ferro-labs/ai-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> One API for 25+ LLMs, OpenAI, Anthropic, Bedrock, Azure. Caching, guardrails & cost controls. Go-native LiteLLM & Kong AI Gateway alternative.
+> One API for 30+ LLMs, OpenAI, Anthropic, Bedrock, Azure. Caching, guardrails & cost controls. Go-native LiteLLM & Kong AI Gateway alternative.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 80 |
+| ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |

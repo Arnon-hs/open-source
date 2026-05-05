@@ -1,6 +1,6 @@
 # getsentry/sentry-php
 
-[![Stars](https://img.shields.io/github/stars/getsentry/sentry-php?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-php/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-php?style=flat-square&color=blue)](https://github.com/getsentry/sentry-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getsentry/sentry-php?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-php/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-php?style=flat-square&color=blue)](https://github.com/getsentry/sentry-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The official PHP SDK for Sentry (sentry.io)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 466 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

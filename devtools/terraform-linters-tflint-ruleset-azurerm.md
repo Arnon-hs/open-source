@@ -1,6 +1,6 @@
 # terraform-linters/tflint-ruleset-azurerm
 
-[![Stars](https://img.shields.io/github/stars/terraform-linters/tflint-ruleset-azurerm?style=flat-square&color=yellow)](https://github.com/terraform-linters/tflint-ruleset-azurerm/stargazers) [![Forks](https://img.shields.io/github/forks/terraform-linters/tflint-ruleset-azurerm?style=flat-square&color=blue)](https://github.com/terraform-linters/tflint-ruleset-azurerm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terraform-linters/tflint-ruleset-azurerm?style=flat-square&color=yellow)](https://github.com/terraform-linters/tflint-ruleset-azurerm/stargazers) [![Forks](https://img.shields.io/github/forks/terraform-linters/tflint-ruleset-azurerm?style=flat-square&color=blue)](https://github.com/terraform-linters/tflint-ruleset-azurerm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > TFLint ruleset for terraform-provider-azurerm
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Symta is an open-source project that appears to be an amalgamation of three different programming languages: Lisp, Refal, and Pop-11. This unusual fusion aims to create a unique programming environment that combines the strengths of each language. While its motivations and goals are unclear, the project showcases the creative possibilities of code reuse and language experimentation.
+Symta is an open-source project that combines elements from Lisp, Refal, and Pop-11 into a unique programming environment. This abomination, as its title suggests, brings together disparate languages in a single platform, offering users a novel and experimental approach to programming. By embracing the diversity of these languages, Symta provides a fascinating playground for developers to explore and innovate.
 
 ---
 

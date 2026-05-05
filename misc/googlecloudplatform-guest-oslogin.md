@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/guest-oslogin
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/guest-oslogin?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/guest-oslogin/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/guest-oslogin?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/guest-oslogin/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/guest-oslogin?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/guest-oslogin/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/guest-oslogin?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/guest-oslogin/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > OS Login Guest Environment for Google Compute Engine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

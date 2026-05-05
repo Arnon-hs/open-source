@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The danielpigott/cloudflare-cli project is an open-source command-line interface (CLI) designed to interact with Cloudflare services. This tool provides users with a simple and efficient way to manage their Cloudflare configurations, DNS, and other settings from the terminal. By leveraging the CLI, users can streamline their Cloudflare management process and automate tasks with ease.
+The danielpigott/cloudflare-cli project provides an open-source command-line interface (CLI) for interacting with Cloudflare, enabling users to manage their Cloudflare accounts and DNS records from the comfort of their terminal. This tool offers a convenient and efficient way to perform tasks such as DNS record management, zone updates, and more. It is designed to simplify Cloudflare management and reduce the need for manual web interfaces.
 
 ---
 

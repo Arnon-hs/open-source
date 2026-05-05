@@ -1,6 +1,6 @@
 # JEG2/highline
 
-[![Stars](https://img.shields.io/github/stars/JEG2/highline?style=flat-square&color=yellow)](https://github.com/JEG2/highline/stargazers) [![Forks](https://img.shields.io/github/forks/JEG2/highline?style=flat-square&color=blue)](https://github.com/JEG2/highline/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JEG2/highline?style=flat-square&color=yellow)](https://github.com/JEG2/highline/stargazers) [![Forks](https://img.shields.io/github/forks/JEG2/highline?style=flat-square&color=blue)](https://github.com/JEG2/highline/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A higher level command-line oriented interface.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

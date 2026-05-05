@@ -1,6 +1,6 @@
 # spring-ai-community/spring-ai-playground
 
-[![Stars](https://img.shields.io/github/stars/spring-ai-community/spring-ai-playground?style=flat-square&color=yellow)](https://github.com/spring-ai-community/spring-ai-playground/stargazers) [![Forks](https://img.shields.io/github/forks/spring-ai-community/spring-ai-playground?style=flat-square&color=blue)](https://github.com/spring-ai-community/spring-ai-playground/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spring-ai-community/spring-ai-playground?style=flat-square&color=yellow)](https://github.com/spring-ai-community/spring-ai-playground/stargazers) [![Forks](https://img.shields.io/github/forks/spring-ai-community/spring-ai-playground?style=flat-square&color=blue)](https://github.com/spring-ai-community/spring-ai-playground/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Safe local execution layer for AI agent tools. Build, validate, and publish MCP tools with a no-pass-no-run workflow — cross-platform desktop app powered by Spring AI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 108 |
+| ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

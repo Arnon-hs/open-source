@@ -1,6 +1,6 @@
 # think41/extrasuite
 
-[![Stars](https://img.shields.io/github/stars/think41/extrasuite?style=flat-square&color=yellow)](https://github.com/think41/extrasuite/stargazers) [![Forks](https://img.shields.io/github/forks/think41/extrasuite?style=flat-square&color=blue)](https://github.com/think41/extrasuite/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/think41/extrasuite?style=flat-square&color=yellow)](https://github.com/think41/extrasuite/stargazers) [![Forks](https://img.shields.io/github/forks/think41/extrasuite?style=flat-square&color=blue)](https://github.com/think41/extrasuite/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Token-efficient pull/edit/push workflow for AI agents editing Google Workspace files (Sheets, Docs, Slides, Forms)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 145 |
+| ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 33/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

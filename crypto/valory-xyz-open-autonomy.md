@@ -1,6 +1,6 @@
 # valory-xyz/open-autonomy
 
-[![Stars](https://img.shields.io/github/stars/valory-xyz/open-autonomy?style=flat-square&color=yellow)](https://github.com/valory-xyz/open-autonomy/stargazers) [![Forks](https://img.shields.io/github/forks/valory-xyz/open-autonomy?style=flat-square&color=blue)](https://github.com/valory-xyz/open-autonomy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/valory-xyz/open-autonomy?style=flat-square&color=yellow)](https://github.com/valory-xyz/open-autonomy/stargazers) [![Forks](https://img.shields.io/github/forks/valory-xyz/open-autonomy?style=flat-square&color=blue)](https://github.com/valory-xyz/open-autonomy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A framework for the creation of autonomous agent services.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

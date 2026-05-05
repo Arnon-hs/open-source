@@ -1,6 +1,6 @@
 # lilypond/lilypond
 
-[![Stars](https://img.shields.io/github/stars/lilypond/lilypond?style=flat-square&color=yellow)](https://github.com/lilypond/lilypond/stargazers) [![Forks](https://img.shields.io/github/forks/lilypond/lilypond?style=flat-square&color=blue)](https://github.com/lilypond/lilypond/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lilypond/lilypond?style=flat-square&color=yellow)](https://github.com/lilypond/lilypond/stargazers) [![Forks](https://img.shields.io/github/forks/lilypond/lilypond?style=flat-square&color=blue)](https://github.com/lilypond/lilypond/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > This is just a mirror of GNU LilyPond repository.  If you'd like to contribute to LilyPond, please look at http://www.lilypond.org/development.html
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 642 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

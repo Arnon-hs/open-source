@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-collector-releases
 
-[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector-releases?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-collector-releases/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-collector-releases?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-collector-releases/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector-releases?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-collector-releases/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-collector-releases?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-collector-releases/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > OpenTelemetry Collector Official Releases
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 467 |
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

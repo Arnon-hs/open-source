@@ -1,6 +1,6 @@
 # Xiaoher-C/agentbnb
 
-[![Stars](https://img.shields.io/github/stars/Xiaoher-C/agentbnb?style=flat-square&color=yellow)](https://github.com/Xiaoher-C/agentbnb/stargazers) [![Forks](https://img.shields.io/github/forks/Xiaoher-C/agentbnb?style=flat-square&color=blue)](https://github.com/Xiaoher-C/agentbnb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xiaoher-C/agentbnb?style=flat-square&color=yellow)](https://github.com/Xiaoher-C/agentbnb/stargazers) [![Forks](https://img.shields.io/github/forks/Xiaoher-C/agentbnb?style=flat-square&color=blue)](https://github.com/Xiaoher-C/agentbnb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Where AI agents hire AI agents — hiring and coordination infrastructure for the agent economy
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 30 |
+| ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # mongodb/mongodb-atlas-cli
 
-[![Stars](https://img.shields.io/github/stars/mongodb/mongodb-atlas-cli?style=flat-square&color=yellow)](https://github.com/mongodb/mongodb-atlas-cli/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb/mongodb-atlas-cli?style=flat-square&color=blue)](https://github.com/mongodb/mongodb-atlas-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mongodb/mongodb-atlas-cli?style=flat-square&color=yellow)](https://github.com/mongodb/mongodb-atlas-cli/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb/mongodb-atlas-cli?style=flat-square&color=blue)](https://github.com/mongodb/mongodb-atlas-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > MongoDB Atlas CLI enables you to manage your MongoDB in the Cloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 184 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,8 +1,8 @@
 # leeseomin/VoidPlayer-releases
 
-[![Stars](https://img.shields.io/github/stars/leeseomin/VoidPlayer-releases?style=flat-square&color=yellow)](https://github.com/leeseomin/VoidPlayer-releases/stargazers) [![Forks](https://img.shields.io/github/forks/leeseomin/VoidPlayer-releases?style=flat-square&color=blue)](https://github.com/leeseomin/VoidPlayer-releases/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leeseomin/VoidPlayer-releases?style=flat-square&color=yellow)](https://github.com/leeseomin/VoidPlayer-releases/stargazers) [![Forks](https://img.shields.io/github/forks/leeseomin/VoidPlayer-releases?style=flat-square&color=blue)](https://github.com/leeseomin/VoidPlayer-releases/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> A local-first music player for macOS.
+> A free, local-first music player for macOS.
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 656 |
-| 🍴 **Forks** | 259 |
+| 🍴 **Forks** | 260 |
 | 💻 **Language** | Julia |
 | 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |

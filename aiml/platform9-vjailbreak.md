@@ -1,6 +1,6 @@
 # platform9/vjailbreak
 
-[![Stars](https://img.shields.io/github/stars/platform9/vjailbreak?style=flat-square&color=yellow)](https://github.com/platform9/vjailbreak/stargazers) [![Forks](https://img.shields.io/github/forks/platform9/vjailbreak?style=flat-square&color=blue)](https://github.com/platform9/vjailbreak/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/platform9/vjailbreak?style=flat-square&color=yellow)](https://github.com/platform9/vjailbreak/stargazers) [![Forks](https://img.shields.io/github/forks/platform9/vjailbreak?style=flat-square&color=blue)](https://github.com/platform9/vjailbreak/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Helping VMware users migrate to alternative Hypervisors
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

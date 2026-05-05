@@ -1,6 +1,6 @@
 # clidey/whodb
 
-[![Stars](https://img.shields.io/github/stars/clidey/whodb?style=flat-square&color=yellow)](https://github.com/clidey/whodb/stargazers) [![Forks](https://img.shields.io/github/forks/clidey/whodb?style=flat-square&color=blue)](https://github.com/clidey/whodb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clidey/whodb?style=flat-square&color=yellow)](https://github.com/clidey/whodb/stargazers) [![Forks](https://img.shields.io/github/forks/clidey/whodb?style=flat-square&color=blue)](https://github.com/clidey/whodb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

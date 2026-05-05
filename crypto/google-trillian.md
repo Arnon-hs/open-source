@@ -25,7 +25,7 @@ Crypto · Data
 
 ## 📝 Summary
 
-Trillian is an open-source, transparent data store designed for scalability and cryptographic verifiability. Built by Google, it enables secure and efficient storage of data while maintaining transparency and integrity, making it suitable for applications requiring high levels of trust and data assurance. Its cryptographic features ensure that data stored within Trillian can be accurately verified and trusted.
+Trillian is an open-source, highly scalable data store that prioritizes transparency and cryptographic verifiability. Developed by Google, this project allows for secure and reliable data storage, ensuring the integrity of stored information through cryptographic verification. Its transparent design provides a high level of trust and confidence for users.
 
 ---
 

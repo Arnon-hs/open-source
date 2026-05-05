@@ -25,9 +25,9 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the safedep/gryph project:
+Here's a brief summary for the safedep/gryph project:
 
-Gryph is an open-source security layer designed to enhance the safety of AI coding agents. It is compatible with a range of popular platforms, including Claude Code, Cursor, and OpenCode, among others. By integrating Gryph, developers can significantly improve the security and reliability of their AI-powered coding experiences.
+Gryph is an open-source security layer designed to safeguard AI coding agents, compatible with a range of popular tools including Claude Code, Cursor, and Gemini CLI. This project aims to enhance the security and reliability of AI-powered development environments. By providing a secure foundation for AI coding agents, Gryph helps protect against potential vulnerabilities and threats.
 
 ---
 

@@ -1,6 +1,6 @@
 # shiahonb777/turn-mcp
 
-[![Stars](https://img.shields.io/github/stars/shiahonb777/turn-mcp?style=flat-square&color=yellow)](https://github.com/shiahonb777/turn-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/shiahonb777/turn-mcp?style=flat-square&color=blue)](https://github.com/shiahonb777/turn-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shiahonb777/turn-mcp?style=flat-square&color=yellow)](https://github.com/shiahonb777/turn-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/shiahonb777/turn-mcp?style=flat-square&color=blue)](https://github.com/shiahonb777/turn-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Achieve infinite conversation turns in a single API request via turn-mcp.             Self-hosted MCP server with browser console for human-in-the-loop AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # second-state/WasmEdge-WASINN-examples
 
-[![Stars](https://img.shields.io/github/stars/second-state/WasmEdge-WASINN-examples?style=flat-square&color=yellow)](https://github.com/second-state/WasmEdge-WASINN-examples/stargazers) [![Forks](https://img.shields.io/github/forks/second-state/WasmEdge-WASINN-examples?style=flat-square&color=blue)](https://github.com/second-state/WasmEdge-WASINN-examples/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/second-state/WasmEdge-WASINN-examples?style=flat-square&color=yellow)](https://github.com/second-state/WasmEdge-WASINN-examples/stargazers) [![Forks](https://img.shields.io/github/forks/second-state/WasmEdge-WASINN-examples?style=flat-square&color=blue)](https://github.com/second-state/WasmEdge-WASINN-examples/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 260 |
-| 🍴 **Forks** | 46 |
+| ⭐ **Stars** | 259 |
+| 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

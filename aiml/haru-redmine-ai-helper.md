@@ -1,6 +1,6 @@
 # haru/redmine_ai_helper
 
-[![Stars](https://img.shields.io/github/stars/haru/redmine_ai_helper?style=flat-square&color=yellow)](https://github.com/haru/redmine_ai_helper/stargazers) [![Forks](https://img.shields.io/github/forks/haru/redmine_ai_helper?style=flat-square&color=blue)](https://github.com/haru/redmine_ai_helper/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haru/redmine_ai_helper?style=flat-square&color=yellow)](https://github.com/haru/redmine_ai_helper/stargazers) [![Forks](https://img.shields.io/github/forks/haru/redmine_ai_helper?style=flat-square&color=blue)](https://github.com/haru/redmine_ai_helper/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Add AI Agent to Redmine
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 82 |
+| ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

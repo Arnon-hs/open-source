@@ -1,6 +1,6 @@
 # pattern-ai-labs/agentcall
 
-[![Stars](https://img.shields.io/github/stars/pattern-ai-labs/agentcall?style=flat-square&color=yellow)](https://github.com/pattern-ai-labs/agentcall/stargazers) [![Forks](https://img.shields.io/github/forks/pattern-ai-labs/agentcall?style=flat-square&color=blue)](https://github.com/pattern-ai-labs/agentcall/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pattern-ai-labs/agentcall?style=flat-square&color=yellow)](https://github.com/pattern-ai-labs/agentcall/stargazers) [![Forks](https://img.shields.io/github/forks/pattern-ai-labs/agentcall?style=flat-square&color=blue)](https://github.com/pattern-ai-labs/agentcall/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > AgentCall lets AI Agents join meetings with voice, video & screen-share to build together. Supports Google Meet, Teams, Zoom (Beta)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

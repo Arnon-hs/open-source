@@ -1,6 +1,6 @@
 # muzei/muzei
 
-[![Stars](https://img.shields.io/github/stars/muzei/muzei?style=flat-square&color=yellow)](https://github.com/muzei/muzei/stargazers) [![Forks](https://img.shields.io/github/forks/muzei/muzei?style=flat-square&color=blue)](https://github.com/muzei/muzei/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/muzei/muzei?style=flat-square&color=yellow)](https://github.com/muzei/muzei/stargazers) [![Forks](https://img.shields.io/github/forks/muzei/muzei?style=flat-square&color=blue)](https://github.com/muzei/muzei/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Muzei Live Wallpaper for Android
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 955 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

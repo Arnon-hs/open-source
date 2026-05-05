@@ -1,6 +1,6 @@
 # upstash/box
 
-[![Stars](https://img.shields.io/github/stars/upstash/box?style=flat-square&color=yellow)](https://github.com/upstash/box/stargazers) [![Forks](https://img.shields.io/github/forks/upstash/box?style=flat-square&color=blue)](https://github.com/upstash/box/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/upstash/box?style=flat-square&color=yellow)](https://github.com/upstash/box/stargazers) [![Forks](https://img.shields.io/github/forks/upstash/box?style=flat-square&color=blue)](https://github.com/upstash/box/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript SDK and CLI for Upstash Box — sandboxed AI coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # electerm/electerm-web-docker
 
-[![Stars](https://img.shields.io/github/stars/electerm/electerm-web-docker?style=flat-square&color=yellow)](https://github.com/electerm/electerm-web-docker/stargazers) [![Forks](https://img.shields.io/github/forks/electerm/electerm-web-docker?style=flat-square&color=blue)](https://github.com/electerm/electerm-web-docker/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/electerm/electerm-web-docker?style=flat-square&color=yellow)](https://github.com/electerm/electerm-web-docker/stargazers) [![Forks](https://img.shields.io/github/forks/electerm/electerm-web-docker?style=flat-square&color=blue)](https://github.com/electerm/electerm-web-docker/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > docker image of electerm-web
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

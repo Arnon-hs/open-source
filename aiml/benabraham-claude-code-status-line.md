@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Claude Code Status Line is an open-source project that provides a status line script for the Claude Code CLI. This script displays essential context and information, including model details, quota usage, git branch, and current working directory. By offering a customizable status line, the project enhances user experience and productivity when working with the Claude Code CLI.
+Here's a brief summary of the project:
+
+This is an open-source status line script designed for the Claude Code CLI, providing users with a comprehensive overview of their context and quota usage, model selection, current Git branch, and file path. The script aims to enhance the user experience by presenting essential information at a glance. It caters to developers and AI/ML professionals who utilize the Claude Code CLI for their projects.
 
 ---
 

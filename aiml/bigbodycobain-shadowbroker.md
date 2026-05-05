@@ -1,6 +1,6 @@
 # BigBodyCobain/Shadowbroker
 
-[![Stars](https://img.shields.io/github/stars/BigBodyCobain/Shadowbroker?style=flat-square&color=yellow)](https://github.com/BigBodyCobain/Shadowbroker/stargazers) [![Forks](https://img.shields.io/github/forks/BigBodyCobain/Shadowbroker?style=flat-square&color=blue)](https://github.com/BigBodyCobain/Shadowbroker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BigBodyCobain/Shadowbroker?style=flat-square&color=yellow)](https://github.com/BigBodyCobain/Shadowbroker/stargazers) [![Forks](https://img.shields.io/github/forks/BigBodyCobain/Shadowbroker?style=flat-square&color=blue)](https://github.com/BigBodyCobain/Shadowbroker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it be your eyes and form previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.8k |
-| 🍴 **Forks** | 897 |
+| 🍴 **Forks** | 902 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 98/100 |
+| 📈 **Score** | 99/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

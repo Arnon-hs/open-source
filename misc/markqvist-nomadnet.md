@@ -1,6 +1,6 @@
 # markqvist/NomadNet
 
-[![Stars](https://img.shields.io/github/stars/markqvist/NomadNet?style=flat-square&color=yellow)](https://github.com/markqvist/NomadNet/stargazers) [![Forks](https://img.shields.io/github/forks/markqvist/NomadNet?style=flat-square&color=blue)](https://github.com/markqvist/NomadNet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/markqvist/NomadNet?style=flat-square&color=yellow)](https://github.com/markqvist/NomadNet/stargazers) [![Forks](https://img.shields.io/github/forks/markqvist/NomadNet?style=flat-square&color=blue)](https://github.com/markqvist/NomadNet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Communicate Freely
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 130 |
+| 🍴 **Forks** | 131 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

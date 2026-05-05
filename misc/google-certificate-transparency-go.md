@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Certificate Transparency (CT) project, developed by Google as an open-source initiative, aims to promote transparency in the issuance and revocation of TLS certificates. The certificate-transparency-go project provides a Go library for auditing and monitoring TLS certificates, enabling secure and transparent verification of digital identities. By utilizing this library, developers can ensure the integrity of online communications and prevent certificate misissuance.
+The Certificate Transparency Go project is an open-source auditing tool that monitors and logs TLS certificates for secure online communications. It utilizes Go code to ensure transparency and accountability in the issuance and management of digital certificates, helping to prevent malicious activities and maintain trust in online interactions. By auditing certificate issuance, revocation, and updates, this project promotes a more secure and trustworthy online ecosystem.
 
 ---
 

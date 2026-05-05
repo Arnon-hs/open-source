@@ -1,8 +1,8 @@
 # limitcool/bilistream
 
-[![Stars](https://img.shields.io/github/stars/limitcool/bilistream?style=flat-square&color=yellow)](https://github.com/limitcool/bilistream/stargazers) [![Forks](https://img.shields.io/github/forks/limitcool/bilistream?style=flat-square&color=blue)](https://github.com/limitcool/bilistream/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/limitcool/bilistream?style=flat-square&color=yellow)](https://github.com/limitcool/bilistream/stargazers) [![Forks](https://img.shields.io/github/forks/limitcool/bilistream?style=flat-square&color=blue)](https://github.com/limitcool/bilistream/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
-> bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。
+> bilistream 是一个面向 self-host 场景的 B 站自动转播工具，用于无人值守地监控 Twitch、YouTube、YouTube 预告直播，并在源站开播时自动推流到 B 站。
 
 ## 📊 Stats
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 19 |
-| 💻 **Language** | Rust |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

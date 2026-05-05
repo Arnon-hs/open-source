@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project showcases a 49-line physics classifier that outperforms the widely used k-Nearest Neighbors (kNN) algorithm in 76% of benchmark tests. Developed through a discovery on Hacker News, the project's concise code makes it easily accessible for researchers and developers to explore its capabilities. The classifier's performance can provide valuable insights and potentially lead to improvements in various machine learning applications.
+This open-source project showcases a remarkably simple yet effective physics-based classifier that outperforms the traditional k-Nearest Neighbors (kNN) algorithm on 76% of benchmarks. With only 49 lines of code, this model demonstrates the power of physics-inspired approaches in machine learning. By leveraging physical principles, it achieves superior performance on a range of tasks.
 
 ---
 

@@ -1,6 +1,6 @@
 # rafaeltonholo/svg-to-compose
 
-[![Stars](https://img.shields.io/github/stars/rafaeltonholo/svg-to-compose?style=flat-square&color=yellow)](https://github.com/rafaeltonholo/svg-to-compose/stargazers) [![Forks](https://img.shields.io/github/forks/rafaeltonholo/svg-to-compose?style=flat-square&color=blue)](https://github.com/rafaeltonholo/svg-to-compose/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rafaeltonholo/svg-to-compose?style=flat-square&color=yellow)](https://github.com/rafaeltonholo/svg-to-compose/stargazers) [![Forks](https://img.shields.io/github/forks/rafaeltonholo/svg-to-compose?style=flat-square&color=blue)](https://github.com/rafaeltonholo/svg-to-compose/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Convert SVG and Android Vector Drawables (XML) into Jetpack Compose ImageVector code. CLI, Gradle plugin, and online playground. Kotlin Multiplatform supported.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 202 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

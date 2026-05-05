@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-Gymnasium RL Environments in Julia is an open-source project that brings Gymnasium, a library of reinforcement learning environments, to the Julia programming language. This project aims to provide a seamless integration of Gymnasium's extensive set of environments with Julia's high-performance capabilities, enabling researchers and developers to build and experiment with complex reinforcement learning models. By leveraging Julia's speed and Gymnasium's diverse environments, users can accelerate their RL research and development.
+Gymnasium RL Environments in Julia is an open-source project that brings the Gymnasium library, a multi-environment framework for reinforcement learning, to the Julia programming language. This library provides a unified interface for various environments, enabling users to experiment with different reinforcement learning scenarios and algorithms. By integrating Gymnasium with Julia, this project aims to facilitate the development of reinforcement learning applications with high performance and ease of use.
 
 ---
 

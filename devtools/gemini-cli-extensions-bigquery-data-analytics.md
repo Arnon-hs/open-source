@@ -1,6 +1,6 @@
 # gemini-cli-extensions/bigquery-data-analytics
 
-[![Stars](https://img.shields.io/github/stars/gemini-cli-extensions/bigquery-data-analytics?style=flat-square&color=yellow)](https://github.com/gemini-cli-extensions/bigquery-data-analytics/stargazers) [![Forks](https://img.shields.io/github/forks/gemini-cli-extensions/bigquery-data-analytics?style=flat-square&color=blue)](https://github.com/gemini-cli-extensions/bigquery-data-analytics/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gemini-cli-extensions/bigquery-data-analytics?style=flat-square&color=yellow)](https://github.com/gemini-cli-extensions/bigquery-data-analytics/stargazers) [![Forks](https://img.shields.io/github/forks/gemini-cli-extensions/bigquery-data-analytics?style=flat-square&color=blue)](https://github.com/gemini-cli-extensions/bigquery-data-analytics/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Data Analytics skills for BigQuery
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

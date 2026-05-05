@@ -1,6 +1,6 @@
 # MattDevy/pi-extensions
 
-[![Stars](https://img.shields.io/github/stars/MattDevy/pi-extensions?style=flat-square&color=yellow)](https://github.com/MattDevy/pi-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/MattDevy/pi-extensions?style=flat-square&color=blue)](https://github.com/MattDevy/pi-extensions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MattDevy/pi-extensions?style=flat-square&color=yellow)](https://github.com/MattDevy/pi-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/MattDevy/pi-extensions?style=flat-square&color=blue)](https://github.com/MattDevy/pi-extensions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A set of pi-extensions, including pi-continuous-learning that continually improves you pi coding agent experience
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

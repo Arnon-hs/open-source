@@ -1,6 +1,6 @@
 # Sets88/sets88_telegram_bot
 
-[![Stars](https://img.shields.io/github/stars/Sets88/sets88_telegram_bot?style=flat-square&color=yellow)](https://github.com/Sets88/sets88_telegram_bot/stargazers) [![Forks](https://img.shields.io/github/forks/Sets88/sets88_telegram_bot?style=flat-square&color=blue)](https://github.com/Sets88/sets88_telegram_bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sets88/sets88_telegram_bot?style=flat-square&color=yellow)](https://github.com/Sets88/sets88_telegram_bot/stargazers) [![Forks](https://img.shields.io/github/forks/Sets88/sets88_telegram_bot?style=flat-square&color=blue)](https://github.com/Sets88/sets88_telegram_bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Personal Telegram bot with a wide range of capabilities, it stays in permanent proof of concept stage so don't blame me for quality of code )
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 117 |
+| ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,9 @@ AI/ML · Backend · Mobile
 
 ## 📝 Summary
 
-The Marionette MCP project is an open-source server that enables AI agents to interact with Flutter mobile applications in real-time. This powerful tool allows AI agents to inspect widgets, simulate user interactions such as taps and scrolls, and even enter text within the app. By providing a robust interface for AI-agent app interaction, Marionette MCP facilitates advanced testing and automation capabilities for Flutter developers.
+Here's a 2-3 sentence summary for the leancodepl/marionette_mcp project:
+
+Marionette MCP is an open-source server enabling AI agents to interact with Flutter apps at runtime. It provides a platform for AI agents to inspect widgets, simulate user interactions, and capture visual representations of the app, facilitating seamless integration of AI capabilities with Flutter applications. This project supports the development of sophisticated AI-powered mobile applications.
 
 ---
 

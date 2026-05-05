@@ -1,6 +1,6 @@
 # tair-opensource/RedisShake
 
-[![Stars](https://img.shields.io/github/stars/tair-opensource/RedisShake?style=flat-square&color=yellow)](https://github.com/tair-opensource/RedisShake/stargazers) [![Forks](https://img.shields.io/github/forks/tair-opensource/RedisShake?style=flat-square&color=blue)](https://github.com/tair-opensource/RedisShake/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tair-opensource/RedisShake?style=flat-square&color=yellow)](https://github.com/tair-opensource/RedisShake/stargazers) [![Forks](https://img.shields.io/github/forks/tair-opensource/RedisShake?style=flat-square&color=blue)](https://github.com/tair-opensource/RedisShake/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > RedisShake is a Valkey/Redis data processing and migration tool.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 765 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

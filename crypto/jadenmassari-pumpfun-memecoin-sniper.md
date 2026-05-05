@@ -25,9 +25,9 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
+Here's a brief summary of the open-source project:
 
-The PumpFun Memecoin Sniper Bot is an ultra-fast and efficient automated trading bot designed for the Solana blockchain. This open-source bot utilizes AI/ML techniques to snipe new tokens on Pump.fun launch with Jito bundles, ensuring anti-rug protection and MEV resistance, and provides users with Telegram control and instant buy functionality. By leveraging its advanced features, the bot aims to help users navigate the memecoin market with ease.
+The PumpFun Memecoin Sniper Bot is an ultra-fast and advanced tool for sniping new tokens on Pump.fun launches. This Solana-based bot utilizes Jito bundles, anti-rug protection, and MEV resistance to ensure secure and efficient token acquisition, while also integrating with Telegram for control and instant buying capabilities. Developed using AI/ML concepts, this open-source project aims to provide a comprehensive solution for cryptocurrency enthusiasts.
 
 ---
 

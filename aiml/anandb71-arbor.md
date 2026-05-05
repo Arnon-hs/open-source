@@ -25,9 +25,9 @@ AI/ML · DevTools · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary for the open-source project:
 
-Arbor is an open-source graph-native code intelligence project that provides a deterministic approach to understanding programs, replacing traditional embedding-based methods. This innovative framework offers a more efficient and reliable alternative for developers, enabling them to gain insights into code with greater accuracy. By leveraging graph-native technology, Arbor simplifies code analysis and improves overall development workflows.
+The "arbor" project is an open-source initiative that introduces graph-native code intelligence to revolutionize the field of developer tools. By replacing traditional embedding-based models with deterministic program understanding, "arbor" enables more efficient and accurate analysis of code. This innovation has the potential to significantly improve the development experience for mobile app developers.
 
 ---
 

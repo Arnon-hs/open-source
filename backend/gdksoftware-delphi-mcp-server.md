@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The Delphi-MCP-Server is an open-source, native Delphi implementation of the Model Context Protocol (MCP), providing a robust backend solution for MCP-based applications. This project enables developers to create MCP servers with ease, leveraging the power of Delphi to build scalable and efficient server-side logic. By using this server, developers can focus on building their application's core functionality, while relying on a reliable and well-maintained MCP implementation.
+The Delphi-MCP-Server project is an open-source, native implementation of the Model Context Protocol (MCP) in Delphi, designed for use as a server. This project provides a backend solution for MCP, enabling developers to build scalable and efficient applications that leverage the MCP protocol. By utilizing the Delphi language, it offers a high-performance server implementation for MCP-based applications.
 
 ---
 

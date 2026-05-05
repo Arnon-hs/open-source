@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16787** |
+| 🗂️ **Total projects** | **16828** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,21 +18,21 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 6252 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3521 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1659 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1203 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 1028 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 976 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 6269 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3526 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1662 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1206 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 1031 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 978 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 565 | [Browse →](./crypto/) |
-| 📊 **Data** | 384 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 367 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 229 | [Browse →](./mobile/) |
-| 📈 **Trading** | 170 | [Browse →](./trading/) |
+| 📊 **Data** | 386 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 368 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 232 | [Browse →](./mobile/) |
+| 📈 **Trading** | 171 | [Browse →](./trading/) |
 | 💳 **Payments** | 169 | [Browse →](./payments/) |
 | 🔐 **Security** | 143 | [Browse →](./security/) |
 | ✨ **Design** | 57 | [Browse →](./design/) |
-| 🎯 **Product** | 33 | [Browse →](./product/) |
+| 🎯 **Product** | 34 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
@@ -43,12 +43,12 @@
 | 2 | [mochajs/mocha](./devtools/mochajs-mocha.md) | ⭐ 22.9k | DevTools |
 | 3 | [swagger-api/swagger-ui](./aiml/swagger-api-swagger-ui.md) | ⭐ 28.8k | AI/ML |
 | 4 | [strapi/strapi](./backend/strapi-strapi.md) | ⭐ 72.1k | Backend |
-| 5 | [zeek/zeek](./security/zeek-zeek.md) | ⭐ 7.6k | Security |
-| 6 | [vectordotdev/vector](./aiml/vectordotdev-vector.md) | ⭐ 21.8k | AI/ML |
-| 7 | [ray-project/ray](./aiml/ray-project-ray.md) | ⭐ 42.4k | AI/ML |
-| 8 | [BasedHardware/omi](./aiml/basedhardware-omi.md) | ⭐ 12.4k | AI/ML |
-| 9 | [meshery/meshery](./frontend/meshery-meshery.md) | ⭐ 10.2k | Frontend |
-| 10 | [iv-org/invidious](./misc/iv-org-invidious.md) | ⭐ 19.6k | Misc |
+| 5 | [apache/beam](./data/apache-beam.md) | ⭐ 8.6k | Data |
+| 6 | [zeek/zeek](./security/zeek-zeek.md) | ⭐ 7.6k | Security |
+| 7 | [vectordotdev/vector](./aiml/vectordotdev-vector.md) | ⭐ 21.8k | AI/ML |
+| 8 | [ray-project/ray](./aiml/ray-project-ray.md) | ⭐ 42.4k | AI/ML |
+| 9 | [BasedHardware/omi](./aiml/basedhardware-omi.md) | ⭐ 12.4k | AI/ML |
+| 10 | [meshery/meshery](./frontend/meshery-meshery.md) | ⭐ 10.2k | Frontend |
 
 ## 🚀 How it works
 

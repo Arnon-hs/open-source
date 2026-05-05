@@ -1,6 +1,6 @@
 # gma1k/podtrace
 
-[![Stars](https://img.shields.io/github/stars/gma1k/podtrace?style=flat-square&color=yellow)](https://github.com/gma1k/podtrace/stargazers) [![Forks](https://img.shields.io/github/forks/gma1k/podtrace?style=flat-square&color=blue)](https://github.com/gma1k/podtrace/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gma1k/podtrace?style=flat-square&color=yellow)](https://github.com/gma1k/podtrace/stargazers) [![Forks](https://img.shields.io/github/forks/gma1k/podtrace?style=flat-square&color=blue)](https://github.com/gma1k/podtrace/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > eBPF-driven diagnostic tool for Kubernetes applications 🐝
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 165 |
+| ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # fiorix/go-diameter
 
-[![Stars](https://img.shields.io/github/stars/fiorix/go-diameter?style=flat-square&color=yellow)](https://github.com/fiorix/go-diameter/stargazers) [![Forks](https://img.shields.io/github/forks/fiorix/go-diameter?style=flat-square&color=blue)](https://github.com/fiorix/go-diameter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fiorix/go-diameter?style=flat-square&color=yellow)](https://github.com/fiorix/go-diameter/stargazers) [![Forks](https://img.shields.io/github/forks/fiorix/go-diameter?style=flat-square&color=blue)](https://github.com/fiorix/go-diameter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Diameter stack and Base Protocol (RFC 6733) for the Go programming language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 284 |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,9 @@ AI/ML · DevOps/Infra · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the containerd/runwasi project:
 
-Containerd/runwasi is an open-source project that enables the seamless execution of WebAssembly (Wasm) and WASI workloads within containerd-managed environments. This project simplifies the process of running Wasm and WASI workloads, making it easier to integrate them into existing DevOps pipelines and infrastructure. By leveraging containerd, runwasi facilitates efficient and scalable deployment of Wasm and WASI applications.
+containerd/runwasi is an open-source project that enables the efficient running of WebAssembly (Wasm) and WebAssembly System Interface (WASI) workloads within containerd-managed environments. By leveraging containerd's features, this project provides a scalable and secure way to deploy and manage Wasm/WASI workloads. This innovation has significant implications for the growth of cloud-native applications and AI/ML workloads.
 
 ---
 

@@ -25,9 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "flux-iac/tofu-controller":
-
-The flux-iac/tofu-controller is an OpenTofu and Terraform controller designed for GitOps, enabling seamless management of infrastructure as code (IaC) configurations. This controller integrates with Flux, a popular GitOps tool, to synchronize infrastructure deployments and configurations across multiple environments. By utilizing OpenTofu and Terraform, users can leverage a scalable and efficient approach to IaC management.
+The flux-iac/tofu-controller is an open-source project that integrates OpenTofu and Terraform with Flux, enabling GitOps-based infrastructure management. This project provides a controller that automates the provisioning and management of infrastructure as code, streamlining the process of deploying and maintaining cloud resources. It aims to simplify the adoption of GitOps practices for DevOps and infrastructure teams.
 
 ---
 

@@ -1,6 +1,6 @@
 # knewstimek/agent-tool
 
-[![Stars](https://img.shields.io/github/stars/knewstimek/agent-tool?style=flat-square&color=yellow)](https://github.com/knewstimek/agent-tool/stargazers) [![Forks](https://img.shields.io/github/forks/knewstimek/agent-tool?style=flat-square&color=blue)](https://github.com/knewstimek/agent-tool/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/knewstimek/agent-tool?style=flat-square&color=yellow)](https://github.com/knewstimek/agent-tool/stargazers) [![Forks](https://img.shields.io/github/forks/knewstimek/agent-tool?style=flat-square&color=blue)](https://github.com/knewstimek/agent-tool/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > MCP tool server for AI coding agents -- encoding-aware file tools, binary analysis, DAP debugger, SSH/SFTP, process memory, and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

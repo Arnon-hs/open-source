@@ -1,6 +1,6 @@
 # mcparmory/registry
 
-[![Stars](https://img.shields.io/github/stars/mcparmory/registry?style=flat-square&color=yellow)](https://github.com/mcparmory/registry/stargazers) [![Forks](https://img.shields.io/github/forks/mcparmory/registry?style=flat-square&color=blue)](https://github.com/mcparmory/registry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mcparmory/registry?style=flat-square&color=yellow)](https://github.com/mcparmory/registry/stargazers) [![Forks](https://img.shields.io/github/forks/mcparmory/registry?style=flat-square&color=blue)](https://github.com/mcparmory/registry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready MCP servers for 70+ APIs — GitHub, Google, Notion, Jira & more. Generated from OpenAPI specs, tested against live APIs. Works with Claude Desktop, Cursor, Codex & Claude Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

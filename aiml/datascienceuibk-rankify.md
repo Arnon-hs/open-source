@@ -1,6 +1,6 @@
 # DataScienceUIBK/Rankify
 
-[![Stars](https://img.shields.io/github/stars/DataScienceUIBK/Rankify?style=flat-square&color=yellow)](https://github.com/DataScienceUIBK/Rankify/stargazers) [![Forks](https://img.shields.io/github/forks/DataScienceUIBK/Rankify?style=flat-square&color=blue)](https://github.com/DataScienceUIBK/Rankify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataScienceUIBK/Rankify?style=flat-square&color=yellow)](https://github.com/DataScienceUIBK/Rankify/stargazers) [![Forks](https://img.shields.io/github/forks/DataScienceUIBK/Rankify?style=flat-square&color=blue)](https://github.com/DataScienceUIBK/Rankify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation 🔥. Our toolkit integrates 40 pre-retrieved benchmark datasets and supports 7+ retrieval techniques, 24+ state-of-the-art Reranking models, and multiple RAG methods.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 675 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

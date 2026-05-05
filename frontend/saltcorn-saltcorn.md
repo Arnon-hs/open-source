@@ -1,6 +1,6 @@
 # saltcorn/saltcorn
 
-[![Stars](https://img.shields.io/github/stars/saltcorn/saltcorn?style=flat-square&color=yellow)](https://github.com/saltcorn/saltcorn/stargazers) [![Forks](https://img.shields.io/github/forks/saltcorn/saltcorn?style=flat-square&color=blue)](https://github.com/saltcorn/saltcorn/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saltcorn/saltcorn?style=flat-square&color=yellow)](https://github.com/saltcorn/saltcorn/stargazers) [![Forks](https://img.shields.io/github/forks/saltcorn/saltcorn?style=flat-square&color=blue)](https://github.com/saltcorn/saltcorn/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Free and open source no-code application builder
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 346 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # vuetifyjs/mcp
 
-[![Stars](https://img.shields.io/github/stars/vuetifyjs/mcp?style=flat-square&color=yellow)](https://github.com/vuetifyjs/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/vuetifyjs/mcp?style=flat-square&color=blue)](https://github.com/vuetifyjs/mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vuetifyjs/mcp?style=flat-square&color=yellow)](https://github.com/vuetifyjs/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/vuetifyjs/mcp?style=flat-square&color=blue)](https://github.com/vuetifyjs/mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 A Model Context Protocol (MCP) library for use with Agentic chat bots
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 92 |
+| ⭐ **Stars** | 93 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
