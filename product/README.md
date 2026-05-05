@@ -28,8 +28,8 @@
 | 18 | [beam-community/elixir-companies](./beam-community-elixir-companies.md) | ⭐ 1.7k | Astro | 63/100 |
 | 19 | [AcademySoftwareFoundation/OpenCue](./academysoftwarefoundation-opencue.md) | ⭐ 925 | Python | 60/100 |
 | 20 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 59/100 |
-| 21 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 537 | C | 56/100 |
-| 22 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 707 | Rust | 56/100 |
+| 21 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 707 | Rust | 56/100 |
+| 22 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 537 | C | 56/100 |
 | 23 | [pimutils/todoman](./pimutils-todoman.md) | ⭐ 575 | Python | 55/100 |
 | 24 | [aws-observability/aws-otel-collector](./aws-observability-aws-otel-collector.md) | ⭐ 742 | Go | 54/100 |
 | 25 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 666 | Shell | 52/100 |

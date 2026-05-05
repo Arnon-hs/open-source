@@ -1,6 +1,6 @@
 # seachicken/gh-poi
 
-[![Stars](https://img.shields.io/github/stars/seachicken/gh-poi?style=flat-square&color=yellow)](https://github.com/seachicken/gh-poi/stargazers) [![Forks](https://img.shields.io/github/forks/seachicken/gh-poi?style=flat-square&color=blue)](https://github.com/seachicken/gh-poi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seachicken/gh-poi?style=flat-square&color=yellow)](https://github.com/seachicken/gh-poi/stargazers) [![Forks](https://img.shields.io/github/forks/seachicken/gh-poi?style=flat-square&color=blue)](https://github.com/seachicken/gh-poi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ Safely clean up your local branches
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 949 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

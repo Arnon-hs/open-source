@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 357 |
-| 🍴 **Forks** | 50 |
+| 🍴 **Forks** | 51 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |

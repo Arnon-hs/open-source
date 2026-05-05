@@ -1,6 +1,6 @@
 # hydromatic/morel
 
-[![Stars](https://img.shields.io/github/stars/hydromatic/morel?style=flat-square&color=yellow)](https://github.com/hydromatic/morel/stargazers) [![Forks](https://img.shields.io/github/forks/hydromatic/morel?style=flat-square&color=blue)](https://github.com/hydromatic/morel/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hydromatic/morel?style=flat-square&color=yellow)](https://github.com/hydromatic/morel/stargazers) [![Forks](https://img.shields.io/github/forks/hydromatic/morel?style=flat-square&color=blue)](https://github.com/hydromatic/morel/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A functional query language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

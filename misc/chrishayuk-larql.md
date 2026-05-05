@@ -1,6 +1,6 @@
 # chrishayuk/larql
 
-[![Stars](https://img.shields.io/github/stars/chrishayuk/larql?style=flat-square&color=yellow)](https://github.com/chrishayuk/larql/stargazers) [![Forks](https://img.shields.io/github/forks/chrishayuk/larql?style=flat-square&color=blue)](https://github.com/chrishayuk/larql/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrishayuk/larql?style=flat-square&color=yellow)](https://github.com/chrishayuk/larql/stargazers) [![Forks](https://img.shields.io/github/forks/chrishayuk/larql?style=flat-square&color=blue)](https://github.com/chrishayuk/larql/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 793 |
-| 🍴 **Forks** | 123 |
+| ⭐ **Stars** | 805 |
+| 🍴 **Forks** | 125 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-This open-source project, mcp-scanner, is a security tool designed to scan Cisco MCP servers for potential threats and security findings. Using AI/ML capabilities, it identifies vulnerabilities and provides actionable insights to enhance the overall security posture of the network. By leveraging machine learning algorithms, the scanner helps organizations detect and mitigate potential risks in their Cisco MCP infrastructure.
+The cisco-ai-defense/mcp-scanner is an open-source project designed to detect potential threats and security vulnerabilities on MCP servers. Utilizing advanced AI and ML technologies, this tool scans MCP servers to identify areas of concern, enabling users to proactively address security risks and protect their systems. By providing actionable insights, this scanner empowers organizations to strengthen their MCP server security posture.
 
 ---
 

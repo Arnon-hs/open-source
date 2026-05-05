@@ -1,6 +1,6 @@
 # AmoebeLabs/flex-horseshoe-card
 
-[![Stars](https://img.shields.io/github/stars/AmoebeLabs/flex-horseshoe-card?style=flat-square&color=yellow)](https://github.com/AmoebeLabs/flex-horseshoe-card/stargazers) [![Forks](https://img.shields.io/github/forks/AmoebeLabs/flex-horseshoe-card?style=flat-square&color=blue)](https://github.com/AmoebeLabs/flex-horseshoe-card/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmoebeLabs/flex-horseshoe-card?style=flat-square&color=yellow)](https://github.com/AmoebeLabs/flex-horseshoe-card/stargazers) [![Forks](https://img.shields.io/github/forks/AmoebeLabs/flex-horseshoe-card?style=flat-square&color=blue)](https://github.com/AmoebeLabs/flex-horseshoe-card/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Flexible Horseshoe card for Home Assistant Lovelace UI. A card with a flexible layout,  a horseshoe-like donut graph, multiple entities or attributes, graphics and animations!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 383 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

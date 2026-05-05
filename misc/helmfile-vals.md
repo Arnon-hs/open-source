@@ -1,6 +1,6 @@
 # helmfile/vals
 
-[![Stars](https://img.shields.io/github/stars/helmfile/vals?style=flat-square&color=yellow)](https://github.com/helmfile/vals/stargazers) [![Forks](https://img.shields.io/github/forks/helmfile/vals?style=flat-square&color=blue)](https://github.com/helmfile/vals/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/helmfile/vals?style=flat-square&color=yellow)](https://github.com/helmfile/vals/stargazers) [![Forks](https://img.shields.io/github/forks/helmfile/vals?style=flat-square&color=blue)](https://github.com/helmfile/vals/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Helm-like configuration values loader with support for various sources
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 747 |
+| ⭐ **Stars** | 748 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **17091** |
+| 🗂️ **Total projects** | **17128** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 6354 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3582 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1689 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1225 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 1053 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 1000 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 573 | [Browse →](./crypto/) |
-| 📊 **Data** | 394 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 370 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 239 | [Browse →](./mobile/) |
-| 💳 **Payments** | 171 | [Browse →](./payments/) |
+| 🤖 **AI/ML** | 6363 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3596 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1692 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1226 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 1055 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 1002 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 575 | [Browse →](./crypto/) |
+| 📊 **Data** | 395 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 371 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 240 | [Browse →](./mobile/) |
+| 💳 **Payments** | 172 | [Browse →](./payments/) |
 | 📈 **Trading** | 171 | [Browse →](./trading/) |
 | 🔐 **Security** | 145 | [Browse →](./security/) |
 | ✨ **Design** | 57 | [Browse →](./design/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [invertase/react-native-firebase](./aiml/invertase-react-native-firebase.md) | ⭐ 12.3k | AI/ML |
-| 2 | [knative/serving](./aiml/knative-serving.md) | ⭐ 6k | AI/ML |
-| 3 | [cython/cython](./data/cython-cython.md) | ⭐ 10.7k | Data |
-| 4 | [Lum1104/Understand-Anything](./aiml/lum1104-understand-anything.md) | ⭐ 12.4k | AI/ML |
-| 5 | [awsdocs/aws-doc-sdk-examples](./aiml/awsdocs-aws-doc-sdk-examples.md) | ⭐ 10.4k | AI/ML |
-| 6 | [haifengl/smile](./aiml/haifengl-smile.md) | ⭐ 6.4k | AI/ML |
-| 7 | [ArvinLovegood/go-stock](./aiml/arvinlovegood-go-stock.md) | ⭐ 5.5k | AI/ML |
-| 8 | [WinMerge/winmerge](./misc/winmerge-winmerge.md) | ⭐ 8.8k | Misc |
-| 9 | [HKUDS/nanobot](./aiml/hkuds-nanobot.md) | ⭐ 41.7k | AI/ML |
-| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 2 | [cython/cython](./data/cython-cython.md) | ⭐ 10.7k | Data |
+| 3 | [awsdocs/aws-doc-sdk-examples](./aiml/awsdocs-aws-doc-sdk-examples.md) | ⭐ 10.4k | AI/ML |
+| 4 | [WinMerge/winmerge](./misc/winmerge-winmerge.md) | ⭐ 8.8k | Misc |
+| 5 | [HKUDS/nanobot](./aiml/hkuds-nanobot.md) | ⭐ 41.7k | AI/ML |
+| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 7 | [ludwig-ai/ludwig](./aiml/ludwig-ai-ludwig.md) | ⭐ 11.7k | AI/ML |
+| 8 | [rclone/rclone](./aiml/rclone-rclone.md) | ⭐ 57k | AI/ML |
+| 9 | [avajs/ava](./devtools/avajs-ava.md) | ⭐ 20.8k | DevTools |
+| 10 | [Project-OSRM/osrm-backend](./backend/project-osrm-osrm-backend.md) | ⭐ 7.7k | Backend |
 
 ## 🚀 How it works
 

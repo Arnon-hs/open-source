@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-ZenWinHook is an open-source project that provides a set of Windows hooks for intercepting, modifying, and controlling various system events and behaviors. This project allows developers to tap into low-level system interactions and build custom solutions that can automate tasks, enhance system functionality, or even troubleshoot issues. With ZenWinHook, users can explore the inner workings of Windows and unlock new possibilities for automation and customization.
+ZenWinHook is an open-source project that provides a set of Windows hooks for intercepting, modifying, and controlling various system-level events. This tool enables developers to tap into Windows APIs and manipulate system behavior, making it a valuable resource for those interested in low-level system programming and automation. By utilizing ZenWinHook, users can create custom solutions for tasks such as keyboard and mouse manipulation, system automation, and more.
 
 ---
 

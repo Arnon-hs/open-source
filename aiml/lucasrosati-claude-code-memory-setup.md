@@ -25,7 +25,9 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-The Claude Code Memory Setup is an open-source project that significantly optimizes Claude Code performance by reducing token usage by up to 71.5 times when used with Obsidian and Graphify. This setup provides persistent memory, enables codebase knowledge graphs, and streamlines chat import pipelines. The project is multi-language supported, including Portuguese (PT-BR).
+Here's a brief summary for the project:
+
+Claude Code Memory Setup is an open-source project that optimizes Claude Code performance by reducing token usage by up to 71.5 times. This is achieved through the integration with Obsidian and Graphify, enabling persistent memory and codebase knowledge graphs, as well as a chat import pipeline. The project also supports Portuguese (PT-BR) and is suitable for developers and AI/ML professionals.
 
 ---
 

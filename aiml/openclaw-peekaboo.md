@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
+Here's a summary of the open-source project in 2-3 sentences:
 
-Peekaboo is an open-source tool for macOS that allows AI agents to capture screenshots of applications or the entire system, enabling advanced automation and interaction capabilities. With optional support for local or remote AI models, Peekaboo also provides visual question answering functionality, making it a powerful tool for developers and researchers. This CLI and MCP (Management and Control Protocol) server combination streamlines AI-driven tasks and experiments on macOS systems.
+Peekaboo is an open-source tool for AI development on macOS, allowing AI agents to capture screenshots of applications or the entire system. This CLI and optional MCP server enables users to integrate local or remote AI models for visual question answering, streamlining the development process. With Peekaboo, developers can easily incorporate visual data into their AI projects and enhance their machine learning capabilities.
 
 ---
 

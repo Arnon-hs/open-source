@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The DTE (Dynamic Terminal Editor) is an open-source, customizable terminal text editor that enables users to edit files directly within their command line interface. This lightweight tool offers a flexible and intuitive way to manage text files, making it an ideal choice for developers and power users. With its configurable nature, DTE can be tailored to suit individual preferences and workflows.
+The dte project is a lightweight, customizable terminal text editor that enables users to edit and manipulate text within their command line interface. This open-source tool provides a flexible and efficient way to edit files and text, making it ideal for developers and power users. With its configurable nature, dte can be tailored to suit individual preferences and workflows.
 
 ---
 

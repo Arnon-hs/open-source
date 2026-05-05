@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-The vsh project is an open-source, interactive shell and CLI tool for HashiCorp Vault, allowing users to interact with their Vault instances in a more intuitive and user-friendly manner. This tool enables users to manage Vault secrets, configure policies, and perform various administrative tasks from the command line or a terminal-based interface. By providing a simple and accessible interface to Vault, vsh aims to streamline Vault management and minimize the complexity of working with the HashiCorp platform.
+Here's a brief summary for the open-source project:
+
+vsh is an interactive shell and command-line tool for HashiCorp Vault, providing a user-friendly interface to manage and interact with Vault's secrets, policies, and other resources. This open-source project enables users to easily manage and troubleshoot Vault configurations in a more intuitive and efficient way. With vsh, users can simplify their Vault interactions and improve their overall workflow.
 
 ---
 

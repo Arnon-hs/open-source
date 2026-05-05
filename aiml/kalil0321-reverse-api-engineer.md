@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The reverse-api-engineer project is an open-source tool that utilizes AI to capture and analyze API traffic, generating comprehensive documentation and automatically creating API clients. This innovative platform enables developers to reverse engineer APIs, streamlining the process of understanding and interacting with complex web services. By leveraging AI and machine learning, it simplifies API discovery and integration.
+The kalil0321/reverse-api-engineer project is an open-source initiative that utilizes AI-powered capabilities to reverse-engineer APIs. It captures API traffic, generates comprehensive documentation, and automatically creates clients, streamlining the API development process. This tool empowers developers with an efficient means of understanding and interacting with APIs.
 
 ---
 

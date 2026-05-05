@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 531 |
-| 🍴 **Forks** | 43 |
+| 🍴 **Forks** | 44 |
 | 💻 **Language** | Odin |
 | 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |

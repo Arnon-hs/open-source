@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-COSMIC Panel is an open-source project that enables users to create customizable panels and docks for their Linux desktop experience. Developed by the POP!_OS team, this project offers a flexible and intuitive way to personalize the layout of your desktop, allowing you to organize your apps and files with ease. With COSMIC Panel, users can create tailored workspaces that meet their specific needs.
+COSMIC Panel is an open-source applet designed for creating customizable panels and docks, allowing users to personalize their desktop experience. This project, part of the pop-os ecosystem, provides a flexible framework for users to create and arrange various panel layouts. It enables users to tailor their workspace to suit their needs and preferences.
 
 ---
 

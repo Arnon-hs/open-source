@@ -1,17 +1,17 @@
 # charles-azam/OmniAgents
 
-[![Stars](https://img.shields.io/github/stars/charles-azam/OmniAgents?style=flat-square&color=yellow)](https://github.com/charles-azam/OmniAgents/stargazers) [![Forks](https://img.shields.io/github/forks/charles-azam/OmniAgents?style=flat-square&color=blue)](https://github.com/charles-azam/OmniAgents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/charles-azam/OmniAgents?style=flat-square&color=yellow)](https://github.com/charles-azam/OmniAgents/stargazers) [![Forks](https://img.shields.io/github/forks/charles-azam/OmniAgents?style=flat-square&color=blue)](https://github.com/charles-azam/OmniAgents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-24%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> A multi-backend execution framework for AI coding agents. Write tools once, run them anywhere.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 24/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 

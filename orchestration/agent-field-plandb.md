@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Agent-Field/plandb is an open-source issue tracker designed specifically for managing projects involving AI agents and machine learning models. It provides a structured platform for tracking issues, bugs, and feature requests, similar to tools like Linear or Jira, but tailored for AI development workflows. This project aims to bridge the gap between AI model development and project management by offering a dedicated tool for AI/ML teams.
+Agent-Field/plandb is an open-source project designed as an issue tracker specifically tailored for AI agents, providing a Linear or Jira-like experience for managing and organizing tasks related to AI development. This platform streamlines the workflow for AI/ML projects, allowing developers to effectively track and collaborate on tasks with their AI agents. It falls under the categories of Orchestration, AI/ML, and DevTools.
 
 ---
 

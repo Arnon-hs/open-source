@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The AtomGraph/Web-Algebra project is an open-source suite of tools that supports generic Linked Data and SPARQL operations, as well as MCP (Multi-Context Systems) functionality specific to the LinkedDataHub framework. This comprehensive toolkit enables developers to leverage AI/ML capabilities, build robust frontend interfaces, and implement scalable backend solutions. By providing a versatile set of tools, AtomGraph/Web-Algebra facilitates the creation of complex data-driven applications.
+AtomGraph/Web-Algebra is an open-source project that provides a comprehensive suite of tools for working with Linked Data and SPARQL. This suite includes generic Linked Data tools as well as tools specific to the LinkedDataHub, enabling efficient management and analysis of complex data. With its modular design, AtomGraph/Web-Algebra supports both frontend and backend development, making it a valuable resource for AI/ML applications.
 
 ---
 

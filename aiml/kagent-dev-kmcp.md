@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the kagent-dev/kmcp project:
-
-kmcp is an open-source project that provides a CLI tool and Kubernetes controller for building, testing, and deploying MCP (Meta Computing Platform) servers. This project enables developers to streamline MCP server management, making it easier to integrate AI and ML capabilities into their applications. By leveraging kmcp, developers can efficiently deploy and manage MCP servers on Kubernetes environments.
+KMCP is an open-source project that provides a CLI tool and Kubernetes Controller for streamlining the process of building, testing, and deploying MCP servers. This project aims to simplify the development and deployment of MCP servers, making it easier for developers and organizations to integrate Machine Learning and Cloud Computing applications. By leveraging Kubernetes, KMCP offers a scalable and reliable solution for MCP server management.
 
 ---
 

@@ -1,6 +1,6 @@
 # pressbooks/pressbooks
 
-[![Stars](https://img.shields.io/github/stars/pressbooks/pressbooks?style=flat-square&color=yellow)](https://github.com/pressbooks/pressbooks/stargazers) [![Forks](https://img.shields.io/github/forks/pressbooks/pressbooks?style=flat-square&color=blue)](https://github.com/pressbooks/pressbooks/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pressbooks/pressbooks?style=flat-square&color=yellow)](https://github.com/pressbooks/pressbooks/stargazers) [![Forks](https://img.shields.io/github/forks/pressbooks/pressbooks?style=flat-square&color=blue)](https://github.com/pressbooks/pressbooks/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open publishing. Open web. Open source.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 449 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

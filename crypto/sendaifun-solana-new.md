@@ -25,7 +25,7 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-The Solana-New project is an open-source initiative that enables developers to build and deploy tasteful and useful cryptocurrency applications (apps) on the Solana blockchain. Utilizing a curated AI skills and knowledge base, the project facilitates seamless integrations and interactions with Solana contracts through AI-powered agents. This project aims to streamline the development process for crypto and AI/ML enthusiasts alike.
+The Solana-New project is an open-source initiative that empowers developers to build and deploy high-quality, user-centric cryptocurrency applications on the Solana blockchain. Leveraging a carefully curated knowledge base, AI agents help streamline the development process, enabling faster and more efficient integration of Solana contracts and external services. This project fosters innovation and collaboration in the crypto and AI/ML communities.
 
 ---
 

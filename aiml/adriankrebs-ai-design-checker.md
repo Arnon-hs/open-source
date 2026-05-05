@@ -25,7 +25,7 @@ AI/ML · Design
 
 ## 📝 Summary
 
-This open-source project assesses the AI-driven design patterns of any website, providing valuable insights into its user experience and interface design. By scoring websites based on AI design patterns, developers and designers can gain a deeper understanding of what works well and what can be improved. This tool aims to promote better AI-infused design practices and enhance user engagement.
+This open-source project allows users to score any website for its implementation of AI design patterns. It provides a comprehensive assessment of a website's design, enabling developers to identify areas for improvement and optimize their user experience. By evaluating AI design patterns, users can make data-driven decisions to enhance their website's functionality and usability.
 
 ---
 

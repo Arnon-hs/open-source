@@ -1,6 +1,6 @@
 # OpenCoworkAI/open-cowork
 
-[![Stars](https://img.shields.io/github/stars/OpenCoworkAI/open-cowork?style=flat-square&color=yellow)](https://github.com/OpenCoworkAI/open-cowork/stargazers) [![Forks](https://img.shields.io/github/forks/OpenCoworkAI/open-cowork?style=flat-square&color=blue)](https://github.com/OpenCoworkAI/open-cowork/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenCoworkAI/open-cowork?style=flat-square&color=yellow)](https://github.com/OpenCoworkAI/open-cowork/stargazers) [![Forks](https://img.shields.io/github/forks/OpenCoworkAI/open-cowork?style=flat-square&color=blue)](https://github.com/OpenCoworkAI/open-cowork/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

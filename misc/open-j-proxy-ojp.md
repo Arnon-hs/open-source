@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Unfortunately, you did not provide a description for the Open-J-Proxy/ojp project. However, based on the title, I can provide a possible summary:
-
-Open-J-Proxy/ojp is an open-source project that provides a Java-based proxy solution, allowing users to intercept and modify network traffic. This project can be useful for various purposes such as debugging, testing, or implementing security measures. With Open-J-Proxy/ojp, developers can create custom proxy servers to suit their specific needs.
+Unfortunately I do not have a description of the project. Please provide the description for the Open-J-Proxy/ojp project so I can write an informative summary for it.
 
 ---
 

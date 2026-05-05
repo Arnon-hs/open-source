@@ -1,6 +1,6 @@
 # unjs/untun
 
-[![Stars](https://img.shields.io/github/stars/unjs/untun?style=flat-square&color=yellow)](https://github.com/unjs/untun/stargazers) [![Forks](https://img.shields.io/github/forks/unjs/untun?style=flat-square&color=blue)](https://github.com/unjs/untun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unjs/untun?style=flat-square&color=yellow)](https://github.com/unjs/untun/stargazers) [![Forks](https://img.shields.io/github/forks/unjs/untun?style=flat-square&color=blue)](https://github.com/unjs/untun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
