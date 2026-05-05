@@ -1,6 +1,6 @@
 # OpenSauce/rustortion
 
-[![Stars](https://img.shields.io/github/stars/OpenSauce/rustortion?style=flat-square&color=yellow)](https://github.com/OpenSauce/rustortion/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSauce/rustortion?style=flat-square&color=blue)](https://github.com/OpenSauce/rustortion/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenSauce/rustortion?style=flat-square&color=yellow)](https://github.com/OpenSauce/rustortion/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSauce/rustortion?style=flat-square&color=blue)](https://github.com/OpenSauce/rustortion/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A low latency guitar amp simulator.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

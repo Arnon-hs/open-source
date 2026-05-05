@@ -2,15 +2,15 @@
 
 > Product-focused apps
 
-**34 projects** in this category.
+**36 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
-| 2 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.7k | Clojure | 100/100 |
-| 3 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.8k | C# | 100/100 |
+| 2 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.9k | C# | 100/100 |
+| 3 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.7k | Clojure | 100/100 |
 | 4 | [ShareX/ShareX](./sharex-sharex.md) | ⭐ 37.2k | C# | 100/100 |
 | 5 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
 | 6 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122.5k | TypeScript | 99/100 |
@@ -26,22 +26,24 @@
 | 16 | [NVIDIA/cuda-python](./nvidia-cuda-python.md) | ⭐ 3.2k | Cython | 67/100 |
 | 17 | [usertour/usertour](./usertour-usertour.md) | ⭐ 2k | TypeScript | 66/100 |
 | 18 | [beam-community/elixir-companies](./beam-community-elixir-companies.md) | ⭐ 1.7k | Astro | 63/100 |
-| 19 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 59/100 |
-| 20 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 707 | Rust | 56/100 |
-| 21 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 537 | C | 56/100 |
-| 22 | [pimutils/todoman](./pimutils-todoman.md) | ⭐ 575 | Python | 55/100 |
-| 23 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 665 | Shell | 52/100 |
-| 24 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 77 | Lua | 51/100 |
-| 25 | [aws-observability/aws-otel-collector](./aws-observability-aws-otel-collector.md) | ⭐ 740 | Go | 50/100 |
-| 26 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | TypeScript | 49/100 |
-| 27 | [ralfbiedert/interoptopus](./ralfbiedert-interoptopus.md) | ⭐ 464 | Rust | 48/100 |
-| 28 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
-| 29 | [eph5xx/tweakidea](./eph5xx-tweakidea.md) | ⭐ 14 | Python | 46/100 |
-| 30 | [getsentry/relay](./getsentry-relay.md) | ⭐ 376 | Rust | 46/100 |
-| 31 | [getsentry/symbolicator](./getsentry-symbolicator.md) | ⭐ 420 | Rust | 45/100 |
-| 32 | [guardian/coverdrop](./guardian-coverdrop.md) | ⭐ 336 | Rust | 44/100 |
-| 33 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 314 | Rust | 43/100 |
-| 34 | [verona-team/verona-atlas](./verona-team-verona-atlas.md) | ⭐ 16 | Python | 32/100 |
+| 19 | [AcademySoftwareFoundation/OpenCue](./academysoftwarefoundation-opencue.md) | ⭐ 925 | Python | 60/100 |
+| 20 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 59/100 |
+| 21 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 707 | Rust | 56/100 |
+| 22 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 537 | C | 56/100 |
+| 23 | [pimutils/todoman](./pimutils-todoman.md) | ⭐ 575 | Python | 55/100 |
+| 24 | [aws-observability/aws-otel-collector](./aws-observability-aws-otel-collector.md) | ⭐ 742 | Go | 54/100 |
+| 25 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 665 | Shell | 52/100 |
+| 26 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 77 | Lua | 51/100 |
+| 27 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | TypeScript | 49/100 |
+| 28 | [ralfbiedert/interoptopus](./ralfbiedert-interoptopus.md) | ⭐ 464 | Rust | 48/100 |
+| 29 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
+| 30 | [eph5xx/tweakidea](./eph5xx-tweakidea.md) | ⭐ 14 | Python | 46/100 |
+| 31 | [getsentry/relay](./getsentry-relay.md) | ⭐ 376 | Rust | 46/100 |
+| 32 | [getsentry/snuba](./getsentry-snuba.md) | ⭐ 398 | Python | 45/100 |
+| 33 | [getsentry/symbolicator](./getsentry-symbolicator.md) | ⭐ 420 | Rust | 45/100 |
+| 34 | [guardian/coverdrop](./guardian-coverdrop.md) | ⭐ 336 | Rust | 44/100 |
+| 35 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 314 | Rust | 43/100 |
+| 36 | [verona-team/verona-atlas](./verona-team-verona-atlas.md) | ⭐ 16 | Python | 32/100 |
 
 ---
 

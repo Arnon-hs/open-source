@@ -25,9 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-RepoLens is a multi-lens code audit tool that leverages the power of 280 expert AI agents to conduct comprehensive code reviews, security testing, and infrastructure audits. This open-source project empowers developers to identify potential vulnerabilities, optimize code quality, and enhance overall system reliability. By utilizing AI-driven insights, RepoLens streamlines the auditing process, making it an invaluable asset for DevOps teams and organizations.
+RepoLens is an open-source, multi-lens code audit tool that leverages 280 expert AI agents to perform thorough code reviews, security testing, and infrastructure auditing. This comprehensive platform empowers developers and security teams to identify potential vulnerabilities and optimize their codebase with unparalleled precision. By harnessing the power of AI, RepoLens streamlines the auditing process, enabling users to build more secure, reliable, and maintainable software applications.
 
 ---
 

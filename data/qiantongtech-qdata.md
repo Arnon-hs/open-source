@@ -1,6 +1,6 @@
 # qiantongtech/qData
 
-[![Stars](https://img.shields.io/github/stars/qiantongtech/qData?style=flat-square&color=yellow)](https://github.com/qiantongtech/qData/stargazers) [![Forks](https://img.shields.io/github/forks/qiantongtech/qData?style=flat-square&color=blue)](https://github.com/qiantongtech/qData/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qiantongtech/qData?style=flat-square&color=yellow)](https://github.com/qiantongtech/qData/stargazers) [![Forks](https://img.shields.io/github/forks/qiantongtech/qData?style=flat-square&color=blue)](https://github.com/qiantongtech/qData/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > qData is an open-source, all-in-one data middle platform that supports core capabilities including data infrastructure, data governance, data development, monitoring & alerting, data services, and data visualization.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 416 |
+| ⭐ **Stars** | 417 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

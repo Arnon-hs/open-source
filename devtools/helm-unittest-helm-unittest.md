@@ -1,6 +1,6 @@
 # helm-unittest/helm-unittest
 
-[![Stars](https://img.shields.io/github/stars/helm-unittest/helm-unittest?style=flat-square&color=yellow)](https://github.com/helm-unittest/helm-unittest/stargazers) [![Forks](https://img.shields.io/github/forks/helm-unittest/helm-unittest?style=flat-square&color=blue)](https://github.com/helm-unittest/helm-unittest/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/helm-unittest/helm-unittest?style=flat-square&color=yellow)](https://github.com/helm-unittest/helm-unittest/stargazers) [![Forks](https://img.shields.io/github/forks/helm-unittest/helm-unittest?style=flat-square&color=blue)](https://github.com/helm-unittest/helm-unittest/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 312 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

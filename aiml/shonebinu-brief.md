@@ -1,6 +1,6 @@
 # shonebinu/Brief
 
-[![Stars](https://img.shields.io/github/stars/shonebinu/Brief?style=flat-square&color=yellow)](https://github.com/shonebinu/Brief/stargazers) [![Forks](https://img.shields.io/github/forks/shonebinu/Brief?style=flat-square&color=blue)](https://github.com/shonebinu/Brief/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shonebinu/Brief?style=flat-square&color=yellow)](https://github.com/shonebinu/Brief/stargazers) [![Forks](https://img.shields.io/github/forks/shonebinu/Brief?style=flat-square&color=blue)](https://github.com/shonebinu/Brief/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Brief is a GTK4 application for browsing tldr-pages (community-maintained command line help pages).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

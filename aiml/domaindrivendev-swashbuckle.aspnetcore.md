@@ -1,6 +1,6 @@
 # domaindrivendev/Swashbuckle.AspNetCore
 
-[![Stars](https://img.shields.io/github/stars/domaindrivendev/Swashbuckle.AspNetCore?style=flat-square&color=yellow)](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/stargazers) [![Forks](https://img.shields.io/github/forks/domaindrivendev/Swashbuckle.AspNetCore?style=flat-square&color=blue)](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/domaindrivendev/Swashbuckle.AspNetCore?style=flat-square&color=yellow)](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/stargazers) [![Forks](https://img.shields.io/github/forks/domaindrivendev/Swashbuckle.AspNetCore?style=flat-square&color=blue)](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Swagger tools for documenting API's built on ASP.NET Core
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # novalagung/gubrak
 
-[![Stars](https://img.shields.io/github/stars/novalagung/gubrak?style=flat-square&color=yellow)](https://github.com/novalagung/gubrak/stargazers) [![Forks](https://img.shields.io/github/forks/novalagung/gubrak?style=flat-square&color=blue)](https://github.com/novalagung/gubrak/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/novalagung/gubrak?style=flat-square&color=yellow)](https://github.com/novalagung/gubrak/stargazers) [![Forks](https://img.shields.io/github/forks/novalagung/gubrak?style=flat-square&color=blue)](https://github.com/novalagung/gubrak/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > ⚙️ Golang functional utility library with syntactic sugar. It's like lodash, but for Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 513 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

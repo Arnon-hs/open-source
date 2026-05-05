@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/omranjamal/ink-textarea?style=flat-square&color=yellow)](https://github.com/omranjamal/ink-textarea/stargazers) [![Forks](https://img.shields.io/github/forks/omranjamal/ink-textarea?style=flat-square&color=blue)](https://github.com/omranjamal/ink-textarea/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
-> Full featured batteries included CLI textarea component for React Ink
+> A full-featured CLI textarea component for React Ink — Implement beautiful multi-line text input on the CLI
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9 |
+| ⭐ **Stars** | 14 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 42/100 |

@@ -1,6 +1,6 @@
 # cfpramod/open-museum-mcp
 
-[![Stars](https://img.shields.io/github/stars/cfpramod/open-museum-mcp?style=flat-square&color=yellow)](https://github.com/cfpramod/open-museum-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/cfpramod/open-museum-mcp?style=flat-square&color=blue)](https://github.com/cfpramod/open-museum-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cfpramod/open-museum-mcp?style=flat-square&color=yellow)](https://github.com/cfpramod/open-museum-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/cfpramod/open-museum-mcp?style=flat-square&color=blue)](https://github.com/cfpramod/open-museum-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for federated, license-verified search across open-access museum collections (The Met, Cleveland, AIC). Normalized schema, dynasty-aware date parsing, strict-default license gate.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3 |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

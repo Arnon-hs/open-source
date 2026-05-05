@@ -1,6 +1,6 @@
 # yogthos/Matryoshka
 
-[![Stars](https://img.shields.io/github/stars/yogthos/Matryoshka?style=flat-square&color=yellow)](https://github.com/yogthos/Matryoshka/stargazers) [![Forks](https://img.shields.io/github/forks/yogthos/Matryoshka?style=flat-square&color=blue)](https://github.com/yogthos/Matryoshka/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yogthos/Matryoshka?style=flat-square&color=yellow)](https://github.com/yogthos/Matryoshka/stargazers) [![Forks](https://img.shields.io/github/forks/yogthos/Matryoshka?style=flat-square&color=blue)](https://github.com/yogthos/Matryoshka/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for token-efficient large document analysis via the use of REPL state
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

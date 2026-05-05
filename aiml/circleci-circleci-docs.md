@@ -1,6 +1,6 @@
 # circleci/circleci-docs
 
-[![Stars](https://img.shields.io/github/stars/circleci/circleci-docs?style=flat-square&color=yellow)](https://github.com/circleci/circleci-docs/stargazers) [![Forks](https://img.shields.io/github/forks/circleci/circleci-docs?style=flat-square&color=blue)](https://github.com/circleci/circleci-docs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/circleci/circleci-docs?style=flat-square&color=yellow)](https://github.com/circleci/circleci-docs/stargazers) [![Forks](https://img.shields.io/github/forks/circleci/circleci-docs?style=flat-square&color=blue)](https://github.com/circleci/circleci-docs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Documentation for CircleCI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 842 |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

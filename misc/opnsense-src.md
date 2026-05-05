@@ -1,6 +1,6 @@
 # opnsense/src
 
-[![Stars](https://img.shields.io/github/stars/opnsense/src?style=flat-square&color=yellow)](https://github.com/opnsense/src/stargazers) [![Forks](https://img.shields.io/github/forks/opnsense/src?style=flat-square&color=blue)](https://github.com/opnsense/src/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opnsense/src?style=flat-square&color=yellow)](https://github.com/opnsense/src/stargazers) [![Forks](https://img.shields.io/github/forks/opnsense/src?style=flat-square&color=blue)](https://github.com/opnsense/src/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > OPNsense operating system
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 472 |
+| ⭐ **Stars** | 473 |
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | C |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

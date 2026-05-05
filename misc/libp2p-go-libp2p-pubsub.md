@@ -1,6 +1,6 @@
 # libp2p/go-libp2p-pubsub
 
-[![Stars](https://img.shields.io/github/stars/libp2p/go-libp2p-pubsub?style=flat-square&color=yellow)](https://github.com/libp2p/go-libp2p-pubsub/stargazers) [![Forks](https://img.shields.io/github/forks/libp2p/go-libp2p-pubsub?style=flat-square&color=blue)](https://github.com/libp2p/go-libp2p-pubsub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libp2p/go-libp2p-pubsub?style=flat-square&color=yellow)](https://github.com/libp2p/go-libp2p-pubsub/stargazers) [![Forks](https://img.shields.io/github/forks/libp2p/go-libp2p-pubsub?style=flat-square&color=blue)](https://github.com/libp2p/go-libp2p-pubsub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > The PubSub implementation for go-libp2p
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 359 |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

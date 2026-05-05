@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 326 |
+| 🍴 **Forks** | 327 |
 | 💻 **Language** | VHDL |
 | 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |

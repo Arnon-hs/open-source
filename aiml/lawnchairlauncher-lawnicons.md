@@ -1,6 +1,6 @@
 # LawnchairLauncher/lawnicons
 
-[![Stars](https://img.shields.io/github/stars/LawnchairLauncher/lawnicons?style=flat-square&color=yellow)](https://github.com/LawnchairLauncher/lawnicons/stargazers) [![Forks](https://img.shields.io/github/forks/LawnchairLauncher/lawnicons?style=flat-square&color=blue)](https://github.com/LawnchairLauncher/lawnicons/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LawnchairLauncher/lawnicons?style=flat-square&color=yellow)](https://github.com/LawnchairLauncher/lawnicons/stargazers) [![Forks](https://img.shields.io/github/forks/LawnchairLauncher/lawnicons?style=flat-square&color=blue)](https://github.com/LawnchairLauncher/lawnicons/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Monochrome outlined brand icons for Android launchers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 531 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

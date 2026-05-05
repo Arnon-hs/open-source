@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This open-source project leverages accounting controls to develop a governed AI coding tool, aiming to provide a secure and transparent environment for AI development. The tool's architecture integrates accounting principles to ensure accountability and reliability in AI decision-making processes. By combining AI capabilities with robust governance, this project seeks to establish a new standard for responsible AI development.
+This open-source project utilizes accounting controls to create a governed AI coding tool. The tool aims to provide a secure and transparent environment for AI development by implementing accounting principles and controls typically used in financial management. By leveraging these principles, developers can ensure accountability and trust in their AI-powered coding processes.
 
 ---
 

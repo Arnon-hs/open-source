@@ -1,6 +1,6 @@
 # cosmos/evm
 
-[![Stars](https://img.shields.io/github/stars/cosmos/evm?style=flat-square&color=yellow)](https://github.com/cosmos/evm/stargazers) [![Forks](https://img.shields.io/github/forks/cosmos/evm?style=flat-square&color=blue)](https://github.com/cosmos/evm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cosmos/evm?style=flat-square&color=yellow)](https://github.com/cosmos/evm/stargazers) [![Forks](https://img.shields.io/github/forks/cosmos/evm?style=flat-square&color=blue)](https://github.com/cosmos/evm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > An EVM compatible framework for blockchain development with the Cosmos SDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

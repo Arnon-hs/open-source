@@ -1,6 +1,6 @@
 # K9i-0/ccpocket
 
-[![Stars](https://img.shields.io/github/stars/K9i-0/ccpocket?style=flat-square&color=yellow)](https://github.com/K9i-0/ccpocket/stargazers) [![Forks](https://img.shields.io/github/forks/K9i-0/ccpocket?style=flat-square&color=blue)](https://github.com/K9i-0/ccpocket/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/K9i-0/ccpocket?style=flat-square&color=yellow)](https://github.com/K9i-0/ccpocket/stargazers) [![Forks](https://img.shields.io/github/forks/K9i-0/ccpocket?style=flat-square&color=blue)](https://github.com/K9i-0/ccpocket/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 676 |
+| ⭐ **Stars** | 684 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

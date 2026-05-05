@@ -1,6 +1,6 @@
 # robbrad/homeassistant-mcp
 
-[![Stars](https://img.shields.io/github/stars/robbrad/homeassistant-mcp?style=flat-square&color=yellow)](https://github.com/robbrad/homeassistant-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/robbrad/homeassistant-mcp?style=flat-square&color=blue)](https://github.com/robbrad/homeassistant-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robbrad/homeassistant-mcp?style=flat-square&color=yellow)](https://github.com/robbrad/homeassistant-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/robbrad/homeassistant-mcp?style=flat-square&color=blue)](https://github.com/robbrad/homeassistant-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Home Assistant MCP Server - Control your smart home with AI assistants via the Model Context Protocol
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 59 |
+| ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

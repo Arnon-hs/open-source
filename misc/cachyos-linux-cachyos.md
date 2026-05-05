@@ -1,6 +1,6 @@
 # CachyOS/linux-cachyos
 
-[![Stars](https://img.shields.io/github/stars/CachyOS/linux-cachyos?style=flat-square&color=yellow)](https://github.com/CachyOS/linux-cachyos/stargazers) [![Forks](https://img.shields.io/github/forks/CachyOS/linux-cachyos?style=flat-square&color=blue)](https://github.com/CachyOS/linux-cachyos/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CachyOS/linux-cachyos?style=flat-square&color=yellow)](https://github.com/CachyOS/linux-cachyos/stargazers) [![Forks](https://img.shields.io/github/forks/CachyOS/linux-cachyos?style=flat-square&color=blue)](https://github.com/CachyOS/linux-cachyos/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Archlinux Kernel based on different schedulers and some other performance improvements.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

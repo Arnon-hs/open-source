@@ -1,6 +1,6 @@
 # catppuccin/nix
 
-[![Stars](https://img.shields.io/github/stars/catppuccin/nix?style=flat-square&color=yellow)](https://github.com/catppuccin/nix/stargazers) [![Forks](https://img.shields.io/github/forks/catppuccin/nix?style=flat-square&color=blue)](https://github.com/catppuccin/nix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/catppuccin/nix?style=flat-square&color=yellow)](https://github.com/catppuccin/nix/stargazers) [![Forks](https://img.shields.io/github/forks/catppuccin/nix?style=flat-square&color=blue)](https://github.com/catppuccin/nix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ❄️ Soothing pastel theme for Nix
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 715 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

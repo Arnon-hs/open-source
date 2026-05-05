@@ -1,6 +1,6 @@
 # MarSaKi/ETPNav
 
-[![Stars](https://img.shields.io/github/stars/MarSaKi/ETPNav?style=flat-square&color=yellow)](https://github.com/MarSaKi/ETPNav/stargazers) [![Forks](https://img.shields.io/github/forks/MarSaKi/ETPNav?style=flat-square&color=blue)](https://github.com/MarSaKi/ETPNav/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MarSaKi/ETPNav?style=flat-square&color=yellow)](https://github.com/MarSaKi/ETPNav/stargazers) [![Forks](https://img.shields.io/github/forks/MarSaKi/ETPNav?style=flat-square&color=blue)](https://github.com/MarSaKi/ETPNav/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > [TPAMI 2024] Official repo of "ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments"
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 453 |
+| ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

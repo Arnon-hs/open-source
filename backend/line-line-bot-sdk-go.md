@@ -1,6 +1,6 @@
 # line/line-bot-sdk-go
 
-[![Stars](https://img.shields.io/github/stars/line/line-bot-sdk-go?style=flat-square&color=yellow)](https://github.com/line/line-bot-sdk-go/stargazers) [![Forks](https://img.shields.io/github/forks/line/line-bot-sdk-go?style=flat-square&color=blue)](https://github.com/line/line-bot-sdk-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/line/line-bot-sdk-go?style=flat-square&color=yellow)](https://github.com/line/line-bot-sdk-go/stargazers) [![Forks](https://img.shields.io/github/forks/line/line-bot-sdk-go?style=flat-square&color=blue)](https://github.com/line/line-bot-sdk-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > LINE Messaging API SDK for Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 945 |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

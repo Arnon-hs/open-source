@@ -1,6 +1,6 @@
 # ldc-developers/ldc
 
-[![Stars](https://img.shields.io/github/stars/ldc-developers/ldc?style=flat-square&color=yellow)](https://github.com/ldc-developers/ldc/stargazers) [![Forks](https://img.shields.io/github/forks/ldc-developers/ldc?style=flat-square&color=blue)](https://github.com/ldc-developers/ldc/network) [![Language](https://img.shields.io/badge/lang-D-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ldc-developers/ldc?style=flat-square&color=yellow)](https://github.com/ldc-developers/ldc/stargazers) [![Forks](https://img.shields.io/github/forks/ldc-developers/ldc?style=flat-square&color=blue)](https://github.com/ldc-developers/ldc/network) [![Language](https://img.shields.io/badge/lang-D-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The LLVM-based D Compiler.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 282 |
 | 💻 **Language** | D |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

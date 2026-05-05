@@ -1,6 +1,6 @@
 # abapGit/abapGit
 
-[![Stars](https://img.shields.io/github/stars/abapGit/abapGit?style=flat-square&color=yellow)](https://github.com/abapGit/abapGit/stargazers) [![Forks](https://img.shields.io/github/forks/abapGit/abapGit?style=flat-square&color=blue)](https://github.com/abapGit/abapGit/network) [![Language](https://img.shields.io/badge/lang-ABAP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abapGit/abapGit?style=flat-square&color=yellow)](https://github.com/abapGit/abapGit/stargazers) [![Forks](https://img.shields.io/github/forks/abapGit/abapGit?style=flat-square&color=blue)](https://github.com/abapGit/abapGit/network) [![Language](https://img.shields.io/badge/lang-ABAP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Git client for ABAP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 599 |
 | 💻 **Language** | ABAP |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

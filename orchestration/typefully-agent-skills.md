@@ -1,6 +1,6 @@
 # typefully/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/typefully/agent-skills?style=flat-square&color=yellow)](https://github.com/typefully/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/typefully/agent-skills?style=flat-square&color=blue)](https://github.com/typefully/agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typefully/agent-skills?style=flat-square&color=yellow)](https://github.com/typefully/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/typefully/agent-skills?style=flat-square&color=blue)](https://github.com/typefully/agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent skills for drafting and scheduling social media posts via Typefully
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

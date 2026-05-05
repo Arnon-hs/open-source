@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The LLM-test-kit is an open-source project designed to evaluate the performance of Large Language Models (LLMs) across various key metrics, including consistency, latency, cost, and behavior. This comprehensive testing framework allows developers to assess the capabilities and limitations of LLM applications, facilitating more informed decision-making in AI development. By using the LLM-test-kit, users can gain a deeper understanding of their LLMs and identify areas for improvement.
+Here's a 2-3 sentence summary for the LLM-test-kit project:
+
+The LLM-test-kit is an open-source project designed to evaluate the performance and consistency of Large Language Model (LLM) applications. It provides a comprehensive test framework to assess key aspects such as latency, cost, and behavior, enabling developers to compare and optimize their LLM solutions. By leveraging this test kit, developers can make informed decisions about the suitability and scalability of their LLM applications.
 
 ---
 

@@ -1,6 +1,6 @@
 # endeavouros-team/EndeavourOS-ISO
 
-[![Stars](https://img.shields.io/github/stars/endeavouros-team/EndeavourOS-ISO?style=flat-square&color=yellow)](https://github.com/endeavouros-team/EndeavourOS-ISO/stargazers) [![Forks](https://img.shields.io/github/forks/endeavouros-team/EndeavourOS-ISO?style=flat-square&color=blue)](https://github.com/endeavouros-team/EndeavourOS-ISO/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/endeavouros-team/EndeavourOS-ISO?style=flat-square&color=yellow)](https://github.com/endeavouros-team/EndeavourOS-ISO/stargazers) [![Forks](https://img.shields.io/github/forks/endeavouros-team/EndeavourOS-ISO?style=flat-square&color=blue)](https://github.com/endeavouros-team/EndeavourOS-ISO/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > EndeavourOS ISO framework based on Arch-ISO
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 501 |
-| 🍴 **Forks** | 81 |
+| ⭐ **Stars** | 502 |
+| 🍴 **Forks** | 82 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

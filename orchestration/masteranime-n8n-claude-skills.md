@@ -1,6 +1,6 @@
 # masteranime/n8n-claude-skills
 
-[![Stars](https://img.shields.io/github/stars/masteranime/n8n-claude-skills?style=flat-square&color=yellow)](https://github.com/masteranime/n8n-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/masteranime/n8n-claude-skills?style=flat-square&color=blue)](https://github.com/masteranime/n8n-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/masteranime/n8n-claude-skills?style=flat-square&color=yellow)](https://github.com/masteranime/n8n-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/masteranime/n8n-claude-skills?style=flat-square&color=blue)](https://github.com/masteranime/n8n-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Production Claude Code skills for n8n from a Verified Creator's 100+ workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

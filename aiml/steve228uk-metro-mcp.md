@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The metro-mcp project is an open-source, plugin-based server for React Native debugging, inspection, and automation. It connects to the Metro bundler via the Chrome DevTools Protocol, allowing for efficient and seamless development without requiring modifications to app code. This project enables developers to streamline their workflow with various features and capabilities.
+The metro-mcp project is an open-source plugin-based server that enables advanced debugging, inspection, and automation capabilities for React Native applications. This server connects to the Metro bundler via the Chrome DevTools Protocol, allowing developers to leverage these features without modifying their app code. It supports a wide range of features and use cases, making it a valuable tool for React Native developers.
 
 ---
 

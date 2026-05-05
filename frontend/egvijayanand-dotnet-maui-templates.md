@@ -1,6 +1,6 @@
 # egvijayanand/dotnet-maui-templates
 
-[![Stars](https://img.shields.io/github/stars/egvijayanand/dotnet-maui-templates?style=flat-square&color=yellow)](https://github.com/egvijayanand/dotnet-maui-templates/stargazers) [![Forks](https://img.shields.io/github/forks/egvijayanand/dotnet-maui-templates?style=flat-square&color=blue)](https://github.com/egvijayanand/dotnet-maui-templates/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/egvijayanand/dotnet-maui-templates?style=flat-square&color=yellow)](https://github.com/egvijayanand/dotnet-maui-templates/stargazers) [![Forks](https://img.shields.io/github/forks/egvijayanand/dotnet-maui-templates?style=flat-square&color=blue)](https://github.com/egvijayanand/dotnet-maui-templates/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > .NET MAUI Project and Item Templates for VS2022, VS2026, and CLI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

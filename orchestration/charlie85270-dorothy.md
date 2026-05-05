@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Dorothy is an open-source project designed to facilitate the interaction between AI agents and their human counterparts, specifically providing a personal assistant or companion-like experience. This project, "the wife your AI agents needs," aims to integrate AI and orchestration capabilities to create a more human-like and engaging experience. By using Dorothy, developers can build more intuitive and user-friendly AI-powered solutions.
+Dorothy is an open-source project that provides a companion interface for AI and ML agents, allowing for a more human-like interaction experience. Developed as part of the Charlie85270 repository, this project aims to enhance the usability and effectiveness of AI-powered systems by providing a virtual assistant that can simulate human-like conversation and behavior. With Dorothy, AI agents can interact with users in a more natural and intuitive way.
 
 ---
 

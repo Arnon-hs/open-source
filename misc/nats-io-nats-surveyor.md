@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The nats-surveyor is an open-source project that simplifies NATS monitoring by providing a lightweight and efficient way to collect and visualize NATS metrics. It allows users to easily monitor their NATS clusters, including CPU usage, memory usage, and connection statistics, to ensure optimal performance and scalability. This project helps operators gain valuable insights into their NATS infrastructure.
+The nats-surveyor project provides a simplified monitoring solution for NATS, an open-source messaging system. It helps users to easily collect and visualize metrics, enabling better management and optimization of their NATS infrastructure. By streamlining monitoring tasks, nats-surveyor improves the overall performance and efficiency of NATS-based applications.
 
 ---
 

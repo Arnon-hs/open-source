@@ -1,6 +1,6 @@
 # nextcloud/photos
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/photos?style=flat-square&color=yellow)](https://github.com/nextcloud/photos/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/photos?style=flat-square&color=blue)](https://github.com/nextcloud/photos/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/photos?style=flat-square&color=yellow)](https://github.com/nextcloud/photos/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/photos?style=flat-square&color=blue)](https://github.com/nextcloud/photos/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 📸 Your memories under your control
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 700 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

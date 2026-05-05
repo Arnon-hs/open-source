@@ -1,6 +1,6 @@
 # SmolDapp/tokenAssets
 
-[![Stars](https://img.shields.io/github/stars/SmolDapp/tokenAssets?style=flat-square&color=yellow)](https://github.com/SmolDapp/tokenAssets/stargazers) [![Forks](https://img.shields.io/github/forks/SmolDapp/tokenAssets?style=flat-square&color=blue)](https://github.com/SmolDapp/tokenAssets/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SmolDapp/tokenAssets?style=flat-square&color=yellow)](https://github.com/SmolDapp/tokenAssets/stargazers) [![Forks](https://img.shields.io/github/forks/SmolDapp/tokenAssets?style=flat-square&color=blue)](https://github.com/SmolDapp/tokenAssets/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A community-led initiative to improve access to ERC20 token icons in a manner that is inclusive, transparent, and decentralized.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 644 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

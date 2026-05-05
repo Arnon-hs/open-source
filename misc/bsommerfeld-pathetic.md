@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Pathetic is an open-source Java library designed for efficient pathfinding, capable of handling up to 10,000 concurrent paths in approximately 7 milliseconds. This project showcases impressive performance, making it suitable for applications requiring rapid and concurrent path computations. It can be utilized in various fields, including game development, robotics, and logistics optimization.
+This open-source project, known as Pathetic, is a Java library designed for efficient pathfinding. It can handle an impressive 10,000 concurrent paths in approximately 7 milliseconds, making it suitable for applications requiring high concurrency and fast pathfinding. Pathetic aims to provide a reliable and optimized solution for pathfinding tasks.
 
 ---
 

@@ -1,6 +1,6 @@
 # kaydxh/golang
 
-[![Stars](https://img.shields.io/github/stars/kaydxh/golang?style=flat-square&color=yellow)](https://github.com/kaydxh/golang/stargazers) [![Forks](https://img.shields.io/github/forks/kaydxh/golang?style=flat-square&color=blue)](https://github.com/kaydxh/golang/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kaydxh/golang?style=flat-square&color=yellow)](https://github.com/kaydxh/golang/stargazers) [![Forks](https://img.shields.io/github/forks/kaydxh/golang?style=flat-square&color=blue)](https://github.com/kaydxh/golang/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Golang lib is a programming toolkit for building microservices in Go. It has very useful interface or service to develop application.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

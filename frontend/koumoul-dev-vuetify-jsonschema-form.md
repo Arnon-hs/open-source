@@ -1,6 +1,6 @@
 # koumoul-dev/vuetify-jsonschema-form
 
-[![Stars](https://img.shields.io/github/stars/koumoul-dev/vuetify-jsonschema-form?style=flat-square&color=yellow)](https://github.com/koumoul-dev/vuetify-jsonschema-form/stargazers) [![Forks](https://img.shields.io/github/forks/koumoul-dev/vuetify-jsonschema-form?style=flat-square&color=blue)](https://github.com/koumoul-dev/vuetify-jsonschema-form/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/koumoul-dev/vuetify-jsonschema-form?style=flat-square&color=yellow)](https://github.com/koumoul-dev/vuetify-jsonschema-form/stargazers) [![Forks](https://img.shields.io/github/forks/koumoul-dev/vuetify-jsonschema-form?style=flat-square&color=blue)](https://github.com/koumoul-dev/vuetify-jsonschema-form/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Create beautiful and low-effort forms that output valid data. Published on npm as @koumoul/vjsf.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 579 |
 | 🍴 **Forks** | 156 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

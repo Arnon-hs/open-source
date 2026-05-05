@@ -1,6 +1,6 @@
 # gookit/color
 
-[![Stars](https://img.shields.io/github/stars/gookit/color?style=flat-square&color=yellow)](https://github.com/gookit/color/stargazers) [![Forks](https://img.shields.io/github/forks/gookit/color?style=flat-square&color=blue)](https://github.com/gookit/color/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gookit/color?style=flat-square&color=yellow)](https://github.com/gookit/color/stargazers) [![Forks](https://img.shields.io/github/forks/gookit/color?style=flat-square&color=blue)](https://github.com/gookit/color/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

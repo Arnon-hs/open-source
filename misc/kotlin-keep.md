@@ -1,6 +1,6 @@
 # Kotlin/KEEP
 
-[![Stars](https://img.shields.io/github/stars/Kotlin/KEEP?style=flat-square&color=yellow)](https://github.com/Kotlin/KEEP/stargazers) [![Forks](https://img.shields.io/github/forks/Kotlin/KEEP?style=flat-square&color=blue)](https://github.com/Kotlin/KEEP/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kotlin/KEEP?style=flat-square&color=yellow)](https://github.com/Kotlin/KEEP/stargazers) [![Forks](https://img.shields.io/github/forks/Kotlin/KEEP?style=flat-square&color=blue)](https://github.com/Kotlin/KEEP/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Kotlin Evolution and Enhancement Process
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 380 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

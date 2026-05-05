@@ -1,6 +1,6 @@
 # iterate/iterate
 
-[![Stars](https://img.shields.io/github/stars/iterate/iterate?style=flat-square&color=yellow)](https://github.com/iterate/iterate/stargazers) [![Forks](https://img.shields.io/github/forks/iterate/iterate?style=flat-square&color=blue)](https://github.com/iterate/iterate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iterate/iterate?style=flat-square&color=yellow)](https://github.com/iterate/iterate/stargazers) [![Forks](https://img.shields.io/github/forks/iterate/iterate?style=flat-square&color=blue)](https://github.com/iterate/iterate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > The most hackable AI agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

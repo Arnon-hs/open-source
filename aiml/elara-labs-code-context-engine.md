@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/elara-labs/code-context-engine?style=flat-square&color=yellow)](https://github.com/elara-labs/code-context-engine/stargazers) [![Forks](https://img.shields.io/github/forks/elara-labs/code-context-engine?style=flat-square&color=blue)](https://github.com/elara-labs/code-context-engine/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Claude re-reads your code every session. Make it stop. Save 70%+ on tokens. Local MCP server with AST indexing, hybrid search, and cross-session memory.
+> Save 94% on Claude Code tokens. Index your codebase, AI searches instead of reading files. Local MCP server. Free, open source.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 59 |
-| 🍴 **Forks** | 13 |
+| ⭐ **Stars** | 67 |
+| 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 

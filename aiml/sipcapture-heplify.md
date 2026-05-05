@@ -1,6 +1,6 @@
 # sipcapture/heplify
 
-[![Stars](https://img.shields.io/github/stars/sipcapture/heplify?style=flat-square&color=yellow)](https://github.com/sipcapture/heplify/stargazers) [![Forks](https://img.shields.io/github/forks/sipcapture/heplify?style=flat-square&color=blue)](https://github.com/sipcapture/heplify/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sipcapture/heplify?style=flat-square&color=yellow)](https://github.com/sipcapture/heplify/stargazers) [![Forks](https://img.shields.io/github/forks/sipcapture/heplify?style=flat-square&color=blue)](https://github.com/sipcapture/heplify/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Portable and Lightweight HEP Capture Agent for HOMER
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 206 |
+| ⭐ **Stars** | 207 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # anatol/pacoloco
 
-[![Stars](https://img.shields.io/github/stars/anatol/pacoloco?style=flat-square&color=yellow)](https://github.com/anatol/pacoloco/stargazers) [![Forks](https://img.shields.io/github/forks/anatol/pacoloco?style=flat-square&color=blue)](https://github.com/anatol/pacoloco/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anatol/pacoloco?style=flat-square&color=yellow)](https://github.com/anatol/pacoloco/stargazers) [![Forks](https://img.shields.io/github/forks/anatol/pacoloco?style=flat-square&color=blue)](https://github.com/anatol/pacoloco/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Caching proxy server for Arch Linux pacman
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # dearimgui/dear_bindings
 
-[![Stars](https://img.shields.io/github/stars/dearimgui/dear_bindings?style=flat-square&color=yellow)](https://github.com/dearimgui/dear_bindings/stargazers) [![Forks](https://img.shields.io/github/forks/dearimgui/dear_bindings?style=flat-square&color=blue)](https://github.com/dearimgui/dear_bindings/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dearimgui/dear_bindings?style=flat-square&color=yellow)](https://github.com/dearimgui/dear_bindings/stargazers) [![Forks](https://img.shields.io/github/forks/dearimgui/dear_bindings?style=flat-square&color=blue)](https://github.com/dearimgui/dear_bindings/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > C header (and language binding metadata) generator for Dear ImGui
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 363 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

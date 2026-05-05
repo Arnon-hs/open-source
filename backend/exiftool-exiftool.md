@@ -25,7 +25,7 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-ExifTool is an open-source command-line utility that reads and writes metadata from various image, audio, and video file formats. It allows users to extract, edit, and add metadata tags, making it a versatile tool for managing and processing media files. With its extensive support for multiple file formats, ExifTool is a valuable resource for developers, photographers, and anyone working with digital media.
+ExifTool is an open-source project that serves as a comprehensive meta information reader and writer, providing a powerful tool for managing image metadata. It supports a vast array of file formats and can extract, edit, and add tags to files, making it an essential utility for photographers, developers, and data analysts. With its flexibility and customizability, ExifTool is a valuable asset for anyone working with image metadata.
 
 ---
 

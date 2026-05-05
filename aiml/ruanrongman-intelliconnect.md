@@ -1,6 +1,6 @@
 # ruanrongman/IntelliConnect
 
-[![Stars](https://img.shields.io/github/stars/ruanrongman/IntelliConnect?style=flat-square&color=yellow)](https://github.com/ruanrongman/IntelliConnect/stargazers) [![Forks](https://img.shields.io/github/forks/ruanrongman/IntelliConnect?style=flat-square&color=blue)](https://github.com/ruanrongman/IntelliConnect/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ruanrongman/IntelliConnect?style=flat-square&color=yellow)](https://github.com/ruanrongman/IntelliConnect/stargazers) [![Forks](https://img.shields.io/github/forks/ruanrongman/IntelliConnect?style=flat-square&color=blue)](https://github.com/ruanrongman/IntelliConnect/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 本项目为xiaozhi-esp32提供后端服务  |  A Powerful AI agent IoT platform core.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

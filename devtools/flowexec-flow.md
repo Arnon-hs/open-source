@@ -1,6 +1,6 @@
 # flowexec/flow
 
-[![Stars](https://img.shields.io/github/stars/flowexec/flow?style=flat-square&color=yellow)](https://github.com/flowexec/flow/stargazers) [![Forks](https://img.shields.io/github/forks/flowexec/flow?style=flat-square&color=blue)](https://github.com/flowexec/flow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flowexec/flow?style=flat-square&color=yellow)](https://github.com/flowexec/flow/stargazers) [![Forks](https://img.shields.io/github/forks/flowexec/flow?style=flat-square&color=blue)](https://github.com/flowexec/flow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first developer automation platform — workflows, secrets, templates, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

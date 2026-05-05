@@ -1,6 +1,6 @@
 # Trifall/chat-export
 
-[![Stars](https://img.shields.io/github/stars/Trifall/chat-export?style=flat-square&color=yellow)](https://github.com/Trifall/chat-export/stargazers) [![Forks](https://img.shields.io/github/forks/Trifall/chat-export?style=flat-square&color=blue)](https://github.com/Trifall/chat-export/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Trifall/chat-export?style=flat-square&color=yellow)](https://github.com/Trifall/chat-export/stargazers) [![Forks](https://img.shields.io/github/forks/Trifall/chat-export?style=flat-square&color=blue)](https://github.com/Trifall/chat-export/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Browser extension that allows you to export chat conversations from the LLM sites ChatGPT and Claude to Markdown, XML, JSON, and HTML.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31 |
+| ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

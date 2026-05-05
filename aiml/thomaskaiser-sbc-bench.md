@@ -1,6 +1,6 @@
 # ThomasKaiser/sbc-bench
 
-[![Stars](https://img.shields.io/github/stars/ThomasKaiser/sbc-bench?style=flat-square&color=yellow)](https://github.com/ThomasKaiser/sbc-bench/stargazers) [![Forks](https://img.shields.io/github/forks/ThomasKaiser/sbc-bench?style=flat-square&color=blue)](https://github.com/ThomasKaiser/sbc-bench/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThomasKaiser/sbc-bench?style=flat-square&color=yellow)](https://github.com/ThomasKaiser/sbc-bench/stargazers) [![Forks](https://img.shields.io/github/forks/ThomasKaiser/sbc-bench?style=flat-square&color=blue)](https://github.com/ThomasKaiser/sbc-bench/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Simple benchmark for single board computers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 759 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-u-root is an open-source, Go-based userland that enables the creation of a one-binary root file system, including a set of essential tools similar to busybox. This project integrates with Linux bootloaders, providing a streamlined and customizable way to manage system initialization and boot processes. With u-root, developers can leverage the power of Go to build efficient and flexible userland environments.
+u-root is an open-source project that provides a fully-fledged Go userland, including a set of essential tools, packaged into a single binary root file system (initramfs). This initramfs is designed to work seamlessly with Linux bootloaders, allowing users to create a customized and portable root file system. The project offers a flexible and efficient way to manage and customize Linux-based systems.
 
 ---
 

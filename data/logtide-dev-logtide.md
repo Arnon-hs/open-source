@@ -25,7 +25,9 @@ Data · DevOps/Infra
 
 ## 📝 Summary
 
-Logtide is an open-source, self-hosted log management solution that prioritizes user privacy, providing a GDPR-compliant alternative to popular services like Datadog and ELK. This lightweight platform can be easily deployed in minutes using Docker, offering a convenient and flexible solution for managing logs. With Logtide, users maintain control over their data, ensuring a secure and private log management experience.
+Here's a brief summary for the logtide project:
+
+Logtide is an open-source, self-hosted log management solution that prioritizes user privacy. As a lightweight, GDPR-compliant alternative to popular logging platforms like Datadog and ELK, logtide can be easily deployed in minutes using Docker. This makes it an attractive option for organizations seeking a secure and customizable logging solution.
 
 ---
 

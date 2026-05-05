@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-This open-source project provides an MCP server that enables users to query their Google Calendar using the AI model Claude. The server facilitates interaction between Claude and Google Calendar, allowing for seamless integration of calendar data with AI-powered applications. By utilizing this MCP server, developers can leverage Claude's capabilities while maintaining access to their calendar information.
+This open-source project provides a MCP (Multi-Cloud Platform) server that enables Claude, an AI assistant, to interact with users' Google Calendars. Users can query their calendar events and schedule meetings using Claude, making it easier to manage their schedule. The project's code is available on GitHub, allowing developers to contribute and customize the MCP server for their needs.
 
 ---
 

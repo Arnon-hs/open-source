@@ -1,6 +1,6 @@
 # mariadb-operator/mariadb-operator
 
-[![Stars](https://img.shields.io/github/stars/mariadb-operator/mariadb-operator?style=flat-square&color=yellow)](https://github.com/mariadb-operator/mariadb-operator/stargazers) [![Forks](https://img.shields.io/github/forks/mariadb-operator/mariadb-operator?style=flat-square&color=blue)](https://github.com/mariadb-operator/mariadb-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mariadb-operator/mariadb-operator?style=flat-square&color=yellow)](https://github.com/mariadb-operator/mariadb-operator/stargazers) [![Forks](https://img.shields.io/github/forks/mariadb-operator/mariadb-operator?style=flat-square&color=blue)](https://github.com/mariadb-operator/mariadb-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🦭 Run and operate MariaDB in a cloud native way
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 959 |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # akiradeveloper/sorock
 
-[![Stars](https://img.shields.io/github/stars/akiradeveloper/sorock?style=flat-square&color=yellow)](https://github.com/akiradeveloper/sorock/stargazers) [![Forks](https://img.shields.io/github/forks/akiradeveloper/sorock?style=flat-square&color=blue)](https://github.com/akiradeveloper/sorock/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akiradeveloper/sorock?style=flat-square&color=yellow)](https://github.com/akiradeveloper/sorock/stargazers) [![Forks](https://img.shields.io/github/forks/akiradeveloper/sorock?style=flat-square&color=blue)](https://github.com/akiradeveloper/sorock/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A Multi-Raft implementation in Rust.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 197 |
+| ⭐ **Stars** | 198 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

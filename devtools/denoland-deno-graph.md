@@ -1,6 +1,6 @@
 # denoland/deno_graph
 
-[![Stars](https://img.shields.io/github/stars/denoland/deno_graph?style=flat-square&color=yellow)](https://github.com/denoland/deno_graph/stargazers) [![Forks](https://img.shields.io/github/forks/denoland/deno_graph?style=flat-square&color=blue)](https://github.com/denoland/deno_graph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/denoland/deno_graph?style=flat-square&color=yellow)](https://github.com/denoland/deno_graph/stargazers) [![Forks](https://img.shields.io/github/forks/denoland/deno_graph?style=flat-square&color=blue)](https://github.com/denoland/deno_graph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > The module graph logic for Deno CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # leoafarias/fvm
 
-[![Stars](https://img.shields.io/github/stars/leoafarias/fvm?style=flat-square&color=yellow)](https://github.com/leoafarias/fvm/stargazers) [![Forks](https://img.shields.io/github/forks/leoafarias/fvm?style=flat-square&color=blue)](https://github.com/leoafarias/fvm/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leoafarias/fvm?style=flat-square&color=yellow)](https://github.com/leoafarias/fvm/stargazers) [![Forks](https://img.shields.io/github/forks/leoafarias/fvm?style=flat-square&color=blue)](https://github.com/leoafarias/fvm/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Flutter Version Management: A simple CLI to manage Flutter SDK versions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 276 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

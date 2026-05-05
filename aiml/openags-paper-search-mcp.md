@@ -1,6 +1,6 @@
 # openags/paper-search-mcp
 
-[![Stars](https://img.shields.io/github/stars/openags/paper-search-mcp?style=flat-square&color=yellow)](https://github.com/openags/paper-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/openags/paper-search-mcp?style=flat-square&color=blue)](https://github.com/openags/paper-search-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openags/paper-search-mcp?style=flat-square&color=yellow)](https://github.com/openags/paper-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/openags/paper-search-mcp?style=flat-square&color=blue)](https://github.com/openags/paper-search-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > MCP, CLI, Skills for searching and downloading academic papers from multiple sources like arXiv, PubMed, bioRxiv, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

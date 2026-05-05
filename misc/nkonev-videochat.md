@@ -1,6 +1,6 @@
 # nkonev/videochat
 
-[![Stars](https://img.shields.io/github/stars/nkonev/videochat?style=flat-square&color=yellow)](https://github.com/nkonev/videochat/stargazers) [![Forks](https://img.shields.io/github/forks/nkonev/videochat?style=flat-square&color=blue)](https://github.com/nkonev/videochat/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nkonev/videochat?style=flat-square&color=yellow)](https://github.com/nkonev/videochat/stargazers) [![Forks](https://img.shields.io/github/forks/nkonev/videochat?style=flat-square&color=blue)](https://github.com/nkonev/videochat/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Yet another Telegram/Zoom/Skype/Jitsi/RocketChat/Discord/OpenMeetings/BigBlueButton/Teams/Mattermost/etc... killer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

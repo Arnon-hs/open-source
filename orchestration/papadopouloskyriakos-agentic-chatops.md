@@ -1,6 +1,6 @@
 # papadopouloskyriakos/agentic-chatops
 
-[![Stars](https://img.shields.io/github/stars/papadopouloskyriakos/agentic-chatops?style=flat-square&color=yellow)](https://github.com/papadopouloskyriakos/agentic-chatops/stargazers) [![Forks](https://img.shields.io/github/forks/papadopouloskyriakos/agentic-chatops?style=flat-square&color=blue)](https://github.com/papadopouloskyriakos/agentic-chatops/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/papadopouloskyriakos/agentic-chatops?style=flat-square&color=yellow)](https://github.com/papadopouloskyriakos/agentic-chatops/stargazers) [![Forks](https://img.shields.io/github/forks/papadopouloskyriakos/agentic-chatops?style=flat-square&color=blue)](https://github.com/papadopouloskyriakos/agentic-chatops/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 3-tier agentic ChatOps (n8n + GPT-4o + Claude Code) implementing all 21 patterns from "Agentic Design Patterns" — solo operator managing 137 devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

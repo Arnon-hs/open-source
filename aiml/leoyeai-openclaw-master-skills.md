@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LeoYeAI/openclaw-master-skills?style=flat-square&color=yellow)](https://github.com/LeoYeAI/openclaw-master-skills/stargazers) [![Forks](https://img.shields.io/github/forks/LeoYeAI/openclaw-master-skills?style=flat-square&color=blue)](https://github.com/LeoYeAI/openclaw-master-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
-> 🧠 Curated collection of 560+ best OpenClaw skills — weekly updated by MyClaw.ai
+> 🧠 Curated collection of 1209+ best OpenClaw skills — weekly updated by MyClaw.ai
 
 ## 📊 Stats
 

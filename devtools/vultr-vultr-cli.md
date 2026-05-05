@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The vultr/vultr-cli project is an official, open-source command line tool for managing Vultr services. This tool enables users to interact with Vultr's infrastructure, including virtual machines, storage, and network resources, from the comfort of their terminal. By leveraging vultr-cli, users can streamline their Vultr management workflow and improve productivity.
+Vultr-cli is an open-source, official command line tool for managing Vultr services. It enables users to interact with Vultr's infrastructure, including creating and managing servers, storage, and networking resources, from the comfort of their terminal. This tool streamlines the process of managing cloud infrastructure, making it easier to automate and customize tasks.
 
 ---
 

@@ -1,6 +1,6 @@
 # eumemic/ai-legion
 
-[![Stars](https://img.shields.io/github/stars/eumemic/ai-legion?style=flat-square&color=yellow)](https://github.com/eumemic/ai-legion/stargazers) [![Forks](https://img.shields.io/github/forks/eumemic/ai-legion?style=flat-square&color=blue)](https://github.com/eumemic/ai-legion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eumemic/ai-legion?style=flat-square&color=yellow)](https://github.com/eumemic/ai-legion/stargazers) [![Forks](https://img.shields.io/github/forks/eumemic/ai-legion?style=flat-square&color=blue)](https://github.com/eumemic/ai-legion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > An LLM-powered autonomous agent platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

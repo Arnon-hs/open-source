@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Benchmarking-Single-Cell-Perturbation project is an open-source library that provides a framework for benchmarking and evaluating single-cell perturbation models. This library aims to facilitate the development and comparison of AI and ML-based models for simulating single-cell responses to various perturbations. By offering a standardized benchmarking platform, it can accelerate advancements in the field of single-cell modeling.
+This open-source project, "Benchmarking-Single-Cell-Perturbation," is a single-cell (perturbation) model library designed to facilitate the development and evaluation of machine learning models for single-cell perturbation analysis. It enables researchers to benchmark and compare the performance of various models on standardized datasets, promoting the advancement of AI/ML applications in single-cell genomics. By leveraging this library, users can accelerate their research in understanding cellular responses to perturbations.
 
 ---
 

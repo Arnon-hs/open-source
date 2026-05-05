@@ -1,6 +1,6 @@
 # miracleEverywhere/dst-management-platform-api
 
-[![Stars](https://img.shields.io/github/stars/miracleEverywhere/dst-management-platform-api?style=flat-square&color=yellow)](https://github.com/miracleEverywhere/dst-management-platform-api/stargazers) [![Forks](https://img.shields.io/github/forks/miracleEverywhere/dst-management-platform-api?style=flat-square&color=blue)](https://github.com/miracleEverywhere/dst-management-platform-api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miracleEverywhere/dst-management-platform-api?style=flat-square&color=yellow)](https://github.com/miracleEverywhere/dst-management-platform-api/stargazers) [![Forks](https://img.shields.io/github/forks/miracleEverywhere/dst-management-platform-api?style=flat-square&color=blue)](https://github.com/miracleEverywhere/dst-management-platform-api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > 饥荒管理平台(DMP)，满足一键开服、玩家管理、房间管理、数据统计、定时任务等功能
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 292 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # newton-physics/newton
 
-[![Stars](https://img.shields.io/github/stars/newton-physics/newton?style=flat-square&color=yellow)](https://github.com/newton-physics/newton/stargazers) [![Forks](https://img.shields.io/github/forks/newton-physics/newton?style=flat-square&color=blue)](https://github.com/newton-physics/newton/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/newton-physics/newton?style=flat-square&color=yellow)](https://github.com/newton-physics/newton/stargazers) [![Forks](https://img.shields.io/github/forks/newton-physics/newton?style=flat-square&color=blue)](https://github.com/newton-physics/newton/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.8k |
-| 🍴 **Forks** | 513 |
+| 🍴 **Forks** | 515 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

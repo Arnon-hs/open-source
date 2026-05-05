@@ -1,6 +1,6 @@
 # AgentsMesh/AgentsMesh
 
-[![Stars](https://img.shields.io/github/stars/AgentsMesh/AgentsMesh?style=flat-square&color=yellow)](https://github.com/AgentsMesh/AgentsMesh/stargazers) [![Forks](https://img.shields.io/github/forks/AgentsMesh/AgentsMesh?style=flat-square&color=blue)](https://github.com/AgentsMesh/AgentsMesh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgentsMesh/AgentsMesh?style=flat-square&color=yellow)](https://github.com/AgentsMesh/AgentsMesh/stargazers) [![Forks](https://img.shields.io/github/forks/AgentsMesh/AgentsMesh?style=flat-square&color=blue)](https://github.com/AgentsMesh/AgentsMesh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 197 |
+| 🍴 **Forks** | 199 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

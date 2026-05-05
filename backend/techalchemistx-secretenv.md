@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the SecretEnv project:
-
-SecretEnv is an open-source project that enables seamless integration of secrets from various backends into any process, promoting secure and streamlined development workflows. This tool allows developers to run any process while securely accessing secrets from multiple sources, such as environment variables, AWS Secrets Manager, or Hashicorp Vault. By consolidating secret management, SecretEnv simplifies the development process and reduces the risk of secrets exposure.
+SecretEnv is an open-source project that enables running any process with secrets from multiple backends, providing a secure and convenient way to manage sensitive information. This project allows developers to easily integrate secrets from various sources, such as databases, APIs, and environment variables, into their applications. By streamlining secret management, SecretEnv simplifies the development process and enhances security.
 
 ---
 

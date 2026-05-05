@@ -1,6 +1,6 @@
 # clkao/spacedock
 
-[![Stars](https://img.shields.io/github/stars/clkao/spacedock?style=flat-square&color=yellow)](https://github.com/clkao/spacedock/stargazers) [![Forks](https://img.shields.io/github/forks/clkao/spacedock?style=flat-square&color=blue)](https://github.com/clkao/spacedock/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clkao/spacedock?style=flat-square&color=yellow)](https://github.com/clkao/spacedock/stargazers) [![Forks](https://img.shields.io/github/forks/clkao/spacedock?style=flat-square&color=blue)](https://github.com/clkao/spacedock/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-dep agent workflows with structured approval gates and adversarial review.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 22 |
+| ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

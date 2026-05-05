@@ -25,7 +25,7 @@ Crypto
 
 ## 📝 Summary
 
-WolfPSA is an open-source project that enhances the compatibility of Public Key Infrastructure (PKI) and cryptographic protocols with WolfCrypt, a cryptographic library. This project aims to bridge the gap between various cryptographic standards, ensuring seamless integration and compatibility across different systems. By leveraging WolfCrypt, WolfPSA facilitates secure and efficient cryptographic operations.
+WolfPSA is an open-source project that enables compatibility with various Public Key Cryptography Standards (PSA) using the WolfCrypt library. It provides a unified interface for developers to leverage PSA cryptography standards, making it easier to implement secure cryptographic functions. By utilizing WolfCrypt, WolfPSA aims to simplify the integration of PSA cryptography in various applications and systems.
 
 ---
 

@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/fim-ai/fim-one?style=flat-square&color=yellow)](https://github.com/fim-ai/fim-one/stargazers) [![Forks](https://img.shields.io/github/forks/fim-ai/fim-one?style=flat-square&color=blue)](https://github.com/fim-ai/fim-one/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
-> LLM-powered Agent Runtime with Dynamic DAG Planning & Concurrent Execution
+> Open-source agent platform for Global × China enterprises — wire every system through one agent core. Self-hosted, any LLM.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 753 |
+| ⭐ **Stars** | 758 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |

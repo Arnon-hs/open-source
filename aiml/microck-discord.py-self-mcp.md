@@ -1,6 +1,6 @@
 # Microck/discord.py-self-mcp
 
-[![Stars](https://img.shields.io/github/stars/Microck/discord.py-self-mcp?style=flat-square&color=yellow)](https://github.com/Microck/discord.py-self-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Microck/discord.py-self-mcp?style=flat-square&color=blue)](https://github.com/Microck/discord.py-self-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Microck/discord.py-self-mcp?style=flat-square&color=yellow)](https://github.com/Microck/discord.py-self-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Microck/discord.py-self-mcp?style=flat-square&color=blue)](https://github.com/Microck/discord.py-self-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > comprehensive Discord selfbot MCP server using discord.py-self
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 26 |
+| ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

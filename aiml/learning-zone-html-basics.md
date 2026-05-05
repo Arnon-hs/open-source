@@ -1,6 +1,6 @@
 # learning-zone/html-basics
 
-[![Stars](https://img.shields.io/github/stars/learning-zone/html-basics?style=flat-square&color=yellow)](https://github.com/learning-zone/html-basics/stargazers) [![Forks](https://img.shields.io/github/forks/learning-zone/html-basics?style=flat-square&color=blue)](https://github.com/learning-zone/html-basics/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/learning-zone/html-basics?style=flat-square&color=yellow)](https://github.com/learning-zone/html-basics/stargazers) [![Forks](https://img.shields.io/github/forks/learning-zone/html-basics?style=flat-square&color=blue)](https://github.com/learning-zone/html-basics/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > HTML Basics ( HTML-5 )
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 587 |
 | 🍴 **Forks** | 240 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

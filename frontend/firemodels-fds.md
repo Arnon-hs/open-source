@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 825 |
-| 🍴 **Forks** | 677 |
+| 🍴 **Forks** | 678 |
 | 💻 **Language** | Fortran |
 | 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |

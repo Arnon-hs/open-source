@@ -25,7 +25,7 @@ Crypto
 
 ## 📝 Summary
 
-ArkTunnel is an open-source project that enables a censorship-resistant tunnel to be established by hiding behind a real Bitcoin node. This innovative solution leverages the existing infrastructure of the Bitcoin network to provide a secure and anonymous communication channel. By utilizing a Bitcoin node as a proxy, ArkTunnel aims to protect users from online censorship and surveillance.
+ArkTunnel is an open-source project that offers a censorship-resistant tunnel, allowing users to hide their internet activities behind a real Bitcoin node. This innovative solution leverages the existing Bitcoin network to create a secure and anonymous connection, making it difficult for authorities to track user activity. By utilizing a Bitcoin node as a proxy, ArkTunnel aims to provide a decentralized and private browsing experience.
 
 ---
 

@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Xclif is an open-source, file-based routing system for Python command-line interfaces (CLIs). It allows developers to define CLI commands and their associated functionality in a configuration file, making it easier to manage and maintain complex CLI applications. This innovative approach streamlines the development process and reduces the need for manual coding.
+Xclif is an open-source project that introduces file-based routing for Python CLIs, enabling developers to create flexible and scalable command-line interfaces. With Xclif, users can define routes in simple configuration files, allowing for easy customization and maintenance of their CLI applications. This approach simplifies the development process and improves the overall usability of Python CLIs.
 
 ---
 

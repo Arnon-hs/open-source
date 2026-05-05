@@ -1,6 +1,6 @@
 # solana-foundation/kora
 
-[![Stars](https://img.shields.io/github/stars/solana-foundation/kora?style=flat-square&color=yellow)](https://github.com/solana-foundation/kora/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/kora?style=flat-square&color=blue)](https://github.com/solana-foundation/kora/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solana-foundation/kora?style=flat-square&color=yellow)](https://github.com/solana-foundation/kora/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/kora?style=flat-square&color=blue)](https://github.com/solana-foundation/kora/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Implementation of a Solana relayer. Provides a lib and cli crate in order to enable signing experiences on Solana
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 172 |
+| ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 248 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # ikawrakow/ik_llama.cpp
 
-[![Stars](https://img.shields.io/github/stars/ikawrakow/ik_llama.cpp?style=flat-square&color=yellow)](https://github.com/ikawrakow/ik_llama.cpp/stargazers) [![Forks](https://img.shields.io/github/forks/ikawrakow/ik_llama.cpp?style=flat-square&color=blue)](https://github.com/ikawrakow/ik_llama.cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ikawrakow/ik_llama.cpp?style=flat-square&color=yellow)](https://github.com/ikawrakow/ik_llama.cpp/stargazers) [![Forks](https://img.shields.io/github/forks/ikawrakow/ik_llama.cpp?style=flat-square&color=blue)](https://github.com/ikawrakow/ik_llama.cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > llama.cpp fork with additional SOTA quants and improved performance
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 286 |
+| 🍴 **Forks** | 287 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

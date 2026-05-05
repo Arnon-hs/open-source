@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The scmpuff project provides numeric file selection shortcuts for common Git commands, enhancing productivity and efficiency in version control workflows. This open-source tool allows users to quickly and easily select files or commits using numerical shortcuts, streamlining the Git experience. By simplifying file selection, scmpuff enables developers to focus on their work without interruptions.
+The scmpuff project is an open-source tool that enhances the user experience for developers by providing numeric file selection shortcuts for common git commands. This allows users to efficiently manage their codebase with a streamlined workflow, saving time and reducing errors. With scmpuff, developers can access and manipulate files with greater speed and precision.
 
 ---
 

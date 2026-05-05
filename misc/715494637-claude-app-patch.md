@@ -1,6 +1,6 @@
 # 715494637/claude-app-patch
 
-[![Stars](https://img.shields.io/github/stars/715494637/claude-app-patch?style=flat-square&color=yellow)](https://github.com/715494637/claude-app-patch/stargazers) [![Forks](https://img.shields.io/github/forks/715494637/claude-app-patch?style=flat-square&color=blue)](https://github.com/715494637/claude-app-patch/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/715494637/claude-app-patch?style=flat-square&color=yellow)](https://github.com/715494637/claude-app-patch/stargazers) [![Forks](https://img.shields.io/github/forks/715494637/claude-app-patch?style=flat-square&color=blue)](https://github.com/715494637/claude-app-patch/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 一键解锁 Claude Desktop (Windows) 隐藏功能 — Code Tab / 开发者模式 / Operon / Computer Use
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 24 |
+| ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

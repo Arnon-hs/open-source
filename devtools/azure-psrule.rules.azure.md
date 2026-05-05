@@ -1,6 +1,6 @@
 # Azure/PSRule.Rules.Azure
 
-[![Stars](https://img.shields.io/github/stars/Azure/PSRule.Rules.Azure?style=flat-square&color=yellow)](https://github.com/Azure/PSRule.Rules.Azure/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/PSRule.Rules.Azure?style=flat-square&color=blue)](https://github.com/Azure/PSRule.Rules.Azure/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/PSRule.Rules.Azure?style=flat-square&color=yellow)](https://github.com/Azure/PSRule.Rules.Azure/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/PSRule.Rules.Azure?style=flat-square&color=blue)](https://github.com/Azure/PSRule.Rules.Azure/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 439 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

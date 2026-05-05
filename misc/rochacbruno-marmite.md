@@ -1,6 +1,6 @@
 # rochacbruno/marmite
 
-[![Stars](https://img.shields.io/github/stars/rochacbruno/marmite?style=flat-square&color=yellow)](https://github.com/rochacbruno/marmite/stargazers) [![Forks](https://img.shields.io/github/forks/rochacbruno/marmite?style=flat-square&color=blue)](https://github.com/rochacbruno/marmite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rochacbruno/marmite?style=flat-square&color=yellow)](https://github.com/rochacbruno/marmite/stargazers) [![Forks](https://img.shields.io/github/forks/rochacbruno/marmite?style=flat-square&color=blue)](https://github.com/rochacbruno/marmite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Markdown makes sites - A Static Site Generator for Blogs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 841 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

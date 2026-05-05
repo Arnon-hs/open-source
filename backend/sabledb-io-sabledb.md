@@ -25,7 +25,7 @@ Backend · Data
 
 ## 📝 Summary
 
-The SableDB project is an ultra-fast, open-source database designed to provide persistent storage for applications, specifically supporting the Valkey API. This database is optimized for performance, allowing for efficient data management and rapid query execution. By leveraging SableDB, developers can build high-performance applications with reliable data storage and retrieval.
+SableDB is an open-source, ultra-fast, and persistent database designed to support the Valkey API. This high-performance database provides efficient data storage and retrieval capabilities, making it suitable for demanding applications. With SableDB, developers can build scalable and reliable data-driven systems.
 
 ---
 

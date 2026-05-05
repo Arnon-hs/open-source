@@ -1,6 +1,6 @@
 # FairwindsOps/pluto
 
-[![Stars](https://img.shields.io/github/stars/FairwindsOps/pluto?style=flat-square&color=yellow)](https://github.com/FairwindsOps/pluto/stargazers) [![Forks](https://img.shields.io/github/forks/FairwindsOps/pluto?style=flat-square&color=blue)](https://github.com/FairwindsOps/pluto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FairwindsOps/pluto?style=flat-square&color=yellow)](https://github.com/FairwindsOps/pluto/stargazers) [![Forks](https://img.shields.io/github/forks/FairwindsOps/pluto?style=flat-square&color=blue)](https://github.com/FairwindsOps/pluto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A cli tool to help discover deprecated apiVersions in Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

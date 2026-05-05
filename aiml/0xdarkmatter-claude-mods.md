@@ -1,6 +1,6 @@
 # 0xDarkMatter/claude-mods
 
-[![Stars](https://img.shields.io/github/stars/0xDarkMatter/claude-mods?style=flat-square&color=yellow)](https://github.com/0xDarkMatter/claude-mods/stargazers) [![Forks](https://img.shields.io/github/forks/0xDarkMatter/claude-mods?style=flat-square&color=blue)](https://github.com/0xDarkMatter/claude-mods/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xDarkMatter/claude-mods?style=flat-square&color=yellow)](https://github.com/0xDarkMatter/claude-mods/stargazers) [![Forks](https://img.shields.io/github/forks/0xDarkMatter/claude-mods?style=flat-square&color=blue)](https://github.com/0xDarkMatter/claude-mods/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Custom commands, skills, and agents for Claude Code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # rharish101/ReGreet
 
-[![Stars](https://img.shields.io/github/stars/rharish101/ReGreet?style=flat-square&color=yellow)](https://github.com/rharish101/ReGreet/stargazers) [![Forks](https://img.shields.io/github/forks/rharish101/ReGreet?style=flat-square&color=blue)](https://github.com/rharish101/ReGreet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rharish101/ReGreet?style=flat-square&color=yellow)](https://github.com/rharish101/ReGreet/stargazers) [![Forks](https://img.shields.io/github/forks/rharish101/ReGreet?style=flat-square&color=blue)](https://github.com/rharish101/ReGreet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Clean and customizable greeter for greetd
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 728 |
-| 🍴 **Forks** | 39 |
+| 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

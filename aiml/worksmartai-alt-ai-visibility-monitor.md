@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/WorkSmartAI-alt/ai-visibility-monitor?style=flat-square&color=yellow)](https://github.com/WorkSmartAI-alt/ai-visibility-monitor/stargazers) [![Forks](https://img.shields.io/github/forks/WorkSmartAI-alt/ai-visibility-monitor?style=flat-square&color=blue)](https://github.com/WorkSmartAI-alt/ai-visibility-monitor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> Most tools tell you if AI cites you. This tells you which queries you can win and what to make.
+> Most AI-visibility tools tell you if you're cited. This one tells you which buyer queries you can actually win, where competitors own the citation, and what content to ship next. Open-source CLI, runs on your API keys.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Marketing
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 

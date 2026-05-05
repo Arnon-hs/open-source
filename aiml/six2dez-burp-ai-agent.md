@@ -25,7 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The six2dez/burp-ai-agent project is an open-source extension for Burp Suite that combines cutting-edge AI-assisted analysis with built-in MCP tooling and enhanced scanning capabilities. This extension provides users with advanced features, including passive and active scanning, to streamline the penetration testing process. By integrating AI-driven analysis with robust privacy controls, this extension empowers security professionals to uncover vulnerabilities more efficiently.
+Here's a brief summary of the project:
+
+The six2dez/burp-ai-agent is a Burp Suite extension that integrates advanced security features, including AI-assisted analysis, passive and active scanning, and privacy controls, to enhance vulnerability detection and penetration testing capabilities. This open-source project combines machine learning-powered tooling and MCP (Multi-Component Protocol) support to streamline the web security testing process. By leveraging AI and DevTools, it provides a comprehensive platform for analyzing and identifying vulnerabilities in web applications.
 
 ---
 

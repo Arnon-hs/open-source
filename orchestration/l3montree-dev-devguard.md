@@ -1,6 +1,6 @@
 # l3montree-dev/devguard
 
-[![Stars](https://img.shields.io/github/stars/l3montree-dev/devguard?style=flat-square&color=yellow)](https://github.com/l3montree-dev/devguard/stargazers) [![Forks](https://img.shields.io/github/forks/l3montree-dev/devguard?style=flat-square&color=blue)](https://github.com/l3montree-dev/devguard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/l3montree-dev/devguard?style=flat-square&color=yellow)](https://github.com/l3montree-dev/devguard/stargazers) [![Forks](https://img.shields.io/github/forks/l3montree-dev/devguard?style=flat-square&color=blue)](https://github.com/l3montree-dev/devguard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > DevGuard Backend - Secure your Software Supply Chain - Attestation-based compliance as Code, manage your CVEs seamlessly, Integrate your Vulnerability Scanners, Security Framework Documentation made easy - OWASP Incubating Project
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

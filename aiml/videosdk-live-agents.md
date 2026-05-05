@@ -1,6 +1,6 @@
 # videosdk-live/agents
 
-[![Stars](https://img.shields.io/github/stars/videosdk-live/agents?style=flat-square&color=yellow)](https://github.com/videosdk-live/agents/stargazers) [![Forks](https://img.shields.io/github/forks/videosdk-live/agents?style=flat-square&color=blue)](https://github.com/videosdk-live/agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/videosdk-live/agents?style=flat-square&color=yellow)](https://github.com/videosdk-live/agents/stargazers) [![Forks](https://img.shields.io/github/forks/videosdk-live/agents?style=flat-square&color=blue)](https://github.com/videosdk-live/agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source framework for developing real-time multimodal conversational AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 622 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

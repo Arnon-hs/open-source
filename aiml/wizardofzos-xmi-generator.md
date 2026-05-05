@@ -1,6 +1,6 @@
 # wizardofzos/xmi-generator
 
-[![Stars](https://img.shields.io/github/stars/wizardofzos/xmi-generator?style=flat-square&color=yellow)](https://github.com/wizardofzos/xmi-generator/releases/tag/0.0.3/stargazers) [![Forks](https://img.shields.io/github/forks/wizardofzos/xmi-generator?style=flat-square&color=blue)](https://github.com/wizardofzos/xmi-generator/releases/tag/0.0.3/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wizardofzos/xmi-generator?style=flat-square&color=yellow)](https://github.com/wizardofzos/xmi-generator/releases/tag/0.0.3/stargazers) [![Forks](https://img.shields.io/github/forks/wizardofzos/xmi-generator?style=flat-square&color=blue)](https://github.com/wizardofzos/xmi-generator/releases/tag/0.0.3/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > XMI plugin for VSCODE
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

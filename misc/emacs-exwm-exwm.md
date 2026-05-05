@@ -1,6 +1,6 @@
 # emacs-exwm/exwm
 
-[![Stars](https://img.shields.io/github/stars/emacs-exwm/exwm?style=flat-square&color=yellow)](https://github.com/emacs-exwm/exwm/stargazers) [![Forks](https://img.shields.io/github/forks/emacs-exwm/exwm?style=flat-square&color=blue)](https://github.com/emacs-exwm/exwm/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emacs-exwm/exwm?style=flat-square&color=yellow)](https://github.com/emacs-exwm/exwm/stargazers) [![Forks](https://img.shields.io/github/forks/emacs-exwm/exwm?style=flat-square&color=blue)](https://github.com/emacs-exwm/exwm/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Emacs X Window Manager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 603 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

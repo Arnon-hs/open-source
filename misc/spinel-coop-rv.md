@@ -1,6 +1,6 @@
 # spinel-coop/rv
 
-[![Stars](https://img.shields.io/github/stars/spinel-coop/rv?style=flat-square&color=yellow)](https://github.com/spinel-coop/rv/stargazers) [![Forks](https://img.shields.io/github/forks/spinel-coop/rv?style=flat-square&color=blue)](https://github.com/spinel-coop/rv/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spinel-coop/rv?style=flat-square&color=yellow)](https://github.com/spinel-coop/rv/stargazers) [![Forks](https://img.shields.io/github/forks/spinel-coop/rv?style=flat-square&color=blue)](https://github.com/spinel-coop/rv/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 💎💨 Extremely fast Ruby version and gem manager
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 42 |
+| 🍴 **Forks** | 43 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

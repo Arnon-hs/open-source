@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The grok-bridge project enables seamless interaction between AI agents and web content by transforming SuperGrok, a powerful Safari browser automation tool, into a REST API. This API bridge facilitates communication between AI systems and web applications, allowing for more efficient and effective data extraction and processing. By providing a standardized interface, grok-bridge enhances the capabilities of AI agents in navigating and interacting with web-based information.
+The grok-bridge project enables the exposure of SuperGrok's functionality as a REST API, facilitating seamless interaction with AI agents. This open-source tool serves as a bridge, automating Safari browser interactions and providing a standardized interface for AI systems to navigate and extract data from web pages. By leveraging grok-bridge, developers can harness the capabilities of SuperGrok in their AI applications.
 
 ---
 

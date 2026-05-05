@@ -1,6 +1,6 @@
 # chadingTV/claudecode-discord
 
-[![Stars](https://img.shields.io/github/stars/chadingTV/claudecode-discord?style=flat-square&color=yellow)](https://github.com/chadingTV/claudecode-discord/stargazers) [![Forks](https://img.shields.io/github/forks/chadingTV/claudecode-discord?style=flat-square&color=blue)](https://github.com/chadingTV/claudecode-discord/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chadingTV/claudecode-discord?style=flat-square&color=yellow)](https://github.com/chadingTV/claudecode-discord/stargazers) [![Forks](https://img.shields.io/github/forks/chadingTV/claudecode-discord?style=flat-square&color=blue)](https://github.com/chadingTV/claudecode-discord/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Control Claude Code from your phone — a multi-machine agent hub via Discord. No API key needed, runs on your Claude Pro/Max subscription. Start new sessions from mobile, manage multiple machines from one place.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 42 |
+| ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

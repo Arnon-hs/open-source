@@ -1,6 +1,6 @@
 # apify/mcpc
 
-[![Stars](https://img.shields.io/github/stars/apify/mcpc?style=flat-square&color=yellow)](https://github.com/apify/mcpc/stargazers) [![Forks](https://img.shields.io/github/forks/apify/mcpc?style=flat-square&color=blue)](https://github.com/apify/mcpc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apify/mcpc?style=flat-square&color=yellow)](https://github.com/apify/mcpc/stargazers) [![Forks](https://img.shields.io/github/forks/apify/mcpc?style=flat-square&color=blue)](https://github.com/apify/mcpc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 538 |
-| 🍴 **Forks** | 47 |
+| ⭐ **Stars** | 566 |
+| 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

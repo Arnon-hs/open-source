@@ -1,6 +1,6 @@
 # datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR
 
-[![Stars](https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR?style=flat-square&color=yellow)](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR/stargazers) [![Forks](https://img.shields.io/github/forks/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR?style=flat-square&color=blue)](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR?style=flat-square&color=yellow)](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR/stargazers) [![Forks](https://img.shields.io/github/forks/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR?style=flat-square&color=blue)](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic search via Qdrant vector DB
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

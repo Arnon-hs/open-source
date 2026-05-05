@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
-| 2 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.2k | JavaScript | 100/100 |
+| 1 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.2k | JavaScript | 100/100 |
+| 2 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
 | 3 | [cheat/cheat](./cheat-cheat.md) | ⭐ 13.3k | Go | 98/100 |
 | 4 | [roboflow/rf-detr](./roboflow-rf-detr.md) | ⭐ 6.9k | Python | 97/100 |
 | 5 | [vscode-icons/vscode-icons](./vscode-icons-vscode-icons.md) | ⭐ 5.1k | TypeScript | 96/100 |
@@ -18,7 +18,7 @@
 | 8 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.7k | Scala | 91/100 |
 | 9 | [garrytan/gstack](./garrytan-gstack.md) | ⭐ 89.6k | TypeScript | 90/100 |
 | 10 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4k | C++ | 86/100 |
-| 11 | [tw93/Waza](./tw93-waza.md) | ⭐ 4.4k | Shell | 85/100 |
+| 11 | [tw93/Waza](./tw93-waza.md) | ⭐ 4.5k | Shell | 85/100 |
 | 12 | [j178/prek](./j178-prek.md) | ⭐ 7.5k | Rust | 82/100 |
 | 13 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |
 | 14 | [pqoqubbw/icons](./pqoqubbw-icons.md) | ⭐ 7.6k | TypeScript | 79/100 |
@@ -43,17 +43,17 @@
 | 33 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 228 | Go | 52/100 |
 | 34 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 52/100 |
 | 35 | [processing/processing4](./processing-processing4.md) | ⭐ 394 | Java | 51/100 |
-| 36 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 603 | PHP | 50/100 |
-| 37 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 469 | JavaScript | 49/100 |
-| 38 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
-| 39 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 367 | Go | 49/100 |
-| 40 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 48/100 |
-| 41 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
-| 42 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 109 | Rust | 48/100 |
-| 43 | [JuliaDSP/DSP.jl](./juliadsp-dsp.jl.md) | ⭐ 416 | Julia | 47/100 |
-| 44 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
+| 36 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 50/100 |
+| 37 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 603 | PHP | 50/100 |
+| 38 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 469 | JavaScript | 49/100 |
+| 39 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 379 | Go | 49/100 |
+| 40 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
+| 41 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 48/100 |
+| 42 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
+| 43 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 109 | Rust | 48/100 |
+| 44 | [JuliaDSP/DSP.jl](./juliadsp-dsp.jl.md) | ⭐ 416 | Julia | 47/100 |
 | 45 | [NX211/homer-icons](./nx211-homer-icons.md) | ⭐ 975 | Python | 46/100 |
-| 46 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 46/100 |
+| 46 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 525 | Python | 46/100 |
 | 47 | [KinkyMakers/OSSM-hardware](./kinkymakers-ossm-hardware.md) | ⭐ 491 | C++ | 45/100 |
 | 48 | [goadesign/examples](./goadesign-examples.md) | ⭐ 205 | Go | 44/100 |
 | 49 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 142 | Rust | 43/100 |

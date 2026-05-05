@@ -1,6 +1,6 @@
 # DioCrafts/OxiCloud
 
-[![Stars](https://img.shields.io/github/stars/DioCrafts/OxiCloud?style=flat-square&color=yellow)](https://github.com/DioCrafts/OxiCloud/stargazers) [![Forks](https://img.shields.io/github/forks/DioCrafts/OxiCloud?style=flat-square&color=blue)](https://github.com/DioCrafts/OxiCloud/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DioCrafts/OxiCloud?style=flat-square&color=yellow)](https://github.com/DioCrafts/OxiCloud/stargazers) [![Forks](https://img.shields.io/github/forks/DioCrafts/OxiCloud?style=flat-square&color=blue)](https://github.com/DioCrafts/OxiCloud/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 141 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

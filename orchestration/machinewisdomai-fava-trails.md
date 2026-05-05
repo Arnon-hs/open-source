@@ -1,6 +1,6 @@
 # MachineWisdomAI/fava-trails
 
-[![Stars](https://img.shields.io/github/stars/MachineWisdomAI/fava-trails?style=flat-square&color=yellow)](https://github.com/MachineWisdomAI/fava-trails/stargazers) [![Forks](https://img.shields.io/github/forks/MachineWisdomAI/fava-trails?style=flat-square&color=blue)](https://github.com/MachineWisdomAI/fava-trails/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MachineWisdomAI/fava-trails?style=flat-square&color=yellow)](https://github.com/MachineWisdomAI/fava-trails/stargazers) [![Forks](https://img.shields.io/github/forks/MachineWisdomAI/fava-trails?style=flat-square&color=blue)](https://github.com/MachineWisdomAI/fava-trails/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🫛👣 FAVA Trails — Git-native, curated memory for AI agents via MCP. Draft isolation, promotion gate, thought lifecycle hooks, memory curation protocols, supersession chains.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

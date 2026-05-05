@@ -1,6 +1,6 @@
 # kimmknight/raweb
 
-[![Stars](https://img.shields.io/github/stars/kimmknight/raweb?style=flat-square&color=yellow)](https://github.com/kimmknight/raweb/stargazers) [![Forks](https://img.shields.io/github/forks/kimmknight/raweb?style=flat-square&color=blue)](https://github.com/kimmknight/raweb/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kimmknight/raweb?style=flat-square&color=yellow)](https://github.com/kimmknight/raweb/stargazers) [![Forks](https://img.shields.io/github/forks/kimmknight/raweb?style=flat-square&color=blue)](https://github.com/kimmknight/raweb/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A modern web interface for your RemoteApps hosted on Windows 10, 11 and Server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 768 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Makie.jl is an open-source library for Julia that enables the creation of interactive data visualizations and plots, providing a wide range of customization options and features. With Makie, users can create engaging and dynamic visualizations to explore and communicate complex data insights. This powerful tool is ideal for data scientists, researchers, and developers seeking to create interactive and immersive data visualizations.
+Makie.jl is an open-source, Julia-based library for creating interactive data visualizations and plotting. With its intuitive API and flexible customization options, Makie allows users to produce high-quality, dynamic visualizations that can be easily integrated into various Julia projects. Its interactive nature enables users to explore and analyze data in a more engaging and intuitive way.
 
 ---
 

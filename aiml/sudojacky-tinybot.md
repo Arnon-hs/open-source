@@ -1,6 +1,6 @@
 # SudoJacky/tinybot
 
-[![Stars](https://img.shields.io/github/stars/SudoJacky/tinybot?style=flat-square&color=yellow)](https://github.com/SudoJacky/tinybot/stargazers) [![Forks](https://img.shields.io/github/forks/SudoJacky/tinybot?style=flat-square&color=blue)](https://github.com/SudoJacky/tinybot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SudoJacky/tinybot?style=flat-square&color=yellow)](https://github.com/SudoJacky/tinybot/stargazers) [![Forks](https://img.shields.io/github/forks/SudoJacky/tinybot?style=flat-square&color=blue)](https://github.com/SudoJacky/tinybot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Tinybot is a lightweight personal AI Agent that is constantly evolving
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

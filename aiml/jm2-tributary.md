@@ -1,6 +1,6 @@
 # jm2/tributary
 
-[![Stars](https://img.shields.io/github/stars/jm2/tributary?style=flat-square&color=yellow)](https://github.com/jm2/tributary/stargazers) [![Forks](https://img.shields.io/github/forks/jm2/tributary?style=flat-square&color=blue)](https://github.com/jm2/tributary/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jm2/tributary?style=flat-square&color=yellow)](https://github.com/jm2/tributary/stargazers) [![Forks](https://img.shields.io/github/forks/jm2/tributary?style=flat-square&color=blue)](https://github.com/jm2/tributary/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Tributary is a high-performance, Rhythmbox-style media manager written in pure Rust with GTK4 and libadwaita.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

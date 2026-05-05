@@ -1,6 +1,6 @@
 # LucasDuys/forge
 
-[![Stars](https://img.shields.io/github/stars/LucasDuys/forge?style=flat-square&color=yellow)](https://github.com/LucasDuys/forge/stargazers) [![Forks](https://img.shields.io/github/forks/LucasDuys/forge?style=flat-square&color=blue)](https://github.com/LucasDuys/forge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LucasDuys/forge?style=flat-square&color=yellow)](https://github.com/LucasDuys/forge/stargazers) [![Forks](https://img.shields.io/github/forks/LucasDuys/forge?style=flat-square&color=blue)](https://github.com/LucasDuys/forge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Turn a one-line idea into a branch with tested, reviewed, committed code. The brainstorm-to-commit pipeline for Claude Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-BabyBuddy is an open-source application designed to assist caregivers in tracking various aspects of a baby's daily life, including sleep patterns, feedings, diaper changes, and tummy time. The app aims to provide valuable insights and predictions to help caregivers better understand their baby's needs, reducing guesswork and uncertainty. By streamlining caregiving tasks and offering data-driven insights, BabyBuddy helps caregivers make informed decisions and provide the best possible care for their baby.
+BabyBuddy is a user-friendly, open-source application designed to assist caregivers in tracking their baby's essential activities, such as sleep patterns, feedings, diaper changes, and tummy time. By centralizing this information, BabyBuddy aims to provide caregivers with valuable insights and predictions to better meet their baby's needs. This helps reduce guesswork and makes caring for a newborn or infant more efficient.
 
 ---
 

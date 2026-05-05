@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-This open-source project, "kickstart.go", provides a minimalistic template for building an HTTP server in Go. It offers a basic foundation for developers to quickly start creating web applications, minimizing the need for boilerplate code. This project serves as a starting point for those looking to build robust and efficient web servers using the Go programming language.
+Kickstart.go is a minimalist HTTP server template written in Go, designed to provide a basic starting point for building web applications. This open-source project serves as a foundation for developers to quickly create and deploy their own HTTP servers, allowing for easy customization and extension. By leveraging the simplicity of this template, developers can focus on implementing their application's core features without unnecessary complexity.
 
 ---
 

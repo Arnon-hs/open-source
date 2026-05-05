@@ -1,6 +1,6 @@
 # snowfallorg/icicle
 
-[![Stars](https://img.shields.io/github/stars/snowfallorg/icicle?style=flat-square&color=yellow)](https://github.com/snowfallorg/icicle/stargazers) [![Forks](https://img.shields.io/github/forks/snowfallorg/icicle?style=flat-square&color=blue)](https://github.com/snowfallorg/icicle/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/snowfallorg/icicle?style=flat-square&color=yellow)](https://github.com/snowfallorg/icicle/stargazers) [![Forks](https://img.shields.io/github/forks/snowfallorg/icicle?style=flat-square&color=blue)](https://github.com/snowfallorg/icicle/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > A gtk4/libadwaita installer for NixOS based distributions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

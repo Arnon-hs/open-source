@@ -1,6 +1,6 @@
 # millionco/localterm
 
-[![Stars](https://img.shields.io/github/stars/millionco/localterm?style=flat-square&color=yellow)](https://github.com/millionco/localterm/stargazers) [![Forks](https://img.shields.io/github/forks/millionco/localterm?style=flat-square&color=blue)](https://github.com/millionco/localterm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/millionco/localterm?style=flat-square&color=yellow)](https://github.com/millionco/localterm/stargazers) [![Forks](https://img.shields.io/github/forks/millionco/localterm?style=flat-square&color=blue)](https://github.com/millionco/localterm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal in your browser
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 92 |
-| 🍴 **Forks** | 3 |
+| ⭐ **Stars** | 114 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

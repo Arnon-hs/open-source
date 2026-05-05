@@ -1,6 +1,6 @@
 # hackclub/sprig
 
-[![Stars](https://img.shields.io/github/stars/hackclub/sprig?style=flat-square&color=yellow)](https://github.com/hackclub/sprig/stargazers) [![Forks](https://img.shields.io/github/forks/hackclub/sprig?style=flat-square&color=blue)](https://github.com/hackclub/sprig/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hackclub/sprig?style=flat-square&color=yellow)](https://github.com/hackclub/sprig/stargazers) [![Forks](https://img.shields.io/github/forks/hackclub/sprig?style=flat-square&color=blue)](https://github.com/hackclub/sprig/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 🍃 Learn to code by making games in a JavaScript web-based game editor.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

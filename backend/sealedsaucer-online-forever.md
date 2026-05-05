@@ -1,6 +1,6 @@
 # SealedSaucer/Online-Forever
 
-[![Stars](https://img.shields.io/github/stars/SealedSaucer/Online-Forever?style=flat-square&color=yellow)](https://github.com/SealedSaucer/Online-Forever/stargazers) [![Forks](https://img.shields.io/github/forks/SealedSaucer/Online-Forever?style=flat-square&color=blue)](https://github.com/SealedSaucer/Online-Forever/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SealedSaucer/Online-Forever?style=flat-square&color=yellow)](https://github.com/SealedSaucer/Online-Forever/stargazers) [![Forks](https://img.shields.io/github/forks/SealedSaucer/Online-Forever?style=flat-square&color=blue)](https://github.com/SealedSaucer/Online-Forever/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Make Your Discord Account 24/7 Online!
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 776 |
+| 🍴 **Forks** | 778 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

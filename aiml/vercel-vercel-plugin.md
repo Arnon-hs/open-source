@@ -1,6 +1,6 @@
 # vercel/vercel-plugin
 
-[![Stars](https://img.shields.io/github/stars/vercel/vercel-plugin?style=flat-square&color=yellow)](https://github.com/vercel/vercel-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/vercel/vercel-plugin?style=flat-square&color=blue)](https://github.com/vercel/vercel-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vercel/vercel-plugin?style=flat-square&color=yellow)](https://github.com/vercel/vercel-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/vercel/vercel-plugin?style=flat-square&color=blue)](https://github.com/vercel/vercel-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Comprehensive Vercel ecosystem plugin — relational knowledge graph, skills for every major product, specialized agents, and Vercel conventions. Turns any AI agent into a Vercel expert.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

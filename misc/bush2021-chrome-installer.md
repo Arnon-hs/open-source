@@ -1,6 +1,6 @@
 # Bush2021/chrome_installer
 
-[![Stars](https://img.shields.io/github/stars/Bush2021/chrome_installer?style=flat-square&color=yellow)](https://github.com/Bush2021/chrome_installer/stargazers) [![Forks](https://img.shields.io/github/forks/Bush2021/chrome_installer?style=flat-square&color=blue)](https://github.com/Bush2021/chrome_installer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bush2021/chrome_installer?style=flat-square&color=yellow)](https://github.com/Bush2021/chrome_installer/stargazers) [![Forks](https://img.shields.io/github/forks/Bush2021/chrome_installer?style=flat-square&color=blue)](https://github.com/Bush2021/chrome_installer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically fetch Google Chrome offline installer using GitHub Actions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
