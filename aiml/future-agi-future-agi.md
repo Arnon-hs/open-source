@@ -1,6 +1,6 @@
 # future-agi/future-agi
 
-[![Stars](https://img.shields.io/github/stars/future-agi/future-agi?style=flat-square&color=yellow)](https://github.com/future-agi/future-agi/stargazers) [![Forks](https://img.shields.io/github/forks/future-agi/future-agi?style=flat-square&color=blue)](https://github.com/future-agi/future-agi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/future-agi/future-agi?style=flat-square&color=yellow)](https://github.com/future-agi/future-agi/stargazers) [![Forks](https://img.shields.io/github/forks/future-agi/future-agi?style=flat-square&color=blue)](https://github.com/future-agi/future-agi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 833 |
+| ⭐ **Stars** | 835 |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

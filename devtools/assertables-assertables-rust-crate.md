@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Assertables is an open-source Rust crate that provides a comprehensive set of assert macros for testing purposes. This crate simplifies the testing process by offering a range of assertions to validate the behavior of Rust code, making it easier to write reliable and efficient unit tests. By leveraging Assertables, developers can focus on writing high-quality code while minimizing the complexity of testing.
+Assertables is an open-source Rust crate designed to provide a set of assert macros for testing purposes. It simplifies the process of writing unit tests by offering a standardized and concise way to verify expected outcomes, making it easier to catch and diagnose issues in code. With Assertables, developers can write more readable and maintainable tests.
 
 ---
 

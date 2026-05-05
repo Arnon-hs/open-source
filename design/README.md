@@ -56,10 +56,10 @@
 | 46 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 525 | Python | 46/100 |
 | 47 | [KinkyMakers/OSSM-hardware](./kinkymakers-ossm-hardware.md) | ⭐ 491 | C++ | 45/100 |
 | 48 | [goadesign/examples](./goadesign-examples.md) | ⭐ 205 | Go | 44/100 |
-| 49 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
-| 50 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 417 | TypeScript | 43/100 |
-| 51 | [oripa/oripa](./oripa-oripa.md) | ⭐ 309 | Java | 43/100 |
-| 52 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 438 | Go | 43/100 |
+| 49 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 417 | TypeScript | 43/100 |
+| 50 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 438 | Go | 43/100 |
+| 51 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
+| 52 | [oripa/oripa](./oripa-oripa.md) | ⭐ 310 | Java | 43/100 |
 | 53 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 142 | Rust | 43/100 |
 | 54 | [graelo/pumas](./graelo-pumas.md) | ⭐ 214 | Rust | 42/100 |
 | 55 | [nats-io/nats-architecture-and-design](./nats-io-nats-architecture-and-design.md) | ⭐ 398 | Go | 40/100 |

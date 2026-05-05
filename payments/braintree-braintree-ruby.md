@@ -25,7 +25,7 @@ Payments · AI/ML
 
 ## 📝 Summary
 
-The Braintree Ruby library is an open-source project that provides a seamless integration with Braintree's payment gateway, enabling developers to easily process transactions, manage subscriptions, and handle payments within their Ruby applications. This library facilitates secure and reliable payment processing, simplifying the development process for e-commerce solutions and other payment-intensive projects. By leveraging the Braintree Ruby library, developers can focus on building innovative features while trusting the library to handle payment-related complexities.
+The braintree/braintree_ruby project is an open-source library that enables developers to integrate Braintree payment processing capabilities into their Ruby applications. It provides a simple and secure way to accept payments, manage subscriptions, and perform other payment-related tasks. By using this library, developers can focus on building their applications without worrying about the complexities of payment processing.
 
 ---
 

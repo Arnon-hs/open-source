@@ -1,6 +1,6 @@
 # 3846masa/axios-cookiejar-support
 
-[![Stars](https://img.shields.io/github/stars/3846masa/axios-cookiejar-support?style=flat-square&color=yellow)](https://github.com/3846masa/axios-cookiejar-support/stargazers) [![Forks](https://img.shields.io/github/forks/3846masa/axios-cookiejar-support?style=flat-square&color=blue)](https://github.com/3846masa/axios-cookiejar-support/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/3846masa/axios-cookiejar-support?style=flat-square&color=yellow)](https://github.com/3846masa/axios-cookiejar-support/stargazers) [![Forks](https://img.shields.io/github/forks/3846masa/axios-cookiejar-support?style=flat-square&color=blue)](https://github.com/3846masa/axios-cookiejar-support/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Add tough-cookie support to axios.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 333 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML · Design
 
 ## 📝 Summary
 
-The agent-rules-books project is an open-source initiative that provides a set of guidelines and best practices for AI coding agents, specifically Codex, Cursor, and Claude Code, drawing inspiration from influential books in the software development and architecture realm. This project aims to promote clean, maintainable, and scalable AI code by leveraging principles from Clean Code, Refactoring, Domain-Driven Design, Clean Architecture, and Distributed Data-Intensive Applications.
+The ciembor/agent-rules-books project is an open-source repository of guidelines for AI coding agents, drawing inspiration from influential programming books such as Clean Code, Refactoring, DDD, Clean Architecture, and DDIA. This collection of best practices is designed to help developers utilizing Codex, Cursor, and Claude Code adhere to high standards of coding quality and maintainability. By following these "rules books," AI agent developers can ensure their projects are efficient, scalable, and easy to understand.
 
 ---
 

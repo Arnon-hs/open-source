@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The hashicorp/go-set package is an open-source library that offers generic Set implementations in Go, providing efficient data structures for storing unique elements. It includes HashSet for handling types with a built-in Hash() function and TreeSet for maintaining ordered collections. This package makes it easier to work with sets in Go applications.
+The hashicorp/go-set project offers a set of generic data structures for Go, providing efficient and ordered collections using HashSet and TreeSet implementations. These data structures can be used with any type that supports the Hash() function or has a natural ordering, making them versatile and flexible. The go-set package is built to simplify set operations in Go applications.
 
 ---
 

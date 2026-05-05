@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The "awesome-foundation-model-leaderboards" project is a comprehensive, open-source repository that curates a list of exceptional resources for AI domain leaderboards. This collection is specifically tailored for researchers and practitioners working on foundation models, providing a centralized hub for accessing the latest developments and advancements in the field. By aggregating these resources, the project aims to facilitate knowledge sharing and accelerate innovation in AI research.
+The awesome-foundation-model-leaderboards project is an open-source repository that provides a comprehensive list of resources and leaderboards for AI and machine learning (ML) researchers, specifically focusing on foundation models. This curated collection facilitates easy access to benchmarking and evaluation platforms for AI models, fostering innovation and collaboration within the AI community. By aggregating these resources, the project aims to accelerate the development and advancement of artificial intelligence.
 
 ---
 

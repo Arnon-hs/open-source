@@ -25,7 +25,9 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Databento's DBN (Databento Binary Encoding) is an open-source project designed to efficiently encode and store market data. This fast and lightweight format enables seamless data processing and analysis, making it ideal for AI/ML applications and other data-intensive use cases. By providing a compact and scalable storage solution, DBN streamlines the management of large market data sets.
+Here's a brief summary for the open-source project:
+
+Databento Binary Encoding (DBN) is an open-source, high-performance encoding and storage format for market data. This format enables fast and efficient encoding of financial data, making it ideal for applications in artificial intelligence, machine learning, and data storage. By leveraging DBN, developers can streamline their data processing workflows and achieve significant speed gains.
 
 ---
 

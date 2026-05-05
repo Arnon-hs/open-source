@@ -1,6 +1,6 @@
 # maton-ai/api-gateway-skill
 
-[![Stars](https://img.shields.io/github/stars/maton-ai/api-gateway-skill?style=flat-square&color=yellow)](https://github.com/maton-ai/api-gateway-skill/stargazers) [![Forks](https://img.shields.io/github/forks/maton-ai/api-gateway-skill?style=flat-square&color=blue)](https://github.com/maton-ai/api-gateway-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maton-ai/api-gateway-skill?style=flat-square&color=yellow)](https://github.com/maton-ai/api-gateway-skill/stargazers) [![Forks](https://img.shields.io/github/forks/maton-ai/api-gateway-skill?style=flat-square&color=blue)](https://github.com/maton-ai/api-gateway-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > API gateway with managed auth. Connect your AI to Slack, HubSpot, Salesforce, Google Workspace, Shopify, and more with a single API key.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

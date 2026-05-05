@@ -1,6 +1,6 @@
 # gannonh/kata
 
-[![Stars](https://img.shields.io/github/stars/gannonh/kata?style=flat-square&color=yellow)](https://github.com/gannonh/kata/stargazers) [![Forks](https://img.shields.io/github/forks/gannonh/kata?style=flat-square&color=blue)](https://github.com/gannonh/kata/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gannonh/kata?style=flat-square&color=yellow)](https://github.com/gannonh/kata/stargazers) [![Forks](https://img.shields.io/github/forks/gannonh/kata?style=flat-square&color=blue)](https://github.com/gannonh/kata/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Kata multi-agent orchestration monorepo: CLI, Symphony, Desktop, Context, Orchestrator
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 30 |
-| 🍴 **Forks** | 2 |
+| 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

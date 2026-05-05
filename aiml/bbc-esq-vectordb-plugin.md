@@ -1,6 +1,6 @@
 # BBC-Esq/VectorDB-Plugin
 
-[![Stars](https://img.shields.io/github/stars/BBC-Esq/VectorDB-Plugin?style=flat-square&color=yellow)](https://github.com/BBC-Esq/VectorDB-Plugin/stargazers) [![Forks](https://img.shields.io/github/forks/BBC-Esq/VectorDB-Plugin?style=flat-square&color=blue)](https://github.com/BBC-Esq/VectorDB-Plugin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BBC-Esq/VectorDB-Plugin?style=flat-square&color=yellow)](https://github.com/BBC-Esq/VectorDB-Plugin/stargazers) [![Forks](https://img.shields.io/github/forks/BBC-Esq/VectorDB-Plugin?style=flat-square&color=blue)](https://github.com/BBC-Esq/VectorDB-Plugin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Program that lets you ask questions about your documents, audio, and video files.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 363 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

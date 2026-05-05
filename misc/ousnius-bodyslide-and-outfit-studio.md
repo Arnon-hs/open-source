@@ -1,6 +1,6 @@
 # ousnius/BodySlide-and-Outfit-Studio
 
-[![Stars](https://img.shields.io/github/stars/ousnius/BodySlide-and-Outfit-Studio?style=flat-square&color=yellow)](https://github.com/ousnius/BodySlide-and-Outfit-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/ousnius/BodySlide-and-Outfit-Studio?style=flat-square&color=blue)](https://github.com/ousnius/BodySlide-and-Outfit-Studio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ousnius/BodySlide-and-Outfit-Studio?style=flat-square&color=yellow)](https://github.com/ousnius/BodySlide-and-Outfit-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/ousnius/BodySlide-and-Outfit-Studio?style=flat-square&color=blue)](https://github.com/ousnius/BodySlide-and-Outfit-Studio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > BodySlide and Outfit Studio, a tool to convert, create, and customize outfits and bodies for Bethesda games.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

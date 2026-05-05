@@ -1,6 +1,6 @@
 # echoVic/blade-code
 
-[![Stars](https://img.shields.io/github/stars/echoVic/blade-code?style=flat-square&color=yellow)](https://github.com/echoVic/blade-code/stargazers) [![Forks](https://img.shields.io/github/forks/echoVic/blade-code?style=flat-square&color=blue)](https://github.com/echoVic/blade-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/echoVic/blade-code?style=flat-square&color=yellow)](https://github.com/echoVic/blade-code/stargazers) [![Forks](https://img.shields.io/github/forks/echoVic/blade-code?style=flat-square&color=blue)](https://github.com/echoVic/blade-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered CLI coding agent with 20+ built-in tools, MCP support, and multi-model providers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

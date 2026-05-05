@@ -1,6 +1,6 @@
 # PeonPing/peon-ping
 
-[![Stars](https://img.shields.io/github/stars/PeonPing/peon-ping?style=flat-square&color=yellow)](https://github.com/PeonPing/peon-ping/stargazers) [![Forks](https://img.shields.io/github/forks/PeonPing/peon-ping?style=flat-square&color=blue)](https://github.com/PeonPing/peon-ping/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PeonPing/peon-ping?style=flat-square&color=yellow)](https://github.com/PeonPing/peon-ping/stargazers) [![Forks](https://img.shields.io/github/forks/PeonPing/peon-ping?style=flat-square&color=blue)](https://github.com/PeonPing/peon-ping/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.6k |
+| ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 330 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

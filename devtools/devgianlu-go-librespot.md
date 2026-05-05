@@ -27,7 +27,7 @@ DevTools
 
 Here's a brief summary for the devgianlu/go-librespot project:
 
-devgianlu/go-librespot is an open-source, Go-based library that enables developers to interact with the Spotify API, allowing for the creation of custom Spotify clients and integrations. This project provides a flexible and extensible framework for working with Spotify's music streaming services. By leveraging this library, developers can build their own Spotify clients, bots, and other applications.
+devgianlu/go-librespot is a Go-based, open-source Spotify client that allows users to interact with the Spotify music streaming service. This project provides an alternative to the official Spotify API, offering developers a flexible and customizable solution for building Spotify-enabled applications. By leveraging the power of Go, this library enables users to access a wide range of Spotify features and functionality.
 
 ---
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Xquik-dev/x-twitter-scraper?style=flat-square&color=yellow)](https://github.com/Xquik-dev/x-twitter-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/Xquik-dev/x-twitter-scraper?style=flat-square&color=blue)](https://github.com/Xquik-dev/x-twitter-scraper/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> X (formerly Twitter) data platform skill for AI coding agents. 113 REST API endpoints, 2 MCP tools, 23 extraction types, HMAC webhooks, SDKs, and automation workflows.
+> X (formerly Twitter) data platform skill for AI coding agents. 100+ REST API endpoints, 2 MCP tools, 23 extraction types, HMAC webhooks, SDKs, and automation workflows.
 
 ## 📊 Stats
 

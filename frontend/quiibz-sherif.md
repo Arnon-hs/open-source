@@ -1,6 +1,6 @@
 # QuiiBz/sherif
 
-[![Stars](https://img.shields.io/github/stars/QuiiBz/sherif?style=flat-square&color=yellow)](https://github.com/QuiiBz/sherif/stargazers) [![Forks](https://img.shields.io/github/forks/QuiiBz/sherif?style=flat-square&color=blue)](https://github.com/QuiiBz/sherif/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QuiiBz/sherif?style=flat-square&color=yellow)](https://github.com/QuiiBz/sherif/stargazers) [![Forks](https://img.shields.io/github/forks/QuiiBz/sherif?style=flat-square&color=blue)](https://github.com/QuiiBz/sherif/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Opinionated, zero-config linter for TypeScript & JavaScript monorepos
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

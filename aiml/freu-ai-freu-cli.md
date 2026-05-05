@@ -1,17 +1,17 @@
 # freu-ai/freu-cli
 
-[![Stars](https://img.shields.io/github/stars/freu-ai/freu-cli?style=flat-square&color=yellow)](https://github.com/freu-ai/freu-cli/stargazers) [![Forks](https://img.shields.io/github/forks/freu-ai/freu-cli?style=flat-square&color=blue)](https://github.com/freu-ai/freu-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freu-ai/freu-cli?style=flat-square&color=yellow)](https://github.com/freu-ai/freu-cli/stargazers) [![Forks](https://img.shields.io/github/forks/freu-ai/freu-cli?style=flat-square&color=blue)](https://github.com/freu-ai/freu-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Cut AI agent token usage by up to 90%: record a browser session once with freu-cli and it compiles into a reusable skill command. Constellation-based DOM targeting survives class renames and page reshuffles, so skills keep working. Drops into Claude Code, Codex CLI, Cursor, OpenClaw, and Hermes skills directories.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Freu CLI is an open-source project that enables significant reductions in web agent token usage by utilizing compiled browser skills. This innovative tool leverages AI/ML capabilities to optimize web interactions, resulting in a substantial 90% decrease in token consumption. By harnessing the power of compiled browser skills, developers can improve the efficiency of their web applications.
+Freu CLI is an open-source project that leverages compiled browser skills to significantly reduce web agent token usage by up to 90%. This innovative tool utilizes AI/ML capabilities to optimize web interactions, providing a more efficient and streamlined experience. By harnessing the power of compiled browser skills, Freu CLI aims to revolutionize the way web interactions are handled.
 
 ---
 

@@ -1,6 +1,6 @@
 # spaceship-prompt/spaceship-prompt
 
-[![Stars](https://img.shields.io/github/stars/spaceship-prompt/spaceship-prompt?style=flat-square&color=yellow)](https://github.com/spaceship-prompt/spaceship-prompt/stargazers) [![Forks](https://img.shields.io/github/forks/spaceship-prompt/spaceship-prompt?style=flat-square&color=blue)](https://github.com/spaceship-prompt/spaceship-prompt/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spaceship-prompt/spaceship-prompt?style=flat-square&color=yellow)](https://github.com/spaceship-prompt/spaceship-prompt/stargazers) [![Forks](https://img.shields.io/github/forks/spaceship-prompt/spaceship-prompt?style=flat-square&color=blue)](https://github.com/spaceship-prompt/spaceship-prompt/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.5k |
 | 🍴 **Forks** | 968 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 100/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

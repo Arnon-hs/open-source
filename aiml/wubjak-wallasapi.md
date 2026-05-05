@@ -1,6 +1,6 @@
 # wubjak/wallasapi
 
-[![Stars](https://img.shields.io/github/stars/wubjak/wallasapi?style=flat-square&color=yellow)](https://github.com/wubjak/wallasapi/stargazers) [![Forks](https://img.shields.io/github/forks/wubjak/wallasapi?style=flat-square&color=blue)](https://github.com/wubjak/wallasapi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wubjak/wallasapi?style=flat-square&color=yellow)](https://github.com/wubjak/wallasapi/stargazers) [![Forks](https://img.shields.io/github/forks/wubjak/wallasapi?style=flat-square&color=blue)](https://github.com/wubjak/wallasapi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > The unified, OpenAI-compatible AI router. 12+ providers, 100+ models, automatic fallback. Built solo from a rented room in Peru. Star + donate to keep it alive.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

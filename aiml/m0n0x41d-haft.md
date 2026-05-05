@@ -1,6 +1,6 @@
 # m0n0x41d/haft
 
-[![Stars](https://img.shields.io/github/stars/m0n0x41d/haft?style=flat-square&color=yellow)](https://github.com/m0n0x41d/haft/stargazers) [![Forks](https://img.shields.io/github/forks/m0n0x41d/haft?style=flat-square&color=blue)](https://github.com/m0n0x41d/haft/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/m0n0x41d/haft?style=flat-square&color=yellow)](https://github.com/m0n0x41d/haft/stargazers) [![Forks](https://img.shields.io/github/forks/m0n0x41d/haft?style=flat-square&color=blue)](https://github.com/m0n0x41d/haft/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Engineering decisions  engine that know when they're stale. Frame, compare, decide — with evidence decay and parity enforcement. For Claude Code, Cursor, Gemini CLI, Codex and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

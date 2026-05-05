@@ -1,6 +1,6 @@
 # Bitmessage/PyBitmessage
 
-[![Stars](https://img.shields.io/github/stars/Bitmessage/PyBitmessage?style=flat-square&color=yellow)](https://github.com/Bitmessage/PyBitmessage/stargazers) [![Forks](https://img.shields.io/github/forks/Bitmessage/PyBitmessage?style=flat-square&color=blue)](https://github.com/Bitmessage/PyBitmessage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bitmessage/PyBitmessage?style=flat-square&color=yellow)](https://github.com/Bitmessage/PyBitmessage/stargazers) [![Forks](https://img.shields.io/github/forks/Bitmessage/PyBitmessage?style=flat-square&color=blue)](https://github.com/Bitmessage/PyBitmessage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Reference client for Bitmessage: a P2P encrypted decentralised communication protocol:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 573 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

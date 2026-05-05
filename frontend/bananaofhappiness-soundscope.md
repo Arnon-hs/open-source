@@ -25,7 +25,7 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-The soundscope project is an open-source, terminal-based application that enables users to analyze audio data through a command-line interface. It provides insights into audio characteristics such as frequencies and loudness (measured in LUFS), making it a valuable tool for audio professionals and hobbyists alike. This project is ideal for those seeking a simple, yet effective, way to inspect and understand audio data.
+The Soundscope project is an open-source, text-based user interface (TUI) application designed to analyze audio data. It provides insight into the frequency and loudness (measured in LUFS) of audio files, allowing users to gain a deeper understanding of their audio content. This tool is particularly useful for developers, sound engineers, and anyone interested in exploring audio data in a simple and intuitive way.
 
 ---
 

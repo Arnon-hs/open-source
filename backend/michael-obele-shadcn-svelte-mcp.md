@@ -1,6 +1,6 @@
 # Michael-Obele/shadcn-svelte-mcp
 
-[![Stars](https://img.shields.io/github/stars/Michael-Obele/shadcn-svelte-mcp?style=flat-square&color=yellow)](https://github.com/Michael-Obele/shadcn-svelte-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Michael-Obele/shadcn-svelte-mcp?style=flat-square&color=blue)](https://github.com/Michael-Obele/shadcn-svelte-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Michael-Obele/shadcn-svelte-mcp?style=flat-square&color=yellow)](https://github.com/Michael-Obele/shadcn-svelte-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Michael-Obele/shadcn-svelte-mcp?style=flat-square&color=blue)](https://github.com/Michael-Obele/shadcn-svelte-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Mastra MCP server and tooling for the shadcn-svelte component docs and developer utilities.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

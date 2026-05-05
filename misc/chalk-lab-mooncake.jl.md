@@ -1,6 +1,6 @@
 # chalk-lab/Mooncake.jl
 
-[![Stars](https://img.shields.io/github/stars/chalk-lab/Mooncake.jl?style=flat-square&color=yellow)](https://github.com/chalk-lab/Mooncake.jl/stargazers) [![Forks](https://img.shields.io/github/forks/chalk-lab/Mooncake.jl?style=flat-square&color=blue)](https://github.com/chalk-lab/Mooncake.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chalk-lab/Mooncake.jl?style=flat-square&color=yellow)](https://github.com/chalk-lab/Mooncake.jl/stargazers) [![Forks](https://img.shields.io/github/forks/chalk-lab/Mooncake.jl?style=flat-square&color=blue)](https://github.com/chalk-lab/Mooncake.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Implementation of a language-level autograd compiler
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

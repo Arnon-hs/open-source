@@ -1,6 +1,6 @@
 # benhatsor/rollup-dts-bundler
 
-[![Stars](https://img.shields.io/github/stars/benhatsor/rollup-dts-bundler?style=flat-square&color=yellow)](https://github.com/benhatsor/rollup-dts-bundler/stargazers) [![Forks](https://img.shields.io/github/forks/benhatsor/rollup-dts-bundler?style=flat-square&color=blue)](https://github.com/benhatsor/rollup-dts-bundler/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/benhatsor/rollup-dts-bundler?style=flat-square&color=yellow)](https://github.com/benhatsor/rollup-dts-bundler/stargazers) [![Forks](https://img.shields.io/github/forks/benhatsor/rollup-dts-bundler?style=flat-square&color=blue)](https://github.com/benhatsor/rollup-dts-bundler/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Rollup plugin for accurate .d.ts bundling via @microsoft/api-extractor.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

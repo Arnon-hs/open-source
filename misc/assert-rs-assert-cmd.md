@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The assert-rs/assert_cmd project is an open-source tool designed to simplify the initialization and assertion of Rust's process::Command. This library provides a convenient interface for building and verifying commands, making it easier to write robust and reliable tests. By using assert_cmd, developers can focus on writing functional code rather than boilerplate command initialization.
+Assert-rs/assert_cmd is an open-source project that simplifies the initialization and assertion of process::Command in Rust. This library provides an easy-to-use interface for creating and verifying commands, making it easier to write reliable and testable code. With assert_cmd, developers can focus on the logic of their programs without worrying about the intricacies of command execution.
 
 ---
 
