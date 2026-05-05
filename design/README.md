@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**57 projects** in this category.
+**56 projects** in this category.
 
 ## Projects
 
@@ -50,8 +50,8 @@
 | 40 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 109 | Rust | 48/100 |
 | 41 | [JuliaDSP/DSP.jl](./juliadsp-dsp.jl.md) | ⭐ 416 | Julia | 47/100 |
 | 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
-| 43 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 46/100 |
-| 44 | [NX211/homer-icons](./nx211-homer-icons.md) | ⭐ 975 | Python | 46/100 |
+| 43 | [NX211/homer-icons](./nx211-homer-icons.md) | ⭐ 975 | Python | 46/100 |
+| 44 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 46/100 |
 | 45 | [KinkyMakers/OSSM-hardware](./kinkymakers-ossm-hardware.md) | ⭐ 491 | C++ | 45/100 |
 | 46 | [goadesign/examples](./goadesign-examples.md) | ⭐ 205 | Go | 44/100 |
 | 47 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 44/100 |
@@ -62,9 +62,8 @@
 | 52 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
 | 53 | [graelo/pumas](./graelo-pumas.md) | ⭐ 214 | Rust | 42/100 |
 | 54 | [nats-io/nats-architecture-and-design](./nats-io-nats-architecture-and-design.md) | ⭐ 398 | Go | 40/100 |
-| 55 | [youssofal/MTPLX](./youssofal-mtplx.md) | ⭐ — | — | 39/100 |
-| 56 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |
-| 57 | [PaulBellette/chladni_inverse_design](./paulbellette-chladni-inverse-design.md) | ⭐ — | Python | 32/100 |
+| 55 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |
+| 56 | [PaulBellette/chladni_inverse_design](./paulbellette-chladni-inverse-design.md) | ⭐ — | Python | 32/100 |
 
 ---
 

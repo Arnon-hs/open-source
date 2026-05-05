@@ -1,17 +1,17 @@
 # kouhxp/liteflow
 
-[![Stars](https://img.shields.io/github/stars/kouhxp/liteflow?style=flat-square&color=yellow)](https://github.com/kouhxp/liteflow/stargazers) [![Forks](https://img.shields.io/github/forks/kouhxp/liteflow?style=flat-square&color=blue)](https://github.com/kouhxp/liteflow/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kouhxp/liteflow?style=flat-square&color=yellow)](https://github.com/kouhxp/liteflow/stargazers) [![Forks](https://img.shields.io/github/forks/kouhxp/liteflow?style=flat-square&color=blue)](https://github.com/kouhxp/liteflow/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> 1000-line C program where an LLM can edit the DAG mid-run, but only via a four-verb grammar, and every edit is an auditable event
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | C |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

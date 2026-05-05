@@ -1,6 +1,6 @@
 # kiwix/kiwix-js
 
-[![Stars](https://img.shields.io/github/stars/kiwix/kiwix-js?style=flat-square&color=yellow)](https://github.com/kiwix/kiwix-js/stargazers) [![Forks](https://img.shields.io/github/forks/kiwix/kiwix-js?style=flat-square&color=blue)](https://github.com/kiwix/kiwix-js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kiwix/kiwix-js?style=flat-square&color=yellow)](https://github.com/kiwix/kiwix-js/stargazers) [![Forks](https://img.shields.io/github/forks/kiwix/kiwix-js?style=flat-square&color=blue)](https://github.com/kiwix/kiwix-js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Fully portable and lightweight ZIM reader written entirely in Javascript. Runs both as a Browser Extension and as a Progressive Web App.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 433 |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

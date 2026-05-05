@@ -1,6 +1,6 @@
 # chef/bento
 
-[![Stars](https://img.shields.io/github/stars/chef/bento?style=flat-square&color=yellow)](https://github.com/chef/bento/stargazers) [![Forks](https://img.shields.io/github/forks/chef/bento?style=flat-square&color=blue)](https://github.com/chef/bento/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chef/bento?style=flat-square&color=yellow)](https://github.com/chef/bento/stargazers) [![Forks](https://img.shields.io/github/forks/chef/bento?style=flat-square&color=blue)](https://github.com/chef/bento/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > Packer templates for building minimal Vagrant baseboxes for multiple platforms
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | HCL |
-| 📈 **Score** | 92/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

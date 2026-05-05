@@ -1,6 +1,6 @@
 # ceilf6/FrontAgent
 
-[![Stars](https://img.shields.io/github/stars/ceilf6/FrontAgent?style=flat-square&color=yellow)](https://github.com/ceilf6/FrontAgent/stargazers) [![Forks](https://img.shields.io/github/forks/ceilf6/FrontAgent?style=flat-square&color=blue)](https://github.com/ceilf6/FrontAgent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ceilf6/FrontAgent?style=flat-square&color=yellow)](https://github.com/ceilf6/FrontAgent/stargazers) [![Forks](https://img.shields.io/github/forks/ceilf6/FrontAgent?style=flat-square&color=blue)](https://github.com/ceilf6/FrontAgent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent platform for frontend engineering with RAG, Skills, SDD, MCP | 通过多种适配前端工程的技术进行赋能的智能体，支持通过 CLI 或 VSCode插件 使用
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 93 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

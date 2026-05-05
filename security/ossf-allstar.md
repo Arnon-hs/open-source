@@ -1,6 +1,6 @@
 # ossf/allstar
 
-[![Stars](https://img.shields.io/github/stars/ossf/allstar?style=flat-square&color=yellow)](https://github.com/ossf/allstar/stargazers) [![Forks](https://img.shields.io/github/forks/ossf/allstar?style=flat-square&color=blue)](https://github.com/ossf/allstar/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ossf/allstar?style=flat-square&color=yellow)](https://github.com/ossf/allstar/stargazers) [![Forks](https://img.shields.io/github/forks/ossf/allstar?style=flat-square&color=blue)](https://github.com/ossf/allstar/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub App to set and enforce security policies
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

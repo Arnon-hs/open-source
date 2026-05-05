@@ -1,6 +1,6 @@
 # aws-observability/aws-otel-collector
 
-[![Stars](https://img.shields.io/github/stars/aws-observability/aws-otel-collector?style=flat-square&color=yellow)](https://github.com/aws-observability/aws-otel-collector/stargazers) [![Forks](https://img.shields.io/github/forks/aws-observability/aws-otel-collector?style=flat-square&color=blue)](https://github.com/aws-observability/aws-otel-collector/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-observability/aws-otel-collector?style=flat-square&color=yellow)](https://github.com/aws-observability/aws-otel-collector/stargazers) [![Forks](https://img.shields.io/github/forks/aws-observability/aws-otel-collector?style=flat-square&color=blue)](https://github.com/aws-observability/aws-otel-collector/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AWS Distro for OpenTelemetry Collector (see ADOT Roadmap at https://github.com/orgs/aws-observability/projects/4)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 740 |
 | 🍴 **Forks** | 263 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

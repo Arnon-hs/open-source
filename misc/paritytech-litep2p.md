@@ -1,6 +1,6 @@
 # paritytech/litep2p
 
-[![Stars](https://img.shields.io/github/stars/paritytech/litep2p?style=flat-square&color=yellow)](https://github.com/paritytech/litep2p/stargazers) [![Forks](https://img.shields.io/github/forks/paritytech/litep2p?style=flat-square&color=blue)](https://github.com/paritytech/litep2p/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paritytech/litep2p?style=flat-square&color=yellow)](https://github.com/paritytech/litep2p/stargazers) [![Forks](https://img.shields.io/github/forks/paritytech/litep2p?style=flat-square&color=blue)](https://github.com/paritytech/litep2p/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Peer-to-peer networking library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

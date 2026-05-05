@@ -1,6 +1,6 @@
 # nix-community/nix-index
 
-[![Stars](https://img.shields.io/github/stars/nix-community/nix-index?style=flat-square&color=yellow)](https://github.com/nix-community/nix-index/stargazers) [![Forks](https://img.shields.io/github/forks/nix-community/nix-index?style=flat-square&color=blue)](https://github.com/nix-community/nix-index/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nix-community/nix-index?style=flat-square&color=yellow)](https://github.com/nix-community/nix-index/stargazers) [![Forks](https://img.shields.io/github/forks/nix-community/nix-index?style=flat-square&color=blue)](https://github.com/nix-community/nix-index/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

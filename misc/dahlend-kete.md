@@ -1,6 +1,6 @@
 # dahlend/kete
 
-[![Stars](https://img.shields.io/github/stars/dahlend/kete?style=flat-square&color=yellow)](https://github.com/dahlend/kete/stargazers) [![Forks](https://img.shields.io/github/forks/dahlend/kete?style=flat-square&color=blue)](https://github.com/dahlend/kete/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dahlend/kete?style=flat-square&color=yellow)](https://github.com/dahlend/kete/stargazers) [![Forks](https://img.shields.io/github/forks/dahlend/kete?style=flat-square&color=blue)](https://github.com/dahlend/kete/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Kete Solar System Survey tools
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

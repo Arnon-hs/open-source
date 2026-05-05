@@ -1,6 +1,6 @@
 # ozwaldorf/lutgen-rs
 
-[![Stars](https://img.shields.io/github/stars/ozwaldorf/lutgen-rs?style=flat-square&color=yellow)](https://github.com/ozwaldorf/lutgen-rs/stargazers) [![Forks](https://img.shields.io/github/forks/ozwaldorf/lutgen-rs?style=flat-square&color=blue)](https://github.com/ozwaldorf/lutgen-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ozwaldorf/lutgen-rs?style=flat-square&color=yellow)](https://github.com/ozwaldorf/lutgen-rs/stargazers) [![Forks](https://img.shields.io/github/forks/ozwaldorf/lutgen-rs?style=flat-square&color=blue)](https://github.com/ozwaldorf/lutgen-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Blazingly fast interpolated LUT generator and applicator for arbitrary and popular color palettes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 544 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

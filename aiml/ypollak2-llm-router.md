@@ -1,6 +1,6 @@
 # ypollak2/llm-router
 
-[![Stars](https://img.shields.io/github/stars/ypollak2/llm-router?style=flat-square&color=yellow)](https://github.com/ypollak2/llm-router/stargazers) [![Forks](https://img.shields.io/github/forks/ypollak2/llm-router?style=flat-square&color=blue)](https://github.com/ypollak2/llm-router/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ypollak2/llm-router?style=flat-square&color=yellow)](https://github.com/ypollak2/llm-router/stargazers) [![Forks](https://img.shields.io/github/forks/ypollak2/llm-router?style=flat-square&color=blue)](https://github.com/ypollak2/llm-router/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more.        Free-first fallback chain keeps costs 70–85% lower.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

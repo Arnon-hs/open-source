@@ -1,6 +1,6 @@
 # DelSkayn/rquickjs
 
-[![Stars](https://img.shields.io/github/stars/DelSkayn/rquickjs?style=flat-square&color=yellow)](https://github.com/DelSkayn/rquickjs/stargazers) [![Forks](https://img.shields.io/github/forks/DelSkayn/rquickjs?style=flat-square&color=blue)](https://github.com/DelSkayn/rquickjs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DelSkayn/rquickjs?style=flat-square&color=yellow)](https://github.com/DelSkayn/rquickjs/stargazers) [![Forks](https://img.shields.io/github/forks/DelSkayn/rquickjs?style=flat-square&color=blue)](https://github.com/DelSkayn/rquickjs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > High level bindings to the quickjs javascript engine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 910 |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

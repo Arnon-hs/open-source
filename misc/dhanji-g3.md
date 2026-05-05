@@ -1,6 +1,6 @@
 # dhanji/g3
 
-[![Stars](https://img.shields.io/github/stars/dhanji/g3?style=flat-square&color=yellow)](https://github.com/dhanji/g3/stargazers) [![Forks](https://img.shields.io/github/forks/dhanji/g3?style=flat-square&color=blue)](https://github.com/dhanji/g3/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dhanji/g3?style=flat-square&color=yellow)](https://github.com/dhanji/g3/stargazers) [![Forks](https://img.shields.io/github/forks/dhanji/g3?style=flat-square&color=blue)](https://github.com/dhanji/g3/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > experiments in goose
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 509 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

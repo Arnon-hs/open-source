@@ -1,6 +1,6 @@
 # google/osv.dev
 
-[![Stars](https://img.shields.io/github/stars/google/osv.dev?style=flat-square&color=yellow)](https://github.com/google/osv.dev/stargazers) [![Forks](https://img.shields.io/github/forks/google/osv.dev?style=flat-square&color=blue)](https://github.com/google/osv.dev/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/osv.dev?style=flat-square&color=yellow)](https://github.com/google/osv.dev/stargazers) [![Forks](https://img.shields.io/github/forks/google/osv.dev?style=flat-square&color=blue)](https://github.com/google/osv.dev/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open source vulnerability DB and triage service.
 
@@ -9,8 +9,8 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.6k |
-| 🍴 **Forks** | 312 |
-| 💻 **Language** | Python |
+| 🍴 **Forks** | 313 |
+| 💻 **Language** | Go |
 | 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

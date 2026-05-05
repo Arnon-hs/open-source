@@ -1,6 +1,6 @@
 # guardian/frontend
 
-[![Stars](https://img.shields.io/github/stars/guardian/frontend?style=flat-square&color=yellow)](https://github.com/guardian/frontend/stargazers) [![Forks](https://img.shields.io/github/forks/guardian/frontend?style=flat-square&color=blue)](https://github.com/guardian/frontend/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guardian/frontend?style=flat-square&color=yellow)](https://github.com/guardian/frontend/stargazers) [![Forks](https://img.shields.io/github/forks/guardian/frontend?style=flat-square&color=blue)](https://github.com/guardian/frontend/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > The Guardian DotCom.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 570 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

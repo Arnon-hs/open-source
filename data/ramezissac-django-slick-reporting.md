@@ -1,6 +1,6 @@
 # RamezIssac/django-slick-reporting
 
-[![Stars](https://img.shields.io/github/stars/RamezIssac/django-slick-reporting?style=flat-square&color=yellow)](https://github.com/RamezIssac/django-slick-reporting/stargazers) [![Forks](https://img.shields.io/github/forks/RamezIssac/django-slick-reporting?style=flat-square&color=blue)](https://github.com/RamezIssac/django-slick-reporting/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RamezIssac/django-slick-reporting?style=flat-square&color=yellow)](https://github.com/RamezIssac/django-slick-reporting/stargazers) [![Forks](https://img.shields.io/github/forks/RamezIssac/django-slick-reporting?style=flat-square&color=blue)](https://github.com/RamezIssac/django-slick-reporting/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The Reporting Engine for Django. Create dashboards and standalone Reports and Charts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 598 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

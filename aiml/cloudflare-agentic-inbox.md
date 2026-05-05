@@ -1,6 +1,6 @@
 # cloudflare/agentic-inbox
 
-[![Stars](https://img.shields.io/github/stars/cloudflare/agentic-inbox?style=flat-square&color=yellow)](https://github.com/cloudflare/agentic-inbox/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/agentic-inbox?style=flat-square&color=blue)](https://github.com/cloudflare/agentic-inbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudflare/agentic-inbox?style=flat-square&color=yellow)](https://github.com/cloudflare/agentic-inbox/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/agentic-inbox?style=flat-square&color=blue)](https://github.com/cloudflare/agentic-inbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 328 |
+| 🍴 **Forks** | 330 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

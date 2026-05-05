@@ -1,6 +1,6 @@
 # line/line-bot-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/line/line-bot-mcp-server?style=flat-square&color=yellow)](https://github.com/line/line-bot-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/line/line-bot-mcp-server?style=flat-square&color=blue)](https://github.com/line/line-bot-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/line/line-bot-mcp-server?style=flat-square&color=yellow)](https://github.com/line/line-bot-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/line/line-bot-mcp-server?style=flat-square&color=blue)](https://github.com/line/line-bot-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that integrates the LINE Messaging API to connect an AI Agent to the LINE Official Account.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 576 |
-| 🍴 **Forks** | 105 |
+| ⭐ **Stars** | 577 |
+| 🍴 **Forks** | 104 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

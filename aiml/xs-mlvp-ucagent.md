@@ -1,6 +1,6 @@
 # XS-MLVP/UCAgent
 
-[![Stars](https://img.shields.io/github/stars/XS-MLVP/UCAgent?style=flat-square&color=yellow)](https://github.com/XS-MLVP/UCAgent/stargazers) [![Forks](https://img.shields.io/github/forks/XS-MLVP/UCAgent?style=flat-square&color=blue)](https://github.com/XS-MLVP/UCAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XS-MLVP/UCAgent?style=flat-square&color=yellow)](https://github.com/XS-MLVP/UCAgent/stargazers) [![Forks](https://img.shields.io/github/forks/XS-MLVP/UCAgent?style=flat-square&color=blue)](https://github.com/XS-MLVP/UCAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > UnityChip Verification AI-Agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
