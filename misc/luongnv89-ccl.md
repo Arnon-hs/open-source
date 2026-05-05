@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The luongnv89/ccl project is an open-source initiative that allows users to seamlessly switch between different models while maintaining a consistent interface and functionality. This project is designed to address concerns around model limitations and data privacy by providing a flexible and adaptable solution. By swapping models, users can easily adapt to new scenarios or ensure the security of their sensitive information.
+The "ccl" project is an open-source initiative that offers users flexibility and control over their model usage, allowing them to swap models quickly without disrupting their existing workflows or setups. This approach prioritizes convenience and privacy by minimizing the need to make extensive changes when switching models. The project aims to simplify the process of adapting to different models while maintaining continuity.
 
 ---
 

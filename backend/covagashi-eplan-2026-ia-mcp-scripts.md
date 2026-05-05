@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-This open-source project provides scripts for setting up a Master Control Panel (MCP) server for EPLAN 2026 and EEC PRO, enabling users to integrate these engineering tools with their systems. The project offers a backend solution to simplify the configuration process, making it easier to leverage the capabilities of these tools. It is specifically designed for users who need to automate or control EPLAN 2026 and EEC PRO workflows.
+This open-source project, covagashi/Eplan_2026_IA_MCP_scripts, aims to develop a custom MCP (Master Control Panel) server for EPLAN 2026 and EEC PRO, enabling users to manage and control various aspects of their electrical engineering projects. The project focuses on the backend development aspect, providing a robust and flexible framework for integrating with EPLAN's software. By contributing to this project, users can enhance their EPLAN experience with custom automation and integration capabilities.
 
 ---
 

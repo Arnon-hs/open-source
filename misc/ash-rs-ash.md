@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Ash is an open-source, Rust library that provides a safe and idiomatic interface to the Vulkan API. It enables developers to create high-performance, cross-platform graphics applications with minimal boilerplate code. Ash provides a stable and well-maintained Rust binding to Vulkan, making it an ideal choice for building modern graphics applications.
+Ash is an open-source, Rust-based Vulkan binding designed to provide a safe and efficient interface for interacting with the Vulkan API. It enables Rust developers to leverage the power of Vulkan for graphics and compute applications while minimizing the risk of crashes and memory safety issues. With its focus on safety and performance, Ash aims to become the go-to Vulkan binding for Rust developers.
 
 ---
 

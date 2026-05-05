@@ -1,6 +1,6 @@
 # yanyiwu/gojieba
 
-[![Stars](https://img.shields.io/github/stars/yanyiwu/gojieba?style=flat-square&color=yellow)](https://github.com/yanyiwu/gojieba/stargazers) [![Forks](https://img.shields.io/github/forks/yanyiwu/gojieba?style=flat-square&color=blue)](https://github.com/yanyiwu/gojieba/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yanyiwu/gojieba?style=flat-square&color=yellow)](https://github.com/yanyiwu/gojieba/stargazers) [![Forks](https://img.shields.io/github/forks/yanyiwu/gojieba?style=flat-square&color=blue)](https://github.com/yanyiwu/gojieba/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > "结巴"中文分词的Golang版本
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 303 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

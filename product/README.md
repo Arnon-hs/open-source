@@ -8,9 +8,9 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.7k | Clojure | 100/100 |
-| 2 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
-| 3 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
+| 1 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
+| 2 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.7k | Clojure | 100/100 |
+| 3 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
 | 4 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.8k | C# | 100/100 |
 | 5 | [ShareX/ShareX](./sharex-sharex.md) | ⭐ 37.2k | C# | 100/100 |
 | 6 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122.5k | TypeScript | 99/100 |
@@ -30,7 +30,7 @@
 | 20 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 706 | Rust | 56/100 |
 | 21 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 537 | C | 56/100 |
 | 22 | [pimutils/todoman](./pimutils-todoman.md) | ⭐ 575 | Python | 55/100 |
-| 23 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 664 | Shell | 52/100 |
+| 23 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 665 | Shell | 52/100 |
 | 24 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 51/100 |
 | 25 | [aws-observability/aws-otel-collector](./aws-observability-aws-otel-collector.md) | ⭐ 740 | Go | 50/100 |
 | 26 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | TypeScript | 49/100 |

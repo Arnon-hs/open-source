@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the esp-rs/espflash project:
-
-The esp-rs/espflash project is an open-source serial flasher utility that provides an efficient and user-friendly way to flash Espressif System-on-Chip (SoCs) and modules. Built upon the widely-used esptool.py, this utility simplifies the process of updating firmware for various Espressif-based devices. It is ideal for developers, makers, and users working with Espressif platforms.
+The esp-rs/espflash project is an open-source, serial-based flasher utility designed specifically for Espressif System-on-Chip (SoC) and module devices. Built on top of the esptool.py framework, this tool provides a convenient and efficient way to flash firmware onto these devices, facilitating development and debugging processes. It offers a reliable and user-friendly interface for serial flashing operations.
 
 ---
 

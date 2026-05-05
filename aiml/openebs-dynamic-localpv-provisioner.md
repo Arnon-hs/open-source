@@ -27,7 +27,7 @@ AI/ML · Backend · DevOps/Infra
 
 Here's a brief summary for the open-source project:
 
-The openebs/dynamic-localpv-provisioner project enables the dynamic deployment of Stateful Persistent Node-Local Volumes and Filesystems in Kubernetes, provisioned from simple local filesystem storage. This solution provides a flexible and scalable way to manage persistent storage for AI/ML and other stateful workloads. By leveraging local filesystem storage, it reduces reliance on external storage systems and improves performance and efficiency.
+The dynamic-localpv-provisioner is an open-source project that enables the dynamic deployment of stateful persistent node-local volumes and filesystems for Kubernetes. It provisions these volumes from simple local filesystem storage, providing a scalable and efficient solution for AI/ML and other data-intensive workloads. This project simplifies the management of persistent storage in Kubernetes environments.
 
 ---
 

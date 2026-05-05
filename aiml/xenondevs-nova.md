@@ -1,6 +1,6 @@
 # xenondevs/Nova
 
-[![Stars](https://img.shields.io/github/stars/xenondevs/Nova?style=flat-square&color=yellow)](https://github.com/xenondevs/Nova/stargazers) [![Forks](https://img.shields.io/github/forks/xenondevs/Nova?style=flat-square&color=blue)](https://github.com/xenondevs/Nova/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xenondevs/Nova?style=flat-square&color=yellow)](https://github.com/xenondevs/Nova/stargazers) [![Forks](https://img.shields.io/github/forks/xenondevs/Nova?style=flat-square&color=blue)](https://github.com/xenondevs/Nova/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Nova is a server-side modding framework for Paper servers that aims to streamline adding custom content like items, blocks, guis, and more, without client-side modifications, using resource pack tricks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 479 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

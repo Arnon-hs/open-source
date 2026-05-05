@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The tweag/rules_haskell project provides a set of open-source rules for integrating Haskell development with Bazel, a popular build and testing system. It enables seamless compilation, testing, and deployment of Haskell projects within a Bazel workflow. This integration aims to simplify the process of building and maintaining large-scale Haskell applications.
+The tweag/rules_haskell project is an open-source initiative that provides Haskell rules for Bazel, a popular build and testing tool. These rules enable seamless integration of Haskell development within the Bazel ecosystem, streamlining the build and testing process for Haskell projects. By leveraging Bazel's robust features, developers can now easily manage and deploy Haskell-based projects with increased efficiency.
 
 ---
 

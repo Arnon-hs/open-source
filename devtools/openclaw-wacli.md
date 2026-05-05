@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The openclaw/wacli project is an open-source command-line tool that enables users to interact with WhatsApp programmatically, offering a simpler alternative to traditional interfaces. This WhatsApp CLI allows users to send and receive messages, make voice and video calls, and access their chat history from the comfort of their terminal. By leveraging the command line, wacli streamlines WhatsApp interactions for developers, administrators, and power users alike.
+The openclaw/wacli project is an open-source command-line interface (CLI) tool for WhatsApp, allowing users to send and receive messages, access chat logs, and manage their WhatsApp account directly from the terminal. This tool aims to provide a convenient and efficient way to interact with WhatsApp, especially for developers and power users. With wacli, users can automate tasks, integrate WhatsApp with other tools, and streamline their communication workflow.
 
 ---
 

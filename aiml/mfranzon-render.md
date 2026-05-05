@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the mfranzon/render project:
-
-Render is an open-source AI/ML skill that enables developers to create stunning 3D models directly from coding agents, revolutionizing the way we design and interact with 3D graphics. This innovative tool empowers users to express their creativity through code, streamlining the 3D modeling process and opening doors to new possibilities in fields like game development, architecture, and more. By harnessing the power of AI and machine learning, Render makes it easier than ever to bring complex 3D projects to life.
+Render is an open-source project that utilizes AI and machine learning capabilities to generate beautiful 3D models directly from coding agents, revolutionizing the way designers and developers create immersive visual experiences. This innovative skill allows users to seamlessly transition from code to stunning 3D visuals, expanding the possibilities for creative expression and application in various fields. By harnessing the power of AI, Render streamlines the 3D modeling process and empowers users to focus on the artistic aspects of their work.
 
 ---
 

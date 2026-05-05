@@ -1,6 +1,6 @@
 # Benboerba620/daily-watchlist
 
-[![Stars](https://img.shields.io/github/stars/Benboerba620/daily-watchlist?style=flat-square&color=yellow)](https://github.com/Benboerba620/daily-watchlist/stargazers) [![Forks](https://img.shields.io/github/forks/Benboerba620/daily-watchlist?style=flat-square&color=blue)](https://github.com/Benboerba620/daily-watchlist/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Benboerba620/daily-watchlist?style=flat-square&color=yellow)](https://github.com/Benboerba620/daily-watchlist/stargazers) [![Forks](https://img.shields.io/github/forks/Benboerba620/daily-watchlist?style=flat-square&color=blue)](https://github.com/Benboerba620/daily-watchlist/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered stock watchlist and daily market report workflow for Claude Code. Track movers, earnings, macro data, and generate structured investment research reports.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18 |
+| ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

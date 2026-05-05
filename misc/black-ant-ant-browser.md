@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 588 |
-| 🍴 **Forks** | 107 |
+| ⭐ **Stars** | 589 |
+| 🍴 **Forks** | 108 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "black-ant/Ant-Browser" in English:
+Here's a brief summary of the black-ant/Ant-Browser project:
 
-Ant-Browser is an open-source fingerprinting browser designed to help developers and security researchers test and analyze web applications. Its fingerprinting capabilities can simulate various browser configurations and identify potential vulnerabilities in web applications. By using Ant-Browser, developers can improve the security and resilience of their applications.
+The Ant-Browser is an open-source, fingerprint-based web browser that aims to provide users with a unique and private browsing experience. By leveraging fingerprinting technology, the browser helps users evade tracking and maintain their online anonymity. This browser is ideal for individuals seeking to protect their online identity and data.
 
 ---
 

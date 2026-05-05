@@ -25,9 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-Here's a 3-sentence summary for the open-source project:
+Here's a brief summary for the open-source project:
 
-Golershop is an open-source e-commerce system built with Go, Uniapp, Vue, and ElementUI, designed for various business needs such as new retail, B2B commerce, and social e-commerce. This comprehensive platform supports multiple languages, knowledge payment, and B2B mall functionality, making it an ideal choice for enterprises and developers. By extending the core features, Golershop can be customized to meet specific e-commerce demands, such as social commerce, distribution, and micro-programmed shopping.
+Golershop is a comprehensive e-commerce system built with Go and Golang, designed for enterprises and businesses requiring a flexible and scalable online shopping platform. This project integrates with popular frameworks such as Uniapp, Vue, and ElementUi, making it suitable for various e-commerce needs, including social commerce, B2B, and distribution management. Golershop is an open-source, multi-language compatible platform that supports extensions for knowledge-based commerce and B2B e-commerce platforms.
 
 ---
 

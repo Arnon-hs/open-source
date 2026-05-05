@@ -1,6 +1,6 @@
 # transparency-dev/tessera
 
-[![Stars](https://img.shields.io/github/stars/transparency-dev/tessera?style=flat-square&color=yellow)](https://github.com/transparency-dev/tessera/stargazers) [![Forks](https://img.shields.io/github/forks/transparency-dev/tessera?style=flat-square&color=blue)](https://github.com/transparency-dev/tessera/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/transparency-dev/tessera?style=flat-square&color=yellow)](https://github.com/transparency-dev/tessera/stargazers) [![Forks](https://img.shields.io/github/forks/transparency-dev/tessera?style=flat-square&color=blue)](https://github.com/transparency-dev/tessera/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Go library for building tile-based transparency logs (tlogs)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 181 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

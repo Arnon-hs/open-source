@@ -27,7 +27,7 @@ AI/ML · Security
 
 Here's a brief summary for the open-source project:
 
-The CyberAlbSecOP/Awesome_GPT_Super_Prompting project is an open-source initiative focused on developing and exploring advanced techniques for securing and manipulating Large Language Models (LLMs), particularly those used in GPT-based systems. This project aims to investigate and mitigate vulnerabilities related to prompt injection, security, and adversarial machine learning within these models. By advancing the understanding of prompt engineering and security, the project seeks to improve the overall resilience and trustworthiness of LLM-based applications.
+CyberAlbSecOP/Awesome_GPT_Super_Prompting is an open-source project focused on advancing the security and capabilities of Large Language Models (LLMs) like GPT. This project delves into various aspects of LLM security, including prompt injection, leak detection, and adversarial machine learning techniques. By pushing the boundaries of AI prompt engineering, it aims to improve the resilience and robustness of GPT and other LLMs.
 
 ---
 

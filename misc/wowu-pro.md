@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, wowu/pro, is a convenient tool that enables users to quickly open the current pull request (PR) in their browser with a single command. Currently supported platforms include GitHub and GitLab, allowing developers to easily navigate and review their PRs without manual effort. This project streamlines the development workflow by automating the process of accessing PRs.
+The wowu/pro project is an open-source utility that enables users to quickly open the current Pull Request (PR) in their browser with a single command. Currently supported platforms include GitHub and GitLab, making it a convenient tool for developers. This project aims to streamline the development process by reducing the time spent navigating to PRs.
 
 ---
 

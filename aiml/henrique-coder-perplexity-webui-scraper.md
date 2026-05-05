@@ -1,6 +1,6 @@
 # henrique-coder/perplexity-webui-scraper
 
-[![Stars](https://img.shields.io/github/stars/henrique-coder/perplexity-webui-scraper?style=flat-square&color=yellow)](https://github.com/henrique-coder/perplexity-webui-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/henrique-coder/perplexity-webui-scraper?style=flat-square&color=blue)](https://github.com/henrique-coder/perplexity-webui-scraper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/henrique-coder/perplexity-webui-scraper?style=flat-square&color=yellow)](https://github.com/henrique-coder/perplexity-webui-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/henrique-coder/perplexity-webui-scraper?style=flat-square&color=blue)](https://github.com/henrique-coder/perplexity-webui-scraper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An advanced, high-performance Python client, MCP server, and REST API for reverse-engineering Perplexity AI's WebUI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 76 |
+| ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

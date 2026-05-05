@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Project Akri is an open-source Kubernetes resource interface designed for the Edge, providing a standardized way to deploy and manage edge computing applications. This interface enables seamless communication between edge devices and Kubernetes clusters, facilitating easier deployment, scaling, and management of edge workloads. By standardizing the edge resource interface, Akri aims to simplify edge computing and accelerate innovation in this rapidly evolving field.
+Akri is an open-source project that provides a Kubernetes Resource Interface for the Edge. It enables users to deploy and manage applications at the edge of the network, simplifying the process of integrating with edge computing resources. By using Akri, developers can more easily build and deploy applications that take advantage of the edge's unique capabilities.
 
 ---
 

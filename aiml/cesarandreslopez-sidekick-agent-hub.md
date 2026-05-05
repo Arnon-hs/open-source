@@ -1,6 +1,6 @@
 # cesarandreslopez/sidekick-agent-hub
 
-[![Stars](https://img.shields.io/github/stars/cesarandreslopez/sidekick-agent-hub?style=flat-square&color=yellow)](https://github.com/cesarandreslopez/sidekick-agent-hub/stargazers) [![Forks](https://img.shields.io/github/forks/cesarandreslopez/sidekick-agent-hub?style=flat-square&color=blue)](https://github.com/cesarandreslopez/sidekick-agent-hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cesarandreslopez/sidekick-agent-hub?style=flat-square&color=yellow)](https://github.com/cesarandreslopez/sidekick-agent-hub/stargazers) [![Forks](https://img.shields.io/github/forks/cesarandreslopez/sidekick-agent-hub?style=flat-square&color=blue)](https://github.com/cesarandreslopez/sidekick-agent-hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-provider AI coding assistant & agent session monitor for VS Code and the   terminal — inline completions, code transforms, and a full TUI dashboard for  Claude Code, OpenCode, and Codex. Switch between multiple Claude Code accounts.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 64 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 65 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

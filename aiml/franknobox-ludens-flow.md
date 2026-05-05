@@ -25,7 +25,9 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Ludens-Flow is an open-source project aiming to participate in the 2026 SUAT AI Agent Innovation Competition. This project warehouse focuses on advancing AI and ML technologies through data-driven approaches, pushing the boundaries of innovation and collaboration. By contributing to Ludens-Flow, individuals can help drive progress in the field of artificial intelligence and machine learning.
+Here's a brief summary of the Ludens-Flow project:
+
+Ludens-Flow is an initiative participating in the 2026 SUAT AI Agent Innovation Competition, aiming to push the boundaries of AI and Machine Learning. This open-source project serves as a collaborative platform for developers to explore and innovate in the realms of artificial intelligence and data science. By contributing to Ludens-Flow, the community can help advance the field and drive meaningful innovation.
 
 ---
 

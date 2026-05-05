@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16753** |
+| 🗂️ **Total projects** | **16787** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 6239 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3516 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1653 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1202 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 1026 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 974 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 563 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 6252 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3521 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1659 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1203 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 1028 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 976 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 565 | [Browse →](./crypto/) |
 | 📊 **Data** | 384 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 366 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 228 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 367 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 229 | [Browse →](./mobile/) |
 | 📈 **Trading** | 170 | [Browse →](./trading/) |
 | 💳 **Payments** | 169 | [Browse →](./payments/) |
 | 🔐 **Security** | 143 | [Browse →](./security/) |
-| ✨ **Design** | 56 | [Browse →](./design/) |
+| ✨ **Design** | 57 | [Browse →](./design/) |
 | 🎯 **Product** | 33 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 
@@ -39,15 +39,15 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [PrismLauncher/PrismLauncher](./aiml/prismlauncher-prismlauncher.md) | ⭐ 9.3k | AI/ML |
-| 2 | [cheeriojs/cheerio](./aiml/cheeriojs-cheerio.md) | ⭐ 30.3k | AI/ML |
-| 3 | [mochajs/mocha](./devtools/mochajs-mocha.md) | ⭐ 22.9k | DevTools |
-| 4 | [swagger-api/swagger-ui](./aiml/swagger-api-swagger-ui.md) | ⭐ 28.8k | AI/ML |
-| 5 | [strapi/strapi](./backend/strapi-strapi.md) | ⭐ 72.1k | Backend |
-| 6 | [zeek/zeek](./security/zeek-zeek.md) | ⭐ 7.6k | Security |
-| 7 | [vectordotdev/vector](./aiml/vectordotdev-vector.md) | ⭐ 21.8k | AI/ML |
-| 8 | [ray-project/ray](./aiml/ray-project-ray.md) | ⭐ 42.4k | AI/ML |
-| 9 | [BasedHardware/omi](./aiml/basedhardware-omi.md) | ⭐ 12.4k | AI/ML |
+| 1 | [cheeriojs/cheerio](./aiml/cheeriojs-cheerio.md) | ⭐ 30.3k | AI/ML |
+| 2 | [mochajs/mocha](./devtools/mochajs-mocha.md) | ⭐ 22.9k | DevTools |
+| 3 | [swagger-api/swagger-ui](./aiml/swagger-api-swagger-ui.md) | ⭐ 28.8k | AI/ML |
+| 4 | [strapi/strapi](./backend/strapi-strapi.md) | ⭐ 72.1k | Backend |
+| 5 | [zeek/zeek](./security/zeek-zeek.md) | ⭐ 7.6k | Security |
+| 6 | [vectordotdev/vector](./aiml/vectordotdev-vector.md) | ⭐ 21.8k | AI/ML |
+| 7 | [ray-project/ray](./aiml/ray-project-ray.md) | ⭐ 42.4k | AI/ML |
+| 8 | [BasedHardware/omi](./aiml/basedhardware-omi.md) | ⭐ 12.4k | AI/ML |
+| 9 | [meshery/meshery](./frontend/meshery-meshery.md) | ⭐ 10.2k | Frontend |
 | 10 | [iv-org/invidious](./misc/iv-org-invidious.md) | ⭐ 19.6k | Misc |
 
 ## 🚀 How it works

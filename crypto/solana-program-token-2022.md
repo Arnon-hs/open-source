@@ -25,7 +25,7 @@ Crypto · DevTools
 
 ## 📝 Summary
 
-The solana-program/token-2022 project provides an open-source implementation of the SPL (Solana Program Library) Token 2022 program, allowing developers to create and manage tokens on the Solana blockchain. This project includes the SPL Token 2022 program and its clients, enabling users to interact with the token ecosystem in a secure and efficient manner. By utilizing this project, developers can build decentralized applications (dApps) that leverage the capabilities of SPL Token 2022.
+The solana-program/token-2022 project is an open-source implementation of the SPL (Splinterlands Token) Token 2022 program, a blockchain-based token standard for the Solana ecosystem. This program and its clients enable developers to create, manage, and interact with custom tokens on the Solana network, fostering decentralized applications and use cases. The project provides a foundation for tokenized financial instruments, NFTs, and other decentralized applications on the Solana blockchain.
 
 ---
 

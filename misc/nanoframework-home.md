@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The nanoframework/Home project is the primary landing page for the .NET nanoFramework repositories, providing a centralized access point to various projects and resources. This platform allows developers to explore and contribute to the .NET nanoFramework ecosystem, which extends the capabilities of microcontrollers and other small devices using the .NET framework. By unifying resources and projects, nanoframework/Home facilitates collaboration and innovation in the field of microcontroller programming.
+The nanoframework/Home project is an open-source initiative that serves as the main landing page for .NET nanoFramework repositories. This centralized hub provides easy access to various .NET nanoFramework projects, enabling developers to explore and contribute to the community. It facilitates collaboration and knowledge sharing among developers working on .NET-based, resource-constrained systems.
 
 ---
 

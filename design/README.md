@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**56 projects** in this category.
+**57 projects** in this category.
 
 ## Projects
 
@@ -35,35 +35,36 @@
 | 25 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 55/100 |
 | 26 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 54/100 |
 | 27 | [elementary/icons](./elementary-icons.md) | ⭐ 587 | Meson | 54/100 |
-| 28 | [MercuryWorkshop/scramjet](./mercuryworkshop-scramjet.md) | ⭐ 408 | TypeScript | 53/100 |
-| 29 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
-| 30 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 228 | Go | 52/100 |
-| 31 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
-| 32 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
-| 33 | [processing/processing4](./processing-processing4.md) | ⭐ 394 | Java | 51/100 |
-| 34 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 603 | PHP | 50/100 |
-| 35 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
-| 36 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 468 | JavaScript | 49/100 |
-| 37 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 367 | Go | 49/100 |
-| 38 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
+| 28 | [icon11-community/Folder11](./icon11-community-folder11.md) | ⭐ 1.8k | — | 54/100 |
+| 29 | [MercuryWorkshop/scramjet](./mercuryworkshop-scramjet.md) | ⭐ 408 | TypeScript | 53/100 |
+| 30 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
+| 31 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 228 | Go | 52/100 |
+| 32 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
+| 33 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
+| 34 | [processing/processing4](./processing-processing4.md) | ⭐ 394 | Java | 51/100 |
+| 35 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 603 | PHP | 50/100 |
+| 36 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
+| 37 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 468 | JavaScript | 49/100 |
+| 38 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 367 | Go | 49/100 |
 | 39 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 48/100 |
-| 40 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 109 | Rust | 48/100 |
-| 41 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
-| 42 | [JuliaDSP/DSP.jl](./juliadsp-dsp.jl.md) | ⭐ 416 | Julia | 47/100 |
-| 43 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
-| 44 | [NX211/homer-icons](./nx211-homer-icons.md) | ⭐ 975 | Python | 46/100 |
-| 45 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 46/100 |
-| 46 | [KinkyMakers/OSSM-hardware](./kinkymakers-ossm-hardware.md) | ⭐ 491 | C++ | 45/100 |
-| 47 | [goadesign/examples](./goadesign-examples.md) | ⭐ 205 | Go | 44/100 |
-| 48 | [oripa/oripa](./oripa-oripa.md) | ⭐ 309 | Java | 43/100 |
-| 49 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
-| 50 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
-| 51 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 142 | Rust | 43/100 |
-| 52 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 417 | TypeScript | 43/100 |
-| 53 | [graelo/pumas](./graelo-pumas.md) | ⭐ 214 | Rust | 42/100 |
-| 54 | [nats-io/nats-architecture-and-design](./nats-io-nats-architecture-and-design.md) | ⭐ 398 | Go | 40/100 |
-| 55 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |
-| 56 | [PaulBellette/chladni_inverse_design](./paulbellette-chladni-inverse-design.md) | ⭐ 1 | Python | 36/100 |
+| 40 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
+| 41 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
+| 42 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 109 | Rust | 48/100 |
+| 43 | [JuliaDSP/DSP.jl](./juliadsp-dsp.jl.md) | ⭐ 416 | Julia | 47/100 |
+| 44 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
+| 45 | [NX211/homer-icons](./nx211-homer-icons.md) | ⭐ 975 | Python | 46/100 |
+| 46 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 46/100 |
+| 47 | [KinkyMakers/OSSM-hardware](./kinkymakers-ossm-hardware.md) | ⭐ 491 | C++ | 45/100 |
+| 48 | [goadesign/examples](./goadesign-examples.md) | ⭐ 205 | Go | 44/100 |
+| 49 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 142 | Rust | 43/100 |
+| 50 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 417 | TypeScript | 43/100 |
+| 51 | [oripa/oripa](./oripa-oripa.md) | ⭐ 309 | Java | 43/100 |
+| 52 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
+| 53 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
+| 54 | [graelo/pumas](./graelo-pumas.md) | ⭐ 214 | Rust | 42/100 |
+| 55 | [nats-io/nats-architecture-and-design](./nats-io-nats-architecture-and-design.md) | ⭐ 398 | Go | 40/100 |
+| 56 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |
+| 57 | [PaulBellette/chladni_inverse_design](./paulbellette-chladni-inverse-design.md) | ⭐ 1 | Python | 36/100 |
 
 ---
 

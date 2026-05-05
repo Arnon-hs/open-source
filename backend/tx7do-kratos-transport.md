@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-The kratos-transport project is an open-source, extensible transport layer extension for the Kratos framework, enabling seamless communication with various messaging systems such as RabbitMQ, Kafka, and more. This project supports a wide range of messaging protocols, including TCP, WebSocket, and Apollo, allowing developers to easily integrate their applications with diverse messaging systems. By providing a unified transport layer API, kratos-transport simplifies the development process and enhances scalability for distributed systems.
+Here's a brief summary for the open-source project:
+
+Kratos Transport is an open-source extension for the Kratos framework, providing a flexible and modular transport layer that supports various messaging protocols, including RabbitMQ, Kafka, RocketMQ, ActiveMQ, Apollo, MCP, TCP, and WebSockets. This extension enables developers to easily switch between different messaging systems, making it ideal for building scalable and fault-tolerant distributed systems. By leveraging Kratos Transport, developers can focus on building their application logic without worrying about the underlying messaging infrastructure.
 
 ---
 

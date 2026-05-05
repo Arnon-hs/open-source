@@ -1,6 +1,6 @@
 # nick42d/youtui
 
-[![Stars](https://img.shields.io/github/stars/nick42d/youtui?style=flat-square&color=yellow)](https://github.com/nick42d/youtui/stargazers) [![Forks](https://img.shields.io/github/forks/nick42d/youtui?style=flat-square&color=blue)](https://github.com/nick42d/youtui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nick42d/youtui?style=flat-square&color=yellow)](https://github.com/nick42d/youtui/stargazers) [![Forks](https://img.shields.io/github/forks/nick42d/youtui?style=flat-square&color=blue)](https://github.com/nick42d/youtui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > TUI and API for YouTube Music written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
