@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project tackles the challenge of managing a large-scale AI agent with over 150 skills. It describes the problems encountered and the solutions developed to efficiently orchestrate and manage these complex AI systems. The project provides a scalable framework for AI/ML applications, making it a valuable resource for developers working with multiple AI agents.
+This open-source project addresses the challenge of managing a large-scale AI system with over 150 AI agent skills. It provides a solution to the complexities that arose from scaling, allowing for efficient management and orchestration of AI capabilities. The project offers a scalable and maintainable approach to AI system management.
 
 ---
 

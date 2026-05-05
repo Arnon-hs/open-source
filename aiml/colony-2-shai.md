@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The colony-2/shai project is an open-source sandboxing shell designed to facilitate the development and testing of AI coding agents in a controlled environment. This shell provides a safe space for AI agents to learn and interact with their surroundings, allowing developers to test and refine their code without risk of system-wide damage. By sandboxing AI coding agents, the project enables more efficient and secure AI development.
+"Colony-2/Shai is an open-source sandboxing shell designed to provide a safe environment for AI coding agents to operate, allowing for experimentation and development without compromising system security. This project is primarily categorized under AI/ML, catering to researchers and developers who work with artificial intelligence and machine learning models. By isolating AI agents, users can test and refine their programs without risking system instability or data breaches."
 
 ---
 

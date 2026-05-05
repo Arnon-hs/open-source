@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16536** |
+| 🗂️ **Total projects** | **16568** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,16 +18,16 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 6144 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3470 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1632 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1194 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 1016 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 964 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 6158 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3474 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1633 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1197 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 1018 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 966 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 556 | [Browse →](./crypto/) |
-| 📊 **Data** | 377 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 358 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 226 | [Browse →](./mobile/) |
+| 📊 **Data** | 379 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 361 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 227 | [Browse →](./mobile/) |
 | 📈 **Trading** | 170 | [Browse →](./trading/) |
 | 💳 **Payments** | 169 | [Browse →](./payments/) |
 | 🔐 **Security** | 139 | [Browse →](./security/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Wox-launcher/Wox](./misc/wox-launcher-wox.md) | ⭐ 26.8k | Misc |
-| 2 | [Sjj1024/PakePlus](./aiml/sjj1024-pakeplus.md) | ⭐ 11.9k | AI/ML |
-| 3 | [apache/casbin](./aiml/apache-casbin.md) | ⭐ 20.1k | AI/ML |
-| 4 | [OthmanAdi/planning-with-files](./orchestration/othmanadi-planning-with-files.md) | ⭐ 20.4k | Orchestration |
-| 5 | [cython/cython](./data/cython-cython.md) | ⭐ 10.7k | Data |
-| 6 | [hoppscotch/hoppscotch](./frontend/hoppscotch-hoppscotch.md) | ⭐ 79.1k | Frontend |
-| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 8 | [sorin-ionescu/prezto](./devtools/sorin-ionescu-prezto.md) | ⭐ 14.5k | DevTools |
-| 9 | [flame-engine/flame](./mobile/flame-engine-flame.md) | ⭐ 10.6k | Mobile |
-| 10 | [OpenRefine/OpenRefine](./data/openrefine-openrefine.md) | ⭐ 11.8k | Data |
+| 1 | [browserless/browserless](./devopsinfra/browserless-browserless.md) | ⭐ 13.1k | DevOps & Infra |
+| 2 | [Wox-launcher/Wox](./misc/wox-launcher-wox.md) | ⭐ 26.8k | Misc |
+| 3 | [Sjj1024/PakePlus](./aiml/sjj1024-pakeplus.md) | ⭐ 11.9k | AI/ML |
+| 4 | [apache/casbin](./aiml/apache-casbin.md) | ⭐ 20.1k | AI/ML |
+| 5 | [OthmanAdi/planning-with-files](./orchestration/othmanadi-planning-with-files.md) | ⭐ 20.4k | Orchestration |
+| 6 | [cython/cython](./data/cython-cython.md) | ⭐ 10.7k | Data |
+| 7 | [hoppscotch/hoppscotch](./frontend/hoppscotch-hoppscotch.md) | ⭐ 79.1k | Frontend |
+| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 9 | [sorin-ionescu/prezto](./devtools/sorin-ionescu-prezto.md) | ⭐ 14.5k | DevTools |
+| 10 | [flame-engine/flame](./mobile/flame-engine-flame.md) | ⭐ 10.6k | Mobile |
 
 ## 🚀 How it works
 

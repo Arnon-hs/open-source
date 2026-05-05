@@ -27,7 +27,7 @@ DevOps/Infra
 
 Here's a brief summary for the infraboard/mcube project:
 
-The infraboard/mcube project is an open-source DevOps/Infra toolset that provides a comprehensive set of tools for building, deploying, and managing microservices. This versatile toolkit enables developers to streamline their workflow, improve efficiency, and enhance collaboration across teams. By leveraging mcube, users can simplify complex microservice operations and accelerate their digital transformation journey.
+The infraboard/mcube project is an open-source DevOps/Infra toolset designed to facilitate the deployment and management of microservices. It provides a comprehensive set of tools to streamline the development, testing, and operations of microservice-based applications. By leveraging mcube, developers can improve efficiency and reduce complexity in their microservice environments.
 
 ---
 

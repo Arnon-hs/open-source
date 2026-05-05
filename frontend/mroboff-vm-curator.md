@@ -25,9 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the vm-curator project:
+Here's a brief summary for the mroboff/vm-curator project:
 
-"vm-curator is an open-source, user-friendly text-based interface for creating and managing QEMU/KVM virtual machines on desktop systems. It supports 3D acceleration, allowing for seamless graphics performance within virtualized environments. With vm-curator, users can easily build and configure virtual machines for a range of applications, from development to gaming."
+vm-curator is an open-source, text-based user interface (TUI) for building and managing QEMU/KVM virtual machines on desktops. This user-friendly tool enables seamless creation and management of VMs with 3D acceleration support, using both para-virtualized and pass-through methods. With vm-curator, users can efficiently manage their virtual environments with ease.
 
 ---
 

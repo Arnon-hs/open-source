@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The burner-bouncer project is an open-source initiative that aims to detect disposable email addresses in JavaScript and Python. Leveraging AI and machine learning capabilities, this tool helps identify temporary or fake email addresses, providing valuable insights for cybersecurity and email verification purposes. By utilizing this solution, developers can enhance their email validation and authentication processes to prevent spam and phishing attempts.
+Burner-bouncer is an open-source project that utilizes AI/ML techniques to detect disposable or burner email addresses. This tool is designed to be used in JavaScript and Python environments, helping developers combat email spam and phishing. By utilizing machine learning algorithms, burner-bouncer can identify suspicious email addresses that may be used for malicious purposes.
 
 ---
 

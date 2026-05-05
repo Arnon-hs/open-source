@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The marketing-cli project is an open-source tool that enables users to leverage AI-powered marketing capabilities through a command-line interface (CLI) and a local Studio dashboard. With its comprehensive features, including 51 skills, 5 research agents, and a brand memory that compounds, the tool streamlines marketing efforts for users. The setup process is user-friendly, guided by a 4-question wizard in Claude Code.
+The marketing-cli project is an open-source, agent-native marketing tool that utilizes 5 research agents and 51 skills to provide comprehensive marketing capabilities. This tool features a local Studio dashboard (beta) for human users, accessible through a simple setup wizard, while also offering a CLI interface for seamless integration with AI agents.
 
 ---
 

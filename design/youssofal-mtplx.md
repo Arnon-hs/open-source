@@ -25,7 +25,7 @@ Design
 
 ## 📝 Summary
 
-Mtplx is an open-source project that utilizes Apple Silicon to boost inference engine performance, achieving a significant 2.24x increase in transactions per second (TPS). This native MTP inference engine is designed to optimize performance on Apple's proprietary hardware, showcasing its capabilities in the field of design. By leveraging the power of Apple Silicon, Mtplx enhances the efficiency of various applications.
+Mtplx is an open-source project that significantly boosts the throughput of MTP (Media Transfer Protocol) inference on Apple Silicon devices, offering a notable speed increase of 2.24x faster TPS (Transactions Per Second). This native engine is designed to optimize MTP performance, catering to the unique architecture of Apple Silicon chips. By leveraging its optimized design, Mtplx aims to enhance overall system performance and efficiency.
 
 ---
 

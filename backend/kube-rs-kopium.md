@@ -25,7 +25,9 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Kopium is a Kubernetes OpenAPI Unmangler, an open-source project that simplifies the management of Kubernetes APIs. It enables developers to easily work with Kubernetes APIs by unmangling complex OpenAPI definitions, making it easier to access and utilize Kubernetes services. By streamlining the process of interacting with Kubernetes APIs, Kopium aims to improve the efficiency and productivity of developers working with Kubernetes.
+Here's a brief summary for the kube-rs/kopium project:
+
+Kopium is an open-source project that unmangles Kubernetes OpenAPI definitions, providing a more readable and maintainable representation of the Kubernetes API. This tool is designed to assist developers in understanding and working with the complexities of Kubernetes APIs. By simplifying the API definitions, Kopium facilitates easier development and deployment of Kubernetes-based applications.
 
 ---
 

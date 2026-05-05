@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Sculptor is an open-source UI tool that enables the creation of powerful agent workflows by running parallel coding agents in isolated sandboxes, ensuring safe and efficient execution. This platform supports the development of complex AI and machine learning applications, facilitating innovative workflows. By leveraging isolated sandboxes, Sculptor provides a secure environment for agents to operate, minimizing the risk of errors or disruptions.
+Sculptor is an open-source, user-friendly interface for running parallel coding agents in secure, isolated environments, allowing for efficient and powerful agent workflows. This frontend tool enables data scientists and developers to harness the power of multiple agents simultaneously, driving innovation in AI and machine learning applications. By providing a sandboxed environment, Sculptor ensures safe and reliable experimentation.
 
 ---
 

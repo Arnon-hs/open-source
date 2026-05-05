@@ -25,9 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project suekou/mcp-notion-server:
-
-The suekou/mcp-notion-server is an open-source server implementation of the Model Context Protocol (MCP) designed to enable seamless integration between Notion and MCP-compatible clients. This project facilitates real-time data synchronization and bidirectional communication between Notion and MCP clients, unlocking new possibilities for collaboration and data exchange. By providing an MCP server for Notion, this project democratizes access to a powerful integration framework.
+The suekou/mcp-notion-server project is an open-source Model Context Protocol (MCP) server designed to facilitate seamless integration between Notion and MCP-compatible clients. This server enables bi-directional data exchange, empowering users to leverage the power of Notion in their preferred clients while maintaining a unified context. By providing an MCP interface to Notion, this project enhances collaboration and data synchronization across different applications.
 
 ---
 
