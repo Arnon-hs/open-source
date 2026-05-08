@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `chatgpt` `collaborate` `cursor` `github` `learn` `litellm` `llm` `nextjs14` `shadcn-ui` `supabase` `supabase-functions`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, Ahmet-Dedeler/ai-llm-comparison, is a comprehensive online platform for comparing various AI models. It provides users with a centralized interface to explore and contrast different AI models, facilitating informed decision-making in the field of artificial intelligence. The project aims to simplify the process of evaluating and selecting the most suitable AI models for specific applications and use cases.
+Ahmet‑Dedeler/ai‑llm‑comparison is an open‑source web application that lets users visually compare the capabilities, performance metrics, and features of a wide range of AI language models. Built with modern frontend technologies, the site provides an intuitive interface for side‑by‑side evaluation, making it easy for developers, researchers, and enthusiasts to explore and choose the best model for their needs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Ahmet-Dedeler/ai-llm-comparison) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Ahmet-Dedeler/ai-llm-comparison) · [← Back to AI/ML](./README.md)</sub>

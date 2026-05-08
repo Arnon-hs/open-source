@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 523 | PHP | 54/100 |
+| 1 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 1.8k | TypeScript | 56/100 |
+| 2 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 523 | PHP | 54/100 |
 
 ---
 

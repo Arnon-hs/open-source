@@ -1,6 +1,6 @@
 # tddworks/baguette
 
-[![Stars](https://img.shields.io/github/stars/tddworks/baguette?style=flat-square&color=yellow)](https://github.com/tddworks/baguette/stargazers) [![Forks](https://img.shields.io/github/forks/tddworks/baguette?style=flat-square&color=blue)](https://github.com/tddworks/baguette/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tddworks/baguette?style=flat-square&color=yellow)](https://github.com/tddworks/baguette/stargazers) [![Forks](https://img.shields.io/github/forks/tddworks/baguette?style=flat-square&color=blue)](https://github.com/tddworks/baguette/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 581 |
-| 🍴 **Forks** | 20 |
+| ⭐ **Stars** | 740 |
+| 🍴 **Forks** | 27 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `cli` `devicefarm` `ios` `simulator` `simulatorkit` `streaming`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "baguette":
-
-Baguette is an open-source project that enables the management of headless iOS simulators, allowing for large-scale mobile testing and automation. It supports iOS 26 and provides features such as input injection, including taps, swipes, and multi-finger gestures, as well as 60 fps video streaming. This project is useful for developers and researchers working with artificial intelligence, machine learning, and mobile applications.
+tddworks / baguette is an open‑source, headless iOS Simulator manager that lets you run multiple simulators as a farm and programmatically inject user input from the host machine. It supports taps, swipes, multi‑finger gestures and streams the simulator screen at 60 fps, making it ideal for automated testing, CI pipelines, and AI‑driven UI interactions on iOS 26.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/tddworks/baguette) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tddworks/baguette) · [← Back to AI/ML](./README.md)</sub>

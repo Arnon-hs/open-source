@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 214 |
-| 🍴 **Forks** | 25 |
+| ⭐ **Stars** | 216 |
+| 🍴 **Forks** | 26 |
 | 💻 **Language** | Emacs Lisp |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agile-development` `ai` `ai-coding-assistant` `aider` `claude-code` `codebuddy` `codex-cli` `cursor-cli` `emacs` `gemini-cli` `ghostty` `github-copilot-cli`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the tninja/ai-code-interface.el project:
-
-The tninja/ai-code-interface.el is an open-source Emacs interface that simplifies access to various AI-powered coding tools, including OpenAI Codex, GitHub Copilot CLI, and Claude Code, among others. This unified interface streamlines the development experience by providing a centralized platform for leveraging the capabilities of multiple AI coding assistants. By integrating multiple AI tools into a single Emacs interface, developers can optimize their coding workflow and increase productivity.
+tninja/ai-code-interface.el provides a unified Emacs front‑end for interacting with a variety of AI‑driven code generation services—including OpenAI Codex, GitHub Copilot CLI, Claude Code, Gemini CLI, Opencode, and others—allowing developers to request, edit, and insert AI‑generated code directly from their editor. It streamlines workflow across multiple back‑ends, offering a consistent interface for code completion, refactoring, and documentation within Emacs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/tninja/ai-code-interface.el) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tninja/ai-code-interface.el) · [← Back to AI/ML](./README.md)</sub>

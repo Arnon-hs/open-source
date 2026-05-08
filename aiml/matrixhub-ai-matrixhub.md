@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 213 |
+| ⭐ **Stars** | 214 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`artificial-intelligence` `huggingface` `kubernetes` `llm` `llm-inference` `mlops` `model-registry` `self-hosted` `sglang` `vllm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the MatrixHub project:
-
-MatrixHub is an open-source, self-hosted AI model hub that enables seamless deployment and management of AI models, including vLLM and SGLang, with Hugging Face compatibility. This project accelerates the performance of various models, providing a flexible and scalable solution for AI development and deployment. By hosting MatrixHub on-premises, users can maintain control over their AI workflows while optimizing model performance and efficiency.
+MatrixHub is an open‑source, self‑hosted hub for AI models that offers full compatibility with Hugging Face APIs while delivering accelerated inference through vLLM and SGLang optimizations. It provides a DevOps‑friendly platform for deploying, managing, and scaling large language models on private infrastructure, making it easy for teams to run high‑performance AI workloads in‑house.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/matrixhub-ai/matrixhub) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/matrixhub-ai/matrixhub) · [← Back to AI/ML](./README.md)</sub>

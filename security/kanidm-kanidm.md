@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 319 |
+| 🍴 **Forks** | 321 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`authentication` `iam` `identity` `identity-management` `idm` `ldap` `oidc` `radius` `rust` `scim` `security` `ssh-authentication`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-Kanidm is a free, open-source identity management platform that prioritizes security, speed, and simplicity. This comprehensive system enables organizations to manage user identities efficiently while maintaining robust security features to protect sensitive information. By utilizing Kanidm, businesses can streamline their identity management processes and reduce the risk of data breaches.
+Kanidm is an open‑source identity management platform designed for simplicity, security, and high performance. It provides centralized user, group, and credential handling with modern authentication protocols (e.g., LDAP, OAuth2, OpenID Connect) and supports fine‑grained access control, audit logging, and encrypted storage. Built in Rust, Kanidm aims to be lightweight, easy to deploy, and suitable for both small environments and large enterprises.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/kanidm/kanidm) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kanidm/kanidm) · [← Back to Security](./README.md)</sub>

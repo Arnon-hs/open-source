@@ -49,8 +49,8 @@
 | 39 | [ebrasha/free-v2ray-public-list](./ebrasha-free-v2ray-public-list.md) | ⭐ 731 | — | 57/100 |
 | 40 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 903 | TypeScript | 57/100 |
 | 41 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 56/100 |
-| 42 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 534 | Perl | 56/100 |
-| 43 | [Sunagatov/Iced-Latte](./sunagatov-iced-latte.md) | ⭐ 629 | Java | 56/100 |
+| 42 | [Sunagatov/Iced-Latte](./sunagatov-iced-latte.md) | ⭐ 629 | Java | 56/100 |
+| 43 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 534 | Perl | 56/100 |
 | 44 | [elementary/appcenter](./elementary-appcenter.md) | ⭐ 553 | Vala | 55/100 |
 | 45 | [AnalyseDeCircuit/oxideterm](./analysedecircuit-oxideterm.md) | ⭐ 648 | Rust | 55/100 |
 | 46 | [vibheksoni/free-ai](./vibheksoni-free-ai.md) | ⭐ 364 | Astro | 54/100 |

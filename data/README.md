@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**58 projects** in this category.
+**59 projects** in this category.
 
 ## Projects
 
@@ -36,36 +36,37 @@
 | 26 | [apache/pinot](./apache-pinot.md) | ⭐ 6.1k | Java | 91/100 |
 | 27 | [ArroyoSystems/arroyo](./arroyosystems-arroyo.md) | ⭐ 4.9k | Rust | 90/100 |
 | 28 | [pgmpy/pgmpy](./pgmpy-pgmpy.md) | ⭐ 3.3k | Python | 88/100 |
-| 29 | [facebookincubator/velox](./facebookincubator-velox.md) | ⭐ 4.1k | C++ | 86/100 |
-| 30 | [common-voice/common-voice](./common-voice-common-voice.md) | ⭐ 3.5k | TypeScript | 82/100 |
-| 31 | [pgdogdev/pgdog](./pgdogdev-pgdog.md) | ⭐ 4.3k | Rust | 79/100 |
-| 32 | [scverse/scanpy](./scverse-scanpy.md) | ⭐ 2.4k | Python | 78/100 |
-| 33 | [cberner/redb](./cberner-redb.md) | ⭐ 4.5k | Rust | 76/100 |
-| 34 | [yandex/perforator](./yandex-perforator.md) | ⭐ 3.4k | C++ | 74/100 |
-| 35 | [posit-dev/positron](./posit-dev-positron.md) | ⭐ 4.1k | TypeScript | 71/100 |
-| 36 | [DataDog/stratus-red-team](./datadog-stratus-red-team.md) | ⭐ 2.3k | Go | 71/100 |
-| 37 | [dask/distributed](./dask-distributed.md) | ⭐ 1.7k | Python | 68/100 |
-| 38 | [github/advisory-database](./github-advisory-database.md) | ⭐ 2.3k | — | 65/100 |
-| 39 | [databricks/terraform-provider-databricks](./databricks-terraform-provider-databricks.md) | ⭐ 586 | Go | 61/100 |
-| 40 | [databendlabs/openraft](./databendlabs-openraft.md) | ⭐ 1.9k | Rust | 60/100 |
-| 41 | [lakekeeper/lakekeeper](./lakekeeper-lakekeeper.md) | ⭐ 1.3k | Rust | 60/100 |
-| 42 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 1.7k | PHP | 59/100 |
-| 43 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 605 | PHP | 58/100 |
-| 44 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 57/100 |
-| 45 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 472 | Swift | 57/100 |
-| 46 | [soot-oss/SootUp](./soot-oss-sootup.md) | ⭐ 785 | Java | 57/100 |
-| 47 | [NVIDIA/cuCollections](./nvidia-cucollections.md) | ⭐ 643 | Cuda | 56/100 |
-| 48 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 725 | Python | 56/100 |
-| 49 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 611 | Rust | 55/100 |
-| 50 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 55/100 |
-| 51 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 231 | Rust | 53/100 |
-| 52 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 52/100 |
-| 53 | [project-oak/oak](./project-oak-oak.md) | ⭐ 1.5k | Rust | 52/100 |
-| 54 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
-| 55 | [estuary/flow](./estuary-flow.md) | ⭐ 919 | Rust | 48/100 |
-| 56 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 46/100 |
-| 57 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
-| 58 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
+| 29 | [gristlabs/grist-core](./gristlabs-grist-core.md) | ⭐ 11k | TypeScript | 87/100 |
+| 30 | [facebookincubator/velox](./facebookincubator-velox.md) | ⭐ 4.1k | C++ | 86/100 |
+| 31 | [common-voice/common-voice](./common-voice-common-voice.md) | ⭐ 3.5k | TypeScript | 82/100 |
+| 32 | [pgdogdev/pgdog](./pgdogdev-pgdog.md) | ⭐ 4.3k | Rust | 79/100 |
+| 33 | [scverse/scanpy](./scverse-scanpy.md) | ⭐ 2.4k | Python | 78/100 |
+| 34 | [cberner/redb](./cberner-redb.md) | ⭐ 4.5k | Rust | 76/100 |
+| 35 | [yandex/perforator](./yandex-perforator.md) | ⭐ 3.4k | C++ | 74/100 |
+| 36 | [posit-dev/positron](./posit-dev-positron.md) | ⭐ 4.1k | TypeScript | 71/100 |
+| 37 | [DataDog/stratus-red-team](./datadog-stratus-red-team.md) | ⭐ 2.3k | Go | 71/100 |
+| 38 | [dask/distributed](./dask-distributed.md) | ⭐ 1.7k | Python | 68/100 |
+| 39 | [github/advisory-database](./github-advisory-database.md) | ⭐ 2.3k | — | 65/100 |
+| 40 | [databricks/terraform-provider-databricks](./databricks-terraform-provider-databricks.md) | ⭐ 586 | Go | 61/100 |
+| 41 | [databendlabs/openraft](./databendlabs-openraft.md) | ⭐ 1.9k | Rust | 60/100 |
+| 42 | [lakekeeper/lakekeeper](./lakekeeper-lakekeeper.md) | ⭐ 1.3k | Rust | 60/100 |
+| 43 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 1.7k | PHP | 59/100 |
+| 44 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 605 | PHP | 58/100 |
+| 45 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 57/100 |
+| 46 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 472 | Swift | 57/100 |
+| 47 | [soot-oss/SootUp](./soot-oss-sootup.md) | ⭐ 785 | Java | 57/100 |
+| 48 | [NVIDIA/cuCollections](./nvidia-cucollections.md) | ⭐ 643 | Cuda | 56/100 |
+| 49 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 725 | Python | 56/100 |
+| 50 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 611 | Rust | 55/100 |
+| 51 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 55/100 |
+| 52 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 231 | Rust | 53/100 |
+| 53 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 52/100 |
+| 54 | [project-oak/oak](./project-oak-oak.md) | ⭐ 1.5k | Rust | 52/100 |
+| 55 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
+| 56 | [estuary/flow](./estuary-flow.md) | ⭐ 919 | Rust | 48/100 |
+| 57 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 46/100 |
+| 58 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
+| 59 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
 
 ---
 

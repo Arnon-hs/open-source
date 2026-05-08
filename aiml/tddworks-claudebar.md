@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 91 |
+| 🍴 **Forks** | 92 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`antigravity` `claude` `claude-code` `codex` `gemini` `githubcopilot` `glm5` `kimi`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-ClaudeBar is an open-source macOS menu bar application that provides a convenient way to monitor your usage quotas for popular AI coding assistants, including Claude, Codex, Antigravity, and Gemini. With ClaudeBar, you can easily track your AI usage at a glance, helping you stay on top of your quota limits. This application is ideal for developers and professionals who rely on these AI tools for their work.
+tddworks/ClaudeBar is a lightweight macOS menu‑bar utility that lets developers instantly see how much of their AI coding‑assistant quotas have been consumed. It aggregates usage statistics for Claude, Codex, Antigravity, Gemini and similar services, presenting the data in a clean, at‑a‑glance view right from the menu bar. This helps you monitor and manage your AI resources without leaving your workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/tddworks/ClaudeBar) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tddworks/ClaudeBar) · [← Back to AI/ML](./README.md)</sub>

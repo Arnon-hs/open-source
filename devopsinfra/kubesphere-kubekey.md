@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 820 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `installer` `k8s` `kubeadm` `kubernetes` `kubernetes-cluster` `kubernetes-deployment`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Kubekey is an open-source project that enables the installation of Kubernetes and K3s, as well as related cloud-native add-ons, on a variety of deployment configurations. It supports all-in-one, multi-node, and high-availability setups, offering flexibility for users to tailor their Kubernetes environments. This tool streamlines the installation process, making it easier to deploy and manage cloud-native applications.
+KubeKey (kubekey) is an open‑source automation tool that streamlines the deployment of Kubernetes or K3s clusters along with a suite of cloud‑native add‑ons. It supports a range of topologies—from single‑node all‑in‑one setups to multi‑node and high‑availability configurations—making cluster provisioning fast and repeatable for DevOps and infrastructure teams.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kubesphere/kubekey) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kubesphere/kubekey) · [← Back to DevOps & Infra](./README.md)</sub>

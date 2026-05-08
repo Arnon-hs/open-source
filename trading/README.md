@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**33 projects** in this category.
+**34 projects** in this category.
 
 ## Projects
 
@@ -37,10 +37,11 @@
 | 27 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 823 | — | 55/100 |
 | 28 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 800 | Rust | 54/100 |
 | 29 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 459 | Python | 54/100 |
-| 30 | [PwnKit-Labs/foxguard](./pwnkit-labs-foxguard.md) | ⭐ 236 | Rust | 52/100 |
-| 31 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 51/100 |
-| 32 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 51/100 |
-| 33 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
+| 30 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 53/100 |
+| 31 | [PwnKit-Labs/foxguard](./pwnkit-labs-foxguard.md) | ⭐ 236 | Rust | 52/100 |
+| 32 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 51/100 |
+| 33 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 51/100 |
+| 34 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
 
 ---
 

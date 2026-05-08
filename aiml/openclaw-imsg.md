@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 136 |
+| 🍴 **Forks** | 140 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `imessage`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The openclaw/imsg project is an open-source, command-line interface (CLI) tool that enables agents to interact with Apple's Messages.app, facilitating the sending and receiving of text messages and iMessages. This tool provides a convenient and programmatic way to manage Messages.app functionality, making it ideal for developers and AI/ML projects. By using imsg, developers can integrate messaging capabilities into their applications and automate communication workflows.
+openclaw/imsg is a command‑line interface that lets developers interact programmatically with Apple’s Messages.app, enabling agents to send and receive SMS and iMessage conversations directly from the terminal. It provides simple DevTools for integrating messaging capabilities into AI/ML workflows, automation scripts, or other applications without requiring a GUI.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/openclaw/imsg) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/openclaw/imsg) · [← Back to AI/ML](./README.md)</sub>

@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**107 projects** in this category.
+**108 projects** in this category.
 
 ## Projects
 
@@ -104,17 +104,18 @@
 | 94 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 462 | — | 54/100 |
 | 95 | [ancsemi/Haven](./ancsemi-haven.md) | ⭐ 420 | JavaScript | 54/100 |
 | 96 | [databay-labs/free-proxy-list](./databay-labs-free-proxy-list.md) | ⭐ 591 | — | 54/100 |
-| 97 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 426 | Rust | 52/100 |
-| 98 | [googleapis/google-cloud-rust](./googleapis-google-cloud-rust.md) | ⭐ 918 | Rust | 52/100 |
-| 99 | [cablehead/http-nu](./cablehead-http-nu.md) | ⭐ 129 | Rust | 51/100 |
-| 100 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 48/100 |
-| 101 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
-| 102 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
-| 103 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
-| 104 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
-| 105 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
-| 106 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
-| 107 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
+| 97 | [kiriwalawren/nixflix](./kiriwalawren-nixflix.md) | ⭐ 339 | Nix | 53/100 |
+| 98 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 426 | Rust | 52/100 |
+| 99 | [googleapis/google-cloud-rust](./googleapis-google-cloud-rust.md) | ⭐ 918 | Rust | 52/100 |
+| 100 | [cablehead/http-nu](./cablehead-http-nu.md) | ⭐ 129 | Rust | 51/100 |
+| 101 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 48/100 |
+| 102 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
+| 103 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
+| 104 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
+| 105 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
+| 106 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
+| 107 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
+| 108 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
 
 ---
 

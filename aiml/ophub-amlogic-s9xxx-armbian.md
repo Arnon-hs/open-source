@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a311d` `allwinner` `amlogic` `armbian` `debian` `rockchip` `s905` `s905d` `s905w` `s905x` `s905x2` `s905x3`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The ophub/amlogic-s9xxx-armbian project enables the open-source Armbian operating system to be run on a wide range of single-board computers (SBCs) from Amlogic, Allwinner, and Rockchip, including devices such as the A311D and RK3588. This project supports a variety of AI/ML applications and provides a versatile platform for developers and enthusiasts alike. By providing a unified OS for multiple SBCs, this project facilitates cross-platform development and experimentation.
+The **ophub/amlogic-s9xxx-armbian** project provides scripts and tools to build and run Armbian Linux on a wide range of Amlogic, Allwinner and Rockchip SoCs, including popular models such as the A311D, S922X, S905X3, S905X2, S912, S905D, S905, S905W, S905L, RK3588, RK3568, RK3399, RK3328, H6, and more. It automates kernel compilation, device‑tree generation, and image creation, making it easy for developers and hobbyists to deploy a fully functional, up‑to‑date Armbian system on these embedded platforms. The repository is open‑source and geared toward AI/ML applications that benefit from the powerful GPU and NPU capabilities of the supported hardware.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/ophub/amlogic-s9xxx-armbian) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ophub/amlogic-s9xxx-armbian) · [← Back to AI/ML](./README.md)</sub>

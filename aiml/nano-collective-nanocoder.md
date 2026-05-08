@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 176 |
+| 🍴 **Forks** | 175 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-coding` `coding-agents` `llm` `llm-inference` `ollama` `openai` `openrouter`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Nano-Collective's nanocoder is an open-source, local-first coding agent designed to run within a terminal, providing a community-driven solution for developers. This project combines AI/ML and frontend technologies to offer a streamlined coding experience. It aims to empower users through a collaborative and accessible coding environment.
+Nano-Collective/nanocoder is an open‑source, terminal‑based coding assistant that runs locally, letting developers generate, refactor, and debug code without sending data to external servers. Powered by community‑curated AI models, it offers fast, privacy‑preserving code suggestions and integrates smoothly with typical frontend workflows. The project is actively maintained by contributors who aim to make AI‑enhanced development accessible to everyone.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Nano-Collective/nanocoder) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Nano-Collective/nanocoder) · [← Back to AI/ML](./README.md)</sub>

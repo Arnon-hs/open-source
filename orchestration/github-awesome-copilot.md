@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 32.1k |
+| ⭐ **Stars** | 32.4k |
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `agents` `ai` `awesome` `custom-agents` `github-copilot` `hacktoberfest` `prompt-engineering`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The "awesome-copilot" project is a community-driven collection of resources and tools to enhance GitHub Copilot, an AI-powered coding assistant. This open-source initiative provides a wide range of user-created instructions, agents, skills, and configurations to help users maximize the capabilities of GitHub Copilot. By contributing to and utilizing this project, developers can tailor their experience and unlock the full potential of GitHub Copilot.
+awesome‑copilot is a community‑driven repository that gathers ready‑to‑use prompts, custom agents, skill packs, and configuration files for extending GitHub Copilot’s capabilities. It provides practical examples and orchestration patterns that help developers integrate Copilot into their workflows, automate tasks, and tailor the AI assistant to specific coding contexts. The project serves as a hub for sharing and reusing Copilot‑enhancing resources across the AI/ML and orchestration ecosystems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/github/awesome-copilot) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/github/awesome-copilot) · [← Back to Orchestration](./README.md)</sub>

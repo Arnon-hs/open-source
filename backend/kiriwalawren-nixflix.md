@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 336 |
+| ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Nix |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arr-stack` `flake` `homelab` `homelab-automation` `homelab-setup` `jellyfin` `lidarr` `media-server` `nix` `nixflix` `nixos` `prowlarr`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The nixflix project is an open-source initiative that provides a pre-configured NixOS setup for creating a media server. This configuration enables users to easily set up and manage their media server, making it a convenient and efficient solution for storing and streaming media content. By utilizing NixOS, nixflix offers a secure, reliable, and customizable platform for media serving.
+kiriwalawren/nixflix is an open‑source configuration that sets up a fully automated media server on NixOS, bundling services such as Plex/Jellyfin, transmission, and related utilities into a reproducible, declarative NixOS module. It streamlines installation, updates, and maintenance by leveraging Nix’s package management and declarative system configuration, making it easy to deploy a robust, self‑hosted media solution on any NixOS machine.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/kiriwalawren/nixflix) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kiriwalawren/nixflix) · [← Back to Backend](./README.md)</sub>

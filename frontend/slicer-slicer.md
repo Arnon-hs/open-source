@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 724 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d-printing` `3d-slicer` `c-plus-plus` `computed-tomography` `image-guided-therapy` `image-processing` `itk` `kitware` `medical-image-computing` `medical-imaging` `national-institutes-of-health` `neuroimaging`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Slicer is a free, open-source software designed for multi-platform visualization and image computing. It offers a wide range of features and tools for researchers, scientists, and medical professionals to analyze and visualize complex medical imaging data. This software is highly customizable and supports various platforms, making it a versatile tool for various fields of study.
+Slicer (also known as 3D Slicer) is a free, open‑source software platform that provides powerful tools for medical image visualization, analysis, and processing across Windows, macOS, and Linux. It offers an extensible, plugin‑based architecture with a rich graphical user interface, enabling researchers and clinicians to develop custom workflows for image computing, segmentation, registration, and quantitative analysis.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Slicer/Slicer) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Slicer/Slicer) · [← Back to Frontend](./README.md)</sub>

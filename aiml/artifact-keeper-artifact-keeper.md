@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 568 |
-| 🍴 **Forks** | 41 |
+| ⭐ **Stars** | 575 |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`artifact-registry` `artifactory-alternative` `cargo-registry` `container-registry` `devops` `docker-registry` `helm-registry` `maven-repository` `nexus-alternative` `npm-registry` `nuget-server` `open-source`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the artifact-keeper project:
-
-Artifact Keeper is an open-source, universal artifact registry offering a drop-in alternative to Artifactory and Nexus. It supports over 40 package formats and features advanced security scanning, WebAssembly (WASM) plugin capabilities, and edge replication for enhanced performance and reliability. This comprehensive solution enables seamless management of artifacts across various platforms and technologies.
+Artifact Keeper is an open‑source universal artifact registry that serves as a drop‑in replacement for Artifactory or Nexus, supporting more than 40 package formats out of the box. It includes built‑in security scanning, extensible WASM‑based plugins, and edge‑replication capabilities for distributed environments, making it a robust backend solution for DevOps and AI/ML pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/artifact-keeper/artifact-keeper) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/artifact-keeper/artifact-keeper) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 163 |
-| 🍴 **Forks** | 26 |
+| 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`addon` `form` `level` `mcbe` `mcpe` `minecraft` `minecraft-bedrock` `rust` `world`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The bedrock-rs library is an open-source, universal library for Minecraft Bedrock written in Rust. It provides a comprehensive set of tools and functionality for interacting with the Bedrock game server, allowing developers to create custom plugins, mods, and other projects with ease. This library serves as a foundation for building a wide range of Minecraft Bedrock applications and extensions.
+bedrock-crustaceans/bedrock-rs is a Rust library that provides a comprehensive, cross‑platform API for interacting with Minecraft Bedrock Edition data formats, networking protocols, and game mechanics. It abstracts the complexities of Bedrock’s NBT structures, packet handling, and world serialization, enabling developers to build servers, tools, or mods entirely in Rust. The project is open‑source, well‑documented, and designed to be extensible for a wide range of Bedrock‑related applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/bedrock-crustaceans/bedrock-rs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bedrock-crustaceans/bedrock-rs) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 207 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 234 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audiobooks` `book-manager` `calibre` `docker` `ebooks` `go` `helm` `homelab` `i18n` `multilingual` `opds` `react`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the vavallee/bindery project:
-
-vavallee/bindery is an open-source, automated book download manager for Usenet, designed to streamline the process of collecting and organizing digital library content. This modern replacement for Readarr integrates with SABnzbd for seamless downloading and indexing, while also monitoring authors and search indexers to keep your library up-to-date. By automating tasks and providing robust organization features, bindery simplifies the management of your digital book collection.
+vavallee / bindery is an open‑source, automated manager for downloading books from Usenet. It continuously monitors selected authors, queries indexers, sends NZB files to SABnzbd for retrieval, and then sorts the acquired titles into a tidy library—serving as a modern, feature‑rich replacement for Readarr. The project spans frontend UI, DevOps/infra automation, and security considerations for safe Usenet handling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/vavallee/bindery) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/vavallee/bindery) · [← Back to Frontend](./README.md)</sub>

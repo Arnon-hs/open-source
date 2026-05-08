@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**5 projects** in this category.
+**6 projects** in this category.
 
 ## Projects
 
@@ -11,8 +11,9 @@
 | 1 | [tw93/Waza](./tw93-waza.md) | ⭐ 4.5k | Shell | 86/100 |
 | 2 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |
 | 3 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 72/100 |
-| 4 | [ComputationalRadiationPhysics/picongpu](./computationalradiationphysics-picongpu.md) | ⭐ 779 | C++ | 59/100 |
-| 5 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 498 | Python | 54/100 |
+| 4 | [agersant/polaris](./agersant-polaris.md) | ⭐ 2.6k | Rust | 60/100 |
+| 5 | [ComputationalRadiationPhysics/picongpu](./computationalradiationphysics-picongpu.md) | ⭐ 779 | C++ | 59/100 |
+| 6 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 498 | Python | 54/100 |
 
 ---
 

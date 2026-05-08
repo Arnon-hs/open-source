@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 780 |
-| 🍴 **Forks** | 50 |
+| ⭐ **Stars** | 782 |
+| 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `ai-agent` `ai-coding-assistant` `byok` `chatgpt-alternative` `claude-code` `claude-code-alternative` `codex` `codex-alternative` `coding-agent` `copilot-alternative`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-OpenYak is an open-source, local AI agent that offers a private and secure alternative to popular AI tools like Claude Code and OpenAI Codex. With over 20 tools and 100+ models available through OpenRouter, MCP, and Ollama, users can access a wide range of AI capabilities on Windows, macOS, and Linux. This free, MIT-licensed project comes with no telemetry, ensuring users' data remains private.
+OpenYak is a free, MIT‑licensed, cross‑platform AI agent that runs locally on Windows, macOS, and Linux, offering a private “bring‑your‑own‑key” alternative to services like Claude Code, Claude for Work, and OpenAI Codex. It bundles more than 20 built‑in tools and supports over 100 models through integrations with OpenRouter, MCP, and Ollama, all without telemetry or cloud‑based data collection.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/openyak/openyak) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/openyak/openyak) · [← Back to AI/ML](./README.md)</sub>

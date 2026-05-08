@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`assembly` `assembly-x86` `fortheloveofcode` `kernel` `operating-system` `os-kernel` `osdev` `rust` `rust-kernel` `rust-osdev` `x86-64`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Rou2exOS is an open-source, hobby operating system designed with compatibility in mind for older DOS systems. This project aims to create a second iteration of the OS, building upon its predecessor to improve functionality and user experience. As a community-driven effort, Rou2exOS is open to contributions and modifications from developers and enthusiasts alike.
+**Summary:**  
+`krustowski/rou2exOS` is a hobbyist operating system project that builds on an earlier DOS‑compatible kernel, aiming to improve usability and expand functionality in a second iteration. Designed as an open‑source experiment, it explores low‑level system programming while maintaining a lightweight, DOS‑friendly footprint.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/krustowski/rou2exOS) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/krustowski/rou2exOS) · [← Back to Misc](./README.md)</sub>

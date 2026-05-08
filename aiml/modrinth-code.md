@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 440 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `minecraft` `minecraft-launcher` `modrinth` `modrinth-api`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the Modrinth code project:
-
-The Modrinth code is an open-source monorepo that hosts the underlying infrastructure powering Modrinth, a platform for discovering, hosting, and sharing Minecraft mods. This comprehensive codebase combines AI/ML and backend technologies to provide a robust and scalable experience for users. By contributing to this project, developers can help shape the future of the Minecraft modding community.
+The **modrinth/code** repository is the monolithic codebase that powers the Modrinth platform, encompassing both its backend services and AI/ML components. It centralizes the development of APIs, data pipelines, and machine‑learning models that support Modrinth’s mod hosting, search, and recommendation features. This open‑source project enables contributors to extend, improve, and customize the entire infrastructure behind the Modrinth ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/modrinth/code) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/modrinth/code) · [← Back to AI/ML](./README.md)</sub>

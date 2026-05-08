@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 732 |
-| 🍴 **Forks** | 607 |
+| 🍴 **Forks** | 610 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Umbrel App Store app repository is an open-source project that hosts and manages applications for the Umbrel ecosystem. This platform allows developers to submit and update apps, providing a centralized hub for users to discover and access various functionalities. The repository serves as a community-driven space for contributing and collaborating on app development for Umbrel devices.
+The **Umbrel Apps** repository is the official source for the Umbrel App Store, hosting community‑contributed applications and their updates for the Umbrel personal server platform. Developers can submit new apps or revisions through this open‑source project, and users can browse the catalog to discover and install ready‑to‑run services on their Umbrel node.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/getumbrel/umbrel-apps) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/getumbrel/umbrel-apps) · [← Back to Misc](./README.md)</sub>

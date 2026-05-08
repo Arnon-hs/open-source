@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11k |
-| 🍴 **Forks** | 571 |
+| 🍴 **Forks** | 570 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `database` `spreadsheet`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · Marketing
 
 ## 📝 Summary
 
-Grist is an open-source, web-based platform that revolutionizes traditional spreadsheets by providing a more dynamic and user-friendly experience. With its powerful data management capabilities, Grist enables users to create customizable tables, forms, and dashboards, making it an ideal solution for various data-driven applications. This platform is designed to help users streamline their workflows and make data-driven decisions with ease.
+Grist is an open‑source platform that extends the traditional spreadsheet model into a collaborative, relational data workspace, allowing users to build powerful, spreadsheet‑like applications with live data linking, customizable views, and built‑in automation. Designed for teams in data‑driven and marketing environments, Grist lets you organize, analyze, and share information securely while retaining the familiar spreadsheet interface.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/gristlabs/grist-core) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/gristlabs/grist-core) · [← Back to Data](./README.md)</sub>

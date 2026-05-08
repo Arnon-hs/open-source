@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 715 |
+| ⭐ **Stars** | 716 |
 | 🍴 **Forks** | 218 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `conflux` `cryptocurrency` `p2p` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Conflux-rust is the official Rust implementation of the Conflux protocol, providing a robust and open-source solution for developers to leverage the Conflux network. This project allows users to integrate the Conflux protocol into their Rust-based applications, unlocking seamless communication and data transfer capabilities. By contributing to and utilizing conflux-rust, developers can tap into the advanced features and scalability of the Conflux network.
+Conflux‑rust is the official Rust implementation of the Conflux blockchain protocol, providing a high‑performance, type‑safe client for participating in the Conflux network. It includes full node functionality, consensus, networking, and RPC interfaces, and serves as a reference library for developers building on or integrating with Conflux. The project is open‑source, well‑documented, and aims to combine cryptographic security with the safety and concurrency advantages of Rust.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Conflux-Chain/conflux-rust) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Conflux-Chain/conflux-rust) · [← Back to Crypto](./README.md)</sub>

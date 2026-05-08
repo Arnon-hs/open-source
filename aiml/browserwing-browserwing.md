@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aibrowser` `golang` `llm` `react`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Product
 
 ## 📝 Summary
 
-BrowserWing is an open-source project that enables AI agents to directly control browsers by mapping browser actions to MCP commands or Claude Skills. This reduces the need for slow and resource-intensive Large Language Model (LLM) interactions, allowing for faster automation and increased productivity. By streamlining browser automation, BrowserWing is ideal for AI-driven tasks and enhancing productivity.
+BrowserWing is an open‑source library that converts user actions in a web browser into MCP commands or Claude Skills, enabling AI agents to control browsers directly without costly, token‑heavy language model calls. By exposing a lightweight command interface, it delivers faster, more reliable automation for AI‑driven tasks, web testing, and productivity‑boosting workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/browserwing/browserwing) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/browserwing/browserwing) · [← Back to AI/ML](./README.md)</sub>

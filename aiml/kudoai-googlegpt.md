@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `bot` `chatbot` `chatbots` `chatgpt` `experimental` `gemini` `gemma` `generative-ai` `google` `gpt` `gpt-5`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-KudoAI/googlegpt is an open-source project that enables AI-powered chat and search summaries within Google Search. Leveraging the capabilities of the latest Large Language Models (LLMs), this project aims to enhance search functionality by providing users with more accurate and concise information.
+KudoAI/googlegpt is an open‑source browser extension that injects AI‑powered chat and concise search‑result summaries directly into Google Search pages, leveraging the latest large language models. It lets users ask follow‑up questions, refine results, and get quick AI explanations without leaving the search interface, streamlining research and information retrieval.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/KudoAI/googlegpt) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/KudoAI/googlegpt) · [← Back to AI/ML](./README.md)</sub>

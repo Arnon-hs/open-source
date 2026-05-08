@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.2k |
-| 🍴 **Forks** | 796 |
+| 🍴 **Forks** | 798 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `artificial-intelligence` `automation` `generative-ai` `large-language-model` `llm` `llmops` `rust` `scalable-ai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-0xPlaygrounds/rig is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 97/100.
+**0xPlaygrounds/rig** is an open‑source Rust framework for building modular, scalable large‑language‑model (LLM) applications. It provides a clean, type‑safe API and reusable components that let developers quickly integrate LLM inference, prompt engineering, and UI front‑ends while leveraging Rust’s performance and safety guarantees. Ideal for AI/ML projects that need a robust, production‑ready backend combined with flexible frontend integration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/0xPlaygrounds/rig) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/0xPlaygrounds/rig) · [← Back to AI/ML](./README.md)</sub>

@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**13 projects** in this category.
+**14 projects** in this category.
 
 ## Projects
 
@@ -15,12 +15,13 @@
 | 5 | [Atlas-OS/Atlas](./atlas-os-atlas.md) | ⭐ 20.5k | Batchfile | 96/100 |
 | 6 | [hahwul/dalfox](./hahwul-dalfox.md) | ⭐ 5k | Rust | 93/100 |
 | 7 | [cloud-hypervisor/cloud-hypervisor](./cloud-hypervisor-cloud-hypervisor.md) | ⭐ 5.6k | Rust | 90/100 |
-| 8 | [zizmorcore/zizmor](./zizmorcore-zizmor.md) | ⭐ 4.5k | Rust | 79/100 |
-| 9 | [mthcht/awesome-lists](./mthcht-awesome-lists.md) | ⭐ 1.4k | YARA | 63/100 |
-| 10 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 60/100 |
-| 11 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 56/100 |
-| 12 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
-| 13 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
+| 8 | [kanidm/kanidm](./kanidm-kanidm.md) | ⭐ 4.9k | Rust | 89/100 |
+| 9 | [zizmorcore/zizmor](./zizmorcore-zizmor.md) | ⭐ 4.5k | Rust | 79/100 |
+| 10 | [mthcht/awesome-lists](./mthcht-awesome-lists.md) | ⭐ 1.4k | YARA | 63/100 |
+| 11 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 60/100 |
+| 12 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 56/100 |
+| 13 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
+| 14 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
 
 ---
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `anthropic` `claude` `claude-ai` `claude-api` `function-calling` `go` `golang` `llm` `prompt-caching` `streaming-api` `tool-use`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The liushuangls/go-anthropic project is an open-source Go library that provides a simple and efficient interface to interact with the Anthropic Claude API. This API wrapper enables developers to leverage the powerful natural language processing capabilities of Claude, making it easier to integrate AI-driven features into their Go-based applications. By using this library, developers can tap into the vast potential of Claude without needing to handle the underlying complexities.
+liushuangls/go-anthropic is a lightweight Go library that provides a clean, idiomatic wrapper around Anthropic’s Claude API, enabling developers to integrate advanced language‑model capabilities into their Go applications with minimal effort. It handles request construction, authentication, streaming responses, and error handling, making it ideal for backend services, AI/ML pipelines, and orchestration workflows that require reliable, high‑performance interaction with Claude.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/liushuangls/go-anthropic) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/liushuangls/go-anthropic) · [← Back to Orchestration](./README.md)</sub>

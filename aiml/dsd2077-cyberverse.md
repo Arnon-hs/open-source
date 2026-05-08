@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 391 |
-| 🍴 **Forks** | 54 |
+| ⭐ **Stars** | 452 |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-companion` `digital-human` `digital-life` `grok-companion` `jarvis-assistant` `sillytavern` `streaming` `vtuber` `webrtc`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-CyberVerse is an open-source digital human agent platform that enables the creation of AI-powered, interactive digital humans for real-time video calling. This innovative platform allows users to engage with AI agents in a face-to-face setting, revolutionizing the way we interact with technology. By harnessing the power of AI and video conferencing, CyberVerse is poised to transform various industries and applications.
+CyberVerse is an open‑source platform that lets developers build digital‑human AI agents capable of real‑time, face‑to‑face video interactions. By integrating live video calling, the framework enables users to see and talk to AI avatars just as they would in a conventional video call, making conversational AI more immersive and personal. It is positioned for AI/ML developers seeking a ready‑to‑use solution for interactive, visual AI agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/dsd2077/CyberVerse) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dsd2077/CyberVerse) · [← Back to AI/ML](./README.md)</sub>

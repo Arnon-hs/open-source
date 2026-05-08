@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 319 |
-| 🍴 **Forks** | 34 |
+| ⭐ **Stars** | 382 |
+| 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-assistant` `anthropic` `chatbot` `claude` `claw` `codex` `desktop-app` `gemini` `harness` `hermes-agent`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Hope-Agent is an open-source, personal AI assistant that learns and grows over time. It can be accessed across multiple platforms, including desktop, cloud servers, and instant messaging services, allowing users to interact with it anywhere, anytime. By hosting Hope-Agent on a self-hosted server, users can maintain control over their personal data and AI interactions.
+Hope‑Agent is an open‑source, self‑hosted personal AI assistant that can run on a desktop, a cloud server, or any instant‑messaging platform and be accessed remotely from mobile devices. It features persistent memory and continual learning, allowing the assistant to remember past interactions and improve its responses over time. Designed for developers and power users, it provides a flexible backend for integrating AI capabilities into everyday workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/shiwenwen/hope-agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/shiwenwen/hope-agent) · [← Back to AI/ML](./README.md)</sub>
