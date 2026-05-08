@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 835 |
-| 🍴 **Forks** | 93 |
+| 🍴 **Forks** | 92 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `docker` `friendly` `gaming` `kubernetes` `odin` `rust` `timezone` `user-friendly` `valheim` `valheim-docker`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Valheim Docker project:
-
-Valheim Docker is an open-source project that offers a robust and user-friendly management solution for dedicated Valheim game servers. Powered by Odin, this project provides automatic updates, world backup support, and a simple command-line interface, ensuring a seamless gaming experience. Its focus on resiliency makes it an ideal choice for players seeking a reliable and hassle-free Valheim gaming setup.
+mbround18/valheim-docker is a Docker‑based manager for Valheim dedicated servers, built on the Odin framework. It emphasizes resiliency with features such as automatic game updates, scheduled world backups, and a user‑friendly CLI for easy server administration. Ideal for backend, DevTools, and DevOps workflows, it streamlines deployment and maintenance of Valheim game servers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/mbround18/valheim-docker) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mbround18/valheim-docker) · [← Back to Backend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`autocompletion` `config` `configuration` `configuration-files` `copilot` `developer-tools` `development` `golang` `lazy` `lazyvim` `lsp` `lua`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-This open-source project, "joelazar/nvim-config", is a publicly available Neovim configuration repository. It contains the author's custom settings and plugins for a streamlined and efficient editing experience. Users can leverage this repository to create their own tailored Neovim configurations.
+A concise, personal Neovim configuration that streamlines the editor for efficient development workflows. It includes curated plugins, custom keybindings, and settings to enhance coding productivity across multiple languages. The repository serves as a ready‑to‑use starter kit for anyone looking to quickly set up a powerful, modern Neovim environment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/joelazar/nvim-config) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/joelazar/nvim-config) · [← Back to DevTools](./README.md)</sub>

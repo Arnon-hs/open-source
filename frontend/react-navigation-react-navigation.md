@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `navigation` `react` `react-native` `react-navigation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Mobile
 
 ## 📝 Summary
 
-React Navigation is an open-source routing and navigation library for React Native and web applications, enabling developers to manage navigation states and transitions between screens. It provides a simple and declarative API for creating navigation flows, handling navigation events, and managing screen stacks. With React Navigation, developers can build robust, scalable, and maintainable mobile and web apps with seamless navigation experiences.
+react-navigation is a flexible routing and navigation library for React Native and web applications, offering stack, tab, drawer, and deep‑linking navigation patterns out of the box. It abstracts platform differences, enabling developers to write navigation logic once and deploy it across iOS, Android, and browsers with smooth transitions and customizable headers. The project is actively maintained, well‑documented, and widely used in the React ecosystem for building robust mobile and frontend interfaces.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/react-navigation/react-navigation) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/react-navigation/react-navigation) · [← Back to Frontend](./README.md)</sub>

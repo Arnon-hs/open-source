@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 409 |
-| 🍴 **Forks** | 30 |
+| ⭐ **Stars** | 415 |
+| 🍴 **Forks** | 32 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`accessibility` `agentic-framework` `agentic-workflow` `ai` `ai-agent` `apple-intelligence` `applescript` `automation` `claude` `imessage` `javascript` `jxa`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the macOS26/Agent project:
-
-macOS26/Agent is an open-source, native macOS application that leverages AI and machine learning capabilities to automate various development tasks. It integrates with 17+ Large Language Model (LLM) providers, enabling features such as code writing, project building, and version management in Xcode, as well as automation of Safari and AppleScript applications. With its extendable architecture and seamless iPhone integration via Messages, macOS26/Agent aims to revolutionize the way developers work.
+macOS26/Agent is a native macOS application that unifies more than 18 LLM providers—including Claude, OpenAI, Gemini, Ollama, Zai, Hugging Face, and Qwen—to automate software development tasks such as writing code, building Xcode projects, bumping version numbers, managing Git, and controlling Safari via AppleScript, JavaScript, or Accessibility APIs. It also supports extensibility through MCP servers and lets users trigger workflows from their iPhone via Messages, positioning it as a versatile orchestration tool for AI‑driven development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/macOS26/Agent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/macOS26/Agent) · [← Back to Orchestration](./README.md)</sub>

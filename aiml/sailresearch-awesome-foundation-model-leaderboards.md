@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `artificial-intelligence` `awesome-list` `benchmark` `deep-learning` `evaluation` `foundation-model` `large-ai-model` `leaderboard` `machine-learning` `ranking-system`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The awesome-foundation-model-leaderboards project is an open-source repository that provides a comprehensive list of resources and leaderboards for AI and machine learning (ML) researchers, specifically focusing on foundation models. This curated collection facilitates easy access to benchmarking and evaluation platforms for AI models, fostering innovation and collaboration within the AI community. By aggregating these resources, the project aims to accelerate the development and advancement of artificial intelligence.
+The **awesome-foundation-model-leaderboards** repository is a curated collection of high‑quality, leaderboard‑focused resources for evaluating and comparing foundation models across a wide range of AI tasks. It aggregates benchmarks, datasets, evaluation scripts, and related tools, helping researchers and practitioners quickly locate the most relevant leaderboards and performance metrics in the AI/ML domain.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/SAILResearch/awesome-foundation-model-leaderboards) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/SAILResearch/awesome-foundation-model-leaderboards) · [← Back to AI/ML](./README.md)</sub>

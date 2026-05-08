@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`css` `featured` `html` `javascript` `open-source` `openui5`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the UI5/openui5 project:
-
-OpenUI5 is an open-source project that enables developers to build robust, responsive web applications that can run on a wide range of devices and browsers. This project provides a comprehensive set of tools and libraries for creating enterprise-grade web applications, making it an ideal choice for businesses and organizations. By leveraging OpenUI5, developers can streamline their web development process and create high-quality, user-friendly applications.
+OpenUI5 is an open‑source JavaScript UI framework that enables developers to create enterprise‑grade web applications with a responsive, device‑agnostic design. It provides a rich set of UI controls, data binding, and theming capabilities, while being compatible with all major browsers and easily extensible for AI/ML integration. The project is community‑driven and freely available under the Apache 2.0 license.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/UI5/openui5) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/UI5/openui5) · [← Back to AI/ML](./README.md)</sub>

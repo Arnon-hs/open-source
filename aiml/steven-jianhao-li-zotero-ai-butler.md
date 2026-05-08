@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`academic-tools` `ai` `ai-butler` `artificial-intelligence` `butler` `knowledge-management` `llm` `markdown` `paper-reading` `pdf-analysis` `plugin` `productivity`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Zotero AI Butler is an open-source tool that utilizes large language models to automatically read and summarize papers in your Zotero library, generating concise notes for quick comprehension. This AI-powered assistant supports major large model platforms and can be integrated seamlessly into your existing Zotero workflow. With Zotero AI Butler, you can get a grasp of a paper's key points in just minutes.
+Zotero‑AI‑Butler is an open‑source plugin that integrates large‑language‑model services with Zotero to automatically read and distill papers in your library into concise, structured notes. By sending each added reference to a supported LLM platform, the Butler generates a summary that captures the article’s key contributions, methods, and findings, enabling users to grasp a paper in minutes. It supports multiple major AI providers and works seamlessly within the normal Zotero workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/steven-jianhao-li/zotero-AI-Butler) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/steven-jianhao-li/zotero-AI-Butler) · [← Back to AI/ML](./README.md)</sub>

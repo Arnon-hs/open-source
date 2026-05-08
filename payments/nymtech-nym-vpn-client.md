@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 424 |
-| 🍴 **Forks** | 45 |
+| ⭐ **Stars** | 430 |
+| 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amneziawg` `android-app` `anonymous-payments` `censorship-resistance` `cross-platform` `decentralized` `decentralized-vpn` `ios-app` `linux-app` `metadata-protection` `mixnet` `mobile-app`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the nym-vpn-client project:
-
-The nym-vpn-client is an open-source, cross-platform VPN client that utilizes Rust to provide a secure and fast online experience. This project combines the speed of WireGuard with the anonymity of a mixnet, protecting not just IP addresses but also metadata to maintain user privacy. Additionally, it supports zero-knowledge payments for unlinkable online activities.
+The **nym-vpn-client** is a cross‑platform VPN application written in Rust that combines the high performance of WireGuard with mixnet‑based anonymity, shielding users’ metadata as well as their IP addresses. It features zero‑knowledge, unlinkable payments, enabling fully private online activity without revealing any user information. The project targets developers and end‑users interested in secure, privacy‑preserving networking tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/nymtech/nym-vpn-client) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/nymtech/nym-vpn-client) · [← Back to Payments](./README.md)</sub>

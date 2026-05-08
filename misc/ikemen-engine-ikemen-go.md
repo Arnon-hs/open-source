@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 202 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`game-engine` `gamedev` `go` `golang`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the ikemen-engine/Ikemen-GO project:
-
-Ikemen-GO is an open-source fighting game engine that allows developers to create their own fighting games using MUGEN resources. This engine supports customization and modification, giving users the flexibility to create unique game experiences. With Ikemen-GO, users can tap into the existing MUGEN community and leverage its vast library of characters, stages, and music.
+Ikemen‑GO is an open‑source fighting‑game engine that fully supports MUGEN assets, allowing creators to run classic MUGEN characters, stages, and scripts with modern performance and cross‑platform compatibility. Built in Go, the engine offers a lightweight, extensible framework for both developers and hobbyists to build, customize, and replay 2‑D fighting games without the limitations of the original MUGEN runtime.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ikemen-engine/Ikemen-GO) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ikemen-engine/Ikemen-GO) · [← Back to Misc](./README.md)</sub>

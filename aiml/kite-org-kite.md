@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.6k |
-| 🍴 **Forks** | 222 |
+| 🍴 **Forks** | 226 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `cloud-native` `dashboard` `kubernetes` `kubernetes-addons` `monitoring` `multi-cluster` `prometheus`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the kite-org/kite open-source project:
-
-Kite is a modern, lightweight Kubernetes dashboard that streamlines multi-cluster and resource management, while providing robust enterprise-grade user governance features such as OAuth, RBAC, and audit logs. This unified workspace also integrates AI agents for enhanced automation and decision-making capabilities. By combining these features, Kite offers a comprehensive and secure platform for Kubernetes management.
+Kite is a lightweight, modern Kubernetes dashboard that consolidates multi‑cluster and resource management with enterprise‑grade governance features such as OAuth, RBAC, and audit logging, all within a single workspace. It also integrates AI agents to enhance operational workflows, positioning itself as a platform rather than just a tool for DevOps, security, and AI/ML teams.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kite-org/kite) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kite-org/kite) · [← Back to AI/ML](./README.md)</sub>

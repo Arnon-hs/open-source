@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `aicoding` `claude` `cline` `coding` `costrict` `gemini` `glm` `jetbrains` `mimo` `minimax`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Costrict is an open-source, AI-powered coding assistant designed for enterprises, prioritizing quality above all else. This project offers a comprehensive suite of tools, including AI Agent, AI Code Review, and AI Completion, to help developers write high-quality code efficiently. By leveraging AI technology, Costrict aims to revolutionize the coding process and improve overall software development quality.
+Costrict (zgsm‑ai/costrict) is an open‑source, enterprise‑grade AI coding assistant that emphasizes code quality above all. It bundles a powerful AI agent, automated code‑review tools, and intelligent code‑completion features, enabling development teams to write, audit, and maintain high‑quality software faster. The project targets AI/ML and DevTools users seeking a strict, quality‑first approach to AI‑augmented programming.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/zgsm-ai/costrict) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/zgsm-ai/costrict) · [← Back to AI/ML](./README.md)</sub>

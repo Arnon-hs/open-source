@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 507 |
+| ⭐ **Stars** | 525 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-runtime` `browser-agent` `browser-use` `computer-use` `openclaw` `sandbox`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here is a brief summary of the SmolVM project:
-
-SmolVM is an open-source AI sandbox infrastructure that enables secure execution of code, browser usage, and deployment of AI agents. This versatile platform serves as a foundation for various applications, including AI research, development, and testing. By providing a controlled environment for code execution, SmolVM empowers developers to explore and innovate in the realms of artificial intelligence and machine learning.
+CelestoAI / SmolVM is an open‑source sandbox platform that enables safe, scalable execution of arbitrary code, browser automation, and AI‑driven agents within isolated environments. It provides developers and DevOps teams with a lightweight, container‑based infrastructure for testing, debugging, and deploying AI applications without compromising security or performance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/CelestoAI/SmolVM) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/CelestoAI/SmolVM) · [← Back to AI/ML](./README.md)</sub>

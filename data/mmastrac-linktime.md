@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 985 |
-| 🍴 **Forks** | 70 |
+| ⭐ **Stars** | 988 |
+| 🍴 **Forks** | 72 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`constructor` `ctor` `dtor` `dylib` `link-section` `linktime` `macros` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The mmastrac/linktime project provides a set of tools for Rust developers to manage module initialization and global constructor functions. It enables the creation of lazy-loaded modules and global initialization code, allowing for more flexible and efficient program structure. This open-source project aims to simplify the process of managing complex initialization logic in Rust applications.
+mmastrac/linktime is a lightweight Rust library that provides macros for safe link‑time initialization and destruction of static data, as well as utilities for gathering scattered data across compilation units. By leveraging linker sections, it enables zero‑cost, compile‑time registration of callbacks, resources, or configuration tables without runtime overhead, making it ideal for embedded, plugin, or low‑level systems programming.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/mmastrac/linktime) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mmastrac/linktime) · [← Back to Data](./README.md)</sub>

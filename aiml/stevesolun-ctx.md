@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 304 |
-| 🍴 **Forks** | 40 |
+| ⭐ **Stars** | 307 |
+| 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai-agents` `anthropic` `automation` `claude` `claude-code` `context-management` `developer-tools` `harness` `knowledge-graph` `llm` `llm-wiki`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the stevesolun/ctx project:
-
-Ctx is an open-source, real-time recommendation engine for Claude Code, providing instant suggestions for skills and agents based on a vast knowledge graph of 1,768 skills and 443 agents. Powered by a Karpathy LLM wiki with persistent memory, ctx continuously learns and adapts to the user's development habits. This AI-driven tool aims to streamline the development process by offering tailored suggestions on the fly.
+stevesolun/ctx is an open‑source catalog that aggregates a massive knowledge graph of LLM resources, including a 104 k‑node “LLM‑wiki” graph, 92 k+ reusable skills, 10.8 k MCP (model‑capability‑prompt) definitions, and 13 execution harnesses for Claude Code and custom LLMs. The repository also provides capped execution recommendations to help developers select and run the most appropriate skills and agents efficiently. It targets AI/ML practitioners and DevTools engineers who need a structured, searchable repository of LLM‑driven capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/stevesolun/ctx) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/stevesolun/ctx) · [← Back to AI/ML](./README.md)</sub>

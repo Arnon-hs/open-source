@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 289 |
 | 💻 **Language** | HCL |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`architecture-decisions` `aws` `civil-service` `documentation` `modernisation-platform`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The ministryofjustice/modernisation-platform project is a key component of the Modernisation Platform, designed to drive core work and innovation. This repository is managed using Terraform, a popular infrastructure-as-code tool, allowing for efficient and scalable infrastructure management. By leveraging this platform, users can streamline their infrastructure setup and deployment processes.
+The **modernisation-platform** repository houses the core infrastructure code for the UK Ministry of Justice’s Modernisation Platform, enabling the provisioning and management of cloud resources through a fully automated, Terraform‑driven workflow. It provides reusable, version‑controlled modules and pipelines that support secure, scalable DevOps practices across the department’s applications, with a focus on compliance, cryptographic controls, and reliable infrastructure delivery.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/ministryofjustice/modernisation-platform) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ministryofjustice/modernisation-platform) · [← Back to Crypto](./README.md)</sub>

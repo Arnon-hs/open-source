@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 667 |
+| 🍴 **Forks** | 668 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `chatbots` `framework` `nodejs` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The open-wa/wa-automate-nodejs project is an open-source tool designed for developing and managing chatbots with advanced features. This reliable backend solution enables users to automate tasks and interact with WhatsApp, providing a user-friendly interface for creating and managing chatbots. With its robust feature set, this project is ideal for developers looking to build scalable and efficient chatbot applications.
+open-wa/wa-automate-nodejs is a Node.js library that provides a stable, feature‑rich interface for building WhatsApp chatbots. It automates the WhatsApp Web client, offering advanced capabilities such as message handling, media support, group management, and event listeners, while abstracting away low‑level WebSocket and browser interactions. Ideal for backend developers, the project is actively maintained and encourages users to star the repository for updates.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/open-wa/wa-automate-nodejs) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/open-wa/wa-automate-nodejs) · [← Back to Backend](./README.md)</sub>

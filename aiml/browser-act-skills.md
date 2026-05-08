@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 25 |
+| 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `automation` `claude-code` `claude-code-skills` `cursor` `data-extraction` `no-code` `openclaw` `openclaw-skills` `web-data-extraction` `web-scraping` `web-scraping-api`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-The browser-act/skills project empowers AI systems to efficiently navigate and extract structured data from intricate websites. This open-source solution accelerates execution, reduces costs, and delivers more reliable results compared to traditional methods. By leveraging its capabilities, developers can unlock valuable insights and data from complex web sources.
+The **browser-act/skills** library equips AI agents with robust web‑browsing capabilities, allowing them to navigate, scrape, and extract structured data from complex sites efficiently. It delivers faster execution, lower operational costs, and higher reliability compared to generic crawling tools, making it ideal for AI/ML, backend, and data‑intensive applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/browser-act/skills) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/browser-act/skills) · [← Back to AI/ML](./README.md)</sub>

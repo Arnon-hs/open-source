@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.6k |
-| 🍴 **Forks** | 308 |
+| 🍴 **Forks** | 309 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ffi-layer` `rust-crate`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The mozilla/uniffi-rs project is an open-source tool that generates multi-language bindings for Rust code. It simplifies the process of interoperability between languages by automatically creating bindings that allow Rust code to be used from other languages. This enables developers to write code in Rust and share it seamlessly with applications written in other languages.
+mozilla/uniffi‑rs is an open‑source tool that automatically generates language bindings for Rust libraries, enabling seamless use of Rust code from multiple host languages such as Kotlin, Swift, Python, and JavaScript. By processing a simple interface definition file (IDL), it produces idiomatic, type‑safe wrappers and the necessary glue code, reducing the manual effort required to expose Rust functionality across diverse platforms. This makes it easier for developers to leverage Rust’s performance and safety while maintaining native developer experiences in other ecosystems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/mozilla/uniffi-rs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mozilla/uniffi-rs) · [← Back to Misc](./README.md)</sub>

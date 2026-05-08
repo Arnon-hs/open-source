@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.9k |
+| ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-client-protocol` `claude-code` `codex` `gemini-cli` `obsidian-md` `obsidian-plugin` `opencode`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the RAIT-09/obsidian-agent-client project:
-
-This open-source project enables seamless integration of AI agents into the Obsidian note-taking platform, allowing users to leverage powerful tools such as Claude Code, Codex, and Gemini CLI. By implementing the Agent Client Protocol (ACP), the project provides a standardized interface for interacting with various AI agents. This integration enhances productivity and creativity within Obsidian, empowering users to explore new possibilities with AI-assisted note-taking.
+RAIT‑09/obsidian-agent-client is an open‑source plugin that integrates AI agents—such as Claude Code, Codex, and Gemini CLI—directly into the Obsidian note‑taking environment using the Agent Client Protocol (ACP). It enables developers to invoke and interact with these language models from within Obsidian, turning the editor into a powerful AI‑assisted coding and knowledge‑management workspace. The project sits at the intersection of AI/ML and developer tools, offering a seamless bridge between local notes and remote AI services.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/RAIT-09/obsidian-agent-client) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/RAIT-09/obsidian-agent-client) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 305 |
-| 🍴 **Forks** | 31 |
+| ⭐ **Stars** | 337 |
+| 🍴 **Forks** | 59 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai-agent` `golang` `harness-engineering` `iflytek-astron` `llm` `programming-assistant` `skill-engine` `websocket`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Harnessclaw-engine is an open-source Large Language Model (LLM) programming assistant engine built with Go, designed to provide a robust and flexible platform for AI-driven development. It supports features like WebSocket connectivity, multi-turn dialogues, tool integration, permission control, and skill extension, making it an ideal solution for developers seeking to enhance their programming experience with AI-powered assistance. This engine aims to facilitate seamless collaboration between humans and machines.
+HarnessClaw Engine is an open‑source LLM programming assistant written in Go that enables real‑time, multi‑turn conversations via WebSocket and supports advanced features such as tool calling, fine‑grained permission control, and extensible skill plugins. Designed for both AI/ML and frontend developers, it provides a flexible backend for building intelligent code‑assistants and other interactive AI applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/harnessclaw/harnessclaw-engine) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/harnessclaw/harnessclaw-engine) · [← Back to AI/ML](./README.md)</sub>

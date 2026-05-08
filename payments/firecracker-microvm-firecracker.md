@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 33.9k |
-| 🍴 **Forks** | 2.3k |
+| ⭐ **Stars** | 34.2k |
+| 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`containers` `minimalist` `open-source` `oversubscription` `rust` `sandbox` `serverless` `virtual-machine` `virtualization`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ firecracker-microvm/firecracker is a promising open-source project. Categories: 
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/firecracker-microvm/firecracker) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/firecracker-microvm/firecracker) · [← Back to Payments](./README.md)</sub>

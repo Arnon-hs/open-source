@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.4k |
-| 🍴 **Forks** | 455 |
+| 🍴 **Forks** | 457 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`database-gui` `redis` `redis-gui` `redis-gui-client`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-RedisInsight is an open-source, visual interface for managing and monitoring Redis databases. Developed by the Redis team, it provides a user-friendly GUI for interacting with Redis instances, enhancing data exploration, and streamlining database administration tasks. This intuitive tool simplifies Redis management, making it an ideal choice for developers, administrators, and data scientists alike.
+RedisInsight is a free, open‑source graphical interface for exploring and managing Redis databases. It provides real‑time monitoring, query editing, data visualisation, and performance analysis tools, helping developers and ops teams to debug, optimise, and understand their Redis deployments. The web‑based UI is built with modern frontend technologies and integrates seamlessly with any Redis instance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/redis/RedisInsight) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/redis/RedisInsight) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18.1k |
-| 🍴 **Forks** | 2.6k |
+| ⭐ **Stars** | 18.2k |
+| 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chess` `free-software` `functional-programming` `game` `lichess` `non-profit` `play-framework` `scala` `type-safe` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Lila is an open-source chess server that powers the popular online chess platform lichess.org. It provides a free, ad-free, and community-driven environment for chess enthusiasts to play, learn, and socialize. Developed by the lichess community, Lila is a robust and scalable platform that promotes accessible and enjoyable chess experiences.
+Lila is the open‑source Ruby on Rails backend that powers **lichess.org**, a completely free, ad‑free online chess platform. It provides real‑time game management, matchmaking, analysis tools, and a robust API, all under a permissive license, enabling developers to run their own chess servers or contribute enhancements to the global community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/lichess-org/lila) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/lichess-org/lila) · [← Back to Backend](./README.md)</sub>
