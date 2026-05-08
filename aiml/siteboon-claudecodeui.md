@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10.6k |
+| ⭐ **Stars** | 10.7k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `anthropic-ai` `anthropic-claude` `claude` `claude-api` `claude-code` `claude-code-ui` `claudecode` `gui` `mobile-first` `react` `ui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-CloudCLI, an open-source project, provides a free and user-friendly web interface for managing Claude Code sessions and projects remotely. This versatile tool allows users to seamlessly interact with Claude Code, Cursor CLI, and Codex on both mobile and web platforms, enhancing productivity and accessibility. By leveraging CloudCLI, users can streamline their workflow and unlock the full potential of these AI/ML tools.
+siteboon/claudecodeui is an open‑source web UI (CloudCLI) that lets you run Claude Code, Cursor CLI, or Codex from any mobile or desktop browser. It provides a lightweight, remote management console for creating, organizing, and interacting with Claude Code sessions and projects, serving both front‑end and back‑end developers. The tool is free, self‑hostable, and designed to simplify AI‑assisted coding workflows across platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/siteboon/claudecodeui) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/siteboon/claudecodeui) · [← Back to AI/ML](./README.md)</sub>

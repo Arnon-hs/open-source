@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude2api` `cursor` `cursor2api` `grok` `grok2api` `openai` `openai2api`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Claude2API is an open-source project that converts the web service of Claude, a conversational AI, into a RESTful API. This API enables users to integrate Claude's capabilities, such as image recognition and file upload, into their applications, as well as generate human-like output. By providing a programmable interface to Claude's services, Claude2API facilitates the development of AI-powered applications.
+The **chukwuemekawisdom/claude2api** project converts Claude’s web interface into a fully functional API, enabling programmatic access to Claude’s conversational capabilities. It extends the core service with image recognition, file upload handling, and advanced “thinking” outputs, making it a versatile backend solution for AI‑driven applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/chukwuemekawisdom/claude2api) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/chukwuemekawisdom/claude2api) · [← Back to AI/ML](./README.md)</sub>

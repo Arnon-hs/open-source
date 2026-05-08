@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 148 |
+| ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-programming` `algorithm` `algorithms` `bubble-sort` `bubblesort` `c` `data-structures` `graph` `insertion-sort` `merge-sort` `mergesort`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the project:
-
-The microwind/algorithms project is an open-source initiative that provides a comprehensive collection of data structures and classical algorithms implemented in various programming languages, including C, Java, Python, JS, Go, and Rust. This project aims to help individuals develop a solid foundation in programming and AI by providing clear examples and explanations, allowing learners to master multiple languages and algorithmic concepts simultaneously. By leveraging this project, developers can gain a deeper understanding of programming fundamentals and effectively harness AI technologies.
+microwind/algorithms is an open‑source collection of classic data structures and algorithms presented with clear, real‑world examples and implementations in multiple languages (C, Java, Python, JavaScript, Go, Rust). It aims to help learners simultaneously master algorithmic thinking and language syntax, building a solid programming foundation for the AI era. Ideal for developers interested in AI/ML, frontend, or data‑centric projects.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/microwind/algorithms) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/microwind/algorithms) · [← Back to AI/ML](./README.md)</sub>

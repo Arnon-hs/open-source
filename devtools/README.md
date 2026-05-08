@@ -2,7 +2,7 @@
 
 > Developer productivity, editors, workflow
 
-**141 projects** in this category.
+**142 projects** in this category.
 
 ## Projects
 
@@ -132,23 +132,24 @@
 | 122 | [shopware/shopware-cli](./shopware-shopware-cli.md) | ⭐ 110 | Go | 52/100 |
 | 123 | [omegaup/omegaup](./omegaup-omegaup.md) | ⭐ 343 | PHP | 52/100 |
 | 124 | [megalithic/dotfiles](./megalithic-dotfiles.md) | ⭐ 219 | Lua | 52/100 |
-| 125 | [azat-io/actions-up](./azat-io-actions-up.md) | ⭐ 523 | TypeScript | 51/100 |
-| 126 | [runpod/runpodctl](./runpod-runpodctl.md) | ⭐ 395 | Go | 50/100 |
+| 125 | [timothebot/lacy](./timothebot-lacy.md) | ⭐ 175 | Rust | 51/100 |
+| 126 | [azat-io/actions-up](./azat-io-actions-up.md) | ⭐ 523 | TypeScript | 51/100 |
 | 127 | [apollographql/rover](./apollographql-rover.md) | ⭐ 445 | Rust | 50/100 |
-| 128 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 50/100 |
-| 129 | [test-summary/action](./test-summary-action.md) | ⭐ 438 | TypeScript | 49/100 |
-| 130 | [suzuki-shunsuke/tfcmt](./suzuki-shunsuke-tfcmt.md) | ⭐ 528 | Go | 48/100 |
-| 131 | [Dicklesworthstone/asupersync](./dicklesworthstone-asupersync.md) | ⭐ 165 | Rust | 48/100 |
-| 132 | [frostwire/frostwire](./frostwire-frostwire.md) | ⭐ 587 | Java | 47/100 |
-| 133 | [suzuki-shunsuke/ghtkn](./suzuki-shunsuke-ghtkn.md) | ⭐ 143 | Go | 46/100 |
-| 134 | [openabdev/openab](./openabdev-openab.md) | ⭐ 436 | Rust | 45/100 |
-| 135 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 45/100 |
-| 136 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
+| 128 | [runpod/runpodctl](./runpod-runpodctl.md) | ⭐ 395 | Go | 50/100 |
+| 129 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 50/100 |
+| 130 | [test-summary/action](./test-summary-action.md) | ⭐ 438 | TypeScript | 49/100 |
+| 131 | [suzuki-shunsuke/tfcmt](./suzuki-shunsuke-tfcmt.md) | ⭐ 528 | Go | 48/100 |
+| 132 | [Dicklesworthstone/asupersync](./dicklesworthstone-asupersync.md) | ⭐ 165 | Rust | 48/100 |
+| 133 | [frostwire/frostwire](./frostwire-frostwire.md) | ⭐ 587 | Java | 47/100 |
+| 134 | [suzuki-shunsuke/ghtkn](./suzuki-shunsuke-ghtkn.md) | ⭐ 143 | Go | 46/100 |
+| 135 | [openabdev/openab](./openabdev-openab.md) | ⭐ 436 | Rust | 45/100 |
+| 136 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 45/100 |
 | 137 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
-| 138 | [opentofu/registry](./opentofu-registry.md) | ⭐ 405 | Go | 44/100 |
-| 139 | [stellar/stellar-cli](./stellar-stellar-cli.md) | ⭐ 112 | Rust | 43/100 |
-| 140 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
-| 141 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
+| 138 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
+| 139 | [opentofu/registry](./opentofu-registry.md) | ⭐ 405 | Go | 44/100 |
+| 140 | [stellar/stellar-cli](./stellar-stellar-cli.md) | ⭐ 112 | Rust | 43/100 |
+| 141 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
+| 142 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
 
 ---
 

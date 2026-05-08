@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 322 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cryptography` `homomorphic-encryption` `rust` `tfhe`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Data
 
 ## 📝 Summary
 
-TFHE-rs is a pure Rust implementation of the Trusted Execution Environment (TFHE) scheme, enabling secure Boolean and integer arithmetic operations over encrypted data. This open-source project provides a foundation for private and confidential machine learning and cryptographic computations. By leveraging TFHE-rs, developers can build secure applications that protect sensitive information from unauthorized access.
+TFHE‑rs is a pure‑Rust library that implements the Fully Homomorphic Encryption (TFHE) scheme, enabling both Boolean and integer arithmetic directly on encrypted data. Designed for safety and performance, it provides a modern, open‑source toolkit for cryptographic research, privacy‑preserving AI/ML, and secure data processing. The project is fully documented, cross‑platform, and licensed for community use and contribution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/zama-ai/tfhe-rs) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/zama-ai/tfhe-rs) · [← Back to Crypto](./README.md)</sub>

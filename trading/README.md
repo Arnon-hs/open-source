@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**44 projects** in this category.
+**46 projects** in this category.
 
 ## Projects
 
@@ -43,15 +43,17 @@
 | 33 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 823 | — | 55/100 |
 | 34 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 800 | Rust | 54/100 |
 | 35 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 459 | Python | 54/100 |
-| 36 | [xxczaki/cashify](./xxczaki-cashify.md) | ⭐ 404 | TypeScript | 53/100 |
-| 37 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
-| 38 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 53/100 |
-| 39 | [PwnKit-Labs/foxguard](./pwnkit-labs-foxguard.md) | ⭐ 236 | Rust | 52/100 |
-| 40 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 110 | Python | 51/100 |
-| 41 | [qiboteam/qibo](./qiboteam-qibo.md) | ⭐ 353 | Python | 51/100 |
-| 42 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 51/100 |
-| 43 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 51/100 |
-| 44 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
+| 36 | [Kaden-Schutt/hipfire](./kaden-schutt-hipfire.md) | ⭐ 351 | Rust | 53/100 |
+| 37 | [xxczaki/cashify](./xxczaki-cashify.md) | ⭐ 404 | TypeScript | 53/100 |
+| 38 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
+| 39 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 53/100 |
+| 40 | [Miasyster/QuantGPT](./miasyster-quantgpt.md) | ⭐ 141 | Python | 52/100 |
+| 41 | [PwnKit-Labs/foxguard](./pwnkit-labs-foxguard.md) | ⭐ 236 | Rust | 52/100 |
+| 42 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 110 | Python | 51/100 |
+| 43 | [qiboteam/qibo](./qiboteam-qibo.md) | ⭐ 353 | Python | 51/100 |
+| 44 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 51/100 |
+| 45 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 51/100 |
+| 46 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
 
 ---
 

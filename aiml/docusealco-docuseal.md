@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 13.6k |
-| 🍴 **Forks** | 1.2k |
+| ⭐ **Stars** | 15.8k |
+| 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`document-signing` `documents` `e-signature` `hotwired-turbo` `open-source` `pdf` `pdf-sign` `pdf-signature` `ruby-on-rails` `self-hosted` `tailwindcss` `vue`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the docuseal project:
-
-docuseal is an open-source alternative to DocuSign, enabling users to create, fill, and sign digital documents with ease. This AI-driven platform streamlines the document management process, providing a convenient and secure solution for individuals and businesses alike. By leveraging cutting-edge technology, docuseal offers a free and accessible alternative to traditional e-signature solutions.
+Docuseal is an open‑source platform that serves as a lightweight alternative to DocuSign, enabling users to create, fill out, and digitally sign documents directly in the browser. Built with modern frontend technologies and AI/ML‑enhanced features, it offers a secure, customizable workflow for electronic signatures and document management without relying on proprietary services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/docusealco/docuseal) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/docusealco/docuseal) · [← Back to AI/ML](./README.md)</sub>

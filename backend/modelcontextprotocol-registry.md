@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.8k |
-| 🍴 **Forks** | 795 |
+| 🍴 **Forks** | 799 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mcp` `mcp-servers`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The modelcontextprotocol/registry project is an open-source community-driven registry service designed to manage Model Context Protocol (MCP) servers. This registry enables the efficient discovery and connection of MCP servers, facilitating the development and deployment of applications that utilize this protocol. By providing a centralized registry, developers can easily find and interact with MCP servers, promoting interoperability and collaboration within the ecosystem.
+The **modelcontextprotocol/registry** project provides a community‑maintained backend service that registers and discovers Model Context Protocol (MCP) servers. It offers a simple API for adding, updating, and querying MCP endpoints, enabling developers to locate and connect to compatible model services without hard‑coding addresses. The registry is designed to be extensible, self‑hosted, and easily integrated into larger AI infrastructure stacks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/modelcontextprotocol/registry) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/modelcontextprotocol/registry) · [← Back to Backend](./README.md)</sub>

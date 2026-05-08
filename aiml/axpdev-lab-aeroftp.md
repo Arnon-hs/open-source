@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 132 |
+| ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-storage` `cross-platform` `dropbox` `encryption` `file-manager` `file-transfer` `ftp` `ftp-client` `ftps` `google-drive` `i18n` `onedrive`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-AeroFTP is an open-source, cross-platform desktop client for various file transfer protocols, including FTP, FTPS, SFTP, WebDAV, and cloud storage services. Built using Rust and the Tauri framework, along with React, AeroFTP offers a seamless user experience for accessing and managing files across multiple platforms. This versatile client supports a range of cloud providers, including GitHub and S3-compatible storage.
+AeroFTP is a cross‑platform desktop client that lets users manage files across a wide range of protocols and services—including FTP, FTPS, SFTP, WebDAV, S3‑compatible storage, GitHub, and major cloud providers. Built with Rust (via the Tauri framework) and a React front‑end, it offers a fast, native‑feel experience while remaining open source. The project targets developers and power users who need a unified, secure, and extensible tool for file transfers and remote storage management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/axpdev-lab/aeroftp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/axpdev-lab/aeroftp) · [← Back to AI/ML](./README.md)</sub>

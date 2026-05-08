@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 127 |
+| 🍴 **Forks** | 128 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`csharp` `dotnet` `godot` `razor` `roslyn`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-SharpIDE is an open-source, cross-platform Integrated Development Environment (IDE) for .NET applications. Built using .NET and Godot, this modern IDE provides a seamless development experience across various operating systems. With its open-source nature and cross-platform compatibility, SharpIDE offers developers a flexible and customizable solution for creating .NET projects.
+SharpIDE is a modern, cross‑platform integrated development environment tailored for .NET developers, built using the .NET runtime and the Godot game engine. It combines a sleek, customizable UI with powerful code‑editing features—such as syntax highlighting, IntelliSense, debugging, and project management—while running natively on Windows, macOS, and Linux. By leveraging Godot’s rendering capabilities, SharpIDE delivers a responsive, visually rich experience for building and maintaining .NET applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/MattParkerDev/SharpIDE) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/MattParkerDev/SharpIDE) · [← Back to Frontend](./README.md)</sub>

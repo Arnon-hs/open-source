@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 561 |
+| 🍴 **Forks** | 562 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `chrome-extension` `dapp` `defi` `ethereum` `ethereum-wallet`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Rabby is a groundbreaking, open-source wallet designed for Ethereum and all EVM (Ethereum Virtual Machine) chains, revolutionizing the way users interact with their digital assets. This cutting-edge wallet leverages advanced technology, including AI and ML, to provide a seamless, secure, and user-friendly experience. With Rabby, users can easily manage their cryptocurrencies and explore new possibilities in the world of decentralized finance.
+Rabby is an open‑source, feature‑rich wallet designed for Ethereum and all EVM‑compatible blockchains, offering users a secure, intuitive interface for managing assets, interacting with dApps, and executing transactions. It integrates AI‑driven analytics and smart‑contract assistance to streamline DeFi, NFT, and gaming experiences while maintaining full control of private keys. The project is community‑maintained, extensible via plugins, and aims to become the go‑to gateway for the rapidly expanding Web3 ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/RabbyHub/Rabby) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/RabbyHub/Rabby) · [← Back to Crypto](./README.md)</sub>

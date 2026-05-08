@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**66 projects** in this category.
+**68 projects** in this category.
 
 ## Projects
 
@@ -54,26 +54,28 @@
 | 44 | [dask/distributed](./dask-distributed.md) | ⭐ 1.7k | Python | 68/100 |
 | 45 | [grafana/grafana-operator](./grafana-grafana-operator.md) | ⭐ 1.3k | Go | 66/100 |
 | 46 | [github/advisory-database](./github-advisory-database.md) | ⭐ 2.3k | — | 65/100 |
-| 47 | [databricks/terraform-provider-databricks](./databricks-terraform-provider-databricks.md) | ⭐ 586 | Go | 61/100 |
-| 48 | [databendlabs/openraft](./databendlabs-openraft.md) | ⭐ 1.9k | Rust | 60/100 |
-| 49 | [lakekeeper/lakekeeper](./lakekeeper-lakekeeper.md) | ⭐ 1.3k | Rust | 60/100 |
-| 50 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 1.7k | PHP | 59/100 |
-| 51 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 605 | PHP | 58/100 |
-| 52 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 57/100 |
-| 53 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 472 | Swift | 57/100 |
-| 54 | [soot-oss/SootUp](./soot-oss-sootup.md) | ⭐ 785 | Java | 57/100 |
-| 55 | [NVIDIA/cuCollections](./nvidia-cucollections.md) | ⭐ 643 | Cuda | 56/100 |
-| 56 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 725 | Python | 56/100 |
-| 57 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 611 | Rust | 55/100 |
-| 58 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 55/100 |
-| 59 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 231 | Rust | 53/100 |
-| 60 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 52/100 |
-| 61 | [project-oak/oak](./project-oak-oak.md) | ⭐ 1.5k | Rust | 52/100 |
-| 62 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
-| 63 | [estuary/flow](./estuary-flow.md) | ⭐ 919 | Rust | 48/100 |
-| 64 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 46/100 |
-| 65 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
-| 66 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
+| 47 | [OSGeo/grass](./osgeo-grass.md) | ⭐ 1.1k | C | 64/100 |
+| 48 | [databricks/terraform-provider-databricks](./databricks-terraform-provider-databricks.md) | ⭐ 586 | Go | 61/100 |
+| 49 | [databendlabs/openraft](./databendlabs-openraft.md) | ⭐ 1.9k | Rust | 60/100 |
+| 50 | [lakekeeper/lakekeeper](./lakekeeper-lakekeeper.md) | ⭐ 1.3k | Rust | 60/100 |
+| 51 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 1.7k | PHP | 59/100 |
+| 52 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 605 | PHP | 58/100 |
+| 53 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 57/100 |
+| 54 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 472 | Swift | 57/100 |
+| 55 | [soot-oss/SootUp](./soot-oss-sootup.md) | ⭐ 785 | Java | 57/100 |
+| 56 | [NVIDIA/cuCollections](./nvidia-cucollections.md) | ⭐ 643 | Cuda | 56/100 |
+| 57 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 725 | Python | 56/100 |
+| 58 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 611 | Rust | 55/100 |
+| 59 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 55/100 |
+| 60 | [magda-io/magda](./magda-io-magda.md) | ⭐ 597 | JavaScript | 53/100 |
+| 61 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 231 | Rust | 53/100 |
+| 62 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 52/100 |
+| 63 | [project-oak/oak](./project-oak-oak.md) | ⭐ 1.5k | Rust | 52/100 |
+| 64 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
+| 65 | [estuary/flow](./estuary-flow.md) | ⭐ 919 | Rust | 48/100 |
+| 66 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 46/100 |
+| 67 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
+| 68 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
 
 ---
 

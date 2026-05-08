@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 333 |
 | 💻 **Language** | C |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `cli` `email` `imap` `mail` `maildir` `mbox` `mime` `mua` `mutt` `ncurses` `neomutt`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Neomutt is an open-source email client built to improve upon the classic mutt email client experience. It combines traditional email functionality with modern features, providing users with a powerful and customizable email management tool. Developed in C, Neomutt is designed to be efficient and flexible, making it a popular choice for those seeking a high-performance email client.
+Neomutt is a modern, feature‑rich fork of the classic Mutt email client, extending its powerful text‑based interface with new capabilities such as improved IMAP/SMTP support, sidebar navigation, and extensive scripting hooks. It aims to bring contemporary mail workflows—like encrypted messaging, fuzzy searching, and plug‑in integration—to the terminal while preserving Mutt’s speed and configurability. The project is community‑driven and welcomes contributions via its IRC channel #neomutt on libera.chat.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/neomutt/neomutt) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/neomutt/neomutt) · [← Back to AI/ML](./README.md)</sub>

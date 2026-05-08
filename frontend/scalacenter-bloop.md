@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 216 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`build-system` `build-tools` `compilation-server` `developer-tools` `java` `productivity` `scala`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Bloop is an open-source build server and CLI tool designed to efficiently compile, test, and run Scala applications from any editor or build tool. It streamlines the Scala development experience by providing a fast and flexible way to build, test, and run Scala projects. Bloop supports a seamless development workflow, enabling developers to work efficiently and effectively with Scala.
+scalacenter/bloop is an open‑source build server and command‑line interface designed to compile, test, and run Scala projects quickly and reliably. By providing a fast, incremental compilation engine and a language‑agnostic protocol, Bloop integrates seamlessly with editors (e.g., VS Code, IntelliJ) and build tools such as sbt, Maven, and Gradle. It serves both frontend and backend developers as a core DevTools component for Scala development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/scalacenter/bloop) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/scalacenter/bloop) · [← Back to Frontend](./README.md)</sub>

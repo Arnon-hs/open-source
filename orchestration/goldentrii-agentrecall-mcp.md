@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 251 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 252 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `ai-agents` `claude-code` `intelligent-distance` `mcp` `mcp-server` `quality-loop` `session-memory`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Goldentrii/AgentRecall-MCP project:
-
-AgentRecall-MCP is an open-source AI session memory project that enables agents to retain knowledge and learning across sessions, powered by the Intelligent Distance principle. This solution utilizes think-execute-reflect quality loops to provide a persistent and resilient brain for agents, ensuring they can adapt and improve over time. By integrating with orchestration, AI/ML, and frontend technologies, AgentRecall-MCP facilitates the development of more intelligent and responsive agents.
+Goldentrii/AgentRecall‑MCP is an open‑source framework that equips AI agents with persistent, session‑spanning memory through a Think‑Execute‑Reflect loop, enabling them to retain knowledge and context across interactions. Leveraging the “Intelligent Distance” principle, it orchestrates memory retrieval, reasoning, and action execution in a modular, front‑end‑friendly architecture. Ideal for developers building conversational or autonomous agents that require long‑term continuity and adaptive learning.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Goldentrii/AgentRecall-MCP) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Goldentrii/AgentRecall-MCP) · [← Back to Orchestration](./README.md)</sub>

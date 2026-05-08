@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**20 projects** in this category.
+**21 projects** in this category.
 
 ## Projects
 
@@ -25,9 +25,10 @@
 | 15 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 507 | TypeScript | 57/100 |
 | 16 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 56/100 |
 | 17 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 54/100 |
-| 18 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 52/100 |
-| 19 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
-| 20 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
+| 18 | [mytechnotalent/Hacking-Rust](./mytechnotalent-hacking-rust.md) | ⭐ 224 | Rust | 52/100 |
+| 19 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 52/100 |
+| 20 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
+| 21 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
 
 ---
 

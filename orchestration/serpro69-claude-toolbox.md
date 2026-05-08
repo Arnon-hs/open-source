@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 136 |
+| ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `agents` `claude` `claude-code` `claude-code-plugin` `claude-config` `claude-plugin` `claude-skills` `claude-starter` `go` `java` `js`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The Claude Toolbox is an open-source collection of configurations and plugins designed for efficient agentic development workflows. This minimal, multi-language, and production-ready toolkit supports various Claude Code features, including MCP, configs, skills, and agents, enabling seamless integration and automation. By harnessing the Claude Toolbox, developers can streamline their workflows and focus on AI/ML innovation.
+The Claude Toolbox is a lightweight, production‑ready suite of configurations, plugins, and utilities designed to streamline Claude‑based code‑agent development across multiple programming languages. It provides ready‑to‑use MCP setups, customizable skills, agent definitions, and orchestration tools that are battle‑tested for real‑world AI/ML and DevOps workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/serpro69/claude-toolbox) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/serpro69/claude-toolbox) · [← Back to Orchestration](./README.md)</sub>

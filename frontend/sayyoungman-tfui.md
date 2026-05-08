@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 148 |
+| ⭐ **Stars** | 183 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bubbletea` `cli` `iac` `infrastructure` `infrastructure-as-code` `opentofu` `terminal` `terminal-ui` `terraform` `terraform-ui` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The tfui project is an open-source, interactive Terminal User Interface (TUI) designed for Terraform workflows. It enables users to perform Terraform operations, such as deployment and management, in a user-friendly and intuitive command-line environment. This tool streamlines Terraform workflows, making it easier for developers to manage and configure infrastructure resources.
+SayYoungMan / tfui is an open‑source, interactive terminal user interface that streamlines common Terraform workflows such as init, plan, apply, and destroy. By providing a clear, menu‑driven TUI, it lets developers and operators manage infrastructure-as-code without leaving the command line, making Terraform operations faster and less error‑prone. The project sits at the intersection of frontend, dev‑tools, and DevOps/infra, offering a lightweight, cross‑platform solution for teams that prefer a guided, visual experience in the terminal.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/SayYoungMan/tfui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/SayYoungMan/tfui) · [← Back to Frontend](./README.md)</sub>

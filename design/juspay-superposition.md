@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`configuration-management` `context-aware` `experimentation-platform` `feature-flags` `feature-flags-management` `leptos` `openfeature` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Design
 
 ## 📝 Summary
 
-Superposition is an open-source context-based configuration management system that enables safe and flexible rollout of configuration changes. This system allows developers to manage and deploy configurations with precision and control, minimizing potential disruptions. By providing a context-aware approach, Superposition facilitates smooth and predictable application updates.
+Superposition is an open‑source, context‑aware configuration management system that enables teams to roll out configuration changes safely and flexibly. By allowing configurations to be defined and applied based on runtime contexts (such as environment, user segment, or feature flag), it simplifies progressive rollouts and reduces the risk of misconfiguration. The project focuses on a clean design that integrates seamlessly with existing deployment pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/juspay/superposition) · [← Back to Design](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/juspay/superposition) · [← Back to Design](./README.md)</sub>

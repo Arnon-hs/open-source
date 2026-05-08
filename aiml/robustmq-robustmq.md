@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 217 |
+| 🍴 **Forks** | 218 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-communication` `ai` `ai-agnet` `amqp` `data` `infra` `kafka` `message` `message-queue` `middleware` `mq` `mq9`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-RobustMQ is an open-source communication infrastructure designed for the AI era, offering a unified platform with a single binary, broker, and storage layer. It supports any protocol, allowing for seamless communication and data exchange between various systems. This flexible framework enables efficient data management and processing, making it an ideal solution for AI and machine learning applications.
+RobustMQ provides a unified, open‑source communication backbone designed for modern AI workloads. It combines a single binary that functions as both broker and storage layer, supporting any protocol to seamlessly connect data pipelines, model services, and backend components. The platform streamlines AI/ML and data engineering workflows by offering a scalable, protocol‑agnostic messaging infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/robustmq/robustmq) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/robustmq/robustmq) · [← Back to AI/ML](./README.md)</sub>

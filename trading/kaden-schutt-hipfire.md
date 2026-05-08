@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 338 |
-| 🍴 **Forks** | 30 |
+| ⭐ **Stars** | 351 |
+| 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amd-gpu` `gpu-computing` `hip` `llm-inference` `machine-learning` `quantization` `rdna` `rocm` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-The hipfire project is an open-source, RDNA-native Large Language Model (LLM) inference engine developed in Rust. It is designed to provide high-performance LLM inference capabilities, optimized for Radeon RDNA graphics processing units. This project has the potential to accelerate AI and machine learning applications, particularly in the realm of trading and other computationally intensive tasks.
+Kaden‑Schutt/hipfire is a high‑performance, RDNA‑native inference engine for large language models, written entirely in Rust. By leveraging AMD’s RDNA GPU architecture, it delivers fast, low‑latency LLM inference without relying on external frameworks, making it ideal for AI‑driven trading and other low‑latency ML applications. The project is open source and aims to provide a lightweight, GPU‑first alternative for developers building real‑time AI solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Kaden-Schutt/hipfire) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Kaden-Schutt/hipfire) · [← Back to Trading](./README.md)</sub>

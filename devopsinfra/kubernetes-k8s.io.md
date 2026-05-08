@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 950 |
+| ⭐ **Stars** | 951 |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | HCL |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`k8s-sig-infra` `kubernetes`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The kubernetes/k8s.io project is an open-source repository that manages the infrastructure for the Kubernetes project, including various *.k8s.io sites. This project contains code and configuration necessary for maintaining the Kubernetes ecosystem's underlying infrastructure. It falls under the DevOps/Infra category, supporting the continuous development and operation of the Kubernetes project.
+The **kubernetes/k8s.io** repository houses the code, configuration, and automation scripts that power the Kubernetes project's infrastructure, including the suite of *.k8s.io web sites (such as the documentation portal, community pages, and release dashboards). It provides the Terraform, Prow, Helm, and other DevOps tooling needed to provision, maintain, and evolve the cloud‑native environment that supports the Kubernetes community and its continuous integration pipelines. This open‑source project serves as the definitive source of truth for the operational plumbing behind the Kubernetes ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/kubernetes/k8s.io) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kubernetes/k8s.io) · [← Back to DevOps & Infra](./README.md)</sub>

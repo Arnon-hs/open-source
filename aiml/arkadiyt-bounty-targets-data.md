@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 654 |
+| 🍴 **Forks** | 656 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bounty` `bug` `bugcrowd` `federacy` `hackenproof` `hackerone` `intigriti` `vrp` `yeswehack`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-This open-source project, arkadiyt/bounty-targets-data, provides hourly-updated data dumps of eligible bug bounty platform scopes from various platforms, including Hackerone, Bugcrowd, and Intigriti. The repository offers a comprehensive dataset for researchers and developers working in AI/ML and data-related fields. This data can be used for analysis, research, or other purposes related to bug bounty platforms.
+The **arkadiyt/bounty-targets-data** repository provides regularly refreshed (hourly) data dumps of the public scopes from major bug‑bounty platforms such as HackerOne, Bugcrowd, Intigriti, and others. These curated datasets list programs and assets that are currently eligible for vulnerability reports, making them a valuable resource for security researchers, automation tools, and data‑driven bug‑bounty workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/arkadiyt/bounty-targets-data) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/arkadiyt/bounty-targets-data) · [← Back to AI/ML](./README.md)</sub>

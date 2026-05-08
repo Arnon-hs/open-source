@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | C |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-CMake is an open-source build system and toolchain used to generate build files for various platforms. It allows users to create and manage complex build processes for software projects, providing a flexible and cross-platform approach. This project provides a mirror of the upstream CMake repository, making CMake's source code and features accessible to a wider community.
+Kitware’s **CMake** repository is a mirror of the official upstream CMake source code, providing the latest builds, patches, and release tags for the widely used cross‑platform build system. It serves as a central point for contributors and users to access, clone, and track development of CMake’s core features, modules, and documentation. This open‑source project facilitates collaboration, bug reporting, and integration with Kitware’s ecosystem while remaining compatible with the primary CMake project.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/Kitware/CMake) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Kitware/CMake) · [← Back to Misc](./README.md)</sub>

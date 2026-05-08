@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 340 |
-| 🍴 **Forks** | 319 |
+| ⭐ **Stars** | 339 |
+| 🍴 **Forks** | 322 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`energy-system-model` `energy-system-planning` `investment-optimization` `operational-optimization` `power-system-model` `power-system-planning` `pypsa-africa` `pypsa-earth` `python` `scenario-analysis`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-PyPSA-Earth is an open-source, Python-based optimization model that enables the study of global energy system futures. This flexible framework allows users to analyze and design sustainable, low-carbon energy systems at various scales and locations around the world. By leveraging PyPSA-Earth, researchers and stakeholders can explore different energy scenarios, evaluate policy options, and identify pathways for a cleaner, more resilient energy future.
+PyPSA‑Earth is an open‑source, Python‑based optimisation framework that extends the PyPSA power‑system modelling toolkit to enable comprehensive, spatially resolved energy system analyses for any country or region worldwide. It integrates high‑resolution demand, renewable resource, and infrastructure data, allowing users to simulate and compare diverse decarbonisation pathways, policy scenarios, and technology mixes. The modular design supports custom extensions, making it a versatile tool for researchers, planners, and policymakers working on global energy transition studies.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/pypsa-meets-earth/pypsa-earth) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/pypsa-meets-earth/pypsa-earth) · [← Back to Misc](./README.md)</sub>

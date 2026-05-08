@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 426 |
 | 💻 **Language** | C |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arrays` `data-science` `earth-observation` `geospatial` `geospatial-analysis` `gis` `grass-gis` `hacktoberfest` `image-processing` `jupyter` `machine-learning` `open-science`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-GRASS is a free and open-source geospatial processing engine that offers a comprehensive set of tools for data analysis, visualization, and management. This powerful platform supports various data types and formats, making it an ideal solution for geospatial professionals and researchers. With its modular design and extensive community support, GRASS provides a flexible and customizable environment for geospatial processing and modeling.
+GRASS GIS (Geographic Resources Analysis Support System) is a powerful, free, and open‑source geospatial processing engine that provides raster, vector, and temporal data management, analysis, and visualization capabilities. Developed by the OSGeo community, it offers a comprehensive suite of tools for spatial modeling, remote sensing, and landscape ecology, and integrates with a wide range of external GIS software.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/OSGeo/grass) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/OSGeo/grass) · [← Back to Data](./README.md)</sub>

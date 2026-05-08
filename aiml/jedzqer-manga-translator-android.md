@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 288 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 297 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `app` `comic` `comic-reader` `llm` `manga` `translator`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-This open-source project, "manga-translator-android", is a mobile app that utilizes Large Language Models (LLM) to provide instant automatic translation for manga content. The app aims to bridge language gaps and make manga accessible to a broader audience. By leveraging AI-driven technology, it enables seamless translation of manga on mobile devices.
+jEDZQer manga‑translator‑android is an Android app that provides instant, automatic translation of manga panels directly on a mobile device. Leveraging large‑language‑model (LLM) capabilities, the app detects text within comic images, translates it in real time, and overlays the translated captions for seamless reading. It combines AI/ML-powered OCR and translation with a mobile‑friendly interface for on‑the‑go manga fans.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/jedzqer/manga-translator-android) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jedzqer/manga-translator-android) · [← Back to AI/ML](./README.md)</sub>

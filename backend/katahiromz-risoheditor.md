@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cxx` `editor` `executable` `resource-editor` `resources` `win32` `win32api` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-RisohEditor is a free, open-source Win32 resource editor designed for backend development. This project provides a user-friendly interface for editing Windows resources, offering a flexible and customizable solution for developers working with Windows applications. By utilizing RisohEditor, developers can easily manage and modify resource files, streamlining their development workflow.
+RisohEditor is an open‑source Win32 resource editor that lets developers view, modify, and create resources (such as dialogs, icons, strings, and version information) within Windows executable files. Built with a lightweight backend architecture, it provides a straightforward GUI for editing both binary and textual resource data without requiring proprietary tools. The project targets developers who need a free, portable solution for managing Windows resources.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/katahiromz/RisohEditor) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/katahiromz/RisohEditor) · [← Back to Backend](./README.md)</sub>

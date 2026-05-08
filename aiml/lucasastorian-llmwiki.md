@@ -1,6 +1,6 @@
 # lucasastorian/llmwiki
 
-[![Stars](https://img.shields.io/github/stars/lucasastorian/llmwiki?style=flat-square&color=yellow)](https://github.com/lucasastorian/llmwiki/stargazers) [![Forks](https://img.shields.io/github/forks/lucasastorian/llmwiki?style=flat-square&color=blue)](https://github.com/lucasastorian/llmwiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lucasastorian/llmwiki?style=flat-square&color=yellow)](https://github.com/lucasastorian/llmwiki/stargazers) [![Forks](https://img.shields.io/github/forks/lucasastorian/llmwiki?style=flat-square&color=blue)](https://github.com/lucasastorian/llmwiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 805 |
-| 🍴 **Forks** | 124 |
+| ⭐ **Stars** | 833 |
+| 🍴 **Forks** | 128 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai-agents` `claude` `karpathy` `knowledge-base` `llm` `llm-wiki` `mcp` `mcp-server` `rag` `supabase`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The LLMWiki project is an open-source implementation of Andrej Karpathy's concept for an AI-powered wiki. It allows users to upload documents and connect their Claude account via MCP, enabling the system to generate content and create a personalized wiki. This project is a backend-focused AI/ML initiative that combines natural language processing with user-generated content.
+lucasastorian/llmwiki is an open‑source backend that brings Andrej Karpathy’s “LLM Wiki” concept to life. It lets users upload documents, link their Claude account through the MCP integration, and automatically generate and maintain a personal wiki powered by large language models. The project provides a ready‑to‑run service for AI‑driven knowledge management and collaborative content creation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/lucasastorian/llmwiki) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/lucasastorian/llmwiki) · [← Back to AI/ML](./README.md)</sub>

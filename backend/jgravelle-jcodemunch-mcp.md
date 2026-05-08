@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 286 |
+| 🍴 **Forks** | 287 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code` `serena` `token` `token-savings` `tokens`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-jcodemunch-mcp is an open-source, highly efficient MCP (Metadata Content Parser) server for exploring GitHub source code. Utilizing tree-sitter AST parsing, this project enables fast and accurate analysis of code structures. It is a leading solution for developers seeking to extract valuable insights from GitHub repositories.
+jcodemunch‑MCP is a high‑performance, token‑efficient MCP (Meta‑Code‑Protocol) server designed for exploring GitHub source‑code repositories. It leverages tree‑sitter’s abstract syntax tree parsing to provide fast, language‑agnostic code navigation and analysis, making it ideal for backend services that need precise, low‑overhead code insight.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/jgravelle/jcodemunch-mcp) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jgravelle/jcodemunch-mcp) · [← Back to Backend](./README.md)</sub>

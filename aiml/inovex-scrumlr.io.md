@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agile` `collaboration` `communication` `golang` `no-login-web-apps` `online-tool` `react` `responsive` `retrospectives` `scrum` `single-page-app` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Scrumlr.io is an open-source web application that facilitates collaborative online retrospectives, providing a platform for teams to reflect and improve their processes. This tool enables team members to share their experiences, discuss challenges, and identify areas for growth in a secure and user-friendly environment. By promoting open communication and collective problem-solving, Scrumlr.io supports agile team development and continuous improvement.
+Inovex / scrumlr.io is an open‑source web application that enables teams to run collaborative retrospectives in real time, offering interactive boards, voting, and timer features to facilitate agile feedback sessions. Built with a modern frontend stack, it provides a responsive, browser‑based UI that can be self‑hosted or deployed to the cloud, making it easy to integrate into existing development workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/inovex/scrumlr.io) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/inovex/scrumlr.io) · [← Back to AI/ML](./README.md)</sub>

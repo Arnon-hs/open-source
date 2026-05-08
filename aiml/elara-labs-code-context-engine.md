@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 67 |
-| 🍴 **Forks** | 14 |
+| ⭐ **Stars** | 92 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-coding` `claude` `claude-code` `code-indexing` `cursor` `llm-tools` `mcp-server` `open-source` `save-tokens` `token-savings`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Code Context Engine is an open-source project that aims to optimize AI-powered coding tools by reducing unnecessary token consumption. It achieves this through local MCP server integration, AST indexing, and hybrid search, enabling developers to save over 70% on tokens. By leveraging cross-session memory, the engine improves the efficiency of AI-driven coding assistance.
+The **elara‑labs/code‑context‑engine** is an open‑source backend that indexes an entire codebase and lets AI models retrieve relevant snippets via search, eliminating the need for the model to read raw files and cutting Claude code token usage by about 94%. It runs locally on a lightweight MCP server, providing a free, self‑hosted solution for fast, context‑aware code assistance. Suitable for developers looking to integrate AI‑driven code queries while keeping costs and data exposure minimal.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/elara-labs/code-context-engine) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/elara-labs/code-context-engine) · [← Back to AI/ML](./README.md)</sub>
