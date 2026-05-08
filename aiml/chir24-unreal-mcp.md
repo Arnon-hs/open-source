@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 583 |
-| 🍴 **Forks** | 102 |
+| ⭐ **Stars** | 586 |
+| 🍴 **Forks** | 104 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mcp` `mcp-server` `unreal-engine` `unreal-engine-5`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the ChiR24/Unreal_mcp project:
-
-ChiR24/Unreal_mcp is an open-source Model Context Protocol (MCP) server that empowers AI assistants to seamlessly integrate with Unreal Engine, unlocking new possibilities for AI-driven game development and automation. Built using TypeScript and C++, this comprehensive server utilizes the native C++ Automation Bridge plugin to enable AI assistants to control Unreal Engine with ease. By bridging AI and game development, ChiR24/Unreal_mcp revolutionizes the way developers create immersive gaming experiences.
+ChiR24/Unreal_mcp is an open‑source Model Context Protocol (MCP) server that lets AI assistants command Unreal Engine via the native C++ Automation Bridge plugin. Written in TypeScript for the server side and C++ for the bridge integration, it provides a full‑stack solution for seamless AI‑driven control of Unreal projects. The project bridges frontend AI workflows with backend Unreal automation, making it useful for developers building intelligent game‑engine interfaces.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ChiR24/Unreal_mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ChiR24/Unreal_mcp) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 187 |
+| ⭐ **Stars** | 1.5k |
+| 🍴 **Forks** | 194 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docx` `epub` `gemini` `gemini-api` `llm` `lmstudio` `local-llm` `localization-tool` `mistral` `ollama` `openai-api` `openrouter`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The TranslateBooksWithLLMs project is an open-source tool that utilizes Large Language Models (LLMs) to translate full-length books and documents while preserving their original formatting. This project supports various LLMs, including Ollama, OpenAI, Gemini, Mistral, Poe, and OpenRouter, allowing for seamless and continuous translation with no file size limits. The tool also offers the ability to resume translations from where they were left off.
+TranslateBooksWithLLMs is an open‑source backend that lets you translate entire books and documents using a variety of large language model providers—including Ollama, OpenAI‑compatible APIs, Gemini, Mistral, Poe, and OpenRouter—while preserving the original formatting and allowing you to resume interrupted jobs. It imposes no file‑size limits, making it suitable for handling large manuscripts and multi‑page PDFs. The project is categorized under AI/ML and Backend.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/hydropix/TranslateBooksWithLLMs) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/hydropix/TranslateBooksWithLLMs) · [← Back to AI/ML](./README.md)</sub>

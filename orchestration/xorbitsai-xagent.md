@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 236 |
-| 🍴 **Forks** | 36 |
+| ⭐ **Stars** | 240 |
+| 🍴 **Forks** | 38 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `claude` `gemini` `llm` `no-code` `openai` `orchestration` `xinference`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the xorbitsai/xagent project:
-
-The xorbitsai/xagent project offers a production-ready platform for dynamic AI agents that can be planned, used, and integrated with various tools without hardcoded workflows. This flexible platform enables users to complete real-world tasks and projects efficiently. By leveraging xagent, users can unlock the full potential of AI and machine learning capabilities in a scalable and customizable manner.
+xorbitsai / xagent is a production‑ready framework that lets developers build dynamic AI agents capable of planning, invoking tools, and executing real‑world tasks without relying on hard‑coded workflows. It provides orchestration primitives, tool‑integration APIs, and runtime management so agents can adapt their behavior on the fly and reliably complete complex, multi‑step jobs. The platform targets AI/ML and product teams looking to deploy autonomous, self‑directed agents at scale.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/xorbitsai/xagent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/xorbitsai/xagent) · [← Back to Orchestration](./README.md)</sub>

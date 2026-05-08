@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 352 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cpp` `engine` `framework` `medical` `physics` `real-time` `research` `simulation` `sofa-framework`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the sofa-framework/sofa project:
-
-The sofa-framework/sofa project is an open-source, real-time multi-physics simulation platform that specializes in medical simulation applications. It provides a versatile framework for researchers and developers to model and analyze complex physical interactions in various medical contexts. This platform enables the creation of realistic simulations for training, research, and education in the medical field.
+SOFA (Simulation Open Framework Architecture) is an open‑source platform for real-time multi‑physics simulation, designed especially for medical training and research. It provides a modular, plugin‑based architecture that integrates deformable models, fluid dynamics, collision handling, and advanced numerical solvers, enabling developers to build interactive, high‑fidelity simulations of tissues, organs, and surgical tools. The framework’s extensibility and real‑time performance make it a popular choice for creating realistic medical simulation applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/sofa-framework/sofa) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/sofa-framework/sofa) · [← Back to Misc](./README.md)</sub>

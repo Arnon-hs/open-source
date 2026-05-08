@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `d3d` `graphics-library` `ios` `metal` `opengl` `pdf` `rust-bindings` `skia` `svg` `vulkan`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The rust-skia project provides a set of Rust bindings for the Skia Graphics Library, a powerful open-source 2D rendering engine used in various mobile applications. This open-source initiative aims to bring the functionality of Skia to the Rust programming language, allowing developers to leverage its capabilities for building high-performance mobile graphics applications. By providing a Rust interface to Skia, this project enables cross-platform graphics development with a focus on mobile platforms.
+Rust‑Skia provides safe, idiomatic Rust bindings to Google’s Skia graphics engine, enabling developers to render 2D graphics, text, and images across platforms—including mobile, desktop, and WebAssembly. The library wraps Skia’s powerful GPU‑accelerated APIs while exposing a Rust‑friendly interface for drawing paths, shaders, and animations. It’s ideal for building high‑performance, cross‑platform UI and game graphics in Rust.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/rust-skia/rust-skia) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rust-skia/rust-skia) · [← Back to Mobile](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`active-job` `activejob-backend` `apache-kafka` `background-jobs` `events` `kafka` `kafka-client` `kafka-clients` `kafka-consumer` `kafka-manager` `kafka-monitor` `kafka-producer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Karafka is an open-source, efficient Kafka processing framework designed for Ruby and Rails applications. It provides a streamlined approach to building scalable and fault-tolerant data processing pipelines, making it ideal for real-time data integration and event-driven architectures. By leveraging Karafka, developers can simplify their Kafka workflows and focus on building robust, high-performance applications.
+Karafka is an open‑source Ruby framework that streamlines building robust, high‑performance Kafka consumers and producers within Ruby and Rails applications. It abstracts away low‑level Kafka client details, offering a clean DSL, automatic partition handling, error management, and seamless integration with Rails’ ecosystem. Ideal for backend services and data pipelines, Karafka enables developers to process streaming data efficiently while leveraging familiar Ruby conventions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/karafka/karafka) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/karafka/karafka) · [← Back to AI/ML](./README.md)</sub>

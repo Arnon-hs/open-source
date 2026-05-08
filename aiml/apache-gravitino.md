@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 819 |
+| 🍴 **Forks** | 821 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-catalog` `data-catalog` `datalake` `federated-query` `lakehouse` `metadata` `metalake` `model-catalog` `opendatacatalog` `skycomputing` `stratosphere`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a summary for the apache/gravitino project:
-
-Gravitino is an open-source data catalog designed to build high-performance, geo-distributed, and federated metadata lakes. This project enables the creation of a powerful metadata management system, ideal for large-scale AI and ML applications that rely on data from multiple sources. By providing a scalable and flexible data catalog, Gravitino empowers users to efficiently manage and integrate their data assets.
+Apache Gravitino is an open‑source, high‑performance data catalog that provides a unified, federated metadata lake across geo‑distributed environments. It enables seamless data discovery, governance, and access control for AI/ML, analytics, and other data‑intensive workloads, integrating with modern data warehouses, lakes, and processing engines. By abstracting storage and compute layers, Gravitino simplifies metadata management while ensuring consistency, security, and scalability.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/apache/gravitino) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/apache/gravitino) · [← Back to AI/ML](./README.md)</sub>

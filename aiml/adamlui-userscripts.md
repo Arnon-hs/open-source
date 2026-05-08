@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 350 |
-| 🍴 **Forks** | 20 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `amazon` `brave-search` `chatgpt` `discourse` `duckduckgo` `github` `google` `gpt-5` `greasemonkey` `javascript` `openai`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This project, adamlui/userscripts, is an open-source collection of Greasemonkey userscripts, written in a frontend-focused context. The scripts showcased in this repository can enhance user experience and automate tasks on websites. By leveraging AI/ML techniques, these userscripts provide users with a more streamlined and efficient browsing experience.
+adamlui/userscripts is an open‑source collection of Greasemonkey/Tampermonkey userscripts designed to enhance web browsing experiences with lightweight, client‑side tweaks. While primarily focused on frontend UI improvements, the repository also includes experimental scripts that leverage simple AI/ML techniques for tasks such as content summarization or on‑page automation. The project provides easily installable, well‑documented scripts that users can customize to streamline their daily web interactions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/adamlui/userscripts) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/adamlui/userscripts) · [← Back to AI/ML](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Highcharts JS is an open-source JavaScript charting framework that enables the creation of interactive and customizable visualizations. With a wide range of chart types and features, it allows developers to easily integrate dynamic and engaging charts into web applications. This powerful tool is widely used to present data in a clear and intuitive manner, facilitating data analysis and interpretation.
+Highcharts is a powerful, pure‑JavaScript charting library that enables developers to create interactive, responsive charts for web applications with minimal effort. It supports a wide variety of chart types—such as line, bar, pie, scatter, and heatmaps—along with extensive customization options, exporting capabilities, and accessibility features. As an open‑source project, Highcharts provides a flexible foundation for visualizing data while offering premium modules for advanced functionality.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/highcharts/highcharts) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/highcharts/highcharts) · [← Back to Misc](./README.md)</sub>

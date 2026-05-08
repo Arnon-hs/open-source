@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 521 |
+| ⭐ **Stars** | 523 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`actions` `cli` `dependencies` `github-actions` `security` `workflow`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the azat-io/actions-up project:
-
-azat-io/actions-up is an interactive Command-Line Interface (CLI) tool designed to update GitHub Actions to their latest versions while maintaining SHA pinning for enhanced security. This open-source project aims to streamline the process of keeping GitHub Actions up-to-date, ensuring users have access to the latest features and security patches. By using actions-up, developers can easily manage their GitHub Actions dependencies and stay secure.
+azat-io/actions-up is an interactive command‑line utility that scans a repository’s workflow files and upgrades GitHub Actions to their newest releases, automatically applying SHA pinning for deterministic builds. By streamlining version updates and enforcing precise commit references, it helps developers keep CI pipelines secure and up‑to‑date.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/azat-io/actions-up) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/azat-io/actions-up) · [← Back to DevTools](./README.md)</sub>

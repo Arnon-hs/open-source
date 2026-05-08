@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**127 projects** in this category.
+**128 projects** in this category.
 
 ## Projects
 
@@ -113,28 +113,29 @@
 | 103 | [AJenbo/phpantom_lsp](./ajenbo-phpantom-lsp.md) | ⭐ 658 | Rust | 55/100 |
 | 104 | [getsentry/sentry-rust](./getsentry-sentry-rust.md) | ⭐ 729 | Rust | 55/100 |
 | 105 | [greenbone/gvmd](./greenbone-gvmd.md) | ⭐ 359 | C | 55/100 |
-| 106 | [jkroepke/openvpn-auth-oauth2](./jkroepke-openvpn-auth-oauth2.md) | ⭐ 470 | Go | 54/100 |
-| 107 | [mateeeeeee/Adria](./mateeeeeee-adria.md) | ⭐ 541 | C++ | 54/100 |
-| 108 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 462 | — | 54/100 |
-| 109 | [ancsemi/Haven](./ancsemi-haven.md) | ⭐ 420 | JavaScript | 54/100 |
-| 110 | [databay-labs/free-proxy-list](./databay-labs-free-proxy-list.md) | ⭐ 591 | — | 54/100 |
-| 111 | [kiriwalawren/nixflix](./kiriwalawren-nixflix.md) | ⭐ 339 | Nix | 53/100 |
-| 112 | [knative/client](./knative-client.md) | ⭐ 383 | Go | 52/100 |
-| 113 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 426 | Rust | 52/100 |
-| 114 | [googleapis/google-cloud-rust](./googleapis-google-cloud-rust.md) | ⭐ 918 | Rust | 52/100 |
-| 115 | [NVlabs/cutile-rs](./nvlabs-cutile-rs.md) | ⭐ 285 | Rust | 51/100 |
-| 116 | [komapper/komapper](./komapper-komapper.md) | ⭐ 339 | Kotlin | 51/100 |
-| 117 | [av1155/houndarr](./av1155-houndarr.md) | ⭐ 203 | Python | 51/100 |
-| 118 | [cablehead/http-nu](./cablehead-http-nu.md) | ⭐ 129 | Rust | 51/100 |
-| 119 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 50/100 |
-| 120 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 48/100 |
-| 121 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
-| 122 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
-| 123 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
-| 124 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
-| 125 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
-| 126 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
-| 127 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
+| 106 | [WFCD/warframe-items](./wfcd-warframe-items.md) | ⭐ 374 | TypeScript | 54/100 |
+| 107 | [jkroepke/openvpn-auth-oauth2](./jkroepke-openvpn-auth-oauth2.md) | ⭐ 470 | Go | 54/100 |
+| 108 | [mateeeeeee/Adria](./mateeeeeee-adria.md) | ⭐ 541 | C++ | 54/100 |
+| 109 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 462 | — | 54/100 |
+| 110 | [ancsemi/Haven](./ancsemi-haven.md) | ⭐ 420 | JavaScript | 54/100 |
+| 111 | [databay-labs/free-proxy-list](./databay-labs-free-proxy-list.md) | ⭐ 591 | — | 54/100 |
+| 112 | [kiriwalawren/nixflix](./kiriwalawren-nixflix.md) | ⭐ 339 | Nix | 53/100 |
+| 113 | [knative/client](./knative-client.md) | ⭐ 383 | Go | 52/100 |
+| 114 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 426 | Rust | 52/100 |
+| 115 | [googleapis/google-cloud-rust](./googleapis-google-cloud-rust.md) | ⭐ 918 | Rust | 52/100 |
+| 116 | [NVlabs/cutile-rs](./nvlabs-cutile-rs.md) | ⭐ 285 | Rust | 51/100 |
+| 117 | [komapper/komapper](./komapper-komapper.md) | ⭐ 339 | Kotlin | 51/100 |
+| 118 | [av1155/houndarr](./av1155-houndarr.md) | ⭐ 203 | Python | 51/100 |
+| 119 | [cablehead/http-nu](./cablehead-http-nu.md) | ⭐ 129 | Rust | 51/100 |
+| 120 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 50/100 |
+| 121 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 48/100 |
+| 122 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
+| 123 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
+| 124 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
+| 125 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
+| 126 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
+| 127 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
+| 128 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
 
 ---
 

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 372 |
-| 🍴 **Forks** | 69 |
+| ⭐ **Stars** | 374 |
+| 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `drop-rates` `ducats` `items` `patchlogs` `rivens` `warframe` `warframe-api` `warframe-items`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-This open-source project, WFCD/warframe-items, provides a direct interface to Warframe's API, allowing users to access and retrieve Warframe item data without relying on outdated wikia scraping methods. The project aims to simplify the process of collecting and utilizing Warframe item data for backend applications and developers. Its open-source nature facilitates collaboration and ensures the availability of accurate and up-to-date information.
+WFCD/warframe-items is a lightweight backend library that fetches comprehensive item data directly from Warframe’s official API, eliminating the need for unreliable wiki scraping. It provides clean, structured access to weapons, mods, resources, and other in‑game objects, making integration into tools or services fast and maintainable.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/WFCD/warframe-items) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/WFCD/warframe-items) · [← Back to Backend](./README.md)</sub>

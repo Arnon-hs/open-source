@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 144 |
+| 🍴 **Forks** | 145 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-YueChan/Live is an open-source project that aggregates a collection of high-definition live streaming sources found on the internet. This repository serves as a centralized hub for accessing various live streams from around the world. By providing a single point of access, users can easily discover and enjoy a wide range of live content.
+YueChan/Live is an open‑source repository that aggregates a collection of high‑definition live streaming URLs sourced from across the internet. It provides a curated list of HD streams for various content categories, making it easy for users to discover and access quality live video feeds.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/YueChan/Live) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/YueChan/Live) · [← Back to Misc](./README.md)</sub>

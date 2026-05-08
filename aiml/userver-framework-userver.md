@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 387 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`async` `asynchronous` `coroutines` `cplusplus` `cplusplus-20` `cpp20` `database-access` `framework` `grpc` `high-availability` `http` `http-client`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Userver is an open-source, production-ready C++ asynchronous framework designed for building scalable and efficient backend applications. With its rich set of functionalities, Userver provides a robust foundation for developers to create robust, high-performance systems. Its asynchronous architecture enables seamless handling of concurrent requests, making it an ideal choice for modern backend development.
+Userver is a production‑grade, asynchronous C++ framework that provides a comprehensive set of tools for building high‑performance backend services. It offers built‑in support for networking, databases, logging, metrics, testing, and modern C++ features, enabling developers to write scalable, maintainable services with minimal boilerplate. The project is open source and geared toward AI/ML, backend, and DevOps tooling use cases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/userver-framework/userver) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/userver-framework/userver) · [← Back to AI/ML](./README.md)</sub>

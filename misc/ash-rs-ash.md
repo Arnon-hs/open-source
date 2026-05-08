@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gamedev` `rust` `vulkan`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Ash is an open-source, Rust-based Vulkan binding designed to provide a safe and efficient interface for interacting with the Vulkan API. It enables Rust developers to leverage the power of Vulkan for graphics and compute applications while minimizing the risk of crashes and memory safety issues. With its focus on safety and performance, Ash aims to become the go-to Vulkan binding for Rust developers.
+Ash is a high‑performance, low‑level Rust wrapper for the Vulkan graphics API, providing safe and idiomatic bindings that let developers interact directly with Vulkan’s functionality while leveraging Rust’s type system and memory safety guarantees. It mirrors the official Vulkan C API closely, exposing all core, extension, and platform‑specific features, and includes utilities for instance and device creation, error handling, and command‑buffer management. The project is actively maintained, well‑documented, and widely used in the Rust graphics ecosystem for building games, engines, and GPU‑compute applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/ash-rs/ash) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ash-rs/ash) · [← Back to Misc](./README.md)</sub>

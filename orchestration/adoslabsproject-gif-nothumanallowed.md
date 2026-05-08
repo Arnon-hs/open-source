@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 85 |
+| ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentai` `ai` `ai-agents` `anthropic` `automation` `cli` `consensus` `llm` `machine-learning` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The adoslabsproject-gif/nothumanallowed is an open-source, security-first platform for AI agents, providing a robust framework for building and managing complex AI systems. With 38 specialized agents and 15 AI-powered extensions, it offers a comprehensive solution for zero-knowledge multi-agent orchestration, ensuring secure and efficient AI operations. This platform also features advanced security measures, including SENTINEL WAF and Ed25519 authentication, backed by 2.6 million grounding facts for enhanced accuracy.
+A security‑first platform for AI agents, **adoslabsproject‑gif/nothumanallowed** provides a zero‑knowledge, multi‑agent orchestration framework that unites 38 specialized agents and 15 AI‑powered extensions, all protected by a Sentinel WAF and Ed25519 authentication. It leverages a curated knowledge base of 2.6 million grounding facts to enable trustworthy, high‑performance AI workflows across orchestration, machine‑learning, and backend services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/adoslabsproject-gif/nothumanallowed) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/adoslabsproject-gif/nothumanallowed) · [← Back to Orchestration](./README.md)</sub>

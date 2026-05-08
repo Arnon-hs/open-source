@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `api` `cli` `javascript` `npm` `plugins` `quickjs` `sandbox` `tools` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Michaelliv/runline project:
-
-Michaelliv/runline is an open-source project that provides a code mode for agents, enabling the development of robust and efficient AI/ML systems with powerful frontend and backend capabilities. This project is designed to accelerate the creation of intelligent agents, simplifying the process of building complex applications. By leveraging runline, developers can streamline their workflow and achieve faster time-to-market for their AI-driven projects.
+Michaelliv/runline is an open‑source library that adds a “code mode” to AI agents, enabling them to generate, edit, and execute code snippets on the fly. Designed for both frontend and backend contexts, it streamlines the interaction between language models and runnable code, making it easier to build dynamic, code‑driven applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Michaelliv/runline) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Michaelliv/runline) · [← Back to AI/ML](./README.md)</sub>

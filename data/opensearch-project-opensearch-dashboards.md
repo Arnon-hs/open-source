@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2k |
+| ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analytics` `apache2` `foss` `opensearch` `search`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-opensearch-project/OpenSearch-Dashboards is a promising open-source project. Categories: Data. Interest score: 76/100.
+OpenSearch Dashboards is an open‑source analytics and visualization platform built to work with OpenSearch, offering interactive charts, maps, and custom dashboards for exploring and presenting search data. It provides a flexible, plugin‑based UI for creating real‑time visualizations, managing saved searches, and building data‑driven applications without relying on proprietary software.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/opensearch-project/OpenSearch-Dashboards) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/opensearch-project/OpenSearch-Dashboards) · [← Back to Data](./README.md)</sub>

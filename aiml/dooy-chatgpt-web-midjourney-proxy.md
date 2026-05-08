@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chatgpt-ui` `fal-ai` `flux` `gpts` `ideogram` `kling` `luma` `midjourney-ui` `pika` `realtime` `riffusion` `runway`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, Dooy/chatgpt-web-midjourney-proxy, is a unified interface for various AI and ML tools, including ChatGPT, Midjourney, and others. It provides simultaneous support for multiple platforms such as Web, PWA, Linux, Windows, and MacOS, offering a seamless user experience. This project is a valuable resource for developers and users looking to leverage the capabilities of multiple AI tools in a single interface.
+Dooy/chatgpt‑web‑midjourney‑proxy is an all‑in‑one web UI that integrates ChatGPT, Midjourney, various GPT‑based assistants, Suno, Luma, Runway, Viggle, Flux, Ideogram, Realtime, Pika, and Udio into a single interface. It runs as a responsive web app, progressive web app (PWA), and native client on Linux, Windows, and macOS, providing a unified front‑end for multiple AI services.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/Dooy/chatgpt-web-midjourney-proxy) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Dooy/chatgpt-web-midjourney-proxy) · [← Back to AI/ML](./README.md)</sub>

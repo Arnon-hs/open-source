@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 136 |
+| ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-native` `ai` `cloudflare-workers` `framework` `llm` `llm-agent` `mcp` `mcp-server` `model-context-protocol` `opentelemetry` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the cyanheads/mcp-ts-core project:
-
-The cyanheads/mcp-ts-core project is an open-source, agent-native TypeScript framework designed to facilitate the development of MCP servers. This framework provides a declarative definition system with built-in support for authentication, multi-backend storage, and OpenTelemetry, while also offering seamless integration with popular platforms like Bun, Node, and Cloudflare Workers. By leveraging this framework, developers can build scalable and efficient MCP servers with ease.
+Cyanheads /mcp‑ts‑core is an agent‑native TypeScript framework designed for building high‑performance MCP (Message Control Protocol) servers. It offers declarative definitions, built‑in authentication, multi‑backend storage, OpenTelemetry tracing, and seamless compatibility with Bun, Node.js, and Cloudflare Workers. Ideal for projects at the intersection of crypto, AI/ML, and modern frontend architectures.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/cyanheads/mcp-ts-core) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/cyanheads/mcp-ts-core) · [← Back to Crypto](./README.md)</sub>

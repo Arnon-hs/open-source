@@ -1,23 +1,23 @@
 # liaohch3/claude-tap
 
-[![Stars](https://img.shields.io/github/stars/liaohch3/claude-tap?style=flat-square&color=yellow)](https://github.com/liaohch3/claude-tap/stargazers) [![Forks](https://img.shields.io/github/forks/liaohch3/claude-tap?style=flat-square&color=blue)](https://github.com/liaohch3/claude-tap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liaohch3/claude-tap?style=flat-square&color=yellow)](https://github.com/liaohch3/claude-tap/stargazers) [![Forks](https://img.shields.io/github/forks/liaohch3/claude-tap?style=flat-square&color=blue)](https://github.com/liaohch3/claude-tap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Tap into Claude Code API requests via a local reverse proxy. Inspect system prompts, messages, tools, and token usage.
+> Intercept and inspect API traffic from Claude Code, Codex CLI, OpenCode, and Cursor CLI in a trace viewer.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 165 |
-| 🍴 **Forks** | 24 |
+| ⭐ **Stars** | 250 |
+| 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-tools` `claude-code` `codex` `developer-tools` `llm` `proxy` `trace`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Claude-Tap is an open-source project that enables developers to inspect and tap into Claude Code API requests via a local reverse proxy. It provides a convenient way to inspect system prompts, messages, tools, and token usage, making it easier to understand and work with the Claude AI platform. This project is ideal for developers and researchers looking to leverage the power of AI while maintaining control over their code and data.
+The **claude‑tap** project provides a lightweight interceptor that captures and visualizes API traffic from Claude Code, Codex CLI, OpenCode, and the Cursor CLI. By routing requests through its proxy, developers can inspect request/response payloads in a trace viewer, making debugging and performance analysis of AI‑driven tools easier. The tool is open‑source, focused on backend and dev‑tool workflows, and integrates seamlessly with existing AI/ML development pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/liaohch3/claude-tap) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/liaohch3/claude-tap) · [← Back to AI/ML](./README.md)</sub>
