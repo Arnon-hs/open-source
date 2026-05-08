@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 986 |
-| 🍴 **Forks** | 293 |
+| 🍴 **Forks** | 292 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`daily` `extension` `nextjs` `react` `tailwindcss` `vercel` `webapp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The dailydotdev/apps project is an open-source application suite developed by daily.dev, aiming to provide a comprehensive set of tools for users. This suite encompasses various applications built with the integration of AI/ML and frontend technologies, offering a seamless user experience. By leveraging these cutting-edge technologies, dailydotdev/apps seeks to enhance productivity and streamline daily tasks.
+The **dailydotdev/apps** repository houses the full application suite for daily.dev, a platform that curates and delivers personalized developer news, tutorials, and community content. Built with modern frontend technologies and powered by AI/ML-driven recommendation engines, the suite provides a responsive, extensible UI for developers to discover, save, and share relevant resources across browsers and native environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/dailydotdev/apps) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dailydotdev/apps) · [← Back to AI/ML](./README.md)</sub>

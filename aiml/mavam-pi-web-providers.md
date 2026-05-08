@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `codex` `coding-agent` `content-extraction` `exa` `gemini` `parallel-web` `pi-extension` `pi-package` `typescript` `valyu` `web-research`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the mavam/pi-web-providers project:
-
-The mavam/pi-web-providers project is an open-source web extension that enables configurable access to various AI and ML providers, including Claude, Codex, Exa, Gemini, Parallel, and Valyu. This extension routes search queries, content requests, answer retrieval, and research across these providers, providing a flexible and unified interface for accessing their capabilities. By integrating with multiple providers, the project aims to enhance the efficiency and effectiveness of AI-driven applications and use cases.
+mavam/pi‑web‑providers is an open‑source extension that enhances the pi platform’s web‑access capabilities by routing queries for search, content retrieval, answers, and research through a configurable set of AI providers—including Claude, Codex, Exa, Gemini, Parallel, and Valyu. Users can select and combine these services to tailor performance, cost, and specialization for different tasks, making pi’s web‑enabled workflows more flexible and powerful.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/mavam/pi-web-providers) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mavam/pi-web-providers) · [← Back to AI/ML](./README.md)</sub>

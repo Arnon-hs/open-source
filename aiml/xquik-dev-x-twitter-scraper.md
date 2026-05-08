@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 65 |
+| ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `automation` `claude-code` `codex` `cursor` `data-extraction` `giveaway` `mcp` `mcp-server` `monitoring` `pay-per-use` `rest-api`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the Xquik-dev/x-twitter-scraper project:
-
-The Xquik-dev/x-twitter-scraper project is an open-source platform that enables AI coding agents to access and extract Twitter data through 111 REST API endpoints and various extraction types, significantly reducing costs to $0.00015 per call. This platform supports multiple AI coding agents, including Claude Code, Cursor, Codex, Copilot, and Windsurf, among others. By leveraging HMAC webhooks and MCP tools, developers can efficiently collect and analyze Twitter data for AI-powered applications.
+Xquik‑dev’s **x‑twitter‑scraper** is an open‑source data platform that lets AI coding agents interact with X (formerly Twitter) through a comprehensive suite of tools. It offers more than 100 REST API endpoints, two MCP utilities, 23 distinct extraction types, HMAC‑secured webhooks, SDKs, and ready‑to‑use automation workflows for both frontend and backend development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Xquik-dev/x-twitter-scraper) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Xquik-dev/x-twitter-scraper) · [← Back to AI/ML](./README.md)</sub>

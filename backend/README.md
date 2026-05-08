@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**145 projects** in this category.
+**146 projects** in this category.
 
 ## Projects
 
@@ -137,22 +137,23 @@
 | 127 | [huahua132/skynet_fly](./huahua132-skynet-fly.md) | ⭐ 521 | C | 53/100 |
 | 128 | [bivlked/amneziawg-installer](./bivlked-amneziawg-installer.md) | ⭐ 389 | Shell | 53/100 |
 | 129 | [kiriwalawren/nixflix](./kiriwalawren-nixflix.md) | ⭐ 339 | Nix | 53/100 |
-| 130 | [knative/client](./knative-client.md) | ⭐ 383 | Go | 52/100 |
-| 131 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 426 | Rust | 52/100 |
-| 132 | [googleapis/google-cloud-rust](./googleapis-google-cloud-rust.md) | ⭐ 918 | Rust | 52/100 |
-| 133 | [NVlabs/cutile-rs](./nvlabs-cutile-rs.md) | ⭐ 285 | Rust | 51/100 |
-| 134 | [komapper/komapper](./komapper-komapper.md) | ⭐ 339 | Kotlin | 51/100 |
-| 135 | [av1155/houndarr](./av1155-houndarr.md) | ⭐ 203 | Python | 51/100 |
-| 136 | [cablehead/http-nu](./cablehead-http-nu.md) | ⭐ 129 | Rust | 51/100 |
-| 137 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 50/100 |
-| 138 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 48/100 |
-| 139 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
-| 140 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
-| 141 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
-| 142 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
-| 143 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
-| 144 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
-| 145 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
+| 130 | [soxoj/awesome-osint-mcp-servers](./soxoj-awesome-osint-mcp-servers.md) | ⭐ 224 | — | 52/100 |
+| 131 | [knative/client](./knative-client.md) | ⭐ 383 | Go | 52/100 |
+| 132 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 426 | Rust | 52/100 |
+| 133 | [googleapis/google-cloud-rust](./googleapis-google-cloud-rust.md) | ⭐ 918 | Rust | 52/100 |
+| 134 | [NVlabs/cutile-rs](./nvlabs-cutile-rs.md) | ⭐ 285 | Rust | 51/100 |
+| 135 | [komapper/komapper](./komapper-komapper.md) | ⭐ 339 | Kotlin | 51/100 |
+| 136 | [av1155/houndarr](./av1155-houndarr.md) | ⭐ 203 | Python | 51/100 |
+| 137 | [cablehead/http-nu](./cablehead-http-nu.md) | ⭐ 129 | Rust | 51/100 |
+| 138 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 50/100 |
+| 139 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 48/100 |
+| 140 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
+| 141 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
+| 142 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
+| 143 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
+| 144 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
+| 145 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
+| 146 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
 
 ---
 

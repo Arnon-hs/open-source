@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-Fresco is an open-source Android library designed to handle image management and memory usage efficiently. It provides a framework for loading and rendering high-quality images while minimizing memory consumption, making it an ideal solution for applications with large numbers of images. By leveraging Fresco's capabilities, developers can create seamless and data-optimized image experiences for their users.
+Fresco is a powerful Android library that simplifies image loading, display, and caching while efficiently handling memory usage. It provides a flexible pipeline for streaming and progressive JPEGs, supports animated formats, and offers extensive customization options for developers building image‑heavy mobile apps.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/facebook/fresco) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/facebook/fresco) · [← Back to Mobile](./README.md)</sub>

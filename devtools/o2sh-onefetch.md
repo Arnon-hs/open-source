@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 306 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `command-line-interface` `git` `rust` `tool`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Onefetch is a command-line tool that provides detailed information about a Git repository. It offers a concise and easily readable format for displaying essential repository metrics, making it a valuable asset for developers and project maintainers. With onefetch, users can quickly access critical repository data from the comfort of their terminal.
+OneFetch is a fast, portable command‑line utility that displays a concise, visually appealing summary of a Git repository’s key statistics—such as the latest commit, branch list, language breakdown, and contributor count—directly in the terminal. By parsing the repository’s metadata without requiring a network connection, it helps developers quickly gauge project health and history while staying within their DevTools workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/o2sh/onefetch) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/o2sh/onefetch) · [← Back to DevTools](./README.md)</sub>

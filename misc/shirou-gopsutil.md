@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`go` `golang` `system-information`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The shirou/gopsutil project is an open-source implementation of psutil for the Go programming language. It provides a convenient interface to retrieve system and process information, such as CPU, memory, disk, and network usage, allowing developers to write more efficient and reliable Go applications. This library serves as a drop-in replacement for psutil, enabling users to leverage its extensive features and functionality in their Go projects.
+shirou/gopsutil is an open‑source Go library that provides cross‑platform utilities for retrieving system and process information, mirroring the functionality of Python’s psutil package. It offers simple, well‑documented APIs to query CPU, memory, disk, network, and process metrics on Linux, Windows, macOS, and other major operating systems. The project is lightweight, actively maintained, and suitable for building monitoring, diagnostics, or performance‑analysis tools in Go.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/shirou/gopsutil) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/shirou/gopsutil) · [← Back to Misc](./README.md)</sub>

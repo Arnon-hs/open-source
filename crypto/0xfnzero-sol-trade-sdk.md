@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`0slot` `0xfnzero` `bonk` `copy-trading` `fnzero` `jito-bundle` `letsbonk` `nextblock` `nozomi` `pumpfun` `pumpfun-bot` `pumpfun-sdk`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Trading · AI/ML
 
 ## 📝 Summary
 
-Here is a brief summary of the 0xfnzero/sol-trade-sdk project:
-
-This open-source project provides a high-performance Rust SDK for Solana DEX trading bots, designed for low-latency and high-throughput trading strategies. The SDK enables seamless interaction with multiple popular Solana DEX protocols, including PumpFun, Pump AMM, Bonk, and Raydium AMM. It is ideal for developers building latency-critical trading bots using AI/ML models and cryptographic techniques.
+The 0xfnzero/sol‑trade‑sdk is a Rust‑based, high‑performance SDK designed for ultra‑low‑latency trading bots on Solana. It provides fast, high‑throughput APIs for interacting with a range of DEXs—including PumpFun, PumpSwap, Bonk, Meteora DAMM v2, Raydium AMM v4, and Raydium CPMM—making it ideal for latency‑critical crypto trading strategies.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/0xfnzero/sol-trade-sdk) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/0xfnzero/sol-trade-sdk) · [← Back to Crypto](./README.md)</sub>

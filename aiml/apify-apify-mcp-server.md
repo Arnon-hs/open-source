@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 162 |
+| 🍴 **Forks** | 164 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-The Apify MCP server is an open-source project that provides a scalable platform for extracting data from various websites, including social media, search engines, maps, and e-commerce sites. It leverages thousands of pre-built scrapers, crawlers, and automation tools available on the Apify Store to streamline data collection for AI agents and applications. This platform empowers developers to efficiently scrape and process web data at scale.
+The Apify MCP server is an open‑source backend that lets AI agents tap into Apify’s extensive library of ready‑made scrapers, crawlers, and automation tools for extracting data from social media, search engines, maps, e‑commerce platforms and any other website. By integrating with the Apify Store, it provides a scalable, plug‑and‑play solution for AI‑driven web data collection and processing.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/apify/apify-mcp-server) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/apify/apify-mcp-server) · [← Back to AI/ML](./README.md)</sub>

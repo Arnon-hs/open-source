@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 66 |
+| ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude` `claude-ai` `claude-code` `claude-code-plugin` `claude-code-skill` `claude-desktop` `claude-skill` `claude-skills` `code-intelligence` `codex` `codex-skill`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The trace-mcp project is an open-source MCP (Meta Control Protocol) server designed for Claude Code and Codex, significantly reducing the time required for agent exploration by replacing one tool call. This project is categorized under AI/ML, Backend, and DevTools, making it a valuable resource for developers working with these technologies. By utilizing trace-mcp, developers can streamline their workflows and improve overall efficiency.
+The **trace‑mcp** project provides a lightweight MCP (Message Control Protocol) server that bridges Claude Code and Codex, enabling seamless communication between these AI coding assistants and external tools. By handling a single “tool call” through the server, it can replace roughly 42 minutes of manual agent exploration, dramatically speeding up code‑generation workflows. It’s designed as an open‑source backend utility for AI/ML developers and DevOps teams.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/nikolai-vysotskyi/trace-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/nikolai-vysotskyi/trace-mcp) · [← Back to AI/ML](./README.md)</sub>

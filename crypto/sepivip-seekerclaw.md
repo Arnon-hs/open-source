@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 103 |
+| ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `android` `anthropic` `claude` `jetpack-compose` `kotlin` `nodejs` `openclaw` `solana` `telegram-bot`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Mobile
 
 ## 📝 Summary
 
-The SeekerClaw project transforms your Android device into a 24/7 personal AI agent, leveraging the capabilities of the Solana Seeker. This open-source initiative empowers users to harness their mobile device's potential in a more productive and autonomous way. By integrating AI and machine learning functionalities, SeekerClaw aims to revolutionize the way we interact with our mobile devices.
+SeekerClaw turns a Solana Seeker hardware wallet—or any Android smartphone—into a continuously running personal AI assistant, leveraging on‑device language models to provide secure, offline interactions. The open‑source project integrates crypto wallet functionality with AI/ML capabilities, enabling users to query balances, sign transactions, and perform everyday tasks through voice or text without relying on external servers. It’s designed for privacy‑focused mobile users who want a 24/7 AI companion that also manages their crypto assets.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/sepivip/SeekerClaw) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/sepivip/SeekerClaw) · [← Back to Crypto](./README.md)</sub>

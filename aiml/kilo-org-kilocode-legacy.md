@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 37 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 38 |
+| 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-age` `ai-coding` `ai-developer-tools` `chatgpt` `claude` `cli` `gemini` `jetbrains` `sonnet` `vscode` `vscode-extension`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The kilocode-legacy project is an open-source, all-in-one agentic engineering platform that enables developers to build, ship, and iterate on software projects more efficiently. This platform leverages AI/ML capabilities to streamline coding processes, making it a popular choice among developers. By utilizing kilocode-legacy, users can accelerate their development workflows and stay competitive in today's fast-paced tech landscape.
+Kilo is an open‑source, all‑in‑one platform for agentic engineering that lets developers build, ship, and iterate on code with the help of a powerful coding agent. It combines AI‑driven assistance, a modern frontend interface, and a suite of dev‑tools to streamline the entire software development workflow. The project targets AI/ML enthusiasts, frontend engineers, and tooling creators who want a versatile, community‑maintained coding assistant.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/Kilo-Org/kilocode-legacy) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Kilo-Org/kilocode-legacy) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 111 |
-| 🍴 **Forks** | 7 |
+| ⭐ **Stars** | 116 |
+| 🍴 **Forks** | 8 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `audio-plugin` `cpp20` `cross-platform` `daw` `dsl` `dsp` `juce` `llm` `midi` `music-production`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Product
 
 ## 📝 Summary
 
-Magda-core is an open-source digital audio workstation (DAW) designed for automation, transformation, and rapid musical iteration. This platform utilizes AI/ML capabilities to streamline the creative process, enabling users to experiment and produce music efficiently. By leveraging advanced technologies, Magda-core empowers musicians and producers to push the boundaries of their art.
+Conceptual‑Machines / magda‑core is an open‑source digital audio workstation (DAW) designed to streamline music production through extensive automation, real‑time transformation tools, and rapid iteration workflows. Built with modern frontend technologies and AI/ML‑enhanced features, it lets creators prototype, remix, and refine musical ideas quickly and efficiently.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Conceptual-Machines/magda-core) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Conceptual-Machines/magda-core) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 221 |
-| 🍴 **Forks** | 32 |
+| ⭐ **Stars** | 224 |
+| 🍴 **Forks** | 33 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `awesome-list` `awesome-lists` `mcp` `mcp-server` `mcp-servers` `osint` `osint-tool` `osint-tools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-This project, "awesome-osint-mcp-servers", is an open-source, curated list of OSINT (Open-Source Intelligence) MCP servers. It serves as a centralized resource for individuals and organizations to access and utilize MCP servers, which are crucial tools in various fields such as cybersecurity and digital forensics. The project welcomes contributions through pull requests, allowing it to stay up-to-date and comprehensive.
+A curated collection of publicly accessible OSINT (Open‑Source Intelligence) MCP (Message Control Protocol) servers, maintained as an open‑source repository. It provides a regularly updated list of reliable MCP endpoints for security researchers and analysts, and encourages community contributions via pull requests. This backend‑focused project helps streamline the discovery and use of OSINT data sources.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/soxoj/awesome-osint-mcp-servers) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/soxoj/awesome-osint-mcp-servers) · [← Back to Backend](./README.md)</sub>

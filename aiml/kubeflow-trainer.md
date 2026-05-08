@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 948 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `distributed` `fine-tuning` `gpu` `huggingface` `jax` `kubeflow` `kubernetes` `llm` `machine-learning` `mlops` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the kubeflow/trainer project:
-
-Kubeflow Trainer is an open-source project that enables distributed AI model training and large language model (LLM) fine-tuning on Kubernetes, streamlining the ML workflow and improving scalability. This project provides a flexible and efficient way to train AI models at scale, making it ideal for large-scale machine learning operations. By leveraging Kubernetes, Kubeflow Trainer facilitates seamless deployment and management of AI workloads.
+kubeflow/trainer is an open‑source framework that enables scalable, distributed training of AI models—including large‑language‑model fine‑tuning—directly on Kubernetes clusters. By leveraging Kubeflow’s native orchestration and resource management, it automates the provisioning of GPUs, data pipelines, and experiment tracking, making it easy for DevOps and ML teams to run reproducible, production‑grade training workloads at any scale.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/kubeflow/trainer) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kubeflow/trainer) · [← Back to AI/ML](./README.md)</sub>

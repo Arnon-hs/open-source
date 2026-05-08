@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.2k |
-| 🍴 **Forks** | 20.9k |
+| 🍴 **Forks** | 21k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloudflare` `dev` `developer` `dns` `domain` `foss` `free` `free-domain` `free-for-dev` `free-for-developers` `github-pages` `oss`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The is-a-dev/register project is an open-source initiative that allows developers to claim their exclusive '.is-a.dev' subdomain, providing a unique and visually appealing web presence. This project falls under the categories of AI/ML and DevTools, catering to the needs of the tech community. By registering for a '.is-a.dev' subdomain, developers can establish a professional online identity.
+is-a-dev/register is a lightweight open‑source tool that lets developers instantly claim a personalized “.is-a.dev” subdomain for their projects, providing a clean, memorable URL without manual DNS configuration. It integrates with popular CI/CD pipelines and supports automatic renewal, making domain management hassle‑free for developers and AI/ML tooling alike.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/is-a-dev/register) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/is-a-dev/register) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`atcoder` `awesome` `awesome-list` `blog` `books` `cli` `competitive-programming` `cplusplus` `curated-list` `documentation` `google-extension` `japanese-language`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the KATO-Hiro/AtCoderClans project in 2-3 sentences:
-
-The KATO-Hiro/AtCoderClans project is an open-source, unofficial collection of resources and tools that aim to enhance the AtCoder experience. This repository aggregates user-created non-official services, tools, libraries, and articles to make participating in AtCoder more enjoyable and engaging. It falls under the DevTools category, catering to the developer community.
+KATO-Hiro/AtCoderClans is an unofficial, community‑curated collection of links that enhance the AtCoder experience. It aggregates various third‑party services, tools, libraries, and articles created by volunteers, providing a convenient hub for resources that help users solve problems, improve performance, and explore the platform more enjoyably.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/KATO-Hiro/AtCoderClans) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/KATO-Hiro/AtCoderClans) · [← Back to DevTools](./README.md)</sub>

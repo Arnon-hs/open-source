@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 943 |
+| 🍴 **Forks** | 948 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `cpp` `desktop` `hacktoberfest` `linux` `macos` `nextcloud` `nextcloud-desktop-client` `objective-c` `objective-c-plus-plus` `qt` `swift`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Nextcloud Desktop is an open-source project that allows users to sync their files, contacts, and other data between their local devices and Nextcloud servers. This desktop client provides a seamless and secure way to access and manage Nextcloud data on Windows, macOS, and Linux platforms. It offers a user-friendly interface for syncing files, folders, and calendar events.
+The **nextcloud/desktop** project provides a cross‑platform desktop synchronization client for Nextcloud, enabling users to keep files, folders, and contacts automatically in sync between their local machines and a Nextcloud server. It offers seamless background syncing, selective sync, and integration with the native file explorer on Windows, macOS, and Linux, making it a reliable tool for personal and enterprise cloud storage workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/nextcloud/desktop) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/nextcloud/desktop) · [← Back to DevTools](./README.md)</sub>

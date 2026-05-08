@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 365 |
+| ⭐ **Stars** | 366 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-coding` `ast` `context-engineer` `lsp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the cloudwego/abcoder project:
-
-The cloudwego/abcoder project is an open-source initiative that aims to provide a deep, reliable, and confidential coding context for various applications. Built with AI/ML and backend technologies, this project enables developers to create secure and efficient coding solutions. By leveraging its advanced features, developers can improve code quality and protect sensitive information.
+cloudwego/abcoder is an open‑source framework that provides deep, reliable, and confidential coding‑context capabilities for AI‑driven applications. It offers backend services and APIs that securely capture, store, and retrieve coding context, enabling advanced code generation, analysis, and assistance while preserving privacy. Ideal for developers building intelligent coding tools, the project blends robust backend infrastructure with cutting‑edge machine‑learning techniques.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/cloudwego/abcoder) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/cloudwego/abcoder) · [← Back to AI/ML](./README.md)</sub>

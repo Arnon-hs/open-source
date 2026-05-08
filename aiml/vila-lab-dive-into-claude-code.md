@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 159 |
+| ⭐ **Stars** | 1.1k |
+| 🍴 **Forks** | 165 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Design
 
 ## 📝 Summary
 
-The Dive-into-Claude-Code project is an open-source initiative that provides a systematic analysis and discussion of Claude code, a crucial framework for designing modern and future AI agent systems. This comprehensive resource aims to facilitate a deeper understanding of Claude code and its applications in AI and machine learning. By exploring the intricacies of Claude code, developers and researchers can create more efficient and effective AI systems.
+VILA‑Lab’s **Dive‑into‑Claude‑Code** provides a thorough, open‑source examination of Anthropic’s Claude codebase, focusing on its architecture, design patterns, and implementation details that enable modern AI agents. By dissecting core components—such as prompting frameworks, tool‑use mechanisms, and safety layers—the project offers practical insights and discussion points for building, extending, and future‑proofing next‑generation autonomous agents. It serves as both a learning resource and a reference guide for researchers and developers working in AI/ML system design.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/VILA-Lab/Dive-into-Claude-Code) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/VILA-Lab/Dive-into-Claude-Code) · [← Back to AI/ML](./README.md)</sub>

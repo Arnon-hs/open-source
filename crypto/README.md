@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**116 projects** in this category.
+**118 projects** in this category.
 
 ## Projects
 
@@ -107,23 +107,25 @@
 | 97 | [jrswab/axe](./jrswab-axe.md) | ⭐ 803 | Go | 55/100 |
 | 98 | [dappros/ethora](./dappros-ethora.md) | ⭐ 530 | JavaScript | 55/100 |
 | 99 | [wecode-ai/Wegent](./wecode-ai-wegent.md) | ⭐ 552 | Python | 55/100 |
-| 100 | [LuxAlgo/PineTS](./luxalgo-pinets.md) | ⭐ 345 | TypeScript | 54/100 |
-| 101 | [Merit-Systems/x402scan](./merit-systems-x402scan.md) | ⭐ 333 | TypeScript | 54/100 |
-| 102 | [polkadot-evm/frontier](./polkadot-evm-frontier.md) | ⭐ 617 | Rust | 53/100 |
-| 103 | [OpenLightingProject/open-fixture-library](./openlightingproject-open-fixture-library.md) | ⭐ 244 | JSON | 53/100 |
-| 104 | [ChainSafe/forest](./chainsafe-forest.md) | ⭐ 695 | Rust | 53/100 |
-| 105 | [randomwalkhan/Short-Term-Reversal-Strategy](./randomwalkhan-short-term-reversal-strategy.md) | ⭐ 355 | Jupyter Notebook | 53/100 |
-| 106 | [MystenLabs/fastcrypto](./mystenlabs-fastcrypto.md) | ⭐ 307 | Rust | 53/100 |
-| 107 | [FinAegis/core-banking-prototype-laravel](./finaegis-core-banking-prototype-laravel.md) | ⭐ 160 | PHP | 52/100 |
-| 108 | [YichengYang-Ethan/oracle3](./yichengyang-ethan-oracle3.md) | ⭐ 189 | Python | 52/100 |
-| 109 | [renegade-fi/renegade](./renegade-fi-renegade.md) | ⭐ 250 | Rust | 52/100 |
-| 110 | [cyanheads/mcp-ts-core](./cyanheads-mcp-ts-core.md) | ⭐ 137 | TypeScript | 51/100 |
-| 111 | [tempoxyz/tempo](./tempoxyz-tempo.md) | ⭐ 930 | Rust | 51/100 |
-| 112 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 49/100 |
-| 113 | [near/near-cli-rs](./near-near-cli-rs.md) | ⭐ 142 | Rust | 47/100 |
-| 114 | [pawurb/mevlog-rs](./pawurb-mevlog-rs.md) | ⭐ 200 | Rust | 45/100 |
-| 115 | [ReamLabs/ream](./reamlabs-ream.md) | ⭐ 140 | Rust | 42/100 |
-| 116 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
+| 100 | [0xfnzero/sol-trade-sdk](./0xfnzero-sol-trade-sdk.md) | ⭐ 300 | Rust | 54/100 |
+| 101 | [LuxAlgo/PineTS](./luxalgo-pinets.md) | ⭐ 345 | TypeScript | 54/100 |
+| 102 | [Merit-Systems/x402scan](./merit-systems-x402scan.md) | ⭐ 333 | TypeScript | 54/100 |
+| 103 | [polkadot-evm/frontier](./polkadot-evm-frontier.md) | ⭐ 617 | Rust | 53/100 |
+| 104 | [OpenLightingProject/open-fixture-library](./openlightingproject-open-fixture-library.md) | ⭐ 244 | JSON | 53/100 |
+| 105 | [ChainSafe/forest](./chainsafe-forest.md) | ⭐ 695 | Rust | 53/100 |
+| 106 | [randomwalkhan/Short-Term-Reversal-Strategy](./randomwalkhan-short-term-reversal-strategy.md) | ⭐ 355 | Jupyter Notebook | 53/100 |
+| 107 | [MystenLabs/fastcrypto](./mystenlabs-fastcrypto.md) | ⭐ 307 | Rust | 53/100 |
+| 108 | [FinAegis/core-banking-prototype-laravel](./finaegis-core-banking-prototype-laravel.md) | ⭐ 160 | PHP | 52/100 |
+| 109 | [YichengYang-Ethan/oracle3](./yichengyang-ethan-oracle3.md) | ⭐ 189 | Python | 52/100 |
+| 110 | [renegade-fi/renegade](./renegade-fi-renegade.md) | ⭐ 250 | Rust | 52/100 |
+| 111 | [sepivip/SeekerClaw](./sepivip-seekerclaw.md) | ⭐ 104 | JavaScript | 51/100 |
+| 112 | [cyanheads/mcp-ts-core](./cyanheads-mcp-ts-core.md) | ⭐ 137 | TypeScript | 51/100 |
+| 113 | [tempoxyz/tempo](./tempoxyz-tempo.md) | ⭐ 930 | Rust | 51/100 |
+| 114 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 49/100 |
+| 115 | [near/near-cli-rs](./near-near-cli-rs.md) | ⭐ 142 | Rust | 47/100 |
+| 116 | [pawurb/mevlog-rs](./pawurb-mevlog-rs.md) | ⭐ 200 | Rust | 45/100 |
+| 117 | [ReamLabs/ream](./reamlabs-ream.md) | ⭐ 140 | Rust | 42/100 |
+| 118 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
 
 ---
 

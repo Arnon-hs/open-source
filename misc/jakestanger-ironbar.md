@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 117 |
+| 🍴 **Forks** | 116 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bar` `desktop` `gtk` `gtk-layer-shell` `gtk4` `hyprland` `ironbar` `niri` `rust` `sway` `wayland` `wlroots`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Ironbar is an open-source, customizable Wayland bar written in Rust, utilizing GTK4 for its user interface. It is designed to provide a flexible and customizable bar experience for users, allowing them to tailor it to their specific needs. Ironbar is a Rust-based project that offers a customizable solution for those looking for a Wayland bar with a high degree of customization.
+JakeStanger/ironbar is a lightweight, highly configurable status bar for Wayland environments, built with GTK 4 and Rust. It offers developers a modern, extensible foundation for creating custom desktop panels, supporting themes, widgets, and dynamic content while leveraging Rust’s safety and performance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/JakeStanger/ironbar) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/JakeStanger/ironbar) · [← Back to Misc](./README.md)</sub>

@@ -46,15 +46,15 @@
 | 36 | [meteroid-oss/meteroid](./meteroid-oss-meteroid.md) | ⭐ 1.1k | Rust | 58/100 |
 | 37 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
 | 38 | [VladSez/easy-invoice-pdf](./vladsez-easy-invoice-pdf.md) | ⭐ 821 | TypeScript | 57/100 |
-| 39 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 57/100 |
-| 40 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 57/100 |
+| 39 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 57/100 |
+| 40 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 57/100 |
 | 41 | [WINBIGFOX/TimeScribe](./winbigfox-timescribe.md) | ⭐ 813 | PHP | 57/100 |
 | 42 | [ebrasha/free-v2ray-public-list](./ebrasha-free-v2ray-public-list.md) | ⭐ 731 | — | 57/100 |
 | 43 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 903 | TypeScript | 57/100 |
 | 44 | [ali-zahedi/az-iranian-bank-gateways](./ali-zahedi-az-iranian-bank-gateways.md) | ⭐ 597 | Python | 56/100 |
-| 45 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 534 | Perl | 56/100 |
+| 45 | [Sunagatov/Iced-Latte](./sunagatov-iced-latte.md) | ⭐ 629 | Java | 56/100 |
 | 46 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 56/100 |
-| 47 | [Sunagatov/Iced-Latte](./sunagatov-iced-latte.md) | ⭐ 629 | Java | 56/100 |
+| 47 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 534 | Perl | 56/100 |
 | 48 | [elementary/appcenter](./elementary-appcenter.md) | ⭐ 553 | Vala | 55/100 |
 | 49 | [AnalyseDeCircuit/oxideterm](./analysedecircuit-oxideterm.md) | ⭐ 648 | Rust | 55/100 |
 | 50 | [shetabit/payment](./shetabit-payment.md) | ⭐ 940 | PHP | 54/100 |
@@ -62,12 +62,12 @@
 | 52 | [djaodjin/djaodjin-saas](./djaodjin-djaodjin-saas.md) | ⭐ 600 | Python | 54/100 |
 | 53 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 522 | Rust | 54/100 |
 | 54 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
-| 55 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
-| 56 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 177 | PHP | 53/100 |
+| 55 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 177 | PHP | 53/100 |
+| 56 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
 | 57 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 385 | PHP | 53/100 |
-| 58 | [openfintechio/openfintech](./openfintechio-openfintech.md) | ⭐ 215 | PHP | 52/100 |
+| 58 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 52/100 |
 | 59 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 295 | — | 52/100 |
-| 60 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 52/100 |
+| 60 | [openfintechio/openfintech](./openfintechio-openfintech.md) | ⭐ 215 | PHP | 52/100 |
 | 61 | [askalf/dario](./askalf-dario.md) | ⭐ 189 | JavaScript | 52/100 |
 | 62 | [bzsanti/oxidizePdf](./bzsanti-oxidizepdf.md) | ⭐ 168 | Rust | 51/100 |
 

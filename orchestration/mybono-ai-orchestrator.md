@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `agentic-ai` `claude-code` `cli` `coding-assistant` `local-llm` `mcp` `ollama`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Mybono/ai-orchestrator project:
-
-The Mybono/ai-orchestrator is an open-source project that provides a portable, multi-agent AI development setup for Claude Code and Ollama. This Bash-based, role-based local LLM (Large Language Model) orchestration tool enables effortless planning, coding, reviewing, and committing of AI projects, with zero dependencies required. It supports any language stack, making it a versatile and powerful tool for AI/ML development and DevOps.
+Mybono/ai-orchestrator is a lightweight, zero‑dependency framework that orchestrates multiple local LLMs (Claude Code, Ollama, etc.) through role‑based Bash scripts, handling planning, coding, reviewing, and committing tasks automatically. It provides a portable, language‑agnostic developer environment that can be integrated with any tech stack, streamlining multi‑agent AI workflows for rapid code generation and iteration.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/Mybono/ai-orchestrator) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Mybono/ai-orchestrator) · [← Back to Orchestration](./README.md)</sub>

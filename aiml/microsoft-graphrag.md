@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gpt` `gpt-4` `gpt4` `graphrag` `llm` `llms` `rag`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "microsoft/graphrag":
-
-GraphRAG is an open-source, modular graph-based Retrieval-Augmented Generation (RAG) system, enabling users to build and customize RAG models for various AI and machine learning applications. This system leverages a graph structure to integrate retrieval and generation components, allowing for more efficient and accurate information retrieval and text generation. By providing a flexible and extensible framework, GraphRAG empowers developers to create tailored RAG solutions for specific use cases.
+Microsoft GraphRAG is a modular, graph‑based Retrieval‑Augmented Generation framework that lets developers build scalable RAG pipelines by representing documents, queries, and knowledge as interconnected nodes. It provides flexible components for indexing, retrieval, reasoning, and LLM‑driven generation, enabling easy customization and integration with various data sources and language models.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/microsoft/graphrag) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/microsoft/graphrag) · [← Back to AI/ML](./README.md)</sub>

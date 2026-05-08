@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 948 |
+| ⭐ **Stars** | 947 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hook` `nextjs` `preview` `real-time` `sanity` `team-ecosystem` `toolkit`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The sanity-io/next-sanity project is an open-source toolkit that integrates Sanity.io, a cloud-based content platform, with Next.js, a popular React-based web development framework. This integration enables users to leverage Sanity.io's powerful content management capabilities directly within their Next.js applications. By utilizing this toolkit, developers can streamline content creation, management, and delivery for their Next.js projects.
+Sanity IO’s **next‑sanity** is a lightweight toolkit that seamlessly integrates the Sanity headless CMS with Next.js applications. It provides ready‑to‑use utilities—such as a typed client, preview hook, and image URL builder—to simplify data fetching, real‑time previews, and image handling while preserving the performance and static‑generation features of Next.js.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/sanity-io/next-sanity) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/sanity-io/next-sanity) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 571 |
+| ⭐ **Stars** | 580 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `autonomous-agents` `chatbot` `discord-bot` `golem` `long-term-memory` `multi-agent` `nodejs` `openclaw` `telegram-bot-ai-assistant`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Project Golem is an open-source, OS-level autonomous AI agent that enables long-term memory and multi-agent coordination. It features a robust scheduling system powered by Titan Chronos and a social core powered by Moltbot, making it a highly capable and adaptable AI infrastructure. This project is ideal for complex orchestration and AI/ML workflows requiring autonomous decision-making and coordination.
+Arvincreator’s **project‑golem** is an open‑source, OS‑level autonomous AI agent that combines long‑term memory, multi‑agent coordination, and a high‑precision Titan Chronos scheduler with the Moltbot Social Core for seamless interaction and collaboration. Designed for orchestration and AI/ML workloads, it enables distributed agents to manage complex tasks, maintain persistent context, and communicate socially across diverse environments.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/Arvincreator/project-golem) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Arvincreator/project-golem) · [← Back to Orchestration](./README.md)</sub>

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2739** |
+| 🗂️ **Total projects** | **2779** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1068 | [Browse →](./aiml/) |
-| 📦 **Misc** | 437 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 274 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 270 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 145 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 144 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 116 | [Browse →](./crypto/) |
-| 📊 **Data** | 68 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 1089 | [Browse →](./aiml/) |
+| 📦 **Misc** | 441 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 279 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 272 | [Browse →](./frontend/) |
+| 🔧 **DevTools** | 147 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 146 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 118 | [Browse →](./crypto/) |
+| 📊 **Data** | 69 | [Browse →](./data/) |
 | 💳 **Payments** | 62 | [Browse →](./payments/) |
 | 📈 **Trading** | 46 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 40 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 31 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 32 | [Browse →](./mobile/) |
 | 🔐 **Security** | 21 | [Browse →](./security/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
 | ✨ **Design** | 7 | [Browse →](./design/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [microsoft/mcp-for-beginners](./orchestration/microsoft-mcp-for-beginners.md) | ⭐ 16k | Orchestration |
-| 2 | [JoeanAmier/XHS-Downloader](./backend/joeanamier-xhs-downloader.md) | ⭐ 11.1k | Backend |
-| 3 | [usememos/memos](./frontend/usememos-memos.md) | ⭐ 59.4k | Frontend |
-| 4 | [siteboon/claudecodeui](./aiml/siteboon-claudecodeui.md) | ⭐ 10.7k | AI/ML |
-| 5 | [docusealco/docuseal](./aiml/docusealco-docuseal.md) | ⭐ 15.8k | AI/ML |
-| 6 | [vxcontrol/pentagi](./orchestration/vxcontrol-pentagi.md) | ⭐ 16.6k | Orchestration |
-| 7 | [open-webui/open-webui](./aiml/open-webui-open-webui.md) | ⭐ 136.1k | AI/ML |
-| 8 | [cvat-ai/cvat](./aiml/cvat-ai-cvat.md) | ⭐ 15.8k | AI/ML |
-| 9 | [godotengine/godot-docs](./misc/godotengine-godot-docs.md) | ⭐ 5.3k | Misc |
-| 10 | [twentyhq/twenty](./aiml/twentyhq-twenty.md) | ⭐ 45.6k | AI/ML |
+| 1 | [is-a-dev/register](./aiml/is-a-dev-register.md) | ⭐ 10.2k | AI/ML |
+| 2 | [dream-num/univer](./aiml/dream-num-univer.md) | ⭐ 12.9k | AI/ML |
+| 3 | [microsoft/mcp-for-beginners](./orchestration/microsoft-mcp-for-beginners.md) | ⭐ 16k | Orchestration |
+| 4 | [JoeanAmier/XHS-Downloader](./backend/joeanamier-xhs-downloader.md) | ⭐ 11.1k | Backend |
+| 5 | [usememos/memos](./frontend/usememos-memos.md) | ⭐ 59.4k | Frontend |
+| 6 | [siteboon/claudecodeui](./aiml/siteboon-claudecodeui.md) | ⭐ 10.7k | AI/ML |
+| 7 | [docusealco/docuseal](./aiml/docusealco-docuseal.md) | ⭐ 15.8k | AI/ML |
+| 8 | [vxcontrol/pentagi](./orchestration/vxcontrol-pentagi.md) | ⭐ 16.6k | Orchestration |
+| 9 | [open-webui/open-webui](./aiml/open-webui-open-webui.md) | ⭐ 136.1k | AI/ML |
+| 10 | [cvat-ai/cvat](./aiml/cvat-ai-cvat.md) | ⭐ 15.8k | AI/ML |
 
 ## 🚀 How it works
 

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 92 |
-| 🍴 **Forks** | 16 |
+| ⭐ **Stars** | 91 |
+| 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `ai-agents` `ai-assistant` `ai-orchestration` `ai-runtime` `ai-runtime-security` `autonomous-agents` `docker-sandbox` `llm-agents` `memu` `multi-agent` `nanobot`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-OpenLegion is an open-source, secure autonomous AI agent fleet platform that enables users to manage multiple AI providers in a single, Docker-isolated environment. With built-in cost controls, OpenLegion provides a scalable and cost-effective solution for production use, making it an alternative to OpenClaw for organizations seeking to orchestrate their AI workloads. This platform supports multi-provider integration, allowing users to choose the best AI solutions for their specific needs.
+OpenLegion is an open‑source framework for building secure, autonomous AI agents that can be organized into full‑fledged “departments” capable of handling tasks traditionally performed by humans. By simply describing the desired role, developers can generate specialized agents, orchestrate their interactions, and deploy them through a web‑based frontend for seamless teamwork and workflow automation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/openlegion-ai/openlegion) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/openlegion-ai/openlegion) · [← Back to Orchestration](./README.md)</sub>
