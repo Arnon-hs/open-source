@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 769 |
+| 🍴 **Forks** | 770 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`accessibility` `blind` `screen-reader`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-NVDA is a free and open-source screen reader software for Microsoft Windows, providing visually impaired users with equal access to digital information. This accessible tool offers a range of features, including text-to-speech functionality, screen navigation, and support for various input devices. By promoting equal opportunities for the visually impaired, NVDA empowers users to fully participate in the digital world.
+NVDA (NonVisual Desktop Access) is a free, open‑source screen reader for Microsoft Windows that enables blind and low‑vision users to navigate the operating system and applications through synthesized speech and braille output. Developed by the NV Access community, it supports a wide range of software, offers extensive customization, and is continuously updated to keep pace with Windows releases and accessibility standards.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/nvaccess/nvda) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/nvaccess/nvda) · [← Back to Misc](./README.md)</sub>

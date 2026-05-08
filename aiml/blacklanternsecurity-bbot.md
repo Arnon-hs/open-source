@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.7k |
-| 🍴 **Forks** | 802 |
+| 🍴 **Forks** | 803 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asm` `attack-surface-management` `automation` `bugbounty` `cli` `easm` `hacking` `neo4j` `osint` `osint-framework` `pentesting` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Here is a brief summary for the open-source project "bbot":
-
-Bbot is a cutting-edge, open-source recursive internet scanner designed for hackers and security professionals. This powerful tool utilizes AI/ML to efficiently scan and discover vulnerabilities across the internet. Bbot is an invaluable asset for security researchers and hackers looking to stay ahead of the curve.
+blacklanternsecurity/bbot is an open‑source, recursive internet scanner designed for security researchers and penetration testers. It automates the discovery, enumeration, and analysis of hosts, services, and vulnerabilities across large network scopes, leveraging AI/ML techniques to prioritize targets and streamline workflow. The tool integrates with popular dev‑tools and security platforms, making it a versatile asset for proactive threat hunting and vulnerability assessment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/blacklanternsecurity/bbot) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/blacklanternsecurity/bbot) · [← Back to AI/ML](./README.md)</sub>

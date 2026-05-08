@@ -1,32 +1,32 @@
 # kenryu42/claude-code-safety-net
 
-[![Stars](https://img.shields.io/github/stars/kenryu42/claude-code-safety-net?style=flat-square&color=yellow)](https://github.com/kenryu42/claude-code-safety-net/stargazers) [![Forks](https://img.shields.io/github/forks/kenryu42/claude-code-safety-net?style=flat-square&color=blue)](https://github.com/kenryu42/claude-code-safety-net/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kenryu42/claude-code-safety-net?style=flat-square&color=yellow)](https://github.com/kenryu42/claude-code-safety-net/stargazers) [![Forks](https://img.shields.io/github/forks/kenryu42/claude-code-safety-net?style=flat-square&color=blue)](https://github.com/kenryu42/claude-code-safety-net/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
-> A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute.
+> A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, OpenCode, Gemini CLI and Copilot CLI.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 61 |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code` `claude-code-plugin` `codex` `destructive-commands` `hook` `security`
 
 ## 🎯 Categories
 
-AI/ML · Security
+AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Claude is an open-source coding agent hook that serves as a safety net by detecting and intercepting potentially destructive git and filesystem commands before they execute, helping to prevent unintended data loss and system damage. This AI-powered tool leverages machine learning to identify malicious or high-risk commands, providing an additional layer of security for developers and teams. By implementing Claude, users can enhance their coding experience and minimize the risk of catastrophic errors.
+A lightweight coding‑agent hook that intercepts potentially destructive Git and filesystem commands before they run, providing an extra safety layer for AI‑driven code generation tools. It integrates with popular assistants such as Codex, OpenCode, Gemini CLI, and Copilot CLI, helping developers avoid accidental data loss or repository corruption.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/kenryu42/claude-code-safety-net) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kenryu42/claude-code-safety-net) · [← Back to AI/ML](./README.md)</sub>

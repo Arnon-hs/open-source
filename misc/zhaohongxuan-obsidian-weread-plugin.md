@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 124 |
+| 🍴 **Forks** | 123 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`obsidian` `obsidian-plugin` `weread`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Obsidian Weread Plugin is an open-source project that enables seamless syncing of Weread highlights and annotations directly into your Obsidian vault. This plugin facilitates the integration of your Weread library with your Obsidian notes, allowing for unified organization and access to all your reading materials. By streamlining your reading experience, the Obsidian Weread Plugin enhances productivity and discovery within Obsidian's knowledge management system.
+Obsidian Weread Plugin syncs your WeRead (微信读书) highlights and annotations directly into an Obsidian vault, letting you keep reading notes alongside your personal knowledge base. It automatically imports the content, preserving timestamps and source information, so you can organize, search, and link your reading insights within Obsidian. The plugin is open‑source, lightweight, and works across platforms supported by Obsidian.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/zhaohongxuan/obsidian-weread-plugin) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/zhaohongxuan/obsidian-weread-plugin) · [← Back to Misc](./README.md)</sub>

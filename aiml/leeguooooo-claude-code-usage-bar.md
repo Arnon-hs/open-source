@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 224 |
+| ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-tools` `claude-ai` `cli-tool` `developer-tools` `monitoring` `productivity` `python` `status-bar` `terminal-ui` `tmux` `token-monitoring` `usage-tracking`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Claude Code Usage Bar is an open-source project that provides real-time status updates for Claude Code, a powerful AI tool. It displays essential metrics such as token usage, remaining budget, burn rate, and depletion time in the statusline, enabling users to monitor their AI usage in real-time. This project is ideal for developers working with Claude Code, offering a convenient and intuitive way to track their AI expenses.
+Leeguooooo/claude-code-usage-bar is an open‑source frontend tool that adds a real‑time status line to Claude Code, displaying current token consumption, remaining budget, burn rate, and estimated depletion time. By integrating directly into the editor, it gives developers instant visibility into their Claude usage, helping them manage costs and optimize prompts while coding.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/leeguooooo/claude-code-usage-bar) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/leeguooooo/claude-code-usage-bar) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 927 |
+| ⭐ **Stars** | 931 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hdl` `rtl` `rust` `systemverilog` `verilog`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Veryl is an open-source, modern hardware description language (HDL) designed for creating and describing digital circuits. It provides a flexible and expressive syntax for designers to describe hardware systems in a high-level, declarative manner. By utilizing Veryl, developers can create complex digital designs with increased readability and maintainability.
+Veryl is an open‑source, modern hardware description language designed to simplify and accelerate digital design. It offers a clean, expressive syntax and powerful abstraction features while generating synthesizable Verilog/SystemVerilog code, making it suitable for both FPGA and ASIC development. The project provides comprehensive tooling, documentation, and a growing ecosystem for hardware engineers and researchers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/veryl-lang/veryl) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/veryl-lang/veryl) · [← Back to Misc](./README.md)</sub>

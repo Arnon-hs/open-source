@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bun` `framework` `http` `javascript` `server` `serverless` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-The milkio project is an open-source TypeScript framework designed to bridge the gap between frontend and backend development, providing a unified platform for building scalable and efficient applications. This framework aims to simplify the development process by offering a seamless integration of frontend and backend components. With milkio, developers can create robust and data-driven applications with ease, breaking down the traditional boundaries between client-side and server-side development.
+Akirarika / milkio is an open‑source TypeScript framework designed to blur the line between frontend and backend development, enabling developers to write shared, type‑safe code that runs seamlessly on both sides of the stack. By providing unified APIs, server‑side rendering utilities, and a modular architecture, Milkio streamlines full‑stack projects while maintaining clear separation of concerns. It’s ideal for teams looking to accelerate development with a single language and consistent tooling across UI and server logic.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/akirarika/milkio) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/akirarika/milkio) · [← Back to Frontend](./README.md)</sub>

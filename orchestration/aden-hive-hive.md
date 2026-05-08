@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10.2k |
-| 🍴 **Forks** | 5.7k |
+| ⭐ **Stars** | 10.3k |
+| 🍴 **Forks** | 5.6k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-framework` `agent-skills` `anthropic` `automation` `autonomous-agents` `claude` `harness` `harness-engineering` `human-in-the-loop` `openai` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Product
 
 ## 📝 Summary
 
-The aden-hive/hive project is an open-source, multi-agent harness designed for production-grade artificial intelligence (AI) applications. It provides a scalable and flexible framework for building and managing complex AI systems, enabling the integration of multiple agents and decision-making processes. By leveraging hive, developers can create sophisticated AI solutions with improved responsiveness and adaptability.
+Aden‑Hive (aden‑hive/hive) is an open‑source framework that orchestrates multiple AI agents to work together as a cohesive production‑grade system. It provides tools for defining, coordinating, and scaling autonomous agents, enabling developers to build complex, AI‑driven workflows and products with minimal overhead.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/aden-hive/hive) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/aden-hive/hive) · [← Back to Orchestration](./README.md)</sub>

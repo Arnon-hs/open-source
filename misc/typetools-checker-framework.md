@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 437 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`java` `types` `verification`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-typetools/checker-framework is a promising open-source project. Categories: Misc. Interest score: 58/100.
+Typetools/checker‑framework is an open‑source library that brings pluggable type‑checking to Java, allowing developers to define and enforce custom type qualifiers (e.g., @NonNull, @Immutable) via compile‑time checks. By integrating with the Java compiler, it catches many common bugs—such as null‑pointer dereferences, thread‑safety violations, and resource leaks—before the code runs, while remaining extensible for domain‑specific type systems. It is widely used in research and production projects to improve code safety without altering the runtime.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/typetools/checker-framework) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/typetools/checker-framework) · [← Back to Misc](./README.md)</sub>

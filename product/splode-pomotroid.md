@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.2k |
-| 🍴 **Forks** | 445 |
+| 🍴 **Forks** | 444 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`pomodoro` `pomodoro-technique` `pomodoro-timer` `productivity` `rust` `svelte` `tauri` `time-management`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Product
 
 ## 📝 Summary
 
-The Splode/Pomotroid project is an open-source Pomodoro timer designed to provide a simple and visually appealing time management tool. This user-friendly application helps users stay focused and productive by utilizing the Pomodoro Technique, a time management method that alternates between work and break sessions. By leveraging the Pomodoro Technique, users can optimize their workflow and improve overall productivity.
+Splode/pomotroid is a lightweight, open‑source Pomodoro timer that combines a clean, minimalist design with smooth visual feedback to help users manage work and break intervals. Built for ease of use, it offers customizable session lengths, desktop notifications, and a responsive UI that fits seamlessly into any workflow. It’s ideal for anyone looking for a simple yet visually appealing productivity tool.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Splode/pomotroid) · [← Back to Product](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Splode/pomotroid) · [← Back to Product](./README.md)</sub>

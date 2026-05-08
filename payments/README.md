@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**53 projects** in this category.
+**54 projects** in this category.
 
 ## Projects
 
@@ -32,8 +32,8 @@
 | 22 | [FOSSBilling/FOSSBilling](./fossbilling-fossbilling.md) | ⭐ 1.6k | PHP | 66/100 |
 | 23 | [stablyai/orca](./stablyai-orca.md) | ⭐ 2k | TypeScript | 66/100 |
 | 24 | [DanOps-1/Gpt-Agreement-Payment](./danops-1-gpt-agreement-payment.md) | ⭐ 1.1k | Python | 65/100 |
-| 25 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.5k | Kotlin | 64/100 |
-| 26 | [stripe/stripe-python](./stripe-stripe-python.md) | ⭐ 2k | Python | 64/100 |
+| 25 | [stripe/stripe-python](./stripe-stripe-python.md) | ⭐ 2k | Python | 64/100 |
+| 26 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.5k | Kotlin | 64/100 |
 | 27 | [stripe/ai](./stripe-ai.md) | ⭐ 1.5k | TypeScript | 63/100 |
 | 28 | [Natively-AI-assistant/natively-cluely-ai-assistant](./natively-ai-assistant-natively-cluely-ai-assistant.md) | ⭐ 1.1k | TypeScript | 62/100 |
 | 29 | [stripe/stripe-dotnet](./stripe-stripe-dotnet.md) | ⭐ 1.5k | C# | 62/100 |
@@ -48,19 +48,20 @@
 | 38 | [WINBIGFOX/TimeScribe](./winbigfox-timescribe.md) | ⭐ 813 | PHP | 57/100 |
 | 39 | [ebrasha/free-v2ray-public-list](./ebrasha-free-v2ray-public-list.md) | ⭐ 731 | — | 57/100 |
 | 40 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 903 | TypeScript | 57/100 |
-| 41 | [Sunagatov/Iced-Latte](./sunagatov-iced-latte.md) | ⭐ 629 | Java | 56/100 |
+| 41 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 56/100 |
 | 42 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 534 | Perl | 56/100 |
-| 43 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 56/100 |
+| 43 | [Sunagatov/Iced-Latte](./sunagatov-iced-latte.md) | ⭐ 629 | Java | 56/100 |
 | 44 | [elementary/appcenter](./elementary-appcenter.md) | ⭐ 553 | Vala | 55/100 |
 | 45 | [AnalyseDeCircuit/oxideterm](./analysedecircuit-oxideterm.md) | ⭐ 648 | Rust | 55/100 |
-| 46 | [djaodjin/djaodjin-saas](./djaodjin-djaodjin-saas.md) | ⭐ 600 | Python | 54/100 |
-| 47 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 522 | Rust | 54/100 |
-| 48 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
-| 49 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
+| 46 | [vibheksoni/free-ai](./vibheksoni-free-ai.md) | ⭐ 364 | Astro | 54/100 |
+| 47 | [djaodjin/djaodjin-saas](./djaodjin-djaodjin-saas.md) | ⭐ 600 | Python | 54/100 |
+| 48 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 522 | Rust | 54/100 |
+| 49 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
 | 50 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 177 | PHP | 53/100 |
-| 51 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 385 | PHP | 53/100 |
-| 52 | [askalf/dario](./askalf-dario.md) | ⭐ 189 | JavaScript | 52/100 |
-| 53 | [bzsanti/oxidizePdf](./bzsanti-oxidizepdf.md) | ⭐ 168 | Rust | 51/100 |
+| 51 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
+| 52 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 385 | PHP | 53/100 |
+| 53 | [askalf/dario](./askalf-dario.md) | ⭐ 189 | JavaScript | 52/100 |
+| 54 | [bzsanti/oxidizePdf](./bzsanti-oxidizepdf.md) | ⭐ 168 | Rust | 51/100 |
 
 ---
 

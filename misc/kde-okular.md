@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 165 |
+| 🍴 **Forks** | 164 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Okular is a versatile, open-source document viewer developed as part of the KDE project. It supports a wide range of file formats, including PDF, EPUB, XPS, and DjVu, allowing users to view and interact with various types of documents. With its intuitive interface and advanced features, Okular provides a reliable and feature-rich solution for document viewing and management.
+KDE Okular is a versatile, open‑source document viewer built on the KDE Frameworks. It supports a wide range of file formats—including PDF, PostScript, DjVu, EPUB, and many image types—while offering features such as annotation, text extraction, and customizable viewing options. Designed for cross‑platform use, Okular integrates tightly with the KDE desktop environment yet remains functional on other Linux, BSD, and Windows systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/KDE/okular) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/KDE/okular) · [← Back to Misc](./README.md)</sub>

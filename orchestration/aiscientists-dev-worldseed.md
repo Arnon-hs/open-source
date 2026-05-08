@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 619 |
-| 🍴 **Forks** | 27 |
+| ⭐ **Stars** | 635 |
+| 🍴 **Forks** | 29 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-based-simulation` `agentic-ai` `agents` `ai` `ai-agents` `autonomous-agents` `emergent-behavior` `game-ai` `generative-agents` `generative-ai` `llm` `llm-agents`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-WorldSeed is an open-source world engine that enables AI agents to live autonomously, governed by physical rules and information asymmetry. Users can define scenarios in YAML, allowing for dynamic and unpredictable outcomes. This project combines AI/ML, orchestration, and crypto elements to create a unique and immersive simulation environment.
+AIScientists‑Dev/WorldSeed is an open‑source multi‑agent simulation platform that creates a dynamic world where AI agents can interact, converse, compete, and form alliances. By providing robust orchestration tools and AI/ML integration, it enables researchers and developers to experiment with complex emergent behaviors and societal dynamics in a scalable, extensible environment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/AIScientists-Dev/WorldSeed) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/AIScientists-Dev/WorldSeed) · [← Back to Orchestration](./README.md)</sub>

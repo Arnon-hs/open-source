@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `aipc` `amd` `genai` `local` `privacy` `ryzenai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The amd/gaia project is an open-source initiative focused on enabling developers to create artificial intelligence agents that can run on personal computers. By leveraging this platform, users can design, build, and deploy AI models tailored to their specific needs, fostering innovation in the field of AI and machine learning. This project has the potential to democratize AI development and empower a wider range of users to harness the power of AI.
+**amd/gaia** is an open‑source framework that lets you create and run AI‑powered agents directly on your personal computer. It provides a user‑friendly frontend for building, customizing, and interacting with these agents, making advanced AI capabilities accessible without relying on cloud services. Ideal for developers and hobbyists interested in AI/ML applications on the desktop.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/amd/gaia) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/amd/gaia) · [← Back to AI/ML](./README.md)</sub>

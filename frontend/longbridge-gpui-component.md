@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11.3k |
-| 🍴 **Forks** | 588 |
+| 🍴 **Forks** | 591 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`desktop-application` `gpui` `rust` `uikit`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-The longbridge/gpui-component project provides a set of open-source GUI components for building cross-platform desktop applications using GPUI. It offers a Rust-based framework for creating high-performance and visually appealing desktop interfaces. By leveraging GPUI, developers can craft fantastic user experiences across multiple platforms with ease.
+**Summary:**  
+`longbridge/gpui-component` is an open‑source Rust library that provides ready‑made GUI components built on top of the GPUI framework. It enables developers to create modern, cross‑platform desktop applications with reusable, high‑performance UI elements, streamlining the frontend development process.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/longbridge/gpui-component) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/longbridge/gpui-component) · [← Back to Frontend](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 145 |
+| 🍴 **Forks** | 146 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`2fa` `authenticator` `browser` `cli` `google-authenticator` `hmac` `hotp` `nodejs` `one-time-passwords` `otp` `two-factor` `two-factor-authentication`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Security
 
 ## 📝 Summary
 
-The otplib project is an open-source, cross-platform library for generating and verifying Time-Based One-Time Passwords (TOTP) and HMAC-Based One-Time Passwords (HOTP) in Node.js and browsers, supporting Google Authenticator compatibility. It provides a simple and secure way to implement 2-Factor Authentication (2FA) in web applications. otplib's flexible API makes it suitable for various use cases, from small-scale projects to large-scale enterprise deployments.
+Yeojz/otplib is a lightweight, open‑source library that generates and validates one‑time passwords for both Node.js and browser environments. It implements HOTP, TOTP, and Google Authenticator‑compatible algorithms, making it easy to add robust two‑factor authentication to any web or server application.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/yeojz/otplib) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/yeojz/otplib) · [← Back to DevTools](./README.md)</sub>

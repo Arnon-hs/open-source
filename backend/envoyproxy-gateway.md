@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 737 |
+| 🍴 **Forks** | 739 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api-gateway` `cncf` `envoy` `gateway-api` `go-control-plane` `hacktoberfest` `kubernetes`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The envoyproxy/gateway project is an open-source tool that manages Envoy Proxy as a standalone or Kubernetes-based application gateway. It enables users to create a scalable and secure entry point for their applications, handling tasks such as traffic management, load balancing, and encryption. This project supports the deployment of Envoy Proxy in a variety of environments, making it a versatile solution for enterprises and developers alike.
+Envoy Gateway is an open‑source project that simplifies the deployment and operation of Envoy Proxy as a unified application gateway, whether running as a standalone binary or as a Kubernetes‑native controller. It provides declarative APIs and tooling to configure routing, traffic management, security, and observability, enabling teams to expose services consistently across cloud‑native and traditional environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/envoyproxy/gateway) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/envoyproxy/gateway) · [← Back to Backend](./README.md)</sub>

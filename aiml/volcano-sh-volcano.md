@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `batch-systems` `bigdata` `gene` `golang` `hpc` `kubernetes` `machine-learning` `serving` `training`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Volcano is an open-source, Cloud Native Batch System under the CNCF (Cloud Native Computing Foundation). It is designed to enable efficient and scalable batch processing for various workloads, including AI/ML and data processing tasks. Volcano provides a flexible and extensible framework for managing and orchestrating batch jobs, making it a valuable tool for DevOps and infrastructure teams.
+Volcano is an open‑source cloud‑native batch scheduling system designed to run large‑scale, high‑throughput workloads on Kubernetes. It provides a rich set of primitives—such as job queues, gang scheduling, and resource elasticity—to enable efficient AI/ML training, data processing, and other compute‑intensive tasks in modern DevOps/infra environments. As a CNCF‑graduated project, Volcano integrates tightly with the Kubernetes ecosystem and supports pluggable plugins for extensibility and custom scheduling policies.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/volcano-sh/volcano) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/volcano-sh/volcano) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.1k |
-| 🍴 **Forks** | 401 |
+| 🍴 **Forks** | 404 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-agent-tools` `anthropic-claude` `claude` `claude-ai` `claude-api` `claude-code` `claude-code-communication` `claude-code-guide` `claude-code-skills` `claude-commands`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the zebbern/claude-code-guide project:
-
-The Claude Code Guide is a comprehensive open-source resource that provides a step-by-step guide for users to transition from beginner to power user of the Claude platform. This guide covers essential topics such as setup, commands, workflows, agents, skills, and valuable tips and tricks to streamline the development process. By following this guide, users can unlock the full potential of the Claude platform and enhance their AI/ML, frontend, and backend projects.
+Claude Code Guide (zebbern/claude-code-guide) is an open‑source resource that walks developers through installing and configuring Claude‑based coding assistants, detailing core commands, workflow patterns, and how to build custom agents and skills. It covers everything from beginner‑level setup to advanced power‑user techniques, offering practical tips, tricks, and example integrations for both frontend and backend projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/zebbern/claude-code-guide) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/zebbern/claude-code-guide) · [← Back to AI/ML](./README.md)</sub>

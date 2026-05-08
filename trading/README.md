@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**32 projects** in this category.
+**33 projects** in this category.
 
 ## Projects
 
@@ -24,22 +24,23 @@
 | 14 | [cactus-compute/cactus](./cactus-compute-cactus.md) | ⭐ 4.7k | C | 89/100 |
 | 15 | [intuitem/ciso-assistant-community](./intuitem-ciso-assistant-community.md) | ⭐ 4k | Python | 89/100 |
 | 16 | [speedyapply/2026-AI-College-Jobs](./speedyapply-2026-ai-college-jobs.md) | ⭐ 5.2k | — | 88/100 |
-| 17 | [quic/aimet](./quic-aimet.md) | ⭐ 2.6k | Python | 75/100 |
-| 18 | [vllm-project/llm-compressor](./vllm-project-llm-compressor.md) | ⭐ 3.2k | Python | 72/100 |
-| 19 | [open-edge-platform/training_extensions](./open-edge-platform-training-extensions.md) | ⭐ 1.2k | Python | 66/100 |
-| 20 | [the-momentum/open-wearables](./the-momentum-open-wearables.md) | ⭐ 1.6k | Python | 65/100 |
-| 21 | [NVIDIA/cuda-quantum](./nvidia-cuda-quantum.md) | ⭐ 1k | C++ | 63/100 |
-| 22 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 1.1k | Python | 60/100 |
-| 23 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 918 | Rust | 59/100 |
-| 24 | [tradingeconomics/tradingeconomics](./tradingeconomics-tradingeconomics.md) | ⭐ 951 | JavaScript | 57/100 |
-| 25 | [microsoft/CSS-Exchange](./microsoft-css-exchange.md) | ⭐ 1.3k | PowerShell | 55/100 |
-| 26 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 823 | — | 55/100 |
-| 27 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 800 | Rust | 54/100 |
-| 28 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 459 | Python | 54/100 |
-| 29 | [PwnKit-Labs/foxguard](./pwnkit-labs-foxguard.md) | ⭐ 236 | Rust | 52/100 |
-| 30 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 51/100 |
-| 31 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 51/100 |
-| 32 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
+| 17 | [pytorch/ao](./pytorch-ao.md) | ⭐ 2.8k | Python | 77/100 |
+| 18 | [quic/aimet](./quic-aimet.md) | ⭐ 2.6k | Python | 75/100 |
+| 19 | [vllm-project/llm-compressor](./vllm-project-llm-compressor.md) | ⭐ 3.2k | Python | 72/100 |
+| 20 | [open-edge-platform/training_extensions](./open-edge-platform-training-extensions.md) | ⭐ 1.2k | Python | 66/100 |
+| 21 | [the-momentum/open-wearables](./the-momentum-open-wearables.md) | ⭐ 1.6k | Python | 65/100 |
+| 22 | [NVIDIA/cuda-quantum](./nvidia-cuda-quantum.md) | ⭐ 1k | C++ | 63/100 |
+| 23 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 1.1k | Python | 60/100 |
+| 24 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 918 | Rust | 59/100 |
+| 25 | [tradingeconomics/tradingeconomics](./tradingeconomics-tradingeconomics.md) | ⭐ 951 | JavaScript | 57/100 |
+| 26 | [microsoft/CSS-Exchange](./microsoft-css-exchange.md) | ⭐ 1.3k | PowerShell | 55/100 |
+| 27 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 823 | — | 55/100 |
+| 28 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 800 | Rust | 54/100 |
+| 29 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 459 | Python | 54/100 |
+| 30 | [PwnKit-Labs/foxguard](./pwnkit-labs-foxguard.md) | ⭐ 236 | Rust | 52/100 |
+| 31 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 51/100 |
+| 32 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 51/100 |
+| 33 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
 
 ---
 

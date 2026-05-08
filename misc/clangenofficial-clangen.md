@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 369 |
-| 🍴 **Forks** | 701 |
+| 🍴 **Forks** | 702 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Clangen is an open-source, fan-made game inspired by the popular Warrior Cats series, allowing fans to immerse themselves in the world of clans and their struggles. This game enables players to create and manage their own clans, interact with other players, and engage in combat and other activities within the Warrior Cats universe. By leveraging community involvement, Clangen offers a dynamic and immersive experience for fans of the series.
+ClanGenOfficial / clangen is an open‑source fan‑made simulation of the *Warrior Cats* universe that lets players generate and manage their own cat clans, complete with breeding, territory control, and role‑playing events. Built with Python and a modular design, the project provides tools for creating custom characters, scripts, and storylines, making it a flexible platform for both casual fans and developers interested in expanding the game’s mechanics.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ClanGenOfficial/clangen) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ClanGenOfficial/clangen) · [← Back to Misc](./README.md)</sub>

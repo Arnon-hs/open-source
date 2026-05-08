@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.7k |
-| 🍴 **Forks** | 775 |
+| 🍴 **Forks** | 776 |
 | 💻 **Language** | C |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `c99` `crypto` `cryptography` `encryption` `s2n` `ssl` `tls`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Security
 
 ## 📝 Summary
 
-The aws/s2n-tls project is an open-source implementation of the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols, providing a secure and reliable way to establish encrypted connections over networks. This project offers a highly customizable and adaptable solution for developers to integrate robust TLS/SSL functionality into their applications. By leveraging this implementation, users can ensure the confidentiality, integrity, and authenticity of their data in transit.
+aws/s2n-tls is an open‑source, lightweight library that implements the TLS/SSL protocols, providing a simple, performant, and memory‑safe alternative for secure communications. Developed by Amazon Web Services, it focuses on modern cryptographic standards, constant‑time operations, and ease of integration into applications ranging from embedded devices to large‑scale services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/aws/s2n-tls) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/aws/s2n-tls) · [← Back to Crypto](./README.md)</sub>

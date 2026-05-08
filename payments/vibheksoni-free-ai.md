@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 337 |
-| 🍴 **Forks** | 77 |
+| ⭐ **Stars** | 364 |
+| 🍴 **Forks** | 79 |
 | 💻 **Language** | Astro |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-api` `ai-gateway` `api` `chatgpt` `claude` `deepseek` `discord-bot` `free` `free-ai` `free-api` `gemini`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · AI/ML · Frontend
 
 ## 📝 Summary
 
-The free-ai project provides a free, open-source API for accessing OpenAI-compatible AI models, allowing developers to integrate AI capabilities into their applications without incurring costs. This API is designed to be user-friendly, with a simple sign-up process and accessible models. By joining the project's Discord community and obtaining a key, developers can leverage this free AI API for their projects.
+vibheksoni/free-ai is an open‑source, OpenAI‑compatible API that provides access to more than 16,000 AI models for chat, streaming, tool calling, image generation, and image editing—all without any billing. Users can obtain a free API key simply through a Discord channel, making it a cost‑free alternative for developers and hobbyists. The project spans payments, AI/ML, and frontend components, offering a plug‑and‑play solution for rapid AI integration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/vibheksoni/free-ai) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/vibheksoni/free-ai) · [← Back to Payments](./README.md)</sub>

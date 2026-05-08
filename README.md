@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2059** |
+| 🗂️ **Total projects** | **2099** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 786 | [Browse →](./aiml/) |
-| 📦 **Misc** | 350 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 209 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 197 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 105 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 104 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 88 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 797 | [Browse →](./aiml/) |
+| 📦 **Misc** | 359 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 215 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 201 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 107 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 106 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 90 | [Browse →](./crypto/) |
 | 📊 **Data** | 58 | [Browse →](./data/) |
-| 💳 **Payments** | 53 | [Browse →](./payments/) |
-| 📈 **Trading** | 32 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 28 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 54 | [Browse →](./payments/) |
+| 📈 **Trading** | 33 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 29 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 24 | [Browse →](./mobile/) |
 | 🔐 **Security** | 13 | [Browse →](./security/) |
-| 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🎯 **Product** | 7 | [Browse →](./product/) |
 | ✨ **Design** | 5 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 1 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [oraios/serena](./aiml/oraios-serena.md) | ⭐ 23.9k | AI/ML |
-| 2 | [louislam/uptime-kuma](./frontend/louislam-uptime-kuma.md) | ⭐ 86.4k | Frontend |
-| 3 | [skypilot-org/skypilot](./aiml/skypilot-org-skypilot.md) | ⭐ 9.9k | AI/ML |
-| 4 | [pwndbg/pwndbg](./misc/pwndbg-pwndbg.md) | ⭐ 10.4k | Misc |
-| 5 | [cvxpy/cvxpy](./misc/cvxpy-cvxpy.md) | ⭐ 6.2k | Misc |
-| 6 | [invoke-ai/InvokeAI](./aiml/invoke-ai-invokeai.md) | ⭐ 27.1k | AI/ML |
-| 7 | [astral-sh/ruff](./frontend/astral-sh-ruff.md) | ⭐ 47.4k | Frontend |
-| 8 | [ArduPilot/ardupilot](./misc/ardupilot-ardupilot.md) | ⭐ 15k | Misc |
-| 9 | [bpftrace/bpftrace](./misc/bpftrace-bpftrace.md) | ⭐ 10.1k | Misc |
-| 10 | [giampaolo/psutil](./misc/giampaolo-psutil.md) | ⭐ 11.2k | Misc |
+| 1 | [jeecgboot/JeecgBoot](./orchestration/jeecgboot-jeecgboot.md) | ⭐ 46.1k | Orchestration |
+| 2 | [aden-hive/hive](./orchestration/aden-hive-hive.md) | ⭐ 10.3k | Orchestration |
+| 3 | [volcano-sh/volcano](./aiml/volcano-sh-volcano.md) | ⭐ 5.5k | AI/ML |
+| 4 | [oraios/serena](./aiml/oraios-serena.md) | ⭐ 23.9k | AI/ML |
+| 5 | [louislam/uptime-kuma](./frontend/louislam-uptime-kuma.md) | ⭐ 86.4k | Frontend |
+| 6 | [pwndbg/pwndbg](./misc/pwndbg-pwndbg.md) | ⭐ 10.4k | Misc |
+| 7 | [skypilot-org/skypilot](./aiml/skypilot-org-skypilot.md) | ⭐ 9.9k | AI/ML |
+| 8 | [cvxpy/cvxpy](./misc/cvxpy-cvxpy.md) | ⭐ 6.2k | Misc |
+| 9 | [invoke-ai/InvokeAI](./aiml/invoke-ai-invokeai.md) | ⭐ 27.1k | AI/ML |
+| 10 | [astral-sh/ruff](./frontend/astral-sh-ruff.md) | ⭐ 47.4k | Frontend |
 
 ## 🚀 How it works
 

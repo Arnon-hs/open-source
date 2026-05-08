@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 481 |
-| 🍴 **Forks** | 130 |
+| 🍴 **Forks** | 131 |
 | 💻 **Language** | C |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automated-testing` `automated-verification` `bmc` `c` `cheri` `cp-solver` `cpp` `incremental-learning` `k-induction` `kotlin` `python` `smt-solver`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · DevTools
 
 ## 📝 Summary
 
-ESBMC is an open-source model checker that uses the Satisfiability Modulo Theories (SMT) approach to efficiently verify properties of software and hardware systems. It provides context-bounded model checking, allowing users to analyze a system's behavior within a specified context or scope. ESBMC is particularly useful for verifying the security and reliability of cryptographic protocols and other safety-critical systems.
+esbmc (Efficient SMT‑Based Context‑bounded Model Checker) is an open‑source verification tool that uses SAT/SMT solving to perform bounded model checking of C/C++ programs, detecting bugs such as buffer overflows, data races, and cryptographic flaws. It supports context‑bounded analysis, multi‑threaded code, and integrates with popular SMT solvers to provide fast, precise counter‑example generation for security‑critical software.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/esbmc/esbmc) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/esbmc/esbmc) · [← Back to Crypto](./README.md)</sub>

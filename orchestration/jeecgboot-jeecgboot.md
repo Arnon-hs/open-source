@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 16k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`activiti` `agent` `ai` `antd` `claude-code` `cli` `codegenerator` `codex` `flowable` `langchain4j` `llm` `low-code`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-JeecgBoot is an open-source, AI-driven low-code platform that offers a dual-mode development experience: "zero-code" mode for rapid system setup and "code generation" mode for automated front-end and back-end code output. This platform is equipped with AI-powered tools such as chat assistants, big models, knowledge bases, and workflow editors, making it a powerful solution for efficient Java project development.
+JeecgBoot is an open‑source AI‑enhanced low‑code platform that lets users create full‑stack Java business applications either with zero‑code rapid setup (≈5 minutes) or with low‑code one‑click generation of front‑end and back‑end code. It embeds AI capabilities such as chat, knowledge bases, workflow orchestration, model‑centric plugins, and “one‑sentence” flow‑chart or form design, streamlining the typical 80 % of repetitive Java development while preserving flexibility for manual customization.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/jeecgboot/JeecgBoot) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jeecgboot/JeecgBoot) · [← Back to Orchestration](./README.md)</sub>

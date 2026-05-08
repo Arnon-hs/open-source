@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `aisdk` `clis` `golang` `mcp` `mcp-gateway` `mcp-server` `mcp-servers` `mcp-tools` `openapi` `openrouter` `serverless`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The speakeasy-api/gram project is an open-source control plane designed to securely scale AI usage across organizations. It enables users to build, secure, and monitor AI agents, microservices, and skills, providing a comprehensive solution for managing AI operations within a company. By using gram, organizations can streamline their AI deployment and management, ensuring efficient and secure AI usage.
+Speakeasy‑API/gram is an open‑source control plane designed to help organizations scale AI deployments safely and efficiently. It provides tools for building, securing, and monitoring AI agents, micro‑service control points (MCPs), and skill sets, offering both frontend interfaces and backend services for comprehensive management. The platform streamlines governance, observability, and access control across the entire AI/ML stack.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/speakeasy-api/gram) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/speakeasy-api/gram) · [← Back to AI/ML](./README.md)</sub>

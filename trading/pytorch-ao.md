@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 502 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`brrr` `cuda` `dtypes` `float8` `inference` `llama` `mx` `pytorch` `quantization` `sparsity` `training` `transformer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-pytorch/ao is a promising open-source project. Categories: AI/ML. Interest score: 77/100.
+pytorch/ao is an open‑source library that brings native quantization and sparsity capabilities directly into PyTorch, enabling developers to train and deploy models with reduced precision and fewer active parameters for faster, more memory‑efficient inference. It provides a unified API for both research and production workflows, supporting a range of hardware accelerators and simplifying the integration of model compression techniques into AI/ML pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/pytorch/ao) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/pytorch/ao) · [← Back to Trading](./README.md)</sub>

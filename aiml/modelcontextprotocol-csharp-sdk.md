@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.2k |
-| 🍴 **Forks** | 693 |
+| ⭐ **Stars** | 4.3k |
+| 🍴 **Forks** | 695 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`csharp` `dotnet` `mcp` `mcp-client` `mcp-server` `modelcontextprotocol`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The modelcontextprotocol/csharp-sdk is an open-source project that provides a C# Software Development Kit (SDK) for interacting with Model Context Protocol servers and clients. This SDK, maintained in collaboration with Microsoft, enables developers to integrate Model Context Protocol capabilities into their applications. It facilitates the development of AI/ML-powered backend solutions using the Model Context Protocol.
+The **modelcontextprotocol/csharp-sdk** is the official C# software development kit for building and interacting with Model Context Protocol (MCP) servers and clients. Developed in partnership with Microsoft, the library provides strongly‑typed, asynchronous APIs and utilities that simplify integrating MCP‑based AI/ML services into .NET backend and DevOps workflows. It’s open‑source, well‑documented, and designed for extensibility across a range of AI/ML applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/modelcontextprotocol/csharp-sdk) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/modelcontextprotocol/csharp-sdk) · [← Back to AI/ML](./README.md)</sub>

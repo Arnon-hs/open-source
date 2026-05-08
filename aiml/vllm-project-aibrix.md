@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.8k |
-| 🍴 **Forks** | 573 |
+| 🍴 **Forks** | 575 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the 'aibrix' project:
-
-Aibrix is an open-source project that offers a cost-efficient and pluggable infrastructure for running GenAI inference workloads. This project provides essential components for building scalable and efficient AI/ML infrastructure, enabling developers to focus on innovation rather than infrastructure management. By leveraging aibrix, users can streamline their AI development and deployment workflows.
+The **vllm‑project/aibrix** repository provides a set of modular, cost‑efficient infrastructure components designed to streamline and scale Generative AI inference workloads. By offering plug‑and‑play building blocks for model serving, resource orchestration, and performance optimization, Aibrix helps developers and DevOps teams deploy GenAI services with minimal overhead and maximal flexibility.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/vllm-project/aibrix) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/vllm-project/aibrix) · [← Back to AI/ML](./README.md)</sub>

@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 914 |
-| 🍴 **Forks** | 419 |
+| 🍴 **Forks** | 421 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Terraforming Mars board game project is an open-source implementation of the popular strategy game, where players compete to terraform the planet Mars and make it habitable for human life. This project provides a digital version of the game, allowing users to simulate and experience the gameplay without the need for physical components. It is designed to be a fun and engaging experience for fans of the original game and board game enthusiasts in general.
+Terraforming Mars is an open‑source digital implementation of the popular board game where players act as corporations working to make the Red Planet habitable. The project provides a fully playable, turn‑based experience with support for multiplayer matches, AI opponents, and a modular architecture that makes it easy to extend rules or add new content. Though categorized under DevOps/Infra, the repository includes CI pipelines, containerized deployments, and automated testing to streamline development and continuous delivery.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/terraforming-mars/terraforming-mars) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/terraforming-mars/terraforming-mars) · [← Back to DevOps & Infra](./README.md)</sub>

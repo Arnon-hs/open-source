@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 161 |
+| ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-bus` `ai` `anthropic` `automation` `claude-code` `cli` `codex` `developer-tools` `multi-agent` `openai-codex` `session-management` `telegram-bot`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The cloveric/cc-telegram-bridge project is an open-source tool that allows users to run AI agents, including Claude and Codex, directly from the Telegram platform. This bridge enables seamless communication between Telegram and AI agents, providing features such as multi-bot management, voice input, and file delivery. With its powerful Agent Bus and built-in tools, users can control AI agents from anywhere and access a range of capabilities for enhanced productivity.
+The **cc‑telegram‑bridge** project provides a native command‑line interface for Claude Code and Codex that runs inside Telegram, letting users execute code, query AI models, and manage sessions directly from chat. It supports session resumption, isolated multi‑bot instances, agent‑bus delegation with fan‑out/crew workflows, voice input, streaming responses, and tool integration, making it a versatile orchestration and dev‑tool bridge for AI‑powered coding.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/cloveric/cc-telegram-bridge) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/cloveric/cc-telegram-bridge) · [← Back to Orchestration](./README.md)</sub>

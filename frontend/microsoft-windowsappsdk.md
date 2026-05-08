@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 436 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cpp` `csharp` `desktop` `project-reunion` `win32` `winappsdk` `windows` `windows-10` `windows-11` `windows-app-sdk` `winui` `winui3`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-The Windows App SDK is an open-source project that enables Windows desktop applications to leverage modern Windows UI, APIs, and platform features, including back-compatibility support. It provides a comprehensive suite of tools and libraries, accessible via NuGet, to help developers create robust and engaging applications. This SDK empowers developers to build cutting-edge Windows applications with ease.
+The Windows App SDK (formerly Project Reunion) is an open‑source framework that brings modern Windows UI, APIs, and platform capabilities to any Windows desktop application while preserving backward compatibility. Delivered as NuGet packages, it lets developers integrate the latest Windows features—such as WinUI 3, XAML Islands, and native system services—without being tied to a specific OS version, simplifying both frontend and backend development for Windows apps.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/microsoft/WindowsAppSDK) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/microsoft/WindowsAppSDK) · [← Back to Frontend](./README.md)</sub>

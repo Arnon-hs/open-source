@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 974 |
+| ⭐ **Stars** | 975 |
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`big-data` `gpu` `rapids` `spark`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Data
 
 ## 📝 Summary
 
-The NVIDIA Spark RAPIDS plugin is an open-source project that accelerates Apache Spark with Graphics Processing Units (GPUs), significantly improving data processing performance and efficiency. By leveraging the power of GPUs, this plugin enables faster data analytics and machine learning workloads, making it ideal for large-scale data processing and AI applications. This project aims to bridge the gap between CPU-based and GPU-based computing in Apache Spark, unlocking new possibilities for data-intensive workloads.
+The NVIDIA Spark RAPIDS plugin integrates GPU acceleration directly into Apache Spark, allowing data‑intensive workloads—such as ETL, SQL queries, and machine‑learning pipelines—to run significantly faster by offloading compatible operations to NVIDIA GPUs. It provides drop‑in compatibility with existing Spark codebases, exposing familiar DataFrame and SQL APIs while handling GPU memory management, serialization, and execution planning under the hood. This open‑source backend extension is ideal for developers seeking high‑performance, scalable analytics on GPU‑enabled clusters.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/NVIDIA/spark-rapids) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NVIDIA/spark-rapids) · [← Back to Backend](./README.md)</sub>
