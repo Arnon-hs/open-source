@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 399 |
+| ⭐ **Stars** | 398 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `artificial-intelligence` `assistant` `automation` `autonomous` `autonomous-agents` `personal-assistant` `workflows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The OwnPilot platform is an open-source, privacy-focused personal AI assistant that leverages autonomous agents and multi-provider support for streamlined tool orchestration. This innovative solution empowers users to manage their digital lives with increased security and control. By combining AI and automation, OwnPilot facilitates seamless interactions with various services and applications.
+OwnPilot is an open‑source, privacy‑first personal AI assistant platform that lets users create and run autonomous agents capable of orchestrating multiple tools and services. It supports integration with various AI providers and offers a modular framework for building custom workflows, making it ideal for developers who need secure, multi‑provider AI orchestration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ownpilot/OwnPilot) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ownpilot/OwnPilot) · [← Back to Orchestration](./README.md)</sub>

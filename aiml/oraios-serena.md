@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-coding` `claude` `claude-code` `codex` `ide` `jetbrains` `language-server` `mcp-server` `programming` `vibe-coding`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Mobile
 
 ## 📝 Summary
 
-Serena is an open-source, powerful MCP (Multi-Concept Platform) toolkit designed to aid in coding and provide enhanced semantic retrieval and editing capabilities. This comprehensive platform serves as a robust Integrated Development Environment (IDE) for developing and refining intelligent agents. Its features cater to a wide range of applications, including AI/ML, backend, and mobile development.
+oraios/serena is an open‑source MCP (Model‑Centric Programming) toolkit that equips developers with advanced semantic retrieval and code‑editing features, essentially turning the IDE into a fully programmable AI agent. It streamlines backend and mobile development by letting agents understand, search, and modify codebases contextually, boosting productivity across AI/ML‑driven projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/oraios/serena) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/oraios/serena) · [← Back to AI/ML](./README.md)</sub>

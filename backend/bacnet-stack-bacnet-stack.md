@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 555 |
-| 🍴 **Forks** | 275 |
+| ⭐ **Stars** | 556 |
+| 🍴 **Forks** | 276 |
 | 💻 **Language** | C |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`avr` `bacnet` `bacnet-client` `bacnet-ip` `bacnet-library` `bacnet-server` `c` `command-line` `command-line-tool` `command-line-tools` `embedded` `iot`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the bacnet-stack/bacnet-stack project:
-
-The bacnet-stack/bacnet-stack project is an open-source BACnet protocol stack library that enables developers to create BACnet-enabled applications for building automation and control systems. It provides a comprehensive set of communication services for the application, network, and media access (MAC) layers, facilitating seamless integration with BACnet devices and systems. This library serves as a valuable tool for developers working on IoT, industrial automation, and building management projects.
+The **bacnet-stack** project is an open‑source implementation of the BACnet protocol, offering a complete software stack that includes the application, network, and media‑access (MAC) layers for building BACnet‑enabled devices and services. It provides developers with a ready‑to‑use library for integrating BACnet communication into backend systems, building automation, and IoT applications, and includes tools for testing and debugging BACnet networks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/bacnet-stack/bacnet-stack) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bacnet-stack/bacnet-stack) · [← Back to Backend](./README.md)</sub>

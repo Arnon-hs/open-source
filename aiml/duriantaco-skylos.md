@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 430 |
+| ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-code-review` `ai-generated-code` `code-quality` `code-scanning` `dead-code` `dead-code-detection` `devsecops` `github-actions` `go` `java` `javascript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-The open-source project "Skylos" by duriantaco is a multi-language SAST (Static Application Security Testing) tool, offering AI-powered security analysis for Python, TypeScript, and Go code. It identifies potential security vulnerabilities such as secrets exposure, exploitable flows, and AI regressions, providing a comprehensive security solution for backend applications. Skylos is available as a VS Code extension, GitHub Action, and MCP server for seamless integration with various development workflows.
+**Skylos** is an open‑source pull‑request gate that automatically scans code changes in Python, TypeScript/JavaScript, Java, and Go for dead code, hard‑coded secrets, security vulnerabilities, and regressions introduced by AI‑generated code. By integrating into CI pipelines, it helps teams prevent the merge of unsafe or low‑quality changes, enhancing both security and code quality across multiple languages.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/duriantaco/skylos) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/duriantaco/skylos) · [← Back to AI/ML](./README.md)</sub>

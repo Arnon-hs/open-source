@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adyen` `api-client` `api-library` `dotnet` `dotnetcore2` `hacktoberfest` `payment` `payment-gateway` `payment-integration` `payments`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · Backend · DevTools
 
 ## 📝 Summary
 
-The Adyen .NET API Library is an open-source project that provides a .NET implementation of the Adyen payment API. It enables .NET developers to easily integrate Adyen's payment services into their applications, streamlining payment processing and reducing development complexity. With this library, developers can access Adyen's robust payment features and functionality.
+The Adyen .NET API Library provides a fully‑featured client for integrating Adyen’s payment platform into C# and VB.NET applications. It abstracts the REST endpoints, handles request signing, serialization, and error handling, and includes support for all major payment methods, recurring payments, and webhooks. This open‑source SDK simplifies backend payment processing and lets developers quickly build secure, compliant payment flows on the .NET stack.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Adyen/adyen-dotnet-api-library) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Adyen/adyen-dotnet-api-library) · [← Back to Payments](./README.md)</sub>

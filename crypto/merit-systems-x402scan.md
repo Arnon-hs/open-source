@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 330 |
-| 🍴 **Forks** | 219 |
+| ⭐ **Stars** | 333 |
+| 🍴 **Forks** | 223 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `blockchain` `blockchain-technology` `decentralization` `payments` `stablecoin` `x402`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Payments · AI/ML
 
 ## 📝 Summary
 
-The Merit-Systems/x402scan is an open-source project that serves as an Ecosystem Explorer for the x402 ecosystem. This tool provides users with insights into the x402 ecosystem, enabling them to explore and analyze various aspects of the system. Through its AI/ML-powered features and robust crypto and payment functionalities, x402scan offers a comprehensive platform for users to engage with the x402 ecosystem.
+Merit‑Systems/x402scan is an open‑source explorer for the X402 ecosystem, providing real‑time insight into blockchain activity, transaction flows, and payment analytics. It combines cryptocurrency data processing with AI/ML‑driven analytics to help developers, auditors, and users monitor network health, detect anomalies, and optimize payment operations within the X402 platform.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Merit-Systems/x402scan) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Merit-Systems/x402scan) · [← Back to Crypto](./README.md)</sub>

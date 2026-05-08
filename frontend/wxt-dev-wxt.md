@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.7k |
-| 🍴 **Forks** | 502 |
+| 🍴 **Forks** | 504 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`build-tool` `chrome-extensions` `dev-server` `hmr` `wxt`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-The wxt project is an open-source, next-generation Web Extension Framework that provides a unified solution for building both frontend and backend applications. This framework aims to accelerate development by offering a robust and modular architecture that simplifies the creation and integration of web extensions. By utilizing wxt, developers can build scalable, maintainable, and high-performance web applications with ease.
+wxt is a modern, open‑source framework designed to streamline the development of browser extensions. It provides a unified toolchain for both frontend UI components and backend extension logic, offering features like hot‑reloading, TypeScript support, and automated build pipelines. By abstracting the complexities of manifest files and cross‑browser compatibility, wxt enables developers to create, test, and ship extensions more efficiently.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/wxt-dev/wxt) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wxt-dev/wxt) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `agents` `authentication` `bedrock` `core` `gateway` `identity-management` `memory-management` `production-code` `runtime`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security · Product
 
 ## 📝 Summary
 
-The awslabs/agentcore-samples project is an open-source initiative that showcases the capabilities of Amazon Bedrock Agentcore, a powerful tool for accelerating AI agents into production. By leveraging Agentcore, developers can achieve the scalability, reliability, and security required for real-world AI deployments. This project provides valuable samples and examples to help users get the most out of Agentcore.
+The **AgentCore Samples** repository provides ready‑to‑run example code that demonstrates how to use Amazon Bedrock AgentCore—a framework for building, scaling, securing, and reliably deploying AI agents in production environments. It showcases best‑practice patterns for integrating Bedrock’s large‑model capabilities with robust security and operational tooling, helping developers accelerate the transition from prototype to a production‑grade AI service.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/awslabs/agentcore-samples) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/awslabs/agentcore-samples) · [← Back to AI/ML](./README.md)</sub>

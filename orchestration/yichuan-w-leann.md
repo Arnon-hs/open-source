@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11k |
-| 🍴 **Forks** | 961 |
+| 🍴 **Forks** | 962 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `faiss` `gpt-oss` `langchain` `llama-index` `llm` `localstorage` `offline-first` `ollama` `privacy` `python` `rag`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-The LEANN project is an open-source initiative that leverages the RAG (Retrieval-Augmented Generation) model on personal devices, achieving a significant 97% reduction in storage requirements. This enables users to run fast, accurate, and 100% private RAG applications on their personal devices, making it a viable solution for on-device AI/ML applications. Developed for the MLsys2026 conference, LEANN prioritizes efficiency and data security.
+LEANN is an open‑source framework that enables privacy‑preserving Retrieval‑Augmented Generation (RAG) on any kind of data, delivering up to 97 % storage reduction while maintaining fast and accurate inference on a personal device. It combines efficient data orchestration, lightweight embedding storage, and on‑device language models to provide a fully offline, 100 % private RAG solution for diverse applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/yichuan-w/LEANN) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/yichuan-w/LEANN) · [← Back to Orchestration](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 259 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`app-store` `arm64` `botspot` `gui` `gui-script` `hacktoberfest` `install` `installer` `pi-apps` `raspberry-pi` `raspberry-pi-4` `raspberry-pi-5`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Botspot/pi-apps is an open-source project that aims to create a Raspberry Pi App Store, showcasing and providing easy access to various open-source projects. This platform serves as a centralized hub for developers to discover, share, and install a wide range of applications on their Raspberry Pi devices. By fostering collaboration and community engagement, Botspot/pi-apps promotes innovation and experimentation in the world of Raspberry Pi development.
+Botspot/pi-apps is a web‑based storefront that lets Raspberry Pi users discover, browse, and install open‑source applications directly on their devices. Built with a modern frontend stack, it aggregates projects from various repositories, provides searchable categories and detailed app metadata, and streamlines the installation process with one‑click deployment on the Pi.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/Botspot/pi-apps) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Botspot/pi-apps) · [← Back to Frontend](./README.md)</sub>

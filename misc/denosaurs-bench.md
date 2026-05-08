@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bechmark` `benchmarks` `bun` `deno` `framework` `frameworks` `hacktoberfest` `http` `https` `javascript` `nodejs` `web`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here is a brief summary for the denosaurs/bench project:
-
-The denosaurs/bench project is an open-source comparison tool that evaluates the performance of popular HTTP frameworks, including Deno, Node.js, and Bun. This benchmarking tool allows developers to compare the execution speed, efficiency, and overall performance of these frameworks in various scenarios, providing valuable insights for project planning and development. By leveraging denosaurs/bench, developers can make informed decisions about which framework best suits their needs.
+**bench** is an open‑source comparison suite that benchmarks popular HTTP frameworks across three JavaScript runtimes—Deno, Node.js, and Bun. It runs a series of standardized tests (e.g., request latency, throughput, and resource usage) to highlight performance differences and help developers choose the most efficient framework for their server‑side projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/denosaurs/bench) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/denosaurs/bench) · [← Back to Misc](./README.md)</sub>

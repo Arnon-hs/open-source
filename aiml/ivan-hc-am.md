@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`am` `appimage` `appimage-collection` `appimage-repository` `appman` `cli` `installer` `updater`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the AppImage Package Manager project:
-
-AppImage Package Manager (AM) is an open-source project that provides a comprehensive management system for AppImages and portable apps on GNU/Linux systems. It offers features such as sandboxing, local and system installation, update management, and an extensible database for AppImages. With AM, users can easily manage, install, and update AppImages in a centralized and user-friendly manner.
+The AppImage Package Manager (AM) is an open‑source tool that streamlines the handling of AppImages on Linux, offering sandboxed execution, local and system‑wide installation, bulk updates, and conversion of legacy AppImage formats. It includes an extensible database of AppImages and portable applications, drag‑and‑drop integration, and customizable lists for AppImages and other binaries, making the management of portable software fast and secure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ivan-hc/AM) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ivan-hc/AM) · [← Back to AI/ML](./README.md)</sub>

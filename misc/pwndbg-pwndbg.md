@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`binary-ninja` `capture-the-flag` `ctf` `debugging` `disassembler` `exploit-development` `gdb` `gef` `hacking-tool` `ida-pro` `linux` `lldb`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Pwndbg is an open-source project designed to simplify exploit development and reverse engineering tasks through integration with popular debuggers GDB and LLDB. This project aims to provide a user-friendly interface for debugging and analyzing binary files, making it easier for developers to identify vulnerabilities and create exploits. With pwndbg, users can access advanced debugging features and tools in a seamless and intuitive manner.
+pwndbg is an open‑source plugin suite that enhances GDB (and LLDB) with a rich set of visual aids and utilities tailored for exploit development and reverse‑engineering tasks. It provides context‑aware disassembly, heap/stack introspection, syscall tracing, and automated vulnerability‑specific commands, streamlining the debugging workflow for security researchers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/pwndbg/pwndbg) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/pwndbg/pwndbg) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 86.2k |
+| ⭐ **Stars** | 86.4k |
 | 🍴 **Forks** | 7.8k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `monitor` `monitoring` `responsive` `self-hosted` `selfhosted` `single-page-app` `socket-io` `uptime` `uptime-monitoring` `webapp` `websocket`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Uptime Kuma is an open-source, self-hosted monitoring tool designed for users to track the uptime and performance of their websites and applications. This user-friendly tool provides real-time monitoring and alerting capabilities, allowing users to stay informed about any service disruptions or issues. With Uptime Kuma, users can easily monitor their infrastructure and services from a single, customizable dashboard.
+Uptime Kuma is a self‑hosted monitoring solution that lets you track the availability of websites, APIs, servers and other services through an intuitive web interface. It offers customizable alerts, multiple check types (HTTP(s), TCP, ping, DNS, etc.), and sleek visual dashboards, making it a lightweight yet powerful alternative to commercial uptime services. Ideal for developers and DevOps teams, it can be deployed easily via Docker or a simple binary and integrates smoothly into existing infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/louislam/uptime-kuma) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/louislam/uptime-kuma) · [← Back to Frontend](./README.md)</sub>

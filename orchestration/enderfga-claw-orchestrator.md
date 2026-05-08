@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 432 |
-| 🍴 **Forks** | 70 |
+| ⭐ **Stars** | 438 |
+| 🍴 **Forks** | 71 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `agent-teams` `ai-agent` `claude-code` `claw` `claw-orchestrator` `cli` `codex` `coding-agent` `cursor-agent` `developer-tools` `gemini`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Enderfga/claw-orchestrator project:
-
-The Enderfga/claw-orchestrator is an open-source runtime that unifies multiple coding CLIs, including Claude Code, Codex, Gemini, and Cursor Agent, into a single cohesive environment for building and managing claw-style agent systems. This standalone platform also supports OpenClaw plugins, offering developers a flexible and customizable solution for AI/ML development.
+Enderfga’s **claw‑orchestrator** provides a single runtime that can execute multiple coding agents—Claude Code, Codex, Gemini, Cursor Agent, and any custom CLI‑based tools—under a unified “claw‑style” workflow. It works as a standalone service while also offering first‑class integration as an OpenClaw plugin, making it easy to orchestrate AI‑driven code generation and automation within larger development pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/Enderfga/claw-orchestrator) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Enderfga/claw-orchestrator) · [← Back to Orchestration](./README.md)</sub>

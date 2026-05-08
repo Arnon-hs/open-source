@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 37.6k |
-| 🍴 **Forks** | 846 |
+| ⭐ **Stars** | 37.7k |
+| 🍴 **Forks** | 853 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `asyncio` `cli` `command-line` `concurrency` `cross-platform` `developer-tools` `file-explorer` `file-manager` `filesystem` `linux` `macos`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
-Yazi is an open-source, high-performance terminal file manager written in Rust that utilizes asynchronous I/O for efficient operation. It offers a fast and responsive interface for managing files and directories. With its focus on async I/O, Yazi is designed to provide a seamless user experience.
+sxyazi/yazi is a high‑performance terminal file manager written in Rust that leverages asynchronous I/O for lightning‑fast navigation and operations. Its sleek, keyboard‑centric interface offers modern DevTools features while remaining lightweight enough to run comfortably on both desktop and mobile terminals. The project is open‑source and aims to provide a speedy, extensible alternative to traditional command‑line file browsers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/sxyazi/yazi) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/sxyazi/yazi) · [← Back to Frontend](./README.md)</sub>

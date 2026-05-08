@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`azure-cli` `azure-cli-extension`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The Azure CLI Extensions repository is an open-source project that provides a public space for community-driven development of extensions for the Azure Command-Line Interface (CLI). These extensions enable users to access and manage various Azure services and features through the CLI, enhancing its capabilities and flexibility. By contributing to this repository, developers can create and share custom extensions to streamline Azure workflows and improve productivity.
+Azure CLI Extensions is an open‑source repository that hosts a collection of community‑maintained add‑ons for the Azure Command‑Line Interface. These extensions expand the core CLI with additional commands and capabilities for managing Azure services, enabling developers and operators to automate tasks that are not covered by the default toolset. The project welcomes contributions and provides documentation, testing, and release pipelines to keep the extensions up‑to‑date and compatible with the Azure CLI ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Azure/azure-cli-extensions) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Azure/azure-cli-extensions) · [← Back to DevTools](./README.md)</sub>

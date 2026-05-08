@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 501 |
+| ⭐ **Stars** | 511 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`archlinux` `archlinux-community` `archlinux-package` `archlinuxgui` `cachyos` `cli` `dotnet` `garuda-linux` `gtk` `gtk4` `linux` `package-management`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Shelly-ALPM is an open-source Pacman alternative designed specifically for ArchLinux users. This project aims to provide a user-centric experience by making package management more intuitive and accessible. With a focus on frontend development, design, and DevTools, Shelly-ALPM offers a fresh and modern approach to package management on ArchLinux.
+Seafoam‑Labs’ **Shelly‑ALPM** is a lightweight, user‑friendly Pacman replacement tailored for Arch Linux. It provides a modern, graphical frontend that simplifies package management while retaining full compatibility with the underlying ALPM library. Designed for both power users and newcomers, Shelly‑ALPM streamlines searching, installing, updating, and removing packages with an intuitive interface.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Seafoam-Labs/Shelly-ALPM) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Seafoam-Labs/Shelly-ALPM) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20.1k |
+| ⭐ **Stars** | 20.9k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `claude` `gemini` `llama` `llm` `openai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The cheahjs/free-llm-api-resources project provides a comprehensive list of free Large Language Model (LLM) inference resources that can be accessed via API. This collection of resources enables developers to leverage the capabilities of LLMs without incurring significant costs, accelerating AI-powered projects and applications. The project aims to facilitate innovation in the field of artificial intelligence by making these valuable tools readily available.
+cheahjs/free-llm-api-resources is an open‑source curated collection of publicly available large‑language‑model inference endpoints that can be accessed through simple APIs. It provides developers with a ready‑to‑use directory of free LLM services, complete with usage details and links, enabling rapid prototyping and experimentation without incurring hosting costs. The project is organized under the AI/ML and Backend categories, making it a handy reference for anyone building AI‑powered applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cheahjs/free-llm-api-resources) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/cheahjs/free-llm-api-resources) · [← Back to AI/ML](./README.md)</sub>

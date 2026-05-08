@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 177 |
-| 🍴 **Forks** | 136 |
+| 🍴 **Forks** | 137 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`accounting` `accounting-software` `billing` `broadband` `internet-billing` `internet-service-provider` `invoicing` `isp` `isp-billing` `isp-management` `networking` `opensource-isp-billing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · AI/ML · Frontend
 
 ## 📝 Summary
 
-Ubilling is an open-source billing system tailored for Internet service providers (ISPs). It offers robust tools for managing subscribers, processing payments, and generating in-depth reports, as well as remote equipment monitoring and management. Ubilling's extensibility features enable customization to meet the unique needs of its users.
+Ubilling is an open‑source billing platform tailored for Internet Service Providers, offering comprehensive subscriber management, payment processing, and reporting capabilities. It also supports monitoring and control of diverse network equipment, with a modular architecture that lets developers add custom features easily. The project combines a user‑friendly frontend with extensible backend tools for seamless ISP operations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nightflyza/Ubilling) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/nightflyza/Ubilling) · [← Back to Payments](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 397 |
-| 🍴 **Forks** | 67 |
+| ⭐ **Stars** | 395 |
+| 🍴 **Forks** | 68 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-skills` `agents` `autonomous-agents` `clawd` `clawdbot` `clawdbot-plugin` `eliza` `elizaos` `openclaw` `openclaw-skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Milady is an open-source orchestration project that allows for seamless integration and management of AI and ML models. It is designed to be "terminally online", implying a 24/7 focus on availability and uptime. By streamlining the orchestration process, Milady aims to simplify the deployment and scaling of complex AI and ML workflows.
+Milady is an open‑source orchestration framework that leverages AI/ML models to automate and streamline complex workflows directly from the command line. Designed for “terminally online” developers, it provides a lightweight, scriptable interface for chaining together AI services, data pipelines, and system tasks. The project aims to make AI‑driven automation accessible, reproducible, and easy to integrate into existing DevOps environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/milady-ai/milady) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/milady-ai/milady) · [← Back to Orchestration](./README.md)</sub>

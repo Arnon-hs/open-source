@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2019** |
+| 🗂️ **Total projects** | **2059** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 774 | [Browse →](./aiml/) |
-| 📦 **Misc** | 344 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 202 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 192 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 103 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 103 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 87 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 786 | [Browse →](./aiml/) |
+| 📦 **Misc** | 350 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 209 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 197 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 105 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 104 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 88 | [Browse →](./crypto/) |
 | 📊 **Data** | 58 | [Browse →](./data/) |
-| 💳 **Payments** | 48 | [Browse →](./payments/) |
+| 💳 **Payments** | 53 | [Browse →](./payments/) |
 | 📈 **Trading** | 32 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 28 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 23 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 24 | [Browse →](./mobile/) |
 | 🔐 **Security** | 13 | [Browse →](./security/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | ✨ **Design** | 5 | [Browse →](./design/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [cvxpy/cvxpy](./misc/cvxpy-cvxpy.md) | ⭐ 6.2k | Misc |
-| 2 | [invoke-ai/InvokeAI](./aiml/invoke-ai-invokeai.md) | ⭐ 27.1k | AI/ML |
-| 3 | [astral-sh/ruff](./frontend/astral-sh-ruff.md) | ⭐ 47.4k | Frontend |
-| 4 | [bpftrace/bpftrace](./misc/bpftrace-bpftrace.md) | ⭐ 10.1k | Misc |
-| 5 | [ArduPilot/ardupilot](./misc/ardupilot-ardupilot.md) | ⭐ 15k | Misc |
-| 6 | [giampaolo/psutil](./misc/giampaolo-psutil.md) | ⭐ 11.2k | Misc |
-| 7 | [mudler/LocalAI](./aiml/mudler-localai.md) | ⭐ 46.1k | AI/ML |
-| 8 | [trinodb/trino](./data/trinodb-trino.md) | ⭐ 12.8k | Data |
-| 9 | [DioxusLabs/dioxus](./aiml/dioxuslabs-dioxus.md) | ⭐ 35.9k | AI/ML |
-| 10 | [seaweedfs/seaweedfs](./aiml/seaweedfs-seaweedfs.md) | ⭐ 32.1k | AI/ML |
+| 1 | [oraios/serena](./aiml/oraios-serena.md) | ⭐ 23.9k | AI/ML |
+| 2 | [louislam/uptime-kuma](./frontend/louislam-uptime-kuma.md) | ⭐ 86.4k | Frontend |
+| 3 | [skypilot-org/skypilot](./aiml/skypilot-org-skypilot.md) | ⭐ 9.9k | AI/ML |
+| 4 | [pwndbg/pwndbg](./misc/pwndbg-pwndbg.md) | ⭐ 10.4k | Misc |
+| 5 | [cvxpy/cvxpy](./misc/cvxpy-cvxpy.md) | ⭐ 6.2k | Misc |
+| 6 | [invoke-ai/InvokeAI](./aiml/invoke-ai-invokeai.md) | ⭐ 27.1k | AI/ML |
+| 7 | [astral-sh/ruff](./frontend/astral-sh-ruff.md) | ⭐ 47.4k | Frontend |
+| 8 | [ArduPilot/ardupilot](./misc/ardupilot-ardupilot.md) | ⭐ 15k | Misc |
+| 9 | [bpftrace/bpftrace](./misc/bpftrace-bpftrace.md) | ⭐ 10.1k | Misc |
+| 10 | [giampaolo/psutil](./misc/giampaolo-psutil.md) | ⭐ 11.2k | Misc |
 
 ## 🚀 How it works
 

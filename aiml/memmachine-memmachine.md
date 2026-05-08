@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `agents` `agents-sdk` `ai` `ai-agents` `chatbots` `conversational-agents` `conversational-ai` `genai` `knowledge-graph` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-MemMachine is an open-source project that offers a universal memory layer for AI Agents, enabling scalable and extensible state management for autonomous systems. This framework streamlines AI agent state management by providing interoperable memory storage and retrieval, fostering next-generation autonomous systems. By leveraging MemMachine, developers can build more efficient and effective AI agents with improved performance and adaptability.
+MemMachine is an open‑source universal memory layer designed for AI agents, offering scalable and extensible storage and retrieval of contextual data. By abstracting state management into a unified, interoperable interface, it simplifies the implementation of long‑term memory for next‑generation autonomous systems. The project targets AI/ML developers who need robust, plug‑and‑play memory solutions for complex agent workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/MemMachine/MemMachine) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/MemMachine/MemMachine) · [← Back to AI/ML](./README.md)</sub>

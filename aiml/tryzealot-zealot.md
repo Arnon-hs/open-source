@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 162 |
+| 🍴 **Forks** | 163 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adhoc` `android` `appstoreconnect` `deployment` `distribution` `docker` `fastlane` `fir` `gitlab` `ios` `jenkins` `macos-app`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-"Zealot is an open-source, self-hosted platform for distributing mobile, desktop, and other applications. It offers a comprehensive set of tools, including iOS and Android SDKs, and integrates with fastlane for streamlined app deployment. With Zealot, developers can easily manage and distribute applications across multiple platforms."
+Tryzealot Zealot is an open‑source, self‑hosted platform for distributing beta versions of mobile, desktop and cross‑platform applications (Android, iOS, macOS, Linux, Windows). It provides a web UI, REST API and SDKs for iOS/Android (including fastlane integration), allowing developers to manage releases, collect device information and control access without relying on external app stores. The project is built as a backend service with optional AI/ML extensions for analytics and automation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/tryzealot/zealot) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tryzealot/zealot) · [← Back to AI/ML](./README.md)</sub>

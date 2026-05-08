@@ -1,6 +1,6 @@
 # braintree/braintree_android
 
-[![Stars](https://img.shields.io/github/stars/braintree/braintree_android?style=flat-square&color=yellow)](https://github.com/braintree/braintree_android/stargazers) [![Forks](https://img.shields.io/github/forks/braintree/braintree_android?style=flat-square&color=blue)](https://github.com/braintree/braintree_android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/braintree/braintree_android?style=flat-square&color=yellow)](https://github.com/braintree/braintree_android/stargazers) [![Forks](https://img.shields.io/github/forks/braintree/braintree_android?style=flat-square&color=blue)](https://github.com/braintree/braintree_android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Braintree SDK for Android
 
@@ -11,13 +11,13 @@
 | ⭐ **Stars** | 424 |
 | 🍴 **Forks** | 259 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `braintree` `credit-card` `payments` `sdk`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · AI/ML · Mobile
 
 ## 📝 Summary
 
-The braintree/braintree_android project is an open-source, Android-based payment platform that enables secure and seamless transactions through the Braintree payment gateway. This SDK provides developers with a streamlined integration process, allowing them to easily accept various payment types and process transactions within their mobile applications. By leveraging this platform, developers can focus on building innovative features while ensuring robust payment functionality.
+The Braintree Android SDK provides a lightweight, secure library for integrating Braintree’s payment processing services into native Android applications. It supports a wide range of payment methods—including credit/debit cards, PayPal, Google Pay, and local payment options—while handling tokenization, fraud detection, and PCI compliance out of the box. The SDK is open‑source, well‑documented, and easy to add via Gradle, enabling developers to quickly add reliable, mobile‑first payment flows to their apps.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/braintree/braintree_android) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/braintree/braintree_android) · [← Back to Payments](./README.md)</sub>

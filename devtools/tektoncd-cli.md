@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 460 |
-| 🍴 **Forks** | 262 |
+| 🍴 **Forks** | 263 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `hacktoberfest` `pipeline` `tekton`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The Tekton CLI is an open-source command-line interface that enables users to interact with Tekton, a popular tool for building, deploying, and managing cloud-native applications. With this CLI, users can easily automate and manage their workflow pipelines, tasks, and resources across various cloud and on-premises environments. It simplifies the process of working with Tekton, making it more accessible and efficient for developers and DevOps teams.
+Tekton CLI (tkn) is a lightweight command‑line tool for managing Tekton Pipelines and related resources directly from the terminal. It streamlines creation, inspection, and execution of tasks, pipelines, and runs, enabling developers to interact with Tekton clusters efficiently in CI/CD workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/tektoncd/cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tektoncd/cli) · [← Back to DevTools](./README.md)</sub>
