@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 597 |
-| 🍴 **Forks** | 257 |
+| ⭐ **Stars** | 604 |
+| 🍴 **Forks** | 258 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blueprint` `nim` `rag` `retrieval-augmented-generation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The NVIDIA RAG blueprint is an open-source reference solution for a Retrieval Augmented Generation (RAG) pipeline, a foundational AI/ML framework that combines retrieval and generation capabilities. This blueprint provides a structured approach to building RAG pipelines, enabling developers to create more accurate and informative models. By leveraging this blueprint, users can accelerate the development of RAG-based applications.
+The NVIDIA‑AI‑Blueprints / rag repository provides a ready‑to‑run reference implementation of a Retrieval‑Augmented Generation (RAG) pipeline, illustrating how to combine vector search, document retrieval, and large language model inference on NVIDIA hardware. It includes end‑to‑end scripts, containerized components, and sample data to help developers quickly prototype and benchmark RAG workflows for AI/ML applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/NVIDIA-AI-Blueprints/rag) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NVIDIA-AI-Blueprints/rag) · [← Back to AI/ML](./README.md)</sub>

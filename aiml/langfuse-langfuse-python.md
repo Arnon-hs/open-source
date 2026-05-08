@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 392 |
+| ⭐ **Stars** | 398 |
 | 🍴 **Forks** | 265 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`decorators` `langfuse` `pydantic` `pydantic-v2` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Langfuse Python SDK is an open-source project that enables developers to instrument their Large Language Model (LLM) applications with detailed tracing and observability features. This can be achieved through decorators or a low-level SDK, making it compatible with various LLMs and frameworks. By using langfuse, developers can gain valuable insights into their LLM applications' performance and behavior.
+Langfuse‑Python is an open‑source SDK that lets developers add tracing and observability to any LLM‑powered application. By using simple decorators or the low‑level API, you can automatically capture prompts, responses, latencies, and custom metadata, making debugging and performance monitoring straightforward. The library is framework‑agnostic and works with any LLM provider, providing detailed logs that can be visualized in the Langfuse platform.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/langfuse/langfuse-python) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/langfuse/langfuse-python) · [← Back to AI/ML](./README.md)</sub>

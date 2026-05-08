@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Darktable is an open-source photography workflow application and raw image developer that enables photographers to manage, edit, and enhance their digital images in a non-destructive manner. This free software offers advanced features for raw image processing, color grading, and local adjustments, making it a popular choice among photographers and professionals. With its customizable interface and extensive plugin support, darktable provides a powerful and flexible tool for photographers to refine and showcase their work.
+darktable is a free, open‑source photography workflow suite that lets photographers import, organize, edit, and export raw images. It provides a non‑destructive, non‑linear editing environment with advanced tools for color correction, tethered shooting, and batch processing, all built on a modular, plug‑in architecture. Designed for both enthusiasts and professionals, darktable runs on Linux, macOS, and Windows and integrates with popular image management standards.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/darktable-org/darktable) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/darktable-org/darktable) · [← Back to DevTools](./README.md)</sub>

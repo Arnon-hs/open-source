@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 373 |
+| ⭐ **Stars** | 374 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | YAML |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`devops` `flux` `gitops` `home-operations` `homelab` `iac` `k8s` `k8s-at-home` `kubernetes` `kubesearch` `minisforum` `renovate`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The k8s-gitops project is an open-source initiative for building a scalable and managed homelab environment. It utilizes Talos Linux as the base operating system, Flux for GitOps management, Renovate for dependency updates, and GitHub Actions for automation. This setup allows for a streamlined and efficient homelab deployment experience.
+buroa/k8s-gitops is a community‑driven homelab setup that runs a production‑grade Kubernetes cluster on Talos Linux, providing a secure, immutable operating system for the control plane and worker nodes. The stack is fully declarative and automated: Flux continuously reconciles the cluster state from Git, Renovate keeps dependencies up‑to‑date, and GitHub Actions drive CI/CD pipelines for seamless deployments. This project showcases an “enterprise‑grade” GitOps workflow that can be replicated in any self‑hosted environment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/buroa/k8s-gitops) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/buroa/k8s-gitops) · [← Back to AI/ML](./README.md)</sub>

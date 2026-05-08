@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitcoin` `bitcoin-wallet` `electrum` `lightning` `lightning-network` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto
 
 ## 📝 Summary
 
-Electrum is an open-source, lightweight Bitcoin wallet that provides users with a secure and user-friendly platform for storing, sending, and receiving Bitcoin transactions. Its simple design and compatibility with multiple operating systems make it an accessible option for Bitcoin enthusiasts. With Electrum, users can manage their Bitcoin funds with ease and confidence.
+spesmilo/electrum is an open‑source lightweight Bitcoin wallet that enables fast, secure transactions without downloading the full blockchain. It provides a user‑friendly interface, advanced features such as multi‑signature support, hardware‑wallet integration, and customizable transaction fees, making it suitable for both beginners and power users in the cryptocurrency space.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/spesmilo/electrum) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/spesmilo/electrum) · [← Back to Crypto](./README.md)</sub>

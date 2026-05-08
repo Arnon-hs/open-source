@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `awesome-list` `cli` `cli-app` `list`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-"Awesome-cli-apps is a community-driven collection of command-line applications that offer a wide range of functionalities, from development tools to productivity software. This curated list provides a comprehensive resource for discovering and utilizing powerful CLI tools, making it easier to streamline workflows and enhance productivity. Whether you're a developer, sysadmin, or simply looking for efficient workflows, this repository is an excellent starting point."
+agarrharr/awesome-cli-apps is a curated, community‑maintained collection of useful command‑line applications spanning development tools, data processing, system monitoring, gaming, and more. The repository provides concise descriptions and links to each CLI app, helping developers quickly discover and adopt powerful terminal utilities for a wide range of tasks. It serves as a go‑to reference for anyone looking to enhance their workflow with effective command‑line solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/agarrharr/awesome-cli-apps) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/agarrharr/awesome-cli-apps) · [← Back to DevTools](./README.md)</sub>

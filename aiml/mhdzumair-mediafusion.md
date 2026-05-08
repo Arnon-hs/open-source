@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 848 |
+| ⭐ **Stars** | 849 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bollywood` `debrid` `debridlink` `hacktoberfest` `hacktoberfest2023` `movies` `python` `real-debrid` `seedr` `series` `stremio` `stremio-addon`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-MediaFusion is an open-source, universal add-on for Stremio and Kodi, designed to provide users with an extensive media library and streaming capabilities. Leveraging AI/ML technologies, MediaFusion enhances the user experience by offering personalized recommendations, content aggregation, and seamless integration with various streaming services. This innovative add-on aims to revolutionize the way users access and enjoy their favorite media content.
+MediaFusion is an open‑source universal add‑on that bridges Stremio and Kodi, allowing users to stream and manage media content seamlessly across both platforms. Leveraging AI‑driven content discovery and metadata enhancement, it provides a unified library, automated recommendations, and cross‑platform playback controls. The project is community‑maintained and aims to simplify media consumption for home‑theater enthusiasts.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/mhdzumair/MediaFusion) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mhdzumair/MediaFusion) · [← Back to AI/ML](./README.md)</sub>

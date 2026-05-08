@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 13.7k |
-| 🍴 **Forks** | 350 |
+| 🍴 **Forks** | 351 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ast` `babel` `codemod` `codereview` `command-line` `command-line-tool` `grep` `linter` `refactoring` `rust` `search` `static-analysis`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Ast-grep is an open-source command-line tool that enables structural searching, linting, and rewriting of code. Built with Rust, it provides a powerful and efficient way to navigate and manipulate code structures. This utility is designed to simplify code analysis and modification tasks, making it an invaluable resource for developers and DevOps teams.
+ast‑grep is a fast, Rust‑based command‑line utility that lets developers perform structural code searches, linting, and automated rewriting across multiple programming languages. By parsing source files into abstract syntax trees, it enables precise pattern matching and transformation beyond simple text greps, making it ideal for large‑scale codebase refactoring and quality checks. It’s open‑source and geared toward developers who need powerful, language‑aware tooling in their DevOps pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ast-grep/ast-grep) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ast-grep/ast-grep) · [← Back to DevTools](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 669 |
-| 🍴 **Forks** | 61 |
+| ⭐ **Stars** | 679 |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `automation` `llm` `playwright` `reverse-engineering` `scraping`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The kalil0321/reverse-api-engineer project is an open-source initiative that utilizes AI-powered capabilities to reverse-engineer APIs. It captures API traffic, generates comprehensive documentation, and automatically creates clients, streamlining the API development process. This tool empowers developers with an efficient means of understanding and interacting with APIs.
+Kalil0321’s **reverse‑api‑engineer** is an AI‑powered tool that intercepts network traffic, extracts API specifications, and auto‑generates comprehensive documentation and client libraries for the discovered endpoints. By leveraging Claude’s language model, it streamlines the reverse‑engineering process, turning opaque APIs into fully documented, ready‑to‑use SDKs for any backend. Ideal for developers needing quick insight into third‑party services or for building internal tooling around undocumented APIs.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/kalil0321/reverse-api-engineer) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kalil0321/reverse-api-engineer) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 141 |
-| 🍴 **Forks** | 6 |
+| ⭐ **Stars** | 145 |
+| 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `ai-agents` `checkpoints` `durable-execution` `llm` `mcp` `mlops` `observability` `pydantic` `pydantic-ai` `python` `replay`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Product
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Kitaru is an open-source, production-ready platform that enables seamless orchestration and deployment of AI agents. This comprehensive platform layer streamlines the process of integrating AI models into production environments, making it easier to build, deploy, and manage AI applications at scale. By leveraging Kitaru, organizations can accelerate their AI adoption and improve the overall efficiency of their AI operations.
+ZenML‑Kitaru is an open‑source platform that provides a production‑grade orchestration layer for AI agents, enabling developers to build, deploy, and manage complex agent pipelines with ease. By integrating tightly with ZenML’s ML‑ops tooling, Kitaru abstracts common workflow concerns—such as versioning, monitoring, and scaling—so teams can focus on agent logic rather than infrastructure. It’s suited for any AI/ML product that requires reliable, reproducible, and observable agent execution in a production environment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/zenml-io/kitaru) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/zenml-io/kitaru) · [← Back to Orchestration](./README.md)</sub>

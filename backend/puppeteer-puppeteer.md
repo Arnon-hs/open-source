@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 94.2k |
+| ⭐ **Stars** | 94.3k |
 | 🍴 **Forks** | 9.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automation` `chrome` `chromium` `developer-tools` `firefox` `headless-chrome` `node-module` `testing` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Puppeteer is an open-source JavaScript API that provides a high-level interface for controlling Chrome and Firefox browsers programmatically. This API enables developers to automate web scraping, generate website screenshots, and debug web applications by simulating real user interactions. With Puppeteer, developers can automate interactions, inspect elements, and retrieve page data, making it a powerful tool for web development and automation tasks.
+Puppeteer is a Node.js library that provides a high‑level JavaScript API to control headless (or full) Chrome and Firefox browsers via the DevTools Protocol. It enables developers to automate tasks such as UI testing, web scraping, PDF generation, and performance monitoring, while offering powerful features like page manipulation, network interception, and screenshot capture. Ideal for backend workflows and DevTools integration, Puppeteer simplifies browser automation with a clean, promise‑based interface.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/puppeteer/puppeteer) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/puppeteer/puppeteer) · [← Back to Backend](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 209 |
+| 🍴 **Forks** | 210 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `agentic-framework` `agents` `ai` `llm` `llm-inference` `llms` `php` `vector-database`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Neuron-ai is an open-source PHP framework that enables the development of production-ready AI-driven applications. It allows users to integrate and connect various components such as large language models, vector databases, and memory modules to build sophisticated agents that interact with data. This framework streamlines the process of creating data-driven applications and facilitates the integration of AI technologies.
+Neuro​n‑Core/Neuron‑AI is an open‑source PHP framework that lets developers quickly assemble production‑ready, agentic AI applications. It provides plug‑and‑play integrations for large language models, vector databases, and memory stores, enabling agents to retrieve, reason over, and act on your data directly from PHP code. The project targets AI/ML, frontend, and data‑centric use cases, streamlining the creation of intelligent, data‑driven services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/neuron-core/neuron-ai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/neuron-core/neuron-ai) · [← Back to AI/ML](./README.md)</sub>

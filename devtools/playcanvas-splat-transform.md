@@ -1,23 +1,23 @@
 # playcanvas/splat-transform
 
-[![Stars](https://img.shields.io/github/stars/playcanvas/splat-transform?style=flat-square&color=yellow)](https://github.com/playcanvas/splat-transform/stargazers) [![Forks](https://img.shields.io/github/forks/playcanvas/splat-transform?style=flat-square&color=blue)](https://github.com/playcanvas/splat-transform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/playcanvas/splat-transform?style=flat-square&color=yellow)](https://github.com/playcanvas/splat-transform/stargazers) [![Forks](https://img.shields.io/github/forks/playcanvas/splat-transform?style=flat-square&color=blue)](https://github.com/playcanvas/splat-transform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
-> CLI tool for 3D Gaussian splat format conversion and transformation
+> CLI tool and library for 3D Gaussian splat processing and conversion
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 712 |
-| 🍴 **Forks** | 82 |
+| ⭐ **Stars** | 803 |
+| 🍴 **Forks** | 92 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d-gaussian-splatting` `cli` `gaussian-splatting` `playcanvas` `supersplat` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the playcanvas/splat-transform project:
-
-The playcanvas/splat-transform is an open-source command-line tool designed to handle conversions and transformations of 3D Gaussian splat format data. This tool enables efficient manipulation of 3D geometry data, streamlining workflows for developers working with 3D graphics and simulations. It supports various file formats and operations, making it a valuable asset for game development and other related applications.
+The **playcanvas/splat-transform** project provides a command‑line interface and a JavaScript library for processing, converting, and manipulating 3D Gaussian splat datasets (often used for real‑time point‑cloud rendering). It supports common formats, offers batch operations, and can be integrated into build pipelines or used as a standalone tool for preparing splat data for visualization in PlayCanvas and other WebGL engines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/playcanvas/splat-transform) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/playcanvas/splat-transform) · [← Back to DevTools](./README.md)</sub>

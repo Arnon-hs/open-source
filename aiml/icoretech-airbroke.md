@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`airbrake` `crash-reporting` `crash-reporting-tool` `crash-reports` `devops` `error-handling` `error-logging` `error-monitoring` `mcp-server` `monitor` `monitoring` `nextjs`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the icoretech/airbroke project:
-
-Airbroke is a lightweight, open-source error catcher that is compatible with Airbrake and Sentry. Built on top of PostgreSQL, it provides a robust and scalable solution for catching and managing errors in AI/ML and backend applications. This project offers a flexible and customizable alternative for error tracking and reporting.
+icoretech/airbroke is a lightweight, open‑source error‑catching service that mimics the APIs of Airbrake and Sentry while storing events in PostgreSQL for fast, reliable querying and retention. Designed for modern backend and AI/ML applications, it offers simple deployment, real‑time notifications, and full compatibility with existing Airbrake/Sentry client libraries.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/icoretech/airbroke) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/icoretech/airbroke) · [← Back to AI/ML](./README.md)</sub>

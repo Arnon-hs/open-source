@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 292 |
-| 🍴 **Forks** | 17 |
+| 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`approval-process` `bpmn` `employee-onboarding` `hitl` `human-in-the-loop` `onboarding` `orchestration-framework` `python` `saas` `self-hosted` `workflow` `workflow-automation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Product
 
 ## 📝 Summary
 
-The pneumaticworkflow project is an open-source, Apache 2.0 licensed tool designed for lightweight workflow automation. It offers a simple and efficient way to automate tasks and workflows, making it an ideal solution for various industries and applications, including AI/ML and product development. With pneumaticworkflow, users can streamline their processes and improve productivity.
+PneumaticWorkflow is a lightweight, open‑source workflow automation platform released under the Apache 2.0 license. It enables users to design, orchestrate, and execute complex task pipelines—including AI/ML jobs—through a simple, extensible interface. Ideal for product teams looking for a free, source‑available solution to streamline data processing, model training, and other automated workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/pneumaticapp/pneumaticworkflow) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/pneumaticapp/pneumaticworkflow) · [← Back to Orchestration](./README.md)</sub>

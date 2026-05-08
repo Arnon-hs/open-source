@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 496 |
+| ⭐ **Stars** | 497 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-tools` `desktop-app` `developer-tools` `electron` `git` `llm` `macos` `openclaw` `openclaw-alternative` `react` `sqlite`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-ClawWork is an open-source client that connects to OpenClaw, enabling users to unlock significant productivity gains with 10x multi-session capabilities. This tool is built for developers and utilizes AI/ML technology to streamline workflows. By leveraging ClawWork, users can seamlessly integrate with OpenClaw to enhance their productivity and efficiency.
+ClawWork is an open‑source client that integrates with your own OpenClaw deployment, providing a streamlined interface for managing multiple AI sessions simultaneously. By leveraging OpenClaw’s capabilities, ClawWork boosts productivity up to tenfold, making it ideal for developers and teams who need rapid, multi‑session AI workflows. It combines a modern frontend with dev‑tool utilities, fitting comfortably into AI/ML and developer tool ecosystems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/clawwork-ai/ClawWork) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/clawwork-ai/ClawWork) · [← Back to AI/ML](./README.md)</sub>

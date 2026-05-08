@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 386 |
-| 🍴 **Forks** | 36 |
+| ⭐ **Stars** | 389 |
+| 🍴 **Forks** | 38 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amneziawg` `anti-censorship` `arm64` `automation` `bash` `debian` `dpi-bypass` `installer` `linux` `privacy` `raspberry-pi` `security`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This project provides a simple, one-command installer for AmneziaWG 2.0, a self-hosted VPN solution that offers DPI bypass and traffic obfuscation capabilities. The installer is compatible with Ubuntu and Debian operating systems, and includes features like auto-hardening and client management to ensure a secure setup. This project is ideal for users looking to securely host their own VPN.
+The **bivlked/amneziawg-installer** project provides a single‑command script that automates the deployment of a self‑hosted AmneziaWG 2.0 VPN on Ubuntu or Debian systems. It configures DPI bypass, traffic obfuscation, and hardening measures, and includes tools for easy client management, making secure VPN setup fast and reproducible.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bivlked/amneziawg-installer) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bivlked/amneziawg-installer) · [← Back to Backend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 338 |
-| 🍴 **Forks** | 41 |
+| ⭐ **Stars** | 339 |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `formal-methods` `formal-verification` `program-verification` `rust` `rust-lang` `static-analysis`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The AeneasVerif/charon project is an open-source tool that enables the analysis of Rust crates without delving into the compiler's internal workings. This allows for a more accessible and flexible way to inspect and understand the behavior of Rust libraries. By abstracting away the complexities of compiler internals, charon empowers developers to focus on the code they care about.
+AeneasVerif/charon is a Rust analysis framework that enables deep inspection of Rust crates without relying on or modifying the compiler's internals. By leveraging external tooling and custom parsing techniques, it provides developers with insights into crate structure, dependencies, and potential issues while remaining lightweight and easy to integrate into existing workflows. The project is positioned as a miscellaneous utility for Rust ecosystem analysis.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/AeneasVerif/charon) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/AeneasVerif/charon) · [← Back to Misc](./README.md)</sub>

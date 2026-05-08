@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 36 |
+| 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mediaserver` `music` `music-collection` `music-video` `self-hosted` `server` `video` `webapp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the Meelo project:
-
-Meelo is an open-source, self-hosted music server designed to provide a seamless music experience. It focuses on integrating rich metadata and offers a user-friendly interface for easy navigation and music management. With Meelo, users can host their music library privately and access it from anywhere.
+Meelo is a self‑hosted music server that seamlessly combines a modern frontend UI with robust backend services, offering deep integration of metadata from various sources. Designed for enthusiasts who want full control over their music library, it provides a responsive, feature‑rich interface while handling data management, indexing, and playback on the server side. The project is open source and targets both frontend and backend developers interested in media‑centric applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Arthi-chaud/Meelo) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Arthi-chaud/Meelo) · [← Back to Frontend](./README.md)</sub>

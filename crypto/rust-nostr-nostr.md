@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`freedom` `nostr` `nostr-connect` `nostr-protocol` `nwc` `protocol` `python` `rust` `rust-lang` `rust-nostr` `sdk` `swift`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · DevTools
 
 ## 📝 Summary
 
-The rust-nostr/nostr project is an open-source implementation of the Nostr protocol in Rust, providing a high-level client library and tools such as Nostr Wallet Connect. This library enables developers to easily interact with the decentralized social network, allowing for the creation of various applications that leverage Nostr's features. By utilizing the Rust language for development, the project aims to deliver a robust and efficient Nostr implementation.
+rust-nostr/nostr is a Rust library that provides a comprehensive, high‑level implementation of the Nostr decentralized messaging protocol. It includes client‑side utilities, support for Nostr Wallet Connect, and additional tools for building crypto‑focused applications. The project is open‑source and positioned as a developer‑friendly toolkit for interacting with the Nostr ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/rust-nostr/nostr) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rust-nostr/nostr) · [← Back to Crypto](./README.md)</sub>

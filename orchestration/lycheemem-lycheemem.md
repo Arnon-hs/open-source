@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 238 |
+| ⭐ **Stars** | 239 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `ai` `ai-memory` `ai-memory-system` `hermes` `llm-memory` `lychee` `mcp` `mcp-server` `memory` `memory-system` `openclaw`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-LycheeMem is an open-source, lightweight long-term memory solution designed for Large Language Model (LLM) agents. It enables efficient storage and retrieval of knowledge, allowing LLMs to maintain a robust and dynamic understanding of their environment. This project simplifies the integration of long-term memory capabilities into LLM-based systems, facilitating more effective and adaptable AI applications.
+LycheeMem is an open‑source, lightweight long‑term memory system designed specifically for large language model (LLM) agents. It provides a simple, extensible backend that lets agents store, retrieve, and update contextual information across interactions, enabling more coherent and persistent behavior in autonomous workflows. Ideal for orchestration pipelines and AI/ML applications, LycheeMem offers a minimal‑dependency solution for developers who need scalable, persistent memory without heavyweight infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/LycheeMem/LycheeMem) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/LycheeMem/LycheeMem) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 952 |
-| 🍴 **Forks** | 120 |
+| ⭐ **Stars** | 1k |
+| 🍴 **Forks** | 128 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `knowledge-base` `llm-tools` `obsidian` `wiki`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This open-source project, Obsidian Wiki, provides a framework for AI agents to create and manage Obsidian wikis using Karpathy's LLM Wiki pattern. It enables AI agents to build and maintain knowledge bases with precision and efficiency, utilizing the power of large language models. By leveraging this framework, users can unlock the potential of AI-driven knowledge management in Obsidian.
+Ar9av/obsidian-wiki is an open‑source framework that lets AI agents automatically create, update, and organize content in an Obsidian vault by leveraging Andrej Karpathy’s LLM‑Wiki pattern. It orchestrates language‑model prompting, file management, and front‑end integration so the wiki stays coherent and up‑to‑date with minimal human intervention. The project sits at the intersection of orchestration, AI/ML, and frontend tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Ar9av/obsidian-wiki) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Ar9av/obsidian-wiki) · [← Back to Orchestration](./README.md)</sub>

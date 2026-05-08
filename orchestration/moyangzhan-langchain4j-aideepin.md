@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 307 |
+| 🍴 **Forks** | 311 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-workflow` `graphrag` `knowlege-base` `langchain4j` `mcp` `rag`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Langchain4J-AiDeepin is an open-source, AI-based productivity tool that enhances work efficiency through various features such as chat, drawing, knowledge management, workflow automation, and more. This comprehensive platform integrates capabilities like speech recognition, text-to-speech, and long-term memory to streamline tasks and boost productivity. By leveraging AI and machine learning, Langchain4J-AiDeepin aims to revolutionize the way people work.
+Moyangzhan’s **langchain4j‑aideepin** is an open‑source AI‑powered productivity suite that combines conversational chat, image generation, retrieval‑augmented generation (RAG) knowledge bases, customizable workflows, and a marketplace for micro‑service plug‑ins (MCP). It also offers speech recognition (ASR), text‑to‑speech (TTS), and long‑term memory capabilities, all orchestrated through a modular architecture aimed at streamlining everyday work tasks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/moyangzhan/langchain4j-aideepin) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/moyangzhan/langchain4j-aideepin) · [← Back to Orchestration](./README.md)</sub>

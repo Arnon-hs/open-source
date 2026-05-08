@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 935 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cicd` `data-masking` `data-security` `database-access` `dbeaver` `devsecops` `flyway` `gitops` `liquibase` `mongodb` `mysql` `oracle`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Bytebase is an open-source database DevSecOps solution that streamlines collaboration and security for Developer, Security, DBA, and Platform Engineering teams. It provides a comprehensive platform for database management, security, and governance, often referred to as the "GitHub or GitLab for database DevSecOps." By leveraging Bytebase, teams can improve database security, efficiency, and compliance.
+Bytebase is an open‑source DevSecOps platform that streamlines database development, security, and operations for developers, DBAs, security teams, and platform engineers. It provides a unified UI and APIs for version‑controlled schema changes, automated migration workflows, vulnerability scanning, and access governance—essentially the GitHub/GitLab experience tailored for databases. The project includes both frontend and backend components and serves as a comprehensive dev‑tool for modern data infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/bytebase/bytebase) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bytebase/bytebase) · [← Back to Frontend](./README.md)</sub>

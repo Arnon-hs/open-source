@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 388 |
+| ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`checkpoint` `client` `ipsec` `linux` `network` `rust` `snx` `vpn`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The snx-rs project is an open-source Linux client for establishing Check Point VPN tunnels, providing users with a secure and reliable connection to their network resources. This project aims to offer a free and community-driven alternative to Check Point's proprietary VPN client. By utilizing snx-rs, users can simplify their VPN setup and configuration process.
+A lightweight, open‑source Linux client for establishing Check Point VPN tunnels, written in Rust. It provides a command‑line interface and easy integration with network managers, enabling secure remote access on Linux systems without relying on proprietary software. The project is actively maintained and licensed for community contributions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ancwrd1/snx-rs) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ancwrd1/snx-rs) · [← Back to DevTools](./README.md)</sub>
