@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adobe-acrobat` `docker` `hacktoberfest` `javascript` `jpgtopdf` `pdf` `pdf-converter` `pdf-editor` `pdf-generation` `pdf-ocr` `pdf-tools` `pdf-viewer`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-The Privacy First PDF Toolkit is an open-source project that aims to provide a secure and private way of handling PDF files. It offers a range of tools and features to protect user data and maintain confidentiality, making it an essential tool for individuals and organizations prioritizing data privacy. This toolkit can be used to enhance the security and integrity of sensitive information stored in PDF format.
+The **Privacy First PDF Toolkit** (alam00000/bentopdf) is an open‑source suite for securely processing PDF files without compromising user data. It provides command‑line utilities for tasks such as merging, splitting, encrypting, and redacting PDFs, all designed with privacy‑by‑design principles and minimal external dependencies, making it well‑suited for DevOps and infrastructure automation pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/alam00000/bentopdf) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/alam00000/bentopdf) · [← Back to DevOps & Infra](./README.md)</sub>

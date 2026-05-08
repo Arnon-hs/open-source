@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.6k |
-| 🍴 **Forks** | 772 |
+| 🍴 **Forks** | 777 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-AIOS (AI Agent Operating System) is an open-source project that aims to provide a robust and scalable platform for developing intelligent agents using AI and machine learning technologies. This mobile-focused operating system enables the creation of autonomous applications that can interact with their environment, making decisions and adapting to new situations. By providing a standardized framework, AIOS facilitates the development and deployment of AI-powered agents across various platforms.
+AIOS (AI Agent Operating System) is an open‑source framework that enables developers to create, manage, and deploy autonomous AI agents across mobile platforms. It provides a modular architecture, standardized APIs, and tools for seamless integration of machine‑learning models, allowing agents to perform complex tasks, interact with device resources, and communicate with cloud services. AIOS aims to simplify the development of intelligent, context‑aware mobile applications in the AI/ML ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/agiresearch/AIOS) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/agiresearch/AIOS) · [← Back to AI/ML](./README.md)</sub>

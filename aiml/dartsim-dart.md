@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 300 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`collision-detection` `computer-animation` `constraint-dynamics` `dartpy` `dynamics` `gazebo` `inverse-kinematics` `kinematics` `lie-group` `mjcf` `multibody-dynamics` `physics-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Dart physics engine is an open-source, C++20 library designed for robotics and animation applications, providing robust collision detection, constraint management, and a seamless interface with Python for flexible development and integration. With its focus on high-performance and accuracy, Dart empowers developers to create realistic simulations and animations with ease. This powerful tool is ideal for AI/ML researchers and engineers working on robotics, computer graphics, and game development projects.
+DART (Dynamic Animation and Robotics Toolkit) is a modern C++20 physics engine designed for realistic simulation of robotics and character animation. It offers robust collision detection, a versatile constraint system, and seamless Python bindings, enabling researchers and developers to integrate high‑fidelity dynamics into AI/ML pipelines and interactive applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/dartsim/dart) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dartsim/dart) · [← Back to AI/ML](./README.md)</sub>

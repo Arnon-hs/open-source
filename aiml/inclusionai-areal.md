@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.1k |
-| 🍴 **Forks** | 487 |
+| 🍴 **Forks** | 492 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `llm` `llm-agent` `llm-reasoning` `machine-learning-systems` `mlsys` `reinforcement-learning` `rl`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the inclusionAI/AReaL project:
-
-AReaL is an open-source project that simplifies the integration of Reinforcement Learning (RL) with Large Language Models (LLMs) for agent applications. This RL Bridge enables users to create flexible and scalable LLM-based RL agents, making it easier to build and train complex AI models. With AReaL, developers can leverage the strengths of both RL and LLMs to tackle diverse AI challenges.
+inclusionAI/AReaL is an open‑source framework that serves as a reinforcement‑learning (RL) bridge for building LLM‑based agents, providing a simple yet flexible interface to connect language models with RL environments. It streamlines the development of adaptive, goal‑directed applications by handling policy execution, reward feedback, and environment interaction out of the box, making it easier for researchers and developers to experiment with RL‑enhanced language agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/inclusionAI/AReaL) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/inclusionAI/AReaL) · [← Back to AI/ML](./README.md)</sub>

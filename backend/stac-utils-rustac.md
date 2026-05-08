@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `earth-observation` `geospatial` `metadata` `python` `raster` `rust` `server` `stac`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Data
 
 ## 📝 Summary
 
-stac-utils/rustac is an open-source project that brings the power of the Rust programming language to the STAC (Spatial Data on the Web) ecosystem. This project enables developers to create high-performance, data-driven applications using the STAC standard, taking advantage of Rust's memory safety and concurrency features. By leveraging Rust, stac-utils/rustac streamlines the development of spatial data applications, making it easier to work with large datasets and complex spatial data workflows.
+stac-utils/rustac brings the speed, safety, and concurrency of Rust to the STAC (SpatioTemporal Asset Catalog) ecosystem, offering a high‑performance backend for handling geospatial metadata and assets. It provides robust, type‑safe APIs and tooling for creating, querying, and managing STAC collections and items, making large‑scale geospatial data pipelines more reliable and efficient.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/stac-utils/rustac) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/stac-utils/rustac) · [← Back to Backend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bash` `carapace` `cli` `completion` `elvish` `fish` `ion` `nushell` `oil` `powershell` `productivity` `shell`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the carapace-sh/carapace-bin open-source project:
-
-The carapace-sh/carapace-bin project is an open-source, multi-shell completion binary designed to provide a unified and efficient way to complete commands across various shells. This versatile tool aims to simplify the user experience by minimizing the need to learn different completion mechanisms for each shell. With carapace-bin, users can enjoy consistent and seamless completion functionality across their preferred shells.
+carapace‑bin is an open‑source, cross‑shell completion engine that provides context‑aware command‑line suggestions for a wide range of tools. It compiles a single binary capable of generating completions for Bash, Zsh, Fish, PowerShell and other shells, simplifying installation and maintenance for developers. The project is packaged under the DevTools/Product category and can be integrated into any CLI workflow to enhance productivity.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/carapace-sh/carapace-bin) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/carapace-sh/carapace-bin) · [← Back to DevTools](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 98.3k |
-| 🍴 **Forks** | 32.7k |
+| 🍴 **Forks** | 32.6k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`design-system` `material-design` `material-ui` `react` `react-components`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-Material UI is a free, open-source React component library that enables developers to create visually appealing and user-friendly applications with Google's Material Design. This comprehensive library provides a wide range of pre-built components and tools to simplify the development process and enhance the overall user experience. With Material UI, developers can focus on building robust and engaging applications without worrying about design and styling complexities.
+Material‑UI (now called MUI) is an open‑source React component library that faithfully implements Google’s Material Design guidelines, offering a comprehensive set of customizable, accessible UI elements such as buttons, dialogs, grids, and theming utilities. It enables developers to build modern, responsive front‑end applications quickly while maintaining design consistency and supports extensive theming, styling, and integration with popular tooling. The project is free to use and continuously maintained by the community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/mui/material-ui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mui/material-ui) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 823 |
+| ⭐ **Stars** | 826 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fine-tune` `llm` `python` `scaleai`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The Scale LLM Engine is an open-source repository that provides a scalable and efficient architecture for large language model (LLM) engines. This project enables developers to build and deploy AI-powered applications using a state-of-the-art LLM engine, optimized for performance and reliability. By leveraging this public repository, developers can integrate LLM technology into their applications with ease.
+Scale LLM Engine is an open‑source backend framework designed to simplify the deployment, scaling, and management of large language models (LLMs) in production environments. It provides a modular architecture for serving, routing, and monitoring LLM inference workloads, integrating with popular cloud and on‑premise infrastructures while offering extensible APIs for custom model adapters and resource orchestration. The project aims to streamline AI/ML operations, making it easier for developers to build reliable, high‑throughput LLM services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/scaleapi/llm-engine) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/scaleapi/llm-engine) · [← Back to AI/ML](./README.md)</sub>

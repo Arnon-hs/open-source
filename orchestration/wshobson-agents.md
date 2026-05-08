@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 34.8k |
+| ⭐ **Stars** | 35k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `anthropic` `anthropic-claude` `automation` `claude` `claude-code` `claude-code-cli` `claude-code-commands` `claude-code-plugin` `claude-code-plugins` `claude-code-skills` `claude-code-subagents`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The wshobson/agents project is an open-source solution that enables intelligent automation and multi-agent orchestration for Claude Code. This project streamlines complex workflows by seamlessly integrating AI/ML capabilities, making it easier to automate tasks and optimize processes. By leveraging the power of multi-agent orchestration, developers can unlock greater efficiency and productivity in their applications.
+The **agents** project by wshobson provides a framework for intelligent automation and multi‑agent orchestration built around Claude Code. It lets developers define, coordinate, and execute autonomous agents that can collaborate on complex tasks, making it easier to integrate Claude’s capabilities into DevOps pipelines, AI workflows, and other tooling. The library is open‑source and targets orchestration, AI/ML, and developer‑tooling use cases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/wshobson/agents) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wshobson/agents) · [← Back to Orchestration](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 214 |
+| 🍴 **Forks** | 216 |
 | 💻 **Language** | Svelte |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adventure` `allauth` `api` `daisyui` `django` `django-rest-framework` `docker` `dockerfile` `nginx` `self-hosted` `selfhosted` `sveltekit`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-AdventureLog is a self-hostable travel tracker and trip planner that empowers users to plan and document their adventures in a secure, private environment. Built with a focus on flexibility and customization, this open-source project allows users to track their trips, itineraries, and memories with ease. By hosting it themselves, users maintain control over their data and can tailor the experience to their unique travel needs.
+AdventureLog is an open‑source, self‑hosted web application that lets users log past trips, plan future itineraries, and visualize travel data. It combines a modern frontend interface with a robust backend, and includes AI/ML features for itinerary suggestions and route optimization. The project is designed for personal deployment, giving travelers full control over their data while offering an extensible platform for travel‑related analytics.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/seanmorley15/AdventureLog) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/seanmorley15/AdventureLog) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 90 |
-| 🍴 **Forks** | 29 |
+| ⭐ **Stars** | 94 |
+| 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-collaboration` `ai` `artifacts` `claude-code` `cli` `codex` `coding-agent` `context-engineering` `continual-learning` `knowledge-base` `mcp` `memory`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The stash project is an open-source, shared memory solution designed to facilitate seamless collaboration among coding agents within a team. It enables efficient data exchange and synchronization across agents, streamlining the coding process and promoting productivity. By providing a unified shared memory space, stash empowers teams to develop and deploy AI/ML models, and other complex applications, with greater ease and speed.
+Fergana‑Labs / stash provides a lightweight, shared‑memory layer that lets multiple coding agents collaborate in real time, synchronizing state and data without the overhead of external services. Designed for AI‑driven development pipelines, it integrates seamlessly with orchestration tools and DevOps workflows, enabling teams to build, test, and iterate on code more efficiently.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Fergana-Labs/stash) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Fergana-Labs/stash) · [← Back to Orchestration](./README.md)</sub>

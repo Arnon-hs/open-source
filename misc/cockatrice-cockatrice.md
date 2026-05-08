@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 509 |
+| 🍴 **Forks** | 510 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `card-games` `cockatrice` `hacktoberfest` `magic-the-gathering` `tabletop-gaming` `transifex`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Cockatrice is an open-source, cross-platform virtual tabletop designed for multiplayer card games. It allows players to engage in tabletop gameplay remotely, providing a digital platform for socializing and competing with friends. By offering a flexible and accessible experience, Cockatrice enables enthusiasts of tabletop card games to connect and play together from anywhere in the world.
+Cockatrice is a free, open‑source virtual tabletop that lets players gather online to play a wide variety of collectible card games, including Magic: The Gathering, without needing official digital versions. It runs on Windows, macOS, and Linux, offering features such as custom deck building, chat, dice rolling, and a shared board space for multiplayer matches. The project is community‑maintained and licensed under the GPL, making it a flexible platform for any card‑game enthusiast.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Cockatrice/Cockatrice) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Cockatrice/Cockatrice) · [← Back to Misc](./README.md)</sub>

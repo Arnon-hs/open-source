@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 246 |
-| 🍴 **Forks** | 26 |
+| ⭐ **Stars** | 299 |
+| 🍴 **Forks** | 37 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code` `claude-code-cli` `opencode` `opencode-ai` `opencode-go` `opencode-zen`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · AI/ML · DevTools
 
 ## 📝 Summary
 
-The oc-go-cc project is an open-source initiative that enables users to integrate their OpenCode Go subscription with Claude Code, providing a seamless experience for coding and development. This integration offers enhanced capabilities for users to access and utilize their OpenCode Go subscription within the Claude Code environment. The project aims to streamline development workflows and unlock new possibilities for users.
+samueltuyizere/oc-go-cc is an open‑source library that lets developers integrate their OpenCode Go subscription directly into Claude Code workflows. It handles authentication, usage tracking, and payment routing so you can seamlessly call Claude’s AI models from Go applications without managing separate billing. Ideal for projects that need AI/ML capabilities combined with a streamlined payments solution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/samueltuyizere/oc-go-cc) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/samueltuyizere/oc-go-cc) · [← Back to Payments](./README.md)</sub>

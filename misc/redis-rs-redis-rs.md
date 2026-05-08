@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.2k |
-| 🍴 **Forks** | 670 |
+| 🍴 **Forks** | 669 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, redis-rs, is a Redis library designed for use with the Rust programming language. It allows developers to interact with Redis databases in a seamless and efficient manner, making it an ideal choice for building scalable and high-performance applications. By providing a robust and easy-to-use interface, redis-rs simplifies the process of working with Redis from Rust-based projects.
+Redis‑rs is a native Rust client library for interacting with Redis servers. It provides a type‑safe, async‑compatible API for executing commands, pipelining, transactions, and pub/sub, while handling connection pooling and reconnection logic. Designed for performance and ergonomics, it enables Rust applications to seamlessly integrate Redis as a fast, in‑memory data store.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/redis-rs/redis-rs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/redis-rs/redis-rs) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 426 |
+| ⭐ **Stars** | 432 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mcp` `mcp-client` `mcp-gateway` `mcp-proxy` `mcp-server` `unified-mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The 1mcp-app/agent project is an open-source, unified server implementation of the Model Context Protocol (MCP). It aggregates multiple MCP servers into a single entity, providing a centralized and streamlined interface for AI/ML model integration and management. This project is ideal for developers working on large-scale AI applications that require seamless model context switching and aggregation.
+The **1mcp-app/agent** project provides a unified Model Context Protocol (MCP) server that consolidates multiple MCP services into a single, easy‑to‑manage endpoint. By acting as an aggregator, it simplifies backend architecture for AI/ML applications, enabling developers to route requests to various MCP instances transparently while handling load balancing, authentication, and protocol translation. This makes it a valuable dev‑tool for building scalable, modular AI systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/1mcp-app/agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/1mcp-app/agent) · [← Back to AI/ML](./README.md)</sub>

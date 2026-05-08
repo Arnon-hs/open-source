@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 542 |
-| 🍴 **Forks** | 112 |
+| ⭐ **Stars** | 550 |
+| 🍴 **Forks** | 114 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-tools` `nextjs` `react` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The hackerai project is an open-source platform that utilizes AI-powered chat functionality to identify and resolve vulnerabilities in software applications. This innovative approach streamlines the vulnerability detection and remediation process by providing users with expert-level guidance through conversational interactions. By leveraging AI-driven insights, hackerai aims to enhance the efficiency and effectiveness of vulnerability management.
+HackerAI is an open‑source web application that lets developers discover and remediate security vulnerabilities through an interactive AI chat interface. By integrating AI/ML models with a user‑friendly frontend, it enables users to describe code issues, receive targeted vulnerability analyses, and obtain concrete remediation suggestions in real time. The project aims to streamline secure coding practices and accelerate bug‑fix cycles for developers of all skill levels.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hackerai-tech/hackerai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/hackerai-tech/hackerai) · [← Back to AI/ML](./README.md)</sub>

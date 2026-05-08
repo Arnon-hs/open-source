@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adyen` `adyen-components` `android` `android-library` `payment` `payment-methods` `payments`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · Mobile
 
 ## 📝 Summary
 
-The Adyen Android project provides a comprehensive set of open-source payment solutions, including the Adyen Drop-in and customisable components, to facilitate seamless and secure transactions on Android devices. These components enable developers to easily integrate Adyen's payment functionality into their apps, streamlining the checkout process for customers. With this project, developers can leverage Adyen's robust payment capabilities in their Android applications.
+Adyen‑Android provides a comprehensive SDK for integrating Adyen’s payment platform into Android apps, offering both a ready‑to‑use Drop‑in UI and modular payment Components that can be customized to match any app’s design. It supports a wide range of payment methods, handles tokenisation, 3‑D Secure, and other required security flows, and is fully open‑source for easy extension and community contributions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Adyen/adyen-android) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Adyen/adyen-android) · [← Back to Payments](./README.md)</sub>

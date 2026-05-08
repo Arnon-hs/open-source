@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `cli` `coding-agent` `llm` `ollama` `openai` `terminal` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The openharness project is an open-source, locally accessible terminal-based CLI that integrates with Large Language Models (LLMs), providing a seamless user experience for AI-powered tasks. With openharness, developers and users can leverage the capabilities of LLMs directly within their terminal, enhancing productivity and flexibility. This project aims to bridge the gap between terminal-based workflows and the vast potential of AI-driven capabilities.
+OpenHarness is an open‑source command‑line tool that lets you run any large language model (LLM) locally from your terminal. It provides a simple, unified interface for interacting with diverse LLM back‑ends—whether they are open‑source models, APIs, or self‑hosted services—making it easy for developers to experiment, prototype, and integrate AI capabilities directly into their workflows. The project is positioned at the intersection of AI/ML and DevTools, offering a lightweight, extensible solution for on‑premise LLM usage.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/zhijiewong/openharness) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/zhijiewong/openharness) · [← Back to AI/ML](./README.md)</sub>

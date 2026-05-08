@@ -9,10 +9,10 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [recharts/recharts](./recharts-recharts.md) | ⭐ 27.1k | TypeScript | 100/100 |
-| 2 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 100/100 |
-| 3 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 100/100 |
-| 4 | [PrivateBin/PrivateBin](./privatebin-privatebin.md) | ⭐ 8.3k | PHP | 100/100 |
-| 5 | [guanzhi/GmSSL](./guanzhi-gmssl.md) | ⭐ 6k | C | 100/100 |
+| 2 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 100/100 |
+| 3 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 100/100 |
+| 4 | [guanzhi/GmSSL](./guanzhi-gmssl.md) | ⭐ 6k | C | 100/100 |
+| 5 | [PrivateBin/PrivateBin](./privatebin-privatebin.md) | ⭐ 8.3k | PHP | 100/100 |
 | 6 | [OpenBB-finance/OpenBB](./openbb-finance-openbb.md) | ⭐ 67.1k | Python | 100/100 |
 | 7 | [Superalgos/Superalgos](./superalgos-superalgos.md) | ⭐ 5.5k | JavaScript | 100/100 |
 | 8 | [ccxt/ccxt](./ccxt-ccxt.md) | ⭐ 42.3k | Python | 100/100 |

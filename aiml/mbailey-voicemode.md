@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 157 |
+| ⭐ **Stars** | 1.2k |
+| 🍴 **Forks** | 159 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `asr` `claude` `claudecode` `kokoro` `livekit` `mcp` `mcp-server` `tts` `voice` `voicemode` `whisper`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project 'voicemode':
-
-Voicemode is an open-source project that enables natural, two-way voice conversations using Claude Code, a cutting-edge AI technology. This project allows developers to build seamless voice-based interfaces, revolutionizing the way users interact with applications and services. By leveraging Claude Code's advanced capabilities, Voicemode brings a new level of conversational intelligence to AI-powered systems.
+mbailey/voicemode is an open‑source backend that enables natural two‑way voice conversations with Claude, Anthropic’s conversational AI model. It captures audio, streams it to Claude’s API, and returns synthesized speech, providing a seamless, low‑latency voice interface for developers to build interactive AI applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/mbailey/voicemode) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mbailey/voicemode) · [← Back to AI/ML](./README.md)</sub>

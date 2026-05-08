@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `code-quality` `rust` `spell-checker`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The crate-ci/typos project is an open-source, source code spell checker designed to identify typos and spelling errors in programming code. This tool is intended to aid developers in maintaining accurate and readable code, reducing the likelihood of bugs and errors caused by simple spelling mistakes. It can be integrated into development pipelines to provide real-time feedback on coding quality.
+crate‑ci/typos is an open‑source command‑line tool that scans source code files for misspelled words, offering fast, language‑agnostic detection with configurable dictionaries and ignore rules. It integrates easily into development workflows and CI pipelines, helping teams maintain clean, professional documentation and code comments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/crate-ci/typos) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/crate-ci/typos) · [← Back to DevTools](./README.md)</sub>

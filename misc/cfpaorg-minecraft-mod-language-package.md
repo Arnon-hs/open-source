@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chinese` `localization` `minecraft` `minecraft-mod` `mod`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, Minecraft-Mod-Language-Package, provides a comprehensive language package for Minecraft mods, enabling creators to develop and translate their mods more efficiently. The package offers a standardized framework for managing multilingual content, facilitating easier localization and internationalization. By contributing to this project, developers can enhance the accessibility and global reach of their Minecraft mods.
+CFPAOrg’s **Minecraft‑Mod‑Language‑Package** is an open‑source collection of language files and translation utilities designed to streamline localization for Minecraft mods. It provides ready‑to‑use resource packs, tools for extracting, editing, and compiling language strings, and supports multiple languages to help mod developers quickly add multilingual support to their projects.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) · [← Back to Misc](./README.md)</sub>

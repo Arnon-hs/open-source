@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 332 |
-| 🍴 **Forks** | 132 |
+| ⭐ **Stars** | 335 |
+| 🍴 **Forks** | 133 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`extension` `marketplace` `registry` `theia` `vscode` `website`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The open-vsx.org project is an open-source platform for Visual Studio Code (VS Code) extension management, providing a centralized repository for discovering, installing, and managing extensions. This project is the source code repository for the open-vsx.org website, enabling developers to contribute and improve the platform. By leveraging open-vsx.org, users can streamline their VS Code extension experiences.
+EclipseFdn/open-vsx.org is the open‑source codebase powering the Open VSX Registry, a community‑driven alternative to the Visual Studio Code Marketplace. It provides a scalable, searchable index of extensions for VS Code and Theia, along with APIs and tooling for publishing, consuming, and managing extensions in a secure, vendor‑neutral environment. The project is maintained under the Eclipse Foundation and serves developers building and distributing IDE extensions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/EclipseFdn/open-vsx.org) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/EclipseFdn/open-vsx.org) · [← Back to DevTools](./README.md)</sub>
