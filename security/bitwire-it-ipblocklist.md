@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 325 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 327 |
+| 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`banlist` `blocklist` `firehol` `firehol-blocklist` `firehol-blocklist-ipsets` `firewall` `firewall-rules` `fortigate` `fortinet` `ip` `iplist` `ipset`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-The bitwire-it/ipblocklist project is an open-source initiative that provides regularly updated lists of known malicious IP addresses, helping users and organizations enhance their security posture. These IP lists are updated every two hours to ensure users have access to the most current information. By utilizing this project, users can block suspicious IP addresses and protect themselves from potential cyber threats.
+The **bitwire-it/ipblocklist** project provides continuously updated collections of malicious IP addresses, refreshed every two hours, to help security tools and administrators block known threats. By aggregating data from multiple sources, it offers a reliable, ready‑to‑use blocklist for firewalls, intrusion‑detection systems, and other security applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bitwire-it/ipblocklist) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bitwire-it/ipblocklist) · [← Back to Security](./README.md)</sub>

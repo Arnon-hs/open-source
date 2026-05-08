@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 528 |
-| 🍴 **Forks** | 30 |
+| ⭐ **Stars** | 535 |
+| 🍴 **Forks** | 31 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-workflow` `agents` `ai` `antrophic` `claude-code` `codex` `codex-cli` `developer-tools` `gpt-5` `indie-hacker` `macos` `openai`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the agent-sessions open-source project:
-
-Agent-sessions is an open-source project that provides a comprehensive session management system for various AI and ML tools, including Codex CLI, Claude Code, and more. This project offers a native macOS app that allows users to browse, filter, archive, and resume past sessions, as well as track real-time rate limits and analytics. By streamlining session management, Agent-sessions enhances productivity and efficiency for developers and users of these AI-powered tools.
+**Agent‑Sessions** is a native macOS tool that centralizes and enhances the workflow of AI‑powered coding assistants (Codex CLI, Claude Code, OpenCode, Gemini CLI, Factory Droid, GitHub Copilot CLI, OpenClaw). It provides a session browser and cockpit with searchable history, archiving, instant resume, real‑time rate‑limit tracking, and analytics, letting developers manage, filter, and monitor all past AI sessions from a single interface. The project falls under orchestration, AI/ML, and developer tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/jazzyalex/agent-sessions) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jazzyalex/agent-sessions) · [← Back to Orchestration](./README.md)</sub>

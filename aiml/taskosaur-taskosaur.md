@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 470 |
-| 🍴 **Forks** | 93 |
+| ⭐ **Stars** | 472 |
+| 🍴 **Forks** | 92 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-assistant` `business-tools` `kanban-board` `nextjs` `nodejs` `productivity` `project-management` `project-management-system` `saas-alternatives` `self-hosted` `sprint-planning` `task-management`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Product
 
 ## 📝 Summary
 
-Taskosaur is an open-source project management platform that combines traditional project management features with conversational AI task execution. This innovative tool enables teams to manage workflows in a conversational and intuitive manner, making it an ideal choice for teams seeking a more interactive approach to project management. With a self-hostable and modular architecture, Taskosaur provides flexibility and customization options for teams of all sizes.
+Taskosaur is an open‑source project‑management platform that blends traditional PM tools with a conversational AI assistant for creating, assigning, and tracking tasks via natural‑language interactions. Its self‑hosted, modular architecture lets teams integrate workflow automation, dashboards, and collaboration features while keeping data under their own control. Ideal for developers and product teams seeking a flexible, AI‑enhanced solution for managing projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/Taskosaur/Taskosaur) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Taskosaur/Taskosaur) · [← Back to AI/ML](./README.md)</sub>

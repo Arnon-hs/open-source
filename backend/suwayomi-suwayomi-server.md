@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 374 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`desktop` `hacktoberfest` `javalin` `kotlin` `manga` `manga-downloader` `manga-reader` `mangareader` `self-hosted` `tachidesk` `tachidesk-server` `tachiyomi`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Suwayomi/Suwayomi-Server is an open-source project that reimagines the popular manga and light novel reader Tachiyomi for desktop environments. This project focuses on the backend, aiming to provide a robust and scalable platform for reading digital comics and novels. By offering a desktop version of Tachiyomi, Suwayomi aims to provide a seamless reading experience for fans of Japanese media.
+Suwayomi‑Server is an open‑source backend that re‑creates the popular Tachiyomi manga reader for desktop environments. It provides a lightweight, extensible API for managing extensions, catalogs, and reading progress, enabling cross‑platform clients to stream and organize manga collections. Designed for developers and power users, it offers Docker‑ready deployment and full compatibility with Tachiyomi extensions.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/Suwayomi/Suwayomi-Server) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Suwayomi/Suwayomi-Server) · [← Back to Backend](./README.md)</sub>

@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 238 |
+| 🍴 **Forks** | 241 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Unfortunately, I don't have enough information about the project "mursor1985/LIVE" to provide a concise and accurate summary. However, based on the project title and category "Misc", I'll try to provide a brief summary:
-
-The LIVE project appears to be an open-source initiative focused on providing a unique feature or tool, the specifics of which are not publicly disclosed. This project seems to be a miscellaneous collection of code, possibly a utility or a framework.
+A lightweight, open‑source utility that provides a simple, customizable live‑preview environment for a variety of content types. It lets users quickly render and interact with files or streams in real time, making it useful for rapid prototyping, debugging, or showcasing demos. The project is deliberately minimal and framework‑agnostic, fitting into the “Misc” category for flexible, ad‑hoc workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/mursor1985/LIVE) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mursor1985/LIVE) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 933 |
+| ⭐ **Stars** | 932 |
 | 🍴 **Forks** | 417 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `playground` `rust` `solana` `solana-development` `solana-ide` `solana-playground` `solana-program` `wasm` `webassembly`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-The Solana Playground project enables developers to create, deploy, and test Solana programs directly in their web browsers. This open-source platform streamlines the development process, allowing users to quickly experiment and build Solana applications without the need for extensive setup or configuration. By leveraging a browser-based interface, developers can focus on writing and refining their Solana code.
+Solana Playground is an open‑source, web‑based IDE that lets developers quickly write, compile, deploy, and test Solana smart contracts directly from a browser, eliminating the need for local toolchains. It provides an intuitive frontend interface with integrated wallets, real‑time debugging, and AI‑assisted code suggestions to accelerate blockchain development. Ideal for both beginners and seasoned Solana programmers, the platform streamlines the end‑to‑end workflow for building, deploying, and iterating on on‑chain programs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/solana-playground/solana-playground) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/solana-playground/solana-playground) · [← Back to Crypto](./README.md)</sub>

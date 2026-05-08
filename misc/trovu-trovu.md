@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bootstrap` `command-line` `javascript` `monorepo` `shortcuts` `social` `typescript` `web-search`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Trovu is an open-source command-line search tool that allows users to search over 1,000 websites while maintaining maximum privacy. It features curated and personal shortcuts, organized by namespaces, enabling users to quickly access desired information with multiple and typed arguments. This versatile tool streamlines search operations and provides a secure alternative for those seeking a private search experience.
+Trovu is a command‑line tool that lets you search across more than a thousand websites using concise, curated shortcuts organized into namespaces. It supports multiple and typed arguments, enabling personalized, context‑aware queries while keeping your searches private. The project is open‑source and categorized as a miscellaneous utility.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/trovu/trovu) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/trovu/trovu) · [← Back to Misc](./README.md)</sub>

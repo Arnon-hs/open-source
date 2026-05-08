@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23 |
-| 🍴 **Forks** | 6 |
+| ⭐ **Stars** | 24 |
+| 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `ai` `ai-agents` `ai-memory` `anthropic` `context-engineering` `embeddings` `knowledge-graph` `langchain` `llm` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Pensyve is an open-source, universal memory runtime designed to support AI agents, providing a scalable and efficient solution for AI applications. This project enables AI agents to learn, reason, and interact with their environment in a more seamless and dynamic manner. By providing a unified memory runtime, Pensyve facilitates the development and deployment of intelligent systems across various domains and platforms.
+Pensyve is an open‑source universal memory runtime designed to give AI agents persistent, context‑aware state across interactions. It provides a lightweight orchestration layer that abstracts storage, retrieval, and versioning of episodic and long‑term memories, making it easy to integrate sophisticated memory management into any AI/ML backend. By handling the complexities of memory lifecycle, Pensyve enables developers to build more coherent and adaptable agents without reinventing core storage logic.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/major7apps/pensyve) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/major7apps/pensyve) · [← Back to Orchestration](./README.md)</sub>

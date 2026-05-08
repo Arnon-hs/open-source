@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adblock` `adguardhome` `bind9` `blacklist` `clash` `dns` `domain` `github` `hosts` `pac` `pi-hole` `pi-hole-blocklist`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Potterli20/hosts is an open-source project that provides a comprehensive library of Cold Mo (TRLI) rules, enabling global comparisons and analysis. This AI/ML-focused library is a valuable resource for researchers and developers seeking to explore and understand the properties and applications of TRLI rules. With its open-source nature, the project facilitates collaboration and contributes to the advancement of the field.
+Potterli20/hosts is an open‑source repository that curates a comprehensive set of network host and DNS rule collections authored by 冷莫 (trli). It aims to provide one of the most globally extensive blocklists, allowing users to filter unwanted traffic, ads, malware, and other undesirable domains across a wide range of regions. The project is maintained as a community resource and can be integrated into ad‑blocking, security, or privacy‑focused tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/Potterli20/hosts) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Potterli20/hosts) · [← Back to AI/ML](./README.md)</sub>

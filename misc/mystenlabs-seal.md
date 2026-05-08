@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 407 |
+| ⭐ **Stars** | 406 |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the MystenLabs/seal project:
-
-MystenLabs/seal is an open-source project that provides a high-performance cryptographic library for secure data encryption and sealing. The project enables developers to protect sensitive information by encrypting and sealing data, making it a valuable tool for various applications that require robust security. With its open-source nature, the community can contribute and benefit from the development of this secure cryptographic library.
+Mysten Labs’ **seal** is an open‑source utility library that implements secure “sealing” primitives for managing confidential data and cryptographic keys. It offers a lightweight, cross‑platform API for encrypting, storing, and retrieving sealed data, making it easy for developers to integrate strong data‑protection mechanisms into their applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/MystenLabs/seal) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/MystenLabs/seal) · [← Back to Misc](./README.md)</sub>

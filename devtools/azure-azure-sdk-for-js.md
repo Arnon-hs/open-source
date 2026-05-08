@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`azure` `azure-sdk` `browser` `hacktoberfest` `javascript` `nodejs` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The Azure SDK for JavaScript is an open-source project that provides a comprehensive set of libraries and tools for building scalable, secure, and reliable cloud applications using Azure services. This project supports both Node.js and browser environments, offering a unified development experience across multiple platforms. With the Azure SDK, developers can take advantage of a wide range of Azure services, from storage and databases to AI and analytics.
+The Azure SDK for JavaScript repository houses the actively developed client libraries for Azure services, supporting both Node.js and browser environments. It provides developers with ready‑to‑use, idiomatic JavaScript/TypeScript APIs, comprehensive documentation, and versioned packages to integrate Azure functionality into their applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Azure/azure-sdk-for-js) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Azure/azure-sdk-for-js) · [← Back to DevTools](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 210 |
+| ⭐ **Stars** | 211 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-memory` `claude` `claude-desktop` `conversation-memory` `mcp` `qdrant` `semantic-search` `vector-search`
 
 ## 🎯 Categories
 
@@ -25,10 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Claude Self-Reflect is an open-source project that addresses the issue of Claude, a conversational AI, forgetting previous knowledge and conversations. This project aims to improve the AI's memory capabilities, enabling it to retain and recall information more effectively. As a result, interactions with Claude become more seamless and efficient.
+**Summary:**  
+`claude-self-reflect` is an open‑source Node.js library that adds a self‑reflection layer to Anthropic’s Claude API, enabling the model to retain context across multiple interactions instead of forgetting previous conversation history. By automatically storing and re‑injecting past prompts and responses, it lets developers build more coherent, stateful AI applications without manually managing conversation state.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/ramakay/claude-self-reflect) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ramakay/claude-self-reflect) · [← Back to AI/ML](./README.md)</sub>

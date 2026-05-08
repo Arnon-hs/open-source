@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `component` `directive` `enzyme` `front-end` `frontend` `how-to` `jasmine` `jest` `mock` `mocking` `pipe`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the help-me-mom/ng-mocks project:
-
-ng-mocks is an open-source testing library for Angular applications, providing a comprehensive set of tools to mock components, directives, pipes, and services. It simplifies the process of setting up TestBed configurations, making it easier to write efficient and reliable unit tests. With ng-mocks, developers can focus on writing high-quality code while minimizing the complexity of testing.
+help-me-mom/ng-mocks is an open‑source Angular testing utility that streamlines the creation of mock components, directives, pipes, and services, while also simplifying TestBed configuration. By providing drop‑in replacements and helpers, it reduces boilerplate and speeds up unit testing of Angular applications. Suitable for frontend developers looking to improve test reliability and maintainability.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/help-me-mom/ng-mocks) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/help-me-mom/ng-mocks) · [← Back to Frontend](./README.md)</sub>

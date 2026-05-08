@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `analysis` `bun` `data` `data-analysis` `data-science` `deno` `duckdb` `geospatial` `javascript` `llm` `machine-learning`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The nshiab/simple-data-analysis library is an easy-to-use and high-performance TypeScript library designed for data analysis, supporting various data types including tabular, geospatial, and vector data. This library aims to simplify complex data analysis tasks, making it an ideal choice for developers and data scientists. With its robust features and flexibility, it can efficiently handle a wide range of data analysis workflows.
+nshiab/simple-data-analysis is a lightweight, high‑performance TypeScript library that makes data analysis straightforward across a variety of data types, including tabular, geospatial, and vector datasets. It provides a clean, easy‑to‑use API for common analytical tasks while leveraging TypeScript’s type safety and modern JavaScript performance. Ideal for developers building AI/ML pipelines or data‑driven applications who need fast, versatile data manipulation without heavy dependencies.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/nshiab/simple-data-analysis) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/nshiab/simple-data-analysis) · [← Back to AI/ML](./README.md)</sub>

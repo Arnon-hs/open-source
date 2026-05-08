@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 538 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`debugging` `dwarf` `elf` `elf-binaries` `elf-parser` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The eliben/pyelftools project is an open-source Python library that provides a comprehensive set of tools for parsing ELF (Executable and Linkable Format) and DWARF (Debugging With Attributed Record Formats) files. This library enables developers to extract and analyze metadata from ELF and DWARF files, making it a valuable resource for reverse engineering, debugging, and software development. By providing a Python interface to these file formats, pyelftools simplifies the task of working with ELF and DWARF files in Python-based applications.
+eliben/pyelftools is a pure‑Python library that provides robust parsing and analysis of ELF binaries and DWARF debugging information. It enables developers to read, inspect, and manipulate executable files, symbol tables, sections, and debugging data without requiring external tools or compiled extensions. The project is widely used for static analysis, reverse engineering, and tooling in the Python ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/eliben/pyelftools) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/eliben/pyelftools) · [← Back to Misc](./README.md)</sub>

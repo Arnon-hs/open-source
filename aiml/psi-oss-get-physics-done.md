@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 763 |
-| 🍴 **Forks** | 112 |
+| ⭐ **Stars** | 768 |
+| 🍴 **Forks** | 113 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `claude` `codex` `gemini` `meta-prompting` `open-source` `opencode` `physics` `research`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The psi-oss/get-physics-done project is an open-source initiative by Physical Superintelligence PBC (PSI) to develop an agentic AI physicist. This cutting-edge technology aims to revolutionize the field of physics by leveraging artificial intelligence and machine learning to drive breakthroughs and discoveries. The project seeks to make significant contributions to the scientific community through its open-source approach.
+psi-oss/get-physics-done is an open‑source project that provides a self‑directed AI physicist capable of formulating hypotheses, designing experiments, and interpreting results to advance scientific discovery. Built by Physical Superintelligence PBC, the agentic system integrates large language models, symbolic reasoning, and automated simulation tools to autonomously conduct physics research. It serves as a platform for researchers and developers to explore and extend AI‑driven scientific methodology.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/psi-oss/get-physics-done) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/psi-oss/get-physics-done) · [← Back to AI/ML](./README.md)</sub>

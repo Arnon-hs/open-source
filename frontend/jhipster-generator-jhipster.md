@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `cloud` `docker` `generator` `hacktoberfest` `java` `jhipster` `kubernetes` `react` `spring-boot` `webpack` `yeoman-generator`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-JHipster is an open-source development platform that enables the rapid generation, development, and deployment of modern web applications and microservice architectures. This versatile platform caters to various needs by providing tools for both frontend and backend development, as well as DevOps and infrastructure management. With JHipster, developers can streamline their workflow and build scalable, efficient applications.
+JHipster ( generator‑jhipster ) is an open‑source development platform that scaffolds full‑stack web applications and microservice architectures with a single command. It combines modern front‑end frameworks (Angular, React, Vue) and back‑end technologies (Spring Boot, Node.js, Quarkus) while automatically configuring DevOps tools such as Docker, Kubernetes, CI/CD pipelines, and monitoring. The generator accelerates project setup, enforces best practices, and streamlines deployment across cloud and container environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/jhipster/generator-jhipster) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jhipster/generator-jhipster) · [← Back to Frontend](./README.md)</sub>

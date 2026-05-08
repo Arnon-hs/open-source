@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 216 |
-| 🍴 **Forks** | 23 |
+| 🍴 **Forks** | 22 |
 | 💻 **Language** | Svelte |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-coordination` `agent-mail` `agent-orchestration` `agent-swarm` `ai` `ai-agents` `ai-development` `anthropic-mcp` `bash-tools` `beads` `claude-code` `codex`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the joewinke/jat open-source project:
-
-The joewinke/jat project is a revolutionary, open-source Agentic IDE that streamlines workflows and automates tasks. Its intuitive visual dashboard allows users to manage live sessions, code, and agents in a single, user-friendly interface. With features like epic swarm parallel workflows, auto-proceed rules, and automation patterns, jat empowers users to maximize productivity and efficiency in AI/ML and orchestration tasks.
+The **joewinke/jat** project delivers the world’s first “Agentic IDE,” a web‑based dashboard that lets users run, monitor, and coordinate dozens of autonomous AI agents in parallel. It combines a live code editor, terminal, task‑management board, and automation patterns (including “beads,” Agent Mail, and 50 bundled Bash tools) so a single UI can supervise 20+ agents, orchestrate swarm workflows, and apply auto‑proceed rules for seamless AI‑driven development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/joewinke/jat) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/joewinke/jat) · [← Back to Orchestration](./README.md)</sub>

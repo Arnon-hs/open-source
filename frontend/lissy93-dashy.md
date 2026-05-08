@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `dashboard` `docker` `homelab` `homepage` `mit` `nodejs` `organization` `productivity` `pwa` `self-hosted` `startpage`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevOps/Infra · Design
 
 ## 📝 Summary
 
-Dashy is a self-hostable personal dashboard that provides users with a customizable interface for tracking status, displaying widgets, and managing themes and icon packs. The project offers a user-friendly UI editor, allowing users to tailor their dashboard to suit their needs. With its extensive features, Dashy serves as a versatile tool for personalization and productivity.
+Lissy93 / dashy is an open‑source, self‑hosted personal dashboard that lets users monitor services, display widgets, and customize the look with themes, icon packs, and a visual UI editor. Built with modern frontend technologies, it provides status‑checking, extensible widget support, and easy deployment for both developers and designers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Lissy93/dashy) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Lissy93/dashy) · [← Back to Frontend](./README.md)</sub>

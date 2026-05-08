@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | C |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `drivers` `gpl` `hacktoberfest` `kernel` `operating-system` `os` `osdev` `reactos` `win32` `win32api` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-ReactOS is a free, open-source operating system designed to be compatible with Windows, allowing users to run Windows applications and software without needing the actual Windows operating system. This project aims to create a fully functional Windows-compatible system, while also providing users with a customizable and community-driven alternative. By leveraging the Windows API, ReactOS seeks to offer a free and open-source solution for those seeking a Windows-like experience.
+ReactOS is an open‑source operating system designed to be binary compatible with Microsoft Windows, allowing it to run Windows applications and drivers natively. It re‑creates the Windows architecture from the ground up, providing a free alternative for both desktop and server environments. The project includes both frontend components (user interface and shell) and backend subsystems (kernel, drivers, and system libraries).
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/reactos/reactos) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/reactos/reactos) · [← Back to Frontend](./README.md)</sub>

@@ -1,6 +1,6 @@
 # ksimback/hermes-ecosystem
 
-[![Stars](https://img.shields.io/github/stars/ksimback/hermes-ecosystem?style=flat-square&color=yellow)](https://github.com/ksimback/hermes-ecosystem/stargazers) [![Forks](https://img.shields.io/github/forks/ksimback/hermes-ecosystem?style=flat-square&color=blue)](https://github.com/ksimback/hermes-ecosystem/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ksimback/hermes-ecosystem?style=flat-square&color=yellow)](https://github.com/ksimback/hermes-ecosystem/stargazers) [![Forks](https://img.shields.io/github/forks/ksimback/hermes-ecosystem?style=flat-square&color=blue)](https://github.com/ksimback/hermes-ecosystem/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🗺️ Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 746 |
-| 🍴 **Forks** | 60 |
+| ⭐ **Stars** | 773 |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ecosystem-map` `hermes-agent` `hermes-atlas` `nous-research`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Hermes Ecosystem is an open-source initiative that provides a comprehensive community map of tools, skills, and integrations for the Hermes Agent developed by Nous Research. This map, known as the Hermes Atlas, serves as a valuable resource for those working with the Hermes Agent, facilitating collaboration and knowledge sharing within the AI/ML community. The Hermes Ecosystem aims to foster a collective understanding of the ecosystem surrounding the Hermes Agent.
+Hermes Atlas is an open‑source, community‑driven map that catalogs every tool, skill, and integration available for the Hermes Agent developed by Nous Research. Hosted at hermesatlas.com, the project provides a searchable, visual overview of the Hermes ecosystem, helping developers and AI practitioners discover and connect compatible components. It serves as a central resource for expanding and navigating Hermes‑based AI/ML workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ksimback/hermes-ecosystem) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ksimback/hermes-ecosystem) · [← Back to AI/ML](./README.md)</sub>

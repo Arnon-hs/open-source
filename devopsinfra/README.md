@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**44 projects** in this category.
+**45 projects** in this category.
 
 ## Projects
 
@@ -32,26 +32,27 @@
 | 22 | [NVIDIA/gpu-operator](./nvidia-gpu-operator.md) | ⭐ 2.7k | Go | 71/100 |
 | 23 | [kubernetes-sigs/kueue](./kubernetes-sigs-kueue.md) | ⭐ 2.5k | Go | 70/100 |
 | 24 | [integrations/terraform-provider-github](./integrations-terraform-provider-github.md) | ⭐ 1.1k | Go | 67/100 |
-| 25 | [kubernetes/k8s.io](./kubernetes-k8s.io.md) | ⭐ 951 | HCL | 64/100 |
-| 26 | [ovn-kubernetes/ovn-kubernetes](./ovn-kubernetes-ovn-kubernetes.md) | ⭐ 1k | Go | 64/100 |
-| 27 | [n8n-io/n8n-hosting](./n8n-io-n8n-hosting.md) | ⭐ 1.6k | Go Template | 63/100 |
-| 28 | [hackforla/website](./hackforla-website.md) | ⭐ 364 | JavaScript | 63/100 |
-| 29 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 60/100 |
-| 30 | [Gisto/Gisto](./gisto-gisto.md) | ⭐ 1.1k | TypeScript | 58/100 |
-| 31 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 824 | Haskell | 57/100 |
-| 32 | [pulumi/pulumi-aws](./pulumi-pulumi-aws.md) | ⭐ 574 | Go | 57/100 |
-| 33 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 56/100 |
-| 34 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 898 | Go | 56/100 |
-| 35 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 55/100 |
-| 36 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 55/100 |
-| 37 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 55/100 |
-| 38 | [netxms/netxms](./netxms-netxms.md) | ⭐ 353 | C++ | 53/100 |
-| 39 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 398 | Go | 53/100 |
-| 40 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 53/100 |
-| 41 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 52/100 |
-| 42 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
-| 43 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
-| 44 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
+| 25 | [kubie-org/kubie](./kubie-org-kubie.md) | ⭐ 2.5k | Rust | 65/100 |
+| 26 | [kubernetes/k8s.io](./kubernetes-k8s.io.md) | ⭐ 951 | HCL | 64/100 |
+| 27 | [ovn-kubernetes/ovn-kubernetes](./ovn-kubernetes-ovn-kubernetes.md) | ⭐ 1k | Go | 64/100 |
+| 28 | [n8n-io/n8n-hosting](./n8n-io-n8n-hosting.md) | ⭐ 1.6k | Go Template | 63/100 |
+| 29 | [hackforla/website](./hackforla-website.md) | ⭐ 364 | JavaScript | 63/100 |
+| 30 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 60/100 |
+| 31 | [Gisto/Gisto](./gisto-gisto.md) | ⭐ 1.1k | TypeScript | 58/100 |
+| 32 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 824 | Haskell | 57/100 |
+| 33 | [pulumi/pulumi-aws](./pulumi-pulumi-aws.md) | ⭐ 574 | Go | 57/100 |
+| 34 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 56/100 |
+| 35 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 898 | Go | 56/100 |
+| 36 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 55/100 |
+| 37 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 55/100 |
+| 38 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 55/100 |
+| 39 | [netxms/netxms](./netxms-netxms.md) | ⭐ 353 | C++ | 53/100 |
+| 40 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 398 | Go | 53/100 |
+| 41 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 53/100 |
+| 42 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 52/100 |
+| 43 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
+| 44 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
+| 45 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
 
 ---
 

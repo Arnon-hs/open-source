@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3219** |
+| 🗂️ **Total projects** | **3259** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1283 | [Browse →](./aiml/) |
-| 📦 **Misc** | 506 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 319 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 317 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 169 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 168 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 132 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 1295 | [Browse →](./aiml/) |
+| 📦 **Misc** | 513 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 324 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 323 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 175 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 169 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 133 | [Browse →](./crypto/) |
 | 📊 **Data** | 75 | [Browse →](./data/) |
 | 💳 **Payments** | 72 | [Browse →](./payments/) |
 | 📈 **Trading** | 49 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 44 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 45 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 39 | [Browse →](./mobile/) |
-| 🔐 **Security** | 26 | [Browse →](./security/) |
+| 🔐 **Security** | 27 | [Browse →](./security/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | ✨ **Design** | 9 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
-| 2 | [Automattic/wp-calypso](./frontend/automattic-wp-calypso.md) | ⭐ 12.6k | Frontend |
-| 3 | [pnpm/pnpm](./misc/pnpm-pnpm.md) | ⭐ 34.9k | Misc |
-| 4 | [trycua/cua](./aiml/trycua-cua.md) | ⭐ 15.8k | AI/ML |
-| 5 | [Raphire/Win11Debloat](./devtools/raphire-win11debloat.md) | ⭐ 46k | DevTools |
-| 6 | [vuetifyjs/vuetify](./frontend/vuetifyjs-vuetify.md) | ⭐ 41k | Frontend |
-| 7 | [luanti-org/luanti](./devtools/luanti-org-luanti.md) | ⭐ 12.8k | DevTools |
-| 8 | [microsoft/vcpkg](./misc/microsoft-vcpkg.md) | ⭐ 27k | Misc |
-| 9 | [kovidgoyal/kitty](./misc/kovidgoyal-kitty.md) | ⭐ 32.8k | Misc |
-| 10 | [temporalio/temporal](./orchestration/temporalio-temporal.md) | ⭐ 20.1k | Orchestration |
+| 1 | [Lissy93/dashy](./frontend/lissy93-dashy.md) | ⭐ 25k | Frontend |
+| 2 | [gfx-rs/wgpu](./backend/gfx-rs-wgpu.md) | ⭐ 17.1k | Backend |
+| 3 | [reactos/reactos](./frontend/reactos-reactos.md) | ⭐ 17.5k | Frontend |
+| 4 | [jhipster/generator-jhipster](./frontend/jhipster-generator-jhipster.md) | ⭐ 22.4k | Frontend |
+| 5 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
+| 6 | [Automattic/wp-calypso](./frontend/automattic-wp-calypso.md) | ⭐ 12.6k | Frontend |
+| 7 | [pnpm/pnpm](./misc/pnpm-pnpm.md) | ⭐ 34.9k | Misc |
+| 8 | [trycua/cua](./aiml/trycua-cua.md) | ⭐ 15.8k | AI/ML |
+| 9 | [Raphire/Win11Debloat](./devtools/raphire-win11debloat.md) | ⭐ 46k | DevTools |
+| 10 | [vuetifyjs/vuetify](./frontend/vuetifyjs-vuetify.md) | ⭐ 41k | Frontend |
 
 ## 🚀 How it works
 

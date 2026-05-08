@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Tcl |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cad`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the BRL-CAD project:
-
-BRL-CAD is a free, open-source software suite that combines the power of combinatorial solid modeling to create complex 3D models. This cross-platform tool allows users to perform tasks such as geometric analysis, ray tracing, and data visualization, making it suitable for a wide range of applications, including engineering, architecture, and scientific research. With its robust features and flexibility, BRL-CAD has become a popular choice among developers and professionals alike.
+BRL‑CAD is a robust, cross‑platform open‑source system for combinatorial solid modeling, offering a comprehensive suite of tools for creating, editing, and analyzing complex 3‑D geometry. It supports a wide range of data formats, provides a powerful scripting interface, and is widely used in engineering, scientific research, and educational settings.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/BRL-CAD/brlcad) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/BRL-CAD/brlcad) · [← Back to Misc](./README.md)</sub>

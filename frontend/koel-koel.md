@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audio` `hacktoberfest` `laravel` `music` `music-player` `streaming` `vue`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Koel is an open-source music streaming solution designed to provide a hassle-free music listening experience. This Frontend-based project enables users to upload, manage, and stream their music collections, offering a user-friendly interface for both artists and music enthusiasts. With Koel, you can easily share and discover new music, making it an ideal solution for personal music streaming needs.
+Koel is an open‑source personal music streaming server that lets you browse, organize, and play your collection from any web browser or mobile device. Built with a modern Vue.js frontend and a Laravel‑based backend, it offers features such as playlist management, scrobbling, offline sync, and support for multiple users. The project aims to provide a sleek, self‑hosted alternative to commercial streaming services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/koel/koel) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/koel/koel) · [← Back to Frontend](./README.md)</sub>

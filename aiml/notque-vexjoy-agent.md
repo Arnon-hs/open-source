@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 366 |
+| ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-pipelines` `ai-skills` `ai-workflows` `claude` `claude-code`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The VexJoy Agent, an open-source project by notque, is a pioneering AI/ML tool that generates the /do router, a crucial component for various applications. This innovative project leverages AI capabilities to automate the creation of the /do router, streamlining development processes and enhancing efficiency. By harnessing the power of machine learning, VexJoy Agent empowers developers to accelerate their workflows and focus on high-value tasks.
+VexJoy is an open‑source AI agent framework that combines natural‑language processing with intelligent routing to direct user requests to the most appropriate services or tools. It supports modular extensions, enabling developers to plug in custom skills, APIs, or data sources while the built‑in routing engine automatically determines the optimal execution path. Ideal for building flexible, context‑aware conversational assistants and automation pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/notque/vexjoy-agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/notque/vexjoy-agent) · [← Back to AI/ML](./README.md)</sub>

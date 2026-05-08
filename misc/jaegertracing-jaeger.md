@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cncf` `distributed-tracing` `hacktoberfest` `jaeger` `observability` `opentelemetry` `tracing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The jaegertracing/jaeger project is an open-source, distributed tracing platform hosted by the Cloud Native Computing Foundation (CNCF). It provides a comprehensive solution for monitoring and analyzing complex systems by collecting and visualizing latency and performance data across microservices. This allows developers to diagnose and optimize their applications more efficiently.
+Jaeger is an open‑source, CNCF‑graduated distributed tracing system that helps developers monitor and troubleshoot complex microservice architectures. It collects, stores, and visualizes trace data, enabling performance analysis, root‑cause diagnostics, and service dependency mapping across heterogeneous environments. The project is actively maintained and integrates with popular instrumentation libraries and back‑ends.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/jaegertracing/jaeger) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jaegertracing/jaeger) · [← Back to Misc](./README.md)</sub>

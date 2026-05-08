@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**26 projects** in this category.
+**27 projects** in this category.
 
 ## Projects
 
@@ -28,12 +28,13 @@
 | 18 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 507 | TypeScript | 57/100 |
 | 19 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 56/100 |
 | 20 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 54/100 |
-| 21 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 52/100 |
-| 22 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 52/100 |
-| 23 | [mytechnotalent/Hacking-Rust](./mytechnotalent-hacking-rust.md) | ⭐ 224 | Rust | 52/100 |
-| 24 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 52/100 |
-| 25 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
-| 26 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
+| 21 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 53/100 |
+| 22 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 52/100 |
+| 23 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 52/100 |
+| 24 | [mytechnotalent/Hacking-Rust](./mytechnotalent-hacking-rust.md) | ⭐ 224 | Rust | 52/100 |
+| 25 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 52/100 |
+| 26 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
+| 27 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
 
 ---
 

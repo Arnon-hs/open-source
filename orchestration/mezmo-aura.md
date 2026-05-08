@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49 |
+| ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent-framework` `ai-agents` `ai-sre` `aiops` `devops` `harness` `llm` `llmops` `mcp` `model-context-protocol` `observability` `ollama`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the mezmo/aura project:
-
-mezmo/aura is an open-source framework for building AI agents from declarative TOML configurations. It integrates with the MCP tool and supports RAG pipelines, enabling users to create complex AI workflows. Additionally, it features an OpenAI-compatible web API for seamless integration with various AI applications.
+mezmo/aura is a production‑grade framework that lets you build and orchestrate AI agents using simple declarative TOML files. It integrates with the MCP toolchain, supports Retrieval‑Augmented Generation pipelines, and exposes an OpenAI‑compatible web API for seamless backend integration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/mezmo/aura) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mezmo/aura) · [← Back to Orchestration](./README.md)</sub>

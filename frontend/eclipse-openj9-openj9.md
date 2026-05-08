@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 784 |
+| 🍴 **Forks** | 786 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `eclipse-openj9` `garbage-collector` `gc` `hacktoberfest` `interpreter` `java` `jit` `jvm` `runtime` `virtual-machine`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the eclipse-openj9/openj9 project:
-
-Eclipse OpenJ9 is an open-source Java Virtual Machine (JVM) designed for high performance, small footprint, and fast start-up times. Built on top of the Eclipse OMR and combined with the Extensions for OpenJDK for OpenJ9, OpenJ9 optimizes Java application execution. This JVM is ideal for applications requiring efficient resource utilization and rapid deployment.
+Eclipse OpenJ9 is an open‑source Java Virtual Machine built on the Eclipse OMR runtime framework and tightly integrated with the OpenJDK Extensions for OpenJ9. It focuses on delivering a small memory footprint, rapid start‑up times, and high throughput, making it well‑suited for cloud, container, and edge environments. The project provides a fully compatible JVM implementation that can be used as a drop‑in replacement for the standard HotSpot VM.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/eclipse-openj9/openj9) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/eclipse-openj9/openj9) · [← Back to Frontend](./README.md)</sub>

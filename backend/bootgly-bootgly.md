@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bootgly` `cli` `framework` `frameworks` `http` `http-server` `php` `php-framework` `server` `web`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the bootgly project:
-
-bootgly is an open-source, multi-project PHP framework designed to provide a robust base for building and managing various backend applications. This flexible framework aims to streamline development and enhance collaboration among developers by offering a standardized structure and modular architecture. With bootgly, developers can quickly create, deploy, and maintain complex projects with ease.
+Bootgly is an open‑source PHP framework designed to serve as a solid foundation for building multiple projects simultaneously. It provides a lightweight, modular backend architecture and a suite of development tools that streamline common tasks, making it ideal for developers who need a scalable and reusable codebase across various applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bootgly/bootgly) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bootgly/bootgly) · [← Back to Backend](./README.md)</sub>
