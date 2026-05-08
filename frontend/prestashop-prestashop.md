@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5k |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cms` `ecommerce` `ecommerce-framework` `ecommerce-platform` `hacktoberfest` `php` `php-framework` `prestashop`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-PrestaShop is a free, open-source e-commerce platform that enables businesses to create their own custom online shopping solutions. This universal software platform provides a flexible and scalable foundation for building and managing online stores, allowing users to tailor their shopping experience to meet their specific needs. With PrestaShop, users can access a wide range of features and tools to streamline their e-commerce operations and drive sales.
+PrestaShop is a fully open‑source e‑commerce platform that provides merchants with all the tools needed to design, launch, and manage online stores. Built with a modular architecture and a rich set of customizable themes and extensions, it enables developers and retailers to tailor the storefront and backend functionality to virtually any business requirement. Its community‑driven ecosystem ensures continuous improvements, multilingual support, and seamless integration with popular payment and shipping services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/PrestaShop/PrestaShop) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/PrestaShop/PrestaShop) · [← Back to Frontend](./README.md)</sub>

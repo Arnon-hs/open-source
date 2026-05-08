@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3099** |
+| 🗂️ **Total projects** | **3139** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1234 | [Browse →](./aiml/) |
-| 📦 **Misc** | 486 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 305 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 301 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 164 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 1248 | [Browse →](./aiml/) |
+| 📦 **Misc** | 494 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 311 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 308 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 165 | [Browse →](./backend/) |
 | 🔧 **DevTools** | 163 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 126 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 128 | [Browse →](./crypto/) |
 | 📊 **Data** | 75 | [Browse →](./data/) |
 | 💳 **Payments** | 72 | [Browse →](./payments/) |
 | 📈 **Trading** | 48 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 43 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 37 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 44 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 38 | [Browse →](./mobile/) |
 | 🔐 **Security** | 25 | [Browse →](./security/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | ✨ **Design** | 9 | [Browse →](./design/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [kserve/kserve](./aiml/kserve-kserve.md) | ⭐ 5.4k | AI/ML |
-| 2 | [alibaba/spring-ai-alibaba](./orchestration/alibaba-spring-ai-alibaba.md) | ⭐ 9.5k | Orchestration |
-| 3 | [zalando/postgres-operator](./data/zalando-postgres-operator.md) | ⭐ 5.2k | Data |
-| 4 | [frappe/erpnext](./aiml/frappe-erpnext.md) | ⭐ 33.7k | AI/ML |
-| 5 | [webpack/webpack](./frontend/webpack-webpack.md) | ⭐ 65.8k | Frontend |
-| 6 | [botpress/botpress](./orchestration/botpress-botpress.md) | ⭐ 14.7k | Orchestration |
-| 7 | [warmcat/libwebsockets](./backend/warmcat-libwebsockets.md) | ⭐ 5.3k | Backend |
-| 8 | [wshobson/agents](./orchestration/wshobson-agents.md) | ⭐ 35k | Orchestration |
-| 9 | [alam00000/bentopdf](./devopsinfra/alam00000-bentopdf.md) | ⭐ 13.1k | DevOps & Infra |
-| 10 | [mermaid-js/mermaid](./aiml/mermaid-js-mermaid.md) | ⭐ 87.9k | AI/ML |
+| 1 | [kovidgoyal/kitty](./misc/kovidgoyal-kitty.md) | ⭐ 32.8k | Misc |
+| 2 | [temporalio/temporal](./orchestration/temporalio-temporal.md) | ⭐ 20.1k | Orchestration |
+| 3 | [weaviate/weaviate](./aiml/weaviate-weaviate.md) | ⭐ 16.2k | AI/ML |
+| 4 | [alirezarezvani/claude-skills](./orchestration/alirezarezvani-claude-skills.md) | ⭐ 14.1k | Orchestration |
+| 5 | [PrestaShop/PrestaShop](./frontend/prestashop-prestashop.md) | ⭐ 9.1k | Frontend |
+| 6 | [armbian/build](./aiml/armbian-build.md) | ⭐ 5.2k | AI/ML |
+| 7 | [kserve/kserve](./aiml/kserve-kserve.md) | ⭐ 5.4k | AI/ML |
+| 8 | [alibaba/spring-ai-alibaba](./orchestration/alibaba-spring-ai-alibaba.md) | ⭐ 9.5k | Orchestration |
+| 9 | [zalando/postgres-operator](./data/zalando-postgres-operator.md) | ⭐ 5.2k | Data |
+| 10 | [frappe/erpnext](./aiml/frappe-erpnext.md) | ⭐ 33.7k | AI/ML |
 
 ## 🚀 How it works
 

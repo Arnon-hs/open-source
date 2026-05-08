@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `hacktoberfest` `linux` `linux-distribution` `packages` `termux`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Mobile
 
 ## 📝 Summary
 
-Termux-packages is an open-source package build system designed specifically for Termux, a popular mobile terminal emulator. It enables users to easily create and manage packages for the Termux ecosystem, providing a flexible and customizable solution for developers. This project contributes to the growth of Termux by streamlining the package creation process.
+Termux‑Packages is an open‑source build system that compiles, packages, and distributes software for the Termux terminal emulator on Android devices. It automates the retrieval of source code, applies necessary patches, and produces Debian‑style packages that integrate seamlessly with Termux’s package manager, enabling users to install a wide range of command‑line tools directly on their mobile devices.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/termux/termux-packages) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/termux/termux-packages) · [← Back to Frontend](./README.md)</sub>

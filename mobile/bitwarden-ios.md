@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 578 |
+| ⭐ **Stars** | 585 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apple` `bitwarden` `ios` `ipad` `iphone` `swift`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile · Security
 
 ## 📝 Summary
 
-The bitwarden/ios project is an open-source initiative that develops and maintains Bitwarden's mobile apps for iOS, providing users with a secure password manager and authenticator. This project enables users to securely store, generate, and autofill passwords, as well as manage two-factor authentication across their devices. By using the Bitwarden mobile app for iOS, users can enhance their online security and protect their sensitive information.
+Bitwarden iOS is the official open‑source mobile client for the Bitwarden password manager and authenticator, providing secure storage, generation, and autofill of passwords, credit‑card data, and one‑time‑passcodes on iPhone and iPad. Built with Swift and leveraging iOS security features such as the Keychain and Face/Touch ID, the app syncs seamlessly with a Bitwarden vault across devices while offering end‑to‑end encryption and optional self‑hosting. It targets mobile security enthusiasts who need a reliable, cross‑platform password manager and two‑factor authentication solution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/bitwarden/ios) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bitwarden/ios) · [← Back to Mobile](./README.md)</sub>

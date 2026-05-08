@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 100 |
+| 🍴 **Forks** | 101 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`artificial-intelligence` `audio` `bioacoustics` `birdnet` `birdnet-pi` `birds` `birdweather` `contributions-welcome` `go` `golang` `linux` `raspberry-pi`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The birdnet-go project is an open-source, real-time implementation of BirdNET, a soundscape analyzer that utilizes AI/ML to identify and classify bird species from audio recordings. This frontend application enables users to analyze and explore bird sounds in real-time, providing valuable insights for ornithology, conservation, and wildlife research. By harnessing the power of machine learning, birdnet-go empowers users to explore and understand the acoustic environment with greater accuracy and efficiency.
+Birdnet‑go is an open‑source, real‑time soundscape analyzer that leverages the BirdNET AI model to identify and classify bird calls directly from live audio streams. Built with a lightweight Go backend and an interactive frontend, the project provides instant visualizations and confidence scores for detected species, making it ideal for field researchers, citizen‑science projects, and nature enthusiasts.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/tphakala/birdnet-go) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tphakala/birdnet-go) · [← Back to AI/ML](./README.md)</sub>

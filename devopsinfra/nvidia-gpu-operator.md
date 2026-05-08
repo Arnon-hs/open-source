@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 497 |
+| 🍴 **Forks** | 498 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cuda` `gpu` `kubernetes` `nvidia`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The NVIDIA GPU Operator is an open-source project that simplifies the management of GPUs within Kubernetes environments. It automates the creation, configuration, and management of GPUs, allowing users to easily deploy and manage GPU resources at scale. This project enables seamless integration of GPUs with Kubernetes workloads, facilitating efficient AI, HPC, and other GPU-accelerated applications.
+The NVIDIA GPU Operator automates the deployment, configuration, and lifecycle management of NVIDIA GPUs within Kubernetes clusters. By installing the necessary drivers, device plugins, and monitoring tools as a single operator, it simplifies GPU provisioning for AI, HPC, and data‑intensive workloads. This open‑source solution streamlines DevOps and infrastructure workflows, ensuring consistent GPU performance across cloud‑native environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/NVIDIA/gpu-operator) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NVIDIA/gpu-operator) · [← Back to DevOps & Infra](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 412 |
+| ⭐ **Stars** | 418 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-agents` `bioclaw` `bioinformatics` `biology` `claw` `data-science` `harness` `harness-engineering` `llm` `llm-evolution`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-PantheonOS is an open-source framework designed to facilitate the development and deployment of data science applications, featuring a distributed and evolvable agent architecture. This platform enables users to orchestrate and integrate various components of data science workflows, streamlining the process of data analysis and machine learning. By leveraging PantheonOS, data scientists can build scalable, flexible, and efficient data science applications.
+PantheonOS is an open‑source, modular framework that lets developers build, orchestrate, and scale distributed agents for data‑science workloads. Designed for evolvability, it provides a unified harness for managing AI/ML pipelines, model serving, and data processing across heterogeneous environments. Its plug‑in architecture makes it easy to extend and integrate with existing orchestration and analytics tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/aristoteleo/PantheonOS) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/aristoteleo/PantheonOS) · [← Back to Orchestration](./README.md)</sub>

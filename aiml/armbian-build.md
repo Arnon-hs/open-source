@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aarch64` `arm` `debian` `firmware` `framework` `image` `iso` `kernel` `kernel-compilation` `kernel-hacking` `lightweight` `linux`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Armbian/build is an open-source project serving as the official build framework for the Armbian Linux distribution. This framework enables users to compile custom OS images from source, supporting various ARM and ARM64 single-board computers with board-specific tweaks and U-Boot handling. By utilizing this toolchain, users can tailor their Linux distributions to meet their specific needs.
+The **armbian/build** repository provides the full build framework for the Armbian Linux distribution, offering a complete toolchain and automation scripts to generate custom OS images from source. It handles kernel configuration, U‑Boot integration, and board‑specific adjustments for a wide range of ARM and ARM64 single‑board computers, enabling developers to create tailored, up‑to‑date firmware builds.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/armbian/build) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/armbian/build) · [← Back to AI/ML](./README.md)</sub>

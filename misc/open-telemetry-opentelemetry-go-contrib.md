@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 769 |
+| 🍴 **Forks** | 773 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The open-telemetry/opentelemetry-go-contrib project is an open-source collection of extensions for the OpenTelemetry-Go library, providing additional functionality and features for instrumenting and monitoring applications. This repository offers a wide range of contributions, including exporters, processors, and other utilities, to help developers enhance their OpenTelemetry-Go experiences. By leveraging these extensions, developers can tailor OpenTelemetry-Go to their specific needs and improve the observability of their applications.
+OpenTelemetry‑Go‑Contrib is a community‑maintained repository that provides a variety of reusable extensions, instrumentation helpers, and integrations for the OpenTelemetry‑Go SDK. It includes ready‑made exporters, propagators, resource detectors, and language‑specific utilities that simplify adding observability (traces, metrics, logs) to Go applications. The project serves as a central hub for reusable components that complement the core OpenTelemetry‑Go library.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/open-telemetry/opentelemetry-go-contrib) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/open-telemetry/opentelemetry-go-contrib) · [← Back to Misc](./README.md)</sub>

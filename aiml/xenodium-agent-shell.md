@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 159 |
+| 🍴 **Forks** | 161 |
 | 💻 **Language** | Emacs Lisp |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `claude` `claude-code` `codex` `emacs` `emacs-lisp` `gemini` `goose` `llm` `openai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The agent-shell is an open-source, Emacs-based interface for interacting with Large Language Model (LLM) agents. Built on ACP (Autoregressive Convolutions and Positional Encodings), this project streamlines communication with AI-driven agents directly within a native Emacs buffer. By providing a seamless, in-Eclipse experience, agent-shell aims to enhance productivity and efficiency in AI-related tasks.
+**xenodium/agent-shell** provides a native Emacs buffer that lets users converse with large‑language‑model (LLM) agents powered by the Autonomous Conversational Protocol (ACP). By integrating ACP’s capabilities directly into Emacs, the project turns the editor into an interactive AI assistant, enabling seamless prompt‑and‑response workflows without leaving the Emacs environment. It’s an open‑source tool aimed at developers and researchers who want a tightly coupled, extensible AI/ML interface inside their favorite editor.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/xenodium/agent-shell) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/xenodium/agent-shell) · [← Back to AI/ML](./README.md)</sub>

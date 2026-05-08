@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.7k |
-| 🍴 **Forks** | 991 |
+| 🍴 **Forks** | 994 |
 | 💻 **Language** | Adblock Filter List |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-uBlock Origin/uAssets is an open-source project that provides filter lists for the popular ad blocker uBlock Origin and its lightweight variant, uBlock Origin Lite. These filter lists enable users to customize their browsing experience by blocking unwanted content, including advertisements and trackers. By offering a centralized repository of filter lists, uBlock Origin/uAssets facilitates a more streamlined and effective ad-blocking experience.
+uAssets is a curated collection of filter lists designed specifically for use with uBlock Origin and uBlock Origin Lite. It provides a variety of community‑maintained blocklists—covering ads, trackers, malware, privacy concerns, and regional content—to enhance the effectiveness and customizability of these popular ad‑blocking extensions. The repository is open‑source, allowing users to contribute, update, and tailor the lists to their browsing needs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/uBlockOrigin/uAssets) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/uBlockOrigin/uAssets) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20k |
-| 🍴 **Forks** | 1.5k |
+| ⭐ **Stars** | 20.1k |
+| 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cronjob-scheduler` `distributed-cron` `distributed-systems` `durable-execution` `golang` `microservice-framework` `microservice-orchestration` `microservices-architecture` `orchestrator` `service-bus` `service-fabric` `workflow-automation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · Backend
 
 ## 📝 Summary
 
-Temporal is an open-source, cloud-native temporal service that enables developers to build robust and scalable distributed systems. It provides a reliable way to manage and coordinate workflows, allowing for easier implementation of complex business processes and event-driven architectures. By utilizing Temporal, developers can focus on writing business logic without worrying about the intricacies of workflow management.
+Temporal is an open‑source, distributed workflow orchestration platform that lets developers define and run reliable, stateful business logic as code. It provides a fault‑tolerant service for managing long‑running processes, handling retries, versioning, and scaling across multiple back‑end systems. By abstracting complex orchestration concerns, Temporal enables developers to focus on core application logic while ensuring consistency and durability.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/temporalio/temporal) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/temporalio/temporal) · [← Back to Orchestration](./README.md)</sub>

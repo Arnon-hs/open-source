@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 344 |
+| ⭐ **Stars** | 5.1k |
+| 🍴 **Forks** | 351 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `claude-code` `code-review` `codex` `obsidian` `opencode` `pi-mono` `plan-mode` `skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the backnotprop/plannotator project:
-
-The plannotator project enables developers to visually annotate and review coding agent plans and code diffs, facilitating effective collaboration and feedback within teams. With this tool, users can share annotated plans with colleagues and send feedback to agents with a single click, streamlining the review process. By leveraging plannotator, teams can improve code quality and efficiency through enhanced visual feedback and communication.
+Backnotprop / Plannotator is an open‑source visual tool that lets developers annotate, review, and discuss AI‑generated coding agent plans and code diffs in an interactive UI. It streamlines collaboration by enabling team members to share annotated snapshots and send one‑click feedback directly back to the agents, accelerating iterative development and model improvement.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/backnotprop/plannotator) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/backnotprop/plannotator) · [← Back to AI/ML](./README.md)</sub>

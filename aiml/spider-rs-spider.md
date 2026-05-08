@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 199 |
+| 🍴 **Forks** | 201 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `automation` `crawler` `headless-chrome` `rust` `scraping` `spider` `web-crawler` `web-scraping`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-spider-rs/spider is a promising open-source project. Categories: AI/ML, Backend. Interest score: 70/100.
+Spider‑rs is an open‑source, low‑latency streaming web data collector designed for high‑throughput back‑end pipelines and AI/ML workflows. It efficiently scrapes, processes, and streams large volumes of web data in real time, providing a flexible API for integration with downstream analytics and machine‑learning systems. The project is written in Rust, emphasizing safety, performance, and easy deployment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/spider-rs/spider) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/spider-rs/spider) · [← Back to AI/ML](./README.md)</sub>

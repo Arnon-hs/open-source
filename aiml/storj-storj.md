@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 424 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`distributed` `distributed-storage` `distributed-systems` `golang` `object-storage` `open-source` `storage`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Storj project is an open-source, decentralized cloud object storage solution that prioritizes affordability, ease of use, and data security. This platform uses AI/ML technologies to provide a private and secure environment for storing and managing digital data. By leveraging a decentralized architecture, Storj aims to revolutionize cloud storage by giving users control over their data and reducing reliance on centralized systems.
+Storj is an open‑source, decentralized cloud object storage platform (v3) that provides secure, private, and cost‑effective data storage by leveraging a global network of distributed nodes. It offers an easy‑to‑use API compatible with S3, enabling developers to store and retrieve files without relying on traditional centralized data centers, while maintaining strong encryption and redundancy.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/storj/storj) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/storj/storj) · [← Back to AI/ML](./README.md)</sub>

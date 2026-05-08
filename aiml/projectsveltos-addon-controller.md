@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`add-ons` `addons` `devops` `gitops` `helm` `jsonnet` `k8s` `kubernetes` `kustomize` `multi-tenancy` `platform-engineering` `ytt`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The projectsveltos/addon-controller is an open-source Kubernetes add-on controller that enables the programmatic deployment of add-ons and applications across multiple clusters. Built on top of Sveltos, it supports various deployment methods, including ClusterAPI, Helm charts, kustomize, and YAMLs, and offers built-in support for multi-tenancy. This controller streamlines the management and deployment of applications and add-ons across tens of clusters, making it an ideal solution for large-scale Kubernetes environments.
+The **Sveltos Add‑on Controller** is an open‑source Kubernetes operator that automates the deployment and lifecycle management of add‑ons, Helm charts, Kustomize overlays, and raw YAML manifests across dozens of clusters—including those provisioned with ClusterAPI. It offers built‑in multi‑tenancy support, enabling teams to safely share and isolate resources while centrally controlling applications and infrastructure in a scalable, programmatic way.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/projectsveltos/addon-controller) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/projectsveltos/addon-controller) · [← Back to AI/ML](./README.md)</sub>

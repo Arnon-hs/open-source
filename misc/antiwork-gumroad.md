@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-antiwork/gumroad is a promising open-source project. Categories: Misc. Interest score: 90/100.
+antiwork/gumroad is a lightweight, open‑source platform that lets creators list digital products and manage sales without relying on the official Gumroad service. It provides simple tools for uploading items, handling payments, and tracking purchases, making it easy to experiment with what resonates with an audience. The project is categorized as “Misc” and is intended for anyone who wants a self‑hosted alternative for selling content online.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/antiwork/gumroad) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/antiwork/gumroad) · [← Back to Misc](./README.md)</sub>

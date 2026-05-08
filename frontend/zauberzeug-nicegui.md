@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 15.8k |
-| 🍴 **Forks** | 918 |
+| 🍴 **Forks** | 919 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`frontend` `gui` `interaction` `interface` `interfaces` `python` `robotics` `scripting` `toolkit` `webapp` `website`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The nicegui project is an open-source framework that allows developers to create web-based user interfaces using Python, providing a straightforward and intuitive approach to building GUI applications. It enables users to design and deploy web interfaces with ease, leveraging Python as the primary programming language. By utilizing nicegui, developers can create interactive web applications without requiring extensive knowledge of web development frameworks.
+NiceGUI is an open‑source Python library that lets developers build modern, web‑based graphical user interfaces using simple Python code instead of HTML, CSS, or JavaScript. It provides high‑level components (charts, dialogs, tables, etc.) and automatically serves a responsive UI via a built‑in FastAPI/Starlette server, making it easy to turn scripts and backend logic into interactive front‑ends.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/zauberzeug/nicegui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/zauberzeug/nicegui) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `go` `golang` `golang-application` `kitty` `kitty-terminal` `opengl` `python` `terminal` `terminal-emulators` `terminfo` `vt100`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Kitty is a cross-platform terminal emulator that provides a fast and feature-rich experience, utilizing GPU resources to enhance performance. Designed for those who spend most of their time in the terminal, kitty offers a robust and efficient alternative for navigating and interacting with command-line interfaces. With its open-source nature, kitty is highly customizable and extensible.
+Kitty is a fast, GPU‑accelerated terminal emulator designed for developers who spend most of their time in the command line. It runs on Linux, macOS, and Windows, offering features such as true‑color support, ligature rendering, Unicode handling, tabs, splits, and extensive configurability while maintaining low resource usage. As an open‑source project, Kitty invites contributions and provides detailed documentation for extending its powerful capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kovidgoyal/kitty) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kovidgoyal/kitty) · [← Back to Misc](./README.md)</sub>

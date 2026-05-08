@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bot` `github-app` `github-bot` `golang` `merge` `octo-correct-managed` `prs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The palantir/bulldozer project is an open-source GitHub bot designed to automatically merge pull requests. It streamlines the review process by eliminating manual intervention, helping to speed up development workflows and improve collaboration among team members. By automating the merge process, bulldozer enables developers to work more efficiently and focus on other critical tasks.
+Palantir’s **bulldozer** is an open‑source GitHub bot that automatically merges pull requests when they satisfy a configurable set of criteria (e.g., required reviews, status checks, and CI results). It streamlines the workflow for maintainers by handling merge actions—such as squashing, rebasing, or creating merge commits—without manual intervention, while providing hooks for custom policies and notifications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/palantir/bulldozer) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/palantir/bulldozer) · [← Back to Misc](./README.md)</sub>

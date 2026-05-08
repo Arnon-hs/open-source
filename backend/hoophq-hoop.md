@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 679 |
+| ⭐ **Stars** | 685 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`access-control` `bastion-host` `databases` `go` `grpc` `mongodb` `mysql` `pam` `postgres` `proxy` `security` `sqlserver`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Data · Security
 
 ## 📝 Summary
 
-Hoop is an open-source project that aims to provide automated access and data protection. It offers a secure solution for managing access and data, helping developers to safeguard sensitive information. By leveraging Hoop, organizations can efficiently control access and protect their data from potential threats.
+Hoop is an open‑source platform that automates secure access management and data protection for backend systems. It streamlines authentication, authorization, and encryption workflows, helping developers enforce robust security policies while simplifying compliance and audit processes. Ideal for data‑intensive applications, Hoop integrates with existing infrastructures to provide granular, programmable controls over who can access what data and when.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hoophq/hoop) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/hoophq/hoop) · [← Back to Backend](./README.md)</sub>

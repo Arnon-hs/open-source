@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 436 |
+| ⭐ **Stars** | 435 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dropdown-terminal` `gnome` `gnome-shell` `gnome-shell-extension` `terminal` `terminal-app` `terminal-emulator` `vte` `wayland`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, ddterm, is a GNOME Shell extension that provides a dropdown terminal with tab support, allowing users to access multiple terminals from a single, easily accessible location. It is designed to work natively on Wayland, ensuring seamless functionality across GNOME Shell environments. By providing a convenient and organized terminal interface, ddterm enhances productivity for GNOME users.
+ddterm is an open‑source GNOME Shell extension that adds a drop‑down terminal to the desktop, featuring tabbed sessions for easy multitasking. It runs natively on Wayland, providing a smooth, integrated terminal experience without requiring X‑org. The project is lightweight and suitable for users who want quick access to a configurable terminal directly from the GNOME interface.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ddterm/gnome-shell-extension-ddterm) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ddterm/gnome-shell-extension-ddterm) · [← Back to Misc](./README.md)</sub>

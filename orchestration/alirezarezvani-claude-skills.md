@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 13.8k |
+| ⭐ **Stars** | 14.1k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-plugins` `agent-skills` `agentic-ai` `ai-coding-agent` `anthropic-claude` `claude-ai` `claude-code` `claude-code-plugins` `claude-code-skills` `claude-skills` `codex-skills` `coding-agent-plugins`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The claude-skills project is an open-source collection of over 232 skills and agent plugins for Claude Code and other coding agents, designed to enhance productivity and efficiency for various roles, including engineering, marketing, and C-level positions. These skills cater to diverse needs, ranging from compliance and product development to C-level advisory. The project aims to facilitate seamless integration and automation of tasks across different coding platforms.
+The **Claude‑Skills** repository offers a curated collection of over 230 ready‑to‑use “skills” and agent plugins that extend Claude Code, Codex, Gemini CLI, Cursor, and a dozen other coding assistants. These modular components cover a wide range of use‑cases—from engineering and product development to marketing, compliance, and C‑level advisory—enabling developers to orchestrate sophisticated AI‑driven workflows across multiple platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/alirezarezvani/claude-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/alirezarezvani/claude-skills) · [← Back to Orchestration](./README.md)</sub>

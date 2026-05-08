@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `chainlink` `ethereum` `golang` `oracle` `solidity`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-smartcontractkit/chainlink is a promising open-source project. Categories: AI/ML. Interest score: 97/100.
+Chainlink is an open‑source node implementation for the decentralized oracle network, enabling smart contracts to securely retrieve and verify off‑chain data, APIs, and compute resources. By bridging blockchains with real‑world information, it facilitates reliable, tamper‑proof interactions between on‑chain logic and external services, supporting a wide range of crypto and AI/ML applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/smartcontractkit/chainlink) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/smartcontractkit/chainlink) · [← Back to Crypto](./README.md)</sub>

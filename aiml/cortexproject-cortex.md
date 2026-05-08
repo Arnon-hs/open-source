@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.8k |
-| 🍴 **Forks** | 857 |
+| 🍴 **Forks** | 858 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cncf` `hacktoberfest` `kubernetes` `monitoring` `prometheus`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The Cortex project is an open-source, long-term Prometheus solution designed for high availability and multi-tenancy. It provides a horizontally scalable architecture that supports large volumes of monitoring data, making it suitable for complex and distributed systems. By leveraging Cortex, organizations can efficiently store and manage their monitoring data for extended periods of time.
+Cortex is an open‑source, horizontally scalable and highly available backend for Prometheus that enables long‑term, multi‑tenant storage of metric data. It replicates Prometheus’ querying and alerting APIs while distributing data across multiple nodes for fault tolerance, making it ideal for large‑scale monitoring infrastructures.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/cortexproject/cortex) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/cortexproject/cortex) · [← Back to AI/ML](./README.md)</sub>

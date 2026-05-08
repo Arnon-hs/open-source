@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 982 |
+| ⭐ **Stars** | 985 |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `autonomous-agents` `cli` `collaborative-ai` `conversational-ai` `genai` `generative-ai` `llm` `llm-orchestration` `model-context-protocol` `multi-agent`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the MassGen project:
-
-MassGen is an open-source, multi-agent scaling system that autonomously orchestrates models and agents to collaborate and produce high-quality results in real-time. Built for the terminal, this AI/ML system enables seamless collaboration and reasoning among frontier models and agents, streamlining the process of achieving complex outcomes. With its user-friendly interface and scalable architecture, MassGen empowers developers to unlock the full potential of their AI and ML projects.
+MassGen is an open‑source, terminal‑based platform that orchestrates multiple AI agents and frontier models to work together autonomously, enabling collaborative reasoning and high‑quality output generation. It provides a scalable multi‑agent framework for developers to build, run, and manage complex AI workflows directly from the command line. The project also offers community support through its Discord server.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/massgen/MassGen) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/massgen/MassGen) · [← Back to Orchestration](./README.md)</sub>

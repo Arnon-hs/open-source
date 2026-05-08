@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 381 |
+| ⭐ **Stars** | 382 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | RouterOS Script |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adblock` `blocklist` `cidr-ranges` `dns` `dnspython` `google` `ip` `iplist-youtube` `ipv4` `ipv6` `list` `privacy`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, "iplist-youtube," aims to compile and list all known YouTube IP addresses in a single location. Developed by touhidurrr, the project caters to the Misc category and provides a centralized resource for individuals seeking to access or interact with YouTube's IP infrastructure. By aggregating this information, the project facilitates research, development, and troubleshooting in various areas.
+**Summary:**  
+This open‑source utility gathers and maintains a consolidated list of IP address ranges used by YouTube services. By periodically scanning public data sources and updating a simple repository, it provides a single reference point for developers, network administrators, or security analysts who need to identify or block YouTube traffic. The project is lightweight, language‑agnostic, and licensed for unrestricted reuse.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/touhidurrr/iplist-youtube) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/touhidurrr/iplist-youtube) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 661 |
+| ⭐ **Stars** | 660 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bun` `developer-tools` `javascript` `javascript-library` `nextjs` `nodejs` `prompt-injection` `prompt-injection-defense` `rate-limiting` `remix` `security` `security-tools`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the arcjet/arcjet-js project:
-
-Arcjet is an open-source JavaScript/TypeScript SDK that helps protect AI applications from malicious bot activity, data breaches, and misuse. By providing AI security building blocks, Arcjet enables developers to safeguard their AI budgets, prevent unauthorized access, and maintain the integrity of their tools. With Arcjet, organizations can ensure the secure and responsible use of AI technologies.
+Arcjet‑JS is an open‑source JavaScript/TypeScript SDK that provides ready‑to‑use security primitives for protecting AI‑powered applications. By integrating Arcjet’s bot‑detection and request‑throttling building blocks, developers can safeguard their frontend and backend services against automated abuse, data leakage, and excessive AI usage costs. The library is designed for easy incorporation into modern web stacks, offering configurable policies and real‑time analytics to keep AI workloads secure and cost‑effective.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/arcjet/arcjet-js) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/arcjet/arcjet-js) · [← Back to AI/ML](./README.md)</sub>

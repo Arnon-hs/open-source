@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16.1k |
+| ⭐ **Stars** | 16.2k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`approximate-nearest-neighbor-search` `generative-search` `grpc` `hnsw` `hybrid-search` `image-search` `information-retrieval` `mlops` `nearest-neighbor-search` `neural-search` `recommender-system` `search-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Weaviate is an open-source vector database that seamlessly integrates structured filtering with vector search capabilities, providing a scalable and fault-tolerant solution for AI and machine learning applications. This cloud-native database enables users to store and query both objects and vectors, facilitating efficient and accurate search and retrieval of complex data. By combining vector search with traditional database functionality, Weaviate offers a unique approach to data management and analysis.
+Weaviate is an open‑source, cloud‑native vector database that simultaneously stores objects and their high‑dimensional embeddings, enabling seamless hybrid queries that combine vector similarity search with traditional structured filtering. Built for fault tolerance and horizontal scalability, it provides a ready‑to‑use platform for AI/ML applications that need fast, semantic retrieval alongside conventional data operations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/weaviate/weaviate) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/weaviate/weaviate) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.6k |
-| 🍴 **Forks** | 92 |
+| 🍴 **Forks** | 93 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `golang` `logs` `ollama` `openai` `opentelemetry` `otel` `otlp` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Gonzo is an open-source, Go-based command-line interface (CLI) tool for analyzing logs in a terminal-based user interface (TUI). It provides a user-friendly interface to navigate and inspect log data, making it easier to identify patterns and anomalies. With Gonzo, users can gain valuable insights from their log data without requiring extensive programming knowledge.
+Gonzo is an open‑source, terminal‑based user interface (TUI) written in Go for fast and interactive log analysis. It combines lightweight, real‑time filtering, searching, and visualisation of log data with AI/ML‑enhanced pattern detection, making it ideal for developers and ops teams who need to quickly diagnose issues directly from the command line. The project’s modular design also allows easy integration into existing Go toolchains and workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/control-theory/gonzo) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/control-theory/gonzo) · [← Back to AI/ML](./README.md)</sub>

@@ -1,6 +1,6 @@
 # schmitech/orbit
 
-[![Stars](https://img.shields.io/github/stars/schmitech/orbit?style=flat-square&color=yellow)](https://github.com/schmitech/orbit/stargazers) [![Forks](https://img.shields.io/github/forks/schmitech/orbit?style=flat-square&color=blue)](https://github.com/schmitech/orbit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/schmitech/orbit?style=flat-square&color=yellow)](https://github.com/schmitech/orbit/stargazers) [![Forks](https://img.shields.io/github/forks/schmitech/orbit?style=flat-square&color=blue)](https://github.com/schmitech/orbit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The self-hosted AI gateway for production RAG across LLMs, databases, APIs, and files.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 253 |
-| 🍴 **Forks** | 43 |
+| ⭐ **Stars** | 261 |
+| 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-assistant` `ai-gateway` `ai-safety` `anthropic` `chatbot` `developer-tools` `elasticsearch` `llm` `mongodb` `natural-language-to-sql` `ollama-client` `openai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The orbit project is an open-source, self-hosted AI gateway that simplifies access to various large language model (LLM) providers, databases, and local files. It offers a unified API, real-time analytics, voice integration, and customizable guardrails to ensure secure and controlled AI interactions. By centralizing AI access, orbit enables developers to build more robust and secure AI-powered applications.
+Orbit is a self‑hosted AI gateway that streamlines production‑grade Retrieval‑Augmented Generation (RAG) workflows across multiple large language models, databases, APIs, and file sources. It provides a unified backend for routing queries, managing context, and integrating diverse data connectors, enabling developers to build robust, scalable AI‑driven applications with minimal infrastructure overhead.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/schmitech/orbit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/schmitech/orbit) · [← Back to AI/ML](./README.md)</sub>

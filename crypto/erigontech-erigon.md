@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `ethereum`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Erigon is an open-source Ethereum implementation that prioritizes efficiency, aiming to optimize performance and scalability for the Ethereum network. This project is a significant contribution to the cryptocurrency space, offering a more streamlined and robust Ethereum platform. By leveraging advancements in AI/ML and other technologies, Erigon seeks to enhance the overall user experience and reliability of the Ethereum ecosystem.
+Erigon (formerly Turbo‑Geth) is a high‑performance, open‑source Ethereum client written in Go that pushes the limits of efficiency in node operation, storage, and sync. By redesigning core data structures and leveraging advanced parallelism, it reduces resource consumption while maintaining full protocol compatibility, making it ideal for both research and production environments. The project also incorporates AI/ML‑based tooling for diagnostics and performance optimization.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/erigontech/erigon) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/erigontech/erigon) · [← Back to Crypto](./README.md)</sub>

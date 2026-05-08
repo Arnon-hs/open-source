@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 410 |
+| ⭐ **Stars** | 411 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`artisan` `cheatsheet` `developer-tools` `development` `laravel` `nuxt` `nuxtjs` `tools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-This project, artisan.page, is an open-source initiative that offers a searchable and bookmarkable cheatsheet for Laravel's Artisan commands. It provides developers with an easily accessible resource for navigating and utilizing the comprehensive suite of commands available in Laravel's Artisan tool. This convenient reference aims to streamline the development process by reducing the need to constantly consult the official documentation.
+A lightweight, web‑based cheatsheet that lets you browse, search and bookmark Laravel Artisan commands. Built with a clean frontend, it provides instant access to command syntax, options, and descriptions, making it a handy dev‑tool for Laravel developers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/jbrooksuk/artisan.page) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jbrooksuk/artisan.page) · [← Back to Frontend](./README.md)</sub>
