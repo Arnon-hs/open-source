@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 434 |
-| 🍴 **Forks** | 65 |
+| ⭐ **Stars** | 418 |
+| 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `filesystem` `golang` `knowledge-base` `knowledge-graph` `llm-wiki` `markdown` `obsidian` `self-hosted` `wiki`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Kiwifs is an open-source knowledge server designed for seamless knowledge management, modeled after the popular PocketBase NoSQL database. Built as a single Go binary with minimal setup, it offers a straightforward solution for storing and retrieving knowledge in a structured format. This backend-focused project aims to simplify the development and deployment of AI and ML applications.
+Kiwifs is an open‑source framework that equips AI agents with a “knowledge filesystem,” enabling them to write, search, and query structured information while maintaining trustworthiness through provenance and verification mechanisms. By integrating semantic indexing and access‑control features, Kiwifs lets developers build intelligent applications that can persistently store and retrieve knowledge in a reliable, auditable manner.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/kiwifs/kiwifs) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kiwifs/kiwifs) · [← Back to AI/ML](./README.md)</sub>

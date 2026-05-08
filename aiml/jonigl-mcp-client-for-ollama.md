@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 692 |
-| 🍴 **Forks** | 92 |
+| ⭐ **Stars** | 698 |
+| 🍴 **Forks** | 93 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai` `command-line-tool` `generative-ai` `linux` `llm` `local-llm` `macos` `mcp` `mcp-client` `mcp-server` `model-context-protocol`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the jonigl/mcp-client-for-ollama project:
-
-This open-source project provides a text-based user interface (TUI) client for interacting with MCP servers using Ollama. The client offers a range of features to streamline developer workflows, including agent mode, multi-server support, and customizable tool management. Built for developers working with local Large Language Models (LLMs), the client enables efficient and interactive model development and testing.
+jonigl/mcp-client-for-ollama is an open‑source, text‑based user interface (TUI) that lets developers interact with MCP servers powered by Ollama, supporting features such as agent mode, multi‑server connections, model switching, streaming responses, tool management, and human‑in‑the‑loop workflows. It also offers configurable model parameters, custom system prompts, saved preferences, and a “thinking” mode for more controlled LLM interactions, making it a handy tool for anyone working with local large language models.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/jonigl/mcp-client-for-ollama) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jonigl/mcp-client-for-ollama) · [← Back to AI/ML](./README.md)</sub>

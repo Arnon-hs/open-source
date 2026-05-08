@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `agentic-ai` `agents` `ai` `anthropic` `autonomous-agents` `bedrock` `genai` `litellm` `llama` `llm` `machine-learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The strands-agents/tools project is an open-source collection of powerful tools designed to enhance the capabilities of agents, providing advanced functionality for streamlined workflows. This set of tools is categorized under Orchestration and AI/ML, indicating its integration with artificial intelligence and machine learning technologies. By leveraging these tools, users can unlock new levels of efficiency and automation in their projects.
+The **strands‑agents/tools** repository provides a collection of utilities that extend the functionality of autonomous agents, enabling them to perform complex orchestration tasks, interact with external services, and leverage advanced AI/ML capabilities. By offering ready‑to‑use modules for workflow coordination, data processing, and model integration, the project empowers developers to build more powerful, flexible, and scalable agent‑based systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/strands-agents/tools) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/strands-agents/tools) · [← Back to Orchestration](./README.md)</sub>

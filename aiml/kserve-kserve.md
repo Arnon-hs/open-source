@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`artificial-intelligence` `cncf` `genai` `hacktoberfest` `istio` `k8s` `knative` `kserve` `kubeflow` `kubernetes` `llm-inference` `machine-learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-kserve/kserve is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 100/100.
+kserve (formerly KFServing) is an open‑source Kubernetes extension that provides a unified, production‑grade inference service for both generative and predictive AI models across multiple frameworks (TensorFlow, PyTorch, ONNX, etc.). It automates model deployment, scaling, routing, and monitoring, enabling teams to serve high‑throughput AI workloads reliably on any Kubernetes cluster.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/kserve/kserve) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kserve/kserve) · [← Back to AI/ML](./README.md)</sub>

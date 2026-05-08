@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 831 |
-| 🍴 **Forks** | 53 |
+| ⭐ **Stars** | 830 |
+| 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apple` `apple-tv` `chromecast` `cloud` `cloud-streaming` `jackett` `kodi` `kodi-addon` `p2p` `peerflix` `python` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-RapidBay is an open-source project that enables users to set up a self-hosted, cloud-deployable torrent video streaming service. This service is compatible with popular devices such as Chromecast, Apple TV, and Kodi, allowing users to seamlessly stream their favorite content across various platforms. By leveraging the power of the cloud, RapidBay offers a flexible and scalable solution for managing and streaming torrent files.
+RapidBay is a self‑hosted backend service that streams torrent video files directly to devices such as Chromecast, Apple TV, and Kodi, making it easy to watch content without downloading it first. It runs in the cloud or on a personal server, handling torrent acquisition, transcoding, and on‑the‑fly streaming while providing a simple API for integration with media clients.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/hauxir/rapidbay) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/hauxir/rapidbay) · [← Back to Backend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 411 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`2d` `animation` `c-plus-plus` `gtkmm` `hacktoberfest` `synfig` `vector` `vector-graphics`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Synfig Studio is an open-source animation software that enables users to create high-quality vector-based animated films and cartoons. With its powerful keyframe animation and advanced tweening capabilities, Synfig Studio offers a versatile platform for artists and animators to bring their ideas to life. This software is free and available for Windows, macOS, and Linux operating systems.
+Synfig Studio is a free, open‑source 2D animation program that enables users to create high‑quality vector graphics and bitmap animations without the need for frame‑by‑frame drawing. This repository hosts the official source code, documentation, and build tools for the project, supporting cross‑platform development and community contributions. It serves as the central hub for developers and artists looking to extend or customize the Synfig animation workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/synfig/synfig) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/synfig/synfig) · [← Back to Misc](./README.md)</sub>

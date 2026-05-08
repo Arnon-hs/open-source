@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 221 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gfw` `shadowsocks` `shadowsocksr` `ssr` `trojan` `v2ray` `vless`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project SubCrawler:
-
-SubCrawler is an open-source project that daily crawls publicly available Google Ping nodes for free. It provides free node subscriptions, ideal for users who do not require further development or customization. The project aims to make publicly available nodes accessible to users at no cost.
+Leon406/SubCrawler is an open‑source tool that automatically crawls and collects publicly available "ping" (Google ping) nodes on a daily basis, providing users with free proxy or VPN endpoints and a ready‑to‑use subscription list. It is intended for straightforward use rather than further development, and the author asks that forks be avoided unless the code is being modified.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/Leon406/SubCrawler) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Leon406/SubCrawler) · [← Back to Misc](./README.md)</sub>

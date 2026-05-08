@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 195 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`actor-model` `cloud-native` `concurrency` `distributed-actors` `distributed-systems` `high-performance` `message-driven` `pekko` `reactive` `streaming`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The Apache Pekko project is an open-source framework for building high-concurrency, distributed, and resilient message-driven applications using Java and Scala. It enables developers to create scalable and fault-tolerant systems that can handle large volumes of data and messages. With Apache Pekko, developers can build reliable and efficient applications for a wide range of use cases, from real-time data processing to distributed systems and microservices.
+Apache Pekko is an open‑source toolkit for building highly concurrent, distributed, and fault‑tolerant message‑driven applications on the JVM, offering APIs for both Java and Scala. It provides a lightweight actor model, cluster sharding, persistence, and stream processing capabilities that simplify the development of resilient, scalable systems. Though categorized under “Frontend,” it is primarily a backend framework for constructing reactive, event‑driven architectures.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/apache/pekko) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/apache/pekko) · [← Back to Frontend](./README.md)</sub>

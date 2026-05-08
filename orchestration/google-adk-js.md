@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 133 |
+| 🍴 **Forks** | 139 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic` `agentic-ai` `agents` `agents-sdk` `ai` `ai-agents` `aiagentframework` `genai` `genai-chatbot` `llm` `llms`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the google/adk-js project:
-
-Google ADK-js is an open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents using TypeScript. This flexible and customizable framework provides developers with control over the development and deployment process of AI solutions. With ADK-js, developers can easily integrate AI capabilities into their applications, enabling the creation of more intelligent and interactive systems.
+google/adk-js is a TypeScript‑first toolkit that lets developers define, orchestrate, and evaluate AI agents entirely through code. It provides a flexible, modular framework for building sophisticated agent pipelines, testing their performance, and deploying them across various environments, with strong support for front‑end integration. Ideal for projects that need fine‑grained control over AI/ML orchestration without relying on low‑code platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/google/adk-js) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/google/adk-js) · [← Back to Orchestration](./README.md)</sub>

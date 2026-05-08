@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 94 |
+| 🍴 **Forks** | 95 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code` `codex` `cursor` `gemini` `opencode` `spec-driven-development` `vibe-coding`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The agtx project is an open-source platform that serves as a blackboard for coding agents, streamlining the process of developing and merging AI/ML models from initial idea to deployment. This innovative tool aims to automate and simplify the workflow, enabling users to focus on their projects without manual data management. By providing a hands-free experience, agtx enhances productivity and efficiency in AI/ML development.
+fynnfluegge/agtx is an open‑source framework that serves as a “blackboard” for coding agents, enabling them to collaborate on software development tasks from initial concept through to automated pull‑request creation and merging—entirely hands‑free. By orchestrating multiple AI agents, the platform streamlines idea generation, code synthesis, testing, and integration, making AI‑driven development pipelines more accessible and efficient.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/fynnfluegge/agtx) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/fynnfluegge/agtx) · [← Back to AI/ML](./README.md)</sub>

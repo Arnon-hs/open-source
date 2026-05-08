@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2939** |
+| 🗂️ **Total projects** | **2979** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1158 | [Browse →](./aiml/) |
-| 📦 **Misc** | 458 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 290 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 290 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 161 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 159 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 121 | [Browse →](./crypto/) |
-| 📊 **Data** | 71 | [Browse →](./data/) |
-| 💳 **Payments** | 70 | [Browse →](./payments/) |
+| 🤖 **AI/ML** | 1182 | [Browse →](./aiml/) |
+| 📦 **Misc** | 463 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 292 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 291 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 162 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 160 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 123 | [Browse →](./crypto/) |
+| 📊 **Data** | 72 | [Browse →](./data/) |
+| 💳 **Payments** | 71 | [Browse →](./payments/) |
 | 📈 **Trading** | 46 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 41 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 42 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 35 | [Browse →](./mobile/) |
-| 🔐 **Security** | 21 | [Browse →](./security/) |
+| 🔐 **Security** | 22 | [Browse →](./security/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
 | ✨ **Design** | 8 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [alibaba/spring-ai-alibaba](./orchestration/alibaba-spring-ai-alibaba.md) | ⭐ 9.5k | Orchestration |
-| 2 | [zalando/postgres-operator](./data/zalando-postgres-operator.md) | ⭐ 5.2k | Data |
-| 3 | [webpack/webpack](./frontend/webpack-webpack.md) | ⭐ 65.8k | Frontend |
-| 4 | [frappe/erpnext](./aiml/frappe-erpnext.md) | ⭐ 33.7k | AI/ML |
-| 5 | [botpress/botpress](./orchestration/botpress-botpress.md) | ⭐ 14.7k | Orchestration |
-| 6 | [warmcat/libwebsockets](./backend/warmcat-libwebsockets.md) | ⭐ 5.3k | Backend |
-| 7 | [wshobson/agents](./orchestration/wshobson-agents.md) | ⭐ 35k | Orchestration |
-| 8 | [alam00000/bentopdf](./devopsinfra/alam00000-bentopdf.md) | ⭐ 13.1k | DevOps & Infra |
-| 9 | [mermaid-js/mermaid](./aiml/mermaid-js-mermaid.md) | ⭐ 87.9k | AI/ML |
-| 10 | [Anil-matcha/Open-Generative-AI](./aiml/anil-matcha-open-generative-ai.md) | ⭐ 12.1k | AI/ML |
+| 1 | [kserve/kserve](./aiml/kserve-kserve.md) | ⭐ 5.4k | AI/ML |
+| 2 | [alibaba/spring-ai-alibaba](./orchestration/alibaba-spring-ai-alibaba.md) | ⭐ 9.5k | Orchestration |
+| 3 | [zalando/postgres-operator](./data/zalando-postgres-operator.md) | ⭐ 5.2k | Data |
+| 4 | [webpack/webpack](./frontend/webpack-webpack.md) | ⭐ 65.8k | Frontend |
+| 5 | [frappe/erpnext](./aiml/frappe-erpnext.md) | ⭐ 33.7k | AI/ML |
+| 6 | [botpress/botpress](./orchestration/botpress-botpress.md) | ⭐ 14.7k | Orchestration |
+| 7 | [warmcat/libwebsockets](./backend/warmcat-libwebsockets.md) | ⭐ 5.3k | Backend |
+| 8 | [wshobson/agents](./orchestration/wshobson-agents.md) | ⭐ 35k | Orchestration |
+| 9 | [alam00000/bentopdf](./devopsinfra/alam00000-bentopdf.md) | ⭐ 13.1k | DevOps & Infra |
+| 10 | [mermaid-js/mermaid](./aiml/mermaid-js-mermaid.md) | ⭐ 87.9k | AI/ML |
 
 ## 🚀 How it works
 

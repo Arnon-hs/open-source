@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**161 projects** in this category.
+**162 projects** in this category.
 
 ## Projects
 
@@ -118,57 +118,58 @@
 | 108 | [bacnet-stack/bacnet-stack](./bacnet-stack-bacnet-stack.md) | ⭐ 556 | C | 58/100 |
 | 109 | [DialmasterOrg/Youtarr](./dialmasterorg-youtarr.md) | ⭐ 1.1k | TypeScript | 58/100 |
 | 110 | [proftpd/proftpd](./proftpd-proftpd.md) | ⭐ 584 | C | 58/100 |
-| 111 | [mbround18/valheim-docker](./mbround18-valheim-docker.md) | ⭐ 835 | Rust | 57/100 |
-| 112 | [asciimoo/hister](./asciimoo-hister.md) | ⭐ 889 | Go | 57/100 |
-| 113 | [samuelgursky/davinci-resolve-mcp](./samuelgursky-davinci-resolve-mcp.md) | ⭐ 991 | Python | 57/100 |
-| 114 | [mongodb-js/mongodb-mcp-server](./mongodb-js-mongodb-mcp-server.md) | ⭐ 1k | TypeScript | 57/100 |
-| 115 | [roosterkid/openproxylist](./roosterkid-openproxylist.md) | ⭐ 822 | — | 57/100 |
-| 116 | [cot-rs/cot](./cot-rs-cot.md) | ⭐ 928 | Rust | 56/100 |
-| 117 | [asyncapi/cli](./asyncapi-cli.md) | ⭐ 267 | TypeScript | 56/100 |
-| 118 | [Tracardi/tracardi](./tracardi-tracardi.md) | ⭐ 636 | Python | 56/100 |
-| 119 | [wso2/product-integrator-mi](./wso2-product-integrator-mi.md) | ⭐ 243 | Java | 56/100 |
-| 120 | [NVIDIA/spark-rapids](./nvidia-spark-rapids.md) | ⭐ 975 | Scala | 56/100 |
-| 121 | [valeriansaliou/bloom](./valeriansaliou-bloom.md) | ⭐ 725 | Rust | 56/100 |
-| 122 | [unacms/UNA](./unacms-una.md) | ⭐ 311 | PHP | 55/100 |
-| 123 | [EDCD/EDDI](./edcd-eddi.md) | ⭐ 514 | C# | 55/100 |
-| 124 | [ShaftHQ/SHAFT_ENGINE](./shafthq-shaft-engine.md) | ⭐ 386 | Java | 55/100 |
-| 125 | [mihaelamj/cupertino](./mihaelamj-cupertino.md) | ⭐ 670 | Swift | 55/100 |
-| 126 | [luskaner/ageLANServer](./luskaner-agelanserver.md) | ⭐ 674 | Go | 55/100 |
-| 127 | [AJenbo/phpantom_lsp](./ajenbo-phpantom-lsp.md) | ⭐ 658 | Rust | 55/100 |
-| 128 | [getsentry/sentry-rust](./getsentry-sentry-rust.md) | ⭐ 729 | Rust | 55/100 |
-| 129 | [greenbone/gvmd](./greenbone-gvmd.md) | ⭐ 359 | C | 55/100 |
-| 130 | [katahiromz/RisohEditor](./katahiromz-risoheditor.md) | ⭐ 483 | C++ | 54/100 |
-| 131 | [TencentCloudBase/awesome-cloudbase-examples](./tencentcloudbase-awesome-cloudbase-examples.md) | ⭐ 377 | JavaScript | 54/100 |
-| 132 | [WFCD/warframe-items](./wfcd-warframe-items.md) | ⭐ 374 | TypeScript | 54/100 |
-| 133 | [jkroepke/openvpn-auth-oauth2](./jkroepke-openvpn-auth-oauth2.md) | ⭐ 470 | Go | 54/100 |
-| 134 | [mateeeeeee/Adria](./mateeeeeee-adria.md) | ⭐ 541 | C++ | 54/100 |
-| 135 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 462 | — | 54/100 |
-| 136 | [ancsemi/Haven](./ancsemi-haven.md) | ⭐ 420 | JavaScript | 54/100 |
-| 137 | [databay-labs/free-proxy-list](./databay-labs-free-proxy-list.md) | ⭐ 591 | — | 54/100 |
-| 138 | [2anki/server](./2anki-server.md) | ⭐ 314 | TypeScript | 53/100 |
-| 139 | [gizmodata/gizmosql](./gizmodata-gizmosql.md) | ⭐ 308 | C++ | 53/100 |
-| 140 | [huahua132/skynet_fly](./huahua132-skynet-fly.md) | ⭐ 521 | C | 53/100 |
-| 141 | [bivlked/amneziawg-installer](./bivlked-amneziawg-installer.md) | ⭐ 389 | Shell | 53/100 |
-| 142 | [kiriwalawren/nixflix](./kiriwalawren-nixflix.md) | ⭐ 339 | Nix | 53/100 |
-| 143 | [rundeck/rundeck-cli](./rundeck-rundeck-cli.md) | ⭐ 140 | Java | 52/100 |
-| 144 | [soxoj/awesome-osint-mcp-servers](./soxoj-awesome-osint-mcp-servers.md) | ⭐ 224 | — | 52/100 |
-| 145 | [knative/client](./knative-client.md) | ⭐ 383 | Go | 52/100 |
-| 146 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 426 | Rust | 52/100 |
-| 147 | [googleapis/google-cloud-rust](./googleapis-google-cloud-rust.md) | ⭐ 918 | Rust | 52/100 |
-| 148 | [stac-utils/rustac](./stac-utils-rustac.md) | ⭐ 139 | Rust | 51/100 |
-| 149 | [NVlabs/cutile-rs](./nvlabs-cutile-rs.md) | ⭐ 285 | Rust | 51/100 |
-| 150 | [komapper/komapper](./komapper-komapper.md) | ⭐ 339 | Kotlin | 51/100 |
-| 151 | [av1155/houndarr](./av1155-houndarr.md) | ⭐ 203 | Python | 51/100 |
-| 152 | [cablehead/http-nu](./cablehead-http-nu.md) | ⭐ 129 | Rust | 51/100 |
-| 153 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 50/100 |
-| 154 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 48/100 |
-| 155 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
-| 156 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
-| 157 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
-| 158 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
-| 159 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
-| 160 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
-| 161 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
+| 111 | [hauxir/rapidbay](./hauxir-rapidbay.md) | ⭐ 830 | Python | 57/100 |
+| 112 | [mbround18/valheim-docker](./mbround18-valheim-docker.md) | ⭐ 835 | Rust | 57/100 |
+| 113 | [asciimoo/hister](./asciimoo-hister.md) | ⭐ 889 | Go | 57/100 |
+| 114 | [samuelgursky/davinci-resolve-mcp](./samuelgursky-davinci-resolve-mcp.md) | ⭐ 991 | Python | 57/100 |
+| 115 | [mongodb-js/mongodb-mcp-server](./mongodb-js-mongodb-mcp-server.md) | ⭐ 1k | TypeScript | 57/100 |
+| 116 | [roosterkid/openproxylist](./roosterkid-openproxylist.md) | ⭐ 822 | — | 57/100 |
+| 117 | [cot-rs/cot](./cot-rs-cot.md) | ⭐ 928 | Rust | 56/100 |
+| 118 | [asyncapi/cli](./asyncapi-cli.md) | ⭐ 267 | TypeScript | 56/100 |
+| 119 | [Tracardi/tracardi](./tracardi-tracardi.md) | ⭐ 636 | Python | 56/100 |
+| 120 | [wso2/product-integrator-mi](./wso2-product-integrator-mi.md) | ⭐ 243 | Java | 56/100 |
+| 121 | [NVIDIA/spark-rapids](./nvidia-spark-rapids.md) | ⭐ 975 | Scala | 56/100 |
+| 122 | [valeriansaliou/bloom](./valeriansaliou-bloom.md) | ⭐ 725 | Rust | 56/100 |
+| 123 | [unacms/UNA](./unacms-una.md) | ⭐ 311 | PHP | 55/100 |
+| 124 | [EDCD/EDDI](./edcd-eddi.md) | ⭐ 514 | C# | 55/100 |
+| 125 | [ShaftHQ/SHAFT_ENGINE](./shafthq-shaft-engine.md) | ⭐ 386 | Java | 55/100 |
+| 126 | [mihaelamj/cupertino](./mihaelamj-cupertino.md) | ⭐ 670 | Swift | 55/100 |
+| 127 | [luskaner/ageLANServer](./luskaner-agelanserver.md) | ⭐ 674 | Go | 55/100 |
+| 128 | [AJenbo/phpantom_lsp](./ajenbo-phpantom-lsp.md) | ⭐ 658 | Rust | 55/100 |
+| 129 | [getsentry/sentry-rust](./getsentry-sentry-rust.md) | ⭐ 729 | Rust | 55/100 |
+| 130 | [greenbone/gvmd](./greenbone-gvmd.md) | ⭐ 359 | C | 55/100 |
+| 131 | [katahiromz/RisohEditor](./katahiromz-risoheditor.md) | ⭐ 483 | C++ | 54/100 |
+| 132 | [TencentCloudBase/awesome-cloudbase-examples](./tencentcloudbase-awesome-cloudbase-examples.md) | ⭐ 377 | JavaScript | 54/100 |
+| 133 | [WFCD/warframe-items](./wfcd-warframe-items.md) | ⭐ 374 | TypeScript | 54/100 |
+| 134 | [jkroepke/openvpn-auth-oauth2](./jkroepke-openvpn-auth-oauth2.md) | ⭐ 470 | Go | 54/100 |
+| 135 | [mateeeeeee/Adria](./mateeeeeee-adria.md) | ⭐ 541 | C++ | 54/100 |
+| 136 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 462 | — | 54/100 |
+| 137 | [ancsemi/Haven](./ancsemi-haven.md) | ⭐ 420 | JavaScript | 54/100 |
+| 138 | [databay-labs/free-proxy-list](./databay-labs-free-proxy-list.md) | ⭐ 591 | — | 54/100 |
+| 139 | [2anki/server](./2anki-server.md) | ⭐ 314 | TypeScript | 53/100 |
+| 140 | [gizmodata/gizmosql](./gizmodata-gizmosql.md) | ⭐ 308 | C++ | 53/100 |
+| 141 | [huahua132/skynet_fly](./huahua132-skynet-fly.md) | ⭐ 521 | C | 53/100 |
+| 142 | [bivlked/amneziawg-installer](./bivlked-amneziawg-installer.md) | ⭐ 389 | Shell | 53/100 |
+| 143 | [kiriwalawren/nixflix](./kiriwalawren-nixflix.md) | ⭐ 339 | Nix | 53/100 |
+| 144 | [rundeck/rundeck-cli](./rundeck-rundeck-cli.md) | ⭐ 140 | Java | 52/100 |
+| 145 | [soxoj/awesome-osint-mcp-servers](./soxoj-awesome-osint-mcp-servers.md) | ⭐ 224 | — | 52/100 |
+| 146 | [knative/client](./knative-client.md) | ⭐ 383 | Go | 52/100 |
+| 147 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 426 | Rust | 52/100 |
+| 148 | [googleapis/google-cloud-rust](./googleapis-google-cloud-rust.md) | ⭐ 918 | Rust | 52/100 |
+| 149 | [stac-utils/rustac](./stac-utils-rustac.md) | ⭐ 139 | Rust | 51/100 |
+| 150 | [NVlabs/cutile-rs](./nvlabs-cutile-rs.md) | ⭐ 285 | Rust | 51/100 |
+| 151 | [komapper/komapper](./komapper-komapper.md) | ⭐ 339 | Kotlin | 51/100 |
+| 152 | [av1155/houndarr](./av1155-houndarr.md) | ⭐ 203 | Python | 51/100 |
+| 153 | [cablehead/http-nu](./cablehead-http-nu.md) | ⭐ 129 | Rust | 51/100 |
+| 154 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 50/100 |
+| 155 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 48/100 |
+| 156 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
+| 157 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
+| 158 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
+| 159 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
+| 160 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
+| 161 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
+| 162 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
 
 ---
 

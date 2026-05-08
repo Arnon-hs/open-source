@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54 |
+| ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-tools` `apple-silicon` `applescript` `automation` `browser-automation` `claude` `claude-code` `cursor` `devtools` `llm-tools` `macos`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-"Safari-MCP is an open-source project that enables seamless automation of Safari browser for AI agents, utilizing 80 AppleScript tools for efficient and silent background operations. This drop-in alternative to Chrome DevTools MCP reduces CPU/heat output by 40-60% on Apple Silicon devices, making it a viable solution for developers and AI professionals. By leveraging Safari-MCP, users can streamline their AI workflows while minimizing resource consumption."
+Achiyā Automation’s **safari‑mcp** provides native Safari browser automation tailored for AI agents, exposing about 80 AppleScript‑driven tools that run silently in the background while preserving user logins. It serves as a drop‑in replacement for Chrome DevTools MCP, delivering comparable functionality with 40‑60 % lower CPU usage and heat on Apple‑silicon Macs. Suitable for AI/ML workflows, backend services, and design‑focused automation pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/achiya-automation/safari-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/achiya-automation/safari-mcp) · [← Back to AI/ML](./README.md)</sub>

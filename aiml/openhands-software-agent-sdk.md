@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 686 |
-| 🍴 **Forks** | 241 |
+| ⭐ **Stars** | 696 |
+| 🍴 **Forks** | 245 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `sdk`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-OpenHands/software-agent-sdk is an open-source Software Development Kit (SDK) designed for building AI agents with OpenHands V1. This modular and clean SDK enables developers to create robust and efficient AI solutions with ease, while catering to the demands of the AI and machine learning community. It simplifies the process of crafting AI agents with a user-friendly interface.
+OpenHands/software-agent-sdk is a clean, modular software development kit designed to simplify the creation of AI agents using OpenHands V1. It provides a well‑structured, extensible framework that abstracts common agent functionalities, enabling developers to focus on custom logic and integration with frontend applications. Ideal for AI/ML projects that require scalable, maintainable agent implementations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/OpenHands/software-agent-sdk) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/OpenHands/software-agent-sdk) · [← Back to AI/ML](./README.md)</sub>

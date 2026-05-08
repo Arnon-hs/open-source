@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 721 |
-| 🍴 **Forks** | 89 |
+| ⭐ **Stars** | 722 |
+| 🍴 **Forks** | 90 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `continuous-profiling` `cpp` `cuda` `ebpf` `ebpf-programs` `go` `golang` `gpu` `kubernetes` `linux` `nvidia`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The Parca Agent is an open-source, eBPF-based profiling tool that automatically discovers and monitors CPU and GPU usage in Kubernetes and systemd environments without requiring code changes or restarts. This always-on profiling agent provides real-time insights into system performance, enabling developers to optimize and troubleshoot their applications more efficiently. By leveraging eBPF, the Parca Agent provides a seamless and non-intrusive profiling experience.
+Parca Agent is an open‑source, eBPF‑based profiler that continuously monitors CPU and GPU usage across Kubernetes pods and systemd services without requiring code changes or restarts. By automatically discovering targets in the runtime environment, it delivers low‑overhead, always‑on performance insights for developers and operators, simplifying observability in modern cloud‑native infrastructures.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/parca-dev/parca-agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/parca-dev/parca-agent) · [← Back to AI/ML](./README.md)</sub>

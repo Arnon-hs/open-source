@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 884 |
-| 🍴 **Forks** | 219 |
+| ⭐ **Stars** | 883 |
+| 🍴 **Forks** | 220 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`actix` `actix-web` `async` `hacktoberfest` `rust` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The actix/actix-extras project is a collection of supplementary crates designed to enhance the functionality of the Actix and Actix-Web frameworks. These crates provide additional features, tools, and utilities that can be used to build robust, scalable, and efficient web applications. By leveraging actix-extras, developers can extend the capabilities of their Actix-based projects and streamline their development workflows.
+actix-extras is an open‑source suite of supplemental crates that extend the functionality of the Actix ecosystem, including Actix and Actix‑Web. It provides ready‑to‑use components—such as middleware, utilities, and integrations—that simplify common tasks and enhance the capabilities of Actix‑based applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/actix/actix-extras) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/actix/actix-extras) · [← Back to Misc](./README.md)</sub>

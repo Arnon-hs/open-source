@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dom` `html` `html-react-parser` `javascript` `jsx` `library` `npm` `package` `parse` `parser` `react` `react-parser`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The remarkablemark/html-react-parser is an open-source project that enables the conversion of HTML strings into React components, simplifying the process of rendering HTML in React applications. This project utilizes AI/ML capabilities to accurately parse HTML and generate equivalent React code, making it a valuable tool for developers working with dynamic or user-generated content. By leveraging this parser, developers can focus on building their applications without worrying about manual HTML to React conversions.
+remarkablemark/html-react-parser is a lightweight, open‑source library that converts raw HTML strings into React elements, enabling seamless integration of external markup within React applications. It safely parses HTML, preserving attributes, nesting, and text nodes while offering customizable options for handling unknown tags or sanitizing content. Ideal for frontend developers, the parser simplifies rendering dynamic HTML without compromising React’s declarative workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/remarkablemark/html-react-parser) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/remarkablemark/html-react-parser) · [← Back to AI/ML](./README.md)</sub>

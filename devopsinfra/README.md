@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**41 projects** in this category.
+**42 projects** in this category.
 
 ## Projects
 
@@ -26,29 +26,30 @@
 | 16 | [kubesphere/kubekey](./kubesphere-kubekey.md) | ⭐ 2.8k | Go | 81/100 |
 | 17 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 77/100 |
 | 18 | [DaKheera47/job-ops](./dakheera47-job-ops.md) | ⭐ 3k | TypeScript | 76/100 |
-| 19 | [kube-vip/kube-vip](./kube-vip-kube-vip.md) | ⭐ 2.8k | Go | 74/100 |
-| 20 | [homebridge/docker-homebridge](./homebridge-docker-homebridge.md) | ⭐ 2.7k | Shell | 73/100 |
-| 21 | [kubernetes-sigs/kueue](./kubernetes-sigs-kueue.md) | ⭐ 2.5k | Go | 70/100 |
-| 22 | [integrations/terraform-provider-github](./integrations-terraform-provider-github.md) | ⭐ 1.1k | Go | 67/100 |
-| 23 | [kubernetes/k8s.io](./kubernetes-k8s.io.md) | ⭐ 951 | HCL | 64/100 |
-| 24 | [ovn-kubernetes/ovn-kubernetes](./ovn-kubernetes-ovn-kubernetes.md) | ⭐ 1k | Go | 64/100 |
-| 25 | [hackforla/website](./hackforla-website.md) | ⭐ 364 | JavaScript | 63/100 |
-| 26 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 60/100 |
-| 27 | [Gisto/Gisto](./gisto-gisto.md) | ⭐ 1.1k | TypeScript | 58/100 |
-| 28 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 824 | Haskell | 57/100 |
-| 29 | [pulumi/pulumi-aws](./pulumi-pulumi-aws.md) | ⭐ 574 | Go | 57/100 |
-| 30 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 56/100 |
-| 31 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 898 | Go | 56/100 |
-| 32 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 55/100 |
-| 33 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 55/100 |
-| 34 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 55/100 |
-| 35 | [netxms/netxms](./netxms-netxms.md) | ⭐ 353 | C++ | 53/100 |
-| 36 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 398 | Go | 53/100 |
-| 37 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 53/100 |
-| 38 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 52/100 |
-| 39 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
-| 40 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
-| 41 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
+| 19 | [lavalink-devs/Lavalink](./lavalink-devs-lavalink.md) | ⭐ 1.9k | Kotlin | 75/100 |
+| 20 | [kube-vip/kube-vip](./kube-vip-kube-vip.md) | ⭐ 2.8k | Go | 74/100 |
+| 21 | [homebridge/docker-homebridge](./homebridge-docker-homebridge.md) | ⭐ 2.7k | Shell | 73/100 |
+| 22 | [kubernetes-sigs/kueue](./kubernetes-sigs-kueue.md) | ⭐ 2.5k | Go | 70/100 |
+| 23 | [integrations/terraform-provider-github](./integrations-terraform-provider-github.md) | ⭐ 1.1k | Go | 67/100 |
+| 24 | [kubernetes/k8s.io](./kubernetes-k8s.io.md) | ⭐ 951 | HCL | 64/100 |
+| 25 | [ovn-kubernetes/ovn-kubernetes](./ovn-kubernetes-ovn-kubernetes.md) | ⭐ 1k | Go | 64/100 |
+| 26 | [hackforla/website](./hackforla-website.md) | ⭐ 364 | JavaScript | 63/100 |
+| 27 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 60/100 |
+| 28 | [Gisto/Gisto](./gisto-gisto.md) | ⭐ 1.1k | TypeScript | 58/100 |
+| 29 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 824 | Haskell | 57/100 |
+| 30 | [pulumi/pulumi-aws](./pulumi-pulumi-aws.md) | ⭐ 574 | Go | 57/100 |
+| 31 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 56/100 |
+| 32 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 898 | Go | 56/100 |
+| 33 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 55/100 |
+| 34 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 55/100 |
+| 35 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 55/100 |
+| 36 | [netxms/netxms](./netxms-netxms.md) | ⭐ 353 | C++ | 53/100 |
+| 37 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 398 | Go | 53/100 |
+| 38 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 53/100 |
+| 39 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 52/100 |
+| 40 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
+| 41 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
+| 42 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
 
 ---
 

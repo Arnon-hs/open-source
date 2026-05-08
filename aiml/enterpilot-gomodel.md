@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 827 |
-| 🍴 **Forks** | 51 |
+| ⭐ **Stars** | 852 |
+| 🍴 **Forks** | 52 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-gateway` `ai-proxy` `anthropic` `go` `golang` `groq` `litellm-alternative` `llm` `llm-gateway` `observability` `ollama`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the ENTERPILOT/GoModel project:
-
-ENTERPILOT/GoModel is an open-source, high-performance AI gateway written in Go that provides a unified API for various AI models, including OpenAI, Anthropic, and more. This project offers a lightweight alternative to LiteLLM with added features such as observability, guardrails, and streaming capabilities. By simplifying the integration process, GoModel enables developers to easily incorporate multiple AI models into their applications.
+ENTERPILOT/GoModel is a lightweight Go‑based gateway that provides a unified, OpenAI‑compatible API for accessing multiple LLM providers—including OpenAI, Anthropic, Gemini, Groq, xAI, and Ollama. Acting as a LiteLLM alternative, it adds built‑in observability, usage tracking, cost monitoring, streaming support, and configurable guardrails to simplify integration and management of AI services in backend applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ENTERPILOT/GoModel) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ENTERPILOT/GoModel) · [← Back to AI/ML](./README.md)</sub>

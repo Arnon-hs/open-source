@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51 |
-| 🍴 **Forks** | 42 |
+| ⭐ **Stars** | 53 |
+| 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`applepay` `googlepay` `javascript` `nextjs` `payments` `paypal` `paypal-button` `react` `starter-project` `typescript` `venmo` `web-sdk`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · Frontend
 
 ## 📝 Summary
 
-This open-source project, PayPal SDK Sample Integration, provides real-world examples of integrating the PayPal SDK into JavaScript, TypeScript, and React applications. The project offers a set of code samples that demonstrate how to use the PayPal SDK for various payment scenarios, making it easier for developers to integrate payments into their web applications. By using these examples, developers can streamline the integration process and reduce development time.
+The **paypal‑examples/v6‑web‑sdk‑sample‑integration** repository provides ready‑to‑use code samples that demonstrate how to integrate PayPal’s JavaScript v6 Web SDK into web applications. It includes clear examples in plain JavaScript, TypeScript, and a React component setup, covering common payment flows and best practices for frontend developers. Use these snippets as a starting point to quickly add secure, customizable PayPal checkout experiences to your site.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/paypal-examples/v6-web-sdk-sample-integration) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/paypal-examples/v6-web-sdk-sample-integration) · [← Back to Payments](./README.md)</sub>

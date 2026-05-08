@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-AzureAD/microsoft-authentication-library-for-js is a promising open-source project. Categories: Security. Interest score: 83/100.
+The Microsoft Authentication Library for JavaScript (MSAL.js) provides developers with a simple, secure way to integrate Azure Active Directory (Azure AD) and Microsoft identity platforms into web applications. It handles token acquisition, caching, and renewal for both single‑page and traditional web apps, supporting OAuth 2.0, OpenID Connect, and Microsoft’s identity services. By abstracting the authentication flow, MSAL.js enables seamless single sign‑on (SSO) and access to Microsoft Graph and other protected resources.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/AzureAD/microsoft-authentication-library-for-js) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/AzureAD/microsoft-authentication-library-for-js) · [← Back to Security](./README.md)</sub>

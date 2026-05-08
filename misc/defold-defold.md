@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.9k |
-| 🍴 **Forks** | 419 |
+| ⭐ **Stars** | 6k |
+| 🍴 **Forks** | 420 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `clojure` `defold` `game-development` `game-engine` `gamedev` `hacktoberfest` `lua` `multi-platform`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Defold is a free, open-source game engine that enables developers to create games for desktop, mobile, and web platforms without any licensing fees. This cross-platform engine allows for seamless deployment of games across various devices and platforms, making it an ideal choice for indie game developers and studios. With its ease of use and flexibility, Defold empowers creators to bring their game ideas to life without the burden of costly licensing or development.
+Defold is an open‑source, fully free game engine that enables developers to create 2D games for desktop, mobile, and web platforms from a single codebase. It offers a lightweight, data‑driven workflow with built-in tools for asset management, physics, and scripting, making it well suited for rapid prototyping and production‑ready releases. The project is community‑driven and supports cross‑platform deployment without licensing fees.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/defold/defold) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/defold/defold) · [← Back to Misc](./README.md)</sub>

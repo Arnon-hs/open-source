@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-companion` `ai-memory` `openclaw` `personal-assistant`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Memoh is an open-source, self-hosted AI agent platform that allows users to deploy multiple bots with long memory capabilities. These bots can be easily integrated with popular messaging platforms such as Telegram, Discord, and Feishu. By running Memoh in containers, users can create a scalable and customizable AI ecosystem for automating tasks and engaging with users.
+Memoh is a self‑hosted, always‑on AI agent platform that runs in containers, allowing you to spin up multiple bots with persistent, long‑term memory. It provides seamless integrations with popular messaging services such as Telegram, Discord, Feishu (Lark), Matrix, and more, similar to the functionality of OpenClaw. The project is open source and geared toward developers looking to build and manage intelligent agents in a scalable, containerized environment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/memohai/Memoh) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/memohai/Memoh) · [← Back to AI/ML](./README.md)</sub>

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9.7k |
-| 🍴 **Forks** | 7.6k |
+| ⭐ **Stars** | 10k |
+| 🍴 **Forks** | 7.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-NanmiCoder's cc-haha is an open-source project that provides a locally executable version of the Claude Code leak, a Chinese AI model known as "Claude". This project includes a cross-platform desktop application that supplements Computer Use, which is a core module of the Claude Code. The project offers a portable and accessible way to interact with the Claude Code.
+NanmiCoder/cc-haha is an open‑source project that provides a locally runnable version of the Claude Code leak, enabling users to execute the code generation model on their own machines. It adds cross‑platform desktop support and includes the necessary core module parsers to bridge the “Computer Use” functionality, making the system usable on Windows, macOS, and Linux.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/NanmiCoder/cc-haha) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NanmiCoder/cc-haha) · [← Back to Misc](./README.md)</sub>

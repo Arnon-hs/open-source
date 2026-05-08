@@ -1,6 +1,6 @@
 # webpack/webpack-cli
 
-[![Stars](https://img.shields.io/github/stars/webpack/webpack-cli?style=flat-square&color=yellow)](https://github.com/webpack/webpack-cli/stargazers) [![Forks](https://img.shields.io/github/forks/webpack/webpack-cli?style=flat-square&color=blue)](https://github.com/webpack/webpack-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webpack/webpack-cli?style=flat-square&color=yellow)](https://github.com/webpack/webpack-cli/stargazers) [![Forks](https://img.shields.io/github/forks/webpack/webpack-cli?style=flat-square&color=blue)](https://github.com/webpack/webpack-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Webpack's Command Line Interface
 
@@ -11,13 +11,13 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 668 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `scaffold` `webpack`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Webpack-cli is an open-source command line interface for Webpack, a popular JavaScript module bundler. This project provides a simple and intuitive way to interact with Webpack, allowing developers to manage their builds, configurations, and dependencies from the command line. By leveraging webpack-cli, developers can streamline their workflow and improve productivity while building and maintaining complex web applications.
+Webpack CLI is the official command‑line interface for Webpack, providing developers with powerful tools to configure, run, and manage Webpack builds directly from the terminal. It offers intuitive commands for initializing projects, watching files, generating production bundles, and extending functionality through plugins and custom scripts. Ideal for both beginners and advanced users, the CLI streamlines the development workflow of modern JavaScript applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/webpack/webpack-cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/webpack/webpack-cli) · [← Back to DevTools](./README.md)</sub>

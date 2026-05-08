@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 104 |
+| ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-assistant` `apple-watch` `chatgpt` `daily-pulse` `gemini` `ios` `llm-client` `mcp` `rag` `swiftui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-Eric-Terminal/ETOS-LLM-Studio is an open-source, native Large Language Model (LLM) client for iOS and Apple Watch, providing seamless integration with popular models such as OpenAI, Claude, and Gemini. This powerful tool features advanced capabilities like local RAG memory, Model Context Protocol (MCP) tools, and Siri Shortcuts, making it an ideal choice for developers and users alike. Built with Swift, the project also offers cross-device sync functionality for a unified experience.
+Eric‑Terminal/ETOS‑LLM‑Studio is a native iOS and Apple Watch client for large language models, offering seamless integration with OpenAI, Claude and Gemini APIs. It features local Retrieval‑Augmented Generation (RAG) memory, a Model Context Protocol (MCP) toolset, Siri Shortcut support, and cross‑device synchronization, all built in Swift. The project targets AI/ML, frontend, and developer‑tool workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/Eric-Terminal/ETOS-LLM-Studio) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Eric-Terminal/ETOS-LLM-Studio) · [← Back to AI/ML](./README.md)</sub>

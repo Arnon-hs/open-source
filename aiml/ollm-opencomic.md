@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 120 |
+| 🍴 **Forks** | 121 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`comic` `comic-viewer` `comics-reader` `electron` `epub-reader` `image-viewer` `javascript` `linux` `macos` `manga` `manga-reader` `manga-viewer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-OpenComic is an open-source, electronic comic and manga reader built using Node.js and Electron. This project allows users to read and manage digital comics and manga in a customizable and user-friendly interface. By leveraging AI/ML capabilities, OpenComic aims to provide a seamless reading experience.
+OpenComic is an open‑source comic and manga viewer built with Node.js and Electron, offering a desktop application for seamless reading of various comic formats. While primarily a media reader, its architecture leverages modern web technologies, making it extensible for AI‑enhanced features such as automatic panel detection or translation. The project is categorized under AI/ML, inviting contributions that integrate machine‑learning tools into the reading experience.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ollm/OpenComic) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ollm/OpenComic) · [← Back to AI/ML](./README.md)</sub>

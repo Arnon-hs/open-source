@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 259 |
+| ⭐ **Stars** | 260 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `artificial-intelligence` `edgar` `edgar-database` `finance` `genai` `llm` `mcp` `mcp-server` `model-context-protocol` `model-context-protocol-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-This open-source project, stefanoamorelli/sec-edgar-mcp, provides a SEC EDGAR MCP (Model Context Protocol) Server, enabling secure and efficient data exchange between systems. The server facilitates the transmission and processing of sensitive information, adhering to the Model Context Protocol standards set by the US Securities and Exchange Commission (SEC). By utilizing this server, developers can ensure secure data communication in their applications.
+The **SEC EDGAR MCP Server** is an open‑source backend service that implements the Model Context Protocol (MCP) for accessing and querying SEC EDGAR filings. It provides a scalable API layer for retrieving, parsing, and delivering structured financial data, making it easier for AI/ML pipelines and data‑driven applications to ingest and analyze regulatory documents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/stefanoamorelli/sec-edgar-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/stefanoamorelli/sec-edgar-mcp) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `automatic1111` `comfyui` `llm` `ollama` `openai` `tabbyapi`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Seth's AI Tools is an open-source Unity project that leverages Large Language Models (LLMs) and ComfyUI to create interactive content such as stories, images, movies, quizzes, and posters. This AI-powered platform enables users to generate and customize various forms of media in a user-friendly interface. By combining AI capabilities with Unity's game engine, Seth's AI Tools facilitates the creation of engaging digital experiences.
+SethRobinson/aitools_client is an open‑source Unity front‑end that integrates ComfyUI and large language models to let users generate storylines, images, videos, quizzes, and posters—all from a single interface. It provides a unified workflow for AI‑driven content creation, handling both frontend interaction and backend orchestration of image‑generation and LLM pipelines. The project is suited for developers and creators looking to prototype or deploy AI‑powered multimedia tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/SethRobinson/aitools_client) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/SethRobinson/aitools_client) · [← Back to AI/ML](./README.md)</sub>

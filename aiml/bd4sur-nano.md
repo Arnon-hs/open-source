@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | C |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `gpt` `llm` `llm-inference` `llm-training` `on-device` `on-device-ai` `transformer`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The bd4sur/Nano project is an open-source toy language model designed to mimic the functionality of a parrot, repeating learned phrases in a simple and repetitive manner. Built on AI/ML principles, Nano is a basic language model that can be used as a starting point for more complex language learning applications. This project is ideal for beginners looking to explore language generation and machine learning concepts.
+Nano is an open‑source “toy” language model project (电子鹦鹉) that demonstrates the basics of building and running a small-scale neural language model. It provides a lightweight, easy‑to‑understand codebase for experimenting with model training, inference, and deployment, making it a useful learning resource for developers and researchers interested in AI/ML fundamentals.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/bd4sur/Nano) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bd4sur/Nano) · [← Back to AI/ML](./README.md)</sub>
