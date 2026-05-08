@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 202 |
+| ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `fastapi` `htmx` `media-automation` `python` `radarr` `self-hosted` `sonarr`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Houndarr is an open-source, self-hosted companion for Anime and Manga enthusiasts, offering features such as controlled missing episode searches, cutoff tracking, and upgrade notifications. This project is designed to streamline the experience of staying up-to-date with the latest episodes and releases. By hosting it yourself, users can ensure their data remains private and customizable.
+Houndarr is a self‑hosted companion service for the *arr suite (e.g., Radarr, Sonarr) that enables precise control over missing‑episode detection, cutoff handling, and automated upgrade searches. Designed for backend and DevOps environments, it runs as a lightweight server that integrates with existing *arr instances to streamline media library maintenance while giving users granular configuration of search behavior.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/av1155/houndarr) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/av1155/houndarr) · [← Back to Backend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.8k |
+| ⭐ **Stars** | 8.9k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api-testing` `assertions` `automated-testing` `automation` `bdd` `contract-testing` `cucumber` `developer-tools` `load-testing` `microservices` `mock-server` `test-automation`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the karate project:
-
-Karate is an open-source test automation framework designed to simplify the process of testing software applications. It provides a simple and intuitive API for writing tests, allowing developers to focus on the logic of their tests rather than worrying about the underlying infrastructure. With Karate, users can easily automate their backend testing and development workflows.
+Karate is an open‑source test automation framework that lets developers write expressive API, UI, and performance tests in a simple, domain‑specific language without needing to code in Java or other languages. It integrates seamlessly with CI pipelines and supports BDD‑style scenarios, data‑driven testing, and mock services, making backend testing and DevOps workflows faster and more maintainable.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/karatelabs/karate) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/karatelabs/karate) · [← Back to Backend](./README.md)</sub>

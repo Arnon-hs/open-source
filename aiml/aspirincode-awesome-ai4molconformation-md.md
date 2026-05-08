@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 291 |
+| ⭐ **Stars** | 292 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`active-learning` `amber` `enzymes` `flow` `force-fields` `gan` `gnns` `gromacs` `llm` `lstm-neural-networks` `molecular-dynamics` `neural-network-potentials`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This project, 'awesome-AI4MolConformation-MD', leverages generative artificial intelligence and deep learning to generate and predict molecular conformations and dynamics of various biological molecules, including small molecules, RNA, peptides, proteins, enzymes, antibodies, and protein-protein interactions. The project aims to accelerate molecular dynamics simulations using AI-driven force fields, enabling researchers to explore complex molecular behaviors. By providing a comprehensive list of conformations and molecular dynamics simulations, this project empowers the scientific community to advance our understanding of molecular structures and interactions.
+AspirinCode/awesome‑AI4MolConformation‑MD is an open‑source curated collection that gathers datasets of molecular conformations and molecular‑dynamics simulations (including force‑field parameters) for a wide range of biomolecules—small molecules, RNA, peptides, proteins, enzymes, antibodies, and protein‑protein interactions. The repository highlights how generative AI and deep‑learning techniques can be applied to generate, predict, and analyze these conformational ensembles, serving as a resource for researchers developing AI‑driven drug discovery and structural biology tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/AspirinCode/awesome-AI4MolConformation-MD) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/AspirinCode/awesome-AI4MolConformation-MD) · [← Back to AI/ML](./README.md)</sub>

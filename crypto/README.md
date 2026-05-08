@@ -12,8 +12,8 @@
 | 2 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 100/100 |
 | 3 | [PrivateBin/PrivateBin](./privatebin-privatebin.md) | ⭐ 8.3k | PHP | 100/100 |
 | 4 | [guanzhi/GmSSL](./guanzhi-gmssl.md) | ⭐ 6k | C | 100/100 |
-| 5 | [Superalgos/Superalgos](./superalgos-superalgos.md) | ⭐ 5.5k | JavaScript | 100/100 |
-| 6 | [OpenBB-finance/OpenBB](./openbb-finance-openbb.md) | ⭐ 67.1k | Python | 100/100 |
+| 5 | [OpenBB-finance/OpenBB](./openbb-finance-openbb.md) | ⭐ 67.1k | Python | 100/100 |
+| 6 | [Superalgos/Superalgos](./superalgos-superalgos.md) | ⭐ 5.5k | JavaScript | 100/100 |
 | 7 | [ccxt/ccxt](./ccxt-ccxt.md) | ⭐ 42.3k | Python | 100/100 |
 | 8 | [lightningnetwork/lnd](./lightningnetwork-lnd.md) | ⭐ 8.1k | Go | 100/100 |
 | 9 | [foundry-rs/foundry](./foundry-rs-foundry.md) | ⭐ 10.3k | Rust | 100/100 |

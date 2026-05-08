@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**36 projects** in this category.
+**37 projects** in this category.
 
 ## Projects
 
@@ -39,11 +39,12 @@
 | 29 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 823 | — | 55/100 |
 | 30 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 800 | Rust | 54/100 |
 | 31 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 459 | Python | 54/100 |
-| 32 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 53/100 |
-| 33 | [PwnKit-Labs/foxguard](./pwnkit-labs-foxguard.md) | ⭐ 236 | Rust | 52/100 |
-| 34 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 51/100 |
-| 35 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 51/100 |
-| 36 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
+| 32 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
+| 33 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 53/100 |
+| 34 | [PwnKit-Labs/foxguard](./pwnkit-labs-foxguard.md) | ⭐ 236 | Rust | 52/100 |
+| 35 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 51/100 |
+| 36 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 51/100 |
+| 37 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
 
 ---
 

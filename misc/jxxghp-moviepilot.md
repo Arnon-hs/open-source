@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-MoviePilot is an open-source, NAS media library automation tool designed to streamline media management. This tool aims to simplify the process of organizing and maintaining a media collection, making it easier for users to access and enjoy their movies and other media files. By automating media library management, MoviePilot helps to reduce clutter and increase productivity.
+MoviePilot is an open‑source automation tool designed to manage and organize media libraries on network‑attached storage (NAS) systems. It streamlines tasks such as scanning, categorizing, and metadata retrieval for movies and TV shows, helping users keep their collections tidy and up‑to‑date. The project is lightweight, customizable, and suitable for home‑media server environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/jxxghp/MoviePilot) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jxxghp/MoviePilot) · [← Back to Misc](./README.md)</sub>

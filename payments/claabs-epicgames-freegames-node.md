@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `epic-games` `epic-games-client` `epic-games-store` `epicgames-freegames-node` `free-games` `reverse-engineering` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the claabs/epicgames-freegames-node project:
-
-claabs/epicgames-freegames-node is an open-source project that automates the process of finding and claiming free games on the Epic Games Store. This tool allows users to login to their Epic Games account, retrieve available free games, and send a pre-populated checkout link to complete the checkout process. It also supports multiple accounts, login sessions, and scheduled runs, making it a convenient tool for gamers with multiple accounts.
+A lightweight Node.js tool that automates logging into the Epic Games Store, scans for currently free titles, and generates a pre‑filled checkout link so you can claim the game after signing in. It supports multiple accounts, maintains login sessions, and can be scheduled to run automatically. Ideal for developers who want a hands‑free way to never miss free Epic Games releases.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/claabs/epicgames-freegames-node) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/claabs/epicgames-freegames-node) · [← Back to Payments](./README.md)</sub>

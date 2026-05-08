@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**25 projects** in this category.
+**27 projects** in this category.
 
 ## Projects
 
@@ -24,15 +24,17 @@
 | 14 | [Xed-Editor/Xed-Editor](./xed-editor-xed-editor.md) | ⭐ 1.9k | Java | 65/100 |
 | 15 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.7k | Shell | 65/100 |
 | 16 | [element-hq/element-x-android](./element-hq-element-x-android.md) | ⭐ 2.1k | Kotlin | 65/100 |
-| 17 | [beyondtranslate/beyondtranslate](./beyondtranslate-beyondtranslate.md) | ⭐ 1.4k | Dart | 62/100 |
-| 18 | [uholeschak/ediabaslib](./uholeschak-ediabaslib.md) | ⭐ 853 | C# | 59/100 |
-| 19 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
-| 20 | [chipweinberger/flutter_blue_plus](./chipweinberger-flutter-blue-plus.md) | ⭐ 991 | Dart | 56/100 |
-| 21 | [DowneyRem/PixivSource](./downeyrem-pixivsource.md) | ⭐ 838 | JavaScript | 54/100 |
-| 22 | [a1ive/nwinfo](./a1ive-nwinfo.md) | ⭐ 546 | C | 53/100 |
-| 23 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 51/100 |
-| 24 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 51/100 |
-| 25 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 47/100 |
+| 17 | [Watfaq/clash-rs](./watfaq-clash-rs.md) | ⭐ 1.6k | Rust | 64/100 |
+| 18 | [beyondtranslate/beyondtranslate](./beyondtranslate-beyondtranslate.md) | ⭐ 1.4k | Dart | 62/100 |
+| 19 | [uholeschak/ediabaslib](./uholeschak-ediabaslib.md) | ⭐ 853 | C# | 59/100 |
+| 20 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
+| 21 | [chipweinberger/flutter_blue_plus](./chipweinberger-flutter-blue-plus.md) | ⭐ 991 | Dart | 56/100 |
+| 22 | [DowneyRem/PixivSource](./downeyrem-pixivsource.md) | ⭐ 838 | JavaScript | 54/100 |
+| 23 | [a1ive/nwinfo](./a1ive-nwinfo.md) | ⭐ 546 | C | 53/100 |
+| 24 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 51/100 |
+| 25 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 51/100 |
+| 26 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 51/100 |
+| 27 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 47/100 |
 
 ---
 

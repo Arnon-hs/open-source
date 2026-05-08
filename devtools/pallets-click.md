@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `click` `pallets` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Click is an open-source Python library that provides a powerful and composable way to build command-line interfaces (CLI). It allows developers to create intuitive and user-friendly CLI tools with ease, making it a popular choice for building tools and applications. With Click, developers can focus on the logic of their application without worrying about the complexities of command-line parsing and argument handling.
+pallets/click is a Python library that simplifies the creation of command‑line interfaces by providing a composable, decorator‑based API. It handles argument parsing, automatic help pages, and supports nesting commands, making it easy to build complex, user‑friendly CLIs with minimal boilerplate. Ideal for developers seeking a robust, production‑ready toolkit for command‑line tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/pallets/click) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/pallets/click) · [← Back to DevTools](./README.md)</sub>

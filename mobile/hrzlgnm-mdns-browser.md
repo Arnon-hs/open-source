@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android-app` `aur` `auto-update` `debian-packages` `macos-application` `mdns` `mdns-sd` `rpm-packages` `rust` `tauri` `thaw` `ubuntu-packages`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-Here is a brief summary for the open-source project:
-
-The hrzlgnm/mdns-browser project is a cross-platform mDNS browser application built using Rust and the Tauri framework. This mobile app allows users to discover and browse local devices on the same network via mDNS (Multicast DNS), providing a convenient and user-friendly interface to explore nearby devices. The app's cross-platform compatibility makes it accessible on multiple mobile operating systems.
+hrzlgnm/mdns-browser is an open‑source, cross‑platform mDNS (Multicast DNS) browsing application built with Rust, leveraging the Tauri framework for native desktop and mobile deployment and the Leptos library for reactive UI development. It lets users discover and inspect services advertised on local networks in a lightweight, privacy‑focused interface that runs on Windows, macOS, Linux, and mobile devices. The project showcases modern Rust tooling for building performant, multi‑platform network utilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/hrzlgnm/mdns-browser) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/hrzlgnm/mdns-browser) · [← Back to Mobile](./README.md)</sub>

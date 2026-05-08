@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 243 |
+| ⭐ **Stars** | 247 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`developer-tools` `devsecops` `hacktoberfest` `malicious-code` `npm` `open-source` `pnpm` `supply-chain-security`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the safedep/pmg project:
-
-PMG is an open-source security solution that safeguards developers and AI agents from malicious open-source packages by leveraging a proxy, sandbox, and SafeDep's threat intelligence feed. This protection ensures the integrity of software development and AI operations by detecting and preventing the use of compromised packages. By integrating PMG, developers can significantly reduce the risk of security breaches and maintain the trustworthiness of their applications.
+Safedep/PMG is a developer‑focused security tool that safeguards both human programmers and AI agents from malicious open‑source packages. It does this by routing dependency fetches through a proxy, executing packages in an isolated sandbox, and cross‑checking them against SafeDep’s real‑time threat‑intelligence feed. The solution combines AI/ML‑enhanced detection with practical DevTools to keep software supply chains clean and secure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/safedep/pmg) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/safedep/pmg) · [← Back to AI/ML](./README.md)</sub>

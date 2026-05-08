@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 118 |
+| 🍴 **Forks** | 121 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Compio is an open-source, thread-per-core async Rust runtime that provides high-performance I/O operations through various mechanisms, including IOCP (Windows), io_uring (Linux), and polling. This runtime is designed to take advantage of multi-core architectures and optimize async I/O operations for improved responsiveness and throughput. By leveraging these I/O mechanisms, Compio enables developers to build high-performance, concurrent applications in Rust.
+Compio is a lightweight, thread‑per‑core asynchronous runtime for Rust that leverages platform‑specific I/O mechanisms such as Windows IOCP, Linux io_uring, and traditional polling to deliver high‑performance, low‑latency networking and file I/O. By assigning one dedicated thread to each CPU core, it minimizes context‑switch overhead and maximizes throughput, making it suitable for building scalable, low‑level systems and services. The project is open‑source and aims to provide a simple, ergonomic API while exposing the power of modern OS I/O primitives.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/compio-rs/compio) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/compio-rs/compio) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 94 |
+| ⭐ **Stars** | 1.6k |
+| 🍴 **Forks** | 96 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`flutter` `kugou` `music` `music-player`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Mobile
 
 ## 📝 Summary
 
-EchoMusic is a lightweight, open-source music player inspired by KuGou. It's a third-party concept version designed to provide a simple and clean listening experience. Built with a focus on frontend and mobile development, EchoMusic offers a user-friendly interface for music enthusiasts.
+EchoMusic (hoowhoami/EchoMusic) is a minimalist, third‑party music player built as a concept version of KuGou, designed for mobile front‑end environments. It offers a clean, lightweight UI and core playback features while showcasing modern frontend techniques for mobile app development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/hoowhoami/EchoMusic) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/hoowhoami/EchoMusic) · [← Back to Frontend](./README.md)</sub>

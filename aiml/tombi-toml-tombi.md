@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 900 |
-| 🍴 **Forks** | 44 |
+| ⭐ **Stars** | 910 |
+| 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `formatter` `language-server` `linter` `lsp` `rust` `toml`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The tombi project is an open-source tool that provides comprehensive support for TOML (Tom's Obvious, Minimal Language) files through a formatter, linter, and language server. This versatile tool helps developers maintain high-quality TOML code by automatically formatting and checking for errors, as well as providing real-time syntax checking and code completion. By leveraging AI/ML and DevTools, tombi streamlines the development process for TOML-based applications.
+tombi is an open‑source toolchain for TOML files that provides automatic formatting, linting, and a language‑server implementation for editor integration. It helps developers keep TOML configuration clean and consistent by catching syntax errors, enforcing style rules, and offering real‑time diagnostics and code‑actions. The project is built with a focus on backend performance and can be extended or integrated into AI‑assisted workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/tombi-toml/tombi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tombi-toml/tombi) · [← Back to AI/ML](./README.md)</sub>

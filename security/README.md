@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**17 projects** in this category.
+**18 projects** in this category.
 
 ## Projects
 
@@ -19,12 +19,13 @@
 | 9 | [kanidm/kanidm](./kanidm-kanidm.md) | ⭐ 4.9k | Rust | 89/100 |
 | 10 | [pocket-id/pocket-id](./pocket-id-pocket-id.md) | ⭐ 7.8k | Go | 84/100 |
 | 11 | [zizmorcore/zizmor](./zizmorcore-zizmor.md) | ⭐ 4.5k | Rust | 79/100 |
-| 12 | [mthcht/awesome-lists](./mthcht-awesome-lists.md) | ⭐ 1.4k | YARA | 63/100 |
-| 13 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 60/100 |
-| 14 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 56/100 |
-| 15 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 52/100 |
-| 16 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
-| 17 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
+| 12 | [nielsfaber/alarmo](./nielsfaber-alarmo.md) | ⭐ 2.1k | Python | 66/100 |
+| 13 | [mthcht/awesome-lists](./mthcht-awesome-lists.md) | ⭐ 1.4k | YARA | 63/100 |
+| 14 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 60/100 |
+| 15 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 56/100 |
+| 16 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 52/100 |
+| 17 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
+| 18 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
 
 ---
 

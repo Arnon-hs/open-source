@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.8k |
-| 🍴 **Forks** | 717 |
+| 🍴 **Forks** | 722 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `awesome-list` `chatgpt` `gpt4` `gpts` `gptstore` `papers` `prompt` `prompt-engineering`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Awesome-Prompts is an open-source project that curates a comprehensive list of high-quality chatGPT prompts from top-rated models in the GPTs Store, covering topics such as prompt engineering, attack, and protection. The project also provides access to advanced papers on prompt engineering, offering valuable insights and techniques for AI/ML professionals. By sharing these curated prompts and resources, Awesome-Prompts aims to facilitate knowledge sharing and innovation in the field of AI.
+ai‑boost/awesome‑prompts is an open‑source collection that gathers high‑quality ChatGPT prompts sourced from the top‑rated GPTs in the GPTs Store. It covers a wide range of topics—including prompt engineering techniques, prompt‑based attacks, and defense strategies—while also linking to advanced research papers on prompt engineering. The repository serves as a curated resource for developers, researchers, and AI enthusiasts looking to improve, analyze, or protect large‑language‑model interactions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ai-boost/awesome-prompts) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ai-boost/awesome-prompts) · [← Back to AI/ML](./README.md)</sub>

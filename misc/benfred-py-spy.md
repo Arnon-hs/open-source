@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 514 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`performance-analysis` `profiler` `profiling` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Py-spy is an open-source sampling profiler for Python programs, designed to provide detailed performance insights into application behavior. This tool can help users identify performance bottlenecks and optimize their code for improved efficiency and speed. By collecting and analyzing data on function calls and other key metrics, py-spy enables developers to make data-driven decisions and refine their Python applications.
+py-spy is a low‑overhead sampling profiler for Python applications that works without modifying the target code or requiring a special interpreter build. It attaches to a running Python process (or launches a new one), collects stack traces at regular intervals, and generates flame graphs or statistical reports to help developers pinpoint performance bottlenecks. The tool is open‑source, cross‑platform, and supports multiple Python versions, making it a versatile choice for quick, non‑intrusive profiling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/benfred/py-spy) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/benfred/py-spy) · [← Back to Misc](./README.md)</sub>

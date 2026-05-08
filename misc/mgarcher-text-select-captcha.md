@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 470 |
+| 🍴 **Forks** | 471 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Text_select_captcha is an open-source project that utilizes PyTorch to train and implement a text selection and recognition system, capable of identifying text-based CAPTCHAs through mouse clicks or selections. This system aims to provide an efficient solution for recognizing and solving text-based verification challenges. By leveraging PyTorch's capabilities, this project offers a flexible and customizable framework for text-based CAPTCHA recognition.
+MgArcher/Text_select_captcha is an open‑source Python library that implements recognition of various text‑selection CAPTCHAs—such as click‑the‑word, character‑selection, and touch‑based challenges—using deep learning models built with PyTorch. The project provides data preprocessing pipelines, model training scripts, and inference utilities to automate CAPTCHA solving, making it a handy tool for researchers and developers working on visual verification systems.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/MgArcher/Text_select_captcha) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/MgArcher/Text_select_captcha) · [← Back to Misc](./README.md)</sub>

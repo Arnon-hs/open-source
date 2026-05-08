@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**57 projects** in this category.
+**58 projects** in this category.
 
 ## Projects
 
@@ -31,40 +31,41 @@
 | 21 | [openmeterio/openmeter](./openmeterio-openmeter.md) | ⭐ 2k | Go | 66/100 |
 | 22 | [FOSSBilling/FOSSBilling](./fossbilling-fossbilling.md) | ⭐ 1.6k | PHP | 66/100 |
 | 23 | [stablyai/orca](./stablyai-orca.md) | ⭐ 2k | TypeScript | 66/100 |
-| 24 | [DanOps-1/Gpt-Agreement-Payment](./danops-1-gpt-agreement-payment.md) | ⭐ 1.1k | Python | 65/100 |
-| 25 | [stripe/stripe-python](./stripe-stripe-python.md) | ⭐ 2k | Python | 64/100 |
-| 26 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.5k | Kotlin | 64/100 |
-| 27 | [stripe/ai](./stripe-ai.md) | ⭐ 1.5k | TypeScript | 63/100 |
-| 28 | [Natively-AI-assistant/natively-cluely-ai-assistant](./natively-ai-assistant-natively-cluely-ai-assistant.md) | ⭐ 1.1k | TypeScript | 62/100 |
-| 29 | [stripe/stripe-dotnet](./stripe-stripe-dotnet.md) | ⭐ 1.5k | C# | 62/100 |
-| 30 | [NiREvil/vless](./nirevil-vless.md) | ⭐ 1.1k | Rust | 62/100 |
-| 31 | [flutter-stripe/flutter_stripe](./flutter-stripe-flutter-stripe.md) | ⭐ 1.1k | Dart | 61/100 |
-| 32 | [stripe/sync-engine](./stripe-sync-engine.md) | ⭐ 1k | TypeScript | 59/100 |
-| 33 | [meteroid-oss/meteroid](./meteroid-oss-meteroid.md) | ⭐ 1.1k | Rust | 58/100 |
-| 34 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
-| 35 | [VladSez/easy-invoice-pdf](./vladsez-easy-invoice-pdf.md) | ⭐ 821 | TypeScript | 57/100 |
-| 36 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 57/100 |
-| 37 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 57/100 |
-| 38 | [WINBIGFOX/TimeScribe](./winbigfox-timescribe.md) | ⭐ 813 | PHP | 57/100 |
-| 39 | [ebrasha/free-v2ray-public-list](./ebrasha-free-v2ray-public-list.md) | ⭐ 731 | — | 57/100 |
-| 40 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 903 | TypeScript | 57/100 |
-| 41 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 56/100 |
+| 24 | [claabs/epicgames-freegames-node](./claabs-epicgames-freegames-node.md) | ⭐ 1.9k | TypeScript | 65/100 |
+| 25 | [DanOps-1/Gpt-Agreement-Payment](./danops-1-gpt-agreement-payment.md) | ⭐ 1.1k | Python | 65/100 |
+| 26 | [stripe/stripe-python](./stripe-stripe-python.md) | ⭐ 2k | Python | 64/100 |
+| 27 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.5k | Kotlin | 64/100 |
+| 28 | [stripe/ai](./stripe-ai.md) | ⭐ 1.5k | TypeScript | 63/100 |
+| 29 | [Natively-AI-assistant/natively-cluely-ai-assistant](./natively-ai-assistant-natively-cluely-ai-assistant.md) | ⭐ 1.1k | TypeScript | 62/100 |
+| 30 | [stripe/stripe-dotnet](./stripe-stripe-dotnet.md) | ⭐ 1.5k | C# | 62/100 |
+| 31 | [NiREvil/vless](./nirevil-vless.md) | ⭐ 1.1k | Rust | 62/100 |
+| 32 | [flutter-stripe/flutter_stripe](./flutter-stripe-flutter-stripe.md) | ⭐ 1.1k | Dart | 61/100 |
+| 33 | [stripe/sync-engine](./stripe-sync-engine.md) | ⭐ 1k | TypeScript | 59/100 |
+| 34 | [meteroid-oss/meteroid](./meteroid-oss-meteroid.md) | ⭐ 1.1k | Rust | 58/100 |
+| 35 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
+| 36 | [VladSez/easy-invoice-pdf](./vladsez-easy-invoice-pdf.md) | ⭐ 821 | TypeScript | 57/100 |
+| 37 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 57/100 |
+| 38 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 57/100 |
+| 39 | [WINBIGFOX/TimeScribe](./winbigfox-timescribe.md) | ⭐ 813 | PHP | 57/100 |
+| 40 | [ebrasha/free-v2ray-public-list](./ebrasha-free-v2ray-public-list.md) | ⭐ 731 | — | 57/100 |
+| 41 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 903 | TypeScript | 57/100 |
 | 42 | [Sunagatov/Iced-Latte](./sunagatov-iced-latte.md) | ⭐ 629 | Java | 56/100 |
 | 43 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 534 | Perl | 56/100 |
-| 44 | [elementary/appcenter](./elementary-appcenter.md) | ⭐ 553 | Vala | 55/100 |
-| 45 | [AnalyseDeCircuit/oxideterm](./analysedecircuit-oxideterm.md) | ⭐ 648 | Rust | 55/100 |
-| 46 | [vibheksoni/free-ai](./vibheksoni-free-ai.md) | ⭐ 364 | Astro | 54/100 |
-| 47 | [djaodjin/djaodjin-saas](./djaodjin-djaodjin-saas.md) | ⭐ 600 | Python | 54/100 |
-| 48 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 522 | Rust | 54/100 |
-| 49 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
-| 50 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 177 | PHP | 53/100 |
-| 51 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
-| 52 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 385 | PHP | 53/100 |
-| 53 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 295 | — | 52/100 |
-| 54 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 52/100 |
-| 55 | [openfintechio/openfintech](./openfintechio-openfintech.md) | ⭐ 215 | PHP | 52/100 |
-| 56 | [askalf/dario](./askalf-dario.md) | ⭐ 189 | JavaScript | 52/100 |
-| 57 | [bzsanti/oxidizePdf](./bzsanti-oxidizepdf.md) | ⭐ 168 | Rust | 51/100 |
+| 44 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 56/100 |
+| 45 | [elementary/appcenter](./elementary-appcenter.md) | ⭐ 553 | Vala | 55/100 |
+| 46 | [AnalyseDeCircuit/oxideterm](./analysedecircuit-oxideterm.md) | ⭐ 648 | Rust | 55/100 |
+| 47 | [vibheksoni/free-ai](./vibheksoni-free-ai.md) | ⭐ 364 | Astro | 54/100 |
+| 48 | [djaodjin/djaodjin-saas](./djaodjin-djaodjin-saas.md) | ⭐ 600 | Python | 54/100 |
+| 49 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 522 | Rust | 54/100 |
+| 50 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
+| 51 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 177 | PHP | 53/100 |
+| 52 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
+| 53 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 385 | PHP | 53/100 |
+| 54 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 295 | — | 52/100 |
+| 55 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 52/100 |
+| 56 | [openfintechio/openfintech](./openfintechio-openfintech.md) | ⭐ 215 | PHP | 52/100 |
+| 57 | [askalf/dario](./askalf-dario.md) | ⭐ 189 | JavaScript | 52/100 |
+| 58 | [bzsanti/oxidizePdf](./bzsanti-oxidizepdf.md) | ⭐ 168 | Rust | 51/100 |
 
 ---
 

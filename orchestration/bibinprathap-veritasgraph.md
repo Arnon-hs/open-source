@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 270 |
-| 🍴 **Forks** | 31 |
+| ⭐ **Stars** | 273 |
+| 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `ai-agents` `context-management` `data-privacy` `developer-tools` `enterprise-ai` `fine-tuning` `generative-ai` `graph-rag` `information-retrieval` `knowledge-engineering` `knowledge-graphs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-VeritasGraph is an open-source, enterprise-grade graph data management system designed for secure, on-premise AI applications. It enables users to maintain the integrity of their AI decision-making processes through verifiable attribution, ensuring transparency and accountability. This solution is suitable for organizations requiring control over their data and AI workflows.
+VeritasGraph is an open‑source, enterprise‑grade framework that enables Retrieval‑Augmented Generation (RAG) on graph‑structured data, delivering secure, on‑premise AI with built‑in verifiable attribution of source information. It combines orchestration, AI/ML inference, and developer tools to let organizations run trusted graph‑based knowledge‑graph queries and generate accurate, provenance‑tracked responses without exposing data to external services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/bibinprathap/VeritasGraph) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bibinprathap/VeritasGraph) · [← Back to Orchestration](./README.md)</sub>

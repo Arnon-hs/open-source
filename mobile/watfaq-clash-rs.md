@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 144 |
+| 🍴 **Forks** | 146 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`clash` `clash-rs` `clashrs` `hsalc` `ios` `proxy` `rust` `vpn`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Watfaq/clash-rs is an open-source, custom protocol network proxy that provides a flexible solution for mobile network users. This project allows users to customize and extend the functionality of their mobile network proxy, offering improved security, privacy, and control over their online experience. By leveraging a Rust-based implementation, clash-rs aims to provide a high-performance and reliable proxy solution for mobile devices.
+Watfaq/clash‑rs is an open‑source, Rust‑based implementation of a custom protocol network proxy tailored for mobile environments. It provides a lightweight, high‑performance alternative to existing proxy solutions, supporting flexible rule‑based traffic routing and easy integration with mobile applications. The project aims to deliver a secure, configurable proxy that can be seamlessly embedded into Android and iOS apps.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Watfaq/clash-rs) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Watfaq/clash-rs) · [← Back to Mobile](./README.md)</sub>

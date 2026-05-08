@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 198 |
-| 🍴 **Forks** | 20 |
+| ⭐ **Stars** | 199 |
+| 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `budgeting` `claude` `cli` `finance` `financial-advisor` `fintech` `llm` `open-source` `personal-finance` `plaid` `privacy`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"Ray Finance is an open-source AI financial advisor that utilizes machine learning to develop a personalized understanding of an individual's financial situation. With each conversation, it continuously adapts and improves its recommendations, providing users with tailored financial guidance. This project empowers users to make informed financial decisions by leveraging the power of AI and machine learning technology."
+cdinnison/ray-finance is an open‑source AI‑powered financial advisor that tailors its recommendations by learning from each user interaction, continuously improving its understanding of the user’s financial situation. Built with modern machine‑learning techniques and developer‑friendly tooling, it provides personalized insights while remaining fully transparent and extensible for the community.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/cdinnison/ray-finance) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/cdinnison/ray-finance) · [← Back to AI/ML](./README.md)</sub>

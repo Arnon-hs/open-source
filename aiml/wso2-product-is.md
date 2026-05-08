@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 853 |
-| 🍴 **Forks** | 974 |
+| 🍴 **Forks** | 975 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`access-management` `adaptive-authentication` `authentication` `authorization` `hacktoberfest` `identity` `mfa` `oauth2` `oidc` `saml2` `sso`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-This open-source project, WSO2 Identity Server, is a comprehensive platform for identity and access management. The project provides a robust set of features for authentication, authorization, and user management, making it a valuable resource for developers working on backend infrastructure projects. By contributing to this repository, developers can help shape the future of identity and access management solutions.
+The **WSO2 Identity Server** repository hosts the full source code for WSO2’s open‑source identity and access management platform, providing features such as authentication, single sign‑on, identity federation, and user provisioning. It serves as a central hub for developers to explore, build, and contribute enhancements to the server’s backend services, APIs, and tooling, with detailed guidance on repository workflows and contribution processes. This project is ideal for teams building secure, scalable identity solutions and looking to extend or customize the platform.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/wso2/product-is) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wso2/product-is) · [← Back to AI/ML](./README.md)</sub>

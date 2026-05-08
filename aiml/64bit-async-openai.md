@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 365 |
+| 🍴 **Forks** | 367 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`openai` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, 64bit/async-openai, provides a Rust library for interacting with OpenAI's API, enabling users to harness the power of Artificial Intelligence (AI) and Machine Learning (ML) capabilities in a 64-bit, asynchronous environment. The library aims to simplify integration with OpenAI's services, making it easier to build AI-powered applications. By utilizing Rust's performance and concurrency features, it enables developers to create high-performance, scalable AI solutions.
+64bit/async-openai is an asynchronous Rust library that provides a clean, type‑safe interface for interacting with OpenAI’s API. It supports the full range of OpenAI services—including completions, embeddings, fine‑tuning, and vision—while leveraging Rust’s performance and safety guarantees. The crate is designed for easy integration into async applications and follows idiomatic Rust patterns for error handling and configuration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/64bit/async-openai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/64bit/async-openai) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`autodiff` `automatic-differentiation` `jax` `jit` `llvm` `mlir` `pennylane` `python` `qir` `quantum` `quantum-compiler` `quantum-computing`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the PennyLaneAI/catalyst project:
-
-Catalyst is an open-source JIT compiler designed for hybrid quantum programs in PennyLane. It enables efficient execution of quantum-classical workflows, facilitating the development of complex AI and machine learning applications. By optimizing compilation and execution, Catalyst enhances the performance and scalability of hybrid quantum programs.
+PennyLane AI Catalyst is an open‑source just‑in‑time (JIT) compiler that accelerates hybrid quantum‑classical workflows built with the PennyLane framework. By translating PennyLane programs into optimized low‑level code, Catalyst enables faster simulation and execution of quantum circuits, making it easier to develop and benchmark quantum‑enhanced AI/ML and trading algorithms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/PennyLaneAI/catalyst) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/PennyLaneAI/catalyst) · [← Back to Trading](./README.md)</sub>

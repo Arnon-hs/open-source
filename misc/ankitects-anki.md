@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 27.8k |
-| 🍴 **Forks** | 2.9k |
+| 🍴 **Forks** | 3k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Anki is a free, open-source flashcard program that utilizes the concept of spaced repetition to optimize learning and memory retention. By reviewing material at increasingly longer intervals, Anki helps users to efficiently retain and recall knowledge. This effective learning tool is widely used for language learning, studying, and exam preparation.
+Anki is an open‑source, cross‑platform flashcard application that uses spaced‑repetition algorithms to optimize long‑term memorization. It lets users create, share, and study custom decks, supporting multimedia content, rich formatting, and extensive add‑on extensions. The project is maintained by the ankitects community and is freely available under a permissive license.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ankitects/anki) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ankitects/anki) · [← Back to Misc](./README.md)</sub>

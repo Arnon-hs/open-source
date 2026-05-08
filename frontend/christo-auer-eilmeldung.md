@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 800 |
-| 🍴 **Forks** | 28 |
+| ⭐ **Stars** | 813 |
+| 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `commandline` `news` `newsflash` `ratatui` `rss` `rust` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the eilmeldung project:
-
-Eilmeldung is an open-source, text-based RSS reader that provides a command-line interface for staying up-to-date with your favorite news sources. Built on top of the news-flash library, it offers a simple and efficient way to consume RSS feeds through an interactive terminal user interface. With eilmeldung, you can easily navigate and read RSS articles from the comfort of your command line.
+eilmeldung is a terminal‑based user interface (TUI) RSS reader that leverages the “news‑flash” library to present news feeds quickly and efficiently within a console window. It provides a lightweight, keyboard‑driven experience for browsing, filtering, and reading RSS articles without leaving the terminal, making it ideal for users who prefer a fast, non‑graphical news aggregator.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/christo-auer/eilmeldung) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/christo-auer/eilmeldung) · [← Back to Frontend](./README.md)</sub>

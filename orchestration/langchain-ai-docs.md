@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 318 |
+| ⭐ **Stars** | 323 |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`documentation` `langchain` `langgraph` `langsmith`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The langchain-ai/docs project is an open-source repository that serves as the documentation hub for LangChain projects, providing essential resources and information for developers and users. This project categorizes under both Orchestration and AI/ML, indicating its focus on streamlining and integrating AI technologies. The repository is a valuable asset for those working with LangChain, facilitating collaboration and innovation in the field of artificial intelligence.
+LangChain‑AI/docs is the official documentation repository for the LangChain ecosystem, offering comprehensive guides, tutorials, and reference material for building AI/ML applications with LangChain’s orchestration tools. The project provides clear, example‑driven documentation that helps developers integrate language models, agents, and data connectors into their workflows, making it easier to create sophisticated, context‑aware AI solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/langchain-ai/docs) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/langchain-ai/docs) · [← Back to Orchestration](./README.md)</sub>

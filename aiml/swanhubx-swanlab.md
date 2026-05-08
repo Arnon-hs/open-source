@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.9k |
-| 🍴 **Forks** | 203 |
+| 🍴 **Forks** | 204 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-infra` `data-science` `deep-learning` `llm` `logging` `machine-learning` `mlops` `model-versioning` `python` `pytorch` `tensorboard` `tensorflow`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
-SwanLab is an open-source AI training tracking and visualization tool designed for modern AI development workflows. It supports both cloud and self-hosted use cases and integrates with various popular AI frameworks, including PyTorch and Transformers. This user-friendly tool enables seamless tracking and visualization of AI model training processes.
+SwanLab is an open‑source, modern‑design platform for tracking, visualizing, and managing AI training workflows. It works both in the cloud and on self‑hosted infrastructure and provides seamless integrations with popular frameworks such as PyTorch, Transformers, LLaMA‑Factory, Ultralytics, MMEngine, Keras, and more. SwanLab helps developers and DevOps teams monitor experiments, compare runs, and streamline model development across diverse AI/ML projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/SwanHubX/SwanLab) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/SwanHubX/SwanLab) · [← Back to AI/ML](./README.md)</sub>
