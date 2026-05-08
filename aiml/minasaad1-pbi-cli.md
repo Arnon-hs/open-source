@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 254 |
-| 🍴 **Forks** | 68 |
+| ⭐ **Stars** | 265 |
+| 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `analysis-services` `claude-code` `cli` `datamodel` `dax` `pbi-cli` `pbir` `power-bi-desktop` `power-bi-report` `powerbi` `powerbi-cli`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-This project, pbi-cli, is an open-source tool that enables the use of Power BI semantic models and PBIR reports in a token-efficient manner for AI agent usage. It is specifically designed to work with Claude Code, allowing for seamless integration of Power BI data and reports into AI-powered applications. The CLI provides a convenient interface for developers to leverage Power BI capabilities within their AI/ML tools.
+MinaSaad1/pbi-cli is a command‑line tool for working with Power BI assets, offering streamlined creation and manipulation of semantic models via the .NET Tabular Object Model (TOM) and generation of PBIR report files. Designed for token‑efficient interactions with Claude Code, the CLI helps AI agents programmatically manage Power BI datasets and reports, making it a handy DevTools utility for data‑centric AI/ML workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/MinaSaad1/pbi-cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/MinaSaad1/pbi-cli) · [← Back to AI/ML](./README.md)</sub>

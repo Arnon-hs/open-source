@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 140 |
+| ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `collaborative-coding` `docker` `github-projects` `team-generator` `themed-agents`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the AgentVibes project:
-
-AgentVibes is an open-source project that integrates a text-to-speech (TTS) functionality with Claude Code, enabling users to generate voice outputs for their text-based interactions. This project combines AI/ML and DevOps/Infra expertise to create a seamless and immersive experience. It allows developers to leverage Claude Code's capabilities in a more engaging and interactive way.
+AgentVibes is an open‑source toolkit that adds text‑to‑speech (TTS) capabilities to Claude Code, enabling developers to generate spoken audio from Claude’s outputs directly within their workflows. By integrating lightweight TTS functionality with Claude’s AI code assistance, the project streamlines debugging, code reviews, and accessibility for teams working on AI/ML and DevOps/Infra tasks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/paulpreibisch/AgentVibes) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/paulpreibisch/AgentVibes) · [← Back to AI/ML](./README.md)</sub>

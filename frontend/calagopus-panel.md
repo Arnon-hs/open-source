@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 262 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 293 |
+| 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alternative` `calagopus` `pterodactyl` `pterodactyl-api` `pterodactyl-panel` `pterodactyl-panel-api` `react` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Calagopus/Panel is an open-source, user-centered alternative to Pterodactyl, offering a seamless gaming experience. Built with a combination of Rust and React, this project prioritizes ease of use and functionality, making it a viable option for gamers and server administrators alike. Its open-source nature allows for community-driven development and customization.
+Calagopus Panel is an open‑source, full‑stack alternative to Pterodactyl, built with a Rust backend and a React frontend. It focuses on delivering a smooth, user‑friendly experience for managing game servers and services, while offering the performance and safety benefits of Rust. The project provides both the UI components and the server‑side API needed for a modern, extensible control panel.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/calagopus/panel) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/calagopus/panel) · [← Back to Frontend](./README.md)</sub>

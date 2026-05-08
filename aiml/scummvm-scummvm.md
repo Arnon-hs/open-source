@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adventure-engine` `adventure-games` `multiplatform` `rpg-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-ScummVM is an open-source, cross-platform interpreter that allows users to run classic adventure games developed by various studios, including LucasArts. The project supports a wide range of games, including the Monkey Island, Maniac Mansion, and Indiana Jones series, among others. By emulating the original game engines, ScummVM aims to preserve and make accessible these influential and beloved games for future generations.
+ScummVM is an open‑source engine that recreates the runtime environment of classic point‑and‑click adventure games, allowing titles such as *Monkey Island*, *Day of the Tentacle*, and many others to be played on modern platforms without the original executables. The project provides a cross‑platform development framework, extensive plugin architecture, and active community support to preserve and extend these legacy games.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/scummvm/scummvm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/scummvm/scummvm) · [← Back to AI/ML](./README.md)</sub>

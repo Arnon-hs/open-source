@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 293 |
-| 🍴 **Forks** | 38 |
+| ⭐ **Stars** | 296 |
+| 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `creative-writing` `creative-writing-ai` `fastapi` `llm` `multi-agent` `novel` `openclaw` `rag` `story-generation` `web-novels`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-NovelClaw is an open-source, collaborative AI framework designed for long-form story generation, chapter planning, and coherent narrative writing. Built on a dynamic-memory-first approach, this framework enables efficient and effective AI-powered storytelling. By leveraging AI/ML technologies, NovelClaw empowers users to craft engaging and well-structured narratives.
+iLearn‑Lab’s **NovelClaw** is an open‑source framework that orchestrates multiple AI models with a “dynamic‑memory‑first” approach, enabling collaborative long‑form story generation, chapter planning, and coherent narrative writing. By managing context, memory buffers, and model interactions on the backend, it helps writers maintain consistency across extensive plots while allowing flexible, AI‑driven creativity.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/iLearn-Lab/NovelClaw) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/iLearn-Lab/NovelClaw) · [← Back to Orchestration](./README.md)</sub>

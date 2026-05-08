@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8.9k |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`discourse` `ember` `forum` `javascript` `postgresql` `rails` `ruby`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the Discourse project:
-
-Discourse is a free, open-source platform for community discussion, designed to facilitate simple and engaging online conversations. Built on a robust and scalable architecture, it enables users to create and manage online forums, discussion boards, and social networks with ease. With its AI/ML capabilities, Discourse offers a powerful tool for community builders to foster meaningful connections and knowledge sharing among their members.
+Discourse is an open‑source discussion platform designed to facilitate modern community conversations with a clean, intuitive interface. It offers free, self‑hosted forums that support real‑time notifications, trust‑based moderation, and extensible plugins, making it simple to build and maintain vibrant online spaces. Though primarily a communication tool, its architecture can be integrated with AI/ML services for features such as automated moderation, content recommendations, and analytics.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/discourse/discourse) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/discourse/discourse) · [← Back to AI/ML](./README.md)</sub>

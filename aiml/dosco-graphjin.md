@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 186 |
+| 🍴 **Forks** | 187 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-native` `cockroachdb` `database` `graphql` `mariadb` `mongodb` `mssql` `mysql` `oracle` `postgresql` `sql` `sqlite`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-GraphJin is an open-source, automagical compiler that enables seamless connections between artificial intelligence (AI) models and various databases, streamlining the integration process. This innovative tool simplifies the complex task of integrating AI with databases, facilitating faster development and deployment of AI-powered applications. By automating the compilation process, GraphJin accelerates the creation of data-driven AI solutions.
+GraphJin is an open‑source compiler that automatically generates a GraphQL API layer over any relational database, enabling AI and machine‑learning applications to query, insert, update, and delete data with natural language‑like requests. By introspecting the database schema and translating high‑level intents into optimized SQL, it provides a seamless, low‑code bridge between AI models and existing data stores. The project is licensed under an MIT‑style license and is actively maintained for AI/ML and data‑centric workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/dosco/graphjin) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dosco/graphjin) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adguard-home` `ansible-playbook` `authentik` `bind` `collabora-online` `docker` `etherpad-lite` `forgejo` `gitea` `headscale` `immich` `jitsi`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The mother-of-all-self-hosting/mash-playbook is an open-source Ansible playbook designed to simplify self-hosting various free and open-source services as Docker containers on a personal server. This project enables users to easily deploy a range of services, from AI and machine learning tools to backend infrastructure, with minimal technical expertise required. By leveraging Docker containers, it provides a flexible and scalable solution for hosting multiple services on a single server.
+The **mother‑of‑all‑self‑hosting (mash‑playbook)** is an Ansible playbook that automates the provisioning and deployment of a wide range of open‑source services as Docker containers on your own server. By defining variables and roles, it streamlines the setup of FOSS applications—covering everything from web services to AI/ML tools—while handling Docker networking, volumes, and updates. The project is ideal for DevOps and infrastructure teams looking for a reproducible, self‑hosted stack without manual container management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/mother-of-all-self-hosting/mash-playbook) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mother-of-all-self-hosting/mash-playbook) · [← Back to AI/ML](./README.md)</sub>

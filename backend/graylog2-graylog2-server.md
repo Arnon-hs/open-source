@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amqp` `gelf` `graylog` `hacktoberfest` `kafka` `log-analysis` `log-collector` `log-management` `log-viewer` `logging` `logging-server` `secure-logging`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Security
 
 ## 📝 Summary
 
-Graylog2/graylog2-server is a free and open-source log management system designed for centralized log collection, indexing, and analysis. This project enables users to efficiently monitor and manage their system logs, providing valuable insights into system performance and security. With Graylog2, developers and IT teams can easily identify and troubleshoot issues, enhancing overall system reliability and security.
+Graylog 2 is an open‑source log management platform that centralizes, stores, and analyzes machine data in real time. It provides a powerful backend for collecting logs from diverse sources, indexing them with Elasticsearch, and visualizing insights through a searchable web interface, making it a valuable tool for security monitoring and operational troubleshooting. The project is actively maintained and extensible via plugins and REST APIs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Graylog2/graylog2-server) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Graylog2/graylog2-server) · [← Back to Backend](./README.md)</sub>

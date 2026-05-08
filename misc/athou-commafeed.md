@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 397 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`java` `rss` `rss-reader` `self-hosted` `web-application`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-CommaFeed is a self-hosted, open-source personal RSS reader inspired by Google Reader. It provides a simple and intuitive interface for managing and reading RSS feeds, allowing users to stay up-to-date on their favorite websites and blogs. With CommaFeed, users can host their own RSS reader on their own servers, maintaining control and security over their feed data.
+Athou/commafeed is a self‑hosted RSS aggregator that emulates the clean, streamlined experience of Google Reader. Built with Java and Spring, it lets users subscribe to, organize, and read feeds from any device while providing features like tagging, keyboard shortcuts, and import/export support. The lightweight, open‑source solution is ideal for anyone who wants a personal, ad‑free news reader they can run on their own server.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Athou/commafeed) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Athou/commafeed) · [← Back to Misc](./README.md)</sub>

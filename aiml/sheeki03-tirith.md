@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `devtools` `homograph-attack` `rust` `security` `shell` `supply-chain-security` `terminal` `unicode` `url-security`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Tirith is an open-source terminal security solution designed to protect developers and AI agents from various threats, including homograph URLs, pipe-to-shell attacks, and malicious AI configurations. It intercepts and prevents malicious data exfiltration, obfuscated payloads, and ANSI injection attempts, ensuring a safer and more secure terminal experience. By safeguarding against these threats, Tirith helps maintain the integrity of AI systems and developer environments.
+Sheeki03’s **tirith** is a terminal‑level security tool designed to protect developers—and AI agents that run code—from a range of sophisticated attacks. It monitors command‑line input and execution, detecting homograph URLs, pipe‑to‑shell tricks, ANSI injection, obfuscated payloads, data‑exfiltration attempts, and malicious AI skills or configurations before they can run. By integrating directly into the shell workflow, tirith provides real‑time, developer‑friendly safeguards across AI/ML, DevTools, and data environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/sheeki03/tirith) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/sheeki03/tirith) · [← Back to AI/ML](./README.md)</sub>

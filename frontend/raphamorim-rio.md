@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.8k |
-| 🍴 **Forks** | 279 |
+| 🍴 **Forks** | 280 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gpu-acceleration` `rio` `rio-terminal` `rust` `rust-lang` `terminal` `terminal-emulator` `terminal-emulators` `terminal-ui` `vte` `wgpu`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The rio project is an open-source, hardware-accelerated GPU terminal emulator designed to run seamlessly on both desktops and browsers. It leverages GPU acceleration to provide a fast and efficient terminal experience. rio is a frontend-focused project that aims to deliver a high-performance terminal emulator.
+**Rio** is a modern, hardware‑accelerated terminal emulator built with GPU rendering to deliver fast, smooth performance on both desktop environments and web browsers. It leverages OpenGL/Vulkan (or WebGPU) to draw text and graphics efficiently, supporting typical terminal features while offering a lightweight, cross‑platform experience. Ideal for developers who want a responsive, visually appealing terminal without sacrificing compatibility.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/raphamorim/rio) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/raphamorim/rio) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 45.8k |
-| 🍴 **Forks** | 3.1k |
+| ⭐ **Stars** | 46.2k |
+| 🍴 **Forks** | 3.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`javascript` `react` `video`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Remotion is an open-source project that enables developers to create videos programmatically using React, providing a unique and flexible approach to video production. By leveraging React's component-based architecture, users can design and render video content dynamically, making it ideal for a wide range of applications, including animations, tutorials, and more. This innovative tool streamlines the video creation process, allowing developers to focus on crafting engaging narratives and visual experiences.
+Remotion is an open‑source library that lets developers create and render video content using React components, enabling programmatic video generation with familiar web development tools. By treating frames as React render cycles, it supports dynamic graphics, animations, and composable timelines while providing utilities for rendering, previewing, and exporting videos. The project targets frontend developers who want to leverage JavaScript and React to automate video production.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/remotion-dev/remotion) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/remotion-dev/remotion) · [← Back to Frontend](./README.md)</sub>

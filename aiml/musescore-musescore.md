@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cpp` `musescore` `music-notation` `musicxml` `qt` `sfz` `sheet-music` `sheetmusic`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-MuseScore is a free and open-source music notation software that allows users to create, edit, and share musical compositions with ease. This versatile tool is ideal for musicians, composers, and educators, offering a wide range of features and customization options. With its open-source nature, users can contribute to its development and enhance its capabilities.
+MuseScore is a free, open‑source application for creating, editing, and printing sheet music, offering a full‑featured notation editor that supports playback, MIDI input, and a large library of symbols and fonts. The project welcomes contributions via GitHub—users can report bugs, suggest improvements, or submit pull requests through the MuseScore.org community. It serves musicians, educators, and developers looking for a powerful, collaborative music‑notation tool.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/musescore/MuseScore) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/musescore/MuseScore) · [← Back to AI/ML](./README.md)</sub>

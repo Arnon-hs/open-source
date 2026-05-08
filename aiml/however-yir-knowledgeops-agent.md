@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-platform` `backend` `docker-compose` `enterprise-ai` `java` `llm` `multi-tenancy` `multimodal` `observability` `pdf-rag` `pgvector` `rag`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The however-yir/knowledgeops-agent project is an open-source, Spring AI demo backend that showcases a comprehensive set of AI-powered features. It includes a chat interface, tool calling capabilities, multimodal input support, a PDF-based Retrieval-Augmentation-Generation (RAG) system, and conversation history management. This project serves as a valuable resource for developers looking to implement AI-driven backend solutions.
+The **knowledgeops-agent** is an enterprise‑grade Spring AI platform that streamlines Retrieval‑Augmented Generation (RAG) workflows, supports tool‑calling, and handles asynchronous data ingestion. It incorporates robust JWT‑based authentication with RBAC, built‑in observability, and ready‑to‑use backend and frontend components, making it a comprehensive solution for AI/ML‑driven applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/however-yir/knowledgeops-agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/however-yir/knowledgeops-agent) · [← Back to AI/ML](./README.md)</sub>

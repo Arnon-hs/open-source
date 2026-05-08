@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 961 |
+| ⭐ **Stars** | 967 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `github-actions` `oss` `security`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project 'pinact':
-
-pinact is a user-friendly command-line interface (CLI) for editing GitHub Workflow and Composite action files. It allows users to pin versions of Actions and Reusable Workflows, update their versions, and verify version annotations, making it easier to manage dependencies in GitHub Actions. This tool is designed to enhance security and efficiency in workflow management.
+pinact is a command‑line tool that helps developers manage GitHub Actions and reusable workflows by pinning specific versions of actions, updating those versions, and verifying version annotations. It streamlines the editing of workflow and composite action files, enhancing reproducibility and security in CI pipelines. Suitable for DevTools and security‑focused workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/suzuki-shunsuke/pinact) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/suzuki-shunsuke/pinact) · [← Back to DevTools](./README.md)</sub>

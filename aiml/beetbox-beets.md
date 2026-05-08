@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `hacktoberfest` `music` `music-library` `musicbrainz` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-beetbox/beets is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 97/100.
+Beetbox/Beets is an open‑source music library manager that automatically organizes your collection, enriches metadata, and synchronizes tags with MusicBrainz. It combines powerful command‑line tools and a flexible plugin system for tasks such as duplicate detection, file renaming, and playlist generation, making it ideal for both casual listeners and developers who need robust, AI‑enhanced audio management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/beetbox/beets) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/beetbox/beets) · [← Back to AI/ML](./README.md)</sub>

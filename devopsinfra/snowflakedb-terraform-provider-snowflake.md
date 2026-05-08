@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 493 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`snowflake` `terraform`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Terraform provider for Snowflake enables users to manage their Snowflake accounts through infrastructure-as-code (IaC) practices, streamlining the provisioning and management of Snowflake resources in a scalable and reproducible manner. This open-source project facilitates the automation of Snowflake account setup, configuration, and maintenance, allowing DevOps teams to focus on more complex tasks. By integrating Snowflake with Terraform, users can enjoy improved efficiency and reduced errors in their cloud infrastructure management.
+The **terraform-provider-snowflake** project delivers an open‑source Terraform provider that enables users to provision, configure, and manage Snowflake cloud‑data‑warehouse resources—including databases, schemas, roles, users, and warehouses—directly from IaC code. By integrating Snowflake management into Terraform workflows, it streamlines DevOps and infrastructure‑as‑code practices for Snowflake environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/snowflakedb/terraform-provider-snowflake) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/snowflakedb/terraform-provider-snowflake) · [← Back to DevOps & Infra](./README.md)</sub>

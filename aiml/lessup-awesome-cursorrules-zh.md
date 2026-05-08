@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 170 |
+| ⭐ **Stars** | 175 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `bilingual` `chinese` `cursor` `cursorrules` `developer-tools` `documentation` `openspec` `vitepress`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the LessUp/awesome-cursorrules-zh project in English:
-
-LessUp/awesome-cursorrules-zh is an open-source, AI programming rule collection optimized for Chinese developers. This project provides a curated set of rules to enhance the coding experience for Chinese users who utilize Cursor AI, a popular coding assistant. By offering a tailored solution, it aims to improve productivity and efficiency for developers working with Chinese characters.
+LessUp/awesome-cursorrules-zh is a curated, bilingual collection of over 132 `.cursorrules` for the Cursor AI code editor, organized into 32 distinct domains such as web development, data science, and DevOps. The repository serves as a community‑maintained resource that helps developers quickly discover, share, and apply ready‑made AI‑assisted coding rules to enhance productivity and code quality. It is open‑source and positioned at the intersection of AI/ML and developer tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/LessUp/awesome-cursorrules-zh) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/LessUp/awesome-cursorrules-zh) · [← Back to AI/ML](./README.md)</sub>

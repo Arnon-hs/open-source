@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 532 |
+| 🍴 **Forks** | 534 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`big-data` `fluss` `hacktoberfest` `lakehouse` `real-time-analytics` `streaming`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the Apache Fluss project:
-
-Apache Fluss is an open-source streaming storage solution designed to handle real-time analytics workloads, providing scalable and high-performance storage for data-driven applications. Built with a focus on AI/ML and data-intensive use cases, Fluss enables efficient and secure data processing for real-time analytics and insights. This project is ideal for developers and data engineers seeking to build high-speed data pipelines and applications.
+Apache Fluss is an open‑source streaming storage system designed to ingest, persist, and serve high‑velocity data for real‑time analytics workloads. It provides a scalable, fault‑tolerant architecture that integrates tightly with analytics frameworks, enabling low‑latency queries and continuous insight generation across AI/ML and data‑driven applications. The project also offers developer‑friendly APIs and frontend tooling to simplify data pipeline creation and monitoring.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/apache/fluss) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/apache/fluss) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `jetpack` `library`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-androidx/androidx is a promising open-source project. Categories: Mobile. Interest score: 94/100.
+The androidx project provides the open‑source development environment for Android Jetpack’s extension libraries under the `androidx` namespace. It mirrors the primary Jetpack codebase from AOSP, offering developers the source, build tools, and documentation needed to create, maintain, and contribute to modern Android libraries.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/androidx/androidx) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/androidx/androidx) · [← Back to Mobile](./README.md)</sub>

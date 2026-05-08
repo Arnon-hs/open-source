@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `api-gateway` `automation` `cli` `cloud` `convoy` `developer-tools` `devtools` `gateway` `gateways` `golang` `incoming-webhooks`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Convo is an open-source, Cloud Native Webhooks Gateway that enables secure and efficient routing of webhooks across systems and applications. It provides a scalable and reliable solution for handling webhook events, allowing developers to build robust and event-driven architectures. By utilizing Convo, developers can simplify the management of webhooks and focus on building innovative applications.
+frain-dev/convoy is an open‑source, cloud‑native gateway that centralizes the receipt, validation, and delivery of webhooks across distributed services. It provides a scalable, fault‑tolerant backend with features such as event transformation, retry policies, and observability, making it ideal for building reliable, high‑throughput webhook pipelines in modern AI/ML and DevOps workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/frain-dev/convoy) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/frain-dev/convoy) · [← Back to AI/ML](./README.md)</sub>

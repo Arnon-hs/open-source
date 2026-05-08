@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 215 |
-| 🍴 **Forks** | 570 |
+| 🍴 **Forks** | 569 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The OpenELIS Global v3 project is an open-source initiative aimed at providing a comprehensive laboratory information management system (LIMS) for global health and research applications. This repository serves as the core for OpenELIS Global v3, offering a scalable and customizable solution for managing laboratory data and workflows. Its global reach and open-source nature make it an accessible and collaborative resource for laboratories worldwide.
+OpenELIS‑Global‑2 is the central repository for version 3 of the OpenELIS Global laboratory information system, an open‑source platform that enables health‑care facilities to manage, track, and report clinical test results. It provides the core codebase, data models, and APIs needed to deploy a scalable, customizable ELIS solution for public‑health laboratories worldwide.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/DIGI-UW/OpenELIS-Global-2) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/DIGI-UW/OpenELIS-Global-2) · [← Back to Misc](./README.md)</sub>

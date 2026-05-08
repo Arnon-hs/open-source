@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 252 |
+| ⭐ **Stars** | 256 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `cloud-sync` `devops` `docker` `hashicorp-vault` `homelab` `mcp` `podman` `ratatui` `rust` `ssh` `ssh-bookmarks`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"Purple is an open-source terminal SSH manager and editor written in Rust, designed to simplify complex SSH operations. With features like fuzzy search, cloud syncing, file transfer, and container management, Purple streamlines SSH tasks for developers and sysadmins. Its versatility also extends to AI/ML integration, enabling seamless interaction with AI agents."
+Purple is an open‑source terminal SSH manager written in Rust that automatically syncs your ~/.ssh/config with resources across 16 cloud providers, adding or dimming hosts as VMs are created or destroyed. It offers fuzzy host search, live tunnel monitoring, scp, Docker‑over‑SSH, Vault SSH certificates, and an MCP server for AI agents, all via a sleek TUI. The project is MIT‑licensed and spans both frontend and backend components.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/erickochen/purple) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/erickochen/purple) · [← Back to AI/ML](./README.md)</sub>
