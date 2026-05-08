@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compliance` `file-integrity-management` `gdpr` `ids` `incident-response` `intrusion-detection` `log-analysis` `loganalyzer` `monitoring` `openscap` `opensearch-dashboards` `opensearch-plugins`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-The wazuh/wazuh-dashboard-plugins project provides a collection of customizable plugins for the Wazuh Dashboard, enhancing its security capabilities and user experience. These plugins enable users to extend the dashboard's functionality and tailor it to their specific security monitoring needs. By leveraging these plugins, users can gain deeper insights into their system's security posture.
+Wazuh Dashboard Plugins is an open‑source collection of extensions that enhance the functionality of the Wazuh security dashboard. The plugins add new visualizations, custom alerts, and integration capabilities to improve threat detection, incident response, and overall security monitoring. They are maintained by the Wazuh community and can be easily installed or customized to fit specific security needs.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/wazuh/wazuh-dashboard-plugins) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wazuh/wazuh-dashboard-plugins) · [← Back to Security](./README.md)</sub>

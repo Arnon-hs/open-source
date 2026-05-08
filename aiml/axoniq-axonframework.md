@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 843 |
+| 🍴 **Forks** | 845 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cqrs` `dcb` `ddd` `domain-driven-design` `domaindrivendesign` `dynamic-consistency-boundary` `dynamicconsistencyboundary` `event-sourcing` `java` `message-driven` `performance` `scalability`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Design
 
 ## 📝 Summary
 
-AxonFramework is an open-source project that provides a framework for building evolutionary message-driven microservices on the Java Virtual Machine (JVM). This framework allows developers to create scalable, flexible, and maintainable microservices-based systems, leveraging principles of domain-driven design and event-driven architecture. By utilizing AxonFramework, developers can streamline their microservices development process and improve system resilience.
+AxonFramework is an open‑source Java toolkit that simplifies building evolutionary, message‑driven microservices using the CQRS and Event Sourcing patterns. It provides a rich set of abstractions—commands, events, queries, and aggregates—along with infrastructure components such as an event store, command bus, and distributed messaging support, enabling developers to create scalable, resilient backend systems on the JVM. The framework is widely used for designing complex domain‑driven architectures while maintaining clear separation of concerns and high testability.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/AxonIQ/AxonFramework) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/AxonIQ/AxonFramework) · [← Back to AI/ML](./README.md)</sub>

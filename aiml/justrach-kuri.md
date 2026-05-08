@@ -1,32 +1,32 @@
 # justrach/kuri
 
-[![Stars](https://img.shields.io/github/stars/justrach/kuri?style=flat-square&color=yellow)](https://github.com/justrach/kuri/stargazers) [![Forks](https://img.shields.io/github/forks/justrach/kuri?style=flat-square&color=blue)](https://github.com/justrach/kuri/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justrach/kuri?style=flat-square&color=yellow)](https://github.com/justrach/kuri/stargazers) [![Forks](https://img.shields.io/github/forks/justrach/kuri?style=flat-square&color=blue)](https://github.com/justrach/kuri/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Browser automation and web crawling for AI agents. Zig-native, token-efficient CDP snapshots, HAR recording, and a standalone fetcher.
+> Browser automation, web crawling, and iOS + Android device control for AI agents. Zig-native, token-efficient CDP snapshots, HAR recording, native adb wire-protocol client, and a standalone fetcher.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 298 |
+| ⭐ **Stars** | 300 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `android` `browser-automation` `chrome-cdp` `ios` `mobile-automation` `web-scraping` `zig`
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Kuri is an open-source project that enables browser automation and web crawling for AI agents. Built with Zig, it provides token-efficient CDP (Chrome DevTools Protocol) snapshots, HAR (HTTP Archive) recording, and a standalone fetcher. This project facilitates the development of AI-powered web scraping and automation tools with efficiency and precision.
+justrach/kuri is an open‑source toolkit that enables AI agents to interact with browsers, crawl the web, and control iOS and Android devices. Built in Zig, it offers token‑efficient Chrome DevTools Protocol snapshots, HAR recording, a native ADB wire‑protocol client, and a standalone fetcher for fast, low‑overhead automation. It’s aimed at developers working on AI/ML, backend services, and developer tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/justrach/kuri) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/justrach/kuri) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`annotation` `annotation-tool` `annotations` `boundingbox` `computer-vision` `computer-vision-annotation` `dataset` `deep-learning` `image-annotation` `image-classification` `image-labeling` `image-labelling-tool`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-CVAT is an open-source data engine for machine learning, designed to help annotate complex data with ease and precision. It is scalable and adaptable to meet the needs of teams at any level, whether they are working with small or large-scale data. This powerful tool enables teams to accurately annotate data for use in various machine learning applications.
+CVAT (Computer Vision Annotation Tool) is an open‑source, web‑based platform that streamlines the creation of high‑quality image and video annotations for machine‑learning projects. It offers a rich set of features—including collaborative workspaces, automated labeling assistance, and support for numerous annotation formats—making it suitable for teams handling data of any size. By providing a scalable, extensible data engine, CVAT enables faster, more accurate annotation pipelines across a wide range of AI/ML applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cvat-ai/cvat) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/cvat-ai/cvat) · [← Back to AI/ML](./README.md)</sub>

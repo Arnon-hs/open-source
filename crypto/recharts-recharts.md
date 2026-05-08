@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chart` `charting-library` `components` `d3` `data-visualisation` `javascript` `react` `recharts` `typescript` `ui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the recharts project:
-
-Recharts is an open-source, React-based charting library built on top of D3.js, providing a flexible and customizable way to visualize data. This library offers a wide range of chart types, including line, area, bar, and pie charts, allowing developers to easily integrate interactive and dynamic visualizations into their applications. By leveraging Recharts, developers can create rich, data-driven experiences with ease.
+Recharts is an open‑source charting library that combines the declarative power of React with the flexibility of D3 to deliver responsive, reusable visualizations. It offers a rich set of composable components—such as line, bar, area, pie, and radar charts—making it easy for developers to integrate interactive data displays into modern web applications. Ideal for frontend projects, especially those handling dynamic or crypto‑related data, Recharts emphasizes simplicity, performance, and a clean API.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/recharts/recharts) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/recharts/recharts) · [← Back to Crypto](./README.md)</sub>

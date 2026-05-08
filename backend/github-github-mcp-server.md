@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 29.5k |
+| ⭐ **Stars** | 29.6k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`github` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-GitHub's official MCP Server is an open-source backend project that provides a standardized interface for GitHub Actions runners to communicate with the GitHub API. This server facilitates seamless integration with GitHub Actions, enabling runners to manage workflows and jobs efficiently. By leveraging the MCP Server, developers can simplify their workflow automation and collaboration experiences on GitHub.
+The **GitHub MCP Server** is an open‑source backend service that implements GitHub’s official **Message Control Protocol (MCP)**, enabling reliable, real‑time communication between GitHub services and external clients. It provides a scalable, extensible framework for handling authentication, routing, and delivery of MCP messages, making it easy for developers to integrate custom workflows and automation with GitHub’s platform.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/github/github-mcp-server) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/github/github-mcp-server) · [← Back to Backend](./README.md)</sub>

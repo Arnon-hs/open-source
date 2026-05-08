@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 198 |
+| ⭐ **Stars** | 199 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic` `context-engineering` `copilot-sdk` `da` `data-analysis` `data-visualization` `excel` `infographic` `mcp` `memory` `mindmap`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This collection of extensions and plugins for Open WebUI enhances the user experience and extends its functionality, providing a more comprehensive and efficient interface for personal use. Developed with a focus on AI/ML, frontend, and data, these curated enhancements aim to improve productivity and streamline workflows. By leveraging these extensions, users can unlock new capabilities and streamline their interactions with Open WebUI.
+Fu-Jie/openwebui-extensions is an open‑source repository that bundles a variety of enhancements, plugins, and ready‑to‑use prompts designed to extend the capabilities of Open WebUI. Curated for personal use, the collection adds new UI components, workflow shortcuts, and AI‑assisted features that improve usability and productivity. It serves developers and hobbyists looking to customize and enrich their Open WebUI deployments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Fu-Jie/openwebui-extensions) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Fu-Jie/openwebui-extensions) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 106 |
+| ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-agents` `ai-assistant` `ai-infra` `ai-infrastructure` `ai-tools` `bitloops` `claude-code` `cli` `cursor` `gemini`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The bitloops project provides an open-source intelligence layer for AI-native development, enabling developers to streamline their workflows and enhance collaboration. This platform serves as a foundation for building and deploying AI-driven applications, integrating seamlessly with various DevOps and DevTools. By leveraging bitloops, developers can accelerate the development and deployment of AI-native projects.
+Bitloops is an open‑source intelligence layer designed to streamline AI‑native development by providing real‑time insights, context‑aware code analysis, and automated tooling for machine‑learning projects. It integrates seamlessly with DevOps pipelines, offering developers actionable data and orchestration capabilities to accelerate model building, testing, and deployment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/bitloops/bitloops) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bitloops/bitloops) · [← Back to AI/ML](./README.md)</sub>

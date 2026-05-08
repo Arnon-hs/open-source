@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 970 |
-| 🍴 **Forks** | 118 |
+| ⭐ **Stars** | 973 |
+| 🍴 **Forks** | 122 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `chatbot` `chatgpt` `gpt` `langchain4j` `llama3` `llm` `ollama` `spring-ai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Agents-flex is an open-source, lightweight Java framework designed to streamline AI application development. This AI/ML development framework offers a flexible and scalable platform for building, testing, and deploying AI-driven solutions. By leveraging Agents-flex, developers can efficiently create, manage, and orchestrate AI applications with ease.
+Agents‑Flex is a lightweight Java framework designed to simplify the development of AI‑driven applications. It provides a modular orchestration layer that lets developers define, compose, and manage intelligent agents and workflows with minimal boilerplate. By focusing on flexibility and ease of integration, Agents‑Flex streamlines building and scaling AI/ML solutions in Java environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/agents-flex/agents-flex) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/agents-flex/agents-flex) · [← Back to Orchestration](./README.md)</sub>

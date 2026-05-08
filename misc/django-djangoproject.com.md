@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The django/djangoproject.com project is the open-source codebase behind the official Django project website, djangoproject.com. This repository houses the source code, documentation, and infrastructure required to maintain the Django community website, serving as a central hub for resources, tutorials, and project information. The project facilitates collaboration and knowledge-sharing among Django developers and users worldwide.
+The **django/djangoproject.com** repository contains the full source code for the official Django website (djangoproject.com). It includes the Django-powered content management system, static assets, and deployment configuration that power the project's documentation, blog, and community pages. This open‑source project serves as a reference implementation of best practices for building and maintaining a production‑grade Django site.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/django/djangoproject.com) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/django/djangoproject.com) · [← Back to Misc](./README.md)</sub>

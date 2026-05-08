@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 193 |
-| 🍴 **Forks** | 36 |
+| ⭐ **Stars** | 194 |
+| 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `cds-hooks` `ehr` `fhir` `fhir-api` `healthcare` `healthcare-ai` `llm` `machine-learning` `mlops` `nlp` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the HealthChain open-source project:
-
-HealthChain is an open-source software development kit (SDK) that enables the integration of healthcare AI into various systems, providing FHIR endpoints, electronic health record (EHR) integration, and deployment tooling. Built with Python, HealthChain streamlines the development of healthcare applications by providing a comprehensive platform for AI-driven healthcare solutions. This SDK empowers developers to create innovative healthcare applications with ease and efficiency.
+HealthChain is an open‑source Python SDK that streamlines the integration of AI models with live electronic health record (EHR) systems, eliminating the “integration tax” typically associated with healthcare deployments. It provides ready‑to‑use backend utilities for connecting, querying, and updating patient data securely, enabling developers to focus on building and deploying AI‑driven clinical insights.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/healthchainai/HealthChain) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/healthchainai/HealthChain) · [← Back to AI/ML](./README.md)</sub>

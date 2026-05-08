@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 241 |
-| 🍴 **Forks** | 40 |
+| ⭐ **Stars** | 254 |
+| 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `ai-agents` `ai-memory` `autogen` `crash-recovery` `crewai` `developer-tools` `knowledge-graph` `langchain` `llm-agents` `loop-detection` `mcp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Octopoda-OS project:
-
-Octopoda-OS is an open-source, memory-centric operating system designed for AI agents, offering persistent memory, semantic search, and real-time observability features. This innovative OS provides essential functionalities like loop detection, agent messaging, and crash recovery, ensuring seamless performance and reliability. By leveraging these features, developers can build more efficient and robust AI applications.
+Octopoda‑OS is an open‑source memory‑focused operating system designed to empower AI agents with persistent, searchable knowledge bases, real‑time observability, and robust fault tolerance. It provides built‑in semantic search, loop detection, inter‑agent messaging, crash recovery, and orchestration capabilities, enabling seamless coordination of complex AI workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/RyjoxTechnologies/Octopoda-OS) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/RyjoxTechnologies/Octopoda-OS) · [← Back to Orchestration](./README.md)</sub>

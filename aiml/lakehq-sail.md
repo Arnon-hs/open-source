@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 132 |
+| 🍴 **Forks** | 133 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apache-iceberg` `apache-spark` `arrow` `artificial-intelligence` `big-data` `data-engineering` `datafusion` `delta-lake` `distributed-computing` `iceberg` `lakehouse` `machine-learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data · Marketing
 
 ## 📝 Summary
 
-lakehq/sail is a promising open-source project. Categories: AI/ML, Data, Marketing. Interest score: 62/100.
+LakeHQ Sail is a drop‑in replacement for Apache Spark, built in Rust to deliver high‑performance, unified processing for batch jobs, streaming workloads, and compute‑intensive AI tasks. By leveraging Rust’s safety and speed, Sail aims to simplify data pipelines while providing the scalability and ecosystem compatibility that Spark users expect. It targets AI/ML, data engineering, and marketing use cases that require fast, reliable, and cost‑effective analytics.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/lakehq/sail) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/lakehq/sail) · [← Back to AI/ML](./README.md)</sub>

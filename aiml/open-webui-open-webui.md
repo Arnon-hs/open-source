@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 135.6k |
-| 🍴 **Forks** | 19.3k |
+| ⭐ **Stars** | 136.1k |
+| 🍴 **Forks** | 19.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `llm` `llm-ui` `llm-webui` `llms` `mcp` `ollama` `ollama-webui` `open-webui` `openai` `openapi` `rag`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-webui/open-webui project:
-
-Open-webui is an open-source, user-friendly AI interface that enables seamless interactions with various AI models, including Ollama and OpenAI API. This project provides a comprehensive frontend and backend solution, making it easily accessible and customizable for developers and AI enthusiasts alike. With open-webui, users can harness the power of AI in a simple and intuitive way, unlocking new possibilities for creative expression and problem-solving.
+Open WebUI is a lightweight, browser‑based interface that lets users interact with a variety of large language models—including those served via Ollama, OpenAI’s API, and other back‑ends—through a clean, customizable frontend. It provides ready‑to‑use chat, prompt management, and model selection features while exposing extensible APIs for developers to integrate their own AI services. The project combines a modern React frontend with a simple Python/Node backend, making it easy to deploy locally or in the cloud for both personal and collaborative AI workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/open-webui/open-webui) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/open-webui/open-webui) · [← Back to AI/ML](./README.md)</sub>

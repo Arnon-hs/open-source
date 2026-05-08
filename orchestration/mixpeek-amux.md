@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 158 |
-| 🍴 **Forks** | 15 |
+| ⭐ **Stars** | 164 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `ai-agents` `automation` `claude` `claude-code` `developer-tools` `llm` `parallel-processing` `python` `tmux`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The amux project is an open-source, multi-agent multiplexer designed to run dozens of parallel AI coding agents unattended. Built on top of tmux, amux enables seamless orchestration and management of multiple coding agents, streamlining the development process for AI and machine learning projects. This tool allows developers to automate and scale their coding workflows.
+mixpeek/amux is an open‑source multiplexer that lets you launch and manage dozens of Claude Code agents in parallel, all running unattended inside tmux sessions. By automating the orchestration of multiple AI coding assistants, it streamlines large‑scale code generation, testing, and debugging workflows for developers. The tool integrates seamlessly with existing dev environments, making high‑throughput AI‑driven development both scalable and easy to control.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/mixpeek/amux) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mixpeek/amux) · [← Back to Orchestration](./README.md)</sub>

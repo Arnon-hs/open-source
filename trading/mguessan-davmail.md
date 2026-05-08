@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 719 |
-| 🍴 **Forks** | 105 |
+| ⭐ **Stars** | 720 |
+| 🍴 **Forks** | 107 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`caldav` `carddav` `exchange` `exchange-server` `gateway` `imap` `ldap` `office-365` `office365` `outlook` `pop3` `smtp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · AI/ML · Backend
 
 ## 📝 Summary
 
-DavMail is an open-source project that serves as a gateway between popular email and calendar protocols and Microsoft Exchange and Office 365 services. It enables synchronization of POP/IMAP, SMTP, CalDAV, CardDAV, and LDAP data, providing a bridge between different systems and platforms. By leveraging DavMail, users can access and sync Exchange and Office 365 services from various email clients and web applications.
+DavMail is an open‑source gateway that bridges Microsoft Exchange and Office 365 with standard mail and calendar protocols (POP, IMAP, SMTP, CalDAV, CardDAV, LDAP), allowing legacy clients to access Exchange services seamlessly. It synchronizes with the upstream Subversion repository, providing a stable, cross‑platform backend for integrating Exchange functionality into diverse applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/mguessan/davmail) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mguessan/davmail) · [← Back to Trading](./README.md)</sub>

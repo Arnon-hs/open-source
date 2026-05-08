@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 837 |
-| 🍴 **Forks** | 630 |
+| 🍴 **Forks** | 632 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`spm` `swift`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the SwiftPackageIndex/PackageList project:
-
-The SwiftPackageIndex/PackageList project is an open-source repository that maintains the canonical list of packages indexed by the Swift Package Index. This list provides a comprehensive catalog of available Swift packages, allowing developers to easily discover and integrate third-party libraries into their projects. By keeping the package list up-to-date, the project facilitates the growth and adoption of the Swift ecosystem.
+SwiftPackageIndex/PackageList is an open‑source repository that maintains the definitive, curated list of all Swift package repositories indexed by the Swift Package Index. It provides a structured, machine‑readable catalog (including metadata such as repository URLs, tags, and indexing status) that powers the Swift Package Index website and enables developers to discover, search, and integrate Swift packages efficiently. The project serves as the single source of truth for package indexing across the Swift ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/SwiftPackageIndex/PackageList) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/SwiftPackageIndex/PackageList) · [← Back to Misc](./README.md)</sub>

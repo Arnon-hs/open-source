@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 540 |
+| ⭐ **Stars** | 543 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`annotations` `arch-linux` `archlinux` `hyprland` `kde` `kde-plasma` `linux` `omarchy` `ubuntu` `wayland` `zoom` `zoomit`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the Wayscriber project:
-
-Wayscriber is an open-source, highly customizable live overlay tool for Linux, allowing users to draw, annotate, and capture screenshots with zoom functionality. It can be used as a virtual whiteboard or blackboard, providing flexibility for various applications. Written in Rust, Wayscriber offers a robust and customizable solution for Linux users.
+**wayscriber** is a lightweight, highly customizable live overlay tool for Linux that lets you draw, annotate (with zoom), hide text, and capture screenshots—ideal for turning any screen into a whiteboard or blackboard. Built in Rust, it runs as a transparent overlay, allowing real‑time sketching and note‑taking without disrupting underlying applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/devmobasa/wayscriber) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/devmobasa/wayscriber) · [← Back to Misc](./README.md)</sub>

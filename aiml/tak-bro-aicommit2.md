@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 513 |
-| 🍴 **Forks** | 43 |
+| ⭐ **Stars** | 514 |
+| 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-commits` `aicommit` `aicommits` `anthropic` `chatgpt` `claude` `cli` `codestral` `cohere` `deepseek` `git-commit` `groq`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The tak-bro/aicommit2 project is a reactive CLI tool that leverages various AI models such as Ollama, ChatGPT, Gemini, Claude, and Mistral to generate commit messages for Git and Jujutsu. This innovative tool streamlines the development process by providing AI-driven suggestions for commit messages, saving time and effort for developers. With its open-source nature, it allows the community to contribute and enhance the project further.
+tak‑bro/aicommit2 is a reactive command‑line tool that automatically crafts commit messages for both Git and Jujutsu repositories using a variety of large‑language‑model backends, including Ollama, ChatGPT, Gemini, Claude, Mistral, and others. It integrates seamlessly into developers’ workflows, offering AI‑powered suggestions that improve commit clarity and consistency across projects. The project is positioned at the intersection of AI/ML, frontend tooling, and developer utilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/tak-bro/aicommit2) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tak-bro/aicommit2) · [← Back to AI/ML](./README.md)</sub>

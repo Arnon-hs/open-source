@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.1k |
-| 🍴 **Forks** | 419 |
+| 🍴 **Forks** | 420 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `deepseek-v3` `gpt-oss` `intern-s1` `internvl` `kimi-k2` `llm` `multimodal` `qwen3-moe` `qwen3-vl` `reinforcement-learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-InternLM/xtuner is an open-source project that offers a next-generation training engine specifically designed for ultra-large models with multiple experts (MoE). This innovative technology aims to optimize the training process for massive AI models, enabling faster and more efficient computations. By leveraging InternLM/xtuner, researchers and developers can unlock the full potential of their MoE models and drive breakthroughs in various AI applications.
+InternLM / xtuner is an open‑source, next‑generation training engine designed specifically for ultra‑large Mixture‑of‑Experts (MoE) models. It provides a highly scalable, modular framework that streamlines data preprocessing, distributed training, and fine‑tuning workflows, enabling researchers and developers to efficiently build and experiment with massive AI models. The project also includes user‑friendly front‑end tools for monitoring training progress and managing experiments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/InternLM/xtuner) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/InternLM/xtuner) · [← Back to AI/ML](./README.md)</sub>

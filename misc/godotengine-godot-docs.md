@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.2k |
+| ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | reStructuredText |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docs` `documentation` `game-development` `game-engine` `gamedev` `godot` `godotengine` `multi-platform` `open-source`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Godot Engine official documentation project, hosted on GitHub under the repository 'godotengine/godot-docs', provides comprehensive and open-source documentation for the Godot Engine game development platform. This project enables users to access and contribute to the extensive guides, tutorials, and reference materials for creating 2D and 3D games, editor plugins, and other projects with Godot. The documentation is a valuable resource for both beginners and experienced developers looking to harness the full potential of the Godot Engine.
+The **godotengine/godot-docs** repository houses the official documentation for the Godot Engine, an open‑source, cross‑platform game development framework. It provides comprehensive guides, tutorials, API references, and best‑practice resources that are continuously updated alongside the engine’s releases, enabling developers of all skill levels to learn and contribute to Godot projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/godotengine/godot-docs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/godotengine/godot-docs) · [← Back to Misc](./README.md)</sub>

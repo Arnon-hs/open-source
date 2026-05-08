@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16.5k |
-| 🍴 **Forks** | 2.2k |
+| ⭐ **Stars** | 16.6k |
+| 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-security-tool` `anthropic` `autonomous-agents` `golang` `gpt` `graphql` `multi-agent-system` `offensive-security` `open-source` `openai` `penetration-testing`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the vxcontrol/pentagi project:
-
-Pentagi is an open-source, fully autonomous AI Agents system designed for complex penetration testing tasks. Leveraging AI/ML capabilities, it enables users to automate and streamline penetration testing processes. This cutting-edge tool empowers security professionals to efficiently identify vulnerabilities and strengthen their digital defenses.
+The **vxcontrol/pentagi** project is an open‑source platform that orchestrates fully autonomous AI agents to carry out sophisticated penetration‑testing operations. By combining advanced AI/ML models with a user‑friendly frontend, it enables dynamic task planning, execution, and reporting without manual intervention, streamlining security assessments and vulnerability discovery.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/vxcontrol/pentagi) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/vxcontrol/pentagi) · [← Back to Orchestration](./README.md)</sub>

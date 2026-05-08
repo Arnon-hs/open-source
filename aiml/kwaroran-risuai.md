@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 322 |
+| 🍴 **Forks** | 321 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `characters` `chat` `chatbot` `claude` `gemini` `gpt` `llama` `llm` `mcp` `mcp-client` `mistral`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project Risuai:
-
-Risuai is an open-source, user-friendly software for creating interactive stories using Large Language Models (LLMs). This innovative tool empowers users to craft their own tales, leveraging the capabilities of LLMs to generate immersive and engaging narratives. With Risuai, storytellers of all levels can bring their imagination to life and share their unique stories with others.
+Risuai is an open‑source, user‑friendly platform that lets you create and run custom role‑playing scenarios powered by large language models. It provides intuitive tools for designing interactive stories, managing characters, and controlling AI behavior, making LLM‑based roleplaying accessible to developers and enthusiasts alike.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kwaroran/Risuai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kwaroran/Risuai) · [← Back to AI/ML](./README.md)</sub>

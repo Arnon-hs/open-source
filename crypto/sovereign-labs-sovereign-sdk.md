@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `modular` `optimistic-rollup` `rust` `sdk` `sovereign` `verifiable-server` `zk-rollup`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-The Sovereign SDK is an open-source, flexible toolkit designed for building real-time blockchains, catering to the needs of developers and blockchain enthusiasts. This versatile platform combines expertise from the realms of cryptocurrency, artificial intelligence, and machine learning to deliver a seamless and efficient experience. By harnessing the power of the Sovereign SDK, users can create customizable and scalable blockchain solutions that meet the demands of modern applications.
+Sovereign SDK is an open‑source, modular toolkit designed to simplify the creation of high‑performance, real‑time blockchains. It provides a flexible framework of reusable components—consensus, networking, state‑execution, and smart‑contract runtimes—allowing developers to rapidly prototype and launch custom blockchain networks with built‑in support for AI/ML data pipelines and front‑end integrations. The project targets both cryptography experts and application developers seeking a scalable foundation for next‑generation decentralized applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Sovereign-Labs/sovereign-sdk) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Sovereign-Labs/sovereign-sdk) · [← Back to Crypto](./README.md)</sub>

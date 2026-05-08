@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 267 |
-| 🍴 **Forks** | 355 |
+| 🍴 **Forks** | 357 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `docker` `get-global-docs-autoupdate` `get-global-releaserc` `hacktoberfest` `nodejs` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The asyncapi/cli project is an open-source command-line interface (CLI) designed to simplify working with AsyncAPI files. It allows users to validate their AsyncAPI definitions and supports features such as generation and bootstrapping of new files. This tool aims to streamline the development process for backend developers and DevOps teams.
+The **asyncapi/cli** is a command‑line tool for managing AsyncAPI specifications. It lets you validate existing AsyncAPI files, and upcoming features will add code generation and project bootstrapping capabilities. Designed for backend and DevOps workflows, the project welcomes contributions from the community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/asyncapi/cli) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/asyncapi/cli) · [← Back to Backend](./README.md)</sub>
