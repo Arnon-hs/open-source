@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 67 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 69 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `document-automation` `docx-converter` `legaltech` `llm-tools` `mcp-server` `python-library` `redline`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The adeu project is an open-source Agentic DOCX Redlining Engine that enables large language models (LLMs) to seamlessly interact with Word documents. This engine allows LLMs to read and inject native Track Changes and Comments into Word documents while preserving formatting. It also includes a Model Context Protocol (MCP) Server for efficient communication between models and the engine.
+dealfluence/adeu provides a native “track changes” solution for AI‑generated text edits. It includes an MCP server and a Python SDK that convert LLM‑produced modifications into DOCX redlines, preserving the original document’s formatting and ensuring safe, version‑controlled updates. The project targets AI/ML workflows and backend integration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/dealfluence/adeu) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dealfluence/adeu) · [← Back to AI/ML](./README.md)</sub>

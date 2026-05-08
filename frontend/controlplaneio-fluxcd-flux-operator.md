@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`continuous-delivery` `flux-ui` `fluxcd` `gitops` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-The controlplaneio-fluxcd/flux-operator project is an open-source initiative that enables GitOps on autopilot mode. By utilizing this project, users can automate the management of their infrastructure and applications with minimal manual intervention. This project leverages FluxCD's operator to streamline and simplify the GitOps workflow.
+The **flux-operator** project by controlplaneio‑fluxcd provides a Kubernetes operator that automates the deployment and management of Flux CD components, enabling true GitOps “autopilot” mode for both frontend and backend workloads. By reconciling custom resources, it continuously synchronizes cluster state with Git repositories, handling installation, upgrades, and configuration without manual intervention. This makes it easy to enforce declarative infrastructure and application delivery at scale.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/controlplaneio-fluxcd/flux-operator) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/controlplaneio-fluxcd/flux-operator) · [← Back to Frontend](./README.md)</sub>

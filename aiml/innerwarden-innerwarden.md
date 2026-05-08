@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 112 |
+| ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-guard` `ai-agent-security` `anomaly-detection` `autonomous-defense` `behavioral-analysis` `correlation-engine` `ebpf` `honeypot` `host-security` `incident-response` `intrusion-detection` `kernel`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the InnerWarden project:
-
-InnerWarden is an open-source, autonomous Endpoint Detection and Response (EDR) solution for Linux, designed to provide comprehensive protection with minimal user interaction. Equipped with kernel-level eBPF detection and AI-powered triage, it enables autonomous response to security threats. By leveraging AI and automation, InnerWarden offers a cost-effective alternative to traditional Managed Detection and Response (MDR) services.
+InnerWarden is an open‑source security agent for Linux servers that monitors the system from within, using kernel‑level eBPF to detect malicious activity and an on‑device AI model to automatically block threats. Designed for self‑hosting, it runs in a safe dry‑run mode by default and can be switched to active enforcement, all under an Apache‑2.0 license.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/InnerWarden/innerwarden) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/InnerWarden/innerwarden) · [← Back to AI/ML](./README.md)</sub>

@@ -8,25 +8,25 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 132 |
-| 🍴 **Forks** | 15 |
+| ⭐ **Stars** | 135 |
+| 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`2d` `3d` `bevy` `engine` `game` `lua` `physics` `renzora` `rhai` `rust` `ui`
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Frontend
 
 ## 📝 Summary
 
-The Renzora Engine is an open-source, cross-platform game engine built using the Bevy framework and written in Rust. This modular engine provides a flexible foundation for developing games and interactive experiences. With its focus on AI and ML capabilities, Renzora Engine offers a unique blend of game development and artificial intelligence technologies.
+Renzora Engine is an open‑source, modular game engine written in Rust that leverages the Bevy framework to provide a flexible, cross‑platform development foundation. It combines a clean, component‑based architecture with built‑in tools for AI/ML and frontend rendering, enabling developers to create high‑performance games and interactive applications for desktop, web, and mobile targets.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/renzora/engine) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/renzora/engine) · [← Back to AI/ML](./README.md)</sub>

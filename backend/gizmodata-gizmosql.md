@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 306 |
-| 🍴 **Forks** | 34 |
+| ⭐ **Stars** | 308 |
+| 🍴 **Forks** | 35 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adbc` `apache-arrow` `apache-arrow-flight` `apache-arrow-flight-sql` `database` `databases` `duckdb` `gizmodata` `gizmosql` `ibis` `jdbc` `jwt-authentication`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Data · Security
 
 ## 📝 Summary
 
-GizmoSQL is an open-source, high-performance SQL server designed to meet the demands of modern data-intensive applications. Built with speed and security in mind, it provides a robust backend solution for storing and managing large datasets. With its flexible and scalable architecture, GizmoSQL is ideal for large-scale data processing and analytics.
+GizmoSQL is an open‑source, high‑performance SQL server designed for modern backend workloads, offering fast query execution and robust data handling capabilities. Built with a focus on security, it includes built‑in authentication, encryption, and fine‑grained access controls to protect sensitive information. Ideal for developers needing a scalable, secure database engine for data‑intensive applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/gizmodata/gizmosql) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/gizmodata/gizmosql) · [← Back to Backend](./README.md)</sub>

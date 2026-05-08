@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `botpress` `chatbot` `chatgpt` `gpt` `gpt-4` `langchain` `llm` `nlp` `openai` `prompt`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Botpress is an open-source platform that enables developers to build, deploy, and manage large language models (LLMs) and GPT agents. It provides a comprehensive toolkit for orchestrating and integrating AI/ML capabilities into various applications. By leveraging Botpress, users can create and customize cutting-edge conversational interfaces.
+Botpress is an open‑source platform that lets developers design, orchestrate, and deploy intelligent agents powered by GPT and other large language models. It provides a visual workflow editor, plug‑in architecture, and frontend integration tools so teams can build, test, and scale conversational AI applications without vendor lock‑in. Ideal for orchestrating multi‑step AI/ML pipelines and delivering interactive chat experiences.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/botpress/botpress) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/botpress/botpress) · [← Back to Orchestration](./README.md)</sub>

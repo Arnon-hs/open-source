@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 280 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ci` `ci-framework` `continuous-integration` `taskcluster`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Taskcluster is an open-source project designed to manage large-scale continuous integration (CI) workflows, enabling efficient and automated testing of software projects. It provides a scalable and customizable solution for companies and organizations to streamline their CI pipelines, reducing the complexity and overhead associated with manual testing processes. With Taskcluster, users can create, manage, and execute complex workflows with ease.
+Taskcluster is an open‑source, highly scalable continuous integration (CI) platform designed to automate building, testing, and deploying software across a wide range of environments. It provides a flexible, event‑driven architecture with reusable tasks, worker pools, and robust security controls, enabling teams to run massive CI workloads efficiently and reliably. The project is maintained under the `taskcluster/taskcluster` repository and is suitable for any organization needing a customizable, large‑scale CI solution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/taskcluster/taskcluster) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/taskcluster/taskcluster) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gpgpu` `gpu` `gpu-computing` `gpu-programming` `graphics` `javascript` `typesafe` `typescript` `webgpu` `webgpu-api` `wgsl` `wgsl-shader`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-TypeGPU is an open-source, modular toolkit for WebGPU that empowers developers to create high-performance applications. This project stands out with its advanced type inference capabilities, allowing users to write shaders in TypeScript, a familiar and widely-used programming language. By leveraging this innovative approach, developers can tap into the power of WebGPU with increased efficiency and ease.
+software‑mansion/TypeGPU is an open‑source, modular toolkit that brings WebGPU development into the TypeScript ecosystem, offering advanced type inference to catch errors at compile time. It lets developers write GPU shaders directly in TypeScript, providing a flexible, extensible framework for building high‑performance graphics and compute pipelines on the web.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/software-mansion/TypeGPU) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/software-mansion/TypeGPU) · [← Back to Backend](./README.md)</sub>

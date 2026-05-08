@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 734 |
+| ⭐ **Stars** | 735 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | C |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`d3d11` `ffmpeg` `glsl` `gpu` `mirror` `mpv` `multimedia` `opengl` `shaders` `video` `video-player` `video-processing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Libplacebo is an open-source audio effects library designed to provide high-quality, low-latency, and platform-agnostic processing of various audio signals. It offers a wide range of effects, including spatialization, reverb, and distortion, allowing developers to easily create complex audio processing chains. Libplacebo is widely used in various audio applications, from games and simulators to music production software.
+haasn/libplacebo is the official mirrored repository of **libplacebo**, a versatile, high‑performance graphics rendering library that provides a powerful shader and GPU‑accelerated toolkit for video processing, image manipulation, and visual effects. The project offers a clean, well‑documented codebase with support for modern APIs (Vulkan, OpenGL, Metal) and is maintained as a reference implementation for developers building media and graphics applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/haasn/libplacebo) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/haasn/libplacebo) · [← Back to Misc](./README.md)</sub>

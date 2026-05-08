@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9k |
-| 🍴 **Forks** | 634 |
+| 🍴 **Forks** | 635 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`database` `datamapper` `entities` `entity` `identity-map` `javascript` `libsql` `mongodb` `mysql` `nodejs` `orm` `postgre`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Data
 
 ## 📝 Summary
 
-Mikro-ORM is a TypeScript-based Object-Relational Mapping (ORM) library for Node.js applications, employing the Data Mapper, Unit of Work, and Identity Map patterns to simplify database interactions. This open-source project supports a wide range of popular databases, including MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL, and SQLite/libSQL. By utilizing mikro-ORM, developers can write more efficient, scalable, and database-agnostic code.
+MikroORM is a TypeScript‑first Object‑Relational Mapper for Node.js that implements the Data Mapper, Unit of Work, and Identity Map patterns to provide a clean, decoupled data layer. It offers a unified API for a wide range of databases—including MongoDB, MySQL/MariaDB, MS SQL Server, PostgreSQL, and SQLite/libSQL—allowing developers to write type‑safe queries and manage entity lifecycles across relational and document stores.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/mikro-orm/mikro-orm) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mikro-orm/mikro-orm) · [← Back to Backend](./README.md)</sub>

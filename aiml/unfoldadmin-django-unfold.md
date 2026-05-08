@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 350 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`admin` `alpinejs` `darkmode` `dashboard` `django` `filters` `htmx` `python` `responsive` `tailwindcss` `theme` `ui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Django-unfold is an open-source project that aims to modernize the Django Admin interface, enhancing its functionality and usability. This project provides a more intuitive and interactive way to manage Django applications, making it easier for developers to navigate and customize the admin interface. By leveraging modern frontend technologies, unfoldadmin/django-unfold offers a sleek and efficient admin experience for Django developers.
+Unfold is an open‑source Django‑admin theme that modernizes the default admin interface with a clean, responsive design and a rich set of UI components. It provides ready‑made widgets, customizable layouts, and built‑in support for dark mode, making it easy to create a polished, user‑friendly admin experience without writing extensive CSS or JavaScript. The project is maintained under the `unfoldadmin/django-unfold` repository and is suitable for developers looking to enhance Django’s backend UI with a contemporary frontend look.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/unfoldadmin/django-unfold) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/unfoldadmin/django-unfold) · [← Back to AI/ML](./README.md)</sub>

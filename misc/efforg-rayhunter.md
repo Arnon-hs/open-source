@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.2k |
-| 🍴 **Forks** | 419 |
+| 🍴 **Forks** | 421 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The EFForg/rayhunter project is an open-source tool developed using the Rust programming language. This tool is designed to detect cell site simulators, also known as "stingrays," on an Orbic mobile hotspot, helping users identify potential surveillance threats. By utilizing this project, users can enhance their mobile security and privacy.
+**rayhunter** is a Rust‑based utility that scans for and identifies rogue cell‑site simulators masquerading as legitimate towers on an Orbic mobile hotspot. By analyzing signal characteristics and network metadata, it helps users detect unauthorized or malicious base‑station emulators that could intercept or disrupt their cellular connection. The tool is open‑source, lightweight, and intended for security‑conscious travelers and network administrators.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/EFForg/rayhunter) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/EFForg/rayhunter) · [← Back to Misc](./README.md)</sub>

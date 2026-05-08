@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 136 |
+| ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-coding` `ai-agents` `ai-coding` `ai-developer-tools` `ai-governance` `ai-memory-system` `autonomous-agents` `claude-code` `codex-cli` `context-engineering` `cursor` `devtools`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Fr-e-d/GAAI-framework project:
-
-The Fr-e-d/GAAI-framework is an open-source project that transforms AI coding tools into robust software delivery systems, streamlining development and deployment processes. By dropping a .gaai folder into any project, users can leverage AI-driven discovery and autonomous delivery, reducing manual effort and increasing efficiency. Compatible with a range of AI tools, including Claude Code, Codex CLI, and more, this framework offers a lightweight, SDK-free solution for building reliable software.
+Fr‑e‑d’s GAAI‑framework turns AI‑assisted coding tools into autonomous, reliable software delivery pipelines. By adding a simple `.gaai/` folder containing Markdown, YAML, and Bash scripts, developers define what to build (Discovery) and let the framework execute the build, test, and deployment steps (Delivery) until all criteria are met—supporting Claude Code, Codex CLI, Gemini CLI, Cursor, and other tools without requiring any SDK or package. It’s an open‑source solution that bridges AI/ML, crypto, and frontend workflows for seamless, repeatable releases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Fr-e-d/GAAI-framework) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Fr-e-d/GAAI-framework) · [← Back to Crypto](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.4k |
-| 🍴 **Forks** | 90 |
+| 🍴 **Forks** | 89 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `files` `filesystem` `find` `hacktoberfest` `query` `rust` `sql` `sql-like` `tool` `utility`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The fselect project allows users to search for files using SQL-like queries, simplifying the process of locating specific files within a directory. By emulating SQL syntax, fselect provides a flexible and intuitive interface for filtering files based on various attributes. This tool is particularly useful for developers and system administrators who need to navigate complex file systems efficiently.
+jFSelect is an open‑source command‑line utility that lets you locate files using SQL‑style queries, allowing filters on attributes such as name, size, modification time, permissions, and more. It parses expressive WHERE‑clauses and returns matching paths, making complex file‑search tasks fast and script‑friendly. Perfect for developers who need powerful, query‑driven file discovery in their tooling pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/jhspetersson/fselect) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jhspetersson/fselect) · [← Back to DevTools](./README.md)</sub>

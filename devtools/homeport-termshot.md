@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 775 |
+| ⭐ **Stars** | 780 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ansi-colors` `cli` `screenshot` `shell` `terminal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The termshot project from homeport allows users to create high-quality screenshots of terminal command output for documentation, tutorials, and other purposes. This open-source tool can capture and save the exact visual representation of command-line interactions, making it easier to share and demonstrate complex terminal workflows. It is particularly useful for developers and technical writers who need to create clear and accurate screen captures.
+homeport/termshot is an open‑source tool that captures screenshots of terminal sessions by rendering the output of shell commands as image files. It automates the process of generating visual representations of command‑line results, making it easy to embed terminal screenshots in documentation, blogs, or presentations. The project is lightweight, customizable, and targeted at developers who need quick, reproducible terminal visuals.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/homeport/termshot) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/homeport/termshot) · [← Back to DevTools](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 354 |
-| 🍴 **Forks** | 29 |
+| 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`budgeting` `money-management` `open-source` `personal-finance` `privacy` `react` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Whisper Money is an open-source personal finance management project that aims to help users effectively track and understand their financial activity. This frontend-focused application serves as a simple alternative to traditional spreadsheet tools like Excel, providing a user-friendly interface to manage and analyze income and expenses. By using Whisper Money, users can gain a clearer picture of their financial situation and make more informed decisions.
+Whisper Money is a front‑end focused, open‑source web application that helps users track and understand their personal finances without relying on spreadsheets. It offers an intuitive, visual interface for managing income, expenses, and budgeting, making financial oversight simple and accessible. The project is built with modern web technologies and is ready for community contributions and customization.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/whisper-money/whisper-money) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/whisper-money/whisper-money) · [← Back to Frontend](./README.md)</sub>

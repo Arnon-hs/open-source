@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | C |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `c-library` `client-server` `embeddable` `freertos` `http2` `libev` `libevent` `libuv` `libwebsockets` `lightweight` `lws`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The warmcat/libwebsockets project is an open-source implementation of a networking library, providing a canonical alternative to the libwebsockets.org API. This library enables developers to build scalable and efficient web-based applications with WebSocket support. It is suitable for use in backend development and DevTools.
+warmcat/libwebsockets is a lightweight, cross‑platform C library that implements the WebSocket protocol and a suite of related networking features (such as HTTP/2, MQTT, and TLS). It provides a flexible, event‑driven API for building high‑performance servers and clients, making it ideal for backend services, IoT devices, and development tools that require real‑time, bidirectional communication. The project is actively maintained, fully open source, and integrates easily with existing C/C++ codebases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/warmcat/libwebsockets) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/warmcat/libwebsockets) · [← Back to Backend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 278 |
-| 🍴 **Forks** | 10 |
+| ⭐ **Stars** | 288 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d-acceleration` `linux` `nvidia-gpu` `para-virtualization` `qemu-kvm` `tui` `vm-management`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the mroboff/vm-curator project:
-
-vm-curator is an open-source, text-based user interface (TUI) for building and managing QEMU/KVM virtual machines on desktops. This user-friendly tool enables seamless creation and management of VMs with 3D acceleration support, using both para-virtualized and pass-through methods. With vm-curator, users can efficiently manage their virtual environments with ease.
+vm-curator is a lightweight, terminal‑based user interface designed to simplify the creation and management of QEMU/KVM virtual machines on desktop systems. It streamlines the setup of both para‑virtualized and GPU‑pass‑through configurations, delivering fast performance with full 3D acceleration. Ideal for users who want a friendly, command‑line‑friendly front‑end for handling their VMs.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/mroboff/vm-curator) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mroboff/vm-curator) · [← Back to Frontend](./README.md)</sub>

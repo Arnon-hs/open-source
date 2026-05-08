@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 840 |
+| ⭐ **Stars** | 842 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | C |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ide` `ios` `jailed` `kernel` `signing`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project Nyxian:
-
-Nyxian is an open-source Integrated Development Environment (IDE) that enables developers to create native code iOS apps directly on unjailbroken iOS devices without the need for a computer. This is achieved through a certificate-based approach and a kernel virtualization layer, allowing for seamless app development on the go. By leveraging these technologies, Nyxian empowers developers to build iOS apps more efficiently and independently.
+ProjectNyxian (Nyxian) is an open‑source IDE that enables developers to write, compile, and run native iOS applications directly on unjailbroken iOS devices, using only a valid development certificate and a lightweight kernel virtualization layer. By providing on‑device tooling and sandboxed virtualization, Nyxian streamlines the mobile development workflow without requiring a Mac or device jailbreak, positioning itself at the intersection of mobile development and AI‑assisted tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ProjectNyxian/Nyxian) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ProjectNyxian/Nyxian) · [← Back to AI/ML](./README.md)</sub>

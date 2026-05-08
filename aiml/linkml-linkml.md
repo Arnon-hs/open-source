@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 509 |
+| ⭐ **Stars** | 512 |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`data-dictionaries` `data-modeling` `hacktoberfest` `json-ld-context` `json-schema` `linked-data` `linkml` `linkml-schema` `modeling` `owl` `rdf` `schema`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-linkml/linkml is a promising open-source project. Categories: AI/ML, Data. Interest score: 56/100.
+LinkML (Linked Open Data Modeling Language) is an open‑source framework for defining, validating, and serializing data models that are interoperable with Linked Data standards such as RDF and JSON‑LD. It provides a concise, schema‑first language for describing entities, attributes, and relationships, along with tooling for automatic code generation, documentation, and data validation across AI/ML and data‑centric applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/linkml/linkml) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/linkml/linkml) · [← Back to AI/ML](./README.md)</sub>

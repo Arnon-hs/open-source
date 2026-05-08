@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 927 |
+| ⭐ **Stars** | 928 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `cot-framework` `framework` `hacktoberfest` `orm` `rust` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Cot is an open-source Rust web framework designed for developers who value simplicity and efficiency. Built with lazy development in mind, Cot streamlines the web development process by providing a lightweight and easy-to-use framework for building robust web applications. Its intuitive interface and modular architecture make it an ideal choice for developers looking to create scalable and maintainable web projects.
+cot‑rs/cot is a lightweight Rust web framework designed for developers who prefer simplicity and minimal boilerplate. It provides a clean, opinionated API for building backend services and dev‑tool integrations while leveraging Rust’s safety and performance.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/cot-rs/cot) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/cot-rs/cot) · [← Back to Backend](./README.md)</sub>

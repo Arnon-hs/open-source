@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `declarative-language` `functional-programming` `nix` `package-manager`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Nix is an open-source, purely functional package manager that enables users to manage software packages on their systems in a reproducible and isolated manner. It allows packages to be treated as pure functions, eliminating conflicts between different versions and ensuring consistent system states. With Nix, users can easily manage multiple environments and ensure that their system is always in a consistent and predictable state.
+Nix is a purely functional package manager that enables reproducible, declarative, and atomic software builds across Linux, macOS, and other Unix-like systems. By treating packages and system configurations as immutable expressions, Nix ensures reliable rollbacks, side‑effect‑free upgrades, and precise dependency tracking. The project powers the NixOS Linux distribution and can be used independently to manage development environments, CI pipelines, and container images.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/NixOS/nix) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NixOS/nix) · [← Back to Misc](./README.md)</sub>

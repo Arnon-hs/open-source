@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2859** |
+| 🗂️ **Total projects** | **2899** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,13 +18,13 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1125 | [Browse →](./aiml/) |
-| 📦 **Misc** | 450 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 283 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 280 | [Browse →](./frontend/) |
-| 🔧 **DevTools** | 152 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 151 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 119 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 1136 | [Browse →](./aiml/) |
+| 📦 **Misc** | 455 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 286 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 285 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 159 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 158 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 121 | [Browse →](./crypto/) |
 | 📊 **Data** | 70 | [Browse →](./data/) |
 | 💳 **Payments** | 69 | [Browse →](./payments/) |
 | 📈 **Trading** | 46 | [Browse →](./trading/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [wshobson/agents](./orchestration/wshobson-agents.md) | ⭐ 35k | Orchestration |
-| 2 | [alam00000/bentopdf](./devopsinfra/alam00000-bentopdf.md) | ⭐ 13.1k | DevOps & Infra |
-| 3 | [mermaid-js/mermaid](./aiml/mermaid-js-mermaid.md) | ⭐ 87.9k | AI/ML |
-| 4 | [Anil-matcha/Open-Generative-AI](./aiml/anil-matcha-open-generative-ai.md) | ⭐ 12.1k | AI/ML |
-| 5 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 34.2k | Payments |
-| 6 | [lichess-org/lila](./backend/lichess-org-lila.md) | ⭐ 18.2k | Backend |
-| 7 | [is-a-dev/register](./aiml/is-a-dev-register.md) | ⭐ 10.2k | AI/ML |
-| 8 | [dream-num/univer](./aiml/dream-num-univer.md) | ⭐ 12.9k | AI/ML |
-| 9 | [microsoft/mcp-for-beginners](./orchestration/microsoft-mcp-for-beginners.md) | ⭐ 16k | Orchestration |
-| 10 | [JoeanAmier/XHS-Downloader](./backend/joeanamier-xhs-downloader.md) | ⭐ 11.1k | Backend |
+| 1 | [botpress/botpress](./orchestration/botpress-botpress.md) | ⭐ 14.7k | Orchestration |
+| 2 | [warmcat/libwebsockets](./backend/warmcat-libwebsockets.md) | ⭐ 5.3k | Backend |
+| 3 | [wshobson/agents](./orchestration/wshobson-agents.md) | ⭐ 35k | Orchestration |
+| 4 | [alam00000/bentopdf](./devopsinfra/alam00000-bentopdf.md) | ⭐ 13.1k | DevOps & Infra |
+| 5 | [mermaid-js/mermaid](./aiml/mermaid-js-mermaid.md) | ⭐ 87.9k | AI/ML |
+| 6 | [Anil-matcha/Open-Generative-AI](./aiml/anil-matcha-open-generative-ai.md) | ⭐ 12.1k | AI/ML |
+| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 34.2k | Payments |
+| 8 | [lichess-org/lila](./backend/lichess-org-lila.md) | ⭐ 18.2k | Backend |
+| 9 | [is-a-dev/register](./aiml/is-a-dev-register.md) | ⭐ 10.2k | AI/ML |
+| 10 | [dream-num/univer](./aiml/dream-num-univer.md) | ⭐ 12.9k | AI/ML |
 
 ## 🚀 How it works
 

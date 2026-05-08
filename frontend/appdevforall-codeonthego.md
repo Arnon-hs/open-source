@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 143 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 154 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `build-tools` `developer-tools` `ide` `java` `kotlin` `mobile-development` `offline-first`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
-Code on the Go is an open-source, offline-capable Integrated Development Environment (IDE) designed for building Android applications directly on Android devices. This innovative project, spearheaded by App Dev for All, empowers mobile app development without the need for a laptop or internet connection. With Code on the Go, developers can create Android apps on-the-go, anywhere, anytime.
+Code On The Go is a mobile‑first IDE that enables developers to create, edit, and compile Android applications directly on an Android device—no laptop or internet connection required. Built by the App Dev for All community, it provides a full‑featured, offline development environment for building native Android apps on‑the‑go.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/appdevforall/CodeOnTheGo) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/appdevforall/CodeOnTheGo) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 379 |
+| ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bun` `bunjs` `cli` `framework` `javascript` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Crust is an open-source CLI framework built with TypeScript for Bun, offering a composable module system for developers. This framework provides a modular structure, allowing users to easily build and customize their command-line interfaces. By leveraging Bun's capabilities, Crust enables developers to create efficient and scalable CLI applications.
+crust is a lightweight, Bun‑native command‑line framework built with a TypeScript‑first approach. It provides a modular, composable architecture that lets developers assemble CLI tools from reusable pieces while taking advantage of Bun’s fast runtime and native TypeScript support. Ideal for creating fast, maintainable developer tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/chenxin-yan/crust) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/chenxin-yan/crust) · [← Back to DevTools](./README.md)</sub>

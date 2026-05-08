@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 158 |
-| 🍴 **Forks** | 14 |
+| ⭐ **Stars** | 164 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-tools` `claude-code` `cli` `command-line` `context-window` `developer-tools` `homebrew` `llm` `output-filter` `rust` `token-optimization` `toml`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project "mpecan/tokf":
-
-Tokf is an open-source, config-driven command-line tool that optimizes performance by compressing command output before it reaches a Large Language Model (LLM) context. This allows for faster and more efficient processing of input data, reducing the overall time required for LLM tasks. By minimizing data transfer and processing time, Tokf enhances the speed and accuracy of AI/ML applications.
+mpecan/tokf is a config‑driven command‑line utility that intercepts and compresses the output of any terminal command before it is fed into a large language model’s context window, helping to stay within token limits and reduce costs. By allowing users to define custom compression rules (e.g., truncation, summarization, or pattern‑based filtering) via a simple configuration file, tokf integrates seamlessly into existing workflows and DevOps pipelines. It’s especially useful for AI‑enhanced tooling where large command outputs need to be processed efficiently by LLMs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/mpecan/tokf) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mpecan/tokf) · [← Back to AI/ML](./README.md)</sub>
