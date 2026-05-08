@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 174 |
+| ⭐ **Stars** | 176 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ardupilot` `gcs` `ground-control-station` `ground-station` `mavlink` `typescript` `vue` `widgets`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The cockpit project is an open-source, cross-platform ground control station designed for remote vehicles of all types. It offers an intuitive and highly customizable interface, allowing users to easily monitor and control their vehicles in real-time. With cockpit, users can create a tailored control experience that meets their specific needs, making it an ideal solution for a wide range of applications.
+bluerobotics/cockpit is an open‑source, cross‑platform ground control station designed for monitoring and commanding a wide range of remote vehicles, from drones to underwater robots. Its web‑based frontend offers an intuitive, highly customizable interface that runs on Windows, macOS, Linux, and browsers, allowing users to configure telemetry displays, control widgets, and mission planning tools to suit any vehicle workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/bluerobotics/cockpit) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bluerobotics/cockpit) · [← Back to Frontend](./README.md)</sub>

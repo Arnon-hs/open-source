@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21 |
+| ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-coding` `ai-coding` `ai-developer-tools` `ai-tools` `automation` `claude` `claude-code` `claude-code-agents` `claude-code-hooks` `claude-code-marketplace` `claude-code-plugins` `claude-code-tips`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The "claude-code-tips" project provides practical coding patterns for agentic coding, focusing on hooks, agents, and automation techniques. This open-source resource is built from hundreds of sessions, offering valuable insights and examples for developers working with AI/ML, frontend, and backend technologies. By leveraging this project, developers can enhance their coding skills and improve their productivity through efficient and effective coding practices.
+**Summary:**  
+*Claude‑Code‑Tips* is an open‑source collection of practical patterns and reusable snippets for building agentic coding workflows with Claude. It showcases hooks, autonomous agents, and automation techniques distilled from hundreds of real Claude coding sessions, offering ready‑to‑use examples for both frontend and backend development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/anipotts/claude-code-tips) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/anipotts/claude-code-tips) · [← Back to AI/ML](./README.md)</sub>

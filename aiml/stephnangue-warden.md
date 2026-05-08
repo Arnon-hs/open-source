@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 106 |
-| 🍴 **Forks** | 5 |
+| ⭐ **Stars** | 118 |
+| 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-auditing` `ai-compliance` `ai-governance` `aws` `azure` `credential-management` `egress-gateway` `gcp` `go` `mcp-security` `non-human-identity`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Warden is an open-source egress gateway designed for AI agents, ensuring the secure handling of API calls. It authenticates, authorizes, and audits each call, preventing unauthorized access and maintaining transparency. By separating credentials from AI agents, Warden provides a secure and auditable environment for AI operations.
+Warden is an open‑source secure gateway that enables AI agents to interact safely with enterprise systems and data sources. It provides authentication, authorization, and encrypted communication layers, ensuring that AI‑driven workflows can access internal services without compromising security or compliance. Designed for AI/ML and security teams, Warden simplifies the integration of intelligent agents into corporate environments while protecting sensitive resources.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/stephnangue/warden) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/stephnangue/warden) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `amazon-bedrock` `appsync` `aws` `aws-cdk` `content-generation` `generative-ai` `huggingface` `knowledge-base` `langchain` `llm` `opensearch`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-The AWS Generative AI CDK Constructs is an open-source project that provides pre-built, reusable AWS CDK constructs for common generative AI patterns, simplifying the development of AI applications on AWS. This project enables developers to easily orchestrate and deploy generative AI models, streamlining the process of building and scaling AI-powered solutions. By leveraging these constructs, developers can focus on building innovative AI applications without worrying about the underlying infrastructure complexities.
+AWS Generative AI CDK Constructs provide ready‑to‑use AWS CDK libraries that simplify building common generative‑AI workloads on AWS. The open‑source project includes pre‑configured constructs for orchestrating model hosting, inference pipelines, and related AI/ML services, enabling developers to quickly prototype and deploy scalable generative‑AI solutions. It’s ideal for teams looking to accelerate AI/ML infrastructure provisioning through infrastructure‑as‑code.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/awslabs/generative-ai-cdk-constructs) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/awslabs/generative-ai-cdk-constructs) · [← Back to Orchestration](./README.md)</sub>

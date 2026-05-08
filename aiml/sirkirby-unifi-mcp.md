@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 293 |
-| 🍴 **Forks** | 53 |
+| ⭐ **Stars** | 300 |
+| 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `home-automation` `mcp-server` `unifi` `unifi-access` `unifi-controller` `unifi-network` `unifi-protect`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The unifi-mcp project is an open-source initiative providing MCP (Machine Control Protocol) servers for various UniFi applications, including Network, Protect, Access, and Drive. These MCP servers enable developers to build custom integrations and solutions using the UniFi ecosystem. The project supports both frontend and backend categories, with AI/ML capabilities, and is available for community contribution and use.
+sirkirby/unifi-mcp provides open‑source MCP (Management Control Plane) servers that emulate the UniFi suite’s core services—including Network, Protect, Access, and Drive—allowing users to run self‑hosted UniFi applications without relying on Ubiquiti’s cloud. The project offers both backend APIs and a lightweight frontend UI, enabling seamless integration, custom automation, and extensibility for network monitoring, video surveillance, access control, and file storage. It’s suitable for developers and IT teams seeking a flexible, on‑premises alternative to the official UniFi cloud infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/sirkirby/unifi-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/sirkirby/unifi-mcp) · [← Back to AI/ML](./README.md)</sub>

@@ -1,6 +1,6 @@
 # ilya-zlobintsev/LACT
 
-[![Stars](https://img.shields.io/github/stars/ilya-zlobintsev/LACT?style=flat-square&color=yellow)](https://github.com/ilya-zlobintsev/LACT/stargazers) [![Forks](https://img.shields.io/github/forks/ilya-zlobintsev/LACT?style=flat-square&color=blue)](https://github.com/ilya-zlobintsev/LACT/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ilya-zlobintsev/LACT?style=flat-square&color=yellow)](https://github.com/ilya-zlobintsev/LACT/stargazers) [![Forks](https://img.shields.io/github/forks/ilya-zlobintsev/LACT?style=flat-square&color=blue)](https://github.com/ilya-zlobintsev/LACT/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Linux GPU Configuration And Monitoring Tool
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.4k |
-| 🍴 **Forks** | 112 |
+| ⭐ **Stars** | 4.7k |
+| 🍴 **Forks** | 120 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amdgpu` `gpu` `hactoberfest` `linux` `nvidia` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-LACT (Linux GPU Configuration And Monitoring Tool) is an open-source project that provides a comprehensive solution for managing and monitoring Linux GPU configurations. This tool aims to simplify the process of configuring and optimizing GPU settings, allowing users to maximize their system's performance and efficiency. With LACT, users can easily monitor and adjust their GPU settings to suit their specific needs.
+LACT (Linux GPU Configuration And Monitoring Tool) is an open‑source utility that provides real‑time visibility and control over GPU hardware on Linux systems. It aggregates information such as temperature, utilization, power draw, and clock speeds from multiple vendors, and offers a simple command‑line interface for monitoring and tweaking GPU settings. The project is designed to be lightweight, extensible, and suitable for a wide range of Linux distributions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ilya-zlobintsev/LACT) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ilya-zlobintsev/LACT) · [← Back to Misc](./README.md)</sub>

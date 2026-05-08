@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31 |
+| ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude` `codex` `developer-tools` `electron` `gemini` `git-worktrees` `ide`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Daintree is an open-source delegation environment that streamlines the development process by orchestrating AI coding agents, including Claude, Gemini, and Codex, within a unified workspace. This powerful tool integrates terminals, context injection, and workflow automation to enhance collaboration and productivity across git worktrees. By harnessing the capabilities of AI coding agents, developers can work more efficiently and effectively.
+daintree provides a unified delegation environment for orchestrating AI coding agents such as Claude, Gemini, and Codex. It lets developers spin up and manage separate AI sessions per Git worktree, offering integrated terminals, context injection, and automated workflows to streamline code generation and review. The tool is aimed at AI‑enhanced development, combining DevTools convenience with multi‑model AI coordination.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/daintreehq/daintree) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/daintreehq/daintree) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 79 |
+| ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `ai-agents` `autonomous-agents` `causal-discovery` `causal-inference` `claude` `cognitive-architecture` `cursor` `dream-cycle` `knowledge-graph` `machine-learning` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-DreamGraph is an open-source graph-first cognitive layer that enables reasoning, validation, and documentation generation through a persistent knowledge graph. It provides a scalable and flexible framework for managing complex data relationships and automating various tasks. By integrating with various tools and interfaces, DreamGraph simplifies the process of building and maintaining knowledge graphs for AI/ML and orchestration applications.
+DreamGraph is an open‑source, graph‑first cognitive platform that constructs a persistent knowledge graph and leverages it for reasoning, change validation, and documentation generation. It provides a seamless pipeline—from the underlying graph to a multi‑chain processing (MCP) engine, CLI tools, interactive dashboards, and extensible plugins—enabling orchestration of AI/ML workflows and rich frontend experiences.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/mmethodz/dreamgraph) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mmethodz/dreamgraph) · [← Back to Orchestration](./README.md)</sub>

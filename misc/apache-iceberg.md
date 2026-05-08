@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apache` `hacktoberfest` `iceberg`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-apache/iceberg is a promising open-source project. Categories: Misc. Interest score: 94/100.
+Apache Iceberg is an open‑source table format for large analytic datasets that brings reliability, performance, and evolvability to data lakes. It provides features such as schema evolution, hidden partitioning, time‑travel queries, and ACID‑compliant writes while being compatible with engines like Spark, Flink, Hive, and Trino. The project enables scalable, query‑optimizable data management across cloud and on‑premise storage systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/apache/iceberg) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/apache/iceberg) · [← Back to Misc](./README.md)</sub>

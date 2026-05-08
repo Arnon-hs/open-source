@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 627 |
-| 🍴 **Forks** | 53 |
+| ⭐ **Stars** | 635 |
+| 🍴 **Forks** | 54 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-agents` `opencode`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here is a brief summary of the hosenur/portal project:
-
-The hosenur/portal project offers a mobile-first, batteries-included web UI for SST (Server-Sent Topics) and OpenCode applications. It provides features such as Git integration, an in-browser terminal, and isolated workspaces, catering to the needs of AI/ML and frontend developers. This open-source project aims to streamline development workflows and enhance productivity.
+hosenur/portal is a mobile‑first, batteries‑included web interface built for the sst/opencode platform. It offers seamless Git integration, an in‑browser terminal, and isolated workspaces, enabling developers to code, test, and collaborate directly from any device. Ideal for AI/ML and frontend projects, the portal streamlines the development workflow with a responsive UI and built‑in tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/hosenur/portal) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/hosenur/portal) · [← Back to AI/ML](./README.md)</sub>

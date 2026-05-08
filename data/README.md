@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**74 projects** in this category.
+**75 projects** in this category.
 
 ## Projects
 
@@ -64,24 +64,25 @@
 | 54 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 1.7k | PHP | 59/100 |
 | 55 | [mmastrac/linktime](./mmastrac-linktime.md) | ⭐ 988 | Rust | 58/100 |
 | 56 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 605 | PHP | 58/100 |
-| 57 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 57/100 |
-| 58 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 472 | Swift | 57/100 |
-| 59 | [soot-oss/SootUp](./soot-oss-sootup.md) | ⭐ 785 | Java | 57/100 |
-| 60 | [NVIDIA/cuCollections](./nvidia-cucollections.md) | ⭐ 643 | Cuda | 56/100 |
-| 61 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 725 | Python | 56/100 |
-| 62 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 611 | Rust | 55/100 |
-| 63 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 55/100 |
-| 64 | [magda-io/magda](./magda-io-magda.md) | ⭐ 597 | JavaScript | 53/100 |
-| 65 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 231 | Rust | 53/100 |
-| 66 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 52/100 |
-| 67 | [project-oak/oak](./project-oak-oak.md) | ⭐ 1.5k | Rust | 52/100 |
-| 68 | [gaopengbin/geo-downloader](./gaopengbin-geo-downloader.md) | ⭐ 124 | Rust | 51/100 |
-| 69 | [mjaakko/NeoStumbler](./mjaakko-neostumbler.md) | ⭐ 445 | Kotlin | 50/100 |
-| 70 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
-| 71 | [estuary/flow](./estuary-flow.md) | ⭐ 919 | Rust | 48/100 |
-| 72 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 46/100 |
-| 73 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
-| 74 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
+| 57 | [netdisco/netdisco](./netdisco-netdisco.md) | ⭐ 864 | Perl | 57/100 |
+| 58 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 57/100 |
+| 59 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 472 | Swift | 57/100 |
+| 60 | [soot-oss/SootUp](./soot-oss-sootup.md) | ⭐ 785 | Java | 57/100 |
+| 61 | [NVIDIA/cuCollections](./nvidia-cucollections.md) | ⭐ 643 | Cuda | 56/100 |
+| 62 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 725 | Python | 56/100 |
+| 63 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 611 | Rust | 55/100 |
+| 64 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 55/100 |
+| 65 | [magda-io/magda](./magda-io-magda.md) | ⭐ 597 | JavaScript | 53/100 |
+| 66 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 231 | Rust | 53/100 |
+| 67 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 52/100 |
+| 68 | [project-oak/oak](./project-oak-oak.md) | ⭐ 1.5k | Rust | 52/100 |
+| 69 | [gaopengbin/geo-downloader](./gaopengbin-geo-downloader.md) | ⭐ 124 | Rust | 51/100 |
+| 70 | [mjaakko/NeoStumbler](./mjaakko-neostumbler.md) | ⭐ 445 | Kotlin | 50/100 |
+| 71 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
+| 72 | [estuary/flow](./estuary-flow.md) | ⭐ 919 | Rust | 48/100 |
+| 73 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 46/100 |
+| 74 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
+| 75 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
 
 ---
 

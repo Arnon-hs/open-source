@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 186 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`big-data` `biostatistical-computing` `blockchain` `cryptography` `dapps` `decentralized` `decentralized-applications` `decentralized-internet` `developer-tools` `dweb` `grid-computing` `iot`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-The Decentralized Internet project is an open-source Software Development Kit (SDK) designed to facilitate the creation of decentralized web and distributed computing applications. This library provides a comprehensive framework for developers to build and deploy decentralized systems, integrating elements of cryptocurrency, AI/ML, and developer tools. By leveraging this SDK, developers can unlock new possibilities for secure, scalable, and resilient computing on a decentralized network.
+Lonero‑Team’s **Decentralized‑Internet** SDK provides developers with a lightweight library for building decentralized web applications and distributed‑computing projects. It abstracts blockchain interactions, peer‑to‑peer networking, and AI/ML integration, enabling seamless creation of crypto‑enabled, scalable, and privacy‑preserving services. The toolkit is open‑source, well‑documented, and designed to accelerate DevTools workflows for next‑generation internet infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Lonero-Team/Decentralized-Internet) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Lonero-Team/Decentralized-Internet) · [← Back to Crypto](./README.md)</sub>

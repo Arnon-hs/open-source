@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 454 |
+| ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`business` `communication` `elixir` `goal-tracking` `kpis` `okrs` `open-source` `operations` `project-management` `react` `teams` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Operately is an open-source company operating system designed to manage and streamline business operations in a comprehensive and user-friendly manner. This innovative platform is built using frontend technologies, providing a robust and flexible solution for businesses of all sizes. By leveraging operately, organizations can optimize workflows, improve productivity, and make data-driven decisions.
+Operately is an open‑source “company operating system” that provides a web‑based platform for managing projects, tasks, and team collaboration. Built with a modern frontend stack, it offers a clean, customizable UI for tracking work, sharing updates, and aligning everyone around shared goals. The project aims to replace fragmented tools with a single, extensible solution for growing organizations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/operately/operately) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/operately/operately) · [← Back to Frontend](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-bluesky-social/social-app is a promising open-source project. Categories: Mobile. Interest score: 90/100.
+Bluesky Social is an open‑source, cross‑platform client for the Bluesky social network, offering native experiences on Web, iOS, and Android. Built with modern frameworks, it provides a clean, customizable interface for posting, following, and interacting with content while supporting the decentralized AT Protocol. The project aims to deliver a seamless, privacy‑focused social experience across mobile and web devices.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/bluesky-social/social-app) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bluesky-social/social-app) · [← Back to Mobile](./README.md)</sub>

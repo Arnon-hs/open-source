@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-development` `framework` `java` `java-ai` `java-cli` `java-frameworks` `java-libraries` `lightweight-framework` `mcp` `mcp-server` `modular-design`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Tinystruct is an open-source, lightweight Java framework for building web and CLI applications, optimized for AI integration and plugin-based architecture. This modular framework allows developers to create robust, efficient, and scalable solutions with ease, making it suitable for a wide range of applications. By leveraging tinystruct, developers can streamline their development process and focus on building innovative, AI-driven applications.
+tinystruct is a lightweight, modular Java application framework that streamlines both web and command‑line development while offering built‑in support for AI/ML integration. Its plugin‑based architecture lets developers easily extend functionality, making it simple to assemble robust, scalable back‑end and front‑end solutions. The framework is optimized for rapid development of efficient applications across a variety of domains.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/tinystruct/tinystruct) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tinystruct/tinystruct) · [← Back to AI/ML](./README.md)</sub>

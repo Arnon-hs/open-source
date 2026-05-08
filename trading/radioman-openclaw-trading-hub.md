@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 974 |
-| 🍴 **Forks** | 409 |
+| ⭐ **Stars** | 977 |
+| 🍴 **Forks** | 410 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bot` `openclaude` `openclaw` `pocket` `trading`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"OpenClaw-Trading-Hub is an open-source, AI-driven trading bot designed for Pocket Option. This free tool leverages advanced machine learning algorithms to automate trading decisions, providing users with a competitive advantage in the markets. With its open-source nature, the community can contribute to and improve the bot's performance."
+Radioman’s OpenClaw Trading Hub is an open‑source AI‑driven bot designed for automated trading on the PocketOption platform. It combines algorithmic trading strategies with machine‑learning models to generate signals and execute orders, offering a free, customizable solution for both novice and experienced traders. The project includes documentation, configuration scripts, and extensible modules for strategy development and performance monitoring.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/radioman/OpenClaw-Trading-Hub) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/radioman/OpenClaw-Trading-Hub) · [← Back to Trading](./README.md)</sub>

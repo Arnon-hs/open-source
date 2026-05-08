@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3019** |
+| 🗂️ **Total projects** | **3059** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,21 +18,21 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1204 | [Browse →](./aiml/) |
-| 📦 **Misc** | 469 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 294 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 293 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 1217 | [Browse →](./aiml/) |
+| 📦 **Misc** | 479 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 300 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 297 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 162 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 160 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 124 | [Browse →](./crypto/) |
-| 📊 **Data** | 74 | [Browse →](./data/) |
+| 🔧 **DevTools** | 162 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 125 | [Browse →](./crypto/) |
+| 📊 **Data** | 75 | [Browse →](./data/) |
 | 💳 **Payments** | 72 | [Browse →](./payments/) |
-| 📈 **Trading** | 47 | [Browse →](./trading/) |
+| 📈 **Trading** | 48 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 42 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 36 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 37 | [Browse →](./mobile/) |
 | 🔐 **Security** | 24 | [Browse →](./security/) |
+| ✨ **Design** | 9 | [Browse →](./design/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
-| ✨ **Design** | 8 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
@@ -42,8 +42,8 @@
 | 1 | [kserve/kserve](./aiml/kserve-kserve.md) | ⭐ 5.4k | AI/ML |
 | 2 | [alibaba/spring-ai-alibaba](./orchestration/alibaba-spring-ai-alibaba.md) | ⭐ 9.5k | Orchestration |
 | 3 | [zalando/postgres-operator](./data/zalando-postgres-operator.md) | ⭐ 5.2k | Data |
-| 4 | [webpack/webpack](./frontend/webpack-webpack.md) | ⭐ 65.8k | Frontend |
-| 5 | [frappe/erpnext](./aiml/frappe-erpnext.md) | ⭐ 33.7k | AI/ML |
+| 4 | [frappe/erpnext](./aiml/frappe-erpnext.md) | ⭐ 33.7k | AI/ML |
+| 5 | [webpack/webpack](./frontend/webpack-webpack.md) | ⭐ 65.8k | Frontend |
 | 6 | [botpress/botpress](./orchestration/botpress-botpress.md) | ⭐ 14.7k | Orchestration |
 | 7 | [warmcat/libwebsockets](./backend/warmcat-libwebsockets.md) | ⭐ 5.3k | Backend |
 | 8 | [wshobson/agents](./orchestration/wshobson-agents.md) | ⭐ 35k | Orchestration |

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Perl |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`application` `cpan` `netdisco` `network-monitoring` `network-visualization` `open-source` `perl` `postgresql-database` `python3`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Netdisco is a free, open-source web-based network management tool designed to simplify the discovery and management of network devices. It provides a comprehensive platform for network administrators to visualize, monitor, and troubleshoot their network infrastructure. With its user-friendly interface and customizable features, Netdisco helps streamline network operations and enhance overall network efficiency.
+Netdisco is an open‑source, web‑based network management platform that discovers, maps, and inventories devices across an enterprise network. It provides an intuitive interface for visualizing network topology, tracking IP address usage, and querying device information such as MAC addresses, VLANs, and interface statistics. Built on Perl and PostgreSQL, Netdisco integrates with SNMP and other protocols to deliver real‑time, searchable network data for administrators.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/netdisco/netdisco) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/netdisco/netdisco) · [← Back to Data](./README.md)</sub>

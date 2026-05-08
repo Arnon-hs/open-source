@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line-tool` `hl` `human` `json` `json-log` `json-logging` `json-logs` `log` `log-viewer` `logfmt` `logging`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-hl is an open-source log viewer and processor that efficiently transforms JSON logs or logfmt logs into a clear, human-readable format. This tool allows users to quickly analyze and understand log data, making it a valuable asset for development and debugging purposes. With its fast and powerful capabilities, hl streamlines log processing and enhances the productivity of developers and engineers.
+pamburus/hl is a high‑performance log viewer and processor that transforms JSON or logfmt‑encoded logs into a clean, human‑readable format. It streams logs quickly, supports filtering, color‑coded output, and customizable formatting, making debugging and analysis faster and more intuitive. Ideal for developers who need a lightweight yet powerful tool for real‑time log inspection.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/pamburus/hl) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/pamburus/hl) · [← Back to DevTools](./README.md)</sub>

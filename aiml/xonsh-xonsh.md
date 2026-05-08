@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.3k |
-| 🍴 **Forks** | 721 |
+| 🍴 **Forks** | 722 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `claude` `claude-code` `cmux` `data-engineering` `data-scientists` `devops` `devsecops` `hyper` `iterm2` `kitty` `nix`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Data · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project xonsh:
-
-Xonsh is an open-source, Python-powered shell that offers a full range of features and tools. This cross-platform shell is designed to be user-friendly and AI-friendly, making it an ideal choice for developers and data scientists. With its robust set of tools and capabilities, xonsh provides a powerful platform for a variety of applications, including AI/ML, data analysis, and security.
+Xonsh is a modern, Python‑powered command‑line shell that blends the familiarity of traditional Unix shells with the full power of the Python language, enabling users to write scripts and interactive commands using both shell syntax and Python code seamlessly. It is cross‑platform, supports advanced features such as rich tab completion, virtual environment integration, and extensibility via plugins, making it well suited for data science, AI/ML workflows, and security tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/xonsh/xonsh) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/xonsh/xonsh) · [← Back to AI/ML](./README.md)</sub>

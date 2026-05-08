@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 774 |
+| ⭐ **Stars** | 775 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`decentralized` `decentralized-web` `haven` `raspberry-pi` `self-hosted` `social-network`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Haven is a self-hostable private blogging platform that allows users to maintain control and ownership over their content. With Haven, individuals can create and manage their own personal blogs without relying on third-party services, ensuring the security and confidentiality of their online presence. This open-source project prioritizes user autonomy and data protection.
+Haven is an open‑source, self‑hosted platform for private blogging, allowing individuals or small teams to publish posts securely on their own servers. It focuses on simplicity and privacy, offering a lightweight, customizable interface without the overhead of public blogging services. The project is maintained under the “Misc” category and is suitable for anyone who wants full control over their content and data.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/havenweb/haven) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/havenweb/haven) · [← Back to Misc](./README.md)</sub>

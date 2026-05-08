@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`accommodation` `bootstrap4` `community-driven` `design` `free-software` `hospitality` `journey` `non-profit` `open-source` `opensource` `php` `sharing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Design
 
 ## 📝 Summary
 
-BeWelcome/rox is a free, open-source, and non-profit community-driven platform that enables users to share accommodations, connect with travelers, and plan meetups for their journeys. This democratic community fosters social connections and supports travelers worldwide. It is a community-driven alternative to traditional accommodation booking platforms.
+BeWelcome/rox is the open‑source platform behind BeWelcome, a free, non‑profit community that lets members offer and find accommodation, connect with travelers, and organize meet‑ups worldwide. Built as a democratic, collaborative project, it provides the design and codebase for a global hospitality network that remains fully open and community‑governed.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/BeWelcome/rox) · [← Back to Design](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/BeWelcome/rox) · [← Back to Design](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 249 |
-| 🍴 **Forks** | 101 |
+| ⭐ **Stars** | 250 |
+| 🍴 **Forks** | 103 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `data-ops` `devops-tools` `snowflake` `sql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Data · Design
 
 ## 📝 Summary
 
-The Snowflake CLI is a developer-centric, open-source command-line tool designed to simplify interactions with Snowflake databases. This tool extends SQL operations to provide a more streamlined experience for developers working with Snowflake, enhancing their productivity and efficiency. With Snowflake CLI, developers can perform a range of tasks from a terminal, making it an essential addition to any Snowflake developer's toolkit.
+Snowflake‑CLI is an open‑source command‑line interface tailored for developers who work with Snowflake. It streamlines both everyday SQL tasks and developer‑centric workflows such as schema management, data loading, and automation, providing a fast, script‑friendly alternative to the web UI. The tool integrates with standard DevOps pipelines, making Snowflake operations easy to version, test, and deploy.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/snowflakedb/snowflake-cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/snowflakedb/snowflake-cli) · [← Back to DevTools](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 139 |
+| ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `ai-agents` `anthropic` `claude-code` `clustering` `cognitive-memory` `database` `embeddings` `hnsw` `knowledge-graph` `llm` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The YantrikDB Server is an open-source cognitive memory database designed for AI agents. It consolidates duplicate information, detects inconsistencies, and automatically fades outdated knowledge through a temporal decay mechanism. This Rust-based project offers flexibility as a library, a monolithic control process (MCP) server, or a scalable HTTP cluster.
+YantrikDB is an open‑source cognitive memory database designed for AI agents, offering automatic duplicate consolidation, contradiction detection, and temporal decay to fade stale memories. Implemented in Rust and released under the AGPL, it can be used as a library, a multi‑process server (MCP), or deployed as an HTTP‑based cluster. The project fits within orchestration, AI/ML, and backend ecosystems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/yantrikos/yantrikdb-server) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/yantrikos/yantrikdb-server) · [← Back to Orchestration](./README.md)</sub>

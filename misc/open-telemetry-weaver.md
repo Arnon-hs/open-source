@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 396 |
+| ⭐ **Stars** | 400 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`codegen` `documentation` `observability` `opentelemetry` `policy` `semconv`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The open-telemetry/weaver project is an open-source tool that enables developers to create, test, and document semantic conventions for OpenTelemetry data. This facilitates consistent and standardized data modeling, ensuring seamless integration and collaboration across different systems and applications. By using OTel Weaver, developers can simplify the development and deployment of OpenTelemetry data conventions.
+Open‑Telemetry Weaver (OTel Weaver) is a developer‑friendly toolkit for creating, testing, documenting, and publishing OpenTelemetry semantic conventions. It streamlines the whole lifecycle—from defining conventions in a concise format to validating them against the spec, generating human‑readable documentation, and packaging them for deployment—so teams can maintain consistent, high‑quality telemetry data across services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/open-telemetry/weaver) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/open-telemetry/weaver) · [← Back to Misc](./README.md)</sub>
