@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 561 |
-| 🍴 **Forks** | 356 |
+| 🍴 **Forks** | 357 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`crm` `crm-system` `customer` `customer-segmentation` `django` `django-crm` `django-framework` `email-automation` `email-marketing` `marketing-analytics` `marketing-automation` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the DjangoCRM project:
-
-DjangoCRM is an open-source, highly customizable CRM and task management software designed for businesses of all sizes and freelancers. This robust application offers a range of features, including email marketing, to streamline operations and boost productivity. With its quick development capabilities, DjangoCRM is ideal for individuals and organizations seeking a scalable and adaptable solution for their business needs.
+DjangoCRM (django‑crm) is an open‑source, Django‑based platform that combines customer relationship management, task tracking, and email‑marketing tools into a single, easily extensible application. Designed for freelancers, small teams, and enterprises, it offers a customizable codebase that speeds up development and adapts to a wide range of business workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/DjangoCRM/django-crm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/DjangoCRM/django-crm) · [← Back to AI/ML](./README.md)</sub>

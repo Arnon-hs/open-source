@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | C |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cookbook` `llm` `llm-inference` `local-llm` `on-device-ai` `recipes` `voice-ai` `voice-assistant`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Picovoice/pico-cookbook project is an open-source collection of recipes for building on-device voice AI and local Large Language Models (LLMs). This resource provides developers with a wealth of knowledge and examples for deploying AI capabilities directly on devices, enhancing user experience and reducing reliance on cloud services. By leveraging pico-cookbook, developers can create more efficient and secure AI-powered applications.
+Picovoice pico‑cookbook is a curated collection of practical “recipes” that demonstrate how to build on‑device voice AI applications—including wake‑word detection, speech‑to‑text, intent parsing, and local large language model (LLM) inference—using Picovoice’s lightweight, privacy‑first SDKs. The examples showcase end‑to‑end pipelines that run entirely offline on edge hardware, providing developers with ready‑made code and guidance for deploying fast, low‑power voice assistants without relying on cloud services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Picovoice/pico-cookbook) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Picovoice/pico-cookbook) · [← Back to AI/ML](./README.md)</sub>

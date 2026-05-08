@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 454 |
+| ⭐ **Stars** | 457 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bubbletea` `charmbracelet` `cli` `ffmpeg` `go` `golang` `tui` `tui-go` `youtube-downloader` `yt-dlp` `yt-dlp-wrapper`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The xdagiz/xytz project is an open-source, text-based user interface (TUI) application for YouTube video download and playback. This tool offers a user-friendly and visually appealing way to interact with YouTube content, providing an alternative to traditional graphical user interfaces. With its TUI approach, xdagiz/xytz allows users to easily browse, download, and play YouTube videos in a command-line-like environment.
+xytz is a terminal‑based YouTube downloader and player that combines a clean, responsive TUI with fast media handling. Built with Rust and leveraging modern async libraries, it lets users search, stream, or download videos directly from the command line while offering customizable playback controls and playlist management. Ideal for developers and power users who want a lightweight, cross‑platform front‑end for YouTube content without leaving the terminal.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/xdagiz/xytz) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/xdagiz/xytz) · [← Back to Frontend](./README.md)</sub>

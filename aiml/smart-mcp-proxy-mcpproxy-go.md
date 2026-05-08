@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 209 |
+| ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `audit-logging` `bm25` `cli` `context-window` `developer-tools` `docker` `golang` `llm` `llm-tools` `local-first`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The smart-mcp-proxy/mcpproxy-go project is an open-source solution designed to supercharge AI agents by providing a secure proxy layer for AI interactions. This proxy enables safe and efficient communication between AI systems, protecting against potential risks and data breaches. By leveraging this proxy, developers can accelerate the development and deployment of AI agents with enhanced security and reliability.
+smart‑mcp‑proxy / mcpproxy‑go is an open‑source Go library that acts as a high‑performance proxy layer for AI agents, providing secure request routing, authentication, and resource‑management features. It enables developers to safely “supercharge” AI‑driven applications by handling token limits, concurrency control, and policy enforcement across both frontend and backend services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/smart-mcp-proxy/mcpproxy-go) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/smart-mcp-proxy/mcpproxy-go) · [← Back to AI/ML](./README.md)</sub>

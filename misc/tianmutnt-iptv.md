@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 337 |
+| ⭐ **Stars** | 336 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`auto-update` `cctv` `iptv` `iptv-m3u` `iptv-txt` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The TianmuTNT/iptv project is a self-hosted IPTV source, aiming to provide users with a customizable and open-source solution for streaming multimedia content. This project is ideal for individuals seeking to host their own IPTV channels, allowing for flexibility and control over the content served. By utilizing the open-source nature of the project, users can modify and extend its features to suit their specific needs.
+TianmuTNT/iptv is a lightweight, personal‑use repository that aggregates IPTV stream sources for convenient playback. It provides a curated list of channel URLs and related configuration files, aimed at users who want a simple, self‑hosted solution for accessing live TV over the internet. The project is open‑source and organized under the Misc category for easy customization and extension.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/TianmuTNT/iptv) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/TianmuTNT/iptv) · [← Back to Misc](./README.md)</sub>

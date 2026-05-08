@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 561 |
-| 🍴 **Forks** | 59 |
+| ⭐ **Stars** | 562 |
+| 🍴 **Forks** | 60 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-search-engine` `artificial-intelligence` `generative-ai` `gpu-accelerated` `information-retrieval` `llm` `llm-inference` `metasearch` `metasearch-engine` `perplexity` `perplexity-ai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-MiniSearch is an open-source, browser-based web-searching platform that leverages AI and machine learning capabilities to provide a minimalist and efficient search experience. Built on top of WebLLM, Wllama, and SearXNG technologies, MiniSearch offers users a robust AI assistant directly within their browser. The project's demo is available at https://felladrin-minisearch.hf.space.
+MiniSearch is a lightweight, browser‑based web‑search platform that integrates an AI assistant powered by WebLLM, Wllama, and the SearXNG search engine. All processing runs client‑side, letting users perform searches and interact with the AI without server dependencies. A live demo is available at https://felladrin‑minisearch.hf.space.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/felladrin/MiniSearch) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/felladrin/MiniSearch) · [← Back to AI/ML](./README.md)</sub>

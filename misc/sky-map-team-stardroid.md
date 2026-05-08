@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 265 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Stardroid is a free, open-source astronomy app that uses your smartphone's location and camera to provide a virtual star map in real-time. Originally developed as Google Sky Map, this project was open-sourced in 2012 and allows users to explore the night sky with interactive features and educational content. It is a versatile tool for stargazers and astronomy enthusiasts of all levels.
+Stardroid is an open‑source Android app that turns your device into a portable planetarium, letting users explore and identify stars, constellations, planets, and deep‑sky objects in real time using GPS and sensor data. Originally released as Google Sky Map and open‑sourced in 2012, the project continues to be maintained by the sky‑map‑team, offering offline star charts, customizable overlays, and support for a wide range of astronomical data sources.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/sky-map-team/stardroid) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/sky-map-team/stardroid) · [← Back to Misc](./README.md)</sub>

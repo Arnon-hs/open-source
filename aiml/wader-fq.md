@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 246 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`binary` `cli` `decode` `go` `golang` `hexdump` `jq` `json` `pcap` `query` `repl` `tls`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Wader/fq is an open-source project that provides a versatile set of tools and decoders for working with binary and text formats. Inspired by the popular jq JSON processor, it offers a powerful yet simple way to parse, transform, and manipulate binary data in various formats. This project is particularly useful for developers and researchers working with artificial intelligence, machine learning, and other data-intensive applications.
+wader/fq is an open‑source utility that brings the power of jq’s query language to both binary and textual data formats. It provides a flexible language and a collection of decoders that let developers inspect, transform, and extract information from complex binary files (e.g., images, archives, network packets) as easily as they would with JSON. Ideal for developers and data engineers, fq streamlines debugging, analysis, and automation tasks across a wide range of binary protocols.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/wader/fq) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wader/fq) · [← Back to AI/ML](./README.md)</sub>

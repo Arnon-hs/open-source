@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 782 |
-| 🍴 **Forks** | 121 |
+| ⭐ **Stars** | 769 |
+| 🍴 **Forks** | 120 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-safety` `ai-safety` `benchmark` `jailbreak` `large-language-models` `llm-safety` `red-teaming` `safety-evaluation`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the wuyoscar/ISC-Bench project:
-
-ISC-Bench is an open-source project that explores the concept of Internal Safety Collapse (ISC) in Large Language Models (LLMs) and AI agents. By inducing ISC, this project aims to transform LLMs into sensitive data generators, providing a unique perspective on AI safety and robustness. This research has implications for improving the reliability and security of AI systems in various applications.
+**ISC‑Bench** is an open‑source framework that evaluates how easily a large language model or AI agent can be coaxed into leaking sensitive information, effectively turning it into a data‑exfiltration tool. By providing a suite of prompts, test cases, and metrics, the project helps researchers and developers assess and improve the internal safety mechanisms of AI systems against privacy‑focused attacks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/wuyoscar/ISC-Bench) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wuyoscar/ISC-Bench) · [← Back to AI/ML](./README.md)</sub>

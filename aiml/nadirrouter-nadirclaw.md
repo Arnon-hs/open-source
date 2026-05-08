@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 449 |
-| 🍴 **Forks** | 56 |
+| ⭐ **Stars** | 454 |
+| 🍴 **Forks** | 55 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-cost-reduction` `ai-router` `claude-code` `codex` `cost-optimization` `gemini` `llm` `llm-gateway` `llm-proxy` `llm-router` `model-routing`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the NadirRouter/NadirClaw project:
-
-NadirRouter/NadirClaw is an open-source AI router and cost optimizer that automatically routes simple prompts to cost-effective local models and complex ones to premium models, significantly reducing AI API costs by up to 70%. This self-hosted solution is compatible with OpenAI models and allows users to save money on AI services while maintaining seamless functionality. By bypassing middleman services, NadirRouter/NadirClaw provides a drop-in proxy for popular AI models like Claude Code, Codex, and Cursor.
+NadirRouter (NadirClaw) is an open‑source, self‑hosted router and cost‑optimizer for large language models. It automatically forwards simple prompts to cheap or local models and routes more complex requests to premium services (e.g., Claude, Codex, Cursor) via an OpenAI‑compatible proxy, cutting AI API expenses by 40‑70% without relying on third‑party intermediaries. It’s designed for developers needing seamless backend integration and AI cost control.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/NadirRouter/NadirClaw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NadirRouter/NadirClaw) · [← Back to AI/ML](./README.md)</sub>

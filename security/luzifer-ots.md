@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 752 |
+| ⭐ **Stars** | 753 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aes256` `encryption` `golang` `one-time-secret`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Security
 
 ## 📝 Summary
 
-Here's a brief summary for the Luzifer/ots project:
-
-Luzifer/ots is an open-source, browser-based platform for secure secret sharing using One-Time-Secrets (OTS) technology. This project employs symmetric 256-bit AES encryption to ensure the confidentiality and integrity of sensitive information. By utilizing OTS, users can securely share secrets with others while minimizing the risk of unauthorized access.
+Luzifer/ots is an open‑source, web‑based one‑time secret sharing platform that encrypts data client‑side using 256‑bit AES symmetric encryption before it ever reaches the server. By generating a single-use URL that self‑destructs after the secret is retrieved (or after a configurable expiration), it enables secure, privacy‑preserving transmission of sensitive information. The project is focused on security and can be self‑hosted for complete control over the secret‑handling workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Luzifer/ots) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Luzifer/ots) · [← Back to Security](./README.md)</sub>

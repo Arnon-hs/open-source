@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 345 |
-| 🍴 **Forks** | 34 |
+| ⭐ **Stars** | 346 |
+| 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-tools` `cli` `cli-app` `code-search` `developer-tool` `developer-tools` `doc-search` `embeddings` `graphrag` `knowledge-graph` `lancedb`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Muvon/octocode is an open-source project that provides a semantic code searcher and codebase utility, empowering developers with efficient and intelligent code navigation tools. This project utilizes AI and ML capabilities to simplify codebase exploration, making it easier for developers to locate specific code snippets, functions, and classes within their projects. By leveraging machine learning algorithms, Muvon/octocode streamlines the coding experience and enhances productivity.
+Muvon/octocode is an open‑source tool that leverages AI/ML techniques to provide semantic code search and a suite of utilities for navigating and managing large codebases. By understanding the meaning behind code snippets rather than relying on simple keyword matching, it helps developers quickly locate relevant implementations, dependencies, and patterns across projects. The platform is designed as a backend service and integrates with common development workflows, making it a powerful addition to any dev‑toolchain.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Muvon/octocode) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Muvon/octocode) · [← Back to AI/ML](./README.md)</sub>

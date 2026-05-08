@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 374 |
+| 🍴 **Forks** | 375 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `flag` `option`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The apple/swift-argument-parser project provides a straightforward and type-safe argument parsing solution for Swift developers. This open-source library simplifies the process of parsing command-line arguments, allowing users to create robust and efficient command-line interfaces with a focus on safety and clarity. By leveraging Swift's type system, it enables developers to define argument structures that are both intuitive and self-documenting.
+The **Swift Argument Parser** library provides a clean, type‑safe way to define and parse command‑line arguments in Swift applications. By leveraging Swift’s strong typing and declarative syntax, it lets developers declare options, flags, and subcommands as plain Swift structs or enums, automatically generating usage help and validation. Ideal for building robust CLI tools, the project is open‑source and integrates seamlessly with Swift’s ecosystem and development workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/apple/swift-argument-parser) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/apple/swift-argument-parser) · [← Back to AI/ML](./README.md)</sub>

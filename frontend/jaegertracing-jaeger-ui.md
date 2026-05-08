@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 710 |
+| 🍴 **Forks** | 713 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apm` `distributed-tracing` `hacktoberfest` `jaeger` `javascript` `monitoring` `opentracing` `react` `reactjs` `site-reliability-engineering` `sre` `trace`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-jaegertracing/jaeger-ui is a promising open-source project. Categories: Frontend. Interest score: 71/100.
+Jaeger UI is a lightweight, web‑based frontend for visualizing and interacting with tracing data collected by Jaeger. It provides an intuitive interface for searching, filtering, and drilling down into distributed traces, enabling developers to quickly diagnose performance bottlenecks and service dependencies. Built with modern JavaScript frameworks, the project is open‑source and easily extensible for custom observability workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/jaegertracing/jaeger-ui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jaegertracing/jaeger-ui) · [← Back to Frontend](./README.md)</sub>

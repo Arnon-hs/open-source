@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `beacondb` `geolocation` `mozilla` `wardriving`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · Mobile
 
 ## 📝 Summary
 
-NeoStumbler is an open-source stumbler application designed to contribute data to geolocation services. This project aims to provide a new tool for gathering location data, which can be used to improve mapping and navigation capabilities. By leveraging user contributions, NeoStumbler seeks to enhance the accuracy and richness of geospatial information.
+NeoStumbler is an open‑source Android application designed to collect and forward Wi‑Fi, cellular and GPS signals to geolocation services, helping improve location accuracy for maps and navigation platforms. It provides a lightweight, user‑friendly interface for passive “stumbling” of nearby network data, supporting configurable uploads and privacy controls. The project targets developers and contributors interested in crowdsourced location data and mobile data analytics.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/mjaakko/NeoStumbler) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mjaakko/NeoStumbler) · [← Back to Data](./README.md)</sub>

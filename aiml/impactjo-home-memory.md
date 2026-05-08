@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`building` `claude` `csharp` `dotnet` `firebird` `home-documentation` `home-inventory` `home-inventory-manager` `house` `mcp` `mcp-server` `model-context-protocol`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The impactjo/home-memory project is an open-source, MCP (Machine Control Protocol) server that enables your AI assistant to recall and access information about your home. This innovative system allows your AI to remember various details about your living space, providing a more personalized and convenient experience. By leveraging AI/ML technology, the project enhances the functionality of your AI assistant in managing your home seamlessly.
+impactjo/home-memory is an open‑source MCP (Memory Control Protocol) server designed to give AI assistants a persistent, detailed understanding of a user's home environment. By storing and retrieving contextual data about rooms, devices, routines, and occupants, it enables seamless, personalized interactions across both frontend interfaces and backend services. The project bridges AI/ML capabilities with full‑stack integration, allowing developers to build smart home applications that truly “remember” everything.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/impactjo/home-memory) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/impactjo/home-memory) · [← Back to AI/ML](./README.md)</sub>

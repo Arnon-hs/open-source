@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `anthropic` `chat` `chatbot` `chatgpt` `claude` `gemini` `gemini-ai` `grok` `llm` `multiprovider` `openai`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the FranciscoMoretti/chat-js project:
-
-FranciscoMoretti/chat-js is an open-source, production-ready AI chat platform that allows developers to create customized chat applications. Based on the former Sparka AI, this project serves as a starting point for building and personalizing AI-powered chat solutions. With its open-source nature, users can extend and modify the platform to suit their needs.
+FranciscoMoretti/chat-js is a production‑ready, open‑source AI chat platform that provides a solid, extensible foundation for building custom conversational experiences. Originally released as Sparka AI, the project bundles modern language‑model integrations, a sleek web UI, and plug‑in architecture, allowing developers to quickly launch and tailor AI‑driven chat applications for a variety of use cases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/FranciscoMoretti/chat-js) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/FranciscoMoretti/chat-js) · [← Back to AI/ML](./README.md)</sub>

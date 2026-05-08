@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 453 |
-| 🍴 **Forks** | 179 |
+| 🍴 **Forks** | 180 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gateway` `hacktoberfest` `hpc` `hpc-applications`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The OSC/ondemand project offers a seamless and open-access platform for supercomputing via the web, enabling users to harness high-performance computing capabilities interactively. This web-based interface simplifies access to powerful computing resources, making it easier for researchers and developers to leverage AI and ML applications. By providing a user-friendly, web-based interface to high-performance computing, OSC/ondemand aims to democratize access to supercomputing resources.
+OSC/ondemand is an open‑source platform that brings high‑performance computing (HPC) resources to users through a web‑based interface, enabling interactive, on‑demand access to supercomputers without the need for complex local installations. It integrates job scheduling, data management, and visualization tools—often powered by AI/ML workflows—into a seamless, browser‑driven environment, making advanced computational capabilities more accessible to researchers and developers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/OSC/ondemand) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/OSC/ondemand) · [← Back to AI/ML](./README.md)</sub>

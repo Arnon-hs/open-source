@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `agentic-ai` `ai-agents` `ai-automation` `autonomous-agents` `claude` `crewai-alternative` `langgraph-alternative` `laravel` `livewire` `llm-workflow` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here is a brief summary of the project:
-
-Agent Fleet-O is an open-source AI agent orchestration platform that provides a self-hosted mission control system for autonomous multi-agent systems. This platform enables users to create and manage complex workflows using visual DAG (directed acyclic graph) visualizations and integrates with over 450 Machine Control Protocol (MCP) tools. With human-in-the-loop approvals and support for leading AI models, Agent Fleet-O empowers users to deploy and manage AI agents in a flexible and scalable manner.
+Escapeboy’s **agent‑fleet‑o** is a self‑hosted orchestration platform that lets you build, run, and monitor autonomous multi‑agent systems through visual DAG workflows and over 450 built‑in MCP tools. It supports major LLM providers—including Claude, GPT‑4o, Gemini, Ollama, and Codex—and offers human‑in‑the‑loop approval steps for safe, controllable AI operations. Ideal for backend and AI/ML teams needing a flexible, open‑source mission‑control hub for complex agent deployments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/escapeboy/agent-fleet-o) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/escapeboy/agent-fleet-o) · [← Back to Orchestration](./README.md)</sub>

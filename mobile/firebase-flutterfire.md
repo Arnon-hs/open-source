@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dart` `firebase` `flutter` `google`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-Firebase/flutterfire is an open-source project that provides a collection of Firebase plugins for Flutter apps. These plugins enable seamless integration of Firebase services, allowing developers to easily add features such as authentication, cloud storage, and real-time data synchronization to their mobile applications. With flutterfire, developers can focus on building innovative Flutter apps without worrying about the complexities of Firebase configuration.
+Firebase FlutterFire is an open‑source suite of officially maintained plugins that bring Firebase’s backend services—such as Authentication, Firestore, Analytics, Cloud Messaging, and more—directly into Flutter applications. The library offers a consistent, idiomatic Dart API, seamless integration with Flutter’s reactive framework, and comprehensive documentation to help developers quickly add real‑time databases, authentication, crash reporting, and other cloud features to mobile apps.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/firebase/flutterfire) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/firebase/flutterfire) · [← Back to Mobile](./README.md)</sub>

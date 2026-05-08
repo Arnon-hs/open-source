@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | YAML |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`flux` `gitops` `kubernetes` `kubesearch` `mise` `renovate` `selfhosted` `talos` `taskfile`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The onedr0p/home-ops project is an open-source HomeOps platform that leverages Kubernetes and GitOps using Flux to simplify the management of home automation systems. This platform enables users to effortlessly manage and orchestrate their home automation solutions using a modern, scalable, and highly configurable architecture. With a focus on ease of use and automation, home-ops is designed to make home management a breeze for users of all technical levels.
+**onedr0p/home-ops** is an open‑source, community‑maintained collection of Kubernetes manifests, Helm charts, and GitOps tooling (Flux) that automates the deployment and management of a self‑hosted home lab. It provides a “wife‑approved” set of services—ranging from media servers and networking tools to monitoring and backup solutions—designed to run reliably on low‑cost hardware while embracing modern DevOps practices. The repo serves as a reproducible blueprint for anyone looking to run a secure, scalable, and declaratively managed home infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/onedr0p/home-ops) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/onedr0p/home-ops) · [← Back to AI/ML](./README.md)</sub>

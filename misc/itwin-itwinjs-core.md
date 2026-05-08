@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`autodesk` `bentley` `bim` `digital-twin` `imodel` `itwin` `monorepo` `nodejs` `rush` `sqlite` `typescript` `webgl`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the iTwin/itwinjs-core project:
-
-The iTwin/itwinjs-core project is a monorepo that hosts the iTwin.js Library, a collection of open-source modules for building robust and scalable web applications. This library provides a suite of tools and APIs for developers to create interactive, data-driven web experiences. By utilizing iTwin.js, developers can build rich, immersive applications that integrate with various data sources and services.
+iTwin/itwinjs-core is a monorepo that houses the core libraries of iTwin.js, an open‑source platform for building digital twins and infrastructure engineering applications. It provides a collection of reusable TypeScript modules, utilities, and APIs that enable developers to create, visualize, and interact with complex engineering data in web and desktop environments. The repository is organized as a set of packages with shared tooling, documentation, and testing infrastructure to streamline contributions and integration across the iTwin ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/iTwin/itwinjs-core) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/iTwin/itwinjs-core) · [← Back to Misc](./README.md)</sub>

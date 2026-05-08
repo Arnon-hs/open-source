@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 158 |
+| ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `finance` `malliavin-calculus` `quant` `quantitative-finance` `rust` `simulation` `statistics` `stochastic` `stochastic-processes`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · AI/ML · Design
 
 ## 📝 Summary
 
-The stochastic-rs library is an open-source Rust project that provides a high-performance framework for simulating and analyzing stochastic processes in quantitative finance. This library is designed to support the development of accurate and efficient models for complex financial scenarios, leveraging Rust's performance capabilities. It offers a powerful toolset for researchers, analysts, and practitioners in the field of quant finance and AI/ML.
+stochastic‑rs is an open‑source Rust crate that provides high‑performance tools for simulating and analyzing stochastic processes commonly used in quantitative finance. It offers a collection of efficient algorithms and data structures for modeling random walks, diffusion processes, and other probabilistic models, enabling fast back‑testing, risk assessment, and research workflows. The library is geared toward traders, quants, and developers building AI/ML‑driven trading systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/rust-dd/stochastic-rs) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rust-dd/stochastic-rs) · [← Back to Trading](./README.md)</sub>
