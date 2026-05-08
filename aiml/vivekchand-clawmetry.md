@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 285 |
-| 🍴 **Forks** | 48 |
+| ⭐ **Stars** | 287 |
+| 🍴 **Forks** | 49 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `clawmetry` `dashboard` `monitoring` `observability` `openclaw` `opentelemetry` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the vivekchand/clawmetry project:
-
-Clawmetry is an open-source, real-time observability dashboard designed to provide visibility into the decision-making process of OpenClaw AI agents. This project allows users to see their agents think, making it easier to understand and optimize AI-driven decisions. By offering a transparent view into AI operations, Clawmetry facilitates the development of more effective and reliable AI systems.
+Clawmetry provides a real‑time observability dashboard for OpenClaw AI agents, letting developers watch the internal decision‑making process of their agents as it happens. By visualizing agent thoughts, actions, and state transitions, the tool makes debugging, monitoring, and performance tuning of AI agents more transparent and efficient. It’s an open‑source solution aimed at improving transparency and control over AI/ML workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/vivekchand/clawmetry) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/vivekchand/clawmetry) · [← Back to AI/ML](./README.md)</sub>

@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**39 projects** in this category.
+**40 projects** in this category.
 
 ## Projects
 
@@ -41,12 +41,13 @@
 | 31 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 55/100 |
 | 32 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 55/100 |
 | 33 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 55/100 |
-| 34 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 398 | Go | 53/100 |
-| 35 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 53/100 |
-| 36 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 52/100 |
-| 37 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
-| 38 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
-| 39 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
+| 34 | [netxms/netxms](./netxms-netxms.md) | ⭐ 353 | C++ | 53/100 |
+| 35 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 398 | Go | 53/100 |
+| 36 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 53/100 |
+| 37 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 52/100 |
+| 38 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
+| 39 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
+| 40 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
 
 ---
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gallery` `hosting` `images` `self-hosted` `share-image`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Slink is an open-source, self-hosted image sharing service that allows users to host and share images privately on their own infrastructure. This platform provides a secure and customizable solution for individuals and organizations to manage their image collections without relying on third-party services. By hosting Slink, users maintain control over their data and can tailor the platform to meet their specific needs.
+Slink is a lightweight, self‑hosted image‑sharing platform that lets users upload, organize, and serve photos directly from their own server. Designed for simplicity and privacy, it provides a clean web interface and API for easy integration with blogs, forums, or personal projects, while keeping all data under the user’s control.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/andrii-kryvoviaz/slink) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/andrii-kryvoviaz/slink) · [← Back to Misc](./README.md)</sub>

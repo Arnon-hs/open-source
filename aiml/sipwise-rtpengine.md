@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 936 |
-| 🍴 **Forks** | 425 |
+| ⭐ **Stars** | 937 |
+| 🍴 **Forks** | 428 |
 | 💻 **Language** | C |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The sipwise/rtpengine project is an open-source media proxy designed for Kamailio, a popular open-source SIP server. This project provides a scalable and efficient solution for managing real-time communication through advanced routing and proxying of RTP (Real-time Transport Protocol) media streams. By leveraging AI/ML capabilities, sipwise/rtpengine helps optimize the performance and reliability of SIP-based communication systems.
+The **sipwise/rtpengine** project provides a high‑performance media proxy that intercepts, forwards, and manipulates RTP streams for SIP servers such as Kamailio. It enables features like NAT traversal, codec transcoding, and RTP packet filtering while preserving low latency and scalability, making it ideal for large‑scale VoIP deployments. The open‑source implementation is written in C and integrates tightly with Kamailio’s routing logic via a dedicated control interface.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/sipwise/rtpengine) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/sipwise/rtpengine) · [← Back to AI/ML](./README.md)</sub>

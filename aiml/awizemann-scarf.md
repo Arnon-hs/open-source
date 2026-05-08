@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 399 |
-| 🍴 **Forks** | 20 |
+| ⭐ **Stars** | 423 |
+| 🍴 **Forks** | 25 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `gui` `hermes` `macos` `macos-app` `swift` `swiftui` `terminal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The scarf project is an open-source, native macOS GUI that provides a comprehensive interface for interacting with the Hermes AI agent. This multi-window, multi-server application allows users to manage and monitor their AI agent across both local and remote servers over SSH connections, offering features such as chat, dashboard, sessions, memory, cron, and more control panel options.
+**awizemann/scarf** is an open‑source native macOS and iOS client for the Hermes AI agent, offering a multi‑window interface that can connect to both local and remote Hermes servers (via SSH). It provides a full suite of tools—including chat, dashboards, session management, memory browsing, cron scheduling, and an MCP console—making it a comprehensive front‑ and back‑end solution for interacting with Hermes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/awizemann/scarf) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/awizemann/scarf) · [← Back to AI/ML](./README.md)</sub>

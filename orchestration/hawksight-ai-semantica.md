@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `agentic-ai` `ai-agents` `ai-infrastructure` `context-graph` `context-management` `data-infrastructure` `developer-tools` `graph-analytics` `graph-modeling` `graphrag` `knowledge-engineering`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the Semantica project:
-
-Semantica is an open-source framework for constructing semantic layers, context graphs, and decision intelligence systems that provide transparent explanations and provenance. This project enables developers to build explainable AI and ML models, fostering trust and accountability in complex decision-making processes. By leveraging Semantica's capabilities, users can create data-driven systems with a deeper understanding of their underlying logic and outcomes.
+Hawksight‑AI/semantica is an open‑source framework designed to construct semantic layers, context graphs, and decision‑intelligence systems that prioritize explainability and data provenance. It provides orchestration tools and AI/ML components for integrating and visualizing knowledge graphs, while also offering front‑end utilities for interactive exploration and debugging of the underlying reasoning processes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Hawksight-AI/semantica) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Hawksight-AI/semantica) · [← Back to Orchestration](./README.md)</sub>

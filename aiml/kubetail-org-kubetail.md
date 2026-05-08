@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cluster` `dashboard` `devops` `kubernetes` `logging` `monitoring` `observability` `private` `real-time`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the kubetail project:
-
-Kubetail is an open-source, real-time logging dashboard for Kubernetes that allows users to view logs in a terminal or a browser, regardless of their environment. This versatile tool can be run on desktops, clusters, or within Docker containers, making it an ideal solution for developers and DevOps teams. With kubetail, users can easily access and analyze Kubernetes logs in a convenient and accessible manner.
+Kubetail is an open‑source, real‑time logging dashboard designed for Kubernetes environments. It lets you stream and filter container logs instantly, either directly in a terminal or via a web UI, and can be deployed anywhere—from a local desktop to a Kubernetes cluster or Docker container. Ideal for DevOps and infrastructure teams, Kubetail simplifies troubleshooting and monitoring of distributed applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/kubetail-org/kubetail) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kubetail-org/kubetail) · [← Back to AI/ML](./README.md)</sub>

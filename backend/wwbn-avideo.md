@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`avideo` `avideo-platform` `encoder` `free` `free-software` `media` `media-player` `media-server` `mediamanager` `open-source` `opensource` `social-features`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-AVideo Platform is an open-source project that allows users to create their own broadcast networks. It functions as an Online Video Platform (OVP) and provides the backend infrastructure for managing and distributing video content.
+WWBN/AVideo is an open‑source broadcasting platform that lets you build and manage your own video streaming network, supporting both over‑the‑air (OAVP) and over‑the‑internet (OVP) delivery models. It provides a full‑stack backend for ingest, transcoding, storage, and distribution, enabling customizable live and on‑demand channels with user management, analytics, and monetization features. The project is designed for developers who need a self‑hosted, extensible solution for large‑scale video broadcasting.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/WWBN/AVideo) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/WWBN/AVideo) · [← Back to Backend](./README.md)</sub>

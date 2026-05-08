@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 683 |
+| ⭐ **Stars** | 684 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`book` `books` `booktracker` `goodreads` `kotlin` `librarything` `reading` `reading-list` `self-hosted` `to-read` `tracker` `vue`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Marketing
 
 ## 📝 Summary
 
-The bayang/jelu project is an open-source, self-hosted book tracking platform that allows users to manage their read and to-read lists. This platform provides a convenient way for book enthusiasts to organize and keep track of their favorite books, making it easy to discover new titles and revisit old favorites. By hosting it on their own servers, users can maintain complete control over their data and experience.
+bayang/jelu is an open‑source, self‑hosted web application that lets users catalog books they’ve read and maintain a “to‑read” list. Featuring a clean, responsive frontend, it provides easy browsing, status tracking, and simple marketing‑friendly sharing options for personal book collections.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/bayang/jelu) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bayang/jelu) · [← Back to Frontend](./README.md)</sub>

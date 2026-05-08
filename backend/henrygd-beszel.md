@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21.6k |
-| 🍴 **Forks** | 768 |
+| ⭐ **Stars** | 21.7k |
+| 🍴 **Forks** | 775 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`homelab` `monitoring` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Data · DevOps/Infra
 
 ## 📝 Summary
 
-The beszel project is an open-source, lightweight server monitoring tool that provides historical data and real-time insights, including Docker stats. It offers customizable alerts to ensure timely detection of system issues. With its focus on simplicity and ease of use, beszel caters to the needs of DevOps and infrastructure teams.
+Henri GD’s **Beszel** is a lightweight, open‑source server‑monitoring tool that continuously collects and stores performance metrics—including Docker container statistics—and presents them through a simple web UI. It supports historical data retention, customizable alerts, and easy integration into DevOps pipelines, making it ideal for backend and infrastructure teams that need real‑time insights without heavyweight monitoring solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/henrygd/beszel) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/henrygd/beszel) · [← Back to Backend](./README.md)</sub>

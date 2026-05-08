@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 874 |
-| 🍴 **Forks** | 46 |
+| ⭐ **Stars** | 889 |
+| 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`browser-history` `go` `golang` `history` `index` `mcp` `mcp-server` `personal-search` `personal-search-engine` `privacy` `search` `search-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The asciimoo/hister project is an open-source initiative that enables users to create and host their own custom search engine. This search engine is designed to be simple, customizable, and free from the constraints of commercial search platforms. With hister, users can index their own content or use it as a starting point for a more comprehensive search solution.
+asciimoo/hister is an open‑source backend service that provides a lightweight, customizable search engine for indexing and querying documents. It offers a simple API for ingesting data, performing full‑text searches, and retrieving ranked results, making it easy to integrate search capabilities into web applications or internal tools. The project emphasizes minimal dependencies and extensibility, allowing developers to tailor the engine to their specific use cases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/asciimoo/hister) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/asciimoo/hister) · [← Back to Backend](./README.md)</sub>

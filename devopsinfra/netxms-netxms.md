@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 351 |
-| 🍴 **Forks** | 67 |
+| ⭐ **Stars** | 353 |
+| 🍴 **Forks** | 68 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ethernet` `ethernet-ip` `lorawan` `modbus` `monitoring` `mqtt` `network` `network-monitoring` `network-topology` `netxms` `nms` `snmp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-NetXMS is an open-source monitoring and management platform designed for network and infrastructure monitoring. It provides a comprehensive solution for real-time monitoring, alerting, and reporting, allowing users to efficiently manage and troubleshoot their IT infrastructure. With its customizable architecture and wide range of plugins, NetXMS offers a flexible and scalable solution for organizations of all sizes.
+NetXMS is an open‑source, enterprise‑grade monitoring and management platform for networks, servers, and other IT infrastructure. It provides real‑time performance data, automated fault detection, and customizable dashboards, supporting both agent‑based and agentless monitoring across heterogeneous environments. Designed for DevOps and infrastructure teams, NetXMS offers scalable, cross‑platform deployment with extensive APIs and integration capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/netxms/netxms) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/netxms/netxms) · [← Back to DevOps & Infra](./README.md)</sub>

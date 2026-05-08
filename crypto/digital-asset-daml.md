@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 891 |
-| 🍴 **Forks** | 254 |
+| 🍴 **Forks** | 255 |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bazel` `daml` `distributed-ledger` `dlt` `privacy-by-design` `sdk` `smart-contract` `workflow-automation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Design
 
 ## 📝 Summary
 
-The digital-asset/daml project is an open-source implementation of the Daml smart contract language, enabling developers to create, manage, and execute secure digital agreements. Daml facilitates the creation of digital assets and enables businesses to automate complex workflows, reducing the risk of errors and increasing efficiency. This project serves as a foundation for building scalable, secure, and transparent distributed systems.
+digital-asset/daml is an open‑source platform that provides the Daml smart‑contract language for building secure, distributed applications on any ledger or blockchain. It abstracts away the complexities of underlying ledger technologies, enabling developers to write portable, declarative contracts that can be executed across a wide range of blockchain and database environments. The project also includes tools, SDKs, and runtime components that streamline the creation, testing, and deployment of decentralized finance, supply‑chain, and other crypto‑driven solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/digital-asset/daml) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/digital-asset/daml) · [← Back to Crypto](./README.md)</sub>

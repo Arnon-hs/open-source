@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `foss` `go` `markdown` `memo` `microblog` `note-taking` `notecard` `own-your-data` `react` `self-hosted` `social-network`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Memos is an open-source, self-hosted note-taking tool designed for rapid and efficient note capture. Built on Markdown-native architecture, it is a lightweight and customizable solution that allows users to take full ownership of their data. This tool is suitable for individuals seeking a simple, yet powerful note-taking experience without relying on cloud-based services.
+Memos (github.com/usememos/memos) is an open‑source, self‑hosted note‑taking application designed for fast, on‑the‑fly capture of ideas. It stores notes in plain Markdown, offering a lightweight, fully customizable front‑end while handling data persistence and deployment through built‑in DevOps/infra tooling. Suitable for personal productivity or team knowledge bases, Memos gives you complete control over your content and infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/usememos/memos) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/usememos/memos) · [← Back to Frontend](./README.md)</sub>

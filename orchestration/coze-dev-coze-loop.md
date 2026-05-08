@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 754 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-evaluation` `agent-observability` `agentops` `ai` `coze` `eino` `evaluation` `langchain` `llm-observability` `llmops` `monitoring`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Coze-loop is an open-source, next-generation AI Agent Optimization Platform that streamlines the entire lifecycle of AI agent development, from creation to evaluation and monitoring. This platform addresses common challenges in AI development by providing a comprehensive suite of tools for debugging, testing, and optimization. With Coze-loop, AI developers can focus on creating high-quality agents without the burdens of manual process management.
+Cozeloop is an open‑source platform that streamlines the entire lifecycle of AI agents—from code development and debugging to systematic evaluation and real‑time monitoring. By offering integrated orchestration tools and performance analytics, it helps teams build, test, and maintain robust AI agents more efficiently. The project targets developers who need end‑to‑end management of AI/ML workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/coze-dev/coze-loop) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/coze-dev/coze-loop) · [← Back to Orchestration](./README.md)</sub>

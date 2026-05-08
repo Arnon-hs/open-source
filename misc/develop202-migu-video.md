@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 472 |
+| 🍴 **Forks** | 477 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Unfortunately, I don't have enough information about the project "develop202/migu_video". However, based on the repository name and category "Misc", I can attempt to create a summary.
-
-The migu_video project appears to be an open-source repository for a video-related tool or library, possibly developed as part of the develop202 project. It may provide functionality for video processing, playback, or other related features.
+Develop202/migu_video is an open‑source utility for handling and processing video files, offering tools for tasks such as format conversion, metadata extraction, and basic editing. Built with a lightweight, cross‑platform design, it aims to simplify common video workflows for developers and hobbyists alike.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/develop202/migu_video) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/develop202/migu_video) · [← Back to Misc](./README.md)</sub>

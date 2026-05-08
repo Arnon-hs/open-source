@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 432 |
+| ⭐ **Stars** | 1.8k |
+| 🍴 **Forks** | 433 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asset-management` `building` `dashboard` `dataplatform` `device-management` `edge-computing` `energy` `energy-management` `energy-monitor` `fleet-management` `fleet-telematics` `iot`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Data
 
 ## 📝 Summary
 
-OpenRemote is a 100% open-source IoT platform that empowers users to integrate their connected devices, infuse them with intelligence, and build customized applications tailored to their specific needs. This comprehensive platform enables seamless data management and offers a wide range of possibilities for IoT innovation. With OpenRemote, users can unlock the full potential of their IoT ecosystem and drive innovative solutions.
+OpenRemote is a fully open‑source IoT platform that lets you connect and manage a wide range of devices, enrich the data with analytics and automation, and create custom web or mobile applications on top of it. Built with a modern frontend stack and robust data services, it provides a flexible, extensible framework for building end‑to‑end IoT solutions without vendor lock‑in.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/openremote/openremote) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/openremote/openremote) · [← Back to Frontend](./README.md)</sub>

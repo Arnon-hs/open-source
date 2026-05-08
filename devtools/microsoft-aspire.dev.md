@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 148 |
-| 🍴 **Forks** | 70 |
+| ⭐ **Stars** | 151 |
+| 🍴 **Forks** | 74 |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aspire` `aspire-dashboard` `cli` `cloud-native` `csharp` `distributed` `hacktoberfest` `javascript` `polyglot` `python` `toolkit`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Aspire.dev is an open-source project that serves as the official website for all things aspire.dev, providing a centralized hub for users to access valuable resources and information. This project falls under the category of DevTools, indicating its utility for developers in their daily work. By contributing to and utilizing aspire.dev, developers can enhance their productivity and stay up-to-date with the latest tools and best practices.
+The **aspire.dev** repository hosts the source code for the official website of the Aspire ecosystem, a collection of Microsoft‑backed developer tools and libraries for building modern cloud‑native applications. It provides the static site generation, documentation, tutorials, and community resources that showcase Aspire’s components, best‑practice guides, and integration patterns, all delivered as an open‑source, easily extensible web platform.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/microsoft/aspire.dev) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/microsoft/aspire.dev) · [← Back to DevTools](./README.md)</sub>

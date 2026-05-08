@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api-testing` `chaos-engineering` `dev-proxy` `developer-tools` `development` `devtools` `hacktoberfest` `http` `microsoft-365` `microsoft-graph` `mock-server` `openapi`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The dotnet/dev-proxy project is an open-source tool that allows developers to simulate and test API failures, throttling, and chaos from the command line. This tool enables users to inject realistic failures and disruptions into their API interactions, helping to improve the resilience and reliability of their applications. By using dev-proxy, developers can replicate real-world scenarios and ensure their systems can handle unexpected issues.
+dotnet/dev-proxy is an open‑source command‑line tool that lets developers inject simulated API failures, throttling, latency, and other chaos engineering scenarios into their services. It works across any platform that supports .NET, making it easy to test resiliency, error handling, and performance under adverse conditions without modifying application code. Ideal for backend and DevOps workflows, it helps teams validate robustness and improve system reliability.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/dotnet/dev-proxy) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dotnet/dev-proxy) · [← Back to AI/ML](./README.md)</sub>

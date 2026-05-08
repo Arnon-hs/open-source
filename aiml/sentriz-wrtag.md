@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 364 |
+| ⭐ **Stars** | 366 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`beets` `betanin` `cli` `gazelle` `golang` `music-library` `music-tagging` `music-tools` `musicbrainz` `musicbrainz-picard` `taglib` `web`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the sentriz/wrtag project:
-
-Wrtag is an open-source, AI-powered music tagging and organisation tool that leverages MusicBrainz to efficiently identify and categorize music files. This fast automated system simplifies music management by accurately assigning metadata, including artist and track information. With wrtag, music enthusiasts and professionals alike can streamline their music libraries and focus on enjoying their collections.
+sentriz/wrtag is a fast, automated tool for tagging and organizing music libraries using data from MusicBrainz. Leveraging AI/ML techniques, it scans your collection, identifies tracks, and applies accurate metadata and tags in seconds, streamlining collection management for both casual listeners and power users. The project is open‑source and designed as a lightweight DevTool for seamless integration into existing workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/sentriz/wrtag) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/sentriz/wrtag) · [← Back to AI/ML](./README.md)</sub>

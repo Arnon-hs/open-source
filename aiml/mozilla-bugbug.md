@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 331 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `developer-tools` `llm` `machine-learning` `ml` `python` `software-engineering`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The mozilla/bugbug project is an open-source platform designed to facilitate Machine Learning (ML) projects in the field of Software Engineering. It provides a comprehensive framework for developers to build, train, and deploy ML models that can improve the quality and efficiency of software development processes. By leveraging bugbug, developers can unlock insights and automation in areas such as bug tracking, code analysis, and software testing.
+Mozilla Bugbug is an open‑source platform that applies machine‑learning techniques to software‑engineering data, enabling researchers and developers to build, train, and evaluate models for tasks such as bug triage, defect prediction, and code analysis. By providing a curated dataset, reproducible pipelines, and integration with Mozilla’s development tools, Bugbug streamlines the creation of AI‑driven dev‑tools and accelerates experimentation in the SE‑ML space.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mozilla/bugbug) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mozilla/bugbug) · [← Back to AI/ML](./README.md)</sub>

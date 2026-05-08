@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `rust` `rustlang` `toolchain`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The rust-lang/rustup project is an open-source toolchain installer for the Rust programming language, designed to simplify the process of setting up and managing Rust development environments. It enables users to easily install and update Rust compilers, libraries, and other tools, streamlining the development workflow. This installer is a crucial component for any Rust project, providing a standardized and efficient way to manage dependencies.
+rustup is the official installer and version manager for the Rust programming language, allowing developers to easily download, configure, and switch between multiple Rust toolchains and associated components. It streamlines setup across platforms, handles updates, and provides commands for managing nightly, beta, and stable releases, making Rust development more accessible and reproducible.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rust-lang/rustup) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rust-lang/rustup) · [← Back to AI/ML](./README.md)</sub>

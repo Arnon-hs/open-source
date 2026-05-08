@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.2k |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`csharp` `java` `javascript` `javascript-applications` `mcp` `mcp-client` `mcp-security` `mcp-server` `model` `model-context-protocol` `modelcontextprotocol` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The 'microsoft/mcp-for-beginners' project is an open-source curriculum that provides a comprehensive introduction to the fundamentals of Model Context Protocol (MCP) through practical, cross-language examples in various programming languages. This curriculum is designed for developers, offering hands-on techniques for building modular, scalable, and secure AI workflows from setup to orchestration. By mastering MCP, developers can leverage its capabilities to create efficient and robust AI solutions.
+A beginner‑friendly, open‑source curriculum that teaches the core concepts of the Model Context Protocol (MCP) using hands‑on, cross‑language examples in .NET, Java, TypeScript, JavaScript, Rust, and Python. It guides developers through practical techniques for creating modular, scalable, and secure AI workflows—from session initialization to full‑service orchestration—making it a go‑to resource for AI/ML orchestration and frontend integration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/microsoft/mcp-for-beginners) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/microsoft/mcp-for-beginners) · [← Back to Orchestration](./README.md)</sub>

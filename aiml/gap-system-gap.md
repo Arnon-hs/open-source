@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 956 |
-| 🍴 **Forks** | 182 |
+| ⭐ **Stars** | 960 |
+| 🍴 **Forks** | 184 |
 | 💻 **Language** | GAP |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`algebra` `computer-algebra` `computer-algebra-system` `discrete-mathematics` `group-theory` `math` `mathematics` `representation-theory`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The GAP system is a free, open-source software for computational discrete algebra, providing a comprehensive environment for group theory and related areas of mathematics. It offers a wide range of tools and algorithms for computing with groups, rings, fields, and other algebraic structures, making it a valuable resource for researchers and students in the field. With its extensive library of packages and user community, GAP supports a vast array of applications in mathematics, computer science, and related disciplines.
+gap-system/gap is the primary development repository for **GAP** (Groups, Algorithms, Programming), an open‑source computer algebra system specialized in computational discrete algebra such as group theory, ring theory, and combinatorics. It provides a rich library of algebraic algorithms, an extensible language, and a package ecosystem that enables researchers and developers to implement and experiment with new mathematical methods. Although rooted in pure mathematics, GAP’s algorithmic capabilities are increasingly leveraged in AI/ML pipelines that require symbolic reasoning and algebraic feature extraction.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/gap-system/gap) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/gap-system/gap) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`application` `binding` `css` `declarative-ui` `desktop` `framework` `graphical-user-interface` `graphics` `gui` `reactive` `rust` `skia`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Vizia is an open-source, declarative GUI library developed in Rust, designed to provide a simple and efficient way to create graphical user interfaces. This library allows users to define UI components using a concise and expressive syntax, making it ideal for building high-quality desktop applications. By leveraging Rust's performance and safety features, Vizia aims to deliver fast and reliable GUI development.
+Vizia is a lightweight, declarative GUI toolkit for Rust that lets developers build responsive, native user interfaces using a component‑based, data‑driven approach. By leveraging Rust’s safety guarantees and a simple, JSX‑like syntax, it abstracts away low‑level windowing details while providing reactive state management and theming out of the box. Ideal for front‑end applications, Vizia enables rapid UI prototyping and production‑ready interfaces without sacrificing performance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/vizia/vizia) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/vizia/vizia) · [← Back to Frontend](./README.md)</sub>

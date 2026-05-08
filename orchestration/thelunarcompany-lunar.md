@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `api-proxy` `mcp` `mcp-client` `mcp-gateway` `mcp-security` `mcp-server` `mcp-servers` `rate-limit` `throttling` `visibility`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The Lunar project is an open-source, native MCP (Multi-Cloud Platform) gateway that provides a secure and governed interface for managing and orchestrating cloud resources. This agent-based gateway enables seamless integration and automation across multiple cloud environments, ensuring efficient governance and security. By leveraging Lunar, users can streamline their cloud operations and improve overall system reliability.
+Lunar is an open‑source, agent‑native MCP (Message Control Protocol) gateway designed to streamline governance and security across distributed systems. It provides a unified orchestration layer that integrates AI/ML capabilities with backend services, enabling fine‑grained policy enforcement, secure communication, and automated workflow management. By acting as a central hub for agents, Lunar simplifies the deployment and monitoring of complex, security‑focused architectures.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/TheLunarCompany/lunar) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/TheLunarCompany/lunar) · [← Back to Orchestration](./README.md)</sub>

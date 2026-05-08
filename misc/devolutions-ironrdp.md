@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 196 |
+| 🍴 **Forks** | 198 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`rdp` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Devolutions/IronRDP is an open-source Rust implementation of the Microsoft Remote Desktop Protocol (RDP), providing a secure and customizable alternative for remote desktop connections. This project enables developers to harness the power of RDP within their applications, offering a wide range of features and functionalities. By utilizing the IronRDP library, users can build robust and efficient remote desktop solutions.
+Devolutions /IronRDP is an open‑source Rust library that implements Microsoft’s Remote Desktop Protocol (RDP), enabling developers to create RDP clients or integrate remote‑desktop functionality into their applications. By leveraging Rust’s safety and performance guarantees, IronRDP provides a modern, cross‑platform foundation for building secure and efficient remote‑desktop solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Devolutions/IronRDP) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Devolutions/IronRDP) · [← Back to Misc](./README.md)</sub>

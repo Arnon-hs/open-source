@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 244 |
-| 🍴 **Forks** | 17 |
+| 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude-code` `cli` `click` `fastapi` `makefile` `mcp` `python` `task-management` `task-runner` `terminal` `terminal-app` `textual`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Taskdog is an open-source, keyboard-only terminal task manager that optimizes schedules for maximum efficiency using intelligent algorithms. This intuitive tool eliminates the need for manual task organization and dragging, allowing users to focus on their work. By leveraging AI/ML capabilities, Taskdog streamlines task management, making it a valuable resource for individuals seeking to boost productivity.
+Kohei‑Wada/taskdog is a keyboard‑driven terminal task manager that automatically optimizes your schedule using AI‑powered heuristics, eliminating the need for drag‑and‑drop or manual micromanagement. It provides a clean, text‑based interface for creating, prioritizing, and tracking tasks while intelligently adjusting deadlines and dependencies in the background. The project combines frontend (terminal UI) and backend (AI/ML scheduling engine) components, making it a lightweight yet powerful productivity tool for developers and power users.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Kohei-Wada/taskdog) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Kohei-Wada/taskdog) · [← Back to AI/ML](./README.md)</sub>
