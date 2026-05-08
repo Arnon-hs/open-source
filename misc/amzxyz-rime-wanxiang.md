@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dicts` `ime` `input-method` `pinyin` `rime` `rime-config` `rime-settings` `rime-wanxiang` `schema` `wanxiang`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Wanxiang Pinyin is an open-source project that aims to provide a comprehensive typing experience rivaling those of major companies, built on top of the Rime ecosystem. It comes with a large vocabulary and AI-assisted vector word library, as well as a built-in grammar model, to facilitate seamless and efficient typing. The project also offers a PRO version with advanced features, including support for seven types of assistive codes.
+**Rime Wanxiang** is an open‑source input method plugin for the Rime engine that implements the “万象拼音” (Wanxiang Pinyin) scheme. It streamlines the core algorithm, delivering a modern, data‑driven candidate selection experience while keeping the user interface clean and responsive. Community support is available via two QQ groups (11033572 and 11631066).
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/amzxyz/rime_wanxiang) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/amzxyz/rime_wanxiang) · [← Back to Misc](./README.md)</sub>

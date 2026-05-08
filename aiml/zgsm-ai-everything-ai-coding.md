@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 117 |
+| ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-rules` `ai` `ai-coding` `awsome-lists` `developer-tools` `mcp-servers` `prompts-template`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-This open-source project, "everything-ai-coding," is a comprehensive collection of AI programming resources. It aggregates and curates a wide range of tools and assets, including MCP Servers, Skills, Rules, and Prompts, which are updated regularly. Users can easily install these resources with a single command, making it a valuable DevTools for AI and machine learning development.
+A curated collection of programming‑focused AI extensions, including MCP servers, skills, rules, and prompts, with weekly indexed updates and one‑click installation. It streamlines the setup and management of AI‑assisted coding tools for developers. The project targets AI/ML, backend, and dev‑tool workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/zgsm-ai/everything-ai-coding) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/zgsm-ai/everything-ai-coding) · [← Back to AI/ML](./README.md)</sub>

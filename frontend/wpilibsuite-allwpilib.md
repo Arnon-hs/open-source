@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 706 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cscore` `hal` `ntcore` `roborio` `wpilibc` `wpilibj`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The wpilibsuite/allwpilib project is the official repository for WPILibJ and WPILibC, providing a comprehensive suite of tools for developing autonomous robotics systems. This open-source project is a crucial resource for teams working with the FIRST Robotics Competition (FRC), offering a wide range of libraries, frameworks, and utilities to simplify the development process. By providing a unified platform, WPILib enables teams to focus on building innovative robots and competing at the highest level.
+The **wpilibsuite/allwpilib** repository is the official source for WPILibJ (Java) and WPILibC (C/C++)—the core libraries used to program robots for the FIRST Robotics Competition. It provides a comprehensive, open‑source framework that includes hardware abstraction, control algorithms, simulation tools, and extensive documentation to help teams develop, test, and deploy robot code efficiently.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/wpilibsuite/allwpilib) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wpilibsuite/allwpilib) · [← Back to Frontend](./README.md)</sub>

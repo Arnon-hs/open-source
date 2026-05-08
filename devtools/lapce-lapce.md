@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`code-editor` `developer-tools` `rust` `text-editor` `vim`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Lapce is a high-performance, open-source code editor built with Rust, designed to provide a lightning-fast and powerful development experience. This versatile editor is tailored for developers who need a seamless and efficient coding environment, with a focus on speed, stability, and feature-rich functionality. With its cutting-edge architecture, Lapce aims to elevate the coding experience to new heights.
+Lapce is a high-performance, open‑source code editor built in Rust, offering a lightning‑fast, responsive experience for developers. It combines modern UI design with powerful features such as extensible plugins, built‑in language server support, and seamless multi‑cursor editing. Ideal for anyone seeking a robust, customizable development environment across platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/lapce/lapce) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/lapce/lapce) · [← Back to DevTools](./README.md)</sub>

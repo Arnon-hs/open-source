@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.1k |
+| ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `algorithmic-trading` `backtesting` `fintech` `llm` `mcp` `multi-agent` `python` `quantitative-finance` `trading`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Vibe-Trading is an open-source project that aims to provide users with a personalized trading agent, leveraging AI and ML technologies to enhance trading experiences. This project, also known as HKUDS/Vibe-Trading, combines trading and orchestration capabilities to offer users a sophisticated and adaptive trading solution. By harnessing the power of AI and ML, Vibe-Trading strives to provide users with data-driven insights and informed decision-making tools to navigate the trading landscape.
+HKUDS/Vibe‑Trading is an open‑source, AI‑powered personal trading agent that automates strategy execution, risk management, and order orchestration across multiple markets. By integrating machine‑learning models with a modular orchestration framework, it enables users to design, test, and deploy custom trading algorithms with real‑time monitoring and adaptive decision‑making. The project targets developers and quantitative traders who want a flexible, extensible platform for building intelligent, automated trading solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/HKUDS/Vibe-Trading) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/HKUDS/Vibe-Trading) · [← Back to Trading](./README.md)</sub>

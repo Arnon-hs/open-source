@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.1k |
-| 🍴 **Forks** | 375 |
+| ⭐ **Stars** | 6.2k |
+| 🍴 **Forks** | 378 |
 | 💻 **Language** | QML |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dwl` `go` `hyprland` `labwc` `mangowc` `niri` `quickshell` `sway` `theme` `tiling-window-manager` `wayland`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-DankMaterialShell is an open-source desktop shell designed for Wayland compositors, built with the Quickshell framework and the Go programming language. Optimized for various compositor frameworks, including niri, hyprland, sway, MangoWC, labwc, and MiracleWM, it offers a high-performance desktop experience. This project combines AI/ML capabilities with a user-friendly frontend, making it an attractive choice for developers seeking to enhance their desktop environments.
+AvengeMedia’s **DankMaterialShell** is a lightweight, customizable desktop shell for Wayland compositors, built with Quickshell and Go. It provides a polished, Material‑design‑inspired UI that is specially optimized for popular compositors such as Niri, Hyprland, Sway, MangoWC, Labwc, and MiracleWM, making it easy to deploy a consistent look and feel across different Wayland environments. The project targets both AI/ML‑enhanced workflows and modern front‑end development, offering a flexible foundation for developers to extend and personalize their desktop experience.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/AvengeMedia/DankMaterialShell) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/AvengeMedia/DankMaterialShell) · [← Back to AI/ML](./README.md)</sub>

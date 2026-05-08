@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 271 |
-| 🍴 **Forks** | 103 |
+| ⭐ **Stars** | 274 |
+| 🍴 **Forks** | 104 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `education` `llm` `teaching-assistant`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The ai-shifu project is an open-source initiative that enables users to interact with AI and receive answers to their queries through simple typing. This user-friendly interface allows individuals to engage in a question-and-answer session with AI, facilitating learning and exploration of various topics. By leveraging AI capabilities, ai-shifu aims to democratize access to knowledge and make it more accessible to a broader audience.
+ai‑shifu is an open‑source chatbot that lets you create a personal AI tutor: simply type a question or a topic and the system generates clear, instructional answers as if a teacher were guiding you. Built on modern AI/ML models, it offers an easy‑to‑use interface for on‑the‑fly learning, making AI‑driven tutoring accessible to developers and educators alike.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ai-shifu/ai-shifu) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ai-shifu/ai-shifu) · [← Back to AI/ML](./README.md)</sub>

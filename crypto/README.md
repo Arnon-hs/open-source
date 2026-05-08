@@ -2,18 +2,18 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**92 projects** in this category.
+**93 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 100/100 |
-| 2 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 100/100 |
-| 3 | [guanzhi/GmSSL](./guanzhi-gmssl.md) | ⭐ 6k | C | 100/100 |
-| 4 | [PrivateBin/PrivateBin](./privatebin-privatebin.md) | ⭐ 8.3k | PHP | 100/100 |
-| 5 | [OpenBB-finance/OpenBB](./openbb-finance-openbb.md) | ⭐ 67.1k | Python | 100/100 |
-| 6 | [Superalgos/Superalgos](./superalgos-superalgos.md) | ⭐ 5.5k | JavaScript | 100/100 |
+| 1 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 100/100 |
+| 2 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 100/100 |
+| 3 | [PrivateBin/PrivateBin](./privatebin-privatebin.md) | ⭐ 8.3k | PHP | 100/100 |
+| 4 | [guanzhi/GmSSL](./guanzhi-gmssl.md) | ⭐ 6k | C | 100/100 |
+| 5 | [Superalgos/Superalgos](./superalgos-superalgos.md) | ⭐ 5.5k | JavaScript | 100/100 |
+| 6 | [OpenBB-finance/OpenBB](./openbb-finance-openbb.md) | ⭐ 67.1k | Python | 100/100 |
 | 7 | [ccxt/ccxt](./ccxt-ccxt.md) | ⭐ 42.3k | Python | 100/100 |
 | 8 | [lightningnetwork/lnd](./lightningnetwork-lnd.md) | ⭐ 8.1k | Go | 100/100 |
 | 9 | [foundry-rs/foundry](./foundry-rs-foundry.md) | ⭐ 10.3k | Rust | 100/100 |
@@ -91,15 +91,16 @@
 | 81 | [dappros/ethora](./dappros-ethora.md) | ⭐ 530 | JavaScript | 55/100 |
 | 82 | [wecode-ai/Wegent](./wecode-ai-wegent.md) | ⭐ 552 | Python | 55/100 |
 | 83 | [Merit-Systems/x402scan](./merit-systems-x402scan.md) | ⭐ 333 | TypeScript | 54/100 |
-| 84 | [randomwalkhan/Short-Term-Reversal-Strategy](./randomwalkhan-short-term-reversal-strategy.md) | ⭐ 355 | Jupyter Notebook | 53/100 |
-| 85 | [MystenLabs/fastcrypto](./mystenlabs-fastcrypto.md) | ⭐ 307 | Rust | 53/100 |
-| 86 | [YichengYang-Ethan/oracle3](./yichengyang-ethan-oracle3.md) | ⭐ 189 | Python | 52/100 |
-| 87 | [renegade-fi/renegade](./renegade-fi-renegade.md) | ⭐ 250 | Rust | 52/100 |
-| 88 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 49/100 |
-| 89 | [near/near-cli-rs](./near-near-cli-rs.md) | ⭐ 142 | Rust | 47/100 |
-| 90 | [pawurb/mevlog-rs](./pawurb-mevlog-rs.md) | ⭐ 200 | Rust | 45/100 |
-| 91 | [ReamLabs/ream](./reamlabs-ream.md) | ⭐ 140 | Rust | 42/100 |
-| 92 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
+| 84 | [ChainSafe/forest](./chainsafe-forest.md) | ⭐ 695 | Rust | 53/100 |
+| 85 | [randomwalkhan/Short-Term-Reversal-Strategy](./randomwalkhan-short-term-reversal-strategy.md) | ⭐ 355 | Jupyter Notebook | 53/100 |
+| 86 | [MystenLabs/fastcrypto](./mystenlabs-fastcrypto.md) | ⭐ 307 | Rust | 53/100 |
+| 87 | [YichengYang-Ethan/oracle3](./yichengyang-ethan-oracle3.md) | ⭐ 189 | Python | 52/100 |
+| 88 | [renegade-fi/renegade](./renegade-fi-renegade.md) | ⭐ 250 | Rust | 52/100 |
+| 89 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 49/100 |
+| 90 | [near/near-cli-rs](./near-near-cli-rs.md) | ⭐ 142 | Rust | 47/100 |
+| 91 | [pawurb/mevlog-rs](./pawurb-mevlog-rs.md) | ⭐ 200 | Rust | 45/100 |
+| 92 | [ReamLabs/ream](./reamlabs-ream.md) | ⭐ 140 | Rust | 42/100 |
+| 93 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
 
 ---
 

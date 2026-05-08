@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arrow` `big-data` `dataframe` `datafusion` `olap` `python` `query-engine` `rust` `sql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Apache DataFusion is an open-source SQL query engine that enables efficient execution of SQL queries against various data sources. It provides a scalable and flexible platform for querying data, allowing users to write SQL queries that can be executed against a wide range of data formats and storage systems. By leveraging DataFusion, developers can create robust data query solutions that meet the demands of complex data analysis and processing.
+Apache DataFusion is an open‑source, in‑memory SQL query engine written in Rust that enables fast, scalable analytics on structured data. It provides a modern, extensible execution framework supporting ANSI‑SQL, push‑down optimizations, and native integration with Arrow data formats, making it suitable for building data‑processing pipelines, interactive dashboards, and analytics services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/apache/datafusion) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/apache/datafusion) · [← Back to Data](./README.md)</sub>

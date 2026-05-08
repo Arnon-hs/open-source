@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 798 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gui` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The toga project is an open-source, Python-native GUI toolkit that provides a unified interface for building GUI applications across various operating systems. It offers a native look and feel on Windows, macOS, and Linux, making it a versatile choice for developers. With toga, you can write GUI code once and deploy it across different platforms, streamlining your development process.
+Toga is an open‑source, pure‑Python GUI toolkit that lets developers build native user interfaces for multiple operating systems (Windows, macOS, Linux, iOS, and Android) from a single codebase. By wrapping each platform’s native widgets, it provides a consistent Python API while delivering the look and feel of truly native applications. Toga is part of the BeeWare suite, enabling Python developers to create cross‑platform desktop and mobile apps without relying on external runtimes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/beeware/toga) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/beeware/toga) · [← Back to Frontend](./README.md)</sub>

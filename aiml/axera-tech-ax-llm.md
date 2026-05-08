@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`axera` `edge-computing` `gemma2` `huggingface` `internvl2` `llama3` `llm` `minicpm` `minicpm-v` `qwen2` `transformer` `vlm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The ax-llm project is an open-source initiative that focuses on deploying Large Language Models (LLMs) on AXera's AI chips, enabling efficient and scalable AI processing. This project aims to bridge the gap between AI research and hardware development, pushing the boundaries of AI performance and accessibility. By leveraging AXera's specialized AI chips, ax-llm facilitates the widespread adoption of LLMs in various industries and applications.
+AX-LLM is an open‑source framework for deploying large language models (LLMs) on AXera AI chips, enabling efficient inference with hardware‑accelerated performance. It provides tools, scripts, and reference implementations that simplify model conversion, quantization, and runtime integration for edge and embedded AI applications. The project targets developers looking to leverage AXera’s specialized processors for low‑latency, power‑efficient LLM workloads.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/AXERA-TECH/ax-llm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/AXERA-TECH/ax-llm) · [← Back to AI/ML](./README.md)</sub>

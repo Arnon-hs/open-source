@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 552 |
-| 🍴 **Forks** | 72 |
+| ⭐ **Stars** | 561 |
+| 🍴 **Forks** | 73 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `ai-agents` `ai-assisted` `assistant` `official`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the CountBot project:
-
-CountBot is a lightweight, open-source AI Agent designed with Chinese users in mind, offering compatibility with various platforms and ecosystems, including OpenClaw Skills. This project leverages a domestic large model and provides coding plans for developers. It integrates with multiple messaging platforms, including WeChat, Weibo, and more.
+CountBot is a lightweight, open‑source AI agent tailored for Chinese users, offering seamless integration with domestic large‑model coding plans and compatibility with the OpenClaw Skills ecosystem. It supports a wide range of communication platforms—including WeChat ClawBot, Weibo, Feishu, DingTalk, QQ, XiaoZhi AI, Telegram, and DeepSeek‑V4—making it a versatile orchestration tool for AI/ML workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/countbot-ai/CountBot) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/countbot-ai/CountBot) · [← Back to Orchestration](./README.md)</sub>

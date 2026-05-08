@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude-code` `codex` `data-context-layer` `data-memory` `data-processing` `harness-engineering` `knowledge-base` `mlops` `multimodal` `pydantic` `unstructured-data`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The Datachain project is an open-source initiative that provides a data context layer for unstructured data types, including images, video, sensor data, text, and PDFs. This platform enables the efficient management and analysis of diverse data formats, facilitating the integration of artificial intelligence and machine learning capabilities. By providing a standardized framework, Datachain aims to simplify data processing and enhance the overall value of unstructured data.
+DataChain provides a typed, version‑controlled data layer that lets AI agents work with rich, multimodal datasets—including images, video, documents, and tables—as a unified “memory” of operational context. By treating datasets as first‑class, versioned objects, it simplifies data provenance, retrieval, and updating for machine‑learning workflows, enabling agents to reason over consistent, reproducible data snapshots.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/datachain-ai/datachain) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/datachain-ai/datachain) · [← Back to AI/ML](./README.md)</sub>

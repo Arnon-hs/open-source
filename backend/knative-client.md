@@ -1,6 +1,6 @@
 # knative/client
 
-[![Stars](https://img.shields.io/github/stars/knative/client?style=flat-square&color=yellow)](https://github.com/knative/client/stargazers) [![Forks](https://img.shields.io/github/forks/knative/client?style=flat-square&color=blue)](https://github.com/knative/client/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/knative/client?style=flat-square&color=yellow)](https://github.com/knative/client/stargazers) [![Forks](https://img.shields.io/github/forks/knative/client?style=flat-square&color=blue)](https://github.com/knative/client/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Knative developer experience, docs, reference Knative CLI implementation
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 382 |
+| ⭐ **Stars** | 383 |
 | 🍴 **Forks** | 274 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `client` `kubernetes` `serverless`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Knative/client is an open-source project that focuses on enhancing the developer experience for Knative, a platform for building scalable and serverless applications. The project provides a reference implementation of the Knative Command-Line Interface (CLI), along with comprehensive documentation and resources. Its goal is to simplify the development and deployment process of Knative applications.
+knative/client is the official command‑line interface for Knative, providing developers with a streamlined experience for building, deploying, and managing serverless workloads on Kubernetes. It bundles comprehensive documentation, reference implementations, and DevOps‑focused utilities that simplify tasks such as creating services, configuring eventing, and inspecting resources, making it an essential backend tool for Knative development and operations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/knative/client) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/knative/client) · [← Back to Backend](./README.md)</sub>

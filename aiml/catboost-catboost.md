@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`big-data` `catboost` `categorical-features` `coreml` `cuda` `data-mining` `data-science` `decision-trees` `gbdt` `gbm` `gpu` `gpu-computing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-catboost/catboost is a promising open-source project. Categories: AI/ML, Data. Interest score: 100/100.
+CatBoost is an open‑source gradient‑boosting library that builds high‑performance decision‑tree ensembles for ranking, classification, regression, and many other machine learning tasks. It offers fast, scalable training on both CPU and GPU across Python, R, Java, and C++ interfaces, with built‑in handling of categorical features and robust overfitting control. The project is widely used for production‑grade AI/ML solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/catboost/catboost) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/catboost/catboost) · [← Back to AI/ML](./README.md)</sub>

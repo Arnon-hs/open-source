@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`accessibility` `agentic-ai` `agentic-web` `ai` `ai-agents` `autonomous-agents` `browser-automation` `browser-extension` `chrome-extension` `deep-linking` `dom` `dom-agent`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The rover project is an open-source, DOM-native SDK that enables any web interface to be transformed into an AI agent, capable of interacting with both humans and machines. This AI agent can perform actions in near real-time, without the need for screenshots or virtual machines. As a result, rover can be integrated into various applications, including websites, Chrome extensions, and Electron apps.
+Rover (rtrvr‑ai/rover) is an open‑source SDK that transforms any web interface—whether a website, Chrome extension, Electron app, or similar—into an AI‑driven agent capable of interacting with the DOM directly. By operating natively on the page’s DOM, it enables sub‑second actions without relying on screenshots, virtual machines, or external automation tools, making it fast, lightweight, and easy to integrate for both human‑focused and machine‑focused workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/rtrvr-ai/rover) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rtrvr-ai/rover) · [← Back to AI/ML](./README.md)</sub>

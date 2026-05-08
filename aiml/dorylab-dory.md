@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 158 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 160 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `clickhouse` `clickhouse-ui` `data-studio` `database` `database-client` `database-gui` `database-management` `database-tools` `dbeaver-alternative` `developer-tools` `mysql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The dory project is an open-source platform that provides a comprehensive AI-native SQL workspace for modern databases. It offers a range of features, including SQL Copilot for automated code suggestions, a schema-aware editor for efficient database development, and a database chat for seamless communication with databases. This integrated workspace streamlines database operations, making it a valuable tool for developers and database administrators.
+dory is an AI‑native SQL workspace that brings together a schema‑aware editor, a SQL Copilot, conversational database chat, and a suite of operational tools for modern databases. It streamlines development and data operations by providing intelligent code assistance and real‑time insights within a single, user‑friendly interface. Ideal for developers and data engineers seeking AI‑enhanced productivity in their SQL workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/dorylab/dory) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dorylab/dory) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 374 |
+| ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-agents` `deepfake` `llm` `mcp` `mcp-server` `nlp` `ocr` `open-source` `open-source-ai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The MakeMoneyWithAI project is an open-source collection of AI initiatives that provide users with a range of income-generating opportunities. This repository offers a comprehensive list of projects and ideas that leverage Artificial Intelligence and Machine Learning to create profitable ventures. By utilizing these open-source projects, individuals can easily explore and monetize AI-based applications.
+GaryLab’s **MakeMoneyWithAI** is a curated collection of open‑source AI and machine learning projects specifically chosen for their potential to generate revenue quickly and with minimal overhead. The repository groups ready‑to‑deploy models, APIs, and backend tools—ranging from automated content creation to predictive analytics—that developers can integrate into commercial products or services. By providing clear documentation and deployment guides, it helps users turn cutting‑edge AI capabilities into profitable applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/garylab/MakeMoneyWithAI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/garylab/MakeMoneyWithAI) · [← Back to AI/ML](./README.md)</sub>

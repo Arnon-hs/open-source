@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 189 |
+| ⭐ **Stars** | 191 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-assistant` `anthropic-claude` `mcp-client` `model-context-protocol` `multi-agent-systems` `terminal-app` `tool-use`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-AgentCrew is an open-source chat application that leverages a multi-agents system, enabling seamless integration with various models and MCP (Multi-Cloud Platform) technologies. This innovative project streamlines chat functionality while providing flexibility and scalability for developers to build and deploy AI-powered applications. By utilizing a multi-agents system, AgentCrew facilitates the creation of complex chat experiences with ease.
+AgentCrew is an open‑source chat platform that orchestrates multiple AI agents, allowing each participant to run on different language models and to communicate through a flexible Multi‑Channel Protocol (MCP). It provides developers with ready‑to‑use orchestration tools, model‑agnostic integration, and a modular architecture for building sophisticated, multi‑agent conversational applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/saigontechnology/AgentCrew) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/saigontechnology/AgentCrew) · [← Back to Orchestration](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 13.4k |
-| 🍴 **Forks** | 764 |
+| 🍴 **Forks** | 767 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bundler` `javascript` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The rolldown project is an open-source, fast Rust bundler specifically designed for JavaScript and TypeScript applications, while maintaining a Rollup-compatible API. This allows developers to leverage the performance of Rust in their bundling processes, improving overall efficiency. With rolldown, developers can optimize their build pipelines and streamline their workflows.
+Rolldown is a high‑performance bundler written in Rust that processes JavaScript and TypeScript code, offering a Rollup‑compatible API for seamless integration with existing tooling. It focuses on speed and low memory usage while preserving the familiar plugin and configuration model that developers expect from Rollup. Ideal for backend build pipelines, Rolldown brings native‑level efficiency to modern web development workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rolldown/rolldown) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rolldown/rolldown) · [← Back to Backend](./README.md)</sub>

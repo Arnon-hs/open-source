@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 263 |
+| 🍴 **Forks** | 267 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-cli` `agent-skills` `claude-code` `claude-skills` `cli` `cli-tool` `codex-skills` `golang` `markdown-converter` `markdown-to-wechat` `md2wechat` `openclaw`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The geekjourneyx/md2wechat-skill project is an open-source tool that converts Markdown-written articles into beautifully formatted WeChat posts with a single click. It supports AI-powered multiple themes and batch publishing, making it easy to create and publish content on WeChat. This project simplifies the process of creating WeChat posts, making it as straightforward as sharing a post on social media.
+The **geekjourneyx/md2wechat-skill** project provides a command‑line tool that converts Markdown files into beautifully styled WeChat public‑account articles and uploads them directly to the WeChat draft box. It supports AI‑generated multi‑theme styling and batch publishing, making the workflow for creating and managing WeChat posts as simple as posting on a social feed.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/geekjourneyx/md2wechat-skill) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/geekjourneyx/md2wechat-skill) · [← Back to Orchestration](./README.md)</sub>

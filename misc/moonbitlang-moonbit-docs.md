@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 107 |
+| 🍴 **Forks** | 106 |
 | 💻 **Language** | MoonBit |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`programming-language`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The MoonBit programming language documentation is an open-source project that provides comprehensive guides and resources for developers working with MoonBit. This repository contains detailed information on the language's syntax, features, and best practices, making it easier for users to learn and contribute to the community. The documentation is a valuable asset for the MoonBit ecosystem, promoting a collaborative and accessible environment for developers to work together.
+MoonBit Docs is the official documentation repository for the MoonBit programming language, an open‑source, statically typed language focused on safety, performance, and developer productivity. It provides comprehensive guides, tutorials, API references, and best‑practice examples to help users learn, adopt, and contribute to MoonBit. The project is maintained by the MoonBit community and serves as the central knowledge base for developers of all skill levels.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/moonbitlang/moonbit-docs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/moonbitlang/moonbit-docs) · [← Back to Misc](./README.md)</sub>
