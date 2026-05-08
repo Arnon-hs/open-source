@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 738 |
+| ⭐ **Stars** | 751 |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai-agents` `ai-skills` `anthropic-skills` `antigravity` `antigravity-ai` `antigravity-ide` `claude-code` `claude-code-plugin` `context-engineering` `cursor` `full-stack`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-The antigravity-skills project is an open-source initiative that enables agents to acquire professional-level skills in various domains, such as full-stack development and multimedia processing, through modular and systematic definitions. This allows agents to tackle complex problems with expertise similar to that of human professionals. By leveraging this framework, agents can be empowered to perform tasks with increased accuracy and efficiency.
+**antigravity-skills** is an open‑source framework that equips AI agents with domain‑specific professional abilities—ranging from full‑stack development and advanced logic planning to multimedia processing—through reusable, modular “Skill” definitions. By encapsulating expert knowledge as plug‑in components, the project enables agents to tackle complex, real‑world problems in a systematic, human‑like manner. It is positioned at the intersection of AI/ML, frontend development, and cryptographic applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/guanyang/antigravity-skills) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/guanyang/antigravity-skills) · [← Back to Crypto](./README.md)</sub>

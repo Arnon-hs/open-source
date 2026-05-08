@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the verl-project/verl open-source project:
-
-Verl/HybridFlow is an open-source, post-training reinforcement learning (RL) framework that provides a flexible and efficient way to utilize RL techniques with existing models. This framework enables researchers and developers to integrate RL methods with a wide range of models, including those trained using supervised learning or other reinforcement learning algorithms. By leveraging HybridFlow, users can unlock novel applications and improve the performance of their models without sacrificing interpretability.
+Verl’s **HybridFlow** is an open‑source reinforcement‑learning post‑training framework that lets developers fine‑tune, adapt, and evaluate pretrained RL agents with minimal overhead. By providing a modular pipeline for data handling, policy distillation, and reward‑shaping, HybridFlow enables flexible experimentation across diverse environments while maintaining high computational efficiency. The project is geared toward AI/ML researchers and practitioners looking to extend the capabilities of existing RL models without rebuilding the training stack from scratch.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/verl-project/verl) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/verl-project/verl) · [← Back to AI/ML](./README.md)</sub>

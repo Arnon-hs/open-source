@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 499 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`2d-game-framework` `ai-agent` `awesome-list` `csharp` `ecs` `ecs-libraries` `game` `game-asset` `game-development` `game-engine` `game-math` `gamedev`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The killop/anything_about_game project is an open-source repository dedicated to providing a comprehensive list of resources for game development enthusiasts. This collection includes information on various aspects of game development, catering to those interested in artificial intelligence (AI) and machine learning (ML) techniques. By compiling these resources, the project aims to facilitate learning and innovation in the field of game development.
+**Summary:**  
+The *killop/anything_about_game* repository is a curated collection of resources for game development, spanning tutorials, tools, libraries, and reference materials across a wide range of topics. While primarily focused on practical game‑creation assets, the list also includes AI/ML resources relevant to game AI, procedural content generation, and data‑driven design. This open‑source compilation serves as a quick‑start guide for developers looking to deepen their knowledge and find useful links in one place.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/killop/anything_about_game) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/killop/anything_about_game) · [← Back to AI/ML](./README.md)</sub>

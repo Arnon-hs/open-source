@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 666 |
-| 🍴 **Forks** | 63 |
+| ⭐ **Stars** | 669 |
+| 🍴 **Forks** | 64 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bootc` `fedora` `kde` `linux` `oci`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Product
 
 ## 📝 Summary
 
-Aurora is an open-source project that aims to create the ultimate productivity workstation, combining cutting-edge technology with user-centric design. This innovative platform is designed to streamline workflows, enhance collaboration, and boost overall efficiency. By harnessing the power of open-source development, Aurora seeks to empower users with a customizable and adaptable productivity solution.
+**Aurora** is an open‑source, pre‑configured productivity workstation built on top of the **Ubuntu Blue (ublue‑os) ecosystem**. It bundles a curated set of development tools, office applications, and system optimizations to deliver a ready‑to‑use environment that maximizes efficiency for developers, creators, and power users. By leveraging the modular nature of ublue‑os, Aurora remains lightweight, customizable, and easy to maintain.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ublue-os/aurora) · [← Back to Product](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ublue-os/aurora) · [← Back to Product](./README.md)</sub>

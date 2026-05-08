@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 914 |
+| ⭐ **Stars** | 915 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `copy-files` `linux` `solid-state-disks` `sparse-files`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The tarka/xcp project is an open-source extension of the standard `cp` command, offering additional functionality for copying files. This tool provides users with a more versatile option for file replication, allowing for customization and flexibility in their file management tasks. It is categorized under the Misc category, indicating its utility beyond traditional system administration.
+tarka/xcp is an open‑source utility that expands on the functionality of the traditional Unix `cp` command, offering additional options for copying files and directories more flexibly. It supports features such as recursive copying with fine‑grained control, preservation of metadata, and enhanced error handling, making bulk file transfers simpler and safer. The project is categorized under Miscellaneous tools.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/tarka/xcp) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tarka/xcp) · [← Back to Misc](./README.md)</sub>

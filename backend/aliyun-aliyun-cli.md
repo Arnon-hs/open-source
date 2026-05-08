@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 954 |
+| ⭐ **Stars** | 957 |
 | 🍴 **Forks** | 217 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alibaba` `alibaba-cloud-cli` `alibaba-cloud-openapi` `alibabacloud` `aliyun` `cli` `client` `cloud-api` `openapi` `rpc-api` `sdk`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The aliyun/aliyun-cli is an open-source project that provides a command-line interface (CLI) for interacting with Alibaba Cloud services. It enables users to manage and automate their cloud resources, such as computing, storage, and databases, directly from the terminal. With this CLI, users can simplify their cloud experience and improve efficiency.
+The **Aliyun CLI** is an open‑source command‑line interface for Alibaba Cloud services, enabling developers and operators to manage resources, automate workflows, and interact with the platform from the terminal. It supports a wide range of Alibaba Cloud APIs, provides consistent command syntax, and integrates with scripts and CI/CD pipelines for efficient backend and DevOps tasks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/aliyun/aliyun-cli) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/aliyun/aliyun-cli) · [← Back to Backend](./README.md)</sub>

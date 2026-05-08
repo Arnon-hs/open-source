@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `api-directory` `awesome-list` `data-catalog` `data-sources` `datasets` `fact-checking` `government-data` `knowledge-base` `llm` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-The MLT-OSS/FirstData project is a comprehensive, open-source data source knowledge base that serves as a authoritative reference point for AI and machine learning applications. It provides a structured repository of data, enabling developers to leverage a vast pool of information for training, testing, and validation of their models. This open-source resource aims to facilitate the advancement of AI and ML by providing a unified and accessible data foundation.
+MLT‑OSS/FirstData is an open‑source knowledge base that aggregates, curates, and structures a massive collection of factual information, making it the most comprehensive and authoritative data source for AI/ML and backend applications. It offers a clean, searchable API and ready‑to‑use datasets, enabling developers to integrate reliable, well‑organized data into machine‑learning models, analytics pipelines, and other data‑driven services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/MLT-OSS/FirstData) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/MLT-OSS/FirstData) · [← Back to AI/ML](./README.md)</sub>

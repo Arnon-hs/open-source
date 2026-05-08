@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | PowerShell |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`database` `e-hentai` `translation`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the EhTagTranslation/Database project:
-
-The EhTagTranslation/Database project is an open-source initiative providing translation data for EhTagTranslation, a component used in AI and machine learning applications. This database enables developers to access a range of translation resources, facilitating the improvement and integration of AI models with multilingual capabilities. By contributing to this project, users can help expand the scope and accuracy of this translation data.
+EhTagTranslation/Database is an open‑source repository that provides translation data for the EhTagTranslation project, offering a structured collection of multilingual tag mappings used in the e‑hentai community. The dataset can be leveraged for natural language processing, machine‑learning models, or any application that requires accurate tag translation across languages.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/EhTagTranslation/Database) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/EhTagTranslation/Database) · [← Back to AI/ML](./README.md)</sub>

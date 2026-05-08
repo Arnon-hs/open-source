@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 183 |
+| ⭐ **Stars** | 185 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`antigravity` `claude-code` `concise-context` `cursor` `gemini` `graph-database` `kilo-code` `kn` `knowledge-graph` `knowlege-base` `lean-code` `lean-context`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-LeanKG is an open-source project that aims to optimize token usage in AI and ML applications, promoting a more efficient and cost-effective approach to development. By leveraging a lean design, developers can minimize unnecessary token burning and focus on building high-quality, token-efficient models. This project empowers developers to code with a reduced environmental impact, aligning with the principles of sustainable AI development.
+LeanKG is an open‑source knowledge‑graph framework that lets developers build and query graph‑structured data without incurring high token costs from LLM APIs. It provides a lightweight backend for storing, retrieving, and reasoning over entities and relationships, enabling AI/ML applications to operate efficiently and cost‑effectively. By focusing on lean data management, LeanKG lets you “stop burning tokens, start coding lean.”
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/FreePeak/LeanKG) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/FreePeak/LeanKG) · [← Back to AI/ML](./README.md)</sub>

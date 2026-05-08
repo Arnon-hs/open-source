@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 515 |
+| ⭐ **Stars** | 514 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`eddn` `edsm` `elite` `elite-dangerous` `frontier-api` `text-to-speech` `voiceattack` `voiceattack-plugin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-EDCD/EDDI is an open-source companion application for the popular space simulation game Elite Dangerous. This project provides a backend system that integrates with the game to offer advanced features and functionality, enhancing the overall gaming experience. By utilizing EDCD/EDDI, players can unlock new levels of customization and control within the game.
+EDDI (E:D Data Interface) is an open‑source companion application for the space simulation game Elite Dangerous. It runs as a backend service that collects real‑time flight data, processes it, and provides APIs, web dashboards and integrations for third‑party tools, allowing pilots to monitor ship status, route planning, and in‑game events. The project is community‑driven, extensible via plugins, and designed to run continuously alongside the game.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/EDCD/EDDI) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/EDCD/EDDI) · [← Back to Backend](./README.md)</sub>

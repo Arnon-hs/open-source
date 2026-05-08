@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 150 |
+| ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-agents` `claude` `go` `llm` `novel` `openai`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the voocel/ainovel-cli project:
-
-"voocel/ainovel-cli is an open-source project that leverages multi-agent technology to automate the generation of AI-powered novels. This innovative tool utilizes artificial intelligence and machine learning to create engaging stories from scratch, providing a unique and efficient way to produce content. With its cutting-edge approach, ainovel-cli has the potential to revolutionize the writing process and open up new possibilities for creative storytelling."
+voocel/ainovel-cli is an open‑source command‑line tool that leverages multiple AI agents to automatically generate complete novels. By orchestrating various language models for tasks such as plot planning, character development, and text drafting, it provides a fully automated pipeline for AI‑driven storytelling. The project targets developers and writers who want a ready‑to‑use, extensible solution for creating novel‑length content.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/voocel/ainovel-cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/voocel/ainovel-cli) · [← Back to AI/ML](./README.md)</sub>

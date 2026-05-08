@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`game-engine` `game-engine-2d` `game-engine-3d` `game-engine-development` `game-engine-framework` `gameengine` `go` `golang`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Kaiju is an open-source, general-purpose game engine that utilizes the Go programming language and Vulkan graphics library to create 2D and 3D game experiences. This engine also comes equipped with a built-in editor, providing developers with a comprehensive toolset for game development. By leveraging the power of Go and Vulkan, Kaiju enables the creation of high-performance games with ease.
+KaijuEngine / kaiju is an open‑source, general‑purpose game engine written in Go that supports both 3D and 2D development using the Vulkan graphics API. It includes a built‑in editor for scene construction, asset management, and real‑time preview, making it suitable for rapid prototyping and production‑level games. The project also integrates AI/ML utilities and frontend tooling to streamline gameplay logic and visual scripting.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/KaijuEngine/kaiju) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/KaijuEngine/kaiju) · [← Back to AI/ML](./README.md)</sub>

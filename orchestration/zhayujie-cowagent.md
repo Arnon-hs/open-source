@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44k |
-| 🍴 **Forks** | 10k |
+| ⭐ **Stars** | 44.2k |
+| 🍴 **Forks** | 10.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `chatgpt-on-wechat` `claude` `deepseek` `dingtalk` `feishu-bot` `gemini` `kimi` `linkai` `llm` `mcp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-CowAgent is an open-source, super AI assistant that leverages large models to actively think, plan tasks, and access system resources, with capabilities to create and execute skills. This lightweight and user-friendly assistant supports various interfaces, including WeChat, DingTalk, and more, and can be integrated with multiple AI engines. CowAgent enables users to build personalized AI assistants and enterprise digital employees for text, voice, image, and file processing tasks.
+CowAgent (chatgpt‑on‑wechat) is an open‑source, large‑model‑powered AI assistant that can autonomously think, plan tasks, access the operating system and external resources, create and run custom Skills, and continuously improve through long‑term memory and a knowledge base. It supports a wide range of integrations—including WeChat, Feishu, DingTalk, WeCom, QQ, public accounts, and web portals—and works with multiple LLM providers such as DeepSeek, OpenAI, Claude, Gemini, MiniMax, Qwen, GLM, and LinkAI, handling text, voice, images, and files. The project offers a lightweight, easy‑to‑deploy solution for personal AI assistants or enterprise digital employees.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/zhayujie/CowAgent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/zhayujie/CowAgent) · [← Back to Orchestration](./README.md)</sub>

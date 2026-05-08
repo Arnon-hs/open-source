@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9.4k |
+| ⭐ **Stars** | 9.5k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dify` `esp32` `mcp-server` `xiaozhi` `xiaozhi-ai` `xiaozhi-esp32` `xiaozhi-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The xiaozhi-esp32-server project is an open-source backend service designed to help users quickly build and manage ESP32 device control servers. It provides a robust platform for handling device communications and control, simplifying the development process for IoT applications. This project is ideal for developers seeking to create efficient and scalable IoT solutions using ESP32 devices.
+xian‑nan‑tech’s xiaozhi‑esp32‑server is an open‑source backend that enables rapid deployment of a control server for ESP32‑based devices. It provides RESTful APIs and WebSocket endpoints for managing, configuring, and communicating with Xiaozhi‑ESP32 hardware, making it easy to integrate the devices into AI/ML or IoT applications. The project includes ready‑to‑run Docker images and simple configuration scripts for quick setup.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/xinnan-tech/xiaozhi-esp32-server) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/xinnan-tech/xiaozhi-esp32-server) · [← Back to AI/ML](./README.md)</sub>

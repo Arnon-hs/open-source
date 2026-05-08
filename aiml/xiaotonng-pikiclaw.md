@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 216 |
+| ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `claude` `cli` `codex` `coding` `nodejs` `npx` `telegram`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The xiaotonng/pikiclaw project is an open-source initiative that combines the world's most advanced AI agents and plugins into a compact, mobile-friendly platform. This project offers developers the ability to integrate cutting-edge AI capabilities into their applications, making it easier to create innovative and intelligent solutions. By harnessing the power of AI in a portable format, pikiclaw empowers users to explore and experiment with AI technologies on-the-go.
+xiaotonng/pikiclaw is an open‑source framework that brings cutting‑edge AI agents and their plugin ecosystem directly to local devices, letting developers and power users run sophisticated language‑model‑driven tools offline or with minimal cloud reliance. It provides a modular DevTools suite for integrating, customizing, and deploying smart agents in a pocket‑sized package, streamlining AI/ML workflows without sacrificing performance or flexibility.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/xiaotonng/pikiclaw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/xiaotonng/pikiclaw) · [← Back to AI/ML](./README.md)</sub>

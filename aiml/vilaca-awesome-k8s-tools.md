@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.1k |
+| ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `container` `deployment` `development` `devops` `k8s` `kubernetes` `monitoring` `open-source`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the "awesome-k8s-tools" project:
-
-This open-source project, "awesome-k8s-tools", is a comprehensive list of container and Kubernetes (k8s) tools, categorized for easy reference and discovery. It includes a wide range of tools for AI/ML, development, and DevOps/Infrastructure tasks, making it a valuable resource for developers and operations teams. The project aims to streamline the process of finding and utilizing the best tools for Kubernetes-related tasks.
+The **awesome‑k8s‑tools** repository curated by vilaca is a curated collection of open‑source utilities for working with containers and Kubernetes. It gathers a wide range of tools—spanning AI/ML integrations, developer tooling, and DevOps/infra automation—to help engineers discover, evaluate, and adopt the most useful solutions for building, deploying, and managing cloud‑native workloads.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/vilaca/awesome-k8s-tools) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/vilaca/awesome-k8s-tools) · [← Back to AI/ML](./README.md)</sub>

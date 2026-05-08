@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 613 |
+| 🍴 **Forks** | 617 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The unitycatalog project is an open-source, multi-modal catalog designed to facilitate data and Artificial Intelligence (AI) management. It offers a centralized platform for discovering, organizing, and integrating various types of data and AI assets. By providing a unified interface for data and AI cataloging, unitycatalog aims to streamline workflows and foster collaboration among data scientists, engineers, and stakeholders.
+Unity Catalog is an open‑source, multi‑modal catalog that provides a unified, fine‑grained governance layer for data, AI models, and related assets across a wide range of storage and compute platforms. It enables organizations to centrally discover, secure, and manage data and machine‑learning artifacts with consistent policies, lineage tracking, and audit capabilities, fostering collaborative, compliant analytics and AI workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/unitycatalog/unitycatalog) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/unitycatalog/unitycatalog) · [← Back to AI/ML](./README.md)</sub>

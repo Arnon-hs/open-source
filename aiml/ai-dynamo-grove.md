@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 201 |
-| 🍴 **Forks** | 56 |
+| ⭐ **Stars** | 203 |
+| 🍴 **Forks** | 58 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `auto-scaling` `auto-scaling-group` `disaggregated` `gang-scheduling` `gpu` `grove` `inference` `kubernetes` `leader-worker` `multinode` `operator`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the ai-dynamo/grove project:
-
-Grove is an open-source Kubernetes enhancement project that leverages Network Topology Aware Gang Scheduling and Autoscaling to optimize cluster resource allocation and improve application performance. By considering network topology, Grove enables more efficient scheduling and scaling of workloads, reducing latency and improving overall system reliability. This project aims to revolutionize Kubernetes cluster management with innovative AI/ML-driven approaches.
+The **ai-dynamo/grove** project extends Kubernetes with topology‑aware gang scheduling and autoscaling, enabling AI/ML workloads to be placed and scaled based on the underlying network fabric. By exposing network topology information to the scheduler, Grove ensures that pods that need to communicate frequently are co‑located on low‑latency nodes, while its autoscaling component dynamically adjusts replica counts to match both compute demand and network constraints. This results in more efficient resource utilization and reduced training times for distributed AI workloads.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ai-dynamo/grove) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ai-dynamo/grove) · [← Back to AI/ML](./README.md)</sub>

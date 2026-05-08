@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `aicoding` `cloudbase` `cursor` `mcp` `miniprogram` `serverless` `supabase` `tencent` `vibe-coding` `web`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-CloudBase MCP is an open-source project that enables seamless integration between TencentCloudBase and AI agents, streamlining the development of live apps from AI prompts. This tool facilitates effective communication between AI and backend technologies, accelerating the development process. By leveraging CloudBase MCP, developers can quickly turn AI-driven ideas into reality.
+Tencent CloudBase MCP (Mobile Cloud Platform) is an open‑source bridge that integrates Tencent CloudBase services with AI agents, enabling developers to turn natural‑language prompts into fully functional backend applications. It streamlines the workflow from AI‑generated specifications to live, deployable cloud resources, handling tasks such as database provisioning, function deployment, and authentication automatically. Ideal for AI/ML and backend projects, it accelerates rapid prototyping and production‑grade app delivery.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/TencentCloudBase/CloudBase-MCP) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/TencentCloudBase/CloudBase-MCP) · [← Back to AI/ML](./README.md)</sub>

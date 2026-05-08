@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11.6k |
-| 🍴 **Forks** | 638 |
+| 🍴 **Forks** | 637 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud` `devsecops` `ipv6-support` `k8s` `kubernetes` `mesh` `mesh-network` `overlay-network` `secure-remote-access` `security` `self-hosted` `site-to-site`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Netmaker is an open-source project that utilizes WireGuard to automate the creation of fast, secure, and distributed virtual networks. This project enables users to efficiently build and manage complex network architectures with ease, making it an ideal solution for DevOps and infrastructure teams. By streamlining network setup and management, Netmaker simplifies network operations and enhances overall network security.
+Gravitl’s **Netmaker** is an open‑source platform that automates the creation and management of fast, secure, and distributed virtual networks using WireGuard. It provides both a web‑based frontend and a robust backend API, enabling developers and DevOps teams to provision, monitor, and scale peer‑to‑peer mesh networks across cloud, on‑premises, and edge environments with minimal configuration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/gravitl/netmaker) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/gravitl/netmaker) · [← Back to Frontend](./README.md)</sub>

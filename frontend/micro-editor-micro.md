@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 28.5k |
+| ⭐ **Stars** | 28.6k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `cross-platform` `editor` `go` `golang` `micro` `terminal` `text-editor`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the micro-editor/micro project:
-
-Micro is a modern, intuitive, and terminal-based text editor designed for ease of use and efficiency. This open-source project offers a seamless writing experience, allowing users to focus on their content without distractions. With its clean interface and powerful features, micro is an ideal choice for developers, writers, and anyone seeking a lightweight text editing solution.
+Micro is a lightweight, terminal‑based text editor that combines the speed and simplicity of classic command‑line editors with modern, intuitive features such as syntax highlighting, multiple cursors, plugin support, and mouse interaction. Designed for developers who want a fast, easy‑to‑use editing experience without leaving the terminal, Micro offers a familiar key‑binding scheme, configurable settings, and an extensible architecture that works across platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/micro-editor/micro) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/micro-editor/micro) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `chatbot` `deepseek-r1` `knowledgebase` `langchain` `llama3` `llm` `maxkb` `mcp-server` `ollama` `pgvector`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-MaxKB is an open-source platform designed for building enterprise-grade agents, offering powerful and user-friendly capabilities for various applications. This platform enables users to develop intelligent agents that can be integrated with AI/ML technologies, making it an ideal solution for complex orchestration tasks. With its open-source nature, MaxKB provides a flexible and customizable framework for businesses to create and manage their agents.
+MaxKB is an open‑source, enterprise‑grade platform that lets developers create, manage, and orchestrate intelligent agents with a user‑friendly interface. It combines robust AI/ML orchestration capabilities with a modern frontend, enabling scalable, customizable agent solutions for business applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/1Panel-dev/MaxKB) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/1Panel-dev/MaxKB) · [← Back to Orchestration](./README.md)</sub>

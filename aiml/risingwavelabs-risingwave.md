@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9k |
-| 🍴 **Forks** | 763 |
+| 🍴 **Forks** | 765 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apache-iceberg` `data-engineering` `database` `etl-pipeline` `event-streaming` `kafka` `materialized-view` `postgresql` `rust` `stream-processing` `webhook`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-risingwavelabs/risingwave is a promising open-source project. Categories: AI/ML, Data. Interest score: 96/100.
+RisingWave is an open‑source, real‑time event‑streaming platform designed for agentic AI applications. It continuously ingests, transforms, and serves massive streams of events with low latency, enabling scalable AI/ML pipelines and data‑driven workflows. The system combines stream processing and serving capabilities to power intelligent agents that react instantly to evolving data.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/risingwavelabs/risingwave) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/risingwavelabs/risingwave) · [← Back to AI/ML](./README.md)</sub>

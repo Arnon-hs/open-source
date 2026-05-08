@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Standard ML |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `formal-semantics` `formal-verification` `hol` `programming-language` `sml` `theorem-proving`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-CakeML is an open-source project that aims to provide a verified implementation of machine learning (ML) algorithms. It combines formal verification techniques with ML research to ensure the correctness and reliability of its implementations. By leveraging the CakeML system, developers can verify the functional correctness of their ML code, providing a high degree of assurance in the accuracy and robustness of their models.
+CakeML is an open‑source compiler and runtime system that provides a fully verified implementation of the ML programming language. Built on formal proof techniques, it guarantees that the generated code faithfully adheres to the language’s semantics, offering strong safety and reliability guarantees for critical software. The project targets both academic research and practical applications in AI/ML, enabling developers to write trustworthy ML code with machine‑checked correctness.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/CakeML/cakeml) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/CakeML/cakeml) · [← Back to AI/ML](./README.md)</sub>

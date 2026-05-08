@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the langchain-ai/langchainjs project:
-
-Langchainjs is an open-source agent engineering platform that empowers developers to build and orchestrate AI models. This platform provides a seamless interface for creating complex AI applications by integrating various machine learning components, enabling users to design and deploy sophisticated AI agents. By providing a comprehensive toolkit for agent engineering, Langchainjs accelerates the development of AI-driven solutions.
+LangChainJS is an open‑source JavaScript/TypeScript framework for building sophisticated AI agents that can orchestrate multiple language models, tools, and external APIs. It provides a modular, extensible architecture for chaining prompts, managing memory, and integrating custom tools, enabling developers to create complex, context‑aware applications with minimal boilerplate.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/langchain-ai/langchainjs) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/langchain-ai/langchainjs) · [← Back to Orchestration](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 262 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`carbon` `carbon-design-system` `component-library` `design-system` `svelte` `svelte-components` `typescript` `ui-components` `ui-library`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-The carbon-design-system/carbon-components-svelte project provides a Svelte implementation of the Carbon Design System, a comprehensive and user-centered design framework. This open-source project enables developers to integrate the Carbon Design System into their Svelte applications, ensuring a consistent and accessible user experience. By utilizing this project, developers can leverage the benefits of the Carbon Design System in their Svelte projects.
+Carbon Design System’s official UI library re‑imagined for Svelte, **carbon‑components‑svelte** provides a collection of reusable, accessible components that follow IBM’s Carbon visual language. It offers Svelte‑native implementations of buttons, forms, data tables, and layout primitives, enabling developers to build consistent, modern front‑end experiences with minimal configuration. The project is open‑source, actively maintained, and ideal for any Svelte‑based application that needs a polished, enterprise‑grade design system.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/carbon-design-system/carbon-components-svelte) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/carbon-design-system/carbon-components-svelte) · [← Back to Frontend](./README.md)</sub>

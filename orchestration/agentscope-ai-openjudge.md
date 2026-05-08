@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 587 |
+| ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-skills` `ai-agent` `alignment` `evaluation` `grader` `llm` `reward` `reward-model` `rlhf` `skill-md` `skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the OpenJudge project:
-
-OpenJudge is an open-source, unified framework for holistic evaluation and quality rewards in AI and machine learning. This platform enables comprehensive assessments of model performance, quality, and fairness, facilitating the development of high-quality AI systems. By providing a standardized evaluation framework, OpenJudge promotes transparency, reproducibility, and trustworthiness in AI decision-making.
+OpenJudge is an open‑source, orchestration‑focused framework that provides a unified, end‑to‑end pipeline for holistic evaluation of AI models and the automatic distribution of quality‑based rewards. By integrating diverse metrics, test suites, and incentive mechanisms, it enables developers to assess model performance comprehensively and incentivize improvements across the entire AI/ML lifecycle.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/agentscope-ai/OpenJudge) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/agentscope-ai/OpenJudge) · [← Back to Orchestration](./README.md)</sub>

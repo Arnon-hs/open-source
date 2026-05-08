@@ -1,6 +1,6 @@
 # graykode/abtop
 
-[![Stars](https://img.shields.io/github/stars/graykode/abtop?style=flat-square&color=yellow)](https://github.com/graykode/abtop/stargazers) [![Forks](https://img.shields.io/github/forks/graykode/abtop?style=flat-square&color=blue)](https://github.com/graykode/abtop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/graykode/abtop?style=flat-square&color=yellow)](https://github.com/graykode/abtop/stargazers) [![Forks](https://img.shields.io/github/forks/graykode/abtop?style=flat-square&color=blue)](https://github.com/graykode/abtop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 140 |
+| ⭐ **Stars** | 1.9k |
+| 🍴 **Forks** | 155 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-coding-agent` `btop` `claude-code` `cli` `codex` `developer-tools` `htop` `monitor` `ratatui` `rust` `terminal`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the graykode/abtop project:
-
-Abtop is an open-source monitoring tool designed for AI coding agents, inspired by htop. It provides real-time insights into AI coding sessions, including tokens, context windows, rate limits, and ports, allowing developers to efficiently manage and optimize their AI coding workflows. By offering a live view of AI coding activities, Abtop streamlines the development process and enhances productivity.
+graykode/abtop is a real‑time monitoring tool for AI coding agents, offering an htop‑style interface that tracks Claude, Code, and Codex CLI sessions. It visualizes token usage, context window sizes, rate‑limit status, and active ports, helping developers keep a clear view of their AI‑driven workflows. Ideal for anyone building or debugging AI‑assisted code generation pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/graykode/abtop) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/graykode/abtop) · [← Back to AI/ML](./README.md)</sub>

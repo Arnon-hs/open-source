@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 13.3k |
-| 🍴 **Forks** | 336 |
+| 🍴 **Forks** | 337 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bottom` `btm` `cli` `cross-platform` `monitoring` `rust` `terminal` `top` `tui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Bottom is an open-source, cross-platform graphical process and system monitor that provides real-time system information. This lightweight application offers a user-friendly interface for viewing system performance, processes, and other vital system metrics. With its cross-platform compatibility, Bottom is accessible on various operating systems, making it a versatile tool for developers and system administrators.
+ClementTsang/bottom is a lightweight, cross‑platform graphical system monitor that visualizes CPU, memory, disk, network, and process activity in real time. Built with a focus on speed and a clean UI, it serves as a developer‑friendly alternative to traditional command‑line tools, providing customizable charts and detailed process information for Windows, macOS, and Linux.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ClementTsang/bottom) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ClementTsang/bottom) · [← Back to Frontend](./README.md)</sub>

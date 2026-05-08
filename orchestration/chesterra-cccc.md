@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 807 |
+| ⭐ **Stars** | 810 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `chatgpt` `claude-code` `codex-cli` `gemini-cli` `group-chat` `llm-orchestration` `local-first` `multi-agent` `opencode` `zero-infra`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-ChesterRa/cccc is an open-source project that enables seamless communication and coordination between coding agents, mirroring the functionality of a group chat. This production-minded orchestrator allows users to track delivery status, receive read receipts, and perform remote operations from their mobile device. With a single pip install, users can set up and manage 24/7 workflows without the need for additional infrastructure.
+ChesterRa/cccc is an open‑source orchestrator that lets you manage coding agents as if they were participants in a group chat, complete with read receipts, delivery tracking, and remote operations that can be triggered from a phone. With a single `pip install` and no external infrastructure required, it provides a production‑ready, 24/7 workflow engine for AI/ML and development tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ChesterRa/cccc) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ChesterRa/cccc) · [← Back to Orchestration](./README.md)</sub>

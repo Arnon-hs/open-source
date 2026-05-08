@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.2k |
-| 🍴 **Forks** | 381 |
+| ⭐ **Stars** | 8.3k |
+| 🍴 **Forks** | 385 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`jellyfin` `music-player` `navidrome` `self-hosted` `subsonic` `subsonic-client`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here is a brief summary for the jeffvli/feishin project:
-
-Feishin is a self-hosted music player that offers a modern and user-friendly experience for managing and streaming music libraries. This open-source project allows users to host their own music player on their local network, providing a seamless and secure way to access their music collection. With feishin, music enthusiasts can enjoy their music libraries without relying on third-party services.
+Jeffvli’s **Feishin** is a modern, self‑hosted music player that lets users stream and manage their personal audio collections from any device. Built with a clean, responsive UI and customizable playback features, it provides a lightweight alternative to cloud‑based services while keeping the library under the user’s control. Ideal for developers and audiophiles who want a privacy‑focused, open‑source solution for local music streaming.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/jeffvli/feishin) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jeffvli/feishin) · [← Back to DevTools](./README.md)</sub>

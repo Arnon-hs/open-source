@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2179** |
+| 🗂️ **Total projects** | **2219** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 830 | [Browse →](./aiml/) |
-| 📦 **Misc** | 370 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 225 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 206 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 111 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 110 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 93 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 853 | [Browse →](./aiml/) |
+| 📦 **Misc** | 371 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 230 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 211 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 113 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 111 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 94 | [Browse →](./crypto/) |
 | 📊 **Data** | 60 | [Browse →](./data/) |
 | 💳 **Payments** | 54 | [Browse →](./payments/) |
 | 📈 **Trading** | 35 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 31 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 25 | [Browse →](./mobile/) |
-| 🔐 **Security** | 14 | [Browse →](./security/) |
-| 🎯 **Product** | 7 | [Browse →](./product/) |
+| 🔐 **Security** | 15 | [Browse →](./security/) |
+| 🎯 **Product** | 8 | [Browse →](./product/) |
 | ✨ **Design** | 6 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [HKUDS/Vibe-Trading](./trading/hkuds-vibe-trading.md) | ⭐ 5.6k | Trading |
-| 2 | [apache/datafusion](./data/apache-datafusion.md) | ⭐ 8.7k | Data |
-| 3 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
-| 4 | [HeyPuter/puter](./aiml/heyputer-puter.md) | ⭐ 41k | AI/ML |
-| 5 | [github/awesome-copilot](./orchestration/github-awesome-copilot.md) | ⭐ 32.4k | Orchestration |
-| 6 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.2k | AI/ML |
-| 7 | [jeecgboot/JeecgBoot](./orchestration/jeecgboot-jeecgboot.md) | ⭐ 46.1k | Orchestration |
-| 8 | [aden-hive/hive](./orchestration/aden-hive-hive.md) | ⭐ 10.3k | Orchestration |
-| 9 | [volcano-sh/volcano](./aiml/volcano-sh-volcano.md) | ⭐ 5.5k | AI/ML |
-| 10 | [oraios/serena](./aiml/oraios-serena.md) | ⭐ 23.9k | AI/ML |
+| 1 | [micro-editor/micro](./frontend/micro-editor-micro.md) | ⭐ 28.6k | Frontend |
+| 2 | [1Panel-dev/MaxKB](./orchestration/1panel-dev-maxkb.md) | ⭐ 20.9k | Orchestration |
+| 3 | [zhayujie/CowAgent](./orchestration/zhayujie-cowagent.md) | ⭐ 44.2k | Orchestration |
+| 4 | [HKUDS/Vibe-Trading](./trading/hkuds-vibe-trading.md) | ⭐ 5.6k | Trading |
+| 5 | [apache/datafusion](./data/apache-datafusion.md) | ⭐ 8.7k | Data |
+| 6 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
+| 7 | [HeyPuter/puter](./aiml/heyputer-puter.md) | ⭐ 41k | AI/ML |
+| 8 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.2k | AI/ML |
+| 9 | [github/awesome-copilot](./orchestration/github-awesome-copilot.md) | ⭐ 32.4k | Orchestration |
+| 10 | [jeecgboot/JeecgBoot](./orchestration/jeecgboot-jeecgboot.md) | ⭐ 46.1k | Orchestration |
 
 ## 🚀 How it works
 

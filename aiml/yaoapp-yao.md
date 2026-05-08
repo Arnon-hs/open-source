@@ -1,6 +1,6 @@
 # YaoApp/yao
 
-[![Stars](https://img.shields.io/github/stars/YaoApp/yao?style=flat-square&color=yellow)](https://github.com/YaoApp/yao/stargazers) [![Forks](https://img.shields.io/github/forks/YaoApp/yao?style=flat-square&color=blue)](https://github.com/YaoApp/yao/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YaoApp/yao?style=flat-square&color=yellow)](https://github.com/YaoApp/yao/stargazers) [![Forks](https://img.shields.io/github/forks/YaoApp/yao?style=flat-square&color=blue)](https://github.com/YaoApp/yao/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ Build AI agents and web apps — with a single binary.
 
@@ -11,13 +11,13 @@
 | ⭐ **Stars** | 7.5k |
 | 🍴 **Forks** | 683 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 95/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `agents` `ai` `ai-applications` `ai-dev` `ai-developer-tools` `ai-generated-code` `ai-native` `ai-native-development` `aigc` `api`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The yao project is an open-source platform that enables developers to build both AI agents and web applications using a single binary. This allows for streamlined development and deployment, combining the power of artificial intelligence with the reach of web-based experiences. By simplifying the development process, yao aims to facilitate the creation of innovative and interactive applications.
+YaoApp/yao is an open‑source framework that lets developers create AI‑driven agents and full‑stack web applications using a single, self‑contained binary. By combining a lightweight backend runtime with built‑in frontend rendering and AI integration, it eliminates the need for separate servers, containers, or complex deployment pipelines. The project targets both AI/ML enthusiasts and web developers who want a fast, portable way to ship intelligent, interactive applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/YaoApp/yao) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/YaoApp/yao) · [← Back to AI/ML](./README.md)</sub>
