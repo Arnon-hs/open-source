@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 433 |
+| ⭐ **Stars** | 3.3k |
+| 🍴 **Forks** | 438 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`npm` `npmjs` `nuxt`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-npmx.dev is an open-source, fast, and modern browser for the npm registry. It allows users to easily browse and search packages, dependencies, and other npm registry data. This tool aims to provide a streamlined experience for developers interacting with the npm ecosystem.
+npmx.dev is an open‑source, high‑performance web client for browsing the npm package registry. Built with modern web technologies, it provides a fast, responsive interface for searching, exploring package details, and navigating dependencies. The project is categorized under Miscellaneous and aims to improve the developer experience when interacting with npm’s ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/npmx-dev/npmx.dev) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/npmx-dev/npmx.dev) · [← Back to Misc](./README.md)</sub>

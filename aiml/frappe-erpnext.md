@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 33.6k |
-| 🍴 **Forks** | 11.1k |
+| ⭐ **Stars** | 33.7k |
+| 🍴 **Forks** | 11.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`accounting` `asset-management` `crm` `distribution` `erp` `erpnext` `frappe` `healthcare` `hrms` `manufacturing` `point-of-sale` `procurement`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Frappe/ERPNext is a free and open-source Enterprise Resource Planning (ERP) system that offers a comprehensive platform for managing business operations. This AI-powered ERP solution enables organizations to streamline processes, improve efficiency, and make data-driven decisions. With its flexible and customizable architecture, ERPNext caters to diverse business needs and is suitable for small and large-scale enterprises alike.
+Frappe ERPNext is a free, open‑source enterprise resource planning suite that helps businesses manage accounting, inventory, sales, purchasing, HR, and more—all built on the Python‑based Frappe framework. Designed for flexibility and ease of customization, it offers a web‑based UI, role‑based access controls, and extensible modules that can be tailored to various industries. Although primarily an ERP system, its modular architecture allows integration with AI/ML tools for advanced analytics and automation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/frappe/erpnext) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/frappe/erpnext) · [← Back to AI/ML](./README.md)</sub>

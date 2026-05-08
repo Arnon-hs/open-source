@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`build-tool` `cli` `module-bundler` `open-source` `openui5` `sap` `tooling` `ui5` `ui5-cli` `ui5cli`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-UI5/cli is an open-source project that provides a modular toolchain for developing cutting-edge applications based on the UI5 framework. This toolchain enables developers to create, build, and maintain robust and scalable applications, leveraging the full potential of the UI5 framework. With UI5/cli, developers can streamline their development workflow and deliver high-quality applications efficiently.
+UI5/cli is an open‑source, modular command‑line toolchain designed to streamline the development of modern applications built on the SAP UI5 framework. It provides a comprehensive set of utilities for project scaffolding, building, testing, and deployment, enabling developers to create, maintain, and deliver high‑quality UI5 front‑end solutions efficiently.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/UI5/cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/UI5/cli) · [← Back to AI/ML](./README.md)</sub>

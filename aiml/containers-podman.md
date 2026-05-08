@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`containers` `docker` `kubernetes` `linux` `oci`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "containers/podman":
-
-Podman is an open-source tool that enables users to manage OCI (Open Container Initiative) containers and pods, providing a simple and efficient way to containerize applications. As a drop-in replacement for Docker, Podman allows users to create, run, and manage containers and pods with ease, making it a popular choice for DevOps and infrastructure professionals. With Podman, users can automate container management and deployment with minimal overhead.
+Podman is an open‑source, daemon‑less tool for building, running, and managing OCI‑compatible containers and pods on Linux (and other platforms). It offers a Docker‑compatible CLI while providing enhanced security through rootless execution and seamless integration with systemd, making it ideal for DevOps workflows and infrastructure automation. Its lightweight design and strong focus on compliance also make it useful for AI/ML environments that require reproducible, isolated runtimes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/containers/podman) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/containers/podman) · [← Back to AI/ML](./README.md)</sub>

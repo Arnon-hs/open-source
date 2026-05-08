@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 13.4k |
-| 🍴 **Forks** | 950 |
+| ⭐ **Stars** | 13.5k |
+| 🍴 **Forks** | 951 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`self-hosted` `youtube` `youtube-dl` `yt-dlp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the metube project:
-
-metube is a self-hosted video downloader that enables users to easily download videos from YouTube and other popular video sharing sites. Built on top of the powerful youtube-dl and yt-dlp libraries, metube provides a user-friendly web interface for seamless video download experiences. With metube, users can host their own video download service without relying on third-party platforms.
+Alexta69’s **Metube** is a self‑hosted web application that provides a clean, user‑friendly interface for downloading videos from YouTube and many other platforms. It acts as a lightweight front‑end for the powerful command‑line tools **youtube‑dl** or **yt‑dlp**, allowing users to queue, convert, and retrieve media directly from a browser without exposing the underlying CLI. The project is focused on the frontend experience, making video downloading accessible to non‑technical users while keeping everything under the user’s own control.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/alexta69/metube) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/alexta69/metube) · [← Back to Frontend](./README.md)</sub>

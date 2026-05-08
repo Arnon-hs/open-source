@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 392 |
+| ⭐ **Stars** | 393 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `automation` `data` `llm` `machine-learning` `workflow`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Lionagi is an open-source Artificial General Intelligence (AGI) Software Development Kit (SDK) designed to facilitate the development of intelligent systems. It provides a comprehensive framework for building AGI applications, enabling developers to create advanced AI-powered solutions. With Lionagi, users can leverage a wide range of AI capabilities to drive innovation in various industries and fields.
+LionAGI is an open‑source Artificial General Intelligence (AGI) software development kit that provides a modular framework for building and experimenting with AGI models. It combines tools for data handling, model orchestration, and learning algorithms, enabling researchers and developers to prototype and scale advanced AI systems. The project targets the AI/ML and data ecosystems, offering extensible components that can be integrated into a wide range of intelligent applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/khive-ai/lionagi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/khive-ai/lionagi) · [← Back to AI/ML](./README.md)</sub>

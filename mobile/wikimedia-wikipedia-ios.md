@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 872 |
+| 🍴 **Forks** | 873 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`objective-c` `swift` `wikipedia`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The Wikimedia/Wikipedia-iOS project is an open-source, official iOS application for Wikipedia, providing users with access to vast amounts of knowledge on various subjects. The app offers a user-friendly interface to browse, read, and contribute to Wikipedia content, leveraging the community-driven encyclopedia's vast repository of information. This project aims to bring the power of Wikipedia to iOS devices, empowering users to learn and engage with the world's knowledge.
+The **Wikipedia iOS** app is the official mobile client for accessing Wikipedia content on iPhone and iPad. Built with Swift and leveraging the MediaWiki API, it offers offline reading, article search, customizable fonts, night mode, and seamless integration with Wikipedia’s multilingual ecosystem. The open‑source project welcomes contributions to improve performance, UI, and new features for the mobile Wikipedia experience.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/wikimedia/wikipedia-ios) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wikimedia/wikipedia-ios) · [← Back to Mobile](./README.md)</sub>

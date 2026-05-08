@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cluster` `data-infrastructure` `database-as-a-service` `golang` `kubernetes` `managed-services` `operator` `postgres` `postgres-operator` `postgresql`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Data · DevOps/Infra
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the zalando/postgres-operator project:
-
-The zalando/postgres-operator is an open-source project that simplifies the management of PostgreSQL clusters on Kubernetes environments. This operator automates the creation and management of PostgreSQL clusters, making it easier to deploy and maintain scalable database solutions. By leveraging Kubernetes, users can efficiently manage their PostgreSQL resources and ensure high availability and reliability.
+The **Postgres Operator** by Zalando automates the deployment, scaling, and lifecycle management of PostgreSQL clusters on Kubernetes. It continuously reconciles desired cluster specifications, handling tasks such as instance provisioning, failover, backups, and configuration updates, while exposing a native Kubernetes API for seamless integration with DevOps workflows. This open‑source tool simplifies running production‑grade PostgreSQL in cloud‑native environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/zalando/postgres-operator) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/zalando/postgres-operator) · [← Back to Data](./README.md)</sub>

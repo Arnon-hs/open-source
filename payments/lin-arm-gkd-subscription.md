@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 50 |
+| ⭐ **Stars** | 2.4k |
+| 🍴 **Forks** | 52 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ad` `gkd` `gkd-subscription` `subscription`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The Lin-arm/GKD_subscription project is an open-source, third-party subscription rules system for Android GKD users. This forked version aims to provide a customized and flexible solution for GKD's payment functionality. It falls under the Payments category, catering to users seeking alternative subscription management options.
+Lin-arm/GKD_subscription provides a collection of third‑party subscription rules specifically designed for the Android GKD platform. This forked repository offers customizable payment and subscription configurations to extend GKD’s functionality for developers and users seeking alternative billing options.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Lin-arm/GKD_subscription) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Lin-arm/GKD_subscription) · [← Back to Payments](./README.md)</sub>

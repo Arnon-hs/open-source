@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angularjs` `freeproxy` `getproxy` `http-proxy` `https-proxy` `nodejs` `protractor` `proxies` `proxy` `proxy-list` `proxy-scraper` `proxylist`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, 'proxy-scraper', utilizes Protractor to retrieve a list of proxies, with the list being updated every three hours. It serves as a useful tool for those seeking a constantly refreshed pool of proxy servers. Its open-source nature allows for community-driven maintenance and improvement.
+Sunny9577’s **proxy-scraper** is an open‑source tool built with Protractor that automatically gathers fresh proxy server addresses from various online sources. It refreshes the compiled proxy list every three hours, ensuring users have access to up‑to‑date, reliable proxies for testing, scraping, or anonymity purposes. The project is categorized under Miscellaneous and is publicly available for contribution and use.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/sunny9577/proxy-scraper) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/sunny9577/proxy-scraper) · [← Back to Misc](./README.md)</sub>

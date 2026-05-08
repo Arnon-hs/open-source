@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 201 |
+| 🍴 **Forks** | 200 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Luminal is an open-source project that enables fast and efficient AI inference, pushing the boundaries of speed and performance. Its primary goal is to accelerate machine learning computations to near-light speeds, unlocking new possibilities for real-time applications and large-scale deployments. By harnessing cutting-edge technologies, Luminal empowers developers to build faster, more responsive AI systems.
+Luminal is an open‑source AI/ML framework designed for ultra‑fast inference, optimizing model execution to approach the speed of light. It provides a lightweight, hardware‑agnostic runtime with streamlined APIs, enabling developers to deploy deep‑learning models with minimal latency and maximal throughput. Ideal for real‑time applications, Luminal leverages advanced graph optimizations and GPU/CPU acceleration to deliver near‑instantaneous predictions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/luminal-ai/luminal) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/luminal-ai/luminal) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-model` `backend` `frontend` `java` `langchain4j` `mcp` `rag` `spring-ai` `vector-database`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project in 2-3 sentences:
-
-The yu-ai-agent project is an open-source initiative that provides a practical guide to building AI applications using Spring Boot 3, Java 21, and Spring AI. It covers a wide range of AI technologies, including large model integration, prompt engineering, and RAG retrieval enhancement, to help developers become proficient in AI development. This tutorial-based project aims to equip programmers with the skills needed to succeed in the AI-driven business landscape and enhance their career prospects.
+The **yu‑ai‑agent** project is a hands‑on tutorial that demonstrates how to build an AI‑driven “love master” application and a ReAct‑style autonomous planner called **YuManus** using Spring Boot 3, Java 21, and Spring AI. It walks developers through end‑to‑end integration of large language models, prompt engineering, RAG retrieval, vector stores, tool‑calling, MCP context protocols, and Cursor AI utilities, providing a complete reference for modern AI agent development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/hfgwygey/yu-ai-agent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/hfgwygey/yu-ai-agent) · [← Back to Orchestration](./README.md)</sub>

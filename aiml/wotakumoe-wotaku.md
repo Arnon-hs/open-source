@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 116 |
+| 🍴 **Forks** | 118 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acg` `anime` `doujin` `glossary` `guide` `hentai` `japan` `japanese-language` `japanese-study` `language-learning` `manga` `mihon`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The "wotaku" project is an open-source, comprehensive index for all things otaku, aiming to provide a centralized repository of information on anime, manga, and other related topics. Developed with AI/ML and frontend technologies, this project seeks to organize and make accessible a vast array of otaku content. By contributing to and utilizing this project, users can help create a unified and inclusive resource for the otaku community.
+wotakumoe/wotaku is an open‑source otaku‑focused index that aggregates and organizes information on a wide range of anime, manga, games, and related pop‑culture content, providing a searchable, user‑friendly frontend. Built with modern AI/ML techniques, it offers intelligent recommendations and categorization while delivering a sleek, responsive UI for enthusiasts to explore and discover new titles. ⭐ Feel free to star the project if you enjoy it!
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/wotakumoe/wotaku) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wotakumoe/wotaku) · [← Back to AI/ML](./README.md)</sub>

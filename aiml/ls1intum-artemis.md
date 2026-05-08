@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 753 |
-| 🍴 **Forks** | 363 |
+| ⭐ **Stars** | 754 |
+| 🍴 **Forks** | 365 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apollon` `artificial-intelligence` `assessment` `autograding` `automatic-feedback` `computer-science` `education` `education-technology` `exam-mode` `exercises` `feedback` `gen-ai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Artemis is an open-source interactive learning platform that utilizes AI to provide automated feedback to users, enhancing their learning experience. This project aims to increase engagement and understanding by offering real-time assessments and personalized guidance. With Artemis, users can interact with educational content in a more dynamic and immersive way, facilitating effective knowledge acquisition.
+Artemis is an open‑source platform that enables interactive, AI‑driven learning experiences by providing real‑time, automated feedback on student submissions. Built with modern machine‑learning techniques, it supports a variety of educational content and integrates seamlessly into existing curricula to enhance engagement and accelerate skill acquisition.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ls1intum/Artemis) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ls1intum/Artemis) · [← Back to AI/ML](./README.md)</sub>

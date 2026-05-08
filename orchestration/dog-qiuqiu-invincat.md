@@ -1,6 +1,6 @@
 # dog-qiuqiu/invincat
 
-[![Stars](https://img.shields.io/github/stars/dog-qiuqiu/invincat?style=flat-square&color=yellow)](https://github.com/dog-qiuqiu/invincat/stargazers) [![Forks](https://img.shields.io/github/forks/dog-qiuqiu/invincat?style=flat-square&color=blue)](https://github.com/dog-qiuqiu/invincat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dog-qiuqiu/invincat?style=flat-square&color=yellow)](https://github.com/dog-qiuqiu/invincat/stargazers) [![Forks](https://img.shields.io/github/forks/dog-qiuqiu/invincat?style=flat-square&color=blue)](https://github.com/dog-qiuqiu/invincat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A native Python agent CLI built on DeepAgents CLI, featuring an independent memory Agent that captures learnings after each task and delivers efficient AI coding assistance through hierarchical memory management.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 285 |
-| 🍴 **Forks** | 21 |
+| ⭐ **Stars** | 304 |
+| 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | hackernews |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-skills` `agentic-ai` `agentic-workflow` `ai` `autonomous-agents` `claude-code` `cli` `code` `code-generation` `codex` `deepseek`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Invincat is an open-source terminal AI coding agent that utilizes a tiered, auditable long-term memory for enhanced performance. This innovative AI/ML project enables developers to leverage its capabilities for coding tasks, with features like auditable memory ensuring transparency and reliability. By harnessing the power of Invincat, users can streamline their coding experience and benefit from its intelligent assistance.
+dog‑qiuqiu / invincat is a native Python command‑line agent built on the DeepAgents framework that provides AI‑powered coding assistance. It features an independent, hierarchical memory system that records learnings after every task, enabling the agent to retrieve and apply prior knowledge efficiently. The project targets orchestration, AI/ML, and frontend development workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/dog-qiuqiu/invincat) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dog-qiuqiu/invincat) · [← Back to Orchestration](./README.md)</sub>

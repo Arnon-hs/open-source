@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 185 |
+| ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`academic-writing` `claude` `claude-code` `claude-skills` `data-journalism` `fact-checking` `foia` `journalism` `media` `newsroom` `osint` `skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The Claude Skills Journalism project is an open-source initiative that provides AI-powered tools for journalists, media professionals, and academics to enhance their work in areas such as verification, data journalism, and FOIA requests. By leveraging Claude's code skills, users can streamline their research, analysis, and writing processes, enabling them to focus on in-depth storytelling and insightful investigations. This project aims to democratize access to cutting-edge technology and promote high-quality, data-driven journalism.
+The **claude-skills-journalism** repository provides a collection of Claude‑powered prompts and code snippets designed to streamline tasks common in journalism, media, and academia. It covers a wide range of use‑cases—including source verification, FOIA request drafting, data‑driven reporting, academic writing, and other research‑oriented workflows—helping professionals automate and enhance their investigative and analytical processes. The project is open‑source and positioned at the intersection of AI/ML and data‑focused journalism.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/jamditis/claude-skills-journalism) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jamditis/claude-skills-journalism) · [← Back to AI/ML](./README.md)</sub>

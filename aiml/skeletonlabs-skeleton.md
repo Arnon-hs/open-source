@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 389 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a11y` `accessibility` `astro` `components` `components-library` `design` `design-system` `nextjs` `react` `svelte` `sveltekit` `tailwindcss`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Skeleton is an open-source adaptive design system built on top of Tailwind CSS, designed to help developers create responsive and user-friendly interfaces. This project utilizes AI/ML and frontend technologies to provide a flexible foundation for UI design, allowing for customization and scalability. By leveraging Skeleton, developers can rapidly build adaptable and visually appealing applications.
+Skeleton is an open‑source adaptive design system built on Tailwind CSS, offering a collection of reusable UI components, themes, and utilities that automatically adjust to different screen sizes and user preferences. It streamlines front‑end development by providing a consistent visual language and customizable styling, making it ideal for building responsive, modern web interfaces. The project also supports AI/ML‑enhanced workflows through its extensible architecture and community‑driven contributions.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/skeletonlabs/skeleton) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/skeletonlabs/skeleton) · [← Back to AI/ML](./README.md)</sub>

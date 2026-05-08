@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 142 |
-| 🍴 **Forks** | 18 |
+| ⭐ **Stars** | 145 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aistudio` `automation` `bridge` `collaborate` `deepseek` `glm` `intenserp` `kimi` `llm` `moonshot` `playwright` `proxy`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Intense RP Next is a desktop application and OpenAI-compatible API that enables the integration of Large Language Models (LLMs) into various clients, including SillyTavern, by proxying their web user interfaces. This project provides an unofficial integration solution for developers and users seeking to leverage LLM capabilities in their applications. By bridging the gap between LLMs and clients, Intense RP Next streamlines the development process and expands the possibilities for AI-driven experiences.
+LyubomirT/intense‑rp‑next is a desktop application that provides an OpenAI‑compatible API layer, allowing popular LLM web interfaces to be proxied and integrated unofficially into platforms such as SillyTavern and other chat clients. By acting as a bridge between local LLM instances and client applications, it simplifies the deployment of custom language models without needing native support. The project spans both frontend and backend components, targeting AI/ML developers who want a plug‑and‑play solution for LLM integration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/LyubomirT/intense-rp-next) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/LyubomirT/intense-rp-next) · [← Back to AI/ML](./README.md)</sub>

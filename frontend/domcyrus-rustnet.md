@@ -1,6 +1,6 @@
 # domcyrus/rustnet
 
-[![Stars](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat-square&color=yellow)](https://github.com/domcyrus/rustnet/stargazers) [![Forks](https://img.shields.io/github/forks/domcyrus/rustnet?style=flat-square&color=blue)](https://github.com/domcyrus/rustnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat-square&color=yellow)](https://github.com/domcyrus/rustnet/stargazers) [![Forks](https://img.shields.io/github/forks/domcyrus/rustnet?style=flat-square&color=blue)](https://github.com/domcyrus/rustnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 65 |
+| ⭐ **Stars** | 2.2k |
+| 🍴 **Forks** | 70 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `dpi` `ebpf` `freebsd` `geoip` `landlock` `linux` `macos` `netstat-alternative` `network-monitoring` `packet-capture` `process-monitoring`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Rustnet is a cross-platform network monitoring terminal UI tool that provides real-time network insights. Built with Rust, this open-source project offers a secure and efficient way to visualize network activity, making it a valuable resource for system administrators and network security professionals. With its terminal-based interface, Rustnet offers a lightweight and customizable solution for monitoring network traffic.
+Rustnet is a cross‑platform, sandboxed command‑line tool that provides per‑process network monitoring with deep packet inspection, allowing developers to see exactly which applications are sending and receiving traffic. It presents the data directly in the terminal, making it easy to debug, profile, or secure network activity without leaving the console. Suitable for frontend and dev‑tool workflows, Rustnet offers a lightweight, open‑source alternative to heavyweight network analyzers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/domcyrus/rustnet) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/domcyrus/rustnet) · [← Back to Frontend](./README.md)</sub>

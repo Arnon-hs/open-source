@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 708 |
+| ⭐ **Stars** | 710 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acme` `http` `http-proxy` `http11` `http2` `http3` `https` `load-balancing` `multidomain` `pqc` `proxy` `reverse-proxy`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Rust-RPX is an open-source, ultrafast HTTP reverse proxy written in Rust that supports multiple domain names and secure TLS termination for HTTP/1.1, 2, and 3 protocols. This project aims to provide a high-performance solution for load balancing and SSL termination, making it suitable for demanding applications. By leveraging Rust's speed and concurrency features, Rust-RPX offers a scalable and reliable alternative for web servers and applications.
+Junkurihara’s **rust‑rpxy** is a lightweight, high‑performance reverse proxy written in Rust that can serve many domain names on a single instance. It terminates TLS and forwards traffic for HTTP/1.1, HTTP/2, and HTTP/3, delivering ultra‑fast request handling with minimal overhead. The project is open‑source and ideal for developers needing a fast, secure front‑end for web services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/junkurihara/rust-rpxy) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/junkurihara/rust-rpxy) · [← Back to AI/ML](./README.md)</sub>

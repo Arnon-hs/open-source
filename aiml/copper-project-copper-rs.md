@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`operating-system` `physical-ai` `robotics` `ros` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Copper is an open-source operating system designed specifically for robots, allowing developers to build, run, and replay their entire robotic systems in a deterministic manner. This approach enables the creation of reliable, reproducible, and efficient robotic experiences. By leveraging Copper, developers can streamline their development process and achieve more predictable outcomes in their robotic applications.
+Copper is an open‑source operating system designed specifically for robotics, enabling developers to **build**, **run**, and **replay** robot applications with full deterministic behavior. By providing a unified runtime and tooling stack, Copper lets you simulate, test, and iterate on robot software as if it were a regular application, while preserving precise timing and state reproducibility. It bridges AI/ML workloads and frontend interfaces, making robot development more predictable and easier to debug.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/copper-project/copper-rs) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/copper-project/copper-rs) · [← Back to AI/ML](./README.md)</sub>

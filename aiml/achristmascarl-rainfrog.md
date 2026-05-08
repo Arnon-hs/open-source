@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5k |
-| 🍴 **Forks** | 90 |
+| 🍴 **Forks** | 91 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`database-management` `mysql` `postgresql` `ratatui` `rust` `sql` `sqlite` `terminal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Rainfrog is an open-source database tool designed for use in the terminal. It provides a user-friendly interface for managing and interacting with databases, allowing users to perform various operations with ease. This project aims to simplify database management and make it more accessible for users, especially those who prefer a command-line interface.
+Rainfrog (achristmascarl/rainfrog) is an open‑source, terminal‑based database utility that lets users explore, query, and manipulate data directly from the command line. It combines a lightweight, text‑focused UI with AI‑assisted features to streamline common data‑analysis tasks, making it useful for developers, data scientists, and anyone who prefers working in a terminal environment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/achristmascarl/rainfrog) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/achristmascarl/rainfrog) · [← Back to AI/ML](./README.md)</sub>

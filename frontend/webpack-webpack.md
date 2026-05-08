@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 9.4k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amd` `build-tool` `commonjs` `compiler` `es2015` `es6` `esm` `javascript` `javascript-compiler` `javascript-modules` `loaders` `module-bundler`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Webpack is an open-source bundler that combines multiple JavaScript and other asset files into a few optimized bundles. This enables efficient code splitting, where only necessary parts of the application are loaded on demand, reducing page load times and improving user experience. With webpack, developers can easily manage and transform various types of files, including JavaScript, CSS, images, and more, using a wide range of configurable loaders.
+Webpack is a powerful open‑source JavaScript bundler that compiles and packages a wide variety of resources—such as ES6, CommonJS, AMD modules, CSS, images, JSON, and custom loaders—into optimized bundles. Its code‑splitting capabilities enable on‑demand loading of application chunks, improving performance for modern web front‑end projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/webpack/webpack) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/webpack/webpack) · [← Back to Frontend](./README.md)</sub>

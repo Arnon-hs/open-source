@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 585 |
-| 🍴 **Forks** | 866 |
+| 🍴 **Forks** | 865 |
 | 💻 **Language** | XML |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The php/doc-en project is an open-source initiative providing comprehensive English documentation for PHP, a popular server-side scripting language. This project aims to create a centralized resource for PHP developers, offering detailed information and guidelines on various aspects of the language. By contributing to this project, developers can help ensure the accuracy and completeness of PHP documentation, ultimately enhancing the programming experience for the community.
+php/doc-en is the official open‑source repository that houses the English-language documentation for the PHP programming language. It provides a comprehensive, searchable collection of tutorials, function references, and best‑practice guides, continuously updated by the PHP community. This resource helps developers of all skill levels learn and master PHP efficiently.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/php/doc-en) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/php/doc-en) · [← Back to AI/ML](./README.md)</sub>

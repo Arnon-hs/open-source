@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 122 |
+| ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `claude` `codegen` `frontend` `javascript` `openrouter` `react` `vibecode`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The VibesDIY project, available at vibes.diy, is an open-source platform that enables the rapid creation of shareable apps using cutting-edge AI and ML technologies. This innovative tool empowers users to build and deploy their own custom apps in a matter of seconds, without requiring extensive coding expertise. By harnessing the power of AI-driven workflows, VibesDIY simplifies the app development process and unlocks new avenues for creative expression.
+VibesDIY (vibes.diy) is an open‑source platform that lets developers create and share lightweight, customizable web applications in seconds, leveraging AI/ML‑powered components for rapid prototyping. It provides a browser‑based frontend toolkit with drag‑and‑drop UI building, instant deployment, and a public marketplace where users can publish and reuse ready‑made app modules.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/VibesDIY/vibes.diy) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/VibesDIY/vibes.diy) · [← Back to AI/ML](./README.md)</sub>

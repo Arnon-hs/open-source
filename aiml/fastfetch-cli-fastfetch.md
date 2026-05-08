@@ -1,6 +1,6 @@
 # fastfetch-cli/fastfetch
 
-[![Stars](https://img.shields.io/github/stars/fastfetch-cli/fastfetch?style=flat-square&color=yellow)](https://github.com/fastfetch-cli/fastfetch/stargazers) [![Forks](https://img.shields.io/github/forks/fastfetch-cli/fastfetch?style=flat-square&color=blue)](https://github.com/fastfetch-cli/fastfetch/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fastfetch-cli/fastfetch?style=flat-square&color=yellow)](https://github.com/fastfetch-cli/fastfetch/stargazers) [![Forks](https://img.shields.io/github/forks/fastfetch-cli/fastfetch?style=flat-square&color=blue)](https://github.com/fastfetch-cli/fastfetch/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
 
 > A maintained, feature-rich and performance oriented, neofetch like system information tool.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 22.5k |
-| 🍴 **Forks** | 762 |
+| ⭐ **Stars** | 22.6k |
+| 🍴 **Forks** | 768 |
 | 💻 **Language** | C |
-| 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 97/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bsdfetch` `command-line` `fastfetch` `fetch` `flashfetch` `hacktoberfest` `macfetch` `neofetch` `terminal` `winfetch`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Fastfetch is an open-source, neofetch-like system information tool that provides a detailed and visually appealing overview of your system's specifications. It offers a wide range of features and high performance, making it a valuable resource for system administrators, developers, and power users. With fastfetch, you can quickly and easily gather system information, including CPU, memory, disk usage, and more.
+Fastfetch is a fast, feature‑rich command‑line utility that displays detailed system information in a concise, visually appealing format, much like Neofetch but optimized for speed and low resource usage. It supports extensive customization, numerous output modules, and works across many Linux distributions and other Unix‑like platforms. The project is actively maintained and geared toward developers who need quick, reliable system diagnostics.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/fastfetch-cli/fastfetch) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/fastfetch-cli/fastfetch) · [← Back to AI/ML](./README.md)</sub>

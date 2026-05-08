@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 948 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`activitypub` `chat` `fediverse` `lemmy` `link-aggregator` `reddit` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-LemmyNet/lemmy is a promising open-source project. Categories: Misc. Interest score: 98/100.
+Lemmy is an open‑source, federated discussion platform that lets communities create and moderate their own forums, similar to Reddit but built on the ActivityPub protocol for decentralized networking. It supports rich text, markdown, link previews, and full moderation tools, enabling seamless interaction across multiple Lemmy instances while preserving user data ownership.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/LemmyNet/lemmy) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/LemmyNet/lemmy) · [← Back to Misc](./README.md)</sub>

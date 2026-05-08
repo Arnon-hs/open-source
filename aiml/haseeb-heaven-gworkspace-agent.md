@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `agents-sdk` `ai-agent` `claude` `gemini` `google` `google-api` `google-workspace` `google-workspace-agent` `gws` `llm` `openai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The gworkspace-agent is a smart, open-source agentic assistant designed to enhance the functionality of Google Workspace. This AI-powered agent integrates seamlessly with Google services, providing users with a more efficient and streamlined experience. By leveraging AI and machine learning, gworkspace-agent aims to automate tasks and improve productivity within Google Workspace.
+**Summary**  
+The **gworkspace-agent** is an open‑source, AI‑driven backend service that acts as a smart, agentic assistant for Google Workspace. It leverages large language models to understand user intents and automatically performs tasks across Gmail, Calendar, Drive, Docs, and other Workspace apps, streamlining workflow automation and boosting productivity. The project provides a modular, extensible framework for developers to integrate custom agents and secure authentication with Google APIs.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/haseeb-heaven/gworkspace-agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/haseeb-heaven/gworkspace-agent) · [← Back to AI/ML](./README.md)</sub>
