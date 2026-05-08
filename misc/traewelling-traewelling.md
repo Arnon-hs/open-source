@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`deutsche-bahn` `hafas` `public-transport` `social-network` `traewelling` `travel`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Traewelling project offers a free, open-source check-in service for logging public transit journeys. This service allows users to track and record their daily commutes, making it easier to keep track of public transportation schedules and habits. By utilizing this platform, users can gain insights into their travel patterns and contribute to a community-driven transit log.
+Traewelling is an open‑source, free check‑in platform that lets users log and share their public‑transport journeys in real time. By integrating with various transit data sources, it automatically records routes, distances, and CO₂ savings, offering a simple way to track personal mobility and contribute to community statistics. The project is licensed under an open source licence and welcomes contributions from developers interested in transportation, sustainability, and social networking.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/Traewelling/traewelling) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Traewelling/traewelling) · [← Back to Misc](./README.md)</sub>

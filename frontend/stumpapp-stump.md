@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`books` `comics` `media-server` `opds` `react` `rust` `self-hosted` `tauri`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the stump project:
-
-Stump is an open-source server for hosting digital comics, manga, and books, featuring OPDS support for seamless access to your collection. This free and community-driven project enables users to easily manage and share their digital library with others. With its ongoing development, Stump aims to become a comprehensive solution for digital book enthusiasts.
+Stump is a free, open‑source server designed to organize and serve comics, manga, and digital books, featuring OPDS support for seamless integration with reading clients. It provides both a responsive frontend for browsing and a robust backend API, enabling users to self‑host their personal digital library. The project is actively developed and aims to deliver a comprehensive, self‑contained solution for managing and accessing visual media collections.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/stumpapp/stump) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/stumpapp/stump) · [← Back to Frontend](./README.md)</sub>

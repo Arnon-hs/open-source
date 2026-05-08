@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 123 |
+| ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `arch-linux` `aur` `claude` `claude-desktop` `cowork` `deb` `go` `golang` `linux` `rpm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Unfortunately, I don't have more information about the project "patrickjaja/claude-cowork-service." However, based on the available information, here's a possible brief summary:
-
-This is an open-source project, "claude-cowork-service," which appears to be a coworking service platform. It is categorized under the "Misc" category, suggesting its purpose may not fit into a specific category. Further details about the project's features and functionality are not available.
+**Summary:**  
+The *claude-cowork-service* repository provides an open‑source backend service that enables integration with Anthropic’s Claude AI model for collaborative, coworker‑style interactions. It offers a lightweight, extensible API and utilities for managing conversations, context sharing, and task coordination, making it easy to embed Claude’s conversational capabilities into custom applications or workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/patrickjaja/claude-cowork-service) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/patrickjaja/claude-cowork-service) · [← Back to Misc](./README.md)</sub>

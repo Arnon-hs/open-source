@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 56 |
+| 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `code-intelligence` `coding-agents` `developer-tools` `git` `llm-tools` `semantic-diff` `tree-sitter` `typescript` `version-control`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Ataraxy-Labs/sem project:
-
-Ataraxy-Labs/sem is an open-source project that provides advanced version control capabilities for coders and coding agents. It builds upon Git to offer features such as entity-level diffs, blame, and impact analysis, streamlining the development process. Currently supporting ten programming languages through the tree-sitter parser, sem aims to enhance the efficiency of collaborative coding environments.
+Ataraxy‑Labs / sem is a developer‑focused tool that adds semantic version control on top of Git, providing entity‑level diffs, blame tracking, and impact analysis across 26 programming languages via Tree‑sitter. It enables precise change detection and dependency insight for codebases, making it especially useful for AI‑driven coding agents and advanced development workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Ataraxy-Labs/sem) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Ataraxy-Labs/sem) · [← Back to AI/ML](./README.md)</sub>

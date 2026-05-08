@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21 |
+| ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-coding` `ai-safety` `anthropic` `automation` `autonomous` `bash` `claude` `claude-cli` `claude-code` `claude-md` `claude-skills` `coding-agent`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The yurukusa/cc-safe-setup project is an open-source tool designed to ensure Claude Code (CC) is secure for autonomous operation. It provides a one-command setup to prevent common vulnerabilities such as rm -rf, secret leaks, and force-pushes, as well as broken deployments. With extensive testing (9,200+ tests) and adoption (30K+ installs), this project offers a robust solution built from real-world experience.
+yurukusa/cc-safe-setup provides a single‑command solution that hardens Claude Code (CC) for fully autonomous use, automatically installing safety hooks that block dangerous actions such as `rm -rf`, secret leaks, force‑pushes, and broken deployments. It ships with over 715 pre‑built hooks, more than 9,200 tests, and has already been installed tens of thousands of times, reflecting 800+ hours of real‑world autonomous CC operation. The project targets AI/ML, frontend, and developer‑tool workflows, helping teams run AI‑generated code safely at scale.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/yurukusa/cc-safe-setup) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/yurukusa/cc-safe-setup) · [← Back to AI/ML](./README.md)</sub>

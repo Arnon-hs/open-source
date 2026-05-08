@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`es2015` `es6` `es6-javascript` `javascript` `nodejs` `react` `redux` `wordpress`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Automattic/wp-calypso project:
-
-Automattic/wp-calypso is an open-source project that powers WordPress.com, providing a JavaScript and API-driven platform for a seamless user experience. This project combines frontend and backend technologies to deliver a robust and scalable online presence for users. By utilizing Calypso, developers can access the core functionality of WordPress.com and extend its capabilities to suit their needs.
+Automattic’s **wp‑calypso** is the modern, JavaScript‑driven front‑end for WordPress.com, built with React, Redux and a robust REST API layer. It serves as both the public site‑builder and the administrative dashboard, handling everything from content editing and theme customization to user authentication and analytics, while also providing a reusable backend API for third‑party integrations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Automattic/wp-calypso) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Automattic/wp-calypso) · [← Back to Frontend](./README.md)</sub>

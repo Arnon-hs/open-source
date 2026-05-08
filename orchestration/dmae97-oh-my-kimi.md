@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54 |
-| 🍴 **Forks** | 4 |
+| ⭐ **Stars** | 60 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-coding` `ai-agent` `ai-coding` `autonomous-agents` `cli` `cli-tool` `code-generation` `coding-agent` `dag` `developer-tools` `kimi` `kimi-cli`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-"oh-my-kimi" is an open-source, production-ready multi-agent orchestration framework designed for the Kimi Code CLI (K2.6). It provides a comprehensive set of features, including worktree team runtime, DAG/ensemble planning, MCP skill-hooks, quality gates, and local graph memory, to support efficient and reliable AI/ML workflows. This project is ideal for developers and researchers working with the Kimi Code CLI.
+The **dmae97/oh-my-kimi** project is a production‑ready framework for orchestrating multiple agents using the Kimi Code CLI (version 2.6). It provides a work‑tree‑based team runtime, DAG/ensemble planning, MCP skill‑hooks, quality‑gate checks, and a local graph memory layer, enabling robust, scalable multi‑agent workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/dmae97/oh-my-kimi) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dmae97/oh-my-kimi) · [← Back to Orchestration](./README.md)</sub>

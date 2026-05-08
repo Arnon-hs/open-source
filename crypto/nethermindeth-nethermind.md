@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 682 |
+| 🍴 **Forks** | 689 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `eth` `ethereum` `ethereum-client` `evm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the NethermindEth/nethermind project:
-
-Nethermind is an open-source, high-performance execution client designed for Ethereum node operators. This robust client ensures efficient and reliable Ethereum network participation. By leveraging its advanced capabilities, node operators can improve their overall Ethereum experience and contribute to the network's stability.
+Nethermind is an open‑source, high‑performance execution client for the Ethereum network, designed to help node operators run secure and efficient Ethereum nodes. Built in C# and optimized for speed, scalability, and reliability, it supports the full Ethereum protocol stack, including the latest hard forks and consensus upgrades. The project also provides extensive tooling and APIs for developers and integrates advanced analytics and monitoring capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/NethermindEth/nethermind) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NethermindEth/nethermind) · [← Back to Crypto](./README.md)</sub>

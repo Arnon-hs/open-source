@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 225 |
-| 🍴 **Forks** | 20 |
+| ⭐ **Stars** | 231 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-agents` `ai-coding-assistant` `claude` `cli` `code-quality` `codex` `copilot` `cursor` `devtools` `linter`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Agnix is an open-source linter and Language Server Protocol (LSP) designed specifically for AI coding assistants. It validates crucial configuration files such as CLAUDE.md, AGENTS.md, and SKILL.md, as well as MCP and hooks, providing essential feedback for developers. With support for autofixes and integration with all major IDEs, Agnix facilitates seamless development of AI coding assistants.
+**agent-sh/agnix** is an open‑source linter and Language Server Protocol (LSP) tool designed specifically for AI‑assisted coding assistants. It validates key documentation and configuration files such as CLAUDE.md, AGENTS.md, SKILL.md, hooks, and MCP, and provides IDE‑wide support—including auto‑fix suggestions—through plugins for all major editors. This makes it easier for developers to maintain consistency and quality when working with AI‑generated code.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/agent-sh/agnix) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/agent-sh/agnix) · [← Back to AI/ML](./README.md)</sub>

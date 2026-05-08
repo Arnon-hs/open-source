@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 36 |
-| 🍴 **Forks** | 3 |
+| ⭐ **Stars** | 38 |
+| 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-coding` `claude-code` `codex` `coding-agent` `github-copilot` `guardrails` `hooks` `policy` `tdd`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The probity project is an open-source initiative that aims to establish a process discipline for AI coding agents, ensuring accountability and reliability in their decision-making processes. This framework enables developers to verify and trust the actions of AI coding agents, promoting transparency and safety in their interactions. By providing a standardized approach, probity facilitates collaboration and innovation between humans and AI agents in software development.
+Nizos / Probity is an open‑source framework that enforces process discipline for AI‑driven coding agents, providing structured workflows, verification checkpoints, and safety guards to ensure generated code meets quality and security standards. By integrating with popular AI models and development tools, Probity helps teams automate code synthesis while maintaining traceability, reproducibility, and compliance throughout the software development lifecycle.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/nizos/probity) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/nizos/probity) · [← Back to AI/ML](./README.md)</sub>

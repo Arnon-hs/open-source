@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitcoin` `blockchain` `cryptocurrency` `lightning-network` `scala`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Bitcoin-s is an open-source implementation of the Bitcoin protocol in Scala, providing a flexible and efficient framework for working with cryptocurrency. This project allows developers to build and experiment with Bitcoin-related applications using a scalable and modular architecture. By leveraging Scala's functional programming capabilities, bitcoin-s offers a robust and maintainable solution for the Bitcoin ecosystem.
+Bitcoin‑S is a full‑node implementation of the Bitcoin protocol written in Scala, offering a modular, type‑safe codebase for developers building on or extending Bitcoin functionality. It includes support for core consensus rules, networking, wallet management, and advanced features such as Lightning integration, making it a versatile foundation for both research and production‑grade cryptocurrency applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/bitcoin-s/bitcoin-s) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bitcoin-s/bitcoin-s) · [← Back to Crypto](./README.md)</sub>

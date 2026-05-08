@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 34.8k |
+| ⭐ **Stars** | 34.9k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dependency-manager` `install` `javascript` `modules` `node` `nodejs` `npm` `package-manager`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-pnpm is an open-source, fast, and disk space efficient package manager designed to simplify package management. It achieves high performance and efficiency by utilizing hard links, which reduces storage space and speeds up installation times. With pnpm, developers can efficiently manage their dependencies and streamline their development workflow.
+pnpm is a fast, disk‑space‑efficient JavaScript package manager that stores each package version only once and creates lightweight symlinks for projects that depend on it. By leveraging a content‑addressable store and strict node_modules layout, pnpm dramatically speeds up installations while preventing duplication and version conflicts. It is open‑source, actively maintained, and works as a drop‑in replacement for npm and Yarn in the Node.js ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/pnpm/pnpm) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/pnpm/pnpm) · [← Back to Misc](./README.md)</sub>

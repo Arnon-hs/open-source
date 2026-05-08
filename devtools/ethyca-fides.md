@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`data` `data-privacy` `data-privacy-compliance` `developer-tools` `gdpr` `hacktoberfest` `privacy-as-code` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Data
 
 ## 📝 Summary
 
-The ethyca/fides project is an open-source, comprehensive Privacy Engineering & Compliance Framework. It helps organizations assess and mitigate data privacy risks by providing a robust set of tools and guidelines for compliance with data protection regulations. This framework empowers developers and compliance teams to build and maintain transparent, secure, and regulatory-compliant data handling practices.
+Ethyca Fides is an open‑source privacy engineering and compliance framework that helps organizations embed data‑protection controls directly into their software development lifecycle. It provides a catalog of privacy‑focused policies, automated data flow mapping, and enforcement mechanisms to ensure continuous compliance with regulations such as GDPR and CCPA.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ethyca/fides) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ethyca/fides) · [← Back to DevTools](./README.md)</sub>

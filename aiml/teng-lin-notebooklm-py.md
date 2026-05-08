@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.6k |
-| 🍴 **Forks** | 1.7k |
+| ⭐ **Stars** | 12.9k |
+| 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-skill` `api` `claude` `claude-skills` `google-notebooklm` `notebooklm` `notebooklm-api` `notebooklm-skill` `openclaw-skills` `podcast-generator` `python` `python-api`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The notebooklm-py project provides a Python API and agentic skill for Google NotebookLM, granting full programmatic access to its features. This unofficial API offers capabilities beyond the web UI, enabling developers to integrate NotebookLM into their applications and workflows.
+teng‑lin/notebooklm-py provides an unofficial Python wrapper and CLI for Google Notebook LM, exposing the platform’s full functionality—including hidden features not available through the web UI—to developers and AI agents. The library enables programmatic creation, editing, and querying of notebooks, and can be integrated with agents such as Claude Code, Codex, or OpenClaw for automated workflows. It serves both frontend and backend use‑cases in AI/ML projects that require direct, scriptable access to Notebook LM.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/teng-lin/notebooklm-py) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/teng-lin/notebooklm-py) · [← Back to AI/ML](./README.md)</sub>

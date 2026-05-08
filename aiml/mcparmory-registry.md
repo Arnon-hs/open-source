@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 24 |
+| ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-tools` `api-integration` `claude` `claude-desktop` `codex` `cursor` `mcp` `mcp-server` `mcp-servers` `model-context-protocol` `openapi`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The mcparmory/registry project provides production-ready MCP servers for over 70 popular APIs, including GitHub, Google, Notion, and Jira. These servers are automatically generated from OpenAPI specifications and thoroughly tested against live APIs. This open-source project supports integration with various AI tools such as Claude Desktop and Codex.
+mcparmory/registry provides production‑ready micro‑service implementations for over 70 third‑party APIs—including GitHub, Google, Notion, Jira, and many others—by automatically generating server code from OpenAPI specifications and validating it against live endpoints. The project delivers ready‑to‑use MCP (Microservice Communication Protocol) servers that integrate seamlessly with AI‑assisted development tools such as Claude Desktop, Cursor, Codex, and Claude Code, making it easy to build and test backend integrations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/mcparmory/registry) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mcparmory/registry) · [← Back to AI/ML](./README.md)</sub>

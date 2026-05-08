@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acp` `ai` `ai-agents` `auggie` `claude-code` `coding-agent` `gemini-cli` `llms`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The inercia/mitto project is an open-source platform that enables users to control and manage AI coding agents across various devices, including Mac, Web, and Mobile Phone. This comprehensive tool allows users to access and interact with their AI agents from anywhere, at any time, promoting seamless collaboration and productivity. By providing a unified interface, mitto streamlines the development and management of AI projects.
+inercia/mitto is an open‑source toolkit that lets developers command AI‑powered coding assistants from any device—desktop (Mac), web browsers, or mobile phones. It provides a unified interface and APIs for managing, prompting, and integrating these agents into development workflows, turning AI coding helpers into portable, on‑the‑go collaborators.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/inercia/mitto) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/inercia/mitto) · [← Back to AI/ML](./README.md)</sub>

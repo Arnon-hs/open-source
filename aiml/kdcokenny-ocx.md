@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 668 |
+| ⭐ **Stars** | 677 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `bun` `cli` `ocx` `opencode` `package-manager` `shadcn` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The kdcokenny/ocx project is an open-source extension manager for OpenCode, designed to provide portable and isolated profiles for developers. This allows users to set up their development environments anywhere, without worrying about compatibility issues or profile conflicts. The project is categorized under AI/ML and DevTools, indicating its utility in machine learning and software development workflows.
+OpenCode is a lightweight extension manager that lets you create portable, isolated profiles for your development environment, making it easy to carry your setup across machines. It streamlines the installation, activation, and removal of extensions while keeping each profile self‑contained, so you can work consistently without polluting the host system. Ideal for AI/ML and general dev‑tool workflows, OpenCode ensures reproducible environments wherever you go.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/kdcokenny/ocx) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kdcokenny/ocx) · [← Back to AI/ML](./README.md)</sub>

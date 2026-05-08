@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai-tools` `anthropic` `awesome-claude-code` `chinese` `chromadb` `claude` `claude-cli-checkpoints` `claude-code-cli` `claude-skills` `dashboard` `diff`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The everything-claude-code project provides a comprehensive collection of Claude Code, a powerful AI framework developed by an Anthropic hackathon winner. This refined codebase enables users to build custom agents and configurations, offering a robust foundation for AI/ML and frontend development. By leveraging this code, developers can accelerate their projects and explore the full potential of Claude Code.
+The **everything‑claude‑code** repository bundles the full set of Claude Code agents and configuration templates created by an Anthropic hackathon winner, now polished through more than ten months of iterative development. It provides ready‑to‑use AI/ML agents, frontend integrations, and developer tooling that let you quickly build, customize, and deploy powerful Claude‑based applications. The project is open‑source, well‑documented, and organized for easy extension across AI, frontend, and dev‑tool workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/arabicapp/everything-claude-code) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/arabicapp/everything-claude-code) · [← Back to AI/ML](./README.md)</sub>

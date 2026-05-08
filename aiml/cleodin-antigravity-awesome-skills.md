@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 33 |
+| ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-skills` `ai-agents` `antigravity` `antigravity-ide` `audio` `autonomous-coding` `claude` `claude-code` `mcp` `react-patterns` `security-auditing` `skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-This project, "antigravity-awesome-skills," provides a comprehensive list of over 255 essential skills to enhance the development workflow for AI coding assistants like Claude Code and GitHub Copilot. It encompasses diverse categories such as AI/ML, Frontend, and Security, aiming to provide developers with a valuable resource for leveraging the full potential of these tools. This project is a great starting point for those looking to optimize their coding experience with the help of AI-powered assistants.
+cleodin/antigravity-awesome-skills is an open‑source catalog of more than 255 curated prompts and techniques designed to boost the productivity of AI coding assistants such as Claude Code and GitHub Copilot. It organizes essential “skills” across AI/ML, frontend development, and security topics, providing developers with ready‑to‑use examples that streamline code generation, debugging, and best‑practice enforcement. The project aims to make AI‑assisted programming more accessible and effective by offering a searchable, community‑maintained reference for everyday development tasks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/cleodin/antigravity-awesome-skills) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/cleodin/antigravity-awesome-skills) · [← Back to AI/ML](./README.md)</sub>

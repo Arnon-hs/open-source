@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3179** |
+| 🗂️ **Total projects** | **3219** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1263 | [Browse →](./aiml/) |
-| 📦 **Misc** | 502 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 315 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 312 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 1283 | [Browse →](./aiml/) |
+| 📦 **Misc** | 506 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 319 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 317 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 169 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 165 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 129 | [Browse →](./crypto/) |
+| 🔧 **DevTools** | 168 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 132 | [Browse →](./crypto/) |
 | 📊 **Data** | 75 | [Browse →](./data/) |
 | 💳 **Payments** | 72 | [Browse →](./payments/) |
 | 📈 **Trading** | 49 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 44 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 38 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 39 | [Browse →](./mobile/) |
 | 🔐 **Security** | 26 | [Browse →](./security/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | ✨ **Design** | 9 | [Browse →](./design/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [trycua/cua](./aiml/trycua-cua.md) | ⭐ 15.8k | AI/ML |
-| 2 | [Raphire/Win11Debloat](./devtools/raphire-win11debloat.md) | ⭐ 46k | DevTools |
-| 3 | [vuetifyjs/vuetify](./frontend/vuetifyjs-vuetify.md) | ⭐ 41k | Frontend |
-| 4 | [luanti-org/luanti](./devtools/luanti-org-luanti.md) | ⭐ 12.8k | DevTools |
-| 5 | [microsoft/vcpkg](./misc/microsoft-vcpkg.md) | ⭐ 27k | Misc |
-| 6 | [kovidgoyal/kitty](./misc/kovidgoyal-kitty.md) | ⭐ 32.8k | Misc |
-| 7 | [temporalio/temporal](./orchestration/temporalio-temporal.md) | ⭐ 20.1k | Orchestration |
-| 8 | [weaviate/weaviate](./aiml/weaviate-weaviate.md) | ⭐ 16.2k | AI/ML |
-| 9 | [armbian/build](./aiml/armbian-build.md) | ⭐ 5.2k | AI/ML |
-| 10 | [alirezarezvani/claude-skills](./orchestration/alirezarezvani-claude-skills.md) | ⭐ 14.1k | Orchestration |
+| 1 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
+| 2 | [Automattic/wp-calypso](./frontend/automattic-wp-calypso.md) | ⭐ 12.6k | Frontend |
+| 3 | [pnpm/pnpm](./misc/pnpm-pnpm.md) | ⭐ 34.9k | Misc |
+| 4 | [trycua/cua](./aiml/trycua-cua.md) | ⭐ 15.8k | AI/ML |
+| 5 | [Raphire/Win11Debloat](./devtools/raphire-win11debloat.md) | ⭐ 46k | DevTools |
+| 6 | [vuetifyjs/vuetify](./frontend/vuetifyjs-vuetify.md) | ⭐ 41k | Frontend |
+| 7 | [luanti-org/luanti](./devtools/luanti-org-luanti.md) | ⭐ 12.8k | DevTools |
+| 8 | [microsoft/vcpkg](./misc/microsoft-vcpkg.md) | ⭐ 27k | Misc |
+| 9 | [kovidgoyal/kitty](./misc/kovidgoyal-kitty.md) | ⭐ 32.8k | Misc |
+| 10 | [temporalio/temporal](./orchestration/temporalio-temporal.md) | ⭐ 20.1k | Orchestration |
 
 ## 🚀 How it works
 

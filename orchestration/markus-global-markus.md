@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 41 |
+| ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-governance` `agent-memory` `agent-runtime` `agent-to-agent` `ai-agents` `ai-company` `ai-team` `ai-workforce` `autonomous-agents` `llm` `mcp` `multi-agent-systems`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Markus is an innovative operating system for AI workforces, enabling autonomous agents to coordinate, remember sessions, and collaborate on tasks. This robust framework streamlines AI management, allowing users to oversee their AI company from a single command, with zero dependencies required. With Markus, users can enjoy seamless AI workflow management and automation, accessible even from their mobile devices.
+Markus is an open‑source operating system for AI workforces that lets autonomous agents coordinate, retain memory across sessions, review each other’s output, and execute tasks without manual intervention. With a single command and no external dependencies, it enables you to manage a full AI “company” from any device, even while you sleep.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/markus-global/markus) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/markus-global/markus) · [← Back to Orchestration](./README.md)</sub>

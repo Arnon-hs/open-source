@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `process` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The dalance/procs project is an open-source, modern replacement for the traditional 'ps' command, designed to provide a more efficient and effective way to manage system processes. Written in Rust, this tool offers a robust and scalable solution for system administrators and developers alike, allowing them to monitor and manage processes with ease. By leveraging Rust's performance and reliability, procs aims to become a go-to alternative for the classic 'ps' command.
+**dalance/procs** is a modern, Rust‑based alternative to the classic `ps` command, offering fast and safe process inspection on Unix‑like systems. It provides a clean, extensible interface with colored output, filtering, and customizable formatting, making it a powerful DevTools utility for developers and sysadmins.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/dalance/procs) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dalance/procs) · [← Back to DevTools](./README.md)</sub>

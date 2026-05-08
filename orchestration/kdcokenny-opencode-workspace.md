@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 401 |
-| 🍴 **Forks** | 31 |
+| ⭐ **Stars** | 413 |
+| 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `developer-tools` `opencode` `opencode-plugin` `planning`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The opencode-workspace is a comprehensive, all-in-one orchestration harness designed for OpenCode. This open-source tool streamlines multi-agent orchestration, providing users with a single point of control for managing complex workflows. With opencode-workspace, developers can easily manage and coordinate AI/ML tasks, simplifying the development process and accelerating project outcomes.
+kdcokenny/opencode-workspace is an open‑source, all‑in‑one harness that orchestrates multiple AI agents for the OpenCode ecosystem. With a single installation, it provides developers full control over agent coordination, task routing, and workflow management, streamlining complex AI/ML pipelines and DevOps processes.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/kdcokenny/opencode-workspace) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kdcokenny/opencode-workspace) · [← Back to Orchestration](./README.md)</sub>

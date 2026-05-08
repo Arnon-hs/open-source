@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 125 |
-| 🍴 **Forks** | 6 |
+| ⭐ **Stars** | 126 |
+| 🍴 **Forks** | 7 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `llm` `llm-agents` `llm-framework` `llm-frameworks` `llms` `ruby-lib` `ruby-library`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the llmrb/llm.rb project:
-
-"llmrb/llm.rb is an open-source project that provides a powerful AI runtime for the Ruby programming language, offering capabilities for advanced artificial intelligence and machine learning applications. This runtime enables developers to efficiently integrate AI and ML functionalities into their Ruby-based projects. With llmrb/llm.rb, users can leverage the full potential of Ruby for AI and ML development."
+llmrb/llm.rb is an open‑source Ruby library that provides a powerful, easy‑to‑use runtime for interacting with large language models. It abstracts model hosting, prompt management, and streaming responses, letting developers integrate AI capabilities into Ruby applications with minimal boilerplate. Ideal for AI/ML projects, it supports multiple back‑ends (e.g., OpenAI, Anthropic, local Ollama) and offers extensible hooks for custom preprocessing and post‑processing.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/llmrb/llm.rb) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/llmrb/llm.rb) · [← Back to AI/ML](./README.md)</sub>
