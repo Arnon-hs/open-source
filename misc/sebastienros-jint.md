@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.6k |
-| 🍴 **Forks** | 595 |
+| 🍴 **Forks** | 596 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Jint is an open-source JavaScript interpreter for the .NET framework, allowing developers to execute JavaScript code within their .NET applications. This project provides a C# API for working with JavaScript, enabling integration and interoperability between the two technologies. By using Jint, developers can leverage the power of JavaScript in their .NET projects.
+The **jint** project provides a lightweight, pure‑C# JavaScript engine that runs on the .NET platform. It parses, compiles, and executes ECMAScript code, enabling developers to embed scripting capabilities directly into .NET applications without external dependencies. The library is open‑source, extensible, and suited for scenarios such as custom scripting, testing, or sandboxed code execution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/sebastienros/jint) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sebastienros/jint) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 207 |
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 208 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bounty` `bypass` `cheatsheet` `ctf` `dictionary` `fuzz` `hacking` `infosec` `infrastructure` `methodology` `payload` `penetration-testing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The AboutSecurity project is an open-source knowledge base for penetration testing, providing a comprehensive collection of security methodologies in AI-executable formats. This project aims to facilitate the sharing and execution of security knowledge through AI-powered tools and methods. It serves as a valuable resource for security professionals and enthusiasts alike.
+wgpsec/AboutSecurity is an open‑source knowledge base that consolidates penetration‑testing techniques and security methodologies into a format that can be consumed by AI agents. It serves both as a comprehensive reference for security professionals and as a programmable resource for integrating automated testing workflows within DevOps pipelines. The project bridges AI/ML capabilities with development tools to streamline and enhance security operations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/wgpsec/AboutSecurity) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/wgpsec/AboutSecurity) · [← Back to AI/ML](./README.md)</sub>

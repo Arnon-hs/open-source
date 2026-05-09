@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 12.4k |
-| 🍴 **Forks** | 515 |
+| 🍴 **Forks** | 518 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`almalinux` `alpine` `archlinux` `bash` `centos` `command-line` `containers` `debian` `development` `docker` `fedora` `linux`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Distrobox is an open-source project that enables users to run and interact with various Linux distributions directly within their terminal environment. This compatibility allows for seamless backward and forward compatibility with software, giving users the freedom to choose the distribution they prefer. With Distrobox, users can harness the benefits of different Linux distributions from the comfort of their own terminal.
+Distrobox lets you run any Linux distribution seamlessly inside your terminal, providing a portable, container‑based environment that works across host and guest systems. It enables both backward and forward compatibility for software, giving developers the freedom to choose the distro they prefer without impacting the underlying host. Ideal for DevOps and AI/ML workflows, Distrobox simplifies cross‑distribution testing and deployment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/89luca89/distrobox) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/89luca89/distrobox) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 445 |
+| 🍴 **Forks** | 444 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`communicate-passwords` `docker-container` `encryption` `file-sharing` `hacktoberfest` `information-technology` `msp` `netsec` `netsec-tools` `password` `password-expiration` `password-pusher`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-pglombardo/PasswordPusher is a promising open-source project. Categories: AI/ML, DevOps/Infra, Security. Interest score: 78/100.
+PasswordPusher is an open‑source web tool that lets users share confidential data—such as passwords, API keys, or one‑time codes—via a generated link that automatically expires after a configurable number of views or a set time period, with the payload being deleted from the server thereafter. It includes comprehensive audit logging to record who accessed the secret, what was accessed, and when, making it suitable for secure, temporary information exchange in DevOps, security, and automation workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/pglombardo/PasswordPusher) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pglombardo/PasswordPusher) · [← Back to AI/ML](./README.md)</sub>

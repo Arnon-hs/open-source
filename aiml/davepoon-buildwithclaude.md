@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 334 |
+| 🍴 **Forks** | 337 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code` `claude-code-commands` `claude-skills` `cli-tool` `commands` `mcp` `mcp-server` `mcp-tools` `openclaw` `plugin-marketplace` `subagents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The davepoon/buildwithclaude project is an open-source platform providing a centralized hub for discovering and utilizing various extensions to Claude, a cutting-edge AI technology. This hub offers access to Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections, empowering developers to extend the capabilities of Claude Code, Claude Desktop, Agent SDK, and OpenClaw. By consolidating these resources, buildwithclaude streamlines the integration process, facilitating the creation of innovative AI-powered applications.
+davepoon/buildwithclaude is a centralized hub that aggregates Claude‑related extensions—including Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections—to enhance the capabilities of Claude Code, Claude Desktop, the Agent SDK, and OpenClaw. By providing a searchable, curated catalog of these resources, the project streamlines discovery and integration of AI‑driven functionality for both frontend and backend developers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/davepoon/buildwithclaude) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/davepoon/buildwithclaude) · [← Back to AI/ML](./README.md)</sub>

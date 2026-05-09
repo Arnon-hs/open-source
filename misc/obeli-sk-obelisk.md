@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 458 |
+| ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`deterministic` `durable-functions` `obelisk` `runtime` `rust` `sqlite3` `wasi` `wasm` `workflow-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Obelisk is an open-source, durable, and deterministic workflow engine designed to provide robust and reliable execution of complex workflows. Its deterministic nature ensures consistent outcomes, making it an ideal choice for applications where reliability and reproducibility are paramount. This workflow engine offers a solid foundation for building dependable automation systems.
+Obelisk is an open‑source, durable workflow engine designed for deterministic execution of complex task pipelines. It provides a lightweight, language‑agnostic runtime that guarantees exactly‑once processing, fault‑tolerant state persistence, and reproducible results across restarts. Ideal for building reliable, maintainable data‑processing or automation workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/obeli-sk/obelisk) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/obeli-sk/obelisk) · [← Back to Misc](./README.md)</sub>

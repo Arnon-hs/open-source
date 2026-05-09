@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 95 |
+| 🍴 **Forks** | 96 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`devsecops` `golang` `hacktoberfest` `npm` `policy-as-code` `pypi` `rubygems` `security` `software-composition-analysis` `static-analysis` `supply-chain-security`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Safedep/vet is an open-source project that utilizes AI/ML techniques to detect and prevent malicious open-source packages from being integrated into software projects. This tool provides an additional layer of security by identifying potential threats and alerting developers to take necessary precautions. By leveraging machine learning, vet helps safeguard against potential security risks associated with compromised open-source libraries.
+Safedep vet is an open‑source security tool that scans project dependencies to detect and block malicious or compromised packages before they’re installed. Leveraging AI/ML techniques, it continuously monitors package metadata, behavior patterns, and known threat intel to provide developers with real‑time protection against supply‑chain attacks. The tool integrates seamlessly into CI/CD pipelines, helping teams maintain a trustworthy software supply chain.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/safedep/vet) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/safedep/vet) · [← Back to AI/ML](./README.md)</sub>

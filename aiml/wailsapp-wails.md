@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `desktop-application` `go` `golang` `javascript` `linux` `macos` `react` `svelte` `vuejs` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Wails is an open-source project that enables developers to build visually stunning desktop applications using the Go programming language. With Wails, users can create beautiful and intuitive applications that run seamlessly on multiple platforms, making it an ideal choice for developers who want to leverage the power of Go for frontend development. This project simplifies the process of building desktop applications, allowing developers to focus on crafting compelling user experiences.
+Wails is an open‑source framework that lets developers build native desktop applications with Go for the backend and modern web technologies (HTML, CSS, JavaScript) for the UI. By bundling a lightweight web view with Go’s compiled binaries, it enables fast, cross‑platform apps that feel like native software while still leveraging the rich ecosystem of frontend libraries.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/wailsapp/wails) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/wailsapp/wails) · [← Back to AI/ML](./README.md)</sub>

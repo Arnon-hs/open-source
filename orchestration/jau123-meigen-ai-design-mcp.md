@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 947 |
-| 🍴 **Forks** | 130 |
+| ⭐ **Stars** | 972 |
+| 🍴 **Forks** | 133 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-image-generation` `claude` `claude-code` `comfyui` `lovart` `mcp` `mcp-server` `model-context-protocol` `openclaw` `prompt-engineering`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-MeiGen-AI-Design-MCP is an open-source project that enables local development and customization of AI design tools, allowing users to turn Claude Code or OpenClaw into their own unique interface, Lovart. This project features a user-friendly ComfyUI, an extensive library of 1,400+ prompts, and the capability for multi-directional parallel generation. By leveraging AI/ML and backend technologies, MeiGen-AI-Design-MCP empowers users to create personalized and efficient design experiences.
+MeiGen‑AI‑Design‑MCP is an open‑source orchestration platform that unifies GPT‑4o‑mini image generation, Nanobanana, and ComfyUI into a single, multi‑task workflow. It ships with a curated library of over 1,400 prompts, robust hook integrations, and a flexible orchestration engine that lets developers chain and manage AI‑powered design tasks from the frontend with ease.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/jau123/MeiGen-AI-Design-MCP) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jau123/MeiGen-AI-Design-MCP) · [← Back to Orchestration](./README.md)</sub>

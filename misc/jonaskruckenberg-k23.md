@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 627 |
+| ⭐ **Stars** | 628 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`microkernel` `operating-system` `research` `wasm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The k23 project is an open-source, experimental WebAssembly (WASM) microkernel operating system designed to explore the possibilities of running an OS entirely in a web browser. This innovative approach seeks to provide a minimalist, modular, and secure foundation for building various applications and systems. By leveraging the flexibility of WebAssembly, k23 aims to redefine the boundaries of traditional operating system design.
+JonasKruckenberg/k23 is an experimental operating system built as a microkernel that runs entirely on WebAssembly (WASM). It explores the feasibility of using WASM as a low‑level platform for kernel services, process isolation, and hardware abstraction, providing a minimal yet extensible foundation for future OS research. The project is open source and targets hobbyists and developers interested in unconventional OS architectures.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/JonasKruckenberg/k23) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/JonasKruckenberg/k23) · [← Back to Misc](./README.md)</sub>

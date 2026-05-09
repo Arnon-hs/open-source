@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 212 |
+| 🍴 **Forks** | 220 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anti-detect` `anti-detect-browser` `anti-detection` `browser` `browser-management` `chromium` `firefox` `management` `manager` `orchestration` `orchestrator` `privacy`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration
 
 ## 📝 Summary
 
-The Donut Browser is an open-source, anti-detect browser designed for simplicity and power. It allows users to create multiple, unique browser profiles, making it ideal for tasks such as web scraping, market research, and social media management. This project aims to provide a versatile and user-friendly solution for those requiring multiple browser identities.
+zho​m/donutbrowser is an open‑source, lightweight web browser designed for anti‑detection and privacy‑preserving browsing. It combines a minimal footprint with powerful features—such as customizable fingerprints, headless operation, and built‑in proxy management—to help users evade tracking and automated detection systems. Ideal for security testing, automation, and privacy‑focused workflows, it fits within the “Orchestration” category by enabling easy integration into larger testing or bot‑management pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/zhom/donutbrowser) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/zhom/donutbrowser) · [← Back to Orchestration](./README.md)</sub>

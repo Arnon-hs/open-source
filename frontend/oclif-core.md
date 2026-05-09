@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `node` `oclif` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the oclif/core project:
-
-oclif/core is an open-source Node.js framework for building command-line interfaces (CLI). Developed by Salesforce, this framework provides a robust foundation for creating CLIs with ease, allowing developers to focus on building features rather than infrastructure. With oclif/core, developers can create scalable, maintainable, and user-friendly CLI tools for various use cases.
+oclif/core is a lightweight, modular framework for building command‑line interfaces in Node.js, offering a clear API, built‑in help generation, and plugin support. Developed by Salesforce, it enables developers to create robust, extensible CLIs with minimal boilerplate while integrating seamlessly into modern DevTools workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/oclif/core) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/oclif/core) · [← Back to Frontend](./README.md)</sub>

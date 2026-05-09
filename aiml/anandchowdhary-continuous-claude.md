@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 91 |
+| 🍴 **Forks** | 92 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The continuous-claude project is an open-source tool that continuously runs Claude code in a loop, autonomously creating pull requests (PRs), waiting for checks, and merging them. This project utilizes the Ralph loop to streamline the development process of Claude-based AI/ML applications. By automating the development workflow, continuous-claude enables developers to focus on more complex tasks.
+AnandChowdhary/continuous-claude is an autonomous workflow that continuously runs Claude (Anthropic’s language model) in a feedback loop: it generates code changes, opens pull requests, waits for CI checks, and automatically merges approved updates. By automating this “Ralph loop,” the project enables hands‑free, iterative development and rapid experimentation with AI‑generated code. It’s positioned as an AI/ML tool for continuous integration and self‑improving software pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/AnandChowdhary/continuous-claude) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/AnandChowdhary/continuous-claude) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 190 |
+| 🍴 **Forks** | 195 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `chat` `discord` `google-chat` `slack` `teams` `vercel`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The Vercel Chat SDK is an open-source, unified TypeScript library that enables developers to build and deploy chatbots across multiple platforms, including Slack, Microsoft Teams, Google Chat, and Discord. This SDK simplifies the process of integrating chat functionality into applications, allowing for a seamless and unified experience across various messaging platforms. By leveraging a single SDK, developers can reduce complexity and increase productivity when creating multi-channel chatbots.
+The **vercel/chat** project provides a single, type‑safe TypeScript SDK that lets developers create chat bots that run on multiple platforms—Slack, Microsoft Teams, Google Chat, Discord, and others—without writing platform‑specific code. By abstracting each service’s API behind a unified interface, it simplifies bot development, testing, and deployment while maintaining full TypeScript support for better developer experience and reliability. This makes it ideal for AI‑enhanced or interactive frontend applications that need to reach users across diverse messaging ecosystems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/vercel/chat) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/vercel/chat) · [← Back to AI/ML](./README.md)</sub>

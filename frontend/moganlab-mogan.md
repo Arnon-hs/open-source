@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 557 |
+| ⭐ **Stars** | 558 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Scheme |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`beamer` `codeeditor` `cpp` `editor` `emcc` `made-on-earth` `mathematics` `qt` `scheme` `texmacs` `wasm` `xmake`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Mogan is an open-source STEM (science, technology, engineering, and mathematics) education platform based on GNU TeXmacs. It provides an interactive and engaging environment for students to explore and learn various scientific and technological concepts. With Mogan, users can create and share interactive content, making it an ideal tool for educators and learners alike.
+MoganLab / mogan is an open‑source, front‑end scientific suite built on GNU TeXmacs, offering an integrated, WYSIWYG environment for creating, editing, and visualizing documents in mathematics, physics, engineering, and other STEM fields. It combines a rich typesetting engine with interactive tools for computation, data plotting, and symbolic manipulation, making it a versatile platform for exploring and presenting scientific content.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/MoganLab/mogan) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/MoganLab/mogan) · [← Back to Frontend](./README.md)</sub>

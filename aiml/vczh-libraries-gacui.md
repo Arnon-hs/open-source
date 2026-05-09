@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 324 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the GacUI project:
-
-GacUI is an open-source, native C++ UI library that provides a cross-platform framework for building high-performance user interfaces. With its MVVM architecture and data binding capabilities, GacUI enables efficient and flexible UI development, supporting multiple languages and XML-based descriptions. Its core/renderer separation design also facilitates seamless and scalable UI rendering.
+GacUI is a native C++ user‑interface framework that offers a fully cross‑platform solution with a clear separation between core logic and rendering, enabling both in‑process and out‑of‑process UI rendering. It supports modern development patterns such as MVVM, data binding, and XML‑based UI descriptions, and provides multilingual capabilities for building sophisticated desktop applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/vczh-libraries/GacUI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/vczh-libraries/GacUI) · [← Back to AI/ML](./README.md)</sub>

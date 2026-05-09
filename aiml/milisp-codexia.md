@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 663 |
-| 🍴 **Forks** | 63 |
+| ⭐ **Stars** | 671 |
+| 🍴 **Forks** | 64 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai` `ai-agents` `awesome` `chatgpt` `claude-code` `codex` `codex-cli` `codex-desktop` `codex-gui` `codex-ide` `codex-ui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The milisp/codexia project is an open-source Agent Workstation that integrates Codex CLI and Claude Code. It offers a comprehensive suite of features, including a task scheduler, git worktree management, and remote control capabilities. This project aims to facilitate AI/ML development and skills management, providing a unified platform for users to work efficiently with these tools.
+Milisp / Codexia is an open‑source agent workstation that integrates the Codex CLI with Claude‑powered code assistance, offering a unified environment for AI‑driven development. It features a task scheduler, Git worktree management, remote control capabilities, and a modular skills system, streamlining workflows for developers and AI researchers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/milisp/codexia) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/milisp/codexia) · [← Back to AI/ML](./README.md)</sub>

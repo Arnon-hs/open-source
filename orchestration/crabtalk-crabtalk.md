@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 584 |
-| 🍴 **Forks** | 74 |
+| ⭐ **Stars** | 615 |
+| 🍴 **Forks** | 76 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `agent-runtime` `ai` `ai-agent` `composable` `developer-tool` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Crabtalk is an open-source project that provides a daemon for agents, offering complete transparency and visibility. This project falls under the categories of orchestration, AI/ML, and development tools, indicating its potential applications in managing complex systems and integrating intelligent technologies. It appears designed to facilitate seamless interactions between various components and systems.
+CrabTalk is an open‑source daemon that orchestrates AI‑driven agents, providing a transparent, no‑secret‑kept environment for building and managing complex workflows. It serves as a lightweight yet powerful DevTools platform, enabling developers to deploy, coordinate, and monitor autonomous agents with full visibility into their actions and data flows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/crabtalk/crabtalk) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/crabtalk/crabtalk) · [← Back to Orchestration](./README.md)</sub>
