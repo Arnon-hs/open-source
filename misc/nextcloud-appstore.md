@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 382 |
-| 🍴 **Forks** | 171 |
+| ⭐ **Stars** | 384 |
+| 🍴 **Forks** | 172 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apps` `django` `foss` `nextcloud` `python` `store` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The nextcloud/appstore project is an open-source, community-driven application store for Nextcloud, providing users with a centralized platform to discover, install, and manage various apps and integrations for their cloud services. This store offers a convenient way to enhance Nextcloud's functionality, making it easier to access and utilize a wide range of features and tools. By contributing to this project, developers can share their apps and collaborate with others to enrich the Nextcloud ecosystem.
+The **nextcloud/appstore** repository provides the official App Store for Nextcloud, offering a convenient web interface where users can browse, install, and manage third‑party applications that extend the functionality of their Nextcloud instance. It integrates seamlessly with the Nextcloud core, handling app discovery, versioning, ratings, and automated updates while adhering to the platform’s security and licensing policies. This open‑source project enables developers to publish their apps and administrators to maintain a curated, self‑service marketplace within a Nextcloud deployment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/nextcloud/appstore) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nextcloud/appstore) · [← Back to Misc](./README.md)</sub>

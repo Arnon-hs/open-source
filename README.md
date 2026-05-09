@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3619** |
+| 🗂️ **Total projects** | **3659** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,14 +18,14 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1440 | [Browse →](./aiml/) |
-| 📦 **Misc** | 571 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 366 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 359 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 193 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 187 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 1460 | [Browse →](./aiml/) |
+| 📦 **Misc** | 581 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 368 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 362 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 194 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 190 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 144 | [Browse →](./crypto/) |
-| 📊 **Data** | 82 | [Browse →](./data/) |
+| 📊 **Data** | 83 | [Browse →](./data/) |
 | 💳 **Payments** | 81 | [Browse →](./payments/) |
 | 📈 **Trading** | 54 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 47 | [Browse →](./devopsinfra/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [arc53/DocsGPT](./aiml/arc53-docsgpt.md) | ⭐ 17.9k | AI/ML |
-| 2 | [affaan-m/everything-claude-code](./aiml/affaan-m-everything-claude-code.md) | ⭐ 176k | AI/ML |
-| 3 | [google/zx](./devtools/google-zx.md) | ⭐ 45.5k | DevTools |
-| 4 | [zulip/zulip](./frontend/zulip-zulip.md) | ⭐ 25.2k | Frontend |
-| 5 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 47.9k | AI/ML |
-| 6 | [asgeirtj/system_prompts_leaks](./aiml/asgeirtj-system-prompts-leaks.md) | ⭐ 39.9k | AI/ML |
-| 7 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
-| 8 | [winsiderss/systeminformer](./security/winsiderss-systeminformer.md) | ⭐ 14.5k | Security |
-| 9 | [JustArchiNET/ArchiSteamFarm](./backend/justarchinet-archisteamfarm.md) | ⭐ 13.3k | Backend |
-| 10 | [projectcalico/calico](./devopsinfra/projectcalico-calico.md) | ⭐ 7.2k | DevOps & Infra |
+| 1 | [mcp-use/mcp-use](./aiml/mcp-use-mcp-use.md) | ⭐ 9.9k | AI/ML |
+| 2 | [tikv/tikv](./data/tikv-tikv.md) | ⭐ 16.7k | Data |
+| 3 | [arc53/DocsGPT](./aiml/arc53-docsgpt.md) | ⭐ 17.9k | AI/ML |
+| 4 | [affaan-m/everything-claude-code](./aiml/affaan-m-everything-claude-code.md) | ⭐ 176k | AI/ML |
+| 5 | [google/zx](./devtools/google-zx.md) | ⭐ 45.5k | DevTools |
+| 6 | [zulip/zulip](./frontend/zulip-zulip.md) | ⭐ 25.2k | Frontend |
+| 7 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 47.9k | AI/ML |
+| 8 | [asgeirtj/system_prompts_leaks](./aiml/asgeirtj-system-prompts-leaks.md) | ⭐ 39.9k | AI/ML |
+| 9 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
+| 10 | [JustArchiNET/ArchiSteamFarm](./backend/justarchinet-archisteamfarm.md) | ⭐ 13.3k | Backend |
 
 ## 🚀 How it works
 

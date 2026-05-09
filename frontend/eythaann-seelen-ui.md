@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 521 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`app-launcher` `desktop-application` `dock` `finder` `multilanguage` `seelen` `seelen-ui` `taskbar` `tauri` `tauri-app` `tiling-window-manager` `toolbar`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Seelen-UI is an open-source, fully customizable desktop environment designed for Windows 10 and 11 users. This project offers a unique and adaptable interface, allowing users to personalize their desktop experience to suit their preferences. By providing a highly customizable frontend, Seelen-UI aims to enhance user productivity and satisfaction.
+Seelen‑UI is an open‑source, fully customizable desktop environment designed to replace the default Windows 10/11 shell. It offers a modern, modular UI with themeable components, window management tweaks, and extensive configuration options, allowing users to tailor the look and behavior of their desktop without altering the underlying OS. Ideal for developers and power users, Seelen‑UI integrates seamlessly with existing Windows workflows while providing a fresh, personalized experience.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/eythaann/Seelen-UI) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/eythaann/Seelen-UI) · [← Back to Frontend](./README.md)</sub>

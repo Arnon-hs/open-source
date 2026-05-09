@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 712 |
+| ⭐ **Stars** | 721 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cms` `content` `content-management` `hacktoberfest` `i18n` `internationalisation` `javascript` `l10n` `localization` `multilingual` `nextjs` `node`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Intlayer is an open-source, type-safe internationalization solution for JavaScript applications. It enables translation with the help of AI, allowing developers to easily manage and edit translations visually. This innovative approach makes it easier to create multilingual applications for web and mobile platforms.
+Intlayer is an open‑source, per‑component internationalisation library for JavaScript applications that guarantees type‑safe translations. It leverages AI to generate initial language strings and provides a visual editor for developers and designers to fine‑tune content across web, mobile, and frontend projects. The result is a streamlined workflow that keeps localization consistent, maintainable, and integrated directly into the codebase.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/aymericzip/intlayer) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/aymericzip/intlayer) · [← Back to AI/ML](./README.md)</sub>

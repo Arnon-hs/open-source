@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 426 |
-| 🍴 **Forks** | 52 |
+| ⭐ **Stars** | 432 |
+| 🍴 **Forks** | 54 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-coding` `anthropic` `claude` `claude-code` `coding-agent` `developer-tools` `dynamic-island` `macos` `menubar` `notch` `productivity` `swift`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the MioMioOS/MioIsland project:
-
-MioIsland is a macOS Dynamic Island extension designed for AI coding agents, enabling seamless monitoring and interaction with AI-powered coding sessions. This open-source project allows users to approve and jump directly to Claude Code sessions from the notch, streamlining their development workflow. By integrating AI coding capabilities with the macOS Dynamic Island, MioIsland enhances productivity and efficiency for developers.
+MioIsland is an open‑source macOS utility that transforms the Dynamic Island notch into an interactive hub for AI coding agents, specifically Claude. It lets users monitor active Claude code sessions, approve suggested changes, and instantly jump to the relevant editor—all from the notch, streamlining AI‑assisted development workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/MioMioOS/MioIsland) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/MioMioOS/MioIsland) · [← Back to AI/ML](./README.md)</sub>

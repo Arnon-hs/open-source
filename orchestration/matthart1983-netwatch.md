@@ -1,6 +1,6 @@
 # matthart1983/netwatch
 
-[![Stars](https://img.shields.io/github/stars/matthart1983/netwatch?style=flat-square&color=yellow)](https://github.com/matthart1983/netwatch/stargazers) [![Forks](https://img.shields.io/github/forks/matthart1983/netwatch?style=flat-square&color=blue)](https://github.com/matthart1983/netwatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matthart1983/netwatch?style=flat-square&color=yellow)](https://github.com/matthart1983/netwatch/stargazers) [![Forks](https://img.shields.io/github/forks/matthart1983/netwatch?style=flat-square&color=blue)](https://github.com/matthart1983/netwatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 55 |
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 64 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Orchestration
 
 ## 📝 Summary
 
-Here's a brief summary for the matthart1983/netwatch project:
-
-Netwatch is an open-source project that provides real-time network diagnostics in your terminal, allowing you to gain instant visibility into your network's performance with a single command. It requires zero configuration, making it easy to use and integrate into your existing workflows. With netwatch, you can quickly identify and troubleshoot network issues.
+matthart1983/netwatch is a lightweight, terminal‑based tool that provides real‑time network diagnostics with a single command and no configuration required. It instantly visualizes connectivity, latency, and packet flow, making it ideal for quick troubleshooting and continuous monitoring in orchestration environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/matthart1983/netwatch) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/matthart1983/netwatch) · [← Back to Orchestration](./README.md)</sub>

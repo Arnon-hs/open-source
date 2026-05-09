@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-framework` `ai` `apps-sdk` `chatgpt` `claude-code` `llms` `mcp` `mcp-apps` `mcp-client` `mcp-gateway` `mcp-host` `mcp-inspector`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the MCP-use project:
-
-mcp-use is an open-source, full-stack framework for building MCP (Multi-Client Protocol) applications and servers for AI agents on platforms like ChatGPT and Claude. It enables developers to create end-to-end AI solutions, from frontend interfaces to backend servers, using a unified and modular architecture. With mcp-use, developers can rapidly build and deploy MCP Apps and Servers for various AI use cases.
+mcp-use is an open‑source full‑stack framework that streamlines the creation of MCP (Model‑Centric Programming) applications for conversational AI platforms such as ChatGPT and Claude, as well as the development of MCP servers that host AI agents. It provides a unified codebase covering both frontend UI components and backend services, enabling developers to quickly build, deploy, and scale AI‑driven applications with minimal boilerplate.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mcp-use/mcp-use) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/mcp-use/mcp-use) · [← Back to AI/ML](./README.md)</sub>

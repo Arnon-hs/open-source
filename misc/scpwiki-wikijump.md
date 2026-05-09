@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`postgresql` `rust` `scp-wiki` `svelte` `typescript` `wikidot` `wikijump`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Project Foundation, developed by the SCP Wiki's wikijump project, is an open-source alternative to the Wikidot platform. This project aims to provide a comprehensive and customizable wiki solution for communities, offering a replacement for the Wikidot platform's limitations. By utilizing Project Foundation, users can create and manage their own wikis with greater flexibility and control.
+scpwiki/wikijump is an open‑source platform that recreates the SCP Wiki’s functionality after the original site’s migration from Wikidot. It provides a full‑featured, self‑hosted wiki engine—complete with user accounts, permissions, tagging, and the custom markup used by the SCP community—allowing anyone to run their own SCP‑style collaborative writing site. The project is maintained by the SCP Wiki community and is released under an open‑source license.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/scpwiki/wikijump) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/scpwiki/wikijump) · [← Back to Misc](./README.md)</sub>

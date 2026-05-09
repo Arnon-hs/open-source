@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 274 |
+| ⭐ **Stars** | 277 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agents` `ai` `ai-security` `els` `enforcement` `execution-layer-security` `executionlayersecurity` `policy` `security`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "canyonroad/agentsh":
-
-Agentsh is an open-source Execution-Layer Security (ELS) framework designed to enhance the security of AI agents by enforcing policies and maintaining audit trails. This policy-enforced shell provides a robust layer of protection against unauthorized access and malicious activities, making it a crucial tool for organizations leveraging AI/ML technologies. By integrating ELS into AI agent development, Agentsh aims to promote a more secure and trustworthy AI ecosystem.
+canyonroad/agentsh provides an Execution‑Layer Security (ELS) framework for AI agents, wrapping them in a policy‑enforced shell that controls and monitors every action they attempt. It enforces configurable security policies, logs all interactions for auditability, and isolates agents from unsafe operations, making it easier to deploy trustworthy autonomous systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/canyonroad/agentsh) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/canyonroad/agentsh) · [← Back to AI/ML](./README.md)</sub>

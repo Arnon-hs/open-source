@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 242 |
-| 🍴 **Forks** | 31 |
+| ⭐ **Stars** | 248 |
+| 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mcp-server` `model-context-protocol`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-This open-source project, "computer-use-mcp," allows AI models to assume complete control of a computer, providing a unique level of autonomy and interaction. Developed by domdomegg, the project explores the possibilities and potential risks of such a setup, raising questions about the boundaries between AI and user control. It serves as an experimental platform for AI/ML and backend development.
+**Summary:**  
+The *computer-use-mcp* project provides a simple backend that lets AI models take full control of a host computer, enabling them to execute commands, manipulate files, and interact with the operating system directly. While designed as a proof‑of‑concept for autonomous AI agents, the tool carries significant security risks and is intended for experimental or sandboxed environments only.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/domdomegg/computer-use-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/domdomegg/computer-use-mcp) · [← Back to AI/ML](./README.md)</sub>

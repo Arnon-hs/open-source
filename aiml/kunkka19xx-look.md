@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 106 |
+| ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apple` `launcher` `macos` `opensource` `rofi-macos` `rust` `spotlight` `swift`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "look":
-
-"Look is an open-source, community-driven launcher for macOS that offers a lightweight alternative to Spotlight and Raycast. Developed in collaboration with AI agents, this innovative project leverages artificial intelligence and machine learning to provide a seamless search experience. By harnessing the power of AI, Look aims to revolutionize the way users interact with their Mac."
+kunkka19xx/look is a lightweight, open‑source launcher for macOS that offers a fast, community‑driven alternative to built‑in tools like Spotlight and third‑party apps such as Raycast. Designed for simplicity and extensibility, the project is actively developed with the assistance of AI agents, inviting contributions from developers to shape its features and improve macOS productivity.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/kunkka19xx/look) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/kunkka19xx/look) · [← Back to AI/ML](./README.md)</sub>

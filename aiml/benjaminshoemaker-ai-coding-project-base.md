@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the open-source project:
-
-The AI Coding Project Base is an open-source toolkit that provides a structured framework for building software products with AI coding assistants. This framework guides users through the product development process, from specification and technical design to implementation planning, generating actionable documents that AI agents can execute against. By streamlining the development process, this toolkit aims to enhance collaboration between humans and AI coding assistants.
+The **ai_coding_project_base** repository provides a structured prompt framework that streamlines the creation of software products using AI coding assistants. It guides developers through product specification, technical design, and implementation planning, automatically generating the documentation and artefacts that AI agents can act upon to build the solution. This toolkit is ideal for teams looking to integrate AI-driven development into their frontend and design workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/benjaminshoemaker/ai_coding_project_base) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/benjaminshoemaker/ai_coding_project_base) · [← Back to AI/ML](./README.md)</sub>

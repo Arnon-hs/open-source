@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.7k |
-| 🍴 **Forks** | 546 |
+| 🍴 **Forks** | 547 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-agents` `api` `developer-tools` `discord` `function-calling` `integration` `llm` `mcp` `mcp-client` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Klavis is an open-source integration platform that enables AI agents to utilize various tools at any scale, providing a reliable solution for large-scale deployments. This platform integrates with MCP (Multi-Cloud Platform), allowing for seamless and efficient interactions between AI systems and their tools. Klavis aims to simplify the process of scaling AI applications by providing a scalable and reliable infrastructure.
+Klavis AI is an open‑source integration platform that enables AI agents to reliably invoke external tools and services—such as APIs, databases, or micro‑services—at any scale. By providing a standardized MCP (Machine‑to‑Computer Protocol) layer and robust backend infrastructure, it simplifies the development, deployment, and orchestration of tool‑augmented AI applications. The project targets AI/ML developers, backend engineers, and DevOps teams looking to build production‑grade, tool‑enabled AI systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Klavis-AI/klavis) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Klavis-AI/klavis) · [← Back to AI/ML](./README.md)</sub>

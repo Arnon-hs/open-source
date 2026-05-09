@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `salesforce`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The Salesforce CLI is an open-source command-line interface that enables developers to interact with Salesforce using a series of commands. It allows users to manage their Salesforce orgs, deploy applications, and perform various other tasks directly from the terminal. With the Salesforce CLI, developers can streamline their workflow and automate repetitive tasks.
+The **salesforcecli/cli** project provides the `sf` command‑line interface, a unified tool for building, testing, and managing Salesforce applications from the terminal. It bundles core Salesforce DX functionality, supports scripting, automation, and integrates with popular DevOps workflows, making it a versatile utility for developers and administrators working with the Salesforce platform.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/salesforcecli/cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/salesforcecli/cli) · [← Back to DevTools](./README.md)</sub>

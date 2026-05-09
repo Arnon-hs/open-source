@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8.9k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`at` `consistency` `distributed-transaction` `microservice` `saga` `tcc` `xa`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Seata is an open-source distributed transaction solution that enables easy-to-use and high-performance transactions across microservices architectures. This project provides a robust framework for ensuring data consistency and reliability in distributed systems, allowing developers to focus on business logic without worrying about complex transactional issues. By using Seata, developers can build robust, scalable, and fault-tolerant systems that meet the demands of modern applications.
+Apache Incubator Seata is a lightweight, high‑performance open‑source framework that provides distributed transaction management for microservices and cloud‑native applications. It supports multiple transaction modes (AT, TCC, SAGA, and XA) and integrates seamlessly with popular data stores, RPC frameworks, and service meshes, enabling developers to achieve strong consistency with minimal code changes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/apache/incubator-seata) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/apache/incubator-seata) · [← Back to Backend](./README.md)</sub>

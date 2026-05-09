@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`batch` `cli` `media` `metadata` `movie` `organizer` `python` `television`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Data
 
 ## 📝 Summary
 
-The mnamer project is an open-source tool that simplifies the process of renaming and organizing media files, making it easier to manage large collections of photos, videos, and other files. This tool allows users to customize renaming rules and formats to suit their specific needs, helping to keep their media files neatly organized and easily accessible. With mnamer, users can efficiently maintain their media libraries and streamline their workflow.
+jkwill87 / mnamer is an open‑source command‑line utility that automates the renaming and re‑organization of media files such as movies, TV shows, music, and podcasts. By parsing filenames, extracting metadata from online databases, and applying customizable naming templates, it helps users keep their media collections tidy and consistently structured. The tool is built for developers and power users who need a lightweight, scriptable solution for media library management.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/jkwill87/mnamer) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jkwill87/mnamer) · [← Back to DevTools](./README.md)</sub>

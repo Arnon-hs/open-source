@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 266 |
-| 🍴 **Forks** | 27 |
+| ⭐ **Stars** | 280 |
+| 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the OpenData project:
-
-OpenData is an open-source collection of databases built on a unified, object-native storage foundation, providing a scalable and efficient infrastructure for data management. This project allows developers to leverage a common platform for data storage, making it easier to integrate and collaborate with various AI/ML applications. By providing a flexible data foundation, OpenData empowers the development of innovative data-driven solutions.
+OpenData is an open‑source suite of databases that share a unified, object‑native storage layer and common infrastructure, making it easy to manage, query, and integrate diverse data sets. By providing a consistent API and tooling across the stack, it enables developers to build AI/ML pipelines, front‑end applications, and data‑driven services without worrying about underlying storage complexities. The project is geared toward anyone needing scalable, interoperable data solutions in a collaborative, community‑driven environment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/opendata-oss/opendata) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/opendata-oss/opendata) · [← Back to AI/ML](./README.md)</sub>

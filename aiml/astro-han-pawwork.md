@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 33 |
+| ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `byok` `claude-desktop-alternative` `codex-alternative` `desktop-ai-agent` `desktop-app` `electron` `opencode` `productivity` `solidjs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Astro-Han/pawwork is an open-source AI agent designed to function seamlessly on desktop devices, requiring no extensive setup. This project offers a user-friendly AI experience, empowering individuals to leverage the power of artificial intelligence without needing extensive technical expertise. By providing an out-of-the-box solution, Astro-Han/pawwork aims to bridge the gap between AI technology and everyday users.
+Astro‑Han/pawwork is an open‑source AI agent designed to run instantly on a personal computer, providing a ready‑to‑use conversational or task‑automation assistant without complex setup. Built with modern AI/ML frameworks, it offers plug‑and‑play functionality for developers and end‑users alike, enabling quick integration into desktop workflows and product prototypes.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/Astro-Han/pawwork) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Astro-Han/pawwork) · [← Back to AI/ML](./README.md)</sub>

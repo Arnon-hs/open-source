@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cncf` `consensus` `distributed-transactions` `hacktoberfest` `key-value` `raft` `rocksdb` `rust` `tidb` `tikv`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Tikv is an open-source, distributed transactional key-value database designed to provide high-performance and strong consistency. Originally developed to complement TiDB, it offers a scalable and reliable solution for storing and managing large amounts of data. As a key-value store, Tikv supports ACID compliance and is suitable for a wide range of applications, including databases, caching, and more.
+TikV is a high-performance, distributed transactional key‑value store designed for horizontal scalability and strong consistency. Built as the storage engine behind TiDB, it offers ACID‑compliant multi‑row transactions, snapshot isolation, and automatic sharding across a cluster of nodes. The project provides a Rust‑based, open‑source foundation for building cloud‑native, fault‑tolerant databases and other data‑intensive applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/tikv/tikv) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tikv/tikv) · [← Back to Data](./README.md)</sub>

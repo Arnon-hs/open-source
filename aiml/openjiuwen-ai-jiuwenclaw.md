@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 654 |
-| 🍴 **Forks** | 104 |
+| ⭐ **Stars** | 668 |
+| 🍴 **Forks** | 110 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-JiuwenClaw is an open-source AI agent that leverages the capabilities of large language models, providing seamless integration with popular communication apps. This intelligent agent empowers users to interact with AI directly through their daily applications, streamlining access to AI-powered features. With JiuwenClaw, users can harness the power of AI in a more intuitive and user-friendly way.
+JiuwenClaw is an open‑source AI agent built on the openJiuwen framework, designed to bring the full power of large language models to everyday communication tools. By integrating with popular messaging and collaboration apps, it lets users interact with an intelligent assistant directly from the platforms they already use. The project combines AI/ML capabilities with a user‑friendly frontend for seamless, on‑demand assistance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/openJiuwen-ai/jiuwenclaw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/openJiuwen-ai/jiuwenclaw) · [← Back to AI/ML](./README.md)</sub>

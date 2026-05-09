@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 104 |
-| 🍴 **Forks** | 13 |
+| ⭐ **Stars** | 113 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `deepagents` `mcp` `skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the LambChat project:
-
-LambChat is a highly customizable, multi-tenant AI conversation system designed for scalability and flexibility. Built with a modular architecture, it utilizes a dual-engine approach combining skills and MCP (Modular Conversational Platform) to drive intelligent conversations. This open-source project supports advanced features such as multi-modal document processing, authentication, and GitHub-synced skills.
+LambChat is an open‑source, multi‑tenant platform that lets developers build, host, and scale AI agents using a dual‑engine architecture (Skills + MCP). It features real‑time SSE streaming, multimodal document intelligence, JWT/RBAC‑based enterprise security, and a GitHub‑linked marketplace for sharing and installing skills.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Yanyutin753/LambChat) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Yanyutin753/LambChat) · [← Back to AI/ML](./README.md)</sub>
