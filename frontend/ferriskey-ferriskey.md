@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 582 |
-| 🍴 **Forks** | 74 |
+| ⭐ **Stars** | 589 |
+| 🍴 **Forks** | 75 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`autorization` `cloud-native` `hacktoberfest` `iam` `oauth2` `oidc` `react` `rust` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Security · Design
 
 ## 📝 Summary
 
-FerrisKey is an open-source Identity and Access Management (IAM) solution engineered for high-performance in modern cloud-native environments. Built with Rust, this scalable and secure platform provides a robust foundation for managing identities and access controls in distributed systems. Its open-source design enables customization and flexibility for a wide range of cloud-native applications.
+FerrisKey is a Rust‑based, open‑source identity and access management (IAM) platform built for modern, cloud‑native environments. It delivers high‑performance authentication and authorization features while offering a clean, developer‑friendly frontend and robust security design. Ideal for teams seeking a fast, secure, and extensible IAM solution that integrates seamlessly with contemporary infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ferriskey/ferriskey) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ferriskey/ferriskey) · [← Back to Frontend](./README.md)</sub>

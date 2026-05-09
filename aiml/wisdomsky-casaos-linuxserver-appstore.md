@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 426 |
-| 🍴 **Forks** | 62 |
+| 🍴 **Forks** | 63 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`casaos` `docker` `linuxserver` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-CasaOS-LinuxServer-AppStore is an open-source project that offers a custom application store for Linux systems, featuring over 100+ pre-configured images from LinuxServer.io. This Appstore serves as a one-stop-shop for users to easily access and deploy a wide range of AI, ML, backend, and DevOps/Infra tools. By providing a centralized platform, CasaOS-LinuxServer-AppStore streamlines the process of setting up and managing Linux-based applications.
+WisdomSky’s **CasaOS‑LinuxServer‑AppStore** is a curated collection of more than 100 Docker images from LinuxServer.io, packaged as a custom AppStore for the CasaOS home‑cloud platform. It streamlines the deployment of popular server‑side services—ranging from media servers to AI/ML tools—by providing ready‑to‑install, pre‑configured containers that integrate seamlessly with CasaOS’s UI and automation workflows. Ideal for developers, DevOps engineers, and hobbyists looking to quickly spin up robust backend services on a single‑board or home server.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/WisdomSky/CasaOS-LinuxServer-AppStore) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/WisdomSky/CasaOS-LinuxServer-AppStore) · [← Back to AI/ML](./README.md)</sub>

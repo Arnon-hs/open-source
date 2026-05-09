@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 194 |
-| 🍴 **Forks** | 29 |
+| ⭐ **Stars** | 211 |
+| 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`addon` `ai` `anthropic` `cad` `freecad` `freecad-addon` `freecad-workbench` `llm` `mcp` `ollama` `openai` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, ghbalf/freecad-ai, offers an AI-powered assistant workbench for FreeCAD, enabling users to generate 3D models directly from natural language input. The workbench utilizes AI capabilities to translate verbal descriptions into precise 3D geometry, streamlining the design process for FreeCAD users. This integration aims to make 3D modeling more accessible and efficient.
+The **ghbalf/freecad‑ai** project adds an AI‑driven workbench to FreeCAD that lets users create and modify 3D models by describing them in natural language. By leveraging large language models, the extension translates textual prompts into parametric geometry, streamlining the design workflow for engineers, hobbyists, and educators. It is open‑source and falls under the AI/ML category.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/ghbalf/freecad-ai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ghbalf/freecad-ai) · [← Back to AI/ML](./README.md)</sub>

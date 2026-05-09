@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 288 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 291 |
+| 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-framework` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the KohakuTerrarium project:
-
-KohakuTerrarium is an open-source framework for building and running self-contained AI agents and multi-agent teams, offering a comprehensive set of tools for development, deployment, and management. This batteries-included app provides a TUI (Text User Interface) and web UI for seamless interaction, along with features like persistent sessions and sub-agents. By leveraging KohakuTerrarium, developers can easily create and orchestrate complex AI systems with ease.
+KohakuTerrarium is an open‑source, general‑purpose framework for creating and managing AI agents and multi‑agent teams. It ships with a full‑featured application that includes built‑in tools, sub‑agents, persistent sessions, and both TUI and web interfaces, making it easy to compose self‑contained agents for a wide range of tasks. The project targets orchestration, AI/ML, and frontend development workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Kohaku-Lab/KohakuTerrarium) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Kohaku-Lab/KohakuTerrarium) · [← Back to Orchestration](./README.md)</sub>

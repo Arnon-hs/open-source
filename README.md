@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4419** |
+| 🗂️ **Total projects** | **4459** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,12 +18,12 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1798 | [Browse →](./aiml/) |
-| 📦 **Misc** | 723 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 437 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 431 | [Browse →](./frontend/) |
-| 🔧 **DevTools** | 235 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 224 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 1816 | [Browse →](./aiml/) |
+| 📦 **Misc** | 730 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 441 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 440 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 236 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 225 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 167 | [Browse →](./crypto/) |
 | 📊 **Data** | 95 | [Browse →](./data/) |
 | 💳 **Payments** | 86 | [Browse →](./payments/) |
@@ -40,8 +40,8 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [TeamNewPipe/NewPipe](./mobile/teamnewpipe-newpipe.md) | ⭐ 38k | Mobile |
-| 2 | [ai-collection/ai-collection](./aiml/ai-collection-ai-collection.md) | ⭐ 8.9k | AI/ML |
-| 3 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
+| 2 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
+| 3 | [ai-collection/ai-collection](./aiml/ai-collection-ai-collection.md) | ⭐ 8.9k | AI/ML |
 | 4 | [alibaba/spring-cloud-alibaba](./frontend/alibaba-spring-cloud-alibaba.md) | ⭐ 29.1k | Frontend |
 | 5 | [Anionex/banana-slides](./aiml/anionex-banana-slides.md) | ⭐ 14.4k | AI/ML |
 | 6 | [tw93/Pake](./misc/tw93-pake.md) | ⭐ 48.6k | Misc |

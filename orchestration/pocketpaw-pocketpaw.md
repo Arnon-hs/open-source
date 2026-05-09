@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 787 |
+| ⭐ **Stars** | 791 |
 | 🍴 **Forks** | 297 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `cli` `jarvis-assistant` `multi-agent-systems` `ollama` `open-source` `personal-assistant` `python` `security` `self-hosted` `telegram-bot-ai-assistant`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Pocketpaw is an open-source, self-hosted personal AI assistant that can be installed on a desktop in under 30 seconds. This multi-agent system comes equipped with a Command Center (Deep Work) for management and a robust 7-layer security framework for added protection. Users can integrate Anthropic, OpenAI, or Ollama models into their personal AI setup.
+PocketPaw is a self‑hosted, open‑source personal AI platform that lets you spin up a full‑featured AI agent in under a minute. It includes a desktop installer, a multi‑agent “Command Center” for deep‑work workflows, and a seven‑layer security model, and works with Anthropic, OpenAI, or Ollama backends. Designed for orchestration, AI/ML, and developer tooling, PocketPaw streamlines AI integration without the long setup times of traditional solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/pocketpaw/pocketpaw) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pocketpaw/pocketpaw) · [← Back to Orchestration](./README.md)</sub>

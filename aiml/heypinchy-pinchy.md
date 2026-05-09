@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 154 |
+| ⭐ **Stars** | 156 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Pinchy is a self-hosted AI agent platform built on OpenClaw, providing an enterprise-ready and offline-capable solution for organizations. This open-source project allows users to deploy and manage AI agents on their own infrastructure, offering flexibility and control. With its robust features and customizable architecture, Pinchy is suitable for businesses and developers seeking a secure and scalable AI platform.
+Pinchy is a self‑hosted AI agent platform built on the OpenClaw framework, designed for enterprises that need an offline‑capable, open‑source solution. It provides a lightweight, extensible frontend for deploying and managing AI agents securely on‑premises, with built‑in support for scaling, authentication, and custom integrations. The project aims to combine enterprise‑grade reliability with the flexibility of an open‑source ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/heypinchy/pinchy) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/heypinchy/pinchy) · [← Back to AI/ML](./README.md)</sub>

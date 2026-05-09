@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 181 |
+| 🍴 **Forks** | 182 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The monosans/proxy-list project is an open-source initiative that provides up-to-date lists of HTTP, SOCKS4, and SOCKS5 proxies with geolocation information. These proxy lists are updated every hour, offering users a reliable source of proxy servers for various applications. The project aims to facilitate proxy-based operations and services by providing a regularly refreshed and freely accessible resource.
+Monosans/proxy-list is an open‑source repository that provides regularly refreshed lists of public HTTP, SOCKS4, and SOCKS5 proxies, each entry enriched with geolocation data (country, city, IP type, etc.). The proxy data is automatically updated every hour, making it a reliable source for developers and researchers who need up‑to‑date proxy information for testing, scraping, or anonymity purposes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/monosans/proxy-list) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/monosans/proxy-list) · [← Back to Misc](./README.md)</sub>

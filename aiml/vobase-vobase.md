@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 48 |
-| 🍴 **Forks** | 9 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`better-auth` `bun` `claude` `drizzle-orm` `flyio` `honojs` `mcp` `rag` `railway` `render` `shadcn-ui` `skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-vobase is an open-source app framework designed specifically for AI coding agents, allowing them to build and customize applications with maximum flexibility. This framework enables AI agents to have full control over the codebase, empowering them to extend and improve the application as needed. With vobase, AI agents can unlock their full potential and create tailored solutions with ease.
+vobase is an open‑source application framework designed specifically for AI‑driven coding agents, providing a modular, security‑focused foundation that lets the AI generate, extend, and own every line of code. It combines robust frontend tooling with built‑in safeguards, enabling developers to quickly build, customize, and secure AI‑enhanced applications without reinventing the underlying infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/vobase/vobase) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/vobase/vobase) · [← Back to AI/ML](./README.md)</sub>

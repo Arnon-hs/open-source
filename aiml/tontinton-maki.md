@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 274 |
-| 🍴 **Forks** | 32 |
+| ⭐ **Stars** | 284 |
+| 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Maki is an open-source, efficient AI coding agent designed to assist developers with coding tasks. Leveraging AI and machine learning capabilities, Maki aims to automate and simplify the coding process, saving time and increasing productivity for programmers. By streamlining coding workflows, Maki provides a powerful tool for developers seeking to accelerate their development processes.
+tontinton/maki is an open‑source, high‑performance AI coding assistant designed to streamline software development. Leveraging advanced machine‑learning models, it provides fast, context‑aware code suggestions, completions, and refactorings across multiple programming languages. The project is targeted at developers seeking an efficient, extensible tool for automated code generation and improvement.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/tontinton/maki) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tontinton/maki) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | Makefile |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The openwrt/packages project is a community-driven repository of packages for OpenWrt, a popular open-source router operating system. This collection of packages is maintained and updated by the community, ensuring users have access to a wide range of software for their OpenWrt devices. By contributing to this project, users can enhance their OpenWrt experience with additional functionality and features.
+openwrt/packages is a community‑driven collection of additional software packages for the OpenWrt router firmware. It provides a centralized repository where contributors can add, update, and maintain packages, with clear contribution guidelines documented in the CONTRIBUTING.md file. This open‑source project helps expand OpenWrt’s functionality by making third‑party packages easy to discover, build, and integrate.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/openwrt/packages) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/openwrt/packages) · [← Back to AI/ML](./README.md)</sub>

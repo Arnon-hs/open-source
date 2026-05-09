@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 385 |
+| 🍴 **Forks** | 386 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `dag` `graph` `pipeline` `taskflow` `workflow`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the CGraph project:
-
-CGraph is an open-source, cross-platform, and dependency-free DAG (Directed Acyclic Graph) framework for parallel computing. It supports both C++ and Python, making it a versatile tool for AI/ML applications. CGraph is a featured project in Awesome C++ and encourages community contributions and collaboration.
+ChunelFeng’s **CGraph** is a lightweight, cross‑platform framework for constructing and executing directed acyclic graphs (DAGs) in both C++ and Python. It provides a zero‑dependency, stream‑graph model for parallel computation, making it suitable for AI/ML pipelines and other data‑flow workloads, and is listed among the “awesome‑cpp” projects.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/ChunelFeng/CGraph) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ChunelFeng/CGraph) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.2k |
-| 🍴 **Forks** | 545 |
+| 🍴 **Forks** | 548 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `asgi` `asyncio` `litestar` `litestar-api` `litestar-framework` `msgspec` `openapi` `pydantic` `python` `rapidoc` `redoc`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Litestar is an open-source, light, flexible, and extensible ASGI framework designed to handle high-volume applications with ease. Built with scalability in mind, it provides a robust foundation for building scalable, high-performance web applications. With its extensible nature, developers can easily customize and adapt Litestar to suit their specific needs.
+Litestar is a lightweight, flexible, and extensible ASGI framework designed for building high‑performance web applications and APIs. It offers a modular architecture with built‑in support for routing, dependency injection, validation, and async execution, making it easy to scale from simple services to complex, production‑grade systems. The project also includes developer tools such as automatic documentation, testing utilities, and extensibility points for custom middleware and plugins.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/litestar-org/litestar) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/litestar-org/litestar) · [← Back to Frontend](./README.md)</sub>

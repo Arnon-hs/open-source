@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 35 |
+| ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-workflow` `ai-agents` `ai-coding` `anthropic` `automation` `autonomous-agents` `claude` `claude-code` `code-review` `developer-tools` `doer-reviewer` `gemini`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-ApraFleet is an open-source project that utilizes AI agents to automate coding tasks, such as code generation and review, as well as machine coordination. This innovative platform leverages AI/ML capabilities to streamline development workflows, enhancing efficiency and productivity. By orchestrating code development and review across multiple machines, ApraFleet empowers developers to focus on high-level tasks.
+Apra Fleet is an open‑source framework that deploys autonomous AI agents to generate, review, and refine code across multiple machines. By orchestrating these agents to collaborate and validate each other's output, the platform streamlines development workflows, enhances code quality, and enables scalable, self‑organizing DevOps pipelines. It combines orchestration, AI/ML, and developer tooling to turn code creation into a coordinated, multi‑agent process.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Apra-Labs/apra-fleet) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Apra-Labs/apra-fleet) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 116 |
+| ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bioconductor` `cli` `cran` `package-manager` `r` `renv` `rstats` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The uvr package is an open-source R package manager built with Rust, aiming to provide exceptional speed and efficiency in managing R packages. It serves as the R equivalent of the popular Python package manager, uv, offering a fast and reliable solution for R developers. By leveraging Rust's performance capabilities, uvr seeks to revolutionize the way R developers interact with their packages.
+nbafrank/uvr is a high‑performance package manager for the R ecosystem, built in Rust to deliver ultra‑fast dependency resolution and installation. It brings the speed and simplicity of Python’s uv tool to R, offering a modern, command‑line interface for managing libraries and environments. Ideal for developers seeking rapid, reliable R package management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/nbafrank/uvr) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nbafrank/uvr) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 734 |
+| ⭐ **Stars** | 733 |
 | 🍴 **Forks** | 619 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `ss13` `unity`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-unitystation/unitystation is a promising open-source project. Categories: Misc. Interest score: 58/100.
+UnityStation is an open‑source recreation of the classic multiplayer space‑simulation game *Space Station 13*, built on the Unity engine. It provides a fully functional, community‑driven server and client platform that lets players explore, build, and role‑play aboard a space station with extensive modding support. The project aims to preserve the original gameplay experience while leveraging modern tools for easier development and cross‑platform play.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/unitystation/unitystation) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/unitystation/unitystation) · [← Back to Misc](./README.md)</sub>

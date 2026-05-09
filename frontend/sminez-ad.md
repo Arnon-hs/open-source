@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 705 |
+| ⭐ **Stars** | 709 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`9p` `acme` `plan9` `regex` `rust` `text-editor` `tui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-"Sminiez/ad is an open-source, adaptable text editor designed to cater to diverse user needs. This user-friendly frontend project offers a customizable interface and features that allow users to tailor their editing experience to suit their preferences. With its adaptable nature, sminiez/ad aims to provide a seamless and efficient text editing experience across various platforms."
+sminez/ad is a lightweight, open‑source text editor designed for the web, offering a highly adaptable interface that can be customized to fit a wide range of frontend development workflows. It supports syntax highlighting, extensible plugins, and real‑time collaboration features, making it suitable for both simple note‑taking and complex code editing tasks. The project’s modular architecture allows developers to tailor the editor’s UI and functionality to their specific needs while keeping the core codebase clean and maintainable.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/sminez/ad) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sminez/ad) · [← Back to Frontend](./README.md)</sub>

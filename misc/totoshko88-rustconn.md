@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 313 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 323 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-RustConn is a modern, open-source connection manager designed for Linux systems. It features a native interface built with GTK4 and Wayland, providing a seamless user experience. This connection manager aims to offer a contemporary alternative for managing network connections on Linux devices.
+Totoshko88’s **RustConn** is a modern connection manager for Linux, built with Rust and featuring a native GTK 4 interface that runs smoothly on Wayland. It provides a sleek, user‑friendly UI for managing network connections, leveraging Rust’s safety and performance while integrating tightly with the latest Linux desktop stack.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/totoshko88/RustConn) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/totoshko88/RustConn) · [← Back to Misc](./README.md)</sub>

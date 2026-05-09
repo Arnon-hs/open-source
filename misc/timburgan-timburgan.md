@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 192 |
+| 🍴 **Forks** | 191 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The timburgan/timburgan project is an open-source initiative that enables users to play chess directly on the GitHub platform. This unique feature allows developers to engage in a fun, low-stakes game of chess while collaborating or browsing through code repositories. By integrating chess into the GitHub environment, this project adds a social and recreational aspect to the platform.
+**timburgan** is a playful open‑source project that lets users engage in a game of chess directly through GitHub—by creating, updating, and commenting on issues or pull requests to represent moves. It leverages GitHub’s collaboration features to turn the repository into an interactive chess board, making the platform a quirky venue for remote chess matches.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/timburgan/timburgan) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/timburgan/timburgan) · [← Back to Misc](./README.md)</sub>

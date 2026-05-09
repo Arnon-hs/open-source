@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Jinja |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ansible` `debian` `gitea` `jellyfin` `jitsi` `ldap` `libvirt` `matrix` `mumble` `netdata` `nextcloud` `samba`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Data
 
 ## 📝 Summary
 
-The nodiscc/xsrv project is an open-source collection of Ansible tools and utilities designed to simplify the installation and management of self-hosted services and applications on your own server(s). This package allows users to easily deploy and maintain a range of services, making it an ideal solution for server administrators and developers. By leveraging Ansible, users can streamline their server management tasks and focus on other critical projects.
+Nodiscc/xsrv is an open‑source Ansible collection and accompanying utilities that automate the deployment, configuration, and ongoing management of self‑hosted services and applications on one or multiple servers. By providing reusable playbooks, roles, and scripts, it streamlines the setup of backend and data‑centric components—such as databases, web services, and monitoring tools—while remaining fully customizable for diverse infrastructure environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nodiscc/xsrv) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nodiscc/xsrv) · [← Back to Backend](./README.md)</sub>

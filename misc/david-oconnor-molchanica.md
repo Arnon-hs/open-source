@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bioinformatics` `biology` `chemistry` `molecular-dynamics`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The molchanica project is an open-source tool for visualizing, editing, and simulating proteins and molecules. It provides a comprehensive platform for researchers and scientists to interact with and analyze molecular structures, making it a valuable resource for the scientific community. With molchanica, users can explore molecular dynamics, test hypotheses, and gain insights into the behavior of complex biological systems.
+David‑OConnor/molchanica is an open‑source web application for visualizing, editing, and simulating proteins and small molecules. It provides an interactive 3‑D viewer with tools for manipulating molecular structures, running basic simulations, and exporting results, making it useful for both educational purposes and rapid prototyping in computational chemistry. The project is licensed under an open‑source license and aims to be a lightweight, extensible platform for molecular research and teaching.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/David-OConnor/molchanica) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/David-OConnor/molchanica) · [← Back to Misc](./README.md)</sub>

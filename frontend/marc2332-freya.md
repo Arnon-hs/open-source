@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cross-platform` `dioxus` `gui` `hacktoberfest` `rust` `skia`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Freya is an open-source, cross-platform GUI library for Rust, designed to provide a non-web user interface. Powered by the Skia graphics engine, Freya offers a robust and flexible solution for building desktop applications. With its focus on Rust and Skia, Freya aims to provide a high-performance and efficient GUI library for developers.
+Freya is an open‑source, cross‑platform GUI toolkit for Rust that leverages the Skia graphics engine to deliver high‑performance, native‑looking user interfaces without relying on web technologies. It provides a declarative, component‑based API that works on desktop (Windows, macOS, Linux) and mobile platforms, enabling developers to build responsive applications entirely in Rust.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/marc2332/freya) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/marc2332/freya) · [← Back to Frontend](./README.md)</sub>
