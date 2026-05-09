@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 295 |
+| ⭐ **Stars** | 297 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `claude-code` `claude-skills` `developer-tools` `skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The turbo project is an open-source initiative that streamlines the development process for Claude Code, a modular AI/ML framework. By packaging skills into composable modules, turbo enables efficient orchestration and simplifies the workflow for developers. This project aims to enhance productivity and flexibility in AI/ML development.
+Turbo is an open‑source framework that lets developers build a composable development workflow for Claude Code by assembling reusable, modular “skills.” It streamlines orchestration, AI/ML integration, and tooling into a flexible pipeline, making it easy to extend and customize the Claude programming experience.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/tobihagemann/turbo) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tobihagemann/turbo) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 145 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 148 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `cli` `codex` `openclaw` `vm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the OpenRouterTeam/spawn project:
-
-Spawn is an open-source project that enables the deployment of any agent on any cloud, providing a flexible and scalable solution for AI and ML model deployment. This project simplifies the process of cloud infrastructure management, allowing developers to focus on their core applications. By supporting deployment on multiple cloud platforms, Spawn promotes cloud-agnostic development and reduces vendor lock-in.
+Spawn is an open‑source framework that lets you launch AI agents seamlessly across any cloud provider. By abstracting infrastructure details, it enables developers to provision, manage, and scale agent workloads with minimal configuration, making it a versatile tool for AI/ML experimentation and production deployments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/OpenRouterTeam/spawn) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/OpenRouterTeam/spawn) · [← Back to AI/ML](./README.md)</sub>

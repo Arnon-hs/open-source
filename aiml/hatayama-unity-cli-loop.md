@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 338 |
-| 🍴 **Forks** | 30 |
+| ⭐ **Stars** | 351 |
+| 🍴 **Forks** | 31 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `automation` `cli` `mcp` `unity` `unity3d`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Unity CLI Loop is an open-source project that streamlines the process of developing AI autopilot systems in Unity. This tool automates repetitive tasks such as compilation, testing, and debugging, allowing developers to focus on perfecting their AI solutions. By facilitating a seamless loop of iteration and refinement, the Unity CLI Loop aims to simplify the development process and ensure that AI autopilot systems function flawlessly.
+hatayama/unity-cli-loop is an open‑source utility that enables AI‑driven control over Unity projects directly from the command line, allowing seamless transitions from the Unity Editor to Play Mode without manual interaction. It provides a lightweight CLI interface and scripting hooks so developers can automate testing, simulation, or AI experiments within Unity, streamlining workflows for machine‑learning and game‑dev pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/hatayama/unity-cli-loop) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/hatayama/unity-cli-loop) · [← Back to AI/ML](./README.md)</sub>

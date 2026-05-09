@@ -1,6 +1,6 @@
 # HarbourMasters/Starship
 
-[![Stars](https://img.shields.io/github/stars/HarbourMasters/Starship?style=flat-square&color=yellow)](https://github.com/HarbourMasters/Starship/stargazers) [![Forks](https://img.shields.io/github/forks/HarbourMasters/Starship?style=flat-square&color=blue)](https://github.com/HarbourMasters/Starship/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HarbourMasters/Starship?style=flat-square&color=yellow)](https://github.com/HarbourMasters/Starship/stargazers) [![Forks](https://img.shields.io/github/forks/HarbourMasters/Starship?style=flat-square&color=blue)](https://github.com/HarbourMasters/Starship/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > SF64 PC Port
 
@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 112 |
+| 🍴 **Forks** | 114 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the HarbourMasters/Starship SF64 PC Port project:
-
-The HarbourMasters/Starship SF64 PC Port is an open-source project that aims to bring the classic SF64 game to modern PC platforms, allowing enthusiasts to experience this retro title in a new way. This port is a labor of love, driven by the community to preserve gaming history and give players access to a piece of nostalgia. The project is available for free, with contributions welcome from anyone who wants to help bring this game to life.
+HarbourMasters/Starship is an open‑source project that provides a faithful PC port of the classic **Star Fox 64** (SF64) game for modern Windows systems. It adapts the original Nintendo 64 codebase, handling graphics, input, and emulation layers to deliver the full gameplay experience on contemporary hardware. The repository is categorized under “Misc” and is intended for enthusiasts looking to run the title natively on a PC.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/HarbourMasters/Starship) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/HarbourMasters/Starship) · [← Back to Misc](./README.md)</sub>

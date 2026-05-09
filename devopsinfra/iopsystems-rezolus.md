@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ebpf` `hardware` `infrastructure` `kernel` `observability` `otel` `telemetry`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Rezolus is an open-source project that provides high-resolution, low-overhead systems and service telemetry. This project helps organizations collect and analyze data on their infrastructure, enabling them to optimize performance, troubleshoot issues, and improve overall efficiency. By leveraging Rezolus, DevOps teams can gain valuable insights into their systems and services.
+Rezolus is an open‑source telemetry platform designed for high‑resolution, low‑overhead monitoring of systems and services. It collects fine‑grained metrics, logs, and traces with minimal performance impact, enabling developers and operators to gain deep insight into infrastructure health and application behavior. Ideal for DevOps and infrastructure teams, Rezolus provides a scalable, extensible foundation for real‑time observability across diverse environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/iopsystems/rezolus) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/iopsystems/rezolus) · [← Back to DevOps & Infra](./README.md)</sub>

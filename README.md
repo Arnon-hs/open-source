@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3779** |
+| 🗂️ **Total projects** | **3819** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1508 | [Browse →](./aiml/) |
-| 📦 **Misc** | 605 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 383 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 373 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 198 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 196 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 151 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 1528 | [Browse →](./aiml/) |
+| 📦 **Misc** | 609 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 387 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 376 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 199 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 198 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 153 | [Browse →](./crypto/) |
 | 📊 **Data** | 85 | [Browse →](./data/) |
-| 💳 **Payments** | 82 | [Browse →](./payments/) |
+| 💳 **Payments** | 83 | [Browse →](./payments/) |
 | 📈 **Trading** | 54 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 48 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 50 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 40 | [Browse →](./mobile/) |
-| 🔐 **Security** | 31 | [Browse →](./security/) |
+| 🔐 **Security** | 32 | [Browse →](./security/) |
 | ✨ **Design** | 11 | [Browse →](./design/) |
 | 🎯 **Product** | 10 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 4 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [stride3d/stride](./misc/stride3d-stride.md) | ⭐ 7.6k | Misc |
-| 2 | [mcp-use/mcp-use](./aiml/mcp-use-mcp-use.md) | ⭐ 9.9k | AI/ML |
-| 3 | [tikv/tikv](./data/tikv-tikv.md) | ⭐ 16.7k | Data |
-| 4 | [arc53/DocsGPT](./aiml/arc53-docsgpt.md) | ⭐ 17.9k | AI/ML |
-| 5 | [affaan-m/everything-claude-code](./aiml/affaan-m-everything-claude-code.md) | ⭐ 176k | AI/ML |
-| 6 | [google/zx](./devtools/google-zx.md) | ⭐ 45.5k | DevTools |
-| 7 | [zulip/zulip](./frontend/zulip-zulip.md) | ⭐ 25.2k | Frontend |
-| 8 | [asgeirtj/system_prompts_leaks](./aiml/asgeirtj-system-prompts-leaks.md) | ⭐ 39.9k | AI/ML |
-| 9 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 47.9k | AI/ML |
-| 10 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
+| 1 | [yzhao062/pyod](./orchestration/yzhao062-pyod.md) | ⭐ 9.8k | Orchestration |
+| 2 | [starship/starship](./misc/starship-starship.md) | ⭐ 57.3k | Misc |
+| 3 | [hwdsl2/docker-ipsec-vpn-server](./backend/hwdsl2-docker-ipsec-vpn-server.md) | ⭐ 7.1k | Backend |
+| 4 | [eosphoros-ai/DB-GPT](./aiml/eosphoros-ai-db-gpt.md) | ⭐ 18.7k | AI/ML |
+| 5 | [StarRocks/starrocks](./devtools/starrocks-starrocks.md) | ⭐ 11.7k | DevTools |
+| 6 | [stride3d/stride](./misc/stride3d-stride.md) | ⭐ 7.6k | Misc |
+| 7 | [tikv/tikv](./data/tikv-tikv.md) | ⭐ 16.7k | Data |
+| 8 | [mcp-use/mcp-use](./aiml/mcp-use-mcp-use.md) | ⭐ 9.9k | AI/ML |
+| 9 | [arc53/DocsGPT](./aiml/arc53-docsgpt.md) | ⭐ 17.9k | AI/ML |
+| 10 | [affaan-m/everything-claude-code](./aiml/affaan-m-everything-claude-code.md) | ⭐ 176k | AI/ML |
 
 ## 🚀 How it works
 

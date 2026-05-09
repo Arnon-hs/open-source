@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44 |
-| 🍴 **Forks** | 4 |
+| ⭐ **Stars** | 50 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `cognitive` `kip` `knowledge-graph` `persistent-memory`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here is a brief summary of the project:
-
-Anda-Hippocampus is an open-source, graph-based memory system designed for autonomous AI agents. Powered by KIP and AndaDB, this native memory system incorporates bio-inspired sleep-based memory consolidation to improve the efficiency and effectiveness of AI decision-making. By leveraging insights from neuroscience, Anda-Hippocampus enables AI agents to learn and adapt more realistically and robustly.
+The **anda-hippocampus** project implements a native, graph‑based memory system for autonomous AI agents, drawing inspiration from biological hippocampal processes. It uses KIP and the AndaDB database to store and retrieve relational knowledge, and includes a sleep‑phase mechanism that consolidates and optimizes memories for long‑term retention. This open‑source library enables agents to maintain coherent, context‑aware reasoning across tasks while integrating seamlessly with orchestration and AI/ML pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ldclabs/anda-hippocampus) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ldclabs/anda-hippocampus) · [← Back to Orchestration](./README.md)</sub>

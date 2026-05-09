@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 205 |
+| ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gitops` `scans` `security`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Security
 
 ## 📝 Summary
 
-Here's a brief summary for the finos/git-proxy project:
-
-Finos/git-proxy is an open-source project that enables organizations to deploy custom push protections and policies on top of Git, enhancing the security of their version control repositories. By integrating with Git, this project allows for the implementation of tailored security measures to prevent unauthorized access and malicious code submissions. It provides a flexible and customizable solution for securing Git repositories.
+finos/git-proxy is an open‑source tool that sits in front of a Git server to enforce custom push‑time protections and policy checks, helping organizations prevent unwanted or non‑compliant code from entering their repositories. By intercepting Git operations, it enables fine‑grained security controls—such as commit‑message validation, secret scanning, and custom rule enforcement—while remaining compatible with existing Git workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/finos/git-proxy) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/finos/git-proxy) · [← Back to Security](./README.md)</sub>

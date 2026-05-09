@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 167 |
-| 🍴 **Forks** | 45 |
+| ⭐ **Stars** | 182 |
+| 🍴 **Forks** | 50 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `automation` `claude-desktop` `homelab` `llm` `lxc` `mcp` `model-context-protocol` `open-webui` `openapi` `proxmox` `qemu`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the RekklesNA/ProxmoxMCP-Plus project:
-
-RekklesNA/ProxmoxMCP-Plus is an open-source project that enables safe and automated control of Proxmox VE infrastructure through artificial intelligence (AI) and language models. This project utilizes MCP and OpenAPI to provide a robust interface for managing virtual machines, Linux containers, backups, and snapshots from AI agents and large language models. By streamlining Proxmox VE management, this project aims to enhance efficiency and reliability for AI-powered system administrators.
+RekmlesNA/ProxmoxMCP-Plus is an open‑source integration that combines the Multi‑Channel Proxy (MCP) framework with OpenAPI to enable secure, programmatic management of Proxmox VE resources—including virtual machines, containers, backups, and snapshots—directly from large language models and AI agents. It provides both frontend and backend components for seamless interaction, allowing AI‑driven automation while maintaining strict access controls and auditability. This project targets developers looking to harness AI for infrastructure orchestration within Proxmox environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/RekklesNA/ProxmoxMCP-Plus) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/RekklesNA/ProxmoxMCP-Plus) · [← Back to AI/ML](./README.md)</sub>

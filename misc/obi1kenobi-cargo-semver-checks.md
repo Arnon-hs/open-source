@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The `cargo-semver-checks` project is an open-source tool that scans Rust crates for semver (Semantic Versioning) violations, helping developers maintain versioning consistency and adherence to industry standards. This tool integrates with the Cargo build system, making it easy to identify and address semver issues within your project. By incorporating `cargo-semver-checks`, you can ensure your crate's versioning follows best practices and is compatible with other dependencies.
+A lightweight tool that inspects a Rust crate’s public API to detect changes that could break semantic versioning guarantees. It parses the crate’s source, compares the current API against a previous release, and reports any added, removed, or altered items that would constitute a semver violation. This helps maintainers ensure version bumps are accurate before publishing.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/obi1kenobi/cargo-semver-checks) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/obi1kenobi/cargo-semver-checks) · [← Back to Misc](./README.md)</sub>

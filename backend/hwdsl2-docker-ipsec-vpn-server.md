@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cisco-ipsec` `docker` `docker-compose` `docker-image` `encryption` `ikev2` `ipsec` `l2tp` `libreswan` `linux` `network` `raspberry-pi`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools · Mobile
 
 ## 📝 Summary
 
-The hwdsl2/docker-ipsec-vpn-server project offers an open-source, containerized IPsec VPN server solution, compatible with various VPN protocols and platforms, including L2TP, Cisco IPsec, and IKEv2. It automates server configuration and provides easy setup capabilities for VPN clients on multiple operating systems, including Linux, Windows, macOS, iOS, and Android. This project enables users to quickly deploy a secure IPsec VPN server within a Docker environment.
+A lightweight Docker image that deploys a fully‑featured IPsec VPN server, supporting IPsec/L2TP, Cisco IPsec, and IKEv2 protocols. It automatically generates server configurations and provides ready‑to‑use client setup instructions for Linux, Windows, macOS, iOS, and Android devices. Ideal for developers needing a quick, portable VPN backend for testing or production environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/hwdsl2/docker-ipsec-vpn-server) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/hwdsl2/docker-ipsec-vpn-server) · [← Back to Backend](./README.md)</sub>

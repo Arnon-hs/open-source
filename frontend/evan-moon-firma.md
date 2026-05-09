@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27 |
+| ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `cli` `finnhub` `local-first` `mcp` `personal-finance` `portfolio` `sqlite` `stock` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-The firma project is an open-source, local-first CLI portfolio tracker designed for overseas investors. It features a built-in MCP (Multi-Chain Protocol) server for interacting with Claude, providing a secure and private platform for managing investments. This tool aims to simplify investment tracking and management for non-resident investors.
+Evan‑Moon’s **firma** is a local‑first command‑line portfolio tracker designed for overseas investors, letting you manage holdings entirely offline while still syncing securely when needed. It includes a built‑in MCP (Message Control Protocol) server that integrates with Claude, enabling AI‑driven insights and automation directly from the CLI. The project spans both frontend (interactive terminal UI) and backend components, making it a versatile DevTools solution for personal finance management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/evan-moon/firma) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/evan-moon/firma) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 627 |
-| 🍴 **Forks** | 72 |
+| ⭐ **Stars** | 629 |
+| 🍴 **Forks** | 73 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`railway` `simulation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra · Design
 
 ## 📝 Summary
 
-The OpenRail project is an open-source web application designed to facilitate the creation, analysis, and simulation of railway infrastructure systems. It offers a comprehensive suite of tools for capacity analysis, timetabling, and simulation, empowering users to optimize railway operations and infrastructure planning. By leveraging cutting-edge technologies, OpenRail aims to improve the efficiency and sustainability of rail transportation systems worldwide.
+OpenRailAssociation / osrd is an open‑source web platform that enables users to design railway infrastructure, evaluate line capacity, generate timetables and run realistic train‑movement simulations. Built with modern DevOps practices, it combines sophisticated algorithms (including AI/ML‑based optimization) with an intuitive visual interface, helping planners, engineers and researchers model and improve rail networks efficiently.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/OpenRailAssociation/osrd) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/OpenRailAssociation/osrd) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`pip` `pip-tools` `pipenv` `poetry` `python` `rust` `uv`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the osprey-oss/migrate-to-uv project:
-
-The osprey-oss/migrate-to-uv project provides a tool to seamlessly migrate a Python project from existing package managers like Poetry, Pipenv, pip-tools, or pip to the uv package manager, streamlining the upgrade process. This migration tool aims to minimize disruptions and ensure a smooth transition to the uv package manager. By using this tool, developers can easily adapt to the uv package manager without requiring extensive manual configuration.
+The **migrate-to-uv** tool automates the conversion of Python projects that use Poetry, Pipenv, pip‑tools, or plain pip into projects managed with the fast, modern **uv** package manager. It parses existing lock files and configuration, rewrites dependencies to uv‑compatible formats, and updates scripts and CI pipelines, allowing developers to switch to uv with minimal manual effort.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/osprey-oss/migrate-to-uv) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/osprey-oss/migrate-to-uv) · [← Back to Misc](./README.md)</sub>

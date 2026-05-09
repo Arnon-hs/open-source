@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `bgi` `database` `deepseek` `gpt` `gpt-4` `hacktoberfest` `llm` `private` `rag` `security` `vicuna`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data · Security
 
 ## 📝 Summary
 
-DB-GPT is an open-source, agentic AI data assistant designed for the next generation of AI and data products. This cutting-edge tool integrates AI and data capabilities to streamline complex data-related tasks, enhance data security, and promote innovation in the field of artificial intelligence and machine learning. By harnessing the power of DB-GPT, developers and organizations can create more efficient, secure, and intelligent data solutions.
+eosphoros‑ai/DB‑GPT is an open‑source, agentic AI data assistant designed to streamline the creation of next‑generation AI‑plus‑Data products. It combines large‑language‑model reasoning with built‑in data handling, security, and automation capabilities, enabling users to query, transform, and govern data through natural language interactions. The project targets developers and data teams looking for a flexible, secure foundation for building intelligent data‑driven applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/eosphoros-ai/DB-GPT) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/eosphoros-ai/DB-GPT) · [← Back to AI/ML](./README.md)</sub>

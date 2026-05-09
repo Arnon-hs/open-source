@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 651 |
-| 🍴 **Forks** | 118 |
+| ⭐ **Stars** | 652 |
+| 🍴 **Forks** | 119 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `deep-learning` `llm` `pytorch`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The ai_wiki project is an open-source, comprehensive repository of AI resources and knowledge, covering various domains such as deep learning, machine learning, and natural language processing. It aims to document practical solutions, strategies, and key points for tackling engineering challenges, while also sharing real-world examples and tracking the latest technological advancements in AI. This project aggregates high-quality resources from across the web, providing a valuable resource for AI professionals and enthusiasts alike.
+charliedream1/ai_wiki is an open‑source knowledge hub that aggregates high‑quality AI resources from across the web. It documents practical solutions, key insights, and real‑world case studies covering the full AI stack—including large‑model development, programming techniques, machine‑learning, deep learning, reinforcement learning, graph neural networks, speech recognition, NLP, and computer vision—to help users stay up‑to‑date with cutting‑edge technologies.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/charliedream1/ai_wiki) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/charliedream1/ai_wiki) · [← Back to AI/ML](./README.md)</sub>

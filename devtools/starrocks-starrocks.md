@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11.6k |
+| ⭐ **Stars** | 11.7k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analytics` `big-data` `cloudnative` `database` `datalake` `delta-lake` `distributed-database` `hudi` `iceberg` `join` `lakehouse` `lakehouse-platform`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Data
 
 ## 📝 Summary
 
-StarRocks is an open-source, high-performance query engine for sub-second analytics that supports real-time and multi-dimensional analytics, as well as ad-hoc queries. As a Linux Foundation project, StarRocks offers flexibility and scalability to cater to various data lakehouse and analytics scenarios. It enables users to achieve best-in-class performance for their business-critical analytics needs.
+StarRocks is an open‑source, Linux‑Foundation‑backed query engine optimized for sub‑second, multi‑dimensional analytics across data lakehouses and traditional warehouses. It delivers best‑in‑class performance for real‑time, ad‑hoc, and complex analytical workloads while supporting a wide range of deployment scenarios.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/StarRocks/starrocks) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/StarRocks/starrocks) · [← Back to DevTools](./README.md)</sub>

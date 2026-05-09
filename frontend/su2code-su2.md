@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 978 |
+| 🍴 **Forks** | 979 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `cfd` `flow` `fluid` `fluid-dynamics` `hpc` `opensource` `optimization` `physics` `python` `simulation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-SU2 is an open-source software suite that enables users to perform multiphysics simulation and design for a wide range of applications. This comprehensive tool supports various computational methods, including aerodynamics, fluid dynamics, and structural mechanics, allowing users to model and analyze complex systems. By leveraging SU2, developers and researchers can accelerate innovation and discovery in fields such as aerospace engineering, biomedical research, and industrial design.
+SU2 is an open‑source computational suite that provides a flexible, high‑performance framework for multiphysics simulation and aerodynamic design optimization. It offers a comprehensive set of solvers for fluid dynamics, structural analysis, and coupled physics problems, along with tools for mesh handling, gradient‑based optimization, and uncertainty quantification. Designed for both research and industry, SU2’s modular architecture makes it easy to extend and integrate with custom front‑end workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/su2code/SU2) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/su2code/SU2) · [← Back to Frontend](./README.md)</sub>

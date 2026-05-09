@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 113 |
+| ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-memory` `claude` `claude-code` `coding-agent` `context-engineering` `cursor` `knowledge-graph` `llm` `local-first` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the omega-memory project:
-
-Omega-memory is an open-source framework that provides persistent memory capabilities for AI coding agents, enabling them to learn and retain complex information over time. This backend solution facilitates the development of intelligent systems that can adapt and evolve in response to changing environments and tasks. By providing a robust and scalable memory infrastructure, omega-memory empowers AI agents to learn from experience and improve their performance over time.
+Omega‑Memory is an open‑source library that provides persistent, long‑term memory storage for AI coding agents, enabling them to retain and retrieve knowledge across sessions. It offers a lightweight, backend‑agnostic API for saving, querying, and updating contextual information, helping agents maintain continuity and improve code generation quality over time.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/omega-memory/omega-memory) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/omega-memory/omega-memory) · [← Back to AI/ML](./README.md)</sub>

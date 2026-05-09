@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**48 projects** in this category.
+**50 projects** in this category.
 
 ## Projects
 
@@ -54,8 +54,10 @@
 | 44 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 53/100 |
 | 45 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 52/100 |
 | 46 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
-| 47 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
-| 48 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
+| 47 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 51/100 |
+| 48 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
+| 49 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
+| 50 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 560 | Go | 47/100 |
 
 ---
 
