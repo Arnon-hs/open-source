@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`paging-library` `rust-lang` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Data
 
 ## 📝 Summary
 
-The minus library is an open-source, asynchronous terminal paging solution for Rust applications. It enables the creation of dynamic, runtime data feedable interfaces, providing a flexible and efficient way to display data in a terminal environment. By leveraging asynchronous capabilities, minus allows for seamless updates and interactions within the terminal-based interface.
+AMythicDev/minus is a Rust library that provides an asynchronous, terminal‑based paging system capable of receiving live data streams at runtime. Designed for frontend and data‑intensive applications, it lets developers display and navigate large, continuously updating outputs directly in the console with minimal boilerplate. Its async‑first API makes integration with modern Rust async ecosystems seamless.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/AMythicDev/minus) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/AMythicDev/minus) · [← Back to Frontend](./README.md)</sub>

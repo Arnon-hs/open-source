@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `browser-automation` `rust` `skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Actionbook is an open-source project that enables AI agents to seamlessly interact with web browsers, bridging the gap between artificial intelligence and real-world browser interactions. This innovative tool allows AI agents to utilize web browsers as a platform to gather information, complete tasks, and learn from online experiences. By integrating AI with web browsing capabilities, Actionbook aims to unlock new possibilities for AI development and application.
+Actionbook is an open‑source library that enables AI agents to interact directly with a web browser, turning textual commands into real browsing actions. By providing a lightweight integration layer and a set of controllable browser primitives, it lets developers embed functional web navigation, form‑filling, and data extraction capabilities into their AI workflows. The project is geared toward AI/ML applications that require live web interaction.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/actionbook/actionbook) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/actionbook/actionbook) · [← Back to AI/ML](./README.md)</sub>

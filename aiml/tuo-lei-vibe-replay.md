@@ -12,12 +12,12 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-tools` `anthropic` `claude` `claude-code` `cli` `code-review` `coding` `cursor` `developer-tools` `open-source`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The tuo-lei/vibe-replay project is an open-source tool that enables users to convert AI coding sessions into engaging, interactive web replays. By leveraging this technology, developers can create immersive experiences that showcase AI-generated code walkthroughs, fostering easier learning and understanding of complex programming concepts. This innovative DevTool is particularly useful for AI/ML education and community building.
+**vibe-replay** is an open‑source tool that captures AI‑assisted coding sessions and transforms them into animated, interactive web replays. By visualizing each edit, cursor movement, and AI suggestion as a smooth timeline, developers can review, share, and learn from their coding workflows directly in a browser. The project sits at the intersection of AI/ML and developer tooling, making AI‑driven code generation transparent and replayable.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/tuo-lei/vibe-replay) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tuo-lei/vibe-replay) · [← Back to AI/ML](./README.md)</sub>

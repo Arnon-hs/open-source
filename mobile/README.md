@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**47 projects** in this category.
+**48 projects** in this category.
 
 ## Projects
 
@@ -55,6 +55,7 @@
 | 45 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 51/100 |
 | 46 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 47/100 |
 | 47 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 47/100 |
+| 48 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 43/100 |
 
 ---
 

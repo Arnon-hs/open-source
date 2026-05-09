@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 891 |
-| 🍴 **Forks** | 171 |
+| ⭐ **Stars** | 894 |
+| 🍴 **Forks** | 173 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arduino` `autopilot` `control-theory` `drone` `esp32` `flight-control` `flight-controller` `mavlink` `quadcopter` `quadcopter-firmware` `uav`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-This open-source project, flix, aims to design and build an ESP32-based quadcopter from the ground up, providing a comprehensive guide for enthusiasts looking to create their own autonomous flying device. The project involves hardware and software development, leveraging the ESP32 microcontroller to control the quadcopter's flight dynamics and enable advanced features. By sharing this knowledge, flix seeks to empower the maker community to innovate and push the boundaries of drone technology.
+A lightweight open‑source project that guides you through building a fully functional quadcopter using an ESP32 microcontroller, covering hardware assembly, firmware development, and flight control algorithms. It provides clear documentation, example code, and a modular architecture so developers can customize the flight stack, integrate sensors, and extend functionality. Although categorized under Frontend, the repository primarily serves as a hands‑on guide for embedded and robotics enthusiasts.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/okalachev/flix) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/okalachev/flix) · [← Back to Frontend](./README.md)</sub>

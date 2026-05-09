@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cayenne` `database` `java` `library` `network-client` `network-server` `web-framework` `xml`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Apache Cayenne is an open-source ORM (Object-Relational Mapping) framework that enables developers to interact with databases using objects, abstracting the underlying complexity of database interactions. It allows for seamless integration with various databases, promoting a more agile and efficient development workflow. This project is a mirror of the official Apache Cayenne repository, providing a centralized location for community-driven development and collaboration.
+Apache Cay Cayenne is an open‑source Java persistence framework that simplifies object‑relational mapping (ORM) and provides a robust, type‑safe API for database access, query building, and caching. It offers tools for schema generation, runtime metadata, and a visual modeler, enabling developers to build scalable backend services with less boilerplate code. The project is maintained by the Apache Software Foundation and serves as a versatile backend and dev‑tools component for AI/ML pipelines and enterprise applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/apache/cayenne) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/apache/cayenne) · [← Back to AI/ML](./README.md)</sub>

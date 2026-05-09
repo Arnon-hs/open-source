@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 730 |
+| ⭐ **Stars** | 733 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitbucket` `codeberg` `crate` `crates` `fetch` `git` `gitea` `github` `gitlab` `hg` `mercurial` `nix`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The nurl project is an open-source tool for generating Nix fetcher calls from URLs. Developed by @figsoda, it simplifies the process of integrating external dependencies into Nix-based projects, particularly in the context of AI and machine learning. With nurl, users can easily convert URLs into Nix-compatible fetcher calls.
+nurl is a lightweight command‑line tool that turns any web URL into a ready‑to‑use Nix fetcher expression (e.g., `fetchurl`, `fetchgit`, `fetchFromGitHub`, etc.). By automatically detecting the appropriate fetcher and extracting relevant metadata, it simplifies the creation of reproducible Nix packages from remote sources. The project is maintained by @figsoda and is hosted under the nix-community GitHub organization.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/nix-community/nurl) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nix-community/nurl) · [← Back to AI/ML](./README.md)</sub>

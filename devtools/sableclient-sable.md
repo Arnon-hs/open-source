@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 181 |
-| 🍴 **Forks** | 46 |
+| ⭐ **Stars** | 189 |
+| 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Sable is an open-source, almost stable Matrix client designed to provide users with a seamless and secure messaging experience. Developed as a DevTool, Sable allows developers to experiment and test Matrix-related features in a stable environment. Its open-source nature enables community contribution and collaboration, driving innovation in the Matrix ecosystem.
+SableClient/Sable is an open‑source Matrix client that aims to provide a reliable, feature‑rich experience for end users while maintaining a lightweight codebase. Though still under active development, the client is considered “almost stable,” offering core messaging, room management, and encryption capabilities. It serves as a useful DevTools resource for developers looking to build or extend Matrix‑based communication applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/SableClient/Sable) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/SableClient/Sable) · [← Back to DevTools](./README.md)</sub>

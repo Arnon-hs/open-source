@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alttp` `archipelago` `factorio` `minecraft` `multiworld` `randomizer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Archipelago is an open-source project that serves as a multi-game randomizer and server, allowing users to generate and play randomized versions of various games. This flexible backend system enables developers to create and manage randomized game content with ease, making it a valuable resource for game modders and enthusiasts alike. By leveraging Archipelago, users can explore new game experiences and possibilities.
+Archipelago is an open‑source backend platform that enables multiplayer randomizer experiences across a wide variety of games. It provides a unified server architecture, a robust API, and tools for synchronizing item distribution, world states, and player interactions, allowing developers to integrate multi‑game randomizer functionality into their own projects. The project is actively maintained and designed for extensibility, making it a versatile foundation for community‑driven, cross‑game randomizer servers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ArchipelagoMW/Archipelago) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ArchipelagoMW/Archipelago) · [← Back to Backend](./README.md)</sub>

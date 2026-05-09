@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 142 |
-| 🍴 **Forks** | 12 |
+| ⭐ **Stars** | 148 |
+| 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a` `agent` `agent-to-agent` `ai` `cli` `code` `coding` `eval` `huggingface` `lmstudio` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Swival is an open-source, command-line interface (CLI) coding agent that leverages open models to streamline development workflows. This powerful tool enables developers to harness the capabilities of AI and machine learning models in a flexible and accessible way. By working with open models, Swival provides a versatile platform for automating tasks and enhancing productivity.
+Swival is a lightweight, open‑source command‑line coding assistant that leverages any compatible open‑source language model to generate, refactor, and debug code directly from the terminal. Designed for developers who prefer privacy and flexibility, it offers a fast, scriptable interface that integrates seamlessly with existing workflows and DevOps pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Swival/swival) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Swival/swival) · [← Back to AI/ML](./README.md)</sub>

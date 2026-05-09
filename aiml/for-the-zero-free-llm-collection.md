@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 179 |
+| ⭐ **Stars** | 185 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `amazing` `api` `collection` `free` `gpt` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-The Free-LLM-Collection project is an open-source repository that aggregates free Large Language Model (LLM) APIs, providing developers with a convenient access point to various cost-free AI and machine learning tools. This collection aims to promote the adoption of AI and ML in different fields and applications, and to facilitate innovation and experimentation. By consolidating these free LLM APIs in one place, the project facilitates discovery and utilization of these resources.
+Free‑LLM‑Collection is an open‑source repository that aggregates publicly available, free APIs for large language models, making it easy for developers to discover and integrate cost‑free AI services. It provides a curated list of endpoints, usage instructions, and quick‑start examples, helping users quickly prototype or deploy AI/ML applications without incurring API fees. The project is maintained as a community‑driven backend resource for anyone needing accessible LLM capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/for-the-zero/Free-LLM-Collection) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/for-the-zero/Free-LLM-Collection) · [← Back to AI/ML](./README.md)</sub>

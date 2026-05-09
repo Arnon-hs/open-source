@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.6k |
-| 🍴 **Forks** | 377 |
+| 🍴 **Forks** | 378 |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`functional-language` `functional-programming` `language` `roc-lang`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-roc-lang/roc is a promising open-source project. Categories: Misc. Interest score: 86/100.
+Roc is an open‑source, high‑performance functional programming language designed for rapid development and ease of use. It combines strong static typing with a friendly syntax, offering powerful abstractions while delivering fast execution and low‑overhead runtimes. The project is positioned as a versatile, general‑purpose language suitable for a wide range of applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/roc-lang/roc) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/roc-lang/roc) · [← Back to Misc](./README.md)</sub>

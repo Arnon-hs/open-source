@@ -2,7 +2,7 @@
 
 > Developer productivity, editors, workflow
 
-**230 projects** in this category.
+**231 projects** in this category.
 
 ## Projects
 
@@ -160,8 +160,8 @@
 | 150 | [pypa/bandersnatch](./pypa-bandersnatch.md) | ⭐ 538 | Python | 54/100 |
 | 151 | [VirtusLab/git-machete](./virtuslab-git-machete.md) | ⭐ 1.1k | Python | 54/100 |
 | 152 | [pantheon-systems/terminus](./pantheon-systems-terminus.md) | ⭐ 339 | PHP | 54/100 |
-| 153 | [Dicklesworthstone/beads_rust](./dicklesworthstone-beads-rust.md) | ⭐ 882 | Rust | 54/100 |
-| 154 | [Azure/awesome-azd](./azure-awesome-azd.md) | ⭐ 251 | TypeScript | 54/100 |
+| 153 | [Azure/awesome-azd](./azure-awesome-azd.md) | ⭐ 251 | TypeScript | 54/100 |
+| 154 | [Dicklesworthstone/beads_rust](./dicklesworthstone-beads-rust.md) | ⭐ 882 | Rust | 54/100 |
 | 155 | [phel-lang/phel-lang](./phel-lang-phel-lang.md) | ⭐ 485 | PHP | 54/100 |
 | 156 | [talkkonnect/talkkonnect](./talkkonnect-talkkonnect.md) | ⭐ 340 | Go | 53/100 |
 | 157 | [net-benchmark/dns-benchmark-tool](./net-benchmark-dns-benchmark-tool.md) | ⭐ 360 | Python | 53/100 |
@@ -236,8 +236,9 @@
 | 226 | [opentofu/registry](./opentofu-registry.md) | ⭐ 405 | Go | 44/100 |
 | 227 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 43/100 |
 | 228 | [stellar/stellar-cli](./stellar-stellar-cli.md) | ⭐ 112 | Rust | 43/100 |
-| 229 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
-| 230 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
+| 229 | [SableClient/Sable](./sableclient-sable.md) | ⭐ 189 | TypeScript | 42/100 |
+| 230 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
+| 231 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
 
 ---
 

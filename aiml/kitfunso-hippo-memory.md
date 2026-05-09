@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 623 |
+| ⭐ **Stars** | 627 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, 'Hippo-Memory', is a biologically-inspired memory model for AI agents that simulates the process of memory decay, retrieval strengthening, and consolidation. It is designed to be a lightweight, dependency-free solution for AI applications, leveraging insights from neuroscience to create a more realistic and dynamic memory system. This model can be used to improve the performance and adaptability of AI agents in various domains.
+Kitfunso’s **hippo‑memory** library provides a lightweight, biologically‑inspired memory system for AI agents, modeling processes such as decay, retrieval‑based strengthening, and consolidation of information. It offers a simple API with no external dependencies, making it easy to integrate into reinforcement‑learning, language‑model, or any autonomous agent pipelines that need long‑term, adaptive memory.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/kitfunso/hippo-memory) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/kitfunso/hippo-memory) · [← Back to AI/ML](./README.md)</sub>

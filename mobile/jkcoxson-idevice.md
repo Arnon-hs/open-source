@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 340 |
-| 🍴 **Forks** | 69 |
+| ⭐ **Stars** | 346 |
+| 🍴 **Forks** | 70 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The jkcoxson/idevice library is an open-source project that provides a platform for interacting with services exposed by iOS devices. This library enables developers to access and manipulate various iOS services, offering a convenient and standardized way to communicate with Apple devices. By using jkcoxson/idevice, developers can build applications that seamlessly integrate with iOS services.
+jkcoxson/idevice is an open‑source library that provides a simple, cross‑platform API for communicating with iOS devices and accessing the various services they expose (such as file transfer, diagnostics, and device management). By wrapping the low‑level protocols used by Apple’s mobile devices, it enables developers to script and automate iOS interactions without needing Xcode or proprietary tools. The project is especially useful for mobile‑focused tooling, testing, and forensic workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/jkcoxson/idevice) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jkcoxson/idevice) · [← Back to Mobile](./README.md)</sub>

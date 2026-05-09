@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18 |
-| 🍴 **Forks** | 2 |
+| ⭐ **Stars** | 22 |
+| 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `causal-chains` `claude-code` `cline` `codex` `copilot` `cursor` `developer-tools` `dream-engine` `hive-mind` `llm` `local-first`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The open-source project "agent-shadow-brain" by theihtisham provides a shared brain for AI coding agents, offering a collaborative platform for developers. This local-first solution features 22 novel capabilities and operates under the MIT license, making it freely available for use. It supports various AI coding tools, including Claude, Cursor, Cline, Codex, Copilot, and Windsurf.
+The Agent‑Shadow‑Brain project provides a free, MIT‑licensed “Hive Mind” brain (v6.0) that can be shared locally among any AI coding assistant—Claude Code, Cursor, Cline, Codex, Copilot, Windsurf, and others. It bundles 22 novel features for seamless code generation, context sharing, and tool integration, offering a backend‑agnostic, open‑source solution for developers who want a single, local‑first brain to power multiple AI agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/theihtisham/agent-shadow-brain) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/theihtisham/agent-shadow-brain) · [← Back to AI/ML](./README.md)</sub>

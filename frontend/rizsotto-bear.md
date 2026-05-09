@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.3k |
-| 🍴 **Forks** | 362 |
+| 🍴 **Forks** | 363 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`build-system` `build-tool` `clang` `compilation-database`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-Bear is an open-source project that creates a compilation database for clang tooling, enabling efficient debugging and code analysis. This tool streamlines the process of generating compilation databases, making it easier for developers to leverage the capabilities of clang tooling. By automating this task, Bear simplifies the development workflow and enhances code quality.
+Bear is an open‑source utility that automatically creates compilation databases (compile_commands.json) for projects built with clang‑based tools. By intercepting build commands, it generates the necessary metadata to enable accurate code analysis, refactoring, and indexing without manual configuration. This makes it a valuable DevTools component for frontend development workflows that rely on clang tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/rizsotto/Bear) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/rizsotto/Bear) · [← Back to Frontend](./README.md)</sub>

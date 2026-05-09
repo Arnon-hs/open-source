@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The wavelens/gradient project is an open-source, nix-based continuous integration system designed to streamline software development workflows. This system enables seamless integration, automated testing, and reliable deployments by utilizing Nix, a package manager known for its reproducibility and flexibility. With gradient, developers can focus on coding, knowing that their projects are consistently built, tested, and delivered with precision.
+wavelens/gradient is an open‑source, Nix‑powered continuous integration platform that automates building, testing, and deploying software across diverse environments. By leveraging Nix’s reproducible package management, Gradient ensures deterministic builds and simplifies dependency handling, making CI pipelines more reliable and easier to maintain. It is designed as a flexible, extensible framework suitable for a wide range of projects and use cases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/wavelens/gradient) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/wavelens/gradient) · [← Back to Misc](./README.md)</sub>

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 492 |
-| 🍴 **Forks** | 12 |
+| ⭐ **Stars** | 496 |
+| 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-KISS AI (Keep it Simple, Stupid AI Agent Framework) is an open-source framework for building and orchestrating AI/ML agents. Developed as a potential replacement for traditional cursor-based interfaces, KISS AI leverages KISS Sorcar to enable intuitive and efficient interactions with AI systems. This framework aims to simplify the development and deployment of AI agents, making them more accessible to a wider range of users and applications.
+KISS AI is an open‑source, lightweight framework for building AI agents that emphasizes simplicity and extensibility. It provides a general‑purpose assistant and a dedicated software‑engineering helper called **KISS Sorcar**, enabling developers to orchestrate AI‑driven workflows with minimal configuration. The project targets orchestration and AI/ML use cases, offering a clean, modular architecture for rapid prototyping and integration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ksenxx/kiss_ai) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ksenxx/kiss_ai) · [← Back to Orchestration](./README.md)</sub>

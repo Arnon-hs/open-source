@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 507 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asp-net` `bug-tracking-tool` `c-sharp` `crash-reporting` `crash-reporting-tool` `crash-reports` `elasticsearch` `error-handling` `error-monitoring` `error-reporting` `error-stack-trace` `exception`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Exceptionless is an open-source application designed to provide a centralized platform for error tracking and logging. It allows developers to capture and analyze exceptions, errors, and events from their applications, enabling more efficient debugging and issue resolution. By providing a unified view of application health, Exceptionless helps improve overall system reliability and performance.
+Exceptionless is an open‑source, real‑time error reporting and logging platform that captures exceptions, logs, and custom events from .NET, JavaScript, Java, and other applications. It provides a web dashboard for monitoring, searching, and analyzing issues, as well as integrations for notifications, tagging, and automated workflows. The project is licensed under MIT and aims to help developers detect and resolve problems quickly without relying on third‑party services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/exceptionless/Exceptionless) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/exceptionless/Exceptionless) · [← Back to Misc](./README.md)</sub>
