@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-builder` `agents` `ai` `chatgpt` `docsgpt` `hacktoberfest` `hacktoberfest2025` `information-retrieval` `language-model` `llm` `machine-learning` `natural-language-processing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The DocsGPT project is an open-source, private AI platform designed for agents, assistants, and enterprise search applications. It offers a range of features, including an Agent Builder, deep research capabilities, document analysis, and support for multiple AI models, as well as API connectivity for seamless integration. This robust platform enables developers to create custom AI solutions with ease.
+Arc53 DocsGPT is an open‑source private AI platform that enables the creation of intelligent agents, assistants, and enterprise‑grade search capabilities. It offers a built‑in Agent Builder, deep research and document‑analysis tools, multi‑model support, and API connectivity to integrate external services, making it suitable for both frontend and backend implementations in AI/ML projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/arc53/DocsGPT) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/arc53/DocsGPT) · [← Back to AI/ML](./README.md)</sub>

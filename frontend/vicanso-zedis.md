@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gpui` `redis` `redis-client`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Zedis is an open-source, high-performance Redis graphical user interface (GUI) built using Rust and GPU acceleration. This native GUI offers blazing-fast performance, making it an ideal choice for developers who rely heavily on Redis for data storage. By leveraging GPU capabilities, Zedis provides a seamless and efficient Redis experience.
+Zedis is a high‑performance, native graphical user interface for Redis, written in Rust and powered by the GPUI framework. It provides developers with fast, responsive visual tools for managing and exploring Redis databases, combining the safety and speed of Rust with a modern, cross‑platform UI. Ideal for frontend and DevTools workflows, Zedis aims to make Redis administration both efficient and enjoyable.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/vicanso/zedis) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/vicanso/zedis) · [← Back to Frontend](./README.md)</sub>

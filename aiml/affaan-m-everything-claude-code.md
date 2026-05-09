@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 173.8k |
-| 🍴 **Forks** | 26.9k |
+| ⭐ **Stars** | 176k |
+| 🍴 **Forks** | 27.2k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `anthropic` `claude` `claude-code` `developer-tools` `llm` `mcp` `productivity`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-The affaan-m/everything-claude-code project is an open-source system that aims to optimize the performance of agents, such as Claude Code, Codex, and Opencode, by leveraging skills, instincts, memory, security, and research-first development principles. This comprehensive framework is designed to enhance the capabilities and efficiency of AI models, ensuring robust and secure operations. It is categorized under AI/ML, DevTools, and Security.
+The **affaan-m/everything-claude-code** project provides a comprehensive agent harness that optimizes performance for Claude Code, Codex, Opencode, Cursor, and related AI coding tools. It integrates advanced skills, instinctive behavior, memory management, security safeguards, and a research‑first development workflow to boost productivity and safety across AI‑driven development environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/affaan-m/everything-claude-code) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/affaan-m/everything-claude-code) · [← Back to AI/ML](./README.md)</sub>

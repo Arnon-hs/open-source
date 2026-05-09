@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 315 |
-| 🍴 **Forks** | 64 |
+| ⭐ **Stars** | 339 |
+| 🍴 **Forks** | 66 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude-agents` `claude-code` `claude-skills` `express` `expressjs` `http` `node` `nodejs` `python` `react` `rest-api`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Claude-Code-Agent-Monitor is an open-source, real-time monitoring dashboard for Claude Code agents. Built with a combination of Node.js, Express, and React, it tracks key performance metrics such as agent activity, tool usage, and subagent orchestration through Claude Code hooks. This interactive web interface provides live analytics, a Kanban status board, and status notifications.
+A real‑time monitoring dashboard for Claude Code agents, built with SQLite3, Node.js/Express, React, Vite, TailwindCSS, and WebSockets. It captures session data, agent activity, tool usage, and sub‑agent orchestration via Claude Code hooks, delivering live analytics, a Kanban‑style status board, and push notifications through an interactive web interface.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) · [← Back to Orchestration](./README.md)</sub>

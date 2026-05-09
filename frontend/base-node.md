@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the base/node project:
-
-The base/node project provides a comprehensive package to set up and run your own Base node, giving you full control over the decentralized network. This open-source package includes all necessary components to get started, making it easy to integrate into your existing infrastructure. With base/node, you can access the Base network and enjoy a secure and decentralized experience.
+Base/node provides a complete, ready‑to‑run implementation of a Base blockchain node, bundling all the necessary backend services, APIs, and command‑line tools. Designed for developers and operators, it simplifies deployment, configuration, and maintenance of a full‑featured Base network participant. The project is open source and geared toward frontend teams needing a reliable, self‑hosted node environment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/base/node) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/base/node) · [← Back to Frontend](./README.md)</sub>

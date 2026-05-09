@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 141 |
+| ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code` `claude-skills` `codex` `documentation` `gemini` `marketing` `memory` `product-management` `seo` `skills` `software`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Marketing · Product
 
 ## 📝 Summary
 
-The AbsolutelySkilled project is an open-source initiative that showcases and celebrates unique skills from around the world. It serves as a platform for individuals to share their talents and expertise, making it an innovative resource for marketing and product development. This platform aims to foster a community that values diverse skills and enables collaboration across global boundaries.
+AbsolutelySkilled is an open‑source platform that curates and shares a diverse collection of professional skills and expertise from around the globe, enabling users to discover, learn, and showcase talent across various industries. Tailored for marketing and product teams, it provides searchable skill profiles, community‑driven content, and integration tools that help businesses identify and leverage the right capabilities for their projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/AbsolutelySkilled/AbsolutelySkilled) · [← Back to Marketing](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/AbsolutelySkilled/AbsolutelySkilled) · [← Back to Marketing](./README.md)</sub>

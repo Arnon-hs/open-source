@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `architecture-patterns` `awesome-claude-code` `awesome-claude-skills` `claude-agents` `claude-code` `claude-code-plugins` `claude-code-plugins-marketplace` `claude-commands` `claude-hooks` `claude-skills` `code-review`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-The athola/claude-night-market project is an open-source collection of 19 production-ready plugins for Claude, a large language model (LLM) platform. These plugins cater to various development needs, including code review, spec-driven development, and resource optimization, enabling developers to streamline their workflows and improve productivity. The project offers a versatile set of tools for leveraging the power of AI in software development and product creation.
+athola/claude-night-market is an open‑source collection of 19 production‑ready Claude Code plugins that streamline software development tasks. The plugins cover a wide range of capabilities—including automated Git workflows, AI‑assisted code review, specification‑driven development, architecture pattern enforcement, resource‑optimization tools, and multi‑LLM delegation—making it a versatile toolkit for developers looking to integrate Claude into their DevOps and product pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/athola/claude-night-market) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/athola/claude-night-market) · [← Back to AI/ML](./README.md)</sub>

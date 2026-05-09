@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.1k |
-| 🍴 **Forks** | 428 |
+| 🍴 **Forks** | 429 |
 | 💻 **Language** | Pony |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`actor-model` `pony-language` `pony-source` `ponyc` `ponylang` `programming-language`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Pony is an open-source programming language that leverages the actor-model architecture to provide high-performance capabilities. It prioritizes security through capabilities-based access control, ensuring safe and efficient interactions between concurrently executing actors. By utilizing Pony, developers can build robust, scalable, and secure applications across various domains.
+Pony is a high‑performance, open‑source programming language built around the actor model and capability‑based security, enabling safe, data‑racy‑free concurrency without a garbage collector. Its compiler, `ponyc`, translates Pony source code into efficient native binaries, offering strong type safety, memory safety, and scalability for modern, concurrent applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ponylang/ponyc) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ponylang/ponyc) · [← Back to Misc](./README.md)</sub>

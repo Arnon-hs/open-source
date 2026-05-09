@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51 |
+| ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-agents` `ai-tools` `aider` `anthropic` `claude` `claude-code` `claude-pro` `cline` `cost-saving` `developer-tools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · AI/ML · Backend
 
 ## 📝 Summary
 
-The dtzp555-max/ocp project is an open-source solution that enables users to convert their Claude Pro/Max subscription into a fully compatible OpenAI API, eliminating additional costs. This project provides a single proxy that can be used across various Integrated Development Environments (IDEs) and allows for LAN sharing, making it an ideal solution for families to utilize their subscription simultaneously.
+Turn your Claude Pro or Max subscription into a fully OpenAI‑compatible API with a single lightweight proxy. It lets any IDE or application on your LAN access Claude’s capabilities—no extra fees and easy family sharing. Ideal for developers who want a cost‑free, drop‑in replacement for OpenAI endpoints.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/dtzp555-max/ocp) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/dtzp555-max/ocp) · [← Back to Payments](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 321 |
+| ⭐ **Stars** | 320 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audio` `icecast` `icecast-server` `icecast2` `streaming` `streaming-audio` `streaming-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Data
 
 ## 📝 Summary
 
-DatanoiseTV/tinyice is an open-source, Go-based audio streaming server compatible with icecast2. It supports multiple features, including multiple mount points, multi-source, and relaying capabilities, making it a versatile solution for audio streaming needs. This lightweight server is designed to be efficient and scalable, suitable for various use cases in the audio streaming space.
+DatanoiseTV/tinyice is a lightweight, Go‑based streaming server that delivers Icecast‑compatible audio and video feeds. It supports multiple mount points, concurrent sources, and relay functionality, making it suitable for flexible, multi‑stream backend deployments. The project is open source and targets developers needing a simple yet powerful media streaming solution.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/DatanoiseTV/tinyice) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/DatanoiseTV/tinyice) · [← Back to Backend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 924 |
-| 🍴 **Forks** | 158 |
+| ⭐ **Stars** | 941 |
+| 🍴 **Forks** | 160 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `amd` `benchmark` `cuda` `gb200` `llm` `nvidia` `pytorch` `rocm` `sglang` `vllm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-InferenceX is an open-source project that provides a comprehensive benchmarking framework for continuous inference, allowing users to compare the performance of various AI accelerators and models. The project currently supports a range of accelerators, including NVIDIA's GB200, MI355X, B200, and H100, as well as Google's TPUv6e and v7. By providing a standardized testing environment, InferenceX enables developers to optimize their AI applications for maximum performance and efficiency.
+SemiAnalysisAI / InferenceX is an open‑source benchmarking suite that continuously evaluates the inference performance of cutting‑edge large language models such as Qwen 3.5, DeepSeek, and GPT‑OSS across a wide range of hardware—including NVIDIA GB200/NVL72, MI355X, B200, GB300/NVL72, H100, and upcoming TPUv6e/v7 and Trainium 2/3 accelerators. By automating multi‑platform testing and providing detailed metrics, InferenceX helps researchers and engineers compare model latency, throughput, and efficiency to guide hardware‑model selection and optimization.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/SemiAnalysisAI/InferenceX) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/SemiAnalysisAI/InferenceX) · [← Back to AI/ML](./README.md)</sub>

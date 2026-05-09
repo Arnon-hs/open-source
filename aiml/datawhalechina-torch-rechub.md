@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 144 |
+| 🍴 **Forks** | 145 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ascend` `ctr-prediction` `deep-learning` `generative-recommendation` `hstu` `llm` `npu` `onnx` `pytorch` `recommendation-algorithms` `recommendation-engine` `recommendation-system`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Torch-Rechub is an open-source, PyTorch-based framework for building recommendation models. It provides a simple and extensible architecture, making it easy to develop and deploy recommendation systems. This framework aims to accelerate the development of high-quality recommendation models for various applications.
+The **torch‑rechub** project provides a lightweight, Lightning‑based PyTorch framework tailored for building and evaluating recommendation system models. It offers a clean, modular architecture that simplifies model implementation, training, and benchmarking while remaining easy to extend with custom components. Ideal for researchers and developers working on AI/ML recommendation tasks, the library streamlines experimentation and reproducibility.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/datawhalechina/torch-rechub) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/datawhalechina/torch-rechub) · [← Back to AI/ML](./README.md)</sub>

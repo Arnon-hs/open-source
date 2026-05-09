@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cbr` `cbz` `cli` `cmd` `comic` `comicreader` `comics-reader` `comigo` `epub` `golang` `linux` `macos`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project "comigo":
-
-Comigo is a cross-platform comic and manga reader available for Linux, Windows, and macOS. This open-source application provides an intuitive and user-friendly experience for reading comics and manga across multiple operating systems. With its simple design, comigo aims to make reading comics and manga easier than ever.
+yumenaka/comigo is a lightweight, cross‑platform comic and manga reader that runs on Linux, Windows, and macOS. It offers a clean, user‑friendly interface for viewing manga files (CBR, CBZ, PDF, etc.) with basic navigation and zoom features, making it an easy‑to‑use solution for readers on any desktop OS.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/yumenaka/comigo) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/yumenaka/comigo) · [← Back to DevTools](./README.md)</sub>

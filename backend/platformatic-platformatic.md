@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 192 |
+| 🍴 **Forks** | 194 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fastify` `graphql` `hacktoberfest` `nodejs` `openapi` `rest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Platformatic is an open-source monorepo that serves as a comprehensive backend framework. It provides a flexible and modular structure for building scalable and maintainable applications, empowering developers to create robust and efficient backends. With its open-source nature, the platform invites contributions and community engagement to continuously improve and expand its capabilities.
+Platformatic is an open‑source monorepo that provides a suite of backend tools and libraries for building scalable, opinionated Node.js services. It bundles utilities such as API generators, database connectors, and server frameworks, all designed to work together seamlessly while remaining highly configurable. By offering a modular architecture and comprehensive documentation, Platformatic helps developers accelerate backend development and maintain consistent standards across projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/platformatic/platformatic) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/platformatic/platformatic) · [← Back to Backend](./README.md)</sub>

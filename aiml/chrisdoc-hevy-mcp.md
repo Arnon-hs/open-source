@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 218 |
+| ⭐ **Stars** | 221 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hevy` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The Hevy MCP (Manage, Create, Plan) project is an open-source tool designed to streamline Hevy workout management. It enables users to efficiently organize workouts, routines, folders, and exercise templates, allowing for faster session creation and plan updates. This application helps users maintain a synchronized training log by automatically updating changes, ensuring their workout data is always up-to-date.
+Hevy‑MCP is an open‑source web app that lets you manage Hevy workouts, routines, folders, and exercise templates—all from a single interface. It streamlines session creation and editing, offers powerful search and organization tools, and continuously syncs with Hevy so your training log stays up‑to‑date. The project combines a modern frontend with a robust backend, leveraging AI/ML features for smarter workout planning.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/chrisdoc/hevy-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/chrisdoc/hevy-mcp) · [← Back to AI/ML](./README.md)</sub>

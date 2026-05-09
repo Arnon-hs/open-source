@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The PocketMage PDA is an open-source, E-Ink display-based personal digital assistant built using the ESP32 S3 microcontroller. This project allows users to create their own portable, low-power device capable of running various applications and storing data locally. By leveraging the ESP32 S3's versatility, users can customize the device to suit their specific needs.
+PocketMage PDA is an open‑source, handheld e‑ink personal digital assistant built around the ESP32‑S3 microcontroller. It combines low‑power Wi‑Fi/Bluetooth connectivity with a high‑contrast e‑ink display to provide a lightweight, always‑on device for note‑taking, reading, and simple IoT tasks. The project supplies schematics, firmware, and software tools so users can assemble, customize, and extend their own e‑ink PDA.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/ashtf8/PocketMage_PDA) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ashtf8/PocketMage_PDA) · [← Back to Misc](./README.md)</sub>

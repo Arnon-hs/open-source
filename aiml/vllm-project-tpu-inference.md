@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 314 |
-| 🍴 **Forks** | 175 |
+| ⭐ **Stars** | 322 |
+| 🍴 **Forks** | 182 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The TPU-inference project provides a unified interface for running inference on large language models (vLLM) using Tensor Processing Units (TPU) across both JAX and PyTorch frameworks. This open-source project enables developers to leverage the efficiency of TPUs for vLLM inference, simplifying the process of model deployment. By supporting multiple frameworks, it offers flexibility and compatibility for a wide range of applications.
+vLLM‑TPU is an open‑source extension that enables high‑throughput inference of large language models on Google TPU hardware. It provides a unified interface that works with both JAX and PyTorch, allowing developers to seamlessly run vLLM workloads on TPUs without rewriting model code. The project focuses on scalability, low latency, and easy integration into existing AI/ML pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/vllm-project/tpu-inference) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/vllm-project/tpu-inference) · [← Back to AI/ML](./README.md)</sub>

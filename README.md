@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3579** |
+| 🗂️ **Total projects** | **3619** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1425 | [Browse →](./aiml/) |
-| 📦 **Misc** | 567 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 360 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 354 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 190 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 184 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 143 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 1440 | [Browse →](./aiml/) |
+| 📦 **Misc** | 571 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 366 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 359 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 193 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 187 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 144 | [Browse →](./crypto/) |
 | 📊 **Data** | 82 | [Browse →](./data/) |
-| 💳 **Payments** | 80 | [Browse →](./payments/) |
+| 💳 **Payments** | 81 | [Browse →](./payments/) |
 | 📈 **Trading** | 54 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 47 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 40 | [Browse →](./mobile/) |
 | 🔐 **Security** | 31 | [Browse →](./security/) |
+| ✨ **Design** | 11 | [Browse →](./design/) |
 | 🎯 **Product** | 10 | [Browse →](./product/) |
-| ✨ **Design** | 10 | [Browse →](./design/) |
-| 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 3 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [google/zx](./devtools/google-zx.md) | ⭐ 45.5k | DevTools |
-| 2 | [zulip/zulip](./frontend/zulip-zulip.md) | ⭐ 25.2k | Frontend |
-| 3 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 47.9k | AI/ML |
-| 4 | [asgeirtj/system_prompts_leaks](./aiml/asgeirtj-system-prompts-leaks.md) | ⭐ 39.9k | AI/ML |
-| 5 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
-| 6 | [winsiderss/systeminformer](./security/winsiderss-systeminformer.md) | ⭐ 14.5k | Security |
-| 7 | [JustArchiNET/ArchiSteamFarm](./backend/justarchinet-archisteamfarm.md) | ⭐ 13.3k | Backend |
-| 8 | [projectcalico/calico](./devopsinfra/projectcalico-calico.md) | ⭐ 7.2k | DevOps & Infra |
-| 9 | [influxdata/influxdb](./frontend/influxdata-influxdb.md) | ⭐ 31.5k | Frontend |
-| 10 | [nukeop/nuclear](./aiml/nukeop-nuclear.md) | ⭐ 17.5k | AI/ML |
+| 1 | [arc53/DocsGPT](./aiml/arc53-docsgpt.md) | ⭐ 17.9k | AI/ML |
+| 2 | [affaan-m/everything-claude-code](./aiml/affaan-m-everything-claude-code.md) | ⭐ 176k | AI/ML |
+| 3 | [google/zx](./devtools/google-zx.md) | ⭐ 45.5k | DevTools |
+| 4 | [zulip/zulip](./frontend/zulip-zulip.md) | ⭐ 25.2k | Frontend |
+| 5 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 47.9k | AI/ML |
+| 6 | [asgeirtj/system_prompts_leaks](./aiml/asgeirtj-system-prompts-leaks.md) | ⭐ 39.9k | AI/ML |
+| 7 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
+| 8 | [winsiderss/systeminformer](./security/winsiderss-systeminformer.md) | ⭐ 14.5k | Security |
+| 9 | [JustArchiNET/ArchiSteamFarm](./backend/justarchinet-archisteamfarm.md) | ⭐ 13.3k | Backend |
+| 10 | [projectcalico/calico](./devopsinfra/projectcalico-calico.md) | ⭐ 7.2k | DevOps & Infra |
 
 ## 🚀 How it works
 

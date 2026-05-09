@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 303 |
-| 🍴 **Forks** | 31 |
+| ⭐ **Stars** | 331 |
+| 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-skills` `agentic` `agentic-ai` `agentic-workflow` `ai-skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the CreminiAI/skillpack project:
-
-Skillpack is an open-source project that enables teams to quickly deploy and manage local AI agents, streamlining AI development and deployment processes. With Skillpack, users can package and orchestrate AI models in minutes, simplifying collaboration and reducing the complexity associated with AI/ML workflows. This project is ideal for organizations looking to integrate AI into their operations efficiently and effectively.
+CreminiAI / skillpack is an open‑source toolkit that lets teams quickly package, configure, and run local AI agents for a variety of tasks, without relying on external cloud services. It provides streamlined orchestration utilities—container templates, runtime scripts, and API hooks—so developers can deploy, manage, and scale self‑hosted agents in minutes. The project targets teams that need secure, on‑premise AI/ML workloads while maintaining easy integration with existing workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/CreminiAI/skillpack) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/CreminiAI/skillpack) · [← Back to Orchestration](./README.md)</sub>

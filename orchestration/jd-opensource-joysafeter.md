@@ -1,6 +1,6 @@
 # jd-opensource/JoySafeter
 
-[![Stars](https://img.shields.io/github/stars/jd-opensource/JoySafeter?style=flat-square&color=yellow)](https://github.com/jd-opensource/JoySafeter/stargazers) [![Forks](https://img.shields.io/github/forks/jd-opensource/JoySafeter?style=flat-square&color=blue)](https://github.com/jd-opensource/JoySafeter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jd-opensource/JoySafeter?style=flat-square&color=yellow)](https://github.com/jd-opensource/JoySafeter/stargazers) [![Forks](https://img.shields.io/github/forks/jd-opensource/JoySafeter?style=flat-square&color=blue)](https://github.com/jd-opensource/JoySafeter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 JoySafeter: An enterprise AI Agent Platform—Not just chatting. building、running、testing, and tracing autonomous Agent Teams with visual orchestration...
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 267 |
-| 🍴 **Forks** | 52 |
+| ⭐ **Stars** | 269 |
+| 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a` `agent` `agent-platform` `agent-studio` `agents` `coding-agent` `deepagents` `mcp` `memory` `multi-agent` `openclaw` `sandboxing`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the JoySafeter project:
-
-JoySafeter is an open-source, enterprise-grade AI Agent Platform that enables the building, running, testing, and tracing of autonomous Agent Teams through visual orchestration. This platform is designed to simplify the development and deployment of complex AI applications, making it a valuable tool for organizations looking to streamline their AI workflows. With JoySafeter, users can create and manage entire AI ecosystems with ease.
+JoySafeter is an open‑source enterprise AI Agent Platform that goes beyond simple chat interfaces, enabling developers to build, run, test, and trace autonomous agent teams through a visual orchestration dashboard. It integrates orchestration, AI/ML, and frontend capabilities to streamline the creation and management of collaborative AI agents for complex workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/jd-opensource/JoySafeter) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jd-opensource/JoySafeter) · [← Back to Orchestration](./README.md)</sub>

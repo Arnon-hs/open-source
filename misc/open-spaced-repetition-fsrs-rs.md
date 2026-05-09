@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 364 |
+| ⭐ **Stars** | 366 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fsrs` `machine-learning` `rust` `spaced-repetition-algorithm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The open-spaced-repetition/fsrs-rs project is an open-source implementation of the FSRS algorithm for Rust, allowing for efficient spaced repetition in software applications. This project includes both an optimizer and scheduler, enabling developers to create intelligent and adaptive learning systems. By leveraging FSRS, developers can build more effective spaced repetition systems for various use cases.
+Open‑spaced‑repetition/fsrs‑rs is a Rust implementation of the **FSRS (Free Spaced Repetition Scheduler)** algorithm, providing both an optimizer to fine‑tune model parameters and a scheduler to generate optimal review intervals for flashcard‑based learning. Designed as a lightweight, pure‑Rust library, it can be easily integrated into any Rust project that needs adaptive spaced‑repetition functionality.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/open-spaced-repetition/fsrs-rs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/open-spaced-repetition/fsrs-rs) · [← Back to Misc](./README.md)</sub>

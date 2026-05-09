@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 139 |
-| 🍴 **Forks** | 83 |
+| ⭐ **Stars** | 141 |
+| 🍴 **Forks** | 84 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `developer-toolkit` `developer-tools` `go` `golang` `newrelic`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The New Relic Command Line Interface (CLI) is an open-source project that allows users to interact with their New Relic account from the command line. This tool enables efficient and automated management of New Relic tools and features, streamlining monitoring, troubleshooting, and optimization tasks. By simplifying the process of working with New Relic, the CLI empowers developers to accelerate issue resolution and improve overall application performance.
+The **New Relic CLI** (`newrelic/newrelic-cli`) is an open‑source command‑line tool that lets developers and operators interact with New Relic services directly from the terminal. It supports tasks such as querying metric data, managing alerts, deploying applications, and automating observability workflows, making it easier to integrate New Relic into CI/CD pipelines and DevOps processes. The project is packaged as a cross‑platform binary and is actively maintained under the DevTools category.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/newrelic/newrelic-cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/newrelic/newrelic-cli) · [← Back to DevTools](./README.md)</sub>

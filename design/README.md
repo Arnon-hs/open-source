@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**10 projects** in this category.
+**11 projects** in this category.
 
 ## Projects
 
@@ -15,9 +15,10 @@
 | 5 | [CuteLeaf/Firefly](./cuteleaf-firefly.md) | ⭐ 937 | Astro | 64/100 |
 | 6 | [agersant/polaris](./agersant-polaris.md) | ⭐ 2.6k | Rust | 60/100 |
 | 7 | [ComputationalRadiationPhysics/picongpu](./computationalradiationphysics-picongpu.md) | ⭐ 779 | C++ | 59/100 |
-| 8 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 54/100 |
-| 9 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 498 | Python | 54/100 |
-| 10 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 52/100 |
+| 8 | [sblantipodi/firefly_luciferin](./sblantipodi-firefly-luciferin.md) | ⭐ 436 | Java | 54/100 |
+| 9 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 54/100 |
+| 10 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 498 | Python | 54/100 |
+| 11 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 52/100 |
 
 ---
 

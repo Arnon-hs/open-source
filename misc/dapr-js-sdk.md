@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 219 |
-| 🍴 **Forks** | 100 |
+| 🍴 **Forks** | 102 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dapr` `hacktoberfest` `open-source`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Dapr JavaScript SDK is an open-source project that provides a set of libraries and tools for building cloud-native applications using the Dapr (Distributed Application Runtime) framework. This SDK enables developers to create scalable, event-driven, and containerized microservices in Node.js, simplifying the development process and easing integration with Dapr's features. With the Dapr JavaScript SDK, developers can leverage Dapr's powerful capabilities to build robust, distributed systems.
+The **dapr/js-sdk** repository provides an official JavaScript/TypeScript client library for interacting with Dapr, the open‑source, portable, event‑driven runtime that simplifies building microservices. It abstracts Dapr’s HTTP and gRPC APIs, offering easy‑to‑use functions for service invocation, state management, pub/sub, bindings, and secret access, enabling developers to integrate Dapr capabilities directly into Node.js applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/dapr/js-sdk) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/dapr/js-sdk) · [← Back to Misc](./README.md)</sub>

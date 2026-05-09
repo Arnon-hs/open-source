@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 128 |
+| ⭐ **Stars** | 2.2k |
+| 🍴 **Forks** | 131 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cross-platform` `flutter` `plex` `plex-api` `plex-client` `plex-media-server` `plexmediaserver`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Here is a brief summary for the open-source project "edde746/plezy":
-
-Plezy is a modern, open-source cross-platform Plex client built with Flutter, providing a seamless user experience across various devices. This cutting-edge application offers a sleek and intuitive interface, making it an ideal choice for those seeking a high-performance Plex client. With its multi-platform support, Plezy aims to revolutionize the way users interact with their Plex libraries.
+Plezy is a modern, cross‑platform Plex client built using Flutter, offering a sleek and responsive UI for browsing and streaming your Plex media library on mobile, desktop, and web. By leveraging Flutter’s single‑code‑base approach, the project provides both frontend and backend components, along with developer tools that simplify customization and integration. It’s open‑source, making it easy for developers to extend or adapt the client to fit their own Plex workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/edde746/plezy) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/edde746/plezy) · [← Back to Frontend](./README.md)</sub>

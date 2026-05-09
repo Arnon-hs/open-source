@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 528 |
-| 🍴 **Forks** | 57 |
+| ⭐ **Stars** | 533 |
+| 🍴 **Forks** | 58 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gfw` `shadowsocks` `trojan` `v2config` `v2ray` `v2ray-core` `v2rayng` `vless` `vmess` `vpn` `vpn-service`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The MatinGhanbari/v2ray-configs project is an open-source initiative that provides free V2ray configurations, updated every 15 minutes to ensure users have access to the latest settings. This project is categorized under AI/ML, although its primary focus is on V2ray configuration, which is a tool used for VPN and proxy services. By providing up-to-date configurations, users can easily set up and manage their V2ray servers.
+MatinGhanbari/v2ray-configs is an open‑source repository that provides a continuously updated collection of free V2Ray proxy configuration files, refreshed automatically every 15 minutes. While listed under AI/ML, the project’s primary focus is on delivering ready‑to‑use V2Ray configs for users seeking quick and reliable network tunneling solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/MatinGhanbari/v2ray-configs) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/MatinGhanbari/v2ray-configs) · [← Back to AI/ML](./README.md)</sub>

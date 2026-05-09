@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**80 projects** in this category.
+**81 projects** in this category.
 
 ## Projects
 
@@ -80,14 +80,15 @@
 | 70 | [checkout/checkout-sdk-node](./checkout-checkout-sdk-node.md) | ⭐ 67 | JavaScript | 51/100 |
 | 71 | [samueltuyizere/oc-go-cc](./samueltuyizere-oc-go-cc.md) | ⭐ 299 | Go | 51/100 |
 | 72 | [bzsanti/oxidizePdf](./bzsanti-oxidizepdf.md) | ⭐ 168 | Rust | 51/100 |
-| 73 | [OrchardCMS/OrchardCore.Commerce](./orchardcms-orchardcore.commerce.md) | ⭐ 229 | C# | 50/100 |
-| 74 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 50/100 |
-| 75 | [wevm/mppx](./wevm-mppx.md) | ⭐ 119 | TypeScript | 50/100 |
+| 73 | [dtzp555-max/ocp](./dtzp555-max-ocp.md) | ⭐ 54 | JavaScript | 50/100 |
+| 74 | [OrchardCMS/OrchardCore.Commerce](./orchardcms-orchardcore.commerce.md) | ⭐ 229 | C# | 50/100 |
+| 75 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 50/100 |
 | 76 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 50/100 |
-| 77 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 719 | Rust | 50/100 |
-| 78 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 67 | TypeScript | 49/100 |
-| 79 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 47/100 |
-| 80 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 46/100 |
+| 77 | [wevm/mppx](./wevm-mppx.md) | ⭐ 119 | TypeScript | 50/100 |
+| 78 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 719 | Rust | 50/100 |
+| 79 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 67 | TypeScript | 49/100 |
+| 80 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 47/100 |
+| 81 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 46/100 |
 
 ---
 

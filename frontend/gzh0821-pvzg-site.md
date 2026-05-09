@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 96 |
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 98 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`javascript` `official-website` `pvz` `pvz2` `vue` `vue3` `website`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-This is the official website for the PvZ2 Gardendless project, a rewritten PC port of the popular mobile game Plants vs Zombies 2. The project aims to bring the classic garden defense experience to the PC platform, providing a seamless and immersive gameplay experience for fans. By reworking the game's frontend, the project seeks to enhance the overall quality and accessibility of the game.
+Gzh0821/pvzg_site is the source code for the official website of **Plants vs. Zombies 2: Garden‑less**, a community‑maintained PC port of the popular mobile game. The project provides a modern, responsive front‑end built with contemporary web technologies to showcase game information, updates, and download links, while also serving as a showcase for the rewritten game client. It is organized as a lightweight, open‑source frontend repository suitable for further customization or contribution.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/Gzh0821/pvzg_site) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Gzh0821/pvzg_site) · [← Back to Frontend](./README.md)</sub>
