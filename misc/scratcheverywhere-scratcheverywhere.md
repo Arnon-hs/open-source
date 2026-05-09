@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 495 |
+| ⭐ **Stars** | 508 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the ScratchEverywhere project:
-
-ScratchEverywhere is an open-source, custom Scratch Runtime developed in C++. This project aims to provide a flexible and customizable environment for running Scratch projects, offering users a range of possibilities for modification and extension. By utilizing C++ as its programming language, ScratchEverywhere provides a powerful foundation for developers to build upon.
+ScratchEverywhere is an open‑source project that re‑implements the Scratch visual‑programming runtime in native C++. By providing a custom, high‑performance engine, it enables developers to run Scratch projects outside of the original web environment and to integrate Scratch functionality into C++ applications. The repository is a miscellaneous‑category toolkit for anyone looking to embed or extend Scratch’s block‑based programming model.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/ScratchEverywhere/ScratchEverywhere) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ScratchEverywhere/ScratchEverywhere) · [← Back to Misc](./README.md)</sub>

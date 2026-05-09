@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 412 |
+| 🍴 **Forks** | 414 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The openScale project is an open-source weight and body metrics tracker that allows users to monitor their health and wellness. This application supports Bluetooth scales, enabling seamless data synchronization and providing a comprehensive overview of users' weight, body fat percentage, and other vital metrics. By offering a free and customizable solution, openScale empowers individuals to take control of their health and fitness goals.
+OpenScale is an open‑source Android application that lets you track weight, body‑fat percentage, muscle mass and other health metrics, syncing data automatically with compatible Bluetooth scales. It stores historical records, provides charts and statistical insights, and can export or share data for integration with other health platforms. The project is community‑driven and licensed for free use and modification.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/oliexdev/openScale) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/oliexdev/openScale) · [← Back to Misc](./README.md)</sub>

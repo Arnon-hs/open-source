@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 123 |
+| 🍴 **Forks** | 124 |
 | 💻 **Language** | C |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the bazaar-org/bazaar project:
-
-bazaar is an open-source project aiming to create a new App Store for the GNOME desktop environment. This platform will provide users with a seamless way to discover, download, and install GNOME-compatible applications, promoting a more unified and accessible user experience. By fostering community-driven development and submission, bazaar seeks to become a central hub for GNOME applications.
+Bazaar is an open‑source application store designed specifically for the GNOME desktop environment, providing a centralized platform where users can discover, install, and manage GNOME‑compatible apps. It streamlines the software acquisition process with a clean, GNOME‑styled interface and integrates with the system’s package management to handle updates and dependencies automatically. The project aims to enhance the GNOME ecosystem by offering a curated, user‑friendly marketplace for both developers and end‑users.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/bazaar-org/bazaar) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/bazaar-org/bazaar) · [← Back to Misc](./README.md)</sub>

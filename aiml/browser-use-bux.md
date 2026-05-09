@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 311 |
-| 🍴 **Forks** | 29 |
+| ⭐ **Stars** | 317 |
+| 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The browser-use/bux project is an open-source initiative that enables the deployment of a 24/7 Claude Code agent, utilizing a Browser Harness, on any personal device. This innovative solution leverages AI/ML capabilities, empowering users to harness the power of advanced technology on their own systems. By providing a flexible and easily accessible framework, the project aims to democratize access to cutting-edge AI solutions.
+**browser-use/bux** is an open‑source, always‑on Claude‑powered coding assistant that integrates a full‑featured browser harness, allowing it to retrieve, interact with, and manipulate web content directly from any machine you control. By bundling Claude’s LLM capabilities with programmable browsing tools, the project enables continuous, autonomous AI assistance for development, research, or automation tasks without requiring a remote server.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/browser-use/bux) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/browser-use/bux) · [← Back to AI/ML](./README.md)</sub>

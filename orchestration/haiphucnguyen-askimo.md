@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 101 |
+| ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-workflow` `ai` `ai-assistant` `artificial-intelligence` `chatgpt` `claude` `desktop` `gemini` `gemini-client` `grok` `langchain4j` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the askimo project:
-
-Askimo is an open-source, local-first AI agent platform designed for desktop and command-line interfaces. It enables users to interact with various AI models, including OpenAI, Claude, and Gemini, through features such as chat, RAG search, and multi-step workflows. With support for multiple models and tools, askimo provides a versatile platform for AI development and exploration.
+haiphucnguyen/askimo is a local‑first AI agent platform that runs on both desktop and command‑line interfaces, letting users chat with LLMs, perform RAG‑based searches, and orchestrate multi‑step plans and workflows. It bundles a suite of tools—including MCP utilities and a script runner—and supports a wide range of models such as OpenAI, Claude, Gemini, Grok, Ollama, LM Studio, and many others. The project focuses on orchestration of AI/ML tasks while providing a lightweight, user‑friendly frontend.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/haiphucnguyen/askimo) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/haiphucnguyen/askimo) · [← Back to Orchestration](./README.md)</sub>

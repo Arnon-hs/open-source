@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 485 |
+| ⭐ **Stars** | 486 |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | CSS |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`first-contribution` `first-contributions` `first-timers` `first-timers-friendly` `fork-commit-merge` `git` `good-first-repo` `learn-to-contribute` `up-for-grabs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-The fork-commit-merge project is an interactive learning tool that guides users through the process of contributing to open-source projects on GitHub by simulating the fork-commit-merge workflow. This project aims to help developers and non-developers alike gain hands-on experience with the fundamental concepts of open-source collaboration. By using this tool, users can practice and master the skills necessary for effective GitHub contributions.
+fork-commit-merge is an interactive tutorial that guides users through the full GitHub contribution workflow—forking a repository, making commits, and submitting a pull request. By providing a hands‑on, front‑end focused project, it helps newcomers practice essential open‑source skills in a realistic environment. The repo is ideal for developers looking to build confidence with Git, GitHub collaboration, and basic design implementation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/fork-commit-merge/fork-commit-merge) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/fork-commit-merge/fork-commit-merge) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 641 |
-| 🍴 **Forks** | 36 |
+| ⭐ **Stars** | 655 |
+| 🍴 **Forks** | 37 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `multimedia` `music` `rust` `spotify` `spotify-api` `spotify-tui` `terminal` `terminal-based`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-"Spotatui is a fully standalone, open-source Spotify client designed for the terminal. This native streaming application eliminates the need for a daemon, providing users with a seamless and convenient way to access their Spotify music library from the comfort of their command line interface. With Spotatui, users can enjoy their favorite music without relying on external services."
+LargeModGames/spotatui is a self‑contained, terminal‑based Spotify client that lets users browse, search, and stream music directly from the command line. It handles native audio streaming without needing any external daemon or background service, offering both a responsive frontend UI and the necessary backend logic in a single package. Ideal for developers and power users who prefer a lightweight, fully integrated Spotify experience in their terminal.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/LargeModGames/spotatui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/LargeModGames/spotatui) · [← Back to Frontend](./README.md)</sub>

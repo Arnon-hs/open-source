@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 131 |
+| 🍴 **Forks** | 132 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`backblaze-b2` `docker` `download` `firefox-send` `golang` `ownyourdata` `s3-storage` `self-hosted` `selfhosted` `ssl` `uploader`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the Forceu/Gokapi project:
-
-Forceu/Gokapi is an open-source, self-hosted alternative to Firefox Send that allows users to securely share files without relying on public uploads. This lightweight solution supports integration with AWS S3, providing users with a private and customizable file-sharing experience. By hosting the service locally, users maintain control over their data and can enjoy a seamless and secure file-sharing experience.
+Forceu / Gokapi is a lightweight, self‑hosted file‑sharing service that serves as a privacy‑focused alternative to Firefox Send, disallowing public uploads and providing fine‑grained access control. It runs as a simple backend application, supports storing files on local storage or AWS S3, and is designed for easy deployment and low resource usage. Suitable for developers needing a secure, on‑premise solution for temporary file transfers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Forceu/Gokapi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Forceu/Gokapi) · [← Back to AI/ML](./README.md)</sub>

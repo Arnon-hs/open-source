@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 561 |
+| ⭐ **Stars** | 571 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `functional-programming` `interpreter` `llm` `programming-language` `prompt-engineering`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The open-source project "grace" is a functional programming language specifically designed for prompt engineering, enabling developers to craft and manage complex prompts for artificial intelligence and machine learning (AI/ML) models. With its focus on functional programming principles, grace aims to simplify the process of developing and refining AI prompts. This language is ideal for researchers and developers working with large language models.
+Gabriella439/grace is an open‑source functional programming language specifically designed for prompt engineering, enabling developers to craft, manipulate, and compose AI prompts with the rigor and modularity of functional code. By treating prompts as first‑class values and providing composable operators, Grace streamlines the creation of complex, reusable prompt pipelines for large‑language models. It targets AI/ML workflows, offering a concise syntax and a growing standard library for prompt transformation, testing, and deployment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/Gabriella439/grace) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Gabriella439/grace) · [← Back to AI/ML](./README.md)</sub>

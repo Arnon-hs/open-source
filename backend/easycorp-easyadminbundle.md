@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`admin` `backend` `bundle` `generator` `hacktoberfest` `php` `symfony` `symfony-bundle`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-EasyAdminBundle is an open-source, fast, and modern admin generator for Symfony applications. This powerful tool enables developers to create beautiful and efficient backends with minimal effort, allowing them to focus on building their applications rather than crafting admin interfaces from scratch. With EasyAdmin, you can quickly set up a robust and user-friendly admin panel for your Symfony project.
+EasyAdminBundle is an open‑source Symfony bundle that instantly generates a clean, responsive admin interface for any Symfony application. It provides a fast, highly configurable way to manage entities, CRUD operations, and custom actions without writing boilerplate code. Ideal for backend projects, it helps developers build modern admin panels with minimal effort.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/EasyCorp/EasyAdminBundle) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/EasyCorp/EasyAdminBundle) · [← Back to Backend](./README.md)</sub>

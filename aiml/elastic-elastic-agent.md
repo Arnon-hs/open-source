@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 249 |
-| 🍴 **Forks** | 248 |
+| ⭐ **Stars** | 253 |
+| 🍴 **Forks** | 247 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The Elastic Agent is an open-source tool that provides a unified way to collect and monitor various types of data from a single host. It enables users to gather logs, metrics, and other data sources in one place, facilitating streamlined monitoring and analysis. This agent is designed to be extensible and adaptable to different environments and data sources.
+Elastic Agent is a lightweight, unified collector that simplifies the deployment of logging, metrics, and other observability data across hosts. It bundles Beats and integrations into a single binary, enabling centralized configuration, automated updates, and seamless shipping of data to the Elastic Stack. Ideal for both cloud‑native and traditional environments, it streamlines monitoring and security telemetry without the complexity of managing multiple agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/elastic/elastic-agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/elastic/elastic-agent) · [← Back to AI/ML](./README.md)</sub>

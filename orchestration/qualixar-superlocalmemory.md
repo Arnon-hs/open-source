@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 136 |
-| 🍴 **Forks** | 14 |
+| ⭐ **Stars** | 142 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `agent-reliability` `ai-agents` `claude-code` `cursor` `knowledge-graph` `llm-memory` `local-first` `mcp` `mcp-server` `persistent-memory` `qualixar`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the project:
-
-The qualixar/superlocalmemory project is a world-first, open-source, local-only AI memory solution that achieves impressive retrieval and zero-Large Language Model (LLM) performance on the LoCoMo benchmark. This innovative project enables secure, offline AI processing without relying on cloud services or external APIs, keeping all data on the user's machine. It has been shown to achieve top-tier performance, including a record 87.7% LoCoMo score in mode C (LLM/Cloud).
+Qualixar SuperLocalMemory is an open‑source, locally‑run AI memory system that achieves a 74 % retrieval rate and 60 % zero‑LLM performance on the LoCoMo benchmark—no cloud services, APIs, or data leaving the user’s machine. It also offers a “mode C” hybrid configuration (LLM/Cloud) that reaches 87.7 % LoCoMo accuracy, and its design is backed by research (arXiv 2603.14588). The project falls under orchestration, AI/ML, and backend tooling, enabling privacy‑preserving, high‑performance AI memory without external dependencies.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/qualixar/superlocalmemory) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/qualixar/superlocalmemory) · [← Back to Orchestration](./README.md)</sub>

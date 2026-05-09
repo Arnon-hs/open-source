@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 154 |
+| ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-safety` `ai-security` `claude-code` `gemini` `gemini-cli` `llm` `llm-agent` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The node9-proxy project provides a secure execution layer for autonomous AI agents, enabling deterministic "Sudo" governance and transparent audit logging. This open-source tool ensures accountability and reliability in AI decision-making processes, promoting trust and safety in the development and deployment of agentic AI systems. By providing a secure foundation for AI governance, node9-proxy empowers developers to build more trustworthy and accountable AI solutions.
+Node9‑Proxy is an open‑source execution‑security layer designed for the “Agentic Era,” delivering deterministic “sudo”‑style governance over autonomous AI agents. It intercepts and mediates AI‑driven actions, enforcing policy rules, sandboxing execution, and generating tamper‑proof audit logs for complete traceability. Ideal for developers building AI‑augmented back‑ends and dev‑tools that require robust, accountable control of self‑acting agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/node9-ai/node9-proxy) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/node9-ai/node9-proxy) · [← Back to AI/ML](./README.md)</sub>

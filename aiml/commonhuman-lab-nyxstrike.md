@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 85 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 88 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `bug-bounty` `ctf-tools` `hexstrike` `kali-linux` `mcp` `mcp-server` `nyxstrike` `ollama` `pentest` `pentest-tool` `pentesting`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Nyxstrike is an open-source, AI-powered penetration testing platform designed for offensive security research. This innovative platform utilizes artificial intelligence to enhance and streamline the penetration testing process, enabling security researchers to identify vulnerabilities and strengthen their defenses more efficiently. By leveraging AI and machine learning, Nyxstrike empowers users to conduct thorough and automated security assessments.
+CommonHuman‑Lab/nyxstrike is an open‑source, AI‑driven penetration‑testing platform designed to streamline offensive security research. By integrating machine‑learning models with robust backend services, it automates vulnerability discovery, exploitation workflows, and reporting, helping security teams accelerate assessments. The tool serves as a dev‑oriented framework for building, customizing, and extending AI‑powered security testing pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/CommonHuman-Lab/nyxstrike) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/CommonHuman-Lab/nyxstrike) · [← Back to AI/ML](./README.md)</sub>

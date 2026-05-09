@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | C |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`game-development` `interpreter` `programming-language` `scripting-language` `static-typing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-daScript is an open-source, high-performance scripting language that offers strong static typing, designed for efficient and scalable execution. This language is particularly suited for applications in the realm of Artificial Intelligence (AI) and Machine Learning (ML), where performance-critical tasks necessitate robust and reliable code. With its statically typed nature, daScript aims to provide a reliable and maintainable foundation for developing complex AI and ML applications.
+GaijinEntertainment/daScript is an open‑source, high‑performance scripting language that combines static, strong typing with a lightweight, C‑like syntax for fast execution and easy integration into native applications. Designed for game development and other performance‑critical domains, daScript offers a compact standard library, seamless interoperability with C/C++ code, and a just‑in‑time compiler that delivers near‑native speed. It’s ideal for developers who need a safe, expressive scripting layer without sacrificing runtime efficiency.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/GaijinEntertainment/daScript) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/GaijinEntertainment/daScript) · [← Back to AI/ML](./README.md)</sub>

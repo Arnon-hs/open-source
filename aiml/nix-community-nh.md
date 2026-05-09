@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 102 |
+| 🍴 **Forks** | 101 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`home-manager` `nix` `nix-darwin` `nix-flake` `nix-helper` `nixos`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The nh project is an open-source, community-driven Nix CLI helper designed to simplify tasks and workflows for users. This tool aims to provide a user-friendly interface for managing Nix configurations and packages, making it easier for developers to work with the Nix package manager. It is a valuable resource for those in the AI/ML and DevTools communities.
+nix-community/nh is a lightweight command‑line utility that streamlines common Nix workflows, offering shortcuts for building, testing, and managing Nix packages and environments. Designed for developers who want a faster, more ergonomic interface to the Nix ecosystem, it provides clear, scriptable commands while remaining fully open‑source and community‑maintained.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/nix-community/nh) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nix-community/nh) · [← Back to AI/ML](./README.md)</sub>

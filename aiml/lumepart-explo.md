@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 23 |
+| 🍴 **Forks** | 25 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`airsonic` `emby` `jellyfin` `listenbrainz` `mpd` `music-player-daemon` `navidrome` `plex-media-server` `self-hosted` `subsonic`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-LumePart/Explo is an open-source project designed to bring personalized music recommendations to self-hosted music systems, mirroring the functionality of Spotify's popular "Discover Weekly" feature. Leveraging AI and ML capabilities, this project aims to provide users with a unique and engaging music experience tailored to their individual tastes. By self-hosting, users can maintain control over their music data and recommendations.
+LumePart/Explo is an open‑source backend that brings Spotify‑style “Discover Weekly” recommendations to self‑hosted music libraries. By analyzing listening habits with machine‑learning models, it generates personalized weekly playlists without relying on external streaming services. The project is designed for easy integration into any self‑hosted music system, offering AI‑driven discovery while keeping data under your control.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/LumePart/Explo) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/LumePart/Explo) · [← Back to AI/ML](./README.md)</sub>
