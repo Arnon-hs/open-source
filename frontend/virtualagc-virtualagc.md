@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 388 |
+| 🍴 **Forks** | 389 |
 | 💻 **Language** | Assembly |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The Virtual Apollo Guidance Computer (AGC) project is an open-source software recreation of the onboard computer used in the Apollo missions. This project allows users to simulate and interact with the AGC's functionality, providing a unique glimpse into the historic computing systems used in space exploration. It serves as a valuable resource for historians, educators, and enthusiasts interested in the Apollo program.
+virtualagc/virtualagc is an open‑source emulator that replicates the Apollo Guidance Computer (AGC) hardware and its original flight software, allowing users to run historic Apollo mission code on modern platforms. It provides a cross‑platform frontend for visualizing the AGC’s displays, inputs, and memory state, making it a valuable tool for education, preservation, and hobbyist exploration of the Apollo program’s onboard computing.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/virtualagc/virtualagc) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/virtualagc/virtualagc) · [← Back to Frontend](./README.md)</sub>

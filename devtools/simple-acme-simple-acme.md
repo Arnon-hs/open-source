@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 511 |
+| ⭐ **Stars** | 514 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acme` `apache` `automation` `certificates` `cli` `client` `cross-platform` `csharp` `dotnet` `free` `https` `iis`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-This open-source project, simple-acme, is a basic cross-platform ACME client that allows users to obtain and manage SSL/TLS certificates from services like Let's Encrypt. It provides a simple and straightforward way to automate the process of certificate issuance and renewal, making it a useful tool for developers and system administrators. By leveraging this client, users can easily secure their websites and applications with trusted certificates.
+A lightweight, cross‑platform ACME client designed to automate certificate issuance and renewal with Let’s Encrypt and compatible services. It provides a straightforward command‑line interface and minimal dependencies, making it easy to integrate into scripts or CI pipelines. The project targets developers who need a simple, reliable tool for managing TLS certificates without the overhead of larger ACME implementations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/simple-acme/simple-acme) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/simple-acme/simple-acme) · [← Back to DevTools](./README.md)</sub>

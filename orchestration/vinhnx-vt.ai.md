@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `assistant` `assistant-chat-bots` `chatbot` `dalle` `function-calling` `llama` `llamacpp` `llm` `llms` `multimodal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-VT.ai is an open-source, multimodal AI chat app that enables dynamic conversation routing, allowing for seamless interactions across various modalities. This project leverages AI/ML capabilities to create a sophisticated and adaptable conversational interface. By offering a highly customizable and extensible architecture, VT.ai empowers developers to build innovative chat applications.
+VT.ai is an open‑source multimodal chat platform that leverages AI to enable dynamic conversation routing across text, voice, and visual inputs. Built with orchestration tools, it seamlessly integrates multiple language and vision models, allowing developers to design flexible, context‑aware dialogue flows. The project serves as a reusable framework for creating AI‑driven chat applications that can switch between modalities and services in real time.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/vinhnx/VT.ai) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/vinhnx/VT.ai) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 443 |
+| ⭐ **Stars** | 448 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amazon-api` `bilibili-api` `douyin-api` `facebook-api` `jingdong-api` `kuaishou-api` `taobao-api` `tiktok-api` `tmall-api` `twitter-api` `weibo-api` `weixin-api`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the justoneapi/data-api project:
-
-The justoneapi/data-api is an open-source data interface service that provides a comprehensive and unified API for web scraping and data collection from various e-commerce, social media, and online platforms. With support for over 40 popular platforms, this API enables developers to easily retrieve data for analysis, research, or application development. By leveraging its capabilities, users can streamline their data collection process and focus on higher-level tasks.
+justoneapi/data‑api is an open‑source backend service that aggregates a wide range of public data sources—social platforms (Weibo, TikTok, Douyin, Instagram, Facebook, Reddit, etc.), e‑commerce sites (Taobao, Tmall, Amazon, JD, Shopee, Temu, etc.), review and travel portals (Meituan, Dianping, Ctrip), video sites (YouTube, Bilibili, Youku), and search engines (Google SERP)—into a single, unified API. It provides developers with a convenient, standardized interface to query and retrieve structured information from these heterogeneous platforms, facilitating data‑driven applications, analytics, and AI/ML pipelines. The project is built for easy integration in backend systems and is licensed under an open‑source model.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/justoneapi/data-api) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/justoneapi/data-api) · [← Back to AI/ML](./README.md)</sub>

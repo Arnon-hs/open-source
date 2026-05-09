@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.1k |
-| 🍴 **Forks** | 278 |
+| 🍴 **Forks** | 277 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The indicatif library is an open-source, Rust-based command line progress reporting tool designed to provide a simple and efficient way to display progress bars and other visual indicators in console applications. This library offers a range of customizable features, including bar styles, colors, and update methods, allowing developers to create tailored progress reporting solutions. With indicatif, developers can easily integrate progress tracking into their Rust programs.
+**console‑rs/indicatif** is a Rust library that provides simple, flexible tools for displaying progress bars, spinners, and other command‑line progress indicators. It supports multi‑threaded environments, customizable styles, and automatic handling of terminal capabilities, making it easy to add polished progress reporting to Rust CLI applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/console-rs/indicatif) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/console-rs/indicatif) · [← Back to Misc](./README.md)</sub>

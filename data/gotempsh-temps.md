@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 429 |
-| 🍴 **Forks** | 20 |
+| ⭐ **Stars** | 435 |
+| 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analytics` `ci-cd` `cloud` `deployment-platform` `devops` `docker` `error-tracking` `monitoring` `open-source` `paas` `pingora` `rust`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Data · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the gotempsh/temps project:
-
-Temps is an open-source project that enables users to self-host their own Vercel-like service, providing a customizable and scalable platform for deploying and managing web applications. By running Temps on-premises, users can maintain control over their data and infrastructure, while also reducing reliance on third-party services. This project is ideal for developers and organizations seeking to enhance their DevOps and data management workflows.
+gotempsh/temps is an open‑source platform that lets you self‑host a Vercel‑compatible deployment service, providing the same seamless workflow for building, previewing, and serving front‑end applications without relying on third‑party infrastructure. It streamlines DevOps and data handling by offering a lightweight, configurable alternative that can be run on your own servers or cloud instances, giving full control over performance, security, and cost.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/gotempsh/temps) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/gotempsh/temps) · [← Back to Data](./README.md)</sub>

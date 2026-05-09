@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 427 |
-| 🍴 **Forks** | 56 |
+| ⭐ **Stars** | 429 |
+| 🍴 **Forks** | 58 |
 | 💻 **Language** | C |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `llm` `radare2` `radare2-plugin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The r2ai project is an open-source initiative that integrates Large Language Model (LLM) technology with the radare2 reverse engineering framework. This integration enables advanced automated reversing capabilities, utilizing AI-driven methods to analyze and interpret binary code. By leveraging LLMs, r2ai aims to streamline and enhance the reverse engineering process for security researchers and developers.
+radareorg/r2ai is an open‑source extension that brings large‑language‑model (LLM) capabilities to the radare2 reverse‑engineering framework. By integrating AI‑driven analysis, code‑generation, and natural‑language query features, it helps users automate disassembly interpretation, generate pseudocode, and obtain contextual insights directly within radare2. The project aims to make binary analysis faster and more accessible through conversational AI assistance.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/radareorg/r2ai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/radareorg/r2ai) · [← Back to AI/ML](./README.md)</sub>

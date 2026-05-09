@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.1k |
+| ⭐ **Stars** | 7.2k |
 | 🍴 **Forks** | 553 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`codimd` `collaboration` `diagrams` `editor` `hackmd` `hacktoberfest` `hedgedoc` `markdown` `notes` `real-time`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-HedgeDoc is an open-source, collaborative note-taking and documentation platform that enables users to work together on ideas and projects. It allows real-time editing and commenting, making it a versatile tool for teams and communities to share knowledge and collaborate effectively. With HedgeDoc, users can create, edit, and manage documents in a seamless and accessible way.
+HedgeDoc is an open‑source, web‑based collaborative markdown editor that lets users create, share, and edit notes in real time. It supports live preview, syntax highlighting, and integration with services like GitHub, Dropbox, and various authentication providers, making it ideal for team brainstorming, meeting minutes, and documentation. The project is maintained under the “hedgedoc/hedgedoc” repository and is released under a permissive license for free use and modification.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/hedgedoc/hedgedoc) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/hedgedoc/hedgedoc) · [← Back to Misc](./README.md)</sub>

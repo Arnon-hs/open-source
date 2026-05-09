@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `commit` `commit-message` `commitizen` `commitizen-adapter` `commitlint` `cz-git` `czg` `emoji` `emojis` `node` `nodejs`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-cz-git is a lightweight, customizable, and highly engineered Commitizen adapter and CLI that prioritizes developer experience (DX) and adheres to standard output formats. This open-source project aims to streamline the commit process with a user-friendly interface and highly customizable settings. By leveraging cz-git, developers can efficiently manage their codebase with ease and consistency.
+Zhengqbbb/cz-git is a lightweight, highly customizable Commitizen adapter and CLI that prioritizes developer experience (DX) while delivering a standard, engineered output format for Git commit messages. It streamlines conventional commit workflows, making it easy to enforce consistent commit conventions across projects. Suitable for both AI/ML and general development toolchains, cz‑git integrates seamlessly into existing pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Zhengqbbb/cz-git) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Zhengqbbb/cz-git) · [← Back to AI/ML](./README.md)</sub>

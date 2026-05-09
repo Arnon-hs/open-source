@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 89 |
+| ⭐ **Stars** | 96 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-tools` `animation` `audio` `blueprint` `claude` `claude-code` `cursor` `gameplay-ability-system` `material-editor` `mcp` `mesh`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the tumourlove/monolith project:
-
-Monolith is an open-source plugin for Unreal Engine 5.7, providing a comprehensive set of tools for AI assistants to interact with various aspects of the engine, including Blueprints, Materials, and more. With over 1,200 actions across 16 modules, Monolith offers unparalleled control and access for AI-driven development. This zero-Python dependency plugin is categorized under AI/ML and Frontend tools.
+tumourlove/monolith is an MCP plugin for Unreal Engine 5.7 that empowers AI assistants with full read/write control over virtually every game‑development asset—Blueprints, Materials, Niagara VFX, Animations, Meshes, AI systems (BT/ST/EQS/SO), GAS, Logic Driver, ComboGraph, UI, Audio (Sound Cues & MetaSounds), and more—offering 1,226 distinct actions across 16 modules. The plugin operates without any Python dependency, making it a lightweight, open‑source solution for integrating advanced AI/ML workflows directly into Unreal projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/tumourlove/monolith) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tumourlove/monolith) · [← Back to AI/ML](./README.md)</sub>

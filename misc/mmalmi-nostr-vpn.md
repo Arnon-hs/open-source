@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The mmalmi/nostr-vpn project is an open-source initiative that combines the benefits of the decentralized Nostr protocol with virtual private network (VPN) functionality. This project aims to provide users with secure, decentralized, and user-friendly VPN capabilities, leveraging the strengths of the Nostr network.
+mmalmi/nostr‑vpn is an open‑source utility that leverages the Nostr protocol to establish lightweight, peer‑to‑peer VPN tunnels. By routing traffic through Nostr relays, it enables secure, decentralized connectivity without relying on traditional VPN infrastructures, making it useful for privacy‑focused users and developers experimenting with Nostr‑based networking.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/mmalmi/nostr-vpn) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/mmalmi/nostr-vpn) · [← Back to Misc](./README.md)</sub>

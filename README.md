@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4139** |
+| 🗂️ **Total projects** | **4179** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,14 +18,14 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1680 | [Browse →](./aiml/) |
-| 📦 **Misc** | 657 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 416 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 407 | [Browse →](./frontend/) |
-| 🔧 **DevTools** | 217 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 214 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 160 | [Browse →](./crypto/) |
-| 📊 **Data** | 89 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 1697 | [Browse →](./aiml/) |
+| 📦 **Misc** | 665 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 420 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 410 | [Browse →](./frontend/) |
+| 🔧 **DevTools** | 221 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 215 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 162 | [Browse →](./crypto/) |
+| 📊 **Data** | 90 | [Browse →](./data/) |
 | 💳 **Payments** | 86 | [Browse →](./payments/) |
 | 📈 **Trading** | 56 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 51 | [Browse →](./devopsinfra/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [mrexodia/ida-pro-mcp](./aiml/mrexodia-ida-pro-mcp.md) | ⭐ 8.3k | AI/ML |
-| 2 | [junit-team/junit-framework](./devtools/junit-team-junit-framework.md) | ⭐ 7k | DevTools |
-| 3 | [rustdesk/rustdesk](./mobile/rustdesk-rustdesk.md) | ⭐ 113.8k | Mobile |
-| 4 | [rohitg00/ai-engineering-from-scratch](./aiml/rohitg00-ai-engineering-from-scratch.md) | ⭐ 6.5k | AI/ML |
-| 5 | [wailsapp/wails](./aiml/wailsapp-wails.md) | ⭐ 34k | AI/ML |
-| 6 | [alibaba/nacos](./aiml/alibaba-nacos.md) | ⭐ 32.9k | AI/ML |
-| 7 | [alibaba/arthas](./orchestration/alibaba-arthas.md) | ⭐ 37.3k | Orchestration |
-| 8 | [open-multi-agent/open-multi-agent](./orchestration/open-multi-agent-open-multi-agent.md) | ⭐ 6.1k | Orchestration |
-| 9 | [authelia/authelia](./devopsinfra/authelia-authelia.md) | ⭐ 27.7k | DevOps & Infra |
-| 10 | [Narcooo/inkos](./aiml/narcooo-inkos.md) | ⭐ 5.9k | AI/ML |
+| 1 | [jnMetaCode/agency-agents-zh](./crypto/jnmetacode-agency-agents-zh.md) | ⭐ 10.3k | Crypto |
+| 2 | [fastlane/fastlane](./frontend/fastlane-fastlane.md) | ⭐ 41.5k | Frontend |
+| 3 | [mrexodia/ida-pro-mcp](./aiml/mrexodia-ida-pro-mcp.md) | ⭐ 8.3k | AI/ML |
+| 4 | [junit-team/junit-framework](./devtools/junit-team-junit-framework.md) | ⭐ 7k | DevTools |
+| 5 | [rustdesk/rustdesk](./mobile/rustdesk-rustdesk.md) | ⭐ 113.8k | Mobile |
+| 6 | [rohitg00/ai-engineering-from-scratch](./aiml/rohitg00-ai-engineering-from-scratch.md) | ⭐ 6.5k | AI/ML |
+| 7 | [wailsapp/wails](./aiml/wailsapp-wails.md) | ⭐ 34k | AI/ML |
+| 8 | [alibaba/nacos](./aiml/alibaba-nacos.md) | ⭐ 32.9k | AI/ML |
+| 9 | [alibaba/arthas](./orchestration/alibaba-arthas.md) | ⭐ 37.3k | Orchestration |
+| 10 | [open-multi-agent/open-multi-agent](./orchestration/open-multi-agent-open-multi-agent.md) | ⭐ 6.1k | Orchestration |
 
 ## 🚀 How it works
 

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 231 |
-| 🍴 **Forks** | 14 |
+| ⭐ **Stars** | 234 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`contact-management` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Meerkat CRM is an open-source project that offers a comprehensive customer relationship management (CRM) system tailored for personal life use. It aims to help individuals organize and track their relationships, appointments, and interactions in a centralized and accessible manner. By leveraging the power of a CRM, users can streamline their personal connections and build stronger relationships.
+Meerkat CRM is a lightweight, open‑source customer‑relationship management tool designed for personal use, helping individuals organize contacts, tasks, and notes in a single, easy‑to‑navigate interface. Built with simplicity in mind, it offers core CRM features without the complexity of enterprise solutions, making it ideal for managing personal projects, hobbies, or small‑scale networking. The project is freely available under an open‑source license, encouraging customization and community contributions.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/fbuchner/meerkat-crm) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/fbuchner/meerkat-crm) · [← Back to Misc](./README.md)</sub>

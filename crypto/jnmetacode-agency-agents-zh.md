@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9.8k |
+| ⭐ **Stars** | 10.3k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese` `claude` `claude-code` `copilot-agent` `cursor-rules` `deepseek` `hermes-agent` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project in 2-3 sentences:
-
-jnMetaCode/agency-agents-zh is an open-source project providing 211 ready-to-use AI expert roles, supporting 16 popular tools including Hermes Agent, Claude Code, Cursor, and Copilot. These AI experts cater to various industries such as engineering, design, marketing, and finance, with 18 departments covered. The project also includes 46 original AI agents tailored for the Chinese market, integrating with platforms like Douyin, WeChat, and DingTalk.
+The **agency‑agents‑zh** repository provides a curated library of 211 plug‑and‑play AI specialist agents, each pre‑configured for a specific professional role (e.g., engineering, design, marketing, finance). It supports 16 integration tools—including Hermes Agent, Claude Code, Cursor, and Copilot—and adds 46 China‑market‑specific agents for platforms such as Xiaohongshu, Douyin, WeChat, Feishu, and DingTalk, enabling seamless orchestration of AI workflows across both global and Chinese ecosystems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/jnMetaCode/agency-agents-zh) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jnMetaCode/agency-agents-zh) · [← Back to Crypto](./README.md)</sub>

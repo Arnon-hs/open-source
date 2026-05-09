@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.3k |
-| 🍴 **Forks** | 304 |
+| 🍴 **Forks** | 305 |
 | 💻 **Language** | Vala |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`caldav` `gtd` `libadwaita` `nextcloud` `productivity` `task-manager` `to-do-list` `todo` `todo-app` `todo-list` `todoapp` `todoist`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Design
 
 ## 📝 Summary
 
-Planify is an open-source task manager designed for the GNOME desktop environment, offering seamless integration with popular productivity tools such as Todoist, Nextcloud, and CalDAV. This project aims to provide a centralized platform for managing tasks and events, streamlining workflow and increasing productivity. By leveraging GNOME's framework, Planify seeks to offer a user-friendly and efficient task management experience.
+Alain M23’s **Planify** is an open‑source task manager built for the GNOME desktop that integrates seamlessly with Todoist, Nextcloud and any CalDAV server, giving users a unified view of their to‑do lists and calendars. It combines a clean, GNOME‑native UI with backend support for AI‑enhanced features, making task organization and synchronization across platforms both intuitive and powerful.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/alainm23/planify) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/alainm23/planify) · [← Back to AI/ML](./README.md)</sub>

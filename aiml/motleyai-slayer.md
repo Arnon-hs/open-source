@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 39 |
+| ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`semantic-layer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-SLayer is an open-source, lightweight semantic layer designed to facilitate seamless interaction between AI agents and humans. This project enables more efficient and effective communication by providing a standardized framework for understanding and processing complex data. By bridging the gap between AI and human understanding, SLayer empowers developers to create more intelligent and intuitive AI systems.
+MotleyAI’s **SLayer** is a lightweight semantic layer designed to bridge AI agents and human users, enabling smooth, context‑aware communication and shared understanding across diverse applications. It provides a simple API for defining, storing, and querying semantic concepts, making it easy to integrate natural‑language reasoning into existing AI pipelines. By abstracting knowledge representation, SLayer helps developers build more intuitive and interoperable AI systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/MotleyAI/slayer) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/MotleyAI/slayer) · [← Back to AI/ML](./README.md)</sub>

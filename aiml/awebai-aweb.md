@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 46 |
+| ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The aweb project is an open-source coordination tool designed for AI agents, offering real-time messaging, task management, and file reservation capabilities. This platform enables AI agents to communicate effectively and collaborate efficiently, facilitating the development and deployment of complex AI systems. By providing a unified coordination framework, aweb streamlines AI agent interactions and enhances overall system performance.
+**aweb** is an open‑source coordination framework that enables AI agents to communicate, assign tasks, and manage shared file resources efficiently. It provides a set of messaging primitives, task‑queue mechanisms, and file‑reservation utilities that simplify building multi‑agent systems and collaborative AI workflows. Suitable for developers looking to orchestrate distributed AI components within a unified, extensible platform.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/awebai/aweb) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/awebai/aweb) · [← Back to AI/ML](./README.md)</sub>

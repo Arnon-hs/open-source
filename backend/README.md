@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**214 projects** in this category.
+**215 projects** in this category.
 
 ## Projects
 
@@ -132,8 +132,8 @@
 | 122 | [drhelius/Gearboy](./drhelius-gearboy.md) | ⭐ 1.1k | C++ | 60/100 |
 | 123 | [apollographql/router](./apollographql-router.md) | ⭐ 959 | Rust | 60/100 |
 | 124 | [hook0/hook0](./hook0-hook0.md) | ⭐ 1.4k | Rust | 59/100 |
-| 125 | [tmux-python/libtmux](./tmux-python-libtmux.md) | ⭐ 1.2k | Python | 59/100 |
-| 126 | [sebadob/rauthy](./sebadob-rauthy.md) | ⭐ 1.1k | Rust | 59/100 |
+| 125 | [sebadob/rauthy](./sebadob-rauthy.md) | ⭐ 1.1k | Rust | 59/100 |
+| 126 | [tmux-python/libtmux](./tmux-python-libtmux.md) | ⭐ 1.2k | Python | 59/100 |
 | 127 | [chrisryugj/kordoc](./chrisryugj-kordoc.md) | ⭐ 900 | TypeScript | 59/100 |
 | 128 | [amqp-rs/lapin](./amqp-rs-lapin.md) | ⭐ 1.2k | Rust | 59/100 |
 | 129 | [asdfghj1237890/WebVideo2NAS](./asdfghj1237890-webvideo2nas.md) | ⭐ 1.1k | Python | 59/100 |
@@ -205,23 +205,24 @@
 | 195 | [georgekhananaev/claude-skills-vault](./georgekhananaev-claude-skills-vault.md) | ⭐ 23 | Python | 50/100 |
 | 196 | [Mearman/mcp-wayback-machine](./mearman-mcp-wayback-machine.md) | ⭐ 22 | TypeScript | 50/100 |
 | 197 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 50/100 |
-| 198 | [NodeSeekDev/NodeGet](./nodeseekdev-nodeget.md) | ⭐ 184 | Rust | 48/100 |
-| 199 | [anthropics/anthropic-cli](./anthropics-anthropic-cli.md) | ⭐ 341 | Go | 48/100 |
-| 200 | [GrahamCampbell/Laravel-GitHub](./grahamcampbell-laravel-github.md) | ⭐ 644 | PHP | 48/100 |
-| 201 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 48/100 |
-| 202 | [jkawamoto/mcp-youtube-transcript](./jkawamoto-mcp-youtube-transcript.md) | ⭐ 386 | Python | 47/100 |
-| 203 | [verygoodplugins/whatsapp-mcp](./verygoodplugins-whatsapp-mcp.md) | ⭐ 39 | Go | 47/100 |
-| 204 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
-| 205 | [GrahamCampbell/Laravel-DigitalOcean](./grahamcampbell-laravel-digitalocean.md) | ⭐ 503 | PHP | 46/100 |
-| 206 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
-| 207 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
-| 208 | [C24Be/AS_Network_List](./c24be-as-network-list.md) | ⭐ 526 | Python | 44/100 |
-| 209 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 44/100 |
-| 210 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
-| 211 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 42/100 |
-| 212 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
-| 213 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
-| 214 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
+| 198 | [Epistates/turbomcp](./epistates-turbomcp.md) | ⭐ 82 | Rust | 48/100 |
+| 199 | [NodeSeekDev/NodeGet](./nodeseekdev-nodeget.md) | ⭐ 184 | Rust | 48/100 |
+| 200 | [anthropics/anthropic-cli](./anthropics-anthropic-cli.md) | ⭐ 341 | Go | 48/100 |
+| 201 | [GrahamCampbell/Laravel-GitHub](./grahamcampbell-laravel-github.md) | ⭐ 644 | PHP | 48/100 |
+| 202 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 48/100 |
+| 203 | [jkawamoto/mcp-youtube-transcript](./jkawamoto-mcp-youtube-transcript.md) | ⭐ 386 | Python | 47/100 |
+| 204 | [verygoodplugins/whatsapp-mcp](./verygoodplugins-whatsapp-mcp.md) | ⭐ 39 | Go | 47/100 |
+| 205 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
+| 206 | [GrahamCampbell/Laravel-DigitalOcean](./grahamcampbell-laravel-digitalocean.md) | ⭐ 503 | PHP | 46/100 |
+| 207 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
+| 208 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
+| 209 | [C24Be/AS_Network_List](./c24be-as-network-list.md) | ⭐ 526 | Python | 44/100 |
+| 210 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 44/100 |
+| 211 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
+| 212 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 42/100 |
+| 213 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
+| 214 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
+| 215 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
 
 ---
 

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 217 |
+| ⭐ **Stars** | 218 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The rust-lang/triagebot project is an open-source initiative that provides automation and tooling for the Rust programming language community. It aims to streamline processes and enhance productivity within Rust spaces, benefiting developers and maintainers alike. By leveraging this project, users can efficiently manage tasks and collaborate more effectively.
+The **triagebot** project provides automated tooling for managing and triaging issues across the Rust ecosystem. It integrates with GitHub to label, assign, and route bugs, feature requests, and pull‑requests, helping maintainers keep Rust repositories organized and responsive. Designed as an open‑source DevTools solution, it can be customized and extended for any Rust‑related project.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/rust-lang/triagebot) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/rust-lang/triagebot) · [← Back to DevTools](./README.md)</sub>

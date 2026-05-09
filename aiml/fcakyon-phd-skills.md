@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 183 |
+| ⭐ **Stars** | 190 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`academic` `agents` `ai` `claude` `claude-code` `conference` `hooks` `journal` `mcp` `paper-reproduction` `paper-review` `phd`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Design · Product
 
 ## 📝 Summary
 
-The fcakyon/phd-skills project is an open-source research integrity plugin designed for the Claude Code, aiming to enhance academic workflows with tools for paper auditing, citation verification, experiment analysis, and methodology-first skills. This plugin empowers researchers and academics to ensure the integrity of their work and adhere to best practices. By leveraging AI/ML capabilities, it streamlines the research process and promotes transparency, accountability, and reproducibility.
+The **phd‑skills** repository provides a collection of Claude‑compatible code snippets and workflows that help researchers automate core PhD tasks such as reproducing papers, designing experiments, conducting systematic reviews, and comparing results. By bundling reusable prompts, data‑handling utilities, and evaluation templates, it streamlines the research pipeline for AI/ML projects while supporting product‑design and documentation workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/fcakyon/phd-skills) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/fcakyon/phd-skills) · [← Back to AI/ML](./README.md)</sub>

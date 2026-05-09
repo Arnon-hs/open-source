@@ -1,6 +1,6 @@
 # oritera/Cairn
 
-[![Stars](https://img.shields.io/github/stars/oritera/Cairn?style=flat-square&color=yellow)](https://github.com/oritera/Cairn/stargazers) [![Forks](https://img.shields.io/github/forks/oritera/Cairn?style=flat-square&color=blue)](https://github.com/oritera/Cairn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oritera/Cairn?style=flat-square&color=yellow)](https://github.com/oritera/Cairn/stargazers) [![Forks](https://img.shields.io/github/forks/oritera/Cairn?style=flat-square&color=blue)](https://github.com/oritera/Cairn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 660 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 797 |
+| 🍴 **Forks** | 68 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-cybersecurity` `ai-hacker` `ai-hacking` `blackbox-testing` `ctf` `ctf-tools` `llm` `penetration-testing` `pentesting` `red-teaming`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Cairn is an open-source AI-powered general problem-solving and penetration testing system. Developed by oritera, this project utilizes AI automation to streamline and enhance the process of resolving complex problems and simulating cyber attacks. By leveraging AI and ML technologies, Cairn aims to provide a powerful and efficient tool for various industries and applications.
+Cairn is an open‑source, general‑purpose state‑space search engine that leverages AI techniques to explore complex problem spaces efficiently. Originally validated through autonomous penetration testing, the engine can be integrated into a wide range of applications—from security assessments to optimization and planning tasks—making it a versatile tool for developers and researchers in AI/ML, DevOps, and cybersecurity.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/oritera/Cairn) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/oritera/Cairn) · [← Back to AI/ML](./README.md)</sub>

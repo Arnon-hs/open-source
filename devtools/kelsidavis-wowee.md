@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 412 |
-| 🍴 **Forks** | 38 |
+| ⭐ **Stars** | 417 |
+| 🍴 **Forks** | 40 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`world-of-warcraft`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the WoWee project:
-
-WoWee is an open-source experiment that aims to recreate the World of Warcraft engine, providing a customizable, community-driven alternative to the original client. This project allows developers and enthusiasts to explore and modify the WoW engine, enabling them to create their own unique experiences and innovations. With WoWee, users can contribute to and learn from a community-driven project that pushes the boundaries of what's possible in a custom WoW client.
+Kelsidavis/WoWee is an experimental open‑source client that re‑implements the World of Warcraft engine, allowing developers to explore, modify, and extend the game’s core mechanics and graphics. Designed as a dev‑tool, it provides a sandbox for testing custom features, networking code, and UI components while maintaining compatibility with WoW’s original protocols.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/Kelsidavis/WoWee) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Kelsidavis/WoWee) · [← Back to DevTools](./README.md)</sub>
