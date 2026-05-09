@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 30 |
+| ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai-agents` `ai-governance` `ai-safety` `autonomous-agents` `autonomous-coding` `code-generation` `constitutional-ai` `llm` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-CORE is an open-source project that leverages AI to generate near-perfect applications. At its core, CORE utilizes a governance runtime that enforces immutable constitutional rules on AI coding agents to maintain consistency and quality. This innovative approach enables developers to tap into the power of AI-driven coding.
+DariuszNewecki/CORE is an open‑source framework that leverages AI to automatically generate high‑quality applications while ensuring they adhere to strict, immutable constitutional rules. It provides a governance runtime that enforces these predefined constraints on AI coding agents, guaranteeing consistent, rule‑compliant output. The project targets developers who want to harness AI‑driven code generation without sacrificing control or reliability.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/DariuszNewecki/CORE) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/DariuszNewecki/CORE) · [← Back to AI/ML](./README.md)</sub>

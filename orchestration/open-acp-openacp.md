@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 333 |
-| 🍴 **Forks** | 39 |
+| ⭐ **Stars** | 347 |
+| 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acp` `agent-client-protocol` `ai-agent` `ai-agents` `ai-coding-agent` `claude-code` `cli` `coding-assistant` `developer-tools` `discord-bot` `llm` `multi-agent`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Open-ACP/OpenACP project:
-
-Open-ACP/OpenACP is an open-source, self-hosted bridge that enables seamless interaction with AI coding agents from popular messaging platforms like Telegram and Discord. By utilizing the Agent Client Protocol (ACP), this project facilitates communication between AI coding agents (such as Claude Code and Codex) and messaging platforms, unlocking new possibilities for developers and coders. This bridge empowers users to harness the power of AI coding agents within their preferred communication channels.
+Open‑ACP is a self‑hosted bridge that lets developers connect messaging platforms such as Telegram, Discord, Slack, etc., to AI coding agents (Claude Code, Codex, and similar models) using the open Agent Client Protocol (ACP). It handles authentication, request routing, and response formatting, enabling seamless, real‑time interaction with code‑generating AIs directly from chat interfaces. The project serves as an orchestration layer for AI‑enhanced development workflows, fitting into the AI/ML and DevTools ecosystems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Open-ACP/OpenACP) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Open-ACP/OpenACP) · [← Back to Orchestration](./README.md)</sub>

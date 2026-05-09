@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 429 |
+| ⭐ **Stars** | 430 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`rust` `winget` `winget-cli` `winget-pkgs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Komac is an open-source tool designed to create community manifests for the Windows Package Manager, WinGet. It provides a streamlined process for developers to create and manage manifests for their packages, making it easier to share and install software on Windows. This project aims to simplify the experience of creating and maintaining community manifests for WinGet users.
+Komac is an open‑source community tool that simplifies the creation of Windows Package Manager (WinGet) manifests. It provides a user‑friendly interface and automation scripts to generate, validate, and publish package manifests, helping developers and contributors quickly package software for WinGet. The project is positioned as a DevTools utility for streamlining manifest authoring and community collaboration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/russellbanks/Komac) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/russellbanks/Komac) · [← Back to DevTools](./README.md)</sub>

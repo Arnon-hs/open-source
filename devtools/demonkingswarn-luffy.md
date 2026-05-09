@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 162 |
+| ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | C |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `commandline` `download` `flix-cli` `go` `luffy` `mov-cli` `movies` `stream` `tv`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Luffy is an open-source project that serves as a spiritual successor to the flix-cli and mov-cli tools. This DevTools project aims to provide a flexible and powerful command-line interface for managing various tasks, making it an ideal solution for developers. By building upon the strengths of its predecessors, Luffy seeks to offer a more streamlined and efficient experience for users.
+DemonKingSwarn / luffy is an open‑source command‑line utility that serves as a spiritual successor to the popular flix‑cli and mov‑cli tools. Designed for developers and power users, it streamlines media discovery, streaming, and download workflows across multiple platforms with a simple, extensible interface. The project is categorized under DevTools and aims to provide a modern, maintainable alternative to its predecessors.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/DemonKingSwarn/luffy) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/DemonKingSwarn/luffy) · [← Back to DevTools](./README.md)</sub>

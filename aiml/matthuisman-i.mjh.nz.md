@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 433 |
+| ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`iptv` `xmltv`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The matthuisman/i.mjh.nz project is an open-source repository that mirrors the content of https://i.mjh.nz, providing a centralized location for accessing and contributing to the site's issues and feature requests. This project is categorized under AI/ML and Frontend development, suggesting its relevance to machine learning and web application development. The repository offers a community-driven space for collaboration and improvement.
+The **matthuisman/i.mjh.nz** repository is an open‑source mirror of the personal website hosted at https://i.mjh.nz, providing the full source code, issue tracker, and a place for feature requests. It showcases a modern frontend implementation—leveraging AI/ML‑related tooling where appropriate—to deliver a fast, responsive, and visually engaging user experience. The project invites contributions to improve functionality, fix bugs, and extend the site’s capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/matthuisman/i.mjh.nz) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/matthuisman/i.mjh.nz) · [← Back to AI/ML](./README.md)</sub>

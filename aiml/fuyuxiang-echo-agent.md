@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 108 |
+| ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Echo Agent is an open-source, self-hosted AI Agent that supports integration with popular platforms such as WeChat, Telegram, and Discord. It allows for unified memory, skill, and permission management, enabling users to easily build custom personal assistants or team automation robots. This cross-platform AI solution provides a robust and long-term running platform for various AI applications.
+Echo Agent is an open‑source, self‑hosted AI agent designed for long‑running, cross‑platform operation. It integrates with popular messengers such as WeChat, Telegram, and Discord and can connect to major large‑language models, offering unified memory, skill, and permission management. This makes it easy to build a personal assistant or a team automation bot that works consistently across multiple channels.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/fuyuxiang/echo-agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/fuyuxiang/echo-agent) · [← Back to AI/ML](./README.md)</sub>

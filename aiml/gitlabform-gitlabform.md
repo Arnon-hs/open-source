@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 462 |
-| 🍴 **Forks** | 115 |
+| 🍴 **Forks** | 116 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `configuration-as-code` `gitlab` `yaml`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the gitlabform project:
-
-gitlabform is an open-source tool that enables configuration as code for GitLab. It allows users to manage GitLab resources and settings using a simple, human-readable syntax, making it easier to automate and version control GitLab configurations. This tool helps organizations streamline their GitLab setup and reduce configuration errors.
+GitLabForm is an open‑source “configuration‑as‑code” utility that lets you declaratively manage GitLab settings—such as projects, groups, CI/CD variables, access levels, and runners—through simple YAML files. By applying these definitions automatically, it streamlines the provisioning and maintenance of GitLab environments, reduces manual errors, and supports reproducible DevOps workflows. Suitable for both small teams and large enterprises, it integrates with CI pipelines and can be extended via custom scripts.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/gitlabform/gitlabform) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/gitlabform/gitlabform) · [← Back to AI/ML](./README.md)</sub>

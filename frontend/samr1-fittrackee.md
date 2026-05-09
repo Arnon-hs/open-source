@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 75 |
+| 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`activity-tracker` `chartjs` `flask` `gpx` `gpxpy` `leaflet` `outdoor-activities` `python` `self-hosted` `vue3` `workout-tracker` `workouts`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-SamR1/FitTrackee is a promising open-source project. Categories: Frontend, DevTools. Interest score: 59/100.
+FitTrackee is a self‑hosted web application for tracking outdoor activities such as cycling, running, and hiking. It provides a clean, responsive frontend for logging workouts, visualising routes, and analyzing performance metrics, while offering developers a straightforward, open‑source codebase (mirrored from Codeberg) that can be customized or extended as a personal fitness‑tracking solution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/SamR1/FitTrackee) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/SamR1/FitTrackee) · [← Back to Frontend](./README.md)</sub>

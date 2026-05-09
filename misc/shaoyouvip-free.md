@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 679 |
+| ⭐ **Stars** | 696 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fanqiang` `gfw` `lantern` `ss` `ssr` `trojan` `v2ray` `v2rayfree` `vmess` `vpn`
 
 ## 🎯 Categories
 
@@ -25,10 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the project in 2-3 sentences:
-
-The shaoyouvip/free project is an open-source initiative that provides free V2Ray nodes for users to bypass geographical restrictions and access the internet securely. This public benefit project offers daily updates of free V2Ray nodes, as well as nodes compatible with other popular tunneling protocols like Trojan and ShadowSocks. Users can use these nodes to access blocked websites and content from around the world.
+**Summary**  
+This open‑source repository provides a publicly maintained collection of free V2Ray (and related) proxy nodes for unrestricted internet access. It offers daily‑updated subscription links for V2Ray, Shadowsocks, Trojan, Clash, Sing‑Box, and other protocols, enabling users to bypass censorship and enjoy unrestricted browsing without cost.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/shaoyouvip/free) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/shaoyouvip/free) · [← Back to Misc](./README.md)</sub>

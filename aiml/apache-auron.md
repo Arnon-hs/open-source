@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 216 |
+| 🍴 **Forks** | 217 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arrow` `big-data` `datafusion` `rust-lang` `spark`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Auron is an open-source accelerator for distributed computing frameworks like Apache Spark, designed to boost query processing performance through native vectorized execution. This enables efficient parallelization and acceleration of complex computations, particularly in AI and ML workloads. By leveraging vectorized execution, Auron optimizes data processing and reduces computational overhead.
+Auron is an open‑source accelerator designed to boost the performance of distributed data‑processing frameworks such as Apache Spark. By employing native, vectorized execution, it speeds up query processing and analytical workloads while seamlessly integrating with existing Spark pipelines. The project targets AI/ML and data‑intensive applications that demand high‑throughput, low‑latency computation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/apache/auron) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/apache/auron) · [← Back to AI/ML](./README.md)</sub>

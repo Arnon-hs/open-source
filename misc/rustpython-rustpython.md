@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `hacktoberfest` `interpreter` `jit` `language` `python-language` `python3` `rust` `wasm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-RustPython is an open-source Python interpreter written in Rust, a systems programming language known for its performance and safety features. This project aims to provide a high-performance and secure Python implementation, leveraging the benefits of Rust to improve the execution speed and reliability of Python code. By using RustPython, developers can take advantage of the stability and efficiency of Rust while still utilizing the Python language and ecosystem.
+RustPython is an open‑source implementation of the Python programming language written entirely in Rust, aiming to provide a fast, safe, and embeddable interpreter. It supports the majority of Python 3 syntax and standard library features while leveraging Rust’s memory safety guarantees and performance optimizations. The project is community‑driven and serves both as a practical tool for running Python code and as a reference for integrating Python into Rust applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/RustPython/RustPython) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/RustPython/RustPython) · [← Back to Misc](./README.md)</sub>

@@ -1,6 +1,6 @@
 # zhaoyang97/Paper-Notes
 
-[![Stars](https://img.shields.io/github/stars/zhaoyang97/Paper-Notes?style=flat-square&color=yellow)](https://github.com/zhaoyang97/Paper-Notes/stargazers) [![Forks](https://img.shields.io/github/forks/zhaoyang97/Paper-Notes?style=flat-square&color=blue)](https://github.com/zhaoyang97/Paper-Notes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhaoyang97/Paper-Notes?style=flat-square&color=yellow)](https://github.com/zhaoyang97/Paper-Notes/stargazers) [![Forks](https://img.shields.io/github/forks/zhaoyang97/Paper-Notes?style=flat-square&color=blue)](https://github.com/zhaoyang97/Paper-Notes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 📚 数千篇 AI · LLM · NLP · CV 顶会论文解读，每篇 5 分钟读懂核心思想。
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 181 |
-| 🍴 **Forks** | 13 |
+| ⭐ **Stars** | 235 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acl` `ai` `cv` `cvpr` `iclr` `llm` `neurips` `nlp` `paper` `paper-notes` `paper-reading`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-This open-source project, "Paper-Notes", provides a comprehensive collection of in-depth summaries of hundreds of top-tier academic papers in AI, LLM, NLP, and CV, allowing readers to grasp the core ideas behind each paper in just 5 minutes. The project aims to bridge the knowledge gap between researchers and practitioners in these fields by making complex research accessible to a wider audience. With its concise and insightful summaries, Paper-Notes is a valuable resource for anyone looking to stay up-to-date with the latest advancements in AI and related fields.
+The **Paper‑Notes** repository curates concise, 5‑minute read summaries of thousands of top‑conference papers across AI, LLM, NLP, and Computer Vision. Each entry distills the core ideas, methods, and key results of a research article, making cutting‑edge work quickly accessible to students and practitioners. The project is open‑source, allowing the community to contribute new paper analyses and keep the collection up‑to‑date.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/zhaoyang97/Paper-Notes) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/zhaoyang97/Paper-Notes) · [← Back to AI/ML](./README.md)</sub>

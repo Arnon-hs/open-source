@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 15.6k |
+| ⭐ **Stars** | 15.7k |
 | 🍴 **Forks** | 960 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`binding` `ffi` `python` `python-c-api` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-PyO3 is an open-source project providing Rust bindings to the Python interpreter. This allows developers to leverage Python's dynamic nature and libraries within Rust projects, enabling seamless integration and interoperation between the two languages. By facilitating the creation of Python-Rust hybrids, PyO3 empowers the development of fast, reliable, and efficient applications.
+PyO3 provides safe, high‑performance Rust bindings for the Python interpreter, allowing developers to write native Python extensions or embed a Python runtime directly in Rust applications. By leveraging Rust’s ownership model and zero‑cost abstractions, it simplifies interoperation between the two languages while preserving Python’s dynamic capabilities. This makes it ideal for building fast backend services, scientific computing tools, or any project that needs to combine Rust’s speed with Python’s ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/PyO3/pyo3) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/PyO3/pyo3) · [← Back to Backend](./README.md)</sub>

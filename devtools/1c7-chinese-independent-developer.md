@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`china` `indie` `indie-developer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-This is a community-driven open-source project that catalogues and showcases the work of independent Chinese developers. The project aims to provide a platform for developers to share their projects and connect with others in the community. It serves as a valuable resource for discovering innovative projects and talents emerging from China's thriving tech scene.
+The **1c7/chinese-independent-developer** repository is a curated, community‑maintained list of Chinese independent developers and their open‑source projects. It serves as a showcase and networking hub, highlighting the tools, libraries, and applications being built across a wide range of domains. The collection helps developers discover, contribute to, and collaborate on innovative work emerging from China’s indie tech scene.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/1c7/chinese-independent-developer) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/1c7/chinese-independent-developer) · [← Back to DevTools](./README.md)</sub>

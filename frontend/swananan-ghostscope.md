@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 172 |
-| 🍴 **Forks** | 12 |
+| ⭐ **Stars** | 173 |
+| 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`debugger` `dwarf` `ebpf` `gdb` `rust` `tracer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Ghostscope is an open-source, DWARF-aware eBPF tracer that enables source-level userspace tracing for developers. It offers both a text-based user interface (TUI) for interactive exploration and a scriptable command-line interface (CLI) for automation. This allows users to perform complex tracing tasks and analyze system behavior with precision and flexibility.
+**Ghostscope** is a DWARF‑aware eBPF tracing tool that lets developers observe userspace programs at the source‑code level. It offers an interactive terminal UI for visual exploration and a scriptable CLI for automated instrumentation, making it ideal for low‑overhead debugging and performance analysis. The project bridges frontend usability with powerful DevTools capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/swananan/ghostscope) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/swananan/ghostscope) · [← Back to Frontend](./README.md)</sub>

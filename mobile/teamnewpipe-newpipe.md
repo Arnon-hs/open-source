@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`4k` `android` `bandcamp` `download-videos` `newpipe` `peertube` `soundcloud` `translation` `video` `watch` `youtube-video`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-NewPipe is an open-source, lightweight streaming front-end for Android that aims to provide users with a libre alternative to traditional media apps. This project offers a user-friendly interface and supports various streaming services, allowing users to access their favorite content without sacrificing their online freedom. By promoting user choice and privacy, NewPipe seeks to revolutionize the way people consume media on their Android devices.
+TeamNewPipe (NewPipe) is an open‑source Android application that provides a lightweight, privacy‑focused front‑end for streaming media from platforms such as YouTube without using Google services or proprietary APIs. It enables users to watch videos, listen to audio, and download content while blocking ads and tracking, all within a minimal, battery‑friendly interface.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/TeamNewPipe/NewPipe) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/TeamNewPipe/NewPipe) · [← Back to Mobile](./README.md)</sub>

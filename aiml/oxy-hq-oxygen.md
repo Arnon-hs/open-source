@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Oxygen is an open-source, next-generation data platform designed for agents, built using Rust and DuckDB. It provides a robust foundation for AI/ML applications, combining efficient data storage and processing capabilities. Oxygen aims to streamline data management for intelligent agents, enabling faster and more accurate decision-making.
+Oxygen is an open‑source, next‑generation data platform designed for AI agents, combining the performance of Rust with the analytical power of DuckDB. It provides a unified backend for fast, in‑process analytics and a modern frontend for building, querying, and visualizing data pipelines, making it ideal for machine‑learning and data‑intensive applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/oxy-hq/oxygen) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/oxy-hq/oxygen) · [← Back to AI/ML](./README.md)</sub>

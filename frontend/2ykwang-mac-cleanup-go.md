@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 388 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 391 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`caches` `clean` `cleanup` `cli` `disk-cleanup` `golang` `homebrew` `mac-cleanup` `macos` `optimize` `terminal-ui` `tui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-"Mac-Cleanup-Go is an open-source, text-based interface (TUI) macOS cleaner that allows users to scan and analyze their system's caches and logs, displaying sizes and paths. This tool enables users to select which items to delete, sending them directly to the Trash for safe removal. It's a handy utility for maintaining a clutter-free Mac and optimizing system performance."
+2ykwang/mac-cleanup-go is a terminal‑based user interface (TUI) utility for macOS that scans the system for caches, logs, and other disposable files, displaying their sizes and locations. It lets users interactively select which items to remove, then moves the chosen files to the Trash for safe cleanup. Ideal for developers and power users who want a quick, visual way to reclaim disk space from the command line.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/2ykwang/mac-cleanup-go) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/2ykwang/mac-cleanup-go) · [← Back to Frontend](./README.md)</sub>
