@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 79 |
+| ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `docker` `flight-prices` `flights` `llm` `nextjs` `open-source` `playwright` `price-tracker` `self-hosted` `typescript` `web-scraping`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Fairtrail is an open-source project that empowers users to track flight prices over time using natural language search. This self-hosted platform allows individuals to bring their own Large Language Model (LLM), providing a customizable and flexible solution for flight price tracking.
+Fairtrail is a self‑hosted, open‑source service that continuously records airline ticket prices and lets users query historical price trends using natural‑language questions. By integrating a user‑provided LLM, it offers AI‑driven search and analysis of flight cost data, making it easy to spot price drops and optimal booking times. The project includes a backend API, data collection pipelines, and DevOps tooling for easy deployment and scaling.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/affromero/fairtrail) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/affromero/fairtrail) · [← Back to AI/ML](./README.md)</sub>

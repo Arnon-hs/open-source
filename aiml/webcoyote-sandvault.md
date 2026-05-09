@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 251 |
+| ⭐ **Stars** | 256 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude-code` `macos` `openai-codex` `sandbox`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The sandvault project is an open-source tool that securely runs AI agents in isolation within a macOS user account, utilizing sandbox-exec for enhanced security. This flexible framework is preconfigured to run various AI models, including Claude Code, OpenAI Codex, Cursor Agent, and Google Gemini. By leveraging sandbox-exec, sandvault provides a safe environment for experimenting with and utilizing AI agents.
+WebCoyote SandVault is an open‑source sandbox that isolates AI coding agents—such as Claude Code, OpenAI Codex, Cursor Agent, and Google Gemini—inside a dedicated macOS user account and a `sandbox‑exec` profile. By leveraging macOS user separation and fine‑grained sandbox rules, it provides a secure environment for running these agents without risking the host system. The project targets developers who need a safe, reproducible way to experiment with powerful AI code assistants.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/webcoyote/sandvault) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/webcoyote/sandvault) · [← Back to AI/ML](./README.md)</sub>

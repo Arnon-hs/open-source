@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend · Data
 
 ## 📝 Summary
 
-Tabiew is a lightweight, text-based user interface (TUI) application that allows users to view and query tabular data files such as CSV, TSV, and Parquet. This open-source tool provides an efficient and straightforward way to interact with tabular data, making it ideal for data analysis and exploration tasks. With Tabiew, users can easily filter, sort, and search data in a compact and user-friendly interface.
+shshemi/tabiew is a lightweight terminal user interface (TUI) tool for quickly viewing and querying tabular data formats such as CSV, TSV, and Parquet files. It provides a fast, keyboard‑driven interface for browsing, filtering, and searching large datasets without leaving the command line. Ideal for developers and data analysts who need a simple, front‑end solution for exploratory data work.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/shshemi/tabiew) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/shshemi/tabiew) · [← Back to Frontend](./README.md)</sub>

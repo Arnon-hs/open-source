@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 462 |
+| 🍴 **Forks** | 463 |
 | 💻 **Language** | Fortran |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hpc` `material-science` `quantum-chemistry` `simulation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading
 
 ## 📝 Summary
 
-The cp2k project is an open-source software package that provides a comprehensive framework for quantum chemistry and solid-state physics simulations. It enables researchers to model and analyze the behavior of molecules and materials at the atomic and electronic level, making it a valuable tool for fields such as chemistry, materials science, and physics. With its modular architecture and user-friendly interface, cp2k facilitates complex calculations and provides insights into the properties of matter.
+cp2k is an open‑source computational chemistry and solid‑state physics package that implements density functional theory, Hartree‑Fock, and many post‑HF methods using a mixed Gaussian and plane‑wave (GPW) approach. It is designed for efficient large‑scale simulations of molecular, periodic, and hybrid systems, offering tools for geometry optimization, molecular dynamics, and electronic‑structure analysis. The code is highly modular, supports various parallel architectures, and is actively maintained by a worldwide community of developers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/cp2k/cp2k) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/cp2k/cp2k) · [← Back to Trading](./README.md)</sub>

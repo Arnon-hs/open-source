@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 262 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`deep-learning` `ecog` `eeg` `electrocorticography` `electroencephalogram` `electroencephalography` `magnetoencephalography` `meg` `neuroimaging` `neuroscience` `python` `pytorch`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Braindecode is an open-source deep learning software designed for decoding EEG, ECG, or MEG signals. This project utilizes cutting-edge machine learning techniques to extract meaningful information from brain activity recordings, enabling researchers to gain insights into various neurological processes. By providing a robust platform for signal processing and analysis, braindecode facilitates the development of innovative brain-computer interfaces and neurological research applications.
+Braindecode is an open‑source Python toolbox that leverages deep learning to extract meaningful patterns from electrophysiological recordings such as EEG, ECG, and MEG. It provides a high‑level API for building, training, and evaluating neural network models, along with utilities for preprocessing, data handling, and benchmark datasets, making it easy for researchers and clinicians to apply state‑of‑the‑art AI/ML techniques to neural signal decoding.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/braindecode/braindecode) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/braindecode/braindecode) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 211 |
+| ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bsd` `emulator` `libretro` `linux` `macos` `mcp` `mcp-server` `pc-engine` `pcengine` `raspberry-pi` `raspberrypi` `retroarch`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Geargrafx is a comprehensive open-source project that serves as a PC Engine / TurboGrafx-16 / SuperGrafx / PCE CD-ROM² emulator, debugger, and embedded MCP server. It supports various platforms, including macOS, Windows, Linux, BSD, and RetroArch, making it an accessible option for retro gaming enthusiasts. With its multi-faceted capabilities, Geargrafx offers a versatile solution for emulating and debugging classic console games.
+Geargrafx is an open‑source emulator that faithfully reproduces the PC Engine/TurboGrafx‑16 family—including SuperGrafx and PCE CD‑ROM²—across macOS, Windows, Linux, BSD, and as a RetroArch core. It bundles a built‑in debugger and an embedded MCP (Multiplayer Communication Protocol) server, providing developers and retro‑gaming enthusiasts with powerful debugging tools and networked multiplayer support. The project’s backend‑focused architecture makes it easy to integrate, extend, and run on a wide range of platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/drhelius/Geargrafx) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/drhelius/Geargrafx) · [← Back to Backend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 24.8k |
+| ⭐ **Stars** | 25.3k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-prompts` `ai-skill` `bluesky` `claude` `claude-code` `clawhub` `deep-research` `hackernews` `instagram` `openclaw` `polymarket` `recency`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-The "last30days-skill" is an open-source AI agent skill that utilizes a multi-source research approach to gather information from various platforms, including Reddit, X, YouTube, Hacker News, Polymarket, and the web. It then synthesizes this data into a concise, grounded summary, providing users with a comprehensive overview of any topic. This skill has potential applications in areas such as trading and AI/ML research.
+The **last30days‑skill** is an open‑source AI agent plug‑in that automatically gathers the most recent information on any subject from Reddit, X (Twitter), YouTube, Hacker News, Polymarket, and general web sources, then produces a concise, evidence‑backed summary. Designed for trading and AI/ML workflows, it streamlines real‑time research by aggregating diverse data points and delivering a grounded overview ready for decision‑making.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mvanhorn/last30days-skill) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/mvanhorn/last30days-skill) · [← Back to Trading](./README.md)</sub>

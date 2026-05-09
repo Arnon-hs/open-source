@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 62 |
+| ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-assistant` `cli` `developer-tools` `internal-tool` `pi` `status-active` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The edlsh/pi-ask-user project is an open-source, interactive decision-gating extension for pi, allowing AI agents to engage users through multiple-choice and free-form questions. This extension empowers AI developers to create more intuitive and user-centric decision-making experiences. By facilitating user input, it helps AI models refine their understanding and accuracy.
+**edlsh/pi-ask-user** is an open‑source extension for the Pi AI platform that enables agents to interactively query users, offering both multiple‑choice and free‑form response options. By adding decision‑gating capabilities, it lets developers build more controlled and user‑driven AI workflows, streamlining the integration of human feedback into AI‑powered applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/edlsh/pi-ask-user) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/edlsh/pi-ask-user) · [← Back to AI/ML](./README.md)</sub>

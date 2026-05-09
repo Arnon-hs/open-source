@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 543 |
-| 🍴 **Forks** | 160 |
+| 🍴 **Forks** | 161 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The percolator project is an open-source repository that provides a Python implementation of the Percolator algorithm. It is a tool designed for ranking and filtering data, allowing users to efficiently identify the most relevant results. This project is made available under the Misc category for general-purpose use.
+The **aeyakovenko/percolator** repository is an open‑source utility that implements a lightweight, event‑driven processing engine. It provides a flexible framework for building pipelines that filter, transform, and route data streams in real time, making it useful for a wide range of miscellaneous automation and data‑handling tasks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/aeyakovenko/percolator) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/aeyakovenko/percolator) · [← Back to Misc](./README.md)</sub>

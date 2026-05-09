@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-HTCondor is an open-source, distributed computing system that enables efficient and scalable processing of large-scale jobs. It provides a decentralized architecture for managing and executing computationally intensive tasks across a network of machines. This project, formerly known as the Condor Project, offers a flexible and customizable solution for high-throughput computing applications.
+HTCondor is an open‑source high‑throughput computing system that manages and schedules large numbers of jobs across distributed resources such as clusters, grids, and clouds. The repository contains the full source code, build tools, and documentation for HTCondor, enabling developers to deploy, customize, and extend the workload management platform for scientific, engineering, and data‑intensive workloads. It is maintained by the HTCondor community and serves as the central hub for contributions, issue tracking, and releases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/htcondor/htcondor) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/htcondor/htcondor) · [← Back to Misc](./README.md)</sub>

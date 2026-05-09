@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 833 |
-| 🍴 **Forks** | 42 |
+| ⭐ **Stars** | 837 |
+| 🍴 **Forks** | 40 |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`benchmark` `benchmarking` `cd` `ci` `ci-cd` `code-quality` `continuous-benchmarking` `performance`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Bencher is an open-source project designed for continuous benchmarking. It aims to simplify the process of testing and comparing the performance of different code versions or implementations, facilitating more efficient development and optimization. By using Bencher, developers can easily track and analyze performance changes over time.
+Bencher is an open‑source platform for continuous benchmarking that automates the collection, analysis, and visualization of performance metrics across software projects. It integrates with CI pipelines to run benchmarks on every commit, stores historical results, and provides dashboards and alerts to help developers detect regressions early. The tool is language‑agnostic and can be self‑hosted, making it suitable for any codebase that requires reliable performance tracking.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bencherdev/bencher) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/bencherdev/bencher) · [← Back to Misc](./README.md)</sub>

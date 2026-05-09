@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 40 |
-| 🍴 **Forks** | 10 |
+| ⭐ **Stars** | 44 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `browser-automation` `claude` `codex` `cursor` `gemini` `mcp` `mcp-server` `model-context-protocol` `patchright` `perplexity` `reasoning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The VSCode-Perplexity-MCP project is an open-source initiative that provides a comprehensive solution for AI research and development. It includes a server and dashboard for Perplexity AI search and reasoning, as well as a multi-IDE auto-config feature specifically designed for Visual Studio Code (VS Code). This project aims to streamline AI/ML workflows by offering a seamless and integrated development experience.
+Automations‑Project/VSCode‑Perplexity‑MCP provides a self‑hosted MCP (Multi‑Compute Platform) server that integrates Perplexity AI’s search, reasoning, research, and compute capabilities directly into development environments. It includes a web dashboard for managing queries and resources, plus auto‑configuration scripts that seamlessly connect the MCP backend to multiple IDEs—most notably Visual Studio Code—enabling developers to invoke AI‑powered assistance and compute workflows from within their editor.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/Automations-Project/VSCode-Perplexity-MCP) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Automations-Project/VSCode-Perplexity-MCP) · [← Back to AI/ML](./README.md)</sub>

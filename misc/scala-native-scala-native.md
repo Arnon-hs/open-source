@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 386 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aot` `compiler` `llvm` `native` `scala` `scala-native`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Scala Native is an open-source project that aims to bring the Scala programming language closer to the bare metal, allowing developers to write high-performance applications that run directly on the hardware. This project uses a compilation process to generate machine code from Scala code, resulting in efficient and optimized applications. By bridging the gap between Scala and native execution, Scala Native enables developers to leverage the strengths of both worlds.
+Scala Native is an open‑source compiler and runtime that translates Scala code into optimized native binaries, enabling you to run Scala programs directly on the hardware without a JVM. It provides seamless interoperability with existing Scala libraries while delivering low‑level performance, small footprints, and native‑level debugging. Ideal for systems programming, command‑line tools, and performance‑critical applications, Scala Native brings the expressive power of Scala closer to bare‑metal execution.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/scala-native/scala-native) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/scala-native/scala-native) · [← Back to Misc](./README.md)</sub>

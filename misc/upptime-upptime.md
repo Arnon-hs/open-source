@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Markdown |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`incidents-reports` `status` `statuspage` `upptime` `uptime` `uptime-monitor`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Upptime is an open-source uptime
+upptime is an open‑source GitHub Action that automatically monitors the uptime of any website or API and generates a public status page directly from a repository. By leveraging GitHub Issues for incident tracking and GitHub Pages for the visual dashboard, it provides a lightweight, version‑controlled solution for continuous availability monitoring without requiring external services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/upptime/upptime) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/upptime/upptime) · [← Back to Misc](./README.md)</sub>
