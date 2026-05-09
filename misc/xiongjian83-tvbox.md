@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 618 |
+| ⭐ **Stars** | 619 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The TvBox project is an open-source software repository. Unfortunately, the provided description lacks sufficient information to create a detailed summary. However, it can be inferred that the TvBox project is likely related to television box software or hardware management, given its name.
+TvBox is an open‑source utility (by user *xiongjian83*) that provides a lightweight, customizable media‑playback solution for Android TV devices. It bundles essential streaming and playback features into a single, easy‑to‑install package, making it a handy tool for users who want a simple, no‑frills TV box experience.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/xiongjian83/TvBox) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/xiongjian83/TvBox) · [← Back to Misc](./README.md)</sub>

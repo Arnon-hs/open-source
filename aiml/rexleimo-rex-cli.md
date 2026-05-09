@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `automation` `browser-automation` `claude-code` `cli` `codex-cli` `contextdb` `gemini-cli` `local-first` `mcp` `opencode` `playwright`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The rex-cli project is an open-source initiative providing a local-first AI agent bootstrap system. It integrates a variety of tools, including Playwright Browser, MCP (Model-Code-Program), and ContextDB, to support popular AI-powered developer tools such as Codex CLI, Claude Code, Gemini CLI, and OpenCode. This system enables developers to leverage AI capabilities locally, reducing reliance on cloud services and enhancing productivity.
+Rex‑CLI is an open‑source, local‑first AI agent framework that combines a Playwright‑based browser micro‑controller (MCP) with a ContextDB to manage conversational state. It provides a unified command‑line interface for interacting with multiple large‑language‑model back‑ends—including Codex, Claude, Gemini, and OpenCode—making it easy for developers to bootstrap AI‑driven workflows and tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rexleimo/rex-cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/rexleimo/rex-cli) · [← Back to AI/ML](./README.md)</sub>

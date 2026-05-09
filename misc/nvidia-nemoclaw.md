@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20.1k |
+| ⭐ **Stars** | 20.2k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the NVIDIA/NemoClaw project:
-
-NVIDIA/NemoClaw is an open-source project that enables secure execution of OpenClaw within NVIDIA OpenShell. It provides a managed inference environment, allowing for improved performance and security. By leveraging NVIDIA's OpenShell, NemoClaw aims to provide a robust and efficient solution for running OpenClaw.
+NemoClaw is an open‑source integration that runs the OpenClaw simulation framework within NVIDIA’s OpenShell environment, adding a layer of security and managed inference capabilities. By leveraging OpenShell’s sandboxing and NVIDIA’s GPU acceleration, NemoClaw enables safer, more controlled execution of OpenClaw models while simplifying deployment and resource management. It is categorized under Miscellaneous utilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/NVIDIA/NemoClaw) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/NVIDIA/NemoClaw) · [← Back to Misc](./README.md)</sub>

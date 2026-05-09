@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-automation` `autonomous-agent` `claude-ai` `cli` `code-review-automation` `cron` `developer-tools` `prd` `pull-request-automation` `spec-driven-development` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Night Watch CLI is an open-source AI agent that automates routine development tasks by implementing user-defined specs, opening pull requests, and reviewing code overnight. This tool enables developers to prioritize their work and maximize productivity by queueing GitHub issues and PRDs, allowing them to wake up to completed pull requests. By harnessing AI capabilities, Night Watch CLI streamlines the development process, making it easier to manage and complete tasks.
+An AI‑driven command‑line tool that takes your specifications—via queued GitHub issues or product requirement documents—and automatically generates, submits, and reviews pull requests while you sleep. By running overnight, it streamlines development workflows, turning ideas into ready‑to‑merge code without manual intervention. Ideal for teams seeking AI‑enhanced automation in their DevOps pipeline.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/jonit-dev/night-watch-cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jonit-dev/night-watch-cli) · [← Back to AI/ML](./README.md)</sub>

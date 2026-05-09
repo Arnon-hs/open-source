@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 647 |
+| ⭐ **Stars** | 645 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `aiforscience` `formal-languages` `golang` `litex` `math` `reasoning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Golitex is an open-source, simple formal language designed to be learnable in just 2 hours, making it an accessible tool for those new to AI and ML. This language enables users to create and express complex ideas in a concise and efficient manner, facilitating the development of innovative AI solutions. By providing a streamlined learning experience, Golitex aims to bridge the gap between formal language and real-world applications.
+Litex is an open‑source formal language designed to be extremely approachable, allowing users to grasp its core concepts in just a couple of hours. Built with simplicity in mind, it serves as a lightweight framework for experimenting with formal methods, language design, and AI/ML‑related symbolic reasoning tasks. The project provides clear documentation, examples, and a small runtime, making it ideal for educators, researchers, and hobbyists who want a quick entry point into formal language tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/litexlang/golitex) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/litexlang/golitex) · [← Back to AI/ML](./README.md)</sub>

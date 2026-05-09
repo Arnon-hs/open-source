@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**81 projects** in this category.
+**82 projects** in this category.
 
 ## Projects
 
@@ -87,8 +87,9 @@
 | 77 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 50/100 |
 | 78 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 719 | Rust | 50/100 |
 | 79 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 67 | TypeScript | 49/100 |
-| 80 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 47/100 |
-| 81 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 46/100 |
+| 80 | [Dicklesworthstone/flywheel_connectors](./dicklesworthstone-flywheel-connectors.md) | ⭐ 75 | Rust | 47/100 |
+| 81 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 47/100 |
+| 82 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 46/100 |
 
 ---
 

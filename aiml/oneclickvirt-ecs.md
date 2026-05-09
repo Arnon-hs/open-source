@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 132 |
+| 🍴 **Forks** | 133 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`benchmark` `benchmarks` `darwin` `docker` `goecs` `golang` `linux` `macos` `windows`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-OneClickVirt/ECS is an open-source server testing project written in Go, aiming to provide a comprehensive evaluation of server capabilities with zero environment dependencies. This project is designed to serve as a robust testing framework for various server configurations, making it an invaluable tool for developers and system administrators. With its Go implementation, it offers a lightweight and efficient solution for server testing.
+oneclickvirt/ecs is an open‑source server‑testing suite written in Go that aims to become the most comprehensive tool for evaluating VPS performance. By leveraging Go’s static binaries, it runs with zero external environment dependencies, making it easy to deploy on any target machine. The project targets developers and DevOps engineers who need detailed, automated assessments of CPU, memory, disk, network, and other system metrics.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/oneclickvirt/ecs) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/oneclickvirt/ecs) · [← Back to AI/ML](./README.md)</sub>

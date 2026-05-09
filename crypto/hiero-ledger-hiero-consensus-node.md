@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto
 
 ## 📝 Summary
 
-This open-source project, hiero-ledger/hiero-consensus-node, provides a comprehensive set of services for a Hiero-based network, including crypto, token, consensus, file, and smart contract functionality. It enables the development of secure and scalable blockchain applications, facilitating seamless interactions within the Hiero network. By offering these essential services, the project empowers users to build and deploy decentralized solutions with ease.
+Hier​o Consensus Node is an open‑source implementation of the core services required for a Hiero‑based blockchain network. It provides the cryptographic primitives, token management, consensus algorithm, file storage, and smart‑contract execution needed to run and maintain a decentralized ledger. The project is designed for developers who want to deploy or extend a secure, permissioned network using Hiero’s consensus framework.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/hiero-ledger/hiero-consensus-node) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/hiero-ledger/hiero-consensus-node) · [← Back to Crypto](./README.md)</sub>

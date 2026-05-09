@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 41 |
-| 🍴 **Forks** | 16 |
+| ⭐ **Stars** | 44 |
+| 🍴 **Forks** | 18 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-workflow` `ai-agents` `antigravity` `dev-tools` `para-method` `personal-knowledge-management` `pkm` `productivity` `second-brain` `standard` `structure` `workspace-framework`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the pageel/para-workspace project:
-
-PARA Workspace is an open-source framework that enables humans and AI agents to collaborate on projects by organizing knowledge effectively. This project provides a comprehensive set of tools, including a kernel, CLI tools, and templates, to generate workspaces where users can engage in productive work. By integrating AI/ML capabilities with a structured workspace, PARA Workspace aims to revolutionize project collaboration and knowledge management.
+PARA Workspace (pageel/para-workspace) is an open‑source framework that formalizes how humans and AI agents structure knowledge and collaborate on projects, using the PARA (Projects, Areas, Resources, Archives) methodology. It provides a repository with a core “constitution” kernel, command‑line utilities, and ready‑made templates that can generate fully functional workspaces for real‑world development and coordination. The project sits at the intersection of crypto, orchestration, and AI/ML, enabling secure, automated, and collaborative workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/pageel/para-workspace) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pageel/para-workspace) · [← Back to Crypto](./README.md)</sub>

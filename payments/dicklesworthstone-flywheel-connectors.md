@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `connectors` `mesh-networking` `rust` `security`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments · AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-The flywheel_connectors library is an open-source initiative that enables secure integration of AI agents with various external services, including social media, payment gateways, and collaboration platforms. Built on a mesh-native protocol, this Rust connector library streamlines interactions with popular services like Twitter, Linear, Stripe, and more. By leveraging flywheel_connectors, developers can create seamless and secure agent integrations.
+Dicklesworthstone’s **flywheel_connectors** is a Rust library that implements the Mesh‑native protocol for securely linking AI agents with a wide range of external services such as Twitter, Linear, Stripe, Discord, Gmail, GitHub, and many others. It provides ready‑to‑use, type‑safe connectors that handle authentication, request signing, and data serialization, enabling developers to integrate AI‑driven workflows into payment processing, productivity tools, and communication platforms with strong security guarantees. The project is open‑source and positioned at the intersection of Payments, AI/ML, and Security.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Dicklesworthstone/flywheel_connectors) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Dicklesworthstone/flywheel_connectors) · [← Back to Payments](./README.md)</sub>

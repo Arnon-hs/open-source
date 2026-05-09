@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`eu4` `eu5` `paradox` `wasm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The pdx-tools open-source project is a community-driven toolset for visualizing and analyzing EU4 game saves. It allows users to upload and share their saves, view maps, graphs, and tables of their progress, and even compete in a leaderboard of achievement speed runs. This project provides a unique platform for EU4 players to collaborate and showcase their skills.
+pdx‑tools is an open‑source web application that lets Europa Universalis IV players explore their save files through interactive maps, graphs, and tables, while also tracking progress on a perpetual leaderboard for achievement speed‑runs. Users can upload their saves, compare performance with others, and share their results publicly, fostering a casual, evergreen competitive community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/pdx-tools/pdx-tools) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pdx-tools/pdx-tools) · [← Back to Misc](./README.md)</sub>

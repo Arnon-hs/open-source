@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 651 |
-| 🍴 **Forks** | 149 |
+| ⭐ **Stars** | 652 |
+| 🍴 **Forks** | 150 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The judy-gotv/iptv project is an open-source initiative providing a platform for IPTV (Internet Protocol Television) services. It facilitates the delivery of live TV channels and on-demand content over the internet, catering to users who want to access their favorite TV shows and movies online. This project aims to offer a flexible and customizable solution for IPTV streaming.
+Judy‑gotv/iptv is an open‑source utility that aggregates, parses, and serves IPTV playlist data from a variety of sources. It provides a simple command‑line interface and API for fetching, filtering, and converting channel lists into standard formats (M3U, JSON, etc.), making it easy to manage and customize personal streaming line‑ups. The project is categorized as “Misc” and is intended for developers and hobbyists who want a flexible, self‑hosted solution for handling IPTV content.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/judy-gotv/iptv) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/judy-gotv/iptv) · [← Back to Misc](./README.md)</sub>

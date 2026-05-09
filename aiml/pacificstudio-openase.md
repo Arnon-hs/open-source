@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 231 |
+| ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `software-engineering`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the OpenASE project:
-
-OpenASE is an open-source, AI-driven platform that automates software engineering by transforming tickets into working code. The platform utilizes AI agents to execute workflows, deliver results, and provide full traceability, streamlining the development process. By leveraging ticket-driven automated software engineering, OpenASE aims to enhance efficiency and productivity in software development.
+OpenASE is an open‑source, ticket‑driven platform that automates the full software‑engineering lifecycle. AI agents continuously monitor incoming tickets, execute predefined workflows on your infrastructure, generate working code, and return results with complete traceability and audit logs. It provides an all‑in‑one solution for turning issue tickets into deployable software artifacts.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/PacificStudio/openase) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/PacificStudio/openase) · [← Back to AI/ML](./README.md)</sub>

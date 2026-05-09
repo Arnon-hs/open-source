@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 111.5k |
-| 🍴 **Forks** | 13k |
+| ⭐ **Stars** | 112k |
+| 🍴 **Forks** | 13.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `comfy` `comfyui` `python` `pytorch` `stable-diffusion`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-ComfyUI is an open-source project that provides a powerful and modular interface for diffusion models, comprising a graphical user interface (GUI), API, and backend. This comprehensive tool features a graph/nodes interface, allowing users to easily navigate and interact with complex AI/ML models. By leveraging ComfyUI, developers and researchers can streamline their workflows and unlock the full potential of diffusion models.
+ComfyUI is an open‑source, highly modular graphical interface for building and running diffusion models. It provides a node‑based visual editor, a RESTful API, and a flexible backend that lets users assemble complex pipelines, customize model components, and integrate new extensions with minimal code. Ideal for both developers and artists, ComfyUI streamlines the creation, experimentation, and deployment of AI‑generated content.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/Comfy-Org/ComfyUI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Comfy-Org/ComfyUI) · [← Back to AI/ML](./README.md)</sub>

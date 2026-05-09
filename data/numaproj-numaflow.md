@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`data-processing` `hacktoberfest` `k8s` `kubernetes` `map-reduce` `pipeline` `stream-processing`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Data · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the numaflow project:
-
-Numaflow is an open-source, Kubernetes-native platform designed to efficiently run massively parallel data and streaming jobs. It enables users to process large volumes of data in a scalable and fault-tolerant manner, making it ideal for big data and real-time analytics workloads. By leveraging Kubernetes, Numaflow simplifies the deployment and management of parallel data processing jobs.
+Numaflow (github.com/numaproj/numaflow) is a Kubernetes‑native platform designed to simplify the development and execution of massively parallel data and streaming jobs. It provides a declarative, container‑based framework that integrates with existing Kubernetes tooling, enabling scalable, fault‑tolerant pipelines for real‑time data processing and ETL workloads.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/numaproj/numaflow) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/numaproj/numaflow) · [← Back to Data](./README.md)</sub>

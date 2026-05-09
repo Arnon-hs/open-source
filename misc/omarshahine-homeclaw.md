@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 105 |
+| ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `homekit` `macos` `mcp` `smart-home` `swift`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-HomeClaw is an open-source project that allows users to control their HomeKit smart home devices from the Claude Desktop, Claude Code, and OpenClaw environments. It provides seamless integration with various HomeKit devices, including lights, locks, thermostats, and scenes. This project offers a convenient solution for those seeking to manage their smart home devices in a more accessible and customizable manner.
+HomeClaw is an open‑source bridge that lets you control HomeKit‑compatible smart‑home devices (lights, locks, thermostats, scenes, etc.) through the MCP (Message Control Protocol) used by Claude Desktop, Claude Code, and OpenClaw. It translates MCP commands into HomeKit actions, enabling seamless voice‑or code‑driven automation across a wide range of Apple Home accessories. The project is lightweight, cross‑platform, and suitable for hobbyists and developers looking to integrate HomeKit into custom workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/omarshahine/HomeClaw) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/omarshahine/HomeClaw) · [← Back to Misc](./README.md)</sub>

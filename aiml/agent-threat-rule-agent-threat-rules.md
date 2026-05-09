@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-security` `agent-threat-rules` `ai-security` `garak` `llm-security` `mcp-security` `owasp` `owasp-agentic` `prompt-injection` `sigma-rules` `threat-detection`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the Agent-Threat-Rule project:
-
-The Agent-Threat-Rule project is an open-source initiative that sets a standard for detecting malicious AI agents, offering a similar structure to Sigma but tailored for AI defense. The project boasts an impressive 97.1% accuracy rate in detection, as validated by Cisco AI Defense using 311 rules, demonstrating its robust capabilities in AI threat detection. By making this standard open-source, the project aims to enhance the security of AI systems worldwide.
+Agent‑Threat‑Rules provides an open, community‑driven detection standard for AI‑driven threats—essentially a “Sigma” for AI agents. It currently includes 311 vetted rule sets, integrates with Cisco AI Defense, and has demonstrated a 97.1 % recall rate against Garak‑generated adversarial scenarios. The project targets AI/ML security practitioners looking for a structured, interoperable way to identify malicious or unsafe agent behavior.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Agent-Threat-Rule/agent-threat-rules) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Agent-Threat-Rule/agent-threat-rules) · [← Back to AI/ML](./README.md)</sub>

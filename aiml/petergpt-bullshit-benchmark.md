@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 62 |
+| 🍴 **Forks** | 63 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-BullshitBench is an open-source project designed to evaluate the robustness of AI models against nonsensical prompts. Created by Peter Gostev, this benchmark aims to assess whether AI models can effectively identify and challenge illogical or meaningless inputs, rather than providing overly confident or incorrect responses. By doing so, BullshitBench promotes more reliable and transparent AI decision-making.
+BullshitBench is an open‑source benchmark designed to evaluate whether AI models can recognize and resist answering nonsensical or deceptive prompts instead of providing confident but incorrect responses. Created by Peter Gostev, the suite supplies a collection of deliberately absurd inputs and measures a model’s ability to flag, refuse, or otherwise challenge them. It helps researchers and developers improve robustness and safety in natural‑language systems.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/petergpt/bullshit-benchmark) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/petergpt/bullshit-benchmark) · [← Back to AI/ML](./README.md)</sub>

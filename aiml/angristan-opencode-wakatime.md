@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 136 |
-| 🍴 **Forks** | 4 |
+| ⭐ **Stars** | 148 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`coding-agent` `opencode` `opencode-plugin` `wakatime`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This repository, angristan/opencode-wakatime, is an open-source project that integrates Opencode usage tracking with Wakatime, a tool for monitoring coding activity. By leveraging Wakatime's capabilities, developers can gain insights into their coding habits and productivity. This integration aims to enhance the overall developer experience and promote data-driven development.
+**angristan/opencode-wakatime** is an open‑source integration that records a user’s activity on the Opencode platform and sends the data to WakaTime for automatic time‑tracking and analytics. By bridging Opencode with WakaTime’s API, it enables developers to visualize coding habits, productivity metrics, and project‑level statistics without manual logging.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/angristan/opencode-wakatime) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/angristan/opencode-wakatime) · [← Back to AI/ML](./README.md)</sub>

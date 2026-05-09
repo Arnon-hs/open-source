@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 389 |
+| ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `bi` `data` `dw` `erp` `openai` `workflow` `xpert`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Xpert AI is an open-source platform that empowers enterprises to harness the power of AI agents and data analysis, enabling informed business decisions. This comprehensive platform features advanced AI capabilities, making it an ideal solution for organizations seeking to optimize their operations and stay ahead of the competition. By leveraging Xpert AI, businesses can unlock valuable insights from their data, drive innovation, and achieve strategic growth.
+Xpert AI is an open‑source platform that enables enterprises to build, deploy, and manage AI agents for advanced data analysis and decision‑making. It provides tools for ingesting, processing, and visualizing business data, allowing users to create automated workflows that generate actionable insights. The project targets AI/ML and data‑centric applications, helping organizations accelerate intelligent decision processes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/xpert-ai/xpert) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/xpert-ai/xpert) · [← Back to AI/ML](./README.md)</sub>

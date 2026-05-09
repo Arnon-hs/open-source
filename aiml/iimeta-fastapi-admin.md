@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 299 |
+| ⭐ **Stars** | 295 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `chatgpt` `claude` `deepseek` `ernie-bot` `fast` `fastapi` `gemini` `glm` `gpt` `gpt-4` `gpt-5`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the iimeta/fastapi-admin project:
-
-iimeta/fastapi-admin is an open-source, enterprise-level API integration system for Large Language Models (LLMs). It supports a wide range of models from various providers, including OpenAI, Azure, and Chinese models like 文心一言 and 鑫火. This lightweight and efficient system offers a simple and stable interface, making it easy to deploy using Docker.
+FastAPI‑Admin is an enterprise‑grade, lightweight system for quickly integrating a wide range of LLM APIs—including OpenAI, Azure, Baidu Wenxin, iFlytek Spark, Tongyi Qianwen, Zhipu GLM, Gemini, DeepSeek, Anthropic Claude, and any OpenAI‑compatible model—into FastAPI applications. It offers a clean, minimalistic web interface and can be deployed with a single Docker command, providing a stable, high‑performance backend for AI‑driven services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/iimeta/fastapi-admin) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/iimeta/fastapi-admin) · [← Back to AI/ML](./README.md)</sub>

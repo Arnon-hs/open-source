@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-workflow` `ai-agent` `java` `llm` `mcp` `multimodal` `rag` `spring-ai` `spring-boot` `tool-calling`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-This open-source project, Tianji AI Agent, is a Spring-based AI engineering project that leverages Java, MCP, and RAG technologies to create a robust AI agent infrastructure. The project enables multimodal workflows and tool calling, making it an ideal platform for building complex AI applications. With its UI prototype capabilities, Tianji AI Agent facilitates the development of user-friendly interfaces for AI-driven solutions.
+The **however-yir/tianji-ai-agent** project is a Spring‑AI based framework for building intelligent agents that combine Java, the Model‑Centric Programming (MCP) paradigm, Retrieval‑Augmented Generation (RAG), and tool‑calling capabilities. It supports multimodal workflows and includes prototype user interfaces, making it a full‑stack solution for AI‑enhanced applications. The repository is positioned at the intersection of AI/ML and frontend development, offering reusable components for rapid agent engineering.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/however-yir/tianji-ai-agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/however-yir/tianji-ai-agent) · [← Back to AI/ML](./README.md)</sub>
