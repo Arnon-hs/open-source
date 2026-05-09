@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`basic` `gpio` `graphics-programming` `interpreter` `language` `learn-to-code` `parser` `programming-language` `raspberry-pi` `repl` `rust` `scripting-language`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the endbasic project:
-
-Endbasic is an open-source BASIC environment written in Rust, offering a flexible and interactive development experience. It features a read-eval-print loop (REPL) for instant coding, a web interface for remote access, and a graphical console for a more immersive experience. Additionally, endbasic supports Raspberry Pi, allowing users to easily develop and deploy projects on this popular single-board computer.
+endbasic is a Rust‑based implementation of the BASIC programming language that provides an interactive REPL, a web‑based interface, and a graphical console for desktop use. It also includes support for running on Raspberry Pi devices, making it a versatile, cross‑platform environment for learning and experimenting with BASIC. The project is open‑source and packaged under the Misc category.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/endbasic/endbasic) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/endbasic/endbasic) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `cling` `data-analysis` `geometry` `graphics` `hacktoberfest` `interpreter` `machine-learning` `mathematics` `parallel` `physics` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Data
 
 ## 📝 Summary
 
-root-project/root is a promising open-source project. Categories: DevTools, Data. Interest score: 87/100.
+Root (root-project/root) is an open‑source C++ framework for high‑energy physics and scientific data analysis, providing tools to store, process, and visualize massive data sets via its own column‑wise I/O format (ROOT files) and a rich set of statistical, fitting, and graphical libraries. It integrates interactive scripting (C++/Python/Julia), parallel processing, and a powerful GUI, making it a comprehensive solution for data‑intensive research and development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/root-project/root) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/root-project/root) · [← Back to DevTools](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14.1k |
+| ⭐ **Stars** | 14.2k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agents` `ai` `chrome-extension` `extension` `fastapi` `langchain` `langgraph` `nextjs` `notebooklm` `ollama` `perplexity`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the MODSetter/SurfSense project:
-
-MODSetter/SurfSense is an open-source, data-limit-free alternative to NotebookLM, designed to provide a private and collaborative AI/ML experience for teams. This project offers a flexible and scalable solution for teams to work together on machine learning tasks without worrying about data constraints. Join the community on Discord to learn more and get involved.
+MODSetter/SurfSense is an open‑source, privacy‑first platform that offers teams an unlimited‑data alternative to NotebookLM for collaborative AI/ML workflows. It provides robust orchestration and backend services to manage and serve AI models securely, enabling seamless integration and scaling without compromising user data. Join the community on Discord for support and contributions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/MODSetter/SurfSense) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/MODSetter/SurfSense) · [← Back to Orchestration](./README.md)</sub>

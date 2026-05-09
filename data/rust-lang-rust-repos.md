@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`rust-infra`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · DevOps/Infra
 
 ## 📝 Summary
 
-The rust-lang/rust-repos project provides an open-source dataset of Rust source code repositories, offering valuable insights into the language's ecosystem and community. This comprehensive dataset allows researchers, developers, and data analysts to explore and analyze the characteristics of Rust repositories, contributing to the advancement of the Rust language and its applications. By making this dataset publicly available, the project fosters collaboration and innovation within the Rust community.
+The **rust-lang/rust-repos** project provides a curated dataset of publicly available Rust source‑code repositories, enabling researchers, developers, and tooling authors to analyze, benchmark, and train models on real‑world Rust code. It aggregates metadata, version history, and repository links, making it easy to retrieve large collections of Rust projects for data‑driven development, static analysis, and DevOps automation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/rust-lang/rust-repos) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/rust-lang/rust-repos) · [← Back to Data](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18 |
+| ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-teams` `ai` `ai-agent` `ai-agents` `claude` `claude-ai` `claude-code` `claude-code-source-code` `claudecode` `claudecodecli` `claudecodesourcecode`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The Claude-code project is an open-source, refactored fork of the sourcemap-leaked Claude Code CLI. This repository provides a CLI tool for developers to leverage Claude, an AI-powered code assistant, for orchestration and AI/ML tasks. It offers a DevTools-focused interface for working with Claude and other related technologies.
+Icarus603/claude-code is a streamlined, community‑maintained fork of the original Claude Code CLI that had its source map unintentionally exposed. The project refactors and cleans up the codebase, improving reliability and adding orchestration features for seamless AI‑assisted development workflows. It serves as a lightweight DevTools utility for integrating Claude‑powered code generation into automated pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Icarus603/claude-code) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Icarus603/claude-code) · [← Back to Orchestration](./README.md)</sub>

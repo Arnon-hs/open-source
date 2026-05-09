@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 491 |
+| ⭐ **Stars** | 495 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`endfield` `okef` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The End Field Automation project is an open-source automation tool built using ok-script. It aims to provide a simple and efficient way to automate tasks and processes, making it a valuable resource for users seeking to streamline their workflows. This project is a great example of community-driven development, offering a free and customizable solution for various automation needs.
+AliceJump/ok‑end‑field is an open‑source automation tool for the “End Field” (终末地) in Minecraft, built on the ok‑script framework. It provides scripts and utilities that automatically perform repetitive tasks and manage the End dimension, simplifying gameplay for players and developers alike. The project is categorized under Miscellaneous and is available for community contribution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/AliceJump/ok-end-field) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/AliceJump/ok-end-field) · [← Back to Misc](./README.md)</sub>

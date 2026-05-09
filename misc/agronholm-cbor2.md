@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cbor` `serialization`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This project, cbor2, is a Python library that provides a comprehensive implementation of the CBOR (Concise Binary Object Representation) standard, allowing for efficient serialization and deserialization of data. It supports a wide range of CBOR tags, making it a valuable tool for working with CBOR data in Python applications. This library is open-source and accessible for developers to use and contribute to.
+agronholm/cbor2 is a pure‑Python library for encoding and decoding CBOR (Concise Binary Object Representation) data, offering fast, standards‑compliant (de)serialization. It provides extensive support for CBOR tags, allowing custom handling of semantic types such as dates, decimals, and user‑defined objects. The project is lightweight, well‑documented, and suitable for any Python application that needs reliable CBOR processing.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/agronholm/cbor2) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/agronholm/cbor2) · [← Back to Misc](./README.md)</sub>

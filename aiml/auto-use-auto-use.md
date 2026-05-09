@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai-agents` `anthropic` `anthropic-claude` `autonomous-agents` `browser-use` `claude-ai` `computer-use` `computer-use-agent` `computer-use-agents` `desktop-automation` `gpt`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the auto-use project:
-
-Auto-Use is an open-source project that integrates AI-driven automation across various aspects of computer use, including operating systems, browsers, web exploration, and code development. This comprehensive platform leverages a single agent to streamline tasks and improve productivity, making it an ideal solution for developers and users seeking to optimize their workflow. By harnessing AI and ML capabilities, Auto-Use aims to revolutionize the way we interact with technology.
+Auto‑Use is an open‑source, end‑to‑end automation agent that can control your operating system and web browser, scrape information from the internet, and even generate code on your behalf. By combining AI/ML techniques with a lightweight frontend, it lets a single autonomous agent perform complex computer‑use tasks without manual intervention. The project is aimed at developers who want a versatile, scriptable personal assistant for automating everyday workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/auto-use/Auto-Use) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/auto-use/Auto-Use) · [← Back to AI/ML](./README.md)</sub>

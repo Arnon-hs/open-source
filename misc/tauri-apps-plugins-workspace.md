@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 529 |
+| 🍴 **Forks** | 530 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `tauri` `tauri-plugin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Tauri-apps/plugins-workspace is a centralized collection of official Tauri plugins, designed to simplify the development process by providing a single point of access to these powerful tools. This open-source project brings together a wide range of plugins, allowing developers to easily integrate them into their Tauri applications. By consolidating these plugins in one place, Tauri-apps/plugins-workspace streamlines the development experience and enhances productivity.
+The **tauri-apps/plugins-workspace** repository aggregates all officially supported Tauri plugins into a single, easy‑to‑navigate workspace. It provides a unified codebase, consistent tooling, and up‑to‑date examples for developers who want to extend their Tauri desktop applications with functionalities such as authentication, deep linking, file handling, and more. This central hub simplifies plugin discovery, contribution, and maintenance across the Tauri ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/tauri-apps/plugins-workspace) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tauri-apps/plugins-workspace) · [← Back to Misc](./README.md)</sub>

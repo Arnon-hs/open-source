@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 619 |
+| ⭐ **Stars** | 623 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `llm` `rlhf`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Design
 
 ## 📝 Summary
 
-Trinity-RFT is an open-source framework for reinforcement fine-tuning (RFT) of large language models (LLM), providing a flexible and scalable solution for AI model optimization. This general-purpose framework enables users to fine-tune LLMs for a wide range of tasks and applications. With Trinity-RFT, developers can easily integrate and customize RFT techniques to enhance the performance of their language models.
+Trinity‑RFT is an open‑source, general‑purpose framework that streamlines reinforcement fine‑tuning (RFT) for large language models. It offers a flexible, modular architecture that scales from small experiments to production‑level deployments, simplifying the integration of reward modeling, policy optimization, and data pipelines. Designed for AI/ML practitioners, Trinity‑RFT enables rapid prototyping and robust, reproducible RFT workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/agentscope-ai/Trinity-RFT) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/agentscope-ai/Trinity-RFT) · [← Back to AI/ML](./README.md)</sub>

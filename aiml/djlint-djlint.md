@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 917 |
-| 🍴 **Forks** | 112 |
+| ⭐ **Stars** | 919 |
+| 🍴 **Forks** | 113 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`django` `django-templates` `golang` `golang-template` `handlebars-js` `handlebars-templates` `html` `html-linter` `html-templates` `jinja2` `jinja2-templates` `linter`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-DjLint is an open-source project that provides an HTML template linter and formatter, supporting various template engines including Django, Jinja, Nunjucks, Handlebars, and GoLang. This tool helps developers maintain clean and standard HTML templates by detecting and fixing errors, inconsistencies, and best practices. By utilizing DjLint, developers can significantly improve the quality and maintainability of their web applications.
+djLint is an open‑source linter and formatter designed for HTML‑based template languages such as Django, Jinja, Nunjucks, Handlebars, and Go templates. It helps developers enforce consistent style, catch syntax errors, and automatically format code, improving readability and reducing bugs in web projects. The tool integrates with typical development workflows and CI pipelines, making it a handy DevTools utility for template‑heavy applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/djlint/djLint) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/djlint/djLint) · [← Back to AI/ML](./README.md)</sub>

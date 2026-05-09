@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 311 |
+| 🍴 **Forks** | 313 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-OpenOcta is an open-source, enterprise-grade intelligent system designed specifically for Chinese teams. This project aims to provide a robust and scalable platform for intelligent applications, empowering teams to develop innovative solutions. By offering a customizable and extensible architecture, OpenOcta facilitates collaboration and accelerates the development of intelligent technologies.
+OpenOcta is an open‑source, enterprise‑grade intelligent agent platform designed specifically for Chinese development teams. It provides a modular framework for building, deploying, and managing AI‑driven bots and workflows, with support for local language processing, integration with popular Chinese services, and scalable infrastructure. The project aims to deliver a robust, customizable solution for businesses seeking AI automation in the Chinese market.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/openocta/openocta) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/openocta/openocta) · [← Back to Misc](./README.md)</sub>

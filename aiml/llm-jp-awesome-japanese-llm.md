@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`foundation-models` `generative-ai` `generative-model` `generative-models` `japanese` `japanese-language` `japanese-language-model` `japanese-llm` `language-model` `language-models` `large-language-model` `large-language-models`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The "awesome-japanese-llm" repository is an open-source project that provides an overview of Japanese Large Language Models (LLMs). It serves as a comprehensive collection and comparison of various Japanese LLMs, aiming to facilitate research, development, and adoption of these AI models in the Japanese language. This resource aims to bridge the gap between the Japanese and global AI communities.
+**awesome-japanese-llm** is an open‑source, community‑curated repository that compiles and categorizes Japanese large language models (LLMs), including model checkpoints, fine‑tuning datasets, evaluation benchmarks, and relevant research papers. It serves as a one‑stop reference for developers, researchers, and enthusiasts looking to explore, compare, or build NLP applications in Japanese.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/llm-jp/awesome-japanese-llm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/llm-jp/awesome-japanese-llm) · [← Back to AI/ML](./README.md)</sub>

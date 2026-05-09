@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code` `marketplace` `marketplaces` `plugin` `plugins` `skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the Chat2AnyLLM/awesome-claude-plugins project:
-
-This project is a curated list of awesome Claude marketplaces and plugins, making it easier for users to discover and utilize the vast ecosystem of AI-powered tools available on the Claude platform. By aggregating the best plugins and marketplaces, developers and users can streamline their workflow and enhance their experience with Claude AI. The project serves as a valuable resource for those exploring the capabilities of Claude and its potential applications.
+Chat2AnyLLM/awesome-claude-plugins is a community‑maintained repository that aggregates the most notable Claude AI marketplaces, extensions, and plugins into a single, well‑organized list. It serves as a quick reference for developers and users looking to discover, evaluate, and integrate third‑party tools that enhance Claude’s capabilities across various use cases. The project is open‑source, encouraging contributions to keep the collection up‑to‑date with the rapidly evolving AI ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Chat2AnyLLM/awesome-claude-plugins) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Chat2AnyLLM/awesome-claude-plugins) · [← Back to AI/ML](./README.md)</sub>

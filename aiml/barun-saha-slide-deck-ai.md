@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `azure-openai` `bert` `cli` `gemini-ai` `gemini-api` `gemini-flash` `generative-ai` `hackathon` `large-language-models` `litellm` `llama`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The slide-deck-ai project is an open-source initiative that leverages artificial intelligence to co-create PowerPoint slide decks, making the process of designing and producing engaging presentations more efficient and streamlined. This project combines AI capabilities with the widely used PowerPoint format, allowing users to generate high-quality slide decks with minimal manual effort. By utilizing AI, this project aims to transform the presentation creation process.
+barun-saha/slide-deck-ai is an open‑source tool that lets users collaboratively generate PowerPoint slide decks using artificial intelligence. It provides a backend service that takes plain‑text outlines or prompts and returns fully formatted slides, complete with suggested layouts, visuals, and speaker notes. Designed for developers and content creators, the project streamlines deck creation and can be integrated into existing workflows or extended with custom AI models.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/barun-saha/slide-deck-ai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/barun-saha/slide-deck-ai) · [← Back to AI/ML](./README.md)</sub>

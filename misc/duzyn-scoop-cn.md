@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 543 |
+| ⭐ **Stars** | 546 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | PowerShell |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`scoop` `scoop-apps` `scoop-bucket`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the duzyn/scoop-cn project in English:
-
-The duzyn/scoop-cn project is an open-source application library designed specifically for Chinese users of Scoop, allowing for daily synchronization with Scoop's official library and accelerating application download speeds. This library aims to provide a seamless experience for Chinese users by leveraging the power of Scoop. By automating the synchronization process, users can enjoy faster and more efficient access to a wide range of applications.
+The **duzyn/scoop-cn** project provides a Chinese‑localized Scoop bucket that mirrors the official Scoop repository and accelerates download speeds for Chinese users. It automatically syncs with the upstream Scoop bucket each day, ensuring that the latest Windows command‑line applications are available locally. This open‑source bucket simplifies software installation for developers and power users in China.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/duzyn/scoop-cn) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/duzyn/scoop-cn) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 333 |
-| 🍴 **Forks** | 50 |
+| ⭐ **Stars** | 338 |
+| 🍴 **Forks** | 52 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analyze` `astrbot-plugin` `discord` `llm` `qq` `summary` `telegram`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the SXP-Simon/astrbot_plugin_qq_group_daily_analysis project:
-
-Astrbot_plugin_qq_group_daily_analysis is an open-source plugin designed for daily group analysis, offering a range of features such as topic analysis, user profiling, and chat log summaries. This cross-platform plugin aims to provide a comprehensive and visually appealing report for groups on various platforms, including QQ, Telegram, and Discord. It utilizes AI and ML technologies to provide in-depth insights and analysis for group administrators.
+SXP‑Simon’s **astrbot_plugin_qq_group_daily_analysis** is a multi‑platform plugin that automatically generates polished daily reports for group chats. It extracts insights such as topic trends, user activity profiles, and “group bible” statistics, and currently supports QQ (OneBot), Telegram, and Discord. The tool is open‑source and geared toward AI‑enhanced community analytics.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) · [← Back to AI/ML](./README.md)</sub>

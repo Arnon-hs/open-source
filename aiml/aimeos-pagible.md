@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 513 |
+| ⭐ **Stars** | 515 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `api` `cms` `content-management` `content-management-system` `contentful` `graphql` `headless-cms` `jsonapi` `laravel` `laravel-cms` `multi-tenancy`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the aimeos/pagible project:
-
-Pagible is an open-source, cloud-native Laravel CMS package that combines the power of AI with a flexible and intuitive interface. This package offers a range of features, including JSON:API and GraphQL API, customizable templates, and themes, making it an ideal solution for developers seeking a robust and scalable content management system. With pagible, users can easily create, manage, and deploy dynamic web content with ease.
+Aimeos Pagible is an open‑source, cloud‑native CMS built as a Laravel package that combines AI‑enhanced content management with modern API interfaces. It offers developers flexible JSON:API and GraphQL endpoints, a robust templating system, and theme support, making it suitable for both frontend and backend projects. The package aims to deliver powerful, scalable functionality while remaining easy to integrate and extend.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/aimeos/pagible) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/aimeos/pagible) · [← Back to AI/ML](./README.md)</sub>

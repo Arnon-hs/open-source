@@ -134,8 +134,8 @@
 | 124 | [drhelius/Gearboy](./drhelius-gearboy.md) | ⭐ 1.1k | C++ | 60/100 |
 | 125 | [apollographql/router](./apollographql-router.md) | ⭐ 959 | Rust | 60/100 |
 | 126 | [hook0/hook0](./hook0-hook0.md) | ⭐ 1.4k | Rust | 59/100 |
-| 127 | [sebadob/rauthy](./sebadob-rauthy.md) | ⭐ 1.1k | Rust | 59/100 |
-| 128 | [tmux-python/libtmux](./tmux-python-libtmux.md) | ⭐ 1.2k | Python | 59/100 |
+| 127 | [tmux-python/libtmux](./tmux-python-libtmux.md) | ⭐ 1.2k | Python | 59/100 |
+| 128 | [sebadob/rauthy](./sebadob-rauthy.md) | ⭐ 1.1k | Rust | 59/100 |
 | 129 | [chrisryugj/kordoc](./chrisryugj-kordoc.md) | ⭐ 900 | TypeScript | 59/100 |
 | 130 | [amqp-rs/lapin](./amqp-rs-lapin.md) | ⭐ 1.2k | Rust | 59/100 |
 | 131 | [asdfghj1237890/WebVideo2NAS](./asdfghj1237890-webvideo2nas.md) | ⭐ 1.1k | Python | 59/100 |

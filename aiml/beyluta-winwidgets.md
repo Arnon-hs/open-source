@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 144 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 145 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | C |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`app` `cefsharp` `cefsharp-winforms` `chromium` `desktop-app` `desktop-widget` `desktop-widgets` `developer-tool` `developer-tools` `free` `modern-design` `popup`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-WinWidgets is an open-source project that empowers developers to create web-based desktop widgets using familiar technologies such as HTML, CSS, and JavaScript. With WinWidgets, users can easily design and deploy their own Windows 11 widgets, streamlining the development process and fostering innovation in desktop applications. This versatile tool makes it easier for developers to build and deploy custom widgets, unlocking new possibilities for user engagement and interaction.
+WinWidgets is an open‑source framework that lets developers build native‑looking Windows 11 desktop widgets with standard web technologies—HTML, CSS, and JavaScript. By handling the integration with the Windows widget host, it simplifies the creation, packaging, and deployment of custom widgets, making it a handy dev‑tool for frontend engineers and hobbyists alike.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/beyluta/WinWidgets) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/beyluta/WinWidgets) · [← Back to AI/ML](./README.md)</sub>
