@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 315 |
+| 🍴 **Forks** | 316 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the SkyRL project:
-
-SkyRL is an open-source, modular full-stack reinforcement learning library designed for large language models (LLMs). This AI/ML project enables researchers and developers to build, train, and deploy LLM-based reinforcement learning applications efficiently. With SkyRL, users can create customizable and scalable RL environments for a wide range of tasks and applications.
+NovaSky‑AI’s **SkyRL** is a modular, full‑stack reinforcement‑learning library specifically designed for training and fine‑tuning large language models (LLMs). It provides a plug‑and‑play architecture that abstracts environments, agents, and reward models, enabling researchers and developers to quickly prototype, benchmark, and deploy RL‑based LLM workflows. The framework is open‑source, extensible, and integrates with popular ML ecosystems for seamless experimentation and production deployment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/NovaSky-AI/SkyRL) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/NovaSky-AI/SkyRL) · [← Back to AI/ML](./README.md)</sub>

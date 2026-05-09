@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 34 |
-| 🍴 **Forks** | 27 |
+| ⭐ **Stars** | 39 |
+| 🍴 **Forks** | 30 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `claude` `mcp` `model-context-protocol` `whatsapp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-This open-source project, WhatsApp MCP server, enables seamless integration of Claude with the WhatsApp messaging platform. It facilitates the reading and sending of messages, bridging the gap between Claude's capabilities and the vast user base of WhatsApp. This integration empowers Claude users to leverage the full potential of WhatsApp for various use cases, such as customer support, marketing, or personal communication.
+The **WhatsApp MCP server** is an open‑source backend that bridges Claude AI with WhatsApp, enabling the AI to read incoming chats and send replies programmatically. It provides a lightweight, extensible API for authenticating to WhatsApp, handling message events, and forwarding them to Claude, making it easy to integrate conversational AI into WhatsApp workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/verygoodplugins/whatsapp-mcp) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/verygoodplugins/whatsapp-mcp) · [← Back to Backend](./README.md)</sub>

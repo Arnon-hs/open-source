@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`facebook` `flutter-ai` `gemma` `ggml` `gguf` `llama` `llama2` `llamacpp` `llm` `llm-inference` `local-ai` `meta`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the lcpp open-source project:
-
-The lcpp project is an open-source implementation of llama.cpp, a key component in the Mobile Artificial Intelligence Distribution (MAID) platform. This Dart-based project enables the integration of artificial intelligence (AI) capabilities into mobile applications. By leveraging the lcpp SDK, developers can tap into the power of AI to enhance their mobile experiences.
+Mobile‑Artificial‑Intelligence/llama_sdk provides a pure‑Dart implementation of the popular llama.cpp inference engine, enabling on‑device execution of LLaMA language models within Flutter and other Dart‑based mobile apps. It is the core library used by the Mobile Artificial Intelligence Distribution (MAID) to bring high‑performance, offline AI capabilities to iOS and Android platforms. The SDK abstracts model loading, tokenization, and inference behind a simple, idiomatic Dart API, making it easy for developers to integrate state‑of‑the‑art LLMs into mobile applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Mobile-Artificial-Intelligence/llama_sdk) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Mobile-Artificial-Intelligence/llama_sdk) · [← Back to AI/ML](./README.md)</sub>

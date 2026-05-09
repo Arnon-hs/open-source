@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 157 |
+| 🍴 **Forks** | 158 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `coreclr` `filesystem` `kernel` `macos` `netstandard` `orchestration` `sandbox` `unix` `xcode` `xplat`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · Frontend · DevTools
 
 ## 📝 Summary
 
-Microsoft BuildXL is an open-source project that serves as the Microsoft Build Accelerator, designed to streamline and accelerate the build process for software development. This project utilizes orchestration and front-end tools to automate and optimize build workflows, making it easier for developers to manage and maintain complex projects. By leveraging BuildXL, developers can significantly reduce build times and improve overall development efficiency.
+BuildXL is an open‑source, high‑performance build engine created by Microsoft that powers large‑scale, incremental compilation and packaging pipelines. It provides a flexible orchestration framework and a powerful frontend for defining build graphs, enabling developers to achieve fast, reliable, and reproducible builds across diverse codebases. The project is positioned as a DevTools solution for complex build automation and continuous integration scenarios.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/microsoft/BuildXL) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/microsoft/BuildXL) · [← Back to Orchestration](./README.md)</sub>

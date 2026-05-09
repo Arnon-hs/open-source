@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 993 |
+| ⭐ **Stars** | 994 |
 | 🍴 **Forks** | 474 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`vulkan`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Vulkan Validation Layers (VVL) is an open-source project providing a set of debugging and validation tools for the Vulkan API. It offers detailed information about the runtime state of the application, enabling developers to track potential issues and optimize their graphics performance. By utilizing these validation layers, developers can ensure the correctness and reliability of their Vulkan-based applications.
+KhronosGroup/Vulkan-ValidationLayers provides the official Vulkan Validation Layers (VVL), a comprehensive suite of runtime checks that detect incorrect API usage, resource leaks, and performance pitfalls in Vulkan applications. By integrating these layers into development workflows, developers can catch bugs early, ensure compliance with the Vulkan specification, and improve the stability and reliability of their graphics code.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/KhronosGroup/Vulkan-ValidationLayers) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/KhronosGroup/Vulkan-ValidationLayers) · [← Back to Misc](./README.md)</sub>

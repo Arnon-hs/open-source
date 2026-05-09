@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 442 |
+| ⭐ **Stars** | 444 |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`airtable` `mcp-server` `model-context-protocol`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The airtable-mcp-server is an open-source project that enables AI systems to interact with Airtable bases by implementing the Model Context Protocol (MCP) server. This allows developers to integrate their AI models with Airtable databases, facilitating seamless data exchange and utilization. The project provides a flexible backend solution for developers to integrate Airtable with AI-powered applications.
+The **Airtable Model Context Protocol (MCP) Server** is an open‑source backend that lets AI applications read from and write to your Airtable bases using a standardized protocol. It abstracts Airtable’s API into a simple, model‑driven interface, enabling seamless integration of AI/ML services with existing Airtable workflows. The project is built for easy deployment and extensibility, making it a practical bridge between AI systems and Airtable data.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/domdomegg/airtable-mcp-server) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/domdomegg/airtable-mcp-server) · [← Back to AI/ML](./README.md)</sub>

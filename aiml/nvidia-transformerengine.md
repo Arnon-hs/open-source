@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.3k |
-| 🍴 **Forks** | 719 |
+| 🍴 **Forks** | 718 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cuda` `deep-learning` `fp4` `fp8` `gpu` `jax` `machine-learning` `python` `pytorch`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the NVIDIA/TransformerEngine project:
-
-TransformerEngine is an open-source library that accelerates Transformer models on NVIDIA GPUs, leveraging advanced precision techniques such as 8-bit (FP8) and 4-bit (FP4) floating-point arithmetic on Hopper, Ada, and Blackwell GPUs. This results in improved performance and reduced memory utilization in both training and inference tasks. By utilizing these techniques, developers can efficiently deploy large-scale Transformer models.
+TransformerEngine is an open‑source library that speeds up Transformer workloads on NVIDIA GPUs by leveraging mixed‑precision formats—including 8‑bit (FP8) and 4‑bit (FP4) floating‑point arithmetic—available on Hopper, Ada, and Blackwell architectures. It delivers faster training and inference while drastically reducing memory consumption, making large‑scale AI models more efficient to develop and deploy.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/NVIDIA/TransformerEngine) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/NVIDIA/TransformerEngine) · [← Back to AI/ML](./README.md)</sub>

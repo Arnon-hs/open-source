@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 12.7k |
-| 🍴 **Forks** | 867 |
+| 🍴 **Forks** | 868 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `php` `read-it-later` `self-hosted` `symfony` `symfony-application` `wallabag`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the wallabag project:
-
-Wallabag is a free, open-source application for saving and organizing web pages, allowing users to classify and read articles at their convenience. This self-hostable platform provides users with complete control over their saved content, free from the constraints of third-party services. By using wallabag, users can save, organize, and access their favorite web pages without any limitations.
+wallabag is an open‑source, self‑hosted read‑it‑later service that lets you save, organize, and tag web articles for offline reading. It provides a clean, distraction‑free interface and supports import/export, full‑text extraction, and integration with browsers and mobile apps, giving you control over your personal content library.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/wallabag/wallabag) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/wallabag/wallabag) · [← Back to Misc](./README.md)</sub>

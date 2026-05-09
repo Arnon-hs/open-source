@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14.4k |
+| ⭐ **Stars** | 14.5k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`administrator` `benchmarking` `debugger` `monitor` `monitor-performance` `monitoring` `performance` `performance-monitoring` `performance-tuning` `process-manager` `process-monitor` `processhacker`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Security
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-System Informer is a free, multi-purpose tool that enables users to monitor system resources, debug software, and detect potential malware threats. Brought to you by Winsider Seminars & Solutions, Inc., this powerful tool offers comprehensive monitoring capabilities for users to maintain system stability and security. With System Informer, users can stay on top of their system's performance and identify potential issues before they become major problems.
+winsiderss/systeminformer is a free, open‑source utility for Windows that provides real‑time monitoring of system resources, detailed process inspection, and advanced debugging features. It helps users track CPU, memory, disk, and network usage, detect suspicious activity, and analyze software behavior to uncover potential malware. The tool is maintained by Winsider Seminars & Solutions, Inc., and is aimed at security professionals and power users who need comprehensive insight into Windows internals.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/winsiderss/systeminformer) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/winsiderss/systeminformer) · [← Back to Security](./README.md)</sub>

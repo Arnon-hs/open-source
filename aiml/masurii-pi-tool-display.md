@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 130 |
-| 🍴 **Forks** | 13 |
+| ⭐ **Stars** | 138 |
+| 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`coding-agent` `compact` `developer-tools` `hack` `mcp` `opencode-style` `pi` `pi-coding-agent` `pi-extension` `pi-tui` `terminal-ui` `tool-rendering`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the MasuRii/pi-tool-display project:
-
-The MasuRii/pi-tool-display project is an open-source extension that enhances the user experience for Pi coding agents by providing compact rendering, diff visualization, and output truncation features. It streamlines the display of verbose tool output, hiding and collapsing unnecessary information for a cleaner Terminal User Interface (TUI). This tool is particularly useful for AI/ML development, improving productivity and reducing clutter in development workflows.
+MasuRii/pi-tool-display is a lightweight extension for the Pi coding agent that streamlines tool call rendering in a terminal UI. It automatically hides, collapses, and truncates verbose tool output, providing clear diff visualizations and concise display of results. Ideal for developers who want a cleaner, more focused interface when working with AI‑driven tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/MasuRii/pi-tool-display) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/MasuRii/pi-tool-display) · [← Back to AI/ML](./README.md)</sub>

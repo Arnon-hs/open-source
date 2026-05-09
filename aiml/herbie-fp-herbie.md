@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 872 |
+| ⭐ **Stars** | 873 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`developer-tools` `floating-point` `herbie` `numerical-methods` `racket` `synthesis`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Herbie is an open-source project that optimizes floating-point expressions to improve their accuracy. It uses machine learning techniques to analyze and refine mathematical formulas, reducing potential errors caused by floating-point arithmetic. By applying Herbie to numerical computations, developers can enhance the reliability and precision of their AI/ML and other numerical applications.
+Herbie is an open‑source tool that automatically improves the numerical accuracy of floating‑point expressions by applying algebraic rewrites and search techniques to find more stable formulations. It integrates with a variety of programming languages and development environments, making it a practical DevTools solution for developers and researchers who need precise numerical results. By reducing rounding errors, Herbie helps prevent subtle bugs in scientific, engineering, and machine‑learning code.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/herbie-fp/herbie) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/herbie-fp/herbie) · [← Back to AI/ML](./README.md)</sub>

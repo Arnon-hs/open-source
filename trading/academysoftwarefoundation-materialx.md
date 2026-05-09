@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 421 |
+| 🍴 **Forks** | 422 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d-graphics` `computer-graphics` `materialx` `physically-based-rendering` `real-time-rendering` `vfx`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading
 
 ## 📝 Summary
 
-MaterialX is an open standard that enables the seamless exchange of complex materials and look-development content between various applications and renderers. This open-source project facilitates collaboration and interoperability in the visual effects and animation industries by standardizing material formats. By adopting MaterialX, developers and artists can efficiently share and reuse rich material content across different software tools and platforms.
+MaterialX is an open‑source, vendor‑agnostic standard that enables the seamless exchange of rich material and look‑development data between 3D applications, renderers, and content creation pipelines. It provides a unified, extensible file format and library of shader nodes, allowing artists and developers to share complex surface, volume, and displacement definitions without loss of fidelity. The project fosters interoperability across the visual effects, animation, and real‑time graphics industries.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/AcademySoftwareFoundation/MaterialX) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/AcademySoftwareFoundation/MaterialX) · [← Back to Trading](./README.md)</sub>

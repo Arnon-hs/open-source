@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11.1k |
-| 🍴 **Forks** | 824 |
+| 🍴 **Forks** | 830 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chatgpt-app` `code-completion` `copilot` `cron` `deepseek-r1` `docker` `go` `letsencrypt` `linux` `macos` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the 0xJacky/nginx-ui project:
-
-0xJacky/nginx-ui is an open-source web interface for managing Nginx servers, providing a user-friendly and intuitive alternative to traditional command-line interfaces. This project offers a comprehensive set of features for monitoring, configuring, and troubleshooting Nginx instances, making it a valuable tool for DevOps and system administrators. With its customizable design and extensive functionality, 0xJacky/nginx-ui simplifies Nginx management and enhances productivity.
+0xJacky/nginx‑ui is an open‑source web interface that simplifies the management of Nginx servers. It provides a clean frontend dashboard along with a backend API for configuring virtual hosts, SSL certificates, and common Nginx directives, making DevOps and infrastructure tasks more accessible. The project is geared toward developers and system administrators who need a lightweight, user‑friendly alternative to traditional Nginx configuration workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/0xJacky/nginx-ui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/0xJacky/nginx-ui) · [← Back to Frontend](./README.md)</sub>

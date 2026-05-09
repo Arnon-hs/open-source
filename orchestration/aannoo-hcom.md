@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 252 |
-| 🍴 **Forks** | 32 |
+| ⭐ **Stars** | 257 |
+| 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-skills` `ai` `ai-agents` `ai-tools` `automation` `claude` `claude-code` `claude-code-hooks` `cli` `codex` `coding-agent`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The aannoo/hcom project is an open-source initiative that enables the orchestration of AI agents across multiple terminals, allowing for communication, observation, and spawning of these agents in a seamless manner. Utilizing technologies such as Claude Code, Gemini CLI, Codex, and OpenCode, this project empowers developers to harness the potential of AI/ML in a more integrated and efficient way. It serves as a DevTools platform for building and managing complex AI systems.
+**aannoo/hcom** is an open‑source orchestration toolkit that lets AI agents communicate, monitor, and launch one another directly from terminal sessions. It integrates popular large‑model interfaces such as Claude Code, Gemini CLI, Codex, and OpenCode, enabling seamless multi‑agent workflows for development, testing, and automation tasks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/aannoo/hcom) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/aannoo/hcom) · [← Back to Orchestration](./README.md)</sub>

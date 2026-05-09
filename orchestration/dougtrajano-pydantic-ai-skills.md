@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 279 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 284 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `agent-skills` `agentic-ai` `ai-agents` `claude-code` `pydantic-ai` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The pydantic-ai-skills package provides Agent Skills support for Pydantic AI, enabling progressive disclosure and seamless integration with AI/ML workflows. This open-source project offers support for both filesystem and programmatic skills, catering to diverse use cases. By leveraging this package, developers can simplify the process of integrating AI skills into their applications.
+DougTrajano/pydantic‑ai‑skills is an open‑source library that adds **Agent Skills** (agentskills.io) support to the Pydantic AI ecosystem, enabling progressive disclosure of capabilities. It provides ready‑to‑use skill definitions for both filesystem interactions and custom programmatic actions, simplifying the orchestration of AI‑driven workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/DougTrajano/pydantic-ai-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/DougTrajano/pydantic-ai-skills) · [← Back to Orchestration](./README.md)</sub>

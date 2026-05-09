@@ -2,22 +2,22 @@
 
 [![Stars](https://img.shields.io/github/stars/UPinar/contrastapi?style=flat-square&color=yellow)](https://github.com/UPinar/contrastapi/stargazers) [![Forks](https://img.shields.io/github/forks/UPinar/contrastapi?style=flat-square&color=blue)](https://github.com/UPinar/contrastapi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Security intelligence MCP server for AI agents — 47 tools + 7 Resources + 3 Prompts: CVE/EPSS/KEV (340K+), MITRE CWE/ATLAS/D3FEND, domain recon, IOC threat intel, OSINT, code security, web intelligence (robots.txt, redirects, email verify, brand, SEO). Free, no API key, 100 req/hr.
+> MCP server with 49 security intelligence tools — CVE/KEV, MITRE ATLAS+D3FEND, domain & web intel, threat intel.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 22 |
+| ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-security` `api` `claude` `cve` `cybersecurity` `domain-recon` `email-validation` `llm-tools` `mcp` `mitre-atlas` `mitre-d3fend`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the UPinar/contrastapi project:
-
-UPinar/contrastapi is an open-source, comprehensive security intelligence API and MCP server designed to empower AI agents with real-time threat intelligence. This robust platform offers a wide range of tools and endpoints for tasks such as vulnerability scanning, domain auditing, IP threat reporting, and code scanning, making it an essential tool for AI-driven security solutions. With over 40 endpoints and 33 tools, contrastapi provides unparalleled security intelligence capabilities for various industries and applications.
+UPinar/contrastapi is an open‑source MCP (Message Control Protocol) server that aggregates 49 security‑intelligence utilities, providing streamlined access to CVE/KEV data, MITRE ATT&CK and D3FEND frameworks, as well as domain, web, and threat intelligence feeds. Designed for backend and AI/ML workflows, it enables developers and security teams to query, correlate, and automate threat analysis within a single, extensible API.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/UPinar/contrastapi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/UPinar/contrastapi) · [← Back to AI/ML](./README.md)</sub>

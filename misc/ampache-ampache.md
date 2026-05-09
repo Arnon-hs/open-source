@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 603 |
+| 🍴 **Forks** | 602 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Ampache is a web-based audio/video streaming application and file manager that enables users to access their media collections from anywhere using an internet-enabled device. This open-source project offers a user-friendly interface to manage and stream music, videos, and other media files, making it accessible across various platforms. With Ampache, users can centralize their media libraries and enjoy seamless streaming on a wide range of devices.
+Ampache is an open‑source, web‑based media server that lets you stream and manage your audio and video collections from any internet‑connected device. It provides a responsive interface for browsing, organizing, and playing media files, supporting a wide range of formats and client applications. With built‑in user authentication and extensive API support, Ampache makes remote access to personal music and video libraries simple and secure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/ampache/ampache) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ampache/ampache) · [← Back to Misc](./README.md)</sub>

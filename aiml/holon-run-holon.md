@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-runtime` `ai-agents` `ai-infrastructure` `developer-tools` `local-first`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a summary of the holon-run/holon project:
-
-Holon is an open-source project that leverages AI coding agents to automate the process of turning issues into PR-ready patches and summaries. This tool allows users to run AI-powered coding agents headlessly, either locally or in continuous integration (CI) pipelines, without manual supervision. By doing so, Holon streamlines the development process and increases efficiency.
+Holon is an open‑source, local‑first runtime that lets developers embed AI agents directly into their workspaces, enabling “wake‑up” interactions and the orchestration of long‑running tasks without relying on cloud services. It provides a lightweight framework for building, managing, and scaling AI‑driven automation across development, DevOps, and infrastructure workflows, while keeping data and execution under the user’s control.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/holon-run/holon) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/holon-run/holon) · [← Back to AI/ML](./README.md)</sub>

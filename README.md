@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3459** |
+| 🗂️ **Total projects** | **3499** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1378 | [Browse →](./aiml/) |
-| 📦 **Misc** | 541 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 352 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 341 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 183 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 177 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 1395 | [Browse →](./aiml/) |
+| 📦 **Misc** | 548 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 355 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 348 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 186 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 178 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 136 | [Browse →](./crypto/) |
 | 📊 **Data** | 81 | [Browse →](./data/) |
 | 💳 **Payments** | 80 | [Browse →](./payments/) |
-| 📈 **Trading** | 52 | [Browse →](./trading/) |
+| 📈 **Trading** | 53 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 47 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 40 | [Browse →](./mobile/) |
-| 🔐 **Security** | 30 | [Browse →](./security/) |
+| 🔐 **Security** | 31 | [Browse →](./security/) |
 | ✨ **Design** | 10 | [Browse →](./design/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [projectcalico/calico](./devopsinfra/projectcalico-calico.md) | ⭐ 7.2k | DevOps & Infra |
-| 2 | [influxdata/influxdb](./frontend/influxdata-influxdb.md) | ⭐ 31.5k | Frontend |
-| 3 | [nukeop/nuclear](./aiml/nukeop-nuclear.md) | ⭐ 17.5k | AI/ML |
-| 4 | [kedro-org/kedro](./aiml/kedro-org-kedro.md) | ⭐ 10.9k | AI/ML |
-| 5 | [payloadcms/payload](./frontend/payloadcms-payload.md) | ⭐ 42.3k | Frontend |
-| 6 | [Lissy93/dashy](./frontend/lissy93-dashy.md) | ⭐ 25k | Frontend |
-| 7 | [gfx-rs/wgpu](./backend/gfx-rs-wgpu.md) | ⭐ 17.1k | Backend |
-| 8 | [jhipster/generator-jhipster](./frontend/jhipster-generator-jhipster.md) | ⭐ 22.4k | Frontend |
-| 9 | [reactos/reactos](./frontend/reactos-reactos.md) | ⭐ 17.5k | Frontend |
-| 10 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
+| 1 | [JustArchiNET/ArchiSteamFarm](./backend/justarchinet-archisteamfarm.md) | ⭐ 13.3k | Backend |
+| 2 | [winsiderss/systeminformer](./security/winsiderss-systeminformer.md) | ⭐ 14.5k | Security |
+| 3 | [projectcalico/calico](./devopsinfra/projectcalico-calico.md) | ⭐ 7.2k | DevOps & Infra |
+| 4 | [influxdata/influxdb](./frontend/influxdata-influxdb.md) | ⭐ 31.5k | Frontend |
+| 5 | [nukeop/nuclear](./aiml/nukeop-nuclear.md) | ⭐ 17.5k | AI/ML |
+| 6 | [kedro-org/kedro](./aiml/kedro-org-kedro.md) | ⭐ 10.9k | AI/ML |
+| 7 | [payloadcms/payload](./frontend/payloadcms-payload.md) | ⭐ 42.3k | Frontend |
+| 8 | [Lissy93/dashy](./frontend/lissy93-dashy.md) | ⭐ 25k | Frontend |
+| 9 | [gfx-rs/wgpu](./backend/gfx-rs-wgpu.md) | ⭐ 17.1k | Backend |
+| 10 | [reactos/reactos](./frontend/reactos-reactos.md) | ⭐ 17.5k | Frontend |
 
 ## 🚀 How it works
 

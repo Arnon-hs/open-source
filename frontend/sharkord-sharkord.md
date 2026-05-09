@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 117 |
+| 🍴 **Forks** | 119 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bun` `chat` `data-ownership` `mediasoup` `messaging` `privacy` `realtime` `screen-sharing` `self-hosted` `webrtc`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · Data
 
 ## 📝 Summary
 
-Sharkord is a lightweight, self-hosted, and open-source chat server that offers a range of features including voice, video, text, and screen sharing. Designed for small groups, Sharkord prioritizes user privacy, simplicity, and control over their data, making it an attractive option for those looking for an alternative to traditional chat platforms. By hosting the server locally, users can maintain complete control over their data and communication experience.
+Sharkord is a lightweight, self‑hosted chat server that supports voice, video, text, and screen‑sharing, giving small groups full control over their communications and data. Designed for privacy and simplicity, it combines a modern frontend with a robust backend to deliver an all‑in‑one collaboration platform that can be run on any personal or private server.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Sharkord/sharkord) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Sharkord/sharkord) · [← Back to Frontend](./README.md)</sub>

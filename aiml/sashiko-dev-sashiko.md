@@ -1,6 +1,6 @@
 # sashiko-dev/sashiko
 
-[![Stars](https://img.shields.io/github/stars/sashiko-dev/sashiko?style=flat-square&color=yellow)](https://github.com/sashiko-dev/sashiko/stargazers) [![Forks](https://img.shields.io/github/forks/sashiko-dev/sashiko?style=flat-square&color=blue)](https://github.com/sashiko-dev/sashiko/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sashiko-dev/sashiko?style=flat-square&color=yellow)](https://github.com/sashiko-dev/sashiko/stargazers) [![Forks](https://img.shields.io/github/forks/sashiko-dev/sashiko?style=flat-square&color=blue)](https://github.com/sashiko-dev/sashiko/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic review of Linux Kernel code changes
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 694 |
-| 🍴 **Forks** | 100 |
+| ⭐ **Stars** | 706 |
+| 🍴 **Forks** | 105 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Sashiko is an open-source project that utilizes AI/ML to provide a comprehensive and agent-driven review of Linux Kernel code changes, offering a more thorough and efficient evaluation of kernel updates. This platform aims to improve code quality and stability by identifying potential issues before they become major problems. By leveraging AI-powered analysis, Sashiko enhances the Linux Kernel's overall maintainability and reliability.
+Sashiko is an open‑source tool that applies AI‑driven, agentic review to Linux kernel code changes, automatically analyzing patches for bugs, style violations, performance regressions, and security issues. By integrating large language models with domain‑specific heuristics, it provides detailed, actionable feedback to developers and maintainers, helping to streamline kernel development and improve code quality.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/sashiko-dev/sashiko) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sashiko-dev/sashiko) · [← Back to AI/ML](./README.md)</sub>

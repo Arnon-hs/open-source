@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 327 |
+| 🍴 **Forks** | 328 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cards` `deck` `hacktoberfest` `nextcloud` `organization` `selfhosted` `team`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Nextcloud Deck is an open-source, Kanban-style project and personal management tool designed for Nextcloud users. It provides a Trello-like interface for organizing tasks, projects, and ideas, allowing users to visualize their workflow and stay organized. By integrating with Nextcloud, Deck offers a seamless and secure experience for managing tasks and projects.
+Nextcloud Deck is an open‑source Kanban board app that integrates directly with a Nextcloud server, letting individuals and teams organize tasks, projects, and personal workflows in a Trello‑like interface. It provides customizable boards, cards, labels, and drag‑and‑drop functionality while keeping all data stored securely within the Nextcloud ecosystem. The app is licensed under AGPL‑3.0 and can be extended through plugins and the Nextcloud app store.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nextcloud/deck) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nextcloud/deck) · [← Back to Misc](./README.md)</sub>

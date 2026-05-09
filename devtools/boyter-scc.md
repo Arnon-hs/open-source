@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.4k |
-| 🍴 **Forks** | 316 |
+| 🍴 **Forks** | 317 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `cloc` `code` `complexity` `golang` `linux` `macos` `scc` `sloc` `sloccount` `statistics` `tokei`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The boyter/scc project is an open-source code analysis tool written in Go, offering fast and accurate code counting, complexity calculations, and COCOMO estimates. It leverages the Sloc, Cloc, and Code (scc) algorithm to provide a comprehensive view of code metrics, making it a valuable asset for developers and project managers. This tool enables users to quickly assess and analyze codebases, facilitating better project planning and maintenance.
+boyter/scc is a high‑performance, open‑source code‑counting tool written in pure Go. It quickly computes lines‑of‑code metrics (SLOC, CLOC) while also providing complexity analysis and COCOMO effort estimates, making it useful for developers and project managers who need accurate size and productivity data across many programming languages.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/boyter/scc) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/boyter/scc) · [← Back to DevTools](./README.md)</sub>

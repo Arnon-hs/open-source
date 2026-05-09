@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`archisteamfarm` `automation` `c-sharp` `cli` `cli-app` `crowdin` `csharp` `dotnet` `hacktoberfest` `linux` `steam` `steam-account`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-ArchiSteamFarm is an open-source C# application designed for farming Steam cards from multiple accounts simultaneously, making it an efficient tool for enthusiasts and collectors. This application allows users to automate the process of collecting Steam cards across multiple accounts, saving time and effort. With its backend capabilities and dev tools, ArchiSteamFarm offers a robust solution for those looking to build a comprehensive Steam card collection.
+JustArchiNET/ArchiSteamFarm is an open‑source C# utility designed to automate the farming of Steam trading cards across multiple user accounts at once. It runs as a lightweight backend service, handling daily game playtime, booster pack creation and inventory management without manual intervention. Ideal for developers and power users, it provides a configurable, extensible toolset for efficient Steam card farming.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/JustArchiNET/ArchiSteamFarm) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/JustArchiNET/ArchiSteamFarm) · [← Back to Backend](./README.md)</sub>

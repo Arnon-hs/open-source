@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cargo-subcommand` `cargo-xwin` `clang-cl` `lld` `lld-link` `msvc` `xwin` `xwinbuild`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-"Cargo-xwin" is an open-source tool that simplifies cross-compilation of Rust projects to Windows using the Microsoft Visual C++ (MSVC) compiler. This tool streamlines the process of building and packaging your Rust project for Windows, making it easier to deploy on the platform. By leveraging Cargo's existing features, Cargo-xwin enables seamless integration with the popular Rust package manager.
+rust-cross/cargo-xwin is a command‑line tool that streamlines cross‑compiling Rust projects for the Windows MSVC ABI from any host platform. By integrating seamlessly with Cargo, it automates the setup of the required toolchain, linker, and environment variables, letting developers build Windows binaries without needing a native Windows system. This makes multi‑platform Rust development faster and more accessible.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/rust-cross/cargo-xwin) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/rust-cross/cargo-xwin) · [← Back to Frontend](./README.md)</sub>

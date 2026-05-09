@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 399 |
-| 🍴 **Forks** | 202 |
+| ⭐ **Stars** | 402 |
+| 🍴 **Forks** | 205 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`forge` `gregtech` `gregtech-ceu` `gt` `minecraft` `minecraft-mod` `minecraft-modpack` `terrafirmacraft` `terrafirmagreg` `tfc`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The TerraFirmaGreg-Team/Modpack-Modern is an open-source, AI/ML-focused modpack that combines the features of GregTech and TerraFirmaCraft on Minecraft 1.20.x, offering a unique and immersive gaming experience. This innovative modpack integrates advanced technologies and complex gameplay mechanics, allowing players to explore and experiment with cutting-edge concepts. By merging these two popular mods, the TerraFirmaGreg-Team/Modpack-Modern provides a rich and dynamic environment for players to engage with.
+TerraFirmaGreg-Team/Modpack-Modern is an open‑source Minecraft modpack that seamlessly integrates the advanced technology systems of GregTech with the realistic survival mechanics of TerraFirmaCraft, all built for the 1.20.x version of the game. Designed for players seeking a challenging, immersive experience, the pack combines extensive world‑generation changes, complex crafting chains, and balanced progression to deliver a cohesive, modern gameplay overhaul.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/TerraFirmaGreg-Team/Modpack-Modern) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/TerraFirmaGreg-Team/Modpack-Modern) · [← Back to AI/ML](./README.md)</sub>

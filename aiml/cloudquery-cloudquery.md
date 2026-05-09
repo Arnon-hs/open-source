@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 544 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`airbyte` `attack-surface-management` `aws` `azure` `bigquery` `cspm` `data` `data-analysis` `data-collection` `data-engineering` `data-integration` `elt`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-cloudquery/cloudquery is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 93/100.
+CloudQuery is an open‑source framework for building data pipelines that collect, normalize, and analyze cloud configuration and security information across more than 70 cloud and SaaS providers (including AWS, Azure, and GCP). It enables users to create comprehensive cloud asset inventories and power use‑case solutions such as CSPM, FinOps, and vulnerability management by exporting the data to popular destinations like SQL databases, data warehouses, or SIEMs. The project provides both backend components for data extraction and transformation and a frontend UI for visualizing and querying the collected metadata.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/cloudquery/cloudquery) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/cloudquery/cloudquery) · [← Back to AI/ML](./README.md)</sub>

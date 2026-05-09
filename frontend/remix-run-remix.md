@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 32.8k |
+| ⭐ **Stars** | 32.9k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Remix is an open-source project that empowers developers to create robust and modern websites by leveraging web fundamentals. This framework provides a solid foundation for building resilient user experiences, enabling developers to craft high-quality web applications. With Remix, developers can focus on building better websites that are fast, reliable, and accessible.
+Remix is an open‑source full‑stack web framework that lets developers build modern, high‑performance sites using native web fundamentals like HTML, CSS, and JavaScript. By handling data loading, routing, and caching on the server while preserving a seamless client‑side experience, Remix enables resilient, SEO‑friendly user interfaces without relying on heavy abstractions. It’s geared toward frontend teams seeking a streamlined, future‑ready approach to building fast, interactive web applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/remix-run/remix) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/remix-run/remix) · [← Back to Frontend](./README.md)</sub>
