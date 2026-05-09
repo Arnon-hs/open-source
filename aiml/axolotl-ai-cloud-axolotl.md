@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11.8k |
+| ⭐ **Stars** | 11.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fine-tuning` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Axolotl is an open-source AI project that enables users to engage with intelligent systems through natural language. It allows users to interact with AI models by asking questions, providing a user-friendly interface for exploring and utilizing AI capabilities. This project is a part of the axolotl-ai-cloud initiative, focusing on developing and sharing AI-related tools and technologies.
+Axolotl is an open‑source framework that streamlines the creation, management, and deployment of AI/ML models for question‑answering tasks. It provides a cloud‑native pipeline—complete with data preprocessing, model training, and inference APIs—so developers can quickly build and scale intelligent Q&A systems. The project emphasizes modularity and ease of integration, making it suitable for both research experiments and production applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/axolotl-ai-cloud/axolotl) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/axolotl-ai-cloud/axolotl) · [← Back to AI/ML](./README.md)</sub>

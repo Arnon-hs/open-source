@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 363 |
+| ⭐ **Stars** | 369 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`emulator` `nostalgia` `reverse-engineering` `rust` `shockwave` `tooling` `vm` `wasm` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The dirplayer-rs project is an open-source, web-compatible Shockwave Player emulator developed in Rust, enabling the playback of Shockwave content on modern web browsers. This emulator is built to facilitate the reuse of legacy content, allowing users to access and interact with Shockwave files in a compatible environment. It serves as a valuable tool for developers and content creators seeking to preserve and utilize archived multimedia assets.
+DirPlayer‑RS is an open‑source emulator that recreates the legacy Shockwave Player functionality within modern web environments, written entirely in Rust for safety and performance. It provides developers with a lightweight, cross‑platform library for loading and playing Shockwave content directly in browsers without requiring the original plugin. The project is packaged as a DevTools utility, making it easy to integrate into web applications and tooling pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/igorlira/dirplayer-rs) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/igorlira/dirplayer-rs) · [← Back to DevTools](./README.md)</sub>

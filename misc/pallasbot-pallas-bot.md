@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 460 |
-| 🍴 **Forks** | 79 |
+| ⭐ **Stars** | 462 |
+| 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the PallasBot/Pallas-Bot project:
-
-PallasBot/Pallas-Bot is an open-source project that offers automated gameplay support for the popular game "Hollow Knight: Silksong" also known as "" (or '明日方舟' in Chinese), specifically centered around the character '帕拉斯' (Pallas). This project aims to provide a convenient and efficient experience for players through the use of a bot.
+PallasBot (also known as Pallas‑Bot) is an open‑source chatbot tailored for the mobile game *Arknights* (《明日方舟》). It provides automated assistance such as in‑game information lookup, strategy tips, and community interaction for players, and can be integrated into various messaging platforms. The project is licensed under an open‑source license and is maintained as a miscellaneous utility for the Arknights community.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/PallasBot/Pallas-Bot) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/PallasBot/Pallas-Bot) · [← Back to Misc](./README.md)</sub>

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 971 |
+| ⭐ **Stars** | 974 |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-This open-source project, taiwan-md, aims to provide a comprehensive and accurate knowledge base about Taiwan, accessible to the global community. As an AI-friendly resource, it enables developers and researchers to leverage this information for various applications, promoting a deeper understanding of Taiwan on a worldwide scale. By contributing to this project, users can help create a more inclusive and nuanced representation of Taiwan.
+frank890417/taiwan-md is an open‑source, AI‑friendly knowledge base that compiles comprehensive information about Taiwan in both Chinese and English. Designed for easy integration with large language models and other AI tools, the repository provides well‑structured markdown content covering Taiwan’s geography, history, culture, politics, and more. Its goal is to make accurate, up‑to‑date Taiwan data readily accessible to developers, researchers, and anyone interested in learning about the island.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/frank890417/taiwan-md) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/frank890417/taiwan-md) · [← Back to AI/ML](./README.md)</sub>

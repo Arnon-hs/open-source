@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**111 projects** in this category.
+**112 projects** in this category.
 
 ## Projects
 
@@ -116,9 +116,10 @@
 | 106 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 44/100 |
 | 107 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 44/100 |
 | 108 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 43/100 |
-| 109 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 39/100 |
-| 110 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
-| 111 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
+| 109 | [AdrianEddy/telemetry-parser](./adrianeddy-telemetry-parser.md) | ⭐ 264 | Rust | 42/100 |
+| 110 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 39/100 |
+| 111 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
+| 112 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
 
 ---
 

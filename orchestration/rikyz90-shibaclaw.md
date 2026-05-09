@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 47 |
+| ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `ai-agent` `ai-agents` `automation` `chatbot` `docker` `llm` `matrix` `mcp` `multi-agent` `ollama` `open-source`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the RikyZ90/ShibaClaw project:
-
-ShibaClaw is an open-source, self-hosted multi-agent AI chatbot platform that supports various messaging protocols, including Telegram and Matrix. Built with security in mind, it is hardened and comes with Docker support, making it easy to deploy and manage. ShibaClaw is compatible with popular AI services such as Ollama, OpenAI, and OpenRouter, and is developed in Python.
+RikyZ90/ShibaClaw is a self‑hosted, security‑focused AI agent platform that integrates with 22 different AI providers and offers 11 chat channels, all accessible through a web UI. It features a three‑level memory system, customizable cron jobs, heartbeat monitoring, extensible skills, and a multi‑container orchestration (MCP) framework, making it a versatile tool for orchestrating AI workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/RikyZ90/ShibaClaw) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/RikyZ90/ShibaClaw) · [← Back to Orchestration](./README.md)</sub>

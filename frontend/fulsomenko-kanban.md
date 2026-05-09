@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 98 |
-| 🍴 **Forks** | 4 |
+| ⭐ **Stars** | 103 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agile` `kanban` `kanban-board` `productivity` `project` `project-management` `projects` `ratatui` `ratatui-rs` `rust` `scrum` `task`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Product
 
 ## 📝 Summary
 
-The kanban project is an open-source, terminal-based project management solution that streamlines workflow and organization. This tool enables users to effectively manage tasks, track progress, and collaborate with team members in a streamlined and efficient manner. By leveraging the terminal, kanban provides a simple yet powerful interface for project management.
+Fulsomenko/kanban is a lightweight, terminal‑based project management tool that lets users create, organize, and track tasks using a simple Kanban board interface directly from the command line. Designed for developers and power users, it offers an intuitive frontend for quickly moving cards across columns, filtering by tags or assignees, and persisting data locally without the overhead of a web UI. Ideal for teams seeking a fast, text‑centric workflow while still benefiting from visual task management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/fulsomenko/kanban) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/fulsomenko/kanban) · [← Back to Frontend](./README.md)</sub>

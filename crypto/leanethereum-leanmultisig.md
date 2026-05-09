@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 110 |
-| 🍴 **Forks** | 43 |
+| ⭐ **Stars** | 112 |
+| 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Crypto
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the leanEthereum/leanMultisig project:
-
-leanEthereum/leanMultisig is an open-source project that provides a minimal Zero-Knowledge Virtual Machine (zkVM) specifically designed for aggregating hash-based signatures. This innovative solution offers a lightweight and efficient approach to cryptographic operations, enabling secure and scalable multi-signature transactions. By leveraging zkVM technology, leanEthereum/leanMultisig facilitates faster and more private transactions on blockchain networks.
+leanEthereum/leanMultisig is an open‑source, minimal zkVM designed specifically for aggregating hash‑based signatures in a lightweight, efficient manner. It provides a streamlined platform for building and verifying multisignature schemes using zero‑knowledge proofs, targeting developers who need high‑performance cryptographic aggregation without unnecessary complexity.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/leanEthereum/leanMultisig) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/leanEthereum/leanMultisig) · [← Back to Crypto](./README.md)</sub>

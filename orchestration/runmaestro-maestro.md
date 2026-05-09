@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 296 |
+| ⭐ **Stars** | 2.9k |
+| 🍴 **Forks** | 301 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude-code` `codex` `generative-ai` `opencode`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Maestro is an open-source Agent Orchestration Command Center that enables scalable and efficient management of distributed systems and AI/ML workflows. It provides a centralized control plane for orchestrating tasks, monitoring performance, and automating decision-making processes. With Maestro, developers can streamline the complexity of large-scale deployments and optimize resource utilization.
+RunMaestro/Maestro is an open‑source command‑center platform for orchestrating AI/ML agents and automated workflows. It provides a unified interface to define, schedule, monitor, and manage heterogeneous agents—ranging from simple scripts to complex machine‑learning models—enabling seamless coordination across distributed environments. Built with extensibility in mind, Maestro supports plug‑in integrations, real‑time analytics, and policy‑driven execution for robust, scalable orchestration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/RunMaestro/Maestro) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/RunMaestro/Maestro) · [← Back to Orchestration](./README.md)</sub>

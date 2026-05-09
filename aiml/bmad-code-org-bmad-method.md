@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 46.4k |
+| ⭐ **Stars** | 46.7k |
 | 🍴 **Forks** | 5.5k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the BMAD-METHOD project:
-
-BMAD-METHOD is an open-source framework that leverages AI and machine learning to accelerate agile development processes. This innovative method streamlines software development by integrating data-driven insights and AI-driven decision-making, enabling teams to work more efficiently and effectively. By harnessing the power of AI, BMAD-METHOD aims to revolutionize the way software is developed, deployed, and maintained.
+BMAD-METHOD is an open‑source framework that combines agile development practices with AI‑driven automation to accelerate software delivery. It provides a set‑of reusable components, pipelines, and guidelines that enable teams to integrate machine‑learning models directly into the development lifecycle, fostering rapid iteration, continuous testing, and data‑informed decision making. The project targets developers and data scientists looking to streamline agile workflows while leveraging intelligent automation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/bmad-code-org/BMAD-METHOD) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/bmad-code-org/BMAD-METHOD) · [← Back to AI/ML](./README.md)</sub>

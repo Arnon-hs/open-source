@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bdf` `dsl` `jacobian` `mass-matrix` `ode` `ode-integrator` `ode-solver` `runge-kutta` `rust` `scientific-computing` `solver` `sparse-matrix`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The diffsol library is an open-source, Rust-based library designed for solving ordinary differential equations (ODEs). It provides a robust and efficient framework for tackling various types of ODEs, enabling users to quickly implement and test their own solvers. With diffsol, researchers and developers can leverage Rust's performance and safety features to tackle complex ODE-based problems.
+martinjrobins/diffsol is a Rust library that provides numerical solvers for ordinary differential equations (ODEs). It offers a clean, idiomatic API for defining ODE systems and selecting from various integration methods, making it easy to incorporate high‑performance, safe ODE solving into Rust applications. The project is open‑source and designed for extensibility across scientific, engineering, and simulation domains.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/martinjrobins/diffsol) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/martinjrobins/diffsol) · [← Back to Misc](./README.md)</sub>
